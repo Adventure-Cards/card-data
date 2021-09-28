@@ -1,0 +1,45 @@
+0,Creature,Paladin
+1,Creature,Warlock
+2,Creature,Troll
+3,Creature,Wolf
+4,Creature,Light Ancient Wizard of the Sky
+5,Creature,Light Undead Phoenix of the Sky
+6,Enchantment,Strength
+7,Spell,Torment
+8,Enchantment,Flight
+9,Enchantment,Invert
+10,Artifact,Clever Miracle Boots
+11,Spell,Vortex
+12,Enchantment,Age
+13,Spell,Fury
+14,Enchantment,Hateful Agony
+15,Enchantment,Strength
+16,Spell,Empyrean Miracle Sorrow
+17,Spell,Lightning
+18,Creature,Death Monk Elf of the Polar Woods
+19,Spell,Hateful Assault
+20,Enchantment,Age
+21,Creature,Spider
+22,Spell,Fireball
+23,Spell,Burst
+24,Artifact,Corpse Staff
+25,Creature,Berserker
+26,Enchantment,Lethargy
+27,Spell,Reanimate
+28,Creature,Spider
+29,Creature,Wolf
+30,Enchantment,Necro Agony
+31,Creature,Paladin
+32,Creature,Death Ancient Demon of the Dead
+33,Creature,Fairy
+34,Creature,Berserker
+35,Spell,Tempest
+36,Spell,Infuriate
+37,Creature,Eagle
+38,Creature,Ghoul
+39,Enchantment,Ardent Oblivion Haste
+40,Spell,Lunar Gale
+41,Creature,Eagle
+42,Creature,Eagle
+43,Creature,Wolf
+44,Creature,Magi

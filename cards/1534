@@ -1,0 +1,45 @@
+0,Creature,Ghoul
+1,Creature,Wolf
+2,Spell,Vortex
+3,Spell,Fire
+4,Creature,Eagle
+5,Creature,Wolf
+6,Enchantment,Lethargy
+7,Creature,Berserker
+8,Creature,Fairy
+9,Creature,Eagle
+10,Creature,Wolf
+11,Creature,Ghoul
+12,Artifact,Mighty Victory Amulet
+13,Enchantment,Zealous Oblivion Blight
+14,Spell,Life Stricken
+15,Creature,Warlock
+16,Creature,Wolf
+17,Creature,Skin-Walker
+18,Creature,Skin-Walker
+19,Creature,Eagle
+20,Artifact,Helmet
+21,Artifact,Victory Potion
+22,Spell,Freeze
+23,Artifact,Gauntlet
+24,Spell,Lightning
+25,Enchantment,Alacrity
+26,Spell,Tempest
+27,Creature,Death Lord Orc
+28,Enchantment,Deathgrip
+29,Artifact,Clever Frigid Potion
+30,Creature,Frozen Ancient Demon of the Void
+31,Enchantment,Zealous Gloom Alacrity
+32,Artifact,Sword
+33,Artifact,Cataclysmic Helmet
+34,Creature,Wolf
+35,Spell,Freeze
+36,Creature,Warlock
+37,Enchantment,Invert
+38,Artifact,Bow
+39,Artifact,Boots
+40,Creature,Fairy
+41,Creature,Death Merchant Hydra
+42,Enchantment,Alacrity
+43,Artifact,Shimmering Crown
+44,Enchantment,Grim Drain

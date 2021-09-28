@@ -1,0 +1,45 @@
+0,Creature,Troll
+1,Creature,Ghoul
+2,Creature,Eagle
+3,Creature,Ghoul
+4,Spell,Urgent Life Revive
+5,Spell,Ice
+6,Creature,Magi
+7,Spell,Urgent Lunar Tempest
+8,Creature,Magi
+9,Creature,Magi
+10,Creature,Fairy
+11,Artifact,Boots
+12,Creature,Skin-Walker
+13,Creature,Frozen Merchant Dwarf of the Border
+14,Creature,Fairy
+15,Creature,Warlock
+16,Enchantment,Shade
+17,Spell,Fire
+18,Spell,Frost
+19,Artifact,Cloak
+20,Creature,Fairy
+21,Enchantment,Corpse Agony
+22,Creature,Berserker
+23,Creature,Dark King Dwarf of the Bright Mountains
+24,Creature,Warlock
+25,Enchantment,Forged Lethargy
+26,Spell,Ice
+27,Creature,Magi
+28,Creature,Frozen Monk Giant of the Golden Palace
+29,Spell,Reanimate
+30,Creature,Paladin
+31,Creature,Death King Dwarf of the Arctic Blizzards
+32,Artifact,Shield
+33,Artifact,Divine Robe
+34,Enchantment,Haste
+35,Creature,Wolf
+36,Spell,Frenzy
+37,Creature,Paladin
+38,Artifact,Divine Robe
+39,Creature,Magi
+40,Creature,Wolf
+41,Creature,Fairy
+42,Creature,Earth Priest Hydra
+43,Spell,Apocalypse Frenzy
+44,Creature,Spider

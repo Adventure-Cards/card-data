@@ -1,0 +1,45 @@
+0,Creature,Eagle
+1,Enchantment,Strength
+2,Creature,Eagle
+3,Spell,Victory Revive
+4,Artifact,Hateful Scythe
+5,Creature,Fairy
+6,Enchantment,Solar Lethargy
+7,Spell,Assault
+8,Spell,Cataclysmic Maelstrom
+9,Creature,Magi
+10,Creature,Ghoul
+11,Spell,Life Vortex
+12,Enchantment,Haste
+13,Spell,Stun
+14,Creature,Spider
+15,Artifact,Apocalypse Tome
+16,Creature,Ghoul
+17,Creature,Troll
+18,Creature,Magi
+19,Spell,Sorrow Sorrow
+20,Enchantment,Invert
+21,Creature,Skin-Walker
+22,Creature,Dark Lord Orc
+23,Enchantment,Haste
+24,Creature,Berserker
+25,Spell,Ardent Dark Fire
+26,Enchantment,Shade
+27,Creature,Magi
+28,Artifact,Ring
+29,Artifact,Helm
+30,Spell,Corpse Stun
+31,Artifact,Staff
+32,Spell,Dire Grim Freeze
+33,Spell,Ice
+34,Creature,Dark Grand Wizard of Illusion
+35,Creature,Ghoul
+36,Spell,Assault
+37,Creature,Eagle
+38,Creature,Paladin
+39,Creature,Berserker
+40,Creature,Paladin
+41,Enchantment,Irate Apocalypse Blight
+42,Spell,Hypnosis
+43,Spell,Burn
+44,Enchantment,Invert

@@ -1,0 +1,45 @@
+0,Creature,Paladin
+1,Creature,Wolf
+2,Creature,Spider
+3,Creature,Spider
+4,Creature,Fairy
+5,Creature,Light Merchant Kraken
+6,Creature,Berserker
+7,Spell,Oblivion Freeze
+8,Creature,Snow Undead Orc
+9,Enchantment,Shrink
+10,Enchantment,Haste
+11,Enchantment,Lethargy
+12,Enchantment,Sorrow Shield
+13,Spell,Lightning
+14,Spell,Assault
+15,Spell,Instant Solar Fireball
+16,Creature,Light Nameless Dragon of the Sky
+17,Creature,Eagle
+18,Creature,Ghoul
+19,Creature,Berserker
+20,Spell,Torment
+21,Creature,Dark Lord Elf of the Haven
+22,Creature,Wolf
+23,Creature,Spider
+24,Creature,Fairy
+25,Enchantment,Invert
+26,Enchantment,Drain
+27,Creature,Ghoul
+28,Creature,Wolf
+29,Enchantment,Shrink
+30,Creature,Dark Lord Kraken
+31,Creature,Ghoul
+32,Artifact,Belt
+33,Creature,Paladin
+34,Creature,Snow Priest Orc
+35,Creature,Wolf
+36,Creature,Snow Rogue Hydra
+37,Creature,Magi
+38,Spell,Reanimate
+39,Creature,Ghoul
+40,Creature,Aura Merchant Oni of the Mountains
+41,Spell,Corpse Gravitation
+42,Artifact,Bracers
+43,Creature,Berserker
+44,Spell,Ardent Sorrow Fire

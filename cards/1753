@@ -1,0 +1,45 @@
+0,Creature,Fairy
+1,Spell,Sorrow Fire
+2,Spell,Maelstrom
+3,Creature,Fairy
+4,Enchantment,Age
+5,Creature,Wolf
+6,Creature,Light Warrior Cyclops
+7,Artifact,Scythe
+8,Spell,Ice
+9,Artifact,Cloak
+10,Creature,Aura Monk Goblin
+11,Creature,Spider
+12,Creature,Aura Priest Cyclops
+13,Artifact,Clever Lunar Cloak
+14,Spell,Stun
+15,Artifact,Sigil
+16,Enchantment,Deathgrip
+17,Spell,Freeze
+18,Creature,Fairy
+19,Enchantment,Flight
+20,Spell,Necro Fireball
+21,Enchantment,Lethargy
+22,Spell,Apocalypse Reanimate
+23,Spell,Rage
+24,Spell,Stun
+25,Enchantment,Shade
+26,Creature,Fairy
+27,Enchantment,Blight
+28,Spell,Frost
+29,Creature,Frozen Lord Goblin
+30,Creature,Paladin
+31,Creature,Warlock
+32,Enchantment,Firebreath
+33,Spell,Wall
+34,Enchantment,Forged Strength
+35,Creature,Light Knight Giant of the Low Hills
+36,Spell,Burst
+37,Spell,Lightning
+38,Spell,Torment
+39,Spell,Fire
+40,Enchantment,Potent Dark Shrink
+41,Creature,Death Ancient Demon of the Dead
+42,Creature,Wolf
+43,Creature,Warlock
+44,Creature,Dark Lord Orc

@@ -1,0 +1,45 @@
+0,Creature,Eagle
+1,Creature,Troll
+2,Enchantment,Alacrity
+3,Spell,Frigid Gale
+4,Artifact,Crown
+5,Spell,Hateful Torment
+6,Creature,Ghoul
+7,Spell,Gloom Stricken
+8,Creature,Skin-Walker
+9,Creature,Eagle
+10,Spell,Solar Lightning
+11,Creature,Spider
+12,Creature,Paladin
+13,Artifact,Helmet
+14,Spell,Vortex
+15,Creature,Ghoul
+16,Creature,Death Rogue Cyclops
+17,Artifact,Miracle Helmet
+18,Creature,Berserker
+19,Enchantment,Nature Agony
+20,Creature,Ghoul
+21,Spell,Solar Sorrow
+22,Creature,Warlock
+23,Creature,Wolf
+24,Creature,Death Merchant Cyclops
+25,Enchantment,Invert
+26,Creature,Light Warrior Kraken
+27,Spell,Apocalypse Burst
+28,Artifact,Amulet
+29,Spell,Invisibility
+30,Enchantment,Drain
+31,Spell,Fireball
+32,Enchantment,Lethargy
+33,Creature,Troll
+34,Enchantment,Age
+35,Enchantment,Empyrean Hateful Age
+36,Artifact,Helmet
+37,Creature,Snow Chaos Demon of Hate
+38,Creature,Frozen Warrior Hydra
+39,Creature,Eagle
+40,Enchantment,Instant Lunar Shrink
+41,Spell,Frost
+42,Creature,Warlock
+43,Creature,Fairy
+44,Spell,Assault

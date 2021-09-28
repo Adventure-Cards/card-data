@@ -1,0 +1,45 @@
+0,Creature,Fairy
+1,Spell,Invisibility
+2,Creature,Ghoul
+3,Spell,Stun
+4,Creature,Ghoul
+5,Creature,Berserker
+6,Enchantment,Lethargy
+7,Creature,Warlock
+8,Spell,Victory Pandemonium
+9,Spell,Zealous Chimeric Frenzy
+10,Creature,Magi
+11,Creature,Paladin
+12,Creature,Troll
+13,Spell,Assault
+14,Creature,Snow Fighter Orc
+15,Artifact,Amulet
+16,Artifact,Potion
+17,Creature,Spider
+18,Creature,Death Fighter Goblin
+19,Creature,Spider
+20,Creature,Wolf
+21,Spell,Pandemonium
+22,Creature,Magi
+23,Artifact,Ring
+24,Creature,Eagle
+25,Spell,Empyrean Solar Assault
+26,Enchantment,Lethargy
+27,Creature,Death Assassin Griffin
+28,Enchantment,Blight
+29,Creature,Magi
+30,Enchantment,Invert
+31,Creature,Fairy
+32,Spell,Nature Tempest
+33,Enchantment,Shrink
+34,Enchantment,Dire Grim Shade
+35,Creature,Paladin
+36,Creature,Paladin
+37,Creature,Aura Undead Cyclops
+38,Creature,Skin-Walker
+39,Enchantment,Drain
+40,Creature,Light Time Dragon of the Sky
+41,Artifact,Tome
+42,Artifact,Bow
+43,Creature,Warlock
+44,Creature,Paladin
