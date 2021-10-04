@@ -1,46 +1,46 @@
-==================,DECK,6737,Light
-0,Spell,Common,Infuriate
-1,Artifact,Common,Cloak
-2,Spell,Common,Gale
-3,Creature,Legendary,Frozen Lord Kraken of the Border
-4,Spell,Common,Stun
-5,Enchantment,Common,Shrink
-6,Spell,Rare,Nature Infuriate
-7,Artifact,Common,Scepter
-8,Creature,Common,Paladin
-9,Enchantment,Rare,Life Drain
-10,Spell,Common,Infuriate
-11,Enchantment,Rare,Oblivion Shield
-12,Enchantment,Common,Drain
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Orc
-15,Artifact,Common,Scepter
-16,Enchantment,Common,Strength
-17,Creature,Legendary,Frozen King Orge of the Mountains
-18,Spell,Common,Maelstrom
-19,Creature,Common,Wolf
-20,Creature,Common,Wolf
-21,Creature,Common,Orc
-22,Creature,Common,Elf
-23,Creature,Common,Spider
-24,Creature,Common,Magi
-25,Enchantment,Rare,Life Shrink
-26,Enchantment,Common,Shade
-27,Creature,Common,Eagle
-28,Creature,Mythic,Aura Ancient Wizard of the Light
-29,Creature,Common,Paladin
-30,Enchantment,Mythic,Mighty Lethargy
-31,Spell,Rare,Hateful Sorrow
-32,Creature,Common,Warlock
-33,Enchantment,Mythic,Intense Lethargy
-34,Creature,Common,Dwarf
-35,Creature,Common,Paladin
-36,Creature,Common,Magi
-37,Spell,Common,Infuriate
-38,Creature,Common,Magi
-39,Enchantment,Common,Flight
-40,Enchantment,Common,Age
-41,Artifact,Common,Greaves
-42,Creature,Common,Wolf
-43,Creature,Common,Dwarf
-44,Spell,Common,Invisibility
+==================,DECK,6737
+0,Spell,Burn
+1,Artifact,Cloak
+2,Spell,Reanimate
+3,Creature,Frozen Lord Ogre of the Border
+4,Spell,Rage
+5,Enchantment,Invert
+6,Spell,Shimmering Heal
+7,Artifact,Scepter
+8,Creature,Troll
+9,Enchantment,Apocalypse Invert
+10,Spell,Fire
+11,Enchantment,Victory Blight
+12,Enchantment,Haste
+13,Enchantment,Flight
+14,Creature,Spider
+15,Artifact,Scepter
+16,Enchantment,Haste
+17,Creature,Frozen King Elf of the Mountains
+18,Spell,Infuriate
+19,Creature,Wolf
+20,Creature,Wolf
+21,Creature,Spider
+22,Creature,Warlock
+23,Creature,Paladin
+24,Creature,Fairy
+25,Enchantment,Frigid Haste
+26,Enchantment,Shrink
+27,Creature,Eagle
+28,Creature,Aura Ancient Wizard of the Light
+29,Creature,Troll
+30,Enchantment,Irate Lunar Alacrity
+31,Spell,Gloom Lightning
+32,Creature,Berserker
+33,Enchantment,Instant Hateful Strength
+34,Creature,Magi
+35,Creature,Troll
+36,Creature,Fairy
+37,Spell,Stricken
+38,Creature,Fairy
+39,Enchantment,Flight
+40,Enchantment,Age
+41,Artifact,Greaves
+42,Creature,Wolf
+43,Creature,Magi
+44,Spell,Stricken

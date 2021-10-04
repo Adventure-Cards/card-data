@@ -1,46 +1,46 @@
-==================,DECK,6307,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Earth Lord Hydra
-2,Creature,Common,Dwarf
-3,Spell,Common,Burst
-4,Enchantment,Rare,Lunar Blight
-5,Artifact,Common,Pendant
-6,Enchantment,Mythic,Extreme Invert
-7,Creature,Common,Elf
-8,Creature,Common,Dwarf
-9,Spell,Common,Frenzy
-10,Creature,Common,Dwarf
-11,Spell,Common,Torment
-12,Spell,Common,Maelstrom
-13,Artifact,Rare,Grim Tome
-14,Creature,Common,Warlock
-15,Artifact,Common,Amulet
-16,Creature,Common,Spider
-17,Enchantment,Common,Shade
-18,Creature,Common,Elf
-19,Creature,Common,Spider
-20,Spell,Rare,Nature Stricken
-21,Artifact,Rare,Corpse Ring
-22,Spell,Common,Ice
-23,Creature,Common,Spider
-24,Spell,Rare,Oblivion Frenzy
-25,Enchantment,Common,Shade
-26,Spell,Common,Frenzy
-27,Creature,Common,Eagle
-28,Enchantment,Rare,Life Deathgrip
-29,Enchantment,Common,Blight
-30,Spell,Common,Reanimate
-31,Enchantment,Mythic,Mighty Shield
-32,Creature,Common,Paladin
-33,Creature,Common,Orc
-34,Creature,Common,Ghoul
-35,Artifact,Common,Cloak
-36,Artifact,Common,Boots
-37,Enchantment,Common,Shade
-38,Creature,Rare,Dark Lord Griffin
-39,Creature,Mythic,Frozen Grand Wizard of the Void
-40,Enchantment,Common,Shade
-41,Enchantment,Mythic,Angry Drain
-42,Enchantment,Rare,Solar Shield
-43,Enchantment,Common,Shade
-44,Creature,Common,Warlock
+==================,DECK,6307
+0,Creature,Skin-Walker
+1,Creature,Earth Lord Hydra
+2,Creature,Magi
+3,Spell,Vortex
+4,Enchantment,Cataclysmic Shrink
+5,Artifact,Pendant
+6,Enchantment,Ardent Sorrow Shield
+7,Creature,Warlock
+8,Creature,Magi
+9,Spell,Wall
+10,Creature,Magi
+11,Spell,Ice
+12,Spell,Rage
+13,Artifact,Grim Tome
+14,Creature,Berserker
+15,Artifact,Amulet
+16,Creature,Paladin
+17,Enchantment,Invert
+18,Creature,Warlock
+19,Creature,Paladin
+20,Spell,Corpse Tempest
+21,Artifact,Solar Ring
+22,Spell,Assault
+23,Creature,Paladin
+24,Spell,Life Fury
+25,Enchantment,Blight
+26,Spell,Lightning
+27,Creature,Eagle
+28,Enchantment,Oblivion Blight
+29,Enchantment,Firebreath
+30,Spell,Stun
+31,Enchantment,Instant Gloom Shrink
+32,Creature,Troll
+33,Creature,Spider
+34,Creature,Ghoul
+35,Artifact,Cloak
+36,Artifact,Boots
+37,Enchantment,Haste
+38,Creature,Dark Lord Griffin
+39,Creature,Frozen Grand Wizard of the Void
+40,Enchantment,Deathgrip
+41,Enchantment,Zealous Dark Alacrity
+42,Enchantment,Nature Age
+43,Enchantment,Shield
+44,Creature,Berserker

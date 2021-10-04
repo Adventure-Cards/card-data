@@ -1,46 +1,46 @@
-==================,DECK,5504,Medium
-0,Creature,Common,Spider
-1,Enchantment,Common,Flight
-2,Enchantment,Common,Invert
-3,Enchantment,Common,Deathgrip
-4,Creature,Common,Ghoul
-5,Artifact,Rare,Corpse Ring
-6,Enchantment,Common,Shade
-7,Creature,Common,Magi
-8,Enchantment,Common,Shade
-9,Creature,Common,Eagle
-10,Artifact,Common,Boots
-11,Spell,Common,Reanimate
-12,Creature,Common,Spider
-13,Enchantment,Rare,Hateful Drain
-14,Creature,Common,Magi
-15,Creature,Common,Wolf
-16,Spell,Common,Ice
-17,Creature,Common,Eagle
-18,Enchantment,Common,Shade
-19,Creature,Legendary,Death Undead Giant of the Swamp
-20,Artifact,Legendary,Angry Helm
-21,Enchantment,Mythic,Potent Strength
-22,Creature,Rare,Earth King Skin-Walker
-23,Creature,Common,Ghoul
-24,Spell,Common,Heal
-25,Creature,Common,Ghoul
-26,Creature,Rare,Light Assassin Fairy
-27,Creature,Common,Paladin
-28,Creature,Rare,Death Fighter Griffin
-29,Artifact,Common,Bow
-30,Spell,Rare,Oblivion Rage
-31,Creature,Common,Dwarf
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Shrink
-34,Enchantment,Common,Haste
-35,Creature,Rare,Death Thief Berserker
-36,Enchantment,Common,Age
-37,Creature,Common,Ghoul
-38,Artifact,Common,Belt
-39,Creature,Common,Goblin
-40,Spell,Common,Gravitation
-41,Creature,Rare,Earth Monk Minotaur
-42,Creature,Rare,Light Lord Berserker
-43,Enchantment,Rare,Frigid Shield
-44,Spell,Rare,Forged Torment
+==================,DECK,5504
+0,Creature,Paladin
+1,Enchantment,Drain
+2,Enchantment,Alacrity
+3,Enchantment,Shrink
+4,Creature,Ghoul
+5,Artifact,Solar Ring
+6,Enchantment,Strength
+7,Creature,Fairy
+8,Enchantment,Shield
+9,Creature,Eagle
+10,Artifact,Boots
+11,Spell,Hypnosis
+12,Creature,Paladin
+13,Enchantment,Dark Shrink
+14,Creature,Fairy
+15,Creature,Wolf
+16,Spell,Invisibility
+17,Creature,Eagle
+18,Enchantment,Shield
+19,Creature,Death Undead Dwarf of the Swamp
+20,Artifact,Empyrean Lunar Helm
+21,Enchantment,Dire Nimble Shade
+22,Creature,Earth King Orc
+23,Creature,Ghoul
+24,Spell,Burn
+25,Creature,Ghoul
+26,Creature,Light Assassin Kraken
+27,Creature,Troll
+28,Creature,Death Fighter Griffin
+29,Artifact,Bow
+30,Spell,Life Infuriate
+31,Creature,Magi
+32,Creature,Magi
+33,Enchantment,Alacrity
+34,Enchantment,Drain
+35,Creature,Death Thief Goblin
+36,Enchantment,Strength
+37,Creature,Ghoul
+38,Artifact,Belt
+39,Creature,Skin-Walker
+40,Spell,Heal
+41,Creature,Earth Monk Cyclops
+42,Creature,Light Lord Goblin
+43,Enchantment,Victory Blight
+44,Spell,Cataclysmic Rage

@@ -1,46 +1,46 @@
-==================,DECK,7623,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Dwarf
-2,Creature,Common,Wolf
-3,Artifact,Common,Divine Robe
-4,Creature,Common,Dwarf
-5,Creature,Rare,Dark Priest Minotaur
-6,Enchantment,Common,Deathgrip
-7,Artifact,Common,Scythe
-8,Creature,Rare,Death Rogue Fairy
-9,Creature,Common,Paladin
-10,Enchantment,Common,Alacrity
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Shield
-13,Creature,Common,Wolf
-14,Creature,Common,Orc
-15,Enchantment,Common,Invert
-16,Spell,Common,Ice
-17,Creature,Rare,Dark Knight Griffin
-18,Creature,Common,Wolf
-19,Artifact,Common,Staff
-20,Creature,Common,Warlock
-21,Enchantment,Common,Drain
-22,Creature,Common,Dwarf
-23,Creature,Common,Eagle
-24,Creature,Common,Ghoul
-25,Enchantment,Common,Drain
-26,Creature,Rare,Snow Rogue Skin-Walker
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Creature,Rare,Aura Lord Berserker
-30,Creature,Legendary,Death Priest Kraken of the Polar Woods
-31,Spell,Rare,Life Sorrow
-32,Enchantment,Common,Drain
-33,Creature,Common,Elf
-34,Creature,Common,Magi
-35,Creature,Rare,Frozen Monk Griffin
-36,Enchantment,Common,Blight
-37,Creature,Common,Paladin
-38,Spell,Common,Wall
-39,Creature,Common,Dwarf
-40,Creature,Common,Warlock
-41,Creature,Common,Eagle
-42,Spell,Rare,Shimmering Fury
-43,Enchantment,Common,Strength
-44,Spell,Common,Burn
+==================,DECK,7623
+0,Creature,Eagle
+1,Creature,Magi
+2,Creature,Wolf
+3,Artifact,Divine Robe
+4,Creature,Magi
+5,Creature,Dark Priest Cyclops
+6,Enchantment,Alacrity
+7,Artifact,Scythe
+8,Creature,Death Rogue Kraken
+9,Creature,Troll
+10,Enchantment,Firebreath
+11,Creature,Ghoul
+12,Enchantment,Deathgrip
+13,Creature,Wolf
+14,Creature,Spider
+15,Enchantment,Agony
+16,Spell,Revive
+17,Creature,Dark Knight Griffin
+18,Creature,Wolf
+19,Artifact,Staff
+20,Creature,Berserker
+21,Enchantment,Drain
+22,Creature,Magi
+23,Creature,Eagle
+24,Creature,Ghoul
+25,Enchantment,Blight
+26,Creature,Snow Rogue Orc
+27,Creature,Warlock
+28,Creature,Fairy
+29,Creature,Aura Lord Goblin
+30,Creature,Death Priest Ogre of the Polar Woods
+31,Spell,Grim Gale
+32,Enchantment,Strength
+33,Creature,Warlock
+34,Creature,Fairy
+35,Creature,Frozen Monk Griffin
+36,Enchantment,Shrink
+37,Creature,Troll
+38,Spell,Invisibility
+39,Creature,Magi
+40,Creature,Berserker
+41,Creature,Eagle
+42,Spell,Corpse Gravitation
+43,Enchantment,Haste
+44,Spell,Pandemonium

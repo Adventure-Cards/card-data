@@ -1,46 +1,46 @@
-==================,DECK,6940,Light
-0,Enchantment,Rare,Cataclysmic Age
-1,Creature,Common,Ghoul
-2,Creature,Rare,Dark King Hydra
-3,Creature,Legendary,Frozen Merchant Giant of the Arctic Blizzards
-4,Spell,Common,Burn
-5,Creature,Common,Goblin
-6,Creature,Common,Eagle
-7,Artifact,Common,Ghost Wand
-8,Enchantment,Common,Strength
-9,Spell,Common,Rage
-10,Artifact,Legendary,Urgent Divine Robe
-11,Creature,Common,Goblin
-12,Creature,Common,Magi
-13,Creature,Rare,Death Priest Fairy
-14,Spell,Common,Assault
-15,Creature,Rare,Light Warrior Fairy
-16,Enchantment,Common,Alacrity
-17,Spell,Common,Lightning
-18,Creature,Common,Orc
-19,Creature,Common,Orc
-20,Artifact,Rare,Life Tome
-21,Creature,Common,Elf
-22,Enchantment,Common,Shield
-23,Spell,Common,Sorrow
-24,Spell,Common,Stricken
-25,Enchantment,Common,Alacrity
-26,Spell,Common,Frost
-27,Creature,Rare,Dark Warrior Hydra
-28,Spell,Common,Wall
-29,Creature,Common,Dwarf
-30,Spell,Common,Invisibility
-31,Creature,Mythic,Aura Chaos Demon of the Light
-32,Creature,Mythic,Dark Nameless Dragon of Illusion
-33,Creature,Common,Ghoul
-34,Spell,Common,Burst
-35,Enchantment,Common,Age
-36,Creature,Rare,Earth Fighter Minotaur
-37,Spell,Common,Gale
-38,Spell,Common,Stun
-39,Enchantment,Common,Age
-40,Creature,Common,Goblin
-41,Creature,Common,Dwarf
-42,Creature,Common,Orc
-43,Creature,Common,Elf
-44,Enchantment,Legendary,Urgent Invert
+==================,DECK,6940
+0,Enchantment,Gloom Shield
+1,Creature,Ghoul
+2,Creature,Dark King Hydra
+3,Creature,Frozen Merchant Dwarf of the Arctic Blizzards
+4,Spell,Fury
+5,Creature,Skin-Walker
+6,Creature,Eagle
+7,Artifact,Ghost Wand
+8,Enchantment,Strength
+9,Spell,Frost
+10,Artifact,Potent Shimmering Divine Robe
+11,Creature,Skin-Walker
+12,Creature,Fairy
+13,Creature,Death Priest Kraken
+14,Spell,Ice
+15,Creature,Light Warrior Kraken
+16,Enchantment,Shrink
+17,Spell,Fireball
+18,Creature,Spider
+19,Creature,Spider
+20,Artifact,Frigid Tome
+21,Creature,Warlock
+22,Enchantment,Alacrity
+23,Spell,Lightning
+24,Spell,Revive
+25,Enchantment,Strength
+26,Spell,Assault
+27,Creature,Dark Warrior Hydra
+28,Spell,Pandemonium
+29,Creature,Magi
+30,Spell,Frenzy
+31,Creature,Aura Chaos Demon of the Light
+32,Creature,Dark Nameless Dragon of Illusion
+33,Creature,Ghoul
+34,Spell,Infuriate
+35,Enchantment,Age
+36,Creature,Earth Fighter Cyclops
+37,Spell,Hypnosis
+38,Spell,Vortex
+39,Enchantment,Invert
+40,Creature,Skin-Walker
+41,Creature,Magi
+42,Creature,Spider
+43,Creature,Warlock
+44,Enchantment,Dire Shimmering Age

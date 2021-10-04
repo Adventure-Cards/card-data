@@ -1,46 +1,46 @@
-==================,DECK,5330,Light
-0,Spell,Common,Burst
-1,Spell,Rare,Oblivion Heal
-2,Artifact,Rare,Shimmering Scythe
-3,Artifact,Common,Scythe
-4,Enchantment,Common,Flight
-5,Enchantment,Common,Strength
-6,Spell,Common,Frenzy
-7,Creature,Common,Spider
-8,Enchantment,Common,Agony
-9,Creature,Common,Dwarf
-10,Creature,Legendary,Dark Lord Kraken of the Mountains
-11,Enchantment,Common,Deathgrip
-12,Spell,Rare,Life Burn
-13,Spell,Rare,Grim Heal
-14,Creature,Common,Elf
-15,Creature,Common,Elf
-16,Creature,Common,Goblin
-17,Spell,Common,Wall
-18,Spell,Legendary,Extreme Frenzy
-19,Artifact,Common,Amulet
-20,Enchantment,Common,Invert
-21,Enchantment,Common,Drain
-22,Spell,Common,Burst
-23,Creature,Rare,Death Lord Berserker
-24,Spell,Common,Reanimate
-25,Creature,Rare,Aura King Skin-Walker
-26,Spell,Common,Revive
-27,Spell,Common,Burst
-28,Creature,Rare,Frozen Priest Skin-Walker
-29,Enchantment,Common,Flight
-30,Spell,Common,Assault
-31,Artifact,Rare,Corpse Sword
-32,Creature,Legendary,Snow Knight Orge of the Polar Woods
-33,Creature,Common,Paladin
-34,Artifact,Common,Ring
-35,Enchantment,Common,Invert
-36,Creature,Common,Dwarf
-37,Spell,Rare,Hateful Stricken
-38,Creature,Common,Goblin
-39,Enchantment,Mythic,Instant Shield
-40,Creature,Rare,Earth Rogue Berserker
-41,Enchantment,Rare,Apocalypse Blight
-42,Enchantment,Common,Shade
-43,Artifact,Rare,Dark Pendant
-44,Creature,Common,Spider
+==================,DECK,5330
+0,Spell,Infuriate
+1,Spell,Frigid Invisibility
+2,Artifact,Corpse Scythe
+3,Artifact,Scythe
+4,Enchantment,Lethargy
+5,Enchantment,Drain
+6,Spell,Maelstrom
+7,Creature,Paladin
+8,Enchantment,Invert
+9,Creature,Magi
+10,Creature,Dark Lord Ogre of the Mountains
+11,Enchantment,Drain
+12,Spell,Victory Gale
+13,Spell,Oblivion Infuriate
+14,Creature,Warlock
+15,Creature,Warlock
+16,Creature,Skin-Walker
+17,Spell,Lightning
+18,Spell,Irate Cataclysmic Burn
+19,Artifact,Amulet
+20,Enchantment,Blight
+21,Enchantment,Strength
+22,Spell,Frenzy
+23,Creature,Death Lord Goblin
+24,Spell,Fireball
+25,Creature,Aura King Orc
+26,Spell,Rage
+27,Spell,Ice
+28,Creature,Frozen Priest Orc
+29,Enchantment,Shade
+30,Spell,Invisibility
+31,Artifact,Corpse Sword
+32,Creature,Snow Knight Elf of the Polar Woods
+33,Creature,Troll
+34,Artifact,Ring
+35,Enchantment,Age
+36,Creature,Magi
+37,Spell,Cataclysmic Burn
+38,Creature,Skin-Walker
+39,Enchantment,Dire Nature Age
+40,Creature,Earth Rogue Goblin
+41,Enchantment,Nimble Shade
+42,Enchantment,Deathgrip
+43,Artifact,Sorrow Pendant
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,6044,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Shade
-2,Enchantment,Legendary,Mighty Shield
-3,Creature,Common,Dwarf
-4,Creature,Common,Elf
-5,Artifact,Common,Amulet
-6,Creature,Common,Ghoul
-7,Creature,Common,Orc
-8,Spell,Legendary,Urgent Freeze
-9,Creature,Legendary,Frozen Monk Giant of the Magical Forest
-10,Creature,Common,Warlock
-11,Enchantment,Mythic,Potent Haste
-12,Creature,Common,Wolf
-13,Enchantment,Rare,Lunar Drain
-14,Creature,Common,Eagle
-15,Creature,Common,Warlock
-16,Enchantment,Common,Flight
-17,Enchantment,Mythic,Extreme Alacrity
-18,Artifact,Common,Potion
-19,Spell,Common,Ice
-20,Spell,Common,Hypnosis
-21,Creature,Legendary,Death Rogue Oni of the Frozen Castle
-22,Creature,Common,Dwarf
-23,Creature,Rare,Dark Merchant Fairy
-24,Creature,Common,Goblin
-25,Artifact,Common,Pendant
-26,Creature,Common,Ghoul
-27,Creature,Common,Elf
-28,Creature,Common,Dwarf
-29,Creature,Common,Magi
-30,Creature,Common,Spider
-31,Enchantment,Rare,Apocalypse Flight
-32,Spell,Legendary,Urgent Vortex
-33,Creature,Common,Orc
-34,Spell,Common,Wall
-35,Artifact,Common,Potion
-36,Creature,Common,Paladin
-37,Spell,Common,Stun
-38,Creature,Common,Elf
-39,Creature,Common,Goblin
-40,Creature,Common,Eagle
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Shade
-43,Enchantment,Common,Alacrity
-44,Enchantment,Common,Blight
+==================,DECK,6044
+0,Creature,Berserker
+1,Enchantment,Agony
+2,Enchantment,Irate Gloom Alacrity
+3,Creature,Magi
+4,Creature,Warlock
+5,Artifact,Amulet
+6,Creature,Ghoul
+7,Creature,Spider
+8,Spell,Irate Necro Assault
+9,Creature,Frozen Monk Dwarf of the Magical Forest
+10,Creature,Berserker
+11,Enchantment,Clever Life Haste
+12,Creature,Wolf
+13,Enchantment,Dark Alacrity
+14,Creature,Eagle
+15,Creature,Berserker
+16,Enchantment,Deathgrip
+17,Enchantment,Dire Dark Firebreath
+18,Artifact,Potion
+19,Spell,Hypnosis
+20,Spell,Maelstrom
+21,Creature,Death Rogue Oni of the Frozen Castle
+22,Creature,Magi
+23,Creature,Dark Merchant Kraken
+24,Creature,Skin-Walker
+25,Artifact,Pendant
+26,Creature,Ghoul
+27,Creature,Warlock
+28,Creature,Magi
+29,Creature,Fairy
+30,Creature,Paladin
+31,Enchantment,Grim Shade
+32,Spell,Urgent Hateful Infuriate
+33,Creature,Spider
+34,Spell,Stricken
+35,Artifact,Potion
+36,Creature,Troll
+37,Spell,Assault
+38,Creature,Warlock
+39,Creature,Skin-Walker
+40,Creature,Eagle
+41,Creature,Magi
+42,Enchantment,Shade
+43,Enchantment,Shade
+44,Enchantment,Drain

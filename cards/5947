@@ -1,46 +1,46 @@
-==================,DECK,5947,Medium
-0,Creature,Rare,Death King Hydra
-1,Creature,Common,Wolf
-2,Enchantment,Rare,Life Shrink
-3,Spell,Common,Revive
-4,Creature,Common,Goblin
-5,Enchantment,Legendary,Dire Shrink
-6,Creature,Rare,Earth Knight Minotaur
-7,Artifact,Common,Scythe
-8,Creature,Rare,Frozen Undead Berserker
-9,Spell,Rare,Solar Freeze
-10,Enchantment,Rare,Lunar Deathgrip
-11,Creature,Mythic,Snow Nameless Dragon of Hate
-12,Artifact,Common,Boots
-13,Enchantment,Legendary,Mighty Drain
-14,Creature,Common,Paladin
-15,Creature,Rare,Snow Knight Fairy
-16,Spell,Common,Gravitation
-17,Creature,Common,Spider
-18,Enchantment,Common,Strength
-19,Spell,Rare,Shimmering Burst
-20,Creature,Rare,Light Warrior Fairy
-21,Creature,Common,Eagle
-22,Creature,Rare,Earth Monk Hydra
-23,Spell,Legendary,Dire Vortex
-24,Spell,Common,Gravitation
-25,Spell,Legendary,Instant Rage
-26,Creature,Rare,Dark Queen Fairy
-27,Creature,Common,Ghoul
-28,Creature,Mythic,Dark Grand Wizard of Illusion
-29,Enchantment,Mythic,Angry Blight
-30,Artifact,Common,Potion
-31,Creature,Rare,Snow Priest Minotaur
-32,Creature,Legendary,Snow Queen Giant of the West
-33,Creature,Common,Ghoul
-34,Creature,Common,Warlock
-35,Spell,Rare,Corpse Gravitation
-36,Creature,Common,Goblin
-37,Enchantment,Common,Age
-38,Creature,Rare,Frozen Knight Skin-Walker
-39,Spell,Rare,Frigid Torment
-40,Creature,Common,Eagle
-41,Creature,Rare,Snow Fighter Minotaur
-42,Creature,Rare,Snow Monk Berserker
-43,Creature,Common,Warlock
-44,Spell,Rare,Frigid Revive
+==================,DECK,5947
+0,Creature,Death King Hydra
+1,Creature,Wolf
+2,Enchantment,Frigid Haste
+3,Spell,Freeze
+4,Creature,Skin-Walker
+5,Enchantment,Zealous Frigid Blight
+6,Creature,Earth Knight Cyclops
+7,Artifact,Scythe
+8,Creature,Frozen Undead Goblin
+9,Spell,Forged Burn
+10,Enchantment,Sorrow Flight
+11,Creature,Snow Nameless Dragon of Hate
+12,Artifact,Boots
+13,Enchantment,Zealous Dark Alacrity
+14,Creature,Troll
+15,Creature,Snow Knight Kraken
+16,Spell,Pandemonium
+17,Creature,Paladin
+18,Enchantment,Age
+19,Spell,Necro Reanimate
+20,Creature,Light Warrior Kraken
+21,Creature,Eagle
+22,Creature,Earth Monk Hydra
+23,Spell,Instant Life Infuriate
+24,Spell,Gravitation
+25,Spell,Irate Hateful Fireball
+26,Creature,Dark Queen Kraken
+27,Creature,Ghoul
+28,Creature,Dark Grand Wizard of Illusion
+29,Enchantment,Mighty Cataclysmic Flight
+30,Artifact,Potion
+31,Creature,Snow Priest Cyclops
+32,Creature,Snow Queen Dwarf of the West
+33,Creature,Ghoul
+34,Creature,Berserker
+35,Spell,Solar Fireball
+36,Creature,Skin-Walker
+37,Enchantment,Strength
+38,Creature,Frozen Knight Orc
+39,Spell,Oblivion Hypnosis
+40,Creature,Eagle
+41,Creature,Snow Fighter Cyclops
+42,Creature,Snow Monk Goblin
+43,Creature,Berserker
+44,Spell,Life Frost

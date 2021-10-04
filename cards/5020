@@ -1,46 +1,46 @@
-==================,DECK,5020,Medium
-0,Creature,Rare,Earth Priest Berserker
-1,Artifact,Common,Cloak
-2,Creature,Rare,Death Rogue Berserker
-3,Enchantment,Common,Shade
-4,Creature,Legendary,Aura Queen Kraken of the Black Stone
-5,Artifact,Common,Sword
-6,Spell,Legendary,Intense Lightning
-7,Creature,Rare,Earth Monk Skin-Walker
-8,Enchantment,Rare,Dark Strength
-9,Creature,Common,Spider
-10,Creature,Common,Dwarf
-11,Creature,Common,Spider
-12,Creature,Common,Wolf
-13,Creature,Rare,Death Warrior Skin-Walker
-14,Creature,Common,Ghoul
-15,Spell,Rare,Nimble Vortex
-16,Spell,Rare,Life Stun
-17,Spell,Rare,Miracle Stricken
-18,Creature,Legendary,Dark Assassin Giant of the Polar Woods
-19,Creature,Common,Ghoul
-20,Creature,Legendary,Snow Undead Giant of the Plains
-21,Creature,Legendary,Light Assassin Orge of the Border
-22,Artifact,Common,Boots
-23,Enchantment,Legendary,Urgent Lethargy
-24,Creature,Common,Dwarf
-25,Creature,Common,Goblin
-26,Creature,Common,Spider
-27,Enchantment,Common,Shrink
-28,Creature,Mythic,Frozen Chaos Demon of the Void
-29,Creature,Common,Elf
-30,Creature,Common,Orc
-31,Enchantment,Rare,Oblivion Strength
-32,Creature,Common,Eagle
-33,Creature,Common,Orc
-34,Spell,Rare,Nature Stricken
-35,Enchantment,Rare,Gloom Lethargy
-36,Creature,Mythic,Frozen Chaos Wizard of the Void
-37,Creature,Rare,Dark Knight Griffin
-38,Spell,Rare,Nature Maelstrom
-39,Creature,Legendary,Dark Monk Giant of the Swamp
-40,Spell,Legendary,Extreme Sorrow
-41,Enchantment,Common,Agony
-42,Enchantment,Legendary,Instant Invert
-43,Creature,Legendary,Dark Priest Cyclops of the Low Hills
-44,Creature,Common,Paladin
+==================,DECK,5020
+0,Creature,Earth Priest Goblin
+1,Artifact,Cloak
+2,Creature,Death Rogue Goblin
+3,Enchantment,Age
+4,Creature,Aura Queen Ogre of the Black Stone
+5,Artifact,Sword
+6,Spell,Instant Nature Gravitation
+7,Creature,Earth Monk Orc
+8,Enchantment,Cataclysmic Shield
+9,Creature,Paladin
+10,Creature,Magi
+11,Creature,Paladin
+12,Creature,Wolf
+13,Creature,Death Warrior Orc
+14,Creature,Ghoul
+15,Spell,Nature Hypnosis
+16,Spell,Grim Frost
+17,Spell,Apocalypse Sorrow
+18,Creature,Dark Assassin Dwarf of the Polar Woods
+19,Creature,Ghoul
+20,Creature,Snow Undead Dwarf of the Plains
+21,Creature,Light Assassin Elf of the Border
+22,Artifact,Boots
+23,Enchantment,Irate Hateful Deathgrip
+24,Creature,Magi
+25,Creature,Skin-Walker
+26,Creature,Paladin
+27,Enchantment,Invert
+28,Creature,Frozen Chaos Demon of the Void
+29,Creature,Warlock
+30,Creature,Spider
+31,Enchantment,Nimble Haste
+32,Creature,Eagle
+33,Creature,Spider
+34,Spell,Hateful Gravitation
+35,Enchantment,Lunar Shield
+36,Creature,Frozen Chaos Wizard of the Void
+37,Creature,Dark Knight Griffin
+38,Spell,Solar Invisibility
+39,Creature,Dark Monk Dwarf of the Swamp
+40,Spell,Clever Sorrow Vortex
+41,Enchantment,Drain
+42,Enchantment,Dire Shimmering Age
+43,Creature,Dark Priest Giant of the Low Hills
+44,Creature,Troll

@@ -1,46 +1,46 @@
-==================,DECK,7113,Medium
-0,Spell,Common,Lightning
-1,Artifact,Rare,Gloom Bracers
-2,Enchantment,Common,Invert
-3,Enchantment,Common,Deathgrip
-4,Creature,Common,Spider
-5,Artifact,Common,Cloak
-6,Artifact,Common,Belt
-7,Creature,Common,Elf
-8,Spell,Common,Fury
-9,Spell,Common,Maelstrom
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Spider
-12,Spell,Legendary,Mighty Invisibility
-13,Spell,Rare,Grim Invisibility
-14,Artifact,Legendary,Intense Ring
-15,Creature,Common,Goblin
-16,Creature,Common,Orc
-17,Creature,Rare,Frozen King Griffin
-18,Creature,Legendary,Snow Priest Giant of the Border
-19,Enchantment,Common,Shrink
-20,Creature,Mythic,Aura Time Dragon of the Light
-21,Spell,Common,Vortex
-22,Creature,Common,Ghoul
-23,Creature,Mythic,Aura Undead Phoenix of the Light
-24,Creature,Legendary,Aura Merchant Kraken of the Arctic Blizzards
-25,Enchantment,Mythic,Urgent Strength
-26,Creature,Rare,Death Lord Minotaur
-27,Enchantment,Common,Alacrity
-28,Creature,Rare,Earth Undead Berserker
-29,Artifact,Rare,Grim Shield
-30,Creature,Legendary,Light Monk Giant of the Eastern Skies
-31,Creature,Common,Eagle
-32,Creature,Rare,Dark Priest Berserker
-33,Creature,Common,Magi
-34,Spell,Common,Frenzy
-35,Creature,Common,Warlock
-36,Creature,Common,Spider
-37,Spell,Common,Wall
-38,Creature,Common,Paladin
-39,Enchantment,Common,Shrink
-40,Creature,Rare,Light Monk Berserker
-41,Artifact,Legendary,Urgent Bracers
-42,Creature,Rare,Death Queen Hydra
-43,Spell,Legendary,Mighty Fury
-44,Spell,Common,Freeze
+==================,DECK,7113
+0,Spell,Heal
+1,Artifact,Gloom Bracers
+2,Enchantment,Firebreath
+3,Enchantment,Blight
+4,Creature,Paladin
+5,Artifact,Cloak
+6,Artifact,Belt
+7,Creature,Warlock
+8,Spell,Revive
+9,Spell,Maelstrom
+10,Enchantment,Shrink
+11,Creature,Paladin
+12,Spell,Instant Cataclysmic Frenzy
+13,Spell,Life Gravitation
+14,Artifact,Potent Hateful Ring
+15,Creature,Skin-Walker
+16,Creature,Spider
+17,Creature,Frozen King Griffin
+18,Creature,Snow Priest Dwarf of the Border
+19,Enchantment,Flight
+20,Creature,Aura Time Dragon of the Light
+21,Spell,Frost
+22,Creature,Ghoul
+23,Creature,Aura Undead Phoenix of the Light
+24,Creature,Aura Merchant Ogre of the Arctic Blizzards
+25,Enchantment,Ardent Solar Lethargy
+26,Creature,Death Lord Cyclops
+27,Enchantment,Firebreath
+28,Creature,Earth Undead Goblin
+29,Artifact,Life Shield
+30,Creature,Light Monk Dwarf of the Eastern Skies
+31,Creature,Eagle
+32,Creature,Dark Priest Goblin
+33,Creature,Fairy
+34,Spell,Vortex
+35,Creature,Berserker
+36,Creature,Paladin
+37,Spell,Assault
+38,Creature,Troll
+39,Enchantment,Haste
+40,Creature,Light Monk Goblin
+41,Artifact,Irate Hateful Bracers
+42,Creature,Death Queen Hydra
+43,Spell,Clever Dark Lightning
+44,Spell,Stun

@@ -1,46 +1,46 @@
-==================,DECK,6728,Light
-0,Creature,Common,Paladin
-1,Creature,Legendary,Death Monk Oni of the Eternal Land
-2,Creature,Legendary,Snow Priest Oni of the Low Hills
-3,Creature,Common,Orc
-4,Spell,Common,Burst
-5,Spell,Common,Vortex
-6,Artifact,Rare,Necro Ring
-7,Creature,Common,Wolf
-8,Artifact,Rare,Solar Cloak
-9,Creature,Common,Spider
-10,Spell,Common,Revive
-11,Creature,Common,Orc
-12,Enchantment,Rare,Forged Alacrity
-13,Creature,Common,Dwarf
-14,Creature,Common,Elf
-15,Enchantment,Rare,Frigid Shade
-16,Creature,Common,Goblin
-17,Spell,Common,Ice
-18,Enchantment,Common,Drain
-19,Creature,Mythic,Frozen Nameless Dragon of the Void
-20,Creature,Common,Dwarf
-21,Creature,Common,Dwarf
-22,Spell,Common,Frost
-23,Enchantment,Common,Invert
-24,Spell,Common,Gale
-25,Enchantment,Rare,Hateful Flight
-26,Spell,Legendary,Clever Gravitation
-27,Spell,Common,Freeze
-28,Creature,Rare,Death Merchant Minotaur
-29,Creature,Common,Goblin
-30,Enchantment,Common,Age
-31,Enchantment,Common,Shrink
-32,Creature,Common,Eagle
-33,Enchantment,Rare,Nature Drain
-34,Creature,Common,Orc
-35,Artifact,Common,Ghost Wand
-36,Artifact,Rare,Cataclysmic Ring
-37,Creature,Common,Ghoul
-38,Enchantment,Rare,Hateful Shrink
-39,Enchantment,Common,Lethargy
-40,Creature,Mythic,Death Chaos Demon of the Dead
-41,Enchantment,Legendary,Angry Deathgrip
-42,Creature,Common,Warlock
-43,Creature,Common,Magi
-44,Creature,Common,Ghoul
+==================,DECK,6728
+0,Creature,Troll
+1,Creature,Death Monk Oni of the Eternal Land
+2,Creature,Snow Priest Oni of the Low Hills
+3,Creature,Spider
+4,Spell,Ice
+5,Spell,Stricken
+6,Artifact,Hateful Ring
+7,Creature,Wolf
+8,Artifact,Nature Cloak
+9,Creature,Paladin
+10,Spell,Assault
+11,Creature,Spider
+12,Enchantment,Dark Flight
+13,Creature,Magi
+14,Creature,Warlock
+15,Enchantment,Frigid Shade
+16,Creature,Skin-Walker
+17,Spell,Revive
+18,Enchantment,Age
+19,Creature,Frozen Nameless Dragon of the Void
+20,Creature,Magi
+21,Creature,Magi
+22,Spell,Pandemonium
+23,Enchantment,Strength
+24,Spell,Hypnosis
+25,Enchantment,Lunar Firebreath
+26,Spell,Ardent Victory Vortex
+27,Spell,Burn
+28,Creature,Death Merchant Cyclops
+29,Creature,Skin-Walker
+30,Enchantment,Flight
+31,Enchantment,Deathgrip
+32,Creature,Eagle
+33,Enchantment,Forged Lethargy
+34,Creature,Spider
+35,Artifact,Ghost Wand
+36,Artifact,Sorrow Ring
+37,Creature,Ghoul
+38,Enchantment,Chimeric Shrink
+39,Enchantment,Age
+40,Creature,Death Chaos Demon of the Dead
+41,Enchantment,Potent Sorrow Shrink
+42,Creature,Berserker
+43,Creature,Fairy
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,7306,Light
-0,Creature,Common,Orc
-1,Spell,Common,Reanimate
-2,Artifact,Common,Belt
-3,Enchantment,Common,Alacrity
-4,Creature,Legendary,Light Merchant Oni of the Mountains
-5,Creature,Rare,Dark Priest Hydra
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Eagle
-8,Creature,Common,Warlock
-9,Enchantment,Common,Age
-10,Creature,Legendary,Frozen Warrior Giant of the Golden Palace
-11,Enchantment,Rare,Grim Shield
-12,Creature,Common,Orc
-13,Creature,Common,Elf
-14,Spell,Common,Frost
-15,Spell,Common,Torment
-16,Creature,Common,Ghoul
-17,Spell,Common,Gale
-18,Creature,Rare,Aura Assassin Griffin
-19,Creature,Common,Magi
-20,Creature,Common,Spider
-21,Creature,Common,Elf
-22,Creature,Common,Elf
-23,Artifact,Common,Bracers
-24,Enchantment,Common,Lethargy
-25,Creature,Rare,Light Lord Griffin
-26,Spell,Common,Fury
-27,Creature,Rare,Light Monk Minotaur
-28,Creature,Common,Dwarf
-29,Creature,Common,Wolf
-30,Creature,Common,Warlock
-31,Creature,Common,Paladin
-32,Creature,Rare,Light King Minotaur
-33,Creature,Rare,Aura Fighter Skin-Walker
-34,Creature,Rare,Frozen Undead Minotaur
-35,Creature,Common,Spider
-36,Artifact,Common,Scythe
-37,Enchantment,Common,Deathgrip
-38,Spell,Rare,Frigid Frenzy
-39,Artifact,Rare,Life Boots
-40,Spell,Common,Maelstrom
-41,Artifact,Common,Ghost Wand
-42,Spell,Common,Vortex
-43,Creature,Common,Goblin
-44,Creature,Rare,Snow Monk Hydra
+==================,DECK,7306
+0,Creature,Spider
+1,Spell,Tempest
+2,Artifact,Belt
+3,Enchantment,Age
+4,Creature,Light Merchant Oni of the Mountains
+5,Creature,Dark Priest Hydra
+6,Enchantment,Shade
+7,Creature,Eagle
+8,Creature,Berserker
+9,Enchantment,Lethargy
+10,Creature,Frozen Warrior Dwarf of the Golden Palace
+11,Enchantment,Victory Blight
+12,Creature,Spider
+13,Creature,Warlock
+14,Spell,Tempest
+15,Spell,Heal
+16,Creature,Ghoul
+17,Spell,Maelstrom
+18,Creature,Aura Assassin Griffin
+19,Creature,Fairy
+20,Creature,Paladin
+21,Creature,Warlock
+22,Creature,Warlock
+23,Artifact,Bracers
+24,Enchantment,Invert
+25,Creature,Light Lord Griffin
+26,Spell,Gravitation
+27,Creature,Light Monk Cyclops
+28,Creature,Magi
+29,Creature,Wolf
+30,Creature,Berserker
+31,Creature,Troll
+32,Creature,Light King Cyclops
+33,Creature,Aura Fighter Orc
+34,Creature,Frozen Undead Cyclops
+35,Creature,Paladin
+36,Artifact,Scythe
+37,Enchantment,Haste
+38,Spell,Frigid Lightning
+39,Artifact,Nimble Boots
+40,Spell,Vortex
+41,Artifact,Ghost Wand
+42,Spell,Heal
+43,Creature,Skin-Walker
+44,Creature,Snow Monk Hydra

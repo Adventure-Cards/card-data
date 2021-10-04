@@ -1,46 +1,46 @@
-==================,DECK,7720,Strong
-0,Artifact,Common,Belt
-1,Artifact,Mythic,Dire Boots
-2,Creature,Common,Paladin
-3,Enchantment,Common,Alacrity
-4,Creature,Rare,Frozen Warrior Griffin
-5,Creature,Common,Paladin
-6,Artifact,Common,Potion
-7,Spell,Common,Gale
-8,Artifact,Common,Gauntlet
-9,Creature,Common,Elf
-10,Creature,Common,Orc
-11,Enchantment,Common,Deathgrip
-12,Creature,Common,Goblin
-13,Creature,Common,Elf
-14,Creature,Common,Magi
-15,Creature,Common,Wolf
-16,Enchantment,Common,Haste
-17,Artifact,Legendary,Instant Tome
-18,Spell,Common,Burst
-19,Creature,Rare,Aura Assassin Hydra
-20,Creature,Common,Orc
-21,Artifact,Common,Potion
-22,Creature,Mythic,Death Ancient Wizard of the Dead
-23,Spell,Common,Burn
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Deathgrip
-26,Artifact,Rare,Dark Staff
-27,Creature,Common,Elf
-28,Artifact,Rare,Corpse Bracers
-29,Artifact,Common,Divine Robe
-30,Creature,Common,Elf
-31,Creature,Legendary,Light Assassin Giant of the Mountains
-32,Spell,Rare,Cataclysmic Burn
-33,Creature,Common,Goblin
-34,Enchantment,Common,Shrink
-35,Creature,Rare,Light Priest Hydra
-36,Creature,Mythic,Frozen Grand Wizard of the Void
-37,Creature,Mythic,Death Nameless Dragon of the Dead
-38,Spell,Legendary,Angry Pandemonium
-39,Creature,Mythic,Dark Ancient Wizard of Illusion
-40,Enchantment,Common,Drain
-41,Creature,Common,Elf
-42,Creature,Common,Magi
-43,Creature,Common,Eagle
-44,Artifact,Common,Cloak
+==================,DECK,7720
+0,Artifact,Belt
+1,Artifact,Ardent Victory Boots
+2,Creature,Troll
+3,Enchantment,Haste
+4,Creature,Frozen Warrior Griffin
+5,Creature,Troll
+6,Artifact,Potion
+7,Spell,Fire
+8,Artifact,Gauntlet
+9,Creature,Warlock
+10,Creature,Spider
+11,Enchantment,Agony
+12,Creature,Skin-Walker
+13,Creature,Warlock
+14,Creature,Fairy
+15,Creature,Wolf
+16,Enchantment,Flight
+17,Artifact,Empyrean Nature Tome
+18,Spell,Burst
+19,Creature,Aura Assassin Hydra
+20,Creature,Spider
+21,Artifact,Potion
+22,Creature,Death Ancient Wizard of the Dead
+23,Spell,Infuriate
+24,Creature,Magi
+25,Enchantment,Alacrity
+26,Artifact,Chimeric Staff
+27,Creature,Warlock
+28,Artifact,Hateful Bracers
+29,Artifact,Divine Robe
+30,Creature,Warlock
+31,Creature,Light Assassin Dwarf of the Mountains
+32,Spell,Gloom Stun
+33,Creature,Skin-Walker
+34,Enchantment,Haste
+35,Creature,Light Priest Hydra
+36,Creature,Frozen Grand Wizard of the Void
+37,Creature,Death Nameless Dragon of the Dead
+38,Spell,Clever Dark Infuriate
+39,Creature,Dark Ancient Wizard of Illusion
+40,Enchantment,Invert
+41,Creature,Warlock
+42,Creature,Fairy
+43,Creature,Eagle
+44,Artifact,Cloak

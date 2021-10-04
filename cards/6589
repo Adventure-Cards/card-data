@@ -1,46 +1,46 @@
-==================,DECK,6589,Medium
-0,Creature,Common,Orc
-1,Artifact,Common,Cloak
-2,Creature,Common,Elf
-3,Creature,Common,Ghoul
-4,Artifact,Legendary,Intense Belt
-5,Creature,Common,Elf
-6,Creature,Common,Elf
-7,Creature,Common,Orc
-8,Creature,Legendary,Death Thief Orge of the Border
-9,Spell,Common,Hypnosis
-10,Spell,Common,Invisibility
-11,Creature,Legendary,Light Warrior Cyclops of the Polar Woods
-12,Enchantment,Rare,Forged Invert
-13,Creature,Rare,Dark Undead Minotaur
-14,Creature,Rare,Snow Merchant Hydra
-15,Spell,Common,Rage
-16,Creature,Common,Magi
-17,Enchantment,Common,Blight
-18,Enchantment,Common,Age
-19,Enchantment,Legendary,Clever Age
-20,Enchantment,Mythic,Angry Lethargy
-21,Spell,Common,Lightning
-22,Spell,Common,Revive
-23,Creature,Common,Elf
-24,Spell,Common,Wall
-25,Artifact,Rare,Frigid Scepter
-26,Enchantment,Common,Blight
-27,Creature,Legendary,Frozen Queen Giant of the Bright Mountains
-28,Enchantment,Rare,Lunar Deathgrip
-29,Spell,Rare,Life Burn
-30,Creature,Mythic,Frozen Undead Phoenix of the Void
-31,Spell,Common,Torment
-32,Creature,Common,Goblin
-33,Spell,Common,Fury
-34,Creature,Rare,Earth Lord Skin-Walker
-35,Creature,Common,Ghoul
-36,Spell,Rare,Cataclysmic Fury
-37,Artifact,Common,Belt
-38,Creature,Common,Paladin
-39,Artifact,Rare,Cataclysmic Bracers
-40,Creature,Rare,Dark Monk Berserker
-41,Creature,Common,Orc
-42,Artifact,Common,Scepter
-43,Creature,Common,Eagle
-44,Creature,Common,Eagle
+==================,DECK,6589
+0,Creature,Spider
+1,Artifact,Cloak
+2,Creature,Warlock
+3,Creature,Ghoul
+4,Artifact,Empyrean Nature Belt
+5,Creature,Warlock
+6,Creature,Warlock
+7,Creature,Spider
+8,Creature,Death Thief Elf of the Border
+9,Spell,Infuriate
+10,Spell,Gale
+11,Creature,Light Warrior Giant of the Polar Woods
+12,Enchantment,Sorrow Alacrity
+13,Creature,Dark Undead Cyclops
+14,Creature,Snow Merchant Hydra
+15,Spell,Revive
+16,Creature,Fairy
+17,Enchantment,Age
+18,Enchantment,Agony
+19,Enchantment,Clever Victory Haste
+20,Enchantment,Urgent Lunar Flight
+21,Spell,Sorrow
+22,Spell,Lightning
+23,Creature,Warlock
+24,Spell,Reanimate
+25,Artifact,Nimble Scepter
+26,Enchantment,Shrink
+27,Creature,Frozen Queen Dwarf of the Bright Mountains
+28,Enchantment,Sorrow Shield
+29,Spell,Nimble Fireball
+30,Creature,Frozen Undead Phoenix of the Void
+31,Spell,Revive
+32,Creature,Skin-Walker
+33,Spell,Assault
+34,Creature,Earth Lord Orc
+35,Creature,Ghoul
+36,Spell,Miracle Torment
+37,Artifact,Belt
+38,Creature,Troll
+39,Artifact,Dark Bracers
+40,Creature,Dark Monk Goblin
+41,Creature,Spider
+42,Artifact,Scepter
+43,Creature,Eagle
+44,Creature,Eagle

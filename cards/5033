@@ -1,46 +1,46 @@
-==================,DECK,5033,Strong
-0,Creature,Rare,Death Thief Griffin
-1,Creature,Common,Goblin
-2,Spell,Rare,Necro Stun
-3,Spell,Mythic,Potent Gravitation
-4,Artifact,Rare,Miracle Staff
-5,Spell,Common,Burn
-6,Spell,Common,Pandemonium
-7,Enchantment,Legendary,Instant Shade
-8,Creature,Rare,Death Knight Griffin
-9,Creature,Rare,Light Priest Minotaur
-10,Artifact,Rare,Life Potion
-11,Creature,Common,Goblin
-12,Creature,Legendary,Death Rogue Giant of the West
-13,Creature,Mythic,Snow Chaos Demon of Hate
-14,Artifact,Mythic,Dire Bow
-15,Artifact,Rare,Apocalypse Sigil
-16,Enchantment,Mythic,Instant Deathgrip
-17,Creature,Common,Spider
-18,Spell,Legendary,Intense Invisibility
-19,Spell,Rare,Lunar Sorrow
-20,Creature,Common,Wolf
-21,Creature,Rare,Earth Undead Minotaur
-22,Enchantment,Common,Shrink
-23,Enchantment,Rare,Dark Lethargy
-24,Artifact,Rare,Grim Ring
-25,Artifact,Legendary,Extreme Scepter
-26,Creature,Rare,Earth Rogue Berserker
-27,Creature,Common,Ghoul
-28,Creature,Legendary,Death Time Dragon of the Dead
-29,Enchantment,Legendary,Angry Strength
-30,Artifact,Rare,Cataclysmic Boots
-31,Artifact,Common,Tome
-32,Creature,Mythic,Light Time Dragon of the Sky
-33,Spell,Common,Hypnosis
-34,Enchantment,Common,Drain
-35,Creature,Rare,Frozen Lord Skin-Walker
-36,Spell,Legendary,Intense Rage
-37,Enchantment,Mythic,Mighty Deathgrip
-38,Enchantment,Rare,Solar Agony
-39,Spell,Common,Pandemonium
-40,Creature,Rare,Frozen Fighter Hydra
-41,Artifact,Common,Bracers
-42,Spell,Rare,Nimble Torment
-43,Enchantment,Common,Deathgrip
-44,Creature,Rare,Aura Lord Skin-Walker
+==================,DECK,5033
+0,Creature,Death Thief Griffin
+1,Creature,Skin-Walker
+2,Spell,Necro Fire
+3,Spell,Instant Nimble Frenzy
+4,Artifact,Apocalypse Staff
+5,Spell,Revive
+6,Spell,Reanimate
+7,Enchantment,Irate Necro Deathgrip
+8,Creature,Death Knight Griffin
+9,Creature,Light Priest Cyclops
+10,Artifact,Grim Potion
+11,Creature,Skin-Walker
+12,Creature,Death Rogue Dwarf of the West
+13,Creature,Snow Chaos Demon of Hate
+14,Artifact,Urgent Grim Bow
+15,Artifact,Apocalypse Sigil
+16,Enchantment,Mighty Shimmering Agony
+17,Creature,Paladin
+18,Spell,Ardent Forged Burn
+19,Spell,Chimeric Frenzy
+20,Creature,Wolf
+21,Creature,Earth Undead Cyclops
+22,Enchantment,Shade
+23,Enchantment,Lunar Shrink
+24,Artifact,Oblivion Ring
+25,Artifact,Potent Cataclysmic Scepter
+26,Creature,Earth Rogue Goblin
+27,Creature,Ghoul
+28,Creature,Death Time Dragon of the Dead
+29,Enchantment,Irate Cataclysmic Alacrity
+30,Artifact,Dark Boots
+31,Artifact,Tome
+32,Creature,Light Time Dragon of the Sky
+33,Spell,Frost
+34,Enchantment,Blight
+35,Creature,Frozen Lord Orc
+36,Spell,Ardent Necro Torment
+37,Enchantment,Empyrean Sorrow Firebreath
+38,Enchantment,Corpse Agony
+39,Spell,Hypnosis
+40,Creature,Frozen Fighter Hydra
+41,Artifact,Bracers
+42,Spell,Forged Frost
+43,Enchantment,Shrink
+44,Creature,Aura Lord Orc

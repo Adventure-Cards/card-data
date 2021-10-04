@@ -1,46 +1,46 @@
-==================,DECK,4284,Light
-0,Artifact,Common,Bracers
-1,Creature,Common,Paladin
-2,Creature,Legendary,Death Fighter Giant of the Low Hills
-3,Artifact,Common,Potion
-4,Creature,Common,Eagle
-5,Creature,Rare,Light Priest Fairy
-6,Enchantment,Rare,Gloom Shield
-7,Spell,Common,Burn
-8,Creature,Common,Magi
-9,Spell,Common,Gale
-10,Creature,Common,Wolf
-11,Enchantment,Common,Shield
-12,Artifact,Common,Pendant
-13,Spell,Common,Frost
-14,Artifact,Common,Greaves
-15,Spell,Common,Assault
-16,Creature,Legendary,Light Assassin Kraken of the Eastern Skies
-17,Artifact,Rare,Frigid Sigil
-18,Artifact,Common,Ghost Wand
-19,Spell,Common,Burn
-20,Creature,Common,Dwarf
-21,Creature,Common,Spider
-22,Creature,Legendary,Aura Lord Oni of the Swamp
-23,Enchantment,Common,Shrink
-24,Creature,Common,Magi
-25,Creature,Common,Warlock
-26,Creature,Common,Orc
-27,Creature,Common,Wolf
-28,Spell,Rare,Solar Frost
-29,Creature,Common,Elf
-30,Creature,Rare,Frozen Monk Hydra
-31,Spell,Common,Invisibility
-32,Creature,Common,Paladin
-33,Spell,Rare,Nimble Vortex
-34,Creature,Legendary,Dark King Giant of the West
-35,Enchantment,Rare,Solar Agony
-36,Artifact,Legendary,Intense Sword
-37,Creature,Rare,Death Knight Minotaur
-38,Enchantment,Common,Alacrity
-39,Spell,Common,Gravitation
-40,Artifact,Common,Shield
-41,Artifact,Common,Amulet
-42,Spell,Common,Hypnosis
-43,Spell,Common,Heal
-44,Enchantment,Common,Shade
+==================,DECK,4284
+0,Artifact,Bracers
+1,Creature,Troll
+2,Creature,Death Fighter Dwarf of the Low Hills
+3,Artifact,Potion
+4,Creature,Eagle
+5,Creature,Light Priest Kraken
+6,Enchantment,Gloom Alacrity
+7,Spell,Burn
+8,Creature,Fairy
+9,Spell,Stricken
+10,Creature,Wolf
+11,Enchantment,Strength
+12,Artifact,Pendant
+13,Spell,Burst
+14,Artifact,Greaves
+15,Spell,Wall
+16,Creature,Light Assassin Ogre of the Eastern Skies
+17,Artifact,Oblivion Sigil
+18,Artifact,Ghost Wand
+19,Spell,Frost
+20,Creature,Magi
+21,Creature,Paladin
+22,Creature,Aura Lord Oni of the Swamp
+23,Enchantment,Strength
+24,Creature,Fairy
+25,Creature,Berserker
+26,Creature,Spider
+27,Creature,Wolf
+28,Spell,Necro Freeze
+29,Creature,Warlock
+30,Creature,Frozen Monk Hydra
+31,Spell,Freeze
+32,Creature,Troll
+33,Spell,Forged Torment
+34,Creature,Dark King Dwarf of the West
+35,Enchantment,Corpse Deathgrip
+36,Artifact,Potent Nature Sword
+37,Creature,Death Knight Cyclops
+38,Enchantment,Strength
+39,Spell,Burn
+40,Artifact,Shield
+41,Artifact,Amulet
+42,Spell,Torment
+43,Spell,Fireball
+44,Enchantment,Deathgrip

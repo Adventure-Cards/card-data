@@ -1,46 +1,46 @@
-==================,DECK,7295,Medium
-0,Artifact,Common,Staff
-1,Creature,Rare,Death Knight Skin-Walker
-2,Creature,Common,Goblin
-3,Spell,Common,Lightning
-4,Spell,Rare,Nature Burn
-5,Enchantment,Common,Shade
-6,Enchantment,Rare,Miracle Blight
-7,Creature,Rare,Light Fighter Fairy
-8,Creature,Rare,Light Merchant Fairy
-9,Enchantment,Common,Deathgrip
-10,Enchantment,Common,Invert
-11,Creature,Rare,Earth Undead Griffin
-12,Creature,Rare,Light Monk Berserker
-13,Spell,Common,Frost
-14,Enchantment,Rare,Necro Age
-15,Creature,Common,Elf
-16,Creature,Common,Paladin
-17,Spell,Legendary,Potent Revive
-18,Artifact,Rare,Necro Ring
-19,Spell,Common,Revive
-20,Creature,Common,Elf
-21,Spell,Mythic,Urgent Reanimate
-22,Creature,Rare,Snow Knight Hydra
-23,Spell,Common,Burst
-24,Creature,Rare,Dark Priest Fairy
-25,Creature,Common,Paladin
-26,Creature,Common,Eagle
-27,Enchantment,Rare,Apocalypse Flight
-28,Creature,Common,Goblin
-29,Creature,Rare,Death Rogue Griffin
-30,Creature,Common,Elf
-31,Creature,Rare,Death Lord Griffin
-32,Creature,Rare,Frozen Thief Fairy
-33,Enchantment,Legendary,Mighty Flight
-34,Creature,Legendary,Snow Undead Cyclops of the Eastern Skies
-35,Enchantment,Common,Blight
-36,Spell,Legendary,Dire Sorrow
-37,Creature,Common,Eagle
-38,Artifact,Common,Ring
-39,Enchantment,Common,Haste
-40,Enchantment,Rare,Shimmering Deathgrip
-41,Creature,Common,Elf
-42,Creature,Common,Dwarf
-43,Artifact,Rare,Nimble Potion
-44,Enchantment,Legendary,Clever Blight
+==================,DECK,7295
+0,Artifact,Staff
+1,Creature,Death Knight Orc
+2,Creature,Skin-Walker
+3,Spell,Invisibility
+4,Spell,Necro Stun
+5,Enchantment,Alacrity
+6,Enchantment,Nimble Invert
+7,Creature,Light Fighter Kraken
+8,Creature,Light Merchant Kraken
+9,Enchantment,Shield
+10,Enchantment,Flight
+11,Creature,Earth Undead Griffin
+12,Creature,Light Monk Goblin
+13,Spell,Fire
+14,Enchantment,Nature Deathgrip
+15,Creature,Warlock
+16,Creature,Troll
+17,Spell,Dire Nimble Frost
+18,Artifact,Necro Ring
+19,Spell,Maelstrom
+20,Creature,Warlock
+21,Spell,Zealous Corpse Lightning
+22,Creature,Snow Knight Hydra
+23,Spell,Burst
+24,Creature,Dark Priest Kraken
+25,Creature,Troll
+26,Creature,Eagle
+27,Enchantment,Grim Invert
+28,Creature,Skin-Walker
+29,Creature,Death Rogue Griffin
+30,Creature,Warlock
+31,Creature,Death Lord Griffin
+32,Creature,Frozen Thief Kraken
+33,Enchantment,Empyrean Lunar Firebreath
+34,Creature,Snow Undead Giant of the Eastern Skies
+35,Enchantment,Invert
+36,Spell,Empyrean Life Torment
+37,Creature,Eagle
+38,Artifact,Ring
+39,Enchantment,Lethargy
+40,Enchantment,Shimmering Deathgrip
+41,Creature,Warlock
+42,Creature,Magi
+43,Artifact,Corpse Potion
+44,Enchantment,Zealous Nimble Blight

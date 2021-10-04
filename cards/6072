@@ -1,46 +1,46 @@
-==================,DECK,6072,Light
-0,Creature,Common,Spider
-1,Spell,Rare,Oblivion Gravitation
-2,Creature,Rare,Aura Thief Hydra
-3,Creature,Common,Eagle
-4,Creature,Legendary,Frozen Fighter Cyclops of the Swamp
-5,Spell,Common,Burn
-6,Spell,Common,Ice
-7,Creature,Common,Eagle
-8,Creature,Common,Elf
-9,Creature,Common,Goblin
-10,Creature,Common,Spider
-11,Creature,Common,Spider
-12,Creature,Common,Ghoul
-13,Creature,Legendary,Snow Undead Cyclops of the Border
-14,Spell,Legendary,Dire Frenzy
-15,Creature,Common,Ghoul
-16,Creature,Common,Eagle
-17,Creature,Rare,Dark Thief Griffin
-18,Creature,Rare,Snow Queen Griffin
-19,Spell,Common,Infuriate
-20,Spell,Rare,Solar Lightning
-21,Creature,Common,Paladin
-22,Spell,Common,Pandemonium
-23,Enchantment,Common,Shade
-24,Creature,Common,Paladin
-25,Spell,Legendary,Urgent Wall
-26,Creature,Common,Eagle
-27,Creature,Common,Paladin
-28,Enchantment,Common,Strength
-29,Creature,Common,Paladin
-30,Spell,Rare,Solar Gravitation
-31,Creature,Rare,Death Monk Fairy
-32,Creature,Common,Magi
-33,Creature,Common,Eagle
-34,Creature,Rare,Light Knight Fairy
-35,Creature,Common,Wolf
-36,Artifact,Common,Gloves
-37,Creature,Legendary,Light Lord Kraken of the Arctic Blizzards
-38,Enchantment,Common,Shrink
-39,Creature,Common,Orc
-40,Spell,Common,Invisibility
-41,Creature,Common,Goblin
-42,Creature,Mythic,Snow Chaos Wizard of Hate
-43,Creature,Rare,Dark King Griffin
-44,Spell,Common,Torment
+==================,DECK,6072
+0,Creature,Paladin
+1,Spell,Apocalypse Fire
+2,Creature,Aura Thief Hydra
+3,Creature,Eagle
+4,Creature,Frozen Fighter Giant of the Swamp
+5,Spell,Freeze
+6,Spell,Burn
+7,Creature,Eagle
+8,Creature,Warlock
+9,Creature,Skin-Walker
+10,Creature,Paladin
+11,Creature,Paladin
+12,Creature,Ghoul
+13,Creature,Snow Undead Giant of the Border
+14,Spell,Instant Victory Hypnosis
+15,Creature,Ghoul
+16,Creature,Eagle
+17,Creature,Dark Thief Griffin
+18,Creature,Snow Queen Griffin
+19,Spell,Ice
+20,Spell,Nature Lightning
+21,Creature,Troll
+22,Spell,Reanimate
+23,Enchantment,Drain
+24,Creature,Troll
+25,Spell,Instant Shimmering Assault
+26,Creature,Eagle
+27,Creature,Troll
+28,Enchantment,Blight
+29,Creature,Troll
+30,Spell,Forged Stricken
+31,Creature,Death Monk Kraken
+32,Creature,Fairy
+33,Creature,Eagle
+34,Creature,Light Knight Kraken
+35,Creature,Wolf
+36,Artifact,Gloves
+37,Creature,Light Lord Ogre of the Arctic Blizzards
+38,Enchantment,Deathgrip
+39,Creature,Spider
+40,Spell,Vortex
+41,Creature,Skin-Walker
+42,Creature,Snow Chaos Wizard of Hate
+43,Creature,Dark King Griffin
+44,Spell,Freeze

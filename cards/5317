@@ -1,46 +1,46 @@
-==================,DECK,5317,Light
-0,Spell,Common,Gale
-1,Artifact,Common,Shield
-2,Spell,Legendary,Potent Infuriate
-3,Creature,Rare,Snow Assassin Berserker
-4,Creature,Common,Elf
-5,Enchantment,Common,Flight
-6,Spell,Common,Heal
-7,Creature,Rare,Frozen Merchant Skin-Walker
-8,Creature,Common,Dwarf
-9,Creature,Legendary,Frozen Merchant Orge of the Eastern Skies
-10,Enchantment,Common,Age
-11,Creature,Common,Elf
-12,Creature,Rare,Death Warrior Hydra
-13,Enchantment,Rare,Life Haste
-14,Artifact,Rare,Forged Amulet
-15,Creature,Common,Goblin
-16,Creature,Legendary,Light Undead Kraken of the Eastern Skies
-17,Artifact,Legendary,Angry Greaves
-18,Creature,Common,Dwarf
-19,Enchantment,Rare,Forged Shield
-20,Creature,Common,Orc
-21,Spell,Legendary,Angry Sorrow
-22,Spell,Common,Infuriate
-23,Creature,Rare,Frozen Knight Fairy
-24,Creature,Common,Paladin
-25,Spell,Legendary,Urgent Hypnosis
-26,Spell,Common,Lightning
-27,Creature,Common,Dwarf
-28,Creature,Common,Wolf
-29,Enchantment,Common,Alacrity
-30,Spell,Legendary,Instant Frenzy
-31,Artifact,Common,Ring
-32,Spell,Legendary,Dire Ice
-33,Creature,Legendary,Earth Lord Kraken of the Arctic Blizzards
-34,Creature,Common,Ghoul
-35,Creature,Common,Wolf
-36,Creature,Common,Ghoul
-37,Creature,Legendary,Aura Thief Oni of the Eternal Land
-38,Creature,Common,Goblin
-39,Creature,Rare,Light Assassin Skin-Walker
-40,Creature,Common,Elf
-41,Creature,Common,Paladin
-42,Creature,Mythic,Aura Time Phoenix of the Light
-43,Enchantment,Common,Strength
-44,Creature,Common,Eagle
+==================,DECK,5317
+0,Spell,Sorrow
+1,Artifact,Shield
+2,Spell,Clever Frigid Fireball
+3,Creature,Snow Assassin Goblin
+4,Creature,Warlock
+5,Enchantment,Age
+6,Spell,Frost
+7,Creature,Frozen Merchant Orc
+8,Creature,Magi
+9,Creature,Frozen Merchant Elf of the Eastern Skies
+10,Enchantment,Invert
+11,Creature,Warlock
+12,Creature,Death Warrior Hydra
+13,Enchantment,Life Drain
+14,Artifact,Cataclysmic Amulet
+15,Creature,Skin-Walker
+16,Creature,Light Undead Ogre of the Eastern Skies
+17,Artifact,Mighty Dark Greaves
+18,Creature,Magi
+19,Enchantment,Gloom Firebreath
+20,Creature,Spider
+21,Spell,Mighty Lunar Gale
+22,Spell,Rage
+23,Creature,Frozen Knight Kraken
+24,Creature,Troll
+25,Spell,Clever Solar Torment
+26,Spell,Reanimate
+27,Creature,Magi
+28,Creature,Wolf
+29,Enchantment,Alacrity
+30,Spell,Urgent Corpse Burn
+31,Artifact,Ring
+32,Spell,Potent Life Lightning
+33,Creature,Earth Lord Ogre of the Arctic Blizzards
+34,Creature,Ghoul
+35,Creature,Wolf
+36,Creature,Ghoul
+37,Creature,Aura Thief Oni of the Eternal Land
+38,Creature,Skin-Walker
+39,Creature,Light Assassin Orc
+40,Creature,Warlock
+41,Creature,Troll
+42,Creature,Aura Time Phoenix of the Light
+43,Enchantment,Strength
+44,Creature,Eagle

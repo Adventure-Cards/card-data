@@ -1,46 +1,46 @@
-==================,DECK,7525,Light
-0,Creature,Common,Goblin
-1,Artifact,Rare,Miracle Sigil
-2,Artifact,Common,Scepter
-3,Spell,Legendary,Angry Stun
-4,Creature,Common,Ghoul
-5,Artifact,Common,Divine Robe
-6,Artifact,Rare,Dark Crown
-7,Enchantment,Legendary,Urgent Lethargy
-8,Creature,Legendary,Frozen Thief Cyclops of the Black Stone
-9,Artifact,Common,Crown
-10,Creature,Common,Ghoul
-11,Enchantment,Rare,Forged Shield
-12,Creature,Common,Elf
-13,Creature,Common,Goblin
-14,Creature,Common,Elf
-15,Artifact,Rare,Corpse Helm
-16,Enchantment,Rare,Nimble Shade
-17,Creature,Legendary,Snow King Oni of the Plains
-18,Creature,Rare,Aura Priest Griffin
-19,Enchantment,Rare,Apocalypse Drain
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Blight
-22,Creature,Legendary,Light Undead Kraken of the Magical Forest
-23,Creature,Common,Orc
-24,Spell,Rare,Nimble Rage
-25,Spell,Common,Rage
-26,Creature,Common,Eagle
-27,Creature,Common,Warlock
-28,Creature,Common,Paladin
-29,Creature,Rare,Aura Knight Skin-Walker
-30,Creature,Common,Ghoul
-31,Creature,Common,Wolf
-32,Spell,Common,Pandemonium
-33,Creature,Common,Dwarf
-34,Creature,Legendary,Dark Priest Cyclops of the Border
-35,Enchantment,Common,Shrink
-36,Enchantment,Common,Age
-37,Creature,Common,Ghoul
-38,Creature,Legendary,Light Lord Kraken of the Arctic Blizzards
-39,Artifact,Common,Helmet
-40,Creature,Legendary,Light Warrior Oni of the Low Hills
-41,Creature,Mythic,Death Time Dragon of the Dead
-42,Spell,Common,Rage
-43,Spell,Legendary,Instant Freeze
-44,Spell,Common,Stun
+==================,DECK,7525
+0,Creature,Skin-Walker
+1,Artifact,Apocalypse Sigil
+2,Artifact,Scepter
+3,Spell,Mighty Cataclysmic Reanimate
+4,Creature,Ghoul
+5,Artifact,Divine Robe
+6,Artifact,Cataclysmic Crown
+7,Enchantment,Ardent Hateful Lethargy
+8,Creature,Frozen Thief Giant of the Black Stone
+9,Artifact,Crown
+10,Creature,Ghoul
+11,Enchantment,Gloom Shield
+12,Creature,Warlock
+13,Creature,Skin-Walker
+14,Creature,Warlock
+15,Artifact,Corpse Helm
+16,Enchantment,Necro Agony
+17,Creature,Snow King Oni of the Plains
+18,Creature,Aura Priest Griffin
+19,Enchantment,Apocalypse Drain
+20,Enchantment,Firebreath
+21,Enchantment,Haste
+22,Creature,Light Undead Ogre of the Magical Forest
+23,Creature,Spider
+24,Spell,Corpse Wall
+25,Spell,Fury
+26,Creature,Eagle
+27,Creature,Berserker
+28,Creature,Troll
+29,Creature,Aura Knight Orc
+30,Creature,Ghoul
+31,Creature,Wolf
+32,Spell,Frenzy
+33,Creature,Magi
+34,Creature,Dark Priest Giant of the Border
+35,Enchantment,Age
+36,Enchantment,Lethargy
+37,Creature,Ghoul
+38,Creature,Light Lord Ogre of the Arctic Blizzards
+39,Artifact,Helmet
+40,Creature,Light Warrior Oni of the Low Hills
+41,Creature,Death Time Dragon of the Dead
+42,Spell,Maelstrom
+43,Spell,Urgent Corpse Burn
+44,Spell,Burn

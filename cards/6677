@@ -1,46 +1,46 @@
-==================,DECK,6677,Medium
-0,Artifact,Common,Pendant
-1,Creature,Rare,Earth Priest Hydra
-2,Creature,Common,Dwarf
-3,Creature,Rare,Dark Merchant Hydra
-4,Creature,Common,Paladin
-5,Creature,Rare,Frozen Rogue Fairy
-6,Creature,Common,Spider
-7,Enchantment,Mythic,Mighty Shield
-8,Creature,Mythic,Snow Grand Demon of Hate
-9,Creature,Common,Magi
-10,Creature,Mythic,Death Ancient Wizard of the Dead
-11,Spell,Common,Pandemonium
-12,Spell,Rare,Shimmering Burst
-13,Enchantment,Mythic,Instant Shade
-14,Creature,Common,Eagle
-15,Enchantment,Common,Age
-16,Creature,Common,Ghoul
-17,Spell,Rare,Shimmering Stricken
-18,Creature,Common,Dwarf
-19,Enchantment,Rare,Hateful Flight
-20,Creature,Common,Wolf
-21,Creature,Common,Elf
-22,Enchantment,Common,Deathgrip
-23,Spell,Mythic,Extreme Reanimate
-24,Creature,Common,Spider
-25,Creature,Common,Elf
-26,Creature,Legendary,Aura Rogue Oni of the Plains
-27,Artifact,Common,Scythe
-28,Creature,Rare,Aura Undead Minotaur
-29,Artifact,Common,Ring
-30,Enchantment,Common,Agony
-31,Spell,Rare,Frigid Revive
-32,Creature,Rare,Snow King Fairy
-33,Spell,Rare,Oblivion Rage
-34,Enchantment,Rare,Forged Lethargy
-35,Creature,Common,Magi
-36,Creature,Common,Paladin
-37,Enchantment,Common,Haste
-38,Creature,Rare,Light Queen Griffin
-39,Creature,Rare,Earth Priest Griffin
-40,Creature,Common,Ghoul
-41,Spell,Common,Heal
-42,Creature,Mythic,Snow Grand Demon of Hate
-43,Creature,Rare,Dark Thief Fairy
-44,Creature,Rare,Frozen King Fairy
+==================,DECK,6677
+0,Artifact,Pendant
+1,Creature,Earth Priest Hydra
+2,Creature,Magi
+3,Creature,Dark Merchant Hydra
+4,Creature,Troll
+5,Creature,Frozen Rogue Kraken
+6,Creature,Paladin
+7,Enchantment,Urgent Gloom Flight
+8,Creature,Snow Grand Demon of Hate
+9,Creature,Fairy
+10,Creature,Death Ancient Wizard of the Dead
+11,Spell,Burn
+12,Spell,Corpse Gale
+13,Enchantment,Instant Necro Strength
+14,Creature,Eagle
+15,Enchantment,Deathgrip
+16,Creature,Ghoul
+17,Spell,Shimmering Revive
+18,Creature,Magi
+19,Enchantment,Lunar Flight
+20,Creature,Wolf
+21,Creature,Warlock
+22,Enchantment,Blight
+23,Spell,Clever Cataclysmic Sorrow
+24,Creature,Paladin
+25,Creature,Warlock
+26,Creature,Aura Rogue Oni of the Plains
+27,Artifact,Scythe
+28,Creature,Aura Undead Cyclops
+29,Artifact,Ring
+30,Enchantment,Shield
+31,Spell,Grim Sorrow
+32,Creature,Snow King Kraken
+33,Spell,Frigid Stun
+34,Enchantment,Lunar Shrink
+35,Creature,Fairy
+36,Creature,Troll
+37,Enchantment,Shade
+38,Creature,Light Queen Griffin
+39,Creature,Earth Priest Griffin
+40,Creature,Ghoul
+41,Spell,Gravitation
+42,Creature,Snow Grand Demon of Hate
+43,Creature,Dark Thief Kraken
+44,Creature,Frozen King Kraken

@@ -1,46 +1,46 @@
-==================,DECK,6183,Light
-0,Spell,Common,Maelstrom
-1,Creature,Rare,Frozen Thief Minotaur
-2,Enchantment,Common,Shield
-3,Creature,Common,Paladin
-4,Enchantment,Common,Agony
-5,Creature,Common,Warlock
-6,Creature,Common,Wolf
-7,Spell,Common,Gale
-8,Creature,Common,Ghoul
-9,Enchantment,Common,Invert
-10,Spell,Common,Frost
-11,Creature,Common,Paladin
-12,Spell,Common,Maelstrom
-13,Spell,Common,Gravitation
-14,Creature,Common,Wolf
-15,Artifact,Legendary,Angry Crown
-16,Enchantment,Legendary,Extreme Lethargy
-17,Artifact,Common,Sigil
-18,Enchantment,Common,Shrink
-19,Artifact,Common,Crown
-20,Creature,Rare,Aura Knight Berserker
-21,Spell,Common,Invisibility
-22,Enchantment,Rare,Frigid Lethargy
-23,Creature,Common,Goblin
-24,Creature,Rare,Aura Queen Hydra
-25,Artifact,Rare,Corpse Shield
-26,Enchantment,Common,Invert
-27,Creature,Common,Magi
-28,Spell,Legendary,Urgent Invisibility
-29,Creature,Common,Wolf
-30,Spell,Common,Pandemonium
-31,Spell,Common,Gravitation
-32,Artifact,Common,Scepter
-33,Enchantment,Common,Flight
-34,Creature,Legendary,Aura Assassin Orge of the Mountains
-35,Spell,Rare,Lunar Burst
-36,Spell,Common,Lightning
-37,Spell,Rare,Necro Ice
-38,Creature,Common,Paladin
-39,Creature,Common,Wolf
-40,Creature,Legendary,Frozen Priest Cyclops of the Magical Forest
-41,Artifact,Legendary,Intense Divine Robe
-42,Spell,Rare,Nature Fury
-43,Creature,Legendary,Earth Undead Cyclops of the Mountains
-44,Enchantment,Common,Invert
+==================,DECK,6183
+0,Spell,Reanimate
+1,Creature,Frozen Thief Cyclops
+2,Enchantment,Lethargy
+3,Creature,Troll
+4,Enchantment,Alacrity
+5,Creature,Berserker
+6,Creature,Wolf
+7,Spell,Sorrow
+8,Creature,Ghoul
+9,Enchantment,Lethargy
+10,Spell,Reanimate
+11,Creature,Troll
+12,Spell,Fire
+13,Spell,Stricken
+14,Creature,Wolf
+15,Artifact,Zealous Chimeric Crown
+16,Enchantment,Instant Lunar Shrink
+17,Artifact,Sigil
+18,Enchantment,Shade
+19,Artifact,Crown
+20,Creature,Aura Knight Goblin
+21,Spell,Gale
+22,Enchantment,Grim Haste
+23,Creature,Skin-Walker
+24,Creature,Aura Queen Hydra
+25,Artifact,Hateful Shield
+26,Enchantment,Invert
+27,Creature,Fairy
+28,Spell,Irate Necro Torment
+29,Creature,Wolf
+30,Spell,Invisibility
+31,Spell,Hypnosis
+32,Artifact,Scepter
+33,Enchantment,Shield
+34,Creature,Aura Assassin Elf of the Mountains
+35,Spell,Dark Heal
+36,Spell,Infuriate
+37,Spell,Forged Tempest
+38,Creature,Troll
+39,Creature,Wolf
+40,Creature,Frozen Priest Giant of the Magical Forest
+41,Artifact,Potent Nature Divine Robe
+42,Spell,Corpse Frost
+43,Creature,Earth Undead Giant of the Mountains
+44,Enchantment,Alacrity

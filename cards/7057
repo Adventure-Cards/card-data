@@ -1,46 +1,46 @@
-==================,DECK,7057,Light
-0,Artifact,Common,Ghost Wand
-1,Creature,Common,Paladin
-2,Artifact,Common,Crown
-3,Enchantment,Rare,Necro Flight
-4,Artifact,Legendary,Angry Bow
-5,Creature,Rare,Earth King Fairy
-6,Artifact,Common,Bow
-7,Creature,Common,Magi
-8,Artifact,Common,Potion
-9,Creature,Common,Wolf
-10,Enchantment,Common,Strength
-11,Creature,Legendary,Earth Fighter Cyclops of the Golden Palace
-12,Spell,Common,Frost
-13,Creature,Rare,Snow Undead Berserker
-14,Enchantment,Common,Blight
-15,Spell,Common,Torment
-16,Enchantment,Rare,Nature Blight
-17,Creature,Legendary,Snow King Giant of the Frozen Castle
-18,Enchantment,Rare,Nature Flight
-19,Creature,Mythic,Aura Nameless Phoenix of the Light
-20,Creature,Common,Dwarf
-21,Creature,Rare,Frozen Assassin Minotaur
-22,Spell,Common,Ice
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Deathgrip
-25,Artifact,Common,Greaves
-26,Artifact,Common,Tome
-27,Creature,Common,Elf
-28,Enchantment,Common,Invert
-29,Creature,Common,Wolf
-30,Spell,Common,Stun
-31,Creature,Mythic,Snow Ancient Demon of Hate
-32,Creature,Common,Warlock
-33,Spell,Common,Burst
-34,Creature,Rare,Death Warrior Hydra
-35,Creature,Rare,Earth Thief Skin-Walker
-36,Creature,Common,Magi
-37,Creature,Common,Dwarf
-38,Creature,Common,Paladin
-39,Creature,Rare,Snow Fighter Fairy
-40,Creature,Common,Orc
-41,Creature,Common,Wolf
-42,Creature,Rare,Death Assassin Fairy
-43,Creature,Common,Warlock
-44,Artifact,Common,Shield
+==================,DECK,7057
+0,Artifact,Ghost Wand
+1,Creature,Troll
+2,Artifact,Crown
+3,Enchantment,Hateful Age
+4,Artifact,Mighty Dark Bow
+5,Creature,Earth King Kraken
+6,Artifact,Bow
+7,Creature,Fairy
+8,Artifact,Potion
+9,Creature,Wolf
+10,Enchantment,Strength
+11,Creature,Earth Fighter Giant of the Golden Palace
+12,Spell,Gale
+13,Creature,Snow Undead Goblin
+14,Enchantment,Blight
+15,Spell,Infuriate
+16,Enchantment,Solar Deathgrip
+17,Creature,Snow King Dwarf of the Frozen Castle
+18,Enchantment,Hateful Strength
+19,Creature,Aura Nameless Phoenix of the Light
+20,Creature,Magi
+21,Creature,Frozen Assassin Cyclops
+22,Spell,Rage
+23,Creature,Ghoul
+24,Enchantment,Drain
+25,Artifact,Greaves
+26,Artifact,Tome
+27,Creature,Warlock
+28,Enchantment,Shade
+29,Creature,Wolf
+30,Spell,Assault
+31,Creature,Snow Ancient Demon of Hate
+32,Creature,Berserker
+33,Spell,Fire
+34,Creature,Death Warrior Hydra
+35,Creature,Earth Thief Orc
+36,Creature,Fairy
+37,Creature,Magi
+38,Creature,Troll
+39,Creature,Snow Fighter Kraken
+40,Creature,Spider
+41,Creature,Wolf
+42,Creature,Death Assassin Kraken
+43,Creature,Berserker
+44,Artifact,Shield

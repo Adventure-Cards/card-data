@@ -1,46 +1,46 @@
-==================,DECK,6976,Light
-0,Creature,Legendary,Light Thief Cyclops of the Mountains
-1,Spell,Rare,Shimmering Infuriate
-2,Spell,Common,Rage
-3,Creature,Common,Paladin
-4,Creature,Common,Dwarf
-5,Enchantment,Common,Agony
-6,Spell,Legendary,Urgent Gravitation
-7,Creature,Common,Orc
-8,Creature,Common,Ghoul
-9,Artifact,Rare,Gloom Gauntlet
-10,Creature,Common,Orc
-11,Creature,Common,Ghoul
-12,Creature,Common,Wolf
-13,Enchantment,Rare,Corpse Strength
-14,Enchantment,Common,Shade
-15,Enchantment,Rare,Nimble Alacrity
-16,Creature,Common,Paladin
-17,Creature,Common,Wolf
-18,Enchantment,Legendary,Angry Age
-19,Enchantment,Common,Invert
-20,Artifact,Common,Bracers
-21,Creature,Common,Magi
-22,Enchantment,Common,Blight
-23,Creature,Common,Elf
-24,Creature,Common,Warlock
-25,Enchantment,Common,Invert
-26,Spell,Common,Torment
-27,Creature,Common,Spider
-28,Creature,Common,Goblin
-29,Creature,Common,Eagle
-30,Artifact,Common,Pendant
-31,Spell,Common,Rage
-32,Creature,Common,Orc
-33,Creature,Common,Orc
-34,Creature,Rare,Frozen Lord Berserker
-35,Creature,Common,Elf
-36,Artifact,Rare,Hateful Bow
-37,Creature,Common,Eagle
-38,Creature,Common,Eagle
-39,Creature,Common,Warlock
-40,Enchantment,Common,Invert
-41,Enchantment,Rare,Solar Invert
-42,Artifact,Common,Scythe
-43,Creature,Common,Elf
-44,Creature,Legendary,Death Assassin Cyclops of the West
+==================,DECK,6976
+0,Creature,Light Thief Giant of the Mountains
+1,Spell,Necro Torment
+2,Spell,Maelstrom
+3,Creature,Troll
+4,Creature,Magi
+5,Enchantment,Shade
+6,Spell,Urgent Shimmering Heal
+7,Creature,Spider
+8,Creature,Ghoul
+9,Artifact,Chimeric Gauntlet
+10,Creature,Spider
+11,Creature,Ghoul
+12,Creature,Wolf
+13,Enchantment,Solar Lethargy
+14,Enchantment,Strength
+15,Enchantment,Forged Strength
+16,Creature,Troll
+17,Creature,Wolf
+18,Enchantment,Mighty Gloom Flight
+19,Enchantment,Invert
+20,Artifact,Bracers
+21,Creature,Fairy
+22,Enchantment,Blight
+23,Creature,Warlock
+24,Creature,Berserker
+25,Enchantment,Age
+26,Spell,Gravitation
+27,Creature,Paladin
+28,Creature,Skin-Walker
+29,Creature,Eagle
+30,Artifact,Pendant
+31,Spell,Fury
+32,Creature,Spider
+33,Creature,Spider
+34,Creature,Frozen Lord Goblin
+35,Creature,Warlock
+36,Artifact,Chimeric Bow
+37,Creature,Eagle
+38,Creature,Eagle
+39,Creature,Berserker
+40,Enchantment,Strength
+41,Enchantment,Shimmering Strength
+42,Artifact,Scythe
+43,Creature,Warlock
+44,Creature,Death Assassin Giant of the West

@@ -1,46 +1,46 @@
-==================,DECK,7096,Light
-0,Enchantment,Common,Shrink
-1,Artifact,Legendary,Extreme Ring
-2,Artifact,Common,Cloak
-3,Creature,Common,Paladin
-4,Creature,Common,Eagle
-5,Enchantment,Mythic,Angry Shade
-6,Creature,Common,Ghoul
-7,Creature,Rare,Death Merchant Berserker
-8,Spell,Common,Frost
-9,Spell,Common,Frost
-10,Artifact,Common,Amulet
-11,Spell,Common,Frenzy
-12,Creature,Common,Goblin
-13,Enchantment,Common,Drain
-14,Artifact,Common,Ghost Wand
-15,Enchantment,Common,Blight
-16,Spell,Common,Freeze
-17,Creature,Common,Paladin
-18,Artifact,Common,Boots
-19,Creature,Common,Orc
-20,Creature,Common,Magi
-21,Spell,Rare,Oblivion Freeze
-22,Spell,Common,Vortex
-23,Artifact,Common,Gloves
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Common,Age
-26,Creature,Common,Wolf
-27,Creature,Common,Elf
-28,Enchantment,Common,Shrink
-29,Creature,Common,Dwarf
-30,Creature,Common,Paladin
-31,Spell,Common,Stun
-32,Spell,Rare,Nimble Torment
-33,Enchantment,Common,Shield
-34,Spell,Rare,Miracle Gale
-35,Creature,Common,Spider
-36,Spell,Common,Vortex
-37,Artifact,Common,Gloves
-38,Creature,Common,Wolf
-39,Artifact,Common,Scepter
-40,Creature,Legendary,Aura Priest Oni of the West
-41,Creature,Common,Magi
-42,Artifact,Common,Amulet
-43,Creature,Common,Elf
-44,Spell,Common,Burn
+==================,DECK,7096
+0,Enchantment,Blight
+1,Artifact,Ardent Cataclysmic Ring
+2,Artifact,Cloak
+3,Creature,Troll
+4,Creature,Eagle
+5,Enchantment,Urgent Chimeric Flight
+6,Creature,Ghoul
+7,Creature,Death Merchant Goblin
+8,Spell,Maelstrom
+9,Spell,Gale
+10,Artifact,Amulet
+11,Spell,Gale
+12,Creature,Skin-Walker
+13,Enchantment,Flight
+14,Artifact,Ghost Wand
+15,Enchantment,Deathgrip
+16,Spell,Maelstrom
+17,Creature,Troll
+18,Artifact,Boots
+19,Creature,Spider
+20,Creature,Fairy
+21,Spell,Frigid Infuriate
+22,Spell,Invisibility
+23,Artifact,Gloves
+24,Enchantment,Age
+25,Enchantment,Alacrity
+26,Creature,Wolf
+27,Creature,Warlock
+28,Enchantment,Blight
+29,Creature,Magi
+30,Creature,Troll
+31,Spell,Gale
+32,Spell,Solar Burn
+33,Enchantment,Deathgrip
+34,Spell,Grim Infuriate
+35,Creature,Paladin
+36,Spell,Rage
+37,Artifact,Gloves
+38,Creature,Wolf
+39,Artifact,Scepter
+40,Creature,Aura Priest Oni of the West
+41,Creature,Fairy
+42,Artifact,Amulet
+43,Creature,Warlock
+44,Spell,Hypnosis

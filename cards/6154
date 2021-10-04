@@ -1,46 +1,46 @@
-==================,DECK,6154,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Paladin
-2,Spell,Common,Pandemonium
-3,Creature,Common,Wolf
-4,Enchantment,Common,Strength
-5,Artifact,Common,Crown
-6,Artifact,Common,Potion
-7,Creature,Rare,Dark Lord Griffin
-8,Enchantment,Common,Alacrity
-9,Creature,Common,Goblin
-10,Enchantment,Common,Flight
-11,Spell,Legendary,Extreme Lightning
-12,Creature,Common,Spider
-13,Spell,Legendary,Intense Burn
-14,Artifact,Common,Helm
-15,Enchantment,Common,Shade
-16,Spell,Rare,Corpse Gravitation
-17,Artifact,Rare,Gloom Bow
-18,Enchantment,Common,Alacrity
-19,Spell,Common,Gale
-20,Creature,Common,Orc
-21,Artifact,Common,Potion
-22,Enchantment,Common,Age
-23,Creature,Common,Magi
-24,Creature,Common,Paladin
-25,Spell,Common,Assault
-26,Spell,Common,Fury
-27,Spell,Common,Wall
-28,Creature,Rare,Frozen Lord Minotaur
-29,Spell,Common,Gravitation
-30,Enchantment,Common,Flight
-31,Spell,Common,Stricken
-32,Spell,Common,Pandemonium
-33,Creature,Common,Dwarf
-34,Enchantment,Legendary,Intense Invert
-35,Creature,Mythic,Death Grand Wizard of the Dead
-36,Creature,Rare,Frozen Thief Minotaur
-37,Enchantment,Common,Alacrity
-38,Spell,Legendary,Angry Burst
-39,Spell,Rare,Lunar Reanimate
-40,Spell,Common,Vortex
-41,Creature,Common,Ghoul
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Dark Queen Minotaur
-44,Enchantment,Common,Strength
+==================,DECK,6154
+0,Creature,Berserker
+1,Creature,Troll
+2,Spell,Frenzy
+3,Creature,Wolf
+4,Enchantment,Age
+5,Artifact,Crown
+6,Artifact,Potion
+7,Creature,Dark Lord Griffin
+8,Enchantment,Shade
+9,Creature,Skin-Walker
+10,Enchantment,Flight
+11,Spell,Ardent Cataclysmic Fire
+12,Creature,Paladin
+13,Spell,Zealous Solar Sorrow
+14,Artifact,Helm
+15,Enchantment,Alacrity
+16,Spell,Shimmering Heal
+17,Artifact,Sorrow Bow
+18,Enchantment,Drain
+19,Spell,Fury
+20,Creature,Spider
+21,Artifact,Potion
+22,Enchantment,Blight
+23,Creature,Fairy
+24,Creature,Troll
+25,Spell,Infuriate
+26,Spell,Gale
+27,Spell,Hypnosis
+28,Creature,Frozen Lord Cyclops
+29,Spell,Sorrow
+30,Enchantment,Shade
+31,Spell,Fireball
+32,Spell,Pandemonium
+33,Creature,Magi
+34,Enchantment,Urgent Shimmering Agony
+35,Creature,Death Grand Wizard of the Dead
+36,Creature,Frozen Thief Cyclops
+37,Enchantment,Drain
+38,Spell,Clever Miracle Stricken
+39,Spell,Sorrow Vortex
+40,Spell,Gravitation
+41,Creature,Ghoul
+42,Enchantment,Deathgrip
+43,Creature,Dark Queen Cyclops
+44,Enchantment,Blight

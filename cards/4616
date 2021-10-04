@@ -1,46 +1,46 @@
-==================,DECK,4616,Medium
-0,Artifact,Common,Potion
-1,Spell,Common,Freeze
-2,Artifact,Rare,Nature Cloak
-3,Creature,Common,Wolf
-4,Creature,Common,Eagle
-5,Creature,Rare,Dark Monk Griffin
-6,Creature,Rare,Aura Warrior Skin-Walker
-7,Spell,Common,Frenzy
-8,Creature,Rare,Dark Queen Hydra
-9,Enchantment,Mythic,Angry Lethargy
-10,Creature,Rare,Dark Lord Fairy
-11,Spell,Common,Wall
-12,Enchantment,Mythic,Angry Haste
-13,Enchantment,Common,Lethargy
-14,Enchantment,Rare,Solar Agony
-15,Artifact,Common,Bow
-16,Creature,Common,Elf
-17,Creature,Common,Warlock
-18,Enchantment,Legendary,Angry Invert
-19,Spell,Rare,Shimmering Pandemonium
-20,Creature,Common,Warlock
-21,Creature,Common,Dwarf
-22,Creature,Rare,Snow Monk Fairy
-23,Creature,Common,Dwarf
-24,Spell,Common,Burn
-25,Creature,Common,Orc
-26,Creature,Mythic,Dark Grand Wizard of Illusion
-27,Artifact,Common,Bow
-28,Creature,Rare,Earth Lord Fairy
-29,Artifact,Rare,Grim Gloves
-30,Creature,Legendary,Dark Rogue Kraken of the Swamp
-31,Creature,Common,Magi
-32,Creature,Common,Wolf
-33,Creature,Common,Eagle
-34,Creature,Rare,Snow Assassin Minotaur
-35,Creature,Common,Dwarf
-36,Creature,Common,Orc
-37,Creature,Common,Warlock
-38,Spell,Rare,Frigid Frost
-39,Enchantment,Common,Invert
-40,Creature,Rare,Light Knight Hydra
-41,Spell,Legendary,Extreme Torment
-42,Creature,Rare,Light Queen Skin-Walker
-43,Creature,Common,Eagle
-44,Artifact,Common,Scepter
+==================,DECK,4616
+0,Artifact,Potion
+1,Spell,Invisibility
+2,Artifact,Corpse Cloak
+3,Creature,Wolf
+4,Creature,Eagle
+5,Creature,Dark Monk Griffin
+6,Creature,Aura Warrior Orc
+7,Spell,Infuriate
+8,Creature,Dark Queen Hydra
+9,Enchantment,Ardent Lunar Shield
+10,Creature,Dark Lord Kraken
+11,Spell,Stun
+12,Enchantment,Mighty Miracle Flight
+13,Enchantment,Alacrity
+14,Enchantment,Corpse Strength
+15,Artifact,Bow
+16,Creature,Warlock
+17,Creature,Berserker
+18,Enchantment,Instant Sorrow Shrink
+19,Spell,Forged Wall
+20,Creature,Berserker
+21,Creature,Magi
+22,Creature,Snow Monk Kraken
+23,Creature,Magi
+24,Spell,Tempest
+25,Creature,Spider
+26,Creature,Dark Grand Wizard of Illusion
+27,Artifact,Bow
+28,Creature,Earth Lord Kraken
+29,Artifact,Nimble Gloves
+30,Creature,Dark Rogue Ogre of the Swamp
+31,Creature,Fairy
+32,Creature,Wolf
+33,Creature,Eagle
+34,Creature,Snow Assassin Cyclops
+35,Creature,Magi
+36,Creature,Spider
+37,Creature,Berserker
+38,Spell,Apocalypse Revive
+39,Enchantment,Lethargy
+40,Creature,Light Knight Hydra
+41,Spell,Ardent Sorrow Lightning
+42,Creature,Light Queen Orc
+43,Creature,Eagle
+44,Artifact,Scepter

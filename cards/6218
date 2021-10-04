@@ -1,46 +1,46 @@
-==================,DECK,6218,Medium
-0,Creature,Common,Paladin
-1,Creature,Common,Elf
-2,Creature,Common,Orc
-3,Enchantment,Common,Shade
-4,Spell,Common,Maelstrom
-5,Spell,Common,Wall
-6,Creature,Rare,Snow Queen Berserker
-7,Artifact,Common,Gloves
-8,Enchantment,Rare,Corpse Strength
-9,Creature,Rare,Snow Rogue Berserker
-10,Spell,Common,Lightning
-11,Enchantment,Rare,Dark Invert
-12,Creature,Rare,Earth Priest Griffin
-13,Enchantment,Rare,Oblivion Shade
-14,Spell,Common,Stun
-15,Artifact,Rare,Forged Ghost Wand
-16,Enchantment,Mythic,Dire Shield
-17,Spell,Common,Wall
-18,Creature,Common,Warlock
-19,Artifact,Rare,Solar Sword
-20,Enchantment,Common,Age
-21,Creature,Rare,Light Thief Griffin
-22,Enchantment,Common,Deathgrip
-23,Enchantment,Common,Shrink
-24,Enchantment,Mythic,Mighty Shade
-25,Creature,Common,Eagle
-26,Creature,Common,Elf
-27,Enchantment,Mythic,Dire Lethargy
-28,Enchantment,Common,Shade
-29,Creature,Common,Warlock
-30,Spell,Legendary,Extreme Fury
-31,Creature,Common,Ghoul
-32,Creature,Legendary,Light Knight Cyclops of the Frozen Castle
-33,Creature,Common,Goblin
-34,Creature,Legendary,Frozen Assassin Oni of the Arctic Blizzards
-35,Creature,Legendary,Dark Rogue Kraken of the Low Hills
-36,Enchantment,Rare,Solar Lethargy
-37,Creature,Common,Orc
-38,Spell,Common,Ice
-39,Creature,Rare,Dark Fighter Griffin
-40,Creature,Rare,Frozen Lord Berserker
-41,Artifact,Legendary,Instant Belt
-42,Creature,Rare,Frozen Merchant Berserker
-43,Enchantment,Legendary,Clever Shade
-44,Creature,Common,Orc
+==================,DECK,6218
+0,Creature,Troll
+1,Creature,Warlock
+2,Creature,Spider
+3,Enchantment,Flight
+4,Spell,Stun
+5,Spell,Burn
+6,Creature,Snow Queen Goblin
+7,Artifact,Gloves
+8,Enchantment,Solar Agony
+9,Creature,Snow Rogue Goblin
+10,Spell,Freeze
+11,Enchantment,Sorrow Alacrity
+12,Creature,Earth Priest Griffin
+13,Enchantment,Frigid Shade
+14,Spell,Frenzy
+15,Artifact,Sorrow Ghost Wand
+16,Enchantment,Urgent Victory Invert
+17,Spell,Rage
+18,Creature,Berserker
+19,Artifact,Shimmering Sword
+20,Enchantment,Flight
+21,Creature,Light Thief Griffin
+22,Enchantment,Agony
+23,Enchantment,Drain
+24,Enchantment,Dire Chimeric Firebreath
+25,Creature,Eagle
+26,Creature,Warlock
+27,Enchantment,Instant Grim Drain
+28,Enchantment,Drain
+29,Creature,Berserker
+30,Spell,Empyrean Lunar Revive
+31,Creature,Ghoul
+32,Creature,Light Knight Giant of the Frozen Castle
+33,Creature,Skin-Walker
+34,Creature,Frozen Assassin Oni of the Arctic Blizzards
+35,Creature,Dark Rogue Ogre of the Low Hills
+36,Enchantment,Hateful Deathgrip
+37,Creature,Spider
+38,Spell,Vortex
+39,Creature,Dark Fighter Griffin
+40,Creature,Frozen Lord Goblin
+41,Artifact,Dire Hateful Belt
+42,Creature,Frozen Merchant Goblin
+43,Enchantment,Ardent Frigid Haste
+44,Creature,Spider

@@ -1,46 +1,46 @@
-==================,DECK,5552,Light
-0,Creature,Legendary,Aura Undead Cyclops of the Magical Forest
-1,Creature,Common,Eagle
-2,Enchantment,Common,Alacrity
-3,Creature,Rare,Death Assassin Hydra
-4,Enchantment,Common,Blight
-5,Creature,Legendary,Death Priest Giant of the Eastern Skies
-6,Spell,Rare,Oblivion Heal
-7,Enchantment,Rare,Grim Shield
-8,Creature,Common,Warlock
-9,Creature,Rare,Dark Monk Griffin
-10,Spell,Rare,Nature Ice
-11,Enchantment,Common,Deathgrip
-12,Creature,Legendary,Aura Undead Cyclops of the Eastern Skies
-13,Creature,Common,Dwarf
-14,Creature,Common,Paladin
-15,Creature,Legendary,Death Assassin Kraken of the Frozen Castle
-16,Enchantment,Rare,Solar Lethargy
-17,Creature,Common,Wolf
-18,Enchantment,Common,Alacrity
-19,Spell,Common,Ice
-20,Enchantment,Common,Flight
-21,Spell,Common,Hypnosis
-22,Creature,Mythic,Earth Grand Demon of the Shadows
-23,Creature,Legendary,Earth Undead Kraken of the Swamp
-24,Enchantment,Mythic,Dire Haste
-25,Creature,Legendary,Light King Cyclops of the Polar Woods
-26,Artifact,Common,Helmet
-27,Creature,Legendary,Death Rogue Oni of the Swamp
-28,Creature,Common,Paladin
-29,Creature,Common,Dwarf
-30,Creature,Rare,Dark Warrior Griffin
-31,Enchantment,Common,Blight
-32,Enchantment,Common,Alacrity
-33,Creature,Rare,Frozen Rogue Hydra
-34,Enchantment,Common,Drain
-35,Enchantment,Mythic,Clever Lethargy
-36,Spell,Common,Fury
-37,Creature,Common,Eagle
-38,Enchantment,Common,Strength
-39,Spell,Common,Pandemonium
-40,Creature,Common,Goblin
-41,Creature,Common,Ghoul
-42,Enchantment,Rare,Frigid Shield
-43,Enchantment,Common,Alacrity
-44,Creature,Common,Eagle
+==================,DECK,5552
+0,Creature,Aura Undead Giant of the Magical Forest
+1,Creature,Eagle
+2,Enchantment,Blight
+3,Creature,Death Assassin Hydra
+4,Enchantment,Flight
+5,Creature,Death Priest Dwarf of the Eastern Skies
+6,Spell,Frigid Heal
+7,Enchantment,Victory Drain
+8,Creature,Berserker
+9,Creature,Dark Monk Griffin
+10,Spell,Corpse Burn
+11,Enchantment,Shade
+12,Creature,Aura Undead Giant of the Eastern Skies
+13,Creature,Magi
+14,Creature,Troll
+15,Creature,Death Assassin Ogre of the Frozen Castle
+16,Enchantment,Hateful Age
+17,Creature,Wolf
+18,Enchantment,Invert
+19,Spell,Pandemonium
+20,Enchantment,Shade
+21,Spell,Fury
+22,Creature,Earth Grand Demon of the Shadows
+23,Creature,Earth Undead Ogre of the Swamp
+24,Enchantment,Mighty Life Invert
+25,Creature,Light King Giant of the Polar Woods
+26,Artifact,Helmet
+27,Creature,Death Rogue Oni of the Swamp
+28,Creature,Troll
+29,Creature,Magi
+30,Creature,Dark Warrior Griffin
+31,Enchantment,Shrink
+32,Enchantment,Blight
+33,Creature,Frozen Rogue Hydra
+34,Enchantment,Shield
+35,Enchantment,Dire Grim Shade
+36,Spell,Revive
+37,Creature,Eagle
+38,Enchantment,Shade
+39,Spell,Infuriate
+40,Creature,Skin-Walker
+41,Creature,Ghoul
+42,Enchantment,Victory Blight
+43,Enchantment,Alacrity
+44,Creature,Eagle

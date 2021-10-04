@@ -1,46 +1,46 @@
-==================,DECK,6094,Medium
-0,Enchantment,Common,Drain
-1,Creature,Mythic,Frozen Nameless Phoenix of the Void
-2,Spell,Common,Sorrow
-3,Enchantment,Rare,Miracle Shrink
-4,Creature,Common,Ghoul
-5,Spell,Rare,Dark Vortex
-6,Artifact,Common,Scythe
-7,Creature,Common,Paladin
-8,Creature,Legendary,Aura Fighter Giant of the Haven
-9,Enchantment,Mythic,Instant Age
-10,Creature,Legendary,Aura King Cyclops of the Black Stone
-11,Creature,Mythic,Snow Grand Wizard of Hate
-12,Creature,Common,Spider
-13,Creature,Rare,Light Merchant Minotaur
-14,Enchantment,Mythic,Intense Flight
-15,Creature,Common,Spider
-16,Creature,Common,Goblin
-17,Creature,Common,Wolf
-18,Creature,Legendary,Aura Assassin Giant of the Polar Woods
-19,Creature,Mythic,Frozen Nameless Dragon of the Void
-20,Enchantment,Common,Lethargy
-21,Creature,Mythic,Snow Chaos Wizard of Hate
-22,Creature,Common,Orc
-23,Creature,Rare,Earth King Minotaur
-24,Creature,Rare,Aura Monk Fairy
-25,Artifact,Legendary,Mighty Amulet
-26,Creature,Common,Wolf
-27,Enchantment,Rare,Gloom Strength
-28,Enchantment,Rare,Cataclysmic Haste
-29,Creature,Rare,Frozen Priest Skin-Walker
-30,Spell,Rare,Gloom Rage
-31,Spell,Common,Wall
-32,Creature,Rare,Earth King Berserker
-33,Creature,Common,Warlock
-34,Creature,Legendary,Light Knight Giant of the Bright Mountains
-35,Creature,Rare,Earth Thief Berserker
-36,Enchantment,Legendary,Potent Deathgrip
-37,Spell,Common,Stun
-38,Creature,Mythic,Light Nameless Phoenix of the Sky
-39,Artifact,Rare,Forged Cloak
-40,Creature,Mythic,Death Time Phoenix of the Dead
-41,Creature,Legendary,Earth Fighter Orge of the West
-42,Creature,Common,Magi
-43,Spell,Legendary,Dire Freeze
-44,Creature,Rare,Earth Assassin Skin-Walker
+==================,DECK,6094
+0,Enchantment,Drain
+1,Creature,Frozen Nameless Phoenix of the Void
+2,Spell,Stricken
+3,Enchantment,Frigid Shade
+4,Creature,Ghoul
+5,Spell,Dark Burn
+6,Artifact,Scythe
+7,Creature,Troll
+8,Creature,Aura Fighter Dwarf of the Haven
+9,Enchantment,Potent Nature Strength
+10,Creature,Aura King Giant of the Black Stone
+11,Creature,Snow Grand Wizard of Hate
+12,Creature,Paladin
+13,Creature,Light Merchant Cyclops
+14,Enchantment,Potent Hateful Strength
+15,Creature,Paladin
+16,Creature,Skin-Walker
+17,Creature,Wolf
+18,Creature,Aura Assassin Dwarf of the Polar Woods
+19,Creature,Frozen Nameless Dragon of the Void
+20,Enchantment,Flight
+21,Creature,Snow Chaos Wizard of Hate
+22,Creature,Spider
+23,Creature,Earth King Cyclops
+24,Creature,Aura Monk Kraken
+25,Artifact,Mighty Gloom Amulet
+26,Creature,Wolf
+27,Enchantment,Cataclysmic Shield
+28,Enchantment,Miracle Firebreath
+29,Creature,Frozen Priest Orc
+30,Spell,Chimeric Assault
+31,Spell,Frenzy
+32,Creature,Earth King Goblin
+33,Creature,Berserker
+34,Creature,Light Knight Dwarf of the Bright Mountains
+35,Creature,Earth Thief Goblin
+36,Enchantment,Potent Oblivion Drain
+37,Spell,Frenzy
+38,Creature,Light Nameless Phoenix of the Sky
+39,Artifact,Cataclysmic Cloak
+40,Creature,Death Time Phoenix of the Dead
+41,Creature,Earth Fighter Elf of the West
+42,Creature,Fairy
+43,Spell,Dire Nimble Fireball
+44,Creature,Earth Assassin Orc

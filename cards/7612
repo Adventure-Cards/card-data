@@ -1,46 +1,46 @@
-==================,DECK,7612,Medium
-0,Creature,Rare,Earth Rogue Fairy
-1,Spell,Common,Gravitation
-2,Creature,Legendary,Aura Priest Kraken of the West
-3,Creature,Rare,Snow Warrior Skin-Walker
-4,Creature,Common,Ghoul
-5,Creature,Legendary,Aura Assassin Kraken of the Black Stone
-6,Creature,Common,Paladin
-7,Creature,Rare,Earth King Skin-Walker
-8,Spell,Common,Maelstrom
-9,Spell,Common,Infuriate
-10,Artifact,Rare,Frigid Scythe
-11,Spell,Common,Torment
-12,Creature,Legendary,Aura Warrior Kraken of the Frozen Castle
-13,Creature,Mythic,Death Ancient Wizard of the Dead
-14,Creature,Legendary,Snow Queen Kraken of the Arctic Blizzards
-15,Enchantment,Common,Shade
-16,Spell,Common,Invisibility
-17,Enchantment,Common,Strength
-18,Enchantment,Rare,Grim Shade
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Haste
-21,Creature,Rare,Frozen Lord Hydra
-22,Artifact,Rare,Grim Sigil
-23,Spell,Legendary,Angry Stun
-24,Creature,Common,Paladin
-25,Creature,Common,Wolf
-26,Creature,Mythic,Frozen Time Phoenix of the Void
-27,Creature,Rare,Dark Assassin Hydra
-28,Enchantment,Common,Lethargy
-29,Artifact,Rare,Oblivion Staff
-30,Creature,Common,Spider
-31,Spell,Common,Fury
-32,Creature,Common,Magi
-33,Spell,Mythic,Dire Assault
-34,Creature,Common,Warlock
-35,Spell,Common,Revive
-36,Creature,Common,Paladin
-37,Creature,Legendary,Earth Undead Oni of the Eternal Land
-38,Creature,Common,Eagle
-39,Spell,Common,Freeze
-40,Enchantment,Common,Alacrity
-41,Spell,Common,Burn
-42,Enchantment,Common,Age
-43,Artifact,Common,Crown
-44,Artifact,Rare,Corpse Shield
+==================,DECK,7612
+0,Creature,Earth Rogue Kraken
+1,Spell,Wall
+2,Creature,Aura Priest Ogre of the West
+3,Creature,Snow Warrior Orc
+4,Creature,Ghoul
+5,Creature,Aura Assassin Ogre of the Black Stone
+6,Creature,Troll
+7,Creature,Earth King Orc
+8,Spell,Infuriate
+9,Spell,Pandemonium
+10,Artifact,Life Scythe
+11,Spell,Assault
+12,Creature,Aura Warrior Ogre of the Frozen Castle
+13,Creature,Death Ancient Wizard of the Dead
+14,Creature,Snow Queen Ogre of the Arctic Blizzards
+15,Enchantment,Firebreath
+16,Spell,Heal
+17,Enchantment,Haste
+18,Enchantment,Frigid Haste
+19,Creature,Ghoul
+20,Enchantment,Age
+21,Creature,Frozen Lord Hydra
+22,Artifact,Life Sigil
+23,Spell,Mighty Miracle Heal
+24,Creature,Troll
+25,Creature,Wolf
+26,Creature,Frozen Time Phoenix of the Void
+27,Creature,Dark Assassin Hydra
+28,Enchantment,Strength
+29,Artifact,Apocalypse Staff
+30,Creature,Paladin
+31,Spell,Gale
+32,Creature,Fairy
+33,Spell,Irate Victory Frenzy
+34,Creature,Berserker
+35,Spell,Tempest
+36,Creature,Troll
+37,Creature,Earth Undead Oni of the Eternal Land
+38,Creature,Eagle
+39,Spell,Sorrow
+40,Enchantment,Firebreath
+41,Spell,Revive
+42,Enchantment,Blight
+43,Artifact,Crown
+44,Artifact,Nature Shield

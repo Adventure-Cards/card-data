@@ -1,46 +1,46 @@
-==================,DECK,7429,Strong
-0,Spell,Common,Sorrow
-1,Spell,Common,Frost
-2,Creature,Common,Goblin
-3,Enchantment,Rare,Apocalypse Flight
-4,Creature,Common,Warlock
-5,Creature,Rare,Light Queen Hydra
-6,Spell,Common,Ice
-7,Creature,Common,Goblin
-8,Creature,Rare,Light Lord Skin-Walker
-9,Creature,Rare,Light Queen Skin-Walker
-10,Creature,Common,Goblin
-11,Artifact,Legendary,Intense Ring
-12,Creature,Common,Magi
-13,Spell,Mythic,Angry Assault
-14,Creature,Mythic,Frozen Ancient Wizard of the Void
-15,Spell,Legendary,Intense Torment
-16,Artifact,Common,Sword
-17,Creature,Common,Eagle
-18,Enchantment,Rare,Apocalypse Drain
-19,Enchantment,Mythic,Dire Lethargy
-20,Creature,Common,Eagle
-21,Artifact,Mythic,Urgent Gloves
-22,Enchantment,Legendary,Extreme Shield
-23,Artifact,Rare,Gloom Helmet
-24,Enchantment,Legendary,Extreme Invert
-25,Creature,Common,Orc
-26,Spell,Common,Sorrow
-27,Creature,Legendary,Dark Fighter Giant of the Eastern Skies
-28,Creature,Rare,Earth Thief Berserker
-29,Creature,Rare,Snow Knight Minotaur
-30,Creature,Common,Paladin
-31,Enchantment,Common,Shrink
-32,Creature,Common,Paladin
-33,Enchantment,Rare,Life Blight
-34,Enchantment,Rare,Solar Shield
-35,Enchantment,Common,Deathgrip
-36,Spell,Common,Wall
-37,Creature,Rare,Earth Undead Hydra
-38,Spell,Common,Assault
-39,Creature,Rare,Light Knight Minotaur
-40,Creature,Mythic,Snow Nameless Phoenix of Hate
-41,Creature,Rare,Dark Lord Minotaur
-42,Creature,Rare,Aura Merchant Hydra
-43,Creature,Common,Goblin
-44,Creature,Mythic,Snow Grand Wizard of Hate
+==================,DECK,7429
+0,Spell,Fireball
+1,Spell,Frenzy
+2,Creature,Skin-Walker
+3,Enchantment,Grim Blight
+4,Creature,Berserker
+5,Creature,Light Queen Hydra
+6,Spell,Fire
+7,Creature,Skin-Walker
+8,Creature,Light Lord Orc
+9,Creature,Light Queen Orc
+10,Creature,Skin-Walker
+11,Artifact,Ardent Shimmering Ring
+12,Creature,Fairy
+13,Spell,Instant Gloom Tempest
+14,Creature,Frozen Ancient Wizard of the Void
+15,Spell,Dire Solar Stun
+16,Artifact,Sword
+17,Creature,Eagle
+18,Enchantment,Apocalypse Drain
+19,Enchantment,Ardent Grim Haste
+20,Creature,Eagle
+21,Artifact,Potent Shimmering Gloves
+22,Enchantment,Ardent Gloom Shield
+23,Artifact,Cataclysmic Helmet
+24,Enchantment,Instant Sorrow Shrink
+25,Creature,Spider
+26,Spell,Burst
+27,Creature,Dark Fighter Dwarf of the Eastern Skies
+28,Creature,Earth Thief Goblin
+29,Creature,Snow Knight Cyclops
+30,Creature,Troll
+31,Enchantment,Agony
+32,Creature,Troll
+33,Enchantment,Nimble Shade
+34,Enchantment,Nature Lethargy
+35,Enchantment,Drain
+36,Spell,Fury
+37,Creature,Earth Undead Hydra
+38,Spell,Maelstrom
+39,Creature,Light Knight Cyclops
+40,Creature,Snow Nameless Phoenix of Hate
+41,Creature,Dark Lord Cyclops
+42,Creature,Aura Merchant Hydra
+43,Creature,Skin-Walker
+44,Creature,Snow Grand Wizard of Hate

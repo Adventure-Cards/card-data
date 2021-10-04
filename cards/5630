@@ -1,46 +1,46 @@
-==================,DECK,5630,Light
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Ghoul
-2,Creature,Common,Eagle
-3,Creature,Common,Magi
-4,Spell,Common,Gravitation
-5,Creature,Rare,Frozen Warrior Skin-Walker
-6,Creature,Common,Eagle
-7,Creature,Common,Goblin
-8,Spell,Common,Freeze
-9,Creature,Rare,Earth Undead Hydra
-10,Enchantment,Rare,Cataclysmic Flight
-11,Spell,Common,Reanimate
-12,Creature,Common,Spider
-13,Creature,Common,Ghoul
-14,Creature,Rare,Frozen Monk Minotaur
-15,Creature,Mythic,Earth Chaos Demon of the Shadows
-16,Enchantment,Rare,Grim Shade
-17,Artifact,Common,Gauntlet
-18,Creature,Rare,Death Merchant Minotaur
-19,Spell,Rare,Life Sorrow
-20,Creature,Rare,Aura Merchant Hydra
-21,Creature,Common,Paladin
-22,Creature,Legendary,Earth King Giant of the Mountains
-23,Spell,Common,Wall
-24,Creature,Rare,Frozen Fighter Skin-Walker
-25,Spell,Rare,Nimble Assault
-26,Spell,Common,Sorrow
-27,Artifact,Rare,Miracle Ring
-28,Creature,Legendary,Aura Lord Cyclops of the Low Hills
-29,Spell,Legendary,Potent Vortex
-30,Artifact,Common,Bow
-31,Enchantment,Common,Strength
-32,Spell,Common,Rage
-33,Spell,Common,Rage
-34,Enchantment,Common,Strength
-35,Creature,Common,Eagle
-36,Creature,Common,Warlock
-37,Spell,Rare,Life Maelstrom
-38,Spell,Rare,Frigid Frost
-39,Spell,Common,Stricken
-40,Creature,Legendary,Earth King Kraken of the Bright Mountains
-41,Creature,Common,Ghoul
-42,Creature,Common,Magi
-43,Spell,Common,Pandemonium
-44,Spell,Common,Reanimate
+==================,DECK,5630
+0,Enchantment,Haste
+1,Creature,Ghoul
+2,Creature,Eagle
+3,Creature,Fairy
+4,Spell,Gale
+5,Creature,Frozen Warrior Orc
+6,Creature,Eagle
+7,Creature,Skin-Walker
+8,Spell,Frenzy
+9,Creature,Earth Undead Hydra
+10,Enchantment,Lunar Firebreath
+11,Spell,Burn
+12,Creature,Paladin
+13,Creature,Ghoul
+14,Creature,Frozen Monk Cyclops
+15,Creature,Earth Chaos Demon of the Shadows
+16,Enchantment,Frigid Invert
+17,Artifact,Gauntlet
+18,Creature,Death Merchant Cyclops
+19,Spell,Apocalypse Heal
+20,Creature,Aura Merchant Hydra
+21,Creature,Troll
+22,Creature,Earth King Dwarf of the Mountains
+23,Spell,Fireball
+24,Creature,Frozen Fighter Orc
+25,Spell,Nature Hypnosis
+26,Spell,Stricken
+27,Artifact,Grim Ring
+28,Creature,Aura Lord Giant of the Low Hills
+29,Spell,Instant Frigid Rage
+30,Artifact,Bow
+31,Enchantment,Blight
+32,Spell,Fireball
+33,Spell,Ice
+34,Enchantment,Drain
+35,Creature,Eagle
+36,Creature,Berserker
+37,Spell,Oblivion Heal
+38,Spell,Oblivion Freeze
+39,Spell,Hypnosis
+40,Creature,Earth King Ogre of the Bright Mountains
+41,Creature,Ghoul
+42,Creature,Fairy
+43,Spell,Freeze
+44,Spell,Gale

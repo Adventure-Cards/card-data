@@ -1,46 +1,46 @@
-==================,DECK,6455,Light
-0,Creature,Rare,Frozen Knight Minotaur
-1,Spell,Common,Wall
-2,Spell,Legendary,Extreme Gale
-3,Creature,Common,Wolf
-4,Creature,Common,Ghoul
-5,Enchantment,Common,Invert
-6,Artifact,Rare,Life Helmet
-7,Spell,Common,Hypnosis
-8,Creature,Common,Elf
-9,Creature,Common,Orc
-10,Creature,Common,Eagle
-11,Creature,Legendary,Light Assassin Giant of the Golden Palace
-12,Enchantment,Common,Blight
-13,Creature,Common,Paladin
-14,Artifact,Rare,Life Crown
-15,Spell,Common,Burn
-16,Creature,Common,Paladin
-17,Creature,Rare,Dark Undead Skin-Walker
-18,Creature,Common,Wolf
-19,Enchantment,Common,Invert
-20,Creature,Common,Magi
-21,Artifact,Common,Gauntlet
-22,Creature,Common,Eagle
-23,Creature,Rare,Snow Warrior Minotaur
-24,Creature,Mythic,Aura Grand Demon of the Light
-25,Creature,Common,Ghoul
-26,Enchantment,Rare,Nature Blight
-27,Artifact,Common,Staff
-28,Creature,Legendary,Snow Knight Cyclops of the Haven
-29,Spell,Common,Pandemonium
-30,Creature,Rare,Light Thief Skin-Walker
-31,Creature,Rare,Light Warrior Griffin
-32,Creature,Rare,Light Lord Griffin
-33,Creature,Rare,Light Priest Skin-Walker
-34,Artifact,Rare,Lunar Gloves
-35,Artifact,Rare,Nimble Ring
-36,Spell,Rare,Cataclysmic Sorrow
-37,Spell,Common,Heal
-38,Spell,Rare,Shimmering Reanimate
-39,Enchantment,Common,Blight
-40,Creature,Common,Dwarf
-41,Spell,Rare,Solar Wall
-42,Enchantment,Common,Haste
-43,Enchantment,Common,Shrink
-44,Creature,Rare,Frozen Priest Griffin
+==================,DECK,6455
+0,Creature,Frozen Knight Cyclops
+1,Spell,Burn
+2,Spell,Clever Dark Infuriate
+3,Creature,Wolf
+4,Creature,Ghoul
+5,Enchantment,Blight
+6,Artifact,Frigid Helmet
+7,Spell,Ice
+8,Creature,Warlock
+9,Creature,Spider
+10,Creature,Eagle
+11,Creature,Light Assassin Dwarf of the Golden Palace
+12,Enchantment,Blight
+13,Creature,Troll
+14,Artifact,Life Crown
+15,Spell,Revive
+16,Creature,Troll
+17,Creature,Dark Undead Orc
+18,Creature,Wolf
+19,Enchantment,Invert
+20,Creature,Fairy
+21,Artifact,Gauntlet
+22,Creature,Eagle
+23,Creature,Snow Warrior Cyclops
+24,Creature,Aura Grand Demon of the Light
+25,Creature,Ghoul
+26,Enchantment,Solar Agony
+27,Artifact,Staff
+28,Creature,Snow Knight Giant of the Haven
+29,Spell,Tempest
+30,Creature,Light Thief Orc
+31,Creature,Light Warrior Griffin
+32,Creature,Light Lord Griffin
+33,Creature,Light Priest Orc
+34,Artifact,Lunar Gloves
+35,Artifact,Solar Ring
+36,Spell,Lunar Pandemonium
+37,Spell,Freeze
+38,Spell,Shimmering Burst
+39,Enchantment,Strength
+40,Creature,Magi
+41,Spell,Necro Freeze
+42,Enchantment,Deathgrip
+43,Enchantment,Invert
+44,Creature,Frozen Priest Griffin

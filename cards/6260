@@ -1,46 +1,46 @@
-==================,DECK,6260,Light
-0,Artifact,Rare,Dark Sigil
-1,Artifact,Common,Boots
-2,Creature,Common,Dwarf
-3,Spell,Rare,Nature Burst
-4,Creature,Common,Orc
-5,Enchantment,Rare,Solar Shade
-6,Creature,Common,Eagle
-7,Spell,Common,Reanimate
-8,Creature,Common,Warlock
-9,Creature,Common,Orc
-10,Enchantment,Common,Shield
-11,Creature,Common,Orc
-12,Spell,Common,Torment
-13,Enchantment,Common,Drain
-14,Creature,Common,Orc
-15,Spell,Common,Torment
-16,Enchantment,Common,Shield
-17,Creature,Common,Goblin
-18,Enchantment,Mythic,Clever Strength
-19,Enchantment,Mythic,Urgent Strength
-20,Spell,Common,Burn
-21,Enchantment,Rare,Necro Deathgrip
-22,Enchantment,Common,Drain
-23,Creature,Common,Orc
-24,Enchantment,Legendary,Potent Deathgrip
-25,Creature,Common,Ghoul
-26,Creature,Common,Spider
-27,Creature,Rare,Death Knight Skin-Walker
-28,Creature,Common,Ghoul
-29,Artifact,Rare,Oblivion Sigil
-30,Artifact,Common,Scepter
-31,Artifact,Legendary,Clever Helmet
-32,Spell,Common,Stricken
-33,Spell,Common,Burst
-34,Creature,Common,Orc
-35,Creature,Common,Wolf
-36,Creature,Common,Goblin
-37,Creature,Rare,Dark Priest Berserker
-38,Spell,Common,Torment
-39,Spell,Common,Gravitation
-40,Creature,Common,Paladin
-41,Creature,Common,Magi
-42,Spell,Common,Reanimate
-43,Enchantment,Mythic,Dire Strength
-44,Creature,Common,Dwarf
+==================,DECK,6260
+0,Artifact,Dark Sigil
+1,Artifact,Boots
+2,Creature,Magi
+3,Spell,Necro Infuriate
+4,Creature,Spider
+5,Enchantment,Necro Agony
+6,Creature,Eagle
+7,Spell,Gale
+8,Creature,Berserker
+9,Creature,Spider
+10,Enchantment,Blight
+11,Creature,Spider
+12,Spell,Frenzy
+13,Enchantment,Drain
+14,Creature,Spider
+15,Spell,Infuriate
+16,Enchantment,Alacrity
+17,Creature,Skin-Walker
+18,Enchantment,Ardent Nimble Haste
+19,Enchantment,Ardent Solar Lethargy
+20,Spell,Freeze
+21,Enchantment,Shimmering Agony
+22,Enchantment,Invert
+23,Creature,Spider
+24,Enchantment,Mighty Oblivion Invert
+25,Creature,Ghoul
+26,Creature,Paladin
+27,Creature,Death Knight Orc
+28,Creature,Ghoul
+29,Artifact,Victory Sigil
+30,Artifact,Scepter
+31,Artifact,Zealous Apocalypse Helmet
+32,Spell,Infuriate
+33,Spell,Gravitation
+34,Creature,Spider
+35,Creature,Wolf
+36,Creature,Skin-Walker
+37,Creature,Dark Priest Goblin
+38,Spell,Stun
+39,Spell,Vortex
+40,Creature,Troll
+41,Creature,Fairy
+42,Spell,Reanimate
+43,Enchantment,Ardent Nimble Haste
+44,Creature,Magi

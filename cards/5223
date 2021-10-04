@@ -1,46 +1,46 @@
-==================,DECK,5223,Strong
-0,Artifact,Rare,Oblivion Pendant
-1,Creature,Legendary,Aura Warrior Kraken of the Bright Mountains
-2,Enchantment,Common,Shrink
-3,Enchantment,Common,Haste
-4,Creature,Legendary,Death Undead Phoenix of the Dead
-5,Creature,Mythic,Light Ancient Demon of the Sky
-6,Spell,Common,Sorrow
-7,Creature,Common,Ghoul
-8,Creature,Common,Magi
-9,Enchantment,Rare,Frigid Lethargy
-10,Creature,Rare,Death Knight Hydra
-11,Creature,Rare,Dark Monk Hydra
-12,Creature,Common,Wolf
-13,Artifact,Rare,Cataclysmic Gauntlet
-14,Creature,Common,Ghoul
-15,Artifact,Common,Scythe
-16,Creature,Common,Warlock
-17,Creature,Common,Spider
-18,Spell,Mythic,Angry Torment
-19,Spell,Rare,Dark Gravitation
-20,Creature,Mythic,Death Undead Dragon of the Dead
-21,Enchantment,Common,Invert
-22,Creature,Common,Paladin
-23,Creature,Mythic,Earth Undead Phoenix of the Shadows
-24,Creature,Common,Magi
-25,Creature,Rare,Death Monk Skin-Walker
-26,Artifact,Legendary,Mighty Amulet
-27,Enchantment,Common,Shrink
-28,Spell,Rare,Oblivion Torment
-29,Creature,Legendary,Snow Assassin Kraken of the Magical Forest
-30,Creature,Common,Eagle
-31,Artifact,Common,Shield
-32,Enchantment,Common,Age
-33,Creature,Rare,Dark Undead Hydra
-34,Creature,Common,Orc
-35,Artifact,Legendary,Angry Cloak
-36,Spell,Common,Stun
-37,Enchantment,Mythic,Instant Lethargy
-38,Creature,Common,Paladin
-39,Creature,Common,Magi
-40,Spell,Common,Vortex
-41,Enchantment,Legendary,Mighty Shrink
-42,Creature,Rare,Earth Warrior Hydra
-43,Creature,Legendary,Aura Chaos Wizard of the Light
-44,Spell,Rare,Shimmering Sorrow
+==================,DECK,5223
+0,Artifact,Grim Pendant
+1,Creature,Aura Warrior Ogre of the Bright Mountains
+2,Enchantment,Invert
+3,Enchantment,Strength
+4,Creature,Death Undead Phoenix of the Dead
+5,Creature,Light Ancient Demon of the Sky
+6,Spell,Burn
+7,Creature,Ghoul
+8,Creature,Fairy
+9,Enchantment,Grim Invert
+10,Creature,Death Knight Hydra
+11,Creature,Dark Monk Hydra
+12,Creature,Wolf
+13,Artifact,Cataclysmic Gauntlet
+14,Creature,Ghoul
+15,Artifact,Scythe
+16,Creature,Berserker
+17,Creature,Paladin
+18,Spell,Dire Lunar Fireball
+19,Spell,Sorrow Heal
+20,Creature,Death Undead Dragon of the Dead
+21,Enchantment,Drain
+22,Creature,Troll
+23,Creature,Earth Undead Phoenix of the Shadows
+24,Creature,Fairy
+25,Creature,Death Monk Orc
+26,Artifact,Urgent Cataclysmic Amulet
+27,Enchantment,Shrink
+28,Spell,Victory Revive
+29,Creature,Snow Assassin Ogre of the Magical Forest
+30,Creature,Eagle
+31,Artifact,Shield
+32,Enchantment,Invert
+33,Creature,Dark Undead Hydra
+34,Creature,Spider
+35,Artifact,Clever Dark Cloak
+36,Spell,Gravitation
+37,Enchantment,Instant Hateful Strength
+38,Creature,Troll
+39,Creature,Fairy
+40,Spell,Freeze
+41,Enchantment,Clever Chimeric Shield
+42,Creature,Earth Warrior Hydra
+43,Creature,Aura Chaos Wizard of the Light
+44,Spell,Necro Revive

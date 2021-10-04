@@ -1,46 +1,46 @@
-==================,DECK,5565,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Eagle
-2,Enchantment,Rare,Oblivion Strength
-3,Enchantment,Mythic,Intense Alacrity
-4,Creature,Common,Orc
-5,Creature,Common,Goblin
-6,Spell,Common,Frenzy
-7,Creature,Common,Goblin
-8,Enchantment,Legendary,Clever Blight
-9,Spell,Legendary,Dire Revive
-10,Creature,Mythic,Dark Time Phoenix of Illusion
-11,Enchantment,Rare,Life Shrink
-12,Creature,Legendary,Frozen Merchant Cyclops of the Low Hills
-13,Spell,Common,Rage
-14,Spell,Common,Vortex
-15,Creature,Mythic,Dark Chaos Wizard of Illusion
-16,Creature,Common,Paladin
-17,Creature,Rare,Dark Rogue Berserker
-18,Enchantment,Mythic,Potent Blight
-19,Creature,Legendary,Death Knight Oni of the Black Stone
-20,Enchantment,Rare,Miracle Drain
-21,Creature,Common,Wolf
-22,Enchantment,Legendary,Mighty Shield
-23,Creature,Common,Warlock
-24,Spell,Rare,Grim Frost
-25,Creature,Common,Paladin
-26,Creature,Common,Magi
-27,Spell,Rare,Cataclysmic Stricken
-28,Creature,Common,Wolf
-29,Creature,Rare,Frozen Fighter Berserker
-30,Creature,Common,Warlock
-31,Spell,Rare,Corpse Gravitation
-32,Creature,Common,Orc
-33,Creature,Common,Paladin
-34,Creature,Common,Eagle
-35,Enchantment,Legendary,Dire Haste
-36,Creature,Mythic,Snow Undead Dragon of Hate
-37,Enchantment,Common,Shield
-38,Spell,Common,Gravitation
-39,Enchantment,Common,Age
-40,Enchantment,Common,Flight
-41,Creature,Rare,Aura Assassin Hydra
-42,Creature,Rare,Dark Queen Griffin
-43,Creature,Common,Warlock
-44,Creature,Common,Orc
+==================,DECK,5565
+0,Creature,Fairy
+1,Creature,Eagle
+2,Enchantment,Nimble Drain
+3,Enchantment,Irate Forged Deathgrip
+4,Creature,Spider
+5,Creature,Skin-Walker
+6,Spell,Gravitation
+7,Creature,Skin-Walker
+8,Enchantment,Potent Nimble Drain
+9,Spell,Urgent Nimble Pandemonium
+10,Creature,Dark Time Phoenix of Illusion
+11,Enchantment,Frigid Invert
+12,Creature,Frozen Merchant Giant of the Low Hills
+13,Spell,Reanimate
+14,Spell,Stun
+15,Creature,Dark Chaos Wizard of Illusion
+16,Creature,Troll
+17,Creature,Dark Rogue Goblin
+18,Enchantment,Clever Nimble Haste
+19,Creature,Death Knight Oni of the Black Stone
+20,Enchantment,Apocalypse Shade
+21,Creature,Wolf
+22,Enchantment,Instant Gloom Shrink
+23,Creature,Berserker
+24,Spell,Nimble Gale
+25,Creature,Troll
+26,Creature,Fairy
+27,Spell,Miracle Torment
+28,Creature,Wolf
+29,Creature,Frozen Fighter Goblin
+30,Creature,Berserker
+31,Spell,Hateful Stun
+32,Creature,Spider
+33,Creature,Troll
+34,Creature,Eagle
+35,Enchantment,Potent Life Drain
+36,Creature,Snow Undead Dragon of Hate
+37,Enchantment,Shield
+38,Spell,Infuriate
+39,Enchantment,Invert
+40,Enchantment,Lethargy
+41,Creature,Aura Assassin Hydra
+42,Creature,Dark Queen Griffin
+43,Creature,Berserker
+44,Creature,Spider

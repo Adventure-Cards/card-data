@@ -1,46 +1,46 @@
-==================,DECK,7624,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Ghoul
-2,Spell,Legendary,Extreme Revive
-3,Creature,Legendary,Snow Knight Giant of the Eastern Skies
-4,Artifact,Legendary,Mighty Divine Robe
-5,Enchantment,Rare,Miracle Flight
-6,Spell,Common,Invisibility
-7,Creature,Legendary,Dark Rogue Cyclops of the Golden Palace
-8,Creature,Common,Elf
-9,Enchantment,Mythic,Dire Deathgrip
-10,Spell,Rare,Lunar Infuriate
-11,Enchantment,Mythic,Clever Flight
-12,Creature,Common,Elf
-13,Spell,Common,Gravitation
-14,Enchantment,Rare,Corpse Lethargy
-15,Creature,Common,Spider
-16,Enchantment,Legendary,Mighty Age
-17,Creature,Common,Spider
-18,Spell,Rare,Miracle Reanimate
-19,Enchantment,Common,Age
-20,Creature,Common,Elf
-21,Creature,Common,Ghoul
-22,Enchantment,Mythic,Instant Age
-23,Enchantment,Rare,Solar Invert
-24,Spell,Rare,Necro Stun
-25,Enchantment,Mythic,Instant Invert
-26,Creature,Common,Wolf
-27,Creature,Common,Goblin
-28,Spell,Legendary,Mighty Reanimate
-29,Enchantment,Common,Invert
-30,Creature,Legendary,Earth Monk Orge of the Low Hills
-31,Artifact,Common,Gloves
-32,Enchantment,Common,Shrink
-33,Spell,Common,Assault
-34,Enchantment,Common,Lethargy
-35,Artifact,Common,Ghost Wand
-36,Artifact,Common,Boots
-37,Spell,Common,Lightning
-38,Enchantment,Common,Blight
-39,Enchantment,Common,Blight
-40,Creature,Common,Wolf
-41,Creature,Common,Orc
-42,Creature,Common,Goblin
-43,Creature,Mythic,Light Time Phoenix of the Sky
-44,Creature,Common,Spider
+==================,DECK,7624
+0,Creature,Eagle
+1,Creature,Ghoul
+2,Spell,Ardent Chimeric Fury
+3,Creature,Snow Knight Dwarf of the Eastern Skies
+4,Artifact,Instant Miracle Divine Robe
+5,Enchantment,Grim Shade
+6,Spell,Torment
+7,Creature,Dark Rogue Giant of the Golden Palace
+8,Creature,Warlock
+9,Enchantment,Empyrean Oblivion Shade
+10,Spell,Chimeric Stun
+11,Enchantment,Zealous Grim Blight
+12,Creature,Warlock
+13,Spell,Hypnosis
+14,Enchantment,Hateful Lethargy
+15,Creature,Paladin
+16,Enchantment,Empyrean Gloom Firebreath
+17,Creature,Paladin
+18,Spell,Frigid Infuriate
+19,Enchantment,Haste
+20,Creature,Warlock
+21,Creature,Ghoul
+22,Enchantment,Empyrean Nature Age
+23,Enchantment,Shimmering Agony
+24,Spell,Necro Fire
+25,Enchantment,Urgent Shimmering Agony
+26,Creature,Wolf
+27,Creature,Skin-Walker
+28,Spell,Potent Dark Lightning
+29,Enchantment,Deathgrip
+30,Creature,Earth Monk Elf of the Low Hills
+31,Artifact,Gloves
+32,Enchantment,Lethargy
+33,Spell,Revive
+34,Enchantment,Deathgrip
+35,Artifact,Ghost Wand
+36,Artifact,Boots
+37,Spell,Wall
+38,Enchantment,Agony
+39,Enchantment,Shield
+40,Creature,Wolf
+41,Creature,Spider
+42,Creature,Skin-Walker
+43,Creature,Light Time Phoenix of the Sky
+44,Creature,Paladin

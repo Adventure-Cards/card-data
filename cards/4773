@@ -1,46 +1,46 @@
-==================,DECK,4773,Light
-0,Enchantment,Common,Blight
-1,Creature,Common,Warlock
-2,Artifact,Rare,Cataclysmic Scepter
-3,Spell,Common,Sorrow
-4,Spell,Rare,Lunar Maelstrom
-5,Creature,Common,Warlock
-6,Creature,Common,Ghoul
-7,Spell,Common,Assault
-8,Artifact,Common,Boots
-9,Creature,Common,Ghoul
-10,Spell,Common,Burst
-11,Creature,Common,Elf
-12,Creature,Common,Paladin
-13,Creature,Common,Wolf
-14,Artifact,Common,Cloak
-15,Artifact,Legendary,Dire Bow
-16,Artifact,Common,Crown
-17,Creature,Common,Elf
-18,Spell,Rare,Frigid Frenzy
-19,Creature,Rare,Dark King Minotaur
-20,Spell,Common,Pandemonium
-21,Artifact,Common,Staff
-22,Creature,Common,Spider
-23,Spell,Rare,Nimble Gravitation
-24,Spell,Rare,Miracle Burn
-25,Enchantment,Common,Shield
-26,Creature,Common,Eagle
-27,Enchantment,Common,Blight
-28,Creature,Common,Magi
-29,Enchantment,Rare,Gloom Lethargy
-30,Enchantment,Common,Haste
-31,Spell,Rare,Miracle Stun
-32,Creature,Rare,Frozen Fighter Minotaur
-33,Creature,Common,Ghoul
-34,Spell,Rare,Life Pandemonium
-35,Creature,Common,Magi
-36,Creature,Common,Warlock
-37,Creature,Common,Magi
-38,Spell,Common,Torment
-39,Spell,Common,Stun
-40,Artifact,Legendary,Extreme Helmet
-41,Spell,Common,Invisibility
-42,Creature,Legendary,Aura Rogue Oni of the Low Hills
-43,Creature,Rare,Death Lord Berserker
-44,Creature,Common,Eagle
+==================,DECK,4773
+0,Enchantment,Alacrity
+1,Creature,Berserker
+2,Artifact,Chimeric Scepter
+3,Spell,Rage
+4,Spell,Dark Maelstrom
+5,Creature,Berserker
+6,Creature,Ghoul
+7,Spell,Torment
+8,Artifact,Boots
+9,Creature,Ghoul
+10,Spell,Lightning
+11,Creature,Warlock
+12,Creature,Troll
+13,Creature,Wolf
+14,Artifact,Cloak
+15,Artifact,Urgent Victory Bow
+16,Artifact,Crown
+17,Creature,Warlock
+18,Spell,Victory Gale
+19,Creature,Dark King Cyclops
+20,Spell,Stun
+21,Artifact,Staff
+22,Creature,Paladin
+23,Spell,Shimmering Fireball
+24,Spell,Oblivion Frenzy
+25,Enchantment,Deathgrip
+26,Creature,Eagle
+27,Enchantment,Agony
+28,Creature,Fairy
+29,Enchantment,Lunar Shrink
+30,Enchantment,Blight
+31,Spell,Apocalypse Burn
+32,Creature,Frozen Fighter Cyclops
+33,Creature,Ghoul
+34,Spell,Apocalypse Freeze
+35,Creature,Fairy
+36,Creature,Berserker
+37,Creature,Fairy
+38,Spell,Revive
+39,Spell,Heal
+40,Artifact,Irate Cataclysmic Helmet
+41,Spell,Hypnosis
+42,Creature,Aura Rogue Oni of the Low Hills
+43,Creature,Death Lord Goblin
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,6558,Light
-0,Creature,Rare,Dark Thief Griffin
-1,Enchantment,Rare,Dark Alacrity
-2,Creature,Common,Eagle
-3,Creature,Common,Elf
-4,Spell,Common,Invisibility
-5,Creature,Mythic,Aura Undead Phoenix of the Light
-6,Spell,Legendary,Mighty Stun
-7,Creature,Legendary,Aura King Oni of the West
-8,Spell,Rare,Gloom Rage
-9,Creature,Rare,Light Thief Skin-Walker
-10,Creature,Mythic,Aura Undead Dragon of the Light
-11,Creature,Common,Ghoul
-12,Creature,Mythic,Light Undead Dragon of the Sky
-13,Spell,Common,Heal
-14,Creature,Common,Magi
-15,Spell,Common,Frost
-16,Spell,Rare,Hateful Sorrow
-17,Enchantment,Common,Haste
-18,Creature,Common,Spider
-19,Enchantment,Common,Flight
-20,Creature,Common,Warlock
-21,Spell,Common,Heal
-22,Spell,Common,Maelstrom
-23,Creature,Common,Spider
-24,Artifact,Common,Scythe
-25,Creature,Common,Paladin
-26,Enchantment,Legendary,Extreme Haste
-27,Artifact,Rare,Forged Shield
-28,Spell,Common,Wall
-29,Creature,Common,Elf
-30,Creature,Common,Spider
-31,Creature,Common,Elf
-32,Spell,Rare,Solar Wall
-33,Creature,Common,Ghoul
-34,Enchantment,Common,Invert
-35,Creature,Common,Magi
-36,Creature,Rare,Frozen Undead Skin-Walker
-37,Creature,Rare,Frozen Merchant Hydra
-38,Enchantment,Common,Haste
-39,Enchantment,Rare,Dark Strength
-40,Artifact,Common,Greaves
-41,Enchantment,Common,Invert
-42,Spell,Rare,Gloom Assault
-43,Artifact,Rare,Gloom Potion
-44,Spell,Common,Torment
+==================,DECK,6558
+0,Creature,Dark Thief Griffin
+1,Enchantment,Dark Shrink
+2,Creature,Eagle
+3,Creature,Warlock
+4,Spell,Stricken
+5,Creature,Aura Undead Phoenix of the Light
+6,Spell,Empyrean Chimeric Frost
+7,Creature,Aura King Oni of the West
+8,Spell,Chimeric Sorrow
+9,Creature,Light Thief Orc
+10,Creature,Aura Undead Dragon of the Light
+11,Creature,Ghoul
+12,Creature,Light Undead Dragon of the Sky
+13,Spell,Fire
+14,Creature,Fairy
+15,Spell,Stun
+16,Spell,Dark Burn
+17,Enchantment,Strength
+18,Creature,Paladin
+19,Enchantment,Drain
+20,Creature,Berserker
+21,Spell,Fire
+22,Spell,Ice
+23,Creature,Paladin
+24,Artifact,Scythe
+25,Creature,Troll
+26,Enchantment,Clever Miracle Shield
+27,Artifact,Miracle Shield
+28,Spell,Assault
+29,Creature,Warlock
+30,Creature,Paladin
+31,Creature,Warlock
+32,Spell,Necro Fireball
+33,Creature,Ghoul
+34,Enchantment,Strength
+35,Creature,Fairy
+36,Creature,Frozen Undead Orc
+37,Creature,Frozen Merchant Hydra
+38,Enchantment,Deathgrip
+39,Enchantment,Cataclysmic Flight
+40,Artifact,Greaves
+41,Enchantment,Shrink
+42,Spell,Miracle Rage
+43,Artifact,Cataclysmic Potion
+44,Spell,Stricken

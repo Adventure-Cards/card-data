@@ -1,46 +1,46 @@
-==================,DECK,6887,Light
-0,Creature,Common,Elf
-1,Creature,Common,Ghoul
-2,Creature,Common,Orc
-3,Artifact,Common,Helm
-4,Spell,Legendary,Angry Gravitation
-5,Spell,Rare,Cataclysmic Burn
-6,Spell,Rare,Nature Burn
-7,Creature,Rare,Aura King Minotaur
-8,Creature,Common,Paladin
-9,Enchantment,Rare,Gloom Lethargy
-10,Creature,Common,Elf
-11,Creature,Common,Warlock
-12,Artifact,Rare,Cataclysmic Boots
-13,Spell,Rare,Grim Vortex
-14,Creature,Common,Magi
-15,Creature,Common,Spider
-16,Creature,Common,Ghoul
-17,Creature,Common,Goblin
-18,Creature,Common,Orc
-19,Artifact,Common,Boots
-20,Creature,Common,Eagle
-21,Artifact,Rare,Necro Divine Robe
-22,Spell,Rare,Corpse Wall
-23,Creature,Common,Warlock
-24,Creature,Common,Magi
-25,Creature,Common,Warlock
-26,Spell,Legendary,Intense Sorrow
-27,Spell,Common,Sorrow
-28,Creature,Common,Ghoul
-29,Creature,Common,Magi
-30,Creature,Common,Ghoul
-31,Enchantment,Rare,Life Blight
-32,Creature,Rare,Death Assassin Skin-Walker
-33,Enchantment,Common,Flight
-34,Spell,Rare,Hateful Infuriate
-35,Enchantment,Rare,Life Age
-36,Artifact,Common,Shield
-37,Enchantment,Common,Haste
-38,Enchantment,Mythic,Urgent Alacrity
-39,Creature,Common,Ghoul
-40,Creature,Common,Orc
-41,Creature,Common,Spider
-42,Creature,Rare,Death Warrior Berserker
-43,Creature,Common,Eagle
-44,Creature,Common,Elf
+==================,DECK,6887
+0,Creature,Warlock
+1,Creature,Ghoul
+2,Creature,Spider
+3,Artifact,Helm
+4,Spell,Urgent Dark Rage
+5,Spell,Lunar Wall
+6,Spell,Nature Revive
+7,Creature,Aura King Cyclops
+8,Creature,Troll
+9,Enchantment,Lunar Shrink
+10,Creature,Warlock
+11,Creature,Berserker
+12,Artifact,Miracle Boots
+13,Spell,Frigid Torment
+14,Creature,Fairy
+15,Creature,Paladin
+16,Creature,Ghoul
+17,Creature,Skin-Walker
+18,Creature,Spider
+19,Artifact,Boots
+20,Creature,Eagle
+21,Artifact,Solar Divine Robe
+22,Spell,Solar Stun
+23,Creature,Berserker
+24,Creature,Fairy
+25,Creature,Berserker
+26,Spell,Zealous Shimmering Heal
+27,Spell,Infuriate
+28,Creature,Ghoul
+29,Creature,Fairy
+30,Creature,Ghoul
+31,Enchantment,Nimble Invert
+32,Creature,Death Assassin Orc
+33,Enchantment,Shade
+34,Spell,Miracle Infuriate
+35,Enchantment,Victory Shade
+36,Artifact,Shield
+37,Enchantment,Drain
+38,Enchantment,Instant Forged Strength
+39,Creature,Ghoul
+40,Creature,Spider
+41,Creature,Paladin
+42,Creature,Death Warrior Goblin
+43,Creature,Eagle
+44,Creature,Warlock

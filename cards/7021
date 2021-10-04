@@ -1,46 +1,46 @@
-==================,DECK,7021,Light
-0,Spell,Common,Sorrow
-1,Spell,Common,Rage
-2,Creature,Rare,Light Monk Berserker
-3,Artifact,Rare,Forged Tome
-4,Creature,Common,Goblin
-5,Creature,Common,Goblin
-6,Creature,Common,Warlock
-7,Creature,Common,Dwarf
-8,Enchantment,Common,Drain
-9,Enchantment,Common,Blight
-10,Spell,Rare,Life Burn
-11,Spell,Rare,Corpse Assault
-12,Creature,Rare,Death Merchant Griffin
-13,Artifact,Common,Gauntlet
-14,Creature,Common,Warlock
-15,Artifact,Common,Scythe
-16,Creature,Common,Orc
-17,Creature,Common,Magi
-18,Creature,Common,Magi
-19,Spell,Common,Burn
-20,Spell,Common,Invisibility
-21,Creature,Common,Ghoul
-22,Creature,Common,Wolf
-23,Artifact,Common,Scepter
-24,Enchantment,Mythic,Instant Alacrity
-25,Artifact,Common,Crown
-26,Artifact,Common,Greaves
-27,Enchantment,Common,Alacrity
-28,Enchantment,Common,Blight
-29,Enchantment,Rare,Hateful Flight
-30,Creature,Common,Wolf
-31,Spell,Rare,Nimble Revive
-32,Spell,Common,Heal
-33,Creature,Common,Spider
-34,Creature,Rare,Frozen Fighter Minotaur
-35,Creature,Common,Magi
-36,Artifact,Common,Bow
-37,Creature,Common,Paladin
-38,Spell,Common,Heal
-39,Creature,Common,Elf
-40,Spell,Common,Gravitation
-41,Enchantment,Common,Alacrity
-42,Creature,Common,Magi
-43,Enchantment,Common,Lethargy
-44,Spell,Common,Hypnosis
+==================,DECK,7021
+0,Spell,Heal
+1,Spell,Fury
+2,Creature,Light Monk Goblin
+3,Artifact,Miracle Tome
+4,Creature,Skin-Walker
+5,Creature,Skin-Walker
+6,Creature,Berserker
+7,Creature,Magi
+8,Enchantment,Deathgrip
+9,Enchantment,Shield
+10,Spell,Oblivion Lightning
+11,Spell,Nature Maelstrom
+12,Creature,Death Merchant Griffin
+13,Artifact,Gauntlet
+14,Creature,Berserker
+15,Artifact,Scythe
+16,Creature,Spider
+17,Creature,Fairy
+18,Creature,Fairy
+19,Spell,Gravitation
+20,Spell,Invisibility
+21,Creature,Ghoul
+22,Creature,Wolf
+23,Artifact,Scepter
+24,Enchantment,Ardent Forged Lethargy
+25,Artifact,Crown
+26,Artifact,Greaves
+27,Enchantment,Strength
+28,Enchantment,Age
+29,Enchantment,Lunar Flight
+30,Creature,Wolf
+31,Spell,Nature Burst
+32,Spell,Gale
+33,Creature,Paladin
+34,Creature,Frozen Fighter Cyclops
+35,Creature,Fairy
+36,Artifact,Bow
+37,Creature,Troll
+38,Spell,Tempest
+39,Creature,Warlock
+40,Spell,Ice
+41,Enchantment,Agony
+42,Creature,Fairy
+43,Enchantment,Flight
+44,Spell,Vortex

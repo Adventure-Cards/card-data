@@ -1,46 +1,46 @@
-==================,DECK,4488,Light
-0,Spell,Common,Burn
-1,Creature,Common,Magi
-2,Artifact,Rare,Hateful Cloak
-3,Creature,Common,Magi
-4,Creature,Common,Dwarf
-5,Creature,Common,Warlock
-6,Creature,Common,Elf
-7,Creature,Common,Wolf
-8,Artifact,Rare,Gloom Amulet
-9,Creature,Common,Warlock
-10,Enchantment,Common,Alacrity
-11,Creature,Legendary,Death Merchant Cyclops of the Bright Mountains
-12,Spell,Common,Lightning
-13,Creature,Common,Paladin
-14,Creature,Common,Ghoul
-15,Creature,Rare,Aura Monk Griffin
-16,Enchantment,Common,Agony
-17,Artifact,Common,Ghost Wand
-18,Artifact,Common,Scepter
-19,Creature,Common,Ghoul
-20,Spell,Common,Frost
-21,Artifact,Legendary,Instant Staff
-22,Artifact,Rare,Shimmering Shield
-23,Spell,Common,Vortex
-24,Creature,Mythic,Earth Chaos Wizard of the Shadows
-25,Creature,Common,Paladin
-26,Spell,Common,Frenzy
-27,Spell,Rare,Hateful Hypnosis
-28,Artifact,Rare,Oblivion Gloves
-29,Creature,Rare,Aura Monk Griffin
-30,Creature,Mythic,Earth Chaos Demon of the Shadows
-31,Spell,Common,Hypnosis
-32,Enchantment,Mythic,Extreme Drain
-33,Artifact,Common,Gloves
-34,Creature,Common,Spider
-35,Creature,Rare,Aura Rogue Hydra
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Alacrity
-38,Enchantment,Mythic,Urgent Strength
-39,Enchantment,Rare,Dark Agony
-40,Enchantment,Mythic,Clever Deathgrip
-41,Spell,Rare,Frigid Torment
-42,Spell,Common,Fury
-43,Creature,Common,Ghoul
-44,Spell,Legendary,Potent Ice
+==================,DECK,4488
+0,Spell,Vortex
+1,Creature,Fairy
+2,Artifact,Miracle Cloak
+3,Creature,Fairy
+4,Creature,Magi
+5,Creature,Berserker
+6,Creature,Warlock
+7,Creature,Wolf
+8,Artifact,Gloom Amulet
+9,Creature,Berserker
+10,Enchantment,Shade
+11,Creature,Death Merchant Giant of the Bright Mountains
+12,Spell,Lightning
+13,Creature,Troll
+14,Creature,Ghoul
+15,Creature,Aura Monk Griffin
+16,Enchantment,Lethargy
+17,Artifact,Ghost Wand
+18,Artifact,Scepter
+19,Creature,Ghoul
+20,Spell,Invisibility
+21,Artifact,Irate Solar Staff
+22,Artifact,Forged Shield
+23,Spell,Burn
+24,Creature,Earth Chaos Wizard of the Shadows
+25,Creature,Troll
+26,Spell,Hypnosis
+27,Spell,Miracle Revive
+28,Artifact,Victory Gloves
+29,Creature,Aura Monk Griffin
+30,Creature,Earth Chaos Demon of the Shadows
+31,Spell,Fire
+32,Enchantment,Mighty Dark Flight
+33,Artifact,Gloves
+34,Creature,Paladin
+35,Creature,Aura Rogue Hydra
+36,Creature,Ghoul
+37,Enchantment,Haste
+38,Enchantment,Dire Solar Age
+39,Enchantment,Miracle Shrink
+40,Enchantment,Mighty Oblivion Invert
+41,Spell,Frigid Gravitation
+42,Spell,Vortex
+43,Creature,Ghoul
+44,Spell,Potent Nimble Gravitation

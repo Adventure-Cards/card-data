@@ -1,46 +1,46 @@
-==================,DECK,5016,Light
-0,Creature,Legendary,Snow King Oni of the Haven
-1,Spell,Rare,Cataclysmic Burn
-2,Creature,Common,Warlock
-3,Spell,Rare,Nature Gale
-4,Creature,Common,Spider
-5,Creature,Common,Eagle
-6,Artifact,Common,Amulet
-7,Artifact,Rare,Frigid Boots
-8,Enchantment,Common,Drain
-9,Enchantment,Common,Deathgrip
-10,Spell,Rare,Hateful Burn
-11,Spell,Common,Fury
-12,Creature,Common,Magi
-13,Enchantment,Common,Deathgrip
-14,Creature,Legendary,Snow Knight Kraken of the Eternal Land
-15,Spell,Rare,Life Stun
-16,Enchantment,Common,Strength
-17,Creature,Rare,Frozen Merchant Skin-Walker
-18,Creature,Rare,Snow Queen Fairy
-19,Enchantment,Common,Invert
-20,Enchantment,Common,Shield
-21,Enchantment,Rare,Nimble Agony
-22,Enchantment,Mythic,Urgent Shade
-23,Artifact,Common,Divine Robe
-24,Creature,Mythic,Death Nameless Phoenix of the Dead
-25,Creature,Rare,Light Monk Minotaur
-26,Enchantment,Common,Alacrity
-27,Creature,Common,Warlock
-28,Enchantment,Rare,Cataclysmic Deathgrip
-29,Creature,Rare,Snow Priest Minotaur
-30,Spell,Rare,Cataclysmic Burst
-31,Creature,Common,Warlock
-32,Creature,Common,Wolf
-33,Creature,Rare,Snow Priest Hydra
-34,Artifact,Common,Gauntlet
-35,Artifact,Common,Sigil
-36,Creature,Common,Wolf
-37,Creature,Common,Magi
-38,Enchantment,Rare,Lunar Flight
-39,Creature,Common,Elf
-40,Creature,Common,Ghoul
-41,Creature,Legendary,Snow King Orge of the Golden Palace
-42,Creature,Common,Dwarf
-43,Spell,Common,Torment
-44,Creature,Common,Goblin
+==================,DECK,5016
+0,Creature,Snow King Oni of the Haven
+1,Spell,Sorrow Stun
+2,Creature,Berserker
+3,Spell,Shimmering Fire
+4,Creature,Paladin
+5,Creature,Eagle
+6,Artifact,Amulet
+7,Artifact,Nimble Boots
+8,Enchantment,Flight
+9,Enchantment,Shrink
+10,Spell,Gloom Ice
+11,Spell,Tempest
+12,Creature,Fairy
+13,Enchantment,Strength
+14,Creature,Snow Knight Ogre of the Eternal Land
+15,Spell,Victory Fireball
+16,Enchantment,Strength
+17,Creature,Frozen Merchant Orc
+18,Creature,Snow Queen Kraken
+19,Enchantment,Deathgrip
+20,Enchantment,Invert
+21,Enchantment,Corpse Lethargy
+22,Enchantment,Instant Necro Strength
+23,Artifact,Divine Robe
+24,Creature,Death Nameless Phoenix of the Dead
+25,Creature,Light Monk Cyclops
+26,Enchantment,Shrink
+27,Creature,Berserker
+28,Enchantment,Sorrow Shield
+29,Creature,Snow Priest Cyclops
+30,Spell,Miracle Revive
+31,Creature,Berserker
+32,Creature,Wolf
+33,Creature,Snow Priest Hydra
+34,Artifact,Gauntlet
+35,Artifact,Sigil
+36,Creature,Wolf
+37,Creature,Fairy
+38,Enchantment,Lunar Shield
+39,Creature,Warlock
+40,Creature,Ghoul
+41,Creature,Snow King Elf of the Golden Palace
+42,Creature,Magi
+43,Spell,Frost
+44,Creature,Skin-Walker

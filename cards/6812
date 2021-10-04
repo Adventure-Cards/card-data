@@ -1,46 +1,46 @@
-==================,DECK,6812,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Magi
-2,Creature,Common,Spider
-3,Artifact,Common,Greaves
-4,Artifact,Rare,Corpse Ghost Wand
-5,Spell,Common,Frost
-6,Spell,Rare,Necro Stun
-7,Creature,Common,Eagle
-8,Artifact,Common,Scythe
-9,Spell,Legendary,Instant Gravitation
-10,Spell,Common,Assault
-11,Spell,Rare,Gloom Invisibility
-12,Spell,Rare,Hateful Hypnosis
-13,Spell,Rare,Forged Torment
-14,Spell,Common,Burn
-15,Creature,Rare,Death Rogue Griffin
-16,Creature,Common,Dwarf
-17,Creature,Common,Paladin
-18,Spell,Common,Torment
-19,Creature,Common,Ghoul
-20,Creature,Common,Wolf
-21,Enchantment,Common,Age
-22,Artifact,Common,Ghost Wand
-23,Creature,Common,Ghoul
-24,Spell,Common,Gale
-25,Creature,Rare,Earth Assassin Minotaur
-26,Enchantment,Common,Shrink
-27,Creature,Common,Eagle
-28,Creature,Common,Elf
-29,Spell,Rare,Nimble Frenzy
-30,Spell,Common,Reanimate
-31,Creature,Common,Elf
-32,Spell,Common,Burst
-33,Creature,Common,Elf
-34,Creature,Rare,Frozen King Hydra
-35,Creature,Common,Paladin
-36,Creature,Common,Orc
-37,Spell,Common,Frost
-38,Spell,Common,Freeze
-39,Artifact,Legendary,Dire Pendant
-40,Creature,Rare,Snow Knight Skin-Walker
-41,Creature,Common,Magi
-42,Enchantment,Common,Shield
-43,Spell,Common,Pandemonium
-44,Enchantment,Legendary,Dire Shade
+==================,DECK,6812
+0,Creature,Wolf
+1,Creature,Fairy
+2,Creature,Paladin
+3,Artifact,Greaves
+4,Artifact,Corpse Ghost Wand
+5,Spell,Hypnosis
+6,Spell,Corpse Gale
+7,Creature,Eagle
+8,Artifact,Scythe
+9,Spell,Irate Corpse Hypnosis
+10,Spell,Burst
+11,Spell,Sorrow Stricken
+12,Spell,Cataclysmic Pandemonium
+13,Spell,Sorrow Burn
+14,Spell,Burst
+15,Creature,Death Rogue Griffin
+16,Creature,Magi
+17,Creature,Troll
+18,Spell,Freeze
+19,Creature,Ghoul
+20,Creature,Wolf
+21,Enchantment,Strength
+22,Artifact,Ghost Wand
+23,Creature,Ghoul
+24,Spell,Stricken
+25,Creature,Earth Assassin Cyclops
+26,Enchantment,Strength
+27,Creature,Eagle
+28,Creature,Warlock
+29,Spell,Forged Stricken
+30,Spell,Invisibility
+31,Creature,Warlock
+32,Spell,Burn
+33,Creature,Warlock
+34,Creature,Frozen King Hydra
+35,Creature,Troll
+36,Creature,Spider
+37,Spell,Hypnosis
+38,Spell,Sorrow
+39,Artifact,Zealous Frigid Pendant
+40,Creature,Snow Knight Orc
+41,Creature,Fairy
+42,Enchantment,Agony
+43,Spell,Freeze
+44,Enchantment,Dire Frigid Shade

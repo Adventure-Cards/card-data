@@ -1,46 +1,46 @@
-==================,DECK,6151,Light
-0,Creature,Legendary,Dark Lord Giant of the Magical Forest
-1,Creature,Common,Orc
-2,Spell,Rare,Grim Frost
-3,Creature,Rare,Death Lord Skin-Walker
-4,Enchantment,Common,Alacrity
-5,Creature,Common,Spider
-6,Artifact,Rare,Miracle Ghost Wand
-7,Creature,Rare,Snow Thief Fairy
-8,Creature,Common,Goblin
-9,Spell,Rare,Cataclysmic Ice
-10,Spell,Rare,Frigid Vortex
-11,Artifact,Legendary,Potent Ring
-12,Creature,Common,Ghoul
-13,Creature,Common,Ghoul
-14,Creature,Rare,Earth Merchant Minotaur
-15,Enchantment,Common,Agony
-16,Creature,Common,Elf
-17,Creature,Common,Eagle
-18,Creature,Common,Spider
-19,Enchantment,Common,Shade
-20,Creature,Legendary,Dark Priest Cyclops of the Swamp
-21,Artifact,Rare,Shimmering Shield
-22,Artifact,Common,Sword
-23,Creature,Common,Warlock
-24,Creature,Common,Warlock
-25,Artifact,Legendary,Potent Boots
-26,Creature,Common,Elf
-27,Enchantment,Common,Drain
-28,Creature,Common,Spider
-29,Creature,Legendary,Dark Assassin Oni of the Black Stone
-30,Enchantment,Common,Shade
-31,Creature,Rare,Earth Warrior Hydra
-32,Enchantment,Common,Blight
-33,Spell,Common,Wall
-34,Creature,Common,Warlock
-35,Creature,Rare,Frozen King Griffin
-36,Creature,Common,Ghoul
-37,Spell,Common,Sorrow
-38,Creature,Common,Warlock
-39,Creature,Common,Goblin
-40,Artifact,Common,Shield
-41,Creature,Common,Goblin
-42,Creature,Common,Magi
-43,Spell,Rare,Necro Burn
-44,Creature,Common,Paladin
+==================,DECK,6151
+0,Creature,Dark Lord Dwarf of the Magical Forest
+1,Creature,Spider
+2,Spell,Victory Fire
+3,Creature,Death Lord Orc
+4,Enchantment,Shrink
+5,Creature,Paladin
+6,Artifact,Frigid Ghost Wand
+7,Creature,Snow Thief Kraken
+8,Creature,Skin-Walker
+9,Spell,Chimeric Fire
+10,Spell,Nimble Revive
+11,Artifact,Ardent Life Ring
+12,Creature,Ghoul
+13,Creature,Ghoul
+14,Creature,Earth Merchant Cyclops
+15,Enchantment,Strength
+16,Creature,Warlock
+17,Creature,Eagle
+18,Creature,Paladin
+19,Enchantment,Lethargy
+20,Creature,Dark Priest Giant of the Swamp
+21,Artifact,Corpse Shield
+22,Artifact,Sword
+23,Creature,Berserker
+24,Creature,Berserker
+25,Artifact,Clever Nimble Boots
+26,Creature,Warlock
+27,Enchantment,Agony
+28,Creature,Paladin
+29,Creature,Dark Assassin Oni of the Black Stone
+30,Enchantment,Shield
+31,Creature,Earth Warrior Hydra
+32,Enchantment,Haste
+33,Spell,Burn
+34,Creature,Berserker
+35,Creature,Frozen King Griffin
+36,Creature,Ghoul
+37,Spell,Tempest
+38,Creature,Berserker
+39,Creature,Skin-Walker
+40,Artifact,Shield
+41,Creature,Skin-Walker
+42,Creature,Fairy
+43,Spell,Nature Stricken
+44,Creature,Troll

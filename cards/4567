@@ -1,46 +1,46 @@
-==================,DECK,4567,Light
-0,Creature,Common,Ghoul
-1,Artifact,Common,Bow
-2,Creature,Common,Magi
-3,Creature,Common,Dwarf
-4,Creature,Common,Eagle
-5,Creature,Common,Magi
-6,Spell,Legendary,Dire Heal
-7,Enchantment,Mythic,Angry Shrink
-8,Spell,Common,Infuriate
-9,Creature,Common,Dwarf
-10,Creature,Rare,Death Merchant Minotaur
-11,Spell,Rare,Frigid Vortex
-12,Creature,Common,Ghoul
-13,Creature,Common,Orc
-14,Enchantment,Common,Drain
-15,Enchantment,Rare,Dark Shield
-16,Creature,Common,Elf
-17,Creature,Rare,Light Queen Skin-Walker
-18,Spell,Common,Burst
-19,Spell,Common,Vortex
-20,Enchantment,Rare,Nature Shrink
-21,Enchantment,Rare,Solar Shade
-22,Creature,Common,Elf
-23,Creature,Common,Magi
-24,Creature,Common,Wolf
-25,Creature,Rare,Snow Merchant Griffin
-26,Creature,Legendary,Earth Thief Cyclops of the Polar Woods
-27,Creature,Legendary,Earth Lord Cyclops of the Golden Palace
-28,Creature,Rare,Aura Fighter Griffin
-29,Creature,Common,Spider
-30,Creature,Common,Goblin
-31,Creature,Rare,Frozen King Fairy
-32,Creature,Common,Ghoul
-33,Creature,Mythic,Frozen Time Phoenix of the Void
-34,Creature,Common,Orc
-35,Enchantment,Common,Shrink
-36,Spell,Common,Burn
-37,Creature,Common,Paladin
-38,Enchantment,Common,Strength
-39,Creature,Legendary,Dark Priest Cyclops of the Eastern Skies
-40,Creature,Common,Wolf
-41,Spell,Common,Rage
-42,Enchantment,Mythic,Potent Lethargy
-43,Creature,Common,Ghoul
-44,Creature,Rare,Death Knight Berserker
+==================,DECK,4567
+0,Creature,Ghoul
+1,Artifact,Bow
+2,Creature,Fairy
+3,Creature,Magi
+4,Creature,Eagle
+5,Creature,Fairy
+6,Spell,Urgent Apocalypse Stun
+7,Enchantment,Empyrean Chimeric Firebreath
+8,Spell,Heal
+9,Creature,Magi
+10,Creature,Death Merchant Cyclops
+11,Spell,Grim Heal
+12,Creature,Ghoul
+13,Creature,Spider
+14,Enchantment,Lethargy
+15,Enchantment,Gloom Shrink
+16,Creature,Warlock
+17,Creature,Light Queen Orc
+18,Spell,Burst
+19,Spell,Stricken
+20,Enchantment,Necro Lethargy
+21,Enchantment,Necro Agony
+22,Creature,Warlock
+23,Creature,Fairy
+24,Creature,Wolf
+25,Creature,Snow Merchant Griffin
+26,Creature,Earth Thief Giant of the Polar Woods
+27,Creature,Earth Lord Giant of the Golden Palace
+28,Creature,Aura Fighter Griffin
+29,Creature,Paladin
+30,Creature,Skin-Walker
+31,Creature,Frozen King Kraken
+32,Creature,Ghoul
+33,Creature,Frozen Time Phoenix of the Void
+34,Creature,Spider
+35,Enchantment,Haste
+36,Spell,Frost
+37,Creature,Troll
+38,Enchantment,Shade
+39,Creature,Dark Priest Giant of the Eastern Skies
+40,Creature,Wolf
+41,Spell,Maelstrom
+42,Enchantment,Dire Grim Shade
+43,Creature,Ghoul
+44,Creature,Death Knight Goblin

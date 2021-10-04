@@ -1,46 +1,46 @@
-==================,DECK,5603,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Common,Deathgrip
-2,Spell,Common,Reanimate
-3,Spell,Common,Burst
-4,Creature,Common,Eagle
-5,Creature,Common,Warlock
-6,Enchantment,Mythic,Instant Alacrity
-7,Spell,Common,Wall
-8,Creature,Common,Paladin
-9,Enchantment,Common,Agony
-10,Creature,Common,Elf
-11,Creature,Legendary,Light Monk Orge of the Frozen Castle
-12,Creature,Legendary,Snow Knight Kraken of the Border
-13,Spell,Legendary,Instant Pandemonium
-14,Creature,Legendary,Light Lord Giant of the Bright Mountains
-15,Spell,Common,Frost
-16,Creature,Common,Elf
-17,Creature,Common,Paladin
-18,Spell,Common,Frost
-19,Creature,Rare,Snow Undead Berserker
-20,Enchantment,Common,Blight
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Spider
-23,Creature,Rare,Earth Priest Hydra
-24,Creature,Rare,Light King Hydra
-25,Artifact,Common,Crown
-26,Creature,Common,Elf
-27,Enchantment,Rare,Apocalypse Flight
-28,Creature,Legendary,Light Thief Oni of the Arctic Blizzards
-29,Creature,Common,Elf
-30,Creature,Common,Spider
-31,Creature,Rare,Light Lord Berserker
-32,Artifact,Common,Bracers
-33,Creature,Common,Paladin
-34,Creature,Rare,Death King Skin-Walker
-35,Creature,Common,Elf
-36,Enchantment,Mythic,Angry Shrink
-37,Enchantment,Common,Drain
-38,Spell,Common,Ice
-39,Spell,Rare,Dark Revive
-40,Enchantment,Rare,Solar Strength
-41,Enchantment,Common,Deathgrip
-42,Creature,Rare,Snow Thief Griffin
-43,Creature,Common,Orc
-44,Creature,Common,Dwarf
+==================,DECK,5603
+0,Enchantment,Age
+1,Enchantment,Agony
+2,Spell,Ice
+3,Spell,Fireball
+4,Creature,Eagle
+5,Creature,Berserker
+6,Enchantment,Dire Forged Age
+7,Spell,Vortex
+8,Creature,Troll
+9,Enchantment,Strength
+10,Creature,Warlock
+11,Creature,Light Monk Elf of the Frozen Castle
+12,Creature,Snow Knight Ogre of the Border
+13,Spell,Potent Hateful Invisibility
+14,Creature,Light Lord Dwarf of the Bright Mountains
+15,Spell,Wall
+16,Creature,Warlock
+17,Creature,Troll
+18,Spell,Hypnosis
+19,Creature,Snow Undead Goblin
+20,Enchantment,Lethargy
+21,Enchantment,Drain
+22,Creature,Paladin
+23,Creature,Earth Priest Hydra
+24,Creature,Light King Hydra
+25,Artifact,Crown
+26,Creature,Warlock
+27,Enchantment,Grim Blight
+28,Creature,Light Thief Oni of the Arctic Blizzards
+29,Creature,Warlock
+30,Creature,Paladin
+31,Creature,Light Lord Goblin
+32,Artifact,Bracers
+33,Creature,Troll
+34,Creature,Death King Orc
+35,Creature,Warlock
+36,Enchantment,Mighty Chimeric Flight
+37,Enchantment,Shade
+38,Spell,Lightning
+39,Spell,Cataclysmic Sorrow
+40,Enchantment,Solar Deathgrip
+41,Enchantment,Agony
+42,Creature,Snow Thief Griffin
+43,Creature,Spider
+44,Creature,Magi

@@ -1,46 +1,46 @@
-==================,DECK,7368,Light
-0,Creature,Common,Magi
-1,Spell,Common,Gale
-2,Creature,Common,Paladin
-3,Artifact,Rare,Necro Gauntlet
-4,Enchantment,Rare,Dark Agony
-5,Creature,Common,Elf
-6,Enchantment,Rare,Oblivion Shade
-7,Enchantment,Common,Strength
-8,Creature,Common,Warlock
-9,Spell,Rare,Miracle Gale
-10,Creature,Common,Magi
-11,Creature,Rare,Frozen Knight Hydra
-12,Enchantment,Rare,Shimmering Age
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Elf
-15,Creature,Common,Goblin
-16,Spell,Common,Stun
-17,Enchantment,Common,Shield
-18,Creature,Mythic,Aura Ancient Demon of the Light
-19,Enchantment,Common,Blight
-20,Enchantment,Common,Agony
-21,Creature,Mythic,Death Grand Wizard of the Dead
-22,Enchantment,Legendary,Angry Haste
-23,Creature,Common,Eagle
-24,Creature,Common,Paladin
-25,Creature,Common,Orc
-26,Spell,Rare,Grim Heal
-27,Creature,Common,Spider
-28,Enchantment,Common,Haste
-29,Artifact,Common,Divine Robe
-30,Spell,Legendary,Clever Wall
-31,Creature,Rare,Light Rogue Hydra
-32,Creature,Rare,Dark Fighter Hydra
-33,Creature,Rare,Death Assassin Minotaur
-34,Creature,Rare,Snow Thief Minotaur
-35,Spell,Common,Reanimate
-36,Spell,Common,Torment
-37,Creature,Common,Wolf
-38,Enchantment,Common,Agony
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Agony
-41,Creature,Rare,Frozen Undead Fairy
-42,Creature,Common,Elf
-43,Enchantment,Rare,Frigid Agony
-44,Artifact,Rare,Solar Scepter
+==================,DECK,7368
+0,Creature,Fairy
+1,Spell,Stricken
+2,Creature,Troll
+3,Artifact,Nature Gauntlet
+4,Enchantment,Miracle Shield
+5,Creature,Warlock
+6,Enchantment,Frigid Invert
+7,Enchantment,Blight
+8,Creature,Berserker
+9,Spell,Life Stricken
+10,Creature,Fairy
+11,Creature,Frozen Knight Hydra
+12,Enchantment,Nature Age
+13,Enchantment,Deathgrip
+14,Creature,Warlock
+15,Creature,Skin-Walker
+16,Spell,Infuriate
+17,Enchantment,Age
+18,Creature,Aura Ancient Demon of the Light
+19,Enchantment,Shade
+20,Enchantment,Lethargy
+21,Creature,Death Grand Wizard of the Dead
+22,Enchantment,Clever Miracle Shield
+23,Creature,Eagle
+24,Creature,Troll
+25,Creature,Spider
+26,Spell,Grim Sorrow
+27,Creature,Paladin
+28,Enchantment,Flight
+29,Artifact,Divine Robe
+30,Spell,Dire Nimble Revive
+31,Creature,Light Rogue Hydra
+32,Creature,Dark Fighter Hydra
+33,Creature,Death Assassin Cyclops
+34,Creature,Snow Thief Cyclops
+35,Spell,Gale
+36,Spell,Wall
+37,Creature,Wolf
+38,Enchantment,Alacrity
+39,Creature,Ghoul
+40,Enchantment,Drain
+41,Creature,Frozen Undead Kraken
+42,Creature,Warlock
+43,Enchantment,Life Haste
+44,Artifact,Forged Scepter

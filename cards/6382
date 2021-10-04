@@ -1,46 +1,46 @@
-==================,DECK,6382,Strong
-0,Creature,Common,Ghoul
-1,Creature,Mythic,Dark Time Dragon of Illusion
-2,Creature,Mythic,Dark Grand Demon of Illusion
-3,Creature,Common,Wolf
-4,Enchantment,Common,Shield
-5,Spell,Rare,Corpse Freeze
-6,Spell,Common,Stricken
-7,Artifact,Common,Tome
-8,Enchantment,Rare,Forged Strength
-9,Creature,Common,Elf
-10,Spell,Common,Lightning
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Alacrity
-13,Creature,Rare,Death Rogue Minotaur
-14,Creature,Common,Spider
-15,Enchantment,Common,Invert
-16,Creature,Mythic,Frozen Grand Wizard of the Void
-17,Creature,Common,Eagle
-18,Creature,Rare,Light Rogue Griffin
-19,Enchantment,Common,Shrink
-20,Creature,Common,Spider
-21,Spell,Common,Rage
-22,Artifact,Common,Belt
-23,Creature,Common,Paladin
-24,Creature,Common,Orc
-25,Creature,Common,Wolf
-26,Creature,Rare,Snow Undead Fairy
-27,Creature,Rare,Earth King Fairy
-28,Spell,Legendary,Mighty Reanimate
-29,Spell,Common,Fury
-30,Artifact,Common,Ring
-31,Spell,Legendary,Urgent Reanimate
-32,Enchantment,Common,Lethargy
-33,Creature,Mythic,Aura Chaos Demon of the Light
-34,Creature,Legendary,Dark Time Dragon of Illusion
-35,Spell,Rare,Forged Torment
-36,Creature,Legendary,Light Chaos Wizard of the Sky
-37,Artifact,Rare,Dark Tome
-38,Enchantment,Mythic,Clever Shade
-39,Creature,Mythic,Earth Ancient Demon of the Shadows
-40,Creature,Mythic,Aura Undead Dragon of the Light
-41,Creature,Mythic,Snow Nameless Dragon of Hate
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Common,Shield
-44,Spell,Common,Maelstrom
+==================,DECK,6382
+0,Creature,Ghoul
+1,Creature,Dark Time Dragon of Illusion
+2,Creature,Dark Grand Demon of Illusion
+3,Creature,Wolf
+4,Enchantment,Haste
+5,Spell,Corpse Burst
+6,Spell,Torment
+7,Artifact,Tome
+8,Enchantment,Cataclysmic Shield
+9,Creature,Warlock
+10,Spell,Reanimate
+11,Creature,Ghoul
+12,Enchantment,Blight
+13,Creature,Death Rogue Cyclops
+14,Creature,Paladin
+15,Enchantment,Alacrity
+16,Creature,Frozen Grand Wizard of the Void
+17,Creature,Eagle
+18,Creature,Light Rogue Griffin
+19,Enchantment,Strength
+20,Creature,Paladin
+21,Spell,Burn
+22,Artifact,Belt
+23,Creature,Troll
+24,Creature,Spider
+25,Creature,Wolf
+26,Creature,Snow Undead Kraken
+27,Creature,Earth King Kraken
+28,Spell,Empyrean Chimeric Hypnosis
+29,Spell,Torment
+30,Artifact,Ring
+31,Spell,Zealous Hateful Lightning
+32,Enchantment,Lethargy
+33,Creature,Aura Chaos Demon of the Light
+34,Creature,Dark Time Dragon of Illusion
+35,Spell,Miracle Frenzy
+36,Creature,Light Chaos Wizard of the Sky
+37,Artifact,Dark Tome
+38,Enchantment,Irate Frigid Blight
+39,Creature,Earth Ancient Demon of the Shadows
+40,Creature,Aura Undead Dragon of the Light
+41,Creature,Snow Nameless Dragon of Hate
+42,Enchantment,Shrink
+43,Enchantment,Blight
+44,Spell,Wall

@@ -1,46 +1,46 @@
-==================,DECK,6588,Light
-0,Artifact,Common,Crown
-1,Creature,Common,Orc
-2,Creature,Common,Elf
-3,Creature,Common,Elf
-4,Enchantment,Common,Strength
-5,Creature,Common,Ghoul
-6,Creature,Common,Elf
-7,Creature,Legendary,Earth Fighter Orge of the Border
-8,Creature,Common,Spider
-9,Creature,Legendary,Aura Merchant Cyclops of the Eternal Land
-10,Creature,Mythic,Light Nameless Dragon of the Sky
-11,Creature,Common,Elf
-12,Enchantment,Common,Shade
-13,Creature,Common,Paladin
-14,Creature,Common,Goblin
-15,Creature,Rare,Frozen Undead Fairy
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Artifact,Rare,Nimble Staff
-19,Enchantment,Rare,Grim Agony
-20,Creature,Common,Spider
-21,Spell,Legendary,Urgent Reanimate
-22,Creature,Common,Dwarf
-23,Spell,Rare,Solar Assault
-24,Creature,Common,Magi
-25,Enchantment,Rare,Dark Alacrity
-26,Spell,Common,Invisibility
-27,Creature,Common,Paladin
-28,Spell,Legendary,Potent Sorrow
-29,Creature,Common,Warlock
-30,Creature,Common,Elf
-31,Artifact,Legendary,Extreme Bracers
-32,Spell,Common,Rage
-33,Spell,Common,Revive
-34,Creature,Common,Goblin
-35,Creature,Common,Paladin
-36,Creature,Common,Warlock
-37,Creature,Legendary,Dark Fighter Orge of the Black Stone
-38,Enchantment,Common,Shield
-39,Creature,Common,Orc
-40,Creature,Common,Orc
-41,Creature,Common,Goblin
-42,Spell,Common,Torment
-43,Enchantment,Mythic,Instant Agony
-44,Creature,Common,Spider
+==================,DECK,6588
+0,Artifact,Crown
+1,Creature,Spider
+2,Creature,Warlock
+3,Creature,Warlock
+4,Enchantment,Lethargy
+5,Creature,Ghoul
+6,Creature,Warlock
+7,Creature,Earth Fighter Elf of the Border
+8,Creature,Paladin
+9,Creature,Aura Merchant Giant of the Eternal Land
+10,Creature,Light Nameless Dragon of the Sky
+11,Creature,Warlock
+12,Enchantment,Strength
+13,Creature,Troll
+14,Creature,Skin-Walker
+15,Creature,Frozen Undead Kraken
+16,Creature,Berserker
+17,Creature,Berserker
+18,Artifact,Necro Staff
+19,Enchantment,Life Invert
+20,Creature,Paladin
+21,Spell,Potent Solar Pandemonium
+22,Creature,Magi
+23,Spell,Solar Freeze
+24,Creature,Fairy
+25,Enchantment,Dark Alacrity
+26,Spell,Fire
+27,Creature,Troll
+28,Spell,Mighty Victory Frenzy
+29,Creature,Berserker
+30,Creature,Warlock
+31,Artifact,Irate Lunar Bracers
+32,Spell,Revive
+33,Spell,Gravitation
+34,Creature,Skin-Walker
+35,Creature,Troll
+36,Creature,Berserker
+37,Creature,Dark Fighter Elf of the Black Stone
+38,Enchantment,Alacrity
+39,Creature,Spider
+40,Creature,Spider
+41,Creature,Skin-Walker
+42,Spell,Reanimate
+43,Enchantment,Dire Corpse Age
+44,Creature,Paladin

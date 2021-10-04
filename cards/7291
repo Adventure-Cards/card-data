@@ -1,46 +1,46 @@
-==================,DECK,7291,Light
-0,Enchantment,Common,Agony
-1,Spell,Rare,Forged Frenzy
-2,Creature,Common,Wolf
-3,Creature,Common,Goblin
-4,Spell,Legendary,Urgent Assault
-5,Creature,Common,Dwarf
-6,Artifact,Common,Bow
-7,Enchantment,Common,Shrink
-8,Spell,Rare,Cataclysmic Ice
-9,Spell,Rare,Miracle Fury
-10,Spell,Common,Sorrow
-11,Spell,Common,Stricken
-12,Creature,Rare,Frozen Knight Fairy
-13,Creature,Rare,Dark Monk Hydra
-14,Enchantment,Common,Blight
-15,Enchantment,Common,Strength
-16,Artifact,Common,Gloves
-17,Creature,Common,Wolf
-18,Spell,Common,Freeze
-19,Creature,Common,Eagle
-20,Enchantment,Common,Shade
-21,Creature,Common,Goblin
-22,Spell,Common,Burn
-23,Artifact,Common,Divine Robe
-24,Creature,Common,Warlock
-25,Creature,Legendary,Dark Undead Kraken of the Mountains
-26,Creature,Common,Goblin
-27,Spell,Rare,Gloom Vortex
-28,Spell,Rare,Nature Burst
-29,Creature,Rare,Aura Undead Hydra
-30,Spell,Common,Rage
-31,Enchantment,Common,Lethargy
-32,Creature,Common,Paladin
-33,Spell,Common,Freeze
-34,Artifact,Common,Helmet
-35,Creature,Rare,Aura Fighter Skin-Walker
-36,Enchantment,Legendary,Extreme Blight
-37,Creature,Legendary,Death Thief Kraken of the Plains
-38,Creature,Mythic,Light Chaos Wizard of the Sky
-39,Creature,Common,Paladin
-40,Enchantment,Mythic,Potent Drain
-41,Spell,Common,Infuriate
-42,Creature,Mythic,Light Nameless Phoenix of the Sky
-43,Creature,Legendary,Death Undead Oni of the Haven
-44,Creature,Legendary,Light Thief Cyclops of the Magical Forest
+==================,DECK,7291
+0,Enchantment,Lethargy
+1,Spell,Dark Gravitation
+2,Creature,Wolf
+3,Creature,Skin-Walker
+4,Spell,Urgent Forged Fireball
+5,Creature,Magi
+6,Artifact,Bow
+7,Enchantment,Deathgrip
+8,Spell,Cataclysmic Infuriate
+9,Spell,Frigid Torment
+10,Spell,Ice
+11,Spell,Freeze
+12,Creature,Frozen Knight Kraken
+13,Creature,Dark Monk Hydra
+14,Enchantment,Blight
+15,Enchantment,Blight
+16,Artifact,Gloves
+17,Creature,Wolf
+18,Spell,Freeze
+19,Creature,Eagle
+20,Enchantment,Age
+21,Creature,Skin-Walker
+22,Spell,Gale
+23,Artifact,Divine Robe
+24,Creature,Berserker
+25,Creature,Dark Undead Ogre of the Mountains
+26,Creature,Skin-Walker
+27,Spell,Cataclysmic Gravitation
+28,Spell,Shimmering Gale
+29,Creature,Aura Undead Hydra
+30,Spell,Tempest
+31,Enchantment,Age
+32,Creature,Troll
+33,Spell,Stun
+34,Artifact,Helmet
+35,Creature,Aura Fighter Orc
+36,Enchantment,Empyrean Cataclysmic Firebreath
+37,Creature,Death Thief Ogre of the Plains
+38,Creature,Light Chaos Wizard of the Sky
+39,Creature,Troll
+40,Enchantment,Empyrean Apocalypse Shade
+41,Spell,Sorrow
+42,Creature,Light Nameless Phoenix of the Sky
+43,Creature,Death Undead Oni of the Haven
+44,Creature,Light Thief Giant of the Magical Forest

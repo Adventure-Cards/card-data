@@ -1,46 +1,46 @@
-==================,DECK,7983,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Invert
-3,Creature,Rare,Death Thief Berserker
-4,Enchantment,Common,Blight
-5,Creature,Common,Dwarf
-6,Spell,Common,Pandemonium
-7,Creature,Rare,Dark Merchant Minotaur
-8,Enchantment,Common,Drain
-9,Spell,Rare,Forged Wall
-10,Creature,Common,Elf
-11,Creature,Common,Ghoul
-12,Creature,Common,Goblin
-13,Enchantment,Common,Lethargy
-14,Enchantment,Mythic,Urgent Deathgrip
-15,Spell,Common,Infuriate
-16,Creature,Rare,Light Fighter Skin-Walker
-17,Creature,Common,Wolf
-18,Enchantment,Mythic,Mighty Strength
-19,Creature,Common,Elf
-20,Creature,Rare,Snow Assassin Minotaur
-21,Spell,Common,Gale
-22,Creature,Common,Spider
-23,Creature,Common,Magi
-24,Spell,Common,Stun
-25,Creature,Rare,Frozen Merchant Skin-Walker
-26,Creature,Common,Spider
-27,Creature,Common,Magi
-28,Creature,Common,Eagle
-29,Creature,Rare,Death Knight Fairy
-30,Artifact,Common,Ghost Wand
-31,Creature,Common,Spider
-32,Enchantment,Common,Age
-33,Spell,Rare,Hateful Ice
-34,Spell,Common,Rage
-35,Creature,Legendary,Snow Thief Cyclops of the Swamp
-36,Creature,Common,Elf
-37,Creature,Rare,Earth Monk Hydra
-38,Creature,Common,Ghoul
-39,Creature,Legendary,Aura Knight Giant of the Arctic Blizzards
-40,Enchantment,Common,Haste
-41,Artifact,Legendary,Dire Gauntlet
-42,Spell,Common,Freeze
-43,Spell,Common,Ice
-44,Spell,Common,Lightning
+==================,DECK,7983
+0,Creature,Ghoul
+1,Creature,Magi
+2,Enchantment,Shrink
+3,Creature,Death Thief Goblin
+4,Enchantment,Strength
+5,Creature,Magi
+6,Spell,Torment
+7,Creature,Dark Merchant Cyclops
+8,Enchantment,Alacrity
+9,Spell,Miracle Frost
+10,Creature,Warlock
+11,Creature,Ghoul
+12,Creature,Skin-Walker
+13,Enchantment,Shrink
+14,Enchantment,Clever Shimmering Lethargy
+15,Spell,Maelstrom
+16,Creature,Light Fighter Orc
+17,Creature,Wolf
+18,Enchantment,Instant Cataclysmic Shrink
+19,Creature,Warlock
+20,Creature,Snow Assassin Cyclops
+21,Spell,Revive
+22,Creature,Paladin
+23,Creature,Fairy
+24,Spell,Fury
+25,Creature,Frozen Merchant Orc
+26,Creature,Paladin
+27,Creature,Fairy
+28,Creature,Eagle
+29,Creature,Death Knight Kraken
+30,Artifact,Ghost Wand
+31,Creature,Paladin
+32,Enchantment,Shield
+33,Spell,Sorrow Assault
+34,Spell,Revive
+35,Creature,Snow Thief Giant of the Swamp
+36,Creature,Warlock
+37,Creature,Earth Monk Hydra
+38,Creature,Ghoul
+39,Creature,Aura Knight Dwarf of the Arctic Blizzards
+40,Enchantment,Shield
+41,Artifact,Clever Oblivion Gauntlet
+42,Spell,Pandemonium
+43,Spell,Fury
+44,Spell,Stricken

@@ -1,46 +1,46 @@
-==================,DECK,7251,Light
-0,Enchantment,Legendary,Angry Deathgrip
-1,Spell,Common,Ice
-2,Creature,Common,Ghoul
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Flight
-5,Creature,Common,Eagle
-6,Creature,Common,Elf
-7,Creature,Common,Paladin
-8,Creature,Rare,Dark Queen Hydra
-9,Creature,Common,Magi
-10,Creature,Rare,Earth Priest Hydra
-11,Enchantment,Common,Agony
-12,Spell,Rare,Hateful Gale
-13,Creature,Common,Spider
-14,Spell,Rare,Forged Lightning
-15,Enchantment,Rare,Dark Agony
-16,Creature,Common,Goblin
-17,Enchantment,Common,Drain
-18,Creature,Common,Elf
-19,Artifact,Common,Helmet
-20,Creature,Common,Spider
-21,Artifact,Common,Sword
-22,Creature,Common,Elf
-23,Creature,Common,Magi
-24,Creature,Common,Dwarf
-25,Creature,Mythic,Snow Grand Wizard of Hate
-26,Enchantment,Common,Invert
-27,Enchantment,Common,Flight
-28,Spell,Common,Hypnosis
-29,Enchantment,Common,Strength
-30,Creature,Common,Wolf
-31,Creature,Common,Magi
-32,Spell,Rare,Corpse Lightning
-33,Spell,Common,Pandemonium
-34,Creature,Common,Ghoul
-35,Spell,Common,Hypnosis
-36,Creature,Common,Magi
-37,Spell,Rare,Solar Wall
-38,Creature,Common,Ghoul
-39,Creature,Common,Warlock
-40,Spell,Common,Vortex
-41,Spell,Legendary,Urgent Revive
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Aura King Kraken of the Black Stone
-44,Spell,Rare,Nimble Rage
+==================,DECK,7251
+0,Enchantment,Clever Sorrow Shield
+1,Spell,Fireball
+2,Creature,Ghoul
+3,Creature,Magi
+4,Enchantment,Agony
+5,Creature,Eagle
+6,Creature,Warlock
+7,Creature,Troll
+8,Creature,Dark Queen Hydra
+9,Creature,Fairy
+10,Creature,Earth Priest Hydra
+11,Enchantment,Haste
+12,Spell,Dark Rage
+13,Creature,Paladin
+14,Spell,Lunar Fireball
+15,Enchantment,Miracle Firebreath
+16,Creature,Skin-Walker
+17,Enchantment,Strength
+18,Creature,Warlock
+19,Artifact,Helmet
+20,Creature,Paladin
+21,Artifact,Sword
+22,Creature,Warlock
+23,Creature,Fairy
+24,Creature,Magi
+25,Creature,Snow Grand Wizard of Hate
+26,Enchantment,Firebreath
+27,Enchantment,Blight
+28,Spell,Fire
+29,Enchantment,Agony
+30,Creature,Wolf
+31,Creature,Fairy
+32,Spell,Forged Revive
+33,Spell,Burst
+34,Creature,Ghoul
+35,Spell,Invisibility
+36,Creature,Fairy
+37,Spell,Solar Heal
+38,Creature,Ghoul
+39,Creature,Berserker
+40,Spell,Infuriate
+41,Spell,Irate Forged Revive
+42,Creature,Magi
+43,Creature,Aura King Ogre of the Black Stone
+44,Spell,Nature Frost

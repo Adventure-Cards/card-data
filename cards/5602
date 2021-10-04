@@ -1,46 +1,46 @@
-==================,DECK,5602,Light
-0,Creature,Rare,Frozen Priest Berserker
-1,Spell,Common,Pandemonium
-2,Creature,Common,Paladin
-3,Spell,Rare,Nimble Rage
-4,Artifact,Common,Scythe
-5,Enchantment,Mythic,Mighty Shade
-6,Creature,Common,Paladin
-7,Enchantment,Common,Shrink
-8,Artifact,Rare,Necro Ring
-9,Spell,Common,Hypnosis
-10,Enchantment,Rare,Life Haste
-11,Creature,Rare,Light Lord Fairy
-12,Enchantment,Mythic,Urgent Age
-13,Creature,Rare,Death Undead Fairy
-14,Artifact,Rare,Solar Gloves
-15,Creature,Mythic,Dark Time Phoenix of Illusion
-16,Enchantment,Common,Drain
-17,Spell,Common,Freeze
-18,Artifact,Common,Amulet
-19,Creature,Common,Elf
-20,Creature,Common,Magi
-21,Creature,Legendary,Aura Monk Kraken of the Black Stone
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Shrink
-24,Spell,Common,Stricken
-25,Enchantment,Rare,Nimble Shade
-26,Creature,Legendary,Aura Rogue Oni of the West
-27,Creature,Rare,Light Thief Skin-Walker
-28,Enchantment,Common,Lethargy
-29,Spell,Common,Frenzy
-30,Enchantment,Common,Lethargy
-31,Enchantment,Common,Blight
-32,Creature,Common,Wolf
-33,Creature,Common,Wolf
-34,Creature,Common,Ghoul
-35,Creature,Common,Paladin
-36,Artifact,Common,Gloves
-37,Creature,Legendary,Snow Monk Giant of the Polar Woods
-38,Spell,Rare,Gloom Heal
-39,Artifact,Common,Potion
-40,Creature,Common,Elf
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Lethargy
-43,Creature,Rare,Light Warrior Minotaur
-44,Enchantment,Common,Blight
+==================,DECK,5602
+0,Creature,Frozen Priest Goblin
+1,Spell,Rage
+2,Creature,Troll
+3,Spell,Solar Invisibility
+4,Artifact,Scythe
+5,Enchantment,Instant Chimeric Shrink
+6,Creature,Troll
+7,Enchantment,Shrink
+8,Artifact,Corpse Ring
+9,Spell,Invisibility
+10,Enchantment,Life Shade
+11,Creature,Light Lord Kraken
+12,Enchantment,Potent Nature Strength
+13,Creature,Death Undead Kraken
+14,Artifact,Shimmering Gloves
+15,Creature,Dark Time Phoenix of Illusion
+16,Enchantment,Lethargy
+17,Spell,Stun
+18,Artifact,Amulet
+19,Creature,Warlock
+20,Creature,Fairy
+21,Creature,Aura Monk Ogre of the Black Stone
+22,Creature,Ghoul
+23,Enchantment,Lethargy
+24,Spell,Maelstrom
+25,Enchantment,Necro Strength
+26,Creature,Aura Rogue Oni of the West
+27,Creature,Light Thief Orc
+28,Enchantment,Alacrity
+29,Spell,Wall
+30,Enchantment,Shade
+31,Enchantment,Blight
+32,Creature,Wolf
+33,Creature,Wolf
+34,Creature,Ghoul
+35,Creature,Troll
+36,Artifact,Gloves
+37,Creature,Snow Monk Dwarf of the Polar Woods
+38,Spell,Lunar Infuriate
+39,Artifact,Potion
+40,Creature,Warlock
+41,Creature,Magi
+42,Enchantment,Haste
+43,Creature,Light Warrior Cyclops
+44,Enchantment,Blight

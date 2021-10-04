@@ -1,46 +1,46 @@
-==================,DECK,7238,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Rare,Hateful Blight
-2,Creature,Rare,Snow King Minotaur
-3,Creature,Common,Goblin
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Elf
-6,Creature,Common,Orc
-7,Artifact,Rare,Apocalypse Staff
-8,Spell,Legendary,Extreme Pandemonium
-9,Spell,Legendary,Extreme Revive
-10,Creature,Common,Orc
-11,Creature,Common,Paladin
-12,Spell,Rare,Lunar Burst
-13,Creature,Common,Goblin
-14,Spell,Rare,Miracle Infuriate
-15,Creature,Common,Dwarf
-16,Artifact,Common,Ghost Wand
-17,Enchantment,Common,Invert
-18,Creature,Common,Magi
-19,Creature,Common,Paladin
-20,Creature,Common,Goblin
-21,Spell,Common,Infuriate
-22,Creature,Common,Ghoul
-23,Spell,Common,Hypnosis
-24,Creature,Common,Paladin
-25,Spell,Legendary,Mighty Pandemonium
-26,Spell,Legendary,Dire Pandemonium
-27,Creature,Mythic,Light Chaos Demon of the Sky
-28,Artifact,Common,Shield
-29,Creature,Common,Magi
-30,Enchantment,Common,Strength
-31,Spell,Common,Burn
-32,Spell,Rare,Dark Revive
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Shrink
-35,Enchantment,Common,Deathgrip
-36,Spell,Common,Fury
-37,Creature,Common,Elf
-38,Spell,Common,Reanimate
-39,Creature,Rare,Death Monk Berserker
-40,Spell,Rare,Solar Heal
-41,Enchantment,Common,Flight
-42,Artifact,Legendary,Potent Ghost Wand
-43,Creature,Rare,Snow Fighter Skin-Walker
-44,Enchantment,Common,Deathgrip
+==================,DECK,7238
+0,Creature,Magi
+1,Enchantment,Cataclysmic Shield
+2,Creature,Snow King Cyclops
+3,Creature,Skin-Walker
+4,Enchantment,Shade
+5,Creature,Warlock
+6,Creature,Spider
+7,Artifact,Nimble Staff
+8,Spell,Empyrean Lunar Hypnosis
+9,Spell,Urgent Chimeric Sorrow
+10,Creature,Spider
+11,Creature,Troll
+12,Spell,Miracle Infuriate
+13,Creature,Skin-Walker
+14,Spell,Grim Rage
+15,Creature,Magi
+16,Artifact,Ghost Wand
+17,Enchantment,Strength
+18,Creature,Fairy
+19,Creature,Troll
+20,Creature,Skin-Walker
+21,Spell,Fire
+22,Creature,Ghoul
+23,Spell,Fire
+24,Creature,Troll
+25,Spell,Potent Gloom Sorrow
+26,Spell,Mighty Apocalypse Pandemonium
+27,Creature,Light Chaos Demon of the Sky
+28,Artifact,Shield
+29,Creature,Fairy
+30,Enchantment,Agony
+31,Spell,Tempest
+32,Spell,Dark Heal
+33,Creature,Magi
+34,Enchantment,Age
+35,Enchantment,Shrink
+36,Spell,Revive
+37,Creature,Warlock
+38,Spell,Gale
+39,Creature,Death Monk Goblin
+40,Spell,Shimmering Tempest
+41,Enchantment,Firebreath
+42,Artifact,Urgent Frigid Ghost Wand
+43,Creature,Snow Fighter Orc
+44,Enchantment,Haste

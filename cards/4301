@@ -1,46 +1,46 @@
-==================,DECK,4301,Light
-0,Spell,Common,Heal
-1,Enchantment,Common,Shield
-2,Creature,Common,Wolf
-3,Enchantment,Common,Shrink
-4,Creature,Mythic,Death Chaos Wizard of the Dead
-5,Enchantment,Rare,Frigid Strength
-6,Creature,Common,Ghoul
-7,Spell,Rare,Frigid Gravitation
-8,Creature,Common,Elf
-9,Creature,Common,Spider
-10,Spell,Rare,Gloom Lightning
-11,Creature,Common,Elf
-12,Spell,Rare,Nimble Gravitation
-13,Creature,Common,Spider
-14,Spell,Rare,Forged Invisibility
-15,Spell,Common,Frenzy
-16,Creature,Common,Eagle
-17,Enchantment,Common,Age
-18,Creature,Common,Orc
-19,Creature,Common,Warlock
-20,Creature,Rare,Frozen Knight Minotaur
-21,Artifact,Common,Scythe
-22,Enchantment,Common,Lethargy
-23,Enchantment,Common,Strength
-24,Enchantment,Common,Blight
-25,Enchantment,Legendary,Angry Flight
-26,Creature,Common,Elf
-27,Spell,Rare,Solar Frost
-28,Creature,Common,Eagle
-29,Enchantment,Rare,Nature Haste
-30,Creature,Rare,Death Undead Fairy
-31,Creature,Rare,Frozen Undead Minotaur
-32,Spell,Rare,Nature Maelstrom
-33,Spell,Common,Torment
-34,Creature,Common,Warlock
-35,Spell,Legendary,Clever Fury
-36,Artifact,Common,Ghost Wand
-37,Creature,Common,Paladin
-38,Enchantment,Common,Strength
-39,Spell,Common,Assault
-40,Creature,Rare,Dark Priest Griffin
-41,Artifact,Legendary,Angry Gauntlet
-42,Creature,Common,Paladin
-43,Creature,Common,Spider
-44,Creature,Common,Elf
+==================,DECK,4301
+0,Spell,Pandemonium
+1,Enchantment,Lethargy
+2,Creature,Wolf
+3,Enchantment,Deathgrip
+4,Creature,Death Chaos Wizard of the Dead
+5,Enchantment,Nimble Haste
+6,Creature,Ghoul
+7,Spell,Apocalypse Sorrow
+8,Creature,Warlock
+9,Creature,Paladin
+10,Spell,Lunar Reanimate
+11,Creature,Warlock
+12,Spell,Solar Torment
+13,Creature,Paladin
+14,Spell,Chimeric Fury
+15,Spell,Lightning
+16,Creature,Eagle
+17,Enchantment,Blight
+18,Creature,Spider
+19,Creature,Berserker
+20,Creature,Frozen Knight Cyclops
+21,Artifact,Scythe
+22,Enchantment,Shade
+23,Enchantment,Invert
+24,Enchantment,Drain
+25,Enchantment,Zealous Lunar Alacrity
+26,Creature,Warlock
+27,Spell,Hateful Fireball
+28,Creature,Eagle
+29,Enchantment,Corpse Agony
+30,Creature,Death Undead Kraken
+31,Creature,Frozen Undead Cyclops
+32,Spell,Hateful Assault
+33,Spell,Freeze
+34,Creature,Berserker
+35,Spell,Empyrean Nimble Assault
+36,Artifact,Ghost Wand
+37,Creature,Troll
+38,Enchantment,Invert
+39,Spell,Infuriate
+40,Creature,Dark Priest Griffin
+41,Artifact,Ardent Sorrow Gauntlet
+42,Creature,Troll
+43,Creature,Paladin
+44,Creature,Warlock

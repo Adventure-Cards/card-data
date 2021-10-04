@@ -1,46 +1,46 @@
-==================,DECK,6831,Light
-0,Creature,Common,Spider
-1,Creature,Common,Paladin
-2,Spell,Rare,Grim Heal
-3,Spell,Common,Revive
-4,Enchantment,Mythic,Extreme Shield
-5,Spell,Common,Burn
-6,Creature,Common,Elf
-7,Creature,Rare,Aura Fighter Hydra
-8,Enchantment,Mythic,Clever Shade
-9,Creature,Common,Magi
-10,Creature,Common,Wolf
-11,Spell,Common,Revive
-12,Enchantment,Common,Blight
-13,Enchantment,Rare,Apocalypse Haste
-14,Spell,Common,Invisibility
-15,Creature,Rare,Aura Thief Minotaur
-16,Creature,Common,Magi
-17,Spell,Legendary,Urgent Wall
-18,Creature,Mythic,Aura Grand Wizard of the Light
-19,Spell,Common,Invisibility
-20,Artifact,Common,Boots
-21,Creature,Common,Spider
-22,Creature,Common,Dwarf
-23,Artifact,Legendary,Clever Sigil
-24,Creature,Common,Warlock
-25,Creature,Common,Magi
-26,Spell,Rare,Corpse Freeze
-27,Enchantment,Common,Drain
-28,Creature,Common,Eagle
-29,Creature,Rare,Aura Undead Skin-Walker
-30,Spell,Legendary,Potent Frost
-31,Creature,Rare,Frozen Thief Skin-Walker
-32,Creature,Common,Paladin
-33,Creature,Common,Orc
-34,Artifact,Common,Crown
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Blight
-37,Creature,Common,Eagle
-38,Creature,Rare,Aura Merchant Griffin
-39,Spell,Common,Heal
-40,Spell,Legendary,Urgent Gale
-41,Spell,Rare,Nimble Vortex
-42,Artifact,Common,Belt
-43,Spell,Rare,Lunar Burst
-44,Creature,Rare,Aura Priest Griffin
+==================,DECK,6831
+0,Creature,Paladin
+1,Creature,Troll
+2,Spell,Oblivion Burn
+3,Spell,Freeze
+4,Enchantment,Dire Gloom Firebreath
+5,Spell,Freeze
+6,Creature,Warlock
+7,Creature,Aura Fighter Hydra
+8,Enchantment,Urgent Frigid Invert
+9,Creature,Fairy
+10,Creature,Wolf
+11,Spell,Pandemonium
+12,Enchantment,Agony
+13,Enchantment,Life Shade
+14,Spell,Invisibility
+15,Creature,Aura Thief Cyclops
+16,Creature,Fairy
+17,Spell,Dire Hateful Fire
+18,Creature,Aura Grand Wizard of the Light
+19,Spell,Hypnosis
+20,Artifact,Boots
+21,Creature,Paladin
+22,Creature,Magi
+23,Artifact,Urgent Nimble Sigil
+24,Creature,Berserker
+25,Creature,Fairy
+26,Spell,Forged Stricken
+27,Enchantment,Shade
+28,Creature,Eagle
+29,Creature,Aura Undead Orc
+30,Spell,Irate Victory Pandemonium
+31,Creature,Frozen Thief Orc
+32,Creature,Troll
+33,Creature,Spider
+34,Artifact,Crown
+35,Creature,Ghoul
+36,Enchantment,Strength
+37,Creature,Eagle
+38,Creature,Aura Merchant Griffin
+39,Spell,Assault
+40,Spell,Zealous Forged Hypnosis
+41,Spell,Shimmering Heal
+42,Artifact,Belt
+43,Spell,Sorrow Wall
+44,Creature,Aura Priest Griffin

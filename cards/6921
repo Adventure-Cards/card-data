@@ -1,46 +1,46 @@
-==================,DECK,6921,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Wolf
-2,Creature,Common,Warlock
-3,Creature,Rare,Frozen Knight Fairy
-4,Creature,Common,Wolf
-5,Spell,Rare,Nimble Lightning
-6,Enchantment,Rare,Necro Flight
-7,Artifact,Rare,Shimmering Crown
-8,Enchantment,Rare,Cataclysmic Age
-9,Creature,Rare,Light Rogue Fairy
-10,Creature,Common,Ghoul
-11,Spell,Common,Sorrow
-12,Creature,Common,Dwarf
-13,Creature,Common,Orc
-14,Spell,Common,Lightning
-15,Creature,Mythic,Earth Nameless Dragon of the Shadows
-16,Creature,Common,Paladin
-17,Spell,Rare,Necro Fury
-18,Creature,Common,Paladin
-19,Creature,Mythic,Earth Grand Demon of the Shadows
-20,Creature,Common,Spider
-21,Creature,Rare,Light King Griffin
-22,Enchantment,Rare,Corpse Shield
-23,Spell,Common,Burn
-24,Spell,Common,Heal
-25,Artifact,Rare,Frigid Bow
-26,Enchantment,Legendary,Potent Blight
-27,Spell,Common,Wall
-28,Creature,Common,Eagle
-29,Creature,Common,Spider
-30,Creature,Mythic,Aura Nameless Phoenix of the Light
-31,Creature,Common,Spider
-32,Spell,Common,Heal
-33,Creature,Mythic,Earth Time Phoenix of the Shadows
-34,Enchantment,Common,Blight
-35,Spell,Rare,Apocalypse Reanimate
-36,Enchantment,Rare,Dark Shield
-37,Creature,Common,Ghoul
-38,Creature,Common,Orc
-39,Spell,Rare,Oblivion Wall
-40,Spell,Legendary,Dire Stricken
-41,Spell,Rare,Dark Revive
-42,Creature,Rare,Earth Thief Hydra
-43,Spell,Rare,Solar Wall
-44,Creature,Common,Elf
+==================,DECK,6921
+0,Creature,Eagle
+1,Creature,Wolf
+2,Creature,Berserker
+3,Creature,Frozen Knight Kraken
+4,Creature,Wolf
+5,Spell,Solar Revive
+6,Enchantment,Hateful Lethargy
+7,Artifact,Corpse Crown
+8,Enchantment,Gloom Flight
+9,Creature,Light Rogue Kraken
+10,Creature,Ghoul
+11,Spell,Gravitation
+12,Creature,Magi
+13,Creature,Spider
+14,Spell,Pandemonium
+15,Creature,Earth Nameless Dragon of the Shadows
+16,Creature,Troll
+17,Spell,Forged Fire
+18,Creature,Troll
+19,Creature,Earth Grand Demon of the Shadows
+20,Creature,Paladin
+21,Creature,Light King Griffin
+22,Enchantment,Nature Age
+23,Spell,Frost
+24,Spell,Freeze
+25,Artifact,Life Bow
+26,Enchantment,Mighty Nimble Invert
+27,Spell,Tempest
+28,Creature,Eagle
+29,Creature,Paladin
+30,Creature,Aura Nameless Phoenix of the Light
+31,Creature,Paladin
+32,Spell,Wall
+33,Creature,Earth Time Phoenix of the Shadows
+34,Enchantment,Haste
+35,Spell,Grim Maelstrom
+36,Enchantment,Gloom Shrink
+37,Creature,Ghoul
+38,Creature,Spider
+39,Spell,Apocalypse Fireball
+40,Spell,Mighty Grim Freeze
+41,Spell,Sorrow Fire
+42,Creature,Earth Thief Hydra
+43,Spell,Shimmering Reanimate
+44,Creature,Warlock

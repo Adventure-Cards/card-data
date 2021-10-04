@@ -1,46 +1,46 @@
-==================,DECK,5756,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Assault
-2,Creature,Common,Warlock
-3,Enchantment,Common,Haste
-4,Spell,Common,Ice
-5,Creature,Common,Warlock
-6,Creature,Common,Magi
-7,Creature,Common,Eagle
-8,Enchantment,Rare,Grim Shade
-9,Creature,Common,Goblin
-10,Creature,Common,Eagle
-11,Creature,Mythic,Death Chaos Demon of the Dead
-12,Artifact,Common,Scepter
-13,Artifact,Common,Divine Robe
-14,Enchantment,Rare,Apocalypse Age
-15,Enchantment,Common,Lethargy
-16,Spell,Rare,Oblivion Lightning
-17,Creature,Common,Ghoul
-18,Artifact,Rare,Gloom Bow
-19,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-20,Artifact,Rare,Necro Helmet
-21,Enchantment,Common,Shade
-22,Creature,Rare,Aura Monk Minotaur
-23,Creature,Common,Magi
-24,Creature,Common,Warlock
-25,Creature,Common,Elf
-26,Creature,Rare,Frozen Warrior Berserker
-27,Enchantment,Common,Shrink
-28,Spell,Common,Wall
-29,Artifact,Rare,Oblivion Sword
-30,Enchantment,Legendary,Dire Alacrity
-31,Spell,Legendary,Mighty Vortex
-32,Creature,Common,Warlock
-33,Creature,Common,Warlock
-34,Enchantment,Rare,Corpse Lethargy
-35,Enchantment,Common,Deathgrip
-36,Creature,Mythic,Death Ancient Demon of the Dead
-37,Creature,Common,Ghoul
-38,Spell,Common,Maelstrom
-39,Spell,Rare,Necro Sorrow
-40,Creature,Rare,Light Knight Berserker
-41,Creature,Rare,Snow Lord Skin-Walker
-42,Creature,Common,Spider
-43,Creature,Legendary,Snow Priest Orge of the Black Stone
-44,Creature,Common,Wolf
+==================,DECK,5756
+0,Creature,Wolf
+1,Spell,Stun
+2,Creature,Berserker
+3,Enchantment,Age
+4,Spell,Maelstrom
+5,Creature,Berserker
+6,Creature,Fairy
+7,Creature,Eagle
+8,Enchantment,Frigid Drain
+9,Creature,Skin-Walker
+10,Creature,Eagle
+11,Creature,Death Chaos Demon of the Dead
+12,Artifact,Scepter
+13,Artifact,Divine Robe
+14,Enchantment,Victory Shade
+15,Enchantment,Age
+16,Spell,Frigid Revive
+17,Creature,Ghoul
+18,Artifact,Miracle Bow
+19,Creature,Earth Nameless Phoenix of the Shadows
+20,Artifact,Solar Helmet
+21,Enchantment,Lethargy
+22,Creature,Aura Monk Cyclops
+23,Creature,Fairy
+24,Creature,Berserker
+25,Creature,Warlock
+26,Creature,Frozen Warrior Goblin
+27,Enchantment,Alacrity
+28,Spell,Reanimate
+29,Artifact,Life Sword
+30,Enchantment,Urgent Apocalypse Invert
+31,Spell,Irate Cataclysmic Fireball
+32,Creature,Berserker
+33,Creature,Berserker
+34,Enchantment,Hateful Lethargy
+35,Enchantment,Lethargy
+36,Creature,Death Ancient Demon of the Dead
+37,Creature,Ghoul
+38,Spell,Freeze
+39,Spell,Nature Reanimate
+40,Creature,Light Knight Goblin
+41,Creature,Snow Lord Orc
+42,Creature,Paladin
+43,Creature,Snow Priest Elf of the Black Stone
+44,Creature,Wolf

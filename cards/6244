@@ -1,46 +1,46 @@
-==================,DECK,6244,Medium
-0,Artifact,Common,Gauntlet
-1,Creature,Common,Spider
-2,Creature,Legendary,Light Rogue Cyclops of the Eternal Land
-3,Enchantment,Common,Lethargy
-4,Creature,Rare,Snow Undead Griffin
-5,Spell,Rare,Frigid Heal
-6,Creature,Common,Wolf
-7,Creature,Common,Orc
-8,Creature,Mythic,Death Undead Dragon of the Dead
-9,Spell,Common,Heal
-10,Enchantment,Rare,Apocalypse Blight
-11,Spell,Common,Stun
-12,Creature,Common,Warlock
-13,Enchantment,Common,Flight
-14,Creature,Rare,Dark Knight Griffin
-15,Creature,Common,Eagle
-16,Creature,Mythic,Light Chaos Demon of the Sky
-17,Creature,Common,Paladin
-18,Creature,Rare,Light Warrior Hydra
-19,Creature,Common,Goblin
-20,Enchantment,Common,Age
-21,Spell,Rare,Dark Freeze
-22,Enchantment,Mythic,Angry Shrink
-23,Creature,Rare,Light Warrior Hydra
-24,Creature,Common,Ghoul
-25,Creature,Common,Paladin
-26,Spell,Rare,Hateful Gale
-27,Enchantment,Common,Age
-28,Enchantment,Rare,Necro Haste
-29,Creature,Rare,Light King Skin-Walker
-30,Artifact,Common,Helm
-31,Creature,Common,Goblin
-32,Creature,Common,Spider
-33,Artifact,Legendary,Mighty Helm
-34,Spell,Legendary,Urgent Invisibility
-35,Spell,Common,Frost
-36,Enchantment,Common,Haste
-37,Creature,Common,Dwarf
-38,Creature,Common,Ghoul
-39,Enchantment,Mythic,Instant Invert
-40,Creature,Rare,Dark Priest Berserker
-41,Spell,Common,Invisibility
-42,Creature,Legendary,Death Lord Cyclops of the Border
-43,Spell,Common,Burst
-44,Enchantment,Common,Shade
+==================,DECK,6244
+0,Artifact,Gauntlet
+1,Creature,Paladin
+2,Creature,Light Rogue Giant of the Eternal Land
+3,Enchantment,Shade
+4,Creature,Snow Undead Griffin
+5,Spell,Grim Infuriate
+6,Creature,Wolf
+7,Creature,Spider
+8,Creature,Death Undead Dragon of the Dead
+9,Spell,Infuriate
+10,Enchantment,Nimble Invert
+11,Spell,Hypnosis
+12,Creature,Berserker
+13,Enchantment,Lethargy
+14,Creature,Dark Knight Griffin
+15,Creature,Eagle
+16,Creature,Light Chaos Demon of the Sky
+17,Creature,Troll
+18,Creature,Light Warrior Hydra
+19,Creature,Skin-Walker
+20,Enchantment,Deathgrip
+21,Spell,Sorrow Ice
+22,Enchantment,Zealous Chimeric Alacrity
+23,Creature,Light Warrior Hydra
+24,Creature,Ghoul
+25,Creature,Troll
+26,Spell,Dark Reanimate
+27,Enchantment,Agony
+28,Enchantment,Corpse Agony
+29,Creature,Light King Orc
+30,Artifact,Helm
+31,Creature,Skin-Walker
+32,Creature,Paladin
+33,Artifact,Dire Dark Helm
+34,Spell,Dire Hateful Pandemonium
+35,Spell,Fire
+36,Enchantment,Drain
+37,Creature,Magi
+38,Creature,Ghoul
+39,Enchantment,Ardent Shimmering Lethargy
+40,Creature,Dark Priest Goblin
+41,Spell,Invisibility
+42,Creature,Death Lord Giant of the Border
+43,Spell,Reanimate
+44,Enchantment,Firebreath

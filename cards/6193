@@ -1,46 +1,46 @@
-==================,DECK,6193,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Magi
-2,Enchantment,Rare,Apocalypse Deathgrip
-3,Spell,Common,Ice
-4,Spell,Common,Frenzy
-5,Creature,Rare,Death Priest Berserker
-6,Enchantment,Common,Agony
-7,Creature,Common,Wolf
-8,Enchantment,Rare,Gloom Shield
-9,Creature,Legendary,Aura Assassin Oni of the Arctic Blizzards
-10,Creature,Mythic,Snow Ancient Wizard of Hate
-11,Enchantment,Common,Flight
-12,Spell,Common,Burst
-13,Spell,Common,Torment
-14,Enchantment,Common,Shade
-15,Creature,Legendary,Frozen Thief Oni of the Low Hills
-16,Spell,Rare,Solar Gravitation
-17,Spell,Legendary,Angry Torment
-18,Spell,Rare,Apocalypse Fury
-19,Creature,Rare,Earth Knight Hydra
-20,Artifact,Common,Belt
-21,Creature,Common,Paladin
-22,Creature,Common,Eagle
-23,Creature,Common,Warlock
-24,Creature,Legendary,Snow Fighter Oni of the Eastern Skies
-25,Spell,Common,Frenzy
-26,Enchantment,Mythic,Extreme Shade
-27,Enchantment,Legendary,Potent Age
-28,Creature,Mythic,Frozen Time Phoenix of the Void
-29,Creature,Legendary,Aura Priest Cyclops of the Eternal Land
-30,Creature,Common,Wolf
-31,Creature,Rare,Frozen Assassin Griffin
-32,Creature,Rare,Light Merchant Fairy
-33,Spell,Common,Assault
-34,Creature,Common,Warlock
-35,Creature,Common,Warlock
-36,Enchantment,Common,Alacrity
-37,Spell,Common,Ice
-38,Spell,Rare,Miracle Hypnosis
-39,Artifact,Rare,Necro Scepter
-40,Creature,Rare,Earth Fighter Skin-Walker
-41,Creature,Common,Magi
-42,Enchantment,Common,Strength
-43,Creature,Common,Orc
-44,Artifact,Rare,Apocalypse Divine Robe
+==================,DECK,6193
+0,Creature,Spider
+1,Creature,Fairy
+2,Enchantment,Oblivion Invert
+3,Spell,Frenzy
+4,Spell,Hypnosis
+5,Creature,Death Priest Goblin
+6,Enchantment,Shade
+7,Creature,Wolf
+8,Enchantment,Gloom Shield
+9,Creature,Aura Assassin Oni of the Arctic Blizzards
+10,Creature,Snow Ancient Wizard of Hate
+11,Enchantment,Lethargy
+12,Spell,Fury
+13,Spell,Heal
+14,Enchantment,Haste
+15,Creature,Frozen Thief Oni of the Low Hills
+16,Spell,Solar Burst
+17,Spell,Instant Miracle Freeze
+18,Spell,Frigid Tempest
+19,Creature,Earth Knight Hydra
+20,Artifact,Belt
+21,Creature,Troll
+22,Creature,Eagle
+23,Creature,Berserker
+24,Creature,Snow Fighter Oni of the Eastern Skies
+25,Spell,Fire
+26,Enchantment,Urgent Chimeric Flight
+27,Enchantment,Mighty Victory Invert
+28,Creature,Frozen Time Phoenix of the Void
+29,Creature,Aura Priest Giant of the Eternal Land
+30,Creature,Wolf
+31,Creature,Frozen Assassin Griffin
+32,Creature,Light Merchant Kraken
+33,Spell,Wall
+34,Creature,Berserker
+35,Creature,Berserker
+36,Enchantment,Shade
+37,Spell,Stricken
+38,Spell,Oblivion Rage
+39,Artifact,Corpse Scepter
+40,Creature,Earth Fighter Orc
+41,Creature,Fairy
+42,Enchantment,Invert
+43,Creature,Spider
+44,Artifact,Life Divine Robe

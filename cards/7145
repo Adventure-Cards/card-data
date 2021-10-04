@@ -1,46 +1,46 @@
-==================,DECK,7145,Light
-0,Creature,Common,Eagle
-1,Artifact,Rare,Apocalypse Boots
-2,Enchantment,Common,Haste
-3,Enchantment,Rare,Oblivion Alacrity
-4,Creature,Legendary,Light Fighter Oni of the Swamp
-5,Creature,Common,Goblin
-6,Creature,Common,Goblin
-7,Creature,Common,Spider
-8,Artifact,Common,Gloves
-9,Enchantment,Rare,Frigid Lethargy
-10,Artifact,Common,Ghost Wand
-11,Creature,Common,Paladin
-12,Spell,Rare,Oblivion Frost
-13,Spell,Rare,Solar Wall
-14,Spell,Common,Burst
-15,Enchantment,Mythic,Potent Drain
-16,Spell,Rare,Solar Heal
-17,Spell,Rare,Necro Stricken
-18,Creature,Rare,Death Queen Berserker
-19,Spell,Common,Frenzy
-20,Creature,Common,Magi
-21,Creature,Common,Paladin
-22,Creature,Legendary,Snow Monk Oni of the West
-23,Creature,Rare,Aura Priest Skin-Walker
-24,Creature,Common,Goblin
-25,Creature,Common,Eagle
-26,Creature,Common,Eagle
-27,Creature,Rare,Frozen Thief Hydra
-28,Creature,Common,Eagle
-29,Creature,Rare,Aura Assassin Berserker
-30,Spell,Common,Hypnosis
-31,Creature,Legendary,Earth Merchant Giant of the Frozen Castle
-32,Creature,Common,Goblin
-33,Enchantment,Mythic,Instant Lethargy
-34,Enchantment,Rare,Grim Invert
-35,Spell,Rare,Miracle Pandemonium
-36,Creature,Common,Warlock
-37,Spell,Rare,Oblivion Freeze
-38,Creature,Rare,Light Knight Skin-Walker
-39,Enchantment,Common,Deathgrip
-40,Spell,Common,Revive
-41,Enchantment,Common,Age
-42,Creature,Rare,Snow Warrior Skin-Walker
-43,Creature,Common,Orc
-44,Creature,Common,Paladin
+==================,DECK,7145
+0,Creature,Eagle
+1,Artifact,Nimble Boots
+2,Enchantment,Shrink
+3,Enchantment,Apocalypse Blight
+4,Creature,Light Fighter Oni of the Swamp
+5,Creature,Skin-Walker
+6,Creature,Skin-Walker
+7,Creature,Paladin
+8,Artifact,Gloves
+9,Enchantment,Grim Invert
+10,Artifact,Ghost Wand
+11,Creature,Troll
+12,Spell,Grim Vortex
+13,Spell,Necro Frenzy
+14,Spell,Burn
+15,Enchantment,Zealous Apocalypse Blight
+16,Spell,Forged Vortex
+17,Spell,Hateful Stricken
+18,Creature,Death Queen Goblin
+19,Spell,Revive
+20,Creature,Fairy
+21,Creature,Troll
+22,Creature,Snow Monk Oni of the West
+23,Creature,Aura Priest Orc
+24,Creature,Skin-Walker
+25,Creature,Eagle
+26,Creature,Eagle
+27,Creature,Frozen Thief Hydra
+28,Creature,Eagle
+29,Creature,Aura Assassin Goblin
+30,Spell,Infuriate
+31,Creature,Earth Merchant Dwarf of the Frozen Castle
+32,Creature,Skin-Walker
+33,Enchantment,Dire Hateful Age
+34,Enchantment,Oblivion Haste
+35,Spell,Frigid Burst
+36,Creature,Berserker
+37,Spell,Apocalypse Invisibility
+38,Creature,Light Knight Orc
+39,Enchantment,Drain
+40,Spell,Pandemonium
+41,Enchantment,Flight
+42,Creature,Snow Warrior Orc
+43,Creature,Spider
+44,Creature,Troll

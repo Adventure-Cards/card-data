@@ -1,46 +1,46 @@
-==================,DECK,7775,Medium
-0,Creature,Rare,Earth Lord Fairy
-1,Enchantment,Common,Blight
-2,Creature,Common,Eagle
-3,Creature,Common,Spider
-4,Artifact,Common,Scepter
-5,Enchantment,Legendary,Urgent Strength
-6,Creature,Common,Orc
-7,Creature,Rare,Death Fighter Fairy
-8,Spell,Common,Torment
-9,Enchantment,Mythic,Clever Age
-10,Enchantment,Common,Shield
-11,Spell,Common,Gale
-12,Creature,Common,Warlock
-13,Spell,Common,Torment
-14,Enchantment,Common,Flight
-15,Creature,Common,Wolf
-16,Spell,Common,Wall
-17,Creature,Common,Elf
-18,Enchantment,Common,Flight
-19,Spell,Rare,Miracle Reanimate
-20,Creature,Common,Paladin
-21,Creature,Common,Goblin
-22,Creature,Common,Paladin
-23,Spell,Common,Stricken
-24,Creature,Common,Wolf
-25,Spell,Common,Hypnosis
-26,Artifact,Rare,Nimble Boots
-27,Creature,Mythic,Aura Undead Dragon of the Light
-28,Creature,Common,Wolf
-29,Creature,Common,Magi
-30,Artifact,Rare,Frigid Scepter
-31,Creature,Common,Eagle
-32,Enchantment,Common,Invert
-33,Spell,Common,Frenzy
-34,Enchantment,Legendary,Potent Drain
-35,Spell,Rare,Necro Hypnosis
-36,Enchantment,Common,Shade
-37,Creature,Legendary,Frozen Fighter Giant of the Black Stone
-38,Spell,Common,Gale
-39,Creature,Legendary,Earth Priest Orge of the Black Stone
-40,Creature,Common,Paladin
-41,Spell,Common,Frost
-42,Spell,Rare,Nimble Rage
-43,Enchantment,Common,Flight
-44,Spell,Common,Heal
+==================,DECK,7775
+0,Creature,Earth Lord Kraken
+1,Enchantment,Deathgrip
+2,Creature,Eagle
+3,Creature,Paladin
+4,Artifact,Scepter
+5,Enchantment,Irate Solar Deathgrip
+6,Creature,Spider
+7,Creature,Death Fighter Kraken
+8,Spell,Ice
+9,Enchantment,Potent Victory Drain
+10,Enchantment,Agony
+11,Spell,Burn
+12,Creature,Berserker
+13,Spell,Freeze
+14,Enchantment,Blight
+15,Creature,Wolf
+16,Spell,Burn
+17,Creature,Warlock
+18,Enchantment,Drain
+19,Spell,Nimble Sorrow
+20,Creature,Troll
+21,Creature,Skin-Walker
+22,Creature,Troll
+23,Spell,Lightning
+24,Creature,Wolf
+25,Spell,Stun
+26,Artifact,Hateful Boots
+27,Creature,Aura Undead Dragon of the Light
+28,Creature,Wolf
+29,Creature,Fairy
+30,Artifact,Nimble Scepter
+31,Creature,Eagle
+32,Enchantment,Agony
+33,Spell,Ice
+34,Enchantment,Empyrean Apocalypse Shade
+35,Spell,Hateful Torment
+36,Enchantment,Shade
+37,Creature,Frozen Fighter Dwarf of the Black Stone
+38,Spell,Maelstrom
+39,Creature,Earth Priest Elf of the Black Stone
+40,Creature,Troll
+41,Spell,Infuriate
+42,Spell,Corpse Wall
+43,Enchantment,Haste
+44,Spell,Gravitation

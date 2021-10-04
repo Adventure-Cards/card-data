@@ -1,46 +1,46 @@
-==================,DECK,6705,Light
-0,Spell,Common,Invisibility
-1,Creature,Common,Goblin
-2,Enchantment,Rare,Apocalypse Deathgrip
-3,Creature,Common,Wolf
-4,Creature,Common,Magi
-5,Spell,Common,Burst
-6,Enchantment,Common,Age
-7,Spell,Rare,Nimble Vortex
-8,Creature,Common,Paladin
-9,Artifact,Common,Staff
-10,Spell,Common,Hypnosis
-11,Creature,Common,Spider
-12,Spell,Common,Reanimate
-13,Artifact,Common,Potion
-14,Creature,Common,Dwarf
-15,Artifact,Legendary,Clever Crown
-16,Creature,Rare,Death Warrior Berserker
-17,Creature,Common,Warlock
-18,Creature,Common,Goblin
-19,Creature,Common,Ghoul
-20,Creature,Common,Paladin
-21,Spell,Rare,Life Hypnosis
-22,Creature,Common,Eagle
-23,Spell,Common,Burst
-24,Creature,Common,Magi
-25,Artifact,Common,Bow
-26,Creature,Common,Dwarf
-27,Creature,Common,Wolf
-28,Creature,Common,Spider
-29,Creature,Rare,Death Lord Fairy
-30,Enchantment,Common,Age
-31,Creature,Legendary,Dark Assassin Kraken of the Swamp
-32,Artifact,Legendary,Instant Cloak
-33,Creature,Rare,Light Monk Skin-Walker
-34,Creature,Common,Wolf
-35,Creature,Rare,Earth Priest Berserker
-36,Enchantment,Common,Flight
-37,Artifact,Common,Sigil
-38,Creature,Common,Warlock
-39,Enchantment,Common,Strength
-40,Enchantment,Common,Flight
-41,Enchantment,Common,Agony
-42,Creature,Common,Eagle
-43,Spell,Common,Reanimate
-44,Artifact,Common,Tome
+==================,DECK,6705
+0,Spell,Fireball
+1,Creature,Skin-Walker
+2,Enchantment,Oblivion Drain
+3,Creature,Wolf
+4,Creature,Fairy
+5,Spell,Heal
+6,Enchantment,Flight
+7,Spell,Shimmering Pandemonium
+8,Creature,Troll
+9,Artifact,Staff
+10,Spell,Hypnosis
+11,Creature,Paladin
+12,Spell,Reanimate
+13,Artifact,Potion
+14,Creature,Magi
+15,Artifact,Zealous Nimble Crown
+16,Creature,Death Warrior Goblin
+17,Creature,Berserker
+18,Creature,Skin-Walker
+19,Creature,Ghoul
+20,Creature,Troll
+21,Spell,Victory Rage
+22,Creature,Eagle
+23,Spell,Fire
+24,Creature,Fairy
+25,Artifact,Bow
+26,Creature,Magi
+27,Creature,Wolf
+28,Creature,Paladin
+29,Creature,Death Lord Kraken
+30,Enchantment,Shield
+31,Creature,Dark Assassin Ogre of the Swamp
+32,Artifact,Ardent Shimmering Cloak
+33,Creature,Light Monk Orc
+34,Creature,Wolf
+35,Creature,Earth Priest Goblin
+36,Enchantment,Deathgrip
+37,Artifact,Sigil
+38,Creature,Berserker
+39,Enchantment,Shield
+40,Enchantment,Shrink
+41,Enchantment,Blight
+42,Creature,Eagle
+43,Spell,Stun
+44,Artifact,Tome

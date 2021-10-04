@@ -1,46 +1,46 @@
-==================,DECK,6017,Light
-0,Spell,Common,Gravitation
-1,Spell,Common,Ice
-2,Enchantment,Common,Lethargy
-3,Enchantment,Common,Deathgrip
-4,Spell,Rare,Nimble Freeze
-5,Spell,Common,Ice
-6,Creature,Common,Orc
-7,Spell,Rare,Forged Frenzy
-8,Spell,Rare,Hateful Hypnosis
-9,Spell,Common,Sorrow
-10,Spell,Common,Burst
-11,Creature,Rare,Dark Fighter Skin-Walker
-12,Creature,Rare,Dark King Fairy
-13,Creature,Common,Magi
-14,Creature,Common,Goblin
-15,Enchantment,Common,Alacrity
-16,Creature,Legendary,Frozen Lord Orge of the West
-17,Spell,Common,Gale
-18,Creature,Legendary,Death Warrior Orge of the Haven
-19,Spell,Legendary,Potent Sorrow
-20,Enchantment,Common,Deathgrip
-21,Creature,Rare,Dark King Griffin
-22,Artifact,Common,Gauntlet
-23,Creature,Rare,Light Knight Fairy
-24,Creature,Common,Dwarf
-25,Spell,Rare,Shimmering Pandemonium
-26,Artifact,Common,Boots
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Enchantment,Common,Flight
-30,Enchantment,Common,Deathgrip
-31,Artifact,Legendary,Potent Scepter
-32,Creature,Common,Ghoul
-33,Spell,Legendary,Intense Maelstrom
-34,Creature,Common,Ghoul
-35,Creature,Common,Warlock
-36,Creature,Common,Ghoul
-37,Enchantment,Rare,Nimble Shade
-38,Spell,Common,Vortex
-39,Creature,Common,Wolf
-40,Creature,Common,Magi
-41,Enchantment,Common,Alacrity
-42,Enchantment,Mythic,Extreme Agony
-43,Enchantment,Common,Flight
-44,Artifact,Common,Greaves
+==================,DECK,6017
+0,Spell,Hypnosis
+1,Spell,Maelstrom
+2,Enchantment,Strength
+3,Enchantment,Haste
+4,Spell,Corpse Invisibility
+5,Spell,Gale
+6,Creature,Spider
+7,Spell,Miracle Assault
+8,Spell,Dark Assault
+9,Spell,Fury
+10,Spell,Revive
+11,Creature,Dark Fighter Orc
+12,Creature,Dark King Kraken
+13,Creature,Fairy
+14,Creature,Skin-Walker
+15,Enchantment,Blight
+16,Creature,Frozen Lord Elf of the West
+17,Spell,Maelstrom
+18,Creature,Death Warrior Elf of the Haven
+19,Spell,Empyrean Grim Freeze
+20,Enchantment,Blight
+21,Creature,Dark King Griffin
+22,Artifact,Gauntlet
+23,Creature,Light Knight Kraken
+24,Creature,Magi
+25,Spell,Corpse Rage
+26,Artifact,Boots
+27,Creature,Magi
+28,Creature,Paladin
+29,Enchantment,Age
+30,Enchantment,Shade
+31,Artifact,Instant Nimble Scepter
+32,Creature,Ghoul
+33,Spell,Empyrean Nature Fire
+34,Creature,Ghoul
+35,Creature,Berserker
+36,Creature,Ghoul
+37,Enchantment,Necro Strength
+38,Spell,Wall
+39,Creature,Wolf
+40,Creature,Fairy
+41,Enchantment,Drain
+42,Enchantment,Dire Miracle Firebreath
+43,Enchantment,Shade
+44,Artifact,Greaves

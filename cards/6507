@@ -1,46 +1,46 @@
-==================,DECK,6507,Medium
-0,Creature,Rare,Dark Undead Griffin
-1,Spell,Common,Freeze
-2,Creature,Common,Eagle
-3,Creature,Common,Dwarf
-4,Creature,Rare,Death Undead Skin-Walker
-5,Creature,Rare,Snow King Skin-Walker
-6,Creature,Legendary,Aura King Giant of the Bright Mountains
-7,Creature,Rare,Death Merchant Griffin
-8,Spell,Legendary,Dire Hypnosis
-9,Enchantment,Common,Shrink
-10,Spell,Common,Frenzy
-11,Artifact,Rare,Corpse Ring
-12,Enchantment,Rare,Lunar Haste
-13,Enchantment,Rare,Dark Lethargy
-14,Enchantment,Rare,Solar Agony
-15,Creature,Mythic,Frozen Grand Demon of the Void
-16,Creature,Common,Wolf
-17,Spell,Common,Fury
-18,Creature,Common,Magi
-19,Spell,Common,Vortex
-20,Spell,Common,Pandemonium
-21,Spell,Common,Heal
-22,Spell,Rare,Lunar Maelstrom
-23,Enchantment,Rare,Life Deathgrip
-24,Creature,Rare,Light Knight Berserker
-25,Enchantment,Rare,Frigid Strength
-26,Creature,Rare,Dark Queen Skin-Walker
-27,Creature,Rare,Aura Merchant Skin-Walker
-28,Spell,Mythic,Mighty Frost
-29,Enchantment,Common,Lethargy
-30,Spell,Common,Torment
-31,Creature,Rare,Light Thief Hydra
-32,Artifact,Common,Scythe
-33,Enchantment,Legendary,Intense Strength
-34,Creature,Common,Goblin
-35,Spell,Mythic,Angry Rage
-36,Creature,Rare,Aura Queen Griffin
-37,Creature,Legendary,Dark Rogue Kraken of the Border
-38,Creature,Rare,Death Merchant Hydra
-39,Spell,Common,Stun
-40,Creature,Rare,Dark Thief Griffin
-41,Creature,Rare,Frozen Priest Berserker
-42,Enchantment,Rare,Gloom Shield
-43,Creature,Common,Paladin
-44,Creature,Rare,Snow Knight Hydra
+==================,DECK,6507
+0,Creature,Dark Undead Griffin
+1,Spell,Stricken
+2,Creature,Eagle
+3,Creature,Magi
+4,Creature,Death Undead Orc
+5,Creature,Snow King Orc
+6,Creature,Aura King Dwarf of the Bright Mountains
+7,Creature,Death Merchant Griffin
+8,Spell,Clever Grim Stricken
+9,Enchantment,Shield
+10,Spell,Frost
+11,Artifact,Necro Ring
+12,Enchantment,Miracle Firebreath
+13,Enchantment,Lunar Firebreath
+14,Enchantment,Corpse Agony
+15,Creature,Frozen Grand Demon of the Void
+16,Creature,Wolf
+17,Spell,Invisibility
+18,Creature,Fairy
+19,Spell,Maelstrom
+20,Spell,Revive
+21,Spell,Lightning
+22,Spell,Cataclysmic Gale
+23,Enchantment,Oblivion Drain
+24,Creature,Light Knight Goblin
+25,Enchantment,Nimble Drain
+26,Creature,Dark Queen Orc
+27,Creature,Aura Merchant Orc
+28,Spell,Ardent Lunar Burst
+29,Enchantment,Lethargy
+30,Spell,Ice
+31,Creature,Light Thief Hydra
+32,Artifact,Scythe
+33,Enchantment,Dire Solar Age
+34,Creature,Skin-Walker
+35,Spell,Dire Lunar Gale
+36,Creature,Aura Queen Griffin
+37,Creature,Dark Rogue Ogre of the Border
+38,Creature,Death Merchant Hydra
+39,Spell,Freeze
+40,Creature,Dark Thief Griffin
+41,Creature,Frozen Priest Goblin
+42,Enchantment,Gloom Shield
+43,Creature,Troll
+44,Creature,Snow Knight Hydra

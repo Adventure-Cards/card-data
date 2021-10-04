@@ -1,46 +1,46 @@
-==================,DECK,7707,Light
-0,Creature,Rare,Dark Monk Griffin
-1,Creature,Rare,Earth Rogue Hydra
-2,Enchantment,Common,Shrink
-3,Creature,Common,Spider
-4,Enchantment,Common,Haste
-5,Creature,Common,Goblin
-6,Creature,Common,Paladin
-7,Enchantment,Common,Shade
-8,Enchantment,Rare,Miracle Shrink
-9,Artifact,Common,Scepter
-10,Artifact,Legendary,Mighty Potion
-11,Creature,Common,Eagle
-12,Creature,Rare,Death Monk Fairy
-13,Creature,Common,Paladin
-14,Enchantment,Common,Shrink
-15,Creature,Common,Elf
-16,Spell,Rare,Nature Stricken
-17,Creature,Rare,Frozen King Skin-Walker
-18,Creature,Common,Goblin
-19,Creature,Common,Eagle
-20,Creature,Common,Goblin
-21,Creature,Common,Orc
-22,Enchantment,Common,Deathgrip
-23,Spell,Common,Ice
-24,Enchantment,Rare,Miracle Drain
-25,Creature,Common,Ghoul
-26,Spell,Common,Revive
-27,Artifact,Common,Gauntlet
-28,Creature,Legendary,Earth Thief Cyclops of the Magical Forest
-29,Artifact,Common,Sigil
-30,Creature,Common,Ghoul
-31,Creature,Common,Elf
-32,Creature,Common,Spider
-33,Artifact,Common,Bracers
-34,Creature,Rare,Snow Monk Minotaur
-35,Creature,Common,Magi
-36,Enchantment,Common,Drain
-37,Creature,Common,Dwarf
-38,Spell,Common,Pandemonium
-39,Enchantment,Rare,Solar Strength
-40,Spell,Common,Maelstrom
-41,Creature,Common,Ghoul
-42,Creature,Common,Goblin
-43,Creature,Common,Spider
-44,Creature,Legendary,Aura Queen Giant of the Haven
+==================,DECK,7707
+0,Creature,Dark Monk Griffin
+1,Creature,Earth Rogue Hydra
+2,Enchantment,Flight
+3,Creature,Paladin
+4,Enchantment,Flight
+5,Creature,Skin-Walker
+6,Creature,Troll
+7,Enchantment,Firebreath
+8,Enchantment,Frigid Haste
+9,Artifact,Scepter
+10,Artifact,Clever Gloom Potion
+11,Creature,Eagle
+12,Creature,Death Monk Kraken
+13,Creature,Troll
+14,Enchantment,Shade
+15,Creature,Warlock
+16,Spell,Forged Gale
+17,Creature,Frozen King Orc
+18,Creature,Skin-Walker
+19,Creature,Eagle
+20,Creature,Skin-Walker
+21,Creature,Spider
+22,Enchantment,Age
+23,Spell,Reanimate
+24,Enchantment,Apocalypse Drain
+25,Creature,Ghoul
+26,Spell,Fireball
+27,Artifact,Gauntlet
+28,Creature,Earth Thief Giant of the Magical Forest
+29,Artifact,Sigil
+30,Creature,Ghoul
+31,Creature,Warlock
+32,Creature,Paladin
+33,Artifact,Bracers
+34,Creature,Snow Monk Cyclops
+35,Creature,Fairy
+36,Enchantment,Strength
+37,Creature,Magi
+38,Spell,Fury
+39,Enchantment,Solar Deathgrip
+40,Spell,Frenzy
+41,Creature,Ghoul
+42,Creature,Skin-Walker
+43,Creature,Paladin
+44,Creature,Aura Queen Dwarf of the Haven

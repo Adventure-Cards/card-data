@@ -1,46 +1,46 @@
-==================,DECK,5154,Light
-0,Enchantment,Common,Blight
-1,Enchantment,Common,Flight
-2,Creature,Common,Ghoul
-3,Enchantment,Common,Drain
-4,Enchantment,Rare,Miracle Haste
-5,Creature,Rare,Light Monk Skin-Walker
-6,Spell,Common,Burst
-7,Creature,Common,Paladin
-8,Creature,Common,Paladin
-9,Creature,Common,Magi
-10,Creature,Common,Eagle
-11,Creature,Rare,Light Rogue Berserker
-12,Creature,Common,Ghoul
-13,Creature,Legendary,Aura Merchant Kraken of the Frozen Castle
-14,Creature,Mythic,Snow Nameless Dragon of Hate
-15,Creature,Rare,Dark Rogue Skin-Walker
-16,Creature,Common,Wolf
-17,Creature,Legendary,Death Lord Kraken of the Eastern Skies
-18,Spell,Rare,Nimble Rage
-19,Enchantment,Common,Shade
-20,Creature,Rare,Death Undead Hydra
-21,Enchantment,Rare,Oblivion Alacrity
-22,Creature,Common,Eagle
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Creature,Common,Dwarf
-26,Creature,Common,Spider
-27,Creature,Legendary,Snow Assassin Oni of the Haven
-28,Spell,Common,Revive
-29,Creature,Common,Orc
-30,Creature,Common,Eagle
-31,Creature,Common,Spider
-32,Creature,Common,Warlock
-33,Enchantment,Mythic,Urgent Invert
-34,Spell,Common,Infuriate
-35,Spell,Common,Freeze
-36,Creature,Common,Ghoul
-37,Creature,Common,Eagle
-38,Creature,Common,Goblin
-39,Artifact,Common,Scythe
-40,Creature,Common,Magi
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Invert
-44,Creature,Legendary,Frozen Priest Giant of the Arctic Blizzards
+==================,DECK,5154
+0,Enchantment,Lethargy
+1,Enchantment,Shrink
+2,Creature,Ghoul
+3,Enchantment,Drain
+4,Enchantment,Life Blight
+5,Creature,Light Monk Orc
+6,Spell,Maelstrom
+7,Creature,Troll
+8,Creature,Troll
+9,Creature,Fairy
+10,Creature,Eagle
+11,Creature,Light Rogue Goblin
+12,Creature,Ghoul
+13,Creature,Aura Merchant Ogre of the Frozen Castle
+14,Creature,Snow Nameless Dragon of Hate
+15,Creature,Dark Rogue Orc
+16,Creature,Wolf
+17,Creature,Death Lord Ogre of the Eastern Skies
+18,Spell,Corpse Vortex
+19,Enchantment,Drain
+20,Creature,Death Undead Hydra
+21,Enchantment,Apocalypse Haste
+22,Creature,Eagle
+23,Creature,Spider
+24,Creature,Fairy
+25,Creature,Magi
+26,Creature,Paladin
+27,Creature,Snow Assassin Oni of the Haven
+28,Spell,Pandemonium
+29,Creature,Spider
+30,Creature,Eagle
+31,Creature,Paladin
+32,Creature,Berserker
+33,Enchantment,Urgent Shimmering Agony
+34,Spell,Frenzy
+35,Spell,Fire
+36,Creature,Ghoul
+37,Creature,Eagle
+38,Creature,Skin-Walker
+39,Artifact,Scythe
+40,Creature,Fairy
+41,Enchantment,Lethargy
+42,Creature,Magi
+43,Enchantment,Invert
+44,Creature,Frozen Priest Dwarf of the Arctic Blizzards

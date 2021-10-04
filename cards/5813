@@ -1,46 +1,46 @@
-==================,DECK,5813,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Invert
-2,Spell,Legendary,Mighty Frost
-3,Spell,Rare,Frigid Assault
-4,Creature,Common,Paladin
-5,Artifact,Common,Sigil
-6,Creature,Common,Orc
-7,Artifact,Rare,Frigid Cloak
-8,Spell,Mythic,Intense Stun
-9,Creature,Common,Warlock
-10,Enchantment,Common,Haste
-11,Enchantment,Rare,Nature Deathgrip
-12,Spell,Common,Assault
-13,Enchantment,Common,Drain
-14,Enchantment,Rare,Shimmering Deathgrip
-15,Spell,Mythic,Clever Rage
-16,Spell,Common,Fury
-17,Creature,Common,Spider
-18,Enchantment,Rare,Lunar Age
-19,Spell,Common,Wall
-20,Creature,Mythic,Frozen Ancient Demon of the Void
-21,Creature,Common,Warlock
-22,Creature,Common,Paladin
-23,Creature,Common,Ghoul
-24,Spell,Common,Lightning
-25,Creature,Rare,Dark Merchant Berserker
-26,Creature,Common,Warlock
-27,Spell,Common,Ice
-28,Creature,Rare,Aura Lord Skin-Walker
-29,Artifact,Common,Staff
-30,Creature,Common,Goblin
-31,Creature,Common,Spider
-32,Enchantment,Rare,Solar Alacrity
-33,Creature,Legendary,Snow Knight Cyclops of the Plains
-34,Spell,Common,Freeze
-35,Creature,Common,Magi
-36,Enchantment,Common,Shield
-37,Creature,Common,Wolf
-38,Creature,Common,Spider
-39,Creature,Common,Paladin
-40,Artifact,Common,Amulet
-41,Enchantment,Rare,Gloom Strength
-42,Enchantment,Common,Strength
-43,Creature,Mythic,Light Ancient Wizard of the Sky
-44,Creature,Common,Warlock
+==================,DECK,5813
+0,Creature,Magi
+1,Enchantment,Drain
+2,Spell,Urgent Miracle Infuriate
+3,Spell,Grim Assault
+4,Creature,Troll
+5,Artifact,Sigil
+6,Creature,Spider
+7,Artifact,Grim Cloak
+8,Spell,Zealous Solar Ice
+9,Creature,Berserker
+10,Enchantment,Deathgrip
+11,Enchantment,Shimmering Strength
+12,Spell,Fireball
+13,Enchantment,Shrink
+14,Enchantment,Shimmering Deathgrip
+15,Spell,Instant Nimble Burst
+16,Spell,Burn
+17,Creature,Paladin
+18,Enchantment,Gloom Shield
+19,Spell,Maelstrom
+20,Creature,Frozen Ancient Demon of the Void
+21,Creature,Berserker
+22,Creature,Troll
+23,Creature,Ghoul
+24,Spell,Maelstrom
+25,Creature,Dark Merchant Goblin
+26,Creature,Berserker
+27,Spell,Pandemonium
+28,Creature,Aura Lord Orc
+29,Artifact,Staff
+30,Creature,Skin-Walker
+31,Creature,Paladin
+32,Enchantment,Forged Age
+33,Creature,Snow Knight Giant of the Plains
+34,Spell,Revive
+35,Creature,Fairy
+36,Enchantment,Agony
+37,Creature,Wolf
+38,Creature,Paladin
+39,Creature,Troll
+40,Artifact,Amulet
+41,Enchantment,Cataclysmic Firebreath
+42,Enchantment,Strength
+43,Creature,Light Ancient Wizard of the Sky
+44,Creature,Berserker

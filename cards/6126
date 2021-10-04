@@ -1,46 +1,46 @@
-==================,DECK,6126,Light
-0,Enchantment,Common,Shrink
-1,Artifact,Common,Cloak
-2,Creature,Common,Paladin
-3,Enchantment,Rare,Nimble Strength
-4,Spell,Common,Assault
-5,Spell,Common,Lightning
-6,Spell,Common,Invisibility
-7,Creature,Common,Elf
-8,Creature,Common,Goblin
-9,Creature,Common,Warlock
-10,Creature,Common,Warlock
-11,Spell,Common,Lightning
-12,Creature,Common,Elf
-13,Creature,Common,Paladin
-14,Spell,Rare,Oblivion Gravitation
-15,Creature,Common,Dwarf
-16,Enchantment,Legendary,Dire Agony
-17,Creature,Common,Ghoul
-18,Enchantment,Legendary,Urgent Strength
-19,Creature,Common,Spider
-20,Spell,Rare,Nimble Heal
-21,Artifact,Rare,Lunar Gloves
-22,Creature,Common,Paladin
-23,Enchantment,Common,Invert
-24,Creature,Rare,Light Warrior Griffin
-25,Creature,Common,Paladin
-26,Creature,Common,Eagle
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Enchantment,Rare,Life Blight
-30,Creature,Common,Spider
-31,Creature,Mythic,Death Ancient Demon of the Dead
-32,Artifact,Common,Potion
-33,Creature,Legendary,Dark Priest Oni of the Magical Forest
-34,Enchantment,Common,Drain
-35,Enchantment,Common,Shrink
-36,Creature,Common,Goblin
-37,Creature,Mythic,Frozen Ancient Demon of the Void
-38,Creature,Common,Ghoul
-39,Spell,Common,Freeze
-40,Creature,Rare,Light Knight Skin-Walker
-41,Enchantment,Common,Blight
-42,Creature,Common,Warlock
-43,Spell,Common,Freeze
-44,Artifact,Common,Shield
+==================,DECK,6126
+0,Enchantment,Shade
+1,Artifact,Cloak
+2,Creature,Troll
+3,Enchantment,Solar Deathgrip
+4,Spell,Frenzy
+5,Spell,Gravitation
+6,Spell,Burn
+7,Creature,Warlock
+8,Creature,Skin-Walker
+9,Creature,Berserker
+10,Creature,Berserker
+11,Spell,Reanimate
+12,Creature,Warlock
+13,Creature,Troll
+14,Spell,Victory Infuriate
+15,Creature,Magi
+16,Enchantment,Dire Life Shade
+17,Creature,Ghoul
+18,Enchantment,Irate Solar Deathgrip
+19,Creature,Paladin
+20,Spell,Necro Torment
+21,Artifact,Dark Gloves
+22,Creature,Troll
+23,Enchantment,Agony
+24,Creature,Light Warrior Griffin
+25,Creature,Troll
+26,Creature,Eagle
+27,Creature,Warlock
+28,Creature,Fairy
+29,Enchantment,Nimble Haste
+30,Creature,Paladin
+31,Creature,Death Ancient Demon of the Dead
+32,Artifact,Potion
+33,Creature,Dark Priest Oni of the Magical Forest
+34,Enchantment,Shield
+35,Enchantment,Firebreath
+36,Creature,Skin-Walker
+37,Creature,Frozen Ancient Demon of the Void
+38,Creature,Ghoul
+39,Spell,Wall
+40,Creature,Light Knight Orc
+41,Enchantment,Lethargy
+42,Creature,Berserker
+43,Spell,Invisibility
+44,Artifact,Shield

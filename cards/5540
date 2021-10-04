@@ -1,46 +1,46 @@
-==================,DECK,5540,Medium
-0,Artifact,Common,Pendant
-1,Artifact,Common,Amulet
-2,Creature,Common,Eagle
-3,Creature,Rare,Frozen Assassin Skin-Walker
-4,Creature,Rare,Snow Undead Hydra
-5,Artifact,Rare,Oblivion Greaves
-6,Artifact,Common,Bow
-7,Creature,Common,Eagle
-8,Enchantment,Common,Haste
-9,Spell,Rare,Solar Torment
-10,Enchantment,Common,Invert
-11,Spell,Rare,Nature Sorrow
-12,Spell,Common,Burst
-13,Creature,Common,Warlock
-14,Creature,Rare,Light King Berserker
-15,Creature,Mythic,Earth Chaos Wizard of the Shadows
-16,Creature,Common,Ghoul
-17,Creature,Common,Magi
-18,Enchantment,Common,Blight
-19,Enchantment,Mythic,Clever Haste
-20,Creature,Common,Elf
-21,Creature,Rare,Snow Assassin Fairy
-22,Creature,Common,Elf
-23,Creature,Rare,Death Priest Berserker
-24,Creature,Legendary,Dark Monk Giant of the Golden Palace
-25,Creature,Common,Eagle
-26,Spell,Common,Maelstrom
-27,Enchantment,Rare,Miracle Blight
-28,Creature,Common,Magi
-29,Creature,Mythic,Dark Undead Dragon of Illusion
-30,Artifact,Rare,Hateful Pendant
-31,Enchantment,Common,Invert
-32,Creature,Legendary,Frozen Warrior Orge of the Swamp
-33,Creature,Rare,Death Assassin Griffin
-34,Creature,Common,Wolf
-35,Creature,Legendary,Death Queen Giant of the Eastern Skies
-36,Artifact,Legendary,Angry Amulet
-37,Enchantment,Mythic,Potent Alacrity
-38,Artifact,Legendary,Potent Ring
-39,Spell,Common,Hypnosis
-40,Enchantment,Legendary,Instant Shrink
-41,Creature,Legendary,Dark Warrior Giant of the Low Hills
-42,Spell,Common,Revive
-43,Creature,Legendary,Frozen Thief Kraken of the Eastern Skies
-44,Enchantment,Common,Shield
+==================,DECK,5540
+0,Artifact,Pendant
+1,Artifact,Amulet
+2,Creature,Eagle
+3,Creature,Frozen Assassin Orc
+4,Creature,Snow Undead Hydra
+5,Artifact,Apocalypse Greaves
+6,Artifact,Bow
+7,Creature,Eagle
+8,Enchantment,Shrink
+9,Spell,Corpse Stun
+10,Enchantment,Agony
+11,Spell,Necro Heal
+12,Spell,Fireball
+13,Creature,Berserker
+14,Creature,Light King Goblin
+15,Creature,Earth Chaos Wizard of the Shadows
+16,Creature,Ghoul
+17,Creature,Fairy
+18,Enchantment,Shield
+19,Enchantment,Mighty Life Invert
+20,Creature,Warlock
+21,Creature,Snow Assassin Kraken
+22,Creature,Warlock
+23,Creature,Death Priest Goblin
+24,Creature,Dark Monk Dwarf of the Golden Palace
+25,Creature,Eagle
+26,Spell,Fury
+27,Enchantment,Nimble Haste
+28,Creature,Fairy
+29,Creature,Dark Undead Dragon of Illusion
+30,Artifact,Cataclysmic Pendant
+31,Enchantment,Lethargy
+32,Creature,Frozen Warrior Elf of the Swamp
+33,Creature,Death Assassin Griffin
+34,Creature,Wolf
+35,Creature,Death Queen Dwarf of the Eastern Skies
+36,Artifact,Urgent Sorrow Amulet
+37,Enchantment,Ardent Apocalypse Haste
+38,Artifact,Clever Oblivion Ring
+39,Spell,Tempest
+40,Enchantment,Empyrean Necro Age
+41,Creature,Dark Warrior Dwarf of the Low Hills
+42,Spell,Heal
+43,Creature,Frozen Thief Ogre of the Eastern Skies
+44,Enchantment,Blight

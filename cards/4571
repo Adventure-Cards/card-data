@@ -1,46 +1,46 @@
-==================,DECK,4571,Medium
-0,Creature,Common,Wolf
-1,Spell,Mythic,Clever Revive
-2,Artifact,Rare,Shimmering Cloak
-3,Spell,Mythic,Clever Stun
-4,Enchantment,Rare,Cataclysmic Deathgrip
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Haste
-7,Artifact,Rare,Nature Potion
-8,Spell,Common,Rage
-9,Enchantment,Common,Shrink
-10,Enchantment,Common,Shield
-11,Enchantment,Legendary,Mighty Haste
-12,Artifact,Common,Ring
-13,Spell,Common,Maelstrom
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Haste
-16,Creature,Rare,Light Fighter Fairy
-17,Enchantment,Common,Drain
-18,Creature,Common,Spider
-19,Enchantment,Legendary,Potent Haste
-20,Creature,Common,Paladin
-21,Creature,Common,Paladin
-22,Creature,Legendary,Death Knight Oni of the Arctic Blizzards
-23,Enchantment,Common,Deathgrip
-24,Artifact,Common,Staff
-25,Creature,Mythic,Light Time Dragon of the Sky
-26,Creature,Rare,Dark Thief Berserker
-27,Creature,Rare,Dark Assassin Skin-Walker
-28,Spell,Rare,Nature Ice
-29,Creature,Common,Dwarf
-30,Creature,Rare,Death Undead Hydra
-31,Creature,Legendary,Earth Rogue Giant of the Border
-32,Creature,Common,Elf
-33,Creature,Common,Ghoul
-34,Creature,Common,Dwarf
-35,Creature,Common,Elf
-36,Enchantment,Common,Invert
-37,Creature,Common,Warlock
-38,Spell,Legendary,Angry Freeze
-39,Creature,Rare,Light Knight Hydra
-40,Creature,Common,Spider
-41,Enchantment,Common,Shield
-42,Creature,Rare,Dark Undead Skin-Walker
-43,Creature,Common,Magi
-44,Creature,Common,Orc
+==================,DECK,4571
+0,Creature,Wolf
+1,Spell,Dire Grim Burn
+2,Artifact,Corpse Cloak
+3,Spell,Mighty Life Wall
+4,Enchantment,Sorrow Alacrity
+5,Creature,Magi
+6,Enchantment,Age
+7,Artifact,Corpse Potion
+8,Spell,Gale
+9,Enchantment,Haste
+10,Enchantment,Firebreath
+11,Enchantment,Empyrean Miracle Firebreath
+12,Artifact,Ring
+13,Spell,Fire
+14,Creature,Ghoul
+15,Enchantment,Age
+16,Creature,Light Fighter Kraken
+17,Enchantment,Shield
+18,Creature,Paladin
+19,Enchantment,Empyrean Life Shade
+20,Creature,Troll
+21,Creature,Troll
+22,Creature,Death Knight Oni of the Arctic Blizzards
+23,Enchantment,Lethargy
+24,Artifact,Staff
+25,Creature,Light Time Dragon of the Sky
+26,Creature,Dark Thief Goblin
+27,Creature,Dark Assassin Orc
+28,Spell,Solar Fire
+29,Creature,Magi
+30,Creature,Death Undead Hydra
+31,Creature,Earth Rogue Dwarf of the Border
+32,Creature,Warlock
+33,Creature,Ghoul
+34,Creature,Magi
+35,Creature,Warlock
+36,Enchantment,Deathgrip
+37,Creature,Berserker
+38,Spell,Ardent Gloom Burn
+39,Creature,Light Knight Hydra
+40,Creature,Paladin
+41,Enchantment,Firebreath
+42,Creature,Dark Undead Orc
+43,Creature,Fairy
+44,Creature,Spider

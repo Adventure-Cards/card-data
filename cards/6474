@@ -1,46 +1,46 @@
-==================,DECK,6474,Light
-0,Creature,Common,Spider
-1,Creature,Mythic,Light Chaos Demon of the Sky
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Ghoul
-4,Spell,Common,Infuriate
-5,Creature,Common,Ghoul
-6,Creature,Common,Orc
-7,Enchantment,Common,Flight
-8,Artifact,Common,Greaves
-9,Enchantment,Rare,Solar Strength
-10,Creature,Common,Warlock
-11,Creature,Rare,Frozen Rogue Berserker
-12,Creature,Common,Elf
-13,Creature,Common,Goblin
-14,Creature,Legendary,Dark Undead Orge of the Frozen Castle
-15,Artifact,Common,Staff
-16,Spell,Common,Freeze
-17,Creature,Common,Wolf
-18,Creature,Common,Goblin
-19,Spell,Common,Gale
-20,Spell,Common,Fury
-21,Spell,Legendary,Dire Gravitation
-22,Enchantment,Legendary,Potent Strength
-23,Enchantment,Common,Agony
-24,Artifact,Rare,Nature Scythe
-25,Spell,Common,Burst
-26,Creature,Common,Eagle
-27,Creature,Common,Dwarf
-28,Creature,Rare,Dark Fighter Minotaur
-29,Creature,Common,Elf
-30,Spell,Common,Rage
-31,Artifact,Legendary,Angry Ghost Wand
-32,Artifact,Rare,Forged Ring
-33,Creature,Common,Orc
-34,Spell,Legendary,Mighty Reanimate
-35,Creature,Common,Orc
-36,Artifact,Common,Cloak
-37,Creature,Common,Spider
-38,Creature,Common,Dwarf
-39,Creature,Rare,Aura Warrior Skin-Walker
-40,Enchantment,Mythic,Instant Invert
-41,Enchantment,Common,Drain
-42,Enchantment,Legendary,Dire Shade
-43,Artifact,Common,Sword
-44,Enchantment,Common,Blight
+==================,DECK,6474
+0,Creature,Paladin
+1,Creature,Light Chaos Demon of the Sky
+2,Enchantment,Age
+3,Creature,Ghoul
+4,Spell,Assault
+5,Creature,Ghoul
+6,Creature,Spider
+7,Enchantment,Shade
+8,Artifact,Greaves
+9,Enchantment,Solar Age
+10,Creature,Berserker
+11,Creature,Frozen Rogue Goblin
+12,Creature,Warlock
+13,Creature,Skin-Walker
+14,Creature,Dark Undead Elf of the Frozen Castle
+15,Artifact,Staff
+16,Spell,Gravitation
+17,Creature,Wolf
+18,Creature,Skin-Walker
+19,Spell,Vortex
+20,Spell,Lightning
+21,Spell,Ardent Apocalypse Heal
+22,Enchantment,Ardent Nimble Haste
+23,Enchantment,Deathgrip
+24,Artifact,Hateful Scythe
+25,Spell,Vortex
+26,Creature,Eagle
+27,Creature,Magi
+28,Creature,Dark Fighter Cyclops
+29,Creature,Warlock
+30,Spell,Hypnosis
+31,Artifact,Urgent Sorrow Ghost Wand
+32,Artifact,Miracle Ring
+33,Creature,Spider
+34,Spell,Clever Gloom Ice
+35,Creature,Spider
+36,Artifact,Cloak
+37,Creature,Paladin
+38,Creature,Magi
+39,Creature,Aura Warrior Orc
+40,Enchantment,Irate Shimmering Deathgrip
+41,Enchantment,Haste
+42,Enchantment,Irate Frigid Blight
+43,Artifact,Sword
+44,Enchantment,Strength

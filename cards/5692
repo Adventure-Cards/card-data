@@ -1,46 +1,46 @@
-==================,DECK,5692,Light
-0,Enchantment,Common,Deathgrip
-1,Enchantment,Common,Lethargy
-2,Spell,Common,Gravitation
-3,Creature,Common,Dwarf
-4,Spell,Rare,Gloom Gravitation
-5,Creature,Legendary,Earth Rogue Giant of the Polar Woods
-6,Spell,Rare,Hateful Ice
-7,Spell,Common,Stun
-8,Creature,Common,Ghoul
-9,Artifact,Common,Sword
-10,Spell,Rare,Nimble Vortex
-11,Enchantment,Common,Blight
-12,Enchantment,Common,Shrink
-13,Creature,Common,Goblin
-14,Artifact,Common,Helmet
-15,Creature,Rare,Aura Warrior Berserker
-16,Creature,Common,Warlock
-17,Artifact,Rare,Frigid Shield
-18,Creature,Common,Spider
-19,Creature,Rare,Earth Knight Hydra
-20,Enchantment,Common,Flight
-21,Creature,Common,Ghoul
-22,Creature,Common,Dwarf
-23,Spell,Legendary,Extreme Infuriate
-24,Creature,Rare,Frozen Rogue Skin-Walker
-25,Spell,Common,Frost
-26,Creature,Rare,Aura King Hydra
-27,Enchantment,Common,Shrink
-28,Spell,Legendary,Clever Gravitation
-29,Artifact,Common,Pendant
-30,Enchantment,Rare,Corpse Lethargy
-31,Enchantment,Common,Shield
-32,Creature,Common,Ghoul
-33,Creature,Mythic,Frozen Grand Demon of the Void
-34,Spell,Common,Assault
-35,Artifact,Rare,Lunar Scythe
-36,Creature,Rare,Frozen Fighter Hydra
-37,Enchantment,Rare,Corpse Strength
-38,Creature,Legendary,Light Queen Kraken of the Arctic Blizzards
-39,Creature,Common,Paladin
-40,Creature,Rare,Earth Lord Skin-Walker
-41,Spell,Legendary,Mighty Infuriate
-42,Spell,Common,Burn
-43,Spell,Legendary,Angry Wall
-44,Spell,Common,Rage
+==================,DECK,5692
+0,Enchantment,Age
+1,Enchantment,Shade
+2,Spell,Sorrow
+3,Creature,Magi
+4,Spell,Cataclysmic Wall
+5,Creature,Earth Rogue Dwarf of the Polar Woods
+6,Spell,Gloom Freeze
+7,Spell,Stun
+8,Creature,Ghoul
+9,Artifact,Sword
+10,Spell,Shimmering Revive
+11,Enchantment,Agony
+12,Enchantment,Strength
+13,Creature,Skin-Walker
+14,Artifact,Helmet
+15,Creature,Aura Warrior Goblin
+16,Creature,Berserker
+17,Artifact,Life Shield
+18,Creature,Paladin
+19,Creature,Earth Knight Hydra
+20,Enchantment,Age
+21,Creature,Ghoul
+22,Creature,Magi
+23,Spell,Mighty Cataclysmic Vortex
+24,Creature,Frozen Rogue Orc
+25,Spell,Torment
+26,Creature,Aura King Hydra
+27,Enchantment,Strength
+28,Spell,Urgent Victory Burn
+29,Artifact,Pendant
+30,Enchantment,Hateful Agony
+31,Enchantment,Firebreath
+32,Creature,Ghoul
+33,Creature,Frozen Grand Demon of the Void
+34,Spell,Gale
+35,Artifact,Gloom Scythe
+36,Creature,Frozen Fighter Hydra
+37,Enchantment,Solar Agony
+38,Creature,Light Queen Ogre of the Arctic Blizzards
+39,Creature,Troll
+40,Creature,Earth Lord Orc
+41,Spell,Clever Dark Burst
+42,Spell,Vortex
+43,Spell,Urgent Chimeric Fire
+44,Spell,Gale

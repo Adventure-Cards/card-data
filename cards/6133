@@ -1,46 +1,46 @@
-==================,DECK,6133,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Shade
-2,Artifact,Common,Ring
-3,Enchantment,Mythic,Urgent Agony
-4,Creature,Common,Spider
-5,Creature,Common,Spider
-6,Spell,Common,Infuriate
-7,Enchantment,Common,Strength
-8,Artifact,Rare,Oblivion Gloves
-9,Artifact,Legendary,Intense Helmet
-10,Spell,Rare,Oblivion Lightning
-11,Creature,Common,Ghoul
-12,Artifact,Common,Ring
-13,Spell,Common,Reanimate
-14,Creature,Common,Magi
-15,Spell,Rare,Cataclysmic Burst
-16,Creature,Common,Warlock
-17,Spell,Common,Invisibility
-18,Creature,Common,Orc
-19,Creature,Common,Spider
-20,Creature,Mythic,Aura Chaos Wizard of the Light
-21,Enchantment,Rare,Gloom Shade
-22,Spell,Common,Lightning
-23,Enchantment,Common,Blight
-24,Enchantment,Legendary,Intense Lethargy
-25,Creature,Rare,Frozen Priest Skin-Walker
-26,Spell,Common,Vortex
-27,Enchantment,Common,Shrink
-28,Spell,Common,Gale
-29,Creature,Rare,Aura Rogue Hydra
-30,Creature,Rare,Aura Rogue Minotaur
-31,Spell,Common,Reanimate
-32,Creature,Common,Elf
-33,Creature,Mythic,Dark Grand Wizard of Illusion
-34,Spell,Common,Vortex
-35,Creature,Common,Warlock
-36,Creature,Common,Warlock
-37,Creature,Rare,Light Lord Skin-Walker
-38,Spell,Legendary,Dire Invisibility
-39,Creature,Rare,Earth Thief Berserker
-40,Spell,Common,Revive
-41,Creature,Mythic,Frozen Undead Phoenix of the Void
-42,Creature,Common,Orc
-43,Creature,Legendary,Death Lord Cyclops of the Haven
-44,Enchantment,Mythic,Urgent Invert
+==================,DECK,6133
+0,Creature,Fairy
+1,Enchantment,Agony
+2,Artifact,Ring
+3,Enchantment,Instant Corpse Strength
+4,Creature,Paladin
+5,Creature,Paladin
+6,Spell,Burst
+7,Enchantment,Shrink
+8,Artifact,Apocalypse Gloves
+9,Artifact,Zealous Necro Helmet
+10,Spell,Life Rage
+11,Creature,Ghoul
+12,Artifact,Ring
+13,Spell,Gravitation
+14,Creature,Fairy
+15,Spell,Miracle Heal
+16,Creature,Berserker
+17,Spell,Burst
+18,Creature,Spider
+19,Creature,Paladin
+20,Creature,Aura Chaos Wizard of the Light
+21,Enchantment,Chimeric Flight
+22,Spell,Vortex
+23,Enchantment,Deathgrip
+24,Enchantment,Ardent Hateful Lethargy
+25,Creature,Frozen Priest Orc
+26,Spell,Heal
+27,Enchantment,Drain
+28,Spell,Vortex
+29,Creature,Aura Rogue Hydra
+30,Creature,Aura Rogue Cyclops
+31,Spell,Invisibility
+32,Creature,Warlock
+33,Creature,Dark Grand Wizard of Illusion
+34,Spell,Lightning
+35,Creature,Berserker
+36,Creature,Berserker
+37,Creature,Light Lord Orc
+38,Spell,Ardent Victory Tempest
+39,Creature,Earth Thief Goblin
+40,Spell,Fire
+41,Creature,Frozen Undead Phoenix of the Void
+42,Creature,Spider
+43,Creature,Death Lord Giant of the Haven
+44,Enchantment,Irate Shimmering Deathgrip

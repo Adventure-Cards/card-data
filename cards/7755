@@ -1,46 +1,46 @@
-==================,DECK,7755,Light
-0,Spell,Common,Lightning
-1,Creature,Common,Warlock
-2,Creature,Common,Eagle
-3,Creature,Common,Eagle
-4,Spell,Common,Reanimate
-5,Spell,Common,Frost
-6,Enchantment,Common,Blight
-7,Enchantment,Mythic,Urgent Shade
-8,Creature,Common,Warlock
-9,Creature,Common,Warlock
-10,Spell,Rare,Nature Sorrow
-11,Creature,Common,Dwarf
-12,Artifact,Common,Ring
-13,Enchantment,Common,Haste
-14,Creature,Common,Paladin
-15,Creature,Mythic,Light Nameless Phoenix of the Sky
-16,Artifact,Rare,Nimble Pendant
-17,Creature,Common,Spider
-18,Creature,Common,Elf
-19,Creature,Rare,Light Fighter Hydra
-20,Creature,Common,Wolf
-21,Enchantment,Common,Shield
-22,Artifact,Common,Crown
-23,Spell,Rare,Forged Heal
-24,Enchantment,Common,Alacrity
-25,Enchantment,Rare,Miracle Shrink
-26,Creature,Legendary,Death Warrior Cyclops of the Haven
-27,Artifact,Common,Divine Robe
-28,Creature,Rare,Light Warrior Fairy
-29,Enchantment,Mythic,Urgent Agony
-30,Creature,Common,Dwarf
-31,Creature,Common,Orc
-32,Enchantment,Rare,Shimmering Blight
-33,Creature,Rare,Death Undead Berserker
-34,Artifact,Legendary,Urgent Ghost Wand
-35,Enchantment,Common,Lethargy
-36,Enchantment,Rare,Oblivion Alacrity
-37,Enchantment,Legendary,Intense Shrink
-38,Creature,Rare,Dark Rogue Fairy
-39,Enchantment,Mythic,Extreme Lethargy
-40,Creature,Common,Eagle
-41,Creature,Common,Ghoul
-42,Creature,Rare,Light Priest Skin-Walker
-43,Creature,Common,Eagle
-44,Creature,Rare,Frozen Warrior Griffin
+==================,DECK,7755
+0,Spell,Fireball
+1,Creature,Berserker
+2,Creature,Eagle
+3,Creature,Eagle
+4,Spell,Burst
+5,Spell,Tempest
+6,Enchantment,Age
+7,Enchantment,Irate Necro Deathgrip
+8,Creature,Berserker
+9,Creature,Berserker
+10,Spell,Necro Frost
+11,Creature,Magi
+12,Artifact,Ring
+13,Enchantment,Invert
+14,Creature,Troll
+15,Creature,Light Nameless Phoenix of the Sky
+16,Artifact,Shimmering Pendant
+17,Creature,Paladin
+18,Creature,Warlock
+19,Creature,Light Fighter Hydra
+20,Creature,Wolf
+21,Enchantment,Invert
+22,Artifact,Crown
+23,Spell,Cataclysmic Heal
+24,Enchantment,Shade
+25,Enchantment,Frigid Blight
+26,Creature,Death Warrior Giant of the Haven
+27,Artifact,Divine Robe
+28,Creature,Light Warrior Kraken
+29,Enchantment,Instant Corpse Strength
+30,Creature,Magi
+31,Creature,Spider
+32,Enchantment,Solar Agony
+33,Creature,Death Undead Goblin
+34,Artifact,Mighty Hateful Ghost Wand
+35,Enchantment,Flight
+36,Enchantment,Apocalypse Invert
+37,Enchantment,Zealous Necro Deathgrip
+38,Creature,Dark Rogue Kraken
+39,Enchantment,Irate Lunar Alacrity
+40,Creature,Eagle
+41,Creature,Ghoul
+42,Creature,Light Priest Orc
+43,Creature,Eagle
+44,Creature,Frozen Warrior Griffin

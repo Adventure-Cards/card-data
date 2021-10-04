@@ -1,46 +1,46 @@
-==================,DECK,7886,Light
-0,Creature,Legendary,Aura Undead Oni of the Eastern Skies
-1,Creature,Legendary,Death Priest Oni of the Low Hills
-2,Artifact,Legendary,Potent Scythe
-3,Spell,Rare,Life Gale
-4,Artifact,Common,Ring
-5,Creature,Rare,Earth King Skin-Walker
-6,Spell,Common,Assault
-7,Enchantment,Common,Invert
-8,Spell,Common,Invisibility
-9,Creature,Common,Warlock
-10,Creature,Mythic,Light Chaos Wizard of the Sky
-11,Creature,Rare,Frozen Rogue Hydra
-12,Creature,Common,Elf
-13,Spell,Common,Ice
-14,Creature,Common,Elf
-15,Creature,Common,Orc
-16,Enchantment,Common,Shield
-17,Spell,Common,Infuriate
-18,Creature,Common,Ghoul
-19,Artifact,Rare,Shimmering Ring
-20,Creature,Rare,Light Warrior Griffin
-21,Enchantment,Common,Flight
-22,Enchantment,Common,Alacrity
-23,Creature,Common,Orc
-24,Enchantment,Common,Flight
-25,Spell,Common,Frenzy
-26,Creature,Common,Goblin
-27,Creature,Common,Paladin
-28,Creature,Common,Elf
-29,Creature,Legendary,Light Rogue Kraken of the West
-30,Creature,Rare,Aura Fighter Fairy
-31,Creature,Rare,Aura Merchant Hydra
-32,Artifact,Common,Sword
-33,Spell,Rare,Forged Gravitation
-34,Artifact,Common,Boots
-35,Creature,Common,Goblin
-36,Creature,Common,Magi
-37,Spell,Rare,Oblivion Invisibility
-38,Creature,Common,Paladin
-39,Spell,Common,Ice
-40,Creature,Common,Magi
-41,Spell,Rare,Apocalypse Sorrow
-42,Creature,Common,Magi
-43,Creature,Rare,Frozen Assassin Griffin
-44,Creature,Mythic,Dark Grand Demon of Illusion
+==================,DECK,7886
+0,Creature,Aura Undead Oni of the Eastern Skies
+1,Creature,Death Priest Oni of the Low Hills
+2,Artifact,Dire Life Scythe
+3,Spell,Victory Reanimate
+4,Artifact,Ring
+5,Creature,Earth King Orc
+6,Spell,Reanimate
+7,Enchantment,Haste
+8,Spell,Lightning
+9,Creature,Berserker
+10,Creature,Light Chaos Wizard of the Sky
+11,Creature,Frozen Rogue Hydra
+12,Creature,Warlock
+13,Spell,Burn
+14,Creature,Warlock
+15,Creature,Spider
+16,Enchantment,Haste
+17,Spell,Torment
+18,Creature,Ghoul
+19,Artifact,Necro Ring
+20,Creature,Light Warrior Griffin
+21,Enchantment,Flight
+22,Enchantment,Age
+23,Creature,Spider
+24,Enchantment,Strength
+25,Spell,Burst
+26,Creature,Skin-Walker
+27,Creature,Troll
+28,Creature,Warlock
+29,Creature,Light Rogue Ogre of the West
+30,Creature,Aura Fighter Kraken
+31,Creature,Aura Merchant Hydra
+32,Artifact,Sword
+33,Spell,Miracle Stricken
+34,Artifact,Boots
+35,Creature,Skin-Walker
+36,Creature,Fairy
+37,Spell,Frigid Frenzy
+38,Creature,Troll
+39,Spell,Burst
+40,Creature,Fairy
+41,Spell,Frigid Hypnosis
+42,Creature,Fairy
+43,Creature,Frozen Assassin Griffin
+44,Creature,Dark Grand Demon of Illusion

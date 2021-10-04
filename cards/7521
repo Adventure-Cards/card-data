@@ -1,46 +1,46 @@
-==================,DECK,7521,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Strength
-2,Creature,Common,Warlock
-3,Enchantment,Common,Haste
-4,Spell,Common,Assault
-5,Spell,Common,Reanimate
-6,Creature,Common,Elf
-7,Creature,Legendary,Frozen Assassin Oni of the Bright Mountains
-8,Enchantment,Common,Agony
-9,Creature,Common,Dwarf
-10,Enchantment,Mythic,Intense Shade
-11,Enchantment,Common,Shrink
-12,Spell,Rare,Necro Pandemonium
-13,Creature,Rare,Earth King Hydra
-14,Spell,Rare,Shimmering Sorrow
-15,Enchantment,Common,Flight
-16,Enchantment,Mythic,Urgent Haste
-17,Creature,Common,Wolf
-18,Creature,Common,Warlock
-19,Creature,Common,Wolf
-20,Enchantment,Common,Drain
-21,Enchantment,Mythic,Angry Age
-22,Spell,Common,Burst
-23,Spell,Common,Infuriate
-24,Creature,Legendary,Aura Merchant Giant of the Arctic Blizzards
-25,Creature,Common,Wolf
-26,Creature,Common,Spider
-27,Creature,Rare,Snow Rogue Fairy
-28,Creature,Rare,Frozen Undead Fairy
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Strength
-31,Enchantment,Rare,Life Blight
-32,Enchantment,Common,Invert
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Ghoul
-35,Creature,Common,Eagle
-36,Spell,Common,Vortex
-37,Spell,Common,Stricken
-38,Creature,Common,Dwarf
-39,Spell,Rare,Necro Burst
-40,Creature,Common,Goblin
-41,Creature,Rare,Light Lord Griffin
-42,Spell,Common,Torment
-43,Spell,Common,Reanimate
-44,Creature,Common,Orc
+==================,DECK,7521
+0,Creature,Ghoul
+1,Enchantment,Strength
+2,Creature,Berserker
+3,Enchantment,Invert
+4,Spell,Fury
+5,Spell,Burn
+6,Creature,Warlock
+7,Creature,Frozen Assassin Oni of the Bright Mountains
+8,Enchantment,Invert
+9,Creature,Magi
+10,Enchantment,Urgent Necro Agony
+11,Enchantment,Lethargy
+12,Spell,Solar Frenzy
+13,Creature,Earth King Hydra
+14,Spell,Solar Pandemonium
+15,Enchantment,Alacrity
+16,Enchantment,Potent Corpse Strength
+17,Creature,Wolf
+18,Creature,Berserker
+19,Creature,Wolf
+20,Enchantment,Shrink
+21,Enchantment,Mighty Gloom Flight
+22,Spell,Heal
+23,Spell,Burn
+24,Creature,Aura Merchant Dwarf of the Arctic Blizzards
+25,Creature,Wolf
+26,Creature,Paladin
+27,Creature,Snow Rogue Kraken
+28,Creature,Frozen Undead Kraken
+29,Creature,Magi
+30,Enchantment,Deathgrip
+31,Enchantment,Nimble Blight
+32,Enchantment,Age
+33,Artifact,Divine Robe
+34,Creature,Ghoul
+35,Creature,Eagle
+36,Spell,Fire
+37,Spell,Infuriate
+38,Creature,Magi
+39,Spell,Forged Torment
+40,Creature,Skin-Walker
+41,Creature,Light Lord Griffin
+42,Spell,Sorrow
+43,Spell,Infuriate
+44,Creature,Spider

@@ -1,46 +1,46 @@
-==================,DECK,4360,Medium
-0,Spell,Common,Assault
-1,Spell,Common,Invisibility
-2,Creature,Legendary,Light Assassin Kraken of the West
-3,Creature,Mythic,Frozen Ancient Wizard of the Void
-4,Artifact,Common,Staff
-5,Creature,Legendary,Aura Warrior Oni of the Low Hills
-6,Spell,Common,Sorrow
-7,Enchantment,Common,Shrink
-8,Spell,Common,Reanimate
-9,Artifact,Common,Bow
-10,Spell,Common,Frost
-11,Enchantment,Common,Haste
-12,Enchantment,Rare,Miracle Haste
-13,Enchantment,Common,Age
-14,Creature,Common,Warlock
-15,Spell,Legendary,Dire Stricken
-16,Enchantment,Common,Invert
-17,Spell,Rare,Apocalypse Reanimate
-18,Creature,Common,Eagle
-19,Artifact,Rare,Frigid Tome
-20,Enchantment,Common,Lethargy
-21,Spell,Legendary,Angry Reanimate
-22,Spell,Legendary,Angry Torment
-23,Artifact,Rare,Apocalypse Helmet
-24,Spell,Rare,Oblivion Lightning
-25,Creature,Common,Spider
-26,Spell,Legendary,Urgent Invisibility
-27,Creature,Common,Paladin
-28,Artifact,Rare,Solar Ring
-29,Creature,Common,Elf
-30,Enchantment,Rare,Gloom Lethargy
-31,Creature,Common,Warlock
-32,Artifact,Common,Ghost Wand
-33,Creature,Rare,Dark Thief Minotaur
-34,Creature,Common,Magi
-35,Creature,Common,Dwarf
-36,Creature,Common,Goblin
-37,Spell,Rare,Cataclysmic Stricken
-38,Creature,Rare,Aura Queen Fairy
-39,Enchantment,Common,Shade
-40,Spell,Rare,Miracle Maelstrom
-41,Spell,Rare,Necro Burn
-42,Spell,Rare,Oblivion Invisibility
-43,Enchantment,Legendary,Potent Shrink
-44,Enchantment,Common,Shield
+==================,DECK,4360
+0,Spell,Infuriate
+1,Spell,Reanimate
+2,Creature,Light Assassin Ogre of the West
+3,Creature,Frozen Ancient Wizard of the Void
+4,Artifact,Staff
+5,Creature,Aura Warrior Oni of the Low Hills
+6,Spell,Vortex
+7,Enchantment,Haste
+8,Spell,Burn
+9,Artifact,Bow
+10,Spell,Rage
+11,Enchantment,Haste
+12,Enchantment,Life Haste
+13,Enchantment,Haste
+14,Creature,Berserker
+15,Spell,Empyrean Nimble Assault
+16,Enchantment,Flight
+17,Spell,Oblivion Gravitation
+18,Creature,Eagle
+19,Artifact,Victory Tome
+20,Enchantment,Firebreath
+21,Spell,Zealous Miracle Burn
+22,Spell,Urgent Sorrow Torment
+23,Artifact,Victory Helmet
+24,Spell,Victory Vortex
+25,Creature,Paladin
+26,Spell,Urgent Forged Torment
+27,Creature,Troll
+28,Artifact,Shimmering Ring
+29,Creature,Warlock
+30,Enchantment,Lunar Shield
+31,Creature,Berserker
+32,Artifact,Ghost Wand
+33,Creature,Dark Thief Cyclops
+34,Creature,Fairy
+35,Creature,Magi
+36,Creature,Skin-Walker
+37,Spell,Cataclysmic Burst
+38,Creature,Aura Queen Kraken
+39,Enchantment,Blight
+40,Spell,Frigid Rage
+41,Spell,Corpse Reanimate
+42,Spell,Frigid Frenzy
+43,Enchantment,Mighty Frigid Invert
+44,Enchantment,Age

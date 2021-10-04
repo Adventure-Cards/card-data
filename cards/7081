@@ -1,46 +1,46 @@
-==================,DECK,7081,Medium
-0,Creature,Rare,Dark Priest Griffin
-1,Spell,Common,Heal
-2,Creature,Common,Warlock
-3,Creature,Common,Goblin
-4,Creature,Common,Magi
-5,Creature,Rare,Dark Monk Griffin
-6,Creature,Common,Ghoul
-7,Spell,Rare,Corpse Frenzy
-8,Spell,Common,Ice
-9,Creature,Rare,Snow King Minotaur
-10,Artifact,Common,Sigil
-11,Artifact,Common,Belt
-12,Creature,Common,Wolf
-13,Enchantment,Common,Haste
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Shrink
-16,Creature,Rare,Snow King Minotaur
-17,Creature,Common,Spider
-18,Creature,Common,Paladin
-19,Spell,Legendary,Mighty Lightning
-20,Spell,Mythic,Potent Torment
-21,Creature,Common,Eagle
-22,Creature,Common,Paladin
-23,Artifact,Rare,Apocalypse Pendant
-24,Creature,Legendary,Earth Lord Giant of the Swamp
-25,Spell,Common,Assault
-26,Creature,Mythic,Earth Chaos Wizard of the Shadows
-27,Artifact,Common,Boots
-28,Enchantment,Rare,Apocalypse Drain
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Haste
-31,Creature,Common,Warlock
-32,Spell,Legendary,Mighty Pandemonium
-33,Creature,Legendary,Frozen Rogue Cyclops of the Golden Palace
-34,Creature,Common,Orc
-35,Spell,Common,Reanimate
-36,Enchantment,Mythic,Mighty Strength
-37,Spell,Common,Wall
-38,Creature,Legendary,Aura King Giant of the Mountains
-39,Enchantment,Rare,Nature Shrink
-40,Creature,Common,Warlock
-41,Spell,Common,Revive
-42,Enchantment,Common,Shield
-43,Enchantment,Rare,Solar Strength
-44,Creature,Legendary,Death Merchant Giant of the Magical Forest
+==================,DECK,7081
+0,Creature,Dark Priest Griffin
+1,Spell,Heal
+2,Creature,Berserker
+3,Creature,Skin-Walker
+4,Creature,Fairy
+5,Creature,Dark Monk Griffin
+6,Creature,Ghoul
+7,Spell,Solar Fire
+8,Spell,Heal
+9,Creature,Snow King Cyclops
+10,Artifact,Sigil
+11,Artifact,Belt
+12,Creature,Wolf
+13,Enchantment,Blight
+14,Creature,Ghoul
+15,Enchantment,Shrink
+16,Creature,Snow King Cyclops
+17,Creature,Paladin
+18,Creature,Troll
+19,Spell,Dire Dark Frost
+20,Spell,Dire Nimble Fury
+21,Creature,Eagle
+22,Creature,Troll
+23,Artifact,Grim Pendant
+24,Creature,Earth Lord Dwarf of the Swamp
+25,Spell,Pandemonium
+26,Creature,Earth Chaos Wizard of the Shadows
+27,Artifact,Boots
+28,Enchantment,Apocalypse Haste
+29,Creature,Magi
+30,Enchantment,Lethargy
+31,Creature,Berserker
+32,Spell,Mighty Cataclysmic Torment
+33,Creature,Frozen Rogue Giant of the Golden Palace
+34,Creature,Spider
+35,Spell,Frost
+36,Enchantment,Urgent Cataclysmic Flight
+37,Spell,Maelstrom
+38,Creature,Aura King Dwarf of the Mountains
+39,Enchantment,Necro Lethargy
+40,Creature,Berserker
+41,Spell,Sorrow
+42,Enchantment,Drain
+43,Enchantment,Solar Strength
+44,Creature,Death Merchant Dwarf of the Magical Forest

@@ -1,46 +1,46 @@
-==================,DECK,4934,Light
-0,Creature,Rare,Snow Priest Fairy
-1,Creature,Common,Ghoul
-2,Spell,Common,Stun
-3,Creature,Legendary,Dark Queen Kraken of the Eastern Skies
-4,Creature,Common,Magi
-5,Artifact,Common,Scepter
-6,Spell,Rare,Apocalypse Burst
-7,Creature,Common,Magi
-8,Creature,Common,Paladin
-9,Creature,Common,Spider
-10,Creature,Common,Wolf
-11,Creature,Common,Elf
-12,Artifact,Common,Boots
-13,Creature,Common,Spider
-14,Creature,Common,Paladin
-15,Creature,Common,Goblin
-16,Enchantment,Common,Alacrity
-17,Enchantment,Mythic,Urgent Shade
-18,Artifact,Common,Ring
-19,Artifact,Common,Shield
-20,Creature,Common,Wolf
-21,Enchantment,Common,Strength
-22,Spell,Common,Stricken
-23,Creature,Rare,Death Warrior Griffin
-24,Creature,Common,Magi
-25,Artifact,Rare,Lunar Greaves
-26,Creature,Common,Elf
-27,Spell,Common,Sorrow
-28,Spell,Common,Stricken
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Creature,Common,Eagle
-32,Creature,Common,Eagle
-33,Creature,Common,Elf
-34,Enchantment,Mythic,Intense Strength
-35,Enchantment,Common,Age
-36,Artifact,Common,Greaves
-37,Creature,Common,Warlock
-38,Creature,Common,Eagle
-39,Enchantment,Common,Agony
-40,Creature,Common,Warlock
-41,Spell,Rare,Gloom Wall
-42,Creature,Rare,Frozen King Hydra
-43,Creature,Common,Eagle
-44,Creature,Rare,Frozen Undead Minotaur
+==================,DECK,4934
+0,Creature,Snow Priest Kraken
+1,Creature,Ghoul
+2,Spell,Sorrow
+3,Creature,Dark Queen Ogre of the Eastern Skies
+4,Creature,Fairy
+5,Artifact,Scepter
+6,Spell,Frigid Tempest
+7,Creature,Fairy
+8,Creature,Troll
+9,Creature,Paladin
+10,Creature,Wolf
+11,Creature,Warlock
+12,Artifact,Boots
+13,Creature,Paladin
+14,Creature,Troll
+15,Creature,Skin-Walker
+16,Enchantment,Agony
+17,Enchantment,Dire Necro Age
+18,Artifact,Ring
+19,Artifact,Shield
+20,Creature,Wolf
+21,Enchantment,Alacrity
+22,Spell,Reanimate
+23,Creature,Death Warrior Griffin
+24,Creature,Fairy
+25,Artifact,Gloom Greaves
+26,Creature,Warlock
+27,Spell,Lightning
+28,Spell,Heal
+29,Creature,Wolf
+30,Creature,Eagle
+31,Creature,Eagle
+32,Creature,Eagle
+33,Creature,Warlock
+34,Enchantment,Urgent Solar Agony
+35,Enchantment,Drain
+36,Artifact,Greaves
+37,Creature,Berserker
+38,Creature,Eagle
+39,Enchantment,Age
+40,Creature,Berserker
+41,Spell,Cataclysmic Invisibility
+42,Creature,Frozen King Hydra
+43,Creature,Eagle
+44,Creature,Frozen Undead Cyclops

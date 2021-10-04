@@ -1,46 +1,46 @@
-==================,DECK,6912,Light
-0,Artifact,Common,Sword
-1,Creature,Common,Warlock
-2,Creature,Common,Ghoul
-3,Creature,Mythic,Death Ancient Wizard of the Dead
-4,Creature,Common,Eagle
-5,Spell,Rare,Life Gale
-6,Artifact,Common,Pendant
-7,Spell,Common,Lightning
-8,Creature,Common,Dwarf
-9,Spell,Common,Stricken
-10,Spell,Common,Burn
-11,Spell,Common,Fury
-12,Creature,Rare,Light Assassin Skin-Walker
-13,Creature,Common,Wolf
-14,Spell,Rare,Nimble Frenzy
-15,Enchantment,Common,Age
-16,Creature,Common,Orc
-17,Spell,Common,Frost
-18,Spell,Common,Infuriate
-19,Creature,Common,Elf
-20,Spell,Legendary,Clever Hypnosis
-21,Spell,Rare,Shimmering Hypnosis
-22,Creature,Rare,Frozen Fighter Fairy
-23,Enchantment,Common,Shade
-24,Creature,Rare,Death Queen Hydra
-25,Creature,Common,Eagle
-26,Enchantment,Common,Invert
-27,Creature,Common,Spider
-28,Enchantment,Common,Blight
-29,Creature,Common,Goblin
-30,Spell,Legendary,Intense Reanimate
-31,Spell,Rare,Oblivion Vortex
-32,Enchantment,Common,Strength
-33,Enchantment,Common,Drain
-34,Creature,Common,Magi
-35,Artifact,Rare,Corpse Boots
-36,Creature,Common,Goblin
-37,Creature,Common,Elf
-38,Creature,Common,Orc
-39,Creature,Common,Wolf
-40,Artifact,Common,Belt
-41,Creature,Common,Elf
-42,Artifact,Common,Ghost Wand
-43,Creature,Common,Wolf
-44,Enchantment,Common,Lethargy
+==================,DECK,6912
+0,Artifact,Sword
+1,Creature,Berserker
+2,Creature,Ghoul
+3,Creature,Death Ancient Wizard of the Dead
+4,Creature,Eagle
+5,Spell,Victory Fire
+6,Artifact,Pendant
+7,Spell,Burn
+8,Creature,Magi
+9,Spell,Gale
+10,Spell,Maelstrom
+11,Spell,Rage
+12,Creature,Light Assassin Orc
+13,Creature,Wolf
+14,Spell,Solar Pandemonium
+15,Enchantment,Invert
+16,Creature,Spider
+17,Spell,Fireball
+18,Spell,Stun
+19,Creature,Warlock
+20,Spell,Mighty Nimble Hypnosis
+21,Spell,Corpse Fury
+22,Creature,Frozen Fighter Kraken
+23,Enchantment,Drain
+24,Creature,Death Queen Hydra
+25,Creature,Eagle
+26,Enchantment,Age
+27,Creature,Paladin
+28,Enchantment,Shade
+29,Creature,Skin-Walker
+30,Spell,Potent Hateful Burn
+31,Spell,Apocalypse Gale
+32,Enchantment,Lethargy
+33,Enchantment,Haste
+34,Creature,Fairy
+35,Artifact,Hateful Boots
+36,Creature,Skin-Walker
+37,Creature,Warlock
+38,Creature,Spider
+39,Creature,Wolf
+40,Artifact,Belt
+41,Creature,Warlock
+42,Artifact,Ghost Wand
+43,Creature,Wolf
+44,Enchantment,Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,6340,Light
-0,Creature,Common,Spider
-1,Creature,Mythic,Earth Grand Wizard of the Shadows
-2,Creature,Rare,Dark King Hydra
-3,Creature,Mythic,Frozen Grand Wizard of the Void
-4,Spell,Common,Burst
-5,Artifact,Common,Ring
-6,Creature,Rare,Earth Undead Minotaur
-7,Enchantment,Common,Haste
-8,Creature,Common,Paladin
-9,Spell,Rare,Gloom Frenzy
-10,Creature,Common,Orc
-11,Creature,Rare,Aura Monk Berserker
-12,Artifact,Rare,Apocalypse Staff
-13,Enchantment,Common,Shrink
-14,Enchantment,Rare,Lunar Blight
-15,Creature,Common,Elf
-16,Creature,Legendary,Snow Warrior Giant of the Bright Mountains
-17,Spell,Common,Pandemonium
-18,Artifact,Common,Sigil
-19,Creature,Common,Eagle
-20,Creature,Rare,Snow Rogue Fairy
-21,Spell,Common,Maelstrom
-22,Spell,Common,Fury
-23,Creature,Common,Spider
-24,Spell,Common,Ice
-25,Enchantment,Rare,Corpse Shade
-26,Creature,Common,Orc
-27,Creature,Common,Elf
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Spider
-30,Spell,Legendary,Extreme Heal
-31,Spell,Rare,Frigid Frost
-32,Artifact,Common,Shield
-33,Enchantment,Rare,Nimble Agony
-34,Creature,Common,Elf
-35,Creature,Common,Wolf
-36,Enchantment,Common,Agony
-37,Creature,Common,Ghoul
-38,Spell,Common,Gale
-39,Spell,Rare,Oblivion Gravitation
-40,Creature,Common,Spider
-41,Creature,Common,Spider
-42,Spell,Common,Lightning
-43,Creature,Rare,Earth Undead Skin-Walker
-44,Creature,Common,Magi
+==================,DECK,6340
+0,Creature,Paladin
+1,Creature,Earth Grand Wizard of the Shadows
+2,Creature,Dark King Hydra
+3,Creature,Frozen Grand Wizard of the Void
+4,Spell,Maelstrom
+5,Artifact,Ring
+6,Creature,Earth Undead Cyclops
+7,Enchantment,Agony
+8,Creature,Troll
+9,Spell,Gloom Vortex
+10,Creature,Spider
+11,Creature,Aura Monk Goblin
+12,Artifact,Victory Staff
+13,Enchantment,Drain
+14,Enchantment,Cataclysmic Shield
+15,Creature,Warlock
+16,Creature,Snow Warrior Dwarf of the Bright Mountains
+17,Spell,Frenzy
+18,Artifact,Sigil
+19,Creature,Eagle
+20,Creature,Snow Rogue Kraken
+21,Spell,Fire
+22,Spell,Fire
+23,Creature,Paladin
+24,Spell,Torment
+25,Enchantment,Necro Lethargy
+26,Creature,Spider
+27,Creature,Warlock
+28,Enchantment,Shield
+29,Creature,Paladin
+30,Spell,Irate Miracle Lightning
+31,Spell,Nimble Gale
+32,Artifact,Shield
+33,Enchantment,Corpse Age
+34,Creature,Warlock
+35,Creature,Wolf
+36,Enchantment,Shrink
+37,Creature,Ghoul
+38,Spell,Hypnosis
+39,Spell,Grim Gale
+40,Creature,Paladin
+41,Creature,Paladin
+42,Spell,Lightning
+43,Creature,Earth Undead Orc
+44,Creature,Fairy

@@ -1,46 +1,46 @@
-==================,DECK,4498,Medium
-0,Spell,Common,Wall
-1,Creature,Common,Dwarf
-2,Creature,Common,Magi
-3,Creature,Common,Goblin
-4,Spell,Common,Heal
-5,Creature,Common,Goblin
-6,Artifact,Common,Scepter
-7,Spell,Rare,Apocalypse Maelstrom
-8,Creature,Legendary,Snow Thief Cyclops of the Swamp
-9,Creature,Common,Ghoul
-10,Creature,Common,Orc
-11,Enchantment,Legendary,Urgent Shrink
-12,Enchantment,Common,Lethargy
-13,Creature,Mythic,Snow Time Phoenix of Hate
-14,Enchantment,Common,Blight
-15,Enchantment,Rare,Necro Flight
-16,Creature,Rare,Light Fighter Minotaur
-17,Artifact,Legendary,Urgent Sword
-18,Enchantment,Legendary,Instant Blight
-19,Enchantment,Common,Invert
-20,Enchantment,Rare,Necro Flight
-21,Creature,Legendary,Earth Priest Giant of the Swamp
-22,Enchantment,Legendary,Instant Shade
-23,Enchantment,Common,Lethargy
-24,Creature,Rare,Death Fighter Berserker
-25,Enchantment,Common,Shade
-26,Creature,Legendary,Death Warrior Kraken of the Arctic Blizzards
-27,Creature,Common,Ghoul
-28,Creature,Common,Elf
-29,Creature,Rare,Snow Priest Griffin
-30,Creature,Rare,Light Fighter Skin-Walker
-31,Spell,Rare,Life Pandemonium
-32,Creature,Mythic,Light Undead Dragon of the Sky
-33,Creature,Common,Paladin
-34,Creature,Common,Magi
-35,Creature,Common,Orc
-36,Spell,Common,Vortex
-37,Enchantment,Common,Haste
-38,Spell,Common,Lightning
-39,Spell,Rare,Shimmering Gale
-40,Artifact,Rare,Lunar Ghost Wand
-41,Creature,Rare,Dark Assassin Hydra
-42,Enchantment,Common,Strength
-43,Enchantment,Rare,Miracle Deathgrip
-44,Creature,Rare,Snow Queen Griffin
+==================,DECK,4498
+0,Spell,Revive
+1,Creature,Magi
+2,Creature,Fairy
+3,Creature,Skin-Walker
+4,Spell,Stricken
+5,Creature,Skin-Walker
+6,Artifact,Scepter
+7,Spell,Nimble Fire
+8,Creature,Snow Thief Giant of the Swamp
+9,Creature,Ghoul
+10,Creature,Spider
+11,Enchantment,Zealous Necro Deathgrip
+12,Enchantment,Invert
+13,Creature,Snow Time Phoenix of Hate
+14,Enchantment,Flight
+15,Enchantment,Hateful Agony
+16,Creature,Light Fighter Cyclops
+17,Artifact,Potent Hateful Sword
+18,Enchantment,Potent Solar Strength
+19,Enchantment,Agony
+20,Enchantment,Hateful Agony
+21,Creature,Earth Priest Dwarf of the Swamp
+22,Enchantment,Dire Necro Age
+23,Enchantment,Deathgrip
+24,Creature,Death Fighter Goblin
+25,Enchantment,Drain
+26,Creature,Death Warrior Ogre of the Arctic Blizzards
+27,Creature,Ghoul
+28,Creature,Warlock
+29,Creature,Snow Priest Griffin
+30,Creature,Light Fighter Orc
+31,Spell,Frigid Gale
+32,Creature,Light Undead Dragon of the Sky
+33,Creature,Troll
+34,Creature,Fairy
+35,Creature,Spider
+36,Spell,Lightning
+37,Enchantment,Shield
+38,Spell,Tempest
+39,Spell,Forged Torment
+40,Artifact,Lunar Ghost Wand
+41,Creature,Dark Assassin Hydra
+42,Enchantment,Drain
+43,Enchantment,Oblivion Invert
+44,Creature,Snow Queen Griffin

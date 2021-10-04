@@ -1,46 +1,46 @@
-==================,DECK,5431,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Goblin
-2,Creature,Common,Goblin
-3,Artifact,Common,Crown
-4,Enchantment,Common,Deathgrip
-5,Creature,Rare,Aura King Griffin
-6,Creature,Common,Magi
-7,Spell,Common,Torment
-8,Creature,Rare,Light Thief Minotaur
-9,Spell,Common,Frenzy
-10,Creature,Common,Magi
-11,Creature,Rare,Aura Fighter Griffin
-12,Creature,Common,Paladin
-13,Creature,Common,Orc
-14,Creature,Common,Eagle
-15,Creature,Common,Paladin
-16,Creature,Common,Eagle
-17,Enchantment,Common,Deathgrip
-18,Spell,Common,Freeze
-19,Enchantment,Legendary,Potent Invert
-20,Spell,Common,Reanimate
-21,Creature,Common,Eagle
-22,Creature,Legendary,Earth Fighter Orge of the Eternal Land
-23,Artifact,Rare,Apocalypse Potion
-24,Creature,Legendary,Dark Queen Oni of the Bright Mountains
-25,Spell,Rare,Dark Frenzy
-26,Spell,Common,Infuriate
-27,Spell,Common,Gravitation
-28,Spell,Common,Frenzy
-29,Creature,Rare,Light Monk Fairy
-30,Spell,Common,Revive
-31,Creature,Common,Dwarf
-32,Spell,Common,Heal
-33,Artifact,Common,Shield
-34,Spell,Common,Fury
-35,Creature,Common,Spider
-36,Spell,Rare,Frigid Wall
-37,Artifact,Common,Sigil
-38,Enchantment,Common,Shade
-39,Creature,Common,Wolf
-40,Creature,Common,Paladin
-41,Creature,Rare,Snow Undead Minotaur
-42,Enchantment,Common,Shield
-43,Enchantment,Common,Shade
-44,Creature,Common,Ghoul
+==================,DECK,5431
+0,Creature,Wolf
+1,Creature,Skin-Walker
+2,Creature,Skin-Walker
+3,Artifact,Crown
+4,Enchantment,Shrink
+5,Creature,Aura King Griffin
+6,Creature,Fairy
+7,Spell,Heal
+8,Creature,Light Thief Cyclops
+9,Spell,Heal
+10,Creature,Fairy
+11,Creature,Aura Fighter Griffin
+12,Creature,Troll
+13,Creature,Spider
+14,Creature,Eagle
+15,Creature,Troll
+16,Creature,Eagle
+17,Enchantment,Shrink
+18,Spell,Fire
+19,Enchantment,Urgent Oblivion Invert
+20,Spell,Pandemonium
+21,Creature,Eagle
+22,Creature,Earth Fighter Elf of the Eternal Land
+23,Artifact,Oblivion Potion
+24,Creature,Dark Queen Oni of the Bright Mountains
+25,Spell,Chimeric Heal
+26,Spell,Lightning
+27,Spell,Infuriate
+28,Spell,Ice
+29,Creature,Light Monk Kraken
+30,Spell,Lightning
+31,Creature,Magi
+32,Spell,Tempest
+33,Artifact,Shield
+34,Spell,Hypnosis
+35,Creature,Paladin
+36,Spell,Life Hypnosis
+37,Artifact,Sigil
+38,Enchantment,Lethargy
+39,Creature,Wolf
+40,Creature,Troll
+41,Creature,Snow Undead Cyclops
+42,Enchantment,Invert
+43,Enchantment,Shield
+44,Creature,Ghoul

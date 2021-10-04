@@ -1,46 +1,46 @@
-==================,DECK,6518,Light
-0,Artifact,Common,Staff
-1,Spell,Common,Frost
-2,Creature,Common,Paladin
-3,Enchantment,Common,Drain
-4,Creature,Mythic,Aura Chaos Wizard of the Light
-5,Creature,Rare,Earth Queen Berserker
-6,Creature,Rare,Earth Rogue Hydra
-7,Spell,Common,Vortex
-8,Artifact,Common,Pendant
-9,Spell,Rare,Nimble Lightning
-10,Creature,Rare,Dark Priest Hydra
-11,Creature,Common,Orc
-12,Creature,Legendary,Frozen Thief Oni of the Polar Woods
-13,Spell,Rare,Oblivion Wall
-14,Creature,Rare,Dark Fighter Fairy
-15,Creature,Common,Warlock
-16,Creature,Rare,Light Fighter Berserker
-17,Creature,Common,Spider
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Warlock
-20,Creature,Common,Orc
-21,Creature,Common,Paladin
-22,Creature,Rare,Death Queen Minotaur
-23,Spell,Common,Sorrow
-24,Artifact,Common,Helm
-25,Creature,Common,Dwarf
-26,Creature,Common,Wolf
-27,Enchantment,Legendary,Potent Invert
-28,Creature,Common,Spider
-29,Enchantment,Common,Age
-30,Creature,Common,Paladin
-31,Creature,Common,Goblin
-32,Spell,Common,Hypnosis
-33,Spell,Common,Reanimate
-34,Enchantment,Rare,Frigid Alacrity
-35,Creature,Common,Magi
-36,Creature,Rare,Frozen Fighter Berserker
-37,Creature,Common,Goblin
-38,Enchantment,Common,Invert
-39,Enchantment,Common,Invert
-40,Creature,Rare,Aura Knight Berserker
-41,Enchantment,Common,Drain
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Lethargy
-44,Spell,Rare,Frigid Gravitation
+==================,DECK,6518
+0,Artifact,Staff
+1,Spell,Freeze
+2,Creature,Troll
+3,Enchantment,Age
+4,Creature,Aura Chaos Wizard of the Light
+5,Creature,Earth Queen Goblin
+6,Creature,Earth Rogue Hydra
+7,Spell,Burst
+8,Artifact,Pendant
+9,Spell,Solar Maelstrom
+10,Creature,Dark Priest Hydra
+11,Creature,Spider
+12,Creature,Frozen Thief Oni of the Polar Woods
+13,Spell,Nimble Frost
+14,Creature,Dark Fighter Kraken
+15,Creature,Berserker
+16,Creature,Light Fighter Goblin
+17,Creature,Paladin
+18,Enchantment,Deathgrip
+19,Creature,Berserker
+20,Creature,Spider
+21,Creature,Troll
+22,Creature,Death Queen Cyclops
+23,Spell,Pandemonium
+24,Artifact,Helm
+25,Creature,Magi
+26,Creature,Wolf
+27,Enchantment,Irate Oblivion Blight
+28,Creature,Paladin
+29,Enchantment,Shield
+30,Creature,Troll
+31,Creature,Skin-Walker
+32,Spell,Heal
+33,Spell,Hypnosis
+34,Enchantment,Apocalypse Blight
+35,Creature,Fairy
+36,Creature,Frozen Fighter Goblin
+37,Creature,Skin-Walker
+38,Enchantment,Deathgrip
+39,Enchantment,Flight
+40,Creature,Aura Knight Goblin
+41,Enchantment,Alacrity
+42,Creature,Magi
+43,Enchantment,Deathgrip
+44,Spell,Apocalypse Fire

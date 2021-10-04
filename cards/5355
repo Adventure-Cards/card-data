@@ -1,46 +1,46 @@
-==================,DECK,5355,Light
-0,Enchantment,Common,Shield
-1,Enchantment,Common,Strength
-2,Spell,Common,Stricken
-3,Creature,Common,Goblin
-4,Spell,Common,Freeze
-5,Spell,Common,Wall
-6,Creature,Rare,Dark Knight Griffin
-7,Creature,Common,Paladin
-8,Artifact,Common,Potion
-9,Creature,Common,Dwarf
-10,Spell,Common,Wall
-11,Enchantment,Common,Alacrity
-12,Creature,Mythic,Death Undead Phoenix of the Dead
-13,Creature,Rare,Light Monk Minotaur
-14,Creature,Rare,Dark Lord Skin-Walker
-15,Enchantment,Rare,Miracle Haste
-16,Enchantment,Rare,Miracle Age
-17,Creature,Common,Elf
-18,Creature,Legendary,Light Assassin Giant of the Black Stone
-19,Spell,Common,Frenzy
-20,Creature,Common,Orc
-21,Creature,Rare,Earth Thief Minotaur
-22,Creature,Common,Dwarf
-23,Spell,Common,Reanimate
-24,Spell,Rare,Solar Frost
-25,Enchantment,Rare,Solar Alacrity
-26,Spell,Legendary,Instant Hypnosis
-27,Spell,Common,Maelstrom
-28,Creature,Common,Dwarf
-29,Spell,Common,Frenzy
-30,Spell,Legendary,Angry Stun
-31,Creature,Common,Ghoul
-32,Artifact,Legendary,Urgent Boots
-33,Spell,Common,Frenzy
-34,Artifact,Common,Sigil
-35,Creature,Common,Goblin
-36,Spell,Rare,Corpse Torment
-37,Enchantment,Common,Age
-38,Enchantment,Legendary,Mighty Drain
-39,Creature,Common,Wolf
-40,Spell,Common,Reanimate
-41,Creature,Common,Warlock
-42,Enchantment,Common,Shade
-43,Creature,Common,Magi
-44,Creature,Common,Wolf
+==================,DECK,5355
+0,Enchantment,Shrink
+1,Enchantment,Invert
+2,Spell,Torment
+3,Creature,Skin-Walker
+4,Spell,Maelstrom
+5,Spell,Sorrow
+6,Creature,Dark Knight Griffin
+7,Creature,Troll
+8,Artifact,Potion
+9,Creature,Magi
+10,Spell,Revive
+11,Enchantment,Alacrity
+12,Creature,Death Undead Phoenix of the Dead
+13,Creature,Light Monk Cyclops
+14,Creature,Dark Lord Orc
+15,Enchantment,Life Drain
+16,Enchantment,Victory Haste
+17,Creature,Warlock
+18,Creature,Light Assassin Dwarf of the Black Stone
+19,Spell,Revive
+20,Creature,Spider
+21,Creature,Earth Thief Cyclops
+22,Creature,Magi
+23,Spell,Sorrow
+24,Spell,Corpse Gravitation
+25,Enchantment,Forged Agony
+26,Spell,Clever Necro Wall
+27,Spell,Maelstrom
+28,Creature,Magi
+29,Spell,Vortex
+30,Spell,Mighty Lunar Frenzy
+31,Creature,Ghoul
+32,Artifact,Ardent Solar Boots
+33,Spell,Burn
+34,Artifact,Sigil
+35,Creature,Skin-Walker
+36,Spell,Shimmering Sorrow
+37,Enchantment,Shade
+38,Enchantment,Mighty Dark Flight
+39,Creature,Wolf
+40,Spell,Ice
+41,Creature,Berserker
+42,Enchantment,Invert
+43,Creature,Fairy
+44,Creature,Wolf

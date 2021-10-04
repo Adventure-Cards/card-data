@@ -1,46 +1,46 @@
-==================,DECK,7317,Light
-0,Creature,Common,Dwarf
-1,Artifact,Common,Scythe
-2,Artifact,Rare,Hateful Gauntlet
-3,Enchantment,Common,Shade
-4,Artifact,Common,Divine Robe
-5,Enchantment,Common,Deathgrip
-6,Creature,Rare,Death Monk Griffin
-7,Enchantment,Common,Deathgrip
-8,Creature,Mythic,Aura Grand Demon of the Light
-9,Creature,Rare,Aura Priest Berserker
-10,Creature,Common,Magi
-11,Creature,Rare,Death Lord Minotaur
-12,Creature,Common,Goblin
-13,Creature,Rare,Light Rogue Griffin
-14,Creature,Common,Warlock
-15,Creature,Common,Spider
-16,Artifact,Common,Staff
-17,Spell,Common,Assault
-18,Creature,Common,Wolf
-19,Creature,Common,Dwarf
-20,Artifact,Common,Amulet
-21,Enchantment,Common,Alacrity
-22,Artifact,Common,Bracers
-23,Creature,Common,Warlock
-24,Enchantment,Common,Shrink
-25,Creature,Common,Paladin
-26,Creature,Mythic,Light Nameless Dragon of the Sky
-27,Enchantment,Common,Strength
-28,Creature,Common,Magi
-29,Spell,Legendary,Instant Reanimate
-30,Creature,Rare,Dark Merchant Hydra
-31,Creature,Common,Magi
-32,Creature,Mythic,Snow Ancient Wizard of Hate
-33,Enchantment,Common,Age
-34,Spell,Common,Reanimate
-35,Enchantment,Rare,Solar Shade
-36,Artifact,Common,Tome
-37,Creature,Common,Wolf
-38,Enchantment,Rare,Lunar Haste
-39,Creature,Common,Warlock
-40,Creature,Common,Paladin
-41,Spell,Common,Gravitation
-42,Creature,Mythic,Earth Ancient Demon of the Shadows
-43,Enchantment,Common,Strength
-44,Spell,Rare,Life Hypnosis
+==================,DECK,7317
+0,Creature,Magi
+1,Artifact,Scythe
+2,Artifact,Lunar Gauntlet
+3,Enchantment,Age
+4,Artifact,Divine Robe
+5,Enchantment,Lethargy
+6,Creature,Death Monk Griffin
+7,Enchantment,Agony
+8,Creature,Aura Grand Demon of the Light
+9,Creature,Aura Priest Goblin
+10,Creature,Fairy
+11,Creature,Death Lord Cyclops
+12,Creature,Skin-Walker
+13,Creature,Light Rogue Griffin
+14,Creature,Berserker
+15,Creature,Paladin
+16,Artifact,Staff
+17,Spell,Hypnosis
+18,Creature,Wolf
+19,Creature,Magi
+20,Artifact,Amulet
+21,Enchantment,Drain
+22,Artifact,Bracers
+23,Creature,Berserker
+24,Enchantment,Blight
+25,Creature,Troll
+26,Creature,Light Nameless Dragon of the Sky
+27,Enchantment,Invert
+28,Creature,Fairy
+29,Spell,Clever Forged Revive
+30,Creature,Dark Merchant Hydra
+31,Creature,Fairy
+32,Creature,Snow Ancient Wizard of Hate
+33,Enchantment,Age
+34,Spell,Stricken
+35,Enchantment,Necro Deathgrip
+36,Artifact,Tome
+37,Creature,Wolf
+38,Enchantment,Miracle Alacrity
+39,Creature,Berserker
+40,Creature,Troll
+41,Spell,Torment
+42,Creature,Earth Ancient Demon of the Shadows
+43,Enchantment,Invert
+44,Spell,Grim Burst

@@ -1,46 +1,46 @@
-==================,DECK,7202,Medium
-0,Creature,Rare,Death Lord Minotaur
-1,Spell,Rare,Gloom Rage
-2,Artifact,Common,Ring
-3,Creature,Common,Goblin
-4,Spell,Rare,Apocalypse Hypnosis
-5,Creature,Mythic,Dark Ancient Demon of Illusion
-6,Spell,Common,Hypnosis
-7,Creature,Common,Goblin
-8,Enchantment,Rare,Necro Drain
-9,Artifact,Common,Shield
-10,Enchantment,Common,Shade
-11,Artifact,Common,Ghost Wand
-12,Creature,Rare,Death Fighter Fairy
-13,Spell,Common,Gale
-14,Creature,Common,Eagle
-15,Creature,Rare,Aura Monk Hydra
-16,Creature,Common,Magi
-17,Creature,Common,Wolf
-18,Creature,Common,Elf
-19,Enchantment,Common,Shrink
-20,Creature,Common,Warlock
-21,Creature,Rare,Aura Thief Hydra
-22,Enchantment,Legendary,Mighty Invert
-23,Creature,Common,Elf
-24,Enchantment,Common,Invert
-25,Enchantment,Common,Age
-26,Artifact,Rare,Dark Sigil
-27,Creature,Common,Warlock
-28,Spell,Rare,Life Fury
-29,Spell,Legendary,Clever Pandemonium
-30,Enchantment,Legendary,Mighty Shrink
-31,Creature,Common,Spider
-32,Creature,Common,Goblin
-33,Creature,Legendary,Frozen Warrior Orge of the West
-34,Creature,Mythic,Death Ancient Demon of the Dead
-35,Creature,Common,Dwarf
-36,Creature,Rare,Snow Assassin Hydra
-37,Spell,Common,Torment
-38,Artifact,Rare,Nature Divine Robe
-39,Enchantment,Common,Age
-40,Spell,Rare,Gloom Revive
-41,Creature,Rare,Dark Undead Hydra
-42,Enchantment,Common,Shrink
-43,Spell,Legendary,Potent Wall
-44,Spell,Rare,Lunar Ice
+==================,DECK,7202
+0,Creature,Death Lord Cyclops
+1,Spell,Lunar Stricken
+2,Artifact,Ring
+3,Creature,Skin-Walker
+4,Spell,Life Vortex
+5,Creature,Dark Ancient Demon of Illusion
+6,Spell,Burn
+7,Creature,Skin-Walker
+8,Enchantment,Forged Deathgrip
+9,Artifact,Shield
+10,Enchantment,Age
+11,Artifact,Ghost Wand
+12,Creature,Death Fighter Kraken
+13,Spell,Gravitation
+14,Creature,Eagle
+15,Creature,Aura Monk Hydra
+16,Creature,Fairy
+17,Creature,Wolf
+18,Creature,Warlock
+19,Enchantment,Drain
+20,Creature,Berserker
+21,Creature,Aura Thief Hydra
+22,Enchantment,Urgent Sorrow Flight
+23,Creature,Warlock
+24,Enchantment,Lethargy
+25,Enchantment,Alacrity
+26,Artifact,Miracle Sigil
+27,Creature,Berserker
+28,Spell,Life Wall
+29,Spell,Clever Grim Lightning
+30,Enchantment,Potent Chimeric Shrink
+31,Creature,Paladin
+32,Creature,Skin-Walker
+33,Creature,Frozen Warrior Elf of the West
+34,Creature,Death Ancient Demon of the Dead
+35,Creature,Magi
+36,Creature,Snow Assassin Hydra
+37,Spell,Assault
+38,Artifact,Forged Divine Robe
+39,Enchantment,Shield
+40,Spell,Sorrow Gravitation
+41,Creature,Dark Undead Hydra
+42,Enchantment,Shield
+43,Spell,Instant Nimble Assault
+44,Spell,Sorrow Burn

@@ -1,46 +1,46 @@
-==================,DECK,6748,Light
-0,Creature,Common,Elf
-1,Creature,Common,Eagle
-2,Enchantment,Common,Agony
-3,Creature,Common,Spider
-4,Creature,Common,Elf
-5,Creature,Common,Spider
-6,Creature,Common,Spider
-7,Creature,Common,Orc
-8,Spell,Common,Lightning
-9,Creature,Common,Eagle
-10,Creature,Rare,Dark Lord Hydra
-11,Spell,Common,Torment
-12,Creature,Common,Ghoul
-13,Creature,Rare,Frozen Merchant Griffin
-14,Spell,Common,Wall
-15,Creature,Common,Orc
-16,Spell,Common,Frost
-17,Spell,Common,Assault
-18,Creature,Common,Dwarf
-19,Creature,Common,Dwarf
-20,Creature,Rare,Frozen Merchant Skin-Walker
-21,Spell,Common,Reanimate
-22,Creature,Common,Goblin
-23,Enchantment,Common,Lethargy
-24,Creature,Common,Ghoul
-25,Enchantment,Rare,Hateful Blight
-26,Creature,Common,Ghoul
-27,Creature,Common,Wolf
-28,Spell,Common,Lightning
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Creature,Common,Wolf
-32,Creature,Common,Spider
-33,Spell,Rare,Cataclysmic Stricken
-34,Creature,Common,Eagle
-35,Creature,Common,Orc
-36,Creature,Common,Ghoul
-37,Enchantment,Rare,Gloom Alacrity
-38,Creature,Common,Eagle
-39,Creature,Rare,Snow Thief Berserker
-40,Artifact,Rare,Nature Scepter
-41,Enchantment,Mythic,Extreme Blight
-42,Enchantment,Common,Strength
-43,Enchantment,Common,Deathgrip
-44,Creature,Rare,Frozen Fighter Skin-Walker
+==================,DECK,6748
+0,Creature,Warlock
+1,Creature,Eagle
+2,Enchantment,Shade
+3,Creature,Paladin
+4,Creature,Warlock
+5,Creature,Paladin
+6,Creature,Paladin
+7,Creature,Spider
+8,Spell,Sorrow
+9,Creature,Eagle
+10,Creature,Dark Lord Hydra
+11,Spell,Revive
+12,Creature,Ghoul
+13,Creature,Frozen Merchant Griffin
+14,Spell,Hypnosis
+15,Creature,Spider
+16,Spell,Lightning
+17,Spell,Infuriate
+18,Creature,Magi
+19,Creature,Magi
+20,Creature,Frozen Merchant Orc
+21,Spell,Fury
+22,Creature,Skin-Walker
+23,Enchantment,Agony
+24,Creature,Ghoul
+25,Enchantment,Cataclysmic Alacrity
+26,Creature,Ghoul
+27,Creature,Wolf
+28,Spell,Ice
+29,Creature,Wolf
+30,Creature,Eagle
+31,Creature,Wolf
+32,Creature,Paladin
+33,Spell,Cataclysmic Lightning
+34,Creature,Eagle
+35,Creature,Spider
+36,Creature,Ghoul
+37,Enchantment,Dark Shrink
+38,Creature,Eagle
+39,Creature,Snow Thief Goblin
+40,Artifact,Forged Scepter
+41,Enchantment,Mighty Cataclysmic Flight
+42,Enchantment,Haste
+43,Enchantment,Shade
+44,Creature,Frozen Fighter Orc

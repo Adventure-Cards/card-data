@@ -1,46 +1,46 @@
-==================,DECK,4158,Light
-0,Creature,Rare,Frozen Warrior Hydra
-1,Creature,Common,Magi
-2,Artifact,Common,Divine Robe
-3,Creature,Common,Spider
-4,Spell,Rare,Solar Invisibility
-5,Creature,Common,Elf
-6,Creature,Common,Elf
-7,Enchantment,Common,Age
-8,Artifact,Common,Helm
-9,Creature,Common,Paladin
-10,Creature,Mythic,Death Undead Phoenix of the Dead
-11,Spell,Rare,Dark Heal
-12,Enchantment,Common,Shrink
-13,Creature,Common,Ghoul
-14,Enchantment,Legendary,Urgent Shrink
-15,Creature,Common,Orc
-16,Creature,Common,Paladin
-17,Creature,Legendary,Frozen King Giant of the Border
-18,Creature,Common,Elf
-19,Spell,Common,Assault
-20,Creature,Legendary,Frozen Undead Oni of the Arctic Blizzards
-21,Creature,Rare,Frozen King Hydra
-22,Spell,Common,Stricken
-23,Enchantment,Common,Agony
-24,Creature,Common,Goblin
-25,Artifact,Common,Potion
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Dwarf
-28,Artifact,Common,Cloak
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Invert
-31,Enchantment,Common,Strength
-32,Creature,Mythic,Frozen Grand Wizard of the Void
-33,Spell,Common,Hypnosis
-34,Creature,Common,Goblin
-35,Enchantment,Common,Haste
-36,Spell,Common,Stricken
-37,Creature,Common,Dwarf
-38,Creature,Common,Warlock
-39,Creature,Common,Warlock
-40,Creature,Common,Ghoul
-41,Enchantment,Common,Drain
-42,Enchantment,Common,Alacrity
-43,Spell,Legendary,Extreme Frenzy
-44,Creature,Common,Eagle
+==================,DECK,4158
+0,Creature,Frozen Warrior Hydra
+1,Creature,Fairy
+2,Artifact,Divine Robe
+3,Creature,Paladin
+4,Spell,Necro Maelstrom
+5,Creature,Warlock
+6,Creature,Warlock
+7,Enchantment,Shield
+8,Artifact,Helm
+9,Creature,Troll
+10,Creature,Death Undead Phoenix of the Dead
+11,Spell,Gloom Ice
+12,Enchantment,Deathgrip
+13,Creature,Ghoul
+14,Enchantment,Empyrean Necro Age
+15,Creature,Spider
+16,Creature,Troll
+17,Creature,Frozen King Dwarf of the Border
+18,Creature,Warlock
+19,Spell,Heal
+20,Creature,Frozen Undead Oni of the Arctic Blizzards
+21,Creature,Frozen King Hydra
+22,Spell,Sorrow
+23,Enchantment,Age
+24,Creature,Skin-Walker
+25,Artifact,Potion
+26,Enchantment,Shield
+27,Creature,Magi
+28,Artifact,Cloak
+29,Creature,Magi
+30,Enchantment,Invert
+31,Enchantment,Agony
+32,Creature,Frozen Grand Wizard of the Void
+33,Spell,Burn
+34,Creature,Skin-Walker
+35,Enchantment,Strength
+36,Spell,Tempest
+37,Creature,Magi
+38,Creature,Berserker
+39,Creature,Berserker
+40,Creature,Ghoul
+41,Enchantment,Shield
+42,Enchantment,Shield
+43,Spell,Instant Dark Fury
+44,Creature,Eagle

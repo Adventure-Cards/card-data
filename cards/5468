@@ -1,46 +1,46 @@
-==================,DECK,5468,Light
-0,Creature,Common,Spider
-1,Creature,Common,Orc
-2,Spell,Legendary,Intense Pandemonium
-3,Creature,Common,Goblin
-4,Artifact,Common,Belt
-5,Artifact,Common,Divine Robe
-6,Creature,Common,Magi
-7,Enchantment,Common,Drain
-8,Creature,Rare,Snow Lord Minotaur
-9,Artifact,Common,Bow
-10,Creature,Common,Spider
-11,Enchantment,Common,Flight
-12,Spell,Common,Heal
-13,Artifact,Rare,Nimble Sigil
-14,Enchantment,Common,Age
-15,Creature,Common,Goblin
-16,Creature,Common,Orc
-17,Spell,Common,Burn
-18,Creature,Common,Warlock
-19,Creature,Common,Ghoul
-20,Creature,Rare,Light Monk Skin-Walker
-21,Creature,Common,Orc
-22,Enchantment,Mythic,Potent Strength
-23,Spell,Common,Rage
-24,Spell,Common,Ice
-25,Creature,Common,Magi
-26,Spell,Rare,Miracle Hypnosis
-27,Spell,Rare,Hateful Ice
-28,Spell,Common,Vortex
-29,Spell,Common,Pandemonium
-30,Creature,Rare,Aura Fighter Skin-Walker
-31,Creature,Rare,Snow Lord Skin-Walker
-32,Spell,Common,Pandemonium
-33,Creature,Common,Eagle
-34,Enchantment,Common,Flight
-35,Creature,Common,Spider
-36,Creature,Rare,Aura Warrior Skin-Walker
-37,Enchantment,Common,Haste
-38,Creature,Common,Ghoul
-39,Creature,Rare,Snow Rogue Skin-Walker
-40,Enchantment,Mythic,Potent Shade
-41,Artifact,Common,Belt
-42,Creature,Common,Elf
-43,Creature,Rare,Light Lord Berserker
-44,Creature,Common,Goblin
+==================,DECK,5468
+0,Creature,Paladin
+1,Creature,Spider
+2,Spell,Zealous Corpse Reanimate
+3,Creature,Skin-Walker
+4,Artifact,Belt
+5,Artifact,Divine Robe
+6,Creature,Fairy
+7,Enchantment,Age
+8,Creature,Snow Lord Cyclops
+9,Artifact,Bow
+10,Creature,Paladin
+11,Enchantment,Shade
+12,Spell,Freeze
+13,Artifact,Necro Sigil
+14,Enchantment,Shrink
+15,Creature,Skin-Walker
+16,Creature,Spider
+17,Spell,Pandemonium
+18,Creature,Berserker
+19,Creature,Ghoul
+20,Creature,Light Monk Orc
+21,Creature,Spider
+22,Enchantment,Urgent Nimble Invert
+23,Spell,Reanimate
+24,Spell,Fury
+25,Creature,Fairy
+26,Spell,Oblivion Infuriate
+27,Spell,Miracle Revive
+28,Spell,Frost
+29,Spell,Freeze
+30,Creature,Aura Fighter Orc
+31,Creature,Snow Lord Orc
+32,Spell,Assault
+33,Creature,Eagle
+34,Enchantment,Deathgrip
+35,Creature,Paladin
+36,Creature,Aura Warrior Orc
+37,Enchantment,Deathgrip
+38,Creature,Ghoul
+39,Creature,Snow Rogue Orc
+40,Enchantment,Instant Frigid Drain
+41,Artifact,Belt
+42,Creature,Warlock
+43,Creature,Light Lord Goblin
+44,Creature,Skin-Walker

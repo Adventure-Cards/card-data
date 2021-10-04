@@ -1,46 +1,46 @@
-==================,DECK,7685,Light
-0,Artifact,Common,Sigil
-1,Spell,Common,Burn
-2,Creature,Legendary,Snow Knight Cyclops of the Magical Forest
-3,Creature,Common,Elf
-4,Creature,Common,Orc
-5,Artifact,Common,Shield
-6,Creature,Common,Warlock
-7,Creature,Common,Elf
-8,Creature,Common,Orc
-9,Creature,Common,Magi
-10,Creature,Common,Dwarf
-11,Spell,Rare,Lunar Burn
-12,Enchantment,Common,Invert
-13,Spell,Common,Torment
-14,Creature,Common,Warlock
-15,Creature,Common,Paladin
-16,Enchantment,Mythic,Potent Deathgrip
-17,Creature,Common,Magi
-18,Enchantment,Rare,Shimmering Haste
-19,Enchantment,Common,Age
-20,Creature,Mythic,Frozen Time Phoenix of the Void
-21,Spell,Common,Gravitation
-22,Creature,Common,Orc
-23,Creature,Mythic,Aura Ancient Demon of the Light
-24,Creature,Common,Paladin
-25,Creature,Common,Eagle
-26,Creature,Mythic,Earth Grand Demon of the Shadows
-27,Creature,Common,Magi
-28,Enchantment,Common,Strength
-29,Enchantment,Common,Strength
-30,Creature,Legendary,Light Queen Oni of the Golden Palace
-31,Spell,Rare,Solar Frost
-32,Creature,Rare,Aura Rogue Berserker
-33,Spell,Rare,Necro Stun
-34,Creature,Common,Magi
-35,Enchantment,Rare,Frigid Alacrity
-36,Creature,Common,Elf
-37,Creature,Common,Eagle
-38,Creature,Common,Paladin
-39,Spell,Common,Wall
-40,Enchantment,Rare,Shimmering Shrink
-41,Creature,Common,Elf
-42,Creature,Common,Paladin
-43,Spell,Common,Invisibility
-44,Enchantment,Common,Flight
+==================,DECK,7685
+0,Artifact,Sigil
+1,Spell,Fire
+2,Creature,Snow Knight Giant of the Magical Forest
+3,Creature,Warlock
+4,Creature,Spider
+5,Artifact,Shield
+6,Creature,Berserker
+7,Creature,Warlock
+8,Creature,Spider
+9,Creature,Fairy
+10,Creature,Magi
+11,Spell,Cataclysmic Pandemonium
+12,Enchantment,Alacrity
+13,Spell,Fireball
+14,Creature,Berserker
+15,Creature,Troll
+16,Enchantment,Zealous Oblivion Blight
+17,Creature,Fairy
+18,Enchantment,Corpse Age
+19,Enchantment,Shade
+20,Creature,Frozen Time Phoenix of the Void
+21,Spell,Sorrow
+22,Creature,Spider
+23,Creature,Aura Ancient Demon of the Light
+24,Creature,Troll
+25,Creature,Eagle
+26,Creature,Earth Grand Demon of the Shadows
+27,Creature,Fairy
+28,Enchantment,Flight
+29,Enchantment,Flight
+30,Creature,Light Queen Oni of the Golden Palace
+31,Spell,Forged Fury
+32,Creature,Aura Rogue Goblin
+33,Spell,Necro Heal
+34,Creature,Fairy
+35,Enchantment,Apocalypse Haste
+36,Creature,Warlock
+37,Creature,Eagle
+38,Creature,Troll
+39,Spell,Gale
+40,Enchantment,Necro Deathgrip
+41,Creature,Warlock
+42,Creature,Troll
+43,Spell,Torment
+44,Enchantment,Blight

@@ -1,46 +1,46 @@
-==================,DECK,7410,Light
-0,Creature,Rare,Frozen Warrior Berserker
-1,Creature,Rare,Dark Thief Griffin
-2,Spell,Common,Invisibility
-3,Artifact,Common,Scepter
-4,Enchantment,Mythic,Angry Age
-5,Creature,Common,Goblin
-6,Artifact,Common,Bracers
-7,Spell,Common,Burn
-8,Spell,Rare,Hateful Ice
-9,Creature,Common,Goblin
-10,Enchantment,Common,Flight
-11,Artifact,Common,Helmet
-12,Creature,Common,Warlock
-13,Enchantment,Common,Agony
-14,Creature,Rare,Light Queen Minotaur
-15,Creature,Common,Paladin
-16,Creature,Rare,Light Queen Griffin
-17,Enchantment,Common,Flight
-18,Spell,Common,Frost
-19,Creature,Legendary,Death Priest Giant of the Mountains
-20,Creature,Common,Eagle
-21,Creature,Mythic,Light Time Phoenix of the Sky
-22,Enchantment,Common,Drain
-23,Artifact,Rare,Nature Greaves
-24,Spell,Common,Fury
-25,Creature,Rare,Light Rogue Hydra
-26,Enchantment,Common,Drain
-27,Spell,Rare,Apocalypse Stricken
-28,Creature,Common,Goblin
-29,Spell,Legendary,Dire Wall
-30,Enchantment,Common,Age
-31,Creature,Common,Spider
-32,Creature,Common,Orc
-33,Creature,Common,Wolf
-34,Creature,Common,Orc
-35,Creature,Common,Magi
-36,Artifact,Rare,Nimble Ring
-37,Creature,Rare,Death Undead Minotaur
-38,Artifact,Rare,Forged Divine Robe
-39,Creature,Common,Spider
-40,Creature,Mythic,Snow Chaos Wizard of Hate
-41,Enchantment,Common,Invert
-42,Creature,Common,Elf
-43,Spell,Rare,Nimble Lightning
-44,Creature,Legendary,Snow Knight Kraken of the Arctic Blizzards
+==================,DECK,7410
+0,Creature,Frozen Warrior Goblin
+1,Creature,Dark Thief Griffin
+2,Spell,Invisibility
+3,Artifact,Scepter
+4,Enchantment,Clever Gloom Shield
+5,Creature,Skin-Walker
+6,Artifact,Bracers
+7,Spell,Infuriate
+8,Spell,Gloom Stricken
+9,Creature,Skin-Walker
+10,Enchantment,Firebreath
+11,Artifact,Helmet
+12,Creature,Berserker
+13,Enchantment,Flight
+14,Creature,Light Queen Cyclops
+15,Creature,Troll
+16,Creature,Light Queen Griffin
+17,Enchantment,Deathgrip
+18,Spell,Wall
+19,Creature,Death Priest Dwarf of the Mountains
+20,Creature,Eagle
+21,Creature,Light Time Phoenix of the Sky
+22,Enchantment,Invert
+23,Artifact,Shimmering Greaves
+24,Spell,Revive
+25,Creature,Light Rogue Hydra
+26,Enchantment,Shade
+27,Spell,Frigid Revive
+28,Creature,Skin-Walker
+29,Spell,Instant Apocalypse Assault
+30,Enchantment,Lethargy
+31,Creature,Paladin
+32,Creature,Spider
+33,Creature,Wolf
+34,Creature,Spider
+35,Creature,Fairy
+36,Artifact,Forged Ring
+37,Creature,Death Undead Cyclops
+38,Artifact,Sorrow Divine Robe
+39,Creature,Paladin
+40,Creature,Snow Chaos Wizard of Hate
+41,Enchantment,Deathgrip
+42,Creature,Warlock
+43,Spell,Hateful Frenzy
+44,Creature,Snow Knight Ogre of the Arctic Blizzards

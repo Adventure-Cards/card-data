@@ -1,46 +1,46 @@
-==================,DECK,7678,Light
-0,Creature,Common,Eagle
-1,Creature,Legendary,Snow Undead Orge of the Haven
-2,Creature,Common,Spider
-3,Creature,Common,Magi
-4,Spell,Common,Maelstrom
-5,Creature,Rare,Light Assassin Fairy
-6,Spell,Common,Burst
-7,Creature,Legendary,Snow Lord Orge of the Bright Mountains
-8,Artifact,Rare,Grim Belt
-9,Creature,Common,Orc
-10,Creature,Common,Warlock
-11,Creature,Common,Paladin
-12,Creature,Common,Elf
-13,Enchantment,Common,Age
-14,Creature,Common,Wolf
-15,Artifact,Legendary,Angry Scythe
-16,Enchantment,Common,Age
-17,Enchantment,Common,Invert
-18,Spell,Common,Stricken
-19,Spell,Legendary,Instant Frenzy
-20,Creature,Rare,Dark Lord Skin-Walker
-21,Creature,Common,Spider
-22,Enchantment,Common,Invert
-23,Enchantment,Common,Shrink
-24,Spell,Common,Burst
-25,Enchantment,Mythic,Instant Agony
-26,Creature,Legendary,Snow Assassin Kraken of the Magical Forest
-27,Creature,Legendary,Snow Priest Cyclops of the Bright Mountains
-28,Creature,Common,Warlock
-29,Spell,Common,Frenzy
-30,Creature,Rare,Earth Thief Hydra
-31,Creature,Common,Wolf
-32,Spell,Common,Burn
-33,Enchantment,Rare,Necro Shrink
-34,Spell,Rare,Forged Frenzy
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Elf
-37,Artifact,Common,Amulet
-38,Creature,Common,Paladin
-39,Creature,Common,Dwarf
-40,Creature,Common,Ghoul
-41,Creature,Rare,Frozen Knight Fairy
-42,Creature,Common,Eagle
-43,Creature,Common,Warlock
-44,Enchantment,Mythic,Instant Lethargy
+==================,DECK,7678
+0,Creature,Eagle
+1,Creature,Snow Undead Elf of the Haven
+2,Creature,Paladin
+3,Creature,Fairy
+4,Spell,Stricken
+5,Creature,Light Assassin Kraken
+6,Spell,Gravitation
+7,Creature,Snow Lord Elf of the Bright Mountains
+8,Artifact,Nimble Belt
+9,Creature,Spider
+10,Creature,Berserker
+11,Creature,Troll
+12,Creature,Warlock
+13,Enchantment,Flight
+14,Creature,Wolf
+15,Artifact,Dire Lunar Scythe
+16,Enchantment,Lethargy
+17,Enchantment,Lethargy
+18,Spell,Fireball
+19,Spell,Irate Shimmering Hypnosis
+20,Creature,Dark Lord Orc
+21,Creature,Paladin
+22,Enchantment,Age
+23,Enchantment,Shade
+24,Spell,Tempest
+25,Enchantment,Urgent Corpse Agony
+26,Creature,Snow Assassin Ogre of the Magical Forest
+27,Creature,Snow Priest Giant of the Bright Mountains
+28,Creature,Berserker
+29,Spell,Freeze
+30,Creature,Earth Thief Hydra
+31,Creature,Wolf
+32,Spell,Freeze
+33,Enchantment,Necro Agony
+34,Spell,Miracle Stun
+35,Enchantment,Invert
+36,Creature,Warlock
+37,Artifact,Amulet
+38,Creature,Troll
+39,Creature,Magi
+40,Creature,Ghoul
+41,Creature,Frozen Knight Kraken
+42,Creature,Eagle
+43,Creature,Berserker
+44,Enchantment,Irate Hateful Deathgrip

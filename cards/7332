@@ -1,46 +1,46 @@
-==================,DECK,7332,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Magi
-2,Spell,Rare,Gloom Invisibility
-3,Creature,Common,Goblin
-4,Spell,Common,Invisibility
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Wolf
-8,Enchantment,Common,Age
-9,Enchantment,Common,Strength
-10,Enchantment,Mythic,Intense Lethargy
-11,Spell,Common,Stun
-12,Creature,Rare,Light Fighter Skin-Walker
-13,Artifact,Common,Boots
-14,Enchantment,Mythic,Instant Lethargy
-15,Creature,Rare,Aura Queen Berserker
-16,Artifact,Common,Boots
-17,Spell,Common,Reanimate
-18,Creature,Common,Warlock
-19,Creature,Common,Eagle
-20,Enchantment,Common,Shrink
-21,Creature,Common,Magi
-22,Enchantment,Rare,Dark Shield
-23,Creature,Common,Eagle
-24,Creature,Common,Orc
-25,Creature,Common,Wolf
-26,Creature,Common,Magi
-27,Artifact,Rare,Grim Scepter
-28,Creature,Common,Elf
-29,Spell,Rare,Shimmering Fury
-30,Creature,Common,Warlock
-31,Artifact,Common,Ghost Wand
-32,Spell,Common,Infuriate
-33,Creature,Common,Orc
-34,Creature,Common,Warlock
-35,Creature,Common,Wolf
-36,Spell,Rare,Lunar Gale
-37,Enchantment,Common,Invert
-38,Spell,Common,Gravitation
-39,Spell,Common,Infuriate
-40,Creature,Rare,Snow Knight Hydra
-41,Spell,Common,Frost
-42,Spell,Common,Burn
-43,Enchantment,Rare,Frigid Alacrity
-44,Enchantment,Common,Age
+==================,DECK,7332
+0,Creature,Eagle
+1,Creature,Fairy
+2,Spell,Lunar Heal
+3,Creature,Skin-Walker
+4,Spell,Pandemonium
+5,Creature,Ghoul
+6,Enchantment,Deathgrip
+7,Creature,Wolf
+8,Enchantment,Deathgrip
+9,Enchantment,Haste
+10,Enchantment,Irate Hateful Deathgrip
+11,Spell,Burn
+12,Creature,Light Fighter Orc
+13,Artifact,Boots
+14,Enchantment,Irate Hateful Deathgrip
+15,Creature,Aura Queen Goblin
+16,Artifact,Boots
+17,Spell,Fire
+18,Creature,Berserker
+19,Creature,Eagle
+20,Enchantment,Age
+21,Creature,Fairy
+22,Enchantment,Gloom Alacrity
+23,Creature,Eagle
+24,Creature,Spider
+25,Creature,Wolf
+26,Creature,Fairy
+27,Artifact,Oblivion Scepter
+28,Creature,Warlock
+29,Spell,Shimmering Vortex
+30,Creature,Berserker
+31,Artifact,Ghost Wand
+32,Spell,Frost
+33,Creature,Spider
+34,Creature,Berserker
+35,Creature,Wolf
+36,Spell,Gloom Frost
+37,Enchantment,Blight
+38,Spell,Lightning
+39,Spell,Invisibility
+40,Creature,Snow Knight Hydra
+41,Spell,Stricken
+42,Spell,Lightning
+43,Enchantment,Apocalypse Haste
+44,Enchantment,Invert

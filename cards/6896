@@ -1,46 +1,46 @@
-==================,DECK,6896,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Fury
-2,Spell,Common,Frost
-3,Artifact,Common,Crown
-4,Spell,Common,Wall
-5,Creature,Common,Spider
-6,Creature,Rare,Death Rogue Berserker
-7,Spell,Common,Frenzy
-8,Spell,Legendary,Extreme Frenzy
-9,Enchantment,Common,Blight
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Common,Goblin
-13,Creature,Common,Elf
-14,Artifact,Common,Staff
-15,Creature,Legendary,Death Warrior Cyclops of the Haven
-16,Creature,Common,Paladin
-17,Creature,Common,Warlock
-18,Creature,Common,Warlock
-19,Creature,Common,Ghoul
-20,Creature,Common,Wolf
-21,Creature,Common,Paladin
-22,Spell,Common,Gravitation
-23,Artifact,Common,Potion
-24,Spell,Common,Assault
-25,Enchantment,Common,Flight
-26,Creature,Mythic,Light Time Dragon of the Sky
-27,Creature,Common,Wolf
-28,Artifact,Common,Sword
-29,Creature,Legendary,Death Monk Orge of the Bright Mountains
-30,Enchantment,Common,Shade
-31,Spell,Rare,Hateful Maelstrom
-32,Spell,Common,Revive
-33,Creature,Common,Elf
-34,Spell,Common,Pandemonium
-35,Creature,Common,Orc
-36,Artifact,Common,Boots
-37,Creature,Common,Goblin
-38,Creature,Common,Warlock
-39,Spell,Common,Hypnosis
-40,Spell,Rare,Shimmering Hypnosis
-41,Creature,Common,Dwarf
-42,Artifact,Common,Gauntlet
-43,Artifact,Legendary,Clever Sword
-44,Creature,Common,Goblin
+==================,DECK,6896
+0,Creature,Eagle
+1,Spell,Frost
+2,Spell,Gravitation
+3,Artifact,Crown
+4,Spell,Gravitation
+5,Creature,Paladin
+6,Creature,Death Rogue Goblin
+7,Spell,Frost
+8,Spell,Irate Gloom Sorrow
+9,Enchantment,Lethargy
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Skin-Walker
+13,Creature,Warlock
+14,Artifact,Staff
+15,Creature,Death Warrior Giant of the Haven
+16,Creature,Troll
+17,Creature,Berserker
+18,Creature,Berserker
+19,Creature,Ghoul
+20,Creature,Wolf
+21,Creature,Troll
+22,Spell,Frost
+23,Artifact,Potion
+24,Spell,Assault
+25,Enchantment,Blight
+26,Creature,Light Time Dragon of the Sky
+27,Creature,Wolf
+28,Artifact,Sword
+29,Creature,Death Monk Elf of the Bright Mountains
+30,Enchantment,Invert
+31,Spell,Sorrow Reanimate
+32,Spell,Gravitation
+33,Creature,Warlock
+34,Spell,Gravitation
+35,Creature,Spider
+36,Artifact,Boots
+37,Creature,Skin-Walker
+38,Creature,Berserker
+39,Spell,Gale
+40,Spell,Solar Burn
+41,Creature,Magi
+42,Artifact,Gauntlet
+43,Artifact,Instant Oblivion Sword
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,5607,Medium
-0,Creature,Common,Wolf
-1,Creature,Common,Elf
-2,Creature,Common,Magi
-3,Spell,Common,Fury
-4,Enchantment,Mythic,Urgent Age
-5,Enchantment,Legendary,Instant Agony
-6,Spell,Common,Gravitation
-7,Creature,Rare,Dark Warrior Fairy
-8,Enchantment,Common,Shade
-9,Creature,Common,Orc
-10,Creature,Rare,Aura Undead Minotaur
-11,Creature,Common,Dwarf
-12,Creature,Common,Goblin
-13,Creature,Common,Eagle
-14,Creature,Common,Elf
-15,Creature,Mythic,Aura Time Phoenix of the Light
-16,Creature,Rare,Aura Lord Berserker
-17,Enchantment,Common,Lethargy
-18,Spell,Common,Burst
-19,Spell,Common,Maelstrom
-20,Creature,Common,Warlock
-21,Creature,Mythic,Light Time Phoenix of the Sky
-22,Creature,Common,Orc
-23,Creature,Rare,Frozen King Minotaur
-24,Spell,Rare,Nature Stun
-25,Creature,Common,Eagle
-26,Creature,Rare,Aura Fighter Berserker
-27,Creature,Common,Wolf
-28,Creature,Common,Spider
-29,Artifact,Common,Ring
-30,Spell,Common,Assault
-31,Creature,Common,Spider
-32,Artifact,Common,Scythe
-33,Spell,Rare,Cataclysmic Sorrow
-34,Creature,Common,Paladin
-35,Creature,Legendary,Death Monk Cyclops of the Eternal Land
-36,Spell,Common,Stricken
-37,Creature,Common,Paladin
-38,Creature,Common,Magi
-39,Enchantment,Rare,Nature Drain
-40,Spell,Common,Heal
-41,Creature,Legendary,Light Merchant Orge of the Arctic Blizzards
-42,Creature,Mythic,Frozen Chaos Demon of the Void
-43,Spell,Common,Gravitation
-44,Creature,Common,Orc
+==================,DECK,5607
+0,Creature,Wolf
+1,Creature,Warlock
+2,Creature,Fairy
+3,Spell,Frenzy
+4,Enchantment,Empyrean Nature Age
+5,Enchantment,Urgent Corpse Agony
+6,Spell,Rage
+7,Creature,Dark Warrior Kraken
+8,Enchantment,Haste
+9,Creature,Spider
+10,Creature,Aura Undead Cyclops
+11,Creature,Magi
+12,Creature,Skin-Walker
+13,Creature,Eagle
+14,Creature,Warlock
+15,Creature,Aura Time Phoenix of the Light
+16,Creature,Aura Lord Goblin
+17,Enchantment,Firebreath
+18,Spell,Burst
+19,Spell,Infuriate
+20,Creature,Berserker
+21,Creature,Light Time Phoenix of the Sky
+22,Creature,Spider
+23,Creature,Frozen King Cyclops
+24,Spell,Necro Stricken
+25,Creature,Eagle
+26,Creature,Aura Fighter Goblin
+27,Creature,Wolf
+28,Creature,Paladin
+29,Artifact,Ring
+30,Spell,Infuriate
+31,Creature,Paladin
+32,Artifact,Scythe
+33,Spell,Lunar Heal
+34,Creature,Troll
+35,Creature,Death Monk Giant of the Eternal Land
+36,Spell,Tempest
+37,Creature,Troll
+38,Creature,Fairy
+39,Enchantment,Forged Age
+40,Spell,Fury
+41,Creature,Light Merchant Elf of the Arctic Blizzards
+42,Creature,Frozen Chaos Demon of the Void
+43,Spell,Gravitation
+44,Creature,Spider

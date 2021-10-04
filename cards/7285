@@ -1,46 +1,46 @@
-==================,DECK,7285,Medium
-0,Enchantment,Common,Invert
-1,Spell,Rare,Necro Fury
-2,Creature,Common,Orc
-3,Creature,Common,Paladin
-4,Enchantment,Common,Haste
-5,Creature,Common,Orc
-6,Creature,Legendary,Earth Merchant Giant of the Black Stone
-7,Creature,Common,Elf
-8,Creature,Rare,Frozen Undead Minotaur
-9,Creature,Rare,Snow Knight Minotaur
-10,Spell,Legendary,Potent Pandemonium
-11,Creature,Legendary,Death Fighter Cyclops of the Eternal Land
-12,Creature,Common,Ghoul
-13,Creature,Common,Paladin
-14,Enchantment,Rare,Dark Alacrity
-15,Spell,Common,Vortex
-16,Creature,Rare,Frozen Fighter Berserker
-17,Creature,Common,Goblin
-18,Creature,Common,Elf
-19,Enchantment,Common,Agony
-20,Creature,Mythic,Dark Nameless Phoenix of Illusion
-21,Creature,Common,Spider
-22,Creature,Common,Eagle
-23,Spell,Common,Burst
-24,Enchantment,Legendary,Dire Invert
-25,Creature,Legendary,Aura Thief Cyclops of the Magical Forest
-26,Enchantment,Common,Strength
-27,Enchantment,Common,Strength
-28,Creature,Common,Orc
-29,Creature,Common,Paladin
-30,Enchantment,Legendary,Angry Invert
-31,Creature,Common,Orc
-32,Artifact,Common,Staff
-33,Creature,Common,Dwarf
-34,Creature,Common,Goblin
-35,Spell,Mythic,Intense Sorrow
-36,Enchantment,Rare,Gloom Shield
-37,Creature,Common,Elf
-38,Creature,Rare,Snow Assassin Skin-Walker
-39,Spell,Common,Pandemonium
-40,Artifact,Common,Greaves
-41,Creature,Common,Wolf
-42,Creature,Common,Goblin
-43,Creature,Rare,Dark Priest Fairy
-44,Spell,Common,Assault
+==================,DECK,7285
+0,Enchantment,Strength
+1,Spell,Forged Pandemonium
+2,Creature,Spider
+3,Creature,Troll
+4,Enchantment,Invert
+5,Creature,Spider
+6,Creature,Earth Merchant Dwarf of the Black Stone
+7,Creature,Warlock
+8,Creature,Frozen Undead Cyclops
+9,Creature,Snow Knight Cyclops
+10,Spell,Zealous Grim Hypnosis
+11,Creature,Death Fighter Giant of the Eternal Land
+12,Creature,Ghoul
+13,Creature,Troll
+14,Enchantment,Dark Shrink
+15,Spell,Burn
+16,Creature,Frozen Fighter Goblin
+17,Creature,Skin-Walker
+18,Creature,Warlock
+19,Enchantment,Firebreath
+20,Creature,Dark Nameless Phoenix of Illusion
+21,Creature,Paladin
+22,Creature,Eagle
+23,Spell,Pandemonium
+24,Enchantment,Ardent Oblivion Haste
+25,Creature,Aura Thief Giant of the Magical Forest
+26,Enchantment,Drain
+27,Enchantment,Strength
+28,Creature,Spider
+29,Creature,Troll
+30,Enchantment,Instant Sorrow Shrink
+31,Creature,Spider
+32,Artifact,Staff
+33,Creature,Magi
+34,Creature,Skin-Walker
+35,Spell,Mighty Nature Frost
+36,Enchantment,Gloom Shrink
+37,Creature,Warlock
+38,Creature,Snow Assassin Orc
+39,Spell,Wall
+40,Artifact,Greaves
+41,Creature,Wolf
+42,Creature,Skin-Walker
+43,Creature,Dark Priest Kraken
+44,Spell,Infuriate

@@ -1,46 +1,46 @@
-==================,DECK,7022,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Orc
-2,Creature,Rare,Snow Knight Griffin
-3,Creature,Common,Elf
-4,Creature,Common,Warlock
-5,Spell,Common,Heal
-6,Artifact,Rare,Miracle Pendant
-7,Spell,Common,Gravitation
-8,Spell,Common,Lightning
-9,Artifact,Rare,Nature Amulet
-10,Enchantment,Common,Flight
-11,Spell,Legendary,Mighty Stun
-12,Creature,Mythic,Earth Undead Phoenix of the Shadows
-13,Spell,Rare,Corpse Freeze
-14,Enchantment,Rare,Miracle Blight
-15,Enchantment,Mythic,Clever Shield
-16,Creature,Rare,Frozen Monk Skin-Walker
-17,Enchantment,Common,Shrink
-18,Spell,Rare,Oblivion Assault
-19,Spell,Common,Freeze
-20,Creature,Legendary,Dark Thief Kraken of the Black Stone
-21,Creature,Rare,Frozen Lord Minotaur
-22,Artifact,Common,Divine Robe
-23,Spell,Common,Frenzy
-24,Enchantment,Common,Strength
-25,Spell,Common,Reanimate
-26,Enchantment,Legendary,Potent Haste
-27,Creature,Common,Ghoul
-28,Creature,Legendary,Aura Priest Giant of the Magical Forest
-29,Creature,Rare,Dark Assassin Fairy
-30,Creature,Rare,Aura Merchant Hydra
-31,Creature,Common,Paladin
-32,Creature,Rare,Light Queen Griffin
-33,Creature,Common,Wolf
-34,Enchantment,Mythic,Mighty Alacrity
-35,Creature,Rare,Frozen Priest Minotaur
-36,Creature,Rare,Aura Merchant Minotaur
-37,Spell,Common,Assault
-38,Spell,Common,Rage
-39,Creature,Common,Goblin
-40,Enchantment,Common,Agony
-41,Artifact,Legendary,Potent Shield
-42,Enchantment,Legendary,Extreme Haste
-43,Enchantment,Common,Shield
-44,Creature,Common,Magi
+==================,DECK,7022
+0,Creature,Spider
+1,Creature,Spider
+2,Creature,Snow Knight Griffin
+3,Creature,Warlock
+4,Creature,Berserker
+5,Spell,Maelstrom
+6,Artifact,Frigid Pendant
+7,Spell,Vortex
+8,Spell,Fire
+9,Artifact,Shimmering Amulet
+10,Enchantment,Shrink
+11,Spell,Clever Dark Burn
+12,Creature,Earth Undead Phoenix of the Shadows
+13,Spell,Forged Rage
+14,Enchantment,Nimble Drain
+15,Enchantment,Instant Victory Drain
+16,Creature,Frozen Monk Orc
+17,Enchantment,Alacrity
+18,Spell,Victory Assault
+19,Spell,Invisibility
+20,Creature,Dark Thief Ogre of the Black Stone
+21,Creature,Frozen Lord Cyclops
+22,Artifact,Divine Robe
+23,Spell,Tempest
+24,Enchantment,Alacrity
+25,Spell,Frost
+26,Enchantment,Zealous Life Blight
+27,Creature,Ghoul
+28,Creature,Aura Priest Dwarf of the Magical Forest
+29,Creature,Dark Assassin Kraken
+30,Creature,Aura Merchant Hydra
+31,Creature,Troll
+32,Creature,Light Queen Griffin
+33,Creature,Wolf
+34,Enchantment,Irate Dark Alacrity
+35,Creature,Frozen Priest Cyclops
+36,Creature,Aura Merchant Cyclops
+37,Spell,Burn
+38,Spell,Fury
+39,Creature,Skin-Walker
+40,Enchantment,Agony
+41,Artifact,Empyrean Nimble Shield
+42,Enchantment,Potent Miracle Shrink
+43,Enchantment,Shrink
+44,Creature,Fairy

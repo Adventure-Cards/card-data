@@ -1,46 +1,46 @@
-==================,DECK,6714,Light
-0,Enchantment,Common,Flight
-1,Enchantment,Mythic,Dire Haste
-2,Creature,Common,Eagle
-3,Creature,Common,Orc
-4,Artifact,Rare,Nature Divine Robe
-5,Creature,Common,Magi
-6,Spell,Common,Invisibility
-7,Enchantment,Common,Shield
-8,Creature,Common,Ghoul
-9,Creature,Common,Elf
-10,Spell,Legendary,Dire Infuriate
-11,Creature,Common,Warlock
-12,Creature,Common,Spider
-13,Creature,Common,Ghoul
-14,Creature,Legendary,Death Fighter Giant of the Eastern Skies
-15,Spell,Legendary,Mighty Gravitation
-16,Creature,Common,Eagle
-17,Creature,Common,Elf
-18,Spell,Common,Maelstrom
-19,Artifact,Legendary,Extreme Crown
-20,Artifact,Common,Sword
-21,Creature,Common,Goblin
-22,Spell,Legendary,Potent Wall
-23,Creature,Common,Eagle
-24,Creature,Common,Elf
-25,Creature,Legendary,Dark Warrior Oni of the Golden Palace
-26,Creature,Rare,Snow Queen Berserker
-27,Artifact,Rare,Lunar Tome
-28,Creature,Rare,Death Warrior Hydra
-29,Artifact,Common,Scythe
-30,Enchantment,Common,Haste
-31,Enchantment,Rare,Apocalypse Shrink
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Warlock
-35,Enchantment,Common,Drain
-36,Creature,Common,Spider
-37,Creature,Rare,Aura Lord Minotaur
-38,Creature,Common,Warlock
-39,Artifact,Common,Ghost Wand
-40,Creature,Legendary,Earth Undead Kraken of the Mountains
-41,Spell,Rare,Frigid Gravitation
-42,Creature,Rare,Snow Undead Skin-Walker
-43,Enchantment,Common,Agony
-44,Creature,Legendary,Frozen Monk Cyclops of the Frozen Castle
+==================,DECK,6714
+0,Enchantment,Shield
+1,Enchantment,Clever Life Haste
+2,Creature,Eagle
+3,Creature,Spider
+4,Artifact,Solar Divine Robe
+5,Creature,Fairy
+6,Spell,Infuriate
+7,Enchantment,Firebreath
+8,Creature,Ghoul
+9,Creature,Warlock
+10,Spell,Mighty Victory Sorrow
+11,Creature,Berserker
+12,Creature,Paladin
+13,Creature,Ghoul
+14,Creature,Death Fighter Dwarf of the Eastern Skies
+15,Spell,Instant Dark Fireball
+16,Creature,Eagle
+17,Creature,Warlock
+18,Spell,Hypnosis
+19,Artifact,Irate Gloom Crown
+20,Artifact,Sword
+21,Creature,Skin-Walker
+22,Spell,Instant Life Fire
+23,Creature,Eagle
+24,Creature,Warlock
+25,Creature,Dark Warrior Oni of the Golden Palace
+26,Creature,Snow Queen Goblin
+27,Artifact,Lunar Tome
+28,Creature,Death Warrior Hydra
+29,Artifact,Scythe
+30,Enchantment,Agony
+31,Enchantment,Frigid Invert
+32,Creature,Magi
+33,Enchantment,Shrink
+34,Creature,Berserker
+35,Enchantment,Drain
+36,Creature,Paladin
+37,Creature,Aura Lord Cyclops
+38,Creature,Berserker
+39,Artifact,Ghost Wand
+40,Creature,Earth Undead Ogre of the Mountains
+41,Spell,Life Assault
+42,Creature,Snow Undead Orc
+43,Enchantment,Haste
+44,Creature,Frozen Monk Giant of the Frozen Castle

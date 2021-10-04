@@ -1,46 +1,46 @@
-==================,DECK,5721,Light
-0,Spell,Common,Rage
-1,Creature,Common,Eagle
-2,Artifact,Common,Amulet
-3,Artifact,Legendary,Instant Helmet
-4,Enchantment,Rare,Nimble Alacrity
-5,Artifact,Common,Gloves
-6,Creature,Legendary,Snow Thief Orge of the Swamp
-7,Creature,Legendary,Snow Merchant Oni of the Polar Woods
-8,Enchantment,Common,Strength
-9,Enchantment,Common,Flight
-10,Creature,Legendary,Aura Priest Orge of the Swamp
-11,Spell,Common,Gravitation
-12,Spell,Common,Burst
-13,Creature,Common,Elf
-14,Creature,Legendary,Earth Assassin Orge of the Haven
-15,Creature,Common,Warlock
-16,Creature,Common,Paladin
-17,Enchantment,Mythic,Urgent Age
-18,Spell,Common,Torment
-19,Creature,Common,Paladin
-20,Spell,Common,Wall
-21,Spell,Common,Reanimate
-22,Creature,Rare,Earth Rogue Berserker
-23,Creature,Legendary,Death Thief Giant of the Low Hills
-24,Creature,Common,Eagle
-25,Creature,Common,Orc
-26,Creature,Rare,Dark Priest Minotaur
-27,Creature,Common,Warlock
-28,Creature,Common,Spider
-29,Artifact,Common,Divine Robe
-30,Spell,Rare,Nature Sorrow
-31,Creature,Common,Spider
-32,Creature,Rare,Earth Assassin Berserker
-33,Creature,Rare,Death Merchant Berserker
-34,Creature,Common,Eagle
-35,Enchantment,Common,Drain
-36,Artifact,Common,Bow
-37,Spell,Common,Burst
-38,Spell,Common,Wall
-39,Creature,Common,Orc
-40,Creature,Common,Ghoul
-41,Creature,Rare,Snow Assassin Hydra
-42,Creature,Legendary,Light Lord Oni of the Magical Forest
-43,Artifact,Common,Scythe
-44,Creature,Common,Goblin
+==================,DECK,5721
+0,Spell,Tempest
+1,Creature,Eagle
+2,Artifact,Amulet
+3,Artifact,Irate Hateful Helmet
+4,Enchantment,Forged Agony
+5,Artifact,Gloves
+6,Creature,Snow Thief Elf of the Swamp
+7,Creature,Snow Merchant Oni of the Polar Woods
+8,Enchantment,Shield
+9,Enchantment,Shield
+10,Creature,Aura Priest Elf of the Swamp
+11,Spell,Rage
+12,Spell,Freeze
+13,Creature,Warlock
+14,Creature,Earth Assassin Elf of the Haven
+15,Creature,Berserker
+16,Creature,Troll
+17,Enchantment,Zealous Nature Deathgrip
+18,Spell,Gravitation
+19,Creature,Troll
+20,Spell,Infuriate
+21,Spell,Gale
+22,Creature,Earth Rogue Goblin
+23,Creature,Death Thief Dwarf of the Low Hills
+24,Creature,Eagle
+25,Creature,Spider
+26,Creature,Dark Priest Cyclops
+27,Creature,Berserker
+28,Creature,Paladin
+29,Artifact,Divine Robe
+30,Spell,Nature Stricken
+31,Creature,Paladin
+32,Creature,Earth Assassin Goblin
+33,Creature,Death Merchant Goblin
+34,Creature,Eagle
+35,Enchantment,Deathgrip
+36,Artifact,Bow
+37,Spell,Burst
+38,Spell,Fire
+39,Creature,Spider
+40,Creature,Ghoul
+41,Creature,Snow Assassin Hydra
+42,Creature,Light Lord Oni of the Magical Forest
+43,Artifact,Scythe
+44,Creature,Skin-Walker

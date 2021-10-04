@@ -1,46 +1,46 @@
-==================,DECK,4190,Medium
-0,Creature,Common,Paladin
-1,Creature,Common,Orc
-2,Enchantment,Rare,Cataclysmic Haste
-3,Creature,Rare,Dark Undead Skin-Walker
-4,Spell,Legendary,Potent Wall
-5,Creature,Rare,Dark Monk Griffin
-6,Creature,Common,Eagle
-7,Enchantment,Common,Blight
-8,Creature,Common,Paladin
-9,Enchantment,Legendary,Angry Shrink
-10,Artifact,Common,Scythe
-11,Creature,Common,Spider
-12,Spell,Rare,Cataclysmic Burst
-13,Creature,Rare,Snow Warrior Berserker
-14,Enchantment,Legendary,Clever Age
-15,Enchantment,Common,Strength
-16,Creature,Common,Warlock
-17,Artifact,Rare,Forged Sword
-18,Artifact,Rare,Corpse Helm
-19,Artifact,Rare,Lunar Sword
-20,Creature,Common,Warlock
-21,Artifact,Common,Staff
-22,Creature,Common,Spider
-23,Spell,Common,Reanimate
-24,Creature,Rare,Frozen Undead Minotaur
-25,Creature,Common,Goblin
-26,Spell,Common,Stricken
-27,Creature,Rare,Death Priest Skin-Walker
-28,Creature,Rare,Earth Queen Fairy
-29,Creature,Common,Dwarf
-30,Creature,Common,Paladin
-31,Creature,Rare,Death Queen Skin-Walker
-32,Creature,Common,Warlock
-33,Creature,Rare,Dark King Skin-Walker
-34,Creature,Common,Wolf
-35,Enchantment,Rare,Forged Invert
-36,Creature,Common,Elf
-37,Spell,Mythic,Intense Frenzy
-38,Spell,Rare,Necro Reanimate
-39,Enchantment,Legendary,Potent Shield
-40,Enchantment,Rare,Lunar Haste
-41,Creature,Rare,Light Monk Fairy
-42,Creature,Rare,Frozen Merchant Berserker
-43,Enchantment,Common,Haste
-44,Creature,Mythic,Earth Time Phoenix of the Shadows
+==================,DECK,4190
+0,Creature,Troll
+1,Creature,Spider
+2,Enchantment,Miracle Firebreath
+3,Creature,Dark Undead Orc
+4,Spell,Irate Apocalypse Revive
+5,Creature,Dark Monk Griffin
+6,Creature,Eagle
+7,Enchantment,Lethargy
+8,Creature,Troll
+9,Enchantment,Zealous Chimeric Alacrity
+10,Artifact,Scythe
+11,Creature,Paladin
+12,Spell,Miracle Fire
+13,Creature,Snow Warrior Goblin
+14,Enchantment,Clever Victory Haste
+15,Enchantment,Shield
+16,Creature,Berserker
+17,Artifact,Cataclysmic Sword
+18,Artifact,Forged Helm
+19,Artifact,Chimeric Sword
+20,Creature,Berserker
+21,Artifact,Staff
+22,Creature,Paladin
+23,Spell,Gale
+24,Creature,Frozen Undead Cyclops
+25,Creature,Skin-Walker
+26,Spell,Pandemonium
+27,Creature,Death Priest Orc
+28,Creature,Earth Queen Kraken
+29,Creature,Magi
+30,Creature,Troll
+31,Creature,Death Queen Orc
+32,Creature,Berserker
+33,Creature,Dark King Orc
+34,Creature,Wolf
+35,Enchantment,Sorrow Alacrity
+36,Creature,Warlock
+37,Spell,Ardent Forged Infuriate
+38,Spell,Necro Infuriate
+39,Enchantment,Irate Victory Blight
+40,Enchantment,Miracle Flight
+41,Creature,Light Monk Kraken
+42,Creature,Frozen Merchant Goblin
+43,Enchantment,Firebreath
+44,Creature,Earth Time Phoenix of the Shadows

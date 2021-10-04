@@ -1,46 +1,46 @@
-==================,DECK,6790,Strong
-0,Spell,Common,Wall
-1,Creature,Common,Warlock
-2,Spell,Common,Hypnosis
-3,Creature,Rare,Dark Queen Berserker
-4,Spell,Legendary,Mighty Wall
-5,Creature,Common,Spider
-6,Creature,Mythic,Frozen Nameless Phoenix of the Void
-7,Spell,Mythic,Clever Burst
-8,Enchantment,Rare,Life Haste
-9,Creature,Rare,Earth Knight Berserker
-10,Creature,Mythic,Frozen Undead Phoenix of the Void
-11,Enchantment,Common,Shrink
-12,Creature,Rare,Earth Knight Griffin
-13,Enchantment,Common,Flight
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Agony
-16,Spell,Common,Invisibility
-17,Spell,Common,Fury
-18,Artifact,Common,Sigil
-19,Creature,Common,Elf
-20,Creature,Common,Orc
-21,Spell,Legendary,Mighty Lightning
-22,Creature,Mythic,Light Undead Dragon of the Sky
-23,Enchantment,Rare,Frigid Agony
-24,Creature,Legendary,Dark Assassin Giant of the Swamp
-25,Enchantment,Common,Shrink
-26,Spell,Rare,Miracle Hypnosis
-27,Spell,Rare,Miracle Gale
-28,Creature,Common,Dwarf
-29,Spell,Common,Burst
-30,Creature,Rare,Earth Knight Skin-Walker
-31,Creature,Common,Elf
-32,Creature,Common,Goblin
-33,Creature,Mythic,Light Undead Phoenix of the Sky
-34,Spell,Legendary,Angry Freeze
-35,Enchantment,Rare,Solar Agony
-36,Creature,Common,Elf
-37,Creature,Rare,Light Undead Skin-Walker
-38,Spell,Common,Vortex
-39,Artifact,Legendary,Mighty Ring
-40,Creature,Legendary,Dark Warrior Orge of the Mountains
-41,Spell,Common,Burst
-42,Spell,Common,Revive
-43,Spell,Common,Gravitation
-44,Artifact,Rare,Oblivion Gauntlet
+==================,DECK,6790
+0,Spell,Invisibility
+1,Creature,Berserker
+2,Spell,Lightning
+3,Creature,Dark Queen Goblin
+4,Spell,Irate Dark Burn
+5,Creature,Paladin
+6,Creature,Frozen Nameless Phoenix of the Void
+7,Spell,Potent Frigid Rage
+8,Enchantment,Life Haste
+9,Creature,Earth Knight Goblin
+10,Creature,Frozen Undead Phoenix of the Void
+11,Enchantment,Agony
+12,Creature,Earth Knight Griffin
+13,Enchantment,Lethargy
+14,Creature,Ghoul
+15,Enchantment,Shrink
+16,Spell,Burn
+17,Spell,Torment
+18,Artifact,Sigil
+19,Creature,Warlock
+20,Creature,Spider
+21,Spell,Ardent Sorrow Burn
+22,Creature,Light Undead Dragon of the Sky
+23,Enchantment,Life Haste
+24,Creature,Dark Assassin Dwarf of the Swamp
+25,Enchantment,Deathgrip
+26,Spell,Oblivion Frenzy
+27,Spell,Nimble Reanimate
+28,Creature,Magi
+29,Spell,Burst
+30,Creature,Earth Knight Orc
+31,Creature,Warlock
+32,Creature,Skin-Walker
+33,Creature,Light Undead Phoenix of the Sky
+34,Spell,Irate Miracle Lightning
+35,Enchantment,Corpse Strength
+36,Creature,Warlock
+37,Creature,Light Undead Orc
+38,Spell,Burn
+39,Artifact,Potent Cataclysmic Ring
+40,Creature,Dark Warrior Elf of the Mountains
+41,Spell,Vortex
+42,Spell,Freeze
+43,Spell,Maelstrom
+44,Artifact,Frigid Gauntlet

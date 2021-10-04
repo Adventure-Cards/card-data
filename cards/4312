@@ -1,46 +1,46 @@
-==================,DECK,4312,Light
-0,Creature,Common,Magi
-1,Creature,Legendary,Frozen Monk Kraken of the Border
-2,Creature,Common,Eagle
-3,Creature,Legendary,Frozen Thief Oni of the Black Stone
-4,Enchantment,Common,Agony
-5,Creature,Common,Wolf
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Eagle
-8,Artifact,Rare,Necro Staff
-9,Creature,Legendary,Dark Rogue Giant of the Eternal Land
-10,Enchantment,Common,Haste
-11,Enchantment,Common,Invert
-12,Creature,Common,Eagle
-13,Spell,Rare,Nimble Frenzy
-14,Enchantment,Common,Shade
-15,Creature,Common,Eagle
-16,Creature,Common,Eagle
-17,Spell,Common,Vortex
-18,Enchantment,Rare,Corpse Alacrity
-19,Enchantment,Rare,Apocalypse Flight
-20,Artifact,Common,Belt
-21,Creature,Rare,Light King Hydra
-22,Spell,Rare,Frigid Heal
-23,Creature,Common,Elf
-24,Creature,Common,Paladin
-25,Spell,Common,Heal
-26,Creature,Common,Magi
-27,Spell,Common,Freeze
-28,Creature,Common,Magi
-29,Creature,Common,Magi
-30,Creature,Mythic,Aura Nameless Phoenix of the Light
-31,Artifact,Common,Crown
-32,Enchantment,Common,Agony
-33,Spell,Common,Revive
-34,Creature,Rare,Earth Queen Hydra
-35,Enchantment,Common,Shield
-36,Enchantment,Legendary,Clever Shade
-37,Creature,Common,Orc
-38,Spell,Common,Frost
-39,Enchantment,Mythic,Clever Shade
-40,Artifact,Common,Ring
-41,Enchantment,Common,Alacrity
-42,Creature,Mythic,Light Undead Phoenix of the Sky
-43,Creature,Common,Spider
-44,Spell,Common,Fury
+==================,DECK,4312
+0,Creature,Fairy
+1,Creature,Frozen Monk Ogre of the Border
+2,Creature,Eagle
+3,Creature,Frozen Thief Oni of the Black Stone
+4,Enchantment,Shade
+5,Creature,Wolf
+6,Enchantment,Alacrity
+7,Creature,Eagle
+8,Artifact,Solar Staff
+9,Creature,Dark Rogue Dwarf of the Eternal Land
+10,Enchantment,Invert
+11,Enchantment,Shrink
+12,Creature,Eagle
+13,Spell,Forged Burst
+14,Enchantment,Shade
+15,Creature,Eagle
+16,Creature,Eagle
+17,Spell,Frost
+18,Enchantment,Forged Agony
+19,Enchantment,Grim Blight
+20,Artifact,Belt
+21,Creature,Light King Hydra
+22,Spell,Apocalypse Burst
+23,Creature,Warlock
+24,Creature,Troll
+25,Spell,Gravitation
+26,Creature,Fairy
+27,Spell,Heal
+28,Creature,Fairy
+29,Creature,Fairy
+30,Creature,Aura Nameless Phoenix of the Light
+31,Artifact,Crown
+32,Enchantment,Invert
+33,Spell,Maelstrom
+34,Creature,Earth Queen Hydra
+35,Enchantment,Agony
+36,Enchantment,Ardent Frigid Haste
+37,Creature,Spider
+38,Spell,Freeze
+39,Enchantment,Irate Frigid Blight
+40,Artifact,Ring
+41,Enchantment,Shield
+42,Creature,Light Undead Phoenix of the Sky
+43,Creature,Paladin
+44,Spell,Lightning

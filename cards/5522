@@ -1,46 +1,46 @@
-==================,DECK,5522,Light
-0,Creature,Common,Orc
-1,Creature,Rare,Dark Rogue Berserker
-2,Creature,Common,Orc
-3,Creature,Common,Orc
-4,Creature,Legendary,Death Undead Cyclops of the Low Hills
-5,Creature,Common,Paladin
-6,Spell,Common,Burst
-7,Enchantment,Common,Strength
-8,Artifact,Rare,Gloom Scepter
-9,Enchantment,Rare,Shimmering Deathgrip
-10,Artifact,Common,Divine Robe
-11,Spell,Common,Vortex
-12,Creature,Common,Ghoul
-13,Creature,Mythic,Aura Chaos Wizard of the Light
-14,Enchantment,Common,Flight
-15,Creature,Common,Warlock
-16,Creature,Common,Magi
-17,Enchantment,Common,Strength
-18,Spell,Common,Freeze
-19,Creature,Common,Spider
-20,Creature,Common,Paladin
-21,Artifact,Common,Helmet
-22,Artifact,Common,Scythe
-23,Enchantment,Common,Deathgrip
-24,Enchantment,Common,Haste
-25,Artifact,Common,Bow
-26,Creature,Common,Ghoul
-27,Artifact,Common,Cloak
-28,Creature,Mythic,Death Chaos Demon of the Dead
-29,Enchantment,Common,Haste
-30,Artifact,Common,Belt
-31,Creature,Common,Elf
-32,Creature,Common,Dwarf
-33,Creature,Common,Orc
-34,Enchantment,Rare,Nature Haste
-35,Creature,Common,Warlock
-36,Creature,Common,Ghoul
-37,Spell,Legendary,Angry Sorrow
-38,Spell,Legendary,Instant Maelstrom
-39,Creature,Common,Magi
-40,Creature,Common,Elf
-41,Enchantment,Common,Shade
-42,Spell,Common,Fury
-43,Spell,Common,Maelstrom
-44,Artifact,Rare,Cataclysmic Greaves
+==================,DECK,5522
+0,Creature,Spider
+1,Creature,Dark Rogue Goblin
+2,Creature,Spider
+3,Creature,Spider
+4,Creature,Death Undead Giant of the Low Hills
+5,Creature,Troll
+6,Spell,Tempest
+7,Enchantment,Flight
+8,Artifact,Sorrow Scepter
+9,Enchantment,Shimmering Age
+10,Artifact,Divine Robe
+11,Spell,Revive
+12,Creature,Ghoul
+13,Creature,Aura Chaos Wizard of the Light
+14,Enchantment,Firebreath
+15,Creature,Berserker
+16,Creature,Fairy
+17,Enchantment,Deathgrip
+18,Spell,Heal
+19,Creature,Paladin
+20,Creature,Troll
+21,Artifact,Helmet
+22,Artifact,Scythe
+23,Enchantment,Invert
+24,Enchantment,Flight
+25,Artifact,Bow
+26,Creature,Ghoul
+27,Artifact,Cloak
+28,Creature,Death Chaos Demon of the Dead
+29,Enchantment,Shrink
+30,Artifact,Belt
+31,Creature,Warlock
+32,Creature,Magi
+33,Creature,Spider
+34,Enchantment,Corpse Strength
+35,Creature,Berserker
+36,Creature,Ghoul
+37,Spell,Clever Cataclysmic Tempest
+38,Spell,Clever Solar Gale
+39,Creature,Fairy
+40,Creature,Warlock
+41,Enchantment,Alacrity
+42,Spell,Pandemonium
+43,Spell,Stricken
+44,Artifact,Gloom Greaves

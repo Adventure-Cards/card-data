@@ -1,46 +1,46 @@
-==================,DECK,4318,Medium
-0,Enchantment,Common,Shield
-1,Creature,Rare,Aura Assassin Fairy
-2,Spell,Common,Torment
-3,Creature,Common,Spider
-4,Creature,Rare,Aura Knight Skin-Walker
-5,Enchantment,Rare,Dark Invert
-6,Creature,Common,Orc
-7,Creature,Common,Goblin
-8,Spell,Rare,Forged Gravitation
-9,Creature,Common,Elf
-10,Spell,Rare,Hateful Stun
-11,Creature,Common,Paladin
-12,Creature,Rare,Earth Rogue Berserker
-13,Spell,Mythic,Clever Stun
-14,Creature,Rare,Light King Hydra
-15,Creature,Common,Paladin
-16,Spell,Legendary,Mighty Freeze
-17,Creature,Rare,Aura Lord Berserker
-18,Enchantment,Common,Haste
-19,Artifact,Rare,Dark Gloves
-20,Creature,Rare,Light Knight Griffin
-21,Creature,Common,Eagle
-22,Spell,Legendary,Potent Burst
-23,Creature,Common,Elf
-24,Artifact,Rare,Life Amulet
-25,Creature,Common,Eagle
-26,Enchantment,Rare,Forged Shield
-27,Creature,Rare,Light Knight Minotaur
-28,Creature,Common,Goblin
-29,Creature,Rare,Death Thief Skin-Walker
-30,Spell,Common,Revive
-31,Spell,Common,Assault
-32,Creature,Rare,Frozen Lord Hydra
-33,Spell,Common,Heal
-34,Artifact,Common,Ghost Wand
-35,Creature,Rare,Earth Queen Berserker
-36,Spell,Rare,Dark Wall
-37,Artifact,Rare,Frigid Crown
-38,Spell,Legendary,Clever Assault
-39,Creature,Legendary,Earth Rogue Orge of the Eternal Land
-40,Creature,Rare,Snow Fighter Minotaur
-41,Artifact,Common,Tome
-42,Creature,Common,Ghoul
-43,Artifact,Rare,Solar Staff
-44,Spell,Common,Invisibility
+==================,DECK,4318
+0,Enchantment,Shrink
+1,Creature,Aura Assassin Kraken
+2,Spell,Frenzy
+3,Creature,Paladin
+4,Creature,Aura Knight Orc
+5,Enchantment,Sorrow Flight
+6,Creature,Spider
+7,Creature,Skin-Walker
+8,Spell,Dark Heal
+9,Creature,Warlock
+10,Spell,Sorrow Vortex
+11,Creature,Troll
+12,Creature,Earth Rogue Goblin
+13,Spell,Mighty Victory Maelstrom
+14,Creature,Light King Hydra
+15,Creature,Troll
+16,Spell,Irate Gloom Hypnosis
+17,Creature,Aura Lord Goblin
+18,Enchantment,Strength
+19,Artifact,Cataclysmic Gloves
+20,Creature,Light Knight Griffin
+21,Creature,Eagle
+22,Spell,Empyrean Grim Frost
+23,Creature,Warlock
+24,Artifact,Frigid Amulet
+25,Creature,Eagle
+26,Enchantment,Gloom Shield
+27,Creature,Light Knight Cyclops
+28,Creature,Skin-Walker
+29,Creature,Death Thief Orc
+30,Spell,Assault
+31,Spell,Burn
+32,Creature,Frozen Lord Hydra
+33,Spell,Burn
+34,Artifact,Ghost Wand
+35,Creature,Earth Queen Goblin
+36,Spell,Gloom Fire
+37,Artifact,Frigid Crown
+38,Spell,Instant Victory Burst
+39,Creature,Earth Rogue Elf of the Eternal Land
+40,Creature,Snow Fighter Cyclops
+41,Artifact,Tome
+42,Creature,Ghoul
+43,Artifact,Nature Staff
+44,Spell,Burn

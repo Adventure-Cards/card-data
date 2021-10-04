@@ -1,46 +1,46 @@
-==================,DECK,4302,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Eagle
-2,Enchantment,Rare,Nature Deathgrip
-3,Spell,Common,Sorrow
-4,Creature,Common,Warlock
-5,Creature,Common,Wolf
-6,Enchantment,Rare,Life Deathgrip
-7,Creature,Rare,Snow Monk Hydra
-8,Creature,Legendary,Frozen Fighter Giant of the Haven
-9,Creature,Rare,Light Monk Hydra
-10,Enchantment,Common,Drain
-11,Artifact,Common,Bracers
-12,Spell,Common,Burst
-13,Spell,Common,Gale
-14,Creature,Common,Wolf
-15,Creature,Rare,Light Queen Minotaur
-16,Creature,Mythic,Death Ancient Demon of the Dead
-17,Creature,Common,Paladin
-18,Creature,Mythic,Snow Grand Demon of Hate
-19,Artifact,Rare,Hateful Tome
-20,Creature,Common,Eagle
-21,Enchantment,Common,Drain
-22,Enchantment,Mythic,Urgent Shade
-23,Spell,Mythic,Clever Gravitation
-24,Creature,Common,Elf
-25,Spell,Rare,Hateful Burn
-26,Artifact,Legendary,Potent Staff
-27,Creature,Legendary,Snow Undead Kraken of the Magical Forest
-28,Creature,Common,Goblin
-29,Spell,Common,Maelstrom
-30,Enchantment,Rare,Frigid Alacrity
-31,Creature,Common,Elf
-32,Creature,Common,Dwarf
-33,Creature,Common,Goblin
-34,Artifact,Legendary,Potent Helm
-35,Enchantment,Common,Haste
-36,Artifact,Common,Bracers
-37,Artifact,Common,Shield
-38,Spell,Rare,Solar Vortex
-39,Enchantment,Common,Drain
-40,Creature,Common,Dwarf
-41,Enchantment,Legendary,Mighty Age
-42,Enchantment,Common,Deathgrip
-43,Spell,Rare,Apocalypse Burst
-44,Creature,Common,Wolf
+==================,DECK,4302
+0,Creature,Eagle
+1,Creature,Eagle
+2,Enchantment,Shimmering Agony
+3,Spell,Hypnosis
+4,Creature,Berserker
+5,Creature,Wolf
+6,Enchantment,Oblivion Haste
+7,Creature,Snow Monk Hydra
+8,Creature,Frozen Fighter Dwarf of the Haven
+9,Creature,Light Monk Hydra
+10,Enchantment,Flight
+11,Artifact,Bracers
+12,Spell,Sorrow
+13,Spell,Frenzy
+14,Creature,Wolf
+15,Creature,Light Queen Cyclops
+16,Creature,Death Ancient Demon of the Dead
+17,Creature,Troll
+18,Creature,Snow Grand Demon of Hate
+19,Artifact,Dark Tome
+20,Creature,Eagle
+21,Enchantment,Strength
+22,Enchantment,Ardent Necro Lethargy
+23,Spell,Ardent Nimble Fireball
+24,Creature,Warlock
+25,Spell,Gloom Infuriate
+26,Artifact,Irate Nimble Staff
+27,Creature,Snow Undead Ogre of the Magical Forest
+28,Creature,Skin-Walker
+29,Spell,Heal
+30,Enchantment,Apocalypse Drain
+31,Creature,Warlock
+32,Creature,Magi
+33,Creature,Skin-Walker
+34,Artifact,Empyrean Victory Helm
+35,Enchantment,Firebreath
+36,Artifact,Bracers
+37,Artifact,Shield
+38,Spell,Solar Lightning
+39,Enchantment,Agony
+40,Creature,Magi
+41,Enchantment,Mighty Gloom Flight
+42,Enchantment,Deathgrip
+43,Spell,Grim Assault
+44,Creature,Wolf

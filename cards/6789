@@ -1,46 +1,46 @@
-==================,DECK,6789,Strong
-0,Creature,Rare,Light Lord Fairy
-1,Creature,Mythic,Dark Ancient Wizard of Illusion
-2,Spell,Rare,Nimble Assault
-3,Creature,Mythic,Dark Ancient Demon of Illusion
-4,Creature,Common,Dwarf
-5,Creature,Rare,Frozen Undead Minotaur
-6,Creature,Mythic,Death Chaos Demon of the Dead
-7,Creature,Common,Warlock
-8,Enchantment,Mythic,Angry Agony
-9,Creature,Common,Ghoul
-10,Creature,Common,Dwarf
-11,Artifact,Common,Greaves
-12,Creature,Rare,Dark Lord Skin-Walker
-13,Enchantment,Common,Shrink
-14,Creature,Common,Paladin
-15,Spell,Common,Revive
-16,Creature,Mythic,Dark Grand Wizard of Illusion
-17,Creature,Common,Goblin
-18,Spell,Mythic,Urgent Gale
-19,Creature,Mythic,Dark Undead Dragon of Illusion
-20,Creature,Legendary,Earth Time Dragon of the Shadows
-21,Creature,Common,Eagle
-22,Artifact,Common,Gauntlet
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Shield
-25,Artifact,Rare,Solar Sword
-26,Enchantment,Common,Alacrity
-27,Spell,Rare,Necro Fury
-28,Creature,Mythic,Death Ancient Demon of the Dead
-29,Enchantment,Common,Alacrity
-30,Spell,Common,Gravitation
-31,Creature,Common,Dwarf
-32,Creature,Mythic,Aura Grand Demon of the Light
-33,Creature,Rare,Earth Queen Berserker
-34,Enchantment,Legendary,Urgent Blight
-35,Creature,Common,Elf
-36,Creature,Common,Elf
-37,Artifact,Rare,Nature Helm
-38,Artifact,Rare,Gloom Sword
-39,Enchantment,Common,Age
-40,Creature,Common,Elf
-41,Spell,Mythic,Urgent Vortex
-42,Creature,Rare,Dark Monk Hydra
-43,Creature,Common,Magi
-44,Artifact,Common,Amulet
+==================,DECK,6789
+0,Creature,Light Lord Kraken
+1,Creature,Dark Ancient Wizard of Illusion
+2,Spell,Solar Burst
+3,Creature,Dark Ancient Demon of Illusion
+4,Creature,Magi
+5,Creature,Frozen Undead Cyclops
+6,Creature,Death Chaos Demon of the Dead
+7,Creature,Berserker
+8,Enchantment,Irate Miracle Alacrity
+9,Creature,Ghoul
+10,Creature,Magi
+11,Artifact,Greaves
+12,Creature,Dark Lord Orc
+13,Enchantment,Shield
+14,Creature,Troll
+15,Spell,Wall
+16,Creature,Dark Grand Wizard of Illusion
+17,Creature,Skin-Walker
+18,Spell,Zealous Hateful Fireball
+19,Creature,Dark Undead Dragon of Illusion
+20,Creature,Earth Time Dragon of the Shadows
+21,Creature,Eagle
+22,Artifact,Gauntlet
+23,Creature,Ghoul
+24,Enchantment,Deathgrip
+25,Artifact,Solar Sword
+26,Enchantment,Shade
+27,Spell,Solar Heal
+28,Creature,Death Ancient Demon of the Dead
+29,Enchantment,Shield
+30,Spell,Revive
+31,Creature,Magi
+32,Creature,Aura Grand Demon of the Light
+33,Creature,Earth Queen Goblin
+34,Enchantment,Potent Solar Strength
+35,Creature,Warlock
+36,Creature,Warlock
+37,Artifact,Shimmering Helm
+38,Artifact,Sorrow Sword
+39,Enchantment,Shrink
+40,Creature,Warlock
+41,Spell,Irate Nature Fireball
+42,Creature,Dark Monk Hydra
+43,Creature,Fairy
+44,Artifact,Amulet

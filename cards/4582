@@ -1,46 +1,46 @@
-==================,DECK,4582,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Snow Priest Fairy
-2,Spell,Legendary,Urgent Freeze
-3,Spell,Rare,Frigid Frenzy
-4,Artifact,Rare,Apocalypse Scythe
-5,Spell,Common,Infuriate
-6,Creature,Common,Paladin
-7,Enchantment,Legendary,Extreme Shade
-8,Enchantment,Legendary,Potent Lethargy
-9,Creature,Mythic,Earth Time Dragon of the Shadows
-10,Creature,Rare,Frozen Assassin Berserker
-11,Creature,Rare,Dark Queen Fairy
-12,Creature,Common,Dwarf
-13,Artifact,Common,Bow
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Shade
-16,Spell,Common,Pandemonium
-17,Creature,Common,Spider
-18,Spell,Common,Gravitation
-19,Artifact,Common,Potion
-20,Creature,Rare,Frozen Rogue Skin-Walker
-21,Creature,Rare,Aura Fighter Minotaur
-22,Creature,Common,Eagle
-23,Enchantment,Common,Shade
-24,Creature,Mythic,Light Time Phoenix of the Sky
-25,Enchantment,Mythic,Urgent Strength
-26,Enchantment,Common,Shield
-27,Creature,Rare,Dark Rogue Skin-Walker
-28,Artifact,Legendary,Angry Greaves
-29,Enchantment,Legendary,Dire Haste
-30,Creature,Legendary,Earth Undead Kraken of the Haven
-31,Spell,Common,Stricken
-32,Enchantment,Rare,Grim Strength
-33,Spell,Legendary,Intense Pandemonium
-34,Spell,Common,Stricken
-35,Enchantment,Rare,Shimmering Haste
-36,Enchantment,Common,Drain
-37,Creature,Common,Dwarf
-38,Spell,Common,Maelstrom
-39,Creature,Rare,Snow Queen Griffin
-40,Spell,Common,Burst
-41,Creature,Legendary,Dark Fighter Giant of the Arctic Blizzards
-42,Spell,Common,Wall
-43,Creature,Legendary,Frozen Assassin Giant of the Polar Woods
-44,Spell,Rare,Nimble Vortex
+==================,DECK,4582
+0,Creature,Eagle
+1,Creature,Snow Priest Kraken
+2,Spell,Urgent Corpse Rage
+3,Spell,Victory Burst
+4,Artifact,Oblivion Scythe
+5,Spell,Burst
+6,Creature,Troll
+7,Enchantment,Ardent Chimeric Shield
+8,Enchantment,Irate Grim Blight
+9,Creature,Earth Time Dragon of the Shadows
+10,Creature,Frozen Assassin Goblin
+11,Creature,Dark Queen Kraken
+12,Creature,Magi
+13,Artifact,Bow
+14,Creature,Magi
+15,Enchantment,Shield
+16,Spell,Fireball
+17,Creature,Paladin
+18,Spell,Stricken
+19,Artifact,Potion
+20,Creature,Frozen Rogue Orc
+21,Creature,Aura Fighter Cyclops
+22,Creature,Eagle
+23,Enchantment,Shade
+24,Creature,Light Time Phoenix of the Sky
+25,Enchantment,Dire Solar Age
+26,Enchantment,Shade
+27,Creature,Dark Rogue Orc
+28,Artifact,Mighty Miracle Greaves
+29,Enchantment,Empyrean Life Shade
+30,Creature,Earth Undead Ogre of the Haven
+31,Spell,Pandemonium
+32,Enchantment,Nimble Haste
+33,Spell,Empyrean Corpse Heal
+34,Spell,Gravitation
+35,Enchantment,Corpse Agony
+36,Enchantment,Firebreath
+37,Creature,Magi
+38,Spell,Maelstrom
+39,Creature,Snow Queen Griffin
+40,Spell,Fury
+41,Creature,Dark Fighter Dwarf of the Arctic Blizzards
+42,Spell,Torment
+43,Creature,Frozen Assassin Dwarf of the Polar Woods
+44,Spell,Nature Fire

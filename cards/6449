@@ -1,46 +1,46 @@
-==================,DECK,6449,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Blight
-2,Creature,Common,Warlock
-3,Spell,Common,Reanimate
-4,Creature,Common,Magi
-5,Creature,Common,Elf
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Creature,Common,Spider
-9,Enchantment,Common,Drain
-10,Creature,Legendary,Death Monk Oni of the Magical Forest
-11,Enchantment,Common,Age
-12,Enchantment,Common,Invert
-13,Spell,Rare,Nimble Frenzy
-14,Creature,Common,Spider
-15,Spell,Common,Torment
-16,Creature,Rare,Snow Knight Hydra
-17,Spell,Common,Reanimate
-18,Creature,Rare,Death Rogue Hydra
-19,Spell,Common,Hypnosis
-20,Spell,Rare,Shimmering Stun
-21,Enchantment,Rare,Miracle Deathgrip
-22,Artifact,Rare,Miracle Belt
-23,Creature,Common,Elf
-24,Creature,Common,Magi
-25,Enchantment,Common,Lethargy
-26,Creature,Legendary,Aura Priest Giant of the Low Hills
-27,Spell,Rare,Miracle Ice
-28,Enchantment,Common,Strength
-29,Spell,Common,Gale
-30,Spell,Legendary,Potent Pandemonium
-31,Creature,Common,Dwarf
-32,Spell,Common,Wall
-33,Enchantment,Rare,Nimble Strength
-34,Enchantment,Common,Drain
-35,Creature,Common,Paladin
-36,Spell,Common,Wall
-37,Spell,Rare,Nature Infuriate
-38,Enchantment,Common,Deathgrip
-39,Creature,Common,Ghoul
-40,Enchantment,Legendary,Angry Haste
-41,Creature,Common,Goblin
-42,Artifact,Rare,Grim Potion
-43,Spell,Common,Burn
-44,Artifact,Common,Scythe
+==================,DECK,6449
+0,Creature,Warlock
+1,Enchantment,Shrink
+2,Creature,Berserker
+3,Spell,Invisibility
+4,Creature,Fairy
+5,Creature,Warlock
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Creature,Paladin
+9,Enchantment,Flight
+10,Creature,Death Monk Oni of the Magical Forest
+11,Enchantment,Blight
+12,Enchantment,Firebreath
+13,Spell,Necro Heal
+14,Creature,Paladin
+15,Spell,Burn
+16,Creature,Snow Knight Hydra
+17,Spell,Revive
+18,Creature,Death Rogue Hydra
+19,Spell,Infuriate
+20,Spell,Forged Assault
+21,Enchantment,Oblivion Shade
+22,Artifact,Grim Belt
+23,Creature,Warlock
+24,Creature,Fairy
+25,Enchantment,Flight
+26,Creature,Aura Priest Dwarf of the Low Hills
+27,Spell,Oblivion Revive
+28,Enchantment,Blight
+29,Spell,Wall
+30,Spell,Empyrean Frigid Hypnosis
+31,Creature,Magi
+32,Spell,Invisibility
+33,Enchantment,Solar Lethargy
+34,Enchantment,Flight
+35,Creature,Troll
+36,Spell,Burn
+37,Spell,Forged Fury
+38,Enchantment,Haste
+39,Creature,Ghoul
+40,Enchantment,Empyrean Miracle Firebreath
+41,Creature,Skin-Walker
+42,Artifact,Life Potion
+43,Spell,Maelstrom
+44,Artifact,Scythe

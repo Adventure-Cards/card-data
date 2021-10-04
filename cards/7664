@@ -1,46 +1,46 @@
-==================,DECK,7664,Light
-0,Creature,Common,Elf
-1,Artifact,Common,Staff
-2,Creature,Common,Orc
-3,Creature,Common,Goblin
-4,Creature,Common,Magi
-5,Spell,Common,Gravitation
-6,Spell,Common,Heal
-7,Spell,Common,Assault
-8,Artifact,Common,Belt
-9,Spell,Common,Maelstrom
-10,Creature,Common,Ghoul
-11,Creature,Common,Dwarf
-12,Spell,Common,Frenzy
-13,Creature,Common,Eagle
-14,Creature,Rare,Snow Assassin Minotaur
-15,Creature,Common,Ghoul
-16,Artifact,Rare,Apocalypse Greaves
-17,Enchantment,Legendary,Potent Drain
-18,Spell,Common,Stun
-19,Spell,Common,Frenzy
-20,Enchantment,Legendary,Angry Age
-21,Creature,Legendary,Light Monk Orge of the Mountains
-22,Enchantment,Common,Shade
-23,Creature,Legendary,Dark Knight Kraken of the Polar Woods
-24,Creature,Common,Paladin
-25,Spell,Common,Sorrow
-26,Enchantment,Common,Invert
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Eagle
-29,Creature,Rare,Frozen Lord Berserker
-30,Creature,Rare,Light Assassin Hydra
-31,Artifact,Common,Potion
-32,Enchantment,Legendary,Potent Agony
-33,Enchantment,Common,Shield
-34,Creature,Common,Wolf
-35,Spell,Rare,Nature Reanimate
-36,Creature,Common,Eagle
-37,Creature,Common,Dwarf
-38,Enchantment,Mythic,Extreme Shrink
-39,Artifact,Rare,Lunar Scepter
-40,Enchantment,Rare,Cataclysmic Flight
-41,Spell,Common,Hypnosis
-42,Creature,Common,Magi
-43,Spell,Rare,Grim Lightning
-44,Creature,Rare,Earth Priest Minotaur
+==================,DECK,7664
+0,Creature,Warlock
+1,Artifact,Staff
+2,Creature,Spider
+3,Creature,Skin-Walker
+4,Creature,Fairy
+5,Spell,Burn
+6,Spell,Reanimate
+7,Spell,Reanimate
+8,Artifact,Belt
+9,Spell,Fury
+10,Creature,Ghoul
+11,Creature,Magi
+12,Spell,Burst
+13,Creature,Eagle
+14,Creature,Snow Assassin Cyclops
+15,Creature,Ghoul
+16,Artifact,Oblivion Greaves
+17,Enchantment,Empyrean Apocalypse Shade
+18,Spell,Lightning
+19,Spell,Stun
+20,Enchantment,Clever Gloom Shield
+21,Creature,Light Monk Elf of the Mountains
+22,Enchantment,Shade
+23,Creature,Dark Knight Ogre of the Polar Woods
+24,Creature,Troll
+25,Spell,Revive
+26,Enchantment,Firebreath
+27,Enchantment,Shade
+28,Creature,Eagle
+29,Creature,Frozen Lord Goblin
+30,Creature,Light Assassin Hydra
+31,Artifact,Potion
+32,Enchantment,Dire Life Shade
+33,Enchantment,Agony
+34,Creature,Wolf
+35,Spell,Shimmering Pandemonium
+36,Creature,Eagle
+37,Creature,Magi
+38,Enchantment,Zealous Chimeric Alacrity
+39,Artifact,Miracle Scepter
+40,Enchantment,Lunar Flight
+41,Spell,Fireball
+42,Creature,Fairy
+43,Spell,Victory Frenzy
+44,Creature,Earth Priest Cyclops

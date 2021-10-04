@@ -1,46 +1,46 @@
-==================,DECK,6312,Strong
-0,Creature,Common,Magi
-1,Spell,Common,Stricken
-2,Enchantment,Rare,Gloom Shield
-3,Creature,Common,Eagle
-4,Creature,Common,Spider
-5,Creature,Rare,Earth Knight Berserker
-6,Creature,Rare,Earth Rogue Minotaur
-7,Creature,Common,Orc
-8,Spell,Common,Rage
-9,Creature,Legendary,Frozen Ancient Demon of the Void
-10,Spell,Common,Frost
-11,Enchantment,Rare,Corpse Agony
-12,Creature,Rare,Snow Fighter Minotaur
-13,Creature,Rare,Light Knight Fairy
-14,Creature,Common,Eagle
-15,Creature,Mythic,Light Time Phoenix of the Sky
-16,Spell,Legendary,Clever Revive
-17,Creature,Common,Magi
-18,Artifact,Common,Greaves
-19,Artifact,Common,Staff
-20,Spell,Rare,Shimmering Ice
-21,Creature,Common,Paladin
-22,Creature,Rare,Dark Rogue Minotaur
-23,Enchantment,Common,Invert
-24,Creature,Common,Wolf
-25,Spell,Common,Invisibility
-26,Enchantment,Common,Flight
-27,Spell,Legendary,Angry Torment
-28,Creature,Common,Warlock
-29,Spell,Common,Frost
-30,Creature,Rare,Earth Lord Berserker
-31,Creature,Rare,Aura Priest Minotaur
-32,Artifact,Mythic,Clever Crown
-33,Creature,Rare,Dark Assassin Hydra
-34,Creature,Common,Warlock
-35,Artifact,Common,Boots
-36,Creature,Common,Warlock
-37,Creature,Common,Paladin
-38,Enchantment,Rare,Apocalypse Drain
-39,Enchantment,Rare,Nature Deathgrip
-40,Enchantment,Common,Strength
-41,Enchantment,Rare,Corpse Alacrity
-42,Creature,Common,Paladin
-43,Enchantment,Mythic,Potent Alacrity
-44,Creature,Common,Spider
+==================,DECK,6312
+0,Creature,Fairy
+1,Spell,Vortex
+2,Enchantment,Gloom Shrink
+3,Creature,Eagle
+4,Creature,Paladin
+5,Creature,Earth Knight Goblin
+6,Creature,Earth Rogue Cyclops
+7,Creature,Spider
+8,Spell,Invisibility
+9,Creature,Frozen Ancient Demon of the Void
+10,Spell,Maelstrom
+11,Enchantment,Corpse Strength
+12,Creature,Snow Fighter Cyclops
+13,Creature,Light Knight Kraken
+14,Creature,Eagle
+15,Creature,Light Time Phoenix of the Sky
+16,Spell,Instant Frigid Fire
+17,Creature,Fairy
+18,Artifact,Greaves
+19,Artifact,Staff
+20,Spell,Solar Revive
+21,Creature,Troll
+22,Creature,Dark Rogue Cyclops
+23,Enchantment,Blight
+24,Creature,Wolf
+25,Spell,Stun
+26,Enchantment,Invert
+27,Spell,Instant Sorrow Stricken
+28,Creature,Berserker
+29,Spell,Torment
+30,Creature,Earth Lord Goblin
+31,Creature,Aura Priest Cyclops
+32,Artifact,Irate Life Crown
+33,Creature,Dark Assassin Hydra
+34,Creature,Berserker
+35,Artifact,Boots
+36,Creature,Berserker
+37,Creature,Troll
+38,Enchantment,Apocalypse Shade
+39,Enchantment,Shimmering Agony
+40,Enchantment,Invert
+41,Enchantment,Forged Age
+42,Creature,Troll
+43,Enchantment,Dire Apocalypse Shade
+44,Creature,Paladin

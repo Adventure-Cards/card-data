@@ -1,46 +1,46 @@
-==================,DECK,4244,Light
-0,Enchantment,Rare,Hateful Drain
-1,Creature,Common,Paladin
-2,Enchantment,Common,Agony
-3,Creature,Mythic,Dark Ancient Demon of Illusion
-4,Creature,Common,Ghoul
-5,Creature,Common,Spider
-6,Creature,Common,Dwarf
-7,Creature,Common,Warlock
-8,Spell,Legendary,Mighty Rage
-9,Creature,Common,Goblin
-10,Creature,Common,Ghoul
-11,Artifact,Common,Scythe
-12,Spell,Common,Freeze
-13,Enchantment,Common,Shade
-14,Enchantment,Mythic,Instant Lethargy
-15,Creature,Common,Magi
-16,Creature,Legendary,Earth Monk Oni of the Low Hills
-17,Enchantment,Rare,Life Haste
-18,Creature,Rare,Dark Knight Minotaur
-19,Creature,Common,Paladin
-20,Creature,Common,Warlock
-21,Artifact,Rare,Cataclysmic Staff
-22,Creature,Rare,Earth Monk Skin-Walker
-23,Enchantment,Legendary,Urgent Flight
-24,Creature,Common,Warlock
-25,Creature,Common,Goblin
-26,Creature,Rare,Light Warrior Griffin
-27,Artifact,Legendary,Mighty Sword
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Elf
-30,Spell,Common,Burst
-31,Enchantment,Rare,Oblivion Shield
-32,Spell,Rare,Gloom Frost
-33,Spell,Common,Wall
-34,Creature,Common,Ghoul
-35,Creature,Common,Ghoul
-36,Spell,Common,Pandemonium
-37,Creature,Common,Magi
-38,Creature,Legendary,Frozen Undead Oni of the Haven
-39,Creature,Rare,Light Assassin Minotaur
-40,Enchantment,Rare,Miracle Deathgrip
-41,Spell,Common,Gravitation
-42,Spell,Common,Stricken
-43,Enchantment,Common,Blight
-44,Enchantment,Common,Shrink
+==================,DECK,4244
+0,Enchantment,Dark Shield
+1,Creature,Troll
+2,Enchantment,Invert
+3,Creature,Dark Ancient Demon of Illusion
+4,Creature,Ghoul
+5,Creature,Paladin
+6,Creature,Magi
+7,Creature,Berserker
+8,Spell,Instant Miracle Sorrow
+9,Creature,Skin-Walker
+10,Creature,Ghoul
+11,Artifact,Scythe
+12,Spell,Reanimate
+13,Enchantment,Strength
+14,Enchantment,Dire Hateful Age
+15,Creature,Fairy
+16,Creature,Earth Monk Oni of the Low Hills
+17,Enchantment,Life Invert
+18,Creature,Dark Knight Cyclops
+19,Creature,Troll
+20,Creature,Berserker
+21,Artifact,Cataclysmic Staff
+22,Creature,Earth Monk Orc
+23,Enchantment,Empyrean Hateful Age
+24,Creature,Berserker
+25,Creature,Skin-Walker
+26,Creature,Light Warrior Griffin
+27,Artifact,Instant Miracle Sword
+28,Enchantment,Haste
+29,Creature,Warlock
+30,Spell,Gravitation
+31,Enchantment,Victory Blight
+32,Spell,Lunar Tempest
+33,Spell,Burn
+34,Creature,Ghoul
+35,Creature,Ghoul
+36,Spell,Burn
+37,Creature,Fairy
+38,Creature,Frozen Undead Oni of the Haven
+39,Creature,Light Assassin Cyclops
+40,Enchantment,Oblivion Haste
+41,Spell,Gale
+42,Spell,Pandemonium
+43,Enchantment,Blight
+44,Enchantment,Shrink

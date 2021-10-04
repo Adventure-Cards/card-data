@@ -1,46 +1,46 @@
-==================,DECK,7605,Medium
-0,Enchantment,Common,Agony
-1,Artifact,Common,Sigil
-2,Enchantment,Rare,Solar Lethargy
-3,Creature,Common,Wolf
-4,Creature,Rare,Death Monk Hydra
-5,Creature,Legendary,Dark Warrior Orge of the West
-6,Creature,Common,Goblin
-7,Enchantment,Legendary,Mighty Flight
-8,Creature,Rare,Death Priest Skin-Walker
-9,Creature,Common,Eagle
-10,Creature,Rare,Frozen King Berserker
-11,Enchantment,Common,Flight
-12,Creature,Common,Orc
-13,Creature,Rare,Earth King Minotaur
-14,Enchantment,Common,Drain
-15,Enchantment,Common,Agony
-16,Creature,Rare,Dark Monk Hydra
-17,Creature,Legendary,Snow Knight Cyclops of the Arctic Blizzards
-18,Enchantment,Common,Lethargy
-19,Enchantment,Common,Deathgrip
-20,Spell,Rare,Cataclysmic Sorrow
-21,Creature,Common,Goblin
-22,Creature,Rare,Death Queen Berserker
-23,Creature,Common,Ghoul
-24,Spell,Common,Lightning
-25,Creature,Common,Warlock
-26,Creature,Common,Dwarf
-27,Artifact,Common,Scythe
-28,Creature,Common,Paladin
-29,Creature,Common,Elf
-30,Creature,Common,Orc
-31,Spell,Common,Vortex
-32,Creature,Common,Ghoul
-33,Creature,Mythic,Earth Time Dragon of the Shadows
-34,Creature,Common,Goblin
-35,Creature,Rare,Death Monk Griffin
-36,Enchantment,Rare,Nature Deathgrip
-37,Creature,Legendary,Frozen Merchant Kraken of the Plains
-38,Creature,Common,Magi
-39,Spell,Common,Lightning
-40,Creature,Rare,Light King Minotaur
-41,Enchantment,Common,Flight
-42,Creature,Mythic,Frozen Ancient Wizard of the Void
-43,Spell,Rare,Hateful Pandemonium
-44,Enchantment,Common,Alacrity
+==================,DECK,7605
+0,Enchantment,Agony
+1,Artifact,Sigil
+2,Enchantment,Hateful Deathgrip
+3,Creature,Wolf
+4,Creature,Death Monk Hydra
+5,Creature,Dark Warrior Elf of the West
+6,Creature,Skin-Walker
+7,Enchantment,Mighty Lunar Flight
+8,Creature,Death Priest Orc
+9,Creature,Eagle
+10,Creature,Frozen King Goblin
+11,Enchantment,Strength
+12,Creature,Spider
+13,Creature,Earth King Cyclops
+14,Enchantment,Drain
+15,Enchantment,Shrink
+16,Creature,Dark Monk Hydra
+17,Creature,Snow Knight Giant of the Arctic Blizzards
+18,Enchantment,Agony
+19,Enchantment,Deathgrip
+20,Spell,Cataclysmic Burst
+21,Creature,Skin-Walker
+22,Creature,Death Queen Goblin
+23,Creature,Ghoul
+24,Spell,Ice
+25,Creature,Berserker
+26,Creature,Magi
+27,Artifact,Scythe
+28,Creature,Troll
+29,Creature,Warlock
+30,Creature,Spider
+31,Spell,Burn
+32,Creature,Ghoul
+33,Creature,Earth Time Dragon of the Shadows
+34,Creature,Skin-Walker
+35,Creature,Death Monk Griffin
+36,Enchantment,Shimmering Agony
+37,Creature,Frozen Merchant Ogre of the Plains
+38,Creature,Fairy
+39,Spell,Burst
+40,Creature,Light King Cyclops
+41,Enchantment,Blight
+42,Creature,Frozen Ancient Wizard of the Void
+43,Spell,Chimeric Invisibility
+44,Enchantment,Firebreath

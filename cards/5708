@@ -1,46 +1,46 @@
-==================,DECK,5708,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Elf
-2,Spell,Rare,Lunar Hypnosis
-3,Creature,Legendary,Dark Warrior Oni of the Mountains
-4,Creature,Rare,Light Thief Minotaur
-5,Artifact,Common,Bow
-6,Spell,Common,Assault
-7,Creature,Common,Elf
-8,Creature,Common,Magi
-9,Creature,Legendary,Light Knight Kraken of the Haven
-10,Spell,Common,Frenzy
-11,Creature,Common,Paladin
-12,Creature,Common,Warlock
-13,Spell,Rare,Corpse Heal
-14,Enchantment,Mythic,Potent Agony
-15,Creature,Common,Elf
-16,Creature,Common,Magi
-17,Creature,Common,Goblin
-18,Creature,Common,Magi
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Reanimate
-21,Creature,Common,Paladin
-22,Artifact,Common,Greaves
-23,Spell,Rare,Gloom Lightning
-24,Enchantment,Rare,Hateful Age
-25,Creature,Mythic,Aura Grand Wizard of the Light
-26,Creature,Common,Ghoul
-27,Creature,Common,Elf
-28,Spell,Common,Wall
-29,Enchantment,Mythic,Dire Shrink
-30,Spell,Common,Reanimate
-31,Spell,Common,Freeze
-32,Spell,Legendary,Intense Reanimate
-33,Enchantment,Rare,Forged Shade
-34,Creature,Common,Elf
-35,Spell,Common,Hypnosis
-36,Creature,Common,Elf
-37,Creature,Legendary,Light Merchant Giant of the Eastern Skies
-38,Spell,Rare,Solar Gravitation
-39,Creature,Common,Orc
-40,Artifact,Common,Boots
-41,Creature,Common,Ghoul
-42,Creature,Rare,Frozen Undead Griffin
-43,Creature,Common,Magi
-44,Enchantment,Common,Blight
+==================,DECK,5708
+0,Creature,Wolf
+1,Creature,Warlock
+2,Spell,Cataclysmic Frenzy
+3,Creature,Dark Warrior Oni of the Mountains
+4,Creature,Light Thief Cyclops
+5,Artifact,Bow
+6,Spell,Fireball
+7,Creature,Warlock
+8,Creature,Fairy
+9,Creature,Light Knight Ogre of the Haven
+10,Spell,Fireball
+11,Creature,Troll
+12,Creature,Berserker
+13,Spell,Hateful Burn
+14,Enchantment,Urgent Life Invert
+15,Creature,Warlock
+16,Creature,Fairy
+17,Creature,Skin-Walker
+18,Creature,Fairy
+19,Enchantment,Drain
+20,Spell,Freeze
+21,Creature,Troll
+22,Artifact,Greaves
+23,Spell,Sorrow Heal
+24,Enchantment,Gloom Firebreath
+25,Creature,Aura Grand Wizard of the Light
+26,Creature,Ghoul
+27,Creature,Warlock
+28,Spell,Tempest
+29,Enchantment,Clever Frigid Haste
+30,Spell,Lightning
+31,Spell,Freeze
+32,Spell,Potent Forged Invisibility
+33,Enchantment,Chimeric Flight
+34,Creature,Warlock
+35,Spell,Maelstrom
+36,Creature,Warlock
+37,Creature,Light Merchant Dwarf of the Eastern Skies
+38,Spell,Hateful Heal
+39,Creature,Spider
+40,Artifact,Boots
+41,Creature,Ghoul
+42,Creature,Frozen Undead Griffin
+43,Creature,Fairy
+44,Enchantment,Shrink

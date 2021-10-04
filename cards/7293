@@ -1,46 +1,46 @@
-==================,DECK,7293,Strong
-0,Enchantment,Legendary,Mighty Alacrity
-1,Creature,Common,Spider
-2,Artifact,Rare,Oblivion Shield
-3,Enchantment,Common,Haste
-4,Creature,Common,Wolf
-5,Spell,Common,Reanimate
-6,Enchantment,Common,Drain
-7,Enchantment,Legendary,Intense Haste
-8,Creature,Common,Eagle
-9,Enchantment,Rare,Hateful Age
-10,Spell,Common,Burst
-11,Spell,Mythic,Potent Rage
-12,Creature,Common,Orc
-13,Spell,Common,Frost
-14,Creature,Common,Ghoul
-15,Creature,Mythic,Light Nameless Dragon of the Sky
-16,Enchantment,Mythic,Angry Lethargy
-17,Creature,Rare,Death King Griffin
-18,Creature,Common,Magi
-19,Spell,Common,Burst
-20,Spell,Legendary,Dire Invisibility
-21,Creature,Common,Dwarf
-22,Creature,Common,Eagle
-23,Artifact,Common,Scythe
-24,Spell,Mythic,Urgent Sorrow
-25,Spell,Rare,Cataclysmic Ice
-26,Creature,Legendary,Aura Rogue Giant of the Arctic Blizzards
-27,Creature,Rare,Earth King Berserker
-28,Creature,Common,Magi
-29,Creature,Legendary,Dark Rogue Cyclops of the Haven
-30,Creature,Legendary,Death Grand Wizard of the Dead
-31,Spell,Common,Revive
-32,Enchantment,Rare,Life Flight
-33,Creature,Legendary,Dark Queen Orge of the Border
-34,Artifact,Common,Tome
-35,Spell,Common,Frost
-36,Creature,Rare,Frozen Thief Hydra
-37,Enchantment,Mythic,Intense Lethargy
-38,Enchantment,Legendary,Angry Invert
-39,Creature,Rare,Earth Priest Minotaur
-40,Creature,Rare,Dark Lord Minotaur
-41,Creature,Rare,Frozen Queen Berserker
-42,Artifact,Common,Sigil
-43,Creature,Common,Magi
-44,Enchantment,Rare,Dark Invert
+==================,DECK,7293
+0,Enchantment,Instant Dark Shrink
+1,Creature,Paladin
+2,Artifact,Victory Shield
+3,Enchantment,Age
+4,Creature,Wolf
+5,Spell,Heal
+6,Enchantment,Age
+7,Enchantment,Empyrean Corpse Age
+8,Creature,Eagle
+9,Enchantment,Gloom Shrink
+10,Spell,Ice
+11,Spell,Urgent Victory Frost
+12,Creature,Spider
+13,Spell,Reanimate
+14,Creature,Ghoul
+15,Creature,Light Nameless Dragon of the Sky
+16,Enchantment,Ardent Lunar Shield
+17,Creature,Death King Griffin
+18,Creature,Fairy
+19,Spell,Ice
+20,Spell,Urgent Oblivion Lightning
+21,Creature,Magi
+22,Creature,Eagle
+23,Artifact,Scythe
+24,Spell,Clever Shimmering Sorrow
+25,Spell,Cataclysmic Fireball
+26,Creature,Aura Rogue Dwarf of the Arctic Blizzards
+27,Creature,Earth King Goblin
+28,Creature,Fairy
+29,Creature,Dark Rogue Giant of the Haven
+30,Creature,Death Grand Wizard of the Dead
+31,Spell,Frost
+32,Enchantment,Grim Invert
+33,Creature,Dark Queen Elf of the Border
+34,Artifact,Tome
+35,Spell,Lightning
+36,Creature,Frozen Thief Hydra
+37,Enchantment,Dire Hateful Age
+38,Enchantment,Instant Sorrow Shrink
+39,Creature,Earth Priest Cyclops
+40,Creature,Dark Lord Cyclops
+41,Creature,Frozen Queen Goblin
+42,Artifact,Sigil
+43,Creature,Fairy
+44,Enchantment,Sorrow Firebreath

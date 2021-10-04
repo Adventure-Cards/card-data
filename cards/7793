@@ -1,46 +1,46 @@
-==================,DECK,7793,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Dark Priest Griffin
-2,Artifact,Common,Helm
-3,Creature,Common,Eagle
-4,Creature,Common,Elf
-5,Artifact,Common,Divine Robe
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Shade
-8,Spell,Common,Gravitation
-9,Enchantment,Common,Age
-10,Creature,Common,Eagle
-11,Enchantment,Common,Drain
-12,Creature,Common,Warlock
-13,Creature,Common,Dwarf
-14,Creature,Common,Elf
-15,Creature,Common,Orc
-16,Enchantment,Common,Shield
-17,Creature,Common,Warlock
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Warlock
-20,Enchantment,Legendary,Instant Shrink
-21,Spell,Common,Lightning
-22,Enchantment,Common,Agony
-23,Artifact,Common,Pendant
-24,Spell,Common,Torment
-25,Creature,Rare,Death King Hydra
-26,Creature,Common,Dwarf
-27,Creature,Rare,Frozen Undead Minotaur
-28,Artifact,Common,Pendant
-29,Spell,Common,Freeze
-30,Creature,Common,Eagle
-31,Spell,Legendary,Potent Frenzy
-32,Creature,Common,Paladin
-33,Creature,Common,Magi
-34,Artifact,Common,Helm
-35,Creature,Common,Warlock
-36,Artifact,Common,Crown
-37,Creature,Common,Paladin
-38,Enchantment,Common,Haste
-39,Creature,Common,Paladin
-40,Creature,Common,Goblin
-41,Creature,Common,Warlock
-42,Creature,Common,Wolf
-43,Artifact,Common,Bracers
-44,Enchantment,Common,Blight
+==================,DECK,7793
+0,Creature,Berserker
+1,Creature,Dark Priest Griffin
+2,Artifact,Helm
+3,Creature,Eagle
+4,Creature,Warlock
+5,Artifact,Divine Robe
+6,Spell,Invisibility
+7,Enchantment,Blight
+8,Spell,Maelstrom
+9,Enchantment,Strength
+10,Creature,Eagle
+11,Enchantment,Lethargy
+12,Creature,Berserker
+13,Creature,Magi
+14,Creature,Warlock
+15,Creature,Spider
+16,Enchantment,Shield
+17,Creature,Berserker
+18,Enchantment,Lethargy
+19,Creature,Berserker
+20,Enchantment,Empyrean Necro Age
+21,Spell,Infuriate
+22,Enchantment,Agony
+23,Artifact,Pendant
+24,Spell,Assault
+25,Creature,Death King Hydra
+26,Creature,Magi
+27,Creature,Frozen Undead Cyclops
+28,Artifact,Pendant
+29,Spell,Invisibility
+30,Creature,Eagle
+31,Spell,Dire Grim Vortex
+32,Creature,Troll
+33,Creature,Fairy
+34,Artifact,Helm
+35,Creature,Berserker
+36,Artifact,Crown
+37,Creature,Troll
+38,Enchantment,Flight
+39,Creature,Troll
+40,Creature,Skin-Walker
+41,Creature,Berserker
+42,Creature,Wolf
+43,Artifact,Bracers
+44,Enchantment,Flight

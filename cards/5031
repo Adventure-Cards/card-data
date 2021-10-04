@@ -1,46 +1,46 @@
-==================,DECK,5031,Medium
-0,Creature,Rare,Death King Fairy
-1,Creature,Common,Warlock
-2,Artifact,Rare,Miracle Scepter
-3,Creature,Rare,Snow King Minotaur
-4,Creature,Rare,Light Lord Minotaur
-5,Creature,Rare,Frozen Merchant Fairy
-6,Creature,Legendary,Aura Priest Cyclops of the Low Hills
-7,Creature,Rare,Aura Assassin Hydra
-8,Creature,Rare,Light Queen Griffin
-9,Spell,Common,Assault
-10,Creature,Rare,Dark Thief Griffin
-11,Spell,Rare,Corpse Torment
-12,Spell,Common,Heal
-13,Creature,Mythic,Dark Nameless Phoenix of Illusion
-14,Artifact,Legendary,Instant Greaves
-15,Creature,Common,Spider
-16,Creature,Common,Magi
-17,Enchantment,Rare,Dark Shield
-18,Creature,Rare,Dark King Fairy
-19,Spell,Rare,Shimmering Stun
-20,Artifact,Common,Tome
-21,Creature,Common,Elf
-22,Creature,Common,Elf
-23,Enchantment,Common,Lethargy
-24,Creature,Legendary,Snow Priest Orge of the Arctic Blizzards
-25,Creature,Common,Warlock
-26,Enchantment,Common,Shrink
-27,Artifact,Rare,Dark Scythe
-28,Creature,Common,Spider
-29,Spell,Common,Reanimate
-30,Creature,Mythic,Frozen Undead Phoenix of the Void
-31,Enchantment,Common,Haste
-32,Spell,Common,Infuriate
-33,Enchantment,Common,Shield
-34,Enchantment,Mythic,Clever Deathgrip
-35,Creature,Rare,Aura Thief Griffin
-36,Spell,Common,Freeze
-37,Creature,Common,Eagle
-38,Enchantment,Rare,Gloom Lethargy
-39,Spell,Rare,Oblivion Revive
-40,Enchantment,Rare,Solar Shield
-41,Creature,Mythic,Aura Nameless Dragon of the Light
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Earth King Berserker
-44,Creature,Common,Wolf
+==================,DECK,5031
+0,Creature,Death King Kraken
+1,Creature,Berserker
+2,Artifact,Frigid Scepter
+3,Creature,Snow King Cyclops
+4,Creature,Light Lord Cyclops
+5,Creature,Frozen Merchant Kraken
+6,Creature,Aura Priest Giant of the Low Hills
+7,Creature,Aura Assassin Hydra
+8,Creature,Light Queen Griffin
+9,Spell,Gale
+10,Creature,Dark Thief Griffin
+11,Spell,Corpse Gale
+12,Spell,Freeze
+13,Creature,Dark Nameless Phoenix of Illusion
+14,Artifact,Urgent Shimmering Greaves
+15,Creature,Paladin
+16,Creature,Fairy
+17,Enchantment,Gloom Shrink
+18,Creature,Dark King Kraken
+19,Spell,Necro Pandemonium
+20,Artifact,Tome
+21,Creature,Warlock
+22,Creature,Warlock
+23,Enchantment,Firebreath
+24,Creature,Snow Priest Elf of the Arctic Blizzards
+25,Creature,Berserker
+26,Enchantment,Invert
+27,Artifact,Miracle Scythe
+28,Creature,Paladin
+29,Spell,Fireball
+30,Creature,Frozen Undead Phoenix of the Void
+31,Enchantment,Flight
+32,Spell,Fireball
+33,Enchantment,Drain
+34,Enchantment,Empyrean Oblivion Shade
+35,Creature,Aura Thief Griffin
+36,Spell,Stricken
+37,Creature,Eagle
+38,Enchantment,Lunar Flight
+39,Spell,Life Revive
+40,Enchantment,Nature Age
+41,Creature,Aura Nameless Dragon of the Light
+42,Enchantment,Shield
+43,Creature,Earth King Goblin
+44,Creature,Wolf

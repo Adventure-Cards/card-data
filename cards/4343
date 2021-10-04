@@ -1,46 +1,46 @@
-==================,DECK,4343,Light
-0,Creature,Mythic,Death Chaos Wizard of the Dead
-1,Creature,Common,Paladin
-2,Creature,Common,Elf
-3,Creature,Rare,Snow Undead Fairy
-4,Spell,Common,Pandemonium
-5,Enchantment,Rare,Forged Alacrity
-6,Spell,Common,Reanimate
-7,Creature,Legendary,Frozen Rogue Oni of the Black Stone
-8,Enchantment,Common,Shade
-9,Spell,Rare,Life Stricken
-10,Enchantment,Rare,Shimmering Flight
-11,Spell,Common,Revive
-12,Creature,Common,Goblin
-13,Spell,Common,Assault
-14,Enchantment,Common,Shade
-15,Spell,Common,Frost
-16,Creature,Mythic,Light Grand Demon of the Sky
-17,Creature,Common,Ghoul
-18,Enchantment,Common,Shade
-19,Creature,Common,Orc
-20,Creature,Common,Ghoul
-21,Creature,Common,Magi
-22,Creature,Rare,Light Warrior Fairy
-23,Creature,Common,Ghoul
-24,Creature,Common,Eagle
-25,Enchantment,Common,Age
-26,Creature,Common,Goblin
-27,Enchantment,Legendary,Clever Strength
-28,Creature,Mythic,Dark Chaos Wizard of Illusion
-29,Creature,Rare,Dark Merchant Hydra
-30,Spell,Common,Invisibility
-31,Creature,Common,Elf
-32,Spell,Common,Sorrow
-33,Creature,Rare,Light Knight Fairy
-34,Creature,Common,Goblin
-35,Spell,Common,Wall
-36,Spell,Rare,Grim Revive
-37,Enchantment,Mythic,Intense Age
-38,Spell,Common,Sorrow
-39,Artifact,Common,Helm
-40,Creature,Common,Wolf
-41,Creature,Common,Paladin
-42,Enchantment,Common,Strength
-43,Creature,Common,Dwarf
-44,Creature,Common,Wolf
+==================,DECK,4343
+0,Creature,Death Chaos Wizard of the Dead
+1,Creature,Troll
+2,Creature,Warlock
+3,Creature,Snow Undead Kraken
+4,Spell,Hypnosis
+5,Enchantment,Dark Flight
+6,Spell,Stun
+7,Creature,Frozen Rogue Oni of the Black Stone
+8,Enchantment,Deathgrip
+9,Spell,Apocalypse Freeze
+10,Enchantment,Hateful Lethargy
+11,Spell,Burst
+12,Creature,Skin-Walker
+13,Spell,Heal
+14,Enchantment,Alacrity
+15,Spell,Invisibility
+16,Creature,Light Grand Demon of the Sky
+17,Creature,Ghoul
+18,Enchantment,Haste
+19,Creature,Spider
+20,Creature,Ghoul
+21,Creature,Fairy
+22,Creature,Light Warrior Kraken
+23,Creature,Ghoul
+24,Creature,Eagle
+25,Enchantment,Lethargy
+26,Creature,Skin-Walker
+27,Enchantment,Irate Nimble Blight
+28,Creature,Dark Chaos Wizard of Illusion
+29,Creature,Dark Merchant Hydra
+30,Spell,Revive
+31,Creature,Warlock
+32,Spell,Fury
+33,Creature,Light Knight Kraken
+34,Creature,Skin-Walker
+35,Spell,Infuriate
+36,Spell,Life Revive
+37,Enchantment,Mighty Nature Agony
+38,Spell,Revive
+39,Artifact,Helm
+40,Creature,Wolf
+41,Creature,Troll
+42,Enchantment,Haste
+43,Creature,Magi
+44,Creature,Wolf

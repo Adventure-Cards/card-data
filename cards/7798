@@ -1,46 +1,46 @@
-==================,DECK,7798,Medium
-0,Creature,Rare,Dark King Berserker
-1,Creature,Common,Ghoul
-2,Creature,Common,Elf
-3,Spell,Common,Hypnosis
-4,Creature,Common,Elf
-5,Spell,Rare,Apocalypse Ice
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Warlock
-8,Creature,Legendary,Aura Thief Kraken of the Frozen Castle
-9,Creature,Common,Wolf
-10,Enchantment,Common,Age
-11,Creature,Common,Dwarf
-12,Creature,Common,Magi
-13,Artifact,Common,Boots
-14,Creature,Rare,Frozen Rogue Griffin
-15,Creature,Common,Dwarf
-16,Spell,Common,Sorrow
-17,Creature,Common,Eagle
-18,Creature,Legendary,Snow Assassin Cyclops of the West
-19,Creature,Common,Goblin
-20,Creature,Common,Spider
-21,Creature,Common,Spider
-22,Creature,Common,Orc
-23,Creature,Rare,Dark Priest Berserker
-24,Creature,Rare,Aura King Minotaur
-25,Artifact,Common,Boots
-26,Spell,Rare,Corpse Vortex
-27,Creature,Common,Warlock
-28,Creature,Common,Wolf
-29,Creature,Common,Orc
-30,Spell,Rare,Forged Invisibility
-31,Artifact,Common,Pendant
-32,Creature,Rare,Earth Lord Minotaur
-33,Creature,Rare,Snow Fighter Fairy
-34,Spell,Common,Frost
-35,Creature,Rare,Frozen Lord Berserker
-36,Enchantment,Rare,Nature Deathgrip
-37,Creature,Mythic,Dark Chaos Demon of Illusion
-38,Enchantment,Rare,Gloom Shield
-39,Creature,Rare,Dark Knight Berserker
-40,Artifact,Rare,Nature Belt
-41,Creature,Common,Ghoul
-42,Creature,Common,Ghoul
-43,Creature,Common,Orc
-44,Spell,Common,Heal
+==================,DECK,7798
+0,Creature,Dark King Goblin
+1,Creature,Ghoul
+2,Creature,Warlock
+3,Spell,Ice
+4,Creature,Warlock
+5,Spell,Oblivion Fury
+6,Enchantment,Haste
+7,Creature,Berserker
+8,Creature,Aura Thief Ogre of the Frozen Castle
+9,Creature,Wolf
+10,Enchantment,Blight
+11,Creature,Magi
+12,Creature,Fairy
+13,Artifact,Boots
+14,Creature,Frozen Rogue Griffin
+15,Creature,Magi
+16,Spell,Frost
+17,Creature,Eagle
+18,Creature,Snow Assassin Giant of the West
+19,Creature,Skin-Walker
+20,Creature,Paladin
+21,Creature,Paladin
+22,Creature,Spider
+23,Creature,Dark Priest Goblin
+24,Creature,Aura King Cyclops
+25,Artifact,Boots
+26,Spell,Solar Rage
+27,Creature,Berserker
+28,Creature,Wolf
+29,Creature,Spider
+30,Spell,Lunar Reanimate
+31,Artifact,Pendant
+32,Creature,Earth Lord Cyclops
+33,Creature,Snow Fighter Kraken
+34,Spell,Burst
+35,Creature,Frozen Lord Goblin
+36,Enchantment,Shimmering Age
+37,Creature,Dark Chaos Demon of Illusion
+38,Enchantment,Gloom Shrink
+39,Creature,Dark Knight Goblin
+40,Artifact,Necro Belt
+41,Creature,Ghoul
+42,Creature,Ghoul
+43,Creature,Spider
+44,Spell,Gale

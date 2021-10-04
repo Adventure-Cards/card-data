@@ -1,46 +1,46 @@
-==================,DECK,6571,Medium
-0,Artifact,Common,Bow
-1,Creature,Rare,Aura Merchant Hydra
-2,Spell,Common,Gale
-3,Creature,Rare,Aura Priest Griffin
-4,Enchantment,Common,Drain
-5,Creature,Common,Orc
-6,Artifact,Rare,Cataclysmic Cloak
-7,Enchantment,Rare,Apocalypse Shrink
-8,Creature,Rare,Light King Hydra
-9,Creature,Common,Warlock
-10,Spell,Common,Vortex
-11,Creature,Common,Goblin
-12,Creature,Rare,Snow Warrior Skin-Walker
-13,Creature,Common,Orc
-14,Creature,Common,Orc
-15,Enchantment,Rare,Grim Invert
-16,Spell,Rare,Oblivion Heal
-17,Spell,Mythic,Extreme Burn
-18,Creature,Mythic,Frozen Time Dragon of the Void
-19,Enchantment,Rare,Gloom Alacrity
-20,Creature,Common,Orc
-21,Creature,Common,Goblin
-22,Spell,Rare,Corpse Freeze
-23,Creature,Common,Paladin
-24,Creature,Common,Goblin
-25,Creature,Legendary,Frozen Warrior Kraken of the Eternal Land
-26,Creature,Common,Ghoul
-27,Enchantment,Rare,Grim Invert
-28,Artifact,Common,Staff
-29,Creature,Common,Orc
-30,Spell,Legendary,Urgent Frenzy
-31,Creature,Common,Paladin
-32,Creature,Common,Elf
-33,Creature,Rare,Snow Rogue Minotaur
-34,Creature,Common,Spider
-35,Enchantment,Common,Shield
-36,Artifact,Legendary,Dire Ring
-37,Enchantment,Common,Deathgrip
-38,Spell,Common,Pandemonium
-39,Spell,Common,Maelstrom
-40,Spell,Common,Heal
-41,Creature,Common,Magi
-42,Creature,Rare,Earth Queen Fairy
-43,Enchantment,Common,Invert
-44,Spell,Common,Torment
+==================,DECK,6571
+0,Artifact,Bow
+1,Creature,Aura Merchant Hydra
+2,Spell,Pandemonium
+3,Creature,Aura Priest Griffin
+4,Enchantment,Drain
+5,Creature,Spider
+6,Artifact,Chimeric Cloak
+7,Enchantment,Frigid Invert
+8,Creature,Light King Hydra
+9,Creature,Berserker
+10,Spell,Fury
+11,Creature,Skin-Walker
+12,Creature,Snow Warrior Orc
+13,Creature,Spider
+14,Creature,Spider
+15,Enchantment,Oblivion Drain
+16,Spell,Life Assault
+17,Spell,Mighty Sorrow Heal
+18,Creature,Frozen Time Dragon of the Void
+19,Enchantment,Dark Alacrity
+20,Creature,Spider
+21,Creature,Skin-Walker
+22,Spell,Nature Sorrow
+23,Creature,Troll
+24,Creature,Skin-Walker
+25,Creature,Frozen Warrior Ogre of the Eternal Land
+26,Creature,Ghoul
+27,Enchantment,Oblivion Haste
+28,Artifact,Staff
+29,Creature,Spider
+30,Spell,Irate Solar Sorrow
+31,Creature,Troll
+32,Creature,Warlock
+33,Creature,Snow Rogue Cyclops
+34,Creature,Paladin
+35,Enchantment,Lethargy
+36,Artifact,Clever Grim Ring
+37,Enchantment,Invert
+38,Spell,Heal
+39,Spell,Gravitation
+40,Spell,Infuriate
+41,Creature,Fairy
+42,Creature,Earth Queen Kraken
+43,Enchantment,Haste
+44,Spell,Invisibility

@@ -1,46 +1,46 @@
-==================,DECK,6497,Light
-0,Spell,Common,Frost
-1,Creature,Common,Eagle
-2,Creature,Common,Goblin
-3,Spell,Common,Frenzy
-4,Spell,Rare,Nature Hypnosis
-5,Creature,Common,Elf
-6,Enchantment,Rare,Forged Agony
-7,Spell,Rare,Gloom Gravitation
-8,Artifact,Common,Pendant
-9,Creature,Common,Orc
-10,Artifact,Rare,Oblivion Helm
-11,Spell,Rare,Miracle Stricken
-12,Enchantment,Mythic,Mighty Shade
-13,Enchantment,Common,Lethargy
-14,Enchantment,Mythic,Angry Agony
-15,Artifact,Rare,Nimble Scythe
-16,Artifact,Legendary,Extreme Belt
-17,Creature,Common,Elf
-18,Creature,Legendary,Snow Priest Oni of the Eastern Skies
-19,Enchantment,Common,Deathgrip
-20,Enchantment,Common,Lethargy
-21,Artifact,Common,Helmet
-22,Creature,Common,Spider
-23,Creature,Common,Ghoul
-24,Creature,Rare,Frozen Thief Hydra
-25,Enchantment,Rare,Dark Strength
-26,Creature,Mythic,Dark Chaos Demon of Illusion
-27,Creature,Common,Dwarf
-28,Creature,Rare,Earth Undead Minotaur
-29,Creature,Common,Orc
-30,Spell,Legendary,Urgent Heal
-31,Creature,Rare,Frozen Lord Griffin
-32,Creature,Legendary,Death Monk Kraken of the Magical Forest
-33,Creature,Rare,Aura Assassin Minotaur
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Spider
-36,Enchantment,Rare,Lunar Age
-37,Artifact,Common,Bracers
-38,Enchantment,Legendary,Mighty Shade
-39,Creature,Mythic,Dark Grand Demon of Illusion
-40,Spell,Common,Ice
-41,Enchantment,Common,Lethargy
-42,Artifact,Common,Pendant
-43,Creature,Common,Paladin
-44,Creature,Mythic,Dark Chaos Wizard of Illusion
+==================,DECK,6497
+0,Spell,Lightning
+1,Creature,Eagle
+2,Creature,Skin-Walker
+3,Spell,Reanimate
+4,Spell,Shimmering Assault
+5,Creature,Warlock
+6,Enchantment,Miracle Alacrity
+7,Spell,Lunar Reanimate
+8,Artifact,Pendant
+9,Creature,Spider
+10,Artifact,Nimble Helm
+11,Spell,Nimble Burst
+12,Enchantment,Ardent Chimeric Shield
+13,Enchantment,Drain
+14,Enchantment,Ardent Miracle Shield
+15,Artifact,Corpse Scythe
+16,Artifact,Dire Chimeric Belt
+17,Creature,Warlock
+18,Creature,Snow Priest Oni of the Eastern Skies
+19,Enchantment,Drain
+20,Enchantment,Haste
+21,Artifact,Helmet
+22,Creature,Paladin
+23,Creature,Ghoul
+24,Creature,Frozen Thief Hydra
+25,Enchantment,Cataclysmic Firebreath
+26,Creature,Dark Chaos Demon of Illusion
+27,Creature,Magi
+28,Creature,Earth Undead Cyclops
+29,Creature,Spider
+30,Spell,Instant Solar Gravitation
+31,Creature,Frozen Lord Griffin
+32,Creature,Death Monk Ogre of the Magical Forest
+33,Creature,Aura Assassin Cyclops
+34,Enchantment,Drain
+35,Creature,Paladin
+36,Enchantment,Gloom Flight
+37,Artifact,Bracers
+38,Enchantment,Urgent Chimeric Flight
+39,Creature,Dark Grand Demon of Illusion
+40,Spell,Maelstrom
+41,Enchantment,Invert
+42,Artifact,Pendant
+43,Creature,Troll
+44,Creature,Dark Chaos Wizard of Illusion

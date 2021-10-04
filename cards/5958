@@ -1,46 +1,46 @@
-==================,DECK,5958,Light
-0,Enchantment,Common,Drain
-1,Creature,Mythic,Snow Undead Dragon of Hate
-2,Creature,Rare,Snow Priest Berserker
-3,Artifact,Common,Gloves
-4,Enchantment,Common,Invert
-5,Creature,Common,Orc
-6,Spell,Rare,Shimmering Fury
-7,Creature,Legendary,Aura Thief Oni of the Low Hills
-8,Spell,Common,Assault
-9,Spell,Common,Revive
-10,Enchantment,Common,Shield
-11,Enchantment,Common,Agony
-12,Creature,Legendary,Frozen Queen Cyclops of the Frozen Castle
-13,Creature,Mythic,Dark Undead Phoenix of Illusion
-14,Spell,Rare,Necro Pandemonium
-15,Creature,Common,Dwarf
-16,Spell,Rare,Lunar Gale
-17,Enchantment,Common,Strength
-18,Enchantment,Common,Shade
-19,Enchantment,Common,Blight
-20,Creature,Common,Spider
-21,Creature,Rare,Aura Undead Minotaur
-22,Creature,Mythic,Earth Grand Wizard of the Shadows
-23,Artifact,Common,Scepter
-24,Creature,Common,Magi
-25,Enchantment,Mythic,Mighty Lethargy
-26,Spell,Common,Stricken
-27,Spell,Common,Revive
-28,Enchantment,Common,Age
-29,Enchantment,Common,Shrink
-30,Creature,Common,Spider
-31,Spell,Rare,Grim Revive
-32,Artifact,Common,Potion
-33,Creature,Rare,Light Monk Minotaur
-34,Spell,Rare,Necro Stun
-35,Creature,Common,Paladin
-36,Creature,Legendary,Snow Undead Kraken of the Eastern Skies
-37,Creature,Common,Eagle
-38,Spell,Rare,Miracle Stun
-39,Spell,Common,Maelstrom
-40,Creature,Rare,Dark Queen Skin-Walker
-41,Enchantment,Common,Blight
-42,Spell,Common,Gale
-43,Creature,Common,Dwarf
-44,Spell,Common,Fury
+==================,DECK,5958
+0,Enchantment,Alacrity
+1,Creature,Snow Undead Dragon of Hate
+2,Creature,Snow Priest Goblin
+3,Artifact,Gloves
+4,Enchantment,Strength
+5,Creature,Spider
+6,Spell,Hateful Revive
+7,Creature,Aura Thief Oni of the Low Hills
+8,Spell,Heal
+9,Spell,Gale
+10,Enchantment,Strength
+11,Enchantment,Shade
+12,Creature,Frozen Queen Giant of the Frozen Castle
+13,Creature,Dark Undead Phoenix of Illusion
+14,Spell,Necro Reanimate
+15,Creature,Magi
+16,Spell,Lunar Tempest
+17,Enchantment,Shield
+18,Enchantment,Flight
+19,Enchantment,Shield
+20,Creature,Paladin
+21,Creature,Aura Undead Cyclops
+22,Creature,Earth Grand Wizard of the Shadows
+23,Artifact,Scepter
+24,Creature,Fairy
+25,Enchantment,Ardent Lunar Shield
+26,Spell,Lightning
+27,Spell,Heal
+28,Enchantment,Lethargy
+29,Enchantment,Drain
+30,Creature,Paladin
+31,Spell,Life Vortex
+32,Artifact,Potion
+33,Creature,Light Monk Cyclops
+34,Spell,Solar Ice
+35,Creature,Troll
+36,Creature,Snow Undead Ogre of the Eastern Skies
+37,Creature,Eagle
+38,Spell,Nimble Vortex
+39,Spell,Fury
+40,Creature,Dark Queen Orc
+41,Enchantment,Lethargy
+42,Spell,Gale
+43,Creature,Magi
+44,Spell,Frenzy

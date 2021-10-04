@@ -1,46 +1,46 @@
-==================,DECK,4252,Medium
-0,Creature,Common,Spider
-1,Spell,Rare,Lunar Infuriate
-2,Artifact,Rare,Nimble Scythe
-3,Enchantment,Common,Shade
-4,Creature,Common,Eagle
-5,Creature,Common,Orc
-6,Creature,Legendary,Snow Merchant Cyclops of the Polar Woods
-7,Spell,Legendary,Angry Torment
-8,Enchantment,Legendary,Urgent Deathgrip
-9,Enchantment,Common,Strength
-10,Creature,Common,Elf
-11,Spell,Common,Revive
-12,Spell,Common,Infuriate
-13,Enchantment,Mythic,Angry Age
-14,Creature,Rare,Frozen Assassin Minotaur
-15,Enchantment,Legendary,Clever Deathgrip
-16,Enchantment,Legendary,Extreme Shield
-17,Creature,Common,Eagle
-18,Creature,Common,Orc
-19,Creature,Common,Elf
-20,Creature,Common,Magi
-21,Enchantment,Common,Age
-22,Enchantment,Common,Drain
-23,Creature,Common,Spider
-24,Creature,Common,Goblin
-25,Artifact,Common,Helmet
-26,Enchantment,Common,Age
-27,Spell,Common,Ice
-28,Creature,Common,Orc
-29,Enchantment,Legendary,Instant Agony
-30,Enchantment,Legendary,Intense Alacrity
-31,Creature,Common,Eagle
-32,Creature,Common,Orc
-33,Creature,Rare,Earth Rogue Griffin
-34,Enchantment,Common,Invert
-35,Enchantment,Mythic,Intense Shade
-36,Enchantment,Common,Agony
-37,Creature,Rare,Aura Monk Berserker
-38,Enchantment,Common,Shield
-39,Spell,Common,Ice
-40,Creature,Rare,Light Lord Berserker
-41,Creature,Legendary,Light Assassin Giant of the Plains
-42,Creature,Common,Goblin
-43,Creature,Common,Orc
-44,Spell,Rare,Grim Invisibility
+==================,DECK,4252
+0,Creature,Paladin
+1,Spell,Dark Freeze
+2,Artifact,Corpse Scythe
+3,Enchantment,Blight
+4,Creature,Eagle
+5,Creature,Spider
+6,Creature,Snow Merchant Giant of the Polar Woods
+7,Spell,Ardent Lunar Rage
+8,Enchantment,Clever Shimmering Lethargy
+9,Enchantment,Age
+10,Creature,Warlock
+11,Spell,Burn
+12,Spell,Invisibility
+13,Enchantment,Clever Gloom Shield
+14,Creature,Frozen Assassin Cyclops
+15,Enchantment,Potent Oblivion Drain
+16,Enchantment,Urgent Gloom Flight
+17,Creature,Eagle
+18,Creature,Spider
+19,Creature,Warlock
+20,Creature,Fairy
+21,Enchantment,Deathgrip
+22,Enchantment,Flight
+23,Creature,Paladin
+24,Creature,Skin-Walker
+25,Artifact,Helmet
+26,Enchantment,Strength
+27,Spell,Tempest
+28,Creature,Spider
+29,Enchantment,Irate Corpse Deathgrip
+30,Enchantment,Irate Forged Deathgrip
+31,Creature,Eagle
+32,Creature,Spider
+33,Creature,Earth Rogue Griffin
+34,Enchantment,Invert
+35,Enchantment,Irate Necro Deathgrip
+36,Enchantment,Agony
+37,Creature,Aura Monk Goblin
+38,Enchantment,Lethargy
+39,Spell,Fireball
+40,Creature,Light Lord Goblin
+41,Creature,Light Assassin Dwarf of the Plains
+42,Creature,Skin-Walker
+43,Creature,Spider
+44,Spell,Victory Frenzy

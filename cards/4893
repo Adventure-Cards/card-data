@@ -1,46 +1,46 @@
-==================,DECK,4893,Medium
-0,Spell,Rare,Apocalypse Burn
-1,Artifact,Common,Cloak
-2,Creature,Common,Eagle
-3,Creature,Rare,Snow King Minotaur
-4,Creature,Rare,Snow Thief Fairy
-5,Enchantment,Common,Invert
-6,Creature,Common,Eagle
-7,Creature,Rare,Aura Merchant Skin-Walker
-8,Artifact,Rare,Necro Bracers
-9,Spell,Common,Frost
-10,Creature,Rare,Dark Fighter Hydra
-11,Creature,Common,Orc
-12,Spell,Rare,Shimmering Stricken
-13,Creature,Legendary,Earth Lord Cyclops of the Haven
-14,Creature,Mythic,Dark Undead Phoenix of Illusion
-15,Creature,Rare,Death Lord Berserker
-16,Creature,Common,Orc
-17,Spell,Common,Revive
-18,Creature,Legendary,Snow Monk Oni of the Border
-19,Creature,Rare,Frozen King Fairy
-20,Creature,Common,Dwarf
-21,Enchantment,Common,Shrink
-22,Creature,Common,Orc
-23,Creature,Rare,Aura Merchant Fairy
-24,Artifact,Common,Amulet
-25,Creature,Common,Goblin
-26,Spell,Common,Vortex
-27,Enchantment,Common,Strength
-28,Artifact,Common,Staff
-29,Artifact,Common,Ring
-30,Enchantment,Common,Deathgrip
-31,Enchantment,Common,Strength
-32,Creature,Common,Warlock
-33,Spell,Common,Gale
-34,Creature,Common,Spider
-35,Spell,Common,Wall
-36,Creature,Common,Spider
-37,Enchantment,Common,Blight
-38,Spell,Legendary,Clever Heal
-39,Creature,Legendary,Light King Kraken of the West
-40,Spell,Rare,Dark Revive
-41,Enchantment,Common,Shield
-42,Creature,Common,Paladin
-43,Enchantment,Rare,Dark Shield
-44,Creature,Common,Wolf
+==================,DECK,4893
+0,Spell,Nimble Gale
+1,Artifact,Cloak
+2,Creature,Eagle
+3,Creature,Snow King Cyclops
+4,Creature,Snow Thief Kraken
+5,Enchantment,Agony
+6,Creature,Eagle
+7,Creature,Aura Merchant Orc
+8,Artifact,Hateful Bracers
+9,Spell,Gale
+10,Creature,Dark Fighter Hydra
+11,Creature,Spider
+12,Spell,Nature Freeze
+13,Creature,Earth Lord Giant of the Haven
+14,Creature,Dark Undead Phoenix of Illusion
+15,Creature,Death Lord Goblin
+16,Creature,Spider
+17,Spell,Infuriate
+18,Creature,Snow Monk Oni of the Border
+19,Creature,Frozen King Kraken
+20,Creature,Magi
+21,Enchantment,Strength
+22,Creature,Spider
+23,Creature,Aura Merchant Kraken
+24,Artifact,Amulet
+25,Creature,Skin-Walker
+26,Spell,Pandemonium
+27,Enchantment,Drain
+28,Artifact,Staff
+29,Artifact,Ring
+30,Enchantment,Flight
+31,Enchantment,Drain
+32,Creature,Berserker
+33,Spell,Burst
+34,Creature,Paladin
+35,Spell,Fury
+36,Creature,Paladin
+37,Enchantment,Alacrity
+38,Spell,Urgent Life Ice
+39,Creature,Light King Ogre of the West
+40,Spell,Gloom Rage
+41,Enchantment,Drain
+42,Creature,Troll
+43,Enchantment,Gloom Shield
+44,Creature,Wolf

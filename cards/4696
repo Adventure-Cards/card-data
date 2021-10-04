@@ -1,46 +1,46 @@
-==================,DECK,4696,Medium
-0,Creature,Common,Dwarf
-1,Spell,Legendary,Extreme Revive
-2,Creature,Common,Spider
-3,Creature,Rare,Earth Assassin Fairy
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Magi
-6,Creature,Mythic,Light Chaos Demon of the Sky
-7,Spell,Common,Gravitation
-8,Creature,Common,Spider
-9,Artifact,Common,Ghost Wand
-10,Enchantment,Common,Haste
-11,Creature,Rare,Frozen Priest Skin-Walker
-12,Creature,Common,Goblin
-13,Spell,Rare,Life Stricken
-14,Enchantment,Common,Deathgrip
-15,Creature,Rare,Snow Fighter Berserker
-16,Spell,Legendary,Dire Torment
-17,Artifact,Common,Scythe
-18,Creature,Legendary,Earth Priest Orge of the Arctic Blizzards
-19,Creature,Common,Spider
-20,Creature,Rare,Snow Fighter Minotaur
-21,Creature,Common,Spider
-22,Creature,Legendary,Earth Knight Kraken of the Border
-23,Creature,Common,Orc
-24,Artifact,Common,Amulet
-25,Creature,Rare,Snow King Minotaur
-26,Creature,Mythic,Dark Time Phoenix of Illusion
-27,Enchantment,Rare,Gloom Alacrity
-28,Spell,Common,Sorrow
-29,Spell,Common,Torment
-30,Enchantment,Rare,Apocalypse Age
-31,Creature,Common,Paladin
-32,Creature,Common,Paladin
-33,Creature,Rare,Aura Fighter Hydra
-34,Creature,Rare,Death Fighter Fairy
-35,Spell,Rare,Hateful Hypnosis
-36,Enchantment,Common,Age
-37,Spell,Common,Stun
-38,Spell,Common,Infuriate
-39,Enchantment,Common,Shield
-40,Spell,Rare,Cataclysmic Infuriate
-41,Creature,Rare,Light Fighter Skin-Walker
-42,Creature,Legendary,Dark Warrior Giant of the Mountains
-43,Enchantment,Common,Invert
-44,Creature,Common,Goblin
+==================,DECK,4696
+0,Creature,Magi
+1,Spell,Instant Cataclysmic Reanimate
+2,Creature,Paladin
+3,Creature,Earth Assassin Kraken
+4,Enchantment,Shade
+5,Creature,Fairy
+6,Creature,Light Chaos Demon of the Sky
+7,Spell,Frenzy
+8,Creature,Paladin
+9,Artifact,Ghost Wand
+10,Enchantment,Shade
+11,Creature,Frozen Priest Orc
+12,Creature,Skin-Walker
+13,Spell,Life Heal
+14,Enchantment,Invert
+15,Creature,Snow Fighter Goblin
+16,Spell,Urgent Life Gravitation
+17,Artifact,Scythe
+18,Creature,Earth Priest Elf of the Arctic Blizzards
+19,Creature,Paladin
+20,Creature,Snow Fighter Cyclops
+21,Creature,Paladin
+22,Creature,Earth Knight Ogre of the Border
+23,Creature,Spider
+24,Artifact,Amulet
+25,Creature,Snow King Cyclops
+26,Creature,Dark Time Phoenix of Illusion
+27,Enchantment,Dark Shrink
+28,Spell,Gravitation
+29,Spell,Revive
+30,Enchantment,Victory Invert
+31,Creature,Troll
+32,Creature,Troll
+33,Creature,Aura Fighter Hydra
+34,Creature,Death Fighter Kraken
+35,Spell,Miracle Vortex
+36,Enchantment,Age
+37,Spell,Gale
+38,Spell,Burn
+39,Enchantment,Firebreath
+40,Spell,Cataclysmic Wall
+41,Creature,Light Fighter Orc
+42,Creature,Dark Warrior Dwarf of the Mountains
+43,Enchantment,Shield
+44,Creature,Skin-Walker

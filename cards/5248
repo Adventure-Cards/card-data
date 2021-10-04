@@ -1,46 +1,46 @@
-==================,DECK,5248,Medium
-0,Creature,Common,Elf
-1,Spell,Common,Revive
-2,Creature,Common,Wolf
-3,Creature,Common,Spider
-4,Spell,Common,Frenzy
-5,Spell,Common,Wall
-6,Enchantment,Common,Haste
-7,Creature,Common,Orc
-8,Creature,Rare,Snow Merchant Skin-Walker
-9,Spell,Common,Stun
-10,Spell,Rare,Miracle Stun
-11,Creature,Common,Elf
-12,Creature,Rare,Aura Undead Skin-Walker
-13,Creature,Common,Spider
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Blight
-16,Creature,Mythic,Snow Time Dragon of Hate
-17,Creature,Legendary,Frozen Rogue Giant of the Plains
-18,Enchantment,Mythic,Intense Shrink
-19,Enchantment,Common,Strength
-20,Spell,Common,Fury
-21,Creature,Rare,Earth Undead Skin-Walker
-22,Artifact,Rare,Grim Belt
-23,Creature,Rare,Death Fighter Hydra
-24,Spell,Rare,Solar Torment
-25,Spell,Common,Frost
-26,Creature,Common,Goblin
-27,Enchantment,Common,Shield
-28,Creature,Common,Orc
-29,Spell,Legendary,Extreme Freeze
-30,Enchantment,Rare,Corpse Invert
-31,Creature,Common,Elf
-32,Enchantment,Common,Shade
-33,Artifact,Common,Ghost Wand
-34,Creature,Common,Orc
-35,Artifact,Common,Pendant
-36,Creature,Common,Wolf
-37,Creature,Legendary,Dark Monk Oni of the Eastern Skies
-38,Artifact,Common,Helmet
-39,Spell,Common,Hypnosis
-40,Enchantment,Mythic,Potent Blight
-41,Spell,Common,Heal
-42,Creature,Common,Dwarf
-43,Creature,Common,Elf
-44,Artifact,Common,Potion
+==================,DECK,5248
+0,Creature,Warlock
+1,Spell,Tempest
+2,Creature,Wolf
+3,Creature,Paladin
+4,Spell,Pandemonium
+5,Spell,Tempest
+6,Enchantment,Flight
+7,Creature,Spider
+8,Creature,Snow Merchant Orc
+9,Spell,Frenzy
+10,Spell,Victory Sorrow
+11,Creature,Warlock
+12,Creature,Aura Undead Orc
+13,Creature,Paladin
+14,Creature,Magi
+15,Enchantment,Lethargy
+16,Creature,Snow Time Dragon of Hate
+17,Creature,Frozen Rogue Dwarf of the Plains
+18,Enchantment,Potent Necro Strength
+19,Enchantment,Shade
+20,Spell,Hypnosis
+21,Creature,Earth Undead Orc
+22,Artifact,Grim Belt
+23,Creature,Death Fighter Hydra
+24,Spell,Forged Stricken
+25,Spell,Assault
+26,Creature,Skin-Walker
+27,Enchantment,Firebreath
+28,Creature,Spider
+29,Spell,Instant Cataclysmic Sorrow
+30,Enchantment,Shimmering Lethargy
+31,Creature,Warlock
+32,Enchantment,Invert
+33,Artifact,Ghost Wand
+34,Creature,Spider
+35,Artifact,Pendant
+36,Creature,Wolf
+37,Creature,Dark Monk Oni of the Eastern Skies
+38,Artifact,Helmet
+39,Spell,Revive
+40,Enchantment,Zealous Nimble Blight
+41,Spell,Maelstrom
+42,Creature,Magi
+43,Creature,Warlock
+44,Artifact,Potion

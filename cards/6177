@@ -1,46 +1,46 @@
-==================,DECK,6177,Medium
-0,Enchantment,Common,Haste
-1,Artifact,Rare,Life Ring
-2,Spell,Common,Burst
-3,Creature,Common,Orc
-4,Artifact,Common,Scythe
-5,Creature,Common,Wolf
-6,Spell,Common,Stricken
-7,Creature,Mythic,Light Grand Wizard of the Sky
-8,Creature,Common,Ghoul
-9,Spell,Common,Heal
-10,Enchantment,Common,Haste
-11,Enchantment,Common,Drain
-12,Creature,Legendary,Snow Knight Kraken of the Swamp
-13,Spell,Rare,Corpse Vortex
-14,Spell,Rare,Frigid Frenzy
-15,Creature,Legendary,Earth King Kraken of the Border
-16,Spell,Common,Stun
-17,Creature,Rare,Snow Merchant Griffin
-18,Creature,Rare,Earth Assassin Minotaur
-19,Creature,Rare,Dark Fighter Skin-Walker
-20,Creature,Common,Ghoul
-21,Enchantment,Legendary,Dire Invert
-22,Enchantment,Common,Drain
-23,Creature,Common,Ghoul
-24,Creature,Common,Goblin
-25,Enchantment,Rare,Lunar Flight
-26,Spell,Common,Gale
-27,Spell,Common,Lightning
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Agony
-30,Enchantment,Common,Drain
-31,Enchantment,Rare,Dark Invert
-32,Enchantment,Legendary,Angry Agony
-33,Artifact,Rare,Solar Boots
-34,Spell,Legendary,Instant Stricken
-35,Spell,Legendary,Instant Burst
-36,Creature,Common,Wolf
-37,Creature,Common,Magi
-38,Creature,Rare,Aura Undead Griffin
-39,Spell,Common,Reanimate
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Spider
-42,Creature,Common,Elf
-43,Creature,Rare,Aura Thief Hydra
-44,Spell,Common,Burst
+==================,DECK,6177
+0,Enchantment,Shield
+1,Artifact,Nimble Ring
+2,Spell,Hypnosis
+3,Creature,Spider
+4,Artifact,Scythe
+5,Creature,Wolf
+6,Spell,Revive
+7,Creature,Light Grand Wizard of the Sky
+8,Creature,Ghoul
+9,Spell,Tempest
+10,Enchantment,Agony
+11,Enchantment,Drain
+12,Creature,Snow Knight Ogre of the Swamp
+13,Spell,Hateful Sorrow
+14,Spell,Victory Wall
+15,Creature,Earth King Ogre of the Border
+16,Spell,Gale
+17,Creature,Snow Merchant Griffin
+18,Creature,Earth Assassin Cyclops
+19,Creature,Dark Fighter Orc
+20,Creature,Ghoul
+21,Enchantment,Irate Oblivion Blight
+22,Enchantment,Lethargy
+23,Creature,Ghoul
+24,Creature,Skin-Walker
+25,Enchantment,Lunar Firebreath
+26,Spell,Maelstrom
+27,Spell,Stun
+28,Creature,Magi
+29,Enchantment,Age
+30,Enchantment,Shield
+31,Enchantment,Sorrow Flight
+32,Enchantment,Urgent Miracle Flight
+33,Artifact,Necro Boots
+34,Spell,Mighty Nature Gale
+35,Spell,Mighty Shimmering Invisibility
+36,Creature,Wolf
+37,Creature,Fairy
+38,Creature,Aura Undead Griffin
+39,Spell,Freeze
+40,Enchantment,Deathgrip
+41,Creature,Paladin
+42,Creature,Warlock
+43,Creature,Aura Thief Hydra
+44,Spell,Sorrow

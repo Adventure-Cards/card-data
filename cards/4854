@@ -1,46 +1,46 @@
-==================,DECK,4854,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Warlock
-2,Spell,Rare,Nimble Frost
-3,Enchantment,Common,Blight
-4,Creature,Rare,Snow Undead Hydra
-5,Creature,Legendary,Death Warrior Cyclops of the Polar Woods
-6,Spell,Legendary,Angry Vortex
-7,Spell,Rare,Life Stricken
-8,Enchantment,Common,Shrink
-9,Creature,Common,Orc
-10,Creature,Rare,Death Undead Berserker
-11,Creature,Common,Orc
-12,Creature,Legendary,Aura Fighter Cyclops of the Arctic Blizzards
-13,Enchantment,Common,Shrink
-14,Artifact,Common,Ring
-15,Enchantment,Common,Drain
-16,Spell,Common,Stun
-17,Creature,Rare,Aura King Skin-Walker
-18,Artifact,Common,Ring
-19,Artifact,Legendary,Clever Bracers
-20,Creature,Common,Eagle
-21,Enchantment,Common,Invert
-22,Creature,Common,Orc
-23,Creature,Common,Magi
-24,Creature,Common,Dwarf
-25,Spell,Common,Hypnosis
-26,Spell,Common,Ice
-27,Creature,Common,Warlock
-28,Spell,Common,Gale
-29,Enchantment,Common,Shield
-30,Enchantment,Rare,Hateful Age
-31,Creature,Common,Paladin
-32,Enchantment,Common,Blight
-33,Creature,Common,Orc
-34,Creature,Common,Magi
-35,Creature,Rare,Snow Rogue Fairy
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Enchantment,Rare,Cataclysmic Blight
-39,Creature,Common,Spider
-40,Creature,Common,Paladin
-41,Creature,Common,Ghoul
-42,Creature,Common,Paladin
-43,Creature,Mythic,Snow Ancient Demon of Hate
-44,Creature,Legendary,Earth Assassin Cyclops of the Plains
+==================,DECK,4854
+0,Creature,Troll
+1,Creature,Berserker
+2,Spell,Forged Maelstrom
+3,Enchantment,Flight
+4,Creature,Snow Undead Hydra
+5,Creature,Death Warrior Giant of the Polar Woods
+6,Spell,Dire Miracle Gravitation
+7,Spell,Oblivion Freeze
+8,Enchantment,Strength
+9,Creature,Spider
+10,Creature,Death Undead Goblin
+11,Creature,Spider
+12,Creature,Aura Fighter Giant of the Arctic Blizzards
+13,Enchantment,Alacrity
+14,Artifact,Ring
+15,Enchantment,Alacrity
+16,Spell,Reanimate
+17,Creature,Aura King Orc
+18,Artifact,Ring
+19,Artifact,Irate Apocalypse Bracers
+20,Creature,Eagle
+21,Enchantment,Flight
+22,Creature,Spider
+23,Creature,Fairy
+24,Creature,Magi
+25,Spell,Burst
+26,Spell,Pandemonium
+27,Creature,Berserker
+28,Spell,Fury
+29,Enchantment,Firebreath
+30,Enchantment,Gloom Flight
+31,Creature,Troll
+32,Enchantment,Firebreath
+33,Creature,Spider
+34,Creature,Fairy
+35,Creature,Snow Rogue Kraken
+36,Creature,Wolf
+37,Creature,Berserker
+38,Enchantment,Cataclysmic Shrink
+39,Creature,Paladin
+40,Creature,Troll
+41,Creature,Ghoul
+42,Creature,Troll
+43,Creature,Snow Ancient Demon of Hate
+44,Creature,Earth Assassin Giant of the Plains

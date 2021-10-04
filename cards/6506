@@ -1,46 +1,46 @@
-==================,DECK,6506,Medium
-0,Enchantment,Rare,Corpse Agony
-1,Enchantment,Rare,Apocalypse Haste
-2,Spell,Common,Lightning
-3,Enchantment,Common,Alacrity
-4,Creature,Common,Elf
-5,Spell,Rare,Lunar Burst
-6,Artifact,Rare,Hateful Bracers
-7,Creature,Common,Ghoul
-8,Spell,Rare,Grim Wall
-9,Artifact,Common,Gauntlet
-10,Artifact,Rare,Cataclysmic Divine Robe
-11,Spell,Common,Fury
-12,Creature,Common,Ghoul
-13,Creature,Common,Ghoul
-14,Creature,Common,Spider
-15,Creature,Mythic,Earth Ancient Demon of the Shadows
-16,Creature,Common,Wolf
-17,Enchantment,Common,Agony
-18,Enchantment,Mythic,Intense Deathgrip
-19,Spell,Rare,Nimble Rage
-20,Creature,Legendary,Earth Merchant Oni of the Mountains
-21,Artifact,Common,Scepter
-22,Artifact,Rare,Frigid Pendant
-23,Spell,Rare,Frigid Heal
-24,Enchantment,Common,Lethargy
-25,Enchantment,Mythic,Instant Age
-26,Creature,Legendary,Earth Monk Kraken of the Swamp
-27,Artifact,Common,Ring
-28,Creature,Common,Wolf
-29,Enchantment,Common,Age
-30,Enchantment,Common,Drain
-31,Artifact,Rare,Grim Bow
-32,Creature,Common,Paladin
-33,Creature,Common,Wolf
-34,Enchantment,Common,Invert
-35,Creature,Common,Paladin
-36,Creature,Common,Eagle
-37,Creature,Legendary,Light Priest Oni of the Border
-38,Spell,Common,Burst
-39,Artifact,Rare,Miracle Ring
-40,Artifact,Common,Ghost Wand
-41,Creature,Common,Warlock
-42,Creature,Legendary,Death Priest Cyclops of the Eastern Skies
-43,Artifact,Rare,Nimble Crown
-44,Spell,Common,Hypnosis
+==================,DECK,6506
+0,Enchantment,Corpse Deathgrip
+1,Enchantment,Life Haste
+2,Spell,Tempest
+3,Enchantment,Blight
+4,Creature,Warlock
+5,Spell,Chimeric Sorrow
+6,Artifact,Chimeric Bracers
+7,Creature,Ghoul
+8,Spell,Victory Hypnosis
+9,Artifact,Gauntlet
+10,Artifact,Chimeric Divine Robe
+11,Spell,Fireball
+12,Creature,Ghoul
+13,Creature,Ghoul
+14,Creature,Paladin
+15,Creature,Earth Ancient Demon of the Shadows
+16,Creature,Wolf
+17,Enchantment,Deathgrip
+18,Enchantment,Clever Shimmering Lethargy
+19,Spell,Necro Burst
+20,Creature,Earth Merchant Oni of the Mountains
+21,Artifact,Scepter
+22,Artifact,Frigid Pendant
+23,Spell,Apocalypse Heal
+24,Enchantment,Age
+25,Enchantment,Empyrean Nature Age
+26,Creature,Earth Monk Ogre of the Swamp
+27,Artifact,Ring
+28,Creature,Wolf
+29,Enchantment,Flight
+30,Enchantment,Age
+31,Artifact,Apocalypse Bow
+32,Creature,Troll
+33,Creature,Wolf
+34,Enchantment,Lethargy
+35,Creature,Troll
+36,Creature,Eagle
+37,Creature,Light Priest Oni of the Border
+38,Spell,Frenzy
+39,Artifact,Grim Ring
+40,Artifact,Ghost Wand
+41,Creature,Berserker
+42,Creature,Death Priest Giant of the Eastern Skies
+43,Artifact,Shimmering Crown
+44,Spell,Burn

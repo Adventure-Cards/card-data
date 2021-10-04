@@ -1,46 +1,46 @@
-==================,DECK,6164,Light
-0,Spell,Common,Ice
-1,Creature,Common,Elf
-2,Spell,Common,Wall
-3,Spell,Legendary,Urgent Pandemonium
-4,Spell,Legendary,Clever Gravitation
-5,Spell,Common,Stun
-6,Enchantment,Common,Age
-7,Creature,Mythic,Earth Ancient Wizard of the Shadows
-8,Spell,Common,Fury
-9,Enchantment,Common,Invert
-10,Creature,Rare,Earth Merchant Berserker
-11,Creature,Common,Magi
-12,Creature,Common,Magi
-13,Enchantment,Common,Shrink
-14,Creature,Common,Orc
-15,Spell,Common,Stricken
-16,Enchantment,Common,Haste
-17,Creature,Common,Paladin
-18,Creature,Common,Dwarf
-19,Spell,Common,Assault
-20,Creature,Common,Warlock
-21,Spell,Rare,Necro Burst
-22,Enchantment,Mythic,Mighty Deathgrip
-23,Creature,Mythic,Frozen Ancient Wizard of the Void
-24,Artifact,Common,Ghost Wand
-25,Enchantment,Common,Lethargy
-26,Creature,Mythic,Dark Nameless Phoenix of Illusion
-27,Enchantment,Common,Deathgrip
-28,Artifact,Common,Gloves
-29,Enchantment,Legendary,Mighty Strength
-30,Enchantment,Common,Invert
-31,Enchantment,Common,Shade
-32,Creature,Rare,Dark Assassin Hydra
-33,Spell,Legendary,Clever Hypnosis
-34,Enchantment,Mythic,Urgent Haste
-35,Creature,Mythic,Earth Chaos Demon of the Shadows
-36,Creature,Common,Elf
-37,Spell,Common,Wall
-38,Creature,Common,Paladin
-39,Creature,Common,Goblin
-40,Creature,Common,Goblin
-41,Spell,Rare,Life Gale
-42,Creature,Common,Orc
-43,Enchantment,Common,Shrink
-44,Creature,Common,Spider
+==================,DECK,6164
+0,Spell,Tempest
+1,Creature,Warlock
+2,Spell,Burn
+3,Spell,Clever Shimmering Rage
+4,Spell,Dire Apocalypse Lightning
+5,Spell,Heal
+6,Enchantment,Invert
+7,Creature,Earth Ancient Wizard of the Shadows
+8,Spell,Ice
+9,Enchantment,Age
+10,Creature,Earth Merchant Goblin
+11,Creature,Fairy
+12,Creature,Fairy
+13,Enchantment,Firebreath
+14,Creature,Spider
+15,Spell,Ice
+16,Enchantment,Invert
+17,Creature,Troll
+18,Creature,Magi
+19,Spell,Fury
+20,Creature,Berserker
+21,Spell,Hateful Fireball
+22,Enchantment,Potent Sorrow Shrink
+23,Creature,Frozen Ancient Wizard of the Void
+24,Artifact,Ghost Wand
+25,Enchantment,Lethargy
+26,Creature,Dark Nameless Phoenix of Illusion
+27,Enchantment,Strength
+28,Artifact,Gloves
+29,Enchantment,Dire Cataclysmic Firebreath
+30,Enchantment,Haste
+31,Enchantment,Haste
+32,Creature,Dark Assassin Hydra
+33,Spell,Potent Apocalypse Hypnosis
+34,Enchantment,Potent Corpse Strength
+35,Creature,Earth Chaos Demon of the Shadows
+36,Creature,Warlock
+37,Spell,Invisibility
+38,Creature,Troll
+39,Creature,Skin-Walker
+40,Creature,Skin-Walker
+41,Spell,Apocalypse Revive
+42,Creature,Spider
+43,Enchantment,Age
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,6115,Light
-0,Creature,Common,Elf
-1,Creature,Common,Ghoul
-2,Creature,Common,Ghoul
-3,Creature,Rare,Light Lord Skin-Walker
-4,Creature,Common,Spider
-5,Artifact,Common,Cloak
-6,Spell,Common,Stun
-7,Spell,Rare,Necro Infuriate
-8,Spell,Common,Burst
-9,Artifact,Common,Gloves
-10,Enchantment,Common,Deathgrip
-11,Spell,Rare,Solar Vortex
-12,Creature,Rare,Aura King Berserker
-13,Creature,Common,Dwarf
-14,Creature,Rare,Death Thief Minotaur
-15,Enchantment,Common,Shade
-16,Enchantment,Common,Haste
-17,Creature,Common,Wolf
-18,Creature,Rare,Dark Assassin Fairy
-19,Spell,Common,Fury
-20,Enchantment,Mythic,Dire Drain
-21,Spell,Common,Burst
-22,Enchantment,Mythic,Instant Age
-23,Creature,Common,Elf
-24,Enchantment,Common,Lethargy
-25,Artifact,Common,Gauntlet
-26,Enchantment,Common,Agony
-27,Creature,Common,Dwarf
-28,Creature,Common,Wolf
-29,Creature,Common,Orc
-30,Spell,Common,Gravitation
-31,Artifact,Common,Bracers
-32,Spell,Rare,Hateful Stricken
-33,Spell,Common,Vortex
-34,Enchantment,Mythic,Intense Invert
-35,Artifact,Common,Gloves
-36,Enchantment,Common,Shield
-37,Creature,Common,Magi
-38,Creature,Common,Goblin
-39,Creature,Common,Goblin
-40,Creature,Rare,Dark Priest Skin-Walker
-41,Enchantment,Common,Shield
-42,Creature,Legendary,Dark Thief Orge of the Arctic Blizzards
-43,Creature,Common,Ghoul
-44,Creature,Common,Elf
+==================,DECK,6115
+0,Creature,Warlock
+1,Creature,Ghoul
+2,Creature,Ghoul
+3,Creature,Light Lord Orc
+4,Creature,Paladin
+5,Artifact,Cloak
+6,Spell,Frenzy
+7,Spell,Nature Reanimate
+8,Spell,Fury
+9,Artifact,Gloves
+10,Enchantment,Firebreath
+11,Spell,Shimmering Tempest
+12,Creature,Aura King Goblin
+13,Creature,Magi
+14,Creature,Death Thief Cyclops
+15,Enchantment,Drain
+16,Enchantment,Shield
+17,Creature,Wolf
+18,Creature,Dark Assassin Kraken
+19,Spell,Fury
+20,Enchantment,Empyrean Apocalypse Shade
+21,Spell,Lightning
+22,Enchantment,Mighty Nature Agony
+23,Creature,Warlock
+24,Enchantment,Deathgrip
+25,Artifact,Gauntlet
+26,Enchantment,Lethargy
+27,Creature,Magi
+28,Creature,Wolf
+29,Creature,Spider
+30,Spell,Heal
+31,Artifact,Bracers
+32,Spell,Miracle Lightning
+33,Spell,Stricken
+34,Enchantment,Dire Shimmering Age
+35,Artifact,Gloves
+36,Enchantment,Alacrity
+37,Creature,Fairy
+38,Creature,Skin-Walker
+39,Creature,Skin-Walker
+40,Creature,Dark Priest Orc
+41,Enchantment,Strength
+42,Creature,Dark Thief Elf of the Arctic Blizzards
+43,Creature,Ghoul
+44,Creature,Warlock

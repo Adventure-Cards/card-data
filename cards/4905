@@ -1,46 +1,46 @@
-==================,DECK,4905,Medium
-0,Creature,Rare,Death Undead Minotaur
-1,Creature,Legendary,Death Monk Giant of the Low Hills
-2,Creature,Rare,Earth Monk Fairy
-3,Creature,Common,Orc
-4,Creature,Common,Magi
-5,Creature,Common,Paladin
-6,Creature,Common,Paladin
-7,Creature,Common,Wolf
-8,Enchantment,Common,Deathgrip
-9,Enchantment,Rare,Forged Agony
-10,Creature,Common,Orc
-11,Spell,Common,Vortex
-12,Creature,Rare,Snow King Minotaur
-13,Artifact,Rare,Corpse Belt
-14,Creature,Rare,Earth Queen Griffin
-15,Creature,Common,Ghoul
-16,Artifact,Common,Tome
-17,Spell,Common,Frenzy
-18,Creature,Common,Magi
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Eagle
-21,Enchantment,Common,Lethargy
-22,Enchantment,Mythic,Intense Lethargy
-23,Enchantment,Common,Blight
-24,Creature,Common,Wolf
-25,Creature,Common,Eagle
-26,Creature,Common,Eagle
-27,Creature,Common,Eagle
-28,Creature,Common,Spider
-29,Creature,Common,Elf
-30,Enchantment,Common,Age
-31,Spell,Common,Rage
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Spider
-34,Creature,Rare,Aura Undead Skin-Walker
-35,Creature,Rare,Dark Monk Berserker
-36,Creature,Common,Ghoul
-37,Artifact,Legendary,Intense Shield
-38,Spell,Rare,Grim Gravitation
-39,Spell,Common,Frost
-40,Enchantment,Rare,Grim Lethargy
-41,Artifact,Legendary,Dire Divine Robe
-42,Creature,Rare,Aura Monk Griffin
-43,Creature,Common,Warlock
-44,Creature,Rare,Light Rogue Fairy
+==================,DECK,4905
+0,Creature,Death Undead Cyclops
+1,Creature,Death Monk Dwarf of the Low Hills
+2,Creature,Earth Monk Kraken
+3,Creature,Spider
+4,Creature,Fairy
+5,Creature,Troll
+6,Creature,Troll
+7,Creature,Wolf
+8,Enchantment,Shield
+9,Enchantment,Miracle Flight
+10,Creature,Spider
+11,Spell,Assault
+12,Creature,Snow King Cyclops
+13,Artifact,Forged Belt
+14,Creature,Earth Queen Griffin
+15,Creature,Ghoul
+16,Artifact,Tome
+17,Spell,Reanimate
+18,Creature,Fairy
+19,Enchantment,Shade
+20,Creature,Eagle
+21,Enchantment,Invert
+22,Enchantment,Ardent Hateful Lethargy
+23,Enchantment,Drain
+24,Creature,Wolf
+25,Creature,Eagle
+26,Creature,Eagle
+27,Creature,Eagle
+28,Creature,Paladin
+29,Creature,Warlock
+30,Enchantment,Shrink
+31,Spell,Freeze
+32,Enchantment,Flight
+33,Creature,Paladin
+34,Creature,Aura Undead Orc
+35,Creature,Dark Monk Goblin
+36,Creature,Ghoul
+37,Artifact,Dire Shimmering Shield
+38,Spell,Grim Fireball
+39,Spell,Wall
+40,Enchantment,Grim Invert
+41,Artifact,Instant Grim Divine Robe
+42,Creature,Aura Monk Griffin
+43,Creature,Berserker
+44,Creature,Light Rogue Kraken

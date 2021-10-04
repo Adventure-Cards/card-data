@@ -1,46 +1,46 @@
-==================,DECK,5717,Strong
-0,Spell,Common,Hypnosis
-1,Spell,Common,Torment
-2,Creature,Common,Ghoul
-3,Artifact,Common,Bracers
-4,Spell,Common,Stricken
-5,Creature,Rare,Frozen Undead Minotaur
-6,Creature,Mythic,Snow Nameless Dragon of Hate
-7,Creature,Common,Eagle
-8,Spell,Legendary,Extreme Pandemonium
-9,Artifact,Mythic,Angry Belt
-10,Creature,Common,Goblin
-11,Spell,Rare,Hateful Burst
-12,Artifact,Mythic,Angry Bow
-13,Enchantment,Common,Shield
-14,Creature,Common,Goblin
-15,Spell,Rare,Apocalypse Pandemonium
-16,Artifact,Common,Scepter
-17,Creature,Legendary,Aura Monk Orge of the Golden Palace
-18,Creature,Common,Spider
-19,Enchantment,Rare,Nimble Shield
-20,Creature,Common,Goblin
-21,Creature,Mythic,Light Ancient Wizard of the Sky
-22,Spell,Common,Torment
-23,Spell,Common,Reanimate
-24,Creature,Legendary,Snow Knight Cyclops of the Golden Palace
-25,Spell,Rare,Dark Frenzy
-26,Spell,Common,Gravitation
-27,Enchantment,Common,Agony
-28,Spell,Legendary,Dire Reanimate
-29,Creature,Mythic,Snow Ancient Wizard of Hate
-30,Creature,Common,Dwarf
-31,Enchantment,Mythic,Dire Shrink
-32,Enchantment,Common,Drain
-33,Enchantment,Mythic,Dire Shade
-34,Creature,Common,Spider
-35,Enchantment,Legendary,Potent Shrink
-36,Creature,Common,Elf
-37,Creature,Common,Orc
-38,Creature,Rare,Light Undead Hydra
-39,Creature,Common,Goblin
-40,Enchantment,Legendary,Urgent Invert
-41,Creature,Common,Eagle
-42,Enchantment,Common,Alacrity
-43,Creature,Legendary,Snow Merchant Kraken of the Frozen Castle
-44,Enchantment,Common,Haste
+==================,DECK,5717
+0,Spell,Torment
+1,Spell,Burn
+2,Creature,Ghoul
+3,Artifact,Bracers
+4,Spell,Gale
+5,Creature,Frozen Undead Cyclops
+6,Creature,Snow Nameless Dragon of Hate
+7,Creature,Eagle
+8,Spell,Potent Lunar Fireball
+9,Artifact,Empyrean Cataclysmic Belt
+10,Creature,Skin-Walker
+11,Spell,Dark Frost
+12,Artifact,Mighty Sorrow Bow
+13,Enchantment,Age
+14,Creature,Skin-Walker
+15,Spell,Grim Lightning
+16,Artifact,Scepter
+17,Creature,Aura Monk Elf of the Golden Palace
+18,Creature,Paladin
+19,Enchantment,Nature Lethargy
+20,Creature,Skin-Walker
+21,Creature,Light Ancient Wizard of the Sky
+22,Spell,Maelstrom
+23,Spell,Stricken
+24,Creature,Snow Knight Giant of the Golden Palace
+25,Spell,Sorrow Gravitation
+26,Spell,Maelstrom
+27,Enchantment,Shade
+28,Spell,Mighty Grim Invisibility
+29,Creature,Snow Ancient Wizard of Hate
+30,Creature,Magi
+31,Enchantment,Empyrean Frigid Shade
+32,Enchantment,Shrink
+33,Enchantment,Dire Frigid Shade
+34,Creature,Paladin
+35,Enchantment,Empyrean Frigid Shade
+36,Creature,Warlock
+37,Creature,Spider
+38,Creature,Light Undead Hydra
+39,Creature,Skin-Walker
+40,Enchantment,Ardent Shimmering Lethargy
+41,Creature,Eagle
+42,Enchantment,Blight
+43,Creature,Snow Merchant Ogre of the Frozen Castle
+44,Enchantment,Shield

@@ -1,46 +1,46 @@
-==================,DECK,7212,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Dwarf
-2,Spell,Rare,Cataclysmic Fury
-3,Spell,Common,Sorrow
-4,Enchantment,Common,Lethargy
-5,Spell,Common,Vortex
-6,Spell,Common,Torment
-7,Creature,Common,Elf
-8,Spell,Common,Gravitation
-9,Creature,Rare,Dark Lord Berserker
-10,Creature,Common,Orc
-11,Creature,Common,Magi
-12,Creature,Rare,Dark Assassin Griffin
-13,Artifact,Common,Pendant
-14,Creature,Rare,Aura Priest Skin-Walker
-15,Artifact,Common,Staff
-16,Creature,Common,Spider
-17,Enchantment,Common,Flight
-18,Spell,Common,Stun
-19,Creature,Common,Eagle
-20,Creature,Common,Warlock
-21,Creature,Common,Paladin
-22,Spell,Common,Reanimate
-23,Artifact,Common,Crown
-24,Creature,Common,Ghoul
-25,Creature,Legendary,Dark Assassin Orge of the Magical Forest
-26,Creature,Common,Eagle
-27,Enchantment,Common,Age
-28,Creature,Mythic,Dark Undead Phoenix of Illusion
-29,Artifact,Common,Bracers
-30,Creature,Rare,Snow Assassin Griffin
-31,Enchantment,Mythic,Mighty Agony
-32,Creature,Rare,Dark Thief Griffin
-33,Creature,Common,Goblin
-34,Creature,Legendary,Snow Rogue Oni of the Golden Palace
-35,Creature,Common,Paladin
-36,Creature,Common,Magi
-37,Enchantment,Rare,Oblivion Invert
-38,Spell,Common,Sorrow
-39,Enchantment,Common,Shrink
-40,Creature,Common,Ghoul
-41,Creature,Rare,Frozen Assassin Griffin
-42,Enchantment,Rare,Oblivion Agony
-43,Enchantment,Common,Shield
-44,Creature,Common,Ghoul
+==================,DECK,7212
+0,Creature,Ghoul
+1,Creature,Magi
+2,Spell,Gloom Infuriate
+3,Spell,Freeze
+4,Enchantment,Firebreath
+5,Spell,Infuriate
+6,Spell,Revive
+7,Creature,Warlock
+8,Spell,Maelstrom
+9,Creature,Dark Lord Goblin
+10,Creature,Spider
+11,Creature,Fairy
+12,Creature,Dark Assassin Griffin
+13,Artifact,Pendant
+14,Creature,Aura Priest Orc
+15,Artifact,Staff
+16,Creature,Paladin
+17,Enchantment,Lethargy
+18,Spell,Fireball
+19,Creature,Eagle
+20,Creature,Berserker
+21,Creature,Troll
+22,Spell,Freeze
+23,Artifact,Crown
+24,Creature,Ghoul
+25,Creature,Dark Assassin Elf of the Magical Forest
+26,Creature,Eagle
+27,Enchantment,Firebreath
+28,Creature,Dark Undead Phoenix of Illusion
+29,Artifact,Bracers
+30,Creature,Snow Assassin Griffin
+31,Enchantment,Instant Miracle Shrink
+32,Creature,Dark Thief Griffin
+33,Creature,Skin-Walker
+34,Creature,Snow Rogue Oni of the Golden Palace
+35,Creature,Troll
+36,Creature,Fairy
+37,Enchantment,Oblivion Blight
+38,Spell,Burst
+39,Enchantment,Shade
+40,Creature,Ghoul
+41,Creature,Frozen Assassin Griffin
+42,Enchantment,Life Invert
+43,Enchantment,Invert
+44,Creature,Ghoul

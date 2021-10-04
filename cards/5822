@@ -1,46 +1,46 @@
-==================,DECK,5822,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Ghoul
-2,Creature,Common,Dwarf
-3,Enchantment,Legendary,Clever Haste
-4,Creature,Common,Wolf
-5,Creature,Common,Ghoul
-6,Creature,Common,Spider
-7,Spell,Common,Lightning
-8,Creature,Mythic,Earth Chaos Demon of the Shadows
-9,Artifact,Legendary,Clever Helmet
-10,Enchantment,Legendary,Dire Blight
-11,Artifact,Legendary,Urgent Bow
-12,Enchantment,Legendary,Angry Drain
-13,Enchantment,Common,Shade
-14,Creature,Common,Orc
-15,Creature,Common,Goblin
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Spell,Rare,Gloom Assault
-19,Enchantment,Common,Shield
-20,Creature,Rare,Snow Priest Minotaur
-21,Creature,Common,Elf
-22,Creature,Legendary,Frozen Lord Orge of the Border
-23,Artifact,Rare,Hateful Sigil
-24,Creature,Common,Dwarf
-25,Artifact,Common,Scythe
-26,Artifact,Common,Divine Robe
-27,Creature,Common,Spider
-28,Creature,Rare,Frozen Fighter Skin-Walker
-29,Creature,Mythic,Snow Undead Dragon of Hate
-30,Artifact,Rare,Nature Helmet
-31,Artifact,Common,Belt
-32,Creature,Common,Orc
-33,Creature,Rare,Frozen Queen Griffin
-34,Artifact,Common,Gauntlet
-35,Creature,Rare,Snow Assassin Berserker
-36,Enchantment,Common,Haste
-37,Creature,Common,Ghoul
-38,Spell,Common,Rage
-39,Artifact,Common,Potion
-40,Enchantment,Mythic,Potent Lethargy
-41,Spell,Common,Sorrow
-42,Creature,Rare,Snow Fighter Skin-Walker
-43,Enchantment,Common,Agony
-44,Creature,Common,Ghoul
+==================,DECK,5822
+0,Creature,Ghoul
+1,Creature,Ghoul
+2,Creature,Magi
+3,Enchantment,Mighty Life Invert
+4,Creature,Wolf
+5,Creature,Ghoul
+6,Creature,Paladin
+7,Spell,Ice
+8,Creature,Earth Chaos Demon of the Shadows
+9,Artifact,Irate Apocalypse Helmet
+10,Enchantment,Mighty Nimble Invert
+11,Artifact,Urgent Solar Bow
+12,Enchantment,Empyrean Dark Firebreath
+13,Enchantment,Blight
+14,Creature,Spider
+15,Creature,Skin-Walker
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Spell,Sorrow Invisibility
+19,Enchantment,Drain
+20,Creature,Snow Priest Cyclops
+21,Creature,Warlock
+22,Creature,Frozen Lord Elf of the Border
+23,Artifact,Miracle Sigil
+24,Creature,Magi
+25,Artifact,Scythe
+26,Artifact,Divine Robe
+27,Creature,Paladin
+28,Creature,Frozen Fighter Orc
+29,Creature,Snow Undead Dragon of Hate
+30,Artifact,Corpse Helmet
+31,Artifact,Belt
+32,Creature,Spider
+33,Creature,Frozen Queen Griffin
+34,Artifact,Gauntlet
+35,Creature,Snow Assassin Goblin
+36,Enchantment,Deathgrip
+37,Creature,Ghoul
+38,Spell,Stun
+39,Artifact,Potion
+40,Enchantment,Urgent Grim Invert
+41,Spell,Gravitation
+42,Creature,Snow Fighter Orc
+43,Enchantment,Lethargy
+44,Creature,Ghoul

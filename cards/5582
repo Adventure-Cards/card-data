@@ -1,46 +1,46 @@
-==================,DECK,5582,Light
-0,Spell,Common,Gravitation
-1,Spell,Common,Vortex
-2,Spell,Common,Pandemonium
-3,Enchantment,Rare,Nimble Alacrity
-4,Enchantment,Common,Invert
-5,Creature,Common,Wolf
-6,Artifact,Common,Sword
-7,Creature,Common,Eagle
-8,Enchantment,Common,Blight
-9,Enchantment,Common,Flight
-10,Creature,Rare,Earth Knight Skin-Walker
-11,Enchantment,Common,Flight
-12,Creature,Mythic,Dark Undead Phoenix of Illusion
-13,Creature,Common,Dwarf
-14,Creature,Rare,Death Fighter Fairy
-15,Spell,Common,Wall
-16,Spell,Common,Fury
-17,Enchantment,Common,Age
-18,Creature,Common,Wolf
-19,Enchantment,Common,Blight
-20,Artifact,Common,Ghost Wand
-21,Creature,Common,Paladin
-22,Enchantment,Common,Shrink
-23,Creature,Common,Paladin
-24,Spell,Legendary,Extreme Ice
-25,Enchantment,Common,Shrink
-26,Spell,Common,Gravitation
-27,Enchantment,Common,Drain
-28,Creature,Common,Eagle
-29,Creature,Mythic,Dark Undead Phoenix of Illusion
-30,Enchantment,Common,Deathgrip
-31,Enchantment,Rare,Life Drain
-32,Creature,Common,Spider
-33,Enchantment,Legendary,Mighty Invert
-34,Artifact,Rare,Cataclysmic Potion
-35,Creature,Common,Goblin
-36,Creature,Common,Warlock
-37,Creature,Rare,Earth Monk Minotaur
-38,Enchantment,Common,Shield
-39,Creature,Common,Spider
-40,Creature,Common,Orc
-41,Artifact,Common,Gloves
-42,Creature,Common,Dwarf
-43,Creature,Mythic,Earth Grand Demon of the Shadows
-44,Creature,Rare,Death Monk Griffin
+==================,DECK,5582
+0,Spell,Ice
+1,Spell,Burst
+2,Spell,Burst
+3,Enchantment,Forged Deathgrip
+4,Enchantment,Deathgrip
+5,Creature,Wolf
+6,Artifact,Sword
+7,Creature,Eagle
+8,Enchantment,Strength
+9,Enchantment,Shade
+10,Creature,Earth Knight Orc
+11,Enchantment,Strength
+12,Creature,Dark Undead Phoenix of Illusion
+13,Creature,Magi
+14,Creature,Death Fighter Kraken
+15,Spell,Gale
+16,Spell,Rage
+17,Enchantment,Agony
+18,Creature,Wolf
+19,Enchantment,Deathgrip
+20,Artifact,Ghost Wand
+21,Creature,Troll
+22,Enchantment,Flight
+23,Creature,Troll
+24,Spell,Empyrean Cataclysmic Burn
+25,Enchantment,Shade
+26,Spell,Vortex
+27,Enchantment,Blight
+28,Creature,Eagle
+29,Creature,Dark Undead Phoenix of Illusion
+30,Enchantment,Alacrity
+31,Enchantment,Apocalypse Haste
+32,Creature,Paladin
+33,Enchantment,Irate Sorrow Alacrity
+34,Artifact,Cataclysmic Potion
+35,Creature,Skin-Walker
+36,Creature,Berserker
+37,Creature,Earth Monk Cyclops
+38,Enchantment,Haste
+39,Creature,Paladin
+40,Creature,Spider
+41,Artifact,Gloves
+42,Creature,Magi
+43,Creature,Earth Grand Demon of the Shadows
+44,Creature,Death Monk Griffin

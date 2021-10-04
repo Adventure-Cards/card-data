@@ -1,46 +1,46 @@
-==================,DECK,4559,Medium
-0,Creature,Common,Goblin
-1,Creature,Rare,Death Warrior Berserker
-2,Creature,Common,Orc
-3,Spell,Common,Wall
-4,Enchantment,Common,Drain
-5,Creature,Rare,Death Fighter Griffin
-6,Creature,Mythic,Death Ancient Wizard of the Dead
-7,Creature,Mythic,Dark Nameless Phoenix of Illusion
-8,Creature,Common,Spider
-9,Spell,Rare,Gloom Wall
-10,Enchantment,Legendary,Clever Strength
-11,Enchantment,Common,Flight
-12,Enchantment,Common,Age
-13,Creature,Common,Dwarf
-14,Creature,Legendary,Snow Undead Orge of the Polar Woods
-15,Artifact,Common,Shield
-16,Enchantment,Common,Invert
-17,Creature,Common,Eagle
-18,Creature,Common,Wolf
-19,Spell,Legendary,Potent Reanimate
-20,Artifact,Rare,Grim Potion
-21,Creature,Rare,Death Rogue Hydra
-22,Creature,Common,Ghoul
-23,Enchantment,Rare,Hateful Age
-24,Creature,Common,Warlock
-25,Creature,Common,Orc
-26,Artifact,Common,Cloak
-27,Enchantment,Common,Drain
-28,Spell,Rare,Miracle Stricken
-29,Artifact,Common,Ring
-30,Creature,Rare,Light Priest Fairy
-31,Spell,Common,Fury
-32,Artifact,Common,Boots
-33,Artifact,Rare,Nature Pendant
-34,Creature,Common,Spider
-35,Creature,Rare,Death Queen Hydra
-36,Spell,Legendary,Intense Frost
-37,Creature,Rare,Death Knight Minotaur
-38,Enchantment,Rare,Grim Strength
-39,Enchantment,Rare,Miracle Age
-40,Spell,Rare,Dark Freeze
-41,Creature,Common,Paladin
-42,Creature,Legendary,Dark Knight Cyclops of the Arctic Blizzards
-43,Artifact,Common,Gloves
-44,Enchantment,Common,Age
+==================,DECK,4559
+0,Creature,Skin-Walker
+1,Creature,Death Warrior Goblin
+2,Creature,Spider
+3,Spell,Lightning
+4,Enchantment,Deathgrip
+5,Creature,Death Fighter Griffin
+6,Creature,Death Ancient Wizard of the Dead
+7,Creature,Dark Nameless Phoenix of Illusion
+8,Creature,Paladin
+9,Spell,Cataclysmic Revive
+10,Enchantment,Instant Nimble Drain
+11,Enchantment,Flight
+12,Enchantment,Lethargy
+13,Creature,Magi
+14,Creature,Snow Undead Elf of the Polar Woods
+15,Artifact,Shield
+16,Enchantment,Haste
+17,Creature,Eagle
+18,Creature,Wolf
+19,Spell,Potent Victory Stricken
+20,Artifact,Apocalypse Potion
+21,Creature,Death Rogue Hydra
+22,Creature,Ghoul
+23,Enchantment,Gloom Shield
+24,Creature,Berserker
+25,Creature,Spider
+26,Artifact,Cloak
+27,Enchantment,Age
+28,Spell,Frigid Sorrow
+29,Artifact,Ring
+30,Creature,Light Priest Kraken
+31,Spell,Hypnosis
+32,Artifact,Boots
+33,Artifact,Necro Pendant
+34,Creature,Paladin
+35,Creature,Death Queen Hydra
+36,Spell,Dire Hateful Tempest
+37,Creature,Death Knight Cyclops
+38,Enchantment,Nimble Blight
+39,Enchantment,Victory Haste
+40,Spell,Sorrow Vortex
+41,Creature,Troll
+42,Creature,Dark Knight Giant of the Arctic Blizzards
+43,Artifact,Gloves
+44,Enchantment,Flight

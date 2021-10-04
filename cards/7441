@@ -1,46 +1,46 @@
-==================,DECK,7441,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Dwarf
-2,Spell,Common,Invisibility
-3,Creature,Common,Ghoul
-4,Enchantment,Rare,Life Deathgrip
-5,Spell,Common,Hypnosis
-6,Creature,Common,Spider
-7,Creature,Common,Orc
-8,Enchantment,Common,Shrink
-9,Enchantment,Common,Lethargy
-10,Spell,Rare,Grim Heal
-11,Artifact,Common,Ring
-12,Creature,Common,Eagle
-13,Enchantment,Rare,Gloom Strength
-14,Creature,Common,Paladin
-15,Enchantment,Common,Age
-16,Creature,Common,Orc
-17,Creature,Rare,Light Warrior Hydra
-18,Enchantment,Mythic,Extreme Haste
-19,Spell,Rare,Frigid Gravitation
-20,Creature,Common,Elf
-21,Enchantment,Common,Lethargy
-22,Artifact,Rare,Forged Pendant
-23,Artifact,Rare,Oblivion Scythe
-24,Creature,Rare,Earth King Griffin
-25,Creature,Common,Orc
-26,Enchantment,Common,Shield
-27,Creature,Common,Magi
-28,Creature,Common,Orc
-29,Spell,Rare,Lunar Pandemonium
-30,Creature,Common,Warlock
-31,Creature,Common,Magi
-32,Creature,Common,Dwarf
-33,Creature,Common,Orc
-34,Creature,Common,Orc
-35,Enchantment,Rare,Miracle Shrink
-36,Artifact,Rare,Frigid Amulet
-37,Enchantment,Common,Lethargy
-38,Creature,Common,Elf
-39,Spell,Common,Gravitation
-40,Creature,Legendary,Light Fighter Orge of the Low Hills
-41,Creature,Common,Eagle
-42,Creature,Common,Goblin
-43,Spell,Rare,Apocalypse Reanimate
-44,Spell,Common,Pandemonium
+==================,DECK,7441
+0,Creature,Skin-Walker
+1,Creature,Magi
+2,Spell,Gravitation
+3,Creature,Ghoul
+4,Enchantment,Oblivion Drain
+5,Spell,Fire
+6,Creature,Paladin
+7,Creature,Spider
+8,Enchantment,Flight
+9,Enchantment,Drain
+10,Spell,Nimble Maelstrom
+11,Artifact,Ring
+12,Creature,Eagle
+13,Enchantment,Cataclysmic Firebreath
+14,Creature,Troll
+15,Enchantment,Shade
+16,Creature,Spider
+17,Creature,Light Warrior Hydra
+18,Enchantment,Empyrean Miracle Firebreath
+19,Spell,Apocalypse Freeze
+20,Creature,Warlock
+21,Enchantment,Flight
+22,Artifact,Chimeric Pendant
+23,Artifact,Victory Scythe
+24,Creature,Earth King Griffin
+25,Creature,Spider
+26,Enchantment,Strength
+27,Creature,Fairy
+28,Creature,Spider
+29,Spell,Chimeric Gale
+30,Creature,Berserker
+31,Creature,Fairy
+32,Creature,Magi
+33,Creature,Spider
+34,Creature,Spider
+35,Enchantment,Frigid Blight
+36,Artifact,Grim Amulet
+37,Enchantment,Strength
+38,Creature,Warlock
+39,Spell,Invisibility
+40,Creature,Light Fighter Elf of the Low Hills
+41,Creature,Eagle
+42,Creature,Skin-Walker
+43,Spell,Apocalypse Sorrow
+44,Spell,Infuriate

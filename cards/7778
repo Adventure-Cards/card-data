@@ -1,46 +1,46 @@
-==================,DECK,7778,Light
-0,Creature,Common,Warlock
-1,Enchantment,Legendary,Instant Shade
-2,Creature,Common,Warlock
-3,Creature,Common,Orc
-4,Creature,Rare,Aura King Fairy
-5,Creature,Rare,Aura Warrior Skin-Walker
-6,Creature,Common,Paladin
-7,Creature,Rare,Earth Queen Griffin
-8,Spell,Common,Assault
-9,Enchantment,Common,Alacrity
-10,Creature,Rare,Earth Undead Hydra
-11,Creature,Mythic,Earth Time Phoenix of the Shadows
-12,Creature,Common,Warlock
-13,Spell,Rare,Oblivion Lightning
-14,Creature,Common,Eagle
-15,Creature,Common,Ghoul
-16,Creature,Rare,Frozen Fighter Fairy
-17,Creature,Legendary,Aura Fighter Giant of the Eastern Skies
-18,Enchantment,Common,Shrink
-19,Enchantment,Rare,Shimmering Shrink
-20,Creature,Common,Paladin
-21,Creature,Common,Goblin
-22,Spell,Common,Fury
-23,Spell,Common,Revive
-24,Enchantment,Rare,Corpse Invert
-25,Enchantment,Mythic,Extreme Lethargy
-26,Enchantment,Rare,Oblivion Shield
-27,Enchantment,Legendary,Dire Shrink
-28,Creature,Common,Spider
-29,Spell,Common,Ice
-30,Creature,Common,Spider
-31,Creature,Common,Dwarf
-32,Artifact,Common,Belt
-33,Creature,Rare,Frozen Merchant Fairy
-34,Enchantment,Common,Shield
-35,Creature,Common,Eagle
-36,Spell,Rare,Apocalypse Fury
-37,Enchantment,Common,Drain
-38,Creature,Rare,Aura Undead Hydra
-39,Creature,Common,Elf
-40,Creature,Common,Spider
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Artifact,Rare,Miracle Scythe
-44,Spell,Common,Heal
+==================,DECK,7778
+0,Creature,Berserker
+1,Enchantment,Instant Necro Strength
+2,Creature,Berserker
+3,Creature,Spider
+4,Creature,Aura King Kraken
+5,Creature,Aura Warrior Orc
+6,Creature,Troll
+7,Creature,Earth Queen Griffin
+8,Spell,Stun
+9,Enchantment,Blight
+10,Creature,Earth Undead Hydra
+11,Creature,Earth Time Phoenix of the Shadows
+12,Creature,Berserker
+13,Spell,Nimble Heal
+14,Creature,Eagle
+15,Creature,Ghoul
+16,Creature,Frozen Fighter Kraken
+17,Creature,Aura Fighter Dwarf of the Eastern Skies
+18,Enchantment,Invert
+19,Enchantment,Necro Age
+20,Creature,Troll
+21,Creature,Skin-Walker
+22,Spell,Stun
+23,Spell,Assault
+24,Enchantment,Shimmering Agony
+25,Enchantment,Instant Lunar Shrink
+26,Enchantment,Victory Blight
+27,Enchantment,Empyrean Frigid Shade
+28,Creature,Paladin
+29,Spell,Burst
+30,Creature,Paladin
+31,Creature,Magi
+32,Artifact,Belt
+33,Creature,Frozen Merchant Kraken
+34,Enchantment,Invert
+35,Creature,Eagle
+36,Spell,Frigid Tempest
+37,Enchantment,Deathgrip
+38,Creature,Aura Undead Hydra
+39,Creature,Warlock
+40,Creature,Paladin
+41,Creature,Troll
+42,Creature,Paladin
+43,Artifact,Nimble Scythe
+44,Spell,Burn

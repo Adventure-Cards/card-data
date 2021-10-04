@@ -1,46 +1,46 @@
-==================,DECK,6933,Light
-0,Creature,Rare,Light Merchant Minotaur
-1,Creature,Common,Spider
-2,Creature,Rare,Earth Knight Hydra
-3,Creature,Common,Paladin
-4,Creature,Rare,Earth Merchant Skin-Walker
-5,Artifact,Rare,Oblivion Greaves
-6,Creature,Common,Spider
-7,Creature,Common,Eagle
-8,Creature,Common,Orc
-9,Spell,Common,Wall
-10,Enchantment,Rare,Grim Alacrity
-11,Creature,Common,Spider
-12,Enchantment,Legendary,Intense Lethargy
-13,Spell,Rare,Cataclysmic Burst
-14,Creature,Rare,Frozen Thief Hydra
-15,Creature,Common,Wolf
-16,Creature,Common,Wolf
-17,Spell,Rare,Necro Infuriate
-18,Spell,Common,Frost
-19,Spell,Common,Reanimate
-20,Creature,Common,Orc
-21,Creature,Common,Elf
-22,Enchantment,Common,Deathgrip
-23,Spell,Common,Frenzy
-24,Spell,Common,Infuriate
-25,Artifact,Legendary,Angry Ring
-26,Enchantment,Common,Shrink
-27,Creature,Common,Ghoul
-28,Creature,Common,Ghoul
-29,Creature,Common,Dwarf
-30,Creature,Common,Wolf
-31,Spell,Common,Revive
-32,Spell,Common,Maelstrom
-33,Spell,Common,Stun
-34,Artifact,Common,Tome
-35,Creature,Common,Goblin
-36,Enchantment,Common,Lethargy
-37,Artifact,Common,Divine Robe
-38,Spell,Common,Assault
-39,Enchantment,Rare,Hateful Blight
-40,Enchantment,Rare,Life Deathgrip
-41,Spell,Common,Stricken
-42,Artifact,Common,Divine Robe
-43,Enchantment,Common,Haste
-44,Enchantment,Common,Blight
+==================,DECK,6933
+0,Creature,Light Merchant Cyclops
+1,Creature,Paladin
+2,Creature,Earth Knight Hydra
+3,Creature,Troll
+4,Creature,Earth Merchant Orc
+5,Artifact,Apocalypse Greaves
+6,Creature,Paladin
+7,Creature,Eagle
+8,Creature,Spider
+9,Spell,Fury
+10,Enchantment,Apocalypse Blight
+11,Creature,Paladin
+12,Enchantment,Irate Hateful Deathgrip
+13,Spell,Cataclysmic Gravitation
+14,Creature,Frozen Thief Hydra
+15,Creature,Wolf
+16,Creature,Wolf
+17,Spell,Forged Torment
+18,Spell,Fire
+19,Spell,Hypnosis
+20,Creature,Spider
+21,Creature,Warlock
+22,Enchantment,Deathgrip
+23,Spell,Revive
+24,Spell,Fireball
+25,Artifact,Clever Cataclysmic Ring
+26,Enchantment,Deathgrip
+27,Creature,Ghoul
+28,Creature,Ghoul
+29,Creature,Magi
+30,Creature,Wolf
+31,Spell,Stricken
+32,Spell,Tempest
+33,Spell,Invisibility
+34,Artifact,Tome
+35,Creature,Skin-Walker
+36,Enchantment,Blight
+37,Artifact,Divine Robe
+38,Spell,Fire
+39,Enchantment,Cataclysmic Alacrity
+40,Enchantment,Oblivion Invert
+41,Spell,Wall
+42,Artifact,Divine Robe
+43,Enchantment,Drain
+44,Enchantment,Strength

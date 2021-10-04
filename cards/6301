@@ -1,46 +1,46 @@
-==================,DECK,6301,Medium
-0,Creature,Common,Ghoul
-1,Spell,Mythic,Dire Heal
-2,Enchantment,Mythic,Mighty Lethargy
-3,Creature,Rare,Aura Thief Berserker
-4,Creature,Legendary,Death Knight Oni of the Mountains
-5,Creature,Common,Ghoul
-6,Artifact,Common,Scythe
-7,Enchantment,Rare,Life Deathgrip
-8,Enchantment,Legendary,Mighty Shield
-9,Enchantment,Common,Lethargy
-10,Artifact,Legendary,Extreme Helm
-11,Spell,Common,Frost
-12,Creature,Legendary,Death Thief Giant of the Arctic Blizzards
-13,Creature,Common,Dwarf
-14,Creature,Rare,Death Lord Fairy
-15,Creature,Common,Orc
-16,Creature,Legendary,Aura Priest Giant of the Black Stone
-17,Creature,Common,Ghoul
-18,Creature,Mythic,Dark Undead Dragon of Illusion
-19,Enchantment,Rare,Solar Shade
-20,Creature,Mythic,Aura Chaos Wizard of the Light
-21,Spell,Common,Pandemonium
-22,Creature,Rare,Earth Queen Griffin
-23,Enchantment,Common,Shrink
-24,Creature,Common,Ghoul
-25,Creature,Rare,Earth Fighter Hydra
-26,Creature,Common,Dwarf
-27,Spell,Legendary,Potent Stun
-28,Enchantment,Common,Deathgrip
-29,Creature,Legendary,Dark Queen Orge of the Eternal Land
-30,Artifact,Rare,Miracle Ring
-31,Creature,Common,Paladin
-32,Creature,Mythic,Light Nameless Phoenix of the Sky
-33,Creature,Rare,Aura Fighter Fairy
-34,Creature,Rare,Aura Thief Berserker
-35,Enchantment,Common,Shrink
-36,Spell,Common,Reanimate
-37,Artifact,Common,Shield
-38,Creature,Common,Elf
-39,Creature,Legendary,Aura Assassin Cyclops of the Swamp
-40,Enchantment,Common,Alacrity
-41,Enchantment,Common,Lethargy
-42,Creature,Legendary,Snow Merchant Cyclops of the Bright Mountains
-43,Enchantment,Legendary,Intense Age
-44,Spell,Legendary,Potent Infuriate
+==================,DECK,6301
+0,Creature,Ghoul
+1,Spell,Urgent Oblivion Rage
+2,Enchantment,Irate Lunar Alacrity
+3,Creature,Aura Thief Goblin
+4,Creature,Death Knight Oni of the Mountains
+5,Creature,Ghoul
+6,Artifact,Scythe
+7,Enchantment,Oblivion Blight
+8,Enchantment,Urgent Gloom Flight
+9,Enchantment,Blight
+10,Artifact,Dire Miracle Helm
+11,Spell,Gale
+12,Creature,Death Thief Dwarf of the Arctic Blizzards
+13,Creature,Magi
+14,Creature,Death Lord Kraken
+15,Creature,Spider
+16,Creature,Aura Priest Dwarf of the Black Stone
+17,Creature,Ghoul
+18,Creature,Dark Undead Dragon of Illusion
+19,Enchantment,Necro Strength
+20,Creature,Aura Chaos Wizard of the Light
+21,Spell,Torment
+22,Creature,Earth Queen Griffin
+23,Enchantment,Strength
+24,Creature,Ghoul
+25,Creature,Earth Fighter Hydra
+26,Creature,Magi
+27,Spell,Empyrean Grim Pandemonium
+28,Enchantment,Agony
+29,Creature,Dark Queen Elf of the Eternal Land
+30,Artifact,Frigid Ring
+31,Creature,Troll
+32,Creature,Light Nameless Phoenix of the Sky
+33,Creature,Aura Fighter Kraken
+34,Creature,Aura Thief Goblin
+35,Enchantment,Flight
+36,Spell,Invisibility
+37,Artifact,Shield
+38,Creature,Warlock
+39,Creature,Aura Assassin Giant of the Swamp
+40,Enchantment,Blight
+41,Enchantment,Strength
+42,Creature,Snow Merchant Giant of the Bright Mountains
+43,Enchantment,Zealous Nature Deathgrip
+44,Spell,Zealous Victory Infuriate

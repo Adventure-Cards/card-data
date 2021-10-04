@@ -1,46 +1,46 @@
-==================,DECK,6879,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Drain
-3,Spell,Common,Reanimate
-4,Enchantment,Mythic,Dire Blight
-5,Creature,Common,Orc
-6,Creature,Mythic,Aura Ancient Wizard of the Light
-7,Creature,Common,Ghoul
-8,Spell,Legendary,Urgent Stricken
-9,Creature,Common,Eagle
-10,Creature,Common,Elf
-11,Enchantment,Rare,Oblivion Agony
-12,Enchantment,Rare,Life Flight
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Paladin
-15,Artifact,Common,Divine Robe
-16,Spell,Rare,Gloom Invisibility
-17,Creature,Common,Eagle
-18,Artifact,Common,Scythe
-19,Spell,Common,Wall
-20,Spell,Common,Freeze
-21,Creature,Common,Paladin
-22,Creature,Common,Orc
-23,Creature,Common,Dwarf
-24,Spell,Common,Infuriate
-25,Creature,Common,Eagle
-26,Creature,Common,Paladin
-27,Creature,Rare,Death Rogue Minotaur
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Eagle
-30,Spell,Common,Invisibility
-31,Creature,Common,Orc
-32,Enchantment,Common,Flight
-33,Enchantment,Common,Strength
-34,Creature,Common,Orc
-35,Creature,Common,Wolf
-36,Spell,Common,Lightning
-37,Creature,Common,Warlock
-38,Creature,Mythic,Dark Undead Dragon of Illusion
-39,Spell,Legendary,Clever Stun
-40,Enchantment,Common,Invert
-41,Artifact,Common,Ring
-42,Creature,Common,Magi
-43,Artifact,Common,Helmet
-44,Enchantment,Mythic,Potent Deathgrip
+==================,DECK,6879
+0,Creature,Troll
+1,Creature,Magi
+2,Enchantment,Age
+3,Spell,Invisibility
+4,Enchantment,Zealous Nimble Blight
+5,Creature,Spider
+6,Creature,Aura Ancient Wizard of the Light
+7,Creature,Ghoul
+8,Spell,Mighty Solar Burn
+9,Creature,Eagle
+10,Creature,Warlock
+11,Enchantment,Life Shade
+12,Enchantment,Grim Haste
+13,Enchantment,Shade
+14,Creature,Troll
+15,Artifact,Divine Robe
+16,Spell,Miracle Frenzy
+17,Creature,Eagle
+18,Artifact,Scythe
+19,Spell,Wall
+20,Spell,Maelstrom
+21,Creature,Troll
+22,Creature,Spider
+23,Creature,Magi
+24,Spell,Rage
+25,Creature,Eagle
+26,Creature,Troll
+27,Creature,Death Rogue Cyclops
+28,Enchantment,Firebreath
+29,Creature,Eagle
+30,Spell,Freeze
+31,Creature,Spider
+32,Enchantment,Invert
+33,Enchantment,Invert
+34,Creature,Spider
+35,Creature,Wolf
+36,Spell,Fire
+37,Creature,Berserker
+38,Creature,Dark Undead Dragon of Illusion
+39,Spell,Potent Nimble Fireball
+40,Enchantment,Age
+41,Artifact,Ring
+42,Creature,Fairy
+43,Artifact,Helmet
+44,Enchantment,Empyrean Oblivion Shade

@@ -1,46 +1,46 @@
-==================,DECK,4745,Light
-0,Creature,Legendary,Aura Thief Giant of the Black Stone
-1,Spell,Common,Lightning
-2,Creature,Common,Wolf
-3,Creature,Rare,Aura Assassin Skin-Walker
-4,Spell,Common,Invisibility
-5,Spell,Rare,Apocalypse Sorrow
-6,Creature,Common,Warlock
-7,Spell,Common,Burn
-8,Creature,Mythic,Dark Nameless Phoenix of Illusion
-9,Creature,Mythic,Earth Nameless Dragon of the Shadows
-10,Creature,Common,Paladin
-11,Creature,Common,Paladin
-12,Spell,Common,Freeze
-13,Creature,Common,Spider
-14,Creature,Common,Wolf
-15,Enchantment,Rare,Miracle Drain
-16,Spell,Common,Rage
-17,Creature,Legendary,Light Undead Oni of the Eastern Skies
-18,Creature,Common,Spider
-19,Enchantment,Legendary,Potent Agony
-20,Creature,Common,Eagle
-21,Creature,Legendary,Death Merchant Kraken of the Border
-22,Creature,Rare,Frozen Assassin Skin-Walker
-23,Creature,Rare,Light Undead Skin-Walker
-24,Creature,Common,Magi
-25,Enchantment,Common,Haste
-26,Creature,Rare,Light Priest Hydra
-27,Enchantment,Common,Drain
-28,Artifact,Common,Crown
-29,Creature,Common,Orc
-30,Creature,Rare,Light Monk Griffin
-31,Creature,Rare,Snow Priest Berserker
-32,Spell,Common,Ice
-33,Creature,Common,Goblin
-34,Enchantment,Rare,Nature Deathgrip
-35,Creature,Rare,Light Assassin Berserker
-36,Enchantment,Common,Blight
-37,Artifact,Common,Gauntlet
-38,Creature,Common,Elf
-39,Creature,Common,Ghoul
-40,Artifact,Rare,Forged Scythe
-41,Creature,Legendary,Death Priest Giant of the Haven
-42,Creature,Common,Eagle
-43,Enchantment,Mythic,Mighty Shade
-44,Creature,Rare,Snow Rogue Berserker
+==================,DECK,4745
+0,Creature,Aura Thief Dwarf of the Black Stone
+1,Spell,Fury
+2,Creature,Wolf
+3,Creature,Aura Assassin Orc
+4,Spell,Ice
+5,Spell,Victory Wall
+6,Creature,Berserker
+7,Spell,Fire
+8,Creature,Dark Nameless Phoenix of Illusion
+9,Creature,Earth Nameless Dragon of the Shadows
+10,Creature,Troll
+11,Creature,Troll
+12,Spell,Torment
+13,Creature,Paladin
+14,Creature,Wolf
+15,Enchantment,Apocalypse Shade
+16,Spell,Reanimate
+17,Creature,Light Undead Oni of the Eastern Skies
+18,Creature,Paladin
+19,Enchantment,Irate Life Blight
+20,Creature,Eagle
+21,Creature,Death Merchant Ogre of the Border
+22,Creature,Frozen Assassin Orc
+23,Creature,Light Undead Orc
+24,Creature,Fairy
+25,Enchantment,Flight
+26,Creature,Light Priest Hydra
+27,Enchantment,Deathgrip
+28,Artifact,Crown
+29,Creature,Spider
+30,Creature,Light Monk Griffin
+31,Creature,Snow Priest Goblin
+32,Spell,Freeze
+33,Creature,Skin-Walker
+34,Enchantment,Shimmering Deathgrip
+35,Creature,Light Assassin Goblin
+36,Enchantment,Haste
+37,Artifact,Gauntlet
+38,Creature,Warlock
+39,Creature,Ghoul
+40,Artifact,Cataclysmic Scythe
+41,Creature,Death Priest Dwarf of the Haven
+42,Creature,Eagle
+43,Enchantment,Ardent Chimeric Shield
+44,Creature,Snow Rogue Goblin

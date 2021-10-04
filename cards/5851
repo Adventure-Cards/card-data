@@ -1,46 +1,46 @@
-==================,DECK,5851,Light
-0,Artifact,Common,Potion
-1,Enchantment,Common,Lethargy
-2,Creature,Rare,Earth Monk Griffin
-3,Creature,Common,Wolf
-4,Creature,Rare,Death Warrior Griffin
-5,Creature,Common,Eagle
-6,Creature,Common,Warlock
-7,Spell,Common,Freeze
-8,Creature,Common,Dwarf
-9,Creature,Common,Ghoul
-10,Creature,Common,Paladin
-11,Creature,Rare,Frozen Thief Hydra
-12,Creature,Common,Orc
-13,Creature,Rare,Aura Merchant Griffin
-14,Creature,Common,Orc
-15,Artifact,Common,Helmet
-16,Artifact,Common,Belt
-17,Creature,Common,Wolf
-18,Creature,Common,Orc
-19,Creature,Common,Eagle
-20,Creature,Legendary,Earth Queen Giant of the Border
-21,Creature,Common,Warlock
-22,Creature,Common,Paladin
-23,Artifact,Common,Staff
-24,Creature,Rare,Snow Monk Hydra
-25,Spell,Common,Frenzy
-26,Creature,Common,Magi
-27,Creature,Common,Paladin
-28,Enchantment,Mythic,Angry Flight
-29,Creature,Rare,Dark Assassin Griffin
-30,Creature,Rare,Dark Warrior Hydra
-31,Creature,Rare,Aura Rogue Griffin
-32,Creature,Rare,Earth Warrior Berserker
-33,Artifact,Legendary,Urgent Amulet
-34,Creature,Legendary,Aura Merchant Giant of the Polar Woods
-35,Creature,Common,Orc
-36,Creature,Legendary,Earth Knight Orge of the Border
-37,Artifact,Legendary,Extreme Ghost Wand
-38,Creature,Common,Wolf
-39,Spell,Rare,Apocalypse Maelstrom
-40,Enchantment,Common,Agony
-41,Creature,Common,Magi
-42,Creature,Common,Spider
-43,Spell,Rare,Gloom Frost
-44,Enchantment,Common,Drain
+==================,DECK,5851
+0,Artifact,Potion
+1,Enchantment,Haste
+2,Creature,Earth Monk Griffin
+3,Creature,Wolf
+4,Creature,Death Warrior Griffin
+5,Creature,Eagle
+6,Creature,Berserker
+7,Spell,Assault
+8,Creature,Magi
+9,Creature,Ghoul
+10,Creature,Troll
+11,Creature,Frozen Thief Hydra
+12,Creature,Spider
+13,Creature,Aura Merchant Griffin
+14,Creature,Spider
+15,Artifact,Helmet
+16,Artifact,Belt
+17,Creature,Wolf
+18,Creature,Spider
+19,Creature,Eagle
+20,Creature,Earth Queen Dwarf of the Border
+21,Creature,Berserker
+22,Creature,Troll
+23,Artifact,Staff
+24,Creature,Snow Monk Hydra
+25,Spell,Fire
+26,Creature,Fairy
+27,Creature,Troll
+28,Enchantment,Mighty Lunar Flight
+29,Creature,Dark Assassin Griffin
+30,Creature,Dark Warrior Hydra
+31,Creature,Aura Rogue Griffin
+32,Creature,Earth Warrior Goblin
+33,Artifact,Urgent Forged Amulet
+34,Creature,Aura Merchant Dwarf of the Polar Woods
+35,Creature,Spider
+36,Creature,Earth Knight Elf of the Border
+37,Artifact,Mighty Chimeric Ghost Wand
+38,Creature,Wolf
+39,Spell,Apocalypse Frost
+40,Enchantment,Firebreath
+41,Creature,Fairy
+42,Creature,Paladin
+43,Spell,Sorrow Vortex
+44,Enchantment,Agony

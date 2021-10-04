@@ -1,46 +1,46 @@
-==================,DECK,6107,Light
-0,Creature,Common,Paladin
-1,Enchantment,Common,Invert
-2,Creature,Common,Orc
-3,Creature,Common,Warlock
-4,Enchantment,Common,Blight
-5,Creature,Common,Spider
-6,Spell,Common,Burst
-7,Spell,Rare,Grim Torment
-8,Creature,Common,Magi
-9,Spell,Common,Gravitation
-10,Enchantment,Common,Strength
-11,Artifact,Common,Sword
-12,Creature,Rare,Dark Undead Skin-Walker
-13,Creature,Common,Paladin
-14,Creature,Rare,Earth Undead Griffin
-15,Creature,Common,Eagle
-16,Enchantment,Common,Deathgrip
-17,Creature,Rare,Earth King Minotaur
-18,Enchantment,Rare,Oblivion Lethargy
-19,Enchantment,Legendary,Dire Shrink
-20,Artifact,Common,Ring
-21,Artifact,Rare,Grim Sigil
-22,Spell,Legendary,Mighty Burst
-23,Enchantment,Common,Age
-24,Creature,Rare,Frozen Queen Hydra
-25,Spell,Rare,Shimmering Gale
-26,Creature,Common,Dwarf
-27,Spell,Common,Hypnosis
-28,Enchantment,Common,Shrink
-29,Artifact,Legendary,Clever Ghost Wand
-30,Creature,Common,Eagle
-31,Creature,Common,Orc
-32,Creature,Common,Dwarf
-33,Enchantment,Legendary,Intense Invert
-34,Creature,Common,Warlock
-35,Enchantment,Common,Shrink
-36,Creature,Common,Warlock
-37,Enchantment,Common,Deathgrip
-38,Creature,Common,Warlock
-39,Spell,Legendary,Potent Pandemonium
-40,Creature,Common,Warlock
-41,Creature,Common,Spider
-42,Creature,Common,Paladin
-43,Creature,Common,Warlock
-44,Creature,Common,Paladin
+==================,DECK,6107
+0,Creature,Troll
+1,Enchantment,Flight
+2,Creature,Spider
+3,Creature,Berserker
+4,Enchantment,Drain
+5,Creature,Paladin
+6,Spell,Fire
+7,Spell,Frigid Revive
+8,Creature,Fairy
+9,Spell,Ice
+10,Enchantment,Agony
+11,Artifact,Sword
+12,Creature,Dark Undead Orc
+13,Creature,Troll
+14,Creature,Earth Undead Griffin
+15,Creature,Eagle
+16,Enchantment,Shield
+17,Creature,Earth King Cyclops
+18,Enchantment,Grim Shade
+19,Enchantment,Zealous Frigid Blight
+20,Artifact,Ring
+21,Artifact,Apocalypse Sigil
+22,Spell,Empyrean Gloom Maelstrom
+23,Enchantment,Haste
+24,Creature,Frozen Queen Hydra
+25,Spell,Nature Frenzy
+26,Creature,Magi
+27,Spell,Ice
+28,Enchantment,Blight
+29,Artifact,Urgent Life Ghost Wand
+30,Creature,Eagle
+31,Creature,Spider
+32,Creature,Magi
+33,Enchantment,Dire Shimmering Age
+34,Creature,Berserker
+35,Enchantment,Strength
+36,Creature,Berserker
+37,Enchantment,Firebreath
+38,Creature,Berserker
+39,Spell,Potent Life Burst
+40,Creature,Berserker
+41,Creature,Paladin
+42,Creature,Troll
+43,Creature,Berserker
+44,Creature,Troll

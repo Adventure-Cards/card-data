@@ -1,46 +1,46 @@
-==================,DECK,6744,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Ghoul
-2,Creature,Common,Ghoul
-3,Creature,Common,Paladin
-4,Enchantment,Mythic,Extreme Blight
-5,Enchantment,Common,Lethargy
-6,Enchantment,Common,Drain
-7,Enchantment,Mythic,Clever Shade
-8,Creature,Common,Magi
-9,Artifact,Rare,Nature Divine Robe
-10,Creature,Common,Dwarf
-11,Creature,Common,Goblin
-12,Creature,Common,Warlock
-13,Creature,Common,Wolf
-14,Enchantment,Common,Agony
-15,Creature,Legendary,Snow Lord Giant of the Eastern Skies
-16,Creature,Legendary,Light Knight Oni of the Black Stone
-17,Creature,Common,Eagle
-18,Creature,Rare,Snow Thief Berserker
-19,Spell,Rare,Necro Fury
-20,Spell,Rare,Hateful Stun
-21,Spell,Legendary,Potent Hypnosis
-22,Creature,Legendary,Dark Fighter Giant of the Bright Mountains
-23,Spell,Common,Ice
-24,Spell,Mythic,Mighty Fury
-25,Artifact,Common,Bow
-26,Enchantment,Legendary,Dire Shield
-27,Creature,Rare,Light Priest Berserker
-28,Creature,Rare,Frozen Thief Hydra
-29,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-30,Enchantment,Common,Deathgrip
-31,Creature,Rare,Frozen Lord Skin-Walker
-32,Spell,Rare,Nature Hypnosis
-33,Artifact,Legendary,Urgent Potion
-34,Spell,Rare,Grim Revive
-35,Spell,Mythic,Dire Reanimate
-36,Artifact,Common,Divine Robe
-37,Enchantment,Common,Shade
-38,Creature,Legendary,Light Fighter Cyclops of the Bright Mountains
-39,Spell,Common,Heal
-40,Spell,Rare,Shimmering Fury
-41,Spell,Legendary,Clever Heal
-42,Creature,Common,Orc
-43,Creature,Common,Paladin
-44,Spell,Common,Revive
+==================,DECK,6744
+0,Creature,Warlock
+1,Creature,Ghoul
+2,Creature,Ghoul
+3,Creature,Troll
+4,Enchantment,Zealous Cataclysmic Alacrity
+5,Enchantment,Flight
+6,Enchantment,Deathgrip
+7,Enchantment,Ardent Frigid Haste
+8,Creature,Fairy
+9,Artifact,Necro Divine Robe
+10,Creature,Magi
+11,Creature,Skin-Walker
+12,Creature,Berserker
+13,Creature,Wolf
+14,Enchantment,Invert
+15,Creature,Snow Lord Dwarf of the Eastern Skies
+16,Creature,Light Knight Oni of the Black Stone
+17,Creature,Eagle
+18,Creature,Snow Thief Goblin
+19,Spell,Solar Sorrow
+20,Spell,Miracle Sorrow
+21,Spell,Mighty Frigid Gravitation
+22,Creature,Dark Fighter Dwarf of the Bright Mountains
+23,Spell,Fire
+24,Spell,Empyrean Miracle Frost
+25,Artifact,Bow
+26,Enchantment,Urgent Victory Invert
+27,Creature,Light Priest Goblin
+28,Creature,Frozen Thief Hydra
+29,Creature,Snow Merchant Oni of the Magical Forest
+30,Enchantment,Deathgrip
+31,Creature,Frozen Lord Orc
+32,Spell,Corpse Gale
+33,Artifact,Ardent Forged Potion
+34,Spell,Life Maelstrom
+35,Spell,Empyrean Nimble Reanimate
+36,Artifact,Divine Robe
+37,Enchantment,Shade
+38,Creature,Light Fighter Giant of the Bright Mountains
+39,Spell,Ice
+40,Spell,Necro Reanimate
+41,Spell,Ardent Victory Assault
+42,Creature,Spider
+43,Creature,Troll
+44,Spell,Maelstrom

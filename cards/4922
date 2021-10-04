@@ -1,46 +1,46 @@
-==================,DECK,4922,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Magi
-2,Creature,Common,Goblin
-3,Creature,Mythic,Earth Chaos Demon of the Shadows
-4,Spell,Legendary,Dire Freeze
-5,Creature,Common,Wolf
-6,Creature,Rare,Light Merchant Hydra
-7,Creature,Rare,Dark Undead Hydra
-8,Enchantment,Common,Alacrity
-9,Creature,Legendary,Frozen Warrior Kraken of the Eternal Land
-10,Creature,Common,Eagle
-11,Spell,Common,Maelstrom
-12,Spell,Rare,Nature Gale
-13,Creature,Common,Spider
-14,Enchantment,Rare,Dark Alacrity
-15,Creature,Legendary,Dark Assassin Giant of the West
-16,Creature,Common,Magi
-17,Creature,Common,Warlock
-18,Enchantment,Common,Blight
-19,Spell,Rare,Cataclysmic Stricken
-20,Spell,Common,Frost
-21,Creature,Rare,Dark Assassin Berserker
-22,Creature,Rare,Earth Thief Berserker
-23,Creature,Legendary,Snow Merchant Kraken of the Border
-24,Creature,Rare,Light Monk Minotaur
-25,Creature,Rare,Earth Lord Griffin
-26,Artifact,Common,Bracers
-27,Creature,Common,Dwarf
-28,Spell,Rare,Nimble Vortex
-29,Creature,Legendary,Earth Lord Giant of the Polar Woods
-30,Enchantment,Common,Age
-31,Creature,Rare,Earth Thief Griffin
-32,Creature,Common,Magi
-33,Spell,Legendary,Potent Burn
-34,Creature,Rare,Earth Fighter Skin-Walker
-35,Enchantment,Common,Haste
-36,Artifact,Rare,Lunar Divine Robe
-37,Enchantment,Common,Shade
-38,Creature,Legendary,Earth Monk Giant of the Eternal Land
-39,Enchantment,Mythic,Dire Haste
-40,Creature,Legendary,Frozen Monk Orge of the Magical Forest
-41,Enchantment,Legendary,Urgent Alacrity
-42,Spell,Rare,Hateful Ice
-43,Creature,Common,Dwarf
-44,Spell,Common,Rage
+==================,DECK,4922
+0,Creature,Spider
+1,Creature,Fairy
+2,Creature,Skin-Walker
+3,Creature,Earth Chaos Demon of the Shadows
+4,Spell,Ardent Life Lightning
+5,Creature,Wolf
+6,Creature,Light Merchant Hydra
+7,Creature,Dark Undead Hydra
+8,Enchantment,Agony
+9,Creature,Frozen Warrior Ogre of the Eternal Land
+10,Creature,Eagle
+11,Spell,Stricken
+12,Spell,Forged Gale
+13,Creature,Paladin
+14,Enchantment,Dark Flight
+15,Creature,Dark Assassin Dwarf of the West
+16,Creature,Fairy
+17,Creature,Berserker
+18,Enchantment,Agony
+19,Spell,Lunar Frost
+20,Spell,Frenzy
+21,Creature,Dark Assassin Goblin
+22,Creature,Earth Thief Goblin
+23,Creature,Snow Merchant Ogre of the Border
+24,Creature,Light Monk Cyclops
+25,Creature,Earth Lord Griffin
+26,Artifact,Bracers
+27,Creature,Magi
+28,Spell,Forged Torment
+29,Creature,Earth Lord Dwarf of the Polar Woods
+30,Enchantment,Drain
+31,Creature,Earth Thief Griffin
+32,Creature,Fairy
+33,Spell,Empyrean Oblivion Reanimate
+34,Creature,Earth Fighter Orc
+35,Enchantment,Drain
+36,Artifact,Dark Divine Robe
+37,Enchantment,Drain
+38,Creature,Earth Monk Dwarf of the Eternal Land
+39,Enchantment,Mighty Life Invert
+40,Creature,Frozen Monk Elf of the Magical Forest
+41,Enchantment,Urgent Forged Agony
+42,Spell,Chimeric Sorrow
+43,Creature,Magi
+44,Spell,Revive

@@ -1,46 +1,46 @@
-==================,DECK,5654,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Wolf
-2,Enchantment,Common,Flight
-3,Creature,Common,Goblin
-4,Enchantment,Common,Drain
-5,Spell,Rare,Cataclysmic Gale
-6,Artifact,Common,Cloak
-7,Artifact,Common,Divine Robe
-8,Enchantment,Rare,Shimmering Haste
-9,Enchantment,Common,Drain
-10,Creature,Common,Spider
-11,Spell,Common,Revive
-12,Spell,Common,Torment
-13,Enchantment,Common,Agony
-14,Creature,Common,Eagle
-15,Creature,Common,Paladin
-16,Enchantment,Common,Invert
-17,Artifact,Rare,Cataclysmic Gloves
-18,Enchantment,Mythic,Dire Alacrity
-19,Artifact,Legendary,Potent Ring
-20,Creature,Rare,Dark Thief Fairy
-21,Creature,Common,Ghoul
-22,Artifact,Common,Bow
-23,Spell,Common,Frenzy
-24,Spell,Legendary,Instant Stricken
-25,Artifact,Common,Ring
-26,Creature,Common,Spider
-27,Creature,Common,Magi
-28,Enchantment,Common,Shield
-29,Artifact,Common,Belt
-30,Artifact,Rare,Miracle Sword
-31,Enchantment,Rare,Apocalypse Age
-32,Enchantment,Common,Drain
-33,Artifact,Common,Divine Robe
-34,Enchantment,Common,Blight
-35,Creature,Legendary,Frozen Merchant Cyclops of the Eastern Skies
-36,Creature,Common,Magi
-37,Spell,Rare,Necro Burst
-38,Creature,Rare,Dark Knight Berserker
-39,Spell,Common,Heal
-40,Enchantment,Mythic,Instant Blight
-41,Enchantment,Common,Invert
-42,Enchantment,Rare,Gloom Shield
-43,Creature,Rare,Light Warrior Berserker
-44,Creature,Common,Warlock
+==================,DECK,5654
+0,Creature,Skin-Walker
+1,Creature,Wolf
+2,Enchantment,Blight
+3,Creature,Skin-Walker
+4,Enchantment,Alacrity
+5,Spell,Miracle Fire
+6,Artifact,Cloak
+7,Artifact,Divine Robe
+8,Enchantment,Corpse Agony
+9,Enchantment,Strength
+10,Creature,Paladin
+11,Spell,Hypnosis
+12,Spell,Stun
+13,Enchantment,Haste
+14,Creature,Eagle
+15,Creature,Troll
+16,Enchantment,Shrink
+17,Artifact,Gloom Gloves
+18,Enchantment,Dire Apocalypse Shade
+19,Artifact,Ardent Life Ring
+20,Creature,Dark Thief Kraken
+21,Creature,Ghoul
+22,Artifact,Bow
+23,Spell,Tempest
+24,Spell,Clever Necro Sorrow
+25,Artifact,Ring
+26,Creature,Paladin
+27,Creature,Fairy
+28,Enchantment,Lethargy
+29,Artifact,Belt
+30,Artifact,Frigid Sword
+31,Enchantment,Victory Shade
+32,Enchantment,Haste
+33,Artifact,Divine Robe
+34,Enchantment,Deathgrip
+35,Creature,Frozen Merchant Giant of the Eastern Skies
+36,Creature,Fairy
+37,Spell,Forged Reanimate
+38,Creature,Dark Knight Goblin
+39,Spell,Reanimate
+40,Enchantment,Clever Solar Lethargy
+41,Enchantment,Lethargy
+42,Enchantment,Gloom Flight
+43,Creature,Light Warrior Goblin
+44,Creature,Berserker

@@ -1,46 +1,46 @@
-==================,DECK,5743,Medium
-0,Spell,Common,Lightning
-1,Spell,Common,Frenzy
-2,Creature,Common,Elf
-3,Creature,Common,Elf
-4,Creature,Common,Magi
-5,Creature,Common,Elf
-6,Creature,Common,Dwarf
-7,Creature,Mythic,Snow Nameless Phoenix of Hate
-8,Artifact,Common,Sword
-9,Spell,Common,Vortex
-10,Spell,Common,Vortex
-11,Creature,Common,Elf
-12,Creature,Common,Dwarf
-13,Creature,Common,Goblin
-14,Creature,Legendary,Frozen Rogue Cyclops of the Arctic Blizzards
-15,Enchantment,Common,Invert
-16,Creature,Common,Wolf
-17,Enchantment,Common,Drain
-18,Creature,Common,Wolf
-19,Creature,Legendary,Aura Monk Kraken of the Mountains
-20,Creature,Common,Elf
-21,Creature,Rare,Aura Priest Hydra
-22,Enchantment,Rare,Frigid Strength
-23,Creature,Common,Ghoul
-24,Creature,Legendary,Death King Cyclops of the Arctic Blizzards
-25,Creature,Common,Dwarf
-26,Artifact,Legendary,Urgent Potion
-27,Enchantment,Common,Haste
-28,Artifact,Common,Bow
-29,Creature,Mythic,Frozen Undead Phoenix of the Void
-30,Creature,Common,Elf
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Wolf
-33,Creature,Common,Paladin
-34,Creature,Common,Warlock
-35,Creature,Mythic,Death Chaos Demon of the Dead
-36,Creature,Common,Orc
-37,Creature,Rare,Dark Warrior Skin-Walker
-38,Creature,Common,Wolf
-39,Creature,Rare,Frozen Assassin Minotaur
-40,Creature,Common,Paladin
-41,Enchantment,Common,Blight
-42,Spell,Rare,Miracle Hypnosis
-43,Creature,Mythic,Aura Time Dragon of the Light
-44,Artifact,Common,Tome
+==================,DECK,5743
+0,Spell,Freeze
+1,Spell,Ice
+2,Creature,Warlock
+3,Creature,Warlock
+4,Creature,Fairy
+5,Creature,Warlock
+6,Creature,Magi
+7,Creature,Snow Nameless Phoenix of Hate
+8,Artifact,Sword
+9,Spell,Sorrow
+10,Spell,Heal
+11,Creature,Warlock
+12,Creature,Magi
+13,Creature,Skin-Walker
+14,Creature,Frozen Rogue Giant of the Arctic Blizzards
+15,Enchantment,Shield
+16,Creature,Wolf
+17,Enchantment,Shade
+18,Creature,Wolf
+19,Creature,Aura Monk Ogre of the Mountains
+20,Creature,Warlock
+21,Creature,Aura Priest Hydra
+22,Enchantment,Nimble Invert
+23,Creature,Ghoul
+24,Creature,Death King Giant of the Arctic Blizzards
+25,Creature,Magi
+26,Artifact,Ardent Corpse Potion
+27,Enchantment,Agony
+28,Artifact,Bow
+29,Creature,Frozen Undead Phoenix of the Void
+30,Creature,Warlock
+31,Enchantment,Invert
+32,Creature,Wolf
+33,Creature,Troll
+34,Creature,Berserker
+35,Creature,Death Chaos Demon of the Dead
+36,Creature,Spider
+37,Creature,Dark Warrior Orc
+38,Creature,Wolf
+39,Creature,Frozen Assassin Cyclops
+40,Creature,Troll
+41,Enchantment,Blight
+42,Spell,Life Rage
+43,Creature,Aura Time Dragon of the Light
+44,Artifact,Tome

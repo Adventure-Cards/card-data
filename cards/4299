@@ -1,46 +1,46 @@
-==================,DECK,4299,Medium
-0,Creature,Common,Eagle
-1,Creature,Legendary,Dark Knight Giant of the West
-2,Creature,Common,Elf
-3,Creature,Common,Warlock
-4,Enchantment,Common,Flight
-5,Creature,Common,Eagle
-6,Spell,Common,Sorrow
-7,Spell,Rare,Corpse Gravitation
-8,Artifact,Rare,Shimmering Sword
-9,Spell,Rare,Solar Torment
-10,Creature,Rare,Death Fighter Berserker
-11,Enchantment,Common,Deathgrip
-12,Creature,Common,Goblin
-13,Spell,Common,Infuriate
-14,Creature,Mythic,Dark Time Dragon of Illusion
-15,Creature,Rare,Aura Undead Griffin
-16,Creature,Rare,Earth Queen Berserker
-17,Creature,Rare,Aura Fighter Minotaur
-18,Creature,Common,Spider
-19,Creature,Mythic,Light Nameless Phoenix of the Sky
-20,Enchantment,Common,Shade
-21,Spell,Rare,Oblivion Lightning
-22,Creature,Common,Ghoul
-23,Creature,Common,Warlock
-24,Enchantment,Legendary,Mighty Shrink
-25,Enchantment,Mythic,Clever Age
-26,Artifact,Rare,Oblivion Potion
-27,Artifact,Common,Potion
-28,Creature,Common,Wolf
-29,Creature,Common,Wolf
-30,Creature,Common,Wolf
-31,Creature,Common,Paladin
-32,Enchantment,Common,Age
-33,Enchantment,Rare,Nature Shrink
-34,Creature,Common,Paladin
-35,Spell,Common,Maelstrom
-36,Creature,Legendary,Death Merchant Oni of the Black Stone
-37,Creature,Rare,Frozen Knight Skin-Walker
-38,Creature,Common,Warlock
-39,Creature,Mythic,Frozen Nameless Dragon of the Void
-40,Enchantment,Common,Shade
-41,Enchantment,Common,Shade
-42,Spell,Common,Ice
-43,Artifact,Common,Bracers
-44,Creature,Common,Orc
+==================,DECK,4299
+0,Creature,Eagle
+1,Creature,Dark Knight Dwarf of the West
+2,Creature,Warlock
+3,Creature,Berserker
+4,Enchantment,Strength
+5,Creature,Eagle
+6,Spell,Lightning
+7,Spell,Hateful Infuriate
+8,Artifact,Corpse Sword
+9,Spell,Solar Hypnosis
+10,Creature,Death Fighter Goblin
+11,Enchantment,Alacrity
+12,Creature,Skin-Walker
+13,Spell,Revive
+14,Creature,Dark Time Dragon of Illusion
+15,Creature,Aura Undead Griffin
+16,Creature,Earth Queen Goblin
+17,Creature,Aura Fighter Cyclops
+18,Creature,Paladin
+19,Creature,Light Nameless Phoenix of the Sky
+20,Enchantment,Shade
+21,Spell,Nimble Tempest
+22,Creature,Ghoul
+23,Creature,Berserker
+24,Enchantment,Potent Chimeric Shrink
+25,Enchantment,Mighty Victory Invert
+26,Artifact,Frigid Potion
+27,Artifact,Potion
+28,Creature,Wolf
+29,Creature,Wolf
+30,Creature,Wolf
+31,Creature,Troll
+32,Enchantment,Blight
+33,Enchantment,Necro Agony
+34,Creature,Troll
+35,Spell,Revive
+36,Creature,Death Merchant Oni of the Black Stone
+37,Creature,Frozen Knight Orc
+38,Creature,Berserker
+39,Creature,Frozen Nameless Dragon of the Void
+40,Enchantment,Shield
+41,Enchantment,Blight
+42,Spell,Sorrow
+43,Artifact,Bracers
+44,Creature,Spider

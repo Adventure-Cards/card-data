@@ -1,46 +1,46 @@
-==================,DECK,6043,Light
-0,Spell,Common,Frost
-1,Creature,Common,Paladin
-2,Spell,Common,Sorrow
-3,Spell,Legendary,Potent Frenzy
-4,Enchantment,Common,Shade
-5,Creature,Rare,Frozen Warrior Hydra
-6,Spell,Legendary,Intense Frenzy
-7,Creature,Common,Wolf
-8,Enchantment,Common,Invert
-9,Spell,Rare,Corpse Gravitation
-10,Creature,Common,Paladin
-11,Creature,Common,Ghoul
-12,Creature,Common,Wolf
-13,Artifact,Common,Amulet
-14,Enchantment,Common,Invert
-15,Spell,Common,Reanimate
-16,Creature,Common,Elf
-17,Artifact,Rare,Forged Greaves
-18,Enchantment,Legendary,Urgent Agony
-19,Creature,Common,Wolf
-20,Enchantment,Rare,Necro Haste
-21,Spell,Legendary,Urgent Burn
-22,Creature,Common,Orc
-23,Creature,Common,Spider
-24,Enchantment,Mythic,Dire Flight
-25,Spell,Rare,Shimmering Burn
-26,Artifact,Common,Divine Robe
-27,Creature,Rare,Snow Thief Minotaur
-28,Creature,Common,Spider
-29,Creature,Mythic,Death Undead Dragon of the Dead
-30,Enchantment,Common,Agony
-31,Creature,Common,Warlock
-32,Spell,Rare,Gloom Invisibility
-33,Spell,Common,Invisibility
-34,Spell,Common,Freeze
-35,Spell,Common,Freeze
-36,Enchantment,Common,Blight
-37,Creature,Common,Orc
-38,Spell,Common,Burn
-39,Artifact,Rare,Grim Belt
-40,Artifact,Rare,Life Bow
-41,Spell,Common,Invisibility
-42,Enchantment,Rare,Grim Shield
-43,Creature,Common,Orc
-44,Spell,Common,Fury
+==================,DECK,6043
+0,Spell,Hypnosis
+1,Creature,Troll
+2,Spell,Heal
+3,Spell,Dire Victory Reanimate
+4,Enchantment,Shrink
+5,Creature,Frozen Warrior Hydra
+6,Spell,Irate Necro Hypnosis
+7,Creature,Wolf
+8,Enchantment,Flight
+9,Spell,Hateful Lightning
+10,Creature,Troll
+11,Creature,Ghoul
+12,Creature,Wolf
+13,Artifact,Amulet
+14,Enchantment,Invert
+15,Spell,Torment
+16,Creature,Warlock
+17,Artifact,Dark Greaves
+18,Enchantment,Irate Corpse Deathgrip
+19,Creature,Wolf
+20,Enchantment,Corpse Agony
+21,Spell,Empyrean Corpse Freeze
+22,Creature,Spider
+23,Creature,Paladin
+24,Enchantment,Mighty Grim Invert
+25,Spell,Corpse Pandemonium
+26,Artifact,Divine Robe
+27,Creature,Snow Thief Cyclops
+28,Creature,Paladin
+29,Creature,Death Undead Dragon of the Dead
+30,Enchantment,Strength
+31,Creature,Berserker
+32,Spell,Gloom Fireball
+33,Spell,Gravitation
+34,Spell,Burn
+35,Spell,Wall
+36,Enchantment,Alacrity
+37,Creature,Spider
+38,Spell,Reanimate
+39,Artifact,Oblivion Belt
+40,Artifact,Grim Bow
+41,Spell,Burn
+42,Enchantment,Victory Invert
+43,Creature,Spider
+44,Spell,Invisibility

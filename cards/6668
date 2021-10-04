@@ -1,46 +1,46 @@
-==================,DECK,6668,Strong
-0,Creature,Common,Magi
-1,Creature,Rare,Snow Monk Berserker
-2,Creature,Legendary,Earth Fighter Orge of the Magical Forest
-3,Spell,Common,Stun
-4,Creature,Mythic,Dark Undead Phoenix of Illusion
-5,Creature,Common,Paladin
-6,Enchantment,Common,Agony
-7,Spell,Common,Gale
-8,Creature,Mythic,Snow Time Phoenix of Hate
-9,Creature,Rare,Light Priest Berserker
-10,Creature,Rare,Snow Undead Berserker
-11,Creature,Legendary,Snow Chaos Demon of Hate
-12,Creature,Common,Orc
-13,Creature,Common,Ghoul
-14,Creature,Rare,Frozen Lord Hydra
-15,Creature,Common,Warlock
-16,Enchantment,Common,Invert
-17,Creature,Common,Ghoul
-18,Creature,Rare,Aura Monk Berserker
-19,Creature,Rare,Aura King Minotaur
-20,Creature,Common,Goblin
-21,Creature,Common,Ghoul
-22,Creature,Mythic,Light Time Phoenix of the Sky
-23,Enchantment,Common,Flight
-24,Enchantment,Common,Blight
-25,Enchantment,Common,Invert
-26,Enchantment,Common,Blight
-27,Enchantment,Legendary,Intense Haste
-28,Enchantment,Legendary,Intense Invert
-29,Creature,Mythic,Aura Undead Dragon of the Light
-30,Creature,Common,Wolf
-31,Spell,Common,Freeze
-32,Creature,Mythic,Death Ancient Demon of the Dead
-33,Creature,Common,Paladin
-34,Artifact,Mythic,Potent Potion
-35,Spell,Rare,Hateful Fury
-36,Creature,Legendary,Light Grand Demon of the Sky
-37,Enchantment,Mythic,Clever Haste
-38,Creature,Common,Orc
-39,Creature,Common,Goblin
-40,Enchantment,Legendary,Mighty Shrink
-41,Creature,Common,Warlock
-42,Spell,Mythic,Intense Stricken
-43,Creature,Common,Spider
-44,Creature,Legendary,Aura King Giant of the Border
+==================,DECK,6668
+0,Creature,Fairy
+1,Creature,Snow Monk Goblin
+2,Creature,Earth Fighter Elf of the Magical Forest
+3,Spell,Reanimate
+4,Creature,Dark Undead Phoenix of Illusion
+5,Creature,Troll
+6,Enchantment,Blight
+7,Spell,Torment
+8,Creature,Snow Time Phoenix of Hate
+9,Creature,Light Priest Goblin
+10,Creature,Snow Undead Goblin
+11,Creature,Snow Chaos Demon of Hate
+12,Creature,Spider
+13,Creature,Ghoul
+14,Creature,Frozen Lord Hydra
+15,Creature,Berserker
+16,Enchantment,Alacrity
+17,Creature,Ghoul
+18,Creature,Aura Monk Goblin
+19,Creature,Aura King Cyclops
+20,Creature,Skin-Walker
+21,Creature,Ghoul
+22,Creature,Light Time Phoenix of the Sky
+23,Enchantment,Shield
+24,Enchantment,Deathgrip
+25,Enchantment,Firebreath
+26,Enchantment,Invert
+27,Enchantment,Clever Corpse Lethargy
+28,Enchantment,Irate Shimmering Deathgrip
+29,Creature,Aura Undead Dragon of the Light
+30,Creature,Wolf
+31,Spell,Stricken
+32,Creature,Death Ancient Demon of the Dead
+33,Creature,Troll
+34,Artifact,Clever Frigid Potion
+35,Spell,Chimeric Rage
+36,Creature,Light Grand Demon of the Sky
+37,Enchantment,Clever Life Haste
+38,Creature,Spider
+39,Creature,Skin-Walker
+40,Enchantment,Potent Chimeric Shrink
+41,Creature,Berserker
+42,Spell,Clever Corpse Lightning
+43,Creature,Paladin
+44,Creature,Aura King Dwarf of the Border

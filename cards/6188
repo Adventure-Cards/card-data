@@ -1,46 +1,46 @@
-==================,DECK,6188,Light
-0,Spell,Common,Infuriate
-1,Creature,Mythic,Snow Time Dragon of Hate
-2,Creature,Common,Eagle
-3,Spell,Rare,Grim Assault
-4,Enchantment,Rare,Necro Flight
-5,Creature,Common,Wolf
-6,Enchantment,Rare,Forged Shield
-7,Enchantment,Common,Age
-8,Creature,Common,Warlock
-9,Enchantment,Common,Shrink
-10,Creature,Common,Paladin
-11,Enchantment,Common,Agony
-12,Creature,Common,Dwarf
-13,Creature,Common,Spider
-14,Creature,Common,Eagle
-15,Spell,Rare,Forged Frost
-16,Artifact,Common,Bracers
-17,Enchantment,Rare,Dark Invert
-18,Creature,Common,Orc
-19,Spell,Common,Gravitation
-20,Enchantment,Common,Shade
-21,Enchantment,Mythic,Instant Haste
-22,Spell,Legendary,Intense Stun
-23,Creature,Rare,Dark Monk Hydra
-24,Spell,Common,Assault
-25,Artifact,Rare,Necro Shield
-26,Creature,Legendary,Dark Warrior Oni of the Mountains
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Creature,Common,Elf
-30,Spell,Common,Stricken
-31,Creature,Common,Spider
-32,Artifact,Legendary,Instant Cloak
-33,Spell,Common,Burst
-34,Creature,Legendary,Death Thief Kraken of the Swamp
-35,Creature,Common,Warlock
-36,Creature,Common,Dwarf
-37,Creature,Common,Warlock
-38,Spell,Rare,Nimble Gravitation
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Eagle
-41,Creature,Common,Magi
-42,Enchantment,Common,Drain
-43,Creature,Common,Goblin
-44,Creature,Common,Wolf
+==================,DECK,6188
+0,Spell,Ice
+1,Creature,Snow Time Dragon of Hate
+2,Creature,Eagle
+3,Spell,Oblivion Sorrow
+4,Enchantment,Hateful Age
+5,Creature,Wolf
+6,Enchantment,Gloom Alacrity
+7,Enchantment,Flight
+8,Creature,Berserker
+9,Enchantment,Firebreath
+10,Creature,Troll
+11,Enchantment,Lethargy
+12,Creature,Magi
+13,Creature,Paladin
+14,Creature,Eagle
+15,Spell,Chimeric Pandemonium
+16,Artifact,Bracers
+17,Enchantment,Sorrow Shrink
+18,Creature,Spider
+19,Spell,Fireball
+20,Enchantment,Shade
+21,Enchantment,Mighty Corpse Agony
+22,Spell,Empyrean Corpse Infuriate
+23,Creature,Dark Monk Hydra
+24,Spell,Maelstrom
+25,Artifact,Forged Shield
+26,Creature,Dark Warrior Oni of the Mountains
+27,Creature,Ghoul
+28,Creature,Magi
+29,Creature,Warlock
+30,Spell,Freeze
+31,Creature,Paladin
+32,Artifact,Ardent Forged Cloak
+33,Spell,Maelstrom
+34,Creature,Death Thief Ogre of the Swamp
+35,Creature,Berserker
+36,Creature,Magi
+37,Creature,Berserker
+38,Spell,Hateful Fire
+39,Enchantment,Blight
+40,Creature,Eagle
+41,Creature,Fairy
+42,Enchantment,Shade
+43,Creature,Skin-Walker
+44,Creature,Wolf

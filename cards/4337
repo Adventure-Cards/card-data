@@ -1,46 +1,46 @@
-==================,DECK,4337,Light
-0,Creature,Mythic,Light Grand Demon of the Sky
-1,Spell,Common,Gale
-2,Spell,Legendary,Instant Reanimate
-3,Creature,Rare,Snow Thief Minotaur
-4,Creature,Common,Paladin
-5,Artifact,Common,Ghost Wand
-6,Creature,Common,Warlock
-7,Artifact,Common,Divine Robe
-8,Creature,Common,Paladin
-9,Creature,Rare,Light Knight Hydra
-10,Enchantment,Common,Alacrity
-11,Spell,Common,Gravitation
-12,Creature,Rare,Earth Monk Skin-Walker
-13,Creature,Common,Magi
-14,Enchantment,Common,Strength
-15,Artifact,Common,Sigil
-16,Creature,Common,Elf
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Agony
-19,Artifact,Common,Crown
-20,Spell,Rare,Shimmering Reanimate
-21,Enchantment,Common,Strength
-22,Spell,Common,Infuriate
-23,Artifact,Common,Greaves
-24,Creature,Common,Magi
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Eagle
-27,Creature,Common,Elf
-28,Creature,Legendary,Earth Warrior Cyclops of the Haven
-29,Creature,Common,Elf
-30,Artifact,Common,Gauntlet
-31,Spell,Rare,Nimble Invisibility
-32,Spell,Common,Burn
-33,Creature,Common,Spider
-34,Creature,Common,Eagle
-35,Creature,Legendary,Snow Warrior Oni of the Bright Mountains
-36,Spell,Common,Invisibility
-37,Creature,Common,Orc
-38,Enchantment,Mythic,Instant Blight
-39,Creature,Common,Elf
-40,Enchantment,Rare,Shimmering Haste
-41,Spell,Rare,Solar Frost
-42,Creature,Common,Goblin
-43,Enchantment,Common,Shade
-44,Creature,Common,Wolf
+==================,DECK,4337
+0,Creature,Light Grand Demon of the Sky
+1,Spell,Lightning
+2,Spell,Clever Hateful Burn
+3,Creature,Snow Thief Cyclops
+4,Creature,Troll
+5,Artifact,Ghost Wand
+6,Creature,Berserker
+7,Artifact,Divine Robe
+8,Creature,Troll
+9,Creature,Light Knight Hydra
+10,Enchantment,Deathgrip
+11,Spell,Fireball
+12,Creature,Earth Monk Orc
+13,Creature,Fairy
+14,Enchantment,Blight
+15,Artifact,Sigil
+16,Creature,Warlock
+17,Creature,Magi
+18,Enchantment,Deathgrip
+19,Artifact,Crown
+20,Spell,Nature Vortex
+21,Enchantment,Drain
+22,Spell,Revive
+23,Artifact,Greaves
+24,Creature,Fairy
+25,Enchantment,Lethargy
+26,Creature,Eagle
+27,Creature,Warlock
+28,Creature,Earth Warrior Giant of the Haven
+29,Creature,Warlock
+30,Artifact,Gauntlet
+31,Spell,Shimmering Lightning
+32,Spell,Wall
+33,Creature,Paladin
+34,Creature,Eagle
+35,Creature,Snow Warrior Oni of the Bright Mountains
+36,Spell,Invisibility
+37,Creature,Spider
+38,Enchantment,Clever Solar Lethargy
+39,Creature,Warlock
+40,Enchantment,Corpse Age
+41,Spell,Forged Revive
+42,Creature,Skin-Walker
+43,Enchantment,Haste
+44,Creature,Wolf

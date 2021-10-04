@@ -1,46 +1,46 @@
-==================,DECK,6395,Light
-0,Enchantment,Common,Haste
-1,Creature,Common,Spider
-2,Creature,Common,Eagle
-3,Artifact,Rare,Gloom Ghost Wand
-4,Spell,Common,Vortex
-5,Artifact,Rare,Cataclysmic Divine Robe
-6,Enchantment,Mythic,Mighty Agony
-7,Creature,Common,Orc
-8,Spell,Common,Stricken
-9,Enchantment,Common,Shrink
-10,Enchantment,Common,Age
-11,Enchantment,Common,Blight
-12,Creature,Common,Warlock
-13,Creature,Common,Dwarf
-14,Creature,Common,Spider
-15,Spell,Common,Fury
-16,Creature,Legendary,Frozen Undead Giant of the Golden Palace
-17,Creature,Common,Orc
-18,Spell,Common,Gale
-19,Spell,Common,Stun
-20,Creature,Common,Magi
-21,Creature,Common,Ghoul
-22,Creature,Legendary,Aura Fighter Oni of the Eastern Skies
-23,Spell,Common,Ice
-24,Creature,Common,Ghoul
-25,Creature,Legendary,Light Thief Kraken of the Swamp
-26,Creature,Common,Magi
-27,Enchantment,Common,Agony
-28,Spell,Common,Torment
-29,Spell,Common,Pandemonium
-30,Creature,Common,Ghoul
-31,Creature,Common,Spider
-32,Spell,Rare,Frigid Frenzy
-33,Creature,Common,Elf
-34,Enchantment,Mythic,Potent Shade
-35,Creature,Rare,Light Rogue Skin-Walker
-36,Artifact,Common,Helm
-37,Creature,Common,Goblin
-38,Artifact,Common,Amulet
-39,Creature,Common,Warlock
-40,Artifact,Common,Scythe
-41,Creature,Common,Elf
-42,Creature,Common,Ghoul
-43,Creature,Common,Orc
-44,Spell,Common,Gravitation
+==================,DECK,6395
+0,Enchantment,Flight
+1,Creature,Paladin
+2,Creature,Eagle
+3,Artifact,Sorrow Ghost Wand
+4,Spell,Maelstrom
+5,Artifact,Miracle Divine Robe
+6,Enchantment,Irate Miracle Alacrity
+7,Creature,Spider
+8,Spell,Burst
+9,Enchantment,Lethargy
+10,Enchantment,Invert
+11,Enchantment,Agony
+12,Creature,Berserker
+13,Creature,Magi
+14,Creature,Paladin
+15,Spell,Frost
+16,Creature,Frozen Undead Dwarf of the Golden Palace
+17,Creature,Spider
+18,Spell,Torment
+19,Spell,Revive
+20,Creature,Fairy
+21,Creature,Ghoul
+22,Creature,Aura Fighter Oni of the Eastern Skies
+23,Spell,Hypnosis
+24,Creature,Ghoul
+25,Creature,Light Thief Ogre of the Swamp
+26,Creature,Fairy
+27,Enchantment,Haste
+28,Spell,Lightning
+29,Spell,Torment
+30,Creature,Ghoul
+31,Creature,Paladin
+32,Spell,Nimble Heal
+33,Creature,Warlock
+34,Enchantment,Dire Frigid Shade
+35,Creature,Light Rogue Orc
+36,Artifact,Helm
+37,Creature,Skin-Walker
+38,Artifact,Amulet
+39,Creature,Berserker
+40,Artifact,Scythe
+41,Creature,Warlock
+42,Creature,Ghoul
+43,Creature,Spider
+44,Spell,Heal

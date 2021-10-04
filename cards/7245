@@ -1,46 +1,46 @@
-==================,DECK,7245,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Elf
-2,Spell,Common,Revive
-3,Creature,Common,Dwarf
-4,Creature,Common,Spider
-5,Artifact,Common,Potion
-6,Spell,Common,Rage
-7,Artifact,Rare,Necro Tome
-8,Spell,Common,Rage
-9,Creature,Legendary,Frozen Warrior Orge of the Magical Forest
-10,Enchantment,Mythic,Potent Flight
-11,Artifact,Common,Ring
-12,Creature,Common,Elf
-13,Creature,Mythic,Snow Undead Dragon of Hate
-14,Creature,Common,Goblin
-15,Enchantment,Common,Flight
-16,Spell,Common,Vortex
-17,Spell,Common,Burn
-18,Creature,Rare,Earth Priest Minotaur
-19,Artifact,Common,Bracers
-20,Enchantment,Legendary,Urgent Shade
-21,Creature,Common,Eagle
-22,Creature,Common,Ghoul
-23,Creature,Common,Dwarf
-24,Creature,Legendary,Light Merchant Orge of the Arctic Blizzards
-25,Spell,Common,Pandemonium
-26,Creature,Common,Goblin
-27,Enchantment,Common,Flight
-28,Spell,Legendary,Extreme Pandemonium
-29,Creature,Common,Dwarf
-30,Spell,Rare,Oblivion Assault
-31,Creature,Mythic,Aura Nameless Dragon of the Light
-32,Creature,Rare,Light Fighter Griffin
-33,Artifact,Legendary,Intense Shield
-34,Enchantment,Common,Flight
-35,Creature,Common,Dwarf
-36,Creature,Common,Paladin
-37,Creature,Common,Warlock
-38,Creature,Rare,Earth Monk Griffin
-39,Spell,Mythic,Extreme Gravitation
-40,Enchantment,Rare,Gloom Shield
-41,Spell,Common,Stun
-42,Creature,Rare,Light Thief Hydra
-43,Creature,Common,Warlock
-44,Creature,Common,Magi
+==================,DECK,7245
+0,Creature,Ghoul
+1,Creature,Warlock
+2,Spell,Pandemonium
+3,Creature,Magi
+4,Creature,Paladin
+5,Artifact,Potion
+6,Spell,Invisibility
+7,Artifact,Necro Tome
+8,Spell,Reanimate
+9,Creature,Frozen Warrior Elf of the Magical Forest
+10,Enchantment,Zealous Grim Blight
+11,Artifact,Ring
+12,Creature,Warlock
+13,Creature,Snow Undead Dragon of Hate
+14,Creature,Skin-Walker
+15,Enchantment,Shield
+16,Spell,Invisibility
+17,Spell,Vortex
+18,Creature,Earth Priest Cyclops
+19,Artifact,Bracers
+20,Enchantment,Dire Necro Age
+21,Creature,Eagle
+22,Creature,Ghoul
+23,Creature,Magi
+24,Creature,Light Merchant Elf of the Arctic Blizzards
+25,Spell,Torment
+26,Creature,Skin-Walker
+27,Enchantment,Shield
+28,Spell,Zealous Lunar Pandemonium
+29,Creature,Magi
+30,Spell,Oblivion Stricken
+31,Creature,Aura Nameless Dragon of the Light
+32,Creature,Light Fighter Griffin
+33,Artifact,Empyrean Forged Shield
+34,Enchantment,Shade
+35,Creature,Magi
+36,Creature,Troll
+37,Creature,Berserker
+38,Creature,Earth Monk Griffin
+39,Spell,Dire Lunar Freeze
+40,Enchantment,Gloom Shield
+41,Spell,Pandemonium
+42,Creature,Light Thief Hydra
+43,Creature,Berserker
+44,Creature,Fairy

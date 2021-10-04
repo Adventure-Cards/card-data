@@ -1,46 +1,46 @@
-==================,DECK,7246,Light
-0,Spell,Common,Freeze
-1,Enchantment,Common,Shield
-2,Artifact,Common,Crown
-3,Spell,Common,Rage
-4,Creature,Common,Spider
-5,Enchantment,Mythic,Urgent Age
-6,Spell,Common,Freeze
-7,Enchantment,Rare,Lunar Flight
-8,Creature,Common,Goblin
-9,Creature,Rare,Aura Undead Fairy
-10,Artifact,Common,Cloak
-11,Creature,Rare,Aura Monk Hydra
-12,Spell,Common,Wall
-13,Spell,Rare,Apocalypse Reanimate
-14,Spell,Common,Stun
-15,Spell,Common,Maelstrom
-16,Enchantment,Rare,Gloom Shade
-17,Spell,Common,Freeze
-18,Creature,Rare,Light Assassin Griffin
-19,Spell,Common,Frost
-20,Enchantment,Common,Drain
-21,Creature,Common,Ghoul
-22,Creature,Rare,Light Thief Fairy
-23,Enchantment,Common,Alacrity
-24,Enchantment,Common,Shield
-25,Artifact,Common,Pendant
-26,Artifact,Common,Shield
-27,Creature,Common,Goblin
-28,Artifact,Common,Sigil
-29,Spell,Common,Lightning
-30,Creature,Common,Magi
-31,Creature,Common,Elf
-32,Creature,Common,Paladin
-33,Creature,Common,Warlock
-34,Spell,Common,Gale
-35,Creature,Rare,Earth Merchant Griffin
-36,Creature,Legendary,Dark Undead Cyclops of the Border
-37,Creature,Common,Spider
-38,Enchantment,Rare,Forged Agony
-39,Enchantment,Common,Blight
-40,Spell,Rare,Life Ice
-41,Enchantment,Common,Drain
-42,Creature,Common,Wolf
-43,Enchantment,Common,Drain
-44,Creature,Common,Goblin
+==================,DECK,7246
+0,Spell,Wall
+1,Enchantment,Alacrity
+2,Artifact,Crown
+3,Spell,Fury
+4,Creature,Paladin
+5,Enchantment,Zealous Nature Deathgrip
+6,Spell,Heal
+7,Enchantment,Lunar Shield
+8,Creature,Skin-Walker
+9,Creature,Aura Undead Kraken
+10,Artifact,Cloak
+11,Creature,Aura Monk Hydra
+12,Spell,Rage
+13,Spell,Nimble Torment
+14,Spell,Freeze
+15,Spell,Gale
+16,Enchantment,Chimeric Flight
+17,Spell,Frost
+18,Creature,Light Assassin Griffin
+19,Spell,Gravitation
+20,Enchantment,Shield
+21,Creature,Ghoul
+22,Creature,Light Thief Kraken
+23,Enchantment,Drain
+24,Enchantment,Shield
+25,Artifact,Pendant
+26,Artifact,Shield
+27,Creature,Skin-Walker
+28,Artifact,Sigil
+29,Spell,Stun
+30,Creature,Fairy
+31,Creature,Warlock
+32,Creature,Troll
+33,Creature,Berserker
+34,Spell,Torment
+35,Creature,Earth Merchant Griffin
+36,Creature,Dark Undead Giant of the Border
+37,Creature,Paladin
+38,Enchantment,Miracle Shrink
+39,Enchantment,Lethargy
+40,Spell,Victory Wall
+41,Enchantment,Invert
+42,Creature,Wolf
+43,Enchantment,Shade
+44,Creature,Skin-Walker

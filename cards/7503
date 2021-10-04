@@ -1,46 +1,46 @@
-==================,DECK,7503,Medium
-0,Artifact,Common,Crown
-1,Enchantment,Rare,Grim Strength
-2,Artifact,Common,Staff
-3,Creature,Common,Paladin
-4,Creature,Common,Elf
-5,Creature,Legendary,Dark Merchant Giant of the Haven
-6,Creature,Mythic,Light Ancient Wizard of the Sky
-7,Enchantment,Common,Drain
-8,Creature,Common,Goblin
-9,Creature,Common,Warlock
-10,Spell,Common,Vortex
-11,Spell,Rare,Nature Gale
-12,Artifact,Legendary,Potent Ring
-13,Creature,Common,Orc
-14,Creature,Rare,Earth Fighter Minotaur
-15,Creature,Common,Eagle
-16,Enchantment,Common,Haste
-17,Creature,Common,Eagle
-18,Spell,Common,Pandemonium
-19,Enchantment,Common,Alacrity
-20,Creature,Rare,Death Queen Griffin
-21,Creature,Common,Ghoul
-22,Spell,Common,Gale
-23,Enchantment,Rare,Gloom Shield
-24,Creature,Common,Goblin
-25,Creature,Common,Dwarf
-26,Creature,Rare,Death Undead Griffin
-27,Creature,Rare,Dark Fighter Minotaur
-28,Creature,Common,Paladin
-29,Creature,Common,Goblin
-30,Enchantment,Common,Agony
-31,Creature,Common,Orc
-32,Creature,Common,Wolf
-33,Creature,Mythic,Death Nameless Dragon of the Dead
-34,Spell,Common,Hypnosis
-35,Spell,Common,Stricken
-36,Spell,Mythic,Angry Fury
-37,Creature,Common,Elf
-38,Creature,Common,Warlock
-39,Spell,Legendary,Potent Burst
-40,Creature,Rare,Dark Monk Berserker
-41,Spell,Legendary,Extreme Pandemonium
-42,Spell,Common,Gravitation
-43,Artifact,Common,Gloves
-44,Creature,Common,Spider
+==================,DECK,7503
+0,Artifact,Crown
+1,Enchantment,Nimble Haste
+2,Artifact,Staff
+3,Creature,Troll
+4,Creature,Warlock
+5,Creature,Dark Merchant Dwarf of the Haven
+6,Creature,Light Ancient Wizard of the Sky
+7,Enchantment,Invert
+8,Creature,Skin-Walker
+9,Creature,Berserker
+10,Spell,Vortex
+11,Spell,Necro Vortex
+12,Artifact,Ardent Oblivion Ring
+13,Creature,Spider
+14,Creature,Earth Fighter Cyclops
+15,Creature,Eagle
+16,Enchantment,Shade
+17,Creature,Eagle
+18,Spell,Vortex
+19,Enchantment,Age
+20,Creature,Death Queen Griffin
+21,Creature,Ghoul
+22,Spell,Sorrow
+23,Enchantment,Gloom Firebreath
+24,Creature,Skin-Walker
+25,Creature,Magi
+26,Creature,Death Undead Griffin
+27,Creature,Dark Fighter Cyclops
+28,Creature,Troll
+29,Creature,Skin-Walker
+30,Enchantment,Shade
+31,Creature,Spider
+32,Creature,Wolf
+33,Creature,Death Nameless Dragon of the Dead
+34,Spell,Gravitation
+35,Spell,Lightning
+36,Spell,Zealous Cataclysmic Pandemonium
+37,Creature,Warlock
+38,Creature,Berserker
+39,Spell,Potent Oblivion Heal
+40,Creature,Dark Monk Goblin
+41,Spell,Clever Cataclysmic Gale
+42,Spell,Infuriate
+43,Artifact,Gloves
+44,Creature,Paladin

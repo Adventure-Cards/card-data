@@ -1,46 +1,46 @@
-==================,DECK,5472,Medium
-0,Spell,Common,Revive
-1,Artifact,Common,Tome
-2,Enchantment,Common,Lethargy
-3,Artifact,Rare,Forged Potion
-4,Creature,Rare,Snow King Griffin
-5,Creature,Mythic,Dark Grand Demon of Illusion
-6,Creature,Rare,Earth Undead Griffin
-7,Creature,Common,Magi
-8,Creature,Common,Wolf
-9,Creature,Legendary,Light Monk Kraken of the Arctic Blizzards
-10,Creature,Rare,Dark Lord Griffin
-11,Creature,Common,Elf
-12,Creature,Rare,Dark Fighter Berserker
-13,Spell,Common,Hypnosis
-14,Creature,Common,Magi
-15,Enchantment,Mythic,Intense Drain
-16,Spell,Legendary,Urgent Gravitation
-17,Spell,Common,Revive
-18,Creature,Mythic,Dark Ancient Wizard of Illusion
-19,Creature,Rare,Aura Assassin Berserker
-20,Spell,Common,Hypnosis
-21,Creature,Common,Elf
-22,Artifact,Rare,Grim Gauntlet
-23,Creature,Rare,Earth Lord Berserker
-24,Spell,Rare,Frigid Vortex
-25,Creature,Rare,Frozen Queen Minotaur
-26,Creature,Common,Wolf
-27,Creature,Common,Wolf
-28,Enchantment,Legendary,Clever Agony
-29,Enchantment,Common,Age
-30,Creature,Common,Goblin
-31,Enchantment,Common,Invert
-32,Artifact,Rare,Solar Scepter
-33,Creature,Common,Elf
-34,Creature,Common,Warlock
-35,Creature,Common,Paladin
-36,Creature,Common,Goblin
-37,Enchantment,Legendary,Extreme Blight
-38,Creature,Mythic,Snow Grand Wizard of Hate
-39,Artifact,Legendary,Potent Staff
-40,Enchantment,Mythic,Mighty Age
-41,Enchantment,Mythic,Mighty Blight
-42,Enchantment,Common,Shade
-43,Spell,Legendary,Angry Revive
-44,Creature,Common,Elf
+==================,DECK,5472
+0,Spell,Fire
+1,Artifact,Tome
+2,Enchantment,Drain
+3,Artifact,Cataclysmic Potion
+4,Creature,Snow King Griffin
+5,Creature,Dark Grand Demon of Illusion
+6,Creature,Earth Undead Griffin
+7,Creature,Fairy
+8,Creature,Wolf
+9,Creature,Light Monk Ogre of the Arctic Blizzards
+10,Creature,Dark Lord Griffin
+11,Creature,Warlock
+12,Creature,Dark Fighter Goblin
+13,Spell,Ice
+14,Creature,Fairy
+15,Enchantment,Zealous Forged Deathgrip
+16,Spell,Irate Necro Lightning
+17,Spell,Gale
+18,Creature,Dark Ancient Wizard of Illusion
+19,Creature,Aura Assassin Goblin
+20,Spell,Torment
+21,Creature,Warlock
+22,Artifact,Nimble Gauntlet
+23,Creature,Earth Lord Goblin
+24,Spell,Apocalypse Tempest
+25,Creature,Frozen Queen Cyclops
+26,Creature,Wolf
+27,Creature,Wolf
+28,Enchantment,Instant Life Drain
+29,Enchantment,Alacrity
+30,Creature,Skin-Walker
+31,Enchantment,Blight
+32,Artifact,Hateful Scepter
+33,Creature,Warlock
+34,Creature,Berserker
+35,Creature,Troll
+36,Creature,Skin-Walker
+37,Enchantment,Zealous Cataclysmic Alacrity
+38,Creature,Snow Grand Wizard of Hate
+39,Artifact,Irate Grim Staff
+40,Enchantment,Clever Gloom Shield
+41,Enchantment,Zealous Cataclysmic Alacrity
+42,Enchantment,Age
+43,Spell,Irate Lunar Invisibility
+44,Creature,Warlock

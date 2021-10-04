@@ -1,46 +1,46 @@
-==================,DECK,6007,Medium
-0,Artifact,Rare,Nature Boots
-1,Creature,Common,Wolf
-2,Creature,Mythic,Dark Nameless Phoenix of Illusion
-3,Enchantment,Rare,Cataclysmic Flight
-4,Spell,Common,Burst
-5,Creature,Common,Warlock
-6,Creature,Common,Wolf
-7,Artifact,Common,Potion
-8,Artifact,Common,Crown
-9,Creature,Common,Warlock
-10,Creature,Common,Eagle
-11,Creature,Legendary,Light Monk Cyclops of the Eastern Skies
-12,Creature,Rare,Death Knight Griffin
-13,Spell,Common,Fury
-14,Enchantment,Legendary,Angry Shield
-15,Creature,Common,Spider
-16,Enchantment,Mythic,Intense Shield
-17,Creature,Legendary,Earth Fighter Oni of the Magical Forest
-18,Creature,Common,Spider
-19,Creature,Mythic,Frozen Ancient Demon of the Void
-20,Creature,Common,Paladin
-21,Spell,Common,Gale
-22,Spell,Rare,Necro Gale
-23,Enchantment,Rare,Corpse Invert
-24,Creature,Rare,Snow Fighter Skin-Walker
-25,Enchantment,Mythic,Urgent Invert
-26,Artifact,Rare,Miracle Crown
-27,Spell,Common,Lightning
-28,Artifact,Common,Shield
-29,Spell,Common,Fury
-30,Spell,Rare,Miracle Burst
-31,Creature,Common,Warlock
-32,Creature,Rare,Frozen Thief Hydra
-33,Spell,Rare,Frigid Wall
-34,Artifact,Rare,Necro Sword
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Spider
-37,Creature,Rare,Earth Fighter Hydra
-38,Artifact,Legendary,Mighty Gauntlet
-39,Creature,Common,Warlock
-40,Artifact,Common,Ring
-41,Creature,Common,Ghoul
-42,Spell,Legendary,Extreme Sorrow
-43,Creature,Common,Wolf
-44,Creature,Common,Wolf
+==================,DECK,6007
+0,Artifact,Necro Boots
+1,Creature,Wolf
+2,Creature,Dark Nameless Phoenix of Illusion
+3,Enchantment,Lunar Flight
+4,Spell,Burst
+5,Creature,Berserker
+6,Creature,Wolf
+7,Artifact,Potion
+8,Artifact,Crown
+9,Creature,Berserker
+10,Creature,Eagle
+11,Creature,Light Monk Giant of the Eastern Skies
+12,Creature,Death Knight Griffin
+13,Spell,Freeze
+14,Enchantment,Instant Gloom Shrink
+15,Creature,Paladin
+16,Enchantment,Dire Nature Age
+17,Creature,Earth Fighter Oni of the Magical Forest
+18,Creature,Paladin
+19,Creature,Frozen Ancient Demon of the Void
+20,Creature,Troll
+21,Spell,Gale
+22,Spell,Corpse Heal
+23,Enchantment,Shimmering Strength
+24,Creature,Snow Fighter Orc
+25,Enchantment,Instant Shimmering Strength
+26,Artifact,Apocalypse Crown
+27,Spell,Sorrow
+28,Artifact,Shield
+29,Spell,Gale
+30,Spell,Frigid Reanimate
+31,Creature,Berserker
+32,Creature,Frozen Thief Hydra
+33,Spell,Oblivion Frost
+34,Artifact,Shimmering Sword
+35,Enchantment,Shield
+36,Creature,Paladin
+37,Creature,Earth Fighter Hydra
+38,Artifact,Ardent Cataclysmic Gauntlet
+39,Creature,Berserker
+40,Artifact,Ring
+41,Creature,Ghoul
+42,Spell,Empyrean Miracle Assault
+43,Creature,Wolf
+44,Creature,Wolf

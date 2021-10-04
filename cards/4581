@@ -1,46 +1,46 @@
-==================,DECK,4581,Light
-0,Spell,Rare,Nimble Invisibility
-1,Creature,Common,Wolf
-2,Creature,Common,Paladin
-3,Enchantment,Common,Blight
-4,Creature,Common,Paladin
-5,Enchantment,Common,Age
-6,Enchantment,Rare,Apocalypse Deathgrip
-7,Enchantment,Rare,Forged Shade
-8,Creature,Common,Warlock
-9,Creature,Rare,Dark Assassin Hydra
-10,Creature,Common,Spider
-11,Spell,Common,Assault
-12,Creature,Common,Ghoul
-13,Creature,Common,Dwarf
-14,Artifact,Rare,Shimmering Divine Robe
-15,Creature,Common,Eagle
-16,Creature,Common,Eagle
-17,Enchantment,Common,Alacrity
-18,Enchantment,Common,Drain
-19,Creature,Common,Wolf
-20,Enchantment,Legendary,Angry Blight
-21,Creature,Common,Orc
-22,Creature,Common,Elf
-23,Spell,Rare,Hateful Hypnosis
-24,Spell,Common,Wall
-25,Spell,Common,Burst
-26,Creature,Common,Spider
-27,Creature,Common,Spider
-28,Enchantment,Common,Alacrity
-29,Creature,Rare,Dark Fighter Berserker
-30,Creature,Common,Magi
-31,Artifact,Common,Gauntlet
-32,Enchantment,Mythic,Extreme Agony
-33,Enchantment,Common,Strength
-34,Enchantment,Common,Agony
-35,Creature,Mythic,Light Grand Wizard of the Sky
-36,Spell,Common,Burn
-37,Enchantment,Common,Shrink
-38,Creature,Rare,Frozen Thief Skin-Walker
-39,Creature,Common,Orc
-40,Creature,Common,Spider
-41,Spell,Common,Rage
-42,Spell,Common,Frost
-43,Creature,Common,Wolf
-44,Creature,Common,Elf
+==================,DECK,4581
+0,Spell,Nature Heal
+1,Creature,Wolf
+2,Creature,Troll
+3,Enchantment,Haste
+4,Creature,Troll
+5,Enchantment,Invert
+6,Enchantment,Oblivion Blight
+7,Enchantment,Chimeric Shrink
+8,Creature,Berserker
+9,Creature,Dark Assassin Hydra
+10,Creature,Paladin
+11,Spell,Torment
+12,Creature,Ghoul
+13,Creature,Magi
+14,Artifact,Solar Divine Robe
+15,Creature,Eagle
+16,Creature,Eagle
+17,Enchantment,Firebreath
+18,Enchantment,Shrink
+19,Creature,Wolf
+20,Enchantment,Mighty Cataclysmic Flight
+21,Creature,Spider
+22,Creature,Warlock
+23,Spell,Gloom Invisibility
+24,Spell,Stricken
+25,Spell,Fire
+26,Creature,Paladin
+27,Creature,Paladin
+28,Enchantment,Firebreath
+29,Creature,Dark Fighter Goblin
+30,Creature,Fairy
+31,Artifact,Gauntlet
+32,Enchantment,Dire Miracle Firebreath
+33,Enchantment,Deathgrip
+34,Enchantment,Deathgrip
+35,Creature,Light Grand Wizard of the Sky
+36,Spell,Frenzy
+37,Enchantment,Haste
+38,Creature,Frozen Thief Orc
+39,Creature,Spider
+40,Creature,Paladin
+41,Spell,Stricken
+42,Spell,Invisibility
+43,Creature,Wolf
+44,Creature,Warlock

@@ -1,46 +1,46 @@
-==================,DECK,5905,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Eagle
-2,Spell,Common,Freeze
-3,Enchantment,Common,Age
-4,Enchantment,Rare,Grim Shade
-5,Creature,Common,Goblin
-6,Enchantment,Legendary,Angry Shade
-7,Enchantment,Rare,Forged Shield
-8,Creature,Common,Magi
-9,Creature,Rare,Aura Monk Hydra
-10,Creature,Rare,Frozen Merchant Fairy
-11,Artifact,Common,Ring
-12,Spell,Common,Freeze
-13,Creature,Common,Dwarf
-14,Creature,Common,Orc
-15,Enchantment,Rare,Miracle Deathgrip
-16,Spell,Common,Assault
-17,Enchantment,Mythic,Intense Shade
-18,Spell,Rare,Necro Hypnosis
-19,Creature,Common,Elf
-20,Spell,Common,Gale
-21,Creature,Legendary,Dark Rogue Giant of the Plains
-22,Creature,Common,Warlock
-23,Creature,Common,Warlock
-24,Spell,Common,Gravitation
-25,Creature,Common,Magi
-26,Creature,Common,Eagle
-27,Creature,Rare,Death Monk Griffin
-28,Creature,Rare,Death Priest Skin-Walker
-29,Creature,Common,Paladin
-30,Spell,Common,Maelstrom
-31,Creature,Rare,Snow Lord Griffin
-32,Artifact,Common,Helm
-33,Spell,Common,Freeze
-34,Creature,Common,Warlock
-35,Creature,Legendary,Snow Rogue Giant of the Haven
-36,Creature,Common,Elf
-37,Creature,Rare,Snow Undead Hydra
-38,Spell,Common,Burst
-39,Creature,Common,Warlock
-40,Creature,Legendary,Earth Undead Kraken of the Haven
-41,Creature,Rare,Dark Queen Skin-Walker
-42,Creature,Legendary,Dark Rogue Oni of the Magical Forest
-43,Creature,Rare,Snow Rogue Minotaur
-44,Enchantment,Common,Strength
+==================,DECK,5905
+0,Enchantment,Agony
+1,Creature,Eagle
+2,Spell,Reanimate
+3,Enchantment,Lethargy
+4,Enchantment,Frigid Invert
+5,Creature,Skin-Walker
+6,Enchantment,Irate Chimeric Alacrity
+7,Enchantment,Gloom Shrink
+8,Creature,Fairy
+9,Creature,Aura Monk Hydra
+10,Creature,Frozen Merchant Kraken
+11,Artifact,Ring
+12,Spell,Freeze
+13,Creature,Magi
+14,Creature,Spider
+15,Enchantment,Oblivion Shade
+16,Spell,Invisibility
+17,Enchantment,Instant Necro Strength
+18,Spell,Corpse Ice
+19,Creature,Warlock
+20,Spell,Fire
+21,Creature,Dark Rogue Dwarf of the Plains
+22,Creature,Berserker
+23,Creature,Berserker
+24,Spell,Gravitation
+25,Creature,Fairy
+26,Creature,Eagle
+27,Creature,Death Monk Griffin
+28,Creature,Death Priest Orc
+29,Creature,Troll
+30,Spell,Burst
+31,Creature,Snow Lord Griffin
+32,Artifact,Helm
+33,Spell,Reanimate
+34,Creature,Berserker
+35,Creature,Snow Rogue Dwarf of the Haven
+36,Creature,Warlock
+37,Creature,Snow Undead Hydra
+38,Spell,Reanimate
+39,Creature,Berserker
+40,Creature,Earth Undead Ogre of the Haven
+41,Creature,Dark Queen Orc
+42,Creature,Dark Rogue Oni of the Magical Forest
+43,Creature,Snow Rogue Cyclops
+44,Enchantment,Blight

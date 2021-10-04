@@ -1,46 +1,46 @@
-==================,DECK,6333,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Shrink
-2,Creature,Common,Ghoul
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Agony
-5,Creature,Common,Goblin
-6,Creature,Common,Ghoul
-7,Spell,Rare,Apocalypse Stun
-8,Artifact,Rare,Solar Pendant
-9,Creature,Legendary,Death Knight Oni of the Golden Palace
-10,Spell,Common,Burn
-11,Spell,Common,Sorrow
-12,Creature,Common,Warlock
-13,Artifact,Common,Bracers
-14,Artifact,Rare,Gloom Ghost Wand
-15,Enchantment,Common,Strength
-16,Enchantment,Common,Haste
-17,Creature,Rare,Death Knight Minotaur
-18,Creature,Common,Orc
-19,Enchantment,Mythic,Angry Shrink
-20,Artifact,Common,Belt
-21,Creature,Common,Dwarf
-22,Spell,Rare,Necro Hypnosis
-23,Creature,Common,Goblin
-24,Artifact,Legendary,Clever Helm
-25,Spell,Legendary,Instant Burst
-26,Creature,Rare,Earth Knight Hydra
-27,Creature,Common,Eagle
-28,Creature,Common,Magi
-29,Creature,Common,Magi
-30,Spell,Common,Lightning
-31,Creature,Common,Orc
-32,Creature,Rare,Snow Thief Skin-Walker
-33,Enchantment,Common,Haste
-34,Creature,Common,Elf
-35,Creature,Rare,Snow King Berserker
-36,Creature,Common,Wolf
-37,Creature,Legendary,Dark Warrior Kraken of the Black Stone
-38,Creature,Common,Orc
-39,Spell,Common,Wall
-40,Enchantment,Mythic,Clever Shrink
-41,Creature,Common,Spider
-42,Spell,Rare,Necro Ice
-43,Spell,Rare,Corpse Lightning
-44,Creature,Common,Goblin
+==================,DECK,6333
+0,Creature,Magi
+1,Enchantment,Blight
+2,Creature,Ghoul
+3,Creature,Ghoul
+4,Enchantment,Alacrity
+5,Creature,Skin-Walker
+6,Creature,Ghoul
+7,Spell,Grim Lightning
+8,Artifact,Forged Pendant
+9,Creature,Death Knight Oni of the Golden Palace
+10,Spell,Rage
+11,Spell,Fireball
+12,Creature,Berserker
+13,Artifact,Bracers
+14,Artifact,Chimeric Ghost Wand
+15,Enchantment,Lethargy
+16,Enchantment,Lethargy
+17,Creature,Death Knight Cyclops
+18,Creature,Spider
+19,Enchantment,Mighty Chimeric Flight
+20,Artifact,Belt
+21,Creature,Magi
+22,Spell,Necro Gravitation
+23,Creature,Skin-Walker
+24,Artifact,Empyrean Victory Helm
+25,Spell,Empyrean Corpse Vortex
+26,Creature,Earth Knight Hydra
+27,Creature,Eagle
+28,Creature,Fairy
+29,Creature,Fairy
+30,Spell,Sorrow
+31,Creature,Spider
+32,Creature,Snow Thief Orc
+33,Enchantment,Shade
+34,Creature,Warlock
+35,Creature,Snow King Goblin
+36,Creature,Wolf
+37,Creature,Dark Warrior Ogre of the Black Stone
+38,Creature,Spider
+39,Spell,Heal
+40,Enchantment,Empyrean Frigid Shade
+41,Creature,Paladin
+42,Spell,Hateful Gale
+43,Spell,Solar Lightning
+44,Creature,Skin-Walker

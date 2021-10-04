@@ -1,46 +1,46 @@
-==================,DECK,6213,Light
-0,Artifact,Common,Ring
-1,Creature,Common,Goblin
-2,Creature,Common,Dwarf
-3,Spell,Common,Wall
-4,Spell,Rare,Grim Torment
-5,Creature,Common,Dwarf
-6,Creature,Common,Elf
-7,Creature,Common,Goblin
-8,Enchantment,Common,Flight
-9,Creature,Common,Eagle
-10,Creature,Common,Goblin
-11,Creature,Common,Spider
-12,Spell,Legendary,Urgent Revive
-13,Spell,Rare,Cataclysmic Stricken
-14,Artifact,Rare,Nimble Gloves
-15,Enchantment,Common,Shield
-16,Spell,Common,Invisibility
-17,Creature,Common,Dwarf
-18,Artifact,Rare,Gloom Gauntlet
-19,Creature,Rare,Frozen Monk Hydra
-20,Creature,Common,Ghoul
-21,Creature,Common,Eagle
-22,Creature,Common,Warlock
-23,Spell,Common,Invisibility
-24,Spell,Rare,Necro Maelstrom
-25,Creature,Mythic,Light Grand Wizard of the Sky
-26,Spell,Common,Freeze
-27,Creature,Common,Wolf
-28,Enchantment,Common,Haste
-29,Creature,Rare,Death Knight Minotaur
-30,Enchantment,Common,Haste
-31,Creature,Rare,Aura Assassin Berserker
-32,Enchantment,Common,Age
-33,Enchantment,Common,Shrink
-34,Spell,Legendary,Instant Gale
-35,Creature,Common,Magi
-36,Creature,Common,Eagle
-37,Creature,Common,Dwarf
-38,Artifact,Common,Gloves
-39,Creature,Common,Magi
-40,Creature,Rare,Dark Fighter Skin-Walker
-41,Spell,Common,Infuriate
-42,Spell,Rare,Life Stricken
-43,Enchantment,Common,Strength
-44,Creature,Common,Eagle
+==================,DECK,6213
+0,Artifact,Ring
+1,Creature,Skin-Walker
+2,Creature,Magi
+3,Spell,Sorrow
+4,Spell,Oblivion Frenzy
+5,Creature,Magi
+6,Creature,Warlock
+7,Creature,Skin-Walker
+8,Enchantment,Flight
+9,Creature,Eagle
+10,Creature,Skin-Walker
+11,Creature,Paladin
+12,Spell,Instant Forged Torment
+13,Spell,Sorrow Pandemonium
+14,Artifact,Forged Gloves
+15,Enchantment,Deathgrip
+16,Spell,Invisibility
+17,Creature,Magi
+18,Artifact,Lunar Gauntlet
+19,Creature,Frozen Monk Hydra
+20,Creature,Ghoul
+21,Creature,Eagle
+22,Creature,Berserker
+23,Spell,Infuriate
+24,Spell,Solar Burst
+25,Creature,Light Grand Wizard of the Sky
+26,Spell,Invisibility
+27,Creature,Wolf
+28,Enchantment,Lethargy
+29,Creature,Death Knight Cyclops
+30,Enchantment,Strength
+31,Creature,Aura Assassin Goblin
+32,Enchantment,Flight
+33,Enchantment,Haste
+34,Spell,Mighty Shimmering Torment
+35,Creature,Fairy
+36,Creature,Eagle
+37,Creature,Magi
+38,Artifact,Gloves
+39,Creature,Fairy
+40,Creature,Dark Fighter Orc
+41,Spell,Rage
+42,Spell,Life Assault
+43,Enchantment,Blight
+44,Creature,Eagle

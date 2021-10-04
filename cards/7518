@@ -1,46 +1,46 @@
-==================,DECK,7518,Medium
-0,Enchantment,Common,Agony
-1,Enchantment,Common,Deathgrip
-2,Artifact,Rare,Oblivion Divine Robe
-3,Enchantment,Common,Age
-4,Creature,Rare,Snow Priest Griffin
-5,Artifact,Common,Ghost Wand
-6,Creature,Rare,Aura Priest Fairy
-7,Spell,Common,Stricken
-8,Spell,Common,Burst
-9,Creature,Common,Warlock
-10,Enchantment,Common,Deathgrip
-11,Enchantment,Rare,Miracle Blight
-12,Spell,Common,Rage
-13,Artifact,Rare,Miracle Cloak
-14,Creature,Common,Goblin
-15,Creature,Rare,Death Queen Berserker
-16,Spell,Common,Burn
-17,Spell,Legendary,Dire Freeze
-18,Spell,Rare,Necro Stricken
-19,Enchantment,Rare,Oblivion Lethargy
-20,Enchantment,Legendary,Instant Haste
-21,Creature,Rare,Frozen Priest Griffin
-22,Spell,Common,Invisibility
-23,Creature,Rare,Dark Merchant Fairy
-24,Artifact,Common,Sigil
-25,Creature,Rare,Frozen Fighter Hydra
-26,Creature,Mythic,Earth Undead Dragon of the Shadows
-27,Enchantment,Common,Haste
-28,Spell,Rare,Solar Frost
-29,Enchantment,Rare,Miracle Flight
-30,Creature,Common,Dwarf
-31,Creature,Rare,Death Knight Skin-Walker
-32,Artifact,Common,Crown
-33,Spell,Rare,Hateful Burst
-34,Creature,Common,Spider
-35,Enchantment,Rare,Forged Shield
-36,Creature,Common,Warlock
-37,Enchantment,Common,Blight
-38,Creature,Common,Paladin
-39,Creature,Common,Elf
-40,Spell,Mythic,Dire Vortex
-41,Creature,Rare,Death Rogue Hydra
-42,Creature,Common,Warlock
-43,Artifact,Common,Amulet
-44,Creature,Rare,Snow Lord Griffin
+==================,DECK,7518
+0,Enchantment,Shield
+1,Enchantment,Firebreath
+2,Artifact,Victory Divine Robe
+3,Enchantment,Age
+4,Creature,Snow Priest Griffin
+5,Artifact,Ghost Wand
+6,Creature,Aura Priest Kraken
+7,Spell,Burst
+8,Spell,Heal
+9,Creature,Berserker
+10,Enchantment,Shield
+11,Enchantment,Nimble Drain
+12,Spell,Tempest
+13,Artifact,Apocalypse Cloak
+14,Creature,Skin-Walker
+15,Creature,Death Queen Goblin
+16,Spell,Gale
+17,Spell,Urgent Frigid Pandemonium
+18,Spell,Necro Torment
+19,Enchantment,Grim Haste
+20,Enchantment,Clever Corpse Lethargy
+21,Creature,Frozen Priest Griffin
+22,Spell,Lightning
+23,Creature,Dark Merchant Kraken
+24,Artifact,Sigil
+25,Creature,Frozen Fighter Hydra
+26,Creature,Earth Undead Dragon of the Shadows
+27,Enchantment,Age
+28,Spell,Shimmering Stun
+29,Enchantment,Grim Drain
+30,Creature,Magi
+31,Creature,Death Knight Orc
+32,Artifact,Crown
+33,Spell,Lunar Lightning
+34,Creature,Paladin
+35,Enchantment,Gloom Shrink
+36,Creature,Berserker
+37,Enchantment,Haste
+38,Creature,Troll
+39,Creature,Warlock
+40,Spell,Irate Apocalypse Torment
+41,Creature,Death Rogue Hydra
+42,Creature,Berserker
+43,Artifact,Amulet
+44,Creature,Snow Lord Griffin

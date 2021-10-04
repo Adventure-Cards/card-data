@@ -1,46 +1,46 @@
-==================,DECK,7967,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Goblin
-2,Creature,Mythic,Aura Chaos Demon of the Light
-3,Enchantment,Legendary,Angry Shade
-4,Creature,Common,Wolf
-5,Creature,Common,Elf
-6,Creature,Common,Orc
-7,Creature,Common,Paladin
-8,Spell,Common,Frost
-9,Enchantment,Common,Strength
-10,Creature,Common,Eagle
-11,Creature,Common,Dwarf
-12,Creature,Rare,Snow Monk Griffin
-13,Creature,Rare,Frozen Merchant Skin-Walker
-14,Spell,Legendary,Angry Pandemonium
-15,Creature,Mythic,Light Chaos Wizard of the Sky
-16,Creature,Rare,Dark Priest Minotaur
-17,Creature,Rare,Earth Knight Minotaur
-18,Enchantment,Common,Shade
-19,Spell,Rare,Apocalypse Burn
-20,Spell,Common,Ice
-21,Creature,Common,Magi
-22,Creature,Mythic,Aura Time Phoenix of the Light
-23,Enchantment,Common,Invert
-24,Creature,Rare,Earth King Skin-Walker
-25,Creature,Common,Orc
-26,Creature,Rare,Snow King Hydra
-27,Spell,Common,Heal
-28,Creature,Rare,Death Assassin Fairy
-29,Creature,Rare,Light Thief Fairy
-30,Creature,Rare,Earth Warrior Berserker
-31,Creature,Common,Spider
-32,Creature,Common,Wolf
-33,Creature,Common,Paladin
-34,Creature,Legendary,Snow Fighter Cyclops of the Haven
-35,Creature,Common,Ghoul
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Creature,Rare,Death Queen Fairy
-39,Creature,Rare,Dark King Berserker
-40,Enchantment,Common,Lethargy
-41,Creature,Common,Dwarf
-42,Spell,Common,Stun
-43,Enchantment,Common,Flight
-44,Enchantment,Rare,Forged Agony
+==================,DECK,7967
+0,Creature,Ghoul
+1,Creature,Skin-Walker
+2,Creature,Aura Chaos Demon of the Light
+3,Enchantment,Ardent Chimeric Shield
+4,Creature,Wolf
+5,Creature,Warlock
+6,Creature,Spider
+7,Creature,Troll
+8,Spell,Fireball
+9,Enchantment,Drain
+10,Creature,Eagle
+11,Creature,Magi
+12,Creature,Snow Monk Griffin
+13,Creature,Frozen Merchant Orc
+14,Spell,Empyrean Lunar Wall
+15,Creature,Light Chaos Wizard of the Sky
+16,Creature,Dark Priest Cyclops
+17,Creature,Earth Knight Cyclops
+18,Enchantment,Lethargy
+19,Spell,Apocalypse Fireball
+20,Spell,Tempest
+21,Creature,Fairy
+22,Creature,Aura Time Phoenix of the Light
+23,Enchantment,Agony
+24,Creature,Earth King Orc
+25,Creature,Spider
+26,Creature,Snow King Hydra
+27,Spell,Frost
+28,Creature,Death Assassin Kraken
+29,Creature,Light Thief Kraken
+30,Creature,Earth Warrior Goblin
+31,Creature,Paladin
+32,Creature,Wolf
+33,Creature,Troll
+34,Creature,Snow Fighter Giant of the Haven
+35,Creature,Ghoul
+36,Creature,Wolf
+37,Creature,Berserker
+38,Creature,Death Queen Kraken
+39,Creature,Dark King Goblin
+40,Enchantment,Shield
+41,Creature,Magi
+42,Spell,Torment
+43,Enchantment,Age
+44,Enchantment,Miracle Shield

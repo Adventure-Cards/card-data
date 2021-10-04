@@ -1,48 +1,4 @@
-0,Artifact,Cloak
-1,Creature,Light Nameless Phoenix of the Sky
-2,Enchantment,Flight
-3,Creature,Light Ancient Demon of the Sky
-4,Enchantment,Dire Shimmering Age
-5,Creature,Skin-Walker
-6,Artifact,Hateful Shield
-7,Spell,Maelstrom
-8,Creature,Fairy
-9,Creature,Warlock
-10,Creature,Frozen Time Dragon of the Void
-11,Creature,Earth Undead Griffin
-12,Creature,Aura Queen Ogre of the West
-13,Creature,Berserker
-14,Creature,Earth Grand Wizard of the Shadows
-15,Enchantment,Shield
-16,Spell,Nimble Lightning
-17,Creature,Snow Priest Goblin
-18,Creature,Skin-Walker
-19,Artifact,Crown
-20,Spell,Ardent Dark Stricken
-21,Spell,Irate Life Fireball
-22,Spell,Stricken
-23,Spell,Clever Solar Revive
-24,Creature,Light Monk Giant of the Mountains
-25,Artifact,Gloom Bracers
-26,Enchantment,Ardent Dark Shield
-27,Enchantment,Empyrean Nature Age
-28,Creature,Warlock
-29,Creature,Snow Monk Cyclops
-30,Spell,Gravitation
-31,Creature,Earth Nameless Dragon of the Shadows
-32,Creature,Aura Chaos Demon of the Light
-33,Enchantment,Firebreath
-34,Creature,Snow Thief Kraken
-35,Enchantment,Age
-36,Creature,Earth Nameless Phoenix of the Shadows
-37,Spell,Urgent Life Frenzy
-38,Creature,Spider
-39,Spell,Fury
-40,Creature,Frozen Monk Giant of the Swamp
-41,Creature,Troll
-42,Creature,Berserker
-43,Artifact,Irate Forged Crown
-44,Creature,Eagle
+==================,DECK,2048
 0,Artifact,Cloak
 1,Creature,Light Nameless Phoenix of the Sky
 2,Enchantment,Flight

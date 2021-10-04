@@ -1,46 +1,46 @@
-==================,DECK,6276,Light
-0,Enchantment,Common,Deathgrip
-1,Creature,Rare,Light King Griffin
-2,Creature,Rare,Light Fighter Griffin
-3,Creature,Common,Warlock
-4,Enchantment,Rare,Miracle Blight
-5,Enchantment,Common,Agony
-6,Creature,Common,Warlock
-7,Creature,Common,Spider
-8,Artifact,Legendary,Extreme Potion
-9,Spell,Rare,Apocalypse Maelstrom
-10,Enchantment,Common,Agony
-11,Creature,Legendary,Earth Rogue Oni of the Polar Woods
-12,Spell,Rare,Necro Burn
-13,Creature,Common,Wolf
-14,Creature,Common,Goblin
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Legendary,Earth Merchant Orge of the Polar Woods
-18,Creature,Legendary,Light Thief Cyclops of the Polar Woods
-19,Creature,Common,Eagle
-20,Artifact,Common,Belt
-21,Creature,Common,Elf
-22,Creature,Mythic,Dark Undead Phoenix of Illusion
-23,Spell,Common,Frost
-24,Creature,Common,Warlock
-25,Creature,Common,Elf
-26,Spell,Common,Stricken
-27,Creature,Common,Paladin
-28,Spell,Legendary,Clever Fury
-29,Spell,Common,Rage
-30,Creature,Mythic,Earth Chaos Wizard of the Shadows
-31,Creature,Common,Eagle
-32,Enchantment,Common,Strength
-33,Creature,Common,Paladin
-34,Creature,Common,Paladin
-35,Creature,Common,Magi
-36,Creature,Legendary,Light Knight Oni of the Swamp
-37,Creature,Common,Orc
-38,Artifact,Common,Helm
-39,Creature,Common,Warlock
-40,Creature,Common,Magi
-41,Creature,Legendary,Aura Undead Giant of the Black Stone
-42,Spell,Legendary,Dire Wall
-43,Creature,Common,Magi
-44,Creature,Common,Magi
+==================,DECK,6276
+0,Enchantment,Flight
+1,Creature,Light King Griffin
+2,Creature,Light Fighter Griffin
+3,Creature,Berserker
+4,Enchantment,Nimble Haste
+5,Enchantment,Strength
+6,Creature,Berserker
+7,Creature,Paladin
+8,Artifact,Clever Miracle Potion
+9,Spell,Grim Torment
+10,Enchantment,Invert
+11,Creature,Earth Rogue Oni of the Polar Woods
+12,Spell,Shimmering Maelstrom
+13,Creature,Wolf
+14,Creature,Skin-Walker
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Earth Merchant Elf of the Polar Woods
+18,Creature,Light Thief Giant of the Polar Woods
+19,Creature,Eagle
+20,Artifact,Belt
+21,Creature,Warlock
+22,Creature,Dark Undead Phoenix of Illusion
+23,Spell,Sorrow
+24,Creature,Berserker
+25,Creature,Warlock
+26,Spell,Assault
+27,Creature,Troll
+28,Spell,Mighty Apocalypse Pandemonium
+29,Spell,Pandemonium
+30,Creature,Earth Chaos Wizard of the Shadows
+31,Creature,Eagle
+32,Enchantment,Shield
+33,Creature,Troll
+34,Creature,Troll
+35,Creature,Fairy
+36,Creature,Light Knight Oni of the Swamp
+37,Creature,Spider
+38,Artifact,Helm
+39,Creature,Berserker
+40,Creature,Fairy
+41,Creature,Aura Undead Dwarf of the Black Stone
+42,Spell,Urgent Oblivion Burn
+43,Creature,Fairy
+44,Creature,Fairy

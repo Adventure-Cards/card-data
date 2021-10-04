@@ -1,46 +1,46 @@
-==================,DECK,6804,Medium
-0,Creature,Mythic,Dark Chaos Wizard of Illusion
-1,Enchantment,Common,Shield
-2,Spell,Common,Stun
-3,Spell,Rare,Necro Burst
-4,Creature,Common,Orc
-5,Spell,Rare,Corpse Wall
-6,Creature,Common,Spider
-7,Artifact,Common,Potion
-8,Creature,Common,Ghoul
-9,Spell,Rare,Dark Revive
-10,Creature,Common,Dwarf
-11,Creature,Common,Orc
-12,Spell,Legendary,Clever Gravitation
-13,Creature,Common,Orc
-14,Enchantment,Rare,Solar Alacrity
-15,Creature,Common,Paladin
-16,Creature,Legendary,Dark Merchant Kraken of the Border
-17,Enchantment,Legendary,Mighty Haste
-18,Creature,Legendary,Aura Priest Kraken of the Eternal Land
-19,Creature,Rare,Snow Lord Minotaur
-20,Artifact,Legendary,Mighty Ring
-21,Creature,Mythic,Frozen Chaos Demon of the Void
-22,Spell,Legendary,Angry Stun
-23,Enchantment,Legendary,Angry Blight
-24,Creature,Mythic,Death Undead Dragon of the Dead
-25,Creature,Common,Warlock
-26,Spell,Common,Maelstrom
-27,Artifact,Rare,Cataclysmic Crown
-28,Spell,Rare,Gloom Wall
-29,Spell,Rare,Lunar Fury
-30,Creature,Common,Spider
-31,Creature,Common,Wolf
-32,Spell,Rare,Life Maelstrom
-33,Enchantment,Common,Shield
-34,Creature,Common,Eagle
-35,Creature,Rare,Dark Fighter Minotaur
-36,Creature,Common,Goblin
-37,Creature,Common,Magi
-38,Creature,Legendary,Light Priest Giant of the Frozen Castle
-39,Creature,Common,Eagle
-40,Creature,Rare,Aura King Fairy
-41,Creature,Common,Eagle
-42,Creature,Rare,Aura Warrior Griffin
-43,Spell,Rare,Lunar Gale
-44,Artifact,Rare,Oblivion Boots
+==================,DECK,6804
+0,Creature,Dark Chaos Wizard of Illusion
+1,Enchantment,Invert
+2,Spell,Burn
+3,Spell,Forged Invisibility
+4,Creature,Spider
+5,Spell,Solar Ice
+6,Creature,Paladin
+7,Artifact,Potion
+8,Creature,Ghoul
+9,Spell,Gloom Gravitation
+10,Creature,Magi
+11,Creature,Spider
+12,Spell,Irate Apocalypse Revive
+13,Creature,Spider
+14,Enchantment,Forged Deathgrip
+15,Creature,Troll
+16,Creature,Dark Merchant Ogre of the Border
+17,Enchantment,Clever Miracle Shield
+18,Creature,Aura Priest Ogre of the Eternal Land
+19,Creature,Snow Lord Cyclops
+20,Artifact,Instant Sorrow Ring
+21,Creature,Frozen Chaos Demon of the Void
+22,Spell,Potent Lunar Pandemonium
+23,Enchantment,Zealous Cataclysmic Alacrity
+24,Creature,Death Undead Dragon of the Dead
+25,Creature,Berserker
+26,Spell,Fury
+27,Artifact,Cataclysmic Crown
+28,Spell,Sorrow Burst
+29,Spell,Gloom Burn
+30,Creature,Paladin
+31,Creature,Wolf
+32,Spell,Victory Fire
+33,Enchantment,Shade
+34,Creature,Eagle
+35,Creature,Dark Fighter Cyclops
+36,Creature,Skin-Walker
+37,Creature,Fairy
+38,Creature,Light Priest Dwarf of the Frozen Castle
+39,Creature,Eagle
+40,Creature,Aura King Kraken
+41,Creature,Eagle
+42,Creature,Aura Warrior Griffin
+43,Spell,Lunar Burst
+44,Artifact,Victory Boots

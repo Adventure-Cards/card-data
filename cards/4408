@@ -1,46 +1,46 @@
-==================,DECK,4408,Medium
-0,Creature,Rare,Earth Monk Hydra
-1,Creature,Common,Goblin
-2,Spell,Rare,Oblivion Wall
-3,Enchantment,Rare,Frigid Invert
-4,Enchantment,Legendary,Dire Drain
-5,Creature,Common,Warlock
-6,Enchantment,Common,Shade
-7,Creature,Common,Goblin
-8,Creature,Common,Magi
-9,Creature,Common,Orc
-10,Spell,Common,Fury
-11,Artifact,Rare,Nimble Staff
-12,Spell,Common,Rage
-13,Spell,Mythic,Extreme Maelstrom
-14,Spell,Common,Sorrow
-15,Creature,Common,Eagle
-16,Enchantment,Common,Shrink
-17,Creature,Common,Eagle
-18,Creature,Common,Eagle
-19,Spell,Common,Fury
-20,Creature,Rare,Death Thief Skin-Walker
-21,Spell,Common,Revive
-22,Creature,Common,Paladin
-23,Creature,Common,Elf
-24,Creature,Rare,Dark Rogue Minotaur
-25,Spell,Common,Burst
-26,Creature,Common,Paladin
-27,Creature,Common,Paladin
-28,Enchantment,Mythic,Intense Shield
-29,Spell,Legendary,Clever Reanimate
-30,Spell,Common,Rage
-31,Artifact,Rare,Necro Tome
-32,Creature,Common,Paladin
-33,Spell,Common,Reanimate
-34,Creature,Common,Warlock
-35,Creature,Mythic,Light Chaos Demon of the Sky
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Wolf
-38,Creature,Common,Paladin
-39,Creature,Common,Warlock
-40,Spell,Common,Wall
-41,Creature,Common,Magi
-42,Creature,Common,Paladin
-43,Creature,Common,Paladin
-44,Creature,Legendary,Death Fighter Giant of the Bright Mountains
+==================,DECK,4408
+0,Creature,Earth Monk Hydra
+1,Creature,Skin-Walker
+2,Spell,Oblivion Rage
+3,Enchantment,Oblivion Shade
+4,Enchantment,Potent Apocalypse Drain
+5,Creature,Berserker
+6,Enchantment,Alacrity
+7,Creature,Skin-Walker
+8,Creature,Fairy
+9,Creature,Spider
+10,Spell,Sorrow
+11,Artifact,Shimmering Staff
+12,Spell,Maelstrom
+13,Spell,Clever Chimeric Wall
+14,Spell,Fury
+15,Creature,Eagle
+16,Enchantment,Agony
+17,Creature,Eagle
+18,Creature,Eagle
+19,Spell,Stricken
+20,Creature,Death Thief Orc
+21,Spell,Freeze
+22,Creature,Troll
+23,Creature,Warlock
+24,Creature,Dark Rogue Cyclops
+25,Spell,Ice
+26,Creature,Troll
+27,Creature,Troll
+28,Enchantment,Instant Nature Strength
+29,Spell,Clever Grim Rage
+30,Spell,Fire
+31,Artifact,Shimmering Tome
+32,Creature,Troll
+33,Spell,Assault
+34,Creature,Berserker
+35,Creature,Light Chaos Demon of the Sky
+36,Enchantment,Shield
+37,Creature,Wolf
+38,Creature,Troll
+39,Creature,Berserker
+40,Spell,Fury
+41,Creature,Fairy
+42,Creature,Troll
+43,Creature,Troll
+44,Creature,Death Fighter Dwarf of the Bright Mountains

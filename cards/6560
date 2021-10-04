@@ -1,46 +1,46 @@
-==================,DECK,6560,Medium
-0,Enchantment,Common,Invert
-1,Enchantment,Mythic,Mighty Drain
-2,Spell,Legendary,Urgent Freeze
-3,Enchantment,Common,Flight
-4,Artifact,Common,Scepter
-5,Enchantment,Rare,Nature Shrink
-6,Enchantment,Rare,Necro Blight
-7,Creature,Mythic,Death Nameless Dragon of the Dead
-8,Creature,Common,Dwarf
-9,Artifact,Rare,Miracle Potion
-10,Artifact,Common,Potion
-11,Enchantment,Common,Shade
-12,Enchantment,Common,Shrink
-13,Spell,Common,Vortex
-14,Spell,Rare,Shimmering Burst
-15,Enchantment,Mythic,Instant Alacrity
-16,Creature,Common,Paladin
-17,Spell,Rare,Dark Vortex
-18,Creature,Rare,Death Lord Berserker
-19,Enchantment,Legendary,Mighty Flight
-20,Enchantment,Common,Shrink
-21,Creature,Common,Goblin
-22,Creature,Common,Eagle
-23,Creature,Common,Elf
-24,Spell,Rare,Hateful Maelstrom
-25,Enchantment,Common,Age
-26,Creature,Common,Paladin
-27,Enchantment,Rare,Hateful Age
-28,Creature,Common,Ghoul
-29,Creature,Rare,Death Monk Minotaur
-30,Creature,Common,Elf
-31,Creature,Rare,Light Lord Berserker
-32,Creature,Rare,Dark King Berserker
-33,Spell,Common,Torment
-34,Spell,Mythic,Potent Sorrow
-35,Artifact,Common,Amulet
-36,Creature,Rare,Snow Rogue Griffin
-37,Spell,Rare,Nimble Revive
-38,Artifact,Common,Scepter
-39,Spell,Common,Burn
-40,Spell,Common,Revive
-41,Creature,Common,Orc
-42,Spell,Common,Infuriate
-43,Creature,Rare,Earth Knight Hydra
-44,Creature,Rare,Snow Monk Griffin
+==================,DECK,6560
+0,Enchantment,Firebreath
+1,Enchantment,Empyrean Dark Firebreath
+2,Spell,Urgent Nature Infuriate
+3,Enchantment,Haste
+4,Artifact,Scepter
+5,Enchantment,Necro Agony
+6,Enchantment,Solar Lethargy
+7,Creature,Death Nameless Dragon of the Dead
+8,Creature,Magi
+9,Artifact,Apocalypse Potion
+10,Artifact,Potion
+11,Enchantment,Deathgrip
+12,Enchantment,Invert
+13,Spell,Burn
+14,Spell,Nature Frenzy
+15,Enchantment,Ardent Forged Lethargy
+16,Creature,Troll
+17,Spell,Chimeric Stricken
+18,Creature,Death Lord Goblin
+19,Enchantment,Empyrean Lunar Firebreath
+20,Enchantment,Strength
+21,Creature,Skin-Walker
+22,Creature,Eagle
+23,Creature,Warlock
+24,Spell,Lunar Burst
+25,Enchantment,Firebreath
+26,Creature,Troll
+27,Enchantment,Gloom Firebreath
+28,Creature,Ghoul
+29,Creature,Death Monk Cyclops
+30,Creature,Warlock
+31,Creature,Light Lord Goblin
+32,Creature,Dark King Goblin
+33,Spell,Fury
+34,Spell,Mighty Oblivion Gale
+35,Artifact,Amulet
+36,Creature,Snow Rogue Griffin
+37,Spell,Necro Burn
+38,Artifact,Scepter
+39,Spell,Fury
+40,Spell,Revive
+41,Creature,Spider
+42,Spell,Gravitation
+43,Creature,Earth Knight Hydra
+44,Creature,Snow Monk Griffin

@@ -1,46 +1,46 @@
-==================,DECK,6256,Light
-0,Creature,Common,Ghoul
-1,Artifact,Common,Bow
-2,Creature,Rare,Light Merchant Skin-Walker
-3,Creature,Common,Magi
-4,Creature,Rare,Death Queen Minotaur
-5,Creature,Common,Dwarf
-6,Spell,Legendary,Instant Stun
-7,Creature,Rare,Aura Fighter Berserker
-8,Creature,Legendary,Snow Queen Kraken of the Black Stone
-9,Spell,Common,Stricken
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Spell,Common,Hypnosis
-13,Spell,Common,Stricken
-14,Enchantment,Legendary,Extreme Agony
-15,Spell,Legendary,Angry Pandemonium
-16,Creature,Common,Orc
-17,Creature,Rare,Light Warrior Hydra
-18,Artifact,Rare,Necro Helm
-19,Creature,Common,Spider
-20,Creature,Common,Magi
-21,Enchantment,Common,Flight
-22,Enchantment,Mythic,Mighty Drain
-23,Spell,Common,Burst
-24,Creature,Legendary,Aura Assassin Cyclops of the Border
-25,Creature,Rare,Earth Fighter Hydra
-26,Creature,Common,Eagle
-27,Creature,Rare,Earth King Hydra
-28,Creature,Common,Dwarf
-29,Creature,Common,Wolf
-30,Enchantment,Common,Drain
-31,Creature,Legendary,Aura Merchant Oni of the Polar Woods
-32,Spell,Rare,Oblivion Vortex
-33,Artifact,Common,Cloak
-34,Creature,Common,Warlock
-35,Enchantment,Legendary,Clever Haste
-36,Spell,Common,Reanimate
-37,Creature,Mythic,Snow Undead Phoenix of Hate
-38,Spell,Common,Burn
-39,Enchantment,Rare,Oblivion Agony
-40,Creature,Rare,Light King Skin-Walker
-41,Creature,Legendary,Frozen King Kraken of the Black Stone
-42,Creature,Common,Ghoul
-43,Creature,Rare,Frozen Thief Hydra
-44,Creature,Common,Dwarf
+==================,DECK,6256
+0,Creature,Ghoul
+1,Artifact,Bow
+2,Creature,Light Merchant Orc
+3,Creature,Fairy
+4,Creature,Death Queen Cyclops
+5,Creature,Magi
+6,Spell,Potent Nature Freeze
+7,Creature,Aura Fighter Goblin
+8,Creature,Snow Queen Ogre of the Black Stone
+9,Spell,Ice
+10,Creature,Paladin
+11,Creature,Troll
+12,Spell,Heal
+13,Spell,Fire
+14,Enchantment,Instant Miracle Shrink
+15,Spell,Mighty Miracle Assault
+16,Creature,Spider
+17,Creature,Light Warrior Hydra
+18,Artifact,Shimmering Helm
+19,Creature,Paladin
+20,Creature,Fairy
+21,Enchantment,Lethargy
+22,Enchantment,Empyrean Dark Firebreath
+23,Spell,Reanimate
+24,Creature,Aura Assassin Giant of the Border
+25,Creature,Earth Fighter Hydra
+26,Creature,Eagle
+27,Creature,Earth King Hydra
+28,Creature,Magi
+29,Creature,Wolf
+30,Enchantment,Age
+31,Creature,Aura Merchant Oni of the Polar Woods
+32,Spell,Nimble Torment
+33,Artifact,Cloak
+34,Creature,Berserker
+35,Enchantment,Empyrean Life Shade
+36,Spell,Stricken
+37,Creature,Snow Undead Phoenix of Hate
+38,Spell,Stun
+39,Enchantment,Life Drain
+40,Creature,Light King Orc
+41,Creature,Frozen King Ogre of the Black Stone
+42,Creature,Ghoul
+43,Creature,Frozen Thief Hydra
+44,Creature,Magi

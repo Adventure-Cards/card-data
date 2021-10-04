@@ -1,46 +1,46 @@
-==================,DECK,5106,Light
-0,Creature,Common,Spider
-1,Artifact,Rare,Necro Bow
-2,Enchantment,Common,Age
-3,Creature,Rare,Earth Merchant Minotaur
-4,Creature,Common,Ghoul
-5,Creature,Rare,Death Warrior Griffin
-6,Enchantment,Rare,Cataclysmic Haste
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Creature,Rare,Earth Undead Hydra
-10,Enchantment,Common,Age
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Eagle
-13,Creature,Common,Goblin
-14,Spell,Common,Hypnosis
-15,Spell,Common,Stricken
-16,Enchantment,Legendary,Angry Alacrity
-17,Creature,Legendary,Death Merchant Kraken of the Haven
-18,Creature,Common,Dwarf
-19,Creature,Common,Dwarf
-20,Spell,Common,Assault
-21,Creature,Common,Warlock
-22,Creature,Common,Spider
-23,Spell,Legendary,Instant Sorrow
-24,Creature,Common,Magi
-25,Enchantment,Common,Shield
-26,Creature,Common,Goblin
-27,Artifact,Common,Tome
-28,Enchantment,Common,Invert
-29,Enchantment,Mythic,Intense Agony
-30,Enchantment,Common,Alacrity
-31,Creature,Rare,Death Monk Minotaur
-32,Creature,Common,Eagle
-33,Enchantment,Common,Invert
-34,Spell,Common,Hypnosis
-35,Creature,Common,Wolf
-36,Spell,Rare,Shimmering Stun
-37,Creature,Legendary,Frozen Knight Orge of the Haven
-38,Artifact,Rare,Oblivion Crown
-39,Spell,Rare,Solar Assault
-40,Spell,Common,Stricken
-41,Creature,Rare,Frozen Knight Griffin
-42,Spell,Rare,Dark Rage
-43,Creature,Rare,Light Thief Skin-Walker
-44,Creature,Common,Wolf
+==================,DECK,5106
+0,Creature,Paladin
+1,Artifact,Nature Bow
+2,Enchantment,Shield
+3,Creature,Earth Merchant Cyclops
+4,Creature,Ghoul
+5,Creature,Death Warrior Griffin
+6,Enchantment,Miracle Shrink
+7,Creature,Troll
+8,Creature,Spider
+9,Creature,Earth Undead Hydra
+10,Enchantment,Flight
+11,Enchantment,Invert
+12,Creature,Eagle
+13,Creature,Skin-Walker
+14,Spell,Lightning
+15,Spell,Assault
+16,Enchantment,Irate Dark Alacrity
+17,Creature,Death Merchant Ogre of the Haven
+18,Creature,Magi
+19,Creature,Magi
+20,Spell,Gale
+21,Creature,Berserker
+22,Creature,Paladin
+23,Spell,Empyrean Solar Burst
+24,Creature,Fairy
+25,Enchantment,Flight
+26,Creature,Skin-Walker
+27,Artifact,Tome
+28,Enchantment,Blight
+29,Enchantment,Irate Corpse Deathgrip
+30,Enchantment,Invert
+31,Creature,Death Monk Cyclops
+32,Creature,Eagle
+33,Enchantment,Agony
+34,Spell,Hypnosis
+35,Creature,Wolf
+36,Spell,Necro Burst
+37,Creature,Frozen Knight Elf of the Haven
+38,Artifact,Apocalypse Crown
+39,Spell,Necro Wall
+40,Spell,Freeze
+41,Creature,Frozen Knight Griffin
+42,Spell,Cataclysmic Maelstrom
+43,Creature,Light Thief Orc
+44,Creature,Wolf

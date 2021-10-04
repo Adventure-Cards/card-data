@@ -1,46 +1,46 @@
-==================,DECK,5207,Light
-0,Creature,Common,Magi
-1,Spell,Rare,Nimble Rage
-2,Spell,Common,Stun
-3,Enchantment,Mythic,Angry Age
-4,Creature,Legendary,Dark Priest Kraken of the Swamp
-5,Creature,Common,Eagle
-6,Spell,Common,Infuriate
-7,Spell,Common,Stricken
-8,Creature,Rare,Earth Priest Minotaur
-9,Creature,Common,Goblin
-10,Creature,Common,Wolf
-11,Creature,Legendary,Death Fighter Kraken of the Mountains
-12,Enchantment,Common,Shrink
-13,Creature,Common,Elf
-14,Spell,Common,Revive
-15,Enchantment,Rare,Oblivion Strength
-16,Spell,Common,Rage
-17,Enchantment,Mythic,Intense Alacrity
-18,Spell,Common,Hypnosis
-19,Enchantment,Common,Flight
-20,Creature,Common,Eagle
-21,Enchantment,Common,Strength
-22,Creature,Common,Elf
-23,Creature,Common,Dwarf
-24,Enchantment,Mythic,Urgent Deathgrip
-25,Creature,Legendary,Light Undead Cyclops of the Black Stone
-26,Creature,Common,Orc
-27,Creature,Common,Magi
-28,Enchantment,Common,Invert
-29,Creature,Common,Goblin
-30,Spell,Common,Frost
-31,Enchantment,Common,Shield
-32,Creature,Legendary,Snow Thief Giant of the Frozen Castle
-33,Enchantment,Common,Invert
-34,Spell,Common,Frost
-35,Spell,Rare,Nimble Torment
-36,Creature,Common,Magi
-37,Creature,Common,Spider
-38,Creature,Common,Warlock
-39,Creature,Common,Ghoul
-40,Creature,Common,Eagle
-41,Creature,Common,Dwarf
-42,Creature,Common,Dwarf
-43,Creature,Rare,Aura Warrior Fairy
-44,Creature,Common,Orc
+==================,DECK,5207
+0,Creature,Fairy
+1,Spell,Hateful Lightning
+2,Spell,Freeze
+3,Enchantment,Potent Gloom Shrink
+4,Creature,Dark Priest Ogre of the Swamp
+5,Creature,Eagle
+6,Spell,Fireball
+7,Spell,Torment
+8,Creature,Earth Priest Cyclops
+9,Creature,Skin-Walker
+10,Creature,Wolf
+11,Creature,Death Fighter Ogre of the Mountains
+12,Enchantment,Invert
+13,Creature,Warlock
+14,Spell,Pandemonium
+15,Enchantment,Nimble Haste
+16,Spell,Stricken
+17,Enchantment,Ardent Forged Lethargy
+18,Spell,Invisibility
+19,Enchantment,Deathgrip
+20,Creature,Eagle
+21,Enchantment,Deathgrip
+22,Creature,Warlock
+23,Creature,Magi
+24,Enchantment,Zealous Shimmering Deathgrip
+25,Creature,Light Undead Giant of the Black Stone
+26,Creature,Spider
+27,Creature,Fairy
+28,Enchantment,Drain
+29,Creature,Skin-Walker
+30,Spell,Gravitation
+31,Enchantment,Deathgrip
+32,Creature,Snow Thief Dwarf of the Frozen Castle
+33,Enchantment,Drain
+34,Spell,Gale
+35,Spell,Solar Wall
+36,Creature,Fairy
+37,Creature,Paladin
+38,Creature,Berserker
+39,Creature,Ghoul
+40,Creature,Eagle
+41,Creature,Magi
+42,Creature,Magi
+43,Creature,Aura Warrior Kraken
+44,Creature,Spider

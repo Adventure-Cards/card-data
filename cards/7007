@@ -1,46 +1,46 @@
-==================,DECK,7007,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Paladin
-2,Creature,Mythic,Dark Undead Dragon of Illusion
-3,Creature,Common,Spider
-4,Creature,Mythic,Earth Nameless Dragon of the Shadows
-5,Artifact,Rare,Oblivion Shield
-6,Creature,Common,Spider
-7,Creature,Common,Eagle
-8,Artifact,Legendary,Mighty Scythe
-9,Spell,Common,Vortex
-10,Creature,Common,Paladin
-11,Spell,Common,Freeze
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Shrink
-14,Enchantment,Common,Alacrity
-15,Enchantment,Legendary,Angry Shield
-16,Enchantment,Common,Agony
-17,Creature,Common,Spider
-18,Enchantment,Common,Alacrity
-19,Enchantment,Common,Agony
-20,Artifact,Rare,Gloom Sword
-21,Artifact,Rare,Apocalypse Divine Robe
-22,Creature,Common,Ghoul
-23,Creature,Rare,Aura Assassin Hydra
-24,Enchantment,Common,Shield
-25,Creature,Legendary,Snow Knight Giant of the Plains
-26,Spell,Common,Wall
-27,Spell,Rare,Lunar Infuriate
-28,Creature,Legendary,Aura Rogue Giant of the Low Hills
-29,Spell,Common,Pandemonium
-30,Spell,Rare,Necro Burn
-31,Creature,Legendary,Earth Monk Oni of the Polar Woods
-32,Artifact,Common,Gauntlet
-33,Creature,Rare,Frozen Queen Minotaur
-34,Enchantment,Common,Drain
-35,Enchantment,Mythic,Instant Shrink
-36,Enchantment,Common,Shrink
-37,Creature,Common,Eagle
-38,Enchantment,Mythic,Instant Strength
-39,Artifact,Legendary,Dire Scepter
-40,Creature,Common,Dwarf
-41,Creature,Common,Paladin
-42,Creature,Common,Warlock
-43,Creature,Common,Dwarf
-44,Creature,Rare,Frozen Warrior Berserker
+==================,DECK,7007
+0,Creature,Eagle
+1,Creature,Troll
+2,Creature,Dark Undead Dragon of Illusion
+3,Creature,Paladin
+4,Creature,Earth Nameless Dragon of the Shadows
+5,Artifact,Apocalypse Shield
+6,Creature,Paladin
+7,Creature,Eagle
+8,Artifact,Empyrean Lunar Scythe
+9,Spell,Wall
+10,Creature,Troll
+11,Spell,Lightning
+12,Creature,Magi
+13,Enchantment,Alacrity
+14,Enchantment,Shade
+15,Enchantment,Urgent Gloom Flight
+16,Enchantment,Shade
+17,Creature,Paladin
+18,Enchantment,Drain
+19,Enchantment,Lethargy
+20,Artifact,Gloom Sword
+21,Artifact,Grim Divine Robe
+22,Creature,Ghoul
+23,Creature,Aura Assassin Hydra
+24,Enchantment,Age
+25,Creature,Snow Knight Dwarf of the Plains
+26,Spell,Tempest
+27,Spell,Gloom Stricken
+28,Creature,Aura Rogue Dwarf of the Low Hills
+29,Spell,Wall
+30,Spell,Necro Infuriate
+31,Creature,Earth Monk Oni of the Polar Woods
+32,Artifact,Gauntlet
+33,Creature,Frozen Queen Cyclops
+34,Enchantment,Blight
+35,Enchantment,Zealous Necro Deathgrip
+36,Enchantment,Lethargy
+37,Creature,Eagle
+38,Enchantment,Instant Solar Strength
+39,Artifact,Instant Nimble Scepter
+40,Creature,Magi
+41,Creature,Troll
+42,Creature,Berserker
+43,Creature,Magi
+44,Creature,Frozen Warrior Goblin

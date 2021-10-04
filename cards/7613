@@ -1,46 +1,46 @@
-==================,DECK,7613,Medium
-0,Creature,Common,Warlock
-1,Creature,Common,Paladin
-2,Spell,Common,Freeze
-3,Creature,Common,Ghoul
-4,Artifact,Rare,Dark Ghost Wand
-5,Creature,Common,Eagle
-6,Creature,Common,Orc
-7,Spell,Rare,Solar Gravitation
-8,Spell,Rare,Dark Frenzy
-9,Spell,Common,Heal
-10,Enchantment,Common,Alacrity
-11,Creature,Common,Goblin
-12,Creature,Legendary,Death Undead Oni of the Low Hills
-13,Enchantment,Common,Shrink
-14,Creature,Rare,Aura Monk Griffin
-15,Spell,Common,Pandemonium
-16,Artifact,Legendary,Clever Staff
-17,Creature,Legendary,Dark Warrior Orge of the Low Hills
-18,Spell,Common,Wall
-19,Creature,Common,Magi
-20,Creature,Common,Magi
-21,Artifact,Common,Helmet
-22,Enchantment,Common,Deathgrip
-23,Enchantment,Legendary,Instant Deathgrip
-24,Creature,Rare,Earth Priest Fairy
-25,Artifact,Common,Ghost Wand
-26,Creature,Common,Magi
-27,Enchantment,Common,Drain
-28,Spell,Common,Sorrow
-29,Spell,Common,Burn
-30,Spell,Common,Rage
-31,Creature,Legendary,Earth Knight Cyclops of the Magical Forest
-32,Enchantment,Common,Agony
-33,Creature,Common,Magi
-34,Creature,Common,Warlock
-35,Enchantment,Legendary,Potent Flight
-36,Creature,Legendary,Dark Queen Giant of the Magical Forest
-37,Enchantment,Common,Deathgrip
-38,Artifact,Common,Shield
-39,Spell,Common,Assault
-40,Creature,Common,Elf
-41,Creature,Rare,Snow Rogue Fairy
-42,Creature,Rare,Death Fighter Griffin
-43,Artifact,Common,Helm
-44,Spell,Common,Assault
+==================,DECK,7613
+0,Creature,Berserker
+1,Creature,Troll
+2,Spell,Rage
+3,Creature,Ghoul
+4,Artifact,Miracle Ghost Wand
+5,Creature,Eagle
+6,Creature,Spider
+7,Spell,Shimmering Burn
+8,Spell,Miracle Ice
+9,Spell,Hypnosis
+10,Enchantment,Invert
+11,Creature,Skin-Walker
+12,Creature,Death Undead Oni of the Low Hills
+13,Enchantment,Invert
+14,Creature,Aura Monk Griffin
+15,Spell,Assault
+16,Artifact,Irate Oblivion Staff
+17,Creature,Dark Warrior Elf of the Low Hills
+18,Spell,Assault
+19,Creature,Fairy
+20,Creature,Fairy
+21,Artifact,Helmet
+22,Enchantment,Shrink
+23,Enchantment,Mighty Shimmering Agony
+24,Creature,Earth Priest Kraken
+25,Artifact,Ghost Wand
+26,Creature,Fairy
+27,Enchantment,Blight
+28,Spell,Stun
+29,Spell,Fireball
+30,Spell,Torment
+31,Creature,Earth Knight Giant of the Magical Forest
+32,Enchantment,Alacrity
+33,Creature,Fairy
+34,Creature,Berserker
+35,Enchantment,Potent Grim Drain
+36,Creature,Dark Queen Dwarf of the Magical Forest
+37,Enchantment,Agony
+38,Artifact,Shield
+39,Spell,Frenzy
+40,Creature,Warlock
+41,Creature,Snow Rogue Kraken
+42,Creature,Death Fighter Griffin
+43,Artifact,Helm
+44,Spell,Assault

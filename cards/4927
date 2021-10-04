@@ -1,46 +1,46 @@
-==================,DECK,4927,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Warlock
-2,Spell,Common,Rage
-3,Spell,Common,Hypnosis
-4,Creature,Common,Ghoul
-5,Creature,Rare,Frozen Assassin Berserker
-6,Spell,Common,Stun
-7,Enchantment,Legendary,Clever Shrink
-8,Enchantment,Common,Shield
-9,Artifact,Common,Amulet
-10,Creature,Common,Dwarf
-11,Creature,Common,Goblin
-12,Spell,Rare,Oblivion Invisibility
-13,Enchantment,Legendary,Clever Deathgrip
-14,Creature,Common,Eagle
-15,Creature,Legendary,Light Queen Oni of the Arctic Blizzards
-16,Creature,Common,Eagle
-17,Spell,Common,Torment
-18,Creature,Rare,Aura Undead Fairy
-19,Creature,Rare,Light Merchant Hydra
-20,Creature,Common,Ghoul
-21,Creature,Common,Warlock
-22,Enchantment,Rare,Corpse Strength
-23,Enchantment,Common,Flight
-24,Creature,Mythic,Light Nameless Dragon of the Sky
-25,Artifact,Rare,Shimmering Gloves
-26,Creature,Legendary,Snow Fighter Orge of the Golden Palace
-27,Spell,Common,Wall
-28,Creature,Rare,Snow Monk Fairy
-29,Spell,Rare,Oblivion Invisibility
-30,Enchantment,Common,Blight
-31,Spell,Mythic,Clever Infuriate
-32,Creature,Rare,Earth King Berserker
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Elf
-35,Enchantment,Common,Alacrity
-36,Enchantment,Rare,Corpse Strength
-37,Enchantment,Common,Blight
-38,Creature,Common,Orc
-39,Creature,Common,Elf
-40,Spell,Common,Freeze
-41,Spell,Common,Infuriate
-42,Creature,Common,Warlock
-43,Creature,Common,Spider
-44,Creature,Mythic,Aura Nameless Phoenix of the Light
+==================,DECK,4927
+0,Creature,Spider
+1,Creature,Berserker
+2,Spell,Revive
+3,Spell,Gravitation
+4,Creature,Ghoul
+5,Creature,Frozen Assassin Goblin
+6,Spell,Gale
+7,Enchantment,Zealous Frigid Blight
+8,Enchantment,Lethargy
+9,Artifact,Amulet
+10,Creature,Magi
+11,Creature,Skin-Walker
+12,Spell,Frigid Sorrow
+13,Enchantment,Empyrean Oblivion Shade
+14,Creature,Eagle
+15,Creature,Light Queen Oni of the Arctic Blizzards
+16,Creature,Eagle
+17,Spell,Freeze
+18,Creature,Aura Undead Kraken
+19,Creature,Light Merchant Hydra
+20,Creature,Ghoul
+21,Creature,Berserker
+22,Enchantment,Solar Deathgrip
+23,Enchantment,Deathgrip
+24,Creature,Light Nameless Dragon of the Sky
+25,Artifact,Necro Gloves
+26,Creature,Snow Fighter Elf of the Golden Palace
+27,Spell,Freeze
+28,Creature,Snow Monk Kraken
+29,Spell,Victory Freeze
+30,Enchantment,Firebreath
+31,Spell,Empyrean Oblivion Maelstrom
+32,Creature,Earth King Goblin
+33,Enchantment,Firebreath
+34,Creature,Warlock
+35,Enchantment,Strength
+36,Enchantment,Solar Agony
+37,Enchantment,Age
+38,Creature,Spider
+39,Creature,Warlock
+40,Spell,Torment
+41,Spell,Sorrow
+42,Creature,Berserker
+43,Creature,Paladin
+44,Creature,Aura Nameless Phoenix of the Light

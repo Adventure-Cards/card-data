@@ -1,46 +1,46 @@
-==================,DECK,6817,Light
-0,Creature,Rare,Earth Merchant Hydra
-1,Spell,Common,Invisibility
-2,Artifact,Common,Bow
-3,Creature,Rare,Light Knight Fairy
-4,Spell,Common,Invisibility
-5,Creature,Rare,Death King Berserker
-6,Creature,Common,Spider
-7,Creature,Common,Warlock
-8,Spell,Rare,Gloom Vortex
-9,Spell,Common,Invisibility
-10,Spell,Legendary,Mighty Sorrow
-11,Creature,Rare,Death Assassin Berserker
-12,Creature,Common,Paladin
-13,Spell,Common,Revive
-14,Creature,Common,Goblin
-15,Creature,Mythic,Frozen Nameless Phoenix of the Void
-16,Creature,Common,Elf
-17,Artifact,Common,Amulet
-18,Spell,Common,Pandemonium
-19,Creature,Rare,Frozen Lord Hydra
-20,Spell,Rare,Lunar Burn
-21,Creature,Common,Elf
-22,Creature,Legendary,Snow Rogue Orge of the Low Hills
-23,Artifact,Common,Ghost Wand
-24,Creature,Common,Orc
-25,Spell,Legendary,Potent Revive
-26,Creature,Rare,Earth Merchant Skin-Walker
-27,Artifact,Common,Sigil
-28,Creature,Common,Paladin
-29,Creature,Mythic,Dark Nameless Dragon of Illusion
-30,Artifact,Common,Amulet
-31,Creature,Rare,Light Fighter Berserker
-32,Creature,Common,Magi
-33,Creature,Common,Eagle
-34,Creature,Rare,Dark Fighter Griffin
-35,Creature,Common,Dwarf
-36,Spell,Common,Revive
-37,Spell,Common,Hypnosis
-38,Enchantment,Mythic,Dire Shade
-39,Creature,Rare,Death Monk Minotaur
-40,Creature,Common,Magi
-41,Creature,Common,Eagle
-42,Creature,Mythic,Frozen Ancient Wizard of the Void
-43,Creature,Common,Dwarf
-44,Enchantment,Rare,Dark Lethargy
+==================,DECK,6817
+0,Creature,Earth Merchant Hydra
+1,Spell,Gravitation
+2,Artifact,Bow
+3,Creature,Light Knight Kraken
+4,Spell,Stun
+5,Creature,Death King Goblin
+6,Creature,Paladin
+7,Creature,Berserker
+8,Spell,Cataclysmic Burst
+9,Spell,Pandemonium
+10,Spell,Zealous Lunar Fireball
+11,Creature,Death Assassin Goblin
+12,Creature,Troll
+13,Spell,Burst
+14,Creature,Skin-Walker
+15,Creature,Frozen Nameless Phoenix of the Void
+16,Creature,Warlock
+17,Artifact,Amulet
+18,Spell,Tempest
+19,Creature,Frozen Lord Hydra
+20,Spell,Sorrow Stun
+21,Creature,Warlock
+22,Creature,Snow Rogue Elf of the Low Hills
+23,Artifact,Ghost Wand
+24,Creature,Spider
+25,Spell,Irate Frigid Torment
+26,Creature,Earth Merchant Orc
+27,Artifact,Sigil
+28,Creature,Troll
+29,Creature,Dark Nameless Dragon of Illusion
+30,Artifact,Amulet
+31,Creature,Light Fighter Goblin
+32,Creature,Fairy
+33,Creature,Eagle
+34,Creature,Dark Fighter Griffin
+35,Creature,Magi
+36,Spell,Stricken
+37,Spell,Vortex
+38,Enchantment,Dire Frigid Shade
+39,Creature,Death Monk Cyclops
+40,Creature,Fairy
+41,Creature,Eagle
+42,Creature,Frozen Ancient Wizard of the Void
+43,Creature,Magi
+44,Enchantment,Lunar Shield

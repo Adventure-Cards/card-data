@@ -1,46 +1,46 @@
-==================,DECK,5889,Light
-0,Spell,Common,Burn
-1,Creature,Common,Orc
-2,Enchantment,Common,Strength
-3,Artifact,Common,Ring
-4,Artifact,Legendary,Extreme Potion
-5,Artifact,Common,Scythe
-6,Creature,Rare,Dark Assassin Skin-Walker
-7,Creature,Rare,Snow Undead Minotaur
-8,Enchantment,Common,Shrink
-9,Artifact,Common,Staff
-10,Creature,Common,Goblin
-11,Creature,Rare,Aura Priest Berserker
-12,Enchantment,Mythic,Dire Shield
-13,Artifact,Rare,Miracle Ring
-14,Spell,Common,Invisibility
-15,Creature,Rare,Aura Rogue Hydra
-16,Spell,Common,Reanimate
-17,Creature,Common,Paladin
-18,Creature,Rare,Light Queen Berserker
-19,Creature,Common,Eagle
-20,Creature,Common,Warlock
-21,Creature,Common,Wolf
-22,Artifact,Rare,Hateful Staff
-23,Creature,Common,Warlock
-24,Artifact,Rare,Hateful Bracers
-25,Spell,Common,Sorrow
-26,Spell,Legendary,Intense Gale
-27,Enchantment,Common,Drain
-28,Creature,Common,Spider
-29,Creature,Common,Wolf
-30,Artifact,Rare,Grim Greaves
-31,Enchantment,Common,Blight
-32,Creature,Common,Spider
-33,Creature,Common,Wolf
-34,Spell,Common,Maelstrom
-35,Spell,Rare,Nature Burst
-36,Spell,Rare,Apocalypse Reanimate
-37,Creature,Common,Eagle
-38,Spell,Common,Gale
-39,Creature,Common,Paladin
-40,Creature,Legendary,Snow Fighter Cyclops of the Black Stone
-41,Creature,Rare,Frozen Queen Berserker
-42,Spell,Common,Ice
-43,Enchantment,Common,Lethargy
-44,Enchantment,Common,Agony
+==================,DECK,5889
+0,Spell,Hypnosis
+1,Creature,Spider
+2,Enchantment,Flight
+3,Artifact,Ring
+4,Artifact,Clever Chimeric Potion
+5,Artifact,Scythe
+6,Creature,Dark Assassin Orc
+7,Creature,Snow Undead Cyclops
+8,Enchantment,Agony
+9,Artifact,Staff
+10,Creature,Skin-Walker
+11,Creature,Aura Priest Goblin
+12,Enchantment,Dire Victory Shade
+13,Artifact,Frigid Ring
+14,Spell,Stricken
+15,Creature,Aura Rogue Hydra
+16,Spell,Frenzy
+17,Creature,Troll
+18,Creature,Light Queen Goblin
+19,Creature,Eagle
+20,Creature,Berserker
+21,Creature,Wolf
+22,Artifact,Sorrow Staff
+23,Creature,Berserker
+24,Artifact,Miracle Bracers
+25,Spell,Gale
+26,Spell,Empyrean Corpse Fireball
+27,Enchantment,Deathgrip
+28,Creature,Paladin
+29,Creature,Wolf
+30,Artifact,Nimble Greaves
+31,Enchantment,Lethargy
+32,Creature,Paladin
+33,Creature,Wolf
+34,Spell,Heal
+35,Spell,Necro Heal
+36,Spell,Life Fire
+37,Creature,Eagle
+38,Spell,Frost
+39,Creature,Troll
+40,Creature,Snow Fighter Giant of the Black Stone
+41,Creature,Frozen Queen Goblin
+42,Spell,Pandemonium
+43,Enchantment,Drain
+44,Enchantment,Deathgrip

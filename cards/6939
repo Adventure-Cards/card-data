@@ -1,46 +1,46 @@
-==================,DECK,6939,Light
-0,Creature,Legendary,Snow Assassin Giant of the Golden Palace
-1,Creature,Legendary,Aura Assassin Oni of the Bright Mountains
-2,Creature,Common,Eagle
-3,Creature,Common,Warlock
-4,Creature,Common,Ghoul
-5,Spell,Common,Wall
-6,Creature,Common,Goblin
-7,Enchantment,Legendary,Intense Shield
-8,Creature,Common,Warlock
-9,Creature,Mythic,Dark Time Phoenix of Illusion
-10,Creature,Common,Warlock
-11,Creature,Legendary,Death Monk Oni of the Border
-12,Creature,Rare,Aura Merchant Skin-Walker
-13,Creature,Common,Goblin
-14,Creature,Rare,Dark Merchant Griffin
-15,Creature,Rare,Snow Monk Minotaur
-16,Creature,Common,Orc
-17,Creature,Legendary,Light Priest Giant of the Golden Palace
-18,Creature,Common,Wolf
-19,Spell,Legendary,Instant Assault
-20,Creature,Common,Wolf
-21,Spell,Rare,Grim Revive
-22,Spell,Common,Pandemonium
-23,Creature,Common,Orc
-24,Enchantment,Common,Shield
-25,Creature,Rare,Frozen Rogue Berserker
-26,Creature,Rare,Death King Hydra
-27,Artifact,Common,Belt
-28,Creature,Rare,Snow Warrior Fairy
-29,Creature,Common,Elf
-30,Spell,Common,Sorrow
-31,Creature,Common,Dwarf
-32,Artifact,Common,Staff
-33,Artifact,Common,Staff
-34,Creature,Legendary,Aura Warrior Giant of the Eternal Land
-35,Enchantment,Common,Blight
-36,Spell,Common,Frenzy
-37,Creature,Common,Paladin
-38,Enchantment,Common,Strength
-39,Creature,Legendary,Dark Knight Kraken of the West
-40,Enchantment,Common,Agony
-41,Spell,Common,Lightning
-42,Creature,Rare,Death King Griffin
-43,Creature,Common,Spider
-44,Spell,Rare,Apocalypse Pandemonium
+==================,DECK,6939
+0,Creature,Snow Assassin Dwarf of the Golden Palace
+1,Creature,Aura Assassin Oni of the Bright Mountains
+2,Creature,Eagle
+3,Creature,Berserker
+4,Creature,Ghoul
+5,Spell,Burst
+6,Creature,Skin-Walker
+7,Enchantment,Dire Nature Age
+8,Creature,Berserker
+9,Creature,Dark Time Phoenix of Illusion
+10,Creature,Berserker
+11,Creature,Death Monk Oni of the Border
+12,Creature,Aura Merchant Orc
+13,Creature,Skin-Walker
+14,Creature,Dark Merchant Griffin
+15,Creature,Snow Monk Cyclops
+16,Creature,Spider
+17,Creature,Light Priest Dwarf of the Golden Palace
+18,Creature,Wolf
+19,Spell,Dire Shimmering Gravitation
+20,Creature,Wolf
+21,Spell,Frigid Tempest
+22,Spell,Assault
+23,Creature,Spider
+24,Enchantment,Strength
+25,Creature,Frozen Rogue Goblin
+26,Creature,Death King Hydra
+27,Artifact,Belt
+28,Creature,Snow Warrior Kraken
+29,Creature,Warlock
+30,Spell,Burn
+31,Creature,Magi
+32,Artifact,Staff
+33,Artifact,Staff
+34,Creature,Aura Warrior Dwarf of the Eternal Land
+35,Enchantment,Strength
+36,Spell,Wall
+37,Creature,Troll
+38,Enchantment,Shade
+39,Creature,Dark Knight Ogre of the West
+40,Enchantment,Lethargy
+41,Spell,Infuriate
+42,Creature,Death King Griffin
+43,Creature,Paladin
+44,Spell,Oblivion Tempest

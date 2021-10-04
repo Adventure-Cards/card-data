@@ -1,46 +1,46 @@
-==================,DECK,4198,Light
-0,Creature,Common,Orc
-1,Artifact,Common,Pendant
-2,Spell,Common,Infuriate
-3,Spell,Common,Infuriate
-4,Creature,Common,Spider
-5,Artifact,Rare,Shimmering Shield
-6,Creature,Common,Warlock
-7,Spell,Rare,Corpse Invisibility
-8,Creature,Common,Warlock
-9,Spell,Rare,Nimble Torment
-10,Enchantment,Mythic,Instant Age
-11,Creature,Common,Wolf
-12,Spell,Common,Gale
-13,Spell,Common,Ice
-14,Creature,Rare,Frozen Merchant Minotaur
-15,Creature,Rare,Snow Undead Fairy
-16,Enchantment,Common,Alacrity
-17,Creature,Rare,Light King Skin-Walker
-18,Creature,Rare,Earth Queen Skin-Walker
-19,Spell,Rare,Corpse Invisibility
-20,Spell,Common,Stricken
-21,Creature,Common,Wolf
-22,Creature,Common,Magi
-23,Artifact,Common,Helm
-24,Enchantment,Common,Age
-25,Creature,Legendary,Snow Undead Kraken of the Swamp
-26,Creature,Rare,Aura Monk Minotaur
-27,Spell,Rare,Cataclysmic Stricken
-28,Enchantment,Common,Alacrity
-29,Spell,Legendary,Mighty Maelstrom
-30,Enchantment,Common,Invert
-31,Spell,Common,Lightning
-32,Spell,Rare,Lunar Maelstrom
-33,Enchantment,Mythic,Dire Lethargy
-34,Enchantment,Common,Shade
-35,Creature,Rare,Earth Rogue Berserker
-36,Enchantment,Common,Invert
-37,Enchantment,Common,Shade
-38,Spell,Common,Wall
-39,Creature,Rare,Dark Queen Skin-Walker
-40,Artifact,Common,Potion
-41,Creature,Common,Warlock
-42,Spell,Common,Frenzy
-43,Creature,Common,Eagle
-44,Creature,Mythic,Frozen Time Phoenix of the Void
+==================,DECK,4198
+0,Creature,Spider
+1,Artifact,Pendant
+2,Spell,Lightning
+3,Spell,Invisibility
+4,Creature,Paladin
+5,Artifact,Nature Shield
+6,Creature,Berserker
+7,Spell,Corpse Reanimate
+8,Creature,Berserker
+9,Spell,Hateful Lightning
+10,Enchantment,Empyrean Nature Age
+11,Creature,Wolf
+12,Spell,Gravitation
+13,Spell,Torment
+14,Creature,Frozen Merchant Cyclops
+15,Creature,Snow Undead Kraken
+16,Enchantment,Agony
+17,Creature,Light King Orc
+18,Creature,Earth Queen Orc
+19,Spell,Hateful Assault
+20,Spell,Revive
+21,Creature,Wolf
+22,Creature,Fairy
+23,Artifact,Helm
+24,Enchantment,Blight
+25,Creature,Snow Undead Ogre of the Swamp
+26,Creature,Aura Monk Cyclops
+27,Spell,Lunar Gravitation
+28,Enchantment,Shrink
+29,Spell,Zealous Miracle Maelstrom
+30,Enchantment,Lethargy
+31,Spell,Tempest
+32,Spell,Chimeric Gravitation
+33,Enchantment,Dire Grim Shade
+34,Enchantment,Blight
+35,Creature,Earth Rogue Goblin
+36,Enchantment,Drain
+37,Enchantment,Firebreath
+38,Spell,Infuriate
+39,Creature,Dark Queen Orc
+40,Artifact,Potion
+41,Creature,Berserker
+42,Spell,Freeze
+43,Creature,Eagle
+44,Creature,Frozen Time Phoenix of the Void

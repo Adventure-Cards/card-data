@@ -1,46 +1,46 @@
-==================,DECK,6278,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Flight
-2,Artifact,Rare,Nimble Cloak
-3,Creature,Rare,Light King Griffin
-4,Creature,Common,Goblin
-5,Creature,Common,Dwarf
-6,Creature,Common,Paladin
-7,Creature,Common,Dwarf
-8,Creature,Rare,Frozen Queen Fairy
-9,Artifact,Common,Amulet
-10,Creature,Rare,Dark Lord Berserker
-11,Creature,Legendary,Snow Thief Orge of the Swamp
-12,Enchantment,Common,Invert
-13,Creature,Rare,Death Lord Minotaur
-14,Creature,Mythic,Frozen Time Phoenix of the Void
-15,Creature,Rare,Frozen Monk Berserker
-16,Creature,Common,Eagle
-17,Creature,Common,Dwarf
-18,Creature,Common,Warlock
-19,Creature,Common,Magi
-20,Enchantment,Common,Agony
-21,Creature,Legendary,Death Priest Giant of the Mountains
-22,Creature,Mythic,Dark Time Dragon of Illusion
-23,Creature,Rare,Earth Fighter Hydra
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Wolf
-26,Spell,Rare,Gloom Freeze
-27,Creature,Legendary,Frozen Priest Kraken of the Swamp
-28,Spell,Common,Heal
-29,Creature,Rare,Light Undead Griffin
-30,Enchantment,Common,Agony
-31,Creature,Common,Dwarf
-32,Creature,Rare,Dark Rogue Griffin
-33,Spell,Rare,Forged Vortex
-34,Artifact,Rare,Hateful Cloak
-35,Creature,Rare,Aura Assassin Fairy
-36,Artifact,Rare,Shimmering Bow
-37,Creature,Rare,Death Priest Fairy
-38,Spell,Common,Pandemonium
-39,Creature,Legendary,Earth Monk Cyclops of the Border
-40,Enchantment,Common,Drain
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Enchantment,Common,Agony
-44,Spell,Common,Stun
+==================,DECK,6278
+0,Creature,Magi
+1,Enchantment,Haste
+2,Artifact,Necro Cloak
+3,Creature,Light King Griffin
+4,Creature,Skin-Walker
+5,Creature,Magi
+6,Creature,Troll
+7,Creature,Magi
+8,Creature,Frozen Queen Kraken
+9,Artifact,Amulet
+10,Creature,Dark Lord Goblin
+11,Creature,Snow Thief Elf of the Swamp
+12,Enchantment,Shield
+13,Creature,Death Lord Cyclops
+14,Creature,Frozen Time Phoenix of the Void
+15,Creature,Frozen Monk Goblin
+16,Creature,Eagle
+17,Creature,Magi
+18,Creature,Berserker
+19,Creature,Fairy
+20,Enchantment,Flight
+21,Creature,Death Priest Dwarf of the Mountains
+22,Creature,Dark Time Dragon of Illusion
+23,Creature,Earth Fighter Hydra
+24,Enchantment,Shrink
+25,Creature,Wolf
+26,Spell,Gloom Revive
+27,Creature,Frozen Priest Ogre of the Swamp
+28,Spell,Gravitation
+29,Creature,Light Undead Griffin
+30,Enchantment,Blight
+31,Creature,Magi
+32,Creature,Dark Rogue Griffin
+33,Spell,Lunar Fireball
+34,Artifact,Cataclysmic Cloak
+35,Creature,Aura Assassin Kraken
+36,Artifact,Necro Bow
+37,Creature,Death Priest Kraken
+38,Spell,Fury
+39,Creature,Earth Monk Giant of the Border
+40,Enchantment,Strength
+41,Creature,Troll
+42,Creature,Paladin
+43,Enchantment,Alacrity
+44,Spell,Hypnosis

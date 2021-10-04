@@ -1,46 +1,46 @@
-==================,DECK,5296,Light
-0,Creature,Rare,Frozen Fighter Hydra
-1,Creature,Common,Goblin
-2,Creature,Common,Paladin
-3,Enchantment,Mythic,Dire Shield
-4,Spell,Common,Sorrow
-5,Spell,Rare,Apocalypse Gale
-6,Creature,Common,Dwarf
-7,Creature,Common,Warlock
-8,Spell,Rare,Miracle Sorrow
-9,Spell,Common,Gravitation
-10,Creature,Common,Dwarf
-11,Creature,Legendary,Dark Thief Kraken of the Polar Woods
-12,Creature,Rare,Earth Warrior Griffin
-13,Creature,Common,Ghoul
-14,Creature,Common,Orc
-15,Creature,Rare,Frozen Lord Hydra
-16,Creature,Common,Dwarf
-17,Creature,Common,Elf
-18,Spell,Legendary,Extreme Burst
-19,Creature,Common,Dwarf
-20,Creature,Rare,Light Lord Berserker
-21,Creature,Rare,Snow Fighter Skin-Walker
-22,Creature,Common,Dwarf
-23,Spell,Legendary,Intense Vortex
-24,Creature,Common,Magi
-25,Creature,Common,Magi
-26,Artifact,Common,Potion
-27,Artifact,Common,Scepter
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Deathgrip
-30,Artifact,Legendary,Clever Potion
-31,Enchantment,Common,Shade
-32,Spell,Common,Infuriate
-33,Enchantment,Common,Haste
-34,Creature,Rare,Frozen Queen Berserker
-35,Spell,Rare,Forged Assault
-36,Creature,Common,Ghoul
-37,Creature,Common,Wolf
-38,Spell,Common,Burn
-39,Spell,Common,Burst
-40,Artifact,Common,Divine Robe
-41,Enchantment,Common,Invert
-42,Artifact,Common,Divine Robe
-43,Artifact,Rare,Frigid Boots
-44,Artifact,Rare,Solar Ring
+==================,DECK,5296
+0,Creature,Frozen Fighter Hydra
+1,Creature,Skin-Walker
+2,Creature,Troll
+3,Enchantment,Urgent Victory Invert
+4,Spell,Fire
+5,Spell,Frigid Frost
+6,Creature,Magi
+7,Creature,Berserker
+8,Spell,Grim Pandemonium
+9,Spell,Wall
+10,Creature,Magi
+11,Creature,Dark Thief Ogre of the Polar Woods
+12,Creature,Earth Warrior Griffin
+13,Creature,Ghoul
+14,Creature,Spider
+15,Creature,Frozen Lord Hydra
+16,Creature,Magi
+17,Creature,Warlock
+18,Spell,Zealous Dark Pandemonium
+19,Creature,Magi
+20,Creature,Light Lord Goblin
+21,Creature,Snow Fighter Orc
+22,Creature,Magi
+23,Spell,Ardent Nature Sorrow
+24,Creature,Fairy
+25,Creature,Fairy
+26,Artifact,Potion
+27,Artifact,Scepter
+28,Creature,Magi
+29,Enchantment,Alacrity
+30,Artifact,Clever Victory Potion
+31,Enchantment,Age
+32,Spell,Stricken
+33,Enchantment,Age
+34,Creature,Frozen Queen Goblin
+35,Spell,Dark Burst
+36,Creature,Ghoul
+37,Creature,Wolf
+38,Spell,Freeze
+39,Spell,Rage
+40,Artifact,Divine Robe
+41,Enchantment,Haste
+42,Artifact,Divine Robe
+43,Artifact,Frigid Boots
+44,Artifact,Hateful Ring

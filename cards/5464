@@ -1,46 +1,46 @@
-==================,DECK,5464,Light
-0,Creature,Common,Dwarf
-1,Creature,Rare,Death Monk Minotaur
-2,Spell,Common,Lightning
-3,Enchantment,Common,Shield
-4,Artifact,Rare,Gloom Ring
-5,Artifact,Common,Helmet
-6,Spell,Common,Gravitation
-7,Spell,Rare,Cataclysmic Gale
-8,Spell,Common,Burn
-9,Creature,Common,Elf
-10,Artifact,Legendary,Clever Boots
-11,Enchantment,Common,Flight
-12,Spell,Common,Infuriate
-13,Creature,Common,Warlock
-14,Enchantment,Common,Strength
-15,Creature,Rare,Earth Merchant Fairy
-16,Creature,Common,Ghoul
-17,Creature,Common,Wolf
-18,Creature,Rare,Dark Monk Berserker
-19,Creature,Common,Paladin
-20,Enchantment,Common,Alacrity
-21,Creature,Rare,Snow Thief Skin-Walker
-22,Artifact,Common,Ghost Wand
-23,Creature,Common,Warlock
-24,Artifact,Rare,Shimmering Scythe
-25,Creature,Rare,Earth Undead Minotaur
-26,Creature,Common,Paladin
-27,Creature,Legendary,Aura King Kraken of the West
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Warlock
-30,Creature,Common,Eagle
-31,Spell,Common,Reanimate
-32,Enchantment,Common,Shrink
-33,Creature,Common,Eagle
-34,Enchantment,Common,Shade
-35,Spell,Common,Sorrow
-36,Creature,Common,Paladin
-37,Spell,Rare,Solar Assault
-38,Creature,Common,Magi
-39,Creature,Common,Elf
-40,Spell,Common,Invisibility
-41,Enchantment,Common,Deathgrip
-42,Spell,Rare,Dark Rage
-43,Spell,Rare,Lunar Stun
-44,Creature,Rare,Earth Assassin Hydra
+==================,DECK,5464
+0,Creature,Magi
+1,Creature,Death Monk Cyclops
+2,Spell,Tempest
+3,Enchantment,Drain
+4,Artifact,Sorrow Ring
+5,Artifact,Helmet
+6,Spell,Assault
+7,Spell,Dark Tempest
+8,Spell,Sorrow
+9,Creature,Warlock
+10,Artifact,Ardent Victory Boots
+11,Enchantment,Shade
+12,Spell,Reanimate
+13,Creature,Berserker
+14,Enchantment,Haste
+15,Creature,Earth Merchant Kraken
+16,Creature,Ghoul
+17,Creature,Wolf
+18,Creature,Dark Monk Goblin
+19,Creature,Troll
+20,Enchantment,Lethargy
+21,Creature,Snow Thief Orc
+22,Artifact,Ghost Wand
+23,Creature,Berserker
+24,Artifact,Necro Scythe
+25,Creature,Earth Undead Cyclops
+26,Creature,Troll
+27,Creature,Aura King Ogre of the West
+28,Enchantment,Haste
+29,Creature,Berserker
+30,Creature,Eagle
+31,Spell,Invisibility
+32,Enchantment,Age
+33,Creature,Eagle
+34,Enchantment,Deathgrip
+35,Spell,Fire
+36,Creature,Troll
+37,Spell,Nature Stricken
+38,Creature,Fairy
+39,Creature,Warlock
+40,Spell,Rage
+41,Enchantment,Alacrity
+42,Spell,Miracle Pandemonium
+43,Spell,Chimeric Frost
+44,Creature,Earth Assassin Hydra

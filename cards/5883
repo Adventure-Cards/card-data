@@ -1,46 +1,46 @@
-==================,DECK,5883,Light
-0,Creature,Common,Goblin
-1,Artifact,Common,Shield
-2,Creature,Common,Spider
-3,Enchantment,Common,Flight
-4,Spell,Legendary,Clever Invisibility
-5,Creature,Legendary,Dark Lord Giant of the West
-6,Spell,Common,Pandemonium
-7,Artifact,Legendary,Clever Crown
-8,Enchantment,Common,Shrink
-9,Spell,Common,Vortex
-10,Creature,Common,Elf
-11,Creature,Common,Dwarf
-12,Creature,Common,Paladin
-13,Enchantment,Common,Flight
-14,Creature,Common,Goblin
-15,Artifact,Common,Ring
-16,Enchantment,Common,Haste
-17,Artifact,Common,Ring
-18,Artifact,Common,Greaves
-19,Spell,Legendary,Urgent Rage
-20,Enchantment,Rare,Lunar Haste
-21,Artifact,Common,Boots
-22,Creature,Common,Dwarf
-23,Creature,Common,Dwarf
-24,Creature,Legendary,Snow Fighter Kraken of the Golden Palace
-25,Creature,Common,Spider
-26,Creature,Rare,Snow Knight Skin-Walker
-27,Artifact,Common,Helm
-28,Creature,Common,Elf
-29,Enchantment,Common,Blight
-30,Creature,Legendary,Death Merchant Orge of the Magical Forest
-31,Creature,Rare,Death Assassin Skin-Walker
-32,Creature,Legendary,Snow King Oni of the Swamp
-33,Creature,Rare,Snow Rogue Berserker
-34,Spell,Rare,Necro Hypnosis
-35,Enchantment,Common,Deathgrip
-36,Creature,Common,Elf
-37,Artifact,Rare,Nature Ghost Wand
-38,Spell,Rare,Dark Assault
-39,Creature,Common,Wolf
-40,Enchantment,Common,Deathgrip
-41,Creature,Common,Magi
-42,Creature,Common,Magi
-43,Creature,Legendary,Aura Priest Cyclops of the Haven
-44,Artifact,Legendary,Extreme Helm
+==================,DECK,5883
+0,Creature,Skin-Walker
+1,Artifact,Shield
+2,Creature,Paladin
+3,Enchantment,Flight
+4,Spell,Ardent Oblivion Ice
+5,Creature,Dark Lord Dwarf of the West
+6,Spell,Heal
+7,Artifact,Zealous Frigid Crown
+8,Enchantment,Strength
+9,Spell,Stun
+10,Creature,Warlock
+11,Creature,Magi
+12,Creature,Troll
+13,Enchantment,Lethargy
+14,Creature,Skin-Walker
+15,Artifact,Ring
+16,Enchantment,Invert
+17,Artifact,Ring
+18,Artifact,Greaves
+19,Spell,Irate Necro Ice
+20,Enchantment,Miracle Shield
+21,Artifact,Boots
+22,Creature,Magi
+23,Creature,Magi
+24,Creature,Snow Fighter Ogre of the Golden Palace
+25,Creature,Paladin
+26,Creature,Snow Knight Orc
+27,Artifact,Helm
+28,Creature,Warlock
+29,Enchantment,Alacrity
+30,Creature,Death Merchant Elf of the Magical Forest
+31,Creature,Death Assassin Orc
+32,Creature,Snow King Oni of the Swamp
+33,Creature,Snow Rogue Goblin
+34,Spell,Shimmering Vortex
+35,Enchantment,Flight
+36,Creature,Warlock
+37,Artifact,Nature Ghost Wand
+38,Spell,Dark Gravitation
+39,Creature,Wolf
+40,Enchantment,Strength
+41,Creature,Fairy
+42,Creature,Fairy
+43,Creature,Aura Priest Giant of the Haven
+44,Artifact,Dire Dark Helm

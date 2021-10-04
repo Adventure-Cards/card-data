@@ -1,46 +1,46 @@
-==================,DECK,5280,Medium
-0,Creature,Rare,Earth King Berserker
-1,Creature,Common,Ghoul
-2,Enchantment,Legendary,Mighty Deathgrip
-3,Creature,Legendary,Snow Monk Giant of the Mountains
-4,Spell,Common,Stricken
-5,Creature,Common,Goblin
-6,Spell,Legendary,Urgent Pandemonium
-7,Creature,Common,Goblin
-8,Enchantment,Rare,Hateful Age
-9,Spell,Common,Gravitation
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Dark Fighter Giant of the Magical Forest
-12,Enchantment,Rare,Solar Lethargy
-13,Creature,Common,Warlock
-14,Spell,Rare,Miracle Stun
-15,Spell,Mythic,Instant Assault
-16,Artifact,Rare,Oblivion Belt
-17,Artifact,Common,Sword
-18,Creature,Rare,Dark Lord Griffin
-19,Enchantment,Rare,Grim Shield
-20,Enchantment,Common,Agony
-21,Creature,Mythic,Dark Grand Wizard of Illusion
-22,Spell,Common,Burst
-23,Creature,Rare,Death Priest Minotaur
-24,Creature,Legendary,Snow Monk Oni of the Border
-25,Creature,Common,Orc
-26,Creature,Legendary,Aura Merchant Cyclops of the Haven
-27,Creature,Common,Warlock
-28,Creature,Rare,Light Knight Hydra
-29,Enchantment,Rare,Nimble Strength
-30,Spell,Rare,Cataclysmic Infuriate
-31,Enchantment,Common,Agony
-32,Enchantment,Mythic,Instant Shade
-33,Spell,Rare,Gloom Lightning
-34,Creature,Rare,Aura Priest Skin-Walker
-35,Enchantment,Common,Age
-36,Creature,Rare,Death Priest Skin-Walker
-37,Creature,Legendary,Light Priest Orge of the Plains
-38,Creature,Rare,Earth Queen Hydra
-39,Enchantment,Common,Lethargy
-40,Spell,Rare,Nature Ice
-41,Spell,Common,Sorrow
-42,Creature,Rare,Snow Priest Berserker
-43,Creature,Rare,Death Thief Skin-Walker
-44,Artifact,Common,Helmet
+==================,DECK,5280
+0,Creature,Earth King Goblin
+1,Creature,Ghoul
+2,Enchantment,Empyrean Sorrow Firebreath
+3,Creature,Snow Monk Dwarf of the Mountains
+4,Spell,Gale
+5,Creature,Skin-Walker
+6,Spell,Mighty Necro Gravitation
+7,Creature,Skin-Walker
+8,Enchantment,Gloom Alacrity
+9,Spell,Frenzy
+10,Creature,Ghoul
+11,Creature,Dark Fighter Dwarf of the Magical Forest
+12,Enchantment,Hateful Age
+13,Creature,Berserker
+14,Spell,Nimble Revive
+15,Spell,Dire Shimmering Stricken
+16,Artifact,Frigid Belt
+17,Artifact,Sword
+18,Creature,Dark Lord Griffin
+19,Enchantment,Victory Drain
+20,Enchantment,Agony
+21,Creature,Dark Grand Wizard of Illusion
+22,Spell,Tempest
+23,Creature,Death Priest Cyclops
+24,Creature,Snow Monk Oni of the Border
+25,Creature,Spider
+26,Creature,Aura Merchant Giant of the Haven
+27,Creature,Berserker
+28,Creature,Light Knight Hydra
+29,Enchantment,Solar Deathgrip
+30,Spell,Miracle Stun
+31,Enchantment,Agony
+32,Enchantment,Irate Necro Deathgrip
+33,Spell,Dark Vortex
+34,Creature,Aura Priest Orc
+35,Enchantment,Flight
+36,Creature,Death Priest Orc
+37,Creature,Light Priest Elf of the Plains
+38,Creature,Earth Queen Hydra
+39,Enchantment,Deathgrip
+40,Spell,Solar Assault
+41,Spell,Hypnosis
+42,Creature,Snow Priest Goblin
+43,Creature,Death Thief Orc
+44,Artifact,Helmet

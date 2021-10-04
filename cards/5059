@@ -1,46 +1,46 @@
-==================,DECK,5059,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Frost
-2,Enchantment,Mythic,Angry Alacrity
-3,Creature,Common,Spider
-4,Enchantment,Rare,Dark Shade
-5,Spell,Legendary,Angry Torment
-6,Artifact,Common,Tome
-7,Creature,Common,Spider
-8,Artifact,Common,Greaves
-9,Enchantment,Common,Deathgrip
-10,Enchantment,Rare,Frigid Lethargy
-11,Spell,Rare,Cataclysmic Maelstrom
-12,Artifact,Common,Gauntlet
-13,Creature,Common,Dwarf
-14,Creature,Common,Orc
-15,Artifact,Common,Belt
-16,Creature,Rare,Aura Fighter Minotaur
-17,Enchantment,Rare,Nature Deathgrip
-18,Creature,Common,Paladin
-19,Spell,Common,Rage
-20,Artifact,Common,Ghost Wand
-21,Creature,Mythic,Earth Nameless Dragon of the Shadows
-22,Artifact,Common,Cloak
-23,Spell,Rare,Gloom Torment
-24,Spell,Common,Freeze
-25,Creature,Common,Goblin
-26,Creature,Common,Eagle
-27,Creature,Legendary,Dark Queen Orge of the Haven
-28,Spell,Common,Sorrow
-29,Artifact,Common,Gloves
-30,Creature,Common,Magi
-31,Creature,Common,Ghoul
-32,Enchantment,Mythic,Extreme Shade
-33,Creature,Legendary,Earth Assassin Cyclops of the Mountains
-34,Creature,Common,Goblin
-35,Creature,Common,Paladin
-36,Creature,Common,Spider
-37,Spell,Common,Rage
-38,Artifact,Common,Potion
-39,Creature,Common,Wolf
-40,Creature,Legendary,Dark Priest Oni of the Bright Mountains
-41,Artifact,Rare,Shimmering Belt
-42,Creature,Common,Paladin
-43,Creature,Legendary,Frozen Undead Cyclops of the Frozen Castle
-44,Creature,Common,Paladin
+==================,DECK,5059
+0,Creature,Eagle
+1,Spell,Stun
+2,Enchantment,Urgent Dark Flight
+3,Creature,Paladin
+4,Enchantment,Chimeric Alacrity
+5,Spell,Ardent Sorrow Frost
+6,Artifact,Tome
+7,Creature,Paladin
+8,Artifact,Greaves
+9,Enchantment,Alacrity
+10,Enchantment,Grim Shade
+11,Spell,Lunar Burn
+12,Artifact,Gauntlet
+13,Creature,Magi
+14,Creature,Spider
+15,Artifact,Belt
+16,Creature,Aura Fighter Cyclops
+17,Enchantment,Shimmering Age
+18,Creature,Troll
+19,Spell,Invisibility
+20,Artifact,Ghost Wand
+21,Creature,Earth Nameless Dragon of the Shadows
+22,Artifact,Cloak
+23,Spell,Cataclysmic Revive
+24,Spell,Burst
+25,Creature,Skin-Walker
+26,Creature,Eagle
+27,Creature,Dark Queen Elf of the Haven
+28,Spell,Pandemonium
+29,Artifact,Gloves
+30,Creature,Fairy
+31,Creature,Ghoul
+32,Enchantment,Irate Chimeric Alacrity
+33,Creature,Earth Assassin Giant of the Mountains
+34,Creature,Skin-Walker
+35,Creature,Troll
+36,Creature,Paladin
+37,Spell,Invisibility
+38,Artifact,Potion
+39,Creature,Wolf
+40,Creature,Dark Priest Oni of the Bright Mountains
+41,Artifact,Forged Belt
+42,Creature,Troll
+43,Creature,Frozen Undead Giant of the Frozen Castle
+44,Creature,Troll

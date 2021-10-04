@@ -1,46 +1,46 @@
-==================,DECK,5527,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Rare,Frigid Agony
-2,Enchantment,Mythic,Urgent Flight
-3,Creature,Legendary,Snow Assassin Cyclops of the Frozen Castle
-4,Spell,Legendary,Potent Infuriate
-5,Enchantment,Legendary,Extreme Agony
-6,Enchantment,Common,Shield
-7,Creature,Common,Paladin
-8,Creature,Common,Magi
-9,Enchantment,Mythic,Extreme Blight
-10,Creature,Legendary,Frozen Knight Orge of the Border
-11,Creature,Rare,Death Queen Fairy
-12,Creature,Common,Spider
-13,Creature,Common,Spider
-14,Enchantment,Common,Shrink
-15,Enchantment,Rare,Corpse Shield
-16,Spell,Common,Invisibility
-17,Spell,Common,Gale
-18,Creature,Common,Eagle
-19,Creature,Common,Ghoul
-20,Spell,Common,Stun
-21,Creature,Rare,Earth Rogue Griffin
-22,Spell,Common,Gravitation
-23,Artifact,Common,Pendant
-24,Enchantment,Common,Haste
-25,Creature,Common,Wolf
-26,Enchantment,Common,Shade
-27,Creature,Common,Warlock
-28,Creature,Legendary,Snow Priest Cyclops of the Low Hills
-29,Spell,Common,Frost
-30,Artifact,Common,Bracers
-31,Creature,Rare,Frozen Assassin Minotaur
-32,Spell,Common,Sorrow
-33,Creature,Rare,Aura Warrior Minotaur
-34,Creature,Rare,Earth Rogue Fairy
-35,Enchantment,Mythic,Urgent Shield
-36,Enchantment,Common,Shade
-37,Enchantment,Rare,Forged Lethargy
-38,Creature,Common,Dwarf
-39,Creature,Legendary,Dark Lord Orge of the Haven
-40,Enchantment,Mythic,Extreme Blight
-41,Spell,Common,Vortex
-42,Creature,Mythic,Death Ancient Wizard of the Dead
-43,Spell,Rare,Solar Wall
-44,Creature,Common,Orc
+==================,DECK,5527
+0,Creature,Wolf
+1,Enchantment,Life Shade
+2,Enchantment,Empyrean Hateful Age
+3,Creature,Snow Assassin Giant of the Frozen Castle
+4,Spell,Mighty Nimble Frenzy
+5,Enchantment,Irate Miracle Alacrity
+6,Enchantment,Shield
+7,Creature,Troll
+8,Creature,Fairy
+9,Enchantment,Empyrean Cataclysmic Firebreath
+10,Creature,Frozen Knight Elf of the Border
+11,Creature,Death Queen Kraken
+12,Creature,Paladin
+13,Creature,Paladin
+14,Enchantment,Shield
+15,Enchantment,Nature Age
+16,Spell,Vortex
+17,Spell,Stun
+18,Creature,Eagle
+19,Creature,Ghoul
+20,Spell,Fireball
+21,Creature,Earth Rogue Griffin
+22,Spell,Vortex
+23,Artifact,Pendant
+24,Enchantment,Drain
+25,Creature,Wolf
+26,Enchantment,Invert
+27,Creature,Berserker
+28,Creature,Snow Priest Giant of the Low Hills
+29,Spell,Gravitation
+30,Artifact,Bracers
+31,Creature,Frozen Assassin Cyclops
+32,Spell,Infuriate
+33,Creature,Aura Warrior Cyclops
+34,Creature,Earth Rogue Kraken
+35,Enchantment,Dire Nature Age
+36,Enchantment,Age
+37,Enchantment,Lunar Firebreath
+38,Creature,Magi
+39,Creature,Dark Lord Elf of the Haven
+40,Enchantment,Potent Cataclysmic Shrink
+41,Spell,Lightning
+42,Creature,Death Ancient Wizard of the Dead
+43,Spell,Nature Sorrow
+44,Creature,Spider

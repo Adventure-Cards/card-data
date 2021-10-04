@@ -1,46 +1,46 @@
-==================,DECK,7860,Medium
-0,Creature,Rare,Death Queen Skin-Walker
-1,Creature,Common,Wolf
-2,Spell,Rare,Lunar Infuriate
-3,Enchantment,Common,Flight
-4,Creature,Common,Orc
-5,Spell,Common,Vortex
-6,Enchantment,Common,Lethargy
-7,Enchantment,Rare,Nimble Shield
-8,Enchantment,Common,Deathgrip
-9,Creature,Legendary,Earth Fighter Cyclops of the Frozen Castle
-10,Creature,Rare,Death Merchant Berserker
-11,Creature,Common,Dwarf
-12,Enchantment,Common,Alacrity
-13,Creature,Rare,Aura Monk Griffin
-14,Enchantment,Legendary,Intense Strength
-15,Creature,Rare,Aura Lord Skin-Walker
-16,Creature,Legendary,Earth Undead Oni of the Bright Mountains
-17,Creature,Rare,Dark Thief Minotaur
-18,Spell,Common,Frenzy
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Goblin
-21,Creature,Rare,Light Lord Fairy
-22,Spell,Legendary,Intense Invisibility
-23,Creature,Legendary,Frozen Fighter Kraken of the Plains
-24,Creature,Mythic,Aura Time Phoenix of the Light
-25,Spell,Common,Sorrow
-26,Creature,Common,Goblin
-27,Spell,Mythic,Intense Lightning
-28,Creature,Common,Ghoul
-29,Artifact,Rare,Dark Crown
-30,Creature,Common,Eagle
-31,Creature,Legendary,Snow Warrior Kraken of the Magical Forest
-32,Creature,Common,Wolf
-33,Creature,Rare,Snow Fighter Berserker
-34,Spell,Common,Stun
-35,Enchantment,Common,Invert
-36,Enchantment,Common,Alacrity
-37,Enchantment,Common,Agony
-38,Spell,Legendary,Extreme Invisibility
-39,Spell,Common,Sorrow
-40,Artifact,Common,Ring
-41,Creature,Rare,Frozen Knight Skin-Walker
-42,Enchantment,Rare,Hateful Haste
-43,Creature,Rare,Snow Assassin Hydra
-44,Enchantment,Mythic,Intense Age
+==================,DECK,7860
+0,Creature,Death Queen Orc
+1,Creature,Wolf
+2,Spell,Cataclysmic Fireball
+3,Enchantment,Strength
+4,Creature,Spider
+5,Spell,Ice
+6,Enchantment,Shade
+7,Enchantment,Nature Strength
+8,Enchantment,Invert
+9,Creature,Earth Fighter Giant of the Frozen Castle
+10,Creature,Death Merchant Goblin
+11,Creature,Magi
+12,Enchantment,Age
+13,Creature,Aura Monk Griffin
+14,Enchantment,Urgent Solar Agony
+15,Creature,Aura Lord Orc
+16,Creature,Earth Undead Oni of the Bright Mountains
+17,Creature,Dark Thief Cyclops
+18,Spell,Maelstrom
+19,Enchantment,Age
+20,Creature,Skin-Walker
+21,Creature,Light Lord Kraken
+22,Spell,Urgent Necro Rage
+23,Creature,Frozen Fighter Ogre of the Plains
+24,Creature,Aura Time Phoenix of the Light
+25,Spell,Heal
+26,Creature,Skin-Walker
+27,Spell,Ardent Corpse Fury
+28,Creature,Ghoul
+29,Artifact,Sorrow Crown
+30,Creature,Eagle
+31,Creature,Snow Warrior Ogre of the Magical Forest
+32,Creature,Wolf
+33,Creature,Snow Fighter Goblin
+34,Spell,Burst
+35,Enchantment,Lethargy
+36,Enchantment,Shield
+37,Enchantment,Blight
+38,Spell,Dire Sorrow Pandemonium
+39,Spell,Invisibility
+40,Artifact,Ring
+41,Creature,Frozen Knight Orc
+42,Enchantment,Miracle Alacrity
+43,Creature,Snow Assassin Hydra
+44,Enchantment,Empyrean Nature Age

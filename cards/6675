@@ -1,46 +1,46 @@
-==================,DECK,6675,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Orc
-2,Enchantment,Mythic,Potent Flight
-3,Creature,Common,Orc
-4,Spell,Mythic,Dire Frost
-5,Enchantment,Legendary,Mighty Blight
-6,Creature,Legendary,Snow Rogue Cyclops of the Haven
-7,Enchantment,Legendary,Potent Strength
-8,Spell,Rare,Cataclysmic Burn
-9,Creature,Common,Warlock
-10,Creature,Common,Wolf
-11,Spell,Common,Sorrow
-12,Creature,Legendary,Light King Cyclops of the Magical Forest
-13,Spell,Rare,Lunar Fury
-14,Enchantment,Common,Drain
-15,Creature,Common,Wolf
-16,Enchantment,Legendary,Mighty Shield
-17,Artifact,Common,Belt
-18,Spell,Common,Stun
-19,Enchantment,Rare,Forged Strength
-20,Enchantment,Legendary,Mighty Shade
-21,Creature,Common,Wolf
-22,Spell,Legendary,Angry Freeze
-23,Creature,Common,Wolf
-24,Artifact,Common,Scythe
-25,Artifact,Common,Staff
-26,Creature,Common,Warlock
-27,Enchantment,Common,Invert
-28,Spell,Rare,Nimble Heal
-29,Creature,Rare,Death Lord Minotaur
-30,Creature,Rare,Death Queen Fairy
-31,Creature,Common,Magi
-32,Spell,Rare,Frigid Heal
-33,Spell,Common,Frost
-34,Creature,Common,Paladin
-35,Enchantment,Rare,Cataclysmic Age
-36,Creature,Mythic,Aura Nameless Phoenix of the Light
-37,Enchantment,Common,Blight
-38,Enchantment,Common,Deathgrip
-39,Creature,Common,Ghoul
-40,Artifact,Common,Sword
-41,Creature,Common,Spider
-42,Spell,Common,Sorrow
-43,Creature,Common,Magi
-44,Enchantment,Legendary,Instant Strength
+==================,DECK,6675
+0,Creature,Eagle
+1,Creature,Spider
+2,Enchantment,Empyrean Grim Shade
+3,Creature,Spider
+4,Spell,Urgent Grim Stun
+5,Enchantment,Clever Cataclysmic Shield
+6,Creature,Snow Rogue Giant of the Haven
+7,Enchantment,Dire Nimble Shade
+8,Spell,Miracle Gale
+9,Creature,Berserker
+10,Creature,Wolf
+11,Spell,Heal
+12,Creature,Light King Giant of the Magical Forest
+13,Spell,Sorrow Heal
+14,Enchantment,Shield
+15,Creature,Wolf
+16,Enchantment,Ardent Gloom Shield
+17,Artifact,Belt
+18,Spell,Stun
+19,Enchantment,Cataclysmic Shield
+20,Enchantment,Urgent Chimeric Flight
+21,Creature,Wolf
+22,Spell,Instant Lunar Stun
+23,Creature,Wolf
+24,Artifact,Scythe
+25,Artifact,Staff
+26,Creature,Berserker
+27,Enchantment,Lethargy
+28,Spell,Necro Stricken
+29,Creature,Death Lord Cyclops
+30,Creature,Death Queen Kraken
+31,Creature,Fairy
+32,Spell,Nimble Hypnosis
+33,Spell,Infuriate
+34,Creature,Troll
+35,Enchantment,Gloom Firebreath
+36,Creature,Aura Nameless Phoenix of the Light
+37,Enchantment,Invert
+38,Enchantment,Age
+39,Creature,Ghoul
+40,Artifact,Sword
+41,Creature,Paladin
+42,Spell,Fireball
+43,Creature,Fairy
+44,Enchantment,Irate Solar Deathgrip

@@ -1,46 +1,46 @@
-==================,DECK,4797,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Dwarf
-2,Enchantment,Rare,Forged Lethargy
-3,Spell,Rare,Gloom Vortex
-4,Artifact,Common,Shield
-5,Enchantment,Legendary,Clever Lethargy
-6,Enchantment,Legendary,Dire Flight
-7,Artifact,Common,Sigil
-8,Spell,Rare,Shimmering Ice
-9,Spell,Common,Hypnosis
-10,Creature,Rare,Light Knight Berserker
-11,Artifact,Rare,Nature Sword
-12,Enchantment,Mythic,Urgent Blight
-13,Enchantment,Common,Shrink
-14,Spell,Common,Ice
-15,Creature,Common,Eagle
-16,Creature,Common,Spider
-17,Spell,Common,Stricken
-18,Enchantment,Mythic,Dire Shade
-19,Creature,Common,Goblin
-20,Creature,Common,Spider
-21,Creature,Common,Spider
-22,Spell,Rare,Gloom Invisibility
-23,Creature,Common,Elf
-24,Enchantment,Rare,Apocalypse Blight
-25,Enchantment,Rare,Oblivion Lethargy
-26,Creature,Common,Ghoul
-27,Creature,Common,Orc
-28,Artifact,Rare,Dark Helm
-29,Artifact,Common,Gloves
-30,Creature,Common,Orc
-31,Creature,Rare,Snow King Griffin
-32,Enchantment,Common,Invert
-33,Creature,Rare,Earth Thief Berserker
-34,Spell,Legendary,Dire Heal
-35,Creature,Common,Eagle
-36,Enchantment,Common,Deathgrip
-37,Spell,Common,Pandemonium
-38,Artifact,Common,Shield
-39,Creature,Rare,Frozen Merchant Skin-Walker
-40,Enchantment,Rare,Gloom Strength
-41,Creature,Common,Dwarf
-42,Artifact,Common,Shield
-43,Spell,Legendary,Extreme Wall
-44,Creature,Legendary,Light Queen Giant of the Haven
+==================,DECK,4797
+0,Creature,Wolf
+1,Creature,Magi
+2,Enchantment,Lunar Flight
+3,Spell,Dark Fire
+4,Artifact,Shield
+5,Enchantment,Instant Grim Drain
+6,Enchantment,Zealous Grim Blight
+7,Artifact,Sigil
+8,Spell,Necro Gravitation
+9,Spell,Infuriate
+10,Creature,Light Knight Goblin
+11,Artifact,Forged Sword
+12,Enchantment,Clever Solar Lethargy
+13,Enchantment,Alacrity
+14,Spell,Reanimate
+15,Creature,Eagle
+16,Creature,Paladin
+17,Spell,Fireball
+18,Enchantment,Instant Frigid Drain
+19,Creature,Skin-Walker
+20,Creature,Paladin
+21,Creature,Paladin
+22,Spell,Dark Gale
+23,Creature,Warlock
+24,Enchantment,Nimble Shade
+25,Enchantment,Grim Drain
+26,Creature,Ghoul
+27,Creature,Spider
+28,Artifact,Gloom Helm
+29,Artifact,Gloves
+30,Creature,Spider
+31,Creature,Snow King Griffin
+32,Enchantment,Lethargy
+33,Creature,Earth Thief Goblin
+34,Spell,Ardent Oblivion Fire
+35,Creature,Eagle
+36,Enchantment,Invert
+37,Spell,Invisibility
+38,Artifact,Shield
+39,Creature,Frozen Merchant Orc
+40,Enchantment,Cataclysmic Shrink
+41,Creature,Magi
+42,Artifact,Shield
+43,Spell,Irate Dark Reanimate
+44,Creature,Light Queen Dwarf of the Haven

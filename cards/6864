@@ -1,46 +1,46 @@
-==================,DECK,6864,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Warlock
-2,Creature,Common,Spider
-3,Spell,Common,Wall
-4,Creature,Common,Wolf
-5,Creature,Common,Wolf
-6,Creature,Rare,Earth Thief Hydra
-7,Artifact,Common,Staff
-8,Enchantment,Mythic,Urgent Shield
-9,Creature,Rare,Death Knight Minotaur
-10,Creature,Mythic,Dark Grand Wizard of Illusion
-11,Enchantment,Common,Agony
-12,Creature,Common,Spider
-13,Creature,Rare,Death Merchant Minotaur
-14,Creature,Common,Orc
-15,Spell,Common,Wall
-16,Spell,Common,Lightning
-17,Enchantment,Common,Flight
-18,Spell,Rare,Dark Frost
-19,Creature,Legendary,Dark Thief Cyclops of the Eastern Skies
-20,Creature,Common,Dwarf
-21,Creature,Common,Warlock
-22,Creature,Common,Magi
-23,Creature,Common,Goblin
-24,Creature,Common,Paladin
-25,Enchantment,Rare,Solar Shade
-26,Enchantment,Mythic,Potent Lethargy
-27,Creature,Common,Eagle
-28,Creature,Common,Spider
-29,Creature,Legendary,Snow Monk Orge of the Haven
-30,Enchantment,Common,Shade
-31,Creature,Common,Wolf
-32,Spell,Common,Ice
-33,Creature,Rare,Earth Fighter Skin-Walker
-34,Creature,Common,Paladin
-35,Creature,Common,Wolf
-36,Artifact,Rare,Shimmering Gauntlet
-37,Enchantment,Common,Blight
-38,Enchantment,Legendary,Clever Lethargy
-39,Enchantment,Common,Haste
-40,Enchantment,Common,Shield
-41,Creature,Common,Eagle
-42,Creature,Common,Magi
-43,Spell,Common,Freeze
-44,Creature,Common,Warlock
+==================,DECK,6864
+0,Creature,Skin-Walker
+1,Creature,Berserker
+2,Creature,Paladin
+3,Spell,Vortex
+4,Creature,Wolf
+5,Creature,Wolf
+6,Creature,Earth Thief Hydra
+7,Artifact,Staff
+8,Enchantment,Urgent Nature Agony
+9,Creature,Death Knight Cyclops
+10,Creature,Dark Grand Wizard of Illusion
+11,Enchantment,Invert
+12,Creature,Paladin
+13,Creature,Death Merchant Cyclops
+14,Creature,Spider
+15,Spell,Burst
+16,Spell,Gale
+17,Enchantment,Haste
+18,Spell,Dark Lightning
+19,Creature,Dark Thief Giant of the Eastern Skies
+20,Creature,Magi
+21,Creature,Berserker
+22,Creature,Fairy
+23,Creature,Skin-Walker
+24,Creature,Troll
+25,Enchantment,Necro Deathgrip
+26,Enchantment,Urgent Grim Invert
+27,Creature,Eagle
+28,Creature,Paladin
+29,Creature,Snow Monk Elf of the Haven
+30,Enchantment,Firebreath
+31,Creature,Wolf
+32,Spell,Freeze
+33,Creature,Earth Fighter Orc
+34,Creature,Troll
+35,Creature,Wolf
+36,Artifact,Shimmering Gauntlet
+37,Enchantment,Strength
+38,Enchantment,Urgent Grim Invert
+39,Enchantment,Age
+40,Enchantment,Agony
+41,Creature,Eagle
+42,Creature,Fairy
+43,Spell,Torment
+44,Creature,Berserker

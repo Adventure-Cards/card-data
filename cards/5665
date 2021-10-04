@@ -1,46 +1,46 @@
-==================,DECK,5665,Light
-0,Creature,Rare,Light Lord Hydra
-1,Creature,Common,Ghoul
-2,Spell,Common,Infuriate
-3,Creature,Mythic,Earth Grand Wizard of the Shadows
-4,Creature,Common,Eagle
-5,Creature,Common,Warlock
-6,Creature,Common,Spider
-7,Enchantment,Rare,Forged Strength
-8,Creature,Common,Eagle
-9,Artifact,Common,Scythe
-10,Spell,Common,Fury
-11,Enchantment,Common,Deathgrip
-12,Spell,Common,Hypnosis
-13,Spell,Common,Burst
-14,Creature,Legendary,Frozen Thief Kraken of the Magical Forest
-15,Artifact,Common,Scepter
-16,Creature,Common,Ghoul
-17,Spell,Common,Fury
-18,Enchantment,Common,Strength
-19,Creature,Legendary,Earth Priest Giant of the Frozen Castle
-20,Creature,Legendary,Earth Knight Cyclops of the Magical Forest
-21,Creature,Common,Elf
-22,Creature,Common,Magi
-23,Creature,Rare,Death Rogue Fairy
-24,Creature,Common,Goblin
-25,Artifact,Rare,Shimmering Belt
-26,Creature,Common,Dwarf
-27,Creature,Rare,Death Rogue Fairy
-28,Creature,Common,Orc
-29,Creature,Common,Magi
-30,Spell,Legendary,Potent Gravitation
-31,Spell,Common,Assault
-32,Creature,Rare,Dark Lord Hydra
-33,Spell,Rare,Nature Fury
-34,Artifact,Rare,Corpse Gloves
-35,Creature,Mythic,Snow Time Dragon of Hate
-36,Spell,Legendary,Mighty Reanimate
-37,Artifact,Rare,Dark Bracers
-38,Creature,Rare,Snow Fighter Fairy
-39,Artifact,Common,Sword
-40,Enchantment,Common,Drain
-41,Creature,Common,Magi
-42,Creature,Rare,Aura King Hydra
-43,Creature,Rare,Snow Fighter Minotaur
-44,Creature,Common,Goblin
+==================,DECK,5665
+0,Creature,Light Lord Hydra
+1,Creature,Ghoul
+2,Spell,Invisibility
+3,Creature,Earth Grand Wizard of the Shadows
+4,Creature,Eagle
+5,Creature,Berserker
+6,Creature,Paladin
+7,Enchantment,Cataclysmic Alacrity
+8,Creature,Eagle
+9,Artifact,Scythe
+10,Spell,Fireball
+11,Enchantment,Strength
+12,Spell,Tempest
+13,Spell,Stun
+14,Creature,Frozen Thief Ogre of the Magical Forest
+15,Artifact,Scepter
+16,Creature,Ghoul
+17,Spell,Tempest
+18,Enchantment,Shrink
+19,Creature,Earth Priest Dwarf of the Frozen Castle
+20,Creature,Earth Knight Giant of the Magical Forest
+21,Creature,Warlock
+22,Creature,Fairy
+23,Creature,Death Rogue Kraken
+24,Creature,Skin-Walker
+25,Artifact,Corpse Belt
+26,Creature,Magi
+27,Creature,Death Rogue Kraken
+28,Creature,Spider
+29,Creature,Fairy
+30,Spell,Irate Apocalypse Lightning
+31,Spell,Fire
+32,Creature,Dark Lord Hydra
+33,Spell,Corpse Invisibility
+34,Artifact,Shimmering Gloves
+35,Creature,Snow Time Dragon of Hate
+36,Spell,Potent Sorrow Tempest
+37,Artifact,Lunar Bracers
+38,Creature,Snow Fighter Kraken
+39,Artifact,Sword
+40,Enchantment,Flight
+41,Creature,Fairy
+42,Creature,Aura King Hydra
+43,Creature,Snow Fighter Cyclops
+44,Creature,Skin-Walker

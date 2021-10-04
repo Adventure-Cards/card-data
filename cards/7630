@@ -1,46 +1,46 @@
-==================,DECK,7630,Light
-0,Spell,Common,Gravitation
-1,Spell,Common,Fury
-2,Enchantment,Common,Alacrity
-3,Spell,Common,Ice
-4,Creature,Rare,Earth Undead Skin-Walker
-5,Spell,Common,Frenzy
-6,Enchantment,Common,Deathgrip
-7,Creature,Rare,Death Thief Minotaur
-8,Creature,Legendary,Aura King Oni of the Golden Palace
-9,Enchantment,Mythic,Mighty Strength
-10,Artifact,Rare,Shimmering Helm
-11,Enchantment,Mythic,Urgent Strength
-12,Creature,Legendary,Earth Knight Oni of the Bright Mountains
-13,Spell,Common,Heal
-14,Creature,Common,Warlock
-15,Creature,Common,Elf
-16,Creature,Common,Paladin
-17,Creature,Common,Paladin
-18,Enchantment,Rare,Cataclysmic Deathgrip
-19,Creature,Common,Ghoul
-20,Enchantment,Mythic,Extreme Agony
-21,Creature,Rare,Dark Warrior Griffin
-22,Spell,Common,Rage
-23,Creature,Common,Paladin
-24,Enchantment,Common,Shield
-25,Creature,Common,Dwarf
-26,Artifact,Rare,Hateful Helm
-27,Creature,Common,Goblin
-28,Enchantment,Legendary,Urgent Blight
-29,Spell,Common,Wall
-30,Creature,Common,Spider
-31,Artifact,Common,Gloves
-32,Artifact,Common,Boots
-33,Spell,Common,Hypnosis
-34,Enchantment,Rare,Nature Age
-35,Enchantment,Rare,Nimble Strength
-36,Enchantment,Common,Shrink
-37,Spell,Legendary,Urgent Pandemonium
-38,Enchantment,Common,Invert
-39,Creature,Common,Orc
-40,Spell,Common,Wall
-41,Creature,Common,Orc
-42,Enchantment,Common,Blight
-43,Creature,Common,Ghoul
-44,Artifact,Rare,Necro Greaves
+==================,DECK,7630
+0,Spell,Infuriate
+1,Spell,Sorrow
+2,Enchantment,Strength
+3,Spell,Ice
+4,Creature,Earth Undead Orc
+5,Spell,Gravitation
+6,Enchantment,Invert
+7,Creature,Death Thief Cyclops
+8,Creature,Aura King Oni of the Golden Palace
+9,Enchantment,Irate Cataclysmic Alacrity
+10,Artifact,Hateful Helm
+11,Enchantment,Urgent Solar Agony
+12,Creature,Earth Knight Oni of the Bright Mountains
+13,Spell,Maelstrom
+14,Creature,Berserker
+15,Creature,Warlock
+16,Creature,Troll
+17,Creature,Troll
+18,Enchantment,Sorrow Flight
+19,Creature,Ghoul
+20,Enchantment,Dire Miracle Firebreath
+21,Creature,Dark Warrior Griffin
+22,Spell,Gale
+23,Creature,Troll
+24,Enchantment,Shield
+25,Creature,Magi
+26,Artifact,Chimeric Helm
+27,Creature,Skin-Walker
+28,Enchantment,Potent Solar Strength
+29,Spell,Invisibility
+30,Creature,Paladin
+31,Artifact,Gloves
+32,Artifact,Boots
+33,Spell,Infuriate
+34,Enchantment,Nature Agony
+35,Enchantment,Solar Strength
+36,Enchantment,Firebreath
+37,Spell,Zealous Hateful Heal
+38,Enchantment,Firebreath
+39,Creature,Spider
+40,Spell,Stricken
+41,Creature,Spider
+42,Enchantment,Shield
+43,Creature,Ghoul
+44,Artifact,Solar Greaves

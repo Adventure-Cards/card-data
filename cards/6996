@@ -1,46 +1,46 @@
-==================,DECK,6996,Light
-0,Spell,Common,Frost
-1,Spell,Common,Fury
-2,Creature,Common,Eagle
-3,Creature,Common,Dwarf
-4,Creature,Legendary,Frozen Lord Cyclops of the Plains
-5,Spell,Common,Revive
-6,Artifact,Common,Gauntlet
-7,Spell,Common,Lightning
-8,Creature,Legendary,Frozen King Oni of the Frozen Castle
-9,Spell,Rare,Lunar Sorrow
-10,Creature,Common,Dwarf
-11,Spell,Rare,Hateful Fury
-12,Enchantment,Rare,Dark Alacrity
-13,Spell,Rare,Lunar Ice
-14,Enchantment,Common,Shield
-15,Enchantment,Common,Shade
-16,Enchantment,Rare,Miracle Haste
-17,Artifact,Common,Belt
-18,Creature,Mythic,Dark Undead Dragon of Illusion
-19,Enchantment,Common,Flight
-20,Enchantment,Common,Invert
-21,Enchantment,Common,Lethargy
-22,Enchantment,Rare,Nimble Shield
-23,Artifact,Legendary,Potent Gauntlet
-24,Creature,Mythic,Frozen Chaos Wizard of the Void
-25,Spell,Common,Burn
-26,Creature,Rare,Earth Priest Minotaur
-27,Creature,Rare,Frozen Assassin Fairy
-28,Creature,Common,Goblin
-29,Creature,Legendary,Earth Undead Kraken of the Polar Woods
-30,Spell,Common,Stricken
-31,Spell,Common,Fury
-32,Artifact,Common,Crown
-33,Spell,Common,Reanimate
-34,Creature,Legendary,Earth Assassin Cyclops of the Polar Woods
-35,Spell,Common,Wall
-36,Creature,Common,Magi
-37,Spell,Rare,Necro Maelstrom
-38,Enchantment,Common,Deathgrip
-39,Artifact,Common,Staff
-40,Artifact,Common,Divine Robe
-41,Creature,Common,Paladin
-42,Spell,Legendary,Angry Burst
-43,Creature,Common,Eagle
-44,Creature,Common,Eagle
+==================,DECK,6996
+0,Spell,Torment
+1,Spell,Frost
+2,Creature,Eagle
+3,Creature,Magi
+4,Creature,Frozen Lord Giant of the Plains
+5,Spell,Wall
+6,Artifact,Gauntlet
+7,Spell,Tempest
+8,Creature,Frozen King Oni of the Frozen Castle
+9,Spell,Chimeric Torment
+10,Creature,Magi
+11,Spell,Miracle Burn
+12,Enchantment,Dark Alacrity
+13,Spell,Gloom Rage
+14,Enchantment,Drain
+15,Enchantment,Agony
+16,Enchantment,Life Shade
+17,Artifact,Belt
+18,Creature,Dark Undead Dragon of Illusion
+19,Enchantment,Shade
+20,Enchantment,Blight
+21,Enchantment,Lethargy
+22,Enchantment,Nature Deathgrip
+23,Artifact,Clever Apocalypse Gauntlet
+24,Creature,Frozen Chaos Wizard of the Void
+25,Spell,Wall
+26,Creature,Earth Priest Cyclops
+27,Creature,Frozen Assassin Kraken
+28,Creature,Skin-Walker
+29,Creature,Earth Undead Ogre of the Polar Woods
+30,Spell,Tempest
+31,Spell,Hypnosis
+32,Artifact,Crown
+33,Spell,Fury
+34,Creature,Earth Assassin Giant of the Polar Woods
+35,Spell,Gale
+36,Creature,Fairy
+37,Spell,Nature Stricken
+38,Enchantment,Blight
+39,Artifact,Staff
+40,Artifact,Divine Robe
+41,Creature,Troll
+42,Spell,Zealous Gloom Pandemonium
+43,Creature,Eagle
+44,Creature,Eagle

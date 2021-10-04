@@ -1,46 +1,46 @@
-==================,DECK,5409,Light
-0,Enchantment,Common,Deathgrip
-1,Artifact,Common,Greaves
-2,Artifact,Common,Potion
-3,Creature,Common,Dwarf
-4,Creature,Rare,Death Queen Minotaur
-5,Enchantment,Common,Deathgrip
-6,Enchantment,Common,Alacrity
-7,Spell,Legendary,Mighty Frenzy
-8,Spell,Common,Frenzy
-9,Creature,Common,Magi
-10,Enchantment,Common,Flight
-11,Creature,Common,Magi
-12,Enchantment,Common,Drain
-13,Creature,Common,Dwarf
-14,Enchantment,Mythic,Intense Blight
-15,Creature,Mythic,Frozen Undead Phoenix of the Void
-16,Enchantment,Common,Age
-17,Spell,Rare,Nature Infuriate
-18,Creature,Common,Eagle
-19,Creature,Legendary,Frozen Rogue Cyclops of the Golden Palace
-20,Artifact,Common,Helmet
-21,Spell,Common,Burst
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Dark Merchant Kraken of the Golden Palace
-24,Creature,Common,Orc
-25,Creature,Common,Dwarf
-26,Artifact,Common,Staff
-27,Spell,Rare,Solar Lightning
-28,Artifact,Common,Bracers
-29,Creature,Common,Warlock
-30,Creature,Rare,Snow Knight Fairy
-31,Creature,Common,Elf
-32,Spell,Common,Vortex
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Haste
-35,Creature,Common,Magi
-36,Creature,Common,Elf
-37,Enchantment,Rare,Necro Deathgrip
-38,Enchantment,Common,Shrink
-39,Spell,Common,Invisibility
-40,Spell,Legendary,Clever Lightning
-41,Spell,Common,Sorrow
-42,Creature,Common,Eagle
-43,Enchantment,Common,Lethargy
-44,Creature,Common,Spider
+==================,DECK,5409
+0,Enchantment,Age
+1,Artifact,Greaves
+2,Artifact,Potion
+3,Creature,Magi
+4,Creature,Death Queen Cyclops
+5,Enchantment,Deathgrip
+6,Enchantment,Firebreath
+7,Spell,Irate Dark Maelstrom
+8,Spell,Stun
+9,Creature,Fairy
+10,Enchantment,Drain
+11,Creature,Fairy
+12,Enchantment,Flight
+13,Creature,Magi
+14,Enchantment,Empyrean Solar Age
+15,Creature,Frozen Undead Phoenix of the Void
+16,Enchantment,Alacrity
+17,Spell,Shimmering Stun
+18,Creature,Eagle
+19,Creature,Frozen Rogue Giant of the Golden Palace
+20,Artifact,Helmet
+21,Spell,Maelstrom
+22,Creature,Magi
+23,Creature,Dark Merchant Ogre of the Golden Palace
+24,Creature,Spider
+25,Creature,Magi
+26,Artifact,Staff
+27,Spell,Forged Gale
+28,Artifact,Bracers
+29,Creature,Berserker
+30,Creature,Snow Knight Kraken
+31,Creature,Warlock
+32,Spell,Lightning
+33,Creature,Magi
+34,Enchantment,Haste
+35,Creature,Fairy
+36,Creature,Warlock
+37,Enchantment,Shimmering Age
+38,Enchantment,Drain
+39,Spell,Reanimate
+40,Spell,Urgent Frigid Freeze
+41,Spell,Stricken
+42,Creature,Eagle
+43,Enchantment,Deathgrip
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,5226,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Lethargy
-2,Creature,Legendary,Aura Fighter Giant of the Golden Palace
-3,Spell,Common,Frenzy
-4,Spell,Legendary,Potent Vortex
-5,Enchantment,Rare,Nimble Strength
-6,Artifact,Rare,Solar Bracers
-7,Spell,Common,Gravitation
-8,Artifact,Rare,Forged Cloak
-9,Enchantment,Common,Invert
-10,Creature,Common,Spider
-11,Creature,Legendary,Dark Assassin Cyclops of the Bright Mountains
-12,Spell,Common,Torment
-13,Creature,Rare,Frozen Monk Skin-Walker
-14,Creature,Common,Eagle
-15,Creature,Common,Eagle
-16,Enchantment,Rare,Solar Invert
-17,Enchantment,Common,Lethargy
-18,Creature,Common,Elf
-19,Creature,Rare,Earth Undead Fairy
-20,Enchantment,Common,Haste
-21,Creature,Rare,Snow Lord Fairy
-22,Creature,Common,Warlock
-23,Enchantment,Common,Drain
-24,Creature,Common,Elf
-25,Creature,Rare,Aura Undead Skin-Walker
-26,Creature,Common,Elf
-27,Spell,Rare,Corpse Wall
-28,Creature,Common,Goblin
-29,Creature,Common,Elf
-30,Creature,Common,Paladin
-31,Creature,Common,Spider
-32,Creature,Common,Wolf
-33,Creature,Common,Wolf
-34,Spell,Rare,Miracle Infuriate
-35,Creature,Common,Warlock
-36,Spell,Common,Freeze
-37,Creature,Legendary,Earth Merchant Cyclops of the Haven
-38,Creature,Rare,Frozen Undead Hydra
-39,Creature,Common,Dwarf
-40,Creature,Common,Wolf
-41,Creature,Common,Warlock
-42,Creature,Rare,Dark Knight Berserker
-43,Artifact,Common,Helm
-44,Creature,Common,Dwarf
+==================,DECK,5226
+0,Creature,Berserker
+1,Enchantment,Firebreath
+2,Creature,Aura Fighter Dwarf of the Golden Palace
+3,Spell,Fury
+4,Spell,Instant Oblivion Gravitation
+5,Enchantment,Solar Lethargy
+6,Artifact,Solar Bracers
+7,Spell,Lightning
+8,Artifact,Lunar Cloak
+9,Enchantment,Shrink
+10,Creature,Paladin
+11,Creature,Dark Assassin Giant of the Bright Mountains
+12,Spell,Stricken
+13,Creature,Frozen Monk Orc
+14,Creature,Eagle
+15,Creature,Eagle
+16,Enchantment,Shimmering Deathgrip
+17,Enchantment,Deathgrip
+18,Creature,Warlock
+19,Creature,Earth Undead Kraken
+20,Enchantment,Firebreath
+21,Creature,Snow Lord Kraken
+22,Creature,Berserker
+23,Enchantment,Alacrity
+24,Creature,Warlock
+25,Creature,Aura Undead Orc
+26,Creature,Warlock
+27,Spell,Solar Ice
+28,Creature,Skin-Walker
+29,Creature,Warlock
+30,Creature,Troll
+31,Creature,Paladin
+32,Creature,Wolf
+33,Creature,Wolf
+34,Spell,Victory Maelstrom
+35,Creature,Berserker
+36,Spell,Assault
+37,Creature,Earth Merchant Giant of the Haven
+38,Creature,Frozen Undead Hydra
+39,Creature,Magi
+40,Creature,Wolf
+41,Creature,Berserker
+42,Creature,Dark Knight Goblin
+43,Artifact,Helm
+44,Creature,Magi

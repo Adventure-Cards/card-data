@@ -1,46 +1,46 @@
-==================,DECK,6980,Light
-0,Creature,Rare,Dark Rogue Fairy
-1,Creature,Common,Goblin
-2,Spell,Rare,Forged Invisibility
-3,Creature,Common,Paladin
-4,Creature,Common,Magi
-5,Spell,Common,Stun
-6,Enchantment,Common,Shade
-7,Creature,Legendary,Death Priest Giant of the Swamp
-8,Creature,Mythic,Death Chaos Wizard of the Dead
-9,Spell,Common,Fury
-10,Creature,Rare,Death Assassin Berserker
-11,Creature,Common,Paladin
-12,Enchantment,Legendary,Mighty Blight
-13,Creature,Rare,Snow Queen Minotaur
-14,Creature,Mythic,Snow Time Dragon of Hate
-15,Enchantment,Mythic,Angry Shade
-16,Spell,Common,Heal
-17,Creature,Common,Spider
-18,Spell,Common,Revive
-19,Spell,Legendary,Angry Invisibility
-20,Artifact,Common,Tome
-21,Artifact,Common,Ring
-22,Creature,Common,Goblin
-23,Spell,Legendary,Dire Gravitation
-24,Enchantment,Common,Blight
-25,Enchantment,Common,Blight
-26,Spell,Common,Maelstrom
-27,Creature,Rare,Light Monk Griffin
-28,Spell,Rare,Dark Heal
-29,Creature,Common,Eagle
-30,Creature,Legendary,Frozen Merchant Orge of the Border
-31,Creature,Mythic,Frozen Time Dragon of the Void
-32,Enchantment,Common,Agony
-33,Spell,Common,Reanimate
-34,Creature,Rare,Snow Assassin Hydra
-35,Creature,Common,Magi
-36,Creature,Mythic,Dark Time Dragon of Illusion
-37,Creature,Common,Dwarf
-38,Creature,Common,Paladin
-39,Creature,Common,Ghoul
-40,Enchantment,Rare,Gloom Strength
-41,Enchantment,Mythic,Mighty Invert
-42,Artifact,Common,Shield
-43,Enchantment,Common,Shade
-44,Creature,Common,Eagle
+==================,DECK,6980
+0,Creature,Dark Rogue Kraken
+1,Creature,Skin-Walker
+2,Spell,Lunar Sorrow
+3,Creature,Troll
+4,Creature,Fairy
+5,Spell,Vortex
+6,Enchantment,Drain
+7,Creature,Death Priest Dwarf of the Swamp
+8,Creature,Death Chaos Wizard of the Dead
+9,Spell,Infuriate
+10,Creature,Death Assassin Goblin
+11,Creature,Troll
+12,Enchantment,Zealous Cataclysmic Alacrity
+13,Creature,Snow Queen Cyclops
+14,Creature,Snow Time Dragon of Hate
+15,Enchantment,Instant Chimeric Shrink
+16,Spell,Frenzy
+17,Creature,Paladin
+18,Spell,Rage
+19,Spell,Irate Lunar Stricken
+20,Artifact,Tome
+21,Artifact,Ring
+22,Creature,Skin-Walker
+23,Spell,Urgent Victory Burn
+24,Enchantment,Lethargy
+25,Enchantment,Flight
+26,Spell,Frost
+27,Creature,Light Monk Griffin
+28,Spell,Sorrow Rage
+29,Creature,Eagle
+30,Creature,Frozen Merchant Elf of the Border
+31,Creature,Frozen Time Dragon of the Void
+32,Enchantment,Blight
+33,Spell,Revive
+34,Creature,Snow Assassin Hydra
+35,Creature,Fairy
+36,Creature,Dark Time Dragon of Illusion
+37,Creature,Magi
+38,Creature,Troll
+39,Creature,Ghoul
+40,Enchantment,Cataclysmic Flight
+41,Enchantment,Ardent Sorrow Shield
+42,Artifact,Shield
+43,Enchantment,Blight
+44,Creature,Eagle

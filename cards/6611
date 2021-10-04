@@ -1,46 +1,46 @@
-==================,DECK,6611,Medium
-0,Enchantment,Common,Invert
-1,Enchantment,Rare,Apocalypse Haste
-2,Creature,Rare,Snow Queen Minotaur
-3,Enchantment,Common,Alacrity
-4,Creature,Common,Spider
-5,Creature,Common,Dwarf
-6,Artifact,Common,Staff
-7,Creature,Mythic,Frozen Grand Demon of the Void
-8,Artifact,Common,Bracers
-9,Enchantment,Legendary,Intense Haste
-10,Creature,Mythic,Death Chaos Wizard of the Dead
-11,Creature,Common,Warlock
-12,Spell,Common,Frost
-13,Creature,Rare,Dark Thief Griffin
-14,Enchantment,Common,Lethargy
-15,Creature,Rare,Earth Rogue Berserker
-16,Spell,Common,Burst
-17,Creature,Common,Warlock
-18,Creature,Common,Spider
-19,Artifact,Common,Helm
-20,Creature,Rare,Snow Lord Fairy
-21,Creature,Rare,Death Rogue Minotaur
-22,Creature,Common,Ghoul
-23,Creature,Common,Ghoul
-24,Creature,Rare,Snow Undead Griffin
-25,Creature,Legendary,Aura Assassin Oni of the Eternal Land
-26,Artifact,Common,Divine Robe
-27,Creature,Common,Eagle
-28,Creature,Rare,Aura Merchant Berserker
-29,Enchantment,Mythic,Urgent Drain
-30,Creature,Common,Orc
-31,Creature,Legendary,Earth Assassin Kraken of the Haven
-32,Creature,Legendary,Aura Knight Giant of the Black Stone
-33,Spell,Common,Ice
-34,Spell,Common,Torment
-35,Creature,Rare,Aura Knight Hydra
-36,Spell,Rare,Life Maelstrom
-37,Creature,Common,Dwarf
-38,Spell,Common,Lightning
-39,Spell,Common,Reanimate
-40,Creature,Common,Wolf
-41,Creature,Common,Eagle
-42,Creature,Rare,Earth Rogue Minotaur
-43,Creature,Common,Dwarf
-44,Spell,Legendary,Dire Burn
+==================,DECK,6611
+0,Enchantment,Firebreath
+1,Enchantment,Life Haste
+2,Creature,Snow Queen Cyclops
+3,Enchantment,Blight
+4,Creature,Paladin
+5,Creature,Magi
+6,Artifact,Staff
+7,Creature,Frozen Grand Demon of the Void
+8,Artifact,Bracers
+9,Enchantment,Zealous Corpse Deathgrip
+10,Creature,Death Chaos Wizard of the Dead
+11,Creature,Berserker
+12,Spell,Assault
+13,Creature,Dark Thief Griffin
+14,Enchantment,Drain
+15,Creature,Earth Rogue Goblin
+16,Spell,Stun
+17,Creature,Berserker
+18,Creature,Paladin
+19,Artifact,Helm
+20,Creature,Snow Lord Kraken
+21,Creature,Death Rogue Cyclops
+22,Creature,Ghoul
+23,Creature,Ghoul
+24,Creature,Snow Undead Griffin
+25,Creature,Aura Assassin Oni of the Eternal Land
+26,Artifact,Divine Robe
+27,Creature,Eagle
+28,Creature,Aura Merchant Goblin
+29,Enchantment,Mighty Forged Agony
+30,Creature,Spider
+31,Creature,Earth Assassin Ogre of the Haven
+32,Creature,Aura Knight Dwarf of the Black Stone
+33,Spell,Freeze
+34,Spell,Fire
+35,Creature,Aura Knight Hydra
+36,Spell,Frigid Maelstrom
+37,Creature,Magi
+38,Spell,Fury
+39,Spell,Ice
+40,Creature,Wolf
+41,Creature,Eagle
+42,Creature,Earth Rogue Cyclops
+43,Creature,Magi
+44,Spell,Zealous Life Frenzy

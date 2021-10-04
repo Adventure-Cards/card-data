@@ -1,46 +1,46 @@
-==================,DECK,6200,Light
-0,Creature,Common,Elf
-1,Creature,Common,Elf
-2,Creature,Legendary,Earth Monk Cyclops of the Eastern Skies
-3,Artifact,Common,Sword
-4,Creature,Common,Magi
-5,Enchantment,Common,Shrink
-6,Creature,Common,Paladin
-7,Creature,Rare,Light Thief Skin-Walker
-8,Creature,Common,Orc
-9,Enchantment,Mythic,Clever Strength
-10,Enchantment,Common,Shield
-11,Creature,Common,Eagle
-12,Creature,Common,Magi
-13,Creature,Common,Orc
-14,Artifact,Common,Boots
-15,Creature,Common,Ghoul
-16,Creature,Legendary,Earth Rogue Orge of the Low Hills
-17,Spell,Common,Lightning
-18,Creature,Common,Warlock
-19,Creature,Common,Goblin
-20,Creature,Legendary,Frozen King Orge of the Mountains
-21,Enchantment,Common,Shield
-22,Enchantment,Legendary,Intense Lethargy
-23,Creature,Common,Elf
-24,Artifact,Rare,Grim Staff
-25,Creature,Common,Eagle
-26,Spell,Common,Stun
-27,Creature,Common,Spider
-28,Creature,Common,Dwarf
-29,Spell,Common,Frost
-30,Creature,Common,Orc
-31,Artifact,Common,Amulet
-32,Spell,Common,Burn
-33,Spell,Common,Frenzy
-34,Enchantment,Rare,Cataclysmic Haste
-35,Creature,Mythic,Death Chaos Demon of the Dead
-36,Creature,Common,Wolf
-37,Enchantment,Common,Blight
-38,Creature,Common,Wolf
-39,Creature,Common,Goblin
-40,Creature,Common,Paladin
-41,Creature,Common,Warlock
-42,Artifact,Common,Ring
-43,Spell,Common,Vortex
-44,Artifact,Common,Cloak
+==================,DECK,6200
+0,Creature,Warlock
+1,Creature,Warlock
+2,Creature,Earth Monk Giant of the Eastern Skies
+3,Artifact,Sword
+4,Creature,Fairy
+5,Enchantment,Alacrity
+6,Creature,Troll
+7,Creature,Light Thief Orc
+8,Creature,Spider
+9,Enchantment,Urgent Nimble Invert
+10,Enchantment,Shade
+11,Creature,Eagle
+12,Creature,Fairy
+13,Creature,Spider
+14,Artifact,Boots
+15,Creature,Ghoul
+16,Creature,Earth Rogue Elf of the Low Hills
+17,Spell,Maelstrom
+18,Creature,Berserker
+19,Creature,Skin-Walker
+20,Creature,Frozen King Elf of the Mountains
+21,Enchantment,Agony
+22,Enchantment,Urgent Hateful Agony
+23,Creature,Warlock
+24,Artifact,Grim Staff
+25,Creature,Eagle
+26,Spell,Frenzy
+27,Creature,Paladin
+28,Creature,Magi
+29,Spell,Fire
+30,Creature,Spider
+31,Artifact,Amulet
+32,Spell,Revive
+33,Spell,Frenzy
+34,Enchantment,Miracle Shield
+35,Creature,Death Chaos Demon of the Dead
+36,Creature,Wolf
+37,Enchantment,Lethargy
+38,Creature,Wolf
+39,Creature,Skin-Walker
+40,Creature,Troll
+41,Creature,Berserker
+42,Artifact,Ring
+43,Spell,Gale
+44,Artifact,Cloak

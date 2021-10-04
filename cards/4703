@@ -1,46 +1,46 @@
-==================,DECK,4703,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Strength
-2,Creature,Common,Dwarf
-3,Spell,Common,Stricken
-4,Creature,Rare,Snow Queen Berserker
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Ghoul
-7,Creature,Common,Orc
-8,Enchantment,Common,Invert
-9,Spell,Common,Pandemonium
-10,Artifact,Common,Crown
-11,Enchantment,Common,Age
-12,Enchantment,Common,Invert
-13,Creature,Common,Dwarf
-14,Artifact,Legendary,Intense Cloak
-15,Artifact,Common,Amulet
-16,Artifact,Rare,Frigid Potion
-17,Creature,Common,Paladin
-18,Spell,Common,Hypnosis
-19,Spell,Rare,Corpse Assault
-20,Creature,Common,Spider
-21,Creature,Common,Spider
-22,Creature,Common,Eagle
-23,Creature,Common,Eagle
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Alacrity
-26,Enchantment,Common,Shrink
-27,Enchantment,Common,Shade
-28,Enchantment,Mythic,Extreme Agony
-29,Creature,Common,Warlock
-30,Enchantment,Mythic,Potent Deathgrip
-31,Spell,Legendary,Intense Gravitation
-32,Artifact,Common,Shield
-33,Creature,Rare,Death King Fairy
-34,Creature,Rare,Dark Warrior Hydra
-35,Creature,Common,Wolf
-36,Creature,Common,Dwarf
-37,Creature,Mythic,Snow Chaos Wizard of Hate
-38,Creature,Common,Spider
-39,Creature,Common,Spider
-40,Enchantment,Common,Drain
-41,Creature,Rare,Aura Priest Hydra
-42,Spell,Common,Heal
-43,Enchantment,Common,Agony
-44,Artifact,Common,Bow
+==================,DECK,4703
+0,Creature,Warlock
+1,Enchantment,Shrink
+2,Creature,Magi
+3,Spell,Reanimate
+4,Creature,Snow Queen Goblin
+5,Enchantment,Invert
+6,Creature,Ghoul
+7,Creature,Spider
+8,Enchantment,Shade
+9,Spell,Frenzy
+10,Artifact,Crown
+11,Enchantment,Lethargy
+12,Enchantment,Age
+13,Creature,Magi
+14,Artifact,Ardent Forged Cloak
+15,Artifact,Amulet
+16,Artifact,Victory Potion
+17,Creature,Troll
+18,Spell,Lightning
+19,Spell,Necro Revive
+20,Creature,Paladin
+21,Creature,Paladin
+22,Creature,Eagle
+23,Creature,Eagle
+24,Creature,Magi
+25,Enchantment,Shade
+26,Enchantment,Shield
+27,Enchantment,Haste
+28,Enchantment,Irate Miracle Alacrity
+29,Creature,Berserker
+30,Enchantment,Clever Oblivion Haste
+31,Spell,Ardent Forged Ice
+32,Artifact,Shield
+33,Creature,Death King Kraken
+34,Creature,Dark Warrior Hydra
+35,Creature,Wolf
+36,Creature,Magi
+37,Creature,Snow Chaos Wizard of Hate
+38,Creature,Paladin
+39,Creature,Paladin
+40,Enchantment,Firebreath
+41,Creature,Aura Priest Hydra
+42,Spell,Fury
+43,Enchantment,Shield
+44,Artifact,Bow

@@ -1,46 +1,46 @@
-==================,DECK,6487,Medium
-0,Spell,Common,Gale
-1,Artifact,Common,Staff
-2,Creature,Common,Orc
-3,Creature,Common,Eagle
-4,Creature,Common,Wolf
-5,Artifact,Rare,Corpse Boots
-6,Creature,Legendary,Death Monk Oni of the Haven
-7,Spell,Common,Frost
-8,Artifact,Common,Pendant
-9,Spell,Rare,Solar Torment
-10,Enchantment,Common,Haste
-11,Creature,Common,Eagle
-12,Creature,Common,Goblin
-13,Enchantment,Rare,Gloom Invert
-14,Creature,Common,Goblin
-15,Creature,Common,Elf
-16,Creature,Common,Paladin
-17,Spell,Rare,Lunar Infuriate
-18,Creature,Common,Elf
-19,Creature,Common,Spider
-20,Spell,Rare,Oblivion Lightning
-21,Creature,Rare,Light Knight Minotaur
-22,Creature,Common,Spider
-23,Creature,Common,Spider
-24,Creature,Common,Eagle
-25,Creature,Common,Goblin
-26,Enchantment,Rare,Nimble Alacrity
-27,Spell,Common,Wall
-28,Creature,Common,Spider
-29,Spell,Mythic,Potent Pandemonium
-30,Creature,Rare,Snow King Minotaur
-31,Spell,Legendary,Extreme Stun
-32,Spell,Legendary,Intense Assault
-33,Enchantment,Legendary,Clever Agony
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Orc
-36,Enchantment,Common,Invert
-37,Enchantment,Common,Agony
-38,Creature,Common,Eagle
-39,Creature,Common,Orc
-40,Creature,Common,Magi
-41,Enchantment,Common,Shrink
-42,Creature,Common,Orc
-43,Creature,Common,Orc
-44,Creature,Common,Ghoul
+==================,DECK,6487
+0,Spell,Sorrow
+1,Artifact,Staff
+2,Creature,Spider
+3,Creature,Eagle
+4,Creature,Wolf
+5,Artifact,Shimmering Boots
+6,Creature,Death Monk Oni of the Haven
+7,Spell,Freeze
+8,Artifact,Pendant
+9,Spell,Forged Pandemonium
+10,Enchantment,Alacrity
+11,Creature,Eagle
+12,Creature,Skin-Walker
+13,Enchantment,Sorrow Shield
+14,Creature,Skin-Walker
+15,Creature,Warlock
+16,Creature,Troll
+17,Spell,Cataclysmic Pandemonium
+18,Creature,Warlock
+19,Creature,Paladin
+20,Spell,Life Assault
+21,Creature,Light Knight Cyclops
+22,Creature,Paladin
+23,Creature,Paladin
+24,Creature,Eagle
+25,Creature,Skin-Walker
+26,Enchantment,Forged Strength
+27,Spell,Lightning
+28,Creature,Paladin
+29,Spell,Mighty Grim Assault
+30,Creature,Snow King Cyclops
+31,Spell,Mighty Dark Tempest
+32,Spell,Dire Forged Torment
+33,Enchantment,Ardent Life Haste
+34,Enchantment,Blight
+35,Creature,Spider
+36,Enchantment,Alacrity
+37,Enchantment,Lethargy
+38,Creature,Eagle
+39,Creature,Spider
+40,Creature,Fairy
+41,Enchantment,Invert
+42,Creature,Spider
+43,Creature,Spider
+44,Creature,Ghoul

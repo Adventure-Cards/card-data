@@ -1,46 +1,46 @@
-==================,DECK,4346,Light
-0,Creature,Rare,Earth Undead Griffin
-1,Enchantment,Common,Blight
-2,Enchantment,Common,Blight
-3,Enchantment,Rare,Grim Invert
-4,Artifact,Common,Cloak
-5,Enchantment,Rare,Life Flight
-6,Creature,Common,Wolf
-7,Creature,Common,Wolf
-8,Creature,Common,Spider
-9,Creature,Legendary,Aura Undead Kraken of the Mountains
-10,Artifact,Common,Gauntlet
-11,Spell,Common,Ice
-12,Creature,Common,Wolf
-13,Creature,Legendary,Light Merchant Orge of the Magical Forest
-14,Enchantment,Common,Alacrity
-15,Creature,Rare,Death Merchant Fairy
-16,Enchantment,Common,Agony
-17,Enchantment,Common,Shrink
-18,Spell,Common,Invisibility
-19,Creature,Legendary,Frozen Priest Oni of the West
-20,Spell,Legendary,Angry Revive
-21,Enchantment,Common,Flight
-22,Creature,Common,Warlock
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Orc
-25,Enchantment,Mythic,Intense Lethargy
-26,Creature,Common,Elf
-27,Creature,Common,Elf
-28,Enchantment,Common,Shade
-29,Enchantment,Rare,Frigid Lethargy
-30,Artifact,Common,Ghost Wand
-31,Spell,Legendary,Extreme Reanimate
-32,Creature,Common,Magi
-33,Creature,Common,Dwarf
-34,Creature,Legendary,Frozen Warrior Oni of the Plains
-35,Spell,Rare,Forged Frost
-36,Artifact,Common,Sword
-37,Enchantment,Common,Shade
-38,Creature,Common,Magi
-39,Spell,Common,Frost
-40,Spell,Common,Fury
-41,Creature,Legendary,Frozen Fighter Cyclops of the Plains
-42,Creature,Common,Dwarf
-43,Creature,Rare,Light Knight Skin-Walker
-44,Enchantment,Common,Agony
+==================,DECK,4346
+0,Creature,Earth Undead Griffin
+1,Enchantment,Deathgrip
+2,Enchantment,Alacrity
+3,Enchantment,Oblivion Haste
+4,Artifact,Cloak
+5,Enchantment,Grim Blight
+6,Creature,Wolf
+7,Creature,Wolf
+8,Creature,Paladin
+9,Creature,Aura Undead Ogre of the Mountains
+10,Artifact,Gauntlet
+11,Spell,Stricken
+12,Creature,Wolf
+13,Creature,Light Merchant Elf of the Magical Forest
+14,Enchantment,Shield
+15,Creature,Death Merchant Kraken
+16,Enchantment,Flight
+17,Enchantment,Firebreath
+18,Spell,Stun
+19,Creature,Frozen Priest Oni of the West
+20,Spell,Ardent Dark Assault
+21,Enchantment,Strength
+22,Creature,Berserker
+23,Enchantment,Age
+24,Creature,Spider
+25,Enchantment,Dire Hateful Age
+26,Creature,Warlock
+27,Creature,Warlock
+28,Enchantment,Shade
+29,Enchantment,Grim Blight
+30,Artifact,Ghost Wand
+31,Spell,Potent Gloom Gravitation
+32,Creature,Fairy
+33,Creature,Magi
+34,Creature,Frozen Warrior Oni of the Plains
+35,Spell,Cataclysmic Fireball
+36,Artifact,Sword
+37,Enchantment,Firebreath
+38,Creature,Fairy
+39,Spell,Gravitation
+40,Spell,Tempest
+41,Creature,Frozen Fighter Giant of the Plains
+42,Creature,Magi
+43,Creature,Light Knight Orc
+44,Enchantment,Haste

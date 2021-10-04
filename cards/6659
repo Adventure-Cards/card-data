@@ -1,46 +1,46 @@
-==================,DECK,6659,Light
-0,Spell,Common,Invisibility
-1,Creature,Rare,Dark Priest Minotaur
-2,Enchantment,Common,Deathgrip
-3,Spell,Common,Stun
-4,Enchantment,Common,Lethargy
-5,Spell,Rare,Solar Torment
-6,Creature,Mythic,Earth Grand Demon of the Shadows
-7,Spell,Common,Sorrow
-8,Enchantment,Common,Drain
-9,Creature,Legendary,Light Fighter Orge of the Eastern Skies
-10,Artifact,Rare,Cataclysmic Greaves
-11,Artifact,Common,Boots
-12,Artifact,Rare,Forged Amulet
-13,Enchantment,Common,Blight
-14,Creature,Common,Spider
-15,Creature,Common,Orc
-16,Spell,Common,Burn
-17,Spell,Common,Sorrow
-18,Spell,Common,Invisibility
-19,Creature,Common,Ghoul
-20,Enchantment,Rare,Dark Shield
-21,Enchantment,Rare,Shimmering Deathgrip
-22,Creature,Common,Spider
-23,Enchantment,Mythic,Mighty Age
-24,Artifact,Legendary,Dire Cloak
-25,Creature,Rare,Snow Monk Hydra
-26,Creature,Legendary,Frozen Priest Giant of the Magical Forest
-27,Enchantment,Common,Drain
-28,Enchantment,Common,Age
-29,Creature,Common,Ghoul
-30,Creature,Common,Spider
-31,Creature,Common,Spider
-32,Spell,Common,Wall
-33,Creature,Common,Magi
-34,Enchantment,Rare,Solar Shield
-35,Creature,Legendary,Snow Assassin Orge of the Border
-36,Artifact,Common,Belt
-37,Enchantment,Common,Shield
-38,Artifact,Common,Cloak
-39,Spell,Rare,Apocalypse Ice
-40,Enchantment,Mythic,Mighty Shrink
-41,Creature,Mythic,Earth Grand Demon of the Shadows
-42,Creature,Rare,Aura Fighter Skin-Walker
-43,Enchantment,Common,Flight
-44,Creature,Common,Warlock
+==================,DECK,6659
+0,Spell,Lightning
+1,Creature,Dark Priest Cyclops
+2,Enchantment,Deathgrip
+3,Spell,Ice
+4,Enchantment,Blight
+5,Spell,Hateful Frost
+6,Creature,Earth Grand Demon of the Shadows
+7,Spell,Fire
+8,Enchantment,Alacrity
+9,Creature,Light Fighter Elf of the Eastern Skies
+10,Artifact,Dark Greaves
+11,Artifact,Boots
+12,Artifact,Miracle Amulet
+13,Enchantment,Shade
+14,Creature,Paladin
+15,Creature,Spider
+16,Spell,Revive
+17,Spell,Torment
+18,Spell,Freeze
+19,Creature,Ghoul
+20,Enchantment,Gloom Firebreath
+21,Enchantment,Shimmering Agony
+22,Creature,Paladin
+23,Enchantment,Clever Gloom Shield
+24,Artifact,Clever Victory Cloak
+25,Creature,Snow Monk Hydra
+26,Creature,Frozen Priest Dwarf of the Magical Forest
+27,Enchantment,Blight
+28,Enchantment,Firebreath
+29,Creature,Ghoul
+30,Creature,Paladin
+31,Creature,Paladin
+32,Spell,Vortex
+33,Creature,Fairy
+34,Enchantment,Nature Lethargy
+35,Creature,Snow Assassin Elf of the Border
+36,Artifact,Belt
+37,Enchantment,Blight
+38,Artifact,Cloak
+39,Spell,Grim Frost
+40,Enchantment,Clever Chimeric Shield
+41,Creature,Earth Grand Demon of the Shadows
+42,Creature,Aura Fighter Orc
+43,Enchantment,Drain
+44,Creature,Berserker

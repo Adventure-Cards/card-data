@@ -1,46 +1,46 @@
-==================,DECK,7969,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Orc
-2,Creature,Common,Orc
-3,Creature,Common,Dwarf
-4,Enchantment,Mythic,Intense Shield
-5,Artifact,Common,Staff
-6,Creature,Common,Goblin
-7,Spell,Common,Burst
-8,Creature,Legendary,Earth Rogue Orge of the Black Stone
-9,Creature,Common,Spider
-10,Creature,Common,Orc
-11,Enchantment,Common,Agony
-12,Creature,Mythic,Frozen Nameless Phoenix of the Void
-13,Enchantment,Common,Haste
-14,Creature,Common,Elf
-15,Creature,Common,Magi
-16,Spell,Common,Reanimate
-17,Spell,Common,Vortex
-18,Creature,Common,Dwarf
-19,Creature,Common,Spider
-20,Creature,Common,Dwarf
-21,Creature,Common,Warlock
-22,Artifact,Common,Bow
-23,Spell,Rare,Lunar Burst
-24,Spell,Common,Vortex
-25,Creature,Common,Paladin
-26,Spell,Rare,Nature Reanimate
-27,Spell,Common,Gale
-28,Enchantment,Common,Alacrity
-29,Artifact,Common,Sigil
-30,Spell,Common,Heal
-31,Creature,Common,Elf
-32,Artifact,Rare,Necro Helmet
-33,Spell,Common,Rage
-34,Creature,Common,Magi
-35,Spell,Common,Freeze
-36,Spell,Rare,Necro Burn
-37,Creature,Common,Elf
-38,Spell,Rare,Apocalypse Stun
-39,Spell,Legendary,Angry Lightning
-40,Artifact,Rare,Lunar Cloak
-41,Creature,Common,Eagle
-42,Artifact,Rare,Apocalypse Divine Robe
-43,Spell,Rare,Life Burst
-44,Creature,Rare,Earth Knight Griffin
+==================,DECK,7969
+0,Creature,Troll
+1,Creature,Spider
+2,Creature,Spider
+3,Creature,Magi
+4,Enchantment,Instant Nature Strength
+5,Artifact,Staff
+6,Creature,Skin-Walker
+7,Spell,Maelstrom
+8,Creature,Earth Rogue Elf of the Black Stone
+9,Creature,Paladin
+10,Creature,Spider
+11,Enchantment,Flight
+12,Creature,Frozen Nameless Phoenix of the Void
+13,Enchantment,Agony
+14,Creature,Warlock
+15,Creature,Fairy
+16,Spell,Stricken
+17,Spell,Burn
+18,Creature,Magi
+19,Creature,Paladin
+20,Creature,Magi
+21,Creature,Berserker
+22,Artifact,Bow
+23,Spell,Sorrow Vortex
+24,Spell,Maelstrom
+25,Creature,Troll
+26,Spell,Hateful Infuriate
+27,Spell,Burst
+28,Enchantment,Shield
+29,Artifact,Sigil
+30,Spell,Pandemonium
+31,Creature,Warlock
+32,Artifact,Nature Helmet
+33,Spell,Fury
+34,Creature,Fairy
+35,Spell,Pandemonium
+36,Spell,Solar Fireball
+37,Creature,Warlock
+38,Spell,Oblivion Maelstrom
+39,Spell,Dire Chimeric Torment
+40,Artifact,Gloom Cloak
+41,Creature,Eagle
+42,Artifact,Nimble Divine Robe
+43,Spell,Life Torment
+44,Creature,Earth Knight Griffin

@@ -1,46 +1,46 @@
-==================,DECK,4477,Medium
-0,Creature,Rare,Earth Undead Minotaur
-1,Spell,Common,Hypnosis
-2,Enchantment,Common,Age
-3,Creature,Rare,Light Assassin Berserker
-4,Creature,Common,Elf
-5,Spell,Common,Freeze
-6,Creature,Common,Magi
-7,Creature,Common,Magi
-8,Spell,Rare,Frigid Frenzy
-9,Creature,Mythic,Snow Undead Dragon of Hate
-10,Creature,Common,Wolf
-11,Spell,Common,Ice
-12,Creature,Common,Elf
-13,Creature,Common,Goblin
-14,Spell,Rare,Hateful Burst
-15,Creature,Rare,Death Rogue Fairy
-16,Enchantment,Mythic,Clever Strength
-17,Creature,Common,Wolf
-18,Creature,Common,Goblin
-19,Enchantment,Common,Shield
-20,Enchantment,Common,Blight
-21,Enchantment,Mythic,Intense Haste
-22,Enchantment,Common,Shield
-23,Enchantment,Common,Flight
-24,Creature,Legendary,Dark Monk Oni of the Haven
-25,Artifact,Rare,Gloom Bracers
-26,Creature,Rare,Aura Rogue Hydra
-27,Creature,Common,Wolf
-28,Creature,Common,Warlock
-29,Creature,Common,Ghoul
-30,Spell,Mythic,Intense Stun
-31,Spell,Rare,Lunar Sorrow
-32,Enchantment,Legendary,Urgent Shade
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Dwarf
-35,Creature,Mythic,Snow Undead Phoenix of Hate
-36,Spell,Common,Pandemonium
-37,Spell,Common,Stun
-38,Creature,Common,Orc
-39,Creature,Rare,Light Thief Fairy
-40,Creature,Rare,Light Warrior Berserker
-41,Creature,Rare,Aura Rogue Hydra
-42,Creature,Rare,Snow Lord Fairy
-43,Creature,Rare,Aura Queen Berserker
-44,Spell,Common,Hypnosis
+==================,DECK,4477
+0,Creature,Earth Undead Cyclops
+1,Spell,Gale
+2,Enchantment,Invert
+3,Creature,Light Assassin Goblin
+4,Creature,Warlock
+5,Spell,Freeze
+6,Creature,Fairy
+7,Creature,Fairy
+8,Spell,Frigid Invisibility
+9,Creature,Snow Undead Dragon of Hate
+10,Creature,Wolf
+11,Spell,Infuriate
+12,Creature,Warlock
+13,Creature,Skin-Walker
+14,Spell,Gloom Hypnosis
+15,Creature,Death Rogue Kraken
+16,Enchantment,Urgent Nimble Invert
+17,Creature,Wolf
+18,Creature,Skin-Walker
+19,Enchantment,Invert
+20,Enchantment,Shrink
+21,Enchantment,Clever Corpse Lethargy
+22,Enchantment,Shade
+23,Enchantment,Agony
+24,Creature,Dark Monk Oni of the Haven
+25,Artifact,Lunar Bracers
+26,Creature,Aura Rogue Hydra
+27,Creature,Wolf
+28,Creature,Berserker
+29,Creature,Ghoul
+30,Spell,Clever Corpse Fire
+31,Spell,Cataclysmic Revive
+32,Enchantment,Instant Necro Strength
+33,Enchantment,Firebreath
+34,Creature,Magi
+35,Creature,Snow Undead Phoenix of Hate
+36,Spell,Tempest
+37,Spell,Sorrow
+38,Creature,Spider
+39,Creature,Light Thief Kraken
+40,Creature,Light Warrior Goblin
+41,Creature,Aura Rogue Hydra
+42,Creature,Snow Lord Kraken
+43,Creature,Aura Queen Goblin
+44,Spell,Tempest

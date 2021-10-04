@@ -1,46 +1,46 @@
-==================,DECK,6709,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Goblin
-2,Enchantment,Common,Drain
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Grim Agony
-5,Creature,Rare,Snow King Skin-Walker
-6,Creature,Common,Paladin
-7,Enchantment,Mythic,Dire Strength
-8,Creature,Common,Ghoul
-9,Creature,Common,Spider
-10,Spell,Legendary,Urgent Sorrow
-11,Creature,Common,Magi
-12,Enchantment,Common,Shade
-13,Artifact,Common,Greaves
-14,Creature,Common,Goblin
-15,Creature,Common,Orc
-16,Spell,Rare,Miracle Ice
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Haste
-19,Creature,Common,Warlock
-20,Enchantment,Common,Blight
-21,Enchantment,Common,Drain
-22,Spell,Common,Gravitation
-23,Creature,Legendary,Frozen Fighter Giant of the Eastern Skies
-24,Creature,Common,Dwarf
-25,Creature,Common,Goblin
-26,Enchantment,Common,Shade
-27,Creature,Common,Wolf
-28,Artifact,Common,Divine Robe
-29,Enchantment,Common,Flight
-30,Artifact,Common,Bracers
-31,Artifact,Common,Sigil
-32,Enchantment,Common,Haste
-33,Enchantment,Common,Blight
-34,Creature,Mythic,Aura Time Phoenix of the Light
-35,Creature,Rare,Dark Undead Berserker
-36,Enchantment,Mythic,Angry Shrink
-37,Spell,Rare,Lunar Sorrow
-38,Creature,Common,Elf
-39,Creature,Rare,Light Lord Hydra
-40,Spell,Common,Heal
-41,Enchantment,Common,Flight
-42,Creature,Rare,Snow Undead Minotaur
-43,Spell,Common,Heal
-44,Spell,Rare,Cataclysmic Pandemonium
+==================,DECK,6709
+0,Creature,Skin-Walker
+1,Creature,Skin-Walker
+2,Enchantment,Shrink
+3,Creature,Wolf
+4,Enchantment,Life Haste
+5,Creature,Snow King Orc
+6,Creature,Troll
+7,Enchantment,Dire Nimble Shade
+8,Creature,Ghoul
+9,Creature,Paladin
+10,Spell,Zealous Nature Tempest
+11,Creature,Fairy
+12,Enchantment,Blight
+13,Artifact,Greaves
+14,Creature,Skin-Walker
+15,Creature,Spider
+16,Spell,Frigid Assault
+17,Enchantment,Agony
+18,Enchantment,Haste
+19,Creature,Berserker
+20,Enchantment,Haste
+21,Enchantment,Strength
+22,Spell,Lightning
+23,Creature,Frozen Fighter Dwarf of the Eastern Skies
+24,Creature,Magi
+25,Creature,Skin-Walker
+26,Enchantment,Age
+27,Creature,Wolf
+28,Artifact,Divine Robe
+29,Enchantment,Shade
+30,Artifact,Bracers
+31,Artifact,Sigil
+32,Enchantment,Agony
+33,Enchantment,Invert
+34,Creature,Aura Time Phoenix of the Light
+35,Creature,Dark Undead Goblin
+36,Enchantment,Clever Chimeric Shield
+37,Spell,Lunar Lightning
+38,Creature,Warlock
+39,Creature,Light Lord Hydra
+40,Spell,Invisibility
+41,Enchantment,Blight
+42,Creature,Snow Undead Cyclops
+43,Spell,Heal
+44,Spell,Sorrow Gravitation

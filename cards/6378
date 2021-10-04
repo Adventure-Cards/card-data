@@ -1,46 +1,46 @@
-==================,DECK,6378,Light
-0,Creature,Common,Dwarf
-1,Spell,Common,Stun
-2,Creature,Common,Magi
-3,Creature,Common,Spider
-4,Creature,Legendary,Earth Merchant Cyclops of the Polar Woods
-5,Spell,Legendary,Intense Frenzy
-6,Artifact,Rare,Nimble Greaves
-7,Creature,Common,Wolf
-8,Creature,Common,Magi
-9,Creature,Common,Dwarf
-10,Creature,Rare,Snow Rogue Hydra
-11,Creature,Rare,Dark Priest Berserker
-12,Spell,Common,Invisibility
-13,Enchantment,Common,Alacrity
-14,Spell,Legendary,Clever Vortex
-15,Enchantment,Rare,Gloom Shade
-16,Creature,Rare,Frozen Knight Minotaur
-17,Creature,Rare,Death Warrior Hydra
-18,Spell,Common,Frost
-19,Artifact,Common,Ghost Wand
-20,Creature,Common,Paladin
-21,Creature,Common,Dwarf
-22,Creature,Common,Spider
-23,Creature,Common,Wolf
-24,Creature,Mythic,Snow Time Dragon of Hate
-25,Creature,Legendary,Aura Warrior Orge of the Border
-26,Creature,Common,Elf
-27,Artifact,Common,Greaves
-28,Creature,Rare,Dark Thief Berserker
-29,Enchantment,Common,Drain
-30,Enchantment,Common,Strength
-31,Enchantment,Mythic,Dire Shield
-32,Spell,Common,Sorrow
-33,Enchantment,Common,Invert
-34,Spell,Rare,Miracle Maelstrom
-35,Creature,Common,Eagle
-36,Spell,Common,Infuriate
-37,Creature,Common,Spider
-38,Spell,Rare,Necro Fury
-39,Enchantment,Common,Haste
-40,Creature,Rare,Earth Warrior Fairy
-41,Enchantment,Rare,Nature Deathgrip
-42,Spell,Common,Burn
-43,Enchantment,Legendary,Mighty Alacrity
-44,Creature,Mythic,Frozen Grand Demon of the Void
+==================,DECK,6378
+0,Creature,Magi
+1,Spell,Assault
+2,Creature,Fairy
+3,Creature,Paladin
+4,Creature,Earth Merchant Giant of the Polar Woods
+5,Spell,Instant Forged Heal
+6,Artifact,Corpse Greaves
+7,Creature,Wolf
+8,Creature,Fairy
+9,Creature,Magi
+10,Creature,Snow Rogue Hydra
+11,Creature,Dark Priest Goblin
+12,Spell,Hypnosis
+13,Enchantment,Flight
+14,Spell,Urgent Grim Heal
+15,Enchantment,Chimeric Firebreath
+16,Creature,Frozen Knight Cyclops
+17,Creature,Death Warrior Hydra
+18,Spell,Freeze
+19,Artifact,Ghost Wand
+20,Creature,Troll
+21,Creature,Magi
+22,Creature,Paladin
+23,Creature,Wolf
+24,Creature,Snow Time Dragon of Hate
+25,Creature,Aura Warrior Elf of the Border
+26,Creature,Warlock
+27,Artifact,Greaves
+28,Creature,Dark Thief Goblin
+29,Enchantment,Lethargy
+30,Enchantment,Lethargy
+31,Enchantment,Urgent Victory Invert
+32,Spell,Gravitation
+33,Enchantment,Blight
+34,Spell,Oblivion Assault
+35,Creature,Eagle
+36,Spell,Burn
+37,Creature,Paladin
+38,Spell,Forged Torment
+39,Enchantment,Flight
+40,Creature,Earth Warrior Kraken
+41,Enchantment,Shimmering Lethargy
+42,Spell,Heal
+43,Enchantment,Instant Dark Shrink
+44,Creature,Frozen Grand Demon of the Void

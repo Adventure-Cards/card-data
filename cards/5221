@@ -1,46 +1,46 @@
-==================,DECK,5221,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Lethargy
-2,Creature,Rare,Dark Merchant Fairy
-3,Enchantment,Common,Alacrity
-4,Artifact,Rare,Nimble Bracers
-5,Creature,Mythic,Snow Chaos Demon of Hate
-6,Enchantment,Common,Shield
-7,Creature,Common,Magi
-8,Creature,Legendary,Light Knight Orge of the Haven
-9,Creature,Legendary,Aura Thief Kraken of the Golden Palace
-10,Creature,Common,Elf
-11,Spell,Rare,Frigid Gravitation
-12,Creature,Common,Warlock
-13,Creature,Common,Orc
-14,Enchantment,Common,Haste
-15,Enchantment,Common,Shrink
-16,Spell,Legendary,Instant Maelstrom
-17,Creature,Rare,Earth Undead Minotaur
-18,Enchantment,Common,Strength
-19,Creature,Common,Paladin
-20,Enchantment,Common,Invert
-21,Artifact,Rare,Nimble Helmet
-22,Enchantment,Common,Shade
-23,Creature,Rare,Light Undead Hydra
-24,Creature,Mythic,Snow Time Dragon of Hate
-25,Enchantment,Common,Agony
-26,Artifact,Rare,Grim Helmet
-27,Creature,Common,Dwarf
-28,Artifact,Rare,Forged Gauntlet
-29,Artifact,Common,Pendant
-30,Creature,Common,Paladin
-31,Spell,Common,Frenzy
-32,Spell,Legendary,Urgent Gale
-33,Creature,Rare,Frozen Fighter Hydra
-34,Creature,Rare,Light Fighter Minotaur
-35,Enchantment,Mythic,Mighty Alacrity
-36,Creature,Common,Eagle
-37,Spell,Common,Freeze
-38,Creature,Common,Warlock
-39,Enchantment,Common,Shrink
-40,Spell,Common,Heal
-41,Creature,Legendary,Death Assassin Kraken of the Swamp
-42,Spell,Legendary,Instant Wall
-43,Creature,Legendary,Aura Rogue Giant of the Frozen Castle
-44,Creature,Mythic,Death Chaos Wizard of the Dead
+==================,DECK,5221
+0,Creature,Magi
+1,Enchantment,Lethargy
+2,Creature,Dark Merchant Kraken
+3,Enchantment,Haste
+4,Artifact,Hateful Bracers
+5,Creature,Snow Chaos Demon of Hate
+6,Enchantment,Lethargy
+7,Creature,Fairy
+8,Creature,Light Knight Elf of the Haven
+9,Creature,Aura Thief Ogre of the Golden Palace
+10,Creature,Warlock
+11,Spell,Oblivion Gale
+12,Creature,Berserker
+13,Creature,Spider
+14,Enchantment,Shield
+15,Enchantment,Strength
+16,Spell,Mighty Nature Wall
+17,Creature,Earth Undead Cyclops
+18,Enchantment,Deathgrip
+19,Creature,Troll
+20,Enchantment,Shade
+21,Artifact,Nature Helmet
+22,Enchantment,Alacrity
+23,Creature,Light Undead Hydra
+24,Creature,Snow Time Dragon of Hate
+25,Enchantment,Invert
+26,Artifact,Victory Helmet
+27,Creature,Magi
+28,Artifact,Lunar Gauntlet
+29,Artifact,Pendant
+30,Creature,Troll
+31,Spell,Rage
+32,Spell,Mighty Hateful Sorrow
+33,Creature,Frozen Fighter Hydra
+34,Creature,Light Fighter Cyclops
+35,Enchantment,Irate Dark Alacrity
+36,Creature,Eagle
+37,Spell,Torment
+38,Creature,Berserker
+39,Enchantment,Lethargy
+40,Spell,Frenzy
+41,Creature,Death Assassin Ogre of the Swamp
+42,Spell,Irate Nature Burn
+43,Creature,Aura Rogue Dwarf of the Frozen Castle
+44,Creature,Death Chaos Wizard of the Dead

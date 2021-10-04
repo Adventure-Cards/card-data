@@ -1,46 +1,46 @@
-==================,DECK,5332,Medium
-0,Creature,Common,Warlock
-1,Creature,Common,Dwarf
-2,Creature,Common,Paladin
-3,Creature,Common,Eagle
-4,Creature,Common,Warlock
-5,Creature,Common,Magi
-6,Spell,Common,Maelstrom
-7,Enchantment,Common,Age
-8,Creature,Common,Elf
-9,Enchantment,Common,Strength
-10,Creature,Rare,Snow Warrior Griffin
-11,Creature,Common,Warlock
-12,Creature,Mythic,Frozen Undead Dragon of the Void
-13,Creature,Common,Dwarf
-14,Creature,Common,Paladin
-15,Spell,Common,Infuriate
-16,Spell,Legendary,Clever Gravitation
-17,Creature,Rare,Frozen Merchant Skin-Walker
-18,Creature,Common,Wolf
-19,Enchantment,Rare,Shimmering Blight
-20,Creature,Legendary,Earth Knight Cyclops of the Magical Forest
-21,Creature,Mythic,Aura Chaos Demon of the Light
-22,Artifact,Rare,Hateful Pendant
-23,Artifact,Common,Ring
-24,Creature,Common,Elf
-25,Creature,Rare,Dark Fighter Griffin
-26,Creature,Common,Wolf
-27,Spell,Common,Assault
-28,Spell,Common,Lightning
-29,Creature,Rare,Light King Griffin
-30,Enchantment,Mythic,Mighty Shield
-31,Spell,Legendary,Intense Assault
-32,Creature,Common,Goblin
-33,Creature,Legendary,Death Lord Kraken of the Magical Forest
-34,Enchantment,Common,Lethargy
-35,Spell,Common,Sorrow
-36,Spell,Common,Burn
-37,Artifact,Rare,Lunar Helm
-38,Creature,Legendary,Death Priest Oni of the Low Hills
-39,Artifact,Common,Ring
-40,Enchantment,Mythic,Dire Shrink
-41,Spell,Common,Hypnosis
-42,Enchantment,Rare,Nature Deathgrip
-43,Creature,Common,Paladin
-44,Artifact,Rare,Frigid Greaves
+==================,DECK,5332
+0,Creature,Berserker
+1,Creature,Magi
+2,Creature,Troll
+3,Creature,Eagle
+4,Creature,Berserker
+5,Creature,Fairy
+6,Spell,Fireball
+7,Enchantment,Deathgrip
+8,Creature,Warlock
+9,Enchantment,Deathgrip
+10,Creature,Snow Warrior Griffin
+11,Creature,Berserker
+12,Creature,Frozen Undead Dragon of the Void
+13,Creature,Magi
+14,Creature,Troll
+15,Spell,Reanimate
+16,Spell,Instant Grim Reanimate
+17,Creature,Frozen Merchant Orc
+18,Creature,Wolf
+19,Enchantment,Solar Agony
+20,Creature,Earth Knight Giant of the Magical Forest
+21,Creature,Aura Chaos Demon of the Light
+22,Artifact,Dark Pendant
+23,Artifact,Ring
+24,Creature,Warlock
+25,Creature,Dark Fighter Griffin
+26,Creature,Wolf
+27,Spell,Fire
+28,Spell,Heal
+29,Creature,Light King Griffin
+30,Enchantment,Urgent Gloom Flight
+31,Spell,Ardent Shimmering Torment
+32,Creature,Skin-Walker
+33,Creature,Death Lord Ogre of the Magical Forest
+34,Enchantment,Shield
+35,Spell,Gale
+36,Spell,Freeze
+37,Artifact,Sorrow Helm
+38,Creature,Death Priest Oni of the Low Hills
+39,Artifact,Ring
+40,Enchantment,Potent Frigid Drain
+41,Spell,Hypnosis
+42,Enchantment,Shimmering Lethargy
+43,Creature,Troll
+44,Artifact,Victory Greaves

@@ -1,46 +1,46 @@
-==================,DECK,7619,Medium
-0,Creature,Rare,Frozen Merchant Fairy
-1,Enchantment,Common,Shield
-2,Spell,Rare,Corpse Revive
-3,Artifact,Rare,Shimmering Boots
-4,Spell,Rare,Cataclysmic Stun
-5,Spell,Common,Burn
-6,Creature,Legendary,Aura Thief Kraken of the Eastern Skies
-7,Spell,Common,Infuriate
-8,Spell,Rare,Lunar Pandemonium
-9,Enchantment,Rare,Hateful Deathgrip
-10,Creature,Common,Goblin
-11,Creature,Common,Paladin
-12,Creature,Mythic,Light Grand Wizard of the Sky
-13,Creature,Common,Paladin
-14,Creature,Common,Goblin
-15,Enchantment,Common,Deathgrip
-16,Creature,Rare,Aura Knight Minotaur
-17,Spell,Common,Infuriate
-18,Creature,Rare,Snow Monk Skin-Walker
-19,Spell,Rare,Hateful Burn
-20,Enchantment,Rare,Life Flight
-21,Spell,Common,Heal
-22,Creature,Legendary,Death Assassin Giant of the Magical Forest
-23,Creature,Rare,Earth Assassin Skin-Walker
-24,Spell,Common,Gravitation
-25,Spell,Rare,Life Maelstrom
-26,Spell,Common,Frenzy
-27,Creature,Common,Goblin
-28,Enchantment,Common,Shield
-29,Spell,Rare,Grim Assault
-30,Enchantment,Common,Age
-31,Enchantment,Common,Shield
-32,Creature,Legendary,Snow Queen Giant of the Polar Woods
-33,Creature,Rare,Light Thief Minotaur
-34,Enchantment,Common,Flight
-35,Creature,Common,Ghoul
-36,Creature,Mythic,Aura Chaos Demon of the Light
-37,Spell,Common,Sorrow
-38,Artifact,Common,Sword
-39,Creature,Rare,Frozen Priest Hydra
-40,Creature,Rare,Death Undead Griffin
-41,Spell,Common,Assault
-42,Creature,Rare,Aura Rogue Hydra
-43,Creature,Common,Elf
-44,Spell,Common,Sorrow
+==================,DECK,7619
+0,Creature,Frozen Merchant Kraken
+1,Enchantment,Alacrity
+2,Spell,Corpse Lightning
+3,Artifact,Necro Boots
+4,Spell,Miracle Frenzy
+5,Spell,Heal
+6,Creature,Aura Thief Ogre of the Eastern Skies
+7,Spell,Wall
+8,Spell,Sorrow Rage
+9,Enchantment,Sorrow Shield
+10,Creature,Skin-Walker
+11,Creature,Troll
+12,Creature,Light Grand Wizard of the Sky
+13,Creature,Troll
+14,Creature,Skin-Walker
+15,Enchantment,Alacrity
+16,Creature,Aura Knight Cyclops
+17,Spell,Fire
+18,Creature,Snow Monk Orc
+19,Spell,Chimeric Frost
+20,Enchantment,Grim Invert
+21,Spell,Tempest
+22,Creature,Death Assassin Dwarf of the Magical Forest
+23,Creature,Earth Assassin Orc
+24,Spell,Sorrow
+25,Spell,Oblivion Assault
+26,Spell,Frost
+27,Creature,Skin-Walker
+28,Enchantment,Deathgrip
+29,Spell,Grim Reanimate
+30,Enchantment,Shade
+31,Enchantment,Shade
+32,Creature,Snow Queen Dwarf of the Polar Woods
+33,Creature,Light Thief Cyclops
+34,Enchantment,Agony
+35,Creature,Ghoul
+36,Creature,Aura Chaos Demon of the Light
+37,Spell,Fireball
+38,Artifact,Sword
+39,Creature,Frozen Priest Hydra
+40,Creature,Death Undead Griffin
+41,Spell,Ice
+42,Creature,Aura Rogue Hydra
+43,Creature,Warlock
+44,Spell,Maelstrom

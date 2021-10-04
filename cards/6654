@@ -1,46 +1,46 @@
-==================,DECK,6654,Light
-0,Spell,Common,Assault
-1,Spell,Legendary,Dire Vortex
-2,Spell,Rare,Hateful Burst
-3,Creature,Common,Elf
-4,Creature,Rare,Death King Skin-Walker
-5,Creature,Common,Warlock
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Warlock
-8,Enchantment,Common,Agony
-9,Creature,Rare,Aura King Fairy
-10,Creature,Legendary,Death Assassin Oni of the Golden Palace
-11,Spell,Rare,Grim Lightning
-12,Creature,Rare,Light Fighter Skin-Walker
-13,Artifact,Common,Divine Robe
-14,Creature,Common,Goblin
-15,Creature,Common,Spider
-16,Enchantment,Common,Strength
-17,Artifact,Common,Greaves
-18,Creature,Mythic,Death Chaos Wizard of the Dead
-19,Creature,Rare,Earth Queen Griffin
-20,Enchantment,Legendary,Mighty Alacrity
-21,Spell,Common,Burst
-22,Enchantment,Mythic,Clever Shade
-23,Creature,Rare,Earth Queen Berserker
-24,Spell,Common,Gravitation
-25,Artifact,Common,Gauntlet
-26,Enchantment,Common,Age
-27,Creature,Mythic,Earth Ancient Wizard of the Shadows
-28,Creature,Common,Dwarf
-29,Spell,Common,Torment
-30,Artifact,Rare,Necro Helmet
-31,Creature,Common,Paladin
-32,Artifact,Common,Shield
-33,Creature,Rare,Snow Thief Skin-Walker
-34,Creature,Common,Orc
-35,Creature,Common,Dwarf
-36,Creature,Common,Warlock
-37,Creature,Common,Paladin
-38,Creature,Common,Eagle
-39,Creature,Common,Ghoul
-40,Spell,Rare,Nimble Lightning
-41,Spell,Rare,Apocalypse Stricken
-42,Enchantment,Common,Shrink
-43,Creature,Common,Spider
-44,Enchantment,Rare,Cataclysmic Flight
+==================,DECK,6654
+0,Spell,Revive
+1,Spell,Instant Nimble Burst
+2,Spell,Miracle Fire
+3,Creature,Warlock
+4,Creature,Death King Orc
+5,Creature,Berserker
+6,Enchantment,Shade
+7,Creature,Berserker
+8,Enchantment,Shade
+9,Creature,Aura King Kraken
+10,Creature,Death Assassin Oni of the Golden Palace
+11,Spell,Life Fire
+12,Creature,Light Fighter Orc
+13,Artifact,Divine Robe
+14,Creature,Skin-Walker
+15,Creature,Paladin
+16,Enchantment,Alacrity
+17,Artifact,Greaves
+18,Creature,Death Chaos Wizard of the Dead
+19,Creature,Earth Queen Griffin
+20,Enchantment,Instant Dark Shrink
+21,Spell,Freeze
+22,Enchantment,Instant Frigid Drain
+23,Creature,Earth Queen Goblin
+24,Spell,Infuriate
+25,Artifact,Gauntlet
+26,Enchantment,Firebreath
+27,Creature,Earth Ancient Wizard of the Shadows
+28,Creature,Magi
+29,Spell,Frenzy
+30,Artifact,Necro Helmet
+31,Creature,Troll
+32,Artifact,Shield
+33,Creature,Snow Thief Orc
+34,Creature,Spider
+35,Creature,Magi
+36,Creature,Berserker
+37,Creature,Troll
+38,Creature,Eagle
+39,Creature,Ghoul
+40,Spell,Necro Vortex
+41,Spell,Grim Fireball
+42,Enchantment,Firebreath
+43,Creature,Paladin
+44,Enchantment,Lunar Shield

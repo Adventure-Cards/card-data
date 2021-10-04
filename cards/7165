@@ -1,46 +1,46 @@
-==================,DECK,7165,Light
-0,Spell,Common,Fury
-1,Creature,Common,Orc
-2,Creature,Common,Goblin
-3,Enchantment,Common,Blight
-4,Creature,Rare,Aura Lord Hydra
-5,Artifact,Common,Bow
-6,Creature,Rare,Death Merchant Skin-Walker
-7,Spell,Common,Lightning
-8,Creature,Common,Magi
-9,Creature,Common,Eagle
-10,Artifact,Common,Pendant
-11,Creature,Common,Ghoul
-12,Spell,Legendary,Urgent Ice
-13,Spell,Common,Reanimate
-14,Creature,Common,Warlock
-15,Creature,Legendary,Earth Queen Kraken of the Low Hills
-16,Creature,Common,Magi
-17,Creature,Common,Elf
-18,Creature,Rare,Death Fighter Fairy
-19,Creature,Common,Paladin
-20,Creature,Common,Wolf
-21,Enchantment,Common,Flight
-22,Creature,Common,Ghoul
-23,Creature,Mythic,Aura Time Phoenix of the Light
-24,Spell,Common,Hypnosis
-25,Creature,Common,Ghoul
-26,Creature,Rare,Snow Rogue Berserker
-27,Creature,Common,Paladin
-28,Artifact,Rare,Cataclysmic Gauntlet
-29,Artifact,Rare,Forged Shield
-30,Spell,Common,Ice
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Blight
-33,Spell,Rare,Necro Maelstrom
-34,Enchantment,Common,Blight
-35,Enchantment,Common,Invert
-36,Spell,Common,Torment
-37,Creature,Common,Magi
-38,Creature,Common,Warlock
-39,Creature,Common,Warlock
-40,Creature,Common,Orc
-41,Creature,Mythic,Dark Undead Phoenix of Illusion
-42,Enchantment,Common,Agony
-43,Spell,Common,Frenzy
-44,Creature,Rare,Death Lord Skin-Walker
+==================,DECK,7165
+0,Spell,Torment
+1,Creature,Spider
+2,Creature,Skin-Walker
+3,Enchantment,Drain
+4,Creature,Aura Lord Hydra
+5,Artifact,Bow
+6,Creature,Death Merchant Orc
+7,Spell,Infuriate
+8,Creature,Fairy
+9,Creature,Eagle
+10,Artifact,Pendant
+11,Creature,Ghoul
+12,Spell,Empyrean Nature Assault
+13,Spell,Burst
+14,Creature,Berserker
+15,Creature,Earth Queen Ogre of the Low Hills
+16,Creature,Fairy
+17,Creature,Warlock
+18,Creature,Death Fighter Kraken
+19,Creature,Troll
+20,Creature,Wolf
+21,Enchantment,Drain
+22,Creature,Ghoul
+23,Creature,Aura Time Phoenix of the Light
+24,Spell,Burn
+25,Creature,Ghoul
+26,Creature,Snow Rogue Goblin
+27,Creature,Troll
+28,Artifact,Miracle Gauntlet
+29,Artifact,Miracle Shield
+30,Spell,Torment
+31,Creature,Ghoul
+32,Enchantment,Haste
+33,Spell,Corpse Assault
+34,Enchantment,Drain
+35,Enchantment,Invert
+36,Spell,Gale
+37,Creature,Fairy
+38,Creature,Berserker
+39,Creature,Berserker
+40,Creature,Spider
+41,Creature,Dark Undead Phoenix of Illusion
+42,Enchantment,Alacrity
+43,Spell,Gravitation
+44,Creature,Death Lord Orc

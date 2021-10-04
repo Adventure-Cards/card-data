@@ -1,46 +1,46 @@
-==================,DECK,7205,Light
-0,Spell,Common,Burst
-1,Creature,Common,Wolf
-2,Spell,Common,Hypnosis
-3,Enchantment,Common,Flight
-4,Creature,Common,Eagle
-5,Creature,Common,Magi
-6,Creature,Common,Spider
-7,Creature,Rare,Death Merchant Griffin
-8,Creature,Rare,Death King Berserker
-9,Spell,Common,Ice
-10,Creature,Common,Eagle
-11,Enchantment,Rare,Necro Haste
-12,Enchantment,Common,Invert
-13,Creature,Common,Paladin
-14,Spell,Rare,Hateful Infuriate
-15,Enchantment,Common,Lethargy
-16,Enchantment,Common,Strength
-17,Enchantment,Rare,Life Drain
-18,Enchantment,Common,Agony
-19,Spell,Common,Frenzy
-20,Spell,Common,Wall
-21,Creature,Rare,Dark Warrior Berserker
-22,Creature,Common,Warlock
-23,Artifact,Common,Gauntlet
-24,Creature,Mythic,Snow Grand Wizard of Hate
-25,Spell,Common,Gale
-26,Creature,Common,Wolf
-27,Enchantment,Common,Strength
-28,Enchantment,Legendary,Clever Shrink
-29,Spell,Common,Lightning
-30,Enchantment,Mythic,Angry Lethargy
-31,Creature,Common,Spider
-32,Spell,Common,Gale
-33,Spell,Common,Burst
-34,Creature,Common,Spider
-35,Enchantment,Common,Shield
-36,Spell,Common,Pandemonium
-37,Creature,Rare,Death Knight Griffin
-38,Spell,Common,Fury
-39,Enchantment,Common,Age
-40,Creature,Common,Spider
-41,Enchantment,Rare,Nimble Invert
-42,Spell,Common,Vortex
-43,Artifact,Common,Gloves
-44,Creature,Rare,Snow Monk Skin-Walker
+==================,DECK,7205
+0,Spell,Infuriate
+1,Creature,Wolf
+2,Spell,Ice
+3,Enchantment,Firebreath
+4,Creature,Eagle
+5,Creature,Fairy
+6,Creature,Paladin
+7,Creature,Death Merchant Griffin
+8,Creature,Death King Goblin
+9,Spell,Pandemonium
+10,Creature,Eagle
+11,Enchantment,Corpse Strength
+12,Enchantment,Lethargy
+13,Creature,Troll
+14,Spell,Chimeric Infuriate
+15,Enchantment,Blight
+16,Enchantment,Deathgrip
+17,Enchantment,Apocalypse Blight
+18,Enchantment,Alacrity
+19,Spell,Frost
+20,Spell,Stun
+21,Creature,Dark Warrior Goblin
+22,Creature,Berserker
+23,Artifact,Gauntlet
+24,Creature,Snow Grand Wizard of Hate
+25,Spell,Assault
+26,Creature,Wolf
+27,Enchantment,Invert
+28,Enchantment,Clever Frigid Haste
+29,Spell,Wall
+30,Enchantment,Instant Lunar Shrink
+31,Creature,Paladin
+32,Spell,Rage
+33,Spell,Burn
+34,Creature,Paladin
+35,Enchantment,Drain
+36,Spell,Freeze
+37,Creature,Death Knight Griffin
+38,Spell,Sorrow
+39,Enchantment,Firebreath
+40,Creature,Paladin
+41,Enchantment,Shimmering Agony
+42,Spell,Fire
+43,Artifact,Gloves
+44,Creature,Snow Monk Orc

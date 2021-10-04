@@ -1,46 +1,46 @@
-==================,DECK,5521,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Paladin
-2,Artifact,Common,Ghost Wand
-3,Creature,Common,Wolf
-4,Creature,Rare,Death Warrior Hydra
-5,Creature,Rare,Aura Priest Skin-Walker
-6,Spell,Common,Reanimate
-7,Spell,Rare,Hateful Pandemonium
-8,Creature,Mythic,Dark Nameless Dragon of Illusion
-9,Creature,Rare,Frozen Priest Griffin
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Spell,Rare,Oblivion Rage
-13,Creature,Rare,Dark Merchant Berserker
-14,Creature,Rare,Dark Lord Fairy
-15,Enchantment,Rare,Nimble Alacrity
-16,Creature,Common,Wolf
-17,Creature,Common,Spider
-18,Creature,Common,Ghoul
-19,Creature,Legendary,Light Rogue Giant of the Haven
-20,Creature,Legendary,Snow Merchant Oni of the Eastern Skies
-21,Creature,Common,Eagle
-22,Creature,Common,Ghoul
-23,Artifact,Legendary,Mighty Greaves
-24,Creature,Rare,Aura Warrior Berserker
-25,Artifact,Common,Ring
-26,Creature,Common,Goblin
-27,Spell,Rare,Nimble Rage
-28,Creature,Common,Wolf
-29,Creature,Rare,Light Queen Berserker
-30,Creature,Rare,Aura Merchant Skin-Walker
-31,Spell,Common,Frost
-32,Creature,Common,Goblin
-33,Spell,Common,Ice
-34,Creature,Common,Wolf
-35,Creature,Common,Wolf
-36,Creature,Common,Wolf
-37,Spell,Rare,Nature Infuriate
-38,Creature,Legendary,Light Monk Cyclops of the Border
-39,Enchantment,Common,Lethargy
-40,Enchantment,Common,Drain
-41,Spell,Rare,Grim Rage
-42,Enchantment,Common,Shield
-43,Creature,Common,Orc
-44,Enchantment,Common,Alacrity
+==================,DECK,5521
+0,Creature,Skin-Walker
+1,Creature,Troll
+2,Artifact,Ghost Wand
+3,Creature,Wolf
+4,Creature,Death Warrior Hydra
+5,Creature,Aura Priest Orc
+6,Spell,Fireball
+7,Spell,Miracle Fury
+8,Creature,Dark Nameless Dragon of Illusion
+9,Creature,Frozen Priest Griffin
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Spell,Victory Hypnosis
+13,Creature,Dark Merchant Goblin
+14,Creature,Dark Lord Kraken
+15,Enchantment,Forged Strength
+16,Creature,Wolf
+17,Creature,Paladin
+18,Creature,Ghoul
+19,Creature,Light Rogue Dwarf of the Haven
+20,Creature,Snow Merchant Oni of the Eastern Skies
+21,Creature,Eagle
+22,Creature,Ghoul
+23,Artifact,Urgent Cataclysmic Greaves
+24,Creature,Aura Warrior Goblin
+25,Artifact,Ring
+26,Creature,Skin-Walker
+27,Spell,Shimmering Pandemonium
+28,Creature,Wolf
+29,Creature,Light Queen Goblin
+30,Creature,Aura Merchant Orc
+31,Spell,Frenzy
+32,Creature,Skin-Walker
+33,Spell,Revive
+34,Creature,Wolf
+35,Creature,Wolf
+36,Creature,Wolf
+37,Spell,Shimmering Maelstrom
+38,Creature,Light Monk Giant of the Border
+39,Enchantment,Agony
+40,Enchantment,Alacrity
+41,Spell,Oblivion Burn
+42,Enchantment,Alacrity
+43,Creature,Spider
+44,Enchantment,Haste

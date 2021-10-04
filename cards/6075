@@ -1,46 +1,46 @@
-==================,DECK,6075,Medium
-0,Spell,Common,Burst
-1,Enchantment,Common,Drain
-2,Creature,Mythic,Frozen Nameless Dragon of the Void
-3,Creature,Common,Orc
-4,Creature,Rare,Light Fighter Skin-Walker
-5,Artifact,Common,Bracers
-6,Artifact,Common,Helm
-7,Enchantment,Common,Shield
-8,Creature,Common,Paladin
-9,Creature,Legendary,Snow King Cyclops of the Plains
-10,Enchantment,Common,Drain
-11,Creature,Rare,Frozen Thief Berserker
-12,Creature,Rare,Frozen Assassin Minotaur
-13,Creature,Common,Dwarf
-14,Spell,Common,Pandemonium
-15,Spell,Rare,Shimmering Gale
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Warlock
-18,Spell,Rare,Necro Fury
-19,Creature,Common,Elf
-20,Creature,Common,Elf
-21,Enchantment,Common,Deathgrip
-22,Enchantment,Common,Shade
-23,Enchantment,Common,Shrink
-24,Creature,Common,Dwarf
-25,Creature,Common,Spider
-26,Artifact,Common,Belt
-27,Spell,Common,Frost
-28,Spell,Common,Stun
-29,Creature,Common,Eagle
-30,Creature,Rare,Snow Rogue Skin-Walker
-31,Enchantment,Rare,Dark Invert
-32,Spell,Common,Lightning
-33,Spell,Rare,Nimble Frost
-34,Creature,Common,Elf
-35,Creature,Common,Wolf
-36,Creature,Legendary,Aura Undead Kraken of the Mountains
-37,Creature,Common,Ghoul
-38,Creature,Mythic,Death Grand Wizard of the Dead
-39,Creature,Common,Goblin
-40,Spell,Common,Reanimate
-41,Enchantment,Rare,Frigid Lethargy
-42,Creature,Legendary,Light Fighter Oni of the Haven
-43,Enchantment,Common,Flight
-44,Creature,Common,Elf
+==================,DECK,6075
+0,Spell,Fury
+1,Enchantment,Alacrity
+2,Creature,Frozen Nameless Dragon of the Void
+3,Creature,Spider
+4,Creature,Light Fighter Orc
+5,Artifact,Bracers
+6,Artifact,Helm
+7,Enchantment,Age
+8,Creature,Troll
+9,Creature,Snow King Giant of the Plains
+10,Enchantment,Agony
+11,Creature,Frozen Thief Goblin
+12,Creature,Frozen Assassin Cyclops
+13,Creature,Magi
+14,Spell,Maelstrom
+15,Spell,Forged Sorrow
+16,Enchantment,Flight
+17,Creature,Berserker
+18,Spell,Solar Stun
+19,Creature,Warlock
+20,Creature,Warlock
+21,Enchantment,Age
+22,Enchantment,Shield
+23,Enchantment,Shade
+24,Creature,Magi
+25,Creature,Paladin
+26,Artifact,Belt
+27,Spell,Stricken
+28,Spell,Revive
+29,Creature,Eagle
+30,Creature,Snow Rogue Orc
+31,Enchantment,Sorrow Alacrity
+32,Spell,Assault
+33,Spell,Hateful Freeze
+34,Creature,Warlock
+35,Creature,Wolf
+36,Creature,Aura Undead Ogre of the Mountains
+37,Creature,Ghoul
+38,Creature,Death Grand Wizard of the Dead
+39,Creature,Skin-Walker
+40,Spell,Wall
+41,Enchantment,Grim Invert
+42,Creature,Light Fighter Oni of the Haven
+43,Enchantment,Flight
+44,Creature,Warlock

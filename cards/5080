@@ -1,46 +1,46 @@
-==================,DECK,5080,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Magi
-2,Creature,Rare,Frozen Fighter Griffin
-3,Creature,Mythic,Light Nameless Dragon of the Sky
-4,Enchantment,Rare,Solar Agony
-5,Creature,Common,Orc
-6,Enchantment,Common,Lethargy
-7,Artifact,Common,Ghost Wand
-8,Creature,Legendary,Earth Assassin Oni of the Eastern Skies
-9,Enchantment,Common,Shield
-10,Spell,Common,Frenzy
-11,Enchantment,Common,Strength
-12,Enchantment,Common,Drain
-13,Spell,Common,Ice
-14,Creature,Common,Paladin
-15,Creature,Common,Dwarf
-16,Enchantment,Common,Shade
-17,Enchantment,Common,Shield
-18,Artifact,Common,Gauntlet
-19,Creature,Rare,Frozen Knight Griffin
-20,Creature,Common,Ghoul
-21,Enchantment,Common,Blight
-22,Creature,Common,Paladin
-23,Creature,Common,Magi
-24,Spell,Common,Rage
-25,Creature,Common,Dwarf
-26,Creature,Common,Eagle
-27,Creature,Common,Ghoul
-28,Spell,Common,Vortex
-29,Creature,Legendary,Earth Fighter Orge of the Frozen Castle
-30,Creature,Rare,Death Lord Hydra
-31,Spell,Common,Invisibility
-32,Spell,Common,Frost
-33,Creature,Common,Dwarf
-34,Enchantment,Rare,Nature Deathgrip
-35,Spell,Common,Sorrow
-36,Enchantment,Common,Drain
-37,Spell,Common,Ice
-38,Creature,Common,Paladin
-39,Enchantment,Mythic,Angry Strength
-40,Enchantment,Common,Alacrity
-41,Spell,Common,Vortex
-42,Creature,Common,Dwarf
-43,Creature,Common,Wolf
-44,Creature,Common,Ghoul
+==================,DECK,5080
+0,Creature,Berserker
+1,Creature,Fairy
+2,Creature,Frozen Fighter Griffin
+3,Creature,Light Nameless Dragon of the Sky
+4,Enchantment,Corpse Lethargy
+5,Creature,Spider
+6,Enchantment,Age
+7,Artifact,Ghost Wand
+8,Creature,Earth Assassin Oni of the Eastern Skies
+9,Enchantment,Alacrity
+10,Spell,Pandemonium
+11,Enchantment,Firebreath
+12,Enchantment,Drain
+13,Spell,Hypnosis
+14,Creature,Troll
+15,Creature,Magi
+16,Enchantment,Shield
+17,Enchantment,Haste
+18,Artifact,Gauntlet
+19,Creature,Frozen Knight Griffin
+20,Creature,Ghoul
+21,Enchantment,Age
+22,Creature,Troll
+23,Creature,Fairy
+24,Spell,Frenzy
+25,Creature,Magi
+26,Creature,Eagle
+27,Creature,Ghoul
+28,Spell,Sorrow
+29,Creature,Earth Fighter Elf of the Frozen Castle
+30,Creature,Death Lord Hydra
+31,Spell,Stricken
+32,Spell,Gravitation
+33,Creature,Magi
+34,Enchantment,Shimmering Deathgrip
+35,Spell,Frost
+36,Enchantment,Drain
+37,Spell,Fury
+38,Creature,Troll
+39,Enchantment,Irate Cataclysmic Alacrity
+40,Enchantment,Shield
+41,Spell,Fireball
+42,Creature,Magi
+43,Creature,Wolf
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,6815,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Warlock
-2,Creature,Rare,Earth Priest Hydra
-3,Creature,Common,Magi
-4,Spell,Common,Pandemonium
-5,Creature,Common,Magi
-6,Creature,Common,Wolf
-7,Spell,Common,Infuriate
-8,Creature,Legendary,Earth Queen Cyclops of the West
-9,Enchantment,Mythic,Dire Lethargy
-10,Creature,Common,Ghoul
-11,Spell,Common,Pandemonium
-12,Spell,Common,Assault
-13,Enchantment,Common,Invert
-14,Creature,Legendary,Snow Monk Oni of the Bright Mountains
-15,Creature,Rare,Frozen Undead Minotaur
-16,Spell,Common,Fury
-17,Creature,Common,Spider
-18,Creature,Rare,Death King Hydra
-19,Creature,Legendary,Dark Merchant Giant of the Arctic Blizzards
-20,Spell,Common,Stricken
-21,Creature,Common,Spider
-22,Artifact,Rare,Solar Amulet
-23,Creature,Common,Paladin
-24,Spell,Rare,Oblivion Revive
-25,Artifact,Rare,Lunar Shield
-26,Creature,Rare,Death Rogue Skin-Walker
-27,Creature,Common,Warlock
-28,Creature,Rare,Aura Rogue Griffin
-29,Artifact,Common,Divine Robe
-30,Enchantment,Rare,Corpse Lethargy
-31,Spell,Common,Stricken
-32,Creature,Rare,Frozen Fighter Griffin
-33,Artifact,Rare,Life Scythe
-34,Creature,Common,Eagle
-35,Creature,Common,Orc
-36,Spell,Rare,Dark Torment
-37,Spell,Common,Heal
-38,Creature,Common,Magi
-39,Creature,Common,Orc
-40,Creature,Common,Orc
-41,Enchantment,Rare,Cataclysmic Blight
-42,Enchantment,Legendary,Angry Agony
-43,Creature,Common,Wolf
-44,Creature,Common,Orc
+==================,DECK,6815
+0,Creature,Magi
+1,Creature,Berserker
+2,Creature,Earth Priest Hydra
+3,Creature,Fairy
+4,Spell,Reanimate
+5,Creature,Fairy
+6,Creature,Wolf
+7,Spell,Lightning
+8,Creature,Earth Queen Giant of the West
+9,Enchantment,Irate Grim Blight
+10,Creature,Ghoul
+11,Spell,Rage
+12,Spell,Stun
+13,Enchantment,Deathgrip
+14,Creature,Snow Monk Oni of the Bright Mountains
+15,Creature,Frozen Undead Cyclops
+16,Spell,Vortex
+17,Creature,Paladin
+18,Creature,Death King Hydra
+19,Creature,Dark Merchant Dwarf of the Arctic Blizzards
+20,Spell,Stun
+21,Creature,Paladin
+22,Artifact,Forged Amulet
+23,Creature,Troll
+24,Spell,Frigid Tempest
+25,Artifact,Lunar Shield
+26,Creature,Death Rogue Orc
+27,Creature,Berserker
+28,Creature,Aura Rogue Griffin
+29,Artifact,Divine Robe
+30,Enchantment,Hateful Deathgrip
+31,Spell,Burn
+32,Creature,Frozen Fighter Griffin
+33,Artifact,Grim Scythe
+34,Creature,Eagle
+35,Creature,Spider
+36,Spell,Gloom Lightning
+37,Spell,Frenzy
+38,Creature,Fairy
+39,Creature,Spider
+40,Creature,Spider
+41,Enchantment,Cataclysmic Shield
+42,Enchantment,Ardent Miracle Shield
+43,Creature,Wolf
+44,Creature,Spider

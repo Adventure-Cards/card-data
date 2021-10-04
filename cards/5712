@@ -1,46 +1,46 @@
-==================,DECK,5712,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Flight
-2,Spell,Common,Hypnosis
-3,Creature,Mythic,Light Ancient Demon of the Sky
-4,Creature,Common,Wolf
-5,Creature,Common,Warlock
-6,Creature,Common,Wolf
-7,Artifact,Common,Ghost Wand
-8,Spell,Common,Burst
-9,Creature,Common,Dwarf
-10,Creature,Common,Magi
-11,Creature,Common,Paladin
-12,Artifact,Common,Belt
-13,Creature,Common,Magi
-14,Creature,Common,Elf
-15,Creature,Rare,Dark King Berserker
-16,Creature,Mythic,Light Nameless Phoenix of the Sky
-17,Creature,Legendary,Light Knight Cyclops of the Border
-18,Creature,Common,Wolf
-19,Spell,Common,Heal
-20,Creature,Common,Paladin
-21,Spell,Common,Gravitation
-22,Creature,Rare,Frozen Undead Minotaur
-23,Creature,Common,Goblin
-24,Spell,Rare,Frigid Frost
-25,Enchantment,Mythic,Extreme Shade
-26,Enchantment,Common,Drain
-27,Creature,Rare,Earth Warrior Fairy
-28,Spell,Common,Pandemonium
-29,Creature,Legendary,Earth Assassin Giant of the Mountains
-30,Artifact,Legendary,Dire Gauntlet
-31,Creature,Common,Ghoul
-32,Artifact,Common,Amulet
-33,Creature,Common,Paladin
-34,Creature,Common,Goblin
-35,Spell,Rare,Cataclysmic Burn
-36,Creature,Common,Goblin
-37,Creature,Common,Magi
-38,Enchantment,Mythic,Clever Blight
-39,Creature,Common,Elf
-40,Creature,Legendary,Aura Assassin Giant of the Black Stone
-41,Creature,Common,Eagle
-42,Artifact,Rare,Hateful Greaves
-43,Creature,Common,Paladin
-44,Creature,Common,Paladin
+==================,DECK,5712
+0,Creature,Ghoul
+1,Enchantment,Shield
+2,Spell,Gravitation
+3,Creature,Light Ancient Demon of the Sky
+4,Creature,Wolf
+5,Creature,Berserker
+6,Creature,Wolf
+7,Artifact,Ghost Wand
+8,Spell,Burn
+9,Creature,Magi
+10,Creature,Fairy
+11,Creature,Troll
+12,Artifact,Belt
+13,Creature,Fairy
+14,Creature,Warlock
+15,Creature,Dark King Goblin
+16,Creature,Light Nameless Phoenix of the Sky
+17,Creature,Light Knight Giant of the Border
+18,Creature,Wolf
+19,Spell,Frost
+20,Creature,Troll
+21,Spell,Fireball
+22,Creature,Frozen Undead Cyclops
+23,Creature,Skin-Walker
+24,Spell,Grim Assault
+25,Enchantment,Ardent Chimeric Shield
+26,Enchantment,Alacrity
+27,Creature,Earth Warrior Kraken
+28,Spell,Vortex
+29,Creature,Earth Assassin Dwarf of the Mountains
+30,Artifact,Clever Oblivion Gauntlet
+31,Creature,Ghoul
+32,Artifact,Amulet
+33,Creature,Troll
+34,Creature,Skin-Walker
+35,Spell,Dark Stun
+36,Creature,Skin-Walker
+37,Creature,Fairy
+38,Enchantment,Zealous Nimble Blight
+39,Creature,Warlock
+40,Creature,Aura Assassin Dwarf of the Black Stone
+41,Creature,Eagle
+42,Artifact,Cataclysmic Greaves
+43,Creature,Troll
+44,Creature,Troll

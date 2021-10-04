@@ -1,46 +1,46 @@
-==================,DECK,7268,Light
-0,Creature,Common,Eagle
-1,Enchantment,Mythic,Potent Alacrity
-2,Spell,Legendary,Intense Reanimate
-3,Enchantment,Common,Alacrity
-4,Creature,Rare,Death Undead Hydra
-5,Creature,Legendary,Earth Queen Orge of the Polar Woods
-6,Creature,Legendary,Aura Monk Giant of the Eastern Skies
-7,Spell,Common,Frenzy
-8,Creature,Common,Eagle
-9,Creature,Common,Orc
-10,Spell,Common,Fury
-11,Creature,Common,Dwarf
-12,Enchantment,Common,Agony
-13,Creature,Common,Elf
-14,Enchantment,Common,Haste
-15,Creature,Common,Paladin
-16,Creature,Common,Ghoul
-17,Artifact,Legendary,Dire Belt
-18,Creature,Rare,Death King Hydra
-19,Creature,Common,Orc
-20,Spell,Common,Invisibility
-21,Creature,Rare,Earth Merchant Berserker
-22,Creature,Common,Wolf
-23,Artifact,Common,Ring
-24,Enchantment,Common,Lethargy
-25,Enchantment,Rare,Oblivion Invert
-26,Enchantment,Common,Deathgrip
-27,Spell,Common,Hypnosis
-28,Spell,Common,Wall
-29,Spell,Common,Invisibility
-30,Spell,Common,Reanimate
-31,Creature,Common,Eagle
-32,Enchantment,Common,Shrink
-33,Enchantment,Common,Agony
-34,Creature,Common,Wolf
-35,Artifact,Rare,Grim Cloak
-36,Creature,Common,Goblin
-37,Spell,Common,Freeze
-38,Creature,Common,Magi
-39,Creature,Rare,Light Merchant Hydra
-40,Spell,Common,Revive
-41,Creature,Common,Warlock
-42,Creature,Common,Spider
-43,Spell,Common,Fury
-44,Creature,Common,Wolf
+==================,DECK,7268
+0,Creature,Eagle
+1,Enchantment,Ardent Apocalypse Haste
+2,Spell,Clever Nature Burn
+3,Enchantment,Shade
+4,Creature,Death Undead Hydra
+5,Creature,Earth Queen Elf of the Polar Woods
+6,Creature,Aura Monk Dwarf of the Eastern Skies
+7,Spell,Torment
+8,Creature,Eagle
+9,Creature,Spider
+10,Spell,Infuriate
+11,Creature,Magi
+12,Enchantment,Flight
+13,Creature,Warlock
+14,Enchantment,Flight
+15,Creature,Troll
+16,Creature,Ghoul
+17,Artifact,Dire Life Belt
+18,Creature,Death King Hydra
+19,Creature,Spider
+20,Spell,Rage
+21,Creature,Earth Merchant Goblin
+22,Creature,Wolf
+23,Artifact,Ring
+24,Enchantment,Age
+25,Enchantment,Oblivion Invert
+26,Enchantment,Invert
+27,Spell,Rage
+28,Spell,Gravitation
+29,Spell,Stun
+30,Spell,Wall
+31,Creature,Eagle
+32,Enchantment,Flight
+33,Enchantment,Shade
+34,Creature,Wolf
+35,Artifact,Nimble Cloak
+36,Creature,Skin-Walker
+37,Spell,Frost
+38,Creature,Fairy
+39,Creature,Light Merchant Hydra
+40,Spell,Hypnosis
+41,Creature,Berserker
+42,Creature,Paladin
+43,Spell,Revive
+44,Creature,Wolf

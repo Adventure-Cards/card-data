@@ -1,46 +1,46 @@
-==================,DECK,7175,Medium
-0,Creature,Rare,Light Warrior Fairy
-1,Spell,Common,Invisibility
-2,Spell,Common,Frost
-3,Artifact,Rare,Forged Staff
-4,Enchantment,Common,Strength
-5,Creature,Common,Warlock
-6,Spell,Mythic,Angry Lightning
-7,Artifact,Common,Crown
-8,Creature,Legendary,Dark Merchant Orge of the Swamp
-9,Enchantment,Common,Flight
-10,Artifact,Common,Ring
-11,Enchantment,Common,Haste
-12,Spell,Mythic,Dire Vortex
-13,Creature,Common,Orc
-14,Creature,Rare,Dark Queen Hydra
-15,Creature,Mythic,Aura Nameless Dragon of the Light
-16,Creature,Common,Eagle
-17,Spell,Common,Pandemonium
-18,Enchantment,Common,Flight
-19,Creature,Rare,Dark Warrior Griffin
-20,Creature,Common,Magi
-21,Enchantment,Mythic,Extreme Agony
-22,Creature,Common,Eagle
-23,Spell,Common,Maelstrom
-24,Enchantment,Legendary,Dire Shade
-25,Creature,Common,Spider
-26,Creature,Legendary,Earth Priest Kraken of the Bright Mountains
-27,Creature,Rare,Death Monk Fairy
-28,Creature,Common,Paladin
-29,Creature,Rare,Dark Fighter Hydra
-30,Spell,Legendary,Dire Lightning
-31,Creature,Legendary,Aura King Oni of the Border
-32,Creature,Rare,Frozen Warrior Hydra
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Orc
-35,Creature,Rare,Snow Knight Fairy
-36,Enchantment,Rare,Dark Strength
-37,Creature,Common,Ghoul
-38,Creature,Common,Orc
-39,Creature,Common,Elf
-40,Spell,Common,Torment
-41,Spell,Rare,Cataclysmic Reanimate
-42,Spell,Legendary,Intense Heal
-43,Enchantment,Legendary,Angry Shade
-44,Artifact,Legendary,Urgent Amulet
+==================,DECK,7175
+0,Creature,Light Warrior Kraken
+1,Spell,Frost
+2,Spell,Ice
+3,Artifact,Sorrow Staff
+4,Enchantment,Deathgrip
+5,Creature,Berserker
+6,Spell,Irate Chimeric Rage
+7,Artifact,Crown
+8,Creature,Dark Merchant Elf of the Swamp
+9,Enchantment,Blight
+10,Artifact,Ring
+11,Enchantment,Haste
+12,Spell,Urgent Grim Fire
+13,Creature,Spider
+14,Creature,Dark Queen Hydra
+15,Creature,Aura Nameless Dragon of the Light
+16,Creature,Eagle
+17,Spell,Revive
+18,Enchantment,Blight
+19,Creature,Dark Warrior Griffin
+20,Creature,Fairy
+21,Enchantment,Irate Miracle Alacrity
+22,Creature,Eagle
+23,Spell,Fire
+24,Enchantment,Urgent Frigid Invert
+25,Creature,Paladin
+26,Creature,Earth Priest Ogre of the Bright Mountains
+27,Creature,Death Monk Kraken
+28,Creature,Troll
+29,Creature,Dark Fighter Hydra
+30,Spell,Urgent Victory Wall
+31,Creature,Aura King Oni of the Border
+32,Creature,Frozen Warrior Hydra
+33,Artifact,Divine Robe
+34,Creature,Spider
+35,Creature,Snow Knight Kraken
+36,Enchantment,Cataclysmic Flight
+37,Creature,Ghoul
+38,Creature,Spider
+39,Creature,Warlock
+40,Spell,Invisibility
+41,Spell,Miracle Vortex
+42,Spell,Dire Hateful Sorrow
+43,Enchantment,Irate Chimeric Alacrity
+44,Artifact,Urgent Corpse Amulet

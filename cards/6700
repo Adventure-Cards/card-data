@@ -1,46 +1,46 @@
-==================,DECK,6700,Light
-0,Creature,Mythic,Death Time Phoenix of the Dead
-1,Creature,Common,Elf
-2,Creature,Common,Elf
-3,Creature,Common,Goblin
-4,Artifact,Common,Tome
-5,Enchantment,Common,Deathgrip
-6,Enchantment,Rare,Necro Drain
-7,Enchantment,Common,Drain
-8,Creature,Common,Elf
-9,Enchantment,Common,Flight
-10,Creature,Rare,Death Fighter Skin-Walker
-11,Enchantment,Common,Flight
-12,Creature,Mythic,Death Ancient Wizard of the Dead
-13,Creature,Rare,Dark Knight Hydra
-14,Creature,Common,Eagle
-15,Spell,Common,Infuriate
-16,Creature,Common,Wolf
-17,Creature,Rare,Death Knight Minotaur
-18,Creature,Common,Paladin
-19,Creature,Rare,Dark Assassin Berserker
-20,Creature,Common,Warlock
-21,Enchantment,Common,Invert
-22,Creature,Rare,Earth Merchant Hydra
-23,Enchantment,Common,Age
-24,Creature,Legendary,Dark Priest Orge of the Black Stone
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Wolf
-27,Spell,Common,Assault
-28,Creature,Rare,Earth Lord Berserker
-29,Artifact,Legendary,Extreme Cloak
-30,Enchantment,Common,Shield
-31,Artifact,Rare,Dark Sword
-32,Spell,Common,Fury
-33,Creature,Common,Warlock
-34,Spell,Common,Hypnosis
-35,Artifact,Common,Ring
-36,Spell,Common,Vortex
-37,Creature,Common,Wolf
-38,Enchantment,Legendary,Intense Shield
-39,Enchantment,Common,Alacrity
-40,Spell,Common,Reanimate
-41,Creature,Rare,Frozen Monk Minotaur
-42,Creature,Legendary,Earth Knight Oni of the Border
-43,Spell,Common,Burst
-44,Spell,Common,Burst
+==================,DECK,6700
+0,Creature,Death Time Phoenix of the Dead
+1,Creature,Warlock
+2,Creature,Warlock
+3,Creature,Skin-Walker
+4,Artifact,Tome
+5,Enchantment,Alacrity
+6,Enchantment,Forged Age
+7,Enchantment,Flight
+8,Creature,Warlock
+9,Enchantment,Flight
+10,Creature,Death Fighter Orc
+11,Enchantment,Shield
+12,Creature,Death Ancient Wizard of the Dead
+13,Creature,Dark Knight Hydra
+14,Creature,Eagle
+15,Spell,Assault
+16,Creature,Wolf
+17,Creature,Death Knight Cyclops
+18,Creature,Troll
+19,Creature,Dark Assassin Goblin
+20,Creature,Berserker
+21,Enchantment,Lethargy
+22,Creature,Earth Merchant Hydra
+23,Enchantment,Shade
+24,Creature,Dark Priest Elf of the Black Stone
+25,Enchantment,Shield
+26,Creature,Wolf
+27,Spell,Fury
+28,Creature,Earth Lord Goblin
+29,Artifact,Ardent Lunar Cloak
+30,Enchantment,Age
+31,Artifact,Sorrow Sword
+32,Spell,Revive
+33,Creature,Berserker
+34,Spell,Tempest
+35,Artifact,Ring
+36,Spell,Maelstrom
+37,Creature,Wolf
+38,Enchantment,Dire Nature Age
+39,Enchantment,Flight
+40,Spell,Frenzy
+41,Creature,Frozen Monk Cyclops
+42,Creature,Earth Knight Oni of the Border
+43,Spell,Gravitation
+44,Spell,Gravitation

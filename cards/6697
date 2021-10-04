@@ -1,46 +1,46 @@
-==================,DECK,6697,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Warlock
-2,Creature,Common,Paladin
-3,Spell,Common,Stun
-4,Creature,Common,Ghoul
-5,Creature,Rare,Earth Queen Hydra
-6,Spell,Rare,Life Maelstrom
-7,Spell,Legendary,Mighty Ice
-8,Creature,Rare,Aura Thief Berserker
-9,Enchantment,Common,Shade
-10,Creature,Legendary,Death Rogue Orge of the Bright Mountains
-11,Spell,Legendary,Angry Frenzy
-12,Creature,Rare,Frozen Knight Berserker
-13,Creature,Rare,Light Thief Fairy
-14,Creature,Common,Elf
-15,Creature,Common,Spider
-16,Enchantment,Common,Blight
-17,Spell,Common,Assault
-18,Creature,Legendary,Frozen Queen Kraken of the Bright Mountains
-19,Creature,Common,Orc
-20,Spell,Rare,Hateful Hypnosis
-21,Enchantment,Common,Shrink
-22,Creature,Rare,Death Rogue Berserker
-23,Enchantment,Common,Agony
-24,Enchantment,Mythic,Clever Drain
-25,Enchantment,Common,Haste
-26,Creature,Common,Goblin
-27,Creature,Common,Warlock
-28,Spell,Common,Torment
-29,Creature,Common,Dwarf
-30,Creature,Mythic,Light Nameless Phoenix of the Sky
-31,Enchantment,Legendary,Intense Alacrity
-32,Creature,Common,Orc
-33,Creature,Common,Eagle
-34,Creature,Rare,Dark Thief Griffin
-35,Spell,Common,Heal
-36,Enchantment,Mythic,Extreme Drain
-37,Enchantment,Common,Shield
-38,Enchantment,Common,Alacrity
-39,Artifact,Common,Helmet
-40,Spell,Common,Pandemonium
-41,Enchantment,Common,Shade
-42,Enchantment,Rare,Apocalypse Blight
-43,Spell,Legendary,Intense Reanimate
-44,Creature,Common,Magi
+==================,DECK,6697
+0,Creature,Berserker
+1,Creature,Berserker
+2,Creature,Troll
+3,Spell,Maelstrom
+4,Creature,Ghoul
+5,Creature,Earth Queen Hydra
+6,Spell,Nimble Rage
+7,Spell,Mighty Sorrow Fireball
+8,Creature,Aura Thief Goblin
+9,Enchantment,Agony
+10,Creature,Death Rogue Elf of the Bright Mountains
+11,Spell,Instant Dark Freeze
+12,Creature,Frozen Knight Goblin
+13,Creature,Light Thief Kraken
+14,Creature,Warlock
+15,Creature,Paladin
+16,Enchantment,Strength
+17,Spell,Maelstrom
+18,Creature,Frozen Queen Ogre of the Bright Mountains
+19,Creature,Spider
+20,Spell,Miracle Lightning
+21,Enchantment,Drain
+22,Creature,Death Rogue Goblin
+23,Enchantment,Firebreath
+24,Enchantment,Mighty Apocalypse Invert
+25,Enchantment,Blight
+26,Creature,Skin-Walker
+27,Creature,Berserker
+28,Spell,Rage
+29,Creature,Magi
+30,Creature,Light Nameless Phoenix of the Sky
+31,Enchantment,Instant Forged Strength
+32,Creature,Spider
+33,Creature,Eagle
+34,Creature,Dark Thief Griffin
+35,Spell,Fire
+36,Enchantment,Clever Dark Shield
+37,Enchantment,Drain
+38,Enchantment,Shade
+39,Artifact,Helmet
+40,Spell,Freeze
+41,Enchantment,Lethargy
+42,Enchantment,Nimble Blight
+43,Spell,Empyrean Nature Heal
+44,Creature,Fairy

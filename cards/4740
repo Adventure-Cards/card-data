@@ -1,46 +1,46 @@
-==================,DECK,4740,Light
-0,Creature,Common,Wolf
-1,Creature,Rare,Death King Berserker
-2,Enchantment,Common,Deathgrip
-3,Enchantment,Legendary,Potent Drain
-4,Enchantment,Common,Shield
-5,Creature,Common,Eagle
-6,Creature,Common,Ghoul
-7,Spell,Common,Torment
-8,Enchantment,Common,Age
-9,Spell,Rare,Corpse Rage
-10,Creature,Common,Elf
-11,Spell,Common,Burst
-12,Creature,Rare,Death Knight Hydra
-13,Creature,Common,Paladin
-14,Enchantment,Legendary,Mighty Shade
-15,Artifact,Common,Crown
-16,Creature,Common,Ghoul
-17,Creature,Common,Warlock
-18,Artifact,Common,Sword
-19,Enchantment,Rare,Miracle Drain
-20,Creature,Rare,Frozen Monk Minotaur
-21,Enchantment,Common,Drain
-22,Creature,Common,Goblin
-23,Creature,Common,Goblin
-24,Enchantment,Common,Haste
-25,Artifact,Legendary,Extreme Sword
-26,Artifact,Rare,Oblivion Boots
-27,Creature,Common,Orc
-28,Artifact,Common,Potion
-29,Creature,Common,Elf
-30,Enchantment,Rare,Solar Shade
-31,Artifact,Rare,Life Divine Robe
-32,Creature,Rare,Aura Fighter Griffin
-33,Spell,Common,Stun
-34,Spell,Common,Assault
-35,Spell,Common,Assault
-36,Creature,Common,Elf
-37,Artifact,Rare,Lunar Greaves
-38,Artifact,Legendary,Instant Belt
-39,Enchantment,Common,Drain
-40,Creature,Common,Warlock
-41,Creature,Common,Paladin
-42,Enchantment,Rare,Lunar Drain
-43,Enchantment,Common,Lethargy
-44,Creature,Common,Magi
+==================,DECK,4740
+0,Creature,Wolf
+1,Creature,Death King Goblin
+2,Enchantment,Flight
+3,Enchantment,Potent Apocalypse Drain
+4,Enchantment,Blight
+5,Creature,Eagle
+6,Creature,Ghoul
+7,Spell,Burn
+8,Enchantment,Lethargy
+9,Spell,Solar Stricken
+10,Creature,Warlock
+11,Spell,Assault
+12,Creature,Death Knight Hydra
+13,Creature,Troll
+14,Enchantment,Urgent Chimeric Flight
+15,Artifact,Crown
+16,Creature,Ghoul
+17,Creature,Berserker
+18,Artifact,Sword
+19,Enchantment,Apocalypse Haste
+20,Creature,Frozen Monk Cyclops
+21,Enchantment,Drain
+22,Creature,Skin-Walker
+23,Creature,Skin-Walker
+24,Enchantment,Shrink
+25,Artifact,Potent Lunar Sword
+26,Artifact,Victory Boots
+27,Creature,Spider
+28,Artifact,Potion
+29,Creature,Warlock
+30,Enchantment,Necro Lethargy
+31,Artifact,Grim Divine Robe
+32,Creature,Aura Fighter Griffin
+33,Spell,Maelstrom
+34,Spell,Revive
+35,Spell,Gale
+36,Creature,Warlock
+37,Artifact,Cataclysmic Greaves
+38,Artifact,Dire Nature Belt
+39,Enchantment,Deathgrip
+40,Creature,Berserker
+41,Creature,Troll
+42,Enchantment,Dark Shrink
+43,Enchantment,Blight
+44,Creature,Fairy

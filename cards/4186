@@ -1,46 +1,46 @@
-==================,DECK,4186,Strong
-0,Spell,Common,Hypnosis
-1,Spell,Rare,Apocalypse Stun
-2,Creature,Common,Paladin
-3,Spell,Rare,Necro Pandemonium
-4,Spell,Legendary,Intense Gale
-5,Creature,Rare,Snow Undead Skin-Walker
-6,Spell,Common,Pandemonium
-7,Creature,Common,Wolf
-8,Spell,Rare,Nature Burst
-9,Creature,Rare,Dark Undead Hydra
-10,Creature,Rare,Earth Warrior Skin-Walker
-11,Creature,Common,Eagle
-12,Creature,Rare,Snow Fighter Berserker
-13,Creature,Mythic,Aura Ancient Demon of the Light
-14,Creature,Rare,Frozen Assassin Skin-Walker
-15,Spell,Legendary,Clever Burn
-16,Enchantment,Rare,Cataclysmic Flight
-17,Enchantment,Legendary,Dire Blight
-18,Artifact,Mythic,Urgent Ring
-19,Artifact,Common,Helmet
-20,Spell,Mythic,Dire Freeze
-21,Enchantment,Common,Flight
-22,Creature,Common,Orc
-23,Creature,Common,Wolf
-24,Enchantment,Legendary,Instant Strength
-25,Spell,Common,Revive
-26,Creature,Rare,Aura King Griffin
-27,Creature,Mythic,Earth Grand Wizard of the Shadows
-28,Creature,Common,Eagle
-29,Creature,Mythic,Frozen Grand Wizard of the Void
-30,Creature,Legendary,Earth Ancient Demon of the Shadows
-31,Creature,Legendary,Dark Ancient Wizard of Illusion
-32,Enchantment,Mythic,Instant Deathgrip
-33,Spell,Rare,Necro Stun
-34,Spell,Rare,Corpse Vortex
-35,Spell,Rare,Nimble Torment
-36,Creature,Common,Elf
-37,Creature,Mythic,Aura Ancient Wizard of the Light
-38,Artifact,Rare,Forged Helmet
-39,Creature,Mythic,Frozen Nameless Phoenix of the Void
-40,Creature,Common,Goblin
-41,Creature,Mythic,Aura Grand Wizard of the Light
-42,Spell,Rare,Gloom Wall
-43,Enchantment,Mythic,Clever Blight
-44,Creature,Common,Magi
+==================,DECK,4186
+0,Spell,Wall
+1,Spell,Nimble Tempest
+2,Creature,Troll
+3,Spell,Solar Maelstrom
+4,Spell,Zealous Corpse Pandemonium
+5,Creature,Snow Undead Orc
+6,Spell,Burn
+7,Creature,Wolf
+8,Spell,Solar Hypnosis
+9,Creature,Dark Undead Hydra
+10,Creature,Earth Warrior Orc
+11,Creature,Eagle
+12,Creature,Snow Fighter Goblin
+13,Creature,Aura Ancient Demon of the Light
+14,Creature,Frozen Assassin Orc
+15,Spell,Clever Oblivion Torment
+16,Enchantment,Lunar Alacrity
+17,Enchantment,Clever Nimble Haste
+18,Artifact,Ardent Forged Ring
+19,Artifact,Helmet
+20,Spell,Dire Grim Gravitation
+21,Enchantment,Shield
+22,Creature,Spider
+23,Creature,Wolf
+24,Enchantment,Dire Solar Age
+25,Spell,Frost
+26,Creature,Aura King Griffin
+27,Creature,Earth Grand Wizard of the Shadows
+28,Creature,Eagle
+29,Creature,Frozen Grand Wizard of the Void
+30,Creature,Earth Ancient Demon of the Shadows
+31,Creature,Dark Ancient Wizard of Illusion
+32,Enchantment,Empyrean Shimmering Age
+33,Spell,Shimmering Invisibility
+34,Spell,Hateful Reanimate
+35,Spell,Forged Maelstrom
+36,Creature,Warlock
+37,Creature,Aura Ancient Wizard of the Light
+38,Artifact,Sorrow Helmet
+39,Creature,Frozen Nameless Phoenix of the Void
+40,Creature,Skin-Walker
+41,Creature,Aura Grand Wizard of the Light
+42,Spell,Gloom Sorrow
+43,Enchantment,Clever Nimble Haste
+44,Creature,Fairy

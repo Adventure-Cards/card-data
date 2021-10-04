@@ -1,46 +1,46 @@
-==================,DECK,7253,Light
-0,Artifact,Common,Scepter
-1,Enchantment,Rare,Solar Agony
-2,Creature,Rare,Earth Lord Berserker
-3,Creature,Common,Eagle
-4,Spell,Common,Stricken
-5,Creature,Rare,Snow Monk Fairy
-6,Creature,Common,Dwarf
-7,Creature,Common,Magi
-8,Spell,Rare,Corpse Torment
-9,Enchantment,Mythic,Angry Age
-10,Creature,Rare,Frozen Lord Griffin
-11,Spell,Common,Gale
-12,Spell,Common,Freeze
-13,Spell,Rare,Shimmering Fury
-14,Creature,Legendary,Frozen Rogue Cyclops of the Eastern Skies
-15,Enchantment,Common,Lethargy
-16,Enchantment,Mythic,Clever Invert
-17,Artifact,Common,Crown
-18,Creature,Rare,Dark King Fairy
-19,Enchantment,Common,Strength
-20,Enchantment,Common,Age
-21,Creature,Common,Spider
-22,Artifact,Common,Bow
-23,Creature,Common,Elf
-24,Spell,Rare,Oblivion Frenzy
-25,Creature,Mythic,Dark Nameless Phoenix of Illusion
-26,Artifact,Common,Shield
-27,Creature,Common,Ghoul
-28,Creature,Common,Orc
-29,Creature,Common,Wolf
-30,Artifact,Rare,Forged Gauntlet
-31,Creature,Common,Eagle
-32,Creature,Common,Elf
-33,Spell,Common,Frost
-34,Artifact,Common,Sword
-35,Creature,Common,Wolf
-36,Enchantment,Common,Drain
-37,Enchantment,Common,Shrink
-38,Creature,Common,Spider
-39,Artifact,Common,Helm
-40,Enchantment,Common,Deathgrip
-41,Creature,Common,Warlock
-42,Creature,Rare,Frozen Undead Minotaur
-43,Creature,Common,Dwarf
-44,Enchantment,Common,Age
+==================,DECK,7253
+0,Artifact,Scepter
+1,Enchantment,Corpse Lethargy
+2,Creature,Earth Lord Goblin
+3,Creature,Eagle
+4,Spell,Freeze
+5,Creature,Snow Monk Kraken
+6,Creature,Magi
+7,Creature,Fairy
+8,Spell,Necro Stricken
+9,Enchantment,Mighty Gloom Flight
+10,Creature,Frozen Lord Griffin
+11,Spell,Torment
+12,Spell,Assault
+13,Spell,Nature Assault
+14,Creature,Frozen Rogue Giant of the Eastern Skies
+15,Enchantment,Drain
+16,Enchantment,Instant Oblivion Drain
+17,Artifact,Crown
+18,Creature,Dark King Kraken
+19,Enchantment,Haste
+20,Enchantment,Age
+21,Creature,Paladin
+22,Artifact,Bow
+23,Creature,Warlock
+24,Spell,Apocalypse Invisibility
+25,Creature,Dark Nameless Phoenix of Illusion
+26,Artifact,Shield
+27,Creature,Ghoul
+28,Creature,Spider
+29,Creature,Wolf
+30,Artifact,Cataclysmic Gauntlet
+31,Creature,Eagle
+32,Creature,Warlock
+33,Spell,Frost
+34,Artifact,Sword
+35,Creature,Wolf
+36,Enchantment,Shade
+37,Enchantment,Strength
+38,Creature,Paladin
+39,Artifact,Helm
+40,Enchantment,Strength
+41,Creature,Berserker
+42,Creature,Frozen Undead Cyclops
+43,Creature,Magi
+44,Enchantment,Drain

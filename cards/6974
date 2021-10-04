@@ -1,46 +1,46 @@
-==================,DECK,6974,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Ghoul
-2,Creature,Common,Eagle
-3,Creature,Common,Ghoul
-4,Artifact,Rare,Nimble Gloves
-5,Creature,Rare,Death Priest Skin-Walker
-6,Enchantment,Common,Shield
-7,Creature,Common,Magi
-8,Spell,Legendary,Clever Freeze
-9,Spell,Common,Burn
-10,Spell,Mythic,Extreme Infuriate
-11,Creature,Common,Magi
-12,Enchantment,Common,Age
-13,Creature,Common,Orc
-14,Spell,Rare,Frigid Lightning
-15,Enchantment,Common,Lethargy
-16,Spell,Common,Gale
-17,Enchantment,Common,Haste
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Deathgrip
-20,Creature,Legendary,Earth Merchant Kraken of the Polar Woods
-21,Creature,Common,Spider
-22,Artifact,Common,Scepter
-23,Creature,Common,Spider
-24,Creature,Common,Eagle
-25,Spell,Common,Infuriate
-26,Creature,Common,Elf
-27,Creature,Common,Elf
-28,Creature,Rare,Frozen Assassin Hydra
-29,Artifact,Rare,Lunar Divine Robe
-30,Creature,Mythic,Aura Ancient Demon of the Light
-31,Artifact,Rare,Necro Gauntlet
-32,Creature,Common,Magi
-33,Creature,Rare,Death Queen Skin-Walker
-34,Enchantment,Common,Blight
-35,Enchantment,Rare,Apocalypse Shrink
-36,Creature,Common,Eagle
-37,Enchantment,Common,Shrink
-38,Creature,Common,Dwarf
-39,Artifact,Rare,Frigid Bow
-40,Spell,Legendary,Dire Hypnosis
-41,Creature,Legendary,Death Queen Oni of the West
-42,Spell,Common,Stricken
-43,Enchantment,Rare,Cataclysmic Drain
-44,Creature,Common,Goblin
+==================,DECK,6974
+0,Creature,Eagle
+1,Creature,Ghoul
+2,Creature,Eagle
+3,Creature,Ghoul
+4,Artifact,Shimmering Gloves
+5,Creature,Death Priest Orc
+6,Enchantment,Shrink
+7,Creature,Fairy
+8,Spell,Ardent Frigid Burn
+9,Spell,Frenzy
+10,Spell,Potent Gloom Ice
+11,Creature,Fairy
+12,Enchantment,Age
+13,Creature,Spider
+14,Spell,Grim Tempest
+15,Enchantment,Age
+16,Spell,Revive
+17,Enchantment,Shield
+18,Creature,Magi
+19,Enchantment,Alacrity
+20,Creature,Earth Merchant Ogre of the Polar Woods
+21,Creature,Paladin
+22,Artifact,Scepter
+23,Creature,Paladin
+24,Creature,Eagle
+25,Spell,Heal
+26,Creature,Warlock
+27,Creature,Warlock
+28,Creature,Frozen Assassin Hydra
+29,Artifact,Cataclysmic Divine Robe
+30,Creature,Aura Ancient Demon of the Light
+31,Artifact,Hateful Gauntlet
+32,Creature,Fairy
+33,Creature,Death Queen Orc
+34,Enchantment,Shrink
+35,Enchantment,Frigid Invert
+36,Creature,Eagle
+37,Enchantment,Strength
+38,Creature,Magi
+39,Artifact,Victory Bow
+40,Spell,Mighty Oblivion Revive
+41,Creature,Death Queen Oni of the West
+42,Spell,Rage
+43,Enchantment,Dark Shield
+44,Creature,Skin-Walker

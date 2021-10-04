@@ -1,46 +1,46 @@
-==================,DECK,5183,Strong
-0,Creature,Common,Magi
-1,Creature,Rare,Snow Assassin Berserker
-2,Spell,Common,Torment
-3,Artifact,Common,Pendant
-4,Creature,Common,Paladin
-5,Enchantment,Rare,Forged Alacrity
-6,Creature,Legendary,Death Lord Orge of the Frozen Castle
-7,Creature,Common,Ghoul
-8,Spell,Legendary,Dire Pandemonium
-9,Creature,Rare,Earth Merchant Berserker
-10,Enchantment,Rare,Necro Flight
-11,Creature,Common,Elf
-12,Spell,Rare,Hateful Burst
-13,Artifact,Common,Potion
-14,Creature,Mythic,Frozen Nameless Phoenix of the Void
-15,Artifact,Rare,Solar Gauntlet
-16,Creature,Legendary,Dark Fighter Cyclops of the Eternal Land
-17,Creature,Common,Orc
-18,Artifact,Rare,Dark Ghost Wand
-19,Spell,Mythic,Clever Freeze
-20,Creature,Legendary,Earth Ancient Wizard of the Shadows
-21,Spell,Common,Revive
-22,Enchantment,Common,Invert
-23,Creature,Common,Paladin
-24,Spell,Legendary,Dire Fury
-25,Creature,Mythic,Death Chaos Demon of the Dead
-26,Spell,Common,Rage
-27,Creature,Common,Magi
-28,Artifact,Common,Amulet
-29,Spell,Common,Freeze
-30,Artifact,Common,Bow
-31,Artifact,Common,Sigil
-32,Creature,Legendary,Dark Undead Giant of the Border
-33,Creature,Common,Spider
-34,Creature,Common,Wolf
-35,Creature,Rare,Death Lord Hydra
-36,Creature,Common,Warlock
-37,Artifact,Rare,Cataclysmic Bracers
-38,Enchantment,Common,Age
-39,Enchantment,Legendary,Potent Lethargy
-40,Artifact,Rare,Nimble Ghost Wand
-41,Spell,Common,Vortex
-42,Creature,Mythic,Aura Time Dragon of the Light
-43,Spell,Common,Infuriate
-44,Creature,Legendary,Aura Monk Cyclops of the Low Hills
+==================,DECK,5183
+0,Creature,Fairy
+1,Creature,Snow Assassin Goblin
+2,Spell,Revive
+3,Artifact,Pendant
+4,Creature,Troll
+5,Enchantment,Dark Shrink
+6,Creature,Death Lord Elf of the Frozen Castle
+7,Creature,Ghoul
+8,Spell,Potent Life Ice
+9,Creature,Earth Merchant Goblin
+10,Enchantment,Hateful Deathgrip
+11,Creature,Warlock
+12,Spell,Dark Maelstrom
+13,Artifact,Potion
+14,Creature,Frozen Nameless Phoenix of the Void
+15,Artifact,Shimmering Gauntlet
+16,Creature,Dark Fighter Giant of the Eternal Land
+17,Creature,Spider
+18,Artifact,Lunar Ghost Wand
+19,Spell,Irate Frigid Sorrow
+20,Creature,Earth Ancient Wizard of the Shadows
+21,Spell,Sorrow
+22,Enchantment,Firebreath
+23,Creature,Troll
+24,Spell,Empyrean Grim Heal
+25,Creature,Death Chaos Demon of the Dead
+26,Spell,Vortex
+27,Creature,Fairy
+28,Artifact,Amulet
+29,Spell,Fireball
+30,Artifact,Bow
+31,Artifact,Sigil
+32,Creature,Dark Undead Dwarf of the Border
+33,Creature,Paladin
+34,Creature,Wolf
+35,Creature,Death Lord Hydra
+36,Creature,Berserker
+37,Artifact,Dark Bracers
+38,Enchantment,Firebreath
+39,Enchantment,Dire Grim Shade
+40,Artifact,Hateful Ghost Wand
+41,Spell,Sorrow
+42,Creature,Aura Time Dragon of the Light
+43,Spell,Heal
+44,Creature,Aura Monk Giant of the Low Hills

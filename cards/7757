@@ -1,46 +1,46 @@
-==================,DECK,7757,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Magi
-2,Creature,Common,Magi
-3,Creature,Rare,Light Queen Hydra
-4,Artifact,Legendary,Urgent Crown
-5,Spell,Rare,Lunar Ice
-6,Spell,Common,Assault
-7,Creature,Common,Wolf
-8,Creature,Legendary,Earth Lord Kraken of the Magical Forest
-9,Spell,Common,Vortex
-10,Spell,Common,Heal
-11,Creature,Common,Elf
-12,Enchantment,Common,Drain
-13,Spell,Common,Burst
-14,Spell,Common,Heal
-15,Enchantment,Common,Haste
-16,Creature,Common,Warlock
-17,Enchantment,Common,Strength
-18,Enchantment,Rare,Shimmering Haste
-19,Enchantment,Rare,Corpse Strength
-20,Spell,Common,Infuriate
-21,Enchantment,Common,Flight
-22,Creature,Common,Orc
-23,Creature,Common,Ghoul
-24,Spell,Rare,Nature Hypnosis
-25,Spell,Common,Wall
-26,Enchantment,Rare,Gloom Invert
-27,Creature,Common,Ghoul
-28,Spell,Common,Sorrow
-29,Artifact,Common,Sword
-30,Creature,Rare,Dark Lord Skin-Walker
-31,Enchantment,Common,Drain
-32,Artifact,Common,Gloves
-33,Creature,Rare,Aura Lord Fairy
-34,Creature,Rare,Aura Assassin Minotaur
-35,Enchantment,Common,Shade
-36,Enchantment,Mythic,Mighty Haste
-37,Spell,Common,Gale
-38,Creature,Common,Spider
-39,Spell,Common,Vortex
-40,Creature,Common,Paladin
-41,Creature,Rare,Earth Undead Skin-Walker
-42,Spell,Rare,Dark Assault
-43,Creature,Common,Paladin
-44,Creature,Common,Warlock
+==================,DECK,7757
+0,Creature,Fairy
+1,Creature,Fairy
+2,Creature,Fairy
+3,Creature,Light Queen Hydra
+4,Artifact,Zealous Forged Crown
+5,Spell,Sorrow Ice
+6,Spell,Rage
+7,Creature,Wolf
+8,Creature,Earth Lord Ogre of the Magical Forest
+9,Spell,Ice
+10,Spell,Wall
+11,Creature,Warlock
+12,Enchantment,Shade
+13,Spell,Vortex
+14,Spell,Heal
+15,Enchantment,Flight
+16,Creature,Berserker
+17,Enchantment,Drain
+18,Enchantment,Corpse Agony
+19,Enchantment,Solar Age
+20,Spell,Vortex
+21,Enchantment,Drain
+22,Creature,Spider
+23,Creature,Ghoul
+24,Spell,Shimmering Sorrow
+25,Spell,Assault
+26,Enchantment,Sorrow Shield
+27,Creature,Ghoul
+28,Spell,Stricken
+29,Artifact,Sword
+30,Creature,Dark Lord Orc
+31,Enchantment,Agony
+32,Artifact,Gloves
+33,Creature,Aura Lord Kraken
+34,Creature,Aura Assassin Cyclops
+35,Enchantment,Invert
+36,Enchantment,Potent Miracle Shrink
+37,Spell,Infuriate
+38,Creature,Paladin
+39,Spell,Invisibility
+40,Creature,Troll
+41,Creature,Earth Undead Orc
+42,Spell,Miracle Gravitation
+43,Creature,Troll
+44,Creature,Berserker

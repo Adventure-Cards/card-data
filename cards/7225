@@ -1,46 +1,46 @@
-==================,DECK,7225,Light
-0,Artifact,Common,Ring
-1,Creature,Mythic,Dark Time Dragon of Illusion
-2,Creature,Legendary,Frozen Merchant Oni of the Arctic Blizzards
-3,Creature,Legendary,Dark Assassin Orge of the Eastern Skies
-4,Spell,Common,Burn
-5,Enchantment,Common,Blight
-6,Creature,Mythic,Earth Undead Dragon of the Shadows
-7,Spell,Common,Torment
-8,Spell,Legendary,Extreme Assault
-9,Creature,Rare,Light Assassin Griffin
-10,Creature,Legendary,Dark Undead Orge of the Eternal Land
-11,Enchantment,Common,Shrink
-12,Enchantment,Legendary,Angry Agony
-13,Creature,Rare,Dark Warrior Hydra
-14,Enchantment,Common,Invert
-15,Creature,Common,Goblin
-16,Artifact,Common,Ring
-17,Enchantment,Common,Blight
-18,Spell,Common,Lightning
-19,Creature,Common,Orc
-20,Artifact,Common,Bow
-21,Enchantment,Legendary,Angry Invert
-22,Creature,Common,Orc
-23,Creature,Common,Spider
-24,Enchantment,Mythic,Urgent Deathgrip
-25,Spell,Rare,Apocalypse Fury
-26,Creature,Common,Elf
-27,Creature,Common,Warlock
-28,Enchantment,Rare,Forged Alacrity
-29,Enchantment,Common,Agony
-30,Creature,Common,Ghoul
-31,Creature,Common,Warlock
-32,Creature,Common,Goblin
-33,Creature,Rare,Earth Assassin Berserker
-34,Spell,Common,Torment
-35,Spell,Common,Hypnosis
-36,Creature,Common,Paladin
-37,Spell,Legendary,Clever Sorrow
-38,Creature,Common,Orc
-39,Spell,Legendary,Angry Assault
-40,Spell,Common,Sorrow
-41,Enchantment,Common,Shield
-42,Artifact,Rare,Solar Shield
-43,Enchantment,Common,Invert
-44,Creature,Common,Wolf
+==================,DECK,7225
+0,Artifact,Ring
+1,Creature,Dark Time Dragon of Illusion
+2,Creature,Frozen Merchant Oni of the Arctic Blizzards
+3,Creature,Dark Assassin Elf of the Eastern Skies
+4,Spell,Lightning
+5,Enchantment,Deathgrip
+6,Creature,Earth Undead Dragon of the Shadows
+7,Spell,Pandemonium
+8,Spell,Ardent Chimeric Reanimate
+9,Creature,Light Assassin Griffin
+10,Creature,Dark Undead Elf of the Eternal Land
+11,Enchantment,Invert
+12,Enchantment,Ardent Miracle Shield
+13,Creature,Dark Warrior Hydra
+14,Enchantment,Shade
+15,Creature,Skin-Walker
+16,Artifact,Ring
+17,Enchantment,Shrink
+18,Spell,Stun
+19,Creature,Spider
+20,Artifact,Bow
+21,Enchantment,Dire Sorrow Firebreath
+22,Creature,Spider
+23,Creature,Paladin
+24,Enchantment,Potent Shimmering Strength
+25,Spell,Frigid Burst
+26,Creature,Warlock
+27,Creature,Berserker
+28,Enchantment,Dark Alacrity
+29,Enchantment,Drain
+30,Creature,Ghoul
+31,Creature,Berserker
+32,Creature,Skin-Walker
+33,Creature,Earth Assassin Goblin
+34,Spell,Stun
+35,Spell,Sorrow
+36,Creature,Troll
+37,Spell,Mighty Grim Gravitation
+38,Creature,Spider
+39,Spell,Ardent Cataclysmic Revive
+40,Spell,Gravitation
+41,Enchantment,Shade
+42,Artifact,Solar Shield
+43,Enchantment,Alacrity
+44,Creature,Wolf

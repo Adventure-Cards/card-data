@@ -1,46 +1,46 @@
-==================,DECK,7673,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Magi
-2,Creature,Legendary,Earth Rogue Kraken of the Black Stone
-3,Creature,Common,Elf
-4,Creature,Rare,Snow Warrior Fairy
-5,Creature,Rare,Light Merchant Hydra
-6,Creature,Legendary,Frozen Queen Kraken of the Golden Palace
-7,Creature,Rare,Aura Queen Fairy
-8,Spell,Common,Pandemonium
-9,Creature,Rare,Light Fighter Minotaur
-10,Artifact,Legendary,Extreme Sword
-11,Creature,Common,Elf
-12,Spell,Legendary,Mighty Sorrow
-13,Artifact,Rare,Nimble Bow
-14,Enchantment,Common,Shade
-15,Artifact,Rare,Grim Belt
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Spider
-18,Creature,Common,Wolf
-19,Creature,Legendary,Aura Fighter Kraken of the Eternal Land
-20,Spell,Rare,Miracle Maelstrom
-21,Creature,Mythic,Earth Ancient Wizard of the Shadows
-22,Creature,Common,Wolf
-23,Enchantment,Common,Haste
-24,Creature,Common,Elf
-25,Creature,Common,Goblin
-26,Enchantment,Common,Lethargy
-27,Spell,Common,Assault
-28,Creature,Common,Goblin
-29,Artifact,Rare,Nature Helm
-30,Creature,Legendary,Dark Lord Cyclops of the Swamp
-31,Spell,Legendary,Urgent Burn
-32,Creature,Mythic,Frozen Time Dragon of the Void
-33,Creature,Rare,Death Undead Berserker
-34,Enchantment,Common,Blight
-35,Enchantment,Mythic,Instant Shrink
-36,Creature,Rare,Death Undead Fairy
-37,Creature,Common,Orc
-38,Creature,Common,Wolf
-39,Spell,Common,Freeze
-40,Creature,Mythic,Earth Undead Phoenix of the Shadows
-41,Enchantment,Mythic,Clever Alacrity
-42,Creature,Common,Dwarf
-43,Creature,Common,Wolf
-44,Spell,Common,Rage
+==================,DECK,7673
+0,Creature,Warlock
+1,Creature,Fairy
+2,Creature,Earth Rogue Ogre of the Black Stone
+3,Creature,Warlock
+4,Creature,Snow Warrior Kraken
+5,Creature,Light Merchant Hydra
+6,Creature,Frozen Queen Ogre of the Golden Palace
+7,Creature,Aura Queen Kraken
+8,Spell,Reanimate
+9,Creature,Light Fighter Cyclops
+10,Artifact,Potent Chimeric Sword
+11,Creature,Warlock
+12,Spell,Potent Lunar Stricken
+13,Artifact,Solar Bow
+14,Enchantment,Flight
+15,Artifact,Life Belt
+16,Enchantment,Drain
+17,Creature,Paladin
+18,Creature,Wolf
+19,Creature,Aura Fighter Ogre of the Eternal Land
+20,Spell,Frigid Fire
+21,Creature,Earth Ancient Wizard of the Shadows
+22,Creature,Wolf
+23,Enchantment,Agony
+24,Creature,Warlock
+25,Creature,Skin-Walker
+26,Enchantment,Drain
+27,Spell,Freeze
+28,Creature,Skin-Walker
+29,Artifact,Shimmering Helm
+30,Creature,Dark Lord Giant of the Swamp
+31,Spell,Zealous Hateful Heal
+32,Creature,Frozen Time Dragon of the Void
+33,Creature,Death Undead Goblin
+34,Enchantment,Flight
+35,Enchantment,Empyrean Necro Age
+36,Creature,Death Undead Kraken
+37,Creature,Spider
+38,Creature,Wolf
+39,Spell,Stricken
+40,Creature,Earth Undead Phoenix of the Shadows
+41,Enchantment,Urgent Apocalypse Invert
+42,Creature,Magi
+43,Creature,Wolf
+44,Spell,Ice

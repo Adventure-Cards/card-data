@@ -1,46 +1,46 @@
-==================,DECK,5242,Light
-0,Enchantment,Common,Shrink
-1,Enchantment,Common,Shade
-2,Creature,Common,Elf
-3,Enchantment,Mythic,Extreme Deathgrip
-4,Enchantment,Common,Shade
-5,Spell,Rare,Cataclysmic Fury
-6,Enchantment,Common,Blight
-7,Enchantment,Common,Deathgrip
-8,Spell,Common,Gale
-9,Creature,Common,Spider
-10,Creature,Common,Orc
-11,Creature,Common,Ghoul
-12,Spell,Rare,Cataclysmic Ice
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Ghoul
-15,Creature,Common,Wolf
-16,Creature,Rare,Death Knight Skin-Walker
-17,Creature,Mythic,Frozen Grand Demon of the Void
-18,Artifact,Common,Potion
-19,Creature,Rare,Light Knight Fairy
-20,Creature,Rare,Frozen Merchant Hydra
-21,Creature,Common,Elf
-22,Creature,Mythic,Frozen Undead Dragon of the Void
-23,Creature,Common,Elf
-24,Creature,Common,Wolf
-25,Artifact,Common,Divine Robe
-26,Creature,Common,Warlock
-27,Creature,Common,Spider
-28,Creature,Common,Magi
-29,Artifact,Common,Gauntlet
-30,Spell,Legendary,Angry Pandemonium
-31,Creature,Common,Goblin
-32,Creature,Common,Ghoul
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Orc
-35,Creature,Rare,Death Warrior Skin-Walker
-36,Enchantment,Common,Invert
-37,Creature,Common,Paladin
-38,Creature,Rare,Dark Knight Griffin
-39,Enchantment,Mythic,Instant Agony
-40,Spell,Common,Invisibility
-41,Creature,Rare,Snow Priest Minotaur
-42,Creature,Common,Goblin
-43,Spell,Common,Lightning
-44,Enchantment,Rare,Life Deathgrip
+==================,DECK,5242
+0,Enchantment,Invert
+1,Enchantment,Agony
+2,Creature,Warlock
+3,Enchantment,Zealous Sorrow Alacrity
+4,Enchantment,Strength
+5,Spell,Chimeric Assault
+6,Enchantment,Flight
+7,Enchantment,Lethargy
+8,Spell,Gale
+9,Creature,Paladin
+10,Creature,Spider
+11,Creature,Ghoul
+12,Spell,Lunar Reanimate
+13,Enchantment,Haste
+14,Creature,Ghoul
+15,Creature,Wolf
+16,Creature,Death Knight Orc
+17,Creature,Frozen Grand Demon of the Void
+18,Artifact,Potion
+19,Creature,Light Knight Kraken
+20,Creature,Frozen Merchant Hydra
+21,Creature,Warlock
+22,Creature,Frozen Undead Dragon of the Void
+23,Creature,Warlock
+24,Creature,Wolf
+25,Artifact,Divine Robe
+26,Creature,Berserker
+27,Creature,Paladin
+28,Creature,Fairy
+29,Artifact,Gauntlet
+30,Spell,Clever Gloom Frenzy
+31,Creature,Skin-Walker
+32,Creature,Ghoul
+33,Artifact,Divine Robe
+34,Creature,Spider
+35,Creature,Death Warrior Orc
+36,Enchantment,Strength
+37,Creature,Troll
+38,Creature,Dark Knight Griffin
+39,Enchantment,Instant Corpse Strength
+40,Spell,Wall
+41,Creature,Snow Priest Cyclops
+42,Creature,Skin-Walker
+43,Spell,Freeze
+44,Enchantment,Oblivion Haste

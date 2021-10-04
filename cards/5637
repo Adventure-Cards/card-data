@@ -1,46 +1,46 @@
-==================,DECK,5637,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Paladin
-2,Spell,Legendary,Extreme Infuriate
-3,Creature,Rare,Frozen Priest Griffin
-4,Enchantment,Legendary,Dire Shrink
-5,Creature,Common,Warlock
-6,Artifact,Rare,Lunar Belt
-7,Spell,Common,Frost
-8,Creature,Common,Spider
-9,Spell,Legendary,Intense Heal
-10,Creature,Common,Dwarf
-11,Creature,Legendary,Light Knight Orge of the Border
-12,Creature,Rare,Aura Monk Skin-Walker
-13,Artifact,Common,Gloves
-14,Creature,Common,Dwarf
-15,Creature,Common,Ghoul
-16,Enchantment,Rare,Grim Alacrity
-17,Spell,Common,Ice
-18,Creature,Common,Goblin
-19,Creature,Common,Magi
-20,Spell,Common,Lightning
-21,Spell,Common,Gravitation
-22,Enchantment,Legendary,Clever Alacrity
-23,Creature,Common,Eagle
-24,Creature,Common,Paladin
-25,Spell,Common,Ice
-26,Artifact,Rare,Gloom Scythe
-27,Enchantment,Common,Blight
-28,Spell,Rare,Nimble Heal
-29,Artifact,Common,Helmet
-30,Creature,Common,Magi
-31,Creature,Legendary,Dark Assassin Orge of the Bright Mountains
-32,Enchantment,Common,Blight
-33,Enchantment,Rare,Frigid Strength
-34,Creature,Legendary,Aura Merchant Kraken of the Magical Forest
-35,Enchantment,Mythic,Intense Age
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Creature,Common,Wolf
-39,Artifact,Common,Bracers
-40,Enchantment,Common,Deathgrip
-41,Creature,Common,Ghoul
-42,Spell,Common,Ice
-43,Spell,Common,Gale
-44,Creature,Rare,Snow Monk Berserker
+==================,DECK,5637
+0,Creature,Eagle
+1,Creature,Troll
+2,Spell,Mighty Gloom Tempest
+3,Creature,Frozen Priest Griffin
+4,Enchantment,Mighty Frigid Invert
+5,Creature,Berserker
+6,Artifact,Dark Belt
+7,Spell,Burn
+8,Creature,Paladin
+9,Spell,Dire Forged Infuriate
+10,Creature,Magi
+11,Creature,Light Knight Elf of the Border
+12,Creature,Aura Monk Orc
+13,Artifact,Gloves
+14,Creature,Magi
+15,Creature,Ghoul
+16,Enchantment,Apocalypse Invert
+17,Spell,Invisibility
+18,Creature,Skin-Walker
+19,Creature,Fairy
+20,Spell,Fireball
+21,Spell,Revive
+22,Enchantment,Irate Apocalypse Blight
+23,Creature,Eagle
+24,Creature,Troll
+25,Spell,Invisibility
+26,Artifact,Sorrow Scythe
+27,Enchantment,Firebreath
+28,Spell,Nature Fireball
+29,Artifact,Helmet
+30,Creature,Fairy
+31,Creature,Dark Assassin Elf of the Bright Mountains
+32,Enchantment,Flight
+33,Enchantment,Nimble Shade
+34,Creature,Aura Merchant Ogre of the Magical Forest
+35,Enchantment,Clever Nature Lethargy
+36,Creature,Wolf
+37,Creature,Berserker
+38,Creature,Wolf
+39,Artifact,Bracers
+40,Enchantment,Shade
+41,Creature,Ghoul
+42,Spell,Fury
+43,Spell,Fury
+44,Creature,Snow Monk Goblin

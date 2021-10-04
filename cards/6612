@@ -1,46 +1,46 @@
-==================,DECK,6612,Strong
-0,Enchantment,Common,Flight
-1,Artifact,Rare,Life Sword
-2,Creature,Legendary,Dark Undead Dragon of Illusion
-3,Creature,Mythic,Earth Ancient Wizard of the Shadows
-4,Spell,Common,Fury
-5,Artifact,Rare,Solar Bracers
-6,Creature,Mythic,Snow Time Dragon of Hate
-7,Creature,Common,Wolf
-8,Enchantment,Common,Flight
-9,Creature,Rare,Death Rogue Griffin
-10,Creature,Rare,Frozen Lord Minotaur
-11,Artifact,Rare,Nimble Scythe
-12,Creature,Common,Spider
-13,Spell,Legendary,Instant Frenzy
-14,Spell,Common,Gravitation
-15,Creature,Rare,Snow Merchant Griffin
-16,Enchantment,Rare,Forged Invert
-17,Spell,Legendary,Extreme Sorrow
-18,Creature,Common,Wolf
-19,Creature,Common,Dwarf
-20,Spell,Rare,Shimmering Fury
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Dwarf
-23,Spell,Rare,Lunar Stricken
-24,Creature,Rare,Light Queen Berserker
-25,Creature,Rare,Earth Queen Minotaur
-26,Enchantment,Mythic,Dire Flight
-27,Spell,Rare,Apocalypse Infuriate
-28,Creature,Rare,Light Priest Berserker
-29,Enchantment,Rare,Corpse Agony
-30,Creature,Common,Paladin
-31,Enchantment,Common,Flight
-32,Spell,Rare,Forged Gravitation
-33,Enchantment,Common,Invert
-34,Artifact,Legendary,Angry Staff
-35,Creature,Common,Goblin
-36,Creature,Rare,Light Fighter Hydra
-37,Creature,Rare,Frozen Assassin Hydra
-38,Creature,Common,Warlock
-39,Enchantment,Rare,Solar Shield
-40,Creature,Common,Spider
-41,Creature,Common,Eagle
-42,Artifact,Mythic,Clever Sword
-43,Creature,Common,Magi
-44,Creature,Common,Goblin
+==================,DECK,6612
+0,Enchantment,Strength
+1,Artifact,Frigid Sword
+2,Creature,Dark Undead Dragon of Illusion
+3,Creature,Earth Ancient Wizard of the Shadows
+4,Spell,Heal
+5,Artifact,Nature Bracers
+6,Creature,Snow Time Dragon of Hate
+7,Creature,Wolf
+8,Enchantment,Strength
+9,Creature,Death Rogue Griffin
+10,Creature,Frozen Lord Cyclops
+11,Artifact,Forged Scythe
+12,Creature,Paladin
+13,Spell,Instant Shimmering Vortex
+14,Spell,Wall
+15,Creature,Snow Merchant Griffin
+16,Enchantment,Sorrow Alacrity
+17,Spell,Empyrean Chimeric Gale
+18,Creature,Wolf
+19,Creature,Magi
+20,Spell,Shimmering Vortex
+21,Enchantment,Haste
+22,Creature,Magi
+23,Spell,Sorrow Wall
+24,Creature,Light Queen Goblin
+25,Creature,Earth Queen Cyclops
+26,Enchantment,Zealous Grim Blight
+27,Spell,Oblivion Gravitation
+28,Creature,Light Priest Goblin
+29,Enchantment,Corpse Agony
+30,Creature,Troll
+31,Enchantment,Strength
+32,Spell,Cataclysmic Revive
+33,Enchantment,Haste
+34,Artifact,Irate Chimeric Staff
+35,Creature,Skin-Walker
+36,Creature,Light Fighter Hydra
+37,Creature,Frozen Assassin Hydra
+38,Creature,Berserker
+39,Enchantment,Nature Lethargy
+40,Creature,Paladin
+41,Creature,Eagle
+42,Artifact,Potent Frigid Sword
+43,Creature,Fairy
+44,Creature,Skin-Walker

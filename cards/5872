@@ -1,46 +1,46 @@
-==================,DECK,5872,Medium
-0,Spell,Common,Sorrow
-1,Creature,Rare,Earth King Hydra
-2,Creature,Mythic,Aura Time Dragon of the Light
-3,Artifact,Common,Staff
-4,Creature,Legendary,Death Assassin Oni of the Low Hills
-5,Artifact,Common,Tome
-6,Creature,Rare,Earth Rogue Hydra
-7,Spell,Common,Maelstrom
-8,Spell,Legendary,Angry Burst
-9,Enchantment,Mythic,Dire Shield
-10,Spell,Common,Heal
-11,Creature,Common,Magi
-12,Artifact,Rare,Nature Gloves
-13,Creature,Common,Eagle
-14,Spell,Legendary,Intense Maelstrom
-15,Spell,Common,Fury
-16,Creature,Common,Goblin
-17,Creature,Common,Magi
-18,Spell,Common,Stun
-19,Spell,Rare,Miracle Burst
-20,Creature,Common,Paladin
-21,Creature,Rare,Snow Rogue Minotaur
-22,Creature,Rare,Snow Monk Skin-Walker
-23,Spell,Common,Rage
-24,Artifact,Common,Tome
-25,Creature,Rare,Light Assassin Berserker
-26,Creature,Common,Ghoul
-27,Creature,Common,Spider
-28,Artifact,Rare,Lunar Cloak
-29,Creature,Mythic,Earth Undead Dragon of the Shadows
-30,Enchantment,Legendary,Urgent Agony
-31,Enchantment,Legendary,Potent Haste
-32,Creature,Common,Wolf
-33,Creature,Common,Goblin
-34,Creature,Mythic,Aura Time Phoenix of the Light
-35,Creature,Common,Magi
-36,Creature,Legendary,Death Priest Oni of the Border
-37,Creature,Rare,Snow Fighter Hydra
-38,Spell,Common,Stun
-39,Enchantment,Legendary,Urgent Drain
-40,Spell,Common,Frenzy
-41,Creature,Common,Paladin
-42,Spell,Common,Reanimate
-43,Creature,Legendary,Earth Queen Oni of the Plains
-44,Spell,Legendary,Instant Invisibility
+==================,DECK,5872
+0,Spell,Torment
+1,Creature,Earth King Hydra
+2,Creature,Aura Time Dragon of the Light
+3,Artifact,Staff
+4,Creature,Death Assassin Oni of the Low Hills
+5,Artifact,Tome
+6,Creature,Earth Rogue Hydra
+7,Spell,Freeze
+8,Spell,Mighty Chimeric Infuriate
+9,Enchantment,Irate Victory Blight
+10,Spell,Invisibility
+11,Creature,Fairy
+12,Artifact,Solar Gloves
+13,Creature,Eagle
+14,Spell,Mighty Hateful Fireball
+15,Spell,Maelstrom
+16,Creature,Skin-Walker
+17,Creature,Fairy
+18,Spell,Gale
+19,Spell,Frigid Burn
+20,Creature,Troll
+21,Creature,Snow Rogue Cyclops
+22,Creature,Snow Monk Orc
+23,Spell,Heal
+24,Artifact,Tome
+25,Creature,Light Assassin Goblin
+26,Creature,Ghoul
+27,Creature,Paladin
+28,Artifact,Gloom Cloak
+29,Creature,Earth Undead Dragon of the Shadows
+30,Enchantment,Irate Corpse Deathgrip
+31,Enchantment,Mighty Life Invert
+32,Creature,Wolf
+33,Creature,Skin-Walker
+34,Creature,Aura Time Phoenix of the Light
+35,Creature,Fairy
+36,Creature,Death Priest Oni of the Border
+37,Creature,Snow Fighter Hydra
+38,Spell,Invisibility
+39,Enchantment,Zealous Forged Deathgrip
+40,Spell,Ice
+41,Creature,Troll
+42,Spell,Wall
+43,Creature,Earth Queen Oni of the Plains
+44,Spell,Ardent Forged Stun

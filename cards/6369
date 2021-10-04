@@ -1,46 +1,46 @@
-==================,DECK,6369,Light
-0,Spell,Common,Gravitation
-1,Enchantment,Common,Invert
-2,Enchantment,Rare,Corpse Shield
-3,Creature,Rare,Snow Knight Griffin
-4,Enchantment,Common,Strength
-5,Enchantment,Common,Haste
-6,Artifact,Legendary,Dire Sigil
-7,Creature,Common,Ghoul
-8,Creature,Legendary,Light Merchant Oni of the Swamp
-9,Creature,Rare,Death Merchant Griffin
-10,Creature,Rare,Frozen Priest Griffin
-11,Creature,Mythic,Dark Grand Wizard of Illusion
-12,Creature,Common,Orc
-13,Enchantment,Common,Agony
-14,Creature,Common,Warlock
-15,Artifact,Common,Scythe
-16,Enchantment,Legendary,Clever Alacrity
-17,Creature,Common,Spider
-18,Spell,Rare,Oblivion Frenzy
-19,Spell,Common,Heal
-20,Creature,Rare,Death Assassin Minotaur
-21,Spell,Common,Assault
-22,Spell,Common,Fury
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Stun
-25,Spell,Common,Torment
-26,Creature,Legendary,Light Monk Kraken of the West
-27,Spell,Rare,Solar Torment
-28,Enchantment,Common,Blight
-29,Creature,Mythic,Earth Ancient Demon of the Shadows
-30,Enchantment,Common,Invert
-31,Enchantment,Common,Strength
-32,Creature,Common,Paladin
-33,Creature,Common,Warlock
-34,Creature,Rare,Snow Priest Fairy
-35,Creature,Rare,Snow Knight Berserker
-36,Creature,Common,Ghoul
-37,Creature,Common,Warlock
-38,Spell,Legendary,Mighty Assault
-39,Creature,Legendary,Frozen Thief Cyclops of the Golden Palace
-40,Creature,Legendary,Aura Undead Orge of the Golden Palace
-41,Creature,Common,Magi
-42,Creature,Common,Eagle
-43,Spell,Rare,Oblivion Torment
-44,Artifact,Legendary,Instant Divine Robe
+==================,DECK,6369
+0,Spell,Assault
+1,Enchantment,Shrink
+2,Enchantment,Nature Age
+3,Creature,Snow Knight Griffin
+4,Enchantment,Shade
+5,Enchantment,Haste
+6,Artifact,Mighty Oblivion Sigil
+7,Creature,Ghoul
+8,Creature,Light Merchant Oni of the Swamp
+9,Creature,Death Merchant Griffin
+10,Creature,Frozen Priest Griffin
+11,Creature,Dark Grand Wizard of Illusion
+12,Creature,Spider
+13,Enchantment,Age
+14,Creature,Berserker
+15,Artifact,Scythe
+16,Enchantment,Ardent Apocalypse Haste
+17,Creature,Paladin
+18,Spell,Nimble Stricken
+19,Spell,Lightning
+20,Creature,Death Assassin Cyclops
+21,Spell,Freeze
+22,Spell,Revive
+23,Enchantment,Shade
+24,Spell,Stun
+25,Spell,Frenzy
+26,Creature,Light Monk Ogre of the West
+27,Spell,Hateful Maelstrom
+28,Enchantment,Invert
+29,Creature,Earth Ancient Demon of the Shadows
+30,Enchantment,Blight
+31,Enchantment,Age
+32,Creature,Troll
+33,Creature,Berserker
+34,Creature,Snow Priest Kraken
+35,Creature,Snow Knight Goblin
+36,Creature,Ghoul
+37,Creature,Berserker
+38,Spell,Ardent Lunar Maelstrom
+39,Creature,Frozen Thief Giant of the Golden Palace
+40,Creature,Aura Undead Elf of the Golden Palace
+41,Creature,Fairy
+42,Creature,Eagle
+43,Spell,Frigid Rage
+44,Artifact,Potent Shimmering Divine Robe

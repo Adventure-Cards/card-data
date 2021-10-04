@@ -1,46 +1,46 @@
-==================,DECK,4355,Medium
-0,Enchantment,Common,Haste
-1,Spell,Common,Burn
-2,Creature,Rare,Snow Assassin Berserker
-3,Enchantment,Common,Shade
-4,Enchantment,Common,Flight
-5,Creature,Legendary,Snow Priest Oni of the Eternal Land
-6,Creature,Common,Goblin
-7,Creature,Common,Dwarf
-8,Enchantment,Legendary,Intense Shrink
-9,Creature,Mythic,Snow Grand Demon of Hate
-10,Enchantment,Common,Age
-11,Enchantment,Common,Lethargy
-12,Creature,Common,Orc
-13,Creature,Common,Dwarf
-14,Creature,Common,Paladin
-15,Enchantment,Common,Invert
-16,Enchantment,Common,Shade
-17,Artifact,Common,Tome
-18,Creature,Common,Paladin
-19,Enchantment,Rare,Miracle Deathgrip
-20,Creature,Common,Ghoul
-21,Enchantment,Mythic,Angry Blight
-22,Creature,Common,Wolf
-23,Spell,Rare,Miracle Ice
-24,Spell,Common,Infuriate
-25,Enchantment,Mythic,Potent Age
-26,Creature,Mythic,Dark Grand Demon of Illusion
-27,Creature,Common,Dwarf
-28,Artifact,Common,Helmet
-29,Creature,Common,Dwarf
-30,Creature,Rare,Dark Priest Minotaur
-31,Creature,Common,Paladin
-32,Enchantment,Rare,Necro Drain
-33,Creature,Common,Magi
-34,Enchantment,Common,Flight
-35,Spell,Common,Reanimate
-36,Creature,Rare,Dark Priest Fairy
-37,Creature,Rare,Frozen Merchant Griffin
-38,Creature,Common,Spider
-39,Artifact,Common,Sword
-40,Creature,Common,Warlock
-41,Enchantment,Common,Alacrity
-42,Spell,Common,Pandemonium
-43,Creature,Legendary,Earth Priest Cyclops of the Mountains
-44,Creature,Common,Wolf
+==================,DECK,4355
+0,Enchantment,Agony
+1,Spell,Infuriate
+2,Creature,Snow Assassin Goblin
+3,Enchantment,Agony
+4,Enchantment,Shade
+5,Creature,Snow Priest Oni of the Eternal Land
+6,Creature,Skin-Walker
+7,Creature,Magi
+8,Enchantment,Zealous Necro Deathgrip
+9,Creature,Snow Grand Demon of Hate
+10,Enchantment,Age
+11,Enchantment,Shrink
+12,Creature,Spider
+13,Creature,Magi
+14,Creature,Troll
+15,Enchantment,Blight
+16,Enchantment,Deathgrip
+17,Artifact,Tome
+18,Creature,Troll
+19,Enchantment,Oblivion Haste
+20,Creature,Ghoul
+21,Enchantment,Potent Cataclysmic Shrink
+22,Creature,Wolf
+23,Spell,Apocalypse Gale
+24,Spell,Invisibility
+25,Enchantment,Clever Victory Haste
+26,Creature,Dark Grand Demon of Illusion
+27,Creature,Magi
+28,Artifact,Helmet
+29,Creature,Magi
+30,Creature,Dark Priest Cyclops
+31,Creature,Troll
+32,Enchantment,Forged Strength
+33,Creature,Fairy
+34,Enchantment,Deathgrip
+35,Spell,Maelstrom
+36,Creature,Dark Priest Kraken
+37,Creature,Frozen Merchant Griffin
+38,Creature,Paladin
+39,Artifact,Sword
+40,Creature,Berserker
+41,Enchantment,Shrink
+42,Spell,Sorrow
+43,Creature,Earth Priest Giant of the Mountains
+44,Creature,Wolf

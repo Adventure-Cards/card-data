@@ -1,46 +1,46 @@
-==================,DECK,6712,Light
-0,Creature,Common,Elf
-1,Spell,Common,Ice
-2,Creature,Common,Wolf
-3,Spell,Legendary,Angry Hypnosis
-4,Spell,Legendary,Instant Wall
-5,Creature,Rare,Dark Lord Skin-Walker
-6,Enchantment,Common,Haste
-7,Creature,Rare,Death Queen Hydra
-8,Creature,Common,Eagle
-9,Enchantment,Common,Blight
-10,Creature,Common,Elf
-11,Enchantment,Rare,Life Haste
-12,Artifact,Rare,Forged Greaves
-13,Creature,Common,Spider
-14,Creature,Common,Orc
-15,Enchantment,Common,Drain
-16,Creature,Legendary,Snow Assassin Kraken of the Polar Woods
-17,Creature,Common,Magi
-18,Spell,Rare,Gloom Freeze
-19,Artifact,Common,Tome
-20,Creature,Common,Dwarf
-21,Creature,Common,Ghoul
-22,Creature,Rare,Dark Merchant Fairy
-23,Spell,Common,Hypnosis
-24,Creature,Common,Magi
-25,Enchantment,Common,Shield
-26,Spell,Common,Torment
-27,Artifact,Common,Helm
-28,Enchantment,Common,Agony
-29,Artifact,Common,Greaves
-30,Creature,Common,Orc
-31,Creature,Common,Dwarf
-32,Spell,Common,Vortex
-33,Enchantment,Common,Flight
-34,Enchantment,Common,Drain
-35,Enchantment,Common,Deathgrip
-36,Spell,Legendary,Potent Invisibility
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Shrink
-39,Creature,Common,Magi
-40,Creature,Common,Wolf
-41,Creature,Rare,Aura Monk Skin-Walker
-42,Creature,Legendary,Death Undead Orge of the Black Stone
-43,Enchantment,Common,Alacrity
-44,Spell,Common,Ice
+==================,DECK,6712
+0,Creature,Warlock
+1,Spell,Torment
+2,Creature,Wolf
+3,Spell,Potent Lunar Frenzy
+4,Spell,Instant Forged Frost
+5,Creature,Dark Lord Orc
+6,Enchantment,Strength
+7,Creature,Death Queen Hydra
+8,Creature,Eagle
+9,Enchantment,Agony
+10,Creature,Warlock
+11,Enchantment,Life Shade
+12,Artifact,Cataclysmic Greaves
+13,Creature,Paladin
+14,Creature,Spider
+15,Enchantment,Agony
+16,Creature,Snow Assassin Ogre of the Polar Woods
+17,Creature,Fairy
+18,Spell,Sorrow Revive
+19,Artifact,Tome
+20,Creature,Magi
+21,Creature,Ghoul
+22,Creature,Dark Merchant Kraken
+23,Spell,Fire
+24,Creature,Fairy
+25,Enchantment,Shield
+26,Spell,Lightning
+27,Artifact,Helm
+28,Enchantment,Flight
+29,Artifact,Greaves
+30,Creature,Spider
+31,Creature,Magi
+32,Spell,Vortex
+33,Enchantment,Shade
+34,Enchantment,Agony
+35,Enchantment,Haste
+36,Spell,Urgent Apocalypse Ice
+37,Creature,Magi
+38,Enchantment,Shade
+39,Creature,Fairy
+40,Creature,Wolf
+41,Creature,Aura Monk Orc
+42,Creature,Death Undead Elf of the Black Stone
+43,Enchantment,Shrink
+44,Spell,Pandemonium

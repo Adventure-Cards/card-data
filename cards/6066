@@ -1,46 +1,46 @@
-==================,DECK,6066,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Dwarf
-2,Spell,Common,Heal
-3,Creature,Common,Elf
-4,Creature,Rare,Light Warrior Minotaur
-5,Creature,Legendary,Snow Fighter Cyclops of the Arctic Blizzards
-6,Creature,Common,Warlock
-7,Spell,Common,Lightning
-8,Creature,Common,Warlock
-9,Creature,Common,Wolf
-10,Spell,Rare,Nimble Frost
-11,Creature,Common,Wolf
-12,Creature,Common,Orc
-13,Spell,Common,Frost
-14,Creature,Rare,Dark Knight Skin-Walker
-15,Creature,Common,Spider
-16,Enchantment,Rare,Miracle Flight
-17,Creature,Legendary,Dark Rogue Oni of the Swamp
-18,Enchantment,Common,Deathgrip
-19,Spell,Common,Maelstrom
-20,Creature,Common,Dwarf
-21,Spell,Rare,Frigid Revive
-22,Creature,Common,Elf
-23,Spell,Common,Invisibility
-24,Creature,Common,Elf
-25,Artifact,Rare,Oblivion Staff
-26,Enchantment,Rare,Gloom Invert
-27,Spell,Common,Sorrow
-28,Artifact,Rare,Gloom Belt
-29,Creature,Common,Elf
-30,Creature,Common,Elf
-31,Creature,Common,Orc
-32,Enchantment,Common,Agony
-33,Creature,Common,Ghoul
-34,Creature,Common,Paladin
-35,Creature,Rare,Death Assassin Hydra
-36,Creature,Common,Paladin
-37,Creature,Common,Goblin
-38,Creature,Common,Wolf
-39,Creature,Common,Spider
-40,Spell,Legendary,Potent Freeze
-41,Creature,Legendary,Snow Undead Kraken of the Eastern Skies
-42,Creature,Common,Goblin
-43,Enchantment,Common,Shrink
-44,Enchantment,Common,Alacrity
+==================,DECK,6066
+0,Creature,Skin-Walker
+1,Creature,Magi
+2,Spell,Vortex
+3,Creature,Warlock
+4,Creature,Light Warrior Cyclops
+5,Creature,Snow Fighter Giant of the Arctic Blizzards
+6,Creature,Berserker
+7,Spell,Ice
+8,Creature,Berserker
+9,Creature,Wolf
+10,Spell,Nature Burn
+11,Creature,Wolf
+12,Creature,Spider
+13,Spell,Frost
+14,Creature,Dark Knight Orc
+15,Creature,Paladin
+16,Enchantment,Grim Invert
+17,Creature,Dark Rogue Oni of the Swamp
+18,Enchantment,Lethargy
+19,Spell,Revive
+20,Creature,Magi
+21,Spell,Victory Frost
+22,Creature,Warlock
+23,Spell,Vortex
+24,Creature,Warlock
+25,Artifact,Nimble Staff
+26,Enchantment,Sorrow Shrink
+27,Spell,Pandemonium
+28,Artifact,Gloom Belt
+29,Creature,Warlock
+30,Creature,Warlock
+31,Creature,Spider
+32,Enchantment,Firebreath
+33,Creature,Ghoul
+34,Creature,Troll
+35,Creature,Death Assassin Hydra
+36,Creature,Troll
+37,Creature,Skin-Walker
+38,Creature,Wolf
+39,Creature,Paladin
+40,Spell,Irate Oblivion Lightning
+41,Creature,Snow Undead Ogre of the Eastern Skies
+42,Creature,Skin-Walker
+43,Enchantment,Shade
+44,Enchantment,Age

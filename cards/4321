@@ -1,46 +1,46 @@
-==================,DECK,4321,Light
-0,Creature,Rare,Aura Monk Fairy
-1,Enchantment,Common,Lethargy
-2,Creature,Rare,Snow Lord Berserker
-3,Artifact,Common,Staff
-4,Creature,Common,Warlock
-5,Enchantment,Common,Shade
-6,Enchantment,Common,Agony
-7,Creature,Common,Elf
-8,Creature,Common,Ghoul
-9,Creature,Common,Dwarf
-10,Creature,Common,Dwarf
-11,Enchantment,Rare,Shimmering Flight
-12,Artifact,Common,Divine Robe
-13,Spell,Legendary,Clever Torment
-14,Artifact,Common,Staff
-15,Creature,Rare,Snow Knight Fairy
-16,Creature,Rare,Snow Lord Skin-Walker
-17,Creature,Common,Orc
-18,Enchantment,Common,Strength
-19,Enchantment,Common,Flight
-20,Creature,Common,Orc
-21,Creature,Common,Elf
-22,Enchantment,Legendary,Angry Shrink
-23,Creature,Rare,Death Fighter Hydra
-24,Creature,Common,Eagle
-25,Creature,Rare,Earth Priest Berserker
-26,Enchantment,Common,Age
-27,Artifact,Legendary,Extreme Crown
-28,Spell,Common,Revive
-29,Spell,Common,Reanimate
-30,Artifact,Common,Staff
-31,Enchantment,Rare,Nature Age
-32,Enchantment,Rare,Cataclysmic Drain
-33,Creature,Common,Wolf
-34,Spell,Common,Reanimate
-35,Creature,Legendary,Earth Lord Kraken of the Frozen Castle
-36,Creature,Rare,Frozen Undead Fairy
-37,Creature,Common,Dwarf
-38,Creature,Rare,Dark Priest Hydra
-39,Creature,Legendary,Dark Warrior Kraken of the Border
-40,Creature,Common,Goblin
-41,Artifact,Common,Sigil
-42,Creature,Common,Eagle
-43,Spell,Common,Sorrow
-44,Enchantment,Common,Drain
+==================,DECK,4321
+0,Creature,Aura Monk Kraken
+1,Enchantment,Firebreath
+2,Creature,Snow Lord Goblin
+3,Artifact,Staff
+4,Creature,Berserker
+5,Enchantment,Shade
+6,Enchantment,Blight
+7,Creature,Warlock
+8,Creature,Ghoul
+9,Creature,Magi
+10,Creature,Magi
+11,Enchantment,Hateful Age
+12,Artifact,Divine Robe
+13,Spell,Ardent Life Invisibility
+14,Artifact,Staff
+15,Creature,Snow Knight Kraken
+16,Creature,Snow Lord Orc
+17,Creature,Spider
+18,Enchantment,Haste
+19,Enchantment,Shield
+20,Creature,Spider
+21,Creature,Warlock
+22,Enchantment,Potent Chimeric Shrink
+23,Creature,Death Fighter Hydra
+24,Creature,Eagle
+25,Creature,Earth Priest Goblin
+26,Enchantment,Shield
+27,Artifact,Irate Miracle Crown
+28,Spell,Pandemonium
+29,Spell,Revive
+30,Artifact,Staff
+31,Enchantment,Nature Age
+32,Enchantment,Dark Alacrity
+33,Creature,Wolf
+34,Spell,Ice
+35,Creature,Earth Lord Ogre of the Frozen Castle
+36,Creature,Frozen Undead Kraken
+37,Creature,Magi
+38,Creature,Dark Priest Hydra
+39,Creature,Dark Warrior Ogre of the Border
+40,Creature,Skin-Walker
+41,Artifact,Sigil
+42,Creature,Eagle
+43,Spell,Revive
+44,Enchantment,Strength

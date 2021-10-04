@@ -1,46 +1,46 @@
-==================,DECK,5169,Medium
-0,Enchantment,Common,Alacrity
-1,Enchantment,Rare,Miracle Blight
-2,Artifact,Rare,Nature Bow
-3,Creature,Rare,Dark Priest Skin-Walker
-4,Creature,Rare,Death Monk Minotaur
-5,Creature,Common,Ghoul
-6,Creature,Common,Paladin
-7,Enchantment,Common,Shrink
-8,Creature,Common,Spider
-9,Creature,Common,Magi
-10,Creature,Common,Spider
-11,Spell,Common,Pandemonium
-12,Creature,Common,Ghoul
-13,Creature,Common,Warlock
-14,Creature,Common,Paladin
-15,Spell,Common,Frost
-16,Enchantment,Common,Blight
-17,Spell,Common,Heal
-18,Artifact,Rare,Hateful Bow
-19,Enchantment,Rare,Necro Haste
-20,Artifact,Common,Tome
-21,Enchantment,Rare,Shimmering Shrink
-22,Artifact,Common,Belt
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Age
-25,Spell,Mythic,Urgent Invisibility
-26,Creature,Rare,Light Queen Hydra
-27,Artifact,Rare,Cataclysmic Helm
-28,Artifact,Common,Ghost Wand
-29,Creature,Legendary,Death Assassin Cyclops of the Eternal Land
-30,Creature,Common,Elf
-31,Creature,Common,Orc
-32,Enchantment,Mythic,Angry Blight
-33,Enchantment,Common,Flight
-34,Spell,Common,Frost
-35,Spell,Common,Reanimate
-36,Spell,Common,Frost
-37,Spell,Mythic,Instant Reanimate
-38,Spell,Rare,Dark Frenzy
-39,Enchantment,Rare,Dark Strength
-40,Creature,Common,Goblin
-41,Creature,Legendary,Frozen Thief Kraken of the Haven
-42,Creature,Common,Eagle
-43,Creature,Rare,Frozen Warrior Skin-Walker
-44,Creature,Common,Wolf
+==================,DECK,5169
+0,Enchantment,Strength
+1,Enchantment,Nimble Haste
+2,Artifact,Corpse Bow
+3,Creature,Dark Priest Orc
+4,Creature,Death Monk Cyclops
+5,Creature,Ghoul
+6,Creature,Troll
+7,Enchantment,Invert
+8,Creature,Paladin
+9,Creature,Fairy
+10,Creature,Paladin
+11,Spell,Burn
+12,Creature,Ghoul
+13,Creature,Berserker
+14,Creature,Troll
+15,Spell,Lightning
+16,Enchantment,Deathgrip
+17,Spell,Sorrow
+18,Artifact,Chimeric Bow
+19,Enchantment,Corpse Age
+20,Artifact,Tome
+21,Enchantment,Necro Deathgrip
+22,Artifact,Belt
+23,Creature,Magi
+24,Enchantment,Age
+25,Spell,Ardent Solar Wall
+26,Creature,Light Queen Hydra
+27,Artifact,Gloom Helm
+28,Artifact,Ghost Wand
+29,Creature,Death Assassin Giant of the Eternal Land
+30,Creature,Warlock
+31,Creature,Spider
+32,Enchantment,Empyrean Cataclysmic Firebreath
+33,Enchantment,Shrink
+34,Spell,Fireball
+35,Spell,Rage
+36,Spell,Maelstrom
+37,Spell,Clever Forged Maelstrom
+38,Spell,Sorrow Gravitation
+39,Enchantment,Cataclysmic Alacrity
+40,Creature,Skin-Walker
+41,Creature,Frozen Thief Ogre of the Haven
+42,Creature,Eagle
+43,Creature,Frozen Warrior Orc
+44,Creature,Wolf

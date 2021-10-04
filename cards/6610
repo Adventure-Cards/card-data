@@ -1,46 +1,46 @@
-==================,DECK,6610,Light
-0,Spell,Common,Stun
-1,Enchantment,Common,Flight
-2,Artifact,Rare,Miracle Pendant
-3,Creature,Common,Wolf
-4,Creature,Rare,Death Knight Berserker
-5,Enchantment,Legendary,Dire Shrink
-6,Creature,Common,Orc
-7,Creature,Common,Ghoul
-8,Enchantment,Common,Alacrity
-9,Spell,Rare,Dark Assault
-10,Creature,Common,Goblin
-11,Enchantment,Legendary,Urgent Blight
-12,Creature,Rare,Frozen Rogue Berserker
-13,Spell,Rare,Cataclysmic Sorrow
-14,Creature,Common,Goblin
-15,Creature,Common,Eagle
-16,Creature,Mythic,Dark Time Phoenix of Illusion
-17,Creature,Common,Dwarf
-18,Creature,Common,Warlock
-19,Spell,Legendary,Potent Revive
-20,Creature,Common,Warlock
-21,Spell,Common,Freeze
-22,Spell,Common,Stricken
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Creature,Common,Spider
-26,Creature,Common,Magi
-27,Spell,Common,Gravitation
-28,Spell,Rare,Grim Heal
-29,Enchantment,Common,Shrink
-30,Creature,Common,Elf
-31,Spell,Legendary,Mighty Burn
-32,Creature,Rare,Dark King Berserker
-33,Artifact,Legendary,Intense Helmet
-34,Spell,Rare,Nimble Vortex
-35,Creature,Mythic,Light Undead Phoenix of the Sky
-36,Enchantment,Common,Haste
-37,Spell,Common,Ice
-38,Creature,Common,Magi
-39,Spell,Rare,Dark Vortex
-40,Spell,Common,Rage
-41,Artifact,Common,Sword
-42,Enchantment,Common,Lethargy
-43,Spell,Common,Invisibility
-44,Creature,Common,Warlock
+==================,DECK,6610
+0,Spell,Fireball
+1,Enchantment,Invert
+2,Artifact,Nimble Pendant
+3,Creature,Wolf
+4,Creature,Death Knight Goblin
+5,Enchantment,Zealous Frigid Blight
+6,Creature,Spider
+7,Creature,Ghoul
+8,Enchantment,Deathgrip
+9,Spell,Cataclysmic Freeze
+10,Creature,Skin-Walker
+11,Enchantment,Empyrean Solar Age
+12,Creature,Frozen Rogue Goblin
+13,Spell,Lunar Assault
+14,Creature,Skin-Walker
+15,Creature,Eagle
+16,Creature,Dark Time Phoenix of Illusion
+17,Creature,Magi
+18,Creature,Berserker
+19,Spell,Urgent Nimble Gravitation
+20,Creature,Berserker
+21,Spell,Reanimate
+22,Spell,Infuriate
+23,Creature,Paladin
+24,Creature,Troll
+25,Creature,Paladin
+26,Creature,Fairy
+27,Spell,Revive
+28,Spell,Apocalypse Infuriate
+29,Enchantment,Drain
+30,Creature,Warlock
+31,Spell,Empyrean Miracle Gale
+32,Creature,Dark King Goblin
+33,Artifact,Zealous Solar Helmet
+34,Spell,Nature Gale
+35,Creature,Light Undead Phoenix of the Sky
+36,Enchantment,Blight
+37,Spell,Lightning
+38,Creature,Fairy
+39,Spell,Chimeric Sorrow
+40,Spell,Invisibility
+41,Artifact,Sword
+42,Enchantment,Haste
+43,Spell,Stricken
+44,Creature,Berserker

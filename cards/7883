@@ -1,46 +1,46 @@
-==================,DECK,7883,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Warlock
-2,Creature,Rare,Frozen Undead Hydra
-3,Creature,Common,Magi
-4,Artifact,Rare,Forged Scythe
-5,Creature,Common,Ghoul
-6,Creature,Common,Orc
-7,Enchantment,Legendary,Instant Shrink
-8,Enchantment,Common,Shrink
-9,Creature,Common,Elf
-10,Creature,Common,Wolf
-11,Artifact,Legendary,Potent Scepter
-12,Spell,Common,Stun
-13,Creature,Common,Magi
-14,Creature,Rare,Frozen Merchant Hydra
-15,Creature,Common,Orc
-16,Creature,Common,Paladin
-17,Creature,Common,Ghoul
-18,Creature,Common,Spider
-19,Creature,Common,Eagle
-20,Creature,Common,Orc
-21,Creature,Common,Elf
-22,Creature,Mythic,Dark Undead Phoenix of Illusion
-23,Enchantment,Rare,Apocalypse Shrink
-24,Creature,Common,Eagle
-25,Creature,Common,Orc
-26,Creature,Common,Magi
-27,Spell,Common,Ice
-28,Enchantment,Common,Strength
-29,Creature,Common,Paladin
-30,Creature,Rare,Snow Knight Griffin
-31,Creature,Common,Elf
-32,Spell,Common,Reanimate
-33,Spell,Rare,Solar Gravitation
-34,Spell,Common,Sorrow
-35,Enchantment,Legendary,Dire Deathgrip
-36,Creature,Rare,Death Lord Hydra
-37,Enchantment,Common,Shield
-38,Enchantment,Rare,Gloom Agony
-39,Creature,Rare,Death Knight Skin-Walker
-40,Spell,Common,Rage
-41,Creature,Legendary,Snow Lord Kraken of the West
-42,Enchantment,Common,Shield
-43,Artifact,Rare,Nimble Pendant
-44,Creature,Common,Wolf
+==================,DECK,7883
+0,Enchantment,Firebreath
+1,Creature,Berserker
+2,Creature,Frozen Undead Hydra
+3,Creature,Fairy
+4,Artifact,Lunar Scythe
+5,Creature,Ghoul
+6,Creature,Spider
+7,Enchantment,Zealous Necro Deathgrip
+8,Enchantment,Drain
+9,Creature,Warlock
+10,Creature,Wolf
+11,Artifact,Potent Victory Scepter
+12,Spell,Gale
+13,Creature,Fairy
+14,Creature,Frozen Merchant Hydra
+15,Creature,Spider
+16,Creature,Troll
+17,Creature,Ghoul
+18,Creature,Paladin
+19,Creature,Eagle
+20,Creature,Spider
+21,Creature,Warlock
+22,Creature,Dark Undead Phoenix of Illusion
+23,Enchantment,Frigid Invert
+24,Creature,Eagle
+25,Creature,Spider
+26,Creature,Fairy
+27,Spell,Frenzy
+28,Enchantment,Haste
+29,Creature,Troll
+30,Creature,Snow Knight Griffin
+31,Creature,Warlock
+32,Spell,Invisibility
+33,Spell,Shimmering Assault
+34,Spell,Stricken
+35,Enchantment,Clever Oblivion Haste
+36,Creature,Death Lord Hydra
+37,Enchantment,Age
+38,Enchantment,Miracle Shield
+39,Creature,Death Knight Orc
+40,Spell,Burn
+41,Creature,Snow Lord Ogre of the West
+42,Enchantment,Age
+43,Artifact,Solar Pendant
+44,Creature,Wolf

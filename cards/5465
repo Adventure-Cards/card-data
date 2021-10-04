@@ -1,46 +1,46 @@
-==================,DECK,5465,Medium
-0,Creature,Rare,Light Queen Fairy
-1,Creature,Common,Orc
-2,Creature,Common,Goblin
-3,Artifact,Legendary,Angry Scepter
-4,Creature,Legendary,Earth Undead Kraken of the Low Hills
-5,Spell,Rare,Solar Vortex
-6,Enchantment,Common,Blight
-7,Spell,Common,Maelstrom
-8,Creature,Rare,Dark Thief Fairy
-9,Spell,Common,Burst
-10,Enchantment,Rare,Miracle Blight
-11,Spell,Rare,Corpse Vortex
-12,Creature,Rare,Snow Priest Griffin
-13,Creature,Common,Warlock
-14,Creature,Common,Goblin
-15,Enchantment,Legendary,Angry Agony
-16,Creature,Common,Wolf
-17,Enchantment,Rare,Miracle Age
-18,Creature,Rare,Snow Monk Skin-Walker
-19,Creature,Common,Paladin
-20,Creature,Rare,Earth King Skin-Walker
-21,Creature,Common,Elf
-22,Enchantment,Mythic,Mighty Shade
-23,Artifact,Common,Amulet
-24,Enchantment,Common,Alacrity
-25,Creature,Legendary,Dark Thief Kraken of the Frozen Castle
-26,Spell,Rare,Life Burst
-27,Artifact,Common,Potion
-28,Creature,Common,Warlock
-29,Creature,Rare,Light Queen Minotaur
-30,Creature,Mythic,Snow Chaos Demon of Hate
-31,Enchantment,Common,Shrink
-32,Creature,Common,Ghoul
-33,Creature,Legendary,Death Thief Kraken of the Golden Palace
-34,Creature,Common,Magi
-35,Enchantment,Rare,Oblivion Alacrity
-36,Spell,Common,Assault
-37,Creature,Common,Eagle
-38,Creature,Common,Dwarf
-39,Spell,Legendary,Instant Lightning
-40,Creature,Common,Warlock
-41,Artifact,Common,Ghost Wand
-42,Artifact,Rare,Solar Gloves
-43,Enchantment,Common,Age
-44,Enchantment,Common,Deathgrip
+==================,DECK,5465
+0,Creature,Light Queen Kraken
+1,Creature,Spider
+2,Creature,Skin-Walker
+3,Artifact,Instant Dark Scepter
+4,Creature,Earth Undead Ogre of the Low Hills
+5,Spell,Nature Revive
+6,Enchantment,Flight
+7,Spell,Vortex
+8,Creature,Dark Thief Kraken
+9,Spell,Hypnosis
+10,Enchantment,Nimble Haste
+11,Spell,Forged Lightning
+12,Creature,Snow Priest Griffin
+13,Creature,Berserker
+14,Creature,Skin-Walker
+15,Enchantment,Dire Miracle Firebreath
+16,Creature,Wolf
+17,Enchantment,Victory Blight
+18,Creature,Snow Monk Orc
+19,Creature,Troll
+20,Creature,Earth King Orc
+21,Creature,Warlock
+22,Enchantment,Instant Chimeric Shrink
+23,Artifact,Amulet
+24,Enchantment,Strength
+25,Creature,Dark Thief Ogre of the Frozen Castle
+26,Spell,Grim Freeze
+27,Artifact,Potion
+28,Creature,Berserker
+29,Creature,Light Queen Cyclops
+30,Creature,Snow Chaos Demon of Hate
+31,Enchantment,Invert
+32,Creature,Ghoul
+33,Creature,Death Thief Ogre of the Golden Palace
+34,Creature,Fairy
+35,Enchantment,Apocalypse Invert
+36,Spell,Stun
+37,Creature,Eagle
+38,Creature,Magi
+39,Spell,Urgent Solar Ice
+40,Creature,Berserker
+41,Artifact,Ghost Wand
+42,Artifact,Hateful Gloves
+43,Enchantment,Alacrity
+44,Enchantment,Age

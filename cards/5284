@@ -1,46 +1,46 @@
-==================,DECK,5284,Light
-0,Creature,Rare,Frozen Warrior Fairy
-1,Enchantment,Legendary,Dire Haste
-2,Creature,Common,Warlock
-3,Artifact,Common,Sword
-4,Spell,Common,Heal
-5,Creature,Common,Eagle
-6,Enchantment,Rare,Nature Flight
-7,Creature,Common,Spider
-8,Artifact,Rare,Nature Ring
-9,Creature,Common,Spider
-10,Enchantment,Common,Alacrity
-11,Spell,Common,Stun
-12,Enchantment,Common,Agony
-13,Spell,Rare,Miracle Hypnosis
-14,Spell,Rare,Apocalypse Fury
-15,Enchantment,Mythic,Urgent Blight
-16,Spell,Common,Invisibility
-17,Creature,Legendary,Aura Knight Cyclops of the Swamp
-18,Creature,Common,Ghoul
-19,Spell,Common,Torment
-20,Creature,Common,Ghoul
-21,Artifact,Common,Staff
-22,Creature,Common,Warlock
-23,Artifact,Common,Scythe
-24,Artifact,Common,Bracers
-25,Creature,Rare,Death Merchant Fairy
-26,Creature,Common,Magi
-27,Spell,Common,Gravitation
-28,Artifact,Legendary,Extreme Bracers
-29,Spell,Common,Maelstrom
-30,Spell,Common,Burst
-31,Spell,Common,Lightning
-32,Enchantment,Common,Flight
-33,Artifact,Common,Gauntlet
-34,Creature,Rare,Earth Queen Griffin
-35,Creature,Common,Ghoul
-36,Spell,Common,Vortex
-37,Spell,Common,Gravitation
-38,Creature,Rare,Light Undead Minotaur
-39,Artifact,Rare,Necro Scepter
-40,Creature,Common,Wolf
-41,Creature,Common,Goblin
-42,Spell,Rare,Hateful Fury
-43,Spell,Legendary,Potent Reanimate
-44,Enchantment,Rare,Life Shrink
+==================,DECK,5284
+0,Creature,Frozen Warrior Kraken
+1,Enchantment,Mighty Life Invert
+2,Creature,Berserker
+3,Artifact,Sword
+4,Spell,Maelstrom
+5,Creature,Eagle
+6,Enchantment,Hateful Age
+7,Creature,Paladin
+8,Artifact,Forged Ring
+9,Creature,Paladin
+10,Enchantment,Shade
+11,Spell,Frost
+12,Enchantment,Shrink
+13,Spell,Apocalypse Lightning
+14,Spell,Victory Gale
+15,Enchantment,Mighty Solar Agony
+16,Spell,Tempest
+17,Creature,Aura Knight Giant of the Swamp
+18,Creature,Ghoul
+19,Spell,Assault
+20,Creature,Ghoul
+21,Artifact,Staff
+22,Creature,Berserker
+23,Artifact,Scythe
+24,Artifact,Bracers
+25,Creature,Death Merchant Kraken
+26,Creature,Fairy
+27,Spell,Sorrow
+28,Artifact,Irate Sorrow Bracers
+29,Spell,Invisibility
+30,Spell,Stun
+31,Spell,Rage
+32,Enchantment,Alacrity
+33,Artifact,Gauntlet
+34,Creature,Earth Queen Griffin
+35,Creature,Ghoul
+36,Spell,Fireball
+37,Spell,Hypnosis
+38,Creature,Light Undead Cyclops
+39,Artifact,Nature Scepter
+40,Creature,Wolf
+41,Creature,Skin-Walker
+42,Spell,Gloom Fire
+43,Spell,Clever Oblivion Torment
+44,Enchantment,Frigid Blight

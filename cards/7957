@@ -1,46 +1,46 @@
-==================,DECK,7957,Strong
-0,Artifact,Common,Staff
-1,Enchantment,Mythic,Clever Shrink
-2,Spell,Common,Rage
-3,Enchantment,Mythic,Extreme Blight
-4,Spell,Common,Wall
-5,Enchantment,Mythic,Potent Blight
-6,Spell,Rare,Corpse Vortex
-7,Creature,Rare,Light Warrior Minotaur
-8,Creature,Common,Orc
-9,Creature,Mythic,Frozen Grand Wizard of the Void
-10,Creature,Rare,Aura Fighter Fairy
-11,Enchantment,Rare,Nimble Agony
-12,Creature,Common,Warlock
-13,Spell,Rare,Life Maelstrom
-14,Spell,Common,Ice
-15,Artifact,Common,Ghost Wand
-16,Creature,Mythic,Snow Nameless Dragon of Hate
-17,Spell,Common,Infuriate
-18,Spell,Common,Burst
-19,Creature,Rare,Frozen Fighter Skin-Walker
-20,Creature,Common,Spider
-21,Artifact,Common,Cloak
-22,Enchantment,Common,Shrink
-23,Creature,Common,Goblin
-24,Creature,Legendary,Light Priest Cyclops of the Bright Mountains
-25,Creature,Legendary,Snow Lord Cyclops of the Golden Palace
-26,Enchantment,Common,Strength
-27,Spell,Common,Heal
-28,Enchantment,Rare,Corpse Alacrity
-29,Spell,Rare,Miracle Stun
-30,Spell,Rare,Nimble Invisibility
-31,Creature,Common,Eagle
-32,Creature,Rare,Light Rogue Griffin
-33,Creature,Common,Warlock
-34,Artifact,Legendary,Angry Divine Robe
-35,Creature,Legendary,Aura Undead Phoenix of the Light
-36,Artifact,Common,Sigil
-37,Creature,Rare,Earth Rogue Skin-Walker
-38,Spell,Common,Heal
-39,Creature,Common,Dwarf
-40,Spell,Legendary,Instant Frenzy
-41,Creature,Rare,Light Rogue Berserker
-42,Creature,Common,Ghoul
-43,Spell,Common,Sorrow
-44,Creature,Mythic,Snow Ancient Wizard of Hate
+==================,DECK,7957
+0,Artifact,Staff
+1,Enchantment,Clever Frigid Haste
+2,Spell,Tempest
+3,Enchantment,Clever Cataclysmic Shield
+4,Spell,Infuriate
+5,Enchantment,Clever Nimble Haste
+6,Spell,Nature Torment
+7,Creature,Light Warrior Cyclops
+8,Creature,Spider
+9,Creature,Frozen Grand Wizard of the Void
+10,Creature,Aura Fighter Kraken
+11,Enchantment,Corpse Strength
+12,Creature,Berserker
+13,Spell,Life Lightning
+14,Spell,Stun
+15,Artifact,Ghost Wand
+16,Creature,Snow Nameless Dragon of Hate
+17,Spell,Rage
+18,Spell,Revive
+19,Creature,Frozen Fighter Orc
+20,Creature,Paladin
+21,Artifact,Cloak
+22,Enchantment,Drain
+23,Creature,Skin-Walker
+24,Creature,Light Priest Giant of the Bright Mountains
+25,Creature,Snow Lord Giant of the Golden Palace
+26,Enchantment,Strength
+27,Spell,Torment
+28,Enchantment,Forged Age
+29,Spell,Oblivion Hypnosis
+30,Spell,Forged Stricken
+31,Creature,Eagle
+32,Creature,Light Rogue Griffin
+33,Creature,Berserker
+34,Artifact,Potent Lunar Divine Robe
+35,Creature,Aura Undead Phoenix of the Light
+36,Artifact,Sigil
+37,Creature,Earth Rogue Orc
+38,Spell,Hypnosis
+39,Creature,Magi
+40,Spell,Instant Hateful Stun
+41,Creature,Light Rogue Goblin
+42,Creature,Ghoul
+43,Spell,Heal
+44,Creature,Snow Ancient Wizard of Hate

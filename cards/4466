@@ -1,46 +1,46 @@
-==================,DECK,4466,Light
-0,Creature,Common,Elf
-1,Artifact,Common,Shield
-2,Creature,Rare,Frozen Queen Fairy
-3,Artifact,Legendary,Angry Ghost Wand
-4,Spell,Common,Hypnosis
-5,Creature,Legendary,Snow Lord Cyclops of the Haven
-6,Creature,Common,Dwarf
-7,Spell,Common,Reanimate
-8,Creature,Common,Dwarf
-9,Creature,Common,Dwarf
-10,Creature,Common,Spider
-11,Creature,Rare,Frozen Undead Hydra
-12,Creature,Rare,Dark Merchant Hydra
-13,Creature,Common,Paladin
-14,Spell,Common,Fury
-15,Spell,Common,Infuriate
-16,Spell,Common,Assault
-17,Enchantment,Common,Agony
-18,Creature,Common,Spider
-19,Spell,Common,Burst
-20,Creature,Common,Eagle
-21,Spell,Common,Frenzy
-22,Enchantment,Common,Shrink
-23,Creature,Common,Orc
-24,Creature,Common,Elf
-25,Creature,Common,Wolf
-26,Enchantment,Mythic,Clever Haste
-27,Enchantment,Rare,Frigid Shield
-28,Creature,Common,Eagle
-29,Artifact,Common,Helm
-30,Creature,Common,Elf
-31,Spell,Rare,Lunar Pandemonium
-32,Enchantment,Legendary,Potent Invert
-33,Creature,Mythic,Snow Nameless Phoenix of Hate
-34,Spell,Rare,Nimble Heal
-35,Enchantment,Common,Shrink
-36,Enchantment,Common,Deathgrip
-37,Spell,Common,Vortex
-38,Spell,Common,Revive
-39,Enchantment,Common,Alacrity
-40,Spell,Common,Frenzy
-41,Enchantment,Common,Invert
-42,Creature,Rare,Death Undead Griffin
-43,Creature,Common,Goblin
-44,Enchantment,Common,Haste
+==================,DECK,4466
+0,Creature,Warlock
+1,Artifact,Shield
+2,Creature,Frozen Queen Kraken
+3,Artifact,Mighty Sorrow Ghost Wand
+4,Spell,Fire
+5,Creature,Snow Lord Giant of the Haven
+6,Creature,Magi
+7,Spell,Freeze
+8,Creature,Magi
+9,Creature,Magi
+10,Creature,Paladin
+11,Creature,Frozen Undead Hydra
+12,Creature,Dark Merchant Hydra
+13,Creature,Troll
+14,Spell,Burst
+15,Spell,Heal
+16,Spell,Burst
+17,Enchantment,Strength
+18,Creature,Paladin
+19,Spell,Lightning
+20,Creature,Eagle
+21,Spell,Wall
+22,Enchantment,Blight
+23,Creature,Spider
+24,Creature,Warlock
+25,Creature,Wolf
+26,Enchantment,Mighty Life Invert
+27,Enchantment,Victory Invert
+28,Creature,Eagle
+29,Artifact,Helm
+30,Creature,Warlock
+31,Spell,Lunar Frenzy
+32,Enchantment,Urgent Oblivion Invert
+33,Creature,Snow Nameless Phoenix of Hate
+34,Spell,Corpse Lightning
+35,Enchantment,Shield
+36,Enchantment,Blight
+37,Spell,Gale
+38,Spell,Maelstrom
+39,Enchantment,Shade
+40,Spell,Burn
+41,Enchantment,Strength
+42,Creature,Death Undead Griffin
+43,Creature,Skin-Walker
+44,Enchantment,Lethargy

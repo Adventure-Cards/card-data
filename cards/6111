@@ -1,46 +1,46 @@
-==================,DECK,6111,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Magi
-2,Enchantment,Mythic,Dire Agony
-3,Enchantment,Common,Shield
-4,Enchantment,Legendary,Dire Lethargy
-5,Creature,Common,Orc
-6,Creature,Rare,Death King Minotaur
-7,Creature,Common,Ghoul
-8,Creature,Common,Ghoul
-9,Creature,Rare,Death Undead Hydra
-10,Artifact,Common,Bow
-11,Spell,Common,Maelstrom
-12,Spell,Rare,Nature Reanimate
-13,Creature,Common,Elf
-14,Creature,Rare,Earth Monk Griffin
-15,Creature,Common,Magi
-16,Creature,Mythic,Dark Time Dragon of Illusion
-17,Spell,Rare,Cataclysmic Fury
-18,Creature,Common,Dwarf
-19,Creature,Rare,Frozen Lord Berserker
-20,Creature,Legendary,Light Rogue Oni of the Bright Mountains
-21,Enchantment,Mythic,Angry Shade
-22,Enchantment,Common,Shrink
-23,Creature,Common,Spider
-24,Spell,Legendary,Dire Frenzy
-25,Creature,Mythic,Snow Time Dragon of Hate
-26,Artifact,Legendary,Mighty Potion
-27,Creature,Common,Warlock
-28,Creature,Rare,Aura King Minotaur
-29,Spell,Common,Stun
-30,Spell,Rare,Cataclysmic Sorrow
-31,Spell,Common,Hypnosis
-32,Creature,Rare,Dark Merchant Berserker
-33,Artifact,Common,Gloves
-34,Spell,Common,Gravitation
-35,Creature,Common,Ghoul
-36,Creature,Mythic,Dark Time Phoenix of Illusion
-37,Spell,Common,Stricken
-38,Creature,Rare,Earth Fighter Hydra
-39,Creature,Rare,Light Undead Fairy
-40,Creature,Rare,Earth Merchant Skin-Walker
-41,Creature,Common,Orc
-42,Creature,Rare,Frozen Queen Minotaur
-43,Spell,Legendary,Angry Heal
-44,Enchantment,Legendary,Clever Drain
+==================,DECK,6111
+0,Creature,Ghoul
+1,Creature,Fairy
+2,Enchantment,Irate Life Blight
+3,Enchantment,Drain
+4,Enchantment,Irate Grim Blight
+5,Creature,Spider
+6,Creature,Death King Cyclops
+7,Creature,Ghoul
+8,Creature,Ghoul
+9,Creature,Death Undead Hydra
+10,Artifact,Bow
+11,Spell,Fireball
+12,Spell,Corpse Assault
+13,Creature,Warlock
+14,Creature,Earth Monk Griffin
+15,Creature,Fairy
+16,Creature,Dark Time Dragon of Illusion
+17,Spell,Miracle Sorrow
+18,Creature,Magi
+19,Creature,Frozen Lord Goblin
+20,Creature,Light Rogue Oni of the Bright Mountains
+21,Enchantment,Dire Chimeric Firebreath
+22,Enchantment,Lethargy
+23,Creature,Paladin
+24,Spell,Urgent Oblivion Vortex
+25,Creature,Snow Time Dragon of Hate
+26,Artifact,Ardent Chimeric Potion
+27,Creature,Berserker
+28,Creature,Aura King Cyclops
+29,Spell,Burst
+30,Spell,Cataclysmic Rage
+31,Spell,Stun
+32,Creature,Dark Merchant Goblin
+33,Artifact,Gloves
+34,Spell,Rage
+35,Creature,Ghoul
+36,Creature,Dark Time Phoenix of Illusion
+37,Spell,Invisibility
+38,Creature,Earth Fighter Hydra
+39,Creature,Light Undead Kraken
+40,Creature,Earth Merchant Orc
+41,Creature,Spider
+42,Creature,Frozen Queen Cyclops
+43,Spell,Dire Miracle Invisibility
+44,Enchantment,Potent Apocalypse Drain

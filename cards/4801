@@ -1,46 +1,46 @@
-==================,DECK,4801,Medium
-0,Spell,Rare,Oblivion Lightning
-1,Enchantment,Common,Haste
-2,Creature,Rare,Frozen Fighter Griffin
-3,Creature,Common,Spider
-4,Spell,Rare,Lunar Stricken
-5,Spell,Rare,Life Infuriate
-6,Creature,Rare,Death Undead Griffin
-7,Creature,Rare,Frozen Lord Fairy
-8,Creature,Common,Wolf
-9,Creature,Common,Orc
-10,Spell,Common,Stricken
-11,Creature,Common,Goblin
-12,Spell,Common,Gale
-13,Creature,Common,Ghoul
-14,Creature,Common,Wolf
-15,Enchantment,Rare,Lunar Flight
-16,Creature,Common,Magi
-17,Enchantment,Common,Invert
-18,Creature,Rare,Dark Priest Griffin
-19,Spell,Common,Assault
-20,Spell,Common,Frenzy
-21,Enchantment,Common,Age
-22,Creature,Common,Dwarf
-23,Spell,Common,Invisibility
-24,Creature,Common,Magi
-25,Spell,Common,Burn
-26,Creature,Common,Ghoul
-27,Creature,Rare,Death Merchant Minotaur
-28,Artifact,Common,Ring
-29,Creature,Rare,Snow Thief Griffin
-30,Creature,Rare,Snow Thief Fairy
-31,Creature,Common,Spider
-32,Creature,Legendary,Earth Thief Oni of the Bright Mountains
-33,Enchantment,Legendary,Extreme Invert
-34,Creature,Common,Eagle
-35,Enchantment,Common,Age
-36,Creature,Common,Eagle
-37,Creature,Common,Eagle
-38,Creature,Rare,Dark Monk Minotaur
-39,Artifact,Common,Bow
-40,Spell,Rare,Miracle Ice
-41,Enchantment,Common,Strength
-42,Creature,Rare,Earth Rogue Skin-Walker
-43,Artifact,Common,Gloves
-44,Creature,Rare,Snow Lord Fairy
+==================,DECK,4801
+0,Spell,Oblivion Torment
+1,Enchantment,Deathgrip
+2,Creature,Frozen Fighter Griffin
+3,Creature,Paladin
+4,Spell,Dark Hypnosis
+5,Spell,Life Stricken
+6,Creature,Death Undead Griffin
+7,Creature,Frozen Lord Kraken
+8,Creature,Wolf
+9,Creature,Spider
+10,Spell,Burn
+11,Creature,Skin-Walker
+12,Spell,Freeze
+13,Creature,Ghoul
+14,Creature,Wolf
+15,Enchantment,Lunar Flight
+16,Creature,Fairy
+17,Enchantment,Strength
+18,Creature,Dark Priest Griffin
+19,Spell,Gale
+20,Spell,Wall
+21,Enchantment,Shield
+22,Creature,Magi
+23,Spell,Torment
+24,Creature,Fairy
+25,Spell,Fireball
+26,Creature,Ghoul
+27,Creature,Death Merchant Cyclops
+28,Artifact,Ring
+29,Creature,Snow Thief Griffin
+30,Creature,Snow Thief Kraken
+31,Creature,Paladin
+32,Creature,Earth Thief Oni of the Bright Mountains
+33,Enchantment,Ardent Sorrow Shield
+34,Creature,Eagle
+35,Enchantment,Alacrity
+36,Creature,Eagle
+37,Creature,Eagle
+38,Creature,Dark Monk Cyclops
+39,Artifact,Bow
+40,Spell,Frigid Infuriate
+41,Enchantment,Drain
+42,Creature,Earth Rogue Orc
+43,Artifact,Gloves
+44,Creature,Snow Lord Kraken

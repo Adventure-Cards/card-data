@@ -1,46 +1,46 @@
-==================,DECK,7112,Light
-0,Spell,Rare,Nature Burst
-1,Creature,Mythic,Dark Nameless Dragon of Illusion
-2,Enchantment,Common,Invert
-3,Spell,Common,Burst
-4,Creature,Common,Ghoul
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Age
-7,Creature,Common,Magi
-8,Spell,Common,Freeze
-9,Enchantment,Common,Invert
-10,Enchantment,Rare,Oblivion Agony
-11,Creature,Legendary,Snow Fighter Cyclops of the Eastern Skies
-12,Creature,Common,Dwarf
-13,Artifact,Legendary,Potent Greaves
-14,Spell,Rare,Apocalypse Hypnosis
-15,Enchantment,Rare,Grim Shade
-16,Enchantment,Common,Drain
-17,Creature,Rare,Light Monk Hydra
-18,Creature,Rare,Light Fighter Skin-Walker
-19,Spell,Common,Rage
-20,Creature,Rare,Death Monk Griffin
-21,Creature,Common,Warlock
-22,Creature,Common,Paladin
-23,Artifact,Rare,Miracle Bracers
-24,Creature,Legendary,Light Fighter Kraken of the Magical Forest
-25,Creature,Rare,Frozen Lord Fairy
-26,Creature,Common,Warlock
-27,Creature,Rare,Dark Merchant Hydra
-28,Enchantment,Common,Age
-29,Enchantment,Rare,Oblivion Alacrity
-30,Enchantment,Mythic,Mighty Shrink
-31,Enchantment,Common,Shrink
-32,Spell,Common,Pandemonium
-33,Creature,Common,Paladin
-34,Creature,Rare,Death Undead Berserker
-35,Spell,Rare,Shimmering Hypnosis
-36,Enchantment,Common,Strength
-37,Spell,Legendary,Instant Invisibility
-38,Creature,Rare,Death Assassin Griffin
-39,Creature,Rare,Dark Priest Minotaur
-40,Creature,Common,Goblin
-41,Creature,Common,Eagle
-42,Creature,Legendary,Light Fighter Giant of the Mountains
-43,Enchantment,Common,Shield
-44,Creature,Rare,Dark Rogue Skin-Walker
+==================,DECK,7112
+0,Spell,Necro Wall
+1,Creature,Dark Nameless Dragon of Illusion
+2,Enchantment,Flight
+3,Spell,Gravitation
+4,Creature,Ghoul
+5,Creature,Magi
+6,Enchantment,Deathgrip
+7,Creature,Fairy
+8,Spell,Torment
+9,Enchantment,Drain
+10,Enchantment,Life Haste
+11,Creature,Snow Fighter Giant of the Eastern Skies
+12,Creature,Magi
+13,Artifact,Urgent Life Greaves
+14,Spell,Oblivion Wall
+15,Enchantment,Frigid Blight
+16,Enchantment,Flight
+17,Creature,Light Monk Hydra
+18,Creature,Light Fighter Orc
+19,Spell,Infuriate
+20,Creature,Death Monk Griffin
+21,Creature,Berserker
+22,Creature,Troll
+23,Artifact,Oblivion Bracers
+24,Creature,Light Fighter Ogre of the Magical Forest
+25,Creature,Frozen Lord Kraken
+26,Creature,Berserker
+27,Creature,Dark Merchant Hydra
+28,Enchantment,Deathgrip
+29,Enchantment,Apocalypse Drain
+30,Enchantment,Zealous Chimeric Alacrity
+31,Enchantment,Shrink
+32,Spell,Vortex
+33,Creature,Troll
+34,Creature,Death Undead Goblin
+35,Spell,Nature Ice
+36,Enchantment,Alacrity
+37,Spell,Urgent Hateful Stun
+38,Creature,Death Assassin Griffin
+39,Creature,Dark Priest Cyclops
+40,Creature,Skin-Walker
+41,Creature,Eagle
+42,Creature,Light Fighter Dwarf of the Mountains
+43,Enchantment,Alacrity
+44,Creature,Dark Rogue Orc

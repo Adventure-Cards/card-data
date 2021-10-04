@@ -1,46 +1,46 @@
-==================,DECK,6534,Light
-0,Creature,Rare,Death Lord Griffin
-1,Spell,Common,Stun
-2,Spell,Rare,Gloom Assault
-3,Spell,Legendary,Instant Infuriate
-4,Creature,Common,Paladin
-5,Artifact,Rare,Dark Sigil
-6,Creature,Common,Eagle
-7,Spell,Common,Freeze
-8,Artifact,Common,Scythe
-9,Creature,Common,Orc
-10,Creature,Common,Spider
-11,Spell,Common,Sorrow
-12,Spell,Common,Fury
-13,Creature,Legendary,Snow Thief Giant of the Border
-14,Creature,Common,Spider
-15,Enchantment,Common,Blight
-16,Enchantment,Mythic,Dire Alacrity
-17,Artifact,Rare,Cataclysmic Sigil
-18,Creature,Common,Elf
-19,Spell,Common,Sorrow
-20,Enchantment,Rare,Cataclysmic Flight
-21,Spell,Common,Burn
-22,Artifact,Common,Crown
-23,Creature,Common,Goblin
-24,Creature,Common,Goblin
-25,Creature,Common,Goblin
-26,Artifact,Legendary,Intense Scythe
-27,Creature,Common,Spider
-28,Creature,Common,Magi
-29,Creature,Legendary,Earth Queen Oni of the Frozen Castle
-30,Spell,Rare,Dark Invisibility
-31,Creature,Common,Orc
-32,Enchantment,Common,Haste
-33,Creature,Common,Dwarf
-34,Creature,Common,Wolf
-35,Creature,Common,Elf
-36,Enchantment,Legendary,Potent Flight
-37,Artifact,Common,Bracers
-38,Spell,Rare,Solar Frenzy
-39,Creature,Legendary,Aura King Kraken of the Magical Forest
-40,Creature,Common,Magi
-41,Spell,Rare,Oblivion Torment
-42,Creature,Common,Dwarf
-43,Creature,Mythic,Dark Ancient Wizard of Illusion
-44,Enchantment,Common,Strength
+==================,DECK,6534
+0,Creature,Death Lord Griffin
+1,Spell,Infuriate
+2,Spell,Lunar Freeze
+3,Spell,Clever Solar Ice
+4,Creature,Troll
+5,Artifact,Lunar Sigil
+6,Creature,Eagle
+7,Spell,Rage
+8,Artifact,Scythe
+9,Creature,Spider
+10,Creature,Paladin
+11,Spell,Pandemonium
+12,Spell,Ice
+13,Creature,Snow Thief Dwarf of the Border
+14,Creature,Paladin
+15,Enchantment,Blight
+16,Enchantment,Urgent Apocalypse Invert
+17,Artifact,Miracle Sigil
+18,Creature,Warlock
+19,Spell,Heal
+20,Enchantment,Lunar Flight
+21,Spell,Sorrow
+22,Artifact,Crown
+23,Creature,Skin-Walker
+24,Creature,Skin-Walker
+25,Creature,Skin-Walker
+26,Artifact,Dire Hateful Scythe
+27,Creature,Paladin
+28,Creature,Fairy
+29,Creature,Earth Queen Oni of the Frozen Castle
+30,Spell,Sorrow Revive
+31,Creature,Spider
+32,Enchantment,Alacrity
+33,Creature,Magi
+34,Creature,Wolf
+35,Creature,Warlock
+36,Enchantment,Mighty Grim Invert
+37,Artifact,Bracers
+38,Spell,Necro Frenzy
+39,Creature,Aura King Ogre of the Magical Forest
+40,Creature,Fairy
+41,Spell,Life Rage
+42,Creature,Magi
+43,Creature,Dark Ancient Wizard of Illusion
+44,Enchantment,Haste

@@ -1,46 +1,46 @@
-==================,DECK,5393,Medium
-0,Creature,Legendary,Death Merchant Cyclops of the Haven
-1,Creature,Common,Goblin
-2,Creature,Rare,Death Undead Berserker
-3,Creature,Common,Elf
-4,Creature,Common,Goblin
-5,Artifact,Rare,Forged Staff
-6,Creature,Common,Paladin
-7,Creature,Common,Wolf
-8,Enchantment,Mythic,Angry Shade
-9,Spell,Common,Reanimate
-10,Artifact,Rare,Corpse Ring
-11,Enchantment,Mythic,Clever Strength
-12,Artifact,Rare,Lunar Greaves
-13,Creature,Rare,Earth Thief Berserker
-14,Enchantment,Rare,Dark Alacrity
-15,Enchantment,Mythic,Angry Blight
-16,Creature,Rare,Frozen Queen Skin-Walker
-17,Creature,Rare,Death Rogue Berserker
-18,Creature,Common,Wolf
-19,Creature,Rare,Earth Fighter Hydra
-20,Creature,Common,Warlock
-21,Enchantment,Common,Shrink
-22,Spell,Rare,Forged Assault
-23,Creature,Common,Spider
-24,Artifact,Rare,Forged Gloves
-25,Creature,Legendary,Snow Monk Kraken of the Haven
-26,Creature,Legendary,Frozen Rogue Orge of the Golden Palace
-27,Spell,Legendary,Clever Burn
-28,Enchantment,Common,Age
-29,Creature,Mythic,Frozen Grand Demon of the Void
-30,Enchantment,Common,Flight
-31,Enchantment,Legendary,Dire Haste
-32,Creature,Common,Wolf
-33,Enchantment,Rare,Frigid Strength
-34,Artifact,Rare,Grim Staff
-35,Creature,Legendary,Dark Warrior Oni of the Frozen Castle
-36,Artifact,Legendary,Dire Bracers
-37,Creature,Common,Orc
-38,Creature,Common,Wolf
-39,Enchantment,Common,Shrink
-40,Spell,Common,Hypnosis
-41,Enchantment,Rare,Necro Shrink
-42,Creature,Common,Goblin
-43,Enchantment,Legendary,Instant Agony
-44,Creature,Common,Spider
+==================,DECK,5393
+0,Creature,Death Merchant Giant of the Haven
+1,Creature,Skin-Walker
+2,Creature,Death Undead Goblin
+3,Creature,Warlock
+4,Creature,Skin-Walker
+5,Artifact,Lunar Staff
+6,Creature,Troll
+7,Creature,Wolf
+8,Enchantment,Instant Chimeric Shrink
+9,Spell,Burn
+10,Artifact,Shimmering Ring
+11,Enchantment,Dire Nimble Shade
+12,Artifact,Dark Greaves
+13,Creature,Earth Thief Goblin
+14,Enchantment,Dark Shrink
+15,Enchantment,Potent Cataclysmic Shrink
+16,Creature,Frozen Queen Orc
+17,Creature,Death Rogue Goblin
+18,Creature,Wolf
+19,Creature,Earth Fighter Hydra
+20,Creature,Berserker
+21,Enchantment,Haste
+22,Spell,Chimeric Heal
+23,Creature,Paladin
+24,Artifact,Chimeric Gloves
+25,Creature,Snow Monk Ogre of the Haven
+26,Creature,Frozen Rogue Elf of the Golden Palace
+27,Spell,Empyrean Nimble Ice
+28,Enchantment,Drain
+29,Creature,Frozen Grand Demon of the Void
+30,Enchantment,Alacrity
+31,Enchantment,Empyrean Life Shade
+32,Creature,Wolf
+33,Enchantment,Nimble Blight
+34,Artifact,Frigid Staff
+35,Creature,Dark Warrior Oni of the Frozen Castle
+36,Artifact,Irate Apocalypse Bracers
+37,Creature,Spider
+38,Creature,Wolf
+39,Enchantment,Drain
+40,Spell,Hypnosis
+41,Enchantment,Necro Deathgrip
+42,Creature,Skin-Walker
+43,Enchantment,Instant Corpse Strength
+44,Creature,Paladin

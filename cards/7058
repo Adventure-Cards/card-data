@@ -1,46 +1,46 @@
-==================,DECK,7058,Medium
-0,Enchantment,Common,Invert
-1,Creature,Rare,Frozen King Skin-Walker
-2,Creature,Rare,Earth Knight Fairy
-3,Creature,Legendary,Frozen Rogue Kraken of the West
-4,Creature,Mythic,Light Nameless Dragon of the Sky
-5,Creature,Legendary,Frozen King Oni of the Low Hills
-6,Creature,Rare,Snow Fighter Skin-Walker
-7,Artifact,Common,Potion
-8,Enchantment,Common,Invert
-9,Creature,Common,Eagle
-10,Creature,Legendary,Dark Monk Cyclops of the Arctic Blizzards
-11,Spell,Common,Reanimate
-12,Creature,Legendary,Death Fighter Cyclops of the Magical Forest
-13,Enchantment,Legendary,Clever Haste
-14,Enchantment,Common,Haste
-15,Creature,Mythic,Snow Chaos Demon of Hate
-16,Creature,Common,Elf
-17,Creature,Common,Elf
-18,Enchantment,Mythic,Angry Deathgrip
-19,Spell,Common,Burn
-20,Creature,Rare,Dark Lord Minotaur
-21,Creature,Rare,Light Merchant Hydra
-22,Creature,Common,Eagle
-23,Creature,Common,Magi
-24,Spell,Rare,Hateful Stun
-25,Creature,Legendary,Dark Merchant Oni of the Swamp
-26,Enchantment,Legendary,Clever Shield
-27,Creature,Common,Paladin
-28,Artifact,Common,Staff
-29,Creature,Rare,Snow Thief Fairy
-30,Creature,Rare,Death Queen Skin-Walker
-31,Creature,Common,Wolf
-32,Creature,Common,Wolf
-33,Enchantment,Common,Shield
-34,Enchantment,Common,Drain
-35,Creature,Common,Wolf
-36,Enchantment,Legendary,Dire Invert
-37,Creature,Legendary,Dark Queen Kraken of the Swamp
-38,Enchantment,Legendary,Dire Shrink
-39,Creature,Common,Orc
-40,Creature,Mythic,Snow Undead Phoenix of Hate
-41,Spell,Common,Burst
-42,Spell,Rare,Miracle Stun
-43,Spell,Rare,Frigid Frost
-44,Creature,Rare,Light King Berserker
+==================,DECK,7058
+0,Enchantment,Strength
+1,Creature,Frozen King Orc
+2,Creature,Earth Knight Kraken
+3,Creature,Frozen Rogue Ogre of the West
+4,Creature,Light Nameless Dragon of the Sky
+5,Creature,Frozen King Oni of the Low Hills
+6,Creature,Snow Fighter Orc
+7,Artifact,Potion
+8,Enchantment,Flight
+9,Creature,Eagle
+10,Creature,Dark Monk Giant of the Arctic Blizzards
+11,Spell,Freeze
+12,Creature,Death Fighter Giant of the Magical Forest
+13,Enchantment,Mighty Life Invert
+14,Enchantment,Haste
+15,Creature,Snow Chaos Demon of Hate
+16,Creature,Warlock
+17,Creature,Warlock
+18,Enchantment,Potent Sorrow Shrink
+19,Spell,Sorrow
+20,Creature,Dark Lord Cyclops
+21,Creature,Light Merchant Hydra
+22,Creature,Eagle
+23,Creature,Fairy
+24,Spell,Miracle Fury
+25,Creature,Dark Merchant Oni of the Swamp
+26,Enchantment,Ardent Victory Haste
+27,Creature,Troll
+28,Artifact,Staff
+29,Creature,Snow Thief Kraken
+30,Creature,Death Queen Orc
+31,Creature,Wolf
+32,Creature,Wolf
+33,Enchantment,Invert
+34,Enchantment,Age
+35,Creature,Wolf
+36,Enchantment,Dire Oblivion Shade
+37,Creature,Dark Queen Ogre of the Swamp
+38,Enchantment,Mighty Frigid Invert
+39,Creature,Spider
+40,Creature,Snow Undead Phoenix of Hate
+41,Spell,Fireball
+42,Spell,Apocalypse Invisibility
+43,Spell,Life Sorrow
+44,Creature,Light King Goblin

@@ -1,46 +1,46 @@
-==================,DECK,7363,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Warlock
-2,Creature,Mythic,Death Nameless Phoenix of the Dead
-3,Creature,Common,Eagle
-4,Creature,Common,Dwarf
-5,Artifact,Rare,Dark Bow
-6,Artifact,Common,Tome
-7,Creature,Rare,Snow Undead Berserker
-8,Enchantment,Rare,Corpse Invert
-9,Enchantment,Common,Shrink
-10,Spell,Common,Stricken
-11,Enchantment,Mythic,Potent Shrink
-12,Spell,Common,Stun
-13,Enchantment,Rare,Corpse Shade
-14,Spell,Rare,Life Sorrow
-15,Artifact,Rare,Oblivion Bow
-16,Creature,Rare,Aura King Griffin
-17,Creature,Common,Orc
-18,Enchantment,Common,Lethargy
-19,Creature,Mythic,Dark Nameless Dragon of Illusion
-20,Creature,Mythic,Death Chaos Demon of the Dead
-21,Artifact,Common,Tome
-22,Spell,Common,Hypnosis
-23,Artifact,Common,Helmet
-24,Creature,Rare,Aura Undead Fairy
-25,Enchantment,Common,Shade
-26,Creature,Common,Dwarf
-27,Creature,Rare,Dark Fighter Fairy
-28,Creature,Common,Magi
-29,Enchantment,Rare,Gloom Strength
-30,Enchantment,Common,Drain
-31,Creature,Legendary,Earth King Giant of the Low Hills
-32,Spell,Mythic,Intense Gravitation
-33,Creature,Rare,Earth Assassin Fairy
-34,Creature,Common,Warlock
-35,Creature,Common,Orc
-36,Enchantment,Common,Shrink
-37,Artifact,Common,Ring
-38,Spell,Legendary,Extreme Wall
-39,Creature,Rare,Death Queen Skin-Walker
-40,Spell,Common,Gravitation
-41,Spell,Common,Heal
-42,Spell,Common,Wall
-43,Creature,Common,Orc
-44,Creature,Common,Warlock
+==================,DECK,7363
+0,Creature,Warlock
+1,Creature,Berserker
+2,Creature,Death Nameless Phoenix of the Dead
+3,Creature,Eagle
+4,Creature,Magi
+5,Artifact,Lunar Bow
+6,Artifact,Tome
+7,Creature,Snow Undead Goblin
+8,Enchantment,Shimmering Deathgrip
+9,Enchantment,Drain
+10,Spell,Lightning
+11,Enchantment,Mighty Frigid Invert
+12,Spell,Maelstrom
+13,Enchantment,Necro Strength
+14,Spell,Grim Wall
+15,Artifact,Apocalypse Bow
+16,Creature,Aura King Griffin
+17,Creature,Spider
+18,Enchantment,Flight
+19,Creature,Dark Nameless Dragon of Illusion
+20,Creature,Death Chaos Demon of the Dead
+21,Artifact,Tome
+22,Spell,Heal
+23,Artifact,Helmet
+24,Creature,Aura Undead Kraken
+25,Enchantment,Drain
+26,Creature,Magi
+27,Creature,Dark Fighter Kraken
+28,Creature,Fairy
+29,Enchantment,Cataclysmic Alacrity
+30,Enchantment,Agony
+31,Creature,Earth King Dwarf of the Low Hills
+32,Spell,Ardent Solar Pandemonium
+33,Creature,Earth Assassin Kraken
+34,Creature,Berserker
+35,Creature,Spider
+36,Enchantment,Age
+37,Artifact,Ring
+38,Spell,Irate Miracle Rage
+39,Creature,Death Queen Orc
+40,Spell,Sorrow
+41,Spell,Heal
+42,Spell,Freeze
+43,Creature,Spider
+44,Creature,Berserker

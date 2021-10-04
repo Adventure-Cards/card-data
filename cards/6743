@@ -1,46 +1,46 @@
-==================,DECK,6743,Medium
-0,Creature,Rare,Snow Merchant Griffin
-1,Spell,Rare,Miracle Infuriate
-2,Creature,Legendary,Snow Assassin Orge of the Haven
-3,Creature,Rare,Dark Priest Griffin
-4,Creature,Common,Spider
-5,Enchantment,Common,Invert
-6,Artifact,Common,Sigil
-7,Creature,Rare,Dark Thief Fairy
-8,Creature,Common,Eagle
-9,Spell,Common,Vortex
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Common,Eagle
-13,Enchantment,Common,Lethargy
-14,Artifact,Legendary,Potent Scepter
-15,Creature,Legendary,Snow Knight Giant of the Haven
-16,Creature,Common,Spider
-17,Spell,Common,Invisibility
-18,Enchantment,Common,Alacrity
-19,Spell,Mythic,Dire Maelstrom
-20,Spell,Rare,Corpse Revive
-21,Creature,Common,Orc
-22,Enchantment,Mythic,Extreme Drain
-23,Creature,Legendary,Snow Undead Oni of the Eastern Skies
-24,Enchantment,Common,Blight
-25,Creature,Legendary,Aura Lord Oni of the Frozen Castle
-26,Spell,Common,Wall
-27,Creature,Common,Wolf
-28,Creature,Common,Elf
-29,Enchantment,Common,Blight
-30,Creature,Common,Wolf
-31,Creature,Rare,Light Fighter Berserker
-32,Creature,Common,Goblin
-33,Creature,Common,Orc
-34,Enchantment,Common,Deathgrip
-35,Creature,Common,Paladin
-36,Creature,Common,Ghoul
-37,Creature,Legendary,Aura Warrior Kraken of the Golden Palace
-38,Spell,Common,Gravitation
-39,Enchantment,Rare,Oblivion Agony
-40,Creature,Legendary,Earth Lord Kraken of the Golden Palace
-41,Creature,Rare,Death Knight Hydra
-42,Creature,Rare,Earth Thief Griffin
-43,Artifact,Common,Ring
-44,Creature,Rare,Frozen Thief Berserker
+==================,DECK,6743
+0,Creature,Snow Merchant Griffin
+1,Spell,Grim Hypnosis
+2,Creature,Snow Assassin Elf of the Haven
+3,Creature,Dark Priest Griffin
+4,Creature,Paladin
+5,Enchantment,Flight
+6,Artifact,Sigil
+7,Creature,Dark Thief Kraken
+8,Creature,Eagle
+9,Spell,Maelstrom
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Eagle
+13,Enchantment,Alacrity
+14,Artifact,Instant Apocalypse Scepter
+15,Creature,Snow Knight Dwarf of the Haven
+16,Creature,Paladin
+17,Spell,Rage
+18,Enchantment,Deathgrip
+19,Spell,Clever Grim Invisibility
+20,Spell,Necro Invisibility
+21,Creature,Spider
+22,Enchantment,Empyrean Dark Firebreath
+23,Creature,Snow Undead Oni of the Eastern Skies
+24,Enchantment,Shrink
+25,Creature,Aura Lord Oni of the Frozen Castle
+26,Spell,Frost
+27,Creature,Wolf
+28,Creature,Warlock
+29,Enchantment,Flight
+30,Creature,Wolf
+31,Creature,Light Fighter Goblin
+32,Creature,Skin-Walker
+33,Creature,Spider
+34,Enchantment,Flight
+35,Creature,Troll
+36,Creature,Ghoul
+37,Creature,Aura Warrior Ogre of the Golden Palace
+38,Spell,Rage
+39,Enchantment,Life Invert
+40,Creature,Earth Lord Ogre of the Golden Palace
+41,Creature,Death Knight Hydra
+42,Creature,Earth Thief Griffin
+43,Artifact,Ring
+44,Creature,Frozen Thief Goblin

@@ -1,46 +1,46 @@
-==================,DECK,4326,Light
-0,Creature,Rare,Snow King Minotaur
-1,Enchantment,Common,Shield
-2,Enchantment,Common,Age
-3,Spell,Rare,Gloom Revive
-4,Creature,Common,Ghoul
-5,Creature,Common,Magi
-6,Spell,Rare,Nimble Frost
-7,Creature,Common,Warlock
-8,Creature,Common,Warlock
-9,Enchantment,Common,Shrink
-10,Creature,Legendary,Earth Merchant Giant of the Frozen Castle
-11,Creature,Common,Eagle
-12,Artifact,Common,Greaves
-13,Spell,Common,Hypnosis
-14,Creature,Rare,Aura Knight Berserker
-15,Creature,Rare,Death Undead Minotaur
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Creature,Common,Warlock
-19,Enchantment,Common,Blight
-20,Enchantment,Common,Lethargy
-21,Artifact,Common,Ring
-22,Creature,Legendary,Aura Lord Orge of the Swamp
-23,Artifact,Common,Scythe
-24,Creature,Legendary,Light Undead Orge of the Eternal Land
-25,Spell,Common,Sorrow
-26,Spell,Common,Reanimate
-27,Spell,Common,Burn
-28,Creature,Common,Paladin
-29,Creature,Common,Warlock
-30,Enchantment,Common,Strength
-31,Artifact,Common,Boots
-32,Creature,Common,Goblin
-33,Creature,Common,Ghoul
-34,Spell,Rare,Miracle Hypnosis
-35,Artifact,Common,Tome
-36,Creature,Common,Goblin
-37,Creature,Common,Eagle
-38,Enchantment,Legendary,Urgent Shade
-39,Spell,Legendary,Mighty Pandemonium
-40,Enchantment,Common,Strength
-41,Enchantment,Common,Shield
-42,Creature,Mythic,Light Undead Dragon of the Sky
-43,Creature,Common,Orc
-44,Spell,Common,Gravitation
+==================,DECK,4326
+0,Creature,Snow King Cyclops
+1,Enchantment,Firebreath
+2,Enchantment,Shrink
+3,Spell,Dark Heal
+4,Creature,Ghoul
+5,Creature,Fairy
+6,Spell,Shimmering Ice
+7,Creature,Berserker
+8,Creature,Berserker
+9,Enchantment,Strength
+10,Creature,Earth Merchant Dwarf of the Frozen Castle
+11,Creature,Eagle
+12,Artifact,Greaves
+13,Spell,Heal
+14,Creature,Aura Knight Goblin
+15,Creature,Death Undead Cyclops
+16,Creature,Berserker
+17,Creature,Berserker
+18,Creature,Berserker
+19,Enchantment,Lethargy
+20,Enchantment,Strength
+21,Artifact,Ring
+22,Creature,Aura Lord Elf of the Swamp
+23,Artifact,Scythe
+24,Creature,Light Undead Elf of the Eternal Land
+25,Spell,Sorrow
+26,Spell,Assault
+27,Spell,Burst
+28,Creature,Troll
+29,Creature,Berserker
+30,Enchantment,Blight
+31,Artifact,Boots
+32,Creature,Skin-Walker
+33,Creature,Ghoul
+34,Spell,Frigid Lightning
+35,Artifact,Tome
+36,Creature,Skin-Walker
+37,Creature,Eagle
+38,Enchantment,Dire Necro Age
+39,Spell,Mighty Cataclysmic Gravitation
+40,Enchantment,Agony
+41,Enchantment,Alacrity
+42,Creature,Light Undead Dragon of the Sky
+43,Creature,Spider
+44,Spell,Torment

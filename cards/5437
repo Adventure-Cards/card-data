@@ -1,46 +1,46 @@
-==================,DECK,5437,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Revive
-2,Creature,Common,Magi
-3,Artifact,Rare,Shimmering Amulet
-4,Enchantment,Rare,Oblivion Shield
-5,Creature,Common,Wolf
-6,Spell,Legendary,Intense Ice
-7,Creature,Rare,Death Warrior Fairy
-8,Creature,Common,Dwarf
-9,Artifact,Common,Scepter
-10,Creature,Common,Spider
-11,Creature,Common,Orc
-12,Creature,Common,Wolf
-13,Spell,Common,Freeze
-14,Artifact,Common,Belt
-15,Creature,Mythic,Dark Ancient Demon of Illusion
-16,Artifact,Rare,Oblivion Ghost Wand
-17,Creature,Rare,Frozen Thief Griffin
-18,Enchantment,Common,Deathgrip
-19,Creature,Common,Wolf
-20,Artifact,Common,Ring
-21,Spell,Common,Lightning
-22,Spell,Common,Reanimate
-23,Creature,Common,Magi
-24,Creature,Rare,Snow Priest Griffin
-25,Creature,Common,Dwarf
-26,Spell,Common,Freeze
-27,Artifact,Common,Crown
-28,Spell,Common,Hypnosis
-29,Creature,Common,Warlock
-30,Creature,Mythic,Light Time Phoenix of the Sky
-31,Spell,Common,Gale
-32,Creature,Legendary,Snow Merchant Orge of the Mountains
-33,Spell,Common,Maelstrom
-34,Spell,Rare,Grim Vortex
-35,Creature,Common,Wolf
-36,Enchantment,Rare,Solar Invert
-37,Creature,Common,Wolf
-38,Artifact,Rare,Nimble Cloak
-39,Spell,Common,Maelstrom
-40,Creature,Common,Wolf
-41,Creature,Common,Spider
-42,Spell,Common,Frost
-43,Enchantment,Rare,Gloom Agony
-44,Creature,Common,Magi
+==================,DECK,5437
+0,Creature,Wolf
+1,Spell,Frost
+2,Creature,Fairy
+3,Artifact,Solar Amulet
+4,Enchantment,Victory Invert
+5,Creature,Wolf
+6,Spell,Potent Nature Rage
+7,Creature,Death Warrior Kraken
+8,Creature,Magi
+9,Artifact,Scepter
+10,Creature,Paladin
+11,Creature,Spider
+12,Creature,Wolf
+13,Spell,Tempest
+14,Artifact,Belt
+15,Creature,Dark Ancient Demon of Illusion
+16,Artifact,Grim Ghost Wand
+17,Creature,Frozen Thief Griffin
+18,Enchantment,Flight
+19,Creature,Wolf
+20,Artifact,Ring
+21,Spell,Frenzy
+22,Spell,Reanimate
+23,Creature,Fairy
+24,Creature,Snow Priest Griffin
+25,Creature,Magi
+26,Spell,Assault
+27,Artifact,Crown
+28,Spell,Hypnosis
+29,Creature,Berserker
+30,Creature,Light Time Phoenix of the Sky
+31,Spell,Ice
+32,Creature,Snow Merchant Elf of the Mountains
+33,Spell,Vortex
+34,Spell,Grim Rage
+35,Creature,Wolf
+36,Enchantment,Shimmering Strength
+37,Creature,Wolf
+38,Artifact,Shimmering Cloak
+39,Spell,Fireball
+40,Creature,Wolf
+41,Creature,Paladin
+42,Spell,Maelstrom
+43,Enchantment,Miracle Flight
+44,Creature,Fairy

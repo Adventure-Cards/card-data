@@ -1,46 +1,46 @@
-==================,DECK,7258,Medium
-0,Artifact,Common,Boots
-1,Creature,Rare,Light Priest Griffin
-2,Spell,Rare,Nature Ice
-3,Enchantment,Common,Strength
-4,Creature,Common,Ghoul
-5,Creature,Legendary,Dark King Giant of the Frozen Castle
-6,Enchantment,Rare,Life Drain
-7,Creature,Mythic,Aura Time Dragon of the Light
-8,Creature,Common,Goblin
-9,Creature,Common,Elf
-10,Spell,Common,Hypnosis
-11,Artifact,Rare,Hateful Crown
-12,Enchantment,Common,Lethargy
-13,Enchantment,Rare,Corpse Shade
-14,Enchantment,Common,Invert
-15,Creature,Common,Elf
-16,Spell,Common,Gravitation
-17,Enchantment,Common,Agony
-18,Creature,Common,Eagle
-19,Artifact,Common,Boots
-20,Creature,Legendary,Snow Undead Orge of the Bright Mountains
-21,Creature,Common,Elf
-22,Creature,Rare,Snow Queen Skin-Walker
-23,Creature,Common,Paladin
-24,Artifact,Common,Bracers
-25,Creature,Common,Wolf
-26,Enchantment,Rare,Oblivion Shade
-27,Creature,Common,Elf
-28,Creature,Rare,Earth King Berserker
-29,Creature,Mythic,Dark Undead Dragon of Illusion
-30,Artifact,Common,Bow
-31,Creature,Rare,Death Fighter Skin-Walker
-32,Spell,Common,Wall
-33,Spell,Mythic,Mighty Stricken
-34,Creature,Rare,Frozen Assassin Berserker
-35,Artifact,Rare,Dark Sword
-36,Creature,Common,Eagle
-37,Creature,Rare,Snow Warrior Skin-Walker
-38,Creature,Common,Paladin
-39,Creature,Common,Warlock
-40,Enchantment,Common,Invert
-41,Artifact,Common,Ring
-42,Creature,Rare,Dark Thief Fairy
-43,Creature,Common,Ghoul
-44,Artifact,Common,Amulet
+==================,DECK,7258
+0,Artifact,Boots
+1,Creature,Light Priest Griffin
+2,Spell,Forged Infuriate
+3,Enchantment,Haste
+4,Creature,Ghoul
+5,Creature,Dark King Dwarf of the Frozen Castle
+6,Enchantment,Apocalypse Shade
+7,Creature,Aura Time Dragon of the Light
+8,Creature,Skin-Walker
+9,Creature,Warlock
+10,Spell,Gravitation
+11,Artifact,Cataclysmic Crown
+12,Enchantment,Invert
+13,Enchantment,Necro Age
+14,Enchantment,Shade
+15,Creature,Warlock
+16,Spell,Ice
+17,Enchantment,Blight
+18,Creature,Eagle
+19,Artifact,Boots
+20,Creature,Snow Undead Elf of the Bright Mountains
+21,Creature,Warlock
+22,Creature,Snow Queen Orc
+23,Creature,Troll
+24,Artifact,Bracers
+25,Creature,Wolf
+26,Enchantment,Frigid Blight
+27,Creature,Warlock
+28,Creature,Earth King Goblin
+29,Creature,Dark Undead Dragon of Illusion
+30,Artifact,Bow
+31,Creature,Death Fighter Orc
+32,Spell,Torment
+33,Spell,Zealous Gloom Gale
+34,Creature,Frozen Assassin Goblin
+35,Artifact,Miracle Sword
+36,Creature,Eagle
+37,Creature,Snow Warrior Orc
+38,Creature,Troll
+39,Creature,Berserker
+40,Enchantment,Deathgrip
+41,Artifact,Ring
+42,Creature,Dark Thief Kraken
+43,Creature,Ghoul
+44,Artifact,Amulet

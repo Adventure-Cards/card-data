@@ -1,46 +1,46 @@
-==================,DECK,4335,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Freeze
-2,Enchantment,Mythic,Clever Deathgrip
-3,Creature,Common,Paladin
-4,Creature,Common,Eagle
-5,Creature,Common,Wolf
-6,Creature,Rare,Death Priest Hydra
-7,Artifact,Rare,Frigid Staff
-8,Enchantment,Common,Deathgrip
-9,Artifact,Common,Belt
-10,Creature,Common,Warlock
-11,Creature,Legendary,Frozen Undead Orge of the Border
-12,Spell,Common,Stun
-13,Creature,Common,Warlock
-14,Creature,Rare,Aura King Hydra
-15,Enchantment,Rare,Frigid Agony
-16,Creature,Common,Wolf
-17,Creature,Legendary,Death Warrior Orge of the Polar Woods
-18,Creature,Common,Warlock
-19,Artifact,Rare,Frigid Staff
-20,Creature,Common,Ghoul
-21,Creature,Common,Ghoul
-22,Artifact,Common,Bow
-23,Creature,Common,Orc
-24,Creature,Rare,Death Rogue Hydra
-25,Enchantment,Mythic,Dire Drain
-26,Enchantment,Common,Haste
-27,Spell,Common,Torment
-28,Creature,Common,Paladin
-29,Artifact,Rare,Forged Pendant
-30,Enchantment,Legendary,Urgent Invert
-31,Enchantment,Common,Haste
-32,Creature,Common,Goblin
-33,Enchantment,Common,Agony
-34,Creature,Common,Orc
-35,Creature,Common,Orc
-36,Enchantment,Common,Flight
-37,Enchantment,Common,Shade
-38,Creature,Common,Warlock
-39,Creature,Common,Magi
-40,Enchantment,Common,Shade
-41,Spell,Rare,Cataclysmic Reanimate
-42,Artifact,Rare,Hateful Belt
-43,Creature,Common,Paladin
-44,Enchantment,Rare,Frigid Shade
+==================,DECK,4335
+0,Creature,Troll
+1,Spell,Heal
+2,Enchantment,Zealous Oblivion Blight
+3,Creature,Troll
+4,Creature,Eagle
+5,Creature,Wolf
+6,Creature,Death Priest Hydra
+7,Artifact,Nimble Staff
+8,Enchantment,Haste
+9,Artifact,Belt
+10,Creature,Berserker
+11,Creature,Frozen Undead Elf of the Border
+12,Spell,Reanimate
+13,Creature,Berserker
+14,Creature,Aura King Hydra
+15,Enchantment,Life Haste
+16,Creature,Wolf
+17,Creature,Death Warrior Elf of the Polar Woods
+18,Creature,Berserker
+19,Artifact,Nimble Staff
+20,Creature,Ghoul
+21,Creature,Ghoul
+22,Artifact,Bow
+23,Creature,Spider
+24,Creature,Death Rogue Hydra
+25,Enchantment,Clever Apocalypse Haste
+26,Enchantment,Invert
+27,Spell,Infuriate
+28,Creature,Troll
+29,Artifact,Sorrow Pendant
+30,Enchantment,Ardent Shimmering Lethargy
+31,Enchantment,Age
+32,Creature,Skin-Walker
+33,Enchantment,Agony
+34,Creature,Spider
+35,Creature,Spider
+36,Enchantment,Alacrity
+37,Enchantment,Drain
+38,Creature,Berserker
+39,Creature,Fairy
+40,Enchantment,Shade
+41,Spell,Sorrow Torment
+42,Artifact,Chimeric Belt
+43,Creature,Troll
+44,Enchantment,Frigid Shade

@@ -1,46 +1,46 @@
-==================,DECK,6106,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Burst
-2,Enchantment,Common,Drain
-3,Creature,Legendary,Earth Merchant Orge of the Swamp
-4,Artifact,Common,Amulet
-5,Artifact,Common,Helmet
-6,Creature,Rare,Light Lord Hydra
-7,Enchantment,Common,Agony
-8,Artifact,Common,Greaves
-9,Spell,Legendary,Extreme Rage
-10,Artifact,Rare,Forged Boots
-11,Creature,Common,Paladin
-12,Creature,Mythic,Frozen Nameless Phoenix of the Void
-13,Enchantment,Mythic,Instant Deathgrip
-14,Artifact,Common,Staff
-15,Artifact,Common,Bracers
-16,Creature,Rare,Snow Undead Griffin
-17,Creature,Common,Ghoul
-18,Creature,Common,Goblin
-19,Creature,Rare,Snow Lord Berserker
-20,Creature,Legendary,Snow Rogue Oni of the Border
-21,Creature,Common,Ghoul
-22,Creature,Rare,Earth Thief Griffin
-23,Creature,Legendary,Earth Lord Kraken of the Bright Mountains
-24,Spell,Common,Reanimate
-25,Enchantment,Common,Deathgrip
-26,Enchantment,Rare,Nature Shrink
-27,Enchantment,Common,Strength
-28,Creature,Common,Ghoul
-29,Enchantment,Common,Shade
-30,Enchantment,Mythic,Dire Flight
-31,Enchantment,Rare,Dark Shield
-32,Spell,Common,Ice
-33,Creature,Common,Goblin
-34,Creature,Common,Magi
-35,Creature,Mythic,Frozen Time Phoenix of the Void
-36,Artifact,Rare,Cataclysmic Sigil
-37,Creature,Common,Elf
-38,Creature,Common,Wolf
-39,Creature,Common,Wolf
-40,Artifact,Rare,Solar Scythe
-41,Creature,Common,Dwarf
-42,Spell,Common,Stricken
-43,Spell,Common,Frenzy
-44,Creature,Common,Dwarf
+==================,DECK,6106
+0,Creature,Ghoul
+1,Spell,Freeze
+2,Enchantment,Agony
+3,Creature,Earth Merchant Elf of the Swamp
+4,Artifact,Amulet
+5,Artifact,Helmet
+6,Creature,Light Lord Hydra
+7,Enchantment,Shield
+8,Artifact,Greaves
+9,Spell,Irate Sorrow Rage
+10,Artifact,Chimeric Boots
+11,Creature,Troll
+12,Creature,Frozen Nameless Phoenix of the Void
+13,Enchantment,Mighty Shimmering Agony
+14,Artifact,Staff
+15,Artifact,Bracers
+16,Creature,Snow Undead Griffin
+17,Creature,Ghoul
+18,Creature,Skin-Walker
+19,Creature,Snow Lord Goblin
+20,Creature,Snow Rogue Oni of the Border
+21,Creature,Ghoul
+22,Creature,Earth Thief Griffin
+23,Creature,Earth Lord Ogre of the Bright Mountains
+24,Spell,Gravitation
+25,Enchantment,Age
+26,Enchantment,Necro Deathgrip
+27,Enchantment,Shield
+28,Creature,Ghoul
+29,Enchantment,Firebreath
+30,Enchantment,Potent Grim Drain
+31,Enchantment,Gloom Shield
+32,Spell,Reanimate
+33,Creature,Skin-Walker
+34,Creature,Fairy
+35,Creature,Frozen Time Phoenix of the Void
+36,Artifact,Dark Sigil
+37,Creature,Warlock
+38,Creature,Wolf
+39,Creature,Wolf
+40,Artifact,Hateful Scythe
+41,Creature,Magi
+42,Spell,Freeze
+43,Spell,Burst
+44,Creature,Magi

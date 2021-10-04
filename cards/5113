@@ -1,46 +1,46 @@
-==================,DECK,5113,Medium
-0,Creature,Common,Goblin
-1,Creature,Mythic,Dark Nameless Dragon of Illusion
-2,Enchantment,Common,Lethargy
-3,Artifact,Rare,Solar Cloak
-4,Creature,Legendary,Snow Warrior Giant of the Black Stone
-5,Creature,Common,Elf
-6,Creature,Mythic,Aura Ancient Demon of the Light
-7,Creature,Common,Ghoul
-8,Creature,Common,Dwarf
-9,Artifact,Common,Gauntlet
-10,Creature,Common,Elf
-11,Enchantment,Common,Alacrity
-12,Spell,Common,Gravitation
-13,Creature,Mythic,Snow Nameless Phoenix of Hate
-14,Creature,Common,Spider
-15,Creature,Common,Wolf
-16,Creature,Common,Dwarf
-17,Creature,Common,Wolf
-18,Artifact,Common,Potion
-19,Creature,Common,Dwarf
-20,Enchantment,Rare,Solar Invert
-21,Creature,Common,Eagle
-22,Spell,Common,Stun
-23,Creature,Legendary,Light Queen Orge of the Eastern Skies
-24,Enchantment,Common,Deathgrip
-25,Artifact,Common,Helm
-26,Spell,Rare,Necro Stun
-27,Enchantment,Common,Haste
-28,Enchantment,Common,Shield
-29,Spell,Common,Frenzy
-30,Spell,Legendary,Dire Gale
-31,Creature,Rare,Snow King Hydra
-32,Enchantment,Legendary,Urgent Lethargy
-33,Creature,Legendary,Light Priest Orge of the Haven
-34,Artifact,Common,Helmet
-35,Enchantment,Common,Shade
-36,Creature,Common,Paladin
-37,Spell,Legendary,Urgent Rage
-38,Enchantment,Rare,Nature Haste
-39,Creature,Common,Wolf
-40,Spell,Common,Assault
-41,Creature,Common,Orc
-42,Creature,Rare,Light King Skin-Walker
-43,Enchantment,Common,Shrink
-44,Creature,Rare,Death Merchant Griffin
+==================,DECK,5113
+0,Creature,Skin-Walker
+1,Creature,Dark Nameless Dragon of Illusion
+2,Enchantment,Shield
+3,Artifact,Solar Cloak
+4,Creature,Snow Warrior Dwarf of the Black Stone
+5,Creature,Warlock
+6,Creature,Aura Ancient Demon of the Light
+7,Creature,Ghoul
+8,Creature,Magi
+9,Artifact,Gauntlet
+10,Creature,Warlock
+11,Enchantment,Flight
+12,Spell,Assault
+13,Creature,Snow Nameless Phoenix of Hate
+14,Creature,Paladin
+15,Creature,Wolf
+16,Creature,Magi
+17,Creature,Wolf
+18,Artifact,Potion
+19,Creature,Magi
+20,Enchantment,Shimmering Strength
+21,Creature,Eagle
+22,Spell,Fury
+23,Creature,Light Queen Elf of the Eastern Skies
+24,Enchantment,Age
+25,Artifact,Helm
+26,Spell,Nature Ice
+27,Enchantment,Agony
+28,Enchantment,Haste
+29,Spell,Torment
+30,Spell,Potent Nimble Wall
+31,Creature,Snow King Hydra
+32,Enchantment,Dire Hateful Age
+33,Creature,Light Priest Elf of the Haven
+34,Artifact,Helmet
+35,Enchantment,Age
+36,Creature,Troll
+37,Spell,Urgent Hateful Pandemonium
+38,Enchantment,Corpse Deathgrip
+39,Creature,Wolf
+40,Spell,Fire
+41,Creature,Spider
+42,Creature,Light King Orc
+43,Enchantment,Haste
+44,Creature,Death Merchant Griffin

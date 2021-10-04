@@ -1,46 +1,46 @@
-==================,DECK,4743,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Deathgrip
-2,Enchantment,Rare,Apocalypse Flight
-3,Creature,Common,Goblin
-4,Creature,Mythic,Dark Nameless Dragon of Illusion
-5,Spell,Common,Stricken
-6,Spell,Common,Torment
-7,Enchantment,Mythic,Instant Shade
-8,Creature,Common,Warlock
-9,Creature,Common,Wolf
-10,Creature,Common,Paladin
-11,Creature,Common,Dwarf
-12,Spell,Common,Maelstrom
-13,Spell,Rare,Forged Revive
-14,Creature,Rare,Frozen Lord Griffin
-15,Artifact,Common,Cloak
-16,Enchantment,Common,Flight
-17,Creature,Rare,Earth Assassin Griffin
-18,Spell,Common,Ice
-19,Spell,Common,Heal
-20,Spell,Common,Vortex
-21,Spell,Common,Stun
-22,Spell,Common,Wall
-23,Creature,Rare,Dark Monk Griffin
-24,Creature,Common,Spider
-25,Spell,Common,Frost
-26,Creature,Common,Warlock
-27,Creature,Rare,Light Fighter Hydra
-28,Creature,Rare,Aura Merchant Fairy
-29,Creature,Common,Eagle
-30,Creature,Common,Wolf
-31,Spell,Common,Torment
-32,Enchantment,Common,Alacrity
-33,Enchantment,Common,Lethargy
-34,Creature,Rare,Death Thief Minotaur
-35,Creature,Common,Warlock
-36,Artifact,Common,Greaves
-37,Artifact,Legendary,Angry Amulet
-38,Enchantment,Common,Agony
-39,Enchantment,Common,Strength
-40,Creature,Rare,Frozen Priest Skin-Walker
-41,Enchantment,Rare,Frigid Lethargy
-42,Spell,Common,Revive
-43,Spell,Common,Torment
-44,Enchantment,Common,Invert
+==================,DECK,4743
+0,Creature,Warlock
+1,Enchantment,Shield
+2,Enchantment,Grim Haste
+3,Creature,Skin-Walker
+4,Creature,Dark Nameless Dragon of Illusion
+5,Spell,Stricken
+6,Spell,Pandemonium
+7,Enchantment,Instant Necro Strength
+8,Creature,Berserker
+9,Creature,Wolf
+10,Creature,Troll
+11,Creature,Magi
+12,Spell,Heal
+13,Spell,Cataclysmic Gale
+14,Creature,Frozen Lord Griffin
+15,Artifact,Cloak
+16,Enchantment,Shield
+17,Creature,Earth Assassin Griffin
+18,Spell,Tempest
+19,Spell,Stricken
+20,Spell,Maelstrom
+21,Spell,Invisibility
+22,Spell,Torment
+23,Creature,Dark Monk Griffin
+24,Creature,Paladin
+25,Spell,Ice
+26,Creature,Berserker
+27,Creature,Light Fighter Hydra
+28,Creature,Aura Merchant Kraken
+29,Creature,Eagle
+30,Creature,Wolf
+31,Spell,Reanimate
+32,Enchantment,Firebreath
+33,Enchantment,Deathgrip
+34,Creature,Death Thief Cyclops
+35,Creature,Berserker
+36,Artifact,Greaves
+37,Artifact,Mighty Miracle Amulet
+38,Enchantment,Strength
+39,Enchantment,Firebreath
+40,Creature,Frozen Priest Orc
+41,Enchantment,Grim Invert
+42,Spell,Fury
+43,Spell,Wall
+44,Enchantment,Shade

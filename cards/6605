@@ -1,46 +1,46 @@
-==================,DECK,6605,Light
-0,Creature,Common,Wolf
-1,Creature,Legendary,Death Fighter Oni of the Haven
-2,Creature,Common,Spider
-3,Spell,Common,Assault
-4,Enchantment,Common,Deathgrip
-5,Creature,Legendary,Frozen Assassin Oni of the Bright Mountains
-6,Enchantment,Rare,Solar Agony
-7,Enchantment,Legendary,Instant Strength
-8,Creature,Rare,Dark Warrior Fairy
-9,Enchantment,Rare,Frigid Lethargy
-10,Spell,Common,Stun
-11,Artifact,Common,Bow
-12,Spell,Common,Vortex
-13,Artifact,Rare,Nimble Tome
-14,Creature,Legendary,Dark Assassin Orge of the Swamp
-15,Artifact,Common,Crown
-16,Artifact,Common,Ring
-17,Creature,Common,Dwarf
-18,Enchantment,Rare,Gloom Agony
-19,Creature,Common,Goblin
-20,Enchantment,Common,Blight
-21,Enchantment,Mythic,Potent Age
-22,Creature,Rare,Earth Lord Griffin
-23,Artifact,Common,Gauntlet
-24,Spell,Common,Reanimate
-25,Spell,Common,Sorrow
-26,Creature,Rare,Snow King Griffin
-27,Creature,Common,Dwarf
-28,Creature,Legendary,Earth Knight Cyclops of the Eternal Land
-29,Creature,Common,Wolf
-30,Spell,Rare,Oblivion Freeze
-31,Enchantment,Common,Blight
-32,Creature,Common,Elf
-33,Creature,Common,Paladin
-34,Spell,Legendary,Clever Rage
-35,Artifact,Common,Helmet
-36,Spell,Legendary,Urgent Stun
-37,Creature,Common,Ghoul
-38,Creature,Common,Paladin
-39,Enchantment,Common,Shield
-40,Creature,Common,Orc
-41,Creature,Common,Dwarf
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Flight
-44,Enchantment,Common,Shade
+==================,DECK,6605
+0,Creature,Wolf
+1,Creature,Death Fighter Oni of the Haven
+2,Creature,Paladin
+3,Spell,Freeze
+4,Enchantment,Blight
+5,Creature,Frozen Assassin Oni of the Bright Mountains
+6,Enchantment,Corpse Agony
+7,Enchantment,Irate Solar Deathgrip
+8,Creature,Dark Warrior Kraken
+9,Enchantment,Grim Haste
+10,Spell,Wall
+11,Artifact,Bow
+12,Spell,Rage
+13,Artifact,Shimmering Tome
+14,Creature,Dark Assassin Elf of the Swamp
+15,Artifact,Crown
+16,Artifact,Ring
+17,Creature,Magi
+18,Enchantment,Miracle Firebreath
+19,Creature,Skin-Walker
+20,Enchantment,Lethargy
+21,Enchantment,Empyrean Victory Shade
+22,Creature,Earth Lord Griffin
+23,Artifact,Gauntlet
+24,Spell,Lightning
+25,Spell,Stun
+26,Creature,Snow King Griffin
+27,Creature,Magi
+28,Creature,Earth Knight Giant of the Eternal Land
+29,Creature,Wolf
+30,Spell,Apocalypse Fury
+31,Enchantment,Alacrity
+32,Creature,Warlock
+33,Creature,Troll
+34,Spell,Dire Oblivion Heal
+35,Artifact,Helmet
+36,Spell,Mighty Nature Vortex
+37,Creature,Ghoul
+38,Creature,Troll
+39,Enchantment,Haste
+40,Creature,Spider
+41,Creature,Magi
+42,Creature,Ghoul
+43,Enchantment,Shield
+44,Enchantment,Shrink

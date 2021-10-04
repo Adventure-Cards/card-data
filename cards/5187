@@ -1,46 +1,46 @@
-==================,DECK,5187,Light
-0,Spell,Common,Reanimate
-1,Creature,Common,Eagle
-2,Creature,Rare,Snow Merchant Griffin
-3,Enchantment,Common,Lethargy
-4,Artifact,Rare,Oblivion Ghost Wand
-5,Artifact,Common,Belt
-6,Creature,Legendary,Light Warrior Oni of the Swamp
-7,Creature,Common,Warlock
-8,Enchantment,Common,Strength
-9,Creature,Rare,Dark Priest Hydra
-10,Enchantment,Common,Haste
-11,Spell,Common,Rage
-12,Enchantment,Common,Alacrity
-13,Enchantment,Rare,Frigid Agony
-14,Spell,Rare,Corpse Freeze
-15,Spell,Common,Sorrow
-16,Enchantment,Common,Invert
-17,Creature,Rare,Frozen King Griffin
-18,Spell,Common,Freeze
-19,Spell,Common,Gravitation
-20,Creature,Rare,Dark Knight Minotaur
-21,Creature,Rare,Light Warrior Hydra
-22,Spell,Common,Hypnosis
-23,Creature,Mythic,Earth Ancient Demon of the Shadows
-24,Enchantment,Common,Age
-25,Artifact,Common,Helm
-26,Enchantment,Common,Shield
-27,Spell,Common,Pandemonium
-28,Creature,Common,Elf
-29,Artifact,Common,Tome
-30,Enchantment,Common,Invert
-31,Enchantment,Common,Age
-32,Enchantment,Rare,Frigid Shield
-33,Artifact,Common,Ghost Wand
-34,Artifact,Common,Staff
-35,Enchantment,Common,Deathgrip
-36,Creature,Common,Ghoul
-37,Creature,Mythic,Earth Ancient Wizard of the Shadows
-38,Enchantment,Rare,Hateful Shrink
-39,Enchantment,Common,Shade
-40,Creature,Common,Eagle
-41,Creature,Common,Magi
-42,Artifact,Common,Greaves
-43,Creature,Common,Elf
-44,Artifact,Rare,Lunar Belt
+==================,DECK,5187
+0,Spell,Maelstrom
+1,Creature,Eagle
+2,Creature,Snow Merchant Griffin
+3,Enchantment,Drain
+4,Artifact,Victory Ghost Wand
+5,Artifact,Belt
+6,Creature,Light Warrior Oni of the Swamp
+7,Creature,Berserker
+8,Enchantment,Shield
+9,Creature,Dark Priest Hydra
+10,Enchantment,Drain
+11,Spell,Torment
+12,Enchantment,Deathgrip
+13,Enchantment,Life Haste
+14,Spell,Shimmering Wall
+15,Spell,Frenzy
+16,Enchantment,Flight
+17,Creature,Frozen King Griffin
+18,Spell,Assault
+19,Spell,Infuriate
+20,Creature,Dark Knight Cyclops
+21,Creature,Light Warrior Hydra
+22,Spell,Fury
+23,Creature,Earth Ancient Demon of the Shadows
+24,Enchantment,Shade
+25,Artifact,Helm
+26,Enchantment,Shield
+27,Spell,Frenzy
+28,Creature,Warlock
+29,Artifact,Tome
+30,Enchantment,Shade
+31,Enchantment,Deathgrip
+32,Enchantment,Victory Drain
+33,Artifact,Ghost Wand
+34,Artifact,Staff
+35,Enchantment,Blight
+36,Creature,Ghoul
+37,Creature,Earth Ancient Wizard of the Shadows
+38,Enchantment,Chimeric Shrink
+39,Enchantment,Drain
+40,Creature,Eagle
+41,Creature,Fairy
+42,Artifact,Greaves
+43,Creature,Warlock
+44,Artifact,Miracle Belt

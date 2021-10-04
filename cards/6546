@@ -1,46 +1,46 @@
-==================,DECK,6546,Medium
-0,Creature,Rare,Earth Rogue Berserker
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Dark Lord Hydra
-3,Spell,Common,Lightning
-4,Creature,Common,Warlock
-5,Creature,Common,Goblin
-6,Creature,Rare,Light Undead Skin-Walker
-7,Spell,Mythic,Urgent Maelstrom
-8,Spell,Common,Frenzy
-9,Spell,Common,Assault
-10,Spell,Common,Sorrow
-11,Creature,Common,Wolf
-12,Artifact,Common,Ghost Wand
-13,Enchantment,Common,Strength
-14,Enchantment,Common,Shrink
-15,Creature,Common,Spider
-16,Creature,Common,Eagle
-17,Creature,Common,Elf
-18,Enchantment,Common,Blight
-19,Creature,Common,Paladin
-20,Creature,Common,Dwarf
-21,Creature,Common,Paladin
-22,Artifact,Rare,Cataclysmic Belt
-23,Creature,Mythic,Earth Grand Demon of the Shadows
-24,Creature,Legendary,Frozen Fighter Kraken of the Magical Forest
-25,Spell,Rare,Dark Invisibility
-26,Creature,Mythic,Aura Undead Phoenix of the Light
-27,Creature,Mythic,Frozen Nameless Phoenix of the Void
-28,Artifact,Common,Cloak
-29,Spell,Common,Burst
-30,Spell,Rare,Shimmering Stricken
-31,Creature,Common,Elf
-32,Enchantment,Common,Alacrity
-33,Creature,Common,Eagle
-34,Creature,Common,Goblin
-35,Enchantment,Legendary,Instant Agony
-36,Creature,Common,Paladin
-37,Creature,Common,Goblin
-38,Creature,Legendary,Death Rogue Oni of the Eternal Land
-39,Creature,Common,Eagle
-40,Spell,Rare,Shimmering Burn
-41,Creature,Common,Dwarf
-42,Creature,Rare,Frozen Lord Berserker
-43,Artifact,Rare,Nature Ring
-44,Creature,Common,Orc
+==================,DECK,6546
+0,Creature,Earth Rogue Goblin
+1,Enchantment,Flight
+2,Creature,Dark Lord Hydra
+3,Spell,Ice
+4,Creature,Berserker
+5,Creature,Skin-Walker
+6,Creature,Light Undead Orc
+7,Spell,Mighty Forged Invisibility
+8,Spell,Fire
+9,Spell,Infuriate
+10,Spell,Infuriate
+11,Creature,Wolf
+12,Artifact,Ghost Wand
+13,Enchantment,Deathgrip
+14,Enchantment,Strength
+15,Creature,Paladin
+16,Creature,Eagle
+17,Creature,Warlock
+18,Enchantment,Invert
+19,Creature,Troll
+20,Creature,Magi
+21,Creature,Troll
+22,Artifact,Dark Belt
+23,Creature,Earth Grand Demon of the Shadows
+24,Creature,Frozen Fighter Ogre of the Magical Forest
+25,Spell,Gloom Hypnosis
+26,Creature,Aura Undead Phoenix of the Light
+27,Creature,Frozen Nameless Phoenix of the Void
+28,Artifact,Cloak
+29,Spell,Fire
+30,Spell,Solar Freeze
+31,Creature,Warlock
+32,Enchantment,Deathgrip
+33,Creature,Eagle
+34,Creature,Skin-Walker
+35,Enchantment,Dire Corpse Age
+36,Creature,Troll
+37,Creature,Skin-Walker
+38,Creature,Death Rogue Oni of the Eternal Land
+39,Creature,Eagle
+40,Spell,Solar Pandemonium
+41,Creature,Magi
+42,Creature,Frozen Lord Goblin
+43,Artifact,Corpse Ring
+44,Creature,Spider

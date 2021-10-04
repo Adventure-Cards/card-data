@@ -1,46 +1,46 @@
-==================,DECK,6751,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Haste
-2,Creature,Common,Orc
-3,Spell,Common,Pandemonium
-4,Creature,Rare,Earth Queen Fairy
-5,Creature,Rare,Light Fighter Hydra
-6,Creature,Common,Wolf
-7,Artifact,Common,Bracers
-8,Creature,Rare,Snow Lord Griffin
-9,Creature,Common,Paladin
-10,Creature,Common,Warlock
-11,Enchantment,Common,Deathgrip
-12,Enchantment,Common,Blight
-13,Creature,Rare,Light Rogue Hydra
-14,Creature,Legendary,Snow Queen Cyclops of the West
-15,Artifact,Common,Ring
-16,Creature,Common,Ghoul
-17,Creature,Rare,Snow Queen Minotaur
-18,Creature,Common,Warlock
-19,Creature,Legendary,Dark Fighter Giant of the Black Stone
-20,Creature,Common,Spider
-21,Artifact,Common,Helmet
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Paladin
-24,Spell,Common,Stun
-25,Creature,Rare,Earth Undead Minotaur
-26,Creature,Rare,Snow Merchant Griffin
-27,Creature,Legendary,Death Merchant Cyclops of the Arctic Blizzards
-28,Creature,Rare,Aura King Fairy
-29,Creature,Common,Magi
-30,Enchantment,Rare,Nimble Alacrity
-31,Spell,Common,Frost
-32,Creature,Common,Warlock
-33,Spell,Common,Reanimate
-34,Enchantment,Common,Blight
-35,Creature,Common,Wolf
-36,Creature,Rare,Dark Monk Fairy
-37,Creature,Rare,Earth Queen Griffin
-38,Enchantment,Common,Shield
-39,Creature,Common,Magi
-40,Enchantment,Common,Haste
-41,Creature,Common,Wolf
-42,Enchantment,Common,Drain
-43,Creature,Rare,Earth Lord Hydra
-44,Creature,Common,Magi
+==================,DECK,6751
+0,Creature,Ghoul
+1,Enchantment,Strength
+2,Creature,Spider
+3,Spell,Burn
+4,Creature,Earth Queen Kraken
+5,Creature,Light Fighter Hydra
+6,Creature,Wolf
+7,Artifact,Bracers
+8,Creature,Snow Lord Griffin
+9,Creature,Troll
+10,Creature,Berserker
+11,Enchantment,Deathgrip
+12,Enchantment,Flight
+13,Creature,Light Rogue Hydra
+14,Creature,Snow Queen Giant of the West
+15,Artifact,Ring
+16,Creature,Ghoul
+17,Creature,Snow Queen Cyclops
+18,Creature,Berserker
+19,Creature,Dark Fighter Dwarf of the Black Stone
+20,Creature,Paladin
+21,Artifact,Helmet
+22,Enchantment,Shrink
+23,Creature,Troll
+24,Spell,Revive
+25,Creature,Earth Undead Cyclops
+26,Creature,Snow Merchant Griffin
+27,Creature,Death Merchant Giant of the Arctic Blizzards
+28,Creature,Aura King Kraken
+29,Creature,Fairy
+30,Enchantment,Forged Deathgrip
+31,Spell,Hypnosis
+32,Creature,Berserker
+33,Spell,Infuriate
+34,Enchantment,Agony
+35,Creature,Wolf
+36,Creature,Dark Monk Kraken
+37,Creature,Earth Queen Griffin
+38,Enchantment,Lethargy
+39,Creature,Fairy
+40,Enchantment,Age
+41,Creature,Wolf
+42,Enchantment,Blight
+43,Creature,Earth Lord Hydra
+44,Creature,Fairy

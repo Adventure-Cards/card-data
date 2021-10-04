@@ -1,46 +1,46 @@
-==================,DECK,6368,Light
-0,Creature,Legendary,Death Knight Giant of the Frozen Castle
-1,Enchantment,Common,Deathgrip
-2,Enchantment,Common,Strength
-3,Creature,Rare,Frozen Queen Griffin
-4,Creature,Common,Magi
-5,Artifact,Common,Gloves
-6,Spell,Common,Heal
-7,Creature,Rare,Death Lord Hydra
-8,Enchantment,Common,Invert
-9,Enchantment,Mythic,Clever Deathgrip
-10,Spell,Rare,Lunar Maelstrom
-11,Creature,Common,Spider
-12,Artifact,Common,Ring
-13,Artifact,Common,Bracers
-14,Creature,Rare,Aura Knight Skin-Walker
-15,Creature,Mythic,Earth Undead Dragon of the Shadows
-16,Creature,Legendary,Frozen Queen Orge of the Mountains
-17,Creature,Common,Magi
-18,Artifact,Common,Sigil
-19,Artifact,Legendary,Extreme Helm
-20,Artifact,Common,Belt
-21,Spell,Common,Heal
-22,Artifact,Rare,Frigid Divine Robe
-23,Enchantment,Rare,Hateful Blight
-24,Enchantment,Common,Flight
-25,Creature,Common,Orc
-26,Creature,Common,Wolf
-27,Creature,Rare,Light Thief Minotaur
-28,Creature,Common,Spider
-29,Spell,Common,Heal
-30,Artifact,Common,Bracers
-31,Creature,Rare,Dark Thief Hydra
-32,Artifact,Rare,Necro Sword
-33,Creature,Common,Ghoul
-34,Creature,Common,Orc
-35,Creature,Common,Eagle
-36,Spell,Legendary,Clever Revive
-37,Creature,Common,Goblin
-38,Creature,Common,Dwarf
-39,Creature,Common,Dwarf
-40,Spell,Legendary,Intense Revive
-41,Creature,Common,Paladin
-42,Spell,Common,Ice
-43,Creature,Common,Orc
-44,Creature,Common,Dwarf
+==================,DECK,6368
+0,Creature,Death Knight Dwarf of the Frozen Castle
+1,Enchantment,Haste
+2,Enchantment,Strength
+3,Creature,Frozen Queen Griffin
+4,Creature,Fairy
+5,Artifact,Gloves
+6,Spell,Pandemonium
+7,Creature,Death Lord Hydra
+8,Enchantment,Blight
+9,Enchantment,Mighty Oblivion Invert
+10,Spell,Cataclysmic Stun
+11,Creature,Paladin
+12,Artifact,Ring
+13,Artifact,Bracers
+14,Creature,Aura Knight Orc
+15,Creature,Earth Undead Dragon of the Shadows
+16,Creature,Frozen Queen Elf of the Mountains
+17,Creature,Fairy
+18,Artifact,Sigil
+19,Artifact,Dire Lunar Helm
+20,Artifact,Belt
+21,Spell,Hypnosis
+22,Artifact,Victory Divine Robe
+23,Enchantment,Cataclysmic Alacrity
+24,Enchantment,Lethargy
+25,Creature,Spider
+26,Creature,Wolf
+27,Creature,Light Thief Cyclops
+28,Creature,Paladin
+29,Spell,Frenzy
+30,Artifact,Bracers
+31,Creature,Dark Thief Hydra
+32,Artifact,Corpse Sword
+33,Creature,Ghoul
+34,Creature,Spider
+35,Creature,Eagle
+36,Spell,Urgent Victory Infuriate
+37,Creature,Skin-Walker
+38,Creature,Magi
+39,Creature,Magi
+40,Spell,Urgent Necro Revive
+41,Creature,Troll
+42,Spell,Burn
+43,Creature,Spider
+44,Creature,Magi

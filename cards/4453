@@ -1,46 +1,46 @@
-==================,DECK,4453,Medium
-0,Enchantment,Common,Invert
-1,Creature,Rare,Death Assassin Skin-Walker
-2,Artifact,Common,Ring
-3,Creature,Common,Wolf
-4,Spell,Common,Burst
-5,Creature,Common,Goblin
-6,Spell,Common,Torment
-7,Creature,Mythic,Frozen Undead Dragon of the Void
-8,Creature,Common,Goblin
-9,Creature,Common,Dwarf
-10,Enchantment,Common,Strength
-11,Creature,Common,Warlock
-12,Creature,Rare,Frozen Fighter Griffin
-13,Spell,Common,Wall
-14,Creature,Common,Eagle
-15,Enchantment,Rare,Nature Blight
-16,Creature,Legendary,Earth Fighter Oni of the Arctic Blizzards
-17,Enchantment,Rare,Frigid Invert
-18,Creature,Mythic,Earth Ancient Wizard of the Shadows
-19,Creature,Legendary,Light Warrior Oni of the Swamp
-20,Creature,Common,Ghoul
-21,Creature,Common,Wolf
-22,Enchantment,Common,Haste
-23,Spell,Common,Frenzy
-24,Creature,Rare,Death Queen Hydra
-25,Spell,Common,Torment
-26,Enchantment,Legendary,Urgent Shrink
-27,Spell,Legendary,Urgent Ice
-28,Enchantment,Common,Agony
-29,Creature,Rare,Death Monk Berserker
-30,Enchantment,Legendary,Extreme Haste
-31,Creature,Common,Wolf
-32,Creature,Legendary,Earth Priest Oni of the West
-33,Creature,Common,Spider
-34,Artifact,Common,Scepter
-35,Spell,Common,Wall
-36,Creature,Rare,Dark Priest Fairy
-37,Creature,Mythic,Snow Grand Wizard of Hate
-38,Creature,Common,Dwarf
-39,Spell,Rare,Grim Lightning
-40,Creature,Common,Warlock
-41,Creature,Common,Warlock
-42,Enchantment,Common,Shade
-43,Creature,Common,Magi
-44,Artifact,Rare,Grim Helm
+==================,DECK,4453
+0,Enchantment,Drain
+1,Creature,Death Assassin Orc
+2,Artifact,Ring
+3,Creature,Wolf
+4,Spell,Frost
+5,Creature,Skin-Walker
+6,Spell,Gale
+7,Creature,Frozen Undead Dragon of the Void
+8,Creature,Skin-Walker
+9,Creature,Magi
+10,Enchantment,Haste
+11,Creature,Berserker
+12,Creature,Frozen Fighter Griffin
+13,Spell,Infuriate
+14,Creature,Eagle
+15,Enchantment,Solar Age
+16,Creature,Earth Fighter Oni of the Arctic Blizzards
+17,Enchantment,Oblivion Haste
+18,Creature,Earth Ancient Wizard of the Shadows
+19,Creature,Light Warrior Oni of the Swamp
+20,Creature,Ghoul
+21,Creature,Wolf
+22,Enchantment,Deathgrip
+23,Spell,Gravitation
+24,Creature,Death Queen Hydra
+25,Spell,Vortex
+26,Enchantment,Potent Necro Strength
+27,Spell,Clever Hateful Maelstrom
+28,Enchantment,Flight
+29,Creature,Death Monk Goblin
+30,Enchantment,Potent Miracle Shrink
+31,Creature,Wolf
+32,Creature,Earth Priest Oni of the West
+33,Creature,Paladin
+34,Artifact,Scepter
+35,Spell,Vortex
+36,Creature,Dark Priest Kraken
+37,Creature,Snow Grand Wizard of Hate
+38,Creature,Magi
+39,Spell,Nimble Rage
+40,Creature,Berserker
+41,Creature,Berserker
+42,Enchantment,Alacrity
+43,Creature,Fairy
+44,Artifact,Oblivion Helm

@@ -1,46 +1,46 @@
-==================,DECK,4227,Light
-0,Enchantment,Common,Shade
-1,Spell,Common,Wall
-2,Spell,Common,Heal
-3,Artifact,Common,Pendant
-4,Artifact,Common,Potion
-5,Enchantment,Rare,Nature Haste
-6,Creature,Common,Spider
-7,Enchantment,Common,Shield
-8,Creature,Common,Elf
-9,Spell,Common,Infuriate
-10,Artifact,Common,Tome
-11,Creature,Common,Magi
-12,Creature,Common,Warlock
-13,Creature,Common,Goblin
-14,Artifact,Rare,Forged Amulet
-15,Creature,Common,Magi
-16,Artifact,Common,Crown
-17,Spell,Legendary,Clever Infuriate
-18,Artifact,Common,Sword
-19,Spell,Common,Fury
-20,Creature,Common,Ghoul
-21,Creature,Common,Spider
-22,Creature,Common,Orc
-23,Artifact,Common,Belt
-24,Creature,Common,Warlock
-25,Spell,Rare,Necro Hypnosis
-26,Creature,Common,Magi
-27,Artifact,Rare,Apocalypse Scepter
-28,Spell,Common,Torment
-29,Enchantment,Common,Deathgrip
-30,Spell,Common,Revive
-31,Creature,Common,Wolf
-32,Creature,Common,Orc
-33,Artifact,Legendary,Urgent Scepter
-34,Creature,Rare,Snow Thief Berserker
-35,Creature,Rare,Frozen Knight Minotaur
-36,Creature,Common,Eagle
-37,Creature,Common,Eagle
-38,Enchantment,Common,Age
-39,Enchantment,Common,Flight
-40,Creature,Common,Ghoul
-41,Creature,Rare,Dark Knight Fairy
-42,Creature,Rare,Earth Warrior Fairy
-43,Spell,Common,Stricken
-44,Creature,Common,Warlock
+==================,DECK,4227
+0,Enchantment,Age
+1,Spell,Maelstrom
+2,Spell,Pandemonium
+3,Artifact,Pendant
+4,Artifact,Potion
+5,Enchantment,Corpse Deathgrip
+6,Creature,Paladin
+7,Enchantment,Flight
+8,Creature,Warlock
+9,Spell,Vortex
+10,Artifact,Tome
+11,Creature,Fairy
+12,Creature,Berserker
+13,Creature,Skin-Walker
+14,Artifact,Dark Amulet
+15,Creature,Fairy
+16,Artifact,Crown
+17,Spell,Clever Victory Revive
+18,Artifact,Sword
+19,Spell,Fireball
+20,Creature,Ghoul
+21,Creature,Paladin
+22,Creature,Spider
+23,Artifact,Belt
+24,Creature,Berserker
+25,Spell,Corpse Vortex
+26,Creature,Fairy
+27,Artifact,Apocalypse Scepter
+28,Spell,Burst
+29,Enchantment,Shield
+30,Spell,Heal
+31,Creature,Wolf
+32,Creature,Spider
+33,Artifact,Potent Solar Scepter
+34,Creature,Snow Thief Goblin
+35,Creature,Frozen Knight Cyclops
+36,Creature,Eagle
+37,Creature,Eagle
+38,Enchantment,Invert
+39,Enchantment,Alacrity
+40,Creature,Ghoul
+41,Creature,Dark Knight Kraken
+42,Creature,Earth Warrior Kraken
+43,Spell,Burst
+44,Creature,Berserker

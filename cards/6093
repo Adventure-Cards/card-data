@@ -1,46 +1,46 @@
-==================,DECK,6093,Medium
-0,Creature,Common,Elf
-1,Creature,Legendary,Aura Warrior Giant of the Arctic Blizzards
-2,Enchantment,Rare,Nimble Shield
-3,Creature,Rare,Death Priest Berserker
-4,Artifact,Common,Sword
-5,Enchantment,Rare,Forged Alacrity
-6,Spell,Common,Burst
-7,Spell,Common,Ice
-8,Creature,Mythic,Death Grand Demon of the Dead
-9,Spell,Rare,Nimble Revive
-10,Enchantment,Rare,Solar Invert
-11,Creature,Common,Ghoul
-12,Enchantment,Rare,Dark Strength
-13,Creature,Legendary,Aura Warrior Orge of the Low Hills
-14,Creature,Mythic,Frozen Grand Demon of the Void
-15,Creature,Rare,Frozen Queen Fairy
-16,Creature,Common,Paladin
-17,Creature,Rare,Death Merchant Skin-Walker
-18,Enchantment,Common,Deathgrip
-19,Creature,Common,Orc
-20,Artifact,Rare,Solar Amulet
-21,Creature,Rare,Dark Priest Berserker
-22,Creature,Mythic,Light Ancient Wizard of the Sky
-23,Enchantment,Common,Invert
-24,Creature,Common,Wolf
-25,Spell,Rare,Life Burst
-26,Creature,Common,Wolf
-27,Artifact,Rare,Life Greaves
-28,Creature,Rare,Snow Thief Minotaur
-29,Creature,Common,Warlock
-30,Creature,Rare,Earth Warrior Minotaur
-31,Spell,Common,Lightning
-32,Artifact,Common,Tome
-33,Artifact,Rare,Gloom Ring
-34,Creature,Mythic,Frozen Grand Wizard of the Void
-35,Spell,Rare,Oblivion Frost
-36,Creature,Common,Goblin
-37,Creature,Common,Ghoul
-38,Artifact,Common,Helmet
-39,Creature,Common,Wolf
-40,Artifact,Rare,Necro Helm
-41,Creature,Common,Spider
-42,Spell,Common,Pandemonium
-43,Creature,Rare,Dark Assassin Minotaur
-44,Creature,Legendary,Dark Lord Kraken of the Low Hills
+==================,DECK,6093
+0,Creature,Warlock
+1,Creature,Aura Warrior Dwarf of the Arctic Blizzards
+2,Enchantment,Nature Lethargy
+3,Creature,Death Priest Goblin
+4,Artifact,Sword
+5,Enchantment,Dark Alacrity
+6,Spell,Ice
+7,Spell,Fire
+8,Creature,Death Grand Demon of the Dead
+9,Spell,Shimmering Invisibility
+10,Enchantment,Shimmering Agony
+11,Creature,Ghoul
+12,Enchantment,Cataclysmic Alacrity
+13,Creature,Aura Warrior Elf of the Low Hills
+14,Creature,Frozen Grand Demon of the Void
+15,Creature,Frozen Queen Kraken
+16,Creature,Troll
+17,Creature,Death Merchant Orc
+18,Enchantment,Alacrity
+19,Creature,Spider
+20,Artifact,Hateful Amulet
+21,Creature,Dark Priest Goblin
+22,Creature,Light Ancient Wizard of the Sky
+23,Enchantment,Blight
+24,Creature,Wolf
+25,Spell,Oblivion Infuriate
+26,Creature,Wolf
+27,Artifact,Apocalypse Greaves
+28,Creature,Snow Thief Cyclops
+29,Creature,Berserker
+30,Creature,Earth Warrior Cyclops
+31,Spell,Lightning
+32,Artifact,Tome
+33,Artifact,Gloom Ring
+34,Creature,Frozen Grand Wizard of the Void
+35,Spell,Apocalypse Frost
+36,Creature,Skin-Walker
+37,Creature,Ghoul
+38,Artifact,Helmet
+39,Creature,Wolf
+40,Artifact,Solar Helm
+41,Creature,Paladin
+42,Spell,Hypnosis
+43,Creature,Dark Assassin Cyclops
+44,Creature,Dark Lord Ogre of the Low Hills

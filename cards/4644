@@ -1,46 +1,46 @@
-==================,DECK,4644,Light
-0,Spell,Common,Stricken
-1,Enchantment,Legendary,Clever Alacrity
-2,Enchantment,Rare,Nature Drain
-3,Artifact,Common,Staff
-4,Enchantment,Common,Shield
-5,Creature,Common,Goblin
-6,Creature,Rare,Snow Rogue Skin-Walker
-7,Creature,Common,Wolf
-8,Creature,Rare,Aura Undead Skin-Walker
-9,Creature,Mythic,Frozen Nameless Dragon of the Void
-10,Creature,Common,Goblin
-11,Creature,Legendary,Dark Queen Oni of the Bright Mountains
-12,Creature,Rare,Frozen Assassin Berserker
-13,Enchantment,Rare,Forged Alacrity
-14,Spell,Rare,Life Burst
-15,Spell,Common,Lightning
-16,Enchantment,Common,Strength
-17,Creature,Common,Warlock
-18,Spell,Rare,Necro Maelstrom
-19,Creature,Rare,Frozen Undead Hydra
-20,Creature,Common,Wolf
-21,Creature,Rare,Dark Undead Hydra
-22,Enchantment,Common,Shrink
-23,Spell,Common,Burst
-24,Creature,Common,Spider
-25,Creature,Common,Eagle
-26,Creature,Common,Orc
-27,Enchantment,Rare,Miracle Deathgrip
-28,Creature,Mythic,Aura Chaos Demon of the Light
-29,Artifact,Legendary,Clever Ring
-30,Artifact,Common,Scepter
-31,Creature,Common,Orc
-32,Creature,Common,Dwarf
-33,Artifact,Common,Bow
-34,Creature,Common,Paladin
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Lethargy
-37,Spell,Rare,Gloom Lightning
-38,Spell,Common,Lightning
-39,Enchantment,Common,Shade
-40,Spell,Rare,Cataclysmic Maelstrom
-41,Spell,Common,Stricken
-42,Creature,Common,Ghoul
-43,Spell,Common,Burst
-44,Creature,Rare,Frozen Monk Minotaur
+==================,DECK,4644
+0,Spell,Reanimate
+1,Enchantment,Irate Apocalypse Blight
+2,Enchantment,Forged Deathgrip
+3,Artifact,Staff
+4,Enchantment,Strength
+5,Creature,Skin-Walker
+6,Creature,Snow Rogue Orc
+7,Creature,Wolf
+8,Creature,Aura Undead Orc
+9,Creature,Frozen Nameless Dragon of the Void
+10,Creature,Skin-Walker
+11,Creature,Dark Queen Oni of the Bright Mountains
+12,Creature,Frozen Assassin Goblin
+13,Enchantment,Dark Shrink
+14,Spell,Victory Fury
+15,Spell,Maelstrom
+16,Enchantment,Lethargy
+17,Creature,Berserker
+18,Spell,Nature Reanimate
+19,Creature,Frozen Undead Hydra
+20,Creature,Wolf
+21,Creature,Dark Undead Hydra
+22,Enchantment,Alacrity
+23,Spell,Vortex
+24,Creature,Paladin
+25,Creature,Eagle
+26,Creature,Spider
+27,Enchantment,Oblivion Blight
+28,Creature,Aura Chaos Demon of the Light
+29,Artifact,Ardent Oblivion Ring
+30,Artifact,Scepter
+31,Creature,Spider
+32,Creature,Magi
+33,Artifact,Bow
+34,Creature,Troll
+35,Creature,Ghoul
+36,Enchantment,Firebreath
+37,Spell,Cataclysmic Ice
+38,Spell,Sorrow
+39,Enchantment,Flight
+40,Spell,Chimeric Stricken
+41,Spell,Invisibility
+42,Creature,Ghoul
+43,Spell,Tempest
+44,Creature,Frozen Monk Cyclops

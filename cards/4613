@@ -1,46 +1,46 @@
-==================,DECK,4613,Light
-0,Spell,Common,Stun
-1,Creature,Mythic,Death Ancient Demon of the Dead
-2,Creature,Common,Ghoul
-3,Artifact,Common,Divine Robe
-4,Spell,Common,Pandemonium
-5,Enchantment,Common,Agony
-6,Creature,Common,Spider
-7,Enchantment,Common,Drain
-8,Enchantment,Common,Shrink
-9,Spell,Common,Freeze
-10,Spell,Common,Gale
-11,Spell,Common,Burst
-12,Creature,Common,Magi
-13,Creature,Common,Goblin
-14,Creature,Common,Paladin
-15,Creature,Common,Elf
-16,Artifact,Rare,Apocalypse Scepter
-17,Spell,Common,Revive
-18,Creature,Common,Warlock
-19,Creature,Common,Orc
-20,Creature,Common,Elf
-21,Spell,Common,Stricken
-22,Spell,Common,Assault
-23,Creature,Rare,Death Priest Skin-Walker
-24,Creature,Rare,Dark King Griffin
-25,Enchantment,Rare,Dark Agony
-26,Creature,Legendary,Dark Merchant Oni of the Black Stone
-27,Creature,Common,Dwarf
-28,Creature,Rare,Light Lord Minotaur
-29,Creature,Common,Paladin
-30,Creature,Common,Spider
-31,Spell,Common,Pandemonium
-32,Creature,Common,Ghoul
-33,Enchantment,Common,Drain
-34,Creature,Common,Goblin
-35,Creature,Common,Spider
-36,Creature,Rare,Aura Thief Hydra
-37,Creature,Common,Paladin
-38,Spell,Legendary,Intense Stun
-39,Creature,Common,Orc
-40,Enchantment,Common,Agony
-41,Creature,Common,Eagle
-42,Artifact,Common,Gauntlet
-43,Creature,Common,Elf
-44,Creature,Common,Eagle
+==================,DECK,4613
+0,Spell,Fire
+1,Creature,Death Ancient Demon of the Dead
+2,Creature,Ghoul
+3,Artifact,Divine Robe
+4,Spell,Sorrow
+5,Enchantment,Firebreath
+6,Creature,Paladin
+7,Enchantment,Strength
+8,Enchantment,Deathgrip
+9,Spell,Pandemonium
+10,Spell,Tempest
+11,Spell,Fireball
+12,Creature,Fairy
+13,Creature,Skin-Walker
+14,Creature,Troll
+15,Creature,Warlock
+16,Artifact,Oblivion Scepter
+17,Spell,Torment
+18,Creature,Berserker
+19,Creature,Spider
+20,Creature,Warlock
+21,Spell,Vortex
+22,Spell,Revive
+23,Creature,Death Priest Orc
+24,Creature,Dark King Griffin
+25,Enchantment,Miracle Flight
+26,Creature,Dark Merchant Oni of the Black Stone
+27,Creature,Magi
+28,Creature,Light Lord Cyclops
+29,Creature,Troll
+30,Creature,Paladin
+31,Spell,Fire
+32,Creature,Ghoul
+33,Enchantment,Firebreath
+34,Creature,Skin-Walker
+35,Creature,Paladin
+36,Creature,Aura Thief Hydra
+37,Creature,Troll
+38,Spell,Potent Necro Burst
+39,Creature,Spider
+40,Enchantment,Shrink
+41,Creature,Eagle
+42,Artifact,Gauntlet
+43,Creature,Warlock
+44,Creature,Eagle

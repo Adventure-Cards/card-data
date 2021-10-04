@@ -1,46 +1,46 @@
-==================,DECK,4930,Light
-0,Enchantment,Common,Shrink
-1,Creature,Common,Magi
-2,Creature,Common,Dwarf
-3,Creature,Common,Wolf
-4,Artifact,Rare,Hateful Ghost Wand
-5,Creature,Common,Paladin
-6,Spell,Legendary,Potent Heal
-7,Creature,Common,Goblin
-8,Spell,Legendary,Dire Vortex
-9,Enchantment,Mythic,Potent Flight
-10,Creature,Common,Goblin
-11,Creature,Legendary,Earth Monk Orge of the West
-12,Creature,Common,Ghoul
-13,Enchantment,Common,Shield
-14,Creature,Common,Magi
-15,Creature,Rare,Snow Queen Fairy
-16,Spell,Common,Stun
-17,Creature,Common,Wolf
-18,Creature,Common,Dwarf
-19,Creature,Common,Ghoul
-20,Creature,Legendary,Light Assassin Orge of the Low Hills
-21,Creature,Legendary,Snow King Giant of the Low Hills
-22,Creature,Common,Wolf
-23,Spell,Common,Stricken
-24,Creature,Legendary,Light Rogue Cyclops of the Haven
-25,Enchantment,Common,Age
-26,Creature,Common,Wolf
-27,Creature,Legendary,Dark Lord Orge of the Haven
-28,Creature,Mythic,Aura Ancient Demon of the Light
-29,Enchantment,Common,Agony
-30,Creature,Legendary,Earth Knight Cyclops of the Border
-31,Enchantment,Common,Invert
-32,Enchantment,Common,Shrink
-33,Enchantment,Mythic,Potent Shade
-34,Creature,Rare,Snow Priest Griffin
-35,Creature,Legendary,Frozen Assassin Orge of the Low Hills
-36,Spell,Common,Burn
-37,Spell,Common,Rage
-38,Creature,Common,Eagle
-39,Creature,Common,Goblin
-40,Creature,Rare,Earth Assassin Minotaur
-41,Creature,Common,Spider
-42,Artifact,Legendary,Angry Shield
-43,Enchantment,Mythic,Intense Alacrity
-44,Spell,Common,Wall
+==================,DECK,4930
+0,Enchantment,Alacrity
+1,Creature,Fairy
+2,Creature,Magi
+3,Creature,Wolf
+4,Artifact,Sorrow Ghost Wand
+5,Creature,Troll
+6,Spell,Instant Frigid Tempest
+7,Creature,Skin-Walker
+8,Spell,Ardent Frigid Frenzy
+9,Enchantment,Zealous Grim Blight
+10,Creature,Skin-Walker
+11,Creature,Earth Monk Elf of the West
+12,Creature,Ghoul
+13,Enchantment,Invert
+14,Creature,Fairy
+15,Creature,Snow Queen Kraken
+16,Spell,Tempest
+17,Creature,Wolf
+18,Creature,Magi
+19,Creature,Ghoul
+20,Creature,Light Assassin Elf of the Low Hills
+21,Creature,Snow King Dwarf of the Low Hills
+22,Creature,Wolf
+23,Spell,Assault
+24,Creature,Light Rogue Giant of the Haven
+25,Enchantment,Firebreath
+26,Creature,Wolf
+27,Creature,Dark Lord Elf of the Haven
+28,Creature,Aura Ancient Demon of the Light
+29,Enchantment,Shade
+30,Creature,Earth Knight Giant of the Border
+31,Enchantment,Age
+32,Enchantment,Drain
+33,Enchantment,Dire Frigid Shade
+34,Creature,Snow Priest Griffin
+35,Creature,Frozen Assassin Elf of the Low Hills
+36,Spell,Freeze
+37,Spell,Maelstrom
+38,Creature,Eagle
+39,Creature,Skin-Walker
+40,Creature,Earth Assassin Cyclops
+41,Creature,Paladin
+42,Artifact,Empyrean Gloom Shield
+43,Enchantment,Ardent Forged Lethargy
+44,Spell,Wall

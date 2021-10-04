@@ -1,46 +1,46 @@
-==================,DECK,7848,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Magi
-2,Spell,Legendary,Intense Pandemonium
-3,Artifact,Legendary,Intense Scepter
-4,Creature,Rare,Snow Merchant Hydra
-5,Artifact,Common,Cloak
-6,Creature,Common,Dwarf
-7,Enchantment,Common,Drain
-8,Creature,Legendary,Light Fighter Kraken of the Haven
-9,Creature,Legendary,Aura King Kraken of the Haven
-10,Spell,Rare,Life Burn
-11,Spell,Legendary,Urgent Ice
-12,Artifact,Common,Tome
-13,Spell,Rare,Shimmering Ice
-14,Enchantment,Common,Blight
-15,Creature,Rare,Light Rogue Hydra
-16,Spell,Common,Frost
-17,Creature,Common,Eagle
-18,Creature,Rare,Dark Fighter Skin-Walker
-19,Creature,Common,Elf
-20,Spell,Common,Torment
-21,Spell,Rare,Life Reanimate
-22,Artifact,Common,Divine Robe
-23,Spell,Rare,Nature Fury
-24,Spell,Common,Vortex
-25,Creature,Rare,Snow Merchant Hydra
-26,Creature,Common,Paladin
-27,Spell,Common,Sorrow
-28,Enchantment,Rare,Gloom Shield
-29,Enchantment,Common,Shade
-30,Creature,Common,Orc
-31,Spell,Common,Gale
-32,Creature,Common,Paladin
-33,Creature,Common,Ghoul
-34,Artifact,Rare,Hateful Sword
-35,Creature,Common,Elf
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Alacrity
-38,Enchantment,Mythic,Mighty Agony
-39,Enchantment,Common,Strength
-40,Creature,Common,Ghoul
-41,Creature,Common,Elf
-42,Creature,Common,Ghoul
-43,Creature,Mythic,Death Nameless Phoenix of the Dead
-44,Enchantment,Common,Invert
+==================,DECK,7848
+0,Creature,Magi
+1,Creature,Fairy
+2,Spell,Mighty Nature Invisibility
+3,Artifact,Potent Forged Scepter
+4,Creature,Snow Merchant Hydra
+5,Artifact,Cloak
+6,Creature,Magi
+7,Enchantment,Invert
+8,Creature,Light Fighter Ogre of the Haven
+9,Creature,Aura King Ogre of the Haven
+10,Spell,Grim Assault
+11,Spell,Clever Hateful Hypnosis
+12,Artifact,Tome
+13,Spell,Shimmering Stricken
+14,Enchantment,Deathgrip
+15,Creature,Light Rogue Hydra
+16,Spell,Fireball
+17,Creature,Eagle
+18,Creature,Dark Fighter Orc
+19,Creature,Warlock
+20,Spell,Lightning
+21,Spell,Grim Burst
+22,Artifact,Divine Robe
+23,Spell,Necro Heal
+24,Spell,Reanimate
+25,Creature,Snow Merchant Hydra
+26,Creature,Troll
+27,Spell,Maelstrom
+28,Enchantment,Gloom Shrink
+29,Enchantment,Haste
+30,Creature,Spider
+31,Spell,Stricken
+32,Creature,Troll
+33,Creature,Ghoul
+34,Artifact,Gloom Sword
+35,Creature,Warlock
+36,Creature,Ghoul
+37,Enchantment,Age
+38,Enchantment,Instant Miracle Shrink
+39,Enchantment,Firebreath
+40,Creature,Ghoul
+41,Creature,Warlock
+42,Creature,Ghoul
+43,Creature,Death Nameless Phoenix of the Dead
+44,Enchantment,Drain

@@ -1,46 +1,46 @@
-==================,DECK,5679,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Paladin
-2,Enchantment,Common,Deathgrip
-3,Enchantment,Common,Shrink
-4,Enchantment,Mythic,Dire Flight
-5,Creature,Common,Eagle
-6,Creature,Common,Elf
-7,Creature,Rare,Frozen Merchant Berserker
-8,Creature,Common,Paladin
-9,Creature,Common,Dwarf
-10,Creature,Common,Orc
-11,Enchantment,Common,Lethargy
-12,Spell,Rare,Shimmering Sorrow
-13,Artifact,Common,Greaves
-14,Spell,Legendary,Extreme Vortex
-15,Creature,Legendary,Death Undead Kraken of the Polar Woods
-16,Enchantment,Common,Strength
-17,Creature,Common,Orc
-18,Creature,Common,Elf
-19,Creature,Common,Spider
-20,Enchantment,Mythic,Potent Age
-21,Enchantment,Common,Lethargy
-22,Enchantment,Mythic,Mighty Drain
-23,Creature,Common,Orc
-24,Creature,Common,Wolf
-25,Creature,Common,Wolf
-26,Creature,Rare,Light Thief Berserker
-27,Creature,Rare,Dark Rogue Minotaur
-28,Enchantment,Common,Alacrity
-29,Enchantment,Rare,Shimmering Drain
-30,Enchantment,Common,Shrink
-31,Creature,Common,Magi
-32,Creature,Common,Paladin
-33,Creature,Common,Wolf
-34,Artifact,Common,Helmet
-35,Spell,Common,Frost
-36,Spell,Common,Wall
-37,Enchantment,Legendary,Urgent Haste
-38,Creature,Common,Goblin
-39,Creature,Common,Dwarf
-40,Creature,Common,Dwarf
-41,Creature,Rare,Frozen Lord Hydra
-42,Creature,Common,Orc
-43,Creature,Common,Dwarf
-44,Enchantment,Common,Flight
+==================,DECK,5679
+0,Creature,Eagle
+1,Creature,Troll
+2,Enchantment,Blight
+3,Enchantment,Shrink
+4,Enchantment,Empyrean Grim Shade
+5,Creature,Eagle
+6,Creature,Warlock
+7,Creature,Frozen Merchant Goblin
+8,Creature,Troll
+9,Creature,Magi
+10,Creature,Spider
+11,Enchantment,Shrink
+12,Spell,Corpse Reanimate
+13,Artifact,Greaves
+14,Spell,Ardent Cataclysmic Reanimate
+15,Creature,Death Undead Ogre of the Polar Woods
+16,Enchantment,Lethargy
+17,Creature,Spider
+18,Creature,Warlock
+19,Creature,Paladin
+20,Enchantment,Mighty Victory Invert
+21,Enchantment,Strength
+22,Enchantment,Clever Dark Shield
+23,Creature,Spider
+24,Creature,Wolf
+25,Creature,Wolf
+26,Creature,Light Thief Goblin
+27,Creature,Dark Rogue Cyclops
+28,Enchantment,Invert
+29,Enchantment,Forged Lethargy
+30,Enchantment,Invert
+31,Creature,Fairy
+32,Creature,Troll
+33,Creature,Wolf
+34,Artifact,Helmet
+35,Spell,Tempest
+36,Spell,Burst
+37,Enchantment,Empyrean Corpse Age
+38,Creature,Skin-Walker
+39,Creature,Magi
+40,Creature,Magi
+41,Creature,Frozen Lord Hydra
+42,Creature,Spider
+43,Creature,Magi
+44,Enchantment,Firebreath

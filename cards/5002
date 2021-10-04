@@ -1,46 +1,46 @@
-==================,DECK,5002,Medium
-0,Spell,Rare,Cataclysmic Ice
-1,Spell,Legendary,Potent Infuriate
-2,Creature,Rare,Light King Minotaur
-3,Artifact,Rare,Life Amulet
-4,Creature,Common,Warlock
-5,Creature,Common,Ghoul
-6,Creature,Rare,Death Merchant Hydra
-7,Enchantment,Mythic,Clever Shield
-8,Creature,Rare,Frozen Assassin Minotaur
-9,Spell,Common,Gravitation
-10,Spell,Rare,Gloom Vortex
-11,Creature,Common,Eagle
-12,Enchantment,Common,Haste
-13,Creature,Rare,Frozen Monk Skin-Walker
-14,Enchantment,Mythic,Potent Blight
-15,Artifact,Rare,Forged Boots
-16,Creature,Common,Elf
-17,Creature,Common,Paladin
-18,Spell,Mythic,Mighty Hypnosis
-19,Creature,Rare,Dark Thief Berserker
-20,Enchantment,Common,Agony
-21,Creature,Rare,Snow Assassin Hydra
-22,Creature,Common,Orc
-23,Creature,Common,Dwarf
-24,Enchantment,Legendary,Dire Invert
-25,Enchantment,Legendary,Extreme Alacrity
-26,Creature,Common,Ghoul
-27,Creature,Rare,Death Warrior Berserker
-28,Enchantment,Legendary,Instant Blight
-29,Spell,Common,Rage
-30,Enchantment,Common,Deathgrip
-31,Spell,Common,Invisibility
-32,Artifact,Rare,Lunar Divine Robe
-33,Artifact,Common,Sword
-34,Creature,Rare,Earth Queen Skin-Walker
-35,Creature,Legendary,Snow Undead Giant of the West
-36,Creature,Rare,Death Fighter Fairy
-37,Spell,Common,Revive
-38,Creature,Common,Magi
-39,Creature,Common,Elf
-40,Artifact,Legendary,Angry Divine Robe
-41,Artifact,Common,Helm
-42,Enchantment,Mythic,Dire Lethargy
-43,Enchantment,Mythic,Mighty Invert
-44,Spell,Rare,Apocalypse Fury
+==================,DECK,5002
+0,Spell,Gloom Hypnosis
+1,Spell,Clever Nimble Vortex
+2,Creature,Light King Cyclops
+3,Artifact,Nimble Amulet
+4,Creature,Berserker
+5,Creature,Ghoul
+6,Creature,Death Merchant Hydra
+7,Enchantment,Instant Victory Drain
+8,Creature,Frozen Assassin Cyclops
+9,Spell,Freeze
+10,Spell,Dark Pandemonium
+11,Creature,Eagle
+12,Enchantment,Firebreath
+13,Creature,Frozen Monk Orc
+14,Enchantment,Clever Nimble Haste
+15,Artifact,Sorrow Boots
+16,Creature,Warlock
+17,Creature,Troll
+18,Spell,Clever Gloom Vortex
+19,Creature,Dark Thief Goblin
+20,Enchantment,Alacrity
+21,Creature,Snow Assassin Hydra
+22,Creature,Spider
+23,Creature,Magi
+24,Enchantment,Dire Oblivion Shade
+25,Enchantment,Dire Dark Firebreath
+26,Creature,Ghoul
+27,Creature,Death Warrior Goblin
+28,Enchantment,Clever Solar Lethargy
+29,Spell,Infuriate
+30,Enchantment,Deathgrip
+31,Spell,Wall
+32,Artifact,Chimeric Divine Robe
+33,Artifact,Sword
+34,Creature,Earth Queen Orc
+35,Creature,Snow Undead Dwarf of the West
+36,Creature,Death Fighter Kraken
+37,Spell,Assault
+38,Creature,Fairy
+39,Creature,Warlock
+40,Artifact,Potent Chimeric Divine Robe
+41,Artifact,Helm
+42,Enchantment,Irate Grim Blight
+43,Enchantment,Ardent Sorrow Shield
+44,Spell,Nimble Invisibility

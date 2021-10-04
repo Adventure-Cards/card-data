@@ -1,46 +1,46 @@
-==================,DECK,7290,Light
-0,Artifact,Common,Helmet
-1,Creature,Rare,Dark Rogue Fairy
-2,Creature,Common,Paladin
-3,Creature,Common,Spider
-4,Creature,Common,Orc
-5,Creature,Rare,Dark Monk Fairy
-6,Spell,Rare,Cataclysmic Gale
-7,Spell,Common,Heal
-8,Creature,Common,Magi
-9,Creature,Common,Goblin
-10,Enchantment,Rare,Life Flight
-11,Creature,Common,Warlock
-12,Enchantment,Common,Blight
-13,Spell,Common,Rage
-14,Artifact,Common,Crown
-15,Artifact,Common,Ghost Wand
-16,Creature,Common,Goblin
-17,Artifact,Common,Potion
-18,Enchantment,Rare,Gloom Strength
-19,Creature,Common,Elf
-20,Spell,Common,Torment
-21,Creature,Rare,Dark Thief Griffin
-22,Artifact,Rare,Cataclysmic Gloves
-23,Creature,Rare,Frozen Thief Hydra
-24,Creature,Common,Elf
-25,Creature,Common,Wolf
-26,Spell,Rare,Gloom Wall
-27,Spell,Rare,Necro Pandemonium
-28,Creature,Common,Goblin
-29,Enchantment,Legendary,Clever Lethargy
-30,Enchantment,Common,Strength
-31,Creature,Common,Eagle
-32,Creature,Common,Ghoul
-33,Spell,Common,Infuriate
-34,Enchantment,Rare,Gloom Agony
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Haste
-37,Creature,Common,Wolf
-38,Enchantment,Mythic,Mighty Age
-39,Enchantment,Common,Invert
-40,Spell,Legendary,Mighty Wall
-41,Creature,Common,Spider
-42,Spell,Rare,Apocalypse Reanimate
-43,Creature,Rare,Death Fighter Minotaur
-44,Creature,Rare,Frozen Warrior Hydra
+==================,DECK,7290
+0,Artifact,Helmet
+1,Creature,Dark Rogue Kraken
+2,Creature,Troll
+3,Creature,Paladin
+4,Creature,Spider
+5,Creature,Dark Monk Kraken
+6,Spell,Dark Lightning
+7,Spell,Fireball
+8,Creature,Fairy
+9,Creature,Skin-Walker
+10,Enchantment,Grim Shade
+11,Creature,Berserker
+12,Enchantment,Shield
+13,Spell,Torment
+14,Artifact,Crown
+15,Artifact,Ghost Wand
+16,Creature,Skin-Walker
+17,Artifact,Potion
+18,Enchantment,Cataclysmic Firebreath
+19,Creature,Warlock
+20,Spell,Reanimate
+21,Creature,Dark Thief Griffin
+22,Artifact,Sorrow Gloves
+23,Creature,Frozen Thief Hydra
+24,Creature,Warlock
+25,Creature,Wolf
+26,Spell,Chimeric Vortex
+27,Spell,Shimmering Frenzy
+28,Creature,Skin-Walker
+29,Enchantment,Ardent Grim Haste
+30,Enchantment,Haste
+31,Creature,Eagle
+32,Creature,Ghoul
+33,Spell,Revive
+34,Enchantment,Miracle Shield
+35,Creature,Magi
+36,Enchantment,Invert
+37,Creature,Wolf
+38,Enchantment,Empyrean Gloom Firebreath
+39,Enchantment,Lethargy
+40,Spell,Irate Cataclysmic Pandemonium
+41,Creature,Paladin
+42,Spell,Life Burst
+43,Creature,Death Fighter Cyclops
+44,Creature,Frozen Warrior Hydra

@@ -1,46 +1,46 @@
-==================,DECK,4739,Light
-0,Enchantment,Rare,Necro Deathgrip
-1,Enchantment,Common,Shade
-2,Creature,Common,Goblin
-3,Creature,Common,Warlock
-4,Enchantment,Rare,Grim Shield
-5,Creature,Rare,Dark Warrior Berserker
-6,Creature,Legendary,Dark Fighter Kraken of the Eternal Land
-7,Artifact,Rare,Grim Ring
-8,Artifact,Common,Gauntlet
-9,Spell,Rare,Frigid Frost
-10,Artifact,Common,Ring
-11,Spell,Common,Ice
-12,Spell,Common,Pandemonium
-13,Creature,Common,Paladin
-14,Creature,Legendary,Death Merchant Kraken of the Mountains
-15,Creature,Common,Orc
-16,Spell,Rare,Corpse Vortex
-17,Creature,Rare,Light Rogue Berserker
-18,Creature,Common,Wolf
-19,Creature,Common,Elf
-20,Creature,Common,Paladin
-21,Spell,Common,Gravitation
-22,Artifact,Common,Sigil
-23,Creature,Common,Orc
-24,Spell,Rare,Necro Infuriate
-25,Creature,Legendary,Light Merchant Oni of the Mountains
-26,Spell,Common,Frenzy
-27,Enchantment,Mythic,Urgent Shrink
-28,Creature,Common,Warlock
-29,Creature,Common,Spider
-30,Creature,Common,Goblin
-31,Spell,Common,Burn
-32,Artifact,Common,Ring
-33,Artifact,Common,Scythe
-34,Creature,Legendary,Earth Assassin Orge of the Border
-35,Enchantment,Rare,Forged Shade
-36,Creature,Common,Elf
-37,Creature,Legendary,Snow Lord Cyclops of the West
-38,Artifact,Rare,Forged Sigil
-39,Creature,Legendary,Dark Queen Cyclops of the West
-40,Creature,Legendary,Snow King Orge of the Eastern Skies
-41,Creature,Common,Magi
-42,Creature,Rare,Earth Rogue Minotaur
-43,Creature,Common,Wolf
-44,Enchantment,Common,Lethargy
+==================,DECK,4739
+0,Enchantment,Shimmering Age
+1,Enchantment,Deathgrip
+2,Creature,Skin-Walker
+3,Creature,Berserker
+4,Enchantment,Victory Haste
+5,Creature,Dark Warrior Goblin
+6,Creature,Dark Fighter Ogre of the Eternal Land
+7,Artifact,Frigid Ring
+8,Artifact,Gauntlet
+9,Spell,Victory Burn
+10,Artifact,Ring
+11,Spell,Stun
+12,Spell,Tempest
+13,Creature,Troll
+14,Creature,Death Merchant Ogre of the Mountains
+15,Creature,Spider
+16,Spell,Nature Ice
+17,Creature,Light Rogue Goblin
+18,Creature,Wolf
+19,Creature,Warlock
+20,Creature,Troll
+21,Spell,Torment
+22,Artifact,Sigil
+23,Creature,Spider
+24,Spell,Forged Freeze
+25,Creature,Light Merchant Oni of the Mountains
+26,Spell,Freeze
+27,Enchantment,Empyrean Necro Age
+28,Creature,Berserker
+29,Creature,Paladin
+30,Creature,Skin-Walker
+31,Spell,Frenzy
+32,Artifact,Ring
+33,Artifact,Scythe
+34,Creature,Earth Assassin Elf of the Border
+35,Enchantment,Chimeric Shrink
+36,Creature,Warlock
+37,Creature,Snow Lord Giant of the West
+38,Artifact,Lunar Sigil
+39,Creature,Dark Queen Giant of the West
+40,Creature,Snow King Elf of the Eastern Skies
+41,Creature,Fairy
+42,Creature,Earth Rogue Cyclops
+43,Creature,Wolf
+44,Enchantment,Alacrity

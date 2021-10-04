@@ -1,46 +1,46 @@
-==================,DECK,7997,Strong
-0,Artifact,Mythic,Dire Sword
-1,Creature,Common,Warlock
-2,Enchantment,Common,Agony
-3,Creature,Common,Paladin
-4,Spell,Rare,Hateful Maelstrom
-5,Creature,Common,Goblin
-6,Creature,Common,Goblin
-7,Creature,Common,Ghoul
-8,Enchantment,Rare,Dark Alacrity
-9,Enchantment,Mythic,Extreme Strength
-10,Enchantment,Common,Blight
-11,Creature,Common,Orc
-12,Creature,Legendary,Earth Merchant Oni of the Eternal Land
-13,Creature,Legendary,Aura Chaos Wizard of the Light
-14,Spell,Rare,Nimble Heal
-15,Creature,Common,Paladin
-16,Creature,Common,Wolf
-17,Enchantment,Common,Blight
-18,Enchantment,Common,Alacrity
-19,Creature,Mythic,Snow Undead Phoenix of Hate
-20,Artifact,Common,Ghost Wand
-21,Creature,Legendary,Earth Lord Kraken of the Low Hills
-22,Spell,Common,Infuriate
-23,Creature,Common,Paladin
-24,Enchantment,Common,Lethargy
-25,Enchantment,Legendary,Clever Agony
-26,Creature,Common,Ghoul
-27,Spell,Common,Infuriate
-28,Creature,Common,Orc
-29,Spell,Mythic,Instant Heal
-30,Creature,Mythic,Dark Time Phoenix of Illusion
-31,Enchantment,Common,Shrink
-32,Enchantment,Common,Shade
-33,Enchantment,Rare,Nature Shrink
-34,Creature,Mythic,Light Ancient Demon of the Sky
-35,Creature,Legendary,Aura Time Dragon of the Light
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Invert
-38,Creature,Common,Paladin
-39,Spell,Legendary,Intense Heal
-40,Creature,Rare,Snow Queen Hydra
-41,Creature,Rare,Death Warrior Berserker
-42,Creature,Common,Warlock
-43,Spell,Rare,Miracle Fury
-44,Creature,Rare,Snow Monk Minotaur
+==================,DECK,7997
+0,Artifact,Instant Nimble Sword
+1,Creature,Berserker
+2,Enchantment,Strength
+3,Creature,Troll
+4,Spell,Dark Torment
+5,Creature,Skin-Walker
+6,Creature,Skin-Walker
+7,Creature,Ghoul
+8,Enchantment,Dark Flight
+9,Enchantment,Ardent Cataclysmic Shield
+10,Enchantment,Strength
+11,Creature,Spider
+12,Creature,Earth Merchant Oni of the Eternal Land
+13,Creature,Aura Chaos Wizard of the Light
+14,Spell,Nature Tempest
+15,Creature,Troll
+16,Creature,Wolf
+17,Enchantment,Firebreath
+18,Enchantment,Invert
+19,Creature,Snow Undead Phoenix of Hate
+20,Artifact,Ghost Wand
+21,Creature,Earth Lord Ogre of the Low Hills
+22,Spell,Vortex
+23,Creature,Troll
+24,Enchantment,Firebreath
+25,Enchantment,Ardent Life Haste
+26,Creature,Ghoul
+27,Spell,Rage
+28,Creature,Spider
+29,Spell,Urgent Hateful Tempest
+30,Creature,Dark Time Phoenix of Illusion
+31,Enchantment,Lethargy
+32,Enchantment,Age
+33,Enchantment,Necro Strength
+34,Creature,Light Ancient Demon of the Sky
+35,Creature,Aura Time Dragon of the Light
+36,Creature,Ghoul
+37,Enchantment,Firebreath
+38,Creature,Troll
+39,Spell,Urgent Forged Heal
+40,Creature,Snow Queen Hydra
+41,Creature,Death Warrior Goblin
+42,Creature,Berserker
+43,Spell,Apocalypse Frenzy
+44,Creature,Snow Monk Cyclops

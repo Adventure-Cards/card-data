@@ -1,46 +1,46 @@
-==================,DECK,7422,Light
-0,Creature,Legendary,Snow Warrior Kraken of the Black Stone
-1,Artifact,Common,Pendant
-2,Spell,Common,Fury
-3,Spell,Rare,Nature Sorrow
-4,Enchantment,Common,Alacrity
-5,Spell,Legendary,Mighty Invisibility
-6,Spell,Common,Frenzy
-7,Creature,Common,Ghoul
-8,Creature,Common,Spider
-9,Spell,Common,Hypnosis
-10,Enchantment,Common,Age
-11,Creature,Common,Magi
-12,Spell,Legendary,Instant Freeze
-13,Spell,Rare,Hateful Pandemonium
-14,Creature,Common,Ghoul
-15,Creature,Common,Wolf
-16,Spell,Legendary,Clever Rage
-17,Creature,Mythic,Snow Nameless Phoenix of Hate
-18,Creature,Common,Warlock
-19,Creature,Rare,Death Fighter Skin-Walker
-20,Creature,Common,Spider
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Haste
-23,Enchantment,Common,Drain
-24,Creature,Rare,Dark Queen Griffin
-25,Creature,Common,Eagle
-26,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-27,Artifact,Rare,Hateful Shield
-28,Creature,Rare,Dark Priest Skin-Walker
-29,Spell,Rare,Nimble Heal
-30,Creature,Common,Dwarf
-31,Creature,Common,Warlock
-32,Creature,Common,Ghoul
-33,Spell,Common,Burst
-34,Enchantment,Mythic,Potent Shield
-35,Spell,Common,Stun
-36,Creature,Mythic,Death Chaos Wizard of the Dead
-37,Creature,Common,Wolf
-38,Spell,Common,Ice
-39,Spell,Common,Assault
-40,Enchantment,Legendary,Extreme Lethargy
-41,Spell,Common,Rage
-42,Creature,Common,Orc
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Ghoul
+==================,DECK,7422
+0,Creature,Snow Warrior Ogre of the Black Stone
+1,Artifact,Pendant
+2,Spell,Tempest
+3,Spell,Nature Sorrow
+4,Enchantment,Shield
+5,Spell,Instant Chimeric Burst
+6,Spell,Stun
+7,Creature,Ghoul
+8,Creature,Paladin
+9,Spell,Sorrow
+10,Enchantment,Strength
+11,Creature,Fairy
+12,Spell,Irate Hateful Reanimate
+13,Spell,Sorrow Revive
+14,Creature,Ghoul
+15,Creature,Wolf
+16,Spell,Instant Frigid Burst
+17,Creature,Snow Nameless Phoenix of Hate
+18,Creature,Berserker
+19,Creature,Death Fighter Orc
+20,Creature,Paladin
+21,Creature,Magi
+22,Enchantment,Alacrity
+23,Enchantment,Alacrity
+24,Creature,Dark Queen Griffin
+25,Creature,Eagle
+26,Creature,Snow Merchant Oni of the Magical Forest
+27,Artifact,Lunar Shield
+28,Creature,Dark Priest Orc
+29,Spell,Forged Burn
+30,Creature,Magi
+31,Creature,Berserker
+32,Creature,Ghoul
+33,Spell,Ice
+34,Enchantment,Instant Victory Drain
+35,Spell,Frenzy
+36,Creature,Death Chaos Wizard of the Dead
+37,Creature,Wolf
+38,Spell,Wall
+39,Spell,Ice
+40,Enchantment,Instant Lunar Shrink
+41,Spell,Rage
+42,Creature,Spider
+43,Enchantment,Shield
+44,Creature,Ghoul

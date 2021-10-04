@@ -1,46 +1,46 @@
-==================,DECK,5578,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Alacrity
-2,Spell,Common,Burst
-3,Creature,Common,Paladin
-4,Artifact,Common,Gloves
-5,Enchantment,Mythic,Urgent Flight
-6,Creature,Common,Ghoul
-7,Creature,Mythic,Snow Nameless Phoenix of Hate
-8,Spell,Common,Frenzy
-9,Spell,Common,Maelstrom
-10,Spell,Rare,Shimmering Pandemonium
-11,Artifact,Common,Sword
-12,Creature,Rare,Dark Priest Minotaur
-13,Creature,Common,Dwarf
-14,Creature,Common,Ghoul
-15,Spell,Common,Freeze
-16,Creature,Mythic,Frozen Ancient Demon of the Void
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Lethargy
-19,Creature,Rare,Aura Assassin Skin-Walker
-20,Creature,Legendary,Snow Monk Kraken of the Bright Mountains
-21,Spell,Rare,Solar Wall
-22,Artifact,Common,Amulet
-23,Creature,Mythic,Frozen Chaos Demon of the Void
-24,Creature,Common,Warlock
-25,Creature,Rare,Frozen Priest Griffin
-26,Enchantment,Common,Blight
-27,Creature,Common,Warlock
-28,Artifact,Rare,Forged Potion
-29,Creature,Common,Warlock
-30,Enchantment,Common,Strength
-31,Enchantment,Common,Agony
-32,Creature,Common,Dwarf
-33,Artifact,Common,Sigil
-34,Spell,Rare,Grim Revive
-35,Creature,Common,Orc
-36,Creature,Mythic,Death Ancient Wizard of the Dead
-37,Artifact,Common,Sigil
-38,Creature,Common,Spider
-39,Creature,Common,Eagle
-40,Creature,Common,Orc
-41,Creature,Common,Warlock
-42,Creature,Common,Magi
-43,Creature,Common,Magi
-44,Creature,Rare,Death Priest Minotaur
+==================,DECK,5578
+0,Creature,Spider
+1,Enchantment,Agony
+2,Spell,Lightning
+3,Creature,Troll
+4,Artifact,Gloves
+5,Enchantment,Potent Hateful Strength
+6,Creature,Ghoul
+7,Creature,Snow Nameless Phoenix of Hate
+8,Spell,Burn
+9,Spell,Infuriate
+10,Spell,Solar Maelstrom
+11,Artifact,Sword
+12,Creature,Dark Priest Cyclops
+13,Creature,Magi
+14,Creature,Ghoul
+15,Spell,Wall
+16,Creature,Frozen Ancient Demon of the Void
+17,Creature,Magi
+18,Enchantment,Age
+19,Creature,Aura Assassin Orc
+20,Creature,Snow Monk Ogre of the Bright Mountains
+21,Spell,Nature Fire
+22,Artifact,Amulet
+23,Creature,Frozen Chaos Demon of the Void
+24,Creature,Berserker
+25,Creature,Frozen Priest Griffin
+26,Enchantment,Flight
+27,Creature,Berserker
+28,Artifact,Chimeric Potion
+29,Creature,Berserker
+30,Enchantment,Shrink
+31,Enchantment,Deathgrip
+32,Creature,Magi
+33,Artifact,Sigil
+34,Spell,Apocalypse Hypnosis
+35,Creature,Spider
+36,Creature,Death Ancient Wizard of the Dead
+37,Artifact,Sigil
+38,Creature,Paladin
+39,Creature,Eagle
+40,Creature,Spider
+41,Creature,Berserker
+42,Creature,Fairy
+43,Creature,Fairy
+44,Creature,Death Priest Cyclops

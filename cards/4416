@@ -1,46 +1,46 @@
-==================,DECK,4416,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Ghoul
-2,Creature,Common,Orc
-3,Spell,Common,Stricken
-4,Spell,Legendary,Dire Pandemonium
-5,Creature,Common,Wolf
-6,Creature,Rare,Light Assassin Minotaur
-7,Enchantment,Rare,Gloom Shade
-8,Creature,Rare,Earth Priest Berserker
-9,Enchantment,Common,Alacrity
-10,Creature,Rare,Snow Rogue Griffin
-11,Creature,Common,Wolf
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Spell,Common,Sorrow
-15,Spell,Rare,Necro Hypnosis
-16,Creature,Rare,Light Warrior Griffin
-17,Spell,Common,Assault
-18,Spell,Common,Fury
-19,Artifact,Common,Helm
-20,Creature,Common,Elf
-21,Enchantment,Common,Shrink
-22,Enchantment,Mythic,Mighty Drain
-23,Enchantment,Common,Lethargy
-24,Creature,Common,Magi
-25,Creature,Mythic,Light Grand Demon of the Sky
-26,Spell,Mythic,Intense Heal
-27,Creature,Legendary,Snow Undead Giant of the Arctic Blizzards
-28,Creature,Common,Eagle
-29,Creature,Common,Elf
-30,Creature,Common,Eagle
-31,Enchantment,Legendary,Mighty Alacrity
-32,Spell,Rare,Nimble Vortex
-33,Creature,Mythic,Frozen Ancient Demon of the Void
-34,Creature,Rare,Frozen Monk Hydra
-35,Creature,Rare,Death Queen Hydra
-36,Creature,Rare,Aura Queen Skin-Walker
-37,Creature,Common,Paladin
-38,Spell,Common,Stricken
-39,Enchantment,Common,Shrink
-40,Spell,Rare,Forged Rage
-41,Enchantment,Mythic,Extreme Deathgrip
-42,Creature,Common,Spider
-43,Enchantment,Common,Blight
-44,Artifact,Common,Scepter
+==================,DECK,4416
+0,Creature,Magi
+1,Creature,Ghoul
+2,Creature,Spider
+3,Spell,Lightning
+4,Spell,Clever Life Fury
+5,Creature,Wolf
+6,Creature,Light Assassin Cyclops
+7,Enchantment,Chimeric Alacrity
+8,Creature,Earth Priest Goblin
+9,Enchantment,Agony
+10,Creature,Snow Rogue Griffin
+11,Creature,Wolf
+12,Creature,Eagle
+13,Creature,Fairy
+14,Spell,Wall
+15,Spell,Hateful Hypnosis
+16,Creature,Light Warrior Griffin
+17,Spell,Vortex
+18,Spell,Frost
+19,Artifact,Helm
+20,Creature,Warlock
+21,Enchantment,Alacrity
+22,Enchantment,Zealous Dark Alacrity
+23,Enchantment,Haste
+24,Creature,Fairy
+25,Creature,Light Grand Demon of the Sky
+26,Spell,Dire Necro Frenzy
+27,Creature,Snow Undead Dwarf of the Arctic Blizzards
+28,Creature,Eagle
+29,Creature,Warlock
+30,Creature,Eagle
+31,Enchantment,Irate Dark Alacrity
+32,Spell,Forged Ice
+33,Creature,Frozen Ancient Demon of the Void
+34,Creature,Frozen Monk Hydra
+35,Creature,Death Queen Hydra
+36,Creature,Aura Queen Orc
+37,Creature,Troll
+38,Spell,Rage
+39,Enchantment,Age
+40,Spell,Cataclysmic Stricken
+41,Enchantment,Clever Sorrow Shield
+42,Creature,Paladin
+43,Enchantment,Invert
+44,Artifact,Scepter

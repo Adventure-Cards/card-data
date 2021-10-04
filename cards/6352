@@ -1,46 +1,46 @@
-==================,DECK,6352,Light
-0,Creature,Common,Ghoul
-1,Artifact,Legendary,Extreme Ring
-2,Creature,Common,Eagle
-3,Spell,Common,Maelstrom
-4,Creature,Common,Elf
-5,Enchantment,Mythic,Instant Shrink
-6,Creature,Common,Elf
-7,Creature,Common,Goblin
-8,Creature,Common,Ghoul
-9,Creature,Rare,Dark Rogue Skin-Walker
-10,Spell,Common,Vortex
-11,Spell,Common,Frenzy
-12,Creature,Common,Paladin
-13,Creature,Mythic,Light Nameless Dragon of the Sky
-14,Creature,Rare,Death Monk Fairy
-15,Creature,Rare,Death Rogue Fairy
-16,Creature,Common,Magi
-17,Artifact,Rare,Necro Shield
-18,Enchantment,Common,Shield
-19,Creature,Common,Dwarf
-20,Spell,Common,Invisibility
-21,Creature,Common,Magi
-22,Enchantment,Rare,Miracle Blight
-23,Creature,Common,Eagle
-24,Enchantment,Common,Blight
-25,Creature,Common,Orc
-26,Enchantment,Common,Age
-27,Artifact,Rare,Forged Scythe
-28,Creature,Common,Warlock
-29,Artifact,Legendary,Clever Boots
-30,Artifact,Common,Belt
-31,Spell,Common,Assault
-32,Artifact,Common,Tome
-33,Spell,Common,Burst
-34,Artifact,Rare,Oblivion Pendant
-35,Artifact,Common,Sigil
-36,Artifact,Rare,Solar Helm
-37,Enchantment,Common,Invert
-38,Creature,Common,Warlock
-39,Creature,Common,Paladin
-40,Creature,Common,Wolf
-41,Enchantment,Common,Blight
-42,Enchantment,Rare,Life Drain
-43,Artifact,Common,Gloves
-44,Creature,Common,Paladin
+==================,DECK,6352
+0,Creature,Ghoul
+1,Artifact,Potent Miracle Ring
+2,Creature,Eagle
+3,Spell,Sorrow
+4,Creature,Warlock
+5,Enchantment,Zealous Necro Deathgrip
+6,Creature,Warlock
+7,Creature,Skin-Walker
+8,Creature,Ghoul
+9,Creature,Dark Rogue Orc
+10,Spell,Maelstrom
+11,Spell,Gale
+12,Creature,Troll
+13,Creature,Light Nameless Dragon of the Sky
+14,Creature,Death Monk Kraken
+15,Creature,Death Rogue Kraken
+16,Creature,Fairy
+17,Artifact,Nature Shield
+18,Enchantment,Flight
+19,Creature,Magi
+20,Spell,Burst
+21,Creature,Fairy
+22,Enchantment,Nimble Invert
+23,Creature,Eagle
+24,Enchantment,Shrink
+25,Creature,Spider
+26,Enchantment,Strength
+27,Artifact,Chimeric Scythe
+28,Creature,Berserker
+29,Artifact,Ardent Victory Boots
+30,Artifact,Belt
+31,Spell,Freeze
+32,Artifact,Tome
+33,Spell,Ice
+34,Artifact,Apocalypse Pendant
+35,Artifact,Sigil
+36,Artifact,Nature Helm
+37,Enchantment,Invert
+38,Creature,Berserker
+39,Creature,Troll
+40,Creature,Wolf
+41,Enchantment,Firebreath
+42,Enchantment,Apocalypse Haste
+43,Artifact,Gloves
+44,Creature,Troll

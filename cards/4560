@@ -1,46 +1,46 @@
-==================,DECK,4560,Light
-0,Enchantment,Common,Blight
-1,Enchantment,Rare,Nature Haste
-2,Enchantment,Rare,Hateful Flight
-3,Spell,Common,Burn
-4,Creature,Rare,Aura Warrior Fairy
-5,Creature,Common,Orc
-6,Creature,Rare,Light Warrior Berserker
-7,Creature,Common,Eagle
-8,Spell,Rare,Cataclysmic Ice
-9,Creature,Common,Eagle
-10,Creature,Common,Ghoul
-11,Artifact,Rare,Oblivion Tome
-12,Creature,Common,Wolf
-13,Creature,Common,Paladin
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Rare,Death Queen Fairy
-18,Creature,Rare,Death Fighter Griffin
-19,Creature,Legendary,Earth Rogue Kraken of the Bright Mountains
-20,Artifact,Legendary,Instant Belt
-21,Creature,Rare,Snow Assassin Fairy
-22,Creature,Mythic,Light Undead Dragon of the Sky
-23,Spell,Legendary,Instant Heal
-24,Creature,Common,Goblin
-25,Creature,Legendary,Death Thief Kraken of the Eternal Land
-26,Artifact,Common,Shield
-27,Creature,Common,Elf
-28,Creature,Common,Orc
-29,Spell,Rare,Gloom Rage
-30,Creature,Rare,Light Lord Berserker
-31,Artifact,Rare,Life Sword
-32,Creature,Common,Spider
-33,Enchantment,Common,Flight
-34,Spell,Common,Wall
-35,Artifact,Common,Pendant
-36,Enchantment,Common,Alacrity
-37,Creature,Rare,Snow Warrior Berserker
-38,Spell,Common,Rage
-39,Creature,Legendary,Death Assassin Cyclops of the West
-40,Enchantment,Rare,Frigid Alacrity
-41,Creature,Common,Dwarf
-42,Creature,Common,Elf
-43,Creature,Rare,Frozen Monk Berserker
-44,Enchantment,Common,Agony
+==================,DECK,4560
+0,Enchantment,Firebreath
+1,Enchantment,Corpse Lethargy
+2,Enchantment,Lunar Firebreath
+3,Spell,Revive
+4,Creature,Aura Warrior Kraken
+5,Creature,Spider
+6,Creature,Light Warrior Goblin
+7,Creature,Eagle
+8,Spell,Dark Assault
+9,Creature,Eagle
+10,Creature,Ghoul
+11,Artifact,Apocalypse Tome
+12,Creature,Wolf
+13,Creature,Troll
+14,Enchantment,Firebreath
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Death Queen Kraken
+18,Creature,Death Fighter Griffin
+19,Creature,Earth Rogue Ogre of the Bright Mountains
+20,Artifact,Dire Hateful Belt
+21,Creature,Snow Assassin Kraken
+22,Creature,Light Undead Dragon of the Sky
+23,Spell,Ardent Shimmering Sorrow
+24,Creature,Skin-Walker
+25,Creature,Death Thief Ogre of the Eternal Land
+26,Artifact,Shield
+27,Creature,Warlock
+28,Creature,Spider
+29,Spell,Lunar Heal
+30,Creature,Light Lord Goblin
+31,Artifact,Apocalypse Sword
+32,Creature,Paladin
+33,Enchantment,Deathgrip
+34,Spell,Gravitation
+35,Artifact,Pendant
+36,Enchantment,Drain
+37,Creature,Snow Warrior Goblin
+38,Spell,Burst
+39,Creature,Death Assassin Giant of the West
+40,Enchantment,Apocalypse Drain
+41,Creature,Magi
+42,Creature,Warlock
+43,Creature,Frozen Monk Goblin
+44,Enchantment,Shade

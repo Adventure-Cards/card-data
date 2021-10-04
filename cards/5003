@@ -1,46 +1,46 @@
-==================,DECK,5003,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Orc
-2,Creature,Common,Warlock
-3,Spell,Rare,Oblivion Revive
-4,Enchantment,Common,Deathgrip
-5,Enchantment,Common,Alacrity
-6,Spell,Common,Stricken
-7,Creature,Common,Ghoul
-8,Creature,Common,Warlock
-9,Enchantment,Common,Shield
-10,Creature,Common,Eagle
-11,Creature,Common,Wolf
-12,Creature,Common,Magi
-13,Spell,Common,Frenzy
-14,Artifact,Common,Scythe
-15,Creature,Common,Wolf
-16,Enchantment,Common,Invert
-17,Spell,Common,Burn
-18,Artifact,Common,Sword
-19,Creature,Legendary,Aura Monk Orge of the Magical Forest
-20,Creature,Common,Paladin
-21,Artifact,Legendary,Potent Ring
-22,Creature,Common,Goblin
-23,Enchantment,Legendary,Intense Shield
-24,Creature,Common,Ghoul
-25,Creature,Rare,Snow Fighter Minotaur
-26,Creature,Common,Wolf
-27,Spell,Rare,Life Ice
-28,Creature,Common,Dwarf
-29,Enchantment,Legendary,Clever Deathgrip
-30,Creature,Common,Paladin
-31,Enchantment,Rare,Hateful Flight
-32,Creature,Legendary,Dark Priest Cyclops of the Mountains
-33,Spell,Common,Heal
-34,Enchantment,Rare,Nature Shrink
-35,Enchantment,Common,Agony
-36,Creature,Rare,Death Merchant Berserker
-37,Spell,Rare,Cataclysmic Fury
-38,Creature,Common,Ghoul
-39,Creature,Rare,Earth Warrior Hydra
-40,Creature,Rare,Dark Warrior Berserker
-41,Spell,Common,Vortex
-42,Creature,Legendary,Frozen Warrior Kraken of the Frozen Castle
-43,Creature,Common,Eagle
-44,Creature,Rare,Snow Knight Minotaur
+==================,DECK,5003
+0,Creature,Wolf
+1,Creature,Spider
+2,Creature,Berserker
+3,Spell,Oblivion Stun
+4,Enchantment,Age
+5,Enchantment,Shrink
+6,Spell,Vortex
+7,Creature,Ghoul
+8,Creature,Berserker
+9,Enchantment,Haste
+10,Creature,Eagle
+11,Creature,Wolf
+12,Creature,Fairy
+13,Spell,Maelstrom
+14,Artifact,Scythe
+15,Creature,Wolf
+16,Enchantment,Deathgrip
+17,Spell,Frost
+18,Artifact,Sword
+19,Creature,Aura Monk Elf of the Magical Forest
+20,Creature,Troll
+21,Artifact,Clever Nimble Ring
+22,Creature,Skin-Walker
+23,Enchantment,Ardent Nature Lethargy
+24,Creature,Ghoul
+25,Creature,Snow Fighter Cyclops
+26,Creature,Wolf
+27,Spell,Apocalypse Stun
+28,Creature,Magi
+29,Enchantment,Empyrean Oblivion Shade
+30,Creature,Troll
+31,Enchantment,Lunar Flight
+32,Creature,Dark Priest Giant of the Mountains
+33,Spell,Gale
+34,Enchantment,Necro Lethargy
+35,Enchantment,Drain
+36,Creature,Death Merchant Goblin
+37,Spell,Cataclysmic Maelstrom
+38,Creature,Ghoul
+39,Creature,Earth Warrior Hydra
+40,Creature,Dark Warrior Goblin
+41,Spell,Fury
+42,Creature,Frozen Warrior Ogre of the Frozen Castle
+43,Creature,Eagle
+44,Creature,Snow Knight Cyclops

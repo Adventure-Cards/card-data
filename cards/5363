@@ -1,46 +1,46 @@
-==================,DECK,5363,Medium
-0,Creature,Common,Wolf
-1,Creature,Common,Wolf
-2,Artifact,Rare,Necro Belt
-3,Artifact,Common,Staff
-4,Spell,Common,Gravitation
-5,Spell,Common,Frenzy
-6,Creature,Rare,Earth Undead Berserker
-7,Enchantment,Common,Age
-8,Enchantment,Common,Age
-9,Spell,Common,Frenzy
-10,Enchantment,Common,Flight
-11,Spell,Legendary,Mighty Torment
-12,Spell,Common,Fury
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Elf
-15,Spell,Common,Rage
-16,Creature,Rare,Death King Berserker
-17,Spell,Common,Wall
-18,Creature,Common,Wolf
-19,Creature,Common,Elf
-20,Spell,Rare,Miracle Pandemonium
-21,Creature,Common,Eagle
-22,Spell,Legendary,Dire Invisibility
-23,Creature,Rare,Light Monk Fairy
-24,Enchantment,Rare,Hateful Blight
-25,Creature,Common,Eagle
-26,Creature,Common,Eagle
-27,Creature,Legendary,Death Queen Giant of the Black Stone
-28,Spell,Legendary,Instant Frost
-29,Creature,Rare,Light Lord Skin-Walker
-30,Creature,Common,Wolf
-31,Creature,Common,Wolf
-32,Spell,Common,Gale
-33,Artifact,Rare,Corpse Ring
-34,Creature,Common,Eagle
-35,Creature,Common,Elf
-36,Creature,Common,Dwarf
-37,Artifact,Common,Gloves
-38,Enchantment,Mythic,Extreme Deathgrip
-39,Spell,Rare,Miracle Pandemonium
-40,Enchantment,Common,Flight
-41,Enchantment,Common,Blight
-42,Creature,Common,Spider
-43,Creature,Common,Dwarf
-44,Creature,Rare,Frozen Knight Hydra
+==================,DECK,5363
+0,Creature,Wolf
+1,Creature,Wolf
+2,Artifact,Hateful Belt
+3,Artifact,Staff
+4,Spell,Burst
+5,Spell,Sorrow
+6,Creature,Earth Undead Goblin
+7,Enchantment,Drain
+8,Enchantment,Blight
+9,Spell,Burn
+10,Enchantment,Shield
+11,Spell,Ardent Cataclysmic Fury
+12,Spell,Sorrow
+13,Enchantment,Lethargy
+14,Creature,Warlock
+15,Spell,Rage
+16,Creature,Death King Goblin
+17,Spell,Sorrow
+18,Creature,Wolf
+19,Creature,Warlock
+20,Spell,Life Torment
+21,Creature,Eagle
+22,Spell,Instant Apocalypse Torment
+23,Creature,Light Monk Kraken
+24,Enchantment,Cataclysmic Flight
+25,Creature,Eagle
+26,Creature,Eagle
+27,Creature,Death Queen Dwarf of the Black Stone
+28,Spell,Irate Solar Invisibility
+29,Creature,Light Lord Orc
+30,Creature,Wolf
+31,Creature,Wolf
+32,Spell,Ice
+33,Artifact,Solar Ring
+34,Creature,Eagle
+35,Creature,Warlock
+36,Creature,Magi
+37,Artifact,Gloves
+38,Enchantment,Zealous Sorrow Alacrity
+39,Spell,Victory Tempest
+40,Enchantment,Alacrity
+41,Enchantment,Deathgrip
+42,Creature,Paladin
+43,Creature,Magi
+44,Creature,Frozen Knight Hydra

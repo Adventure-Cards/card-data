@@ -1,46 +1,46 @@
-==================,DECK,6755,Light
-0,Creature,Common,Orc
-1,Creature,Rare,Dark Fighter Fairy
-2,Spell,Common,Wall
-3,Creature,Rare,Death Merchant Griffin
-4,Spell,Common,Maelstrom
-5,Enchantment,Common,Agony
-6,Enchantment,Mythic,Angry Agony
-7,Creature,Common,Paladin
-8,Enchantment,Rare,Miracle Drain
-9,Creature,Common,Wolf
-10,Creature,Common,Magi
-11,Artifact,Common,Belt
-12,Enchantment,Common,Blight
-13,Creature,Rare,Light Fighter Minotaur
-14,Spell,Common,Gravitation
-15,Enchantment,Common,Agony
-16,Spell,Rare,Corpse Heal
-17,Creature,Common,Magi
-18,Creature,Common,Goblin
-19,Artifact,Common,Bow
-20,Creature,Rare,Light Assassin Minotaur
-21,Enchantment,Common,Blight
-22,Enchantment,Common,Shade
-23,Creature,Common,Orc
-24,Spell,Common,Freeze
-25,Spell,Rare,Dark Frost
-26,Enchantment,Common,Blight
-27,Enchantment,Common,Agony
-28,Creature,Common,Magi
-29,Creature,Common,Ghoul
-30,Enchantment,Common,Shield
-31,Creature,Common,Eagle
-32,Spell,Common,Lightning
-33,Enchantment,Common,Shield
-34,Creature,Common,Spider
-35,Spell,Legendary,Instant Gale
-36,Enchantment,Rare,Gloom Shade
-37,Creature,Common,Magi
-38,Enchantment,Common,Blight
-39,Creature,Common,Dwarf
-40,Spell,Common,Invisibility
-41,Creature,Mythic,Earth Undead Phoenix of the Shadows
-42,Creature,Common,Dwarf
-43,Spell,Common,Frost
-44,Enchantment,Common,Shade
+==================,DECK,6755
+0,Creature,Spider
+1,Creature,Dark Fighter Kraken
+2,Spell,Rage
+3,Creature,Death Merchant Griffin
+4,Spell,Rage
+5,Enchantment,Blight
+6,Enchantment,Ardent Miracle Shield
+7,Creature,Troll
+8,Enchantment,Apocalypse Shade
+9,Creature,Wolf
+10,Creature,Fairy
+11,Artifact,Belt
+12,Enchantment,Haste
+13,Creature,Light Fighter Cyclops
+14,Spell,Invisibility
+15,Enchantment,Lethargy
+16,Spell,Nature Fire
+17,Creature,Fairy
+18,Creature,Skin-Walker
+19,Artifact,Bow
+20,Creature,Light Assassin Cyclops
+21,Enchantment,Flight
+22,Enchantment,Invert
+23,Creature,Spider
+24,Spell,Revive
+25,Spell,Gloom Fireball
+26,Enchantment,Invert
+27,Enchantment,Drain
+28,Creature,Fairy
+29,Creature,Ghoul
+30,Enchantment,Lethargy
+31,Creature,Eagle
+32,Spell,Freeze
+33,Enchantment,Blight
+34,Creature,Paladin
+35,Spell,Mighty Hateful Stun
+36,Enchantment,Chimeric Shield
+37,Creature,Fairy
+38,Enchantment,Firebreath
+39,Creature,Magi
+40,Spell,Burn
+41,Creature,Earth Undead Phoenix of the Shadows
+42,Creature,Magi
+43,Spell,Tempest
+44,Enchantment,Blight

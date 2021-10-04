@@ -1,46 +1,46 @@
-==================,DECK,6734,Medium
-0,Spell,Common,Fury
-1,Creature,Common,Goblin
-2,Creature,Common,Wolf
-3,Creature,Rare,Earth Rogue Skin-Walker
-4,Enchantment,Mythic,Angry Shrink
-5,Creature,Rare,Earth Priest Berserker
-6,Creature,Rare,Death Rogue Berserker
-7,Creature,Common,Ghoul
-8,Creature,Rare,Aura Assassin Fairy
-9,Enchantment,Common,Shade
-10,Enchantment,Rare,Life Shrink
-11,Creature,Common,Eagle
-12,Creature,Rare,Snow Queen Skin-Walker
-13,Creature,Legendary,Snow Warrior Orge of the Border
-14,Enchantment,Rare,Nimble Alacrity
-15,Creature,Rare,Frozen Rogue Fairy
-16,Enchantment,Rare,Forged Shield
-17,Creature,Common,Warlock
-18,Creature,Rare,Frozen Queen Fairy
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Vortex
-21,Spell,Rare,Life Sorrow
-22,Spell,Rare,Miracle Burn
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Strength
-25,Spell,Common,Frenzy
-26,Creature,Common,Goblin
-27,Creature,Legendary,Dark Merchant Oni of the Polar Woods
-28,Creature,Common,Elf
-29,Creature,Rare,Frozen King Fairy
-30,Creature,Common,Paladin
-31,Spell,Rare,Grim Wall
-32,Spell,Rare,Necro Hypnosis
-33,Creature,Common,Ghoul
-34,Creature,Common,Eagle
-35,Spell,Rare,Solar Frost
-36,Creature,Rare,Death Undead Skin-Walker
-37,Creature,Common,Elf
-38,Spell,Rare,Life Stun
-39,Spell,Common,Sorrow
-40,Enchantment,Rare,Dark Invert
-41,Creature,Common,Dwarf
-42,Creature,Common,Ghoul
-43,Creature,Common,Elf
-44,Spell,Common,Wall
+==================,DECK,6734
+0,Spell,Invisibility
+1,Creature,Skin-Walker
+2,Creature,Wolf
+3,Creature,Earth Rogue Orc
+4,Enchantment,Zealous Chimeric Alacrity
+5,Creature,Earth Priest Goblin
+6,Creature,Death Rogue Goblin
+7,Creature,Ghoul
+8,Creature,Aura Assassin Kraken
+9,Enchantment,Drain
+10,Enchantment,Frigid Shade
+11,Creature,Eagle
+12,Creature,Snow Queen Orc
+13,Creature,Snow Warrior Elf of the Border
+14,Enchantment,Forged Deathgrip
+15,Creature,Frozen Rogue Kraken
+16,Enchantment,Gloom Alacrity
+17,Creature,Berserker
+18,Creature,Frozen Queen Kraken
+19,Enchantment,Alacrity
+20,Spell,Stricken
+21,Spell,Oblivion Sorrow
+22,Spell,Oblivion Maelstrom
+23,Creature,Magi
+24,Enchantment,Firebreath
+25,Spell,Tempest
+26,Creature,Skin-Walker
+27,Creature,Dark Merchant Oni of the Polar Woods
+28,Creature,Warlock
+29,Creature,Frozen King Kraken
+30,Creature,Troll
+31,Spell,Life Reanimate
+32,Spell,Shimmering Frenzy
+33,Creature,Ghoul
+34,Creature,Eagle
+35,Spell,Hateful Torment
+36,Creature,Death Undead Orc
+37,Creature,Warlock
+38,Spell,Frigid Wall
+39,Spell,Stun
+40,Enchantment,Sorrow Shrink
+41,Creature,Magi
+42,Creature,Ghoul
+43,Creature,Warlock
+44,Spell,Gale

@@ -1,46 +1,46 @@
-==================,DECK,6741,Medium
-0,Creature,Rare,Earth Thief Skin-Walker
-1,Creature,Common,Wolf
-2,Spell,Common,Gale
-3,Creature,Common,Warlock
-4,Enchantment,Common,Haste
-5,Artifact,Common,Divine Robe
-6,Creature,Common,Goblin
-7,Creature,Rare,Death Rogue Skin-Walker
-8,Enchantment,Rare,Forged Invert
-9,Creature,Rare,Aura Priest Skin-Walker
-10,Spell,Common,Ice
-11,Creature,Legendary,Earth King Oni of the Eternal Land
-12,Enchantment,Rare,Life Age
-13,Spell,Common,Pandemonium
-14,Creature,Common,Spider
-15,Creature,Common,Orc
-16,Enchantment,Mythic,Intense Alacrity
-17,Spell,Rare,Apocalypse Maelstrom
-18,Creature,Legendary,Dark Undead Giant of the Mountains
-19,Enchantment,Rare,Forged Strength
-20,Spell,Legendary,Clever Hypnosis
-21,Creature,Rare,Frozen Queen Fairy
-22,Creature,Common,Spider
-23,Spell,Common,Stun
-24,Creature,Common,Eagle
-25,Creature,Common,Eagle
-26,Enchantment,Common,Shrink
-27,Creature,Common,Magi
-28,Creature,Rare,Aura Monk Skin-Walker
-29,Creature,Legendary,Death Priest Giant of the Black Stone
-30,Artifact,Common,Shield
-31,Spell,Common,Gravitation
-32,Creature,Rare,Frozen Warrior Griffin
-33,Creature,Common,Spider
-34,Creature,Common,Ghoul
-35,Artifact,Common,Scythe
-36,Creature,Rare,Frozen Thief Berserker
-37,Creature,Common,Spider
-38,Creature,Common,Eagle
-39,Enchantment,Common,Shrink
-40,Enchantment,Common,Drain
-41,Spell,Rare,Life Burst
-42,Creature,Rare,Dark Queen Griffin
-43,Enchantment,Rare,Dark Shield
-44,Creature,Rare,Frozen Rogue Skin-Walker
+==================,DECK,6741
+0,Creature,Earth Thief Orc
+1,Creature,Wolf
+2,Spell,Burst
+3,Creature,Berserker
+4,Enchantment,Firebreath
+5,Artifact,Divine Robe
+6,Creature,Skin-Walker
+7,Creature,Death Rogue Orc
+8,Enchantment,Sorrow Shield
+9,Creature,Aura Priest Orc
+10,Spell,Burst
+11,Creature,Earth King Oni of the Eternal Land
+12,Enchantment,Victory Invert
+13,Spell,Tempest
+14,Creature,Paladin
+15,Creature,Spider
+16,Enchantment,Instant Forged Strength
+17,Spell,Nimble Stun
+18,Creature,Dark Undead Dwarf of the Mountains
+19,Enchantment,Cataclysmic Flight
+20,Spell,Clever Nimble Wall
+21,Creature,Frozen Queen Kraken
+22,Creature,Paladin
+23,Spell,Infuriate
+24,Creature,Eagle
+25,Creature,Eagle
+26,Enchantment,Deathgrip
+27,Creature,Fairy
+28,Creature,Aura Monk Orc
+29,Creature,Death Priest Dwarf of the Black Stone
+30,Artifact,Shield
+31,Spell,Frenzy
+32,Creature,Frozen Warrior Griffin
+33,Creature,Paladin
+34,Creature,Ghoul
+35,Artifact,Scythe
+36,Creature,Frozen Thief Goblin
+37,Creature,Paladin
+38,Creature,Eagle
+39,Enchantment,Strength
+40,Enchantment,Haste
+41,Spell,Victory Wall
+42,Creature,Dark Queen Griffin
+43,Enchantment,Gloom Flight
+44,Creature,Frozen Rogue Orc

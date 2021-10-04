@@ -1,46 +1,46 @@
-==================,DECK,7871,Light
-0,Enchantment,Common,Strength
-1,Spell,Rare,Hateful Reanimate
-2,Creature,Common,Paladin
-3,Spell,Legendary,Extreme Vortex
-4,Artifact,Rare,Lunar Helmet
-5,Creature,Common,Ghoul
-6,Creature,Common,Paladin
-7,Creature,Common,Orc
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Deathgrip
-10,Enchantment,Common,Haste
-11,Artifact,Common,Shield
-12,Spell,Common,Invisibility
-13,Creature,Rare,Aura Assassin Minotaur
-14,Creature,Common,Eagle
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Common,Orc
-18,Creature,Common,Magi
-19,Creature,Common,Warlock
-20,Creature,Common,Eagle
-21,Artifact,Common,Scythe
-22,Creature,Common,Wolf
-23,Creature,Common,Goblin
-24,Creature,Common,Warlock
-25,Creature,Common,Eagle
-26,Artifact,Rare,Solar Bracers
-27,Enchantment,Common,Drain
-28,Spell,Common,Invisibility
-29,Creature,Common,Orc
-30,Creature,Common,Orc
-31,Creature,Legendary,Frozen Rogue Giant of the Mountains
-32,Creature,Common,Elf
-33,Enchantment,Common,Age
-34,Spell,Common,Sorrow
-35,Enchantment,Common,Alacrity
-36,Creature,Rare,Aura Fighter Minotaur
-37,Artifact,Common,Sword
-38,Spell,Common,Freeze
-39,Creature,Rare,Earth Warrior Skin-Walker
-40,Creature,Common,Elf
-41,Creature,Common,Wolf
-42,Enchantment,Common,Shield
-43,Creature,Rare,Earth Rogue Minotaur
-44,Artifact,Legendary,Potent Bow
+==================,DECK,7871
+0,Enchantment,Alacrity
+1,Spell,Cataclysmic Gravitation
+2,Creature,Troll
+3,Spell,Irate Lunar Revive
+4,Artifact,Miracle Helmet
+5,Creature,Ghoul
+6,Creature,Troll
+7,Creature,Spider
+8,Creature,Magi
+9,Enchantment,Shrink
+10,Enchantment,Firebreath
+11,Artifact,Shield
+12,Spell,Vortex
+13,Creature,Aura Assassin Cyclops
+14,Creature,Eagle
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Spider
+18,Creature,Fairy
+19,Creature,Berserker
+20,Creature,Eagle
+21,Artifact,Scythe
+22,Creature,Wolf
+23,Creature,Skin-Walker
+24,Creature,Berserker
+25,Creature,Eagle
+26,Artifact,Necro Bracers
+27,Enchantment,Haste
+28,Spell,Pandemonium
+29,Creature,Spider
+30,Creature,Spider
+31,Creature,Frozen Rogue Dwarf of the Mountains
+32,Creature,Warlock
+33,Enchantment,Drain
+34,Spell,Stricken
+35,Enchantment,Agony
+36,Creature,Aura Fighter Cyclops
+37,Artifact,Sword
+38,Spell,Invisibility
+39,Creature,Earth Warrior Orc
+40,Creature,Warlock
+41,Creature,Wolf
+42,Enchantment,Age
+43,Creature,Earth Rogue Cyclops
+44,Artifact,Mighty Victory Bow

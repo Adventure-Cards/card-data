@@ -1,46 +1,46 @@
-==================,DECK,6319,Light
-0,Creature,Common,Eagle
-1,Creature,Legendary,Snow Queen Oni of the Eastern Skies
-2,Creature,Legendary,Frozen King Kraken of the Eastern Skies
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Shield
-5,Enchantment,Common,Strength
-6,Artifact,Common,Ring
-7,Spell,Common,Wall
-8,Creature,Common,Goblin
-9,Enchantment,Mythic,Urgent Shrink
-10,Creature,Common,Ghoul
-11,Creature,Common,Spider
-12,Creature,Common,Magi
-13,Creature,Common,Wolf
-14,Creature,Rare,Snow Undead Berserker
-15,Spell,Legendary,Urgent Stricken
-16,Creature,Legendary,Dark King Kraken of the Arctic Blizzards
-17,Creature,Common,Goblin
-18,Spell,Common,Gale
-19,Creature,Common,Eagle
-20,Spell,Common,Frenzy
-21,Artifact,Rare,Miracle Potion
-22,Creature,Common,Wolf
-23,Creature,Common,Magi
-24,Enchantment,Common,Haste
-25,Creature,Mythic,Dark Grand Wizard of Illusion
-26,Spell,Common,Invisibility
-27,Creature,Legendary,Aura Monk Cyclops of the Arctic Blizzards
-28,Creature,Common,Spider
-29,Spell,Common,Revive
-30,Creature,Common,Warlock
-31,Creature,Common,Elf
-32,Spell,Legendary,Instant Revive
-33,Creature,Mythic,Earth Time Phoenix of the Shadows
-34,Creature,Common,Elf
-35,Enchantment,Common,Shrink
-36,Creature,Common,Warlock
-37,Creature,Mythic,Dark Ancient Wizard of Illusion
-38,Creature,Common,Dwarf
-39,Enchantment,Legendary,Potent Lethargy
-40,Artifact,Common,Shield
-41,Creature,Common,Paladin
-42,Enchantment,Rare,Life Age
-43,Creature,Common,Magi
-44,Creature,Common,Ghoul
+==================,DECK,6319
+0,Creature,Eagle
+1,Creature,Snow Queen Oni of the Eastern Skies
+2,Creature,Frozen King Ogre of the Eastern Skies
+3,Creature,Magi
+4,Enchantment,Deathgrip
+5,Enchantment,Agony
+6,Artifact,Ring
+7,Spell,Fireball
+8,Creature,Skin-Walker
+9,Enchantment,Clever Necro Lethargy
+10,Creature,Ghoul
+11,Creature,Paladin
+12,Creature,Fairy
+13,Creature,Wolf
+14,Creature,Snow Undead Goblin
+15,Spell,Clever Corpse Tempest
+16,Creature,Dark King Ogre of the Arctic Blizzards
+17,Creature,Skin-Walker
+18,Spell,Hypnosis
+19,Creature,Eagle
+20,Spell,Sorrow
+21,Artifact,Victory Potion
+22,Creature,Wolf
+23,Creature,Fairy
+24,Enchantment,Agony
+25,Creature,Dark Grand Wizard of Illusion
+26,Spell,Stun
+27,Creature,Aura Monk Giant of the Arctic Blizzards
+28,Creature,Paladin
+29,Spell,Fire
+30,Creature,Berserker
+31,Creature,Warlock
+32,Spell,Instant Hateful Heal
+33,Creature,Earth Time Phoenix of the Shadows
+34,Creature,Warlock
+35,Enchantment,Drain
+36,Creature,Berserker
+37,Creature,Dark Ancient Wizard of Illusion
+38,Creature,Magi
+39,Enchantment,Instant Grim Drain
+40,Artifact,Shield
+41,Creature,Troll
+42,Enchantment,Victory Shade
+43,Creature,Fairy
+44,Creature,Ghoul

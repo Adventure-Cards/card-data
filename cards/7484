@@ -1,46 +1,46 @@
-==================,DECK,7484,Medium
-0,Spell,Common,Infuriate
-1,Creature,Common,Warlock
-2,Spell,Common,Rage
-3,Creature,Mythic,Snow Nameless Dragon of Hate
-4,Creature,Rare,Snow Monk Griffin
-5,Spell,Rare,Necro Stricken
-6,Artifact,Common,Staff
-7,Spell,Rare,Nature Burst
-8,Creature,Legendary,Dark King Orge of the Arctic Blizzards
-9,Spell,Legendary,Angry Torment
-10,Creature,Legendary,Earth Thief Orge of the Bright Mountains
-11,Creature,Common,Wolf
-12,Enchantment,Common,Drain
-13,Creature,Common,Warlock
-14,Spell,Common,Lightning
-15,Creature,Rare,Snow Knight Griffin
-16,Artifact,Rare,Shimmering Ring
-17,Creature,Legendary,Snow Queen Orge of the Black Stone
-18,Creature,Rare,Aura Rogue Griffin
-19,Enchantment,Common,Haste
-20,Artifact,Rare,Forged Shield
-21,Spell,Rare,Lunar Burst
-22,Creature,Common,Paladin
-23,Artifact,Legendary,Intense Helm
-24,Creature,Rare,Snow Rogue Minotaur
-25,Creature,Mythic,Light Ancient Demon of the Sky
-26,Creature,Common,Goblin
-27,Spell,Common,Rage
-28,Spell,Rare,Solar Invisibility
-29,Creature,Common,Warlock
-30,Creature,Common,Eagle
-31,Artifact,Rare,Nature Sigil
-32,Artifact,Common,Potion
-33,Creature,Rare,Frozen King Fairy
-34,Creature,Mythic,Aura Chaos Wizard of the Light
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Shrink
-37,Artifact,Rare,Forged Cloak
-38,Creature,Common,Magi
-39,Creature,Common,Orc
-40,Enchantment,Common,Lethargy
-41,Enchantment,Mythic,Clever Age
-42,Creature,Mythic,Dark Nameless Dragon of Illusion
-43,Creature,Common,Wolf
-44,Spell,Common,Frost
+==================,DECK,7484
+0,Spell,Infuriate
+1,Creature,Berserker
+2,Spell,Rage
+3,Creature,Snow Nameless Dragon of Hate
+4,Creature,Snow Monk Griffin
+5,Spell,Solar Gravitation
+6,Artifact,Staff
+7,Spell,Forged Fireball
+8,Creature,Dark King Elf of the Arctic Blizzards
+9,Spell,Urgent Dark Stricken
+10,Creature,Earth Thief Elf of the Bright Mountains
+11,Creature,Wolf
+12,Enchantment,Firebreath
+13,Creature,Berserker
+14,Spell,Freeze
+15,Creature,Snow Knight Griffin
+16,Artifact,Forged Ring
+17,Creature,Snow Queen Elf of the Black Stone
+18,Creature,Aura Rogue Griffin
+19,Enchantment,Lethargy
+20,Artifact,Chimeric Shield
+21,Spell,Lunar Freeze
+22,Creature,Troll
+23,Artifact,Dire Corpse Helm
+24,Creature,Snow Rogue Cyclops
+25,Creature,Light Ancient Demon of the Sky
+26,Creature,Skin-Walker
+27,Spell,Pandemonium
+28,Spell,Forged Tempest
+29,Creature,Berserker
+30,Creature,Eagle
+31,Artifact,Corpse Sigil
+32,Artifact,Potion
+33,Creature,Frozen King Kraken
+34,Creature,Aura Chaos Wizard of the Light
+35,Creature,Magi
+36,Enchantment,Deathgrip
+37,Artifact,Gloom Cloak
+38,Creature,Fairy
+39,Creature,Spider
+40,Enchantment,Invert
+41,Enchantment,Empyrean Victory Shade
+42,Creature,Dark Nameless Dragon of Illusion
+43,Creature,Wolf
+44,Spell,Wall

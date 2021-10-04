@@ -1,46 +1,46 @@
-==================,DECK,6040,Light
-0,Spell,Common,Stricken
-1,Enchantment,Common,Agony
-2,Spell,Common,Invisibility
-3,Enchantment,Common,Shield
-4,Creature,Common,Warlock
-5,Creature,Rare,Dark Merchant Fairy
-6,Spell,Common,Sorrow
-7,Spell,Common,Freeze
-8,Enchantment,Rare,Lunar Haste
-9,Spell,Common,Burst
-10,Enchantment,Common,Alacrity
-11,Creature,Common,Spider
-12,Artifact,Common,Ring
-13,Spell,Common,Stricken
-14,Creature,Common,Warlock
-15,Spell,Legendary,Extreme Sorrow
-16,Spell,Common,Vortex
-17,Creature,Legendary,Earth Lord Orge of the Arctic Blizzards
-18,Spell,Rare,Cataclysmic Burn
-19,Creature,Rare,Death Thief Minotaur
-20,Creature,Rare,Snow Queen Hydra
-21,Spell,Legendary,Angry Burn
-22,Creature,Common,Wolf
-23,Artifact,Rare,Frigid Ghost Wand
-24,Creature,Common,Paladin
-25,Spell,Common,Assault
-26,Spell,Common,Invisibility
-27,Spell,Common,Heal
-28,Artifact,Rare,Necro Helmet
-29,Artifact,Common,Potion
-30,Enchantment,Common,Drain
-31,Creature,Rare,Death King Minotaur
-32,Artifact,Rare,Dark Ring
-33,Spell,Common,Burst
-34,Creature,Common,Wolf
-35,Artifact,Legendary,Extreme Greaves
-36,Spell,Common,Stun
-37,Creature,Common,Magi
-38,Spell,Common,Burst
-39,Creature,Common,Wolf
-40,Creature,Legendary,Frozen Priest Giant of the Eternal Land
-41,Creature,Common,Dwarf
-42,Spell,Rare,Solar Frost
-43,Spell,Common,Lightning
-44,Creature,Common,Wolf
+==================,DECK,6040
+0,Spell,Frost
+1,Enchantment,Firebreath
+2,Spell,Gale
+3,Enchantment,Shrink
+4,Creature,Berserker
+5,Creature,Dark Merchant Kraken
+6,Spell,Burst
+7,Spell,Pandemonium
+8,Enchantment,Miracle Shield
+9,Spell,Fury
+10,Enchantment,Flight
+11,Creature,Paladin
+12,Artifact,Ring
+13,Spell,Frenzy
+14,Creature,Berserker
+15,Spell,Zealous Gloom Stun
+16,Spell,Gravitation
+17,Creature,Earth Lord Elf of the Arctic Blizzards
+18,Spell,Dark Stun
+19,Creature,Death Thief Cyclops
+20,Creature,Snow Queen Hydra
+21,Spell,Potent Chimeric Rage
+22,Creature,Wolf
+23,Artifact,Victory Ghost Wand
+24,Creature,Troll
+25,Spell,Tempest
+26,Spell,Rage
+27,Spell,Ice
+28,Artifact,Shimmering Helmet
+29,Artifact,Potion
+30,Enchantment,Agony
+31,Creature,Death King Cyclops
+32,Artifact,Sorrow Ring
+33,Spell,Fireball
+34,Creature,Wolf
+35,Artifact,Mighty Lunar Greaves
+36,Spell,Burn
+37,Creature,Fairy
+38,Spell,Hypnosis
+39,Creature,Wolf
+40,Creature,Frozen Priest Dwarf of the Eternal Land
+41,Creature,Magi
+42,Spell,Hateful Heal
+43,Spell,Pandemonium
+44,Creature,Wolf

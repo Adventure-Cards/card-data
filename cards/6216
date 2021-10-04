@@ -1,46 +1,46 @@
-==================,DECK,6216,Light
-0,Creature,Rare,Death Priest Minotaur
-1,Creature,Common,Eagle
-2,Creature,Rare,Light Thief Skin-Walker
-3,Artifact,Common,Scythe
-4,Spell,Common,Sorrow
-5,Creature,Rare,Snow Monk Skin-Walker
-6,Spell,Common,Frost
-7,Creature,Common,Spider
-8,Creature,Common,Orc
-9,Enchantment,Common,Drain
-10,Creature,Common,Elf
-11,Creature,Legendary,Light Monk Oni of the Magical Forest
-12,Enchantment,Common,Flight
-13,Creature,Legendary,Aura Fighter Oni of the Golden Palace
-14,Creature,Common,Warlock
-15,Creature,Common,Ghoul
-16,Creature,Common,Goblin
-17,Enchantment,Legendary,Clever Age
-18,Creature,Common,Spider
-19,Creature,Rare,Dark Lord Fairy
-20,Spell,Common,Invisibility
-21,Creature,Common,Eagle
-22,Creature,Mythic,Earth Undead Dragon of the Shadows
-23,Spell,Common,Stricken
-24,Enchantment,Rare,Gloom Strength
-25,Creature,Common,Warlock
-26,Creature,Common,Paladin
-27,Creature,Legendary,Death Fighter Kraken of the Border
-28,Creature,Legendary,Death Queen Giant of the Eastern Skies
-29,Enchantment,Common,Flight
-30,Creature,Common,Goblin
-31,Creature,Common,Goblin
-32,Creature,Common,Wolf
-33,Creature,Rare,Dark Rogue Skin-Walker
-34,Artifact,Common,Bracers
-35,Creature,Common,Paladin
-36,Creature,Legendary,Earth Rogue Giant of the Haven
-37,Creature,Common,Paladin
-38,Creature,Common,Magi
-39,Creature,Common,Warlock
-40,Creature,Rare,Snow Lord Griffin
-41,Spell,Common,Frost
-42,Creature,Common,Wolf
-43,Creature,Rare,Snow Monk Skin-Walker
-44,Creature,Common,Goblin
+==================,DECK,6216
+0,Creature,Death Priest Cyclops
+1,Creature,Eagle
+2,Creature,Light Thief Orc
+3,Artifact,Scythe
+4,Spell,Invisibility
+5,Creature,Snow Monk Orc
+6,Spell,Freeze
+7,Creature,Paladin
+8,Creature,Spider
+9,Enchantment,Alacrity
+10,Creature,Warlock
+11,Creature,Light Monk Oni of the Magical Forest
+12,Enchantment,Haste
+13,Creature,Aura Fighter Oni of the Golden Palace
+14,Creature,Berserker
+15,Creature,Ghoul
+16,Creature,Skin-Walker
+17,Enchantment,Clever Victory Haste
+18,Creature,Paladin
+19,Creature,Dark Lord Kraken
+20,Spell,Heal
+21,Creature,Eagle
+22,Creature,Earth Undead Dragon of the Shadows
+23,Spell,Torment
+24,Enchantment,Cataclysmic Shrink
+25,Creature,Berserker
+26,Creature,Troll
+27,Creature,Death Fighter Ogre of the Border
+28,Creature,Death Queen Dwarf of the Eastern Skies
+29,Enchantment,Drain
+30,Creature,Skin-Walker
+31,Creature,Skin-Walker
+32,Creature,Wolf
+33,Creature,Dark Rogue Orc
+34,Artifact,Bracers
+35,Creature,Troll
+36,Creature,Earth Rogue Dwarf of the Haven
+37,Creature,Troll
+38,Creature,Fairy
+39,Creature,Berserker
+40,Creature,Snow Lord Griffin
+41,Spell,Vortex
+42,Creature,Wolf
+43,Creature,Snow Monk Orc
+44,Creature,Skin-Walker

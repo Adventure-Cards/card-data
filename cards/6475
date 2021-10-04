@@ -1,46 +1,46 @@
-==================,DECK,6475,Light
-0,Artifact,Common,Helm
-1,Enchantment,Common,Age
-2,Spell,Common,Ice
-3,Spell,Rare,Nature Stun
-4,Creature,Rare,Earth Merchant Skin-Walker
-5,Enchantment,Common,Blight
-6,Spell,Legendary,Extreme Frenzy
-7,Creature,Common,Eagle
-8,Spell,Common,Rage
-9,Spell,Common,Fury
-10,Creature,Legendary,Death Priest Oni of the Frozen Castle
-11,Spell,Common,Wall
-12,Creature,Common,Eagle
-13,Creature,Rare,Death Monk Berserker
-14,Spell,Common,Maelstrom
-15,Creature,Common,Spider
-16,Spell,Common,Gale
-17,Spell,Common,Fury
-18,Enchantment,Mythic,Dire Alacrity
-19,Enchantment,Common,Invert
-20,Creature,Common,Goblin
-21,Enchantment,Common,Shrink
-22,Creature,Common,Magi
-23,Creature,Common,Eagle
-24,Creature,Common,Magi
-25,Spell,Common,Heal
-26,Artifact,Legendary,Instant Sword
-27,Creature,Common,Ghoul
-28,Spell,Common,Gravitation
-29,Spell,Common,Vortex
-30,Creature,Common,Eagle
-31,Creature,Rare,Frozen Priest Berserker
-32,Enchantment,Legendary,Urgent Agony
-33,Spell,Common,Lightning
-34,Creature,Rare,Light Knight Berserker
-35,Creature,Common,Paladin
-36,Creature,Rare,Snow Assassin Griffin
-37,Enchantment,Rare,Solar Shield
-38,Creature,Common,Spider
-39,Enchantment,Rare,Frigid Strength
-40,Spell,Common,Maelstrom
-41,Creature,Common,Wolf
-42,Artifact,Legendary,Clever Pendant
-43,Enchantment,Rare,Life Blight
-44,Enchantment,Rare,Dark Shield
+==================,DECK,6475
+0,Artifact,Helm
+1,Enchantment,Shade
+2,Spell,Tempest
+3,Spell,Shimmering Ice
+4,Creature,Earth Merchant Orc
+5,Enchantment,Firebreath
+6,Spell,Dire Dark Lightning
+7,Creature,Eagle
+8,Spell,Maelstrom
+9,Spell,Gale
+10,Creature,Death Priest Oni of the Frozen Castle
+11,Spell,Infuriate
+12,Creature,Eagle
+13,Creature,Death Monk Goblin
+14,Spell,Frenzy
+15,Creature,Paladin
+16,Spell,Vortex
+17,Spell,Frenzy
+18,Enchantment,Instant Apocalypse Drain
+19,Enchantment,Agony
+20,Creature,Skin-Walker
+21,Enchantment,Lethargy
+22,Creature,Fairy
+23,Creature,Eagle
+24,Creature,Fairy
+25,Spell,Invisibility
+26,Artifact,Potent Solar Sword
+27,Creature,Ghoul
+28,Spell,Infuriate
+29,Spell,Fireball
+30,Creature,Eagle
+31,Creature,Frozen Priest Goblin
+32,Enchantment,Dire Corpse Age
+33,Spell,Heal
+34,Creature,Light Knight Goblin
+35,Creature,Troll
+36,Creature,Snow Assassin Griffin
+37,Enchantment,Nature Lethargy
+38,Creature,Paladin
+39,Enchantment,Nimble Drain
+40,Spell,Heal
+41,Creature,Wolf
+42,Artifact,Irate Victory Pendant
+43,Enchantment,Nimble Haste
+44,Enchantment,Gloom Firebreath

@@ -1,46 +1,46 @@
-==================,DECK,6242,Medium
-0,Enchantment,Common,Agony
-1,Creature,Common,Magi
-2,Creature,Common,Orc
-3,Creature,Common,Goblin
-4,Enchantment,Mythic,Clever Haste
-5,Enchantment,Legendary,Dire Lethargy
-6,Spell,Legendary,Intense Fury
-7,Creature,Rare,Frozen Queen Minotaur
-8,Spell,Common,Sorrow
-9,Spell,Common,Sorrow
-10,Creature,Common,Spider
-11,Creature,Rare,Dark Thief Griffin
-12,Enchantment,Rare,Cataclysmic Deathgrip
-13,Creature,Legendary,Dark King Oni of the Bright Mountains
-14,Artifact,Common,Tome
-15,Creature,Common,Ghoul
-16,Creature,Rare,Frozen Fighter Hydra
-17,Creature,Mythic,Earth Undead Phoenix of the Shadows
-18,Creature,Common,Orc
-19,Creature,Common,Orc
-20,Creature,Rare,Death Merchant Hydra
-21,Enchantment,Mythic,Extreme Alacrity
-22,Creature,Common,Paladin
-23,Creature,Mythic,Light Grand Demon of the Sky
-24,Enchantment,Common,Haste
-25,Enchantment,Common,Flight
-26,Creature,Legendary,Death Assassin Orge of the Black Stone
-27,Spell,Mythic,Mighty Torment
-28,Creature,Common,Paladin
-29,Creature,Common,Warlock
-30,Creature,Common,Elf
-31,Creature,Legendary,Frozen Undead Orge of the Low Hills
-32,Creature,Common,Ghoul
-33,Creature,Common,Warlock
-34,Artifact,Common,Scythe
-35,Creature,Mythic,Frozen Grand Wizard of the Void
-36,Creature,Legendary,Death Merchant Cyclops of the Border
-37,Spell,Common,Invisibility
-38,Spell,Common,Wall
-39,Artifact,Legendary,Instant Tome
-40,Spell,Common,Invisibility
-41,Artifact,Common,Gauntlet
-42,Creature,Common,Wolf
-43,Spell,Common,Maelstrom
-44,Creature,Rare,Death Merchant Fairy
+==================,DECK,6242
+0,Enchantment,Agony
+1,Creature,Fairy
+2,Creature,Spider
+3,Creature,Skin-Walker
+4,Enchantment,Clever Life Haste
+5,Enchantment,Urgent Grim Invert
+6,Spell,Potent Corpse Infuriate
+7,Creature,Frozen Queen Cyclops
+8,Spell,Torment
+9,Spell,Torment
+10,Creature,Paladin
+11,Creature,Dark Thief Griffin
+12,Enchantment,Sorrow Flight
+13,Creature,Dark King Oni of the Bright Mountains
+14,Artifact,Tome
+15,Creature,Ghoul
+16,Creature,Frozen Fighter Hydra
+17,Creature,Earth Undead Phoenix of the Shadows
+18,Creature,Spider
+19,Creature,Spider
+20,Creature,Death Merchant Hydra
+21,Enchantment,Ardent Dark Shield
+22,Creature,Troll
+23,Creature,Light Grand Demon of the Sky
+24,Enchantment,Shield
+25,Enchantment,Blight
+26,Creature,Death Assassin Elf of the Black Stone
+27,Spell,Irate Chimeric Hypnosis
+28,Creature,Troll
+29,Creature,Berserker
+30,Creature,Warlock
+31,Creature,Frozen Undead Elf of the Low Hills
+32,Creature,Ghoul
+33,Creature,Berserker
+34,Artifact,Scythe
+35,Creature,Frozen Grand Wizard of the Void
+36,Creature,Death Merchant Giant of the Border
+37,Spell,Frost
+38,Spell,Torment
+39,Artifact,Empyrean Solar Tome
+40,Spell,Stun
+41,Artifact,Gauntlet
+42,Creature,Wolf
+43,Spell,Reanimate
+44,Creature,Death Merchant Kraken

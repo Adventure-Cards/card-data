@@ -1,46 +1,46 @@
-==================,DECK,4445,Light
-0,Spell,Common,Gale
-1,Enchantment,Rare,Apocalypse Drain
-2,Creature,Common,Magi
-3,Creature,Common,Wolf
-4,Creature,Common,Paladin
-5,Creature,Common,Warlock
-6,Enchantment,Common,Age
-7,Creature,Common,Orc
-8,Creature,Common,Warlock
-9,Enchantment,Rare,Necro Drain
-10,Enchantment,Rare,Solar Alacrity
-11,Spell,Common,Maelstrom
-12,Spell,Legendary,Dire Gravitation
-13,Enchantment,Common,Strength
-14,Creature,Common,Dwarf
-15,Enchantment,Legendary,Extreme Shrink
-16,Creature,Rare,Dark Warrior Hydra
-17,Creature,Common,Magi
-18,Creature,Common,Spider
-19,Creature,Common,Eagle
-20,Artifact,Common,Ring
-21,Spell,Common,Hypnosis
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Warlock
-24,Spell,Rare,Miracle Ice
-25,Spell,Rare,Hateful Maelstrom
-26,Enchantment,Rare,Nature Drain
-27,Spell,Common,Assault
-28,Creature,Rare,Snow King Hydra
-29,Enchantment,Common,Blight
-30,Creature,Common,Warlock
-31,Creature,Rare,Earth Knight Minotaur
-32,Creature,Common,Elf
-33,Creature,Rare,Death Thief Fairy
-34,Creature,Legendary,Frozen Priest Kraken of the Eternal Land
-35,Creature,Common,Wolf
-36,Creature,Rare,Death Undead Griffin
-37,Enchantment,Common,Shield
-38,Artifact,Common,Crown
-39,Creature,Mythic,Earth Chaos Demon of the Shadows
-40,Creature,Rare,Snow Warrior Minotaur
-41,Enchantment,Common,Shield
-42,Creature,Common,Wolf
-43,Enchantment,Common,Strength
-44,Spell,Common,Burn
+==================,DECK,4445
+0,Spell,Infuriate
+1,Enchantment,Apocalypse Blight
+2,Creature,Fairy
+3,Creature,Wolf
+4,Creature,Troll
+5,Creature,Berserker
+6,Enchantment,Shrink
+7,Creature,Spider
+8,Creature,Berserker
+9,Enchantment,Forged Agony
+10,Enchantment,Forged Age
+11,Spell,Gravitation
+12,Spell,Ardent Frigid Gale
+13,Enchantment,Age
+14,Creature,Magi
+15,Enchantment,Zealous Chimeric Alacrity
+16,Creature,Dark Warrior Hydra
+17,Creature,Fairy
+18,Creature,Paladin
+19,Creature,Eagle
+20,Artifact,Ring
+21,Spell,Invisibility
+22,Enchantment,Flight
+23,Creature,Berserker
+24,Spell,Apocalypse Infuriate
+25,Spell,Lunar Fireball
+26,Enchantment,Forged Age
+27,Spell,Infuriate
+28,Creature,Snow King Hydra
+29,Enchantment,Alacrity
+30,Creature,Berserker
+31,Creature,Earth Knight Cyclops
+32,Creature,Warlock
+33,Creature,Death Thief Kraken
+34,Creature,Frozen Priest Ogre of the Eternal Land
+35,Creature,Wolf
+36,Creature,Death Undead Griffin
+37,Enchantment,Alacrity
+38,Artifact,Crown
+39,Creature,Earth Chaos Demon of the Shadows
+40,Creature,Snow Warrior Cyclops
+41,Enchantment,Shrink
+42,Creature,Wolf
+43,Enchantment,Agony
+44,Spell,Frenzy

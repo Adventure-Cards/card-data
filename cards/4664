@@ -1,46 +1,46 @@
-==================,DECK,4664,Light
-0,Artifact,Common,Potion
-1,Creature,Common,Spider
-2,Creature,Common,Dwarf
-3,Spell,Rare,Miracle Sorrow
-4,Creature,Legendary,Earth Undead Oni of the West
-5,Creature,Rare,Dark Thief Minotaur
-6,Enchantment,Common,Shade
-7,Spell,Rare,Frigid Revive
-8,Spell,Legendary,Potent Revive
-9,Artifact,Common,Belt
-10,Spell,Legendary,Dire Frost
-11,Enchantment,Rare,Forged Lethargy
-12,Creature,Common,Ghoul
-13,Creature,Common,Spider
-14,Spell,Common,Burst
-15,Creature,Common,Spider
-16,Creature,Rare,Frozen Rogue Hydra
-17,Enchantment,Common,Age
-18,Spell,Rare,Nimble Gravitation
-19,Creature,Common,Paladin
-20,Spell,Common,Reanimate
-21,Creature,Common,Warlock
-22,Creature,Mythic,Aura Undead Dragon of the Light
-23,Creature,Rare,Light Fighter Griffin
-24,Spell,Common,Heal
-25,Artifact,Common,Gauntlet
-26,Enchantment,Common,Flight
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Lethargy
-29,Artifact,Legendary,Urgent Sigil
-30,Creature,Legendary,Aura Warrior Oni of the Mountains
-31,Spell,Common,Invisibility
-32,Creature,Rare,Earth Thief Skin-Walker
-33,Spell,Common,Frost
-34,Creature,Common,Magi
-35,Spell,Common,Frost
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Shield
-39,Spell,Common,Stricken
-40,Creature,Common,Dwarf
-41,Spell,Legendary,Potent Assault
-42,Enchantment,Rare,Dark Invert
-43,Creature,Common,Magi
-44,Enchantment,Common,Shrink
+==================,DECK,4664
+0,Artifact,Potion
+1,Creature,Paladin
+2,Creature,Magi
+3,Spell,Life Stun
+4,Creature,Earth Undead Oni of the West
+5,Creature,Dark Thief Cyclops
+6,Enchantment,Shield
+7,Spell,Oblivion Stricken
+8,Spell,Irate Grim Tempest
+9,Artifact,Belt
+10,Spell,Instant Frigid Ice
+11,Enchantment,Lunar Alacrity
+12,Creature,Ghoul
+13,Creature,Paladin
+14,Spell,Fireball
+15,Creature,Paladin
+16,Creature,Frozen Rogue Hydra
+17,Enchantment,Drain
+18,Spell,Hateful Assault
+19,Creature,Troll
+20,Spell,Fire
+21,Creature,Berserker
+22,Creature,Aura Undead Dragon of the Light
+23,Creature,Light Fighter Griffin
+24,Spell,Revive
+25,Artifact,Gauntlet
+26,Enchantment,Invert
+27,Creature,Magi
+28,Enchantment,Deathgrip
+29,Artifact,Mighty Forged Sigil
+30,Creature,Aura Warrior Oni of the Mountains
+31,Spell,Fireball
+32,Creature,Earth Thief Orc
+33,Spell,Stun
+34,Creature,Fairy
+35,Spell,Rage
+36,Enchantment,Haste
+37,Creature,Magi
+38,Enchantment,Shade
+39,Spell,Tempest
+40,Creature,Magi
+41,Spell,Instant Victory Gravitation
+42,Enchantment,Sorrow Shield
+43,Creature,Fairy
+44,Enchantment,Alacrity

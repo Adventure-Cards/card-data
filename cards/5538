@@ -1,46 +1,46 @@
-==================,DECK,5538,Medium
-0,Artifact,Legendary,Potent Sigil
-1,Artifact,Common,Cloak
-2,Creature,Common,Eagle
-3,Enchantment,Common,Alacrity
-4,Spell,Common,Stricken
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Shade
-7,Creature,Common,Wolf
-8,Creature,Common,Dwarf
-9,Artifact,Common,Ring
-10,Spell,Common,Frenzy
-11,Enchantment,Mythic,Clever Deathgrip
-12,Spell,Common,Assault
-13,Creature,Common,Paladin
-14,Enchantment,Common,Invert
-15,Creature,Legendary,Dark King Oni of the Mountains
-16,Artifact,Rare,Life Helmet
-17,Creature,Common,Orc
-18,Spell,Common,Torment
-19,Creature,Common,Wolf
-20,Artifact,Common,Sigil
-21,Creature,Common,Spider
-22,Creature,Rare,Aura Warrior Berserker
-23,Enchantment,Common,Shrink
-24,Spell,Common,Heal
-25,Creature,Legendary,Death Rogue Cyclops of the Low Hills
-26,Enchantment,Common,Deathgrip
-27,Artifact,Common,Sword
-28,Creature,Common,Elf
-29,Creature,Rare,Snow Undead Minotaur
-30,Creature,Common,Eagle
-31,Artifact,Common,Belt
-32,Creature,Common,Goblin
-33,Creature,Common,Paladin
-34,Creature,Common,Eagle
-35,Spell,Common,Frost
-36,Creature,Rare,Snow Queen Fairy
-37,Creature,Rare,Earth Priest Fairy
-38,Enchantment,Common,Agony
-39,Artifact,Common,Belt
-40,Creature,Rare,Light King Fairy
-41,Creature,Mythic,Frozen Nameless Dragon of the Void
-42,Enchantment,Common,Flight
-43,Creature,Rare,Earth Knight Hydra
-44,Spell,Common,Assault
+==================,DECK,5538
+0,Artifact,Mighty Victory Sigil
+1,Artifact,Cloak
+2,Creature,Eagle
+3,Enchantment,Flight
+4,Spell,Burst
+5,Creature,Magi
+6,Enchantment,Strength
+7,Creature,Wolf
+8,Creature,Magi
+9,Artifact,Ring
+10,Spell,Revive
+11,Enchantment,Empyrean Oblivion Shade
+12,Spell,Burst
+13,Creature,Troll
+14,Enchantment,Flight
+15,Creature,Dark King Oni of the Mountains
+16,Artifact,Frigid Helmet
+17,Creature,Spider
+18,Spell,Stun
+19,Creature,Wolf
+20,Artifact,Sigil
+21,Creature,Paladin
+22,Creature,Aura Warrior Goblin
+23,Enchantment,Lethargy
+24,Spell,Infuriate
+25,Creature,Death Rogue Giant of the Low Hills
+26,Enchantment,Haste
+27,Artifact,Sword
+28,Creature,Warlock
+29,Creature,Snow Undead Cyclops
+30,Creature,Eagle
+31,Artifact,Belt
+32,Creature,Skin-Walker
+33,Creature,Troll
+34,Creature,Eagle
+35,Spell,Heal
+36,Creature,Snow Queen Kraken
+37,Creature,Earth Priest Kraken
+38,Enchantment,Flight
+39,Artifact,Belt
+40,Creature,Light King Kraken
+41,Creature,Frozen Nameless Dragon of the Void
+42,Enchantment,Alacrity
+43,Creature,Earth Knight Hydra
+44,Spell,Heal

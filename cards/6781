@@ -1,46 +1,46 @@
-==================,DECK,6781,Strong
-0,Creature,Common,Magi
-1,Creature,Common,Goblin
-2,Spell,Rare,Cataclysmic Sorrow
-3,Creature,Rare,Dark Lord Minotaur
-4,Creature,Common,Magi
-5,Spell,Rare,Oblivion Frenzy
-6,Spell,Legendary,Potent Rage
-7,Creature,Mythic,Earth Grand Wizard of the Shadows
-8,Creature,Legendary,Death Grand Wizard of the Dead
-9,Creature,Rare,Frozen Undead Griffin
-10,Creature,Common,Ghoul
-11,Creature,Common,Wolf
-12,Creature,Legendary,Light Ancient Demon of the Sky
-13,Artifact,Common,Scepter
-14,Creature,Common,Elf
-15,Spell,Common,Infuriate
-16,Enchantment,Common,Alacrity
-17,Creature,Rare,Dark Undead Berserker
-18,Spell,Common,Hypnosis
-19,Creature,Rare,Dark Rogue Griffin
-20,Enchantment,Mythic,Instant Agony
-21,Creature,Rare,Dark Knight Minotaur
-22,Creature,Rare,Death Rogue Hydra
-23,Artifact,Legendary,Angry Tome
-24,Creature,Rare,Aura Queen Fairy
-25,Creature,Rare,Death Rogue Berserker
-26,Spell,Mythic,Clever Frost
-27,Spell,Rare,Frigid Frost
-28,Artifact,Common,Tome
-29,Enchantment,Common,Blight
-30,Enchantment,Rare,Life Drain
-31,Creature,Rare,Earth Undead Griffin
-32,Spell,Legendary,Urgent Wall
-33,Creature,Mythic,Snow Time Dragon of Hate
-34,Spell,Legendary,Urgent Infuriate
-35,Creature,Rare,Aura Queen Fairy
-36,Creature,Common,Ghoul
-37,Spell,Common,Frenzy
-38,Creature,Common,Orc
-39,Artifact,Common,Shield
-40,Enchantment,Mythic,Potent Age
-41,Creature,Rare,Dark Merchant Skin-Walker
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Shade
-44,Spell,Legendary,Urgent Freeze
+==================,DECK,6781
+0,Creature,Fairy
+1,Creature,Skin-Walker
+2,Spell,Lunar Invisibility
+3,Creature,Dark Lord Cyclops
+4,Creature,Fairy
+5,Spell,Victory Wall
+6,Spell,Ardent Grim Fire
+7,Creature,Earth Grand Wizard of the Shadows
+8,Creature,Death Grand Wizard of the Dead
+9,Creature,Frozen Undead Griffin
+10,Creature,Ghoul
+11,Creature,Wolf
+12,Creature,Light Ancient Demon of the Sky
+13,Artifact,Scepter
+14,Creature,Warlock
+15,Spell,Freeze
+16,Enchantment,Haste
+17,Creature,Dark Undead Goblin
+18,Spell,Reanimate
+19,Creature,Dark Rogue Griffin
+20,Enchantment,Urgent Corpse Agony
+21,Creature,Dark Knight Cyclops
+22,Creature,Death Rogue Hydra
+23,Artifact,Dire Chimeric Tome
+24,Creature,Aura Queen Kraken
+25,Creature,Death Rogue Goblin
+26,Spell,Ardent Victory Revive
+27,Spell,Life Frost
+28,Artifact,Tome
+29,Enchantment,Haste
+30,Enchantment,Apocalypse Drain
+31,Creature,Earth Undead Griffin
+32,Spell,Instant Forged Rage
+33,Creature,Snow Time Dragon of Hate
+34,Spell,Empyrean Necro Revive
+35,Creature,Aura Queen Kraken
+36,Creature,Ghoul
+37,Spell,Stun
+38,Creature,Spider
+39,Artifact,Shield
+40,Enchantment,Mighty Victory Invert
+41,Creature,Dark Merchant Orc
+42,Creature,Ghoul
+43,Enchantment,Drain
+44,Spell,Instant Necro Wall

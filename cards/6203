@@ -1,46 +1,46 @@
-==================,DECK,6203,Strong
-0,Creature,Common,Spider
-1,Creature,Common,Goblin
-2,Enchantment,Rare,Nimble Shade
-3,Creature,Legendary,Earth Time Phoenix of the Shadows
-4,Creature,Common,Spider
-5,Artifact,Mythic,Instant Divine Robe
-6,Creature,Mythic,Snow Grand Wizard of Hate
-7,Enchantment,Mythic,Clever Age
-8,Creature,Common,Paladin
-9,Creature,Common,Orc
-10,Spell,Rare,Shimmering Sorrow
-11,Creature,Mythic,Snow Time Phoenix of Hate
-12,Creature,Mythic,Frozen Ancient Demon of the Void
-13,Creature,Legendary,Dark Queen Cyclops of the Eastern Skies
-14,Creature,Legendary,Death Nameless Dragon of the Dead
-15,Creature,Rare,Dark Knight Skin-Walker
-16,Enchantment,Legendary,Intense Blight
-17,Creature,Mythic,Dark Chaos Demon of Illusion
-18,Artifact,Common,Ring
-19,Creature,Common,Warlock
-20,Creature,Common,Warlock
-21,Enchantment,Common,Blight
-22,Enchantment,Legendary,Intense Drain
-23,Creature,Common,Ghoul
-24,Creature,Common,Dwarf
-25,Creature,Legendary,Light Undead Dragon of the Sky
-26,Enchantment,Mythic,Clever Drain
-27,Spell,Common,Maelstrom
-28,Creature,Common,Elf
-29,Spell,Rare,Grim Invisibility
-30,Creature,Common,Elf
-31,Creature,Legendary,Death Undead Dragon of the Dead
-32,Creature,Common,Ghoul
-33,Spell,Common,Maelstrom
-34,Creature,Common,Eagle
-35,Creature,Legendary,Dark Fighter Cyclops of the Mountains
-36,Artifact,Rare,Nature Potion
-37,Enchantment,Common,Shield
-38,Enchantment,Legendary,Instant Invert
-39,Creature,Rare,Snow Monk Berserker
-40,Artifact,Rare,Hateful Ring
-41,Enchantment,Common,Deathgrip
-42,Enchantment,Common,Strength
-43,Creature,Mythic,Light Chaos Wizard of the Sky
-44,Spell,Common,Gale
+==================,DECK,6203
+0,Creature,Paladin
+1,Creature,Skin-Walker
+2,Enchantment,Necro Strength
+3,Creature,Earth Time Phoenix of the Shadows
+4,Creature,Paladin
+5,Artifact,Instant Forged Divine Robe
+6,Creature,Snow Grand Wizard of Hate
+7,Enchantment,Mighty Victory Invert
+8,Creature,Troll
+9,Creature,Spider
+10,Spell,Hateful Frost
+11,Creature,Snow Time Phoenix of Hate
+12,Creature,Frozen Ancient Demon of the Void
+13,Creature,Dark Queen Giant of the Eastern Skies
+14,Creature,Death Nameless Dragon of the Dead
+15,Creature,Dark Knight Orc
+16,Enchantment,Zealous Solar Deathgrip
+17,Creature,Dark Chaos Demon of Illusion
+18,Artifact,Ring
+19,Creature,Berserker
+20,Creature,Berserker
+21,Enchantment,Flight
+22,Enchantment,Potent Forged Strength
+23,Creature,Ghoul
+24,Creature,Magi
+25,Creature,Light Undead Dragon of the Sky
+26,Enchantment,Potent Apocalypse Drain
+27,Spell,Torment
+28,Creature,Warlock
+29,Spell,Oblivion Tempest
+30,Creature,Warlock
+31,Creature,Death Undead Dragon of the Dead
+32,Creature,Ghoul
+33,Spell,Torment
+34,Creature,Eagle
+35,Creature,Dark Fighter Giant of the Mountains
+36,Artifact,Solar Potion
+37,Enchantment,Lethargy
+38,Enchantment,Dire Shimmering Age
+39,Creature,Snow Monk Goblin
+40,Artifact,Cataclysmic Ring
+41,Enchantment,Alacrity
+42,Enchantment,Shrink
+43,Creature,Light Chaos Wizard of the Sky
+44,Spell,Tempest

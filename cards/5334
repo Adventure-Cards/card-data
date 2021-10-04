@@ -1,46 +1,46 @@
-==================,DECK,5334,Medium
-0,Creature,Common,Warlock
-1,Spell,Common,Gravitation
-2,Spell,Common,Reanimate
-3,Creature,Common,Spider
-4,Enchantment,Common,Deathgrip
-5,Creature,Legendary,Death Knight Giant of the West
-6,Creature,Rare,Light Monk Minotaur
-7,Creature,Common,Paladin
-8,Spell,Common,Stricken
-9,Creature,Legendary,Aura Thief Oni of the Mountains
-10,Spell,Legendary,Intense Gale
-11,Creature,Legendary,Light Rogue Orge of the Black Stone
-12,Creature,Common,Eagle
-13,Spell,Common,Pandemonium
-14,Spell,Common,Frenzy
-15,Enchantment,Mythic,Urgent Alacrity
-16,Enchantment,Common,Alacrity
-17,Spell,Common,Heal
-18,Artifact,Rare,Dark Greaves
-19,Enchantment,Common,Agony
-20,Spell,Common,Assault
-21,Creature,Rare,Frozen Thief Berserker
-22,Creature,Common,Elf
-23,Creature,Rare,Snow Queen Skin-Walker
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Flight
-26,Creature,Common,Spider
-27,Artifact,Common,Ring
-28,Enchantment,Common,Flight
-29,Enchantment,Common,Strength
-30,Enchantment,Common,Agony
-31,Spell,Rare,Nimble Assault
-32,Creature,Common,Eagle
-33,Creature,Common,Orc
-34,Artifact,Rare,Miracle Bow
-35,Creature,Common,Dwarf
-36,Spell,Common,Ice
-37,Creature,Common,Wolf
-38,Spell,Common,Heal
-39,Enchantment,Legendary,Instant Blight
-40,Enchantment,Rare,Nimble Invert
-41,Creature,Rare,Light Fighter Minotaur
-42,Creature,Rare,Snow Rogue Minotaur
-43,Creature,Common,Goblin
-44,Enchantment,Common,Age
+==================,DECK,5334
+0,Creature,Berserker
+1,Spell,Revive
+2,Spell,Lightning
+3,Creature,Paladin
+4,Enchantment,Shield
+5,Creature,Death Knight Dwarf of the West
+6,Creature,Light Monk Cyclops
+7,Creature,Troll
+8,Spell,Lightning
+9,Creature,Aura Thief Oni of the Mountains
+10,Spell,Empyrean Hateful Maelstrom
+11,Creature,Light Rogue Elf of the Black Stone
+12,Creature,Eagle
+13,Spell,Maelstrom
+14,Spell,Hypnosis
+15,Enchantment,Ardent Forged Lethargy
+16,Enchantment,Drain
+17,Spell,Vortex
+18,Artifact,Chimeric Greaves
+19,Enchantment,Flight
+20,Spell,Sorrow
+21,Creature,Frozen Thief Goblin
+22,Creature,Warlock
+23,Creature,Snow Queen Orc
+24,Creature,Magi
+25,Enchantment,Firebreath
+26,Creature,Paladin
+27,Artifact,Ring
+28,Enchantment,Age
+29,Enchantment,Shrink
+30,Enchantment,Age
+31,Spell,Corpse Tempest
+32,Creature,Eagle
+33,Creature,Spider
+34,Artifact,Oblivion Bow
+35,Creature,Magi
+36,Spell,Maelstrom
+37,Creature,Wolf
+38,Spell,Fire
+39,Enchantment,Zealous Solar Deathgrip
+40,Enchantment,Shimmering Agony
+41,Creature,Light Fighter Cyclops
+42,Creature,Snow Rogue Cyclops
+43,Creature,Skin-Walker
+44,Enchantment,Age

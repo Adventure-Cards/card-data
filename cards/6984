@@ -1,46 +1,46 @@
-==================,DECK,6984,Light
-0,Creature,Common,Eagle
-1,Creature,Mythic,Frozen Chaos Wizard of the Void
-2,Enchantment,Common,Haste
-3,Creature,Mythic,Earth Chaos Wizard of the Shadows
-4,Enchantment,Common,Invert
-5,Creature,Rare,Aura Priest Hydra
-6,Creature,Rare,Dark Assassin Skin-Walker
-7,Spell,Legendary,Mighty Wall
-8,Creature,Common,Elf
-9,Creature,Common,Paladin
-10,Creature,Common,Warlock
-11,Creature,Common,Warlock
-12,Creature,Common,Warlock
-13,Artifact,Legendary,Urgent Divine Robe
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Agony
-16,Creature,Common,Elf
-17,Creature,Common,Wolf
-18,Creature,Rare,Aura Fighter Fairy
-19,Creature,Mythic,Aura Time Dragon of the Light
-20,Spell,Legendary,Potent Frost
-21,Creature,Common,Magi
-22,Creature,Rare,Aura Undead Fairy
-23,Enchantment,Common,Shrink
-24,Creature,Common,Dwarf
-25,Creature,Common,Magi
-26,Enchantment,Common,Drain
-27,Creature,Rare,Aura Priest Fairy
-28,Creature,Common,Spider
-29,Artifact,Common,Tome
-30,Enchantment,Mythic,Potent Drain
-31,Enchantment,Common,Lethargy
-32,Creature,Mythic,Frozen Time Dragon of the Void
-33,Spell,Common,Infuriate
-34,Artifact,Common,Staff
-35,Creature,Rare,Dark Rogue Minotaur
-36,Creature,Common,Warlock
-37,Creature,Common,Elf
-38,Creature,Legendary,Frozen Thief Kraken of the Low Hills
-39,Creature,Rare,Frozen Lord Skin-Walker
-40,Spell,Common,Wall
-41,Spell,Common,Assault
-42,Enchantment,Common,Drain
-43,Enchantment,Common,Deathgrip
-44,Enchantment,Common,Drain
+==================,DECK,6984
+0,Creature,Eagle
+1,Creature,Frozen Chaos Wizard of the Void
+2,Enchantment,Strength
+3,Creature,Earth Chaos Wizard of the Shadows
+4,Enchantment,Firebreath
+5,Creature,Aura Priest Hydra
+6,Creature,Dark Assassin Orc
+7,Spell,Dire Sorrow Ice
+8,Creature,Warlock
+9,Creature,Troll
+10,Creature,Berserker
+11,Creature,Berserker
+12,Creature,Berserker
+13,Artifact,Potent Solar Divine Robe
+14,Creature,Ghoul
+15,Enchantment,Lethargy
+16,Creature,Warlock
+17,Creature,Wolf
+18,Creature,Aura Fighter Kraken
+19,Creature,Aura Time Dragon of the Light
+20,Spell,Instant Frigid Invisibility
+21,Creature,Fairy
+22,Creature,Aura Undead Kraken
+23,Enchantment,Firebreath
+24,Creature,Magi
+25,Creature,Fairy
+26,Enchantment,Shade
+27,Creature,Aura Priest Kraken
+28,Creature,Paladin
+29,Artifact,Tome
+30,Enchantment,Clever Apocalypse Haste
+31,Enchantment,Deathgrip
+32,Creature,Frozen Time Dragon of the Void
+33,Spell,Frost
+34,Artifact,Staff
+35,Creature,Dark Rogue Cyclops
+36,Creature,Berserker
+37,Creature,Warlock
+38,Creature,Frozen Thief Ogre of the Low Hills
+39,Creature,Frozen Lord Orc
+40,Spell,Rage
+41,Spell,Freeze
+42,Enchantment,Shade
+43,Enchantment,Strength
+44,Enchantment,Blight

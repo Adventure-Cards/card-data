@@ -1,46 +1,46 @@
-==================,DECK,7863,Light
-0,Spell,Common,Torment
-1,Creature,Common,Eagle
-2,Creature,Common,Spider
-3,Enchantment,Common,Age
-4,Enchantment,Rare,Apocalypse Blight
-5,Spell,Rare,Necro Burn
-6,Creature,Common,Spider
-7,Creature,Common,Ghoul
-8,Spell,Legendary,Urgent Wall
-9,Enchantment,Common,Agony
-10,Artifact,Common,Shield
-11,Spell,Common,Rage
-12,Artifact,Rare,Hateful Gloves
-13,Spell,Common,Gravitation
-14,Spell,Common,Rage
-15,Spell,Common,Ice
-16,Creature,Legendary,Earth Knight Kraken of the Haven
-17,Spell,Legendary,Intense Invisibility
-18,Spell,Rare,Cataclysmic Fury
-19,Enchantment,Common,Invert
-20,Spell,Common,Fury
-21,Creature,Common,Warlock
-22,Artifact,Common,Sword
-23,Spell,Common,Stricken
-24,Artifact,Common,Ring
-25,Spell,Common,Invisibility
-26,Enchantment,Common,Haste
-27,Spell,Common,Stricken
-28,Spell,Common,Heal
-29,Creature,Rare,Earth Priest Griffin
-30,Creature,Common,Wolf
-31,Creature,Common,Spider
-32,Enchantment,Legendary,Instant Agony
-33,Enchantment,Common,Invert
-34,Creature,Common,Magi
-35,Creature,Common,Ghoul
-36,Creature,Common,Paladin
-37,Artifact,Common,Helm
-38,Enchantment,Common,Shade
-39,Creature,Common,Elf
-40,Creature,Mythic,Earth Undead Dragon of the Shadows
-41,Creature,Common,Spider
-42,Creature,Rare,Aura Assassin Skin-Walker
-43,Creature,Common,Warlock
-44,Creature,Common,Warlock
+==================,DECK,7863
+0,Spell,Hypnosis
+1,Creature,Eagle
+2,Creature,Paladin
+3,Enchantment,Shield
+4,Enchantment,Nimble Haste
+5,Spell,Corpse Invisibility
+6,Creature,Paladin
+7,Creature,Ghoul
+8,Spell,Instant Solar Revive
+9,Enchantment,Shrink
+10,Artifact,Shield
+11,Spell,Rage
+12,Artifact,Chimeric Gloves
+13,Spell,Vortex
+14,Spell,Freeze
+15,Spell,Burst
+16,Creature,Earth Knight Ogre of the Haven
+17,Spell,Ardent Solar Heal
+18,Spell,Cataclysmic Rage
+19,Enchantment,Agony
+20,Spell,Revive
+21,Creature,Berserker
+22,Artifact,Sword
+23,Spell,Sorrow
+24,Artifact,Ring
+25,Spell,Revive
+26,Enchantment,Haste
+27,Spell,Sorrow
+28,Spell,Wall
+29,Creature,Earth Priest Griffin
+30,Creature,Wolf
+31,Creature,Paladin
+32,Enchantment,Urgent Corpse Agony
+33,Enchantment,Blight
+34,Creature,Fairy
+35,Creature,Ghoul
+36,Creature,Troll
+37,Artifact,Helm
+38,Enchantment,Deathgrip
+39,Creature,Warlock
+40,Creature,Earth Undead Dragon of the Shadows
+41,Creature,Paladin
+42,Creature,Aura Assassin Orc
+43,Creature,Berserker
+44,Creature,Berserker

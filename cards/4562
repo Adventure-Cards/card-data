@@ -1,46 +1,46 @@
-==================,DECK,4562,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Goblin
-2,Spell,Common,Burst
-3,Spell,Legendary,Intense Maelstrom
-4,Creature,Common,Paladin
-5,Enchantment,Common,Shade
-6,Enchantment,Mythic,Urgent Drain
-7,Creature,Common,Dwarf
-8,Spell,Legendary,Clever Invisibility
-9,Enchantment,Common,Lethargy
-10,Enchantment,Legendary,Extreme Agony
-11,Spell,Rare,Shimmering Stun
-12,Creature,Common,Paladin
-13,Spell,Legendary,Clever Stun
-14,Enchantment,Common,Shade
-15,Enchantment,Common,Alacrity
-16,Enchantment,Common,Haste
-17,Creature,Rare,Dark King Skin-Walker
-18,Creature,Common,Goblin
-19,Creature,Mythic,Light Time Phoenix of the Sky
-20,Creature,Common,Dwarf
-21,Creature,Common,Paladin
-22,Creature,Common,Goblin
-23,Creature,Common,Goblin
-24,Artifact,Common,Gloves
-25,Enchantment,Common,Shade
-26,Enchantment,Common,Shrink
-27,Enchantment,Common,Agony
-28,Enchantment,Common,Haste
-29,Artifact,Common,Amulet
-30,Artifact,Common,Bow
-31,Spell,Common,Burn
-32,Artifact,Legendary,Clever Shield
-33,Creature,Rare,Dark Monk Hydra
-34,Enchantment,Rare,Apocalypse Deathgrip
-35,Enchantment,Rare,Solar Lethargy
-36,Enchantment,Common,Lethargy
-37,Enchantment,Mythic,Clever Drain
-38,Creature,Common,Paladin
-39,Enchantment,Common,Shield
-40,Creature,Rare,Earth Priest Minotaur
-41,Creature,Common,Spider
-42,Creature,Common,Orc
-43,Creature,Common,Magi
-44,Enchantment,Common,Age
+==================,DECK,4562
+0,Creature,Magi
+1,Creature,Skin-Walker
+2,Spell,Hypnosis
+3,Spell,Potent Corpse Tempest
+4,Creature,Troll
+5,Enchantment,Shade
+6,Enchantment,Zealous Forged Deathgrip
+7,Creature,Magi
+8,Spell,Irate Apocalypse Maelstrom
+9,Enchantment,Alacrity
+10,Enchantment,Dire Miracle Firebreath
+11,Spell,Forged Torment
+12,Creature,Troll
+13,Spell,Mighty Frigid Revive
+14,Enchantment,Alacrity
+15,Enchantment,Drain
+16,Enchantment,Age
+17,Creature,Dark King Orc
+18,Creature,Skin-Walker
+19,Creature,Light Time Phoenix of the Sky
+20,Creature,Magi
+21,Creature,Troll
+22,Creature,Skin-Walker
+23,Creature,Skin-Walker
+24,Artifact,Gloves
+25,Enchantment,Drain
+26,Enchantment,Shade
+27,Enchantment,Invert
+28,Enchantment,Shield
+29,Artifact,Amulet
+30,Artifact,Bow
+31,Spell,Tempest
+32,Artifact,Dire Apocalypse Shield
+33,Creature,Dark Monk Hydra
+34,Enchantment,Oblivion Blight
+35,Enchantment,Hateful Strength
+36,Enchantment,Shade
+37,Enchantment,Zealous Apocalypse Blight
+38,Creature,Troll
+39,Enchantment,Invert
+40,Creature,Earth Priest Cyclops
+41,Creature,Paladin
+42,Creature,Spider
+43,Creature,Fairy
+44,Enchantment,Firebreath

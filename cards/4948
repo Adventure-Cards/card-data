@@ -1,46 +1,46 @@
-==================,DECK,4948,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Drain
-2,Creature,Common,Wolf
-3,Creature,Legendary,Dark Merchant Cyclops of the Eastern Skies
-4,Spell,Legendary,Dire Maelstrom
-5,Creature,Common,Spider
-6,Creature,Common,Warlock
-7,Spell,Rare,Shimmering Infuriate
-8,Enchantment,Common,Agony
-9,Creature,Common,Ghoul
-10,Enchantment,Legendary,Extreme Strength
-11,Creature,Common,Elf
-12,Spell,Rare,Lunar Ice
-13,Spell,Rare,Shimmering Pandemonium
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Spell,Common,Lightning
-17,Artifact,Common,Shield
-18,Spell,Rare,Cataclysmic Ice
-19,Creature,Common,Paladin
-20,Spell,Common,Burst
-21,Enchantment,Common,Age
-22,Creature,Common,Orc
-23,Enchantment,Rare,Shimmering Flight
-24,Enchantment,Common,Strength
-25,Creature,Common,Paladin
-26,Creature,Common,Eagle
-27,Artifact,Common,Helm
-28,Creature,Common,Ghoul
-29,Creature,Common,Elf
-30,Artifact,Common,Divine Robe
-31,Enchantment,Common,Blight
-32,Spell,Rare,Cataclysmic Stun
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Ghoul
-35,Enchantment,Common,Shade
-36,Creature,Common,Warlock
-37,Spell,Rare,Gloom Heal
-38,Artifact,Rare,Solar Belt
-39,Artifact,Common,Potion
-40,Spell,Common,Lightning
-41,Creature,Rare,Snow Queen Fairy
-42,Enchantment,Common,Age
-43,Creature,Common,Spider
-44,Creature,Common,Ghoul
+==================,DECK,4948
+0,Creature,Berserker
+1,Enchantment,Shade
+2,Creature,Wolf
+3,Creature,Dark Merchant Giant of the Eastern Skies
+4,Spell,Zealous Victory Vortex
+5,Creature,Paladin
+6,Creature,Berserker
+7,Spell,Nature Torment
+8,Enchantment,Agony
+9,Creature,Ghoul
+10,Enchantment,Instant Cataclysmic Shrink
+11,Creature,Warlock
+12,Spell,Chimeric Fire
+13,Spell,Solar Tempest
+14,Creature,Warlock
+15,Creature,Berserker
+16,Spell,Invisibility
+17,Artifact,Shield
+18,Spell,Miracle Revive
+19,Creature,Troll
+20,Spell,Sorrow
+21,Enchantment,Deathgrip
+22,Creature,Spider
+23,Enchantment,Hateful Lethargy
+24,Enchantment,Shield
+25,Creature,Troll
+26,Creature,Eagle
+27,Artifact,Helm
+28,Creature,Ghoul
+29,Creature,Warlock
+30,Artifact,Divine Robe
+31,Enchantment,Flight
+32,Spell,Gloom Sorrow
+33,Artifact,Divine Robe
+34,Creature,Ghoul
+35,Enchantment,Flight
+36,Creature,Berserker
+37,Spell,Miracle Ice
+38,Artifact,Solar Belt
+39,Artifact,Potion
+40,Spell,Assault
+41,Creature,Snow Queen Kraken
+42,Enchantment,Firebreath
+43,Creature,Paladin
+44,Creature,Ghoul

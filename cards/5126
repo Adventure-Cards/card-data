@@ -1,46 +1,46 @@
-==================,DECK,5126,Light
-0,Artifact,Common,Bracers
-1,Artifact,Common,Potion
-2,Spell,Common,Rage
-3,Creature,Common,Eagle
-4,Artifact,Common,Sigil
-5,Enchantment,Mythic,Instant Haste
-6,Spell,Common,Frost
-7,Creature,Common,Elf
-8,Creature,Common,Warlock
-9,Creature,Legendary,Dark Thief Orge of the Arctic Blizzards
-10,Creature,Common,Orc
-11,Enchantment,Common,Shrink
-12,Spell,Common,Burst
-13,Creature,Common,Magi
-14,Creature,Rare,Aura Merchant Minotaur
-15,Artifact,Legendary,Angry Scythe
-16,Spell,Common,Revive
-17,Creature,Common,Orc
-18,Artifact,Common,Crown
-19,Artifact,Common,Helm
-20,Spell,Common,Vortex
-21,Artifact,Rare,Solar Bow
-22,Creature,Common,Dwarf
-23,Creature,Common,Goblin
-24,Artifact,Common,Divine Robe
-25,Creature,Common,Orc
-26,Enchantment,Mythic,Instant Lethargy
-27,Creature,Common,Wolf
-28,Creature,Rare,Dark Knight Griffin
-29,Spell,Rare,Corpse Rage
-30,Enchantment,Common,Haste
-31,Enchantment,Common,Shade
-32,Spell,Rare,Shimmering Infuriate
-33,Creature,Common,Elf
-34,Enchantment,Legendary,Mighty Haste
-35,Enchantment,Common,Flight
-36,Creature,Common,Spider
-37,Creature,Common,Warlock
-38,Creature,Common,Warlock
-39,Creature,Legendary,Snow Knight Giant of the Eternal Land
-40,Creature,Common,Goblin
-41,Creature,Common,Dwarf
-42,Creature,Common,Goblin
-43,Spell,Legendary,Mighty Fury
-44,Creature,Common,Elf
+==================,DECK,5126
+0,Artifact,Bracers
+1,Artifact,Potion
+2,Spell,Reanimate
+3,Creature,Eagle
+4,Artifact,Sigil
+5,Enchantment,Clever Corpse Lethargy
+6,Spell,Vortex
+7,Creature,Warlock
+8,Creature,Berserker
+9,Creature,Dark Thief Elf of the Arctic Blizzards
+10,Creature,Spider
+11,Enchantment,Strength
+12,Spell,Tempest
+13,Creature,Fairy
+14,Creature,Aura Merchant Cyclops
+15,Artifact,Empyrean Lunar Scythe
+16,Spell,Wall
+17,Creature,Spider
+18,Artifact,Crown
+19,Artifact,Helm
+20,Spell,Invisibility
+21,Artifact,Forged Bow
+22,Creature,Magi
+23,Creature,Skin-Walker
+24,Artifact,Divine Robe
+25,Creature,Spider
+26,Enchantment,Irate Hateful Deathgrip
+27,Creature,Wolf
+28,Creature,Dark Knight Griffin
+29,Spell,Shimmering Stricken
+30,Enchantment,Strength
+31,Enchantment,Firebreath
+32,Spell,Hateful Revive
+33,Creature,Warlock
+34,Enchantment,Mighty Miracle Flight
+35,Enchantment,Age
+36,Creature,Paladin
+37,Creature,Berserker
+38,Creature,Berserker
+39,Creature,Snow Knight Dwarf of the Eternal Land
+40,Creature,Skin-Walker
+41,Creature,Magi
+42,Creature,Skin-Walker
+43,Spell,Potent Miracle Gravitation
+44,Creature,Warlock

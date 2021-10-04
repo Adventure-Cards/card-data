@@ -1,46 +1,46 @@
-==================,DECK,6167,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Eagle
-2,Creature,Common,Spider
-3,Creature,Mythic,Light Nameless Dragon of the Sky
-4,Creature,Common,Goblin
-5,Creature,Rare,Death Priest Fairy
-6,Creature,Common,Magi
-7,Creature,Common,Spider
-8,Enchantment,Common,Agony
-9,Creature,Common,Dwarf
-10,Enchantment,Common,Strength
-11,Artifact,Rare,Gloom Helmet
-12,Creature,Common,Orc
-13,Creature,Common,Orc
-14,Enchantment,Common,Blight
-15,Creature,Common,Paladin
-16,Enchantment,Common,Flight
-17,Enchantment,Common,Invert
-18,Creature,Common,Elf
-19,Enchantment,Rare,Solar Lethargy
-20,Spell,Rare,Oblivion Heal
-21,Artifact,Rare,Grim Staff
-22,Spell,Common,Stun
-23,Creature,Legendary,Death Priest Cyclops of the Golden Palace
-24,Creature,Rare,Frozen Queen Minotaur
-25,Spell,Common,Gale
-26,Creature,Common,Ghoul
-27,Artifact,Rare,Shimmering Staff
-28,Creature,Rare,Frozen Warrior Minotaur
-29,Creature,Mythic,Light Chaos Demon of the Sky
-30,Artifact,Common,Helmet
-31,Enchantment,Common,Shield
-32,Creature,Common,Spider
-33,Creature,Rare,Light Monk Hydra
-34,Spell,Common,Burn
-35,Creature,Common,Warlock
-36,Creature,Legendary,Dark Lord Giant of the Golden Palace
-37,Creature,Common,Dwarf
-38,Creature,Common,Goblin
-39,Enchantment,Common,Shield
-40,Creature,Rare,Death Monk Minotaur
-41,Enchantment,Mythic,Intense Strength
-42,Spell,Rare,Solar Revive
-43,Artifact,Legendary,Angry Scepter
-44,Artifact,Common,Amulet
+==================,DECK,6167
+0,Creature,Eagle
+1,Creature,Eagle
+2,Creature,Paladin
+3,Creature,Light Nameless Dragon of the Sky
+4,Creature,Skin-Walker
+5,Creature,Death Priest Kraken
+6,Creature,Fairy
+7,Creature,Paladin
+8,Enchantment,Invert
+9,Creature,Magi
+10,Enchantment,Shrink
+11,Artifact,Miracle Helmet
+12,Creature,Spider
+13,Creature,Spider
+14,Enchantment,Strength
+15,Creature,Troll
+16,Enchantment,Shade
+17,Enchantment,Lethargy
+18,Creature,Warlock
+19,Enchantment,Hateful Agony
+20,Spell,Frigid Burn
+21,Artifact,Oblivion Staff
+22,Spell,Burn
+23,Creature,Death Priest Giant of the Golden Palace
+24,Creature,Frozen Queen Cyclops
+25,Spell,Reanimate
+26,Creature,Ghoul
+27,Artifact,Corpse Staff
+28,Creature,Frozen Warrior Cyclops
+29,Creature,Light Chaos Demon of the Sky
+30,Artifact,Helmet
+31,Enchantment,Age
+32,Creature,Paladin
+33,Creature,Light Monk Hydra
+34,Spell,Invisibility
+35,Creature,Berserker
+36,Creature,Dark Lord Dwarf of the Golden Palace
+37,Creature,Magi
+38,Creature,Skin-Walker
+39,Enchantment,Alacrity
+40,Creature,Death Monk Cyclops
+41,Enchantment,Instant Solar Strength
+42,Spell,Nature Pandemonium
+43,Artifact,Potent Sorrow Scepter
+44,Artifact,Amulet

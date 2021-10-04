@@ -1,46 +1,46 @@
-==================,DECK,7717,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Dwarf
-2,Creature,Legendary,Death Warrior Oni of the Arctic Blizzards
-3,Spell,Common,Freeze
-4,Spell,Common,Gravitation
-5,Creature,Common,Elf
-6,Artifact,Common,Bracers
-7,Spell,Rare,Grim Gravitation
-8,Creature,Common,Ghoul
-9,Enchantment,Common,Strength
-10,Artifact,Common,Ghost Wand
-11,Creature,Common,Magi
-12,Spell,Common,Torment
-13,Creature,Legendary,Aura Thief Orge of the Frozen Castle
-14,Creature,Rare,Aura Queen Minotaur
-15,Creature,Common,Elf
-16,Creature,Rare,Frozen Lord Skin-Walker
-17,Enchantment,Common,Alacrity
-18,Creature,Rare,Aura Rogue Hydra
-19,Enchantment,Common,Drain
-20,Spell,Common,Rage
-21,Spell,Rare,Cataclysmic Reanimate
-22,Creature,Common,Goblin
-23,Artifact,Common,Belt
-24,Enchantment,Common,Shrink
-25,Enchantment,Common,Strength
-26,Creature,Common,Spider
-27,Creature,Common,Spider
-28,Artifact,Rare,Apocalypse Tome
-29,Enchantment,Rare,Gloom Lethargy
-30,Enchantment,Common,Shield
-31,Enchantment,Common,Invert
-32,Enchantment,Common,Drain
-33,Spell,Common,Maelstrom
-34,Creature,Common,Dwarf
-35,Enchantment,Rare,Hateful Shrink
-36,Artifact,Common,Helm
-37,Spell,Common,Pandemonium
-38,Creature,Rare,Earth Knight Minotaur
-39,Spell,Common,Sorrow
-40,Enchantment,Rare,Necro Shrink
-41,Spell,Legendary,Potent Vortex
-42,Creature,Common,Magi
-43,Creature,Common,Paladin
-44,Enchantment,Common,Blight
+==================,DECK,7717
+0,Creature,Wolf
+1,Creature,Magi
+2,Creature,Death Warrior Oni of the Arctic Blizzards
+3,Spell,Fireball
+4,Spell,Invisibility
+5,Creature,Warlock
+6,Artifact,Bracers
+7,Spell,Nimble Maelstrom
+8,Creature,Ghoul
+9,Enchantment,Shade
+10,Artifact,Ghost Wand
+11,Creature,Fairy
+12,Spell,Wall
+13,Creature,Aura Thief Elf of the Frozen Castle
+14,Creature,Aura Queen Cyclops
+15,Creature,Warlock
+16,Creature,Frozen Lord Orc
+17,Enchantment,Shrink
+18,Creature,Aura Rogue Hydra
+19,Enchantment,Lethargy
+20,Spell,Rage
+21,Spell,Sorrow Assault
+22,Creature,Skin-Walker
+23,Artifact,Belt
+24,Enchantment,Blight
+25,Enchantment,Firebreath
+26,Creature,Paladin
+27,Creature,Paladin
+28,Artifact,Victory Tome
+29,Enchantment,Lunar Alacrity
+30,Enchantment,Age
+31,Enchantment,Flight
+32,Enchantment,Agony
+33,Spell,Vortex
+34,Creature,Magi
+35,Enchantment,Chimeric Shield
+36,Artifact,Helm
+37,Spell,Freeze
+38,Creature,Earth Knight Cyclops
+39,Spell,Burst
+40,Enchantment,Necro Age
+41,Spell,Instant Apocalypse Gale
+42,Creature,Fairy
+43,Creature,Troll
+44,Enchantment,Shield

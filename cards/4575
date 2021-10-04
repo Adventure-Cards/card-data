@@ -1,46 +1,46 @@
-==================,DECK,4575,Light
-0,Artifact,Common,Scepter
-1,Creature,Legendary,Death Thief Cyclops of the Swamp
-2,Creature,Mythic,Earth Ancient Wizard of the Shadows
-3,Artifact,Common,Sword
-4,Creature,Mythic,Frozen Ancient Wizard of the Void
-5,Creature,Common,Magi
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Paladin
-8,Artifact,Rare,Solar Helm
-9,Enchantment,Rare,Oblivion Alacrity
-10,Enchantment,Common,Invert
-11,Spell,Rare,Frigid Invisibility
-12,Enchantment,Legendary,Dire Shrink
-13,Creature,Common,Dwarf
-14,Spell,Common,Heal
-15,Enchantment,Common,Shade
-16,Enchantment,Common,Invert
-17,Spell,Rare,Cataclysmic Hypnosis
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Shield
-20,Creature,Common,Spider
-21,Creature,Mythic,Frozen Chaos Wizard of the Void
-22,Creature,Common,Ghoul
-23,Artifact,Legendary,Angry Scythe
-24,Spell,Common,Infuriate
-25,Creature,Common,Magi
-26,Creature,Common,Goblin
-27,Creature,Mythic,Frozen Time Dragon of the Void
-28,Enchantment,Common,Blight
-29,Creature,Legendary,Dark Lord Oni of the Low Hills
-30,Spell,Common,Revive
-31,Enchantment,Mythic,Mighty Flight
-32,Artifact,Common,Boots
-33,Creature,Common,Eagle
-34,Artifact,Common,Ring
-35,Creature,Rare,Frozen Merchant Fairy
-36,Enchantment,Rare,Frigid Lethargy
-37,Enchantment,Legendary,Potent Drain
-38,Spell,Rare,Frigid Revive
-39,Enchantment,Legendary,Mighty Lethargy
-40,Creature,Rare,Light Merchant Berserker
-41,Creature,Common,Wolf
-42,Spell,Common,Rage
-43,Creature,Common,Paladin
-44,Creature,Common,Warlock
+==================,DECK,4575
+0,Artifact,Scepter
+1,Creature,Death Thief Giant of the Swamp
+2,Creature,Earth Ancient Wizard of the Shadows
+3,Artifact,Sword
+4,Creature,Frozen Ancient Wizard of the Void
+5,Creature,Fairy
+6,Enchantment,Shrink
+7,Creature,Troll
+8,Artifact,Nature Helm
+9,Enchantment,Apocalypse Blight
+10,Enchantment,Alacrity
+11,Spell,Apocalypse Fire
+12,Enchantment,Potent Frigid Drain
+13,Creature,Magi
+14,Spell,Torment
+15,Enchantment,Drain
+16,Enchantment,Shade
+17,Spell,Sorrow Pandemonium
+18,Creature,Ghoul
+19,Enchantment,Alacrity
+20,Creature,Paladin
+21,Creature,Frozen Chaos Wizard of the Void
+22,Creature,Ghoul
+23,Artifact,Dire Sorrow Scythe
+24,Spell,Pandemonium
+25,Creature,Fairy
+26,Creature,Skin-Walker
+27,Creature,Frozen Time Dragon of the Void
+28,Enchantment,Age
+29,Creature,Dark Lord Oni of the Low Hills
+30,Spell,Stricken
+31,Enchantment,Zealous Lunar Alacrity
+32,Artifact,Boots
+33,Creature,Eagle
+34,Artifact,Ring
+35,Creature,Frozen Merchant Kraken
+36,Enchantment,Grim Invert
+37,Enchantment,Clever Apocalypse Haste
+38,Spell,Apocalypse Fire
+39,Enchantment,Ardent Lunar Shield
+40,Creature,Light Merchant Goblin
+41,Creature,Wolf
+42,Spell,Gravitation
+43,Creature,Troll
+44,Creature,Berserker

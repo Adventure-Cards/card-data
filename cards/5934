@@ -1,46 +1,46 @@
-==================,DECK,5934,Medium
-0,Creature,Common,Elf
-1,Artifact,Legendary,Urgent Crown
-2,Creature,Rare,Frozen Assassin Fairy
-3,Creature,Common,Warlock
-4,Enchantment,Common,Alacrity
-5,Spell,Common,Hypnosis
-6,Creature,Rare,Snow Queen Griffin
-7,Enchantment,Mythic,Angry Age
-8,Creature,Common,Warlock
-9,Artifact,Common,Cloak
-10,Spell,Rare,Frigid Assault
-11,Enchantment,Rare,Forged Alacrity
-12,Artifact,Common,Cloak
-13,Creature,Legendary,Light Merchant Giant of the Eastern Skies
-14,Spell,Common,Gravitation
-15,Creature,Common,Dwarf
-16,Creature,Common,Goblin
-17,Creature,Legendary,Dark Undead Giant of the West
-18,Spell,Common,Gravitation
-19,Creature,Common,Magi
-20,Creature,Rare,Death Rogue Berserker
-21,Creature,Common,Eagle
-22,Spell,Rare,Hateful Stun
-23,Creature,Rare,Death Undead Griffin
-24,Spell,Common,Heal
-25,Enchantment,Rare,Nature Drain
-26,Creature,Common,Eagle
-27,Creature,Rare,Snow Knight Berserker
-28,Spell,Common,Burst
-29,Creature,Mythic,Death Ancient Demon of the Dead
-30,Enchantment,Mythic,Potent Shield
-31,Enchantment,Common,Shrink
-32,Spell,Common,Hypnosis
-33,Creature,Common,Elf
-34,Enchantment,Common,Drain
-35,Enchantment,Common,Lethargy
-36,Creature,Common,Spider
-37,Creature,Common,Eagle
-38,Creature,Legendary,Dark Thief Orge of the Magical Forest
-39,Enchantment,Common,Deathgrip
-40,Enchantment,Common,Shade
-41,Creature,Common,Dwarf
-42,Creature,Rare,Light Lord Skin-Walker
-43,Enchantment,Rare,Grim Strength
-44,Artifact,Common,Sigil
+==================,DECK,5934
+0,Creature,Warlock
+1,Artifact,Irate Solar Crown
+2,Creature,Frozen Assassin Kraken
+3,Creature,Berserker
+4,Enchantment,Alacrity
+5,Spell,Fury
+6,Creature,Snow Queen Griffin
+7,Enchantment,Mighty Gloom Flight
+8,Creature,Berserker
+9,Artifact,Cloak
+10,Spell,Frigid Invisibility
+11,Enchantment,Dark Flight
+12,Artifact,Cloak
+13,Creature,Light Merchant Dwarf of the Eastern Skies
+14,Spell,Frenzy
+15,Creature,Magi
+16,Creature,Skin-Walker
+17,Creature,Dark Undead Dwarf of the West
+18,Spell,Gravitation
+19,Creature,Fairy
+20,Creature,Death Rogue Goblin
+21,Creature,Eagle
+22,Spell,Miracle Torment
+23,Creature,Death Undead Griffin
+24,Spell,Burst
+25,Enchantment,Forged Age
+26,Creature,Eagle
+27,Creature,Snow Knight Goblin
+28,Spell,Ice
+29,Creature,Death Ancient Demon of the Dead
+30,Enchantment,Urgent Victory Invert
+31,Enchantment,Haste
+32,Spell,Wall
+33,Creature,Warlock
+34,Enchantment,Age
+35,Enchantment,Shrink
+36,Creature,Paladin
+37,Creature,Eagle
+38,Creature,Dark Thief Elf of the Magical Forest
+39,Enchantment,Firebreath
+40,Enchantment,Drain
+41,Creature,Magi
+42,Creature,Light Lord Orc
+43,Enchantment,Nimble Blight
+44,Artifact,Sigil

@@ -1,46 +1,46 @@
-==================,DECK,4620,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Stricken
-2,Enchantment,Rare,Hateful Deathgrip
-3,Creature,Common,Warlock
-4,Enchantment,Common,Shrink
-5,Creature,Common,Orc
-6,Creature,Common,Warlock
-7,Creature,Common,Orc
-8,Creature,Common,Warlock
-9,Creature,Common,Ghoul
-10,Spell,Common,Maelstrom
-11,Creature,Common,Elf
-12,Enchantment,Common,Drain
-13,Creature,Common,Orc
-14,Creature,Common,Elf
-15,Creature,Legendary,Earth Warrior Orge of the Eternal Land
-16,Enchantment,Rare,Miracle Flight
-17,Spell,Common,Maelstrom
-18,Creature,Common,Warlock
-19,Spell,Common,Freeze
-20,Spell,Legendary,Mighty Revive
-21,Creature,Common,Elf
-22,Enchantment,Common,Lethargy
-23,Spell,Common,Maelstrom
-24,Artifact,Common,Potion
-25,Creature,Common,Elf
-26,Creature,Common,Wolf
-27,Creature,Common,Magi
-28,Artifact,Rare,Necro Sword
-29,Creature,Common,Paladin
-30,Enchantment,Rare,Cataclysmic Blight
-31,Creature,Common,Paladin
-32,Enchantment,Common,Shield
-33,Creature,Rare,Death Undead Griffin
-34,Creature,Legendary,Frozen Warrior Kraken of the Arctic Blizzards
-35,Creature,Common,Paladin
-36,Creature,Common,Paladin
-37,Creature,Common,Spider
-38,Artifact,Legendary,Instant Helm
-39,Spell,Common,Frenzy
-40,Spell,Common,Hypnosis
-41,Enchantment,Rare,Corpse Strength
-42,Spell,Common,Frost
-43,Enchantment,Common,Agony
-44,Spell,Rare,Oblivion Vortex
+==================,DECK,4620
+0,Creature,Troll
+1,Spell,Fireball
+2,Enchantment,Sorrow Firebreath
+3,Creature,Berserker
+4,Enchantment,Shrink
+5,Creature,Spider
+6,Creature,Berserker
+7,Creature,Spider
+8,Creature,Berserker
+9,Creature,Ghoul
+10,Spell,Vortex
+11,Creature,Warlock
+12,Enchantment,Strength
+13,Creature,Spider
+14,Creature,Warlock
+15,Creature,Earth Warrior Elf of the Eternal Land
+16,Enchantment,Grim Invert
+17,Spell,Sorrow
+18,Creature,Berserker
+19,Spell,Frost
+20,Spell,Irate Dark Rage
+21,Creature,Warlock
+22,Enchantment,Invert
+23,Spell,Frost
+24,Artifact,Potion
+25,Creature,Warlock
+26,Creature,Wolf
+27,Creature,Fairy
+28,Artifact,Corpse Sword
+29,Creature,Troll
+30,Enchantment,Cataclysmic Firebreath
+31,Creature,Troll
+32,Enchantment,Flight
+33,Creature,Death Undead Griffin
+34,Creature,Frozen Warrior Ogre of the Arctic Blizzards
+35,Creature,Troll
+36,Creature,Troll
+37,Creature,Paladin
+38,Artifact,Dire Hateful Helm
+39,Spell,Assault
+40,Spell,Infuriate
+41,Enchantment,Solar Age
+42,Spell,Maelstrom
+43,Enchantment,Firebreath
+44,Spell,Life Pandemonium

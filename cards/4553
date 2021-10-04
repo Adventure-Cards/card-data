@@ -1,46 +1,46 @@
-==================,DECK,4553,Medium
-0,Spell,Common,Invisibility
-1,Creature,Rare,Dark Merchant Skin-Walker
-2,Creature,Legendary,Earth Rogue Oni of the Bright Mountains
-3,Creature,Common,Wolf
-4,Enchantment,Common,Agony
-5,Creature,Common,Warlock
-6,Creature,Common,Wolf
-7,Creature,Legendary,Light Merchant Kraken of the Golden Palace
-8,Spell,Common,Torment
-9,Creature,Legendary,Earth Thief Kraken of the Low Hills
-10,Creature,Common,Wolf
-11,Artifact,Common,Bracers
-12,Creature,Common,Eagle
-13,Artifact,Legendary,Potent Scepter
-14,Artifact,Rare,Necro Potion
-15,Spell,Common,Freeze
-16,Spell,Common,Frenzy
-17,Creature,Common,Eagle
-18,Creature,Common,Paladin
-19,Artifact,Rare,Life Ring
-20,Spell,Legendary,Clever Gravitation
-21,Creature,Rare,Dark Priest Skin-Walker
-22,Enchantment,Mythic,Angry Blight
-23,Creature,Rare,Snow Priest Minotaur
-24,Creature,Rare,Dark Rogue Minotaur
-25,Creature,Mythic,Light Time Phoenix of the Sky
-26,Creature,Common,Goblin
-27,Artifact,Common,Helm
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Gloom Alacrity
-30,Spell,Common,Freeze
-31,Creature,Common,Warlock
-32,Spell,Common,Revive
-33,Enchantment,Common,Blight
-34,Artifact,Rare,Solar Ghost Wand
-35,Enchantment,Common,Invert
-36,Creature,Common,Elf
-37,Enchantment,Common,Age
-38,Creature,Rare,Light King Berserker
-39,Creature,Common,Goblin
-40,Artifact,Common,Potion
-41,Spell,Common,Frenzy
-42,Enchantment,Common,Shade
-43,Artifact,Common,Amulet
-44,Spell,Common,Maelstrom
+==================,DECK,4553
+0,Spell,Stun
+1,Creature,Dark Merchant Orc
+2,Creature,Earth Rogue Oni of the Bright Mountains
+3,Creature,Wolf
+4,Enchantment,Shade
+5,Creature,Berserker
+6,Creature,Wolf
+7,Creature,Light Merchant Ogre of the Golden Palace
+8,Spell,Stun
+9,Creature,Earth Thief Ogre of the Low Hills
+10,Creature,Wolf
+11,Artifact,Bracers
+12,Creature,Eagle
+13,Artifact,Instant Victory Scepter
+14,Artifact,Nature Potion
+15,Spell,Wall
+16,Spell,Ice
+17,Creature,Eagle
+18,Creature,Troll
+19,Artifact,Grim Ring
+20,Spell,Dire Apocalypse Pandemonium
+21,Creature,Dark Priest Orc
+22,Enchantment,Empyrean Cataclysmic Firebreath
+23,Creature,Snow Priest Cyclops
+24,Creature,Dark Rogue Cyclops
+25,Creature,Light Time Phoenix of the Sky
+26,Creature,Skin-Walker
+27,Artifact,Helm
+28,Creature,Magi
+29,Enchantment,Dark Shield
+30,Spell,Reanimate
+31,Creature,Berserker
+32,Spell,Vortex
+33,Enchantment,Blight
+34,Artifact,Shimmering Ghost Wand
+35,Enchantment,Age
+36,Creature,Warlock
+37,Enchantment,Age
+38,Creature,Light King Goblin
+39,Creature,Skin-Walker
+40,Artifact,Potion
+41,Spell,Fireball
+42,Enchantment,Flight
+43,Artifact,Amulet
+44,Spell,Sorrow

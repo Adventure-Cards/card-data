@@ -1,46 +1,46 @@
-==================,DECK,7371,Light
-0,Creature,Rare,Snow Merchant Griffin
-1,Creature,Common,Orc
-2,Creature,Common,Dwarf
-3,Creature,Common,Wolf
-4,Creature,Common,Goblin
-5,Spell,Rare,Necro Pandemonium
-6,Spell,Common,Burn
-7,Spell,Common,Gale
-8,Creature,Common,Warlock
-9,Spell,Rare,Gloom Rage
-10,Enchantment,Common,Age
-11,Spell,Common,Frost
-12,Creature,Common,Magi
-13,Enchantment,Common,Deathgrip
-14,Creature,Legendary,Light Thief Oni of the Eternal Land
-15,Creature,Legendary,Earth Priest Giant of the Swamp
-16,Creature,Rare,Light King Skin-Walker
-17,Creature,Common,Warlock
-18,Spell,Common,Maelstrom
-19,Spell,Common,Torment
-20,Creature,Common,Warlock
-21,Creature,Common,Elf
-22,Creature,Rare,Snow Merchant Fairy
-23,Creature,Legendary,Light Priest Cyclops of the Eastern Skies
-24,Creature,Mythic,Frozen Chaos Wizard of the Void
-25,Creature,Common,Orc
-26,Creature,Common,Ghoul
-27,Enchantment,Common,Blight
-28,Artifact,Common,Amulet
-29,Artifact,Rare,Necro Helm
-30,Enchantment,Common,Shrink
-31,Creature,Common,Ghoul
-32,Spell,Rare,Frigid Invisibility
-33,Creature,Common,Paladin
-34,Enchantment,Common,Shade
-35,Creature,Common,Eagle
-36,Spell,Common,Gravitation
-37,Creature,Common,Magi
-38,Creature,Mythic,Earth Chaos Wizard of the Shadows
-39,Creature,Common,Wolf
-40,Spell,Common,Lightning
-41,Creature,Rare,Death Knight Fairy
-42,Creature,Common,Paladin
-43,Creature,Rare,Earth Warrior Minotaur
-44,Artifact,Common,Amulet
+==================,DECK,7371
+0,Creature,Snow Merchant Griffin
+1,Creature,Spider
+2,Creature,Magi
+3,Creature,Wolf
+4,Creature,Skin-Walker
+5,Spell,Solar Lightning
+6,Spell,Stun
+7,Spell,Sorrow
+8,Creature,Berserker
+9,Spell,Miracle Hypnosis
+10,Enchantment,Age
+11,Spell,Vortex
+12,Creature,Fairy
+13,Enchantment,Deathgrip
+14,Creature,Light Thief Oni of the Eternal Land
+15,Creature,Earth Priest Dwarf of the Swamp
+16,Creature,Light King Orc
+17,Creature,Berserker
+18,Spell,Stricken
+19,Spell,Ice
+20,Creature,Berserker
+21,Creature,Warlock
+22,Creature,Snow Merchant Kraken
+23,Creature,Light Priest Giant of the Eastern Skies
+24,Creature,Frozen Chaos Wizard of the Void
+25,Creature,Spider
+26,Creature,Ghoul
+27,Enchantment,Firebreath
+28,Artifact,Amulet
+29,Artifact,Shimmering Helm
+30,Enchantment,Alacrity
+31,Creature,Ghoul
+32,Spell,Victory Frost
+33,Creature,Troll
+34,Enchantment,Deathgrip
+35,Creature,Eagle
+36,Spell,Maelstrom
+37,Creature,Fairy
+38,Creature,Earth Chaos Wizard of the Shadows
+39,Creature,Wolf
+40,Spell,Frost
+41,Creature,Death Knight Kraken
+42,Creature,Troll
+43,Creature,Earth Warrior Cyclops
+44,Artifact,Amulet

@@ -1,46 +1,46 @@
-==================,DECK,7005,Medium
-0,Creature,Rare,Light Priest Minotaur
-1,Creature,Common,Eagle
-2,Creature,Common,Dwarf
-3,Spell,Legendary,Urgent Gale
-4,Artifact,Rare,Corpse Staff
-5,Spell,Common,Fury
-6,Enchantment,Rare,Solar Agony
-7,Creature,Common,Goblin
-8,Enchantment,Common,Strength
-9,Artifact,Common,Tome
-10,Enchantment,Common,Strength
-11,Spell,Common,Ice
-12,Creature,Common,Spider
-13,Creature,Common,Wolf
-14,Enchantment,Common,Haste
-15,Enchantment,Common,Drain
-16,Creature,Common,Ghoul
-17,Enchantment,Common,Lethargy
-18,Creature,Common,Orc
-19,Enchantment,Common,Alacrity
-20,Creature,Common,Orc
-21,Enchantment,Common,Agony
-22,Creature,Rare,Frozen Priest Skin-Walker
-23,Creature,Legendary,Snow King Giant of the Plains
-24,Enchantment,Common,Haste
-25,Enchantment,Rare,Oblivion Agony
-26,Creature,Legendary,Earth Assassin Orge of the West
-27,Creature,Common,Ghoul
-28,Creature,Legendary,Aura Knight Orge of the Magical Forest
-29,Creature,Common,Paladin
-30,Creature,Mythic,Earth Time Phoenix of the Shadows
-31,Creature,Legendary,Frozen Fighter Orge of the Haven
-32,Artifact,Common,Shield
-33,Creature,Rare,Death Queen Hydra
-34,Enchantment,Legendary,Intense Blight
-35,Enchantment,Mythic,Intense Lethargy
-36,Enchantment,Common,Age
-37,Artifact,Common,Amulet
-38,Creature,Rare,Dark Lord Fairy
-39,Enchantment,Common,Shield
-40,Spell,Common,Hypnosis
-41,Spell,Common,Maelstrom
-42,Spell,Common,Invisibility
-43,Artifact,Rare,Miracle Helm
-44,Enchantment,Rare,Grim Alacrity
+==================,DECK,7005
+0,Creature,Light Priest Cyclops
+1,Creature,Eagle
+2,Creature,Magi
+3,Spell,Zealous Solar Infuriate
+4,Artifact,Solar Staff
+5,Spell,Stricken
+6,Enchantment,Corpse Agony
+7,Creature,Skin-Walker
+8,Enchantment,Strength
+9,Artifact,Tome
+10,Enchantment,Strength
+11,Spell,Stun
+12,Creature,Paladin
+13,Creature,Wolf
+14,Enchantment,Shade
+15,Enchantment,Shield
+16,Creature,Ghoul
+17,Enchantment,Lethargy
+18,Creature,Spider
+19,Enchantment,Agony
+20,Creature,Spider
+21,Enchantment,Age
+22,Creature,Frozen Priest Orc
+23,Creature,Snow King Dwarf of the Plains
+24,Enchantment,Deathgrip
+25,Enchantment,Life Blight
+26,Creature,Earth Assassin Elf of the West
+27,Creature,Ghoul
+28,Creature,Aura Knight Elf of the Magical Forest
+29,Creature,Troll
+30,Creature,Earth Time Phoenix of the Shadows
+31,Creature,Frozen Fighter Elf of the Haven
+32,Artifact,Shield
+33,Creature,Death Queen Hydra
+34,Enchantment,Potent Solar Strength
+35,Enchantment,Dire Hateful Age
+36,Enchantment,Shade
+37,Artifact,Amulet
+38,Creature,Dark Lord Kraken
+39,Enchantment,Age
+40,Spell,Sorrow
+41,Spell,Invisibility
+42,Spell,Heal
+43,Artifact,Life Helm
+44,Enchantment,Apocalypse Haste

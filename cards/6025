@@ -1,46 +1,46 @@
-==================,DECK,6025,Medium
-0,Creature,Rare,Light Priest Skin-Walker
-1,Spell,Common,Torment
-2,Creature,Rare,Death Lord Hydra
-3,Creature,Common,Ghoul
-4,Spell,Rare,Corpse Wall
-5,Enchantment,Common,Blight
-6,Creature,Rare,Aura Thief Skin-Walker
-7,Creature,Rare,Snow Fighter Hydra
-8,Spell,Common,Torment
-9,Creature,Common,Eagle
-10,Enchantment,Rare,Hateful Blight
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Drain
-13,Creature,Common,Paladin
-14,Artifact,Common,Sigil
-15,Creature,Rare,Frozen Undead Skin-Walker
-16,Creature,Legendary,Dark Monk Oni of the Border
-17,Creature,Common,Elf
-18,Artifact,Common,Pendant
-19,Artifact,Rare,Lunar Bracers
-20,Creature,Common,Spider
-21,Spell,Common,Gale
-22,Spell,Common,Burst
-23,Creature,Common,Paladin
-24,Enchantment,Rare,Frigid Lethargy
-25,Creature,Mythic,Death Chaos Demon of the Dead
-26,Enchantment,Rare,Frigid Shade
-27,Enchantment,Rare,Gloom Agony
-28,Creature,Common,Elf
-29,Creature,Common,Orc
-30,Creature,Common,Goblin
-31,Creature,Common,Warlock
-32,Creature,Common,Orc
-33,Creature,Legendary,Earth Thief Oni of the Swamp
-34,Artifact,Common,Belt
-35,Creature,Common,Elf
-36,Creature,Common,Dwarf
-37,Spell,Rare,Gloom Heal
-38,Creature,Rare,Death Warrior Fairy
-39,Enchantment,Rare,Oblivion Invert
-40,Spell,Common,Revive
-41,Spell,Common,Sorrow
-42,Creature,Rare,Light King Hydra
-43,Creature,Common,Eagle
-44,Enchantment,Common,Lethargy
+==================,DECK,6025
+0,Creature,Light Priest Orc
+1,Spell,Gravitation
+2,Creature,Death Lord Hydra
+3,Creature,Ghoul
+4,Spell,Corpse Assault
+5,Enchantment,Alacrity
+6,Creature,Aura Thief Orc
+7,Creature,Snow Fighter Hydra
+8,Spell,Reanimate
+9,Creature,Eagle
+10,Enchantment,Cataclysmic Flight
+11,Creature,Ghoul
+12,Enchantment,Strength
+13,Creature,Troll
+14,Artifact,Sigil
+15,Creature,Frozen Undead Orc
+16,Creature,Dark Monk Oni of the Border
+17,Creature,Warlock
+18,Artifact,Pendant
+19,Artifact,Gloom Bracers
+20,Creature,Paladin
+21,Spell,Burst
+22,Spell,Lightning
+23,Creature,Troll
+24,Enchantment,Grim Shade
+25,Creature,Death Chaos Demon of the Dead
+26,Enchantment,Frigid Invert
+27,Enchantment,Miracle Firebreath
+28,Creature,Warlock
+29,Creature,Spider
+30,Creature,Skin-Walker
+31,Creature,Berserker
+32,Creature,Spider
+33,Creature,Earth Thief Oni of the Swamp
+34,Artifact,Belt
+35,Creature,Warlock
+36,Creature,Magi
+37,Spell,Gloom Rage
+38,Creature,Death Warrior Kraken
+39,Enchantment,Oblivion Drain
+40,Spell,Fury
+41,Spell,Pandemonium
+42,Creature,Light King Hydra
+43,Creature,Eagle
+44,Enchantment,Age

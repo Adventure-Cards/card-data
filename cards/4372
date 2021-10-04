@@ -1,46 +1,46 @@
-==================,DECK,4372,Light
-0,Spell,Rare,Grim Revive
-1,Creature,Common,Magi
-2,Enchantment,Common,Shade
-3,Enchantment,Common,Shield
-4,Enchantment,Legendary,Dire Haste
-5,Enchantment,Mythic,Potent Blight
-6,Creature,Common,Warlock
-7,Enchantment,Rare,Necro Haste
-8,Enchantment,Common,Strength
-9,Creature,Common,Paladin
-10,Enchantment,Common,Haste
-11,Enchantment,Rare,Lunar Drain
-12,Creature,Common,Spider
-13,Creature,Common,Magi
-14,Creature,Common,Dwarf
-15,Spell,Rare,Forged Assault
-16,Creature,Rare,Death Undead Griffin
-17,Enchantment,Common,Haste
-18,Enchantment,Common,Invert
-19,Enchantment,Common,Invert
-20,Spell,Rare,Lunar Fury
-21,Creature,Common,Goblin
-22,Creature,Common,Eagle
-23,Creature,Common,Wolf
-24,Enchantment,Common,Shrink
-25,Enchantment,Common,Agony
-26,Artifact,Rare,Solar Scythe
-27,Creature,Rare,Snow Fighter Hydra
-28,Enchantment,Common,Shrink
-29,Spell,Common,Revive
-30,Enchantment,Common,Agony
-31,Enchantment,Common,Strength
-32,Enchantment,Common,Drain
-33,Artifact,Common,Boots
-34,Creature,Common,Ghoul
-35,Enchantment,Common,Shade
-36,Artifact,Legendary,Extreme Helm
-37,Creature,Common,Goblin
-38,Enchantment,Common,Haste
-39,Artifact,Common,Bracers
-40,Creature,Common,Goblin
-41,Spell,Common,Heal
-42,Spell,Common,Frost
-43,Creature,Rare,Snow Merchant Minotaur
-44,Creature,Common,Goblin
+==================,DECK,4372
+0,Spell,Frigid Wall
+1,Creature,Fairy
+2,Enchantment,Flight
+3,Enchantment,Shield
+4,Enchantment,Zealous Life Blight
+5,Enchantment,Zealous Nimble Blight
+6,Creature,Berserker
+7,Enchantment,Corpse Strength
+8,Enchantment,Shrink
+9,Creature,Troll
+10,Enchantment,Strength
+11,Enchantment,Dark Alacrity
+12,Creature,Paladin
+13,Creature,Fairy
+14,Creature,Magi
+15,Spell,Miracle Gravitation
+16,Creature,Death Undead Griffin
+17,Enchantment,Blight
+18,Enchantment,Blight
+19,Enchantment,Alacrity
+20,Spell,Sorrow Ice
+21,Creature,Skin-Walker
+22,Creature,Eagle
+23,Creature,Wolf
+24,Enchantment,Invert
+25,Enchantment,Shade
+26,Artifact,Solar Scythe
+27,Creature,Snow Fighter Hydra
+28,Enchantment,Deathgrip
+29,Spell,Infuriate
+30,Enchantment,Deathgrip
+31,Enchantment,Deathgrip
+32,Enchantment,Blight
+33,Artifact,Boots
+34,Creature,Ghoul
+35,Enchantment,Alacrity
+36,Artifact,Dire Dark Helm
+37,Creature,Skin-Walker
+38,Enchantment,Drain
+39,Artifact,Bracers
+40,Creature,Skin-Walker
+41,Spell,Gravitation
+42,Spell,Stun
+43,Creature,Snow Merchant Cyclops
+44,Creature,Skin-Walker

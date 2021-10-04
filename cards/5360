@@ -1,46 +1,46 @@
-==================,DECK,5360,Strong
-0,Creature,Rare,Aura Priest Hydra
-1,Creature,Common,Ghoul
-2,Creature,Rare,Dark Rogue Hydra
-3,Creature,Rare,Death Rogue Berserker
-4,Creature,Common,Magi
-5,Creature,Mythic,Death Ancient Demon of the Dead
-6,Creature,Common,Dwarf
-7,Creature,Rare,Snow King Griffin
-8,Creature,Legendary,Light Fighter Oni of the West
-9,Enchantment,Common,Flight
-10,Spell,Common,Ice
-11,Creature,Common,Ghoul
-12,Creature,Common,Warlock
-13,Creature,Rare,Frozen Queen Fairy
-14,Creature,Common,Eagle
-15,Creature,Common,Eagle
-16,Creature,Legendary,Snow Knight Orge of the Plains
-17,Creature,Common,Paladin
-18,Creature,Legendary,Earth Monk Cyclops of the Magical Forest
-19,Creature,Common,Magi
-20,Creature,Common,Dwarf
-21,Creature,Legendary,Frozen Time Phoenix of the Void
-22,Enchantment,Mythic,Extreme Strength
-23,Spell,Legendary,Clever Ice
-24,Spell,Rare,Forged Assault
-25,Creature,Mythic,Death Chaos Demon of the Dead
-26,Creature,Common,Goblin
-27,Enchantment,Rare,Miracle Drain
-28,Creature,Legendary,Dark King Oni of the Mountains
-29,Creature,Common,Eagle
-30,Artifact,Rare,Dark Helm
-31,Creature,Rare,Aura Thief Skin-Walker
-32,Enchantment,Common,Flight
-33,Spell,Common,Heal
-34,Creature,Rare,Aura Merchant Skin-Walker
-35,Enchantment,Legendary,Extreme Shrink
-36,Creature,Common,Goblin
-37,Creature,Mythic,Death Ancient Demon of the Dead
-38,Enchantment,Common,Lethargy
-39,Spell,Common,Reanimate
-40,Enchantment,Common,Lethargy
-41,Artifact,Common,Pendant
-42,Enchantment,Common,Alacrity
-43,Artifact,Rare,Hateful Bracers
-44,Creature,Common,Elf
+==================,DECK,5360
+0,Creature,Aura Priest Hydra
+1,Creature,Ghoul
+2,Creature,Dark Rogue Hydra
+3,Creature,Death Rogue Goblin
+4,Creature,Fairy
+5,Creature,Death Ancient Demon of the Dead
+6,Creature,Magi
+7,Creature,Snow King Griffin
+8,Creature,Light Fighter Oni of the West
+9,Enchantment,Drain
+10,Spell,Stricken
+11,Creature,Ghoul
+12,Creature,Berserker
+13,Creature,Frozen Queen Kraken
+14,Creature,Eagle
+15,Creature,Eagle
+16,Creature,Snow Knight Elf of the Plains
+17,Creature,Troll
+18,Creature,Earth Monk Giant of the Magical Forest
+19,Creature,Fairy
+20,Creature,Magi
+21,Creature,Frozen Time Phoenix of the Void
+22,Enchantment,Ardent Cataclysmic Shield
+23,Spell,Zealous Grim Tempest
+24,Spell,Lunar Freeze
+25,Creature,Death Chaos Demon of the Dead
+26,Creature,Skin-Walker
+27,Enchantment,Apocalypse Drain
+28,Creature,Dark King Oni of the Mountains
+29,Creature,Eagle
+30,Artifact,Dark Helm
+31,Creature,Aura Thief Orc
+32,Enchantment,Agony
+33,Spell,Frenzy
+34,Creature,Aura Merchant Orc
+35,Enchantment,Clever Chimeric Shield
+36,Creature,Skin-Walker
+37,Creature,Death Ancient Demon of the Dead
+38,Enchantment,Strength
+39,Spell,Sorrow
+40,Enchantment,Shade
+41,Artifact,Pendant
+42,Enchantment,Drain
+43,Artifact,Lunar Bracers
+44,Creature,Warlock

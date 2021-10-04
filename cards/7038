@@ -1,46 +1,46 @@
-==================,DECK,7038,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Ghoul
-2,Artifact,Common,Sword
-3,Enchantment,Common,Flight
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Spell,Common,Ice
-7,Creature,Rare,Light Priest Skin-Walker
-8,Creature,Common,Wolf
-9,Creature,Common,Spider
-10,Artifact,Common,Tome
-11,Enchantment,Common,Drain
-12,Enchantment,Rare,Corpse Agony
-13,Artifact,Common,Helmet
-14,Creature,Common,Spider
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Eagle
-17,Creature,Rare,Death Rogue Griffin
-18,Creature,Common,Eagle
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Goblin
-21,Creature,Mythic,Frozen Chaos Wizard of the Void
-22,Enchantment,Common,Shade
-23,Spell,Common,Stun
-24,Creature,Common,Ghoul
-25,Creature,Common,Elf
-26,Spell,Common,Vortex
-27,Artifact,Common,Ghost Wand
-28,Creature,Common,Orc
-29,Creature,Common,Dwarf
-30,Artifact,Rare,Lunar Amulet
-31,Spell,Legendary,Instant Heal
-32,Enchantment,Legendary,Clever Drain
-33,Creature,Common,Eagle
-34,Creature,Legendary,Snow Fighter Oni of the Swamp
-35,Spell,Common,Wall
-36,Creature,Common,Ghoul
-37,Creature,Common,Paladin
-38,Creature,Common,Eagle
-39,Spell,Rare,Cataclysmic Gale
-40,Enchantment,Common,Lethargy
-41,Enchantment,Common,Shade
-42,Spell,Common,Frenzy
-43,Creature,Common,Elf
-44,Creature,Common,Eagle
+==================,DECK,7038
+0,Creature,Troll
+1,Creature,Ghoul
+2,Artifact,Sword
+3,Enchantment,Alacrity
+4,Creature,Warlock
+5,Creature,Spider
+6,Spell,Gravitation
+7,Creature,Light Priest Orc
+8,Creature,Wolf
+9,Creature,Paladin
+10,Artifact,Tome
+11,Enchantment,Shield
+12,Enchantment,Corpse Lethargy
+13,Artifact,Helmet
+14,Creature,Paladin
+15,Enchantment,Deathgrip
+16,Creature,Eagle
+17,Creature,Death Rogue Griffin
+18,Creature,Eagle
+19,Enchantment,Firebreath
+20,Creature,Skin-Walker
+21,Creature,Frozen Chaos Wizard of the Void
+22,Enchantment,Agony
+23,Spell,Maelstrom
+24,Creature,Ghoul
+25,Creature,Warlock
+26,Spell,Wall
+27,Artifact,Ghost Wand
+28,Creature,Spider
+29,Creature,Magi
+30,Artifact,Cataclysmic Amulet
+31,Spell,Irate Solar Frenzy
+32,Enchantment,Clever Apocalypse Haste
+33,Creature,Eagle
+34,Creature,Snow Fighter Oni of the Swamp
+35,Spell,Stun
+36,Creature,Ghoul
+37,Creature,Troll
+38,Creature,Eagle
+39,Spell,Cataclysmic Burst
+40,Enchantment,Blight
+41,Enchantment,Age
+42,Spell,Rage
+43,Creature,Warlock
+44,Creature,Eagle

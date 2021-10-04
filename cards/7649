@@ -1,46 +1,46 @@
-==================,DECK,7649,Medium
-0,Artifact,Rare,Dark Ring
-1,Creature,Common,Dwarf
-2,Creature,Common,Warlock
-3,Creature,Common,Eagle
-4,Artifact,Common,Ring
-5,Enchantment,Mythic,Mighty Shield
-6,Enchantment,Mythic,Extreme Shade
-7,Spell,Rare,Life Infuriate
-8,Creature,Common,Wolf
-9,Creature,Rare,Earth King Hydra
-10,Spell,Mythic,Extreme Freeze
-11,Enchantment,Common,Shade
-12,Enchantment,Common,Shade
-13,Creature,Rare,Frozen Merchant Griffin
-14,Spell,Legendary,Intense Heal
-15,Creature,Legendary,Dark Priest Giant of the Frozen Castle
-16,Creature,Rare,Light King Griffin
-17,Creature,Common,Paladin
-18,Creature,Rare,Light Warrior Griffin
-19,Artifact,Common,Amulet
-20,Enchantment,Common,Blight
-21,Spell,Common,Freeze
-22,Artifact,Common,Belt
-23,Creature,Rare,Aura Thief Skin-Walker
-24,Enchantment,Mythic,Urgent Haste
-25,Enchantment,Common,Invert
-26,Creature,Legendary,Aura Rogue Cyclops of the Polar Woods
-27,Creature,Common,Elf
-28,Artifact,Rare,Cataclysmic Crown
-29,Spell,Common,Stun
-30,Creature,Common,Magi
-31,Creature,Mythic,Aura Nameless Dragon of the Light
-32,Creature,Rare,Frozen Knight Skin-Walker
-33,Enchantment,Common,Age
-34,Enchantment,Rare,Cataclysmic Age
-35,Creature,Common,Orc
-36,Creature,Common,Eagle
-37,Spell,Common,Pandemonium
-38,Spell,Legendary,Extreme Burst
-39,Enchantment,Common,Age
-40,Creature,Rare,Aura Undead Fairy
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Eagle
-43,Enchantment,Rare,Corpse Shade
-44,Enchantment,Common,Drain
+==================,DECK,7649
+0,Artifact,Dark Ring
+1,Creature,Magi
+2,Creature,Berserker
+3,Creature,Eagle
+4,Artifact,Ring
+5,Enchantment,Urgent Gloom Flight
+6,Enchantment,Irate Chimeric Alacrity
+7,Spell,Life Fireball
+8,Creature,Wolf
+9,Creature,Earth King Hydra
+10,Spell,Irate Miracle Maelstrom
+11,Enchantment,Agony
+12,Enchantment,Drain
+13,Creature,Frozen Merchant Griffin
+14,Spell,Dire Corpse Ice
+15,Creature,Dark Priest Dwarf of the Frozen Castle
+16,Creature,Light King Griffin
+17,Creature,Troll
+18,Creature,Light Warrior Griffin
+19,Artifact,Amulet
+20,Enchantment,Lethargy
+21,Spell,Hypnosis
+22,Artifact,Belt
+23,Creature,Aura Thief Orc
+24,Enchantment,Clever Corpse Lethargy
+25,Enchantment,Flight
+26,Creature,Aura Rogue Giant of the Polar Woods
+27,Creature,Warlock
+28,Artifact,Cataclysmic Crown
+29,Spell,Stricken
+30,Creature,Fairy
+31,Creature,Aura Nameless Dragon of the Light
+32,Creature,Frozen Knight Orc
+33,Enchantment,Invert
+34,Enchantment,Gloom Shield
+35,Creature,Spider
+36,Creature,Eagle
+37,Spell,Heal
+38,Spell,Zealous Gloom Fireball
+39,Enchantment,Shrink
+40,Creature,Aura Undead Kraken
+41,Enchantment,Age
+42,Creature,Eagle
+43,Enchantment,Necro Age
+44,Enchantment,Age

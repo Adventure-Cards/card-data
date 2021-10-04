@@ -1,46 +1,46 @@
-==================,DECK,6752,Light
-0,Creature,Common,Spider
-1,Artifact,Common,Bow
-2,Creature,Rare,Dark Fighter Fairy
-3,Spell,Common,Burn
-4,Artifact,Common,Greaves
-5,Creature,Common,Wolf
-6,Creature,Common,Ghoul
-7,Creature,Legendary,Death Merchant Cyclops of the Polar Woods
-8,Enchantment,Mythic,Potent Shrink
-9,Spell,Common,Ice
-10,Spell,Legendary,Mighty Reanimate
-11,Enchantment,Common,Shrink
-12,Enchantment,Rare,Apocalypse Age
-13,Creature,Common,Eagle
-14,Creature,Common,Goblin
-15,Creature,Common,Goblin
-16,Creature,Rare,Snow Monk Griffin
-17,Enchantment,Common,Drain
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Shade
-20,Creature,Rare,Snow Priest Minotaur
-21,Artifact,Common,Cloak
-22,Creature,Common,Wolf
-23,Enchantment,Mythic,Clever Shade
-24,Artifact,Rare,Hateful Helmet
-25,Creature,Common,Magi
-26,Creature,Common,Wolf
-27,Spell,Legendary,Potent Ice
-28,Creature,Mythic,Death Grand Wizard of the Dead
-29,Spell,Legendary,Potent Frost
-30,Enchantment,Common,Blight
-31,Creature,Rare,Aura Fighter Fairy
-32,Enchantment,Common,Strength
-33,Creature,Common,Spider
-34,Artifact,Common,Bow
-35,Artifact,Common,Staff
-36,Spell,Legendary,Angry Frost
-37,Creature,Mythic,Aura Time Phoenix of the Light
-38,Creature,Common,Paladin
-39,Creature,Common,Paladin
-40,Creature,Legendary,Aura Rogue Cyclops of the Eternal Land
-41,Artifact,Rare,Oblivion Ghost Wand
-42,Artifact,Rare,Gloom Scepter
-43,Creature,Rare,Earth Thief Fairy
-44,Spell,Legendary,Mighty Rage
+==================,DECK,6752
+0,Creature,Paladin
+1,Artifact,Bow
+2,Creature,Dark Fighter Kraken
+3,Spell,Vortex
+4,Artifact,Greaves
+5,Creature,Wolf
+6,Creature,Ghoul
+7,Creature,Death Merchant Giant of the Polar Woods
+8,Enchantment,Zealous Frigid Blight
+9,Spell,Assault
+10,Spell,Empyrean Lunar Reanimate
+11,Enchantment,Deathgrip
+12,Enchantment,Victory Invert
+13,Creature,Eagle
+14,Creature,Skin-Walker
+15,Creature,Skin-Walker
+16,Creature,Snow Monk Griffin
+17,Enchantment,Shield
+18,Creature,Magi
+19,Enchantment,Deathgrip
+20,Creature,Snow Priest Cyclops
+21,Artifact,Cloak
+22,Creature,Wolf
+23,Enchantment,Irate Frigid Blight
+24,Artifact,Sorrow Helmet
+25,Creature,Fairy
+26,Creature,Wolf
+27,Spell,Empyrean Apocalypse Gravitation
+28,Creature,Death Grand Wizard of the Dead
+29,Spell,Irate Life Sorrow
+30,Enchantment,Shade
+31,Creature,Aura Fighter Kraken
+32,Enchantment,Lethargy
+33,Creature,Paladin
+34,Artifact,Bow
+35,Artifact,Staff
+36,Spell,Instant Sorrow Heal
+37,Creature,Aura Time Phoenix of the Light
+38,Creature,Troll
+39,Creature,Troll
+40,Creature,Aura Rogue Giant of the Eternal Land
+41,Artifact,Nimble Ghost Wand
+42,Artifact,Chimeric Scepter
+43,Creature,Earth Thief Kraken
+44,Spell,Instant Sorrow Burn

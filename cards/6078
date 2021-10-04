@@ -1,46 +1,46 @@
-==================,DECK,6078,Medium
-0,Creature,Common,Paladin
-1,Creature,Common,Orc
-2,Creature,Common,Ghoul
-3,Creature,Rare,Snow Knight Griffin
-4,Enchantment,Mythic,Extreme Strength
-5,Creature,Rare,Frozen Priest Fairy
-6,Creature,Rare,Snow Rogue Berserker
-7,Creature,Common,Spider
-8,Spell,Common,Assault
-9,Spell,Legendary,Angry Gale
-10,Enchantment,Legendary,Extreme Invert
-11,Creature,Mythic,Light Ancient Demon of the Sky
-12,Creature,Common,Orc
-13,Creature,Legendary,Snow Rogue Orge of the Bright Mountains
-14,Creature,Rare,Frozen Merchant Skin-Walker
-15,Creature,Legendary,Death King Orge of the Eternal Land
-16,Spell,Rare,Shimmering Pandemonium
-17,Enchantment,Mythic,Dire Agony
-18,Artifact,Legendary,Mighty Crown
-19,Creature,Common,Spider
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Paladin
-22,Enchantment,Common,Invert
-23,Enchantment,Legendary,Dire Deathgrip
-24,Enchantment,Rare,Forged Alacrity
-25,Creature,Rare,Dark Priest Griffin
-26,Creature,Rare,Dark Monk Berserker
-27,Spell,Mythic,Clever Pandemonium
-28,Enchantment,Rare,Lunar Age
-29,Enchantment,Common,Strength
-30,Artifact,Rare,Apocalypse Shield
-31,Enchantment,Common,Blight
-32,Creature,Legendary,Snow King Cyclops of the West
-33,Spell,Common,Invisibility
-34,Creature,Common,Eagle
-35,Creature,Common,Elf
-36,Enchantment,Common,Age
-37,Creature,Common,Eagle
-38,Spell,Rare,Oblivion Frost
-39,Spell,Legendary,Instant Reanimate
-40,Artifact,Legendary,Instant Pendant
-41,Creature,Common,Goblin
-42,Creature,Common,Spider
-43,Creature,Common,Elf
-44,Creature,Legendary,Light Rogue Orge of the West
+==================,DECK,6078
+0,Creature,Troll
+1,Creature,Spider
+2,Creature,Ghoul
+3,Creature,Snow Knight Griffin
+4,Enchantment,Urgent Cataclysmic Flight
+5,Creature,Frozen Priest Kraken
+6,Creature,Snow Rogue Goblin
+7,Creature,Paladin
+8,Spell,Invisibility
+9,Spell,Mighty Gloom Lightning
+10,Enchantment,Dire Sorrow Firebreath
+11,Creature,Light Ancient Demon of the Sky
+12,Creature,Spider
+13,Creature,Snow Rogue Elf of the Bright Mountains
+14,Creature,Frozen Merchant Orc
+15,Creature,Death King Elf of the Eternal Land
+16,Spell,Forged Wall
+17,Enchantment,Ardent Life Haste
+18,Artifact,Zealous Sorrow Crown
+19,Creature,Paladin
+20,Enchantment,Deathgrip
+21,Creature,Troll
+22,Enchantment,Blight
+23,Enchantment,Potent Oblivion Drain
+24,Enchantment,Dark Shield
+25,Creature,Dark Priest Griffin
+26,Creature,Dark Monk Goblin
+27,Spell,Zealous Apocalypse Infuriate
+28,Enchantment,Gloom Flight
+29,Enchantment,Drain
+30,Artifact,Apocalypse Shield
+31,Enchantment,Haste
+32,Creature,Snow King Giant of the West
+33,Spell,Fire
+34,Creature,Eagle
+35,Creature,Warlock
+36,Enchantment,Shade
+37,Creature,Eagle
+38,Spell,Grim Rage
+39,Spell,Potent Forged Frost
+40,Artifact,Irate Necro Pendant
+41,Creature,Skin-Walker
+42,Creature,Paladin
+43,Creature,Warlock
+44,Creature,Light Rogue Elf of the West

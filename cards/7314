@@ -1,46 +1,46 @@
-==================,DECK,7314,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Light Undead Griffin
-2,Creature,Common,Elf
-3,Spell,Common,Burst
-4,Creature,Legendary,Aura Merchant Giant of the Bright Mountains
-5,Creature,Rare,Death Knight Skin-Walker
-6,Spell,Rare,Necro Sorrow
-7,Artifact,Rare,Nature Ring
-8,Creature,Common,Goblin
-9,Creature,Rare,Frozen Rogue Berserker
-10,Enchantment,Legendary,Potent Shield
-11,Artifact,Rare,Nimble Helm
-12,Creature,Mythic,Light Time Dragon of the Sky
-13,Creature,Common,Eagle
-14,Creature,Common,Elf
-15,Enchantment,Common,Shield
-16,Creature,Rare,Earth Merchant Fairy
-17,Spell,Common,Frost
-18,Creature,Common,Goblin
-19,Spell,Rare,Oblivion Frost
-20,Creature,Common,Orc
-21,Spell,Legendary,Instant Burst
-22,Spell,Common,Frost
-23,Spell,Common,Revive
-24,Creature,Legendary,Snow Thief Cyclops of the Magical Forest
-25,Creature,Common,Orc
-26,Creature,Common,Dwarf
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Age
-30,Enchantment,Common,Age
-31,Artifact,Rare,Forged Amulet
-32,Creature,Common,Dwarf
-33,Creature,Common,Elf
-34,Spell,Common,Assault
-35,Creature,Mythic,Light Grand Wizard of the Sky
-36,Creature,Common,Paladin
-37,Creature,Rare,Earth Monk Hydra
-38,Creature,Rare,Snow Rogue Fairy
-39,Spell,Mythic,Extreme Reanimate
-40,Enchantment,Common,Shade
-41,Creature,Common,Eagle
-42,Enchantment,Common,Blight
-43,Artifact,Common,Crown
-44,Enchantment,Common,Lethargy
+==================,DECK,7314
+0,Creature,Eagle
+1,Creature,Light Undead Griffin
+2,Creature,Warlock
+3,Spell,Heal
+4,Creature,Aura Merchant Dwarf of the Bright Mountains
+5,Creature,Death Knight Orc
+6,Spell,Forged Burn
+7,Artifact,Corpse Ring
+8,Creature,Skin-Walker
+9,Creature,Frozen Rogue Goblin
+10,Enchantment,Ardent Victory Haste
+11,Artifact,Hateful Helm
+12,Creature,Light Time Dragon of the Sky
+13,Creature,Eagle
+14,Creature,Warlock
+15,Enchantment,Shield
+16,Creature,Earth Merchant Kraken
+17,Spell,Torment
+18,Creature,Skin-Walker
+19,Spell,Grim Stricken
+20,Creature,Spider
+21,Spell,Mighty Necro Lightning
+22,Spell,Fireball
+23,Spell,Heal
+24,Creature,Snow Thief Giant of the Magical Forest
+25,Creature,Spider
+26,Creature,Magi
+27,Creature,Ghoul
+28,Creature,Magi
+29,Enchantment,Invert
+30,Enchantment,Age
+31,Artifact,Cataclysmic Amulet
+32,Creature,Magi
+33,Creature,Warlock
+34,Spell,Assault
+35,Creature,Light Grand Wizard of the Sky
+36,Creature,Troll
+37,Creature,Earth Monk Hydra
+38,Creature,Snow Rogue Kraken
+39,Spell,Empyrean Dark Torment
+40,Enchantment,Shield
+41,Creature,Eagle
+42,Enchantment,Age
+43,Artifact,Crown
+44,Enchantment,Shrink

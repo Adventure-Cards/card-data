@@ -1,46 +1,46 @@
-==================,DECK,7117,Medium
-0,Creature,Common,Spider
-1,Creature,Rare,Death Warrior Skin-Walker
-2,Creature,Legendary,Death Lord Oni of the Arctic Blizzards
-3,Creature,Rare,Light Knight Berserker
-4,Enchantment,Common,Lethargy
-5,Enchantment,Common,Deathgrip
-6,Spell,Legendary,Clever Heal
-7,Creature,Common,Goblin
-8,Artifact,Common,Belt
-9,Enchantment,Common,Agony
-10,Creature,Rare,Light Rogue Griffin
-11,Spell,Legendary,Mighty Frenzy
-12,Creature,Mythic,Aura Time Dragon of the Light
-13,Creature,Rare,Snow Lord Fairy
-14,Creature,Common,Wolf
-15,Spell,Rare,Shimmering Ice
-16,Creature,Legendary,Dark Thief Oni of the Plains
-17,Spell,Common,Lightning
-18,Creature,Common,Eagle
-19,Spell,Mythic,Instant Gravitation
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Shield
-22,Creature,Common,Dwarf
-23,Spell,Rare,Corpse Lightning
-24,Creature,Legendary,Dark Undead Giant of the Polar Woods
-25,Spell,Rare,Necro Pandemonium
-26,Enchantment,Common,Lethargy
-27,Spell,Mythic,Instant Stricken
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Alacrity
-30,Spell,Rare,Dark Torment
-31,Creature,Rare,Aura Fighter Berserker
-32,Enchantment,Rare,Nature Flight
-33,Enchantment,Rare,Necro Shrink
-34,Creature,Mythic,Aura Chaos Wizard of the Light
-35,Creature,Rare,Snow Merchant Griffin
-36,Creature,Rare,Snow Merchant Berserker
-37,Creature,Common,Orc
-38,Creature,Common,Magi
-39,Creature,Common,Spider
-40,Creature,Common,Ghoul
-41,Spell,Legendary,Angry Lightning
-42,Creature,Common,Spider
-43,Creature,Common,Ghoul
-44,Creature,Common,Orc
+==================,DECK,7117
+0,Creature,Paladin
+1,Creature,Death Warrior Orc
+2,Creature,Death Lord Oni of the Arctic Blizzards
+3,Creature,Light Knight Goblin
+4,Enchantment,Flight
+5,Enchantment,Haste
+6,Spell,Instant Grim Frenzy
+7,Creature,Skin-Walker
+8,Artifact,Belt
+9,Enchantment,Haste
+10,Creature,Light Rogue Griffin
+11,Spell,Ardent Gloom Hypnosis
+12,Creature,Aura Time Dragon of the Light
+13,Creature,Snow Lord Kraken
+14,Creature,Wolf
+15,Spell,Corpse Reanimate
+16,Creature,Dark Thief Oni of the Plains
+17,Spell,Gale
+18,Creature,Eagle
+19,Spell,Ardent Hateful Maelstrom
+20,Enchantment,Invert
+21,Enchantment,Strength
+22,Creature,Magi
+23,Spell,Forged Hypnosis
+24,Creature,Dark Undead Dwarf of the Polar Woods
+25,Spell,Forged Assault
+26,Enchantment,Drain
+27,Spell,Empyrean Hateful Gravitation
+28,Creature,Magi
+29,Enchantment,Drain
+30,Spell,Sorrow Burn
+31,Creature,Aura Fighter Goblin
+32,Enchantment,Hateful Deathgrip
+33,Enchantment,Necro Lethargy
+34,Creature,Aura Chaos Wizard of the Light
+35,Creature,Snow Merchant Griffin
+36,Creature,Snow Merchant Goblin
+37,Creature,Spider
+38,Creature,Fairy
+39,Creature,Paladin
+40,Creature,Ghoul
+41,Spell,Ardent Gloom Gale
+42,Creature,Paladin
+43,Creature,Ghoul
+44,Creature,Spider

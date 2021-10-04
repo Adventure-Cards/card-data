@@ -1,46 +1,46 @@
-==================,DECK,4897,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Eagle
-2,Enchantment,Common,Strength
-3,Enchantment,Common,Invert
-4,Creature,Common,Dwarf
-5,Enchantment,Common,Invert
-6,Artifact,Legendary,Dire Scythe
-7,Enchantment,Rare,Lunar Drain
-8,Creature,Common,Elf
-9,Spell,Rare,Nimble Lightning
-10,Creature,Common,Elf
-11,Artifact,Common,Scepter
-12,Enchantment,Common,Agony
-13,Enchantment,Common,Age
-14,Spell,Legendary,Dire Pandemonium
-15,Spell,Rare,Life Infuriate
-16,Creature,Mythic,Death Undead Phoenix of the Dead
-17,Creature,Legendary,Light Lord Giant of the Border
-18,Enchantment,Common,Haste
-19,Creature,Common,Dwarf
-20,Creature,Rare,Death Monk Griffin
-21,Enchantment,Common,Flight
-22,Creature,Common,Spider
-23,Artifact,Common,Shield
-24,Enchantment,Common,Blight
-25,Creature,Common,Eagle
-26,Creature,Rare,Light Thief Berserker
-27,Creature,Rare,Aura Rogue Berserker
-28,Creature,Common,Wolf
-29,Spell,Legendary,Instant Ice
-30,Creature,Legendary,Dark Warrior Oni of the Eastern Skies
-31,Creature,Common,Spider
-32,Enchantment,Common,Invert
-33,Creature,Common,Goblin
-34,Creature,Legendary,Snow Thief Kraken of the Haven
-35,Creature,Common,Orc
-36,Artifact,Common,Scythe
-37,Creature,Common,Wolf
-38,Artifact,Common,Helm
-39,Creature,Rare,Earth Lord Hydra
-40,Spell,Rare,Frigid Frost
-41,Creature,Common,Magi
-42,Creature,Common,Dwarf
-43,Enchantment,Mythic,Intense Shield
-44,Spell,Rare,Lunar Stun
+==================,DECK,4897
+0,Enchantment,Shade
+1,Creature,Eagle
+2,Enchantment,Blight
+3,Enchantment,Invert
+4,Creature,Magi
+5,Enchantment,Blight
+6,Artifact,Empyrean Frigid Scythe
+7,Enchantment,Dark Flight
+8,Creature,Warlock
+9,Spell,Corpse Lightning
+10,Creature,Warlock
+11,Artifact,Scepter
+12,Enchantment,Invert
+13,Enchantment,Drain
+14,Spell,Zealous Grim Pandemonium
+15,Spell,Victory Vortex
+16,Creature,Death Undead Phoenix of the Dead
+17,Creature,Light Lord Dwarf of the Border
+18,Enchantment,Agony
+19,Creature,Magi
+20,Creature,Death Monk Griffin
+21,Enchantment,Strength
+22,Creature,Paladin
+23,Artifact,Shield
+24,Enchantment,Shield
+25,Creature,Eagle
+26,Creature,Light Thief Goblin
+27,Creature,Aura Rogue Goblin
+28,Creature,Wolf
+29,Spell,Potent Forged Burn
+30,Creature,Dark Warrior Oni of the Eastern Skies
+31,Creature,Paladin
+32,Enchantment,Invert
+33,Creature,Skin-Walker
+34,Creature,Snow Thief Ogre of the Haven
+35,Creature,Spider
+36,Artifact,Scythe
+37,Creature,Wolf
+38,Artifact,Helm
+39,Creature,Earth Lord Hydra
+40,Spell,Frigid Fire
+41,Creature,Fairy
+42,Creature,Magi
+43,Enchantment,Dire Nature Age
+44,Spell,Dark Fireball

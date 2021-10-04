@@ -1,46 +1,46 @@
-==================,DECK,6676,Strong
-0,Creature,Legendary,Snow Undead Dragon of Hate
-1,Enchantment,Rare,Grim Shade
-2,Spell,Common,Sorrow
-3,Creature,Legendary,Death Lord Oni of the Haven
-4,Enchantment,Common,Haste
-5,Creature,Rare,Snow Undead Hydra
-6,Spell,Legendary,Angry Burst
-7,Spell,Legendary,Clever Burst
-8,Artifact,Common,Ghost Wand
-9,Creature,Rare,Frozen Thief Hydra
-10,Creature,Mythic,Earth Undead Dragon of the Shadows
-11,Spell,Rare,Grim Frenzy
-12,Enchantment,Rare,Corpse Alacrity
-13,Creature,Legendary,Dark Knight Giant of the Golden Palace
-14,Artifact,Common,Scepter
-15,Artifact,Common,Ring
-16,Enchantment,Common,Haste
-17,Creature,Legendary,Death Lord Giant of the Frozen Castle
-18,Artifact,Rare,Gloom Shield
-19,Spell,Rare,Hateful Sorrow
-20,Creature,Legendary,Frozen Assassin Oni of the West
-21,Spell,Common,Stricken
-22,Spell,Common,Heal
-23,Creature,Legendary,Light Knight Giant of the Plains
-24,Enchantment,Mythic,Mighty Flight
-25,Creature,Common,Dwarf
-26,Creature,Mythic,Light Grand Wizard of the Sky
-27,Artifact,Common,Ring
-28,Spell,Common,Freeze
-29,Spell,Common,Gravitation
-30,Creature,Rare,Aura Merchant Skin-Walker
-31,Spell,Rare,Oblivion Gravitation
-32,Spell,Rare,Oblivion Assault
-33,Creature,Mythic,Death Chaos Demon of the Dead
-34,Creature,Legendary,Dark Monk Oni of the Bright Mountains
-35,Creature,Legendary,Dark King Cyclops of the Arctic Blizzards
-36,Artifact,Common,Crown
-37,Creature,Legendary,Earth Monk Cyclops of the Eternal Land
-38,Creature,Legendary,Earth Grand Wizard of the Shadows
-39,Creature,Common,Spider
-40,Creature,Legendary,Dark Undead Phoenix of Illusion
-41,Creature,Common,Goblin
-42,Spell,Rare,Life Stun
-43,Creature,Rare,Dark Rogue Minotaur
-44,Enchantment,Common,Shield
+==================,DECK,6676
+0,Creature,Snow Undead Dragon of Hate
+1,Enchantment,Frigid Haste
+2,Spell,Lightning
+3,Creature,Death Lord Oni of the Haven
+4,Enchantment,Alacrity
+5,Creature,Snow Undead Hydra
+6,Spell,Zealous Lunar Heal
+7,Spell,Empyrean Frigid Pandemonium
+8,Artifact,Ghost Wand
+9,Creature,Frozen Thief Hydra
+10,Creature,Earth Undead Dragon of the Shadows
+11,Spell,Oblivion Hypnosis
+12,Enchantment,Forged Strength
+13,Creature,Dark Knight Dwarf of the Golden Palace
+14,Artifact,Scepter
+15,Artifact,Ring
+16,Enchantment,Lethargy
+17,Creature,Death Lord Dwarf of the Frozen Castle
+18,Artifact,Dark Shield
+19,Spell,Lunar Invisibility
+20,Creature,Frozen Assassin Oni of the West
+21,Spell,Stun
+22,Spell,Fireball
+23,Creature,Light Knight Dwarf of the Plains
+24,Enchantment,Zealous Lunar Alacrity
+25,Creature,Magi
+26,Creature,Light Grand Wizard of the Sky
+27,Artifact,Ring
+28,Spell,Infuriate
+29,Spell,Infuriate
+30,Creature,Aura Merchant Orc
+31,Spell,Apocalypse Rage
+32,Spell,Nimble Gale
+33,Creature,Death Chaos Demon of the Dead
+34,Creature,Dark Monk Oni of the Bright Mountains
+35,Creature,Dark King Giant of the Arctic Blizzards
+36,Artifact,Crown
+37,Creature,Earth Monk Giant of the Eternal Land
+38,Creature,Earth Grand Wizard of the Shadows
+39,Creature,Paladin
+40,Creature,Dark Undead Phoenix of Illusion
+41,Creature,Skin-Walker
+42,Spell,Apocalypse Frost
+43,Creature,Dark Rogue Cyclops
+44,Enchantment,Drain

@@ -1,46 +1,46 @@
-==================,DECK,5846,Light
-0,Spell,Common,Invisibility
-1,Creature,Rare,Death Lord Minotaur
-2,Creature,Mythic,Earth Grand Wizard of the Shadows
-3,Creature,Rare,Dark Monk Griffin
-4,Creature,Common,Spider
-5,Creature,Common,Paladin
-6,Creature,Common,Goblin
-7,Creature,Common,Paladin
-8,Artifact,Legendary,Extreme Helm
-9,Spell,Common,Hypnosis
-10,Creature,Rare,Dark Queen Hydra
-11,Creature,Rare,Snow Thief Skin-Walker
-12,Creature,Common,Paladin
-13,Creature,Common,Paladin
-14,Enchantment,Common,Haste
-15,Spell,Common,Burst
-16,Enchantment,Common,Lethargy
-17,Creature,Common,Ghoul
-18,Enchantment,Common,Agony
-19,Spell,Common,Gale
-20,Creature,Mythic,Aura Nameless Dragon of the Light
-21,Creature,Common,Spider
-22,Artifact,Rare,Grim Shield
-23,Artifact,Common,Ring
-24,Creature,Legendary,Earth Thief Oni of the Mountains
-25,Enchantment,Common,Deathgrip
-26,Creature,Mythic,Frozen Nameless Phoenix of the Void
-27,Creature,Common,Paladin
-28,Artifact,Common,Ring
-29,Creature,Common,Eagle
-30,Creature,Common,Goblin
-31,Creature,Common,Eagle
-32,Artifact,Common,Amulet
-33,Creature,Common,Eagle
-34,Creature,Mythic,Snow Nameless Phoenix of Hate
-35,Creature,Common,Dwarf
-36,Spell,Legendary,Dire Reanimate
-37,Creature,Common,Dwarf
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Alacrity
-40,Enchantment,Rare,Necro Haste
-41,Artifact,Common,Helmet
-42,Artifact,Common,Ring
-43,Creature,Mythic,Snow Undead Phoenix of Hate
-44,Creature,Rare,Frozen King Griffin
+==================,DECK,5846
+0,Spell,Maelstrom
+1,Creature,Death Lord Cyclops
+2,Creature,Earth Grand Wizard of the Shadows
+3,Creature,Dark Monk Griffin
+4,Creature,Paladin
+5,Creature,Troll
+6,Creature,Skin-Walker
+7,Creature,Troll
+8,Artifact,Empyrean Miracle Helm
+9,Spell,Rage
+10,Creature,Dark Queen Hydra
+11,Creature,Snow Thief Orc
+12,Creature,Troll
+13,Creature,Troll
+14,Enchantment,Flight
+15,Spell,Fury
+16,Enchantment,Firebreath
+17,Creature,Ghoul
+18,Enchantment,Drain
+19,Spell,Frost
+20,Creature,Aura Nameless Dragon of the Light
+21,Creature,Paladin
+22,Artifact,Apocalypse Shield
+23,Artifact,Ring
+24,Creature,Earth Thief Oni of the Mountains
+25,Enchantment,Deathgrip
+26,Creature,Frozen Nameless Phoenix of the Void
+27,Creature,Troll
+28,Artifact,Ring
+29,Creature,Eagle
+30,Creature,Skin-Walker
+31,Creature,Eagle
+32,Artifact,Amulet
+33,Creature,Eagle
+34,Creature,Snow Nameless Phoenix of Hate
+35,Creature,Magi
+36,Spell,Potent Life Gravitation
+37,Creature,Magi
+38,Creature,Magi
+39,Enchantment,Deathgrip
+40,Enchantment,Corpse Age
+41,Artifact,Helmet
+42,Artifact,Ring
+43,Creature,Snow Undead Phoenix of Hate
+44,Creature,Frozen King Griffin

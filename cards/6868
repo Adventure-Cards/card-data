@@ -1,46 +1,46 @@
-==================,DECK,6868,Medium
-0,Artifact,Rare,Hateful Gloves
-1,Creature,Common,Wolf
-2,Creature,Common,Goblin
-3,Creature,Legendary,Earth Merchant Giant of the Swamp
-4,Creature,Common,Elf
-5,Creature,Common,Wolf
-6,Spell,Legendary,Angry Reanimate
-7,Creature,Mythic,Dark Grand Wizard of Illusion
-8,Creature,Rare,Dark Merchant Skin-Walker
-9,Creature,Common,Magi
-10,Spell,Rare,Corpse Wall
-11,Spell,Rare,Lunar Ice
-12,Artifact,Common,Amulet
-13,Enchantment,Legendary,Clever Deathgrip
-14,Creature,Rare,Snow Undead Fairy
-15,Enchantment,Common,Alacrity
-16,Creature,Common,Spider
-17,Spell,Rare,Grim Freeze
-18,Creature,Rare,Frozen Fighter Hydra
-19,Artifact,Common,Tome
-20,Enchantment,Rare,Dark Agony
-21,Creature,Rare,Snow Undead Minotaur
-22,Spell,Rare,Dark Lightning
-23,Creature,Common,Elf
-24,Enchantment,Common,Flight
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Blight
-27,Enchantment,Rare,Miracle Age
-28,Creature,Common,Magi
-29,Artifact,Common,Tome
-30,Creature,Legendary,Light Warrior Oni of the Plains
-31,Creature,Common,Orc
-32,Creature,Common,Spider
-33,Creature,Common,Elf
-34,Creature,Mythic,Earth Undead Dragon of the Shadows
-35,Enchantment,Rare,Apocalypse Deathgrip
-36,Enchantment,Common,Drain
-37,Spell,Common,Burst
-38,Spell,Common,Invisibility
-39,Creature,Common,Spider
-40,Spell,Common,Wall
-41,Creature,Rare,Light Warrior Berserker
-42,Spell,Common,Burn
-43,Creature,Rare,Aura Queen Skin-Walker
-44,Spell,Rare,Apocalypse Stricken
+==================,DECK,6868
+0,Artifact,Dark Gloves
+1,Creature,Wolf
+2,Creature,Skin-Walker
+3,Creature,Earth Merchant Dwarf of the Swamp
+4,Creature,Warlock
+5,Creature,Wolf
+6,Spell,Empyrean Lunar Hypnosis
+7,Creature,Dark Grand Wizard of Illusion
+8,Creature,Dark Merchant Orc
+9,Creature,Fairy
+10,Spell,Corpse Freeze
+11,Spell,Chimeric Tempest
+12,Artifact,Amulet
+13,Enchantment,Empyrean Oblivion Shade
+14,Creature,Snow Undead Kraken
+15,Enchantment,Deathgrip
+16,Creature,Paladin
+17,Spell,Grim Invisibility
+18,Creature,Frozen Fighter Hydra
+19,Artifact,Tome
+20,Enchantment,Miracle Shield
+21,Creature,Snow Undead Cyclops
+22,Spell,Chimeric Vortex
+23,Creature,Warlock
+24,Enchantment,Haste
+25,Creature,Ghoul
+26,Enchantment,Firebreath
+27,Enchantment,Victory Blight
+28,Creature,Fairy
+29,Artifact,Tome
+30,Creature,Light Warrior Oni of the Plains
+31,Creature,Spider
+32,Creature,Paladin
+33,Creature,Warlock
+34,Creature,Earth Undead Dragon of the Shadows
+35,Enchantment,Oblivion Blight
+36,Enchantment,Alacrity
+37,Spell,Revive
+38,Spell,Gale
+39,Creature,Paladin
+40,Spell,Freeze
+41,Creature,Light Warrior Goblin
+42,Spell,Ice
+43,Creature,Aura Queen Orc
+44,Spell,Oblivion Wall

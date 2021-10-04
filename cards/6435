@@ -1,46 +1,46 @@
-==================,DECK,6435,Medium
-0,Artifact,Rare,Nature Bow
-1,Enchantment,Rare,Necro Age
-2,Creature,Common,Dwarf
-3,Creature,Common,Goblin
-4,Creature,Common,Magi
-5,Creature,Common,Ghoul
-6,Creature,Common,Eagle
-7,Artifact,Common,Gloves
-8,Creature,Legendary,Dark Thief Cyclops of the Swamp
-9,Spell,Common,Heal
-10,Spell,Legendary,Angry Sorrow
-11,Creature,Common,Spider
-12,Spell,Rare,Nimble Heal
-13,Creature,Mythic,Light Chaos Wizard of the Sky
-14,Creature,Common,Spider
-15,Creature,Rare,Frozen Knight Griffin
-16,Creature,Common,Eagle
-17,Creature,Common,Orc
-18,Creature,Rare,Frozen Assassin Skin-Walker
-19,Spell,Rare,Frigid Rage
-20,Enchantment,Rare,Frigid Lethargy
-21,Creature,Common,Orc
-22,Enchantment,Rare,Life Shrink
-23,Creature,Rare,Dark Queen Griffin
-24,Artifact,Common,Helmet
-25,Creature,Common,Goblin
-26,Spell,Common,Wall
-27,Spell,Rare,Life Ice
-28,Creature,Common,Magi
-29,Spell,Legendary,Instant Stricken
-30,Creature,Rare,Aura Rogue Skin-Walker
-31,Enchantment,Legendary,Potent Shield
-32,Creature,Common,Ghoul
-33,Creature,Rare,Death Warrior Hydra
-34,Spell,Common,Infuriate
-35,Creature,Rare,Earth Warrior Hydra
-36,Creature,Legendary,Light Undead Cyclops of the Haven
-37,Spell,Rare,Gloom Assault
-38,Artifact,Legendary,Angry Bracers
-39,Spell,Common,Freeze
-40,Creature,Mythic,Dark Nameless Phoenix of Illusion
-41,Creature,Legendary,Death Lord Kraken of the Magical Forest
-42,Spell,Common,Infuriate
-43,Creature,Mythic,Dark Time Dragon of Illusion
-44,Creature,Common,Dwarf
+==================,DECK,6435
+0,Artifact,Nature Bow
+1,Enchantment,Nature Age
+2,Creature,Magi
+3,Creature,Skin-Walker
+4,Creature,Fairy
+5,Creature,Ghoul
+6,Creature,Eagle
+7,Artifact,Gloves
+8,Creature,Dark Thief Giant of the Swamp
+9,Spell,Stun
+10,Spell,Mighty Chimeric Fireball
+11,Creature,Paladin
+12,Spell,Hateful Frenzy
+13,Creature,Light Chaos Wizard of the Sky
+14,Creature,Paladin
+15,Creature,Frozen Knight Griffin
+16,Creature,Eagle
+17,Creature,Spider
+18,Creature,Frozen Assassin Orc
+19,Spell,Victory Fire
+20,Enchantment,Grim Invert
+21,Creature,Spider
+22,Enchantment,Frigid Drain
+23,Creature,Dark Queen Griffin
+24,Artifact,Helmet
+25,Creature,Skin-Walker
+26,Spell,Hypnosis
+27,Spell,Grim Invisibility
+28,Creature,Fairy
+29,Spell,Empyrean Necro Stun
+30,Creature,Aura Rogue Orc
+31,Enchantment,Instant Victory Drain
+32,Creature,Ghoul
+33,Creature,Death Warrior Hydra
+34,Spell,Gravitation
+35,Creature,Earth Warrior Hydra
+36,Creature,Light Undead Giant of the Haven
+37,Spell,Cataclysmic Vortex
+38,Artifact,Zealous Gloom Bracers
+39,Spell,Fury
+40,Creature,Dark Nameless Phoenix of Illusion
+41,Creature,Death Lord Ogre of the Magical Forest
+42,Spell,Stun
+43,Creature,Dark Time Dragon of Illusion
+44,Creature,Magi

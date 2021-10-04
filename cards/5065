@@ -1,46 +1,46 @@
-==================,DECK,5065,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Flight
-2,Artifact,Legendary,Mighty Amulet
-3,Creature,Common,Dwarf
-4,Creature,Rare,Earth Fighter Berserker
-5,Creature,Common,Goblin
-6,Creature,Common,Wolf
-7,Spell,Rare,Frigid Heal
-8,Creature,Common,Wolf
-9,Spell,Common,Assault
-10,Creature,Common,Dwarf
-11,Creature,Common,Wolf
-12,Creature,Common,Dwarf
-13,Creature,Common,Paladin
-14,Creature,Common,Elf
-15,Creature,Legendary,Dark Monk Oni of the Plains
-16,Enchantment,Rare,Dark Alacrity
-17,Creature,Common,Paladin
-18,Creature,Mythic,Snow Time Dragon of Hate
-19,Spell,Common,Hypnosis
-20,Enchantment,Common,Flight
-21,Spell,Legendary,Clever Wall
-22,Creature,Common,Ghoul
-23,Artifact,Common,Sword
-24,Creature,Rare,Earth Priest Fairy
-25,Creature,Rare,Earth Monk Skin-Walker
-26,Spell,Rare,Life Reanimate
-27,Creature,Legendary,Aura Warrior Orge of the Border
-28,Enchantment,Common,Shade
-29,Creature,Common,Orc
-30,Creature,Common,Paladin
-31,Creature,Legendary,Aura King Cyclops of the Haven
-32,Creature,Common,Dwarf
-33,Spell,Common,Burst
-34,Creature,Rare,Snow Warrior Griffin
-35,Creature,Legendary,Death Knight Orge of the Haven
-36,Creature,Common,Warlock
-37,Spell,Common,Burst
-38,Enchantment,Rare,Dark Alacrity
-39,Spell,Common,Reanimate
-40,Artifact,Common,Helmet
-41,Spell,Common,Invisibility
-42,Spell,Common,Reanimate
-43,Creature,Common,Spider
-44,Creature,Common,Warlock
+==================,DECK,5065
+0,Creature,Warlock
+1,Enchantment,Lethargy
+2,Artifact,Mighty Dark Amulet
+3,Creature,Magi
+4,Creature,Earth Fighter Goblin
+5,Creature,Skin-Walker
+6,Creature,Wolf
+7,Spell,Victory Stricken
+8,Creature,Wolf
+9,Spell,Gale
+10,Creature,Magi
+11,Creature,Wolf
+12,Creature,Magi
+13,Creature,Troll
+14,Creature,Warlock
+15,Creature,Dark Monk Oni of the Plains
+16,Enchantment,Dark Firebreath
+17,Creature,Troll
+18,Creature,Snow Time Dragon of Hate
+19,Spell,Burst
+20,Enchantment,Strength
+21,Spell,Ardent Life Tempest
+22,Creature,Ghoul
+23,Artifact,Sword
+24,Creature,Earth Priest Kraken
+25,Creature,Earth Monk Orc
+26,Spell,Life Torment
+27,Creature,Aura Warrior Elf of the Border
+28,Enchantment,Drain
+29,Creature,Spider
+30,Creature,Troll
+31,Creature,Aura King Giant of the Haven
+32,Creature,Magi
+33,Spell,Pandemonium
+34,Creature,Snow Warrior Griffin
+35,Creature,Death Knight Elf of the Haven
+36,Creature,Berserker
+37,Spell,Frenzy
+38,Enchantment,Dark Flight
+39,Spell,Frenzy
+40,Artifact,Helmet
+41,Spell,Wall
+42,Spell,Hypnosis
+43,Creature,Paladin
+44,Creature,Berserker

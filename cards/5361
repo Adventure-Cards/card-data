@@ -1,46 +1,46 @@
-==================,DECK,5361,Light
-0,Creature,Common,Wolf
-1,Enchantment,Common,Flight
-2,Enchantment,Common,Strength
-3,Enchantment,Common,Haste
-4,Creature,Common,Magi
-5,Creature,Legendary,Aura Queen Orge of the West
-6,Creature,Legendary,Aura King Cyclops of the Low Hills
-7,Creature,Common,Ghoul
-8,Creature,Rare,Aura Monk Skin-Walker
-9,Creature,Common,Elf
-10,Enchantment,Mythic,Instant Drain
-11,Creature,Common,Ghoul
-12,Creature,Common,Magi
-13,Spell,Rare,Dark Gravitation
-14,Creature,Common,Eagle
-15,Artifact,Rare,Cataclysmic Gloves
-16,Creature,Rare,Dark Warrior Griffin
-17,Spell,Common,Stricken
-18,Creature,Common,Magi
-19,Enchantment,Common,Age
-20,Enchantment,Common,Lethargy
-21,Enchantment,Common,Age
-22,Creature,Common,Warlock
-23,Enchantment,Common,Strength
-24,Spell,Legendary,Angry Vortex
-25,Artifact,Common,Potion
-26,Enchantment,Mythic,Clever Shade
-27,Enchantment,Rare,Lunar Drain
-28,Enchantment,Common,Invert
-29,Creature,Mythic,Snow Nameless Phoenix of Hate
-30,Creature,Common,Goblin
-31,Creature,Legendary,Death Fighter Cyclops of the Border
-32,Artifact,Rare,Gloom Sigil
-33,Creature,Common,Wolf
-34,Enchantment,Rare,Miracle Deathgrip
-35,Creature,Common,Magi
-36,Spell,Common,Fury
-37,Creature,Legendary,Earth Rogue Cyclops of the Arctic Blizzards
-38,Creature,Common,Magi
-39,Enchantment,Mythic,Instant Invert
-40,Creature,Common,Elf
-41,Spell,Legendary,Mighty Wall
-42,Creature,Common,Paladin
-43,Creature,Common,Spider
-44,Creature,Rare,Light Undead Hydra
+==================,DECK,5361
+0,Creature,Wolf
+1,Enchantment,Flight
+2,Enchantment,Shade
+3,Enchantment,Flight
+4,Creature,Fairy
+5,Creature,Aura Queen Elf of the West
+6,Creature,Aura King Giant of the Low Hills
+7,Creature,Ghoul
+8,Creature,Aura Monk Orc
+9,Creature,Warlock
+10,Enchantment,Zealous Forged Deathgrip
+11,Creature,Ghoul
+12,Creature,Fairy
+13,Spell,Gloom Stricken
+14,Creature,Eagle
+15,Artifact,Dark Gloves
+16,Creature,Dark Warrior Griffin
+17,Spell,Torment
+18,Creature,Fairy
+19,Enchantment,Strength
+20,Enchantment,Shrink
+21,Enchantment,Age
+22,Creature,Berserker
+23,Enchantment,Age
+24,Spell,Dire Dark Lightning
+25,Artifact,Potion
+26,Enchantment,Ardent Frigid Haste
+27,Enchantment,Dark Firebreath
+28,Enchantment,Deathgrip
+29,Creature,Snow Nameless Phoenix of Hate
+30,Creature,Skin-Walker
+31,Creature,Death Fighter Giant of the Border
+32,Artifact,Dark Sigil
+33,Creature,Wolf
+34,Enchantment,Oblivion Invert
+35,Creature,Fairy
+36,Spell,Fireball
+37,Creature,Earth Rogue Giant of the Arctic Blizzards
+38,Creature,Fairy
+39,Enchantment,Irate Shimmering Deathgrip
+40,Creature,Warlock
+41,Spell,Urgent Lunar Pandemonium
+42,Creature,Troll
+43,Creature,Paladin
+44,Creature,Light Undead Hydra

@@ -1,46 +1,46 @@
-==================,DECK,6522,Medium
-0,Creature,Common,Wolf
-1,Creature,Legendary,Frozen Fighter Cyclops of the Arctic Blizzards
-2,Creature,Rare,Dark Assassin Skin-Walker
-3,Spell,Rare,Miracle Infuriate
-4,Creature,Common,Goblin
-5,Creature,Legendary,Snow Monk Kraken of the Eternal Land
-6,Creature,Common,Goblin
-7,Creature,Mythic,Dark Grand Demon of Illusion
-8,Artifact,Rare,Necro Belt
-9,Spell,Common,Ice
-10,Artifact,Common,Crown
-11,Creature,Rare,Light Fighter Minotaur
-12,Enchantment,Common,Lethargy
-13,Artifact,Common,Shield
-14,Creature,Rare,Snow Knight Fairy
-15,Enchantment,Common,Age
-16,Creature,Legendary,Death Monk Giant of the Haven
-17,Spell,Common,Rage
-18,Spell,Rare,Solar Freeze
-19,Creature,Rare,Dark Queen Skin-Walker
-20,Creature,Common,Wolf
-21,Creature,Rare,Snow Thief Berserker
-22,Creature,Common,Ghoul
-23,Artifact,Common,Cloak
-24,Enchantment,Rare,Nimble Shade
-25,Creature,Common,Wolf
-26,Creature,Common,Elf
-27,Creature,Common,Ghoul
-28,Creature,Legendary,Aura Monk Giant of the Frozen Castle
-29,Enchantment,Common,Invert
-30,Spell,Legendary,Instant Fury
-31,Creature,Common,Spider
-32,Enchantment,Common,Blight
-33,Artifact,Common,Ring
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Ghoul
-36,Creature,Common,Wolf
-37,Creature,Common,Elf
-38,Creature,Common,Elf
-39,Creature,Mythic,Earth Grand Wizard of the Shadows
-40,Creature,Rare,Dark Priest Berserker
-41,Creature,Common,Paladin
-42,Enchantment,Rare,Forged Invert
-43,Creature,Rare,Snow Fighter Skin-Walker
-44,Creature,Rare,Aura Lord Hydra
+==================,DECK,6522
+0,Creature,Wolf
+1,Creature,Frozen Fighter Giant of the Arctic Blizzards
+2,Creature,Dark Assassin Orc
+3,Spell,Life Burn
+4,Creature,Skin-Walker
+5,Creature,Snow Monk Ogre of the Eternal Land
+6,Creature,Skin-Walker
+7,Creature,Dark Grand Demon of Illusion
+8,Artifact,Necro Belt
+9,Spell,Sorrow
+10,Artifact,Crown
+11,Creature,Light Fighter Cyclops
+12,Enchantment,Agony
+13,Artifact,Shield
+14,Creature,Snow Knight Kraken
+15,Enchantment,Blight
+16,Creature,Death Monk Dwarf of the Haven
+17,Spell,Maelstrom
+18,Spell,Forged Stricken
+19,Creature,Dark Queen Orc
+20,Creature,Wolf
+21,Creature,Snow Thief Goblin
+22,Creature,Ghoul
+23,Artifact,Cloak
+24,Enchantment,Necro Strength
+25,Creature,Wolf
+26,Creature,Warlock
+27,Creature,Ghoul
+28,Creature,Aura Monk Dwarf of the Frozen Castle
+29,Enchantment,Deathgrip
+30,Spell,Zealous Necro Burst
+31,Creature,Paladin
+32,Enchantment,Shade
+33,Artifact,Ring
+34,Enchantment,Deathgrip
+35,Creature,Ghoul
+36,Creature,Wolf
+37,Creature,Warlock
+38,Creature,Warlock
+39,Creature,Earth Grand Wizard of the Shadows
+40,Creature,Dark Priest Goblin
+41,Creature,Troll
+42,Enchantment,Sorrow Shrink
+43,Creature,Snow Fighter Orc
+44,Creature,Aura Lord Hydra

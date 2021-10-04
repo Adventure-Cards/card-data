@@ -1,46 +1,46 @@
-==================,DECK,6768,Light
-0,Spell,Common,Rage
-1,Spell,Common,Heal
-2,Creature,Common,Spider
-3,Creature,Common,Warlock
-4,Creature,Legendary,Earth Lord Cyclops of the Eternal Land
-5,Creature,Common,Warlock
-6,Spell,Common,Gale
-7,Spell,Rare,Solar Rage
-8,Creature,Common,Warlock
-9,Creature,Common,Warlock
-10,Creature,Rare,Frozen Fighter Minotaur
-11,Creature,Common,Magi
-12,Enchantment,Rare,Frigid Alacrity
-13,Spell,Common,Sorrow
-14,Enchantment,Common,Alacrity
-15,Spell,Common,Hypnosis
-16,Enchantment,Rare,Dark Strength
-17,Creature,Common,Dwarf
-18,Creature,Common,Dwarf
-19,Artifact,Rare,Life Crown
-20,Creature,Legendary,Earth Merchant Cyclops of the West
-21,Enchantment,Mythic,Instant Age
-22,Creature,Common,Paladin
-23,Creature,Common,Eagle
-24,Creature,Rare,Snow Lord Hydra
-25,Enchantment,Mythic,Angry Haste
-26,Creature,Mythic,Aura Chaos Demon of the Light
-27,Spell,Common,Freeze
-28,Creature,Common,Ghoul
-29,Creature,Common,Paladin
-30,Creature,Common,Ghoul
-31,Spell,Common,Gravitation
-32,Creature,Rare,Frozen Monk Hydra
-33,Creature,Legendary,Frozen King Oni of the Bright Mountains
-34,Creature,Common,Magi
-35,Creature,Rare,Aura Merchant Berserker
-36,Spell,Common,Stun
-37,Spell,Common,Gale
-38,Spell,Legendary,Clever Pandemonium
-39,Artifact,Common,Helm
-40,Creature,Common,Warlock
-41,Creature,Legendary,Death Rogue Orge of the Border
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Strength
-44,Spell,Common,Gravitation
+==================,DECK,6768
+0,Spell,Fury
+1,Spell,Vortex
+2,Creature,Paladin
+3,Creature,Berserker
+4,Creature,Earth Lord Giant of the Eternal Land
+5,Creature,Berserker
+6,Spell,Reanimate
+7,Spell,Solar Sorrow
+8,Creature,Berserker
+9,Creature,Berserker
+10,Creature,Frozen Fighter Cyclops
+11,Creature,Fairy
+12,Enchantment,Apocalypse Drain
+13,Spell,Torment
+14,Enchantment,Shrink
+15,Spell,Stricken
+16,Enchantment,Cataclysmic Alacrity
+17,Creature,Magi
+18,Creature,Magi
+19,Artifact,Victory Crown
+20,Creature,Earth Merchant Giant of the West
+21,Enchantment,Empyrean Nature Age
+22,Creature,Troll
+23,Creature,Eagle
+24,Creature,Snow Lord Hydra
+25,Enchantment,Zealous Miracle Alacrity
+26,Creature,Aura Chaos Demon of the Light
+27,Spell,Gale
+28,Creature,Ghoul
+29,Creature,Troll
+30,Creature,Ghoul
+31,Spell,Stricken
+32,Creature,Frozen Monk Hydra
+33,Creature,Frozen King Oni of the Bright Mountains
+34,Creature,Fairy
+35,Creature,Aura Merchant Goblin
+36,Spell,Infuriate
+37,Spell,Heal
+38,Spell,Mighty Frigid Maelstrom
+39,Artifact,Helm
+40,Creature,Berserker
+41,Creature,Death Rogue Elf of the Border
+42,Creature,Ghoul
+43,Enchantment,Firebreath
+44,Spell,Freeze

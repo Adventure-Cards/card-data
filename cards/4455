@@ -1,46 +1,46 @@
-==================,DECK,4455,Light
-0,Artifact,Rare,Necro Boots
-1,Creature,Rare,Death Monk Skin-Walker
-2,Creature,Common,Warlock
-3,Artifact,Common,Staff
-4,Creature,Common,Goblin
-5,Spell,Common,Frost
-6,Artifact,Common,Pendant
-7,Spell,Rare,Frigid Freeze
-8,Artifact,Common,Helmet
-9,Creature,Common,Orc
-10,Creature,Legendary,Earth Priest Cyclops of the Black Stone
-11,Creature,Common,Eagle
-12,Creature,Common,Elf
-13,Creature,Legendary,Snow Lord Orge of the Frozen Castle
-14,Creature,Common,Wolf
-15,Creature,Common,Ghoul
-16,Creature,Common,Paladin
-17,Artifact,Common,Gauntlet
-18,Creature,Common,Eagle
-19,Artifact,Rare,Oblivion Scythe
-20,Spell,Legendary,Instant Invisibility
-21,Enchantment,Common,Invert
-22,Creature,Common,Warlock
-23,Enchantment,Common,Invert
-24,Creature,Legendary,Dark Knight Orge of the Magical Forest
-25,Creature,Rare,Snow Lord Griffin
-26,Spell,Rare,Miracle Maelstrom
-27,Creature,Common,Goblin
-28,Creature,Common,Wolf
-29,Spell,Legendary,Potent Vortex
-30,Spell,Rare,Lunar Pandemonium
-31,Creature,Common,Orc
-32,Enchantment,Common,Drain
-33,Creature,Common,Spider
-34,Artifact,Common,Gauntlet
-35,Creature,Mythic,Earth Grand Demon of the Shadows
-36,Creature,Legendary,Aura King Giant of the Bright Mountains
-37,Creature,Mythic,Death Ancient Demon of the Dead
-38,Creature,Common,Elf
-39,Spell,Rare,Necro Sorrow
-40,Creature,Common,Magi
-41,Spell,Legendary,Extreme Wall
-42,Creature,Legendary,Death King Giant of the Mountains
-43,Creature,Common,Eagle
-44,Enchantment,Common,Alacrity
+==================,DECK,4455
+0,Artifact,Forged Boots
+1,Creature,Death Monk Orc
+2,Creature,Berserker
+3,Artifact,Staff
+4,Creature,Skin-Walker
+5,Spell,Rage
+6,Artifact,Pendant
+7,Spell,Apocalypse Fireball
+8,Artifact,Helmet
+9,Creature,Spider
+10,Creature,Earth Priest Giant of the Black Stone
+11,Creature,Eagle
+12,Creature,Warlock
+13,Creature,Snow Lord Elf of the Frozen Castle
+14,Creature,Wolf
+15,Creature,Ghoul
+16,Creature,Troll
+17,Artifact,Gauntlet
+18,Creature,Eagle
+19,Artifact,Nimble Scythe
+20,Spell,Dire Shimmering Lightning
+21,Enchantment,Shrink
+22,Creature,Berserker
+23,Enchantment,Haste
+24,Creature,Dark Knight Elf of the Magical Forest
+25,Creature,Snow Lord Griffin
+26,Spell,Apocalypse Ice
+27,Creature,Skin-Walker
+28,Creature,Wolf
+29,Spell,Irate Apocalypse Invisibility
+30,Spell,Dark Frenzy
+31,Creature,Spider
+32,Enchantment,Agony
+33,Creature,Paladin
+34,Artifact,Gauntlet
+35,Creature,Earth Grand Demon of the Shadows
+36,Creature,Aura King Dwarf of the Bright Mountains
+37,Creature,Death Ancient Demon of the Dead
+38,Creature,Warlock
+39,Spell,Nature Assault
+40,Creature,Fairy
+41,Spell,Dire Miracle Heal
+42,Creature,Death King Dwarf of the Mountains
+43,Creature,Eagle
+44,Enchantment,Strength

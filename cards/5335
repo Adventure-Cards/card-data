@@ -1,46 +1,46 @@
-==================,DECK,5335,Light
-0,Creature,Common,Paladin
-1,Creature,Mythic,Earth Grand Wizard of the Shadows
-2,Enchantment,Rare,Apocalypse Drain
-3,Creature,Mythic,Earth Time Dragon of the Shadows
-4,Creature,Common,Paladin
-5,Creature,Rare,Dark Knight Berserker
-6,Enchantment,Common,Haste
-7,Creature,Legendary,Frozen Fighter Cyclops of the Magical Forest
-8,Spell,Common,Vortex
-9,Creature,Rare,Dark Queen Griffin
-10,Artifact,Common,Tome
-11,Artifact,Common,Tome
-12,Creature,Rare,Death King Skin-Walker
-13,Enchantment,Rare,Apocalypse Blight
-14,Creature,Rare,Aura Priest Griffin
-15,Enchantment,Common,Lethargy
-16,Enchantment,Common,Invert
-17,Creature,Common,Warlock
-18,Creature,Common,Ghoul
-19,Enchantment,Mythic,Angry Age
-20,Spell,Common,Gale
-21,Enchantment,Common,Age
-22,Creature,Legendary,Frozen Fighter Cyclops of the Border
-23,Spell,Legendary,Intense Maelstrom
-24,Creature,Rare,Aura Warrior Skin-Walker
-25,Creature,Common,Warlock
-26,Creature,Common,Elf
-27,Enchantment,Legendary,Dire Lethargy
-28,Creature,Legendary,Snow Priest Giant of the Eastern Skies
-29,Creature,Mythic,Frozen Ancient Demon of the Void
-30,Artifact,Legendary,Potent Bow
-31,Creature,Common,Ghoul
-32,Creature,Legendary,Frozen Fighter Cyclops of the Polar Woods
-33,Creature,Common,Elf
-34,Spell,Common,Pandemonium
-35,Creature,Rare,Dark Queen Minotaur
-36,Creature,Common,Wolf
-37,Creature,Common,Wolf
-38,Creature,Common,Magi
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Shield
-41,Enchantment,Common,Agony
-42,Creature,Legendary,Snow King Giant of the Plains
-43,Creature,Common,Ghoul
-44,Creature,Legendary,Earth Lord Cyclops of the Eastern Skies
+==================,DECK,5335
+0,Creature,Troll
+1,Creature,Earth Grand Wizard of the Shadows
+2,Enchantment,Apocalypse Invert
+3,Creature,Earth Time Dragon of the Shadows
+4,Creature,Troll
+5,Creature,Dark Knight Goblin
+6,Enchantment,Strength
+7,Creature,Frozen Fighter Giant of the Magical Forest
+8,Spell,Pandemonium
+9,Creature,Dark Queen Griffin
+10,Artifact,Tome
+11,Artifact,Tome
+12,Creature,Death King Orc
+13,Enchantment,Nimble Haste
+14,Creature,Aura Priest Griffin
+15,Enchantment,Deathgrip
+16,Enchantment,Strength
+17,Creature,Berserker
+18,Creature,Ghoul
+19,Enchantment,Zealous Gloom Alacrity
+20,Spell,Burst
+21,Enchantment,Strength
+22,Creature,Frozen Fighter Giant of the Border
+23,Spell,Potent Necro Assault
+24,Creature,Aura Warrior Orc
+25,Creature,Berserker
+26,Creature,Warlock
+27,Enchantment,Irate Grim Blight
+28,Creature,Snow Priest Dwarf of the Eastern Skies
+29,Creature,Frozen Ancient Demon of the Void
+30,Artifact,Urgent Victory Bow
+31,Creature,Ghoul
+32,Creature,Frozen Fighter Giant of the Polar Woods
+33,Creature,Warlock
+34,Spell,Burn
+35,Creature,Dark Queen Cyclops
+36,Creature,Wolf
+37,Creature,Wolf
+38,Creature,Fairy
+39,Creature,Ghoul
+40,Enchantment,Agony
+41,Enchantment,Shrink
+42,Creature,Snow King Dwarf of the Plains
+43,Creature,Ghoul
+44,Creature,Earth Lord Giant of the Eastern Skies

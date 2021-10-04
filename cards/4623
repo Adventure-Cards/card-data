@@ -1,46 +1,46 @@
-==================,DECK,4623,Light
-0,Creature,Mythic,Death Undead Dragon of the Dead
-1,Creature,Legendary,Frozen Warrior Giant of the Golden Palace
-2,Creature,Common,Dwarf
-3,Enchantment,Rare,Hateful Age
-4,Spell,Common,Heal
-5,Enchantment,Rare,Necro Age
-6,Spell,Common,Frost
-7,Enchantment,Common,Agony
-8,Creature,Common,Orc
-9,Creature,Common,Paladin
-10,Creature,Common,Paladin
-11,Creature,Rare,Earth Assassin Berserker
-12,Creature,Legendary,Snow King Kraken of the Eternal Land
-13,Artifact,Rare,Forged Belt
-14,Creature,Common,Paladin
-15,Spell,Common,Fury
-16,Creature,Rare,Death Thief Hydra
-17,Enchantment,Common,Deathgrip
-18,Creature,Common,Eagle
-19,Creature,Common,Elf
-20,Creature,Common,Spider
-21,Spell,Rare,Apocalypse Burn
-22,Artifact,Common,Crown
-23,Artifact,Common,Helmet
-24,Enchantment,Common,Blight
-25,Creature,Rare,Earth Warrior Griffin
-26,Artifact,Rare,Cataclysmic Bracers
-27,Creature,Rare,Earth Queen Skin-Walker
-28,Creature,Common,Ghoul
-29,Creature,Common,Orc
-30,Enchantment,Common,Flight
-31,Spell,Common,Lightning
-32,Enchantment,Legendary,Mighty Shield
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Orc
-35,Creature,Common,Eagle
-36,Enchantment,Common,Flight
-37,Creature,Common,Eagle
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Shade
-40,Enchantment,Common,Deathgrip
-41,Enchantment,Mythic,Urgent Alacrity
-42,Creature,Rare,Dark Warrior Hydra
-43,Creature,Common,Orc
-44,Creature,Common,Spider
+==================,DECK,4623
+0,Creature,Death Undead Dragon of the Dead
+1,Creature,Frozen Warrior Dwarf of the Golden Palace
+2,Creature,Magi
+3,Enchantment,Gloom Alacrity
+4,Spell,Infuriate
+5,Enchantment,Nature Age
+6,Spell,Fire
+7,Enchantment,Shade
+8,Creature,Spider
+9,Creature,Troll
+10,Creature,Troll
+11,Creature,Earth Assassin Goblin
+12,Creature,Snow King Ogre of the Eternal Land
+13,Artifact,Chimeric Belt
+14,Creature,Troll
+15,Spell,Pandemonium
+16,Creature,Death Thief Hydra
+17,Enchantment,Agony
+18,Creature,Eagle
+19,Creature,Warlock
+20,Creature,Paladin
+21,Spell,Apocalypse Hypnosis
+22,Artifact,Crown
+23,Artifact,Helmet
+24,Enchantment,Deathgrip
+25,Creature,Earth Warrior Griffin
+26,Artifact,Lunar Bracers
+27,Creature,Earth Queen Orc
+28,Creature,Ghoul
+29,Creature,Spider
+30,Enchantment,Shield
+31,Spell,Burst
+32,Enchantment,Instant Gloom Shrink
+33,Enchantment,Lethargy
+34,Creature,Spider
+35,Creature,Eagle
+36,Enchantment,Lethargy
+37,Creature,Eagle
+38,Creature,Magi
+39,Enchantment,Blight
+40,Enchantment,Firebreath
+41,Enchantment,Irate Forged Deathgrip
+42,Creature,Dark Warrior Hydra
+43,Creature,Spider
+44,Creature,Paladin

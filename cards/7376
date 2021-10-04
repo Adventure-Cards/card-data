@@ -1,46 +1,46 @@
-==================,DECK,7376,Medium
-0,Spell,Common,Frost
-1,Artifact,Common,Sword
-2,Creature,Rare,Aura Undead Berserker
-3,Creature,Common,Goblin
-4,Artifact,Common,Sword
-5,Creature,Mythic,Snow Ancient Demon of Hate
-6,Spell,Legendary,Instant Maelstrom
-7,Creature,Common,Elf
-8,Creature,Rare,Frozen Thief Skin-Walker
-9,Creature,Legendary,Death Queen Giant of the Bright Mountains
-10,Creature,Common,Ghoul
-11,Enchantment,Common,Flight
-12,Creature,Common,Paladin
-13,Enchantment,Rare,Shimmering Blight
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Lethargy
-16,Spell,Rare,Corpse Invisibility
-17,Creature,Common,Paladin
-18,Creature,Common,Paladin
-19,Spell,Rare,Solar Invisibility
-20,Spell,Common,Stun
-21,Enchantment,Common,Alacrity
-22,Enchantment,Legendary,Potent Invert
-23,Creature,Common,Wolf
-24,Enchantment,Common,Haste
-25,Creature,Mythic,Light Ancient Demon of the Sky
-26,Spell,Legendary,Dire Reanimate
-27,Artifact,Common,Scythe
-28,Artifact,Common,Helmet
-29,Spell,Legendary,Extreme Gravitation
-30,Spell,Common,Fury
-31,Creature,Common,Paladin
-32,Spell,Rare,Grim Freeze
-33,Creature,Common,Wolf
-34,Creature,Legendary,Aura Warrior Giant of the Plains
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Shrink
-37,Spell,Legendary,Intense Fury
-38,Creature,Common,Elf
-39,Creature,Rare,Snow Priest Griffin
-40,Artifact,Common,Helmet
-41,Creature,Common,Dwarf
-42,Creature,Common,Wolf
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Shrink
+==================,DECK,7376
+0,Spell,Maelstrom
+1,Artifact,Sword
+2,Creature,Aura Undead Goblin
+3,Creature,Skin-Walker
+4,Artifact,Sword
+5,Creature,Snow Ancient Demon of Hate
+6,Spell,Clever Hateful Wall
+7,Creature,Warlock
+8,Creature,Frozen Thief Orc
+9,Creature,Death Queen Dwarf of the Bright Mountains
+10,Creature,Ghoul
+11,Enchantment,Invert
+12,Creature,Troll
+13,Enchantment,Solar Age
+14,Enchantment,Alacrity
+15,Enchantment,Deathgrip
+16,Spell,Forged Heal
+17,Creature,Troll
+18,Creature,Troll
+19,Spell,Necro Fire
+20,Spell,Torment
+21,Enchantment,Strength
+22,Enchantment,Irate Oblivion Blight
+23,Creature,Wolf
+24,Enchantment,Haste
+25,Creature,Light Ancient Demon of the Sky
+26,Spell,Empyrean Oblivion Torment
+27,Artifact,Scythe
+28,Artifact,Helmet
+29,Spell,Dire Lunar Stricken
+30,Spell,Assault
+31,Creature,Troll
+32,Spell,Life Freeze
+33,Creature,Wolf
+34,Creature,Aura Warrior Dwarf of the Plains
+35,Creature,Magi
+36,Enchantment,Age
+37,Spell,Clever Corpse Frenzy
+38,Creature,Warlock
+39,Creature,Snow Priest Griffin
+40,Artifact,Helmet
+41,Creature,Magi
+42,Creature,Wolf
+43,Creature,Ghoul
+44,Enchantment,Shrink

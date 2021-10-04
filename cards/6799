@@ -1,46 +1,46 @@
-==================,DECK,6799,Light
-0,Creature,Common,Eagle
-1,Creature,Rare,Frozen Priest Hydra
-2,Spell,Common,Pandemonium
-3,Spell,Legendary,Clever Invisibility
-4,Creature,Common,Ghoul
-5,Creature,Rare,Light King Skin-Walker
-6,Creature,Legendary,Dark King Orge of the Polar Woods
-7,Creature,Common,Spider
-8,Creature,Common,Wolf
-9,Enchantment,Common,Flight
-10,Creature,Common,Goblin
-11,Creature,Common,Goblin
-12,Spell,Common,Gravitation
-13,Artifact,Rare,Oblivion Shield
-14,Spell,Rare,Shimmering Hypnosis
-15,Enchantment,Rare,Dark Invert
-16,Enchantment,Common,Drain
-17,Enchantment,Rare,Forged Shield
-18,Creature,Common,Orc
-19,Spell,Common,Infuriate
-20,Enchantment,Common,Shield
-21,Spell,Common,Infuriate
-22,Creature,Rare,Light Warrior Griffin
-23,Creature,Common,Spider
-24,Creature,Common,Dwarf
-25,Spell,Common,Sorrow
-26,Creature,Legendary,Aura Warrior Cyclops of the Plains
-27,Artifact,Common,Helmet
-28,Spell,Legendary,Potent Fury
-29,Artifact,Legendary,Dire Gauntlet
-30,Enchantment,Mythic,Intense Deathgrip
-31,Creature,Rare,Aura Rogue Griffin
-32,Enchantment,Mythic,Instant Deathgrip
-33,Creature,Common,Magi
-34,Creature,Common,Dwarf
-35,Creature,Common,Dwarf
-36,Creature,Common,Paladin
-37,Creature,Common,Goblin
-38,Enchantment,Common,Shield
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Alacrity
-41,Enchantment,Mythic,Intense Alacrity
-42,Enchantment,Mythic,Mighty Invert
-43,Enchantment,Common,Age
-44,Enchantment,Common,Blight
+==================,DECK,6799
+0,Creature,Eagle
+1,Creature,Frozen Priest Hydra
+2,Spell,Ice
+3,Spell,Urgent Life Gravitation
+4,Creature,Ghoul
+5,Creature,Light King Orc
+6,Creature,Dark King Elf of the Polar Woods
+7,Creature,Paladin
+8,Creature,Wolf
+9,Enchantment,Strength
+10,Creature,Skin-Walker
+11,Creature,Skin-Walker
+12,Spell,Maelstrom
+13,Artifact,Frigid Shield
+14,Spell,Nature Infuriate
+15,Enchantment,Sorrow Shrink
+16,Enchantment,Shade
+17,Enchantment,Gloom Shield
+18,Creature,Spider
+19,Spell,Tempest
+20,Enchantment,Shield
+21,Spell,Reanimate
+22,Creature,Light Warrior Griffin
+23,Creature,Paladin
+24,Creature,Magi
+25,Spell,Revive
+26,Creature,Aura Warrior Giant of the Plains
+27,Artifact,Helmet
+28,Spell,Mighty Frigid Revive
+29,Artifact,Clever Grim Gauntlet
+30,Enchantment,Zealous Shimmering Deathgrip
+31,Creature,Aura Rogue Griffin
+32,Enchantment,Potent Shimmering Strength
+33,Creature,Fairy
+34,Creature,Magi
+35,Creature,Magi
+36,Creature,Troll
+37,Creature,Skin-Walker
+38,Enchantment,Firebreath
+39,Creature,Ghoul
+40,Enchantment,Strength
+41,Enchantment,Dire Forged Age
+42,Enchantment,Dire Sorrow Firebreath
+43,Enchantment,Strength
+44,Enchantment,Lethargy

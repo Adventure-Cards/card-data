@@ -1,46 +1,46 @@
-==================,DECK,7924,Light
-0,Creature,Mythic,Dark Undead Dragon of Illusion
-1,Creature,Common,Spider
-2,Creature,Common,Elf
-3,Creature,Common,Spider
-4,Enchantment,Mythic,Intense Alacrity
-5,Creature,Rare,Light Rogue Fairy
-6,Enchantment,Common,Invert
-7,Creature,Common,Elf
-8,Enchantment,Common,Drain
-9,Creature,Rare,Dark Merchant Skin-Walker
-10,Artifact,Rare,Shimmering Amulet
-11,Enchantment,Mythic,Mighty Alacrity
-12,Enchantment,Rare,Nimble Invert
-13,Spell,Common,Gravitation
-14,Creature,Common,Elf
-15,Spell,Common,Stun
-16,Spell,Common,Ice
-17,Creature,Common,Goblin
-18,Spell,Common,Vortex
-19,Enchantment,Common,Alacrity
-20,Spell,Common,Burst
-21,Enchantment,Common,Haste
-22,Creature,Common,Paladin
-23,Creature,Common,Warlock
-24,Creature,Rare,Frozen Undead Minotaur
-25,Creature,Rare,Earth Assassin Griffin
-26,Spell,Common,Rage
-27,Artifact,Common,Bow
-28,Spell,Common,Maelstrom
-29,Creature,Rare,Death Monk Minotaur
-30,Creature,Legendary,Frozen Priest Giant of the Black Stone
-31,Spell,Common,Stun
-32,Spell,Rare,Gloom Wall
-33,Spell,Common,Reanimate
-34,Creature,Common,Elf
-35,Creature,Mythic,Frozen Time Phoenix of the Void
-36,Creature,Common,Eagle
-37,Spell,Rare,Frigid Rage
-38,Enchantment,Rare,Nimble Lethargy
-39,Creature,Common,Warlock
-40,Creature,Common,Wolf
-41,Enchantment,Common,Flight
-42,Enchantment,Rare,Forged Agony
-43,Spell,Common,Reanimate
-44,Spell,Common,Reanimate
+==================,DECK,7924
+0,Creature,Dark Undead Dragon of Illusion
+1,Creature,Paladin
+2,Creature,Warlock
+3,Creature,Paladin
+4,Enchantment,Ardent Forged Lethargy
+5,Creature,Light Rogue Kraken
+6,Enchantment,Invert
+7,Creature,Warlock
+8,Enchantment,Shade
+9,Creature,Dark Merchant Orc
+10,Artifact,Corpse Amulet
+11,Enchantment,Instant Dark Shrink
+12,Enchantment,Shimmering Lethargy
+13,Spell,Fire
+14,Creature,Warlock
+15,Spell,Torment
+16,Spell,Ice
+17,Creature,Skin-Walker
+18,Spell,Infuriate
+19,Enchantment,Shade
+20,Spell,Gale
+21,Enchantment,Drain
+22,Creature,Troll
+23,Creature,Berserker
+24,Creature,Frozen Undead Cyclops
+25,Creature,Earth Assassin Griffin
+26,Spell,Stun
+27,Artifact,Bow
+28,Spell,Fire
+29,Creature,Death Monk Cyclops
+30,Creature,Frozen Priest Dwarf of the Black Stone
+31,Spell,Burst
+32,Spell,Cataclysmic Gravitation
+33,Spell,Assault
+34,Creature,Warlock
+35,Creature,Frozen Time Phoenix of the Void
+36,Creature,Eagle
+37,Spell,Victory Frost
+38,Enchantment,Hateful Deathgrip
+39,Creature,Berserker
+40,Creature,Wolf
+41,Enchantment,Agony
+42,Enchantment,Miracle Flight
+43,Spell,Fire
+44,Spell,Infuriate

@@ -1,46 +1,46 @@
-==================,DECK,7840,Medium
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shrink
-2,Artifact,Common,Ring
-3,Creature,Common,Goblin
-4,Spell,Rare,Apocalypse Burst
-5,Creature,Legendary,Snow Undead Oni of the Low Hills
-6,Artifact,Rare,Life Amulet
-7,Enchantment,Common,Blight
-8,Enchantment,Rare,Frigid Alacrity
-9,Enchantment,Rare,Apocalypse Flight
-10,Enchantment,Common,Drain
-11,Artifact,Common,Cloak
-12,Creature,Rare,Snow King Berserker
-13,Creature,Common,Paladin
-14,Creature,Common,Dwarf
-15,Creature,Common,Magi
-16,Spell,Common,Vortex
-17,Creature,Common,Dwarf
-18,Creature,Common,Warlock
-19,Creature,Common,Ghoul
-20,Creature,Common,Magi
-21,Creature,Common,Wolf
-22,Artifact,Common,Ring
-23,Enchantment,Rare,Life Flight
-24,Spell,Rare,Corpse Wall
-25,Spell,Common,Revive
-26,Spell,Legendary,Potent Infuriate
-27,Creature,Common,Warlock
-28,Enchantment,Common,Agony
-29,Spell,Common,Ice
-30,Enchantment,Mythic,Extreme Deathgrip
-31,Artifact,Common,Shield
-32,Creature,Rare,Light Merchant Berserker
-33,Enchantment,Rare,Miracle Blight
-34,Creature,Common,Ghoul
-35,Creature,Common,Wolf
-36,Enchantment,Rare,Necro Flight
-37,Spell,Rare,Shimmering Hypnosis
-38,Creature,Common,Orc
-39,Creature,Rare,Aura Knight Griffin
-40,Creature,Common,Spider
-41,Creature,Common,Warlock
-42,Spell,Common,Heal
-43,Enchantment,Rare,Oblivion Agony
-44,Creature,Common,Ghoul
+==================,DECK,7840
+0,Creature,Eagle
+1,Enchantment,Agony
+2,Artifact,Ring
+3,Creature,Skin-Walker
+4,Spell,Frigid Ice
+5,Creature,Snow Undead Oni of the Low Hills
+6,Artifact,Grim Amulet
+7,Enchantment,Shrink
+8,Enchantment,Apocalypse Invert
+9,Enchantment,Grim Blight
+10,Enchantment,Shield
+11,Artifact,Cloak
+12,Creature,Snow King Goblin
+13,Creature,Troll
+14,Creature,Magi
+15,Creature,Fairy
+16,Spell,Gravitation
+17,Creature,Magi
+18,Creature,Berserker
+19,Creature,Ghoul
+20,Creature,Fairy
+21,Creature,Wolf
+22,Artifact,Ring
+23,Enchantment,Grim Haste
+24,Spell,Necro Gravitation
+25,Spell,Burn
+26,Spell,Potent Victory Torment
+27,Creature,Berserker
+28,Enchantment,Shade
+29,Spell,Burst
+30,Enchantment,Clever Sorrow Shield
+31,Artifact,Shield
+32,Creature,Light Merchant Goblin
+33,Enchantment,Nimble Shade
+34,Creature,Ghoul
+35,Creature,Wolf
+36,Enchantment,Hateful Deathgrip
+37,Spell,Shimmering Burst
+38,Creature,Spider
+39,Creature,Aura Knight Griffin
+40,Creature,Paladin
+41,Creature,Berserker
+42,Spell,Fire
+43,Enchantment,Life Shade
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,7020,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Magi
-2,Artifact,Common,Crown
-3,Enchantment,Mythic,Clever Drain
-4,Enchantment,Common,Flight
-5,Creature,Mythic,Earth Undead Dragon of the Shadows
-6,Enchantment,Common,Haste
-7,Spell,Legendary,Extreme Ice
-8,Spell,Rare,Forged Frenzy
-9,Spell,Common,Maelstrom
-10,Artifact,Common,Helm
-11,Enchantment,Mythic,Extreme Deathgrip
-12,Enchantment,Common,Shrink
-13,Spell,Common,Vortex
-14,Creature,Common,Dwarf
-15,Creature,Rare,Snow Undead Minotaur
-16,Creature,Common,Ghoul
-17,Enchantment,Common,Blight
-18,Creature,Legendary,Snow Merchant Orge of the Eastern Skies
-19,Enchantment,Common,Shrink
-20,Enchantment,Legendary,Instant Strength
-21,Creature,Legendary,Death Assassin Kraken of the Golden Palace
-22,Artifact,Rare,Gloom Helm
-23,Artifact,Common,Staff
-24,Enchantment,Common,Strength
-25,Creature,Common,Spider
-26,Spell,Common,Ice
-27,Creature,Common,Orc
-28,Enchantment,Rare,Life Drain
-29,Enchantment,Common,Haste
-30,Spell,Rare,Necro Fury
-31,Enchantment,Common,Age
-32,Spell,Common,Frenzy
-33,Enchantment,Legendary,Instant Flight
-34,Artifact,Common,Ghost Wand
-35,Spell,Legendary,Clever Maelstrom
-36,Creature,Common,Orc
-37,Creature,Common,Magi
-38,Creature,Rare,Death Queen Hydra
-39,Artifact,Rare,Frigid Gauntlet
-40,Creature,Common,Dwarf
-41,Creature,Legendary,Dark Thief Cyclops of the Polar Woods
-42,Creature,Common,Warlock
-43,Creature,Rare,Frozen Priest Minotaur
-44,Spell,Legendary,Potent Burn
+==================,DECK,7020
+0,Creature,Magi
+1,Creature,Fairy
+2,Artifact,Crown
+3,Enchantment,Potent Apocalypse Drain
+4,Enchantment,Deathgrip
+5,Creature,Earth Undead Dragon of the Shadows
+6,Enchantment,Drain
+7,Spell,Mighty Miracle Burn
+8,Spell,Miracle Lightning
+9,Spell,Gale
+10,Artifact,Helm
+11,Enchantment,Zealous Sorrow Alacrity
+12,Enchantment,Shrink
+13,Spell,Vortex
+14,Creature,Magi
+15,Creature,Snow Undead Cyclops
+16,Creature,Ghoul
+17,Enchantment,Firebreath
+18,Creature,Snow Merchant Elf of the Eastern Skies
+19,Enchantment,Shield
+20,Enchantment,Dire Solar Age
+21,Creature,Death Assassin Ogre of the Golden Palace
+22,Artifact,Sorrow Helm
+23,Artifact,Staff
+24,Enchantment,Shield
+25,Creature,Paladin
+26,Spell,Infuriate
+27,Creature,Spider
+28,Enchantment,Apocalypse Invert
+29,Enchantment,Shade
+30,Spell,Forged Lightning
+31,Enchantment,Alacrity
+32,Spell,Heal
+33,Enchantment,Clever Hateful Lethargy
+34,Artifact,Ghost Wand
+35,Spell,Zealous Grim Gale
+36,Creature,Spider
+37,Creature,Fairy
+38,Creature,Death Queen Hydra
+39,Artifact,Nimble Gauntlet
+40,Creature,Magi
+41,Creature,Dark Thief Giant of the Polar Woods
+42,Creature,Berserker
+43,Creature,Frozen Priest Cyclops
+44,Spell,Clever Nimble Burn

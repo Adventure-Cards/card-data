@@ -1,46 +1,46 @@
-==================,DECK,7162,Light
-0,Artifact,Common,Cloak
-1,Creature,Common,Ghoul
-2,Creature,Common,Warlock
-3,Creature,Rare,Aura Merchant Berserker
-4,Creature,Common,Ghoul
-5,Artifact,Common,Ghost Wand
-6,Creature,Common,Warlock
-7,Spell,Legendary,Intense Revive
-8,Creature,Common,Goblin
-9,Spell,Common,Infuriate
-10,Enchantment,Common,Drain
-11,Creature,Common,Elf
-12,Creature,Common,Orc
-13,Creature,Mythic,Death Nameless Dragon of the Dead
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Flight
-16,Enchantment,Common,Strength
-17,Spell,Common,Sorrow
-18,Enchantment,Common,Agony
-19,Creature,Common,Dwarf
-20,Creature,Mythic,Aura Undead Dragon of the Light
-21,Creature,Common,Warlock
-22,Artifact,Common,Potion
-23,Enchantment,Common,Strength
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Orc
-26,Creature,Common,Eagle
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Eagle
-29,Spell,Common,Reanimate
-30,Creature,Legendary,Snow Merchant Oni of the Golden Palace
-31,Artifact,Common,Ring
-32,Spell,Common,Revive
-33,Artifact,Common,Sigil
-34,Creature,Common,Warlock
-35,Spell,Legendary,Intense Hypnosis
-36,Enchantment,Common,Shrink
-37,Creature,Common,Elf
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Blight
-40,Spell,Rare,Nature Stricken
-41,Creature,Legendary,Aura Monk Kraken of the Border
-42,Enchantment,Common,Haste
-43,Spell,Rare,Apocalypse Fury
-44,Spell,Common,Wall
+==================,DECK,7162
+0,Artifact,Cloak
+1,Creature,Ghoul
+2,Creature,Berserker
+3,Creature,Aura Merchant Goblin
+4,Creature,Ghoul
+5,Artifact,Ghost Wand
+6,Creature,Berserker
+7,Spell,Dire Solar Torment
+8,Creature,Skin-Walker
+9,Spell,Burn
+10,Enchantment,Alacrity
+11,Creature,Warlock
+12,Creature,Spider
+13,Creature,Death Nameless Dragon of the Dead
+14,Enchantment,Invert
+15,Enchantment,Drain
+16,Enchantment,Shield
+17,Spell,Hypnosis
+18,Enchantment,Age
+19,Creature,Magi
+20,Creature,Aura Undead Dragon of the Light
+21,Creature,Berserker
+22,Artifact,Potion
+23,Enchantment,Invert
+24,Enchantment,Strength
+25,Creature,Spider
+26,Creature,Eagle
+27,Enchantment,Agony
+28,Creature,Eagle
+29,Spell,Hypnosis
+30,Creature,Snow Merchant Oni of the Golden Palace
+31,Artifact,Ring
+32,Spell,Gale
+33,Artifact,Sigil
+34,Creature,Berserker
+35,Spell,Zealous Corpse Revive
+36,Enchantment,Blight
+37,Creature,Warlock
+38,Creature,Magi
+39,Enchantment,Shrink
+40,Spell,Shimmering Burst
+41,Creature,Aura Monk Ogre of the Border
+42,Enchantment,Agony
+43,Spell,Apocalypse Vortex
+44,Spell,Hypnosis

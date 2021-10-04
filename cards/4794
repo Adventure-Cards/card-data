@@ -1,46 +1,46 @@
-==================,DECK,4794,Medium
-0,Creature,Rare,Aura Warrior Hydra
-1,Spell,Rare,Forged Invisibility
-2,Creature,Rare,Light Lord Skin-Walker
-3,Creature,Rare,Death Undead Skin-Walker
-4,Enchantment,Common,Shield
-5,Creature,Common,Dwarf
-6,Creature,Legendary,Earth Undead Kraken of the Bright Mountains
-7,Spell,Common,Rage
-8,Creature,Common,Elf
-9,Creature,Rare,Frozen Merchant Fairy
-10,Creature,Common,Magi
-11,Spell,Mythic,Dire Stun
-12,Creature,Legendary,Dark Lord Orge of the Black Stone
-13,Spell,Common,Infuriate
-14,Creature,Mythic,Earth Chaos Wizard of the Shadows
-15,Creature,Rare,Earth Thief Berserker
-16,Creature,Legendary,Earth Rogue Oni of the Plains
-17,Artifact,Common,Bow
-18,Enchantment,Common,Deathgrip
-19,Creature,Common,Orc
-20,Creature,Rare,Aura Assassin Skin-Walker
-21,Enchantment,Common,Invert
-22,Creature,Rare,Frozen King Fairy
-23,Creature,Legendary,Dark Fighter Giant of the Frozen Castle
-24,Enchantment,Rare,Gloom Alacrity
-25,Creature,Common,Ghoul
-26,Spell,Rare,Nature Hypnosis
-27,Spell,Rare,Grim Assault
-28,Creature,Common,Dwarf
-29,Creature,Common,Ghoul
-30,Spell,Legendary,Extreme Frost
-31,Spell,Common,Wall
-32,Enchantment,Common,Age
-33,Enchantment,Mythic,Extreme Strength
-34,Artifact,Common,Sword
-35,Creature,Common,Orc
-36,Creature,Legendary,Aura Monk Cyclops of the Eastern Skies
-37,Creature,Rare,Earth Knight Skin-Walker
-38,Artifact,Rare,Solar Potion
-39,Enchantment,Common,Invert
-40,Spell,Common,Fury
-41,Spell,Legendary,Instant Frenzy
-42,Creature,Common,Orc
-43,Creature,Common,Goblin
-44,Enchantment,Common,Drain
+==================,DECK,4794
+0,Creature,Aura Warrior Hydra
+1,Spell,Cataclysmic Infuriate
+2,Creature,Light Lord Orc
+3,Creature,Death Undead Orc
+4,Enchantment,Lethargy
+5,Creature,Magi
+6,Creature,Earth Undead Ogre of the Bright Mountains
+7,Spell,Rage
+8,Creature,Warlock
+9,Creature,Frozen Merchant Kraken
+10,Creature,Fairy
+11,Spell,Potent Grim Sorrow
+12,Creature,Dark Lord Elf of the Black Stone
+13,Spell,Tempest
+14,Creature,Earth Chaos Wizard of the Shadows
+15,Creature,Earth Thief Goblin
+16,Creature,Earth Rogue Oni of the Plains
+17,Artifact,Bow
+18,Enchantment,Drain
+19,Creature,Spider
+20,Creature,Aura Assassin Orc
+21,Enchantment,Invert
+22,Creature,Frozen King Kraken
+23,Creature,Dark Fighter Dwarf of the Frozen Castle
+24,Enchantment,Dark Shield
+25,Creature,Ghoul
+26,Spell,Forged Freeze
+27,Spell,Victory Assault
+28,Creature,Magi
+29,Creature,Ghoul
+30,Spell,Instant Dark Gravitation
+31,Spell,Heal
+32,Enchantment,Shade
+33,Enchantment,Irate Cataclysmic Alacrity
+34,Artifact,Sword
+35,Creature,Spider
+36,Creature,Aura Monk Giant of the Eastern Skies
+37,Creature,Earth Knight Orc
+38,Artifact,Hateful Potion
+39,Enchantment,Deathgrip
+40,Spell,Reanimate
+41,Spell,Ardent Nature Fireball
+42,Creature,Spider
+43,Creature,Skin-Walker
+44,Enchantment,Flight

@@ -1,46 +1,46 @@
-==================,DECK,4910,Light
-0,Creature,Legendary,Death Merchant Oni of the Eastern Skies
-1,Enchantment,Common,Strength
-2,Creature,Common,Elf
-3,Enchantment,Rare,Miracle Blight
-4,Creature,Rare,Light Lord Minotaur
-5,Enchantment,Common,Shrink
-6,Creature,Common,Orc
-7,Enchantment,Common,Haste
-8,Creature,Legendary,Snow Thief Kraken of the Bright Mountains
-9,Artifact,Legendary,Instant Ghost Wand
-10,Creature,Common,Orc
-11,Artifact,Common,Cloak
-12,Spell,Common,Pandemonium
-13,Creature,Legendary,Aura Knight Cyclops of the Frozen Castle
-14,Creature,Common,Wolf
-15,Creature,Common,Goblin
-16,Creature,Common,Ghoul
-17,Enchantment,Mythic,Intense Drain
-18,Spell,Rare,Life Burst
-19,Creature,Legendary,Aura Monk Kraken of the Mountains
-20,Enchantment,Common,Drain
-21,Enchantment,Common,Shrink
-22,Spell,Common,Hypnosis
-23,Spell,Common,Revive
-24,Creature,Common,Elf
-25,Creature,Common,Magi
-26,Artifact,Common,Scepter
-27,Spell,Common,Gravitation
-28,Creature,Common,Wolf
-29,Enchantment,Common,Flight
-30,Artifact,Common,Gauntlet
-31,Spell,Common,Wall
-32,Creature,Common,Ghoul
-33,Artifact,Legendary,Dire Sigil
-34,Creature,Common,Goblin
-35,Spell,Common,Torment
-36,Creature,Common,Wolf
-37,Spell,Common,Gravitation
-38,Artifact,Rare,Frigid Greaves
-39,Creature,Rare,Snow Monk Minotaur
-40,Creature,Legendary,Aura Undead Oni of the Eastern Skies
-41,Creature,Rare,Death Lord Skin-Walker
-42,Spell,Rare,Cataclysmic Ice
-43,Creature,Common,Spider
-44,Artifact,Common,Sword
+==================,DECK,4910
+0,Creature,Death Merchant Oni of the Eastern Skies
+1,Enchantment,Alacrity
+2,Creature,Warlock
+3,Enchantment,Nimble Blight
+4,Creature,Light Lord Cyclops
+5,Enchantment,Strength
+6,Creature,Spider
+7,Enchantment,Invert
+8,Creature,Snow Thief Ogre of the Bright Mountains
+9,Artifact,Mighty Hateful Ghost Wand
+10,Creature,Spider
+11,Artifact,Cloak
+12,Spell,Invisibility
+13,Creature,Aura Knight Giant of the Frozen Castle
+14,Creature,Wolf
+15,Creature,Skin-Walker
+16,Creature,Ghoul
+17,Enchantment,Empyrean Forged Age
+18,Spell,Life Vortex
+19,Creature,Aura Monk Ogre of the Mountains
+20,Enchantment,Invert
+21,Enchantment,Agony
+22,Spell,Torment
+23,Spell,Stun
+24,Creature,Warlock
+25,Creature,Fairy
+26,Artifact,Scepter
+27,Spell,Gale
+28,Creature,Wolf
+29,Enchantment,Age
+30,Artifact,Gauntlet
+31,Spell,Heal
+32,Creature,Ghoul
+33,Artifact,Urgent Apocalypse Sigil
+34,Creature,Skin-Walker
+35,Spell,Assault
+36,Creature,Wolf
+37,Spell,Fury
+38,Artifact,Oblivion Greaves
+39,Creature,Snow Monk Cyclops
+40,Creature,Aura Undead Oni of the Eastern Skies
+41,Creature,Death Lord Orc
+42,Spell,Sorrow Sorrow
+43,Creature,Paladin
+44,Artifact,Sword

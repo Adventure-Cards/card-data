@@ -1,46 +1,46 @@
-==================,DECK,6372,Medium
-0,Spell,Common,Gale
-1,Creature,Common,Goblin
-2,Spell,Common,Stun
-3,Creature,Mythic,Dark Time Phoenix of Illusion
-4,Creature,Rare,Frozen Fighter Griffin
-5,Creature,Rare,Earth King Hydra
-6,Creature,Common,Orc
-7,Spell,Common,Fury
-8,Creature,Common,Warlock
-9,Artifact,Common,Tome
-10,Creature,Common,Magi
-11,Spell,Common,Pandemonium
-12,Spell,Common,Hypnosis
-13,Creature,Rare,Aura Queen Griffin
-14,Creature,Common,Eagle
-15,Spell,Common,Lightning
-16,Creature,Rare,Death Undead Fairy
-17,Creature,Common,Wolf
-18,Creature,Rare,Frozen Rogue Hydra
-19,Artifact,Common,Sword
-20,Artifact,Common,Potion
-21,Enchantment,Rare,Cataclysmic Flight
-22,Enchantment,Common,Strength
-23,Creature,Rare,Snow Assassin Hydra
-24,Creature,Common,Warlock
-25,Creature,Common,Eagle
-26,Creature,Rare,Snow Undead Fairy
-27,Creature,Legendary,Death King Orge of the Eternal Land
-28,Enchantment,Common,Blight
-29,Spell,Rare,Miracle Fury
-30,Creature,Common,Eagle
-31,Enchantment,Rare,Dark Shield
-32,Creature,Common,Orc
-33,Creature,Common,Wolf
-34,Spell,Rare,Gloom Frost
-35,Artifact,Common,Bow
-36,Enchantment,Mythic,Dire Shield
-37,Spell,Common,Pandemonium
-38,Enchantment,Common,Shade
-39,Spell,Mythic,Urgent Invisibility
-40,Enchantment,Rare,Frigid Shade
-41,Creature,Common,Ghoul
-42,Creature,Legendary,Light Warrior Giant of the Arctic Blizzards
-43,Creature,Mythic,Frozen Nameless Phoenix of the Void
-44,Creature,Rare,Aura Thief Berserker
+==================,DECK,6372
+0,Spell,Gale
+1,Creature,Skin-Walker
+2,Spell,Stun
+3,Creature,Dark Time Phoenix of Illusion
+4,Creature,Frozen Fighter Griffin
+5,Creature,Earth King Hydra
+6,Creature,Spider
+7,Spell,Sorrow
+8,Creature,Berserker
+9,Artifact,Tome
+10,Creature,Fairy
+11,Spell,Assault
+12,Spell,Assault
+13,Creature,Aura Queen Griffin
+14,Creature,Eagle
+15,Spell,Vortex
+16,Creature,Death Undead Kraken
+17,Creature,Wolf
+18,Creature,Frozen Rogue Hydra
+19,Artifact,Sword
+20,Artifact,Potion
+21,Enchantment,Lunar Alacrity
+22,Enchantment,Shrink
+23,Creature,Snow Assassin Hydra
+24,Creature,Berserker
+25,Creature,Eagle
+26,Creature,Snow Undead Kraken
+27,Creature,Death King Elf of the Eternal Land
+28,Enchantment,Shield
+29,Spell,Nimble Freeze
+30,Creature,Eagle
+31,Enchantment,Gloom Alacrity
+32,Creature,Spider
+33,Creature,Wolf
+34,Spell,Dark Fireball
+35,Artifact,Bow
+36,Enchantment,Irate Victory Blight
+37,Spell,Invisibility
+38,Enchantment,Deathgrip
+39,Spell,Urgent Solar Heal
+40,Enchantment,Frigid Shade
+41,Creature,Ghoul
+42,Creature,Light Warrior Dwarf of the Arctic Blizzards
+43,Creature,Frozen Nameless Phoenix of the Void
+44,Creature,Aura Thief Goblin

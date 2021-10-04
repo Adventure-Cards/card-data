@@ -1,46 +1,46 @@
-==================,DECK,7930,Light
-0,Enchantment,Common,Strength
-1,Spell,Common,Sorrow
-2,Creature,Common,Wolf
-3,Artifact,Common,Shield
-4,Artifact,Rare,Nature Divine Robe
-5,Creature,Common,Wolf
-6,Enchantment,Common,Invert
-7,Creature,Common,Eagle
-8,Spell,Common,Vortex
-9,Spell,Common,Burn
-10,Creature,Common,Ghoul
-11,Enchantment,Common,Haste
-12,Enchantment,Common,Haste
-13,Enchantment,Rare,Gloom Shade
-14,Artifact,Common,Scythe
-15,Artifact,Rare,Oblivion Scythe
-16,Enchantment,Common,Strength
-17,Enchantment,Common,Age
-18,Artifact,Common,Pendant
-19,Artifact,Rare,Corpse Gauntlet
-20,Spell,Common,Burst
-21,Creature,Mythic,Aura Ancient Wizard of the Light
-22,Spell,Rare,Lunar Fury
-23,Spell,Legendary,Urgent Torment
-24,Spell,Common,Vortex
-25,Creature,Common,Eagle
-26,Spell,Common,Rage
-27,Artifact,Common,Ring
-28,Creature,Common,Magi
-29,Spell,Common,Rage
-30,Creature,Legendary,Snow Lord Giant of the Plains
-31,Creature,Common,Dwarf
-32,Creature,Common,Elf
-33,Enchantment,Common,Agony
-34,Artifact,Common,Staff
-35,Enchantment,Common,Flight
-36,Spell,Common,Pandemonium
-37,Creature,Common,Wolf
-38,Enchantment,Common,Age
-39,Spell,Legendary,Clever Hypnosis
-40,Creature,Common,Spider
-41,Enchantment,Common,Drain
-42,Creature,Common,Eagle
-43,Spell,Common,Reanimate
-44,Enchantment,Common,Haste
+==================,DECK,7930
+0,Enchantment,Deathgrip
+1,Spell,Burst
+2,Creature,Wolf
+3,Artifact,Shield
+4,Artifact,Nature Divine Robe
+5,Creature,Wolf
+6,Enchantment,Alacrity
+7,Creature,Eagle
+8,Spell,Sorrow
+9,Spell,Fire
+10,Creature,Ghoul
+11,Enchantment,Firebreath
+12,Enchantment,Deathgrip
+13,Enchantment,Chimeric Firebreath
+14,Artifact,Scythe
+15,Artifact,Frigid Scythe
+16,Enchantment,Firebreath
+17,Enchantment,Blight
+18,Artifact,Pendant
+19,Artifact,Corpse Gauntlet
+20,Spell,Stricken
+21,Creature,Aura Ancient Wizard of the Light
+22,Spell,Miracle Ice
+23,Spell,Urgent Forged Stricken
+24,Spell,Freeze
+25,Creature,Eagle
+26,Spell,Fury
+27,Artifact,Ring
+28,Creature,Fairy
+29,Spell,Invisibility
+30,Creature,Snow Lord Dwarf of the Plains
+31,Creature,Magi
+32,Creature,Warlock
+33,Enchantment,Strength
+34,Artifact,Staff
+35,Enchantment,Invert
+36,Spell,Revive
+37,Creature,Wolf
+38,Enchantment,Invert
+39,Spell,Potent Frigid Vortex
+40,Creature,Paladin
+41,Enchantment,Blight
+42,Creature,Eagle
+43,Spell,Assault
+44,Enchantment,Shield

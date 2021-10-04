@@ -1,46 +1,46 @@
-==================,DECK,5496,Medium
-0,Creature,Legendary,Light Warrior Oni of the Low Hills
-1,Spell,Common,Wall
-2,Creature,Rare,Frozen Assassin Berserker
-3,Creature,Mythic,Frozen Undead Phoenix of the Void
-4,Enchantment,Common,Blight
-5,Creature,Rare,Dark King Hydra
-6,Enchantment,Common,Invert
-7,Creature,Common,Warlock
-8,Creature,Common,Magi
-9,Enchantment,Common,Alacrity
-10,Creature,Rare,Death Knight Skin-Walker
-11,Creature,Rare,Aura Rogue Berserker
-12,Enchantment,Rare,Cataclysmic Shrink
-13,Enchantment,Common,Shield
-14,Enchantment,Common,Shade
-15,Artifact,Legendary,Intense Cloak
-16,Creature,Common,Elf
-17,Creature,Common,Ghoul
-18,Spell,Common,Freeze
-19,Creature,Common,Goblin
-20,Spell,Rare,Shimmering Reanimate
-21,Artifact,Legendary,Urgent Staff
-22,Spell,Rare,Solar Rage
-23,Spell,Rare,Hateful Sorrow
-24,Creature,Common,Wolf
-25,Enchantment,Common,Blight
-26,Creature,Common,Eagle
-27,Spell,Common,Infuriate
-28,Creature,Rare,Earth Monk Minotaur
-29,Creature,Rare,Frozen King Griffin
-30,Creature,Mythic,Death Grand Wizard of the Dead
-31,Spell,Common,Assault
-32,Creature,Common,Ghoul
-33,Artifact,Rare,Oblivion Ring
-34,Creature,Rare,Dark Warrior Skin-Walker
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Blight
-37,Creature,Rare,Dark Thief Minotaur
-38,Spell,Rare,Solar Revive
-39,Creature,Common,Warlock
-40,Creature,Mythic,Death Chaos Demon of the Dead
-41,Enchantment,Common,Lethargy
-42,Spell,Common,Invisibility
-43,Enchantment,Mythic,Urgent Drain
-44,Spell,Rare,Miracle Hypnosis
+==================,DECK,5496
+0,Creature,Light Warrior Oni of the Low Hills
+1,Spell,Lightning
+2,Creature,Frozen Assassin Goblin
+3,Creature,Frozen Undead Phoenix of the Void
+4,Enchantment,Flight
+5,Creature,Dark King Hydra
+6,Enchantment,Firebreath
+7,Creature,Berserker
+8,Creature,Fairy
+9,Enchantment,Agony
+10,Creature,Death Knight Orc
+11,Creature,Aura Rogue Goblin
+12,Enchantment,Chimeric Alacrity
+13,Enchantment,Alacrity
+14,Enchantment,Shrink
+15,Artifact,Clever Nature Cloak
+16,Creature,Warlock
+17,Creature,Ghoul
+18,Spell,Lightning
+19,Creature,Skin-Walker
+20,Spell,Hateful Fireball
+21,Artifact,Zealous Nature Staff
+22,Spell,Solar Fury
+23,Spell,Lunar Reanimate
+24,Creature,Wolf
+25,Enchantment,Invert
+26,Creature,Eagle
+27,Spell,Gravitation
+28,Creature,Earth Monk Cyclops
+29,Creature,Frozen King Griffin
+30,Creature,Death Grand Wizard of the Dead
+31,Spell,Stun
+32,Creature,Ghoul
+33,Artifact,Apocalypse Ring
+34,Creature,Dark Warrior Orc
+35,Creature,Magi
+36,Enchantment,Firebreath
+37,Creature,Dark Thief Cyclops
+38,Spell,Nature Sorrow
+39,Creature,Berserker
+40,Creature,Death Chaos Demon of the Dead
+41,Enchantment,Shield
+42,Spell,Burst
+43,Enchantment,Empyrean Forged Age
+44,Spell,Nimble Stun

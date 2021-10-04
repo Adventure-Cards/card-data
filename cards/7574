@@ -1,46 +1,46 @@
-==================,DECK,7574,Light
-0,Artifact,Common,Shield
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Drain
-3,Enchantment,Rare,Frigid Shade
-4,Creature,Rare,Aura Queen Fairy
-5,Enchantment,Legendary,Instant Shield
-6,Enchantment,Common,Age
-7,Creature,Common,Dwarf
-8,Creature,Legendary,Frozen Undead Giant of the Black Stone
-9,Enchantment,Mythic,Urgent Shrink
-10,Spell,Rare,Cataclysmic Maelstrom
-11,Enchantment,Rare,Oblivion Invert
-12,Creature,Legendary,Earth Priest Oni of the Swamp
-13,Creature,Legendary,Aura Queen Oni of the Eastern Skies
-14,Creature,Rare,Snow Fighter Hydra
-15,Spell,Common,Burn
-16,Spell,Common,Pandemonium
-17,Artifact,Common,Bow
-18,Spell,Common,Sorrow
-19,Artifact,Common,Amulet
-20,Spell,Rare,Solar Vortex
-21,Spell,Rare,Life Hypnosis
-22,Artifact,Legendary,Mighty Amulet
-23,Enchantment,Common,Drain
-24,Creature,Common,Ghoul
-25,Creature,Common,Elf
-26,Artifact,Common,Sword
-27,Creature,Common,Magi
-28,Spell,Common,Fury
-29,Enchantment,Common,Age
-30,Creature,Common,Wolf
-31,Creature,Common,Spider
-32,Spell,Rare,Nature Infuriate
-33,Creature,Rare,Aura Fighter Griffin
-34,Spell,Common,Burn
-35,Creature,Common,Magi
-36,Creature,Common,Warlock
-37,Creature,Common,Warlock
-38,Creature,Legendary,Death Queen Oni of the Eastern Skies
-39,Spell,Common,Wall
-40,Spell,Common,Frenzy
-41,Creature,Legendary,Frozen Undead Oni of the Arctic Blizzards
-42,Artifact,Common,Staff
-43,Creature,Rare,Aura Merchant Hydra
-44,Spell,Common,Fury
+==================,DECK,7574
+0,Artifact,Shield
+1,Creature,Ghoul
+2,Enchantment,Blight
+3,Enchantment,Frigid Drain
+4,Creature,Aura Queen Kraken
+5,Enchantment,Irate Nature Deathgrip
+6,Enchantment,Shrink
+7,Creature,Magi
+8,Creature,Frozen Undead Dwarf of the Black Stone
+9,Enchantment,Zealous Necro Deathgrip
+10,Spell,Gloom Reanimate
+11,Enchantment,Oblivion Drain
+12,Creature,Earth Priest Oni of the Swamp
+13,Creature,Aura Queen Oni of the Eastern Skies
+14,Creature,Snow Fighter Hydra
+15,Spell,Stun
+16,Spell,Torment
+17,Artifact,Bow
+18,Spell,Infuriate
+19,Artifact,Amulet
+20,Spell,Nature Wall
+21,Spell,Grim Stricken
+22,Artifact,Urgent Chimeric Amulet
+23,Enchantment,Alacrity
+24,Creature,Ghoul
+25,Creature,Warlock
+26,Artifact,Sword
+27,Creature,Fairy
+28,Spell,Infuriate
+29,Enchantment,Drain
+30,Creature,Wolf
+31,Creature,Paladin
+32,Spell,Solar Revive
+33,Creature,Aura Fighter Griffin
+34,Spell,Pandemonium
+35,Creature,Fairy
+36,Creature,Berserker
+37,Creature,Berserker
+38,Creature,Death Queen Oni of the Eastern Skies
+39,Spell,Freeze
+40,Spell,Tempest
+41,Creature,Frozen Undead Oni of the Arctic Blizzards
+42,Artifact,Staff
+43,Creature,Aura Merchant Hydra
+44,Spell,Vortex

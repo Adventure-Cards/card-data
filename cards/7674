@@ -1,46 +1,46 @@
-==================,DECK,7674,Light
-0,Creature,Mythic,Light Time Phoenix of the Sky
-1,Creature,Common,Dwarf
-2,Spell,Rare,Gloom Gravitation
-3,Creature,Common,Magi
-4,Creature,Common,Dwarf
-5,Creature,Common,Eagle
-6,Spell,Common,Burst
-7,Enchantment,Common,Drain
-8,Creature,Common,Eagle
-9,Enchantment,Common,Haste
-10,Artifact,Common,Helmet
-11,Enchantment,Rare,Hateful Haste
-12,Spell,Common,Fury
-13,Spell,Common,Hypnosis
-14,Spell,Common,Freeze
-15,Enchantment,Common,Shrink
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Elf
-18,Creature,Common,Wolf
-19,Creature,Legendary,Frozen Priest Kraken of the Magical Forest
-20,Creature,Common,Paladin
-21,Creature,Common,Spider
-22,Creature,Common,Ghoul
-23,Artifact,Rare,Frigid Bracers
-24,Artifact,Common,Helm
-25,Creature,Common,Wolf
-26,Artifact,Common,Belt
-27,Enchantment,Mythic,Urgent Drain
-28,Creature,Rare,Frozen Fighter Hydra
-29,Creature,Common,Wolf
-30,Spell,Common,Invisibility
-31,Artifact,Rare,Cataclysmic Potion
-32,Creature,Common,Magi
-33,Enchantment,Mythic,Potent Agony
-34,Creature,Common,Dwarf
-35,Creature,Common,Magi
-36,Creature,Common,Goblin
-37,Creature,Legendary,Snow Thief Oni of the Low Hills
-38,Enchantment,Common,Shade
-39,Spell,Common,Fury
-40,Creature,Common,Ghoul
-41,Enchantment,Rare,Lunar Drain
-42,Creature,Common,Elf
-43,Artifact,Rare,Apocalypse Sigil
-44,Creature,Common,Ghoul
+==================,DECK,7674
+0,Creature,Light Time Phoenix of the Sky
+1,Creature,Magi
+2,Spell,Lunar Burst
+3,Creature,Fairy
+4,Creature,Magi
+5,Creature,Eagle
+6,Spell,Burn
+7,Enchantment,Shrink
+8,Creature,Eagle
+9,Enchantment,Agony
+10,Artifact,Helmet
+11,Enchantment,Miracle Shrink
+12,Spell,Torment
+13,Spell,Infuriate
+14,Spell,Fireball
+15,Enchantment,Invert
+16,Enchantment,Shield
+17,Creature,Warlock
+18,Creature,Wolf
+19,Creature,Frozen Priest Ogre of the Magical Forest
+20,Creature,Troll
+21,Creature,Paladin
+22,Creature,Ghoul
+23,Artifact,Nimble Bracers
+24,Artifact,Helm
+25,Creature,Wolf
+26,Artifact,Belt
+27,Enchantment,Empyrean Forged Age
+28,Creature,Frozen Fighter Hydra
+29,Creature,Wolf
+30,Spell,Stun
+31,Artifact,Lunar Potion
+32,Creature,Fairy
+33,Enchantment,Dire Life Shade
+34,Creature,Magi
+35,Creature,Fairy
+36,Creature,Skin-Walker
+37,Creature,Snow Thief Oni of the Low Hills
+38,Enchantment,Shade
+39,Spell,Heal
+40,Creature,Ghoul
+41,Enchantment,Dark Firebreath
+42,Creature,Warlock
+43,Artifact,Victory Sigil
+44,Creature,Ghoul

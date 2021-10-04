@@ -1,46 +1,46 @@
-==================,DECK,5232,Light
-0,Enchantment,Common,Age
-1,Creature,Common,Spider
-2,Creature,Common,Ghoul
-3,Artifact,Rare,Dark Tome
-4,Creature,Rare,Light Queen Berserker
-5,Artifact,Common,Helmet
-6,Enchantment,Common,Flight
-7,Creature,Rare,Snow Assassin Hydra
-8,Artifact,Common,Greaves
-9,Artifact,Common,Helm
-10,Spell,Rare,Lunar Sorrow
-11,Spell,Common,Vortex
-12,Spell,Common,Frost
-13,Creature,Common,Wolf
-14,Spell,Common,Sorrow
-15,Spell,Rare,Nature Gale
-16,Creature,Common,Warlock
-17,Spell,Common,Burst
-18,Creature,Common,Wolf
-19,Enchantment,Common,Agony
-20,Spell,Common,Assault
-21,Enchantment,Common,Deathgrip
-22,Artifact,Common,Amulet
-23,Enchantment,Common,Shade
-24,Creature,Mythic,Dark Chaos Demon of Illusion
-25,Creature,Common,Wolf
-26,Enchantment,Common,Strength
-27,Creature,Legendary,Frozen Warrior Orge of the Bright Mountains
-28,Enchantment,Common,Shield
-29,Enchantment,Rare,Life Shrink
-30,Creature,Common,Elf
-31,Enchantment,Common,Alacrity
-32,Creature,Mythic,Light Grand Demon of the Sky
-33,Creature,Common,Wolf
-34,Creature,Common,Ghoul
-35,Creature,Common,Spider
-36,Creature,Rare,Aura Monk Griffin
-37,Creature,Common,Dwarf
-38,Creature,Common,Elf
-39,Creature,Common,Eagle
-40,Creature,Mythic,Snow Ancient Wizard of Hate
-41,Creature,Common,Warlock
-42,Creature,Rare,Aura Monk Skin-Walker
-43,Creature,Rare,Aura Rogue Berserker
-44,Enchantment,Common,Alacrity
+==================,DECK,5232
+0,Enchantment,Blight
+1,Creature,Paladin
+2,Creature,Ghoul
+3,Artifact,Gloom Tome
+4,Creature,Light Queen Goblin
+5,Artifact,Helmet
+6,Enchantment,Strength
+7,Creature,Snow Assassin Hydra
+8,Artifact,Greaves
+9,Artifact,Helm
+10,Spell,Dark Lightning
+11,Spell,Maelstrom
+12,Spell,Frost
+13,Creature,Wolf
+14,Spell,Assault
+15,Spell,Solar Invisibility
+16,Creature,Berserker
+17,Spell,Freeze
+18,Creature,Wolf
+19,Enchantment,Deathgrip
+20,Spell,Freeze
+21,Enchantment,Alacrity
+22,Artifact,Amulet
+23,Enchantment,Strength
+24,Creature,Dark Chaos Demon of Illusion
+25,Creature,Wolf
+26,Enchantment,Blight
+27,Creature,Frozen Warrior Elf of the Bright Mountains
+28,Enchantment,Shrink
+29,Enchantment,Frigid Shade
+30,Creature,Warlock
+31,Enchantment,Agony
+32,Creature,Light Grand Demon of the Sky
+33,Creature,Wolf
+34,Creature,Ghoul
+35,Creature,Paladin
+36,Creature,Aura Monk Griffin
+37,Creature,Magi
+38,Creature,Warlock
+39,Creature,Eagle
+40,Creature,Snow Ancient Wizard of Hate
+41,Creature,Berserker
+42,Creature,Aura Monk Orc
+43,Creature,Aura Rogue Goblin
+44,Enchantment,Drain

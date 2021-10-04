@@ -1,46 +1,46 @@
-==================,DECK,4674,Light
-0,Creature,Common,Elf
-1,Enchantment,Rare,Apocalypse Blight
-2,Creature,Common,Dwarf
-3,Creature,Common,Warlock
-4,Spell,Legendary,Extreme Freeze
-5,Creature,Common,Orc
-6,Artifact,Common,Scepter
-7,Creature,Common,Eagle
-8,Spell,Rare,Forged Torment
-9,Spell,Common,Stricken
-10,Creature,Rare,Death King Fairy
-11,Spell,Rare,Cataclysmic Burn
-12,Spell,Common,Freeze
-13,Enchantment,Rare,Nimble Agony
-14,Enchantment,Common,Shrink
-15,Artifact,Common,Helmet
-16,Creature,Rare,Death Fighter Skin-Walker
-17,Creature,Common,Eagle
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Elf
-20,Spell,Legendary,Angry Invisibility
-21,Creature,Common,Dwarf
-22,Creature,Common,Paladin
-23,Creature,Rare,Light Assassin Hydra
-24,Spell,Common,Infuriate
-25,Creature,Common,Goblin
-26,Creature,Common,Dwarf
-27,Spell,Common,Ice
-28,Enchantment,Rare,Lunar Age
-29,Creature,Common,Magi
-30,Spell,Common,Maelstrom
-31,Creature,Common,Dwarf
-32,Artifact,Common,Scepter
-33,Creature,Common,Orc
-34,Creature,Common,Warlock
-35,Spell,Common,Lightning
-36,Creature,Rare,Earth Assassin Griffin
-37,Creature,Common,Dwarf
-38,Spell,Rare,Nimble Invisibility
-39,Enchantment,Common,Blight
-40,Creature,Common,Dwarf
-41,Creature,Rare,Dark King Berserker
-42,Creature,Common,Eagle
-43,Creature,Common,Wolf
-44,Creature,Rare,Dark Knight Skin-Walker
+==================,DECK,4674
+0,Creature,Warlock
+1,Enchantment,Nimble Invert
+2,Creature,Magi
+3,Creature,Berserker
+4,Spell,Ardent Sorrow Heal
+5,Creature,Spider
+6,Artifact,Scepter
+7,Creature,Eagle
+8,Spell,Chimeric Freeze
+9,Spell,Heal
+10,Creature,Death King Kraken
+11,Spell,Dark Freeze
+12,Spell,Hypnosis
+13,Enchantment,Corpse Deathgrip
+14,Enchantment,Alacrity
+15,Artifact,Helmet
+16,Creature,Death Fighter Orc
+17,Creature,Eagle
+18,Enchantment,Deathgrip
+19,Creature,Warlock
+20,Spell,Irate Gloom Stun
+21,Creature,Magi
+22,Creature,Troll
+23,Creature,Light Assassin Hydra
+24,Spell,Stun
+25,Creature,Skin-Walker
+26,Creature,Magi
+27,Spell,Pandemonium
+28,Enchantment,Gloom Shield
+29,Creature,Fairy
+30,Spell,Freeze
+31,Creature,Magi
+32,Artifact,Scepter
+33,Creature,Spider
+34,Creature,Berserker
+35,Spell,Hypnosis
+36,Creature,Earth Assassin Griffin
+37,Creature,Magi
+38,Spell,Corpse Invisibility
+39,Enchantment,Blight
+40,Creature,Magi
+41,Creature,Dark King Goblin
+42,Creature,Eagle
+43,Creature,Wolf
+44,Creature,Dark Knight Orc

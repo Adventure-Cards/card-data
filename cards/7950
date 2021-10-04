@@ -1,46 +1,46 @@
-==================,DECK,7950,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Spider
-2,Creature,Common,Goblin
-3,Spell,Common,Infuriate
-4,Enchantment,Common,Alacrity
-5,Spell,Mythic,Mighty Revive
-6,Artifact,Common,Gloves
-7,Creature,Rare,Light Assassin Griffin
-8,Creature,Rare,Light Thief Berserker
-9,Enchantment,Common,Shade
-10,Enchantment,Common,Shrink
-11,Creature,Common,Warlock
-12,Creature,Legendary,Snow Merchant Giant of the Polar Woods
-13,Creature,Common,Elf
-14,Creature,Common,Paladin
-15,Spell,Common,Fury
-16,Spell,Rare,Life Stricken
-17,Spell,Mythic,Clever Gale
-18,Creature,Common,Warlock
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Shade
-21,Artifact,Rare,Dark Bracers
-22,Spell,Common,Invisibility
-23,Enchantment,Rare,Nimble Lethargy
-24,Artifact,Rare,Corpse Helm
-25,Creature,Mythic,Snow Grand Wizard of Hate
-26,Spell,Legendary,Urgent Stun
-27,Creature,Common,Orc
-28,Creature,Common,Spider
-29,Creature,Legendary,Snow Fighter Orge of the Frozen Castle
-30,Spell,Mythic,Urgent Hypnosis
-31,Creature,Rare,Snow Monk Griffin
-32,Creature,Mythic,Death Grand Wizard of the Dead
-33,Creature,Legendary,Dark Priest Oni of the Golden Palace
-34,Creature,Common,Spider
-35,Creature,Mythic,Snow Nameless Phoenix of Hate
-36,Spell,Common,Wall
-37,Enchantment,Mythic,Clever Shade
-38,Spell,Common,Stricken
-39,Artifact,Common,Ghost Wand
-40,Creature,Common,Eagle
-41,Enchantment,Legendary,Mighty Shrink
-42,Creature,Rare,Snow Thief Minotaur
-43,Spell,Common,Assault
-44,Artifact,Common,Shield
+==================,DECK,7950
+0,Creature,Spider
+1,Creature,Paladin
+2,Creature,Skin-Walker
+3,Spell,Frost
+4,Enchantment,Shrink
+5,Spell,Urgent Chimeric Frost
+6,Artifact,Gloves
+7,Creature,Light Assassin Griffin
+8,Creature,Light Thief Goblin
+9,Enchantment,Flight
+10,Enchantment,Flight
+11,Creature,Berserker
+12,Creature,Snow Merchant Dwarf of the Polar Woods
+13,Creature,Warlock
+14,Creature,Troll
+15,Spell,Fury
+16,Spell,Apocalypse Wall
+17,Spell,Empyrean Grim Fire
+18,Creature,Berserker
+19,Creature,Ghoul
+20,Enchantment,Lethargy
+21,Artifact,Miracle Bracers
+22,Spell,Maelstrom
+23,Enchantment,Hateful Agony
+24,Artifact,Corpse Helm
+25,Creature,Snow Grand Wizard of Hate
+26,Spell,Zealous Solar Fire
+27,Creature,Spider
+28,Creature,Paladin
+29,Creature,Snow Fighter Elf of the Frozen Castle
+30,Spell,Mighty Hateful Heal
+31,Creature,Snow Monk Griffin
+32,Creature,Death Grand Wizard of the Dead
+33,Creature,Dark Priest Oni of the Golden Palace
+34,Creature,Paladin
+35,Creature,Snow Nameless Phoenix of Hate
+36,Spell,Maelstrom
+37,Enchantment,Ardent Frigid Haste
+38,Spell,Hypnosis
+39,Artifact,Ghost Wand
+40,Creature,Eagle
+41,Enchantment,Empyrean Chimeric Firebreath
+42,Creature,Snow Thief Cyclops
+43,Spell,Gravitation
+44,Artifact,Shield

@@ -1,46 +1,46 @@
-==================,DECK,7764,Medium
-0,Creature,Mythic,Earth Undead Phoenix of the Shadows
-1,Spell,Common,Freeze
-2,Creature,Common,Dwarf
-3,Creature,Common,Goblin
-4,Artifact,Rare,Forged Ghost Wand
-5,Creature,Rare,Dark Fighter Berserker
-6,Creature,Common,Goblin
-7,Artifact,Common,Gloves
-8,Creature,Legendary,Light Warrior Giant of the Bright Mountains
-9,Spell,Common,Vortex
-10,Artifact,Rare,Miracle Scythe
-11,Artifact,Common,Ghost Wand
-12,Creature,Mythic,Frozen Ancient Wizard of the Void
-13,Spell,Rare,Gloom Invisibility
-14,Artifact,Rare,Miracle Bracers
-15,Creature,Rare,Dark Warrior Minotaur
-16,Creature,Common,Ghoul
-17,Artifact,Legendary,Angry Staff
-18,Spell,Mythic,Intense Lightning
-19,Creature,Legendary,Snow Assassin Cyclops of the West
-20,Creature,Legendary,Dark King Orge of the Low Hills
-21,Creature,Common,Eagle
-22,Creature,Common,Dwarf
-23,Artifact,Common,Bow
-24,Creature,Common,Dwarf
-25,Creature,Legendary,Frozen Warrior Orge of the Eastern Skies
-26,Creature,Common,Goblin
-27,Enchantment,Common,Age
-28,Creature,Common,Wolf
-29,Creature,Common,Ghoul
-30,Creature,Rare,Death Merchant Fairy
-31,Enchantment,Common,Agony
-32,Spell,Legendary,Dire Stricken
-33,Creature,Common,Spider
-34,Enchantment,Rare,Forged Alacrity
-35,Creature,Rare,Snow Assassin Berserker
-36,Artifact,Rare,Gloom Potion
-37,Spell,Rare,Solar Freeze
-38,Spell,Common,Gravitation
-39,Enchantment,Mythic,Extreme Haste
-40,Creature,Common,Ghoul
-41,Artifact,Rare,Apocalypse Pendant
-42,Enchantment,Common,Shrink
-43,Creature,Rare,Death Rogue Hydra
-44,Creature,Mythic,Aura Chaos Demon of the Light
+==================,DECK,7764
+0,Creature,Earth Undead Phoenix of the Shadows
+1,Spell,Lightning
+2,Creature,Magi
+3,Creature,Skin-Walker
+4,Artifact,Chimeric Ghost Wand
+5,Creature,Dark Fighter Goblin
+6,Creature,Skin-Walker
+7,Artifact,Gloves
+8,Creature,Light Warrior Dwarf of the Bright Mountains
+9,Spell,Vortex
+10,Artifact,Apocalypse Scythe
+11,Artifact,Ghost Wand
+12,Creature,Frozen Ancient Wizard of the Void
+13,Spell,Gloom Gravitation
+14,Artifact,Victory Bracers
+15,Creature,Dark Warrior Cyclops
+16,Creature,Ghoul
+17,Artifact,Irate Gloom Staff
+18,Spell,Instant Solar Heal
+19,Creature,Snow Assassin Giant of the West
+20,Creature,Dark King Elf of the Low Hills
+21,Creature,Eagle
+22,Creature,Magi
+23,Artifact,Bow
+24,Creature,Magi
+25,Creature,Frozen Warrior Elf of the Eastern Skies
+26,Creature,Skin-Walker
+27,Enchantment,Age
+28,Creature,Wolf
+29,Creature,Ghoul
+30,Creature,Death Merchant Kraken
+31,Enchantment,Blight
+32,Spell,Zealous Victory Rage
+33,Creature,Paladin
+34,Enchantment,Dark Alacrity
+35,Creature,Snow Assassin Goblin
+36,Artifact,Gloom Potion
+37,Spell,Forged Lightning
+38,Spell,Ice
+39,Enchantment,Empyrean Miracle Firebreath
+40,Creature,Ghoul
+41,Artifact,Apocalypse Pendant
+42,Enchantment,Deathgrip
+43,Creature,Death Rogue Hydra
+44,Creature,Aura Chaos Demon of the Light

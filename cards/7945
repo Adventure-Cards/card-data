@@ -1,46 +1,46 @@
-==================,DECK,7945,Light
-0,Spell,Common,Gale
-1,Spell,Common,Vortex
-2,Creature,Common,Magi
-3,Spell,Rare,Gloom Freeze
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Paladin
-6,Enchantment,Rare,Shimmering Flight
-7,Creature,Common,Paladin
-8,Creature,Common,Goblin
-9,Spell,Rare,Apocalypse Sorrow
-10,Creature,Rare,Earth Merchant Skin-Walker
-11,Creature,Legendary,Dark Knight Oni of the Eternal Land
-12,Spell,Common,Ice
-13,Creature,Common,Paladin
-14,Creature,Common,Warlock
-15,Creature,Common,Paladin
-16,Creature,Legendary,Death Thief Oni of the Eastern Skies
-17,Artifact,Common,Pendant
-18,Enchantment,Common,Age
-19,Enchantment,Common,Invert
-20,Artifact,Common,Gloves
-21,Spell,Legendary,Urgent Gale
-22,Spell,Common,Burn
-23,Artifact,Common,Belt
-24,Creature,Common,Orc
-25,Creature,Common,Paladin
-26,Creature,Rare,Frozen Priest Fairy
-27,Enchantment,Common,Strength
-28,Creature,Rare,Aura Rogue Skin-Walker
-29,Enchantment,Common,Age
-30,Spell,Legendary,Mighty Revive
-31,Spell,Common,Stun
-32,Creature,Rare,Dark Undead Hydra
-33,Enchantment,Common,Drain
-34,Creature,Common,Spider
-35,Spell,Rare,Forged Wall
-36,Artifact,Common,Ring
-37,Creature,Common,Dwarf
-38,Artifact,Rare,Frigid Helm
-39,Spell,Common,Frenzy
-40,Artifact,Common,Gauntlet
-41,Spell,Common,Sorrow
-42,Spell,Rare,Frigid Gravitation
-43,Creature,Rare,Earth Priest Berserker
-44,Creature,Common,Magi
+==================,DECK,7945
+0,Spell,Freeze
+1,Spell,Reanimate
+2,Creature,Fairy
+3,Spell,Miracle Lightning
+4,Enchantment,Alacrity
+5,Creature,Troll
+6,Enchantment,Hateful Deathgrip
+7,Creature,Troll
+8,Creature,Skin-Walker
+9,Spell,Nimble Maelstrom
+10,Creature,Earth Merchant Orc
+11,Creature,Dark Knight Oni of the Eternal Land
+12,Spell,Rage
+13,Creature,Troll
+14,Creature,Berserker
+15,Creature,Troll
+16,Creature,Death Thief Oni of the Eastern Skies
+17,Artifact,Pendant
+18,Enchantment,Shrink
+19,Enchantment,Haste
+20,Artifact,Gloves
+21,Spell,Zealous Corpse Burn
+22,Spell,Gale
+23,Artifact,Belt
+24,Creature,Spider
+25,Creature,Troll
+26,Creature,Frozen Priest Kraken
+27,Enchantment,Alacrity
+28,Creature,Aura Rogue Orc
+29,Enchantment,Firebreath
+30,Spell,Instant Cataclysmic Hypnosis
+31,Spell,Stun
+32,Creature,Dark Undead Hydra
+33,Enchantment,Firebreath
+34,Creature,Paladin
+35,Spell,Dark Wall
+36,Artifact,Ring
+37,Creature,Magi
+38,Artifact,Victory Helm
+39,Spell,Tempest
+40,Artifact,Gauntlet
+41,Spell,Ice
+42,Spell,Frigid Fireball
+43,Creature,Earth Priest Goblin
+44,Creature,Fairy

@@ -1,46 +1,46 @@
-==================,DECK,4358,Light
-0,Spell,Common,Wall
-1,Creature,Common,Orc
-2,Enchantment,Common,Drain
-3,Creature,Mythic,Aura Undead Dragon of the Light
-4,Enchantment,Rare,Life Flight
-5,Creature,Common,Spider
-6,Artifact,Legendary,Mighty Gloves
-7,Creature,Common,Ghoul
-8,Creature,Common,Ghoul
-9,Spell,Common,Torment
-10,Enchantment,Mythic,Intense Shield
-11,Creature,Common,Goblin
-12,Creature,Legendary,Death Rogue Cyclops of the Black Stone
-13,Spell,Common,Burn
-14,Creature,Common,Ghoul
-15,Artifact,Legendary,Intense Ring
-16,Creature,Common,Warlock
-17,Artifact,Legendary,Mighty Scythe
-18,Creature,Rare,Snow Fighter Hydra
-19,Enchantment,Common,Flight
-20,Creature,Common,Magi
-21,Artifact,Rare,Apocalypse Ring
-22,Enchantment,Common,Agony
-23,Enchantment,Common,Agony
-24,Artifact,Common,Ring
-25,Creature,Legendary,Death Monk Oni of the Eastern Skies
-26,Spell,Common,Gale
-27,Enchantment,Common,Shrink
-28,Artifact,Rare,Life Bracers
-29,Spell,Legendary,Urgent Fury
-30,Spell,Common,Burn
-31,Spell,Common,Hypnosis
-32,Creature,Common,Orc
-33,Spell,Common,Heal
-34,Enchantment,Rare,Cataclysmic Age
-35,Enchantment,Common,Strength
-36,Creature,Common,Spider
-37,Creature,Common,Wolf
-38,Creature,Common,Paladin
-39,Enchantment,Common,Age
-40,Creature,Common,Eagle
-41,Creature,Common,Wolf
-42,Spell,Common,Frost
-43,Creature,Common,Goblin
-44,Spell,Legendary,Dire Lightning
+==================,DECK,4358
+0,Spell,Pandemonium
+1,Creature,Spider
+2,Enchantment,Lethargy
+3,Creature,Aura Undead Dragon of the Light
+4,Enchantment,Grim Shade
+5,Creature,Paladin
+6,Artifact,Potent Miracle Gloves
+7,Creature,Ghoul
+8,Creature,Ghoul
+9,Spell,Invisibility
+10,Enchantment,Dire Nature Age
+11,Creature,Skin-Walker
+12,Creature,Death Rogue Giant of the Black Stone
+13,Spell,Freeze
+14,Creature,Ghoul
+15,Artifact,Instant Hateful Ring
+16,Creature,Berserker
+17,Artifact,Dire Sorrow Scythe
+18,Creature,Snow Fighter Hydra
+19,Enchantment,Shrink
+20,Creature,Fairy
+21,Artifact,Frigid Ring
+22,Enchantment,Blight
+23,Enchantment,Invert
+24,Artifact,Ring
+25,Creature,Death Monk Oni of the Eastern Skies
+26,Spell,Invisibility
+27,Enchantment,Invert
+28,Artifact,Life Bracers
+29,Spell,Potent Shimmering Burn
+30,Spell,Fireball
+31,Spell,Infuriate
+32,Creature,Spider
+33,Spell,Stricken
+34,Enchantment,Gloom Firebreath
+35,Enchantment,Shade
+36,Creature,Paladin
+37,Creature,Wolf
+38,Creature,Troll
+39,Enchantment,Shade
+40,Creature,Eagle
+41,Creature,Wolf
+42,Spell,Rage
+43,Creature,Skin-Walker
+44,Spell,Instant Life Infuriate

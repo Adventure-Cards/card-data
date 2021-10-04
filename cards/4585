@@ -1,46 +1,46 @@
-==================,DECK,4585,Medium
-0,Creature,Rare,Aura Rogue Berserker
-1,Artifact,Common,Tome
-2,Creature,Rare,Death Merchant Skin-Walker
-3,Creature,Common,Ghoul
-4,Enchantment,Rare,Lunar Blight
-5,Spell,Common,Torment
-6,Creature,Legendary,Frozen Fighter Giant of the Haven
-7,Creature,Rare,Light Rogue Hydra
-8,Artifact,Common,Ring
-9,Enchantment,Mythic,Instant Invert
-10,Spell,Common,Wall
-11,Enchantment,Rare,Nimble Shade
-12,Creature,Common,Elf
-13,Creature,Mythic,Light Ancient Demon of the Sky
-14,Spell,Rare,Life Infuriate
-15,Artifact,Common,Boots
-16,Enchantment,Legendary,Urgent Invert
-17,Artifact,Rare,Forged Helm
-18,Artifact,Rare,Miracle Crown
-19,Creature,Common,Orc
-20,Enchantment,Common,Agony
-21,Enchantment,Rare,Forged Shade
-22,Spell,Mythic,Potent Reanimate
-23,Spell,Common,Assault
-24,Artifact,Legendary,Potent Scythe
-25,Spell,Common,Gravitation
-26,Artifact,Common,Sword
-27,Creature,Legendary,Frozen Warrior Giant of the Mountains
-28,Enchantment,Common,Strength
-29,Enchantment,Mythic,Intense Agony
-30,Creature,Mythic,Dark Ancient Wizard of Illusion
-31,Spell,Rare,Forged Revive
-32,Creature,Rare,Frozen Rogue Skin-Walker
-33,Spell,Rare,Nimble Lightning
-34,Artifact,Common,Crown
-35,Artifact,Legendary,Angry Potion
-36,Creature,Rare,Frozen Thief Berserker
-37,Enchantment,Common,Drain
-38,Creature,Rare,Aura Queen Minotaur
-39,Artifact,Common,Boots
-40,Creature,Common,Dwarf
-41,Enchantment,Legendary,Clever Strength
-42,Spell,Common,Fury
-43,Creature,Common,Orc
-44,Enchantment,Rare,Hateful Flight
+==================,DECK,4585
+0,Creature,Aura Rogue Goblin
+1,Artifact,Tome
+2,Creature,Death Merchant Orc
+3,Creature,Ghoul
+4,Enchantment,Cataclysmic Shrink
+5,Spell,Vortex
+6,Creature,Frozen Fighter Dwarf of the Haven
+7,Creature,Light Rogue Hydra
+8,Artifact,Ring
+9,Enchantment,Instant Shimmering Strength
+10,Spell,Ice
+11,Enchantment,Necro Lethargy
+12,Creature,Warlock
+13,Creature,Light Ancient Demon of the Sky
+14,Spell,Oblivion Burst
+15,Artifact,Boots
+16,Enchantment,Dire Shimmering Age
+17,Artifact,Cataclysmic Helm
+18,Artifact,Nimble Crown
+19,Creature,Spider
+20,Enchantment,Firebreath
+21,Enchantment,Chimeric Shield
+22,Spell,Empyrean Nimble Torment
+23,Spell,Lightning
+24,Artifact,Empyrean Grim Scythe
+25,Spell,Stricken
+26,Artifact,Sword
+27,Creature,Frozen Warrior Dwarf of the Mountains
+28,Enchantment,Lethargy
+29,Enchantment,Ardent Corpse Lethargy
+30,Creature,Dark Ancient Wizard of Illusion
+31,Spell,Chimeric Heal
+32,Creature,Frozen Rogue Orc
+33,Spell,Necro Lightning
+34,Artifact,Crown
+35,Artifact,Ardent Miracle Potion
+36,Creature,Frozen Thief Goblin
+37,Enchantment,Drain
+38,Creature,Aura Queen Cyclops
+39,Artifact,Boots
+40,Creature,Magi
+41,Enchantment,Ardent Nimble Haste
+42,Spell,Frenzy
+43,Creature,Spider
+44,Enchantment,Lunar Shrink

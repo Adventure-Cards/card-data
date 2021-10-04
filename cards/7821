@@ -1,46 +1,46 @@
-==================,DECK,7821,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Shade
-2,Creature,Common,Paladin
-3,Enchantment,Common,Agony
-4,Creature,Common,Warlock
-5,Enchantment,Common,Shield
-6,Spell,Rare,Life Pandemonium
-7,Enchantment,Common,Invert
-8,Spell,Common,Burst
-9,Enchantment,Common,Drain
-10,Enchantment,Mythic,Instant Shrink
-11,Enchantment,Common,Invert
-12,Enchantment,Common,Flight
-13,Spell,Common,Fury
-14,Creature,Common,Dwarf
-15,Spell,Common,Reanimate
-16,Creature,Common,Elf
-17,Creature,Common,Paladin
-18,Enchantment,Common,Shield
-19,Spell,Common,Stun
-20,Creature,Rare,Frozen Priest Fairy
-21,Enchantment,Common,Shade
-22,Creature,Common,Eagle
-23,Creature,Common,Warlock
-24,Creature,Common,Spider
-25,Artifact,Common,Ring
-26,Creature,Mythic,Snow Ancient Wizard of Hate
-27,Creature,Legendary,Dark Rogue Giant of the Mountains
-28,Creature,Rare,Snow Monk Griffin
-29,Creature,Rare,Death Priest Berserker
-30,Enchantment,Common,Flight
-31,Creature,Common,Eagle
-32,Creature,Rare,Snow Queen Minotaur
-33,Artifact,Common,Belt
-34,Enchantment,Mythic,Urgent Blight
-35,Creature,Common,Goblin
-36,Creature,Legendary,Earth Merchant Giant of the Arctic Blizzards
-37,Creature,Common,Wolf
-38,Creature,Rare,Dark Fighter Hydra
-39,Creature,Common,Wolf
-40,Creature,Rare,Aura Priest Skin-Walker
-41,Artifact,Common,Helm
-42,Artifact,Legendary,Mighty Potion
-43,Enchantment,Common,Drain
-44,Creature,Legendary,Aura Lord Orge of the West
+==================,DECK,7821
+0,Creature,Fairy
+1,Enchantment,Flight
+2,Creature,Troll
+3,Enchantment,Invert
+4,Creature,Berserker
+5,Enchantment,Shade
+6,Spell,Grim Ice
+7,Enchantment,Strength
+8,Spell,Freeze
+9,Enchantment,Haste
+10,Enchantment,Clever Necro Lethargy
+11,Enchantment,Haste
+12,Enchantment,Shrink
+13,Spell,Gale
+14,Creature,Magi
+15,Spell,Reanimate
+16,Creature,Warlock
+17,Creature,Troll
+18,Enchantment,Drain
+19,Spell,Invisibility
+20,Creature,Frozen Priest Kraken
+21,Enchantment,Strength
+22,Creature,Eagle
+23,Creature,Berserker
+24,Creature,Paladin
+25,Artifact,Ring
+26,Creature,Snow Ancient Wizard of Hate
+27,Creature,Dark Rogue Dwarf of the Mountains
+28,Creature,Snow Monk Griffin
+29,Creature,Death Priest Goblin
+30,Enchantment,Alacrity
+31,Creature,Eagle
+32,Creature,Snow Queen Cyclops
+33,Artifact,Belt
+34,Enchantment,Empyrean Solar Age
+35,Creature,Skin-Walker
+36,Creature,Earth Merchant Dwarf of the Arctic Blizzards
+37,Creature,Wolf
+38,Creature,Dark Fighter Hydra
+39,Creature,Wolf
+40,Creature,Aura Priest Orc
+41,Artifact,Helm
+42,Artifact,Clever Sorrow Potion
+43,Enchantment,Haste
+44,Creature,Aura Lord Elf of the West

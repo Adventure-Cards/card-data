@@ -1,46 +1,46 @@
-==================,DECK,5893,Light
-0,Creature,Common,Spider
-1,Spell,Common,Burst
-2,Creature,Common,Goblin
-3,Creature,Rare,Frozen Assassin Fairy
-4,Creature,Common,Magi
-5,Spell,Common,Gravitation
-6,Enchantment,Common,Strength
-7,Creature,Common,Goblin
-8,Creature,Common,Orc
-9,Creature,Rare,Snow Fighter Minotaur
-10,Creature,Legendary,Earth King Giant of the Black Stone
-11,Enchantment,Common,Shade
-12,Artifact,Common,Potion
-13,Enchantment,Common,Age
-14,Spell,Rare,Necro Stun
-15,Spell,Common,Torment
-16,Creature,Common,Spider
-17,Spell,Common,Pandemonium
-18,Spell,Common,Fury
-19,Creature,Common,Ghoul
-20,Creature,Common,Wolf
-21,Creature,Common,Warlock
-22,Creature,Rare,Death Assassin Fairy
-23,Creature,Common,Magi
-24,Creature,Common,Orc
-25,Spell,Common,Freeze
-26,Creature,Mythic,Frozen Chaos Demon of the Void
-27,Artifact,Common,Ring
-28,Artifact,Legendary,Dire Shield
-29,Creature,Common,Magi
-30,Enchantment,Legendary,Clever Lethargy
-31,Artifact,Common,Cloak
-32,Spell,Rare,Cataclysmic Sorrow
-33,Creature,Rare,Frozen Lord Skin-Walker
-34,Creature,Common,Warlock
-35,Creature,Common,Spider
-36,Enchantment,Rare,Dark Alacrity
-37,Creature,Common,Warlock
-38,Creature,Common,Eagle
-39,Enchantment,Common,Blight
-40,Spell,Common,Frenzy
-41,Creature,Common,Dwarf
-42,Artifact,Common,Crown
-43,Creature,Common,Wolf
-44,Creature,Rare,Dark King Berserker
+==================,DECK,5893
+0,Creature,Paladin
+1,Spell,Ice
+2,Creature,Skin-Walker
+3,Creature,Frozen Assassin Kraken
+4,Creature,Fairy
+5,Spell,Burst
+6,Enchantment,Shade
+7,Creature,Skin-Walker
+8,Creature,Spider
+9,Creature,Snow Fighter Cyclops
+10,Creature,Earth King Dwarf of the Black Stone
+11,Enchantment,Strength
+12,Artifact,Potion
+13,Enchantment,Lethargy
+14,Spell,Hateful Tempest
+15,Spell,Wall
+16,Creature,Paladin
+17,Spell,Ice
+18,Spell,Vortex
+19,Creature,Ghoul
+20,Creature,Wolf
+21,Creature,Berserker
+22,Creature,Death Assassin Kraken
+23,Creature,Fairy
+24,Creature,Spider
+25,Spell,Stricken
+26,Creature,Frozen Chaos Demon of the Void
+27,Artifact,Ring
+28,Artifact,Empyrean Victory Shield
+29,Creature,Fairy
+30,Enchantment,Instant Grim Drain
+31,Artifact,Cloak
+32,Spell,Dark Maelstrom
+33,Creature,Frozen Lord Orc
+34,Creature,Berserker
+35,Creature,Paladin
+36,Enchantment,Dark Firebreath
+37,Creature,Berserker
+38,Creature,Eagle
+39,Enchantment,Firebreath
+40,Spell,Rage
+41,Creature,Magi
+42,Artifact,Crown
+43,Creature,Wolf
+44,Creature,Dark King Goblin

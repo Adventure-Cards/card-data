@@ -1,46 +1,46 @@
-==================,DECK,4799,Light
-0,Spell,Common,Lightning
-1,Artifact,Common,Tome
-2,Spell,Rare,Cataclysmic Burn
-3,Creature,Rare,Dark Thief Minotaur
-4,Spell,Rare,Nimble Gravitation
-5,Creature,Rare,Snow King Griffin
-6,Enchantment,Mythic,Extreme Flight
-7,Creature,Common,Orc
-8,Spell,Legendary,Extreme Revive
-9,Creature,Common,Spider
-10,Creature,Common,Warlock
-11,Creature,Common,Spider
-12,Creature,Common,Orc
-13,Creature,Legendary,Frozen Knight Kraken of the Golden Palace
-14,Enchantment,Rare,Grim Lethargy
-15,Enchantment,Mythic,Angry Lethargy
-16,Creature,Legendary,Dark Assassin Orge of the Magical Forest
-17,Artifact,Rare,Necro Scepter
-18,Creature,Common,Warlock
-19,Artifact,Common,Pendant
-20,Spell,Common,Gravitation
-21,Creature,Common,Ghoul
-22,Creature,Common,Elf
-23,Enchantment,Common,Drain
-24,Creature,Rare,Earth Fighter Berserker
-25,Spell,Common,Invisibility
-26,Creature,Legendary,Death Monk Orge of the Border
-27,Enchantment,Rare,Gloom Shield
-28,Artifact,Common,Amulet
-29,Artifact,Common,Ring
-30,Spell,Legendary,Intense Frost
-31,Artifact,Common,Potion
-32,Creature,Legendary,Earth Knight Orge of the Golden Palace
-33,Enchantment,Rare,Life Haste
-34,Creature,Rare,Frozen Knight Berserker
-35,Spell,Rare,Forged Invisibility
-36,Enchantment,Legendary,Instant Haste
-37,Creature,Rare,Snow Fighter Minotaur
-38,Creature,Legendary,Aura Priest Giant of the Swamp
-39,Enchantment,Common,Shrink
-40,Creature,Common,Warlock
-41,Creature,Legendary,Dark Merchant Oni of the Bright Mountains
-42,Spell,Common,Pandemonium
-43,Creature,Rare,Aura Undead Hydra
-44,Creature,Rare,Frozen Assassin Minotaur
+==================,DECK,4799
+0,Spell,Tempest
+1,Artifact,Tome
+2,Spell,Dark Tempest
+3,Creature,Dark Thief Cyclops
+4,Spell,Solar Ice
+5,Creature,Snow King Griffin
+6,Enchantment,Zealous Lunar Alacrity
+7,Creature,Spider
+8,Spell,Ardent Dark Freeze
+9,Creature,Paladin
+10,Creature,Berserker
+11,Creature,Paladin
+12,Creature,Spider
+13,Creature,Frozen Knight Ogre of the Golden Palace
+14,Enchantment,Grim Invert
+15,Enchantment,Dire Lunar Firebreath
+16,Creature,Dark Assassin Elf of the Magical Forest
+17,Artifact,Solar Scepter
+18,Creature,Berserker
+19,Artifact,Pendant
+20,Spell,Frenzy
+21,Creature,Ghoul
+22,Creature,Warlock
+23,Enchantment,Agony
+24,Creature,Earth Fighter Goblin
+25,Spell,Freeze
+26,Creature,Death Monk Elf of the Border
+27,Enchantment,Gloom Flight
+28,Artifact,Amulet
+29,Artifact,Ring
+30,Spell,Instant Shimmering Fury
+31,Artifact,Potion
+32,Creature,Earth Knight Elf of the Golden Palace
+33,Enchantment,Life Invert
+34,Creature,Frozen Knight Goblin
+35,Spell,Miracle Sorrow
+36,Enchantment,Zealous Corpse Deathgrip
+37,Creature,Snow Fighter Cyclops
+38,Creature,Aura Priest Dwarf of the Swamp
+39,Enchantment,Haste
+40,Creature,Berserker
+41,Creature,Dark Merchant Oni of the Bright Mountains
+42,Spell,Stricken
+43,Creature,Aura Undead Hydra
+44,Creature,Frozen Assassin Cyclops

@@ -1,46 +1,46 @@
-==================,DECK,6577,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Frenzy
-2,Creature,Rare,Aura Monk Griffin
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Blight
-5,Spell,Common,Rage
-6,Enchantment,Common,Shade
-7,Creature,Common,Orc
-8,Artifact,Common,Cloak
-9,Spell,Common,Reanimate
-10,Creature,Common,Goblin
-11,Enchantment,Common,Strength
-12,Enchantment,Common,Age
-13,Enchantment,Common,Deathgrip
-14,Enchantment,Rare,Grim Invert
-15,Spell,Common,Lightning
-16,Spell,Common,Rage
-17,Creature,Rare,Earth King Skin-Walker
-18,Creature,Common,Ghoul
-19,Creature,Common,Warlock
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Creature,Common,Wolf
-23,Spell,Legendary,Dire Sorrow
-24,Creature,Common,Magi
-25,Spell,Common,Hypnosis
-26,Enchantment,Mythic,Extreme Alacrity
-27,Spell,Common,Heal
-28,Spell,Rare,Cataclysmic Maelstrom
-29,Enchantment,Common,Lethargy
-30,Artifact,Rare,Nimble Bracers
-31,Creature,Common,Wolf
-32,Artifact,Rare,Apocalypse Tome
-33,Creature,Common,Dwarf
-34,Creature,Common,Wolf
-35,Spell,Rare,Life Infuriate
-36,Artifact,Common,Shield
-37,Creature,Common,Warlock
-38,Artifact,Common,Sigil
-39,Enchantment,Common,Haste
-40,Creature,Common,Elf
-41,Spell,Common,Stricken
-42,Creature,Common,Magi
-43,Spell,Common,Revive
-44,Creature,Common,Magi
+==================,DECK,6577
+0,Creature,Berserker
+1,Spell,Rage
+2,Creature,Aura Monk Griffin
+3,Creature,Ghoul
+4,Enchantment,Strength
+5,Spell,Lightning
+6,Enchantment,Age
+7,Creature,Spider
+8,Artifact,Cloak
+9,Spell,Heal
+10,Creature,Skin-Walker
+11,Enchantment,Invert
+12,Enchantment,Strength
+13,Enchantment,Shrink
+14,Enchantment,Oblivion Invert
+15,Spell,Freeze
+16,Spell,Stricken
+17,Creature,Earth King Orc
+18,Creature,Ghoul
+19,Creature,Berserker
+20,Creature,Eagle
+21,Creature,Berserker
+22,Creature,Wolf
+23,Spell,Mighty Frigid Fury
+24,Creature,Fairy
+25,Spell,Rage
+26,Enchantment,Dire Dark Firebreath
+27,Spell,Fire
+28,Spell,Lunar Stun
+29,Enchantment,Deathgrip
+30,Artifact,Nature Bracers
+31,Creature,Wolf
+32,Artifact,Oblivion Tome
+33,Creature,Magi
+34,Creature,Wolf
+35,Spell,Victory Frenzy
+36,Artifact,Shield
+37,Creature,Berserker
+38,Artifact,Sigil
+39,Enchantment,Age
+40,Creature,Warlock
+41,Spell,Infuriate
+42,Creature,Fairy
+43,Spell,Ice
+44,Creature,Fairy

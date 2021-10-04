@@ -1,46 +1,46 @@
-==================,DECK,4181,Light
-0,Artifact,Common,Belt
-1,Creature,Rare,Dark Lord Hydra
-2,Creature,Common,Warlock
-3,Creature,Common,Ghoul
-4,Artifact,Rare,Shimmering Crown
-5,Creature,Common,Magi
-6,Creature,Rare,Frozen Knight Minotaur
-7,Spell,Rare,Solar Invisibility
-8,Creature,Common,Magi
-9,Enchantment,Common,Alacrity
-10,Enchantment,Common,Alacrity
-11,Spell,Common,Maelstrom
-12,Spell,Common,Ice
-13,Spell,Common,Wall
-14,Spell,Rare,Necro Maelstrom
-15,Creature,Common,Eagle
-16,Spell,Rare,Miracle Hypnosis
-17,Creature,Common,Eagle
-18,Creature,Rare,Light Queen Berserker
-19,Artifact,Common,Ring
-20,Enchantment,Rare,Gloom Alacrity
-21,Enchantment,Common,Blight
-22,Spell,Legendary,Instant Pandemonium
-23,Creature,Common,Elf
-24,Creature,Common,Orc
-25,Creature,Common,Ghoul
-26,Spell,Common,Heal
-27,Enchantment,Common,Alacrity
-28,Enchantment,Common,Agony
-29,Spell,Common,Maelstrom
-30,Enchantment,Common,Blight
-31,Creature,Common,Goblin
-32,Creature,Common,Ghoul
-33,Artifact,Rare,Miracle Gauntlet
-34,Enchantment,Common,Lethargy
-35,Artifact,Common,Sigil
-36,Artifact,Common,Bow
-37,Enchantment,Common,Haste
-38,Spell,Legendary,Mighty Frost
-39,Enchantment,Rare,Oblivion Lethargy
-40,Spell,Common,Rage
-41,Artifact,Common,Cloak
-42,Enchantment,Common,Shade
-43,Creature,Common,Orc
-44,Creature,Common,Wolf
+==================,DECK,4181
+0,Artifact,Belt
+1,Creature,Dark Lord Hydra
+2,Creature,Berserker
+3,Creature,Ghoul
+4,Artifact,Hateful Crown
+5,Creature,Fairy
+6,Creature,Frozen Knight Cyclops
+7,Spell,Corpse Assault
+8,Creature,Fairy
+9,Enchantment,Agony
+10,Enchantment,Haste
+11,Spell,Invisibility
+12,Spell,Heal
+13,Spell,Frenzy
+14,Spell,Necro Stricken
+15,Creature,Eagle
+16,Spell,Life Fireball
+17,Creature,Eagle
+18,Creature,Light Queen Goblin
+19,Artifact,Ring
+20,Enchantment,Dark Firebreath
+21,Enchantment,Strength
+22,Spell,Potent Corpse Gale
+23,Creature,Warlock
+24,Creature,Spider
+25,Creature,Ghoul
+26,Spell,Frenzy
+27,Enchantment,Deathgrip
+28,Enchantment,Shade
+29,Spell,Burst
+30,Enchantment,Deathgrip
+31,Creature,Skin-Walker
+32,Creature,Ghoul
+33,Artifact,Grim Gauntlet
+34,Enchantment,Firebreath
+35,Artifact,Sigil
+36,Artifact,Bow
+37,Enchantment,Lethargy
+38,Spell,Irate Miracle Sorrow
+39,Enchantment,Grim Haste
+40,Spell,Fire
+41,Artifact,Cloak
+42,Enchantment,Flight
+43,Creature,Spider
+44,Creature,Wolf

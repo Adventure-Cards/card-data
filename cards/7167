@@ -1,46 +1,46 @@
-==================,DECK,7167,Light
-0,Creature,Rare,Frozen Priest Griffin
-1,Creature,Common,Ghoul
-2,Spell,Legendary,Instant Torment
-3,Creature,Rare,Dark Lord Berserker
-4,Artifact,Common,Bow
-5,Enchantment,Common,Shade
-6,Artifact,Legendary,Intense Belt
-7,Creature,Common,Ghoul
-8,Enchantment,Common,Drain
-9,Creature,Legendary,Light Priest Cyclops of the Eternal Land
-10,Spell,Common,Stricken
-11,Artifact,Rare,Apocalypse Helm
-12,Creature,Rare,Snow Knight Griffin
-13,Enchantment,Common,Blight
-14,Creature,Common,Dwarf
-15,Creature,Legendary,Dark Priest Oni of the Eastern Skies
-16,Enchantment,Common,Agony
-17,Creature,Rare,Death Merchant Griffin
-18,Enchantment,Legendary,Mighty Flight
-19,Creature,Legendary,Snow King Kraken of the Black Stone
-20,Creature,Mythic,Snow Ancient Wizard of Hate
-21,Artifact,Common,Scepter
-22,Spell,Common,Frenzy
-23,Creature,Legendary,Earth Fighter Giant of the Haven
-24,Creature,Legendary,Light Merchant Oni of the Eastern Skies
-25,Enchantment,Common,Invert
-26,Spell,Common,Freeze
-27,Enchantment,Common,Shrink
-28,Creature,Common,Warlock
-29,Spell,Common,Infuriate
-30,Creature,Rare,Dark Warrior Minotaur
-31,Enchantment,Common,Invert
-32,Enchantment,Rare,Nature Flight
-33,Spell,Common,Infuriate
-34,Creature,Common,Goblin
-35,Spell,Legendary,Mighty Revive
-36,Spell,Rare,Cataclysmic Burn
-37,Creature,Mythic,Aura Chaos Wizard of the Light
-38,Creature,Common,Warlock
-39,Spell,Common,Gale
-40,Spell,Common,Reanimate
-41,Creature,Common,Paladin
-42,Artifact,Common,Ghost Wand
-43,Creature,Common,Wolf
-44,Creature,Common,Orc
+==================,DECK,7167
+0,Creature,Frozen Priest Griffin
+1,Creature,Ghoul
+2,Spell,Irate Necro Revive
+3,Creature,Dark Lord Goblin
+4,Artifact,Bow
+5,Enchantment,Haste
+6,Artifact,Empyrean Necro Belt
+7,Creature,Ghoul
+8,Enchantment,Drain
+9,Creature,Light Priest Giant of the Eternal Land
+10,Spell,Freeze
+11,Artifact,Apocalypse Helm
+12,Creature,Snow Knight Griffin
+13,Enchantment,Drain
+14,Creature,Magi
+15,Creature,Dark Priest Oni of the Eastern Skies
+16,Enchantment,Age
+17,Creature,Death Merchant Griffin
+18,Enchantment,Potent Lunar Shrink
+19,Creature,Snow King Ogre of the Black Stone
+20,Creature,Snow Ancient Wizard of Hate
+21,Artifact,Scepter
+22,Spell,Wall
+23,Creature,Earth Fighter Dwarf of the Haven
+24,Creature,Light Merchant Oni of the Eastern Skies
+25,Enchantment,Invert
+26,Spell,Wall
+27,Enchantment,Agony
+28,Creature,Berserker
+29,Spell,Reanimate
+30,Creature,Dark Warrior Cyclops
+31,Enchantment,Shield
+32,Enchantment,Hateful Lethargy
+33,Spell,Fireball
+34,Creature,Skin-Walker
+35,Spell,Irate Chimeric Invisibility
+36,Spell,Cataclysmic Pandemonium
+37,Creature,Aura Chaos Wizard of the Light
+38,Creature,Berserker
+39,Spell,Fury
+40,Spell,Revive
+41,Creature,Troll
+42,Artifact,Ghost Wand
+43,Creature,Wolf
+44,Creature,Spider

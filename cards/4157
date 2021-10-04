@@ -1,46 +1,46 @@
-==================,DECK,4157,Light
-0,Creature,Common,Elf
-1,Enchantment,Rare,Lunar Age
-2,Creature,Common,Wolf
-3,Enchantment,Common,Shade
-4,Creature,Common,Wolf
-5,Enchantment,Common,Age
-6,Spell,Rare,Grim Frenzy
-7,Creature,Common,Elf
-8,Creature,Common,Orc
-9,Artifact,Rare,Frigid Greaves
-10,Creature,Common,Goblin
-11,Creature,Rare,Frozen Fighter Minotaur
-12,Spell,Common,Wall
-13,Enchantment,Mythic,Clever Invert
-14,Creature,Common,Warlock
-15,Spell,Common,Lightning
-16,Creature,Legendary,Snow Queen Oni of the Mountains
-17,Spell,Common,Burn
-18,Creature,Legendary,Earth Knight Giant of the Mountains
-19,Creature,Common,Elf
-20,Creature,Rare,Frozen Monk Minotaur
-21,Spell,Common,Frost
-22,Enchantment,Common,Invert
-23,Creature,Legendary,Earth Assassin Kraken of the Frozen Castle
-24,Creature,Common,Paladin
-25,Artifact,Common,Tome
-26,Creature,Common,Spider
-27,Spell,Common,Rage
-28,Creature,Rare,Death Thief Fairy
-29,Enchantment,Common,Agony
-30,Spell,Common,Freeze
-31,Artifact,Common,Staff
-32,Artifact,Common,Cloak
-33,Artifact,Rare,Corpse Staff
-34,Artifact,Common,Pendant
-35,Creature,Common,Elf
-36,Artifact,Rare,Shimmering Bracers
-37,Artifact,Rare,Solar Bracers
-38,Creature,Legendary,Snow Merchant Cyclops of the Eternal Land
-39,Creature,Common,Spider
-40,Spell,Rare,Cataclysmic Infuriate
-41,Spell,Legendary,Mighty Frenzy
-42,Creature,Rare,Earth Assassin Minotaur
-43,Creature,Common,Elf
-44,Artifact,Common,Boots
+==================,DECK,4157
+0,Creature,Warlock
+1,Enchantment,Gloom Shrink
+2,Creature,Wolf
+3,Enchantment,Haste
+4,Creature,Wolf
+5,Enchantment,Haste
+6,Spell,Grim Tempest
+7,Creature,Warlock
+8,Creature,Spider
+9,Artifact,Oblivion Greaves
+10,Creature,Skin-Walker
+11,Creature,Frozen Fighter Cyclops
+12,Spell,Freeze
+13,Enchantment,Instant Oblivion Drain
+14,Creature,Berserker
+15,Spell,Stun
+16,Creature,Snow Queen Oni of the Mountains
+17,Spell,Infuriate
+18,Creature,Earth Knight Dwarf of the Mountains
+19,Creature,Warlock
+20,Creature,Frozen Monk Cyclops
+21,Spell,Reanimate
+22,Enchantment,Strength
+23,Creature,Earth Assassin Ogre of the Frozen Castle
+24,Creature,Troll
+25,Artifact,Tome
+26,Creature,Paladin
+27,Spell,Infuriate
+28,Creature,Death Thief Kraken
+29,Enchantment,Shield
+30,Spell,Rage
+31,Artifact,Staff
+32,Artifact,Cloak
+33,Artifact,Necro Staff
+34,Artifact,Pendant
+35,Creature,Warlock
+36,Artifact,Hateful Bracers
+37,Artifact,Solar Bracers
+38,Creature,Snow Merchant Giant of the Eternal Land
+39,Creature,Paladin
+40,Spell,Dark Lightning
+41,Spell,Dire Cataclysmic Fire
+42,Creature,Earth Assassin Cyclops
+43,Creature,Warlock
+44,Artifact,Boots

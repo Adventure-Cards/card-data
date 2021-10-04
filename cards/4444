@@ -1,46 +1,46 @@
-==================,DECK,4444,Light
-0,Creature,Mythic,Aura Nameless Dragon of the Light
-1,Creature,Common,Wolf
-2,Creature,Rare,Death Lord Skin-Walker
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Shield
-5,Enchantment,Common,Shade
-6,Creature,Common,Spider
-7,Spell,Common,Frenzy
-8,Spell,Legendary,Mighty Gravitation
-9,Creature,Common,Dwarf
-10,Artifact,Common,Divine Robe
-11,Enchantment,Mythic,Potent Strength
-12,Creature,Common,Eagle
-13,Spell,Common,Frenzy
-14,Spell,Rare,Nimble Frenzy
-15,Spell,Common,Burst
-16,Creature,Common,Magi
-17,Creature,Common,Spider
-18,Creature,Common,Goblin
-19,Creature,Common,Ghoul
-20,Enchantment,Legendary,Dire Strength
-21,Creature,Rare,Aura Thief Skin-Walker
-22,Enchantment,Common,Invert
-23,Creature,Rare,Snow Undead Hydra
-24,Creature,Common,Ghoul
-25,Creature,Legendary,Dark King Kraken of the Plains
-26,Spell,Rare,Solar Wall
-27,Creature,Rare,Earth Undead Fairy
-28,Artifact,Common,Helmet
-29,Spell,Common,Fury
-30,Creature,Mythic,Snow Nameless Dragon of Hate
-31,Spell,Common,Invisibility
-32,Enchantment,Rare,Hateful Deathgrip
-33,Artifact,Common,Potion
-34,Artifact,Common,Tome
-35,Creature,Rare,Frozen Lord Hydra
-36,Creature,Legendary,Earth King Oni of the Plains
-37,Creature,Common,Dwarf
-38,Spell,Common,Stricken
-39,Artifact,Common,Divine Robe
-40,Creature,Common,Eagle
-41,Artifact,Common,Ring
-42,Creature,Legendary,Frozen Monk Oni of the Golden Palace
-43,Creature,Common,Spider
-44,Enchantment,Mythic,Instant Blight
+==================,DECK,4444
+0,Creature,Aura Nameless Dragon of the Light
+1,Creature,Wolf
+2,Creature,Death Lord Orc
+3,Creature,Ghoul
+4,Enchantment,Alacrity
+5,Enchantment,Lethargy
+6,Creature,Paladin
+7,Spell,Reanimate
+8,Spell,Dire Miracle Torment
+9,Creature,Magi
+10,Artifact,Divine Robe
+11,Enchantment,Irate Nimble Blight
+12,Creature,Eagle
+13,Spell,Assault
+14,Spell,Nature Fury
+15,Spell,Hypnosis
+16,Creature,Fairy
+17,Creature,Paladin
+18,Creature,Skin-Walker
+19,Creature,Ghoul
+20,Enchantment,Ardent Nimble Haste
+21,Creature,Aura Thief Orc
+22,Enchantment,Shrink
+23,Creature,Snow Undead Hydra
+24,Creature,Ghoul
+25,Creature,Dark King Ogre of the Plains
+26,Spell,Necro Invisibility
+27,Creature,Earth Undead Kraken
+28,Artifact,Helmet
+29,Spell,Frost
+30,Creature,Snow Nameless Dragon of Hate
+31,Spell,Burn
+32,Enchantment,Sorrow Shrink
+33,Artifact,Potion
+34,Artifact,Tome
+35,Creature,Frozen Lord Hydra
+36,Creature,Earth King Oni of the Plains
+37,Creature,Magi
+38,Spell,Ice
+39,Artifact,Divine Robe
+40,Creature,Eagle
+41,Artifact,Ring
+42,Creature,Frozen Monk Oni of the Golden Palace
+43,Creature,Paladin
+44,Enchantment,Mighty Solar Agony

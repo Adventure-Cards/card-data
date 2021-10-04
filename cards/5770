@@ -1,46 +1,46 @@
-==================,DECK,5770,Light
-0,Artifact,Common,Greaves
-1,Creature,Common,Orc
-2,Spell,Common,Heal
-3,Artifact,Rare,Miracle Crown
-4,Creature,Common,Wolf
-5,Creature,Rare,Light Assassin Berserker
-6,Artifact,Common,Belt
-7,Spell,Common,Invisibility
-8,Creature,Common,Elf
-9,Creature,Mythic,Dark Ancient Demon of Illusion
-10,Creature,Common,Orc
-11,Creature,Common,Warlock
-12,Creature,Common,Warlock
-13,Creature,Common,Wolf
-14,Spell,Common,Fury
-15,Creature,Rare,Aura Fighter Minotaur
-16,Creature,Common,Warlock
-17,Artifact,Common,Gauntlet
-18,Spell,Legendary,Potent Ice
-19,Spell,Common,Ice
-20,Enchantment,Common,Haste
-21,Creature,Legendary,Dark Assassin Cyclops of the Polar Woods
-22,Spell,Common,Vortex
-23,Creature,Common,Ghoul
-24,Creature,Common,Wolf
-25,Enchantment,Mythic,Angry Strength
-26,Artifact,Common,Sword
-27,Enchantment,Common,Strength
-28,Spell,Common,Wall
-29,Enchantment,Rare,Corpse Alacrity
-30,Spell,Common,Assault
-31,Creature,Common,Magi
-32,Spell,Common,Burst
-33,Creature,Common,Ghoul
-34,Creature,Legendary,Earth King Orge of the Haven
-35,Enchantment,Common,Lethargy
-36,Creature,Common,Warlock
-37,Enchantment,Common,Alacrity
-38,Creature,Common,Paladin
-39,Creature,Rare,Frozen Undead Berserker
-40,Creature,Common,Eagle
-41,Spell,Common,Hypnosis
-42,Creature,Common,Goblin
-43,Creature,Rare,Snow Warrior Minotaur
-44,Creature,Common,Goblin
+==================,DECK,5770
+0,Artifact,Greaves
+1,Creature,Spider
+2,Spell,Fury
+3,Artifact,Victory Crown
+4,Creature,Wolf
+5,Creature,Light Assassin Goblin
+6,Artifact,Belt
+7,Spell,Gravitation
+8,Creature,Warlock
+9,Creature,Dark Ancient Demon of Illusion
+10,Creature,Spider
+11,Creature,Berserker
+12,Creature,Berserker
+13,Creature,Wolf
+14,Spell,Torment
+15,Creature,Aura Fighter Cyclops
+16,Creature,Berserker
+17,Artifact,Gauntlet
+18,Spell,Mighty Frigid Torment
+19,Spell,Assault
+20,Enchantment,Haste
+21,Creature,Dark Assassin Giant of the Polar Woods
+22,Spell,Burn
+23,Creature,Ghoul
+24,Creature,Wolf
+25,Enchantment,Ardent Cataclysmic Shield
+26,Artifact,Sword
+27,Enchantment,Alacrity
+28,Spell,Maelstrom
+29,Enchantment,Forged Age
+30,Spell,Freeze
+31,Creature,Fairy
+32,Spell,Frenzy
+33,Creature,Ghoul
+34,Creature,Earth King Elf of the Haven
+35,Enchantment,Shade
+36,Creature,Berserker
+37,Enchantment,Alacrity
+38,Creature,Troll
+39,Creature,Frozen Undead Goblin
+40,Creature,Eagle
+41,Spell,Lightning
+42,Creature,Skin-Walker
+43,Creature,Snow Warrior Cyclops
+44,Creature,Skin-Walker

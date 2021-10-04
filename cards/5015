@@ -1,46 +1,46 @@
-==================,DECK,5015,Light
-0,Creature,Common,Spider
-1,Spell,Common,Lightning
-2,Enchantment,Common,Strength
-3,Creature,Common,Wolf
-4,Creature,Mythic,Frozen Grand Demon of the Void
-5,Spell,Common,Gale
-6,Spell,Common,Sorrow
-7,Creature,Rare,Aura Assassin Griffin
-8,Creature,Common,Goblin
-9,Enchantment,Common,Flight
-10,Creature,Common,Magi
-11,Artifact,Legendary,Potent Tome
-12,Creature,Common,Dwarf
-13,Spell,Legendary,Intense Frenzy
-14,Enchantment,Rare,Cataclysmic Shrink
-15,Creature,Common,Magi
-16,Enchantment,Common,Age
-17,Creature,Rare,Death Warrior Hydra
-18,Creature,Common,Dwarf
-19,Creature,Common,Ghoul
-20,Spell,Common,Freeze
-21,Creature,Common,Ghoul
-22,Creature,Rare,Death Merchant Berserker
-23,Creature,Common,Elf
-24,Enchantment,Mythic,Instant Alacrity
-25,Artifact,Common,Staff
-26,Creature,Common,Ghoul
-27,Spell,Common,Reanimate
-28,Spell,Common,Revive
-29,Enchantment,Mythic,Potent Age
-30,Spell,Legendary,Extreme Fury
-31,Spell,Rare,Life Gale
-32,Creature,Common,Warlock
-33,Creature,Common,Wolf
-34,Creature,Common,Warlock
-35,Enchantment,Common,Shield
-36,Spell,Rare,Cataclysmic Fury
-37,Creature,Common,Paladin
-38,Creature,Common,Eagle
-39,Creature,Common,Orc
-40,Spell,Common,Revive
-41,Enchantment,Common,Blight
-42,Enchantment,Common,Lethargy
-43,Artifact,Legendary,Extreme Shield
-44,Spell,Common,Gravitation
+==================,DECK,5015
+0,Creature,Paladin
+1,Spell,Torment
+2,Enchantment,Agony
+3,Creature,Wolf
+4,Creature,Frozen Grand Demon of the Void
+5,Spell,Fire
+6,Spell,Ice
+7,Creature,Aura Assassin Griffin
+8,Creature,Skin-Walker
+9,Enchantment,Agony
+10,Creature,Fairy
+11,Artifact,Dire Oblivion Tome
+12,Creature,Magi
+13,Spell,Urgent Forged Sorrow
+14,Enchantment,Chimeric Alacrity
+15,Creature,Fairy
+16,Enchantment,Lethargy
+17,Creature,Death Warrior Hydra
+18,Creature,Magi
+19,Creature,Ghoul
+20,Spell,Stricken
+21,Creature,Ghoul
+22,Creature,Death Merchant Goblin
+23,Creature,Warlock
+24,Enchantment,Dire Forged Age
+25,Artifact,Staff
+26,Creature,Ghoul
+27,Spell,Hypnosis
+28,Spell,Sorrow
+29,Enchantment,Empyrean Victory Shade
+30,Spell,Clever Sorrow Stricken
+31,Spell,Frigid Revive
+32,Creature,Berserker
+33,Creature,Wolf
+34,Creature,Berserker
+35,Enchantment,Flight
+36,Spell,Dark Pandemonium
+37,Creature,Troll
+38,Creature,Eagle
+39,Creature,Spider
+40,Spell,Invisibility
+41,Enchantment,Blight
+42,Enchantment,Drain
+43,Artifact,Empyrean Dark Shield
+44,Spell,Gravitation

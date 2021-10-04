@@ -1,46 +1,46 @@
-==================,DECK,7929,Strong
-0,Enchantment,Common,Age
-1,Creature,Common,Magi
-2,Spell,Common,Wall
-3,Enchantment,Mythic,Angry Flight
-4,Enchantment,Common,Flight
-5,Creature,Mythic,Snow Time Phoenix of Hate
-6,Creature,Mythic,Death Grand Wizard of the Dead
-7,Spell,Mythic,Dire Ice
-8,Enchantment,Mythic,Intense Alacrity
-9,Creature,Common,Wolf
-10,Artifact,Common,Greaves
-11,Artifact,Common,Belt
-12,Creature,Common,Eagle
-13,Creature,Legendary,Light Rogue Cyclops of the Arctic Blizzards
-14,Creature,Mythic,Death Ancient Wizard of the Dead
-15,Creature,Common,Ghoul
-16,Creature,Rare,Dark Merchant Hydra
-17,Creature,Mythic,Snow Undead Phoenix of Hate
-18,Creature,Common,Orc
-19,Creature,Rare,Aura King Skin-Walker
-20,Creature,Mythic,Light Chaos Demon of the Sky
-21,Creature,Common,Wolf
-22,Enchantment,Mythic,Dire Drain
-23,Creature,Rare,Frozen Priest Fairy
-24,Enchantment,Mythic,Intense Lethargy
-25,Creature,Common,Eagle
-26,Creature,Legendary,Earth Queen Cyclops of the Low Hills
-27,Spell,Legendary,Intense Lightning
-28,Creature,Rare,Light Assassin Minotaur
-29,Enchantment,Mythic,Dire Alacrity
-30,Artifact,Rare,Forged Ring
-31,Spell,Common,Burst
-32,Creature,Legendary,Dark Warrior Cyclops of the Low Hills
-33,Enchantment,Common,Invert
-34,Creature,Common,Wolf
-35,Creature,Rare,Snow Queen Fairy
-36,Creature,Common,Spider
-37,Creature,Rare,Earth Rogue Minotaur
-38,Enchantment,Mythic,Dire Deathgrip
-39,Creature,Rare,Dark Thief Griffin
-40,Creature,Mythic,Earth Chaos Wizard of the Shadows
-41,Creature,Common,Magi
-42,Enchantment,Rare,Necro Deathgrip
-43,Creature,Mythic,Dark Nameless Dragon of Illusion
-44,Creature,Rare,Earth Queen Griffin
+==================,DECK,7929
+0,Enchantment,Flight
+1,Creature,Fairy
+2,Spell,Freeze
+3,Enchantment,Empyrean Lunar Firebreath
+4,Enchantment,Firebreath
+5,Creature,Snow Time Phoenix of Hate
+6,Creature,Death Grand Wizard of the Dead
+7,Spell,Mighty Apocalypse Torment
+8,Enchantment,Ardent Forged Lethargy
+9,Creature,Wolf
+10,Artifact,Greaves
+11,Artifact,Belt
+12,Creature,Eagle
+13,Creature,Light Rogue Giant of the Arctic Blizzards
+14,Creature,Death Ancient Wizard of the Dead
+15,Creature,Ghoul
+16,Creature,Dark Merchant Hydra
+17,Creature,Snow Undead Phoenix of Hate
+18,Creature,Spider
+19,Creature,Aura King Orc
+20,Creature,Light Chaos Demon of the Sky
+21,Creature,Wolf
+22,Enchantment,Mighty Apocalypse Invert
+23,Creature,Frozen Priest Kraken
+24,Enchantment,Instant Hateful Strength
+25,Creature,Eagle
+26,Creature,Earth Queen Giant of the Low Hills
+27,Spell,Urgent Shimmering Burn
+28,Creature,Light Assassin Cyclops
+29,Enchantment,Urgent Apocalypse Invert
+30,Artifact,Sorrow Ring
+31,Spell,Hypnosis
+32,Creature,Dark Warrior Giant of the Low Hills
+33,Enchantment,Haste
+34,Creature,Wolf
+35,Creature,Snow Queen Kraken
+36,Creature,Paladin
+37,Creature,Earth Rogue Cyclops
+38,Enchantment,Zealous Oblivion Blight
+39,Creature,Dark Thief Griffin
+40,Creature,Earth Chaos Wizard of the Shadows
+41,Creature,Fairy
+42,Enchantment,Shimmering Deathgrip
+43,Creature,Dark Nameless Dragon of Illusion
+44,Creature,Earth Queen Griffin

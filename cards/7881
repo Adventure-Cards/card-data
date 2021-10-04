@@ -1,46 +1,46 @@
-==================,DECK,7881,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Warlock
-2,Spell,Common,Reanimate
-3,Spell,Common,Frost
-4,Creature,Common,Ghoul
-5,Creature,Common,Orc
-6,Creature,Common,Magi
-7,Spell,Legendary,Dire Lightning
-8,Creature,Rare,Death King Berserker
-9,Enchantment,Rare,Solar Strength
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Spider
-12,Spell,Common,Fury
-13,Creature,Rare,Snow King Skin-Walker
-14,Enchantment,Rare,Hateful Blight
-15,Creature,Mythic,Light Grand Wizard of the Sky
-16,Creature,Common,Magi
-17,Creature,Rare,Earth Priest Griffin
-18,Creature,Common,Magi
-19,Creature,Mythic,Dark Nameless Dragon of Illusion
-20,Creature,Rare,Dark Queen Skin-Walker
-21,Creature,Legendary,Aura Warrior Kraken of the Haven
-22,Artifact,Common,Gauntlet
-23,Spell,Rare,Solar Wall
-24,Creature,Common,Ghoul
-25,Creature,Common,Ghoul
-26,Spell,Common,Sorrow
-27,Creature,Rare,Aura Priest Skin-Walker
-28,Spell,Common,Stricken
-29,Spell,Common,Rage
-30,Creature,Common,Paladin
-31,Creature,Legendary,Frozen Assassin Orge of the Eastern Skies
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Age
-36,Spell,Common,Invisibility
-37,Creature,Rare,Aura Thief Hydra
-38,Creature,Common,Dwarf
-39,Creature,Common,Eagle
-40,Creature,Common,Magi
-41,Creature,Rare,Death Merchant Hydra
-42,Creature,Common,Paladin
-43,Spell,Common,Torment
-44,Artifact,Common,Bracers
+==================,DECK,7881
+0,Creature,Berserker
+1,Creature,Berserker
+2,Spell,Lightning
+3,Spell,Pandemonium
+4,Creature,Ghoul
+5,Creature,Spider
+6,Creature,Fairy
+7,Spell,Dire Frigid Freeze
+8,Creature,Death King Goblin
+9,Enchantment,Solar Agony
+10,Enchantment,Deathgrip
+11,Creature,Paladin
+12,Spell,Reanimate
+13,Creature,Snow King Orc
+14,Enchantment,Cataclysmic Alacrity
+15,Creature,Light Grand Wizard of the Sky
+16,Creature,Fairy
+17,Creature,Earth Priest Griffin
+18,Creature,Fairy
+19,Creature,Dark Nameless Dragon of Illusion
+20,Creature,Dark Queen Orc
+21,Creature,Aura Warrior Ogre of the Haven
+22,Artifact,Gauntlet
+23,Spell,Solar Sorrow
+24,Creature,Ghoul
+25,Creature,Ghoul
+26,Spell,Infuriate
+27,Creature,Aura Priest Orc
+28,Spell,Torment
+29,Spell,Invisibility
+30,Creature,Troll
+31,Creature,Frozen Assassin Elf of the Eastern Skies
+32,Creature,Magi
+33,Enchantment,Agony
+34,Creature,Magi
+35,Enchantment,Invert
+36,Spell,Stricken
+37,Creature,Aura Thief Hydra
+38,Creature,Magi
+39,Creature,Eagle
+40,Creature,Fairy
+41,Creature,Death Merchant Hydra
+42,Creature,Troll
+43,Spell,Heal
+44,Artifact,Bracers

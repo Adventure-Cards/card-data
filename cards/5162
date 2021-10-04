@@ -1,46 +1,46 @@
-==================,DECK,5162,Medium
-0,Creature,Common,Goblin
-1,Creature,Legendary,Aura Monk Kraken of the Magical Forest
-2,Creature,Common,Eagle
-3,Creature,Common,Dwarf
-4,Spell,Common,Vortex
-5,Creature,Common,Orc
-6,Enchantment,Common,Shield
-7,Creature,Rare,Light Knight Griffin
-8,Creature,Common,Magi
-9,Spell,Common,Sorrow
-10,Creature,Legendary,Snow Thief Cyclops of the Polar Woods
-11,Creature,Rare,Death Undead Minotaur
-12,Enchantment,Common,Alacrity
-13,Creature,Legendary,Frozen Assassin Kraken of the Magical Forest
-14,Enchantment,Mythic,Urgent Blight
-15,Spell,Legendary,Intense Frenzy
-16,Enchantment,Common,Blight
-17,Creature,Rare,Aura Fighter Skin-Walker
-18,Creature,Common,Elf
-19,Creature,Common,Wolf
-20,Spell,Common,Stun
-21,Artifact,Rare,Solar Gloves
-22,Spell,Common,Burst
-23,Spell,Common,Invisibility
-24,Creature,Common,Eagle
-25,Creature,Common,Elf
-26,Creature,Common,Orc
-27,Spell,Mythic,Potent Gale
-28,Spell,Rare,Corpse Gravitation
-29,Creature,Common,Orc
-30,Enchantment,Rare,Life Drain
-31,Creature,Common,Elf
-32,Creature,Common,Goblin
-33,Spell,Common,Pandemonium
-34,Enchantment,Rare,Miracle Age
-35,Enchantment,Rare,Lunar Drain
-36,Spell,Legendary,Clever Fury
-37,Creature,Common,Magi
-38,Creature,Legendary,Dark Rogue Kraken of the Mountains
-39,Artifact,Rare,Nimble Boots
-40,Creature,Rare,Death Queen Skin-Walker
-41,Enchantment,Common,Haste
-42,Enchantment,Common,Shield
-43,Creature,Common,Elf
-44,Spell,Common,Wall
+==================,DECK,5162
+0,Creature,Skin-Walker
+1,Creature,Aura Monk Ogre of the Magical Forest
+2,Creature,Eagle
+3,Creature,Magi
+4,Spell,Heal
+5,Creature,Spider
+6,Enchantment,Shield
+7,Creature,Light Knight Griffin
+8,Creature,Fairy
+9,Spell,Reanimate
+10,Creature,Snow Thief Giant of the Polar Woods
+11,Creature,Death Undead Cyclops
+12,Enchantment,Blight
+13,Creature,Frozen Assassin Ogre of the Magical Forest
+14,Enchantment,Clever Solar Lethargy
+15,Spell,Dire Forged Frost
+16,Enchantment,Drain
+17,Creature,Aura Fighter Orc
+18,Creature,Warlock
+19,Creature,Wolf
+20,Spell,Fireball
+21,Artifact,Solar Gloves
+22,Spell,Revive
+23,Spell,Heal
+24,Creature,Eagle
+25,Creature,Warlock
+26,Creature,Spider
+27,Spell,Zealous Grim Invisibility
+28,Spell,Shimmering Fire
+29,Creature,Spider
+30,Enchantment,Apocalypse Haste
+31,Creature,Warlock
+32,Creature,Skin-Walker
+33,Spell,Hypnosis
+34,Enchantment,Victory Blight
+35,Enchantment,Dark Shrink
+36,Spell,Mighty Frigid Fireball
+37,Creature,Fairy
+38,Creature,Dark Rogue Ogre of the Mountains
+39,Artifact,Necro Boots
+40,Creature,Death Queen Orc
+41,Enchantment,Strength
+42,Enchantment,Drain
+43,Creature,Warlock
+44,Spell,Ice

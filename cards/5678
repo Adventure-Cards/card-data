@@ -1,46 +1,46 @@
-==================,DECK,5678,Medium
-0,Creature,Common,Wolf
-1,Creature,Common,Wolf
-2,Creature,Rare,Snow Queen Minotaur
-3,Creature,Common,Paladin
-4,Spell,Common,Freeze
-5,Enchantment,Common,Deathgrip
-6,Enchantment,Rare,Dark Strength
-7,Spell,Rare,Lunar Stun
-8,Artifact,Common,Belt
-9,Creature,Common,Ghoul
-10,Creature,Common,Elf
-11,Spell,Rare,Shimmering Gale
-12,Enchantment,Rare,Oblivion Shield
-13,Spell,Rare,Life Burst
-14,Spell,Common,Infuriate
-15,Creature,Common,Spider
-16,Spell,Rare,Dark Assault
-17,Creature,Legendary,Frozen Thief Giant of the Black Stone
-18,Spell,Common,Gravitation
-19,Artifact,Rare,Forged Belt
-20,Enchantment,Common,Blight
-21,Creature,Rare,Snow Fighter Minotaur
-22,Creature,Common,Paladin
-23,Artifact,Common,Sword
-24,Spell,Common,Gale
-25,Spell,Rare,Dark Vortex
-26,Enchantment,Mythic,Potent Invert
-27,Enchantment,Common,Strength
-28,Creature,Legendary,Snow Queen Orge of the Eternal Land
-29,Artifact,Common,Tome
-30,Creature,Rare,Snow Thief Hydra
-31,Creature,Rare,Snow Knight Berserker
-32,Enchantment,Common,Alacrity
-33,Creature,Rare,Frozen Thief Skin-Walker
-34,Spell,Mythic,Intense Assault
-35,Creature,Common,Eagle
-36,Enchantment,Mythic,Urgent Deathgrip
-37,Creature,Legendary,Frozen Merchant Cyclops of the Frozen Castle
-38,Artifact,Rare,Grim Helm
-39,Creature,Common,Elf
-40,Enchantment,Legendary,Clever Drain
-41,Creature,Common,Dwarf
-42,Spell,Common,Hypnosis
-43,Creature,Mythic,Light Nameless Phoenix of the Sky
-44,Artifact,Common,Shield
+==================,DECK,5678
+0,Creature,Wolf
+1,Creature,Wolf
+2,Creature,Snow Queen Cyclops
+3,Creature,Troll
+4,Spell,Burst
+5,Enchantment,Haste
+6,Enchantment,Cataclysmic Alacrity
+7,Spell,Chimeric Frost
+8,Artifact,Belt
+9,Creature,Ghoul
+10,Creature,Warlock
+11,Spell,Nature Heal
+12,Enchantment,Victory Invert
+13,Spell,Frigid Vortex
+14,Spell,Torment
+15,Creature,Paladin
+16,Spell,Lunar Invisibility
+17,Creature,Frozen Thief Dwarf of the Black Stone
+18,Spell,Vortex
+19,Artifact,Miracle Belt
+20,Enchantment,Blight
+21,Creature,Snow Fighter Cyclops
+22,Creature,Troll
+23,Artifact,Sword
+24,Spell,Tempest
+25,Spell,Dark Reanimate
+26,Enchantment,Ardent Oblivion Haste
+27,Enchantment,Strength
+28,Creature,Snow Queen Elf of the Eternal Land
+29,Artifact,Tome
+30,Creature,Snow Thief Hydra
+31,Creature,Snow Knight Goblin
+32,Enchantment,Shade
+33,Creature,Frozen Thief Orc
+34,Spell,Irate Corpse Ice
+35,Creature,Eagle
+36,Enchantment,Clever Shimmering Lethargy
+37,Creature,Frozen Merchant Giant of the Frozen Castle
+38,Artifact,Frigid Helm
+39,Creature,Warlock
+40,Enchantment,Mighty Apocalypse Invert
+41,Creature,Magi
+42,Spell,Rage
+43,Creature,Light Nameless Phoenix of the Sky
+44,Artifact,Shield

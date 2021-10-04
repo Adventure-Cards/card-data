@@ -1,46 +1,46 @@
-==================,DECK,5966,Light
-0,Creature,Common,Eagle
-1,Spell,Legendary,Urgent Gravitation
-2,Enchantment,Common,Agony
-3,Creature,Rare,Earth Merchant Hydra
-4,Spell,Common,Reanimate
-5,Creature,Common,Magi
-6,Creature,Rare,Aura Priest Minotaur
-7,Creature,Rare,Aura Undead Minotaur
-8,Spell,Common,Infuriate
-9,Spell,Common,Ice
-10,Creature,Rare,Snow Merchant Berserker
-11,Creature,Common,Wolf
-12,Enchantment,Common,Haste
-13,Creature,Common,Ghoul
-14,Spell,Legendary,Instant Sorrow
-15,Enchantment,Common,Shield
-16,Enchantment,Common,Deathgrip
-17,Artifact,Common,Cloak
-18,Creature,Common,Wolf
-19,Creature,Rare,Frozen Undead Berserker
-20,Creature,Common,Goblin
-21,Creature,Common,Eagle
-22,Artifact,Legendary,Intense Bracers
-23,Creature,Rare,Snow Knight Berserker
-24,Creature,Common,Elf
-25,Enchantment,Rare,Gloom Lethargy
-26,Enchantment,Mythic,Angry Flight
-27,Creature,Common,Orc
-28,Artifact,Common,Belt
-29,Creature,Common,Wolf
-30,Creature,Legendary,Frozen Lord Giant of the West
-31,Creature,Common,Paladin
-32,Enchantment,Common,Deathgrip
-33,Creature,Common,Elf
-34,Creature,Legendary,Light Knight Kraken of the Magical Forest
-35,Spell,Common,Stun
-36,Spell,Common,Reanimate
-37,Creature,Common,Paladin
-38,Creature,Common,Dwarf
-39,Creature,Rare,Light Monk Berserker
-40,Artifact,Legendary,Mighty Bow
-41,Artifact,Common,Scepter
-42,Spell,Common,Maelstrom
-43,Creature,Common,Eagle
-44,Enchantment,Rare,Apocalypse Flight
+==================,DECK,5966
+0,Creature,Eagle
+1,Spell,Urgent Solar Fireball
+2,Enchantment,Invert
+3,Creature,Earth Merchant Hydra
+4,Spell,Fury
+5,Creature,Fairy
+6,Creature,Aura Priest Cyclops
+7,Creature,Aura Undead Cyclops
+8,Spell,Torment
+9,Spell,Tempest
+10,Creature,Snow Merchant Goblin
+11,Creature,Wolf
+12,Enchantment,Agony
+13,Creature,Ghoul
+14,Spell,Zealous Nature Lightning
+15,Enchantment,Deathgrip
+16,Enchantment,Haste
+17,Artifact,Cloak
+18,Creature,Wolf
+19,Creature,Frozen Undead Goblin
+20,Creature,Skin-Walker
+21,Creature,Eagle
+22,Artifact,Zealous Shimmering Bracers
+23,Creature,Snow Knight Goblin
+24,Creature,Warlock
+25,Enchantment,Lunar Firebreath
+26,Enchantment,Potent Lunar Shrink
+27,Creature,Spider
+28,Artifact,Belt
+29,Creature,Wolf
+30,Creature,Frozen Lord Dwarf of the West
+31,Creature,Troll
+32,Enchantment,Firebreath
+33,Creature,Warlock
+34,Creature,Light Knight Ogre of the Magical Forest
+35,Spell,Gale
+36,Spell,Maelstrom
+37,Creature,Troll
+38,Creature,Magi
+39,Creature,Light Monk Goblin
+40,Artifact,Mighty Chimeric Bow
+41,Artifact,Scepter
+42,Spell,Gale
+43,Creature,Eagle
+44,Enchantment,Grim Drain

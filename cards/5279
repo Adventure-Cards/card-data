@@ -1,46 +1,46 @@
-==================,DECK,5279,Light
-0,Creature,Rare,Aura Assassin Skin-Walker
-1,Spell,Rare,Nature Stricken
-2,Creature,Common,Paladin
-3,Spell,Common,Frost
-4,Creature,Common,Warlock
-5,Enchantment,Common,Haste
-6,Creature,Legendary,Aura Fighter Cyclops of the Polar Woods
-7,Creature,Legendary,Frozen Undead Giant of the Frozen Castle
-8,Enchantment,Common,Shade
-9,Creature,Common,Orc
-10,Creature,Common,Spider
-11,Enchantment,Common,Agony
-12,Creature,Common,Ghoul
-13,Creature,Legendary,Light Priest Orge of the Haven
-14,Creature,Common,Paladin
-15,Creature,Mythic,Earth Nameless Dragon of the Shadows
-16,Enchantment,Common,Age
-17,Spell,Legendary,Urgent Sorrow
-18,Creature,Common,Orc
-19,Artifact,Rare,Frigid Ghost Wand
-20,Creature,Common,Dwarf
-21,Creature,Legendary,Earth Priest Kraken of the Swamp
-22,Spell,Common,Assault
-23,Creature,Mythic,Light Ancient Wizard of the Sky
-24,Creature,Common,Warlock
-25,Artifact,Common,Ring
-26,Creature,Common,Eagle
-27,Creature,Common,Magi
-28,Spell,Common,Reanimate
-29,Creature,Common,Ghoul
-30,Spell,Common,Pandemonium
-31,Artifact,Common,Tome
-32,Enchantment,Common,Age
-33,Creature,Rare,Aura Queen Skin-Walker
-34,Creature,Common,Warlock
-35,Creature,Rare,Snow Lord Hydra
-36,Creature,Rare,Snow Undead Skin-Walker
-37,Creature,Rare,Death Warrior Berserker
-38,Creature,Common,Paladin
-39,Enchantment,Common,Shield
-40,Artifact,Common,Cloak
-41,Creature,Rare,Earth Lord Minotaur
-42,Enchantment,Common,Deathgrip
-43,Creature,Legendary,Dark Monk Orge of the Arctic Blizzards
-44,Creature,Common,Warlock
+==================,DECK,5279
+0,Creature,Aura Assassin Orc
+1,Spell,Forged Pandemonium
+2,Creature,Troll
+3,Spell,Pandemonium
+4,Creature,Berserker
+5,Enchantment,Shrink
+6,Creature,Aura Fighter Giant of the Polar Woods
+7,Creature,Frozen Undead Dwarf of the Frozen Castle
+8,Enchantment,Firebreath
+9,Creature,Spider
+10,Creature,Paladin
+11,Enchantment,Agony
+12,Creature,Ghoul
+13,Creature,Light Priest Elf of the Haven
+14,Creature,Troll
+15,Creature,Earth Nameless Dragon of the Shadows
+16,Enchantment,Agony
+17,Spell,Clever Corpse Frost
+18,Creature,Spider
+19,Artifact,Oblivion Ghost Wand
+20,Creature,Magi
+21,Creature,Earth Priest Ogre of the Swamp
+22,Spell,Freeze
+23,Creature,Light Ancient Wizard of the Sky
+24,Creature,Berserker
+25,Artifact,Ring
+26,Creature,Eagle
+27,Creature,Fairy
+28,Spell,Reanimate
+29,Creature,Ghoul
+30,Spell,Revive
+31,Artifact,Tome
+32,Enchantment,Deathgrip
+33,Creature,Aura Queen Orc
+34,Creature,Berserker
+35,Creature,Snow Lord Hydra
+36,Creature,Snow Undead Orc
+37,Creature,Death Warrior Goblin
+38,Creature,Troll
+39,Enchantment,Invert
+40,Artifact,Cloak
+41,Creature,Earth Lord Cyclops
+42,Enchantment,Shade
+43,Creature,Dark Monk Elf of the Arctic Blizzards
+44,Creature,Berserker

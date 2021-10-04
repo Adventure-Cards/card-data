@@ -1,46 +1,46 @@
-==================,DECK,4240,Light
-0,Creature,Common,Goblin
-1,Enchantment,Common,Age
-2,Artifact,Common,Ring
-3,Spell,Common,Hypnosis
-4,Enchantment,Common,Shield
-5,Artifact,Common,Helm
-6,Creature,Common,Dwarf
-7,Spell,Rare,Necro Maelstrom
-8,Enchantment,Rare,Life Haste
-9,Creature,Rare,Earth Lord Griffin
-10,Enchantment,Common,Alacrity
-11,Creature,Rare,Frozen Queen Griffin
-12,Creature,Common,Warlock
-13,Creature,Common,Eagle
-14,Creature,Rare,Light Thief Berserker
-15,Enchantment,Rare,Nature Deathgrip
-16,Creature,Common,Warlock
-17,Creature,Common,Goblin
-18,Creature,Common,Goblin
-19,Spell,Common,Burst
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Invert
-22,Enchantment,Common,Shrink
-23,Creature,Common,Orc
-24,Creature,Common,Eagle
-25,Creature,Common,Dwarf
-26,Enchantment,Common,Flight
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Age
-29,Creature,Rare,Death Knight Minotaur
-30,Spell,Rare,Lunar Gale
-31,Creature,Common,Spider
-32,Enchantment,Common,Deathgrip
-33,Creature,Rare,Death Priest Minotaur
-34,Enchantment,Common,Agony
-35,Creature,Common,Orc
-36,Creature,Rare,Frozen King Hydra
-37,Enchantment,Rare,Miracle Blight
-38,Spell,Common,Burn
-39,Creature,Common,Goblin
-40,Creature,Common,Ghoul
-41,Enchantment,Mythic,Intense Haste
-42,Creature,Common,Dwarf
-43,Creature,Common,Eagle
-44,Artifact,Common,Greaves
+==================,DECK,4240
+0,Creature,Skin-Walker
+1,Enchantment,Lethargy
+2,Artifact,Ring
+3,Spell,Gale
+4,Enchantment,Deathgrip
+5,Artifact,Helm
+6,Creature,Magi
+7,Spell,Solar Stun
+8,Enchantment,Life Shade
+9,Creature,Earth Lord Griffin
+10,Enchantment,Firebreath
+11,Creature,Frozen Queen Griffin
+12,Creature,Berserker
+13,Creature,Eagle
+14,Creature,Light Thief Goblin
+15,Enchantment,Shimmering Deathgrip
+16,Creature,Berserker
+17,Creature,Skin-Walker
+18,Creature,Skin-Walker
+19,Spell,Invisibility
+20,Enchantment,Shield
+21,Enchantment,Deathgrip
+22,Enchantment,Shield
+23,Creature,Spider
+24,Creature,Eagle
+25,Creature,Magi
+26,Enchantment,Shield
+27,Creature,Magi
+28,Enchantment,Shrink
+29,Creature,Death Knight Cyclops
+30,Spell,Cataclysmic Lightning
+31,Creature,Paladin
+32,Enchantment,Drain
+33,Creature,Death Priest Cyclops
+34,Enchantment,Blight
+35,Creature,Spider
+36,Creature,Frozen King Hydra
+37,Enchantment,Nimble Shade
+38,Spell,Ice
+39,Creature,Skin-Walker
+40,Creature,Ghoul
+41,Enchantment,Empyrean Corpse Age
+42,Creature,Magi
+43,Creature,Eagle
+44,Artifact,Greaves

@@ -1,46 +1,46 @@
-==================,DECK,6335,Medium
-0,Creature,Common,Wolf
-1,Creature,Mythic,Death Chaos Demon of the Dead
-2,Creature,Common,Paladin
-3,Creature,Common,Eagle
-4,Enchantment,Rare,Nimble Shield
-5,Creature,Common,Elf
-6,Creature,Legendary,Snow Queen Oni of the Arctic Blizzards
-7,Creature,Common,Ghoul
-8,Creature,Rare,Death Merchant Griffin
-9,Creature,Common,Wolf
-10,Artifact,Legendary,Instant Helmet
-11,Creature,Legendary,Death Knight Orge of the Frozen Castle
-12,Artifact,Common,Bow
-13,Creature,Common,Dwarf
-14,Enchantment,Legendary,Instant Blight
-15,Enchantment,Common,Haste
-16,Enchantment,Legendary,Potent Shade
-17,Creature,Mythic,Frozen Time Dragon of the Void
-18,Enchantment,Rare,Lunar Shrink
-19,Enchantment,Mythic,Potent Drain
-20,Creature,Common,Spider
-21,Spell,Common,Gravitation
-22,Creature,Common,Wolf
-23,Spell,Common,Frost
-24,Artifact,Common,Scepter
-25,Creature,Rare,Dark Queen Skin-Walker
-26,Creature,Common,Spider
-27,Spell,Legendary,Extreme Lightning
-28,Creature,Rare,Light Queen Minotaur
-29,Creature,Rare,Snow Warrior Minotaur
-30,Enchantment,Legendary,Urgent Deathgrip
-31,Creature,Legendary,Dark Lord Oni of the Frozen Castle
-32,Creature,Common,Eagle
-33,Creature,Legendary,Snow Merchant Kraken of the West
-34,Spell,Rare,Lunar Fury
-35,Creature,Common,Ghoul
-36,Creature,Common,Elf
-37,Creature,Legendary,Death Rogue Cyclops of the Golden Palace
-38,Creature,Rare,Death Rogue Griffin
-39,Enchantment,Rare,Cataclysmic Age
-40,Creature,Mythic,Dark Chaos Demon of Illusion
-41,Artifact,Rare,Forged Scepter
-42,Creature,Rare,Death Merchant Fairy
-43,Enchantment,Common,Haste
-44,Spell,Common,Hypnosis
+==================,DECK,6335
+0,Creature,Wolf
+1,Creature,Death Chaos Demon of the Dead
+2,Creature,Troll
+3,Creature,Eagle
+4,Enchantment,Nature Age
+5,Creature,Warlock
+6,Creature,Snow Queen Oni of the Arctic Blizzards
+7,Creature,Ghoul
+8,Creature,Death Merchant Griffin
+9,Creature,Wolf
+10,Artifact,Zealous Shimmering Helmet
+11,Creature,Death Knight Elf of the Frozen Castle
+12,Artifact,Bow
+13,Creature,Magi
+14,Enchantment,Zealous Solar Deathgrip
+15,Enchantment,Agony
+16,Enchantment,Irate Frigid Blight
+17,Creature,Frozen Time Dragon of the Void
+18,Enchantment,Chimeric Alacrity
+19,Enchantment,Empyrean Apocalypse Shade
+20,Creature,Paladin
+21,Spell,Frenzy
+22,Creature,Wolf
+23,Spell,Gravitation
+24,Artifact,Scepter
+25,Creature,Dark Queen Orc
+26,Creature,Paladin
+27,Spell,Ardent Cataclysmic Fury
+28,Creature,Light Queen Cyclops
+29,Creature,Snow Warrior Cyclops
+30,Enchantment,Potent Shimmering Strength
+31,Creature,Dark Lord Oni of the Frozen Castle
+32,Creature,Eagle
+33,Creature,Snow Merchant Ogre of the West
+34,Spell,Chimeric Vortex
+35,Creature,Ghoul
+36,Creature,Warlock
+37,Creature,Death Rogue Giant of the Golden Palace
+38,Creature,Death Rogue Griffin
+39,Enchantment,Gloom Alacrity
+40,Creature,Dark Chaos Demon of Illusion
+41,Artifact,Chimeric Scepter
+42,Creature,Death Merchant Kraken
+43,Enchantment,Shrink
+44,Spell,Torment

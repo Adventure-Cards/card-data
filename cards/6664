@@ -1,46 +1,46 @@
-==================,DECK,6664,Medium
-0,Creature,Rare,Frozen Assassin Minotaur
-1,Creature,Common,Wolf
-2,Spell,Common,Frost
-3,Spell,Common,Maelstrom
-4,Artifact,Legendary,Angry Sword
-5,Spell,Rare,Lunar Pandemonium
-6,Spell,Common,Assault
-7,Enchantment,Common,Strength
-8,Enchantment,Rare,Dark Alacrity
-9,Creature,Rare,Light Assassin Minotaur
-10,Creature,Common,Goblin
-11,Creature,Mythic,Light Grand Demon of the Sky
-12,Creature,Common,Paladin
-13,Enchantment,Common,Blight
-14,Enchantment,Common,Agony
-15,Spell,Mythic,Mighty Stun
-16,Creature,Rare,Frozen Priest Berserker
-17,Enchantment,Rare,Corpse Strength
-18,Artifact,Common,Boots
-19,Enchantment,Rare,Nimble Agony
-20,Artifact,Rare,Lunar Potion
-21,Spell,Common,Assault
-22,Creature,Mythic,Snow Undead Phoenix of Hate
-23,Creature,Common,Spider
-24,Enchantment,Rare,Lunar Blight
-25,Creature,Common,Goblin
-26,Creature,Common,Paladin
-27,Spell,Rare,Oblivion Revive
-28,Enchantment,Rare,Solar Shield
-29,Enchantment,Common,Shrink
-30,Spell,Common,Freeze
-31,Spell,Common,Stricken
-32,Enchantment,Mythic,Angry Haste
-33,Enchantment,Legendary,Clever Invert
-34,Creature,Common,Magi
-35,Creature,Rare,Light Rogue Fairy
-36,Enchantment,Rare,Apocalypse Haste
-37,Enchantment,Rare,Nimble Lethargy
-38,Creature,Common,Orc
-39,Creature,Legendary,Dark Priest Oni of the Frozen Castle
-40,Enchantment,Common,Invert
-41,Creature,Common,Spider
-42,Creature,Common,Paladin
-43,Enchantment,Common,Shield
-44,Creature,Common,Elf
+==================,DECK,6664
+0,Creature,Frozen Assassin Cyclops
+1,Creature,Wolf
+2,Spell,Rage
+3,Spell,Fury
+4,Artifact,Instant Cataclysmic Sword
+5,Spell,Miracle Pandemonium
+6,Spell,Assault
+7,Enchantment,Shade
+8,Enchantment,Dark Flight
+9,Creature,Light Assassin Cyclops
+10,Creature,Skin-Walker
+11,Creature,Light Grand Demon of the Sky
+12,Creature,Troll
+13,Enchantment,Firebreath
+14,Enchantment,Deathgrip
+15,Spell,Zealous Dark Frost
+16,Creature,Frozen Priest Goblin
+17,Enchantment,Solar Lethargy
+18,Artifact,Boots
+19,Enchantment,Corpse Agony
+20,Artifact,Miracle Potion
+21,Spell,Fire
+22,Creature,Snow Undead Phoenix of Hate
+23,Creature,Paladin
+24,Enchantment,Cataclysmic Shield
+25,Creature,Skin-Walker
+26,Creature,Troll
+27,Spell,Nimble Wall
+28,Enchantment,Nature Deathgrip
+29,Enchantment,Alacrity
+30,Spell,Heal
+31,Spell,Sorrow
+32,Enchantment,Empyrean Miracle Firebreath
+33,Enchantment,Instant Oblivion Drain
+34,Creature,Fairy
+35,Creature,Light Rogue Kraken
+36,Enchantment,Life Drain
+37,Enchantment,Hateful Lethargy
+38,Creature,Spider
+39,Creature,Dark Priest Oni of the Frozen Castle
+40,Enchantment,Agony
+41,Creature,Paladin
+42,Creature,Troll
+43,Enchantment,Flight
+44,Creature,Warlock

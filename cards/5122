@@ -1,46 +1,46 @@
-==================,DECK,5122,Light
-0,Artifact,Rare,Life Bracers
-1,Enchantment,Rare,Grim Lethargy
-2,Artifact,Rare,Apocalypse Helmet
-3,Artifact,Common,Ghost Wand
-4,Artifact,Common,Tome
-5,Creature,Common,Warlock
-6,Creature,Common,Magi
-7,Artifact,Common,Cloak
-8,Enchantment,Mythic,Mighty Lethargy
-9,Creature,Common,Ghoul
-10,Artifact,Common,Ring
-11,Spell,Common,Stun
-12,Artifact,Common,Bracers
-13,Creature,Common,Wolf
-14,Enchantment,Mythic,Potent Age
-15,Enchantment,Common,Age
-16,Artifact,Common,Pendant
-17,Spell,Rare,Life Maelstrom
-18,Enchantment,Common,Lethargy
-19,Enchantment,Common,Invert
-20,Enchantment,Common,Shade
-21,Creature,Common,Eagle
-22,Creature,Rare,Earth Queen Berserker
-23,Creature,Common,Spider
-24,Creature,Common,Goblin
-25,Enchantment,Rare,Solar Shield
-26,Creature,Legendary,Death Assassin Cyclops of the Bright Mountains
-27,Creature,Common,Eagle
-28,Creature,Rare,Snow Lord Hydra
-29,Spell,Legendary,Mighty Invisibility
-30,Creature,Common,Goblin
-31,Creature,Common,Orc
-32,Creature,Common,Paladin
-33,Creature,Common,Paladin
-34,Creature,Common,Paladin
-35,Enchantment,Legendary,Intense Agony
-36,Creature,Common,Spider
-37,Enchantment,Common,Invert
-38,Creature,Legendary,Dark Lord Cyclops of the Low Hills
-39,Spell,Common,Frost
-40,Artifact,Legendary,Urgent Sword
-41,Enchantment,Common,Blight
-42,Enchantment,Common,Deathgrip
-43,Creature,Common,Magi
-44,Creature,Common,Goblin
+==================,DECK,5122
+0,Artifact,Apocalypse Bracers
+1,Enchantment,Grim Blight
+2,Artifact,Victory Helmet
+3,Artifact,Ghost Wand
+4,Artifact,Tome
+5,Creature,Berserker
+6,Creature,Fairy
+7,Artifact,Cloak
+8,Enchantment,Dire Lunar Firebreath
+9,Creature,Ghoul
+10,Artifact,Ring
+11,Spell,Stun
+12,Artifact,Bracers
+13,Creature,Wolf
+14,Enchantment,Potent Victory Drain
+15,Enchantment,Firebreath
+16,Artifact,Pendant
+17,Spell,Grim Stricken
+18,Enchantment,Lethargy
+19,Enchantment,Shield
+20,Enchantment,Strength
+21,Creature,Eagle
+22,Creature,Earth Queen Goblin
+23,Creature,Paladin
+24,Creature,Skin-Walker
+25,Enchantment,Nature Lethargy
+26,Creature,Death Assassin Giant of the Bright Mountains
+27,Creature,Eagle
+28,Creature,Snow Lord Hydra
+29,Spell,Instant Lunar Stun
+30,Creature,Skin-Walker
+31,Creature,Spider
+32,Creature,Troll
+33,Creature,Troll
+34,Creature,Troll
+35,Enchantment,Urgent Corpse Agony
+36,Creature,Paladin
+37,Enchantment,Strength
+38,Creature,Dark Lord Giant of the Low Hills
+39,Spell,Sorrow
+40,Artifact,Potent Corpse Sword
+41,Enchantment,Shield
+42,Enchantment,Flight
+43,Creature,Fairy
+44,Creature,Skin-Walker

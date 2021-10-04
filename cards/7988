@@ -1,46 +1,46 @@
-==================,DECK,7988,Medium
-0,Creature,Common,Elf
-1,Enchantment,Mythic,Urgent Haste
-2,Creature,Legendary,Dark Assassin Oni of the Eternal Land
-3,Creature,Rare,Light Priest Berserker
-4,Enchantment,Common,Age
-5,Creature,Rare,Dark Lord Fairy
-6,Spell,Rare,Forged Heal
-7,Creature,Rare,Aura Priest Minotaur
-8,Creature,Legendary,Light Lord Cyclops of the Haven
-9,Creature,Mythic,Aura Ancient Wizard of the Light
-10,Creature,Common,Wolf
-11,Creature,Rare,Aura Thief Skin-Walker
-12,Spell,Common,Gravitation
-13,Creature,Common,Dwarf
-14,Creature,Common,Eagle
-15,Enchantment,Common,Alacrity
-16,Artifact,Common,Crown
-17,Spell,Common,Freeze
-18,Creature,Rare,Aura Undead Minotaur
-19,Spell,Rare,Necro Burst
-20,Spell,Common,Maelstrom
-21,Creature,Common,Goblin
-22,Spell,Rare,Solar Rage
-23,Creature,Common,Eagle
-24,Spell,Common,Frenzy
-25,Spell,Common,Heal
-26,Creature,Rare,Dark Thief Minotaur
-27,Creature,Common,Paladin
-28,Creature,Rare,Dark Queen Berserker
-29,Creature,Rare,Earth Assassin Skin-Walker
-30,Spell,Common,Stun
-31,Enchantment,Mythic,Potent Lethargy
-32,Spell,Common,Fury
-33,Creature,Rare,Aura Priest Skin-Walker
-34,Creature,Rare,Death Monk Griffin
-35,Creature,Legendary,Light Merchant Giant of the Arctic Blizzards
-36,Creature,Common,Dwarf
-37,Spell,Rare,Hateful Sorrow
-38,Enchantment,Mythic,Clever Haste
-39,Creature,Mythic,Dark Undead Dragon of Illusion
-40,Creature,Rare,Frozen Knight Skin-Walker
-41,Spell,Common,Reanimate
-42,Enchantment,Common,Age
-43,Creature,Common,Wolf
-44,Creature,Common,Dwarf
+==================,DECK,7988
+0,Creature,Warlock
+1,Enchantment,Empyrean Corpse Age
+2,Creature,Dark Assassin Oni of the Eternal Land
+3,Creature,Light Priest Goblin
+4,Enchantment,Flight
+5,Creature,Dark Lord Kraken
+6,Spell,Miracle Tempest
+7,Creature,Aura Priest Cyclops
+8,Creature,Light Lord Giant of the Haven
+9,Creature,Aura Ancient Wizard of the Light
+10,Creature,Wolf
+11,Creature,Aura Thief Orc
+12,Spell,Lightning
+13,Creature,Magi
+14,Creature,Eagle
+15,Enchantment,Shield
+16,Artifact,Crown
+17,Spell,Revive
+18,Creature,Aura Undead Cyclops
+19,Spell,Necro Infuriate
+20,Spell,Frenzy
+21,Creature,Skin-Walker
+22,Spell,Nature Assault
+23,Creature,Eagle
+24,Spell,Burst
+25,Spell,Infuriate
+26,Creature,Dark Thief Cyclops
+27,Creature,Troll
+28,Creature,Dark Queen Goblin
+29,Creature,Earth Assassin Orc
+30,Spell,Ice
+31,Enchantment,Ardent Grim Haste
+32,Spell,Reanimate
+33,Creature,Aura Priest Orc
+34,Creature,Death Monk Griffin
+35,Creature,Light Merchant Dwarf of the Arctic Blizzards
+36,Creature,Magi
+37,Spell,Lunar Stricken
+38,Enchantment,Clever Life Haste
+39,Creature,Dark Undead Dragon of Illusion
+40,Creature,Frozen Knight Orc
+41,Spell,Stun
+42,Enchantment,Alacrity
+43,Creature,Wolf
+44,Creature,Magi

@@ -1,46 +1,46 @@
-==================,DECK,5500,Light
-0,Enchantment,Common,Drain
-1,Enchantment,Common,Lethargy
-2,Artifact,Common,Potion
-3,Creature,Rare,Frozen Thief Berserker
-4,Creature,Rare,Light Knight Fairy
-5,Enchantment,Common,Age
-6,Enchantment,Common,Haste
-7,Creature,Common,Orc
-8,Creature,Common,Ghoul
-9,Spell,Rare,Hateful Infuriate
-10,Creature,Common,Ghoul
-11,Spell,Legendary,Urgent Stun
-12,Creature,Common,Magi
-13,Creature,Common,Warlock
-14,Enchantment,Common,Alacrity
-15,Enchantment,Common,Drain
-16,Creature,Common,Paladin
-17,Spell,Common,Torment
-18,Creature,Common,Eagle
-19,Spell,Common,Gale
-20,Enchantment,Common,Haste
-21,Spell,Common,Torment
-22,Creature,Rare,Light Lord Berserker
-23,Enchantment,Mythic,Dire Blight
-24,Creature,Common,Ghoul
-25,Creature,Common,Spider
-26,Creature,Common,Goblin
-27,Artifact,Common,Belt
-28,Spell,Common,Pandemonium
-29,Creature,Common,Ghoul
-30,Creature,Common,Ghoul
-31,Enchantment,Mythic,Mighty Age
-32,Enchantment,Common,Shrink
-33,Spell,Rare,Cataclysmic Burn
-34,Enchantment,Common,Invert
-35,Creature,Mythic,Earth Grand Demon of the Shadows
-36,Spell,Common,Vortex
-37,Enchantment,Common,Drain
-38,Creature,Rare,Earth Queen Fairy
-39,Creature,Rare,Dark Fighter Berserker
-40,Creature,Rare,Aura Queen Hydra
-41,Creature,Common,Eagle
-42,Creature,Common,Elf
-43,Creature,Common,Spider
-44,Creature,Common,Magi
+==================,DECK,5500
+0,Enchantment,Lethargy
+1,Enchantment,Drain
+2,Artifact,Potion
+3,Creature,Frozen Thief Goblin
+4,Creature,Light Knight Kraken
+5,Enchantment,Drain
+6,Enchantment,Drain
+7,Creature,Spider
+8,Creature,Ghoul
+9,Spell,Cataclysmic Infuriate
+10,Creature,Ghoul
+11,Spell,Clever Necro Frost
+12,Creature,Fairy
+13,Creature,Berserker
+14,Enchantment,Alacrity
+15,Enchantment,Strength
+16,Creature,Troll
+17,Spell,Tempest
+18,Creature,Eagle
+19,Spell,Stun
+20,Enchantment,Haste
+21,Spell,Lightning
+22,Creature,Light Lord Goblin
+23,Enchantment,Clever Nimble Haste
+24,Creature,Ghoul
+25,Creature,Paladin
+26,Creature,Skin-Walker
+27,Artifact,Belt
+28,Spell,Maelstrom
+29,Creature,Ghoul
+30,Creature,Ghoul
+31,Enchantment,Potent Gloom Shrink
+32,Enchantment,Agony
+33,Spell,Lunar Burst
+34,Enchantment,Haste
+35,Creature,Earth Grand Demon of the Shadows
+36,Spell,Wall
+37,Enchantment,Shade
+38,Creature,Earth Queen Kraken
+39,Creature,Dark Fighter Goblin
+40,Creature,Aura Queen Hydra
+41,Creature,Eagle
+42,Creature,Warlock
+43,Creature,Paladin
+44,Creature,Fairy

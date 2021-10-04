@@ -1,46 +1,46 @@
-==================,DECK,6494,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Orc
-2,Creature,Common,Ghoul
-3,Creature,Common,Magi
-4,Creature,Rare,Frozen King Fairy
-5,Artifact,Common,Tome
-6,Spell,Rare,Shimmering Burst
-7,Creature,Common,Goblin
-8,Creature,Rare,Snow Merchant Hydra
-9,Enchantment,Common,Agony
-10,Creature,Common,Warlock
-11,Enchantment,Legendary,Extreme Lethargy
-12,Spell,Common,Rage
-13,Enchantment,Common,Haste
-14,Creature,Common,Orc
-15,Creature,Common,Orc
-16,Creature,Rare,Death Priest Griffin
-17,Creature,Legendary,Death Thief Cyclops of the Black Stone
-18,Enchantment,Common,Strength
-19,Creature,Common,Dwarf
-20,Creature,Rare,Aura Knight Fairy
-21,Artifact,Common,Pendant
-22,Creature,Rare,Death Lord Minotaur
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Age
-25,Creature,Common,Spider
-26,Creature,Rare,Light Knight Hydra
-27,Spell,Common,Assault
-28,Enchantment,Mythic,Clever Shield
-29,Creature,Mythic,Earth Chaos Wizard of the Shadows
-30,Spell,Common,Torment
-31,Enchantment,Common,Shade
-32,Creature,Common,Paladin
-33,Creature,Common,Wolf
-34,Artifact,Common,Ring
-35,Creature,Rare,Death Assassin Fairy
-36,Creature,Common,Orc
-37,Enchantment,Common,Deathgrip
-38,Creature,Common,Eagle
-39,Creature,Common,Ghoul
-40,Creature,Rare,Aura Assassin Fairy
-41,Creature,Rare,Snow Lord Fairy
-42,Creature,Common,Magi
-43,Creature,Common,Elf
-44,Creature,Rare,Light Queen Minotaur
+==================,DECK,6494
+0,Enchantment,Alacrity
+1,Creature,Spider
+2,Creature,Ghoul
+3,Creature,Fairy
+4,Creature,Frozen King Kraken
+5,Artifact,Tome
+6,Spell,Corpse Freeze
+7,Creature,Skin-Walker
+8,Creature,Snow Merchant Hydra
+9,Enchantment,Agony
+10,Creature,Berserker
+11,Enchantment,Dire Lunar Firebreath
+12,Spell,Tempest
+13,Enchantment,Drain
+14,Creature,Spider
+15,Creature,Spider
+16,Creature,Death Priest Griffin
+17,Creature,Death Thief Giant of the Black Stone
+18,Enchantment,Haste
+19,Creature,Magi
+20,Creature,Aura Knight Kraken
+21,Artifact,Pendant
+22,Creature,Death Lord Cyclops
+23,Creature,Ghoul
+24,Enchantment,Shade
+25,Creature,Paladin
+26,Creature,Light Knight Hydra
+27,Spell,Frost
+28,Enchantment,Urgent Victory Invert
+29,Creature,Earth Chaos Wizard of the Shadows
+30,Spell,Fury
+31,Enchantment,Lethargy
+32,Creature,Troll
+33,Creature,Wolf
+34,Artifact,Ring
+35,Creature,Death Assassin Kraken
+36,Creature,Spider
+37,Enchantment,Shield
+38,Creature,Eagle
+39,Creature,Ghoul
+40,Creature,Aura Assassin Kraken
+41,Creature,Snow Lord Kraken
+42,Creature,Fairy
+43,Creature,Warlock
+44,Creature,Light Queen Cyclops

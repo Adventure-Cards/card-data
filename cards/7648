@@ -1,46 +1,46 @@
-==================,DECK,7648,Medium
-0,Spell,Rare,Dark Rage
-1,Creature,Mythic,Light Time Dragon of the Sky
-2,Enchantment,Common,Flight
-3,Spell,Mythic,Dire Hypnosis
-4,Creature,Common,Magi
-5,Enchantment,Common,Blight
-6,Enchantment,Legendary,Urgent Drain
-7,Artifact,Common,Boots
-8,Artifact,Rare,Shimmering Sigil
-9,Spell,Common,Hypnosis
-10,Creature,Legendary,Earth King Kraken of the Plains
-11,Spell,Common,Burst
-12,Enchantment,Common,Blight
-13,Creature,Legendary,Dark Assassin Kraken of the Bright Mountains
-14,Creature,Common,Dwarf
-15,Artifact,Rare,Cataclysmic Belt
-16,Enchantment,Rare,Frigid Agony
-17,Spell,Common,Sorrow
-18,Spell,Common,Wall
-19,Creature,Rare,Frozen King Fairy
-20,Spell,Common,Rage
-21,Creature,Common,Dwarf
-22,Enchantment,Legendary,Dire Invert
-23,Spell,Common,Gale
-24,Creature,Common,Dwarf
-25,Enchantment,Legendary,Angry Shrink
-26,Enchantment,Rare,Solar Shield
-27,Creature,Common,Eagle
-28,Creature,Common,Orc
-29,Creature,Rare,Light Knight Minotaur
-30,Enchantment,Common,Shield
-31,Spell,Legendary,Intense Invisibility
-32,Enchantment,Common,Haste
-33,Spell,Common,Fury
-34,Enchantment,Common,Drain
-35,Artifact,Rare,Solar Greaves
-36,Enchantment,Common,Haste
-37,Creature,Legendary,Snow Fighter Kraken of the West
-38,Enchantment,Rare,Cataclysmic Flight
-39,Creature,Rare,Earth Priest Fairy
-40,Spell,Common,Ice
-41,Spell,Common,Assault
-42,Artifact,Rare,Life Pendant
-43,Creature,Mythic,Dark Nameless Phoenix of Illusion
-44,Enchantment,Common,Deathgrip
+==================,DECK,7648
+0,Spell,Sorrow Freeze
+1,Creature,Light Time Dragon of the Sky
+2,Enchantment,Shrink
+3,Spell,Zealous Victory Fury
+4,Creature,Fairy
+5,Enchantment,Drain
+6,Enchantment,Zealous Forged Deathgrip
+7,Artifact,Boots
+8,Artifact,Nature Sigil
+9,Spell,Invisibility
+10,Creature,Earth King Ogre of the Plains
+11,Spell,Stun
+12,Enchantment,Invert
+13,Creature,Dark Assassin Ogre of the Bright Mountains
+14,Creature,Magi
+15,Artifact,Miracle Belt
+16,Enchantment,Life Shade
+17,Spell,Assault
+18,Spell,Tempest
+19,Creature,Frozen King Kraken
+20,Spell,Fire
+21,Creature,Magi
+22,Enchantment,Irate Oblivion Blight
+23,Spell,Frenzy
+24,Creature,Magi
+25,Enchantment,Empyrean Chimeric Firebreath
+26,Enchantment,Nature Deathgrip
+27,Creature,Eagle
+28,Creature,Spider
+29,Creature,Light Knight Cyclops
+30,Enchantment,Shade
+31,Spell,Urgent Necro Pandemonium
+32,Enchantment,Blight
+33,Spell,Revive
+34,Enchantment,Lethargy
+35,Artifact,Corpse Greaves
+36,Enchantment,Shade
+37,Creature,Snow Fighter Ogre of the West
+38,Enchantment,Lunar Alacrity
+39,Creature,Earth Priest Kraken
+40,Spell,Pandemonium
+41,Spell,Sorrow
+42,Artifact,Oblivion Pendant
+43,Creature,Dark Nameless Phoenix of Illusion
+44,Enchantment,Haste

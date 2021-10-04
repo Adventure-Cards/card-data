@@ -1,46 +1,46 @@
-==================,DECK,7966,Light
-0,Artifact,Common,Bracers
-1,Creature,Common,Goblin
-2,Enchantment,Common,Shield
-3,Enchantment,Rare,Shimmering Shrink
-4,Artifact,Common,Scepter
-5,Creature,Mythic,Frozen Ancient Demon of the Void
-6,Artifact,Rare,Frigid Ring
-7,Artifact,Common,Boots
-8,Artifact,Common,Gauntlet
-9,Creature,Common,Orc
-10,Artifact,Rare,Solar Sigil
-11,Enchantment,Common,Age
-12,Creature,Rare,Light Priest Griffin
-13,Artifact,Legendary,Intense Scepter
-14,Spell,Rare,Shimmering Fury
-15,Creature,Common,Warlock
-16,Enchantment,Common,Strength
-17,Creature,Legendary,Snow King Orge of the Border
-18,Enchantment,Common,Drain
-19,Creature,Legendary,Frozen Queen Giant of the Frozen Castle
-20,Spell,Common,Rage
-21,Enchantment,Mythic,Intense Blight
-22,Creature,Common,Warlock
-23,Creature,Common,Elf
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Ghoul
-26,Spell,Common,Frenzy
-27,Artifact,Common,Boots
-28,Creature,Legendary,Aura Queen Kraken of the Magical Forest
-29,Spell,Legendary,Clever Stricken
-30,Creature,Rare,Snow Lord Griffin
-31,Enchantment,Common,Lethargy
-32,Enchantment,Common,Invert
-33,Creature,Common,Elf
-34,Creature,Rare,Earth Merchant Fairy
-35,Spell,Common,Hypnosis
-36,Enchantment,Common,Shade
-37,Enchantment,Common,Haste
-38,Spell,Rare,Solar Vortex
-39,Creature,Common,Wolf
-40,Creature,Rare,Snow King Skin-Walker
-41,Spell,Rare,Necro Infuriate
-42,Creature,Legendary,Snow Queen Cyclops of the Magical Forest
-43,Enchantment,Common,Flight
-44,Spell,Common,Assault
+==================,DECK,7966
+0,Artifact,Bracers
+1,Creature,Skin-Walker
+2,Enchantment,Invert
+3,Enchantment,Necro Deathgrip
+4,Artifact,Scepter
+5,Creature,Frozen Ancient Demon of the Void
+6,Artifact,Oblivion Ring
+7,Artifact,Boots
+8,Artifact,Gauntlet
+9,Creature,Spider
+10,Artifact,Hateful Sigil
+11,Enchantment,Strength
+12,Creature,Light Priest Griffin
+13,Artifact,Potent Hateful Scepter
+14,Spell,Shimmering Sorrow
+15,Creature,Berserker
+16,Enchantment,Haste
+17,Creature,Snow King Elf of the Border
+18,Enchantment,Lethargy
+19,Creature,Frozen Queen Dwarf of the Frozen Castle
+20,Spell,Sorrow
+21,Enchantment,Empyrean Solar Age
+22,Creature,Berserker
+23,Creature,Warlock
+24,Enchantment,Invert
+25,Creature,Ghoul
+26,Spell,Ice
+27,Artifact,Boots
+28,Creature,Aura Queen Ogre of the Magical Forest
+29,Spell,Zealous Oblivion Maelstrom
+30,Creature,Snow Lord Griffin
+31,Enchantment,Deathgrip
+32,Enchantment,Drain
+33,Creature,Warlock
+34,Creature,Earth Merchant Kraken
+35,Spell,Burst
+36,Enchantment,Shrink
+37,Enchantment,Blight
+38,Spell,Corpse Invisibility
+39,Creature,Wolf
+40,Creature,Snow King Orc
+41,Spell,Solar Infuriate
+42,Creature,Snow Queen Giant of the Magical Forest
+43,Enchantment,Blight
+44,Spell,Frost

@@ -1,46 +1,46 @@
-==================,DECK,6716,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Mythic,Urgent Blight
-2,Spell,Common,Ice
-3,Enchantment,Common,Blight
-4,Creature,Common,Ghoul
-5,Creature,Legendary,Death Queen Giant of the Low Hills
-6,Creature,Common,Spider
-7,Spell,Rare,Dark Invisibility
-8,Creature,Legendary,Aura Thief Giant of the Border
-9,Creature,Rare,Death Fighter Hydra
-10,Creature,Common,Wolf
-11,Enchantment,Common,Shade
-12,Spell,Common,Heal
-13,Enchantment,Common,Drain
-14,Artifact,Rare,Apocalypse Bracers
-15,Spell,Legendary,Urgent Wall
-16,Spell,Mythic,Intense Vortex
-17,Spell,Rare,Necro Gale
-18,Spell,Rare,Shimmering Stricken
-19,Enchantment,Mythic,Dire Lethargy
-20,Enchantment,Rare,Shimmering Blight
-21,Spell,Rare,Apocalypse Fury
-22,Enchantment,Mythic,Extreme Drain
-23,Artifact,Rare,Grim Pendant
-24,Enchantment,Common,Deathgrip
-25,Artifact,Common,Helmet
-26,Creature,Common,Wolf
-27,Creature,Rare,Dark Warrior Minotaur
-28,Creature,Rare,Frozen Merchant Fairy
-29,Enchantment,Common,Flight
-30,Creature,Rare,Light Undead Hydra
-31,Spell,Rare,Dark Heal
-32,Enchantment,Common,Strength
-33,Creature,Rare,Light Fighter Hydra
-34,Spell,Common,Revive
-35,Creature,Rare,Aura Undead Minotaur
-36,Enchantment,Common,Agony
-37,Enchantment,Common,Alacrity
-38,Enchantment,Rare,Dark Strength
-39,Spell,Common,Gale
-40,Artifact,Common,Helmet
-41,Spell,Common,Infuriate
-42,Spell,Rare,Hateful Sorrow
-43,Creature,Common,Magi
-44,Creature,Common,Elf
+==================,DECK,6716
+0,Creature,Magi
+1,Enchantment,Zealous Solar Deathgrip
+2,Spell,Stun
+3,Enchantment,Lethargy
+4,Creature,Ghoul
+5,Creature,Death Queen Dwarf of the Low Hills
+6,Creature,Paladin
+7,Spell,Cataclysmic Tempest
+8,Creature,Aura Thief Dwarf of the Border
+9,Creature,Death Fighter Hydra
+10,Creature,Wolf
+11,Enchantment,Shade
+12,Spell,Fury
+13,Enchantment,Lethargy
+14,Artifact,Nimble Bracers
+15,Spell,Urgent Hateful Wall
+16,Spell,Dire Nature Fire
+17,Spell,Corpse Fury
+18,Spell,Shimmering Burn
+19,Enchantment,Dire Grim Shade
+20,Enchantment,Solar Lethargy
+21,Spell,Grim Wall
+22,Enchantment,Empyrean Dark Firebreath
+23,Artifact,Life Pendant
+24,Enchantment,Blight
+25,Artifact,Helmet
+26,Creature,Wolf
+27,Creature,Dark Warrior Cyclops
+28,Creature,Frozen Merchant Kraken
+29,Enchantment,Age
+30,Creature,Light Undead Hydra
+31,Spell,Sorrow Fireball
+32,Enchantment,Firebreath
+33,Creature,Light Fighter Hydra
+34,Spell,Wall
+35,Creature,Aura Undead Cyclops
+36,Enchantment,Firebreath
+37,Enchantment,Age
+38,Enchantment,Cataclysmic Shrink
+39,Spell,Freeze
+40,Artifact,Helmet
+41,Spell,Hypnosis
+42,Spell,Miracle Burn
+43,Creature,Fairy
+44,Creature,Warlock

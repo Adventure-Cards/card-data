@@ -1,46 +1,46 @@
-==================,DECK,6295,Light
-0,Creature,Common,Orc
-1,Creature,Common,Wolf
-2,Enchantment,Common,Blight
-3,Spell,Common,Invisibility
-4,Spell,Common,Ice
-5,Spell,Common,Wall
-6,Spell,Common,Frost
-7,Spell,Common,Stricken
-8,Creature,Common,Ghoul
-9,Creature,Mythic,Aura Grand Wizard of the Light
-10,Spell,Common,Invisibility
-11,Creature,Legendary,Frozen Warrior Kraken of the West
-12,Enchantment,Common,Drain
-13,Enchantment,Legendary,Mighty Deathgrip
-14,Spell,Common,Maelstrom
-15,Creature,Common,Spider
-16,Enchantment,Common,Haste
-17,Creature,Common,Warlock
-18,Creature,Rare,Death Queen Minotaur
-19,Creature,Common,Elf
-20,Spell,Common,Gravitation
-21,Enchantment,Common,Shrink
-22,Creature,Common,Paladin
-23,Creature,Legendary,Snow Thief Cyclops of the Arctic Blizzards
-24,Creature,Legendary,Snow Warrior Giant of the Polar Woods
-25,Creature,Common,Warlock
-26,Spell,Rare,Forged Frenzy
-27,Creature,Common,Spider
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Elf
-30,Creature,Common,Ghoul
-31,Creature,Common,Orc
-32,Artifact,Common,Amulet
-33,Artifact,Legendary,Angry Sword
-34,Creature,Common,Spider
-35,Creature,Common,Spider
-36,Artifact,Common,Ring
-37,Enchantment,Common,Invert
-38,Creature,Common,Wolf
-39,Artifact,Common,Bow
-40,Creature,Common,Orc
-41,Creature,Common,Orc
-42,Artifact,Common,Cloak
-43,Spell,Common,Invisibility
-44,Spell,Common,Fury
+==================,DECK,6295
+0,Creature,Spider
+1,Creature,Wolf
+2,Enchantment,Firebreath
+3,Spell,Assault
+4,Spell,Freeze
+5,Spell,Stricken
+6,Spell,Ice
+7,Spell,Frost
+8,Creature,Ghoul
+9,Creature,Aura Grand Wizard of the Light
+10,Spell,Sorrow
+11,Creature,Frozen Warrior Ogre of the West
+12,Enchantment,Alacrity
+13,Enchantment,Potent Sorrow Shrink
+14,Spell,Freeze
+15,Creature,Paladin
+16,Enchantment,Drain
+17,Creature,Berserker
+18,Creature,Death Queen Cyclops
+19,Creature,Warlock
+20,Spell,Burn
+21,Enchantment,Deathgrip
+22,Creature,Troll
+23,Creature,Snow Thief Giant of the Arctic Blizzards
+24,Creature,Snow Warrior Dwarf of the Polar Woods
+25,Creature,Berserker
+26,Spell,Lunar Pandemonium
+27,Creature,Paladin
+28,Enchantment,Firebreath
+29,Creature,Warlock
+30,Creature,Ghoul
+31,Creature,Spider
+32,Artifact,Amulet
+33,Artifact,Potent Dark Sword
+34,Creature,Paladin
+35,Creature,Paladin
+36,Artifact,Ring
+37,Enchantment,Lethargy
+38,Creature,Wolf
+39,Artifact,Bow
+40,Creature,Spider
+41,Creature,Spider
+42,Artifact,Cloak
+43,Spell,Torment
+44,Spell,Freeze

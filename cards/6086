@@ -1,46 +1,46 @@
-==================,DECK,6086,Medium
-0,Creature,Rare,Dark Assassin Berserker
-1,Spell,Common,Gravitation
-2,Spell,Common,Fury
-3,Creature,Common,Dwarf
-4,Creature,Common,Warlock
-5,Creature,Common,Goblin
-6,Enchantment,Rare,Life Flight
-7,Enchantment,Legendary,Instant Lethargy
-8,Spell,Rare,Dark Lightning
-9,Enchantment,Common,Age
-10,Artifact,Legendary,Angry Bow
-11,Spell,Rare,Nimble Frenzy
-12,Creature,Common,Warlock
-13,Spell,Common,Ice
-14,Creature,Rare,Earth Fighter Skin-Walker
-15,Spell,Common,Maelstrom
-16,Spell,Common,Lightning
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Lethargy
-19,Spell,Common,Assault
-20,Enchantment,Mythic,Potent Haste
-21,Enchantment,Mythic,Mighty Lethargy
-22,Enchantment,Common,Blight
-23,Creature,Legendary,Snow King Oni of the Arctic Blizzards
-24,Creature,Common,Spider
-25,Creature,Common,Ghoul
-26,Creature,Common,Warlock
-27,Spell,Legendary,Mighty Burst
-28,Creature,Common,Eagle
-29,Creature,Mythic,Dark Undead Dragon of Illusion
-30,Creature,Mythic,Death Time Phoenix of the Dead
-31,Spell,Common,Infuriate
-32,Creature,Rare,Frozen Fighter Minotaur
-33,Creature,Legendary,Aura Queen Giant of the Swamp
-34,Spell,Rare,Solar Gravitation
-35,Enchantment,Common,Agony
-36,Spell,Common,Fury
-37,Spell,Common,Torment
-38,Creature,Common,Paladin
-39,Artifact,Common,Amulet
-40,Spell,Rare,Corpse Rage
-41,Creature,Common,Warlock
-42,Enchantment,Common,Blight
-43,Creature,Common,Ghoul
-44,Creature,Rare,Aura Merchant Griffin
+==================,DECK,6086
+0,Creature,Dark Assassin Goblin
+1,Spell,Lightning
+2,Spell,Rage
+3,Creature,Magi
+4,Creature,Berserker
+5,Creature,Skin-Walker
+6,Enchantment,Grim Blight
+7,Enchantment,Dire Hateful Age
+8,Spell,Gloom Burst
+9,Enchantment,Invert
+10,Artifact,Mighty Sorrow Bow
+11,Spell,Shimmering Hypnosis
+12,Creature,Berserker
+13,Spell,Reanimate
+14,Creature,Earth Fighter Orc
+15,Spell,Infuriate
+16,Spell,Stricken
+17,Creature,Magi
+18,Enchantment,Invert
+19,Spell,Vortex
+20,Enchantment,Empyrean Life Shade
+21,Enchantment,Dire Lunar Firebreath
+22,Enchantment,Deathgrip
+23,Creature,Snow King Oni of the Arctic Blizzards
+24,Creature,Paladin
+25,Creature,Ghoul
+26,Creature,Berserker
+27,Spell,Potent Dark Stricken
+28,Creature,Eagle
+29,Creature,Dark Undead Dragon of Illusion
+30,Creature,Death Time Phoenix of the Dead
+31,Spell,Infuriate
+32,Creature,Frozen Fighter Cyclops
+33,Creature,Aura Queen Dwarf of the Swamp
+34,Spell,Nature Frenzy
+35,Enchantment,Flight
+36,Spell,Reanimate
+37,Spell,Torment
+38,Creature,Troll
+39,Artifact,Amulet
+40,Spell,Forged Frenzy
+41,Creature,Berserker
+42,Enchantment,Drain
+43,Creature,Ghoul
+44,Creature,Aura Merchant Griffin

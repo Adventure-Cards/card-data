@@ -1,46 +1,46 @@
-==================,DECK,5485,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Goblin
-2,Creature,Common,Eagle
-3,Artifact,Common,Bracers
-4,Spell,Rare,Forged Torment
-5,Creature,Rare,Death Thief Skin-Walker
-6,Creature,Rare,Snow Assassin Minotaur
-7,Enchantment,Mythic,Intense Haste
-8,Spell,Mythic,Potent Freeze
-9,Creature,Common,Spider
-10,Creature,Rare,Light Assassin Minotaur
-11,Enchantment,Mythic,Potent Invert
-12,Spell,Rare,Grim Invisibility
-13,Creature,Legendary,Earth Undead Oni of the Magical Forest
-14,Spell,Common,Ice
-15,Creature,Common,Spider
-16,Creature,Common,Magi
-17,Creature,Rare,Earth Fighter Hydra
-18,Spell,Rare,Frigid Gravitation
-19,Creature,Common,Wolf
-20,Enchantment,Mythic,Extreme Agony
-21,Spell,Rare,Solar Freeze
-22,Enchantment,Common,Lethargy
-23,Creature,Common,Wolf
-24,Spell,Common,Gravitation
-25,Enchantment,Common,Drain
-26,Artifact,Rare,Gloom Greaves
-27,Enchantment,Rare,Necro Shrink
-28,Enchantment,Common,Shield
-29,Creature,Common,Orc
-30,Creature,Common,Dwarf
-31,Creature,Legendary,Death Knight Kraken of the Black Stone
-32,Creature,Common,Magi
-33,Spell,Rare,Cataclysmic Ice
-34,Creature,Common,Elf
-35,Creature,Common,Magi
-36,Artifact,Legendary,Extreme Sword
-37,Enchantment,Rare,Cataclysmic Shrink
-38,Creature,Common,Eagle
-39,Creature,Common,Ghoul
-40,Creature,Common,Wolf
-41,Creature,Common,Dwarf
-42,Spell,Common,Frost
-43,Enchantment,Mythic,Clever Alacrity
-44,Spell,Common,Maelstrom
+==================,DECK,5485
+0,Creature,Warlock
+1,Creature,Skin-Walker
+2,Creature,Eagle
+3,Artifact,Bracers
+4,Spell,Lunar Maelstrom
+5,Creature,Death Thief Orc
+6,Creature,Snow Assassin Cyclops
+7,Enchantment,Potent Corpse Strength
+8,Spell,Dire Nimble Gravitation
+9,Creature,Paladin
+10,Creature,Light Assassin Cyclops
+11,Enchantment,Ardent Oblivion Haste
+12,Spell,Victory Pandemonium
+13,Creature,Earth Undead Oni of the Magical Forest
+14,Spell,Frenzy
+15,Creature,Paladin
+16,Creature,Fairy
+17,Creature,Earth Fighter Hydra
+18,Spell,Grim Gravitation
+19,Creature,Wolf
+20,Enchantment,Urgent Miracle Flight
+21,Spell,Shimmering Heal
+22,Enchantment,Shrink
+23,Creature,Wolf
+24,Spell,Freeze
+25,Enchantment,Haste
+26,Artifact,Chimeric Greaves
+27,Enchantment,Necro Deathgrip
+28,Enchantment,Shrink
+29,Creature,Spider
+30,Creature,Magi
+31,Creature,Death Knight Ogre of the Black Stone
+32,Creature,Fairy
+33,Spell,Lunar Fire
+34,Creature,Warlock
+35,Creature,Fairy
+36,Artifact,Potent Cataclysmic Sword
+37,Enchantment,Chimeric Shrink
+38,Creature,Eagle
+39,Creature,Ghoul
+40,Creature,Wolf
+41,Creature,Magi
+42,Spell,Stricken
+43,Enchantment,Urgent Apocalypse Invert
+44,Spell,Tempest

@@ -1,46 +1,46 @@
-==================,DECK,6702,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Stricken
-2,Creature,Common,Ghoul
-3,Creature,Common,Elf
-4,Creature,Common,Dwarf
-5,Enchantment,Legendary,Clever Agony
-6,Enchantment,Common,Deathgrip
-7,Spell,Common,Burn
-8,Creature,Rare,Dark Fighter Griffin
-9,Spell,Legendary,Intense Freeze
-10,Creature,Common,Goblin
-11,Creature,Common,Paladin
-12,Creature,Common,Paladin
-13,Creature,Common,Orc
-14,Enchantment,Common,Deathgrip
-15,Creature,Legendary,Light Assassin Kraken of the Border
-16,Creature,Rare,Dark Rogue Minotaur
-17,Enchantment,Common,Lethargy
-18,Creature,Common,Warlock
-19,Creature,Legendary,Death Priest Giant of the Golden Palace
-20,Creature,Common,Warlock
-21,Creature,Rare,Snow Warrior Minotaur
-22,Enchantment,Rare,Corpse Alacrity
-23,Creature,Common,Orc
-24,Creature,Rare,Dark Knight Skin-Walker
-25,Creature,Rare,Light Warrior Skin-Walker
-26,Spell,Common,Gale
-27,Spell,Common,Reanimate
-28,Spell,Common,Hypnosis
-29,Creature,Common,Ghoul
-30,Creature,Legendary,Dark Monk Orge of the Plains
-31,Artifact,Rare,Miracle Scepter
-32,Spell,Legendary,Dire Gravitation
-33,Spell,Common,Fury
-34,Creature,Legendary,Dark Fighter Cyclops of the Magical Forest
-35,Artifact,Common,Gloves
-36,Creature,Common,Paladin
-37,Artifact,Common,Gauntlet
-38,Creature,Legendary,Light Warrior Giant of the Swamp
-39,Enchantment,Common,Flight
-40,Enchantment,Common,Shade
-41,Creature,Rare,Frozen Lord Skin-Walker
-42,Spell,Legendary,Clever Infuriate
-43,Creature,Common,Warlock
-44,Creature,Common,Goblin
+==================,DECK,6702
+0,Creature,Wolf
+1,Spell,Fire
+2,Creature,Ghoul
+3,Creature,Warlock
+4,Creature,Magi
+5,Enchantment,Instant Life Drain
+6,Enchantment,Agony
+7,Spell,Torment
+8,Creature,Dark Fighter Griffin
+9,Spell,Ardent Necro Gale
+10,Creature,Skin-Walker
+11,Creature,Troll
+12,Creature,Troll
+13,Creature,Spider
+14,Enchantment,Shade
+15,Creature,Light Assassin Ogre of the Border
+16,Creature,Dark Rogue Cyclops
+17,Enchantment,Firebreath
+18,Creature,Berserker
+19,Creature,Death Priest Dwarf of the Golden Palace
+20,Creature,Berserker
+21,Creature,Snow Warrior Cyclops
+22,Enchantment,Forged Age
+23,Creature,Spider
+24,Creature,Dark Knight Orc
+25,Creature,Light Warrior Orc
+26,Spell,Revive
+27,Spell,Fury
+28,Spell,Assault
+29,Creature,Ghoul
+30,Creature,Dark Monk Elf of the Plains
+31,Artifact,Oblivion Scepter
+32,Spell,Dire Apocalypse Fireball
+33,Spell,Gale
+34,Creature,Dark Fighter Giant of the Magical Forest
+35,Artifact,Gloves
+36,Creature,Troll
+37,Artifact,Gauntlet
+38,Creature,Light Warrior Dwarf of the Swamp
+39,Enchantment,Flight
+40,Enchantment,Agony
+41,Creature,Frozen Lord Orc
+42,Spell,Zealous Life Stun
+43,Creature,Berserker
+44,Creature,Skin-Walker

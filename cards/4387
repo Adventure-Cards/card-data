@@ -1,46 +1,46 @@
-==================,DECK,4387,Light
-0,Creature,Common,Wolf
-1,Creature,Legendary,Death Fighter Cyclops of the Black Stone
-2,Spell,Common,Gravitation
-3,Creature,Common,Magi
-4,Creature,Common,Warlock
-5,Creature,Common,Ghoul
-6,Enchantment,Mythic,Angry Alacrity
-7,Artifact,Common,Divine Robe
-8,Creature,Common,Dwarf
-9,Creature,Common,Wolf
-10,Creature,Rare,Dark Priest Fairy
-11,Enchantment,Common,Shrink
-12,Creature,Common,Paladin
-13,Creature,Common,Spider
-14,Creature,Rare,Death Undead Berserker
-15,Enchantment,Common,Drain
-16,Creature,Rare,Snow Rogue Minotaur
-17,Spell,Rare,Grim Wall
-18,Creature,Legendary,Death Priest Kraken of the Haven
-19,Artifact,Common,Greaves
-20,Creature,Legendary,Frozen Lord Orge of the Eastern Skies
-21,Spell,Legendary,Clever Pandemonium
-22,Creature,Legendary,Snow King Cyclops of the Mountains
-23,Creature,Mythic,Earth Time Dragon of the Shadows
-24,Creature,Common,Goblin
-25,Spell,Common,Gravitation
-26,Creature,Common,Wolf
-27,Creature,Common,Eagle
-28,Spell,Common,Stun
-29,Creature,Common,Dwarf
-30,Creature,Common,Eagle
-31,Creature,Common,Wolf
-32,Artifact,Common,Sword
-33,Creature,Common,Warlock
-34,Spell,Legendary,Urgent Reanimate
-35,Creature,Common,Spider
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Goblin
-38,Creature,Legendary,Death King Giant of the Plains
-39,Spell,Common,Lightning
-40,Creature,Rare,Snow Rogue Fairy
-41,Artifact,Common,Cloak
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Common,Deathgrip
-44,Artifact,Common,Scepter
+==================,DECK,4387
+0,Creature,Wolf
+1,Creature,Death Fighter Giant of the Black Stone
+2,Spell,Fireball
+3,Creature,Fairy
+4,Creature,Berserker
+5,Creature,Ghoul
+6,Enchantment,Irate Dark Alacrity
+7,Artifact,Divine Robe
+8,Creature,Magi
+9,Creature,Wolf
+10,Creature,Dark Priest Kraken
+11,Enchantment,Strength
+12,Creature,Troll
+13,Creature,Paladin
+14,Creature,Death Undead Goblin
+15,Enchantment,Haste
+16,Creature,Snow Rogue Cyclops
+17,Spell,Victory Pandemonium
+18,Creature,Death Priest Ogre of the Haven
+19,Artifact,Greaves
+20,Creature,Frozen Lord Elf of the Eastern Skies
+21,Spell,Mighty Grim Lightning
+22,Creature,Snow King Giant of the Mountains
+23,Creature,Earth Time Dragon of the Shadows
+24,Creature,Skin-Walker
+25,Spell,Lightning
+26,Creature,Wolf
+27,Creature,Eagle
+28,Spell,Frenzy
+29,Creature,Magi
+30,Creature,Eagle
+31,Creature,Wolf
+32,Artifact,Sword
+33,Creature,Berserker
+34,Spell,Clever Shimmering Sorrow
+35,Creature,Paladin
+36,Enchantment,Drain
+37,Creature,Skin-Walker
+38,Creature,Death King Dwarf of the Plains
+39,Spell,Burst
+40,Creature,Snow Rogue Kraken
+41,Artifact,Cloak
+42,Enchantment,Agony
+43,Enchantment,Lethargy
+44,Artifact,Scepter

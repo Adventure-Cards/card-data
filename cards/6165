@@ -1,46 +1,46 @@
-==================,DECK,6165,Light
-0,Creature,Legendary,Frozen Knight Kraken of the Low Hills
-1,Creature,Rare,Light Priest Minotaur
-2,Spell,Common,Infuriate
-3,Spell,Common,Reanimate
-4,Creature,Common,Orc
-5,Creature,Common,Ghoul
-6,Creature,Common,Goblin
-7,Spell,Rare,Life Pandemonium
-8,Spell,Legendary,Clever Pandemonium
-9,Spell,Common,Maelstrom
-10,Creature,Common,Elf
-11,Artifact,Common,Amulet
-12,Enchantment,Common,Lethargy
-13,Creature,Common,Eagle
-14,Creature,Rare,Light Fighter Hydra
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Ghoul
-17,Spell,Common,Reanimate
-18,Enchantment,Mythic,Dire Shade
-19,Artifact,Rare,Oblivion Bracers
-20,Creature,Legendary,Earth Knight Kraken of the Golden Palace
-21,Enchantment,Common,Shade
-22,Creature,Common,Warlock
-23,Creature,Rare,Death Lord Griffin
-24,Creature,Mythic,Frozen Chaos Wizard of the Void
-25,Creature,Common,Warlock
-26,Creature,Common,Magi
-27,Creature,Mythic,Dark Chaos Demon of Illusion
-28,Creature,Legendary,Frozen Thief Kraken of the Bright Mountains
-29,Creature,Common,Wolf
-30,Artifact,Common,Shield
-31,Creature,Common,Magi
-32,Enchantment,Common,Strength
-33,Creature,Legendary,Earth Priest Kraken of the Bright Mountains
-34,Creature,Common,Magi
-35,Artifact,Common,Belt
-36,Enchantment,Rare,Nimble Strength
-37,Spell,Common,Gravitation
-38,Creature,Common,Spider
-39,Creature,Rare,Earth Lord Minotaur
-40,Creature,Rare,Snow Merchant Berserker
-41,Artifact,Rare,Grim Divine Robe
-42,Spell,Common,Heal
-43,Creature,Rare,Snow Thief Minotaur
-44,Creature,Rare,Dark Fighter Minotaur
+==================,DECK,6165
+0,Creature,Frozen Knight Ogre of the Low Hills
+1,Creature,Light Priest Cyclops
+2,Spell,Infuriate
+3,Spell,Frost
+4,Creature,Spider
+5,Creature,Ghoul
+6,Creature,Skin-Walker
+7,Spell,Frigid Invisibility
+8,Spell,Mighty Oblivion Fireball
+9,Spell,Torment
+10,Creature,Warlock
+11,Artifact,Amulet
+12,Enchantment,Invert
+13,Creature,Eagle
+14,Creature,Light Fighter Hydra
+15,Enchantment,Deathgrip
+16,Creature,Ghoul
+17,Spell,Invisibility
+18,Enchantment,Instant Frigid Drain
+19,Artifact,Victory Bracers
+20,Creature,Earth Knight Ogre of the Golden Palace
+21,Enchantment,Shrink
+22,Creature,Berserker
+23,Creature,Death Lord Griffin
+24,Creature,Frozen Chaos Wizard of the Void
+25,Creature,Berserker
+26,Creature,Fairy
+27,Creature,Dark Chaos Demon of Illusion
+28,Creature,Frozen Thief Ogre of the Bright Mountains
+29,Creature,Wolf
+30,Artifact,Shield
+31,Creature,Fairy
+32,Enchantment,Flight
+33,Creature,Earth Priest Ogre of the Bright Mountains
+34,Creature,Fairy
+35,Artifact,Belt
+36,Enchantment,Solar Lethargy
+37,Spell,Ice
+38,Creature,Paladin
+39,Creature,Earth Lord Cyclops
+40,Creature,Snow Merchant Goblin
+41,Artifact,Nimble Divine Robe
+42,Spell,Reanimate
+43,Creature,Snow Thief Cyclops
+44,Creature,Dark Fighter Cyclops

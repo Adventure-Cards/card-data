@@ -1,46 +1,46 @@
-==================,DECK,7819,Light
-0,Enchantment,Rare,Dark Alacrity
-1,Creature,Common,Wolf
-2,Creature,Common,Goblin
-3,Spell,Common,Gravitation
-4,Creature,Common,Dwarf
-5,Enchantment,Rare,Life Age
-6,Artifact,Common,Bow
-7,Enchantment,Common,Agony
-8,Creature,Common,Magi
-9,Spell,Common,Heal
-10,Artifact,Common,Amulet
-11,Enchantment,Rare,Grim Invert
-12,Spell,Common,Sorrow
-13,Spell,Common,Reanimate
-14,Creature,Legendary,Earth Undead Cyclops of the Arctic Blizzards
-15,Creature,Common,Spider
-16,Creature,Common,Warlock
-17,Enchantment,Common,Shrink
-18,Spell,Common,Pandemonium
-19,Creature,Common,Magi
-20,Creature,Rare,Earth Rogue Griffin
-21,Creature,Rare,Light Knight Fairy
-22,Creature,Common,Goblin
-23,Enchantment,Common,Agony
-24,Creature,Common,Orc
-25,Spell,Legendary,Intense Burst
-26,Enchantment,Common,Strength
-27,Artifact,Common,Staff
-28,Creature,Common,Orc
-29,Spell,Common,Fury
-30,Creature,Common,Eagle
-31,Spell,Rare,Necro Burn
-32,Spell,Common,Burn
-33,Creature,Rare,Death Undead Hydra
-34,Creature,Rare,Aura Merchant Hydra
-35,Creature,Rare,Light Fighter Fairy
-36,Enchantment,Common,Shield
-37,Artifact,Rare,Nimble Amulet
-38,Artifact,Legendary,Clever Sword
-39,Creature,Common,Eagle
-40,Artifact,Legendary,Dire Sigil
-41,Creature,Common,Magi
-42,Enchantment,Common,Age
-43,Spell,Rare,Solar Freeze
-44,Artifact,Common,Crown
+==================,DECK,7819
+0,Enchantment,Dark Alacrity
+1,Creature,Wolf
+2,Creature,Skin-Walker
+3,Spell,Lightning
+4,Creature,Magi
+5,Enchantment,Victory Drain
+6,Artifact,Bow
+7,Enchantment,Alacrity
+8,Creature,Fairy
+9,Spell,Revive
+10,Artifact,Amulet
+11,Enchantment,Oblivion Drain
+12,Spell,Ice
+13,Spell,Reanimate
+14,Creature,Earth Undead Giant of the Arctic Blizzards
+15,Creature,Paladin
+16,Creature,Berserker
+17,Enchantment,Shrink
+18,Spell,Gravitation
+19,Creature,Fairy
+20,Creature,Earth Rogue Griffin
+21,Creature,Light Knight Kraken
+22,Creature,Skin-Walker
+23,Enchantment,Drain
+24,Creature,Spider
+25,Spell,Potent Nature Fire
+26,Enchantment,Agony
+27,Artifact,Staff
+28,Creature,Spider
+29,Spell,Gale
+30,Creature,Eagle
+31,Spell,Nature Heal
+32,Spell,Assault
+33,Creature,Death Undead Hydra
+34,Creature,Aura Merchant Hydra
+35,Creature,Light Fighter Kraken
+36,Enchantment,Shade
+37,Artifact,Nature Amulet
+38,Artifact,Potent Oblivion Sword
+39,Creature,Eagle
+40,Artifact,Mighty Frigid Sigil
+41,Creature,Fairy
+42,Enchantment,Agony
+43,Spell,Necro Torment
+44,Artifact,Crown

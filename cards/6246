@@ -1,46 +1,46 @@
-==================,DECK,6246,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Mythic,Mighty Deathgrip
-2,Creature,Common,Eagle
-3,Creature,Common,Paladin
-4,Artifact,Common,Scepter
-5,Creature,Rare,Aura Undead Hydra
-6,Creature,Legendary,Frozen Queen Kraken of the Frozen Castle
-7,Creature,Common,Wolf
-8,Enchantment,Common,Invert
-9,Creature,Common,Dwarf
-10,Spell,Rare,Hateful Infuriate
-11,Creature,Mythic,Light Undead Dragon of the Sky
-12,Creature,Common,Ghoul
-13,Spell,Rare,Nimble Torment
-14,Creature,Common,Wolf
-15,Creature,Common,Paladin
-16,Creature,Common,Paladin
-17,Artifact,Common,Ring
-18,Spell,Common,Fury
-19,Artifact,Common,Crown
-20,Artifact,Common,Helm
-21,Enchantment,Rare,Life Shrink
-22,Creature,Common,Warlock
-23,Enchantment,Common,Age
-24,Enchantment,Common,Shield
-25,Creature,Common,Orc
-26,Creature,Rare,Dark Merchant Hydra
-27,Creature,Common,Orc
-28,Spell,Common,Ice
-29,Spell,Rare,Shimmering Hypnosis
-30,Creature,Common,Ghoul
-31,Creature,Common,Elf
-32,Creature,Common,Ghoul
-33,Creature,Common,Eagle
-34,Creature,Legendary,Death Assassin Giant of the Black Stone
-35,Creature,Common,Dwarf
-36,Creature,Common,Elf
-37,Artifact,Common,Helm
-38,Artifact,Common,Divine Robe
-39,Enchantment,Common,Flight
-40,Creature,Mythic,Death Ancient Wizard of the Dead
-41,Creature,Rare,Frozen Monk Berserker
-42,Creature,Common,Spider
-43,Enchantment,Common,Invert
-44,Spell,Common,Burst
+==================,DECK,6246
+0,Creature,Ghoul
+1,Enchantment,Clever Sorrow Shield
+2,Creature,Eagle
+3,Creature,Troll
+4,Artifact,Scepter
+5,Creature,Aura Undead Hydra
+6,Creature,Frozen Queen Ogre of the Frozen Castle
+7,Creature,Wolf
+8,Enchantment,Drain
+9,Creature,Magi
+10,Spell,Sorrow Hypnosis
+11,Creature,Light Undead Dragon of the Sky
+12,Creature,Ghoul
+13,Spell,Solar Rage
+14,Creature,Wolf
+15,Creature,Troll
+16,Creature,Troll
+17,Artifact,Ring
+18,Spell,Freeze
+19,Artifact,Crown
+20,Artifact,Helm
+21,Enchantment,Frigid Invert
+22,Creature,Berserker
+23,Enchantment,Haste
+24,Enchantment,Age
+25,Creature,Spider
+26,Creature,Dark Merchant Hydra
+27,Creature,Spider
+28,Spell,Gravitation
+29,Spell,Hateful Revive
+30,Creature,Ghoul
+31,Creature,Warlock
+32,Creature,Ghoul
+33,Creature,Eagle
+34,Creature,Death Assassin Dwarf of the Black Stone
+35,Creature,Magi
+36,Creature,Warlock
+37,Artifact,Helm
+38,Artifact,Divine Robe
+39,Enchantment,Deathgrip
+40,Creature,Death Ancient Wizard of the Dead
+41,Creature,Frozen Monk Goblin
+42,Creature,Paladin
+43,Enchantment,Flight
+44,Spell,Tempest

@@ -1,46 +1,46 @@
-==================,DECK,4851,Light
-0,Spell,Common,Stun
-1,Enchantment,Common,Flight
-2,Spell,Common,Freeze
-3,Creature,Legendary,Death King Oni of the Eternal Land
-4,Enchantment,Common,Shade
-5,Creature,Common,Magi
-6,Creature,Common,Warlock
-7,Enchantment,Common,Flight
-8,Enchantment,Common,Lethargy
-9,Artifact,Common,Crown
-10,Spell,Legendary,Urgent Maelstrom
-11,Creature,Common,Warlock
-12,Creature,Common,Dwarf
-13,Creature,Rare,Death Rogue Fairy
-14,Creature,Rare,Dark Thief Minotaur
-15,Creature,Mythic,Earth Undead Phoenix of the Shadows
-16,Artifact,Rare,Frigid Ring
-17,Creature,Common,Wolf
-18,Creature,Mythic,Dark Grand Wizard of Illusion
-19,Creature,Legendary,Light Fighter Kraken of the Magical Forest
-20,Creature,Common,Dwarf
-21,Enchantment,Common,Shade
-22,Enchantment,Common,Haste
-23,Artifact,Rare,Dark Sword
-24,Creature,Mythic,Dark Ancient Wizard of Illusion
-25,Spell,Legendary,Dire Vortex
-26,Enchantment,Common,Strength
-27,Artifact,Rare,Necro Gauntlet
-28,Creature,Common,Orc
-29,Creature,Rare,Dark Priest Minotaur
-30,Creature,Common,Magi
-31,Spell,Common,Pandemonium
-32,Spell,Common,Stricken
-33,Creature,Rare,Light Thief Minotaur
-34,Enchantment,Common,Alacrity
-35,Artifact,Legendary,Dire Potion
-36,Creature,Common,Dwarf
-37,Creature,Legendary,Snow Warrior Giant of the Plains
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Age
-40,Creature,Common,Wolf
-41,Spell,Common,Hypnosis
-42,Creature,Legendary,Earth Warrior Giant of the Black Stone
-43,Artifact,Common,Sigil
-44,Creature,Rare,Snow King Berserker
+==================,DECK,4851
+0,Spell,Heal
+1,Enchantment,Haste
+2,Spell,Heal
+3,Creature,Death King Oni of the Eternal Land
+4,Enchantment,Strength
+5,Creature,Fairy
+6,Creature,Berserker
+7,Enchantment,Flight
+8,Enchantment,Flight
+9,Artifact,Crown
+10,Spell,Mighty Necro Freeze
+11,Creature,Berserker
+12,Creature,Magi
+13,Creature,Death Rogue Kraken
+14,Creature,Dark Thief Cyclops
+15,Creature,Earth Undead Phoenix of the Shadows
+16,Artifact,Apocalypse Ring
+17,Creature,Wolf
+18,Creature,Dark Grand Wizard of Illusion
+19,Creature,Light Fighter Ogre of the Magical Forest
+20,Creature,Magi
+21,Enchantment,Shade
+22,Enchantment,Flight
+23,Artifact,Miracle Sword
+24,Creature,Dark Ancient Wizard of Illusion
+25,Spell,Urgent Oblivion Lightning
+26,Enchantment,Agony
+27,Artifact,Nature Gauntlet
+28,Creature,Spider
+29,Creature,Dark Priest Cyclops
+30,Creature,Fairy
+31,Spell,Stricken
+32,Spell,Hypnosis
+33,Creature,Light Thief Cyclops
+34,Enchantment,Haste
+35,Artifact,Clever Oblivion Potion
+36,Creature,Magi
+37,Creature,Snow Warrior Dwarf of the Plains
+38,Creature,Ghoul
+39,Enchantment,Alacrity
+40,Creature,Wolf
+41,Spell,Fire
+42,Creature,Earth Warrior Dwarf of the Black Stone
+43,Artifact,Sigil
+44,Creature,Snow King Goblin

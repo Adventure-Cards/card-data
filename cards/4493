@@ -1,46 +1,46 @@
-==================,DECK,4493,Strong
-0,Creature,Common,Paladin
-1,Spell,Common,Rage
-2,Creature,Legendary,Frozen Nameless Dragon of the Void
-3,Creature,Rare,Light Monk Berserker
-4,Spell,Rare,Shimmering Reanimate
-5,Enchantment,Mythic,Clever Shrink
-6,Creature,Legendary,Frozen Thief Cyclops of the Mountains
-7,Spell,Rare,Dark Torment
-8,Enchantment,Mythic,Intense Invert
-9,Creature,Common,Elf
-10,Artifact,Rare,Corpse Gauntlet
-11,Creature,Rare,Aura Priest Hydra
-12,Artifact,Rare,Corpse Pendant
-13,Creature,Rare,Dark Undead Skin-Walker
-14,Creature,Rare,Death Monk Griffin
-15,Creature,Common,Spider
-16,Creature,Common,Orc
-17,Creature,Legendary,Frozen Knight Orge of the Eastern Skies
-18,Creature,Common,Eagle
-19,Creature,Legendary,Frozen Knight Oni of the Arctic Blizzards
-20,Creature,Mythic,Light Undead Phoenix of the Sky
-21,Enchantment,Common,Age
-22,Creature,Legendary,Aura Thief Kraken of the Frozen Castle
-23,Creature,Mythic,Death Nameless Dragon of the Dead
-24,Creature,Common,Spider
-25,Enchantment,Legendary,Extreme Haste
-26,Spell,Rare,Forged Rage
-27,Creature,Common,Elf
-28,Creature,Rare,Death Fighter Griffin
-29,Creature,Mythic,Aura Ancient Demon of the Light
-30,Creature,Rare,Light Warrior Fairy
-31,Creature,Common,Magi
-32,Spell,Rare,Shimmering Sorrow
-33,Creature,Rare,Frozen Fighter Berserker
-34,Enchantment,Common,Deathgrip
-35,Creature,Mythic,Frozen Nameless Phoenix of the Void
-36,Enchantment,Common,Strength
-37,Spell,Rare,Shimmering Fury
-38,Enchantment,Common,Shade
-39,Creature,Legendary,Dark Time Phoenix of Illusion
-40,Creature,Common,Ghoul
-41,Creature,Mythic,Death Ancient Demon of the Dead
-42,Creature,Common,Dwarf
-43,Creature,Common,Dwarf
-44,Creature,Rare,Aura Fighter Skin-Walker
+==================,DECK,4493
+0,Creature,Troll
+1,Spell,Fire
+2,Creature,Frozen Nameless Dragon of the Void
+3,Creature,Light Monk Goblin
+4,Spell,Nature Fireball
+5,Enchantment,Clever Frigid Haste
+6,Creature,Frozen Thief Giant of the Mountains
+7,Spell,Chimeric Assault
+8,Enchantment,Dire Shimmering Age
+9,Creature,Warlock
+10,Artifact,Forged Gauntlet
+11,Creature,Aura Priest Hydra
+12,Artifact,Hateful Pendant
+13,Creature,Dark Undead Orc
+14,Creature,Death Monk Griffin
+15,Creature,Paladin
+16,Creature,Spider
+17,Creature,Frozen Knight Elf of the Eastern Skies
+18,Creature,Eagle
+19,Creature,Frozen Knight Oni of the Arctic Blizzards
+20,Creature,Light Undead Phoenix of the Sky
+21,Enchantment,Invert
+22,Creature,Aura Thief Ogre of the Frozen Castle
+23,Creature,Death Nameless Dragon of the Dead
+24,Creature,Paladin
+25,Enchantment,Zealous Miracle Alacrity
+26,Spell,Dark Infuriate
+27,Creature,Warlock
+28,Creature,Death Fighter Griffin
+29,Creature,Aura Ancient Demon of the Light
+30,Creature,Light Warrior Kraken
+31,Creature,Fairy
+32,Spell,Solar Tempest
+33,Creature,Frozen Fighter Goblin
+34,Enchantment,Strength
+35,Creature,Frozen Nameless Phoenix of the Void
+36,Enchantment,Strength
+37,Spell,Hateful Fire
+38,Enchantment,Shield
+39,Creature,Dark Time Phoenix of Illusion
+40,Creature,Ghoul
+41,Creature,Death Ancient Demon of the Dead
+42,Creature,Magi
+43,Creature,Magi
+44,Creature,Aura Fighter Orc

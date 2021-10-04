@@ -1,46 +1,46 @@
-==================,DECK,4170,Medium
-0,Enchantment,Common,Shade
-1,Artifact,Common,Gauntlet
-2,Enchantment,Rare,Gloom Shade
-3,Spell,Rare,Gloom Frost
-4,Creature,Common,Wolf
-5,Spell,Common,Pandemonium
-6,Artifact,Common,Amulet
-7,Creature,Rare,Aura Assassin Hydra
-8,Spell,Rare,Cataclysmic Stun
-9,Spell,Common,Vortex
-10,Creature,Common,Ghoul
-11,Creature,Common,Ghoul
-12,Creature,Common,Elf
-13,Creature,Rare,Dark Warrior Berserker
-14,Creature,Common,Orc
-15,Creature,Common,Elf
-16,Enchantment,Common,Deathgrip
-17,Creature,Rare,Death Queen Skin-Walker
-18,Enchantment,Common,Blight
-19,Spell,Common,Wall
-20,Spell,Legendary,Urgent Burn
-21,Creature,Common,Orc
-22,Creature,Common,Ghoul
-23,Artifact,Common,Crown
-24,Enchantment,Legendary,Instant Strength
-25,Creature,Rare,Death Rogue Skin-Walker
-26,Creature,Common,Dwarf
-27,Creature,Common,Dwarf
-28,Creature,Mythic,Aura Nameless Dragon of the Light
-29,Creature,Common,Paladin
-30,Enchantment,Legendary,Mighty Deathgrip
-31,Creature,Common,Eagle
-32,Artifact,Legendary,Mighty Boots
-33,Creature,Legendary,Earth Assassin Oni of the Eternal Land
-34,Creature,Common,Spider
-35,Spell,Rare,Gloom Revive
-36,Enchantment,Common,Drain
-37,Enchantment,Common,Lethargy
-38,Creature,Rare,Light Rogue Griffin
-39,Creature,Mythic,Death Grand Wizard of the Dead
-40,Creature,Rare,Aura Thief Griffin
-41,Creature,Mythic,Death Undead Phoenix of the Dead
-42,Enchantment,Common,Blight
-43,Creature,Rare,Earth Merchant Berserker
-44,Enchantment,Common,Invert
+==================,DECK,4170
+0,Enchantment,Lethargy
+1,Artifact,Gauntlet
+2,Enchantment,Chimeric Shrink
+3,Spell,Sorrow Burn
+4,Creature,Wolf
+5,Spell,Burst
+6,Artifact,Amulet
+7,Creature,Aura Assassin Hydra
+8,Spell,Cataclysmic Gale
+9,Spell,Frost
+10,Creature,Ghoul
+11,Creature,Ghoul
+12,Creature,Warlock
+13,Creature,Dark Warrior Goblin
+14,Creature,Spider
+15,Creature,Warlock
+16,Enchantment,Lethargy
+17,Creature,Death Queen Orc
+18,Enchantment,Blight
+19,Spell,Tempest
+20,Spell,Clever Shimmering Lightning
+21,Creature,Spider
+22,Creature,Ghoul
+23,Artifact,Crown
+24,Enchantment,Urgent Solar Agony
+25,Creature,Death Rogue Orc
+26,Creature,Magi
+27,Creature,Magi
+28,Creature,Aura Nameless Dragon of the Light
+29,Creature,Troll
+30,Enchantment,Clever Sorrow Shield
+31,Creature,Eagle
+32,Artifact,Ardent Miracle Boots
+33,Creature,Earth Assassin Oni of the Eternal Land
+34,Creature,Paladin
+35,Spell,Cataclysmic Fury
+36,Enchantment,Age
+37,Enchantment,Deathgrip
+38,Creature,Light Rogue Griffin
+39,Creature,Death Grand Wizard of the Dead
+40,Creature,Aura Thief Griffin
+41,Creature,Death Undead Phoenix of the Dead
+42,Enchantment,Agony
+43,Creature,Earth Merchant Goblin
+44,Enchantment,Haste

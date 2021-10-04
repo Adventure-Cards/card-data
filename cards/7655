@@ -1,46 +1,46 @@
-==================,DECK,7655,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Lethargy
-2,Enchantment,Common,Haste
-3,Artifact,Rare,Hateful Greaves
-4,Enchantment,Rare,Forged Agony
-5,Spell,Common,Ice
-6,Spell,Common,Frost
-7,Creature,Common,Dwarf
-8,Creature,Rare,Earth Priest Griffin
-9,Spell,Rare,Dark Heal
-10,Creature,Common,Warlock
-11,Enchantment,Common,Age
-12,Artifact,Common,Ring
-13,Artifact,Common,Cloak
-14,Creature,Common,Goblin
-15,Creature,Common,Wolf
-16,Creature,Common,Spider
-17,Creature,Common,Ghoul
-18,Creature,Common,Dwarf
-19,Creature,Common,Spider
-20,Creature,Common,Dwarf
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Flight
-23,Creature,Legendary,Earth Undead Oni of the Polar Woods
-24,Artifact,Common,Shield
-25,Creature,Common,Magi
-26,Artifact,Common,Crown
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Wolf
-29,Artifact,Common,Amulet
-30,Creature,Common,Orc
-31,Artifact,Common,Shield
-32,Artifact,Common,Bracers
-33,Artifact,Rare,Hateful Bracers
-34,Artifact,Common,Shield
-35,Spell,Common,Frost
-36,Creature,Legendary,Light Lord Cyclops of the Eastern Skies
-37,Creature,Rare,Snow Assassin Fairy
-38,Spell,Common,Assault
-39,Enchantment,Common,Flight
-40,Spell,Common,Reanimate
-41,Creature,Common,Dwarf
-42,Creature,Mythic,Frozen Grand Demon of the Void
-43,Creature,Common,Magi
-44,Creature,Legendary,Frozen Fighter Kraken of the Golden Palace
+==================,DECK,7655
+0,Creature,Warlock
+1,Enchantment,Firebreath
+2,Enchantment,Shield
+3,Artifact,Cataclysmic Greaves
+4,Enchantment,Miracle Shield
+5,Spell,Frenzy
+6,Spell,Vortex
+7,Creature,Magi
+8,Creature,Earth Priest Griffin
+9,Spell,Sorrow Infuriate
+10,Creature,Berserker
+11,Enchantment,Shade
+12,Artifact,Ring
+13,Artifact,Cloak
+14,Creature,Skin-Walker
+15,Creature,Wolf
+16,Creature,Paladin
+17,Creature,Ghoul
+18,Creature,Magi
+19,Creature,Paladin
+20,Creature,Magi
+21,Creature,Magi
+22,Enchantment,Agony
+23,Creature,Earth Undead Oni of the Polar Woods
+24,Artifact,Shield
+25,Creature,Fairy
+26,Artifact,Crown
+27,Enchantment,Firebreath
+28,Creature,Wolf
+29,Artifact,Amulet
+30,Creature,Spider
+31,Artifact,Shield
+32,Artifact,Bracers
+33,Artifact,Sorrow Bracers
+34,Artifact,Shield
+35,Spell,Torment
+36,Creature,Light Lord Giant of the Eastern Skies
+37,Creature,Snow Assassin Kraken
+38,Spell,Vortex
+39,Enchantment,Firebreath
+40,Spell,Fire
+41,Creature,Magi
+42,Creature,Frozen Grand Demon of the Void
+43,Creature,Fairy
+44,Creature,Frozen Fighter Ogre of the Golden Palace

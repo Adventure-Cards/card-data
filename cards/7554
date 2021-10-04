@@ -1,46 +1,46 @@
-==================,DECK,7554,Medium
-0,Creature,Mythic,Snow Ancient Demon of Hate
-1,Creature,Common,Ghoul
-2,Creature,Rare,Death Warrior Skin-Walker
-3,Enchantment,Common,Shade
-4,Spell,Common,Pandemonium
-5,Artifact,Common,Sigil
-6,Creature,Common,Goblin
-7,Enchantment,Mythic,Urgent Lethargy
-8,Creature,Mythic,Light Undead Dragon of the Sky
-9,Creature,Rare,Dark Knight Fairy
-10,Creature,Common,Paladin
-11,Artifact,Rare,Solar Greaves
-12,Artifact,Rare,Miracle Amulet
-13,Creature,Rare,Dark Priest Fairy
-14,Creature,Common,Magi
-15,Creature,Common,Orc
-16,Enchantment,Common,Invert
-17,Enchantment,Common,Drain
-18,Enchantment,Common,Shrink
-19,Enchantment,Common,Age
-20,Artifact,Common,Divine Robe
-21,Enchantment,Legendary,Instant Flight
-22,Spell,Mythic,Urgent Sorrow
-23,Creature,Common,Orc
-24,Spell,Mythic,Mighty Heal
-25,Enchantment,Common,Haste
-26,Creature,Common,Warlock
-27,Enchantment,Common,Age
-28,Enchantment,Common,Flight
-29,Spell,Rare,Corpse Frost
-30,Artifact,Common,Boots
-31,Creature,Common,Warlock
-32,Enchantment,Common,Flight
-33,Creature,Common,Ghoul
-34,Creature,Common,Orc
-35,Artifact,Common,Amulet
-36,Creature,Rare,Light Assassin Fairy
-37,Creature,Common,Goblin
-38,Spell,Common,Fury
-39,Spell,Legendary,Intense Burst
-40,Creature,Common,Paladin
-41,Spell,Legendary,Angry Ice
-42,Creature,Common,Warlock
-43,Enchantment,Mythic,Instant Haste
-44,Creature,Common,Spider
+==================,DECK,7554
+0,Creature,Snow Ancient Demon of Hate
+1,Creature,Ghoul
+2,Creature,Death Warrior Orc
+3,Enchantment,Strength
+4,Spell,Reanimate
+5,Artifact,Sigil
+6,Creature,Skin-Walker
+7,Enchantment,Dire Hateful Age
+8,Creature,Light Undead Dragon of the Sky
+9,Creature,Dark Knight Kraken
+10,Creature,Troll
+11,Artifact,Shimmering Greaves
+12,Artifact,Oblivion Amulet
+13,Creature,Dark Priest Kraken
+14,Creature,Fairy
+15,Creature,Spider
+16,Enchantment,Strength
+17,Enchantment,Firebreath
+18,Enchantment,Strength
+19,Enchantment,Age
+20,Artifact,Divine Robe
+21,Enchantment,Potent Hateful Strength
+22,Spell,Mighty Forged Reanimate
+23,Creature,Spider
+24,Spell,Irate Gloom Gale
+25,Enchantment,Age
+26,Creature,Berserker
+27,Enchantment,Shrink
+28,Enchantment,Drain
+29,Spell,Solar Fire
+30,Artifact,Boots
+31,Creature,Berserker
+32,Enchantment,Shade
+33,Creature,Ghoul
+34,Creature,Spider
+35,Artifact,Amulet
+36,Creature,Light Assassin Kraken
+37,Creature,Skin-Walker
+38,Spell,Burst
+39,Spell,Potent Necro Revive
+40,Creature,Troll
+41,Spell,Zealous Sorrow Gale
+42,Creature,Berserker
+43,Enchantment,Mighty Corpse Agony
+44,Creature,Paladin

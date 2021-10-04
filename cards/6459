@@ -1,46 +1,46 @@
-==================,DECK,6459,Light
-0,Spell,Common,Revive
-1,Creature,Common,Dwarf
-2,Spell,Common,Fury
-3,Artifact,Rare,Gloom Boots
-4,Spell,Rare,Dark Assault
-5,Enchantment,Rare,Nature Blight
-6,Creature,Rare,Snow Assassin Berserker
-7,Enchantment,Rare,Hateful Age
-8,Creature,Common,Dwarf
-9,Artifact,Common,Shield
-10,Creature,Common,Orc
-11,Enchantment,Common,Flight
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Alacrity
-14,Spell,Legendary,Potent Ice
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Common,Lethargy
-17,Enchantment,Common,Shade
-18,Creature,Common,Orc
-19,Artifact,Common,Shield
-20,Creature,Common,Orc
-21,Creature,Rare,Earth Queen Griffin
-22,Creature,Common,Spider
-23,Creature,Common,Elf
-24,Spell,Rare,Hateful Burn
-25,Enchantment,Legendary,Extreme Lethargy
-26,Enchantment,Mythic,Instant Age
-27,Enchantment,Common,Drain
-28,Creature,Common,Goblin
-29,Creature,Rare,Frozen Fighter Berserker
-30,Creature,Rare,Aura Knight Berserker
-31,Enchantment,Rare,Cataclysmic Drain
-32,Creature,Common,Orc
-33,Spell,Common,Wall
-34,Creature,Common,Warlock
-35,Spell,Rare,Forged Freeze
-36,Enchantment,Rare,Frigid Invert
-37,Artifact,Common,Bracers
-38,Creature,Legendary,Light Merchant Giant of the Frozen Castle
-39,Creature,Common,Spider
-40,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-41,Enchantment,Rare,Lunar Flight
-42,Creature,Legendary,Death Merchant Cyclops of the Border
-43,Enchantment,Common,Shrink
-44,Creature,Rare,Snow Fighter Berserker
+==================,DECK,6459
+0,Spell,Burn
+1,Creature,Magi
+2,Spell,Fury
+3,Artifact,Miracle Boots
+4,Spell,Dark Fireball
+5,Enchantment,Solar Agony
+6,Creature,Snow Assassin Goblin
+7,Enchantment,Gloom Firebreath
+8,Creature,Magi
+9,Artifact,Shield
+10,Creature,Spider
+11,Enchantment,Shade
+12,Creature,Magi
+13,Enchantment,Lethargy
+14,Spell,Zealous Apocalypse Tempest
+15,Enchantment,Strength
+16,Enchantment,Shade
+17,Enchantment,Deathgrip
+18,Creature,Spider
+19,Artifact,Shield
+20,Creature,Spider
+21,Creature,Earth Queen Griffin
+22,Creature,Paladin
+23,Creature,Warlock
+24,Spell,Sorrow Stricken
+25,Enchantment,Irate Lunar Alacrity
+26,Enchantment,Potent Nature Strength
+27,Enchantment,Strength
+28,Creature,Skin-Walker
+29,Creature,Frozen Fighter Goblin
+30,Creature,Aura Knight Goblin
+31,Enchantment,Dark Flight
+32,Creature,Spider
+33,Spell,Gale
+34,Creature,Berserker
+35,Spell,Sorrow Frost
+36,Enchantment,Oblivion Blight
+37,Artifact,Bracers
+38,Creature,Light Merchant Dwarf of the Frozen Castle
+39,Creature,Paladin
+40,Creature,Earth Nameless Phoenix of the Shadows
+41,Enchantment,Lunar Shield
+42,Creature,Death Merchant Giant of the Border
+43,Enchantment,Blight
+44,Creature,Snow Fighter Goblin

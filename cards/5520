@@ -1,46 +1,46 @@
-==================,DECK,5520,Light
-0,Artifact,Common,Cloak
-1,Spell,Common,Sorrow
-2,Creature,Rare,Dark Fighter Skin-Walker
-3,Enchantment,Common,Strength
-4,Artifact,Common,Pendant
-5,Spell,Common,Frost
-6,Enchantment,Common,Shade
-7,Creature,Common,Eagle
-8,Creature,Common,Ghoul
-9,Creature,Common,Eagle
-10,Creature,Common,Paladin
-11,Creature,Common,Paladin
-12,Creature,Common,Wolf
-13,Spell,Common,Sorrow
-14,Enchantment,Common,Deathgrip
-15,Enchantment,Common,Strength
-16,Artifact,Common,Sword
-17,Creature,Common,Warlock
-18,Spell,Rare,Apocalypse Pandemonium
-19,Spell,Legendary,Urgent Assault
-20,Enchantment,Common,Alacrity
-21,Artifact,Common,Crown
-22,Creature,Rare,Light Lord Berserker
-23,Creature,Common,Magi
-24,Enchantment,Common,Deathgrip
-25,Creature,Rare,Light Thief Minotaur
-26,Spell,Common,Ice
-27,Enchantment,Common,Drain
-28,Creature,Common,Eagle
-29,Creature,Common,Dwarf
-30,Creature,Common,Elf
-31,Enchantment,Common,Strength
-32,Artifact,Common,Ring
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Orc
-35,Spell,Rare,Grim Frost
-36,Artifact,Common,Sigil
-37,Enchantment,Mythic,Potent Shade
-38,Creature,Common,Dwarf
-39,Creature,Common,Paladin
-40,Enchantment,Mythic,Intense Deathgrip
-41,Creature,Common,Orc
-42,Creature,Common,Dwarf
-43,Spell,Common,Lightning
-44,Creature,Legendary,Death Rogue Orge of the Magical Forest
+==================,DECK,5520
+0,Artifact,Cloak
+1,Spell,Reanimate
+2,Creature,Dark Fighter Orc
+3,Enchantment,Shrink
+4,Artifact,Pendant
+5,Spell,Gale
+6,Enchantment,Lethargy
+7,Creature,Eagle
+8,Creature,Ghoul
+9,Creature,Eagle
+10,Creature,Troll
+11,Creature,Troll
+12,Creature,Wolf
+13,Spell,Lightning
+14,Enchantment,Firebreath
+15,Enchantment,Strength
+16,Artifact,Sword
+17,Creature,Berserker
+18,Spell,Frigid Maelstrom
+19,Spell,Ardent Hateful Infuriate
+20,Enchantment,Strength
+21,Artifact,Crown
+22,Creature,Light Lord Goblin
+23,Creature,Fairy
+24,Enchantment,Firebreath
+25,Creature,Light Thief Cyclops
+26,Spell,Infuriate
+27,Enchantment,Firebreath
+28,Creature,Eagle
+29,Creature,Magi
+30,Creature,Warlock
+31,Enchantment,Haste
+32,Artifact,Ring
+33,Enchantment,Shield
+34,Creature,Spider
+35,Spell,Victory Tempest
+36,Artifact,Sigil
+37,Enchantment,Ardent Frigid Haste
+38,Creature,Magi
+39,Creature,Troll
+40,Enchantment,Zealous Shimmering Deathgrip
+41,Creature,Spider
+42,Creature,Magi
+43,Spell,Revive
+44,Creature,Death Rogue Elf of the Magical Forest

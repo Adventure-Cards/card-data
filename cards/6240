@@ -1,46 +1,46 @@
-==================,DECK,6240,Medium
-0,Spell,Common,Frost
-1,Creature,Legendary,Earth Fighter Orge of the Frozen Castle
-2,Artifact,Legendary,Potent Scepter
-3,Enchantment,Common,Flight
-4,Enchantment,Common,Blight
-5,Creature,Rare,Death Assassin Fairy
-6,Creature,Legendary,Death Lord Cyclops of the Magical Forest
-7,Creature,Rare,Aura King Griffin
-8,Artifact,Legendary,Clever Greaves
-9,Creature,Common,Spider
-10,Creature,Common,Dwarf
-11,Creature,Mythic,Dark Undead Phoenix of Illusion
-12,Creature,Common,Ghoul
-13,Creature,Common,Paladin
-14,Creature,Common,Orc
-15,Enchantment,Common,Shield
-16,Creature,Legendary,Death Priest Orge of the West
-17,Creature,Legendary,Aura Undead Giant of the Haven
-18,Creature,Common,Eagle
-19,Creature,Rare,Aura Assassin Skin-Walker
-20,Spell,Common,Freeze
-21,Enchantment,Common,Agony
-22,Spell,Common,Frenzy
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Drain
-25,Creature,Mythic,Snow Ancient Demon of Hate
-26,Creature,Common,Warlock
-27,Creature,Common,Goblin
-28,Creature,Common,Warlock
-29,Creature,Rare,Death Priest Berserker
-30,Creature,Rare,Light Undead Griffin
-31,Spell,Common,Reanimate
-32,Enchantment,Common,Shield
-33,Creature,Common,Warlock
-34,Creature,Rare,Earth Undead Hydra
-35,Creature,Legendary,Frozen Assassin Cyclops of the Mountains
-36,Enchantment,Common,Strength
-37,Enchantment,Common,Haste
-38,Artifact,Rare,Shimmering Ring
-39,Creature,Common,Eagle
-40,Creature,Common,Eagle
-41,Enchantment,Common,Agony
-42,Creature,Common,Goblin
-43,Creature,Common,Ghoul
-44,Artifact,Common,Sigil
+==================,DECK,6240
+0,Spell,Rage
+1,Creature,Earth Fighter Elf of the Frozen Castle
+2,Artifact,Potent Oblivion Scepter
+3,Enchantment,Shield
+4,Enchantment,Shrink
+5,Creature,Death Assassin Kraken
+6,Creature,Death Lord Giant of the Magical Forest
+7,Creature,Aura King Griffin
+8,Artifact,Mighty Life Greaves
+9,Creature,Paladin
+10,Creature,Magi
+11,Creature,Dark Undead Phoenix of Illusion
+12,Creature,Ghoul
+13,Creature,Troll
+14,Creature,Spider
+15,Enchantment,Deathgrip
+16,Creature,Death Priest Elf of the West
+17,Creature,Aura Undead Dwarf of the Haven
+18,Creature,Eagle
+19,Creature,Aura Assassin Orc
+20,Spell,Assault
+21,Enchantment,Shield
+22,Spell,Revive
+23,Creature,Ghoul
+24,Enchantment,Shrink
+25,Creature,Snow Ancient Demon of Hate
+26,Creature,Berserker
+27,Creature,Skin-Walker
+28,Creature,Berserker
+29,Creature,Death Priest Goblin
+30,Creature,Light Undead Griffin
+31,Spell,Revive
+32,Enchantment,Drain
+33,Creature,Berserker
+34,Creature,Earth Undead Hydra
+35,Creature,Frozen Assassin Giant of the Mountains
+36,Enchantment,Firebreath
+37,Enchantment,Agony
+38,Artifact,Nature Ring
+39,Creature,Eagle
+40,Creature,Eagle
+41,Enchantment,Haste
+42,Creature,Skin-Walker
+43,Creature,Ghoul
+44,Artifact,Sigil

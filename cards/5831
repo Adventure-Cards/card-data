@@ -1,46 +1,46 @@
-==================,DECK,5831,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Rare,Nature Blight
-2,Creature,Rare,Aura Rogue Skin-Walker
-3,Spell,Legendary,Potent Wall
-4,Artifact,Common,Crown
-5,Artifact,Common,Helm
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Spider
-8,Creature,Common,Paladin
-9,Enchantment,Mythic,Clever Lethargy
-10,Creature,Rare,Earth Lord Berserker
-11,Creature,Common,Elf
-12,Creature,Legendary,Dark King Giant of the Border
-13,Artifact,Common,Potion
-14,Spell,Mythic,Potent Infuriate
-15,Spell,Rare,Hateful Maelstrom
-16,Creature,Common,Wolf
-17,Creature,Mythic,Frozen Ancient Demon of the Void
-18,Creature,Common,Goblin
-19,Creature,Rare,Death Monk Skin-Walker
-20,Creature,Common,Orc
-21,Creature,Legendary,Dark King Oni of the Mountains
-22,Creature,Common,Orc
-23,Enchantment,Common,Agony
-24,Creature,Common,Magi
-25,Creature,Legendary,Dark Lord Kraken of the Black Stone
-26,Creature,Rare,Snow Knight Hydra
-27,Enchantment,Mythic,Mighty Alacrity
-28,Enchantment,Common,Shield
-29,Spell,Common,Wall
-30,Spell,Rare,Cataclysmic Stricken
-31,Spell,Legendary,Mighty Stricken
-32,Enchantment,Legendary,Angry Haste
-33,Creature,Rare,Frozen Lord Berserker
-34,Creature,Legendary,Frozen Lord Giant of the Golden Palace
-35,Enchantment,Common,Shrink
-36,Enchantment,Mythic,Angry Shade
-37,Spell,Mythic,Intense Burn
-38,Spell,Common,Vortex
-39,Creature,Common,Warlock
-40,Creature,Common,Ghoul
-41,Artifact,Rare,Grim Divine Robe
-42,Creature,Rare,Death Merchant Minotaur
-43,Creature,Rare,Light Priest Fairy
-44,Artifact,Common,Potion
+==================,DECK,5831
+0,Creature,Magi
+1,Enchantment,Solar Deathgrip
+2,Creature,Aura Rogue Orc
+3,Spell,Ardent Apocalypse Stun
+4,Artifact,Crown
+5,Artifact,Helm
+6,Enchantment,Blight
+7,Creature,Paladin
+8,Creature,Troll
+9,Enchantment,Irate Grim Blight
+10,Creature,Earth Lord Goblin
+11,Creature,Warlock
+12,Creature,Dark King Dwarf of the Border
+13,Artifact,Potion
+14,Spell,Potent Nimble Fire
+15,Spell,Gloom Burn
+16,Creature,Wolf
+17,Creature,Frozen Ancient Demon of the Void
+18,Creature,Skin-Walker
+19,Creature,Death Monk Orc
+20,Creature,Spider
+21,Creature,Dark King Oni of the Mountains
+22,Creature,Spider
+23,Enchantment,Lethargy
+24,Creature,Fairy
+25,Creature,Dark Lord Ogre of the Black Stone
+26,Creature,Snow Knight Hydra
+27,Enchantment,Instant Dark Shrink
+28,Enchantment,Agony
+29,Spell,Ice
+30,Spell,Gloom Frost
+31,Spell,Clever Chimeric Gravitation
+32,Enchantment,Clever Miracle Shield
+33,Creature,Frozen Lord Goblin
+34,Creature,Frozen Lord Dwarf of the Golden Palace
+35,Enchantment,Agony
+36,Enchantment,Urgent Chimeric Flight
+37,Spell,Mighty Solar Wall
+38,Spell,Heal
+39,Creature,Berserker
+40,Creature,Ghoul
+41,Artifact,Life Divine Robe
+42,Creature,Death Merchant Cyclops
+43,Creature,Light Priest Kraken
+44,Artifact,Potion

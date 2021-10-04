@@ -1,46 +1,46 @@
-==================,DECK,6197,Light
-0,Creature,Rare,Earth King Hydra
-1,Creature,Common,Spider
-2,Artifact,Common,Bow
-3,Creature,Common,Goblin
-4,Creature,Common,Magi
-5,Artifact,Common,Boots
-6,Creature,Common,Dwarf
-7,Artifact,Legendary,Clever Greaves
-8,Spell,Legendary,Potent Infuriate
-9,Enchantment,Rare,Forged Shade
-10,Enchantment,Rare,Nature Haste
-11,Creature,Common,Spider
-12,Enchantment,Common,Shade
-13,Creature,Common,Wolf
-14,Creature,Common,Magi
-15,Spell,Rare,Hateful Burst
-16,Artifact,Legendary,Angry Bracers
-17,Enchantment,Common,Deathgrip
-18,Spell,Rare,Solar Torment
-19,Creature,Common,Warlock
-20,Creature,Common,Paladin
-21,Creature,Common,Eagle
-22,Spell,Common,Fury
-23,Enchantment,Mythic,Instant Strength
-24,Creature,Rare,Snow Thief Berserker
-25,Creature,Common,Dwarf
-26,Creature,Common,Elf
-27,Creature,Rare,Earth Knight Griffin
-28,Creature,Common,Goblin
-29,Creature,Common,Magi
-30,Enchantment,Common,Lethargy
-31,Spell,Legendary,Clever Heal
-32,Creature,Common,Wolf
-33,Creature,Common,Warlock
-34,Artifact,Rare,Necro Divine Robe
-35,Artifact,Common,Ring
-36,Enchantment,Common,Drain
-37,Artifact,Rare,Cataclysmic Cloak
-38,Creature,Common,Dwarf
-39,Spell,Rare,Cataclysmic Stun
-40,Spell,Common,Gale
-41,Spell,Common,Gravitation
-42,Creature,Common,Warlock
-43,Creature,Common,Orc
-44,Enchantment,Mythic,Angry Agony
+==================,DECK,6197
+0,Creature,Earth King Hydra
+1,Creature,Paladin
+2,Artifact,Bow
+3,Creature,Skin-Walker
+4,Creature,Fairy
+5,Artifact,Boots
+6,Creature,Magi
+7,Artifact,Urgent Victory Greaves
+8,Spell,Clever Grim Fire
+9,Enchantment,Chimeric Shrink
+10,Enchantment,Corpse Lethargy
+11,Creature,Paladin
+12,Enchantment,Shrink
+13,Creature,Wolf
+14,Creature,Fairy
+15,Spell,Dark Stricken
+16,Artifact,Irate Sorrow Bracers
+17,Enchantment,Blight
+18,Spell,Corpse Stricken
+19,Creature,Berserker
+20,Creature,Troll
+21,Creature,Eagle
+22,Spell,Hypnosis
+23,Enchantment,Ardent Solar Lethargy
+24,Creature,Snow Thief Goblin
+25,Creature,Magi
+26,Creature,Warlock
+27,Creature,Earth Knight Griffin
+28,Creature,Skin-Walker
+29,Creature,Fairy
+30,Enchantment,Blight
+31,Spell,Instant Frigid Assault
+32,Creature,Wolf
+33,Creature,Berserker
+34,Artifact,Hateful Divine Robe
+35,Artifact,Ring
+36,Enchantment,Firebreath
+37,Artifact,Gloom Cloak
+38,Creature,Magi
+39,Spell,Sorrow Heal
+40,Spell,Burst
+41,Spell,Rage
+42,Creature,Berserker
+43,Creature,Spider
+44,Enchantment,Instant Miracle Shrink

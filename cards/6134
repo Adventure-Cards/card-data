@@ -1,46 +1,46 @@
-==================,DECK,6134,Strong
-0,Spell,Common,Assault
-1,Creature,Rare,Light Merchant Minotaur
-2,Creature,Mythic,Earth Time Phoenix of the Shadows
-3,Enchantment,Common,Alacrity
-4,Creature,Rare,Light Rogue Skin-Walker
-5,Enchantment,Common,Shade
-6,Creature,Rare,Death Thief Fairy
-7,Enchantment,Rare,Nimble Shield
-8,Creature,Legendary,Death Undead Kraken of the Arctic Blizzards
-9,Creature,Mythic,Frozen Chaos Demon of the Void
-10,Spell,Common,Invisibility
-11,Spell,Rare,Nimble Torment
-12,Enchantment,Mythic,Dire Blight
-13,Creature,Rare,Dark Merchant Fairy
-14,Creature,Common,Goblin
-15,Artifact,Rare,Forged Ghost Wand
-16,Creature,Common,Wolf
-17,Artifact,Common,Helmet
-18,Artifact,Mythic,Potent Bracers
-19,Creature,Rare,Aura Monk Hydra
-20,Creature,Rare,Frozen Rogue Skin-Walker
-21,Spell,Common,Frenzy
-22,Artifact,Common,Crown
-23,Creature,Legendary,Snow Chaos Wizard of Hate
-24,Spell,Rare,Grim Torment
-25,Spell,Common,Heal
-26,Artifact,Mythic,Mighty Gloves
-27,Creature,Common,Elf
-28,Creature,Rare,Snow Monk Fairy
-29,Enchantment,Mythic,Clever Drain
-30,Creature,Mythic,Death Undead Phoenix of the Dead
-31,Creature,Legendary,Earth Monk Giant of the Plains
-32,Artifact,Common,Ghost Wand
-33,Spell,Common,Rage
-34,Creature,Legendary,Dark Rogue Cyclops of the Low Hills
-35,Creature,Rare,Light Fighter Hydra
-36,Creature,Rare,Aura Fighter Skin-Walker
-37,Creature,Common,Wolf
-38,Enchantment,Common,Invert
-39,Artifact,Common,Pendant
-40,Spell,Common,Infuriate
-41,Creature,Legendary,Light Chaos Demon of the Sky
-42,Enchantment,Common,Invert
-43,Creature,Legendary,Dark Assassin Kraken of the Eternal Land
-44,Creature,Common,Dwarf
+==================,DECK,6134
+0,Spell,Revive
+1,Creature,Light Merchant Cyclops
+2,Creature,Earth Time Phoenix of the Shadows
+3,Enchantment,Agony
+4,Creature,Light Rogue Orc
+5,Enchantment,Shade
+6,Creature,Death Thief Kraken
+7,Enchantment,Nature Deathgrip
+8,Creature,Death Undead Ogre of the Arctic Blizzards
+9,Creature,Frozen Chaos Demon of the Void
+10,Spell,Rage
+11,Spell,Corpse Burn
+12,Enchantment,Empyrean Nimble Shade
+13,Creature,Dark Merchant Kraken
+14,Creature,Skin-Walker
+15,Artifact,Lunar Ghost Wand
+16,Creature,Wolf
+17,Artifact,Helmet
+18,Artifact,Zealous Nimble Bracers
+19,Creature,Aura Monk Hydra
+20,Creature,Frozen Rogue Orc
+21,Spell,Wall
+22,Artifact,Crown
+23,Creature,Snow Chaos Wizard of Hate
+24,Spell,Grim Tempest
+25,Spell,Hypnosis
+26,Artifact,Potent Gloom Gloves
+27,Creature,Warlock
+28,Creature,Snow Monk Kraken
+29,Enchantment,Clever Apocalypse Haste
+30,Creature,Death Undead Phoenix of the Dead
+31,Creature,Earth Monk Dwarf of the Plains
+32,Artifact,Ghost Wand
+33,Spell,Assault
+34,Creature,Dark Rogue Giant of the Low Hills
+35,Creature,Light Fighter Hydra
+36,Creature,Aura Fighter Orc
+37,Creature,Wolf
+38,Enchantment,Shrink
+39,Artifact,Pendant
+40,Spell,Stun
+41,Creature,Light Chaos Demon of the Sky
+42,Enchantment,Age
+43,Creature,Dark Assassin Ogre of the Eternal Land
+44,Creature,Magi

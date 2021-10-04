@@ -1,46 +1,46 @@
-==================,DECK,7932,Medium
-0,Spell,Rare,Dark Frenzy
-1,Enchantment,Rare,Apocalypse Flight
-2,Enchantment,Common,Invert
-3,Spell,Common,Lightning
-4,Artifact,Common,Gauntlet
-5,Creature,Common,Wolf
-6,Spell,Common,Revive
-7,Creature,Rare,Aura Knight Berserker
-8,Creature,Rare,Dark Warrior Hydra
-9,Creature,Rare,Death Priest Hydra
-10,Spell,Rare,Grim Lightning
-11,Artifact,Rare,Nimble Pendant
-12,Spell,Common,Lightning
-13,Spell,Rare,Lunar Sorrow
-14,Enchantment,Rare,Necro Haste
-15,Creature,Common,Goblin
-16,Artifact,Rare,Shimmering Sigil
-17,Creature,Rare,Light Thief Fairy
-18,Spell,Rare,Shimmering Infuriate
-19,Creature,Rare,Light Fighter Griffin
-20,Creature,Legendary,Frozen Undead Oni of the Mountains
-21,Creature,Common,Eagle
-22,Artifact,Common,Shield
-23,Spell,Common,Torment
-24,Enchantment,Common,Shrink
-25,Artifact,Common,Sigil
-26,Creature,Common,Wolf
-27,Enchantment,Common,Agony
-28,Artifact,Legendary,Intense Tome
-29,Enchantment,Common,Drain
-30,Spell,Mythic,Angry Sorrow
-31,Enchantment,Legendary,Angry Shrink
-32,Creature,Common,Warlock
-33,Enchantment,Rare,Nimble Shield
-34,Creature,Common,Ghoul
-35,Creature,Rare,Snow Warrior Minotaur
-36,Creature,Common,Warlock
-37,Creature,Common,Elf
-38,Spell,Legendary,Mighty Hypnosis
-39,Spell,Common,Torment
-40,Spell,Common,Invisibility
-41,Creature,Common,Orc
-42,Creature,Common,Eagle
-43,Creature,Common,Magi
-44,Creature,Legendary,Light Undead Kraken of the Mountains
+==================,DECK,7932
+0,Spell,Dark Infuriate
+1,Enchantment,Grim Haste
+2,Enchantment,Strength
+3,Spell,Burn
+4,Artifact,Gauntlet
+5,Creature,Wolf
+6,Spell,Infuriate
+7,Creature,Aura Knight Goblin
+8,Creature,Dark Warrior Hydra
+9,Creature,Death Priest Hydra
+10,Spell,Grim Burn
+11,Artifact,Solar Pendant
+12,Spell,Assault
+13,Spell,Cataclysmic Frenzy
+14,Enchantment,Corpse Age
+15,Creature,Skin-Walker
+16,Artifact,Nature Sigil
+17,Creature,Light Thief Kraken
+18,Spell,Necro Frost
+19,Creature,Light Fighter Griffin
+20,Creature,Frozen Undead Oni of the Mountains
+21,Creature,Eagle
+22,Artifact,Shield
+23,Spell,Stricken
+24,Enchantment,Firebreath
+25,Artifact,Sigil
+26,Creature,Wolf
+27,Enchantment,Shade
+28,Artifact,Empyrean Hateful Tome
+29,Enchantment,Drain
+30,Spell,Zealous Lunar Wall
+31,Enchantment,Clever Chimeric Shield
+32,Creature,Berserker
+33,Enchantment,Nature Age
+34,Creature,Ghoul
+35,Creature,Snow Warrior Cyclops
+36,Creature,Berserker
+37,Creature,Warlock
+38,Spell,Potent Miracle Maelstrom
+39,Spell,Maelstrom
+40,Spell,Tempest
+41,Creature,Spider
+42,Creature,Eagle
+43,Creature,Fairy
+44,Creature,Light Undead Ogre of the Mountains

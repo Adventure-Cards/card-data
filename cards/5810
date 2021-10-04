@@ -1,46 +1,46 @@
-==================,DECK,5810,Light
-0,Spell,Common,Frenzy
-1,Enchantment,Common,Deathgrip
-2,Creature,Common,Wolf
-3,Creature,Common,Dwarf
-4,Enchantment,Mythic,Urgent Alacrity
-5,Creature,Rare,Frozen Fighter Minotaur
-6,Creature,Common,Orc
-7,Creature,Common,Spider
-8,Artifact,Common,Sigil
-9,Enchantment,Rare,Forged Alacrity
-10,Creature,Common,Orc
-11,Creature,Common,Ghoul
-12,Creature,Mythic,Death Time Dragon of the Dead
-13,Spell,Common,Invisibility
-14,Creature,Common,Magi
-15,Artifact,Common,Potion
-16,Artifact,Common,Greaves
-17,Artifact,Common,Ghost Wand
-18,Creature,Rare,Death Rogue Berserker
-19,Creature,Mythic,Snow Time Phoenix of Hate
-20,Enchantment,Common,Shield
-21,Artifact,Common,Belt
-22,Creature,Legendary,Dark Thief Giant of the Border
-23,Creature,Rare,Light Fighter Minotaur
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Spider
-26,Creature,Rare,Snow Knight Hydra
-27,Spell,Common,Lightning
-28,Creature,Common,Eagle
-29,Artifact,Common,Potion
-30,Creature,Common,Spider
-31,Creature,Common,Ghoul
-32,Creature,Common,Goblin
-33,Spell,Rare,Dark Rage
-34,Creature,Common,Ghoul
-35,Artifact,Common,Helm
-36,Creature,Legendary,Aura Thief Giant of the Frozen Castle
-37,Creature,Common,Orc
-38,Creature,Rare,Earth Thief Griffin
-39,Artifact,Common,Scepter
-40,Spell,Common,Stricken
-41,Spell,Legendary,Clever Wall
-42,Spell,Legendary,Dire Fury
-43,Spell,Common,Stricken
-44,Creature,Rare,Death Knight Berserker
+==================,DECK,5810
+0,Spell,Torment
+1,Enchantment,Lethargy
+2,Creature,Wolf
+3,Creature,Magi
+4,Enchantment,Ardent Forged Lethargy
+5,Creature,Frozen Fighter Cyclops
+6,Creature,Spider
+7,Creature,Paladin
+8,Artifact,Sigil
+9,Enchantment,Dark Alacrity
+10,Creature,Spider
+11,Creature,Ghoul
+12,Creature,Death Time Dragon of the Dead
+13,Spell,Infuriate
+14,Creature,Fairy
+15,Artifact,Potion
+16,Artifact,Greaves
+17,Artifact,Ghost Wand
+18,Creature,Death Rogue Goblin
+19,Creature,Snow Time Phoenix of Hate
+20,Enchantment,Shade
+21,Artifact,Belt
+22,Creature,Dark Thief Dwarf of the Border
+23,Creature,Light Fighter Cyclops
+24,Enchantment,Shield
+25,Creature,Paladin
+26,Creature,Snow Knight Hydra
+27,Spell,Maelstrom
+28,Creature,Eagle
+29,Artifact,Potion
+30,Creature,Paladin
+31,Creature,Ghoul
+32,Creature,Skin-Walker
+33,Spell,Lunar Infuriate
+34,Creature,Ghoul
+35,Artifact,Helm
+36,Creature,Aura Thief Dwarf of the Frozen Castle
+37,Creature,Spider
+38,Creature,Earth Thief Griffin
+39,Artifact,Scepter
+40,Spell,Sorrow
+41,Spell,Urgent Frigid Heal
+42,Spell,Empyrean Apocalypse Gale
+43,Spell,Reanimate
+44,Creature,Death Knight Goblin

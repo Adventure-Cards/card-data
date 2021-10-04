@@ -1,46 +1,46 @@
-==================,DECK,7307,Light
-0,Enchantment,Common,Alacrity
-1,Enchantment,Common,Age
-2,Artifact,Common,Pendant
-3,Enchantment,Common,Haste
-4,Enchantment,Common,Blight
-5,Creature,Common,Orc
-6,Creature,Common,Dwarf
-7,Enchantment,Legendary,Instant Age
-8,Enchantment,Mythic,Potent Age
-9,Enchantment,Common,Flight
-10,Spell,Common,Pandemonium
-11,Creature,Legendary,Frozen Merchant Kraken of the Haven
-12,Creature,Common,Goblin
-13,Enchantment,Common,Age
-14,Creature,Common,Dwarf
-15,Spell,Rare,Grim Invisibility
-16,Creature,Mythic,Snow Chaos Demon of Hate
-17,Creature,Rare,Light Knight Berserker
-18,Enchantment,Rare,Dark Shield
-19,Creature,Legendary,Snow Priest Cyclops of the Swamp
-20,Spell,Common,Invisibility
-21,Creature,Rare,Aura Merchant Hydra
-22,Spell,Common,Maelstrom
-23,Creature,Legendary,Snow King Oni of the Frozen Castle
-24,Creature,Common,Paladin
-25,Creature,Common,Elf
-26,Enchantment,Rare,Forged Agony
-27,Spell,Common,Pandemonium
-28,Artifact,Common,Gauntlet
-29,Enchantment,Common,Lethargy
-30,Enchantment,Common,Blight
-31,Enchantment,Common,Haste
-32,Enchantment,Common,Haste
-33,Enchantment,Rare,Apocalypse Blight
-34,Creature,Common,Elf
-35,Spell,Common,Fury
-36,Enchantment,Rare,Miracle Flight
-37,Creature,Common,Spider
-38,Creature,Legendary,Light Monk Cyclops of the Mountains
-39,Creature,Common,Warlock
-40,Artifact,Common,Cloak
-41,Creature,Rare,Light Rogue Hydra
-42,Enchantment,Common,Age
-43,Spell,Rare,Solar Revive
-44,Artifact,Common,Bracers
+==================,DECK,7307
+0,Enchantment,Shrink
+1,Enchantment,Shade
+2,Artifact,Pendant
+3,Enchantment,Shrink
+4,Enchantment,Deathgrip
+5,Creature,Spider
+6,Creature,Magi
+7,Enchantment,Mighty Nature Agony
+8,Enchantment,Empyrean Victory Shade
+9,Enchantment,Drain
+10,Spell,Rage
+11,Creature,Frozen Merchant Ogre of the Haven
+12,Creature,Skin-Walker
+13,Enchantment,Flight
+14,Creature,Magi
+15,Spell,Victory Revive
+16,Creature,Snow Chaos Demon of Hate
+17,Creature,Light Knight Goblin
+18,Enchantment,Gloom Alacrity
+19,Creature,Snow Priest Giant of the Swamp
+20,Spell,Invisibility
+21,Creature,Aura Merchant Hydra
+22,Spell,Fire
+23,Creature,Snow King Oni of the Frozen Castle
+24,Creature,Troll
+25,Creature,Warlock
+26,Enchantment,Miracle Alacrity
+27,Spell,Wall
+28,Artifact,Gauntlet
+29,Enchantment,Agony
+30,Enchantment,Blight
+31,Enchantment,Flight
+32,Enchantment,Shade
+33,Enchantment,Nimble Blight
+34,Creature,Warlock
+35,Spell,Tempest
+36,Enchantment,Grim Blight
+37,Creature,Paladin
+38,Creature,Light Monk Giant of the Mountains
+39,Creature,Berserker
+40,Artifact,Cloak
+41,Creature,Light Rogue Hydra
+42,Enchantment,Firebreath
+43,Spell,Corpse Fire
+44,Artifact,Bracers

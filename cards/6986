@@ -1,46 +1,46 @@
-==================,DECK,6986,Light
-0,Creature,Rare,Dark Assassin Fairy
-1,Creature,Common,Goblin
-2,Artifact,Common,Shield
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Haste
-5,Enchantment,Common,Strength
-6,Enchantment,Common,Deathgrip
-7,Spell,Common,Stricken
-8,Enchantment,Common,Shade
-9,Spell,Legendary,Clever Frost
-10,Creature,Rare,Death Merchant Fairy
-11,Creature,Common,Warlock
-12,Enchantment,Common,Blight
-13,Creature,Mythic,Frozen Nameless Phoenix of the Void
-14,Spell,Rare,Miracle Gale
-15,Enchantment,Common,Flight
-16,Spell,Common,Wall
-17,Creature,Rare,Earth Lord Minotaur
-18,Spell,Legendary,Intense Burst
-19,Spell,Common,Wall
-20,Artifact,Common,Cloak
-21,Creature,Rare,Dark Lord Hydra
-22,Creature,Rare,Dark Monk Berserker
-23,Enchantment,Mythic,Dire Deathgrip
-24,Enchantment,Common,Shield
-25,Creature,Legendary,Aura Lord Kraken of the Bright Mountains
-26,Creature,Common,Dwarf
-27,Creature,Rare,Dark Queen Fairy
-28,Creature,Common,Spider
-29,Artifact,Common,Helm
-30,Enchantment,Rare,Lunar Flight
-31,Creature,Rare,Light Priest Fairy
-32,Spell,Common,Frenzy
-33,Creature,Common,Ghoul
-34,Artifact,Common,Gloves
-35,Creature,Common,Orc
-36,Creature,Legendary,Earth Knight Oni of the Polar Woods
-37,Spell,Common,Burn
-38,Artifact,Common,Potion
-39,Creature,Common,Ghoul
-40,Creature,Rare,Earth Warrior Berserker
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Enchantment,Common,Blight
-44,Spell,Rare,Life Gale
+==================,DECK,6986
+0,Creature,Dark Assassin Kraken
+1,Creature,Skin-Walker
+2,Artifact,Shield
+3,Creature,Ghoul
+4,Enchantment,Lethargy
+5,Enchantment,Shrink
+6,Enchantment,Shrink
+7,Spell,Frenzy
+8,Enchantment,Lethargy
+9,Spell,Instant Grim Revive
+10,Creature,Death Merchant Kraken
+11,Creature,Berserker
+12,Enchantment,Lethargy
+13,Creature,Frozen Nameless Phoenix of the Void
+14,Spell,Life Frost
+15,Enchantment,Agony
+16,Spell,Frenzy
+17,Creature,Earth Lord Cyclops
+18,Spell,Clever Nature Heal
+19,Spell,Fireball
+20,Artifact,Cloak
+21,Creature,Dark Lord Hydra
+22,Creature,Dark Monk Goblin
+23,Enchantment,Clever Oblivion Haste
+24,Enchantment,Age
+25,Creature,Aura Lord Ogre of the Bright Mountains
+26,Creature,Magi
+27,Creature,Dark Queen Kraken
+28,Creature,Paladin
+29,Artifact,Helm
+30,Enchantment,Lunar Firebreath
+31,Creature,Light Priest Kraken
+32,Spell,Stun
+33,Creature,Ghoul
+34,Artifact,Gloves
+35,Creature,Spider
+36,Creature,Earth Knight Oni of the Polar Woods
+37,Spell,Vortex
+38,Artifact,Potion
+39,Creature,Ghoul
+40,Creature,Earth Warrior Goblin
+41,Creature,Troll
+42,Creature,Paladin
+43,Enchantment,Strength
+44,Spell,Oblivion Infuriate

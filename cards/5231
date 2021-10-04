@@ -1,46 +1,46 @@
-==================,DECK,5231,Light
-0,Spell,Rare,Solar Frenzy
-1,Artifact,Common,Potion
-2,Creature,Common,Ghoul
-3,Creature,Common,Dwarf
-4,Artifact,Common,Scepter
-5,Creature,Common,Eagle
-6,Spell,Legendary,Potent Ice
-7,Artifact,Common,Gauntlet
-8,Spell,Rare,Nimble Heal
-9,Creature,Common,Wolf
-10,Creature,Common,Paladin
-11,Creature,Common,Orc
-12,Creature,Common,Dwarf
-13,Enchantment,Legendary,Dire Drain
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Haste
-16,Artifact,Common,Ghost Wand
-17,Creature,Common,Orc
-18,Enchantment,Common,Shade
-19,Creature,Common,Spider
-20,Creature,Common,Warlock
-21,Creature,Common,Goblin
-22,Artifact,Common,Divine Robe
-23,Creature,Common,Paladin
-24,Spell,Common,Revive
-25,Creature,Common,Goblin
-26,Creature,Rare,Frozen Priest Skin-Walker
-27,Creature,Common,Orc
-28,Creature,Rare,Frozen Monk Fairy
-29,Spell,Legendary,Extreme Ice
-30,Creature,Legendary,Light Lord Cyclops of the West
-31,Creature,Common,Magi
-32,Creature,Common,Wolf
-33,Spell,Rare,Forged Vortex
-34,Creature,Common,Dwarf
-35,Artifact,Rare,Dark Bow
-36,Enchantment,Common,Age
-37,Creature,Rare,Earth Priest Fairy
-38,Creature,Rare,Earth Monk Skin-Walker
-39,Creature,Common,Magi
-40,Creature,Rare,Death King Skin-Walker
-41,Creature,Rare,Aura Knight Griffin
-42,Spell,Common,Gravitation
-43,Creature,Common,Elf
-44,Enchantment,Rare,Necro Shrink
+==================,DECK,5231
+0,Spell,Hateful Heal
+1,Artifact,Potion
+2,Creature,Ghoul
+3,Creature,Magi
+4,Artifact,Scepter
+5,Creature,Eagle
+6,Spell,Clever Oblivion Fire
+7,Artifact,Gauntlet
+8,Spell,Nature Fury
+9,Creature,Wolf
+10,Creature,Troll
+11,Creature,Spider
+12,Creature,Magi
+13,Enchantment,Potent Apocalypse Drain
+14,Creature,Magi
+15,Enchantment,Alacrity
+16,Artifact,Ghost Wand
+17,Creature,Spider
+18,Enchantment,Firebreath
+19,Creature,Paladin
+20,Creature,Berserker
+21,Creature,Skin-Walker
+22,Artifact,Divine Robe
+23,Creature,Troll
+24,Spell,Burn
+25,Creature,Skin-Walker
+26,Creature,Frozen Priest Orc
+27,Creature,Spider
+28,Creature,Frozen Monk Kraken
+29,Spell,Empyrean Lunar Ice
+30,Creature,Light Lord Giant of the West
+31,Creature,Fairy
+32,Creature,Wolf
+33,Spell,Chimeric Fireball
+34,Creature,Magi
+35,Artifact,Lunar Bow
+36,Enchantment,Lethargy
+37,Creature,Earth Priest Kraken
+38,Creature,Earth Monk Orc
+39,Creature,Fairy
+40,Creature,Death King Orc
+41,Creature,Aura Knight Griffin
+42,Spell,Revive
+43,Creature,Warlock
+44,Enchantment,Necro Deathgrip

@@ -1,46 +1,46 @@
-==================,DECK,5433,Light
-0,Spell,Common,Torment
-1,Creature,Mythic,Dark Nameless Phoenix of Illusion
-2,Creature,Rare,Dark Warrior Skin-Walker
-3,Enchantment,Common,Shrink
-4,Creature,Common,Paladin
-5,Creature,Common,Spider
-6,Creature,Common,Orc
-7,Artifact,Common,Tome
-8,Artifact,Common,Belt
-9,Creature,Common,Elf
-10,Creature,Common,Eagle
-11,Artifact,Common,Scythe
-12,Creature,Common,Warlock
-13,Artifact,Rare,Solar Ring
-14,Creature,Common,Ghoul
-15,Spell,Common,Freeze
-16,Enchantment,Common,Age
-17,Creature,Common,Paladin
-18,Creature,Legendary,Death Queen Cyclops of the Bright Mountains
-19,Spell,Common,Pandemonium
-20,Creature,Legendary,Death Assassin Kraken of the Arctic Blizzards
-21,Creature,Common,Magi
-22,Spell,Rare,Solar Frost
-23,Spell,Common,Freeze
-24,Spell,Common,Heal
-25,Creature,Rare,Frozen Merchant Berserker
-26,Creature,Common,Dwarf
-27,Enchantment,Common,Invert
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Elf
-30,Creature,Mythic,Dark Grand Wizard of Illusion
-31,Enchantment,Common,Alacrity
-32,Artifact,Rare,Lunar Divine Robe
-33,Spell,Common,Lightning
-34,Creature,Common,Warlock
-35,Enchantment,Common,Age
-36,Spell,Common,Gale
-37,Creature,Common,Magi
-38,Spell,Rare,Shimmering Burn
-39,Creature,Common,Magi
-40,Enchantment,Common,Invert
-41,Spell,Common,Frenzy
-42,Creature,Common,Spider
-43,Creature,Common,Elf
-44,Creature,Rare,Earth King Skin-Walker
+==================,DECK,5433
+0,Spell,Fire
+1,Creature,Dark Nameless Phoenix of Illusion
+2,Creature,Dark Warrior Orc
+3,Enchantment,Haste
+4,Creature,Troll
+5,Creature,Paladin
+6,Creature,Spider
+7,Artifact,Tome
+8,Artifact,Belt
+9,Creature,Warlock
+10,Creature,Eagle
+11,Artifact,Scythe
+12,Creature,Berserker
+13,Artifact,Nature Ring
+14,Creature,Ghoul
+15,Spell,Tempest
+16,Enchantment,Alacrity
+17,Creature,Troll
+18,Creature,Death Queen Giant of the Bright Mountains
+19,Spell,Burst
+20,Creature,Death Assassin Ogre of the Arctic Blizzards
+21,Creature,Fairy
+22,Spell,Nature Heal
+23,Spell,Reanimate
+24,Spell,Fury
+25,Creature,Frozen Merchant Goblin
+26,Creature,Magi
+27,Enchantment,Lethargy
+28,Enchantment,Shield
+29,Creature,Warlock
+30,Creature,Dark Grand Wizard of Illusion
+31,Enchantment,Blight
+32,Artifact,Miracle Divine Robe
+33,Spell,Assault
+34,Creature,Berserker
+35,Enchantment,Alacrity
+36,Spell,Reanimate
+37,Creature,Fairy
+38,Spell,Solar Assault
+39,Creature,Fairy
+40,Enchantment,Haste
+41,Spell,Fury
+42,Creature,Paladin
+43,Creature,Warlock
+44,Creature,Earth King Orc

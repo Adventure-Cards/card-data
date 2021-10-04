@@ -1,46 +1,46 @@
-==================,DECK,5589,Light
-0,Spell,Common,Reanimate
-1,Enchantment,Common,Blight
-2,Artifact,Common,Greaves
-3,Spell,Common,Fury
-4,Artifact,Legendary,Dire Sword
-5,Spell,Common,Hypnosis
-6,Creature,Common,Spider
-7,Creature,Common,Goblin
-8,Spell,Common,Torment
-9,Creature,Common,Orc
-10,Creature,Common,Ghoul
-11,Creature,Common,Warlock
-12,Creature,Common,Paladin
-13,Creature,Common,Dwarf
-14,Spell,Common,Gale
-15,Artifact,Legendary,Potent Bracers
-16,Spell,Common,Rage
-17,Creature,Common,Elf
-18,Enchantment,Mythic,Extreme Deathgrip
-19,Enchantment,Mythic,Urgent Alacrity
-20,Enchantment,Common,Lethargy
-21,Creature,Rare,Death Priest Minotaur
-22,Spell,Rare,Nimble Revive
-23,Creature,Common,Elf
-24,Creature,Common,Warlock
-25,Creature,Common,Ghoul
-26,Creature,Rare,Death Fighter Minotaur
-27,Enchantment,Mythic,Intense Shade
-28,Enchantment,Rare,Gloom Strength
-29,Enchantment,Common,Haste
-30,Enchantment,Common,Strength
-31,Artifact,Common,Cloak
-32,Spell,Common,Maelstrom
-33,Artifact,Common,Staff
-34,Enchantment,Rare,Nimble Shield
-35,Creature,Common,Eagle
-36,Creature,Common,Paladin
-37,Creature,Common,Paladin
-38,Spell,Rare,Nimble Revive
-39,Spell,Legendary,Clever Gale
-40,Enchantment,Common,Invert
-41,Creature,Common,Dwarf
-42,Creature,Common,Magi
-43,Creature,Common,Wolf
-44,Creature,Rare,Dark Merchant Skin-Walker
+==================,DECK,5589
+0,Spell,Frost
+1,Enchantment,Invert
+2,Artifact,Greaves
+3,Spell,Pandemonium
+4,Artifact,Potent Nimble Sword
+5,Spell,Freeze
+6,Creature,Paladin
+7,Creature,Skin-Walker
+8,Spell,Infuriate
+9,Creature,Spider
+10,Creature,Ghoul
+11,Creature,Berserker
+12,Creature,Troll
+13,Creature,Magi
+14,Spell,Hypnosis
+15,Artifact,Irate Frigid Bracers
+16,Spell,Rage
+17,Creature,Warlock
+18,Enchantment,Mighty Sorrow Flight
+19,Enchantment,Urgent Forged Agony
+20,Enchantment,Flight
+21,Creature,Death Priest Cyclops
+22,Spell,Nature Invisibility
+23,Creature,Warlock
+24,Creature,Berserker
+25,Creature,Ghoul
+26,Creature,Death Fighter Cyclops
+27,Enchantment,Ardent Necro Lethargy
+28,Enchantment,Cataclysmic Firebreath
+29,Enchantment,Shrink
+30,Enchantment,Drain
+31,Artifact,Cloak
+32,Spell,Frenzy
+33,Artifact,Staff
+34,Enchantment,Nature Agony
+35,Creature,Eagle
+36,Creature,Troll
+37,Creature,Troll
+38,Spell,Forged Sorrow
+39,Spell,Potent Life Pandemonium
+40,Enchantment,Lethargy
+41,Creature,Magi
+42,Creature,Fairy
+43,Creature,Wolf
+44,Creature,Dark Merchant Orc

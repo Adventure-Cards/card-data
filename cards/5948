@@ -1,46 +1,46 @@
-==================,DECK,5948,Light
-0,Creature,Common,Spider
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Lethargy
-3,Creature,Common,Ghoul
-4,Creature,Common,Eagle
-5,Creature,Common,Orc
-6,Creature,Rare,Dark Rogue Berserker
-7,Spell,Common,Fury
-8,Creature,Legendary,Snow Monk Orge of the Magical Forest
-9,Creature,Common,Magi
-10,Artifact,Common,Bracers
-11,Creature,Common,Paladin
-12,Spell,Common,Rage
-13,Enchantment,Common,Haste
-14,Spell,Common,Invisibility
-15,Creature,Common,Warlock
-16,Creature,Rare,Frozen Fighter Berserker
-17,Creature,Common,Wolf
-18,Creature,Common,Dwarf
-19,Creature,Legendary,Dark Priest Orge of the Bright Mountains
-20,Enchantment,Common,Flight
-21,Creature,Mythic,Snow Grand Demon of Hate
-22,Creature,Common,Eagle
-23,Enchantment,Common,Drain
-24,Creature,Common,Magi
-25,Creature,Common,Orc
-26,Creature,Common,Spider
-27,Creature,Legendary,Light Merchant Giant of the Golden Palace
-28,Creature,Common,Magi
-29,Spell,Rare,Miracle Pandemonium
-30,Spell,Legendary,Intense Invisibility
-31,Creature,Common,Ghoul
-32,Spell,Rare,Necro Maelstrom
-33,Enchantment,Legendary,Angry Shrink
-34,Artifact,Common,Crown
-35,Spell,Common,Burst
-36,Spell,Legendary,Urgent Vortex
-37,Creature,Rare,Light Fighter Minotaur
-38,Enchantment,Mythic,Urgent Shade
-39,Artifact,Legendary,Intense Scythe
-40,Spell,Rare,Life Hypnosis
-41,Creature,Common,Orc
-42,Spell,Common,Torment
-43,Spell,Common,Fury
-44,Artifact,Legendary,Instant Scepter
+==================,DECK,5948
+0,Creature,Paladin
+1,Creature,Ghoul
+2,Enchantment,Deathgrip
+3,Creature,Ghoul
+4,Creature,Eagle
+5,Creature,Spider
+6,Creature,Dark Rogue Goblin
+7,Spell,Infuriate
+8,Creature,Snow Monk Elf of the Magical Forest
+9,Creature,Fairy
+10,Artifact,Bracers
+11,Creature,Troll
+12,Spell,Burn
+13,Enchantment,Alacrity
+14,Spell,Invisibility
+15,Creature,Berserker
+16,Creature,Frozen Fighter Goblin
+17,Creature,Wolf
+18,Creature,Magi
+19,Creature,Dark Priest Elf of the Bright Mountains
+20,Enchantment,Invert
+21,Creature,Snow Grand Demon of Hate
+22,Creature,Eagle
+23,Enchantment,Deathgrip
+24,Creature,Fairy
+25,Creature,Spider
+26,Creature,Paladin
+27,Creature,Light Merchant Dwarf of the Golden Palace
+28,Creature,Fairy
+29,Spell,Grim Assault
+30,Spell,Urgent Hateful Revive
+31,Creature,Ghoul
+32,Spell,Corpse Frost
+33,Enchantment,Clever Chimeric Shield
+34,Artifact,Crown
+35,Spell,Vortex
+36,Spell,Instant Nature Torment
+37,Creature,Light Fighter Cyclops
+38,Enchantment,Irate Necro Deathgrip
+39,Artifact,Dire Forged Scythe
+40,Spell,Frigid Infuriate
+41,Creature,Spider
+42,Spell,Burst
+43,Spell,Sorrow
+44,Artifact,Potent Solar Scepter

@@ -1,46 +1,46 @@
-==================,DECK,7692,Light
-0,Enchantment,Common,Alacrity
-1,Artifact,Common,Gauntlet
-2,Creature,Common,Elf
-3,Creature,Common,Paladin
-4,Spell,Common,Assault
-5,Enchantment,Mythic,Angry Lethargy
-6,Enchantment,Common,Lethargy
-7,Creature,Mythic,Light Grand Demon of the Sky
-8,Enchantment,Rare,Solar Strength
-9,Creature,Common,Spider
-10,Creature,Common,Spider
-11,Enchantment,Common,Blight
-12,Creature,Rare,Death Merchant Skin-Walker
-13,Enchantment,Mythic,Mighty Deathgrip
-14,Creature,Rare,Aura Rogue Skin-Walker
-15,Creature,Rare,Light Warrior Hydra
-16,Artifact,Common,Sword
-17,Creature,Rare,Frozen Merchant Hydra
-18,Enchantment,Mythic,Clever Strength
-19,Enchantment,Common,Flight
-20,Spell,Rare,Miracle Fury
-21,Enchantment,Common,Shield
-22,Creature,Rare,Earth Monk Skin-Walker
-23,Creature,Common,Goblin
-24,Creature,Common,Warlock
-25,Artifact,Common,Greaves
-26,Creature,Common,Wolf
-27,Creature,Common,Elf
-28,Spell,Common,Heal
-29,Creature,Common,Dwarf
-30,Creature,Rare,Earth Lord Minotaur
-31,Enchantment,Common,Shade
-32,Artifact,Common,Belt
-33,Spell,Common,Reanimate
-34,Creature,Common,Orc
-35,Spell,Rare,Forged Frenzy
-36,Spell,Legendary,Intense Burn
-37,Enchantment,Common,Blight
-38,Spell,Common,Fury
-39,Enchantment,Common,Lethargy
-40,Enchantment,Common,Deathgrip
-41,Creature,Common,Goblin
-42,Creature,Legendary,Dark Queen Orge of the Eastern Skies
-43,Enchantment,Mythic,Angry Invert
-44,Spell,Common,Rage
+==================,DECK,7692
+0,Enchantment,Deathgrip
+1,Artifact,Gauntlet
+2,Creature,Warlock
+3,Creature,Troll
+4,Spell,Fire
+5,Enchantment,Instant Lunar Shrink
+6,Enchantment,Shield
+7,Creature,Light Grand Demon of the Sky
+8,Enchantment,Solar Strength
+9,Creature,Paladin
+10,Creature,Paladin
+11,Enchantment,Blight
+12,Creature,Death Merchant Orc
+13,Enchantment,Mighty Sorrow Flight
+14,Creature,Aura Rogue Orc
+15,Creature,Light Warrior Hydra
+16,Artifact,Sword
+17,Creature,Frozen Merchant Hydra
+18,Enchantment,Ardent Nimble Haste
+19,Enchantment,Shade
+20,Spell,Grim Rage
+21,Enchantment,Lethargy
+22,Creature,Earth Monk Orc
+23,Creature,Skin-Walker
+24,Creature,Berserker
+25,Artifact,Greaves
+26,Creature,Wolf
+27,Creature,Warlock
+28,Spell,Sorrow
+29,Creature,Magi
+30,Creature,Earth Lord Cyclops
+31,Enchantment,Age
+32,Artifact,Belt
+33,Spell,Heal
+34,Creature,Spider
+35,Spell,Chimeric Tempest
+36,Spell,Potent Nature Rage
+37,Enchantment,Agony
+38,Spell,Revive
+39,Enchantment,Flight
+40,Enchantment,Lethargy
+41,Creature,Skin-Walker
+42,Creature,Dark Queen Elf of the Eastern Skies
+43,Enchantment,Ardent Sorrow Shield
+44,Spell,Assault

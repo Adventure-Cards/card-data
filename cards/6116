@@ -1,46 +1,46 @@
-==================,DECK,6116,Medium
-0,Creature,Rare,Dark Undead Hydra
-1,Spell,Common,Pandemonium
-2,Creature,Rare,Light Rogue Hydra
-3,Artifact,Legendary,Extreme Staff
-4,Spell,Rare,Corpse Revive
-5,Creature,Common,Elf
-6,Enchantment,Rare,Corpse Invert
-7,Creature,Common,Spider
-8,Spell,Common,Heal
-9,Artifact,Legendary,Urgent Potion
-10,Enchantment,Legendary,Mighty Shield
-11,Creature,Common,Paladin
-12,Enchantment,Common,Age
-13,Enchantment,Mythic,Urgent Flight
-14,Creature,Rare,Dark Rogue Skin-Walker
-15,Artifact,Common,Divine Robe
-16,Spell,Common,Wall
-17,Creature,Mythic,Death Time Phoenix of the Dead
-18,Creature,Legendary,Light Monk Giant of the Swamp
-19,Enchantment,Common,Flight
-20,Creature,Common,Dwarf
-21,Creature,Legendary,Aura Knight Kraken of the Polar Woods
-22,Creature,Common,Ghoul
-23,Creature,Common,Eagle
-24,Creature,Common,Magi
-25,Creature,Rare,Dark Lord Skin-Walker
-26,Enchantment,Common,Lethargy
-27,Enchantment,Common,Flight
-28,Creature,Common,Ghoul
-29,Creature,Common,Orc
-30,Creature,Mythic,Death Grand Demon of the Dead
-31,Artifact,Common,Helm
-32,Creature,Rare,Earth Undead Fairy
-33,Enchantment,Legendary,Dire Deathgrip
-34,Creature,Common,Paladin
-35,Creature,Common,Wolf
-36,Spell,Legendary,Angry Sorrow
-37,Spell,Common,Fury
-38,Artifact,Rare,Nature Bow
-39,Creature,Common,Magi
-40,Creature,Rare,Snow Monk Fairy
-41,Creature,Common,Eagle
-42,Creature,Common,Dwarf
-43,Creature,Common,Elf
-44,Creature,Legendary,Death Thief Orge of the Arctic Blizzards
+==================,DECK,6116
+0,Creature,Dark Undead Hydra
+1,Spell,Vortex
+2,Creature,Light Rogue Hydra
+3,Artifact,Irate Lunar Staff
+4,Spell,Corpse Frost
+5,Creature,Warlock
+6,Enchantment,Shimmering Agony
+7,Creature,Paladin
+8,Spell,Fire
+9,Artifact,Clever Corpse Potion
+10,Enchantment,Urgent Gloom Flight
+11,Creature,Troll
+12,Enchantment,Age
+13,Enchantment,Empyrean Hateful Age
+14,Creature,Dark Rogue Orc
+15,Artifact,Divine Robe
+16,Spell,Invisibility
+17,Creature,Death Time Phoenix of the Dead
+18,Creature,Light Monk Dwarf of the Swamp
+19,Enchantment,Flight
+20,Creature,Magi
+21,Creature,Aura Knight Ogre of the Polar Woods
+22,Creature,Ghoul
+23,Creature,Eagle
+24,Creature,Fairy
+25,Creature,Dark Lord Orc
+26,Enchantment,Blight
+27,Enchantment,Drain
+28,Creature,Ghoul
+29,Creature,Spider
+30,Creature,Death Grand Demon of the Dead
+31,Artifact,Helm
+32,Creature,Earth Undead Kraken
+33,Enchantment,Potent Oblivion Drain
+34,Creature,Troll
+35,Creature,Wolf
+36,Spell,Empyrean Dark Lightning
+37,Spell,Assault
+38,Artifact,Hateful Bow
+39,Creature,Fairy
+40,Creature,Snow Monk Kraken
+41,Creature,Eagle
+42,Creature,Magi
+43,Creature,Warlock
+44,Creature,Death Thief Elf of the Arctic Blizzards

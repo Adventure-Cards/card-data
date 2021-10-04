@@ -1,46 +1,46 @@
-==================,DECK,6893,Light
-0,Creature,Rare,Dark Priest Griffin
-1,Creature,Common,Goblin
-2,Enchantment,Common,Age
-3,Creature,Common,Orc
-4,Creature,Legendary,Frozen King Cyclops of the Plains
-5,Enchantment,Common,Strength
-6,Creature,Common,Magi
-7,Creature,Rare,Snow Undead Griffin
-8,Spell,Rare,Apocalypse Fury
-9,Creature,Rare,Earth Assassin Griffin
-10,Creature,Rare,Death Knight Hydra
-11,Creature,Rare,Light Merchant Berserker
-12,Artifact,Common,Staff
-13,Spell,Common,Hypnosis
-14,Enchantment,Legendary,Dire Drain
-15,Creature,Common,Ghoul
-16,Creature,Rare,Death Thief Skin-Walker
-17,Creature,Rare,Death Thief Griffin
-18,Creature,Common,Goblin
-19,Creature,Mythic,Aura Time Phoenix of the Light
-20,Creature,Legendary,Earth Rogue Kraken of the Swamp
-21,Creature,Common,Spider
-22,Enchantment,Mythic,Angry Agony
-23,Creature,Common,Elf
-24,Creature,Rare,Earth Assassin Berserker
-25,Creature,Common,Wolf
-26,Artifact,Rare,Solar Boots
-27,Creature,Legendary,Light Rogue Orge of the Haven
-28,Creature,Common,Warlock
-29,Enchantment,Common,Shrink
-30,Enchantment,Common,Shield
-31,Creature,Common,Elf
-32,Creature,Legendary,Frozen Fighter Giant of the Swamp
-33,Creature,Rare,Earth Fighter Minotaur
-34,Spell,Legendary,Extreme Burst
-35,Artifact,Rare,Cataclysmic Sword
-36,Creature,Rare,Aura Priest Hydra
-37,Spell,Common,Burst
-38,Artifact,Common,Tome
-39,Enchantment,Common,Shrink
-40,Enchantment,Common,Invert
-41,Enchantment,Common,Alacrity
-42,Enchantment,Common,Drain
-43,Creature,Common,Warlock
-44,Creature,Rare,Aura Fighter Griffin
+==================,DECK,6893
+0,Creature,Dark Priest Griffin
+1,Creature,Skin-Walker
+2,Enchantment,Alacrity
+3,Creature,Spider
+4,Creature,Frozen King Giant of the Plains
+5,Enchantment,Alacrity
+6,Creature,Fairy
+7,Creature,Snow Undead Griffin
+8,Spell,Life Stricken
+9,Creature,Earth Assassin Griffin
+10,Creature,Death Knight Hydra
+11,Creature,Light Merchant Goblin
+12,Artifact,Staff
+13,Spell,Pandemonium
+14,Enchantment,Clever Apocalypse Haste
+15,Creature,Ghoul
+16,Creature,Death Thief Orc
+17,Creature,Death Thief Griffin
+18,Creature,Skin-Walker
+19,Creature,Aura Time Phoenix of the Light
+20,Creature,Earth Rogue Ogre of the Swamp
+21,Creature,Paladin
+22,Enchantment,Irate Miracle Alacrity
+23,Creature,Warlock
+24,Creature,Earth Assassin Goblin
+25,Creature,Wolf
+26,Artifact,Solar Boots
+27,Creature,Light Rogue Elf of the Haven
+28,Creature,Berserker
+29,Enchantment,Firebreath
+30,Enchantment,Strength
+31,Creature,Warlock
+32,Creature,Frozen Fighter Dwarf of the Swamp
+33,Creature,Earth Fighter Cyclops
+34,Spell,Empyrean Lunar Tempest
+35,Artifact,Lunar Sword
+36,Creature,Aura Priest Hydra
+37,Spell,Fury
+38,Artifact,Tome
+39,Enchantment,Shield
+40,Enchantment,Lethargy
+41,Enchantment,Flight
+42,Enchantment,Flight
+43,Creature,Berserker
+44,Creature,Aura Fighter Griffin

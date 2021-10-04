@@ -1,46 +1,46 @@
-==================,DECK,5271,Light
-0,Artifact,Common,Sigil
-1,Creature,Rare,Earth Knight Minotaur
-2,Spell,Common,Burn
-3,Spell,Common,Gravitation
-4,Spell,Legendary,Clever Freeze
-5,Artifact,Common,Bow
-6,Artifact,Common,Staff
-7,Creature,Common,Spider
-8,Enchantment,Common,Drain
-9,Creature,Legendary,Dark Lord Kraken of the Golden Palace
-10,Spell,Common,Maelstrom
-11,Creature,Common,Magi
-12,Artifact,Common,Crown
-13,Enchantment,Rare,Hateful Flight
-14,Spell,Legendary,Dire Stun
-15,Creature,Common,Ghoul
-16,Artifact,Common,Scythe
-17,Creature,Common,Ghoul
-18,Creature,Common,Spider
-19,Creature,Legendary,Light Knight Kraken of the Golden Palace
-20,Creature,Common,Dwarf
-21,Creature,Common,Wolf
-22,Creature,Common,Eagle
-23,Creature,Common,Dwarf
-24,Creature,Common,Warlock
-25,Spell,Legendary,Dire Wall
-26,Creature,Rare,Light Undead Fairy
-27,Creature,Rare,Aura Lord Hydra
-28,Spell,Common,Frenzy
-29,Creature,Common,Paladin
-30,Spell,Common,Rage
-31,Spell,Common,Freeze
-32,Creature,Rare,Death Assassin Fairy
-33,Creature,Common,Ghoul
-34,Creature,Rare,Dark Fighter Hydra
-35,Creature,Common,Paladin
-36,Creature,Common,Wolf
-37,Enchantment,Common,Haste
-38,Creature,Rare,Earth Priest Griffin
-39,Creature,Common,Ghoul
-40,Creature,Rare,Dark Fighter Hydra
-41,Artifact,Common,Scepter
-42,Creature,Common,Goblin
-43,Enchantment,Common,Flight
-44,Spell,Common,Wall
+==================,DECK,5271
+0,Artifact,Sigil
+1,Creature,Earth Knight Cyclops
+2,Spell,Wall
+3,Spell,Burn
+4,Spell,Irate Grim Gale
+5,Artifact,Bow
+6,Artifact,Staff
+7,Creature,Paladin
+8,Enchantment,Age
+9,Creature,Dark Lord Ogre of the Golden Palace
+10,Spell,Rage
+11,Creature,Fairy
+12,Artifact,Crown
+13,Enchantment,Lunar Shrink
+14,Spell,Zealous Grim Stricken
+15,Creature,Ghoul
+16,Artifact,Scythe
+17,Creature,Ghoul
+18,Creature,Paladin
+19,Creature,Light Knight Ogre of the Golden Palace
+20,Creature,Magi
+21,Creature,Wolf
+22,Creature,Eagle
+23,Creature,Magi
+24,Creature,Berserker
+25,Spell,Dire Apocalypse Fury
+26,Creature,Light Undead Kraken
+27,Creature,Aura Lord Hydra
+28,Spell,Hypnosis
+29,Creature,Troll
+30,Spell,Frenzy
+31,Spell,Invisibility
+32,Creature,Death Assassin Kraken
+33,Creature,Ghoul
+34,Creature,Dark Fighter Hydra
+35,Creature,Troll
+36,Creature,Wolf
+37,Enchantment,Age
+38,Creature,Earth Priest Griffin
+39,Creature,Ghoul
+40,Creature,Dark Fighter Hydra
+41,Artifact,Scepter
+42,Creature,Skin-Walker
+43,Enchantment,Firebreath
+44,Spell,Wall

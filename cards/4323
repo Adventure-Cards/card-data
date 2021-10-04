@@ -1,46 +1,46 @@
-==================,DECK,4323,Light
-0,Artifact,Common,Staff
-1,Artifact,Common,Greaves
-2,Spell,Rare,Forged Heal
-3,Creature,Rare,Earth King Berserker
-4,Creature,Common,Orc
-5,Creature,Common,Paladin
-6,Spell,Common,Wall
-7,Spell,Common,Frenzy
-8,Spell,Rare,Gloom Rage
-9,Creature,Common,Orc
-10,Enchantment,Common,Drain
-11,Creature,Common,Elf
-12,Enchantment,Rare,Dark Strength
-13,Enchantment,Common,Shade
-14,Creature,Rare,Dark Rogue Fairy
-15,Creature,Legendary,Death Lord Giant of the Eternal Land
-16,Creature,Common,Spider
-17,Creature,Rare,Light Priest Minotaur
-18,Creature,Common,Magi
-19,Artifact,Legendary,Intense Shield
-20,Creature,Common,Eagle
-21,Creature,Mythic,Snow Time Dragon of Hate
-22,Enchantment,Common,Shade
-23,Enchantment,Rare,Gloom Alacrity
-24,Enchantment,Common,Haste
-25,Artifact,Common,Scepter
-26,Creature,Common,Goblin
-27,Creature,Rare,Death Queen Berserker
-28,Spell,Common,Gravitation
-29,Creature,Mythic,Earth Time Phoenix of the Shadows
-30,Creature,Common,Spider
-31,Creature,Rare,Earth Priest Fairy
-32,Creature,Rare,Snow Merchant Fairy
-33,Spell,Rare,Forged Invisibility
-34,Creature,Common,Eagle
-35,Creature,Rare,Aura Warrior Berserker
-36,Creature,Common,Goblin
-37,Spell,Common,Rage
-38,Enchantment,Common,Shield
-39,Spell,Common,Gravitation
-40,Spell,Common,Gravitation
-41,Creature,Rare,Frozen Monk Minotaur
-42,Enchantment,Common,Shield
-43,Creature,Common,Warlock
-44,Enchantment,Rare,Lunar Deathgrip
+==================,DECK,4323
+0,Artifact,Staff
+1,Artifact,Greaves
+2,Spell,Gloom Stricken
+3,Creature,Earth King Goblin
+4,Creature,Spider
+5,Creature,Troll
+6,Spell,Frost
+7,Spell,Sorrow
+8,Spell,Gloom Pandemonium
+9,Creature,Spider
+10,Enchantment,Age
+11,Creature,Warlock
+12,Enchantment,Cataclysmic Flight
+13,Enchantment,Flight
+14,Creature,Dark Rogue Kraken
+15,Creature,Death Lord Dwarf of the Eternal Land
+16,Creature,Paladin
+17,Creature,Light Priest Cyclops
+18,Creature,Fairy
+19,Artifact,Empyrean Forged Shield
+20,Creature,Eagle
+21,Creature,Snow Time Dragon of Hate
+22,Enchantment,Age
+23,Enchantment,Dark Shield
+24,Enchantment,Agony
+25,Artifact,Scepter
+26,Creature,Skin-Walker
+27,Creature,Death Queen Goblin
+28,Spell,Rage
+29,Creature,Earth Time Phoenix of the Shadows
+30,Creature,Paladin
+31,Creature,Earth Priest Kraken
+32,Creature,Snow Merchant Kraken
+33,Spell,Lunar Freeze
+34,Creature,Eagle
+35,Creature,Aura Warrior Goblin
+36,Creature,Skin-Walker
+37,Spell,Rage
+38,Enchantment,Firebreath
+39,Spell,Pandemonium
+40,Spell,Maelstrom
+41,Creature,Frozen Monk Cyclops
+42,Enchantment,Firebreath
+43,Creature,Berserker
+44,Enchantment,Sorrow Alacrity

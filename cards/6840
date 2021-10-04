@@ -1,46 +1,46 @@
-==================,DECK,6840,Light
-0,Enchantment,Common,Strength
-1,Creature,Common,Warlock
-2,Spell,Legendary,Intense Wall
-3,Creature,Common,Orc
-4,Spell,Common,Heal
-5,Spell,Common,Stun
-6,Creature,Common,Wolf
-7,Enchantment,Common,Shade
-8,Creature,Common,Warlock
-9,Creature,Rare,Death Queen Skin-Walker
-10,Creature,Legendary,Aura Merchant Orge of the Mountains
-11,Creature,Common,Elf
-12,Enchantment,Common,Strength
-13,Artifact,Rare,Shimmering Ring
-14,Enchantment,Mythic,Extreme Agony
-15,Creature,Common,Goblin
-16,Enchantment,Common,Shade
-17,Creature,Rare,Dark Thief Fairy
-18,Artifact,Common,Boots
-19,Spell,Common,Hypnosis
-20,Artifact,Common,Belt
-21,Creature,Rare,Earth Rogue Minotaur
-22,Creature,Rare,Light Undead Skin-Walker
-23,Creature,Common,Eagle
-24,Creature,Common,Magi
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Orc
-27,Spell,Common,Hypnosis
-28,Artifact,Common,Greaves
-29,Enchantment,Rare,Nature Shrink
-30,Artifact,Rare,Dark Sigil
-31,Creature,Common,Dwarf
-32,Creature,Common,Magi
-33,Spell,Common,Gale
-34,Spell,Common,Torment
-35,Creature,Rare,Frozen Monk Fairy
-36,Creature,Legendary,Light Monk Orge of the Arctic Blizzards
-37,Artifact,Common,Pendant
-38,Enchantment,Common,Age
-39,Creature,Common,Goblin
-40,Enchantment,Mythic,Instant Agony
-41,Creature,Common,Warlock
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Common,Blight
-44,Enchantment,Rare,Gloom Alacrity
+==================,DECK,6840
+0,Enchantment,Blight
+1,Creature,Berserker
+2,Spell,Urgent Hateful Assault
+3,Creature,Spider
+4,Spell,Stricken
+5,Spell,Wall
+6,Creature,Wolf
+7,Enchantment,Strength
+8,Creature,Berserker
+9,Creature,Death Queen Orc
+10,Creature,Aura Merchant Elf of the Mountains
+11,Creature,Warlock
+12,Enchantment,Firebreath
+13,Artifact,Necro Ring
+14,Enchantment,Dire Miracle Firebreath
+15,Creature,Skin-Walker
+16,Enchantment,Strength
+17,Creature,Dark Thief Kraken
+18,Artifact,Boots
+19,Spell,Revive
+20,Artifact,Belt
+21,Creature,Earth Rogue Cyclops
+22,Creature,Light Undead Orc
+23,Creature,Eagle
+24,Creature,Fairy
+25,Enchantment,Age
+26,Creature,Spider
+27,Spell,Revive
+28,Artifact,Greaves
+29,Enchantment,Necro Deathgrip
+30,Artifact,Gloom Sigil
+31,Creature,Magi
+32,Creature,Fairy
+33,Spell,Burst
+34,Spell,Pandemonium
+35,Creature,Frozen Monk Kraken
+36,Creature,Light Monk Elf of the Arctic Blizzards
+37,Artifact,Pendant
+38,Enchantment,Drain
+39,Creature,Skin-Walker
+40,Enchantment,Irate Corpse Deathgrip
+41,Creature,Berserker
+42,Enchantment,Strength
+43,Enchantment,Haste
+44,Enchantment,Dark Flight

@@ -1,46 +1,46 @@
-==================,DECK,4774,Medium
-0,Creature,Mythic,Light Grand Demon of the Sky
-1,Spell,Common,Reanimate
-2,Spell,Rare,Gloom Lightning
-3,Creature,Common,Ghoul
-4,Creature,Mythic,Snow Ancient Demon of Hate
-5,Spell,Rare,Apocalypse Burn
-6,Creature,Common,Ghoul
-7,Spell,Common,Hypnosis
-8,Creature,Common,Elf
-9,Creature,Common,Spider
-10,Enchantment,Common,Age
-11,Spell,Common,Lightning
-12,Spell,Common,Burn
-13,Spell,Rare,Nature Fury
-14,Creature,Common,Ghoul
-15,Enchantment,Legendary,Clever Blight
-16,Creature,Common,Wolf
-17,Enchantment,Common,Shrink
-18,Spell,Rare,Nature Reanimate
-19,Creature,Mythic,Earth Chaos Wizard of the Shadows
-20,Creature,Common,Wolf
-21,Spell,Common,Gravitation
-22,Creature,Common,Magi
-23,Artifact,Legendary,Clever Ring
-24,Creature,Common,Orc
-25,Enchantment,Common,Drain
-26,Creature,Common,Spider
-27,Spell,Common,Lightning
-28,Creature,Common,Eagle
-29,Enchantment,Common,Age
-30,Spell,Rare,Shimmering Pandemonium
-31,Creature,Common,Paladin
-32,Enchantment,Rare,Necro Flight
-33,Creature,Common,Orc
-34,Enchantment,Mythic,Angry Age
-35,Creature,Common,Ghoul
-36,Creature,Rare,Light Lord Hydra
-37,Artifact,Common,Amulet
-38,Enchantment,Common,Invert
-39,Enchantment,Mythic,Potent Agony
-40,Artifact,Common,Bracers
-41,Artifact,Legendary,Intense Scepter
-42,Creature,Rare,Snow Warrior Berserker
-43,Creature,Common,Spider
-44,Enchantment,Rare,Oblivion Shield
+==================,DECK,4774
+0,Creature,Light Grand Demon of the Sky
+1,Spell,Burst
+2,Spell,Dark Stricken
+3,Creature,Ghoul
+4,Creature,Snow Ancient Demon of Hate
+5,Spell,Oblivion Sorrow
+6,Creature,Ghoul
+7,Spell,Revive
+8,Creature,Warlock
+9,Creature,Paladin
+10,Enchantment,Lethargy
+11,Spell,Fury
+12,Spell,Gale
+13,Spell,Nature Fire
+14,Creature,Ghoul
+15,Enchantment,Clever Nimble Haste
+16,Creature,Wolf
+17,Enchantment,Drain
+18,Spell,Necro Assault
+19,Creature,Earth Chaos Wizard of the Shadows
+20,Creature,Wolf
+21,Spell,Burst
+22,Creature,Fairy
+23,Artifact,Instant Grim Ring
+24,Creature,Spider
+25,Enchantment,Firebreath
+26,Creature,Paladin
+27,Spell,Ice
+28,Creature,Eagle
+29,Enchantment,Drain
+30,Spell,Nature Invisibility
+31,Creature,Troll
+32,Enchantment,Hateful Strength
+33,Creature,Spider
+34,Enchantment,Empyrean Gloom Firebreath
+35,Creature,Ghoul
+36,Creature,Light Lord Hydra
+37,Artifact,Amulet
+38,Enchantment,Flight
+39,Enchantment,Ardent Life Haste
+40,Artifact,Bracers
+41,Artifact,Instant Hateful Scepter
+42,Creature,Snow Warrior Goblin
+43,Creature,Paladin
+44,Enchantment,Victory Invert

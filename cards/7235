@@ -1,46 +1,46 @@
-==================,DECK,7235,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Wolf
-2,Creature,Rare,Dark Warrior Griffin
-3,Artifact,Common,Gauntlet
-4,Creature,Rare,Light Rogue Skin-Walker
-5,Creature,Common,Dwarf
-6,Creature,Common,Spider
-7,Enchantment,Common,Shade
-8,Spell,Common,Freeze
-9,Enchantment,Rare,Oblivion Strength
-10,Spell,Common,Assault
-11,Creature,Legendary,Aura Priest Orge of the West
-12,Creature,Legendary,Death King Oni of the Black Stone
-13,Creature,Common,Orc
-14,Enchantment,Common,Drain
-15,Creature,Legendary,Earth Queen Oni of the Swamp
-16,Enchantment,Common,Drain
-17,Spell,Common,Sorrow
-18,Creature,Common,Wolf
-19,Creature,Rare,Dark Knight Fairy
-20,Spell,Common,Vortex
-21,Enchantment,Common,Shield
-22,Creature,Common,Warlock
-23,Creature,Rare,Frozen Undead Hydra
-24,Creature,Common,Magi
-25,Creature,Rare,Light Priest Minotaur
-26,Creature,Rare,Aura King Minotaur
-27,Creature,Rare,Light Priest Hydra
-28,Spell,Common,Hypnosis
-29,Artifact,Rare,Lunar Ring
-30,Creature,Common,Spider
-31,Creature,Rare,Snow Merchant Minotaur
-32,Creature,Common,Goblin
-33,Creature,Common,Paladin
-34,Creature,Common,Elf
-35,Creature,Rare,Aura King Hydra
-36,Creature,Rare,Aura Merchant Griffin
-37,Creature,Common,Ghoul
-38,Creature,Mythic,Frozen Undead Dragon of the Void
-39,Creature,Common,Wolf
-40,Enchantment,Legendary,Instant Strength
-41,Creature,Rare,Death King Minotaur
-42,Enchantment,Common,Deathgrip
-43,Spell,Legendary,Extreme Rage
-44,Creature,Common,Wolf
+==================,DECK,7235
+0,Creature,Eagle
+1,Creature,Wolf
+2,Creature,Dark Warrior Griffin
+3,Artifact,Gauntlet
+4,Creature,Light Rogue Orc
+5,Creature,Magi
+6,Creature,Paladin
+7,Enchantment,Alacrity
+8,Spell,Tempest
+9,Enchantment,Nimble Haste
+10,Spell,Revive
+11,Creature,Aura Priest Elf of the West
+12,Creature,Death King Oni of the Black Stone
+13,Creature,Spider
+14,Enchantment,Haste
+15,Creature,Earth Queen Oni of the Swamp
+16,Enchantment,Drain
+17,Spell,Stun
+18,Creature,Wolf
+19,Creature,Dark Knight Kraken
+20,Spell,Reanimate
+21,Enchantment,Shade
+22,Creature,Berserker
+23,Creature,Frozen Undead Hydra
+24,Creature,Fairy
+25,Creature,Light Priest Cyclops
+26,Creature,Aura King Cyclops
+27,Creature,Light Priest Hydra
+28,Spell,Reanimate
+29,Artifact,Cataclysmic Ring
+30,Creature,Paladin
+31,Creature,Snow Merchant Cyclops
+32,Creature,Skin-Walker
+33,Creature,Troll
+34,Creature,Warlock
+35,Creature,Aura King Hydra
+36,Creature,Aura Merchant Griffin
+37,Creature,Ghoul
+38,Creature,Frozen Undead Dragon of the Void
+39,Creature,Wolf
+40,Enchantment,Ardent Solar Lethargy
+41,Creature,Death King Cyclops
+42,Enchantment,Firebreath
+43,Spell,Dire Lunar Lightning
+44,Creature,Wolf

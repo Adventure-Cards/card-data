@@ -1,46 +1,46 @@
-==================,DECK,4417,Light
-0,Enchantment,Common,Strength
-1,Creature,Common,Paladin
-2,Spell,Common,Fury
-3,Creature,Common,Paladin
-4,Enchantment,Common,Shrink
-5,Creature,Common,Warlock
-6,Spell,Common,Fury
-7,Spell,Common,Wall
-8,Creature,Rare,Frozen Queen Hydra
-9,Creature,Rare,Earth Warrior Griffin
-10,Creature,Common,Orc
-11,Enchantment,Common,Drain
-12,Creature,Rare,Earth Knight Minotaur
-13,Enchantment,Mythic,Instant Haste
-14,Creature,Legendary,Dark King Oni of the Eternal Land
-15,Creature,Common,Paladin
-16,Creature,Common,Paladin
-17,Spell,Common,Sorrow
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Eagle
-20,Spell,Rare,Hateful Stun
-21,Artifact,Rare,Lunar Crown
-22,Creature,Common,Spider
-23,Enchantment,Common,Flight
-24,Creature,Common,Magi
-25,Enchantment,Common,Shield
-26,Enchantment,Common,Alacrity
-27,Enchantment,Common,Blight
-28,Creature,Rare,Light Rogue Berserker
-29,Creature,Rare,Snow Monk Fairy
-30,Spell,Common,Hypnosis
-31,Creature,Common,Elf
-32,Creature,Common,Eagle
-33,Enchantment,Legendary,Instant Haste
-34,Spell,Rare,Nimble Gravitation
-35,Spell,Rare,Lunar Stricken
-36,Creature,Rare,Snow Lord Minotaur
-37,Creature,Legendary,Snow Queen Giant of the Arctic Blizzards
-38,Creature,Common,Spider
-39,Spell,Common,Torment
-40,Creature,Common,Warlock
-41,Enchantment,Common,Shrink
-42,Creature,Rare,Aura Warrior Hydra
-43,Artifact,Common,Pendant
-44,Spell,Common,Assault
+==================,DECK,4417
+0,Enchantment,Alacrity
+1,Creature,Troll
+2,Spell,Fury
+3,Creature,Troll
+4,Enchantment,Haste
+5,Creature,Berserker
+6,Spell,Pandemonium
+7,Spell,Wall
+8,Creature,Frozen Queen Hydra
+9,Creature,Earth Warrior Griffin
+10,Creature,Spider
+11,Enchantment,Deathgrip
+12,Creature,Earth Knight Cyclops
+13,Enchantment,Empyrean Corpse Age
+14,Creature,Dark King Oni of the Eternal Land
+15,Creature,Troll
+16,Creature,Troll
+17,Spell,Maelstrom
+18,Enchantment,Deathgrip
+19,Creature,Eagle
+20,Spell,Gloom Freeze
+21,Artifact,Dark Crown
+22,Creature,Paladin
+23,Enchantment,Shrink
+24,Creature,Fairy
+25,Enchantment,Strength
+26,Enchantment,Shield
+27,Enchantment,Invert
+28,Creature,Light Rogue Goblin
+29,Creature,Snow Monk Kraken
+30,Spell,Gale
+31,Creature,Warlock
+32,Creature,Eagle
+33,Enchantment,Mighty Corpse Agony
+34,Spell,Nature Sorrow
+35,Spell,Dark Ice
+36,Creature,Snow Lord Cyclops
+37,Creature,Snow Queen Dwarf of the Arctic Blizzards
+38,Creature,Paladin
+39,Spell,Invisibility
+40,Creature,Berserker
+41,Enchantment,Deathgrip
+42,Creature,Aura Warrior Hydra
+43,Artifact,Pendant
+44,Spell,Gravitation

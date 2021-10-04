@@ -1,46 +1,46 @@
-==================,DECK,4231,Light
-0,Creature,Common,Warlock
-1,Spell,Legendary,Mighty Gravitation
-2,Creature,Rare,Death King Hydra
-3,Creature,Common,Wolf
-4,Artifact,Common,Boots
-5,Creature,Common,Magi
-6,Enchantment,Common,Deathgrip
-7,Creature,Rare,Dark King Minotaur
-8,Creature,Common,Orc
-9,Enchantment,Common,Flight
-10,Spell,Common,Gale
-11,Enchantment,Rare,Frigid Lethargy
-12,Creature,Common,Dwarf
-13,Artifact,Common,Staff
-14,Creature,Common,Spider
-15,Creature,Legendary,Earth Undead Giant of the West
-16,Creature,Rare,Snow Assassin Griffin
-17,Creature,Common,Orc
-18,Creature,Legendary,Snow Assassin Oni of the Black Stone
-19,Spell,Common,Lightning
-20,Spell,Common,Stricken
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Paladin
-23,Creature,Rare,Snow Thief Griffin
-24,Spell,Common,Infuriate
-25,Artifact,Rare,Life Cloak
-26,Creature,Common,Dwarf
-27,Creature,Common,Dwarf
-28,Artifact,Common,Divine Robe
-29,Creature,Common,Warlock
-30,Spell,Rare,Solar Wall
-31,Creature,Common,Ghoul
-32,Artifact,Rare,Oblivion Sigil
-33,Creature,Rare,Death Undead Fairy
-34,Creature,Common,Ghoul
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Drain
-37,Enchantment,Common,Shrink
-38,Creature,Rare,Snow Knight Griffin
-39,Creature,Legendary,Earth Warrior Orge of the Border
-40,Creature,Rare,Death Queen Fairy
-41,Creature,Rare,Death King Minotaur
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Dark Knight Griffin
-44,Creature,Common,Eagle
+==================,DECK,4231
+0,Creature,Berserker
+1,Spell,Urgent Dark Burst
+2,Creature,Death King Hydra
+3,Creature,Wolf
+4,Artifact,Boots
+5,Creature,Fairy
+6,Enchantment,Firebreath
+7,Creature,Dark King Cyclops
+8,Creature,Spider
+9,Enchantment,Shield
+10,Spell,Torment
+11,Enchantment,Grim Blight
+12,Creature,Magi
+13,Artifact,Staff
+14,Creature,Paladin
+15,Creature,Earth Undead Dwarf of the West
+16,Creature,Snow Assassin Griffin
+17,Creature,Spider
+18,Creature,Snow Assassin Oni of the Black Stone
+19,Spell,Tempest
+20,Spell,Fire
+21,Enchantment,Shrink
+22,Creature,Troll
+23,Creature,Snow Thief Griffin
+24,Spell,Hypnosis
+25,Artifact,Victory Cloak
+26,Creature,Magi
+27,Creature,Magi
+28,Artifact,Divine Robe
+29,Creature,Berserker
+30,Spell,Necro Fury
+31,Creature,Ghoul
+32,Artifact,Nimble Sigil
+33,Creature,Death Undead Kraken
+34,Creature,Ghoul
+35,Creature,Ghoul
+36,Enchantment,Firebreath
+37,Enchantment,Deathgrip
+38,Creature,Snow Knight Griffin
+39,Creature,Earth Warrior Elf of the Border
+40,Creature,Death Queen Kraken
+41,Creature,Death King Cyclops
+42,Enchantment,Shade
+43,Creature,Dark Knight Griffin
+44,Creature,Eagle

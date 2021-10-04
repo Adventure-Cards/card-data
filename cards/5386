@@ -1,46 +1,46 @@
-==================,DECK,5386,Medium
-0,Spell,Common,Torment
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Frozen Queen Minotaur
-3,Creature,Mythic,Snow Time Dragon of Hate
-4,Creature,Common,Wolf
-5,Enchantment,Common,Strength
-6,Creature,Common,Ghoul
-7,Creature,Common,Goblin
-8,Creature,Rare,Dark Rogue Griffin
-9,Creature,Common,Paladin
-10,Enchantment,Common,Haste
-11,Spell,Common,Assault
-12,Enchantment,Legendary,Angry Age
-13,Creature,Rare,Frozen Warrior Hydra
-14,Spell,Rare,Oblivion Assault
-15,Spell,Common,Burn
-16,Creature,Common,Ghoul
-17,Creature,Common,Elf
-18,Spell,Mythic,Clever Stun
-19,Creature,Common,Elf
-20,Spell,Common,Maelstrom
-21,Creature,Common,Paladin
-22,Enchantment,Common,Shade
-23,Creature,Common,Ghoul
-24,Artifact,Rare,Nimble Crown
-25,Enchantment,Common,Flight
-26,Spell,Common,Stricken
-27,Spell,Mythic,Intense Gravitation
-28,Creature,Common,Wolf
-29,Creature,Common,Elf
-30,Artifact,Rare,Apocalypse Belt
-31,Creature,Common,Spider
-32,Creature,Common,Orc
-33,Spell,Common,Stricken
-34,Enchantment,Common,Flight
-35,Creature,Common,Warlock
-36,Creature,Common,Magi
-37,Enchantment,Common,Shade
-38,Spell,Rare,Forged Rage
-39,Artifact,Common,Tome
-40,Spell,Common,Hypnosis
-41,Spell,Common,Frost
-42,Enchantment,Rare,Nimble Strength
-43,Creature,Rare,Death Knight Berserker
-44,Creature,Rare,Snow Assassin Minotaur
+==================,DECK,5386
+0,Spell,Fury
+1,Enchantment,Haste
+2,Creature,Frozen Queen Cyclops
+3,Creature,Snow Time Dragon of Hate
+4,Creature,Wolf
+5,Enchantment,Haste
+6,Creature,Ghoul
+7,Creature,Skin-Walker
+8,Creature,Dark Rogue Griffin
+9,Creature,Troll
+10,Enchantment,Age
+11,Spell,Fury
+12,Enchantment,Potent Gloom Shrink
+13,Creature,Frozen Warrior Hydra
+14,Spell,Oblivion Lightning
+15,Spell,Stun
+16,Creature,Ghoul
+17,Creature,Warlock
+18,Spell,Empyrean Victory Ice
+19,Creature,Warlock
+20,Spell,Hypnosis
+21,Creature,Troll
+22,Enchantment,Strength
+23,Creature,Ghoul
+24,Artifact,Corpse Crown
+25,Enchantment,Age
+26,Spell,Assault
+27,Spell,Dire Hateful Sorrow
+28,Creature,Wolf
+29,Creature,Warlock
+30,Artifact,Oblivion Belt
+31,Creature,Paladin
+32,Creature,Spider
+33,Spell,Lightning
+34,Enchantment,Deathgrip
+35,Creature,Berserker
+36,Creature,Fairy
+37,Enchantment,Flight
+38,Spell,Lunar Wall
+39,Artifact,Tome
+40,Spell,Gravitation
+41,Spell,Hypnosis
+42,Enchantment,Solar Lethargy
+43,Creature,Death Knight Goblin
+44,Creature,Snow Assassin Cyclops

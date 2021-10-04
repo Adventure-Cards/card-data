@@ -1,46 +1,46 @@
-==================,DECK,5463,Light
-0,Creature,Rare,Dark Lord Hydra
-1,Creature,Common,Goblin
-2,Enchantment,Common,Blight
-3,Creature,Rare,Light King Hydra
-4,Creature,Common,Wolf
-5,Creature,Common,Elf
-6,Creature,Common,Ghoul
-7,Artifact,Common,Potion
-8,Spell,Common,Gale
-9,Creature,Common,Magi
-10,Artifact,Legendary,Angry Amulet
-11,Spell,Common,Pandemonium
-12,Creature,Common,Magi
-13,Creature,Common,Magi
-14,Creature,Rare,Aura Priest Berserker
-15,Artifact,Rare,Cataclysmic Tome
-16,Spell,Rare,Grim Torment
-17,Spell,Common,Rage
-18,Artifact,Legendary,Potent Boots
-19,Enchantment,Common,Shade
-20,Spell,Common,Rage
-21,Creature,Rare,Earth Undead Berserker
-22,Creature,Common,Paladin
-23,Spell,Rare,Grim Assault
-24,Creature,Common,Ghoul
-25,Creature,Mythic,Death Undead Dragon of the Dead
-26,Creature,Rare,Frozen King Berserker
-27,Creature,Rare,Dark Monk Griffin
-28,Creature,Mythic,Aura Chaos Demon of the Light
-29,Creature,Rare,Earth Queen Hydra
-30,Creature,Common,Orc
-31,Artifact,Rare,Miracle Scepter
-32,Spell,Common,Lightning
-33,Creature,Common,Dwarf
-34,Spell,Legendary,Extreme Gravitation
-35,Creature,Rare,Aura Thief Berserker
-36,Spell,Legendary,Potent Hypnosis
-37,Creature,Common,Paladin
-38,Creature,Common,Dwarf
-39,Enchantment,Rare,Apocalypse Drain
-40,Enchantment,Rare,Dark Shade
-41,Artifact,Common,Staff
-42,Creature,Mythic,Frozen Chaos Demon of the Void
-43,Creature,Common,Paladin
-44,Spell,Common,Vortex
+==================,DECK,5463
+0,Creature,Dark Lord Hydra
+1,Creature,Skin-Walker
+2,Enchantment,Haste
+3,Creature,Light King Hydra
+4,Creature,Wolf
+5,Creature,Warlock
+6,Creature,Ghoul
+7,Artifact,Potion
+8,Spell,Rage
+9,Creature,Fairy
+10,Artifact,Mighty Chimeric Amulet
+11,Spell,Reanimate
+12,Creature,Fairy
+13,Creature,Fairy
+14,Creature,Aura Priest Goblin
+15,Artifact,Lunar Tome
+16,Spell,Victory Burn
+17,Spell,Frenzy
+18,Artifact,Ardent Life Boots
+19,Enchantment,Deathgrip
+20,Spell,Revive
+21,Creature,Earth Undead Goblin
+22,Creature,Troll
+23,Spell,Victory Hypnosis
+24,Creature,Ghoul
+25,Creature,Death Undead Dragon of the Dead
+26,Creature,Frozen King Goblin
+27,Creature,Dark Monk Griffin
+28,Creature,Aura Chaos Demon of the Light
+29,Creature,Earth Queen Hydra
+30,Creature,Spider
+31,Artifact,Oblivion Scepter
+32,Spell,Maelstrom
+33,Creature,Magi
+34,Spell,Ardent Gloom Tempest
+35,Creature,Aura Thief Goblin
+36,Spell,Potent Nimble Maelstrom
+37,Creature,Troll
+38,Creature,Magi
+39,Enchantment,Apocalypse Blight
+40,Enchantment,Chimeric Shield
+41,Artifact,Staff
+42,Creature,Frozen Chaos Demon of the Void
+43,Creature,Troll
+44,Spell,Burn

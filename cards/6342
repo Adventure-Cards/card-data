@@ -1,46 +1,46 @@
-==================,DECK,6342,Medium
-0,Creature,Rare,Earth Warrior Berserker
-1,Creature,Common,Paladin
-2,Enchantment,Common,Alacrity
-3,Creature,Legendary,Snow Lord Cyclops of the Border
-4,Creature,Common,Warlock
-5,Creature,Common,Magi
-6,Spell,Legendary,Instant Lightning
-7,Creature,Rare,Frozen Rogue Griffin
-8,Spell,Rare,Lunar Stun
-9,Creature,Common,Paladin
-10,Spell,Rare,Life Fury
-11,Creature,Common,Goblin
-12,Artifact,Rare,Hateful Amulet
-13,Creature,Rare,Light Knight Berserker
-14,Creature,Legendary,Death Knight Cyclops of the Arctic Blizzards
-15,Spell,Common,Vortex
-16,Spell,Common,Lightning
-17,Creature,Common,Eagle
-18,Creature,Rare,Earth Merchant Skin-Walker
-19,Enchantment,Mythic,Intense Lethargy
-20,Artifact,Rare,Hateful Staff
-21,Spell,Common,Gravitation
-22,Enchantment,Rare,Shimmering Age
-23,Creature,Common,Dwarf
-24,Spell,Legendary,Intense Vortex
-25,Enchantment,Mythic,Extreme Strength
-26,Creature,Legendary,Earth Merchant Kraken of the Border
-27,Artifact,Common,Ghost Wand
-28,Enchantment,Rare,Apocalypse Haste
-29,Creature,Common,Elf
-30,Artifact,Common,Gauntlet
-31,Spell,Common,Gravitation
-32,Enchantment,Common,Agony
-33,Creature,Common,Ghoul
-34,Creature,Common,Magi
-35,Artifact,Common,Potion
-36,Creature,Common,Ghoul
-37,Spell,Rare,Shimmering Maelstrom
-38,Creature,Common,Dwarf
-39,Creature,Common,Warlock
-40,Creature,Mythic,Frozen Grand Wizard of the Void
-41,Creature,Rare,Frozen Thief Hydra
-42,Creature,Legendary,Death Warrior Cyclops of the Black Stone
-43,Creature,Rare,Aura Queen Skin-Walker
-44,Enchantment,Common,Age
+==================,DECK,6342
+0,Creature,Earth Warrior Goblin
+1,Creature,Troll
+2,Enchantment,Shade
+3,Creature,Snow Lord Giant of the Border
+4,Creature,Berserker
+5,Creature,Fairy
+6,Spell,Instant Corpse Sorrow
+7,Creature,Frozen Rogue Griffin
+8,Spell,Dark Ice
+9,Creature,Troll
+10,Spell,Nimble Maelstrom
+11,Creature,Skin-Walker
+12,Artifact,Chimeric Amulet
+13,Creature,Light Knight Goblin
+14,Creature,Death Knight Giant of the Arctic Blizzards
+15,Spell,Heal
+16,Spell,Frenzy
+17,Creature,Eagle
+18,Creature,Earth Merchant Orc
+19,Enchantment,Urgent Hateful Agony
+20,Artifact,Chimeric Staff
+21,Spell,Invisibility
+22,Enchantment,Nature Deathgrip
+23,Creature,Magi
+24,Spell,Dire Corpse Pandemonium
+25,Enchantment,Urgent Cataclysmic Flight
+26,Creature,Earth Merchant Ogre of the Border
+27,Artifact,Ghost Wand
+28,Enchantment,Life Drain
+29,Creature,Warlock
+30,Artifact,Gauntlet
+31,Spell,Ice
+32,Enchantment,Flight
+33,Creature,Ghoul
+34,Creature,Fairy
+35,Artifact,Potion
+36,Creature,Ghoul
+37,Spell,Forged Invisibility
+38,Creature,Magi
+39,Creature,Berserker
+40,Creature,Frozen Grand Wizard of the Void
+41,Creature,Frozen Thief Hydra
+42,Creature,Death Warrior Giant of the Black Stone
+43,Creature,Aura Queen Orc
+44,Enchantment,Drain

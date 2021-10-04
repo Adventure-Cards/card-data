@@ -1,46 +1,46 @@
-==================,DECK,7100,Light
-0,Spell,Common,Assault
-1,Creature,Rare,Earth Assassin Fairy
-2,Spell,Common,Infuriate
-3,Creature,Rare,Snow Priest Griffin
-4,Spell,Common,Frost
-5,Spell,Common,Invisibility
-6,Creature,Rare,Snow Warrior Minotaur
-7,Artifact,Common,Belt
-8,Creature,Rare,Aura Knight Griffin
-9,Enchantment,Common,Shrink
-10,Artifact,Common,Potion
-11,Creature,Legendary,Death King Cyclops of the Haven
-12,Creature,Rare,Light Knight Minotaur
-13,Spell,Common,Assault
-14,Creature,Common,Warlock
-15,Spell,Common,Sorrow
-16,Artifact,Rare,Shimmering Tome
-17,Creature,Common,Magi
-18,Creature,Common,Dwarf
-19,Creature,Common,Magi
-20,Spell,Common,Gravitation
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Eagle
-23,Spell,Common,Freeze
-24,Creature,Common,Wolf
-25,Creature,Common,Paladin
-26,Creature,Rare,Light Merchant Fairy
-27,Creature,Common,Ghoul
-28,Creature,Common,Wolf
-29,Enchantment,Rare,Oblivion Invert
-30,Creature,Common,Wolf
-31,Creature,Common,Paladin
-32,Creature,Common,Paladin
-33,Enchantment,Rare,Necro Shrink
-34,Creature,Common,Goblin
-35,Creature,Common,Goblin
-36,Spell,Rare,Miracle Hypnosis
-37,Creature,Common,Paladin
-38,Creature,Rare,Aura Thief Hydra
-39,Spell,Common,Assault
-40,Spell,Legendary,Instant Revive
-41,Spell,Common,Fury
-42,Creature,Rare,Snow Monk Minotaur
-43,Creature,Common,Dwarf
-44,Spell,Common,Sorrow
+==================,DECK,7100
+0,Spell,Frost
+1,Creature,Earth Assassin Kraken
+2,Spell,Sorrow
+3,Creature,Snow Priest Griffin
+4,Spell,Burst
+5,Spell,Gale
+6,Creature,Snow Warrior Cyclops
+7,Artifact,Belt
+8,Creature,Aura Knight Griffin
+9,Enchantment,Shield
+10,Artifact,Potion
+11,Creature,Death King Giant of the Haven
+12,Creature,Light Knight Cyclops
+13,Spell,Freeze
+14,Creature,Berserker
+15,Spell,Stricken
+16,Artifact,Necro Tome
+17,Creature,Fairy
+18,Creature,Magi
+19,Creature,Fairy
+20,Spell,Rage
+21,Enchantment,Shade
+22,Creature,Eagle
+23,Spell,Wall
+24,Creature,Wolf
+25,Creature,Troll
+26,Creature,Light Merchant Kraken
+27,Creature,Ghoul
+28,Creature,Wolf
+29,Enchantment,Oblivion Blight
+30,Creature,Wolf
+31,Creature,Troll
+32,Creature,Troll
+33,Enchantment,Necro Age
+34,Creature,Skin-Walker
+35,Creature,Skin-Walker
+36,Spell,Frigid Torment
+37,Creature,Troll
+38,Creature,Aura Thief Hydra
+39,Spell,Wall
+40,Spell,Instant Shimmering Lightning
+41,Spell,Revive
+42,Creature,Snow Monk Cyclops
+43,Creature,Magi
+44,Spell,Pandemonium

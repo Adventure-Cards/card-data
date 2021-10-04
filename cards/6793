@@ -1,46 +1,46 @@
-==================,DECK,6793,Medium
-0,Creature,Rare,Aura Undead Griffin
-1,Spell,Common,Vortex
-2,Creature,Rare,Frozen Fighter Hydra
-3,Enchantment,Common,Drain
-4,Artifact,Common,Staff
-5,Creature,Common,Warlock
-6,Spell,Rare,Dark Heal
-7,Creature,Common,Orc
-8,Creature,Common,Dwarf
-9,Creature,Common,Elf
-10,Artifact,Rare,Apocalypse Gloves
-11,Creature,Common,Paladin
-12,Enchantment,Common,Haste
-13,Creature,Common,Dwarf
-14,Spell,Common,Frost
-15,Artifact,Common,Sword
-16,Spell,Common,Torment
-17,Creature,Mythic,Dark Time Dragon of Illusion
-18,Creature,Common,Paladin
-19,Creature,Rare,Light Knight Griffin
-20,Enchantment,Common,Agony
-21,Creature,Common,Wolf
-22,Spell,Rare,Hateful Pandemonium
-23,Enchantment,Legendary,Instant Deathgrip
-24,Artifact,Common,Boots
-25,Creature,Common,Eagle
-26,Artifact,Rare,Hateful Potion
-27,Creature,Common,Magi
-28,Enchantment,Rare,Nature Drain
-29,Artifact,Rare,Corpse Helmet
-30,Creature,Common,Spider
-31,Creature,Common,Magi
-32,Creature,Legendary,Light Fighter Cyclops of the Haven
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Creature,Rare,Aura Undead Skin-Walker
-36,Spell,Common,Freeze
-37,Enchantment,Rare,Corpse Agony
-38,Creature,Rare,Light Merchant Hydra
-39,Artifact,Common,Ring
-40,Spell,Common,Frost
-41,Enchantment,Common,Lethargy
-42,Enchantment,Common,Blight
-43,Spell,Rare,Necro Stun
-44,Creature,Common,Warlock
+==================,DECK,6793
+0,Creature,Aura Undead Griffin
+1,Spell,Frost
+2,Creature,Frozen Fighter Hydra
+3,Enchantment,Haste
+4,Artifact,Staff
+5,Creature,Berserker
+6,Spell,Miracle Torment
+7,Creature,Spider
+8,Creature,Magi
+9,Creature,Warlock
+10,Artifact,Apocalypse Gloves
+11,Creature,Troll
+12,Enchantment,Lethargy
+13,Creature,Magi
+14,Spell,Gravitation
+15,Artifact,Sword
+16,Spell,Sorrow
+17,Creature,Dark Time Dragon of Illusion
+18,Creature,Troll
+19,Creature,Light Knight Griffin
+20,Enchantment,Age
+21,Creature,Wolf
+22,Spell,Lunar Stricken
+23,Enchantment,Mighty Shimmering Agony
+24,Artifact,Boots
+25,Creature,Eagle
+26,Artifact,Sorrow Potion
+27,Creature,Fairy
+28,Enchantment,Forged Age
+29,Artifact,Hateful Helmet
+30,Creature,Paladin
+31,Creature,Fairy
+32,Creature,Light Fighter Giant of the Haven
+33,Creature,Warlock
+34,Creature,Magi
+35,Creature,Aura Undead Orc
+36,Spell,Tempest
+37,Enchantment,Corpse Strength
+38,Creature,Light Merchant Hydra
+39,Artifact,Ring
+40,Spell,Torment
+41,Enchantment,Agony
+42,Enchantment,Shrink
+43,Spell,Forged Tempest
+44,Creature,Berserker

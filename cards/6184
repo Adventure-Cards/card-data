@@ -1,46 +1,46 @@
-==================,DECK,6184,Light
-0,Creature,Common,Spider
-1,Enchantment,Common,Shield
-2,Enchantment,Common,Invert
-3,Spell,Rare,Shimmering Fury
-4,Creature,Common,Wolf
-5,Creature,Common,Eagle
-6,Spell,Common,Rage
-7,Creature,Common,Orc
-8,Spell,Common,Frost
-9,Creature,Common,Warlock
-10,Creature,Common,Paladin
-11,Spell,Rare,Gloom Revive
-12,Creature,Common,Eagle
-13,Creature,Legendary,Aura Knight Kraken of the Bright Mountains
-14,Creature,Common,Elf
-15,Creature,Common,Orc
-16,Artifact,Common,Potion
-17,Enchantment,Common,Strength
-18,Enchantment,Common,Invert
-19,Enchantment,Common,Age
-20,Artifact,Legendary,Instant Scepter
-21,Spell,Common,Hypnosis
-22,Artifact,Common,Ring
-23,Creature,Legendary,Aura Queen Giant of the Black Stone
-24,Creature,Rare,Dark Lord Skin-Walker
-25,Creature,Common,Spider
-26,Creature,Common,Spider
-27,Artifact,Common,Gauntlet
-28,Creature,Common,Goblin
-29,Spell,Rare,Miracle Maelstrom
-30,Spell,Common,Freeze
-31,Creature,Common,Warlock
-32,Creature,Common,Ghoul
-33,Spell,Rare,Lunar Burn
-34,Creature,Common,Goblin
-35,Artifact,Common,Crown
-36,Creature,Common,Elf
-37,Enchantment,Mythic,Dire Shrink
-38,Creature,Common,Orc
-39,Creature,Common,Warlock
-40,Creature,Common,Wolf
-41,Creature,Common,Magi
-42,Spell,Rare,Oblivion Lightning
-43,Spell,Legendary,Intense Stun
-44,Creature,Common,Warlock
+==================,DECK,6184
+0,Creature,Paladin
+1,Enchantment,Haste
+2,Enchantment,Shade
+3,Spell,Solar Burst
+4,Creature,Wolf
+5,Creature,Eagle
+6,Spell,Pandemonium
+7,Creature,Spider
+8,Spell,Burst
+9,Creature,Berserker
+10,Creature,Troll
+11,Spell,Lunar Invisibility
+12,Creature,Eagle
+13,Creature,Aura Knight Ogre of the Bright Mountains
+14,Creature,Warlock
+15,Creature,Spider
+16,Artifact,Potion
+17,Enchantment,Alacrity
+18,Enchantment,Shrink
+19,Enchantment,Invert
+20,Artifact,Instant Corpse Scepter
+21,Spell,Fury
+22,Artifact,Ring
+23,Creature,Aura Queen Dwarf of the Black Stone
+24,Creature,Dark Lord Orc
+25,Creature,Paladin
+26,Creature,Paladin
+27,Artifact,Gauntlet
+28,Creature,Skin-Walker
+29,Spell,Apocalypse Heal
+30,Spell,Reanimate
+31,Creature,Berserker
+32,Creature,Ghoul
+33,Spell,Dark Rage
+34,Creature,Skin-Walker
+35,Artifact,Crown
+36,Creature,Warlock
+37,Enchantment,Zealous Frigid Blight
+38,Creature,Spider
+39,Creature,Berserker
+40,Creature,Wolf
+41,Creature,Fairy
+42,Spell,Nimble Wall
+43,Spell,Clever Necro Rage
+44,Creature,Berserker

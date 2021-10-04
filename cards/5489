@@ -1,46 +1,46 @@
-==================,DECK,5489,Light
-0,Enchantment,Common,Agony
-1,Spell,Rare,Cataclysmic Stricken
-2,Creature,Legendary,Earth Merchant Cyclops of the Eastern Skies
-3,Creature,Rare,Dark Priest Skin-Walker
-4,Artifact,Rare,Lunar Helm
-5,Enchantment,Common,Invert
-6,Spell,Legendary,Mighty Reanimate
-7,Enchantment,Common,Age
-8,Creature,Common,Paladin
-9,Artifact,Common,Scepter
-10,Creature,Common,Warlock
-11,Enchantment,Rare,Lunar Age
-12,Creature,Legendary,Earth Thief Kraken of the Eternal Land
-13,Enchantment,Common,Invert
-14,Creature,Common,Eagle
-15,Spell,Common,Stricken
-16,Artifact,Legendary,Intense Sword
-17,Spell,Common,Hypnosis
-18,Creature,Common,Wolf
-19,Creature,Common,Eagle
-20,Creature,Rare,Dark Queen Hydra
-21,Enchantment,Rare,Cataclysmic Age
-22,Enchantment,Common,Blight
-23,Spell,Common,Stun
-24,Creature,Legendary,Earth Fighter Kraken of the Plains
-25,Creature,Common,Dwarf
-26,Creature,Common,Ghoul
-27,Creature,Common,Magi
-28,Creature,Common,Warlock
-29,Creature,Common,Magi
-30,Creature,Common,Warlock
-31,Spell,Common,Reanimate
-32,Enchantment,Common,Drain
-33,Artifact,Common,Helmet
-34,Artifact,Common,Gloves
-35,Spell,Common,Pandemonium
-36,Enchantment,Common,Flight
-37,Spell,Rare,Corpse Frenzy
-38,Creature,Rare,Light Rogue Berserker
-39,Spell,Common,Sorrow
-40,Spell,Rare,Solar Revive
-41,Enchantment,Common,Strength
-42,Creature,Mythic,Aura Chaos Wizard of the Light
-43,Creature,Common,Goblin
-44,Creature,Common,Eagle
+==================,DECK,5489
+0,Enchantment,Lethargy
+1,Spell,Lunar Maelstrom
+2,Creature,Earth Merchant Giant of the Eastern Skies
+3,Creature,Dark Priest Orc
+4,Artifact,Dark Helm
+5,Enchantment,Haste
+6,Spell,Zealous Cataclysmic Revive
+7,Enchantment,Lethargy
+8,Creature,Troll
+9,Artifact,Scepter
+10,Creature,Berserker
+11,Enchantment,Gloom Shield
+12,Creature,Earth Thief Ogre of the Eternal Land
+13,Enchantment,Agony
+14,Creature,Eagle
+15,Spell,Freeze
+16,Artifact,Instant Forged Sword
+17,Spell,Sorrow
+18,Creature,Wolf
+19,Creature,Eagle
+20,Creature,Dark Queen Hydra
+21,Enchantment,Gloom Flight
+22,Enchantment,Deathgrip
+23,Spell,Stun
+24,Creature,Earth Fighter Ogre of the Plains
+25,Creature,Magi
+26,Creature,Ghoul
+27,Creature,Fairy
+28,Creature,Berserker
+29,Creature,Fairy
+30,Creature,Berserker
+31,Spell,Fireball
+32,Enchantment,Shield
+33,Artifact,Helmet
+34,Artifact,Gloves
+35,Spell,Pandemonium
+36,Enchantment,Blight
+37,Spell,Shimmering Gravitation
+38,Creature,Light Rogue Goblin
+39,Spell,Sorrow
+40,Spell,Hateful Freeze
+41,Enchantment,Deathgrip
+42,Creature,Aura Chaos Wizard of the Light
+43,Creature,Skin-Walker
+44,Creature,Eagle

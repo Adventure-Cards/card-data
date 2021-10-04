@@ -1,46 +1,46 @@
-==================,DECK,5657,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Magi
-2,Creature,Common,Goblin
-3,Spell,Common,Pandemonium
-4,Enchantment,Common,Shrink
-5,Creature,Common,Orc
-6,Artifact,Rare,Frigid Sigil
-7,Creature,Common,Dwarf
-8,Creature,Common,Magi
-9,Creature,Legendary,Frozen Queen Orge of the Haven
-10,Enchantment,Legendary,Extreme Deathgrip
-11,Creature,Common,Paladin
-12,Spell,Common,Rage
-13,Spell,Common,Assault
-14,Spell,Rare,Grim Assault
-15,Creature,Common,Paladin
-16,Spell,Common,Gale
-17,Creature,Common,Magi
-18,Creature,Common,Elf
-19,Enchantment,Common,Shield
-20,Creature,Rare,Earth Thief Fairy
-21,Enchantment,Rare,Oblivion Strength
-22,Creature,Common,Paladin
-23,Enchantment,Common,Drain
-24,Artifact,Common,Divine Robe
-25,Spell,Common,Ice
-26,Artifact,Common,Bow
-27,Creature,Common,Goblin
-28,Creature,Common,Magi
-29,Artifact,Common,Belt
-30,Spell,Common,Infuriate
-31,Enchantment,Legendary,Instant Strength
-32,Creature,Common,Ghoul
-33,Creature,Common,Ghoul
-34,Spell,Common,Frost
-35,Creature,Rare,Light Warrior Skin-Walker
-36,Spell,Common,Frenzy
-37,Creature,Common,Warlock
-38,Enchantment,Legendary,Angry Shrink
-39,Creature,Common,Dwarf
-40,Creature,Legendary,Light Thief Oni of the Black Stone
-41,Spell,Legendary,Urgent Assault
-42,Creature,Common,Dwarf
-43,Creature,Common,Goblin
-44,Enchantment,Common,Deathgrip
+==================,DECK,5657
+0,Creature,Ghoul
+1,Creature,Fairy
+2,Creature,Skin-Walker
+3,Spell,Hypnosis
+4,Enchantment,Lethargy
+5,Creature,Spider
+6,Artifact,Apocalypse Sigil
+7,Creature,Magi
+8,Creature,Fairy
+9,Creature,Frozen Queen Elf of the Haven
+10,Enchantment,Empyrean Sorrow Firebreath
+11,Creature,Troll
+12,Spell,Invisibility
+13,Spell,Invisibility
+14,Spell,Grim Stricken
+15,Creature,Troll
+16,Spell,Invisibility
+17,Creature,Fairy
+18,Creature,Warlock
+19,Enchantment,Flight
+20,Creature,Earth Thief Kraken
+21,Enchantment,Nimble Haste
+22,Creature,Troll
+23,Enchantment,Shield
+24,Artifact,Divine Robe
+25,Spell,Fireball
+26,Artifact,Bow
+27,Creature,Skin-Walker
+28,Creature,Fairy
+29,Artifact,Belt
+30,Spell,Infuriate
+31,Enchantment,Urgent Solar Agony
+32,Creature,Ghoul
+33,Creature,Ghoul
+34,Spell,Gravitation
+35,Creature,Light Warrior Orc
+36,Spell,Invisibility
+37,Creature,Berserker
+38,Enchantment,Clever Chimeric Shield
+39,Creature,Magi
+40,Creature,Light Thief Oni of the Black Stone
+41,Spell,Dire Necro Fireball
+42,Creature,Magi
+43,Creature,Skin-Walker
+44,Enchantment,Drain

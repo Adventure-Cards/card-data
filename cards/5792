@@ -1,46 +1,46 @@
-==================,DECK,5792,Medium
-0,Creature,Rare,Snow Rogue Minotaur
-1,Spell,Common,Maelstrom
-2,Creature,Legendary,Earth Thief Cyclops of the Magical Forest
-3,Enchantment,Common,Age
-4,Spell,Rare,Cataclysmic Fury
-5,Creature,Rare,Death Queen Hydra
-6,Spell,Common,Infuriate
-7,Creature,Rare,Earth Warrior Skin-Walker
-8,Spell,Legendary,Angry Ice
-9,Creature,Rare,Light Thief Minotaur
-10,Creature,Common,Magi
-11,Creature,Legendary,Death Priest Kraken of the Golden Palace
-12,Enchantment,Mythic,Dire Strength
-13,Spell,Common,Invisibility
-14,Enchantment,Rare,Necro Deathgrip
-15,Enchantment,Legendary,Intense Blight
-16,Enchantment,Common,Agony
-17,Enchantment,Rare,Nimble Strength
-18,Creature,Common,Paladin
-19,Creature,Legendary,Light Priest Oni of the West
-20,Creature,Common,Dwarf
-21,Artifact,Common,Amulet
-22,Spell,Legendary,Dire Sorrow
-23,Creature,Common,Paladin
-24,Creature,Common,Magi
-25,Creature,Common,Eagle
-26,Enchantment,Common,Agony
-27,Creature,Common,Wolf
-28,Enchantment,Legendary,Extreme Age
-29,Creature,Rare,Earth Fighter Minotaur
-30,Creature,Legendary,Snow Assassin Orge of the Eternal Land
-31,Enchantment,Common,Age
-32,Creature,Common,Elf
-33,Enchantment,Rare,Miracle Flight
-34,Enchantment,Rare,Corpse Alacrity
-35,Creature,Legendary,Snow Warrior Giant of the Magical Forest
-36,Artifact,Rare,Frigid Bracers
-37,Enchantment,Mythic,Angry Haste
-38,Spell,Rare,Nature Stricken
-39,Creature,Legendary,Death Lord Orge of the Low Hills
-40,Enchantment,Mythic,Clever Haste
-41,Artifact,Legendary,Intense Gloves
-42,Artifact,Legendary,Intense Bow
-43,Creature,Legendary,Snow Merchant Giant of the Haven
-44,Spell,Common,Invisibility
+==================,DECK,5792
+0,Creature,Snow Rogue Cyclops
+1,Spell,Freeze
+2,Creature,Earth Thief Giant of the Magical Forest
+3,Enchantment,Haste
+4,Spell,Gloom Lightning
+5,Creature,Death Queen Hydra
+6,Spell,Fire
+7,Creature,Earth Warrior Orc
+8,Spell,Clever Gloom Tempest
+9,Creature,Light Thief Cyclops
+10,Creature,Fairy
+11,Creature,Death Priest Ogre of the Golden Palace
+12,Enchantment,Ardent Nimble Haste
+13,Spell,Sorrow
+14,Enchantment,Shimmering Lethargy
+15,Enchantment,Potent Solar Strength
+16,Enchantment,Lethargy
+17,Enchantment,Solar Agony
+18,Creature,Troll
+19,Creature,Light Priest Oni of the West
+20,Creature,Magi
+21,Artifact,Amulet
+22,Spell,Clever Frigid Fury
+23,Creature,Troll
+24,Creature,Fairy
+25,Creature,Eagle
+26,Enchantment,Alacrity
+27,Creature,Wolf
+28,Enchantment,Clever Gloom Shield
+29,Creature,Earth Fighter Cyclops
+30,Creature,Snow Assassin Elf of the Eternal Land
+31,Enchantment,Shrink
+32,Creature,Warlock
+33,Enchantment,Grim Haste
+34,Enchantment,Forged Lethargy
+35,Creature,Snow Warrior Dwarf of the Magical Forest
+36,Artifact,Grim Bracers
+37,Enchantment,Empyrean Miracle Firebreath
+38,Spell,Forged Stun
+39,Creature,Death Lord Elf of the Low Hills
+40,Enchantment,Mighty Life Invert
+41,Artifact,Instant Corpse Gloves
+42,Artifact,Urgent Corpse Bow
+43,Creature,Snow Merchant Dwarf of the Haven
+44,Spell,Vortex

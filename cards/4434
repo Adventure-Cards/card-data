@@ -1,46 +1,46 @@
-==================,DECK,4434,Medium
-0,Enchantment,Common,Blight
-1,Creature,Rare,Snow Thief Hydra
-2,Spell,Common,Invisibility
-3,Spell,Common,Burn
-4,Creature,Common,Dwarf
-5,Creature,Common,Dwarf
-6,Creature,Rare,Dark Undead Berserker
-7,Spell,Common,Invisibility
-8,Creature,Common,Dwarf
-9,Spell,Rare,Corpse Invisibility
-10,Creature,Common,Paladin
-11,Creature,Rare,Death Undead Fairy
-12,Spell,Legendary,Mighty Infuriate
-13,Creature,Common,Orc
-14,Artifact,Rare,Nimble Greaves
-15,Creature,Common,Elf
-16,Enchantment,Common,Shield
-17,Enchantment,Common,Shade
-18,Creature,Common,Goblin
-19,Spell,Common,Wall
-20,Creature,Rare,Light Undead Skin-Walker
-21,Creature,Rare,Aura Undead Berserker
-22,Creature,Mythic,Snow Time Dragon of Hate
-23,Creature,Legendary,Light Assassin Kraken of the Eastern Skies
-24,Creature,Common,Warlock
-25,Creature,Common,Wolf
-26,Enchantment,Common,Alacrity
-27,Enchantment,Common,Haste
-28,Creature,Common,Eagle
-29,Creature,Common,Elf
-30,Enchantment,Rare,Shimmering Shrink
-31,Creature,Common,Goblin
-32,Creature,Common,Orc
-33,Spell,Common,Frenzy
-34,Creature,Rare,Snow Knight Hydra
-35,Enchantment,Rare,Life Drain
-36,Creature,Common,Ghoul
-37,Creature,Common,Dwarf
-38,Spell,Common,Sorrow
-39,Enchantment,Rare,Lunar Flight
-40,Enchantment,Common,Strength
-41,Creature,Common,Dwarf
-42,Spell,Common,Freeze
-43,Creature,Common,Dwarf
-44,Artifact,Common,Divine Robe
+==================,DECK,4434
+0,Enchantment,Agony
+1,Creature,Snow Thief Hydra
+2,Spell,Hypnosis
+3,Spell,Burst
+4,Creature,Magi
+5,Creature,Magi
+6,Creature,Dark Undead Goblin
+7,Spell,Freeze
+8,Creature,Magi
+9,Spell,Hateful Fireball
+10,Creature,Troll
+11,Creature,Death Undead Kraken
+12,Spell,Clever Chimeric Revive
+13,Creature,Spider
+14,Artifact,Shimmering Greaves
+15,Creature,Warlock
+16,Enchantment,Haste
+17,Enchantment,Shade
+18,Creature,Skin-Walker
+19,Spell,Maelstrom
+20,Creature,Light Undead Orc
+21,Creature,Aura Undead Goblin
+22,Creature,Snow Time Dragon of Hate
+23,Creature,Light Assassin Ogre of the Eastern Skies
+24,Creature,Berserker
+25,Creature,Wolf
+26,Enchantment,Lethargy
+27,Enchantment,Shade
+28,Creature,Eagle
+29,Creature,Warlock
+30,Enchantment,Necro Strength
+31,Creature,Skin-Walker
+32,Creature,Spider
+33,Spell,Infuriate
+34,Creature,Snow Knight Hydra
+35,Enchantment,Apocalypse Invert
+36,Creature,Ghoul
+37,Creature,Magi
+38,Spell,Freeze
+39,Enchantment,Lunar Shrink
+40,Enchantment,Agony
+41,Creature,Magi
+42,Spell,Invisibility
+43,Creature,Magi
+44,Artifact,Divine Robe

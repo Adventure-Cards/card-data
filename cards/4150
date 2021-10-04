@@ -1,46 +1,46 @@
-==================,DECK,4150,Light
-0,Spell,Rare,Dark Revive
-1,Creature,Common,Elf
-2,Enchantment,Legendary,Dire Shrink
-3,Artifact,Common,Cloak
-4,Creature,Common,Spider
-5,Enchantment,Common,Drain
-6,Creature,Common,Magi
-7,Enchantment,Common,Drain
-8,Spell,Common,Lightning
-9,Creature,Common,Eagle
-10,Creature,Common,Eagle
-11,Creature,Common,Goblin
-12,Creature,Common,Ghoul
-13,Artifact,Legendary,Instant Greaves
-14,Spell,Rare,Hateful Stricken
-15,Creature,Rare,Frozen Fighter Skin-Walker
-16,Artifact,Common,Ring
-17,Creature,Common,Eagle
-18,Creature,Common,Eagle
-19,Enchantment,Rare,Oblivion Alacrity
-20,Enchantment,Common,Lethargy
-21,Creature,Common,Wolf
-22,Creature,Common,Goblin
-23,Creature,Common,Orc
-24,Creature,Rare,Earth Priest Berserker
-25,Spell,Common,Revive
-26,Spell,Common,Infuriate
-27,Creature,Common,Eagle
-28,Enchantment,Mythic,Clever Shade
-29,Creature,Common,Spider
-30,Enchantment,Common,Haste
-31,Creature,Common,Wolf
-32,Spell,Legendary,Mighty Lightning
-33,Artifact,Common,Scepter
-34,Creature,Rare,Frozen Rogue Fairy
-35,Enchantment,Common,Age
-36,Spell,Common,Freeze
-37,Enchantment,Common,Shield
-38,Creature,Common,Paladin
-39,Creature,Common,Paladin
-40,Spell,Common,Frost
-41,Creature,Common,Warlock
-42,Enchantment,Common,Shrink
-43,Creature,Rare,Dark Queen Skin-Walker
-44,Creature,Common,Ghoul
+==================,DECK,4150
+0,Spell,Chimeric Maelstrom
+1,Creature,Warlock
+2,Enchantment,Clever Frigid Haste
+3,Artifact,Cloak
+4,Creature,Paladin
+5,Enchantment,Strength
+6,Creature,Fairy
+7,Enchantment,Agony
+8,Spell,Tempest
+9,Creature,Eagle
+10,Creature,Eagle
+11,Creature,Skin-Walker
+12,Creature,Ghoul
+13,Artifact,Mighty Solar Greaves
+14,Spell,Miracle Gravitation
+15,Creature,Frozen Fighter Orc
+16,Artifact,Ring
+17,Creature,Eagle
+18,Creature,Eagle
+19,Enchantment,Apocalypse Invert
+20,Enchantment,Drain
+21,Creature,Wolf
+22,Creature,Skin-Walker
+23,Creature,Spider
+24,Creature,Earth Priest Goblin
+25,Spell,Frenzy
+26,Spell,Frenzy
+27,Creature,Eagle
+28,Enchantment,Dire Frigid Shade
+29,Creature,Paladin
+30,Enchantment,Agony
+31,Creature,Wolf
+32,Spell,Dire Gloom Rage
+33,Artifact,Scepter
+34,Creature,Frozen Rogue Kraken
+35,Enchantment,Haste
+36,Spell,Tempest
+37,Enchantment,Deathgrip
+38,Creature,Troll
+39,Creature,Troll
+40,Spell,Assault
+41,Creature,Berserker
+42,Enchantment,Firebreath
+43,Creature,Dark Queen Orc
+44,Creature,Ghoul

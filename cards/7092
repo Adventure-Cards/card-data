@@ -1,46 +1,46 @@
-==================,DECK,7092,Light
-0,Creature,Common,Eagle
-1,Enchantment,Mythic,Intense Shade
-2,Spell,Legendary,Dire Burst
-3,Creature,Common,Spider
-4,Creature,Common,Spider
-5,Spell,Common,Burn
-6,Spell,Common,Burst
-7,Spell,Legendary,Mighty Frenzy
-8,Creature,Common,Wolf
-9,Creature,Common,Spider
-10,Spell,Rare,Grim Heal
-11,Creature,Legendary,Dark Lord Cyclops of the Eastern Skies
-12,Creature,Rare,Earth Undead Minotaur
-13,Creature,Common,Eagle
-14,Creature,Common,Elf
-15,Creature,Common,Eagle
-16,Spell,Common,Freeze
-17,Spell,Rare,Nature Stricken
-18,Creature,Common,Orc
-19,Spell,Legendary,Urgent Reanimate
-20,Artifact,Common,Sigil
-21,Enchantment,Common,Drain
-22,Spell,Common,Torment
-23,Enchantment,Rare,Necro Flight
-24,Creature,Common,Goblin
-25,Creature,Common,Ghoul
-26,Spell,Common,Rage
-27,Spell,Common,Pandemonium
-28,Artifact,Rare,Dark Sigil
-29,Enchantment,Legendary,Urgent Invert
-30,Spell,Common,Gravitation
-31,Creature,Common,Dwarf
-32,Enchantment,Common,Drain
-33,Enchantment,Common,Flight
-34,Enchantment,Mythic,Angry Shrink
-35,Creature,Common,Ghoul
-36,Creature,Common,Dwarf
-37,Creature,Common,Spider
-38,Enchantment,Rare,Apocalypse Drain
-39,Creature,Common,Elf
-40,Spell,Common,Freeze
-41,Artifact,Rare,Life Divine Robe
-42,Creature,Common,Magi
-43,Spell,Rare,Solar Torment
-44,Creature,Common,Paladin
+==================,DECK,7092
+0,Creature,Eagle
+1,Enchantment,Urgent Necro Agony
+2,Spell,Clever Grim Infuriate
+3,Creature,Paladin
+4,Creature,Paladin
+5,Spell,Fury
+6,Spell,Maelstrom
+7,Spell,Instant Cataclysmic Gravitation
+8,Creature,Wolf
+9,Creature,Paladin
+10,Spell,Grim Fire
+11,Creature,Dark Lord Giant of the Eastern Skies
+12,Creature,Earth Undead Cyclops
+13,Creature,Eagle
+14,Creature,Warlock
+15,Creature,Eagle
+16,Spell,Reanimate
+17,Spell,Hateful Heal
+18,Creature,Spider
+19,Spell,Potent Forged Revive
+20,Artifact,Sigil
+21,Enchantment,Firebreath
+22,Spell,Fireball
+23,Enchantment,Hateful Strength
+24,Creature,Skin-Walker
+25,Creature,Ghoul
+26,Spell,Lightning
+27,Spell,Reanimate
+28,Artifact,Lunar Sigil
+29,Enchantment,Irate Shimmering Deathgrip
+30,Spell,Gravitation
+31,Creature,Magi
+32,Enchantment,Deathgrip
+33,Enchantment,Shade
+34,Enchantment,Empyrean Chimeric Firebreath
+35,Creature,Ghoul
+36,Creature,Magi
+37,Creature,Paladin
+38,Enchantment,Apocalypse Haste
+39,Creature,Warlock
+40,Spell,Fury
+41,Artifact,Frigid Divine Robe
+42,Creature,Fairy
+43,Spell,Solar Gravitation
+44,Creature,Troll

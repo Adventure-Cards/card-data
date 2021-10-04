@@ -1,46 +1,46 @@
-==================,DECK,6930,Medium
-0,Enchantment,Rare,Hateful Drain
-1,Creature,Common,Magi
-2,Spell,Rare,Apocalypse Stricken
-3,Creature,Common,Ghoul
-4,Creature,Common,Paladin
-5,Enchantment,Common,Haste
-6,Creature,Common,Goblin
-7,Enchantment,Common,Agony
-8,Enchantment,Mythic,Clever Agony
-9,Creature,Legendary,Dark Rogue Orge of the Bright Mountains
-10,Creature,Common,Orc
-11,Creature,Rare,Aura Fighter Minotaur
-12,Creature,Common,Orc
-13,Creature,Rare,Snow Monk Griffin
-14,Creature,Legendary,Earth Merchant Cyclops of the Eternal Land
-15,Creature,Common,Goblin
-16,Creature,Mythic,Aura Grand Wizard of the Light
-17,Creature,Rare,Frozen Rogue Berserker
-18,Creature,Common,Eagle
-19,Creature,Common,Dwarf
-20,Creature,Rare,Dark Queen Griffin
-21,Creature,Rare,Light Assassin Hydra
-22,Creature,Rare,Light Warrior Griffin
-23,Creature,Rare,Earth Thief Griffin
-24,Spell,Rare,Forged Wall
-25,Creature,Common,Paladin
-26,Creature,Legendary,Death Warrior Kraken of the Arctic Blizzards
-27,Enchantment,Common,Shrink
-28,Creature,Common,Warlock
-29,Creature,Mythic,Snow Chaos Wizard of Hate
-30,Artifact,Rare,Life Amulet
-31,Spell,Rare,Solar Frenzy
-32,Artifact,Rare,Frigid Sigil
-33,Creature,Common,Goblin
-34,Creature,Common,Magi
-35,Creature,Legendary,Snow Lord Cyclops of the Mountains
-36,Artifact,Common,Ring
-37,Enchantment,Rare,Apocalypse Flight
-38,Creature,Mythic,Snow Undead Dragon of Hate
-39,Spell,Common,Maelstrom
-40,Spell,Rare,Grim Heal
-41,Spell,Rare,Oblivion Revive
-42,Creature,Legendary,Dark King Giant of the Border
-43,Creature,Rare,Snow Queen Skin-Walker
-44,Creature,Common,Wolf
+==================,DECK,6930
+0,Enchantment,Dark Alacrity
+1,Creature,Fairy
+2,Spell,Grim Torment
+3,Creature,Ghoul
+4,Creature,Troll
+5,Enchantment,Firebreath
+6,Creature,Skin-Walker
+7,Enchantment,Shade
+8,Enchantment,Urgent Life Invert
+9,Creature,Dark Rogue Elf of the Bright Mountains
+10,Creature,Spider
+11,Creature,Aura Fighter Cyclops
+12,Creature,Spider
+13,Creature,Snow Monk Griffin
+14,Creature,Earth Merchant Giant of the Eternal Land
+15,Creature,Skin-Walker
+16,Creature,Aura Grand Wizard of the Light
+17,Creature,Frozen Rogue Goblin
+18,Creature,Eagle
+19,Creature,Magi
+20,Creature,Dark Queen Griffin
+21,Creature,Light Assassin Hydra
+22,Creature,Light Warrior Griffin
+23,Creature,Earth Thief Griffin
+24,Spell,Gloom Stricken
+25,Creature,Troll
+26,Creature,Death Warrior Ogre of the Arctic Blizzards
+27,Enchantment,Flight
+28,Creature,Berserker
+29,Creature,Snow Chaos Wizard of Hate
+30,Artifact,Apocalypse Amulet
+31,Spell,Necro Infuriate
+32,Artifact,Grim Sigil
+33,Creature,Skin-Walker
+34,Creature,Fairy
+35,Creature,Snow Lord Giant of the Mountains
+36,Artifact,Ring
+37,Enchantment,Grim Shade
+38,Creature,Snow Undead Dragon of Hate
+39,Spell,Torment
+40,Spell,Frigid Frost
+41,Spell,Apocalypse Infuriate
+42,Creature,Dark King Dwarf of the Border
+43,Creature,Snow Queen Orc
+44,Creature,Wolf

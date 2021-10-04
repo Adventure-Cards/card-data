@@ -1,46 +1,46 @@
-==================,DECK,6255,Medium
-0,Creature,Common,Ghoul
-1,Enchantment,Legendary,Mighty Lethargy
-2,Artifact,Common,Ghost Wand
-3,Creature,Common,Spider
-4,Artifact,Common,Bracers
-5,Spell,Rare,Nimble Torment
-6,Creature,Legendary,Light Lord Cyclops of the Eternal Land
-7,Enchantment,Common,Drain
-8,Spell,Common,Heal
-9,Enchantment,Common,Shade
-10,Creature,Common,Eagle
-11,Spell,Common,Assault
-12,Spell,Rare,Apocalypse Maelstrom
-13,Creature,Common,Dwarf
-14,Spell,Common,Infuriate
-15,Artifact,Rare,Solar Ring
-16,Artifact,Rare,Dark Staff
-17,Artifact,Common,Greaves
-18,Creature,Common,Orc
-19,Spell,Common,Gravitation
-20,Creature,Legendary,Aura Assassin Kraken of the Border
-21,Creature,Legendary,Light King Kraken of the Plains
-22,Creature,Common,Ghoul
-23,Artifact,Rare,Dark Sigil
-24,Creature,Rare,Light Merchant Minotaur
-25,Artifact,Common,Scepter
-26,Artifact,Common,Amulet
-27,Enchantment,Rare,Nature Age
-28,Creature,Legendary,Aura Assassin Cyclops of the Frozen Castle
-29,Enchantment,Rare,Cataclysmic Flight
-30,Creature,Common,Magi
-31,Spell,Common,Invisibility
-32,Enchantment,Common,Strength
-33,Creature,Common,Eagle
-34,Creature,Legendary,Light Undead Orge of the Low Hills
-35,Artifact,Rare,Solar Divine Robe
-36,Enchantment,Mythic,Clever Age
-37,Creature,Common,Ghoul
-38,Creature,Common,Goblin
-39,Spell,Common,Reanimate
-40,Creature,Rare,Snow Thief Minotaur
-41,Enchantment,Common,Shade
-42,Spell,Rare,Necro Hypnosis
-43,Enchantment,Common,Invert
-44,Creature,Rare,Death Priest Fairy
+==================,DECK,6255
+0,Creature,Ghoul
+1,Enchantment,Irate Lunar Alacrity
+2,Artifact,Ghost Wand
+3,Creature,Paladin
+4,Artifact,Bracers
+5,Spell,Nature Freeze
+6,Creature,Light Lord Giant of the Eternal Land
+7,Enchantment,Drain
+8,Spell,Stun
+9,Enchantment,Strength
+10,Creature,Eagle
+11,Spell,Freeze
+12,Spell,Grim Gravitation
+13,Creature,Magi
+14,Spell,Burn
+15,Artifact,Hateful Ring
+16,Artifact,Miracle Staff
+17,Artifact,Greaves
+18,Creature,Spider
+19,Spell,Gale
+20,Creature,Aura Assassin Ogre of the Border
+21,Creature,Light King Ogre of the Plains
+22,Creature,Ghoul
+23,Artifact,Chimeric Sigil
+24,Creature,Light Merchant Cyclops
+25,Artifact,Scepter
+26,Artifact,Amulet
+27,Enchantment,Nature Age
+28,Creature,Aura Assassin Giant of the Frozen Castle
+29,Enchantment,Lunar Shrink
+30,Creature,Fairy
+31,Spell,Pandemonium
+32,Enchantment,Drain
+33,Creature,Eagle
+34,Creature,Light Undead Elf of the Low Hills
+35,Artifact,Nature Divine Robe
+36,Enchantment,Empyrean Victory Shade
+37,Creature,Ghoul
+38,Creature,Skin-Walker
+39,Spell,Tempest
+40,Creature,Snow Thief Cyclops
+41,Enchantment,Blight
+42,Spell,Forged Rage
+43,Enchantment,Blight
+44,Creature,Death Priest Kraken

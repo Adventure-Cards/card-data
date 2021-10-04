@@ -1,46 +1,46 @@
-==================,DECK,7353,Medium
-0,Creature,Common,Warlock
-1,Enchantment,Common,Invert
-2,Creature,Common,Paladin
-3,Creature,Common,Orc
-4,Creature,Legendary,Snow Assassin Kraken of the Plains
-5,Artifact,Rare,Shimmering Gauntlet
-6,Creature,Common,Paladin
-7,Creature,Common,Warlock
-8,Spell,Mythic,Instant Frenzy
-9,Enchantment,Common,Alacrity
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Snow Priest Orge of the Haven
-12,Creature,Rare,Aura Priest Hydra
-13,Spell,Common,Lightning
-14,Creature,Common,Ghoul
-15,Enchantment,Rare,Miracle Shrink
-16,Creature,Legendary,Light Thief Orge of the Bright Mountains
-17,Enchantment,Rare,Apocalypse Flight
-18,Artifact,Common,Potion
-19,Creature,Common,Goblin
-20,Artifact,Common,Cloak
-21,Creature,Legendary,Death Fighter Orge of the Mountains
-22,Enchantment,Rare,Oblivion Agony
-23,Creature,Common,Warlock
-24,Artifact,Rare,Dark Greaves
-25,Enchantment,Rare,Corpse Agony
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Dwarf
-28,Enchantment,Rare,Corpse Shield
-29,Spell,Common,Gale
-30,Enchantment,Rare,Shimmering Age
-31,Enchantment,Legendary,Angry Alacrity
-32,Creature,Rare,Snow Warrior Minotaur
-33,Spell,Common,Gale
-34,Enchantment,Common,Agony
-35,Creature,Common,Orc
-36,Artifact,Legendary,Extreme Gauntlet
-37,Artifact,Common,Pendant
-38,Creature,Common,Warlock
-39,Creature,Common,Dwarf
-40,Artifact,Common,Gloves
-41,Artifact,Common,Greaves
-42,Spell,Common,Fury
-43,Spell,Common,Frost
-44,Creature,Common,Ghoul
+==================,DECK,7353
+0,Creature,Berserker
+1,Enchantment,Lethargy
+2,Creature,Troll
+3,Creature,Spider
+4,Creature,Snow Assassin Ogre of the Plains
+5,Artifact,Nature Gauntlet
+6,Creature,Troll
+7,Creature,Berserker
+8,Spell,Irate Nature Reanimate
+9,Enchantment,Age
+10,Creature,Ghoul
+11,Creature,Snow Priest Elf of the Haven
+12,Creature,Aura Priest Hydra
+13,Spell,Infuriate
+14,Creature,Ghoul
+15,Enchantment,Frigid Blight
+16,Creature,Light Thief Elf of the Bright Mountains
+17,Enchantment,Grim Blight
+18,Artifact,Potion
+19,Creature,Skin-Walker
+20,Artifact,Cloak
+21,Creature,Death Fighter Elf of the Mountains
+22,Enchantment,Life Haste
+23,Creature,Berserker
+24,Artifact,Gloom Greaves
+25,Enchantment,Corpse Deathgrip
+26,Enchantment,Lethargy
+27,Creature,Magi
+28,Enchantment,Nature Agony
+29,Spell,Tempest
+30,Enchantment,Nature Lethargy
+31,Enchantment,Irate Dark Alacrity
+32,Creature,Snow Warrior Cyclops
+33,Spell,Hypnosis
+34,Enchantment,Shield
+35,Creature,Spider
+36,Artifact,Clever Miracle Gauntlet
+37,Artifact,Pendant
+38,Creature,Berserker
+39,Creature,Magi
+40,Artifact,Gloves
+41,Artifact,Greaves
+42,Spell,Torment
+43,Spell,Pandemonium
+44,Creature,Ghoul

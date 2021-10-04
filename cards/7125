@@ -1,46 +1,46 @@
-==================,DECK,7125,Medium
-0,Artifact,Rare,Life Scythe
-1,Creature,Common,Paladin
-2,Spell,Common,Lightning
-3,Enchantment,Common,Alacrity
-4,Artifact,Common,Divine Robe
-5,Artifact,Rare,Life Boots
-6,Artifact,Rare,Oblivion Gauntlet
-7,Creature,Common,Paladin
-8,Creature,Common,Elf
-9,Creature,Common,Paladin
-10,Creature,Common,Paladin
-11,Spell,Common,Invisibility
-12,Spell,Common,Ice
-13,Creature,Common,Ghoul
-14,Enchantment,Rare,Grim Agony
-15,Creature,Rare,Frozen Assassin Skin-Walker
-16,Creature,Common,Wolf
-17,Creature,Rare,Dark Assassin Berserker
-18,Creature,Common,Dwarf
-19,Creature,Common,Ghoul
-20,Spell,Rare,Shimmering Reanimate
-21,Artifact,Common,Bracers
-22,Artifact,Rare,Solar Staff
-23,Spell,Common,Gale
-24,Enchantment,Mythic,Instant Agony
-25,Spell,Rare,Life Infuriate
-26,Creature,Common,Elf
-27,Spell,Legendary,Urgent Burst
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Magi
-30,Creature,Common,Warlock
-31,Creature,Common,Goblin
-32,Enchantment,Common,Agony
-33,Spell,Common,Burn
-34,Spell,Legendary,Instant Gale
-35,Creature,Rare,Snow Knight Skin-Walker
-36,Spell,Rare,Lunar Infuriate
-37,Creature,Common,Orc
-38,Spell,Common,Burn
-39,Enchantment,Common,Haste
-40,Enchantment,Common,Shrink
-41,Creature,Rare,Earth Merchant Skin-Walker
-42,Artifact,Rare,Oblivion Belt
-43,Creature,Common,Wolf
-44,Spell,Legendary,Extreme Torment
+==================,DECK,7125
+0,Artifact,Frigid Scythe
+1,Creature,Troll
+2,Spell,Wall
+3,Enchantment,Age
+4,Artifact,Divine Robe
+5,Artifact,Nimble Boots
+6,Artifact,Oblivion Gauntlet
+7,Creature,Troll
+8,Creature,Warlock
+9,Creature,Troll
+10,Creature,Troll
+11,Spell,Torment
+12,Spell,Fire
+13,Creature,Ghoul
+14,Enchantment,Life Invert
+15,Creature,Frozen Assassin Orc
+16,Creature,Wolf
+17,Creature,Dark Assassin Goblin
+18,Creature,Magi
+19,Creature,Ghoul
+20,Spell,Solar Tempest
+21,Artifact,Bracers
+22,Artifact,Solar Staff
+23,Spell,Frost
+24,Enchantment,Ardent Corpse Lethargy
+25,Spell,Frigid Fury
+26,Creature,Warlock
+27,Spell,Clever Necro Frenzy
+28,Enchantment,Alacrity
+29,Creature,Fairy
+30,Creature,Berserker
+31,Creature,Skin-Walker
+32,Enchantment,Invert
+33,Spell,Stun
+34,Spell,Potent Corpse Freeze
+35,Creature,Snow Knight Orc
+36,Spell,Gloom Fire
+37,Creature,Spider
+38,Spell,Maelstrom
+39,Enchantment,Age
+40,Enchantment,Shade
+41,Creature,Earth Merchant Orc
+42,Artifact,Victory Belt
+43,Creature,Wolf
+44,Spell,Urgent Sorrow Ice

@@ -1,46 +1,46 @@
-==================,DECK,7323,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Elf
-2,Creature,Common,Magi
-3,Creature,Common,Goblin
-4,Spell,Legendary,Dire Heal
-5,Creature,Common,Wolf
-6,Creature,Common,Magi
-7,Creature,Common,Eagle
-8,Enchantment,Common,Invert
-9,Spell,Common,Lightning
-10,Creature,Legendary,Snow Assassin Cyclops of the Low Hills
-11,Enchantment,Rare,Cataclysmic Drain
-12,Creature,Common,Goblin
-13,Creature,Rare,Earth Warrior Fairy
-14,Spell,Common,Hypnosis
-15,Enchantment,Rare,Nature Deathgrip
-16,Creature,Common,Goblin
-17,Creature,Common,Spider
-18,Spell,Common,Vortex
-19,Enchantment,Common,Invert
-20,Creature,Common,Ghoul
-21,Enchantment,Mythic,Urgent Shield
-22,Creature,Rare,Earth Merchant Minotaur
-23,Creature,Common,Magi
-24,Enchantment,Common,Shade
-25,Enchantment,Legendary,Angry Age
-26,Creature,Common,Eagle
-27,Enchantment,Common,Deathgrip
-28,Artifact,Rare,Shimmering Divine Robe
-29,Spell,Common,Assault
-30,Enchantment,Common,Lethargy
-31,Creature,Common,Warlock
-32,Spell,Common,Fury
-33,Spell,Rare,Corpse Assault
-34,Creature,Common,Ghoul
-35,Creature,Common,Elf
-36,Artifact,Legendary,Mighty Gauntlet
-37,Spell,Common,Gale
-38,Creature,Legendary,Death Monk Cyclops of the Magical Forest
-39,Creature,Mythic,Death Nameless Dragon of the Dead
-40,Enchantment,Common,Alacrity
-41,Enchantment,Common,Invert
-42,Enchantment,Mythic,Mighty Shade
-43,Enchantment,Common,Lethargy
-44,Creature,Common,Eagle
+==================,DECK,7323
+0,Enchantment,Lethargy
+1,Creature,Warlock
+2,Creature,Fairy
+3,Creature,Skin-Walker
+4,Spell,Dire Nimble Vortex
+5,Creature,Wolf
+6,Creature,Fairy
+7,Creature,Eagle
+8,Enchantment,Haste
+9,Spell,Pandemonium
+10,Creature,Snow Assassin Giant of the Low Hills
+11,Enchantment,Dark Shield
+12,Creature,Skin-Walker
+13,Creature,Earth Warrior Kraken
+14,Spell,Fury
+15,Enchantment,Shimmering Age
+16,Creature,Skin-Walker
+17,Creature,Paladin
+18,Spell,Pandemonium
+19,Enchantment,Agony
+20,Creature,Ghoul
+21,Enchantment,Urgent Nature Agony
+22,Creature,Earth Merchant Cyclops
+23,Creature,Fairy
+24,Enchantment,Strength
+25,Enchantment,Potent Gloom Shrink
+26,Creature,Eagle
+27,Enchantment,Drain
+28,Artifact,Shimmering Divine Robe
+29,Spell,Stricken
+30,Enchantment,Lethargy
+31,Creature,Berserker
+32,Spell,Fury
+33,Spell,Nature Invisibility
+34,Creature,Ghoul
+35,Creature,Warlock
+36,Artifact,Ardent Cataclysmic Gauntlet
+37,Spell,Pandemonium
+38,Creature,Death Monk Giant of the Magical Forest
+39,Creature,Death Nameless Dragon of the Dead
+40,Enchantment,Strength
+41,Enchantment,Strength
+42,Enchantment,Urgent Chimeric Flight
+43,Enchantment,Lethargy
+44,Creature,Eagle

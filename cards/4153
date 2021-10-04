@@ -1,46 +1,46 @@
-==================,DECK,4153,Medium
-0,Spell,Common,Torment
-1,Artifact,Rare,Corpse Gloves
-2,Creature,Common,Dwarf
-3,Spell,Rare,Gloom Gravitation
-4,Artifact,Common,Ghost Wand
-5,Enchantment,Common,Deathgrip
-6,Spell,Common,Torment
-7,Creature,Mythic,Frozen Chaos Wizard of the Void
-8,Creature,Common,Paladin
-9,Creature,Common,Ghoul
-10,Creature,Common,Dwarf
-11,Creature,Mythic,Death Nameless Dragon of the Dead
-12,Artifact,Common,Divine Robe
-13,Spell,Common,Burn
-14,Artifact,Legendary,Extreme Pendant
-15,Creature,Legendary,Death Rogue Oni of the Swamp
-16,Creature,Rare,Earth Priest Minotaur
-17,Enchantment,Common,Deathgrip
-18,Spell,Rare,Solar Revive
-19,Enchantment,Common,Agony
-20,Creature,Common,Goblin
-21,Enchantment,Rare,Necro Age
-22,Artifact,Common,Helm
-23,Creature,Common,Paladin
-24,Creature,Common,Elf
-25,Spell,Common,Vortex
-26,Artifact,Common,Crown
-27,Creature,Common,Wolf
-28,Creature,Legendary,Death Knight Giant of the Low Hills
-29,Creature,Common,Ghoul
-30,Creature,Rare,Light Merchant Skin-Walker
-31,Artifact,Common,Scepter
-32,Creature,Rare,Frozen Fighter Berserker
-33,Spell,Rare,Lunar Burst
-34,Creature,Common,Paladin
-35,Spell,Common,Maelstrom
-36,Creature,Common,Goblin
-37,Enchantment,Common,Strength
-38,Creature,Common,Ghoul
-39,Spell,Rare,Cataclysmic Infuriate
-40,Enchantment,Mythic,Urgent Deathgrip
-41,Creature,Rare,Light Fighter Skin-Walker
-42,Artifact,Common,Belt
-43,Creature,Common,Spider
-44,Spell,Common,Infuriate
+==================,DECK,4153
+0,Spell,Fire
+1,Artifact,Solar Gloves
+2,Creature,Magi
+3,Spell,Gloom Sorrow
+4,Artifact,Ghost Wand
+5,Enchantment,Alacrity
+6,Spell,Invisibility
+7,Creature,Frozen Chaos Wizard of the Void
+8,Creature,Troll
+9,Creature,Ghoul
+10,Creature,Magi
+11,Creature,Death Nameless Dragon of the Dead
+12,Artifact,Divine Robe
+13,Spell,Ice
+14,Artifact,Irate Sorrow Pendant
+15,Creature,Death Rogue Oni of the Swamp
+16,Creature,Earth Priest Cyclops
+17,Enchantment,Blight
+18,Spell,Forged Wall
+19,Enchantment,Blight
+20,Creature,Skin-Walker
+21,Enchantment,Nature Lethargy
+22,Artifact,Helm
+23,Creature,Troll
+24,Creature,Warlock
+25,Spell,Pandemonium
+26,Artifact,Crown
+27,Creature,Wolf
+28,Creature,Death Knight Dwarf of the Low Hills
+29,Creature,Ghoul
+30,Creature,Light Merchant Orc
+31,Artifact,Scepter
+32,Creature,Frozen Fighter Goblin
+33,Spell,Chimeric Heal
+34,Creature,Troll
+35,Spell,Pandemonium
+36,Creature,Skin-Walker
+37,Enchantment,Deathgrip
+38,Creature,Ghoul
+39,Spell,Chimeric Heal
+40,Enchantment,Clever Shimmering Lethargy
+41,Creature,Light Fighter Orc
+42,Artifact,Belt
+43,Creature,Paladin
+44,Spell,Maelstrom

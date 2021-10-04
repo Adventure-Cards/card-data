@@ -1,46 +1,46 @@
-==================,DECK,7724,Light
-0,Spell,Common,Invisibility
-1,Enchantment,Mythic,Mighty Age
-2,Creature,Common,Ghoul
-3,Spell,Common,Assault
-4,Creature,Common,Spider
-5,Enchantment,Mythic,Potent Deathgrip
-6,Creature,Common,Warlock
-7,Enchantment,Common,Lethargy
-8,Creature,Common,Spider
-9,Spell,Rare,Oblivion Assault
-10,Creature,Common,Ghoul
-11,Artifact,Common,Greaves
-12,Enchantment,Common,Blight
-13,Spell,Common,Frenzy
-14,Creature,Mythic,Death Chaos Demon of the Dead
-15,Spell,Rare,Hateful Sorrow
-16,Creature,Common,Eagle
-17,Spell,Legendary,Intense Heal
-18,Enchantment,Common,Haste
-19,Creature,Rare,Light Assassin Griffin
-20,Creature,Mythic,Light Nameless Phoenix of the Sky
-21,Enchantment,Common,Shield
-22,Creature,Common,Elf
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Artifact,Common,Gauntlet
-26,Spell,Common,Fury
-27,Enchantment,Rare,Oblivion Strength
-28,Enchantment,Common,Age
-29,Creature,Common,Ghoul
-30,Creature,Common,Elf
-31,Creature,Common,Elf
-32,Creature,Common,Ghoul
-33,Creature,Common,Spider
-34,Creature,Legendary,Dark Knight Kraken of the Magical Forest
-35,Creature,Rare,Frozen King Berserker
-36,Creature,Legendary,Earth Knight Giant of the Polar Woods
-37,Spell,Common,Sorrow
-38,Enchantment,Common,Shield
-39,Enchantment,Common,Lethargy
-40,Creature,Legendary,Frozen Rogue Giant of the Haven
-41,Creature,Common,Dwarf
-42,Creature,Common,Goblin
-43,Creature,Legendary,Death Rogue Giant of the Eternal Land
-44,Spell,Rare,Life Fury
+==================,DECK,7724
+0,Spell,Lightning
+1,Enchantment,Clever Gloom Shield
+2,Creature,Ghoul
+3,Spell,Vortex
+4,Creature,Paladin
+5,Enchantment,Potent Oblivion Drain
+6,Creature,Berserker
+7,Enchantment,Alacrity
+8,Creature,Paladin
+9,Spell,Oblivion Stun
+10,Creature,Ghoul
+11,Artifact,Greaves
+12,Enchantment,Age
+13,Spell,Sorrow
+14,Creature,Death Chaos Demon of the Dead
+15,Spell,Miracle Sorrow
+16,Creature,Eagle
+17,Spell,Instant Necro Tempest
+18,Enchantment,Haste
+19,Creature,Light Assassin Griffin
+20,Creature,Light Nameless Phoenix of the Sky
+21,Enchantment,Agony
+22,Creature,Warlock
+23,Creature,Paladin
+24,Creature,Troll
+25,Artifact,Gauntlet
+26,Spell,Frost
+27,Enchantment,Nimble Shade
+28,Enchantment,Firebreath
+29,Creature,Ghoul
+30,Creature,Warlock
+31,Creature,Warlock
+32,Creature,Ghoul
+33,Creature,Paladin
+34,Creature,Dark Knight Ogre of the Magical Forest
+35,Creature,Frozen King Goblin
+36,Creature,Earth Knight Dwarf of the Polar Woods
+37,Spell,Revive
+38,Enchantment,Shield
+39,Enchantment,Agony
+40,Creature,Frozen Rogue Dwarf of the Haven
+41,Creature,Magi
+42,Creature,Skin-Walker
+43,Creature,Death Rogue Dwarf of the Eternal Land
+44,Spell,Victory Revive

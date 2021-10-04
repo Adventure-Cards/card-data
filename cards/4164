@@ -1,46 +1,46 @@
-==================,DECK,4164,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Spider
-2,Creature,Common,Wolf
-3,Spell,Common,Hypnosis
-4,Spell,Common,Frenzy
-5,Enchantment,Legendary,Dire Deathgrip
-6,Enchantment,Mythic,Instant Shield
-7,Creature,Common,Paladin
-8,Creature,Mythic,Dark Grand Wizard of Illusion
-9,Creature,Rare,Frozen King Griffin
-10,Creature,Common,Spider
-11,Creature,Common,Ghoul
-12,Creature,Rare,Snow Assassin Griffin
-13,Enchantment,Common,Invert
-14,Spell,Common,Lightning
-15,Artifact,Common,Gauntlet
-16,Enchantment,Common,Age
-17,Artifact,Rare,Gloom Helmet
-18,Creature,Common,Magi
-19,Creature,Legendary,Light Priest Giant of the West
-20,Enchantment,Common,Invert
-21,Creature,Rare,Death Warrior Berserker
-22,Creature,Legendary,Dark Monk Orge of the Black Stone
-23,Creature,Common,Orc
-24,Spell,Common,Stun
-25,Artifact,Legendary,Instant Scepter
-26,Enchantment,Common,Shield
-27,Creature,Legendary,Death Lord Cyclops of the Plains
-28,Enchantment,Mythic,Intense Flight
-29,Spell,Rare,Nature Fury
-30,Spell,Rare,Nature Ice
-31,Artifact,Rare,Forged Helm
-32,Creature,Legendary,Dark Assassin Kraken of the Arctic Blizzards
-33,Creature,Common,Paladin
-34,Spell,Common,Assault
-35,Creature,Common,Goblin
-36,Enchantment,Common,Strength
-37,Creature,Common,Wolf
-38,Creature,Rare,Snow Merchant Berserker
-39,Enchantment,Common,Age
-40,Creature,Rare,Aura Monk Hydra
-41,Enchantment,Rare,Oblivion Lethargy
-42,Creature,Mythic,Death Ancient Demon of the Dead
-43,Creature,Common,Goblin
-44,Enchantment,Mythic,Urgent Shade
+==================,DECK,4164
+0,Creature,Ghoul
+1,Creature,Paladin
+2,Creature,Wolf
+3,Spell,Fireball
+4,Spell,Fireball
+5,Enchantment,Empyrean Oblivion Shade
+6,Enchantment,Instant Nature Strength
+7,Creature,Troll
+8,Creature,Dark Grand Wizard of Illusion
+9,Creature,Frozen King Griffin
+10,Creature,Paladin
+11,Creature,Ghoul
+12,Creature,Snow Assassin Griffin
+13,Enchantment,Haste
+14,Spell,Rage
+15,Artifact,Gauntlet
+16,Enchantment,Lethargy
+17,Artifact,Gloom Helmet
+18,Creature,Fairy
+19,Creature,Light Priest Dwarf of the West
+20,Enchantment,Shrink
+21,Creature,Death Warrior Goblin
+22,Creature,Dark Monk Elf of the Black Stone
+23,Creature,Spider
+24,Spell,Frost
+25,Artifact,Potent Forged Scepter
+26,Enchantment,Deathgrip
+27,Creature,Death Lord Giant of the Plains
+28,Enchantment,Mighty Hateful Agony
+29,Spell,Shimmering Ice
+30,Spell,Corpse Stricken
+31,Artifact,Cataclysmic Helm
+32,Creature,Dark Assassin Ogre of the Arctic Blizzards
+33,Creature,Troll
+34,Spell,Heal
+35,Creature,Skin-Walker
+36,Enchantment,Agony
+37,Creature,Wolf
+38,Creature,Snow Merchant Goblin
+39,Enchantment,Shade
+40,Creature,Aura Monk Hydra
+41,Enchantment,Grim Drain
+42,Creature,Death Ancient Demon of the Dead
+43,Creature,Skin-Walker
+44,Enchantment,Ardent Necro Lethargy

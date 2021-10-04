@@ -1,46 +1,46 @@
-==================,DECK,5824,Light
-0,Creature,Mythic,Snow Time Phoenix of Hate
-1,Creature,Common,Warlock
-2,Creature,Common,Spider
-3,Enchantment,Common,Drain
-4,Enchantment,Rare,Apocalypse Drain
-5,Artifact,Legendary,Extreme Belt
-6,Enchantment,Common,Strength
-7,Spell,Common,Sorrow
-8,Creature,Common,Goblin
-9,Enchantment,Common,Deathgrip
-10,Spell,Common,Burst
-11,Creature,Rare,Snow Fighter Fairy
-12,Enchantment,Legendary,Extreme Deathgrip
-13,Spell,Common,Revive
-14,Artifact,Common,Pendant
-15,Creature,Common,Wolf
-16,Spell,Rare,Life Maelstrom
-17,Artifact,Common,Divine Robe
-18,Spell,Common,Freeze
-19,Creature,Common,Wolf
-20,Creature,Rare,Aura Monk Fairy
-21,Creature,Common,Dwarf
-22,Spell,Rare,Cataclysmic Burst
-23,Spell,Common,Wall
-24,Creature,Common,Orc
-25,Artifact,Common,Cloak
-26,Creature,Common,Spider
-27,Enchantment,Common,Strength
-28,Enchantment,Common,Lethargy
-29,Artifact,Common,Crown
-30,Artifact,Common,Ring
-31,Creature,Rare,Earth Priest Minotaur
-32,Creature,Common,Dwarf
-33,Creature,Common,Goblin
-34,Enchantment,Common,Blight
-35,Spell,Legendary,Intense Stun
-36,Enchantment,Common,Agony
-37,Creature,Common,Magi
-38,Creature,Rare,Frozen Monk Berserker
-39,Enchantment,Mythic,Intense Shade
-40,Spell,Common,Pandemonium
-41,Spell,Legendary,Urgent Wall
-42,Creature,Common,Orc
-43,Creature,Common,Wolf
-44,Enchantment,Common,Flight
+==================,DECK,5824
+0,Creature,Snow Time Phoenix of Hate
+1,Creature,Berserker
+2,Creature,Paladin
+3,Enchantment,Alacrity
+4,Enchantment,Apocalypse Shade
+5,Artifact,Empyrean Gloom Belt
+6,Enchantment,Alacrity
+7,Spell,Fire
+8,Creature,Skin-Walker
+9,Enchantment,Shield
+10,Spell,Fury
+11,Creature,Snow Fighter Kraken
+12,Enchantment,Empyrean Sorrow Firebreath
+13,Spell,Frost
+14,Artifact,Pendant
+15,Creature,Wolf
+16,Spell,Life Stricken
+17,Artifact,Divine Robe
+18,Spell,Torment
+19,Creature,Wolf
+20,Creature,Aura Monk Kraken
+21,Creature,Magi
+22,Spell,Miracle Maelstrom
+23,Spell,Frost
+24,Creature,Spider
+25,Artifact,Cloak
+26,Creature,Paladin
+27,Enchantment,Flight
+28,Enchantment,Drain
+29,Artifact,Crown
+30,Artifact,Ring
+31,Creature,Earth Priest Cyclops
+32,Creature,Magi
+33,Creature,Skin-Walker
+34,Enchantment,Lethargy
+35,Spell,Zealous Forged Fireball
+36,Enchantment,Firebreath
+37,Creature,Fairy
+38,Creature,Frozen Monk Goblin
+39,Enchantment,Instant Necro Strength
+40,Spell,Tempest
+41,Spell,Ardent Hateful Gravitation
+42,Creature,Spider
+43,Creature,Wolf
+44,Enchantment,Firebreath

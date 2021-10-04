@@ -1,46 +1,46 @@
-==================,DECK,6039,Medium
-0,Spell,Common,Gravitation
-1,Creature,Rare,Earth Thief Skin-Walker
-2,Creature,Common,Spider
-3,Spell,Rare,Cataclysmic Ice
-4,Creature,Common,Goblin
-5,Creature,Rare,Frozen King Minotaur
-6,Creature,Common,Goblin
-7,Creature,Common,Spider
-8,Spell,Rare,Lunar Burst
-9,Creature,Common,Elf
-10,Enchantment,Common,Shade
-11,Creature,Common,Warlock
-12,Spell,Common,Infuriate
-13,Creature,Legendary,Earth Assassin Oni of the Golden Palace
-14,Enchantment,Common,Shrink
-15,Creature,Common,Magi
-16,Enchantment,Rare,Solar Alacrity
-17,Enchantment,Mythic,Mighty Agony
-18,Creature,Common,Warlock
-19,Enchantment,Common,Blight
-20,Enchantment,Common,Shade
-21,Enchantment,Common,Flight
-22,Creature,Legendary,Aura Monk Giant of the Eastern Skies
-23,Creature,Common,Magi
-24,Creature,Rare,Earth Undead Skin-Walker
-25,Creature,Rare,Earth Undead Fairy
-26,Creature,Common,Goblin
-27,Enchantment,Common,Lethargy
-28,Creature,Common,Dwarf
-29,Spell,Legendary,Extreme Freeze
-30,Artifact,Common,Helm
-31,Enchantment,Common,Alacrity
-32,Creature,Common,Ghoul
-33,Creature,Common,Spider
-34,Enchantment,Legendary,Clever Shrink
-35,Creature,Common,Warlock
-36,Enchantment,Legendary,Clever Alacrity
-37,Spell,Common,Frost
-38,Enchantment,Common,Alacrity
-39,Spell,Common,Ice
-40,Spell,Rare,Nimble Heal
-41,Creature,Legendary,Snow Rogue Cyclops of the Bright Mountains
-42,Creature,Common,Spider
-43,Artifact,Common,Sword
-44,Enchantment,Common,Agony
+==================,DECK,6039
+0,Spell,Burst
+1,Creature,Earth Thief Orc
+2,Creature,Paladin
+3,Spell,Cataclysmic Freeze
+4,Creature,Skin-Walker
+5,Creature,Frozen King Cyclops
+6,Creature,Skin-Walker
+7,Creature,Paladin
+8,Spell,Cataclysmic Revive
+9,Creature,Warlock
+10,Enchantment,Blight
+11,Creature,Berserker
+12,Spell,Heal
+13,Creature,Earth Assassin Oni of the Golden Palace
+14,Enchantment,Strength
+15,Creature,Fairy
+16,Enchantment,Forged Deathgrip
+17,Enchantment,Irate Miracle Alacrity
+18,Creature,Berserker
+19,Enchantment,Haste
+20,Enchantment,Drain
+21,Enchantment,Alacrity
+22,Creature,Aura Monk Dwarf of the Eastern Skies
+23,Creature,Fairy
+24,Creature,Earth Undead Orc
+25,Creature,Earth Undead Kraken
+26,Creature,Skin-Walker
+27,Enchantment,Invert
+28,Creature,Magi
+29,Spell,Urgent Miracle Tempest
+30,Artifact,Helm
+31,Enchantment,Lethargy
+32,Creature,Ghoul
+33,Creature,Paladin
+34,Enchantment,Clever Frigid Haste
+35,Creature,Berserker
+36,Enchantment,Ardent Apocalypse Haste
+37,Spell,Vortex
+38,Enchantment,Alacrity
+39,Spell,Freeze
+40,Spell,Corpse Fury
+41,Creature,Snow Rogue Giant of the Bright Mountains
+42,Creature,Paladin
+43,Artifact,Sword
+44,Enchantment,Agony

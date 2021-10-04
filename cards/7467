@@ -1,46 +1,46 @@
-==================,DECK,7467,Light
-0,Spell,Common,Lightning
-1,Enchantment,Common,Haste
-2,Spell,Rare,Gloom Frenzy
-3,Creature,Common,Paladin
-4,Creature,Rare,Dark Fighter Fairy
-5,Creature,Common,Ghoul
-6,Creature,Common,Eagle
-7,Enchantment,Rare,Nature Shrink
-8,Artifact,Legendary,Potent Crown
-9,Spell,Common,Burst
-10,Creature,Common,Eagle
-11,Creature,Common,Orc
-12,Creature,Common,Spider
-13,Spell,Common,Revive
-14,Enchantment,Common,Haste
-15,Creature,Rare,Aura Knight Minotaur
-16,Spell,Common,Frenzy
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Pandemonium
-19,Spell,Common,Heal
-20,Creature,Common,Elf
-21,Creature,Rare,Earth Merchant Berserker
-22,Enchantment,Rare,Necro Haste
-23,Artifact,Rare,Shimmering Staff
-24,Creature,Common,Wolf
-25,Artifact,Common,Shield
-26,Artifact,Common,Shield
-27,Creature,Legendary,Light Warrior Orge of the Eastern Skies
-28,Enchantment,Common,Agony
-29,Creature,Common,Elf
-30,Spell,Common,Gravitation
-31,Spell,Rare,Necro Pandemonium
-32,Creature,Legendary,Aura Monk Giant of the Swamp
-33,Spell,Common,Gravitation
-34,Enchantment,Common,Haste
-35,Artifact,Rare,Nimble Boots
-36,Creature,Common,Eagle
-37,Spell,Legendary,Dire Heal
-38,Spell,Common,Rage
-39,Artifact,Common,Pendant
-40,Creature,Mythic,Dark Undead Dragon of Illusion
-41,Enchantment,Common,Haste
-42,Artifact,Rare,Life Sword
-43,Spell,Rare,Gloom Torment
-44,Spell,Common,Revive
+==================,DECK,7467
+0,Spell,Stricken
+1,Enchantment,Agony
+2,Spell,Cataclysmic Frenzy
+3,Creature,Troll
+4,Creature,Dark Fighter Kraken
+5,Creature,Ghoul
+6,Creature,Eagle
+7,Enchantment,Necro Lethargy
+8,Artifact,Zealous Nimble Crown
+9,Spell,Burn
+10,Creature,Eagle
+11,Creature,Spider
+12,Creature,Paladin
+13,Spell,Tempest
+14,Enchantment,Lethargy
+15,Creature,Aura Knight Cyclops
+16,Spell,Torment
+17,Enchantment,Alacrity
+18,Spell,Reanimate
+19,Spell,Ice
+20,Creature,Warlock
+21,Creature,Earth Merchant Goblin
+22,Enchantment,Corpse Strength
+23,Artifact,Nature Staff
+24,Creature,Wolf
+25,Artifact,Shield
+26,Artifact,Shield
+27,Creature,Light Warrior Elf of the Eastern Skies
+28,Enchantment,Blight
+29,Creature,Warlock
+30,Spell,Stricken
+31,Spell,Corpse Torment
+32,Creature,Aura Monk Dwarf of the Swamp
+33,Spell,Stricken
+34,Enchantment,Shield
+35,Artifact,Solar Boots
+36,Creature,Eagle
+37,Spell,Ardent Victory Wall
+38,Spell,Sorrow
+39,Artifact,Pendant
+40,Creature,Dark Undead Dragon of Illusion
+41,Enchantment,Shrink
+42,Artifact,Victory Sword
+43,Spell,Cataclysmic Maelstrom
+44,Spell,Tempest

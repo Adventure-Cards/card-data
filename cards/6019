@@ -1,46 +1,46 @@
-==================,DECK,6019,Light
-0,Creature,Common,Orc
-1,Artifact,Common,Bow
-2,Creature,Legendary,Dark Fighter Orge of the Golden Palace
-3,Enchantment,Mythic,Dire Deathgrip
-4,Creature,Common,Dwarf
-5,Creature,Legendary,Earth Warrior Cyclops of the West
-6,Creature,Rare,Aura Merchant Minotaur
-7,Creature,Rare,Light Monk Minotaur
-8,Spell,Common,Freeze
-9,Enchantment,Common,Alacrity
-10,Artifact,Common,Tome
-11,Spell,Rare,Cataclysmic Gale
-12,Enchantment,Rare,Dark Shade
-13,Creature,Common,Eagle
-14,Creature,Rare,Light Queen Berserker
-15,Creature,Common,Spider
-16,Spell,Rare,Forged Assault
-17,Creature,Rare,Earth Rogue Skin-Walker
-18,Spell,Common,Sorrow
-19,Artifact,Common,Bow
-20,Creature,Mythic,Frozen Ancient Demon of the Void
-21,Enchantment,Common,Age
-22,Enchantment,Common,Strength
-23,Enchantment,Rare,Miracle Age
-24,Enchantment,Common,Agony
-25,Creature,Rare,Death Priest Hydra
-26,Spell,Common,Stun
-27,Enchantment,Common,Alacrity
-28,Spell,Common,Burst
-29,Artifact,Common,Helmet
-30,Creature,Common,Magi
-31,Enchantment,Common,Flight
-32,Spell,Common,Invisibility
-33,Artifact,Common,Amulet
-34,Creature,Common,Warlock
-35,Artifact,Common,Cloak
-36,Enchantment,Common,Deathgrip
-37,Enchantment,Common,Flight
-38,Enchantment,Common,Flight
-39,Creature,Rare,Death Lord Minotaur
-40,Creature,Legendary,Death Assassin Oni of the Frozen Castle
-41,Spell,Common,Burst
-42,Spell,Rare,Life Infuriate
-43,Enchantment,Mythic,Dire Flight
-44,Creature,Common,Elf
+==================,DECK,6019
+0,Creature,Spider
+1,Artifact,Bow
+2,Creature,Dark Fighter Elf of the Golden Palace
+3,Enchantment,Zealous Oblivion Blight
+4,Creature,Magi
+5,Creature,Earth Warrior Giant of the West
+6,Creature,Aura Merchant Cyclops
+7,Creature,Light Monk Cyclops
+8,Spell,Infuriate
+9,Enchantment,Strength
+10,Artifact,Tome
+11,Spell,Sorrow Gravitation
+12,Enchantment,Chimeric Flight
+13,Creature,Eagle
+14,Creature,Light Queen Goblin
+15,Creature,Paladin
+16,Spell,Chimeric Pandemonium
+17,Creature,Earth Rogue Orc
+18,Spell,Stun
+19,Artifact,Bow
+20,Creature,Frozen Ancient Demon of the Void
+21,Enchantment,Flight
+22,Enchantment,Shade
+23,Enchantment,Victory Drain
+24,Enchantment,Haste
+25,Creature,Death Priest Hydra
+26,Spell,Sorrow
+27,Enchantment,Shield
+28,Spell,Pandemonium
+29,Artifact,Helmet
+30,Creature,Fairy
+31,Enchantment,Shrink
+32,Spell,Stun
+33,Artifact,Amulet
+34,Creature,Berserker
+35,Artifact,Cloak
+36,Enchantment,Flight
+37,Enchantment,Lethargy
+38,Enchantment,Flight
+39,Creature,Death Lord Cyclops
+40,Creature,Death Assassin Oni of the Frozen Castle
+41,Spell,Burn
+42,Spell,Victory Rage
+43,Enchantment,Clever Grim Haste
+44,Creature,Warlock

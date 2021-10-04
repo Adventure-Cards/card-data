@@ -1,46 +1,46 @@
-==================,DECK,7223,Light
-0,Enchantment,Common,Blight
-1,Creature,Common,Orc
-2,Creature,Common,Dwarf
-3,Creature,Common,Magi
-4,Creature,Common,Goblin
-5,Artifact,Common,Divine Robe
-6,Enchantment,Mythic,Dire Drain
-7,Enchantment,Common,Invert
-8,Creature,Common,Goblin
-9,Creature,Legendary,Light Assassin Oni of the Eternal Land
-10,Spell,Common,Frenzy
-11,Creature,Legendary,Aura Knight Orge of the Border
-12,Spell,Rare,Nature Burn
-13,Creature,Common,Elf
-14,Creature,Common,Goblin
-15,Creature,Common,Ghoul
-16,Enchantment,Common,Shield
-17,Spell,Common,Vortex
-18,Spell,Rare,Necro Hypnosis
-19,Artifact,Rare,Cataclysmic Potion
-20,Creature,Common,Orc
-21,Creature,Common,Spider
-22,Creature,Common,Wolf
-23,Creature,Common,Orc
-24,Enchantment,Mythic,Clever Flight
-25,Creature,Rare,Frozen Knight Minotaur
-26,Creature,Mythic,Snow Undead Phoenix of Hate
-27,Creature,Common,Paladin
-28,Creature,Common,Eagle
-29,Spell,Rare,Shimmering Sorrow
-30,Creature,Common,Elf
-31,Creature,Common,Warlock
-32,Creature,Common,Spider
-33,Creature,Common,Ghoul
-34,Creature,Common,Wolf
-35,Creature,Common,Paladin
-36,Spell,Legendary,Mighty Frost
-37,Creature,Common,Dwarf
-38,Creature,Legendary,Death Lord Oni of the Mountains
-39,Spell,Common,Stun
-40,Creature,Rare,Light Rogue Fairy
-41,Creature,Rare,Aura Monk Skin-Walker
-42,Creature,Rare,Frozen Undead Griffin
-43,Creature,Rare,Death King Griffin
-44,Enchantment,Common,Shrink
+==================,DECK,7223
+0,Enchantment,Invert
+1,Creature,Spider
+2,Creature,Magi
+3,Creature,Fairy
+4,Creature,Skin-Walker
+5,Artifact,Divine Robe
+6,Enchantment,Potent Apocalypse Drain
+7,Enchantment,Blight
+8,Creature,Skin-Walker
+9,Creature,Light Assassin Oni of the Eternal Land
+10,Spell,Frost
+11,Creature,Aura Knight Elf of the Border
+12,Spell,Necro Torment
+13,Creature,Warlock
+14,Creature,Skin-Walker
+15,Creature,Ghoul
+16,Enchantment,Strength
+17,Spell,Tempest
+18,Spell,Solar Wall
+19,Artifact,Cataclysmic Potion
+20,Creature,Spider
+21,Creature,Paladin
+22,Creature,Wolf
+23,Creature,Spider
+24,Enchantment,Empyrean Grim Shade
+25,Creature,Frozen Knight Cyclops
+26,Creature,Snow Undead Phoenix of Hate
+27,Creature,Troll
+28,Creature,Eagle
+29,Spell,Necro Maelstrom
+30,Creature,Warlock
+31,Creature,Berserker
+32,Creature,Paladin
+33,Creature,Ghoul
+34,Creature,Wolf
+35,Creature,Troll
+36,Spell,Instant Gloom Vortex
+37,Creature,Magi
+38,Creature,Death Lord Oni of the Mountains
+39,Spell,Heal
+40,Creature,Light Rogue Kraken
+41,Creature,Aura Monk Orc
+42,Creature,Frozen Undead Griffin
+43,Creature,Death King Griffin
+44,Enchantment,Haste

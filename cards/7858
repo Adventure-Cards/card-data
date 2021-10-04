@@ -1,46 +1,46 @@
-==================,DECK,7858,Light
-0,Creature,Common,Dwarf
-1,Spell,Legendary,Clever Invisibility
-2,Enchantment,Mythic,Potent Strength
-3,Enchantment,Rare,Dark Lethargy
-4,Spell,Rare,Oblivion Wall
-5,Creature,Common,Magi
-6,Creature,Rare,Light Undead Fairy
-7,Creature,Common,Dwarf
-8,Enchantment,Common,Haste
-9,Creature,Common,Magi
-10,Enchantment,Common,Deathgrip
-11,Spell,Common,Invisibility
-12,Creature,Common,Magi
-13,Enchantment,Common,Shield
-14,Creature,Common,Wolf
-15,Creature,Common,Eagle
-16,Creature,Common,Elf
-17,Creature,Legendary,Light Warrior Cyclops of the Eastern Skies
-18,Creature,Common,Magi
-19,Spell,Common,Assault
-20,Creature,Rare,Frozen Queen Berserker
-21,Creature,Legendary,Frozen Merchant Orge of the Bright Mountains
-22,Spell,Rare,Forged Rage
-23,Creature,Common,Orc
-24,Enchantment,Common,Invert
-25,Creature,Common,Eagle
-26,Creature,Legendary,Light Lord Orge of the Eternal Land
-27,Spell,Rare,Miracle Gale
-28,Creature,Common,Warlock
-29,Enchantment,Legendary,Angry Age
-30,Spell,Common,Torment
-31,Creature,Rare,Death Queen Minotaur
-32,Creature,Common,Elf
-33,Creature,Rare,Snow Merchant Griffin
-34,Creature,Common,Paladin
-35,Enchantment,Rare,Hateful Shrink
-36,Creature,Common,Goblin
-37,Artifact,Common,Bracers
-38,Enchantment,Common,Lethargy
-39,Spell,Legendary,Clever Reanimate
-40,Creature,Legendary,Dark Queen Giant of the Magical Forest
-41,Creature,Common,Paladin
-42,Creature,Common,Warlock
-43,Creature,Common,Ghoul
-44,Spell,Common,Assault
+==================,DECK,7858
+0,Creature,Magi
+1,Spell,Urgent Oblivion Gravitation
+2,Enchantment,Dire Nimble Shade
+3,Enchantment,Lunar Shield
+4,Spell,Life Heal
+5,Creature,Fairy
+6,Creature,Light Undead Kraken
+7,Creature,Magi
+8,Enchantment,Flight
+9,Creature,Fairy
+10,Enchantment,Agony
+11,Spell,Infuriate
+12,Creature,Fairy
+13,Enchantment,Flight
+14,Creature,Wolf
+15,Creature,Eagle
+16,Creature,Warlock
+17,Creature,Light Warrior Giant of the Eastern Skies
+18,Creature,Fairy
+19,Spell,Ice
+20,Creature,Frozen Queen Goblin
+21,Creature,Frozen Merchant Elf of the Bright Mountains
+22,Spell,Dark Burn
+23,Creature,Spider
+24,Enchantment,Shield
+25,Creature,Eagle
+26,Creature,Light Lord Elf of the Eternal Land
+27,Spell,Grim Wall
+28,Creature,Berserker
+29,Enchantment,Empyrean Gloom Firebreath
+30,Spell,Frenzy
+31,Creature,Death Queen Cyclops
+32,Creature,Warlock
+33,Creature,Snow Merchant Griffin
+34,Creature,Troll
+35,Enchantment,Chimeric Shrink
+36,Creature,Skin-Walker
+37,Artifact,Bracers
+38,Enchantment,Drain
+39,Spell,Mighty Frigid Assault
+40,Creature,Dark Queen Dwarf of the Magical Forest
+41,Creature,Troll
+42,Creature,Berserker
+43,Creature,Ghoul
+44,Spell,Heal

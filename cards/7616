@@ -1,46 +1,46 @@
-==================,DECK,7616,Light
-0,Artifact,Common,Ghost Wand
-1,Spell,Common,Gravitation
-2,Creature,Common,Spider
-3,Enchantment,Common,Haste
-4,Creature,Rare,Light Fighter Minotaur
-5,Enchantment,Common,Shield
-6,Creature,Rare,Aura Rogue Berserker
-7,Creature,Rare,Earth Queen Berserker
-8,Creature,Rare,Light Lord Fairy
-9,Creature,Common,Orc
-10,Artifact,Common,Staff
-11,Creature,Common,Paladin
-12,Spell,Common,Freeze
-13,Spell,Common,Assault
-14,Enchantment,Common,Lethargy
-15,Enchantment,Common,Shrink
-16,Creature,Rare,Death Warrior Minotaur
-17,Creature,Common,Orc
-18,Artifact,Common,Sigil
-19,Creature,Common,Elf
-20,Creature,Legendary,Snow Undead Orge of the Eternal Land
-21,Creature,Rare,Aura Knight Skin-Walker
-22,Creature,Common,Eagle
-23,Creature,Common,Eagle
-24,Enchantment,Common,Blight
-25,Spell,Common,Ice
-26,Creature,Rare,Death Undead Fairy
-27,Creature,Legendary,Dark Knight Kraken of the West
-28,Creature,Mythic,Light Grand Demon of the Sky
-29,Enchantment,Common,Age
-30,Creature,Rare,Frozen Assassin Skin-Walker
-31,Enchantment,Rare,Hateful Haste
-32,Enchantment,Legendary,Intense Invert
-33,Creature,Rare,Dark Priest Skin-Walker
-34,Creature,Common,Ghoul
-35,Artifact,Rare,Solar Tome
-36,Creature,Common,Ghoul
-37,Creature,Legendary,Snow Warrior Giant of the West
-38,Creature,Rare,Frozen Monk Griffin
-39,Creature,Common,Orc
-40,Artifact,Legendary,Extreme Staff
-41,Creature,Legendary,Death Undead Giant of the Bright Mountains
-42,Creature,Common,Wolf
-43,Creature,Rare,Earth Knight Minotaur
-44,Creature,Rare,Earth Knight Griffin
+==================,DECK,7616
+0,Artifact,Ghost Wand
+1,Spell,Fury
+2,Creature,Paladin
+3,Enchantment,Haste
+4,Creature,Light Fighter Cyclops
+5,Enchantment,Drain
+6,Creature,Aura Rogue Goblin
+7,Creature,Earth Queen Goblin
+8,Creature,Light Lord Kraken
+9,Creature,Spider
+10,Artifact,Staff
+11,Creature,Troll
+12,Spell,Lightning
+13,Spell,Rage
+14,Enchantment,Invert
+15,Enchantment,Invert
+16,Creature,Death Warrior Cyclops
+17,Creature,Spider
+18,Artifact,Sigil
+19,Creature,Warlock
+20,Creature,Snow Undead Elf of the Eternal Land
+21,Creature,Aura Knight Orc
+22,Creature,Eagle
+23,Creature,Eagle
+24,Enchantment,Age
+25,Spell,Ice
+26,Creature,Death Undead Kraken
+27,Creature,Dark Knight Ogre of the West
+28,Creature,Light Grand Demon of the Sky
+29,Enchantment,Shrink
+30,Creature,Frozen Assassin Orc
+31,Enchantment,Miracle Shield
+32,Enchantment,Dire Shimmering Age
+33,Creature,Dark Priest Orc
+34,Creature,Ghoul
+35,Artifact,Nature Tome
+36,Creature,Ghoul
+37,Creature,Snow Warrior Dwarf of the West
+38,Creature,Frozen Monk Griffin
+39,Creature,Spider
+40,Artifact,Irate Cataclysmic Staff
+41,Creature,Death Undead Dwarf of the Bright Mountains
+42,Creature,Wolf
+43,Creature,Earth Knight Cyclops
+44,Creature,Earth Knight Griffin

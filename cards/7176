@@ -1,46 +1,46 @@
-==================,DECK,7176,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Paladin
-2,Enchantment,Common,Haste
-3,Artifact,Common,Sigil
-4,Creature,Legendary,Earth Lord Kraken of the Haven
-5,Spell,Common,Fury
-6,Creature,Common,Eagle
-7,Creature,Common,Magi
-8,Creature,Legendary,Frozen Priest Oni of the Swamp
-9,Creature,Legendary,Dark King Cyclops of the Swamp
-10,Enchantment,Common,Age
-11,Creature,Common,Paladin
-12,Enchantment,Rare,Miracle Blight
-13,Creature,Common,Dwarf
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Strength
-16,Creature,Common,Dwarf
-17,Creature,Mythic,Death Grand Wizard of the Dead
-18,Creature,Common,Paladin
-19,Enchantment,Common,Lethargy
-20,Enchantment,Common,Age
-21,Spell,Common,Sorrow
-22,Creature,Rare,Snow King Minotaur
-23,Creature,Common,Elf
-24,Creature,Common,Ghoul
-25,Spell,Mythic,Instant Assault
-26,Creature,Common,Ghoul
-27,Spell,Mythic,Clever Invisibility
-28,Enchantment,Common,Invert
-29,Creature,Legendary,Death Lord Kraken of the Mountains
-30,Enchantment,Legendary,Intense Shield
-31,Creature,Common,Warlock
-32,Creature,Common,Goblin
-33,Creature,Common,Ghoul
-34,Enchantment,Common,Flight
-35,Enchantment,Rare,Shimmering Drain
-36,Creature,Legendary,Dark Assassin Orge of the Swamp
-37,Spell,Common,Ice
-38,Creature,Rare,Frozen Monk Hydra
-39,Creature,Common,Wolf
-40,Creature,Common,Orc
-41,Enchantment,Common,Shade
-42,Creature,Common,Ghoul
-43,Creature,Rare,Aura Knight Berserker
-44,Spell,Rare,Gloom Revive
+==================,DECK,7176
+0,Creature,Spider
+1,Creature,Troll
+2,Enchantment,Flight
+3,Artifact,Sigil
+4,Creature,Earth Lord Ogre of the Haven
+5,Spell,Assault
+6,Creature,Eagle
+7,Creature,Fairy
+8,Creature,Frozen Priest Oni of the Swamp
+9,Creature,Dark King Giant of the Swamp
+10,Enchantment,Firebreath
+11,Creature,Troll
+12,Enchantment,Nimble Drain
+13,Creature,Magi
+14,Enchantment,Agony
+15,Enchantment,Lethargy
+16,Creature,Magi
+17,Creature,Death Grand Wizard of the Dead
+18,Creature,Troll
+19,Enchantment,Drain
+20,Enchantment,Blight
+21,Spell,Tempest
+22,Creature,Snow King Cyclops
+23,Creature,Warlock
+24,Creature,Ghoul
+25,Spell,Dire Shimmering Lightning
+26,Creature,Ghoul
+27,Spell,Irate Life Wall
+28,Enchantment,Age
+29,Creature,Death Lord Ogre of the Mountains
+30,Enchantment,Instant Nature Strength
+31,Creature,Berserker
+32,Creature,Skin-Walker
+33,Creature,Ghoul
+34,Enchantment,Agony
+35,Enchantment,Forged Deathgrip
+36,Creature,Dark Assassin Elf of the Swamp
+37,Spell,Burn
+38,Creature,Frozen Monk Hydra
+39,Creature,Wolf
+40,Creature,Spider
+41,Enchantment,Lethargy
+42,Creature,Ghoul
+43,Creature,Aura Knight Goblin
+44,Spell,Lunar Burn

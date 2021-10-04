@@ -1,46 +1,46 @@
-==================,DECK,6309,Light
-0,Creature,Common,Orc
-1,Creature,Mythic,Aura Time Phoenix of the Light
-2,Enchantment,Rare,Forged Alacrity
-3,Spell,Common,Gravitation
-4,Creature,Common,Magi
-5,Enchantment,Common,Shade
-6,Creature,Common,Elf
-7,Enchantment,Common,Deathgrip
-8,Creature,Common,Orc
-9,Enchantment,Common,Lethargy
-10,Creature,Rare,Frozen Fighter Berserker
-11,Creature,Common,Eagle
-12,Spell,Legendary,Instant Lightning
-13,Enchantment,Mythic,Clever Flight
-14,Enchantment,Common,Agony
-15,Enchantment,Rare,Corpse Shield
-16,Artifact,Common,Staff
-17,Enchantment,Mythic,Urgent Blight
-18,Spell,Common,Sorrow
-19,Creature,Legendary,Snow Monk Orge of the Border
-20,Creature,Common,Ghoul
-21,Creature,Common,Warlock
-22,Creature,Common,Paladin
-23,Enchantment,Legendary,Intense Strength
-24,Artifact,Common,Sword
-25,Creature,Rare,Death King Minotaur
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Dwarf
-28,Spell,Common,Frenzy
-29,Creature,Common,Magi
-30,Creature,Common,Goblin
-31,Creature,Common,Warlock
-32,Creature,Common,Dwarf
-33,Creature,Common,Paladin
-34,Artifact,Rare,Forged Ring
-35,Spell,Common,Ice
-36,Spell,Rare,Lunar Burst
-37,Artifact,Common,Divine Robe
-38,Artifact,Common,Bracers
-39,Creature,Common,Wolf
-40,Artifact,Common,Sword
-41,Artifact,Legendary,Instant Ring
-42,Spell,Rare,Gloom Lightning
-43,Creature,Common,Paladin
-44,Creature,Rare,Frozen Rogue Griffin
+==================,DECK,6309
+0,Creature,Spider
+1,Creature,Aura Time Phoenix of the Light
+2,Enchantment,Dark Alacrity
+3,Spell,Maelstrom
+4,Creature,Fairy
+5,Enchantment,Haste
+6,Creature,Warlock
+7,Enchantment,Alacrity
+8,Creature,Spider
+9,Enchantment,Haste
+10,Creature,Frozen Fighter Goblin
+11,Creature,Eagle
+12,Spell,Irate Solar Heal
+13,Enchantment,Zealous Grim Blight
+14,Enchantment,Haste
+15,Enchantment,Nature Agony
+16,Artifact,Staff
+17,Enchantment,Empyrean Solar Age
+18,Spell,Assault
+19,Creature,Snow Monk Elf of the Border
+20,Creature,Ghoul
+21,Creature,Berserker
+22,Creature,Troll
+23,Enchantment,Instant Solar Strength
+24,Artifact,Sword
+25,Creature,Death King Cyclops
+26,Enchantment,Firebreath
+27,Creature,Magi
+28,Spell,Burn
+29,Creature,Fairy
+30,Creature,Skin-Walker
+31,Creature,Berserker
+32,Creature,Magi
+33,Creature,Troll
+34,Artifact,Chimeric Ring
+35,Spell,Invisibility
+36,Spell,Lunar Lightning
+37,Artifact,Divine Robe
+38,Artifact,Bracers
+39,Creature,Wolf
+40,Artifact,Sword
+41,Artifact,Instant Necro Ring
+42,Spell,Sorrow Infuriate
+43,Creature,Troll
+44,Creature,Frozen Rogue Griffin

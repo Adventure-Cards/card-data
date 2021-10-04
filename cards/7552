@@ -1,46 +1,46 @@
-==================,DECK,7552,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Wolf
-2,Artifact,Common,Staff
-3,Enchantment,Mythic,Clever Blight
-4,Spell,Common,Invisibility
-5,Creature,Common,Wolf
-6,Spell,Common,Stun
-7,Spell,Common,Burn
-8,Artifact,Common,Helm
-9,Enchantment,Common,Shade
-10,Artifact,Common,Gauntlet
-11,Creature,Rare,Frozen Undead Hydra
-12,Spell,Common,Sorrow
-13,Creature,Legendary,Snow Lord Orge of the Plains
-14,Creature,Common,Ghoul
-15,Creature,Common,Warlock
-16,Enchantment,Common,Blight
-17,Spell,Rare,Grim Lightning
-18,Spell,Rare,Nimble Assault
-19,Creature,Rare,Dark Warrior Hydra
-20,Creature,Common,Goblin
-21,Creature,Common,Orc
-22,Creature,Legendary,Earth Assassin Oni of the Bright Mountains
-23,Enchantment,Common,Drain
-24,Spell,Common,Stricken
-25,Spell,Rare,Gloom Frost
-26,Creature,Mythic,Light Nameless Dragon of the Sky
-27,Creature,Rare,Earth Lord Skin-Walker
-28,Spell,Common,Frost
-29,Creature,Common,Eagle
-30,Creature,Common,Orc
-31,Creature,Rare,Light Priest Skin-Walker
-32,Creature,Common,Orc
-33,Creature,Common,Wolf
-34,Creature,Common,Spider
-35,Artifact,Common,Scepter
-36,Creature,Rare,Dark Fighter Griffin
-37,Creature,Legendary,Frozen Monk Cyclops of the Low Hills
-38,Artifact,Common,Greaves
-39,Creature,Rare,Frozen Warrior Skin-Walker
-40,Creature,Rare,Death Knight Hydra
-41,Artifact,Rare,Forged Cloak
-42,Enchantment,Common,Alacrity
-43,Creature,Common,Spider
-44,Creature,Common,Elf
+==================,DECK,7552
+0,Creature,Berserker
+1,Creature,Wolf
+2,Artifact,Staff
+3,Enchantment,Clever Nimble Haste
+4,Spell,Fireball
+5,Creature,Wolf
+6,Spell,Wall
+7,Spell,Gravitation
+8,Artifact,Helm
+9,Enchantment,Invert
+10,Artifact,Gauntlet
+11,Creature,Frozen Undead Hydra
+12,Spell,Freeze
+13,Creature,Snow Lord Elf of the Plains
+14,Creature,Ghoul
+15,Creature,Berserker
+16,Enchantment,Flight
+17,Spell,Oblivion Infuriate
+18,Spell,Forged Fury
+19,Creature,Dark Warrior Hydra
+20,Creature,Skin-Walker
+21,Creature,Spider
+22,Creature,Earth Assassin Oni of the Bright Mountains
+23,Enchantment,Alacrity
+24,Spell,Burn
+25,Spell,Dark Pandemonium
+26,Creature,Light Nameless Dragon of the Sky
+27,Creature,Earth Lord Orc
+28,Spell,Frenzy
+29,Creature,Eagle
+30,Creature,Spider
+31,Creature,Light Priest Orc
+32,Creature,Spider
+33,Creature,Wolf
+34,Creature,Paladin
+35,Artifact,Scepter
+36,Creature,Dark Fighter Griffin
+37,Creature,Frozen Monk Giant of the Low Hills
+38,Artifact,Greaves
+39,Creature,Frozen Warrior Orc
+40,Creature,Death Knight Hydra
+41,Artifact,Lunar Cloak
+42,Enchantment,Firebreath
+43,Creature,Paladin
+44,Creature,Warlock

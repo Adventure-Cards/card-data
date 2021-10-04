@@ -1,46 +1,46 @@
-==================,DECK,5870,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Elf
-2,Creature,Legendary,Death Merchant Oni of the Magical Forest
-3,Creature,Common,Goblin
-4,Creature,Rare,Snow Merchant Hydra
-5,Creature,Rare,Death Lord Minotaur
-6,Artifact,Common,Sword
-7,Creature,Common,Magi
-8,Creature,Rare,Snow Undead Griffin
-9,Artifact,Common,Helmet
-10,Creature,Rare,Death Merchant Skin-Walker
-11,Creature,Common,Paladin
-12,Enchantment,Common,Deathgrip
-13,Enchantment,Legendary,Clever Shade
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Eagle
-17,Spell,Common,Infuriate
-18,Creature,Rare,Light Knight Fairy
-19,Creature,Common,Elf
-20,Enchantment,Rare,Gloom Agony
-21,Creature,Common,Ghoul
-22,Enchantment,Rare,Hateful Drain
-23,Enchantment,Common,Blight
-24,Spell,Common,Burst
-25,Artifact,Legendary,Intense Ring
-26,Artifact,Common,Amulet
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Spider
-29,Creature,Common,Orc
-30,Spell,Common,Vortex
-31,Artifact,Common,Scythe
-32,Enchantment,Common,Shield
-33,Creature,Common,Eagle
-34,Creature,Legendary,Earth Fighter Kraken of the Mountains
-35,Creature,Rare,Frozen Assassin Berserker
-36,Creature,Common,Wolf
-37,Creature,Rare,Earth Undead Berserker
-38,Creature,Mythic,Snow Nameless Dragon of Hate
-39,Spell,Common,Heal
-40,Enchantment,Common,Invert
-41,Creature,Rare,Death Merchant Berserker
-42,Creature,Common,Magi
-43,Creature,Common,Wolf
-44,Enchantment,Common,Strength
+==================,DECK,5870
+0,Creature,Fairy
+1,Creature,Warlock
+2,Creature,Death Merchant Oni of the Magical Forest
+3,Creature,Skin-Walker
+4,Creature,Snow Merchant Hydra
+5,Creature,Death Lord Cyclops
+6,Artifact,Sword
+7,Creature,Fairy
+8,Creature,Snow Undead Griffin
+9,Artifact,Helmet
+10,Creature,Death Merchant Orc
+11,Creature,Troll
+12,Enchantment,Alacrity
+13,Enchantment,Instant Frigid Drain
+14,Creature,Magi
+15,Enchantment,Strength
+16,Creature,Eagle
+17,Spell,Lightning
+18,Creature,Light Knight Kraken
+19,Creature,Warlock
+20,Enchantment,Miracle Shield
+21,Creature,Ghoul
+22,Enchantment,Dark Shrink
+23,Enchantment,Shade
+24,Spell,Hypnosis
+25,Artifact,Potent Shimmering Ring
+26,Artifact,Amulet
+27,Enchantment,Shrink
+28,Creature,Paladin
+29,Creature,Spider
+30,Spell,Frenzy
+31,Artifact,Scythe
+32,Enchantment,Lethargy
+33,Creature,Eagle
+34,Creature,Earth Fighter Ogre of the Mountains
+35,Creature,Frozen Assassin Goblin
+36,Creature,Wolf
+37,Creature,Earth Undead Goblin
+38,Creature,Snow Nameless Dragon of Hate
+39,Spell,Gravitation
+40,Enchantment,Strength
+41,Creature,Death Merchant Goblin
+42,Creature,Fairy
+43,Creature,Wolf
+44,Enchantment,Firebreath

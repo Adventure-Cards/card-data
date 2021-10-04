@@ -1,46 +1,46 @@
-==================,DECK,4356,Light
-0,Creature,Legendary,Aura Undead Orge of the Black Stone
-1,Creature,Common,Spider
-2,Creature,Common,Goblin
-3,Creature,Common,Wolf
-4,Creature,Common,Elf
-5,Artifact,Legendary,Intense Ghost Wand
-6,Creature,Common,Goblin
-7,Enchantment,Mythic,Mighty Shade
-8,Creature,Rare,Frozen Assassin Skin-Walker
-9,Spell,Rare,Oblivion Gravitation
-10,Spell,Rare,Grim Gravitation
-11,Enchantment,Rare,Nimble Agony
-12,Spell,Common,Burn
-13,Creature,Rare,Light Lord Skin-Walker
-14,Creature,Common,Paladin
-15,Enchantment,Common,Shrink
-16,Creature,Mythic,Aura Nameless Phoenix of the Light
-17,Artifact,Common,Pendant
-18,Enchantment,Rare,Life Age
-19,Enchantment,Common,Invert
-20,Enchantment,Common,Shield
-21,Enchantment,Common,Age
-22,Creature,Common,Paladin
-23,Creature,Common,Goblin
-24,Spell,Legendary,Intense Revive
-25,Spell,Common,Assault
-26,Creature,Common,Eagle
-27,Creature,Rare,Dark Warrior Berserker
-28,Spell,Common,Lightning
-29,Spell,Common,Wall
-30,Creature,Common,Dwarf
-31,Spell,Common,Pandemonium
-32,Creature,Common,Wolf
-33,Creature,Rare,Death Queen Berserker
-34,Creature,Common,Elf
-35,Spell,Rare,Nimble Gravitation
-36,Creature,Legendary,Death Assassin Oni of the Plains
-37,Enchantment,Common,Shade
-38,Spell,Common,Freeze
-39,Spell,Common,Heal
-40,Enchantment,Common,Lethargy
-41,Creature,Common,Wolf
-42,Enchantment,Common,Blight
-43,Enchantment,Common,Flight
-44,Spell,Rare,Dark Heal
+==================,DECK,4356
+0,Creature,Aura Undead Elf of the Black Stone
+1,Creature,Paladin
+2,Creature,Skin-Walker
+3,Creature,Wolf
+4,Creature,Warlock
+5,Artifact,Mighty Shimmering Ghost Wand
+6,Creature,Skin-Walker
+7,Enchantment,Dire Chimeric Firebreath
+8,Creature,Frozen Assassin Orc
+9,Spell,Life Torment
+10,Spell,Oblivion Frost
+11,Enchantment,Corpse Strength
+12,Spell,Torment
+13,Creature,Light Lord Orc
+14,Creature,Troll
+15,Enchantment,Age
+16,Creature,Aura Nameless Phoenix of the Light
+17,Artifact,Pendant
+18,Enchantment,Victory Blight
+19,Enchantment,Shrink
+20,Enchantment,Firebreath
+21,Enchantment,Shrink
+22,Creature,Troll
+23,Creature,Skin-Walker
+24,Spell,Urgent Shimmering Assault
+25,Spell,Wall
+26,Creature,Eagle
+27,Creature,Dark Warrior Goblin
+28,Spell,Pandemonium
+29,Spell,Stun
+30,Creature,Magi
+31,Spell,Vortex
+32,Creature,Wolf
+33,Creature,Death Queen Goblin
+34,Creature,Warlock
+35,Spell,Forged Burn
+36,Creature,Death Assassin Oni of the Plains
+37,Enchantment,Shade
+38,Spell,Lightning
+39,Spell,Fire
+40,Enchantment,Shade
+41,Creature,Wolf
+42,Enchantment,Lethargy
+43,Enchantment,Invert
+44,Spell,Miracle Gale

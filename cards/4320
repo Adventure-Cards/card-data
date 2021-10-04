@@ -1,46 +1,46 @@
-==================,DECK,4320,Light
-0,Creature,Common,Warlock
-1,Creature,Mythic,Frozen Nameless Phoenix of the Void
-2,Enchantment,Common,Flight
-3,Artifact,Common,Greaves
-4,Creature,Common,Goblin
-5,Spell,Common,Invisibility
-6,Artifact,Rare,Dark Potion
-7,Creature,Common,Orc
-8,Spell,Common,Burn
-9,Creature,Rare,Death Priest Griffin
-10,Spell,Common,Revive
-11,Creature,Common,Ghoul
-12,Creature,Mythic,Death Time Phoenix of the Dead
-13,Creature,Legendary,Death Warrior Giant of the Arctic Blizzards
-14,Creature,Common,Spider
-15,Creature,Common,Eagle
-16,Enchantment,Legendary,Extreme Age
-17,Creature,Rare,Death Queen Minotaur
-18,Artifact,Common,Amulet
-19,Spell,Rare,Dark Revive
-20,Spell,Common,Sorrow
-21,Creature,Common,Wolf
-22,Creature,Common,Wolf
-23,Enchantment,Rare,Lunar Deathgrip
-24,Creature,Common,Paladin
-25,Creature,Common,Wolf
-26,Creature,Common,Orc
-27,Creature,Common,Goblin
-28,Creature,Rare,Earth Knight Berserker
-29,Creature,Common,Eagle
-30,Spell,Rare,Cataclysmic Sorrow
-31,Spell,Common,Fury
-32,Creature,Rare,Aura Monk Fairy
-33,Spell,Common,Assault
-34,Artifact,Common,Scythe
-35,Creature,Legendary,Earth Assassin Cyclops of the Black Stone
-36,Creature,Mythic,Earth Time Dragon of the Shadows
-37,Artifact,Rare,Corpse Scythe
-38,Artifact,Common,Divine Robe
-39,Spell,Rare,Gloom Rage
-40,Artifact,Common,Gloves
-41,Artifact,Common,Staff
-42,Creature,Common,Warlock
-43,Enchantment,Common,Alacrity
-44,Enchantment,Legendary,Potent Invert
+==================,DECK,4320
+0,Creature,Berserker
+1,Creature,Frozen Nameless Phoenix of the Void
+2,Enchantment,Blight
+3,Artifact,Greaves
+4,Creature,Skin-Walker
+5,Spell,Lightning
+6,Artifact,Lunar Potion
+7,Creature,Spider
+8,Spell,Vortex
+9,Creature,Death Priest Griffin
+10,Spell,Infuriate
+11,Creature,Ghoul
+12,Creature,Death Time Phoenix of the Dead
+13,Creature,Death Warrior Dwarf of the Arctic Blizzards
+14,Creature,Paladin
+15,Creature,Eagle
+16,Enchantment,Zealous Gloom Alacrity
+17,Creature,Death Queen Cyclops
+18,Artifact,Amulet
+19,Spell,Lunar Burst
+20,Spell,Burn
+21,Creature,Wolf
+22,Creature,Wolf
+23,Enchantment,Sorrow Flight
+24,Creature,Troll
+25,Creature,Wolf
+26,Creature,Spider
+27,Creature,Skin-Walker
+28,Creature,Earth Knight Goblin
+29,Creature,Eagle
+30,Spell,Dark Freeze
+31,Spell,Vortex
+32,Creature,Aura Monk Kraken
+33,Spell,Stricken
+34,Artifact,Scythe
+35,Creature,Earth Assassin Giant of the Black Stone
+36,Creature,Earth Time Dragon of the Shadows
+37,Artifact,Hateful Scythe
+38,Artifact,Divine Robe
+39,Spell,Chimeric Pandemonium
+40,Artifact,Gloves
+41,Artifact,Staff
+42,Creature,Berserker
+43,Enchantment,Agony
+44,Enchantment,Urgent Oblivion Invert

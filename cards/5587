@@ -1,46 +1,46 @@
-==================,DECK,5587,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Vortex
-2,Creature,Legendary,Frozen Lord Oni of the Eternal Land
-3,Enchantment,Common,Shade
-4,Enchantment,Common,Invert
-5,Creature,Common,Ghoul
-6,Creature,Common,Elf
-7,Creature,Common,Eagle
-8,Spell,Rare,Life Gale
-9,Spell,Common,Infuriate
-10,Spell,Rare,Dark Lightning
-11,Creature,Legendary,Snow Monk Orge of the Low Hills
-12,Spell,Common,Frost
-13,Artifact,Common,Helm
-14,Creature,Common,Magi
-15,Enchantment,Common,Flight
-16,Artifact,Common,Potion
-17,Creature,Common,Orc
-18,Creature,Common,Paladin
-19,Artifact,Rare,Dark Shield
-20,Creature,Common,Magi
-21,Creature,Common,Dwarf
-22,Creature,Common,Warlock
-23,Enchantment,Common,Flight
-24,Creature,Common,Wolf
-25,Creature,Rare,Earth King Griffin
-26,Spell,Rare,Lunar Stun
-27,Creature,Common,Warlock
-28,Creature,Common,Paladin
-29,Spell,Common,Freeze
-30,Creature,Common,Ghoul
-31,Creature,Legendary,Death Assassin Kraken of the Mountains
-32,Spell,Common,Hypnosis
-33,Creature,Common,Magi
-34,Creature,Rare,Dark Fighter Skin-Walker
-35,Enchantment,Common,Haste
-36,Spell,Rare,Grim Rage
-37,Creature,Legendary,Aura Merchant Giant of the Frozen Castle
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Shrink
-40,Creature,Common,Wolf
-41,Creature,Common,Paladin
-42,Enchantment,Common,Invert
-43,Creature,Common,Orc
-44,Creature,Mythic,Frozen Undead Dragon of the Void
+==================,DECK,5587
+0,Creature,Wolf
+1,Spell,Vortex
+2,Creature,Frozen Lord Oni of the Eternal Land
+3,Enchantment,Deathgrip
+4,Enchantment,Shrink
+5,Creature,Ghoul
+6,Creature,Warlock
+7,Creature,Eagle
+8,Spell,Frigid Tempest
+9,Spell,Rage
+10,Spell,Sorrow Burn
+11,Creature,Snow Monk Elf of the Low Hills
+12,Spell,Torment
+13,Artifact,Helm
+14,Creature,Fairy
+15,Enchantment,Deathgrip
+16,Artifact,Potion
+17,Creature,Spider
+18,Creature,Troll
+19,Artifact,Chimeric Shield
+20,Creature,Fairy
+21,Creature,Magi
+22,Creature,Berserker
+23,Enchantment,Invert
+24,Creature,Wolf
+25,Creature,Earth King Griffin
+26,Spell,Dark Gravitation
+27,Creature,Berserker
+28,Creature,Troll
+29,Spell,Assault
+30,Creature,Ghoul
+31,Creature,Death Assassin Ogre of the Mountains
+32,Spell,Revive
+33,Creature,Fairy
+34,Creature,Dark Fighter Orc
+35,Enchantment,Drain
+36,Spell,Oblivion Sorrow
+37,Creature,Aura Merchant Dwarf of the Frozen Castle
+38,Creature,Ghoul
+39,Enchantment,Strength
+40,Creature,Wolf
+41,Creature,Troll
+42,Enchantment,Shrink
+43,Creature,Spider
+44,Creature,Frozen Undead Dragon of the Void

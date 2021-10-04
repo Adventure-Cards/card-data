@@ -1,46 +1,46 @@
-==================,DECK,6757,Light
-0,Creature,Common,Magi
-1,Creature,Legendary,Light Lord Giant of the Frozen Castle
-2,Creature,Legendary,Light Undead Giant of the Border
-3,Creature,Common,Wolf
-4,Creature,Common,Ghoul
-5,Creature,Common,Spider
-6,Creature,Legendary,Dark Queen Orge of the Frozen Castle
-7,Creature,Common,Dwarf
-8,Spell,Common,Torment
-9,Creature,Common,Ghoul
-10,Creature,Rare,Death Merchant Berserker
-11,Enchantment,Common,Lethargy
-12,Artifact,Common,Ghost Wand
-13,Enchantment,Rare,Oblivion Strength
-14,Enchantment,Common,Age
-15,Creature,Common,Paladin
-16,Creature,Legendary,Snow Rogue Orge of the Black Stone
-17,Creature,Common,Dwarf
-18,Creature,Common,Elf
-19,Spell,Common,Rage
-20,Enchantment,Mythic,Instant Haste
-21,Creature,Common,Warlock
-22,Spell,Rare,Apocalypse Burst
-23,Creature,Common,Paladin
-24,Creature,Common,Warlock
-25,Spell,Common,Freeze
-26,Spell,Common,Freeze
-27,Creature,Rare,Dark Priest Fairy
-28,Artifact,Common,Helmet
-29,Enchantment,Common,Shade
-30,Creature,Common,Eagle
-31,Spell,Legendary,Dire Revive
-32,Creature,Common,Magi
-33,Spell,Common,Revive
-34,Spell,Common,Revive
-35,Creature,Common,Magi
-36,Spell,Common,Gravitation
-37,Creature,Legendary,Aura Assassin Oni of the Eternal Land
-38,Creature,Common,Goblin
-39,Creature,Common,Warlock
-40,Creature,Common,Eagle
-41,Spell,Rare,Cataclysmic Reanimate
-42,Creature,Common,Ghoul
-43,Creature,Rare,Aura Monk Skin-Walker
-44,Artifact,Legendary,Potent Ring
+==================,DECK,6757
+0,Creature,Fairy
+1,Creature,Light Lord Dwarf of the Frozen Castle
+2,Creature,Light Undead Dwarf of the Border
+3,Creature,Wolf
+4,Creature,Ghoul
+5,Creature,Paladin
+6,Creature,Dark Queen Elf of the Frozen Castle
+7,Creature,Magi
+8,Spell,Pandemonium
+9,Creature,Ghoul
+10,Creature,Death Merchant Goblin
+11,Enchantment,Blight
+12,Artifact,Ghost Wand
+13,Enchantment,Nimble Drain
+14,Enchantment,Firebreath
+15,Creature,Troll
+16,Creature,Snow Rogue Elf of the Black Stone
+17,Creature,Magi
+18,Creature,Warlock
+19,Spell,Invisibility
+20,Enchantment,Clever Corpse Lethargy
+21,Creature,Berserker
+22,Spell,Grim Freeze
+23,Creature,Troll
+24,Creature,Berserker
+25,Spell,Fireball
+26,Spell,Vortex
+27,Creature,Dark Priest Kraken
+28,Artifact,Helmet
+29,Enchantment,Age
+30,Creature,Eagle
+31,Spell,Irate Frigid Lightning
+32,Creature,Fairy
+33,Spell,Reanimate
+34,Spell,Rage
+35,Creature,Fairy
+36,Spell,Revive
+37,Creature,Aura Assassin Oni of the Eternal Land
+38,Creature,Skin-Walker
+39,Creature,Berserker
+40,Creature,Eagle
+41,Spell,Sorrow Wall
+42,Creature,Ghoul
+43,Creature,Aura Monk Orc
+44,Artifact,Clever Oblivion Ring

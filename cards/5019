@@ -1,46 +1,46 @@
-==================,DECK,5019,Light
-0,Creature,Rare,Aura Lord Minotaur
-1,Creature,Mythic,Frozen Grand Demon of the Void
-2,Creature,Common,Orc
-3,Creature,Common,Ghoul
-4,Creature,Common,Magi
-5,Creature,Rare,Light Queen Griffin
-6,Creature,Legendary,Frozen Thief Giant of the Eternal Land
-7,Creature,Legendary,Snow Queen Cyclops of the Eastern Skies
-8,Creature,Common,Warlock
-9,Creature,Legendary,Death Undead Orge of the Mountains
-10,Enchantment,Rare,Frigid Shield
-11,Creature,Common,Paladin
-12,Creature,Common,Dwarf
-13,Creature,Rare,Earth Fighter Minotaur
-14,Enchantment,Common,Shield
-15,Creature,Legendary,Light Assassin Giant of the Low Hills
-16,Creature,Common,Orc
-17,Spell,Common,Burst
-18,Creature,Common,Magi
-19,Creature,Rare,Aura Queen Minotaur
-20,Creature,Common,Ghoul
-21,Enchantment,Mythic,Instant Agony
-22,Creature,Common,Dwarf
-23,Enchantment,Common,Agony
-24,Creature,Rare,Frozen Monk Fairy
-25,Spell,Common,Sorrow
-26,Artifact,Rare,Corpse Cloak
-27,Creature,Rare,Death Thief Minotaur
-28,Creature,Common,Ghoul
-29,Spell,Common,Stricken
-30,Creature,Common,Magi
-31,Creature,Common,Warlock
-32,Creature,Mythic,Death Chaos Wizard of the Dead
-33,Enchantment,Common,Deathgrip
-34,Enchantment,Mythic,Instant Deathgrip
-35,Creature,Common,Eagle
-36,Creature,Common,Elf
-37,Enchantment,Mythic,Angry Flight
-38,Enchantment,Common,Strength
-39,Creature,Legendary,Death Monk Kraken of the Eastern Skies
-40,Artifact,Legendary,Clever Crown
-41,Creature,Rare,Aura Queen Minotaur
-42,Creature,Mythic,Dark Grand Wizard of Illusion
-43,Spell,Common,Freeze
-44,Spell,Common,Burst
+==================,DECK,5019
+0,Creature,Aura Lord Cyclops
+1,Creature,Frozen Grand Demon of the Void
+2,Creature,Spider
+3,Creature,Ghoul
+4,Creature,Fairy
+5,Creature,Light Queen Griffin
+6,Creature,Frozen Thief Dwarf of the Eternal Land
+7,Creature,Snow Queen Giant of the Eastern Skies
+8,Creature,Berserker
+9,Creature,Death Undead Elf of the Mountains
+10,Enchantment,Victory Haste
+11,Creature,Troll
+12,Creature,Magi
+13,Creature,Earth Fighter Cyclops
+14,Enchantment,Firebreath
+15,Creature,Light Assassin Dwarf of the Low Hills
+16,Creature,Spider
+17,Spell,Invisibility
+18,Creature,Fairy
+19,Creature,Aura Queen Cyclops
+20,Creature,Ghoul
+21,Enchantment,Urgent Corpse Agony
+22,Creature,Magi
+23,Enchantment,Invert
+24,Creature,Frozen Monk Kraken
+25,Spell,Fireball
+26,Artifact,Solar Cloak
+27,Creature,Death Thief Cyclops
+28,Creature,Ghoul
+29,Spell,Burn
+30,Creature,Fairy
+31,Creature,Berserker
+32,Creature,Death Chaos Wizard of the Dead
+33,Enchantment,Age
+34,Enchantment,Potent Shimmering Strength
+35,Creature,Eagle
+36,Creature,Warlock
+37,Enchantment,Mighty Lunar Flight
+38,Enchantment,Haste
+39,Creature,Death Monk Ogre of the Eastern Skies
+40,Artifact,Zealous Life Crown
+41,Creature,Aura Queen Cyclops
+42,Creature,Dark Grand Wizard of Illusion
+43,Spell,Invisibility
+44,Spell,Burst

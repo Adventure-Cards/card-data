@@ -1,46 +1,46 @@
-==================,DECK,4468,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Warlock
-2,Enchantment,Mythic,Clever Strength
-3,Artifact,Common,Belt
-4,Spell,Common,Rage
-5,Creature,Rare,Aura Fighter Berserker
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Paladin
-8,Creature,Common,Ghoul
-9,Artifact,Common,Crown
-10,Creature,Common,Goblin
-11,Artifact,Rare,Dark Tome
-12,Spell,Common,Ice
-13,Spell,Common,Invisibility
-14,Spell,Common,Stricken
-15,Spell,Common,Ice
-16,Enchantment,Legendary,Extreme Shield
-17,Artifact,Rare,Frigid Ring
-18,Spell,Common,Stricken
-19,Creature,Rare,Aura King Skin-Walker
-20,Creature,Rare,Earth Merchant Skin-Walker
-21,Creature,Mythic,Death Undead Phoenix of the Dead
-22,Spell,Common,Ice
-23,Enchantment,Rare,Oblivion Strength
-24,Spell,Common,Burn
-25,Creature,Legendary,Snow Undead Oni of the Black Stone
-26,Enchantment,Common,Agony
-27,Creature,Rare,Light Knight Griffin
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Frigid Alacrity
-30,Enchantment,Common,Invert
-31,Creature,Common,Paladin
-32,Spell,Rare,Corpse Assault
-33,Creature,Common,Elf
-34,Spell,Rare,Oblivion Heal
-35,Spell,Rare,Corpse Freeze
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Wolf
-38,Creature,Common,Orc
-39,Creature,Rare,Frozen Assassin Hydra
-40,Enchantment,Common,Blight
-41,Creature,Rare,Aura Warrior Hydra
-42,Spell,Common,Frenzy
-43,Creature,Common,Goblin
-44,Creature,Rare,Aura King Fairy
+==================,DECK,4468
+0,Creature,Ghoul
+1,Creature,Berserker
+2,Enchantment,Dire Nimble Shade
+3,Artifact,Belt
+4,Spell,Tempest
+5,Creature,Aura Fighter Goblin
+6,Enchantment,Drain
+7,Creature,Troll
+8,Creature,Ghoul
+9,Artifact,Crown
+10,Creature,Skin-Walker
+11,Artifact,Gloom Tome
+12,Spell,Burst
+13,Spell,Tempest
+14,Spell,Invisibility
+15,Spell,Maelstrom
+16,Enchantment,Dire Gloom Firebreath
+17,Artifact,Frigid Ring
+18,Spell,Tempest
+19,Creature,Aura King Orc
+20,Creature,Earth Merchant Orc
+21,Creature,Death Undead Phoenix of the Dead
+22,Spell,Sorrow
+23,Enchantment,Nimble Haste
+24,Spell,Frost
+25,Creature,Snow Undead Oni of the Black Stone
+26,Enchantment,Blight
+27,Creature,Light Knight Griffin
+28,Creature,Magi
+29,Enchantment,Apocalypse Haste
+30,Enchantment,Invert
+31,Creature,Troll
+32,Spell,Hateful Revive
+33,Creature,Warlock
+34,Spell,Frigid Burst
+35,Spell,Hateful Burst
+36,Enchantment,Shield
+37,Creature,Wolf
+38,Creature,Spider
+39,Creature,Frozen Assassin Hydra
+40,Enchantment,Shade
+41,Creature,Aura Warrior Hydra
+42,Spell,Infuriate
+43,Creature,Skin-Walker
+44,Creature,Aura King Kraken

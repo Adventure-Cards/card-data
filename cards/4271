@@ -1,46 +1,46 @@
-==================,DECK,4271,Medium
-0,Creature,Common,Ghoul
-1,Artifact,Common,Pendant
-2,Enchantment,Common,Age
-3,Creature,Rare,Light Monk Hydra
-4,Artifact,Rare,Nimble Scythe
-5,Creature,Rare,Earth Lord Fairy
-6,Enchantment,Common,Invert
-7,Creature,Common,Spider
-8,Enchantment,Mythic,Mighty Age
-9,Creature,Common,Eagle
-10,Creature,Common,Eagle
-11,Spell,Common,Invisibility
-12,Artifact,Rare,Apocalypse Scythe
-13,Enchantment,Common,Shield
-14,Creature,Common,Dwarf
-15,Creature,Mythic,Snow Chaos Demon of Hate
-16,Creature,Common,Eagle
-17,Creature,Rare,Death Queen Fairy
-18,Enchantment,Rare,Nature Blight
-19,Enchantment,Legendary,Mighty Shrink
-20,Spell,Common,Invisibility
-21,Creature,Common,Wolf
-22,Enchantment,Rare,Nimble Shade
-23,Spell,Legendary,Dire Freeze
-24,Spell,Legendary,Instant Rage
-25,Artifact,Common,Helmet
-26,Enchantment,Common,Lethargy
-27,Spell,Rare,Lunar Maelstrom
-28,Creature,Common,Goblin
-29,Creature,Common,Goblin
-30,Enchantment,Common,Flight
-31,Artifact,Rare,Shimmering Scythe
-32,Creature,Legendary,Aura Rogue Oni of the Magical Forest
-33,Creature,Rare,Frozen Lord Hydra
-34,Spell,Common,Burn
-35,Creature,Rare,Dark Rogue Minotaur
-36,Creature,Rare,Snow Priest Berserker
-37,Enchantment,Common,Drain
-38,Spell,Common,Gravitation
-39,Creature,Common,Eagle
-40,Creature,Common,Wolf
-41,Enchantment,Rare,Grim Invert
-42,Enchantment,Common,Invert
-43,Spell,Common,Vortex
-44,Artifact,Common,Bow
+==================,DECK,4271
+0,Creature,Ghoul
+1,Artifact,Pendant
+2,Enchantment,Firebreath
+3,Creature,Light Monk Hydra
+4,Artifact,Nature Scythe
+5,Creature,Earth Lord Kraken
+6,Enchantment,Shrink
+7,Creature,Paladin
+8,Enchantment,Empyrean Gloom Firebreath
+9,Creature,Eagle
+10,Creature,Eagle
+11,Spell,Gale
+12,Artifact,Oblivion Scythe
+13,Enchantment,Shrink
+14,Creature,Magi
+15,Creature,Snow Chaos Demon of Hate
+16,Creature,Eagle
+17,Creature,Death Queen Kraken
+18,Enchantment,Solar Strength
+19,Enchantment,Potent Chimeric Shrink
+20,Spell,Wall
+21,Creature,Wolf
+22,Enchantment,Necro Deathgrip
+23,Spell,Urgent Life Stun
+24,Spell,Instant Forged Gravitation
+25,Artifact,Helmet
+26,Enchantment,Invert
+27,Spell,Cataclysmic Torment
+28,Creature,Skin-Walker
+29,Creature,Skin-Walker
+30,Enchantment,Shade
+31,Artifact,Necro Scythe
+32,Creature,Aura Rogue Oni of the Magical Forest
+33,Creature,Frozen Lord Hydra
+34,Spell,Frost
+35,Creature,Dark Rogue Cyclops
+36,Creature,Snow Priest Goblin
+37,Enchantment,Strength
+38,Spell,Fireball
+39,Creature,Eagle
+40,Creature,Wolf
+41,Enchantment,Oblivion Shade
+42,Enchantment,Invert
+43,Spell,Stricken
+44,Artifact,Bow

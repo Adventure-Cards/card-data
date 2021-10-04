@@ -1,46 +1,46 @@
-==================,DECK,7362,Medium
-0,Spell,Common,Ice
-1,Spell,Rare,Oblivion Wall
-2,Creature,Common,Orc
-3,Creature,Rare,Earth Warrior Minotaur
-4,Creature,Rare,Earth Assassin Fairy
-5,Creature,Rare,Snow Assassin Hydra
-6,Creature,Rare,Frozen Queen Hydra
-7,Creature,Legendary,Death Thief Orge of the Low Hills
-8,Creature,Common,Warlock
-9,Enchantment,Rare,Solar Alacrity
-10,Creature,Legendary,Light Assassin Oni of the Frozen Castle
-11,Enchantment,Rare,Forged Invert
-12,Spell,Rare,Gloom Wall
-13,Spell,Rare,Forged Lightning
-14,Creature,Legendary,Aura Knight Giant of the Black Stone
-15,Spell,Common,Sorrow
-16,Creature,Mythic,Light Chaos Wizard of the Sky
-17,Creature,Common,Ghoul
-18,Creature,Rare,Aura Queen Berserker
-19,Enchantment,Mythic,Mighty Lethargy
-20,Spell,Common,Frenzy
-21,Creature,Rare,Earth Undead Skin-Walker
-22,Creature,Rare,Earth Undead Fairy
-23,Creature,Common,Dwarf
-24,Artifact,Common,Tome
-25,Artifact,Rare,Necro Divine Robe
-26,Creature,Legendary,Dark Lord Kraken of the Plains
-27,Artifact,Common,Helmet
-28,Creature,Common,Orc
-29,Creature,Common,Eagle
-30,Creature,Rare,Death King Berserker
-31,Creature,Common,Orc
-32,Creature,Rare,Dark Warrior Berserker
-33,Spell,Common,Stricken
-34,Creature,Legendary,Light Undead Oni of the Golden Palace
-35,Creature,Rare,Earth Undead Griffin
-36,Creature,Common,Eagle
-37,Creature,Common,Spider
-38,Enchantment,Common,Agony
-39,Creature,Common,Goblin
-40,Enchantment,Common,Drain
-41,Artifact,Rare,Lunar Sword
-42,Spell,Legendary,Intense Infuriate
-43,Spell,Legendary,Mighty Freeze
-44,Creature,Legendary,Snow Thief Cyclops of the West
+==================,DECK,7362
+0,Spell,Fire
+1,Spell,Grim Pandemonium
+2,Creature,Spider
+3,Creature,Earth Warrior Cyclops
+4,Creature,Earth Assassin Kraken
+5,Creature,Snow Assassin Hydra
+6,Creature,Frozen Queen Hydra
+7,Creature,Death Thief Elf of the Low Hills
+8,Creature,Berserker
+9,Enchantment,Forged Strength
+10,Creature,Light Assassin Oni of the Frozen Castle
+11,Enchantment,Sorrow Shield
+12,Spell,Gloom Pandemonium
+13,Spell,Chimeric Gravitation
+14,Creature,Aura Knight Dwarf of the Black Stone
+15,Spell,Tempest
+16,Creature,Light Chaos Wizard of the Sky
+17,Creature,Ghoul
+18,Creature,Aura Queen Goblin
+19,Enchantment,Irate Lunar Alacrity
+20,Spell,Infuriate
+21,Creature,Earth Undead Orc
+22,Creature,Earth Undead Kraken
+23,Creature,Magi
+24,Artifact,Tome
+25,Artifact,Forged Divine Robe
+26,Creature,Dark Lord Ogre of the Plains
+27,Artifact,Helmet
+28,Creature,Spider
+29,Creature,Eagle
+30,Creature,Death King Goblin
+31,Creature,Spider
+32,Creature,Dark Warrior Goblin
+33,Spell,Burst
+34,Creature,Light Undead Oni of the Golden Palace
+35,Creature,Earth Undead Griffin
+36,Creature,Eagle
+37,Creature,Paladin
+38,Enchantment,Haste
+39,Creature,Skin-Walker
+40,Enchantment,Alacrity
+41,Artifact,Chimeric Sword
+42,Spell,Mighty Forged Sorrow
+43,Spell,Instant Gloom Freeze
+44,Creature,Snow Thief Giant of the West

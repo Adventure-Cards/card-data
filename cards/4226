@@ -1,46 +1,46 @@
-==================,DECK,4226,Light
-0,Creature,Common,Spider
-1,Artifact,Common,Shield
-2,Creature,Rare,Earth Monk Griffin
-3,Artifact,Common,Belt
-4,Creature,Common,Magi
-5,Creature,Common,Ghoul
-6,Creature,Common,Spider
-7,Creature,Common,Eagle
-8,Spell,Common,Reanimate
-9,Creature,Rare,Frozen Priest Hydra
-10,Creature,Rare,Snow Priest Berserker
-11,Creature,Legendary,Light Undead Cyclops of the Golden Palace
-12,Enchantment,Common,Blight
-13,Creature,Common,Ghoul
-14,Enchantment,Mythic,Instant Deathgrip
-15,Creature,Common,Elf
-16,Creature,Legendary,Earth King Kraken of the Black Stone
-17,Creature,Common,Wolf
-18,Enchantment,Rare,Lunar Flight
-19,Spell,Common,Maelstrom
-20,Creature,Common,Spider
-21,Creature,Common,Wolf
-22,Creature,Rare,Earth Assassin Minotaur
-23,Creature,Rare,Aura Merchant Skin-Walker
-24,Spell,Rare,Necro Sorrow
-25,Creature,Common,Orc
-26,Spell,Common,Sorrow
-27,Creature,Common,Goblin
-28,Spell,Common,Assault
-29,Creature,Common,Spider
-30,Spell,Common,Freeze
-31,Enchantment,Common,Blight
-32,Enchantment,Mythic,Intense Flight
-33,Creature,Rare,Snow Lord Fairy
-34,Creature,Rare,Snow Fighter Hydra
-35,Artifact,Rare,Life Pendant
-36,Creature,Common,Dwarf
-37,Creature,Rare,Dark Merchant Griffin
-38,Artifact,Rare,Dark Potion
-39,Artifact,Common,Crown
-40,Creature,Common,Paladin
-41,Spell,Common,Burn
-42,Spell,Common,Vortex
-43,Spell,Common,Pandemonium
-44,Spell,Rare,Corpse Wall
+==================,DECK,4226
+0,Creature,Paladin
+1,Artifact,Shield
+2,Creature,Earth Monk Griffin
+3,Artifact,Belt
+4,Creature,Fairy
+5,Creature,Ghoul
+6,Creature,Paladin
+7,Creature,Eagle
+8,Spell,Wall
+9,Creature,Frozen Priest Hydra
+10,Creature,Snow Priest Goblin
+11,Creature,Light Undead Giant of the Golden Palace
+12,Enchantment,Haste
+13,Creature,Ghoul
+14,Enchantment,Potent Shimmering Strength
+15,Creature,Warlock
+16,Creature,Earth King Ogre of the Black Stone
+17,Creature,Wolf
+18,Enchantment,Lunar Firebreath
+19,Spell,Tempest
+20,Creature,Paladin
+21,Creature,Wolf
+22,Creature,Earth Assassin Cyclops
+23,Creature,Aura Merchant Orc
+24,Spell,Shimmering Stricken
+25,Creature,Spider
+26,Spell,Invisibility
+27,Creature,Skin-Walker
+28,Spell,Vortex
+29,Creature,Paladin
+30,Spell,Freeze
+31,Enchantment,Flight
+32,Enchantment,Clever Hateful Lethargy
+33,Creature,Snow Lord Kraken
+34,Creature,Snow Fighter Hydra
+35,Artifact,Oblivion Pendant
+36,Creature,Magi
+37,Creature,Dark Merchant Griffin
+38,Artifact,Miracle Potion
+39,Artifact,Crown
+40,Creature,Troll
+41,Spell,Burst
+42,Spell,Stricken
+43,Spell,Heal
+44,Spell,Nature Wall

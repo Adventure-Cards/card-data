@@ -1,46 +1,46 @@
-==================,DECK,6182,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Invert
-3,Spell,Common,Frenzy
-4,Enchantment,Common,Drain
-5,Enchantment,Common,Deathgrip
-6,Enchantment,Common,Haste
-7,Spell,Common,Sorrow
-8,Creature,Legendary,Dark Merchant Kraken of the Eastern Skies
-9,Enchantment,Rare,Lunar Drain
-10,Creature,Common,Goblin
-11,Creature,Mythic,Death Chaos Demon of the Dead
-12,Spell,Common,Freeze
-13,Enchantment,Common,Blight
-14,Creature,Mythic,Snow Nameless Dragon of Hate
-15,Creature,Rare,Dark King Griffin
-16,Creature,Common,Wolf
-17,Enchantment,Common,Shield
-18,Creature,Common,Spider
-19,Creature,Common,Ghoul
-20,Spell,Common,Stricken
-21,Spell,Common,Stun
-22,Creature,Common,Warlock
-23,Creature,Common,Goblin
-24,Spell,Common,Stricken
-25,Spell,Common,Sorrow
-26,Creature,Common,Spider
-27,Spell,Rare,Necro Ice
-28,Enchantment,Common,Lethargy
-29,Enchantment,Common,Haste
-30,Spell,Common,Reanimate
-31,Enchantment,Common,Shade
-32,Creature,Rare,Death King Hydra
-33,Creature,Rare,Aura Warrior Skin-Walker
-34,Enchantment,Rare,Frigid Strength
-35,Spell,Rare,Shimmering Hypnosis
-36,Creature,Common,Elf
-37,Enchantment,Common,Invert
-38,Creature,Rare,Snow Fighter Griffin
-39,Creature,Common,Elf
-40,Enchantment,Common,Age
-41,Spell,Rare,Lunar Gale
-42,Spell,Common,Torment
-43,Creature,Legendary,Snow Lord Cyclops of the Arctic Blizzards
-44,Creature,Rare,Aura Warrior Skin-Walker
+==================,DECK,6182
+0,Enchantment,Shade
+1,Creature,Magi
+2,Enchantment,Drain
+3,Spell,Burn
+4,Enchantment,Haste
+5,Enchantment,Alacrity
+6,Enchantment,Blight
+7,Spell,Fire
+8,Creature,Dark Merchant Ogre of the Eastern Skies
+9,Enchantment,Dark Shield
+10,Creature,Skin-Walker
+11,Creature,Death Chaos Demon of the Dead
+12,Spell,Stricken
+13,Enchantment,Firebreath
+14,Creature,Snow Nameless Dragon of Hate
+15,Creature,Dark King Griffin
+16,Creature,Wolf
+17,Enchantment,Deathgrip
+18,Creature,Paladin
+19,Creature,Ghoul
+20,Spell,Wall
+21,Spell,Burn
+22,Creature,Berserker
+23,Creature,Skin-Walker
+24,Spell,Freeze
+25,Spell,Wall
+26,Creature,Paladin
+27,Spell,Shimmering Frost
+28,Enchantment,Lethargy
+29,Enchantment,Lethargy
+30,Spell,Lightning
+31,Enchantment,Flight
+32,Creature,Death King Hydra
+33,Creature,Aura Warrior Orc
+34,Enchantment,Nimble Shade
+35,Spell,Hateful Sorrow
+36,Creature,Warlock
+37,Enchantment,Blight
+38,Creature,Snow Fighter Griffin
+39,Creature,Warlock
+40,Enchantment,Flight
+41,Spell,Sorrow Fire
+42,Spell,Tempest
+43,Creature,Snow Lord Giant of the Arctic Blizzards
+44,Creature,Aura Warrior Orc

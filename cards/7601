@@ -1,46 +1,46 @@
-==================,DECK,7601,Light
-0,Enchantment,Common,Invert
-1,Artifact,Common,Pendant
-2,Enchantment,Rare,Hateful Blight
-3,Enchantment,Common,Haste
-4,Enchantment,Common,Shade
-5,Creature,Common,Paladin
-6,Creature,Common,Ghoul
-7,Creature,Rare,Light Queen Minotaur
-8,Creature,Rare,Dark Lord Fairy
-9,Enchantment,Rare,Lunar Drain
-10,Creature,Rare,Dark Monk Minotaur
-11,Artifact,Rare,Forged Sword
-12,Creature,Common,Wolf
-13,Creature,Legendary,Earth Rogue Oni of the Magical Forest
-14,Creature,Common,Dwarf
-15,Spell,Common,Ice
-16,Creature,Rare,Light King Hydra
-17,Creature,Legendary,Death Merchant Kraken of the Frozen Castle
-18,Enchantment,Common,Blight
-19,Artifact,Common,Potion
-20,Creature,Common,Orc
-21,Spell,Rare,Gloom Assault
-22,Creature,Rare,Frozen Fighter Minotaur
-23,Enchantment,Common,Flight
-24,Spell,Rare,Forged Lightning
-25,Spell,Common,Pandemonium
-26,Enchantment,Common,Age
-27,Artifact,Common,Shield
-28,Creature,Common,Paladin
-29,Creature,Common,Dwarf
-30,Spell,Common,Sorrow
-31,Creature,Common,Eagle
-32,Enchantment,Common,Deathgrip
-33,Enchantment,Rare,Nature Blight
-34,Enchantment,Common,Shade
-35,Artifact,Common,Amulet
-36,Creature,Common,Ghoul
-37,Artifact,Common,Ring
-38,Enchantment,Legendary,Urgent Haste
-39,Creature,Mythic,Dark Grand Wizard of Illusion
-40,Creature,Common,Goblin
-41,Artifact,Common,Amulet
-42,Spell,Rare,Lunar Maelstrom
-43,Creature,Common,Goblin
-44,Creature,Mythic,Light Grand Demon of the Sky
+==================,DECK,7601
+0,Enchantment,Shade
+1,Artifact,Pendant
+2,Enchantment,Cataclysmic Firebreath
+3,Enchantment,Blight
+4,Enchantment,Invert
+5,Creature,Troll
+6,Creature,Ghoul
+7,Creature,Light Queen Cyclops
+8,Creature,Dark Lord Kraken
+9,Enchantment,Dark Flight
+10,Creature,Dark Monk Cyclops
+11,Artifact,Dark Sword
+12,Creature,Wolf
+13,Creature,Earth Rogue Oni of the Magical Forest
+14,Creature,Magi
+15,Spell,Invisibility
+16,Creature,Light King Hydra
+17,Creature,Death Merchant Ogre of the Frozen Castle
+18,Enchantment,Shade
+19,Artifact,Potion
+20,Creature,Spider
+21,Spell,Dark Revive
+22,Creature,Frozen Fighter Cyclops
+23,Enchantment,Firebreath
+24,Spell,Sorrow Wall
+25,Spell,Gale
+26,Enchantment,Shield
+27,Artifact,Shield
+28,Creature,Troll
+29,Creature,Magi
+30,Spell,Sorrow
+31,Creature,Eagle
+32,Enchantment,Blight
+33,Enchantment,Solar Deathgrip
+34,Enchantment,Agony
+35,Artifact,Amulet
+36,Creature,Ghoul
+37,Artifact,Ring
+38,Enchantment,Potent Corpse Strength
+39,Creature,Dark Grand Wizard of Illusion
+40,Creature,Skin-Walker
+41,Artifact,Amulet
+42,Spell,Dark Reanimate
+43,Creature,Skin-Walker
+44,Creature,Light Grand Demon of the Sky

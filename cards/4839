@@ -1,46 +1,46 @@
-==================,DECK,4839,Medium
-0,Spell,Common,Maelstrom
-1,Creature,Common,Eagle
-2,Creature,Legendary,Death Assassin Cyclops of the Bright Mountains
-3,Creature,Legendary,Snow Fighter Cyclops of the Plains
-4,Creature,Common,Magi
-5,Enchantment,Common,Shrink
-6,Creature,Common,Elf
-7,Spell,Common,Sorrow
-8,Creature,Common,Ghoul
-9,Artifact,Rare,Frigid Boots
-10,Creature,Rare,Earth Queen Minotaur
-11,Creature,Common,Goblin
-12,Creature,Rare,Light Lord Fairy
-13,Creature,Legendary,Earth Undead Orge of the Black Stone
-14,Enchantment,Legendary,Clever Shield
-15,Creature,Common,Orc
-16,Enchantment,Legendary,Potent Haste
-17,Spell,Common,Gravitation
-18,Creature,Rare,Light Queen Minotaur
-19,Creature,Common,Paladin
-20,Artifact,Common,Greaves
-21,Creature,Common,Elf
-22,Creature,Mythic,Snow Chaos Wizard of Hate
-23,Creature,Common,Orc
-24,Creature,Rare,Aura Assassin Minotaur
-25,Creature,Legendary,Light Undead Kraken of the Polar Woods
-26,Enchantment,Common,Shade
-27,Spell,Common,Ice
-28,Spell,Common,Frost
-29,Creature,Common,Ghoul
-30,Enchantment,Common,Strength
-31,Creature,Rare,Frozen Monk Skin-Walker
-32,Creature,Common,Paladin
-33,Creature,Common,Orc
-34,Creature,Common,Eagle
-35,Spell,Common,Stun
-36,Artifact,Common,Helm
-37,Creature,Rare,Frozen Merchant Hydra
-38,Spell,Rare,Nature Burst
-39,Artifact,Common,Crown
-40,Spell,Rare,Dark Lightning
-41,Creature,Rare,Earth Assassin Berserker
-42,Spell,Common,Maelstrom
-43,Creature,Common,Ghoul
-44,Creature,Common,Orc
+==================,DECK,4839
+0,Spell,Maelstrom
+1,Creature,Eagle
+2,Creature,Death Assassin Giant of the Bright Mountains
+3,Creature,Snow Fighter Giant of the Plains
+4,Creature,Fairy
+5,Enchantment,Invert
+6,Creature,Warlock
+7,Spell,Freeze
+8,Creature,Ghoul
+9,Artifact,Apocalypse Boots
+10,Creature,Earth Queen Cyclops
+11,Creature,Skin-Walker
+12,Creature,Light Lord Kraken
+13,Creature,Earth Undead Elf of the Black Stone
+14,Enchantment,Instant Victory Drain
+15,Creature,Spider
+16,Enchantment,Mighty Life Invert
+17,Spell,Vortex
+18,Creature,Light Queen Cyclops
+19,Creature,Troll
+20,Artifact,Greaves
+21,Creature,Warlock
+22,Creature,Snow Chaos Wizard of Hate
+23,Creature,Spider
+24,Creature,Aura Assassin Cyclops
+25,Creature,Light Undead Ogre of the Polar Woods
+26,Enchantment,Invert
+27,Spell,Invisibility
+28,Spell,Gale
+29,Creature,Ghoul
+30,Enchantment,Firebreath
+31,Creature,Frozen Monk Orc
+32,Creature,Troll
+33,Creature,Spider
+34,Creature,Eagle
+35,Spell,Stun
+36,Artifact,Helm
+37,Creature,Frozen Merchant Hydra
+38,Spell,Forged Ice
+39,Artifact,Crown
+40,Spell,Chimeric Stricken
+41,Creature,Earth Assassin Goblin
+42,Spell,Hypnosis
+43,Creature,Ghoul
+44,Creature,Spider

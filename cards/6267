@@ -1,46 +1,46 @@
-==================,DECK,6267,Medium
-0,Spell,Rare,Frigid Lightning
-1,Creature,Common,Goblin
-2,Creature,Rare,Dark Fighter Griffin
-3,Creature,Common,Magi
-4,Creature,Legendary,Aura Lord Cyclops of the Eastern Skies
-5,Spell,Common,Lightning
-6,Creature,Legendary,Light Undead Oni of the Magical Forest
-7,Creature,Common,Elf
-8,Enchantment,Common,Deathgrip
-9,Creature,Rare,Dark Lord Berserker
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Wolf
-12,Creature,Common,Eagle
-13,Spell,Legendary,Potent Torment
-14,Spell,Common,Sorrow
-15,Spell,Legendary,Extreme Pandemonium
-16,Enchantment,Common,Blight
-17,Creature,Rare,Frozen Undead Fairy
-18,Creature,Rare,Earth Lord Skin-Walker
-19,Creature,Common,Ghoul
-20,Spell,Common,Revive
-21,Creature,Mythic,Aura Nameless Phoenix of the Light
-22,Creature,Common,Orc
-23,Creature,Legendary,Death King Cyclops of the Bright Mountains
-24,Creature,Common,Orc
-25,Creature,Rare,Frozen Fighter Fairy
-26,Creature,Common,Paladin
-27,Creature,Common,Orc
-28,Creature,Common,Ghoul
-29,Creature,Rare,Frozen Priest Skin-Walker
-30,Creature,Rare,Snow Monk Fairy
-31,Creature,Rare,Earth Undead Griffin
-32,Enchantment,Common,Shade
-33,Creature,Common,Spider
-34,Enchantment,Common,Blight
-35,Creature,Common,Warlock
-36,Creature,Legendary,Dark Warrior Giant of the Haven
-37,Creature,Common,Goblin
-38,Creature,Common,Warlock
-39,Creature,Common,Dwarf
-40,Spell,Common,Rage
-41,Creature,Common,Elf
-42,Artifact,Common,Scepter
-43,Creature,Common,Ghoul
-44,Spell,Common,Frenzy
+==================,DECK,6267
+0,Spell,Life Fireball
+1,Creature,Skin-Walker
+2,Creature,Dark Fighter Griffin
+3,Creature,Fairy
+4,Creature,Aura Lord Giant of the Eastern Skies
+5,Spell,Revive
+6,Creature,Light Undead Oni of the Magical Forest
+7,Creature,Warlock
+8,Enchantment,Lethargy
+9,Creature,Dark Lord Goblin
+10,Enchantment,Strength
+11,Creature,Wolf
+12,Creature,Eagle
+13,Spell,Urgent Apocalypse Fire
+14,Spell,Gravitation
+15,Spell,Empyrean Dark Hypnosis
+16,Enchantment,Haste
+17,Creature,Frozen Undead Kraken
+18,Creature,Earth Lord Orc
+19,Creature,Ghoul
+20,Spell,Lightning
+21,Creature,Aura Nameless Phoenix of the Light
+22,Creature,Spider
+23,Creature,Death King Giant of the Bright Mountains
+24,Creature,Spider
+25,Creature,Frozen Fighter Kraken
+26,Creature,Troll
+27,Creature,Spider
+28,Creature,Ghoul
+29,Creature,Frozen Priest Orc
+30,Creature,Snow Monk Kraken
+31,Creature,Earth Undead Griffin
+32,Enchantment,Age
+33,Creature,Paladin
+34,Enchantment,Firebreath
+35,Creature,Berserker
+36,Creature,Dark Warrior Dwarf of the Haven
+37,Creature,Skin-Walker
+38,Creature,Berserker
+39,Creature,Magi
+40,Spell,Reanimate
+41,Creature,Warlock
+42,Artifact,Scepter
+43,Creature,Ghoul
+44,Spell,Fire

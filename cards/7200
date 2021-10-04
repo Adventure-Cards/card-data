@@ -1,46 +1,46 @@
-==================,DECK,7200,Light
-0,Creature,Common,Goblin
-1,Creature,Legendary,Death Rogue Orge of the Golden Palace
-2,Creature,Common,Magi
-3,Creature,Common,Ghoul
-4,Creature,Common,Goblin
-5,Creature,Rare,Snow Monk Minotaur
-6,Spell,Common,Stun
-7,Enchantment,Common,Drain
-8,Creature,Legendary,Light Warrior Giant of the Eastern Skies
-9,Creature,Common,Paladin
-10,Creature,Legendary,Snow Merchant Orge of the Border
-11,Creature,Common,Dwarf
-12,Artifact,Common,Ghost Wand
-13,Creature,Common,Eagle
-14,Creature,Legendary,Light Knight Kraken of the Low Hills
-15,Creature,Rare,Light Warrior Skin-Walker
-16,Spell,Common,Maelstrom
-17,Creature,Legendary,Aura Undead Kraken of the Eternal Land
-18,Creature,Common,Ghoul
-19,Creature,Common,Eagle
-20,Enchantment,Common,Lethargy
-21,Creature,Mythic,Aura Nameless Dragon of the Light
-22,Artifact,Common,Pendant
-23,Creature,Legendary,Earth Priest Oni of the Border
-24,Enchantment,Rare,Nature Flight
-25,Creature,Common,Paladin
-26,Artifact,Legendary,Clever Belt
-27,Artifact,Common,Divine Robe
-28,Creature,Legendary,Aura Thief Kraken of the Arctic Blizzards
-29,Enchantment,Common,Invert
-30,Creature,Rare,Aura Knight Minotaur
-31,Enchantment,Common,Shade
-32,Enchantment,Common,Blight
-33,Spell,Legendary,Potent Revive
-34,Enchantment,Common,Shade
-35,Creature,Common,Magi
-36,Creature,Common,Magi
-37,Enchantment,Common,Haste
-38,Spell,Rare,Lunar Sorrow
-39,Creature,Common,Eagle
-40,Artifact,Common,Boots
-41,Creature,Rare,Death Lord Griffin
-42,Artifact,Common,Helmet
-43,Artifact,Rare,Frigid Helmet
-44,Creature,Legendary,Earth Queen Orge of the Black Stone
+==================,DECK,7200
+0,Creature,Skin-Walker
+1,Creature,Death Rogue Elf of the Golden Palace
+2,Creature,Fairy
+3,Creature,Ghoul
+4,Creature,Skin-Walker
+5,Creature,Snow Monk Cyclops
+6,Spell,Hypnosis
+7,Enchantment,Agony
+8,Creature,Light Warrior Dwarf of the Eastern Skies
+9,Creature,Troll
+10,Creature,Snow Merchant Elf of the Border
+11,Creature,Magi
+12,Artifact,Ghost Wand
+13,Creature,Eagle
+14,Creature,Light Knight Ogre of the Low Hills
+15,Creature,Light Warrior Orc
+16,Spell,Fire
+17,Creature,Aura Undead Ogre of the Eternal Land
+18,Creature,Ghoul
+19,Creature,Eagle
+20,Enchantment,Shade
+21,Creature,Aura Nameless Dragon of the Light
+22,Artifact,Pendant
+23,Creature,Earth Priest Oni of the Border
+24,Enchantment,Hateful Lethargy
+25,Creature,Troll
+26,Artifact,Dire Grim Belt
+27,Artifact,Divine Robe
+28,Creature,Aura Thief Ogre of the Arctic Blizzards
+29,Enchantment,Lethargy
+30,Creature,Aura Knight Cyclops
+31,Enchantment,Shrink
+32,Enchantment,Invert
+33,Spell,Ardent Nimble Infuriate
+34,Enchantment,Deathgrip
+35,Creature,Fairy
+36,Creature,Fairy
+37,Enchantment,Agony
+38,Spell,Sorrow Burst
+39,Creature,Eagle
+40,Artifact,Boots
+41,Creature,Death Lord Griffin
+42,Artifact,Helmet
+43,Artifact,Life Helmet
+44,Creature,Earth Queen Elf of the Black Stone

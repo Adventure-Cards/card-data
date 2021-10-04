@@ -1,46 +1,46 @@
-==================,DECK,5557,Medium
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Invert
-3,Creature,Common,Magi
-4,Artifact,Common,Belt
-5,Enchantment,Common,Haste
-6,Creature,Common,Eagle
-7,Creature,Legendary,Frozen Lord Kraken of the Haven
-8,Enchantment,Common,Agony
-9,Creature,Rare,Frozen Undead Skin-Walker
-10,Creature,Rare,Death Priest Hydra
-11,Artifact,Legendary,Instant Staff
-12,Artifact,Legendary,Instant Scepter
-13,Creature,Common,Elf
-14,Enchantment,Common,Haste
-15,Creature,Legendary,Aura Undead Oni of the Border
-16,Enchantment,Legendary,Clever Shrink
-17,Enchantment,Common,Age
-18,Creature,Rare,Light Thief Minotaur
-19,Creature,Common,Elf
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Legendary,Dire Alacrity
-22,Creature,Common,Paladin
-23,Spell,Common,Revive
-24,Artifact,Legendary,Extreme Helm
-25,Creature,Common,Eagle
-26,Creature,Common,Magi
-27,Enchantment,Common,Haste
-28,Creature,Common,Orc
-29,Creature,Common,Eagle
-30,Creature,Legendary,Snow Monk Giant of the Plains
-31,Spell,Rare,Life Reanimate
-32,Artifact,Common,Helm
-33,Enchantment,Rare,Nature Age
-34,Creature,Common,Wolf
-35,Creature,Legendary,Snow Thief Kraken of the Arctic Blizzards
-36,Enchantment,Common,Haste
-37,Spell,Common,Frost
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Age
-40,Creature,Mythic,Death Nameless Phoenix of the Dead
-41,Enchantment,Legendary,Clever Blight
-42,Creature,Rare,Light Knight Minotaur
-43,Spell,Mythic,Dire Burn
-44,Creature,Rare,Dark Merchant Skin-Walker
+==================,DECK,5557
+0,Enchantment,Alacrity
+1,Creature,Ghoul
+2,Enchantment,Agony
+3,Creature,Fairy
+4,Artifact,Belt
+5,Enchantment,Firebreath
+6,Creature,Eagle
+7,Creature,Frozen Lord Ogre of the Haven
+8,Enchantment,Invert
+9,Creature,Frozen Undead Orc
+10,Creature,Death Priest Hydra
+11,Artifact,Zealous Solar Staff
+12,Artifact,Instant Corpse Scepter
+13,Creature,Warlock
+14,Enchantment,Drain
+15,Creature,Aura Undead Oni of the Border
+16,Enchantment,Empyrean Frigid Shade
+17,Enchantment,Drain
+18,Creature,Light Thief Cyclops
+19,Creature,Warlock
+20,Enchantment,Haste
+21,Enchantment,Ardent Apocalypse Haste
+22,Creature,Troll
+23,Spell,Heal
+24,Artifact,Empyrean Sorrow Helm
+25,Creature,Eagle
+26,Creature,Fairy
+27,Enchantment,Alacrity
+28,Creature,Spider
+29,Creature,Eagle
+30,Creature,Snow Monk Dwarf of the Plains
+31,Spell,Victory Pandemonium
+32,Artifact,Helm
+33,Enchantment,Nature Age
+34,Creature,Wolf
+35,Creature,Snow Thief Ogre of the Arctic Blizzards
+36,Enchantment,Haste
+37,Spell,Revive
+38,Creature,Ghoul
+39,Enchantment,Drain
+40,Creature,Death Nameless Phoenix of the Dead
+41,Enchantment,Mighty Nimble Invert
+42,Creature,Light Knight Cyclops
+43,Spell,Mighty Grim Fury
+44,Creature,Dark Merchant Orc

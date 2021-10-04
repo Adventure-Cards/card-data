@@ -1,46 +1,46 @@
-==================,DECK,6440,Light
-0,Enchantment,Common,Alacrity
-1,Enchantment,Rare,Apocalypse Blight
-2,Creature,Common,Wolf
-3,Creature,Common,Spider
-4,Enchantment,Common,Shade
-5,Spell,Common,Rage
-6,Artifact,Rare,Oblivion Scepter
-7,Spell,Common,Hypnosis
-8,Creature,Mythic,Frozen Grand Wizard of the Void
-9,Creature,Common,Spider
-10,Artifact,Common,Boots
-11,Spell,Common,Ice
-12,Creature,Common,Orc
-13,Creature,Common,Goblin
-14,Enchantment,Rare,Cataclysmic Age
-15,Enchantment,Common,Drain
-16,Spell,Common,Assault
-17,Enchantment,Common,Drain
-18,Enchantment,Common,Drain
-19,Creature,Common,Dwarf
-20,Creature,Common,Paladin
-21,Creature,Rare,Death Lord Hydra
-22,Enchantment,Mythic,Clever Age
-23,Spell,Common,Assault
-24,Creature,Common,Elf
-25,Enchantment,Legendary,Angry Shade
-26,Creature,Common,Spider
-27,Creature,Rare,Frozen Undead Berserker
-28,Creature,Common,Eagle
-29,Creature,Common,Wolf
-30,Creature,Common,Ghoul
-31,Artifact,Common,Tome
-32,Creature,Common,Dwarf
-33,Creature,Rare,Snow Rogue Griffin
-34,Enchantment,Common,Shade
-35,Creature,Rare,Light Rogue Minotaur
-36,Spell,Common,Vortex
-37,Creature,Common,Orc
-38,Spell,Common,Vortex
-39,Creature,Common,Spider
-40,Creature,Mythic,Earth Chaos Demon of the Shadows
-41,Enchantment,Common,Alacrity
-42,Spell,Rare,Solar Lightning
-43,Creature,Common,Ghoul
-44,Creature,Common,Goblin
+==================,DECK,6440
+0,Enchantment,Agony
+1,Enchantment,Nimble Blight
+2,Creature,Wolf
+3,Creature,Paladin
+4,Enchantment,Invert
+5,Spell,Stricken
+6,Artifact,Nimble Scepter
+7,Spell,Burn
+8,Creature,Frozen Grand Wizard of the Void
+9,Creature,Paladin
+10,Artifact,Boots
+11,Spell,Tempest
+12,Creature,Spider
+13,Creature,Skin-Walker
+14,Enchantment,Gloom Shrink
+15,Enchantment,Shade
+16,Spell,Burn
+17,Enchantment,Haste
+18,Enchantment,Shrink
+19,Creature,Magi
+20,Creature,Troll
+21,Creature,Death Lord Hydra
+22,Enchantment,Mighty Victory Invert
+23,Spell,Reanimate
+24,Creature,Warlock
+25,Enchantment,Ardent Chimeric Shield
+26,Creature,Paladin
+27,Creature,Frozen Undead Goblin
+28,Creature,Eagle
+29,Creature,Wolf
+30,Creature,Ghoul
+31,Artifact,Tome
+32,Creature,Magi
+33,Creature,Snow Rogue Griffin
+34,Enchantment,Blight
+35,Creature,Light Rogue Cyclops
+36,Spell,Revive
+37,Creature,Spider
+38,Spell,Stun
+39,Creature,Paladin
+40,Creature,Earth Chaos Demon of the Shadows
+41,Enchantment,Invert
+42,Spell,Shimmering Vortex
+43,Creature,Ghoul
+44,Creature,Skin-Walker

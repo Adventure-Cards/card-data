@@ -1,46 +1,46 @@
-==================,DECK,6699,Medium
-0,Creature,Common,Goblin
-1,Creature,Rare,Light Warrior Griffin
-2,Enchantment,Common,Shrink
-3,Creature,Legendary,Earth Fighter Kraken of the Polar Woods
-4,Enchantment,Rare,Life Shrink
-5,Creature,Common,Goblin
-6,Spell,Common,Gravitation
-7,Enchantment,Common,Shade
-8,Creature,Rare,Frozen Priest Berserker
-9,Enchantment,Common,Age
-10,Creature,Common,Warlock
-11,Creature,Common,Orc
-12,Creature,Legendary,Snow Knight Kraken of the Eastern Skies
-13,Spell,Legendary,Urgent Rage
-14,Creature,Common,Magi
-15,Spell,Rare,Nimble Torment
-16,Creature,Common,Spider
-17,Spell,Common,Heal
-18,Creature,Common,Paladin
-19,Enchantment,Common,Shade
-20,Creature,Rare,Dark Thief Minotaur
-21,Enchantment,Common,Blight
-22,Enchantment,Rare,Lunar Flight
-23,Artifact,Rare,Grim Ghost Wand
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Common,Strength
-26,Enchantment,Common,Shade
-27,Creature,Rare,Snow Knight Minotaur
-28,Creature,Common,Magi
-29,Creature,Rare,Frozen Queen Berserker
-30,Enchantment,Common,Alacrity
-31,Spell,Common,Lightning
-32,Spell,Common,Frost
-33,Creature,Legendary,Death Undead Giant of the Swamp
-34,Creature,Rare,Earth Knight Fairy
-35,Creature,Common,Warlock
-36,Creature,Common,Orc
-37,Creature,Rare,Earth Thief Hydra
-38,Enchantment,Rare,Lunar Age
-39,Creature,Common,Eagle
-40,Creature,Legendary,Dark Warrior Giant of the Haven
-41,Spell,Common,Rage
-42,Creature,Common,Orc
-43,Enchantment,Common,Agony
-44,Creature,Rare,Death Warrior Minotaur
+==================,DECK,6699
+0,Creature,Skin-Walker
+1,Creature,Light Warrior Griffin
+2,Enchantment,Invert
+3,Creature,Earth Fighter Ogre of the Polar Woods
+4,Enchantment,Frigid Drain
+5,Creature,Skin-Walker
+6,Spell,Assault
+7,Enchantment,Drain
+8,Creature,Frozen Priest Goblin
+9,Enchantment,Strength
+10,Creature,Berserker
+11,Creature,Spider
+12,Creature,Snow Knight Ogre of the Eastern Skies
+13,Spell,Ardent Hateful Rage
+14,Creature,Fairy
+15,Spell,Solar Fireball
+16,Creature,Paladin
+17,Spell,Frost
+18,Creature,Troll
+19,Enchantment,Shrink
+20,Creature,Dark Thief Cyclops
+21,Enchantment,Drain
+22,Enchantment,Lunar Firebreath
+23,Artifact,Victory Ghost Wand
+24,Enchantment,Flight
+25,Enchantment,Shade
+26,Enchantment,Shade
+27,Creature,Snow Knight Cyclops
+28,Creature,Fairy
+29,Creature,Frozen Queen Goblin
+30,Enchantment,Drain
+31,Spell,Pandemonium
+32,Spell,Assault
+33,Creature,Death Undead Dwarf of the Swamp
+34,Creature,Earth Knight Kraken
+35,Creature,Berserker
+36,Creature,Spider
+37,Creature,Earth Thief Hydra
+38,Enchantment,Gloom Shrink
+39,Creature,Eagle
+40,Creature,Dark Warrior Dwarf of the Haven
+41,Spell,Rage
+42,Creature,Spider
+43,Enchantment,Flight
+44,Creature,Death Warrior Cyclops

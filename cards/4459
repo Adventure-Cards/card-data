@@ -1,46 +1,46 @@
-==================,DECK,4459,Medium
-0,Creature,Legendary,Death Knight Cyclops of the Black Stone
-1,Creature,Common,Orc
-2,Spell,Common,Rage
-3,Spell,Common,Assault
-4,Artifact,Common,Tome
-5,Spell,Legendary,Intense Burst
-6,Artifact,Legendary,Instant Scepter
-7,Creature,Common,Dwarf
-8,Artifact,Rare,Nimble Tome
-9,Artifact,Common,Ring
-10,Enchantment,Legendary,Instant Shield
-11,Enchantment,Common,Agony
-12,Creature,Rare,Aura Assassin Minotaur
-13,Creature,Common,Spider
-14,Enchantment,Legendary,Angry Deathgrip
-15,Enchantment,Common,Shade
-16,Enchantment,Rare,Grim Lethargy
-17,Creature,Legendary,Frozen Priest Oni of the Magical Forest
-18,Spell,Common,Heal
-19,Artifact,Rare,Lunar Sigil
-20,Enchantment,Common,Agony
-21,Creature,Rare,Light Rogue Hydra
-22,Creature,Rare,Frozen King Skin-Walker
-23,Creature,Common,Goblin
-24,Enchantment,Rare,Gloom Agony
-25,Creature,Common,Paladin
-26,Creature,Common,Goblin
-27,Spell,Common,Rage
-28,Creature,Rare,Death Assassin Berserker
-29,Enchantment,Rare,Nature Blight
-30,Enchantment,Common,Alacrity
-31,Creature,Common,Orc
-32,Creature,Common,Paladin
-33,Spell,Common,Hypnosis
-34,Creature,Mythic,Light Time Dragon of the Sky
-35,Spell,Rare,Lunar Infuriate
-36,Spell,Legendary,Extreme Invisibility
-37,Spell,Common,Wall
-38,Enchantment,Common,Deathgrip
-39,Creature,Common,Magi
-40,Artifact,Rare,Miracle Greaves
-41,Creature,Legendary,Dark King Oni of the Eternal Land
-42,Creature,Common,Paladin
-43,Enchantment,Mythic,Extreme Drain
-44,Creature,Rare,Death Lord Fairy
+==================,DECK,4459
+0,Creature,Death Knight Giant of the Black Stone
+1,Creature,Spider
+2,Spell,Gravitation
+3,Spell,Invisibility
+4,Artifact,Tome
+5,Spell,Mighty Solar Infuriate
+6,Artifact,Instant Corpse Scepter
+7,Creature,Magi
+8,Artifact,Hateful Tome
+9,Artifact,Ring
+10,Enchantment,Ardent Nature Lethargy
+11,Enchantment,Flight
+12,Creature,Aura Assassin Cyclops
+13,Creature,Paladin
+14,Enchantment,Potent Sorrow Shrink
+15,Enchantment,Firebreath
+16,Enchantment,Grim Invert
+17,Creature,Frozen Priest Oni of the Magical Forest
+18,Spell,Gale
+19,Artifact,Dark Sigil
+20,Enchantment,Age
+21,Creature,Light Rogue Hydra
+22,Creature,Frozen King Orc
+23,Creature,Skin-Walker
+24,Enchantment,Miracle Alacrity
+25,Creature,Troll
+26,Creature,Skin-Walker
+27,Spell,Rage
+28,Creature,Death Assassin Goblin
+29,Enchantment,Solar Deathgrip
+30,Enchantment,Flight
+31,Creature,Spider
+32,Creature,Troll
+33,Spell,Burn
+34,Creature,Light Time Dragon of the Sky
+35,Spell,Lunar Burn
+36,Spell,Dire Sorrow Burn
+37,Spell,Gravitation
+38,Enchantment,Shrink
+39,Creature,Fairy
+40,Artifact,Nimble Greaves
+41,Creature,Dark King Oni of the Eternal Land
+42,Creature,Troll
+43,Enchantment,Zealous Dark Alacrity
+44,Creature,Death Lord Kraken

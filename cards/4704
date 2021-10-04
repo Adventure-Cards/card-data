@@ -1,46 +1,46 @@
-==================,DECK,4704,Light
-0,Creature,Common,Magi
-1,Creature,Common,Paladin
-2,Enchantment,Common,Agony
-3,Enchantment,Common,Deathgrip
-4,Creature,Mythic,Earth Time Phoenix of the Shadows
-5,Artifact,Rare,Corpse Helmet
-6,Enchantment,Rare,Cataclysmic Blight
-7,Creature,Common,Orc
-8,Creature,Common,Goblin
-9,Enchantment,Common,Lethargy
-10,Spell,Common,Frenzy
-11,Creature,Common,Wolf
-12,Creature,Rare,Aura Monk Minotaur
-13,Creature,Common,Magi
-14,Enchantment,Common,Flight
-15,Enchantment,Common,Haste
-16,Spell,Legendary,Clever Lightning
-17,Enchantment,Legendary,Urgent Shade
-18,Creature,Common,Magi
-19,Creature,Common,Ghoul
-20,Creature,Mythic,Aura Time Dragon of the Light
-21,Creature,Common,Paladin
-22,Artifact,Common,Sword
-23,Spell,Rare,Corpse Wall
-24,Spell,Common,Stun
-25,Enchantment,Common,Shade
-26,Creature,Common,Eagle
-27,Enchantment,Common,Lethargy
-28,Enchantment,Common,Age
-29,Spell,Common,Wall
-30,Creature,Common,Magi
-31,Spell,Common,Stun
-32,Creature,Legendary,Snow Undead Oni of the Arctic Blizzards
-33,Enchantment,Common,Invert
-34,Enchantment,Rare,Solar Shade
-35,Creature,Common,Elf
-36,Creature,Common,Orc
-37,Creature,Rare,Snow Monk Berserker
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Deathgrip
-40,Spell,Common,Burst
-41,Creature,Common,Spider
-42,Spell,Common,Sorrow
-43,Artifact,Common,Helmet
-44,Enchantment,Common,Shade
+==================,DECK,4704
+0,Creature,Fairy
+1,Creature,Troll
+2,Enchantment,Strength
+3,Enchantment,Flight
+4,Creature,Earth Time Phoenix of the Shadows
+5,Artifact,Necro Helmet
+6,Enchantment,Cataclysmic Shrink
+7,Creature,Spider
+8,Creature,Skin-Walker
+9,Enchantment,Invert
+10,Spell,Revive
+11,Creature,Wolf
+12,Creature,Aura Monk Cyclops
+13,Creature,Fairy
+14,Enchantment,Shrink
+15,Enchantment,Flight
+16,Spell,Dire Life Wall
+17,Enchantment,Dire Necro Age
+18,Creature,Fairy
+19,Creature,Ghoul
+20,Creature,Aura Time Dragon of the Light
+21,Creature,Troll
+22,Artifact,Sword
+23,Spell,Shimmering Freeze
+24,Spell,Burst
+25,Enchantment,Lethargy
+26,Creature,Eagle
+27,Enchantment,Agony
+28,Enchantment,Shrink
+29,Spell,Assault
+30,Creature,Fairy
+31,Spell,Gale
+32,Creature,Snow Undead Oni of the Arctic Blizzards
+33,Enchantment,Flight
+34,Enchantment,Necro Age
+35,Creature,Warlock
+36,Creature,Spider
+37,Creature,Snow Monk Goblin
+38,Creature,Magi
+39,Enchantment,Shade
+40,Spell,Rage
+41,Creature,Paladin
+42,Spell,Burn
+43,Artifact,Helmet
+44,Enchantment,Shield

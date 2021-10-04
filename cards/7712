@@ -1,46 +1,46 @@
-==================,DECK,7712,Light
-0,Creature,Common,Goblin
-1,Artifact,Common,Sword
-2,Creature,Common,Orc
-3,Enchantment,Rare,Nimble Agony
-4,Enchantment,Mythic,Intense Shade
-5,Spell,Legendary,Mighty Gale
-6,Spell,Common,Freeze
-7,Creature,Mythic,Earth Undead Dragon of the Shadows
-8,Spell,Legendary,Angry Fury
-9,Creature,Rare,Frozen Thief Hydra
-10,Creature,Common,Paladin
-11,Enchantment,Rare,Apocalypse Age
-12,Enchantment,Common,Blight
-13,Creature,Rare,Earth Lord Skin-Walker
-14,Creature,Common,Magi
-15,Enchantment,Legendary,Clever Alacrity
-16,Artifact,Common,Gauntlet
-17,Creature,Common,Warlock
-18,Creature,Mythic,Death Nameless Phoenix of the Dead
-19,Spell,Common,Stricken
-20,Enchantment,Common,Agony
-21,Enchantment,Common,Shrink
-22,Enchantment,Rare,Hateful Age
-23,Artifact,Common,Tome
-24,Enchantment,Common,Lethargy
-25,Enchantment,Rare,Cataclysmic Haste
-26,Enchantment,Common,Deathgrip
-27,Enchantment,Mythic,Mighty Blight
-28,Creature,Mythic,Death Ancient Demon of the Dead
-29,Creature,Common,Eagle
-30,Creature,Legendary,Aura Lord Orge of the Black Stone
-31,Creature,Common,Eagle
-32,Creature,Common,Magi
-33,Enchantment,Common,Invert
-34,Spell,Rare,Lunar Sorrow
-35,Creature,Rare,Frozen Thief Skin-Walker
-36,Creature,Rare,Snow Fighter Fairy
-37,Artifact,Rare,Miracle Sigil
-38,Spell,Common,Burn
-39,Creature,Common,Elf
-40,Enchantment,Mythic,Potent Shade
-41,Enchantment,Common,Invert
-42,Spell,Common,Burn
-43,Enchantment,Rare,Miracle Shrink
-44,Creature,Rare,Aura King Hydra
+==================,DECK,7712
+0,Creature,Skin-Walker
+1,Artifact,Sword
+2,Creature,Spider
+3,Enchantment,Corpse Agony
+4,Enchantment,Ardent Necro Lethargy
+5,Spell,Clever Sorrow Wall
+6,Spell,Sorrow
+7,Creature,Earth Undead Dragon of the Shadows
+8,Spell,Zealous Miracle Fury
+9,Creature,Frozen Thief Hydra
+10,Creature,Troll
+11,Enchantment,Victory Haste
+12,Enchantment,Shield
+13,Creature,Earth Lord Orc
+14,Creature,Fairy
+15,Enchantment,Ardent Apocalypse Haste
+16,Artifact,Gauntlet
+17,Creature,Berserker
+18,Creature,Death Nameless Phoenix of the Dead
+19,Spell,Sorrow
+20,Enchantment,Strength
+21,Enchantment,Agony
+22,Enchantment,Gloom Firebreath
+23,Artifact,Tome
+24,Enchantment,Invert
+25,Enchantment,Miracle Firebreath
+26,Enchantment,Firebreath
+27,Enchantment,Potent Cataclysmic Shrink
+28,Creature,Death Ancient Demon of the Dead
+29,Creature,Eagle
+30,Creature,Aura Lord Elf of the Black Stone
+31,Creature,Eagle
+32,Creature,Fairy
+33,Enchantment,Deathgrip
+34,Spell,Cataclysmic Hypnosis
+35,Creature,Frozen Thief Orc
+36,Creature,Snow Fighter Kraken
+37,Artifact,Grim Sigil
+38,Spell,Torment
+39,Creature,Warlock
+40,Enchantment,Irate Frigid Blight
+41,Enchantment,Deathgrip
+42,Spell,Torment
+43,Enchantment,Frigid Blight
+44,Creature,Aura King Hydra

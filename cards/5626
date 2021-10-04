@@ -1,46 +1,46 @@
-==================,DECK,5626,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Magi
-2,Creature,Common,Orc
-3,Creature,Rare,Light Priest Minotaur
-4,Artifact,Common,Bracers
-5,Creature,Common,Orc
-6,Enchantment,Rare,Corpse Invert
-7,Enchantment,Common,Shade
-8,Enchantment,Common,Age
-9,Creature,Common,Spider
-10,Creature,Common,Paladin
-11,Enchantment,Common,Lethargy
-12,Enchantment,Common,Agony
-13,Spell,Common,Burn
-14,Creature,Rare,Aura Knight Minotaur
-15,Artifact,Common,Boots
-16,Creature,Common,Goblin
-17,Creature,Common,Orc
-18,Creature,Rare,Light Rogue Hydra
-19,Creature,Common,Elf
-20,Spell,Common,Burn
-21,Spell,Rare,Life Burn
-22,Creature,Common,Elf
-23,Creature,Rare,Snow Queen Griffin
-24,Creature,Common,Magi
-25,Enchantment,Common,Blight
-26,Creature,Rare,Aura Warrior Minotaur
-27,Enchantment,Common,Strength
-28,Spell,Common,Fury
-29,Enchantment,Rare,Apocalypse Age
-30,Enchantment,Rare,Miracle Flight
-31,Enchantment,Common,Alacrity
-32,Artifact,Common,Gauntlet
-33,Creature,Common,Warlock
-34,Enchantment,Common,Age
-35,Creature,Legendary,Dark King Orge of the Eternal Land
-36,Creature,Mythic,Earth Grand Demon of the Shadows
-37,Creature,Rare,Earth Thief Fairy
-38,Creature,Common,Wolf
-39,Creature,Common,Dwarf
-40,Creature,Common,Wolf
-41,Creature,Common,Elf
-42,Enchantment,Mythic,Instant Invert
-43,Creature,Rare,Frozen Assassin Minotaur
-44,Creature,Common,Dwarf
+==================,DECK,5626
+0,Creature,Troll
+1,Creature,Fairy
+2,Creature,Spider
+3,Creature,Light Priest Cyclops
+4,Artifact,Bracers
+5,Creature,Spider
+6,Enchantment,Shimmering Lethargy
+7,Enchantment,Deathgrip
+8,Enchantment,Age
+9,Creature,Paladin
+10,Creature,Troll
+11,Enchantment,Age
+12,Enchantment,Deathgrip
+13,Spell,Ice
+14,Creature,Aura Knight Cyclops
+15,Artifact,Boots
+16,Creature,Skin-Walker
+17,Creature,Spider
+18,Creature,Light Rogue Hydra
+19,Creature,Warlock
+20,Spell,Fury
+21,Spell,Victory Stun
+22,Creature,Warlock
+23,Creature,Snow Queen Griffin
+24,Creature,Fairy
+25,Enchantment,Haste
+26,Creature,Aura Warrior Cyclops
+27,Enchantment,Shade
+28,Spell,Ice
+29,Enchantment,Victory Drain
+30,Enchantment,Grim Haste
+31,Enchantment,Firebreath
+32,Artifact,Gauntlet
+33,Creature,Berserker
+34,Enchantment,Firebreath
+35,Creature,Dark King Elf of the Eternal Land
+36,Creature,Earth Grand Demon of the Shadows
+37,Creature,Earth Thief Kraken
+38,Creature,Wolf
+39,Creature,Magi
+40,Creature,Wolf
+41,Creature,Warlock
+42,Enchantment,Irate Shimmering Deathgrip
+43,Creature,Frozen Assassin Cyclops
+44,Creature,Magi

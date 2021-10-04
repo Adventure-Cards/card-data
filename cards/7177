@@ -1,46 +1,46 @@
-==================,DECK,7177,Light
-0,Enchantment,Common,Invert
-1,Enchantment,Common,Invert
-2,Enchantment,Common,Drain
-3,Creature,Legendary,Aura Warrior Giant of the West
-4,Enchantment,Common,Drain
-5,Creature,Common,Goblin
-6,Creature,Legendary,Aura Thief Cyclops of the Eternal Land
-7,Creature,Rare,Frozen Monk Skin-Walker
-8,Creature,Common,Wolf
-9,Creature,Common,Magi
-10,Creature,Rare,Death Lord Berserker
-11,Creature,Common,Spider
-12,Creature,Common,Magi
-13,Creature,Common,Elf
-14,Creature,Rare,Death Monk Griffin
-15,Creature,Legendary,Light Assassin Oni of the Border
-16,Spell,Common,Assault
-17,Creature,Legendary,Frozen Thief Oni of the Haven
-18,Artifact,Rare,Life Gauntlet
-19,Creature,Rare,Death Knight Griffin
-20,Creature,Common,Ghoul
-21,Spell,Common,Gravitation
-22,Creature,Rare,Dark Assassin Griffin
-23,Enchantment,Rare,Miracle Flight
-24,Creature,Common,Ghoul
-25,Creature,Common,Paladin
-26,Creature,Common,Eagle
-27,Creature,Common,Orc
-28,Enchantment,Common,Invert
-29,Creature,Legendary,Light Thief Kraken of the West
-30,Creature,Rare,Earth Knight Minotaur
-31,Spell,Rare,Hateful Infuriate
-32,Spell,Common,Frost
-33,Spell,Common,Invisibility
-34,Creature,Rare,Aura Knight Hydra
-35,Creature,Rare,Death Warrior Minotaur
-36,Creature,Common,Wolf
-37,Creature,Rare,Aura Thief Minotaur
-38,Creature,Legendary,Light Monk Orge of the Plains
-39,Creature,Rare,Dark Monk Hydra
-40,Artifact,Common,Gauntlet
-41,Creature,Mythic,Light Nameless Phoenix of the Sky
-42,Creature,Common,Eagle
-43,Creature,Common,Dwarf
-44,Enchantment,Legendary,Extreme Agony
+==================,DECK,7177
+0,Enchantment,Blight
+1,Enchantment,Shade
+2,Enchantment,Strength
+3,Creature,Aura Warrior Dwarf of the West
+4,Enchantment,Flight
+5,Creature,Skin-Walker
+6,Creature,Aura Thief Giant of the Eternal Land
+7,Creature,Frozen Monk Orc
+8,Creature,Wolf
+9,Creature,Fairy
+10,Creature,Death Lord Goblin
+11,Creature,Paladin
+12,Creature,Fairy
+13,Creature,Warlock
+14,Creature,Death Monk Griffin
+15,Creature,Light Assassin Oni of the Border
+16,Spell,Frost
+17,Creature,Frozen Thief Oni of the Haven
+18,Artifact,Grim Gauntlet
+19,Creature,Death Knight Griffin
+20,Creature,Ghoul
+21,Spell,Burst
+22,Creature,Dark Assassin Griffin
+23,Enchantment,Grim Haste
+24,Creature,Ghoul
+25,Creature,Troll
+26,Creature,Eagle
+27,Creature,Spider
+28,Enchantment,Drain
+29,Creature,Light Thief Ogre of the West
+30,Creature,Earth Knight Cyclops
+31,Spell,Lunar Gravitation
+32,Spell,Reanimate
+33,Spell,Tempest
+34,Creature,Aura Knight Hydra
+35,Creature,Death Warrior Cyclops
+36,Creature,Wolf
+37,Creature,Aura Thief Cyclops
+38,Creature,Light Monk Elf of the Plains
+39,Creature,Dark Monk Hydra
+40,Artifact,Gauntlet
+41,Creature,Light Nameless Phoenix of the Sky
+42,Creature,Eagle
+43,Creature,Magi
+44,Enchantment,Urgent Miracle Flight

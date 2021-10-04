@@ -1,46 +1,46 @@
-==================,DECK,5917,Medium
-0,Spell,Common,Assault
-1,Creature,Rare,Light Assassin Berserker
-2,Artifact,Rare,Lunar Scepter
-3,Creature,Legendary,Earth Undead Orge of the Frozen Castle
-4,Spell,Mythic,Extreme Wall
-5,Creature,Common,Dwarf
-6,Enchantment,Legendary,Instant Age
-7,Creature,Common,Elf
-8,Creature,Common,Dwarf
-9,Creature,Common,Eagle
-10,Enchantment,Legendary,Dire Shield
-11,Creature,Common,Goblin
-12,Spell,Rare,Life Sorrow
-13,Creature,Common,Warlock
-14,Creature,Common,Goblin
-15,Creature,Common,Orc
-16,Creature,Rare,Death Knight Skin-Walker
-17,Spell,Common,Gravitation
-18,Enchantment,Rare,Lunar Shrink
-19,Creature,Common,Goblin
-20,Creature,Common,Magi
-21,Artifact,Rare,Corpse Helmet
-22,Enchantment,Common,Shrink
-23,Creature,Common,Wolf
-24,Spell,Rare,Cataclysmic Sorrow
-25,Spell,Common,Torment
-26,Creature,Common,Paladin
-27,Spell,Common,Burst
-28,Artifact,Rare,Cataclysmic Scepter
-29,Creature,Common,Spider
-30,Creature,Common,Paladin
-31,Spell,Rare,Hateful Fury
-32,Spell,Common,Burst
-33,Creature,Common,Orc
-34,Creature,Common,Paladin
-35,Creature,Common,Ghoul
-36,Creature,Common,Wolf
-37,Spell,Rare,Oblivion Wall
-38,Creature,Common,Paladin
-39,Creature,Common,Magi
-40,Spell,Rare,Oblivion Torment
-41,Creature,Common,Magi
-42,Creature,Common,Magi
-43,Creature,Rare,Frozen Priest Berserker
-44,Spell,Common,Burn
+==================,DECK,5917
+0,Spell,Invisibility
+1,Creature,Light Assassin Goblin
+2,Artifact,Chimeric Scepter
+3,Creature,Earth Undead Elf of the Frozen Castle
+4,Spell,Ardent Cataclysmic Reanimate
+5,Creature,Magi
+6,Enchantment,Clever Nature Lethargy
+7,Creature,Warlock
+8,Creature,Magi
+9,Creature,Eagle
+10,Enchantment,Dire Victory Shade
+11,Creature,Skin-Walker
+12,Spell,Frigid Ice
+13,Creature,Berserker
+14,Creature,Skin-Walker
+15,Creature,Spider
+16,Creature,Death Knight Orc
+17,Spell,Lightning
+18,Enchantment,Chimeric Shrink
+19,Creature,Skin-Walker
+20,Creature,Fairy
+21,Artifact,Solar Helmet
+22,Enchantment,Lethargy
+23,Creature,Wolf
+24,Spell,Dark Heal
+25,Spell,Vortex
+26,Creature,Troll
+27,Spell,Lightning
+28,Artifact,Chimeric Scepter
+29,Creature,Paladin
+30,Creature,Troll
+31,Spell,Miracle Maelstrom
+32,Spell,Burn
+33,Creature,Spider
+34,Creature,Troll
+35,Creature,Ghoul
+36,Creature,Wolf
+37,Spell,Apocalypse Lightning
+38,Creature,Troll
+39,Creature,Fairy
+40,Spell,Grim Burn
+41,Creature,Fairy
+42,Creature,Fairy
+43,Creature,Frozen Priest Goblin
+44,Spell,Heal

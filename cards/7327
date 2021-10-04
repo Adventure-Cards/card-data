@@ -1,46 +1,46 @@
-==================,DECK,7327,Medium
-0,Creature,Common,Goblin
-1,Creature,Mythic,Frozen Ancient Demon of the Void
-2,Creature,Rare,Death Rogue Skin-Walker
-3,Creature,Common,Goblin
-4,Creature,Rare,Snow Priest Hydra
-5,Creature,Rare,Snow Warrior Minotaur
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Invert
-8,Spell,Rare,Shimmering Burn
-9,Creature,Common,Elf
-10,Creature,Legendary,Aura Knight Kraken of the Polar Woods
-11,Creature,Common,Dwarf
-12,Creature,Rare,Aura Rogue Fairy
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Dwarf
-15,Spell,Legendary,Dire Revive
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Ghoul
-18,Spell,Common,Lightning
-19,Creature,Common,Ghoul
-20,Creature,Rare,Earth Lord Fairy
-21,Creature,Common,Goblin
-22,Spell,Rare,Nature Maelstrom
-23,Enchantment,Common,Flight
-24,Enchantment,Common,Shrink
-25,Spell,Rare,Hateful Stun
-26,Creature,Common,Elf
-27,Creature,Rare,Earth Monk Hydra
-28,Creature,Rare,Snow Lord Minotaur
-29,Artifact,Common,Amulet
-30,Creature,Rare,Frozen Warrior Hydra
-31,Creature,Legendary,Snow Queen Giant of the Bright Mountains
-32,Enchantment,Legendary,Clever Alacrity
-33,Creature,Common,Magi
-34,Creature,Common,Wolf
-35,Creature,Common,Spider
-36,Spell,Common,Pandemonium
-37,Enchantment,Common,Deathgrip
-38,Spell,Legendary,Potent Gale
-39,Artifact,Rare,Dark Pendant
-40,Creature,Rare,Earth Priest Skin-Walker
-41,Spell,Rare,Lunar Infuriate
-42,Creature,Common,Warlock
-43,Spell,Common,Frost
-44,Artifact,Rare,Frigid Belt
+==================,DECK,7327
+0,Creature,Skin-Walker
+1,Creature,Frozen Ancient Demon of the Void
+2,Creature,Death Rogue Orc
+3,Creature,Skin-Walker
+4,Creature,Snow Priest Hydra
+5,Creature,Snow Warrior Cyclops
+6,Spell,Wall
+7,Enchantment,Shield
+8,Spell,Shimmering Ice
+9,Creature,Warlock
+10,Creature,Aura Knight Ogre of the Polar Woods
+11,Creature,Magi
+12,Creature,Aura Rogue Kraken
+13,Enchantment,Strength
+14,Creature,Magi
+15,Spell,Ardent Frigid Maelstrom
+16,Enchantment,Shade
+17,Creature,Ghoul
+18,Spell,Vortex
+19,Creature,Ghoul
+20,Creature,Earth Lord Kraken
+21,Creature,Skin-Walker
+22,Spell,Hateful Gale
+23,Enchantment,Blight
+24,Enchantment,Shrink
+25,Spell,Miracle Tempest
+26,Creature,Warlock
+27,Creature,Earth Monk Hydra
+28,Creature,Snow Lord Cyclops
+29,Artifact,Amulet
+30,Creature,Frozen Warrior Hydra
+31,Creature,Snow Queen Dwarf of the Bright Mountains
+32,Enchantment,Urgent Apocalypse Invert
+33,Creature,Fairy
+34,Creature,Wolf
+35,Creature,Paladin
+36,Spell,Assault
+37,Enchantment,Alacrity
+38,Spell,Empyrean Frigid Burn
+39,Artifact,Cataclysmic Pendant
+40,Creature,Earth Priest Orc
+41,Spell,Gloom Frost
+42,Creature,Berserker
+43,Spell,Hypnosis
+44,Artifact,Apocalypse Belt

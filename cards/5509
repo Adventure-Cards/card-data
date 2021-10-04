@@ -1,46 +1,46 @@
-==================,DECK,5509,Strong
-0,Artifact,Common,Sigil
-1,Creature,Common,Goblin
-2,Creature,Rare,Death Lord Skin-Walker
-3,Enchantment,Common,Age
-4,Artifact,Common,Belt
-5,Creature,Rare,Light Undead Skin-Walker
-6,Enchantment,Common,Age
-7,Spell,Rare,Apocalypse Hypnosis
-8,Enchantment,Legendary,Angry Lethargy
-9,Creature,Common,Goblin
-10,Enchantment,Rare,Forged Shade
-11,Creature,Common,Spider
-12,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-13,Artifact,Common,Greaves
-14,Enchantment,Rare,Necro Haste
-15,Enchantment,Common,Agony
-16,Enchantment,Rare,Dark Shield
-17,Spell,Legendary,Urgent Pandemonium
-18,Creature,Common,Magi
-19,Creature,Mythic,Light Ancient Demon of the Sky
-20,Creature,Common,Dwarf
-21,Creature,Mythic,Light Ancient Wizard of the Sky
-22,Creature,Common,Elf
-23,Enchantment,Common,Invert
-24,Artifact,Mythic,Urgent Pendant
-25,Artifact,Common,Belt
-26,Enchantment,Legendary,Dire Agony
-27,Enchantment,Rare,Life Shrink
-28,Enchantment,Rare,Oblivion Invert
-29,Enchantment,Common,Blight
-30,Creature,Common,Goblin
-31,Creature,Common,Magi
-32,Enchantment,Legendary,Extreme Strength
-33,Spell,Common,Stun
-34,Enchantment,Common,Strength
-35,Creature,Mythic,Frozen Time Phoenix of the Void
-36,Creature,Legendary,Earth Time Dragon of the Shadows
-37,Creature,Common,Elf
-38,Spell,Common,Burn
-39,Enchantment,Common,Deathgrip
-40,Enchantment,Common,Age
-41,Creature,Mythic,Aura Time Dragon of the Light
-42,Creature,Common,Goblin
-43,Enchantment,Legendary,Extreme Strength
-44,Enchantment,Rare,Nimble Shade
+==================,DECK,5509
+0,Artifact,Sigil
+1,Creature,Skin-Walker
+2,Creature,Death Lord Orc
+3,Enchantment,Drain
+4,Artifact,Belt
+5,Creature,Light Undead Orc
+6,Enchantment,Shrink
+7,Spell,Frigid Fire
+8,Enchantment,Irate Lunar Alacrity
+9,Creature,Skin-Walker
+10,Enchantment,Chimeric Flight
+11,Creature,Paladin
+12,Creature,Earth Nameless Phoenix of the Shadows
+13,Artifact,Greaves
+14,Enchantment,Corpse Strength
+15,Enchantment,Haste
+16,Enchantment,Gloom Alacrity
+17,Spell,Empyrean Corpse Torment
+18,Creature,Fairy
+19,Creature,Light Ancient Demon of the Sky
+20,Creature,Magi
+21,Creature,Light Ancient Wizard of the Sky
+22,Creature,Warlock
+23,Enchantment,Strength
+24,Artifact,Irate Forged Pendant
+25,Artifact,Belt
+26,Enchantment,Irate Life Blight
+27,Enchantment,Frigid Blight
+28,Enchantment,Oblivion Shade
+29,Enchantment,Shield
+30,Creature,Skin-Walker
+31,Creature,Fairy
+32,Enchantment,Dire Cataclysmic Firebreath
+33,Spell,Fury
+34,Enchantment,Flight
+35,Creature,Frozen Time Phoenix of the Void
+36,Creature,Earth Time Dragon of the Shadows
+37,Creature,Warlock
+38,Spell,Burst
+39,Enchantment,Agony
+40,Enchantment,Agony
+41,Creature,Aura Time Dragon of the Light
+42,Creature,Skin-Walker
+43,Enchantment,Instant Cataclysmic Shrink
+44,Enchantment,Necro Deathgrip

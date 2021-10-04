@@ -1,46 +1,46 @@
-==================,DECK,5553,Light
-0,Creature,Common,Spider
-1,Creature,Rare,Snow Monk Minotaur
-2,Creature,Common,Magi
-3,Spell,Legendary,Urgent Hypnosis
-4,Spell,Rare,Hateful Ice
-5,Creature,Rare,Frozen Warrior Fairy
-6,Creature,Common,Warlock
-7,Spell,Legendary,Dire Lightning
-8,Spell,Common,Infuriate
-9,Enchantment,Common,Alacrity
-10,Spell,Common,Wall
-11,Artifact,Legendary,Urgent Amulet
-12,Spell,Rare,Frigid Frost
-13,Enchantment,Common,Shrink
-14,Creature,Common,Ghoul
-15,Creature,Common,Warlock
-16,Spell,Common,Frenzy
-17,Spell,Common,Gravitation
-18,Creature,Common,Ghoul
-19,Creature,Common,Elf
-20,Spell,Common,Assault
-21,Artifact,Common,Bow
-22,Spell,Common,Invisibility
-23,Creature,Common,Magi
-24,Creature,Legendary,Earth Monk Giant of the Mountains
-25,Creature,Common,Goblin
-26,Creature,Legendary,Light Monk Kraken of the Low Hills
-27,Enchantment,Common,Shade
-28,Creature,Common,Paladin
-29,Creature,Common,Goblin
-30,Creature,Common,Spider
-31,Creature,Rare,Dark Monk Minotaur
-32,Creature,Mythic,Snow Chaos Demon of Hate
-33,Spell,Common,Burst
-34,Creature,Common,Wolf
-35,Enchantment,Common,Shrink
-36,Creature,Common,Spider
-37,Creature,Rare,Snow Warrior Fairy
-38,Creature,Common,Paladin
-39,Spell,Common,Rage
-40,Spell,Common,Ice
-41,Creature,Common,Eagle
-42,Spell,Common,Sorrow
-43,Creature,Common,Orc
-44,Enchantment,Mythic,Dire Shrink
+==================,DECK,5553
+0,Creature,Paladin
+1,Creature,Snow Monk Cyclops
+2,Creature,Fairy
+3,Spell,Potent Shimmering Vortex
+4,Spell,Gloom Hypnosis
+5,Creature,Frozen Warrior Kraken
+6,Creature,Berserker
+7,Spell,Irate Apocalypse Hypnosis
+8,Spell,Revive
+9,Enchantment,Drain
+10,Spell,Fireball
+11,Artifact,Mighty Hateful Amulet
+12,Spell,Victory Fury
+13,Enchantment,Firebreath
+14,Creature,Ghoul
+15,Creature,Berserker
+16,Spell,Tempest
+17,Spell,Revive
+18,Creature,Ghoul
+19,Creature,Warlock
+20,Spell,Sorrow
+21,Artifact,Bow
+22,Spell,Revive
+23,Creature,Fairy
+24,Creature,Earth Monk Dwarf of the Mountains
+25,Creature,Skin-Walker
+26,Creature,Light Monk Ogre of the Low Hills
+27,Enchantment,Shield
+28,Creature,Troll
+29,Creature,Skin-Walker
+30,Creature,Paladin
+31,Creature,Dark Monk Cyclops
+32,Creature,Snow Chaos Demon of Hate
+33,Spell,Gravitation
+34,Creature,Wolf
+35,Enchantment,Blight
+36,Creature,Paladin
+37,Creature,Snow Warrior Kraken
+38,Creature,Troll
+39,Spell,Heal
+40,Spell,Rage
+41,Creature,Eagle
+42,Spell,Tempest
+43,Creature,Spider
+44,Enchantment,Clever Frigid Haste

@@ -1,46 +1,46 @@
-==================,DECK,7105,Medium
-0,Spell,Rare,Oblivion Frost
-1,Creature,Common,Orc
-2,Creature,Rare,Earth Warrior Hydra
-3,Creature,Rare,Earth Thief Griffin
-4,Spell,Legendary,Dire Reanimate
-5,Artifact,Common,Gauntlet
-6,Spell,Rare,Shimmering Gale
-7,Spell,Common,Gale
-8,Creature,Rare,Light Warrior Hydra
-9,Creature,Rare,Aura Lord Fairy
-10,Spell,Mythic,Extreme Assault
-11,Artifact,Rare,Miracle Tome
-12,Enchantment,Legendary,Clever Invert
-13,Creature,Common,Wolf
-14,Enchantment,Rare,Dark Alacrity
-15,Creature,Common,Spider
-16,Spell,Common,Gravitation
-17,Enchantment,Legendary,Intense Shrink
-18,Creature,Common,Wolf
-19,Spell,Common,Sorrow
-20,Creature,Rare,Dark Lord Hydra
-21,Creature,Legendary,Death Monk Kraken of the Border
-22,Spell,Common,Wall
-23,Enchantment,Mythic,Dire Flight
-24,Creature,Rare,Earth Queen Skin-Walker
-25,Creature,Common,Paladin
-26,Creature,Legendary,Death Rogue Giant of the Low Hills
-27,Creature,Legendary,Aura Fighter Orge of the Mountains
-28,Creature,Common,Spider
-29,Creature,Common,Magi
-30,Enchantment,Common,Invert
-31,Spell,Rare,Miracle Stricken
-32,Spell,Common,Reanimate
-33,Creature,Common,Ghoul
-34,Creature,Rare,Aura Thief Minotaur
-35,Creature,Mythic,Snow Nameless Phoenix of Hate
-36,Spell,Common,Burn
-37,Creature,Legendary,Dark King Orge of the Eternal Land
-38,Spell,Rare,Necro Sorrow
-39,Creature,Common,Dwarf
-40,Creature,Rare,Light Thief Hydra
-41,Creature,Rare,Earth Knight Griffin
-42,Creature,Common,Magi
-43,Artifact,Common,Pendant
-44,Enchantment,Common,Strength
+==================,DECK,7105
+0,Spell,Oblivion Burn
+1,Creature,Spider
+2,Creature,Earth Warrior Hydra
+3,Creature,Earth Thief Griffin
+4,Spell,Empyrean Victory Fury
+5,Artifact,Gauntlet
+6,Spell,Solar Lightning
+7,Spell,Vortex
+8,Creature,Light Warrior Hydra
+9,Creature,Aura Lord Kraken
+10,Spell,Instant Dark Maelstrom
+11,Artifact,Nimble Tome
+12,Enchantment,Irate Oblivion Blight
+13,Creature,Wolf
+14,Enchantment,Dark Flight
+15,Creature,Paladin
+16,Spell,Infuriate
+17,Enchantment,Mighty Necro Agony
+18,Creature,Wolf
+19,Spell,Tempest
+20,Creature,Dark Lord Hydra
+21,Creature,Death Monk Ogre of the Border
+22,Spell,Revive
+23,Enchantment,Empyrean Grim Shade
+24,Creature,Earth Queen Orc
+25,Creature,Troll
+26,Creature,Death Rogue Dwarf of the Low Hills
+27,Creature,Aura Fighter Elf of the Mountains
+28,Creature,Paladin
+29,Creature,Fairy
+30,Enchantment,Lethargy
+31,Spell,Frigid Fireball
+32,Spell,Pandemonium
+33,Creature,Ghoul
+34,Creature,Aura Thief Cyclops
+35,Creature,Snow Nameless Phoenix of Hate
+36,Spell,Freeze
+37,Creature,Dark King Elf of the Eternal Land
+38,Spell,Shimmering Fury
+39,Creature,Magi
+40,Creature,Light Thief Hydra
+41,Creature,Earth Knight Griffin
+42,Creature,Fairy
+43,Artifact,Pendant
+44,Enchantment,Shade

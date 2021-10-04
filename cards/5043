@@ -1,46 +1,46 @@
-==================,DECK,5043,Light
-0,Creature,Rare,Snow Priest Minotaur
-1,Spell,Legendary,Extreme Maelstrom
-2,Creature,Common,Wolf
-3,Creature,Common,Elf
-4,Creature,Common,Goblin
-5,Artifact,Common,Scythe
-6,Artifact,Legendary,Instant Ring
-7,Creature,Common,Spider
-8,Creature,Common,Goblin
-9,Creature,Common,Ghoul
-10,Creature,Common,Wolf
-11,Spell,Common,Torment
-12,Artifact,Common,Tome
-13,Enchantment,Common,Invert
-14,Creature,Rare,Death Priest Skin-Walker
-15,Enchantment,Common,Agony
-16,Artifact,Rare,Miracle Ring
-17,Creature,Rare,Earth Lord Minotaur
-18,Creature,Common,Spider
-19,Enchantment,Common,Blight
-20,Creature,Common,Ghoul
-21,Spell,Rare,Dark Rage
-22,Enchantment,Legendary,Mighty Blight
-23,Spell,Common,Torment
-24,Creature,Mythic,Light Time Dragon of the Sky
-25,Creature,Legendary,Aura Fighter Orge of the Arctic Blizzards
-26,Creature,Legendary,Snow Warrior Cyclops of the Mountains
-27,Creature,Rare,Light Queen Hydra
-28,Spell,Legendary,Extreme Gale
-29,Creature,Common,Orc
-30,Enchantment,Rare,Forged Invert
-31,Enchantment,Rare,Lunar Flight
-32,Creature,Common,Elf
-33,Creature,Common,Eagle
-34,Artifact,Common,Pendant
-35,Spell,Common,Pandemonium
-36,Creature,Mythic,Death Time Dragon of the Dead
-37,Artifact,Legendary,Mighty Gauntlet
-38,Spell,Rare,Cataclysmic Maelstrom
-39,Creature,Rare,Frozen Undead Minotaur
-40,Creature,Common,Goblin
-41,Spell,Rare,Grim Assault
-42,Enchantment,Legendary,Intense Invert
-43,Creature,Common,Elf
-44,Creature,Common,Ghoul
+==================,DECK,5043
+0,Creature,Snow Priest Cyclops
+1,Spell,Zealous Cataclysmic Fury
+2,Creature,Wolf
+3,Creature,Warlock
+4,Creature,Skin-Walker
+5,Artifact,Scythe
+6,Artifact,Potent Shimmering Ring
+7,Creature,Paladin
+8,Creature,Skin-Walker
+9,Creature,Ghoul
+10,Creature,Wolf
+11,Spell,Gale
+12,Artifact,Tome
+13,Enchantment,Blight
+14,Creature,Death Priest Orc
+15,Enchantment,Firebreath
+16,Artifact,Nimble Ring
+17,Creature,Earth Lord Cyclops
+18,Creature,Paladin
+19,Enchantment,Shrink
+20,Creature,Ghoul
+21,Spell,Gloom Tempest
+22,Enchantment,Zealous Cataclysmic Alacrity
+23,Spell,Fire
+24,Creature,Light Time Dragon of the Sky
+25,Creature,Aura Fighter Elf of the Arctic Blizzards
+26,Creature,Snow Warrior Giant of the Mountains
+27,Creature,Light Queen Hydra
+28,Spell,Mighty Dark Pandemonium
+29,Creature,Spider
+30,Enchantment,Sorrow Shield
+31,Enchantment,Lunar Shield
+32,Creature,Warlock
+33,Creature,Eagle
+34,Artifact,Pendant
+35,Spell,Rage
+36,Creature,Death Time Dragon of the Dead
+37,Artifact,Clever Dark Gauntlet
+38,Spell,Dark Sorrow
+39,Creature,Frozen Undead Cyclops
+40,Creature,Skin-Walker
+41,Spell,Oblivion Freeze
+42,Enchantment,Dire Shimmering Age
+43,Creature,Warlock
+44,Creature,Ghoul

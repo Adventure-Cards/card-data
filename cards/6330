@@ -1,46 +1,46 @@
-==================,DECK,6330,Medium
-0,Creature,Common,Wolf
-1,Spell,Common,Gale
-2,Spell,Common,Gale
-3,Enchantment,Common,Lethargy
-4,Spell,Common,Gale
-5,Enchantment,Common,Shade
-6,Creature,Rare,Snow Undead Fairy
-7,Creature,Common,Warlock
-8,Spell,Common,Torment
-9,Creature,Common,Warlock
-10,Creature,Mythic,Snow Chaos Wizard of Hate
-11,Artifact,Rare,Grim Bow
-12,Creature,Legendary,Light Fighter Oni of the Eastern Skies
-13,Enchantment,Legendary,Clever Deathgrip
-14,Creature,Rare,Aura Merchant Minotaur
-15,Spell,Rare,Hateful Stricken
-16,Enchantment,Mythic,Urgent Shrink
-17,Enchantment,Mythic,Urgent Flight
-18,Spell,Rare,Life Stun
-19,Enchantment,Rare,Shimmering Age
-20,Spell,Common,Lightning
-21,Creature,Common,Wolf
-22,Creature,Common,Eagle
-23,Creature,Rare,Frozen Rogue Griffin
-24,Creature,Common,Warlock
-25,Enchantment,Common,Lethargy
-26,Creature,Rare,Death Thief Skin-Walker
-27,Creature,Common,Ghoul
-28,Creature,Mythic,Snow Nameless Dragon of Hate
-29,Spell,Rare,Hateful Stun
-30,Spell,Mythic,Dire Ice
-31,Creature,Common,Dwarf
-32,Creature,Rare,Dark Priest Minotaur
-33,Creature,Common,Ghoul
-34,Creature,Common,Eagle
-35,Enchantment,Common,Drain
-36,Creature,Common,Elf
-37,Creature,Common,Orc
-38,Creature,Common,Wolf
-39,Creature,Rare,Aura Merchant Berserker
-40,Spell,Common,Gravitation
-41,Creature,Rare,Frozen Warrior Griffin
-42,Creature,Common,Paladin
-43,Spell,Common,Hypnosis
-44,Enchantment,Common,Flight
+==================,DECK,6330
+0,Creature,Wolf
+1,Spell,Burn
+2,Spell,Freeze
+3,Enchantment,Age
+4,Spell,Fire
+5,Enchantment,Shrink
+6,Creature,Snow Undead Kraken
+7,Creature,Berserker
+8,Spell,Fire
+9,Creature,Berserker
+10,Creature,Snow Chaos Wizard of Hate
+11,Artifact,Nimble Bow
+12,Creature,Light Fighter Oni of the Eastern Skies
+13,Enchantment,Empyrean Oblivion Shade
+14,Creature,Aura Merchant Cyclops
+15,Spell,Sorrow Wall
+16,Enchantment,Empyrean Necro Age
+17,Enchantment,Empyrean Hateful Age
+18,Spell,Life Pandemonium
+19,Enchantment,Nature Lethargy
+20,Spell,Hypnosis
+21,Creature,Wolf
+22,Creature,Eagle
+23,Creature,Frozen Rogue Griffin
+24,Creature,Berserker
+25,Enchantment,Shrink
+26,Creature,Death Thief Orc
+27,Creature,Ghoul
+28,Creature,Snow Nameless Dragon of Hate
+29,Spell,Cataclysmic Burst
+30,Spell,Potent Apocalypse Burn
+31,Creature,Magi
+32,Creature,Dark Priest Cyclops
+33,Creature,Ghoul
+34,Creature,Eagle
+35,Enchantment,Shield
+36,Creature,Warlock
+37,Creature,Spider
+38,Creature,Wolf
+39,Creature,Aura Merchant Goblin
+40,Spell,Sorrow
+41,Creature,Frozen Warrior Griffin
+42,Creature,Troll
+43,Spell,Rage
+44,Enchantment,Invert

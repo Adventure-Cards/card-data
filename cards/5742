@@ -1,46 +1,46 @@
-==================,DECK,5742,Light
-0,Creature,Common,Goblin
-1,Spell,Rare,Forged Frost
-2,Enchantment,Common,Flight
-3,Creature,Rare,Snow Queen Berserker
-4,Spell,Legendary,Potent Gravitation
-5,Spell,Common,Stricken
-6,Spell,Common,Burst
-7,Spell,Common,Burst
-8,Enchantment,Rare,Grim Agony
-9,Creature,Common,Goblin
-10,Creature,Legendary,Light Queen Cyclops of the Mountains
-11,Creature,Legendary,Earth Assassin Oni of the Magical Forest
-12,Creature,Common,Paladin
-13,Creature,Common,Spider
-14,Creature,Mythic,Earth Undead Dragon of the Shadows
-15,Creature,Common,Eagle
-16,Spell,Common,Rage
-17,Creature,Common,Spider
-18,Creature,Rare,Frozen Warrior Griffin
-19,Enchantment,Common,Shrink
-20,Spell,Common,Gravitation
-21,Spell,Legendary,Instant Gravitation
-22,Artifact,Common,Amulet
-23,Enchantment,Rare,Apocalypse Shrink
-24,Creature,Common,Elf
-25,Creature,Rare,Snow Undead Berserker
-26,Creature,Legendary,Snow Lord Oni of the Eastern Skies
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Deathgrip
-29,Creature,Rare,Dark Merchant Berserker
-30,Creature,Common,Goblin
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Flight
-33,Creature,Common,Orc
-34,Creature,Common,Spider
-35,Spell,Common,Burst
-36,Creature,Common,Goblin
-37,Creature,Common,Paladin
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Age
-40,Spell,Common,Stun
-41,Artifact,Common,Crown
-42,Enchantment,Common,Strength
-43,Creature,Rare,Dark Fighter Berserker
-44,Creature,Rare,Frozen Lord Hydra
+==================,DECK,5742
+0,Creature,Skin-Walker
+1,Spell,Dark Lightning
+2,Enchantment,Alacrity
+3,Creature,Snow Queen Goblin
+4,Spell,Dire Nimble Gale
+5,Spell,Hypnosis
+6,Spell,Burst
+7,Spell,Vortex
+8,Enchantment,Life Blight
+9,Creature,Skin-Walker
+10,Creature,Light Queen Giant of the Mountains
+11,Creature,Earth Assassin Oni of the Magical Forest
+12,Creature,Troll
+13,Creature,Paladin
+14,Creature,Earth Undead Dragon of the Shadows
+15,Creature,Eagle
+16,Spell,Freeze
+17,Creature,Paladin
+18,Creature,Frozen Warrior Griffin
+19,Enchantment,Shrink
+20,Spell,Invisibility
+21,Spell,Instant Shimmering Fireball
+22,Artifact,Amulet
+23,Enchantment,Frigid Drain
+24,Creature,Warlock
+25,Creature,Snow Undead Goblin
+26,Creature,Snow Lord Oni of the Eastern Skies
+27,Creature,Magi
+28,Enchantment,Age
+29,Creature,Dark Merchant Goblin
+30,Creature,Skin-Walker
+31,Creature,Ghoul
+32,Enchantment,Shade
+33,Creature,Spider
+34,Creature,Paladin
+35,Spell,Wall
+36,Creature,Skin-Walker
+37,Creature,Troll
+38,Creature,Ghoul
+39,Enchantment,Shield
+40,Spell,Hypnosis
+41,Artifact,Crown
+42,Enchantment,Shrink
+43,Creature,Dark Fighter Goblin
+44,Creature,Frozen Lord Hydra

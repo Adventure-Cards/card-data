@@ -1,46 +1,46 @@
-==================,DECK,7185,Light
-0,Creature,Common,Warlock
-1,Artifact,Legendary,Clever Scythe
-2,Spell,Common,Frenzy
-3,Enchantment,Common,Blight
-4,Creature,Common,Warlock
-5,Enchantment,Mythic,Clever Haste
-6,Enchantment,Common,Drain
-7,Spell,Common,Vortex
-8,Creature,Common,Ghoul
-9,Creature,Rare,Earth Monk Minotaur
-10,Creature,Common,Elf
-11,Enchantment,Common,Haste
-12,Spell,Common,Infuriate
-13,Artifact,Common,Gloves
-14,Creature,Rare,Death Queen Fairy
-15,Enchantment,Mythic,Extreme Lethargy
-16,Creature,Rare,Death Assassin Griffin
-17,Artifact,Common,Ring
-18,Enchantment,Common,Agony
-19,Spell,Common,Stricken
-20,Artifact,Common,Staff
-21,Enchantment,Rare,Nature Drain
-22,Enchantment,Common,Lethargy
-23,Spell,Common,Rage
-24,Artifact,Common,Gloves
-25,Spell,Common,Assault
-26,Creature,Common,Goblin
-27,Creature,Common,Dwarf
-28,Creature,Common,Goblin
-29,Spell,Common,Frost
-30,Spell,Common,Fury
-31,Creature,Common,Elf
-32,Creature,Common,Dwarf
-33,Creature,Common,Warlock
-34,Creature,Common,Ghoul
-35,Enchantment,Common,Agony
-36,Creature,Common,Magi
-37,Spell,Common,Burn
-38,Creature,Common,Eagle
-39,Spell,Common,Ice
-40,Creature,Legendary,Death Undead Cyclops of the Low Hills
-41,Creature,Rare,Aura Thief Minotaur
-42,Creature,Common,Elf
-43,Spell,Rare,Apocalypse Burst
-44,Spell,Common,Gravitation
+==================,DECK,7185
+0,Creature,Berserker
+1,Artifact,Empyrean Frigid Scythe
+2,Spell,Revive
+3,Enchantment,Lethargy
+4,Creature,Berserker
+5,Enchantment,Zealous Life Blight
+6,Enchantment,Blight
+7,Spell,Lightning
+8,Creature,Ghoul
+9,Creature,Earth Monk Cyclops
+10,Creature,Warlock
+11,Enchantment,Haste
+12,Spell,Gravitation
+13,Artifact,Gloves
+14,Creature,Death Queen Kraken
+15,Enchantment,Irate Lunar Alacrity
+16,Creature,Death Assassin Griffin
+17,Artifact,Ring
+18,Enchantment,Agony
+19,Spell,Reanimate
+20,Artifact,Staff
+21,Enchantment,Forged Lethargy
+22,Enchantment,Shade
+23,Spell,Heal
+24,Artifact,Gloves
+25,Spell,Hypnosis
+26,Creature,Skin-Walker
+27,Creature,Magi
+28,Creature,Skin-Walker
+29,Spell,Ice
+30,Spell,Heal
+31,Creature,Warlock
+32,Creature,Magi
+33,Creature,Berserker
+34,Creature,Ghoul
+35,Enchantment,Age
+36,Creature,Fairy
+37,Spell,Fury
+38,Creature,Eagle
+39,Spell,Tempest
+40,Creature,Death Undead Giant of the Low Hills
+41,Creature,Aura Thief Cyclops
+42,Creature,Warlock
+43,Spell,Apocalypse Burst
+44,Spell,Burst

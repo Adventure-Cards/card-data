@@ -1,46 +1,46 @@
-==================,DECK,4531,Light
-0,Enchantment,Common,Invert
-1,Spell,Common,Ice
-2,Creature,Common,Wolf
-3,Artifact,Rare,Oblivion Scepter
-4,Spell,Common,Vortex
-5,Artifact,Common,Bracers
-6,Enchantment,Mythic,Extreme Shield
-7,Creature,Common,Dwarf
-8,Creature,Common,Paladin
-9,Creature,Common,Magi
-10,Spell,Common,Revive
-11,Creature,Common,Ghoul
-12,Creature,Common,Goblin
-13,Enchantment,Common,Strength
-14,Spell,Legendary,Mighty Revive
-15,Creature,Common,Wolf
-16,Enchantment,Rare,Grim Alacrity
-17,Creature,Common,Ghoul
-18,Spell,Common,Infuriate
-19,Enchantment,Common,Drain
-20,Creature,Common,Warlock
-21,Enchantment,Common,Age
-22,Enchantment,Rare,Miracle Blight
-23,Spell,Rare,Hateful Sorrow
-24,Artifact,Rare,Necro Helm
-25,Creature,Rare,Light Fighter Berserker
-26,Enchantment,Legendary,Clever Deathgrip
-27,Spell,Common,Rage
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Warlock
-30,Enchantment,Mythic,Potent Flight
-31,Spell,Common,Stricken
-32,Creature,Common,Dwarf
-33,Creature,Common,Goblin
-34,Creature,Common,Elf
-35,Creature,Common,Dwarf
-36,Creature,Rare,Light Queen Fairy
-37,Spell,Common,Burst
-38,Spell,Common,Burst
-39,Enchantment,Common,Drain
-40,Creature,Common,Dwarf
-41,Creature,Legendary,Earth Queen Orge of the Eternal Land
-42,Creature,Legendary,Death King Giant of the Frozen Castle
-43,Creature,Common,Spider
-44,Creature,Common,Elf
+==================,DECK,4531
+0,Enchantment,Shade
+1,Spell,Assault
+2,Creature,Wolf
+3,Artifact,Apocalypse Scepter
+4,Spell,Infuriate
+5,Artifact,Bracers
+6,Enchantment,Instant Gloom Shrink
+7,Creature,Magi
+8,Creature,Troll
+9,Creature,Fairy
+10,Spell,Reanimate
+11,Creature,Ghoul
+12,Creature,Skin-Walker
+13,Enchantment,Firebreath
+14,Spell,Ardent Dark Rage
+15,Creature,Wolf
+16,Enchantment,Apocalypse Drain
+17,Creature,Ghoul
+18,Spell,Maelstrom
+19,Enchantment,Agony
+20,Creature,Berserker
+21,Enchantment,Drain
+22,Enchantment,Nimble Haste
+23,Spell,Chimeric Revive
+24,Artifact,Corpse Helm
+25,Creature,Light Fighter Goblin
+26,Enchantment,Potent Oblivion Drain
+27,Spell,Maelstrom
+28,Enchantment,Drain
+29,Creature,Berserker
+30,Enchantment,Potent Grim Drain
+31,Spell,Burst
+32,Creature,Magi
+33,Creature,Skin-Walker
+34,Creature,Warlock
+35,Creature,Magi
+36,Creature,Light Queen Kraken
+37,Spell,Freeze
+38,Spell,Torment
+39,Enchantment,Lethargy
+40,Creature,Magi
+41,Creature,Earth Queen Elf of the Eternal Land
+42,Creature,Death King Dwarf of the Frozen Castle
+43,Creature,Paladin
+44,Creature,Warlock

@@ -1,46 +1,46 @@
-==================,DECK,7577,Light
-0,Artifact,Common,Greaves
-1,Artifact,Common,Pendant
-2,Creature,Common,Paladin
-3,Spell,Common,Gravitation
-4,Spell,Common,Gale
-5,Enchantment,Common,Alacrity
-6,Creature,Rare,Earth Warrior Griffin
-7,Creature,Mythic,Death Undead Phoenix of the Dead
-8,Creature,Rare,Light King Griffin
-9,Creature,Common,Orc
-10,Artifact,Common,Greaves
-11,Creature,Common,Eagle
-12,Creature,Common,Magi
-13,Enchantment,Common,Lethargy
-14,Enchantment,Mythic,Extreme Lethargy
-15,Creature,Common,Orc
-16,Creature,Rare,Aura Thief Skin-Walker
-17,Spell,Rare,Shimmering Gale
-18,Creature,Rare,Dark Undead Fairy
-19,Artifact,Common,Bow
-20,Spell,Common,Burn
-21,Enchantment,Common,Shield
-22,Enchantment,Mythic,Clever Alacrity
-23,Creature,Common,Goblin
-24,Creature,Common,Paladin
-25,Creature,Common,Orc
-26,Creature,Common,Elf
-27,Enchantment,Common,Agony
-28,Artifact,Legendary,Urgent Scepter
-29,Creature,Common,Warlock
-30,Creature,Rare,Frozen Thief Berserker
-31,Creature,Common,Eagle
-32,Creature,Common,Elf
-33,Creature,Rare,Dark Knight Griffin
-34,Creature,Rare,Light Knight Minotaur
-35,Creature,Rare,Death Warrior Minotaur
-36,Creature,Rare,Frozen Fighter Skin-Walker
-37,Enchantment,Common,Haste
-38,Creature,Common,Wolf
-39,Spell,Common,Revive
-40,Spell,Legendary,Mighty Torment
-41,Enchantment,Rare,Nimble Strength
-42,Enchantment,Rare,Grim Shade
-43,Creature,Common,Elf
-44,Spell,Common,Gravitation
+==================,DECK,7577
+0,Artifact,Greaves
+1,Artifact,Pendant
+2,Creature,Troll
+3,Spell,Gravitation
+4,Spell,Heal
+5,Enchantment,Haste
+6,Creature,Earth Warrior Griffin
+7,Creature,Death Undead Phoenix of the Dead
+8,Creature,Light King Griffin
+9,Creature,Spider
+10,Artifact,Greaves
+11,Creature,Eagle
+12,Creature,Fairy
+13,Enchantment,Shrink
+14,Enchantment,Dire Lunar Firebreath
+15,Creature,Spider
+16,Creature,Aura Thief Orc
+17,Spell,Hateful Sorrow
+18,Creature,Dark Undead Kraken
+19,Artifact,Bow
+20,Spell,Sorrow
+21,Enchantment,Strength
+22,Enchantment,Dire Apocalypse Shade
+23,Creature,Skin-Walker
+24,Creature,Troll
+25,Creature,Spider
+26,Creature,Warlock
+27,Enchantment,Strength
+28,Artifact,Instant Necro Scepter
+29,Creature,Berserker
+30,Creature,Frozen Thief Goblin
+31,Creature,Eagle
+32,Creature,Warlock
+33,Creature,Dark Knight Griffin
+34,Creature,Light Knight Cyclops
+35,Creature,Death Warrior Cyclops
+36,Creature,Frozen Fighter Orc
+37,Enchantment,Agony
+38,Creature,Wolf
+39,Spell,Revive
+40,Spell,Irate Gloom Tempest
+41,Enchantment,Solar Deathgrip
+42,Enchantment,Frigid Blight
+43,Creature,Warlock
+44,Spell,Reanimate

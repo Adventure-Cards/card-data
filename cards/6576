@@ -1,46 +1,46 @@
-==================,DECK,6576,Light
-0,Creature,Common,Eagle
-1,Artifact,Common,Scythe
-2,Enchantment,Rare,Lunar Drain
-3,Artifact,Common,Scythe
-4,Spell,Common,Fury
-5,Enchantment,Mythic,Angry Shade
-6,Artifact,Common,Pendant
-7,Creature,Rare,Snow Thief Fairy
-8,Creature,Common,Magi
-9,Creature,Common,Wolf
-10,Enchantment,Legendary,Clever Strength
-11,Creature,Common,Dwarf
-12,Creature,Common,Ghoul
-13,Creature,Common,Orc
-14,Spell,Common,Rage
-15,Creature,Rare,Dark Undead Berserker
-16,Creature,Common,Wolf
-17,Creature,Common,Dwarf
-18,Creature,Mythic,Earth Chaos Wizard of the Shadows
-19,Creature,Rare,Light King Berserker
-20,Creature,Rare,Death Fighter Skin-Walker
-21,Artifact,Common,Staff
-22,Creature,Rare,Death Merchant Hydra
-23,Creature,Rare,Light Knight Skin-Walker
-24,Artifact,Common,Pendant
-25,Enchantment,Common,Shrink
-26,Creature,Common,Wolf
-27,Creature,Legendary,Snow Fighter Giant of the Golden Palace
-28,Enchantment,Common,Lethargy
-29,Creature,Legendary,Aura Priest Giant of the Haven
-30,Creature,Common,Eagle
-31,Spell,Common,Burn
-32,Spell,Rare,Nimble Lightning
-33,Creature,Mythic,Death Undead Dragon of the Dead
-34,Creature,Common,Eagle
-35,Creature,Common,Ghoul
-36,Spell,Common,Torment
-37,Spell,Common,Stun
-38,Enchantment,Legendary,Dire Flight
-39,Spell,Common,Freeze
-40,Creature,Rare,Frozen Rogue Hydra
-41,Enchantment,Common,Lethargy
-42,Creature,Rare,Aura Monk Fairy
-43,Creature,Legendary,Dark Lord Kraken of the Border
-44,Creature,Common,Orc
+==================,DECK,6576
+0,Creature,Eagle
+1,Artifact,Scythe
+2,Enchantment,Dark Firebreath
+3,Artifact,Scythe
+4,Spell,Gravitation
+5,Enchantment,Ardent Chimeric Shield
+6,Artifact,Pendant
+7,Creature,Snow Thief Kraken
+8,Creature,Fairy
+9,Creature,Wolf
+10,Enchantment,Irate Nimble Blight
+11,Creature,Magi
+12,Creature,Ghoul
+13,Creature,Spider
+14,Spell,Assault
+15,Creature,Dark Undead Goblin
+16,Creature,Wolf
+17,Creature,Magi
+18,Creature,Earth Chaos Wizard of the Shadows
+19,Creature,Light King Goblin
+20,Creature,Death Fighter Orc
+21,Artifact,Staff
+22,Creature,Death Merchant Hydra
+23,Creature,Light Knight Orc
+24,Artifact,Pendant
+25,Enchantment,Invert
+26,Creature,Wolf
+27,Creature,Snow Fighter Dwarf of the Golden Palace
+28,Enchantment,Shield
+29,Creature,Aura Priest Dwarf of the Haven
+30,Creature,Eagle
+31,Spell,Stun
+32,Spell,Forged Frost
+33,Creature,Death Undead Dragon of the Dead
+34,Creature,Eagle
+35,Creature,Ghoul
+36,Spell,Fireball
+37,Spell,Frost
+38,Enchantment,Mighty Grim Invert
+39,Spell,Lightning
+40,Creature,Frozen Rogue Hydra
+41,Enchantment,Firebreath
+42,Creature,Aura Monk Kraken
+43,Creature,Dark Lord Ogre of the Border
+44,Creature,Spider

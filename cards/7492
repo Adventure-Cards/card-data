@@ -1,46 +1,46 @@
-==================,DECK,7492,Medium
-0,Creature,Rare,Snow Warrior Fairy
-1,Spell,Common,Frost
-2,Creature,Common,Wolf
-3,Enchantment,Mythic,Mighty Invert
-4,Creature,Mythic,Light Chaos Demon of the Sky
-5,Creature,Rare,Frozen Monk Minotaur
-6,Enchantment,Common,Flight
-7,Creature,Legendary,Aura Fighter Orge of the Magical Forest
-8,Creature,Legendary,Earth Thief Orge of the Polar Woods
-9,Creature,Legendary,Frozen Lord Giant of the Low Hills
-10,Enchantment,Common,Shield
-11,Enchantment,Common,Flight
-12,Enchantment,Legendary,Angry Shield
-13,Creature,Common,Warlock
-14,Creature,Common,Elf
-15,Enchantment,Legendary,Extreme Age
-16,Enchantment,Legendary,Potent Alacrity
-17,Spell,Rare,Life Maelstrom
-18,Creature,Legendary,Aura Priest Cyclops of the Black Stone
-19,Spell,Common,Lightning
-20,Spell,Common,Invisibility
-21,Creature,Common,Eagle
-22,Creature,Common,Wolf
-23,Spell,Common,Burst
-24,Creature,Legendary,Light Thief Giant of the Eastern Skies
-25,Creature,Legendary,Death Lord Cyclops of the Low Hills
-26,Artifact,Common,Divine Robe
-27,Creature,Rare,Light Merchant Minotaur
-28,Enchantment,Common,Haste
-29,Creature,Rare,Dark Thief Berserker
-30,Creature,Common,Warlock
-31,Enchantment,Mythic,Extreme Haste
-32,Creature,Legendary,Dark Monk Orge of the Mountains
-33,Creature,Common,Warlock
-34,Enchantment,Common,Drain
-35,Creature,Common,Goblin
-36,Enchantment,Common,Haste
-37,Creature,Common,Goblin
-38,Creature,Common,Goblin
-39,Enchantment,Common,Invert
-40,Creature,Common,Magi
-41,Spell,Common,Revive
-42,Creature,Common,Warlock
-43,Creature,Rare,Death Warrior Griffin
-44,Enchantment,Rare,Forged Agony
+==================,DECK,7492
+0,Creature,Snow Warrior Kraken
+1,Spell,Fireball
+2,Creature,Wolf
+3,Enchantment,Instant Sorrow Shrink
+4,Creature,Light Chaos Demon of the Sky
+5,Creature,Frozen Monk Cyclops
+6,Enchantment,Shrink
+7,Creature,Aura Fighter Elf of the Magical Forest
+8,Creature,Earth Thief Elf of the Polar Woods
+9,Creature,Frozen Lord Dwarf of the Low Hills
+10,Enchantment,Drain
+11,Enchantment,Agony
+12,Enchantment,Ardent Gloom Shield
+13,Creature,Berserker
+14,Creature,Warlock
+15,Enchantment,Clever Gloom Shield
+16,Enchantment,Dire Apocalypse Shade
+17,Spell,Nimble Stun
+18,Creature,Aura Priest Giant of the Black Stone
+19,Spell,Frenzy
+20,Spell,Burst
+21,Creature,Eagle
+22,Creature,Wolf
+23,Spell,Ice
+24,Creature,Light Thief Dwarf of the Eastern Skies
+25,Creature,Death Lord Giant of the Low Hills
+26,Artifact,Divine Robe
+27,Creature,Light Merchant Cyclops
+28,Enchantment,Shield
+29,Creature,Dark Thief Goblin
+30,Creature,Berserker
+31,Enchantment,Clever Miracle Shield
+32,Creature,Dark Monk Elf of the Mountains
+33,Creature,Berserker
+34,Enchantment,Lethargy
+35,Creature,Skin-Walker
+36,Enchantment,Agony
+37,Creature,Skin-Walker
+38,Creature,Skin-Walker
+39,Enchantment,Age
+40,Creature,Fairy
+41,Spell,Ice
+42,Creature,Berserker
+43,Creature,Death Warrior Griffin
+44,Enchantment,Miracle Shrink

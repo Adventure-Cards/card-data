@@ -1,46 +1,46 @@
-==================,DECK,6089,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Wolf
-2,Creature,Common,Spider
-3,Creature,Common,Dwarf
-4,Creature,Common,Eagle
-5,Spell,Rare,Hateful Ice
-6,Creature,Common,Wolf
-7,Enchantment,Common,Invert
-8,Artifact,Legendary,Angry Scythe
-9,Creature,Common,Warlock
-10,Artifact,Common,Helmet
-11,Enchantment,Common,Lethargy
-12,Creature,Common,Magi
-13,Artifact,Common,Sword
-14,Enchantment,Legendary,Angry Strength
-15,Creature,Common,Warlock
-16,Creature,Rare,Aura Rogue Fairy
-17,Enchantment,Rare,Dark Invert
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Alacrity
-20,Creature,Common,Orc
-21,Enchantment,Common,Deathgrip
-22,Spell,Common,Pandemonium
-23,Creature,Common,Ghoul
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Shade
-26,Creature,Common,Magi
-27,Creature,Common,Eagle
-28,Creature,Legendary,Aura Queen Kraken of the Plains
-29,Creature,Common,Spider
-30,Spell,Rare,Necro Stun
-31,Enchantment,Common,Strength
-32,Creature,Common,Warlock
-33,Creature,Common,Paladin
-34,Creature,Common,Eagle
-35,Enchantment,Common,Alacrity
-36,Enchantment,Common,Shrink
-37,Creature,Rare,Frozen Priest Skin-Walker
-38,Creature,Common,Spider
-39,Creature,Rare,Death Undead Hydra
-40,Enchantment,Common,Flight
-41,Creature,Common,Ghoul
-42,Creature,Legendary,Dark Lord Orge of the Low Hills
-43,Creature,Common,Wolf
-44,Creature,Common,Eagle
+==================,DECK,6089
+0,Enchantment,Blight
+1,Creature,Wolf
+2,Creature,Paladin
+3,Creature,Magi
+4,Creature,Eagle
+5,Spell,Sorrow Stun
+6,Creature,Wolf
+7,Enchantment,Shrink
+8,Artifact,Empyrean Miracle Scythe
+9,Creature,Berserker
+10,Artifact,Helmet
+11,Enchantment,Drain
+12,Creature,Fairy
+13,Artifact,Sword
+14,Enchantment,Ardent Cataclysmic Shield
+15,Creature,Berserker
+16,Creature,Aura Rogue Kraken
+17,Enchantment,Sorrow Alacrity
+18,Creature,Magi
+19,Enchantment,Agony
+20,Creature,Spider
+21,Enchantment,Invert
+22,Spell,Tempest
+23,Creature,Ghoul
+24,Creature,Magi
+25,Enchantment,Alacrity
+26,Creature,Fairy
+27,Creature,Eagle
+28,Creature,Aura Queen Ogre of the Plains
+29,Creature,Paladin
+30,Spell,Corpse Freeze
+31,Enchantment,Flight
+32,Creature,Berserker
+33,Creature,Troll
+34,Creature,Eagle
+35,Enchantment,Lethargy
+36,Enchantment,Flight
+37,Creature,Frozen Priest Orc
+38,Creature,Paladin
+39,Creature,Death Undead Hydra
+40,Enchantment,Lethargy
+41,Creature,Ghoul
+42,Creature,Dark Lord Elf of the Low Hills
+43,Creature,Wolf
+44,Creature,Eagle

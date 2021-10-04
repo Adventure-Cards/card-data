@@ -1,46 +1,46 @@
-==================,DECK,4270,Light
-0,Creature,Common,Orc
-1,Creature,Common,Orc
-2,Enchantment,Common,Shield
-3,Creature,Common,Magi
-4,Artifact,Legendary,Urgent Bracers
-5,Creature,Common,Wolf
-6,Artifact,Common,Crown
-7,Enchantment,Common,Drain
-8,Spell,Common,Stun
-9,Artifact,Rare,Shimmering Bracers
-10,Spell,Common,Burst
-11,Creature,Rare,Aura Monk Fairy
-12,Artifact,Rare,Grim Greaves
-13,Spell,Rare,Solar Assault
-14,Spell,Common,Frost
-15,Creature,Common,Wolf
-16,Enchantment,Common,Shade
-17,Enchantment,Common,Agony
-18,Spell,Legendary,Potent Stricken
-19,Creature,Common,Goblin
-20,Creature,Common,Wolf
-21,Enchantment,Mythic,Potent Shield
-22,Artifact,Rare,Nature Bracers
-23,Enchantment,Legendary,Clever Deathgrip
-24,Creature,Rare,Frozen Queen Fairy
-25,Creature,Common,Paladin
-26,Creature,Common,Wolf
-27,Artifact,Common,Pendant
-28,Artifact,Common,Staff
-29,Enchantment,Common,Lethargy
-30,Spell,Common,Hypnosis
-31,Creature,Common,Eagle
-32,Creature,Common,Warlock
-33,Creature,Common,Ghoul
-34,Enchantment,Common,Haste
-35,Creature,Rare,Frozen Lord Griffin
-36,Enchantment,Common,Deathgrip
-37,Spell,Common,Stun
-38,Creature,Legendary,Snow Undead Giant of the Eastern Skies
-39,Enchantment,Common,Flight
-40,Creature,Rare,Earth Priest Minotaur
-41,Enchantment,Common,Invert
-42,Creature,Common,Wolf
-43,Enchantment,Common,Shrink
-44,Artifact,Legendary,Dire Ring
+==================,DECK,4270
+0,Creature,Spider
+1,Creature,Spider
+2,Enchantment,Agony
+3,Creature,Fairy
+4,Artifact,Irate Corpse Bracers
+5,Creature,Wolf
+6,Artifact,Crown
+7,Enchantment,Shield
+8,Spell,Hypnosis
+9,Artifact,Forged Bracers
+10,Spell,Frenzy
+11,Creature,Aura Monk Kraken
+12,Artifact,Life Greaves
+13,Spell,Corpse Frenzy
+14,Spell,Fire
+15,Creature,Wolf
+16,Enchantment,Deathgrip
+17,Enchantment,Shield
+18,Spell,Empyrean Frigid Torment
+19,Creature,Skin-Walker
+20,Creature,Wolf
+21,Enchantment,Urgent Victory Invert
+22,Artifact,Solar Bracers
+23,Enchantment,Zealous Oblivion Blight
+24,Creature,Frozen Queen Kraken
+25,Creature,Troll
+26,Creature,Wolf
+27,Artifact,Pendant
+28,Artifact,Staff
+29,Enchantment,Haste
+30,Spell,Freeze
+31,Creature,Eagle
+32,Creature,Berserker
+33,Creature,Ghoul
+34,Enchantment,Agony
+35,Creature,Frozen Lord Griffin
+36,Enchantment,Blight
+37,Spell,Infuriate
+38,Creature,Snow Undead Dwarf of the Eastern Skies
+39,Enchantment,Shrink
+40,Creature,Earth Priest Cyclops
+41,Enchantment,Lethargy
+42,Creature,Wolf
+43,Enchantment,Shade
+44,Artifact,Instant Frigid Ring

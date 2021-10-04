@@ -1,46 +1,46 @@
-==================,DECK,4234,Light
-0,Spell,Common,Ice
-1,Creature,Common,Orc
-2,Creature,Common,Spider
-3,Creature,Rare,Aura Undead Skin-Walker
-4,Creature,Mythic,Dark Time Phoenix of Illusion
-5,Enchantment,Common,Deathgrip
-6,Creature,Rare,Light Merchant Berserker
-7,Creature,Rare,Death Rogue Skin-Walker
-8,Creature,Common,Ghoul
-9,Enchantment,Common,Strength
-10,Enchantment,Mythic,Extreme Flight
-11,Creature,Common,Spider
-12,Artifact,Rare,Necro Helm
-13,Artifact,Common,Cloak
-14,Creature,Rare,Death Lord Minotaur
-15,Enchantment,Legendary,Clever Shade
-16,Creature,Common,Elf
-17,Creature,Common,Wolf
-18,Enchantment,Common,Age
-19,Enchantment,Mythic,Dire Age
-20,Creature,Common,Goblin
-21,Enchantment,Common,Deathgrip
-22,Creature,Common,Goblin
-23,Creature,Common,Magi
-24,Creature,Common,Orc
-25,Artifact,Common,Tome
-26,Enchantment,Common,Age
-27,Enchantment,Legendary,Extreme Invert
-28,Enchantment,Common,Shade
-29,Creature,Rare,Earth King Hydra
-30,Enchantment,Common,Agony
-31,Creature,Common,Warlock
-32,Creature,Common,Wolf
-33,Enchantment,Mythic,Extreme Haste
-34,Creature,Common,Spider
-35,Creature,Common,Goblin
-36,Enchantment,Common,Blight
-37,Artifact,Common,Boots
-38,Creature,Common,Orc
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Warlock
-41,Artifact,Common,Greaves
-42,Creature,Common,Orc
-43,Spell,Legendary,Potent Rage
-44,Creature,Common,Orc
+==================,DECK,4234
+0,Spell,Assault
+1,Creature,Spider
+2,Creature,Paladin
+3,Creature,Aura Undead Orc
+4,Creature,Dark Time Phoenix of Illusion
+5,Enchantment,Shield
+6,Creature,Light Merchant Goblin
+7,Creature,Death Rogue Orc
+8,Creature,Ghoul
+9,Enchantment,Invert
+10,Enchantment,Mighty Lunar Flight
+11,Creature,Paladin
+12,Artifact,Shimmering Helm
+13,Artifact,Cloak
+14,Creature,Death Lord Cyclops
+15,Enchantment,Irate Frigid Blight
+16,Creature,Warlock
+17,Creature,Wolf
+18,Enchantment,Firebreath
+19,Enchantment,Empyrean Victory Shade
+20,Creature,Skin-Walker
+21,Enchantment,Agony
+22,Creature,Skin-Walker
+23,Creature,Fairy
+24,Creature,Spider
+25,Artifact,Tome
+26,Enchantment,Shade
+27,Enchantment,Instant Sorrow Shrink
+28,Enchantment,Firebreath
+29,Creature,Earth King Hydra
+30,Enchantment,Agony
+31,Creature,Berserker
+32,Creature,Wolf
+33,Enchantment,Empyrean Miracle Firebreath
+34,Creature,Paladin
+35,Creature,Skin-Walker
+36,Enchantment,Drain
+37,Artifact,Boots
+38,Creature,Spider
+39,Enchantment,Invert
+40,Creature,Berserker
+41,Artifact,Greaves
+42,Creature,Spider
+43,Spell,Ardent Oblivion Assault
+44,Creature,Spider

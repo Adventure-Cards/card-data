@@ -1,46 +1,46 @@
-==================,DECK,7316,Strong
-0,Artifact,Common,Staff
-1,Enchantment,Rare,Gloom Agony
-2,Spell,Common,Sorrow
-3,Enchantment,Common,Lethargy
-4,Creature,Common,Paladin
-5,Spell,Common,Frenzy
-6,Enchantment,Rare,Forged Strength
-7,Creature,Legendary,Snow King Oni of the Mountains
-8,Creature,Common,Paladin
-9,Artifact,Common,Helm
-10,Enchantment,Rare,Miracle Blight
-11,Creature,Legendary,Aura Priest Oni of the Bright Mountains
-12,Creature,Common,Orc
-13,Creature,Common,Spider
-14,Enchantment,Legendary,Dire Haste
-15,Creature,Common,Warlock
-16,Creature,Common,Goblin
-17,Creature,Mythic,Frozen Undead Phoenix of the Void
-18,Enchantment,Mythic,Dire Shrink
-19,Artifact,Common,Bracers
-20,Spell,Common,Reanimate
-21,Enchantment,Rare,Gloom Alacrity
-22,Enchantment,Rare,Apocalypse Drain
-23,Enchantment,Legendary,Dire Alacrity
-24,Enchantment,Legendary,Clever Haste
-25,Creature,Common,Eagle
-26,Creature,Mythic,Snow Time Phoenix of Hate
-27,Enchantment,Legendary,Instant Agony
-28,Enchantment,Common,Drain
-29,Creature,Mythic,Earth Undead Phoenix of the Shadows
-30,Creature,Common,Wolf
-31,Enchantment,Rare,Forged Shade
-32,Creature,Common,Orc
-33,Creature,Rare,Light Undead Griffin
-34,Spell,Rare,Forged Freeze
-35,Creature,Rare,Aura Priest Griffin
-36,Creature,Mythic,Aura Undead Phoenix of the Light
-37,Spell,Common,Fury
-38,Creature,Common,Warlock
-39,Spell,Rare,Corpse Frost
-40,Creature,Common,Dwarf
-41,Spell,Common,Burn
-42,Spell,Common,Hypnosis
-43,Creature,Rare,Aura Monk Berserker
-44,Creature,Common,Wolf
+==================,DECK,7316
+0,Artifact,Staff
+1,Enchantment,Miracle Shield
+2,Spell,Fury
+3,Enchantment,Strength
+4,Creature,Troll
+5,Spell,Assault
+6,Enchantment,Cataclysmic Shrink
+7,Creature,Snow King Oni of the Mountains
+8,Creature,Troll
+9,Artifact,Helm
+10,Enchantment,Nimble Invert
+11,Creature,Aura Priest Oni of the Bright Mountains
+12,Creature,Spider
+13,Creature,Paladin
+14,Enchantment,Mighty Life Invert
+15,Creature,Berserker
+16,Creature,Skin-Walker
+17,Creature,Frozen Undead Phoenix of the Void
+18,Enchantment,Empyrean Frigid Shade
+19,Artifact,Bracers
+20,Spell,Maelstrom
+21,Enchantment,Dark Flight
+22,Enchantment,Apocalypse Invert
+23,Enchantment,Dire Apocalypse Shade
+24,Enchantment,Mighty Life Invert
+25,Creature,Eagle
+26,Creature,Snow Time Phoenix of Hate
+27,Enchantment,Dire Corpse Age
+28,Enchantment,Flight
+29,Creature,Earth Undead Phoenix of the Shadows
+30,Creature,Wolf
+31,Enchantment,Chimeric Shrink
+32,Creature,Spider
+33,Creature,Light Undead Griffin
+34,Spell,Gloom Revive
+35,Creature,Aura Priest Griffin
+36,Creature,Aura Undead Phoenix of the Light
+37,Spell,Torment
+38,Creature,Berserker
+39,Spell,Necro Fireball
+40,Creature,Magi
+41,Spell,Sorrow
+42,Spell,Fire
+43,Creature,Aura Monk Goblin
+44,Creature,Wolf

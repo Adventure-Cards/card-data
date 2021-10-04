@@ -1,46 +1,46 @@
-==================,DECK,4766,Light
-0,Creature,Common,Magi
-1,Creature,Common,Paladin
-2,Creature,Legendary,Earth Assassin Oni of the Polar Woods
-3,Creature,Mythic,Frozen Undead Phoenix of the Void
-4,Creature,Common,Warlock
-5,Artifact,Common,Cloak
-6,Creature,Common,Dwarf
-7,Creature,Rare,Snow Rogue Fairy
-8,Artifact,Common,Pendant
-9,Creature,Common,Elf
-10,Creature,Common,Magi
-11,Creature,Common,Elf
-12,Artifact,Common,Amulet
-13,Creature,Common,Elf
-14,Creature,Common,Spider
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Rare,Solar Alacrity
-17,Spell,Rare,Miracle Pandemonium
-18,Creature,Common,Eagle
-19,Creature,Common,Orc
-20,Creature,Mythic,Light Chaos Wizard of the Sky
-21,Spell,Common,Maelstrom
-22,Enchantment,Common,Agony
-23,Spell,Legendary,Mighty Frost
-24,Enchantment,Common,Agony
-25,Creature,Common,Spider
-26,Spell,Common,Hypnosis
-27,Creature,Common,Wolf
-28,Creature,Common,Paladin
-29,Spell,Common,Pandemonium
-30,Enchantment,Common,Alacrity
-31,Creature,Rare,Death Undead Hydra
-32,Creature,Common,Magi
-33,Spell,Common,Maelstrom
-34,Enchantment,Common,Age
-35,Creature,Common,Spider
-36,Spell,Common,Revive
-37,Artifact,Rare,Lunar Scepter
-38,Creature,Common,Goblin
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Wolf
-41,Artifact,Rare,Hateful Potion
-42,Enchantment,Common,Flight
-43,Creature,Common,Elf
-44,Spell,Rare,Life Infuriate
+==================,DECK,4766
+0,Creature,Fairy
+1,Creature,Troll
+2,Creature,Earth Assassin Oni of the Polar Woods
+3,Creature,Frozen Undead Phoenix of the Void
+4,Creature,Berserker
+5,Artifact,Cloak
+6,Creature,Magi
+7,Creature,Snow Rogue Kraken
+8,Artifact,Pendant
+9,Creature,Warlock
+10,Creature,Fairy
+11,Creature,Warlock
+12,Artifact,Amulet
+13,Creature,Warlock
+14,Creature,Paladin
+15,Enchantment,Strength
+16,Enchantment,Forged Agony
+17,Spell,Grim Vortex
+18,Creature,Eagle
+19,Creature,Spider
+20,Creature,Light Chaos Wizard of the Sky
+21,Spell,Pandemonium
+22,Enchantment,Flight
+23,Spell,Irate Dark Frenzy
+24,Enchantment,Age
+25,Creature,Paladin
+26,Spell,Pandemonium
+27,Creature,Wolf
+28,Creature,Troll
+29,Spell,Sorrow
+30,Enchantment,Haste
+31,Creature,Death Undead Hydra
+32,Creature,Fairy
+33,Spell,Reanimate
+34,Enchantment,Shade
+35,Creature,Paladin
+36,Spell,Pandemonium
+37,Artifact,Gloom Scepter
+38,Creature,Skin-Walker
+39,Enchantment,Blight
+40,Creature,Wolf
+41,Artifact,Miracle Potion
+42,Enchantment,Shade
+43,Creature,Warlock
+44,Spell,Victory Pandemonium

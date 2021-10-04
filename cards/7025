@@ -1,46 +1,46 @@
-==================,DECK,7025,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Legendary,Mighty Lethargy
-2,Enchantment,Rare,Hateful Blight
-3,Creature,Common,Ghoul
-4,Creature,Common,Goblin
-5,Creature,Common,Elf
-6,Spell,Common,Burst
-7,Creature,Legendary,Snow Warrior Kraken of the Low Hills
-8,Creature,Rare,Death Warrior Skin-Walker
-9,Creature,Rare,Snow Queen Minotaur
-10,Spell,Common,Reanimate
-11,Creature,Common,Orc
-12,Creature,Legendary,Light King Orge of the Swamp
-13,Spell,Rare,Frigid Lightning
-14,Creature,Common,Wolf
-15,Enchantment,Common,Flight
-16,Enchantment,Common,Alacrity
-17,Spell,Common,Torment
-18,Artifact,Common,Sword
-19,Spell,Common,Burst
-20,Creature,Common,Dwarf
-21,Creature,Common,Ghoul
-22,Creature,Legendary,Frozen Merchant Cyclops of the Mountains
-23,Artifact,Common,Crown
-24,Creature,Rare,Aura Thief Minotaur
-25,Creature,Common,Spider
-26,Creature,Rare,Earth Priest Griffin
-27,Creature,Common,Paladin
-28,Enchantment,Common,Shrink
-29,Creature,Common,Spider
-30,Spell,Rare,Life Fury
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Drain
-33,Creature,Common,Eagle
-34,Enchantment,Common,Flight
-35,Creature,Common,Eagle
-36,Spell,Common,Vortex
-37,Enchantment,Mythic,Angry Haste
-38,Enchantment,Common,Deathgrip
-39,Spell,Common,Infuriate
-40,Creature,Common,Magi
-41,Artifact,Rare,Forged Pendant
-42,Enchantment,Common,Lethargy
-43,Enchantment,Common,Shield
-44,Spell,Common,Hypnosis
+==================,DECK,7025
+0,Enchantment,Firebreath
+1,Enchantment,Dire Lunar Firebreath
+2,Enchantment,Cataclysmic Shield
+3,Creature,Ghoul
+4,Creature,Skin-Walker
+5,Creature,Warlock
+6,Spell,Invisibility
+7,Creature,Snow Warrior Ogre of the Low Hills
+8,Creature,Death Warrior Orc
+9,Creature,Snow Queen Cyclops
+10,Spell,Invisibility
+11,Creature,Spider
+12,Creature,Light King Elf of the Swamp
+13,Spell,Frigid Fury
+14,Creature,Wolf
+15,Enchantment,Age
+16,Enchantment,Shield
+17,Spell,Wall
+18,Artifact,Sword
+19,Spell,Frenzy
+20,Creature,Magi
+21,Creature,Ghoul
+22,Creature,Frozen Merchant Giant of the Mountains
+23,Artifact,Crown
+24,Creature,Aura Thief Cyclops
+25,Creature,Paladin
+26,Creature,Earth Priest Griffin
+27,Creature,Troll
+28,Enchantment,Shield
+29,Creature,Paladin
+30,Spell,Grim Pandemonium
+31,Creature,Ghoul
+32,Enchantment,Shield
+33,Creature,Eagle
+34,Enchantment,Agony
+35,Creature,Eagle
+36,Spell,Burn
+37,Enchantment,Empyrean Miracle Firebreath
+38,Enchantment,Blight
+39,Spell,Sorrow
+40,Creature,Fairy
+41,Artifact,Dark Pendant
+42,Enchantment,Shield
+43,Enchantment,Lethargy
+44,Spell,Fireball

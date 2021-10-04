@@ -1,46 +1,46 @@
-==================,DECK,5970,Light
-0,Creature,Common,Ghoul
-1,Creature,Rare,Death Monk Berserker
-2,Spell,Legendary,Urgent Stricken
-3,Enchantment,Rare,Hateful Age
-4,Creature,Common,Magi
-5,Creature,Rare,Aura Rogue Hydra
-6,Creature,Legendary,Aura Rogue Cyclops of the West
-7,Creature,Common,Wolf
-8,Creature,Common,Magi
-9,Creature,Common,Eagle
-10,Creature,Common,Warlock
-11,Creature,Common,Paladin
-12,Creature,Common,Orc
-13,Creature,Legendary,Frozen Warrior Giant of the Low Hills
-14,Enchantment,Legendary,Instant Shield
-15,Artifact,Common,Staff
-16,Creature,Common,Elf
-17,Enchantment,Common,Shrink
-18,Spell,Rare,Cataclysmic Stun
-19,Creature,Common,Elf
-20,Spell,Common,Burn
-21,Spell,Common,Heal
-22,Creature,Rare,Snow Lord Skin-Walker
-23,Spell,Rare,Miracle Fury
-24,Creature,Common,Wolf
-25,Spell,Common,Freeze
-26,Artifact,Legendary,Urgent Boots
-27,Spell,Rare,Dark Gravitation
-28,Creature,Common,Magi
-29,Creature,Rare,Earth Warrior Berserker
-30,Enchantment,Common,Shade
-31,Creature,Rare,Dark King Minotaur
-32,Artifact,Common,Sigil
-33,Enchantment,Common,Shrink
-34,Creature,Common,Orc
-35,Creature,Rare,Death Knight Minotaur
-36,Enchantment,Common,Shield
-37,Creature,Common,Spider
-38,Spell,Rare,Oblivion Invisibility
-39,Creature,Common,Elf
-40,Spell,Common,Infuriate
-41,Creature,Legendary,Earth Merchant Oni of the Plains
-42,Artifact,Common,Divine Robe
-43,Creature,Common,Dwarf
-44,Creature,Common,Orc
+==================,DECK,5970
+0,Creature,Ghoul
+1,Creature,Death Monk Goblin
+2,Spell,Clever Solar Frenzy
+3,Enchantment,Gloom Alacrity
+4,Creature,Fairy
+5,Creature,Aura Rogue Hydra
+6,Creature,Aura Rogue Giant of the West
+7,Creature,Wolf
+8,Creature,Fairy
+9,Creature,Eagle
+10,Creature,Berserker
+11,Creature,Troll
+12,Creature,Spider
+13,Creature,Frozen Warrior Dwarf of the Low Hills
+14,Enchantment,Dire Nature Age
+15,Artifact,Staff
+16,Creature,Warlock
+17,Enchantment,Shade
+18,Spell,Miracle Torment
+19,Creature,Warlock
+20,Spell,Lightning
+21,Spell,Stun
+22,Creature,Snow Lord Orc
+23,Spell,Life Assault
+24,Creature,Wolf
+25,Spell,Invisibility
+26,Artifact,Clever Solar Boots
+27,Spell,Miracle Vortex
+28,Creature,Fairy
+29,Creature,Earth Warrior Goblin
+30,Enchantment,Drain
+31,Creature,Dark King Cyclops
+32,Artifact,Sigil
+33,Enchantment,Shield
+34,Creature,Spider
+35,Creature,Death Knight Cyclops
+36,Enchantment,Invert
+37,Creature,Paladin
+38,Spell,Oblivion Assault
+39,Creature,Warlock
+40,Spell,Maelstrom
+41,Creature,Earth Merchant Oni of the Plains
+42,Artifact,Divine Robe
+43,Creature,Magi
+44,Creature,Spider

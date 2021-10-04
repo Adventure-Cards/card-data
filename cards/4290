@@ -1,46 +1,46 @@
-==================,DECK,4290,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Shade
-2,Creature,Common,Elf
-3,Creature,Rare,Frozen Monk Hydra
-4,Spell,Common,Sorrow
-5,Creature,Common,Magi
-6,Creature,Rare,Death Undead Skin-Walker
-7,Creature,Legendary,Dark Warrior Cyclops of the Magical Forest
-8,Spell,Legendary,Angry Heal
-9,Creature,Common,Spider
-10,Creature,Common,Dwarf
-11,Enchantment,Rare,Life Flight
-12,Spell,Common,Infuriate
-13,Creature,Common,Wolf
-14,Spell,Rare,Miracle Gale
-15,Creature,Mythic,Death Grand Wizard of the Dead
-16,Spell,Legendary,Potent Burn
-17,Artifact,Legendary,Mighty Tome
-18,Spell,Rare,Frigid Vortex
-19,Spell,Legendary,Clever Gravitation
-20,Enchantment,Common,Deathgrip
-21,Artifact,Common,Helmet
-22,Creature,Mythic,Dark Chaos Wizard of Illusion
-23,Enchantment,Rare,Hateful Blight
-24,Enchantment,Mythic,Urgent Invert
-25,Creature,Common,Elf
-26,Spell,Mythic,Dire Vortex
-27,Enchantment,Common,Haste
-28,Creature,Common,Elf
-29,Enchantment,Common,Deathgrip
-30,Creature,Common,Ghoul
-31,Creature,Common,Magi
-32,Creature,Common,Goblin
-33,Creature,Common,Orc
-34,Creature,Common,Magi
-35,Creature,Common,Goblin
-36,Artifact,Common,Tome
-37,Creature,Common,Goblin
-38,Creature,Rare,Frozen Assassin Hydra
-39,Spell,Legendary,Intense Heal
-40,Creature,Common,Ghoul
-41,Creature,Common,Eagle
-42,Artifact,Legendary,Clever Sigil
-43,Creature,Common,Magi
-44,Creature,Legendary,Snow Warrior Oni of the Golden Palace
+==================,DECK,4290
+0,Creature,Magi
+1,Enchantment,Invert
+2,Creature,Warlock
+3,Creature,Frozen Monk Hydra
+4,Spell,Gale
+5,Creature,Fairy
+6,Creature,Death Undead Orc
+7,Creature,Dark Warrior Giant of the Magical Forest
+8,Spell,Ardent Chimeric Burn
+9,Creature,Paladin
+10,Creature,Magi
+11,Enchantment,Grim Drain
+12,Spell,Pandemonium
+13,Creature,Wolf
+14,Spell,Frigid Fury
+15,Creature,Death Grand Wizard of the Dead
+16,Spell,Zealous Victory Burn
+17,Artifact,Empyrean Cataclysmic Tome
+18,Spell,Life Pandemonium
+19,Spell,Urgent Frigid Invisibility
+20,Enchantment,Haste
+21,Artifact,Helmet
+22,Creature,Dark Chaos Wizard of Illusion
+23,Enchantment,Cataclysmic Alacrity
+24,Enchantment,Urgent Shimmering Agony
+25,Creature,Warlock
+26,Spell,Irate Life Maelstrom
+27,Enchantment,Firebreath
+28,Creature,Warlock
+29,Enchantment,Haste
+30,Creature,Ghoul
+31,Creature,Fairy
+32,Creature,Skin-Walker
+33,Creature,Spider
+34,Creature,Fairy
+35,Creature,Skin-Walker
+36,Artifact,Tome
+37,Creature,Skin-Walker
+38,Creature,Frozen Assassin Hydra
+39,Spell,Ardent Forged Pandemonium
+40,Creature,Ghoul
+41,Creature,Eagle
+42,Artifact,Mighty Victory Sigil
+43,Creature,Fairy
+44,Creature,Snow Warrior Oni of the Golden Palace

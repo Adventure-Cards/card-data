@@ -1,46 +1,46 @@
-==================,DECK,4154,Light
-0,Spell,Common,Burst
-1,Spell,Rare,Cataclysmic Maelstrom
-2,Enchantment,Common,Flight
-3,Enchantment,Rare,Gloom Invert
-4,Enchantment,Rare,Miracle Deathgrip
-5,Spell,Common,Infuriate
-6,Enchantment,Common,Strength
-7,Creature,Rare,Snow Warrior Fairy
-8,Enchantment,Rare,Oblivion Shade
-9,Artifact,Legendary,Angry Crown
-10,Enchantment,Common,Age
-11,Creature,Mythic,Frozen Grand Demon of the Void
-12,Creature,Legendary,Frozen Lord Kraken of the Haven
-13,Creature,Common,Elf
-14,Enchantment,Common,Deathgrip
-15,Creature,Common,Magi
-16,Enchantment,Legendary,Intense Invert
-17,Enchantment,Common,Shrink
-18,Artifact,Common,Bracers
-19,Spell,Common,Frost
-20,Enchantment,Common,Age
-21,Creature,Common,Goblin
-22,Enchantment,Common,Shield
-23,Creature,Common,Goblin
-24,Creature,Common,Ghoul
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Spider
-27,Spell,Rare,Grim Assault
-28,Artifact,Rare,Solar Ring
-29,Creature,Common,Orc
-30,Spell,Common,Frenzy
-31,Enchantment,Common,Drain
-32,Spell,Rare,Frigid Heal
-33,Creature,Common,Goblin
-34,Artifact,Common,Pendant
-35,Spell,Rare,Cataclysmic Hypnosis
-36,Enchantment,Common,Alacrity
-37,Spell,Common,Maelstrom
-38,Creature,Legendary,Frozen Queen Cyclops of the Low Hills
-39,Artifact,Rare,Shimmering Staff
-40,Creature,Common,Warlock
-41,Spell,Common,Invisibility
-42,Creature,Common,Wolf
-43,Spell,Common,Lightning
-44,Artifact,Common,Sigil
+==================,DECK,4154
+0,Spell,Vortex
+1,Spell,Lunar Torment
+2,Enchantment,Shrink
+3,Enchantment,Sorrow Shield
+4,Enchantment,Oblivion Haste
+5,Spell,Vortex
+6,Enchantment,Shade
+7,Creature,Snow Warrior Kraken
+8,Enchantment,Frigid Shade
+9,Artifact,Zealous Sorrow Crown
+10,Enchantment,Blight
+11,Creature,Frozen Grand Demon of the Void
+12,Creature,Frozen Lord Ogre of the Haven
+13,Creature,Warlock
+14,Enchantment,Deathgrip
+15,Creature,Fairy
+16,Enchantment,Ardent Shimmering Lethargy
+17,Enchantment,Shield
+18,Artifact,Bracers
+19,Spell,Fury
+20,Enchantment,Firebreath
+21,Creature,Skin-Walker
+22,Enchantment,Strength
+23,Creature,Skin-Walker
+24,Creature,Ghoul
+25,Enchantment,Invert
+26,Creature,Paladin
+27,Spell,Apocalypse Wall
+28,Artifact,Corpse Ring
+29,Creature,Spider
+30,Spell,Hypnosis
+31,Enchantment,Blight
+32,Spell,Life Invisibility
+33,Creature,Skin-Walker
+34,Artifact,Pendant
+35,Spell,Sorrow Tempest
+36,Enchantment,Shade
+37,Spell,Lightning
+38,Creature,Frozen Queen Giant of the Low Hills
+39,Artifact,Hateful Staff
+40,Creature,Berserker
+41,Spell,Infuriate
+42,Creature,Wolf
+43,Spell,Fireball
+44,Artifact,Sigil

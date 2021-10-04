@@ -1,46 +1,46 @@
-==================,DECK,6766,Light
-0,Spell,Common,Sorrow
-1,Spell,Common,Heal
-2,Enchantment,Common,Blight
-3,Creature,Common,Wolf
-4,Creature,Common,Magi
-5,Enchantment,Common,Flight
-6,Spell,Common,Heal
-7,Creature,Common,Orc
-8,Creature,Common,Eagle
-9,Creature,Common,Wolf
-10,Enchantment,Common,Haste
-11,Creature,Mythic,Snow Ancient Wizard of Hate
-12,Creature,Common,Ghoul
-13,Enchantment,Common,Flight
-14,Enchantment,Mythic,Intense Alacrity
-15,Enchantment,Common,Deathgrip
-16,Creature,Common,Goblin
-17,Spell,Common,Freeze
-18,Spell,Common,Revive
-19,Enchantment,Common,Shrink
-20,Spell,Common,Reanimate
-21,Enchantment,Rare,Nature Haste
-22,Artifact,Legendary,Potent Staff
-23,Creature,Common,Spider
-24,Enchantment,Common,Drain
-25,Creature,Common,Elf
-26,Creature,Rare,Dark Knight Hydra
-27,Creature,Common,Magi
-28,Creature,Common,Paladin
-29,Enchantment,Common,Shade
-30,Creature,Common,Wolf
-31,Spell,Common,Gravitation
-32,Creature,Common,Spider
-33,Spell,Common,Frenzy
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Spider
-36,Creature,Common,Magi
-37,Creature,Rare,Snow Merchant Berserker
-38,Enchantment,Common,Age
-39,Enchantment,Rare,Life Drain
-40,Creature,Common,Eagle
-41,Creature,Rare,Snow Lord Minotaur
-42,Spell,Common,Reanimate
-43,Spell,Rare,Corpse Heal
-44,Creature,Rare,Light Lord Hydra
+==================,DECK,6766
+0,Spell,Torment
+1,Spell,Tempest
+2,Enchantment,Firebreath
+3,Creature,Wolf
+4,Creature,Fairy
+5,Enchantment,Blight
+6,Spell,Revive
+7,Creature,Spider
+8,Creature,Eagle
+9,Creature,Wolf
+10,Enchantment,Alacrity
+11,Creature,Snow Ancient Wizard of Hate
+12,Creature,Ghoul
+13,Enchantment,Firebreath
+14,Enchantment,Urgent Forged Agony
+15,Enchantment,Invert
+16,Creature,Skin-Walker
+17,Spell,Lightning
+18,Spell,Hypnosis
+19,Enchantment,Blight
+20,Spell,Gale
+21,Enchantment,Corpse Agony
+22,Artifact,Irate Victory Staff
+23,Creature,Paladin
+24,Enchantment,Lethargy
+25,Creature,Warlock
+26,Creature,Dark Knight Hydra
+27,Creature,Fairy
+28,Creature,Troll
+29,Enchantment,Lethargy
+30,Creature,Wolf
+31,Spell,Wall
+32,Creature,Paladin
+33,Spell,Maelstrom
+34,Enchantment,Deathgrip
+35,Creature,Paladin
+36,Creature,Fairy
+37,Creature,Snow Merchant Goblin
+38,Enchantment,Invert
+39,Enchantment,Apocalypse Blight
+40,Creature,Eagle
+41,Creature,Snow Lord Cyclops
+42,Spell,Rage
+43,Spell,Forged Torment
+44,Creature,Light Lord Hydra

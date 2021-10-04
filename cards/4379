@@ -1,46 +1,46 @@
-==================,DECK,4379,Light
-0,Creature,Rare,Frozen Merchant Minotaur
-1,Spell,Common,Gale
-2,Creature,Legendary,Aura Fighter Cyclops of the Golden Palace
-3,Creature,Common,Eagle
-4,Spell,Rare,Lunar Reanimate
-5,Creature,Common,Magi
-6,Spell,Rare,Hateful Ice
-7,Spell,Common,Torment
-8,Creature,Legendary,Light Lord Kraken of the Swamp
-9,Spell,Common,Sorrow
-10,Creature,Common,Goblin
-11,Enchantment,Common,Haste
-12,Creature,Common,Goblin
-13,Creature,Common,Spider
-14,Creature,Common,Eagle
-15,Creature,Common,Paladin
-16,Enchantment,Mythic,Mighty Invert
-17,Spell,Common,Pandemonium
-18,Creature,Legendary,Aura Undead Giant of the West
-19,Creature,Common,Elf
-20,Spell,Rare,Grim Frenzy
-21,Spell,Common,Vortex
-22,Enchantment,Common,Strength
-23,Enchantment,Common,Invert
-24,Creature,Common,Ghoul
-25,Enchantment,Common,Strength
-26,Creature,Rare,Light Undead Berserker
-27,Spell,Rare,Shimmering Pandemonium
-28,Creature,Rare,Snow Priest Berserker
-29,Creature,Legendary,Earth Priest Kraken of the Plains
-30,Creature,Common,Spider
-31,Creature,Common,Paladin
-32,Creature,Rare,Aura Warrior Berserker
-33,Spell,Common,Gravitation
-34,Creature,Common,Elf
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Lethargy
-37,Enchantment,Legendary,Urgent Strength
-38,Creature,Rare,Earth Monk Hydra
-39,Enchantment,Common,Blight
-40,Enchantment,Common,Age
-41,Creature,Common,Magi
-42,Spell,Common,Reanimate
-43,Artifact,Rare,Grim Bracers
-44,Creature,Rare,Aura Lord Hydra
+==================,DECK,4379
+0,Creature,Frozen Merchant Cyclops
+1,Spell,Stricken
+2,Creature,Aura Fighter Giant of the Golden Palace
+3,Creature,Eagle
+4,Spell,Chimeric Maelstrom
+5,Creature,Fairy
+6,Spell,Gloom Frost
+7,Spell,Assault
+8,Creature,Light Lord Ogre of the Swamp
+9,Spell,Torment
+10,Creature,Skin-Walker
+11,Enchantment,Agony
+12,Creature,Skin-Walker
+13,Creature,Paladin
+14,Creature,Eagle
+15,Creature,Troll
+16,Enchantment,Urgent Sorrow Flight
+17,Spell,Tempest
+18,Creature,Aura Undead Dwarf of the West
+19,Creature,Warlock
+20,Spell,Oblivion Pandemonium
+21,Spell,Heal
+22,Enchantment,Lethargy
+23,Enchantment,Haste
+24,Creature,Ghoul
+25,Enchantment,Drain
+26,Creature,Light Undead Goblin
+27,Spell,Necro Assault
+28,Creature,Snow Priest Goblin
+29,Creature,Earth Priest Ogre of the Plains
+30,Creature,Paladin
+31,Creature,Troll
+32,Creature,Aura Warrior Goblin
+33,Spell,Frost
+34,Creature,Warlock
+35,Creature,Ghoul
+36,Enchantment,Shield
+37,Enchantment,Irate Solar Deathgrip
+38,Creature,Earth Monk Hydra
+39,Enchantment,Agony
+40,Enchantment,Age
+41,Creature,Fairy
+42,Spell,Invisibility
+43,Artifact,Victory Bracers
+44,Creature,Aura Lord Hydra

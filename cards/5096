@@ -1,46 +1,46 @@
-==================,DECK,5096,Light
-0,Creature,Mythic,Earth Ancient Wizard of the Shadows
-1,Spell,Common,Gale
-2,Creature,Common,Orc
-3,Spell,Common,Assault
-4,Enchantment,Common,Drain
-5,Creature,Common,Spider
-6,Creature,Common,Magi
-7,Enchantment,Rare,Life Haste
-8,Enchantment,Mythic,Intense Shade
-9,Creature,Common,Wolf
-10,Enchantment,Rare,Grim Alacrity
-11,Enchantment,Common,Invert
-12,Creature,Common,Orc
-13,Creature,Rare,Earth Priest Berserker
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Age
-16,Creature,Rare,Death King Minotaur
-17,Creature,Common,Magi
-18,Artifact,Common,Ghost Wand
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Paladin
-21,Creature,Mythic,Aura Nameless Phoenix of the Light
-22,Creature,Common,Dwarf
-23,Creature,Rare,Frozen Knight Hydra
-24,Creature,Common,Orc
-25,Creature,Common,Paladin
-26,Creature,Rare,Dark Undead Hydra
-27,Creature,Rare,Earth Monk Griffin
-28,Creature,Common,Spider
-29,Artifact,Common,Potion
-30,Spell,Common,Revive
-31,Enchantment,Common,Haste
-32,Creature,Common,Elf
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Creature,Common,Paladin
-36,Creature,Common,Paladin
-37,Creature,Common,Wolf
-38,Creature,Common,Spider
-39,Creature,Rare,Dark Assassin Minotaur
-40,Creature,Rare,Light Thief Hydra
-41,Creature,Common,Eagle
-42,Creature,Common,Wolf
-43,Enchantment,Common,Shrink
-44,Spell,Common,Revive
+==================,DECK,5096
+0,Creature,Earth Ancient Wizard of the Shadows
+1,Spell,Stricken
+2,Creature,Spider
+3,Spell,Fury
+4,Enchantment,Flight
+5,Creature,Paladin
+6,Creature,Fairy
+7,Enchantment,Life Drain
+8,Enchantment,Dire Necro Age
+9,Creature,Wolf
+10,Enchantment,Apocalypse Shade
+11,Enchantment,Invert
+12,Creature,Spider
+13,Creature,Earth Priest Goblin
+14,Creature,Magi
+15,Enchantment,Strength
+16,Creature,Death King Cyclops
+17,Creature,Fairy
+18,Artifact,Ghost Wand
+19,Enchantment,Shrink
+20,Creature,Troll
+21,Creature,Aura Nameless Phoenix of the Light
+22,Creature,Magi
+23,Creature,Frozen Knight Hydra
+24,Creature,Spider
+25,Creature,Troll
+26,Creature,Dark Undead Hydra
+27,Creature,Earth Monk Griffin
+28,Creature,Paladin
+29,Artifact,Potion
+30,Spell,Heal
+31,Enchantment,Alacrity
+32,Creature,Warlock
+33,Creature,Warlock
+34,Creature,Magi
+35,Creature,Troll
+36,Creature,Troll
+37,Creature,Wolf
+38,Creature,Paladin
+39,Creature,Dark Assassin Cyclops
+40,Creature,Light Thief Hydra
+41,Creature,Eagle
+42,Creature,Wolf
+43,Enchantment,Strength
+44,Spell,Vortex

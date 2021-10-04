@@ -1,46 +1,46 @@
-==================,DECK,5817,Medium
-0,Spell,Common,Pandemonium
-1,Spell,Common,Ice
-2,Spell,Common,Stricken
-3,Spell,Common,Invisibility
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Paladin
-6,Creature,Common,Goblin
-7,Enchantment,Legendary,Dire Lethargy
-8,Artifact,Common,Crown
-9,Creature,Common,Goblin
-10,Artifact,Common,Bow
-11,Creature,Rare,Frozen Thief Griffin
-12,Creature,Legendary,Death King Oni of the Eastern Skies
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Goblin
-15,Creature,Common,Warlock
-16,Spell,Common,Stricken
-17,Creature,Common,Goblin
-18,Artifact,Common,Divine Robe
-19,Creature,Rare,Frozen Thief Hydra
-20,Creature,Common,Elf
-21,Creature,Rare,Snow Lord Minotaur
-22,Artifact,Common,Belt
-23,Creature,Legendary,Light Undead Oni of the Golden Palace
-24,Creature,Rare,Light Monk Fairy
-25,Spell,Common,Revive
-26,Creature,Common,Spider
-27,Enchantment,Common,Invert
-28,Creature,Common,Spider
-29,Enchantment,Mythic,Mighty Strength
-30,Spell,Common,Sorrow
-31,Spell,Common,Assault
-32,Creature,Legendary,Light Fighter Cyclops of the Frozen Castle
-33,Spell,Rare,Nimble Vortex
-34,Creature,Mythic,Earth Nameless Dragon of the Shadows
-35,Spell,Legendary,Urgent Sorrow
-36,Creature,Mythic,Light Ancient Wizard of the Sky
-37,Enchantment,Common,Blight
-38,Creature,Common,Wolf
-39,Enchantment,Legendary,Potent Deathgrip
-40,Creature,Rare,Earth Monk Skin-Walker
-41,Enchantment,Rare,Lunar Shrink
-42,Creature,Common,Wolf
-43,Creature,Rare,Snow Knight Hydra
-44,Creature,Mythic,Death Ancient Wizard of the Dead
+==================,DECK,5817
+0,Spell,Heal
+1,Spell,Freeze
+2,Spell,Frost
+3,Spell,Burn
+4,Enchantment,Strength
+5,Creature,Troll
+6,Creature,Skin-Walker
+7,Enchantment,Instant Grim Drain
+8,Artifact,Crown
+9,Creature,Skin-Walker
+10,Artifact,Bow
+11,Creature,Frozen Thief Griffin
+12,Creature,Death King Oni of the Eastern Skies
+13,Enchantment,Haste
+14,Creature,Skin-Walker
+15,Creature,Berserker
+16,Spell,Pandemonium
+17,Creature,Skin-Walker
+18,Artifact,Divine Robe
+19,Creature,Frozen Thief Hydra
+20,Creature,Warlock
+21,Creature,Snow Lord Cyclops
+22,Artifact,Belt
+23,Creature,Light Undead Oni of the Golden Palace
+24,Creature,Light Monk Kraken
+25,Spell,Gravitation
+26,Creature,Paladin
+27,Enchantment,Alacrity
+28,Creature,Paladin
+29,Enchantment,Urgent Cataclysmic Flight
+30,Spell,Freeze
+31,Spell,Lightning
+32,Creature,Light Fighter Giant of the Frozen Castle
+33,Spell,Solar Freeze
+34,Creature,Earth Nameless Dragon of the Shadows
+35,Spell,Clever Hateful Hypnosis
+36,Creature,Light Ancient Wizard of the Sky
+37,Enchantment,Blight
+38,Creature,Wolf
+39,Enchantment,Clever Oblivion Haste
+40,Creature,Earth Monk Orc
+41,Enchantment,Chimeric Flight
+42,Creature,Wolf
+43,Creature,Snow Knight Hydra
+44,Creature,Death Ancient Wizard of the Dead

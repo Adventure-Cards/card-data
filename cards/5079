@@ -1,46 +1,46 @@
-==================,DECK,5079,Medium
-0,Creature,Rare,Death King Berserker
-1,Creature,Common,Goblin
-2,Enchantment,Mythic,Angry Flight
-3,Artifact,Common,Crown
-4,Spell,Common,Sorrow
-5,Enchantment,Common,Shield
-6,Enchantment,Common,Age
-7,Spell,Rare,Frigid Wall
-8,Spell,Rare,Solar Vortex
-9,Enchantment,Rare,Apocalypse Deathgrip
-10,Enchantment,Common,Blight
-11,Enchantment,Rare,Cataclysmic Flight
-12,Enchantment,Common,Blight
-13,Creature,Common,Goblin
-14,Creature,Common,Wolf
-15,Creature,Common,Elf
-16,Spell,Mythic,Dire Lightning
-17,Creature,Mythic,Light Time Dragon of the Sky
-18,Enchantment,Common,Agony
-19,Creature,Common,Paladin
-20,Creature,Common,Spider
-21,Spell,Legendary,Angry Heal
-22,Artifact,Common,Pendant
-23,Enchantment,Common,Age
-24,Creature,Common,Orc
-25,Spell,Common,Freeze
-26,Enchantment,Common,Shrink
-27,Creature,Common,Orc
-28,Enchantment,Common,Agony
-29,Artifact,Rare,Corpse Helm
-30,Artifact,Common,Sword
-31,Enchantment,Common,Shrink
-32,Spell,Legendary,Clever Lightning
-33,Creature,Rare,Frozen Merchant Fairy
-34,Creature,Common,Paladin
-35,Creature,Common,Wolf
-36,Creature,Rare,Frozen Monk Minotaur
-37,Creature,Rare,Death Lord Berserker
-38,Artifact,Legendary,Angry Gloves
-39,Creature,Rare,Dark Undead Fairy
-40,Creature,Common,Ghoul
-41,Enchantment,Common,Shield
-42,Creature,Rare,Earth Thief Griffin
-43,Artifact,Rare,Necro Scepter
-44,Creature,Rare,Dark Rogue Skin-Walker
+==================,DECK,5079
+0,Creature,Death King Goblin
+1,Creature,Skin-Walker
+2,Enchantment,Clever Lunar Shield
+3,Artifact,Crown
+4,Spell,Tempest
+5,Enchantment,Lethargy
+6,Enchantment,Haste
+7,Spell,Frigid Sorrow
+8,Spell,Necro Vortex
+9,Enchantment,Oblivion Blight
+10,Enchantment,Agony
+11,Enchantment,Lunar Firebreath
+12,Enchantment,Age
+13,Creature,Skin-Walker
+14,Creature,Wolf
+15,Creature,Warlock
+16,Spell,Irate Victory Revive
+17,Creature,Light Time Dragon of the Sky
+18,Enchantment,Shrink
+19,Creature,Troll
+20,Creature,Paladin
+21,Spell,Instant Sorrow Fury
+22,Artifact,Pendant
+23,Enchantment,Strength
+24,Creature,Spider
+25,Spell,Burn
+26,Enchantment,Age
+27,Creature,Spider
+28,Enchantment,Shield
+29,Artifact,Corpse Helm
+30,Artifact,Sword
+31,Enchantment,Shrink
+32,Spell,Instant Oblivion Gravitation
+33,Creature,Frozen Merchant Kraken
+34,Creature,Troll
+35,Creature,Wolf
+36,Creature,Frozen Monk Cyclops
+37,Creature,Death Lord Goblin
+38,Artifact,Potent Chimeric Gloves
+39,Creature,Dark Undead Kraken
+40,Creature,Ghoul
+41,Enchantment,Age
+42,Creature,Earth Thief Griffin
+43,Artifact,Nature Scepter
+44,Creature,Dark Rogue Orc

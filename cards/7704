@@ -1,46 +1,46 @@
-==================,DECK,7704,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Assault
-2,Enchantment,Mythic,Urgent Strength
-3,Artifact,Rare,Solar Shield
-4,Enchantment,Common,Age
-5,Creature,Common,Spider
-6,Creature,Rare,Snow Monk Hydra
-7,Artifact,Common,Sigil
-8,Creature,Common,Dwarf
-9,Creature,Common,Elf
-10,Creature,Common,Dwarf
-11,Spell,Rare,Lunar Sorrow
-12,Enchantment,Common,Drain
-13,Creature,Common,Paladin
-14,Spell,Common,Assault
-15,Spell,Common,Frost
-16,Creature,Common,Goblin
-17,Spell,Common,Stricken
-18,Creature,Rare,Death Lord Griffin
-19,Artifact,Rare,Nimble Belt
-20,Creature,Common,Spider
-21,Artifact,Rare,Lunar Gloves
-22,Enchantment,Common,Haste
-23,Spell,Rare,Nature Ice
-24,Creature,Common,Elf
-25,Creature,Rare,Death Monk Fairy
-26,Artifact,Common,Potion
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Wolf
-29,Artifact,Rare,Life Crown
-30,Enchantment,Mythic,Clever Agony
-31,Creature,Rare,Frozen Lord Minotaur
-32,Enchantment,Mythic,Intense Alacrity
-33,Spell,Common,Stun
-34,Artifact,Common,Potion
-35,Artifact,Rare,Cataclysmic Ghost Wand
-36,Enchantment,Common,Lethargy
-37,Creature,Rare,Snow Rogue Berserker
-38,Spell,Rare,Nimble Assault
-39,Enchantment,Legendary,Mighty Deathgrip
-40,Creature,Rare,Light Undead Berserker
-41,Creature,Common,Elf
-42,Enchantment,Common,Deathgrip
-43,Spell,Common,Rage
-44,Creature,Common,Eagle
+==================,DECK,7704
+0,Creature,Ghoul
+1,Spell,Fury
+2,Enchantment,Dire Solar Age
+3,Artifact,Corpse Shield
+4,Enchantment,Alacrity
+5,Creature,Paladin
+6,Creature,Snow Monk Hydra
+7,Artifact,Sigil
+8,Creature,Magi
+9,Creature,Warlock
+10,Creature,Magi
+11,Spell,Gloom Wall
+12,Enchantment,Haste
+13,Creature,Troll
+14,Spell,Gravitation
+15,Spell,Fireball
+16,Creature,Skin-Walker
+17,Spell,Fireball
+18,Creature,Death Lord Griffin
+19,Artifact,Solar Belt
+20,Creature,Paladin
+21,Artifact,Sorrow Gloves
+22,Enchantment,Lethargy
+23,Spell,Shimmering Lightning
+24,Creature,Warlock
+25,Creature,Death Monk Kraken
+26,Artifact,Potion
+27,Enchantment,Drain
+28,Creature,Wolf
+29,Artifact,Victory Crown
+30,Enchantment,Dire Life Shade
+31,Creature,Frozen Lord Cyclops
+32,Enchantment,Urgent Forged Agony
+33,Spell,Stun
+34,Artifact,Potion
+35,Artifact,Dark Ghost Wand
+36,Enchantment,Blight
+37,Creature,Snow Rogue Goblin
+38,Spell,Shimmering Torment
+39,Enchantment,Potent Sorrow Shrink
+40,Creature,Light Undead Goblin
+41,Creature,Warlock
+42,Enchantment,Strength
+43,Spell,Assault
+44,Creature,Eagle

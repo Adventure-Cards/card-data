@@ -1,46 +1,46 @@
-==================,DECK,4254,Light
-0,Creature,Common,Eagle
-1,Creature,Mythic,Aura Chaos Demon of the Light
-2,Creature,Common,Paladin
-3,Spell,Common,Stun
-4,Artifact,Legendary,Clever Sword
-5,Enchantment,Common,Shrink
-6,Artifact,Common,Cloak
-7,Creature,Common,Elf
-8,Creature,Legendary,Snow Thief Oni of the Eastern Skies
-9,Creature,Rare,Frozen Rogue Minotaur
-10,Spell,Rare,Gloom Heal
-11,Artifact,Common,Bow
-12,Creature,Common,Elf
-13,Creature,Common,Wolf
-14,Creature,Legendary,Light Assassin Giant of the West
-15,Creature,Rare,Earth King Hydra
-16,Enchantment,Common,Invert
-17,Creature,Common,Dwarf
-18,Artifact,Common,Bow
-19,Creature,Common,Orc
-20,Creature,Common,Wolf
-21,Creature,Common,Orc
-22,Spell,Common,Invisibility
-23,Creature,Common,Goblin
-24,Enchantment,Common,Agony
-25,Spell,Common,Burst
-26,Enchantment,Rare,Shimmering Deathgrip
-27,Creature,Rare,Earth King Berserker
-28,Creature,Rare,Dark Lord Griffin
-29,Enchantment,Rare,Frigid Lethargy
-30,Enchantment,Common,Shield
-31,Creature,Rare,Snow Merchant Minotaur
-32,Spell,Common,Ice
-33,Creature,Common,Magi
-34,Enchantment,Legendary,Dire Blight
-35,Enchantment,Common,Lethargy
-36,Spell,Common,Frost
-37,Creature,Mythic,Snow Chaos Demon of Hate
-38,Spell,Common,Sorrow
-39,Creature,Common,Dwarf
-40,Artifact,Common,Belt
-41,Spell,Common,Rage
-42,Creature,Common,Ghoul
-43,Spell,Legendary,Intense Maelstrom
-44,Spell,Common,Maelstrom
+==================,DECK,4254
+0,Creature,Eagle
+1,Creature,Aura Chaos Demon of the Light
+2,Creature,Troll
+3,Spell,Gale
+4,Artifact,Potent Victory Sword
+5,Enchantment,Invert
+6,Artifact,Cloak
+7,Creature,Warlock
+8,Creature,Snow Thief Oni of the Eastern Skies
+9,Creature,Frozen Rogue Cyclops
+10,Spell,Sorrow Heal
+11,Artifact,Bow
+12,Creature,Warlock
+13,Creature,Wolf
+14,Creature,Light Assassin Dwarf of the West
+15,Creature,Earth King Hydra
+16,Enchantment,Blight
+17,Creature,Magi
+18,Artifact,Bow
+19,Creature,Spider
+20,Creature,Wolf
+21,Creature,Spider
+22,Spell,Revive
+23,Creature,Skin-Walker
+24,Enchantment,Agony
+25,Spell,Fireball
+26,Enchantment,Shimmering Age
+27,Creature,Earth King Goblin
+28,Creature,Dark Lord Griffin
+29,Enchantment,Grim Blight
+30,Enchantment,Blight
+31,Creature,Snow Merchant Cyclops
+32,Spell,Vortex
+33,Creature,Fairy
+34,Enchantment,Clever Nimble Haste
+35,Enchantment,Haste
+36,Spell,Fire
+37,Creature,Snow Chaos Demon of Hate
+38,Spell,Pandemonium
+39,Creature,Magi
+40,Artifact,Belt
+41,Spell,Fury
+42,Creature,Ghoul
+43,Spell,Zealous Necro Infuriate
+44,Spell,Freeze

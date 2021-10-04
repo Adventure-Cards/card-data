@@ -1,46 +1,46 @@
-==================,DECK,7603,Strong
-0,Creature,Mythic,Aura Undead Phoenix of the Light
-1,Creature,Rare,Aura Lord Berserker
-2,Artifact,Common,Shield
-3,Creature,Mythic,Death Ancient Wizard of the Dead
-4,Artifact,Common,Helmet
-5,Enchantment,Legendary,Instant Shield
-6,Artifact,Mythic,Potent Tome
-7,Creature,Common,Eagle
-8,Enchantment,Mythic,Clever Alacrity
-9,Spell,Rare,Forged Revive
-10,Creature,Mythic,Dark Grand Demon of Illusion
-11,Creature,Common,Wolf
-12,Creature,Mythic,Aura Ancient Wizard of the Light
-13,Spell,Rare,Apocalypse Reanimate
-14,Creature,Common,Magi
-15,Creature,Common,Paladin
-16,Enchantment,Legendary,Instant Strength
-17,Enchantment,Common,Shrink
-18,Creature,Common,Ghoul
-19,Creature,Legendary,Snow Ancient Demon of Hate
-20,Enchantment,Rare,Dark Shield
-21,Enchantment,Rare,Frigid Strength
-22,Creature,Common,Orc
-23,Creature,Mythic,Aura Ancient Demon of the Light
-24,Creature,Common,Eagle
-25,Creature,Mythic,Aura Undead Phoenix of the Light
-26,Spell,Common,Assault
-27,Spell,Common,Assault
-28,Artifact,Common,Helmet
-29,Creature,Mythic,Light Undead Phoenix of the Sky
-30,Enchantment,Common,Drain
-31,Creature,Common,Orc
-32,Creature,Rare,Death Thief Fairy
-33,Creature,Legendary,Snow Undead Phoenix of Hate
-34,Creature,Common,Dwarf
-35,Creature,Mythic,Death Grand Wizard of the Dead
-36,Creature,Common,Magi
-37,Creature,Legendary,Dark Grand Wizard of Illusion
-38,Creature,Common,Dwarf
-39,Enchantment,Rare,Nature Age
-40,Artifact,Common,Gauntlet
-41,Enchantment,Rare,Corpse Alacrity
-42,Creature,Common,Paladin
-43,Creature,Common,Elf
-44,Creature,Legendary,Frozen Assassin Giant of the Eternal Land
+==================,DECK,7603
+0,Creature,Aura Undead Phoenix of the Light
+1,Creature,Aura Lord Goblin
+2,Artifact,Shield
+3,Creature,Death Ancient Wizard of the Dead
+4,Artifact,Helmet
+5,Enchantment,Irate Nature Deathgrip
+6,Artifact,Dire Life Tome
+7,Creature,Eagle
+8,Enchantment,Irate Apocalypse Blight
+9,Spell,Gloom Frost
+10,Creature,Dark Grand Demon of Illusion
+11,Creature,Wolf
+12,Creature,Aura Ancient Wizard of the Light
+13,Spell,Apocalypse Fireball
+14,Creature,Fairy
+15,Creature,Troll
+16,Enchantment,Urgent Solar Agony
+17,Enchantment,Lethargy
+18,Creature,Ghoul
+19,Creature,Snow Ancient Demon of Hate
+20,Enchantment,Gloom Firebreath
+21,Enchantment,Nimble Haste
+22,Creature,Spider
+23,Creature,Aura Ancient Demon of the Light
+24,Creature,Eagle
+25,Creature,Aura Undead Phoenix of the Light
+26,Spell,Rage
+27,Spell,Stricken
+28,Artifact,Helmet
+29,Creature,Light Undead Phoenix of the Sky
+30,Enchantment,Alacrity
+31,Creature,Spider
+32,Creature,Death Thief Kraken
+33,Creature,Snow Undead Phoenix of Hate
+34,Creature,Magi
+35,Creature,Death Grand Wizard of the Dead
+36,Creature,Fairy
+37,Creature,Dark Grand Wizard of Illusion
+38,Creature,Magi
+39,Enchantment,Nature Agony
+40,Artifact,Gauntlet
+41,Enchantment,Forged Deathgrip
+42,Creature,Troll
+43,Creature,Warlock
+44,Creature,Frozen Assassin Dwarf of the Eternal Land

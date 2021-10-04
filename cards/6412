@@ -1,46 +1,46 @@
-==================,DECK,6412,Light
-0,Artifact,Common,Sigil
-1,Creature,Common,Orc
-2,Creature,Rare,Aura Undead Skin-Walker
-3,Spell,Rare,Miracle Ice
-4,Spell,Legendary,Intense Vortex
-5,Creature,Common,Wolf
-6,Creature,Legendary,Frozen Rogue Cyclops of the Mountains
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Spell,Rare,Necro Pandemonium
-10,Spell,Common,Stun
-11,Creature,Legendary,Snow Undead Kraken of the Swamp
-12,Creature,Common,Orc
-13,Creature,Common,Goblin
-14,Creature,Mythic,Aura Ancient Demon of the Light
-15,Creature,Legendary,Frozen Lord Orge of the Border
-16,Creature,Legendary,Dark Assassin Giant of the Eternal Land
-17,Spell,Rare,Grim Revive
-18,Enchantment,Common,Deathgrip
-19,Artifact,Common,Divine Robe
-20,Creature,Common,Paladin
-21,Artifact,Rare,Nimble Sword
-22,Spell,Common,Reanimate
-23,Spell,Common,Frenzy
-24,Creature,Common,Ghoul
-25,Creature,Common,Orc
-26,Spell,Rare,Forged Rage
-27,Enchantment,Common,Strength
-28,Spell,Common,Assault
-29,Creature,Legendary,Light Priest Orge of the Mountains
-30,Creature,Rare,Light Rogue Berserker
-31,Creature,Legendary,Death King Oni of the Plains
-32,Spell,Rare,Hateful Stun
-33,Enchantment,Rare,Frigid Invert
-34,Creature,Rare,Dark Fighter Fairy
-35,Creature,Common,Goblin
-36,Enchantment,Common,Alacrity
-37,Artifact,Common,Greaves
-38,Creature,Common,Ghoul
-39,Creature,Common,Warlock
-40,Enchantment,Common,Drain
-41,Spell,Common,Burn
-42,Enchantment,Legendary,Mighty Shield
-43,Creature,Rare,Aura Lord Minotaur
-44,Creature,Common,Dwarf
+==================,DECK,6412
+0,Artifact,Sigil
+1,Creature,Spider
+2,Creature,Aura Undead Orc
+3,Spell,Grim Stricken
+4,Spell,Instant Nature Gravitation
+5,Creature,Wolf
+6,Creature,Frozen Rogue Giant of the Mountains
+7,Creature,Troll
+8,Creature,Spider
+9,Spell,Forged Revive
+10,Spell,Sorrow
+11,Creature,Snow Undead Ogre of the Swamp
+12,Creature,Spider
+13,Creature,Skin-Walker
+14,Creature,Aura Ancient Demon of the Light
+15,Creature,Frozen Lord Elf of the Border
+16,Creature,Dark Assassin Dwarf of the Eternal Land
+17,Spell,Life Frost
+18,Enchantment,Age
+19,Artifact,Divine Robe
+20,Creature,Troll
+21,Artifact,Forged Sword
+22,Spell,Wall
+23,Spell,Burn
+24,Creature,Ghoul
+25,Creature,Spider
+26,Spell,Chimeric Freeze
+27,Enchantment,Drain
+28,Spell,Wall
+29,Creature,Light Priest Elf of the Mountains
+30,Creature,Light Rogue Goblin
+31,Creature,Death King Oni of the Plains
+32,Spell,Sorrow Burst
+33,Enchantment,Oblivion Shade
+34,Creature,Dark Fighter Kraken
+35,Creature,Skin-Walker
+36,Enchantment,Shrink
+37,Artifact,Greaves
+38,Creature,Ghoul
+39,Creature,Berserker
+40,Enchantment,Firebreath
+41,Spell,Gravitation
+42,Enchantment,Instant Gloom Shrink
+43,Creature,Aura Lord Cyclops
+44,Creature,Magi

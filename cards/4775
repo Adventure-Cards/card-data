@@ -1,46 +1,46 @@
-==================,DECK,4775,Medium
-0,Creature,Common,Orc
-1,Spell,Mythic,Dire Burst
-2,Creature,Mythic,Snow Chaos Wizard of Hate
-3,Creature,Common,Eagle
-4,Enchantment,Mythic,Instant Invert
-5,Spell,Legendary,Angry Gale
-6,Creature,Common,Orc
-7,Creature,Legendary,Earth Priest Kraken of the Magical Forest
-8,Creature,Legendary,Dark Rogue Orge of the Low Hills
-9,Spell,Common,Frenzy
-10,Enchantment,Common,Age
-11,Enchantment,Rare,Frigid Agony
-12,Creature,Legendary,Light Undead Kraken of the Golden Palace
-13,Creature,Rare,Dark Monk Berserker
-14,Creature,Common,Elf
-15,Spell,Common,Torment
-16,Artifact,Common,Divine Robe
-17,Creature,Common,Spider
-18,Creature,Common,Dwarf
-19,Creature,Common,Warlock
-20,Creature,Rare,Dark King Hydra
-21,Spell,Legendary,Angry Revive
-22,Artifact,Common,Greaves
-23,Creature,Common,Dwarf
-24,Creature,Common,Orc
-25,Creature,Mythic,Aura Nameless Phoenix of the Light
-26,Creature,Common,Paladin
-27,Creature,Rare,Aura Monk Berserker
-28,Spell,Common,Frost
-29,Spell,Mythic,Angry Torment
-30,Spell,Common,Assault
-31,Creature,Common,Eagle
-32,Creature,Rare,Dark Rogue Minotaur
-33,Creature,Common,Magi
-34,Creature,Common,Dwarf
-35,Creature,Rare,Death Merchant Fairy
-36,Enchantment,Common,Agony
-37,Enchantment,Common,Haste
-38,Creature,Rare,Light Thief Griffin
-39,Creature,Common,Paladin
-40,Creature,Rare,Snow King Hydra
-41,Creature,Common,Eagle
-42,Enchantment,Rare,Gloom Shield
-43,Creature,Common,Dwarf
-44,Creature,Common,Elf
+==================,DECK,4775
+0,Creature,Spider
+1,Spell,Mighty Grim Frost
+2,Creature,Snow Chaos Wizard of Hate
+3,Creature,Eagle
+4,Enchantment,Dire Shimmering Age
+5,Spell,Mighty Lunar Rage
+6,Creature,Spider
+7,Creature,Earth Priest Ogre of the Magical Forest
+8,Creature,Dark Rogue Elf of the Low Hills
+9,Spell,Stun
+10,Enchantment,Lethargy
+11,Enchantment,Life Drain
+12,Creature,Light Undead Ogre of the Golden Palace
+13,Creature,Dark Monk Goblin
+14,Creature,Warlock
+15,Spell,Lightning
+16,Artifact,Divine Robe
+17,Creature,Paladin
+18,Creature,Magi
+19,Creature,Berserker
+20,Creature,Dark King Hydra
+21,Spell,Ardent Cataclysmic Frenzy
+22,Artifact,Greaves
+23,Creature,Magi
+24,Creature,Spider
+25,Creature,Aura Nameless Phoenix of the Light
+26,Creature,Troll
+27,Creature,Aura Monk Goblin
+28,Spell,Burn
+29,Spell,Irate Lunar Maelstrom
+30,Spell,Gravitation
+31,Creature,Eagle
+32,Creature,Dark Rogue Cyclops
+33,Creature,Fairy
+34,Creature,Magi
+35,Creature,Death Merchant Kraken
+36,Enchantment,Shade
+37,Enchantment,Firebreath
+38,Creature,Light Thief Griffin
+39,Creature,Troll
+40,Creature,Snow King Hydra
+41,Creature,Eagle
+42,Enchantment,Gloom Alacrity
+43,Creature,Magi
+44,Creature,Warlock

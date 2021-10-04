@@ -1,46 +1,46 @@
-==================,DECK,7689,Medium
-0,Creature,Common,Paladin
-1,Creature,Common,Magi
-2,Creature,Common,Goblin
-3,Enchantment,Common,Blight
-4,Spell,Common,Sorrow
-5,Spell,Legendary,Mighty Heal
-6,Enchantment,Common,Blight
-7,Spell,Common,Revive
-8,Enchantment,Common,Shrink
-9,Creature,Rare,Frozen Lord Minotaur
-10,Creature,Common,Elf
-11,Enchantment,Common,Shrink
-12,Creature,Common,Elf
-13,Spell,Common,Pandemonium
-14,Creature,Rare,Dark Monk Berserker
-15,Enchantment,Common,Strength
-16,Spell,Rare,Forged Freeze
-17,Enchantment,Rare,Frigid Lethargy
-18,Creature,Common,Elf
-19,Creature,Rare,Aura Undead Fairy
-20,Enchantment,Common,Shield
-21,Spell,Common,Gravitation
-22,Creature,Common,Wolf
-23,Creature,Legendary,Light Assassin Oni of the Border
-24,Creature,Rare,Snow King Berserker
-25,Spell,Common,Fury
-26,Creature,Rare,Dark Knight Fairy
-27,Enchantment,Common,Agony
-28,Creature,Rare,Earth Assassin Minotaur
-29,Enchantment,Common,Agony
-30,Creature,Common,Elf
-31,Enchantment,Common,Alacrity
-32,Enchantment,Legendary,Mighty Lethargy
-33,Enchantment,Legendary,Angry Alacrity
-34,Artifact,Common,Helm
-35,Creature,Common,Dwarf
-36,Spell,Common,Infuriate
-37,Spell,Common,Ice
-38,Creature,Common,Ghoul
-39,Artifact,Legendary,Mighty Bracers
-40,Spell,Rare,Apocalypse Hypnosis
-41,Spell,Common,Frost
-42,Enchantment,Mythic,Mighty Shield
-43,Artifact,Common,Cloak
-44,Creature,Common,Wolf
+==================,DECK,7689
+0,Creature,Troll
+1,Creature,Fairy
+2,Creature,Skin-Walker
+3,Enchantment,Blight
+4,Spell,Burn
+5,Spell,Instant Miracle Stun
+6,Enchantment,Shrink
+7,Spell,Revive
+8,Enchantment,Alacrity
+9,Creature,Frozen Lord Cyclops
+10,Creature,Warlock
+11,Enchantment,Firebreath
+12,Creature,Warlock
+13,Spell,Heal
+14,Creature,Dark Monk Goblin
+15,Enchantment,Lethargy
+16,Spell,Gloom Stricken
+17,Enchantment,Grim Invert
+18,Creature,Warlock
+19,Creature,Aura Undead Kraken
+20,Enchantment,Age
+21,Spell,Invisibility
+22,Creature,Wolf
+23,Creature,Light Assassin Oni of the Border
+24,Creature,Snow King Goblin
+25,Spell,Frost
+26,Creature,Dark Knight Kraken
+27,Enchantment,Shrink
+28,Creature,Earth Assassin Cyclops
+29,Enchantment,Invert
+30,Creature,Warlock
+31,Enchantment,Shrink
+32,Enchantment,Urgent Lunar Flight
+33,Enchantment,Ardent Dark Shield
+34,Artifact,Helm
+35,Creature,Magi
+36,Spell,Ice
+37,Spell,Stun
+38,Creature,Ghoul
+39,Artifact,Zealous Miracle Bracers
+40,Spell,Life Freeze
+41,Spell,Maelstrom
+42,Enchantment,Ardent Gloom Shield
+43,Artifact,Cloak
+44,Creature,Wolf

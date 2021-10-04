@@ -1,46 +1,46 @@
-==================,DECK,7181,Light
-0,Enchantment,Common,Strength
-1,Spell,Common,Frost
-2,Artifact,Common,Divine Robe
-3,Spell,Rare,Nature Maelstrom
-4,Artifact,Common,Helmet
-5,Enchantment,Rare,Lunar Shrink
-6,Spell,Rare,Grim Revive
-7,Creature,Common,Goblin
-8,Creature,Rare,Snow Thief Berserker
-9,Creature,Mythic,Snow Undead Phoenix of Hate
-10,Creature,Common,Spider
-11,Artifact,Legendary,Mighty Ring
-12,Artifact,Common,Bow
-13,Creature,Mythic,Death Ancient Demon of the Dead
-14,Artifact,Common,Amulet
-15,Creature,Common,Spider
-16,Creature,Common,Magi
-17,Creature,Rare,Frozen Warrior Berserker
-18,Artifact,Common,Ghost Wand
-19,Enchantment,Mythic,Angry Shield
-20,Creature,Common,Paladin
-21,Creature,Common,Wolf
-22,Creature,Common,Elf
-23,Creature,Rare,Earth Warrior Fairy
-24,Spell,Rare,Cataclysmic Stricken
-25,Enchantment,Mythic,Clever Drain
-26,Creature,Rare,Aura Assassin Skin-Walker
-27,Creature,Common,Goblin
-28,Enchantment,Common,Flight
-29,Creature,Common,Eagle
-30,Enchantment,Common,Blight
-31,Creature,Common,Orc
-32,Creature,Common,Wolf
-33,Creature,Common,Wolf
-34,Enchantment,Mythic,Dire Age
-35,Creature,Common,Elf
-36,Spell,Common,Invisibility
-37,Enchantment,Rare,Necro Drain
-38,Creature,Common,Elf
-39,Enchantment,Common,Agony
-40,Artifact,Common,Potion
-41,Spell,Common,Stun
-42,Artifact,Common,Crown
-43,Enchantment,Common,Strength
-44,Spell,Common,Pandemonium
+==================,DECK,7181
+0,Enchantment,Strength
+1,Spell,Torment
+2,Artifact,Divine Robe
+3,Spell,Hateful Burn
+4,Artifact,Helmet
+5,Enchantment,Chimeric Firebreath
+6,Spell,Frigid Maelstrom
+7,Creature,Skin-Walker
+8,Creature,Snow Thief Goblin
+9,Creature,Snow Undead Phoenix of Hate
+10,Creature,Paladin
+11,Artifact,Clever Cataclysmic Ring
+12,Artifact,Bow
+13,Creature,Death Ancient Demon of the Dead
+14,Artifact,Amulet
+15,Creature,Paladin
+16,Creature,Fairy
+17,Creature,Frozen Warrior Goblin
+18,Artifact,Ghost Wand
+19,Enchantment,Ardent Gloom Shield
+20,Creature,Troll
+21,Creature,Wolf
+22,Creature,Warlock
+23,Creature,Earth Warrior Kraken
+24,Spell,Cataclysmic Freeze
+25,Enchantment,Zealous Apocalypse Blight
+26,Creature,Aura Assassin Orc
+27,Creature,Skin-Walker
+28,Enchantment,Age
+29,Creature,Eagle
+30,Enchantment,Shield
+31,Creature,Spider
+32,Creature,Wolf
+33,Creature,Wolf
+34,Enchantment,Mighty Victory Invert
+35,Creature,Warlock
+36,Spell,Frenzy
+37,Enchantment,Forged Age
+38,Creature,Warlock
+39,Enchantment,Age
+40,Artifact,Potion
+41,Spell,Fireball
+42,Artifact,Crown
+43,Enchantment,Age
+44,Spell,Wall

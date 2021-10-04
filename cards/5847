@@ -1,46 +1,46 @@
-==================,DECK,5847,Light
-0,Enchantment,Rare,Necro Age
-1,Creature,Common,Elf
-2,Creature,Rare,Death Assassin Griffin
-3,Creature,Legendary,Death King Giant of the Golden Palace
-4,Spell,Common,Freeze
-5,Creature,Common,Ghoul
-6,Creature,Common,Wolf
-7,Spell,Common,Fury
-8,Artifact,Common,Scepter
-9,Enchantment,Common,Alacrity
-10,Creature,Rare,Death Queen Skin-Walker
-11,Creature,Common,Magi
-12,Creature,Legendary,Death Priest Cyclops of the Low Hills
-13,Enchantment,Legendary,Clever Shrink
-14,Creature,Common,Paladin
-15,Creature,Common,Elf
-16,Creature,Common,Magi
-17,Creature,Rare,Dark Monk Griffin
-18,Creature,Rare,Death King Minotaur
-19,Creature,Common,Wolf
-20,Creature,Rare,Snow Knight Minotaur
-21,Spell,Common,Rage
-22,Creature,Rare,Aura Monk Griffin
-23,Enchantment,Common,Deathgrip
-24,Enchantment,Mythic,Instant Flight
-25,Creature,Common,Paladin
-26,Creature,Rare,Light Lord Skin-Walker
-27,Creature,Common,Elf
-28,Creature,Common,Eagle
-29,Creature,Common,Eagle
-30,Enchantment,Common,Shield
-31,Artifact,Rare,Nature Helm
-32,Enchantment,Common,Haste
-33,Creature,Common,Elf
-34,Artifact,Common,Amulet
-35,Enchantment,Mythic,Instant Haste
-36,Artifact,Common,Tome
-37,Artifact,Common,Boots
-38,Creature,Legendary,Aura Monk Cyclops of the Magical Forest
-39,Creature,Common,Ghoul
-40,Creature,Common,Elf
-41,Creature,Common,Warlock
-42,Enchantment,Common,Strength
-43,Creature,Common,Warlock
-44,Spell,Common,Maelstrom
+==================,DECK,5847
+0,Enchantment,Nature Agony
+1,Creature,Warlock
+2,Creature,Death Assassin Griffin
+3,Creature,Death King Dwarf of the Golden Palace
+4,Spell,Burst
+5,Creature,Ghoul
+6,Creature,Wolf
+7,Spell,Invisibility
+8,Artifact,Scepter
+9,Enchantment,Shade
+10,Creature,Death Queen Orc
+11,Creature,Fairy
+12,Creature,Death Priest Giant of the Low Hills
+13,Enchantment,Clever Frigid Haste
+14,Creature,Troll
+15,Creature,Warlock
+16,Creature,Fairy
+17,Creature,Dark Monk Griffin
+18,Creature,Death King Cyclops
+19,Creature,Wolf
+20,Creature,Snow Knight Cyclops
+21,Spell,Tempest
+22,Creature,Aura Monk Griffin
+23,Enchantment,Blight
+24,Enchantment,Mighty Hateful Agony
+25,Creature,Troll
+26,Creature,Light Lord Orc
+27,Creature,Warlock
+28,Creature,Eagle
+29,Creature,Eagle
+30,Enchantment,Age
+31,Artifact,Shimmering Helm
+32,Enchantment,Invert
+33,Creature,Warlock
+34,Artifact,Amulet
+35,Enchantment,Clever Corpse Lethargy
+36,Artifact,Tome
+37,Artifact,Boots
+38,Creature,Aura Monk Giant of the Magical Forest
+39,Creature,Ghoul
+40,Creature,Warlock
+41,Creature,Berserker
+42,Enchantment,Drain
+43,Creature,Berserker
+44,Spell,Lightning

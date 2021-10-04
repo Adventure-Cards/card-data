@@ -1,46 +1,46 @@
-==================,DECK,7823,Light
-0,Spell,Rare,Solar Heal
-1,Enchantment,Common,Drain
-2,Artifact,Common,Potion
-3,Spell,Common,Revive
-4,Creature,Common,Warlock
-5,Creature,Common,Magi
-6,Enchantment,Mythic,Dire Shade
-7,Spell,Common,Frenzy
-8,Spell,Rare,Dark Vortex
-9,Creature,Common,Wolf
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Earth Rogue Oni of the Polar Woods
-12,Creature,Mythic,Death Grand Wizard of the Dead
-13,Artifact,Rare,Hateful Bracers
-14,Enchantment,Common,Drain
-15,Creature,Common,Ghoul
-16,Creature,Common,Wolf
-17,Artifact,Common,Ring
-18,Spell,Common,Vortex
-19,Artifact,Common,Cloak
-20,Artifact,Common,Gloves
-21,Enchantment,Mythic,Angry Deathgrip
-22,Spell,Common,Torment
-23,Creature,Common,Ghoul
-24,Creature,Common,Goblin
-25,Spell,Rare,Dark Lightning
-26,Spell,Common,Torment
-27,Enchantment,Common,Alacrity
-28,Spell,Rare,Apocalypse Reanimate
-29,Creature,Common,Spider
-30,Creature,Rare,Death Assassin Fairy
-31,Spell,Common,Sorrow
-32,Spell,Legendary,Urgent Vortex
-33,Creature,Rare,Snow Rogue Berserker
-34,Creature,Rare,Frozen Rogue Minotaur
-35,Spell,Common,Reanimate
-36,Creature,Rare,Light Warrior Griffin
-37,Spell,Common,Sorrow
-38,Creature,Rare,Frozen Monk Hydra
-39,Creature,Legendary,Death Undead Oni of the Magical Forest
-40,Spell,Common,Assault
-41,Creature,Common,Goblin
-42,Enchantment,Common,Drain
-43,Enchantment,Common,Blight
-44,Spell,Legendary,Extreme Pandemonium
+==================,DECK,7823
+0,Spell,Nature Torment
+1,Enchantment,Drain
+2,Artifact,Potion
+3,Spell,Torment
+4,Creature,Berserker
+5,Creature,Fairy
+6,Enchantment,Urgent Frigid Invert
+7,Spell,Pandemonium
+8,Spell,Miracle Invisibility
+9,Creature,Wolf
+10,Creature,Ghoul
+11,Creature,Earth Rogue Oni of the Polar Woods
+12,Creature,Death Grand Wizard of the Dead
+13,Artifact,Cataclysmic Bracers
+14,Enchantment,Shrink
+15,Creature,Ghoul
+16,Creature,Wolf
+17,Artifact,Ring
+18,Spell,Vortex
+19,Artifact,Cloak
+20,Artifact,Gloves
+21,Enchantment,Empyrean Sorrow Firebreath
+22,Spell,Ice
+23,Creature,Ghoul
+24,Creature,Skin-Walker
+25,Spell,Gloom Rage
+26,Spell,Vortex
+27,Enchantment,Lethargy
+28,Spell,Apocalypse Stun
+29,Creature,Paladin
+30,Creature,Death Assassin Kraken
+31,Spell,Gale
+32,Spell,Instant Shimmering Ice
+33,Creature,Snow Rogue Goblin
+34,Creature,Frozen Rogue Cyclops
+35,Spell,Ice
+36,Creature,Light Warrior Griffin
+37,Spell,Stricken
+38,Creature,Frozen Monk Hydra
+39,Creature,Death Undead Oni of the Magical Forest
+40,Spell,Invisibility
+41,Creature,Skin-Walker
+42,Enchantment,Age
+43,Enchantment,Flight
+44,Spell,Zealous Miracle Reanimate

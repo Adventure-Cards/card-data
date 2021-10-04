@@ -1,46 +1,46 @@
-==================,DECK,7139,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Snow Warrior Fairy
-2,Spell,Common,Fury
-3,Spell,Legendary,Clever Infuriate
-4,Creature,Common,Spider
-5,Creature,Common,Spider
-6,Enchantment,Mythic,Potent Drain
-7,Spell,Common,Ice
-8,Enchantment,Common,Strength
-9,Creature,Common,Spider
-10,Creature,Common,Warlock
-11,Creature,Common,Eagle
-12,Spell,Common,Frost
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Goblin
-15,Spell,Common,Hypnosis
-16,Creature,Common,Spider
-17,Creature,Common,Spider
-18,Creature,Common,Paladin
-19,Spell,Legendary,Extreme Sorrow
-20,Creature,Common,Elf
-21,Enchantment,Common,Shade
-22,Spell,Common,Ice
-23,Creature,Common,Orc
-24,Creature,Common,Dwarf
-25,Artifact,Common,Gauntlet
-26,Enchantment,Common,Invert
-27,Creature,Common,Dwarf
-28,Creature,Common,Eagle
-29,Enchantment,Mythic,Urgent Haste
-30,Artifact,Common,Pendant
-31,Spell,Common,Frost
-32,Creature,Common,Spider
-33,Creature,Common,Warlock
-34,Artifact,Common,Ring
-35,Enchantment,Common,Haste
-36,Creature,Legendary,Earth Warrior Giant of the Magical Forest
-37,Creature,Common,Goblin
-38,Creature,Common,Paladin
-39,Spell,Legendary,Clever Heal
-40,Spell,Common,Rage
-41,Enchantment,Common,Flight
-42,Enchantment,Legendary,Urgent Haste
-43,Creature,Common,Warlock
-44,Artifact,Common,Greaves
+==================,DECK,7139
+0,Creature,Berserker
+1,Creature,Snow Warrior Kraken
+2,Spell,Invisibility
+3,Spell,Empyrean Grim Heal
+4,Creature,Paladin
+5,Creature,Paladin
+6,Enchantment,Mighty Apocalypse Invert
+7,Spell,Freeze
+8,Enchantment,Shrink
+9,Creature,Paladin
+10,Creature,Berserker
+11,Creature,Eagle
+12,Spell,Frenzy
+13,Enchantment,Firebreath
+14,Creature,Skin-Walker
+15,Spell,Fireball
+16,Creature,Paladin
+17,Creature,Paladin
+18,Creature,Troll
+19,Spell,Empyrean Dark Torment
+20,Creature,Warlock
+21,Enchantment,Flight
+22,Spell,Reanimate
+23,Creature,Spider
+24,Creature,Magi
+25,Artifact,Gauntlet
+26,Enchantment,Age
+27,Creature,Magi
+28,Creature,Eagle
+29,Enchantment,Mighty Corpse Agony
+30,Artifact,Pendant
+31,Spell,Invisibility
+32,Creature,Paladin
+33,Creature,Berserker
+34,Artifact,Ring
+35,Enchantment,Lethargy
+36,Creature,Earth Warrior Dwarf of the Magical Forest
+37,Creature,Skin-Walker
+38,Creature,Troll
+39,Spell,Ardent Oblivion Wall
+40,Spell,Burn
+41,Enchantment,Flight
+42,Enchantment,Mighty Corpse Agony
+43,Creature,Berserker
+44,Artifact,Greaves

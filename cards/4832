@@ -1,46 +1,46 @@
-==================,DECK,4832,Light
-0,Spell,Rare,Corpse Assault
-1,Creature,Common,Magi
-2,Creature,Common,Magi
-3,Creature,Common,Elf
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Artifact,Common,Scepter
-7,Enchantment,Common,Lethargy
-8,Creature,Mythic,Frozen Ancient Wizard of the Void
-9,Creature,Rare,Dark Warrior Griffin
-10,Enchantment,Common,Blight
-11,Enchantment,Common,Flight
-12,Enchantment,Common,Shield
-13,Spell,Common,Invisibility
-14,Spell,Common,Wall
-15,Creature,Common,Warlock
-16,Creature,Rare,Aura Rogue Fairy
-17,Enchantment,Rare,Life Age
-18,Artifact,Common,Helm
-19,Artifact,Rare,Hateful Scythe
-20,Enchantment,Common,Lethargy
-21,Artifact,Legendary,Extreme Cloak
-22,Enchantment,Common,Strength
-23,Creature,Common,Eagle
-24,Spell,Common,Gravitation
-25,Creature,Common,Wolf
-26,Creature,Common,Wolf
-27,Spell,Rare,Corpse Assault
-28,Artifact,Rare,Gloom Tome
-29,Spell,Rare,Oblivion Rage
-30,Enchantment,Common,Alacrity
-31,Creature,Common,Elf
-32,Enchantment,Common,Drain
-33,Creature,Common,Warlock
-34,Creature,Common,Eagle
-35,Enchantment,Common,Age
-36,Creature,Rare,Frozen Assassin Skin-Walker
-37,Creature,Common,Orc
-38,Creature,Common,Spider
-39,Enchantment,Common,Shade
-40,Spell,Common,Freeze
-41,Enchantment,Mythic,Urgent Lethargy
-42,Spell,Common,Heal
-43,Spell,Rare,Nimble Heal
-44,Enchantment,Common,Strength
+==================,DECK,4832
+0,Spell,Forged Gale
+1,Creature,Fairy
+2,Creature,Fairy
+3,Creature,Warlock
+4,Creature,Warlock
+5,Creature,Spider
+6,Artifact,Scepter
+7,Enchantment,Age
+8,Creature,Frozen Ancient Wizard of the Void
+9,Creature,Dark Warrior Griffin
+10,Enchantment,Drain
+11,Enchantment,Strength
+12,Enchantment,Flight
+13,Spell,Frenzy
+14,Spell,Gale
+15,Creature,Berserker
+16,Creature,Aura Rogue Kraken
+17,Enchantment,Victory Haste
+18,Artifact,Helm
+19,Artifact,Gloom Scythe
+20,Enchantment,Strength
+21,Artifact,Ardent Chimeric Cloak
+22,Enchantment,Strength
+23,Creature,Eagle
+24,Spell,Frenzy
+25,Creature,Wolf
+26,Creature,Wolf
+27,Spell,Corpse Reanimate
+28,Artifact,Dark Tome
+29,Spell,Oblivion Invisibility
+30,Enchantment,Agony
+31,Creature,Warlock
+32,Enchantment,Deathgrip
+33,Creature,Berserker
+34,Creature,Eagle
+35,Enchantment,Lethargy
+36,Creature,Frozen Assassin Orc
+37,Creature,Spider
+38,Creature,Paladin
+39,Enchantment,Agony
+40,Spell,Heal
+41,Enchantment,Dire Hateful Age
+42,Spell,Stricken
+43,Spell,Necro Frost
+44,Enchantment,Strength

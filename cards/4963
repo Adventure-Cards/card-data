@@ -1,46 +1,46 @@
-==================,DECK,4963,Light
-0,Enchantment,Legendary,Potent Invert
-1,Creature,Common,Eagle
-2,Creature,Mythic,Death Time Dragon of the Dead
-3,Creature,Common,Spider
-4,Creature,Rare,Frozen Monk Hydra
-5,Creature,Common,Eagle
-6,Creature,Legendary,Aura Merchant Cyclops of the Swamp
-7,Creature,Rare,Snow Fighter Fairy
-8,Enchantment,Common,Strength
-9,Spell,Legendary,Instant Heal
-10,Creature,Common,Orc
-11,Creature,Common,Dwarf
-12,Creature,Rare,Frozen Thief Skin-Walker
-13,Creature,Rare,Aura Undead Hydra
-14,Creature,Common,Spider
-15,Enchantment,Common,Haste
-16,Creature,Common,Dwarf
-17,Creature,Common,Elf
-18,Spell,Legendary,Angry Burst
-19,Creature,Common,Eagle
-20,Enchantment,Common,Agony
-21,Enchantment,Common,Deathgrip
-22,Creature,Common,Dwarf
-23,Spell,Common,Frenzy
-24,Creature,Rare,Light Lord Griffin
-25,Creature,Common,Elf
-26,Creature,Rare,Frozen Monk Skin-Walker
-27,Creature,Legendary,Frozen Assassin Orge of the Golden Palace
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Ghoul
-30,Creature,Common,Eagle
-31,Creature,Common,Elf
-32,Artifact,Common,Staff
-33,Enchantment,Common,Alacrity
-34,Creature,Mythic,Frozen Ancient Demon of the Void
-35,Creature,Mythic,Death Undead Phoenix of the Dead
-36,Creature,Common,Warlock
-37,Creature,Common,Dwarf
-38,Creature,Rare,Earth Rogue Griffin
-39,Spell,Common,Heal
-40,Creature,Rare,Dark Warrior Skin-Walker
-41,Spell,Common,Torment
-42,Enchantment,Rare,Frigid Strength
-43,Creature,Common,Warlock
-44,Spell,Common,Wall
+==================,DECK,4963
+0,Enchantment,Instant Oblivion Drain
+1,Creature,Eagle
+2,Creature,Death Time Dragon of the Dead
+3,Creature,Paladin
+4,Creature,Frozen Monk Hydra
+5,Creature,Eagle
+6,Creature,Aura Merchant Giant of the Swamp
+7,Creature,Snow Fighter Kraken
+8,Enchantment,Alacrity
+9,Spell,Instant Nature Wall
+10,Creature,Spider
+11,Creature,Magi
+12,Creature,Frozen Thief Orc
+13,Creature,Aura Undead Hydra
+14,Creature,Paladin
+15,Enchantment,Shield
+16,Creature,Magi
+17,Creature,Warlock
+18,Spell,Zealous Cataclysmic Fury
+19,Creature,Eagle
+20,Enchantment,Invert
+21,Enchantment,Shrink
+22,Creature,Magi
+23,Spell,Fire
+24,Creature,Light Lord Griffin
+25,Creature,Warlock
+26,Creature,Frozen Monk Orc
+27,Creature,Frozen Assassin Elf of the Golden Palace
+28,Enchantment,Deathgrip
+29,Creature,Ghoul
+30,Creature,Eagle
+31,Creature,Warlock
+32,Artifact,Staff
+33,Enchantment,Lethargy
+34,Creature,Frozen Ancient Demon of the Void
+35,Creature,Death Undead Phoenix of the Dead
+36,Creature,Berserker
+37,Creature,Magi
+38,Creature,Earth Rogue Griffin
+39,Spell,Sorrow
+40,Creature,Dark Warrior Orc
+41,Spell,Freeze
+42,Enchantment,Nimble Shade
+43,Creature,Berserker
+44,Spell,Wall

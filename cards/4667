@@ -1,46 +1,46 @@
-==================,DECK,4667,Light
-0,Creature,Common,Wolf
-1,Artifact,Common,Amulet
-2,Spell,Common,Revive
-3,Enchantment,Common,Lethargy
-4,Artifact,Rare,Nature Bracers
-5,Creature,Common,Elf
-6,Creature,Rare,Frozen Assassin Fairy
-7,Enchantment,Rare,Lunar Flight
-8,Creature,Common,Orc
-9,Creature,Mythic,Light Grand Wizard of the Sky
-10,Spell,Common,Maelstrom
-11,Creature,Common,Spider
-12,Creature,Rare,Snow Thief Skin-Walker
-13,Creature,Common,Eagle
-14,Creature,Common,Paladin
-15,Creature,Mythic,Earth Chaos Demon of the Shadows
-16,Spell,Common,Infuriate
-17,Creature,Mythic,Dark Nameless Phoenix of Illusion
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Goblin
-20,Creature,Common,Paladin
-21,Spell,Common,Stricken
-22,Spell,Common,Hypnosis
-23,Creature,Common,Warlock
-24,Creature,Rare,Death Lord Skin-Walker
-25,Creature,Common,Spider
-26,Spell,Legendary,Urgent Torment
-27,Creature,Common,Eagle
-28,Creature,Rare,Snow Rogue Griffin
-29,Creature,Common,Goblin
-30,Enchantment,Common,Flight
-31,Spell,Common,Stricken
-32,Spell,Rare,Dark Gravitation
-33,Spell,Common,Burst
-34,Creature,Common,Eagle
-35,Spell,Common,Ice
-36,Creature,Common,Paladin
-37,Creature,Common,Elf
-38,Spell,Rare,Hateful Maelstrom
-39,Creature,Rare,Dark Fighter Fairy
-40,Artifact,Common,Scepter
-41,Creature,Common,Magi
-42,Spell,Common,Wall
-43,Artifact,Common,Ring
-44,Creature,Legendary,Aura Rogue Cyclops of the Black Stone
+==================,DECK,4667
+0,Creature,Wolf
+1,Artifact,Amulet
+2,Spell,Stun
+3,Enchantment,Shrink
+4,Artifact,Necro Bracers
+5,Creature,Warlock
+6,Creature,Frozen Assassin Kraken
+7,Enchantment,Lunar Alacrity
+8,Creature,Spider
+9,Creature,Light Grand Wizard of the Sky
+10,Spell,Frenzy
+11,Creature,Paladin
+12,Creature,Snow Thief Orc
+13,Creature,Eagle
+14,Creature,Troll
+15,Creature,Earth Chaos Demon of the Shadows
+16,Spell,Infuriate
+17,Creature,Dark Nameless Phoenix of Illusion
+18,Enchantment,Alacrity
+19,Creature,Skin-Walker
+20,Creature,Troll
+21,Spell,Gravitation
+22,Spell,Heal
+23,Creature,Berserker
+24,Creature,Death Lord Orc
+25,Creature,Paladin
+26,Spell,Dire Hateful Rage
+27,Creature,Eagle
+28,Creature,Snow Rogue Griffin
+29,Creature,Skin-Walker
+30,Enchantment,Blight
+31,Spell,Rage
+32,Spell,Gloom Infuriate
+33,Spell,Revive
+34,Creature,Eagle
+35,Spell,Frenzy
+36,Creature,Troll
+37,Creature,Warlock
+38,Spell,Cataclysmic Ice
+39,Creature,Dark Fighter Kraken
+40,Artifact,Scepter
+41,Creature,Fairy
+42,Spell,Gale
+43,Artifact,Ring
+44,Creature,Aura Rogue Giant of the Black Stone

@@ -1,46 +1,46 @@
-==================,DECK,6286,Light
-0,Enchantment,Common,Invert
-1,Spell,Common,Sorrow
-2,Spell,Common,Gravitation
-3,Spell,Common,Torment
-4,Enchantment,Common,Alacrity
-5,Artifact,Common,Gloves
-6,Creature,Common,Ghoul
-7,Enchantment,Common,Invert
-8,Creature,Common,Elf
-9,Creature,Legendary,Frozen Fighter Orge of the Mountains
-10,Creature,Common,Elf
-11,Creature,Common,Elf
-12,Enchantment,Common,Alacrity
-13,Artifact,Common,Gauntlet
-14,Creature,Common,Spider
-15,Spell,Common,Reanimate
-16,Enchantment,Rare,Hateful Haste
-17,Creature,Common,Paladin
-18,Spell,Common,Rage
-19,Creature,Common,Warlock
-20,Creature,Common,Spider
-21,Creature,Rare,Frozen Knight Griffin
-22,Creature,Rare,Dark Monk Hydra
-23,Enchantment,Rare,Necro Haste
-24,Creature,Common,Orc
-25,Enchantment,Common,Flight
-26,Creature,Common,Spider
-27,Enchantment,Common,Blight
-28,Enchantment,Common,Shrink
-29,Creature,Common,Goblin
-30,Creature,Common,Paladin
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Lightning
-33,Creature,Common,Paladin
-34,Creature,Common,Dwarf
-35,Spell,Rare,Corpse Heal
-36,Creature,Common,Wolf
-37,Creature,Common,Paladin
-38,Spell,Rare,Dark Heal
-39,Creature,Common,Paladin
-40,Artifact,Common,Ring
-41,Creature,Legendary,Dark Knight Orge of the West
-42,Creature,Mythic,Dark Nameless Dragon of Illusion
-43,Enchantment,Common,Haste
-44,Creature,Common,Elf
+==================,DECK,6286
+0,Enchantment,Age
+1,Spell,Hypnosis
+2,Spell,Revive
+3,Spell,Rage
+4,Enchantment,Alacrity
+5,Artifact,Gloves
+6,Creature,Ghoul
+7,Enchantment,Shade
+8,Creature,Warlock
+9,Creature,Frozen Fighter Elf of the Mountains
+10,Creature,Warlock
+11,Creature,Warlock
+12,Enchantment,Shield
+13,Artifact,Gauntlet
+14,Creature,Paladin
+15,Spell,Maelstrom
+16,Enchantment,Miracle Shield
+17,Creature,Troll
+18,Spell,Fury
+19,Creature,Berserker
+20,Creature,Paladin
+21,Creature,Frozen Knight Griffin
+22,Creature,Dark Monk Hydra
+23,Enchantment,Corpse Age
+24,Creature,Spider
+25,Enchantment,Invert
+26,Creature,Paladin
+27,Enchantment,Lethargy
+28,Enchantment,Age
+29,Creature,Skin-Walker
+30,Creature,Troll
+31,Enchantment,Shade
+32,Spell,Wall
+33,Creature,Troll
+34,Creature,Magi
+35,Spell,Solar Fury
+36,Creature,Wolf
+37,Creature,Troll
+38,Spell,Dark Stricken
+39,Creature,Troll
+40,Artifact,Ring
+41,Creature,Dark Knight Elf of the West
+42,Creature,Dark Nameless Dragon of Illusion
+43,Enchantment,Alacrity
+44,Creature,Warlock

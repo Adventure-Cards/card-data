@@ -1,46 +1,46 @@
-==================,DECK,4461,Light
-0,Creature,Mythic,Earth Ancient Demon of the Shadows
-1,Artifact,Common,Potion
-2,Spell,Rare,Lunar Sorrow
-3,Creature,Common,Paladin
-4,Creature,Common,Dwarf
-5,Enchantment,Common,Blight
-6,Creature,Common,Eagle
-7,Enchantment,Common,Drain
-8,Creature,Rare,Light Queen Fairy
-9,Creature,Legendary,Dark Lord Giant of the Plains
-10,Enchantment,Common,Lethargy
-11,Enchantment,Common,Drain
-12,Spell,Common,Reanimate
-13,Creature,Common,Warlock
-14,Creature,Common,Paladin
-15,Creature,Rare,Death Lord Minotaur
-16,Creature,Common,Elf
-17,Spell,Rare,Forged Revive
-18,Creature,Rare,Dark Merchant Skin-Walker
-19,Enchantment,Common,Shield
-20,Enchantment,Common,Deathgrip
-21,Creature,Rare,Death Rogue Berserker
-22,Spell,Rare,Lunar Maelstrom
-23,Enchantment,Rare,Oblivion Shield
-24,Spell,Rare,Forged Frost
-25,Creature,Common,Eagle
-26,Artifact,Legendary,Dire Cloak
-27,Creature,Rare,Aura Rogue Berserker
-28,Creature,Rare,Snow Queen Griffin
-29,Creature,Common,Elf
-30,Enchantment,Mythic,Intense Shade
-31,Enchantment,Rare,Solar Lethargy
-32,Spell,Common,Frenzy
-33,Artifact,Legendary,Dire Potion
-34,Enchantment,Common,Agony
-35,Spell,Legendary,Mighty Sorrow
-36,Creature,Rare,Snow Rogue Berserker
-37,Spell,Common,Stun
-38,Enchantment,Common,Invert
-39,Artifact,Common,Ring
-40,Artifact,Legendary,Potent Scepter
-41,Creature,Legendary,Light Knight Kraken of the Frozen Castle
-42,Enchantment,Common,Blight
-43,Spell,Common,Assault
-44,Creature,Rare,Snow Monk Berserker
+==================,DECK,4461
+0,Creature,Earth Ancient Demon of the Shadows
+1,Artifact,Potion
+2,Spell,Lunar Reanimate
+3,Creature,Troll
+4,Creature,Magi
+5,Enchantment,Shade
+6,Creature,Eagle
+7,Enchantment,Lethargy
+8,Creature,Light Queen Kraken
+9,Creature,Dark Lord Dwarf of the Plains
+10,Enchantment,Blight
+11,Enchantment,Haste
+12,Spell,Ice
+13,Creature,Berserker
+14,Creature,Troll
+15,Creature,Death Lord Cyclops
+16,Creature,Warlock
+17,Spell,Lunar Infuriate
+18,Creature,Dark Merchant Orc
+19,Enchantment,Age
+20,Enchantment,Flight
+21,Creature,Death Rogue Goblin
+22,Spell,Cataclysmic Rage
+23,Enchantment,Victory Blight
+24,Spell,Gloom Hypnosis
+25,Creature,Eagle
+26,Artifact,Ardent Frigid Cloak
+27,Creature,Aura Rogue Goblin
+28,Creature,Snow Queen Griffin
+29,Creature,Warlock
+30,Enchantment,Irate Necro Deathgrip
+31,Enchantment,Hateful Lethargy
+32,Spell,Fireball
+33,Artifact,Clever Frigid Potion
+34,Enchantment,Invert
+35,Spell,Potent Gloom Heal
+36,Creature,Snow Rogue Goblin
+37,Spell,Ice
+38,Enchantment,Lethargy
+39,Artifact,Ring
+40,Artifact,Instant Oblivion Scepter
+41,Creature,Light Knight Ogre of the Frozen Castle
+42,Enchantment,Shield
+43,Spell,Vortex
+44,Creature,Snow Monk Goblin

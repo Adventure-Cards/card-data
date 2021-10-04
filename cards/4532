@@ -1,46 +1,46 @@
-==================,DECK,4532,Light
-0,Artifact,Common,Sword
-1,Enchantment,Mythic,Instant Alacrity
-2,Creature,Common,Wolf
-3,Enchantment,Common,Haste
-4,Spell,Common,Frost
-5,Creature,Legendary,Frozen Merchant Oni of the Swamp
-6,Creature,Common,Dwarf
-7,Spell,Common,Sorrow
-8,Artifact,Common,Cloak
-9,Enchantment,Common,Age
-10,Creature,Common,Ghoul
-11,Creature,Rare,Aura Undead Griffin
-12,Creature,Legendary,Dark Lord Kraken of the Low Hills
-13,Spell,Rare,Grim Invisibility
-14,Artifact,Common,Helm
-15,Enchantment,Rare,Solar Invert
-16,Artifact,Common,Ghost Wand
-17,Creature,Common,Wolf
-18,Enchantment,Common,Agony
-19,Creature,Rare,Snow Rogue Griffin
-20,Enchantment,Rare,Life Age
-21,Spell,Common,Vortex
-22,Creature,Legendary,Snow Rogue Cyclops of the Plains
-23,Creature,Common,Paladin
-24,Spell,Rare,Cataclysmic Reanimate
-25,Spell,Common,Infuriate
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Frigid Lethargy
-28,Creature,Common,Orc
-29,Artifact,Common,Crown
-30,Artifact,Common,Greaves
-31,Creature,Rare,Light King Skin-Walker
-32,Creature,Common,Magi
-33,Creature,Mythic,Earth Ancient Wizard of the Shadows
-34,Creature,Common,Goblin
-35,Creature,Common,Ghoul
-36,Creature,Common,Warlock
-37,Enchantment,Common,Shade
-38,Artifact,Rare,Oblivion Gauntlet
-39,Enchantment,Common,Agony
-40,Creature,Legendary,Death Warrior Giant of the Polar Woods
-41,Creature,Rare,Light Assassin Berserker
-42,Creature,Mythic,Earth Ancient Demon of the Shadows
-43,Spell,Common,Reanimate
-44,Creature,Rare,Dark Assassin Minotaur
+==================,DECK,4532
+0,Artifact,Sword
+1,Enchantment,Irate Forged Deathgrip
+2,Creature,Wolf
+3,Enchantment,Drain
+4,Spell,Vortex
+5,Creature,Frozen Merchant Oni of the Swamp
+6,Creature,Magi
+7,Spell,Burn
+8,Artifact,Cloak
+9,Enchantment,Strength
+10,Creature,Ghoul
+11,Creature,Aura Undead Griffin
+12,Creature,Dark Lord Ogre of the Low Hills
+13,Spell,Frigid Frenzy
+14,Artifact,Helm
+15,Enchantment,Shimmering Agony
+16,Artifact,Ghost Wand
+17,Creature,Wolf
+18,Enchantment,Lethargy
+19,Creature,Snow Rogue Griffin
+20,Enchantment,Victory Haste
+21,Spell,Torment
+22,Creature,Snow Rogue Giant of the Plains
+23,Creature,Troll
+24,Spell,Sorrow Revive
+25,Spell,Heal
+26,Creature,Magi
+27,Enchantment,Grim Haste
+28,Creature,Spider
+29,Artifact,Crown
+30,Artifact,Greaves
+31,Creature,Light King Orc
+32,Creature,Fairy
+33,Creature,Earth Ancient Wizard of the Shadows
+34,Creature,Skin-Walker
+35,Creature,Ghoul
+36,Creature,Berserker
+37,Enchantment,Haste
+38,Artifact,Apocalypse Gauntlet
+39,Enchantment,Deathgrip
+40,Creature,Death Warrior Dwarf of the Polar Woods
+41,Creature,Light Assassin Goblin
+42,Creature,Earth Ancient Demon of the Shadows
+43,Spell,Fire
+44,Creature,Dark Assassin Cyclops

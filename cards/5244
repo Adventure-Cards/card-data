@@ -1,46 +1,46 @@
-==================,DECK,5244,Strong
-0,Enchantment,Common,Blight
-1,Creature,Common,Paladin
-2,Spell,Common,Rage
-3,Spell,Rare,Solar Invisibility
-4,Creature,Common,Warlock
-5,Artifact,Mythic,Urgent Bow
-6,Spell,Rare,Shimmering Infuriate
-7,Spell,Common,Burst
-8,Enchantment,Rare,Necro Flight
-9,Creature,Rare,Aura King Hydra
-10,Spell,Common,Invisibility
-11,Spell,Rare,Dark Heal
-12,Enchantment,Common,Age
-13,Creature,Common,Elf
-14,Creature,Legendary,Snow Fighter Orge of the Frozen Castle
-15,Artifact,Rare,Miracle Sword
-16,Enchantment,Legendary,Mighty Blight
-17,Spell,Common,Gale
-18,Spell,Rare,Frigid Wall
-19,Artifact,Common,Shield
-20,Artifact,Common,Ring
-21,Enchantment,Mythic,Potent Blight
-22,Creature,Rare,Light Queen Skin-Walker
-23,Spell,Common,Pandemonium
-24,Spell,Mythic,Extreme Burst
-25,Creature,Common,Wolf
-26,Enchantment,Mythic,Clever Deathgrip
-27,Creature,Legendary,Earth King Cyclops of the Black Stone
-28,Spell,Rare,Nimble Rage
-29,Enchantment,Legendary,Intense Haste
-30,Artifact,Rare,Dark Ring
-31,Enchantment,Legendary,Angry Strength
-32,Creature,Common,Spider
-33,Spell,Rare,Lunar Ice
-34,Enchantment,Common,Lethargy
-35,Creature,Common,Elf
-36,Creature,Rare,Light Warrior Skin-Walker
-37,Creature,Rare,Snow King Skin-Walker
-38,Creature,Mythic,Death Grand Wizard of the Dead
-39,Creature,Common,Spider
-40,Creature,Legendary,Earth Chaos Demon of the Shadows
-41,Spell,Common,Ice
-42,Artifact,Common,Scepter
-43,Creature,Common,Magi
-44,Creature,Legendary,Frozen Undead Phoenix of the Void
+==================,DECK,5244
+0,Enchantment,Blight
+1,Creature,Troll
+2,Spell,Pandemonium
+3,Spell,Forged Rage
+4,Creature,Berserker
+5,Artifact,Mighty Corpse Bow
+6,Spell,Necro Torment
+7,Spell,Assault
+8,Enchantment,Hateful Lethargy
+9,Creature,Aura King Hydra
+10,Spell,Assault
+11,Spell,Cataclysmic Revive
+12,Enchantment,Strength
+13,Creature,Warlock
+14,Creature,Snow Fighter Elf of the Frozen Castle
+15,Artifact,Frigid Sword
+16,Enchantment,Zealous Cataclysmic Alacrity
+17,Spell,Tempest
+18,Spell,Victory Lightning
+19,Artifact,Shield
+20,Artifact,Ring
+21,Enchantment,Potent Nimble Drain
+22,Creature,Light Queen Orc
+23,Spell,Stun
+24,Spell,Mighty Gloom Freeze
+25,Creature,Wolf
+26,Enchantment,Clever Oblivion Haste
+27,Creature,Earth King Giant of the Black Stone
+28,Spell,Shimmering Maelstrom
+29,Enchantment,Mighty Corpse Agony
+30,Artifact,Chimeric Ring
+31,Enchantment,Urgent Cataclysmic Flight
+32,Creature,Paladin
+33,Spell,Cataclysmic Heal
+34,Enchantment,Flight
+35,Creature,Warlock
+36,Creature,Light Warrior Orc
+37,Creature,Snow King Orc
+38,Creature,Death Grand Wizard of the Dead
+39,Creature,Paladin
+40,Creature,Earth Chaos Demon of the Shadows
+41,Spell,Lightning
+42,Artifact,Scepter
+43,Creature,Fairy
+44,Creature,Frozen Undead Phoenix of the Void

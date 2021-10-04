@@ -1,46 +1,46 @@
-==================,DECK,7215,Light
-0,Artifact,Common,Crown
-1,Artifact,Common,Gauntlet
-2,Enchantment,Mythic,Intense Alacrity
-3,Creature,Common,Elf
-4,Creature,Rare,Snow Fighter Fairy
-5,Artifact,Rare,Lunar Pendant
-6,Enchantment,Rare,Apocalypse Drain
-7,Enchantment,Common,Drain
-8,Enchantment,Rare,Solar Strength
-9,Creature,Rare,Death Knight Hydra
-10,Creature,Common,Paladin
-11,Creature,Common,Magi
-12,Spell,Common,Burst
-13,Creature,Rare,Aura Thief Berserker
-14,Creature,Rare,Light Priest Minotaur
-15,Creature,Common,Paladin
-16,Spell,Legendary,Potent Torment
-17,Enchantment,Common,Strength
-18,Artifact,Common,Belt
-19,Spell,Common,Infuriate
-20,Enchantment,Common,Age
-21,Creature,Common,Warlock
-22,Enchantment,Common,Shield
-23,Creature,Rare,Snow Rogue Fairy
-24,Spell,Common,Wall
-25,Creature,Common,Magi
-26,Creature,Common,Orc
-27,Creature,Common,Orc
-28,Enchantment,Common,Lethargy
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Spider
-31,Creature,Common,Eagle
-32,Enchantment,Common,Lethargy
-33,Enchantment,Rare,Life Haste
-34,Creature,Common,Paladin
-35,Creature,Common,Dwarf
-36,Creature,Mythic,Aura Ancient Demon of the Light
-37,Creature,Rare,Frozen Assassin Fairy
-38,Creature,Common,Spider
-39,Creature,Legendary,Aura Queen Cyclops of the Eternal Land
-40,Creature,Legendary,Earth Priest Giant of the Haven
-41,Enchantment,Rare,Grim Shield
-42,Artifact,Common,Staff
-43,Enchantment,Common,Flight
-44,Creature,Common,Eagle
+==================,DECK,7215
+0,Artifact,Crown
+1,Artifact,Gauntlet
+2,Enchantment,Instant Forged Strength
+3,Creature,Warlock
+4,Creature,Snow Fighter Kraken
+5,Artifact,Cataclysmic Pendant
+6,Enchantment,Apocalypse Invert
+7,Enchantment,Shrink
+8,Enchantment,Solar Agony
+9,Creature,Death Knight Hydra
+10,Creature,Troll
+11,Creature,Fairy
+12,Spell,Lightning
+13,Creature,Aura Thief Goblin
+14,Creature,Light Priest Cyclops
+15,Creature,Troll
+16,Spell,Irate Life Fury
+17,Enchantment,Age
+18,Artifact,Belt
+19,Spell,Revive
+20,Enchantment,Agony
+21,Creature,Berserker
+22,Enchantment,Lethargy
+23,Creature,Snow Rogue Kraken
+24,Spell,Pandemonium
+25,Creature,Fairy
+26,Creature,Spider
+27,Creature,Spider
+28,Enchantment,Strength
+29,Enchantment,Lethargy
+30,Creature,Paladin
+31,Creature,Eagle
+32,Enchantment,Deathgrip
+33,Enchantment,Life Shade
+34,Creature,Troll
+35,Creature,Magi
+36,Creature,Aura Ancient Demon of the Light
+37,Creature,Frozen Assassin Kraken
+38,Creature,Paladin
+39,Creature,Aura Queen Giant of the Eternal Land
+40,Creature,Earth Priest Dwarf of the Haven
+41,Enchantment,Victory Invert
+42,Artifact,Staff
+43,Enchantment,Age
+44,Creature,Eagle

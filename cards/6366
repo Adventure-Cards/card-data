@@ -1,46 +1,46 @@
-==================,DECK,6366,Light
-0,Spell,Common,Maelstrom
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Invert
-3,Artifact,Common,Staff
-4,Enchantment,Common,Strength
-5,Creature,Common,Paladin
-6,Creature,Legendary,Frozen Knight Kraken of the Plains
-7,Spell,Common,Gravitation
-8,Creature,Common,Ghoul
-9,Spell,Common,Burst
-10,Creature,Legendary,Light Assassin Orge of the Low Hills
-11,Creature,Rare,Snow Fighter Minotaur
-12,Spell,Legendary,Extreme Frost
-13,Creature,Common,Eagle
-14,Spell,Common,Gale
-15,Enchantment,Mythic,Potent Invert
-16,Creature,Common,Paladin
-17,Creature,Common,Eagle
-18,Creature,Common,Elf
-19,Creature,Common,Magi
-20,Spell,Common,Lightning
-21,Creature,Mythic,Aura Grand Wizard of the Light
-22,Enchantment,Common,Shield
-23,Creature,Mythic,Frozen Grand Demon of the Void
-24,Creature,Common,Dwarf
-25,Enchantment,Legendary,Clever Invert
-26,Creature,Legendary,Snow Queen Kraken of the West
-27,Creature,Legendary,Frozen Knight Orge of the Polar Woods
-28,Spell,Common,Heal
-29,Creature,Common,Elf
-30,Creature,Common,Dwarf
-31,Spell,Common,Frost
-32,Creature,Mythic,Frozen Undead Dragon of the Void
-33,Spell,Common,Rage
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Eagle
-36,Enchantment,Common,Flight
-37,Creature,Rare,Snow Queen Hydra
-38,Enchantment,Common,Strength
-39,Enchantment,Common,Blight
-40,Enchantment,Common,Invert
-41,Creature,Common,Wolf
-42,Enchantment,Common,Flight
-43,Enchantment,Common,Invert
-44,Artifact,Common,Greaves
+==================,DECK,6366
+0,Spell,Gale
+1,Creature,Magi
+2,Enchantment,Strength
+3,Artifact,Staff
+4,Enchantment,Haste
+5,Creature,Troll
+6,Creature,Frozen Knight Ogre of the Plains
+7,Spell,Fury
+8,Creature,Ghoul
+9,Spell,Gale
+10,Creature,Light Assassin Elf of the Low Hills
+11,Creature,Snow Fighter Cyclops
+12,Spell,Instant Miracle Sorrow
+13,Creature,Eagle
+14,Spell,Vortex
+15,Enchantment,Urgent Oblivion Invert
+16,Creature,Troll
+17,Creature,Eagle
+18,Creature,Warlock
+19,Creature,Fairy
+20,Spell,Heal
+21,Creature,Aura Grand Wizard of the Light
+22,Enchantment,Invert
+23,Creature,Frozen Grand Demon of the Void
+24,Creature,Magi
+25,Enchantment,Irate Oblivion Blight
+26,Creature,Snow Queen Ogre of the West
+27,Creature,Frozen Knight Elf of the Polar Woods
+28,Spell,Torment
+29,Creature,Warlock
+30,Creature,Magi
+31,Spell,Lightning
+32,Creature,Frozen Undead Dragon of the Void
+33,Spell,Gale
+34,Enchantment,Age
+35,Creature,Eagle
+36,Enchantment,Invert
+37,Creature,Snow Queen Hydra
+38,Enchantment,Agony
+39,Enchantment,Shade
+40,Enchantment,Agony
+41,Creature,Wolf
+42,Enchantment,Haste
+43,Enchantment,Blight
+44,Artifact,Greaves

@@ -1,46 +1,46 @@
-==================,DECK,4826,Light
-0,Creature,Common,Magi
-1,Spell,Rare,Corpse Rage
-2,Spell,Common,Reanimate
-3,Creature,Legendary,Death Assassin Giant of the Black Stone
-4,Creature,Common,Orc
-5,Creature,Common,Wolf
-6,Creature,Rare,Snow Thief Skin-Walker
-7,Creature,Common,Eagle
-8,Enchantment,Common,Agony
-9,Artifact,Common,Cloak
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Creature,Mythic,Snow Nameless Phoenix of Hate
-13,Enchantment,Common,Alacrity
-14,Enchantment,Common,Strength
-15,Creature,Common,Magi
-16,Artifact,Common,Potion
-17,Creature,Common,Orc
-18,Creature,Legendary,Dark Undead Kraken of the Swamp
-19,Creature,Common,Paladin
-20,Spell,Rare,Shimmering Pandemonium
-21,Creature,Common,Wolf
-22,Enchantment,Common,Blight
-23,Creature,Legendary,Earth Priest Kraken of the Polar Woods
-24,Creature,Common,Orc
-25,Spell,Common,Maelstrom
-26,Creature,Common,Eagle
-27,Artifact,Common,Divine Robe
-28,Creature,Rare,Snow Knight Griffin
-29,Creature,Common,Paladin
-30,Creature,Common,Dwarf
-31,Creature,Common,Magi
-32,Spell,Common,Stun
-33,Enchantment,Common,Shade
-34,Enchantment,Common,Strength
-35,Creature,Rare,Aura Lord Berserker
-36,Artifact,Common,Bow
-37,Enchantment,Common,Shrink
-38,Creature,Common,Warlock
-39,Creature,Common,Dwarf
-40,Creature,Legendary,Dark Priest Oni of the West
-41,Spell,Common,Wall
-42,Spell,Common,Gale
-43,Enchantment,Mythic,Intense Haste
-44,Spell,Rare,Nature Stun
+==================,DECK,4826
+0,Creature,Fairy
+1,Spell,Necro Wall
+2,Spell,Gravitation
+3,Creature,Death Assassin Dwarf of the Black Stone
+4,Creature,Spider
+5,Creature,Wolf
+6,Creature,Snow Thief Orc
+7,Creature,Eagle
+8,Enchantment,Blight
+9,Artifact,Cloak
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Creature,Snow Nameless Phoenix of Hate
+13,Enchantment,Haste
+14,Enchantment,Shrink
+15,Creature,Fairy
+16,Artifact,Potion
+17,Creature,Spider
+18,Creature,Dark Undead Ogre of the Swamp
+19,Creature,Troll
+20,Spell,Necro Burn
+21,Creature,Wolf
+22,Enchantment,Shield
+23,Creature,Earth Priest Ogre of the Polar Woods
+24,Creature,Spider
+25,Spell,Vortex
+26,Creature,Eagle
+27,Artifact,Divine Robe
+28,Creature,Snow Knight Griffin
+29,Creature,Troll
+30,Creature,Magi
+31,Creature,Fairy
+32,Spell,Heal
+33,Enchantment,Lethargy
+34,Enchantment,Alacrity
+35,Creature,Aura Lord Goblin
+36,Artifact,Bow
+37,Enchantment,Blight
+38,Creature,Berserker
+39,Creature,Magi
+40,Creature,Dark Priest Oni of the West
+41,Spell,Invisibility
+42,Spell,Vortex
+43,Enchantment,Empyrean Corpse Age
+44,Spell,Nature Burst

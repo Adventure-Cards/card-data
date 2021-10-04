@@ -1,46 +1,46 @@
-==================,DECK,7102,Medium
-0,Artifact,Common,Ring
-1,Creature,Common,Goblin
-2,Spell,Common,Pandemonium
-3,Enchantment,Common,Deathgrip
-4,Spell,Common,Rage
-5,Artifact,Common,Tome
-6,Creature,Common,Paladin
-7,Artifact,Rare,Oblivion Ring
-8,Enchantment,Legendary,Extreme Alacrity
-9,Artifact,Rare,Corpse Tome
-10,Artifact,Common,Sword
-11,Artifact,Rare,Lunar Sword
-12,Creature,Common,Dwarf
-13,Creature,Common,Eagle
-14,Creature,Legendary,Earth Fighter Giant of the Polar Woods
-15,Creature,Common,Magi
-16,Artifact,Legendary,Urgent Tome
-17,Creature,Common,Eagle
-18,Spell,Common,Frost
-19,Spell,Rare,Apocalypse Sorrow
-20,Artifact,Rare,Life Tome
-21,Enchantment,Common,Deathgrip
-22,Enchantment,Common,Blight
-23,Creature,Common,Elf
-24,Creature,Common,Dwarf
-25,Enchantment,Mythic,Intense Agony
-26,Creature,Common,Elf
-27,Creature,Common,Paladin
-28,Artifact,Common,Boots
-29,Enchantment,Common,Blight
-30,Spell,Legendary,Potent Invisibility
-31,Creature,Common,Goblin
-32,Enchantment,Mythic,Potent Deathgrip
-33,Creature,Rare,Death Rogue Fairy
-34,Creature,Rare,Snow Priest Fairy
-35,Creature,Common,Eagle
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Magi
-38,Spell,Common,Torment
-39,Artifact,Common,Ring
-40,Creature,Common,Elf
-41,Creature,Common,Paladin
-42,Creature,Legendary,Death Thief Oni of the Mountains
-43,Creature,Mythic,Dark Undead Dragon of Illusion
-44,Creature,Common,Spider
+==================,DECK,7102
+0,Artifact,Ring
+1,Creature,Skin-Walker
+2,Spell,Sorrow
+3,Enchantment,Shield
+4,Spell,Stricken
+5,Artifact,Tome
+6,Creature,Troll
+7,Artifact,Grim Ring
+8,Enchantment,Ardent Dark Shield
+9,Artifact,Shimmering Tome
+10,Artifact,Sword
+11,Artifact,Sorrow Sword
+12,Creature,Magi
+13,Creature,Eagle
+14,Creature,Earth Fighter Dwarf of the Polar Woods
+15,Creature,Fairy
+16,Artifact,Empyrean Corpse Tome
+17,Creature,Eagle
+18,Spell,Lightning
+19,Spell,Apocalypse Invisibility
+20,Artifact,Frigid Tome
+21,Enchantment,Shade
+22,Enchantment,Strength
+23,Creature,Warlock
+24,Creature,Magi
+25,Enchantment,Irate Corpse Deathgrip
+26,Creature,Warlock
+27,Creature,Troll
+28,Artifact,Boots
+29,Enchantment,Alacrity
+30,Spell,Ardent Oblivion Wall
+31,Creature,Skin-Walker
+32,Enchantment,Zealous Oblivion Blight
+33,Creature,Death Rogue Kraken
+34,Creature,Snow Priest Kraken
+35,Creature,Eagle
+36,Enchantment,Drain
+37,Creature,Fairy
+38,Spell,Fireball
+39,Artifact,Ring
+40,Creature,Warlock
+41,Creature,Troll
+42,Creature,Death Thief Oni of the Mountains
+43,Creature,Dark Undead Dragon of Illusion
+44,Creature,Paladin

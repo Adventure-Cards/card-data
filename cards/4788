@@ -1,46 +1,46 @@
-==================,DECK,4788,Medium
-0,Creature,Common,Warlock
-1,Creature,Rare,Death Monk Fairy
-2,Creature,Legendary,Dark Merchant Cyclops of the Magical Forest
-3,Creature,Common,Goblin
-4,Spell,Common,Reanimate
-5,Enchantment,Common,Shield
-6,Artifact,Rare,Grim Staff
-7,Creature,Common,Orc
-8,Enchantment,Mythic,Extreme Haste
-9,Creature,Legendary,Light Merchant Cyclops of the Frozen Castle
-10,Artifact,Common,Sigil
-11,Artifact,Common,Shield
-12,Spell,Common,Reanimate
-13,Enchantment,Rare,Nimble Lethargy
-14,Spell,Rare,Grim Frenzy
-15,Creature,Legendary,Dark Queen Orge of the West
-16,Artifact,Rare,Nimble Gauntlet
-17,Creature,Common,Dwarf
-18,Spell,Common,Maelstrom
-19,Creature,Common,Orc
-20,Creature,Common,Spider
-21,Artifact,Rare,Corpse Divine Robe
-22,Creature,Legendary,Earth Knight Giant of the Swamp
-23,Creature,Common,Paladin
-24,Creature,Rare,Death Lord Hydra
-25,Enchantment,Common,Flight
-26,Spell,Legendary,Dire Maelstrom
-27,Artifact,Common,Gauntlet
-28,Spell,Common,Gale
-29,Spell,Rare,Corpse Rage
-30,Enchantment,Common,Blight
-31,Artifact,Common,Scythe
-32,Artifact,Rare,Nature Staff
-33,Enchantment,Common,Strength
-34,Creature,Mythic,Earth Undead Phoenix of the Shadows
-35,Artifact,Common,Potion
-36,Creature,Rare,Light Assassin Hydra
-37,Creature,Common,Ghoul
-38,Creature,Common,Warlock
-39,Creature,Rare,Death Undead Fairy
-40,Enchantment,Common,Age
-41,Creature,Common,Orc
-42,Creature,Common,Elf
-43,Creature,Common,Orc
-44,Creature,Common,Ghoul
+==================,DECK,4788
+0,Creature,Berserker
+1,Creature,Death Monk Kraken
+2,Creature,Dark Merchant Giant of the Magical Forest
+3,Creature,Skin-Walker
+4,Spell,Freeze
+5,Enchantment,Shade
+6,Artifact,Apocalypse Staff
+7,Creature,Spider
+8,Enchantment,Zealous Miracle Alacrity
+9,Creature,Light Merchant Giant of the Frozen Castle
+10,Artifact,Sigil
+11,Artifact,Shield
+12,Spell,Fireball
+13,Enchantment,Hateful Agony
+14,Spell,Victory Fury
+15,Creature,Dark Queen Elf of the West
+16,Artifact,Shimmering Gauntlet
+17,Creature,Magi
+18,Spell,Fireball
+19,Creature,Spider
+20,Creature,Paladin
+21,Artifact,Solar Divine Robe
+22,Creature,Earth Knight Dwarf of the Swamp
+23,Creature,Troll
+24,Creature,Death Lord Hydra
+25,Enchantment,Invert
+26,Spell,Mighty Nimble Hypnosis
+27,Artifact,Gauntlet
+28,Spell,Burst
+29,Spell,Shimmering Frenzy
+30,Enchantment,Firebreath
+31,Artifact,Scythe
+32,Artifact,Forged Staff
+33,Enchantment,Shield
+34,Creature,Earth Undead Phoenix of the Shadows
+35,Artifact,Potion
+36,Creature,Light Assassin Hydra
+37,Creature,Ghoul
+38,Creature,Berserker
+39,Creature,Death Undead Kraken
+40,Enchantment,Strength
+41,Creature,Spider
+42,Creature,Warlock
+43,Creature,Spider
+44,Creature,Ghoul

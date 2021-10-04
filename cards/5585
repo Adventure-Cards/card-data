@@ -1,46 +1,46 @@
-==================,DECK,5585,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Eagle
-2,Creature,Common,Goblin
-3,Creature,Rare,Earth Knight Skin-Walker
-4,Artifact,Common,Shield
-5,Creature,Common,Warlock
-6,Spell,Common,Torment
-7,Enchantment,Common,Haste
-8,Creature,Common,Ghoul
-9,Spell,Legendary,Potent Invisibility
-10,Artifact,Common,Divine Robe
-11,Creature,Common,Elf
-12,Artifact,Common,Pendant
-13,Creature,Common,Wolf
-14,Artifact,Common,Helmet
-15,Creature,Legendary,Aura Rogue Orge of the Eastern Skies
-16,Creature,Common,Spider
-17,Spell,Rare,Nimble Torment
-18,Creature,Common,Warlock
-19,Creature,Legendary,Death Warrior Orge of the Frozen Castle
-20,Creature,Common,Dwarf
-21,Creature,Common,Elf
-22,Creature,Common,Spider
-23,Creature,Common,Orc
-24,Creature,Common,Paladin
-25,Spell,Legendary,Dire Reanimate
-26,Creature,Common,Warlock
-27,Creature,Common,Wolf
-28,Artifact,Common,Belt
-29,Creature,Rare,Snow Merchant Fairy
-30,Spell,Legendary,Angry Stricken
-31,Creature,Common,Wolf
-32,Creature,Rare,Earth King Griffin
-33,Creature,Common,Dwarf
-34,Creature,Common,Orc
-35,Creature,Common,Dwarf
-36,Creature,Common,Ghoul
-37,Artifact,Common,Belt
-38,Spell,Common,Ice
-39,Creature,Common,Wolf
-40,Creature,Rare,Snow King Minotaur
-41,Creature,Common,Magi
-42,Spell,Common,Heal
-43,Creature,Common,Warlock
-44,Enchantment,Common,Agony
+==================,DECK,5585
+0,Creature,Troll
+1,Creature,Eagle
+2,Creature,Skin-Walker
+3,Creature,Earth Knight Orc
+4,Artifact,Shield
+5,Creature,Berserker
+6,Spell,Rage
+7,Enchantment,Invert
+8,Creature,Ghoul
+9,Spell,Instant Frigid Gravitation
+10,Artifact,Divine Robe
+11,Creature,Warlock
+12,Artifact,Pendant
+13,Creature,Wolf
+14,Artifact,Helmet
+15,Creature,Aura Rogue Elf of the Eastern Skies
+16,Creature,Paladin
+17,Spell,Hateful Stricken
+18,Creature,Berserker
+19,Creature,Death Warrior Elf of the Frozen Castle
+20,Creature,Magi
+21,Creature,Warlock
+22,Creature,Paladin
+23,Creature,Spider
+24,Creature,Troll
+25,Spell,Potent Apocalypse Stricken
+26,Creature,Berserker
+27,Creature,Wolf
+28,Artifact,Belt
+29,Creature,Snow Merchant Kraken
+30,Spell,Zealous Gloom Assault
+31,Creature,Wolf
+32,Creature,Earth King Griffin
+33,Creature,Magi
+34,Creature,Spider
+35,Creature,Magi
+36,Creature,Ghoul
+37,Artifact,Belt
+38,Spell,Assault
+39,Creature,Wolf
+40,Creature,Snow King Cyclops
+41,Creature,Fairy
+42,Spell,Gravitation
+43,Creature,Berserker
+44,Enchantment,Invert

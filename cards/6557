@@ -1,46 +1,46 @@
-==================,DECK,6557,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Aura Rogue Berserker
-2,Enchantment,Common,Shrink
-3,Enchantment,Common,Flight
-4,Enchantment,Common,Shade
-5,Creature,Rare,Death Thief Minotaur
-6,Enchantment,Common,Flight
-7,Artifact,Common,Sigil
-8,Spell,Common,Maelstrom
-9,Creature,Mythic,Dark Undead Phoenix of Illusion
-10,Spell,Rare,Gloom Frost
-11,Enchantment,Rare,Frigid Shield
-12,Enchantment,Rare,Nature Flight
-13,Creature,Common,Ghoul
-14,Creature,Common,Eagle
-15,Artifact,Common,Tome
-16,Creature,Common,Paladin
-17,Creature,Legendary,Snow Monk Giant of the Border
-18,Spell,Common,Lightning
-19,Spell,Common,Stricken
-20,Spell,Rare,Oblivion Rage
-21,Spell,Rare,Lunar Sorrow
-22,Creature,Common,Goblin
-23,Enchantment,Legendary,Mighty Shrink
-24,Creature,Common,Paladin
-25,Artifact,Common,Ring
-26,Spell,Common,Gravitation
-27,Spell,Legendary,Clever Burn
-28,Creature,Common,Paladin
-29,Creature,Common,Ghoul
-30,Creature,Legendary,Dark Assassin Cyclops of the Eastern Skies
-31,Enchantment,Mythic,Dire Haste
-32,Enchantment,Rare,Cataclysmic Shrink
-33,Artifact,Common,Ring
-34,Creature,Common,Spider
-35,Creature,Common,Wolf
-36,Enchantment,Rare,Grim Agony
-37,Creature,Common,Wolf
-38,Spell,Common,Gale
-39,Creature,Common,Paladin
-40,Creature,Common,Goblin
-41,Spell,Common,Ice
-42,Creature,Rare,Death Priest Minotaur
-43,Creature,Legendary,Dark Merchant Cyclops of the Plains
-44,Enchantment,Common,Haste
+==================,DECK,6557
+0,Creature,Skin-Walker
+1,Creature,Aura Rogue Goblin
+2,Enchantment,Agony
+3,Enchantment,Drain
+4,Enchantment,Alacrity
+5,Creature,Death Thief Cyclops
+6,Enchantment,Haste
+7,Artifact,Sigil
+8,Spell,Wall
+9,Creature,Dark Undead Phoenix of Illusion
+10,Spell,Dark Assault
+11,Enchantment,Victory Blight
+12,Enchantment,Hateful Age
+13,Creature,Ghoul
+14,Creature,Eagle
+15,Artifact,Tome
+16,Creature,Troll
+17,Creature,Snow Monk Dwarf of the Border
+18,Spell,Stun
+19,Spell,Fireball
+20,Spell,Victory Heal
+21,Spell,Cataclysmic Torment
+22,Creature,Skin-Walker
+23,Enchantment,Clever Chimeric Shield
+24,Creature,Troll
+25,Artifact,Ring
+26,Spell,Revive
+27,Spell,Empyrean Oblivion Burn
+28,Creature,Troll
+29,Creature,Ghoul
+30,Creature,Dark Assassin Giant of the Eastern Skies
+31,Enchantment,Potent Life Drain
+32,Enchantment,Chimeric Alacrity
+33,Artifact,Ring
+34,Creature,Paladin
+35,Creature,Wolf
+36,Enchantment,Life Invert
+37,Creature,Wolf
+38,Spell,Frost
+39,Creature,Troll
+40,Creature,Skin-Walker
+41,Spell,Tempest
+42,Creature,Death Priest Cyclops
+43,Creature,Dark Merchant Giant of the Plains
+44,Enchantment,Deathgrip

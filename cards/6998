@@ -1,46 +1,46 @@
-==================,DECK,6998,Light
-0,Creature,Common,Elf
-1,Spell,Common,Lightning
-2,Creature,Rare,Aura Priest Skin-Walker
-3,Spell,Rare,Frigid Lightning
-4,Spell,Common,Wall
-5,Creature,Common,Goblin
-6,Enchantment,Mythic,Clever Strength
-7,Creature,Common,Ghoul
-8,Creature,Common,Dwarf
-9,Creature,Common,Warlock
-10,Spell,Common,Wall
-11,Creature,Common,Magi
-12,Enchantment,Common,Shade
-13,Spell,Common,Vortex
-14,Creature,Common,Orc
-15,Creature,Common,Ghoul
-16,Creature,Common,Warlock
-17,Artifact,Common,Gauntlet
-18,Artifact,Common,Gauntlet
-19,Creature,Common,Goblin
-20,Creature,Common,Dwarf
-21,Artifact,Common,Helm
-22,Creature,Common,Eagle
-23,Creature,Common,Paladin
-24,Artifact,Common,Gauntlet
-25,Creature,Common,Spider
-26,Creature,Common,Wolf
-27,Creature,Common,Orc
-28,Creature,Common,Spider
-29,Artifact,Common,Bow
-30,Creature,Legendary,Light King Cyclops of the Border
-31,Creature,Common,Warlock
-32,Enchantment,Common,Shrink
-33,Enchantment,Common,Deathgrip
-34,Enchantment,Mythic,Urgent Shrink
-35,Spell,Common,Fury
-36,Enchantment,Common,Deathgrip
-37,Spell,Common,Frost
-38,Creature,Common,Dwarf
-39,Artifact,Rare,Frigid Tome
-40,Artifact,Common,Helmet
-41,Creature,Common,Eagle
-42,Spell,Common,Freeze
-43,Spell,Common,Stricken
-44,Artifact,Rare,Nature Helmet
+==================,DECK,6998
+0,Creature,Warlock
+1,Spell,Wall
+2,Creature,Aura Priest Orc
+3,Spell,Nimble Pandemonium
+4,Spell,Revive
+5,Creature,Skin-Walker
+6,Enchantment,Instant Nimble Drain
+7,Creature,Ghoul
+8,Creature,Magi
+9,Creature,Berserker
+10,Spell,Lightning
+11,Creature,Fairy
+12,Enchantment,Lethargy
+13,Spell,Gale
+14,Creature,Spider
+15,Creature,Ghoul
+16,Creature,Berserker
+17,Artifact,Gauntlet
+18,Artifact,Gauntlet
+19,Creature,Skin-Walker
+20,Creature,Magi
+21,Artifact,Helm
+22,Creature,Eagle
+23,Creature,Troll
+24,Artifact,Gauntlet
+25,Creature,Paladin
+26,Creature,Wolf
+27,Creature,Spider
+28,Creature,Paladin
+29,Artifact,Bow
+30,Creature,Light King Giant of the Border
+31,Creature,Berserker
+32,Enchantment,Drain
+33,Enchantment,Agony
+34,Enchantment,Zealous Necro Deathgrip
+35,Spell,Pandemonium
+36,Enchantment,Invert
+37,Spell,Torment
+38,Creature,Magi
+39,Artifact,Frigid Tome
+40,Artifact,Helmet
+41,Creature,Eagle
+42,Spell,Freeze
+43,Spell,Ice
+44,Artifact,Nature Helmet

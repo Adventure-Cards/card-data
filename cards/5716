@@ -1,46 +1,46 @@
-==================,DECK,5716,Medium
-0,Creature,Rare,Aura Warrior Hydra
-1,Creature,Mythic,Dark Chaos Demon of Illusion
-2,Spell,Common,Infuriate
-3,Enchantment,Mythic,Potent Blight
-4,Creature,Common,Dwarf
-5,Spell,Rare,Lunar Gale
-6,Creature,Rare,Aura Priest Berserker
-7,Spell,Common,Stricken
-8,Spell,Rare,Oblivion Frost
-9,Spell,Mythic,Mighty Vortex
-10,Enchantment,Common,Agony
-11,Spell,Rare,Life Gale
-12,Creature,Mythic,Snow Nameless Phoenix of Hate
-13,Creature,Rare,Snow Assassin Berserker
-14,Enchantment,Rare,Life Deathgrip
-15,Creature,Common,Goblin
-16,Enchantment,Common,Lethargy
-17,Creature,Mythic,Aura Ancient Demon of the Light
-18,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-19,Creature,Common,Magi
-20,Creature,Rare,Aura Merchant Skin-Walker
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Alacrity
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Enchantment,Common,Shade
-26,Creature,Common,Warlock
-27,Creature,Legendary,Death Queen Orge of the Border
-28,Creature,Common,Paladin
-29,Enchantment,Mythic,Instant Agony
-30,Enchantment,Common,Age
-31,Enchantment,Common,Blight
-32,Enchantment,Common,Flight
-33,Enchantment,Common,Drain
-34,Spell,Rare,Hateful Sorrow
-35,Creature,Common,Warlock
-36,Creature,Common,Dwarf
-37,Enchantment,Common,Agony
-38,Spell,Rare,Apocalypse Stricken
-39,Creature,Common,Paladin
-40,Creature,Common,Ghoul
-41,Artifact,Common,Divine Robe
-42,Artifact,Rare,Apocalypse Gauntlet
-43,Creature,Common,Ghoul
-44,Artifact,Rare,Dark Crown
+==================,DECK,5716
+0,Creature,Aura Warrior Hydra
+1,Creature,Dark Chaos Demon of Illusion
+2,Spell,Vortex
+3,Enchantment,Zealous Nimble Blight
+4,Creature,Magi
+5,Spell,Dark Frenzy
+6,Creature,Aura Priest Goblin
+7,Spell,Freeze
+8,Spell,Frigid Frost
+9,Spell,Ardent Lunar Fury
+10,Enchantment,Drain
+11,Spell,Grim Invisibility
+12,Creature,Snow Nameless Phoenix of Hate
+13,Creature,Snow Assassin Goblin
+14,Enchantment,Oblivion Drain
+15,Creature,Skin-Walker
+16,Enchantment,Age
+17,Creature,Aura Ancient Demon of the Light
+18,Creature,Earth Nameless Phoenix of the Shadows
+19,Creature,Fairy
+20,Creature,Aura Merchant Orc
+21,Creature,Ghoul
+22,Enchantment,Shade
+23,Creature,Paladin
+24,Creature,Troll
+25,Enchantment,Agony
+26,Creature,Berserker
+27,Creature,Death Queen Elf of the Border
+28,Creature,Troll
+29,Enchantment,Instant Corpse Strength
+30,Enchantment,Haste
+31,Enchantment,Invert
+32,Enchantment,Flight
+33,Enchantment,Invert
+34,Spell,Dark Frenzy
+35,Creature,Berserker
+36,Creature,Magi
+37,Enchantment,Drain
+38,Spell,Apocalypse Reanimate
+39,Creature,Troll
+40,Creature,Ghoul
+41,Artifact,Divine Robe
+42,Artifact,Grim Gauntlet
+43,Creature,Ghoul
+44,Artifact,Lunar Crown

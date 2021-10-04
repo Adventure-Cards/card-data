@@ -1,46 +1,46 @@
-==================,DECK,7888,Light
-0,Creature,Rare,Earth Assassin Berserker
-1,Creature,Mythic,Frozen Grand Demon of the Void
-2,Creature,Common,Eagle
-3,Creature,Common,Eagle
-4,Creature,Common,Magi
-5,Creature,Rare,Aura Knight Berserker
-6,Creature,Common,Spider
-7,Enchantment,Rare,Solar Shade
-8,Creature,Common,Orc
-9,Spell,Common,Vortex
-10,Creature,Mythic,Death Grand Demon of the Dead
-11,Creature,Common,Spider
-12,Spell,Rare,Shimmering Ice
-13,Enchantment,Rare,Nature Deathgrip
-14,Creature,Rare,Aura Thief Fairy
-15,Creature,Common,Goblin
-16,Creature,Common,Ghoul
-17,Enchantment,Common,Alacrity
-18,Creature,Rare,Frozen Assassin Minotaur
-19,Creature,Common,Wolf
-20,Creature,Rare,Death Thief Minotaur
-21,Creature,Rare,Snow Thief Griffin
-22,Creature,Common,Goblin
-23,Creature,Common,Ghoul
-24,Enchantment,Legendary,Instant Flight
-25,Artifact,Common,Bracers
-26,Creature,Common,Elf
-27,Creature,Common,Ghoul
-28,Creature,Common,Paladin
-29,Creature,Legendary,Aura Lord Oni of the Arctic Blizzards
-30,Creature,Common,Ghoul
-31,Spell,Common,Invisibility
-32,Creature,Mythic,Light Undead Phoenix of the Sky
-33,Spell,Common,Wall
-34,Creature,Common,Wolf
-35,Spell,Common,Ice
-36,Spell,Common,Revive
-37,Spell,Legendary,Extreme Frenzy
-38,Artifact,Rare,Frigid Shield
-39,Creature,Common,Elf
-40,Creature,Common,Spider
-41,Creature,Common,Orc
-42,Creature,Common,Goblin
-43,Creature,Common,Eagle
-44,Spell,Common,Freeze
+==================,DECK,7888
+0,Creature,Earth Assassin Goblin
+1,Creature,Frozen Grand Demon of the Void
+2,Creature,Eagle
+3,Creature,Eagle
+4,Creature,Fairy
+5,Creature,Aura Knight Goblin
+6,Creature,Paladin
+7,Enchantment,Necro Agony
+8,Creature,Spider
+9,Spell,Pandemonium
+10,Creature,Death Grand Demon of the Dead
+11,Creature,Paladin
+12,Spell,Shimmering Fury
+13,Enchantment,Shimmering Agony
+14,Creature,Aura Thief Kraken
+15,Creature,Skin-Walker
+16,Creature,Ghoul
+17,Enchantment,Agony
+18,Creature,Frozen Assassin Cyclops
+19,Creature,Wolf
+20,Creature,Death Thief Cyclops
+21,Creature,Snow Thief Griffin
+22,Creature,Skin-Walker
+23,Creature,Ghoul
+24,Enchantment,Potent Hateful Strength
+25,Artifact,Bracers
+26,Creature,Warlock
+27,Creature,Ghoul
+28,Creature,Troll
+29,Creature,Aura Lord Oni of the Arctic Blizzards
+30,Creature,Ghoul
+31,Spell,Tempest
+32,Creature,Light Undead Phoenix of the Sky
+33,Spell,Rage
+34,Creature,Wolf
+35,Spell,Hypnosis
+36,Spell,Lightning
+37,Spell,Instant Sorrow Infuriate
+38,Artifact,Oblivion Shield
+39,Creature,Warlock
+40,Creature,Paladin
+41,Creature,Spider
+42,Creature,Skin-Walker
+43,Creature,Eagle
+44,Spell,Infuriate

@@ -1,46 +1,46 @@
-==================,DECK,4395,Medium
-0,Creature,Rare,Light Assassin Griffin
-1,Spell,Common,Infuriate
-2,Spell,Common,Torment
-3,Spell,Legendary,Extreme Gravitation
-4,Spell,Rare,Frigid Torment
-5,Spell,Rare,Dark Heal
-6,Creature,Mythic,Light Undead Dragon of the Sky
-7,Spell,Common,Stun
-8,Creature,Common,Wolf
-9,Enchantment,Common,Lethargy
-10,Creature,Legendary,Light King Kraken of the Frozen Castle
-11,Enchantment,Common,Flight
-12,Creature,Rare,Death Knight Skin-Walker
-13,Creature,Mythic,Aura Chaos Wizard of the Light
-14,Creature,Common,Magi
-15,Artifact,Common,Amulet
-16,Artifact,Common,Helm
-17,Spell,Mythic,Mighty Infuriate
-18,Spell,Legendary,Extreme Hypnosis
-19,Enchantment,Common,Shade
-20,Creature,Common,Elf
-21,Artifact,Common,Gauntlet
-22,Creature,Common,Elf
-23,Spell,Rare,Frigid Frenzy
-24,Creature,Common,Magi
-25,Enchantment,Common,Alacrity
-26,Enchantment,Common,Strength
-27,Spell,Rare,Frigid Frost
-28,Enchantment,Rare,Corpse Shield
-29,Creature,Common,Spider
-30,Spell,Common,Frost
-31,Creature,Rare,Light Fighter Fairy
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Flight
-34,Spell,Common,Freeze
-35,Creature,Common,Magi
-36,Creature,Common,Elf
-37,Spell,Legendary,Dire Torment
-38,Enchantment,Rare,Corpse Shield
-39,Creature,Mythic,Snow Time Phoenix of Hate
-40,Creature,Common,Elf
-41,Enchantment,Mythic,Angry Flight
-42,Enchantment,Legendary,Extreme Drain
-43,Creature,Rare,Frozen Assassin Skin-Walker
-44,Creature,Rare,Aura King Hydra
+==================,DECK,4395
+0,Creature,Light Assassin Griffin
+1,Spell,Ice
+2,Spell,Vortex
+3,Spell,Ardent Chimeric Heal
+4,Spell,Frigid Gravitation
+5,Spell,Sorrow Pandemonium
+6,Creature,Light Undead Dragon of the Sky
+7,Spell,Assault
+8,Creature,Wolf
+9,Enchantment,Shrink
+10,Creature,Light King Ogre of the Frozen Castle
+11,Enchantment,Agony
+12,Creature,Death Knight Orc
+13,Creature,Aura Chaos Wizard of the Light
+14,Creature,Fairy
+15,Artifact,Amulet
+16,Artifact,Helm
+17,Spell,Zealous Miracle Sorrow
+18,Spell,Clever Gloom Sorrow
+19,Enchantment,Haste
+20,Creature,Warlock
+21,Artifact,Gauntlet
+22,Creature,Warlock
+23,Spell,Oblivion Revive
+24,Creature,Fairy
+25,Enchantment,Blight
+26,Enchantment,Shade
+27,Spell,Oblivion Frost
+28,Enchantment,Nature Age
+29,Creature,Paladin
+30,Spell,Burn
+31,Creature,Light Fighter Kraken
+32,Creature,Magi
+33,Enchantment,Drain
+34,Spell,Invisibility
+35,Creature,Fairy
+36,Creature,Warlock
+37,Spell,Instant Nimble Invisibility
+38,Enchantment,Nature Strength
+39,Creature,Snow Time Phoenix of Hate
+40,Creature,Warlock
+41,Enchantment,Empyrean Lunar Firebreath
+42,Enchantment,Clever Dark Shield
+43,Creature,Frozen Assassin Orc
+44,Creature,Aura King Hydra

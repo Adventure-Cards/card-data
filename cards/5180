@@ -1,46 +1,46 @@
-==================,DECK,5180,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Ghoul
-2,Creature,Common,Dwarf
-3,Creature,Rare,Aura Knight Hydra
-4,Creature,Common,Paladin
-5,Artifact,Common,Potion
-6,Artifact,Common,Scepter
-7,Enchantment,Common,Deathgrip
-8,Creature,Common,Ghoul
-9,Creature,Common,Orc
-10,Creature,Mythic,Earth Grand Wizard of the Shadows
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Orc
-13,Creature,Common,Magi
-14,Spell,Common,Gale
-15,Creature,Legendary,Dark Undead Cyclops of the Low Hills
-16,Creature,Common,Spider
-17,Creature,Common,Dwarf
-18,Creature,Rare,Earth Priest Berserker
-19,Spell,Common,Burn
-20,Creature,Rare,Earth Thief Skin-Walker
-21,Creature,Common,Ghoul
-22,Creature,Common,Wolf
-23,Creature,Common,Goblin
-24,Creature,Mythic,Aura Nameless Dragon of the Light
-25,Spell,Common,Ice
-26,Creature,Common,Spider
-27,Creature,Common,Goblin
-28,Creature,Common,Wolf
-29,Creature,Common,Warlock
-30,Enchantment,Common,Lethargy
-31,Artifact,Rare,Solar Amulet
-32,Creature,Common,Dwarf
-33,Creature,Rare,Light Rogue Skin-Walker
-34,Artifact,Rare,Corpse Divine Robe
-35,Artifact,Common,Helmet
-36,Creature,Common,Dwarf
-37,Enchantment,Common,Shrink
-38,Enchantment,Common,Alacrity
-39,Creature,Common,Eagle
-40,Creature,Common,Ghoul
-41,Enchantment,Mythic,Dire Age
-42,Creature,Common,Eagle
-43,Spell,Common,Infuriate
-44,Creature,Rare,Dark Queen Berserker
+==================,DECK,5180
+0,Enchantment,Shrink
+1,Creature,Ghoul
+2,Creature,Magi
+3,Creature,Aura Knight Hydra
+4,Creature,Troll
+5,Artifact,Potion
+6,Artifact,Scepter
+7,Enchantment,Shrink
+8,Creature,Ghoul
+9,Creature,Spider
+10,Creature,Earth Grand Wizard of the Shadows
+11,Enchantment,Strength
+12,Creature,Spider
+13,Creature,Fairy
+14,Spell,Fireball
+15,Creature,Dark Undead Giant of the Low Hills
+16,Creature,Paladin
+17,Creature,Magi
+18,Creature,Earth Priest Goblin
+19,Spell,Sorrow
+20,Creature,Earth Thief Orc
+21,Creature,Ghoul
+22,Creature,Wolf
+23,Creature,Skin-Walker
+24,Creature,Aura Nameless Dragon of the Light
+25,Spell,Maelstrom
+26,Creature,Paladin
+27,Creature,Skin-Walker
+28,Creature,Wolf
+29,Creature,Berserker
+30,Enchantment,Shade
+31,Artifact,Nature Amulet
+32,Creature,Magi
+33,Creature,Light Rogue Orc
+34,Artifact,Solar Divine Robe
+35,Artifact,Helmet
+36,Creature,Magi
+37,Enchantment,Deathgrip
+38,Enchantment,Firebreath
+39,Creature,Eagle
+40,Creature,Ghoul
+41,Enchantment,Zealous Victory Blight
+42,Creature,Eagle
+43,Spell,Burst
+44,Creature,Dark Queen Goblin

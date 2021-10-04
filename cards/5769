@@ -1,46 +1,46 @@
-==================,DECK,5769,Light
-0,Enchantment,Common,Shrink
-1,Spell,Common,Burn
-2,Creature,Common,Magi
-3,Artifact,Common,Staff
-4,Creature,Common,Ghoul
-5,Creature,Common,Magi
-6,Creature,Legendary,Dark King Oni of the Border
-7,Creature,Common,Wolf
-8,Creature,Rare,Dark Assassin Griffin
-9,Creature,Common,Orc
-10,Artifact,Common,Sword
-11,Spell,Common,Lightning
-12,Creature,Common,Elf
-13,Creature,Common,Wolf
-14,Artifact,Common,Ghost Wand
-15,Creature,Common,Eagle
-16,Enchantment,Common,Shrink
-17,Creature,Common,Goblin
-18,Enchantment,Rare,Grim Invert
-19,Creature,Common,Goblin
-20,Enchantment,Mythic,Angry Shrink
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Strength
-23,Spell,Common,Freeze
-24,Creature,Rare,Light King Berserker
-25,Creature,Common,Magi
-26,Creature,Rare,Dark Monk Griffin
-27,Spell,Common,Maelstrom
-28,Spell,Rare,Shimmering Hypnosis
-29,Spell,Common,Torment
-30,Spell,Common,Frenzy
-31,Artifact,Legendary,Instant Helm
-32,Spell,Common,Fury
-33,Enchantment,Common,Invert
-34,Enchantment,Common,Deathgrip
-35,Spell,Common,Rage
-36,Enchantment,Common,Alacrity
-37,Spell,Common,Hypnosis
-38,Creature,Common,Magi
-39,Creature,Mythic,Snow Ancient Demon of Hate
-40,Enchantment,Common,Haste
-41,Creature,Rare,Dark Warrior Fairy
-42,Spell,Common,Burn
-43,Enchantment,Common,Shade
-44,Artifact,Common,Sigil
+==================,DECK,5769
+0,Enchantment,Firebreath
+1,Spell,Fire
+2,Creature,Fairy
+3,Artifact,Staff
+4,Creature,Ghoul
+5,Creature,Fairy
+6,Creature,Dark King Oni of the Border
+7,Creature,Wolf
+8,Creature,Dark Assassin Griffin
+9,Creature,Spider
+10,Artifact,Sword
+11,Spell,Burst
+12,Creature,Warlock
+13,Creature,Wolf
+14,Artifact,Ghost Wand
+15,Creature,Eagle
+16,Enchantment,Alacrity
+17,Creature,Skin-Walker
+18,Enchantment,Oblivion Drain
+19,Creature,Skin-Walker
+20,Enchantment,Empyrean Chimeric Firebreath
+21,Creature,Ghoul
+22,Enchantment,Haste
+23,Spell,Maelstrom
+24,Creature,Light King Goblin
+25,Creature,Fairy
+26,Creature,Dark Monk Griffin
+27,Spell,Wall
+28,Spell,Corpse Hypnosis
+29,Spell,Gravitation
+30,Spell,Sorrow
+31,Artifact,Dire Nature Helm
+32,Spell,Lightning
+33,Enchantment,Strength
+34,Enchantment,Lethargy
+35,Spell,Heal
+36,Enchantment,Shield
+37,Spell,Assault
+38,Creature,Fairy
+39,Creature,Snow Ancient Demon of Hate
+40,Enchantment,Agony
+41,Creature,Dark Warrior Kraken
+42,Spell,Burn
+43,Enchantment,Flight
+44,Artifact,Sigil

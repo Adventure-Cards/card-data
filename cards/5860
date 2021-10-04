@@ -1,46 +1,46 @@
-==================,DECK,5860,Medium
-0,Creature,Rare,Death Thief Hydra
-1,Creature,Rare,Dark Rogue Griffin
-2,Artifact,Common,Greaves
-3,Enchantment,Common,Blight
-4,Spell,Common,Gravitation
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Lethargy
-7,Artifact,Common,Potion
-8,Enchantment,Rare,Life Age
-9,Creature,Common,Paladin
-10,Enchantment,Rare,Necro Flight
-11,Creature,Rare,Frozen Priest Griffin
-12,Spell,Common,Frenzy
-13,Spell,Rare,Grim Heal
-14,Enchantment,Rare,Frigid Strength
-15,Creature,Common,Goblin
-16,Spell,Mythic,Clever Gale
-17,Creature,Common,Orc
-18,Artifact,Rare,Solar Potion
-19,Creature,Common,Dwarf
-20,Creature,Common,Wolf
-21,Enchantment,Common,Invert
-22,Artifact,Common,Staff
-23,Artifact,Common,Amulet
-24,Creature,Common,Ghoul
-25,Creature,Common,Wolf
-26,Artifact,Common,Staff
-27,Creature,Common,Elf
-28,Spell,Common,Vortex
-29,Enchantment,Common,Agony
-30,Creature,Rare,Aura Monk Berserker
-31,Creature,Rare,Earth King Griffin
-32,Spell,Mythic,Clever Heal
-33,Enchantment,Legendary,Urgent Shrink
-34,Spell,Common,Sorrow
-35,Creature,Mythic,Frozen Ancient Demon of the Void
-36,Enchantment,Rare,Forged Shade
-37,Enchantment,Common,Shrink
-38,Spell,Common,Maelstrom
-39,Enchantment,Common,Invert
-40,Enchantment,Common,Drain
-41,Enchantment,Common,Shrink
-42,Enchantment,Mythic,Potent Shrink
-43,Artifact,Common,Gloves
-44,Spell,Common,Vortex
+==================,DECK,5860
+0,Creature,Death Thief Hydra
+1,Creature,Dark Rogue Griffin
+2,Artifact,Greaves
+3,Enchantment,Firebreath
+4,Spell,Sorrow
+5,Creature,Ghoul
+6,Enchantment,Strength
+7,Artifact,Potion
+8,Enchantment,Victory Haste
+9,Creature,Troll
+10,Enchantment,Hateful Strength
+11,Creature,Frozen Priest Griffin
+12,Spell,Maelstrom
+13,Spell,Nimble Reanimate
+14,Enchantment,Nimble Blight
+15,Creature,Skin-Walker
+16,Spell,Potent Victory Frenzy
+17,Creature,Spider
+18,Artifact,Hateful Potion
+19,Creature,Magi
+20,Creature,Wolf
+21,Enchantment,Firebreath
+22,Artifact,Staff
+23,Artifact,Amulet
+24,Creature,Ghoul
+25,Creature,Wolf
+26,Artifact,Staff
+27,Creature,Warlock
+28,Spell,Frenzy
+29,Enchantment,Shield
+30,Creature,Aura Monk Goblin
+31,Creature,Earth King Griffin
+32,Spell,Instant Life Vortex
+33,Enchantment,Clever Necro Lethargy
+34,Spell,Heal
+35,Creature,Frozen Ancient Demon of the Void
+36,Enchantment,Chimeric Flight
+37,Enchantment,Strength
+38,Spell,Ice
+39,Enchantment,Deathgrip
+40,Enchantment,Flight
+41,Enchantment,Invert
+42,Enchantment,Empyrean Frigid Shade
+43,Artifact,Gloves
+44,Spell,Burn

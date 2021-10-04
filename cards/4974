@@ -1,46 +1,46 @@
-==================,DECK,4974,Medium
-0,Enchantment,Common,Shrink
-1,Creature,Common,Wolf
-2,Creature,Legendary,Earth Warrior Cyclops of the Border
-3,Creature,Common,Elf
-4,Spell,Common,Burn
-5,Creature,Rare,Earth Priest Skin-Walker
-6,Creature,Rare,Dark King Berserker
-7,Enchantment,Common,Haste
-8,Creature,Common,Ghoul
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Alacrity
-11,Enchantment,Mythic,Extreme Alacrity
-12,Artifact,Rare,Lunar Belt
-13,Artifact,Common,Ring
-14,Spell,Legendary,Dire Pandemonium
-15,Artifact,Legendary,Urgent Crown
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Creature,Mythic,Earth Time Phoenix of the Shadows
-19,Artifact,Common,Divine Robe
-20,Spell,Common,Infuriate
-21,Spell,Common,Stricken
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Deathgrip
-24,Creature,Legendary,Snow Fighter Giant of the Frozen Castle
-25,Creature,Common,Elf
-26,Creature,Legendary,Frozen Queen Giant of the Bright Mountains
-27,Spell,Rare,Nimble Rage
-28,Enchantment,Common,Invert
-29,Artifact,Rare,Apocalypse Ring
-30,Creature,Common,Dwarf
-31,Creature,Common,Spider
-32,Creature,Common,Wolf
-33,Spell,Common,Gale
-34,Enchantment,Rare,Miracle Shrink
-35,Creature,Rare,Aura Warrior Hydra
-36,Enchantment,Common,Shield
-37,Creature,Legendary,Frozen Warrior Kraken of the Mountains
-38,Creature,Common,Paladin
-39,Creature,Common,Dwarf
-40,Spell,Common,Hypnosis
-41,Creature,Common,Wolf
-42,Artifact,Common,Staff
-43,Creature,Common,Orc
-44,Enchantment,Rare,Miracle Deathgrip
+==================,DECK,4974
+0,Enchantment,Strength
+1,Creature,Wolf
+2,Creature,Earth Warrior Giant of the Border
+3,Creature,Warlock
+4,Spell,Assault
+5,Creature,Earth Priest Orc
+6,Creature,Dark King Goblin
+7,Enchantment,Alacrity
+8,Creature,Ghoul
+9,Creature,Ghoul
+10,Enchantment,Strength
+11,Enchantment,Ardent Dark Shield
+12,Artifact,Cataclysmic Belt
+13,Artifact,Ring
+14,Spell,Mighty Nimble Gravitation
+15,Artifact,Zealous Nature Crown
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Creature,Earth Time Phoenix of the Shadows
+19,Artifact,Divine Robe
+20,Spell,Freeze
+21,Spell,Invisibility
+22,Creature,Ghoul
+23,Enchantment,Lethargy
+24,Creature,Snow Fighter Dwarf of the Frozen Castle
+25,Creature,Warlock
+26,Creature,Frozen Queen Dwarf of the Bright Mountains
+27,Spell,Nature Frenzy
+28,Enchantment,Firebreath
+29,Artifact,Grim Ring
+30,Creature,Magi
+31,Creature,Paladin
+32,Creature,Wolf
+33,Spell,Ice
+34,Enchantment,Frigid Invert
+35,Creature,Aura Warrior Hydra
+36,Enchantment,Alacrity
+37,Creature,Frozen Warrior Ogre of the Mountains
+38,Creature,Troll
+39,Creature,Magi
+40,Spell,Freeze
+41,Creature,Wolf
+42,Artifact,Staff
+43,Creature,Spider
+44,Enchantment,Oblivion Drain

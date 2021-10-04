@@ -1,46 +1,46 @@
-==================,DECK,7641,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Blight
-2,Spell,Rare,Shimmering Hypnosis
-3,Creature,Rare,Snow King Fairy
-4,Creature,Rare,Death Knight Berserker
-5,Spell,Common,Pandemonium
-6,Creature,Common,Spider
-7,Creature,Rare,Snow Warrior Fairy
-8,Spell,Common,Pandemonium
-9,Creature,Common,Wolf
-10,Creature,Common,Paladin
-11,Creature,Common,Dwarf
-12,Spell,Common,Torment
-13,Enchantment,Common,Haste
-14,Creature,Common,Wolf
-15,Enchantment,Common,Alacrity
-16,Creature,Common,Spider
-17,Creature,Common,Spider
-18,Enchantment,Common,Blight
-19,Spell,Common,Gale
-20,Creature,Common,Ghoul
-21,Creature,Common,Eagle
-22,Creature,Legendary,Light Knight Orge of the Mountains
-23,Creature,Rare,Dark Thief Berserker
-24,Artifact,Common,Amulet
-25,Enchantment,Common,Lethargy
-26,Artifact,Common,Ring
-27,Creature,Common,Paladin
-28,Creature,Common,Paladin
-29,Enchantment,Legendary,Dire Strength
-30,Creature,Common,Eagle
-31,Creature,Rare,Snow Assassin Fairy
-32,Creature,Rare,Snow King Minotaur
-33,Spell,Common,Rage
-34,Artifact,Common,Pendant
-35,Creature,Rare,Dark Assassin Griffin
-36,Creature,Rare,Dark Undead Berserker
-37,Creature,Common,Magi
-38,Creature,Common,Spider
-39,Creature,Rare,Aura Rogue Fairy
-40,Spell,Rare,Cataclysmic Burst
-41,Creature,Legendary,Earth Assassin Oni of the Plains
-42,Artifact,Common,Sigil
-43,Creature,Rare,Aura Merchant Fairy
-44,Enchantment,Mythic,Dire Lethargy
+==================,DECK,7641
+0,Creature,Magi
+1,Enchantment,Shield
+2,Spell,Necro Burst
+3,Creature,Snow King Kraken
+4,Creature,Death Knight Goblin
+5,Spell,Wall
+6,Creature,Paladin
+7,Creature,Snow Warrior Kraken
+8,Spell,Burn
+9,Creature,Wolf
+10,Creature,Troll
+11,Creature,Magi
+12,Spell,Torment
+13,Enchantment,Invert
+14,Creature,Wolf
+15,Enchantment,Shade
+16,Creature,Paladin
+17,Creature,Paladin
+18,Enchantment,Strength
+19,Spell,Infuriate
+20,Creature,Ghoul
+21,Creature,Eagle
+22,Creature,Light Knight Elf of the Mountains
+23,Creature,Dark Thief Goblin
+24,Artifact,Amulet
+25,Enchantment,Shield
+26,Artifact,Ring
+27,Creature,Troll
+28,Creature,Troll
+29,Enchantment,Dire Nimble Shade
+30,Creature,Eagle
+31,Creature,Snow Assassin Kraken
+32,Creature,Snow King Cyclops
+33,Spell,Hypnosis
+34,Artifact,Pendant
+35,Creature,Dark Assassin Griffin
+36,Creature,Dark Undead Goblin
+37,Creature,Fairy
+38,Creature,Paladin
+39,Creature,Aura Rogue Kraken
+40,Spell,Lunar Torment
+41,Creature,Earth Assassin Oni of the Plains
+42,Artifact,Sigil
+43,Creature,Aura Merchant Kraken
+44,Enchantment,Dire Grim Shade

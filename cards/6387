@@ -1,46 +1,46 @@
-==================,DECK,6387,Medium
-0,Creature,Legendary,Snow Warrior Oni of the Polar Woods
-1,Spell,Common,Frenzy
-2,Spell,Common,Hypnosis
-3,Enchantment,Common,Flight
-4,Creature,Rare,Death Monk Minotaur
-5,Spell,Common,Infuriate
-6,Creature,Mythic,Death Ancient Wizard of the Dead
-7,Creature,Common,Paladin
-8,Creature,Rare,Light Rogue Fairy
-9,Creature,Common,Magi
-10,Creature,Mythic,Death Time Phoenix of the Dead
-11,Creature,Common,Warlock
-12,Creature,Mythic,Death Nameless Dragon of the Dead
-13,Creature,Common,Eagle
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Creature,Rare,Earth Thief Fairy
-19,Creature,Rare,Light Fighter Fairy
-20,Spell,Rare,Nature Hypnosis
-21,Creature,Common,Spider
-22,Creature,Rare,Earth Priest Minotaur
-23,Creature,Legendary,Earth Undead Giant of the Plains
-24,Creature,Common,Spider
-25,Enchantment,Rare,Lunar Age
-26,Creature,Common,Orc
-27,Artifact,Rare,Oblivion Sword
-28,Creature,Legendary,Light Warrior Kraken of the Bright Mountains
-29,Enchantment,Mythic,Instant Deathgrip
-30,Spell,Common,Fury
-31,Creature,Common,Spider
-32,Creature,Common,Magi
-33,Creature,Mythic,Dark Nameless Phoenix of Illusion
-34,Spell,Legendary,Extreme Stricken
-35,Spell,Common,Revive
-36,Enchantment,Rare,Frigid Shade
-37,Artifact,Common,Helmet
-38,Creature,Common,Dwarf
-39,Creature,Common,Dwarf
-40,Artifact,Rare,Nimble Helmet
-41,Creature,Common,Eagle
-42,Spell,Common,Burst
-43,Creature,Rare,Aura Warrior Minotaur
-44,Spell,Rare,Lunar Stricken
+==================,DECK,6387
+0,Creature,Snow Warrior Oni of the Polar Woods
+1,Spell,Hypnosis
+2,Spell,Hypnosis
+3,Enchantment,Shield
+4,Creature,Death Monk Cyclops
+5,Spell,Revive
+6,Creature,Death Ancient Wizard of the Dead
+7,Creature,Troll
+8,Creature,Light Rogue Kraken
+9,Creature,Fairy
+10,Creature,Death Time Phoenix of the Dead
+11,Creature,Berserker
+12,Creature,Death Nameless Dragon of the Dead
+13,Creature,Eagle
+14,Creature,Warlock
+15,Creature,Berserker
+16,Creature,Berserker
+17,Creature,Berserker
+18,Creature,Earth Thief Kraken
+19,Creature,Light Fighter Kraken
+20,Spell,Necro Revive
+21,Creature,Paladin
+22,Creature,Earth Priest Cyclops
+23,Creature,Earth Undead Dwarf of the Plains
+24,Creature,Paladin
+25,Enchantment,Gloom Firebreath
+26,Creature,Spider
+27,Artifact,Nimble Sword
+28,Creature,Light Warrior Ogre of the Bright Mountains
+29,Enchantment,Clever Shimmering Lethargy
+30,Spell,Ice
+31,Creature,Paladin
+32,Creature,Fairy
+33,Creature,Dark Nameless Phoenix of Illusion
+34,Spell,Zealous Miracle Rage
+35,Spell,Stun
+36,Enchantment,Frigid Drain
+37,Artifact,Helmet
+38,Creature,Magi
+39,Creature,Magi
+40,Artifact,Corpse Helmet
+41,Creature,Eagle
+42,Spell,Frost
+43,Creature,Aura Warrior Cyclops
+44,Spell,Lunar Gravitation

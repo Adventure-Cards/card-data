@@ -1,46 +1,46 @@
-==================,DECK,4443,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Eagle
-2,Artifact,Rare,Lunar Gauntlet
-3,Creature,Rare,Earth Queen Berserker
-4,Enchantment,Common,Haste
-5,Spell,Rare,Cataclysmic Hypnosis
-6,Enchantment,Common,Lethargy
-7,Creature,Rare,Aura Merchant Minotaur
-8,Artifact,Common,Divine Robe
-9,Creature,Rare,Aura King Griffin
-10,Creature,Rare,Aura Assassin Hydra
-11,Creature,Rare,Aura Monk Hydra
-12,Spell,Common,Stun
-13,Creature,Common,Spider
-14,Enchantment,Common,Blight
-15,Creature,Rare,Dark Queen Minotaur
-16,Enchantment,Mythic,Instant Shield
-17,Creature,Rare,Frozen King Berserker
-18,Spell,Rare,Miracle Stricken
-19,Spell,Common,Reanimate
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Paladin
-22,Creature,Rare,Death Fighter Berserker
-23,Spell,Common,Frenzy
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Blight
-26,Artifact,Rare,Dark Shield
-27,Creature,Rare,Earth Assassin Berserker
-28,Artifact,Common,Shield
-29,Enchantment,Rare,Cataclysmic Shrink
-30,Creature,Rare,Dark Monk Hydra
-31,Creature,Common,Ghoul
-32,Creature,Common,Orc
-33,Artifact,Common,Ring
-34,Creature,Common,Goblin
-35,Creature,Mythic,Dark Grand Wizard of Illusion
-36,Creature,Legendary,Dark Undead Oni of the Magical Forest
-37,Enchantment,Mythic,Mighty Strength
-38,Spell,Legendary,Urgent Heal
-39,Creature,Common,Magi
-40,Enchantment,Common,Lethargy
-41,Artifact,Common,Tome
-42,Creature,Common,Eagle
-43,Artifact,Rare,Corpse Ghost Wand
-44,Creature,Common,Elf
+==================,DECK,4443
+0,Creature,Eagle
+1,Creature,Eagle
+2,Artifact,Cataclysmic Gauntlet
+3,Creature,Earth Queen Goblin
+4,Enchantment,Shrink
+5,Spell,Cataclysmic Lightning
+6,Enchantment,Age
+7,Creature,Aura Merchant Cyclops
+8,Artifact,Divine Robe
+9,Creature,Aura King Griffin
+10,Creature,Aura Assassin Hydra
+11,Creature,Aura Monk Hydra
+12,Spell,Fire
+13,Creature,Paladin
+14,Enchantment,Lethargy
+15,Creature,Dark Queen Cyclops
+16,Enchantment,Instant Nature Strength
+17,Creature,Frozen King Goblin
+18,Spell,Apocalypse Sorrow
+19,Spell,Maelstrom
+20,Enchantment,Strength
+21,Creature,Troll
+22,Creature,Death Fighter Goblin
+23,Spell,Burst
+24,Creature,Magi
+25,Enchantment,Invert
+26,Artifact,Chimeric Shield
+27,Creature,Earth Assassin Goblin
+28,Artifact,Shield
+29,Enchantment,Chimeric Shrink
+30,Creature,Dark Monk Hydra
+31,Creature,Ghoul
+32,Creature,Spider
+33,Artifact,Ring
+34,Creature,Skin-Walker
+35,Creature,Dark Grand Wizard of Illusion
+36,Creature,Dark Undead Oni of the Magical Forest
+37,Enchantment,Urgent Cataclysmic Flight
+38,Spell,Instant Shimmering Lightning
+39,Creature,Fairy
+40,Enchantment,Shrink
+41,Artifact,Tome
+42,Creature,Eagle
+43,Artifact,Solar Ghost Wand
+44,Creature,Warlock

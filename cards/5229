@@ -1,46 +1,46 @@
-==================,DECK,5229,Light
-0,Enchantment,Common,Drain
-1,Artifact,Common,Potion
-2,Creature,Common,Magi
-3,Enchantment,Common,Strength
-4,Creature,Mythic,Earth Ancient Demon of the Shadows
-5,Creature,Rare,Snow Queen Hydra
-6,Creature,Rare,Frozen Merchant Griffin
-7,Creature,Rare,Snow Priest Griffin
-8,Enchantment,Mythic,Intense Strength
-9,Creature,Common,Orc
-10,Spell,Rare,Corpse Vortex
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Elf
-13,Creature,Common,Ghoul
-14,Creature,Common,Spider
-15,Spell,Common,Pandemonium
-16,Creature,Common,Magi
-17,Spell,Common,Rage
-18,Spell,Common,Frenzy
-19,Creature,Common,Magi
-20,Spell,Common,Freeze
-21,Creature,Legendary,Light Warrior Kraken of the Black Stone
-22,Creature,Rare,Dark Fighter Berserker
-23,Spell,Rare,Hateful Stun
-24,Enchantment,Rare,Solar Strength
-25,Enchantment,Common,Deathgrip
-26,Enchantment,Rare,Grim Strength
-27,Creature,Rare,Snow Fighter Berserker
-28,Spell,Legendary,Extreme Pandemonium
-29,Artifact,Common,Divine Robe
-30,Creature,Common,Goblin
-31,Creature,Common,Elf
-32,Creature,Rare,Frozen Thief Berserker
-33,Enchantment,Common,Invert
-34,Enchantment,Common,Alacrity
-35,Creature,Rare,Death King Hydra
-36,Spell,Rare,Hateful Sorrow
-37,Creature,Mythic,Frozen Chaos Demon of the Void
-38,Enchantment,Legendary,Instant Age
-39,Enchantment,Common,Alacrity
-40,Enchantment,Rare,Hateful Blight
-41,Enchantment,Rare,Dark Agony
-42,Spell,Common,Gravitation
-43,Creature,Common,Spider
-44,Artifact,Common,Scepter
+==================,DECK,5229
+0,Enchantment,Lethargy
+1,Artifact,Potion
+2,Creature,Fairy
+3,Enchantment,Shrink
+4,Creature,Earth Ancient Demon of the Shadows
+5,Creature,Snow Queen Hydra
+6,Creature,Frozen Merchant Griffin
+7,Creature,Snow Priest Griffin
+8,Enchantment,Urgent Solar Agony
+9,Creature,Spider
+10,Spell,Forged Infuriate
+11,Enchantment,Lethargy
+12,Creature,Warlock
+13,Creature,Ghoul
+14,Creature,Paladin
+15,Spell,Lightning
+16,Creature,Fairy
+17,Spell,Lightning
+18,Spell,Maelstrom
+19,Creature,Fairy
+20,Spell,Burn
+21,Creature,Light Warrior Ogre of the Black Stone
+22,Creature,Dark Fighter Goblin
+23,Spell,Sorrow Invisibility
+24,Enchantment,Solar Deathgrip
+25,Enchantment,Shade
+26,Enchantment,Nimble Drain
+27,Creature,Snow Fighter Goblin
+28,Spell,Empyrean Dark Sorrow
+29,Artifact,Divine Robe
+30,Creature,Skin-Walker
+31,Creature,Warlock
+32,Creature,Frozen Thief Goblin
+33,Enchantment,Drain
+34,Enchantment,Agony
+35,Creature,Death King Hydra
+36,Spell,Cataclysmic Assault
+37,Creature,Frozen Chaos Demon of the Void
+38,Enchantment,Zealous Nature Deathgrip
+39,Enchantment,Drain
+40,Enchantment,Cataclysmic Firebreath
+41,Enchantment,Miracle Alacrity
+42,Spell,Invisibility
+43,Creature,Paladin
+44,Artifact,Scepter

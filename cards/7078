@@ -1,46 +1,46 @@
-==================,DECK,7078,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Ghoul
-2,Creature,Common,Dwarf
-3,Spell,Legendary,Extreme Pandemonium
-4,Enchantment,Common,Shade
-5,Creature,Common,Magi
-6,Creature,Common,Eagle
-7,Creature,Common,Magi
-8,Creature,Rare,Snow Fighter Berserker
-9,Creature,Common,Dwarf
-10,Creature,Common,Wolf
-11,Creature,Common,Paladin
-12,Spell,Common,Invisibility
-13,Creature,Common,Warlock
-14,Spell,Legendary,Urgent Pandemonium
-15,Creature,Common,Orc
-16,Creature,Common,Orc
-17,Creature,Common,Paladin
-18,Artifact,Common,Gauntlet
-19,Spell,Common,Pandemonium
-20,Creature,Rare,Snow Assassin Hydra
-21,Spell,Legendary,Instant Infuriate
-22,Enchantment,Mythic,Clever Shield
-23,Creature,Common,Orc
-24,Enchantment,Rare,Corpse Strength
-25,Spell,Common,Sorrow
-26,Creature,Common,Spider
-27,Creature,Rare,Dark Fighter Fairy
-28,Creature,Mythic,Aura Nameless Dragon of the Light
-29,Artifact,Rare,Corpse Pendant
-30,Enchantment,Common,Age
-31,Spell,Common,Wall
-32,Artifact,Common,Belt
-33,Enchantment,Common,Haste
-34,Spell,Common,Gravitation
-35,Creature,Mythic,Death Nameless Dragon of the Dead
-36,Creature,Common,Spider
-37,Creature,Rare,Earth Thief Skin-Walker
-38,Artifact,Common,Amulet
-39,Spell,Rare,Miracle Reanimate
-40,Creature,Common,Dwarf
-41,Spell,Common,Frost
-42,Artifact,Common,Ring
-43,Creature,Common,Warlock
-44,Creature,Rare,Death Rogue Hydra
+==================,DECK,7078
+0,Creature,Troll
+1,Creature,Ghoul
+2,Creature,Magi
+3,Spell,Clever Sorrow Fire
+4,Enchantment,Haste
+5,Creature,Fairy
+6,Creature,Eagle
+7,Creature,Fairy
+8,Creature,Snow Fighter Goblin
+9,Creature,Magi
+10,Creature,Wolf
+11,Creature,Troll
+12,Spell,Gravitation
+13,Creature,Berserker
+14,Spell,Zealous Nature Hypnosis
+15,Creature,Spider
+16,Creature,Spider
+17,Creature,Troll
+18,Artifact,Gauntlet
+19,Spell,Vortex
+20,Creature,Snow Assassin Hydra
+21,Spell,Mighty Hateful Freeze
+22,Enchantment,Ardent Victory Haste
+23,Creature,Spider
+24,Enchantment,Solar Strength
+25,Spell,Fury
+26,Creature,Paladin
+27,Creature,Dark Fighter Kraken
+28,Creature,Aura Nameless Dragon of the Light
+29,Artifact,Forged Pendant
+30,Enchantment,Invert
+31,Spell,Frost
+32,Artifact,Belt
+33,Enchantment,Shield
+34,Spell,Fury
+35,Creature,Death Nameless Dragon of the Dead
+36,Creature,Paladin
+37,Creature,Earth Thief Orc
+38,Artifact,Amulet
+39,Spell,Victory Torment
+40,Creature,Magi
+41,Spell,Rage
+42,Artifact,Ring
+43,Creature,Berserker
+44,Creature,Death Rogue Hydra

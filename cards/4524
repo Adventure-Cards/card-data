@@ -1,46 +1,46 @@
-==================,DECK,4524,Light
-0,Enchantment,Common,Age
-1,Spell,Common,Stun
-2,Creature,Common,Spider
-3,Spell,Common,Infuriate
-4,Creature,Mythic,Dark Ancient Wizard of Illusion
-5,Creature,Common,Warlock
-6,Creature,Common,Magi
-7,Creature,Common,Wolf
-8,Artifact,Common,Gloves
-9,Enchantment,Common,Shrink
-10,Artifact,Rare,Lunar Bracers
-11,Creature,Rare,Light Undead Berserker
-12,Creature,Common,Spider
-13,Enchantment,Common,Shield
-14,Creature,Common,Magi
-15,Creature,Rare,Death Thief Fairy
-16,Creature,Rare,Snow Lord Minotaur
-17,Creature,Common,Goblin
-18,Creature,Common,Ghoul
-19,Artifact,Common,Divine Robe
-20,Creature,Common,Dwarf
-21,Artifact,Rare,Shimmering Gloves
-22,Creature,Common,Spider
-23,Creature,Rare,Dark Queen Minotaur
-24,Enchantment,Common,Blight
-25,Spell,Rare,Nimble Freeze
-26,Creature,Common,Goblin
-27,Spell,Common,Sorrow
-28,Creature,Common,Eagle
-29,Artifact,Legendary,Instant Tome
-30,Creature,Common,Spider
-31,Spell,Rare,Solar Frost
-32,Creature,Common,Ghoul
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Agony
-36,Creature,Common,Eagle
-37,Spell,Common,Assault
-38,Creature,Common,Warlock
-39,Creature,Common,Spider
-40,Spell,Common,Revive
-41,Creature,Mythic,Aura Ancient Wizard of the Light
-42,Spell,Common,Rage
-43,Spell,Common,Torment
-44,Creature,Rare,Death Queen Berserker
+==================,DECK,4524
+0,Enchantment,Strength
+1,Spell,Rage
+2,Creature,Paladin
+3,Spell,Reanimate
+4,Creature,Dark Ancient Wizard of Illusion
+5,Creature,Berserker
+6,Creature,Fairy
+7,Creature,Wolf
+8,Artifact,Gloves
+9,Enchantment,Agony
+10,Artifact,Miracle Bracers
+11,Creature,Light Undead Goblin
+12,Creature,Paladin
+13,Enchantment,Haste
+14,Creature,Fairy
+15,Creature,Death Thief Kraken
+16,Creature,Snow Lord Cyclops
+17,Creature,Skin-Walker
+18,Creature,Ghoul
+19,Artifact,Divine Robe
+20,Creature,Magi
+21,Artifact,Shimmering Gloves
+22,Creature,Paladin
+23,Creature,Dark Queen Cyclops
+24,Enchantment,Lethargy
+25,Spell,Hateful Sorrow
+26,Creature,Skin-Walker
+27,Spell,Burst
+28,Creature,Eagle
+29,Artifact,Empyrean Necro Tome
+30,Creature,Paladin
+31,Spell,Necro Torment
+32,Creature,Ghoul
+33,Creature,Warlock
+34,Creature,Magi
+35,Enchantment,Firebreath
+36,Creature,Eagle
+37,Spell,Burn
+38,Creature,Berserker
+39,Creature,Paladin
+40,Spell,Hypnosis
+41,Creature,Aura Ancient Wizard of the Light
+42,Spell,Gale
+43,Spell,Wall
+44,Creature,Death Queen Goblin

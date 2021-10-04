@@ -1,46 +1,46 @@
-==================,DECK,6669,Light
-0,Creature,Common,Magi
-1,Creature,Common,Paladin
-2,Creature,Common,Orc
-3,Creature,Common,Paladin
-4,Enchantment,Common,Age
-5,Enchantment,Common,Alacrity
-6,Enchantment,Rare,Necro Haste
-7,Spell,Common,Vortex
-8,Creature,Common,Dwarf
-9,Creature,Common,Dwarf
-10,Creature,Legendary,Death Priest Cyclops of the Low Hills
-11,Creature,Rare,Snow Fighter Skin-Walker
-12,Creature,Legendary,Aura Fighter Oni of the West
-13,Spell,Common,Torment
-14,Enchantment,Rare,Hateful Flight
-15,Spell,Common,Reanimate
-16,Creature,Legendary,Frozen Undead Orge of the Golden Palace
-17,Enchantment,Common,Drain
-18,Spell,Common,Rage
-19,Creature,Common,Ghoul
-20,Spell,Common,Torment
-21,Artifact,Rare,Life Bow
-22,Spell,Common,Infuriate
-23,Enchantment,Legendary,Potent Shield
-24,Spell,Common,Freeze
-25,Creature,Legendary,Death Thief Orge of the Eternal Land
-26,Creature,Common,Magi
-27,Enchantment,Mythic,Mighty Shade
-28,Creature,Common,Orc
-29,Spell,Common,Lightning
-30,Creature,Common,Elf
-31,Enchantment,Common,Flight
-32,Creature,Common,Goblin
-33,Creature,Common,Dwarf
-34,Artifact,Rare,Solar Ring
-35,Spell,Common,Fury
-36,Creature,Common,Orc
-37,Spell,Common,Freeze
-38,Creature,Common,Ghoul
-39,Creature,Rare,Snow Warrior Minotaur
-40,Creature,Rare,Light Fighter Minotaur
-41,Spell,Rare,Dark Torment
-42,Enchantment,Common,Age
-43,Enchantment,Common,Alacrity
-44,Artifact,Common,Ring
+==================,DECK,6669
+0,Creature,Fairy
+1,Creature,Troll
+2,Creature,Spider
+3,Creature,Troll
+4,Enchantment,Flight
+5,Enchantment,Firebreath
+6,Enchantment,Corpse Lethargy
+7,Spell,Stricken
+8,Creature,Magi
+9,Creature,Magi
+10,Creature,Death Priest Giant of the Low Hills
+11,Creature,Snow Fighter Orc
+12,Creature,Aura Fighter Oni of the West
+13,Spell,Infuriate
+14,Enchantment,Lunar Shield
+15,Spell,Hypnosis
+16,Creature,Frozen Undead Elf of the Golden Palace
+17,Enchantment,Agony
+18,Spell,Lightning
+19,Creature,Ghoul
+20,Spell,Revive
+21,Artifact,Nimble Bow
+22,Spell,Torment
+23,Enchantment,Ardent Victory Haste
+24,Spell,Torment
+25,Creature,Death Thief Elf of the Eternal Land
+26,Creature,Fairy
+27,Enchantment,Irate Chimeric Alacrity
+28,Creature,Spider
+29,Spell,Wall
+30,Creature,Warlock
+31,Enchantment,Alacrity
+32,Creature,Skin-Walker
+33,Creature,Magi
+34,Artifact,Forged Ring
+35,Spell,Stun
+36,Creature,Spider
+37,Spell,Sorrow
+38,Creature,Ghoul
+39,Creature,Snow Warrior Cyclops
+40,Creature,Light Fighter Cyclops
+41,Spell,Miracle Tempest
+42,Enchantment,Haste
+43,Enchantment,Firebreath
+44,Artifact,Ring

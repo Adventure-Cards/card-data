@@ -1,46 +1,46 @@
-==================,DECK,6640,Light
-0,Creature,Legendary,Snow Rogue Kraken of the Magical Forest
-1,Creature,Common,Wolf
-2,Spell,Common,Revive
-3,Creature,Rare,Frozen Rogue Hydra
-4,Creature,Common,Orc
-5,Artifact,Common,Scythe
-6,Enchantment,Common,Drain
-7,Creature,Common,Orc
-8,Artifact,Common,Belt
-9,Enchantment,Rare,Cataclysmic Flight
-10,Enchantment,Common,Invert
-11,Enchantment,Rare,Lunar Age
-12,Enchantment,Common,Age
-13,Creature,Rare,Earth Knight Minotaur
-14,Creature,Common,Elf
-15,Creature,Common,Elf
-16,Enchantment,Common,Flight
-17,Creature,Common,Magi
-18,Spell,Rare,Grim Vortex
-19,Enchantment,Common,Age
-20,Creature,Common,Ghoul
-21,Creature,Common,Paladin
-22,Creature,Common,Goblin
-23,Creature,Legendary,Earth Undead Cyclops of the Black Stone
-24,Creature,Common,Warlock
-25,Creature,Common,Wolf
-26,Spell,Common,Invisibility
-27,Enchantment,Common,Agony
-28,Creature,Common,Wolf
-29,Creature,Common,Elf
-30,Enchantment,Common,Alacrity
-31,Artifact,Rare,Oblivion Ghost Wand
-32,Creature,Common,Warlock
-33,Creature,Common,Paladin
-34,Creature,Common,Warlock
-35,Creature,Common,Dwarf
-36,Enchantment,Rare,Nature Shrink
-37,Spell,Legendary,Angry Frost
-38,Enchantment,Mythic,Instant Haste
-39,Creature,Common,Paladin
-40,Spell,Common,Maelstrom
-41,Enchantment,Mythic,Clever Deathgrip
-42,Creature,Common,Orc
-43,Creature,Common,Spider
-44,Spell,Common,Wall
+==================,DECK,6640
+0,Creature,Snow Rogue Ogre of the Magical Forest
+1,Creature,Wolf
+2,Spell,Gale
+3,Creature,Frozen Rogue Hydra
+4,Creature,Spider
+5,Artifact,Scythe
+6,Enchantment,Deathgrip
+7,Creature,Spider
+8,Artifact,Belt
+9,Enchantment,Lunar Firebreath
+10,Enchantment,Deathgrip
+11,Enchantment,Gloom Flight
+12,Enchantment,Shield
+13,Creature,Earth Knight Cyclops
+14,Creature,Warlock
+15,Creature,Warlock
+16,Enchantment,Firebreath
+17,Creature,Fairy
+18,Spell,Life Revive
+19,Enchantment,Alacrity
+20,Creature,Ghoul
+21,Creature,Troll
+22,Creature,Skin-Walker
+23,Creature,Earth Undead Giant of the Black Stone
+24,Creature,Berserker
+25,Creature,Wolf
+26,Spell,Gale
+27,Enchantment,Blight
+28,Creature,Wolf
+29,Creature,Warlock
+30,Enchantment,Blight
+31,Artifact,Grim Ghost Wand
+32,Creature,Berserker
+33,Creature,Troll
+34,Creature,Berserker
+35,Creature,Magi
+36,Enchantment,Necro Strength
+37,Spell,Ardent Gloom Burst
+38,Enchantment,Potent Corpse Strength
+39,Creature,Troll
+40,Spell,Stricken
+41,Enchantment,Mighty Oblivion Invert
+42,Creature,Spider
+43,Creature,Paladin
+44,Spell,Reanimate

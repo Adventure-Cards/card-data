@@ -1,46 +1,46 @@
-==================,DECK,6863,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Elf
-2,Creature,Common,Paladin
-3,Spell,Common,Stricken
-4,Enchantment,Mythic,Dire Invert
-5,Creature,Common,Orc
-6,Creature,Common,Wolf
-7,Artifact,Common,Scythe
-8,Enchantment,Rare,Nature Haste
-9,Enchantment,Rare,Oblivion Shade
-10,Artifact,Rare,Forged Bracers
-11,Creature,Common,Wolf
-12,Creature,Common,Elf
-13,Creature,Legendary,Frozen Queen Cyclops of the Low Hills
-14,Creature,Rare,Death Assassin Griffin
-15,Creature,Common,Warlock
-16,Creature,Legendary,Snow Rogue Orge of the West
-17,Creature,Common,Wolf
-18,Creature,Legendary,Earth Merchant Oni of the Polar Woods
-19,Enchantment,Rare,Oblivion Agony
-20,Spell,Rare,Apocalypse Fury
-21,Spell,Rare,Nature Hypnosis
-22,Spell,Common,Burst
-23,Enchantment,Mythic,Urgent Invert
-24,Enchantment,Common,Lethargy
-25,Artifact,Common,Gloves
-26,Enchantment,Common,Drain
-27,Creature,Common,Wolf
-28,Enchantment,Rare,Gloom Alacrity
-29,Spell,Common,Stricken
-30,Enchantment,Legendary,Potent Blight
-31,Spell,Common,Burn
-32,Artifact,Common,Gauntlet
-33,Creature,Rare,Dark Monk Griffin
-34,Enchantment,Common,Agony
-35,Creature,Common,Wolf
-36,Enchantment,Rare,Shimmering Blight
-37,Artifact,Legendary,Clever Scepter
-38,Creature,Common,Eagle
-39,Artifact,Common,Helmet
-40,Enchantment,Rare,Hateful Flight
-41,Creature,Common,Warlock
-42,Spell,Rare,Dark Gravitation
-43,Creature,Legendary,Dark Merchant Giant of the Mountains
-44,Spell,Common,Assault
+==================,DECK,6863
+0,Creature,Warlock
+1,Creature,Warlock
+2,Creature,Troll
+3,Spell,Invisibility
+4,Enchantment,Ardent Oblivion Haste
+5,Creature,Spider
+6,Creature,Wolf
+7,Artifact,Scythe
+8,Enchantment,Corpse Age
+9,Enchantment,Frigid Shade
+10,Artifact,Miracle Bracers
+11,Creature,Wolf
+12,Creature,Warlock
+13,Creature,Frozen Queen Giant of the Low Hills
+14,Creature,Death Assassin Griffin
+15,Creature,Berserker
+16,Creature,Snow Rogue Elf of the West
+17,Creature,Wolf
+18,Creature,Earth Merchant Oni of the Polar Woods
+19,Enchantment,Life Blight
+20,Spell,Life Freeze
+21,Spell,Necro Heal
+22,Spell,Reanimate
+23,Enchantment,Urgent Shimmering Agony
+24,Enchantment,Drain
+25,Artifact,Gloves
+26,Enchantment,Shrink
+27,Creature,Wolf
+28,Enchantment,Dark Shrink
+29,Spell,Hypnosis
+30,Enchantment,Mighty Nimble Invert
+31,Spell,Stun
+32,Artifact,Gauntlet
+33,Creature,Dark Monk Griffin
+34,Enchantment,Drain
+35,Creature,Wolf
+36,Enchantment,Solar Deathgrip
+37,Artifact,Potent Frigid Scepter
+38,Creature,Eagle
+39,Artifact,Helmet
+40,Enchantment,Lunar Firebreath
+41,Creature,Berserker
+42,Spell,Sorrow Tempest
+43,Creature,Dark Merchant Dwarf of the Mountains
+44,Spell,Fire

@@ -1,46 +1,46 @@
-==================,DECK,7501,Light
-0,Creature,Common,Eagle
-1,Artifact,Legendary,Instant Helm
-2,Creature,Rare,Dark Queen Minotaur
-3,Creature,Common,Magi
-4,Creature,Legendary,Frozen Knight Cyclops of the Magical Forest
-5,Creature,Common,Orc
-6,Enchantment,Common,Flight
-7,Spell,Rare,Apocalypse Pandemonium
-8,Spell,Common,Torment
-9,Creature,Common,Ghoul
-10,Creature,Rare,Earth Monk Skin-Walker
-11,Spell,Common,Burst
-12,Creature,Common,Warlock
-13,Enchantment,Common,Shrink
-14,Spell,Common,Heal
-15,Spell,Common,Hypnosis
-16,Spell,Common,Wall
-17,Creature,Common,Warlock
-18,Spell,Common,Lightning
-19,Spell,Common,Stun
-20,Creature,Rare,Earth Lord Minotaur
-21,Creature,Rare,Aura Monk Fairy
-22,Creature,Common,Orc
-23,Creature,Common,Ghoul
-24,Artifact,Rare,Hateful Boots
-25,Creature,Common,Goblin
-26,Creature,Common,Goblin
-27,Creature,Common,Spider
-28,Enchantment,Rare,Grim Strength
-29,Creature,Common,Paladin
-30,Creature,Common,Goblin
-31,Enchantment,Common,Alacrity
-32,Creature,Common,Dwarf
-33,Artifact,Legendary,Intense Pendant
-34,Creature,Common,Orc
-35,Enchantment,Common,Age
-36,Spell,Common,Sorrow
-37,Creature,Common,Ghoul
-38,Creature,Legendary,Dark Priest Oni of the Low Hills
-39,Artifact,Common,Bracers
-40,Spell,Common,Rage
-41,Creature,Common,Paladin
-42,Creature,Rare,Frozen Monk Berserker
-43,Spell,Common,Infuriate
-44,Creature,Rare,Earth King Skin-Walker
+==================,DECK,7501
+0,Creature,Eagle
+1,Artifact,Dire Corpse Helm
+2,Creature,Dark Queen Cyclops
+3,Creature,Fairy
+4,Creature,Frozen Knight Giant of the Magical Forest
+5,Creature,Spider
+6,Enchantment,Deathgrip
+7,Spell,Nimble Heal
+8,Spell,Revive
+9,Creature,Ghoul
+10,Creature,Earth Monk Orc
+11,Spell,Stricken
+12,Creature,Berserker
+13,Enchantment,Firebreath
+14,Spell,Sorrow
+15,Spell,Invisibility
+16,Spell,Lightning
+17,Creature,Berserker
+18,Spell,Fury
+19,Spell,Torment
+20,Creature,Earth Lord Cyclops
+21,Creature,Aura Monk Kraken
+22,Creature,Spider
+23,Creature,Ghoul
+24,Artifact,Dark Boots
+25,Creature,Skin-Walker
+26,Creature,Skin-Walker
+27,Creature,Paladin
+28,Enchantment,Nimble Drain
+29,Creature,Troll
+30,Creature,Skin-Walker
+31,Enchantment,Age
+32,Creature,Magi
+33,Artifact,Zealous Necro Pendant
+34,Creature,Spider
+35,Enchantment,Lethargy
+36,Spell,Revive
+37,Creature,Ghoul
+38,Creature,Dark Priest Oni of the Low Hills
+39,Artifact,Bracers
+40,Spell,Frost
+41,Creature,Troll
+42,Creature,Frozen Monk Goblin
+43,Spell,Revive
+44,Creature,Earth King Orc

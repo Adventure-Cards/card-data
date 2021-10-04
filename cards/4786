@@ -1,46 +1,46 @@
-==================,DECK,4786,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Revive
-2,Artifact,Common,Sigil
-3,Enchantment,Common,Blight
-4,Spell,Common,Fury
-5,Enchantment,Mythic,Instant Flight
-6,Creature,Rare,Death Queen Berserker
-7,Creature,Legendary,Light Priest Giant of the Mountains
-8,Creature,Rare,Dark Queen Fairy
-9,Spell,Common,Burst
-10,Creature,Legendary,Earth Thief Oni of the Polar Woods
-11,Artifact,Common,Shield
-12,Creature,Common,Spider
-13,Creature,Rare,Earth Lord Griffin
-14,Creature,Legendary,Aura Queen Oni of the Arctic Blizzards
-15,Enchantment,Mythic,Intense Shield
-16,Enchantment,Common,Drain
-17,Spell,Rare,Hateful Reanimate
-18,Enchantment,Common,Invert
-19,Creature,Rare,Snow Assassin Skin-Walker
-20,Creature,Common,Paladin
-21,Creature,Common,Wolf
-22,Spell,Common,Sorrow
-23,Enchantment,Common,Invert
-24,Artifact,Legendary,Intense Pendant
-25,Artifact,Common,Bow
-26,Creature,Rare,Aura Undead Griffin
-27,Enchantment,Legendary,Intense Agony
-28,Spell,Rare,Dark Vortex
-29,Creature,Rare,Earth Knight Skin-Walker
-30,Creature,Common,Ghoul
-31,Artifact,Legendary,Mighty Shield
-32,Creature,Common,Goblin
-33,Creature,Rare,Light Fighter Skin-Walker
-34,Artifact,Legendary,Extreme Ghost Wand
-35,Enchantment,Common,Lethargy
-36,Spell,Common,Ice
-37,Creature,Rare,Death Monk Fairy
-38,Spell,Common,Sorrow
-39,Artifact,Common,Sword
-40,Creature,Common,Spider
-41,Spell,Common,Revive
-42,Creature,Common,Spider
-43,Spell,Common,Maelstrom
-44,Enchantment,Common,Invert
+==================,DECK,4786
+0,Creature,Ghoul
+1,Spell,Fire
+2,Artifact,Sigil
+3,Enchantment,Lethargy
+4,Spell,Fire
+5,Enchantment,Empyrean Hateful Age
+6,Creature,Death Queen Goblin
+7,Creature,Light Priest Dwarf of the Mountains
+8,Creature,Dark Queen Kraken
+9,Spell,Revive
+10,Creature,Earth Thief Oni of the Polar Woods
+11,Artifact,Shield
+12,Creature,Paladin
+13,Creature,Earth Lord Griffin
+14,Creature,Aura Queen Oni of the Arctic Blizzards
+15,Enchantment,Dire Nature Age
+16,Enchantment,Haste
+17,Spell,Sorrow Infuriate
+18,Enchantment,Drain
+19,Creature,Snow Assassin Orc
+20,Creature,Troll
+21,Creature,Wolf
+22,Spell,Heal
+23,Enchantment,Alacrity
+24,Artifact,Zealous Corpse Pendant
+25,Artifact,Bow
+26,Creature,Aura Undead Griffin
+27,Enchantment,Ardent Corpse Lethargy
+28,Spell,Chimeric Assault
+29,Creature,Earth Knight Orc
+30,Creature,Ghoul
+31,Artifact,Dire Sorrow Shield
+32,Creature,Skin-Walker
+33,Creature,Light Fighter Orc
+34,Artifact,Mighty Dark Ghost Wand
+35,Enchantment,Alacrity
+36,Spell,Fireball
+37,Creature,Death Monk Kraken
+38,Spell,Revive
+39,Artifact,Sword
+40,Creature,Paladin
+41,Spell,Fire
+42,Creature,Paladin
+43,Spell,Frost
+44,Enchantment,Invert

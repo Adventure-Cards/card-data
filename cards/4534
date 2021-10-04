@@ -1,46 +1,46 @@
-==================,DECK,4534,Medium
-0,Creature,Common,Spider
-1,Creature,Common,Warlock
-2,Creature,Legendary,Light Knight Oni of the Border
-3,Artifact,Rare,Grim Bracers
-4,Creature,Common,Paladin
-5,Creature,Rare,Earth Thief Griffin
-6,Enchantment,Common,Shrink
-7,Creature,Common,Magi
-8,Creature,Rare,Frozen Thief Berserker
-9,Creature,Common,Magi
-10,Spell,Rare,Shimmering Pandemonium
-11,Creature,Common,Goblin
-12,Enchantment,Common,Shield
-13,Enchantment,Rare,Hateful Age
-14,Enchantment,Common,Shrink
-15,Spell,Legendary,Mighty Assault
-16,Creature,Rare,Light Merchant Skin-Walker
-17,Spell,Common,Invisibility
-18,Creature,Common,Warlock
-19,Creature,Common,Magi
-20,Spell,Rare,Grim Frost
-21,Artifact,Common,Sword
-22,Enchantment,Common,Deathgrip
-23,Enchantment,Common,Blight
-24,Creature,Common,Spider
-25,Creature,Common,Elf
-26,Creature,Common,Elf
-27,Spell,Common,Maelstrom
-28,Creature,Common,Elf
-29,Creature,Common,Spider
-30,Spell,Rare,Miracle Sorrow
-31,Creature,Common,Wolf
-32,Creature,Common,Paladin
-33,Spell,Common,Ice
-34,Creature,Common,Elf
-35,Spell,Common,Pandemonium
-36,Creature,Common,Dwarf
-37,Creature,Rare,Snow Undead Minotaur
-38,Creature,Rare,Death King Minotaur
-39,Creature,Rare,Light Undead Skin-Walker
-40,Artifact,Common,Shield
-41,Creature,Common,Eagle
-42,Enchantment,Rare,Shimmering Blight
-43,Enchantment,Common,Age
-44,Enchantment,Mythic,Mighty Invert
+==================,DECK,4534
+0,Creature,Paladin
+1,Creature,Berserker
+2,Creature,Light Knight Oni of the Border
+3,Artifact,Life Bracers
+4,Creature,Troll
+5,Creature,Earth Thief Griffin
+6,Enchantment,Shrink
+7,Creature,Fairy
+8,Creature,Frozen Thief Goblin
+9,Creature,Fairy
+10,Spell,Hateful Gale
+11,Creature,Skin-Walker
+12,Enchantment,Deathgrip
+13,Enchantment,Gloom Flight
+14,Enchantment,Invert
+15,Spell,Irate Chimeric Gravitation
+16,Creature,Light Merchant Orc
+17,Spell,Freeze
+18,Creature,Berserker
+19,Creature,Fairy
+20,Spell,Victory Ice
+21,Artifact,Sword
+22,Enchantment,Firebreath
+23,Enchantment,Haste
+24,Creature,Paladin
+25,Creature,Warlock
+26,Creature,Warlock
+27,Spell,Hypnosis
+28,Creature,Warlock
+29,Creature,Paladin
+30,Spell,Nimble Torment
+31,Creature,Wolf
+32,Creature,Troll
+33,Spell,Hypnosis
+34,Creature,Warlock
+35,Spell,Frenzy
+36,Creature,Magi
+37,Creature,Snow Undead Cyclops
+38,Creature,Death King Cyclops
+39,Creature,Light Undead Orc
+40,Artifact,Shield
+41,Creature,Eagle
+42,Enchantment,Solar Age
+43,Enchantment,Invert
+44,Enchantment,Ardent Sorrow Shield

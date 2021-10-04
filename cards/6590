@@ -1,46 +1,46 @@
-==================,DECK,6590,Light
-0,Creature,Common,Elf
-1,Spell,Common,Wall
-2,Spell,Rare,Cataclysmic Burst
-3,Spell,Rare,Dark Lightning
-4,Creature,Common,Warlock
-5,Artifact,Rare,Corpse Bracers
-6,Creature,Rare,Frozen Thief Berserker
-7,Spell,Common,Gale
-8,Enchantment,Rare,Necro Blight
-9,Creature,Common,Ghoul
-10,Artifact,Common,Potion
-11,Creature,Common,Orc
-12,Enchantment,Common,Blight
-13,Creature,Common,Spider
-14,Creature,Common,Warlock
-15,Spell,Common,Heal
-16,Enchantment,Mythic,Instant Blight
-17,Enchantment,Common,Flight
-18,Creature,Rare,Earth Priest Griffin
-19,Artifact,Common,Gauntlet
-20,Artifact,Common,Pendant
-21,Creature,Rare,Aura Thief Hydra
-22,Spell,Common,Gale
-23,Creature,Common,Warlock
-24,Creature,Common,Orc
-25,Creature,Rare,Light King Berserker
-26,Enchantment,Rare,Frigid Strength
-27,Spell,Common,Stricken
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Paladin
-30,Creature,Common,Elf
-31,Spell,Common,Burst
-32,Creature,Common,Warlock
-33,Artifact,Common,Scythe
-34,Artifact,Common,Belt
-35,Creature,Legendary,Death Knight Giant of the Bright Mountains
-36,Creature,Common,Eagle
-37,Artifact,Common,Scythe
-38,Creature,Rare,Frozen Rogue Griffin
-39,Enchantment,Common,Blight
-40,Spell,Rare,Apocalypse Burn
-41,Artifact,Legendary,Angry Cloak
-42,Creature,Common,Spider
-43,Creature,Common,Paladin
-44,Spell,Common,Burst
+==================,DECK,6590
+0,Creature,Warlock
+1,Spell,Revive
+2,Spell,Miracle Sorrow
+3,Spell,Gloom Maelstrom
+4,Creature,Berserker
+5,Artifact,Nature Bracers
+6,Creature,Frozen Thief Goblin
+7,Spell,Heal
+8,Enchantment,Solar Agony
+9,Creature,Ghoul
+10,Artifact,Potion
+11,Creature,Spider
+12,Enchantment,Agony
+13,Creature,Paladin
+14,Creature,Berserker
+15,Spell,Revive
+16,Enchantment,Zealous Solar Deathgrip
+17,Enchantment,Deathgrip
+18,Creature,Earth Priest Griffin
+19,Artifact,Gauntlet
+20,Artifact,Pendant
+21,Creature,Aura Thief Hydra
+22,Spell,Burn
+23,Creature,Berserker
+24,Creature,Spider
+25,Creature,Light King Goblin
+26,Enchantment,Nimble Invert
+27,Spell,Burn
+28,Enchantment,Lethargy
+29,Creature,Troll
+30,Creature,Warlock
+31,Spell,Burn
+32,Creature,Berserker
+33,Artifact,Scythe
+34,Artifact,Belt
+35,Creature,Death Knight Dwarf of the Bright Mountains
+36,Creature,Eagle
+37,Artifact,Scythe
+38,Creature,Frozen Rogue Griffin
+39,Enchantment,Shade
+40,Spell,Grim Fire
+41,Artifact,Clever Lunar Cloak
+42,Creature,Paladin
+43,Creature,Troll
+44,Spell,Heal

@@ -1,46 +1,46 @@
-==================,DECK,7953,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Strength
-2,Creature,Common,Ghoul
-3,Spell,Common,Gravitation
-4,Creature,Common,Eagle
-5,Creature,Rare,Death Assassin Berserker
-6,Creature,Common,Orc
-7,Enchantment,Common,Drain
-8,Spell,Common,Vortex
-9,Spell,Rare,Life Stricken
-10,Enchantment,Common,Agony
-11,Creature,Common,Ghoul
-12,Creature,Rare,Snow Rogue Skin-Walker
-13,Creature,Common,Paladin
-14,Creature,Rare,Dark Lord Hydra
-15,Creature,Common,Eagle
-16,Enchantment,Common,Drain
-17,Spell,Common,Reanimate
-18,Creature,Common,Paladin
-19,Creature,Common,Elf
-20,Enchantment,Common,Flight
-21,Creature,Common,Elf
-22,Creature,Legendary,Light Thief Cyclops of the Low Hills
-23,Spell,Common,Stun
-24,Creature,Rare,Snow Warrior Fairy
-25,Enchantment,Common,Agony
-26,Creature,Common,Elf
-27,Creature,Legendary,Death Monk Giant of the West
-28,Creature,Common,Magi
-29,Enchantment,Legendary,Angry Blight
-30,Enchantment,Common,Haste
-31,Creature,Common,Paladin
-32,Creature,Common,Warlock
-33,Creature,Legendary,Snow Monk Kraken of the Plains
-34,Enchantment,Rare,Gloom Alacrity
-35,Spell,Common,Frost
-36,Artifact,Common,Bracers
-37,Enchantment,Rare,Frigid Invert
-38,Creature,Common,Warlock
-39,Spell,Legendary,Clever Burst
-40,Creature,Common,Ghoul
-41,Spell,Common,Pandemonium
-42,Creature,Common,Magi
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Elf
+==================,DECK,7953
+0,Creature,Spider
+1,Enchantment,Shade
+2,Creature,Ghoul
+3,Spell,Sorrow
+4,Creature,Eagle
+5,Creature,Death Assassin Goblin
+6,Creature,Spider
+7,Enchantment,Haste
+8,Spell,Fury
+9,Spell,Frigid Burn
+10,Enchantment,Lethargy
+11,Creature,Ghoul
+12,Creature,Snow Rogue Orc
+13,Creature,Troll
+14,Creature,Dark Lord Hydra
+15,Creature,Eagle
+16,Enchantment,Shrink
+17,Spell,Stricken
+18,Creature,Troll
+19,Creature,Warlock
+20,Enchantment,Age
+21,Creature,Warlock
+22,Creature,Light Thief Giant of the Low Hills
+23,Spell,Ice
+24,Creature,Snow Warrior Kraken
+25,Enchantment,Lethargy
+26,Creature,Warlock
+27,Creature,Death Monk Dwarf of the West
+28,Creature,Fairy
+29,Enchantment,Empyrean Cataclysmic Firebreath
+30,Enchantment,Firebreath
+31,Creature,Troll
+32,Creature,Berserker
+33,Creature,Snow Monk Ogre of the Plains
+34,Enchantment,Dark Shrink
+35,Spell,Revive
+36,Artifact,Bracers
+37,Enchantment,Oblivion Haste
+38,Creature,Berserker
+39,Spell,Clever Oblivion Reanimate
+40,Creature,Ghoul
+41,Spell,Infuriate
+42,Creature,Fairy
+43,Enchantment,Alacrity
+44,Creature,Warlock

@@ -1,46 +1,46 @@
-==================,DECK,5962,Strong
-0,Enchantment,Legendary,Mighty Strength
-1,Spell,Common,Lightning
-2,Enchantment,Mythic,Mighty Age
-3,Enchantment,Rare,Shimmering Shrink
-4,Spell,Common,Heal
-5,Enchantment,Common,Deathgrip
-6,Creature,Mythic,Death Ancient Wizard of the Dead
-7,Spell,Common,Pandemonium
-8,Enchantment,Common,Deathgrip
-9,Enchantment,Common,Invert
-10,Creature,Legendary,Dark Undead Phoenix of Illusion
-11,Creature,Rare,Frozen Monk Skin-Walker
-12,Enchantment,Common,Shield
-13,Spell,Rare,Dark Wall
-14,Spell,Rare,Necro Hypnosis
-15,Creature,Common,Magi
-16,Creature,Legendary,Dark Assassin Giant of the Border
-17,Artifact,Mythic,Dire Crown
-18,Creature,Mythic,Frozen Ancient Demon of the Void
-19,Artifact,Common,Staff
-20,Creature,Rare,Dark Priest Minotaur
-21,Artifact,Legendary,Mighty Potion
-22,Creature,Legendary,Snow Knight Kraken of the Arctic Blizzards
-23,Artifact,Common,Scepter
-24,Enchantment,Legendary,Extreme Haste
-25,Enchantment,Common,Deathgrip
-26,Creature,Rare,Dark Priest Minotaur
-27,Creature,Rare,Aura Monk Minotaur
-28,Spell,Common,Maelstrom
-29,Enchantment,Rare,Forged Invert
-30,Enchantment,Mythic,Intense Age
-31,Creature,Common,Paladin
-32,Enchantment,Mythic,Dire Haste
-33,Creature,Common,Orc
-34,Creature,Legendary,Earth Warrior Orge of the Polar Woods
-35,Creature,Legendary,Dark Chaos Demon of Illusion
-36,Creature,Common,Elf
-37,Enchantment,Rare,Apocalypse Blight
-38,Creature,Legendary,Snow Rogue Kraken of the Eastern Skies
-39,Enchantment,Rare,Miracle Deathgrip
-40,Spell,Rare,Miracle Sorrow
-41,Creature,Common,Magi
-42,Creature,Mythic,Death Chaos Demon of the Dead
-43,Creature,Legendary,Frozen Grand Wizard of the Void
-44,Creature,Common,Magi
+==================,DECK,5962
+0,Enchantment,Instant Cataclysmic Shrink
+1,Spell,Tempest
+2,Enchantment,Clever Gloom Shield
+3,Enchantment,Necro Strength
+4,Spell,Wall
+5,Enchantment,Haste
+6,Creature,Death Ancient Wizard of the Dead
+7,Spell,Assault
+8,Enchantment,Alacrity
+9,Enchantment,Lethargy
+10,Creature,Dark Undead Phoenix of Illusion
+11,Creature,Frozen Monk Orc
+12,Enchantment,Lethargy
+13,Spell,Sorrow Freeze
+14,Spell,Nature Infuriate
+15,Creature,Fairy
+16,Creature,Dark Assassin Dwarf of the Border
+17,Artifact,Zealous Grim Crown
+18,Creature,Frozen Ancient Demon of the Void
+19,Artifact,Staff
+20,Creature,Dark Priest Cyclops
+21,Artifact,Clever Chimeric Potion
+22,Creature,Snow Knight Ogre of the Arctic Blizzards
+23,Artifact,Scepter
+24,Enchantment,Zealous Miracle Alacrity
+25,Enchantment,Age
+26,Creature,Dark Priest Cyclops
+27,Creature,Aura Monk Cyclops
+28,Spell,Rage
+29,Enchantment,Sorrow Firebreath
+30,Enchantment,Clever Nature Lethargy
+31,Creature,Troll
+32,Enchantment,Mighty Life Invert
+33,Creature,Spider
+34,Creature,Earth Warrior Elf of the Polar Woods
+35,Creature,Dark Chaos Demon of Illusion
+36,Creature,Warlock
+37,Enchantment,Nimble Shade
+38,Creature,Snow Rogue Ogre of the Eastern Skies
+39,Enchantment,Oblivion Haste
+40,Spell,Frigid Pandemonium
+41,Creature,Fairy
+42,Creature,Death Chaos Demon of the Dead
+43,Creature,Frozen Grand Wizard of the Void
+44,Creature,Fairy

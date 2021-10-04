@@ -1,46 +1,46 @@
-==================,DECK,5874,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Eagle
-2,Creature,Rare,Light Knight Fairy
-3,Spell,Rare,Grim Vortex
-4,Artifact,Rare,Grim Gauntlet
-5,Spell,Rare,Frigid Frenzy
-6,Spell,Legendary,Intense Frenzy
-7,Creature,Common,Paladin
-8,Enchantment,Mythic,Clever Flight
-9,Creature,Legendary,Aura Queen Giant of the Black Stone
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Rare,Dark Undead Fairy
-13,Spell,Common,Hypnosis
-14,Artifact,Common,Helm
-15,Creature,Common,Ghoul
-16,Creature,Common,Wolf
-17,Creature,Legendary,Aura Queen Kraken of the Eternal Land
-18,Creature,Rare,Aura King Minotaur
-19,Creature,Common,Orc
-20,Creature,Common,Wolf
-21,Creature,Rare,Snow Undead Hydra
-22,Creature,Common,Dwarf
-23,Creature,Common,Spider
-24,Enchantment,Rare,Dark Agony
-25,Creature,Mythic,Light Nameless Dragon of the Sky
-26,Creature,Rare,Aura Merchant Griffin
-27,Creature,Common,Paladin
-28,Enchantment,Mythic,Mighty Flight
-29,Creature,Common,Warlock
-30,Creature,Common,Orc
-31,Creature,Common,Magi
-32,Creature,Common,Spider
-33,Artifact,Common,Gloves
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Eagle
-36,Creature,Common,Orc
-37,Creature,Common,Eagle
-38,Spell,Rare,Gloom Lightning
-39,Creature,Common,Spider
-40,Spell,Common,Sorrow
-41,Artifact,Rare,Necro Tome
-42,Creature,Common,Wolf
-43,Enchantment,Rare,Forged Strength
-44,Artifact,Common,Divine Robe
+==================,DECK,5874
+0,Creature,Magi
+1,Creature,Eagle
+2,Creature,Light Knight Kraken
+3,Spell,Frigid Freeze
+4,Artifact,Nimble Gauntlet
+5,Spell,Oblivion Burst
+6,Spell,Ardent Corpse Reanimate
+7,Creature,Troll
+8,Enchantment,Zealous Grim Blight
+9,Creature,Aura Queen Dwarf of the Black Stone
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Dark Undead Kraken
+13,Spell,Fury
+14,Artifact,Helm
+15,Creature,Ghoul
+16,Creature,Wolf
+17,Creature,Aura Queen Ogre of the Eternal Land
+18,Creature,Aura King Cyclops
+19,Creature,Spider
+20,Creature,Wolf
+21,Creature,Snow Undead Hydra
+22,Creature,Magi
+23,Creature,Paladin
+24,Enchantment,Miracle Firebreath
+25,Creature,Light Nameless Dragon of the Sky
+26,Creature,Aura Merchant Griffin
+27,Creature,Troll
+28,Enchantment,Empyrean Lunar Firebreath
+29,Creature,Berserker
+30,Creature,Spider
+31,Creature,Fairy
+32,Creature,Paladin
+33,Artifact,Gloves
+34,Enchantment,Shrink
+35,Creature,Eagle
+36,Creature,Spider
+37,Creature,Eagle
+38,Spell,Gloom Wall
+39,Creature,Paladin
+40,Spell,Freeze
+41,Artifact,Shimmering Tome
+42,Creature,Wolf
+43,Enchantment,Cataclysmic Shrink
+44,Artifact,Divine Robe

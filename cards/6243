@@ -1,46 +1,46 @@
-==================,DECK,6243,Light
-0,Creature,Legendary,Light King Kraken of the Border
-1,Creature,Common,Warlock
-2,Creature,Rare,Snow Lord Fairy
-3,Enchantment,Mythic,Extreme Drain
-4,Spell,Common,Lightning
-5,Creature,Common,Ghoul
-6,Spell,Rare,Necro Stun
-7,Spell,Legendary,Clever Fury
-8,Creature,Common,Wolf
-9,Artifact,Common,Ring
-10,Creature,Common,Spider
-11,Creature,Rare,Death King Minotaur
-12,Enchantment,Legendary,Clever Strength
-13,Spell,Common,Frost
-14,Creature,Common,Warlock
-15,Spell,Common,Stun
-16,Creature,Rare,Frozen Monk Griffin
-17,Enchantment,Rare,Frigid Strength
-18,Creature,Common,Spider
-19,Creature,Common,Spider
-20,Spell,Rare,Life Gale
-21,Artifact,Common,Cloak
-22,Creature,Common,Orc
-23,Creature,Common,Wolf
-24,Spell,Rare,Gloom Heal
-25,Enchantment,Common,Strength
-26,Creature,Common,Eagle
-27,Creature,Common,Spider
-28,Spell,Legendary,Potent Reanimate
-29,Spell,Common,Sorrow
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Lethargy
-32,Artifact,Common,Gloves
-33,Enchantment,Common,Lethargy
-34,Artifact,Common,Gauntlet
-35,Creature,Mythic,Earth Grand Wizard of the Shadows
-36,Spell,Common,Lightning
-37,Creature,Common,Paladin
-38,Creature,Common,Elf
-39,Spell,Rare,Hateful Infuriate
-40,Enchantment,Common,Shield
-41,Creature,Common,Magi
-42,Creature,Legendary,Dark Merchant Cyclops of the Eastern Skies
-43,Creature,Rare,Snow Monk Fairy
-44,Creature,Common,Paladin
+==================,DECK,6243
+0,Creature,Light King Ogre of the Border
+1,Creature,Berserker
+2,Creature,Snow Lord Kraken
+3,Enchantment,Zealous Dark Alacrity
+4,Spell,Fire
+5,Creature,Ghoul
+6,Spell,Hateful Vortex
+7,Spell,Clever Grim Revive
+8,Creature,Wolf
+9,Artifact,Ring
+10,Creature,Paladin
+11,Creature,Death King Cyclops
+12,Enchantment,Instant Nimble Drain
+13,Spell,Infuriate
+14,Creature,Berserker
+15,Spell,Revive
+16,Creature,Frozen Monk Griffin
+17,Enchantment,Nimble Invert
+18,Creature,Paladin
+19,Creature,Paladin
+20,Spell,Oblivion Ice
+21,Artifact,Cloak
+22,Creature,Spider
+23,Creature,Wolf
+24,Spell,Miracle Frost
+25,Enchantment,Shrink
+26,Creature,Eagle
+27,Creature,Paladin
+28,Spell,Mighty Grim Fireball
+29,Spell,Lightning
+30,Creature,Ghoul
+31,Enchantment,Blight
+32,Artifact,Gloves
+33,Enchantment,Firebreath
+34,Artifact,Gauntlet
+35,Creature,Earth Grand Wizard of the Shadows
+36,Spell,Fury
+37,Creature,Troll
+38,Creature,Warlock
+39,Spell,Gloom Invisibility
+40,Enchantment,Age
+41,Creature,Fairy
+42,Creature,Dark Merchant Giant of the Eastern Skies
+43,Creature,Snow Monk Kraken
+44,Creature,Troll

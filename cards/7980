@@ -1,46 +1,46 @@
-==================,DECK,7980,Light
-0,Creature,Common,Eagle
-1,Creature,Legendary,Death Merchant Giant of the Polar Woods
-2,Creature,Common,Dwarf
-3,Artifact,Common,Bracers
-4,Spell,Rare,Hateful Sorrow
-5,Creature,Common,Wolf
-6,Creature,Common,Dwarf
-7,Spell,Common,Hypnosis
-8,Creature,Legendary,Earth King Giant of the Arctic Blizzards
-9,Spell,Common,Invisibility
-10,Spell,Common,Gale
-11,Creature,Rare,Dark Fighter Griffin
-12,Spell,Common,Infuriate
-13,Spell,Rare,Frigid Rage
-14,Creature,Common,Magi
-15,Creature,Common,Eagle
-16,Creature,Common,Magi
-17,Spell,Common,Lightning
-18,Creature,Common,Elf
-19,Creature,Rare,Snow Monk Minotaur
-20,Creature,Common,Wolf
-21,Creature,Rare,Light King Skin-Walker
-22,Creature,Common,Wolf
-23,Creature,Rare,Snow Knight Skin-Walker
-24,Creature,Mythic,Aura Undead Phoenix of the Light
-25,Creature,Common,Wolf
-26,Creature,Rare,Death King Fairy
-27,Enchantment,Common,Blight
-28,Enchantment,Common,Age
-29,Spell,Common,Hypnosis
-30,Enchantment,Common,Invert
-31,Artifact,Legendary,Extreme Bracers
-32,Spell,Common,Hypnosis
-33,Creature,Common,Eagle
-34,Enchantment,Common,Shield
-35,Creature,Common,Ghoul
-36,Spell,Common,Frenzy
-37,Creature,Common,Ghoul
-38,Creature,Common,Dwarf
-39,Artifact,Common,Ring
-40,Creature,Common,Eagle
-41,Creature,Common,Orc
-42,Creature,Common,Ghoul
-43,Creature,Common,Elf
-44,Creature,Common,Wolf
+==================,DECK,7980
+0,Creature,Eagle
+1,Creature,Death Merchant Dwarf of the Polar Woods
+2,Creature,Magi
+3,Artifact,Bracers
+4,Spell,Lunar Fireball
+5,Creature,Wolf
+6,Creature,Magi
+7,Spell,Burst
+8,Creature,Earth King Dwarf of the Arctic Blizzards
+9,Spell,Fireball
+10,Spell,Fury
+11,Creature,Dark Fighter Griffin
+12,Spell,Pandemonium
+13,Spell,Frigid Reanimate
+14,Creature,Fairy
+15,Creature,Eagle
+16,Creature,Fairy
+17,Spell,Lightning
+18,Creature,Warlock
+19,Creature,Snow Monk Cyclops
+20,Creature,Wolf
+21,Creature,Light King Orc
+22,Creature,Wolf
+23,Creature,Snow Knight Orc
+24,Creature,Aura Undead Phoenix of the Light
+25,Creature,Wolf
+26,Creature,Death King Kraken
+27,Enchantment,Shade
+28,Enchantment,Alacrity
+29,Spell,Tempest
+30,Enchantment,Flight
+31,Artifact,Zealous Dark Bracers
+32,Spell,Fury
+33,Creature,Eagle
+34,Enchantment,Flight
+35,Creature,Ghoul
+36,Spell,Stricken
+37,Creature,Ghoul
+38,Creature,Magi
+39,Artifact,Ring
+40,Creature,Eagle
+41,Creature,Spider
+42,Creature,Ghoul
+43,Creature,Warlock
+44,Creature,Wolf

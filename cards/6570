@@ -1,46 +1,46 @@
-==================,DECK,6570,Light
-0,Creature,Legendary,Snow Thief Giant of the Plains
-1,Enchantment,Common,Age
-2,Creature,Common,Elf
-3,Creature,Common,Dwarf
-4,Spell,Common,Sorrow
-5,Creature,Common,Orc
-6,Creature,Common,Elf
-7,Creature,Common,Paladin
-8,Spell,Common,Freeze
-9,Artifact,Common,Scepter
-10,Enchantment,Rare,Nature Drain
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Flight
-13,Enchantment,Common,Shield
-14,Enchantment,Legendary,Potent Deathgrip
-15,Enchantment,Common,Shield
-16,Creature,Rare,Light Undead Berserker
-17,Creature,Common,Magi
-18,Creature,Common,Spider
-19,Enchantment,Common,Alacrity
-20,Creature,Common,Elf
-21,Spell,Common,Lightning
-22,Artifact,Common,Divine Robe
-23,Spell,Rare,Life Reanimate
-24,Artifact,Rare,Miracle Gloves
-25,Creature,Common,Goblin
-26,Creature,Mythic,Dark Nameless Phoenix of Illusion
-27,Spell,Common,Revive
-28,Enchantment,Common,Shield
-29,Creature,Rare,Light Monk Skin-Walker
-30,Enchantment,Legendary,Instant Invert
-31,Creature,Common,Wolf
-32,Creature,Common,Goblin
-33,Enchantment,Common,Strength
-34,Artifact,Common,Boots
-35,Artifact,Rare,Solar Cloak
-36,Artifact,Common,Helmet
-37,Creature,Common,Orc
-38,Creature,Common,Dwarf
-39,Enchantment,Mythic,Clever Lethargy
-40,Spell,Rare,Apocalypse Reanimate
-41,Enchantment,Common,Haste
-42,Creature,Rare,Earth Assassin Berserker
-43,Creature,Common,Paladin
-44,Enchantment,Common,Agony
+==================,DECK,6570
+0,Creature,Snow Thief Dwarf of the Plains
+1,Enchantment,Haste
+2,Creature,Warlock
+3,Creature,Magi
+4,Spell,Infuriate
+5,Creature,Spider
+6,Creature,Warlock
+7,Creature,Troll
+8,Spell,Lightning
+9,Artifact,Scepter
+10,Enchantment,Forged Deathgrip
+11,Creature,Ghoul
+12,Enchantment,Deathgrip
+13,Enchantment,Shrink
+14,Enchantment,Mighty Oblivion Invert
+15,Enchantment,Drain
+16,Creature,Light Undead Goblin
+17,Creature,Fairy
+18,Creature,Paladin
+19,Enchantment,Invert
+20,Creature,Warlock
+21,Spell,Fire
+22,Artifact,Divine Robe
+23,Spell,Oblivion Infuriate
+24,Artifact,Nimble Gloves
+25,Creature,Skin-Walker
+26,Creature,Dark Nameless Phoenix of Illusion
+27,Spell,Fireball
+28,Enchantment,Blight
+29,Creature,Light Monk Orc
+30,Enchantment,Urgent Shimmering Agony
+31,Creature,Wolf
+32,Creature,Skin-Walker
+33,Enchantment,Flight
+34,Artifact,Boots
+35,Artifact,Solar Cloak
+36,Artifact,Helmet
+37,Creature,Spider
+38,Creature,Magi
+39,Enchantment,Irate Grim Blight
+40,Spell,Grim Lightning
+41,Enchantment,Haste
+42,Creature,Earth Assassin Goblin
+43,Creature,Troll
+44,Enchantment,Strength

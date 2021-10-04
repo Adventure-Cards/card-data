@@ -1,46 +1,46 @@
-==================,DECK,6024,Light
-0,Enchantment,Common,Invert
-1,Creature,Common,Spider
-2,Creature,Rare,Aura Assassin Berserker
-3,Enchantment,Common,Age
-4,Enchantment,Mythic,Extreme Flight
-5,Creature,Common,Spider
-6,Creature,Legendary,Frozen Lord Giant of the Black Stone
-7,Creature,Common,Paladin
-8,Creature,Common,Warlock
-9,Artifact,Common,Shield
-10,Creature,Common,Wolf
-11,Creature,Rare,Snow Warrior Skin-Walker
-12,Enchantment,Mythic,Extreme Shade
-13,Enchantment,Mythic,Urgent Haste
-14,Spell,Legendary,Dire Vortex
-15,Creature,Rare,Death Knight Hydra
-16,Creature,Rare,Frozen Lord Berserker
-17,Spell,Common,Infuriate
-18,Artifact,Legendary,Instant Sigil
-19,Creature,Common,Eagle
-20,Artifact,Common,Potion
-21,Artifact,Common,Gloves
-22,Enchantment,Legendary,Dire Shield
-23,Artifact,Common,Bow
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Ghoul
-26,Enchantment,Rare,Cataclysmic Flight
-27,Enchantment,Rare,Grim Lethargy
-28,Creature,Rare,Snow Monk Fairy
-29,Creature,Rare,Light Assassin Hydra
-30,Spell,Common,Reanimate
-31,Enchantment,Common,Alacrity
-32,Creature,Common,Magi
-33,Enchantment,Common,Lethargy
-34,Enchantment,Common,Flight
-35,Enchantment,Mythic,Potent Shrink
-36,Spell,Legendary,Urgent Ice
-37,Creature,Common,Spider
-38,Spell,Common,Gravitation
-39,Creature,Legendary,Light Assassin Orge of the Border
-40,Enchantment,Common,Shrink
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Alacrity
-43,Enchantment,Rare,Gloom Invert
-44,Creature,Common,Orc
+==================,DECK,6024
+0,Enchantment,Shade
+1,Creature,Paladin
+2,Creature,Aura Assassin Goblin
+3,Enchantment,Alacrity
+4,Enchantment,Clever Lunar Shield
+5,Creature,Paladin
+6,Creature,Frozen Lord Dwarf of the Black Stone
+7,Creature,Troll
+8,Creature,Berserker
+9,Artifact,Shield
+10,Creature,Wolf
+11,Creature,Snow Warrior Orc
+12,Enchantment,Dire Chimeric Firebreath
+13,Enchantment,Clever Corpse Lethargy
+14,Spell,Instant Oblivion Fire
+15,Creature,Death Knight Hydra
+16,Creature,Frozen Lord Goblin
+17,Spell,Stricken
+18,Artifact,Mighty Solar Sigil
+19,Creature,Eagle
+20,Artifact,Potion
+21,Artifact,Gloves
+22,Enchantment,Urgent Victory Invert
+23,Artifact,Bow
+24,Enchantment,Shield
+25,Creature,Ghoul
+26,Enchantment,Lunar Flight
+27,Enchantment,Grim Drain
+28,Creature,Snow Monk Kraken
+29,Creature,Light Assassin Hydra
+30,Spell,Fireball
+31,Enchantment,Shrink
+32,Creature,Fairy
+33,Enchantment,Haste
+34,Enchantment,Blight
+35,Enchantment,Zealous Frigid Blight
+36,Spell,Potent Nature Ice
+37,Creature,Paladin
+38,Spell,Pandemonium
+39,Creature,Light Assassin Elf of the Border
+40,Enchantment,Strength
+41,Creature,Magi
+42,Enchantment,Drain
+43,Enchantment,Sorrow Shrink
+44,Creature,Spider

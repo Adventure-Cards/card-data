@@ -1,46 +1,46 @@
-==================,DECK,5413,Medium
-0,Creature,Legendary,Earth Thief Giant of the Eastern Skies
-1,Creature,Common,Magi
-2,Enchantment,Common,Strength
-3,Spell,Rare,Corpse Rage
-4,Creature,Rare,Dark Merchant Berserker
-5,Creature,Common,Warlock
-6,Artifact,Common,Sigil
-7,Creature,Rare,Frozen Monk Skin-Walker
-8,Creature,Common,Elf
-9,Artifact,Common,Shield
-10,Creature,Rare,Light Lord Minotaur
-11,Spell,Common,Freeze
-12,Enchantment,Mythic,Clever Blight
-13,Spell,Legendary,Extreme Torment
-14,Creature,Common,Orc
-15,Spell,Rare,Shimmering Infuriate
-16,Spell,Common,Maelstrom
-17,Creature,Rare,Snow Warrior Fairy
-18,Artifact,Common,Tome
-19,Enchantment,Common,Flight
-20,Creature,Common,Spider
-21,Enchantment,Common,Invert
-22,Creature,Common,Wolf
-23,Creature,Rare,Frozen Lord Skin-Walker
-24,Creature,Common,Paladin
-25,Enchantment,Mythic,Instant Invert
-26,Creature,Rare,Aura Queen Hydra
-27,Enchantment,Rare,Miracle Shrink
-28,Creature,Rare,Dark Lord Skin-Walker
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Spider
-31,Artifact,Common,Bracers
-32,Spell,Legendary,Extreme Fury
-33,Creature,Common,Wolf
-34,Creature,Rare,Snow Rogue Griffin
-35,Enchantment,Common,Flight
-36,Creature,Rare,Death Monk Fairy
-37,Creature,Common,Orc
-38,Spell,Common,Rage
-39,Creature,Rare,Earth Undead Minotaur
-40,Creature,Common,Elf
-41,Creature,Legendary,Death Assassin Orge of the Border
-42,Creature,Common,Spider
-43,Enchantment,Common,Strength
-44,Creature,Common,Ghoul
+==================,DECK,5413
+0,Creature,Earth Thief Dwarf of the Eastern Skies
+1,Creature,Fairy
+2,Enchantment,Shrink
+3,Spell,Forged Frost
+4,Creature,Dark Merchant Goblin
+5,Creature,Berserker
+6,Artifact,Sigil
+7,Creature,Frozen Monk Orc
+8,Creature,Warlock
+9,Artifact,Shield
+10,Creature,Light Lord Cyclops
+11,Spell,Fire
+12,Enchantment,Potent Nimble Drain
+13,Spell,Instant Cataclysmic Infuriate
+14,Creature,Spider
+15,Spell,Shimmering Frenzy
+16,Spell,Ice
+17,Creature,Snow Warrior Kraken
+18,Artifact,Tome
+19,Enchantment,Deathgrip
+20,Creature,Paladin
+21,Enchantment,Drain
+22,Creature,Wolf
+23,Creature,Frozen Lord Orc
+24,Creature,Troll
+25,Enchantment,Dire Shimmering Age
+26,Creature,Aura Queen Hydra
+27,Enchantment,Frigid Drain
+28,Creature,Dark Lord Orc
+29,Enchantment,Invert
+30,Creature,Paladin
+31,Artifact,Bracers
+32,Spell,Potent Lunar Infuriate
+33,Creature,Wolf
+34,Creature,Snow Rogue Griffin
+35,Enchantment,Drain
+36,Creature,Death Monk Kraken
+37,Creature,Spider
+38,Spell,Lightning
+39,Creature,Earth Undead Cyclops
+40,Creature,Warlock
+41,Creature,Death Assassin Elf of the Border
+42,Creature,Paladin
+43,Enchantment,Shrink
+44,Creature,Ghoul

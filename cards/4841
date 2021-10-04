@@ -1,46 +1,46 @@
-==================,DECK,4841,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Wolf
-2,Spell,Common,Fury
-3,Spell,Common,Stricken
-4,Creature,Rare,Frozen Knight Skin-Walker
-5,Enchantment,Mythic,Clever Lethargy
-6,Creature,Rare,Light Undead Minotaur
-7,Artifact,Rare,Solar Scepter
-8,Enchantment,Common,Agony
-9,Creature,Common,Elf
-10,Creature,Rare,Death King Berserker
-11,Creature,Rare,Light Thief Minotaur
-12,Spell,Rare,Necro Pandemonium
-13,Artifact,Common,Gloves
-14,Spell,Common,Lightning
-15,Creature,Common,Orc
-16,Creature,Rare,Snow Queen Skin-Walker
-17,Enchantment,Common,Shade
-18,Creature,Common,Ghoul
-19,Creature,Common,Goblin
-20,Creature,Common,Wolf
-21,Enchantment,Common,Shield
-22,Enchantment,Common,Alacrity
-23,Artifact,Common,Greaves
-24,Creature,Common,Goblin
-25,Creature,Common,Magi
-26,Creature,Common,Paladin
-27,Creature,Rare,Aura Queen Fairy
-28,Enchantment,Common,Haste
-29,Creature,Common,Ghoul
-30,Creature,Common,Warlock
-31,Creature,Legendary,Earth King Cyclops of the Low Hills
-32,Enchantment,Common,Drain
-33,Creature,Mythic,Earth Undead Phoenix of the Shadows
-34,Spell,Common,Vortex
-35,Creature,Legendary,Frozen Warrior Oni of the Magical Forest
-36,Artifact,Common,Amulet
-37,Creature,Legendary,Earth Thief Kraken of the Border
-38,Enchantment,Rare,Hateful Deathgrip
-39,Artifact,Common,Staff
-40,Spell,Common,Hypnosis
-41,Creature,Common,Dwarf
-42,Creature,Rare,Earth Warrior Fairy
-43,Spell,Rare,Forged Heal
-44,Creature,Common,Ghoul
+==================,DECK,4841
+0,Creature,Eagle
+1,Creature,Wolf
+2,Spell,Vortex
+3,Spell,Freeze
+4,Creature,Frozen Knight Orc
+5,Enchantment,Dire Grim Shade
+6,Creature,Light Undead Cyclops
+7,Artifact,Solar Scepter
+8,Enchantment,Agony
+9,Creature,Warlock
+10,Creature,Death King Goblin
+11,Creature,Light Thief Cyclops
+12,Spell,Corpse Torment
+13,Artifact,Gloves
+14,Spell,Infuriate
+15,Creature,Spider
+16,Creature,Snow Queen Orc
+17,Enchantment,Lethargy
+18,Creature,Ghoul
+19,Creature,Skin-Walker
+20,Creature,Wolf
+21,Enchantment,Shrink
+22,Enchantment,Shrink
+23,Artifact,Greaves
+24,Creature,Skin-Walker
+25,Creature,Fairy
+26,Creature,Troll
+27,Creature,Aura Queen Kraken
+28,Enchantment,Deathgrip
+29,Creature,Ghoul
+30,Creature,Berserker
+31,Creature,Earth King Giant of the Low Hills
+32,Enchantment,Shrink
+33,Creature,Earth Undead Phoenix of the Shadows
+34,Spell,Maelstrom
+35,Creature,Frozen Warrior Oni of the Magical Forest
+36,Artifact,Amulet
+37,Creature,Earth Thief Ogre of the Border
+38,Enchantment,Sorrow Firebreath
+39,Artifact,Staff
+40,Spell,Frenzy
+41,Creature,Magi
+42,Creature,Earth Warrior Kraken
+43,Spell,Lunar Lightning
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,5487,Medium
-0,Spell,Rare,Miracle Gale
-1,Spell,Common,Invisibility
-2,Creature,Common,Spider
-3,Creature,Rare,Earth Thief Fairy
-4,Enchantment,Rare,Grim Agony
-5,Enchantment,Common,Blight
-6,Spell,Common,Fury
-7,Artifact,Common,Shield
-8,Artifact,Rare,Grim Cloak
-9,Creature,Rare,Snow Thief Hydra
-10,Enchantment,Common,Agony
-11,Enchantment,Common,Shade
-12,Creature,Rare,Frozen Merchant Hydra
-13,Creature,Rare,Aura Assassin Minotaur
-14,Enchantment,Common,Drain
-15,Artifact,Common,Gloves
-16,Artifact,Common,Scythe
-17,Creature,Common,Wolf
-18,Creature,Common,Orc
-19,Spell,Common,Frost
-20,Spell,Common,Infuriate
-21,Spell,Common,Burn
-22,Spell,Common,Pandemonium
-23,Artifact,Common,Cloak
-24,Spell,Common,Invisibility
-25,Enchantment,Rare,Apocalypse Age
-26,Artifact,Common,Potion
-27,Creature,Common,Orc
-28,Enchantment,Common,Age
-29,Creature,Common,Dwarf
-30,Creature,Mythic,Frozen Ancient Demon of the Void
-31,Creature,Common,Magi
-32,Creature,Mythic,Dark Time Dragon of Illusion
-33,Enchantment,Common,Haste
-34,Creature,Common,Elf
-35,Creature,Common,Wolf
-36,Spell,Common,Revive
-37,Creature,Common,Ghoul
-38,Creature,Rare,Frozen King Griffin
-39,Spell,Common,Gravitation
-40,Creature,Common,Orc
-41,Enchantment,Common,Age
-42,Artifact,Legendary,Dire Crown
-43,Creature,Rare,Aura Priest Hydra
-44,Spell,Common,Fury
+==================,DECK,5487
+0,Spell,Apocalypse Stricken
+1,Spell,Pandemonium
+2,Creature,Paladin
+3,Creature,Earth Thief Kraken
+4,Enchantment,Life Invert
+5,Enchantment,Alacrity
+6,Spell,Stun
+7,Artifact,Shield
+8,Artifact,Victory Cloak
+9,Creature,Snow Thief Hydra
+10,Enchantment,Shrink
+11,Enchantment,Haste
+12,Creature,Frozen Merchant Hydra
+13,Creature,Aura Assassin Cyclops
+14,Enchantment,Blight
+15,Artifact,Gloves
+16,Artifact,Scythe
+17,Creature,Wolf
+18,Creature,Spider
+19,Spell,Rage
+20,Spell,Heal
+21,Spell,Torment
+22,Spell,Infuriate
+23,Artifact,Cloak
+24,Spell,Stun
+25,Enchantment,Victory Haste
+26,Artifact,Potion
+27,Creature,Spider
+28,Enchantment,Flight
+29,Creature,Magi
+30,Creature,Frozen Ancient Demon of the Void
+31,Creature,Fairy
+32,Creature,Dark Time Dragon of Illusion
+33,Enchantment,Drain
+34,Creature,Warlock
+35,Creature,Wolf
+36,Spell,Burn
+37,Creature,Ghoul
+38,Creature,Frozen King Griffin
+39,Spell,Maelstrom
+40,Creature,Spider
+41,Enchantment,Shade
+42,Artifact,Zealous Life Crown
+43,Creature,Aura Priest Hydra
+44,Spell,Pandemonium

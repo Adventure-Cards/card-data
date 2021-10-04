@@ -1,46 +1,46 @@
-==================,DECK,6524,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Wolf
-2,Spell,Rare,Necro Maelstrom
-3,Enchantment,Rare,Cataclysmic Drain
-4,Enchantment,Mythic,Intense Alacrity
-5,Enchantment,Common,Age
-6,Artifact,Common,Sigil
-7,Enchantment,Mythic,Intense Alacrity
-8,Creature,Common,Elf
-9,Creature,Common,Warlock
-10,Creature,Common,Spider
-11,Creature,Common,Ghoul
-12,Creature,Legendary,Dark Thief Cyclops of the Polar Woods
-13,Creature,Common,Orc
-14,Enchantment,Rare,Nature Deathgrip
-15,Artifact,Legendary,Instant Helmet
-16,Creature,Common,Wolf
-17,Enchantment,Common,Flight
-18,Spell,Common,Sorrow
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Warlock
-21,Spell,Rare,Shimmering Infuriate
-22,Creature,Common,Ghoul
-23,Artifact,Common,Ring
-24,Enchantment,Legendary,Dire Age
-25,Enchantment,Common,Invert
-26,Spell,Common,Hypnosis
-27,Spell,Common,Stun
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Elf
-30,Creature,Legendary,Snow Thief Kraken of the Arctic Blizzards
-31,Creature,Common,Elf
-32,Creature,Legendary,Earth King Oni of the Plains
-33,Creature,Common,Magi
-34,Enchantment,Common,Invert
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Flight
-37,Spell,Legendary,Clever Stun
-38,Spell,Common,Torment
-39,Spell,Common,Heal
-40,Enchantment,Legendary,Dire Age
-41,Spell,Common,Fury
-42,Spell,Common,Burn
-43,Spell,Rare,Necro Pandemonium
-44,Spell,Common,Rage
+==================,DECK,6524
+0,Creature,Magi
+1,Creature,Wolf
+2,Spell,Hateful Burn
+3,Enchantment,Dark Shield
+4,Enchantment,Urgent Forged Agony
+5,Enchantment,Invert
+6,Artifact,Sigil
+7,Enchantment,Dire Forged Age
+8,Creature,Warlock
+9,Creature,Berserker
+10,Creature,Paladin
+11,Creature,Ghoul
+12,Creature,Dark Thief Giant of the Polar Woods
+13,Creature,Spider
+14,Enchantment,Shimmering Agony
+15,Artifact,Irate Nature Helmet
+16,Creature,Wolf
+17,Enchantment,Agony
+18,Spell,Gravitation
+19,Enchantment,Invert
+20,Creature,Berserker
+21,Spell,Forged Lightning
+22,Creature,Ghoul
+23,Artifact,Ring
+24,Enchantment,Clever Victory Haste
+25,Enchantment,Strength
+26,Spell,Stun
+27,Spell,Fury
+28,Enchantment,Drain
+29,Creature,Warlock
+30,Creature,Snow Thief Ogre of the Arctic Blizzards
+31,Creature,Warlock
+32,Creature,Earth King Oni of the Plains
+33,Creature,Fairy
+34,Enchantment,Firebreath
+35,Creature,Magi
+36,Enchantment,Firebreath
+37,Spell,Zealous Grim Wall
+38,Spell,Frost
+39,Spell,Lightning
+40,Enchantment,Clever Victory Haste
+41,Spell,Stricken
+42,Spell,Rage
+43,Spell,Necro Lightning
+44,Spell,Torment

@@ -1,46 +1,46 @@
-==================,DECK,7243,Light
-0,Creature,Common,Orc
-1,Enchantment,Rare,Grim Alacrity
-2,Artifact,Common,Greaves
-3,Spell,Common,Lightning
-4,Creature,Legendary,Snow Assassin Cyclops of the Frozen Castle
-5,Enchantment,Common,Deathgrip
-6,Enchantment,Common,Haste
-7,Enchantment,Common,Blight
-8,Creature,Common,Spider
-9,Artifact,Common,Crown
-10,Enchantment,Common,Haste
-11,Creature,Common,Eagle
-12,Enchantment,Mythic,Urgent Strength
-13,Spell,Common,Lightning
-14,Creature,Common,Paladin
-15,Spell,Common,Freeze
-16,Creature,Common,Dwarf
-17,Creature,Common,Goblin
-18,Artifact,Common,Amulet
-19,Creature,Common,Spider
-20,Creature,Common,Magi
-21,Enchantment,Common,Blight
-22,Creature,Common,Goblin
-23,Enchantment,Common,Flight
-24,Creature,Common,Elf
-25,Enchantment,Common,Flight
-26,Enchantment,Common,Strength
-27,Enchantment,Common,Deathgrip
-28,Enchantment,Common,Deathgrip
-29,Spell,Common,Ice
-30,Enchantment,Common,Agony
-31,Spell,Legendary,Extreme Revive
-32,Enchantment,Legendary,Intense Invert
-33,Creature,Rare,Aura Priest Minotaur
-34,Creature,Common,Paladin
-35,Creature,Common,Magi
-36,Creature,Common,Goblin
-37,Creature,Common,Spider
-38,Enchantment,Common,Deathgrip
-39,Enchantment,Common,Shade
-40,Spell,Common,Stricken
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Haste
-43,Spell,Common,Frost
-44,Enchantment,Common,Shade
+==================,DECK,7243
+0,Creature,Spider
+1,Enchantment,Apocalypse Haste
+2,Artifact,Greaves
+3,Spell,Torment
+4,Creature,Snow Assassin Giant of the Frozen Castle
+5,Enchantment,Firebreath
+6,Enchantment,Haste
+7,Enchantment,Flight
+8,Creature,Paladin
+9,Artifact,Crown
+10,Enchantment,Flight
+11,Creature,Eagle
+12,Enchantment,Ardent Solar Lethargy
+13,Spell,Hypnosis
+14,Creature,Troll
+15,Spell,Reanimate
+16,Creature,Magi
+17,Creature,Skin-Walker
+18,Artifact,Amulet
+19,Creature,Paladin
+20,Creature,Fairy
+21,Enchantment,Age
+22,Creature,Skin-Walker
+23,Enchantment,Agony
+24,Creature,Warlock
+25,Enchantment,Blight
+26,Enchantment,Shield
+27,Enchantment,Firebreath
+28,Enchantment,Shade
+29,Spell,Frost
+30,Enchantment,Haste
+31,Spell,Urgent Cataclysmic Invisibility
+32,Enchantment,Ardent Shimmering Lethargy
+33,Creature,Aura Priest Cyclops
+34,Creature,Troll
+35,Creature,Fairy
+36,Creature,Skin-Walker
+37,Creature,Paladin
+38,Enchantment,Invert
+39,Enchantment,Shield
+40,Spell,Sorrow
+41,Creature,Magi
+42,Enchantment,Shield
+43,Spell,Maelstrom
+44,Enchantment,Haste

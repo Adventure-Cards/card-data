@@ -1,46 +1,46 @@
-==================,DECK,5030,Strong
-0,Creature,Common,Elf
-1,Creature,Common,Wolf
-2,Creature,Common,Elf
-3,Enchantment,Common,Haste
-4,Creature,Common,Orc
-5,Creature,Rare,Frozen Monk Minotaur
-6,Enchantment,Common,Invert
-7,Creature,Rare,Light Warrior Minotaur
-8,Creature,Common,Orc
-9,Enchantment,Legendary,Extreme Shrink
-10,Spell,Legendary,Angry Infuriate
-11,Creature,Common,Warlock
-12,Creature,Common,Ghoul
-13,Creature,Common,Dwarf
-14,Creature,Legendary,Death King Oni of the Haven
-15,Creature,Legendary,Death Nameless Phoenix of the Dead
-16,Artifact,Common,Pendant
-17,Spell,Common,Vortex
-18,Creature,Legendary,Frozen Nameless Dragon of the Void
-19,Spell,Common,Vortex
-20,Creature,Legendary,Aura Fighter Oni of the Eastern Skies
-21,Creature,Common,Elf
-22,Creature,Rare,Dark Lord Berserker
-23,Spell,Legendary,Urgent Wall
-24,Creature,Legendary,Frozen Rogue Cyclops of the Golden Palace
-25,Spell,Common,Ice
-26,Enchantment,Legendary,Intense Haste
-27,Spell,Legendary,Instant Wall
-28,Creature,Mythic,Frozen Undead Phoenix of the Void
-29,Enchantment,Common,Flight
-30,Creature,Mythic,Death Chaos Wizard of the Dead
-31,Spell,Rare,Frigid Freeze
-32,Enchantment,Legendary,Potent Shield
-33,Creature,Mythic,Dark Time Phoenix of Illusion
-34,Spell,Common,Gale
-35,Spell,Common,Revive
-36,Creature,Rare,Aura Assassin Minotaur
-37,Creature,Rare,Dark Knight Griffin
-38,Creature,Common,Eagle
-39,Creature,Legendary,Frozen Nameless Phoenix of the Void
-40,Creature,Legendary,Dark King Cyclops of the Eastern Skies
-41,Creature,Common,Wolf
-42,Creature,Common,Wolf
-43,Creature,Legendary,Frozen Time Dragon of the Void
-44,Creature,Rare,Light Priest Minotaur
+==================,DECK,5030
+0,Creature,Warlock
+1,Creature,Wolf
+2,Creature,Warlock
+3,Enchantment,Blight
+4,Creature,Spider
+5,Creature,Frozen Monk Cyclops
+6,Enchantment,Lethargy
+7,Creature,Light Warrior Cyclops
+8,Creature,Spider
+9,Enchantment,Empyrean Chimeric Firebreath
+10,Spell,Mighty Sorrow Lightning
+11,Creature,Berserker
+12,Creature,Ghoul
+13,Creature,Magi
+14,Creature,Death King Oni of the Haven
+15,Creature,Death Nameless Phoenix of the Dead
+16,Artifact,Pendant
+17,Spell,Fury
+18,Creature,Frozen Nameless Dragon of the Void
+19,Spell,Stricken
+20,Creature,Aura Fighter Oni of the Eastern Skies
+21,Creature,Warlock
+22,Creature,Dark Lord Goblin
+23,Spell,Irate Shimmering Revive
+24,Creature,Frozen Rogue Giant of the Golden Palace
+25,Spell,Reanimate
+26,Enchantment,Clever Corpse Lethargy
+27,Spell,Urgent Corpse Pandemonium
+28,Creature,Frozen Undead Phoenix of the Void
+29,Enchantment,Flight
+30,Creature,Death Chaos Wizard of the Dead
+31,Spell,Life Stricken
+32,Enchantment,Irate Victory Blight
+33,Creature,Dark Time Phoenix of Illusion
+34,Spell,Reanimate
+35,Spell,Gale
+36,Creature,Aura Assassin Cyclops
+37,Creature,Dark Knight Griffin
+38,Creature,Eagle
+39,Creature,Frozen Nameless Phoenix of the Void
+40,Creature,Dark King Giant of the Eastern Skies
+41,Creature,Wolf
+42,Creature,Wolf
+43,Creature,Frozen Time Dragon of the Void
+44,Creature,Light Priest Cyclops

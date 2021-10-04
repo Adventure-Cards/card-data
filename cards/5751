@@ -1,46 +1,46 @@
-==================,DECK,5751,Light
-0,Enchantment,Rare,Corpse Agony
-1,Spell,Common,Burst
-2,Spell,Rare,Hateful Burst
-3,Spell,Common,Sorrow
-4,Creature,Legendary,Snow Merchant Giant of the Plains
-5,Spell,Common,Pandemonium
-6,Creature,Common,Ghoul
-7,Creature,Legendary,Aura Knight Giant of the Eastern Skies
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Strength
-10,Creature,Common,Paladin
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Eagle
-13,Creature,Common,Eagle
-14,Spell,Common,Maelstrom
-15,Creature,Mythic,Snow Chaos Wizard of Hate
-16,Creature,Common,Wolf
-17,Enchantment,Mythic,Extreme Agony
-18,Creature,Common,Eagle
-19,Creature,Common,Elf
-20,Spell,Common,Sorrow
-21,Creature,Common,Orc
-22,Creature,Rare,Light Monk Hydra
-23,Spell,Common,Hypnosis
-24,Creature,Common,Warlock
-25,Creature,Legendary,Light Rogue Kraken of the Mountains
-26,Creature,Common,Elf
-27,Creature,Common,Goblin
-28,Spell,Rare,Corpse Frenzy
-29,Creature,Common,Paladin
-30,Creature,Legendary,Earth Thief Kraken of the Golden Palace
-31,Creature,Legendary,Frozen Undead Kraken of the Polar Woods
-32,Enchantment,Common,Flight
-33,Spell,Common,Assault
-34,Spell,Common,Stun
-35,Artifact,Common,Cloak
-36,Spell,Common,Pandemonium
-37,Enchantment,Mythic,Intense Invert
-38,Creature,Common,Warlock
-39,Creature,Legendary,Death Lord Orge of the Eastern Skies
-40,Artifact,Rare,Hateful Scythe
-41,Creature,Legendary,Dark Priest Cyclops of the Polar Woods
-42,Creature,Common,Orc
-43,Artifact,Common,Scythe
-44,Enchantment,Rare,Shimmering Blight
+==================,DECK,5751
+0,Enchantment,Corpse Strength
+1,Spell,Stun
+2,Spell,Cataclysmic Revive
+3,Spell,Lightning
+4,Creature,Snow Merchant Dwarf of the Plains
+5,Spell,Infuriate
+6,Creature,Ghoul
+7,Creature,Aura Knight Dwarf of the Eastern Skies
+8,Creature,Magi
+9,Enchantment,Shield
+10,Creature,Troll
+11,Enchantment,Firebreath
+12,Creature,Eagle
+13,Creature,Eagle
+14,Spell,Burn
+15,Creature,Snow Chaos Wizard of Hate
+16,Creature,Wolf
+17,Enchantment,Irate Miracle Alacrity
+18,Creature,Eagle
+19,Creature,Warlock
+20,Spell,Stricken
+21,Creature,Spider
+22,Creature,Light Monk Hydra
+23,Spell,Infuriate
+24,Creature,Berserker
+25,Creature,Light Rogue Ogre of the Mountains
+26,Creature,Warlock
+27,Creature,Skin-Walker
+28,Spell,Nature Burst
+29,Creature,Troll
+30,Creature,Earth Thief Ogre of the Golden Palace
+31,Creature,Frozen Undead Ogre of the Polar Woods
+32,Enchantment,Deathgrip
+33,Spell,Fire
+34,Spell,Stricken
+35,Artifact,Cloak
+36,Spell,Gravitation
+37,Enchantment,Ardent Shimmering Lethargy
+38,Creature,Berserker
+39,Creature,Death Lord Elf of the Eastern Skies
+40,Artifact,Miracle Scythe
+41,Creature,Dark Priest Giant of the Polar Woods
+42,Creature,Spider
+43,Artifact,Scythe
+44,Enchantment,Solar Agony

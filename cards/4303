@@ -1,46 +1,46 @@
-==================,DECK,4303,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Age
-2,Creature,Common,Eagle
-3,Enchantment,Rare,Grim Shield
-4,Creature,Rare,Frozen Priest Hydra
-5,Enchantment,Rare,Miracle Deathgrip
-6,Creature,Legendary,Death Lord Oni of the Plains
-7,Creature,Common,Dwarf
-8,Enchantment,Common,Drain
-9,Spell,Rare,Frigid Frenzy
-10,Spell,Common,Reanimate
-11,Creature,Common,Spider
-12,Creature,Common,Orc
-13,Enchantment,Rare,Oblivion Lethargy
-14,Creature,Common,Paladin
-15,Spell,Common,Stun
-16,Creature,Common,Magi
-17,Enchantment,Common,Invert
-18,Spell,Common,Infuriate
-19,Artifact,Common,Greaves
-20,Enchantment,Common,Shrink
-21,Artifact,Rare,Oblivion Tome
-22,Spell,Legendary,Clever Wall
-23,Artifact,Common,Divine Robe
-24,Spell,Common,Frenzy
-25,Enchantment,Common,Haste
-26,Creature,Rare,Snow Queen Griffin
-27,Spell,Common,Pandemonium
-28,Creature,Common,Magi
-29,Enchantment,Legendary,Dire Deathgrip
-30,Spell,Common,Burn
-31,Creature,Common,Magi
-32,Creature,Common,Goblin
-33,Creature,Common,Elf
-34,Enchantment,Legendary,Dire Strength
-35,Creature,Common,Magi
-36,Creature,Common,Dwarf
-37,Creature,Common,Warlock
-38,Spell,Legendary,Mighty Sorrow
-39,Artifact,Rare,Nimble Crown
-40,Artifact,Common,Bow
-41,Creature,Legendary,Earth Priest Cyclops of the Eternal Land
-42,Creature,Common,Orc
-43,Artifact,Common,Sigil
-44,Creature,Common,Ghoul
+==================,DECK,4303
+0,Creature,Fairy
+1,Enchantment,Blight
+2,Creature,Eagle
+3,Enchantment,Victory Shade
+4,Creature,Frozen Priest Hydra
+5,Enchantment,Oblivion Invert
+6,Creature,Death Lord Oni of the Plains
+7,Creature,Magi
+8,Enchantment,Lethargy
+9,Spell,Oblivion Maelstrom
+10,Spell,Ice
+11,Creature,Paladin
+12,Creature,Spider
+13,Enchantment,Grim Shade
+14,Creature,Troll
+15,Spell,Revive
+16,Creature,Fairy
+17,Enchantment,Haste
+18,Spell,Burn
+19,Artifact,Greaves
+20,Enchantment,Invert
+21,Artifact,Nimble Tome
+22,Spell,Dire Grim Wall
+23,Artifact,Divine Robe
+24,Spell,Revive
+25,Enchantment,Shade
+26,Creature,Snow Queen Griffin
+27,Spell,Torment
+28,Creature,Fairy
+29,Enchantment,Mighty Oblivion Invert
+30,Spell,Torment
+31,Creature,Fairy
+32,Creature,Skin-Walker
+33,Creature,Warlock
+34,Enchantment,Ardent Nimble Haste
+35,Creature,Fairy
+36,Creature,Magi
+37,Creature,Berserker
+38,Spell,Empyrean Sorrow Maelstrom
+39,Artifact,Hateful Crown
+40,Artifact,Bow
+41,Creature,Earth Priest Giant of the Eternal Land
+42,Creature,Spider
+43,Artifact,Sigil
+44,Creature,Ghoul

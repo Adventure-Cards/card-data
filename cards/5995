@@ -1,46 +1,46 @@
-==================,DECK,5995,Light
-0,Spell,Common,Wall
-1,Artifact,Common,Bracers
-2,Creature,Rare,Snow Fighter Berserker
-3,Creature,Common,Eagle
-4,Artifact,Rare,Nature Boots
-5,Creature,Rare,Snow Assassin Hydra
-6,Creature,Common,Warlock
-7,Creature,Common,Goblin
-8,Enchantment,Legendary,Angry Haste
-9,Enchantment,Mythic,Intense Strength
-10,Creature,Legendary,Aura Rogue Kraken of the Border
-11,Spell,Common,Gravitation
-12,Enchantment,Common,Alacrity
-13,Enchantment,Common,Shrink
-14,Spell,Common,Gale
-15,Enchantment,Mythic,Instant Haste
-16,Spell,Rare,Corpse Heal
-17,Enchantment,Common,Shrink
-18,Enchantment,Common,Shade
-19,Spell,Common,Frenzy
-20,Enchantment,Common,Haste
-21,Creature,Common,Paladin
-22,Creature,Common,Orc
-23,Creature,Common,Goblin
-24,Creature,Common,Ghoul
-25,Creature,Common,Orc
-26,Creature,Common,Magi
-27,Creature,Legendary,Dark Merchant Kraken of the Black Stone
-28,Spell,Common,Burst
-29,Creature,Common,Paladin
-30,Enchantment,Common,Flight
-31,Artifact,Common,Sigil
-32,Enchantment,Common,Flight
-33,Creature,Common,Goblin
-34,Artifact,Common,Pendant
-35,Spell,Legendary,Angry Reanimate
-36,Creature,Common,Orc
-37,Creature,Common,Orc
-38,Enchantment,Common,Alacrity
-39,Creature,Legendary,Aura King Cyclops of the Frozen Castle
-40,Spell,Common,Stricken
-41,Artifact,Rare,Hateful Helmet
-42,Enchantment,Mythic,Extreme Age
-43,Creature,Common,Warlock
-44,Spell,Rare,Apocalypse Maelstrom
+==================,DECK,5995
+0,Spell,Fury
+1,Artifact,Bracers
+2,Creature,Snow Fighter Goblin
+3,Creature,Eagle
+4,Artifact,Shimmering Boots
+5,Creature,Snow Assassin Hydra
+6,Creature,Berserker
+7,Creature,Skin-Walker
+8,Enchantment,Empyrean Miracle Firebreath
+9,Enchantment,Urgent Solar Agony
+10,Creature,Aura Rogue Ogre of the Border
+11,Spell,Ice
+12,Enchantment,Shade
+13,Enchantment,Haste
+14,Spell,Fire
+15,Enchantment,Clever Corpse Lethargy
+16,Spell,Hateful Vortex
+17,Enchantment,Shade
+18,Enchantment,Agony
+19,Spell,Lightning
+20,Enchantment,Shrink
+21,Creature,Troll
+22,Creature,Spider
+23,Creature,Skin-Walker
+24,Creature,Ghoul
+25,Creature,Spider
+26,Creature,Fairy
+27,Creature,Dark Merchant Ogre of the Black Stone
+28,Spell,Ice
+29,Creature,Troll
+30,Enchantment,Invert
+31,Artifact,Sigil
+32,Enchantment,Shrink
+33,Creature,Skin-Walker
+34,Artifact,Pendant
+35,Spell,Empyrean Gloom Torment
+36,Creature,Spider
+37,Creature,Spider
+38,Enchantment,Flight
+39,Creature,Aura King Giant of the Frozen Castle
+40,Spell,Burn
+41,Artifact,Lunar Helmet
+42,Enchantment,Zealous Gloom Alacrity
+43,Creature,Berserker
+44,Spell,Grim Frenzy

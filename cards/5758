@@ -1,46 +1,46 @@
-==================,DECK,5758,Light
-0,Enchantment,Common,Shrink
-1,Creature,Common,Wolf
-2,Artifact,Rare,Hateful Crown
-3,Creature,Common,Elf
-4,Spell,Common,Revive
-5,Creature,Common,Warlock
-6,Spell,Common,Invisibility
-7,Creature,Rare,Death Assassin Minotaur
-8,Creature,Common,Warlock
-9,Spell,Common,Stricken
-10,Creature,Rare,Snow Knight Griffin
-11,Spell,Common,Stricken
-12,Enchantment,Mythic,Intense Drain
-13,Enchantment,Common,Shade
-14,Creature,Common,Eagle
-15,Spell,Common,Sorrow
-16,Enchantment,Common,Haste
-17,Spell,Common,Pandemonium
-18,Spell,Common,Frenzy
-19,Creature,Common,Spider
-20,Creature,Common,Wolf
-21,Enchantment,Common,Shade
-22,Spell,Legendary,Mighty Frenzy
-23,Enchantment,Rare,Cataclysmic Age
-24,Creature,Common,Goblin
-25,Spell,Common,Fury
-26,Enchantment,Common,Shield
-27,Creature,Rare,Light Thief Fairy
-28,Enchantment,Legendary,Instant Shade
-29,Creature,Legendary,Dark Lord Oni of the Plains
-30,Creature,Common,Wolf
-31,Creature,Common,Warlock
-32,Creature,Rare,Frozen Monk Minotaur
-33,Enchantment,Common,Blight
-34,Enchantment,Mythic,Urgent Alacrity
-35,Enchantment,Common,Drain
-36,Artifact,Common,Sigil
-37,Creature,Rare,Dark Monk Minotaur
-38,Enchantment,Common,Agony
-39,Creature,Common,Paladin
-40,Creature,Common,Wolf
-41,Creature,Common,Wolf
-42,Creature,Rare,Death Thief Fairy
-43,Creature,Common,Magi
-44,Spell,Common,Infuriate
+==================,DECK,5758
+0,Enchantment,Firebreath
+1,Creature,Wolf
+2,Artifact,Sorrow Crown
+3,Creature,Warlock
+4,Spell,Ice
+5,Creature,Berserker
+6,Spell,Revive
+7,Creature,Death Assassin Cyclops
+8,Creature,Berserker
+9,Spell,Hypnosis
+10,Creature,Snow Knight Griffin
+11,Spell,Freeze
+12,Enchantment,Zealous Forged Deathgrip
+13,Enchantment,Deathgrip
+14,Creature,Eagle
+15,Spell,Assault
+16,Enchantment,Deathgrip
+17,Spell,Lightning
+18,Spell,Wall
+19,Creature,Paladin
+20,Creature,Wolf
+21,Enchantment,Shield
+22,Spell,Dire Sorrow Stun
+23,Enchantment,Gloom Alacrity
+24,Creature,Skin-Walker
+25,Spell,Freeze
+26,Enchantment,Shrink
+27,Creature,Light Thief Kraken
+28,Enchantment,Urgent Necro Agony
+29,Creature,Dark Lord Oni of the Plains
+30,Creature,Wolf
+31,Creature,Berserker
+32,Creature,Frozen Monk Cyclops
+33,Enchantment,Firebreath
+34,Enchantment,Dire Forged Age
+35,Enchantment,Flight
+36,Artifact,Sigil
+37,Creature,Dark Monk Cyclops
+38,Enchantment,Shade
+39,Creature,Troll
+40,Creature,Wolf
+41,Creature,Wolf
+42,Creature,Death Thief Kraken
+43,Creature,Fairy
+44,Spell,Reanimate

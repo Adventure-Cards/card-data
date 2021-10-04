@@ -1,46 +1,46 @@
-==================,DECK,7989,Medium
-0,Creature,Common,Paladin
-1,Creature,Legendary,Aura Thief Cyclops of the Arctic Blizzards
-2,Creature,Legendary,Earth Warrior Giant of the Low Hills
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Alacrity
-5,Artifact,Common,Crown
-6,Spell,Mythic,Dire Infuriate
-7,Enchantment,Legendary,Extreme Blight
-8,Enchantment,Common,Lethargy
-9,Creature,Common,Ghoul
-10,Spell,Rare,Nature Hypnosis
-11,Creature,Rare,Frozen Fighter Griffin
-12,Creature,Rare,Dark Undead Griffin
-13,Creature,Legendary,Snow Priest Oni of the Frozen Castle
-14,Spell,Common,Sorrow
-15,Spell,Legendary,Extreme Stricken
-16,Creature,Rare,Frozen Merchant Minotaur
-17,Artifact,Legendary,Intense Amulet
-18,Creature,Common,Elf
-19,Creature,Common,Eagle
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Spell,Rare,Shimmering Burn
-23,Creature,Rare,Light Lord Minotaur
-24,Spell,Legendary,Angry Stricken
-25,Creature,Legendary,Death Queen Cyclops of the Magical Forest
-26,Creature,Common,Elf
-27,Creature,Legendary,Frozen Merchant Giant of the Polar Woods
-28,Enchantment,Common,Strength
-29,Creature,Common,Spider
-30,Creature,Mythic,Earth Grand Wizard of the Shadows
-31,Enchantment,Common,Flight
-32,Creature,Common,Goblin
-33,Enchantment,Mythic,Potent Blight
-34,Artifact,Common,Crown
-35,Enchantment,Rare,Cataclysmic Deathgrip
-36,Spell,Rare,Lunar Burst
-37,Creature,Rare,Snow Thief Minotaur
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Shade
-40,Creature,Common,Orc
-41,Creature,Common,Dwarf
-42,Enchantment,Mythic,Extreme Agony
-43,Creature,Legendary,Frozen Merchant Oni of the Magical Forest
-44,Creature,Legendary,Dark Fighter Kraken of the Black Stone
+==================,DECK,7989
+0,Creature,Troll
+1,Creature,Aura Thief Giant of the Arctic Blizzards
+2,Creature,Earth Warrior Dwarf of the Low Hills
+3,Enchantment,Shield
+4,Enchantment,Shield
+5,Artifact,Crown
+6,Spell,Clever Frigid Frost
+7,Enchantment,Empyrean Cataclysmic Firebreath
+8,Enchantment,Shrink
+9,Creature,Ghoul
+10,Spell,Shimmering Fire
+11,Creature,Frozen Fighter Griffin
+12,Creature,Dark Undead Griffin
+13,Creature,Snow Priest Oni of the Frozen Castle
+14,Spell,Freeze
+15,Spell,Empyrean Miracle Burn
+16,Creature,Frozen Merchant Cyclops
+17,Artifact,Mighty Forged Amulet
+18,Creature,Warlock
+19,Creature,Eagle
+20,Creature,Eagle
+21,Creature,Berserker
+22,Spell,Corpse Wall
+23,Creature,Light Lord Cyclops
+24,Spell,Mighty Lunar Fury
+25,Creature,Death Queen Giant of the Magical Forest
+26,Creature,Warlock
+27,Creature,Frozen Merchant Dwarf of the Polar Woods
+28,Enchantment,Firebreath
+29,Creature,Paladin
+30,Creature,Earth Grand Wizard of the Shadows
+31,Enchantment,Alacrity
+32,Creature,Skin-Walker
+33,Enchantment,Clever Nimble Haste
+34,Artifact,Crown
+35,Enchantment,Sorrow Flight
+36,Spell,Dark Fury
+37,Creature,Snow Thief Cyclops
+38,Creature,Ghoul
+39,Enchantment,Firebreath
+40,Creature,Spider
+41,Creature,Magi
+42,Enchantment,Urgent Miracle Flight
+43,Creature,Frozen Merchant Oni of the Magical Forest
+44,Creature,Dark Fighter Ogre of the Black Stone

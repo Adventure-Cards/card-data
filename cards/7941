@@ -1,46 +1,46 @@
-==================,DECK,7941,Medium
-0,Enchantment,Rare,Hateful Flight
-1,Creature,Common,Spider
-2,Artifact,Common,Ghost Wand
-3,Creature,Common,Elf
-4,Artifact,Common,Sigil
-5,Artifact,Rare,Grim Greaves
-6,Creature,Common,Ghoul
-7,Spell,Common,Sorrow
-8,Creature,Common,Goblin
-9,Creature,Legendary,Frozen Rogue Giant of the Haven
-10,Enchantment,Mythic,Instant Shade
-11,Creature,Rare,Light King Minotaur
-12,Creature,Legendary,Dark Priest Oni of the Swamp
-13,Creature,Common,Paladin
-14,Creature,Common,Paladin
-15,Creature,Rare,Frozen Thief Minotaur
-16,Spell,Legendary,Extreme Burst
-17,Creature,Legendary,Snow Rogue Cyclops of the West
-18,Artifact,Legendary,Extreme Pendant
-19,Creature,Rare,Earth Warrior Griffin
-20,Creature,Common,Eagle
-21,Enchantment,Mythic,Mighty Age
-22,Enchantment,Common,Invert
-23,Enchantment,Common,Drain
-24,Creature,Legendary,Earth Priest Cyclops of the Plains
-25,Creature,Common,Goblin
-26,Creature,Common,Paladin
-27,Creature,Common,Eagle
-28,Creature,Common,Goblin
-29,Spell,Legendary,Mighty Gravitation
-30,Creature,Legendary,Snow King Cyclops of the Low Hills
-31,Spell,Rare,Oblivion Frost
-32,Creature,Rare,Snow Undead Berserker
-33,Enchantment,Common,Age
-34,Spell,Rare,Oblivion Assault
-35,Creature,Rare,Frozen Fighter Berserker
-36,Enchantment,Common,Invert
-37,Creature,Rare,Snow Merchant Griffin
-38,Spell,Rare,Corpse Lightning
-39,Creature,Rare,Earth Assassin Griffin
-40,Spell,Rare,Oblivion Torment
-41,Spell,Common,Rage
-42,Spell,Rare,Frigid Frost
-43,Spell,Common,Frost
-44,Creature,Legendary,Death Thief Kraken of the Border
+==================,DECK,7941
+0,Enchantment,Lunar Alacrity
+1,Creature,Paladin
+2,Artifact,Ghost Wand
+3,Creature,Warlock
+4,Artifact,Sigil
+5,Artifact,Victory Greaves
+6,Creature,Ghoul
+7,Spell,Ice
+8,Creature,Skin-Walker
+9,Creature,Frozen Rogue Dwarf of the Haven
+10,Enchantment,Urgent Necro Agony
+11,Creature,Light King Cyclops
+12,Creature,Dark Priest Oni of the Swamp
+13,Creature,Troll
+14,Creature,Troll
+15,Creature,Frozen Thief Cyclops
+16,Spell,Clever Miracle Vortex
+17,Creature,Snow Rogue Giant of the West
+18,Artifact,Irate Sorrow Pendant
+19,Creature,Earth Warrior Griffin
+20,Creature,Eagle
+21,Enchantment,Clever Gloom Shield
+22,Enchantment,Flight
+23,Enchantment,Shield
+24,Creature,Earth Priest Giant of the Plains
+25,Creature,Skin-Walker
+26,Creature,Troll
+27,Creature,Eagle
+28,Creature,Skin-Walker
+29,Spell,Ardent Lunar Freeze
+30,Creature,Snow King Giant of the Low Hills
+31,Spell,Life Pandemonium
+32,Creature,Snow Undead Goblin
+33,Enchantment,Invert
+34,Spell,Frigid Gravitation
+35,Creature,Frozen Fighter Goblin
+36,Enchantment,Haste
+37,Creature,Snow Merchant Griffin
+38,Spell,Hateful Stricken
+39,Creature,Earth Assassin Griffin
+40,Spell,Apocalypse Sorrow
+41,Spell,Sorrow
+42,Spell,Life Maelstrom
+43,Spell,Gale
+44,Creature,Death Thief Ogre of the Border

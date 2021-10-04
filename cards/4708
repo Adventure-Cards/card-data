@@ -1,46 +1,46 @@
-==================,DECK,4708,Light
-0,Enchantment,Common,Flight
-1,Creature,Common,Elf
-2,Enchantment,Common,Lethargy
-3,Creature,Rare,Death Priest Fairy
-4,Enchantment,Mythic,Extreme Strength
-5,Enchantment,Common,Shield
-6,Spell,Common,Stricken
-7,Spell,Common,Ice
-8,Artifact,Common,Sigil
-9,Creature,Rare,Earth King Minotaur
-10,Enchantment,Common,Shield
-11,Enchantment,Rare,Apocalypse Blight
-12,Creature,Common,Elf
-13,Creature,Rare,Snow Knight Fairy
-14,Creature,Common,Spider
-15,Enchantment,Legendary,Urgent Blight
-16,Enchantment,Rare,Dark Invert
-17,Artifact,Legendary,Mighty Tome
-18,Creature,Common,Goblin
-19,Creature,Common,Dwarf
-20,Artifact,Common,Divine Robe
-21,Creature,Mythic,Dark Nameless Dragon of Illusion
-22,Creature,Legendary,Snow Queen Oni of the Polar Woods
-23,Spell,Rare,Nimble Lightning
-24,Creature,Common,Warlock
-25,Spell,Common,Reanimate
-26,Enchantment,Legendary,Potent Lethargy
-27,Creature,Common,Spider
-28,Spell,Common,Wall
-29,Enchantment,Rare,Forged Invert
-30,Enchantment,Common,Blight
-31,Creature,Legendary,Dark Queen Cyclops of the Plains
-32,Creature,Common,Warlock
-33,Creature,Mythic,Dark Nameless Phoenix of Illusion
-34,Enchantment,Common,Flight
-35,Spell,Rare,Oblivion Invisibility
-36,Creature,Common,Magi
-37,Creature,Mythic,Aura Time Phoenix of the Light
-38,Creature,Rare,Aura Monk Griffin
-39,Spell,Common,Burst
-40,Spell,Common,Revive
-41,Creature,Common,Warlock
-42,Artifact,Rare,Solar Cloak
-43,Spell,Rare,Lunar Reanimate
-44,Creature,Common,Goblin
+==================,DECK,4708
+0,Enchantment,Agony
+1,Creature,Warlock
+2,Enchantment,Haste
+3,Creature,Death Priest Kraken
+4,Enchantment,Ardent Cataclysmic Shield
+5,Enchantment,Lethargy
+6,Spell,Gravitation
+7,Spell,Frenzy
+8,Artifact,Sigil
+9,Creature,Earth King Cyclops
+10,Enchantment,Flight
+11,Enchantment,Nimble Shade
+12,Creature,Warlock
+13,Creature,Snow Knight Kraken
+14,Creature,Paladin
+15,Enchantment,Zealous Solar Deathgrip
+16,Enchantment,Sorrow Alacrity
+17,Artifact,Dire Lunar Tome
+18,Creature,Skin-Walker
+19,Creature,Magi
+20,Artifact,Divine Robe
+21,Creature,Dark Nameless Dragon of Illusion
+22,Creature,Snow Queen Oni of the Polar Woods
+23,Spell,Nature Stricken
+24,Creature,Berserker
+25,Spell,Hypnosis
+26,Enchantment,Irate Grim Blight
+27,Creature,Paladin
+28,Spell,Tempest
+29,Enchantment,Sorrow Alacrity
+30,Enchantment,Shield
+31,Creature,Dark Queen Giant of the Plains
+32,Creature,Berserker
+33,Creature,Dark Nameless Phoenix of Illusion
+34,Enchantment,Shrink
+35,Spell,Apocalypse Torment
+36,Creature,Fairy
+37,Creature,Aura Time Phoenix of the Light
+38,Creature,Aura Monk Griffin
+39,Spell,Lightning
+40,Spell,Revive
+41,Creature,Berserker
+42,Artifact,Forged Cloak
+43,Spell,Sorrow Pandemonium
+44,Creature,Skin-Walker

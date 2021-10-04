@@ -1,46 +1,46 @@
-==================,DECK,4451,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Mythic,Extreme Agony
-2,Creature,Common,Eagle
-3,Enchantment,Mythic,Dire Shield
-4,Artifact,Common,Divine Robe
-5,Creature,Common,Goblin
-6,Enchantment,Rare,Hateful Blight
-7,Enchantment,Common,Drain
-8,Creature,Rare,Aura Assassin Minotaur
-9,Creature,Rare,Frozen Queen Skin-Walker
-10,Creature,Common,Eagle
-11,Enchantment,Legendary,Potent Invert
-12,Creature,Common,Wolf
-13,Creature,Common,Warlock
-14,Enchantment,Mythic,Dire Shield
-15,Creature,Common,Paladin
-16,Creature,Common,Warlock
-17,Enchantment,Common,Strength
-18,Creature,Common,Elf
-19,Enchantment,Common,Blight
-20,Artifact,Common,Sword
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Haste
-23,Creature,Common,Wolf
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Creature,Common,Eagle
-27,Creature,Common,Dwarf
-28,Creature,Common,Goblin
-29,Creature,Rare,Frozen Fighter Griffin
-30,Spell,Common,Maelstrom
-31,Creature,Rare,Aura Knight Berserker
-32,Creature,Legendary,Death Lord Oni of the Low Hills
-33,Creature,Common,Magi
-34,Spell,Common,Lightning
-35,Creature,Common,Eagle
-36,Enchantment,Common,Shield
-37,Creature,Rare,Earth Assassin Berserker
-38,Spell,Common,Burn
-39,Artifact,Common,Ring
-40,Spell,Common,Frenzy
-41,Enchantment,Common,Invert
-42,Enchantment,Common,Invert
-43,Creature,Rare,Dark Rogue Berserker
-44,Enchantment,Common,Shield
+==================,DECK,4451
+0,Enchantment,Age
+1,Enchantment,Irate Miracle Alacrity
+2,Creature,Eagle
+3,Enchantment,Instant Victory Drain
+4,Artifact,Divine Robe
+5,Creature,Skin-Walker
+6,Enchantment,Cataclysmic Shield
+7,Enchantment,Haste
+8,Creature,Aura Assassin Cyclops
+9,Creature,Frozen Queen Orc
+10,Creature,Eagle
+11,Enchantment,Irate Oblivion Blight
+12,Creature,Wolf
+13,Creature,Berserker
+14,Enchantment,Urgent Victory Invert
+15,Creature,Troll
+16,Creature,Berserker
+17,Enchantment,Invert
+18,Creature,Warlock
+19,Enchantment,Strength
+20,Artifact,Sword
+21,Creature,Magi
+22,Enchantment,Agony
+23,Creature,Wolf
+24,Creature,Magi
+25,Creature,Berserker
+26,Creature,Eagle
+27,Creature,Magi
+28,Creature,Skin-Walker
+29,Creature,Frozen Fighter Griffin
+30,Spell,Infuriate
+31,Creature,Aura Knight Goblin
+32,Creature,Death Lord Oni of the Low Hills
+33,Creature,Fairy
+34,Spell,Hypnosis
+35,Creature,Eagle
+36,Enchantment,Shield
+37,Creature,Earth Assassin Goblin
+38,Spell,Fireball
+39,Artifact,Ring
+40,Spell,Frost
+41,Enchantment,Lethargy
+42,Enchantment,Strength
+43,Creature,Dark Rogue Goblin
+44,Enchantment,Flight

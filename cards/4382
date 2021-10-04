@@ -1,46 +1,46 @@
-==================,DECK,4382,Light
-0,Creature,Mythic,Dark Undead Dragon of Illusion
-1,Spell,Rare,Grim Rage
-2,Creature,Common,Elf
-3,Creature,Legendary,Death Merchant Kraken of the Bright Mountains
-4,Creature,Common,Elf
-5,Spell,Common,Pandemonium
-6,Creature,Common,Spider
-7,Artifact,Legendary,Urgent Tome
-8,Enchantment,Common,Lethargy
-9,Enchantment,Common,Age
-10,Creature,Common,Dwarf
-11,Enchantment,Common,Invert
-12,Enchantment,Rare,Forged Lethargy
-13,Creature,Rare,Earth Fighter Hydra
-14,Enchantment,Mythic,Intense Drain
-15,Creature,Common,Warlock
-16,Artifact,Common,Potion
-17,Creature,Common,Warlock
-18,Creature,Common,Wolf
-19,Creature,Legendary,Frozen Monk Orge of the Mountains
-20,Enchantment,Common,Alacrity
-21,Enchantment,Mythic,Instant Strength
-22,Spell,Common,Stun
-23,Spell,Common,Vortex
-24,Enchantment,Common,Drain
-25,Artifact,Common,Boots
-26,Spell,Common,Stun
-27,Spell,Common,Invisibility
-28,Enchantment,Common,Lethargy
-29,Artifact,Common,Staff
-30,Creature,Common,Eagle
-31,Creature,Rare,Earth Undead Berserker
-32,Artifact,Common,Potion
-33,Creature,Common,Orc
-34,Artifact,Common,Bow
-35,Creature,Common,Magi
-36,Artifact,Common,Potion
-37,Artifact,Rare,Nature Divine Robe
-38,Creature,Common,Orc
-39,Creature,Common,Magi
-40,Enchantment,Mythic,Extreme Lethargy
-41,Enchantment,Common,Drain
-42,Creature,Common,Orc
-43,Creature,Common,Ghoul
-44,Spell,Common,Wall
+==================,DECK,4382
+0,Creature,Dark Undead Dragon of Illusion
+1,Spell,Life Frenzy
+2,Creature,Warlock
+3,Creature,Death Merchant Ogre of the Bright Mountains
+4,Creature,Warlock
+5,Spell,Torment
+6,Creature,Paladin
+7,Artifact,Empyrean Hateful Tome
+8,Enchantment,Strength
+9,Enchantment,Age
+10,Creature,Magi
+11,Enchantment,Shrink
+12,Enchantment,Lunar Alacrity
+13,Creature,Earth Fighter Hydra
+14,Enchantment,Zealous Forged Deathgrip
+15,Creature,Berserker
+16,Artifact,Potion
+17,Creature,Berserker
+18,Creature,Wolf
+19,Creature,Frozen Monk Elf of the Mountains
+20,Enchantment,Shade
+21,Enchantment,Urgent Solar Agony
+22,Spell,Stun
+23,Spell,Hypnosis
+24,Enchantment,Agony
+25,Artifact,Boots
+26,Spell,Fireball
+27,Spell,Stun
+28,Enchantment,Invert
+29,Artifact,Staff
+30,Creature,Eagle
+31,Creature,Earth Undead Goblin
+32,Artifact,Potion
+33,Creature,Spider
+34,Artifact,Bow
+35,Creature,Fairy
+36,Artifact,Potion
+37,Artifact,Shimmering Divine Robe
+38,Creature,Spider
+39,Creature,Fairy
+40,Enchantment,Irate Lunar Alacrity
+41,Enchantment,Lethargy
+42,Creature,Spider
+43,Creature,Ghoul
+44,Spell,Burst

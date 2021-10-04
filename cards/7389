@@ -1,46 +1,46 @@
-==================,DECK,7389,Light
-0,Artifact,Common,Ring
-1,Enchantment,Common,Alacrity
-2,Creature,Common,Orc
-3,Artifact,Legendary,Mighty Pendant
-4,Creature,Common,Ghoul
-5,Artifact,Common,Crown
-6,Creature,Rare,Snow Warrior Berserker
-7,Spell,Rare,Miracle Reanimate
-8,Enchantment,Common,Shade
-9,Creature,Common,Elf
-10,Spell,Legendary,Urgent Rage
-11,Artifact,Common,Sword
-12,Enchantment,Common,Agony
-13,Creature,Common,Spider
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Flight
-16,Creature,Rare,Frozen Thief Fairy
-17,Creature,Common,Orc
-18,Creature,Common,Spider
-19,Creature,Rare,Frozen Queen Minotaur
-20,Creature,Common,Goblin
-21,Creature,Legendary,Frozen Warrior Orge of the Black Stone
-22,Creature,Common,Magi
-23,Artifact,Common,Scepter
-24,Artifact,Common,Greaves
-25,Creature,Common,Dwarf
-26,Spell,Rare,Hateful Infuriate
-27,Creature,Rare,Light Knight Griffin
-28,Artifact,Common,Ring
-29,Enchantment,Rare,Oblivion Strength
-30,Creature,Legendary,Snow Merchant Cyclops of the Golden Palace
-31,Enchantment,Common,Drain
-32,Creature,Common,Orc
-33,Creature,Rare,Snow Fighter Hydra
-34,Spell,Common,Rage
-35,Spell,Common,Torment
-36,Creature,Rare,Aura Thief Fairy
-37,Spell,Legendary,Potent Wall
-38,Enchantment,Common,Age
-39,Creature,Common,Eagle
-40,Creature,Common,Warlock
-41,Artifact,Legendary,Extreme Belt
-42,Enchantment,Common,Age
-43,Creature,Common,Magi
-44,Enchantment,Rare,Shimmering Flight
+==================,DECK,7389
+0,Artifact,Ring
+1,Enchantment,Shrink
+2,Creature,Spider
+3,Artifact,Zealous Dark Pendant
+4,Creature,Ghoul
+5,Artifact,Crown
+6,Creature,Snow Warrior Goblin
+7,Spell,Oblivion Stricken
+8,Enchantment,Shrink
+9,Creature,Warlock
+10,Spell,Irate Corpse Burst
+11,Artifact,Sword
+12,Enchantment,Agony
+13,Creature,Paladin
+14,Creature,Ghoul
+15,Enchantment,Age
+16,Creature,Frozen Thief Kraken
+17,Creature,Spider
+18,Creature,Paladin
+19,Creature,Frozen Queen Cyclops
+20,Creature,Skin-Walker
+21,Creature,Frozen Warrior Elf of the Black Stone
+22,Creature,Fairy
+23,Artifact,Scepter
+24,Artifact,Greaves
+25,Creature,Magi
+26,Spell,Gloom Wall
+27,Creature,Light Knight Griffin
+28,Artifact,Ring
+29,Enchantment,Nimble Haste
+30,Creature,Snow Merchant Giant of the Golden Palace
+31,Enchantment,Flight
+32,Creature,Spider
+33,Creature,Snow Fighter Hydra
+34,Spell,Fire
+35,Spell,Rage
+36,Creature,Aura Thief Kraken
+37,Spell,Ardent Frigid Rage
+38,Enchantment,Blight
+39,Creature,Eagle
+40,Creature,Berserker
+41,Artifact,Dire Miracle Belt
+42,Enchantment,Haste
+43,Creature,Fairy
+44,Enchantment,Hateful Strength

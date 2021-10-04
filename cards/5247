@@ -1,46 +1,46 @@
-==================,DECK,5247,Light
-0,Spell,Common,Heal
-1,Spell,Common,Infuriate
-2,Creature,Common,Warlock
-3,Enchantment,Legendary,Extreme Shade
-4,Enchantment,Common,Shield
-5,Creature,Common,Orc
-6,Enchantment,Common,Blight
-7,Spell,Common,Maelstrom
-8,Creature,Common,Ghoul
-9,Creature,Common,Warlock
-10,Enchantment,Rare,Nimble Alacrity
-11,Creature,Common,Wolf
-12,Enchantment,Common,Shield
-13,Spell,Rare,Apocalypse Burst
-14,Enchantment,Common,Shrink
-15,Spell,Common,Gale
-16,Creature,Legendary,Dark Monk Giant of the Polar Woods
-17,Artifact,Common,Potion
-18,Artifact,Rare,Miracle Ring
-19,Spell,Common,Assault
-20,Creature,Mythic,Snow Ancient Demon of Hate
-21,Creature,Rare,Snow Assassin Minotaur
-22,Spell,Common,Stun
-23,Creature,Rare,Light King Griffin
-24,Spell,Common,Infuriate
-25,Spell,Common,Stricken
-26,Artifact,Legendary,Extreme Ring
-27,Creature,Common,Eagle
-28,Creature,Legendary,Light Monk Giant of the Arctic Blizzards
-29,Creature,Rare,Dark Thief Minotaur
-30,Artifact,Common,Shield
-31,Creature,Rare,Earth Undead Fairy
-32,Creature,Common,Magi
-33,Artifact,Common,Ghost Wand
-34,Spell,Common,Gale
-35,Spell,Rare,Gloom Rage
-36,Spell,Common,Frenzy
-37,Enchantment,Rare,Nature Blight
-38,Creature,Common,Magi
-39,Spell,Common,Frenzy
-40,Artifact,Common,Sword
-41,Enchantment,Rare,Necro Haste
-42,Artifact,Rare,Apocalypse Boots
-43,Spell,Common,Assault
-44,Spell,Common,Lightning
+==================,DECK,5247
+0,Spell,Vortex
+1,Spell,Invisibility
+2,Creature,Berserker
+3,Enchantment,Instant Chimeric Shrink
+4,Enchantment,Deathgrip
+5,Creature,Spider
+6,Enchantment,Shade
+7,Spell,Burst
+8,Creature,Ghoul
+9,Creature,Berserker
+10,Enchantment,Forged Strength
+11,Creature,Wolf
+12,Enchantment,Deathgrip
+13,Spell,Grim Wall
+14,Enchantment,Blight
+15,Spell,Vortex
+16,Creature,Dark Monk Dwarf of the Polar Woods
+17,Artifact,Potion
+18,Artifact,Grim Ring
+19,Spell,Fury
+20,Creature,Snow Ancient Demon of Hate
+21,Creature,Snow Assassin Cyclops
+22,Spell,Frenzy
+23,Creature,Light King Griffin
+24,Spell,Hypnosis
+25,Spell,Frenzy
+26,Artifact,Clever Sorrow Ring
+27,Creature,Eagle
+28,Creature,Light Monk Dwarf of the Arctic Blizzards
+29,Creature,Dark Thief Cyclops
+30,Artifact,Shield
+31,Creature,Earth Undead Kraken
+32,Creature,Fairy
+33,Artifact,Ghost Wand
+34,Spell,Rage
+35,Spell,Gloom Torment
+36,Spell,Fury
+37,Enchantment,Solar Deathgrip
+38,Creature,Fairy
+39,Spell,Hypnosis
+40,Artifact,Sword
+41,Enchantment,Corpse Strength
+42,Artifact,Victory Boots
+43,Spell,Fireball
+44,Spell,Tempest

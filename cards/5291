@@ -1,46 +1,46 @@
-==================,DECK,5291,Light
-0,Creature,Mythic,Dark Grand Wizard of Illusion
-1,Creature,Common,Elf
-2,Creature,Legendary,Death Thief Cyclops of the Border
-3,Spell,Common,Hypnosis
-4,Creature,Rare,Dark Warrior Skin-Walker
-5,Enchantment,Common,Age
-6,Creature,Common,Warlock
-7,Enchantment,Common,Agony
-8,Spell,Common,Freeze
-9,Creature,Mythic,Snow Time Dragon of Hate
-10,Creature,Common,Wolf
-11,Spell,Common,Reanimate
-12,Artifact,Common,Potion
-13,Enchantment,Rare,Lunar Haste
-14,Creature,Common,Magi
-15,Creature,Rare,Snow Knight Skin-Walker
-16,Creature,Common,Wolf
-17,Artifact,Common,Helm
-18,Spell,Legendary,Intense Wall
-19,Creature,Common,Elf
-20,Artifact,Legendary,Mighty Cloak
-21,Creature,Rare,Death Merchant Minotaur
-22,Creature,Rare,Death Undead Fairy
-23,Spell,Common,Reanimate
-24,Creature,Legendary,Snow Monk Cyclops of the Eastern Skies
-25,Spell,Rare,Oblivion Rage
-26,Enchantment,Common,Shield
-27,Spell,Rare,Miracle Pandemonium
-28,Creature,Common,Warlock
-29,Artifact,Common,Greaves
-30,Enchantment,Rare,Solar Shade
-31,Enchantment,Rare,Nature Drain
-32,Creature,Common,Elf
-33,Creature,Common,Orc
-34,Spell,Legendary,Extreme Stricken
-35,Spell,Common,Freeze
-36,Enchantment,Common,Agony
-37,Artifact,Legendary,Mighty Helmet
-38,Creature,Rare,Aura Merchant Berserker
-39,Creature,Common,Spider
-40,Artifact,Common,Bow
-41,Artifact,Common,Scythe
-42,Creature,Common,Wolf
-43,Creature,Legendary,Aura Warrior Orge of the Frozen Castle
-44,Enchantment,Rare,Frigid Strength
+==================,DECK,5291
+0,Creature,Dark Grand Wizard of Illusion
+1,Creature,Warlock
+2,Creature,Death Thief Giant of the Border
+3,Spell,Pandemonium
+4,Creature,Dark Warrior Orc
+5,Enchantment,Invert
+6,Creature,Berserker
+7,Enchantment,Strength
+8,Spell,Burst
+9,Creature,Snow Time Dragon of Hate
+10,Creature,Wolf
+11,Spell,Wall
+12,Artifact,Potion
+13,Enchantment,Miracle Shrink
+14,Creature,Fairy
+15,Creature,Snow Knight Orc
+16,Creature,Wolf
+17,Artifact,Helm
+18,Spell,Instant Nature Ice
+19,Creature,Warlock
+20,Artifact,Ardent Miracle Cloak
+21,Creature,Death Merchant Cyclops
+22,Creature,Death Undead Kraken
+23,Spell,Infuriate
+24,Creature,Snow Monk Giant of the Eastern Skies
+25,Spell,Grim Frost
+26,Enchantment,Blight
+27,Spell,Oblivion Fireball
+28,Creature,Berserker
+29,Artifact,Greaves
+30,Enchantment,Necro Lethargy
+31,Enchantment,Forged Age
+32,Creature,Warlock
+33,Creature,Spider
+34,Spell,Clever Gloom Reanimate
+35,Spell,Wall
+36,Enchantment,Lethargy
+37,Artifact,Irate Cataclysmic Helmet
+38,Creature,Aura Merchant Goblin
+39,Creature,Paladin
+40,Artifact,Bow
+41,Artifact,Scythe
+42,Creature,Wolf
+43,Creature,Aura Warrior Elf of the Frozen Castle
+44,Enchantment,Nimble Haste

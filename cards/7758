@@ -1,46 +1,46 @@
-==================,DECK,7758,Medium
-0,Creature,Common,Elf
-1,Creature,Rare,Frozen Thief Berserker
-2,Creature,Rare,Death Priest Berserker
-3,Enchantment,Common,Shade
-4,Creature,Mythic,Dark Time Phoenix of Illusion
-5,Creature,Common,Spider
-6,Creature,Rare,Dark Thief Griffin
-7,Creature,Common,Orc
-8,Spell,Common,Invisibility
-9,Spell,Common,Vortex
-10,Creature,Common,Spider
-11,Creature,Common,Eagle
-12,Enchantment,Common,Age
-13,Spell,Common,Lightning
-14,Creature,Rare,Aura Warrior Fairy
-15,Creature,Legendary,Frozen Thief Orge of the Polar Woods
-16,Artifact,Rare,Dark Staff
-17,Creature,Rare,Death Monk Berserker
-18,Enchantment,Mythic,Mighty Invert
-19,Enchantment,Rare,Corpse Strength
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Rare,Frigid Lethargy
-22,Creature,Common,Eagle
-23,Creature,Mythic,Light Nameless Phoenix of the Sky
-24,Creature,Common,Goblin
-25,Creature,Rare,Dark Thief Griffin
-26,Spell,Common,Frost
-27,Creature,Common,Magi
-28,Enchantment,Mythic,Potent Flight
-29,Creature,Common,Spider
-30,Creature,Mythic,Death Chaos Wizard of the Dead
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Assault
-33,Artifact,Common,Gloves
-34,Artifact,Common,Scythe
-35,Spell,Common,Burn
-36,Enchantment,Legendary,Extreme Agony
-37,Creature,Common,Paladin
-38,Creature,Common,Orc
-39,Creature,Rare,Earth Undead Fairy
-40,Creature,Common,Wolf
-41,Enchantment,Legendary,Urgent Blight
-42,Creature,Common,Elf
-43,Creature,Common,Spider
-44,Enchantment,Rare,Nature Shrink
+==================,DECK,7758
+0,Creature,Warlock
+1,Creature,Frozen Thief Goblin
+2,Creature,Death Priest Goblin
+3,Enchantment,Shield
+4,Creature,Dark Time Phoenix of Illusion
+5,Creature,Paladin
+6,Creature,Dark Thief Griffin
+7,Creature,Spider
+8,Spell,Rage
+9,Spell,Freeze
+10,Creature,Paladin
+11,Creature,Eagle
+12,Enchantment,Invert
+13,Spell,Vortex
+14,Creature,Aura Warrior Kraken
+15,Creature,Frozen Thief Elf of the Polar Woods
+16,Artifact,Chimeric Staff
+17,Creature,Death Monk Goblin
+18,Enchantment,Instant Sorrow Shrink
+19,Enchantment,Solar Lethargy
+20,Enchantment,Haste
+21,Enchantment,Grim Invert
+22,Creature,Eagle
+23,Creature,Light Nameless Phoenix of the Sky
+24,Creature,Skin-Walker
+25,Creature,Dark Thief Griffin
+26,Spell,Hypnosis
+27,Creature,Fairy
+28,Enchantment,Clever Grim Haste
+29,Creature,Paladin
+30,Creature,Death Chaos Wizard of the Dead
+31,Enchantment,Shrink
+32,Spell,Heal
+33,Artifact,Gloves
+34,Artifact,Scythe
+35,Spell,Fury
+36,Enchantment,Ardent Miracle Shield
+37,Creature,Troll
+38,Creature,Spider
+39,Creature,Earth Undead Kraken
+40,Creature,Wolf
+41,Enchantment,Mighty Solar Agony
+42,Creature,Warlock
+43,Creature,Paladin
+44,Enchantment,Necro Agony

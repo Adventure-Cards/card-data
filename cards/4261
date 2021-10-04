@@ -1,46 +1,46 @@
-==================,DECK,4261,Light
-0,Enchantment,Legendary,Angry Drain
-1,Spell,Common,Sorrow
-2,Artifact,Rare,Gloom Scepter
-3,Artifact,Common,Sword
-4,Artifact,Common,Scythe
-5,Creature,Common,Spider
-6,Spell,Common,Assault
-7,Creature,Common,Paladin
-8,Creature,Legendary,Earth Knight Cyclops of the Swamp
-9,Artifact,Common,Gauntlet
-10,Spell,Common,Torment
-11,Creature,Common,Orc
-12,Artifact,Rare,Hateful Ring
-13,Creature,Rare,Snow Undead Berserker
-14,Spell,Rare,Dark Revive
-15,Spell,Common,Pandemonium
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Magi
-18,Spell,Common,Frost
-19,Artifact,Common,Bow
-20,Creature,Common,Spider
-21,Creature,Common,Paladin
-22,Creature,Legendary,Light Warrior Giant of the West
-23,Enchantment,Common,Shade
-24,Artifact,Common,Divine Robe
-25,Enchantment,Common,Shrink
-26,Enchantment,Mythic,Instant Invert
-27,Spell,Common,Pandemonium
-28,Creature,Rare,Light Monk Hydra
-29,Spell,Common,Fury
-30,Enchantment,Common,Age
-31,Artifact,Common,Gauntlet
-32,Creature,Common,Orc
-33,Creature,Legendary,Dark Lord Cyclops of the Magical Forest
-34,Enchantment,Common,Shade
-35,Creature,Common,Warlock
-36,Creature,Common,Elf
-37,Creature,Common,Wolf
-38,Creature,Common,Eagle
-39,Spell,Common,Heal
-40,Artifact,Common,Boots
-41,Creature,Common,Elf
-42,Creature,Mythic,Dark Grand Demon of Illusion
-43,Creature,Legendary,Snow Assassin Oni of the Mountains
-44,Creature,Common,Orc
+==================,DECK,4261
+0,Enchantment,Mighty Dark Flight
+1,Spell,Burst
+2,Artifact,Gloom Scepter
+3,Artifact,Sword
+4,Artifact,Scythe
+5,Creature,Paladin
+6,Spell,Vortex
+7,Creature,Troll
+8,Creature,Earth Knight Giant of the Swamp
+9,Artifact,Gauntlet
+10,Spell,Vortex
+11,Creature,Spider
+12,Artifact,Sorrow Ring
+13,Creature,Snow Undead Goblin
+14,Spell,Cataclysmic Burn
+15,Spell,Fire
+16,Enchantment,Deathgrip
+17,Creature,Fairy
+18,Spell,Sorrow
+19,Artifact,Bow
+20,Creature,Paladin
+21,Creature,Troll
+22,Creature,Light Warrior Dwarf of the West
+23,Enchantment,Shield
+24,Artifact,Divine Robe
+25,Enchantment,Lethargy
+26,Enchantment,Irate Shimmering Deathgrip
+27,Spell,Freeze
+28,Creature,Light Monk Hydra
+29,Spell,Fire
+30,Enchantment,Shield
+31,Artifact,Gauntlet
+32,Creature,Spider
+33,Creature,Dark Lord Giant of the Magical Forest
+34,Enchantment,Shade
+35,Creature,Berserker
+36,Creature,Warlock
+37,Creature,Wolf
+38,Creature,Eagle
+39,Spell,Maelstrom
+40,Artifact,Boots
+41,Creature,Warlock
+42,Creature,Dark Grand Demon of Illusion
+43,Creature,Snow Assassin Oni of the Mountains
+44,Creature,Spider

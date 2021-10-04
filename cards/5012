@@ -1,46 +1,46 @@
-==================,DECK,5012,Light
-0,Enchantment,Common,Invert
-1,Enchantment,Rare,Miracle Blight
-2,Spell,Rare,Cataclysmic Ice
-3,Creature,Rare,Frozen Lord Hydra
-4,Artifact,Rare,Dark Sword
-5,Spell,Rare,Forged Frenzy
-6,Artifact,Rare,Oblivion Scepter
-7,Creature,Legendary,Frozen Undead Oni of the Bright Mountains
-8,Creature,Common,Paladin
-9,Creature,Common,Elf
-10,Creature,Common,Goblin
-11,Creature,Rare,Aura Thief Fairy
-12,Creature,Common,Eagle
-13,Spell,Rare,Necro Ice
-14,Enchantment,Common,Blight
-15,Creature,Rare,Earth Rogue Berserker
-16,Creature,Rare,Frozen Fighter Griffin
-17,Enchantment,Mythic,Clever Shade
-18,Enchantment,Rare,Oblivion Shield
-19,Creature,Legendary,Dark Assassin Orge of the Golden Palace
-20,Spell,Common,Gravitation
-21,Spell,Legendary,Extreme Revive
-22,Enchantment,Common,Blight
-23,Spell,Common,Vortex
-24,Spell,Common,Reanimate
-25,Spell,Common,Frenzy
-26,Creature,Common,Warlock
-27,Spell,Common,Sorrow
-28,Spell,Common,Burn
-29,Creature,Common,Goblin
-30,Enchantment,Common,Drain
-31,Enchantment,Mythic,Instant Haste
-32,Creature,Common,Goblin
-33,Enchantment,Common,Deathgrip
-34,Creature,Common,Orc
-35,Creature,Rare,Light Lord Minotaur
-36,Enchantment,Common,Drain
-37,Creature,Common,Warlock
-38,Creature,Common,Magi
-39,Enchantment,Common,Agony
-40,Spell,Common,Rage
-41,Spell,Common,Freeze
-42,Spell,Common,Rage
-43,Creature,Common,Ghoul
-44,Creature,Mythic,Aura Undead Phoenix of the Light
+==================,DECK,5012
+0,Enchantment,Shade
+1,Enchantment,Nimble Haste
+2,Spell,Gloom Sorrow
+3,Creature,Frozen Lord Hydra
+4,Artifact,Cataclysmic Sword
+5,Spell,Sorrow Reanimate
+6,Artifact,Oblivion Scepter
+7,Creature,Frozen Undead Oni of the Bright Mountains
+8,Creature,Troll
+9,Creature,Warlock
+10,Creature,Skin-Walker
+11,Creature,Aura Thief Kraken
+12,Creature,Eagle
+13,Spell,Nature Wall
+14,Enchantment,Deathgrip
+15,Creature,Earth Rogue Goblin
+16,Creature,Frozen Fighter Griffin
+17,Enchantment,Dire Frigid Shade
+18,Enchantment,Victory Haste
+19,Creature,Dark Assassin Elf of the Golden Palace
+20,Spell,Stun
+21,Spell,Instant Lunar Gale
+22,Enchantment,Deathgrip
+23,Spell,Gale
+24,Spell,Revive
+25,Spell,Gale
+26,Creature,Berserker
+27,Spell,Sorrow
+28,Spell,Gravitation
+29,Creature,Skin-Walker
+30,Enchantment,Firebreath
+31,Enchantment,Clever Corpse Lethargy
+32,Creature,Skin-Walker
+33,Enchantment,Alacrity
+34,Creature,Spider
+35,Creature,Light Lord Cyclops
+36,Enchantment,Invert
+37,Creature,Berserker
+38,Creature,Fairy
+39,Enchantment,Deathgrip
+40,Spell,Torment
+41,Spell,Pandemonium
+42,Spell,Vortex
+43,Creature,Ghoul
+44,Creature,Aura Undead Phoenix of the Light

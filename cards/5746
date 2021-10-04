@@ -1,46 +1,46 @@
-==================,DECK,5746,Light
-0,Creature,Rare,Frozen Priest Berserker
-1,Artifact,Rare,Corpse Staff
-2,Creature,Common,Eagle
-3,Creature,Common,Dwarf
-4,Spell,Common,Freeze
-5,Creature,Common,Orc
-6,Enchantment,Common,Strength
-7,Spell,Common,Gale
-8,Creature,Common,Eagle
-9,Artifact,Rare,Apocalypse Sword
-10,Spell,Legendary,Instant Lightning
-11,Creature,Common,Warlock
-12,Creature,Common,Goblin
-13,Spell,Rare,Apocalypse Hypnosis
-14,Spell,Common,Maelstrom
-15,Enchantment,Common,Deathgrip
-16,Spell,Rare,Dark Heal
-17,Spell,Common,Burn
-18,Spell,Common,Frost
-19,Spell,Legendary,Mighty Lightning
-20,Spell,Rare,Frigid Torment
-21,Creature,Rare,Death Fighter Fairy
-22,Creature,Common,Ghoul
-23,Artifact,Common,Sword
-24,Enchantment,Common,Age
-25,Spell,Common,Stricken
-26,Enchantment,Common,Deathgrip
-27,Creature,Legendary,Snow Thief Oni of the Eastern Skies
-28,Spell,Common,Heal
-29,Enchantment,Rare,Nature Age
-30,Creature,Common,Ghoul
-31,Spell,Common,Fury
-32,Creature,Common,Goblin
-33,Enchantment,Common,Drain
-34,Spell,Common,Rage
-35,Enchantment,Rare,Hateful Deathgrip
-36,Creature,Common,Warlock
-37,Creature,Legendary,Death Queen Oni of the Swamp
-38,Artifact,Rare,Gloom Potion
-39,Creature,Common,Elf
-40,Creature,Common,Spider
-41,Creature,Rare,Earth Rogue Berserker
-42,Creature,Common,Warlock
-43,Creature,Common,Spider
-44,Spell,Common,Hypnosis
+==================,DECK,5746
+0,Creature,Frozen Priest Goblin
+1,Artifact,Solar Staff
+2,Creature,Eagle
+3,Creature,Magi
+4,Spell,Reanimate
+5,Creature,Spider
+6,Enchantment,Shade
+7,Spell,Burn
+8,Creature,Eagle
+9,Artifact,Life Sword
+10,Spell,Irate Solar Burn
+11,Creature,Berserker
+12,Creature,Skin-Walker
+13,Spell,Victory Gravitation
+14,Spell,Freeze
+15,Enchantment,Age
+16,Spell,Gloom Wall
+17,Spell,Stricken
+18,Spell,Heal
+19,Spell,Ardent Lunar Maelstrom
+20,Spell,Grim Tempest
+21,Creature,Death Fighter Kraken
+22,Creature,Ghoul
+23,Artifact,Sword
+24,Enchantment,Shield
+25,Spell,Wall
+26,Enchantment,Invert
+27,Creature,Snow Thief Oni of the Eastern Skies
+28,Spell,Frost
+29,Enchantment,Nature Strength
+30,Creature,Ghoul
+31,Spell,Stricken
+32,Creature,Skin-Walker
+33,Enchantment,Shield
+34,Spell,Tempest
+35,Enchantment,Sorrow Flight
+36,Creature,Berserker
+37,Creature,Death Queen Oni of the Swamp
+38,Artifact,Dark Potion
+39,Creature,Warlock
+40,Creature,Paladin
+41,Creature,Earth Rogue Goblin
+42,Creature,Berserker
+43,Creature,Paladin
+44,Spell,Burst

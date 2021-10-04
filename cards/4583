@@ -1,46 +1,46 @@
-==================,DECK,4583,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Light Warrior Berserker
-2,Creature,Common,Eagle
-3,Artifact,Rare,Gloom Pendant
-4,Creature,Common,Goblin
-5,Enchantment,Mythic,Dire Deathgrip
-6,Creature,Mythic,Frozen Grand Wizard of the Void
-7,Creature,Mythic,Earth Undead Dragon of the Shadows
-8,Creature,Common,Spider
-9,Spell,Rare,Nimble Frost
-10,Spell,Common,Stun
-11,Creature,Legendary,Snow Assassin Oni of the Polar Woods
-12,Creature,Rare,Death Queen Minotaur
-13,Creature,Mythic,Dark Time Dragon of Illusion
-14,Spell,Common,Freeze
-15,Creature,Common,Paladin
-16,Artifact,Legendary,Potent Pendant
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Sorrow
-19,Spell,Common,Heal
-20,Spell,Rare,Forged Frenzy
-21,Spell,Rare,Grim Gravitation
-22,Creature,Rare,Death Rogue Skin-Walker
-23,Artifact,Rare,Shimmering Crown
-24,Enchantment,Legendary,Potent Shield
-25,Artifact,Common,Ring
-26,Creature,Common,Warlock
-27,Creature,Rare,Light Warrior Berserker
-28,Spell,Rare,Oblivion Assault
-29,Artifact,Common,Belt
-30,Spell,Common,Reanimate
-31,Creature,Common,Spider
-32,Creature,Common,Magi
-33,Creature,Common,Wolf
-34,Creature,Rare,Aura Queen Fairy
-35,Creature,Legendary,Earth Thief Orge of the Black Stone
-36,Creature,Legendary,Death Warrior Oni of the Black Stone
-37,Enchantment,Mythic,Instant Shade
-38,Enchantment,Common,Drain
-39,Spell,Common,Maelstrom
-40,Creature,Common,Ghoul
-41,Creature,Common,Magi
-42,Spell,Common,Invisibility
-43,Creature,Rare,Snow Fighter Fairy
-44,Enchantment,Common,Drain
+==================,DECK,4583
+0,Creature,Berserker
+1,Creature,Light Warrior Goblin
+2,Creature,Eagle
+3,Artifact,Lunar Pendant
+4,Creature,Skin-Walker
+5,Enchantment,Empyrean Oblivion Shade
+6,Creature,Frozen Grand Wizard of the Void
+7,Creature,Earth Undead Dragon of the Shadows
+8,Creature,Paladin
+9,Spell,Forged Fire
+10,Spell,Maelstrom
+11,Creature,Snow Assassin Oni of the Polar Woods
+12,Creature,Death Queen Cyclops
+13,Creature,Dark Time Dragon of Illusion
+14,Spell,Burst
+15,Creature,Troll
+16,Artifact,Zealous Life Pendant
+17,Enchantment,Lethargy
+18,Spell,Pandemonium
+19,Spell,Ice
+20,Spell,Dark Gravitation
+21,Spell,Frigid Gravitation
+22,Creature,Death Rogue Orc
+23,Artifact,Shimmering Crown
+24,Enchantment,Irate Victory Blight
+25,Artifact,Ring
+26,Creature,Berserker
+27,Creature,Light Warrior Goblin
+28,Spell,Apocalypse Fire
+29,Artifact,Belt
+30,Spell,Wall
+31,Creature,Paladin
+32,Creature,Fairy
+33,Creature,Wolf
+34,Creature,Aura Queen Kraken
+35,Creature,Earth Thief Elf of the Black Stone
+36,Creature,Death Warrior Oni of the Black Stone
+37,Enchantment,Irate Necro Deathgrip
+38,Enchantment,Shade
+39,Spell,Frost
+40,Creature,Ghoul
+41,Creature,Fairy
+42,Spell,Maelstrom
+43,Creature,Snow Fighter Kraken
+44,Enchantment,Blight

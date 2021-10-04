@@ -1,46 +1,46 @@
-==================,DECK,6764,Medium
-0,Creature,Common,Magi
-1,Artifact,Legendary,Instant Helm
-2,Creature,Rare,Death Thief Hydra
-3,Enchantment,Common,Shield
-4,Creature,Mythic,Frozen Grand Wizard of the Void
-5,Spell,Rare,Gloom Heal
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Elf
-8,Creature,Rare,Death Fighter Minotaur
-9,Enchantment,Mythic,Urgent Shield
-10,Creature,Common,Dwarf
-11,Creature,Common,Warlock
-12,Creature,Common,Elf
-13,Spell,Common,Frenzy
-14,Creature,Common,Goblin
-15,Spell,Rare,Grim Assault
-16,Enchantment,Common,Shade
-17,Artifact,Common,Ring
-18,Artifact,Common,Helm
-19,Creature,Rare,Aura Monk Minotaur
-20,Creature,Rare,Light King Minotaur
-21,Creature,Rare,Death Priest Griffin
-22,Creature,Common,Orc
-23,Creature,Common,Warlock
-24,Creature,Rare,Aura Lord Skin-Walker
-25,Spell,Common,Reanimate
-26,Creature,Common,Wolf
-27,Artifact,Common,Sword
-28,Creature,Legendary,Frozen Warrior Giant of the Plains
-29,Creature,Mythic,Light Time Dragon of the Sky
-30,Creature,Rare,Frozen Knight Griffin
-31,Artifact,Legendary,Instant Scythe
-32,Spell,Common,Stricken
-33,Creature,Rare,Snow Rogue Skin-Walker
-34,Creature,Common,Paladin
-35,Enchantment,Legendary,Urgent Alacrity
-36,Spell,Common,Ice
-37,Artifact,Rare,Hateful Ring
-38,Creature,Rare,Snow Lord Griffin
-39,Creature,Common,Dwarf
-40,Enchantment,Rare,Dark Shield
-41,Enchantment,Common,Lethargy
-42,Creature,Rare,Frozen Warrior Berserker
-43,Creature,Legendary,Aura Assassin Oni of the Black Stone
-44,Enchantment,Common,Blight
+==================,DECK,6764
+0,Creature,Fairy
+1,Artifact,Empyrean Corpse Helm
+2,Creature,Death Thief Hydra
+3,Enchantment,Shrink
+4,Creature,Frozen Grand Wizard of the Void
+5,Spell,Sorrow Maelstrom
+6,Enchantment,Blight
+7,Creature,Warlock
+8,Creature,Death Fighter Cyclops
+9,Enchantment,Ardent Nature Lethargy
+10,Creature,Magi
+11,Creature,Berserker
+12,Creature,Warlock
+13,Spell,Gravitation
+14,Creature,Skin-Walker
+15,Spell,Frigid Fire
+16,Enchantment,Shield
+17,Artifact,Ring
+18,Artifact,Helm
+19,Creature,Aura Monk Cyclops
+20,Creature,Light King Cyclops
+21,Creature,Death Priest Griffin
+22,Creature,Spider
+23,Creature,Berserker
+24,Creature,Aura Lord Orc
+25,Spell,Burst
+26,Creature,Wolf
+27,Artifact,Sword
+28,Creature,Frozen Warrior Dwarf of the Plains
+29,Creature,Light Time Dragon of the Sky
+30,Creature,Frozen Knight Griffin
+31,Artifact,Dire Corpse Scythe
+32,Spell,Gravitation
+33,Creature,Snow Rogue Orc
+34,Creature,Troll
+35,Enchantment,Urgent Forged Agony
+36,Spell,Burst
+37,Artifact,Dark Ring
+38,Creature,Snow Lord Griffin
+39,Creature,Magi
+40,Enchantment,Gloom Shrink
+41,Enchantment,Shade
+42,Creature,Frozen Warrior Goblin
+43,Creature,Aura Assassin Oni of the Black Stone
+44,Enchantment,Haste

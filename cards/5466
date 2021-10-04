@@ -1,46 +1,46 @@
-==================,DECK,5466,Medium
-0,Spell,Common,Stricken
-1,Creature,Common,Orc
-2,Spell,Common,Burst
-3,Spell,Common,Torment
-4,Enchantment,Common,Invert
-5,Spell,Legendary,Mighty Ice
-6,Creature,Common,Paladin
-7,Spell,Rare,Solar Vortex
-8,Spell,Mythic,Urgent Stun
-9,Spell,Common,Maelstrom
-10,Artifact,Common,Divine Robe
-11,Creature,Common,Eagle
-12,Creature,Common,Dwarf
-13,Spell,Common,Lightning
-14,Artifact,Common,Sword
-15,Spell,Rare,Nimble Assault
-16,Creature,Legendary,Death King Giant of the Polar Woods
-17,Creature,Legendary,Light Priest Orge of the Bright Mountains
-18,Enchantment,Common,Age
-19,Creature,Common,Warlock
-20,Spell,Common,Torment
-21,Creature,Common,Elf
-22,Spell,Common,Gravitation
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Creature,Common,Magi
-26,Creature,Legendary,Snow Rogue Kraken of the Eastern Skies
-27,Creature,Rare,Aura Priest Minotaur
-28,Spell,Common,Rage
-29,Enchantment,Common,Haste
-30,Artifact,Common,Pendant
-31,Spell,Rare,Cataclysmic Infuriate
-32,Spell,Common,Gravitation
-33,Creature,Rare,Death Undead Minotaur
-34,Spell,Common,Lightning
-35,Artifact,Common,Bow
-36,Artifact,Rare,Cataclysmic Ring
-37,Spell,Common,Torment
-38,Creature,Legendary,Aura Queen Kraken of the Eternal Land
-39,Creature,Legendary,Frozen Fighter Giant of the Magical Forest
-40,Creature,Rare,Light Warrior Skin-Walker
-41,Enchantment,Common,Shield
-42,Spell,Rare,Gloom Vortex
-43,Spell,Rare,Gloom Vortex
-44,Creature,Common,Eagle
+==================,DECK,5466
+0,Spell,Stun
+1,Creature,Spider
+2,Spell,Reanimate
+3,Spell,Hypnosis
+4,Enchantment,Flight
+5,Spell,Clever Chimeric Frenzy
+6,Creature,Troll
+7,Spell,Hateful Frost
+8,Spell,Empyrean Forged Heal
+9,Spell,Tempest
+10,Artifact,Divine Robe
+11,Creature,Eagle
+12,Creature,Magi
+13,Spell,Vortex
+14,Artifact,Sword
+15,Spell,Necro Sorrow
+16,Creature,Death King Dwarf of the Polar Woods
+17,Creature,Light Priest Elf of the Bright Mountains
+18,Enchantment,Shield
+19,Creature,Berserker
+20,Spell,Infuriate
+21,Creature,Warlock
+22,Spell,Sorrow
+23,Creature,Spider
+24,Creature,Fairy
+25,Creature,Fairy
+26,Creature,Snow Rogue Ogre of the Eastern Skies
+27,Creature,Aura Priest Cyclops
+28,Spell,Burst
+29,Enchantment,Drain
+30,Artifact,Pendant
+31,Spell,Dark Lightning
+32,Spell,Maelstrom
+33,Creature,Death Undead Cyclops
+34,Spell,Torment
+35,Artifact,Bow
+36,Artifact,Cataclysmic Ring
+37,Spell,Burn
+38,Creature,Aura Queen Ogre of the Eternal Land
+39,Creature,Frozen Fighter Dwarf of the Magical Forest
+40,Creature,Light Warrior Orc
+41,Enchantment,Strength
+42,Spell,Sorrow Frenzy
+43,Spell,Lunar Reanimate
+44,Creature,Eagle

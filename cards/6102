@@ -1,46 +1,46 @@
-==================,DECK,6102,Light
-0,Spell,Common,Reanimate
-1,Creature,Legendary,Dark Lord Orge of the Haven
-2,Creature,Common,Wolf
-3,Creature,Common,Orc
-4,Creature,Common,Magi
-5,Enchantment,Common,Shrink
-6,Enchantment,Common,Shade
-7,Creature,Common,Ghoul
-8,Creature,Common,Wolf
-9,Enchantment,Common,Flight
-10,Spell,Common,Frost
-11,Spell,Common,Hypnosis
-12,Spell,Rare,Lunar Hypnosis
-13,Enchantment,Rare,Oblivion Lethargy
-14,Creature,Legendary,Earth Monk Kraken of the Bright Mountains
-15,Creature,Common,Wolf
-16,Spell,Rare,Cataclysmic Gale
-17,Enchantment,Common,Shade
-18,Artifact,Rare,Shimmering Ghost Wand
-19,Spell,Rare,Solar Invisibility
-20,Spell,Legendary,Extreme Heal
-21,Enchantment,Common,Shade
-22,Creature,Rare,Dark Fighter Minotaur
-23,Enchantment,Common,Age
-24,Artifact,Common,Cloak
-25,Spell,Common,Burst
-26,Creature,Common,Dwarf
-27,Artifact,Common,Crown
-28,Creature,Legendary,Aura Rogue Cyclops of the Bright Mountains
-29,Creature,Common,Orc
-30,Creature,Common,Warlock
-31,Enchantment,Mythic,Dire Flight
-32,Artifact,Common,Ghost Wand
-33,Creature,Mythic,Aura Time Phoenix of the Light
-34,Spell,Common,Reanimate
-35,Spell,Common,Vortex
-36,Spell,Common,Ice
-37,Creature,Common,Paladin
-38,Enchantment,Common,Shrink
-39,Creature,Common,Dwarf
-40,Creature,Common,Spider
-41,Creature,Common,Eagle
-42,Enchantment,Mythic,Urgent Alacrity
-43,Artifact,Common,Ring
-44,Enchantment,Rare,Miracle Drain
+==================,DECK,6102
+0,Spell,Torment
+1,Creature,Dark Lord Elf of the Haven
+2,Creature,Wolf
+3,Creature,Spider
+4,Creature,Fairy
+5,Enchantment,Invert
+6,Enchantment,Drain
+7,Creature,Ghoul
+8,Creature,Wolf
+9,Enchantment,Shrink
+10,Spell,Maelstrom
+11,Spell,Gravitation
+12,Spell,Cataclysmic Torment
+13,Enchantment,Grim Haste
+14,Creature,Earth Monk Ogre of the Bright Mountains
+15,Creature,Wolf
+16,Spell,Miracle Stun
+17,Enchantment,Lethargy
+18,Artifact,Solar Ghost Wand
+19,Spell,Hateful Assault
+20,Spell,Irate Miracle Frenzy
+21,Enchantment,Invert
+22,Creature,Dark Fighter Cyclops
+23,Enchantment,Invert
+24,Artifact,Cloak
+25,Spell,Infuriate
+26,Creature,Magi
+27,Artifact,Crown
+28,Creature,Aura Rogue Giant of the Bright Mountains
+29,Creature,Spider
+30,Creature,Berserker
+31,Enchantment,Potent Grim Drain
+32,Artifact,Ghost Wand
+33,Creature,Aura Time Phoenix of the Light
+34,Spell,Pandemonium
+35,Spell,Sorrow
+36,Spell,Invisibility
+37,Creature,Troll
+38,Enchantment,Flight
+39,Creature,Magi
+40,Creature,Paladin
+41,Creature,Eagle
+42,Enchantment,Ardent Forged Lethargy
+43,Artifact,Ring
+44,Enchantment,Apocalypse Haste

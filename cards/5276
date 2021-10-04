@@ -1,46 +1,46 @@
-==================,DECK,5276,Light
-0,Creature,Mythic,Death Nameless Dragon of the Dead
-1,Creature,Common,Wolf
-2,Artifact,Common,Greaves
-3,Creature,Rare,Earth Lord Skin-Walker
-4,Spell,Common,Rage
-5,Creature,Legendary,Earth Thief Kraken of the Plains
-6,Creature,Common,Wolf
-7,Enchantment,Rare,Hateful Haste
-8,Enchantment,Common,Blight
-9,Creature,Common,Elf
-10,Creature,Common,Orc
-11,Creature,Common,Magi
-12,Creature,Rare,Snow Lord Minotaur
-13,Creature,Common,Eagle
-14,Creature,Common,Dwarf
-15,Spell,Legendary,Clever Freeze
-16,Spell,Common,Assault
-17,Creature,Common,Goblin
-18,Artifact,Rare,Frigid Crown
-19,Creature,Common,Wolf
-20,Enchantment,Rare,Grim Invert
-21,Spell,Common,Frenzy
-22,Creature,Rare,Light Fighter Griffin
-23,Creature,Rare,Earth Merchant Hydra
-24,Artifact,Common,Bracers
-25,Spell,Legendary,Extreme Ice
-26,Enchantment,Common,Haste
-27,Spell,Common,Sorrow
-28,Artifact,Common,Ring
-29,Creature,Common,Paladin
-30,Creature,Rare,Aura Undead Griffin
-31,Creature,Rare,Dark Lord Berserker
-32,Creature,Common,Elf
-33,Creature,Legendary,Light Queen Cyclops of the Haven
-34,Creature,Common,Spider
-35,Creature,Common,Orc
-36,Creature,Rare,Frozen Rogue Skin-Walker
-37,Creature,Common,Warlock
-38,Spell,Rare,Frigid Wall
-39,Creature,Common,Orc
-40,Creature,Common,Wolf
-41,Spell,Common,Revive
-42,Creature,Common,Eagle
-43,Spell,Common,Ice
-44,Spell,Legendary,Dire Invisibility
+==================,DECK,5276
+0,Creature,Death Nameless Dragon of the Dead
+1,Creature,Wolf
+2,Artifact,Greaves
+3,Creature,Earth Lord Orc
+4,Spell,Revive
+5,Creature,Earth Thief Ogre of the Plains
+6,Creature,Wolf
+7,Enchantment,Miracle Shield
+8,Enchantment,Firebreath
+9,Creature,Warlock
+10,Creature,Spider
+11,Creature,Fairy
+12,Creature,Snow Lord Cyclops
+13,Creature,Eagle
+14,Creature,Magi
+15,Spell,Irate Oblivion Stricken
+16,Spell,Sorrow
+17,Creature,Skin-Walker
+18,Artifact,Oblivion Crown
+19,Creature,Wolf
+20,Enchantment,Oblivion Shade
+21,Spell,Stricken
+22,Creature,Light Fighter Griffin
+23,Creature,Earth Merchant Hydra
+24,Artifact,Bracers
+25,Spell,Potent Miracle Gale
+26,Enchantment,Invert
+27,Spell,Freeze
+28,Artifact,Ring
+29,Creature,Troll
+30,Creature,Aura Undead Griffin
+31,Creature,Dark Lord Goblin
+32,Creature,Warlock
+33,Creature,Light Queen Giant of the Haven
+34,Creature,Paladin
+35,Creature,Spider
+36,Creature,Frozen Rogue Orc
+37,Creature,Berserker
+38,Spell,Victory Rage
+39,Creature,Spider
+40,Creature,Wolf
+41,Spell,Rage
+42,Creature,Eagle
+43,Spell,Heal
+44,Spell,Dire Grim Lightning

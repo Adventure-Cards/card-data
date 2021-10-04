@@ -1,46 +1,46 @@
-==================,DECK,4625,Medium
-0,Spell,Common,Heal
-1,Creature,Common,Goblin
-2,Enchantment,Common,Age
-3,Creature,Common,Magi
-4,Creature,Rare,Dark Rogue Griffin
-5,Enchantment,Common,Haste
-6,Creature,Rare,Death Knight Skin-Walker
-7,Creature,Rare,Frozen Queen Hydra
-8,Creature,Rare,Light King Fairy
-9,Artifact,Common,Shield
-10,Creature,Common,Goblin
-11,Creature,Mythic,Aura Ancient Demon of the Light
-12,Creature,Rare,Frozen Fighter Griffin
-13,Creature,Common,Wolf
-14,Artifact,Rare,Lunar Gauntlet
-15,Spell,Rare,Frigid Invisibility
-16,Enchantment,Rare,Hateful Drain
-17,Enchantment,Rare,Miracle Blight
-18,Creature,Rare,Frozen Queen Hydra
-19,Creature,Rare,Snow King Fairy
-20,Spell,Common,Burst
-21,Spell,Common,Gravitation
-22,Artifact,Legendary,Potent Scepter
-23,Spell,Rare,Lunar Sorrow
-24,Creature,Common,Paladin
-25,Creature,Rare,Dark Queen Minotaur
-26,Creature,Legendary,Frozen Monk Kraken of the Arctic Blizzards
-27,Spell,Common,Maelstrom
-28,Spell,Rare,Corpse Invisibility
-29,Creature,Legendary,Light Warrior Kraken of the Magical Forest
-30,Creature,Mythic,Death Grand Demon of the Dead
-31,Creature,Common,Elf
-32,Spell,Rare,Solar Heal
-33,Spell,Common,Gravitation
-34,Enchantment,Common,Strength
-35,Creature,Common,Dwarf
-36,Creature,Common,Paladin
-37,Artifact,Rare,Necro Ring
-38,Artifact,Common,Helmet
-39,Creature,Rare,Earth Merchant Griffin
-40,Creature,Common,Magi
-41,Spell,Common,Torment
-42,Enchantment,Common,Blight
-43,Creature,Common,Paladin
-44,Artifact,Common,Shield
+==================,DECK,4625
+0,Spell,Revive
+1,Creature,Skin-Walker
+2,Enchantment,Shrink
+3,Creature,Fairy
+4,Creature,Dark Rogue Griffin
+5,Enchantment,Shrink
+6,Creature,Death Knight Orc
+7,Creature,Frozen Queen Hydra
+8,Creature,Light King Kraken
+9,Artifact,Shield
+10,Creature,Skin-Walker
+11,Creature,Aura Ancient Demon of the Light
+12,Creature,Frozen Fighter Griffin
+13,Creature,Wolf
+14,Artifact,Gloom Gauntlet
+15,Spell,Nimble Frost
+16,Enchantment,Dark Shield
+17,Enchantment,Nimble Blight
+18,Creature,Frozen Queen Hydra
+19,Creature,Snow King Kraken
+20,Spell,Wall
+21,Spell,Stun
+22,Artifact,Potent Grim Scepter
+23,Spell,Miracle Sorrow
+24,Creature,Troll
+25,Creature,Dark Queen Cyclops
+26,Creature,Frozen Monk Ogre of the Arctic Blizzards
+27,Spell,Fireball
+28,Spell,Hateful Gale
+29,Creature,Light Warrior Ogre of the Magical Forest
+30,Creature,Death Grand Demon of the Dead
+31,Creature,Warlock
+32,Spell,Shimmering Sorrow
+33,Spell,Fire
+34,Enchantment,Shrink
+35,Creature,Magi
+36,Creature,Troll
+37,Artifact,Shimmering Ring
+38,Artifact,Helmet
+39,Creature,Earth Merchant Griffin
+40,Creature,Fairy
+41,Spell,Infuriate
+42,Enchantment,Agony
+43,Creature,Troll
+44,Artifact,Shield

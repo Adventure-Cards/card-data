@@ -1,46 +1,46 @@
-==================,DECK,6077,Light
-0,Creature,Rare,Frozen Rogue Berserker
-1,Artifact,Common,Sigil
-2,Enchantment,Mythic,Angry Age
-3,Spell,Common,Lightning
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Creature,Common,Spider
-7,Creature,Common,Warlock
-8,Creature,Rare,Aura Warrior Skin-Walker
-9,Spell,Common,Lightning
-10,Spell,Common,Infuriate
-11,Enchantment,Common,Shrink
-12,Enchantment,Common,Haste
-13,Enchantment,Common,Shade
-14,Creature,Common,Magi
-15,Spell,Common,Sorrow
-16,Spell,Common,Burn
-17,Enchantment,Common,Agony
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Wolf
-21,Enchantment,Common,Strength
-22,Artifact,Common,Scepter
-23,Creature,Common,Eagle
-24,Creature,Common,Paladin
-25,Spell,Common,Hypnosis
-26,Artifact,Common,Shield
-27,Spell,Common,Fury
-28,Creature,Legendary,Light Merchant Cyclops of the Arctic Blizzards
-29,Creature,Common,Paladin
-30,Creature,Common,Wolf
-31,Creature,Common,Goblin
-32,Enchantment,Common,Blight
-33,Spell,Common,Torment
-34,Creature,Common,Goblin
-35,Enchantment,Common,Alacrity
-36,Spell,Rare,Solar Rage
-37,Artifact,Common,Cloak
-38,Spell,Common,Invisibility
-39,Spell,Rare,Life Gale
-40,Spell,Common,Torment
-41,Artifact,Common,Shield
-42,Creature,Common,Orc
-43,Spell,Common,Heal
-44,Artifact,Common,Cloak
+==================,DECK,6077
+0,Creature,Frozen Rogue Goblin
+1,Artifact,Sigil
+2,Enchantment,Clever Gloom Shield
+3,Spell,Ice
+4,Creature,Warlock
+5,Creature,Spider
+6,Creature,Paladin
+7,Creature,Berserker
+8,Creature,Aura Warrior Orc
+9,Spell,Lightning
+10,Spell,Heal
+11,Enchantment,Age
+12,Enchantment,Strength
+13,Enchantment,Blight
+14,Creature,Fairy
+15,Spell,Maelstrom
+16,Spell,Tempest
+17,Enchantment,Firebreath
+18,Creature,Magi
+19,Enchantment,Age
+20,Creature,Wolf
+21,Enchantment,Deathgrip
+22,Artifact,Scepter
+23,Creature,Eagle
+24,Creature,Troll
+25,Spell,Heal
+26,Artifact,Shield
+27,Spell,Reanimate
+28,Creature,Light Merchant Giant of the Arctic Blizzards
+29,Creature,Troll
+30,Creature,Wolf
+31,Creature,Skin-Walker
+32,Enchantment,Blight
+33,Spell,Stricken
+34,Creature,Skin-Walker
+35,Enchantment,Firebreath
+36,Spell,Corpse Gale
+37,Artifact,Cloak
+38,Spell,Stun
+39,Spell,Life Gale
+40,Spell,Sorrow
+41,Artifact,Shield
+42,Creature,Spider
+43,Spell,Revive
+44,Artifact,Cloak

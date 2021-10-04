@@ -1,46 +1,46 @@
-==================,DECK,7120,Light
-0,Enchantment,Common,Strength
-1,Creature,Legendary,Snow Fighter Oni of the Eastern Skies
-2,Enchantment,Common,Flight
-3,Spell,Common,Burst
-4,Creature,Common,Orc
-5,Spell,Rare,Solar Wall
-6,Creature,Legendary,Death Rogue Orge of the Border
-7,Creature,Rare,Light Fighter Hydra
-8,Spell,Common,Maelstrom
-9,Enchantment,Common,Agony
-10,Spell,Common,Infuriate
-11,Creature,Common,Wolf
-12,Spell,Rare,Oblivion Rage
-13,Creature,Common,Spider
-14,Creature,Rare,Light Priest Fairy
-15,Creature,Legendary,Earth Thief Giant of the Low Hills
-16,Creature,Common,Warlock
-17,Creature,Rare,Snow Monk Skin-Walker
-18,Creature,Rare,Snow Thief Hydra
-19,Creature,Common,Magi
-20,Enchantment,Common,Strength
-21,Spell,Rare,Dark Freeze
-22,Enchantment,Common,Alacrity
-23,Creature,Legendary,Earth King Giant of the Black Stone
-24,Enchantment,Mythic,Urgent Flight
-25,Creature,Common,Goblin
-26,Spell,Common,Frost
-27,Creature,Common,Wolf
-28,Spell,Rare,Dark Invisibility
-29,Artifact,Common,Scythe
-30,Creature,Common,Elf
-31,Creature,Rare,Dark King Hydra
-32,Enchantment,Common,Agony
-33,Artifact,Rare,Cataclysmic Crown
-34,Creature,Common,Warlock
-35,Artifact,Common,Tome
-36,Spell,Legendary,Intense Gale
-37,Enchantment,Rare,Necro Deathgrip
-38,Spell,Common,Maelstrom
-39,Creature,Common,Elf
-40,Enchantment,Legendary,Angry Alacrity
-41,Creature,Common,Elf
-42,Creature,Common,Eagle
-43,Creature,Common,Paladin
-44,Creature,Common,Eagle
+==================,DECK,7120
+0,Enchantment,Lethargy
+1,Creature,Snow Fighter Oni of the Eastern Skies
+2,Enchantment,Shade
+3,Spell,Stun
+4,Creature,Spider
+5,Spell,Hateful Burst
+6,Creature,Death Rogue Elf of the Border
+7,Creature,Light Fighter Hydra
+8,Spell,Fury
+9,Enchantment,Flight
+10,Spell,Reanimate
+11,Creature,Wolf
+12,Spell,Oblivion Invisibility
+13,Creature,Paladin
+14,Creature,Light Priest Kraken
+15,Creature,Earth Thief Dwarf of the Low Hills
+16,Creature,Berserker
+17,Creature,Snow Monk Orc
+18,Creature,Snow Thief Hydra
+19,Creature,Fairy
+20,Enchantment,Shrink
+21,Spell,Cataclysmic Fireball
+22,Enchantment,Drain
+23,Creature,Earth King Dwarf of the Black Stone
+24,Enchantment,Clever Hateful Lethargy
+25,Creature,Skin-Walker
+26,Spell,Lightning
+27,Creature,Wolf
+28,Spell,Miracle Hypnosis
+29,Artifact,Scythe
+30,Creature,Warlock
+31,Creature,Dark King Hydra
+32,Enchantment,Lethargy
+33,Artifact,Dark Crown
+34,Creature,Berserker
+35,Artifact,Tome
+36,Spell,Zealous Necro Lightning
+37,Enchantment,Shimmering Lethargy
+38,Spell,Sorrow
+39,Creature,Warlock
+40,Enchantment,Urgent Dark Flight
+41,Creature,Warlock
+42,Creature,Eagle
+43,Creature,Troll
+44,Creature,Eagle

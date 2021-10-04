@@ -1,46 +1,46 @@
-==================,DECK,7030,Medium
-0,Creature,Rare,Death Knight Skin-Walker
-1,Creature,Legendary,Earth Queen Kraken of the Plains
-2,Creature,Common,Spider
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Hateful Deathgrip
-5,Creature,Legendary,Aura Knight Orge of the Polar Woods
-6,Spell,Common,Pandemonium
-7,Creature,Common,Elf
-8,Creature,Common,Magi
-9,Artifact,Common,Bracers
-10,Creature,Rare,Dark Merchant Fairy
-11,Spell,Mythic,Extreme Pandemonium
-12,Enchantment,Common,Shade
-13,Creature,Rare,Dark Priest Fairy
-14,Creature,Common,Orc
-15,Creature,Common,Orc
-16,Enchantment,Mythic,Mighty Flight
-17,Creature,Common,Eagle
-18,Creature,Common,Eagle
-19,Spell,Common,Wall
-20,Creature,Rare,Earth King Hydra
-21,Creature,Common,Eagle
-22,Creature,Mythic,Aura Time Dragon of the Light
-23,Creature,Rare,Death Monk Minotaur
-24,Creature,Common,Dwarf
-25,Spell,Common,Burst
-26,Creature,Legendary,Frozen Merchant Kraken of the Low Hills
-27,Creature,Common,Ghoul
-28,Creature,Common,Magi
-29,Spell,Common,Burst
-30,Enchantment,Rare,Necro Age
-31,Enchantment,Rare,Gloom Invert
-32,Creature,Common,Eagle
-33,Enchantment,Mythic,Extreme Flight
-34,Creature,Mythic,Dark Chaos Wizard of Illusion
-35,Spell,Common,Frost
-36,Creature,Common,Orc
-37,Enchantment,Common,Invert
-38,Spell,Legendary,Extreme Infuriate
-39,Creature,Common,Elf
-40,Creature,Common,Magi
-41,Creature,Rare,Aura Thief Berserker
-42,Creature,Common,Eagle
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Drain
+==================,DECK,7030
+0,Creature,Death Knight Orc
+1,Creature,Earth Queen Ogre of the Plains
+2,Creature,Paladin
+3,Creature,Wolf
+4,Enchantment,Sorrow Shield
+5,Creature,Aura Knight Elf of the Polar Woods
+6,Spell,Revive
+7,Creature,Warlock
+8,Creature,Fairy
+9,Artifact,Bracers
+10,Creature,Dark Merchant Kraken
+11,Spell,Mighty Gloom Wall
+12,Enchantment,Shield
+13,Creature,Dark Priest Kraken
+14,Creature,Spider
+15,Creature,Spider
+16,Enchantment,Potent Lunar Shrink
+17,Creature,Eagle
+18,Creature,Eagle
+19,Spell,Fury
+20,Creature,Earth King Hydra
+21,Creature,Eagle
+22,Creature,Aura Time Dragon of the Light
+23,Creature,Death Monk Cyclops
+24,Creature,Magi
+25,Spell,Assault
+26,Creature,Frozen Merchant Ogre of the Low Hills
+27,Creature,Ghoul
+28,Creature,Fairy
+29,Spell,Wall
+30,Enchantment,Nature Agony
+31,Enchantment,Sorrow Flight
+32,Creature,Eagle
+33,Enchantment,Zealous Lunar Alacrity
+34,Creature,Dark Chaos Wizard of Illusion
+35,Spell,Infuriate
+36,Creature,Spider
+37,Enchantment,Alacrity
+38,Spell,Empyrean Lunar Frenzy
+39,Creature,Warlock
+40,Creature,Fairy
+41,Creature,Aura Thief Goblin
+42,Creature,Eagle
+43,Creature,Ghoul
+44,Enchantment,Shade

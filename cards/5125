@@ -1,46 +1,46 @@
-==================,DECK,5125,Light
-0,Creature,Common,Elf
-1,Spell,Legendary,Intense Rage
-2,Enchantment,Common,Blight
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Drain
-5,Spell,Common,Revive
-6,Spell,Common,Stricken
-7,Creature,Common,Eagle
-8,Creature,Common,Ghoul
-9,Spell,Common,Wall
-10,Spell,Common,Hypnosis
-11,Spell,Rare,Necro Ice
-12,Creature,Common,Magi
-13,Enchantment,Common,Drain
-14,Creature,Common,Elf
-15,Enchantment,Mythic,Dire Strength
-16,Creature,Rare,Light Rogue Minotaur
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Lightning
-19,Artifact,Common,Staff
-20,Creature,Common,Orc
-21,Enchantment,Common,Age
-22,Creature,Common,Wolf
-23,Artifact,Legendary,Instant Pendant
-24,Spell,Common,Sorrow
-25,Creature,Common,Wolf
-26,Creature,Rare,Death Assassin Griffin
-27,Spell,Common,Gravitation
-28,Spell,Common,Maelstrom
-29,Enchantment,Legendary,Angry Agony
-30,Creature,Common,Eagle
-31,Artifact,Common,Bow
-32,Enchantment,Common,Agony
-33,Spell,Rare,Hateful Sorrow
-34,Spell,Rare,Nimble Torment
-35,Creature,Common,Eagle
-36,Creature,Common,Eagle
-37,Artifact,Common,Staff
-38,Creature,Common,Spider
-39,Spell,Legendary,Dire Burn
-40,Spell,Common,Frenzy
-41,Creature,Common,Goblin
-42,Creature,Common,Ghoul
-43,Creature,Common,Elf
-44,Creature,Common,Orc
+==================,DECK,5125
+0,Creature,Warlock
+1,Spell,Irate Shimmering Ice
+2,Enchantment,Alacrity
+3,Creature,Magi
+4,Enchantment,Lethargy
+5,Spell,Pandemonium
+6,Spell,Rage
+7,Creature,Eagle
+8,Creature,Ghoul
+9,Spell,Freeze
+10,Spell,Frost
+11,Spell,Solar Revive
+12,Creature,Fairy
+13,Enchantment,Agony
+14,Creature,Warlock
+15,Enchantment,Dire Nimble Shade
+16,Creature,Light Rogue Cyclops
+17,Enchantment,Alacrity
+18,Spell,Hypnosis
+19,Artifact,Staff
+20,Creature,Spider
+21,Enchantment,Invert
+22,Creature,Wolf
+23,Artifact,Irate Hateful Pendant
+24,Spell,Fury
+25,Creature,Wolf
+26,Creature,Death Assassin Griffin
+27,Spell,Frost
+28,Spell,Invisibility
+29,Enchantment,Irate Miracle Alacrity
+30,Creature,Eagle
+31,Artifact,Bow
+32,Enchantment,Deathgrip
+33,Spell,Sorrow Sorrow
+34,Spell,Shimmering Gravitation
+35,Creature,Eagle
+36,Creature,Eagle
+37,Artifact,Staff
+38,Creature,Paladin
+39,Spell,Zealous Oblivion Fire
+40,Spell,Gale
+41,Creature,Skin-Walker
+42,Creature,Ghoul
+43,Creature,Warlock
+44,Creature,Spider

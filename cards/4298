@@ -1,46 +1,46 @@
-==================,DECK,4298,Light
-0,Spell,Common,Rage
-1,Creature,Common,Paladin
-2,Enchantment,Common,Shield
-3,Creature,Legendary,Dark Thief Oni of the Mountains
-4,Artifact,Common,Shield
-5,Spell,Common,Invisibility
-6,Creature,Common,Wolf
-7,Creature,Common,Dwarf
-8,Spell,Common,Wall
-9,Creature,Legendary,Earth Queen Cyclops of the Eastern Skies
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Frozen Knight Giant of the Polar Woods
-12,Enchantment,Common,Drain
-13,Creature,Rare,Aura King Fairy
-14,Creature,Rare,Earth Merchant Minotaur
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Vortex
-17,Creature,Legendary,Light King Kraken of the Plains
-18,Enchantment,Common,Agony
-19,Creature,Rare,Aura Thief Berserker
-20,Artifact,Rare,Oblivion Belt
-21,Creature,Common,Orc
-22,Creature,Rare,Light Lord Minotaur
-23,Creature,Common,Dwarf
-24,Spell,Legendary,Dire Fury
-25,Spell,Rare,Forged Lightning
-26,Creature,Mythic,Frozen Time Phoenix of the Void
-27,Spell,Common,Torment
-28,Spell,Rare,Apocalypse Reanimate
-29,Creature,Common,Warlock
-30,Enchantment,Common,Strength
-31,Creature,Common,Orc
-32,Enchantment,Rare,Gloom Shield
-33,Artifact,Common,Ring
-34,Spell,Rare,Lunar Stricken
-35,Enchantment,Common,Invert
-36,Creature,Common,Orc
-37,Creature,Common,Eagle
-38,Creature,Legendary,Light Merchant Oni of the Golden Palace
-39,Enchantment,Common,Shrink
-40,Spell,Common,Vortex
-41,Creature,Common,Dwarf
-42,Creature,Common,Dwarf
-43,Creature,Common,Magi
-44,Spell,Rare,Corpse Revive
+==================,DECK,4298
+0,Spell,Fury
+1,Creature,Troll
+2,Enchantment,Agony
+3,Creature,Dark Thief Oni of the Mountains
+4,Artifact,Shield
+5,Spell,Lightning
+6,Creature,Wolf
+7,Creature,Magi
+8,Spell,Wall
+9,Creature,Earth Queen Giant of the Eastern Skies
+10,Creature,Ghoul
+11,Creature,Frozen Knight Dwarf of the Polar Woods
+12,Enchantment,Drain
+13,Creature,Aura King Kraken
+14,Creature,Earth Merchant Cyclops
+15,Enchantment,Flight
+16,Spell,Tempest
+17,Creature,Light King Ogre of the Plains
+18,Enchantment,Shrink
+19,Creature,Aura Thief Goblin
+20,Artifact,Grim Belt
+21,Creature,Spider
+22,Creature,Light Lord Cyclops
+23,Creature,Magi
+24,Spell,Clever Apocalypse Torment
+25,Spell,Lunar Pandemonium
+26,Creature,Frozen Time Phoenix of the Void
+27,Spell,Maelstrom
+28,Spell,Oblivion Gravitation
+29,Creature,Berserker
+30,Enchantment,Firebreath
+31,Creature,Spider
+32,Enchantment,Gloom Shield
+33,Artifact,Ring
+34,Spell,Gloom Gale
+35,Enchantment,Shield
+36,Creature,Spider
+37,Creature,Eagle
+38,Creature,Light Merchant Oni of the Golden Palace
+39,Enchantment,Deathgrip
+40,Spell,Stun
+41,Creature,Magi
+42,Creature,Magi
+43,Creature,Fairy
+44,Spell,Corpse Revive

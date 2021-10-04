@@ -1,46 +1,46 @@
-==================,DECK,4293,Light
-0,Enchantment,Common,Agony
-1,Creature,Common,Elf
-2,Spell,Rare,Life Hypnosis
-3,Spell,Common,Burn
-4,Artifact,Common,Ghost Wand
-5,Creature,Common,Magi
-6,Spell,Common,Lightning
-7,Artifact,Common,Shield
-8,Spell,Common,Vortex
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Blight
-11,Creature,Legendary,Dark King Oni of the Eternal Land
-12,Enchantment,Common,Shrink
-13,Spell,Rare,Miracle Stricken
-14,Creature,Common,Eagle
-15,Spell,Legendary,Intense Fury
-16,Creature,Common,Eagle
-17,Spell,Common,Vortex
-18,Spell,Legendary,Extreme Gravitation
-19,Creature,Common,Spider
-20,Creature,Common,Ghoul
-21,Spell,Common,Assault
-22,Creature,Common,Ghoul
-23,Spell,Common,Stricken
-24,Creature,Legendary,Death Fighter Cyclops of the Plains
-25,Creature,Common,Orc
-26,Enchantment,Common,Blight
-27,Spell,Common,Stun
-28,Artifact,Common,Amulet
-29,Enchantment,Rare,Shimmering Blight
-30,Spell,Common,Fury
-31,Enchantment,Common,Strength
-32,Artifact,Common,Amulet
-33,Creature,Common,Wolf
-34,Creature,Rare,Light Queen Minotaur
-35,Creature,Common,Eagle
-36,Enchantment,Rare,Miracle Drain
-37,Enchantment,Rare,Nature Age
-38,Creature,Legendary,Light Merchant Kraken of the Black Stone
-39,Artifact,Common,Tome
-40,Creature,Common,Wolf
-41,Creature,Common,Wolf
-42,Creature,Common,Elf
-43,Creature,Rare,Snow Warrior Berserker
-44,Enchantment,Rare,Life Age
+==================,DECK,4293
+0,Enchantment,Drain
+1,Creature,Warlock
+2,Spell,Frigid Burn
+3,Spell,Ice
+4,Artifact,Ghost Wand
+5,Creature,Fairy
+6,Spell,Ice
+7,Artifact,Shield
+8,Spell,Ice
+9,Creature,Ghoul
+10,Enchantment,Haste
+11,Creature,Dark King Oni of the Eternal Land
+12,Enchantment,Age
+13,Spell,Frigid Torment
+14,Creature,Eagle
+15,Spell,Potent Necro Freeze
+16,Creature,Eagle
+17,Spell,Fury
+18,Spell,Ardent Cataclysmic Heal
+19,Creature,Paladin
+20,Creature,Ghoul
+21,Spell,Stricken
+22,Creature,Ghoul
+23,Spell,Torment
+24,Creature,Death Fighter Giant of the Plains
+25,Creature,Spider
+26,Enchantment,Agony
+27,Spell,Torment
+28,Artifact,Amulet
+29,Enchantment,Solar Lethargy
+30,Spell,Burst
+31,Enchantment,Shade
+32,Artifact,Amulet
+33,Creature,Wolf
+34,Creature,Light Queen Cyclops
+35,Creature,Eagle
+36,Enchantment,Apocalypse Shade
+37,Enchantment,Nature Agony
+38,Creature,Light Merchant Ogre of the Black Stone
+39,Artifact,Tome
+40,Creature,Wolf
+41,Creature,Wolf
+42,Creature,Warlock
+43,Creature,Snow Warrior Goblin
+44,Enchantment,Victory Drain

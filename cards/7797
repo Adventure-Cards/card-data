@@ -1,46 +1,46 @@
-==================,DECK,7797,Medium
-0,Enchantment,Common,Deathgrip
-1,Creature,Common,Dwarf
-2,Creature,Rare,Light Warrior Hydra
-3,Artifact,Rare,Life Sigil
-4,Creature,Rare,Frozen Thief Minotaur
-5,Spell,Common,Stun
-6,Spell,Common,Rage
-7,Enchantment,Common,Shield
-8,Creature,Rare,Light Warrior Minotaur
-9,Artifact,Rare,Hateful Sword
-10,Spell,Common,Burst
-11,Enchantment,Legendary,Clever Blight
-12,Creature,Rare,Light Knight Fairy
-13,Artifact,Common,Tome
-14,Creature,Mythic,Death Chaos Wizard of the Dead
-15,Enchantment,Common,Shrink
-16,Enchantment,Rare,Necro Age
-17,Creature,Common,Orc
-18,Spell,Common,Assault
-19,Creature,Common,Magi
-20,Creature,Rare,Snow Priest Skin-Walker
-21,Creature,Common,Paladin
-22,Creature,Common,Elf
-23,Creature,Rare,Light Warrior Berserker
-24,Enchantment,Rare,Gloom Invert
-25,Creature,Rare,Earth Warrior Minotaur
-26,Spell,Rare,Lunar Maelstrom
-27,Artifact,Common,Scepter
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Elf
-30,Creature,Rare,Snow Merchant Griffin
-31,Enchantment,Rare,Shimmering Flight
-32,Creature,Mythic,Snow Undead Dragon of Hate
-33,Creature,Common,Warlock
-34,Creature,Legendary,Light Thief Orge of the Mountains
-35,Creature,Mythic,Death Undead Phoenix of the Dead
-36,Artifact,Common,Pendant
-37,Enchantment,Rare,Nature Age
-38,Creature,Common,Dwarf
-39,Creature,Common,Warlock
-40,Creature,Common,Warlock
-41,Artifact,Common,Scythe
-42,Creature,Mythic,Death Nameless Dragon of the Dead
-43,Creature,Common,Dwarf
-44,Enchantment,Rare,Grim Alacrity
+==================,DECK,7797
+0,Enchantment,Alacrity
+1,Creature,Magi
+2,Creature,Light Warrior Hydra
+3,Artifact,Victory Sigil
+4,Creature,Frozen Thief Cyclops
+5,Spell,Rage
+6,Spell,Stricken
+7,Enchantment,Age
+8,Creature,Light Warrior Cyclops
+9,Artifact,Chimeric Sword
+10,Spell,Assault
+11,Enchantment,Mighty Nimble Invert
+12,Creature,Light Knight Kraken
+13,Artifact,Tome
+14,Creature,Death Chaos Wizard of the Dead
+15,Enchantment,Age
+16,Enchantment,Nature Strength
+17,Creature,Spider
+18,Spell,Tempest
+19,Creature,Fairy
+20,Creature,Snow Priest Orc
+21,Creature,Troll
+22,Creature,Warlock
+23,Creature,Light Warrior Goblin
+24,Enchantment,Sorrow Flight
+25,Creature,Earth Warrior Cyclops
+26,Spell,Lunar Pandemonium
+27,Artifact,Scepter
+28,Enchantment,Invert
+29,Creature,Warlock
+30,Creature,Snow Merchant Griffin
+31,Enchantment,Hateful Agony
+32,Creature,Snow Undead Dragon of Hate
+33,Creature,Berserker
+34,Creature,Light Thief Elf of the Mountains
+35,Creature,Death Undead Phoenix of the Dead
+36,Artifact,Pendant
+37,Enchantment,Nature Strength
+38,Creature,Magi
+39,Creature,Berserker
+40,Creature,Berserker
+41,Artifact,Scythe
+42,Creature,Death Nameless Dragon of the Dead
+43,Creature,Magi
+44,Enchantment,Apocalypse Drain

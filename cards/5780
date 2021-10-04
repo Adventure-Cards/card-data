@@ -1,46 +1,46 @@
-==================,DECK,5780,Medium
-0,Enchantment,Common,Agony
-1,Artifact,Common,Sigil
-2,Creature,Common,Goblin
-3,Creature,Common,Ghoul
-4,Creature,Common,Wolf
-5,Artifact,Common,Sword
-6,Creature,Rare,Snow Knight Hydra
-7,Enchantment,Common,Lethargy
-8,Artifact,Rare,Shimmering Potion
-9,Spell,Common,Hypnosis
-10,Artifact,Common,Sigil
-11,Enchantment,Common,Drain
-12,Enchantment,Rare,Nature Flight
-13,Creature,Common,Elf
-14,Enchantment,Common,Shrink
-15,Creature,Common,Wolf
-16,Enchantment,Rare,Grim Lethargy
-17,Enchantment,Rare,Forged Alacrity
-18,Creature,Common,Orc
-19,Artifact,Common,Divine Robe
-20,Creature,Rare,Aura Merchant Hydra
-21,Spell,Common,Stricken
-22,Creature,Legendary,Light Queen Orge of the Magical Forest
-23,Artifact,Rare,Miracle Bracers
-24,Enchantment,Common,Age
-25,Creature,Rare,Dark Priest Hydra
-26,Creature,Common,Goblin
-27,Creature,Common,Spider
-28,Enchantment,Mythic,Mighty Flight
-29,Artifact,Common,Boots
-30,Creature,Legendary,Death Priest Orge of the Arctic Blizzards
-31,Enchantment,Rare,Solar Agony
-32,Spell,Rare,Miracle Burn
-33,Creature,Legendary,Frozen Assassin Giant of the Bright Mountains
-34,Artifact,Common,Belt
-35,Artifact,Common,Belt
-36,Spell,Common,Lightning
-37,Spell,Common,Heal
-38,Creature,Common,Paladin
-39,Enchantment,Common,Shrink
-40,Artifact,Rare,Nimble Scythe
-41,Enchantment,Mythic,Urgent Strength
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Dark Merchant Kraken of the Bright Mountains
-44,Artifact,Common,Scythe
+==================,DECK,5780
+0,Enchantment,Deathgrip
+1,Artifact,Sigil
+2,Creature,Skin-Walker
+3,Creature,Ghoul
+4,Creature,Wolf
+5,Artifact,Sword
+6,Creature,Snow Knight Hydra
+7,Enchantment,Deathgrip
+8,Artifact,Nature Potion
+9,Spell,Rage
+10,Artifact,Sigil
+11,Enchantment,Lethargy
+12,Enchantment,Hateful Strength
+13,Creature,Warlock
+14,Enchantment,Deathgrip
+15,Creature,Wolf
+16,Enchantment,Grim Shade
+17,Enchantment,Dark Firebreath
+18,Creature,Spider
+19,Artifact,Divine Robe
+20,Creature,Aura Merchant Hydra
+21,Spell,Heal
+22,Creature,Light Queen Elf of the Magical Forest
+23,Artifact,Frigid Bracers
+24,Enchantment,Age
+25,Creature,Dark Priest Hydra
+26,Creature,Skin-Walker
+27,Creature,Paladin
+28,Enchantment,Clever Lunar Shield
+29,Artifact,Boots
+30,Creature,Death Priest Elf of the Arctic Blizzards
+31,Enchantment,Corpse Lethargy
+32,Spell,Grim Sorrow
+33,Creature,Frozen Assassin Dwarf of the Bright Mountains
+34,Artifact,Belt
+35,Artifact,Belt
+36,Spell,Fire
+37,Spell,Fury
+38,Creature,Troll
+39,Enchantment,Firebreath
+40,Artifact,Necro Scythe
+41,Enchantment,Urgent Solar Agony
+42,Creature,Magi
+43,Creature,Dark Merchant Ogre of the Bright Mountains
+44,Artifact,Scythe

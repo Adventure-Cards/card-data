@@ -1,46 +1,46 @@
-==================,DECK,6015,Light
-0,Creature,Common,Elf
-1,Creature,Common,Warlock
-2,Creature,Common,Paladin
-3,Creature,Common,Ghoul
-4,Enchantment,Mythic,Instant Agony
-5,Creature,Common,Ghoul
-6,Creature,Common,Elf
-7,Creature,Mythic,Death Chaos Wizard of the Dead
-8,Creature,Common,Ghoul
-9,Spell,Rare,Frigid Vortex
-10,Enchantment,Common,Agony
-11,Creature,Rare,Dark Undead Minotaur
-12,Enchantment,Common,Flight
-13,Spell,Common,Sorrow
-14,Spell,Common,Burn
-15,Spell,Common,Lightning
-16,Enchantment,Common,Strength
-17,Creature,Rare,Snow Thief Berserker
-18,Creature,Rare,Light Thief Griffin
-19,Creature,Common,Elf
-20,Creature,Legendary,Earth Thief Kraken of the Frozen Castle
-21,Creature,Rare,Death Lord Minotaur
-22,Enchantment,Mythic,Angry Shield
-23,Spell,Common,Fury
-24,Creature,Common,Eagle
-25,Spell,Common,Reanimate
-26,Artifact,Common,Gloves
-27,Enchantment,Mythic,Angry Drain
-28,Creature,Common,Ghoul
-29,Spell,Rare,Corpse Rage
-30,Creature,Mythic,Death Grand Demon of the Dead
-31,Artifact,Rare,Corpse Tome
-32,Spell,Common,Stricken
-33,Spell,Rare,Shimmering Maelstrom
-34,Spell,Common,Heal
-35,Artifact,Legendary,Urgent Ghost Wand
-36,Creature,Common,Eagle
-37,Enchantment,Legendary,Instant Agony
-38,Enchantment,Common,Haste
-39,Creature,Rare,Earth Knight Fairy
-40,Creature,Common,Warlock
-41,Enchantment,Common,Shrink
-42,Spell,Common,Burst
-43,Creature,Common,Eagle
-44,Creature,Common,Paladin
+==================,DECK,6015
+0,Creature,Warlock
+1,Creature,Berserker
+2,Creature,Troll
+3,Creature,Ghoul
+4,Enchantment,Irate Corpse Deathgrip
+5,Creature,Ghoul
+6,Creature,Warlock
+7,Creature,Death Chaos Wizard of the Dead
+8,Creature,Ghoul
+9,Spell,Oblivion Fury
+10,Enchantment,Drain
+11,Creature,Dark Undead Cyclops
+12,Enchantment,Drain
+13,Spell,Assault
+14,Spell,Lightning
+15,Spell,Torment
+16,Enchantment,Firebreath
+17,Creature,Snow Thief Goblin
+18,Creature,Light Thief Griffin
+19,Creature,Warlock
+20,Creature,Earth Thief Ogre of the Frozen Castle
+21,Creature,Death Lord Cyclops
+22,Enchantment,Ardent Gloom Shield
+23,Spell,Maelstrom
+24,Creature,Eagle
+25,Spell,Fury
+26,Artifact,Gloves
+27,Enchantment,Mighty Dark Flight
+28,Creature,Ghoul
+29,Spell,Nature Infuriate
+30,Creature,Death Grand Demon of the Dead
+31,Artifact,Forged Tome
+32,Spell,Hypnosis
+33,Spell,Necro Burn
+34,Spell,Fire
+35,Artifact,Mighty Solar Ghost Wand
+36,Creature,Eagle
+37,Enchantment,Ardent Corpse Lethargy
+38,Enchantment,Drain
+39,Creature,Earth Knight Kraken
+40,Creature,Berserker
+41,Enchantment,Haste
+42,Spell,Rage
+43,Creature,Eagle
+44,Creature,Troll

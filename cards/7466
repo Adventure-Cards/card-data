@@ -1,46 +1,46 @@
-==================,DECK,7466,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Paladin
-2,Creature,Legendary,Dark Rogue Kraken of the Black Stone
-3,Enchantment,Rare,Apocalypse Deathgrip
-4,Creature,Legendary,Death Monk Cyclops of the Eastern Skies
-5,Enchantment,Common,Shield
-6,Creature,Rare,Death Merchant Fairy
-7,Artifact,Rare,Nature Staff
-8,Artifact,Common,Ring
-9,Enchantment,Common,Deathgrip
-10,Enchantment,Common,Shield
-11,Creature,Rare,Death Merchant Skin-Walker
-12,Creature,Common,Ghoul
-13,Creature,Common,Wolf
-14,Creature,Common,Paladin
-15,Artifact,Rare,Hateful Potion
-16,Creature,Mythic,Snow Chaos Wizard of Hate
-17,Enchantment,Common,Blight
-18,Enchantment,Mythic,Intense Blight
-19,Artifact,Common,Gloves
-20,Enchantment,Common,Invert
-21,Creature,Rare,Earth Assassin Hydra
-22,Creature,Common,Magi
-23,Artifact,Common,Shield
-24,Artifact,Legendary,Angry Scepter
-25,Enchantment,Rare,Cataclysmic Deathgrip
-26,Artifact,Common,Shield
-27,Spell,Common,Revive
-28,Artifact,Rare,Corpse Sigil
-29,Spell,Common,Assault
-30,Creature,Mythic,Aura Undead Phoenix of the Light
-31,Creature,Rare,Earth Merchant Fairy
-32,Artifact,Common,Bow
-33,Artifact,Common,Sigil
-34,Artifact,Common,Ring
-35,Spell,Rare,Nimble Wall
-36,Creature,Common,Dwarf
-37,Artifact,Common,Staff
-38,Artifact,Rare,Miracle Ring
-39,Enchantment,Rare,Forged Shield
-40,Enchantment,Rare,Gloom Invert
-41,Spell,Common,Maelstrom
-42,Creature,Rare,Dark Monk Griffin
-43,Creature,Common,Spider
-44,Artifact,Rare,Frigid Bracers
+==================,DECK,7466
+0,Creature,Fairy
+1,Creature,Troll
+2,Creature,Dark Rogue Ogre of the Black Stone
+3,Enchantment,Oblivion Drain
+4,Creature,Death Monk Giant of the Eastern Skies
+5,Enchantment,Invert
+6,Creature,Death Merchant Kraken
+7,Artifact,Nature Staff
+8,Artifact,Ring
+9,Enchantment,Deathgrip
+10,Enchantment,Deathgrip
+11,Creature,Death Merchant Orc
+12,Creature,Ghoul
+13,Creature,Wolf
+14,Creature,Troll
+15,Artifact,Miracle Potion
+16,Creature,Snow Chaos Wizard of Hate
+17,Enchantment,Shield
+18,Enchantment,Potent Solar Strength
+19,Artifact,Gloves
+20,Enchantment,Flight
+21,Creature,Earth Assassin Hydra
+22,Creature,Fairy
+23,Artifact,Shield
+24,Artifact,Instant Cataclysmic Scepter
+25,Enchantment,Sorrow Shrink
+26,Artifact,Shield
+27,Spell,Revive
+28,Artifact,Solar Sigil
+29,Spell,Assault
+30,Creature,Aura Undead Phoenix of the Light
+31,Creature,Earth Merchant Kraken
+32,Artifact,Bow
+33,Artifact,Sigil
+34,Artifact,Ring
+35,Spell,Necro Torment
+36,Creature,Magi
+37,Artifact,Staff
+38,Artifact,Frigid Ring
+39,Enchantment,Gloom Shrink
+40,Enchantment,Sorrow Shield
+41,Spell,Assault
+42,Creature,Dark Monk Griffin
+43,Creature,Paladin
+44,Artifact,Nimble Bracers

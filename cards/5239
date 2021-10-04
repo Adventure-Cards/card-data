@@ -1,46 +1,46 @@
-==================,DECK,5239,Light
-0,Creature,Common,Warlock
-1,Artifact,Common,Sword
-2,Enchantment,Common,Flight
-3,Creature,Legendary,Frozen Fighter Orge of the Haven
-4,Spell,Common,Lightning
-5,Creature,Rare,Dark Undead Skin-Walker
-6,Creature,Common,Warlock
-7,Creature,Common,Magi
-8,Enchantment,Common,Strength
-9,Spell,Common,Assault
-10,Enchantment,Rare,Solar Shade
-11,Artifact,Common,Boots
-12,Spell,Rare,Apocalypse Gale
-13,Creature,Mythic,Dark Undead Dragon of Illusion
-14,Enchantment,Common,Shield
-15,Artifact,Legendary,Extreme Bow
-16,Creature,Common,Dwarf
-17,Creature,Common,Spider
-18,Creature,Common,Orc
-19,Spell,Common,Ice
-20,Spell,Legendary,Urgent Ice
-21,Creature,Common,Paladin
-22,Creature,Common,Orc
-23,Enchantment,Legendary,Intense Haste
-24,Artifact,Common,Scythe
-25,Creature,Common,Wolf
-26,Creature,Rare,Earth Merchant Griffin
-27,Artifact,Rare,Grim Ring
-28,Enchantment,Rare,Dark Agony
-29,Artifact,Common,Helmet
-30,Creature,Common,Elf
-31,Creature,Rare,Death Warrior Griffin
-32,Spell,Rare,Corpse Heal
-33,Creature,Common,Dwarf
-34,Artifact,Common,Sigil
-35,Spell,Common,Torment
-36,Spell,Common,Heal
-37,Creature,Common,Dwarf
-38,Spell,Common,Burn
-39,Creature,Legendary,Earth Warrior Oni of the Plains
-40,Creature,Rare,Aura Fighter Minotaur
-41,Artifact,Common,Divine Robe
-42,Creature,Rare,Death King Berserker
-43,Enchantment,Common,Shrink
-44,Creature,Common,Eagle
+==================,DECK,5239
+0,Creature,Berserker
+1,Artifact,Sword
+2,Enchantment,Age
+3,Creature,Frozen Fighter Elf of the Haven
+4,Spell,Torment
+5,Creature,Dark Undead Orc
+6,Creature,Berserker
+7,Creature,Fairy
+8,Enchantment,Flight
+9,Spell,Freeze
+10,Enchantment,Necro Agony
+11,Artifact,Boots
+12,Spell,Apocalypse Wall
+13,Creature,Dark Undead Dragon of Illusion
+14,Enchantment,Alacrity
+15,Artifact,Urgent Chimeric Bow
+16,Creature,Magi
+17,Creature,Paladin
+18,Creature,Spider
+19,Spell,Fireball
+20,Spell,Clever Hateful Heal
+21,Creature,Troll
+22,Creature,Spider
+23,Enchantment,Zealous Corpse Deathgrip
+24,Artifact,Scythe
+25,Creature,Wolf
+26,Creature,Earth Merchant Griffin
+27,Artifact,Grim Ring
+28,Enchantment,Miracle Flight
+29,Artifact,Helmet
+30,Creature,Warlock
+31,Creature,Death Warrior Griffin
+32,Spell,Shimmering Freeze
+33,Creature,Magi
+34,Artifact,Sigil
+35,Spell,Ice
+36,Spell,Maelstrom
+37,Creature,Magi
+38,Spell,Vortex
+39,Creature,Earth Warrior Oni of the Plains
+40,Creature,Aura Fighter Cyclops
+41,Artifact,Divine Robe
+42,Creature,Death King Goblin
+43,Enchantment,Invert
+44,Creature,Eagle

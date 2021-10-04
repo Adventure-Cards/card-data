@@ -1,46 +1,46 @@
-==================,DECK,6341,Medium
-0,Spell,Common,Fury
-1,Spell,Rare,Solar Rage
-2,Creature,Legendary,Death Monk Cyclops of the Black Stone
-3,Creature,Common,Elf
-4,Enchantment,Rare,Solar Strength
-5,Spell,Rare,Life Sorrow
-6,Enchantment,Rare,Gloom Alacrity
-7,Enchantment,Common,Shield
-8,Creature,Common,Spider
-9,Spell,Rare,Apocalypse Stun
-10,Spell,Common,Pandemonium
-11,Spell,Common,Reanimate
-12,Creature,Mythic,Death Ancient Wizard of the Dead
-13,Creature,Common,Orc
-14,Creature,Common,Goblin
-15,Enchantment,Common,Haste
-16,Spell,Common,Freeze
-17,Creature,Common,Goblin
-18,Enchantment,Rare,Cataclysmic Shrink
-19,Creature,Common,Orc
-20,Creature,Legendary,Dark Undead Giant of the Eastern Skies
-21,Artifact,Common,Helm
-22,Creature,Mythic,Snow Nameless Phoenix of Hate
-23,Creature,Common,Goblin
-24,Artifact,Legendary,Urgent Scythe
-25,Artifact,Rare,Forged Bow
-26,Artifact,Rare,Hateful Potion
-27,Spell,Legendary,Dire Fury
-28,Spell,Common,Vortex
-29,Creature,Common,Dwarf
-30,Creature,Rare,Death Priest Hydra
-31,Creature,Common,Warlock
-32,Enchantment,Rare,Frigid Alacrity
-33,Creature,Common,Eagle
-34,Spell,Rare,Gloom Torment
-35,Spell,Common,Rage
-36,Creature,Legendary,Earth Undead Cyclops of the Bright Mountains
-37,Artifact,Common,Sigil
-38,Creature,Rare,Snow Assassin Hydra
-39,Creature,Common,Orc
-40,Artifact,Common,Pendant
-41,Artifact,Rare,Necro Belt
-42,Enchantment,Common,Flight
-43,Spell,Legendary,Angry Maelstrom
-44,Artifact,Common,Bracers
+==================,DECK,6341
+0,Spell,Revive
+1,Spell,Corpse Tempest
+2,Creature,Death Monk Giant of the Black Stone
+3,Creature,Warlock
+4,Enchantment,Solar Strength
+5,Spell,Frigid Fury
+6,Enchantment,Dark Alacrity
+7,Enchantment,Strength
+8,Creature,Paladin
+9,Spell,Frigid Pandemonium
+10,Spell,Heal
+11,Spell,Heal
+12,Creature,Death Ancient Wizard of the Dead
+13,Creature,Spider
+14,Creature,Skin-Walker
+15,Enchantment,Flight
+16,Spell,Lightning
+17,Creature,Skin-Walker
+18,Enchantment,Chimeric Flight
+19,Creature,Spider
+20,Creature,Dark Undead Dwarf of the Eastern Skies
+21,Artifact,Helm
+22,Creature,Snow Nameless Phoenix of Hate
+23,Creature,Skin-Walker
+24,Artifact,Empyrean Solar Scythe
+25,Artifact,Miracle Bow
+26,Artifact,Miracle Potion
+27,Spell,Empyrean Oblivion Fireball
+28,Spell,Revive
+29,Creature,Magi
+30,Creature,Death Priest Hydra
+31,Creature,Berserker
+32,Enchantment,Apocalypse Shade
+33,Creature,Eagle
+34,Spell,Gloom Invisibility
+35,Spell,Fireball
+36,Creature,Earth Undead Giant of the Bright Mountains
+37,Artifact,Sigil
+38,Creature,Snow Assassin Hydra
+39,Creature,Spider
+40,Artifact,Pendant
+41,Artifact,Forged Belt
+42,Enchantment,Deathgrip
+43,Spell,Empyrean Gloom Burst
+44,Artifact,Bracers

@@ -1,46 +1,46 @@
-==================,DECK,7991,Light
-0,Spell,Common,Maelstrom
-1,Spell,Common,Frost
-2,Enchantment,Common,Haste
-3,Enchantment,Common,Shield
-4,Creature,Legendary,Dark Warrior Cyclops of the Mountains
-5,Creature,Common,Orc
-6,Spell,Common,Maelstrom
-7,Creature,Rare,Light Queen Griffin
-8,Enchantment,Common,Shield
-9,Creature,Common,Elf
-10,Creature,Common,Goblin
-11,Artifact,Common,Sword
-12,Spell,Common,Stun
-13,Creature,Common,Orc
-14,Artifact,Rare,Nimble Cloak
-15,Spell,Rare,Hateful Infuriate
-16,Artifact,Common,Cloak
-17,Spell,Common,Maelstrom
-18,Creature,Common,Warlock
-19,Creature,Rare,Light Rogue Minotaur
-20,Spell,Common,Maelstrom
-21,Artifact,Common,Ring
-22,Spell,Legendary,Clever Wall
-23,Artifact,Legendary,Mighty Staff
-24,Spell,Rare,Apocalypse Hypnosis
-25,Spell,Common,Stricken
-26,Spell,Common,Revive
-27,Creature,Rare,Snow King Minotaur
-28,Creature,Rare,Aura Monk Griffin
-29,Enchantment,Common,Flight
-30,Enchantment,Common,Invert
-31,Creature,Common,Spider
-32,Creature,Common,Paladin
-33,Artifact,Common,Helm
-34,Spell,Rare,Frigid Rage
-35,Creature,Common,Ghoul
-36,Spell,Legendary,Instant Heal
-37,Creature,Rare,Light Thief Berserker
-38,Creature,Common,Wolf
-39,Creature,Common,Dwarf
-40,Enchantment,Legendary,Potent Invert
-41,Enchantment,Rare,Gloom Strength
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Age
-44,Enchantment,Common,Shade
+==================,DECK,7991
+0,Spell,Frenzy
+1,Spell,Frost
+2,Enchantment,Shrink
+3,Enchantment,Haste
+4,Creature,Dark Warrior Giant of the Mountains
+5,Creature,Spider
+6,Spell,Stun
+7,Creature,Light Queen Griffin
+8,Enchantment,Blight
+9,Creature,Warlock
+10,Creature,Skin-Walker
+11,Artifact,Sword
+12,Spell,Wall
+13,Creature,Spider
+14,Artifact,Necro Cloak
+15,Spell,Lunar Gravitation
+16,Artifact,Cloak
+17,Spell,Burn
+18,Creature,Berserker
+19,Creature,Light Rogue Cyclops
+20,Spell,Torment
+21,Artifact,Ring
+22,Spell,Instant Life Freeze
+23,Artifact,Zealous Lunar Staff
+24,Spell,Oblivion Vortex
+25,Spell,Freeze
+26,Spell,Pandemonium
+27,Creature,Snow King Cyclops
+28,Creature,Aura Monk Griffin
+29,Enchantment,Haste
+30,Enchantment,Haste
+31,Creature,Paladin
+32,Creature,Troll
+33,Artifact,Helm
+34,Spell,Victory Torment
+35,Creature,Ghoul
+36,Spell,Instant Hateful Ice
+37,Creature,Light Thief Goblin
+38,Creature,Wolf
+39,Creature,Magi
+40,Enchantment,Irate Oblivion Blight
+41,Enchantment,Cataclysmic Shield
+42,Creature,Ghoul
+43,Enchantment,Haste
+44,Enchantment,Strength

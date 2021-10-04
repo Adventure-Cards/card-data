@@ -1,46 +1,46 @@
-==================,DECK,5590,Medium
-0,Spell,Common,Reanimate
-1,Enchantment,Legendary,Angry Shade
-2,Enchantment,Legendary,Mighty Strength
-3,Creature,Common,Dwarf
-4,Creature,Common,Elf
-5,Enchantment,Common,Shrink
-6,Creature,Common,Magi
-7,Enchantment,Common,Lethargy
-8,Creature,Rare,Aura Merchant Hydra
-9,Creature,Common,Eagle
-10,Enchantment,Legendary,Clever Lethargy
-11,Creature,Common,Goblin
-12,Spell,Common,Heal
-13,Enchantment,Common,Haste
-14,Creature,Common,Goblin
-15,Enchantment,Rare,Forged Lethargy
-16,Creature,Legendary,Dark Merchant Giant of the Magical Forest
-17,Creature,Common,Goblin
-18,Creature,Common,Orc
-19,Creature,Common,Magi
-20,Artifact,Common,Tome
-21,Creature,Common,Ghoul
-22,Creature,Rare,Aura Priest Griffin
-23,Artifact,Common,Scepter
-24,Spell,Common,Revive
-25,Creature,Legendary,Light Warrior Oni of the Eternal Land
-26,Creature,Common,Elf
-27,Creature,Common,Goblin
-28,Creature,Common,Elf
-29,Creature,Common,Warlock
-30,Enchantment,Common,Age
-31,Creature,Rare,Frozen Assassin Hydra
-32,Creature,Rare,Death Monk Griffin
-33,Enchantment,Common,Age
-34,Enchantment,Common,Invert
-35,Enchantment,Rare,Cataclysmic Age
-36,Creature,Legendary,Aura Priest Kraken of the Eastern Skies
-37,Creature,Common,Magi
-38,Artifact,Rare,Apocalypse Sword
-39,Creature,Common,Paladin
-40,Enchantment,Rare,Necro Shrink
-41,Spell,Common,Pandemonium
-42,Artifact,Common,Bracers
-43,Enchantment,Common,Age
-44,Creature,Common,Wolf
+==================,DECK,5590
+0,Spell,Heal
+1,Enchantment,Urgent Chimeric Flight
+2,Enchantment,Dire Cataclysmic Firebreath
+3,Creature,Magi
+4,Creature,Warlock
+5,Enchantment,Shrink
+6,Creature,Fairy
+7,Enchantment,Deathgrip
+8,Creature,Aura Merchant Hydra
+9,Creature,Eagle
+10,Enchantment,Irate Grim Blight
+11,Creature,Skin-Walker
+12,Spell,Burst
+13,Enchantment,Alacrity
+14,Creature,Skin-Walker
+15,Enchantment,Lunar Flight
+16,Creature,Dark Merchant Dwarf of the Magical Forest
+17,Creature,Skin-Walker
+18,Creature,Spider
+19,Creature,Fairy
+20,Artifact,Tome
+21,Creature,Ghoul
+22,Creature,Aura Priest Griffin
+23,Artifact,Scepter
+24,Spell,Reanimate
+25,Creature,Light Warrior Oni of the Eternal Land
+26,Creature,Warlock
+27,Creature,Skin-Walker
+28,Creature,Warlock
+29,Creature,Berserker
+30,Enchantment,Firebreath
+31,Creature,Frozen Assassin Hydra
+32,Creature,Death Monk Griffin
+33,Enchantment,Firebreath
+34,Enchantment,Age
+35,Enchantment,Gloom Alacrity
+36,Creature,Aura Priest Ogre of the Eastern Skies
+37,Creature,Fairy
+38,Artifact,Life Sword
+39,Creature,Troll
+40,Enchantment,Necro Age
+41,Spell,Stricken
+42,Artifact,Bracers
+43,Enchantment,Firebreath
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,5286,Light
-0,Creature,Legendary,Death Fighter Orge of the Eternal Land
-1,Artifact,Common,Divine Robe
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Orc
-4,Creature,Common,Dwarf
-5,Creature,Common,Magi
-6,Creature,Common,Warlock
-7,Enchantment,Common,Invert
-8,Spell,Common,Sorrow
-9,Creature,Common,Goblin
-10,Creature,Common,Elf
-11,Creature,Common,Magi
-12,Creature,Rare,Aura Assassin Griffin
-13,Creature,Legendary,Light Thief Giant of the Eternal Land
-14,Creature,Legendary,Dark Assassin Giant of the Frozen Castle
-15,Creature,Common,Wolf
-16,Spell,Common,Fury
-17,Enchantment,Common,Shield
-18,Creature,Rare,Frozen Warrior Skin-Walker
-19,Creature,Common,Spider
-20,Spell,Common,Reanimate
-21,Creature,Common,Magi
-22,Enchantment,Rare,Life Blight
-23,Enchantment,Legendary,Extreme Haste
-24,Creature,Rare,Death King Hydra
-25,Spell,Common,Burst
-26,Artifact,Common,Potion
-27,Enchantment,Common,Blight
-28,Creature,Common,Eagle
-29,Creature,Common,Wolf
-30,Enchantment,Common,Invert
-31,Creature,Rare,Dark Undead Griffin
-32,Enchantment,Rare,Miracle Shrink
-33,Spell,Common,Gravitation
-34,Creature,Rare,Frozen Merchant Fairy
-35,Creature,Common,Dwarf
-36,Creature,Rare,Frozen Thief Fairy
-37,Spell,Common,Hypnosis
-38,Spell,Common,Ice
-39,Creature,Common,Warlock
-40,Creature,Common,Orc
-41,Artifact,Legendary,Urgent Ring
-42,Creature,Common,Paladin
-43,Spell,Common,Invisibility
-44,Creature,Rare,Light Fighter Berserker
+==================,DECK,5286
+0,Creature,Death Fighter Elf of the Eternal Land
+1,Artifact,Divine Robe
+2,Enchantment,Age
+3,Creature,Spider
+4,Creature,Magi
+5,Creature,Fairy
+6,Creature,Berserker
+7,Enchantment,Strength
+8,Spell,Burst
+9,Creature,Skin-Walker
+10,Creature,Warlock
+11,Creature,Fairy
+12,Creature,Aura Assassin Griffin
+13,Creature,Light Thief Dwarf of the Eternal Land
+14,Creature,Dark Assassin Dwarf of the Frozen Castle
+15,Creature,Wolf
+16,Spell,Ice
+17,Enchantment,Shrink
+18,Creature,Frozen Warrior Orc
+19,Creature,Paladin
+20,Spell,Wall
+21,Creature,Fairy
+22,Enchantment,Nimble Blight
+23,Enchantment,Zealous Miracle Alacrity
+24,Creature,Death King Hydra
+25,Spell,Lightning
+26,Artifact,Potion
+27,Enchantment,Firebreath
+28,Creature,Eagle
+29,Creature,Wolf
+30,Enchantment,Age
+31,Creature,Dark Undead Griffin
+32,Enchantment,Frigid Drain
+33,Spell,Revive
+34,Creature,Frozen Merchant Kraken
+35,Creature,Magi
+36,Creature,Frozen Thief Kraken
+37,Spell,Heal
+38,Spell,Frenzy
+39,Creature,Berserker
+40,Creature,Spider
+41,Artifact,Ardent Necro Ring
+42,Creature,Troll
+43,Spell,Gravitation
+44,Creature,Light Fighter Goblin

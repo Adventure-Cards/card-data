@@ -1,46 +1,46 @@
-==================,DECK,4185,Light
-0,Spell,Common,Assault
-1,Creature,Common,Warlock
-2,Creature,Common,Eagle
-3,Creature,Legendary,Death Monk Orge of the Swamp
-4,Spell,Rare,Cataclysmic Ice
-5,Creature,Rare,Aura Monk Fairy
-6,Artifact,Common,Crown
-7,Enchantment,Common,Strength
-8,Enchantment,Common,Shrink
-9,Enchantment,Common,Agony
-10,Creature,Common,Magi
-11,Creature,Common,Dwarf
-12,Creature,Common,Spider
-13,Creature,Common,Magi
-14,Spell,Rare,Frigid Frenzy
-15,Creature,Common,Dwarf
-16,Creature,Mythic,Earth Undead Dragon of the Shadows
-17,Creature,Common,Wolf
-18,Artifact,Common,Shield
-19,Enchantment,Common,Haste
-20,Artifact,Common,Ring
-21,Enchantment,Common,Agony
-22,Spell,Common,Maelstrom
-23,Spell,Common,Ice
-24,Creature,Common,Spider
-25,Enchantment,Mythic,Mighty Deathgrip
-26,Spell,Common,Torment
-27,Creature,Common,Warlock
-28,Spell,Rare,Apocalypse Burn
-29,Creature,Rare,Dark Undead Berserker
-30,Creature,Rare,Frozen Monk Griffin
-31,Creature,Common,Goblin
-32,Creature,Rare,Earth Lord Berserker
-33,Spell,Common,Stricken
-34,Artifact,Common,Bow
-35,Creature,Common,Warlock
-36,Creature,Common,Spider
-37,Enchantment,Common,Shade
-38,Creature,Common,Wolf
-39,Creature,Common,Warlock
-40,Enchantment,Common,Invert
-41,Artifact,Common,Belt
-42,Spell,Common,Freeze
-43,Enchantment,Rare,Cataclysmic Blight
-44,Creature,Common,Magi
+==================,DECK,4185
+0,Spell,Frenzy
+1,Creature,Berserker
+2,Creature,Eagle
+3,Creature,Death Monk Elf of the Swamp
+4,Spell,Dark Stun
+5,Creature,Aura Monk Kraken
+6,Artifact,Crown
+7,Enchantment,Shrink
+8,Enchantment,Invert
+9,Enchantment,Drain
+10,Creature,Fairy
+11,Creature,Magi
+12,Creature,Paladin
+13,Creature,Fairy
+14,Spell,Frigid Sorrow
+15,Creature,Magi
+16,Creature,Earth Undead Dragon of the Shadows
+17,Creature,Wolf
+18,Artifact,Shield
+19,Enchantment,Blight
+20,Artifact,Ring
+21,Enchantment,Shade
+22,Spell,Frenzy
+23,Spell,Ice
+24,Creature,Paladin
+25,Enchantment,Potent Sorrow Shrink
+26,Spell,Frost
+27,Creature,Berserker
+28,Spell,Frigid Sorrow
+29,Creature,Dark Undead Goblin
+30,Creature,Frozen Monk Griffin
+31,Creature,Skin-Walker
+32,Creature,Earth Lord Goblin
+33,Spell,Torment
+34,Artifact,Bow
+35,Creature,Berserker
+36,Creature,Paladin
+37,Enchantment,Agony
+38,Creature,Wolf
+39,Creature,Berserker
+40,Enchantment,Shade
+41,Artifact,Belt
+42,Spell,Torment
+43,Enchantment,Cataclysmic Firebreath
+44,Creature,Fairy

@@ -1,46 +1,46 @@
-==================,DECK,5732,Light
-0,Enchantment,Common,Shield
-1,Spell,Common,Stricken
-2,Spell,Common,Rage
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Agony
-5,Enchantment,Rare,Oblivion Shield
-6,Creature,Rare,Frozen Thief Skin-Walker
-7,Enchantment,Common,Shade
-8,Enchantment,Common,Haste
-9,Spell,Legendary,Urgent Frost
-10,Creature,Legendary,Death Lord Cyclops of the Swamp
-11,Spell,Common,Sorrow
-12,Enchantment,Common,Deathgrip
-13,Creature,Mythic,Light Time Dragon of the Sky
-14,Creature,Common,Elf
-15,Creature,Common,Spider
-16,Artifact,Legendary,Intense Helmet
-17,Artifact,Common,Amulet
-18,Creature,Common,Paladin
-19,Creature,Common,Dwarf
-20,Artifact,Common,Tome
-21,Enchantment,Common,Age
-22,Creature,Rare,Aura Undead Fairy
-23,Enchantment,Common,Blight
-24,Creature,Common,Elf
-25,Creature,Rare,Death Fighter Hydra
-26,Spell,Common,Torment
-27,Spell,Common,Reanimate
-28,Creature,Legendary,Light Priest Kraken of the West
-29,Artifact,Rare,Dark Ring
-30,Creature,Rare,Death Warrior Minotaur
-31,Enchantment,Mythic,Mighty Shrink
-32,Creature,Common,Elf
-33,Enchantment,Common,Age
-34,Creature,Common,Paladin
-35,Creature,Common,Magi
-36,Creature,Rare,Light Rogue Berserker
-37,Creature,Common,Wolf
-38,Enchantment,Mythic,Clever Shrink
-39,Artifact,Rare,Gloom Belt
-40,Spell,Common,Gravitation
-41,Creature,Common,Warlock
-42,Artifact,Common,Sword
-43,Spell,Rare,Lunar Pandemonium
-44,Artifact,Legendary,Mighty Ring
+==================,DECK,5732
+0,Enchantment,Firebreath
+1,Spell,Invisibility
+2,Spell,Revive
+3,Enchantment,Firebreath
+4,Enchantment,Drain
+5,Enchantment,Victory Shade
+6,Creature,Frozen Thief Orc
+7,Enchantment,Alacrity
+8,Enchantment,Drain
+9,Spell,Instant Nature Frost
+10,Creature,Death Lord Giant of the Swamp
+11,Spell,Maelstrom
+12,Enchantment,Haste
+13,Creature,Light Time Dragon of the Sky
+14,Creature,Warlock
+15,Creature,Paladin
+16,Artifact,Zealous Solar Helmet
+17,Artifact,Amulet
+18,Creature,Troll
+19,Creature,Magi
+20,Artifact,Tome
+21,Enchantment,Invert
+22,Creature,Aura Undead Kraken
+23,Enchantment,Shrink
+24,Creature,Warlock
+25,Creature,Death Fighter Hydra
+26,Spell,Stricken
+27,Spell,Invisibility
+28,Creature,Light Priest Ogre of the West
+29,Artifact,Lunar Ring
+30,Creature,Death Warrior Cyclops
+31,Enchantment,Zealous Chimeric Alacrity
+32,Creature,Warlock
+33,Enchantment,Agony
+34,Creature,Troll
+35,Creature,Fairy
+36,Creature,Light Rogue Goblin
+37,Creature,Wolf
+38,Enchantment,Zealous Frigid Blight
+39,Artifact,Lunar Belt
+40,Spell,Tempest
+41,Creature,Berserker
+42,Artifact,Sword
+43,Spell,Cataclysmic Tempest
+44,Artifact,Clever Lunar Ring

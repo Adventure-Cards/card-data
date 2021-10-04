@@ -1,46 +1,46 @@
-==================,DECK,6160,Medium
-0,Creature,Rare,Frozen Thief Berserker
-1,Creature,Common,Warlock
-2,Spell,Mythic,Angry Stricken
-3,Enchantment,Common,Shade
-4,Spell,Common,Hypnosis
-5,Enchantment,Common,Drain
-6,Spell,Common,Reanimate
-7,Artifact,Rare,Apocalypse Crown
-8,Enchantment,Common,Haste
-9,Creature,Common,Eagle
-10,Creature,Rare,Light Undead Fairy
-11,Enchantment,Rare,Solar Invert
-12,Creature,Common,Paladin
-13,Spell,Rare,Lunar Pandemonium
-14,Spell,Rare,Grim Lightning
-15,Spell,Legendary,Mighty Pandemonium
-16,Creature,Common,Dwarf
-17,Enchantment,Rare,Miracle Haste
-18,Enchantment,Legendary,Instant Agony
-19,Artifact,Common,Helm
-20,Spell,Common,Hypnosis
-21,Enchantment,Common,Agony
-22,Creature,Legendary,Light Monk Oni of the Golden Palace
-23,Creature,Mythic,Aura Grand Demon of the Light
-24,Creature,Common,Goblin
-25,Enchantment,Common,Shade
-26,Creature,Rare,Frozen Lord Berserker
-27,Creature,Common,Wolf
-28,Creature,Rare,Earth Assassin Hydra
-29,Creature,Common,Elf
-30,Spell,Common,Stun
-31,Enchantment,Rare,Oblivion Lethargy
-32,Creature,Rare,Frozen Assassin Griffin
-33,Spell,Rare,Corpse Rage
-34,Enchantment,Common,Alacrity
-35,Artifact,Common,Cloak
-36,Creature,Rare,Snow Merchant Skin-Walker
-37,Artifact,Rare,Nimble Gauntlet
-38,Enchantment,Rare,Nimble Invert
-39,Creature,Common,Goblin
-40,Spell,Rare,Frigid Frenzy
-41,Spell,Rare,Miracle Hypnosis
-42,Enchantment,Rare,Necro Flight
-43,Creature,Common,Paladin
-44,Creature,Common,Ghoul
+==================,DECK,6160
+0,Creature,Frozen Thief Goblin
+1,Creature,Berserker
+2,Spell,Zealous Sorrow Heal
+3,Enchantment,Drain
+4,Spell,Hypnosis
+5,Enchantment,Flight
+6,Spell,Tempest
+7,Artifact,Apocalypse Crown
+8,Enchantment,Age
+9,Creature,Eagle
+10,Creature,Light Undead Kraken
+11,Enchantment,Shimmering Agony
+12,Creature,Troll
+13,Spell,Dark Fury
+14,Spell,Life Tempest
+15,Spell,Potent Lunar Fire
+16,Creature,Magi
+17,Enchantment,Life Invert
+18,Enchantment,Dire Corpse Age
+19,Artifact,Helm
+20,Spell,Fury
+21,Enchantment,Firebreath
+22,Creature,Light Monk Oni of the Golden Palace
+23,Creature,Aura Grand Demon of the Light
+24,Creature,Skin-Walker
+25,Enchantment,Shade
+26,Creature,Frozen Lord Goblin
+27,Creature,Wolf
+28,Creature,Earth Assassin Hydra
+29,Creature,Warlock
+30,Spell,Frenzy
+31,Enchantment,Grim Invert
+32,Creature,Frozen Assassin Griffin
+33,Spell,Forged Burst
+34,Enchantment,Haste
+35,Artifact,Cloak
+36,Creature,Snow Merchant Orc
+37,Artifact,Corpse Gauntlet
+38,Enchantment,Shimmering Agony
+39,Creature,Skin-Walker
+40,Spell,Nimble Wall
+41,Spell,Life Gravitation
+42,Enchantment,Hateful Age
+43,Creature,Troll
+44,Creature,Ghoul

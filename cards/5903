@@ -1,46 +1,46 @@
-==================,DECK,5903,Light
-0,Creature,Common,Spider
-1,Creature,Legendary,Frozen Lord Cyclops of the Eternal Land
-2,Spell,Common,Stun
-3,Creature,Common,Elf
-4,Enchantment,Common,Invert
-5,Creature,Common,Elf
-6,Enchantment,Common,Agony
-7,Artifact,Common,Divine Robe
-8,Creature,Rare,Dark Queen Griffin
-9,Enchantment,Common,Haste
-10,Artifact,Common,Belt
-11,Creature,Mythic,Frozen Grand Wizard of the Void
-12,Creature,Legendary,Earth Undead Giant of the West
-13,Spell,Common,Gale
-14,Creature,Rare,Light Merchant Griffin
-15,Creature,Common,Goblin
-16,Creature,Rare,Dark Thief Griffin
-17,Creature,Common,Dwarf
-18,Spell,Legendary,Intense Burst
-19,Creature,Common,Elf
-20,Creature,Common,Elf
-21,Creature,Common,Goblin
-22,Creature,Common,Orc
-23,Creature,Common,Dwarf
-24,Creature,Common,Ghoul
-25,Creature,Common,Ghoul
-26,Creature,Common,Orc
-27,Creature,Legendary,Snow Lord Cyclops of the Black Stone
-28,Enchantment,Common,Shrink
-29,Creature,Common,Elf
-30,Creature,Mythic,Snow Grand Wizard of Hate
-31,Artifact,Common,Pendant
-32,Spell,Rare,Grim Heal
-33,Artifact,Rare,Cataclysmic Ring
-34,Spell,Common,Burn
-35,Enchantment,Mythic,Extreme Drain
-36,Creature,Common,Spider
-37,Enchantment,Common,Haste
-38,Creature,Common,Warlock
-39,Creature,Common,Ghoul
-40,Artifact,Common,Tome
-41,Artifact,Common,Ring
-42,Spell,Common,Ice
-43,Enchantment,Common,Flight
-44,Creature,Common,Paladin
+==================,DECK,5903
+0,Creature,Paladin
+1,Creature,Frozen Lord Giant of the Eternal Land
+2,Spell,Lightning
+3,Creature,Warlock
+4,Enchantment,Shrink
+5,Creature,Warlock
+6,Enchantment,Alacrity
+7,Artifact,Divine Robe
+8,Creature,Dark Queen Griffin
+9,Enchantment,Strength
+10,Artifact,Belt
+11,Creature,Frozen Grand Wizard of the Void
+12,Creature,Earth Undead Dwarf of the West
+13,Spell,Reanimate
+14,Creature,Light Merchant Griffin
+15,Creature,Skin-Walker
+16,Creature,Dark Thief Griffin
+17,Creature,Magi
+18,Spell,Zealous Hateful Invisibility
+19,Creature,Warlock
+20,Creature,Warlock
+21,Creature,Skin-Walker
+22,Creature,Spider
+23,Creature,Magi
+24,Creature,Ghoul
+25,Creature,Ghoul
+26,Creature,Spider
+27,Creature,Snow Lord Giant of the Black Stone
+28,Enchantment,Age
+29,Creature,Warlock
+30,Creature,Snow Grand Wizard of Hate
+31,Artifact,Pendant
+32,Spell,Oblivion Rage
+33,Artifact,Sorrow Ring
+34,Spell,Gravitation
+35,Enchantment,Mighty Dark Flight
+36,Creature,Paladin
+37,Enchantment,Strength
+38,Creature,Berserker
+39,Creature,Ghoul
+40,Artifact,Tome
+41,Artifact,Ring
+42,Spell,Sorrow
+43,Enchantment,Firebreath
+44,Creature,Troll

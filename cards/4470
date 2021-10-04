@@ -1,46 +1,46 @@
-==================,DECK,4470,Medium
-0,Artifact,Common,Bracers
-1,Creature,Common,Paladin
-2,Creature,Common,Wolf
-3,Creature,Common,Ghoul
-4,Creature,Common,Elf
-5,Enchantment,Legendary,Clever Haste
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Paladin
-8,Spell,Common,Ice
-9,Spell,Rare,Life Burst
-10,Spell,Rare,Necro Stricken
-11,Enchantment,Rare,Hateful Drain
-12,Creature,Rare,Death Queen Minotaur
-13,Enchantment,Common,Strength
-14,Enchantment,Legendary,Dire Invert
-15,Spell,Common,Ice
-16,Creature,Common,Ghoul
-17,Artifact,Common,Sword
-18,Enchantment,Common,Alacrity
-19,Enchantment,Common,Flight
-20,Creature,Legendary,Snow Monk Orge of the Bright Mountains
-21,Artifact,Common,Bow
-22,Enchantment,Common,Shrink
-23,Creature,Common,Spider
-24,Enchantment,Rare,Oblivion Invert
-25,Creature,Common,Orc
-26,Enchantment,Legendary,Clever Haste
-27,Spell,Rare,Dark Assault
-28,Creature,Common,Dwarf
-29,Creature,Common,Magi
-30,Creature,Rare,Death Monk Berserker
-31,Creature,Mythic,Earth Grand Demon of the Shadows
-32,Spell,Common,Ice
-33,Spell,Legendary,Mighty Frenzy
-34,Creature,Common,Paladin
-35,Creature,Rare,Frozen Assassin Minotaur
-36,Creature,Rare,Earth Fighter Griffin
-37,Creature,Common,Ghoul
-38,Creature,Common,Wolf
-39,Spell,Common,Hypnosis
-40,Enchantment,Legendary,Dire Deathgrip
-41,Spell,Common,Sorrow
-42,Creature,Common,Wolf
-43,Creature,Rare,Death Assassin Griffin
-44,Spell,Legendary,Potent Pandemonium
+==================,DECK,4470
+0,Artifact,Bracers
+1,Creature,Troll
+2,Creature,Wolf
+3,Creature,Ghoul
+4,Creature,Warlock
+5,Enchantment,Potent Life Drain
+6,Enchantment,Age
+7,Creature,Troll
+8,Spell,Fireball
+9,Spell,Apocalypse Hypnosis
+10,Spell,Hateful Freeze
+11,Enchantment,Dark Shrink
+12,Creature,Death Queen Cyclops
+13,Enchantment,Shrink
+14,Enchantment,Instant Oblivion Drain
+15,Spell,Sorrow
+16,Creature,Ghoul
+17,Artifact,Sword
+18,Enchantment,Firebreath
+19,Enchantment,Deathgrip
+20,Creature,Snow Monk Elf of the Bright Mountains
+21,Artifact,Bow
+22,Enchantment,Shrink
+23,Creature,Paladin
+24,Enchantment,Oblivion Shade
+25,Creature,Spider
+26,Enchantment,Empyrean Life Shade
+27,Spell,Miracle Burn
+28,Creature,Magi
+29,Creature,Fairy
+30,Creature,Death Monk Goblin
+31,Creature,Earth Grand Demon of the Shadows
+32,Spell,Stricken
+33,Spell,Irate Miracle Fireball
+34,Creature,Troll
+35,Creature,Frozen Assassin Cyclops
+36,Creature,Earth Fighter Griffin
+37,Creature,Ghoul
+38,Creature,Wolf
+39,Spell,Freeze
+40,Enchantment,Empyrean Oblivion Shade
+41,Spell,Gravitation
+42,Creature,Wolf
+43,Creature,Death Assassin Griffin
+44,Spell,Potent Victory Fire

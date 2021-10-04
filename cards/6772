@@ -1,46 +1,46 @@
-==================,DECK,6772,Light
-0,Spell,Common,Lightning
-1,Artifact,Rare,Dark Ring
-2,Creature,Rare,Light Lord Griffin
-3,Enchantment,Common,Alacrity
-4,Enchantment,Common,Alacrity
-5,Spell,Common,Fury
-6,Spell,Common,Heal
-7,Creature,Rare,Aura Queen Berserker
-8,Spell,Common,Torment
-9,Creature,Common,Spider
-10,Spell,Common,Heal
-11,Creature,Common,Dwarf
-12,Creature,Common,Ghoul
-13,Creature,Common,Paladin
-14,Creature,Legendary,Frozen Priest Oni of the Swamp
-15,Spell,Common,Torment
-16,Creature,Common,Paladin
-17,Creature,Common,Orc
-18,Artifact,Legendary,Clever Bracers
-19,Creature,Common,Dwarf
-20,Artifact,Rare,Necro Gauntlet
-21,Enchantment,Common,Drain
-22,Creature,Common,Ghoul
-23,Artifact,Common,Bracers
-24,Creature,Common,Ghoul
-25,Spell,Common,Sorrow
-26,Spell,Common,Gale
-27,Spell,Common,Maelstrom
-28,Enchantment,Legendary,Clever Deathgrip
-29,Creature,Common,Warlock
-30,Creature,Mythic,Light Chaos Wizard of the Sky
-31,Creature,Rare,Aura Warrior Minotaur
-32,Artifact,Rare,Oblivion Divine Robe
-33,Creature,Common,Goblin
-34,Creature,Common,Elf
-35,Spell,Common,Hypnosis
-36,Creature,Common,Eagle
-37,Creature,Common,Dwarf
-38,Artifact,Common,Cloak
-39,Creature,Common,Goblin
-40,Creature,Rare,Frozen Merchant Minotaur
-41,Spell,Common,Frenzy
-42,Enchantment,Common,Haste
-43,Enchantment,Rare,Shimmering Shrink
-44,Creature,Common,Paladin
+==================,DECK,6772
+0,Spell,Burst
+1,Artifact,Miracle Ring
+2,Creature,Light Lord Griffin
+3,Enchantment,Alacrity
+4,Enchantment,Deathgrip
+5,Spell,Burn
+6,Spell,Torment
+7,Creature,Aura Queen Goblin
+8,Spell,Frenzy
+9,Creature,Paladin
+10,Spell,Hypnosis
+11,Creature,Magi
+12,Creature,Ghoul
+13,Creature,Troll
+14,Creature,Frozen Priest Oni of the Swamp
+15,Spell,Gale
+16,Creature,Troll
+17,Creature,Spider
+18,Artifact,Zealous Victory Bracers
+19,Creature,Magi
+20,Artifact,Corpse Gauntlet
+21,Enchantment,Invert
+22,Creature,Ghoul
+23,Artifact,Bracers
+24,Creature,Ghoul
+25,Spell,Fury
+26,Spell,Maelstrom
+27,Spell,Torment
+28,Enchantment,Clever Oblivion Haste
+29,Creature,Berserker
+30,Creature,Light Chaos Wizard of the Sky
+31,Creature,Aura Warrior Cyclops
+32,Artifact,Grim Divine Robe
+33,Creature,Skin-Walker
+34,Creature,Warlock
+35,Spell,Invisibility
+36,Creature,Eagle
+37,Creature,Magi
+38,Artifact,Cloak
+39,Creature,Skin-Walker
+40,Creature,Frozen Merchant Cyclops
+41,Spell,Sorrow
+42,Enchantment,Haste
+43,Enchantment,Necro Deathgrip
+44,Creature,Troll

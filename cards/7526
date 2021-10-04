@@ -1,46 +1,46 @@
-==================,DECK,7526,Light
-0,Spell,Common,Frost
-1,Spell,Common,Rage
-2,Spell,Common,Vortex
-3,Creature,Common,Wolf
-4,Creature,Common,Warlock
-5,Creature,Common,Paladin
-6,Artifact,Rare,Frigid Boots
-7,Creature,Common,Elf
-8,Creature,Common,Dwarf
-9,Enchantment,Rare,Shimmering Drain
-10,Enchantment,Rare,Gloom Agony
-11,Creature,Common,Paladin
-12,Enchantment,Rare,Frigid Lethargy
-13,Creature,Legendary,Aura Lord Orge of the Low Hills
-14,Creature,Rare,Earth Merchant Hydra
-15,Enchantment,Common,Strength
-16,Creature,Rare,Light Monk Griffin
-17,Enchantment,Mythic,Urgent Deathgrip
-18,Artifact,Common,Tome
-19,Enchantment,Common,Age
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Creature,Common,Eagle
-23,Creature,Common,Goblin
-24,Creature,Legendary,Aura Warrior Giant of the Arctic Blizzards
-25,Enchantment,Common,Lethargy
-26,Spell,Legendary,Instant Sorrow
-27,Spell,Common,Ice
-28,Creature,Common,Paladin
-29,Enchantment,Rare,Cataclysmic Drain
-30,Enchantment,Rare,Lunar Flight
-31,Enchantment,Common,Shield
-32,Artifact,Common,Belt
-33,Enchantment,Legendary,Instant Haste
-34,Enchantment,Common,Shrink
-35,Creature,Common,Goblin
-36,Creature,Common,Paladin
-37,Artifact,Common,Sword
-38,Creature,Rare,Light Assassin Minotaur
-39,Artifact,Common,Ring
-40,Enchantment,Common,Haste
-41,Creature,Rare,Frozen Assassin Minotaur
-42,Spell,Rare,Cataclysmic Reanimate
-43,Spell,Common,Hypnosis
-44,Spell,Rare,Grim Frost
+==================,DECK,7526
+0,Spell,Freeze
+1,Spell,Hypnosis
+2,Spell,Fire
+3,Creature,Wolf
+4,Creature,Berserker
+5,Creature,Troll
+6,Artifact,Life Boots
+7,Creature,Warlock
+8,Creature,Magi
+9,Enchantment,Forged Deathgrip
+10,Enchantment,Miracle Flight
+11,Creature,Troll
+12,Enchantment,Grim Blight
+13,Creature,Aura Lord Elf of the Low Hills
+14,Creature,Earth Merchant Hydra
+15,Enchantment,Blight
+16,Creature,Light Monk Griffin
+17,Enchantment,Clever Shimmering Lethargy
+18,Artifact,Tome
+19,Enchantment,Age
+20,Creature,Eagle
+21,Creature,Berserker
+22,Creature,Eagle
+23,Creature,Skin-Walker
+24,Creature,Aura Warrior Dwarf of the Arctic Blizzards
+25,Enchantment,Shade
+26,Spell,Zealous Nature Freeze
+27,Spell,Vortex
+28,Creature,Troll
+29,Enchantment,Dark Alacrity
+30,Enchantment,Lunar Flight
+31,Enchantment,Deathgrip
+32,Artifact,Belt
+33,Enchantment,Mighty Corpse Agony
+34,Enchantment,Drain
+35,Creature,Skin-Walker
+36,Creature,Troll
+37,Artifact,Sword
+38,Creature,Light Assassin Cyclops
+39,Artifact,Ring
+40,Enchantment,Age
+41,Creature,Frozen Assassin Cyclops
+42,Spell,Gloom Ice
+43,Spell,Rage
+44,Spell,Frigid Reanimate

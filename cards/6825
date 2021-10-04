@@ -1,46 +1,46 @@
-==================,DECK,6825,Medium
-0,Spell,Rare,Life Ice
-1,Spell,Common,Fury
-2,Creature,Common,Paladin
-3,Enchantment,Common,Haste
-4,Spell,Common,Lightning
-5,Spell,Legendary,Instant Maelstrom
-6,Artifact,Rare,Life Ring
-7,Artifact,Common,Potion
-8,Spell,Common,Frenzy
-9,Creature,Legendary,Dark Rogue Giant of the Bright Mountains
-10,Enchantment,Common,Alacrity
-11,Spell,Common,Maelstrom
-12,Spell,Rare,Dark Vortex
-13,Creature,Rare,Death Queen Minotaur
-14,Creature,Rare,Aura Warrior Hydra
-15,Creature,Common,Magi
-16,Creature,Mythic,Death Time Phoenix of the Dead
-17,Creature,Rare,Frozen Assassin Griffin
-18,Creature,Rare,Snow Queen Berserker
-19,Creature,Legendary,Earth Assassin Orge of the Swamp
-20,Creature,Common,Dwarf
-21,Spell,Common,Stun
-22,Artifact,Rare,Dark Scepter
-23,Spell,Common,Hypnosis
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Spell,Rare,Gloom Frenzy
-27,Creature,Common,Wolf
-28,Creature,Common,Magi
-29,Creature,Rare,Snow Warrior Hydra
-30,Creature,Rare,Snow Queen Hydra
-31,Artifact,Common,Tome
-32,Creature,Common,Ghoul
-33,Spell,Rare,Oblivion Rage
-34,Creature,Common,Wolf
-35,Spell,Common,Fury
-36,Spell,Rare,Hateful Hypnosis
-37,Enchantment,Common,Drain
-38,Creature,Legendary,Death Warrior Cyclops of the Magical Forest
-39,Spell,Rare,Oblivion Gravitation
-40,Spell,Common,Lightning
-41,Enchantment,Common,Strength
-42,Creature,Common,Orc
-43,Creature,Common,Magi
-44,Spell,Rare,Miracle Burn
+==================,DECK,6825
+0,Spell,Victory Maelstrom
+1,Spell,Maelstrom
+2,Creature,Troll
+3,Enchantment,Shrink
+4,Spell,Heal
+5,Spell,Mighty Hateful Revive
+6,Artifact,Oblivion Ring
+7,Artifact,Potion
+8,Spell,Burst
+9,Creature,Dark Rogue Dwarf of the Bright Mountains
+10,Enchantment,Shield
+11,Spell,Vortex
+12,Spell,Miracle Fireball
+13,Creature,Death Queen Cyclops
+14,Creature,Aura Warrior Hydra
+15,Creature,Fairy
+16,Creature,Death Time Phoenix of the Dead
+17,Creature,Frozen Assassin Griffin
+18,Creature,Snow Queen Goblin
+19,Creature,Earth Assassin Elf of the Swamp
+20,Creature,Magi
+21,Spell,Reanimate
+22,Artifact,Sorrow Scepter
+23,Spell,Reanimate
+24,Creature,Magi
+25,Creature,Berserker
+26,Spell,Chimeric Reanimate
+27,Creature,Wolf
+28,Creature,Fairy
+29,Creature,Snow Warrior Hydra
+30,Creature,Snow Queen Hydra
+31,Artifact,Tome
+32,Creature,Ghoul
+33,Spell,Life Stricken
+34,Creature,Wolf
+35,Spell,Heal
+36,Spell,Sorrow Heal
+37,Enchantment,Age
+38,Creature,Death Warrior Giant of the Magical Forest
+39,Spell,Frigid Reanimate
+40,Spell,Gravitation
+41,Enchantment,Age
+42,Creature,Spider
+43,Creature,Fairy
+44,Spell,Grim Vortex

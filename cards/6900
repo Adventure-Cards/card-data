@@ -1,46 +1,46 @@
-==================,DECK,6900,Light
-0,Creature,Rare,Earth Lord Griffin
-1,Spell,Common,Freeze
-2,Creature,Common,Ghoul
-3,Creature,Common,Paladin
-4,Spell,Common,Frost
-5,Artifact,Common,Belt
-6,Creature,Legendary,Snow Fighter Oni of the Swamp
-7,Spell,Common,Freeze
-8,Spell,Common,Gale
-9,Creature,Common,Wolf
-10,Creature,Common,Ghoul
-11,Spell,Common,Burn
-12,Spell,Rare,Gloom Torment
-13,Enchantment,Common,Alacrity
-14,Enchantment,Common,Haste
-15,Creature,Mythic,Death Grand Wizard of the Dead
-16,Creature,Common,Ghoul
-17,Creature,Common,Orc
-18,Enchantment,Common,Age
-19,Creature,Legendary,Snow King Cyclops of the Bright Mountains
-20,Spell,Common,Maelstrom
-21,Creature,Rare,Death Rogue Minotaur
-22,Enchantment,Common,Shrink
-23,Artifact,Common,Crown
-24,Enchantment,Common,Age
-25,Enchantment,Common,Blight
-26,Enchantment,Common,Age
-27,Artifact,Common,Ring
-28,Enchantment,Common,Flight
-29,Creature,Common,Eagle
-30,Enchantment,Rare,Lunar Age
-31,Creature,Common,Wolf
-32,Artifact,Rare,Necro Pendant
-33,Creature,Common,Ghoul
-34,Creature,Common,Elf
-35,Creature,Common,Wolf
-36,Creature,Common,Elf
-37,Artifact,Rare,Frigid Belt
-38,Creature,Mythic,Snow Grand Demon of Hate
-39,Spell,Common,Burn
-40,Spell,Common,Assault
-41,Spell,Common,Reanimate
-42,Spell,Rare,Dark Assault
-43,Spell,Legendary,Angry Maelstrom
-44,Creature,Common,Eagle
+==================,DECK,6900
+0,Creature,Earth Lord Griffin
+1,Spell,Rage
+2,Creature,Ghoul
+3,Creature,Troll
+4,Spell,Revive
+5,Artifact,Belt
+6,Creature,Snow Fighter Oni of the Swamp
+7,Spell,Rage
+8,Spell,Gale
+9,Creature,Wolf
+10,Creature,Ghoul
+11,Spell,Stricken
+12,Spell,Chimeric Burst
+13,Enchantment,Shield
+14,Enchantment,Deathgrip
+15,Creature,Death Grand Wizard of the Dead
+16,Creature,Ghoul
+17,Creature,Spider
+18,Enchantment,Lethargy
+19,Creature,Snow King Giant of the Bright Mountains
+20,Spell,Frost
+21,Creature,Death Rogue Cyclops
+22,Enchantment,Strength
+23,Artifact,Crown
+24,Enchantment,Blight
+25,Enchantment,Age
+26,Enchantment,Shield
+27,Artifact,Ring
+28,Enchantment,Shrink
+29,Creature,Eagle
+30,Enchantment,Gloom Shield
+31,Creature,Wolf
+32,Artifact,Nature Pendant
+33,Creature,Ghoul
+34,Creature,Warlock
+35,Creature,Wolf
+36,Creature,Warlock
+37,Artifact,Victory Belt
+38,Creature,Snow Grand Demon of Hate
+39,Spell,Fury
+40,Spell,Lightning
+41,Spell,Burn
+42,Spell,Miracle Heal
+43,Spell,Mighty Cataclysmic Burst
+44,Creature,Eagle

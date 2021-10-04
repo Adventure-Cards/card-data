@@ -1,46 +1,46 @@
-==================,DECK,6023,Light
-0,Creature,Common,Goblin
-1,Enchantment,Rare,Gloom Agony
-2,Spell,Common,Wall
-3,Creature,Common,Spider
-4,Spell,Common,Heal
-5,Creature,Rare,Frozen Assassin Berserker
-6,Enchantment,Common,Invert
-7,Spell,Common,Sorrow
-8,Creature,Common,Dwarf
-9,Creature,Common,Paladin
-10,Spell,Common,Ice
-11,Creature,Legendary,Aura Knight Giant of the Low Hills
-12,Creature,Rare,Aura Queen Berserker
-13,Spell,Common,Gale
-14,Creature,Common,Spider
-15,Creature,Rare,Dark Queen Berserker
-16,Enchantment,Common,Agony
-17,Enchantment,Rare,Apocalypse Age
-18,Enchantment,Common,Shield
-19,Creature,Rare,Earth Knight Griffin
-20,Enchantment,Rare,Lunar Haste
-21,Enchantment,Common,Invert
-22,Creature,Mythic,Dark Chaos Demon of Illusion
-23,Creature,Common,Ghoul
-24,Creature,Common,Warlock
-25,Artifact,Common,Crown
-26,Creature,Legendary,Frozen Undead Giant of the West
-27,Creature,Rare,Aura Monk Hydra
-28,Spell,Rare,Corpse Wall
-29,Creature,Common,Magi
-30,Creature,Common,Wolf
-31,Enchantment,Common,Shade
-32,Enchantment,Common,Drain
-33,Spell,Rare,Nature Fury
-34,Enchantment,Common,Shield
-35,Creature,Common,Warlock
-36,Creature,Mythic,Light Time Dragon of the Sky
-37,Creature,Rare,Snow Fighter Minotaur
-38,Enchantment,Common,Blight
-39,Enchantment,Common,Strength
-40,Enchantment,Common,Lethargy
-41,Creature,Common,Warlock
-42,Creature,Common,Spider
-43,Creature,Common,Spider
-44,Creature,Legendary,Frozen Merchant Giant of the Eternal Land
+==================,DECK,6023
+0,Creature,Skin-Walker
+1,Enchantment,Miracle Shrink
+2,Spell,Lightning
+3,Creature,Paladin
+4,Spell,Burst
+5,Creature,Frozen Assassin Goblin
+6,Enchantment,Flight
+7,Spell,Pandemonium
+8,Creature,Magi
+9,Creature,Troll
+10,Spell,Hypnosis
+11,Creature,Aura Knight Dwarf of the Low Hills
+12,Creature,Aura Queen Goblin
+13,Spell,Torment
+14,Creature,Paladin
+15,Creature,Dark Queen Goblin
+16,Enchantment,Lethargy
+17,Enchantment,Victory Blight
+18,Enchantment,Alacrity
+19,Creature,Earth Knight Griffin
+20,Enchantment,Miracle Firebreath
+21,Enchantment,Shade
+22,Creature,Dark Chaos Demon of Illusion
+23,Creature,Ghoul
+24,Creature,Berserker
+25,Artifact,Crown
+26,Creature,Frozen Undead Dwarf of the West
+27,Creature,Aura Monk Hydra
+28,Spell,Solar Frenzy
+29,Creature,Fairy
+30,Creature,Wolf
+31,Enchantment,Shade
+32,Enchantment,Firebreath
+33,Spell,Necro Frenzy
+34,Enchantment,Blight
+35,Creature,Berserker
+36,Creature,Light Time Dragon of the Sky
+37,Creature,Snow Fighter Cyclops
+38,Enchantment,Strength
+39,Enchantment,Alacrity
+40,Enchantment,Alacrity
+41,Creature,Berserker
+42,Creature,Paladin
+43,Creature,Paladin
+44,Creature,Frozen Merchant Dwarf of the Eternal Land

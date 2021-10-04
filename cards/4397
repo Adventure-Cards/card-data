@@ -1,46 +1,46 @@
-==================,DECK,4397,Medium
-0,Creature,Rare,Frozen Undead Griffin
-1,Creature,Rare,Light Warrior Berserker
-2,Creature,Common,Warlock
-3,Creature,Common,Goblin
-4,Enchantment,Common,Agony
-5,Artifact,Rare,Grim Ring
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Magi
-8,Enchantment,Common,Alacrity
-9,Creature,Legendary,Death King Giant of the Black Stone
-10,Spell,Common,Wall
-11,Creature,Common,Magi
-12,Spell,Common,Heal
-13,Creature,Common,Goblin
-14,Creature,Legendary,Aura Fighter Kraken of the Polar Woods
-15,Creature,Mythic,Light Time Phoenix of the Sky
-16,Creature,Legendary,Earth Merchant Cyclops of the Border
-17,Enchantment,Common,Lethargy
-18,Creature,Common,Dwarf
-19,Spell,Common,Freeze
-20,Creature,Common,Dwarf
-21,Creature,Rare,Snow Lord Minotaur
-22,Creature,Rare,Earth Knight Minotaur
-23,Enchantment,Rare,Nature Drain
-24,Spell,Common,Hypnosis
-25,Creature,Legendary,Dark Thief Oni of the Frozen Castle
-26,Creature,Common,Orc
-27,Creature,Common,Orc
-28,Spell,Common,Revive
-29,Spell,Common,Infuriate
-30,Artifact,Common,Cloak
-31,Enchantment,Rare,Corpse Shield
-32,Creature,Mythic,Light Grand Wizard of the Sky
-33,Creature,Common,Elf
-34,Spell,Rare,Gloom Invisibility
-35,Spell,Mythic,Urgent Burst
-36,Spell,Legendary,Urgent Assault
-37,Spell,Common,Infuriate
-38,Enchantment,Legendary,Intense Haste
-39,Creature,Rare,Death Monk Fairy
-40,Artifact,Rare,Nature Scepter
-41,Artifact,Rare,Miracle Tome
-42,Creature,Common,Warlock
-43,Creature,Common,Ghoul
-44,Spell,Common,Frost
+==================,DECK,4397
+0,Creature,Frozen Undead Griffin
+1,Creature,Light Warrior Goblin
+2,Creature,Berserker
+3,Creature,Skin-Walker
+4,Enchantment,Strength
+5,Artifact,Apocalypse Ring
+6,Enchantment,Shield
+7,Creature,Fairy
+8,Enchantment,Firebreath
+9,Creature,Death King Dwarf of the Black Stone
+10,Spell,Frenzy
+11,Creature,Fairy
+12,Spell,Gale
+13,Creature,Skin-Walker
+14,Creature,Aura Fighter Ogre of the Polar Woods
+15,Creature,Light Time Phoenix of the Sky
+16,Creature,Earth Merchant Giant of the Border
+17,Enchantment,Shield
+18,Creature,Magi
+19,Spell,Heal
+20,Creature,Magi
+21,Creature,Snow Lord Cyclops
+22,Creature,Earth Knight Cyclops
+23,Enchantment,Forged Deathgrip
+24,Spell,Sorrow
+25,Creature,Dark Thief Oni of the Frozen Castle
+26,Creature,Spider
+27,Creature,Spider
+28,Spell,Pandemonium
+29,Spell,Fury
+30,Artifact,Cloak
+31,Enchantment,Nature Lethargy
+32,Creature,Light Grand Wizard of the Sky
+33,Creature,Warlock
+34,Spell,Lunar Stricken
+35,Spell,Potent Hateful Torment
+36,Spell,Instant Nature Hypnosis
+37,Spell,Heal
+38,Enchantment,Potent Corpse Strength
+39,Creature,Death Monk Kraken
+40,Artifact,Nature Scepter
+41,Artifact,Apocalypse Tome
+42,Creature,Berserker
+43,Creature,Ghoul
+44,Spell,Reanimate

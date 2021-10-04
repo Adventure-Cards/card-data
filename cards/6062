@@ -1,46 +1,46 @@
-==================,DECK,6062,Light
-0,Creature,Common,Magi
-1,Spell,Common,Heal
-2,Creature,Common,Ghoul
-3,Spell,Common,Maelstrom
-4,Creature,Common,Elf
-5,Artifact,Common,Greaves
-6,Spell,Rare,Hateful Infuriate
-7,Artifact,Common,Ghost Wand
-8,Creature,Common,Goblin
-9,Spell,Common,Rage
-10,Creature,Mythic,Light Nameless Dragon of the Sky
-11,Creature,Rare,Aura Merchant Hydra
-12,Spell,Common,Assault
-13,Spell,Rare,Hateful Fury
-14,Creature,Common,Elf
-15,Spell,Rare,Grim Revive
-16,Enchantment,Common,Invert
-17,Enchantment,Mythic,Urgent Drain
-18,Creature,Common,Ghoul
-19,Creature,Common,Warlock
-20,Creature,Common,Warlock
-21,Creature,Common,Wolf
-22,Creature,Common,Ghoul
-23,Creature,Common,Orc
-24,Spell,Common,Freeze
-25,Artifact,Common,Crown
-26,Creature,Rare,Frozen Monk Berserker
-27,Creature,Common,Magi
-28,Enchantment,Common,Age
-29,Creature,Rare,Death Monk Fairy
-30,Creature,Common,Spider
-31,Artifact,Legendary,Dire Amulet
-32,Creature,Common,Elf
-33,Spell,Common,Freeze
-34,Enchantment,Common,Agony
-35,Spell,Common,Heal
-36,Creature,Common,Warlock
-37,Creature,Rare,Death Rogue Skin-Walker
-38,Creature,Common,Dwarf
-39,Creature,Common,Ghoul
-40,Creature,Legendary,Death King Giant of the Bright Mountains
-41,Enchantment,Common,Blight
-42,Creature,Legendary,Frozen Rogue Orge of the Mountains
-43,Spell,Common,Revive
-44,Enchantment,Common,Alacrity
+==================,DECK,6062
+0,Creature,Fairy
+1,Spell,Gale
+2,Creature,Ghoul
+3,Spell,Lightning
+4,Creature,Warlock
+5,Artifact,Greaves
+6,Spell,Gloom Stun
+7,Artifact,Ghost Wand
+8,Creature,Skin-Walker
+9,Spell,Wall
+10,Creature,Light Nameless Dragon of the Sky
+11,Creature,Aura Merchant Hydra
+12,Spell,Heal
+13,Spell,Cataclysmic Revive
+14,Creature,Warlock
+15,Spell,Oblivion Frost
+16,Enchantment,Agony
+17,Enchantment,Zealous Forged Deathgrip
+18,Creature,Ghoul
+19,Creature,Berserker
+20,Creature,Berserker
+21,Creature,Wolf
+22,Creature,Ghoul
+23,Creature,Spider
+24,Spell,Fire
+25,Artifact,Crown
+26,Creature,Frozen Monk Goblin
+27,Creature,Fairy
+28,Enchantment,Strength
+29,Creature,Death Monk Kraken
+30,Creature,Paladin
+31,Artifact,Mighty Grim Amulet
+32,Creature,Warlock
+33,Spell,Tempest
+34,Enchantment,Blight
+35,Spell,Pandemonium
+36,Creature,Berserker
+37,Creature,Death Rogue Orc
+38,Creature,Magi
+39,Creature,Ghoul
+40,Creature,Death King Dwarf of the Bright Mountains
+41,Enchantment,Firebreath
+42,Creature,Frozen Rogue Elf of the Mountains
+43,Spell,Reanimate
+44,Enchantment,Drain

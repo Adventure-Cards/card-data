@@ -1,46 +1,46 @@
-==================,DECK,6287,Medium
-0,Creature,Rare,Aura Rogue Berserker
-1,Creature,Common,Ghoul
-2,Spell,Legendary,Urgent Freeze
-3,Enchantment,Common,Shield
-4,Creature,Rare,Frozen Lord Minotaur
-5,Creature,Common,Dwarf
-6,Artifact,Legendary,Clever Boots
-7,Creature,Common,Warlock
-8,Creature,Mythic,Death Ancient Demon of the Dead
-9,Creature,Common,Wolf
-10,Creature,Common,Warlock
-11,Creature,Common,Ghoul
-12,Enchantment,Rare,Grim Lethargy
-13,Creature,Legendary,Aura Rogue Orge of the Border
-14,Creature,Legendary,Earth Warrior Oni of the Low Hills
-15,Artifact,Common,Cloak
-16,Creature,Common,Elf
-17,Spell,Common,Frenzy
-18,Creature,Common,Orc
-19,Creature,Common,Paladin
-20,Enchantment,Common,Haste
-21,Spell,Common,Burn
-22,Creature,Common,Magi
-23,Spell,Rare,Solar Wall
-24,Enchantment,Rare,Apocalypse Drain
-25,Creature,Legendary,Aura Thief Giant of the Haven
-26,Spell,Mythic,Extreme Burst
-27,Artifact,Common,Scythe
-28,Enchantment,Common,Invert
-29,Spell,Common,Frenzy
-30,Enchantment,Common,Drain
-31,Creature,Common,Goblin
-32,Enchantment,Common,Haste
-33,Creature,Legendary,Aura Knight Kraken of the Low Hills
-34,Creature,Rare,Earth Monk Skin-Walker
-35,Creature,Common,Ghoul
-36,Creature,Common,Warlock
-37,Creature,Common,Magi
-38,Spell,Common,Wall
-39,Spell,Common,Torment
-40,Spell,Legendary,Mighty Invisibility
-41,Creature,Common,Magi
-42,Creature,Common,Orc
-43,Creature,Rare,Snow King Minotaur
-44,Enchantment,Rare,Dark Shade
+==================,DECK,6287
+0,Creature,Aura Rogue Goblin
+1,Creature,Ghoul
+2,Spell,Dire Solar Infuriate
+3,Enchantment,Strength
+4,Creature,Frozen Lord Cyclops
+5,Creature,Magi
+6,Artifact,Clever Grim Boots
+7,Creature,Berserker
+8,Creature,Death Ancient Demon of the Dead
+9,Creature,Wolf
+10,Creature,Berserker
+11,Creature,Ghoul
+12,Enchantment,Grim Invert
+13,Creature,Aura Rogue Elf of the Border
+14,Creature,Earth Warrior Oni of the Low Hills
+15,Artifact,Cloak
+16,Creature,Warlock
+17,Spell,Pandemonium
+18,Creature,Spider
+19,Creature,Troll
+20,Enchantment,Haste
+21,Spell,Tempest
+22,Creature,Fairy
+23,Spell,Forged Torment
+24,Enchantment,Apocalypse Invert
+25,Creature,Aura Thief Dwarf of the Haven
+26,Spell,Clever Dark Invisibility
+27,Artifact,Scythe
+28,Enchantment,Age
+29,Spell,Burn
+30,Enchantment,Agony
+31,Creature,Skin-Walker
+32,Enchantment,Age
+33,Creature,Aura Knight Ogre of the Low Hills
+34,Creature,Earth Monk Orc
+35,Creature,Ghoul
+36,Creature,Berserker
+37,Creature,Fairy
+38,Spell,Stun
+39,Spell,Stricken
+40,Spell,Dire Lunar Stricken
+41,Creature,Fairy
+42,Creature,Spider
+43,Creature,Snow King Cyclops
+44,Enchantment,Chimeric Flight

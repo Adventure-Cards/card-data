@@ -1,46 +1,46 @@
-==================,DECK,4671,Medium
-0,Artifact,Rare,Shimmering Scythe
-1,Artifact,Rare,Oblivion Greaves
-2,Creature,Common,Orc
-3,Creature,Common,Ghoul
-4,Spell,Rare,Forged Frenzy
-5,Enchantment,Mythic,Angry Blight
-6,Creature,Common,Warlock
-7,Artifact,Common,Helm
-8,Spell,Legendary,Instant Gale
-9,Enchantment,Legendary,Angry Invert
-10,Creature,Rare,Death Fighter Berserker
-11,Creature,Common,Ghoul
-12,Creature,Common,Warlock
-13,Creature,Common,Goblin
-14,Enchantment,Rare,Shimmering Blight
-15,Enchantment,Rare,Solar Agony
-16,Artifact,Legendary,Angry Tome
-17,Creature,Rare,Dark Warrior Minotaur
-18,Creature,Rare,Light Thief Minotaur
-19,Spell,Common,Ice
-20,Spell,Common,Pandemonium
-21,Spell,Common,Rage
-22,Creature,Common,Spider
-23,Enchantment,Common,Shrink
-24,Creature,Common,Spider
-25,Creature,Rare,Death Assassin Fairy
-26,Creature,Rare,Death Warrior Skin-Walker
-27,Creature,Common,Paladin
-28,Creature,Rare,Aura Assassin Fairy
-29,Creature,Mythic,Aura Ancient Wizard of the Light
-30,Enchantment,Common,Flight
-31,Spell,Common,Gravitation
-32,Creature,Common,Elf
-33,Creature,Mythic,Snow Undead Dragon of Hate
-34,Spell,Rare,Miracle Pandemonium
-35,Enchantment,Common,Haste
-36,Creature,Common,Dwarf
-37,Creature,Mythic,Frozen Grand Wizard of the Void
-38,Enchantment,Legendary,Angry Age
-39,Spell,Legendary,Potent Wall
-40,Artifact,Rare,Gloom Ring
-41,Creature,Mythic,Frozen Undead Phoenix of the Void
-42,Creature,Common,Goblin
-43,Artifact,Common,Staff
-44,Enchantment,Common,Agony
+==================,DECK,4671
+0,Artifact,Forged Scythe
+1,Artifact,Victory Greaves
+2,Creature,Spider
+3,Creature,Ghoul
+4,Spell,Chimeric Wall
+5,Enchantment,Clever Cataclysmic Shield
+6,Creature,Berserker
+7,Artifact,Helm
+8,Spell,Empyrean Nature Maelstrom
+9,Enchantment,Urgent Sorrow Flight
+10,Creature,Death Fighter Goblin
+11,Creature,Ghoul
+12,Creature,Berserker
+13,Creature,Skin-Walker
+14,Enchantment,Solar Deathgrip
+15,Enchantment,Corpse Agony
+16,Artifact,Dire Cataclysmic Tome
+17,Creature,Dark Warrior Cyclops
+18,Creature,Light Thief Cyclops
+19,Spell,Heal
+20,Spell,Revive
+21,Spell,Fury
+22,Creature,Paladin
+23,Enchantment,Deathgrip
+24,Creature,Paladin
+25,Creature,Death Assassin Kraken
+26,Creature,Death Warrior Orc
+27,Creature,Troll
+28,Creature,Aura Assassin Kraken
+29,Creature,Aura Ancient Wizard of the Light
+30,Enchantment,Alacrity
+31,Spell,Torment
+32,Creature,Warlock
+33,Creature,Snow Undead Dragon of Hate
+34,Spell,Victory Burn
+35,Enchantment,Age
+36,Creature,Magi
+37,Creature,Frozen Grand Wizard of the Void
+38,Enchantment,Potent Gloom Shrink
+39,Spell,Dire Grim Burst
+40,Artifact,Dark Ring
+41,Creature,Frozen Undead Phoenix of the Void
+42,Creature,Skin-Walker
+43,Artifact,Staff
+44,Enchantment,Strength

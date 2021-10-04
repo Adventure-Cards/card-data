@@ -1,46 +1,46 @@
-==================,DECK,4591,Light
-0,Creature,Rare,Death Assassin Griffin
-1,Creature,Common,Spider
-2,Creature,Common,Wolf
-3,Spell,Rare,Dark Torment
-4,Spell,Common,Burst
-5,Creature,Common,Orc
-6,Artifact,Common,Helmet
-7,Spell,Common,Pandemonium
-8,Creature,Common,Spider
-9,Creature,Common,Eagle
-10,Enchantment,Common,Agony
-11,Creature,Rare,Light Lord Berserker
-12,Artifact,Common,Belt
-13,Creature,Common,Paladin
-14,Enchantment,Rare,Hateful Age
-15,Creature,Rare,Snow Merchant Skin-Walker
-16,Creature,Common,Goblin
-17,Enchantment,Common,Flight
-18,Spell,Rare,Apocalypse Infuriate
-19,Enchantment,Common,Blight
-20,Enchantment,Common,Haste
-21,Creature,Common,Orc
-22,Enchantment,Common,Deathgrip
-23,Creature,Rare,Snow Lord Berserker
-24,Spell,Legendary,Mighty Frost
-25,Creature,Rare,Dark Undead Berserker
-26,Creature,Common,Warlock
-27,Spell,Common,Gravitation
-28,Creature,Common,Spider
-29,Creature,Mythic,Snow Grand Demon of Hate
-30,Enchantment,Legendary,Instant Deathgrip
-31,Spell,Rare,Forged Revive
-32,Creature,Mythic,Frozen Ancient Demon of the Void
-33,Enchantment,Common,Haste
-34,Enchantment,Common,Haste
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Gloom Strength
-37,Creature,Common,Wolf
-38,Spell,Legendary,Instant Sorrow
-39,Creature,Common,Dwarf
-40,Creature,Common,Eagle
-41,Creature,Rare,Aura Warrior Minotaur
-42,Creature,Common,Orc
-43,Creature,Rare,Light Assassin Minotaur
-44,Creature,Legendary,Snow Lord Orge of the Polar Woods
+==================,DECK,4591
+0,Creature,Death Assassin Griffin
+1,Creature,Paladin
+2,Creature,Wolf
+3,Spell,Lunar Freeze
+4,Spell,Ice
+5,Creature,Spider
+6,Artifact,Helmet
+7,Spell,Burst
+8,Creature,Paladin
+9,Creature,Eagle
+10,Enchantment,Blight
+11,Creature,Light Lord Goblin
+12,Artifact,Belt
+13,Creature,Troll
+14,Enchantment,Gloom Firebreath
+15,Creature,Snow Merchant Orc
+16,Creature,Skin-Walker
+17,Enchantment,Deathgrip
+18,Spell,Frigid Fireball
+19,Enchantment,Invert
+20,Enchantment,Haste
+21,Creature,Spider
+22,Enchantment,Lethargy
+23,Creature,Snow Lord Goblin
+24,Spell,Irate Sorrow Heal
+25,Creature,Dark Undead Goblin
+26,Creature,Berserker
+27,Spell,Torment
+28,Creature,Paladin
+29,Creature,Snow Grand Demon of Hate
+30,Enchantment,Clever Shimmering Lethargy
+31,Spell,Gloom Maelstrom
+32,Creature,Frozen Ancient Demon of the Void
+33,Enchantment,Haste
+34,Enchantment,Shade
+35,Creature,Troll
+36,Enchantment,Cataclysmic Alacrity
+37,Creature,Wolf
+38,Spell,Clever Corpse Maelstrom
+39,Creature,Magi
+40,Creature,Eagle
+41,Creature,Aura Warrior Cyclops
+42,Creature,Spider
+43,Creature,Light Assassin Cyclops
+44,Creature,Snow Lord Elf of the Polar Woods

@@ -1,46 +1,46 @@
-==================,DECK,6178,Light
-0,Artifact,Common,Cloak
-1,Artifact,Common,Potion
-2,Creature,Common,Spider
-3,Creature,Legendary,Light Queen Kraken of the Arctic Blizzards
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Goblin
-6,Creature,Common,Warlock
-7,Creature,Rare,Frozen Undead Minotaur
-8,Creature,Common,Ghoul
-9,Spell,Legendary,Instant Gale
-10,Enchantment,Rare,Hateful Blight
-11,Creature,Common,Orc
-12,Enchantment,Common,Drain
-13,Creature,Common,Orc
-14,Artifact,Common,Bow
-15,Enchantment,Common,Age
-16,Creature,Rare,Aura Fighter Skin-Walker
-17,Creature,Legendary,Light Undead Orge of the Swamp
-18,Artifact,Common,Shield
-19,Enchantment,Common,Alacrity
-20,Spell,Common,Stricken
-21,Artifact,Legendary,Mighty Ghost Wand
-22,Creature,Rare,Earth Thief Skin-Walker
-23,Artifact,Common,Boots
-24,Creature,Common,Goblin
-25,Spell,Legendary,Mighty Frost
-26,Enchantment,Legendary,Extreme Invert
-27,Creature,Rare,Aura Fighter Berserker
-28,Spell,Common,Burst
-29,Enchantment,Common,Age
-30,Creature,Rare,Earth Assassin Griffin
-31,Creature,Mythic,Frozen Grand Demon of the Void
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Warlock
-34,Artifact,Rare,Gloom Sword
-35,Enchantment,Common,Shade
-36,Enchantment,Common,Age
-37,Creature,Common,Ghoul
-38,Creature,Rare,Frozen Warrior Griffin
-39,Creature,Common,Eagle
-40,Spell,Common,Pandemonium
-41,Creature,Rare,Snow Undead Skin-Walker
-42,Spell,Legendary,Clever Infuriate
-43,Artifact,Common,Ghost Wand
-44,Creature,Common,Warlock
+==================,DECK,6178
+0,Artifact,Cloak
+1,Artifact,Potion
+2,Creature,Paladin
+3,Creature,Light Queen Ogre of the Arctic Blizzards
+4,Enchantment,Invert
+5,Creature,Skin-Walker
+6,Creature,Berserker
+7,Creature,Frozen Undead Cyclops
+8,Creature,Ghoul
+9,Spell,Empyrean Nature Maelstrom
+10,Enchantment,Cataclysmic Shield
+11,Creature,Spider
+12,Enchantment,Drain
+13,Creature,Spider
+14,Artifact,Bow
+15,Enchantment,Alacrity
+16,Creature,Aura Fighter Orc
+17,Creature,Light Undead Elf of the Swamp
+18,Artifact,Shield
+19,Enchantment,Deathgrip
+20,Spell,Gravitation
+21,Artifact,Urgent Gloom Ghost Wand
+22,Creature,Earth Thief Orc
+23,Artifact,Boots
+24,Creature,Skin-Walker
+25,Spell,Irate Lunar Ice
+26,Enchantment,Instant Sorrow Shrink
+27,Creature,Aura Fighter Goblin
+28,Spell,Frenzy
+29,Enchantment,Deathgrip
+30,Creature,Earth Assassin Griffin
+31,Creature,Frozen Grand Demon of the Void
+32,Enchantment,Shrink
+33,Creature,Berserker
+34,Artifact,Gloom Sword
+35,Enchantment,Drain
+36,Enchantment,Flight
+37,Creature,Ghoul
+38,Creature,Frozen Warrior Griffin
+39,Creature,Eagle
+40,Spell,Vortex
+41,Creature,Snow Undead Orc
+42,Spell,Potent Apocalypse Sorrow
+43,Artifact,Ghost Wand
+44,Creature,Berserker

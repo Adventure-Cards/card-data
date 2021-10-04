@@ -1,46 +1,46 @@
-==================,DECK,5675,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Orc
-2,Creature,Rare,Frozen Lord Hydra
-3,Creature,Common,Elf
-4,Creature,Legendary,Death Rogue Orge of the Golden Palace
-5,Enchantment,Rare,Gloom Lethargy
-6,Enchantment,Common,Deathgrip
-7,Creature,Mythic,Frozen Chaos Demon of the Void
-8,Artifact,Common,Scepter
-9,Creature,Common,Magi
-10,Enchantment,Common,Shrink
-11,Creature,Common,Goblin
-12,Spell,Common,Revive
-13,Enchantment,Common,Drain
-14,Artifact,Rare,Forged Ring
-15,Creature,Common,Elf
-16,Artifact,Common,Ring
-17,Creature,Common,Eagle
-18,Creature,Rare,Earth Knight Hydra
-19,Creature,Common,Eagle
-20,Creature,Legendary,Snow Rogue Orge of the Plains
-21,Creature,Rare,Dark Priest Skin-Walker
-22,Creature,Common,Dwarf
-23,Spell,Common,Freeze
-24,Enchantment,Common,Shield
-25,Enchantment,Rare,Dark Shade
-26,Creature,Legendary,Aura Priest Cyclops of the Bright Mountains
-27,Spell,Rare,Nature Fury
-28,Creature,Rare,Snow Rogue Hydra
-29,Spell,Common,Ice
-30,Creature,Common,Magi
-31,Enchantment,Rare,Miracle Haste
-32,Enchantment,Mythic,Urgent Shade
-33,Enchantment,Common,Blight
-34,Spell,Common,Hypnosis
-35,Enchantment,Common,Drain
-36,Artifact,Common,Tome
-37,Creature,Rare,Light King Skin-Walker
-38,Creature,Legendary,Frozen Queen Cyclops of the Golden Palace
-39,Creature,Mythic,Death Time Phoenix of the Dead
-40,Spell,Common,Pandemonium
-41,Artifact,Legendary,Mighty Helm
-42,Enchantment,Common,Invert
-43,Enchantment,Common,Age
-44,Enchantment,Common,Alacrity
+==================,DECK,5675
+0,Creature,Ghoul
+1,Creature,Spider
+2,Creature,Frozen Lord Hydra
+3,Creature,Warlock
+4,Creature,Death Rogue Elf of the Golden Palace
+5,Enchantment,Lunar Firebreath
+6,Enchantment,Haste
+7,Creature,Frozen Chaos Demon of the Void
+8,Artifact,Scepter
+9,Creature,Fairy
+10,Enchantment,Invert
+11,Creature,Skin-Walker
+12,Spell,Stun
+13,Enchantment,Alacrity
+14,Artifact,Miracle Ring
+15,Creature,Warlock
+16,Artifact,Ring
+17,Creature,Eagle
+18,Creature,Earth Knight Hydra
+19,Creature,Eagle
+20,Creature,Snow Rogue Elf of the Plains
+21,Creature,Dark Priest Orc
+22,Creature,Magi
+23,Spell,Frenzy
+24,Enchantment,Age
+25,Enchantment,Chimeric Shield
+26,Creature,Aura Priest Giant of the Bright Mountains
+27,Spell,Necro Infuriate
+28,Creature,Snow Rogue Hydra
+29,Spell,Heal
+30,Creature,Fairy
+31,Enchantment,Life Invert
+32,Enchantment,Dire Necro Age
+33,Enchantment,Blight
+34,Spell,Stun
+35,Enchantment,Deathgrip
+36,Artifact,Tome
+37,Creature,Light King Orc
+38,Creature,Frozen Queen Giant of the Golden Palace
+39,Creature,Death Time Phoenix of the Dead
+40,Spell,Frenzy
+41,Artifact,Empyrean Cataclysmic Helm
+42,Enchantment,Firebreath
+43,Enchantment,Shade
+44,Enchantment,Age

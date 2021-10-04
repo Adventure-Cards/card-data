@@ -1,46 +1,46 @@
-==================,DECK,4755,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Common,Age
-2,Creature,Common,Elf
-3,Spell,Rare,Lunar Stricken
-4,Enchantment,Common,Shrink
-5,Creature,Rare,Frozen Thief Skin-Walker
-6,Creature,Rare,Death Knight Fairy
-7,Spell,Common,Stricken
-8,Creature,Rare,Death Fighter Berserker
-9,Creature,Common,Warlock
-10,Creature,Common,Eagle
-11,Spell,Common,Stricken
-12,Creature,Rare,Aura Merchant Hydra
-13,Creature,Common,Wolf
-14,Enchantment,Common,Shield
-15,Creature,Rare,Snow Lord Skin-Walker
-16,Creature,Rare,Aura Monk Fairy
-17,Artifact,Common,Cloak
-18,Creature,Common,Dwarf
-19,Enchantment,Legendary,Urgent Shade
-20,Spell,Common,Pandemonium
-21,Spell,Common,Frost
-22,Spell,Rare,Nature Pandemonium
-23,Spell,Rare,Oblivion Lightning
-24,Creature,Common,Paladin
-25,Creature,Legendary,Death Queen Oni of the Swamp
-26,Spell,Common,Gravitation
-27,Creature,Common,Elf
-28,Enchantment,Common,Age
-29,Creature,Mythic,Earth Undead Phoenix of the Shadows
-30,Spell,Common,Revive
-31,Creature,Mythic,Snow Chaos Wizard of Hate
-32,Creature,Common,Orc
-33,Creature,Common,Magi
-34,Creature,Common,Spider
-35,Creature,Common,Magi
-36,Creature,Common,Ghoul
-37,Creature,Rare,Dark Assassin Skin-Walker
-38,Enchantment,Rare,Dark Strength
-39,Creature,Common,Orc
-40,Artifact,Common,Crown
-41,Spell,Rare,Nature Ice
-42,Enchantment,Rare,Nimble Shade
-43,Artifact,Rare,Oblivion Ring
-44,Enchantment,Common,Lethargy
+==================,DECK,4755
+0,Creature,Wolf
+1,Enchantment,Drain
+2,Creature,Warlock
+3,Spell,Sorrow Infuriate
+4,Enchantment,Shade
+5,Creature,Frozen Thief Orc
+6,Creature,Death Knight Kraken
+7,Spell,Burst
+8,Creature,Death Fighter Goblin
+9,Creature,Berserker
+10,Creature,Eagle
+11,Spell,Revive
+12,Creature,Aura Merchant Hydra
+13,Creature,Wolf
+14,Enchantment,Shield
+15,Creature,Snow Lord Orc
+16,Creature,Aura Monk Kraken
+17,Artifact,Cloak
+18,Creature,Magi
+19,Enchantment,Urgent Necro Agony
+20,Spell,Tempest
+21,Spell,Hypnosis
+22,Spell,Forged Fury
+23,Spell,Life Fireball
+24,Creature,Troll
+25,Creature,Death Queen Oni of the Swamp
+26,Spell,Reanimate
+27,Creature,Warlock
+28,Enchantment,Haste
+29,Creature,Earth Undead Phoenix of the Shadows
+30,Spell,Pandemonium
+31,Creature,Snow Chaos Wizard of Hate
+32,Creature,Spider
+33,Creature,Fairy
+34,Creature,Paladin
+35,Creature,Fairy
+36,Creature,Ghoul
+37,Creature,Dark Assassin Orc
+38,Enchantment,Cataclysmic Flight
+39,Creature,Spider
+40,Artifact,Crown
+41,Spell,Forged Stun
+42,Enchantment,Necro Strength
+43,Artifact,Grim Ring
+44,Enchantment,Agony

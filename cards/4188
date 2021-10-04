@@ -1,46 +1,46 @@
-==================,DECK,4188,Light
-0,Creature,Rare,Death Warrior Griffin
-1,Creature,Rare,Snow Knight Minotaur
-2,Enchantment,Common,Lethargy
-3,Enchantment,Legendary,Urgent Blight
-4,Spell,Common,Invisibility
-5,Creature,Common,Paladin
-6,Creature,Rare,Death Knight Fairy
-7,Spell,Common,Sorrow
-8,Enchantment,Common,Drain
-9,Creature,Common,Ghoul
-10,Creature,Common,Wolf
-11,Creature,Rare,Earth King Hydra
-12,Creature,Common,Warlock
-13,Artifact,Legendary,Mighty Helmet
-14,Creature,Rare,Aura King Berserker
-15,Spell,Legendary,Intense Pandemonium
-16,Creature,Rare,Death Monk Berserker
-17,Spell,Rare,Dark Heal
-18,Creature,Rare,Snow Assassin Griffin
-19,Spell,Common,Gravitation
-20,Creature,Common,Paladin
-21,Creature,Rare,Death Priest Berserker
-22,Spell,Common,Sorrow
-23,Artifact,Common,Gloves
-24,Spell,Common,Revive
-25,Creature,Rare,Snow King Berserker
-26,Spell,Common,Infuriate
-27,Spell,Common,Heal
-28,Creature,Common,Goblin
-29,Enchantment,Legendary,Dire Drain
-30,Enchantment,Common,Invert
-31,Enchantment,Common,Shade
-32,Creature,Common,Magi
-33,Creature,Legendary,Snow Queen Oni of the Black Stone
-34,Artifact,Rare,Gloom Shield
-35,Creature,Legendary,Aura Warrior Orge of the Border
-36,Creature,Common,Warlock
-37,Creature,Common,Magi
-38,Creature,Common,Wolf
-39,Spell,Common,Maelstrom
-40,Creature,Common,Spider
-41,Creature,Common,Ghoul
-42,Creature,Common,Dwarf
-43,Creature,Common,Orc
-44,Creature,Common,Eagle
+==================,DECK,4188
+0,Creature,Death Warrior Griffin
+1,Creature,Snow Knight Cyclops
+2,Enchantment,Blight
+3,Enchantment,Potent Solar Strength
+4,Spell,Infuriate
+5,Creature,Troll
+6,Creature,Death Knight Kraken
+7,Spell,Rage
+8,Enchantment,Flight
+9,Creature,Ghoul
+10,Creature,Wolf
+11,Creature,Earth King Hydra
+12,Creature,Berserker
+13,Artifact,Zealous Chimeric Helmet
+14,Creature,Aura King Goblin
+15,Spell,Zealous Solar Hypnosis
+16,Creature,Death Monk Goblin
+17,Spell,Sorrow Sorrow
+18,Creature,Snow Assassin Griffin
+19,Spell,Torment
+20,Creature,Troll
+21,Creature,Death Priest Goblin
+22,Spell,Invisibility
+23,Artifact,Gloves
+24,Spell,Reanimate
+25,Creature,Snow King Goblin
+26,Spell,Assault
+27,Spell,Invisibility
+28,Creature,Skin-Walker
+29,Enchantment,Zealous Apocalypse Blight
+30,Enchantment,Invert
+31,Enchantment,Shield
+32,Creature,Fairy
+33,Creature,Snow Queen Oni of the Black Stone
+34,Artifact,Miracle Shield
+35,Creature,Aura Warrior Elf of the Border
+36,Creature,Berserker
+37,Creature,Fairy
+38,Creature,Wolf
+39,Spell,Gale
+40,Creature,Paladin
+41,Creature,Ghoul
+42,Creature,Magi
+43,Creature,Spider
+44,Creature,Eagle

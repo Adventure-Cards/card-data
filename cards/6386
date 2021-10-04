@@ -1,46 +1,46 @@
-==================,DECK,6386,Light
-0,Spell,Common,Frenzy
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Death Queen Berserker
-3,Creature,Common,Goblin
-4,Spell,Common,Invisibility
-5,Creature,Common,Goblin
-6,Artifact,Common,Gloves
-7,Spell,Legendary,Potent Ice
-8,Creature,Common,Warlock
-9,Artifact,Common,Bracers
-10,Spell,Common,Wall
-11,Creature,Common,Ghoul
-12,Artifact,Common,Gloves
-13,Spell,Rare,Dark Revive
-14,Enchantment,Common,Drain
-15,Creature,Rare,Light Rogue Minotaur
-16,Creature,Common,Warlock
-17,Artifact,Common,Gauntlet
-18,Creature,Common,Magi
-19,Spell,Rare,Gloom Heal
-20,Enchantment,Common,Shade
-21,Artifact,Rare,Lunar Helmet
-22,Spell,Common,Reanimate
-23,Spell,Common,Gale
-24,Enchantment,Rare,Miracle Drain
-25,Creature,Rare,Light Rogue Griffin
-26,Creature,Common,Magi
-27,Creature,Common,Paladin
-28,Creature,Mythic,Dark Ancient Demon of Illusion
-29,Spell,Common,Gravitation
-30,Spell,Rare,Frigid Vortex
-31,Creature,Legendary,Frozen Priest Kraken of the Frozen Castle
-32,Artifact,Rare,Forged Scepter
-33,Creature,Rare,Earth Lord Fairy
-34,Creature,Common,Spider
-35,Enchantment,Rare,Dark Agony
-36,Artifact,Rare,Nature Potion
-37,Enchantment,Common,Shade
-38,Creature,Common,Eagle
-39,Artifact,Common,Pendant
-40,Artifact,Common,Bracers
-41,Enchantment,Common,Flight
-42,Spell,Common,Infuriate
-43,Enchantment,Common,Shrink
-44,Creature,Mythic,Earth Grand Wizard of the Shadows
+==================,DECK,6386
+0,Spell,Rage
+1,Enchantment,Age
+2,Creature,Death Queen Goblin
+3,Creature,Skin-Walker
+4,Spell,Hypnosis
+5,Creature,Skin-Walker
+6,Artifact,Gloves
+7,Spell,Zealous Frigid Rage
+8,Creature,Berserker
+9,Artifact,Bracers
+10,Spell,Fire
+11,Creature,Ghoul
+12,Artifact,Gloves
+13,Spell,Cataclysmic Frost
+14,Enchantment,Shield
+15,Creature,Light Rogue Cyclops
+16,Creature,Berserker
+17,Artifact,Gauntlet
+18,Creature,Fairy
+19,Spell,Gloom Stricken
+20,Enchantment,Blight
+21,Artifact,Lunar Helmet
+22,Spell,Torment
+23,Spell,Torment
+24,Enchantment,Apocalypse Haste
+25,Creature,Light Rogue Griffin
+26,Creature,Fairy
+27,Creature,Troll
+28,Creature,Dark Ancient Demon of Illusion
+29,Spell,Fire
+30,Spell,Frigid Wall
+31,Creature,Frozen Priest Ogre of the Frozen Castle
+32,Artifact,Gloom Scepter
+33,Creature,Earth Lord Kraken
+34,Creature,Paladin
+35,Enchantment,Miracle Firebreath
+36,Artifact,Forged Potion
+37,Enchantment,Strength
+38,Creature,Eagle
+39,Artifact,Pendant
+40,Artifact,Bracers
+41,Enchantment,Flight
+42,Spell,Fury
+43,Enchantment,Age
+44,Creature,Earth Grand Wizard of the Shadows

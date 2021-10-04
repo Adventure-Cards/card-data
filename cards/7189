@@ -1,46 +1,46 @@
-==================,DECK,7189,Medium
-0,Creature,Common,Magi
-1,Enchantment,Legendary,Potent Shield
-2,Artifact,Rare,Necro Staff
-3,Creature,Common,Wolf
-4,Spell,Rare,Oblivion Rage
-5,Creature,Legendary,Snow Undead Oni of the Black Stone
-6,Artifact,Rare,Cataclysmic Ring
-7,Enchantment,Common,Blight
-8,Creature,Rare,Death Warrior Minotaur
-9,Creature,Mythic,Snow Ancient Demon of Hate
-10,Creature,Common,Goblin
-11,Creature,Rare,Earth Knight Berserker
-12,Enchantment,Common,Deathgrip
-13,Creature,Rare,Aura Monk Berserker
-14,Artifact,Common,Crown
-15,Creature,Common,Ghoul
-16,Creature,Rare,Light Monk Fairy
-17,Spell,Common,Stricken
-18,Spell,Common,Gale
-19,Creature,Common,Elf
-20,Artifact,Rare,Grim Helmet
-21,Spell,Rare,Miracle Stricken
-22,Enchantment,Rare,Apocalypse Haste
-23,Spell,Rare,Lunar Maelstrom
-24,Enchantment,Common,Flight
-25,Spell,Legendary,Instant Fury
-26,Creature,Common,Goblin
-27,Artifact,Common,Bracers
-28,Artifact,Common,Bracers
-29,Spell,Mythic,Potent Frost
-30,Artifact,Common,Ghost Wand
-31,Spell,Rare,Nimble Heal
-32,Creature,Common,Warlock
-33,Creature,Legendary,Earth Warrior Cyclops of the Polar Woods
-34,Creature,Common,Orc
-35,Spell,Legendary,Intense Heal
-36,Creature,Mythic,Death Grand Wizard of the Dead
-37,Creature,Common,Eagle
-38,Enchantment,Rare,Dark Shield
-39,Spell,Common,Reanimate
-40,Enchantment,Mythic,Dire Shield
-41,Artifact,Common,Amulet
-42,Enchantment,Rare,Nimble Shade
-43,Creature,Common,Goblin
-44,Creature,Rare,Snow Lord Hydra
+==================,DECK,7189
+0,Creature,Fairy
+1,Enchantment,Dire Victory Shade
+2,Artifact,Corpse Staff
+3,Creature,Wolf
+4,Spell,Victory Tempest
+5,Creature,Snow Undead Oni of the Black Stone
+6,Artifact,Miracle Ring
+7,Enchantment,Deathgrip
+8,Creature,Death Warrior Cyclops
+9,Creature,Snow Ancient Demon of Hate
+10,Creature,Skin-Walker
+11,Creature,Earth Knight Goblin
+12,Enchantment,Shield
+13,Creature,Aura Monk Goblin
+14,Artifact,Crown
+15,Creature,Ghoul
+16,Creature,Light Monk Kraken
+17,Spell,Burn
+18,Spell,Burst
+19,Creature,Warlock
+20,Artifact,Apocalypse Helmet
+21,Spell,Life Assault
+22,Enchantment,Life Shade
+23,Spell,Lunar Vortex
+24,Enchantment,Haste
+25,Spell,Potent Nature Fireball
+26,Creature,Skin-Walker
+27,Artifact,Bracers
+28,Artifact,Bracers
+29,Spell,Instant Oblivion Assault
+30,Artifact,Ghost Wand
+31,Spell,Forged Revive
+32,Creature,Berserker
+33,Creature,Earth Warrior Giant of the Polar Woods
+34,Creature,Spider
+35,Spell,Ardent Corpse Fury
+36,Creature,Death Grand Wizard of the Dead
+37,Creature,Eagle
+38,Enchantment,Gloom Firebreath
+39,Spell,Torment
+40,Enchantment,Ardent Victory Haste
+41,Artifact,Amulet
+42,Enchantment,Necro Deathgrip
+43,Creature,Skin-Walker
+44,Creature,Snow Lord Hydra

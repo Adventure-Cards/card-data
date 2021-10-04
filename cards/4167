@@ -1,46 +1,46 @@
-==================,DECK,4167,Strong
-0,Creature,Common,Warlock
-1,Enchantment,Common,Shade
-2,Creature,Rare,Light King Griffin
-3,Creature,Common,Elf
-4,Spell,Rare,Solar Rage
-5,Artifact,Rare,Forged Boots
-6,Spell,Rare,Frigid Freeze
-7,Artifact,Common,Bow
-8,Artifact,Legendary,Clever Sigil
-9,Spell,Rare,Nature Burn
-10,Enchantment,Legendary,Angry Deathgrip
-11,Enchantment,Mythic,Instant Shrink
-12,Spell,Legendary,Extreme Ice
-13,Creature,Legendary,Light Knight Orge of the Swamp
-14,Creature,Common,Eagle
-15,Creature,Common,Spider
-16,Creature,Legendary,Snow Chaos Demon of Hate
-17,Creature,Rare,Snow Assassin Fairy
-18,Spell,Common,Maelstrom
-19,Artifact,Common,Scepter
-20,Creature,Rare,Earth Fighter Minotaur
-21,Artifact,Common,Cloak
-22,Enchantment,Legendary,Angry Haste
-23,Creature,Common,Ghoul
-24,Creature,Rare,Snow Lord Hydra
-25,Enchantment,Mythic,Extreme Flight
-26,Enchantment,Common,Invert
-27,Creature,Legendary,Dark Undead Dragon of Illusion
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Elf
-30,Creature,Common,Paladin
-31,Creature,Mythic,Snow Nameless Phoenix of Hate
-32,Creature,Common,Ghoul
-33,Spell,Common,Heal
-34,Enchantment,Common,Lethargy
-35,Spell,Common,Wall
-36,Enchantment,Legendary,Mighty Deathgrip
-37,Creature,Rare,Aura Undead Hydra
-38,Enchantment,Mythic,Urgent Shade
-39,Creature,Common,Magi
-40,Spell,Rare,Oblivion Frenzy
-41,Spell,Legendary,Clever Hypnosis
-42,Creature,Mythic,Aura Nameless Dragon of the Light
-43,Spell,Legendary,Dire Vortex
-44,Creature,Legendary,Death Knight Giant of the Golden Palace
+==================,DECK,4167
+0,Creature,Berserker
+1,Enchantment,Agony
+2,Creature,Light King Griffin
+3,Creature,Warlock
+4,Spell,Necro Torment
+5,Artifact,Sorrow Boots
+6,Spell,Nimble Tempest
+7,Artifact,Bow
+8,Artifact,Mighty Victory Sigil
+9,Spell,Necro Freeze
+10,Enchantment,Mighty Sorrow Flight
+11,Enchantment,Potent Necro Strength
+12,Spell,Zealous Gloom Stricken
+13,Creature,Light Knight Elf of the Swamp
+14,Creature,Eagle
+15,Creature,Paladin
+16,Creature,Snow Chaos Demon of Hate
+17,Creature,Snow Assassin Kraken
+18,Spell,Invisibility
+19,Artifact,Scepter
+20,Creature,Earth Fighter Cyclops
+21,Artifact,Cloak
+22,Enchantment,Empyrean Miracle Firebreath
+23,Creature,Ghoul
+24,Creature,Snow Lord Hydra
+25,Enchantment,Zealous Lunar Alacrity
+26,Enchantment,Age
+27,Creature,Dark Undead Dragon of Illusion
+28,Enchantment,Haste
+29,Creature,Warlock
+30,Creature,Troll
+31,Creature,Snow Nameless Phoenix of Hate
+32,Creature,Ghoul
+33,Spell,Revive
+34,Enchantment,Agony
+35,Spell,Wall
+36,Enchantment,Zealous Sorrow Alacrity
+37,Creature,Aura Undead Hydra
+38,Enchantment,Dire Necro Age
+39,Creature,Fairy
+40,Spell,Frigid Lightning
+41,Spell,Mighty Apocalypse Torment
+42,Creature,Aura Nameless Dragon of the Light
+43,Spell,Instant Frigid Rage
+44,Creature,Death Knight Dwarf of the Golden Palace

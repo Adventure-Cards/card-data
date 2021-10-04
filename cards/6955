@@ -1,46 +1,46 @@
-==================,DECK,6955,Strong
-0,Creature,Legendary,Aura Ancient Wizard of the Light
-1,Spell,Common,Reanimate
-2,Creature,Rare,Earth Lord Griffin
-3,Creature,Legendary,Aura Time Dragon of the Light
-4,Creature,Legendary,Death Lord Orge of the Eternal Land
-5,Spell,Legendary,Intense Ice
-6,Creature,Rare,Frozen Warrior Skin-Walker
-7,Enchantment,Common,Alacrity
-8,Creature,Rare,Frozen Warrior Skin-Walker
-9,Creature,Common,Warlock
-10,Artifact,Legendary,Extreme Pendant
-11,Spell,Common,Lightning
-12,Creature,Rare,Dark Priest Griffin
-13,Creature,Legendary,Light Queen Kraken of the Black Stone
-14,Spell,Mythic,Clever Stun
-15,Enchantment,Common,Agony
-16,Creature,Rare,Earth Undead Berserker
-17,Creature,Rare,Aura Priest Minotaur
-18,Enchantment,Mythic,Extreme Blight
-19,Spell,Common,Frost
-20,Spell,Legendary,Dire Hypnosis
-21,Enchantment,Mythic,Dire Shrink
-22,Creature,Rare,Death Knight Skin-Walker
-23,Creature,Common,Orc
-24,Creature,Common,Spider
-25,Creature,Rare,Snow Merchant Fairy
-26,Creature,Legendary,Snow Grand Demon of Hate
-27,Creature,Common,Warlock
-28,Spell,Common,Heal
-29,Creature,Common,Orc
-30,Spell,Legendary,Clever Frenzy
-31,Spell,Rare,Oblivion Frenzy
-32,Artifact,Legendary,Angry Divine Robe
-33,Artifact,Rare,Miracle Helm
-34,Artifact,Common,Boots
-35,Artifact,Mythic,Instant Staff
-36,Creature,Rare,Frozen Warrior Griffin
-37,Artifact,Common,Divine Robe
-38,Enchantment,Common,Alacrity
-39,Creature,Legendary,Frozen King Orge of the Low Hills
-40,Spell,Common,Gale
-41,Artifact,Rare,Dark Pendant
-42,Spell,Common,Gale
-43,Enchantment,Legendary,Intense Haste
-44,Spell,Mythic,Potent Rage
+==================,DECK,6955
+0,Creature,Aura Ancient Wizard of the Light
+1,Spell,Ice
+2,Creature,Earth Lord Griffin
+3,Creature,Aura Time Dragon of the Light
+4,Creature,Death Lord Elf of the Eternal Land
+5,Spell,Empyrean Nature Infuriate
+6,Creature,Frozen Warrior Orc
+7,Enchantment,Invert
+8,Creature,Frozen Warrior Orc
+9,Creature,Berserker
+10,Artifact,Zealous Cataclysmic Pendant
+11,Spell,Sorrow
+12,Creature,Dark Priest Griffin
+13,Creature,Light Queen Ogre of the Black Stone
+14,Spell,Mighty Nimble Gale
+15,Enchantment,Alacrity
+16,Creature,Earth Undead Goblin
+17,Creature,Aura Priest Cyclops
+18,Enchantment,Mighty Cataclysmic Flight
+19,Spell,Heal
+20,Spell,Zealous Oblivion Stun
+21,Enchantment,Zealous Frigid Blight
+22,Creature,Death Knight Orc
+23,Creature,Spider
+24,Creature,Paladin
+25,Creature,Snow Merchant Kraken
+26,Creature,Snow Grand Demon of Hate
+27,Creature,Berserker
+28,Spell,Fury
+29,Creature,Spider
+30,Spell,Instant Oblivion Burn
+31,Spell,Life Stun
+32,Artifact,Instant Dark Divine Robe
+33,Artifact,Life Helm
+34,Artifact,Boots
+35,Artifact,Irate Shimmering Staff
+36,Creature,Frozen Warrior Griffin
+37,Artifact,Divine Robe
+38,Enchantment,Shade
+39,Creature,Frozen King Elf of the Low Hills
+40,Spell,Pandemonium
+41,Artifact,Miracle Pendant
+42,Spell,Infuriate
+43,Enchantment,Empyrean Corpse Age
+44,Spell,Urgent Life Torment

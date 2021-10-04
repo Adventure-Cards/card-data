@@ -1,46 +1,46 @@
-==================,DECK,6719,Light
-0,Creature,Common,Paladin
-1,Artifact,Common,Sigil
-2,Enchantment,Common,Drain
-3,Enchantment,Common,Invert
-4,Artifact,Common,Helmet
-5,Enchantment,Common,Drain
-6,Creature,Rare,Snow Warrior Hydra
-7,Enchantment,Common,Drain
-8,Creature,Rare,Death Monk Berserker
-9,Enchantment,Common,Lethargy
-10,Spell,Legendary,Mighty Gale
-11,Creature,Legendary,Earth Priest Giant of the West
-12,Creature,Rare,Light Undead Griffin
-13,Spell,Common,Hypnosis
-14,Creature,Common,Orc
-15,Creature,Rare,Aura Priest Griffin
-16,Creature,Common,Dwarf
-17,Enchantment,Common,Strength
-18,Creature,Common,Goblin
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Blight
-21,Artifact,Common,Potion
-22,Enchantment,Common,Drain
-23,Creature,Common,Wolf
-24,Creature,Common,Elf
-25,Spell,Common,Rage
-26,Creature,Common,Magi
-27,Creature,Common,Orc
-28,Creature,Legendary,Frozen Monk Cyclops of the Polar Woods
-29,Spell,Common,Frost
-30,Enchantment,Legendary,Dire Strength
-31,Artifact,Common,Divine Robe
-32,Enchantment,Mythic,Dire Blight
-33,Creature,Rare,Frozen Warrior Minotaur
-34,Artifact,Rare,Corpse Tome
-35,Creature,Common,Wolf
-36,Enchantment,Common,Blight
-37,Creature,Legendary,Frozen Knight Cyclops of the Low Hills
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Strength
-40,Spell,Common,Frenzy
-41,Creature,Common,Eagle
-42,Spell,Legendary,Angry Stricken
-43,Enchantment,Common,Invert
-44,Creature,Common,Wolf
+==================,DECK,6719
+0,Creature,Troll
+1,Artifact,Sigil
+2,Enchantment,Haste
+3,Enchantment,Flight
+4,Artifact,Helmet
+5,Enchantment,Shade
+6,Creature,Snow Warrior Hydra
+7,Enchantment,Lethargy
+8,Creature,Death Monk Goblin
+9,Enchantment,Invert
+10,Spell,Zealous Chimeric Maelstrom
+11,Creature,Earth Priest Dwarf of the West
+12,Creature,Light Undead Griffin
+13,Spell,Invisibility
+14,Creature,Spider
+15,Creature,Aura Priest Griffin
+16,Creature,Magi
+17,Enchantment,Strength
+18,Creature,Skin-Walker
+19,Creature,Magi
+20,Enchantment,Invert
+21,Artifact,Potion
+22,Enchantment,Flight
+23,Creature,Wolf
+24,Creature,Warlock
+25,Spell,Stun
+26,Creature,Fairy
+27,Creature,Spider
+28,Creature,Frozen Monk Giant of the Polar Woods
+29,Spell,Frost
+30,Enchantment,Irate Nimble Blight
+31,Artifact,Divine Robe
+32,Enchantment,Mighty Nimble Invert
+33,Creature,Frozen Warrior Cyclops
+34,Artifact,Forged Tome
+35,Creature,Wolf
+36,Enchantment,Lethargy
+37,Creature,Frozen Knight Giant of the Low Hills
+38,Creature,Magi
+39,Enchantment,Haste
+40,Spell,Fury
+41,Creature,Eagle
+42,Spell,Empyrean Sorrow Assault
+43,Enchantment,Flight
+44,Creature,Wolf

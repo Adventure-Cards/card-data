@@ -1,46 +1,46 @@
-==================,DECK,6769,Medium
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shrink
-2,Creature,Rare,Aura Lord Skin-Walker
-3,Spell,Mythic,Mighty Gravitation
-4,Creature,Common,Orc
-5,Enchantment,Common,Haste
-6,Spell,Legendary,Dire Frenzy
-7,Creature,Common,Wolf
-8,Enchantment,Common,Agony
-9,Creature,Common,Warlock
-10,Creature,Common,Warlock
-11,Enchantment,Common,Shade
-12,Creature,Rare,Earth Knight Berserker
-13,Spell,Common,Ice
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Lethargy
-16,Spell,Rare,Life Fury
-17,Creature,Rare,Death Queen Minotaur
-18,Enchantment,Mythic,Dire Deathgrip
-19,Spell,Common,Heal
-20,Creature,Common,Eagle
-21,Creature,Common,Elf
-22,Creature,Common,Elf
-23,Spell,Legendary,Angry Rage
-24,Creature,Common,Goblin
-25,Creature,Legendary,Aura Fighter Cyclops of the Swamp
-26,Creature,Common,Warlock
-27,Creature,Common,Warlock
-28,Creature,Rare,Frozen Lord Griffin
-29,Creature,Common,Elf
-30,Artifact,Common,Helm
-31,Creature,Rare,Light Lord Minotaur
-32,Creature,Rare,Dark Queen Berserker
-33,Enchantment,Legendary,Clever Shade
-34,Creature,Mythic,Earth Undead Phoenix of the Shadows
-35,Spell,Rare,Nature Pandemonium
-36,Creature,Common,Wolf
-37,Spell,Rare,Shimmering Stricken
-38,Creature,Common,Orc
-39,Creature,Common,Paladin
-40,Creature,Rare,Death Lord Skin-Walker
-41,Creature,Common,Wolf
-42,Creature,Common,Orc
-43,Creature,Rare,Light Lord Fairy
-44,Creature,Common,Goblin
+==================,DECK,6769
+0,Creature,Eagle
+1,Enchantment,Deathgrip
+2,Creature,Aura Lord Orc
+3,Spell,Instant Lunar Wall
+4,Creature,Spider
+5,Enchantment,Firebreath
+6,Spell,Urgent Apocalypse Burn
+7,Creature,Wolf
+8,Enchantment,Shade
+9,Creature,Berserker
+10,Creature,Berserker
+11,Enchantment,Flight
+12,Creature,Earth Knight Goblin
+13,Spell,Stricken
+14,Creature,Magi
+15,Enchantment,Deathgrip
+16,Spell,Grim Ice
+17,Creature,Death Queen Cyclops
+18,Enchantment,Mighty Oblivion Invert
+19,Spell,Infuriate
+20,Creature,Eagle
+21,Creature,Warlock
+22,Creature,Warlock
+23,Spell,Urgent Miracle Gale
+24,Creature,Skin-Walker
+25,Creature,Aura Fighter Giant of the Swamp
+26,Creature,Berserker
+27,Creature,Berserker
+28,Creature,Frozen Lord Griffin
+29,Creature,Warlock
+30,Artifact,Helm
+31,Creature,Light Lord Cyclops
+32,Creature,Dark Queen Goblin
+33,Enchantment,Ardent Frigid Haste
+34,Creature,Earth Undead Phoenix of the Shadows
+35,Spell,Nature Pandemonium
+36,Creature,Wolf
+37,Spell,Nature Stun
+38,Creature,Spider
+39,Creature,Troll
+40,Creature,Death Lord Orc
+41,Creature,Wolf
+42,Creature,Spider
+43,Creature,Light Lord Kraken
+44,Creature,Skin-Walker

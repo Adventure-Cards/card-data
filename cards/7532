@@ -1,46 +1,46 @@
-==================,DECK,7532,Light
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Goblin
-2,Spell,Common,Torment
-3,Spell,Common,Freeze
-4,Creature,Common,Warlock
-5,Spell,Common,Burst
-6,Creature,Common,Dwarf
-7,Spell,Common,Gravitation
-8,Spell,Common,Fury
-9,Artifact,Common,Belt
-10,Spell,Common,Invisibility
-11,Creature,Common,Magi
-12,Spell,Common,Frenzy
-13,Creature,Common,Paladin
-14,Artifact,Legendary,Clever Shield
-15,Enchantment,Common,Lethargy
-16,Creature,Mythic,Earth Chaos Demon of the Shadows
-17,Enchantment,Rare,Forged Invert
-18,Creature,Mythic,Light Chaos Wizard of the Sky
-19,Creature,Common,Warlock
-20,Enchantment,Rare,Nature Deathgrip
-21,Creature,Rare,Death Priest Hydra
-22,Spell,Common,Revive
-23,Enchantment,Common,Shield
-24,Enchantment,Common,Deathgrip
-25,Creature,Mythic,Dark Chaos Wizard of Illusion
-26,Creature,Common,Elf
-27,Creature,Common,Elf
-28,Spell,Common,Revive
-29,Spell,Legendary,Intense Heal
-30,Artifact,Rare,Hateful Helm
-31,Spell,Legendary,Urgent Sorrow
-32,Artifact,Rare,Gloom Sigil
-33,Enchantment,Legendary,Dire Deathgrip
-34,Spell,Legendary,Extreme Freeze
-35,Creature,Legendary,Aura King Orge of the Haven
-36,Spell,Common,Torment
-37,Creature,Common,Paladin
-38,Creature,Common,Spider
-39,Creature,Legendary,Earth Warrior Oni of the Magical Forest
-40,Creature,Legendary,Earth Assassin Orge of the Haven
-41,Enchantment,Common,Alacrity
-42,Enchantment,Common,Flight
-43,Creature,Common,Warlock
-44,Artifact,Common,Sword
+==================,DECK,7532
+0,Enchantment,Deathgrip
+1,Creature,Skin-Walker
+2,Spell,Maelstrom
+3,Spell,Heal
+4,Creature,Berserker
+5,Spell,Assault
+6,Creature,Magi
+7,Spell,Invisibility
+8,Spell,Pandemonium
+9,Artifact,Belt
+10,Spell,Fury
+11,Creature,Fairy
+12,Spell,Fire
+13,Creature,Troll
+14,Artifact,Empyrean Apocalypse Shield
+15,Enchantment,Flight
+16,Creature,Earth Chaos Demon of the Shadows
+17,Enchantment,Sorrow Firebreath
+18,Creature,Light Chaos Wizard of the Sky
+19,Creature,Berserker
+20,Enchantment,Shimmering Strength
+21,Creature,Death Priest Hydra
+22,Spell,Maelstrom
+23,Enchantment,Alacrity
+24,Enchantment,Shield
+25,Creature,Dark Chaos Wizard of Illusion
+26,Creature,Warlock
+27,Creature,Warlock
+28,Spell,Assault
+29,Spell,Dire Hateful Tempest
+30,Artifact,Chimeric Helm
+31,Spell,Zealous Forged Freeze
+32,Artifact,Dark Sigil
+33,Enchantment,Mighty Oblivion Invert
+34,Spell,Instant Miracle Invisibility
+35,Creature,Aura King Elf of the Haven
+36,Spell,Frenzy
+37,Creature,Troll
+38,Creature,Paladin
+39,Creature,Earth Warrior Oni of the Magical Forest
+40,Creature,Earth Assassin Elf of the Haven
+41,Enchantment,Agony
+42,Enchantment,Alacrity
+43,Creature,Berserker
+44,Artifact,Sword

@@ -1,46 +1,46 @@
-==================,DECK,6272,Medium
-0,Creature,Rare,Dark Warrior Berserker
-1,Creature,Common,Spider
-2,Enchantment,Common,Flight
-3,Artifact,Common,Helm
-4,Creature,Common,Warlock
-5,Creature,Rare,Light Monk Griffin
-6,Creature,Rare,Dark Queen Fairy
-7,Enchantment,Rare,Frigid Strength
-8,Spell,Legendary,Urgent Maelstrom
-9,Spell,Rare,Life Infuriate
-10,Creature,Rare,Frozen Priest Fairy
-11,Enchantment,Common,Shade
-12,Enchantment,Common,Shade
-13,Artifact,Common,Crown
-14,Creature,Rare,Aura Undead Berserker
-15,Artifact,Rare,Oblivion Gloves
-16,Creature,Common,Orc
-17,Spell,Common,Burst
-18,Creature,Mythic,Aura Time Dragon of the Light
-19,Creature,Mythic,Snow Undead Dragon of Hate
-20,Spell,Common,Sorrow
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Age
-23,Enchantment,Legendary,Instant Flight
-24,Enchantment,Rare,Cataclysmic Haste
-25,Creature,Common,Warlock
-26,Spell,Rare,Oblivion Gravitation
-27,Enchantment,Common,Strength
-28,Enchantment,Common,Blight
-29,Enchantment,Legendary,Clever Lethargy
-30,Spell,Common,Stricken
-31,Spell,Common,Assault
-32,Enchantment,Mythic,Potent Alacrity
-33,Enchantment,Common,Lethargy
-34,Artifact,Common,Ring
-35,Enchantment,Rare,Forged Agony
-36,Creature,Common,Paladin
-37,Creature,Common,Wolf
-38,Creature,Legendary,Earth King Kraken of the Magical Forest
-39,Creature,Legendary,Aura Merchant Oni of the Magical Forest
-40,Spell,Rare,Lunar Infuriate
-41,Spell,Mythic,Urgent Frenzy
-42,Artifact,Legendary,Intense Divine Robe
-43,Creature,Mythic,Earth Undead Phoenix of the Shadows
-44,Enchantment,Rare,Lunar Flight
+==================,DECK,6272
+0,Creature,Dark Warrior Goblin
+1,Creature,Paladin
+2,Enchantment,Strength
+3,Artifact,Helm
+4,Creature,Berserker
+5,Creature,Light Monk Griffin
+6,Creature,Dark Queen Kraken
+7,Enchantment,Nimble Blight
+8,Spell,Potent Solar Invisibility
+9,Spell,Grim Ice
+10,Creature,Frozen Priest Kraken
+11,Enchantment,Strength
+12,Enchantment,Haste
+13,Artifact,Crown
+14,Creature,Aura Undead Goblin
+15,Artifact,Frigid Gloves
+16,Creature,Spider
+17,Spell,Lightning
+18,Creature,Aura Time Dragon of the Light
+19,Creature,Snow Undead Dragon of Hate
+20,Spell,Lightning
+21,Creature,Ghoul
+22,Enchantment,Lethargy
+23,Enchantment,Clever Hateful Lethargy
+24,Enchantment,Miracle Firebreath
+25,Creature,Berserker
+26,Spell,Victory Hypnosis
+27,Enchantment,Drain
+28,Enchantment,Age
+29,Enchantment,Dire Grim Shade
+30,Spell,Fireball
+31,Spell,Burst
+32,Enchantment,Ardent Apocalypse Haste
+33,Enchantment,Haste
+34,Artifact,Ring
+35,Enchantment,Miracle Firebreath
+36,Creature,Troll
+37,Creature,Wolf
+38,Creature,Earth King Ogre of the Magical Forest
+39,Creature,Aura Merchant Oni of the Magical Forest
+40,Spell,Dark Vortex
+41,Spell,Dire Solar Stricken
+42,Artifact,Instant Shimmering Divine Robe
+43,Creature,Earth Undead Phoenix of the Shadows
+44,Enchantment,Lunar Firebreath

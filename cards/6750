@@ -1,46 +1,46 @@
-==================,DECK,6750,Light
-0,Artifact,Common,Helmet
-1,Enchantment,Common,Drain
-2,Creature,Common,Magi
-3,Creature,Common,Ghoul
-4,Enchantment,Mythic,Clever Agony
-5,Creature,Legendary,Dark Assassin Oni of the West
-6,Spell,Rare,Grim Freeze
-7,Creature,Common,Magi
-8,Creature,Common,Goblin
-9,Spell,Common,Pandemonium
-10,Artifact,Common,Belt
-11,Creature,Common,Paladin
-12,Enchantment,Common,Age
-13,Spell,Rare,Frigid Heal
-14,Enchantment,Mythic,Mighty Shield
-15,Artifact,Common,Pendant
-16,Enchantment,Common,Blight
-17,Creature,Mythic,Dark Grand Wizard of Illusion
-18,Spell,Legendary,Clever Rage
-19,Creature,Common,Ghoul
-20,Spell,Common,Heal
-21,Creature,Common,Paladin
-22,Creature,Rare,Dark Rogue Minotaur
-23,Creature,Rare,Dark Priest Berserker
-24,Creature,Common,Eagle
-25,Enchantment,Rare,Necro Drain
-26,Spell,Common,Sorrow
-27,Enchantment,Common,Agony
-28,Creature,Common,Paladin
-29,Creature,Common,Paladin
-30,Spell,Common,Infuriate
-31,Creature,Common,Eagle
-32,Creature,Common,Orc
-33,Spell,Common,Maelstrom
-34,Spell,Common,Vortex
-35,Creature,Legendary,Snow Warrior Oni of the Haven
-36,Creature,Common,Paladin
-37,Creature,Common,Wolf
-38,Spell,Common,Lightning
-39,Enchantment,Rare,Corpse Shield
-40,Creature,Common,Goblin
-41,Enchantment,Rare,Nimble Lethargy
-42,Enchantment,Common,Invert
-43,Enchantment,Mythic,Mighty Shield
-44,Creature,Common,Wolf
+==================,DECK,6750
+0,Artifact,Helmet
+1,Enchantment,Firebreath
+2,Creature,Fairy
+3,Creature,Ghoul
+4,Enchantment,Dire Life Shade
+5,Creature,Dark Assassin Oni of the West
+6,Spell,Nimble Wall
+7,Creature,Fairy
+8,Creature,Skin-Walker
+9,Spell,Burst
+10,Artifact,Belt
+11,Creature,Troll
+12,Enchantment,Drain
+13,Spell,Victory Hypnosis
+14,Enchantment,Irate Gloom Alacrity
+15,Artifact,Pendant
+16,Enchantment,Lethargy
+17,Creature,Dark Grand Wizard of Illusion
+18,Spell,Irate Victory Vortex
+19,Creature,Ghoul
+20,Spell,Heal
+21,Creature,Troll
+22,Creature,Dark Rogue Cyclops
+23,Creature,Dark Priest Goblin
+24,Creature,Eagle
+25,Enchantment,Forged Age
+26,Spell,Invisibility
+27,Enchantment,Firebreath
+28,Creature,Troll
+29,Creature,Troll
+30,Spell,Assault
+31,Creature,Eagle
+32,Creature,Spider
+33,Spell,Frost
+34,Spell,Burn
+35,Creature,Snow Warrior Oni of the Haven
+36,Creature,Troll
+37,Creature,Wolf
+38,Spell,Burn
+39,Enchantment,Nature Deathgrip
+40,Creature,Skin-Walker
+41,Enchantment,Hateful Age
+42,Enchantment,Haste
+43,Enchantment,Instant Gloom Shrink
+44,Creature,Wolf

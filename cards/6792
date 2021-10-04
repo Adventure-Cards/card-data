@@ -1,46 +1,46 @@
-==================,DECK,6792,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Wolf
-2,Enchantment,Mythic,Intense Flight
-3,Creature,Common,Magi
-4,Creature,Common,Orc
-5,Spell,Common,Stricken
-6,Creature,Rare,Earth Undead Skin-Walker
-7,Creature,Legendary,Earth Assassin Cyclops of the Border
-8,Creature,Common,Magi
-9,Creature,Common,Eagle
-10,Creature,Common,Magi
-11,Artifact,Common,Gloves
-12,Creature,Common,Elf
-13,Creature,Legendary,Snow Lord Orge of the Eternal Land
-14,Artifact,Rare,Dark Belt
-15,Enchantment,Rare,Dark Alacrity
-16,Enchantment,Common,Deathgrip
-17,Enchantment,Mythic,Intense Shield
-18,Creature,Common,Warlock
-19,Spell,Mythic,Clever Frenzy
-20,Spell,Mythic,Instant Stricken
-21,Creature,Common,Orc
-22,Spell,Common,Stun
-23,Artifact,Common,Bracers
-24,Creature,Common,Wolf
-25,Creature,Common,Orc
-26,Creature,Legendary,Earth Knight Oni of the Plains
-27,Spell,Common,Burn
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Age
-30,Enchantment,Common,Shrink
-31,Spell,Rare,Necro Fury
-32,Spell,Common,Heal
-33,Enchantment,Common,Shade
-34,Creature,Common,Warlock
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Invert
-37,Creature,Common,Orc
-38,Creature,Common,Paladin
-39,Enchantment,Common,Alacrity
-40,Enchantment,Common,Alacrity
-41,Creature,Legendary,Earth Priest Giant of the Arctic Blizzards
-42,Enchantment,Legendary,Instant Blight
-43,Artifact,Legendary,Extreme Scepter
-44,Enchantment,Rare,Nature Shrink
+==================,DECK,6792
+0,Creature,Skin-Walker
+1,Creature,Wolf
+2,Enchantment,Clever Hateful Lethargy
+3,Creature,Fairy
+4,Creature,Spider
+5,Spell,Heal
+6,Creature,Earth Undead Orc
+7,Creature,Earth Assassin Giant of the Border
+8,Creature,Fairy
+9,Creature,Eagle
+10,Creature,Fairy
+11,Artifact,Gloves
+12,Creature,Warlock
+13,Creature,Snow Lord Elf of the Eternal Land
+14,Artifact,Dark Belt
+15,Enchantment,Dark Alacrity
+16,Enchantment,Lethargy
+17,Enchantment,Dire Nature Age
+18,Creature,Berserker
+19,Spell,Instant Oblivion Frenzy
+20,Spell,Clever Corpse Infuriate
+21,Creature,Spider
+22,Spell,Rage
+23,Artifact,Bracers
+24,Creature,Wolf
+25,Creature,Spider
+26,Creature,Earth Knight Oni of the Plains
+27,Spell,Torment
+28,Creature,Magi
+29,Enchantment,Haste
+30,Enchantment,Lethargy
+31,Spell,Corpse Reanimate
+32,Spell,Maelstrom
+33,Enchantment,Alacrity
+34,Creature,Berserker
+35,Creature,Magi
+36,Enchantment,Lethargy
+37,Creature,Spider
+38,Creature,Troll
+39,Enchantment,Shade
+40,Enchantment,Lethargy
+41,Creature,Earth Priest Dwarf of the Arctic Blizzards
+42,Enchantment,Potent Solar Strength
+43,Artifact,Instant Sorrow Scepter
+44,Enchantment,Necro Deathgrip

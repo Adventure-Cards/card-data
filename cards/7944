@@ -1,46 +1,46 @@
-==================,DECK,7944,Light
-0,Artifact,Common,Gloves
-1,Creature,Common,Eagle
-2,Creature,Rare,Snow Assassin Berserker
-3,Spell,Common,Heal
-4,Creature,Common,Dwarf
-5,Creature,Common,Wolf
-6,Enchantment,Common,Blight
-7,Creature,Common,Wolf
-8,Creature,Common,Elf
-9,Creature,Common,Spider
-10,Enchantment,Common,Blight
-11,Creature,Common,Goblin
-12,Creature,Common,Wolf
-13,Enchantment,Common,Shade
-14,Enchantment,Rare,Gloom Alacrity
-15,Spell,Common,Reanimate
-16,Spell,Common,Fury
-17,Creature,Common,Magi
-18,Creature,Common,Eagle
-19,Creature,Common,Dwarf
-20,Creature,Common,Eagle
-21,Artifact,Common,Greaves
-22,Creature,Common,Orc
-23,Creature,Common,Wolf
-24,Spell,Common,Burn
-25,Creature,Legendary,Earth Warrior Kraken of the West
-26,Enchantment,Common,Agony
-27,Creature,Common,Dwarf
-28,Spell,Common,Freeze
-29,Creature,Legendary,Earth Thief Cyclops of the West
-30,Artifact,Common,Ghost Wand
-31,Spell,Rare,Corpse Invisibility
-32,Enchantment,Legendary,Potent Blight
-33,Creature,Common,Ghoul
-34,Spell,Common,Burst
-35,Enchantment,Common,Flight
-36,Creature,Common,Wolf
-37,Enchantment,Mythic,Instant Lethargy
-38,Spell,Common,Infuriate
-39,Enchantment,Rare,Hateful Deathgrip
-40,Creature,Common,Orc
-41,Enchantment,Mythic,Instant Blight
-42,Spell,Common,Maelstrom
-43,Creature,Rare,Death Priest Skin-Walker
-44,Spell,Common,Sorrow
+==================,DECK,7944
+0,Artifact,Gloves
+1,Creature,Eagle
+2,Creature,Snow Assassin Goblin
+3,Spell,Assault
+4,Creature,Magi
+5,Creature,Wolf
+6,Enchantment,Shield
+7,Creature,Wolf
+8,Creature,Warlock
+9,Creature,Paladin
+10,Enchantment,Strength
+11,Creature,Skin-Walker
+12,Creature,Wolf
+13,Enchantment,Deathgrip
+14,Enchantment,Dark Firebreath
+15,Spell,Frost
+16,Spell,Frost
+17,Creature,Fairy
+18,Creature,Eagle
+19,Creature,Magi
+20,Creature,Eagle
+21,Artifact,Greaves
+22,Creature,Spider
+23,Creature,Wolf
+24,Spell,Vortex
+25,Creature,Earth Warrior Ogre of the West
+26,Enchantment,Agony
+27,Creature,Magi
+28,Spell,Fury
+29,Creature,Earth Thief Giant of the West
+30,Artifact,Ghost Wand
+31,Spell,Forged Fire
+32,Enchantment,Potent Nimble Drain
+33,Creature,Ghoul
+34,Spell,Rage
+35,Enchantment,Drain
+36,Creature,Wolf
+37,Enchantment,Instant Hateful Strength
+38,Spell,Stun
+39,Enchantment,Sorrow Shield
+40,Creature,Spider
+41,Enchantment,Clever Solar Lethargy
+42,Spell,Rage
+43,Creature,Death Priest Orc
+44,Spell,Sorrow

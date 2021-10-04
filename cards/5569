@@ -1,46 +1,46 @@
-==================,DECK,5569,Light
-0,Artifact,Common,Divine Robe
-1,Artifact,Common,Belt
-2,Enchantment,Common,Haste
-3,Creature,Common,Eagle
-4,Spell,Rare,Life Gale
-5,Enchantment,Common,Deathgrip
-6,Spell,Common,Assault
-7,Spell,Common,Maelstrom
-8,Creature,Common,Paladin
-9,Enchantment,Mythic,Potent Shrink
-10,Artifact,Rare,Shimmering Scepter
-11,Creature,Common,Paladin
-12,Creature,Common,Orc
-13,Artifact,Legendary,Angry Ring
-14,Creature,Common,Elf
-15,Enchantment,Common,Strength
-16,Creature,Common,Ghoul
-17,Creature,Common,Magi
-18,Spell,Rare,Cataclysmic Reanimate
-19,Creature,Common,Paladin
-20,Artifact,Common,Divine Robe
-21,Artifact,Common,Helmet
-22,Creature,Common,Orc
-23,Creature,Legendary,Snow Merchant Orge of the Eastern Skies
-24,Creature,Common,Wolf
-25,Creature,Rare,Snow Undead Berserker
-26,Spell,Common,Vortex
-27,Spell,Common,Stricken
-28,Creature,Rare,Death Undead Minotaur
-29,Creature,Common,Eagle
-30,Spell,Common,Torment
-31,Creature,Common,Paladin
-32,Creature,Common,Magi
-33,Creature,Legendary,Frozen Warrior Giant of the Arctic Blizzards
-34,Spell,Legendary,Angry Assault
-35,Spell,Common,Infuriate
-36,Spell,Common,Ice
-37,Spell,Common,Vortex
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Alacrity
-40,Creature,Legendary,Dark Monk Kraken of the Frozen Castle
-41,Spell,Common,Stricken
-42,Creature,Common,Warlock
-43,Enchantment,Common,Strength
-44,Enchantment,Common,Shrink
+==================,DECK,5569
+0,Artifact,Divine Robe
+1,Artifact,Belt
+2,Enchantment,Alacrity
+3,Creature,Eagle
+4,Spell,Grim Maelstrom
+5,Enchantment,Shrink
+6,Spell,Infuriate
+7,Spell,Revive
+8,Creature,Troll
+9,Enchantment,Zealous Frigid Blight
+10,Artifact,Nature Scepter
+11,Creature,Troll
+12,Creature,Spider
+13,Artifact,Potent Sorrow Ring
+14,Creature,Warlock
+15,Enchantment,Agony
+16,Creature,Ghoul
+17,Creature,Fairy
+18,Spell,Dark Heal
+19,Creature,Troll
+20,Artifact,Divine Robe
+21,Artifact,Helmet
+22,Creature,Spider
+23,Creature,Snow Merchant Elf of the Eastern Skies
+24,Creature,Wolf
+25,Creature,Snow Undead Goblin
+26,Spell,Stun
+27,Spell,Revive
+28,Creature,Death Undead Cyclops
+29,Creature,Eagle
+30,Spell,Stun
+31,Creature,Troll
+32,Creature,Fairy
+33,Creature,Frozen Warrior Dwarf of the Arctic Blizzards
+34,Spell,Irate Miracle Ice
+35,Spell,Assault
+36,Spell,Lightning
+37,Spell,Lightning
+38,Creature,Ghoul
+39,Enchantment,Deathgrip
+40,Creature,Dark Monk Ogre of the Frozen Castle
+41,Spell,Stun
+42,Creature,Berserker
+43,Enchantment,Invert
+44,Enchantment,Agony

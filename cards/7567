@@ -1,46 +1,46 @@
-==================,DECK,7567,Medium
-0,Enchantment,Common,Haste
-1,Enchantment,Common,Drain
-2,Creature,Common,Warlock
-3,Enchantment,Rare,Cataclysmic Age
-4,Spell,Rare,Forged Revive
-5,Creature,Common,Wolf
-6,Spell,Common,Gale
-7,Spell,Rare,Forged Gravitation
-8,Enchantment,Common,Shield
-9,Creature,Common,Wolf
-10,Creature,Rare,Snow Rogue Fairy
-11,Creature,Common,Magi
-12,Creature,Legendary,Frozen Thief Giant of the Polar Woods
-13,Enchantment,Common,Agony
-14,Spell,Common,Stun
-15,Creature,Mythic,Aura Nameless Phoenix of the Light
-16,Spell,Common,Burn
-17,Creature,Common,Paladin
-18,Spell,Legendary,Intense Burn
-19,Enchantment,Rare,Life Shrink
-20,Creature,Common,Paladin
-21,Creature,Common,Eagle
-22,Enchantment,Common,Age
-23,Creature,Rare,Light Undead Berserker
-24,Creature,Legendary,Earth Monk Kraken of the Plains
-25,Artifact,Rare,Dark Ghost Wand
-26,Spell,Common,Assault
-27,Spell,Rare,Gloom Revive
-28,Spell,Common,Heal
-29,Creature,Legendary,Frozen Knight Orge of the Plains
-30,Creature,Legendary,Earth Lord Cyclops of the Arctic Blizzards
-31,Spell,Common,Gravitation
-32,Enchantment,Common,Deathgrip
-33,Artifact,Rare,Nature Helmet
-34,Creature,Common,Dwarf
-35,Spell,Common,Heal
-36,Enchantment,Rare,Cataclysmic Blight
-37,Creature,Common,Spider
-38,Spell,Common,Stun
-39,Creature,Common,Elf
-40,Creature,Common,Magi
-41,Creature,Rare,Death Assassin Berserker
-42,Enchantment,Rare,Gloom Shield
-43,Creature,Legendary,Aura Warrior Oni of the Bright Mountains
-44,Spell,Common,Frost
+==================,DECK,7567
+0,Enchantment,Firebreath
+1,Enchantment,Age
+2,Creature,Berserker
+3,Enchantment,Gloom Firebreath
+4,Spell,Chimeric Burst
+5,Creature,Wolf
+6,Spell,Stricken
+7,Spell,Lunar Frenzy
+8,Enchantment,Agony
+9,Creature,Wolf
+10,Creature,Snow Rogue Kraken
+11,Creature,Fairy
+12,Creature,Frozen Thief Dwarf of the Polar Woods
+13,Enchantment,Shield
+14,Spell,Gale
+15,Creature,Aura Nameless Phoenix of the Light
+16,Spell,Infuriate
+17,Creature,Troll
+18,Spell,Mighty Nature Sorrow
+19,Enchantment,Frigid Blight
+20,Creature,Troll
+21,Creature,Eagle
+22,Enchantment,Alacrity
+23,Creature,Light Undead Goblin
+24,Creature,Earth Monk Ogre of the Plains
+25,Artifact,Miracle Ghost Wand
+26,Spell,Lightning
+27,Spell,Chimeric Frost
+28,Spell,Maelstrom
+29,Creature,Frozen Knight Elf of the Plains
+30,Creature,Earth Lord Giant of the Arctic Blizzards
+31,Spell,Heal
+32,Enchantment,Strength
+33,Artifact,Solar Helmet
+34,Creature,Magi
+35,Spell,Infuriate
+36,Enchantment,Cataclysmic Alacrity
+37,Creature,Paladin
+38,Spell,Frenzy
+39,Creature,Warlock
+40,Creature,Fairy
+41,Creature,Death Assassin Goblin
+42,Enchantment,Gloom Flight
+43,Creature,Aura Warrior Oni of the Bright Mountains
+44,Spell,Fire

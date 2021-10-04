@@ -1,46 +1,46 @@
-==================,DECK,5534,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Invisibility
-2,Artifact,Rare,Shimmering Boots
-3,Creature,Common,Spider
-4,Creature,Common,Elf
-5,Artifact,Legendary,Intense Tome
-6,Creature,Common,Warlock
-7,Creature,Rare,Frozen Fighter Minotaur
-8,Creature,Common,Eagle
-9,Creature,Rare,Death Fighter Fairy
-10,Artifact,Common,Ring
-11,Spell,Common,Stricken
-12,Enchantment,Rare,Grim Lethargy
-13,Enchantment,Common,Haste
-14,Creature,Common,Spider
-15,Creature,Common,Paladin
-16,Creature,Rare,Light Lord Fairy
-17,Artifact,Common,Sigil
-18,Artifact,Rare,Hateful Scythe
-19,Spell,Common,Freeze
-20,Creature,Common,Eagle
-21,Spell,Legendary,Instant Frost
-22,Enchantment,Common,Deathgrip
-23,Enchantment,Legendary,Extreme Haste
-24,Creature,Rare,Earth Merchant Fairy
-25,Creature,Rare,Frozen Merchant Minotaur
-26,Enchantment,Common,Invert
-27,Enchantment,Common,Alacrity
-28,Enchantment,Common,Haste
-29,Enchantment,Common,Shrink
-30,Enchantment,Common,Age
-31,Creature,Common,Dwarf
-32,Creature,Common,Paladin
-33,Enchantment,Rare,Life Haste
-34,Spell,Common,Invisibility
-35,Creature,Common,Dwarf
-36,Creature,Common,Paladin
-37,Enchantment,Common,Age
-38,Creature,Legendary,Aura Lord Giant of the Polar Woods
-39,Creature,Common,Eagle
-40,Spell,Common,Torment
-41,Enchantment,Common,Lethargy
-42,Creature,Common,Ghoul
-43,Spell,Common,Stricken
-44,Creature,Common,Spider
+==================,DECK,5534
+0,Creature,Eagle
+1,Spell,Gale
+2,Artifact,Corpse Boots
+3,Creature,Paladin
+4,Creature,Warlock
+5,Artifact,Empyrean Corpse Tome
+6,Creature,Berserker
+7,Creature,Frozen Fighter Cyclops
+8,Creature,Eagle
+9,Creature,Death Fighter Kraken
+10,Artifact,Ring
+11,Spell,Reanimate
+12,Enchantment,Grim Shade
+13,Enchantment,Flight
+14,Creature,Paladin
+15,Creature,Troll
+16,Creature,Light Lord Kraken
+17,Artifact,Sigil
+18,Artifact,Dark Scythe
+19,Spell,Ice
+20,Creature,Eagle
+21,Spell,Urgent Solar Assault
+22,Enchantment,Invert
+23,Enchantment,Zealous Miracle Alacrity
+24,Creature,Earth Merchant Kraken
+25,Creature,Frozen Merchant Cyclops
+26,Enchantment,Invert
+27,Enchantment,Drain
+28,Enchantment,Haste
+29,Enchantment,Shrink
+30,Enchantment,Agony
+31,Creature,Magi
+32,Creature,Troll
+33,Enchantment,Life Haste
+34,Spell,Stun
+35,Creature,Magi
+36,Creature,Troll
+37,Enchantment,Flight
+38,Creature,Aura Lord Dwarf of the Polar Woods
+39,Creature,Eagle
+40,Spell,Revive
+41,Enchantment,Deathgrip
+42,Creature,Ghoul
+43,Spell,Freeze
+44,Creature,Paladin

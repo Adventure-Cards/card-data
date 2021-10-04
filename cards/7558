@@ -1,46 +1,46 @@
-==================,DECK,7558,Light
-0,Creature,Common,Paladin
-1,Creature,Legendary,Snow Rogue Oni of the Low Hills
-2,Spell,Common,Vortex
-3,Spell,Common,Gravitation
-4,Spell,Common,Lightning
-5,Artifact,Legendary,Intense Scythe
-6,Creature,Common,Wolf
-7,Creature,Rare,Light Warrior Skin-Walker
-8,Creature,Common,Eagle
-9,Enchantment,Rare,Nimble Shade
-10,Artifact,Common,Staff
-11,Spell,Common,Maelstrom
-12,Enchantment,Common,Age
-13,Creature,Rare,Dark Fighter Berserker
-14,Creature,Common,Wolf
-15,Spell,Common,Stricken
-16,Creature,Common,Spider
-17,Artifact,Rare,Life Ring
-18,Spell,Rare,Miracle Hypnosis
-19,Spell,Common,Burst
-20,Creature,Common,Warlock
-21,Creature,Common,Goblin
-22,Enchantment,Legendary,Mighty Shield
-23,Spell,Common,Fury
-24,Enchantment,Rare,Nimble Shade
-25,Artifact,Legendary,Instant Divine Robe
-26,Creature,Common,Elf
-27,Creature,Common,Magi
-28,Creature,Common,Ghoul
-29,Creature,Common,Ghoul
-30,Creature,Mythic,Dark Nameless Dragon of Illusion
-31,Creature,Common,Goblin
-32,Spell,Common,Rage
-33,Artifact,Common,Belt
-34,Spell,Rare,Necro Sorrow
-35,Creature,Common,Paladin
-36,Spell,Common,Pandemonium
-37,Enchantment,Common,Shrink
-38,Artifact,Common,Gloves
-39,Creature,Common,Magi
-40,Creature,Legendary,Light Assassin Orge of the Plains
-41,Spell,Common,Pandemonium
-42,Creature,Common,Elf
-43,Creature,Legendary,Light Assassin Oni of the Bright Mountains
-44,Spell,Common,Torment
+==================,DECK,7558
+0,Creature,Troll
+1,Creature,Snow Rogue Oni of the Low Hills
+2,Spell,Burn
+3,Spell,Frenzy
+4,Spell,Reanimate
+5,Artifact,Empyrean Forged Scythe
+6,Creature,Wolf
+7,Creature,Light Warrior Orc
+8,Creature,Eagle
+9,Enchantment,Necro Age
+10,Artifact,Staff
+11,Spell,Rage
+12,Enchantment,Agony
+13,Creature,Dark Fighter Goblin
+14,Creature,Wolf
+15,Spell,Infuriate
+16,Creature,Paladin
+17,Artifact,Frigid Ring
+18,Spell,Frigid Gravitation
+19,Spell,Hypnosis
+20,Creature,Berserker
+21,Creature,Skin-Walker
+22,Enchantment,Ardent Gloom Shield
+23,Spell,Tempest
+24,Enchantment,Necro Age
+25,Artifact,Instant Nature Divine Robe
+26,Creature,Warlock
+27,Creature,Fairy
+28,Creature,Ghoul
+29,Creature,Ghoul
+30,Creature,Dark Nameless Dragon of Illusion
+31,Creature,Skin-Walker
+32,Spell,Burn
+33,Artifact,Belt
+34,Spell,Shimmering Burn
+35,Creature,Troll
+36,Spell,Fireball
+37,Enchantment,Haste
+38,Artifact,Gloves
+39,Creature,Fairy
+40,Creature,Light Assassin Elf of the Plains
+41,Spell,Invisibility
+42,Creature,Warlock
+43,Creature,Light Assassin Oni of the Bright Mountains
+44,Spell,Sorrow

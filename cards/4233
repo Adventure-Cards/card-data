@@ -1,46 +1,46 @@
-==================,DECK,4233,Light
-0,Enchantment,Common,Blight
-1,Enchantment,Common,Shrink
-2,Creature,Common,Spider
-3,Creature,Common,Goblin
-4,Spell,Common,Gravitation
-5,Spell,Common,Lightning
-6,Creature,Common,Spider
-7,Spell,Common,Wall
-8,Artifact,Common,Ghost Wand
-9,Enchantment,Legendary,Angry Agony
-10,Creature,Rare,Frozen Fighter Fairy
-11,Enchantment,Common,Flight
-12,Spell,Common,Invisibility
-13,Creature,Rare,Earth Lord Fairy
-14,Enchantment,Rare,Corpse Invert
-15,Artifact,Legendary,Mighty Greaves
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Spider
-18,Creature,Common,Elf
-19,Artifact,Common,Gloves
-20,Creature,Common,Orc
-21,Creature,Common,Spider
-22,Enchantment,Mythic,Angry Agony
-23,Enchantment,Mythic,Potent Shade
-24,Spell,Rare,Apocalypse Burn
-25,Creature,Rare,Dark Fighter Fairy
-26,Enchantment,Mythic,Potent Lethargy
-27,Spell,Common,Frenzy
-28,Creature,Common,Elf
-29,Enchantment,Common,Invert
-30,Creature,Common,Wolf
-31,Artifact,Common,Scythe
-32,Creature,Common,Elf
-33,Enchantment,Common,Flight
-34,Creature,Rare,Earth Rogue Hydra
-35,Creature,Mythic,Aura Nameless Phoenix of the Light
-36,Creature,Common,Orc
-37,Creature,Common,Orc
-38,Artifact,Legendary,Dire Cloak
-39,Creature,Rare,Dark Monk Griffin
-40,Artifact,Common,Potion
-41,Creature,Common,Wolf
-42,Enchantment,Common,Blight
-43,Creature,Rare,Dark Queen Skin-Walker
-44,Enchantment,Common,Lethargy
+==================,DECK,4233
+0,Enchantment,Age
+1,Enchantment,Blight
+2,Creature,Paladin
+3,Creature,Skin-Walker
+4,Spell,Gravitation
+5,Spell,Maelstrom
+6,Creature,Paladin
+7,Spell,Fury
+8,Artifact,Ghost Wand
+9,Enchantment,Ardent Miracle Shield
+10,Creature,Frozen Fighter Kraken
+11,Enchantment,Age
+12,Spell,Fire
+13,Creature,Earth Lord Kraken
+14,Enchantment,Shimmering Agony
+15,Artifact,Urgent Chimeric Greaves
+16,Enchantment,Haste
+17,Creature,Paladin
+18,Creature,Warlock
+19,Artifact,Gloves
+20,Creature,Spider
+21,Creature,Paladin
+22,Enchantment,Irate Miracle Alacrity
+23,Enchantment,Irate Frigid Blight
+24,Spell,Oblivion Pandemonium
+25,Creature,Dark Fighter Kraken
+26,Enchantment,Instant Grim Drain
+27,Spell,Burn
+28,Creature,Warlock
+29,Enchantment,Deathgrip
+30,Creature,Wolf
+31,Artifact,Scythe
+32,Creature,Warlock
+33,Enchantment,Shade
+34,Creature,Earth Rogue Hydra
+35,Creature,Aura Nameless Phoenix of the Light
+36,Creature,Spider
+37,Creature,Spider
+38,Artifact,Ardent Apocalypse Cloak
+39,Creature,Dark Monk Griffin
+40,Artifact,Potion
+41,Creature,Wolf
+42,Enchantment,Invert
+43,Creature,Dark Queen Orc
+44,Enchantment,Alacrity

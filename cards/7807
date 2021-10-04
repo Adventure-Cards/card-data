@@ -1,46 +1,46 @@
-==================,DECK,7807,Light
-0,Creature,Common,Spider
-1,Artifact,Common,Scepter
-2,Spell,Legendary,Mighty Torment
-3,Enchantment,Rare,Gloom Shade
-4,Creature,Common,Eagle
-5,Creature,Common,Paladin
-6,Artifact,Common,Bracers
-7,Artifact,Common,Gauntlet
-8,Creature,Legendary,Death Knight Kraken of the Black Stone
-9,Spell,Common,Heal
-10,Creature,Common,Goblin
-11,Creature,Common,Warlock
-12,Creature,Common,Magi
-13,Enchantment,Common,Strength
-14,Creature,Common,Elf
-15,Artifact,Legendary,Instant Boots
-16,Enchantment,Common,Shield
-17,Enchantment,Mythic,Clever Blight
-18,Enchantment,Common,Deathgrip
-19,Artifact,Common,Boots
-20,Creature,Rare,Death Lord Hydra
-21,Spell,Legendary,Instant Reanimate
-22,Creature,Legendary,Death Merchant Cyclops of the Low Hills
-23,Creature,Common,Warlock
-24,Creature,Common,Goblin
-25,Creature,Common,Ghoul
-26,Spell,Common,Hypnosis
-27,Spell,Legendary,Clever Reanimate
-28,Spell,Common,Invisibility
-29,Creature,Legendary,Aura Rogue Giant of the Frozen Castle
-30,Enchantment,Common,Shrink
-31,Creature,Legendary,Dark Undead Cyclops of the Golden Palace
-32,Spell,Common,Frost
-33,Creature,Rare,Dark Merchant Fairy
-34,Enchantment,Rare,Corpse Alacrity
-35,Creature,Common,Wolf
-36,Artifact,Legendary,Dire Divine Robe
-37,Enchantment,Mythic,Potent Agony
-38,Enchantment,Common,Drain
-39,Enchantment,Common,Age
-40,Creature,Common,Ghoul
-41,Creature,Common,Spider
-42,Creature,Common,Eagle
-43,Spell,Common,Wall
-44,Creature,Common,Orc
+==================,DECK,7807
+0,Creature,Paladin
+1,Artifact,Scepter
+2,Spell,Urgent Dark Lightning
+3,Enchantment,Chimeric Firebreath
+4,Creature,Eagle
+5,Creature,Troll
+6,Artifact,Bracers
+7,Artifact,Gauntlet
+8,Creature,Death Knight Ogre of the Black Stone
+9,Spell,Vortex
+10,Creature,Skin-Walker
+11,Creature,Berserker
+12,Creature,Fairy
+13,Enchantment,Flight
+14,Creature,Warlock
+15,Artifact,Clever Hateful Boots
+16,Enchantment,Lethargy
+17,Enchantment,Clever Nimble Haste
+18,Enchantment,Invert
+19,Artifact,Boots
+20,Creature,Death Lord Hydra
+21,Spell,Empyrean Necro Gale
+22,Creature,Death Merchant Giant of the Low Hills
+23,Creature,Berserker
+24,Creature,Skin-Walker
+25,Creature,Ghoul
+26,Spell,Wall
+27,Spell,Empyrean Victory Gale
+28,Spell,Stun
+29,Creature,Aura Rogue Dwarf of the Frozen Castle
+30,Enchantment,Alacrity
+31,Creature,Dark Undead Giant of the Golden Palace
+32,Spell,Ice
+33,Creature,Dark Merchant Kraken
+34,Enchantment,Forged Agony
+35,Creature,Wolf
+36,Artifact,Potent Oblivion Divine Robe
+37,Enchantment,Urgent Life Invert
+38,Enchantment,Alacrity
+39,Enchantment,Firebreath
+40,Creature,Ghoul
+41,Creature,Paladin
+42,Creature,Eagle
+43,Spell,Sorrow
+44,Creature,Spider

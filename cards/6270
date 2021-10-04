@@ -1,46 +1,46 @@
-==================,DECK,6270,Medium
-0,Creature,Common,Paladin
-1,Creature,Rare,Earth Monk Fairy
-2,Creature,Legendary,Aura Priest Oni of the Plains
-3,Artifact,Rare,Oblivion Ring
-4,Creature,Legendary,Dark Merchant Kraken of the Eternal Land
-5,Artifact,Common,Boots
-6,Spell,Rare,Hateful Gale
-7,Creature,Common,Goblin
-8,Creature,Rare,Death Warrior Hydra
-9,Enchantment,Legendary,Clever Age
-10,Spell,Common,Maelstrom
-11,Creature,Common,Ghoul
-12,Spell,Common,Stun
-13,Spell,Common,Stun
-14,Creature,Rare,Dark Warrior Minotaur
-15,Enchantment,Common,Shield
-16,Creature,Legendary,Snow Priest Oni of the Polar Woods
-17,Spell,Rare,Cataclysmic Maelstrom
-18,Creature,Rare,Snow Undead Minotaur
-19,Spell,Rare,Lunar Maelstrom
-20,Enchantment,Common,Blight
-21,Creature,Common,Dwarf
-22,Creature,Rare,Aura Knight Hydra
-23,Spell,Common,Sorrow
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Goblin
-26,Enchantment,Common,Shield
-27,Creature,Legendary,Light Warrior Oni of the Frozen Castle
-28,Creature,Common,Wolf
-29,Creature,Rare,Light Assassin Berserker
-30,Enchantment,Common,Flight
-31,Enchantment,Common,Age
-32,Creature,Rare,Dark Lord Griffin
-33,Creature,Rare,Frozen Warrior Griffin
-34,Spell,Legendary,Intense Pandemonium
-35,Spell,Legendary,Clever Stricken
-36,Enchantment,Common,Age
-37,Spell,Common,Freeze
-38,Creature,Rare,Light Assassin Griffin
-39,Creature,Common,Paladin
-40,Enchantment,Rare,Cataclysmic Shrink
-41,Artifact,Common,Greaves
-42,Creature,Rare,Light Queen Fairy
-43,Spell,Common,Pandemonium
-44,Creature,Common,Paladin
+==================,DECK,6270
+0,Creature,Troll
+1,Creature,Earth Monk Kraken
+2,Creature,Aura Priest Oni of the Plains
+3,Artifact,Victory Ring
+4,Creature,Dark Merchant Ogre of the Eternal Land
+5,Artifact,Boots
+6,Spell,Cataclysmic Assault
+7,Creature,Skin-Walker
+8,Creature,Death Warrior Hydra
+9,Enchantment,Empyrean Victory Shade
+10,Spell,Frost
+11,Creature,Ghoul
+12,Spell,Tempest
+13,Spell,Tempest
+14,Creature,Dark Warrior Cyclops
+15,Enchantment,Shade
+16,Creature,Snow Priest Oni of the Polar Woods
+17,Spell,Miracle Wall
+18,Creature,Snow Undead Cyclops
+19,Spell,Sorrow Fireball
+20,Enchantment,Age
+21,Creature,Magi
+22,Creature,Aura Knight Hydra
+23,Spell,Rage
+24,Enchantment,Agony
+25,Creature,Skin-Walker
+26,Enchantment,Agony
+27,Creature,Light Warrior Oni of the Frozen Castle
+28,Creature,Wolf
+29,Creature,Light Assassin Goblin
+30,Enchantment,Shrink
+31,Enchantment,Lethargy
+32,Creature,Dark Lord Griffin
+33,Creature,Frozen Warrior Griffin
+34,Spell,Zealous Corpse Vortex
+35,Spell,Clever Life Burst
+36,Enchantment,Shield
+37,Spell,Freeze
+38,Creature,Light Assassin Griffin
+39,Creature,Troll
+40,Enchantment,Chimeric Shrink
+41,Artifact,Greaves
+42,Creature,Light Queen Kraken
+43,Spell,Freeze
+44,Creature,Troll

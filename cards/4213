@@ -1,46 +1,46 @@
-==================,DECK,4213,Medium
-0,Creature,Common,Warlock
-1,Creature,Common,Warlock
-2,Creature,Mythic,Snow Chaos Wizard of Hate
-3,Creature,Mythic,Frozen Grand Wizard of the Void
-4,Spell,Common,Reanimate
-5,Creature,Rare,Death Warrior Hydra
-6,Artifact,Rare,Grim Sigil
-7,Spell,Legendary,Clever Pandemonium
-8,Spell,Common,Wall
-9,Creature,Legendary,Frozen Rogue Orge of the Golden Palace
-10,Creature,Mythic,Earth Undead Dragon of the Shadows
-11,Enchantment,Common,Blight
-12,Spell,Rare,Cataclysmic Reanimate
-13,Artifact,Rare,Corpse Ring
-14,Spell,Common,Gale
-15,Enchantment,Mythic,Intense Lethargy
-16,Creature,Common,Ghoul
-17,Creature,Common,Dwarf
-18,Spell,Common,Burn
-19,Creature,Common,Warlock
-20,Creature,Rare,Frozen Warrior Fairy
-21,Spell,Common,Hypnosis
-22,Creature,Rare,Light Lord Skin-Walker
-23,Creature,Common,Elf
-24,Creature,Rare,Dark Assassin Griffin
-25,Spell,Common,Ice
-26,Creature,Common,Warlock
-27,Creature,Rare,Frozen Rogue Berserker
-28,Artifact,Legendary,Urgent Ring
-29,Creature,Common,Warlock
-30,Creature,Rare,Snow Fighter Griffin
-31,Spell,Legendary,Mighty Assault
-32,Creature,Rare,Light Monk Minotaur
-33,Creature,Common,Goblin
-34,Spell,Common,Invisibility
-35,Enchantment,Common,Drain
-36,Creature,Common,Warlock
-37,Creature,Legendary,Snow King Cyclops of the Swamp
-38,Creature,Rare,Frozen Queen Fairy
-39,Spell,Rare,Corpse Frenzy
-40,Creature,Common,Dwarf
-41,Creature,Legendary,Dark Knight Oni of the Eternal Land
-42,Spell,Rare,Solar Freeze
-43,Creature,Rare,Aura Priest Minotaur
-44,Creature,Common,Wolf
+==================,DECK,4213
+0,Creature,Berserker
+1,Creature,Berserker
+2,Creature,Snow Chaos Wizard of Hate
+3,Creature,Frozen Grand Wizard of the Void
+4,Spell,Infuriate
+5,Creature,Death Warrior Hydra
+6,Artifact,Victory Sigil
+7,Spell,Mighty Apocalypse Fire
+8,Spell,Assault
+9,Creature,Frozen Rogue Elf of the Golden Palace
+10,Creature,Earth Undead Dragon of the Shadows
+11,Enchantment,Shield
+12,Spell,Dark Maelstrom
+13,Artifact,Hateful Ring
+14,Spell,Gale
+15,Enchantment,Urgent Hateful Agony
+16,Creature,Ghoul
+17,Creature,Magi
+18,Spell,Infuriate
+19,Creature,Berserker
+20,Creature,Frozen Warrior Kraken
+21,Spell,Rage
+22,Creature,Light Lord Orc
+23,Creature,Warlock
+24,Creature,Dark Assassin Griffin
+25,Spell,Frenzy
+26,Creature,Berserker
+27,Creature,Frozen Rogue Goblin
+28,Artifact,Clever Corpse Ring
+29,Creature,Berserker
+30,Creature,Snow Fighter Griffin
+31,Spell,Instant Miracle Burn
+32,Creature,Light Monk Cyclops
+33,Creature,Skin-Walker
+34,Spell,Gale
+35,Enchantment,Strength
+36,Creature,Berserker
+37,Creature,Snow King Giant of the Swamp
+38,Creature,Frozen Queen Kraken
+39,Spell,Nature Burn
+40,Creature,Magi
+41,Creature,Dark Knight Oni of the Eternal Land
+42,Spell,Hateful Reanimate
+43,Creature,Aura Priest Cyclops
+44,Creature,Wolf

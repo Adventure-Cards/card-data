@@ -1,46 +1,46 @@
-==================,DECK,7896,Light
-0,Creature,Rare,Frozen Assassin Berserker
-1,Artifact,Common,Crown
-2,Artifact,Common,Greaves
-3,Creature,Common,Paladin
-4,Enchantment,Legendary,Intense Age
-5,Creature,Common,Elf
-6,Artifact,Common,Greaves
-7,Creature,Common,Goblin
-8,Creature,Rare,Aura Priest Berserker
-9,Enchantment,Common,Alacrity
-10,Creature,Common,Paladin
-11,Creature,Rare,Light Priest Berserker
-12,Enchantment,Rare,Oblivion Invert
-13,Creature,Common,Goblin
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Artifact,Common,Ghost Wand
-17,Enchantment,Common,Drain
-18,Creature,Common,Orc
-19,Enchantment,Rare,Dark Strength
-20,Spell,Common,Heal
-21,Creature,Rare,Snow Fighter Fairy
-22,Spell,Common,Burst
-23,Creature,Common,Elf
-24,Artifact,Common,Sigil
-25,Spell,Common,Maelstrom
-26,Enchantment,Common,Shrink
-27,Creature,Common,Elf
-28,Spell,Common,Fury
-29,Spell,Rare,Apocalypse Stun
-30,Creature,Common,Orc
-31,Creature,Mythic,Frozen Grand Demon of the Void
-32,Creature,Rare,Death Fighter Berserker
-33,Creature,Common,Eagle
-34,Spell,Common,Burst
-35,Creature,Common,Eagle
-36,Spell,Common,Invisibility
-37,Spell,Common,Gale
-38,Creature,Rare,Frozen Fighter Skin-Walker
-39,Spell,Common,Revive
-40,Artifact,Legendary,Instant Helm
-41,Creature,Rare,Aura Monk Berserker
-42,Creature,Common,Ghoul
-43,Artifact,Common,Scythe
-44,Enchantment,Common,Shade
+==================,DECK,7896
+0,Creature,Frozen Assassin Goblin
+1,Artifact,Crown
+2,Artifact,Greaves
+3,Creature,Troll
+4,Enchantment,Empyrean Nature Age
+5,Creature,Warlock
+6,Artifact,Greaves
+7,Creature,Skin-Walker
+8,Creature,Aura Priest Goblin
+9,Enchantment,Alacrity
+10,Creature,Troll
+11,Creature,Light Priest Goblin
+12,Enchantment,Oblivion Shade
+13,Creature,Skin-Walker
+14,Creature,Warlock
+15,Creature,Berserker
+16,Artifact,Ghost Wand
+17,Enchantment,Firebreath
+18,Creature,Spider
+19,Enchantment,Cataclysmic Shield
+20,Spell,Tempest
+21,Creature,Snow Fighter Kraken
+22,Spell,Revive
+23,Creature,Warlock
+24,Artifact,Sigil
+25,Spell,Fireball
+26,Enchantment,Shield
+27,Creature,Warlock
+28,Spell,Ice
+29,Spell,Life Burst
+30,Creature,Spider
+31,Creature,Frozen Grand Demon of the Void
+32,Creature,Death Fighter Goblin
+33,Creature,Eagle
+34,Spell,Torment
+35,Creature,Eagle
+36,Spell,Fireball
+37,Spell,Fire
+38,Creature,Frozen Fighter Orc
+39,Spell,Revive
+40,Artifact,Empyrean Forged Helm
+41,Creature,Aura Monk Goblin
+42,Creature,Ghoul
+43,Artifact,Scythe
+44,Enchantment,Firebreath

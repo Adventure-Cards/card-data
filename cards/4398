@@ -1,46 +1,46 @@
-==================,DECK,4398,Medium
-0,Enchantment,Common,Deathgrip
-1,Spell,Common,Invisibility
-2,Spell,Common,Pandemonium
-3,Creature,Common,Warlock
-4,Creature,Legendary,Death Monk Giant of the West
-5,Creature,Legendary,Light Lord Orge of the Haven
-6,Artifact,Common,Greaves
-7,Creature,Common,Ghoul
-8,Creature,Common,Elf
-9,Creature,Rare,Snow Warrior Hydra
-10,Artifact,Common,Potion
-11,Enchantment,Legendary,Mighty Haste
-12,Creature,Rare,Frozen Priest Minotaur
-13,Artifact,Rare,Hateful Gauntlet
-14,Artifact,Common,Divine Robe
-15,Artifact,Common,Helm
-16,Creature,Legendary,Dark Fighter Oni of the Bright Mountains
-17,Creature,Common,Paladin
-18,Spell,Common,Rage
-19,Artifact,Legendary,Mighty Sword
-20,Enchantment,Common,Haste
-21,Creature,Common,Goblin
-22,Creature,Rare,Earth Thief Fairy
-23,Creature,Rare,Dark Rogue Hydra
-24,Creature,Common,Spider
-25,Artifact,Common,Staff
-26,Creature,Legendary,Aura Rogue Cyclops of the Polar Woods
-27,Enchantment,Legendary,Potent Shield
-28,Creature,Mythic,Light Undead Phoenix of the Sky
-29,Enchantment,Common,Shield
-30,Creature,Rare,Aura Monk Hydra
-31,Enchantment,Common,Drain
-32,Creature,Rare,Frozen Lord Berserker
-33,Enchantment,Common,Invert
-34,Creature,Mythic,Snow Time Dragon of Hate
-35,Creature,Common,Elf
-36,Creature,Rare,Earth Monk Hydra
-37,Enchantment,Mythic,Angry Shrink
-38,Creature,Common,Spider
-39,Creature,Common,Spider
-40,Spell,Common,Torment
-41,Creature,Common,Spider
-42,Creature,Rare,Death King Hydra
-43,Artifact,Rare,Corpse Scythe
-44,Spell,Common,Sorrow
+==================,DECK,4398
+0,Enchantment,Invert
+1,Spell,Revive
+2,Spell,Stricken
+3,Creature,Berserker
+4,Creature,Death Monk Dwarf of the West
+5,Creature,Light Lord Elf of the Haven
+6,Artifact,Greaves
+7,Creature,Ghoul
+8,Creature,Warlock
+9,Creature,Snow Warrior Hydra
+10,Artifact,Potion
+11,Enchantment,Zealous Miracle Alacrity
+12,Creature,Frozen Priest Cyclops
+13,Artifact,Lunar Gauntlet
+14,Artifact,Divine Robe
+15,Artifact,Helm
+16,Creature,Dark Fighter Oni of the Bright Mountains
+17,Creature,Troll
+18,Spell,Maelstrom
+19,Artifact,Instant Miracle Sword
+20,Enchantment,Shrink
+21,Creature,Skin-Walker
+22,Creature,Earth Thief Kraken
+23,Creature,Dark Rogue Hydra
+24,Creature,Paladin
+25,Artifact,Staff
+26,Creature,Aura Rogue Giant of the Polar Woods
+27,Enchantment,Ardent Victory Haste
+28,Creature,Light Undead Phoenix of the Sky
+29,Enchantment,Agony
+30,Creature,Aura Monk Hydra
+31,Enchantment,Lethargy
+32,Creature,Frozen Lord Goblin
+33,Enchantment,Alacrity
+34,Creature,Snow Time Dragon of Hate
+35,Creature,Warlock
+36,Creature,Earth Monk Hydra
+37,Enchantment,Potent Chimeric Shrink
+38,Creature,Paladin
+39,Creature,Paladin
+40,Spell,Burn
+41,Creature,Paladin
+42,Creature,Death King Hydra
+43,Artifact,Corpse Scythe
+44,Spell,Burn

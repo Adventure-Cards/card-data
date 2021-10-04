@@ -1,46 +1,46 @@
-==================,DECK,6731,Light
-0,Creature,Common,Magi
-1,Creature,Common,Wolf
-2,Artifact,Common,Potion
-3,Creature,Common,Warlock
-4,Creature,Common,Eagle
-5,Creature,Legendary,Aura Lord Giant of the Magical Forest
-6,Creature,Mythic,Dark Chaos Demon of Illusion
-7,Creature,Common,Dwarf
-8,Spell,Common,Assault
-9,Artifact,Rare,Grim Potion
-10,Creature,Common,Magi
-11,Artifact,Common,Helmet
-12,Creature,Common,Goblin
-13,Creature,Rare,Aura King Hydra
-14,Creature,Common,Magi
-15,Spell,Common,Burst
-16,Spell,Legendary,Mighty Stricken
-17,Creature,Common,Eagle
-18,Creature,Common,Eagle
-19,Creature,Rare,Aura Queen Griffin
-20,Enchantment,Rare,Oblivion Shield
-21,Creature,Common,Spider
-22,Creature,Common,Paladin
-23,Spell,Common,Lightning
-24,Artifact,Legendary,Dire Ring
-25,Creature,Rare,Dark Undead Hydra
-26,Enchantment,Legendary,Instant Agony
-27,Artifact,Common,Ring
-28,Creature,Mythic,Aura Grand Wizard of the Light
-29,Spell,Legendary,Extreme Rage
-30,Enchantment,Mythic,Mighty Invert
-31,Creature,Common,Magi
-32,Creature,Common,Orc
-33,Artifact,Rare,Grim Gauntlet
-34,Creature,Common,Orc
-35,Artifact,Common,Divine Robe
-36,Creature,Common,Warlock
-37,Spell,Rare,Oblivion Gravitation
-38,Creature,Common,Paladin
-39,Creature,Common,Dwarf
-40,Spell,Common,Burn
-41,Creature,Common,Ghoul
-42,Artifact,Common,Belt
-43,Spell,Common,Gravitation
-44,Creature,Rare,Snow Monk Berserker
+==================,DECK,6731
+0,Creature,Fairy
+1,Creature,Wolf
+2,Artifact,Potion
+3,Creature,Berserker
+4,Creature,Eagle
+5,Creature,Aura Lord Dwarf of the Magical Forest
+6,Creature,Dark Chaos Demon of Illusion
+7,Creature,Magi
+8,Spell,Hypnosis
+9,Artifact,Victory Potion
+10,Creature,Fairy
+11,Artifact,Helmet
+12,Creature,Skin-Walker
+13,Creature,Aura King Hydra
+14,Creature,Fairy
+15,Spell,Ice
+16,Spell,Potent Gloom Torment
+17,Creature,Eagle
+18,Creature,Eagle
+19,Creature,Aura Queen Griffin
+20,Enchantment,Victory Blight
+21,Creature,Paladin
+22,Creature,Troll
+23,Spell,Fury
+24,Artifact,Potent Frigid Ring
+25,Creature,Dark Undead Hydra
+26,Enchantment,Ardent Corpse Lethargy
+27,Artifact,Ring
+28,Creature,Aura Grand Wizard of the Light
+29,Spell,Ardent Chimeric Gravitation
+30,Enchantment,Urgent Sorrow Flight
+31,Creature,Fairy
+32,Creature,Spider
+33,Artifact,Frigid Gauntlet
+34,Creature,Spider
+35,Artifact,Divine Robe
+36,Creature,Berserker
+37,Spell,Apocalypse Gale
+38,Creature,Troll
+39,Creature,Magi
+40,Spell,Tempest
+41,Creature,Ghoul
+42,Artifact,Belt
+43,Spell,Revive
+44,Creature,Snow Monk Goblin

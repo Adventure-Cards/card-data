@@ -1,46 +1,46 @@
-==================,DECK,5252,Light
-0,Creature,Rare,Frozen Warrior Minotaur
-1,Spell,Common,Stun
-2,Enchantment,Common,Shield
-3,Enchantment,Common,Shield
-4,Creature,Rare,Dark Assassin Berserker
-5,Artifact,Common,Cloak
-6,Artifact,Common,Bow
-7,Creature,Common,Eagle
-8,Creature,Common,Spider
-9,Creature,Rare,Earth Assassin Skin-Walker
-10,Creature,Common,Spider
-11,Creature,Common,Eagle
-12,Enchantment,Common,Drain
-13,Creature,Common,Warlock
-14,Enchantment,Common,Shrink
-15,Artifact,Common,Potion
-16,Creature,Common,Elf
-17,Creature,Rare,Light Priest Skin-Walker
-18,Artifact,Common,Scythe
-19,Artifact,Common,Sword
-20,Enchantment,Common,Shade
-21,Enchantment,Common,Alacrity
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Frozen Rogue Orge of the Eternal Land
-24,Spell,Common,Frost
-25,Enchantment,Common,Shade
-26,Creature,Common,Eagle
-27,Spell,Rare,Dark Gravitation
-28,Creature,Common,Dwarf
-29,Creature,Common,Ghoul
-30,Creature,Common,Ghoul
-31,Creature,Common,Orc
-32,Creature,Common,Goblin
-33,Enchantment,Common,Alacrity
-34,Spell,Rare,Grim Vortex
-35,Creature,Common,Eagle
-36,Spell,Common,Rage
-37,Enchantment,Rare,Hateful Shrink
-38,Creature,Common,Spider
-39,Creature,Common,Spider
-40,Enchantment,Common,Drain
-41,Enchantment,Common,Haste
-42,Creature,Common,Warlock
-43,Spell,Rare,Shimmering Reanimate
-44,Spell,Common,Burst
+==================,DECK,5252
+0,Creature,Frozen Warrior Cyclops
+1,Spell,Ice
+2,Enchantment,Haste
+3,Enchantment,Alacrity
+4,Creature,Dark Assassin Goblin
+5,Artifact,Cloak
+6,Artifact,Bow
+7,Creature,Eagle
+8,Creature,Paladin
+9,Creature,Earth Assassin Orc
+10,Creature,Paladin
+11,Creature,Eagle
+12,Enchantment,Agony
+13,Creature,Berserker
+14,Enchantment,Shrink
+15,Artifact,Potion
+16,Creature,Warlock
+17,Creature,Light Priest Orc
+18,Artifact,Scythe
+19,Artifact,Sword
+20,Enchantment,Drain
+21,Enchantment,Lethargy
+22,Creature,Magi
+23,Creature,Frozen Rogue Elf of the Eternal Land
+24,Spell,Sorrow
+25,Enchantment,Flight
+26,Creature,Eagle
+27,Spell,Cataclysmic Tempest
+28,Creature,Magi
+29,Creature,Ghoul
+30,Creature,Ghoul
+31,Creature,Spider
+32,Creature,Skin-Walker
+33,Enchantment,Blight
+34,Spell,Life Revive
+35,Creature,Eagle
+36,Spell,Gravitation
+37,Enchantment,Chimeric Shrink
+38,Creature,Paladin
+39,Creature,Paladin
+40,Enchantment,Haste
+41,Enchantment,Alacrity
+42,Creature,Berserker
+43,Spell,Shimmering Wall
+44,Spell,Stun

@@ -1,46 +1,46 @@
-==================,DECK,5455,Light
-0,Creature,Common,Wolf
-1,Artifact,Rare,Apocalypse Helm
-2,Creature,Rare,Snow King Hydra
-3,Creature,Mythic,Frozen Grand Demon of the Void
-4,Artifact,Common,Ring
-5,Creature,Common,Orc
-6,Spell,Common,Invisibility
-7,Creature,Common,Ghoul
-8,Creature,Common,Goblin
-9,Spell,Legendary,Potent Sorrow
-10,Creature,Common,Warlock
-11,Creature,Legendary,Frozen Assassin Kraken of the Plains
-12,Creature,Common,Dwarf
-13,Spell,Rare,Cataclysmic Gale
-14,Spell,Common,Reanimate
-15,Creature,Common,Wolf
-16,Spell,Rare,Corpse Vortex
-17,Artifact,Common,Sigil
-18,Spell,Common,Rage
-19,Creature,Common,Ghoul
-20,Creature,Rare,Snow Merchant Fairy
-21,Creature,Legendary,Death Queen Giant of the Golden Palace
-22,Enchantment,Mythic,Potent Agony
-23,Artifact,Rare,Nature Greaves
-24,Creature,Common,Wolf
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Life Age
-28,Enchantment,Common,Agony
-29,Creature,Common,Magi
-30,Creature,Common,Spider
-31,Creature,Common,Orc
-32,Artifact,Common,Amulet
-33,Enchantment,Common,Agony
-34,Spell,Rare,Dark Rage
-35,Creature,Common,Dwarf
-36,Creature,Common,Eagle
-37,Artifact,Common,Bow
-38,Spell,Common,Gravitation
-39,Spell,Common,Revive
-40,Creature,Common,Magi
-41,Creature,Common,Elf
-42,Creature,Common,Paladin
-43,Enchantment,Common,Agony
-44,Enchantment,Common,Age
+==================,DECK,5455
+0,Creature,Wolf
+1,Artifact,Oblivion Helm
+2,Creature,Snow King Hydra
+3,Creature,Frozen Grand Demon of the Void
+4,Artifact,Ring
+5,Creature,Spider
+6,Spell,Gale
+7,Creature,Ghoul
+8,Creature,Skin-Walker
+9,Spell,Mighty Victory Lightning
+10,Creature,Berserker
+11,Creature,Frozen Assassin Ogre of the Plains
+12,Creature,Magi
+13,Spell,Cataclysmic Frenzy
+14,Spell,Hypnosis
+15,Creature,Wolf
+16,Spell,Necro Vortex
+17,Artifact,Sigil
+18,Spell,Ice
+19,Creature,Ghoul
+20,Creature,Snow Merchant Kraken
+21,Creature,Death Queen Dwarf of the Golden Palace
+22,Enchantment,Ardent Life Haste
+23,Artifact,Hateful Greaves
+24,Creature,Wolf
+25,Enchantment,Age
+26,Creature,Magi
+27,Enchantment,Victory Drain
+28,Enchantment,Age
+29,Creature,Fairy
+30,Creature,Paladin
+31,Creature,Spider
+32,Artifact,Amulet
+33,Enchantment,Age
+34,Spell,Chimeric Tempest
+35,Creature,Magi
+36,Creature,Eagle
+37,Artifact,Bow
+38,Spell,Fire
+39,Spell,Tempest
+40,Creature,Fairy
+41,Creature,Warlock
+42,Creature,Troll
+43,Enchantment,Lethargy
+44,Enchantment,Flight

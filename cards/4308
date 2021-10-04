@@ -1,46 +1,46 @@
-==================,DECK,4308,Medium
-0,Spell,Common,Lightning
-1,Creature,Common,Paladin
-2,Creature,Common,Paladin
-3,Spell,Rare,Miracle Burn
-4,Creature,Rare,Death Priest Minotaur
-5,Enchantment,Common,Shield
-6,Creature,Common,Wolf
-7,Creature,Rare,Death Priest Fairy
-8,Creature,Common,Wolf
-9,Spell,Common,Sorrow
-10,Spell,Common,Frost
-11,Spell,Common,Maelstrom
-12,Enchantment,Mythic,Potent Blight
-13,Creature,Common,Ghoul
-14,Creature,Rare,Dark Merchant Griffin
-15,Creature,Rare,Light Merchant Minotaur
-16,Creature,Rare,Dark Rogue Fairy
-17,Creature,Rare,Dark Queen Skin-Walker
-18,Enchantment,Common,Shade
-19,Artifact,Common,Helmet
-20,Spell,Legendary,Angry Frost
-21,Spell,Common,Pandemonium
-22,Artifact,Common,Crown
-23,Creature,Rare,Snow Undead Griffin
-24,Artifact,Common,Scepter
-25,Enchantment,Common,Flight
-26,Creature,Rare,Snow Fighter Minotaur
-27,Creature,Common,Spider
-28,Artifact,Common,Greaves
-29,Creature,Common,Wolf
-30,Enchantment,Common,Alacrity
-31,Spell,Rare,Hateful Infuriate
-32,Creature,Rare,Dark Thief Minotaur
-33,Spell,Common,Sorrow
-34,Creature,Common,Warlock
-35,Creature,Legendary,Aura Assassin Kraken of the Eastern Skies
-36,Creature,Rare,Dark Fighter Griffin
-37,Enchantment,Rare,Nimble Shade
-38,Creature,Common,Paladin
-39,Spell,Legendary,Angry Sorrow
-40,Spell,Mythic,Extreme Reanimate
-41,Artifact,Rare,Lunar Greaves
-42,Creature,Rare,Dark Fighter Skin-Walker
-43,Creature,Common,Wolf
-44,Creature,Common,Eagle
+==================,DECK,4308
+0,Spell,Ice
+1,Creature,Troll
+2,Creature,Troll
+3,Spell,Frigid Stun
+4,Creature,Death Priest Cyclops
+5,Enchantment,Shrink
+6,Creature,Wolf
+7,Creature,Death Priest Kraken
+8,Creature,Wolf
+9,Spell,Ice
+10,Spell,Vortex
+11,Spell,Heal
+12,Enchantment,Zealous Nimble Blight
+13,Creature,Ghoul
+14,Creature,Dark Merchant Griffin
+15,Creature,Light Merchant Cyclops
+16,Creature,Dark Rogue Kraken
+17,Creature,Dark Queen Orc
+18,Enchantment,Firebreath
+19,Artifact,Helmet
+20,Spell,Ardent Sorrow Burst
+21,Spell,Wall
+22,Artifact,Crown
+23,Creature,Snow Undead Griffin
+24,Artifact,Scepter
+25,Enchantment,Blight
+26,Creature,Snow Fighter Cyclops
+27,Creature,Paladin
+28,Artifact,Greaves
+29,Creature,Wolf
+30,Enchantment,Drain
+31,Spell,Dark Torment
+32,Creature,Dark Thief Cyclops
+33,Spell,Assault
+34,Creature,Berserker
+35,Creature,Aura Assassin Ogre of the Eastern Skies
+36,Creature,Dark Fighter Griffin
+37,Enchantment,Necro Age
+38,Creature,Troll
+39,Spell,Mighty Chimeric Tempest
+40,Spell,Potent Sorrow Fire
+41,Artifact,Lunar Greaves
+42,Creature,Dark Fighter Orc
+43,Creature,Wolf
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,4929,Strong
-0,Artifact,Common,Crown
-1,Enchantment,Common,Agony
-2,Artifact,Rare,Shimmering Amulet
-3,Creature,Rare,Snow Rogue Minotaur
-4,Creature,Legendary,Frozen Warrior Cyclops of the Bright Mountains
-5,Artifact,Mythic,Angry Staff
-6,Enchantment,Legendary,Urgent Shield
-7,Creature,Common,Warlock
-8,Creature,Legendary,Frozen Undead Cyclops of the Golden Palace
-9,Creature,Mythic,Earth Chaos Demon of the Shadows
-10,Enchantment,Common,Flight
-11,Spell,Rare,Necro Maelstrom
-12,Spell,Rare,Lunar Stricken
-13,Creature,Legendary,Light Undead Phoenix of the Sky
-14,Artifact,Common,Scepter
-15,Creature,Common,Orc
-16,Spell,Common,Rage
-17,Creature,Common,Orc
-18,Spell,Rare,Dark Lightning
-19,Creature,Common,Spider
-20,Spell,Common,Burn
-21,Enchantment,Common,Shrink
-22,Creature,Rare,Earth Fighter Berserker
-23,Spell,Common,Hypnosis
-24,Spell,Rare,Life Hypnosis
-25,Creature,Legendary,Dark Assassin Cyclops of the Golden Palace
-26,Creature,Rare,Aura Assassin Minotaur
-27,Creature,Common,Paladin
-28,Creature,Mythic,Aura Undead Dragon of the Light
-29,Enchantment,Legendary,Mighty Lethargy
-30,Spell,Rare,Apocalypse Hypnosis
-31,Enchantment,Common,Agony
-32,Creature,Common,Warlock
-33,Creature,Legendary,Snow Undead Dragon of Hate
-34,Creature,Common,Eagle
-35,Spell,Legendary,Dire Rage
-36,Creature,Common,Ghoul
-37,Spell,Common,Frost
-38,Creature,Rare,Snow Queen Griffin
-39,Artifact,Common,Gauntlet
-40,Enchantment,Rare,Oblivion Alacrity
-41,Creature,Mythic,Aura Ancient Demon of the Light
-42,Creature,Common,Paladin
-43,Enchantment,Legendary,Potent Shade
-44,Spell,Common,Invisibility
+==================,DECK,4929
+0,Artifact,Crown
+1,Enchantment,Age
+2,Artifact,Shimmering Amulet
+3,Creature,Snow Rogue Cyclops
+4,Creature,Frozen Warrior Giant of the Bright Mountains
+5,Artifact,Irate Dark Staff
+6,Enchantment,Urgent Nature Agony
+7,Creature,Berserker
+8,Creature,Frozen Undead Giant of the Golden Palace
+9,Creature,Earth Chaos Demon of the Shadows
+10,Enchantment,Lethargy
+11,Spell,Hateful Fireball
+12,Spell,Lunar Frost
+13,Creature,Light Undead Phoenix of the Sky
+14,Artifact,Scepter
+15,Creature,Spider
+16,Spell,Torment
+17,Creature,Spider
+18,Spell,Miracle Freeze
+19,Creature,Paladin
+20,Spell,Gale
+21,Enchantment,Invert
+22,Creature,Earth Fighter Goblin
+23,Spell,Stricken
+24,Spell,Frigid Burn
+25,Creature,Dark Assassin Giant of the Golden Palace
+26,Creature,Aura Assassin Cyclops
+27,Creature,Troll
+28,Creature,Aura Undead Dragon of the Light
+29,Enchantment,Irate Lunar Alacrity
+30,Spell,Nimble Fireball
+31,Enchantment,Shade
+32,Creature,Berserker
+33,Creature,Snow Undead Dragon of Hate
+34,Creature,Eagle
+35,Spell,Dire Apocalypse Heal
+36,Creature,Ghoul
+37,Spell,Freeze
+38,Creature,Snow Queen Griffin
+39,Artifact,Gauntlet
+40,Enchantment,Apocalypse Shade
+41,Creature,Aura Ancient Demon of the Light
+42,Creature,Troll
+43,Enchantment,Urgent Frigid Invert
+44,Spell,Frenzy

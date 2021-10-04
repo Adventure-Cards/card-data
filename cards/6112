@@ -1,46 +1,46 @@
-==================,DECK,6112,Medium
-0,Spell,Common,Reanimate
-1,Artifact,Legendary,Angry Bracers
-2,Creature,Rare,Dark Knight Hydra
-3,Creature,Mythic,Dark Ancient Demon of Illusion
-4,Enchantment,Common,Shrink
-5,Enchantment,Common,Haste
-6,Creature,Legendary,Dark Thief Cyclops of the Haven
-7,Artifact,Common,Tome
-8,Spell,Rare,Cataclysmic Infuriate
-9,Spell,Rare,Nature Stun
-10,Creature,Common,Goblin
-11,Creature,Rare,Light Assassin Skin-Walker
-12,Creature,Common,Elf
-13,Artifact,Common,Ghost Wand
-14,Creature,Legendary,Light Fighter Kraken of the Golden Palace
-15,Creature,Rare,Snow Queen Hydra
-16,Creature,Legendary,Snow Knight Kraken of the Mountains
-17,Enchantment,Common,Drain
-18,Artifact,Common,Gauntlet
-19,Creature,Mythic,Snow Grand Demon of Hate
-20,Spell,Rare,Apocalypse Stricken
-21,Spell,Mythic,Dire Burst
-22,Creature,Rare,Frozen Undead Griffin
-23,Artifact,Rare,Necro Staff
-24,Creature,Mythic,Aura Undead Phoenix of the Light
-25,Spell,Mythic,Extreme Frost
-26,Spell,Common,Fury
-27,Enchantment,Common,Age
-28,Artifact,Common,Bow
-29,Creature,Common,Spider
-30,Spell,Rare,Nature Burn
-31,Creature,Common,Warlock
-32,Creature,Legendary,Dark Rogue Kraken of the West
-33,Creature,Common,Wolf
-34,Enchantment,Rare,Solar Shield
-35,Creature,Legendary,Death Assassin Kraken of the Black Stone
-36,Creature,Rare,Earth Undead Minotaur
-37,Spell,Rare,Dark Rage
-38,Artifact,Common,Pendant
-39,Spell,Common,Frenzy
-40,Creature,Rare,Death Assassin Minotaur
-41,Creature,Common,Elf
-42,Creature,Rare,Frozen Queen Minotaur
-43,Spell,Mythic,Clever Heal
-44,Creature,Rare,Frozen Lord Fairy
+==================,DECK,6112
+0,Spell,Pandemonium
+1,Artifact,Irate Sorrow Bracers
+2,Creature,Dark Knight Hydra
+3,Creature,Dark Ancient Demon of Illusion
+4,Enchantment,Alacrity
+5,Enchantment,Firebreath
+6,Creature,Dark Thief Giant of the Haven
+7,Artifact,Tome
+8,Spell,Chimeric Stricken
+9,Spell,Hateful Freeze
+10,Creature,Skin-Walker
+11,Creature,Light Assassin Orc
+12,Creature,Warlock
+13,Artifact,Ghost Wand
+14,Creature,Light Fighter Ogre of the Golden Palace
+15,Creature,Snow Queen Hydra
+16,Creature,Snow Knight Ogre of the Mountains
+17,Enchantment,Alacrity
+18,Artifact,Gauntlet
+19,Creature,Snow Grand Demon of Hate
+20,Spell,Oblivion Burn
+21,Spell,Mighty Grim Frost
+22,Creature,Frozen Undead Griffin
+23,Artifact,Forged Staff
+24,Creature,Aura Undead Phoenix of the Light
+25,Spell,Urgent Lunar Freeze
+26,Spell,Torment
+27,Enchantment,Age
+28,Artifact,Bow
+29,Creature,Paladin
+30,Spell,Necro Lightning
+31,Creature,Berserker
+32,Creature,Dark Rogue Ogre of the West
+33,Creature,Wolf
+34,Enchantment,Nature Lethargy
+35,Creature,Death Assassin Ogre of the Black Stone
+36,Creature,Earth Undead Cyclops
+37,Spell,Cataclysmic Wall
+38,Artifact,Pendant
+39,Spell,Rage
+40,Creature,Death Assassin Cyclops
+41,Creature,Warlock
+42,Creature,Frozen Queen Cyclops
+43,Spell,Ardent Grim Hypnosis
+44,Creature,Frozen Lord Kraken

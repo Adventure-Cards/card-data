@@ -1,46 +1,46 @@
-==================,DECK,7666,Light
-0,Creature,Legendary,Snow Priest Kraken of the Mountains
-1,Spell,Common,Vortex
-2,Creature,Common,Paladin
-3,Creature,Common,Magi
-4,Creature,Common,Dwarf
-5,Creature,Rare,Earth Assassin Berserker
-6,Spell,Common,Invisibility
-7,Creature,Common,Elf
-8,Spell,Common,Maelstrom
-9,Creature,Rare,Frozen Knight Minotaur
-10,Creature,Rare,Frozen Assassin Hydra
-11,Enchantment,Rare,Lunar Haste
-12,Spell,Common,Freeze
-13,Creature,Common,Eagle
-14,Creature,Common,Magi
-15,Spell,Common,Vortex
-16,Spell,Rare,Apocalypse Reanimate
-17,Creature,Rare,Light Fighter Berserker
-18,Creature,Mythic,Light Undead Phoenix of the Sky
-19,Creature,Common,Orc
-20,Creature,Common,Goblin
-21,Spell,Rare,Nimble Vortex
-22,Creature,Common,Goblin
-23,Creature,Common,Dwarf
-24,Creature,Common,Eagle
-25,Creature,Common,Ghoul
-26,Creature,Common,Warlock
-27,Spell,Common,Invisibility
-28,Creature,Common,Eagle
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Orc
-31,Creature,Common,Wolf
-32,Spell,Common,Ice
-33,Artifact,Legendary,Mighty Cloak
-34,Creature,Legendary,Earth Warrior Giant of the Black Stone
-35,Creature,Common,Dwarf
-36,Creature,Common,Wolf
-37,Artifact,Common,Pendant
-38,Creature,Common,Goblin
-39,Creature,Common,Wolf
-40,Creature,Rare,Snow Warrior Minotaur
-41,Creature,Common,Eagle
-42,Enchantment,Mythic,Potent Invert
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Eagle
+==================,DECK,7666
+0,Creature,Snow Priest Ogre of the Mountains
+1,Spell,Rage
+2,Creature,Troll
+3,Creature,Fairy
+4,Creature,Magi
+5,Creature,Earth Assassin Goblin
+6,Spell,Lightning
+7,Creature,Warlock
+8,Spell,Fury
+9,Creature,Frozen Knight Cyclops
+10,Creature,Frozen Assassin Hydra
+11,Enchantment,Miracle Shrink
+12,Spell,Fire
+13,Creature,Eagle
+14,Creature,Fairy
+15,Spell,Gale
+16,Spell,Nimble Stricken
+17,Creature,Light Fighter Goblin
+18,Creature,Light Undead Phoenix of the Sky
+19,Creature,Spider
+20,Creature,Skin-Walker
+21,Spell,Corpse Gale
+22,Creature,Skin-Walker
+23,Creature,Magi
+24,Creature,Eagle
+25,Creature,Ghoul
+26,Creature,Berserker
+27,Spell,Infuriate
+28,Creature,Eagle
+29,Enchantment,Drain
+30,Creature,Spider
+31,Creature,Wolf
+32,Spell,Gravitation
+33,Artifact,Ardent Cataclysmic Cloak
+34,Creature,Earth Warrior Dwarf of the Black Stone
+35,Creature,Magi
+36,Creature,Wolf
+37,Artifact,Pendant
+38,Creature,Skin-Walker
+39,Creature,Wolf
+40,Creature,Snow Warrior Cyclops
+41,Creature,Eagle
+42,Enchantment,Urgent Oblivion Invert
+43,Enchantment,Agony
+44,Creature,Eagle

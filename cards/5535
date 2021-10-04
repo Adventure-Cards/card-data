@@ -1,46 +1,46 @@
-==================,DECK,5535,Medium
-0,Creature,Common,Paladin
-1,Artifact,Legendary,Clever Potion
-2,Creature,Common,Magi
-3,Creature,Rare,Light Queen Fairy
-4,Artifact,Rare,Nature Tome
-5,Creature,Legendary,Snow Undead Giant of the Magical Forest
-6,Enchantment,Mythic,Clever Blight
-7,Creature,Common,Magi
-8,Spell,Rare,Gloom Heal
-9,Creature,Common,Goblin
-10,Enchantment,Rare,Frigid Strength
-11,Creature,Common,Elf
-12,Creature,Legendary,Light Monk Giant of the Swamp
-13,Enchantment,Mythic,Mighty Haste
-14,Spell,Rare,Shimmering Sorrow
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Common,Shrink
-17,Creature,Mythic,Light Nameless Phoenix of the Sky
-18,Creature,Common,Spider
-19,Spell,Rare,Hateful Pandemonium
-20,Creature,Common,Paladin
-21,Spell,Legendary,Clever Fury
-22,Creature,Rare,Snow Merchant Minotaur
-23,Spell,Legendary,Potent Assault
-24,Enchantment,Rare,Hateful Drain
-25,Creature,Rare,Light Assassin Skin-Walker
-26,Enchantment,Common,Shade
-27,Creature,Rare,Aura Warrior Skin-Walker
-28,Creature,Legendary,Light Warrior Oni of the Polar Woods
-29,Creature,Common,Elf
-30,Creature,Legendary,Earth Priest Cyclops of the Mountains
-31,Creature,Common,Dwarf
-32,Creature,Common,Eagle
-33,Enchantment,Common,Shield
-34,Spell,Common,Frost
-35,Enchantment,Common,Invert
-36,Spell,Rare,Oblivion Gravitation
-37,Creature,Legendary,Death Assassin Orge of the Plains
-38,Creature,Common,Orc
-39,Enchantment,Rare,Dark Invert
-40,Enchantment,Common,Age
-41,Spell,Legendary,Angry Fury
-42,Creature,Common,Ghoul
-43,Spell,Legendary,Potent Invisibility
-44,Enchantment,Rare,Cataclysmic Shrink
+==================,DECK,5535
+0,Creature,Troll
+1,Artifact,Ardent Grim Potion
+2,Creature,Fairy
+3,Creature,Light Queen Kraken
+4,Artifact,Solar Tome
+5,Creature,Snow Undead Dwarf of the Magical Forest
+6,Enchantment,Clever Nimble Haste
+7,Creature,Fairy
+8,Spell,Sorrow Invisibility
+9,Creature,Skin-Walker
+10,Enchantment,Nimble Blight
+11,Creature,Warlock
+12,Creature,Light Monk Dwarf of the Swamp
+13,Enchantment,Potent Miracle Shrink
+14,Spell,Solar Freeze
+15,Enchantment,Firebreath
+16,Enchantment,Lethargy
+17,Creature,Light Nameless Phoenix of the Sky
+18,Creature,Paladin
+19,Spell,Chimeric Freeze
+20,Creature,Troll
+21,Spell,Empyrean Frigid Heal
+22,Creature,Snow Merchant Cyclops
+23,Spell,Instant Oblivion Frenzy
+24,Enchantment,Dark Flight
+25,Creature,Light Assassin Orc
+26,Enchantment,Lethargy
+27,Creature,Aura Warrior Orc
+28,Creature,Light Warrior Oni of the Polar Woods
+29,Creature,Warlock
+30,Creature,Earth Priest Giant of the Mountains
+31,Creature,Magi
+32,Creature,Eagle
+33,Enchantment,Agony
+34,Spell,Revive
+35,Enchantment,Flight
+36,Spell,Apocalypse Frenzy
+37,Creature,Death Assassin Elf of the Plains
+38,Creature,Spider
+39,Enchantment,Sorrow Shield
+40,Enchantment,Deathgrip
+41,Spell,Mighty Miracle Gale
+42,Creature,Ghoul
+43,Spell,Instant Grim Assault
+44,Enchantment,Chimeric Flight

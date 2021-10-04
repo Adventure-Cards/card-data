@@ -1,46 +1,46 @@
-==================,DECK,6204,Strong
-0,Creature,Common,Magi
-1,Creature,Common,Wolf
-2,Creature,Legendary,Earth Monk Oni of the Bright Mountains
-3,Spell,Mythic,Dire Burst
-4,Spell,Common,Stricken
-5,Spell,Common,Infuriate
-6,Creature,Legendary,Frozen Undead Phoenix of the Void
-7,Enchantment,Common,Agony
-8,Enchantment,Legendary,Extreme Invert
-9,Creature,Common,Dwarf
-10,Enchantment,Rare,Nature Blight
-11,Creature,Mythic,Dark Grand Demon of Illusion
-12,Enchantment,Rare,Forged Shade
-13,Creature,Legendary,Frozen Ancient Wizard of the Void
-14,Creature,Rare,Dark King Fairy
-15,Creature,Common,Eagle
-16,Creature,Common,Dwarf
-17,Enchantment,Legendary,Urgent Shield
-18,Spell,Rare,Hateful Fury
-19,Creature,Common,Goblin
-20,Enchantment,Rare,Lunar Blight
-21,Creature,Rare,Aura King Fairy
-22,Artifact,Common,Bow
-23,Creature,Common,Wolf
-24,Spell,Mythic,Mighty Fury
-25,Spell,Legendary,Mighty Lightning
-26,Creature,Common,Ghoul
-27,Creature,Rare,Dark King Minotaur
-28,Creature,Rare,Light Thief Minotaur
-29,Enchantment,Common,Deathgrip
-30,Creature,Mythic,Earth Nameless Dragon of the Shadows
-31,Spell,Legendary,Instant Pandemonium
-32,Creature,Common,Spider
-33,Creature,Legendary,Earth Assassin Oni of the Low Hills
-34,Enchantment,Legendary,Instant Agony
-35,Creature,Legendary,Light Chaos Demon of the Sky
-36,Spell,Rare,Necro Fury
-37,Creature,Common,Spider
-38,Creature,Common,Wolf
-39,Creature,Common,Paladin
-40,Enchantment,Mythic,Potent Shade
-41,Enchantment,Legendary,Dire Lethargy
-42,Creature,Common,Orc
-43,Creature,Common,Dwarf
-44,Creature,Common,Goblin
+==================,DECK,6204
+0,Creature,Fairy
+1,Creature,Wolf
+2,Creature,Earth Monk Oni of the Bright Mountains
+3,Spell,Potent Oblivion Assault
+4,Spell,Sorrow
+5,Spell,Fury
+6,Creature,Frozen Undead Phoenix of the Void
+7,Enchantment,Drain
+8,Enchantment,Instant Sorrow Shrink
+9,Creature,Magi
+10,Enchantment,Solar Age
+11,Creature,Dark Grand Demon of Illusion
+12,Enchantment,Chimeric Alacrity
+13,Creature,Frozen Ancient Wizard of the Void
+14,Creature,Dark King Kraken
+15,Creature,Eagle
+16,Creature,Magi
+17,Enchantment,Dire Nature Age
+18,Spell,Cataclysmic Lightning
+19,Creature,Skin-Walker
+20,Enchantment,Cataclysmic Firebreath
+21,Creature,Aura King Kraken
+22,Artifact,Bow
+23,Creature,Wolf
+24,Spell,Zealous Dark Pandemonium
+25,Spell,Ardent Miracle Freeze
+26,Creature,Ghoul
+27,Creature,Dark King Cyclops
+28,Creature,Light Thief Cyclops
+29,Enchantment,Deathgrip
+30,Creature,Earth Nameless Dragon of the Shadows
+31,Spell,Empyrean Solar Stun
+32,Creature,Paladin
+33,Creature,Earth Assassin Oni of the Low Hills
+34,Enchantment,Ardent Corpse Lethargy
+35,Creature,Light Chaos Demon of the Sky
+36,Spell,Corpse Vortex
+37,Creature,Paladin
+38,Creature,Wolf
+39,Creature,Troll
+40,Enchantment,Irate Frigid Blight
+41,Enchantment,Instant Grim Drain
+42,Creature,Spider
+43,Creature,Magi
+44,Creature,Skin-Walker

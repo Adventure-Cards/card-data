@@ -1,46 +1,46 @@
-==================,DECK,7256,Light
-0,Creature,Common,Goblin
-1,Creature,Legendary,Death Thief Cyclops of the Arctic Blizzards
-2,Enchantment,Common,Alacrity
-3,Spell,Rare,Corpse Gravitation
-4,Enchantment,Common,Shield
-5,Creature,Mythic,Earth Grand Wizard of the Shadows
-6,Enchantment,Rare,Miracle Blight
-7,Creature,Common,Goblin
-8,Creature,Rare,Aura Warrior Minotaur
-9,Spell,Rare,Cataclysmic Infuriate
-10,Creature,Common,Wolf
-11,Creature,Legendary,Light Rogue Oni of the Mountains
-12,Artifact,Common,Amulet
-13,Spell,Common,Frost
-14,Enchantment,Rare,Necro Age
-15,Creature,Legendary,Light Assassin Oni of the Polar Woods
-16,Spell,Rare,Lunar Ice
-17,Enchantment,Common,Lethargy
-18,Enchantment,Rare,Nimble Agony
-19,Creature,Rare,Light Rogue Skin-Walker
-20,Artifact,Common,Divine Robe
-21,Creature,Rare,Light Knight Fairy
-22,Creature,Common,Orc
-23,Spell,Common,Rage
-24,Creature,Common,Paladin
-25,Creature,Common,Goblin
-26,Enchantment,Common,Shade
-27,Enchantment,Common,Blight
-28,Creature,Rare,Snow Thief Minotaur
-29,Creature,Common,Dwarf
-30,Creature,Rare,Death Fighter Griffin
-31,Artifact,Common,Scythe
-32,Creature,Common,Elf
-33,Creature,Common,Warlock
-34,Creature,Common,Magi
-35,Creature,Common,Magi
-36,Enchantment,Common,Strength
-37,Creature,Common,Elf
-38,Spell,Rare,Corpse Rage
-39,Enchantment,Legendary,Clever Haste
-40,Creature,Common,Elf
-41,Creature,Common,Ghoul
-42,Creature,Common,Goblin
-43,Enchantment,Common,Haste
-44,Creature,Common,Spider
+==================,DECK,7256
+0,Creature,Skin-Walker
+1,Creature,Death Thief Giant of the Arctic Blizzards
+2,Enchantment,Flight
+3,Spell,Hateful Frenzy
+4,Enchantment,Strength
+5,Creature,Earth Grand Wizard of the Shadows
+6,Enchantment,Nimble Drain
+7,Creature,Skin-Walker
+8,Creature,Aura Warrior Cyclops
+9,Spell,Miracle Hypnosis
+10,Creature,Wolf
+11,Creature,Light Rogue Oni of the Mountains
+12,Artifact,Amulet
+13,Spell,Stun
+14,Enchantment,Nature Age
+15,Creature,Light Assassin Oni of the Polar Woods
+16,Spell,Lunar Pandemonium
+17,Enchantment,Lethargy
+18,Enchantment,Corpse Deathgrip
+19,Creature,Light Rogue Orc
+20,Artifact,Divine Robe
+21,Creature,Light Knight Kraken
+22,Creature,Spider
+23,Spell,Reanimate
+24,Creature,Troll
+25,Creature,Skin-Walker
+26,Enchantment,Shrink
+27,Enchantment,Blight
+28,Creature,Snow Thief Cyclops
+29,Creature,Magi
+30,Creature,Death Fighter Griffin
+31,Artifact,Scythe
+32,Creature,Warlock
+33,Creature,Berserker
+34,Creature,Fairy
+35,Creature,Fairy
+36,Enchantment,Shield
+37,Creature,Warlock
+38,Spell,Forged Gale
+39,Enchantment,Mighty Life Invert
+40,Creature,Warlock
+41,Creature,Ghoul
+42,Creature,Skin-Walker
+43,Enchantment,Deathgrip
+44,Creature,Paladin

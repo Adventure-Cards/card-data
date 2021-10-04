@@ -1,46 +1,46 @@
-==================,DECK,7394,Light
-0,Enchantment,Common,Age
-1,Creature,Common,Wolf
-2,Creature,Common,Goblin
-3,Creature,Common,Eagle
-4,Enchantment,Common,Age
-5,Creature,Common,Magi
-6,Creature,Common,Warlock
-7,Enchantment,Rare,Shimmering Blight
-8,Spell,Common,Assault
-9,Creature,Common,Elf
-10,Enchantment,Common,Drain
-11,Spell,Common,Vortex
-12,Creature,Rare,Aura Merchant Berserker
-13,Creature,Common,Paladin
-14,Spell,Common,Sorrow
-15,Artifact,Common,Helmet
-16,Creature,Mythic,Earth Grand Wizard of the Shadows
-17,Enchantment,Common,Shrink
-18,Artifact,Common,Bracers
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Reanimate
-21,Artifact,Common,Scythe
-22,Spell,Common,Ice
-23,Artifact,Common,Bow
-24,Creature,Common,Elf
-25,Creature,Common,Warlock
-26,Enchantment,Legendary,Dire Invert
-27,Creature,Common,Paladin
-28,Creature,Common,Ghoul
-29,Creature,Common,Warlock
-30,Creature,Rare,Frozen Fighter Hydra
-31,Creature,Common,Paladin
-32,Spell,Common,Gravitation
-33,Enchantment,Common,Drain
-34,Enchantment,Common,Deathgrip
-35,Enchantment,Common,Alacrity
-36,Artifact,Common,Ring
-37,Spell,Common,Torment
-38,Creature,Common,Goblin
-39,Spell,Legendary,Intense Wall
-40,Creature,Common,Eagle
-41,Spell,Common,Pandemonium
-42,Creature,Rare,Dark Merchant Hydra
-43,Enchantment,Common,Alacrity
-44,Creature,Common,Ghoul
+==================,DECK,7394
+0,Enchantment,Flight
+1,Creature,Wolf
+2,Creature,Skin-Walker
+3,Creature,Eagle
+4,Enchantment,Flight
+5,Creature,Fairy
+6,Creature,Berserker
+7,Enchantment,Solar Deathgrip
+8,Spell,Lightning
+9,Creature,Warlock
+10,Enchantment,Deathgrip
+11,Spell,Fire
+12,Creature,Aura Merchant Goblin
+13,Creature,Troll
+14,Spell,Gravitation
+15,Artifact,Helmet
+16,Creature,Earth Grand Wizard of the Shadows
+17,Enchantment,Blight
+18,Artifact,Bracers
+19,Enchantment,Invert
+20,Spell,Reanimate
+21,Artifact,Scythe
+22,Spell,Wall
+23,Artifact,Bow
+24,Creature,Warlock
+25,Creature,Berserker
+26,Enchantment,Ardent Oblivion Haste
+27,Creature,Troll
+28,Creature,Ghoul
+29,Creature,Berserker
+30,Creature,Frozen Fighter Hydra
+31,Creature,Troll
+32,Spell,Lightning
+33,Enchantment,Shield
+34,Enchantment,Deathgrip
+35,Enchantment,Haste
+36,Artifact,Ring
+37,Spell,Pandemonium
+38,Creature,Skin-Walker
+39,Spell,Urgent Hateful Fury
+40,Creature,Eagle
+41,Spell,Revive
+42,Creature,Dark Merchant Hydra
+43,Enchantment,Shrink
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,4873,Light
-0,Spell,Common,Lightning
-1,Creature,Common,Wolf
-2,Spell,Common,Revive
-3,Creature,Rare,Frozen Lord Berserker
-4,Spell,Rare,Cataclysmic Pandemonium
-5,Enchantment,Rare,Shimmering Drain
-6,Creature,Common,Spider
-7,Spell,Legendary,Clever Stricken
-8,Enchantment,Legendary,Dire Deathgrip
-9,Spell,Common,Lightning
-10,Creature,Legendary,Aura Assassin Orge of the Eastern Skies
-11,Creature,Common,Wolf
-12,Enchantment,Rare,Dark Invert
-13,Creature,Common,Magi
-14,Spell,Legendary,Clever Pandemonium
-15,Enchantment,Rare,Shimmering Haste
-16,Creature,Common,Orc
-17,Spell,Common,Burst
-18,Spell,Legendary,Extreme Stricken
-19,Enchantment,Common,Shrink
-20,Spell,Common,Stun
-21,Enchantment,Rare,Oblivion Alacrity
-22,Enchantment,Rare,Apocalypse Haste
-23,Artifact,Legendary,Instant Ring
-24,Creature,Rare,Dark Fighter Fairy
-25,Spell,Common,Stricken
-26,Spell,Common,Sorrow
-27,Artifact,Common,Sword
-28,Creature,Rare,Snow Undead Griffin
-29,Creature,Mythic,Frozen Undead Dragon of the Void
-30,Creature,Rare,Snow Priest Skin-Walker
-31,Creature,Common,Paladin
-32,Artifact,Common,Shield
-33,Spell,Common,Burst
-34,Creature,Common,Spider
-35,Enchantment,Common,Strength
-36,Artifact,Common,Helmet
-37,Enchantment,Common,Shrink
-38,Creature,Common,Orc
-39,Creature,Legendary,Death Thief Kraken of the Frozen Castle
-40,Creature,Common,Paladin
-41,Artifact,Common,Pendant
-42,Creature,Common,Dwarf
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,4873
+0,Spell,Gravitation
+1,Creature,Wolf
+2,Spell,Assault
+3,Creature,Frozen Lord Goblin
+4,Spell,Dark Fireball
+5,Enchantment,Forged Age
+6,Creature,Paladin
+7,Spell,Clever Grim Gale
+8,Enchantment,Mighty Oblivion Invert
+9,Spell,Torment
+10,Creature,Aura Assassin Elf of the Eastern Skies
+11,Creature,Wolf
+12,Enchantment,Sorrow Alacrity
+13,Creature,Fairy
+14,Spell,Zealous Apocalypse Hypnosis
+15,Enchantment,Corpse Age
+16,Creature,Spider
+17,Spell,Reanimate
+18,Spell,Clever Gloom Fury
+19,Enchantment,Shade
+20,Spell,Tempest
+21,Enchantment,Apocalypse Invert
+22,Enchantment,Life Blight
+23,Artifact,Clever Forged Ring
+24,Creature,Dark Fighter Kraken
+25,Spell,Assault
+26,Spell,Ice
+27,Artifact,Sword
+28,Creature,Snow Undead Griffin
+29,Creature,Frozen Undead Dragon of the Void
+30,Creature,Snow Priest Orc
+31,Creature,Troll
+32,Artifact,Shield
+33,Spell,Stricken
+34,Creature,Paladin
+35,Enchantment,Age
+36,Artifact,Helmet
+37,Enchantment,Firebreath
+38,Creature,Spider
+39,Creature,Death Thief Ogre of the Frozen Castle
+40,Creature,Troll
+41,Artifact,Pendant
+42,Creature,Magi
+43,Creature,Troll
+44,Creature,Paladin

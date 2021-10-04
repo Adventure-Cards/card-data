@@ -1,46 +1,46 @@
-==================,DECK,6323,Medium
-0,Spell,Common,Gravitation
-1,Enchantment,Common,Haste
-2,Creature,Common,Orc
-3,Creature,Common,Elf
-4,Spell,Rare,Hateful Burn
-5,Creature,Legendary,Earth Assassin Oni of the Magical Forest
-6,Spell,Rare,Corpse Heal
-7,Spell,Common,Stun
-8,Enchantment,Rare,Necro Haste
-9,Enchantment,Common,Shrink
-10,Spell,Common,Heal
-11,Creature,Rare,Death Queen Fairy
-12,Artifact,Rare,Apocalypse Scepter
-13,Creature,Legendary,Light Undead Kraken of the Swamp
-14,Enchantment,Rare,Solar Alacrity
-15,Creature,Mythic,Aura Ancient Wizard of the Light
-16,Creature,Legendary,Snow Knight Giant of the Border
-17,Creature,Common,Elf
-18,Creature,Common,Eagle
-19,Spell,Common,Wall
-20,Spell,Common,Vortex
-21,Creature,Rare,Snow Monk Griffin
-22,Creature,Common,Eagle
-23,Spell,Rare,Nature Reanimate
-24,Spell,Common,Reanimate
-25,Creature,Mythic,Aura Ancient Demon of the Light
-26,Creature,Mythic,Frozen Ancient Wizard of the Void
-27,Artifact,Common,Helmet
-28,Enchantment,Rare,Hateful Flight
-29,Creature,Common,Dwarf
-30,Creature,Common,Eagle
-31,Artifact,Common,Tome
-32,Creature,Mythic,Aura Undead Dragon of the Light
-33,Enchantment,Rare,Cataclysmic Age
-34,Spell,Common,Hypnosis
-35,Spell,Mythic,Extreme Lightning
-36,Creature,Common,Elf
-37,Spell,Rare,Life Reanimate
-38,Spell,Legendary,Dire Assault
-39,Enchantment,Legendary,Potent Deathgrip
-40,Enchantment,Common,Shield
-41,Enchantment,Common,Haste
-42,Enchantment,Legendary,Urgent Alacrity
-43,Spell,Rare,Apocalypse Reanimate
-44,Spell,Common,Heal
+==================,DECK,6323
+0,Spell,Maelstrom
+1,Enchantment,Age
+2,Creature,Spider
+3,Creature,Warlock
+4,Spell,Gloom Fireball
+5,Creature,Earth Assassin Oni of the Magical Forest
+6,Spell,Necro Revive
+7,Spell,Frenzy
+8,Enchantment,Corpse Strength
+9,Enchantment,Shade
+10,Spell,Pandemonium
+11,Creature,Death Queen Kraken
+12,Artifact,Apocalypse Scepter
+13,Creature,Light Undead Ogre of the Swamp
+14,Enchantment,Forged Deathgrip
+15,Creature,Aura Ancient Wizard of the Light
+16,Creature,Snow Knight Dwarf of the Border
+17,Creature,Warlock
+18,Creature,Eagle
+19,Spell,Gravitation
+20,Spell,Gale
+21,Creature,Snow Monk Griffin
+22,Creature,Eagle
+23,Spell,Hateful Ice
+24,Spell,Frost
+25,Creature,Aura Ancient Demon of the Light
+26,Creature,Frozen Ancient Wizard of the Void
+27,Artifact,Helmet
+28,Enchantment,Lunar Flight
+29,Creature,Magi
+30,Creature,Eagle
+31,Artifact,Tome
+32,Creature,Aura Undead Dragon of the Light
+33,Enchantment,Gloom Alacrity
+34,Spell,Stricken
+35,Spell,Irate Lunar Fury
+36,Creature,Warlock
+37,Spell,Apocalypse Frost
+38,Spell,Irate Nimble Fire
+39,Enchantment,Potent Oblivion Drain
+40,Enchantment,Invert
+41,Enchantment,Drain
+42,Enchantment,Urgent Forged Agony
+43,Spell,Apocalypse Lightning
+44,Spell,Gale

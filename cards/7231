@@ -1,46 +1,46 @@
-==================,DECK,7231,Light
-0,Creature,Rare,Dark Priest Minotaur
-1,Artifact,Common,Ring
-2,Spell,Common,Gale
-3,Creature,Common,Paladin
-4,Creature,Rare,Light Lord Hydra
-5,Creature,Rare,Frozen Monk Minotaur
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Paladin
-8,Creature,Rare,Death Fighter Griffin
-9,Creature,Common,Ghoul
-10,Creature,Common,Elf
-11,Creature,Common,Paladin
-12,Artifact,Legendary,Dire Greaves
-13,Creature,Rare,Aura Knight Fairy
-14,Creature,Common,Goblin
-15,Creature,Rare,Aura Fighter Griffin
-16,Creature,Common,Goblin
-17,Enchantment,Common,Invert
-18,Spell,Rare,Oblivion Frenzy
-19,Creature,Legendary,Light Warrior Orge of the Eastern Skies
-20,Creature,Common,Goblin
-21,Creature,Common,Magi
-22,Creature,Rare,Light Monk Griffin
-23,Creature,Legendary,Earth Monk Kraken of the West
-24,Creature,Common,Paladin
-25,Creature,Rare,Death Priest Minotaur
-26,Spell,Rare,Hateful Gale
-27,Spell,Rare,Forged Invisibility
-28,Artifact,Common,Helm
-29,Creature,Rare,Snow Fighter Hydra
-30,Spell,Legendary,Mighty Maelstrom
-31,Spell,Common,Invisibility
-32,Spell,Common,Gale
-33,Enchantment,Common,Flight
-34,Enchantment,Mythic,Instant Shield
-35,Creature,Rare,Earth Queen Berserker
-36,Creature,Rare,Snow Fighter Fairy
-37,Enchantment,Rare,Shimmering Shrink
-38,Creature,Rare,Snow Rogue Skin-Walker
-39,Creature,Common,Paladin
-40,Creature,Common,Ghoul
-41,Creature,Common,Spider
-42,Enchantment,Common,Age
-43,Creature,Rare,Frozen King Minotaur
-44,Spell,Rare,Necro Infuriate
+==================,DECK,7231
+0,Creature,Dark Priest Cyclops
+1,Artifact,Ring
+2,Spell,Frost
+3,Creature,Troll
+4,Creature,Light Lord Hydra
+5,Creature,Frozen Monk Cyclops
+6,Enchantment,Shrink
+7,Creature,Troll
+8,Creature,Death Fighter Griffin
+9,Creature,Ghoul
+10,Creature,Warlock
+11,Creature,Troll
+12,Artifact,Urgent Oblivion Greaves
+13,Creature,Aura Knight Kraken
+14,Creature,Skin-Walker
+15,Creature,Aura Fighter Griffin
+16,Creature,Skin-Walker
+17,Enchantment,Alacrity
+18,Spell,Life Torment
+19,Creature,Light Warrior Elf of the Eastern Skies
+20,Creature,Skin-Walker
+21,Creature,Fairy
+22,Creature,Light Monk Griffin
+23,Creature,Earth Monk Ogre of the West
+24,Creature,Troll
+25,Creature,Death Priest Cyclops
+26,Spell,Gloom Ice
+27,Spell,Dark Lightning
+28,Artifact,Helm
+29,Creature,Snow Fighter Hydra
+30,Spell,Potent Cataclysmic Burst
+31,Spell,Rage
+32,Spell,Burst
+33,Enchantment,Invert
+34,Enchantment,Irate Nature Deathgrip
+35,Creature,Earth Queen Goblin
+36,Creature,Snow Fighter Kraken
+37,Enchantment,Necro Lethargy
+38,Creature,Snow Rogue Orc
+39,Creature,Troll
+40,Creature,Ghoul
+41,Creature,Paladin
+42,Enchantment,Strength
+43,Creature,Frozen King Cyclops
+44,Spell,Hateful Wall

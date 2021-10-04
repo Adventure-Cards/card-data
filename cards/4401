@@ -1,46 +1,46 @@
-==================,DECK,4401,Light
-0,Artifact,Common,Sigil
-1,Spell,Legendary,Clever Rage
-2,Spell,Common,Gale
-3,Creature,Common,Eagle
-4,Creature,Mythic,Dark Ancient Demon of Illusion
-5,Creature,Rare,Snow Thief Hydra
-6,Enchantment,Legendary,Angry Lethargy
-7,Creature,Common,Ghoul
-8,Enchantment,Mythic,Urgent Invert
-9,Creature,Common,Elf
-10,Creature,Rare,Frozen Priest Minotaur
-11,Artifact,Rare,Gloom Sigil
-12,Spell,Common,Gale
-13,Artifact,Common,Scythe
-14,Creature,Rare,Dark Fighter Minotaur
-15,Artifact,Rare,Corpse Cloak
-16,Creature,Common,Ghoul
-17,Creature,Common,Magi
-18,Creature,Common,Elf
-19,Spell,Legendary,Angry Vortex
-20,Creature,Common,Warlock
-21,Spell,Legendary,Instant Heal
-22,Creature,Rare,Dark Rogue Griffin
-23,Enchantment,Rare,Gloom Agony
-24,Creature,Rare,Aura Warrior Skin-Walker
-25,Spell,Rare,Solar Vortex
-26,Artifact,Legendary,Intense Greaves
-27,Enchantment,Common,Alacrity
-28,Creature,Legendary,Earth Rogue Kraken of the Plains
-29,Enchantment,Common,Flight
-30,Creature,Common,Spider
-31,Creature,Legendary,Frozen Monk Cyclops of the Black Stone
-32,Creature,Common,Orc
-33,Artifact,Common,Crown
-34,Spell,Common,Heal
-35,Spell,Common,Wall
-36,Spell,Rare,Life Stun
-37,Creature,Common,Magi
-38,Artifact,Common,Tome
-39,Creature,Common,Orc
-40,Creature,Common,Magi
-41,Artifact,Common,Boots
-42,Spell,Rare,Miracle Reanimate
-43,Creature,Common,Magi
-44,Creature,Rare,Aura Queen Griffin
+==================,DECK,4401
+0,Artifact,Sigil
+1,Spell,Instant Life Gale
+2,Spell,Maelstrom
+3,Creature,Eagle
+4,Creature,Dark Ancient Demon of Illusion
+5,Creature,Snow Thief Hydra
+6,Enchantment,Ardent Lunar Shield
+7,Creature,Ghoul
+8,Enchantment,Dire Shimmering Age
+9,Creature,Warlock
+10,Creature,Frozen Priest Cyclops
+11,Artifact,Dark Sigil
+12,Spell,Sorrow
+13,Artifact,Scythe
+14,Creature,Dark Fighter Cyclops
+15,Artifact,Forged Cloak
+16,Creature,Ghoul
+17,Creature,Fairy
+18,Creature,Warlock
+19,Spell,Instant Gloom Reanimate
+20,Creature,Berserker
+21,Spell,Irate Forged Reanimate
+22,Creature,Dark Rogue Griffin
+23,Enchantment,Miracle Shrink
+24,Creature,Aura Warrior Orc
+25,Spell,Solar Heal
+26,Artifact,Urgent Nature Greaves
+27,Enchantment,Haste
+28,Creature,Earth Rogue Ogre of the Plains
+29,Enchantment,Strength
+30,Creature,Paladin
+31,Creature,Frozen Monk Giant of the Black Stone
+32,Creature,Spider
+33,Artifact,Crown
+34,Spell,Heal
+35,Spell,Rage
+36,Spell,Apocalypse Gravitation
+37,Creature,Fairy
+38,Artifact,Tome
+39,Creature,Spider
+40,Creature,Fairy
+41,Artifact,Boots
+42,Spell,Apocalypse Frenzy
+43,Creature,Fairy
+44,Creature,Aura Queen Griffin

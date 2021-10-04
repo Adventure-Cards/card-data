@@ -1,46 +1,46 @@
-==================,DECK,5561,Medium
-0,Creature,Rare,Aura Thief Fairy
-1,Creature,Common,Goblin
-2,Creature,Common,Dwarf
-3,Creature,Common,Spider
-4,Spell,Common,Maelstrom
-5,Creature,Common,Goblin
-6,Spell,Common,Vortex
-7,Creature,Rare,Earth Warrior Berserker
-8,Creature,Mythic,Earth Grand Wizard of the Shadows
-9,Creature,Rare,Death Warrior Berserker
-10,Artifact,Common,Ring
-11,Spell,Common,Hypnosis
-12,Enchantment,Rare,Hateful Blight
-13,Spell,Common,Rage
-14,Spell,Common,Burst
-15,Creature,Common,Ghoul
-16,Creature,Rare,Frozen Assassin Berserker
-17,Spell,Legendary,Urgent Stricken
-18,Creature,Legendary,Death King Oni of the Bright Mountains
-19,Artifact,Common,Cloak
-20,Artifact,Common,Gloves
-21,Creature,Legendary,Earth King Kraken of the Polar Woods
-22,Spell,Legendary,Intense Frost
-23,Creature,Mythic,Light Grand Demon of the Sky
-24,Creature,Rare,Dark Knight Berserker
-25,Spell,Rare,Cataclysmic Stun
-26,Spell,Common,Wall
-27,Creature,Common,Dwarf
-28,Spell,Rare,Lunar Burst
-29,Creature,Common,Dwarf
-30,Artifact,Common,Helm
-31,Creature,Rare,Dark Queen Minotaur
-32,Enchantment,Mythic,Mighty Shield
-33,Spell,Rare,Grim Lightning
-34,Enchantment,Mythic,Clever Strength
-35,Creature,Common,Magi
-36,Enchantment,Common,Haste
-37,Enchantment,Legendary,Potent Haste
-38,Enchantment,Common,Flight
-39,Creature,Common,Magi
-40,Spell,Rare,Nature Burst
-41,Spell,Common,Reanimate
-42,Enchantment,Rare,Miracle Shrink
-43,Creature,Mythic,Snow Nameless Phoenix of Hate
-44,Creature,Legendary,Earth Warrior Kraken of the Black Stone
+==================,DECK,5561
+0,Creature,Aura Thief Kraken
+1,Creature,Skin-Walker
+2,Creature,Magi
+3,Creature,Paladin
+4,Spell,Burst
+5,Creature,Skin-Walker
+6,Spell,Freeze
+7,Creature,Earth Warrior Goblin
+8,Creature,Earth Grand Wizard of the Shadows
+9,Creature,Death Warrior Goblin
+10,Artifact,Ring
+11,Spell,Freeze
+12,Enchantment,Cataclysmic Alacrity
+13,Spell,Freeze
+14,Spell,Stricken
+15,Creature,Ghoul
+16,Creature,Frozen Assassin Goblin
+17,Spell,Empyrean Forged Assault
+18,Creature,Death King Oni of the Bright Mountains
+19,Artifact,Cloak
+20,Artifact,Gloves
+21,Creature,Earth King Ogre of the Polar Woods
+22,Spell,Irate Forged Infuriate
+23,Creature,Light Grand Demon of the Sky
+24,Creature,Dark Knight Goblin
+25,Spell,Chimeric Torment
+26,Spell,Hypnosis
+27,Creature,Magi
+28,Spell,Dark Tempest
+29,Creature,Magi
+30,Artifact,Helm
+31,Creature,Dark Queen Cyclops
+32,Enchantment,Dire Gloom Firebreath
+33,Spell,Apocalypse Reanimate
+34,Enchantment,Urgent Nimble Invert
+35,Creature,Fairy
+36,Enchantment,Invert
+37,Enchantment,Mighty Life Invert
+38,Enchantment,Alacrity
+39,Creature,Fairy
+40,Spell,Necro Gale
+41,Spell,Ice
+42,Enchantment,Frigid Haste
+43,Creature,Snow Nameless Phoenix of Hate
+44,Creature,Earth Warrior Ogre of the Black Stone

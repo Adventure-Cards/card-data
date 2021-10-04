@@ -1,46 +1,46 @@
-==================,DECK,6486,Light
-0,Creature,Common,Magi
-1,Creature,Common,Wolf
-2,Creature,Common,Wolf
-3,Creature,Common,Magi
-4,Spell,Legendary,Instant Stricken
-5,Spell,Rare,Gloom Heal
-6,Creature,Common,Spider
-7,Enchantment,Common,Blight
-8,Artifact,Rare,Dark Divine Robe
-9,Spell,Common,Pandemonium
-10,Spell,Legendary,Mighty Rage
-11,Enchantment,Common,Invert
-12,Artifact,Rare,Hateful Helmet
-13,Spell,Common,Rage
-14,Spell,Common,Burn
-15,Enchantment,Common,Shield
-16,Creature,Rare,Light Priest Hydra
-17,Enchantment,Rare,Apocalypse Blight
-18,Spell,Legendary,Urgent Hypnosis
-19,Spell,Common,Invisibility
-20,Creature,Rare,Light Warrior Skin-Walker
-21,Enchantment,Common,Deathgrip
-22,Artifact,Common,Crown
-23,Creature,Rare,Aura Undead Minotaur
-24,Creature,Legendary,Snow Warrior Oni of the Frozen Castle
-25,Creature,Common,Orc
-26,Enchantment,Common,Haste
-27,Spell,Common,Stricken
-28,Creature,Common,Spider
-29,Spell,Legendary,Mighty Stricken
-30,Spell,Common,Stricken
-31,Enchantment,Common,Invert
-32,Creature,Common,Elf
-33,Creature,Legendary,Light Undead Orge of the Golden Palace
-34,Creature,Common,Spider
-35,Spell,Rare,Necro Reanimate
-36,Creature,Common,Spider
-37,Creature,Common,Elf
-38,Creature,Legendary,Frozen Lord Giant of the Mountains
-39,Creature,Legendary,Snow Undead Cyclops of the Eastern Skies
-40,Creature,Mythic,Earth Grand Wizard of the Shadows
-41,Creature,Mythic,Snow Ancient Demon of Hate
-42,Spell,Common,Lightning
-43,Enchantment,Common,Invert
-44,Spell,Common,Heal
+==================,DECK,6486
+0,Creature,Fairy
+1,Creature,Wolf
+2,Creature,Wolf
+3,Creature,Fairy
+4,Spell,Mighty Forged Pandemonium
+5,Spell,Cataclysmic Gale
+6,Creature,Paladin
+7,Enchantment,Firebreath
+8,Artifact,Sorrow Divine Robe
+9,Spell,Fireball
+10,Spell,Instant Gloom Rage
+11,Enchantment,Shield
+12,Artifact,Chimeric Helmet
+13,Spell,Maelstrom
+14,Spell,Freeze
+15,Enchantment,Invert
+16,Creature,Light Priest Hydra
+17,Enchantment,Nimble Blight
+18,Spell,Clever Nature Ice
+19,Spell,Lightning
+20,Creature,Light Warrior Orc
+21,Enchantment,Alacrity
+22,Artifact,Crown
+23,Creature,Aura Undead Cyclops
+24,Creature,Snow Warrior Oni of the Frozen Castle
+25,Creature,Spider
+26,Enchantment,Flight
+27,Spell,Hypnosis
+28,Creature,Paladin
+29,Spell,Mighty Sorrow Stun
+30,Spell,Fireball
+31,Enchantment,Shrink
+32,Creature,Warlock
+33,Creature,Light Undead Elf of the Golden Palace
+34,Creature,Paladin
+35,Spell,Forged Fury
+36,Creature,Paladin
+37,Creature,Warlock
+38,Creature,Frozen Lord Dwarf of the Mountains
+39,Creature,Snow Undead Giant of the Eastern Skies
+40,Creature,Earth Grand Wizard of the Shadows
+41,Creature,Snow Ancient Demon of Hate
+42,Spell,Burst
+43,Enchantment,Lethargy
+44,Spell,Fireball

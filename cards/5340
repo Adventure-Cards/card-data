@@ -1,46 +1,46 @@
-==================,DECK,5340,Light
-0,Spell,Common,Sorrow
-1,Creature,Common,Eagle
-2,Creature,Rare,Dark Priest Skin-Walker
-3,Enchantment,Rare,Solar Alacrity
-4,Creature,Common,Warlock
-5,Enchantment,Common,Flight
-6,Spell,Legendary,Instant Gravitation
-7,Spell,Common,Wall
-8,Creature,Common,Paladin
-9,Creature,Common,Wolf
-10,Creature,Common,Paladin
-11,Enchantment,Common,Invert
-12,Spell,Common,Hypnosis
-13,Creature,Common,Paladin
-14,Creature,Mythic,Light Grand Demon of the Sky
-15,Enchantment,Common,Haste
-16,Spell,Rare,Miracle Maelstrom
-17,Enchantment,Legendary,Instant Age
-18,Creature,Legendary,Light Assassin Kraken of the Border
-19,Spell,Rare,Gloom Wall
-20,Creature,Rare,Death Thief Skin-Walker
-21,Creature,Common,Warlock
-22,Creature,Common,Eagle
-23,Spell,Common,Gale
-24,Creature,Rare,Earth Undead Griffin
-25,Creature,Common,Magi
-26,Creature,Common,Ghoul
-27,Creature,Common,Elf
-28,Creature,Common,Orc
-29,Artifact,Rare,Life Divine Robe
-30,Creature,Common,Magi
-31,Creature,Common,Wolf
-32,Creature,Rare,Earth Monk Berserker
-33,Creature,Common,Goblin
-34,Spell,Common,Burst
-35,Artifact,Rare,Necro Bracers
-36,Enchantment,Common,Shrink
-37,Spell,Common,Stricken
-38,Enchantment,Mythic,Dire Agony
-39,Creature,Common,Magi
-40,Creature,Rare,Aura Undead Fairy
-41,Creature,Legendary,Dark Thief Orge of the Polar Woods
-42,Artifact,Common,Greaves
-43,Enchantment,Mythic,Angry Lethargy
-44,Spell,Common,Assault
+==================,DECK,5340
+0,Spell,Rage
+1,Creature,Eagle
+2,Creature,Dark Priest Orc
+3,Enchantment,Forged Agony
+4,Creature,Berserker
+5,Enchantment,Shrink
+6,Spell,Dire Nature Vortex
+7,Spell,Fire
+8,Creature,Troll
+9,Creature,Wolf
+10,Creature,Troll
+11,Enchantment,Flight
+12,Spell,Gale
+13,Creature,Troll
+14,Creature,Light Grand Demon of the Sky
+15,Enchantment,Strength
+16,Spell,Nimble Fire
+17,Enchantment,Clever Nature Lethargy
+18,Creature,Light Assassin Ogre of the Border
+19,Spell,Lunar Infuriate
+20,Creature,Death Thief Orc
+21,Creature,Berserker
+22,Creature,Eagle
+23,Spell,Vortex
+24,Creature,Earth Undead Griffin
+25,Creature,Fairy
+26,Creature,Ghoul
+27,Creature,Warlock
+28,Creature,Spider
+29,Artifact,Life Divine Robe
+30,Creature,Fairy
+31,Creature,Wolf
+32,Creature,Earth Monk Goblin
+33,Creature,Skin-Walker
+34,Spell,Rage
+35,Artifact,Corpse Bracers
+36,Enchantment,Invert
+37,Spell,Rage
+38,Enchantment,Dire Life Shade
+39,Creature,Fairy
+40,Creature,Aura Undead Kraken
+41,Creature,Dark Thief Elf of the Polar Woods
+42,Artifact,Greaves
+43,Enchantment,Ardent Lunar Shield
+44,Spell,Fury

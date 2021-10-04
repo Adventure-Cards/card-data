@@ -1,46 +1,46 @@
-==================,DECK,5278,Light
-0,Creature,Common,Goblin
-1,Creature,Mythic,Aura Ancient Wizard of the Light
-2,Creature,Common,Elf
-3,Enchantment,Common,Haste
-4,Spell,Common,Maelstrom
-5,Spell,Common,Burn
-6,Creature,Common,Warlock
-7,Creature,Common,Paladin
-8,Spell,Common,Rage
-9,Spell,Common,Wall
-10,Creature,Common,Goblin
-11,Creature,Rare,Earth Knight Minotaur
-12,Creature,Common,Dwarf
-13,Creature,Rare,Earth Priest Fairy
-14,Creature,Common,Wolf
-15,Creature,Common,Dwarf
-16,Creature,Common,Dwarf
-17,Artifact,Common,Scythe
-18,Enchantment,Common,Shield
-19,Creature,Rare,Dark Fighter Griffin
-20,Enchantment,Common,Shrink
-21,Creature,Common,Ghoul
-22,Creature,Legendary,Light Queen Giant of the Mountains
-23,Enchantment,Common,Drain
-24,Creature,Common,Warlock
-25,Creature,Common,Elf
-26,Creature,Rare,Frozen Warrior Griffin
-27,Creature,Common,Orc
-28,Creature,Common,Magi
-29,Spell,Common,Reanimate
-30,Creature,Legendary,Death Thief Cyclops of the Swamp
-31,Enchantment,Common,Lethargy
-32,Creature,Common,Dwarf
-33,Creature,Common,Orc
-34,Enchantment,Common,Lethargy
-35,Enchantment,Common,Deathgrip
-36,Enchantment,Common,Blight
-37,Creature,Common,Dwarf
-38,Enchantment,Rare,Dark Strength
-39,Creature,Common,Goblin
-40,Creature,Common,Spider
-41,Enchantment,Mythic,Angry Lethargy
-42,Creature,Legendary,Snow Warrior Giant of the Haven
-43,Spell,Common,Frost
-44,Creature,Common,Orc
+==================,DECK,5278
+0,Creature,Skin-Walker
+1,Creature,Aura Ancient Wizard of the Light
+2,Creature,Warlock
+3,Enchantment,Shade
+4,Spell,Invisibility
+5,Spell,Frost
+6,Creature,Berserker
+7,Creature,Troll
+8,Spell,Frost
+9,Spell,Heal
+10,Creature,Skin-Walker
+11,Creature,Earth Knight Cyclops
+12,Creature,Magi
+13,Creature,Earth Priest Kraken
+14,Creature,Wolf
+15,Creature,Magi
+16,Creature,Magi
+17,Artifact,Scythe
+18,Enchantment,Deathgrip
+19,Creature,Dark Fighter Griffin
+20,Enchantment,Flight
+21,Creature,Ghoul
+22,Creature,Light Queen Dwarf of the Mountains
+23,Enchantment,Deathgrip
+24,Creature,Berserker
+25,Creature,Warlock
+26,Creature,Frozen Warrior Griffin
+27,Creature,Spider
+28,Creature,Fairy
+29,Spell,Wall
+30,Creature,Death Thief Giant of the Swamp
+31,Enchantment,Firebreath
+32,Creature,Magi
+33,Creature,Spider
+34,Enchantment,Flight
+35,Enchantment,Invert
+36,Enchantment,Blight
+37,Creature,Magi
+38,Enchantment,Cataclysmic Firebreath
+39,Creature,Skin-Walker
+40,Creature,Paladin
+41,Enchantment,Irate Lunar Alacrity
+42,Creature,Snow Warrior Dwarf of the Haven
+43,Spell,Stricken
+44,Creature,Spider

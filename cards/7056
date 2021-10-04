@@ -1,46 +1,46 @@
-==================,DECK,7056,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shield
-2,Creature,Rare,Snow Knight Griffin
-3,Enchantment,Mythic,Urgent Strength
-4,Creature,Common,Orc
-5,Artifact,Common,Crown
-6,Enchantment,Common,Strength
-7,Creature,Common,Spider
-8,Creature,Rare,Aura Thief Skin-Walker
-9,Artifact,Common,Helm
-10,Spell,Legendary,Dire Gale
-11,Enchantment,Rare,Lunar Haste
-12,Creature,Rare,Dark Lord Berserker
-13,Spell,Common,Frenzy
-14,Artifact,Common,Helm
-15,Creature,Mythic,Snow Nameless Dragon of Hate
-16,Artifact,Rare,Solar Shield
-17,Artifact,Legendary,Intense Helm
-18,Creature,Common,Magi
-19,Spell,Common,Revive
-20,Creature,Common,Orc
-21,Creature,Rare,Earth Knight Hydra
-22,Artifact,Common,Ring
-23,Creature,Common,Magi
-24,Spell,Common,Burst
-25,Creature,Rare,Aura Fighter Minotaur
-26,Artifact,Common,Shield
-27,Creature,Common,Dwarf
-28,Spell,Common,Frenzy
-29,Creature,Common,Goblin
-30,Creature,Legendary,Aura Knight Giant of the Eastern Skies
-31,Creature,Common,Magi
-32,Creature,Common,Paladin
-33,Artifact,Common,Scythe
-34,Creature,Common,Wolf
-35,Creature,Mythic,Death Nameless Phoenix of the Dead
-36,Spell,Common,Sorrow
-37,Creature,Common,Warlock
-38,Creature,Mythic,Light Time Dragon of the Sky
-39,Enchantment,Common,Blight
-40,Spell,Common,Frost
-41,Creature,Legendary,Dark Assassin Kraken of the Mountains
-42,Creature,Mythic,Frozen Undead Dragon of the Void
-43,Enchantment,Rare,Nature Blight
-44,Enchantment,Mythic,Instant Shield
+==================,DECK,7056
+0,Creature,Eagle
+1,Enchantment,Blight
+2,Creature,Snow Knight Griffin
+3,Enchantment,Dire Solar Age
+4,Creature,Spider
+5,Artifact,Crown
+6,Enchantment,Drain
+7,Creature,Paladin
+8,Creature,Aura Thief Orc
+9,Artifact,Helm
+10,Spell,Potent Victory Freeze
+11,Enchantment,Miracle Shrink
+12,Creature,Dark Lord Goblin
+13,Spell,Fury
+14,Artifact,Helm
+15,Creature,Snow Nameless Dragon of Hate
+16,Artifact,Corpse Shield
+17,Artifact,Empyrean Nature Helm
+18,Creature,Fairy
+19,Spell,Frenzy
+20,Creature,Spider
+21,Creature,Earth Knight Hydra
+22,Artifact,Ring
+23,Creature,Fairy
+24,Spell,Stun
+25,Creature,Aura Fighter Cyclops
+26,Artifact,Shield
+27,Creature,Magi
+28,Spell,Ice
+29,Creature,Skin-Walker
+30,Creature,Aura Knight Dwarf of the Eastern Skies
+31,Creature,Fairy
+32,Creature,Troll
+33,Artifact,Scythe
+34,Creature,Wolf
+35,Creature,Death Nameless Phoenix of the Dead
+36,Spell,Maelstrom
+37,Creature,Berserker
+38,Creature,Light Time Dragon of the Sky
+39,Enchantment,Alacrity
+40,Spell,Tempest
+41,Creature,Dark Assassin Ogre of the Mountains
+42,Creature,Frozen Undead Dragon of the Void
+43,Enchantment,Solar Lethargy
+44,Enchantment,Urgent Nature Agony

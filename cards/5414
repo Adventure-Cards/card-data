@@ -1,46 +1,46 @@
-==================,DECK,5414,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Magi
-2,Creature,Common,Ghoul
-3,Artifact,Common,Ring
-4,Creature,Legendary,Frozen Priest Orge of the West
-5,Enchantment,Mythic,Potent Deathgrip
-6,Enchantment,Rare,Life Deathgrip
-7,Spell,Common,Freeze
-8,Spell,Common,Infuriate
-9,Creature,Common,Dwarf
-10,Creature,Common,Wolf
-11,Creature,Common,Elf
-12,Enchantment,Rare,Dark Shade
-13,Artifact,Common,Sword
-14,Spell,Common,Hypnosis
-15,Spell,Common,Gravitation
-16,Spell,Rare,Dark Heal
-17,Spell,Rare,Oblivion Frost
-18,Creature,Common,Ghoul
-19,Creature,Common,Goblin
-20,Spell,Common,Sorrow
-21,Creature,Legendary,Dark Thief Giant of the Swamp
-22,Artifact,Common,Shield
-23,Artifact,Common,Amulet
-24,Creature,Rare,Dark Fighter Fairy
-25,Enchantment,Common,Strength
-26,Spell,Legendary,Dire Reanimate
-27,Creature,Common,Ghoul
-28,Creature,Common,Goblin
-29,Creature,Rare,Aura King Fairy
-30,Creature,Common,Ghoul
-31,Creature,Rare,Earth Monk Griffin
-32,Enchantment,Mythic,Angry Agony
-33,Creature,Common,Wolf
-34,Creature,Common,Magi
-35,Creature,Common,Warlock
-36,Spell,Common,Pandemonium
-37,Creature,Common,Wolf
-38,Spell,Common,Freeze
-39,Spell,Common,Fury
-40,Artifact,Common,Divine Robe
-41,Creature,Common,Magi
-42,Enchantment,Common,Haste
-43,Creature,Common,Warlock
-44,Creature,Legendary,Snow Assassin Kraken of the West
+==================,DECK,5414
+0,Creature,Troll
+1,Creature,Fairy
+2,Creature,Ghoul
+3,Artifact,Ring
+4,Creature,Frozen Priest Elf of the West
+5,Enchantment,Clever Oblivion Haste
+6,Enchantment,Oblivion Shade
+7,Spell,Fire
+8,Spell,Sorrow
+9,Creature,Magi
+10,Creature,Wolf
+11,Creature,Warlock
+12,Enchantment,Chimeric Shield
+13,Artifact,Sword
+14,Spell,Gale
+15,Spell,Heal
+16,Spell,Dark Pandemonium
+17,Spell,Life Burn
+18,Creature,Ghoul
+19,Creature,Skin-Walker
+20,Spell,Rage
+21,Creature,Dark Thief Dwarf of the Swamp
+22,Artifact,Shield
+23,Artifact,Amulet
+24,Creature,Dark Fighter Kraken
+25,Enchantment,Age
+26,Spell,Zealous Victory Gale
+27,Creature,Ghoul
+28,Creature,Skin-Walker
+29,Creature,Aura King Kraken
+30,Creature,Ghoul
+31,Creature,Earth Monk Griffin
+32,Enchantment,Irate Miracle Alacrity
+33,Creature,Wolf
+34,Creature,Fairy
+35,Creature,Berserker
+36,Spell,Fireball
+37,Creature,Wolf
+38,Spell,Torment
+39,Spell,Vortex
+40,Artifact,Divine Robe
+41,Creature,Fairy
+42,Enchantment,Shrink
+43,Creature,Berserker
+44,Creature,Snow Assassin Ogre of the West

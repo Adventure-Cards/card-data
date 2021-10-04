@@ -1,46 +1,46 @@
-==================,DECK,5170,Light
-0,Creature,Legendary,Snow Lord Giant of the West
-1,Creature,Rare,Light Knight Griffin
-2,Creature,Rare,Light Warrior Griffin
-3,Creature,Rare,Death Undead Fairy
-4,Creature,Common,Dwarf
-5,Creature,Common,Dwarf
-6,Spell,Common,Rage
-7,Enchantment,Common,Age
-8,Artifact,Common,Gloves
-9,Spell,Rare,Forged Frost
-10,Creature,Common,Elf
-11,Spell,Rare,Nature Infuriate
-12,Artifact,Common,Helm
-13,Artifact,Legendary,Angry Crown
-14,Artifact,Common,Cloak
-15,Creature,Rare,Snow Queen Skin-Walker
-16,Spell,Common,Wall
-17,Creature,Common,Eagle
-18,Creature,Rare,Frozen Thief Skin-Walker
-19,Creature,Rare,Death Rogue Minotaur
-20,Creature,Common,Ghoul
-21,Creature,Common,Elf
-22,Spell,Legendary,Extreme Rage
-23,Spell,Common,Frenzy
-24,Creature,Common,Orc
-25,Creature,Common,Orc
-26,Spell,Common,Torment
-27,Artifact,Common,Sigil
-28,Spell,Rare,Solar Lightning
-29,Creature,Legendary,Snow Fighter Cyclops of the Mountains
-30,Creature,Common,Ghoul
-31,Creature,Common,Elf
-32,Enchantment,Rare,Nature Blight
-33,Creature,Common,Eagle
-34,Creature,Common,Goblin
-35,Creature,Legendary,Snow Priest Orge of the Mountains
-36,Creature,Common,Warlock
-37,Creature,Common,Paladin
-38,Creature,Common,Spider
-39,Enchantment,Mythic,Urgent Deathgrip
-40,Enchantment,Common,Drain
-41,Spell,Rare,Solar Torment
-42,Spell,Rare,Nature Sorrow
-43,Creature,Common,Orc
-44,Creature,Rare,Death Knight Griffin
+==================,DECK,5170
+0,Creature,Snow Lord Dwarf of the West
+1,Creature,Light Knight Griffin
+2,Creature,Light Warrior Griffin
+3,Creature,Death Undead Kraken
+4,Creature,Magi
+5,Creature,Magi
+6,Spell,Pandemonium
+7,Enchantment,Shrink
+8,Artifact,Gloves
+9,Spell,Miracle Reanimate
+10,Creature,Warlock
+11,Spell,Necro Heal
+12,Artifact,Helm
+13,Artifact,Irate Miracle Crown
+14,Artifact,Cloak
+15,Creature,Snow Queen Orc
+16,Spell,Gale
+17,Creature,Eagle
+18,Creature,Frozen Thief Orc
+19,Creature,Death Rogue Cyclops
+20,Creature,Ghoul
+21,Creature,Warlock
+22,Spell,Ardent Miracle Wall
+23,Spell,Infuriate
+24,Creature,Spider
+25,Creature,Spider
+26,Spell,Fury
+27,Artifact,Sigil
+28,Spell,Nature Revive
+29,Creature,Snow Fighter Giant of the Mountains
+30,Creature,Ghoul
+31,Creature,Warlock
+32,Enchantment,Solar Lethargy
+33,Creature,Eagle
+34,Creature,Skin-Walker
+35,Creature,Snow Priest Elf of the Mountains
+36,Creature,Berserker
+37,Creature,Troll
+38,Creature,Paladin
+39,Enchantment,Zealous Shimmering Deathgrip
+40,Enchantment,Strength
+41,Spell,Solar Sorrow
+42,Spell,Hateful Gale
+43,Creature,Spider
+44,Creature,Death Knight Griffin

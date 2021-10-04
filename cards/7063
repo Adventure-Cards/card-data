@@ -1,46 +1,46 @@
-==================,DECK,7063,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Warlock
-2,Artifact,Common,Ring
-3,Creature,Rare,Death Monk Berserker
-4,Creature,Common,Warlock
-5,Creature,Legendary,Snow Thief Orge of the Eternal Land
-6,Enchantment,Legendary,Extreme Strength
-7,Creature,Common,Elf
-8,Creature,Common,Ghoul
-9,Creature,Common,Eagle
-10,Creature,Common,Wolf
-11,Creature,Rare,Snow Lord Fairy
-12,Artifact,Rare,Life Scepter
-13,Artifact,Common,Gloves
-14,Artifact,Legendary,Potent Cloak
-15,Spell,Rare,Shimmering Reanimate
-16,Spell,Common,Revive
-17,Creature,Common,Goblin
-18,Spell,Common,Wall
-19,Spell,Common,Ice
-20,Spell,Common,Wall
-21,Creature,Common,Paladin
-22,Creature,Rare,Snow King Minotaur
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Gale
-25,Creature,Common,Ghoul
-26,Creature,Rare,Aura Priest Griffin
-27,Creature,Common,Spider
-28,Artifact,Common,Greaves
-29,Enchantment,Mythic,Clever Shrink
-30,Creature,Common,Paladin
-31,Creature,Common,Wolf
-32,Spell,Common,Gravitation
-33,Creature,Common,Spider
-34,Enchantment,Common,Shield
-35,Creature,Common,Dwarf
-36,Spell,Common,Ice
-37,Creature,Rare,Frozen Lord Fairy
-38,Creature,Rare,Frozen Queen Skin-Walker
-39,Creature,Common,Goblin
-40,Enchantment,Common,Invert
-41,Spell,Common,Assault
-42,Creature,Common,Paladin
-43,Spell,Common,Pandemonium
-44,Creature,Rare,Dark Thief Hydra
+==================,DECK,7063
+0,Creature,Ghoul
+1,Creature,Berserker
+2,Artifact,Ring
+3,Creature,Death Monk Goblin
+4,Creature,Berserker
+5,Creature,Snow Thief Elf of the Eternal Land
+6,Enchantment,Ardent Cataclysmic Shield
+7,Creature,Warlock
+8,Creature,Ghoul
+9,Creature,Eagle
+10,Creature,Wolf
+11,Creature,Snow Lord Kraken
+12,Artifact,Grim Scepter
+13,Artifact,Gloves
+14,Artifact,Ardent Grim Cloak
+15,Spell,Shimmering Fury
+16,Spell,Maelstrom
+17,Creature,Skin-Walker
+18,Spell,Sorrow
+19,Spell,Stun
+20,Spell,Gravitation
+21,Creature,Troll
+22,Creature,Snow King Cyclops
+23,Enchantment,Deathgrip
+24,Spell,Fury
+25,Creature,Ghoul
+26,Creature,Aura Priest Griffin
+27,Creature,Paladin
+28,Artifact,Greaves
+29,Enchantment,Mighty Frigid Invert
+30,Creature,Troll
+31,Creature,Wolf
+32,Spell,Tempest
+33,Creature,Paladin
+34,Enchantment,Shrink
+35,Creature,Magi
+36,Spell,Tempest
+37,Creature,Frozen Lord Kraken
+38,Creature,Frozen Queen Orc
+39,Creature,Skin-Walker
+40,Enchantment,Firebreath
+41,Spell,Wall
+42,Creature,Troll
+43,Spell,Gravitation
+44,Creature,Dark Thief Hydra

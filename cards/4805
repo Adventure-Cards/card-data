@@ -1,46 +1,46 @@
-==================,DECK,4805,Medium
-0,Creature,Common,Goblin
-1,Spell,Common,Infuriate
-2,Creature,Common,Paladin
-3,Artifact,Common,Pendant
-4,Creature,Common,Spider
-5,Spell,Rare,Oblivion Frost
-6,Creature,Common,Wolf
-7,Creature,Mythic,Snow Chaos Demon of Hate
-8,Spell,Rare,Shimmering Hypnosis
-9,Creature,Common,Spider
-10,Spell,Common,Revive
-11,Creature,Rare,Death Warrior Fairy
-12,Creature,Common,Paladin
-13,Creature,Common,Paladin
-14,Creature,Legendary,Aura Thief Oni of the West
-15,Spell,Rare,Grim Lightning
-16,Artifact,Common,Sigil
-17,Enchantment,Common,Deathgrip
-18,Creature,Rare,Light Knight Minotaur
-19,Creature,Common,Warlock
-20,Enchantment,Common,Shield
-21,Enchantment,Common,Lethargy
-22,Spell,Rare,Life Fury
-23,Creature,Common,Spider
-24,Creature,Common,Eagle
-25,Creature,Common,Magi
-26,Artifact,Common,Greaves
-27,Enchantment,Common,Agony
-28,Artifact,Rare,Miracle Pendant
-29,Creature,Rare,Frozen Assassin Skin-Walker
-30,Creature,Legendary,Death Lord Giant of the West
-31,Spell,Rare,Miracle Maelstrom
-32,Creature,Common,Magi
-33,Creature,Mythic,Dark Undead Dragon of Illusion
-34,Creature,Mythic,Earth Grand Demon of the Shadows
-35,Creature,Rare,Dark Fighter Griffin
-36,Creature,Common,Orc
-37,Creature,Common,Spider
-38,Creature,Rare,Aura Queen Berserker
-39,Enchantment,Common,Strength
-40,Spell,Legendary,Dire Revive
-41,Spell,Common,Burst
-42,Creature,Rare,Death Undead Hydra
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Invert
+==================,DECK,4805
+0,Creature,Skin-Walker
+1,Spell,Invisibility
+2,Creature,Troll
+3,Artifact,Pendant
+4,Creature,Paladin
+5,Spell,Oblivion Tempest
+6,Creature,Wolf
+7,Creature,Snow Chaos Demon of Hate
+8,Spell,Necro Gravitation
+9,Creature,Paladin
+10,Spell,Tempest
+11,Creature,Death Warrior Kraken
+12,Creature,Troll
+13,Creature,Troll
+14,Creature,Aura Thief Oni of the West
+15,Spell,Victory Frost
+16,Artifact,Sigil
+17,Enchantment,Strength
+18,Creature,Light Knight Cyclops
+19,Creature,Berserker
+20,Enchantment,Agony
+21,Enchantment,Shrink
+22,Spell,Apocalypse Pandemonium
+23,Creature,Paladin
+24,Creature,Eagle
+25,Creature,Fairy
+26,Artifact,Greaves
+27,Enchantment,Lethargy
+28,Artifact,Apocalypse Pendant
+29,Creature,Frozen Assassin Orc
+30,Creature,Death Lord Dwarf of the West
+31,Spell,Nimble Hypnosis
+32,Creature,Fairy
+33,Creature,Dark Undead Dragon of Illusion
+34,Creature,Earth Grand Demon of the Shadows
+35,Creature,Dark Fighter Griffin
+36,Creature,Spider
+37,Creature,Paladin
+38,Creature,Aura Queen Goblin
+39,Enchantment,Strength
+40,Spell,Dire Grim Reanimate
+41,Spell,Gale
+42,Creature,Death Undead Hydra
+43,Creature,Ghoul
+44,Enchantment,Age

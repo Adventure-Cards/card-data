@@ -1,46 +1,46 @@
-==================,DECK,4933,Light
-0,Creature,Common,Ghoul
-1,Creature,Rare,Aura King Skin-Walker
-2,Spell,Rare,Corpse Heal
-3,Enchantment,Common,Shield
-4,Creature,Legendary,Frozen Knight Oni of the Black Stone
-5,Creature,Legendary,Frozen Merchant Orge of the Plains
-6,Spell,Common,Ice
-7,Enchantment,Common,Shade
-8,Creature,Common,Paladin
-9,Enchantment,Common,Age
-10,Spell,Common,Fury
-11,Creature,Rare,Earth Assassin Berserker
-12,Creature,Rare,Light Thief Skin-Walker
-13,Creature,Rare,Light Priest Griffin
-14,Creature,Common,Elf
-15,Creature,Common,Orc
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Creature,Rare,Dark Merchant Skin-Walker
-19,Artifact,Rare,Gloom Scepter
-20,Spell,Common,Gravitation
-21,Creature,Common,Paladin
-22,Spell,Common,Gravitation
-23,Creature,Rare,Frozen King Berserker
-24,Creature,Common,Goblin
-25,Enchantment,Rare,Life Deathgrip
-26,Creature,Rare,Snow Assassin Fairy
-27,Artifact,Common,Bow
-28,Creature,Common,Warlock
-29,Creature,Rare,Dark Assassin Fairy
-30,Creature,Common,Spider
-31,Enchantment,Common,Flight
-32,Enchantment,Mythic,Instant Shrink
-33,Creature,Mythic,Snow Ancient Wizard of Hate
-34,Creature,Rare,Light Monk Minotaur
-35,Spell,Legendary,Potent Burn
-36,Creature,Common,Wolf
-37,Creature,Mythic,Death Grand Demon of the Dead
-38,Spell,Rare,Frigid Heal
-39,Artifact,Rare,Nimble Gloves
-40,Enchantment,Common,Haste
-41,Spell,Common,Assault
-42,Creature,Common,Paladin
-43,Enchantment,Mythic,Intense Agony
-44,Creature,Rare,Earth Knight Fairy
+==================,DECK,4933
+0,Creature,Ghoul
+1,Creature,Aura King Orc
+2,Spell,Shimmering Gale
+3,Enchantment,Flight
+4,Creature,Frozen Knight Oni of the Black Stone
+5,Creature,Frozen Merchant Elf of the Plains
+6,Spell,Sorrow
+7,Enchantment,Alacrity
+8,Creature,Troll
+9,Enchantment,Firebreath
+10,Spell,Gale
+11,Creature,Earth Assassin Goblin
+12,Creature,Light Thief Orc
+13,Creature,Light Priest Griffin
+14,Creature,Warlock
+15,Creature,Spider
+16,Creature,Berserker
+17,Creature,Berserker
+18,Creature,Dark Merchant Orc
+19,Artifact,Dark Scepter
+20,Spell,Frenzy
+21,Creature,Troll
+22,Spell,Frost
+23,Creature,Frozen King Goblin
+24,Creature,Skin-Walker
+25,Enchantment,Oblivion Drain
+26,Creature,Snow Assassin Kraken
+27,Artifact,Bow
+28,Creature,Berserker
+29,Creature,Dark Assassin Kraken
+30,Creature,Paladin
+31,Enchantment,Shade
+32,Enchantment,Zealous Necro Deathgrip
+33,Creature,Snow Ancient Wizard of Hate
+34,Creature,Light Monk Cyclops
+35,Spell,Clever Frigid Fury
+36,Creature,Wolf
+37,Creature,Death Grand Demon of the Dead
+38,Spell,Frigid Tempest
+39,Artifact,Nature Gloves
+40,Enchantment,Shade
+41,Spell,Fury
+42,Creature,Troll
+43,Enchantment,Urgent Corpse Agony
+44,Creature,Earth Knight Kraken

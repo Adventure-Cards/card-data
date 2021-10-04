@@ -1,46 +1,46 @@
-==================,DECK,4871,Light
-0,Creature,Rare,Light Priest Fairy
-1,Creature,Rare,Dark Assassin Griffin
-2,Creature,Common,Warlock
-3,Creature,Common,Ghoul
-4,Spell,Common,Rage
-5,Enchantment,Common,Flight
-6,Creature,Common,Goblin
-7,Creature,Common,Ghoul
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Shrink
-10,Spell,Legendary,Angry Heal
-11,Creature,Common,Spider
-12,Creature,Rare,Death Assassin Hydra
-13,Creature,Common,Spider
-14,Enchantment,Common,Shade
-15,Creature,Common,Paladin
-16,Spell,Common,Burn
-17,Enchantment,Rare,Miracle Blight
-18,Spell,Common,Freeze
-19,Artifact,Common,Pendant
-20,Enchantment,Mythic,Intense Blight
-21,Enchantment,Rare,Lunar Age
-22,Enchantment,Common,Age
-23,Creature,Rare,Aura Knight Fairy
-24,Creature,Common,Magi
-25,Enchantment,Common,Lethargy
-26,Artifact,Rare,Corpse Boots
-27,Spell,Common,Fury
-28,Spell,Common,Invisibility
-29,Creature,Common,Orc
-30,Creature,Common,Dwarf
-31,Creature,Rare,Aura Queen Berserker
-32,Creature,Legendary,Light Warrior Cyclops of the Mountains
-33,Spell,Common,Gale
-34,Spell,Common,Gale
-35,Artifact,Rare,Nature Tome
-36,Enchantment,Common,Age
-37,Creature,Legendary,Light Merchant Oni of the Arctic Blizzards
-38,Creature,Common,Elf
-39,Creature,Rare,Aura Merchant Fairy
-40,Creature,Legendary,Snow Fighter Oni of the Swamp
-41,Artifact,Common,Helmet
-42,Artifact,Common,Ring
-43,Creature,Common,Goblin
-44,Artifact,Common,Potion
+==================,DECK,4871
+0,Creature,Light Priest Kraken
+1,Creature,Dark Assassin Griffin
+2,Creature,Berserker
+3,Creature,Ghoul
+4,Spell,Stun
+5,Enchantment,Deathgrip
+6,Creature,Skin-Walker
+7,Creature,Ghoul
+8,Creature,Magi
+9,Enchantment,Drain
+10,Spell,Ardent Dark Freeze
+11,Creature,Paladin
+12,Creature,Death Assassin Hydra
+13,Creature,Paladin
+14,Enchantment,Drain
+15,Creature,Troll
+16,Spell,Infuriate
+17,Enchantment,Nimble Shade
+18,Spell,Frenzy
+19,Artifact,Pendant
+20,Enchantment,Zealous Solar Deathgrip
+21,Enchantment,Gloom Firebreath
+22,Enchantment,Firebreath
+23,Creature,Aura Knight Kraken
+24,Creature,Fairy
+25,Enchantment,Age
+26,Artifact,Solar Boots
+27,Spell,Burst
+28,Spell,Heal
+29,Creature,Spider
+30,Creature,Magi
+31,Creature,Aura Queen Goblin
+32,Creature,Light Warrior Giant of the Mountains
+33,Spell,Tempest
+34,Spell,Rage
+35,Artifact,Necro Tome
+36,Enchantment,Flight
+37,Creature,Light Merchant Oni of the Arctic Blizzards
+38,Creature,Warlock
+39,Creature,Aura Merchant Kraken
+40,Creature,Snow Fighter Oni of the Swamp
+41,Artifact,Helmet
+42,Artifact,Ring
+43,Creature,Skin-Walker
+44,Artifact,Potion

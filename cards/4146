@@ -1,46 +1,46 @@
-==================,DECK,4146,Light
-0,Artifact,Common,Gloves
-1,Creature,Legendary,Frozen Priest Cyclops of the Frozen Castle
-2,Creature,Common,Dwarf
-3,Creature,Mythic,Dark Ancient Demon of Illusion
-4,Spell,Common,Freeze
-5,Spell,Common,Revive
-6,Enchantment,Rare,Cataclysmic Drain
-7,Spell,Rare,Nature Pandemonium
-8,Creature,Legendary,Death Lord Oni of the Golden Palace
-9,Creature,Common,Magi
-10,Enchantment,Common,Haste
-11,Creature,Common,Paladin
-12,Spell,Rare,Shimmering Fury
-13,Spell,Common,Stricken
-14,Creature,Rare,Frozen Queen Griffin
-15,Spell,Common,Stun
-16,Creature,Common,Warlock
-17,Spell,Common,Hypnosis
-18,Creature,Common,Elf
-19,Creature,Common,Magi
-20,Spell,Common,Reanimate
-21,Enchantment,Common,Age
-22,Enchantment,Common,Deathgrip
-23,Artifact,Common,Cloak
-24,Creature,Rare,Light Lord Skin-Walker
-25,Spell,Common,Sorrow
-26,Creature,Legendary,Earth Thief Kraken of the Plains
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Creature,Common,Spider
-30,Creature,Common,Spider
-31,Enchantment,Legendary,Urgent Flight
-32,Creature,Common,Spider
-33,Creature,Common,Paladin
-34,Spell,Common,Sorrow
-35,Enchantment,Common,Shield
-36,Creature,Rare,Frozen Fighter Hydra
-37,Creature,Common,Ghoul
-38,Creature,Common,Dwarf
-39,Creature,Common,Paladin
-40,Creature,Common,Dwarf
-41,Creature,Common,Elf
-42,Creature,Legendary,Dark Undead Orge of the Eternal Land
-43,Creature,Rare,Light Warrior Skin-Walker
-44,Creature,Common,Paladin
+==================,DECK,4146
+0,Artifact,Gloves
+1,Creature,Frozen Priest Giant of the Frozen Castle
+2,Creature,Magi
+3,Creature,Dark Ancient Demon of Illusion
+4,Spell,Pandemonium
+5,Spell,Vortex
+6,Enchantment,Dark Shrink
+7,Spell,Shimmering Fury
+8,Creature,Death Lord Oni of the Golden Palace
+9,Creature,Fairy
+10,Enchantment,Firebreath
+11,Creature,Troll
+12,Spell,Nature Gravitation
+13,Spell,Invisibility
+14,Creature,Frozen Queen Griffin
+15,Spell,Invisibility
+16,Creature,Berserker
+17,Spell,Frost
+18,Creature,Warlock
+19,Creature,Fairy
+20,Spell,Hypnosis
+21,Enchantment,Deathgrip
+22,Enchantment,Age
+23,Artifact,Cloak
+24,Creature,Light Lord Orc
+25,Spell,Reanimate
+26,Creature,Earth Thief Ogre of the Plains
+27,Creature,Ghoul
+28,Creature,Magi
+29,Creature,Paladin
+30,Creature,Paladin
+31,Enchantment,Clever Hateful Lethargy
+32,Creature,Paladin
+33,Creature,Troll
+34,Spell,Fire
+35,Enchantment,Firebreath
+36,Creature,Frozen Fighter Hydra
+37,Creature,Ghoul
+38,Creature,Magi
+39,Creature,Troll
+40,Creature,Magi
+41,Creature,Warlock
+42,Creature,Dark Undead Elf of the Eternal Land
+43,Creature,Light Warrior Orc
+44,Creature,Troll

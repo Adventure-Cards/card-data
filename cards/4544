@@ -1,46 +1,46 @@
-==================,DECK,4544,Light
-0,Creature,Common,Elf
-1,Creature,Common,Magi
-2,Enchantment,Common,Blight
-3,Creature,Common,Dwarf
-4,Creature,Common,Dwarf
-5,Spell,Common,Sorrow
-6,Spell,Common,Ice
-7,Creature,Common,Warlock
-8,Creature,Common,Orc
-9,Spell,Common,Torment
-10,Creature,Legendary,Death Queen Cyclops of the Low Hills
-11,Creature,Legendary,Light Fighter Kraken of the Black Stone
-12,Creature,Common,Dwarf
-13,Creature,Common,Paladin
-14,Creature,Common,Eagle
-15,Spell,Common,Maelstrom
-16,Artifact,Common,Helm
-17,Enchantment,Common,Shrink
-18,Enchantment,Common,Shrink
-19,Creature,Common,Paladin
-20,Creature,Mythic,Light Ancient Wizard of the Sky
-21,Spell,Common,Pandemonium
-22,Enchantment,Mythic,Instant Flight
-23,Creature,Common,Goblin
-24,Creature,Common,Paladin
-25,Creature,Common,Ghoul
-26,Creature,Common,Eagle
-27,Creature,Rare,Light Thief Skin-Walker
-28,Creature,Rare,Death King Minotaur
-29,Enchantment,Mythic,Urgent Shield
-30,Spell,Common,Infuriate
-31,Creature,Common,Dwarf
-32,Artifact,Legendary,Dire Belt
-33,Creature,Common,Dwarf
-34,Creature,Rare,Death King Hydra
-35,Artifact,Rare,Hateful Staff
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Enchantment,Common,Shrink
-39,Enchantment,Rare,Nature Age
-40,Creature,Rare,Light Thief Skin-Walker
-41,Enchantment,Common,Shrink
-42,Spell,Common,Lightning
-43,Spell,Rare,Forged Frenzy
-44,Creature,Rare,Aura Lord Griffin
+==================,DECK,4544
+0,Creature,Warlock
+1,Creature,Fairy
+2,Enchantment,Shrink
+3,Creature,Magi
+4,Creature,Magi
+5,Spell,Assault
+6,Spell,Stun
+7,Creature,Berserker
+8,Creature,Spider
+9,Spell,Stun
+10,Creature,Death Queen Giant of the Low Hills
+11,Creature,Light Fighter Ogre of the Black Stone
+12,Creature,Magi
+13,Creature,Troll
+14,Creature,Eagle
+15,Spell,Tempest
+16,Artifact,Helm
+17,Enchantment,Flight
+18,Enchantment,Deathgrip
+19,Creature,Troll
+20,Creature,Light Ancient Wizard of the Sky
+21,Spell,Frost
+22,Enchantment,Empyrean Hateful Age
+23,Creature,Skin-Walker
+24,Creature,Troll
+25,Creature,Ghoul
+26,Creature,Eagle
+27,Creature,Light Thief Orc
+28,Creature,Death King Cyclops
+29,Enchantment,Urgent Nature Agony
+30,Spell,Stun
+31,Creature,Magi
+32,Artifact,Dire Frigid Belt
+33,Creature,Magi
+34,Creature,Death King Hydra
+35,Artifact,Sorrow Staff
+36,Creature,Wolf
+37,Creature,Berserker
+38,Enchantment,Blight
+39,Enchantment,Nature Deathgrip
+40,Creature,Light Thief Orc
+41,Enchantment,Shield
+42,Spell,Freeze
+43,Spell,Sorrow Gravitation
+44,Creature,Aura Lord Griffin

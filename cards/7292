@@ -1,46 +1,46 @@
-==================,DECK,7292,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Agony
-2,Enchantment,Common,Age
-3,Creature,Rare,Aura King Minotaur
-4,Creature,Common,Goblin
-5,Enchantment,Legendary,Potent Blight
-6,Enchantment,Common,Drain
-7,Creature,Common,Magi
-8,Creature,Common,Paladin
-9,Creature,Legendary,Death Fighter Giant of the Low Hills
-10,Spell,Common,Hypnosis
-11,Enchantment,Common,Strength
-12,Spell,Common,Infuriate
-13,Spell,Common,Frost
-14,Spell,Common,Maelstrom
-15,Creature,Common,Elf
-16,Artifact,Legendary,Clever Helm
-17,Creature,Rare,Dark Priest Skin-Walker
-18,Enchantment,Rare,Solar Invert
-19,Creature,Common,Wolf
-20,Spell,Rare,Miracle Reanimate
-21,Creature,Rare,Light Priest Hydra
-22,Spell,Common,Ice
-23,Creature,Common,Ghoul
-24,Spell,Common,Torment
-25,Artifact,Common,Ghost Wand
-26,Spell,Common,Hypnosis
-27,Creature,Common,Spider
-28,Creature,Common,Dwarf
-29,Spell,Common,Assault
-30,Creature,Common,Ghoul
-31,Creature,Rare,Aura Fighter Skin-Walker
-32,Creature,Common,Goblin
-33,Creature,Common,Ghoul
-34,Enchantment,Mythic,Intense Lethargy
-35,Creature,Rare,Snow King Minotaur
-36,Spell,Common,Torment
-37,Enchantment,Common,Haste
-38,Spell,Common,Ice
-39,Enchantment,Common,Invert
-40,Creature,Common,Eagle
-41,Enchantment,Rare,Lunar Flight
-42,Creature,Mythic,Frozen Time Dragon of the Void
-43,Creature,Rare,Snow King Fairy
-44,Spell,Common,Maelstrom
+==================,DECK,7292
+0,Creature,Ghoul
+1,Enchantment,Flight
+2,Enchantment,Shrink
+3,Creature,Aura King Cyclops
+4,Creature,Skin-Walker
+5,Enchantment,Zealous Nimble Blight
+6,Enchantment,Shield
+7,Creature,Fairy
+8,Creature,Troll
+9,Creature,Death Fighter Dwarf of the Low Hills
+10,Spell,Lightning
+11,Enchantment,Alacrity
+12,Spell,Frost
+13,Spell,Torment
+14,Spell,Fury
+15,Creature,Warlock
+16,Artifact,Dire Grim Helm
+17,Creature,Dark Priest Orc
+18,Enchantment,Shimmering Age
+19,Creature,Wolf
+20,Spell,Frigid Lightning
+21,Creature,Light Priest Hydra
+22,Spell,Gale
+23,Creature,Ghoul
+24,Spell,Ice
+25,Artifact,Ghost Wand
+26,Spell,Hypnosis
+27,Creature,Paladin
+28,Creature,Magi
+29,Spell,Invisibility
+30,Creature,Ghoul
+31,Creature,Aura Fighter Orc
+32,Creature,Skin-Walker
+33,Creature,Ghoul
+34,Enchantment,Urgent Hateful Agony
+35,Creature,Snow King Cyclops
+36,Spell,Hypnosis
+37,Enchantment,Haste
+38,Spell,Pandemonium
+39,Enchantment,Shade
+40,Creature,Eagle
+41,Enchantment,Lunar Firebreath
+42,Creature,Frozen Time Dragon of the Void
+43,Creature,Snow King Kraken
+44,Spell,Rage

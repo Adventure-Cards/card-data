@@ -1,46 +1,46 @@
-==================,DECK,6262,Light
-0,Creature,Common,Dwarf
-1,Artifact,Common,Staff
-2,Creature,Common,Goblin
-3,Artifact,Common,Potion
-4,Spell,Common,Reanimate
-5,Spell,Common,Wall
-6,Creature,Common,Eagle
-7,Enchantment,Mythic,Clever Shield
-8,Enchantment,Common,Deathgrip
-9,Spell,Common,Assault
-10,Creature,Common,Warlock
-11,Creature,Common,Paladin
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Shield
-14,Enchantment,Common,Shrink
-15,Artifact,Legendary,Instant Potion
-16,Creature,Common,Elf
-17,Enchantment,Common,Shrink
-18,Creature,Common,Wolf
-19,Spell,Common,Stricken
-20,Creature,Common,Eagle
-21,Creature,Common,Eagle
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Paladin
-24,Enchantment,Common,Haste
-25,Spell,Common,Wall
-26,Creature,Mythic,Light Time Dragon of the Sky
-27,Artifact,Legendary,Angry Scepter
-28,Enchantment,Rare,Hateful Deathgrip
-29,Creature,Common,Warlock
-30,Creature,Common,Ghoul
-31,Creature,Common,Magi
-32,Artifact,Common,Sword
-33,Spell,Common,Frost
-34,Spell,Common,Gravitation
-35,Artifact,Common,Gloves
-36,Enchantment,Rare,Apocalypse Deathgrip
-37,Creature,Common,Ghoul
-38,Spell,Common,Heal
-39,Creature,Common,Spider
-40,Enchantment,Common,Shrink
-41,Enchantment,Common,Shade
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Age
-44,Creature,Common,Dwarf
+==================,DECK,6262
+0,Creature,Magi
+1,Artifact,Staff
+2,Creature,Skin-Walker
+3,Artifact,Potion
+4,Spell,Tempest
+5,Spell,Gravitation
+6,Creature,Eagle
+7,Enchantment,Ardent Victory Haste
+8,Enchantment,Shrink
+9,Spell,Assault
+10,Creature,Berserker
+11,Creature,Troll
+12,Creature,Magi
+13,Enchantment,Drain
+14,Enchantment,Shield
+15,Artifact,Clever Forged Potion
+16,Creature,Warlock
+17,Enchantment,Shield
+18,Creature,Wolf
+19,Spell,Fury
+20,Creature,Eagle
+21,Creature,Eagle
+22,Enchantment,Blight
+23,Creature,Troll
+24,Enchantment,Invert
+25,Spell,Sorrow
+26,Creature,Light Time Dragon of the Sky
+27,Artifact,Potent Dark Scepter
+28,Enchantment,Sorrow Shrink
+29,Creature,Berserker
+30,Creature,Ghoul
+31,Creature,Fairy
+32,Artifact,Sword
+33,Spell,Burn
+34,Spell,Pandemonium
+35,Artifact,Gloves
+36,Enchantment,Oblivion Haste
+37,Creature,Ghoul
+38,Spell,Lightning
+39,Creature,Paladin
+40,Enchantment,Shrink
+41,Enchantment,Shrink
+42,Creature,Ghoul
+43,Enchantment,Shield
+44,Creature,Magi

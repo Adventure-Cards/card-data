@@ -1,46 +1,46 @@
-==================,DECK,4771,Light
-0,Spell,Common,Assault
-1,Spell,Common,Frost
-2,Spell,Rare,Corpse Frenzy
-3,Creature,Common,Paladin
-4,Spell,Common,Gravitation
-5,Creature,Common,Ghoul
-6,Spell,Rare,Miracle Burn
-7,Artifact,Common,Potion
-8,Creature,Common,Magi
-9,Enchantment,Rare,Frigid Invert
-10,Enchantment,Mythic,Intense Flight
-11,Spell,Common,Reanimate
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Creature,Common,Dwarf
-15,Spell,Common,Vortex
-16,Enchantment,Mythic,Instant Age
-17,Enchantment,Common,Haste
-18,Creature,Common,Wolf
-19,Creature,Rare,Frozen Undead Griffin
-20,Creature,Rare,Dark Fighter Griffin
-21,Creature,Legendary,Frozen Knight Cyclops of the Eastern Skies
-22,Creature,Common,Orc
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Wall
-25,Enchantment,Mythic,Angry Strength
-26,Creature,Common,Wolf
-27,Enchantment,Rare,Miracle Shrink
-28,Spell,Rare,Nature Ice
-29,Spell,Common,Wall
-30,Creature,Common,Orc
-31,Spell,Common,Vortex
-32,Creature,Rare,Death Monk Berserker
-33,Enchantment,Common,Blight
-34,Creature,Rare,Earth Thief Skin-Walker
-35,Artifact,Common,Sigil
-36,Creature,Common,Magi
-37,Creature,Common,Elf
-38,Creature,Rare,Earth Warrior Fairy
-39,Creature,Common,Elf
-40,Spell,Common,Sorrow
-41,Creature,Common,Magi
-42,Creature,Common,Elf
-43,Enchantment,Mythic,Angry Haste
-44,Spell,Common,Lightning
+==================,DECK,4771
+0,Spell,Fury
+1,Spell,Tempest
+2,Spell,Shimmering Pandemonium
+3,Creature,Troll
+4,Spell,Gravitation
+5,Creature,Ghoul
+6,Spell,Frigid Infuriate
+7,Artifact,Potion
+8,Creature,Fairy
+9,Enchantment,Oblivion Haste
+10,Enchantment,Zealous Hateful Deathgrip
+11,Spell,Sorrow
+12,Creature,Eagle
+13,Creature,Fairy
+14,Creature,Magi
+15,Spell,Maelstrom
+16,Enchantment,Potent Nature Strength
+17,Enchantment,Haste
+18,Creature,Wolf
+19,Creature,Frozen Undead Griffin
+20,Creature,Dark Fighter Griffin
+21,Creature,Frozen Knight Giant of the Eastern Skies
+22,Creature,Spider
+23,Enchantment,Blight
+24,Spell,Ice
+25,Enchantment,Irate Cataclysmic Alacrity
+26,Creature,Wolf
+27,Enchantment,Frigid Shade
+28,Spell,Necro Wall
+29,Spell,Frost
+30,Creature,Spider
+31,Spell,Gravitation
+32,Creature,Death Monk Goblin
+33,Enchantment,Alacrity
+34,Creature,Earth Thief Orc
+35,Artifact,Sigil
+36,Creature,Fairy
+37,Creature,Warlock
+38,Creature,Earth Warrior Kraken
+39,Creature,Warlock
+40,Spell,Reanimate
+41,Creature,Fairy
+42,Creature,Warlock
+43,Enchantment,Mighty Miracle Flight
+44,Spell,Hypnosis

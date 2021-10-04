@@ -1,46 +1,46 @@
-==================,DECK,4630,Medium
-0,Enchantment,Rare,Solar Alacrity
-1,Enchantment,Common,Alacrity
-2,Enchantment,Common,Invert
-3,Creature,Mythic,Aura Ancient Wizard of the Light
-4,Spell,Common,Sorrow
-5,Enchantment,Common,Blight
-6,Creature,Legendary,Aura Assassin Giant of the Mountains
-7,Creature,Common,Paladin
-8,Enchantment,Common,Flight
-9,Enchantment,Common,Drain
-10,Creature,Legendary,Aura Undead Orge of the Magical Forest
-11,Creature,Legendary,Death Monk Orge of the Low Hills
-12,Creature,Common,Eagle
-13,Spell,Legendary,Mighty Sorrow
-14,Enchantment,Rare,Dark Shade
-15,Creature,Common,Wolf
-16,Creature,Common,Spider
-17,Creature,Common,Orc
-18,Enchantment,Legendary,Potent Lethargy
-19,Creature,Common,Spider
-20,Creature,Rare,Aura Merchant Berserker
-21,Spell,Common,Gravitation
-22,Creature,Common,Paladin
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Creature,Common,Spider
-26,Enchantment,Rare,Hateful Deathgrip
-27,Creature,Common,Ghoul
-28,Creature,Rare,Light Queen Griffin
-29,Spell,Common,Pandemonium
-30,Spell,Legendary,Potent Frost
-31,Enchantment,Common,Shrink
-32,Creature,Common,Eagle
-33,Creature,Legendary,Dark King Orge of the Mountains
-34,Creature,Common,Ghoul
-35,Creature,Common,Ghoul
-36,Creature,Rare,Frozen King Skin-Walker
-37,Creature,Common,Orc
-38,Creature,Common,Ghoul
-39,Creature,Rare,Dark Fighter Skin-Walker
-40,Creature,Rare,Snow Lord Griffin
-41,Artifact,Legendary,Extreme Crown
-42,Enchantment,Mythic,Urgent Invert
-43,Creature,Common,Goblin
-44,Creature,Rare,Earth King Hydra
+==================,DECK,4630
+0,Enchantment,Forged Agony
+1,Enchantment,Lethargy
+2,Enchantment,Age
+3,Creature,Aura Ancient Wizard of the Light
+4,Spell,Fire
+5,Enchantment,Strength
+6,Creature,Aura Assassin Dwarf of the Mountains
+7,Creature,Troll
+8,Enchantment,Invert
+9,Enchantment,Shrink
+10,Creature,Aura Undead Elf of the Magical Forest
+11,Creature,Death Monk Elf of the Low Hills
+12,Creature,Eagle
+13,Spell,Potent Gloom Gale
+14,Enchantment,Chimeric Shield
+15,Creature,Wolf
+16,Creature,Paladin
+17,Creature,Spider
+18,Enchantment,Urgent Grim Invert
+19,Creature,Paladin
+20,Creature,Aura Merchant Goblin
+21,Spell,Stun
+22,Creature,Troll
+23,Creature,Paladin
+24,Creature,Troll
+25,Creature,Paladin
+26,Enchantment,Sorrow Alacrity
+27,Creature,Ghoul
+28,Creature,Light Queen Griffin
+29,Spell,Frenzy
+30,Spell,Dire Frigid Fury
+31,Enchantment,Lethargy
+32,Creature,Eagle
+33,Creature,Dark King Elf of the Mountains
+34,Creature,Ghoul
+35,Creature,Ghoul
+36,Creature,Frozen King Orc
+37,Creature,Spider
+38,Creature,Ghoul
+39,Creature,Dark Fighter Orc
+40,Creature,Snow Lord Griffin
+41,Artifact,Zealous Sorrow Crown
+42,Enchantment,Urgent Shimmering Agony
+43,Creature,Skin-Walker
+44,Creature,Earth King Hydra

@@ -1,46 +1,46 @@
-==================,DECK,7882,Light
-0,Creature,Common,Elf
-1,Creature,Common,Wolf
-2,Spell,Common,Infuriate
-3,Creature,Rare,Aura Fighter Griffin
-4,Creature,Rare,Snow Priest Berserker
-5,Artifact,Common,Shield
-6,Creature,Common,Ghoul
-7,Creature,Rare,Aura Fighter Skin-Walker
-8,Creature,Rare,Frozen Lord Minotaur
-9,Creature,Rare,Aura Assassin Griffin
-10,Creature,Common,Ghoul
-11,Spell,Common,Gravitation
-12,Creature,Common,Dwarf
-13,Creature,Common,Orc
-14,Creature,Common,Eagle
-15,Creature,Common,Wolf
-16,Artifact,Rare,Nimble Scythe
-17,Artifact,Common,Ring
-18,Creature,Rare,Dark Merchant Berserker
-19,Enchantment,Common,Agony
-20,Creature,Common,Ghoul
-21,Spell,Common,Fury
-22,Enchantment,Common,Invert
-23,Spell,Common,Freeze
-24,Spell,Common,Freeze
-25,Creature,Common,Orc
-26,Creature,Common,Eagle
-27,Creature,Rare,Snow Undead Griffin
-28,Creature,Common,Elf
-29,Creature,Common,Orc
-30,Creature,Common,Eagle
-31,Creature,Rare,Death Undead Fairy
-32,Artifact,Common,Ring
-33,Creature,Common,Spider
-34,Spell,Common,Gale
-35,Artifact,Common,Staff
-36,Spell,Common,Frenzy
-37,Spell,Common,Assault
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Strength
-40,Enchantment,Common,Flight
-41,Spell,Common,Hypnosis
-42,Enchantment,Mythic,Clever Shield
-43,Enchantment,Mythic,Urgent Flight
-44,Creature,Common,Dwarf
+==================,DECK,7882
+0,Creature,Warlock
+1,Creature,Wolf
+2,Spell,Ice
+3,Creature,Aura Fighter Griffin
+4,Creature,Snow Priest Goblin
+5,Artifact,Shield
+6,Creature,Ghoul
+7,Creature,Aura Fighter Orc
+8,Creature,Frozen Lord Cyclops
+9,Creature,Aura Assassin Griffin
+10,Creature,Ghoul
+11,Spell,Rage
+12,Creature,Magi
+13,Creature,Spider
+14,Creature,Eagle
+15,Creature,Wolf
+16,Artifact,Hateful Scythe
+17,Artifact,Ring
+18,Creature,Dark Merchant Goblin
+19,Enchantment,Flight
+20,Creature,Ghoul
+21,Spell,Ice
+22,Enchantment,Lethargy
+23,Spell,Vortex
+24,Spell,Fire
+25,Creature,Spider
+26,Creature,Eagle
+27,Creature,Snow Undead Griffin
+28,Creature,Warlock
+29,Creature,Spider
+30,Creature,Eagle
+31,Creature,Death Undead Kraken
+32,Artifact,Ring
+33,Creature,Paladin
+34,Spell,Frost
+35,Artifact,Staff
+36,Spell,Revive
+37,Spell,Sorrow
+38,Creature,Magi
+39,Enchantment,Invert
+40,Enchantment,Blight
+41,Spell,Infuriate
+42,Enchantment,Ardent Victory Haste
+43,Enchantment,Mighty Hateful Agony
+44,Creature,Magi

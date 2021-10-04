@@ -1,46 +1,46 @@
-==================,DECK,7463,Light
-0,Spell,Common,Wall
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Eagle
-4,Enchantment,Mythic,Extreme Invert
-5,Creature,Common,Dwarf
-6,Creature,Rare,Snow Rogue Berserker
-7,Artifact,Legendary,Extreme Scepter
-8,Spell,Common,Lightning
-9,Creature,Common,Goblin
-10,Enchantment,Common,Drain
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Wolf
-13,Creature,Common,Wolf
-14,Spell,Common,Revive
-15,Creature,Rare,Snow Undead Hydra
-16,Creature,Rare,Death Merchant Fairy
-17,Enchantment,Common,Age
-18,Enchantment,Mythic,Urgent Shield
-19,Creature,Common,Wolf
-20,Creature,Common,Elf
-21,Artifact,Common,Ring
-22,Spell,Common,Reanimate
-23,Enchantment,Rare,Cataclysmic Drain
-24,Artifact,Common,Gauntlet
-25,Creature,Common,Paladin
-26,Spell,Common,Gravitation
-27,Creature,Common,Paladin
-28,Spell,Common,Torment
-29,Creature,Rare,Frozen Undead Berserker
-30,Creature,Legendary,Light Warrior Giant of the Golden Palace
-31,Creature,Rare,Snow King Fairy
-32,Creature,Rare,Earth Queen Hydra
-33,Creature,Common,Warlock
-34,Creature,Common,Wolf
-35,Creature,Common,Dwarf
-36,Creature,Rare,Frozen Thief Minotaur
-37,Creature,Rare,Death Lord Fairy
-38,Spell,Common,Pandemonium
-39,Creature,Common,Dwarf
-40,Creature,Legendary,Snow Knight Oni of the Border
-41,Creature,Rare,Death Lord Berserker
-42,Creature,Rare,Aura Knight Berserker
-43,Spell,Common,Rage
-44,Spell,Rare,Solar Wall
+==================,DECK,7463
+0,Spell,Vortex
+1,Creature,Magi
+2,Enchantment,Shield
+3,Creature,Eagle
+4,Enchantment,Dire Sorrow Firebreath
+5,Creature,Magi
+6,Creature,Snow Rogue Goblin
+7,Artifact,Instant Dark Scepter
+8,Spell,Stricken
+9,Creature,Skin-Walker
+10,Enchantment,Shade
+11,Enchantment,Age
+12,Creature,Wolf
+13,Creature,Wolf
+14,Spell,Stun
+15,Creature,Snow Undead Hydra
+16,Creature,Death Merchant Kraken
+17,Enchantment,Lethargy
+18,Enchantment,Dire Nature Age
+19,Creature,Wolf
+20,Creature,Warlock
+21,Artifact,Ring
+22,Spell,Frost
+23,Enchantment,Dark Alacrity
+24,Artifact,Gauntlet
+25,Creature,Troll
+26,Spell,Tempest
+27,Creature,Troll
+28,Spell,Sorrow
+29,Creature,Frozen Undead Goblin
+30,Creature,Light Warrior Dwarf of the Golden Palace
+31,Creature,Snow King Kraken
+32,Creature,Earth Queen Hydra
+33,Creature,Berserker
+34,Creature,Wolf
+35,Creature,Magi
+36,Creature,Frozen Thief Cyclops
+37,Creature,Death Lord Kraken
+38,Spell,Vortex
+39,Creature,Magi
+40,Creature,Snow Knight Oni of the Border
+41,Creature,Death Lord Goblin
+42,Creature,Aura Knight Goblin
+43,Spell,Stricken
+44,Spell,Necro Ice

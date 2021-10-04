@@ -1,46 +1,46 @@
-==================,DECK,6056,Medium
-0,Spell,Common,Rage
-1,Creature,Mythic,Frozen Chaos Demon of the Void
-2,Creature,Legendary,Light Fighter Giant of the Swamp
-3,Creature,Common,Goblin
-4,Creature,Common,Spider
-5,Creature,Legendary,Earth Priest Orge of the Golden Palace
-6,Enchantment,Common,Flight
-7,Enchantment,Common,Age
-8,Creature,Common,Paladin
-9,Creature,Rare,Snow Queen Griffin
-10,Enchantment,Common,Strength
-11,Creature,Rare,Earth Assassin Minotaur
-12,Artifact,Common,Potion
-13,Creature,Common,Magi
-14,Creature,Common,Dwarf
-15,Creature,Common,Dwarf
-16,Creature,Common,Warlock
-17,Creature,Rare,Light Priest Skin-Walker
-18,Spell,Common,Stun
-19,Spell,Common,Fury
-20,Spell,Common,Infuriate
-21,Creature,Common,Elf
-22,Enchantment,Legendary,Mighty Shade
-23,Spell,Rare,Hateful Infuriate
-24,Spell,Common,Heal
-25,Creature,Rare,Earth Knight Minotaur
-26,Spell,Rare,Shimmering Burst
-27,Creature,Common,Goblin
-28,Creature,Rare,Death Merchant Griffin
-29,Spell,Common,Invisibility
-30,Creature,Common,Eagle
-31,Spell,Common,Sorrow
-32,Creature,Rare,Frozen Lord Berserker
-33,Enchantment,Common,Age
-34,Enchantment,Legendary,Dire Drain
-35,Creature,Common,Dwarf
-36,Artifact,Rare,Corpse Helm
-37,Artifact,Common,Ring
-38,Enchantment,Rare,Lunar Blight
-39,Creature,Common,Dwarf
-40,Enchantment,Legendary,Angry Alacrity
-41,Creature,Common,Elf
-42,Creature,Rare,Light Warrior Skin-Walker
-43,Enchantment,Common,Shrink
-44,Spell,Common,Reanimate
+==================,DECK,6056
+0,Spell,Invisibility
+1,Creature,Frozen Chaos Demon of the Void
+2,Creature,Light Fighter Dwarf of the Swamp
+3,Creature,Skin-Walker
+4,Creature,Paladin
+5,Creature,Earth Priest Elf of the Golden Palace
+6,Enchantment,Firebreath
+7,Enchantment,Shrink
+8,Creature,Troll
+9,Creature,Snow Queen Griffin
+10,Enchantment,Firebreath
+11,Creature,Earth Assassin Cyclops
+12,Artifact,Potion
+13,Creature,Fairy
+14,Creature,Magi
+15,Creature,Magi
+16,Creature,Berserker
+17,Creature,Light Priest Orc
+18,Spell,Ice
+19,Spell,Maelstrom
+20,Spell,Frost
+21,Creature,Warlock
+22,Enchantment,Instant Chimeric Shrink
+23,Spell,Cataclysmic Gale
+24,Spell,Revive
+25,Creature,Earth Knight Cyclops
+26,Spell,Nature Gale
+27,Creature,Skin-Walker
+28,Creature,Death Merchant Griffin
+29,Spell,Frost
+30,Creature,Eagle
+31,Spell,Gale
+32,Creature,Frozen Lord Goblin
+33,Enchantment,Agony
+34,Enchantment,Zealous Apocalypse Blight
+35,Creature,Magi
+36,Artifact,Solar Helm
+37,Artifact,Ring
+38,Enchantment,Cataclysmic Firebreath
+39,Creature,Magi
+40,Enchantment,Instant Dark Shrink
+41,Creature,Warlock
+42,Creature,Light Warrior Orc
+43,Enchantment,Blight
+44,Spell,Burst

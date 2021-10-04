@@ -1,46 +1,46 @@
-==================,DECK,5935,Light
-0,Creature,Common,Paladin
-1,Creature,Rare,Death Queen Hydra
-2,Artifact,Common,Pendant
-3,Artifact,Rare,Corpse Tome
-4,Creature,Common,Spider
-5,Spell,Rare,Solar Freeze
-6,Creature,Rare,Earth Rogue Minotaur
-7,Creature,Common,Elf
-8,Spell,Rare,Frigid Gravitation
-9,Enchantment,Common,Invert
-10,Enchantment,Common,Shield
-11,Artifact,Rare,Life Greaves
-12,Creature,Legendary,Aura Warrior Orge of the Border
-13,Creature,Common,Magi
-14,Creature,Common,Paladin
-15,Creature,Common,Paladin
-16,Enchantment,Common,Age
-17,Creature,Common,Spider
-18,Creature,Common,Ghoul
-19,Creature,Common,Wolf
-20,Spell,Common,Maelstrom
-21,Artifact,Rare,Gloom Sword
-22,Enchantment,Common,Drain
-23,Creature,Common,Wolf
-24,Creature,Common,Warlock
-25,Creature,Common,Elf
-26,Creature,Legendary,Dark Fighter Orge of the Low Hills
-27,Creature,Common,Magi
-28,Creature,Rare,Dark Monk Berserker
-29,Creature,Common,Orc
-30,Creature,Rare,Earth Rogue Hydra
-31,Creature,Common,Eagle
-32,Creature,Legendary,Light Merchant Oni of the Swamp
-33,Creature,Common,Paladin
-34,Enchantment,Rare,Forged Alacrity
-35,Spell,Legendary,Intense Rage
-36,Creature,Common,Spider
-37,Enchantment,Common,Blight
-38,Enchantment,Legendary,Potent Agony
-39,Creature,Common,Wolf
-40,Creature,Legendary,Light Lord Orge of the Border
-41,Artifact,Common,Cloak
-42,Creature,Common,Magi
-43,Creature,Common,Dwarf
-44,Enchantment,Rare,Cataclysmic Blight
+==================,DECK,5935
+0,Creature,Troll
+1,Creature,Death Queen Hydra
+2,Artifact,Pendant
+3,Artifact,Solar Tome
+4,Creature,Paladin
+5,Spell,Shimmering Heal
+6,Creature,Earth Rogue Cyclops
+7,Creature,Warlock
+8,Spell,Apocalypse Pandemonium
+9,Enchantment,Strength
+10,Enchantment,Haste
+11,Artifact,Victory Greaves
+12,Creature,Aura Warrior Elf of the Border
+13,Creature,Fairy
+14,Creature,Troll
+15,Creature,Troll
+16,Enchantment,Strength
+17,Creature,Paladin
+18,Creature,Ghoul
+19,Creature,Wolf
+20,Spell,Gravitation
+21,Artifact,Dark Sword
+22,Enchantment,Lethargy
+23,Creature,Wolf
+24,Creature,Berserker
+25,Creature,Warlock
+26,Creature,Dark Fighter Elf of the Low Hills
+27,Creature,Fairy
+28,Creature,Dark Monk Goblin
+29,Creature,Spider
+30,Creature,Earth Rogue Hydra
+31,Creature,Eagle
+32,Creature,Light Merchant Oni of the Swamp
+33,Creature,Troll
+34,Enchantment,Dark Alacrity
+35,Spell,Instant Hateful Frost
+36,Creature,Paladin
+37,Enchantment,Shield
+38,Enchantment,Instant Life Drain
+39,Creature,Wolf
+40,Creature,Light Lord Elf of the Border
+41,Artifact,Cloak
+42,Creature,Fairy
+43,Creature,Magi
+44,Enchantment,Cataclysmic Alacrity

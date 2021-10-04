@@ -1,46 +1,46 @@
-==================,DECK,6532,Light
-0,Spell,Legendary,Urgent Stricken
-1,Creature,Legendary,Aura Merchant Oni of the West
-2,Artifact,Rare,Nimble Greaves
-3,Spell,Rare,Hateful Stricken
-4,Creature,Common,Elf
-5,Spell,Common,Revive
-6,Enchantment,Common,Flight
-7,Creature,Rare,Frozen Rogue Griffin
-8,Enchantment,Common,Deathgrip
-9,Creature,Common,Spider
-10,Artifact,Common,Shield
-11,Spell,Rare,Nimble Frenzy
-12,Enchantment,Mythic,Angry Strength
-13,Enchantment,Common,Shield
-14,Creature,Common,Dwarf
-15,Spell,Common,Revive
-16,Artifact,Rare,Apocalypse Scepter
-17,Creature,Common,Elf
-18,Enchantment,Rare,Necro Haste
-19,Creature,Legendary,Dark Lord Orge of the West
-20,Spell,Legendary,Dire Fury
-21,Artifact,Common,Ghost Wand
-22,Artifact,Rare,Lunar Ring
-23,Creature,Common,Warlock
-24,Creature,Common,Elf
-25,Creature,Legendary,Death Fighter Giant of the Eternal Land
-26,Creature,Common,Wolf
-27,Creature,Rare,Earth Priest Minotaur
-28,Artifact,Common,Scepter
-29,Creature,Common,Warlock
-30,Spell,Legendary,Potent Fury
-31,Creature,Common,Spider
-32,Creature,Rare,Snow Fighter Berserker
-33,Spell,Common,Frost
-34,Creature,Mythic,Snow Grand Wizard of Hate
-35,Enchantment,Common,Agony
-36,Creature,Common,Orc
-37,Creature,Common,Dwarf
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Haste
-40,Artifact,Rare,Shimmering Amulet
-41,Creature,Common,Warlock
-42,Spell,Common,Ice
-43,Spell,Common,Freeze
-44,Artifact,Rare,Apocalypse Potion
+==================,DECK,6532
+0,Spell,Zealous Nature Frost
+1,Creature,Aura Merchant Oni of the West
+2,Artifact,Nature Greaves
+3,Spell,Chimeric Assault
+4,Creature,Warlock
+5,Spell,Reanimate
+6,Enchantment,Lethargy
+7,Creature,Frozen Rogue Griffin
+8,Enchantment,Flight
+9,Creature,Paladin
+10,Artifact,Shield
+11,Spell,Forged Stun
+12,Enchantment,Irate Cataclysmic Alacrity
+13,Enchantment,Shrink
+14,Creature,Magi
+15,Spell,Fury
+16,Artifact,Grim Scepter
+17,Creature,Warlock
+18,Enchantment,Corpse Agony
+19,Creature,Dark Lord Elf of the West
+20,Spell,Empyrean Grim Burn
+21,Artifact,Ghost Wand
+22,Artifact,Sorrow Ring
+23,Creature,Berserker
+24,Creature,Warlock
+25,Creature,Death Fighter Dwarf of the Eternal Land
+26,Creature,Wolf
+27,Creature,Earth Priest Cyclops
+28,Artifact,Scepter
+29,Creature,Berserker
+30,Spell,Potent Grim Fury
+31,Creature,Paladin
+32,Creature,Snow Fighter Goblin
+33,Spell,Burn
+34,Creature,Snow Grand Wizard of Hate
+35,Enchantment,Drain
+36,Creature,Spider
+37,Creature,Magi
+38,Creature,Ghoul
+39,Enchantment,Age
+40,Artifact,Forged Amulet
+41,Creature,Berserker
+42,Spell,Gale
+43,Spell,Heal
+44,Artifact,Nimble Potion

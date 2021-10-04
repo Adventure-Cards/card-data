@@ -1,46 +1,46 @@
-==================,DECK,6370,Light
-0,Creature,Common,Elf
-1,Spell,Common,Wall
-2,Spell,Rare,Shimmering Hypnosis
-3,Creature,Legendary,Earth Priest Cyclops of the Black Stone
-4,Creature,Common,Paladin
-5,Creature,Legendary,Snow Rogue Orge of the Mountains
-6,Creature,Common,Goblin
-7,Creature,Rare,Light Lord Hydra
-8,Creature,Common,Goblin
-9,Enchantment,Common,Blight
-10,Artifact,Common,Shield
-11,Creature,Legendary,Dark Assassin Kraken of the Plains
-12,Artifact,Rare,Corpse Gauntlet
-13,Artifact,Common,Helmet
-14,Creature,Common,Wolf
-15,Spell,Rare,Oblivion Frenzy
-16,Creature,Common,Orc
-17,Enchantment,Common,Blight
-18,Enchantment,Legendary,Potent Shield
-19,Artifact,Common,Scepter
-20,Creature,Rare,Aura Undead Hydra
-21,Artifact,Common,Greaves
-22,Creature,Common,Wolf
-23,Spell,Common,Maelstrom
-24,Creature,Common,Orc
-25,Artifact,Common,Bracers
-26,Creature,Mythic,Dark Ancient Demon of Illusion
-27,Spell,Common,Hypnosis
-28,Spell,Common,Revive
-29,Creature,Common,Eagle
-30,Creature,Rare,Snow Queen Skin-Walker
-31,Creature,Common,Ghoul
-32,Spell,Legendary,Clever Gravitation
-33,Enchantment,Common,Blight
-34,Artifact,Common,Potion
-35,Creature,Mythic,Light Time Dragon of the Sky
-36,Artifact,Common,Sword
-37,Creature,Rare,Earth Lord Berserker
-38,Creature,Legendary,Snow Fighter Giant of the Eternal Land
-39,Creature,Common,Paladin
-40,Spell,Rare,Nimble Torment
-41,Spell,Common,Stun
-42,Creature,Mythic,Earth Grand Wizard of the Shadows
-43,Enchantment,Common,Flight
-44,Creature,Common,Goblin
+==================,DECK,6370
+0,Creature,Warlock
+1,Spell,Reanimate
+2,Spell,Corpse Rage
+3,Creature,Earth Priest Giant of the Black Stone
+4,Creature,Troll
+5,Creature,Snow Rogue Elf of the Mountains
+6,Creature,Skin-Walker
+7,Creature,Light Lord Hydra
+8,Creature,Skin-Walker
+9,Enchantment,Shrink
+10,Artifact,Shield
+11,Creature,Dark Assassin Ogre of the Plains
+12,Artifact,Necro Gauntlet
+13,Artifact,Helmet
+14,Creature,Wolf
+15,Spell,Apocalypse Frenzy
+16,Creature,Spider
+17,Enchantment,Alacrity
+18,Enchantment,Instant Victory Drain
+19,Artifact,Scepter
+20,Creature,Aura Undead Hydra
+21,Artifact,Greaves
+22,Creature,Wolf
+23,Spell,Pandemonium
+24,Creature,Spider
+25,Artifact,Bracers
+26,Creature,Dark Ancient Demon of Illusion
+27,Spell,Hypnosis
+28,Spell,Sorrow
+29,Creature,Eagle
+30,Creature,Snow Queen Orc
+31,Creature,Ghoul
+32,Spell,Urgent Victory Fireball
+33,Enchantment,Agony
+34,Artifact,Potion
+35,Creature,Light Time Dragon of the Sky
+36,Artifact,Sword
+37,Creature,Earth Lord Goblin
+38,Creature,Snow Fighter Dwarf of the Eternal Land
+39,Creature,Troll
+40,Spell,Corpse Stun
+41,Spell,Fireball
+42,Creature,Earth Grand Wizard of the Shadows
+43,Enchantment,Firebreath
+44,Creature,Skin-Walker

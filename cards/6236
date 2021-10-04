@@ -1,46 +1,46 @@
-==================,DECK,6236,Medium
-0,Creature,Common,Eagle
-1,Spell,Common,Fury
-2,Spell,Rare,Oblivion Frost
-3,Creature,Rare,Frozen Merchant Fairy
-4,Creature,Common,Warlock
-5,Spell,Common,Stricken
-6,Spell,Rare,Forged Invisibility
-7,Spell,Common,Maelstrom
-8,Enchantment,Common,Shrink
-9,Enchantment,Rare,Gloom Shade
-10,Spell,Common,Vortex
-11,Spell,Common,Stricken
-12,Creature,Rare,Aura Assassin Griffin
-13,Creature,Common,Orc
-14,Creature,Rare,Death Thief Griffin
-15,Artifact,Common,Scepter
-16,Creature,Rare,Light Assassin Hydra
-17,Creature,Common,Orc
-18,Spell,Common,Vortex
-19,Artifact,Common,Bracers
-20,Enchantment,Rare,Frigid Shield
-21,Spell,Common,Revive
-22,Creature,Common,Magi
-23,Enchantment,Common,Age
-24,Creature,Common,Elf
-25,Artifact,Common,Crown
-26,Enchantment,Mythic,Urgent Shield
-27,Creature,Mythic,Aura Grand Wizard of the Light
-28,Creature,Rare,Death Thief Griffin
-29,Enchantment,Legendary,Mighty Shield
-30,Creature,Common,Dwarf
-31,Enchantment,Common,Age
-32,Creature,Common,Goblin
-33,Spell,Common,Stricken
-34,Creature,Rare,Light King Skin-Walker
-35,Enchantment,Mythic,Angry Lethargy
-36,Enchantment,Mythic,Clever Lethargy
-37,Spell,Common,Hypnosis
-38,Artifact,Common,Cloak
-39,Creature,Common,Dwarf
-40,Creature,Common,Magi
-41,Enchantment,Common,Alacrity
-42,Spell,Common,Wall
-43,Spell,Legendary,Extreme Frenzy
-44,Creature,Common,Elf
+==================,DECK,6236
+0,Creature,Eagle
+1,Spell,Fire
+2,Spell,Grim Reanimate
+3,Creature,Frozen Merchant Kraken
+4,Creature,Berserker
+5,Spell,Frenzy
+6,Spell,Chimeric Ice
+7,Spell,Frenzy
+8,Enchantment,Shrink
+9,Enchantment,Chimeric Shield
+10,Spell,Gravitation
+11,Spell,Stun
+12,Creature,Aura Assassin Griffin
+13,Creature,Spider
+14,Creature,Death Thief Griffin
+15,Artifact,Scepter
+16,Creature,Light Assassin Hydra
+17,Creature,Spider
+18,Spell,Heal
+19,Artifact,Bracers
+20,Enchantment,Victory Shade
+21,Spell,Tempest
+22,Creature,Fairy
+23,Enchantment,Alacrity
+24,Creature,Warlock
+25,Artifact,Crown
+26,Enchantment,Urgent Nature Agony
+27,Creature,Aura Grand Wizard of the Light
+28,Creature,Death Thief Griffin
+29,Enchantment,Instant Gloom Shrink
+30,Creature,Magi
+31,Enchantment,Blight
+32,Creature,Skin-Walker
+33,Spell,Ice
+34,Creature,Light King Orc
+35,Enchantment,Instant Lunar Shrink
+36,Enchantment,Irate Grim Blight
+37,Spell,Hypnosis
+38,Artifact,Cloak
+39,Creature,Magi
+40,Creature,Fairy
+41,Enchantment,Deathgrip
+42,Spell,Revive
+43,Spell,Ardent Gloom Hypnosis
+44,Creature,Warlock

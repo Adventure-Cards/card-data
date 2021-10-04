@@ -1,46 +1,46 @@
-==================,DECK,4503,Medium
-0,Enchantment,Common,Invert
-1,Enchantment,Mythic,Instant Haste
-2,Spell,Common,Ice
-3,Artifact,Common,Sword
-4,Creature,Rare,Snow Thief Griffin
-5,Enchantment,Legendary,Urgent Lethargy
-6,Creature,Common,Orc
-7,Artifact,Common,Shield
-8,Spell,Rare,Frigid Heal
-9,Creature,Common,Dwarf
-10,Spell,Common,Stricken
-11,Enchantment,Common,Flight
-12,Enchantment,Rare,Forged Strength
-13,Enchantment,Common,Shade
-14,Artifact,Common,Staff
-15,Creature,Legendary,Snow Merchant Cyclops of the West
-16,Enchantment,Rare,Dark Shield
-17,Spell,Common,Sorrow
-18,Spell,Common,Stricken
-19,Enchantment,Common,Shrink
-20,Artifact,Rare,Dark Shield
-21,Creature,Legendary,Death Lord Kraken of the Black Stone
-22,Spell,Common,Freeze
-23,Artifact,Rare,Life Pendant
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Spider
-26,Artifact,Common,Gauntlet
-27,Spell,Common,Gravitation
-28,Creature,Rare,Dark Warrior Fairy
-29,Creature,Rare,Earth Monk Fairy
-30,Creature,Common,Magi
-31,Spell,Mythic,Urgent Stun
-32,Creature,Legendary,Snow Fighter Oni of the Eternal Land
-33,Enchantment,Common,Age
-34,Spell,Rare,Nature Burst
-35,Enchantment,Common,Lethargy
-36,Enchantment,Rare,Frigid Shade
-37,Artifact,Rare,Cataclysmic Scepter
-38,Spell,Rare,Dark Heal
-39,Creature,Rare,Snow Merchant Griffin
-40,Creature,Legendary,Death Rogue Orge of the Magical Forest
-41,Spell,Rare,Nimble Assault
-42,Creature,Common,Wolf
-43,Enchantment,Common,Lethargy
-44,Artifact,Common,Greaves
+==================,DECK,4503
+0,Enchantment,Flight
+1,Enchantment,Clever Corpse Lethargy
+2,Spell,Fire
+3,Artifact,Sword
+4,Creature,Snow Thief Griffin
+5,Enchantment,Irate Hateful Deathgrip
+6,Creature,Spider
+7,Artifact,Shield
+8,Spell,Life Tempest
+9,Creature,Magi
+10,Spell,Maelstrom
+11,Enchantment,Blight
+12,Enchantment,Cataclysmic Flight
+13,Enchantment,Shrink
+14,Artifact,Staff
+15,Creature,Snow Merchant Giant of the West
+16,Enchantment,Gloom Alacrity
+17,Spell,Tempest
+18,Spell,Tempest
+19,Enchantment,Firebreath
+20,Artifact,Cataclysmic Shield
+21,Creature,Death Lord Ogre of the Black Stone
+22,Spell,Pandemonium
+23,Artifact,Apocalypse Pendant
+24,Enchantment,Haste
+25,Creature,Paladin
+26,Artifact,Gauntlet
+27,Spell,Frenzy
+28,Creature,Dark Warrior Kraken
+29,Creature,Earth Monk Kraken
+30,Creature,Fairy
+31,Spell,Clever Corpse Vortex
+32,Creature,Snow Fighter Oni of the Eternal Land
+33,Enchantment,Flight
+34,Spell,Solar Invisibility
+35,Enchantment,Agony
+36,Enchantment,Frigid Blight
+37,Artifact,Lunar Scepter
+38,Spell,Gloom Pandemonium
+39,Creature,Snow Merchant Griffin
+40,Creature,Death Rogue Elf of the Magical Forest
+41,Spell,Shimmering Stricken
+42,Creature,Wolf
+43,Enchantment,Deathgrip
+44,Artifact,Greaves

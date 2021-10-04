@@ -1,46 +1,46 @@
-==================,DECK,4751,Medium
-0,Artifact,Common,Divine Robe
-1,Creature,Common,Spider
-2,Spell,Rare,Solar Torment
-3,Enchantment,Mythic,Intense Strength
-4,Enchantment,Mythic,Extreme Shrink
-5,Spell,Legendary,Instant Reanimate
-6,Enchantment,Common,Blight
-7,Creature,Common,Wolf
-8,Spell,Common,Lightning
-9,Spell,Rare,Hateful Stun
-10,Creature,Common,Elf
-11,Spell,Rare,Shimmering Stricken
-12,Creature,Legendary,Dark Thief Cyclops of the Plains
-13,Enchantment,Common,Age
-14,Enchantment,Common,Shade
-15,Enchantment,Common,Shield
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Artifact,Common,Boots
-19,Creature,Rare,Light Priest Berserker
-20,Creature,Common,Wolf
-21,Creature,Mythic,Earth Time Phoenix of the Shadows
-22,Creature,Legendary,Light Lord Oni of the Polar Woods
-23,Creature,Legendary,Aura Undead Orge of the Border
-24,Creature,Common,Ghoul
-25,Spell,Common,Burn
-26,Creature,Common,Elf
-27,Artifact,Rare,Life Scythe
-28,Creature,Common,Goblin
-29,Artifact,Rare,Life Divine Robe
-30,Creature,Mythic,Earth Ancient Wizard of the Shadows
-31,Creature,Rare,Light Queen Berserker
-32,Spell,Common,Hypnosis
-33,Artifact,Rare,Cataclysmic Potion
-34,Enchantment,Common,Deathgrip
-35,Creature,Rare,Aura Monk Berserker
-36,Creature,Common,Magi
-37,Enchantment,Common,Agony
-38,Spell,Common,Frenzy
-39,Creature,Mythic,Dark Chaos Wizard of Illusion
-40,Creature,Common,Ghoul
-41,Spell,Rare,Lunar Fury
-42,Enchantment,Common,Shrink
-43,Spell,Legendary,Clever Pandemonium
-44,Enchantment,Rare,Necro Drain
+==================,DECK,4751
+0,Artifact,Divine Robe
+1,Creature,Paladin
+2,Spell,Hateful Heal
+3,Enchantment,Ardent Solar Lethargy
+4,Enchantment,Zealous Chimeric Alacrity
+5,Spell,Empyrean Forged Burn
+6,Enchantment,Firebreath
+7,Creature,Wolf
+8,Spell,Burn
+9,Spell,Chimeric Assault
+10,Creature,Warlock
+11,Spell,Hateful Assault
+12,Creature,Dark Thief Giant of the Plains
+13,Enchantment,Drain
+14,Enchantment,Deathgrip
+15,Enchantment,Invert
+16,Creature,Berserker
+17,Creature,Berserker
+18,Artifact,Boots
+19,Creature,Light Priest Goblin
+20,Creature,Wolf
+21,Creature,Earth Time Phoenix of the Shadows
+22,Creature,Light Lord Oni of the Polar Woods
+23,Creature,Aura Undead Elf of the Border
+24,Creature,Ghoul
+25,Spell,Gale
+26,Creature,Warlock
+27,Artifact,Oblivion Scythe
+28,Creature,Skin-Walker
+29,Artifact,Oblivion Divine Robe
+30,Creature,Earth Ancient Wizard of the Shadows
+31,Creature,Light Queen Goblin
+32,Spell,Pandemonium
+33,Artifact,Miracle Potion
+34,Enchantment,Age
+35,Creature,Aura Monk Goblin
+36,Creature,Fairy
+37,Enchantment,Flight
+38,Spell,Sorrow
+39,Creature,Dark Chaos Wizard of Illusion
+40,Creature,Ghoul
+41,Spell,Lunar Assault
+42,Enchantment,Alacrity
+43,Spell,Mighty Oblivion Torment
+44,Enchantment,Forged Deathgrip

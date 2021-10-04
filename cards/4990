@@ -1,46 +1,46 @@
-==================,DECK,4990,Light
-0,Spell,Common,Infuriate
-1,Creature,Common,Dwarf
-2,Spell,Common,Wall
-3,Creature,Rare,Snow Warrior Minotaur
-4,Creature,Common,Paladin
-5,Creature,Rare,Frozen Assassin Griffin
-6,Creature,Mythic,Earth Chaos Demon of the Shadows
-7,Enchantment,Common,Strength
-8,Creature,Rare,Aura Monk Hydra
-9,Creature,Legendary,Snow Undead Orge of the Black Stone
-10,Artifact,Common,Gauntlet
-11,Spell,Common,Invisibility
-12,Enchantment,Common,Shrink
-13,Enchantment,Common,Invert
-14,Enchantment,Common,Age
-15,Creature,Common,Dwarf
-16,Creature,Common,Wolf
-17,Enchantment,Common,Flight
-18,Spell,Common,Freeze
-19,Spell,Common,Burn
-20,Creature,Rare,Dark Merchant Skin-Walker
-21,Spell,Common,Pandemonium
-22,Enchantment,Common,Deathgrip
-23,Creature,Rare,Frozen Queen Fairy
-24,Artifact,Rare,Hateful Greaves
-25,Spell,Rare,Dark Frost
-26,Creature,Legendary,Earth Warrior Kraken of the Magical Forest
-27,Creature,Common,Paladin
-28,Creature,Rare,Frozen King Hydra
-29,Enchantment,Common,Flight
-30,Creature,Common,Elf
-31,Creature,Common,Goblin
-32,Spell,Rare,Gloom Frenzy
-33,Enchantment,Rare,Apocalypse Blight
-34,Enchantment,Common,Lethargy
-35,Enchantment,Mythic,Dire Shrink
-36,Creature,Common,Wolf
-37,Enchantment,Legendary,Angry Alacrity
-38,Enchantment,Mythic,Urgent Haste
-39,Enchantment,Common,Alacrity
-40,Creature,Legendary,Dark Queen Giant of the Low Hills
-41,Spell,Common,Sorrow
-42,Enchantment,Mythic,Mighty Drain
-43,Creature,Rare,Aura Monk Minotaur
-44,Artifact,Common,Crown
+==================,DECK,4990
+0,Spell,Frost
+1,Creature,Magi
+2,Spell,Rage
+3,Creature,Snow Warrior Cyclops
+4,Creature,Troll
+5,Creature,Frozen Assassin Griffin
+6,Creature,Earth Chaos Demon of the Shadows
+7,Enchantment,Alacrity
+8,Creature,Aura Monk Hydra
+9,Creature,Snow Undead Elf of the Black Stone
+10,Artifact,Gauntlet
+11,Spell,Invisibility
+12,Enchantment,Drain
+13,Enchantment,Flight
+14,Enchantment,Firebreath
+15,Creature,Magi
+16,Creature,Wolf
+17,Enchantment,Blight
+18,Spell,Stun
+19,Spell,Pandemonium
+20,Creature,Dark Merchant Orc
+21,Spell,Vortex
+22,Enchantment,Shade
+23,Creature,Frozen Queen Kraken
+24,Artifact,Miracle Greaves
+25,Spell,Miracle Sorrow
+26,Creature,Earth Warrior Ogre of the Magical Forest
+27,Creature,Troll
+28,Creature,Frozen King Hydra
+29,Enchantment,Blight
+30,Creature,Warlock
+31,Creature,Skin-Walker
+32,Spell,Dark Stricken
+33,Enchantment,Nimble Invert
+34,Enchantment,Firebreath
+35,Enchantment,Mighty Frigid Invert
+36,Creature,Wolf
+37,Enchantment,Irate Dark Alacrity
+38,Enchantment,Empyrean Corpse Age
+39,Enchantment,Alacrity
+40,Creature,Dark Queen Dwarf of the Low Hills
+41,Spell,Burn
+42,Enchantment,Empyrean Dark Firebreath
+43,Creature,Aura Monk Cyclops
+44,Artifact,Crown

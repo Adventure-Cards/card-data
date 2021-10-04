@@ -1,46 +1,46 @@
-==================,DECK,7242,Light
-0,Enchantment,Common,Age
-1,Enchantment,Common,Shield
-2,Spell,Rare,Oblivion Assault
-3,Spell,Common,Frost
-4,Enchantment,Common,Haste
-5,Spell,Common,Wall
-6,Spell,Common,Heal
-7,Spell,Common,Burst
-8,Artifact,Common,Sigil
-9,Creature,Common,Magi
-10,Artifact,Common,Divine Robe
-11,Creature,Common,Goblin
-12,Creature,Common,Wolf
-13,Creature,Common,Paladin
-14,Spell,Common,Torment
-15,Enchantment,Common,Alacrity
-16,Enchantment,Mythic,Clever Shrink
-17,Creature,Common,Spider
-18,Enchantment,Common,Blight
-19,Enchantment,Common,Shrink
-20,Artifact,Common,Helm
-21,Creature,Common,Orc
-22,Spell,Common,Stun
-23,Spell,Legendary,Urgent Revive
-24,Creature,Common,Elf
-25,Creature,Legendary,Light Undead Oni of the Border
-26,Creature,Legendary,Earth Lord Oni of the Eastern Skies
-27,Spell,Legendary,Angry Sorrow
-28,Creature,Common,Wolf
-29,Enchantment,Common,Deathgrip
-30,Enchantment,Rare,Miracle Deathgrip
-31,Creature,Common,Elf
-32,Creature,Rare,Snow King Minotaur
-33,Enchantment,Common,Shield
-34,Creature,Rare,Death Thief Minotaur
-35,Enchantment,Common,Deathgrip
-36,Enchantment,Legendary,Angry Shield
-37,Creature,Common,Paladin
-38,Enchantment,Common,Invert
-39,Spell,Common,Lightning
-40,Enchantment,Rare,Frigid Invert
-41,Creature,Common,Paladin
-42,Creature,Common,Orc
-43,Enchantment,Common,Drain
-44,Creature,Common,Wolf
+==================,DECK,7242
+0,Enchantment,Strength
+1,Enchantment,Age
+2,Spell,Apocalypse Reanimate
+3,Spell,Freeze
+4,Enchantment,Shield
+5,Spell,Stun
+6,Spell,Rage
+7,Spell,Rage
+8,Artifact,Sigil
+9,Creature,Fairy
+10,Artifact,Divine Robe
+11,Creature,Skin-Walker
+12,Creature,Wolf
+13,Creature,Troll
+14,Spell,Stricken
+15,Enchantment,Lethargy
+16,Enchantment,Empyrean Frigid Shade
+17,Creature,Paladin
+18,Enchantment,Blight
+19,Enchantment,Alacrity
+20,Artifact,Helm
+21,Creature,Spider
+22,Spell,Fireball
+23,Spell,Irate Shimmering Assault
+24,Creature,Warlock
+25,Creature,Light Undead Oni of the Border
+26,Creature,Earth Lord Oni of the Eastern Skies
+27,Spell,Empyrean Dark Burst
+28,Creature,Wolf
+29,Enchantment,Age
+30,Enchantment,Oblivion Invert
+31,Creature,Warlock
+32,Creature,Snow King Cyclops
+33,Enchantment,Blight
+34,Creature,Death Thief Cyclops
+35,Enchantment,Lethargy
+36,Enchantment,Urgent Gloom Flight
+37,Creature,Troll
+38,Enchantment,Age
+39,Spell,Heal
+40,Enchantment,Oblivion Haste
+41,Creature,Troll
+42,Creature,Spider
+43,Enchantment,Firebreath
+44,Creature,Wolf

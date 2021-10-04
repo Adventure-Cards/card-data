@@ -1,46 +1,46 @@
-==================,DECK,7986,Light
-0,Creature,Rare,Frozen Monk Skin-Walker
-1,Artifact,Common,Sword
-2,Creature,Rare,Earth Monk Minotaur
-3,Artifact,Rare,Dark Tome
-4,Enchantment,Common,Flight
-5,Enchantment,Rare,Grim Agony
-6,Creature,Mythic,Snow Time Phoenix of Hate
-7,Spell,Rare,Life Ice
-8,Creature,Common,Elf
-9,Creature,Rare,Light Priest Fairy
-10,Creature,Mythic,Death Grand Demon of the Dead
-11,Spell,Rare,Apocalypse Pandemonium
-12,Creature,Rare,Death Merchant Griffin
-13,Creature,Mythic,Earth Chaos Demon of the Shadows
-14,Creature,Common,Eagle
-15,Creature,Legendary,Light King Orge of the West
-16,Creature,Rare,Dark King Minotaur
-17,Creature,Common,Ghoul
-18,Artifact,Common,Potion
-19,Spell,Common,Ice
-20,Creature,Common,Orc
-21,Spell,Common,Pandemonium
-22,Artifact,Common,Ring
-23,Enchantment,Rare,Miracle Blight
-24,Enchantment,Common,Invert
-25,Enchantment,Mythic,Dire Shrink
-26,Artifact,Common,Helm
-27,Spell,Common,Fury
-28,Enchantment,Legendary,Potent Alacrity
-29,Creature,Common,Elf
-30,Creature,Rare,Aura Knight Berserker
-31,Enchantment,Common,Invert
-32,Creature,Legendary,Death Knight Cyclops of the Bright Mountains
-33,Creature,Mythic,Snow Nameless Phoenix of Hate
-34,Creature,Common,Spider
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Shield
-37,Enchantment,Rare,Nature Flight
-38,Spell,Rare,Necro Stricken
-39,Enchantment,Common,Age
-40,Spell,Common,Sorrow
-41,Spell,Rare,Corpse Frenzy
-42,Creature,Common,Magi
-43,Enchantment,Legendary,Mighty Blight
-44,Artifact,Common,Staff
+==================,DECK,7986
+0,Creature,Frozen Monk Orc
+1,Artifact,Sword
+2,Creature,Earth Monk Cyclops
+3,Artifact,Lunar Tome
+4,Enchantment,Haste
+5,Enchantment,Life Invert
+6,Creature,Snow Time Phoenix of Hate
+7,Spell,Nimble Fire
+8,Creature,Warlock
+9,Creature,Light Priest Kraken
+10,Creature,Death Grand Demon of the Dead
+11,Spell,Frigid Reanimate
+12,Creature,Death Merchant Griffin
+13,Creature,Earth Chaos Demon of the Shadows
+14,Creature,Eagle
+15,Creature,Light King Elf of the West
+16,Creature,Dark King Cyclops
+17,Creature,Ghoul
+18,Artifact,Potion
+19,Spell,Frenzy
+20,Creature,Spider
+21,Spell,Frost
+22,Artifact,Ring
+23,Enchantment,Nimble Haste
+24,Enchantment,Shrink
+25,Enchantment,Zealous Frigid Blight
+26,Artifact,Helm
+27,Spell,Heal
+28,Enchantment,Dire Apocalypse Shade
+29,Creature,Warlock
+30,Creature,Aura Knight Goblin
+31,Enchantment,Haste
+32,Creature,Death Knight Giant of the Bright Mountains
+33,Creature,Snow Nameless Phoenix of Hate
+34,Creature,Paladin
+35,Creature,Magi
+36,Enchantment,Shade
+37,Enchantment,Hateful Strength
+38,Spell,Corpse Fire
+39,Enchantment,Shrink
+40,Spell,Pandemonium
+41,Spell,Necro Pandemonium
+42,Creature,Fairy
+43,Enchantment,Zealous Cataclysmic Alacrity
+44,Artifact,Staff

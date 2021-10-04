@@ -1,46 +1,46 @@
-==================,DECK,5788,Medium
-0,Creature,Common,Paladin
-1,Creature,Common,Goblin
-2,Creature,Rare,Dark Assassin Minotaur
-3,Enchantment,Legendary,Instant Agony
-4,Spell,Common,Lightning
-5,Enchantment,Rare,Oblivion Agony
-6,Creature,Rare,Earth Thief Hydra
-7,Enchantment,Rare,Oblivion Agony
-8,Artifact,Common,Scepter
-9,Spell,Legendary,Instant Heal
-10,Artifact,Common,Gloves
-11,Spell,Common,Wall
-12,Creature,Legendary,Aura Lord Orge of the Border
-13,Enchantment,Common,Shield
-14,Artifact,Common,Amulet
-15,Artifact,Common,Crown
-16,Spell,Common,Frost
-17,Creature,Common,Warlock
-18,Enchantment,Common,Shield
-19,Creature,Rare,Aura Rogue Minotaur
-20,Creature,Rare,Death Fighter Berserker
-21,Enchantment,Rare,Apocalypse Haste
-22,Creature,Legendary,Death Undead Orge of the Frozen Castle
-23,Creature,Rare,Frozen Monk Fairy
-24,Artifact,Common,Potion
-25,Enchantment,Rare,Dark Agony
-26,Creature,Legendary,Dark Merchant Giant of the Plains
-27,Creature,Mythic,Earth Chaos Wizard of the Shadows
-28,Spell,Common,Burst
-29,Creature,Common,Goblin
-30,Creature,Common,Ghoul
-31,Creature,Rare,Death Priest Hydra
-32,Enchantment,Common,Shield
-33,Spell,Common,Freeze
-34,Spell,Rare,Corpse Assault
-35,Creature,Common,Goblin
-36,Creature,Common,Eagle
-37,Enchantment,Rare,Nimble Shield
-38,Spell,Common,Frenzy
-39,Creature,Common,Paladin
-40,Enchantment,Rare,Shimmering Flight
-41,Creature,Mythic,Dark Undead Phoenix of Illusion
-42,Creature,Common,Paladin
-43,Creature,Rare,Frozen Merchant Skin-Walker
-44,Creature,Common,Ghoul
+==================,DECK,5788
+0,Creature,Troll
+1,Creature,Skin-Walker
+2,Creature,Dark Assassin Cyclops
+3,Enchantment,Urgent Corpse Agony
+4,Spell,Fury
+5,Enchantment,Life Blight
+6,Creature,Earth Thief Hydra
+7,Enchantment,Life Invert
+8,Artifact,Scepter
+9,Spell,Ardent Solar Revive
+10,Artifact,Gloves
+11,Spell,Assault
+12,Creature,Aura Lord Elf of the Border
+13,Enchantment,Lethargy
+14,Artifact,Amulet
+15,Artifact,Crown
+16,Spell,Vortex
+17,Creature,Berserker
+18,Enchantment,Shield
+19,Creature,Aura Rogue Cyclops
+20,Creature,Death Fighter Goblin
+21,Enchantment,Life Drain
+22,Creature,Death Undead Elf of the Frozen Castle
+23,Creature,Frozen Monk Kraken
+24,Artifact,Potion
+25,Enchantment,Miracle Flight
+26,Creature,Dark Merchant Dwarf of the Plains
+27,Creature,Earth Chaos Wizard of the Shadows
+28,Spell,Maelstrom
+29,Creature,Skin-Walker
+30,Creature,Ghoul
+31,Creature,Death Priest Hydra
+32,Enchantment,Alacrity
+33,Spell,Gale
+34,Spell,Corpse Stun
+35,Creature,Skin-Walker
+36,Creature,Eagle
+37,Enchantment,Nature Lethargy
+38,Spell,Pandemonium
+39,Creature,Troll
+40,Enchantment,Hateful Strength
+41,Creature,Dark Undead Phoenix of Illusion
+42,Creature,Troll
+43,Creature,Frozen Merchant Orc
+44,Creature,Ghoul

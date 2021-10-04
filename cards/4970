@@ -1,46 +1,46 @@
-==================,DECK,4970,Light
-0,Spell,Common,Frost
-1,Creature,Rare,Dark Rogue Skin-Walker
-2,Artifact,Common,Gloves
-3,Creature,Common,Eagle
-4,Spell,Common,Fury
-5,Creature,Common,Magi
-6,Enchantment,Common,Drain
-7,Artifact,Common,Bow
-8,Spell,Common,Stricken
-9,Creature,Common,Wolf
-10,Creature,Rare,Death Rogue Fairy
-11,Creature,Common,Magi
-12,Creature,Legendary,Death Rogue Oni of the Polar Woods
-13,Enchantment,Common,Shield
-14,Artifact,Common,Amulet
-15,Creature,Legendary,Aura Knight Orge of the Bright Mountains
-16,Artifact,Legendary,Extreme Sigil
-17,Creature,Common,Warlock
-18,Artifact,Common,Cloak
-19,Creature,Common,Spider
-20,Artifact,Rare,Apocalypse Gloves
-21,Creature,Common,Ghoul
-22,Enchantment,Mythic,Extreme Shrink
-23,Spell,Common,Stricken
-24,Creature,Common,Spider
-25,Spell,Common,Freeze
-26,Creature,Legendary,Aura Warrior Giant of the Swamp
-27,Creature,Common,Warlock
-28,Spell,Common,Freeze
-29,Creature,Rare,Light Thief Griffin
-30,Spell,Common,Stun
-31,Creature,Common,Magi
-32,Creature,Rare,Death Fighter Hydra
-33,Creature,Common,Paladin
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Drain
-36,Artifact,Common,Scepter
-37,Enchantment,Common,Blight
-38,Spell,Common,Burn
-39,Spell,Rare,Solar Torment
-40,Spell,Common,Burn
-41,Spell,Rare,Hateful Burst
-42,Spell,Rare,Forged Wall
-43,Enchantment,Common,Deathgrip
-44,Spell,Common,Rage
+==================,DECK,4970
+0,Spell,Invisibility
+1,Creature,Dark Rogue Orc
+2,Artifact,Gloves
+3,Creature,Eagle
+4,Spell,Frenzy
+5,Creature,Fairy
+6,Enchantment,Agony
+7,Artifact,Bow
+8,Spell,Tempest
+9,Creature,Wolf
+10,Creature,Death Rogue Kraken
+11,Creature,Fairy
+12,Creature,Death Rogue Oni of the Polar Woods
+13,Enchantment,Flight
+14,Artifact,Amulet
+15,Creature,Aura Knight Elf of the Bright Mountains
+16,Artifact,Mighty Lunar Sigil
+17,Creature,Berserker
+18,Artifact,Cloak
+19,Creature,Paladin
+20,Artifact,Life Gloves
+21,Creature,Ghoul
+22,Enchantment,Potent Chimeric Shrink
+23,Spell,Heal
+24,Creature,Paladin
+25,Spell,Fireball
+26,Creature,Aura Warrior Dwarf of the Swamp
+27,Creature,Berserker
+28,Spell,Invisibility
+29,Creature,Light Thief Griffin
+30,Spell,Burn
+31,Creature,Fairy
+32,Creature,Death Fighter Hydra
+33,Creature,Troll
+34,Creature,Magi
+35,Enchantment,Drain
+36,Artifact,Scepter
+37,Enchantment,Alacrity
+38,Spell,Revive
+39,Spell,Nature Gravitation
+40,Spell,Gale
+41,Spell,Gloom Infuriate
+42,Spell,Lunar Stricken
+43,Enchantment,Invert
+44,Spell,Frost

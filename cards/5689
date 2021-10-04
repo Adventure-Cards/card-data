@@ -1,46 +1,46 @@
-==================,DECK,5689,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Paladin
-2,Spell,Common,Fury
-3,Creature,Common,Elf
-4,Artifact,Legendary,Intense Helm
-5,Creature,Common,Goblin
-6,Creature,Common,Eagle
-7,Artifact,Legendary,Instant Potion
-8,Artifact,Common,Belt
-9,Enchantment,Common,Strength
-10,Spell,Common,Revive
-11,Spell,Common,Invisibility
-12,Spell,Common,Pandemonium
-13,Creature,Common,Magi
-14,Creature,Legendary,Earth Knight Giant of the Haven
-15,Creature,Common,Dwarf
-16,Spell,Rare,Life Sorrow
-17,Creature,Legendary,Snow Knight Giant of the Swamp
-18,Spell,Legendary,Mighty Stun
-19,Creature,Rare,Snow Merchant Skin-Walker
-20,Creature,Rare,Frozen Monk Minotaur
-21,Spell,Common,Burn
-22,Spell,Common,Hypnosis
-23,Creature,Common,Warlock
-24,Creature,Common,Warlock
-25,Creature,Rare,Frozen Merchant Griffin
-26,Spell,Common,Reanimate
-27,Creature,Common,Elf
-28,Creature,Common,Ghoul
-29,Enchantment,Common,Flight
-30,Creature,Rare,Aura Queen Minotaur
-31,Spell,Common,Invisibility
-32,Enchantment,Common,Deathgrip
-33,Creature,Common,Magi
-34,Creature,Common,Goblin
-35,Artifact,Common,Ring
-36,Creature,Rare,Snow Fighter Griffin
-37,Artifact,Common,Ring
-38,Creature,Legendary,Aura Merchant Kraken of the Haven
-39,Spell,Common,Rage
-40,Creature,Common,Elf
-41,Artifact,Rare,Miracle Pendant
-42,Enchantment,Legendary,Urgent Strength
-43,Creature,Legendary,Snow Rogue Cyclops of the Swamp
-44,Creature,Common,Eagle
+==================,DECK,5689
+0,Creature,Ghoul
+1,Creature,Troll
+2,Spell,Lightning
+3,Creature,Warlock
+4,Artifact,Empyrean Forged Helm
+5,Creature,Skin-Walker
+6,Creature,Eagle
+7,Artifact,Clever Forged Potion
+8,Artifact,Belt
+9,Enchantment,Drain
+10,Spell,Heal
+11,Spell,Freeze
+12,Spell,Assault
+13,Creature,Fairy
+14,Creature,Earth Knight Dwarf of the Haven
+15,Creature,Magi
+16,Spell,Nimble Lightning
+17,Creature,Snow Knight Dwarf of the Swamp
+18,Spell,Empyrean Miracle Revive
+19,Creature,Snow Merchant Orc
+20,Creature,Frozen Monk Cyclops
+21,Spell,Hypnosis
+22,Spell,Wall
+23,Creature,Berserker
+24,Creature,Berserker
+25,Creature,Frozen Merchant Griffin
+26,Spell,Fire
+27,Creature,Warlock
+28,Creature,Ghoul
+29,Enchantment,Age
+30,Creature,Aura Queen Cyclops
+31,Spell,Pandemonium
+32,Enchantment,Lethargy
+33,Creature,Fairy
+34,Creature,Skin-Walker
+35,Artifact,Ring
+36,Creature,Snow Fighter Griffin
+37,Artifact,Ring
+38,Creature,Aura Merchant Ogre of the Haven
+39,Spell,Gravitation
+40,Creature,Warlock
+41,Artifact,Grim Pendant
+42,Enchantment,Urgent Solar Agony
+43,Creature,Snow Rogue Giant of the Swamp
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,5754,Medium
-0,Enchantment,Common,Age
-1,Enchantment,Rare,Necro Blight
-2,Creature,Rare,Aura Knight Hydra
-3,Creature,Common,Warlock
-4,Enchantment,Rare,Frigid Shade
-5,Creature,Common,Elf
-6,Enchantment,Mythic,Instant Strength
-7,Creature,Legendary,Frozen Lord Orge of the Black Stone
-8,Spell,Mythic,Extreme Stricken
-9,Creature,Rare,Aura Rogue Griffin
-10,Creature,Legendary,Death Monk Giant of the Black Stone
-11,Creature,Rare,Dark Knight Griffin
-12,Creature,Legendary,Dark Priest Kraken of the West
-13,Spell,Common,Rage
-14,Creature,Common,Wolf
-15,Artifact,Common,Cloak
-16,Enchantment,Common,Age
-17,Creature,Mythic,Dark Undead Dragon of Illusion
-18,Creature,Rare,Light Lord Hydra
-19,Artifact,Rare,Lunar Scepter
-20,Creature,Rare,Dark Thief Hydra
-21,Creature,Common,Warlock
-22,Creature,Common,Paladin
-23,Creature,Common,Dwarf
-24,Creature,Common,Wolf
-25,Creature,Mythic,Death Ancient Demon of the Dead
-26,Spell,Rare,Gloom Heal
-27,Creature,Rare,Frozen Assassin Minotaur
-28,Enchantment,Rare,Corpse Agony
-29,Creature,Common,Warlock
-30,Creature,Common,Orc
-31,Enchantment,Mythic,Clever Shade
-32,Creature,Rare,Dark Fighter Minotaur
-33,Enchantment,Common,Age
-34,Creature,Common,Paladin
-35,Spell,Common,Reanimate
-36,Creature,Rare,Aura King Fairy
-37,Spell,Common,Gravitation
-38,Spell,Common,Freeze
-39,Creature,Common,Eagle
-40,Creature,Rare,Light Undead Hydra
-41,Spell,Rare,Oblivion Lightning
-42,Enchantment,Common,Lethargy
-43,Creature,Common,Spider
-44,Enchantment,Common,Alacrity
+==================,DECK,5754
+0,Enchantment,Drain
+1,Enchantment,Solar Agony
+2,Creature,Aura Knight Hydra
+3,Creature,Berserker
+4,Enchantment,Frigid Drain
+5,Creature,Warlock
+6,Enchantment,Urgent Solar Agony
+7,Creature,Frozen Lord Elf of the Black Stone
+8,Spell,Clever Miracle Stun
+9,Creature,Aura Rogue Griffin
+10,Creature,Death Monk Dwarf of the Black Stone
+11,Creature,Dark Knight Griffin
+12,Creature,Dark Priest Ogre of the West
+13,Spell,Stun
+14,Creature,Wolf
+15,Artifact,Cloak
+16,Enchantment,Drain
+17,Creature,Dark Undead Dragon of Illusion
+18,Creature,Light Lord Hydra
+19,Artifact,Lunar Scepter
+20,Creature,Dark Thief Hydra
+21,Creature,Berserker
+22,Creature,Troll
+23,Creature,Magi
+24,Creature,Wolf
+25,Creature,Death Ancient Demon of the Dead
+26,Spell,Dark Gravitation
+27,Creature,Frozen Assassin Cyclops
+28,Enchantment,Corpse Lethargy
+29,Creature,Berserker
+30,Creature,Spider
+31,Enchantment,Urgent Frigid Invert
+32,Creature,Dark Fighter Cyclops
+33,Enchantment,Age
+34,Creature,Troll
+35,Spell,Vortex
+36,Creature,Aura King Kraken
+37,Spell,Pandemonium
+38,Spell,Hypnosis
+39,Creature,Eagle
+40,Creature,Light Undead Hydra
+41,Spell,Nimble Lightning
+42,Enchantment,Haste
+43,Creature,Paladin
+44,Enchantment,Age

@@ -1,46 +1,46 @@
-==================,DECK,4966,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Frenzy
-2,Spell,Common,Rage
-3,Creature,Common,Eagle
-4,Creature,Common,Goblin
-5,Creature,Common,Spider
-6,Enchantment,Common,Flight
-7,Spell,Legendary,Potent Pandemonium
-8,Creature,Common,Orc
-9,Creature,Common,Ghoul
-10,Creature,Common,Elf
-11,Creature,Common,Orc
-12,Spell,Legendary,Angry Wall
-13,Artifact,Common,Shield
-14,Creature,Rare,Death Lord Griffin
-15,Enchantment,Common,Blight
-16,Creature,Common,Warlock
-17,Enchantment,Mythic,Urgent Flight
-18,Spell,Common,Hypnosis
-19,Spell,Rare,Cataclysmic Infuriate
-20,Creature,Common,Magi
-21,Enchantment,Rare,Oblivion Alacrity
-22,Spell,Rare,Miracle Infuriate
-23,Enchantment,Rare,Nature Flight
-24,Creature,Common,Orc
-25,Creature,Common,Elf
-26,Spell,Common,Rage
-27,Creature,Common,Paladin
-28,Artifact,Common,Tome
-29,Enchantment,Common,Agony
-30,Artifact,Common,Scepter
-31,Spell,Legendary,Dire Rage
-32,Artifact,Legendary,Instant Cloak
-33,Creature,Common,Elf
-34,Enchantment,Common,Shrink
-35,Spell,Common,Heal
-36,Enchantment,Common,Shield
-37,Creature,Rare,Death Lord Minotaur
-38,Creature,Common,Orc
-39,Spell,Rare,Solar Invisibility
-40,Creature,Rare,Snow Fighter Berserker
-41,Creature,Rare,Earth Assassin Skin-Walker
-42,Spell,Common,Assault
-43,Creature,Common,Eagle
-44,Creature,Common,Eagle
+==================,DECK,4966
+0,Creature,Troll
+1,Spell,Revive
+2,Spell,Hypnosis
+3,Creature,Eagle
+4,Creature,Skin-Walker
+5,Creature,Paladin
+6,Enchantment,Alacrity
+7,Spell,Potent Apocalypse Burn
+8,Creature,Spider
+9,Creature,Ghoul
+10,Creature,Warlock
+11,Creature,Spider
+12,Spell,Dire Dark Infuriate
+13,Artifact,Shield
+14,Creature,Death Lord Griffin
+15,Enchantment,Drain
+16,Creature,Berserker
+17,Enchantment,Mighty Hateful Agony
+18,Spell,Sorrow
+19,Spell,Chimeric Vortex
+20,Creature,Fairy
+21,Enchantment,Apocalypse Invert
+22,Spell,Oblivion Heal
+23,Enchantment,Hateful Lethargy
+24,Creature,Spider
+25,Creature,Warlock
+26,Spell,Gale
+27,Creature,Troll
+28,Artifact,Tome
+29,Enchantment,Blight
+30,Artifact,Scepter
+31,Spell,Urgent Frigid Reanimate
+32,Artifact,Clever Shimmering Cloak
+33,Creature,Warlock
+34,Enchantment,Drain
+35,Spell,Burst
+36,Enchantment,Drain
+37,Creature,Death Lord Cyclops
+38,Creature,Spider
+39,Spell,Forged Fury
+40,Creature,Snow Fighter Goblin
+41,Creature,Earth Assassin Orc
+42,Spell,Frost
+43,Creature,Eagle
+44,Creature,Eagle

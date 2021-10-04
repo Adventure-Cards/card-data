@@ -1,46 +1,46 @@
-==================,DECK,4300,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Lethargy
-2,Creature,Mythic,Light Chaos Demon of the Sky
-3,Creature,Common,Eagle
-4,Creature,Legendary,Death Monk Kraken of the Arctic Blizzards
-5,Creature,Common,Elf
-6,Creature,Rare,Snow Queen Fairy
-7,Creature,Common,Dwarf
-8,Spell,Rare,Frigid Heal
-9,Spell,Common,Revive
-10,Creature,Common,Elf
-11,Creature,Legendary,Light Monk Kraken of the Haven
-12,Creature,Common,Wolf
-13,Creature,Common,Wolf
-14,Creature,Rare,Frozen Undead Fairy
-15,Creature,Mythic,Death Grand Demon of the Dead
-16,Enchantment,Common,Shrink
-17,Creature,Rare,Dark Fighter Hydra
-18,Creature,Legendary,Light Warrior Orge of the Black Stone
-19,Enchantment,Rare,Nimble Shade
-20,Creature,Rare,Death Thief Skin-Walker
-21,Creature,Common,Magi
-22,Artifact,Common,Divine Robe
-23,Spell,Legendary,Extreme Sorrow
-24,Spell,Legendary,Intense Burst
-25,Creature,Common,Goblin
-26,Enchantment,Common,Alacrity
-27,Enchantment,Common,Alacrity
-28,Creature,Rare,Earth Priest Berserker
-29,Creature,Legendary,Frozen Fighter Orge of the Border
-30,Creature,Rare,Aura Assassin Fairy
-31,Creature,Rare,Snow Fighter Minotaur
-32,Creature,Common,Magi
-33,Creature,Common,Wolf
-34,Enchantment,Common,Alacrity
-35,Creature,Rare,Light Merchant Skin-Walker
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Age
-38,Creature,Common,Paladin
-39,Enchantment,Common,Lethargy
-40,Spell,Common,Heal
-41,Spell,Common,Reanimate
-42,Creature,Common,Elf
-43,Spell,Common,Sorrow
-44,Artifact,Common,Ring
+==================,DECK,4300
+0,Creature,Magi
+1,Enchantment,Shrink
+2,Creature,Light Chaos Demon of the Sky
+3,Creature,Eagle
+4,Creature,Death Monk Ogre of the Arctic Blizzards
+5,Creature,Warlock
+6,Creature,Snow Queen Kraken
+7,Creature,Magi
+8,Spell,Life Wall
+9,Spell,Sorrow
+10,Creature,Warlock
+11,Creature,Light Monk Ogre of the Haven
+12,Creature,Wolf
+13,Creature,Wolf
+14,Creature,Frozen Undead Kraken
+15,Creature,Death Grand Demon of the Dead
+16,Enchantment,Haste
+17,Creature,Dark Fighter Hydra
+18,Creature,Light Warrior Elf of the Black Stone
+19,Enchantment,Necro Strength
+20,Creature,Death Thief Orc
+21,Creature,Fairy
+22,Artifact,Divine Robe
+23,Spell,Empyrean Chimeric Fire
+24,Spell,Mighty Forged Assault
+25,Creature,Skin-Walker
+26,Enchantment,Agony
+27,Enchantment,Strength
+28,Creature,Earth Priest Goblin
+29,Creature,Frozen Fighter Elf of the Border
+30,Creature,Aura Assassin Kraken
+31,Creature,Snow Fighter Cyclops
+32,Creature,Fairy
+33,Creature,Wolf
+34,Enchantment,Blight
+35,Creature,Light Merchant Orc
+36,Creature,Ghoul
+37,Enchantment,Shade
+38,Creature,Troll
+39,Enchantment,Lethargy
+40,Spell,Pandemonium
+41,Spell,Stun
+42,Creature,Warlock
+43,Spell,Gale
+44,Artifact,Ring

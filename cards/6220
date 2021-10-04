@@ -1,46 +1,46 @@
-==================,DECK,6220,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Spider
-2,Creature,Common,Goblin
-3,Spell,Common,Stricken
-4,Enchantment,Common,Blight
-5,Creature,Rare,Earth Fighter Minotaur
-6,Spell,Legendary,Potent Invisibility
-7,Spell,Common,Hypnosis
-8,Enchantment,Rare,Shimmering Blight
-9,Spell,Common,Wall
-10,Creature,Rare,Light Knight Griffin
-11,Creature,Common,Eagle
-12,Artifact,Common,Ring
-13,Enchantment,Common,Agony
-14,Spell,Common,Burst
-15,Enchantment,Rare,Nature Shrink
-16,Creature,Rare,Light Queen Berserker
-17,Enchantment,Common,Alacrity
-18,Spell,Legendary,Clever Frenzy
-19,Artifact,Common,Shield
-20,Enchantment,Common,Lethargy
-21,Creature,Rare,Light Fighter Hydra
-22,Creature,Common,Ghoul
-23,Spell,Common,Rage
-24,Enchantment,Common,Drain
-25,Enchantment,Common,Blight
-26,Spell,Common,Heal
-27,Creature,Legendary,Light Rogue Orge of the Border
-28,Creature,Common,Wolf
-29,Enchantment,Common,Deathgrip
-30,Creature,Common,Spider
-31,Creature,Legendary,Dark Queen Orge of the Low Hills
-32,Creature,Common,Elf
-33,Spell,Legendary,Dire Burst
-34,Spell,Common,Ice
-35,Spell,Rare,Forged Frenzy
-36,Artifact,Rare,Lunar Crown
-37,Enchantment,Common,Shrink
-38,Creature,Common,Eagle
-39,Enchantment,Common,Age
-40,Creature,Rare,Snow Undead Griffin
-41,Creature,Rare,Earth Undead Griffin
-42,Creature,Common,Paladin
-43,Artifact,Legendary,Instant Greaves
-44,Creature,Common,Warlock
+==================,DECK,6220
+0,Creature,Berserker
+1,Creature,Paladin
+2,Creature,Skin-Walker
+3,Spell,Hypnosis
+4,Enchantment,Flight
+5,Creature,Earth Fighter Cyclops
+6,Spell,Ardent Grim Ice
+7,Spell,Sorrow
+8,Enchantment,Solar Lethargy
+9,Spell,Gravitation
+10,Creature,Light Knight Griffin
+11,Creature,Eagle
+12,Artifact,Ring
+13,Enchantment,Strength
+14,Spell,Fury
+15,Enchantment,Necro Strength
+16,Creature,Light Queen Goblin
+17,Enchantment,Blight
+18,Spell,Irate Victory Burn
+19,Artifact,Shield
+20,Enchantment,Shrink
+21,Creature,Light Fighter Hydra
+22,Creature,Ghoul
+23,Spell,Wall
+24,Enchantment,Shade
+25,Enchantment,Shrink
+26,Spell,Burst
+27,Creature,Light Rogue Elf of the Border
+28,Creature,Wolf
+29,Enchantment,Deathgrip
+30,Creature,Paladin
+31,Creature,Dark Queen Elf of the Low Hills
+32,Creature,Warlock
+33,Spell,Zealous Life Burst
+34,Spell,Revive
+35,Spell,Chimeric Tempest
+36,Artifact,Cataclysmic Crown
+37,Enchantment,Flight
+38,Creature,Eagle
+39,Enchantment,Strength
+40,Creature,Snow Undead Griffin
+41,Creature,Earth Undead Griffin
+42,Creature,Troll
+43,Artifact,Urgent Forged Greaves
+44,Creature,Berserker

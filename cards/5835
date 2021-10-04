@@ -1,46 +1,46 @@
-==================,DECK,5835,Medium
-0,Creature,Rare,Dark Warrior Berserker
-1,Creature,Common,Orc
-2,Spell,Legendary,Angry Maelstrom
-3,Creature,Mythic,Snow Ancient Wizard of Hate
-4,Enchantment,Rare,Life Deathgrip
-5,Artifact,Common,Divine Robe
-6,Enchantment,Common,Invert
-7,Enchantment,Common,Flight
-8,Creature,Common,Goblin
-9,Creature,Common,Paladin
-10,Creature,Common,Ghoul
-11,Creature,Common,Elf
-12,Spell,Common,Maelstrom
-13,Spell,Common,Wall
-14,Enchantment,Common,Drain
-15,Spell,Common,Vortex
-16,Spell,Mythic,Angry Stun
-17,Enchantment,Legendary,Dire Strength
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Invert
-20,Enchantment,Legendary,Mighty Shrink
-21,Creature,Legendary,Light Queen Kraken of the Haven
-22,Artifact,Rare,Corpse Ring
-23,Creature,Common,Paladin
-24,Enchantment,Common,Lethargy
-25,Artifact,Common,Gauntlet
-26,Enchantment,Rare,Life Drain
-27,Enchantment,Common,Agony
-28,Creature,Rare,Aura Rogue Skin-Walker
-29,Artifact,Rare,Solar Gauntlet
-30,Creature,Rare,Snow King Hydra
-31,Enchantment,Legendary,Potent Haste
-32,Creature,Common,Orc
-33,Creature,Rare,Snow Monk Griffin
-34,Spell,Rare,Corpse Assault
-35,Spell,Common,Freeze
-36,Spell,Rare,Frigid Frost
-37,Enchantment,Legendary,Instant Blight
-38,Enchantment,Legendary,Angry Age
-39,Creature,Rare,Light Merchant Hydra
-40,Creature,Rare,Dark Queen Minotaur
-41,Creature,Rare,Death Merchant Berserker
-42,Enchantment,Common,Flight
-43,Spell,Common,Freeze
-44,Spell,Common,Hypnosis
+==================,DECK,5835
+0,Creature,Dark Warrior Goblin
+1,Creature,Spider
+2,Spell,Potent Dark Fireball
+3,Creature,Snow Ancient Wizard of Hate
+4,Enchantment,Oblivion Shade
+5,Artifact,Divine Robe
+6,Enchantment,Firebreath
+7,Enchantment,Shrink
+8,Creature,Skin-Walker
+9,Creature,Troll
+10,Creature,Ghoul
+11,Creature,Warlock
+12,Spell,Fire
+13,Spell,Frost
+14,Enchantment,Agony
+15,Spell,Ice
+16,Spell,Potent Dark Fury
+17,Enchantment,Dire Nimble Shade
+18,Creature,Ghoul
+19,Enchantment,Age
+20,Enchantment,Zealous Chimeric Alacrity
+21,Creature,Light Queen Ogre of the Haven
+22,Artifact,Necro Ring
+23,Creature,Troll
+24,Enchantment,Age
+25,Artifact,Gauntlet
+26,Enchantment,Apocalypse Shade
+27,Enchantment,Deathgrip
+28,Creature,Aura Rogue Orc
+29,Artifact,Forged Gauntlet
+30,Creature,Snow King Hydra
+31,Enchantment,Mighty Life Invert
+32,Creature,Spider
+33,Creature,Snow Monk Griffin
+34,Spell,Solar Wall
+35,Spell,Invisibility
+36,Spell,Victory Gravitation
+37,Enchantment,Zealous Solar Deathgrip
+38,Enchantment,Clever Gloom Shield
+39,Creature,Light Merchant Hydra
+40,Creature,Dark Queen Cyclops
+41,Creature,Death Merchant Goblin
+42,Enchantment,Shade
+43,Spell,Invisibility
+44,Spell,Heal

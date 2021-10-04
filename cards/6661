@@ -1,46 +1,46 @@
-==================,DECK,6661,Light
-0,Creature,Common,Wolf
-1,Creature,Rare,Light Lord Minotaur
-2,Enchantment,Common,Shrink
-3,Creature,Common,Orc
-4,Creature,Common,Magi
-5,Creature,Common,Warlock
-6,Spell,Legendary,Intense Burn
-7,Creature,Common,Magi
-8,Enchantment,Common,Deathgrip
-9,Creature,Common,Goblin
-10,Creature,Common,Magi
-11,Creature,Rare,Light Priest Berserker
-12,Enchantment,Rare,Gloom Invert
-13,Creature,Rare,Earth Lord Berserker
-14,Creature,Common,Eagle
-15,Creature,Common,Elf
-16,Creature,Rare,Aura Queen Berserker
-17,Creature,Rare,Earth Lord Hydra
-18,Creature,Common,Warlock
-19,Creature,Legendary,Dark Priest Oni of the Eternal Land
-20,Creature,Common,Elf
-21,Enchantment,Common,Deathgrip
-22,Creature,Common,Warlock
-23,Enchantment,Common,Deathgrip
-24,Creature,Common,Warlock
-25,Creature,Common,Wolf
-26,Enchantment,Legendary,Dire Deathgrip
-27,Enchantment,Rare,Shimmering Shrink
-28,Creature,Rare,Snow King Minotaur
-29,Artifact,Common,Boots
-30,Enchantment,Common,Haste
-31,Spell,Common,Assault
-32,Spell,Common,Stun
-33,Enchantment,Common,Shade
-34,Enchantment,Mythic,Urgent Deathgrip
-35,Artifact,Rare,Shimmering Crown
-36,Creature,Common,Elf
-37,Creature,Mythic,Aura Time Dragon of the Light
-38,Creature,Common,Eagle
-39,Creature,Common,Elf
-40,Spell,Rare,Frigid Rage
-41,Creature,Mythic,Dark Nameless Phoenix of Illusion
-42,Creature,Common,Goblin
-43,Enchantment,Common,Invert
-44,Creature,Rare,Death Rogue Hydra
+==================,DECK,6661
+0,Creature,Wolf
+1,Creature,Light Lord Cyclops
+2,Enchantment,Age
+3,Creature,Spider
+4,Creature,Fairy
+5,Creature,Berserker
+6,Spell,Clever Solar Frenzy
+7,Creature,Fairy
+8,Enchantment,Firebreath
+9,Creature,Skin-Walker
+10,Creature,Fairy
+11,Creature,Light Priest Goblin
+12,Enchantment,Sorrow Shield
+13,Creature,Earth Lord Goblin
+14,Creature,Eagle
+15,Creature,Warlock
+16,Creature,Aura Queen Goblin
+17,Creature,Earth Lord Hydra
+18,Creature,Berserker
+19,Creature,Dark Priest Oni of the Eternal Land
+20,Creature,Warlock
+21,Enchantment,Shrink
+22,Creature,Berserker
+23,Enchantment,Shrink
+24,Creature,Berserker
+25,Creature,Wolf
+26,Enchantment,Zealous Oblivion Blight
+27,Enchantment,Necro Age
+28,Creature,Snow King Cyclops
+29,Artifact,Boots
+30,Enchantment,Haste
+31,Spell,Hypnosis
+32,Spell,Stricken
+33,Enchantment,Invert
+34,Enchantment,Zealous Shimmering Deathgrip
+35,Artifact,Forged Crown
+36,Creature,Warlock
+37,Creature,Aura Time Dragon of the Light
+38,Creature,Eagle
+39,Creature,Warlock
+40,Spell,Nimble Burn
+41,Creature,Dark Nameless Phoenix of Illusion
+42,Creature,Skin-Walker
+43,Enchantment,Agony
+44,Creature,Death Rogue Hydra

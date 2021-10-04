@@ -1,46 +1,46 @@
-==================,DECK,7224,Medium
-0,Creature,Common,Orc
-1,Enchantment,Rare,Apocalypse Flight
-2,Enchantment,Common,Lethargy
-3,Enchantment,Legendary,Instant Haste
-4,Creature,Legendary,Snow Assassin Oni of the Plains
-5,Creature,Mythic,Dark Grand Demon of Illusion
-6,Enchantment,Rare,Gloom Invert
-7,Spell,Common,Gravitation
-8,Enchantment,Common,Lethargy
-9,Spell,Legendary,Urgent Burst
-10,Creature,Common,Spider
-11,Spell,Common,Gravitation
-12,Spell,Rare,Oblivion Heal
-13,Creature,Common,Ghoul
-14,Creature,Common,Eagle
-15,Creature,Mythic,Aura Ancient Wizard of the Light
-16,Artifact,Rare,Cataclysmic Potion
-17,Creature,Rare,Dark Rogue Berserker
-18,Creature,Mythic,Frozen Ancient Demon of the Void
-19,Spell,Rare,Shimmering Stricken
-20,Creature,Common,Elf
-21,Enchantment,Mythic,Instant Shade
-22,Creature,Common,Eagle
-23,Creature,Legendary,Earth Queen Cyclops of the Magical Forest
-24,Creature,Legendary,Earth Rogue Oni of the Black Stone
-25,Enchantment,Common,Haste
-26,Enchantment,Common,Shield
-27,Creature,Common,Spider
-28,Creature,Mythic,Dark Ancient Wizard of Illusion
-29,Artifact,Common,Bow
-30,Spell,Common,Lightning
-31,Artifact,Rare,Grim Potion
-32,Enchantment,Common,Deathgrip
-33,Artifact,Rare,Nature Belt
-34,Artifact,Common,Belt
-35,Creature,Rare,Death Lord Minotaur
-36,Spell,Common,Rage
-37,Creature,Legendary,Frozen Monk Kraken of the West
-38,Enchantment,Common,Shield
-39,Enchantment,Common,Shade
-40,Enchantment,Rare,Shimmering Age
-41,Creature,Rare,Light Queen Hydra
-42,Creature,Rare,Frozen Merchant Minotaur
-43,Creature,Common,Spider
-44,Creature,Common,Magi
+==================,DECK,7224
+0,Creature,Spider
+1,Enchantment,Grim Invert
+2,Enchantment,Flight
+3,Enchantment,Empyrean Corpse Age
+4,Creature,Snow Assassin Oni of the Plains
+5,Creature,Dark Grand Demon of Illusion
+6,Enchantment,Sorrow Shrink
+7,Spell,Pandemonium
+8,Enchantment,Deathgrip
+9,Spell,Mighty Necro Maelstrom
+10,Creature,Paladin
+11,Spell,Assault
+12,Spell,Apocalypse Freeze
+13,Creature,Ghoul
+14,Creature,Eagle
+15,Creature,Aura Ancient Wizard of the Light
+16,Artifact,Miracle Potion
+17,Creature,Dark Rogue Goblin
+18,Creature,Frozen Ancient Demon of the Void
+19,Spell,Shimmering Maelstrom
+20,Creature,Warlock
+21,Enchantment,Irate Necro Deathgrip
+22,Creature,Eagle
+23,Creature,Earth Queen Giant of the Magical Forest
+24,Creature,Earth Rogue Oni of the Black Stone
+25,Enchantment,Strength
+26,Enchantment,Flight
+27,Creature,Paladin
+28,Creature,Dark Ancient Wizard of Illusion
+29,Artifact,Bow
+30,Spell,Fireball
+31,Artifact,Life Potion
+32,Enchantment,Deathgrip
+33,Artifact,Necro Belt
+34,Artifact,Belt
+35,Creature,Death Lord Cyclops
+36,Spell,Hypnosis
+37,Creature,Frozen Monk Ogre of the West
+38,Enchantment,Shade
+39,Enchantment,Shade
+40,Enchantment,Nature Deathgrip
+41,Creature,Light Queen Hydra
+42,Creature,Frozen Merchant Cyclops
+43,Creature,Paladin
+44,Creature,Fairy

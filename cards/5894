@@ -1,46 +1,46 @@
-==================,DECK,5894,Medium
-0,Creature,Common,Elf
-1,Spell,Common,Freeze
-2,Spell,Common,Assault
-3,Creature,Legendary,Frozen Thief Cyclops of the Border
-4,Spell,Rare,Necro Hypnosis
-5,Creature,Common,Paladin
-6,Spell,Common,Ice
-7,Creature,Common,Warlock
-8,Enchantment,Rare,Oblivion Lethargy
-9,Creature,Legendary,Frozen Queen Kraken of the Plains
-10,Enchantment,Common,Strength
-11,Creature,Common,Eagle
-12,Enchantment,Mythic,Extreme Invert
-13,Enchantment,Common,Invert
-14,Spell,Legendary,Clever Invisibility
-15,Spell,Rare,Necro Gale
-16,Creature,Rare,Dark Priest Skin-Walker
-17,Spell,Common,Gravitation
-18,Spell,Common,Vortex
-19,Creature,Rare,Light Rogue Hydra
-20,Enchantment,Common,Haste
-21,Creature,Rare,Aura Assassin Fairy
-22,Creature,Common,Warlock
-23,Enchantment,Mythic,Instant Shrink
-24,Creature,Common,Warlock
-25,Artifact,Common,Ghost Wand
-26,Creature,Common,Wolf
-27,Spell,Rare,Oblivion Frenzy
-28,Creature,Legendary,Snow Lord Oni of the Border
-29,Enchantment,Mythic,Dire Agony
-30,Spell,Common,Frenzy
-31,Creature,Common,Eagle
-32,Artifact,Common,Shield
-33,Artifact,Rare,Nimble Greaves
-34,Creature,Common,Paladin
-35,Creature,Rare,Death Priest Hydra
-36,Spell,Rare,Dark Freeze
-37,Creature,Rare,Aura Priest Berserker
-38,Spell,Common,Stun
-39,Creature,Common,Paladin
-40,Enchantment,Legendary,Angry Shrink
-41,Creature,Mythic,Earth Undead Phoenix of the Shadows
-42,Creature,Mythic,Aura Chaos Wizard of the Light
-43,Creature,Common,Dwarf
-44,Enchantment,Legendary,Dire Haste
+==================,DECK,5894
+0,Creature,Warlock
+1,Spell,Sorrow
+2,Spell,Frost
+3,Creature,Frozen Thief Giant of the Border
+4,Spell,Nature Frenzy
+5,Creature,Troll
+6,Spell,Heal
+7,Creature,Berserker
+8,Enchantment,Grim Haste
+9,Creature,Frozen Queen Ogre of the Plains
+10,Enchantment,Drain
+11,Creature,Eagle
+12,Enchantment,Urgent Sorrow Flight
+13,Enchantment,Lethargy
+14,Spell,Ardent Frigid Maelstrom
+15,Spell,Solar Frost
+16,Creature,Dark Priest Orc
+17,Spell,Lightning
+18,Spell,Stricken
+19,Creature,Light Rogue Hydra
+20,Enchantment,Agony
+21,Creature,Aura Assassin Kraken
+22,Creature,Berserker
+23,Enchantment,Potent Necro Strength
+24,Creature,Berserker
+25,Artifact,Ghost Wand
+26,Creature,Wolf
+27,Spell,Frigid Rage
+28,Creature,Snow Lord Oni of the Border
+29,Enchantment,Irate Life Blight
+30,Spell,Frenzy
+31,Creature,Eagle
+32,Artifact,Shield
+33,Artifact,Corpse Greaves
+34,Creature,Troll
+35,Creature,Death Priest Hydra
+36,Spell,Gloom Tempest
+37,Creature,Aura Priest Goblin
+38,Spell,Frost
+39,Creature,Troll
+40,Enchantment,Potent Chimeric Shrink
+41,Creature,Earth Undead Phoenix of the Shadows
+42,Creature,Aura Chaos Wizard of the Light
+43,Creature,Magi
+44,Enchantment,Clever Life Haste

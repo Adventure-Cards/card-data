@@ -1,46 +1,46 @@
-==================,DECK,6430,Light
-0,Creature,Mythic,Dark Undead Dragon of Illusion
-1,Enchantment,Common,Invert
-2,Artifact,Rare,Oblivion Belt
-3,Spell,Common,Ice
-4,Creature,Common,Goblin
-5,Creature,Rare,Earth Queen Skin-Walker
-6,Creature,Legendary,Dark Queen Cyclops of the Swamp
-7,Creature,Common,Warlock
-8,Spell,Common,Fury
-9,Enchantment,Common,Strength
-10,Creature,Rare,Aura Monk Griffin
-11,Spell,Rare,Frigid Rage
-12,Creature,Rare,Earth Fighter Fairy
-13,Creature,Common,Ghoul
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Elf
-16,Artifact,Common,Pendant
-17,Creature,Common,Spider
-18,Spell,Rare,Shimmering Reanimate
-19,Creature,Common,Eagle
-20,Spell,Rare,Solar Frost
-21,Creature,Common,Paladin
-22,Spell,Common,Revive
-23,Spell,Common,Vortex
-24,Creature,Rare,Dark Undead Skin-Walker
-25,Enchantment,Common,Lethargy
-26,Spell,Common,Frost
-27,Spell,Legendary,Dire Vortex
-28,Enchantment,Common,Drain
-29,Creature,Mythic,Light Nameless Dragon of the Sky
-30,Creature,Rare,Earth Lord Fairy
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Goblin
-33,Enchantment,Mythic,Urgent Age
-34,Creature,Common,Eagle
-35,Spell,Common,Lightning
-36,Spell,Common,Maelstrom
-37,Artifact,Common,Amulet
-38,Enchantment,Mythic,Potent Agony
-39,Enchantment,Common,Shield
-40,Spell,Legendary,Intense Revive
-41,Enchantment,Common,Blight
-42,Creature,Common,Warlock
-43,Enchantment,Rare,Hateful Drain
-44,Enchantment,Rare,Solar Lethargy
+==================,DECK,6430
+0,Creature,Dark Undead Dragon of Illusion
+1,Enchantment,Shade
+2,Artifact,Apocalypse Belt
+3,Spell,Lightning
+4,Creature,Skin-Walker
+5,Creature,Earth Queen Orc
+6,Creature,Dark Queen Giant of the Swamp
+7,Creature,Berserker
+8,Spell,Freeze
+9,Enchantment,Strength
+10,Creature,Aura Monk Griffin
+11,Spell,Oblivion Wall
+12,Creature,Earth Fighter Kraken
+13,Creature,Ghoul
+14,Enchantment,Alacrity
+15,Creature,Warlock
+16,Artifact,Pendant
+17,Creature,Paladin
+18,Spell,Necro Vortex
+19,Creature,Eagle
+20,Spell,Nature Assault
+21,Creature,Troll
+22,Spell,Gravitation
+23,Spell,Heal
+24,Creature,Dark Undead Orc
+25,Enchantment,Shrink
+26,Spell,Stricken
+27,Spell,Irate Frigid Frost
+28,Enchantment,Shrink
+29,Creature,Light Nameless Dragon of the Sky
+30,Creature,Earth Lord Kraken
+31,Enchantment,Drain
+32,Creature,Skin-Walker
+33,Enchantment,Empyrean Nature Age
+34,Creature,Eagle
+35,Spell,Lightning
+36,Spell,Heal
+37,Artifact,Amulet
+38,Enchantment,Instant Life Drain
+39,Enchantment,Lethargy
+40,Spell,Irate Nature Pandemonium
+41,Enchantment,Firebreath
+42,Creature,Berserker
+43,Enchantment,Dark Alacrity
+44,Enchantment,Hateful Strength

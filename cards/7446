@@ -1,46 +1,46 @@
-==================,DECK,7446,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Eagle
-2,Enchantment,Common,Shield
-3,Creature,Common,Orc
-4,Enchantment,Common,Flight
-5,Creature,Common,Warlock
-6,Spell,Rare,Nimble Rage
-7,Creature,Common,Goblin
-8,Spell,Rare,Lunar Sorrow
-9,Spell,Common,Reanimate
-10,Creature,Legendary,Death Priest Kraken of the Eastern Skies
-11,Spell,Common,Assault
-12,Creature,Common,Elf
-13,Creature,Common,Elf
-14,Spell,Common,Maelstrom
-15,Creature,Common,Warlock
-16,Enchantment,Common,Shrink
-17,Creature,Legendary,Dark Monk Orge of the Swamp
-18,Creature,Legendary,Light Queen Giant of the West
-19,Spell,Common,Ice
-20,Creature,Rare,Earth Knight Skin-Walker
-21,Creature,Common,Dwarf
-22,Creature,Common,Goblin
-23,Artifact,Rare,Solar Scythe
-24,Enchantment,Common,Deathgrip
-25,Spell,Common,Pandemonium
-26,Creature,Common,Elf
-27,Creature,Common,Magi
-28,Creature,Common,Warlock
-29,Spell,Common,Stricken
-30,Creature,Common,Orc
-31,Enchantment,Common,Shield
-32,Enchantment,Common,Alacrity
-33,Creature,Common,Orc
-34,Creature,Rare,Snow Undead Fairy
-35,Spell,Common,Sorrow
-36,Creature,Common,Orc
-37,Creature,Common,Goblin
-38,Creature,Rare,Frozen Priest Minotaur
-39,Spell,Common,Lightning
-40,Creature,Mythic,Aura Nameless Phoenix of the Light
-41,Creature,Common,Dwarf
-42,Artifact,Common,Scythe
-43,Enchantment,Mythic,Potent Alacrity
-44,Enchantment,Legendary,Angry Age
+==================,DECK,7446
+0,Creature,Eagle
+1,Creature,Eagle
+2,Enchantment,Alacrity
+3,Creature,Spider
+4,Enchantment,Age
+5,Creature,Berserker
+6,Spell,Forged Gravitation
+7,Creature,Skin-Walker
+8,Spell,Chimeric Heal
+9,Spell,Infuriate
+10,Creature,Death Priest Ogre of the Eastern Skies
+11,Spell,Burn
+12,Creature,Warlock
+13,Creature,Warlock
+14,Spell,Burn
+15,Creature,Berserker
+16,Enchantment,Invert
+17,Creature,Dark Monk Elf of the Swamp
+18,Creature,Light Queen Dwarf of the West
+19,Spell,Vortex
+20,Creature,Earth Knight Orc
+21,Creature,Magi
+22,Creature,Skin-Walker
+23,Artifact,Nature Scythe
+24,Enchantment,Firebreath
+25,Spell,Sorrow
+26,Creature,Warlock
+27,Creature,Fairy
+28,Creature,Berserker
+29,Spell,Fireball
+30,Creature,Spider
+31,Enchantment,Alacrity
+32,Enchantment,Shrink
+33,Creature,Spider
+34,Creature,Snow Undead Kraken
+35,Spell,Sorrow
+36,Creature,Spider
+37,Creature,Skin-Walker
+38,Creature,Frozen Priest Cyclops
+39,Spell,Assault
+40,Creature,Aura Nameless Phoenix of the Light
+41,Creature,Magi
+42,Artifact,Scythe
+43,Enchantment,Ardent Apocalypse Haste
+44,Enchantment,Empyrean Gloom Firebreath

@@ -1,46 +1,46 @@
-==================,DECK,7421,Light
-0,Creature,Rare,Death King Fairy
-1,Enchantment,Common,Agony
-2,Creature,Common,Warlock
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Haste
-5,Spell,Common,Stricken
-6,Creature,Common,Spider
-7,Creature,Common,Orc
-8,Enchantment,Common,Shield
-9,Spell,Common,Stricken
-10,Spell,Common,Heal
-11,Enchantment,Common,Shield
-12,Creature,Common,Dwarf
-13,Creature,Common,Magi
-14,Enchantment,Rare,Nimble Invert
-15,Creature,Legendary,Dark Undead Cyclops of the Bright Mountains
-16,Artifact,Legendary,Dire Gauntlet
-17,Enchantment,Common,Flight
-18,Creature,Common,Ghoul
-19,Spell,Common,Maelstrom
-20,Artifact,Common,Ring
-21,Creature,Common,Ghoul
-22,Creature,Common,Orc
-23,Creature,Common,Eagle
-24,Enchantment,Mythic,Extreme Agony
-25,Spell,Common,Assault
-26,Creature,Common,Ghoul
-27,Creature,Legendary,Snow Knight Cyclops of the Haven
-28,Enchantment,Rare,Cataclysmic Blight
-29,Creature,Common,Paladin
-30,Spell,Rare,Shimmering Reanimate
-31,Enchantment,Common,Lethargy
-32,Creature,Common,Orc
-33,Enchantment,Common,Invert
-34,Creature,Rare,Snow Knight Griffin
-35,Creature,Common,Dwarf
-36,Creature,Common,Warlock
-37,Creature,Common,Elf
-38,Spell,Common,Revive
-39,Spell,Common,Rage
-40,Artifact,Common,Bow
-41,Creature,Common,Paladin
-42,Creature,Common,Wolf
-43,Spell,Legendary,Angry Pandemonium
-44,Spell,Rare,Oblivion Wall
+==================,DECK,7421
+0,Creature,Death King Kraken
+1,Enchantment,Haste
+2,Creature,Berserker
+3,Creature,Magi
+4,Enchantment,Haste
+5,Spell,Revive
+6,Creature,Paladin
+7,Creature,Spider
+8,Enchantment,Drain
+9,Spell,Pandemonium
+10,Spell,Lightning
+11,Enchantment,Shield
+12,Creature,Magi
+13,Creature,Fairy
+14,Enchantment,Shimmering Agony
+15,Creature,Dark Undead Giant of the Bright Mountains
+16,Artifact,Clever Victory Gauntlet
+17,Enchantment,Invert
+18,Creature,Ghoul
+19,Spell,Lightning
+20,Artifact,Ring
+21,Creature,Ghoul
+22,Creature,Spider
+23,Creature,Eagle
+24,Enchantment,Irate Miracle Alacrity
+25,Spell,Sorrow
+26,Creature,Ghoul
+27,Creature,Snow Knight Giant of the Haven
+28,Enchantment,Cataclysmic Shrink
+29,Creature,Troll
+30,Spell,Forged Maelstrom
+31,Enchantment,Haste
+32,Creature,Spider
+33,Enchantment,Drain
+34,Creature,Snow Knight Griffin
+35,Creature,Magi
+36,Creature,Berserker
+37,Creature,Warlock
+38,Spell,Revive
+39,Spell,Hypnosis
+40,Artifact,Bow
+41,Creature,Troll
+42,Creature,Wolf
+43,Spell,Mighty Chimeric Torment
+44,Spell,Nimble Fire

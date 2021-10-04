@@ -1,46 +1,46 @@
-==================,DECK,5932,Light
-0,Enchantment,Rare,Corpse Shade
-1,Creature,Common,Elf
-2,Creature,Rare,Light Queen Griffin
-3,Creature,Common,Wolf
-4,Enchantment,Common,Deathgrip
-5,Artifact,Common,Cloak
-6,Spell,Common,Revive
-7,Spell,Rare,Nature Stun
-8,Enchantment,Common,Alacrity
-9,Creature,Common,Spider
-10,Spell,Common,Gale
-11,Creature,Legendary,Aura Lord Oni of the Low Hills
-12,Artifact,Common,Greaves
-13,Creature,Common,Magi
-14,Creature,Common,Magi
-15,Spell,Common,Rage
-16,Creature,Rare,Earth Rogue Fairy
-17,Creature,Common,Elf
-18,Spell,Common,Maelstrom
-19,Enchantment,Mythic,Intense Agony
-20,Creature,Rare,Light Undead Minotaur
-21,Artifact,Common,Gauntlet
-22,Spell,Common,Frost
-23,Creature,Common,Warlock
-24,Creature,Rare,Dark Monk Berserker
-25,Artifact,Common,Boots
-26,Creature,Rare,Earth Warrior Skin-Walker
-27,Spell,Common,Burst
-28,Artifact,Common,Ring
-29,Enchantment,Common,Blight
-30,Enchantment,Common,Deathgrip
-31,Enchantment,Rare,Apocalypse Age
-32,Creature,Common,Wolf
-33,Enchantment,Common,Strength
-34,Artifact,Common,Ghost Wand
-35,Spell,Common,Fury
-36,Creature,Common,Elf
-37,Artifact,Common,Scepter
-38,Spell,Rare,Hateful Maelstrom
-39,Spell,Common,Ice
-40,Spell,Legendary,Angry Burn
-41,Creature,Rare,Dark Queen Minotaur
-42,Creature,Legendary,Dark Thief Giant of the Black Stone
-43,Creature,Rare,Frozen Lord Hydra
-44,Spell,Legendary,Urgent Gale
+==================,DECK,5932
+0,Enchantment,Necro Age
+1,Creature,Warlock
+2,Creature,Light Queen Griffin
+3,Creature,Wolf
+4,Enchantment,Flight
+5,Artifact,Cloak
+6,Spell,Burst
+7,Spell,Corpse Vortex
+8,Enchantment,Deathgrip
+9,Creature,Paladin
+10,Spell,Burn
+11,Creature,Aura Lord Oni of the Low Hills
+12,Artifact,Greaves
+13,Creature,Fairy
+14,Creature,Fairy
+15,Spell,Fire
+16,Creature,Earth Rogue Kraken
+17,Creature,Warlock
+18,Spell,Ice
+19,Enchantment,Ardent Corpse Lethargy
+20,Creature,Light Undead Cyclops
+21,Artifact,Gauntlet
+22,Spell,Vortex
+23,Creature,Berserker
+24,Creature,Dark Monk Goblin
+25,Artifact,Boots
+26,Creature,Earth Warrior Orc
+27,Spell,Tempest
+28,Artifact,Ring
+29,Enchantment,Deathgrip
+30,Enchantment,Blight
+31,Enchantment,Victory Haste
+32,Creature,Wolf
+33,Enchantment,Strength
+34,Artifact,Ghost Wand
+35,Spell,Frenzy
+36,Creature,Warlock
+37,Artifact,Scepter
+38,Spell,Dark Tempest
+39,Spell,Hypnosis
+40,Spell,Empyrean Chimeric Burn
+41,Creature,Dark Queen Cyclops
+42,Creature,Dark Thief Dwarf of the Black Stone
+43,Creature,Frozen Lord Hydra
+44,Spell,Clever Nature Fury

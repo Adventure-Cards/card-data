@@ -1,46 +1,46 @@
-==================,DECK,5404,Light
-0,Creature,Mythic,Frozen Undead Dragon of the Void
-1,Artifact,Common,Belt
-2,Enchantment,Common,Shield
-3,Artifact,Common,Sword
-4,Enchantment,Rare,Hateful Haste
-5,Artifact,Common,Helmet
-6,Spell,Common,Heal
-7,Artifact,Common,Greaves
-8,Creature,Common,Magi
-9,Creature,Common,Eagle
-10,Enchantment,Common,Agony
-11,Enchantment,Common,Deathgrip
-12,Creature,Common,Orc
-13,Creature,Common,Magi
-14,Enchantment,Rare,Miracle Drain
-15,Creature,Legendary,Frozen Fighter Oni of the West
-16,Spell,Common,Revive
-17,Artifact,Common,Shield
-18,Creature,Common,Magi
-19,Artifact,Common,Helmet
-20,Creature,Legendary,Aura Assassin Kraken of the Swamp
-21,Spell,Rare,Lunar Pandemonium
-22,Spell,Common,Assault
-23,Creature,Common,Goblin
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Deathgrip
-26,Spell,Common,Hypnosis
-27,Enchantment,Common,Lethargy
-28,Creature,Rare,Snow Undead Fairy
-29,Creature,Rare,Snow Priest Hydra
-30,Enchantment,Mythic,Angry Haste
-31,Spell,Legendary,Clever Vortex
-32,Creature,Rare,Frozen Monk Skin-Walker
-33,Enchantment,Common,Drain
-34,Creature,Rare,Snow Thief Skin-Walker
-35,Creature,Legendary,Frozen Merchant Orge of the Eastern Skies
-36,Creature,Common,Elf
-37,Creature,Rare,Frozen Priest Skin-Walker
-38,Artifact,Rare,Nature Greaves
-39,Spell,Rare,Life Reanimate
-40,Creature,Common,Goblin
-41,Creature,Common,Eagle
-42,Spell,Common,Stricken
-43,Spell,Common,Burn
-44,Spell,Common,Reanimate
+==================,DECK,5404
+0,Creature,Frozen Undead Dragon of the Void
+1,Artifact,Belt
+2,Enchantment,Shield
+3,Artifact,Sword
+4,Enchantment,Miracle Shield
+5,Artifact,Helmet
+6,Spell,Revive
+7,Artifact,Greaves
+8,Creature,Fairy
+9,Creature,Eagle
+10,Enchantment,Strength
+11,Enchantment,Haste
+12,Creature,Spider
+13,Creature,Fairy
+14,Enchantment,Apocalypse Invert
+15,Creature,Frozen Fighter Oni of the West
+16,Spell,Ice
+17,Artifact,Shield
+18,Creature,Fairy
+19,Artifact,Helmet
+20,Creature,Aura Assassin Ogre of the Swamp
+21,Spell,Cataclysmic Freeze
+22,Spell,Reanimate
+23,Creature,Skin-Walker
+24,Creature,Magi
+25,Enchantment,Invert
+26,Spell,Fireball
+27,Enchantment,Alacrity
+28,Creature,Snow Undead Kraken
+29,Creature,Snow Priest Hydra
+30,Enchantment,Empyrean Miracle Firebreath
+31,Spell,Dire Nimble Lightning
+32,Creature,Frozen Monk Orc
+33,Enchantment,Firebreath
+34,Creature,Snow Thief Orc
+35,Creature,Frozen Merchant Elf of the Eastern Skies
+36,Creature,Warlock
+37,Creature,Frozen Priest Orc
+38,Artifact,Forged Greaves
+39,Spell,Grim Invisibility
+40,Creature,Skin-Walker
+41,Creature,Eagle
+42,Spell,Frost
+43,Spell,Wall
+44,Spell,Revive

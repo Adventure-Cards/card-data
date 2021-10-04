@@ -1,46 +1,46 @@
-==================,DECK,4776,Light
-0,Enchantment,Common,Strength
-1,Creature,Rare,Aura Thief Fairy
-2,Creature,Common,Goblin
-3,Enchantment,Common,Lethargy
-4,Creature,Common,Orc
-5,Spell,Common,Stricken
-6,Creature,Common,Magi
-7,Spell,Common,Hypnosis
-8,Creature,Common,Wolf
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Age
-11,Spell,Common,Vortex
-12,Creature,Common,Paladin
-13,Spell,Legendary,Instant Maelstrom
-14,Creature,Common,Magi
-15,Creature,Common,Magi
-16,Spell,Common,Assault
-17,Creature,Common,Warlock
-18,Enchantment,Common,Shield
-19,Spell,Common,Stricken
-20,Creature,Common,Goblin
-21,Enchantment,Common,Invert
-22,Artifact,Legendary,Extreme Gloves
-23,Spell,Rare,Frigid Vortex
-24,Creature,Common,Magi
-25,Creature,Common,Orc
-26,Enchantment,Common,Flight
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Enchantment,Common,Shrink
-30,Spell,Common,Infuriate
-31,Creature,Common,Elf
-32,Creature,Common,Goblin
-33,Enchantment,Common,Invert
-34,Spell,Common,Frenzy
-35,Enchantment,Mythic,Instant Deathgrip
-36,Creature,Common,Goblin
-37,Creature,Common,Spider
-38,Creature,Common,Elf
-39,Artifact,Common,Tome
-40,Creature,Rare,Dark Warrior Skin-Walker
-41,Artifact,Common,Tome
-42,Spell,Rare,Lunar Stricken
-43,Spell,Common,Lightning
-44,Creature,Common,Magi
+==================,DECK,4776
+0,Enchantment,Agony
+1,Creature,Aura Thief Kraken
+2,Creature,Skin-Walker
+3,Enchantment,Shade
+4,Creature,Spider
+5,Spell,Invisibility
+6,Creature,Fairy
+7,Spell,Invisibility
+8,Creature,Wolf
+9,Creature,Ghoul
+10,Enchantment,Invert
+11,Spell,Maelstrom
+12,Creature,Troll
+13,Spell,Potent Shimmering Fireball
+14,Creature,Fairy
+15,Creature,Fairy
+16,Spell,Pandemonium
+17,Creature,Berserker
+18,Enchantment,Lethargy
+19,Spell,Fury
+20,Creature,Skin-Walker
+21,Enchantment,Haste
+22,Artifact,Potent Chimeric Gloves
+23,Spell,Oblivion Sorrow
+24,Creature,Fairy
+25,Creature,Spider
+26,Enchantment,Blight
+27,Creature,Warlock
+28,Creature,Fairy
+29,Enchantment,Firebreath
+30,Spell,Torment
+31,Creature,Warlock
+32,Creature,Skin-Walker
+33,Enchantment,Alacrity
+34,Spell,Assault
+35,Enchantment,Zealous Shimmering Deathgrip
+36,Creature,Skin-Walker
+37,Creature,Paladin
+38,Creature,Warlock
+39,Artifact,Tome
+40,Creature,Dark Warrior Orc
+41,Artifact,Tome
+42,Spell,Sorrow Freeze
+43,Spell,Assault
+44,Creature,Fairy

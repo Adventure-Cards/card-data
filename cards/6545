@@ -1,46 +1,46 @@
-==================,DECK,6545,Medium
-0,Creature,Common,Eagle
-1,Creature,Legendary,Death Lord Orge of the Frozen Castle
-2,Enchantment,Common,Blight
-3,Creature,Common,Elf
-4,Creature,Common,Ghoul
-5,Spell,Common,Rage
-6,Spell,Common,Ice
-7,Creature,Legendary,Dark Rogue Kraken of the Arctic Blizzards
-8,Enchantment,Common,Drain
-9,Enchantment,Legendary,Urgent Age
-10,Spell,Common,Revive
-11,Creature,Legendary,Earth Assassin Orge of the Border
-12,Creature,Common,Elf
-13,Artifact,Common,Ring
-14,Enchantment,Common,Alacrity
-15,Creature,Mythic,Dark Nameless Phoenix of Illusion
-16,Enchantment,Mythic,Potent Alacrity
-17,Artifact,Rare,Forged Shield
-18,Creature,Rare,Aura Lord Berserker
-19,Creature,Common,Spider
-20,Artifact,Common,Sigil
-21,Creature,Rare,Dark Undead Fairy
-22,Enchantment,Common,Agony
-23,Creature,Common,Paladin
-24,Creature,Common,Goblin
-25,Creature,Common,Elf
-26,Spell,Common,Reanimate
-27,Creature,Legendary,Frozen Rogue Kraken of the Low Hills
-28,Spell,Legendary,Dire Revive
-29,Creature,Common,Warlock
-30,Creature,Legendary,Dark Fighter Oni of the Low Hills
-31,Creature,Rare,Snow Fighter Fairy
-32,Spell,Common,Fury
-33,Creature,Common,Magi
-34,Enchantment,Common,Alacrity
-35,Enchantment,Common,Shade
-36,Artifact,Common,Cloak
-37,Enchantment,Common,Blight
-38,Creature,Common,Paladin
-39,Spell,Legendary,Clever Sorrow
-40,Spell,Common,Infuriate
-41,Creature,Rare,Aura Monk Fairy
-42,Creature,Common,Eagle
-43,Creature,Rare,Snow Monk Hydra
-44,Enchantment,Rare,Oblivion Agony
+==================,DECK,6545
+0,Creature,Eagle
+1,Creature,Death Lord Elf of the Frozen Castle
+2,Enchantment,Invert
+3,Creature,Warlock
+4,Creature,Ghoul
+5,Spell,Ice
+6,Spell,Hypnosis
+7,Creature,Dark Rogue Ogre of the Arctic Blizzards
+8,Enchantment,Firebreath
+9,Enchantment,Empyrean Nature Age
+10,Spell,Vortex
+11,Creature,Earth Assassin Elf of the Border
+12,Creature,Warlock
+13,Artifact,Ring
+14,Enchantment,Age
+15,Creature,Dark Nameless Phoenix of Illusion
+16,Enchantment,Instant Apocalypse Drain
+17,Artifact,Dark Shield
+18,Creature,Aura Lord Goblin
+19,Creature,Paladin
+20,Artifact,Sigil
+21,Creature,Dark Undead Kraken
+22,Enchantment,Blight
+23,Creature,Troll
+24,Creature,Skin-Walker
+25,Creature,Warlock
+26,Spell,Invisibility
+27,Creature,Frozen Rogue Ogre of the Low Hills
+28,Spell,Irate Frigid Rage
+29,Creature,Berserker
+30,Creature,Dark Fighter Oni of the Low Hills
+31,Creature,Snow Fighter Kraken
+32,Spell,Fire
+33,Creature,Fairy
+34,Enchantment,Blight
+35,Enchantment,Alacrity
+36,Artifact,Cloak
+37,Enchantment,Shade
+38,Creature,Troll
+39,Spell,Clever Apocalypse Heal
+40,Spell,Infuriate
+41,Creature,Aura Monk Kraken
+42,Creature,Eagle
+43,Creature,Snow Monk Hydra
+44,Enchantment,Life Blight

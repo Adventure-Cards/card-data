@@ -1,46 +1,46 @@
-==================,DECK,7469,Light
-0,Spell,Common,Wall
-1,Spell,Common,Hypnosis
-2,Creature,Common,Paladin
-3,Creature,Legendary,Death Assassin Kraken of the Plains
-4,Artifact,Common,Ring
-5,Creature,Legendary,Frozen Lord Orge of the Eternal Land
-6,Creature,Legendary,Light Fighter Kraken of the Arctic Blizzards
-7,Enchantment,Common,Alacrity
-8,Enchantment,Common,Deathgrip
-9,Spell,Common,Fury
-10,Creature,Common,Wolf
-11,Creature,Rare,Snow Warrior Fairy
-12,Spell,Common,Stun
-13,Artifact,Legendary,Instant Bracers
-14,Enchantment,Common,Blight
-15,Creature,Common,Goblin
-16,Spell,Common,Burn
-17,Spell,Rare,Life Stricken
-18,Enchantment,Legendary,Intense Age
-19,Creature,Common,Goblin
-20,Creature,Common,Elf
-21,Creature,Common,Paladin
-22,Creature,Rare,Earth Priest Griffin
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Agony
-25,Creature,Common,Spider
-26,Creature,Common,Elf
-27,Creature,Common,Elf
-28,Creature,Common,Elf
-29,Spell,Rare,Dark Vortex
-30,Creature,Common,Spider
-31,Spell,Common,Torment
-32,Enchantment,Mythic,Instant Shade
-33,Creature,Legendary,Frozen Warrior Cyclops of the Plains
-34,Creature,Common,Magi
-35,Creature,Rare,Snow Monk Skin-Walker
-36,Creature,Common,Dwarf
-37,Spell,Legendary,Intense Reanimate
-38,Enchantment,Mythic,Dire Lethargy
-39,Spell,Common,Assault
-40,Enchantment,Common,Flight
-41,Enchantment,Common,Lethargy
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Age
-44,Enchantment,Rare,Oblivion Shade
+==================,DECK,7469
+0,Spell,Hypnosis
+1,Spell,Maelstrom
+2,Creature,Troll
+3,Creature,Death Assassin Ogre of the Plains
+4,Artifact,Ring
+5,Creature,Frozen Lord Elf of the Eternal Land
+6,Creature,Light Fighter Ogre of the Arctic Blizzards
+7,Enchantment,Agony
+8,Enchantment,Firebreath
+9,Spell,Stricken
+10,Creature,Wolf
+11,Creature,Snow Warrior Kraken
+12,Spell,Revive
+13,Artifact,Irate Forged Bracers
+14,Enchantment,Deathgrip
+15,Creature,Skin-Walker
+16,Spell,Fireball
+17,Spell,Victory Ice
+18,Enchantment,Zealous Nature Deathgrip
+19,Creature,Skin-Walker
+20,Creature,Warlock
+21,Creature,Troll
+22,Creature,Earth Priest Griffin
+23,Creature,Magi
+24,Enchantment,Blight
+25,Creature,Paladin
+26,Creature,Warlock
+27,Creature,Warlock
+28,Creature,Warlock
+29,Spell,Lunar Sorrow
+30,Creature,Paladin
+31,Spell,Invisibility
+32,Enchantment,Dire Necro Age
+33,Creature,Frozen Warrior Giant of the Plains
+34,Creature,Fairy
+35,Creature,Snow Monk Orc
+36,Creature,Magi
+37,Spell,Mighty Shimmering Fireball
+38,Enchantment,Ardent Grim Haste
+39,Spell,Vortex
+40,Enchantment,Deathgrip
+41,Enchantment,Flight
+42,Creature,Magi
+43,Enchantment,Firebreath
+44,Enchantment,Frigid Blight

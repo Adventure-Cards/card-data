@@ -1,46 +1,46 @@
-==================,DECK,5385,Light
-0,Spell,Rare,Frigid Torment
-1,Creature,Common,Dwarf
-2,Creature,Rare,Snow Rogue Griffin
-3,Creature,Common,Paladin
-4,Artifact,Legendary,Potent Helm
-5,Creature,Common,Warlock
-6,Creature,Common,Elf
-7,Enchantment,Common,Haste
-8,Spell,Common,Gale
-9,Creature,Common,Eagle
-10,Creature,Common,Spider
-11,Creature,Common,Spider
-12,Creature,Common,Orc
-13,Spell,Common,Pandemonium
-14,Enchantment,Rare,Cataclysmic Age
-15,Creature,Common,Spider
-16,Creature,Rare,Light Lord Berserker
-17,Enchantment,Legendary,Instant Agony
-18,Enchantment,Common,Haste
-19,Creature,Common,Paladin
-20,Creature,Rare,Dark Priest Berserker
-21,Creature,Common,Elf
-22,Creature,Rare,Dark Rogue Skin-Walker
-23,Spell,Common,Freeze
-24,Artifact,Rare,Dark Sigil
-25,Enchantment,Common,Flight
-26,Spell,Common,Reanimate
-27,Creature,Common,Eagle
-28,Creature,Rare,Light Warrior Griffin
-29,Creature,Rare,Aura King Griffin
-30,Spell,Rare,Oblivion Gravitation
-31,Artifact,Common,Bracers
-32,Spell,Common,Frost
-33,Enchantment,Common,Shield
-34,Creature,Common,Paladin
-35,Creature,Legendary,Dark Queen Giant of the Plains
-36,Enchantment,Common,Invert
-37,Creature,Common,Wolf
-38,Creature,Mythic,Frozen Nameless Dragon of the Void
-39,Enchantment,Common,Shrink
-40,Artifact,Common,Bracers
-41,Enchantment,Common,Shrink
-42,Spell,Rare,Frigid Frenzy
-43,Spell,Rare,Hateful Infuriate
-44,Creature,Common,Wolf
+==================,DECK,5385
+0,Spell,Grim Freeze
+1,Creature,Magi
+2,Creature,Snow Rogue Griffin
+3,Creature,Troll
+4,Artifact,Empyrean Life Helm
+5,Creature,Berserker
+6,Creature,Warlock
+7,Enchantment,Shade
+8,Spell,Gravitation
+9,Creature,Eagle
+10,Creature,Paladin
+11,Creature,Paladin
+12,Creature,Spider
+13,Spell,Revive
+14,Enchantment,Gloom Flight
+15,Creature,Paladin
+16,Creature,Light Lord Goblin
+17,Enchantment,Irate Corpse Deathgrip
+18,Enchantment,Shrink
+19,Creature,Troll
+20,Creature,Dark Priest Goblin
+21,Creature,Warlock
+22,Creature,Dark Rogue Orc
+23,Spell,Fury
+24,Artifact,Cataclysmic Sigil
+25,Enchantment,Shield
+26,Spell,Vortex
+27,Creature,Eagle
+28,Creature,Light Warrior Griffin
+29,Creature,Aura King Griffin
+30,Spell,Apocalypse Gale
+31,Artifact,Bracers
+32,Spell,Vortex
+33,Enchantment,Flight
+34,Creature,Troll
+35,Creature,Dark Queen Dwarf of the Plains
+36,Enchantment,Lethargy
+37,Creature,Wolf
+38,Creature,Frozen Nameless Dragon of the Void
+39,Enchantment,Alacrity
+40,Artifact,Bracers
+41,Enchantment,Age
+42,Spell,Apocalypse Frost
+43,Spell,Miracle Burn
+44,Creature,Wolf

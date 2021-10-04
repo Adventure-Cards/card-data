@@ -1,46 +1,46 @@
-==================,DECK,4551,Medium
-0,Creature,Legendary,Dark Lord Cyclops of the Swamp
-1,Enchantment,Common,Alacrity
-2,Enchantment,Rare,Gloom Invert
-3,Creature,Common,Warlock
-4,Creature,Rare,Dark Monk Griffin
-5,Creature,Common,Ghoul
-6,Spell,Rare,Gloom Lightning
-7,Creature,Rare,Dark Thief Fairy
-8,Creature,Common,Wolf
-9,Spell,Common,Maelstrom
-10,Creature,Mythic,Death Nameless Phoenix of the Dead
-11,Creature,Common,Dwarf
-12,Creature,Mythic,Dark Grand Wizard of Illusion
-13,Enchantment,Legendary,Dire Blight
-14,Artifact,Rare,Miracle Helm
-15,Spell,Common,Invisibility
-16,Creature,Mythic,Dark Time Phoenix of Illusion
-17,Creature,Common,Elf
-18,Enchantment,Common,Drain
-19,Creature,Rare,Dark Rogue Minotaur
-20,Enchantment,Common,Flight
-21,Enchantment,Common,Blight
-22,Artifact,Common,Ring
-23,Spell,Common,Maelstrom
-24,Creature,Rare,Death Warrior Minotaur
-25,Creature,Rare,Death Lord Griffin
-26,Creature,Common,Paladin
-27,Spell,Common,Freeze
-28,Spell,Common,Assault
-29,Creature,Rare,Aura Priest Berserker
-30,Creature,Rare,Dark Assassin Fairy
-31,Creature,Rare,Frozen Knight Berserker
-32,Spell,Common,Assault
-33,Creature,Legendary,Earth Knight Giant of the Low Hills
-34,Creature,Rare,Death Thief Skin-Walker
-35,Creature,Rare,Frozen Queen Griffin
-36,Creature,Legendary,Aura Assassin Cyclops of the Bright Mountains
-37,Creature,Legendary,Frozen Undead Oni of the Border
-38,Spell,Common,Stricken
-39,Enchantment,Mythic,Mighty Deathgrip
-40,Spell,Rare,Shimmering Burn
-41,Creature,Rare,Snow Monk Minotaur
-42,Creature,Common,Warlock
-43,Spell,Common,Revive
-44,Enchantment,Common,Age
+==================,DECK,4551
+0,Creature,Dark Lord Giant of the Swamp
+1,Enchantment,Alacrity
+2,Enchantment,Sorrow Firebreath
+3,Creature,Berserker
+4,Creature,Dark Monk Griffin
+5,Creature,Ghoul
+6,Spell,Miracle Fireball
+7,Creature,Dark Thief Kraken
+8,Creature,Wolf
+9,Spell,Tempest
+10,Creature,Death Nameless Phoenix of the Dead
+11,Creature,Magi
+12,Creature,Dark Grand Wizard of Illusion
+13,Enchantment,Clever Nimble Haste
+14,Artifact,Victory Helm
+15,Spell,Torment
+16,Creature,Dark Time Phoenix of Illusion
+17,Creature,Warlock
+18,Enchantment,Flight
+19,Creature,Dark Rogue Cyclops
+20,Enchantment,Flight
+21,Enchantment,Invert
+22,Artifact,Ring
+23,Spell,Freeze
+24,Creature,Death Warrior Cyclops
+25,Creature,Death Lord Griffin
+26,Creature,Troll
+27,Spell,Burst
+28,Spell,Heal
+29,Creature,Aura Priest Goblin
+30,Creature,Dark Assassin Kraken
+31,Creature,Frozen Knight Goblin
+32,Spell,Pandemonium
+33,Creature,Earth Knight Dwarf of the Low Hills
+34,Creature,Death Thief Orc
+35,Creature,Frozen Queen Griffin
+36,Creature,Aura Assassin Giant of the Bright Mountains
+37,Creature,Frozen Undead Oni of the Border
+38,Spell,Assault
+39,Enchantment,Mighty Sorrow Flight
+40,Spell,Necro Invisibility
+41,Creature,Snow Monk Cyclops
+42,Creature,Berserker
+43,Spell,Fury
+44,Enchantment,Blight

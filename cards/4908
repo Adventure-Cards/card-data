@@ -1,46 +1,46 @@
-==================,DECK,4908,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Dwarf
-2,Spell,Rare,Life Stun
-3,Artifact,Common,Ring
-4,Creature,Rare,Aura Monk Griffin
-5,Spell,Common,Maelstrom
-6,Enchantment,Rare,Frigid Agony
-7,Enchantment,Common,Age
-8,Creature,Legendary,Light Monk Cyclops of the Mountains
-9,Creature,Rare,Earth Queen Hydra
-10,Spell,Common,Gravitation
-11,Creature,Rare,Snow Monk Berserker
-12,Spell,Legendary,Instant Gale
-13,Enchantment,Common,Shrink
-14,Spell,Common,Pandemonium
-15,Creature,Rare,Dark Thief Skin-Walker
-16,Spell,Common,Stricken
-17,Creature,Common,Magi
-18,Creature,Rare,Dark Assassin Berserker
-19,Creature,Common,Wolf
-20,Creature,Common,Wolf
-21,Spell,Common,Fury
-22,Creature,Rare,Aura Thief Fairy
-23,Creature,Common,Paladin
-24,Creature,Common,Warlock
-25,Creature,Common,Magi
-26,Creature,Legendary,Frozen Lord Kraken of the Polar Woods
-27,Spell,Rare,Necro Sorrow
-28,Spell,Rare,Necro Infuriate
-29,Creature,Common,Paladin
-30,Creature,Common,Paladin
-31,Artifact,Legendary,Urgent Potion
-32,Enchantment,Common,Drain
-33,Creature,Common,Dwarf
-34,Creature,Common,Elf
-35,Enchantment,Mythic,Clever Strength
-36,Enchantment,Rare,Lunar Shrink
-37,Enchantment,Common,Flight
-38,Creature,Rare,Death King Griffin
-39,Spell,Legendary,Potent Assault
-40,Creature,Common,Paladin
-41,Creature,Rare,Dark Warrior Hydra
-42,Spell,Common,Stricken
-43,Enchantment,Common,Invert
-44,Spell,Common,Stun
+==================,DECK,4908
+0,Creature,Skin-Walker
+1,Creature,Magi
+2,Spell,Grim Infuriate
+3,Artifact,Ring
+4,Creature,Aura Monk Griffin
+5,Spell,Burn
+6,Enchantment,Life Haste
+7,Enchantment,Flight
+8,Creature,Light Monk Giant of the Mountains
+9,Creature,Earth Queen Hydra
+10,Spell,Fury
+11,Creature,Snow Monk Goblin
+12,Spell,Zealous Forged Maelstrom
+13,Enchantment,Age
+14,Spell,Ice
+15,Creature,Dark Thief Orc
+16,Spell,Frenzy
+17,Creature,Fairy
+18,Creature,Dark Assassin Goblin
+19,Creature,Wolf
+20,Creature,Wolf
+21,Spell,Stricken
+22,Creature,Aura Thief Kraken
+23,Creature,Troll
+24,Creature,Berserker
+25,Creature,Fairy
+26,Creature,Frozen Lord Ogre of the Polar Woods
+27,Spell,Shimmering Maelstrom
+28,Spell,Hateful Invisibility
+29,Creature,Troll
+30,Creature,Troll
+31,Artifact,Clever Nature Potion
+32,Enchantment,Shrink
+33,Creature,Magi
+34,Creature,Warlock
+35,Enchantment,Dire Nimble Shade
+36,Enchantment,Chimeric Alacrity
+37,Enchantment,Blight
+38,Creature,Death King Griffin
+39,Spell,Irate Life Frost
+40,Creature,Troll
+41,Creature,Dark Warrior Hydra
+42,Spell,Wall
+43,Enchantment,Shade
+44,Spell,Revive

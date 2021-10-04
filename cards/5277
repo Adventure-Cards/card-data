@@ -1,46 +1,46 @@
-==================,DECK,5277,Strong
-0,Creature,Rare,Light Monk Fairy
-1,Enchantment,Rare,Miracle Blight
-2,Creature,Common,Paladin
-3,Creature,Common,Warlock
-4,Creature,Common,Eagle
-5,Enchantment,Common,Deathgrip
-6,Artifact,Common,Tome
-7,Creature,Legendary,Aura Time Dragon of the Light
-8,Creature,Legendary,Dark Queen Orge of the Eastern Skies
-9,Creature,Rare,Frozen Merchant Griffin
-10,Creature,Mythic,Light Nameless Phoenix of the Sky
-11,Spell,Legendary,Extreme Burst
-12,Creature,Common,Goblin
-13,Creature,Common,Magi
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Shield
-16,Creature,Common,Dwarf
-17,Creature,Rare,Frozen Merchant Berserker
-18,Creature,Mythic,Frozen Chaos Wizard of the Void
-19,Enchantment,Mythic,Potent Haste
-20,Creature,Legendary,Aura Grand Demon of the Light
-21,Artifact,Rare,Dark Crown
-22,Spell,Common,Ice
-23,Enchantment,Mythic,Urgent Alacrity
-24,Artifact,Rare,Miracle Helmet
-25,Creature,Common,Goblin
-26,Creature,Common,Ghoul
-27,Artifact,Legendary,Potent Boots
-28,Artifact,Rare,Nimble Pendant
-29,Enchantment,Legendary,Intense Shade
-30,Creature,Common,Eagle
-31,Spell,Rare,Shimmering Hypnosis
-32,Creature,Common,Goblin
-33,Creature,Rare,Earth Fighter Fairy
-34,Spell,Mythic,Dire Gravitation
-35,Creature,Mythic,Death Time Phoenix of the Dead
-36,Creature,Common,Wolf
-37,Enchantment,Rare,Corpse Shade
-38,Creature,Legendary,Dark Warrior Orge of the Eternal Land
-39,Creature,Common,Warlock
-40,Creature,Legendary,Death Nameless Dragon of the Dead
-41,Creature,Rare,Death Assassin Skin-Walker
-42,Creature,Mythic,Earth Time Phoenix of the Shadows
-43,Artifact,Common,Scepter
-44,Spell,Rare,Nimble Wall
+==================,DECK,5277
+0,Creature,Light Monk Kraken
+1,Enchantment,Nimble Drain
+2,Creature,Troll
+3,Creature,Berserker
+4,Creature,Eagle
+5,Enchantment,Shrink
+6,Artifact,Tome
+7,Creature,Aura Time Dragon of the Light
+8,Creature,Dark Queen Elf of the Eastern Skies
+9,Creature,Frozen Merchant Griffin
+10,Creature,Light Nameless Phoenix of the Sky
+11,Spell,Potent Lunar Stricken
+12,Creature,Skin-Walker
+13,Creature,Fairy
+14,Enchantment,Strength
+15,Enchantment,Invert
+16,Creature,Magi
+17,Creature,Frozen Merchant Goblin
+18,Creature,Frozen Chaos Wizard of the Void
+19,Enchantment,Clever Life Haste
+20,Creature,Aura Grand Demon of the Light
+21,Artifact,Gloom Crown
+22,Spell,Stun
+23,Enchantment,Dire Forged Age
+24,Artifact,Apocalypse Helmet
+25,Creature,Skin-Walker
+26,Creature,Ghoul
+27,Artifact,Clever Nimble Boots
+28,Artifact,Nature Pendant
+29,Enchantment,Instant Necro Strength
+30,Creature,Eagle
+31,Spell,Nature Maelstrom
+32,Creature,Skin-Walker
+33,Creature,Earth Fighter Kraken
+34,Spell,Instant Apocalypse Revive
+35,Creature,Death Time Phoenix of the Dead
+36,Creature,Wolf
+37,Enchantment,Necro Deathgrip
+38,Creature,Dark Warrior Elf of the Eternal Land
+39,Creature,Berserker
+40,Creature,Death Nameless Dragon of the Dead
+41,Creature,Death Assassin Orc
+42,Creature,Earth Time Phoenix of the Shadows
+43,Artifact,Scepter
+44,Spell,Solar Reanimate

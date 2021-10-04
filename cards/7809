@@ -1,46 +1,46 @@
-==================,DECK,7809,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shrink
-2,Spell,Common,Fury
-3,Creature,Rare,Earth Fighter Skin-Walker
-4,Creature,Common,Eagle
-5,Creature,Common,Wolf
-6,Creature,Mythic,Aura Undead Dragon of the Light
-7,Spell,Common,Lightning
-8,Spell,Common,Assault
-9,Creature,Rare,Light Merchant Minotaur
-10,Artifact,Common,Cloak
-11,Enchantment,Legendary,Urgent Flight
-12,Enchantment,Mythic,Dire Agony
-13,Creature,Common,Warlock
-14,Artifact,Common,Helm
-15,Enchantment,Common,Shade
-16,Creature,Common,Elf
-17,Creature,Mythic,Frozen Time Dragon of the Void
-18,Creature,Common,Goblin
-19,Creature,Common,Paladin
-20,Creature,Mythic,Dark Undead Dragon of Illusion
-21,Enchantment,Common,Deathgrip
-22,Enchantment,Common,Agony
-23,Enchantment,Common,Lethargy
-24,Spell,Rare,Lunar Ice
-25,Creature,Rare,Earth Rogue Skin-Walker
-26,Creature,Rare,Light Rogue Skin-Walker
-27,Spell,Rare,Shimmering Pandemonium
-28,Spell,Common,Stun
-29,Enchantment,Mythic,Dire Shrink
-30,Spell,Common,Vortex
-31,Creature,Common,Eagle
-32,Spell,Rare,Necro Gale
-33,Artifact,Rare,Lunar Staff
-34,Creature,Common,Spider
-35,Spell,Common,Infuriate
-36,Enchantment,Common,Flight
-37,Spell,Common,Freeze
-38,Spell,Rare,Nature Hypnosis
-39,Spell,Common,Wall
-40,Artifact,Common,Sigil
-41,Creature,Rare,Earth Thief Hydra
-42,Spell,Common,Stun
-43,Spell,Common,Stun
-44,Spell,Common,Ice
+==================,DECK,7809
+0,Creature,Eagle
+1,Enchantment,Shrink
+2,Spell,Tempest
+3,Creature,Earth Fighter Orc
+4,Creature,Eagle
+5,Creature,Wolf
+6,Creature,Aura Undead Dragon of the Light
+7,Spell,Revive
+8,Spell,Sorrow
+9,Creature,Light Merchant Cyclops
+10,Artifact,Cloak
+11,Enchantment,Empyrean Hateful Age
+12,Enchantment,Dire Life Shade
+13,Creature,Berserker
+14,Artifact,Helm
+15,Enchantment,Blight
+16,Creature,Warlock
+17,Creature,Frozen Time Dragon of the Void
+18,Creature,Skin-Walker
+19,Creature,Troll
+20,Creature,Dark Undead Dragon of Illusion
+21,Enchantment,Shield
+22,Enchantment,Haste
+23,Enchantment,Firebreath
+24,Spell,Gloom Hypnosis
+25,Creature,Earth Rogue Orc
+26,Creature,Light Rogue Orc
+27,Spell,Hateful Sorrow
+28,Spell,Assault
+29,Enchantment,Potent Frigid Drain
+30,Spell,Fury
+31,Creature,Eagle
+32,Spell,Solar Stun
+33,Artifact,Chimeric Staff
+34,Creature,Paladin
+35,Spell,Wall
+36,Enchantment,Drain
+37,Spell,Vortex
+38,Spell,Hateful Fireball
+39,Spell,Fury
+40,Artifact,Sigil
+41,Creature,Earth Thief Hydra
+42,Spell,Tempest
+43,Spell,Fire
+44,Spell,Maelstrom

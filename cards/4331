@@ -1,46 +1,46 @@
-==================,DECK,4331,Light
-0,Creature,Common,Elf
-1,Spell,Common,Torment
-2,Spell,Rare,Nimble Invisibility
-3,Artifact,Legendary,Urgent Scepter
-4,Enchantment,Common,Blight
-5,Enchantment,Common,Shrink
-6,Creature,Common,Elf
-7,Enchantment,Rare,Shimmering Shrink
-8,Spell,Rare,Hateful Gale
-9,Creature,Common,Warlock
-10,Spell,Legendary,Dire Torment
-11,Artifact,Common,Ring
-12,Enchantment,Common,Age
-13,Spell,Common,Heal
-14,Creature,Rare,Aura Fighter Berserker
-15,Spell,Rare,Lunar Reanimate
-16,Creature,Common,Orc
-17,Spell,Common,Revive
-18,Enchantment,Common,Shrink
-19,Creature,Common,Eagle
-20,Spell,Common,Ice
-21,Spell,Common,Freeze
-22,Creature,Legendary,Dark Assassin Cyclops of the Magical Forest
-23,Artifact,Legendary,Potent Ghost Wand
-24,Artifact,Common,Scythe
-25,Creature,Common,Dwarf
-26,Enchantment,Common,Agony
-27,Creature,Common,Spider
-28,Spell,Common,Assault
-29,Spell,Rare,Solar Frost
-30,Creature,Common,Orc
-31,Creature,Mythic,Dark Nameless Dragon of Illusion
-32,Creature,Mythic,Frozen Grand Wizard of the Void
-33,Enchantment,Common,Lethargy
-34,Enchantment,Common,Strength
-35,Creature,Rare,Frozen Fighter Fairy
-36,Spell,Legendary,Instant Revive
-37,Creature,Common,Warlock
-38,Creature,Common,Wolf
-39,Creature,Common,Warlock
-40,Spell,Common,Gravitation
-41,Creature,Common,Warlock
-42,Creature,Common,Elf
-43,Creature,Common,Magi
-44,Enchantment,Rare,Shimmering Deathgrip
+==================,DECK,4331
+0,Creature,Warlock
+1,Spell,Heal
+2,Spell,Corpse Freeze
+3,Artifact,Potent Hateful Scepter
+4,Enchantment,Shrink
+5,Enchantment,Agony
+6,Creature,Warlock
+7,Enchantment,Necro Lethargy
+8,Spell,Dark Vortex
+9,Creature,Berserker
+10,Spell,Instant Grim Stricken
+11,Artifact,Ring
+12,Enchantment,Shrink
+13,Spell,Stun
+14,Creature,Aura Fighter Goblin
+15,Spell,Miracle Lightning
+16,Creature,Spider
+17,Spell,Hypnosis
+18,Enchantment,Shade
+19,Creature,Eagle
+20,Spell,Gravitation
+21,Spell,Rage
+22,Creature,Dark Assassin Giant of the Magical Forest
+23,Artifact,Urgent Grim Ghost Wand
+24,Artifact,Scythe
+25,Creature,Magi
+26,Enchantment,Agony
+27,Creature,Paladin
+28,Spell,Lightning
+29,Spell,Solar Fury
+30,Creature,Spider
+31,Creature,Dark Nameless Dragon of Illusion
+32,Creature,Frozen Grand Wizard of the Void
+33,Enchantment,Drain
+34,Enchantment,Age
+35,Creature,Frozen Fighter Kraken
+36,Spell,Ardent Solar Sorrow
+37,Creature,Berserker
+38,Creature,Wolf
+39,Creature,Berserker
+40,Spell,Pandemonium
+41,Creature,Berserker
+42,Creature,Warlock
+43,Creature,Fairy
+44,Enchantment,Shimmering Strength

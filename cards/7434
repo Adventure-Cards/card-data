@@ -1,46 +1,46 @@
-==================,DECK,7434,Light
-0,Artifact,Common,Boots
-1,Enchantment,Common,Shield
-2,Enchantment,Common,Shade
-3,Spell,Legendary,Urgent Stricken
-4,Artifact,Rare,Corpse Divine Robe
-5,Spell,Common,Torment
-6,Enchantment,Common,Blight
-7,Creature,Rare,Snow Fighter Fairy
-8,Enchantment,Rare,Frigid Lethargy
-9,Creature,Legendary,Death King Orge of the Mountains
-10,Spell,Rare,Hateful Burst
-11,Creature,Common,Elf
-12,Artifact,Legendary,Extreme Ring
-13,Creature,Common,Spider
-14,Artifact,Common,Cloak
-15,Enchantment,Legendary,Mighty Shrink
-16,Enchantment,Common,Shade
-17,Spell,Rare,Cataclysmic Hypnosis
-18,Creature,Common,Warlock
-19,Creature,Common,Orc
-20,Enchantment,Common,Flight
-21,Creature,Legendary,Aura Assassin Cyclops of the Golden Palace
-22,Enchantment,Common,Strength
-23,Creature,Common,Wolf
-24,Spell,Legendary,Instant Infuriate
-25,Enchantment,Common,Age
-26,Enchantment,Common,Haste
-27,Creature,Rare,Aura Queen Fairy
-28,Enchantment,Mythic,Mighty Haste
-29,Spell,Rare,Miracle Infuriate
-30,Creature,Rare,Earth Knight Minotaur
-31,Enchantment,Common,Age
-32,Creature,Common,Elf
-33,Creature,Rare,Aura Monk Berserker
-34,Enchantment,Mythic,Urgent Shade
-35,Artifact,Rare,Dark Greaves
-36,Spell,Common,Stricken
-37,Creature,Legendary,Earth Knight Giant of the Low Hills
-38,Creature,Common,Goblin
-39,Creature,Common,Orc
-40,Creature,Legendary,Dark Queen Giant of the Swamp
-41,Enchantment,Rare,Solar Agony
-42,Creature,Rare,Frozen King Griffin
-43,Enchantment,Common,Deathgrip
-44,Spell,Common,Revive
+==================,DECK,7434
+0,Artifact,Boots
+1,Enchantment,Shield
+2,Enchantment,Drain
+3,Spell,Mighty Necro Fire
+4,Artifact,Corpse Divine Robe
+5,Spell,Maelstrom
+6,Enchantment,Shade
+7,Creature,Snow Fighter Kraken
+8,Enchantment,Grim Invert
+9,Creature,Death King Elf of the Mountains
+10,Spell,Sorrow Rage
+11,Creature,Warlock
+12,Artifact,Ardent Miracle Ring
+13,Creature,Paladin
+14,Artifact,Cloak
+15,Enchantment,Clever Chimeric Shield
+16,Enchantment,Drain
+17,Spell,Chimeric Rage
+18,Creature,Berserker
+19,Creature,Spider
+20,Enchantment,Shrink
+21,Creature,Aura Assassin Giant of the Golden Palace
+22,Enchantment,Shield
+23,Creature,Wolf
+24,Spell,Potent Necro Ice
+25,Enchantment,Age
+26,Enchantment,Age
+27,Creature,Aura Queen Kraken
+28,Enchantment,Zealous Miracle Alacrity
+29,Spell,Life Fury
+30,Creature,Earth Knight Cyclops
+31,Enchantment,Lethargy
+32,Creature,Warlock
+33,Creature,Aura Monk Goblin
+34,Enchantment,Ardent Necro Lethargy
+35,Artifact,Dark Greaves
+36,Spell,Gravitation
+37,Creature,Earth Knight Dwarf of the Low Hills
+38,Creature,Skin-Walker
+39,Creature,Spider
+40,Creature,Dark Queen Dwarf of the Swamp
+41,Enchantment,Corpse Strength
+42,Creature,Frozen King Griffin
+43,Enchantment,Firebreath
+44,Spell,Stun

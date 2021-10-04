@@ -1,46 +1,46 @@
-==================,DECK,4940,Light
-0,Enchantment,Common,Invert
-1,Enchantment,Common,Shade
-2,Creature,Common,Spider
-3,Creature,Common,Spider
-4,Creature,Common,Elf
-5,Creature,Legendary,Snow Knight Oni of the Bright Mountains
-6,Enchantment,Common,Flight
-7,Spell,Common,Infuriate
-8,Spell,Rare,Corpse Invisibility
-9,Creature,Rare,Dark Merchant Fairy
-10,Spell,Common,Burn
-11,Spell,Common,Gravitation
-12,Creature,Legendary,Aura Warrior Oni of the Low Hills
-13,Creature,Common,Orc
-14,Creature,Rare,Dark Fighter Berserker
-15,Spell,Rare,Oblivion Wall
-16,Creature,Rare,Aura Monk Berserker
-17,Creature,Common,Warlock
-18,Enchantment,Common,Strength
-19,Enchantment,Common,Age
-20,Creature,Common,Wolf
-21,Enchantment,Mythic,Clever Flight
-22,Enchantment,Common,Shrink
-23,Creature,Legendary,Dark Thief Giant of the Golden Palace
-24,Spell,Common,Wall
-25,Artifact,Rare,Grim Ghost Wand
-26,Creature,Legendary,Earth Thief Giant of the Plains
-27,Enchantment,Rare,Dark Strength
-28,Creature,Common,Dwarf
-29,Creature,Common,Magi
-30,Artifact,Common,Greaves
-31,Creature,Common,Wolf
-32,Enchantment,Mythic,Mighty Flight
-33,Spell,Common,Reanimate
-34,Enchantment,Common,Agony
-35,Spell,Common,Reanimate
-36,Spell,Common,Maelstrom
-37,Creature,Legendary,Frozen Warrior Cyclops of the Haven
-38,Artifact,Rare,Forged Helmet
-39,Spell,Common,Wall
-40,Creature,Common,Elf
-41,Creature,Common,Elf
-42,Creature,Common,Warlock
-43,Creature,Common,Dwarf
-44,Spell,Rare,Apocalypse Stun
+==================,DECK,4940
+0,Enchantment,Age
+1,Enchantment,Age
+2,Creature,Paladin
+3,Creature,Paladin
+4,Creature,Warlock
+5,Creature,Snow Knight Oni of the Bright Mountains
+6,Enchantment,Flight
+7,Spell,Fire
+8,Spell,Hateful Fire
+9,Creature,Dark Merchant Kraken
+10,Spell,Maelstrom
+11,Spell,Ice
+12,Creature,Aura Warrior Oni of the Low Hills
+13,Creature,Spider
+14,Creature,Dark Fighter Goblin
+15,Spell,Grim Ice
+16,Creature,Aura Monk Goblin
+17,Creature,Berserker
+18,Enchantment,Firebreath
+19,Enchantment,Invert
+20,Creature,Wolf
+21,Enchantment,Zealous Grim Blight
+22,Enchantment,Invert
+23,Creature,Dark Thief Dwarf of the Golden Palace
+24,Spell,Fury
+25,Artifact,Victory Ghost Wand
+26,Creature,Earth Thief Dwarf of the Plains
+27,Enchantment,Cataclysmic Alacrity
+28,Creature,Magi
+29,Creature,Fairy
+30,Artifact,Greaves
+31,Creature,Wolf
+32,Enchantment,Clever Lunar Shield
+33,Spell,Frost
+34,Enchantment,Alacrity
+35,Spell,Maelstrom
+36,Spell,Reanimate
+37,Creature,Frozen Warrior Giant of the Haven
+38,Artifact,Sorrow Helmet
+39,Spell,Hypnosis
+40,Creature,Warlock
+41,Creature,Warlock
+42,Creature,Berserker
+43,Creature,Magi
+44,Spell,Grim Burn

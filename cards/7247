@@ -1,46 +1,46 @@
-==================,DECK,7247,Light
-0,Creature,Common,Goblin
-1,Artifact,Common,Tome
-2,Creature,Common,Wolf
-3,Spell,Rare,Oblivion Assault
-4,Enchantment,Common,Agony
-5,Creature,Common,Dwarf
-6,Artifact,Common,Cloak
-7,Enchantment,Mythic,Clever Agony
-8,Creature,Rare,Light Monk Skin-Walker
-9,Spell,Rare,Apocalypse Burn
-10,Creature,Common,Spider
-11,Enchantment,Common,Haste
-12,Enchantment,Common,Alacrity
-13,Creature,Rare,Death Thief Berserker
-14,Creature,Common,Spider
-15,Creature,Common,Elf
-16,Creature,Legendary,Dark Assassin Orge of the Frozen Castle
-17,Enchantment,Rare,Solar Invert
-18,Enchantment,Common,Shrink
-19,Creature,Common,Ghoul
-20,Creature,Common,Wolf
-21,Enchantment,Common,Drain
-22,Artifact,Common,Bracers
-23,Creature,Rare,Death Thief Fairy
-24,Spell,Common,Pandemonium
-25,Spell,Common,Hypnosis
-26,Artifact,Common,Staff
-27,Creature,Rare,Frozen Thief Skin-Walker
-28,Spell,Legendary,Mighty Infuriate
-29,Creature,Common,Spider
-30,Spell,Rare,Cataclysmic Ice
-31,Enchantment,Rare,Oblivion Strength
-32,Creature,Legendary,Death Thief Oni of the Magical Forest
-33,Creature,Common,Wolf
-34,Enchantment,Common,Agony
-35,Enchantment,Mythic,Clever Invert
-36,Enchantment,Common,Blight
-37,Creature,Common,Orc
-38,Creature,Common,Magi
-39,Creature,Mythic,Death Ancient Wizard of the Dead
-40,Creature,Common,Eagle
-41,Creature,Common,Elf
-42,Creature,Common,Paladin
-43,Spell,Common,Assault
-44,Creature,Common,Ghoul
+==================,DECK,7247
+0,Creature,Skin-Walker
+1,Artifact,Tome
+2,Creature,Wolf
+3,Spell,Oblivion Infuriate
+4,Enchantment,Deathgrip
+5,Creature,Magi
+6,Artifact,Cloak
+7,Enchantment,Dire Life Shade
+8,Creature,Light Monk Orc
+9,Spell,Nimble Freeze
+10,Creature,Paladin
+11,Enchantment,Firebreath
+12,Enchantment,Drain
+13,Creature,Death Thief Goblin
+14,Creature,Paladin
+15,Creature,Warlock
+16,Creature,Dark Assassin Elf of the Frozen Castle
+17,Enchantment,Shimmering Agony
+18,Enchantment,Shield
+19,Creature,Ghoul
+20,Creature,Wolf
+21,Enchantment,Lethargy
+22,Artifact,Bracers
+23,Creature,Death Thief Kraken
+24,Spell,Wall
+25,Spell,Heal
+26,Artifact,Staff
+27,Creature,Frozen Thief Orc
+28,Spell,Empyrean Chimeric Maelstrom
+29,Creature,Paladin
+30,Spell,Gloom Fire
+31,Enchantment,Nimble Invert
+32,Creature,Death Thief Oni of the Magical Forest
+33,Creature,Wolf
+34,Enchantment,Strength
+35,Enchantment,Instant Oblivion Drain
+36,Enchantment,Alacrity
+37,Creature,Spider
+38,Creature,Fairy
+39,Creature,Death Ancient Wizard of the Dead
+40,Creature,Eagle
+41,Creature,Warlock
+42,Creature,Troll
+43,Spell,Frost
+44,Creature,Ghoul

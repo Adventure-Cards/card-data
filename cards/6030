@@ -1,46 +1,46 @@
-==================,DECK,6030,Light
-0,Creature,Rare,Light Thief Minotaur
-1,Creature,Rare,Death Rogue Skin-Walker
-2,Creature,Common,Orc
-3,Artifact,Common,Gauntlet
-4,Creature,Common,Ghoul
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Goblin
-8,Spell,Common,Lightning
-9,Creature,Common,Goblin
-10,Creature,Common,Eagle
-11,Creature,Common,Goblin
-12,Creature,Common,Wolf
-13,Creature,Common,Eagle
-14,Spell,Common,Sorrow
-15,Enchantment,Rare,Forged Shade
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Warlock
-18,Enchantment,Common,Alacrity
-19,Spell,Common,Torment
-20,Artifact,Legendary,Urgent Belt
-21,Creature,Common,Elf
-22,Artifact,Common,Sword
-23,Creature,Mythic,Snow Ancient Wizard of Hate
-24,Artifact,Rare,Gloom Staff
-25,Spell,Common,Heal
-26,Creature,Common,Warlock
-27,Creature,Common,Dwarf
-28,Spell,Common,Revive
-29,Artifact,Common,Potion
-30,Creature,Common,Magi
-31,Enchantment,Legendary,Urgent Alacrity
-32,Creature,Common,Orc
-33,Creature,Common,Goblin
-34,Artifact,Rare,Apocalypse Staff
-35,Enchantment,Common,Invert
-36,Spell,Common,Reanimate
-37,Enchantment,Legendary,Extreme Blight
-38,Spell,Common,Heal
-39,Creature,Rare,Dark Lord Berserker
-40,Spell,Common,Torment
-41,Spell,Common,Sorrow
-42,Creature,Common,Magi
-43,Creature,Common,Wolf
-44,Creature,Common,Dwarf
+==================,DECK,6030
+0,Creature,Light Thief Cyclops
+1,Creature,Death Rogue Orc
+2,Creature,Spider
+3,Artifact,Gauntlet
+4,Creature,Ghoul
+5,Creature,Magi
+6,Enchantment,Alacrity
+7,Creature,Skin-Walker
+8,Spell,Tempest
+9,Creature,Skin-Walker
+10,Creature,Eagle
+11,Creature,Skin-Walker
+12,Creature,Wolf
+13,Creature,Eagle
+14,Spell,Gale
+15,Enchantment,Chimeric Shield
+16,Enchantment,Shade
+17,Creature,Berserker
+18,Enchantment,Drain
+19,Spell,Stricken
+20,Artifact,Dire Solar Belt
+21,Creature,Warlock
+22,Artifact,Sword
+23,Creature,Snow Ancient Wizard of Hate
+24,Artifact,Cataclysmic Staff
+25,Spell,Pandemonium
+26,Creature,Berserker
+27,Creature,Magi
+28,Spell,Hypnosis
+29,Artifact,Potion
+30,Creature,Fairy
+31,Enchantment,Irate Forged Deathgrip
+32,Creature,Spider
+33,Creature,Skin-Walker
+34,Artifact,Apocalypse Staff
+35,Enchantment,Drain
+36,Spell,Ice
+37,Enchantment,Empyrean Cataclysmic Firebreath
+38,Spell,Freeze
+39,Creature,Dark Lord Goblin
+40,Spell,Freeze
+41,Spell,Tempest
+42,Creature,Fairy
+43,Creature,Wolf
+44,Creature,Magi

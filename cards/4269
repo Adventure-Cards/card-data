@@ -1,46 +1,46 @@
-==================,DECK,4269,Light
-0,Enchantment,Common,Invert
-1,Creature,Common,Goblin
-2,Enchantment,Rare,Cataclysmic Shrink
-3,Creature,Common,Spider
-4,Enchantment,Common,Flight
-5,Spell,Common,Rage
-6,Creature,Rare,Aura Priest Griffin
-7,Enchantment,Common,Haste
-8,Creature,Common,Warlock
-9,Enchantment,Mythic,Angry Shrink
-10,Spell,Rare,Lunar Hypnosis
-11,Creature,Common,Goblin
-12,Enchantment,Common,Deathgrip
-13,Enchantment,Common,Flight
-14,Artifact,Common,Ghost Wand
-15,Spell,Common,Assault
-16,Creature,Legendary,Dark Knight Kraken of the Frozen Castle
-17,Creature,Rare,Frozen Rogue Griffin
-18,Enchantment,Common,Alacrity
-19,Creature,Rare,Frozen Monk Berserker
-20,Creature,Common,Eagle
-21,Creature,Common,Magi
-22,Creature,Rare,Snow King Skin-Walker
-23,Creature,Common,Dwarf
-24,Creature,Common,Eagle
-25,Enchantment,Common,Age
-26,Spell,Common,Pandemonium
-27,Enchantment,Common,Deathgrip
-28,Creature,Rare,Snow Undead Berserker
-29,Creature,Rare,Snow Lord Hydra
-30,Spell,Common,Torment
-31,Spell,Legendary,Intense Fury
-32,Spell,Common,Lightning
-33,Creature,Common,Dwarf
-34,Spell,Rare,Cataclysmic Burst
-35,Spell,Rare,Hateful Reanimate
-36,Creature,Rare,Snow Warrior Minotaur
-37,Enchantment,Common,Alacrity
-38,Spell,Common,Ice
-39,Creature,Rare,Earth Merchant Fairy
-40,Creature,Common,Wolf
-41,Creature,Common,Wolf
-42,Creature,Rare,Death Assassin Minotaur
-43,Enchantment,Rare,Cataclysmic Age
-44,Creature,Common,Goblin
+==================,DECK,4269
+0,Enchantment,Lethargy
+1,Creature,Skin-Walker
+2,Enchantment,Chimeric Flight
+3,Creature,Paladin
+4,Enchantment,Shield
+5,Spell,Lightning
+6,Creature,Aura Priest Griffin
+7,Enchantment,Haste
+8,Creature,Berserker
+9,Enchantment,Empyrean Chimeric Firebreath
+10,Spell,Dark Maelstrom
+11,Creature,Skin-Walker
+12,Enchantment,Shade
+13,Enchantment,Invert
+14,Artifact,Ghost Wand
+15,Spell,Gravitation
+16,Creature,Dark Knight Ogre of the Frozen Castle
+17,Creature,Frozen Rogue Griffin
+18,Enchantment,Shrink
+19,Creature,Frozen Monk Goblin
+20,Creature,Eagle
+21,Creature,Fairy
+22,Creature,Snow King Orc
+23,Creature,Magi
+24,Creature,Eagle
+25,Enchantment,Deathgrip
+26,Spell,Invisibility
+27,Enchantment,Alacrity
+28,Creature,Snow Undead Goblin
+29,Creature,Snow Lord Hydra
+30,Spell,Torment
+31,Spell,Zealous Hateful Gravitation
+32,Spell,Stricken
+33,Creature,Magi
+34,Spell,Dark Reanimate
+35,Spell,Gloom Ice
+36,Creature,Snow Warrior Cyclops
+37,Enchantment,Shield
+38,Spell,Heal
+39,Creature,Earth Merchant Kraken
+40,Creature,Wolf
+41,Creature,Wolf
+42,Creature,Death Assassin Cyclops
+43,Enchantment,Gloom Shrink
+44,Creature,Skin-Walker

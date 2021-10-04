@@ -1,46 +1,46 @@
-==================,DECK,7462,Medium
-0,Artifact,Common,Sword
-1,Creature,Mythic,Earth Chaos Demon of the Shadows
-2,Enchantment,Common,Haste
-3,Enchantment,Common,Shrink
-4,Spell,Common,Infuriate
-5,Creature,Common,Wolf
-6,Spell,Mythic,Angry Hypnosis
-7,Enchantment,Common,Strength
-8,Enchantment,Rare,Corpse Invert
-9,Enchantment,Legendary,Urgent Haste
-10,Spell,Common,Burn
-11,Artifact,Common,Tome
-12,Spell,Common,Stun
-13,Creature,Common,Goblin
-14,Creature,Rare,Aura Thief Berserker
-15,Creature,Common,Dwarf
-16,Creature,Rare,Dark King Berserker
-17,Creature,Rare,Death Lord Hydra
-18,Artifact,Legendary,Clever Gauntlet
-19,Creature,Legendary,Death Warrior Kraken of the Black Stone
-20,Creature,Rare,Light Priest Berserker
-21,Enchantment,Common,Shield
-22,Enchantment,Common,Agony
-23,Spell,Rare,Grim Heal
-24,Enchantment,Mythic,Urgent Shade
-25,Creature,Common,Goblin
-26,Spell,Common,Frenzy
-27,Creature,Common,Wolf
-28,Creature,Legendary,Aura Monk Oni of the Polar Woods
-29,Creature,Rare,Snow Assassin Fairy
-30,Spell,Common,Gravitation
-31,Creature,Common,Wolf
-32,Artifact,Common,Ring
-33,Creature,Common,Paladin
-34,Creature,Rare,Snow Knight Griffin
-35,Creature,Mythic,Earth Undead Phoenix of the Shadows
-36,Creature,Legendary,Frozen Merchant Cyclops of the Plains
-37,Creature,Rare,Snow Queen Hydra
-38,Creature,Common,Paladin
-39,Spell,Common,Reanimate
-40,Creature,Legendary,Earth Lord Oni of the Polar Woods
-41,Creature,Common,Goblin
-42,Enchantment,Common,Shrink
-43,Spell,Rare,Nimble Rage
-44,Creature,Common,Warlock
+==================,DECK,7462
+0,Artifact,Sword
+1,Creature,Earth Chaos Demon of the Shadows
+2,Enchantment,Agony
+3,Enchantment,Lethargy
+4,Spell,Lightning
+5,Creature,Wolf
+6,Spell,Potent Gloom Burn
+7,Enchantment,Strength
+8,Enchantment,Shimmering Agony
+9,Enchantment,Zealous Corpse Deathgrip
+10,Spell,Frenzy
+11,Artifact,Tome
+12,Spell,Pandemonium
+13,Creature,Skin-Walker
+14,Creature,Aura Thief Goblin
+15,Creature,Magi
+16,Creature,Dark King Goblin
+17,Creature,Death Lord Hydra
+18,Artifact,Clever Apocalypse Gauntlet
+19,Creature,Death Warrior Ogre of the Black Stone
+20,Creature,Light Priest Goblin
+21,Enchantment,Strength
+22,Enchantment,Agony
+23,Spell,Frigid Freeze
+24,Enchantment,Ardent Necro Lethargy
+25,Creature,Skin-Walker
+26,Spell,Invisibility
+27,Creature,Wolf
+28,Creature,Aura Monk Oni of the Polar Woods
+29,Creature,Snow Assassin Kraken
+30,Spell,Revive
+31,Creature,Wolf
+32,Artifact,Ring
+33,Creature,Troll
+34,Creature,Snow Knight Griffin
+35,Creature,Earth Undead Phoenix of the Shadows
+36,Creature,Frozen Merchant Giant of the Plains
+37,Creature,Snow Queen Hydra
+38,Creature,Troll
+39,Spell,Tempest
+40,Creature,Earth Lord Oni of the Polar Woods
+41,Creature,Skin-Walker
+42,Enchantment,Age
+43,Spell,Necro Ice
+44,Creature,Berserker

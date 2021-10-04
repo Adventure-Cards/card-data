@@ -1,46 +1,46 @@
-==================,DECK,5904,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Age
-2,Enchantment,Common,Invert
-3,Creature,Common,Eagle
-4,Creature,Legendary,Light Knight Orge of the Swamp
-5,Creature,Common,Ghoul
-6,Artifact,Common,Sigil
-7,Enchantment,Common,Deathgrip
-8,Spell,Common,Heal
-9,Creature,Common,Paladin
-10,Spell,Common,Pandemonium
-11,Enchantment,Common,Drain
-12,Spell,Common,Vortex
-13,Spell,Common,Stricken
-14,Creature,Rare,Dark Fighter Griffin
-15,Enchantment,Rare,Nature Shrink
-16,Creature,Common,Warlock
-17,Creature,Common,Orc
-18,Spell,Common,Rage
-19,Creature,Rare,Light Assassin Berserker
-20,Artifact,Common,Crown
-21,Creature,Legendary,Dark Priest Kraken of the Low Hills
-22,Spell,Rare,Grim Lightning
-23,Creature,Rare,Death Rogue Minotaur
-24,Enchantment,Common,Shade
-25,Creature,Common,Spider
-26,Spell,Rare,Hateful Reanimate
-27,Enchantment,Common,Shield
-28,Creature,Rare,Earth Rogue Griffin
-29,Enchantment,Common,Haste
-30,Enchantment,Common,Deathgrip
-31,Creature,Mythic,Aura Ancient Wizard of the Light
-32,Artifact,Common,Potion
-33,Spell,Common,Assault
-34,Enchantment,Common,Alacrity
-35,Enchantment,Common,Age
-36,Spell,Legendary,Intense Pandemonium
-37,Artifact,Legendary,Potent Potion
-38,Enchantment,Rare,Frigid Strength
-39,Creature,Rare,Aura Monk Berserker
-40,Creature,Common,Warlock
-41,Creature,Common,Wolf
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Agony
-44,Creature,Common,Ghoul
+==================,DECK,5904
+0,Creature,Fairy
+1,Enchantment,Shade
+2,Enchantment,Strength
+3,Creature,Eagle
+4,Creature,Light Knight Elf of the Swamp
+5,Creature,Ghoul
+6,Artifact,Sigil
+7,Enchantment,Shrink
+8,Spell,Maelstrom
+9,Creature,Troll
+10,Spell,Fire
+11,Enchantment,Shrink
+12,Spell,Tempest
+13,Spell,Fury
+14,Creature,Dark Fighter Griffin
+15,Enchantment,Necro Lethargy
+16,Creature,Berserker
+17,Creature,Spider
+18,Spell,Torment
+19,Creature,Light Assassin Goblin
+20,Artifact,Crown
+21,Creature,Dark Priest Ogre of the Low Hills
+22,Spell,Nimble Gale
+23,Creature,Death Rogue Cyclops
+24,Enchantment,Invert
+25,Creature,Paladin
+26,Spell,Miracle Sorrow
+27,Enchantment,Alacrity
+28,Creature,Earth Rogue Griffin
+29,Enchantment,Shield
+30,Enchantment,Lethargy
+31,Creature,Aura Ancient Wizard of the Light
+32,Artifact,Potion
+33,Spell,Fireball
+34,Enchantment,Age
+35,Enchantment,Shade
+36,Spell,Empyrean Solar Fireball
+37,Artifact,Ardent Nimble Potion
+38,Enchantment,Nimble Shade
+39,Creature,Aura Monk Goblin
+40,Creature,Berserker
+41,Creature,Wolf
+42,Creature,Ghoul
+43,Enchantment,Alacrity
+44,Creature,Ghoul

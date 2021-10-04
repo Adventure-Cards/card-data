@@ -1,46 +1,46 @@
-==================,DECK,6113,Light
-0,Creature,Common,Spider
-1,Spell,Common,Frenzy
-2,Creature,Common,Eagle
-3,Spell,Rare,Cataclysmic Gale
-4,Creature,Rare,Light Lord Hydra
-5,Creature,Common,Paladin
-6,Spell,Rare,Hateful Fury
-7,Creature,Legendary,Aura Monk Kraken of the Magical Forest
-8,Creature,Rare,Death Priest Berserker
-9,Creature,Common,Orc
-10,Creature,Common,Magi
-11,Enchantment,Legendary,Potent Invert
-12,Creature,Rare,Dark Thief Minotaur
-13,Creature,Rare,Light Priest Hydra
-14,Creature,Common,Elf
-15,Creature,Rare,Snow Undead Minotaur
-16,Creature,Common,Goblin
-17,Spell,Common,Assault
-18,Artifact,Common,Ring
-19,Creature,Common,Warlock
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Flight
-22,Artifact,Common,Bracers
-23,Spell,Rare,Dark Vortex
-24,Enchantment,Common,Invert
-25,Enchantment,Rare,Solar Invert
-26,Enchantment,Mythic,Urgent Shrink
-27,Spell,Common,Reanimate
-28,Spell,Rare,Forged Vortex
-29,Creature,Legendary,Earth Warrior Oni of the Frozen Castle
-30,Creature,Common,Eagle
-31,Creature,Common,Paladin
-32,Enchantment,Mythic,Instant Shrink
-33,Creature,Rare,Death Lord Minotaur
-34,Creature,Common,Ghoul
-35,Creature,Common,Elf
-36,Creature,Common,Goblin
-37,Enchantment,Common,Lethargy
-38,Creature,Legendary,Snow Fighter Kraken of the West
-39,Enchantment,Common,Shield
-40,Spell,Common,Burn
-41,Creature,Common,Dwarf
-42,Enchantment,Mythic,Mighty Deathgrip
-43,Enchantment,Common,Shade
-44,Spell,Common,Maelstrom
+==================,DECK,6113
+0,Creature,Paladin
+1,Spell,Infuriate
+2,Creature,Eagle
+3,Spell,Cataclysmic Ice
+4,Creature,Light Lord Hydra
+5,Creature,Troll
+6,Spell,Dark Burn
+7,Creature,Aura Monk Ogre of the Magical Forest
+8,Creature,Death Priest Goblin
+9,Creature,Spider
+10,Creature,Fairy
+11,Enchantment,Dire Oblivion Shade
+12,Creature,Dark Thief Cyclops
+13,Creature,Light Priest Hydra
+14,Creature,Warlock
+15,Creature,Snow Undead Cyclops
+16,Creature,Skin-Walker
+17,Spell,Gale
+18,Artifact,Ring
+19,Creature,Berserker
+20,Enchantment,Age
+21,Enchantment,Strength
+22,Artifact,Bracers
+23,Spell,Sorrow Burn
+24,Enchantment,Strength
+25,Enchantment,Shimmering Deathgrip
+26,Enchantment,Zealous Necro Deathgrip
+27,Spell,Assault
+28,Spell,Miracle Hypnosis
+29,Creature,Earth Warrior Oni of the Frozen Castle
+30,Creature,Eagle
+31,Creature,Troll
+32,Enchantment,Clever Necro Lethargy
+33,Creature,Death Lord Cyclops
+34,Creature,Ghoul
+35,Creature,Warlock
+36,Creature,Skin-Walker
+37,Enchantment,Strength
+38,Creature,Snow Fighter Ogre of the West
+39,Enchantment,Drain
+40,Spell,Infuriate
+41,Creature,Magi
+42,Enchantment,Clever Sorrow Shield
+43,Enchantment,Shield
+44,Spell,Hypnosis

@@ -1,46 +1,46 @@
-==================,DECK,6982,Light
-0,Spell,Common,Hypnosis
-1,Creature,Legendary,Death Monk Kraken of the Frozen Castle
-2,Creature,Common,Eagle
-3,Spell,Common,Revive
-4,Creature,Legendary,Light Fighter Giant of the Plains
-5,Creature,Common,Goblin
-6,Enchantment,Mythic,Urgent Drain
-7,Creature,Common,Elf
-8,Creature,Common,Ghoul
-9,Enchantment,Legendary,Clever Haste
-10,Enchantment,Common,Agony
-11,Creature,Rare,Death Lord Hydra
-12,Artifact,Common,Helm
-13,Creature,Rare,Snow Rogue Hydra
-14,Artifact,Common,Boots
-15,Spell,Common,Heal
-16,Creature,Rare,Aura Thief Griffin
-17,Creature,Common,Warlock
-18,Spell,Rare,Lunar Reanimate
-19,Creature,Common,Eagle
-20,Creature,Common,Ghoul
-21,Enchantment,Rare,Frigid Shade
-22,Creature,Common,Magi
-23,Artifact,Common,Helmet
-24,Enchantment,Common,Lethargy
-25,Spell,Legendary,Mighty Wall
-26,Creature,Legendary,Snow Lord Kraken of the Mountains
-27,Creature,Common,Eagle
-28,Creature,Legendary,Aura Lord Orge of the Haven
-29,Creature,Common,Spider
-30,Enchantment,Common,Shrink
-31,Creature,Common,Magi
-32,Spell,Common,Pandemonium
-33,Enchantment,Legendary,Intense Shade
-34,Spell,Rare,Nature Infuriate
-35,Artifact,Rare,Frigid Ghost Wand
-36,Creature,Common,Elf
-37,Creature,Common,Orc
-38,Creature,Common,Magi
-39,Artifact,Common,Potion
-40,Creature,Common,Orc
-41,Spell,Common,Gale
-42,Creature,Common,Warlock
-43,Creature,Rare,Earth King Skin-Walker
-44,Creature,Rare,Light Merchant Berserker
+==================,DECK,6982
+0,Spell,Freeze
+1,Creature,Death Monk Ogre of the Frozen Castle
+2,Creature,Eagle
+3,Spell,Reanimate
+4,Creature,Light Fighter Dwarf of the Plains
+5,Creature,Skin-Walker
+6,Enchantment,Empyrean Forged Age
+7,Creature,Warlock
+8,Creature,Ghoul
+9,Enchantment,Zealous Life Blight
+10,Enchantment,Agony
+11,Creature,Death Lord Hydra
+12,Artifact,Helm
+13,Creature,Snow Rogue Hydra
+14,Artifact,Boots
+15,Spell,Revive
+16,Creature,Aura Thief Griffin
+17,Creature,Berserker
+18,Spell,Dark Assault
+19,Creature,Eagle
+20,Creature,Ghoul
+21,Enchantment,Frigid Drain
+22,Creature,Fairy
+23,Artifact,Helmet
+24,Enchantment,Flight
+25,Spell,Urgent Miracle Tempest
+26,Creature,Snow Lord Ogre of the Mountains
+27,Creature,Eagle
+28,Creature,Aura Lord Elf of the Haven
+29,Creature,Paladin
+30,Enchantment,Deathgrip
+31,Creature,Fairy
+32,Spell,Assault
+33,Enchantment,Urgent Necro Agony
+34,Spell,Corpse Invisibility
+35,Artifact,Apocalypse Ghost Wand
+36,Creature,Warlock
+37,Creature,Spider
+38,Creature,Fairy
+39,Artifact,Potion
+40,Creature,Spider
+41,Spell,Infuriate
+42,Creature,Berserker
+43,Creature,Earth King Orc
+44,Creature,Light Merchant Goblin

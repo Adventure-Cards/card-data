@@ -1,46 +1,46 @@
-==================,DECK,4815,Light
-0,Artifact,Common,Staff
-1,Creature,Common,Elf
-2,Enchantment,Common,Deathgrip
-3,Spell,Common,Gravitation
-4,Spell,Common,Reanimate
-5,Creature,Common,Elf
-6,Creature,Common,Goblin
-7,Artifact,Common,Cloak
-8,Creature,Legendary,Earth Merchant Oni of the Polar Woods
-9,Enchantment,Common,Invert
-10,Creature,Mythic,Frozen Undead Dragon of the Void
-11,Creature,Rare,Death Thief Hydra
-12,Artifact,Common,Bracers
-13,Creature,Common,Eagle
-14,Enchantment,Mythic,Intense Shield
-15,Enchantment,Common,Lethargy
-16,Enchantment,Common,Strength
-17,Enchantment,Common,Strength
-18,Creature,Common,Goblin
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Eagle
-22,Creature,Common,Eagle
-23,Spell,Common,Wall
-24,Creature,Common,Dwarf
-25,Creature,Common,Elf
-26,Artifact,Rare,Life Scythe
-27,Creature,Legendary,Light Rogue Orge of the Swamp
-28,Enchantment,Common,Blight
-29,Artifact,Common,Belt
-30,Creature,Common,Paladin
-31,Enchantment,Mythic,Intense Age
-32,Creature,Rare,Frozen Fighter Skin-Walker
-33,Creature,Rare,Dark Undead Hydra
-34,Enchantment,Rare,Nature Haste
-35,Creature,Common,Ghoul
-36,Creature,Legendary,Death Fighter Cyclops of the Plains
-37,Creature,Common,Wolf
-38,Creature,Rare,Frozen Rogue Hydra
-39,Spell,Common,Stricken
-40,Enchantment,Common,Lethargy
-41,Enchantment,Rare,Solar Shade
-42,Enchantment,Mythic,Urgent Alacrity
-43,Creature,Common,Goblin
-44,Enchantment,Common,Shrink
+==================,DECK,4815
+0,Artifact,Staff
+1,Creature,Warlock
+2,Enchantment,Firebreath
+3,Spell,Revive
+4,Spell,Stricken
+5,Creature,Warlock
+6,Creature,Skin-Walker
+7,Artifact,Cloak
+8,Creature,Earth Merchant Oni of the Polar Woods
+9,Enchantment,Shade
+10,Creature,Frozen Undead Dragon of the Void
+11,Creature,Death Thief Hydra
+12,Artifact,Bracers
+13,Creature,Eagle
+14,Enchantment,Dire Nature Age
+15,Enchantment,Shrink
+16,Enchantment,Invert
+17,Enchantment,Lethargy
+18,Creature,Skin-Walker
+19,Creature,Ghoul
+20,Enchantment,Deathgrip
+21,Creature,Eagle
+22,Creature,Eagle
+23,Spell,Burst
+24,Creature,Magi
+25,Creature,Warlock
+26,Artifact,Grim Scythe
+27,Creature,Light Rogue Elf of the Swamp
+28,Enchantment,Alacrity
+29,Artifact,Belt
+30,Creature,Troll
+31,Enchantment,Mighty Nature Agony
+32,Creature,Frozen Fighter Orc
+33,Creature,Dark Undead Hydra
+34,Enchantment,Corpse Age
+35,Creature,Ghoul
+36,Creature,Death Fighter Giant of the Plains
+37,Creature,Wolf
+38,Creature,Frozen Rogue Hydra
+39,Spell,Wall
+40,Enchantment,Drain
+41,Enchantment,Necro Age
+42,Enchantment,Urgent Forged Agony
+43,Creature,Skin-Walker
+44,Enchantment,Blight

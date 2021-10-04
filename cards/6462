@@ -1,46 +1,46 @@
-==================,DECK,6462,Light
-0,Spell,Common,Invisibility
-1,Creature,Common,Paladin
-2,Spell,Rare,Shimmering Maelstrom
-3,Spell,Rare,Dark Frenzy
-4,Artifact,Common,Helmet
-5,Creature,Mythic,Dark Ancient Wizard of Illusion
-6,Creature,Legendary,Frozen Priest Orge of the Border
-7,Enchantment,Common,Strength
-8,Enchantment,Common,Haste
-9,Spell,Common,Burn
-10,Enchantment,Common,Invert
-11,Creature,Common,Elf
-12,Spell,Common,Stun
-13,Creature,Common,Wolf
-14,Artifact,Rare,Gloom Pendant
-15,Creature,Common,Eagle
-16,Creature,Common,Eagle
-17,Spell,Common,Fury
-18,Creature,Common,Goblin
-19,Artifact,Common,Gloves
-20,Creature,Common,Magi
-21,Artifact,Legendary,Mighty Helmet
-22,Spell,Common,Fury
-23,Creature,Common,Spider
-24,Creature,Common,Elf
-25,Creature,Common,Spider
-26,Creature,Common,Dwarf
-27,Creature,Common,Dwarf
-28,Creature,Common,Dwarf
-29,Artifact,Legendary,Clever Greaves
-30,Creature,Rare,Dark Priest Griffin
-31,Enchantment,Common,Haste
-32,Artifact,Rare,Cataclysmic Helm
-33,Creature,Common,Goblin
-34,Artifact,Legendary,Mighty Shield
-35,Spell,Common,Burn
-36,Enchantment,Common,Invert
-37,Creature,Common,Magi
-38,Enchantment,Common,Strength
-39,Artifact,Common,Ring
-40,Enchantment,Common,Age
-41,Creature,Common,Elf
-42,Creature,Common,Eagle
-43,Enchantment,Rare,Lunar Drain
-44,Artifact,Rare,Nature Ring
+==================,DECK,6462
+0,Spell,Freeze
+1,Creature,Troll
+2,Spell,Corpse Vortex
+3,Spell,Miracle Rage
+4,Artifact,Helmet
+5,Creature,Dark Ancient Wizard of Illusion
+6,Creature,Frozen Priest Elf of the Border
+7,Enchantment,Haste
+8,Enchantment,Alacrity
+9,Spell,Hypnosis
+10,Enchantment,Deathgrip
+11,Creature,Warlock
+12,Spell,Assault
+13,Creature,Wolf
+14,Artifact,Dark Pendant
+15,Creature,Eagle
+16,Creature,Eagle
+17,Spell,Infuriate
+18,Creature,Skin-Walker
+19,Artifact,Gloves
+20,Creature,Fairy
+21,Artifact,Irate Dark Helmet
+22,Spell,Fireball
+23,Creature,Paladin
+24,Creature,Warlock
+25,Creature,Paladin
+26,Creature,Magi
+27,Creature,Magi
+28,Creature,Magi
+29,Artifact,Urgent Victory Greaves
+30,Creature,Dark Priest Griffin
+31,Enchantment,Blight
+32,Artifact,Gloom Helm
+33,Creature,Skin-Walker
+34,Artifact,Dire Dark Shield
+35,Spell,Pandemonium
+36,Enchantment,Shrink
+37,Creature,Fairy
+38,Enchantment,Drain
+39,Artifact,Ring
+40,Enchantment,Invert
+41,Creature,Warlock
+42,Creature,Eagle
+43,Enchantment,Dark Shield
+44,Artifact,Hateful Ring

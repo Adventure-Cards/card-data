@@ -1,46 +1,46 @@
-==================,DECK,7119,Medium
-0,Spell,Mythic,Mighty Heal
-1,Creature,Legendary,Light Priest Giant of the Bright Mountains
-2,Creature,Common,Warlock
-3,Spell,Legendary,Clever Gravitation
-4,Creature,Rare,Dark Monk Skin-Walker
-5,Spell,Common,Heal
-6,Spell,Common,Infuriate
-7,Spell,Mythic,Angry Sorrow
-8,Creature,Common,Elf
-9,Spell,Rare,Nimble Revive
-10,Enchantment,Common,Drain
-11,Creature,Common,Goblin
-12,Creature,Legendary,Dark King Orge of the Low Hills
-13,Enchantment,Common,Shade
-14,Spell,Common,Wall
-15,Creature,Common,Magi
-16,Creature,Legendary,Death Assassin Orge of the Frozen Castle
-17,Creature,Mythic,Snow Undead Dragon of Hate
-18,Creature,Common,Dwarf
-19,Creature,Common,Goblin
-20,Spell,Common,Assault
-21,Creature,Common,Orc
-22,Enchantment,Rare,Shimmering Haste
-23,Creature,Common,Magi
-24,Enchantment,Common,Shield
-25,Creature,Mythic,Snow Time Phoenix of Hate
-26,Enchantment,Mythic,Dire Drain
-27,Spell,Legendary,Urgent Torment
-28,Enchantment,Rare,Hateful Age
-29,Creature,Common,Dwarf
-30,Creature,Common,Goblin
-31,Artifact,Common,Ring
-32,Creature,Rare,Frozen Knight Berserker
-33,Artifact,Common,Greaves
-34,Creature,Common,Orc
-35,Enchantment,Common,Haste
-36,Spell,Rare,Forged Vortex
-37,Enchantment,Rare,Grim Lethargy
-38,Enchantment,Common,Shade
-39,Enchantment,Common,Deathgrip
-40,Enchantment,Common,Lethargy
-41,Artifact,Common,Bracers
-42,Creature,Common,Paladin
-43,Artifact,Common,Sword
-44,Artifact,Common,Gloves
+==================,DECK,7119
+0,Spell,Ardent Miracle Fireball
+1,Creature,Light Priest Dwarf of the Bright Mountains
+2,Creature,Berserker
+3,Spell,Ardent Nimble Tempest
+4,Creature,Dark Monk Orc
+5,Spell,Rage
+6,Spell,Burst
+7,Spell,Clever Chimeric Burn
+8,Creature,Warlock
+9,Spell,Solar Assault
+10,Enchantment,Shield
+11,Creature,Skin-Walker
+12,Creature,Dark King Elf of the Low Hills
+13,Enchantment,Blight
+14,Spell,Stricken
+15,Creature,Fairy
+16,Creature,Death Assassin Elf of the Frozen Castle
+17,Creature,Snow Undead Dragon of Hate
+18,Creature,Magi
+19,Creature,Skin-Walker
+20,Spell,Hypnosis
+21,Creature,Spider
+22,Enchantment,Corpse Lethargy
+23,Creature,Fairy
+24,Enchantment,Shrink
+25,Creature,Snow Time Phoenix of Hate
+26,Enchantment,Empyrean Apocalypse Shade
+27,Spell,Ardent Necro Fury
+28,Enchantment,Gloom Firebreath
+29,Creature,Magi
+30,Creature,Skin-Walker
+31,Artifact,Ring
+32,Creature,Frozen Knight Goblin
+33,Artifact,Greaves
+34,Creature,Spider
+35,Enchantment,Strength
+36,Spell,Dark Wall
+37,Enchantment,Grim Shade
+38,Enchantment,Haste
+39,Enchantment,Haste
+40,Enchantment,Shade
+41,Artifact,Bracers
+42,Creature,Troll
+43,Artifact,Sword
+44,Artifact,Gloves

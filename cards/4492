@@ -1,46 +1,46 @@
-==================,DECK,4492,Medium
-0,Enchantment,Common,Strength
-1,Spell,Common,Lightning
-2,Creature,Common,Spider
-3,Artifact,Common,Divine Robe
-4,Creature,Common,Wolf
-5,Creature,Legendary,Light Monk Orge of the Mountains
-6,Spell,Rare,Nature Maelstrom
-7,Enchantment,Common,Alacrity
-8,Spell,Common,Hypnosis
-9,Spell,Rare,Corpse Heal
-10,Creature,Common,Magi
-11,Creature,Common,Ghoul
-12,Artifact,Common,Tome
-13,Creature,Common,Wolf
-14,Creature,Common,Wolf
-15,Creature,Common,Elf
-16,Enchantment,Legendary,Potent Haste
-17,Creature,Mythic,Snow Chaos Demon of Hate
-18,Enchantment,Rare,Nimble Agony
-19,Creature,Rare,Snow Assassin Minotaur
-20,Creature,Common,Ghoul
-21,Creature,Common,Dwarf
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Deathgrip
-24,Creature,Legendary,Frozen Undead Cyclops of the Frozen Castle
-25,Artifact,Rare,Grim Gauntlet
-26,Creature,Common,Goblin
-27,Creature,Common,Spider
-28,Creature,Common,Spider
-29,Spell,Common,Lightning
-30,Spell,Rare,Miracle Sorrow
-31,Creature,Mythic,Light Nameless Dragon of the Sky
-32,Creature,Rare,Earth Rogue Berserker
-33,Enchantment,Common,Agony
-34,Artifact,Common,Cloak
-35,Spell,Common,Vortex
-36,Enchantment,Common,Strength
-37,Enchantment,Mythic,Angry Deathgrip
-38,Creature,Common,Wolf
-39,Creature,Common,Wolf
-40,Creature,Rare,Light Priest Berserker
-41,Creature,Common,Goblin
-42,Creature,Rare,Aura Lord Griffin
-43,Artifact,Common,Scythe
-44,Artifact,Rare,Solar Pendant
+==================,DECK,4492
+0,Enchantment,Firebreath
+1,Spell,Wall
+2,Creature,Paladin
+3,Artifact,Divine Robe
+4,Creature,Wolf
+5,Creature,Light Monk Elf of the Mountains
+6,Spell,Solar Wall
+7,Enchantment,Shrink
+8,Spell,Vortex
+9,Spell,Forged Sorrow
+10,Creature,Fairy
+11,Creature,Ghoul
+12,Artifact,Tome
+13,Creature,Wolf
+14,Creature,Wolf
+15,Creature,Warlock
+16,Enchantment,Zealous Life Blight
+17,Creature,Snow Chaos Demon of Hate
+18,Enchantment,Corpse Deathgrip
+19,Creature,Snow Assassin Cyclops
+20,Creature,Ghoul
+21,Creature,Magi
+22,Creature,Ghoul
+23,Enchantment,Lethargy
+24,Creature,Frozen Undead Giant of the Frozen Castle
+25,Artifact,Life Gauntlet
+26,Creature,Skin-Walker
+27,Creature,Paladin
+28,Creature,Paladin
+29,Spell,Burn
+30,Spell,Frigid Rage
+31,Creature,Light Nameless Dragon of the Sky
+32,Creature,Earth Rogue Goblin
+33,Enchantment,Haste
+34,Artifact,Cloak
+35,Spell,Revive
+36,Enchantment,Strength
+37,Enchantment,Potent Sorrow Shrink
+38,Creature,Wolf
+39,Creature,Wolf
+40,Creature,Light Priest Goblin
+41,Creature,Skin-Walker
+42,Creature,Aura Lord Griffin
+43,Artifact,Scythe
+44,Artifact,Shimmering Pendant

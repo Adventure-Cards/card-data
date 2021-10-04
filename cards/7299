@@ -1,46 +1,46 @@
-==================,DECK,7299,Medium
-0,Creature,Rare,Snow Knight Hydra
-1,Creature,Common,Dwarf
-2,Creature,Rare,Death Priest Berserker
-3,Artifact,Common,Scepter
-4,Creature,Rare,Frozen Priest Hydra
-5,Spell,Rare,Lunar Reanimate
-6,Creature,Common,Paladin
-7,Creature,Legendary,Aura Fighter Cyclops of the Bright Mountains
-8,Creature,Common,Eagle
-9,Spell,Legendary,Instant Ice
-10,Creature,Legendary,Light Knight Kraken of the Low Hills
-11,Spell,Common,Assault
-12,Creature,Common,Elf
-13,Creature,Common,Goblin
-14,Creature,Rare,Dark Queen Hydra
-15,Spell,Common,Stun
-16,Enchantment,Common,Agony
-17,Artifact,Legendary,Mighty Helm
-18,Creature,Mythic,Death Nameless Phoenix of the Dead
-19,Enchantment,Legendary,Angry Invert
-20,Spell,Legendary,Urgent Frost
-21,Spell,Rare,Dark Vortex
-22,Artifact,Rare,Miracle Belt
-23,Enchantment,Common,Blight
-24,Creature,Common,Magi
-25,Enchantment,Common,Blight
-26,Enchantment,Common,Age
-27,Enchantment,Rare,Life Blight
-28,Enchantment,Rare,Apocalypse Haste
-29,Creature,Rare,Dark Rogue Hydra
-30,Spell,Common,Burst
-31,Enchantment,Common,Age
-32,Creature,Rare,Light King Fairy
-33,Spell,Common,Revive
-34,Artifact,Common,Potion
-35,Creature,Mythic,Frozen Chaos Wizard of the Void
-36,Creature,Common,Ghoul
-37,Spell,Common,Revive
-38,Spell,Rare,Grim Revive
-39,Creature,Common,Warlock
-40,Creature,Common,Orc
-41,Artifact,Rare,Gloom Potion
-42,Enchantment,Legendary,Instant Alacrity
-43,Spell,Rare,Miracle Burn
-44,Creature,Rare,Aura Merchant Berserker
+==================,DECK,7299
+0,Creature,Snow Knight Hydra
+1,Creature,Magi
+2,Creature,Death Priest Goblin
+3,Artifact,Scepter
+4,Creature,Frozen Priest Hydra
+5,Spell,Gloom Gale
+6,Creature,Troll
+7,Creature,Aura Fighter Giant of the Bright Mountains
+8,Creature,Eagle
+9,Spell,Empyrean Corpse Invisibility
+10,Creature,Light Knight Ogre of the Low Hills
+11,Spell,Maelstrom
+12,Creature,Warlock
+13,Creature,Skin-Walker
+14,Creature,Dark Queen Hydra
+15,Spell,Ice
+16,Enchantment,Strength
+17,Artifact,Dire Lunar Helm
+18,Creature,Death Nameless Phoenix of the Dead
+19,Enchantment,Dire Sorrow Firebreath
+20,Spell,Instant Necro Ice
+21,Spell,Gloom Fury
+22,Artifact,Nimble Belt
+23,Enchantment,Agony
+24,Creature,Fairy
+25,Enchantment,Blight
+26,Enchantment,Shrink
+27,Enchantment,Nimble Invert
+28,Enchantment,Life Haste
+29,Creature,Dark Rogue Hydra
+30,Spell,Assault
+31,Enchantment,Age
+32,Creature,Light King Kraken
+33,Spell,Reanimate
+34,Artifact,Potion
+35,Creature,Frozen Chaos Wizard of the Void
+36,Creature,Ghoul
+37,Spell,Gravitation
+38,Spell,Apocalypse Stricken
+39,Creature,Berserker
+40,Creature,Spider
+41,Artifact,Lunar Potion
+42,Enchantment,Urgent Forged Agony
+43,Spell,Life Reanimate
+44,Creature,Aura Merchant Goblin

@@ -1,46 +1,46 @@
-==================,DECK,7811,Light
-0,Creature,Common,Orc
-1,Creature,Mythic,Frozen Chaos Demon of the Void
-2,Creature,Common,Paladin
-3,Creature,Common,Elf
-4,Spell,Common,Invisibility
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Blight
-7,Artifact,Common,Sword
-8,Spell,Legendary,Potent Ice
-9,Artifact,Common,Scepter
-10,Creature,Rare,Death Fighter Skin-Walker
-11,Creature,Legendary,Light King Giant of the Magical Forest
-12,Spell,Common,Rage
-13,Creature,Rare,Aura King Skin-Walker
-14,Creature,Mythic,Snow Undead Phoenix of Hate
-15,Creature,Common,Dwarf
-16,Spell,Common,Hypnosis
-17,Creature,Rare,Light King Minotaur
-18,Enchantment,Legendary,Urgent Shrink
-19,Creature,Common,Goblin
-20,Creature,Common,Orc
-21,Creature,Common,Magi
-22,Spell,Common,Lightning
-23,Enchantment,Common,Shade
-24,Enchantment,Common,Lethargy
-25,Creature,Common,Paladin
-26,Enchantment,Common,Alacrity
-27,Spell,Common,Maelstrom
-28,Spell,Legendary,Extreme Revive
-29,Creature,Mythic,Earth Grand Demon of the Shadows
-30,Enchantment,Common,Flight
-31,Creature,Common,Eagle
-32,Creature,Common,Paladin
-33,Creature,Common,Warlock
-34,Enchantment,Mythic,Potent Lethargy
-35,Spell,Common,Assault
-36,Creature,Legendary,Death Undead Giant of the Border
-37,Creature,Mythic,Earth Nameless Dragon of the Shadows
-38,Spell,Rare,Life Sorrow
-39,Spell,Common,Stricken
-40,Spell,Common,Infuriate
-41,Creature,Common,Eagle
-42,Creature,Rare,Dark Warrior Minotaur
-43,Spell,Common,Ice
-44,Creature,Common,Dwarf
+==================,DECK,7811
+0,Creature,Spider
+1,Creature,Frozen Chaos Demon of the Void
+2,Creature,Troll
+3,Creature,Warlock
+4,Spell,Burst
+5,Creature,Magi
+6,Enchantment,Age
+7,Artifact,Sword
+8,Spell,Clever Grim Revive
+9,Artifact,Scepter
+10,Creature,Death Fighter Orc
+11,Creature,Light King Dwarf of the Magical Forest
+12,Spell,Tempest
+13,Creature,Aura King Orc
+14,Creature,Snow Undead Phoenix of Hate
+15,Creature,Magi
+16,Spell,Burn
+17,Creature,Light King Cyclops
+18,Enchantment,Zealous Necro Deathgrip
+19,Creature,Skin-Walker
+20,Creature,Spider
+21,Creature,Fairy
+22,Spell,Hypnosis
+23,Enchantment,Haste
+24,Enchantment,Shield
+25,Creature,Troll
+26,Enchantment,Firebreath
+27,Spell,Hypnosis
+28,Spell,Irate Gloom Fury
+29,Creature,Earth Grand Demon of the Shadows
+30,Enchantment,Firebreath
+31,Creature,Eagle
+32,Creature,Troll
+33,Creature,Berserker
+34,Enchantment,Irate Grim Blight
+35,Spell,Frost
+36,Creature,Death Undead Dwarf of the Border
+37,Creature,Earth Nameless Dragon of the Shadows
+38,Spell,Nimble Wall
+39,Spell,Assault
+40,Spell,Reanimate
+41,Creature,Eagle
+42,Creature,Dark Warrior Cyclops
+43,Spell,Revive
+44,Creature,Magi

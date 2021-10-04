@@ -1,46 +1,46 @@
-==================,DECK,7916,Light
-0,Creature,Rare,Light Monk Griffin
-1,Creature,Common,Eagle
-2,Artifact,Legendary,Intense Sword
-3,Artifact,Common,Tome
-4,Creature,Legendary,Light King Kraken of the Black Stone
-5,Creature,Common,Wolf
-6,Artifact,Common,Pendant
-7,Creature,Mythic,Death Time Dragon of the Dead
-8,Creature,Rare,Aura Priest Hydra
-9,Artifact,Common,Tome
-10,Creature,Common,Elf
-11,Creature,Common,Spider
-12,Artifact,Rare,Solar Crown
-13,Enchantment,Common,Drain
-14,Creature,Rare,Earth Rogue Griffin
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Common,Blight
-17,Artifact,Legendary,Mighty Bracers
-18,Creature,Legendary,Earth Undead Orge of the Frozen Castle
-19,Creature,Common,Spider
-20,Creature,Common,Warlock
-21,Creature,Rare,Dark Priest Hydra
-22,Creature,Legendary,Light Priest Cyclops of the Haven
-23,Creature,Common,Wolf
-24,Enchantment,Common,Flight
-25,Creature,Common,Ghoul
-26,Creature,Rare,Aura Lord Skin-Walker
-27,Creature,Rare,Light Priest Skin-Walker
-28,Enchantment,Common,Agony
-29,Creature,Legendary,Light Rogue Kraken of the Swamp
-30,Creature,Rare,Earth Merchant Berserker
-31,Creature,Common,Warlock
-32,Creature,Common,Wolf
-33,Creature,Common,Goblin
-34,Enchantment,Common,Agony
-35,Creature,Rare,Earth Thief Griffin
-36,Creature,Rare,Aura Assassin Griffin
-37,Enchantment,Mythic,Potent Invert
-38,Creature,Common,Spider
-39,Spell,Common,Torment
-40,Creature,Common,Spider
-41,Enchantment,Common,Shrink
-42,Creature,Common,Wolf
-43,Creature,Common,Goblin
-44,Enchantment,Common,Agony
+==================,DECK,7916
+0,Creature,Light Monk Griffin
+1,Creature,Eagle
+2,Artifact,Potent Nature Sword
+3,Artifact,Tome
+4,Creature,Light King Ogre of the Black Stone
+5,Creature,Wolf
+6,Artifact,Pendant
+7,Creature,Death Time Dragon of the Dead
+8,Creature,Aura Priest Hydra
+9,Artifact,Tome
+10,Creature,Warlock
+11,Creature,Paladin
+12,Artifact,Necro Crown
+13,Enchantment,Alacrity
+14,Creature,Earth Rogue Griffin
+15,Enchantment,Invert
+16,Enchantment,Haste
+17,Artifact,Irate Miracle Bracers
+18,Creature,Earth Undead Elf of the Frozen Castle
+19,Creature,Paladin
+20,Creature,Berserker
+21,Creature,Dark Priest Hydra
+22,Creature,Light Priest Giant of the Haven
+23,Creature,Wolf
+24,Enchantment,Invert
+25,Creature,Ghoul
+26,Creature,Aura Lord Orc
+27,Creature,Light Priest Orc
+28,Enchantment,Haste
+29,Creature,Light Rogue Ogre of the Swamp
+30,Creature,Earth Merchant Goblin
+31,Creature,Berserker
+32,Creature,Wolf
+33,Creature,Skin-Walker
+34,Enchantment,Lethargy
+35,Creature,Earth Thief Griffin
+36,Creature,Aura Assassin Griffin
+37,Enchantment,Dire Oblivion Shade
+38,Creature,Paladin
+39,Spell,Infuriate
+40,Creature,Paladin
+41,Enchantment,Shade
+42,Creature,Wolf
+43,Creature,Skin-Walker
+44,Enchantment,Firebreath

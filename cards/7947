@@ -1,46 +1,46 @@
-==================,DECK,7947,Light
-0,Spell,Common,Rage
-1,Creature,Common,Orc
-2,Enchantment,Common,Drain
-3,Enchantment,Common,Haste
-4,Creature,Common,Wolf
-5,Creature,Rare,Aura Rogue Griffin
-6,Creature,Common,Magi
-7,Creature,Common,Paladin
-8,Creature,Common,Eagle
-9,Enchantment,Common,Blight
-10,Creature,Common,Wolf
-11,Spell,Common,Gravitation
-12,Artifact,Common,Potion
-13,Enchantment,Common,Drain
-14,Artifact,Common,Gauntlet
-15,Artifact,Rare,Oblivion Amulet
-16,Creature,Mythic,Snow Nameless Dragon of Hate
-17,Creature,Rare,Aura Queen Fairy
-18,Creature,Common,Dwarf
-19,Spell,Rare,Apocalypse Infuriate
-20,Artifact,Rare,Cataclysmic Gloves
-21,Creature,Common,Eagle
-22,Enchantment,Mythic,Mighty Haste
-23,Spell,Rare,Grim Gravitation
-24,Spell,Common,Stun
-25,Creature,Common,Warlock
-26,Artifact,Common,Divine Robe
-27,Creature,Common,Elf
-28,Spell,Common,Freeze
-29,Enchantment,Common,Shield
-30,Enchantment,Rare,Cataclysmic Flight
-31,Creature,Common,Elf
-32,Creature,Common,Magi
-33,Creature,Common,Orc
-34,Enchantment,Common,Blight
-35,Artifact,Common,Tome
-36,Creature,Common,Goblin
-37,Creature,Common,Eagle
-38,Enchantment,Common,Strength
-39,Creature,Common,Orc
-40,Creature,Common,Eagle
-41,Creature,Common,Orc
-42,Creature,Rare,Snow Priest Berserker
-43,Artifact,Rare,Necro Staff
-44,Spell,Common,Ice
+==================,DECK,7947
+0,Spell,Freeze
+1,Creature,Spider
+2,Enchantment,Haste
+3,Enchantment,Alacrity
+4,Creature,Wolf
+5,Creature,Aura Rogue Griffin
+6,Creature,Fairy
+7,Creature,Troll
+8,Creature,Eagle
+9,Enchantment,Shade
+10,Creature,Wolf
+11,Spell,Tempest
+12,Artifact,Potion
+13,Enchantment,Shield
+14,Artifact,Gauntlet
+15,Artifact,Victory Amulet
+16,Creature,Snow Nameless Dragon of Hate
+17,Creature,Aura Queen Kraken
+18,Creature,Magi
+19,Spell,Victory Fireball
+20,Artifact,Dark Gloves
+21,Creature,Eagle
+22,Enchantment,Mighty Miracle Flight
+23,Spell,Life Fire
+24,Spell,Invisibility
+25,Creature,Berserker
+26,Artifact,Divine Robe
+27,Creature,Warlock
+28,Spell,Ice
+29,Enchantment,Agony
+30,Enchantment,Lunar Firebreath
+31,Creature,Warlock
+32,Creature,Fairy
+33,Creature,Spider
+34,Enchantment,Flight
+35,Artifact,Tome
+36,Creature,Skin-Walker
+37,Creature,Eagle
+38,Enchantment,Flight
+39,Creature,Spider
+40,Creature,Eagle
+41,Creature,Spider
+42,Creature,Snow Priest Goblin
+43,Artifact,Nature Staff
+44,Spell,Wall

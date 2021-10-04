@@ -1,46 +1,46 @@
-==================,DECK,7001,Medium
-0,Creature,Common,Paladin
-1,Creature,Rare,Death Priest Griffin
-2,Creature,Mythic,Light Time Phoenix of the Sky
-3,Enchantment,Common,Shield
-4,Artifact,Rare,Grim Belt
-5,Creature,Rare,Frozen Monk Berserker
-6,Enchantment,Common,Shade
-7,Spell,Common,Fury
-8,Creature,Common,Spider
-9,Creature,Common,Orc
-10,Creature,Common,Ghoul
-11,Creature,Mythic,Frozen Grand Wizard of the Void
-12,Artifact,Rare,Corpse Bracers
-13,Creature,Common,Eagle
-14,Creature,Common,Eagle
-15,Creature,Common,Wolf
-16,Enchantment,Common,Deathgrip
-17,Artifact,Common,Ghost Wand
-18,Artifact,Rare,Solar Scythe
-19,Creature,Rare,Dark King Berserker
-20,Spell,Common,Invisibility
-21,Artifact,Rare,Cataclysmic Ghost Wand
-22,Spell,Rare,Hateful Pandemonium
-23,Artifact,Rare,Cataclysmic Greaves
-24,Enchantment,Rare,Grim Invert
-25,Spell,Common,Stricken
-26,Spell,Common,Gravitation
-27,Spell,Common,Sorrow
-28,Enchantment,Common,Shrink
-29,Creature,Common,Paladin
-30,Enchantment,Legendary,Urgent Agony
-31,Enchantment,Mythic,Urgent Strength
-32,Creature,Rare,Frozen Warrior Fairy
-33,Spell,Common,Lightning
-34,Enchantment,Mythic,Mighty Shield
-35,Enchantment,Rare,Miracle Haste
-36,Artifact,Rare,Oblivion Greaves
-37,Creature,Common,Orc
-38,Creature,Common,Eagle
-39,Enchantment,Rare,Dark Agony
-40,Spell,Rare,Frigid Frost
-41,Spell,Rare,Solar Revive
-42,Creature,Common,Elf
-43,Spell,Legendary,Intense Pandemonium
-44,Spell,Rare,Cataclysmic Fury
+==================,DECK,7001
+0,Creature,Troll
+1,Creature,Death Priest Griffin
+2,Creature,Light Time Phoenix of the Sky
+3,Enchantment,Shield
+4,Artifact,Frigid Belt
+5,Creature,Frozen Monk Goblin
+6,Enchantment,Deathgrip
+7,Spell,Hypnosis
+8,Creature,Paladin
+9,Creature,Spider
+10,Creature,Ghoul
+11,Creature,Frozen Grand Wizard of the Void
+12,Artifact,Shimmering Bracers
+13,Creature,Eagle
+14,Creature,Eagle
+15,Creature,Wolf
+16,Enchantment,Shrink
+17,Artifact,Ghost Wand
+18,Artifact,Forged Scythe
+19,Creature,Dark King Goblin
+20,Spell,Assault
+21,Artifact,Sorrow Ghost Wand
+22,Spell,Gloom Wall
+23,Artifact,Sorrow Greaves
+24,Enchantment,Oblivion Shade
+25,Spell,Maelstrom
+26,Spell,Stricken
+27,Spell,Fire
+28,Enchantment,Agony
+29,Creature,Troll
+30,Enchantment,Instant Corpse Strength
+31,Enchantment,Urgent Solar Agony
+32,Creature,Frozen Warrior Kraken
+33,Spell,Fire
+34,Enchantment,Instant Gloom Shrink
+35,Enchantment,Life Blight
+36,Artifact,Apocalypse Greaves
+37,Creature,Spider
+38,Creature,Eagle
+39,Enchantment,Miracle Firebreath
+40,Spell,Grim Lightning
+41,Spell,Corpse Burn
+42,Creature,Warlock
+43,Spell,Mighty Corpse Fire
+44,Spell,Miracle Wall

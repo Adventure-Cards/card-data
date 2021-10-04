@@ -1,46 +1,46 @@
-==================,DECK,6794,Medium
-0,Enchantment,Common,Agony
-1,Enchantment,Mythic,Potent Drain
-2,Creature,Common,Spider
-3,Creature,Common,Ghoul
-4,Creature,Common,Dwarf
-5,Creature,Mythic,Aura Undead Phoenix of the Light
-6,Enchantment,Rare,Gloom Agony
-7,Creature,Common,Spider
-8,Creature,Mythic,Dark Ancient Wizard of Illusion
-9,Spell,Common,Lightning
-10,Spell,Common,Infuriate
-11,Artifact,Legendary,Angry Bracers
-12,Creature,Rare,Aura Priest Minotaur
-13,Enchantment,Common,Shrink
-14,Creature,Common,Warlock
-15,Creature,Rare,Snow Monk Griffin
-16,Enchantment,Common,Drain
-17,Spell,Common,Frost
-18,Creature,Legendary,Snow Merchant Kraken of the Frozen Castle
-19,Creature,Common,Eagle
-20,Creature,Rare,Death Thief Skin-Walker
-21,Spell,Common,Stun
-22,Creature,Rare,Death Knight Berserker
-23,Artifact,Rare,Hateful Amulet
-24,Creature,Common,Warlock
-25,Spell,Common,Assault
-26,Creature,Common,Goblin
-27,Spell,Rare,Apocalypse Stricken
-28,Creature,Common,Eagle
-29,Artifact,Rare,Necro Crown
-30,Enchantment,Common,Age
-31,Creature,Common,Dwarf
-32,Creature,Mythic,Snow Chaos Wizard of Hate
-33,Creature,Common,Magi
-34,Creature,Common,Eagle
-35,Creature,Rare,Death King Griffin
-36,Enchantment,Rare,Oblivion Alacrity
-37,Creature,Rare,Earth Fighter Hydra
-38,Artifact,Rare,Shimmering Scythe
-39,Creature,Common,Spider
-40,Artifact,Common,Sword
-41,Enchantment,Rare,Frigid Shield
-42,Spell,Common,Revive
-43,Spell,Common,Lightning
-44,Spell,Common,Torment
+==================,DECK,6794
+0,Enchantment,Agony
+1,Enchantment,Potent Apocalypse Drain
+2,Creature,Paladin
+3,Creature,Ghoul
+4,Creature,Magi
+5,Creature,Aura Undead Phoenix of the Light
+6,Enchantment,Miracle Shield
+7,Creature,Paladin
+8,Creature,Dark Ancient Wizard of Illusion
+9,Spell,Invisibility
+10,Spell,Gale
+11,Artifact,Zealous Gloom Bracers
+12,Creature,Aura Priest Cyclops
+13,Enchantment,Shield
+14,Creature,Berserker
+15,Creature,Snow Monk Griffin
+16,Enchantment,Shield
+17,Spell,Revive
+18,Creature,Snow Merchant Ogre of the Frozen Castle
+19,Creature,Eagle
+20,Creature,Death Thief Orc
+21,Spell,Freeze
+22,Creature,Death Knight Goblin
+23,Artifact,Chimeric Amulet
+24,Creature,Berserker
+25,Spell,Burst
+26,Creature,Skin-Walker
+27,Spell,Life Revive
+28,Creature,Eagle
+29,Artifact,Solar Crown
+30,Enchantment,Alacrity
+31,Creature,Magi
+32,Creature,Snow Chaos Wizard of Hate
+33,Creature,Fairy
+34,Creature,Eagle
+35,Creature,Death King Griffin
+36,Enchantment,Apocalypse Blight
+37,Creature,Earth Fighter Hydra
+38,Artifact,Corpse Scythe
+39,Creature,Paladin
+40,Artifact,Sword
+41,Enchantment,Victory Haste
+42,Spell,Infuriate
+43,Spell,Reanimate
+44,Spell,Gale

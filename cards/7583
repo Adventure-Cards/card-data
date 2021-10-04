@@ -1,46 +1,46 @@
-==================,DECK,7583,Light
-0,Creature,Common,Elf
-1,Creature,Common,Goblin
-2,Artifact,Legendary,Mighty Tome
-3,Spell,Rare,Shimmering Ice
-4,Creature,Rare,Snow Queen Griffin
-5,Enchantment,Mythic,Dire Age
-6,Spell,Rare,Nature Stun
-7,Spell,Common,Reanimate
-8,Creature,Rare,Aura Merchant Berserker
-9,Creature,Rare,Dark Priest Fairy
-10,Creature,Common,Eagle
-11,Artifact,Common,Shield
-12,Enchantment,Common,Lethargy
-13,Enchantment,Rare,Necro Haste
-14,Creature,Common,Orc
-15,Enchantment,Rare,Oblivion Agony
-16,Creature,Common,Spider
-17,Enchantment,Rare,Nimble Alacrity
-18,Artifact,Common,Divine Robe
-19,Spell,Common,Reanimate
-20,Spell,Common,Stricken
-21,Creature,Rare,Earth Priest Hydra
-22,Spell,Common,Ice
-23,Spell,Common,Frost
-24,Creature,Common,Wolf
-25,Artifact,Common,Ghost Wand
-26,Enchantment,Mythic,Instant Flight
-27,Enchantment,Rare,Grim Strength
-28,Artifact,Common,Scepter
-29,Creature,Common,Elf
-30,Artifact,Common,Helm
-31,Creature,Common,Paladin
-32,Creature,Rare,Dark Undead Fairy
-33,Creature,Common,Goblin
-34,Artifact,Common,Scythe
-35,Artifact,Legendary,Urgent Bracers
-36,Creature,Common,Spider
-37,Enchantment,Common,Flight
-38,Enchantment,Common,Shrink
-39,Artifact,Rare,Shimmering Bracers
-40,Enchantment,Common,Haste
-41,Artifact,Common,Gloves
-42,Artifact,Rare,Gloom Helm
-43,Creature,Common,Ghoul
-44,Creature,Common,Orc
+==================,DECK,7583
+0,Creature,Warlock
+1,Creature,Skin-Walker
+2,Artifact,Empyrean Cataclysmic Tome
+3,Spell,Solar Vortex
+4,Creature,Snow Queen Griffin
+5,Enchantment,Clever Victory Haste
+6,Spell,Necro Maelstrom
+7,Spell,Tempest
+8,Creature,Aura Merchant Goblin
+9,Creature,Dark Priest Kraken
+10,Creature,Eagle
+11,Artifact,Shield
+12,Enchantment,Flight
+13,Enchantment,Corpse Deathgrip
+14,Creature,Spider
+15,Enchantment,Life Shade
+16,Creature,Paladin
+17,Enchantment,Forged Strength
+18,Artifact,Divine Robe
+19,Spell,Frenzy
+20,Spell,Infuriate
+21,Creature,Earth Priest Hydra
+22,Spell,Burn
+23,Spell,Vortex
+24,Creature,Wolf
+25,Artifact,Ghost Wand
+26,Enchantment,Zealous Hateful Deathgrip
+27,Enchantment,Nimble Drain
+28,Artifact,Scepter
+29,Creature,Warlock
+30,Artifact,Helm
+31,Creature,Troll
+32,Creature,Dark Undead Kraken
+33,Creature,Skin-Walker
+34,Artifact,Scythe
+35,Artifact,Zealous Shimmering Bracers
+36,Creature,Paladin
+37,Enchantment,Haste
+38,Enchantment,Shade
+39,Artifact,Nature Bracers
+40,Enchantment,Flight
+41,Artifact,Gloves
+42,Artifact,Sorrow Helm
+43,Creature,Ghoul
+44,Creature,Spider

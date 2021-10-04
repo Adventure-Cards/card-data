@@ -1,46 +1,46 @@
-==================,DECK,7337,Light
-0,Spell,Common,Maelstrom
-1,Creature,Common,Paladin
-2,Spell,Common,Stricken
-3,Artifact,Common,Cloak
-4,Spell,Rare,Lunar Sorrow
-5,Artifact,Common,Gauntlet
-6,Creature,Common,Goblin
-7,Enchantment,Common,Shrink
-8,Creature,Rare,Frozen Lord Minotaur
-9,Creature,Legendary,Snow Assassin Kraken of the Haven
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Artifact,Legendary,Clever Bracers
-13,Creature,Rare,Aura King Skin-Walker
-14,Spell,Common,Assault
-15,Artifact,Common,Sigil
-16,Creature,Common,Warlock
-17,Creature,Common,Spider
-18,Creature,Common,Magi
-19,Creature,Legendary,Aura Undead Cyclops of the Border
-20,Enchantment,Mythic,Urgent Shade
-21,Creature,Common,Orc
-22,Creature,Common,Elf
-23,Spell,Rare,Dark Frenzy
-24,Enchantment,Common,Age
-25,Artifact,Common,Sword
-26,Spell,Common,Gravitation
-27,Creature,Legendary,Snow Thief Kraken of the Frozen Castle
-28,Spell,Common,Sorrow
-29,Spell,Common,Stun
-30,Enchantment,Common,Shade
-31,Enchantment,Common,Blight
-32,Spell,Common,Freeze
-33,Spell,Common,Pandemonium
-34,Enchantment,Common,Shrink
-35,Creature,Rare,Light Knight Griffin
-36,Enchantment,Common,Age
-37,Creature,Mythic,Death Chaos Wizard of the Dead
-38,Spell,Common,Wall
-39,Spell,Rare,Nimble Rage
-40,Creature,Rare,Light Merchant Berserker
-41,Creature,Common,Elf
-42,Creature,Common,Goblin
-43,Creature,Legendary,Death Knight Oni of the Swamp
-44,Spell,Common,Reanimate
+==================,DECK,7337
+0,Spell,Gravitation
+1,Creature,Troll
+2,Spell,Revive
+3,Artifact,Cloak
+4,Spell,Miracle Burst
+5,Artifact,Gauntlet
+6,Creature,Skin-Walker
+7,Enchantment,Strength
+8,Creature,Frozen Lord Cyclops
+9,Creature,Snow Assassin Ogre of the Haven
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Artifact,Irate Victory Bracers
+13,Creature,Aura King Orc
+14,Spell,Fury
+15,Artifact,Sigil
+16,Creature,Berserker
+17,Creature,Paladin
+18,Creature,Fairy
+19,Creature,Aura Undead Giant of the Border
+20,Enchantment,Instant Necro Strength
+21,Creature,Spider
+22,Creature,Warlock
+23,Spell,Lunar Hypnosis
+24,Enchantment,Agony
+25,Artifact,Sword
+26,Spell,Stricken
+27,Creature,Snow Thief Ogre of the Frozen Castle
+28,Spell,Fury
+29,Spell,Rage
+30,Enchantment,Shade
+31,Enchantment,Flight
+32,Spell,Freeze
+33,Spell,Ice
+34,Enchantment,Age
+35,Creature,Light Knight Griffin
+36,Enchantment,Lethargy
+37,Creature,Death Chaos Wizard of the Dead
+38,Spell,Assault
+39,Spell,Shimmering Gale
+40,Creature,Light Merchant Goblin
+41,Creature,Warlock
+42,Creature,Skin-Walker
+43,Creature,Death Knight Oni of the Swamp
+44,Spell,Vortex

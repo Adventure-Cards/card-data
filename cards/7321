@@ -1,46 +1,46 @@
-==================,DECK,7321,Medium
-0,Creature,Common,Spider
-1,Creature,Common,Paladin
-2,Artifact,Legendary,Clever Greaves
-3,Artifact,Common,Boots
-4,Spell,Common,Gale
-5,Spell,Common,Frost
-6,Creature,Rare,Dark Rogue Skin-Walker
-7,Enchantment,Common,Blight
-8,Creature,Common,Goblin
-9,Creature,Common,Warlock
-10,Enchantment,Common,Invert
-11,Creature,Common,Warlock
-12,Creature,Rare,Frozen Undead Griffin
-13,Creature,Common,Ghoul
-14,Artifact,Rare,Dark Belt
-15,Enchantment,Common,Agony
-16,Spell,Common,Invisibility
-17,Enchantment,Common,Blight
-18,Creature,Rare,Light Undead Berserker
-19,Spell,Common,Frenzy
-20,Spell,Common,Lightning
-21,Creature,Common,Eagle
-22,Artifact,Rare,Oblivion Helmet
-23,Enchantment,Common,Shrink
-24,Creature,Common,Wolf
-25,Creature,Rare,Aura Undead Fairy
-26,Spell,Legendary,Extreme Pandemonium
-27,Enchantment,Common,Lethargy
-28,Creature,Common,Spider
-29,Creature,Common,Ghoul
-30,Creature,Common,Wolf
-31,Artifact,Common,Ring
-32,Spell,Common,Invisibility
-33,Creature,Rare,Aura Rogue Berserker
-34,Creature,Common,Orc
-35,Creature,Rare,Light Lord Berserker
-36,Creature,Common,Eagle
-37,Creature,Rare,Dark Fighter Skin-Walker
-38,Creature,Mythic,Snow Undead Phoenix of Hate
-39,Spell,Rare,Miracle Reanimate
-40,Spell,Common,Infuriate
-41,Enchantment,Mythic,Mighty Haste
-42,Creature,Common,Elf
-43,Spell,Common,Vortex
-44,Creature,Rare,Snow Rogue Griffin
+==================,DECK,7321
+0,Creature,Paladin
+1,Creature,Troll
+2,Artifact,Urgent Grim Greaves
+3,Artifact,Boots
+4,Spell,Frenzy
+5,Spell,Freeze
+6,Creature,Dark Rogue Orc
+7,Enchantment,Flight
+8,Creature,Skin-Walker
+9,Creature,Berserker
+10,Enchantment,Drain
+11,Creature,Berserker
+12,Creature,Frozen Undead Griffin
+13,Creature,Ghoul
+14,Artifact,Cataclysmic Belt
+15,Enchantment,Shrink
+16,Spell,Fireball
+17,Enchantment,Strength
+18,Creature,Light Undead Goblin
+19,Spell,Fire
+20,Spell,Burst
+21,Creature,Eagle
+22,Artifact,Life Helmet
+23,Enchantment,Invert
+24,Creature,Wolf
+25,Creature,Aura Undead Kraken
+26,Spell,Potent Sorrow Frost
+27,Enchantment,Invert
+28,Creature,Paladin
+29,Creature,Ghoul
+30,Creature,Wolf
+31,Artifact,Ring
+32,Spell,Maelstrom
+33,Creature,Aura Rogue Goblin
+34,Creature,Spider
+35,Creature,Light Lord Goblin
+36,Creature,Eagle
+37,Creature,Dark Fighter Orc
+38,Creature,Snow Undead Phoenix of Hate
+39,Spell,Victory Vortex
+40,Spell,Fireball
+41,Enchantment,Zealous Miracle Alacrity
+42,Creature,Warlock
+43,Spell,Wall
+44,Creature,Snow Rogue Griffin

@@ -1,46 +1,46 @@
-==================,DECK,7573,Light
-0,Creature,Rare,Aura Warrior Fairy
-1,Creature,Common,Paladin
-2,Enchantment,Mythic,Urgent Alacrity
-3,Creature,Common,Goblin
-4,Spell,Rare,Dark Wall
-5,Artifact,Rare,Solar Ring
-6,Creature,Rare,Dark Thief Berserker
-7,Artifact,Legendary,Urgent Potion
-8,Spell,Rare,Lunar Burst
-9,Creature,Common,Paladin
-10,Enchantment,Common,Deathgrip
-11,Enchantment,Common,Shrink
-12,Enchantment,Mythic,Potent Shade
-13,Spell,Legendary,Dire Invisibility
-14,Spell,Common,Wall
-15,Spell,Common,Maelstrom
-16,Creature,Rare,Dark King Minotaur
-17,Creature,Common,Spider
-18,Creature,Common,Magi
-19,Creature,Common,Elf
-20,Spell,Common,Burst
-21,Enchantment,Rare,Hateful Shrink
-22,Creature,Common,Paladin
-23,Artifact,Common,Potion
-24,Spell,Common,Infuriate
-25,Creature,Common,Elf
-26,Creature,Common,Ghoul
-27,Spell,Rare,Nimble Invisibility
-28,Creature,Common,Orc
-29,Artifact,Common,Sigil
-30,Artifact,Common,Staff
-31,Enchantment,Common,Agony
-32,Enchantment,Rare,Forged Lethargy
-33,Creature,Common,Orc
-34,Creature,Common,Spider
-35,Artifact,Common,Crown
-36,Enchantment,Rare,Cataclysmic Deathgrip
-37,Creature,Common,Elf
-38,Enchantment,Common,Invert
-39,Creature,Common,Elf
-40,Enchantment,Common,Agony
-41,Creature,Common,Orc
-42,Creature,Common,Spider
-43,Enchantment,Common,Flight
-44,Spell,Common,Pandemonium
+==================,DECK,7573
+0,Creature,Aura Warrior Kraken
+1,Creature,Troll
+2,Enchantment,Instant Forged Strength
+3,Creature,Skin-Walker
+4,Spell,Chimeric Fireball
+5,Artifact,Hateful Ring
+6,Creature,Dark Thief Goblin
+7,Artifact,Clever Forged Potion
+8,Spell,Miracle Sorrow
+9,Creature,Troll
+10,Enchantment,Flight
+11,Enchantment,Shade
+12,Enchantment,Ardent Frigid Haste
+13,Spell,Instant Apocalypse Frost
+14,Spell,Rage
+15,Spell,Stricken
+16,Creature,Dark King Cyclops
+17,Creature,Paladin
+18,Creature,Fairy
+19,Creature,Warlock
+20,Spell,Revive
+21,Enchantment,Chimeric Shield
+22,Creature,Troll
+23,Artifact,Potion
+24,Spell,Stun
+25,Creature,Warlock
+26,Creature,Ghoul
+27,Spell,Nature Rage
+28,Creature,Spider
+29,Artifact,Sigil
+30,Artifact,Staff
+31,Enchantment,Flight
+32,Enchantment,Lunar Alacrity
+33,Creature,Spider
+34,Creature,Paladin
+35,Artifact,Crown
+36,Enchantment,Sorrow Shield
+37,Creature,Warlock
+38,Enchantment,Haste
+39,Creature,Warlock
+40,Enchantment,Firebreath
+41,Creature,Spider
+42,Creature,Paladin
+43,Enchantment,Haste
+44,Spell,Stun

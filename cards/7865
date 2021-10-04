@@ -1,46 +1,46 @@
-==================,DECK,7865,Light
-0,Creature,Common,Dwarf
-1,Spell,Rare,Necro Hypnosis
-2,Creature,Common,Goblin
-3,Spell,Common,Hypnosis
-4,Spell,Common,Pandemonium
-5,Enchantment,Rare,Solar Strength
-6,Enchantment,Common,Alacrity
-7,Spell,Common,Fury
-8,Creature,Common,Elf
-9,Creature,Common,Paladin
-10,Spell,Common,Gravitation
-11,Spell,Common,Heal
-12,Enchantment,Common,Agony
-13,Enchantment,Common,Flight
-14,Spell,Common,Burn
-15,Enchantment,Common,Shrink
-16,Enchantment,Common,Invert
-17,Enchantment,Common,Invert
-18,Spell,Common,Burn
-19,Spell,Common,Heal
-20,Artifact,Common,Bracers
-21,Spell,Common,Frenzy
-22,Creature,Rare,Light Lord Hydra
-23,Spell,Common,Invisibility
-24,Creature,Legendary,Aura Priest Cyclops of the Golden Palace
-25,Artifact,Common,Potion
-26,Creature,Common,Eagle
-27,Artifact,Legendary,Urgent Greaves
-28,Creature,Rare,Snow Knight Skin-Walker
-29,Creature,Rare,Snow Assassin Berserker
-30,Creature,Common,Goblin
-31,Creature,Common,Warlock
-32,Enchantment,Mythic,Mighty Alacrity
-33,Creature,Common,Ghoul
-34,Enchantment,Common,Deathgrip
-35,Creature,Legendary,Frozen Knight Cyclops of the Black Stone
-36,Creature,Mythic,Dark Nameless Phoenix of Illusion
-37,Enchantment,Common,Flight
-38,Creature,Common,Wolf
-39,Creature,Mythic,Light Undead Dragon of the Sky
-40,Enchantment,Common,Alacrity
-41,Artifact,Common,Ghost Wand
-42,Creature,Common,Warlock
-43,Creature,Legendary,Frozen Knight Giant of the Low Hills
-44,Creature,Common,Spider
+==================,DECK,7865
+0,Creature,Magi
+1,Spell,Hateful Freeze
+2,Creature,Skin-Walker
+3,Spell,Ice
+4,Spell,Frost
+5,Enchantment,Solar Agony
+6,Enchantment,Strength
+7,Spell,Gale
+8,Creature,Warlock
+9,Creature,Troll
+10,Spell,Rage
+11,Spell,Freeze
+12,Enchantment,Drain
+13,Enchantment,Blight
+14,Spell,Frost
+15,Enchantment,Firebreath
+16,Enchantment,Alacrity
+17,Enchantment,Firebreath
+18,Spell,Stricken
+19,Spell,Burst
+20,Artifact,Bracers
+21,Spell,Burst
+22,Creature,Light Lord Hydra
+23,Spell,Torment
+24,Creature,Aura Priest Giant of the Golden Palace
+25,Artifact,Potion
+26,Creature,Eagle
+27,Artifact,Urgent Solar Greaves
+28,Creature,Snow Knight Orc
+29,Creature,Snow Assassin Goblin
+30,Creature,Skin-Walker
+31,Creature,Berserker
+32,Enchantment,Irate Dark Alacrity
+33,Creature,Ghoul
+34,Enchantment,Alacrity
+35,Creature,Frozen Knight Giant of the Black Stone
+36,Creature,Dark Nameless Phoenix of Illusion
+37,Enchantment,Age
+38,Creature,Wolf
+39,Creature,Light Undead Dragon of the Sky
+40,Enchantment,Shade
+41,Artifact,Ghost Wand
+42,Creature,Berserker
+43,Creature,Frozen Knight Dwarf of the Low Hills
+44,Creature,Paladin

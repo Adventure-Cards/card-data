@@ -1,46 +1,46 @@
-==================,DECK,4781,Light
-0,Spell,Rare,Corpse Invisibility
-1,Artifact,Common,Bow
-2,Creature,Common,Goblin
-3,Enchantment,Mythic,Angry Strength
-4,Creature,Common,Magi
-5,Creature,Common,Ghoul
-6,Artifact,Common,Scythe
-7,Creature,Common,Goblin
-8,Creature,Rare,Dark Rogue Griffin
-9,Spell,Legendary,Dire Invisibility
-10,Spell,Common,Maelstrom
-11,Artifact,Common,Gauntlet
-12,Enchantment,Common,Shrink
-13,Creature,Rare,Dark Warrior Griffin
-14,Creature,Common,Eagle
-15,Spell,Common,Rage
-16,Creature,Common,Wolf
-17,Artifact,Common,Gloves
-18,Artifact,Common,Staff
-19,Spell,Common,Invisibility
-20,Creature,Common,Spider
-21,Creature,Common,Wolf
-22,Creature,Common,Elf
-23,Enchantment,Common,Haste
-24,Creature,Common,Magi
-25,Artifact,Common,Tome
-26,Creature,Rare,Light Rogue Berserker
-27,Creature,Common,Wolf
-28,Creature,Common,Wolf
-29,Creature,Common,Eagle
-30,Spell,Legendary,Intense Freeze
-31,Creature,Common,Dwarf
-32,Creature,Legendary,Dark Merchant Giant of the Mountains
-33,Enchantment,Rare,Cataclysmic Drain
-34,Creature,Common,Elf
-35,Creature,Common,Ghoul
-36,Creature,Common,Warlock
-37,Spell,Rare,Hateful Gale
-38,Creature,Common,Spider
-39,Creature,Common,Goblin
-40,Creature,Rare,Light Knight Hydra
-41,Enchantment,Rare,Solar Agony
-42,Creature,Rare,Frozen Queen Hydra
-43,Creature,Legendary,Aura Thief Orge of the Eastern Skies
-44,Enchantment,Rare,Apocalypse Flight
+==================,DECK,4781
+0,Spell,Forged Freeze
+1,Artifact,Bow
+2,Creature,Skin-Walker
+3,Enchantment,Irate Cataclysmic Alacrity
+4,Creature,Fairy
+5,Creature,Ghoul
+6,Artifact,Scythe
+7,Creature,Skin-Walker
+8,Creature,Dark Rogue Griffin
+9,Spell,Irate Victory Burst
+10,Spell,Fire
+11,Artifact,Gauntlet
+12,Enchantment,Strength
+13,Creature,Dark Warrior Griffin
+14,Creature,Eagle
+15,Spell,Burst
+16,Creature,Wolf
+17,Artifact,Gloves
+18,Artifact,Staff
+19,Spell,Rage
+20,Creature,Paladin
+21,Creature,Wolf
+22,Creature,Warlock
+23,Enchantment,Deathgrip
+24,Creature,Fairy
+25,Artifact,Tome
+26,Creature,Light Rogue Goblin
+27,Creature,Wolf
+28,Creature,Wolf
+29,Creature,Eagle
+30,Spell,Irate Shimmering Maelstrom
+31,Creature,Magi
+32,Creature,Dark Merchant Dwarf of the Mountains
+33,Enchantment,Dark Alacrity
+34,Creature,Warlock
+35,Creature,Ghoul
+36,Creature,Berserker
+37,Spell,Chimeric Frenzy
+38,Creature,Paladin
+39,Creature,Skin-Walker
+40,Creature,Light Knight Hydra
+41,Enchantment,Corpse Lethargy
+42,Creature,Frozen Queen Hydra
+43,Creature,Aura Thief Elf of the Eastern Skies
+44,Enchantment,Grim Blight

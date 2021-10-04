@@ -1,46 +1,46 @@
-==================,DECK,4230,Light
-0,Enchantment,Common,Shrink
-1,Artifact,Common,Potion
-2,Spell,Common,Hypnosis
-3,Spell,Rare,Hateful Infuriate
-4,Creature,Mythic,Aura Chaos Demon of the Light
-5,Spell,Common,Infuriate
-6,Artifact,Common,Helm
-7,Enchantment,Common,Drain
-8,Creature,Legendary,Snow Lord Kraken of the Low Hills
-9,Creature,Rare,Frozen Undead Berserker
-10,Creature,Rare,Aura Thief Skin-Walker
-11,Spell,Legendary,Mighty Freeze
-12,Enchantment,Mythic,Urgent Blight
-13,Enchantment,Common,Strength
-14,Creature,Common,Magi
-15,Spell,Common,Burst
-16,Spell,Common,Rage
-17,Spell,Rare,Grim Freeze
-18,Spell,Rare,Hateful Stun
-19,Spell,Common,Ice
-20,Spell,Rare,Gloom Lightning
-21,Artifact,Common,Tome
-22,Spell,Common,Infuriate
-23,Artifact,Legendary,Potent Ring
-24,Creature,Rare,Frozen Merchant Hydra
-25,Creature,Legendary,Dark Knight Giant of the West
-26,Artifact,Rare,Forged Scepter
-27,Creature,Common,Elf
-28,Artifact,Rare,Miracle Ring
-29,Creature,Rare,Earth Assassin Minotaur
-30,Enchantment,Common,Lethargy
-31,Enchantment,Common,Invert
-32,Spell,Common,Invisibility
-33,Creature,Common,Dwarf
-34,Artifact,Rare,Frigid Potion
-35,Creature,Legendary,Light Lord Kraken of the Frozen Castle
-36,Spell,Rare,Grim Wall
-37,Creature,Common,Dwarf
-38,Creature,Rare,Dark Merchant Hydra
-39,Artifact,Rare,Miracle Pendant
-40,Creature,Common,Warlock
-41,Creature,Common,Elf
-42,Creature,Common,Warlock
-43,Creature,Common,Dwarf
-44,Spell,Rare,Lunar Infuriate
+==================,DECK,4230
+0,Enchantment,Age
+1,Artifact,Potion
+2,Spell,Rage
+3,Spell,Miracle Torment
+4,Creature,Aura Chaos Demon of the Light
+5,Spell,Fire
+6,Artifact,Helm
+7,Enchantment,Deathgrip
+8,Creature,Snow Lord Ogre of the Low Hills
+9,Creature,Frozen Undead Goblin
+10,Creature,Aura Thief Orc
+11,Spell,Instant Gloom Reanimate
+12,Enchantment,Empyrean Solar Age
+13,Enchantment,Flight
+14,Creature,Fairy
+15,Spell,Burn
+16,Spell,Burst
+17,Spell,Grim Vortex
+18,Spell,Miracle Stun
+19,Spell,Heal
+20,Spell,Chimeric Reanimate
+21,Artifact,Tome
+22,Spell,Frenzy
+23,Artifact,Potent Apocalypse Ring
+24,Creature,Frozen Merchant Hydra
+25,Creature,Dark Knight Dwarf of the West
+26,Artifact,Cataclysmic Scepter
+27,Creature,Warlock
+28,Artifact,Frigid Ring
+29,Creature,Earth Assassin Cyclops
+30,Enchantment,Alacrity
+31,Enchantment,Age
+32,Spell,Burn
+33,Creature,Magi
+34,Artifact,Life Potion
+35,Creature,Light Lord Ogre of the Frozen Castle
+36,Spell,Frigid Maelstrom
+37,Creature,Magi
+38,Creature,Dark Merchant Hydra
+39,Artifact,Victory Pendant
+40,Creature,Berserker
+41,Creature,Warlock
+42,Creature,Berserker
+43,Creature,Magi
+44,Spell,Miracle Fire

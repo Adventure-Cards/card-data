@@ -1,46 +1,46 @@
-==================,DECK,5990,Medium
-0,Spell,Common,Maelstrom
-1,Creature,Rare,Dark Knight Berserker
-2,Creature,Common,Wolf
-3,Spell,Legendary,Clever Wall
-4,Creature,Rare,Frozen Monk Minotaur
-5,Creature,Rare,Aura Fighter Fairy
-6,Enchantment,Common,Shade
-7,Creature,Rare,Snow Merchant Fairy
-8,Creature,Common,Eagle
-9,Enchantment,Rare,Hateful Flight
-10,Spell,Rare,Nimble Frenzy
-11,Creature,Common,Ghoul
-12,Creature,Rare,Dark Merchant Skin-Walker
-13,Creature,Rare,Snow Knight Fairy
-14,Enchantment,Common,Strength
-15,Enchantment,Rare,Cataclysmic Shrink
-16,Enchantment,Common,Shade
-17,Creature,Legendary,Aura Merchant Giant of the Eastern Skies
-18,Creature,Common,Spider
-19,Creature,Rare,Death Priest Minotaur
-20,Artifact,Common,Amulet
-21,Spell,Common,Heal
-22,Creature,Legendary,Dark Knight Kraken of the West
-23,Enchantment,Common,Shrink
-24,Creature,Common,Wolf
-25,Spell,Common,Gravitation
-26,Creature,Legendary,Death Lord Oni of the Eternal Land
-27,Enchantment,Mythic,Intense Drain
-28,Artifact,Common,Ring
-29,Creature,Legendary,Frozen Thief Giant of the West
-30,Enchantment,Common,Drain
-31,Creature,Common,Wolf
-32,Artifact,Rare,Gloom Greaves
-33,Enchantment,Common,Lethargy
-34,Artifact,Common,Pendant
-35,Artifact,Legendary,Intense Helmet
-36,Creature,Common,Elf
-37,Creature,Rare,Snow Fighter Hydra
-38,Creature,Legendary,Frozen Lord Orge of the Frozen Castle
-39,Creature,Common,Eagle
-40,Enchantment,Common,Shield
-41,Creature,Rare,Light King Berserker
-42,Spell,Rare,Shimmering Stricken
-43,Creature,Common,Ghoul
-44,Creature,Rare,Light Rogue Hydra
+==================,DECK,5990
+0,Spell,Ice
+1,Creature,Dark Knight Goblin
+2,Creature,Wolf
+3,Spell,Ardent Life Burst
+4,Creature,Frozen Monk Cyclops
+5,Creature,Aura Fighter Kraken
+6,Enchantment,Shrink
+7,Creature,Snow Merchant Kraken
+8,Creature,Eagle
+9,Enchantment,Lunar Alacrity
+10,Spell,Corpse Frost
+11,Creature,Ghoul
+12,Creature,Dark Merchant Orc
+13,Creature,Snow Knight Kraken
+14,Enchantment,Lethargy
+15,Enchantment,Chimeric Alacrity
+16,Enchantment,Shield
+17,Creature,Aura Merchant Dwarf of the Eastern Skies
+18,Creature,Paladin
+19,Creature,Death Priest Cyclops
+20,Artifact,Amulet
+21,Spell,Frost
+22,Creature,Dark Knight Ogre of the West
+23,Enchantment,Firebreath
+24,Creature,Wolf
+25,Spell,Fire
+26,Creature,Death Lord Oni of the Eternal Land
+27,Enchantment,Mighty Forged Agony
+28,Artifact,Ring
+29,Creature,Frozen Thief Dwarf of the West
+30,Enchantment,Lethargy
+31,Creature,Wolf
+32,Artifact,Sorrow Greaves
+33,Enchantment,Shield
+34,Artifact,Pendant
+35,Artifact,Zealous Necro Helmet
+36,Creature,Warlock
+37,Creature,Snow Fighter Hydra
+38,Creature,Frozen Lord Elf of the Frozen Castle
+39,Creature,Eagle
+40,Enchantment,Shrink
+41,Creature,Light King Goblin
+42,Spell,Shimmering Rage
+43,Creature,Ghoul
+44,Creature,Light Rogue Hydra

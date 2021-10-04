@@ -1,46 +1,46 @@
-==================,DECK,5957,Light
-0,Enchantment,Rare,Shimmering Drain
-1,Creature,Common,Dwarf
-2,Creature,Common,Orc
-3,Enchantment,Common,Age
-4,Spell,Rare,Forged Assault
-5,Creature,Common,Eagle
-6,Enchantment,Rare,Hateful Haste
-7,Enchantment,Common,Haste
-8,Artifact,Common,Pendant
-9,Spell,Rare,Cataclysmic Burn
-10,Artifact,Legendary,Instant Pendant
-11,Artifact,Common,Pendant
-12,Creature,Rare,Frozen Rogue Berserker
-13,Enchantment,Rare,Nature Deathgrip
-14,Creature,Common,Orc
-15,Spell,Common,Hypnosis
-16,Creature,Common,Spider
-17,Creature,Common,Warlock
-18,Creature,Common,Ghoul
-19,Enchantment,Rare,Cataclysmic Deathgrip
-20,Creature,Common,Eagle
-21,Creature,Rare,Dark Priest Griffin
-22,Creature,Legendary,Death Lord Orge of the Border
-23,Artifact,Common,Cloak
-24,Spell,Common,Burn
-25,Artifact,Common,Scepter
-26,Spell,Common,Invisibility
-27,Spell,Common,Vortex
-28,Enchantment,Rare,Forged Strength
-29,Enchantment,Rare,Oblivion Strength
-30,Creature,Common,Orc
-31,Creature,Common,Elf
-32,Artifact,Common,Crown
-33,Enchantment,Common,Haste
-34,Spell,Legendary,Clever Invisibility
-35,Enchantment,Mythic,Potent Lethargy
-36,Creature,Common,Eagle
-37,Artifact,Common,Bracers
-38,Creature,Legendary,Aura Undead Giant of the Polar Woods
-39,Creature,Legendary,Death Undead Orge of the Low Hills
-40,Creature,Common,Warlock
-41,Creature,Rare,Aura Thief Skin-Walker
-42,Creature,Common,Goblin
-43,Spell,Common,Burn
-44,Spell,Rare,Cataclysmic Sorrow
+==================,DECK,5957
+0,Enchantment,Forged Lethargy
+1,Creature,Magi
+2,Creature,Spider
+3,Enchantment,Alacrity
+4,Spell,Dark Tempest
+5,Creature,Eagle
+6,Enchantment,Miracle Shrink
+7,Enchantment,Age
+8,Artifact,Pendant
+9,Spell,Lunar Hypnosis
+10,Artifact,Irate Solar Pendant
+11,Artifact,Pendant
+12,Creature,Frozen Rogue Goblin
+13,Enchantment,Shimmering Age
+14,Creature,Spider
+15,Spell,Burst
+16,Creature,Paladin
+17,Creature,Berserker
+18,Creature,Ghoul
+19,Enchantment,Sorrow Firebreath
+20,Creature,Eagle
+21,Creature,Dark Priest Griffin
+22,Creature,Death Lord Elf of the Border
+23,Artifact,Cloak
+24,Spell,Burn
+25,Artifact,Scepter
+26,Spell,Burn
+27,Spell,Lightning
+28,Enchantment,Cataclysmic Firebreath
+29,Enchantment,Nimble Shade
+30,Creature,Spider
+31,Creature,Warlock
+32,Artifact,Crown
+33,Enchantment,Drain
+34,Spell,Irate Grim Fury
+35,Enchantment,Urgent Grim Invert
+36,Creature,Eagle
+37,Artifact,Bracers
+38,Creature,Aura Undead Dwarf of the Polar Woods
+39,Creature,Death Undead Elf of the Low Hills
+40,Creature,Berserker
+41,Creature,Aura Thief Orc
+42,Creature,Skin-Walker
+43,Spell,Pandemonium
+44,Spell,Chimeric Gravitation

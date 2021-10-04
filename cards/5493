@@ -1,46 +1,46 @@
-==================,DECK,5493,Medium
-0,Creature,Common,Dwarf
-1,Creature,Mythic,Snow Ancient Demon of Hate
-2,Spell,Rare,Forged Lightning
-3,Spell,Common,Lightning
-4,Creature,Common,Ghoul
-5,Creature,Common,Warlock
-6,Creature,Common,Elf
-7,Spell,Common,Wall
-8,Enchantment,Common,Haste
-9,Creature,Common,Paladin
-10,Creature,Rare,Dark Queen Berserker
-11,Creature,Rare,Dark Rogue Minotaur
-12,Enchantment,Common,Agony
-13,Spell,Common,Freeze
-14,Spell,Common,Torment
-15,Creature,Legendary,Aura Undead Oni of the Magical Forest
-16,Spell,Common,Pandemonium
-17,Artifact,Common,Cloak
-18,Creature,Rare,Death Queen Berserker
-19,Creature,Common,Orc
-20,Enchantment,Common,Agony
-21,Spell,Common,Frenzy
-22,Creature,Rare,Frozen Assassin Fairy
-23,Artifact,Rare,Lunar Ring
-24,Creature,Rare,Earth Knight Fairy
-25,Creature,Common,Warlock
-26,Creature,Rare,Death Merchant Griffin
-27,Creature,Common,Eagle
-28,Creature,Common,Paladin
-29,Creature,Common,Goblin
-30,Creature,Legendary,Dark Monk Oni of the West
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Ghoul
-33,Creature,Common,Dwarf
-34,Artifact,Legendary,Angry Ghost Wand
-35,Creature,Rare,Frozen Lord Minotaur
-36,Artifact,Common,Pendant
-37,Creature,Common,Goblin
-38,Creature,Common,Wolf
-39,Spell,Rare,Nimble Gravitation
-40,Creature,Legendary,Frozen Merchant Kraken of the Mountains
-41,Creature,Common,Spider
-42,Creature,Mythic,Light Nameless Phoenix of the Sky
-43,Spell,Common,Assault
-44,Enchantment,Common,Shade
+==================,DECK,5493
+0,Creature,Magi
+1,Creature,Snow Ancient Demon of Hate
+2,Spell,Dark Vortex
+3,Spell,Vortex
+4,Creature,Ghoul
+5,Creature,Berserker
+6,Creature,Warlock
+7,Spell,Heal
+8,Enchantment,Alacrity
+9,Creature,Troll
+10,Creature,Dark Queen Goblin
+11,Creature,Dark Rogue Cyclops
+12,Enchantment,Age
+13,Spell,Pandemonium
+14,Spell,Revive
+15,Creature,Aura Undead Oni of the Magical Forest
+16,Spell,Hypnosis
+17,Artifact,Cloak
+18,Creature,Death Queen Goblin
+19,Creature,Spider
+20,Enchantment,Lethargy
+21,Spell,Tempest
+22,Creature,Frozen Assassin Kraken
+23,Artifact,Sorrow Ring
+24,Creature,Earth Knight Kraken
+25,Creature,Berserker
+26,Creature,Death Merchant Griffin
+27,Creature,Eagle
+28,Creature,Troll
+29,Creature,Skin-Walker
+30,Creature,Dark Monk Oni of the West
+31,Enchantment,Firebreath
+32,Creature,Ghoul
+33,Creature,Magi
+34,Artifact,Urgent Dark Ghost Wand
+35,Creature,Frozen Lord Cyclops
+36,Artifact,Pendant
+37,Creature,Skin-Walker
+38,Creature,Wolf
+39,Spell,Forged Burst
+40,Creature,Frozen Merchant Ogre of the Mountains
+41,Creature,Paladin
+42,Creature,Light Nameless Phoenix of the Sky
+43,Spell,Pandemonium
+44,Enchantment,Strength

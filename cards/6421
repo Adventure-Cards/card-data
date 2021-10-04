@@ -1,46 +1,46 @@
-==================,DECK,6421,Light
-0,Spell,Legendary,Angry Lightning
-1,Enchantment,Common,Shrink
-2,Creature,Common,Magi
-3,Artifact,Rare,Forged Greaves
-4,Artifact,Common,Pendant
-5,Creature,Common,Paladin
-6,Creature,Common,Warlock
-7,Creature,Common,Ghoul
-8,Artifact,Rare,Forged Staff
-9,Enchantment,Common,Flight
-10,Creature,Common,Dwarf
-11,Creature,Common,Spider
-12,Creature,Common,Warlock
-13,Creature,Rare,Dark King Minotaur
-14,Creature,Common,Magi
-15,Artifact,Common,Amulet
-16,Spell,Common,Invisibility
-17,Spell,Rare,Hateful Maelstrom
-18,Creature,Rare,Frozen Undead Griffin
-19,Enchantment,Common,Agony
-20,Enchantment,Legendary,Instant Agony
-21,Creature,Common,Warlock
-22,Enchantment,Legendary,Extreme Alacrity
-23,Creature,Common,Paladin
-24,Enchantment,Common,Haste
-25,Creature,Common,Paladin
-26,Enchantment,Common,Strength
-27,Creature,Common,Eagle
-28,Enchantment,Mythic,Dire Drain
-29,Artifact,Rare,Dark Boots
-30,Spell,Common,Revive
-31,Enchantment,Common,Drain
-32,Enchantment,Common,Shade
-33,Creature,Legendary,Light Rogue Giant of the Magical Forest
-34,Creature,Common,Wolf
-35,Creature,Common,Ghoul
-36,Spell,Common,Ice
-37,Artifact,Common,Belt
-38,Creature,Common,Orc
-39,Spell,Common,Hypnosis
-40,Artifact,Common,Bow
-41,Creature,Rare,Light Priest Minotaur
-42,Creature,Mythic,Frozen Ancient Wizard of the Void
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Warlock
+==================,DECK,6421
+0,Spell,Instant Dark Heal
+1,Enchantment,Age
+2,Creature,Fairy
+3,Artifact,Lunar Greaves
+4,Artifact,Pendant
+5,Creature,Troll
+6,Creature,Berserker
+7,Creature,Ghoul
+8,Artifact,Sorrow Staff
+9,Enchantment,Lethargy
+10,Creature,Magi
+11,Creature,Paladin
+12,Creature,Berserker
+13,Creature,Dark King Cyclops
+14,Creature,Fairy
+15,Artifact,Amulet
+16,Spell,Reanimate
+17,Spell,Lunar Gale
+18,Creature,Frozen Undead Griffin
+19,Enchantment,Haste
+20,Enchantment,Instant Corpse Strength
+21,Creature,Berserker
+22,Enchantment,Urgent Dark Flight
+23,Creature,Troll
+24,Enchantment,Firebreath
+25,Creature,Troll
+26,Enchantment,Shield
+27,Creature,Eagle
+28,Enchantment,Zealous Apocalypse Blight
+29,Artifact,Sorrow Boots
+30,Spell,Assault
+31,Enchantment,Deathgrip
+32,Enchantment,Age
+33,Creature,Light Rogue Dwarf of the Magical Forest
+34,Creature,Wolf
+35,Creature,Ghoul
+36,Spell,Hypnosis
+37,Artifact,Belt
+38,Creature,Spider
+39,Spell,Frenzy
+40,Artifact,Bow
+41,Creature,Light Priest Cyclops
+42,Creature,Frozen Ancient Wizard of the Void
+43,Enchantment,Haste
+44,Creature,Berserker

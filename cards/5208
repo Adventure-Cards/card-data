@@ -1,46 +1,46 @@
-==================,DECK,5208,Medium
-0,Creature,Legendary,Earth Queen Cyclops of the Arctic Blizzards
-1,Creature,Rare,Dark Merchant Berserker
-2,Enchantment,Common,Shade
-3,Creature,Common,Wolf
-4,Spell,Common,Gale
-5,Creature,Rare,Aura Knight Minotaur
-6,Creature,Common,Elf
-7,Enchantment,Rare,Frigid Shade
-8,Enchantment,Common,Age
-9,Artifact,Common,Amulet
-10,Creature,Common,Goblin
-11,Creature,Legendary,Light Merchant Giant of the Black Stone
-12,Spell,Rare,Lunar Reanimate
-13,Creature,Common,Paladin
-14,Creature,Rare,Death Queen Minotaur
-15,Artifact,Common,Crown
-16,Artifact,Common,Greaves
-17,Creature,Common,Eagle
-18,Enchantment,Mythic,Dire Blight
-19,Artifact,Common,Shield
-20,Creature,Common,Ghoul
-21,Creature,Common,Ghoul
-22,Creature,Common,Magi
-23,Creature,Common,Elf
-24,Artifact,Common,Boots
-25,Enchantment,Common,Invert
-26,Creature,Common,Magi
-27,Artifact,Common,Crown
-28,Artifact,Common,Bow
-29,Spell,Rare,Nimble Heal
-30,Artifact,Common,Bow
-31,Creature,Rare,Death Undead Hydra
-32,Artifact,Common,Gloves
-33,Creature,Rare,Light Priest Fairy
-34,Spell,Common,Stricken
-35,Creature,Common,Paladin
-36,Creature,Common,Paladin
-37,Creature,Legendary,Death Undead Orge of the Plains
-38,Spell,Common,Sorrow
-39,Creature,Common,Elf
-40,Spell,Common,Sorrow
-41,Creature,Common,Magi
-42,Creature,Common,Dwarf
-43,Spell,Rare,Oblivion Heal
-44,Creature,Mythic,Frozen Chaos Wizard of the Void
+==================,DECK,5208
+0,Creature,Earth Queen Giant of the Arctic Blizzards
+1,Creature,Dark Merchant Goblin
+2,Enchantment,Lethargy
+3,Creature,Wolf
+4,Spell,Stricken
+5,Creature,Aura Knight Cyclops
+6,Creature,Warlock
+7,Enchantment,Frigid Invert
+8,Enchantment,Haste
+9,Artifact,Amulet
+10,Creature,Skin-Walker
+11,Creature,Light Merchant Dwarf of the Black Stone
+12,Spell,Dark Fire
+13,Creature,Troll
+14,Creature,Death Queen Cyclops
+15,Artifact,Crown
+16,Artifact,Greaves
+17,Creature,Eagle
+18,Enchantment,Potent Nimble Drain
+19,Artifact,Shield
+20,Creature,Ghoul
+21,Creature,Ghoul
+22,Creature,Fairy
+23,Creature,Warlock
+24,Artifact,Boots
+25,Enchantment,Age
+26,Creature,Fairy
+27,Artifact,Crown
+28,Artifact,Bow
+29,Spell,Solar Fire
+30,Artifact,Bow
+31,Creature,Death Undead Hydra
+32,Artifact,Gloves
+33,Creature,Light Priest Kraken
+34,Spell,Maelstrom
+35,Creature,Troll
+36,Creature,Troll
+37,Creature,Death Undead Elf of the Plains
+38,Spell,Revive
+39,Creature,Warlock
+40,Spell,Wall
+41,Creature,Fairy
+42,Creature,Magi
+43,Spell,Victory Infuriate
+44,Creature,Frozen Chaos Wizard of the Void

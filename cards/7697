@@ -1,46 +1,46 @@
-==================,DECK,7697,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Paladin
-2,Creature,Common,Warlock
-3,Enchantment,Rare,Miracle Age
-4,Creature,Common,Goblin
-5,Creature,Common,Wolf
-6,Creature,Legendary,Dark Fighter Kraken of the Mountains
-7,Creature,Rare,Snow Rogue Minotaur
-8,Enchantment,Common,Blight
-9,Spell,Common,Gale
-10,Creature,Common,Elf
-11,Enchantment,Common,Flight
-12,Spell,Legendary,Mighty Frenzy
-13,Creature,Common,Spider
-14,Enchantment,Common,Deathgrip
-15,Spell,Rare,Grim Wall
-16,Spell,Common,Freeze
-17,Creature,Rare,Snow Assassin Minotaur
-18,Creature,Common,Warlock
-19,Artifact,Rare,Nature Boots
-20,Creature,Rare,Aura Lord Skin-Walker
-21,Spell,Rare,Solar Frost
-22,Creature,Rare,Snow Rogue Minotaur
-23,Creature,Common,Spider
-24,Enchantment,Common,Flight
-25,Creature,Legendary,Snow Warrior Cyclops of the Eternal Land
-26,Creature,Rare,Dark Thief Berserker
-27,Spell,Rare,Hateful Stun
-28,Creature,Common,Warlock
-29,Creature,Common,Magi
-30,Spell,Legendary,Instant Hypnosis
-31,Creature,Rare,Snow Monk Skin-Walker
-32,Enchantment,Common,Haste
-33,Enchantment,Common,Strength
-34,Creature,Legendary,Snow King Giant of the Swamp
-35,Spell,Rare,Miracle Burst
-36,Creature,Common,Wolf
-37,Creature,Common,Goblin
-38,Creature,Common,Eagle
-39,Creature,Common,Orc
-40,Enchantment,Common,Alacrity
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Spider
-43,Spell,Common,Rage
-44,Enchantment,Rare,Gloom Invert
+==================,DECK,7697
+0,Creature,Berserker
+1,Creature,Troll
+2,Creature,Berserker
+3,Enchantment,Victory Haste
+4,Creature,Skin-Walker
+5,Creature,Wolf
+6,Creature,Dark Fighter Ogre of the Mountains
+7,Creature,Snow Rogue Cyclops
+8,Enchantment,Invert
+9,Spell,Pandemonium
+10,Creature,Warlock
+11,Enchantment,Blight
+12,Spell,Ardent Sorrow Revive
+13,Creature,Paladin
+14,Enchantment,Firebreath
+15,Spell,Victory Gale
+16,Spell,Rage
+17,Creature,Snow Assassin Cyclops
+18,Creature,Berserker
+19,Artifact,Necro Boots
+20,Creature,Aura Lord Orc
+21,Spell,Nature Fury
+22,Creature,Snow Rogue Cyclops
+23,Creature,Paladin
+24,Enchantment,Alacrity
+25,Creature,Snow Warrior Giant of the Eternal Land
+26,Creature,Dark Thief Goblin
+27,Spell,Dark Tempest
+28,Creature,Berserker
+29,Creature,Fairy
+30,Spell,Clever Hateful Revive
+31,Creature,Snow Monk Orc
+32,Enchantment,Firebreath
+33,Enchantment,Strength
+34,Creature,Snow King Dwarf of the Swamp
+35,Spell,Victory Pandemonium
+36,Creature,Wolf
+37,Creature,Skin-Walker
+38,Creature,Eagle
+39,Creature,Spider
+40,Enchantment,Alacrity
+41,Enchantment,Flight
+42,Creature,Paladin
+43,Spell,Freeze
+44,Enchantment,Sorrow Shrink

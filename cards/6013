@@ -1,46 +1,46 @@
-==================,DECK,6013,Light
-0,Creature,Common,Orc
-1,Creature,Common,Goblin
-2,Creature,Common,Goblin
-3,Enchantment,Rare,Miracle Blight
-4,Creature,Legendary,Aura Fighter Giant of the Golden Palace
-5,Spell,Common,Gravitation
-6,Spell,Common,Hypnosis
-7,Creature,Common,Elf
-8,Creature,Legendary,Snow King Kraken of the Plains
-9,Enchantment,Rare,Nimble Shield
-10,Creature,Common,Spider
-11,Creature,Common,Eagle
-12,Creature,Mythic,Death Undead Dragon of the Dead
-13,Spell,Rare,Shimmering Stricken
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Creature,Common,Ghoul
-17,Creature,Common,Ghoul
-18,Spell,Rare,Shimmering Pandemonium
-19,Creature,Common,Wolf
-20,Spell,Common,Rage
-21,Enchantment,Mythic,Potent Lethargy
-22,Enchantment,Rare,Solar Invert
-23,Creature,Common,Wolf
-24,Creature,Common,Warlock
-25,Creature,Rare,Aura Priest Berserker
-26,Enchantment,Common,Drain
-27,Creature,Common,Magi
-28,Spell,Common,Vortex
-29,Artifact,Rare,Corpse Boots
-30,Creature,Common,Paladin
-31,Spell,Common,Wall
-32,Creature,Rare,Frozen Warrior Skin-Walker
-33,Creature,Common,Wolf
-34,Creature,Common,Paladin
-35,Creature,Mythic,Dark Nameless Phoenix of Illusion
-36,Enchantment,Common,Invert
-37,Artifact,Common,Helmet
-38,Spell,Rare,Apocalypse Ice
-39,Creature,Common,Spider
-40,Spell,Common,Frenzy
-41,Creature,Common,Goblin
-42,Artifact,Rare,Shimmering Greaves
-43,Spell,Common,Gale
-44,Creature,Common,Paladin
+==================,DECK,6013
+0,Creature,Spider
+1,Creature,Skin-Walker
+2,Creature,Skin-Walker
+3,Enchantment,Nimble Shade
+4,Creature,Aura Fighter Dwarf of the Golden Palace
+5,Spell,Burst
+6,Spell,Burn
+7,Creature,Warlock
+8,Creature,Snow King Ogre of the Plains
+9,Enchantment,Nature Agony
+10,Creature,Paladin
+11,Creature,Eagle
+12,Creature,Death Undead Dragon of the Dead
+13,Spell,Forged Frenzy
+14,Creature,Warlock
+15,Creature,Berserker
+16,Creature,Ghoul
+17,Creature,Ghoul
+18,Spell,Hateful Infuriate
+19,Creature,Wolf
+20,Spell,Frost
+21,Enchantment,Irate Grim Blight
+22,Enchantment,Shimmering Deathgrip
+23,Creature,Wolf
+24,Creature,Berserker
+25,Creature,Aura Priest Goblin
+26,Enchantment,Agony
+27,Creature,Fairy
+28,Spell,Hypnosis
+29,Artifact,Corpse Boots
+30,Creature,Troll
+31,Spell,Fury
+32,Creature,Frozen Warrior Orc
+33,Creature,Wolf
+34,Creature,Troll
+35,Creature,Dark Nameless Phoenix of Illusion
+36,Enchantment,Invert
+37,Artifact,Helmet
+38,Spell,Victory Lightning
+39,Creature,Paladin
+40,Spell,Hypnosis
+41,Creature,Skin-Walker
+42,Artifact,Nature Greaves
+43,Spell,Fire
+44,Creature,Troll

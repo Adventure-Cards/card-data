@@ -1,46 +1,46 @@
-==================,DECK,4537,Light
-0,Creature,Common,Spider
-1,Spell,Legendary,Mighty Lightning
-2,Creature,Common,Dwarf
-3,Artifact,Common,Scepter
-4,Spell,Common,Invisibility
-5,Creature,Legendary,Frozen Assassin Oni of the Swamp
-6,Creature,Common,Spider
-7,Enchantment,Common,Drain
-8,Spell,Rare,Necro Gale
-9,Enchantment,Rare,Frigid Shade
-10,Creature,Common,Warlock
-11,Spell,Common,Revive
-12,Creature,Rare,Dark Warrior Skin-Walker
-13,Spell,Rare,Apocalypse Ice
-14,Artifact,Common,Potion
-15,Creature,Common,Dwarf
-16,Artifact,Common,Scythe
-17,Spell,Common,Hypnosis
-18,Spell,Common,Gale
-19,Creature,Common,Paladin
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Goblin
-22,Creature,Common,Paladin
-23,Creature,Common,Spider
-24,Creature,Legendary,Dark Queen Giant of the Eternal Land
-25,Spell,Common,Burn
-26,Spell,Common,Gravitation
-27,Creature,Common,Elf
-28,Artifact,Common,Sigil
-29,Spell,Common,Revive
-30,Creature,Common,Orc
-31,Enchantment,Common,Haste
-32,Artifact,Common,Helm
-33,Creature,Rare,Light Queen Griffin
-34,Creature,Rare,Earth Queen Hydra
-35,Spell,Rare,Gloom Freeze
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Goblin
-38,Creature,Common,Paladin
-39,Enchantment,Common,Drain
-40,Creature,Common,Eagle
-41,Creature,Common,Eagle
-42,Creature,Common,Orc
-43,Artifact,Common,Tome
-44,Artifact,Rare,Corpse Gauntlet
+==================,DECK,4537
+0,Creature,Paladin
+1,Spell,Ardent Miracle Fireball
+2,Creature,Magi
+3,Artifact,Scepter
+4,Spell,Heal
+5,Creature,Frozen Assassin Oni of the Swamp
+6,Creature,Paladin
+7,Enchantment,Invert
+8,Spell,Hateful Reanimate
+9,Enchantment,Frigid Invert
+10,Creature,Berserker
+11,Spell,Stun
+12,Creature,Dark Warrior Orc
+13,Spell,Victory Wall
+14,Artifact,Potion
+15,Creature,Magi
+16,Artifact,Scythe
+17,Spell,Gravitation
+18,Spell,Assault
+19,Creature,Troll
+20,Enchantment,Shrink
+21,Creature,Skin-Walker
+22,Creature,Troll
+23,Creature,Paladin
+24,Creature,Dark Queen Dwarf of the Eternal Land
+25,Spell,Burst
+26,Spell,Revive
+27,Creature,Warlock
+28,Artifact,Sigil
+29,Spell,Maelstrom
+30,Creature,Spider
+31,Enchantment,Lethargy
+32,Artifact,Helm
+33,Creature,Light Queen Griffin
+34,Creature,Earth Queen Hydra
+35,Spell,Lunar Revive
+36,Enchantment,Shrink
+37,Creature,Skin-Walker
+38,Creature,Troll
+39,Enchantment,Haste
+40,Creature,Eagle
+41,Creature,Eagle
+42,Creature,Spider
+43,Artifact,Tome
+44,Artifact,Nature Gauntlet

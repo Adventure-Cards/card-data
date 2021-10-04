@@ -1,46 +1,46 @@
-==================,DECK,6354,Light
-0,Creature,Legendary,Dark Priest Giant of the Mountains
-1,Creature,Common,Dwarf
-2,Creature,Common,Wolf
-3,Enchantment,Common,Strength
-4,Creature,Common,Ghoul
-5,Creature,Common,Eagle
-6,Creature,Common,Spider
-7,Spell,Rare,Grim Gravitation
-8,Creature,Mythic,Dark Ancient Demon of Illusion
-9,Enchantment,Common,Blight
-10,Artifact,Legendary,Potent Shield
-11,Artifact,Common,Potion
-12,Artifact,Common,Divine Robe
-13,Creature,Common,Spider
-14,Spell,Common,Stun
-15,Spell,Common,Gale
-16,Artifact,Common,Potion
-17,Creature,Common,Ghoul
-18,Spell,Legendary,Urgent Stricken
-19,Creature,Rare,Frozen Rogue Minotaur
-20,Creature,Rare,Frozen Priest Skin-Walker
-21,Creature,Common,Wolf
-22,Creature,Common,Paladin
-23,Creature,Legendary,Light King Oni of the Swamp
-24,Creature,Common,Ghoul
-25,Creature,Common,Elf
-26,Enchantment,Rare,Life Deathgrip
-27,Creature,Rare,Dark King Berserker
-28,Spell,Legendary,Instant Stricken
-29,Spell,Common,Infuriate
-30,Creature,Common,Magi
-31,Creature,Common,Orc
-32,Enchantment,Common,Flight
-33,Artifact,Common,Divine Robe
-34,Creature,Rare,Earth Rogue Minotaur
-35,Creature,Common,Eagle
-36,Artifact,Common,Helm
-37,Enchantment,Rare,Nimble Shield
-38,Creature,Legendary,Frozen Knight Cyclops of the Low Hills
-39,Creature,Common,Dwarf
-40,Creature,Rare,Aura Queen Skin-Walker
-41,Enchantment,Mythic,Mighty Alacrity
-42,Artifact,Common,Bow
-43,Creature,Rare,Light Rogue Skin-Walker
-44,Artifact,Legendary,Instant Sword
+==================,DECK,6354
+0,Creature,Dark Priest Dwarf of the Mountains
+1,Creature,Magi
+2,Creature,Wolf
+3,Enchantment,Strength
+4,Creature,Ghoul
+5,Creature,Eagle
+6,Creature,Paladin
+7,Spell,Frigid Rage
+8,Creature,Dark Ancient Demon of Illusion
+9,Enchantment,Blight
+10,Artifact,Empyrean Life Shield
+11,Artifact,Potion
+12,Artifact,Divine Robe
+13,Creature,Paladin
+14,Spell,Pandemonium
+15,Spell,Sorrow
+16,Artifact,Potion
+17,Creature,Ghoul
+18,Spell,Mighty Hateful Burn
+19,Creature,Frozen Rogue Cyclops
+20,Creature,Frozen Priest Orc
+21,Creature,Wolf
+22,Creature,Troll
+23,Creature,Light King Oni of the Swamp
+24,Creature,Ghoul
+25,Creature,Warlock
+26,Enchantment,Oblivion Invert
+27,Creature,Dark King Goblin
+28,Spell,Zealous Forged Rage
+29,Spell,Fireball
+30,Creature,Fairy
+31,Creature,Spider
+32,Enchantment,Strength
+33,Artifact,Divine Robe
+34,Creature,Earth Rogue Cyclops
+35,Creature,Eagle
+36,Artifact,Helm
+37,Enchantment,Nature Age
+38,Creature,Frozen Knight Giant of the Low Hills
+39,Creature,Magi
+40,Creature,Aura Queen Orc
+41,Enchantment,Dire Dark Firebreath
+42,Artifact,Bow
+43,Creature,Light Rogue Orc
+44,Artifact,Potent Corpse Sword

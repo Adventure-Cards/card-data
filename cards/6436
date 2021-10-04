@@ -1,46 +1,46 @@
-==================,DECK,6436,Medium
-0,Creature,Common,Dwarf
-1,Artifact,Common,Staff
-2,Artifact,Common,Gauntlet
-3,Spell,Common,Hypnosis
-4,Enchantment,Common,Drain
-5,Creature,Common,Dwarf
-6,Creature,Rare,Frozen Monk Skin-Walker
-7,Creature,Common,Paladin
-8,Artifact,Rare,Apocalypse Ring
-9,Spell,Rare,Gloom Invisibility
-10,Creature,Rare,Aura Rogue Minotaur
-11,Spell,Rare,Forged Lightning
-12,Enchantment,Mythic,Mighty Shade
-13,Spell,Common,Heal
-14,Creature,Common,Warlock
-15,Enchantment,Common,Haste
-16,Creature,Legendary,Death Knight Orge of the Plains
-17,Spell,Legendary,Extreme Freeze
-18,Creature,Common,Elf
-19,Creature,Common,Elf
-20,Enchantment,Legendary,Urgent Invert
-21,Artifact,Common,Shield
-22,Spell,Legendary,Instant Frenzy
-23,Creature,Common,Dwarf
-24,Artifact,Legendary,Extreme Divine Robe
-25,Creature,Legendary,Light Thief Giant of the Golden Palace
-26,Creature,Rare,Frozen Lord Griffin
-27,Creature,Common,Elf
-28,Enchantment,Rare,Lunar Shrink
-29,Enchantment,Common,Blight
-30,Creature,Mythic,Earth Nameless Dragon of the Shadows
-31,Enchantment,Common,Lethargy
-32,Creature,Rare,Dark Rogue Griffin
-33,Enchantment,Mythic,Clever Drain
-34,Artifact,Common,Gloves
-35,Creature,Common,Magi
-36,Enchantment,Legendary,Extreme Haste
-37,Creature,Common,Elf
-38,Spell,Common,Rage
-39,Spell,Mythic,Urgent Reanimate
-40,Creature,Common,Ghoul
-41,Creature,Common,Warlock
-42,Creature,Rare,Earth Merchant Hydra
-43,Enchantment,Legendary,Angry Alacrity
-44,Artifact,Rare,Nature Gloves
+==================,DECK,6436
+0,Creature,Magi
+1,Artifact,Staff
+2,Artifact,Gauntlet
+3,Spell,Stricken
+4,Enchantment,Blight
+5,Creature,Magi
+6,Creature,Frozen Monk Orc
+7,Creature,Troll
+8,Artifact,Frigid Ring
+9,Spell,Dark Hypnosis
+10,Creature,Aura Rogue Cyclops
+11,Spell,Miracle Freeze
+12,Enchantment,Instant Chimeric Shrink
+13,Spell,Hypnosis
+14,Creature,Berserker
+15,Enchantment,Blight
+16,Creature,Death Knight Elf of the Plains
+17,Spell,Instant Lunar Reanimate
+18,Creature,Warlock
+19,Creature,Warlock
+20,Enchantment,Instant Shimmering Strength
+21,Artifact,Shield
+22,Spell,Ardent Nature Rage
+23,Creature,Magi
+24,Artifact,Potent Gloom Divine Robe
+25,Creature,Light Thief Dwarf of the Golden Palace
+26,Creature,Frozen Lord Griffin
+27,Creature,Warlock
+28,Enchantment,Chimeric Alacrity
+29,Enchantment,Firebreath
+30,Creature,Earth Nameless Dragon of the Shadows
+31,Enchantment,Blight
+32,Creature,Dark Rogue Griffin
+33,Enchantment,Mighty Apocalypse Invert
+34,Artifact,Gloves
+35,Creature,Fairy
+36,Enchantment,Empyrean Miracle Firebreath
+37,Creature,Warlock
+38,Spell,Frenzy
+39,Spell,Empyrean Necro Maelstrom
+40,Creature,Ghoul
+41,Creature,Berserker
+42,Creature,Earth Merchant Hydra
+43,Enchantment,Urgent Dark Flight
+44,Artifact,Nature Gloves

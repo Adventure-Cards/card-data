@@ -1,46 +1,46 @@
-==================,DECK,4159,Medium
-0,Spell,Common,Sorrow
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Blight
-3,Spell,Mythic,Mighty Vortex
-4,Spell,Common,Frenzy
-5,Creature,Mythic,Dark Time Dragon of Illusion
-6,Artifact,Rare,Nimble Gloves
-7,Creature,Common,Orc
-8,Creature,Common,Orc
-9,Creature,Rare,Dark Knight Fairy
-10,Artifact,Common,Greaves
-11,Creature,Common,Magi
-12,Creature,Legendary,Snow Monk Kraken of the Frozen Castle
-13,Creature,Rare,Light Undead Berserker
-14,Spell,Common,Fury
-15,Spell,Common,Burst
-16,Creature,Mythic,Earth Nameless Dragon of the Shadows
-17,Enchantment,Common,Invert
-18,Enchantment,Common,Strength
-19,Creature,Common,Paladin
-20,Creature,Common,Warlock
-21,Spell,Common,Sorrow
-22,Creature,Rare,Light Thief Minotaur
-23,Creature,Rare,Earth Thief Berserker
-24,Artifact,Rare,Shimmering Staff
-25,Creature,Common,Orc
-26,Enchantment,Mythic,Mighty Alacrity
-27,Creature,Rare,Death Assassin Minotaur
-28,Creature,Common,Wolf
-29,Creature,Common,Orc
-30,Creature,Rare,Snow Rogue Griffin
-31,Creature,Rare,Frozen Thief Skin-Walker
-32,Artifact,Rare,Lunar Greaves
-33,Creature,Legendary,Frozen Queen Giant of the Bright Mountains
-34,Spell,Common,Rage
-35,Spell,Common,Stun
-36,Creature,Common,Warlock
-37,Enchantment,Common,Shield
-38,Creature,Rare,Earth Fighter Fairy
-39,Creature,Rare,Dark Merchant Minotaur
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Ghoul
-42,Spell,Rare,Corpse Rage
-43,Enchantment,Common,Blight
-44,Enchantment,Rare,Solar Shield
+==================,DECK,4159
+0,Spell,Lightning
+1,Creature,Ghoul
+2,Enchantment,Age
+3,Spell,Instant Chimeric Invisibility
+4,Spell,Rage
+5,Creature,Dark Time Dragon of Illusion
+6,Artifact,Necro Gloves
+7,Creature,Spider
+8,Creature,Spider
+9,Creature,Dark Knight Kraken
+10,Artifact,Greaves
+11,Creature,Fairy
+12,Creature,Snow Monk Ogre of the Frozen Castle
+13,Creature,Light Undead Goblin
+14,Spell,Ice
+15,Spell,Gale
+16,Creature,Earth Nameless Dragon of the Shadows
+17,Enchantment,Agony
+18,Enchantment,Invert
+19,Creature,Troll
+20,Creature,Berserker
+21,Spell,Pandemonium
+22,Creature,Light Thief Cyclops
+23,Creature,Earth Thief Goblin
+24,Artifact,Solar Staff
+25,Creature,Spider
+26,Enchantment,Ardent Dark Shield
+27,Creature,Death Assassin Cyclops
+28,Creature,Wolf
+29,Creature,Spider
+30,Creature,Snow Rogue Griffin
+31,Creature,Frozen Thief Orc
+32,Artifact,Miracle Greaves
+33,Creature,Frozen Queen Dwarf of the Bright Mountains
+34,Spell,Torment
+35,Spell,Hypnosis
+36,Creature,Berserker
+37,Enchantment,Drain
+38,Creature,Earth Fighter Kraken
+39,Creature,Dark Merchant Cyclops
+40,Enchantment,Deathgrip
+41,Creature,Ghoul
+42,Spell,Hateful Freeze
+43,Enchantment,Invert
+44,Enchantment,Nature Deathgrip

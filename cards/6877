@@ -1,46 +1,46 @@
-==================,DECK,6877,Medium
-0,Creature,Common,Orc
-1,Spell,Common,Pandemonium
-2,Artifact,Common,Gloves
-3,Spell,Rare,Nimble Lightning
-4,Artifact,Rare,Gloom Shield
-5,Artifact,Legendary,Angry Ring
-6,Enchantment,Mythic,Instant Deathgrip
-7,Creature,Common,Magi
-8,Creature,Rare,Aura Rogue Berserker
-9,Creature,Common,Dwarf
-10,Creature,Rare,Aura Warrior Berserker
-11,Creature,Rare,Aura Knight Minotaur
-12,Spell,Legendary,Intense Burn
-13,Enchantment,Mythic,Potent Age
-14,Creature,Common,Goblin
-15,Creature,Rare,Frozen Warrior Fairy
-16,Spell,Common,Wall
-17,Creature,Common,Paladin
-18,Creature,Mythic,Earth Grand Wizard of the Shadows
-19,Creature,Legendary,Snow Fighter Giant of the Plains
-20,Spell,Rare,Hateful Fury
-21,Enchantment,Legendary,Intense Agony
-22,Artifact,Rare,Shimmering Ring
-23,Spell,Common,Burst
-24,Spell,Rare,Shimmering Reanimate
-25,Artifact,Common,Pendant
-26,Enchantment,Rare,Apocalypse Drain
-27,Creature,Rare,Aura King Hydra
-28,Creature,Common,Paladin
-29,Spell,Common,Maelstrom
-30,Enchantment,Common,Haste
-31,Creature,Legendary,Death Merchant Giant of the Golden Palace
-32,Creature,Common,Warlock
-33,Creature,Common,Magi
-34,Creature,Legendary,Snow Queen Giant of the Haven
-35,Enchantment,Mythic,Clever Shield
-36,Creature,Legendary,Snow King Cyclops of the Eternal Land
-37,Spell,Common,Burst
-38,Creature,Common,Elf
-39,Creature,Common,Paladin
-40,Creature,Common,Ghoul
-41,Creature,Common,Ghoul
-42,Artifact,Common,Scythe
-43,Creature,Common,Ghoul
-44,Artifact,Common,Belt
+==================,DECK,6877
+0,Creature,Spider
+1,Spell,Revive
+2,Artifact,Gloves
+3,Spell,Solar Infuriate
+4,Artifact,Gloom Shield
+5,Artifact,Clever Dark Ring
+6,Enchantment,Potent Shimmering Strength
+7,Creature,Fairy
+8,Creature,Aura Rogue Goblin
+9,Creature,Magi
+10,Creature,Aura Warrior Goblin
+11,Creature,Aura Knight Cyclops
+12,Spell,Zealous Solar Gravitation
+13,Enchantment,Empyrean Victory Shade
+14,Creature,Skin-Walker
+15,Creature,Frozen Warrior Kraken
+16,Spell,Sorrow
+17,Creature,Troll
+18,Creature,Earth Grand Wizard of the Shadows
+19,Creature,Snow Fighter Dwarf of the Plains
+20,Spell,Chimeric Fireball
+21,Enchantment,Ardent Corpse Lethargy
+22,Artifact,Forged Ring
+23,Spell,Infuriate
+24,Spell,Shimmering Torment
+25,Artifact,Pendant
+26,Enchantment,Apocalypse Invert
+27,Creature,Aura King Hydra
+28,Creature,Troll
+29,Spell,Frost
+30,Enchantment,Shrink
+31,Creature,Death Merchant Dwarf of the Golden Palace
+32,Creature,Berserker
+33,Creature,Fairy
+34,Creature,Snow Queen Dwarf of the Haven
+35,Enchantment,Irate Victory Blight
+36,Creature,Snow King Giant of the Eternal Land
+37,Spell,Wall
+38,Creature,Warlock
+39,Creature,Troll
+40,Creature,Ghoul
+41,Creature,Ghoul
+42,Artifact,Scythe
+43,Creature,Ghoul
+44,Artifact,Belt

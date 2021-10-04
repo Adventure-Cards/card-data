@@ -1,46 +1,46 @@
-==================,DECK,5508,Light
-0,Creature,Common,Orc
-1,Spell,Common,Assault
-2,Enchantment,Common,Invert
-3,Enchantment,Rare,Nimble Agony
-4,Creature,Legendary,Aura Warrior Giant of the West
-5,Creature,Common,Eagle
-6,Creature,Common,Eagle
-7,Enchantment,Common,Deathgrip
-8,Creature,Common,Elf
-9,Artifact,Rare,Dark Divine Robe
-10,Enchantment,Legendary,Clever Agony
-11,Creature,Common,Orc
-12,Creature,Legendary,Snow Monk Orge of the Arctic Blizzards
-13,Creature,Common,Ghoul
-14,Enchantment,Rare,Solar Shade
-15,Spell,Common,Infuriate
-16,Enchantment,Common,Strength
-17,Enchantment,Common,Shade
-18,Creature,Common,Goblin
-19,Spell,Common,Assault
-20,Spell,Rare,Lunar Sorrow
-21,Creature,Common,Spider
-22,Creature,Common,Magi
-23,Creature,Common,Eagle
-24,Creature,Rare,Light Assassin Fairy
-25,Creature,Common,Warlock
-26,Creature,Common,Dwarf
-27,Enchantment,Mythic,Urgent Drain
-28,Spell,Rare,Grim Frenzy
-29,Creature,Common,Orc
-30,Creature,Common,Wolf
-31,Enchantment,Common,Blight
-32,Enchantment,Common,Blight
-33,Creature,Legendary,Frozen Warrior Giant of the Golden Palace
-34,Artifact,Common,Helm
-35,Spell,Common,Gale
-36,Spell,Common,Vortex
-37,Spell,Common,Frost
-38,Spell,Legendary,Urgent Infuriate
-39,Creature,Common,Spider
-40,Artifact,Common,Scythe
-41,Creature,Common,Orc
-42,Creature,Common,Ghoul
-43,Spell,Legendary,Extreme Assault
-44,Creature,Legendary,Frozen Thief Cyclops of the Haven
+==================,DECK,5508
+0,Creature,Spider
+1,Spell,Freeze
+2,Enchantment,Shield
+3,Enchantment,Corpse Lethargy
+4,Creature,Aura Warrior Dwarf of the West
+5,Creature,Eagle
+6,Creature,Eagle
+7,Enchantment,Blight
+8,Creature,Warlock
+9,Artifact,Dark Divine Robe
+10,Enchantment,Irate Life Blight
+11,Creature,Spider
+12,Creature,Snow Monk Elf of the Arctic Blizzards
+13,Creature,Ghoul
+14,Enchantment,Necro Deathgrip
+15,Spell,Fury
+16,Enchantment,Shrink
+17,Enchantment,Lethargy
+18,Creature,Skin-Walker
+19,Spell,Revive
+20,Spell,Dark Vortex
+21,Creature,Paladin
+22,Creature,Fairy
+23,Creature,Eagle
+24,Creature,Light Assassin Kraken
+25,Creature,Berserker
+26,Creature,Magi
+27,Enchantment,Mighty Forged Agony
+28,Spell,Nimble Infuriate
+29,Creature,Spider
+30,Creature,Wolf
+31,Enchantment,Age
+32,Enchantment,Haste
+33,Creature,Frozen Warrior Dwarf of the Golden Palace
+34,Artifact,Helm
+35,Spell,Gale
+36,Spell,Maelstrom
+37,Spell,Maelstrom
+38,Spell,Potent Forged Maelstrom
+39,Creature,Paladin
+40,Artifact,Scythe
+41,Creature,Spider
+42,Creature,Ghoul
+43,Spell,Dire Miracle Fireball
+44,Creature,Frozen Thief Giant of the Haven

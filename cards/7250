@@ -1,46 +1,46 @@
-==================,DECK,7250,Light
-0,Creature,Rare,Death Assassin Minotaur
-1,Creature,Common,Warlock
-2,Artifact,Common,Greaves
-3,Enchantment,Common,Agony
-4,Creature,Common,Ghoul
-5,Enchantment,Mythic,Clever Haste
-6,Enchantment,Mythic,Urgent Shade
-7,Spell,Common,Sorrow
-8,Creature,Common,Dwarf
-9,Creature,Common,Elf
-10,Creature,Common,Eagle
-11,Artifact,Legendary,Intense Gloves
-12,Enchantment,Common,Drain
-13,Creature,Rare,Snow Warrior Skin-Walker
-14,Creature,Common,Warlock
-15,Spell,Legendary,Dire Fury
-16,Creature,Rare,Earth Monk Griffin
-17,Artifact,Common,Divine Robe
-18,Creature,Rare,Snow King Minotaur
-19,Enchantment,Rare,Forged Shield
-20,Creature,Common,Goblin
-21,Creature,Common,Eagle
-22,Artifact,Common,Scepter
-23,Artifact,Common,Shield
-24,Creature,Common,Paladin
-25,Creature,Legendary,Aura Fighter Oni of the Eastern Skies
-26,Creature,Common,Goblin
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Spell,Common,Frost
-30,Artifact,Common,Belt
-31,Creature,Common,Warlock
-32,Artifact,Common,Belt
-33,Spell,Rare,Dark Wall
-34,Artifact,Common,Pendant
-35,Spell,Common,Burst
-36,Creature,Common,Goblin
-37,Creature,Common,Elf
-38,Artifact,Common,Gloves
-39,Spell,Common,Rage
-40,Creature,Common,Paladin
-41,Enchantment,Common,Shield
-42,Creature,Common,Eagle
-43,Creature,Common,Magi
-44,Spell,Common,Frost
+==================,DECK,7250
+0,Creature,Death Assassin Cyclops
+1,Creature,Berserker
+2,Artifact,Greaves
+3,Enchantment,Invert
+4,Creature,Ghoul
+5,Enchantment,Empyrean Life Shade
+6,Enchantment,Ardent Necro Lethargy
+7,Spell,Frost
+8,Creature,Magi
+9,Creature,Warlock
+10,Creature,Eagle
+11,Artifact,Potent Nature Gloves
+12,Enchantment,Shield
+13,Creature,Snow Warrior Orc
+14,Creature,Berserker
+15,Spell,Mighty Oblivion Torment
+16,Creature,Earth Monk Griffin
+17,Artifact,Divine Robe
+18,Creature,Snow King Cyclops
+19,Enchantment,Gloom Flight
+20,Creature,Skin-Walker
+21,Creature,Eagle
+22,Artifact,Scepter
+23,Artifact,Shield
+24,Creature,Troll
+25,Creature,Aura Fighter Oni of the Eastern Skies
+26,Creature,Skin-Walker
+27,Creature,Magi
+28,Creature,Paladin
+29,Spell,Vortex
+30,Artifact,Belt
+31,Creature,Berserker
+32,Artifact,Belt
+33,Spell,Cataclysmic Frost
+34,Artifact,Pendant
+35,Spell,Frost
+36,Creature,Skin-Walker
+37,Creature,Warlock
+38,Artifact,Gloves
+39,Spell,Burst
+40,Creature,Troll
+41,Enchantment,Flight
+42,Creature,Eagle
+43,Creature,Fairy
+44,Spell,Sorrow

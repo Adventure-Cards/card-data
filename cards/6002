@@ -1,46 +1,46 @@
-==================,DECK,6002,Medium
-0,Creature,Common,Goblin
-1,Spell,Common,Gale
-2,Creature,Legendary,Aura Thief Giant of the Black Stone
-3,Creature,Common,Warlock
-4,Creature,Mythic,Dark Grand Wizard of Illusion
-5,Enchantment,Common,Invert
-6,Creature,Common,Magi
-7,Spell,Common,Stun
-8,Creature,Common,Warlock
-9,Creature,Legendary,Snow Warrior Orge of the Swamp
-10,Creature,Common,Eagle
-11,Creature,Common,Orc
-12,Spell,Common,Sorrow
-13,Spell,Common,Invisibility
-14,Creature,Common,Warlock
-15,Creature,Common,Wolf
-16,Enchantment,Common,Shade
-17,Artifact,Common,Gloves
-18,Creature,Common,Wolf
-19,Creature,Common,Goblin
-20,Artifact,Common,Boots
-21,Creature,Mythic,Earth Undead Phoenix of the Shadows
-22,Enchantment,Rare,Life Age
-23,Artifact,Common,Potion
-24,Creature,Common,Paladin
-25,Creature,Common,Ghoul
-26,Creature,Rare,Dark Thief Hydra
-27,Creature,Common,Orc
-28,Spell,Common,Burn
-29,Creature,Rare,Death Queen Griffin
-30,Creature,Common,Goblin
-31,Artifact,Rare,Apocalypse Pendant
-32,Artifact,Common,Scythe
-33,Spell,Mythic,Potent Fury
-34,Enchantment,Common,Age
-35,Spell,Common,Heal
-36,Spell,Legendary,Dire Gravitation
-37,Enchantment,Common,Shield
-38,Artifact,Common,Crown
-39,Spell,Legendary,Extreme Pandemonium
-40,Enchantment,Common,Strength
-41,Artifact,Rare,Solar Ring
-42,Enchantment,Legendary,Extreme Alacrity
-43,Artifact,Rare,Necro Boots
-44,Creature,Common,Warlock
+==================,DECK,6002
+0,Creature,Skin-Walker
+1,Spell,Invisibility
+2,Creature,Aura Thief Dwarf of the Black Stone
+3,Creature,Berserker
+4,Creature,Dark Grand Wizard of Illusion
+5,Enchantment,Lethargy
+6,Creature,Fairy
+7,Spell,Frost
+8,Creature,Berserker
+9,Creature,Snow Warrior Elf of the Swamp
+10,Creature,Eagle
+11,Creature,Spider
+12,Spell,Pandemonium
+13,Spell,Sorrow
+14,Creature,Berserker
+15,Creature,Wolf
+16,Enchantment,Deathgrip
+17,Artifact,Gloves
+18,Creature,Wolf
+19,Creature,Skin-Walker
+20,Artifact,Boots
+21,Creature,Earth Undead Phoenix of the Shadows
+22,Enchantment,Victory Haste
+23,Artifact,Potion
+24,Creature,Troll
+25,Creature,Ghoul
+26,Creature,Dark Thief Hydra
+27,Creature,Spider
+28,Spell,Revive
+29,Creature,Death Queen Griffin
+30,Creature,Skin-Walker
+31,Artifact,Frigid Pendant
+32,Artifact,Scythe
+33,Spell,Mighty Frigid Rage
+34,Enchantment,Drain
+35,Spell,Infuriate
+36,Spell,Dire Grim Frenzy
+37,Enchantment,Firebreath
+38,Artifact,Crown
+39,Spell,Potent Chimeric Fireball
+40,Enchantment,Haste
+41,Artifact,Corpse Ring
+42,Enchantment,Irate Dark Alacrity
+43,Artifact,Forged Boots
+44,Creature,Berserker

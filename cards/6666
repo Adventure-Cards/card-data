@@ -1,46 +1,46 @@
-==================,DECK,6666,Light
-0,Creature,Rare,Aura Knight Fairy
-1,Creature,Common,Warlock
-2,Creature,Rare,Aura Fighter Berserker
-3,Creature,Rare,Death Knight Minotaur
-4,Spell,Common,Revive
-5,Creature,Common,Spider
-6,Creature,Common,Magi
-7,Enchantment,Common,Drain
-8,Enchantment,Common,Deathgrip
-9,Enchantment,Common,Deathgrip
-10,Creature,Common,Wolf
-11,Spell,Rare,Dark Gravitation
-12,Creature,Mythic,Dark Time Phoenix of Illusion
-13,Creature,Rare,Dark Rogue Fairy
-14,Spell,Common,Infuriate
-15,Artifact,Rare,Oblivion Sword
-16,Artifact,Common,Tome
-17,Creature,Common,Wolf
-18,Spell,Legendary,Urgent Rage
-19,Enchantment,Common,Lethargy
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Strength
-22,Enchantment,Rare,Forged Invert
-23,Creature,Common,Eagle
-24,Creature,Common,Eagle
-25,Creature,Legendary,Light Fighter Orge of the Eternal Land
-26,Spell,Common,Frenzy
-27,Enchantment,Common,Drain
-28,Creature,Common,Spider
-29,Spell,Common,Frost
-30,Artifact,Common,Boots
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Strength
-33,Creature,Common,Eagle
-34,Spell,Common,Heal
-35,Creature,Legendary,Earth Thief Oni of the Bright Mountains
-36,Creature,Rare,Snow Knight Skin-Walker
-37,Creature,Rare,Aura Rogue Griffin
-38,Artifact,Rare,Necro Sigil
-39,Creature,Common,Ghoul
-40,Enchantment,Mythic,Instant Alacrity
-41,Spell,Common,Reanimate
-42,Creature,Common,Magi
-43,Artifact,Rare,Oblivion Boots
-44,Spell,Common,Stricken
+==================,DECK,6666
+0,Creature,Aura Knight Kraken
+1,Creature,Berserker
+2,Creature,Aura Fighter Goblin
+3,Creature,Death Knight Cyclops
+4,Spell,Gravitation
+5,Creature,Paladin
+6,Creature,Fairy
+7,Enchantment,Deathgrip
+8,Enchantment,Invert
+9,Enchantment,Shield
+10,Creature,Wolf
+11,Spell,Dark Lightning
+12,Creature,Dark Time Phoenix of Illusion
+13,Creature,Dark Rogue Kraken
+14,Spell,Frost
+15,Artifact,Frigid Sword
+16,Artifact,Tome
+17,Creature,Wolf
+18,Spell,Ardent Necro Infuriate
+19,Enchantment,Flight
+20,Enchantment,Flight
+21,Enchantment,Invert
+22,Enchantment,Sorrow Flight
+23,Creature,Eagle
+24,Creature,Eagle
+25,Creature,Light Fighter Elf of the Eternal Land
+26,Spell,Fireball
+27,Enchantment,Invert
+28,Creature,Paladin
+29,Spell,Burst
+30,Artifact,Boots
+31,Creature,Ghoul
+32,Enchantment,Firebreath
+33,Creature,Eagle
+34,Spell,Assault
+35,Creature,Earth Thief Oni of the Bright Mountains
+36,Creature,Snow Knight Orc
+37,Creature,Aura Rogue Griffin
+38,Artifact,Forged Sigil
+39,Creature,Ghoul
+40,Enchantment,Urgent Forged Agony
+41,Spell,Wall
+42,Creature,Fairy
+43,Artifact,Apocalypse Boots
+44,Spell,Fire

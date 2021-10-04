@@ -1,46 +1,46 @@
-==================,DECK,5283,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Paladin
-2,Creature,Common,Elf
-3,Creature,Legendary,Earth King Kraken of the Bright Mountains
-4,Creature,Common,Dwarf
-5,Creature,Rare,Aura King Griffin
-6,Spell,Legendary,Intense Hypnosis
-7,Spell,Legendary,Angry Hypnosis
-8,Spell,Common,Reanimate
-9,Creature,Common,Paladin
-10,Enchantment,Legendary,Mighty Shrink
-11,Creature,Rare,Earth Queen Hydra
-12,Enchantment,Common,Shield
-13,Creature,Rare,Light Assassin Hydra
-14,Enchantment,Common,Agony
-15,Creature,Common,Wolf
-16,Creature,Rare,Frozen King Griffin
-17,Spell,Common,Frenzy
-18,Artifact,Common,Ring
-19,Creature,Common,Goblin
-20,Spell,Common,Invisibility
-21,Spell,Rare,Necro Reanimate
-22,Enchantment,Common,Shield
-23,Spell,Rare,Apocalypse Maelstrom
-24,Creature,Common,Paladin
-25,Creature,Common,Magi
-26,Creature,Legendary,Snow King Cyclops of the Border
-27,Creature,Legendary,Frozen Queen Orge of the Border
-28,Creature,Legendary,Dark Assassin Orge of the Eternal Land
-29,Artifact,Rare,Frigid Helmet
-30,Artifact,Rare,Oblivion Pendant
-31,Enchantment,Common,Blight
-32,Creature,Common,Goblin
-33,Creature,Common,Warlock
-34,Creature,Mythic,Death Undead Phoenix of the Dead
-35,Creature,Common,Spider
-36,Creature,Common,Wolf
-37,Creature,Common,Goblin
-38,Enchantment,Common,Shield
-39,Creature,Common,Warlock
-40,Creature,Mythic,Snow Undead Phoenix of Hate
-41,Creature,Mythic,Aura Undead Dragon of the Light
-42,Spell,Common,Wall
-43,Creature,Common,Dwarf
-44,Creature,Common,Wolf
+==================,DECK,5283
+0,Creature,Magi
+1,Creature,Troll
+2,Creature,Warlock
+3,Creature,Earth King Ogre of the Bright Mountains
+4,Creature,Magi
+5,Creature,Aura King Griffin
+6,Spell,Potent Forged Burn
+7,Spell,Mighty Lunar Stun
+8,Spell,Fire
+9,Creature,Troll
+10,Enchantment,Clever Chimeric Shield
+11,Creature,Earth Queen Hydra
+12,Enchantment,Strength
+13,Creature,Light Assassin Hydra
+14,Enchantment,Shrink
+15,Creature,Wolf
+16,Creature,Frozen King Griffin
+17,Spell,Fire
+18,Artifact,Ring
+19,Creature,Skin-Walker
+20,Spell,Stricken
+21,Spell,Corpse Gravitation
+22,Enchantment,Invert
+23,Spell,Frigid Wall
+24,Creature,Troll
+25,Creature,Fairy
+26,Creature,Snow King Giant of the Border
+27,Creature,Frozen Queen Elf of the Border
+28,Creature,Dark Assassin Elf of the Eternal Land
+29,Artifact,Victory Helmet
+30,Artifact,Apocalypse Pendant
+31,Enchantment,Shrink
+32,Creature,Skin-Walker
+33,Creature,Berserker
+34,Creature,Death Undead Phoenix of the Dead
+35,Creature,Paladin
+36,Creature,Wolf
+37,Creature,Skin-Walker
+38,Enchantment,Deathgrip
+39,Creature,Berserker
+40,Creature,Snow Undead Phoenix of Hate
+41,Creature,Aura Undead Dragon of the Light
+42,Spell,Wall
+43,Creature,Magi
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,7156,Medium
-0,Creature,Rare,Aura Priest Minotaur
-1,Creature,Common,Eagle
-2,Spell,Rare,Shimmering Burn
-3,Creature,Common,Spider
-4,Spell,Rare,Miracle Maelstrom
-5,Enchantment,Common,Shrink
-6,Artifact,Rare,Life Sigil
-7,Creature,Common,Spider
-8,Creature,Rare,Light Rogue Berserker
-9,Spell,Common,Wall
-10,Creature,Common,Magi
-11,Enchantment,Mythic,Mighty Lethargy
-12,Spell,Rare,Gloom Frenzy
-13,Creature,Rare,Death Priest Hydra
-14,Spell,Legendary,Intense Lightning
-15,Enchantment,Legendary,Urgent Deathgrip
-16,Enchantment,Mythic,Extreme Shade
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Common,Lethargy
-19,Creature,Rare,Light Merchant Berserker
-20,Enchantment,Rare,Hateful Deathgrip
-21,Enchantment,Legendary,Potent Alacrity
-22,Enchantment,Legendary,Angry Invert
-23,Spell,Common,Heal
-24,Spell,Common,Stricken
-25,Creature,Legendary,Dark King Kraken of the Bright Mountains
-26,Creature,Rare,Aura Queen Griffin
-27,Creature,Common,Warlock
-28,Artifact,Common,Cloak
-29,Enchantment,Rare,Necro Flight
-30,Enchantment,Common,Shade
-31,Enchantment,Common,Agony
-32,Creature,Common,Dwarf
-33,Spell,Rare,Shimmering Infuriate
-34,Artifact,Rare,Nimble Scepter
-35,Creature,Common,Ghoul
-36,Enchantment,Rare,Life Deathgrip
-37,Spell,Rare,Oblivion Frenzy
-38,Creature,Rare,Death Monk Skin-Walker
-39,Creature,Common,Dwarf
-40,Creature,Common,Paladin
-41,Enchantment,Legendary,Mighty Age
-42,Creature,Common,Elf
-43,Artifact,Common,Helmet
-44,Enchantment,Rare,Forged Strength
+==================,DECK,7156
+0,Creature,Aura Priest Cyclops
+1,Creature,Eagle
+2,Spell,Solar Revive
+3,Creature,Paladin
+4,Spell,Victory Revive
+5,Enchantment,Drain
+6,Artifact,Frigid Sigil
+7,Creature,Paladin
+8,Creature,Light Rogue Goblin
+9,Spell,Assault
+10,Creature,Fairy
+11,Enchantment,Instant Lunar Shrink
+12,Spell,Miracle Maelstrom
+13,Creature,Death Priest Hydra
+14,Spell,Ardent Hateful Fury
+15,Enchantment,Clever Shimmering Lethargy
+16,Enchantment,Ardent Chimeric Shield
+17,Enchantment,Invert
+18,Enchantment,Firebreath
+19,Creature,Light Merchant Goblin
+20,Enchantment,Sorrow Shield
+21,Enchantment,Instant Apocalypse Drain
+22,Enchantment,Irate Sorrow Alacrity
+23,Spell,Torment
+24,Spell,Heal
+25,Creature,Dark King Ogre of the Bright Mountains
+26,Creature,Aura Queen Griffin
+27,Creature,Berserker
+28,Artifact,Cloak
+29,Enchantment,Hateful Age
+30,Enchantment,Blight
+31,Enchantment,Blight
+32,Creature,Magi
+33,Spell,Necro Gravitation
+34,Artifact,Hateful Scepter
+35,Creature,Ghoul
+36,Enchantment,Oblivion Haste
+37,Spell,Victory Vortex
+38,Creature,Death Monk Orc
+39,Creature,Magi
+40,Creature,Troll
+41,Enchantment,Clever Gloom Shield
+42,Creature,Warlock
+43,Artifact,Helmet
+44,Enchantment,Cataclysmic Alacrity

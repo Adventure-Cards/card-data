@@ -1,46 +1,46 @@
-==================,DECK,4528,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Drain
-2,Spell,Rare,Hateful Hypnosis
-3,Creature,Legendary,Light Lord Giant of the Low Hills
-4,Creature,Common,Ghoul
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Spider
-8,Creature,Rare,Earth Fighter Minotaur
-9,Creature,Common,Orc
-10,Creature,Common,Warlock
-11,Enchantment,Common,Blight
-12,Enchantment,Common,Deathgrip
-13,Creature,Mythic,Death Ancient Demon of the Dead
-14,Spell,Common,Frost
-15,Creature,Common,Eagle
-16,Enchantment,Legendary,Clever Drain
-17,Creature,Legendary,Earth Rogue Giant of the Arctic Blizzards
-18,Artifact,Common,Belt
-19,Creature,Common,Ghoul
-20,Spell,Common,Stun
-21,Creature,Mythic,Frozen Ancient Wizard of the Void
-22,Creature,Rare,Aura Thief Minotaur
-23,Creature,Common,Warlock
-24,Spell,Common,Maelstrom
-25,Creature,Common,Paladin
-26,Creature,Common,Magi
-27,Creature,Common,Warlock
-28,Creature,Common,Eagle
-29,Creature,Common,Magi
-30,Creature,Rare,Frozen Warrior Berserker
-31,Creature,Common,Dwarf
-32,Creature,Legendary,Earth Undead Kraken of the West
-33,Creature,Legendary,Frozen Warrior Oni of the Polar Woods
-34,Creature,Common,Elf
-35,Creature,Common,Spider
-36,Creature,Common,Magi
-37,Spell,Common,Gale
-38,Spell,Common,Fury
-39,Enchantment,Common,Lethargy
-40,Creature,Legendary,Snow Assassin Cyclops of the Low Hills
-41,Creature,Common,Ghoul
-42,Creature,Rare,Earth King Berserker
-43,Enchantment,Rare,Forged Shield
-44,Spell,Rare,Cataclysmic Maelstrom
+==================,DECK,4528
+0,Creature,Berserker
+1,Enchantment,Firebreath
+2,Spell,Dark Pandemonium
+3,Creature,Light Lord Dwarf of the Low Hills
+4,Creature,Ghoul
+5,Creature,Ghoul
+6,Enchantment,Lethargy
+7,Creature,Paladin
+8,Creature,Earth Fighter Cyclops
+9,Creature,Spider
+10,Creature,Berserker
+11,Enchantment,Lethargy
+12,Enchantment,Strength
+13,Creature,Death Ancient Demon of the Dead
+14,Spell,Revive
+15,Creature,Eagle
+16,Enchantment,Potent Apocalypse Drain
+17,Creature,Earth Rogue Dwarf of the Arctic Blizzards
+18,Artifact,Belt
+19,Creature,Ghoul
+20,Spell,Wall
+21,Creature,Frozen Ancient Wizard of the Void
+22,Creature,Aura Thief Cyclops
+23,Creature,Berserker
+24,Spell,Stun
+25,Creature,Troll
+26,Creature,Fairy
+27,Creature,Berserker
+28,Creature,Eagle
+29,Creature,Fairy
+30,Creature,Frozen Warrior Goblin
+31,Creature,Magi
+32,Creature,Earth Undead Ogre of the West
+33,Creature,Frozen Warrior Oni of the Polar Woods
+34,Creature,Warlock
+35,Creature,Paladin
+36,Creature,Fairy
+37,Spell,Torment
+38,Spell,Burst
+39,Enchantment,Lethargy
+40,Creature,Snow Assassin Giant of the Low Hills
+41,Creature,Ghoul
+42,Creature,Earth King Goblin
+43,Enchantment,Gloom Shrink
+44,Spell,Dark Rage

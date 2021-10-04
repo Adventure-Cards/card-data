@@ -1,46 +1,46 @@
-==================,DECK,6061,Light
-0,Creature,Rare,Light Rogue Berserker
-1,Spell,Common,Wall
-2,Enchantment,Mythic,Urgent Haste
-3,Creature,Legendary,Light Assassin Cyclops of the Frozen Castle
-4,Enchantment,Legendary,Instant Shade
-5,Enchantment,Legendary,Intense Shade
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Warlock
-8,Enchantment,Common,Haste
-9,Spell,Common,Reanimate
-10,Enchantment,Common,Haste
-11,Creature,Legendary,Dark Assassin Giant of the Mountains
-12,Spell,Common,Stricken
-13,Artifact,Common,Ring
-14,Creature,Mythic,Dark Nameless Dragon of Illusion
-15,Spell,Common,Stricken
-16,Creature,Common,Wolf
-17,Creature,Rare,Frozen King Griffin
-18,Creature,Common,Magi
-19,Spell,Rare,Corpse Heal
-20,Creature,Common,Ghoul
-21,Spell,Rare,Solar Rage
-22,Creature,Legendary,Frozen Rogue Kraken of the Frozen Castle
-23,Creature,Rare,Snow Priest Fairy
-24,Creature,Common,Dwarf
-25,Creature,Common,Magi
-26,Creature,Rare,Death Knight Skin-Walker
-27,Spell,Legendary,Mighty Ice
-28,Spell,Common,Gale
-29,Creature,Common,Wolf
-30,Spell,Common,Freeze
-31,Creature,Common,Orc
-32,Enchantment,Legendary,Angry Lethargy
-33,Creature,Common,Spider
-34,Creature,Rare,Dark Rogue Berserker
-35,Spell,Rare,Cataclysmic Stun
-36,Enchantment,Common,Invert
-37,Enchantment,Common,Deathgrip
-38,Enchantment,Common,Drain
-39,Creature,Rare,Snow King Hydra
-40,Enchantment,Common,Haste
-41,Artifact,Common,Shield
-42,Enchantment,Common,Drain
-43,Enchantment,Common,Shade
-44,Enchantment,Common,Invert
+==================,DECK,6061
+0,Creature,Light Rogue Goblin
+1,Spell,Ice
+2,Enchantment,Zealous Corpse Deathgrip
+3,Creature,Light Assassin Giant of the Frozen Castle
+4,Enchantment,Irate Necro Deathgrip
+5,Enchantment,Instant Necro Strength
+6,Enchantment,Shield
+7,Creature,Berserker
+8,Enchantment,Shade
+9,Spell,Stun
+10,Enchantment,Strength
+11,Creature,Dark Assassin Dwarf of the Mountains
+12,Spell,Ice
+13,Artifact,Ring
+14,Creature,Dark Nameless Dragon of Illusion
+15,Spell,Maelstrom
+16,Creature,Wolf
+17,Creature,Frozen King Griffin
+18,Creature,Fairy
+19,Spell,Corpse Pandemonium
+20,Creature,Ghoul
+21,Spell,Necro Vortex
+22,Creature,Frozen Rogue Ogre of the Frozen Castle
+23,Creature,Snow Priest Kraken
+24,Creature,Magi
+25,Creature,Fairy
+26,Creature,Death Knight Orc
+27,Spell,Clever Miracle Vortex
+28,Spell,Torment
+29,Creature,Wolf
+30,Spell,Sorrow
+31,Creature,Spider
+32,Enchantment,Instant Lunar Shrink
+33,Creature,Paladin
+34,Creature,Dark Rogue Goblin
+35,Spell,Chimeric Frenzy
+36,Enchantment,Haste
+37,Enchantment,Shield
+38,Enchantment,Deathgrip
+39,Creature,Snow King Hydra
+40,Enchantment,Flight
+41,Artifact,Shield
+42,Enchantment,Deathgrip
+43,Enchantment,Lethargy
+44,Enchantment,Age

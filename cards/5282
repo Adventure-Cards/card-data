@@ -1,46 +1,46 @@
-==================,DECK,5282,Medium
-0,Creature,Common,Warlock
-1,Creature,Mythic,Death Ancient Wizard of the Dead
-2,Enchantment,Common,Agony
-3,Creature,Common,Magi
-4,Creature,Common,Wolf
-5,Creature,Rare,Dark Warrior Fairy
-6,Spell,Common,Maelstrom
-7,Spell,Rare,Apocalypse Burn
-8,Enchantment,Legendary,Dire Invert
-9,Spell,Common,Frenzy
-10,Creature,Common,Dwarf
-11,Spell,Mythic,Urgent Stun
-12,Enchantment,Legendary,Intense Drain
-13,Creature,Rare,Snow King Berserker
-14,Spell,Common,Vortex
-15,Creature,Common,Paladin
-16,Creature,Common,Ghoul
-17,Artifact,Common,Gauntlet
-18,Enchantment,Legendary,Instant Alacrity
-19,Creature,Common,Wolf
-20,Creature,Legendary,Frozen Warrior Cyclops of the Golden Palace
-21,Creature,Common,Ghoul
-22,Spell,Legendary,Urgent Gale
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Creature,Common,Wolf
-26,Spell,Common,Lightning
-27,Creature,Common,Magi
-28,Creature,Legendary,Death Rogue Oni of the Low Hills
-29,Enchantment,Rare,Nature Blight
-30,Spell,Legendary,Clever Wall
-31,Spell,Common,Sorrow
-32,Creature,Common,Eagle
-33,Creature,Rare,Snow Undead Skin-Walker
-34,Creature,Common,Dwarf
-35,Creature,Rare,Dark Queen Skin-Walker
-36,Spell,Rare,Hateful Stun
-37,Spell,Common,Lightning
-38,Creature,Legendary,Dark Merchant Orge of the Golden Palace
-39,Enchantment,Rare,Miracle Deathgrip
-40,Spell,Rare,Nature Pandemonium
-41,Spell,Common,Wall
-42,Enchantment,Mythic,Angry Lethargy
-43,Creature,Common,Ghoul
-44,Creature,Common,Warlock
+==================,DECK,5282
+0,Creature,Berserker
+1,Creature,Death Ancient Wizard of the Dead
+2,Enchantment,Lethargy
+3,Creature,Fairy
+4,Creature,Wolf
+5,Creature,Dark Warrior Kraken
+6,Spell,Fireball
+7,Spell,Nimble Frenzy
+8,Enchantment,Urgent Oblivion Invert
+9,Spell,Gale
+10,Creature,Magi
+11,Spell,Clever Hateful Invisibility
+12,Enchantment,Zealous Forged Deathgrip
+13,Creature,Snow King Goblin
+14,Spell,Fire
+15,Creature,Troll
+16,Creature,Ghoul
+17,Artifact,Gauntlet
+18,Enchantment,Ardent Forged Lethargy
+19,Creature,Wolf
+20,Creature,Frozen Warrior Giant of the Golden Palace
+21,Creature,Ghoul
+22,Spell,Potent Corpse Heal
+23,Enchantment,Lethargy
+24,Creature,Wolf
+25,Creature,Wolf
+26,Spell,Burn
+27,Creature,Fairy
+28,Creature,Death Rogue Oni of the Low Hills
+29,Enchantment,Solar Deathgrip
+30,Spell,Dire Life Reanimate
+31,Spell,Reanimate
+32,Creature,Eagle
+33,Creature,Snow Undead Orc
+34,Creature,Magi
+35,Creature,Dark Queen Orc
+36,Spell,Cataclysmic Lightning
+37,Spell,Fury
+38,Creature,Dark Merchant Elf of the Golden Palace
+39,Enchantment,Oblivion Haste
+40,Spell,Necro Assault
+41,Spell,Infuriate
+42,Enchantment,Irate Lunar Alacrity
+43,Creature,Ghoul
+44,Creature,Berserker

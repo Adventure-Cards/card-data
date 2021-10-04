@@ -1,46 +1,46 @@
-==================,DECK,5930,Light
-0,Creature,Common,Spider
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Dark Queen Fairy
-3,Creature,Rare,Snow Merchant Griffin
-4,Enchantment,Common,Age
-5,Creature,Common,Eagle
-6,Creature,Common,Ghoul
-7,Spell,Common,Stricken
-8,Creature,Common,Ghoul
-9,Enchantment,Rare,Grim Lethargy
-10,Enchantment,Common,Shrink
-11,Artifact,Common,Sigil
-12,Enchantment,Rare,Forged Shade
-13,Creature,Common,Wolf
-14,Spell,Common,Wall
-15,Creature,Common,Warlock
-16,Creature,Legendary,Earth Fighter Orge of the Haven
-17,Creature,Mythic,Light Grand Demon of the Sky
-18,Creature,Common,Orc
-19,Creature,Common,Dwarf
-20,Creature,Common,Spider
-21,Creature,Legendary,Dark King Kraken of the Eastern Skies
-22,Creature,Common,Goblin
-23,Enchantment,Common,Shade
-24,Creature,Common,Orc
-25,Creature,Common,Magi
-26,Creature,Common,Paladin
-27,Artifact,Rare,Solar Crown
-28,Creature,Common,Warlock
-29,Creature,Rare,Death Priest Griffin
-30,Spell,Common,Frost
-31,Enchantment,Common,Agony
-32,Artifact,Common,Sword
-33,Creature,Legendary,Snow Undead Orge of the Border
-34,Artifact,Common,Amulet
-35,Creature,Common,Warlock
-36,Enchantment,Common,Haste
-37,Creature,Legendary,Death Undead Cyclops of the Haven
-38,Creature,Rare,Dark Priest Berserker
-39,Creature,Legendary,Frozen Knight Oni of the Eternal Land
-40,Creature,Common,Eagle
-41,Spell,Common,Vortex
-42,Spell,Common,Gale
-43,Creature,Common,Orc
-44,Enchantment,Common,Drain
+==================,DECK,5930
+0,Creature,Paladin
+1,Enchantment,Lethargy
+2,Creature,Dark Queen Kraken
+3,Creature,Snow Merchant Griffin
+4,Enchantment,Drain
+5,Creature,Eagle
+6,Creature,Ghoul
+7,Spell,Rage
+8,Creature,Ghoul
+9,Enchantment,Grim Blight
+10,Enchantment,Agony
+11,Artifact,Sigil
+12,Enchantment,Chimeric Firebreath
+13,Creature,Wolf
+14,Spell,Frenzy
+15,Creature,Berserker
+16,Creature,Earth Fighter Elf of the Haven
+17,Creature,Light Grand Demon of the Sky
+18,Creature,Spider
+19,Creature,Magi
+20,Creature,Paladin
+21,Creature,Dark King Ogre of the Eastern Skies
+22,Creature,Skin-Walker
+23,Enchantment,Blight
+24,Creature,Spider
+25,Creature,Fairy
+26,Creature,Troll
+27,Artifact,Forged Crown
+28,Creature,Berserker
+29,Creature,Death Priest Griffin
+30,Spell,Assault
+31,Enchantment,Flight
+32,Artifact,Sword
+33,Creature,Snow Undead Elf of the Border
+34,Artifact,Amulet
+35,Creature,Berserker
+36,Enchantment,Drain
+37,Creature,Death Undead Giant of the Haven
+38,Creature,Dark Priest Goblin
+39,Creature,Frozen Knight Oni of the Eternal Land
+40,Creature,Eagle
+41,Spell,Fury
+42,Spell,Frenzy
+43,Creature,Spider
+44,Enchantment,Haste

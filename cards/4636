@@ -1,46 +1,46 @@
-==================,DECK,4636,Strong
-0,Creature,Common,Paladin
-1,Creature,Rare,Death Monk Fairy
-2,Creature,Mythic,Earth Chaos Wizard of the Shadows
-3,Enchantment,Common,Drain
-4,Enchantment,Common,Shade
-5,Creature,Legendary,Death Thief Cyclops of the Low Hills
-6,Creature,Common,Wolf
-7,Artifact,Common,Shield
-8,Creature,Rare,Death Lord Hydra
-9,Enchantment,Rare,Dark Invert
-10,Creature,Common,Elf
-11,Artifact,Mythic,Instant Helmet
-12,Creature,Common,Ghoul
-13,Enchantment,Common,Flight
-14,Enchantment,Mythic,Angry Invert
-15,Enchantment,Legendary,Angry Lethargy
-16,Enchantment,Common,Blight
-17,Spell,Rare,Nimble Frost
-18,Creature,Rare,Dark Merchant Griffin
-19,Enchantment,Common,Strength
-20,Creature,Common,Magi
-21,Creature,Rare,Light Warrior Griffin
-22,Enchantment,Legendary,Dire Agony
-23,Creature,Common,Elf
-24,Spell,Common,Stun
-25,Creature,Legendary,Light Merchant Cyclops of the Border
-26,Creature,Rare,Earth King Fairy
-27,Creature,Common,Warlock
-28,Artifact,Rare,Nimble Sword
-29,Creature,Legendary,Light Chaos Demon of the Sky
-30,Creature,Common,Ghoul
-31,Creature,Mythic,Light Undead Phoenix of the Sky
-32,Creature,Common,Wolf
-33,Enchantment,Common,Age
-34,Creature,Common,Warlock
-35,Creature,Rare,Aura Priest Griffin
-36,Creature,Legendary,Frozen Ancient Wizard of the Void
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Shrink
-39,Creature,Common,Eagle
-40,Creature,Rare,Light Merchant Berserker
-41,Enchantment,Common,Age
-42,Artifact,Common,Potion
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,4636
+0,Creature,Troll
+1,Creature,Death Monk Kraken
+2,Creature,Earth Chaos Wizard of the Shadows
+3,Enchantment,Strength
+4,Enchantment,Age
+5,Creature,Death Thief Giant of the Low Hills
+6,Creature,Wolf
+7,Artifact,Shield
+8,Creature,Death Lord Hydra
+9,Enchantment,Sorrow Shield
+10,Creature,Warlock
+11,Artifact,Zealous Solar Helmet
+12,Creature,Ghoul
+13,Enchantment,Strength
+14,Enchantment,Ardent Sorrow Shield
+15,Enchantment,Instant Lunar Shrink
+16,Enchantment,Haste
+17,Spell,Corpse Revive
+18,Creature,Dark Merchant Griffin
+19,Enchantment,Firebreath
+20,Creature,Fairy
+21,Creature,Light Warrior Griffin
+22,Enchantment,Urgent Life Invert
+23,Creature,Warlock
+24,Spell,Freeze
+25,Creature,Light Merchant Giant of the Border
+26,Creature,Earth King Kraken
+27,Creature,Berserker
+28,Artifact,Nature Sword
+29,Creature,Light Chaos Demon of the Sky
+30,Creature,Ghoul
+31,Creature,Light Undead Phoenix of the Sky
+32,Creature,Wolf
+33,Enchantment,Age
+34,Creature,Berserker
+35,Creature,Aura Priest Griffin
+36,Creature,Frozen Ancient Wizard of the Void
+37,Creature,Magi
+38,Enchantment,Alacrity
+39,Creature,Eagle
+40,Creature,Light Merchant Goblin
+41,Enchantment,Shield
+42,Artifact,Potion
+43,Creature,Troll
+44,Creature,Paladin

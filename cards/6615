@@ -1,46 +1,46 @@
-==================,DECK,6615,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Goblin
-2,Creature,Common,Ghoul
-3,Enchantment,Common,Lethargy
-4,Enchantment,Common,Alacrity
-5,Spell,Legendary,Dire Gravitation
-6,Spell,Legendary,Dire Gravitation
-7,Spell,Common,Vortex
-8,Creature,Rare,Snow Warrior Fairy
-9,Spell,Common,Infuriate
-10,Creature,Common,Goblin
-11,Creature,Mythic,Snow Grand Wizard of Hate
-12,Spell,Common,Frenzy
-13,Creature,Common,Paladin
-14,Enchantment,Mythic,Clever Age
-15,Artifact,Common,Scepter
-16,Enchantment,Rare,Frigid Shield
-17,Spell,Common,Burst
-18,Enchantment,Common,Lethargy
-19,Enchantment,Common,Shield
-20,Spell,Legendary,Instant Rage
-21,Creature,Common,Orc
-22,Creature,Common,Wolf
-23,Spell,Common,Invisibility
-24,Creature,Rare,Dark Lord Skin-Walker
-25,Spell,Rare,Apocalypse Reanimate
-26,Enchantment,Common,Shield
-27,Creature,Common,Spider
-28,Creature,Rare,Frozen King Fairy
-29,Creature,Common,Orc
-30,Artifact,Common,Staff
-31,Creature,Rare,Snow Priest Griffin
-32,Enchantment,Common,Drain
-33,Enchantment,Rare,Oblivion Shade
-34,Creature,Mythic,Light Ancient Wizard of the Sky
-35,Spell,Common,Lightning
-36,Creature,Legendary,Light Merchant Cyclops of the Magical Forest
-37,Enchantment,Common,Blight
-38,Spell,Common,Reanimate
-39,Creature,Legendary,Death Thief Cyclops of the Arctic Blizzards
-40,Spell,Common,Reanimate
-41,Artifact,Common,Sword
-42,Creature,Common,Dwarf
-43,Creature,Common,Spider
-44,Spell,Common,Invisibility
+==================,DECK,6615
+0,Creature,Berserker
+1,Creature,Skin-Walker
+2,Creature,Ghoul
+3,Enchantment,Strength
+4,Enchantment,Agony
+5,Spell,Irate Victory Ice
+6,Spell,Irate Life Stun
+7,Spell,Fury
+8,Creature,Snow Warrior Kraken
+9,Spell,Fury
+10,Creature,Skin-Walker
+11,Creature,Snow Grand Wizard of Hate
+12,Spell,Torment
+13,Creature,Troll
+14,Enchantment,Empyrean Victory Shade
+15,Artifact,Scepter
+16,Enchantment,Victory Haste
+17,Spell,Hypnosis
+18,Enchantment,Strength
+19,Enchantment,Lethargy
+20,Spell,Ardent Nature Invisibility
+21,Creature,Spider
+22,Creature,Wolf
+23,Spell,Wall
+24,Creature,Dark Lord Orc
+25,Spell,Life Invisibility
+26,Enchantment,Blight
+27,Creature,Paladin
+28,Creature,Frozen King Kraken
+29,Creature,Spider
+30,Artifact,Staff
+31,Creature,Snow Priest Griffin
+32,Enchantment,Invert
+33,Enchantment,Frigid Drain
+34,Creature,Light Ancient Wizard of the Sky
+35,Spell,Ice
+36,Creature,Light Merchant Giant of the Magical Forest
+37,Enchantment,Age
+38,Spell,Pandemonium
+39,Creature,Death Thief Giant of the Arctic Blizzards
+40,Spell,Lightning
+41,Artifact,Sword
+42,Creature,Magi
+43,Creature,Paladin
+44,Spell,Tempest

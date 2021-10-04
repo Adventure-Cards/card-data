@@ -1,46 +1,46 @@
-==================,DECK,6795,Light
-0,Spell,Common,Pandemonium
-1,Creature,Common,Elf
-2,Creature,Common,Wolf
-3,Creature,Legendary,Aura Lord Giant of the Plains
-4,Creature,Rare,Dark Thief Skin-Walker
-5,Enchantment,Common,Strength
-6,Creature,Common,Magi
-7,Enchantment,Rare,Life Haste
-8,Creature,Legendary,Light Queen Cyclops of the Magical Forest
-9,Creature,Legendary,Aura Warrior Cyclops of the Arctic Blizzards
-10,Creature,Common,Wolf
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Flight
-13,Creature,Common,Wolf
-14,Creature,Common,Orc
-15,Enchantment,Common,Drain
-16,Creature,Common,Wolf
-17,Creature,Rare,Earth Merchant Griffin
-18,Creature,Rare,Light Monk Skin-Walker
-19,Creature,Legendary,Death Fighter Giant of the Swamp
-20,Enchantment,Mythic,Extreme Blight
-21,Creature,Rare,Earth Lord Griffin
-22,Spell,Legendary,Urgent Ice
-23,Creature,Mythic,Aura Ancient Wizard of the Light
-24,Enchantment,Rare,Corpse Alacrity
-25,Spell,Common,Sorrow
-26,Spell,Common,Torment
-27,Artifact,Rare,Solar Ring
-28,Enchantment,Common,Blight
-29,Creature,Mythic,Aura Grand Wizard of the Light
-30,Creature,Common,Orc
-31,Creature,Common,Orc
-32,Creature,Common,Ghoul
-33,Artifact,Common,Staff
-34,Spell,Rare,Solar Rage
-35,Creature,Common,Paladin
-36,Creature,Common,Eagle
-37,Creature,Legendary,Dark Fighter Orge of the Magical Forest
-38,Enchantment,Mythic,Dire Age
-39,Creature,Common,Dwarf
-40,Creature,Legendary,Death Thief Kraken of the Haven
-41,Enchantment,Legendary,Potent Alacrity
-42,Enchantment,Common,Blight
-43,Creature,Legendary,Frozen Fighter Oni of the Polar Woods
-44,Enchantment,Common,Age
+==================,DECK,6795
+0,Spell,Vortex
+1,Creature,Warlock
+2,Creature,Wolf
+3,Creature,Aura Lord Dwarf of the Plains
+4,Creature,Dark Thief Orc
+5,Enchantment,Strength
+6,Creature,Fairy
+7,Enchantment,Life Drain
+8,Creature,Light Queen Giant of the Magical Forest
+9,Creature,Aura Warrior Giant of the Arctic Blizzards
+10,Creature,Wolf
+11,Creature,Ghoul
+12,Enchantment,Strength
+13,Creature,Wolf
+14,Creature,Spider
+15,Enchantment,Firebreath
+16,Creature,Wolf
+17,Creature,Earth Merchant Griffin
+18,Creature,Light Monk Orc
+19,Creature,Death Fighter Dwarf of the Swamp
+20,Enchantment,Clever Cataclysmic Shield
+21,Creature,Earth Lord Griffin
+22,Spell,Empyrean Hateful Wall
+23,Creature,Aura Ancient Wizard of the Light
+24,Enchantment,Forged Deathgrip
+25,Spell,Ice
+26,Spell,Stun
+27,Artifact,Nature Ring
+28,Enchantment,Firebreath
+29,Creature,Aura Grand Wizard of the Light
+30,Creature,Spider
+31,Creature,Spider
+32,Creature,Ghoul
+33,Artifact,Staff
+34,Spell,Necro Fireball
+35,Creature,Troll
+36,Creature,Eagle
+37,Creature,Dark Fighter Elf of the Magical Forest
+38,Enchantment,Potent Victory Drain
+39,Creature,Magi
+40,Creature,Death Thief Ogre of the Haven
+41,Enchantment,Dire Apocalypse Shade
+42,Enchantment,Invert
+43,Creature,Frozen Fighter Oni of the Polar Woods
+44,Enchantment,Drain

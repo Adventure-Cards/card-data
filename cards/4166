@@ -1,46 +1,46 @@
-==================,DECK,4166,Light
-0,Creature,Common,Spider
-1,Creature,Rare,Light Lord Skin-Walker
-2,Enchantment,Common,Flight
-3,Creature,Common,Eagle
-4,Creature,Common,Elf
-5,Enchantment,Common,Strength
-6,Creature,Common,Spider
-7,Creature,Common,Paladin
-8,Artifact,Rare,Oblivion Scepter
-9,Enchantment,Mythic,Dire Flight
-10,Spell,Common,Rage
-11,Enchantment,Common,Deathgrip
-12,Enchantment,Common,Flight
-13,Spell,Common,Gravitation
-14,Spell,Common,Maelstrom
-15,Enchantment,Common,Flight
-16,Creature,Common,Orc
-17,Enchantment,Common,Haste
-18,Artifact,Common,Bow
-19,Artifact,Common,Gloves
-20,Creature,Common,Orc
-21,Enchantment,Rare,Gloom Invert
-22,Enchantment,Common,Blight
-23,Creature,Common,Elf
-24,Spell,Common,Freeze
-25,Enchantment,Mythic,Angry Invert
-26,Creature,Common,Magi
-27,Spell,Common,Hypnosis
-28,Artifact,Common,Potion
-29,Creature,Rare,Death King Griffin
-30,Enchantment,Common,Deathgrip
-31,Creature,Common,Ghoul
-32,Creature,Mythic,Death Undead Dragon of the Dead
-33,Creature,Common,Wolf
-34,Creature,Common,Orc
-35,Enchantment,Rare,Dark Invert
-36,Enchantment,Common,Alacrity
-37,Creature,Rare,Frozen Queen Hydra
-38,Creature,Rare,Light Merchant Hydra
-39,Spell,Legendary,Angry Pandemonium
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Haste
-42,Spell,Common,Invisibility
-43,Enchantment,Mythic,Instant Shield
-44,Spell,Common,Infuriate
+==================,DECK,4166
+0,Creature,Paladin
+1,Creature,Light Lord Orc
+2,Enchantment,Drain
+3,Creature,Eagle
+4,Creature,Warlock
+5,Enchantment,Shield
+6,Creature,Paladin
+7,Creature,Troll
+8,Artifact,Life Scepter
+9,Enchantment,Empyrean Grim Shade
+10,Spell,Revive
+11,Enchantment,Lethargy
+12,Enchantment,Lethargy
+13,Spell,Frenzy
+14,Spell,Gravitation
+15,Enchantment,Firebreath
+16,Creature,Spider
+17,Enchantment,Shrink
+18,Artifact,Bow
+19,Artifact,Gloves
+20,Creature,Spider
+21,Enchantment,Sorrow Alacrity
+22,Enchantment,Firebreath
+23,Creature,Warlock
+24,Spell,Heal
+25,Enchantment,Urgent Sorrow Flight
+26,Creature,Fairy
+27,Spell,Stricken
+28,Artifact,Potion
+29,Creature,Death King Griffin
+30,Enchantment,Alacrity
+31,Creature,Ghoul
+32,Creature,Death Undead Dragon of the Dead
+33,Creature,Wolf
+34,Creature,Spider
+35,Enchantment,Sorrow Shrink
+36,Enchantment,Deathgrip
+37,Creature,Frozen Queen Hydra
+38,Creature,Light Merchant Hydra
+39,Spell,Clever Lunar Fireball
+40,Creature,Magi
+41,Enchantment,Strength
+42,Spell,Maelstrom
+43,Enchantment,Instant Nature Strength
+44,Spell,Stricken

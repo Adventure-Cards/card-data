@@ -1,46 +1,46 @@
-==================,DECK,7370,Medium
-0,Artifact,Common,Divine Robe
-1,Creature,Common,Ghoul
-2,Creature,Rare,Snow Assassin Minotaur
-3,Spell,Common,Reanimate
-4,Creature,Common,Ghoul
-5,Creature,Common,Wolf
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Creature,Legendary,Frozen Fighter Giant of the Golden Palace
-9,Creature,Rare,Earth Merchant Berserker
-10,Creature,Common,Orc
-11,Creature,Rare,Aura Queen Berserker
-12,Artifact,Common,Bow
-13,Creature,Common,Spider
-14,Spell,Rare,Corpse Freeze
-15,Enchantment,Mythic,Potent Drain
-16,Creature,Common,Wolf
-17,Spell,Rare,Nimble Torment
-18,Spell,Rare,Forged Gravitation
-19,Spell,Mythic,Clever Gravitation
-20,Creature,Common,Goblin
-21,Creature,Common,Magi
-22,Creature,Common,Spider
-23,Enchantment,Common,Shade
-24,Spell,Common,Lightning
-25,Creature,Legendary,Snow Queen Oni of the Golden Palace
-26,Creature,Rare,Snow Queen Skin-Walker
-27,Enchantment,Legendary,Intense Agony
-28,Spell,Rare,Corpse Assault
-29,Creature,Rare,Snow Assassin Skin-Walker
-30,Creature,Rare,Earth Queen Fairy
-31,Creature,Common,Spider
-32,Creature,Mythic,Light Chaos Demon of the Sky
-33,Artifact,Rare,Shimmering Ghost Wand
-34,Creature,Common,Paladin
-35,Enchantment,Legendary,Angry Blight
-36,Creature,Common,Dwarf
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Alacrity
-39,Creature,Common,Orc
-40,Creature,Common,Wolf
-41,Spell,Rare,Cataclysmic Fury
-42,Enchantment,Common,Age
-43,Creature,Common,Wolf
-44,Artifact,Rare,Hateful Potion
+==================,DECK,7370
+0,Artifact,Divine Robe
+1,Creature,Ghoul
+2,Creature,Snow Assassin Cyclops
+3,Spell,Frost
+4,Creature,Ghoul
+5,Creature,Wolf
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Creature,Frozen Fighter Dwarf of the Golden Palace
+9,Creature,Earth Merchant Goblin
+10,Creature,Spider
+11,Creature,Aura Queen Goblin
+12,Artifact,Bow
+13,Creature,Paladin
+14,Spell,Solar Hypnosis
+15,Enchantment,Empyrean Apocalypse Shade
+16,Creature,Wolf
+17,Spell,Forged Ice
+18,Spell,Gloom Freeze
+19,Spell,Urgent Grim Fury
+20,Creature,Skin-Walker
+21,Creature,Fairy
+22,Creature,Paladin
+23,Enchantment,Shrink
+24,Spell,Sorrow
+25,Creature,Snow Queen Oni of the Golden Palace
+26,Creature,Snow Queen Orc
+27,Enchantment,Urgent Corpse Agony
+28,Spell,Solar Freeze
+29,Creature,Snow Assassin Orc
+30,Creature,Earth Queen Kraken
+31,Creature,Paladin
+32,Creature,Light Chaos Demon of the Sky
+33,Artifact,Shimmering Ghost Wand
+34,Creature,Troll
+35,Enchantment,Potent Cataclysmic Shrink
+36,Creature,Magi
+37,Creature,Magi
+38,Enchantment,Flight
+39,Creature,Spider
+40,Creature,Wolf
+41,Spell,Lunar Invisibility
+42,Enchantment,Drain
+43,Creature,Wolf
+44,Artifact,Gloom Potion

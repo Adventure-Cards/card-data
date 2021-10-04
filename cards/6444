@@ -1,46 +1,46 @@
-==================,DECK,6444,Light
-0,Enchantment,Rare,Nimble Shield
-1,Creature,Rare,Light Rogue Hydra
-2,Artifact,Common,Scepter
-3,Creature,Common,Ghoul
-4,Creature,Common,Wolf
-5,Enchantment,Common,Invert
-6,Artifact,Legendary,Angry Potion
-7,Creature,Legendary,Frozen Thief Cyclops of the Eternal Land
-8,Artifact,Common,Scepter
-9,Spell,Common,Revive
-10,Spell,Rare,Forged Lightning
-11,Creature,Common,Dwarf
-12,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-13,Enchantment,Common,Agony
-14,Spell,Common,Vortex
-15,Creature,Common,Spider
-16,Creature,Rare,Earth King Skin-Walker
-17,Creature,Common,Goblin
-18,Creature,Common,Goblin
-19,Creature,Common,Dwarf
-20,Creature,Common,Elf
-21,Spell,Rare,Forged Freeze
-22,Creature,Mythic,Death Grand Wizard of the Dead
-23,Creature,Rare,Death Thief Berserker
-24,Artifact,Common,Potion
-25,Spell,Rare,Nature Ice
-26,Creature,Common,Spider
-27,Spell,Common,Invisibility
-28,Creature,Mythic,Snow Chaos Demon of Hate
-29,Creature,Common,Magi
-30,Creature,Legendary,Light Knight Kraken of the Low Hills
-31,Spell,Rare,Nature Ice
-32,Spell,Rare,Miracle Gale
-33,Creature,Mythic,Earth Ancient Wizard of the Shadows
-34,Spell,Rare,Gloom Revive
-35,Spell,Common,Infuriate
-36,Enchantment,Mythic,Clever Shade
-37,Spell,Common,Pandemonium
-38,Creature,Rare,Snow Merchant Berserker
-39,Enchantment,Rare,Cataclysmic Drain
-40,Spell,Common,Stun
-41,Spell,Common,Hypnosis
-42,Creature,Mythic,Earth Grand Demon of the Shadows
-43,Enchantment,Common,Shade
-44,Spell,Rare,Cataclysmic Stun
+==================,DECK,6444
+0,Enchantment,Nature Deathgrip
+1,Creature,Light Rogue Hydra
+2,Artifact,Scepter
+3,Creature,Ghoul
+4,Creature,Wolf
+5,Enchantment,Age
+6,Artifact,Ardent Sorrow Potion
+7,Creature,Frozen Thief Giant of the Eternal Land
+8,Artifact,Scepter
+9,Spell,Freeze
+10,Spell,Cataclysmic Rage
+11,Creature,Magi
+12,Creature,Snow Merchant Oni of the Magical Forest
+13,Enchantment,Strength
+14,Spell,Frost
+15,Creature,Paladin
+16,Creature,Earth King Orc
+17,Creature,Skin-Walker
+18,Creature,Skin-Walker
+19,Creature,Magi
+20,Creature,Warlock
+21,Spell,Gloom Fury
+22,Creature,Death Grand Wizard of the Dead
+23,Creature,Death Thief Goblin
+24,Artifact,Potion
+25,Spell,Forged Infuriate
+26,Creature,Paladin
+27,Spell,Vortex
+28,Creature,Snow Chaos Demon of Hate
+29,Creature,Fairy
+30,Creature,Light Knight Ogre of the Low Hills
+31,Spell,Forged Pandemonium
+32,Spell,Victory Fury
+33,Creature,Earth Ancient Wizard of the Shadows
+34,Spell,Sorrow Maelstrom
+35,Spell,Revive
+36,Enchantment,Ardent Frigid Haste
+37,Spell,Rage
+38,Creature,Snow Merchant Goblin
+39,Enchantment,Dark Shrink
+40,Spell,Pandemonium
+41,Spell,Burn
+42,Creature,Earth Grand Demon of the Shadows
+43,Enchantment,Strength
+44,Spell,Chimeric Wall

@@ -1,46 +1,46 @@
-==================,DECK,6707,Medium
-0,Enchantment,Common,Drain
-1,Enchantment,Common,Deathgrip
-2,Creature,Common,Ghoul
-3,Creature,Common,Elf
-4,Spell,Common,Gravitation
-5,Creature,Common,Goblin
-6,Enchantment,Common,Age
-7,Creature,Common,Warlock
-8,Spell,Common,Ice
-9,Creature,Common,Warlock
-10,Creature,Legendary,Snow Monk Oni of the Border
-11,Creature,Common,Ghoul
-12,Creature,Common,Elf
-13,Enchantment,Common,Shrink
-14,Creature,Rare,Aura Priest Hydra
-15,Creature,Common,Warlock
-16,Enchantment,Rare,Nature Drain
-17,Spell,Rare,Cataclysmic Reanimate
-18,Enchantment,Common,Alacrity
-19,Enchantment,Mythic,Angry Deathgrip
-20,Creature,Common,Spider
-21,Creature,Mythic,Aura Ancient Demon of the Light
-22,Enchantment,Mythic,Angry Strength
-23,Creature,Rare,Frozen Knight Fairy
-24,Creature,Common,Eagle
-25,Spell,Rare,Shimmering Hypnosis
-26,Creature,Common,Goblin
-27,Artifact,Common,Boots
-28,Enchantment,Rare,Lunar Haste
-29,Enchantment,Mythic,Angry Agony
-30,Creature,Common,Eagle
-31,Spell,Rare,Corpse Torment
-32,Creature,Rare,Earth Thief Fairy
-33,Spell,Common,Lightning
-34,Enchantment,Legendary,Angry Deathgrip
-35,Creature,Common,Paladin
-36,Enchantment,Common,Shield
-37,Enchantment,Common,Deathgrip
-38,Spell,Common,Fury
-39,Enchantment,Common,Strength
-40,Spell,Legendary,Mighty Gale
-41,Creature,Legendary,Frozen Undead Kraken of the Mountains
-42,Enchantment,Rare,Nature Deathgrip
-43,Enchantment,Common,Deathgrip
-44,Spell,Rare,Grim Rage
+==================,DECK,6707
+0,Enchantment,Age
+1,Enchantment,Flight
+2,Creature,Ghoul
+3,Creature,Warlock
+4,Spell,Revive
+5,Creature,Skin-Walker
+6,Enchantment,Shrink
+7,Creature,Berserker
+8,Spell,Fire
+9,Creature,Berserker
+10,Creature,Snow Monk Oni of the Border
+11,Creature,Ghoul
+12,Creature,Warlock
+13,Enchantment,Drain
+14,Creature,Aura Priest Hydra
+15,Creature,Berserker
+16,Enchantment,Forged Age
+17,Spell,Lunar Revive
+18,Enchantment,Haste
+19,Enchantment,Empyrean Sorrow Firebreath
+20,Creature,Paladin
+21,Creature,Aura Ancient Demon of the Light
+22,Enchantment,Irate Cataclysmic Alacrity
+23,Creature,Frozen Knight Kraken
+24,Creature,Eagle
+25,Spell,Nature Pandemonium
+26,Creature,Skin-Walker
+27,Artifact,Boots
+28,Enchantment,Miracle Flight
+29,Enchantment,Instant Miracle Shrink
+30,Creature,Eagle
+31,Spell,Shimmering Frenzy
+32,Creature,Earth Thief Kraken
+33,Spell,Stricken
+34,Enchantment,Zealous Sorrow Alacrity
+35,Creature,Troll
+36,Enchantment,Alacrity
+37,Enchantment,Haste
+38,Spell,Sorrow
+39,Enchantment,Invert
+40,Spell,Mighty Cataclysmic Stun
+41,Creature,Frozen Undead Ogre of the Mountains
+42,Enchantment,Shimmering Strength
+43,Enchantment,Shrink
+44,Spell,Nimble Reanimate

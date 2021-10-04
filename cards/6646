@@ -1,46 +1,46 @@
-==================,DECK,6646,Medium
-0,Creature,Rare,Light Lord Hydra
-1,Creature,Rare,Earth Priest Hydra
-2,Artifact,Common,Helmet
-3,Creature,Mythic,Aura Grand Wizard of the Light
-4,Artifact,Common,Cloak
-5,Enchantment,Rare,Forged Alacrity
-6,Enchantment,Legendary,Instant Deathgrip
-7,Creature,Rare,Frozen Knight Berserker
-8,Spell,Mythic,Angry Stricken
-9,Creature,Common,Orc
-10,Spell,Common,Stun
-11,Creature,Common,Spider
-12,Spell,Mythic,Urgent Infuriate
-13,Artifact,Legendary,Extreme Helm
-14,Creature,Common,Spider
-15,Creature,Rare,Aura King Skin-Walker
-16,Spell,Rare,Corpse Vortex
-17,Spell,Common,Ice
-18,Creature,Common,Wolf
-19,Creature,Common,Elf
-20,Creature,Mythic,Snow Grand Demon of Hate
-21,Creature,Mythic,Snow Grand Wizard of Hate
-22,Creature,Common,Wolf
-23,Creature,Mythic,Dark Chaos Demon of Illusion
-24,Enchantment,Common,Shield
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Invert
-27,Creature,Common,Orc
-28,Enchantment,Mythic,Instant Age
-29,Creature,Common,Magi
-30,Enchantment,Legendary,Mighty Agony
-31,Creature,Common,Goblin
-32,Creature,Common,Magi
-33,Spell,Common,Ice
-34,Enchantment,Common,Strength
-35,Creature,Common,Magi
-36,Artifact,Common,Gloves
-37,Artifact,Legendary,Extreme Pendant
-38,Spell,Common,Infuriate
-39,Spell,Rare,Necro Fury
-40,Creature,Mythic,Death Chaos Demon of the Dead
-41,Enchantment,Legendary,Mighty Haste
-42,Spell,Legendary,Mighty Hypnosis
-43,Artifact,Common,Boots
-44,Enchantment,Mythic,Dire Age
+==================,DECK,6646
+0,Creature,Light Lord Hydra
+1,Creature,Earth Priest Hydra
+2,Artifact,Helmet
+3,Creature,Aura Grand Wizard of the Light
+4,Artifact,Cloak
+5,Enchantment,Dark Firebreath
+6,Enchantment,Zealous Shimmering Deathgrip
+7,Creature,Frozen Knight Goblin
+8,Spell,Clever Chimeric Vortex
+9,Creature,Spider
+10,Spell,Lightning
+11,Creature,Paladin
+12,Spell,Zealous Corpse Maelstrom
+13,Artifact,Dire Chimeric Helm
+14,Creature,Paladin
+15,Creature,Aura King Orc
+16,Spell,Nature Maelstrom
+17,Spell,Assault
+18,Creature,Wolf
+19,Creature,Warlock
+20,Creature,Snow Grand Demon of Hate
+21,Creature,Snow Grand Wizard of Hate
+22,Creature,Wolf
+23,Creature,Dark Chaos Demon of Illusion
+24,Enchantment,Flight
+25,Creature,Ghoul
+26,Enchantment,Age
+27,Creature,Spider
+28,Enchantment,Zealous Nature Deathgrip
+29,Creature,Fairy
+30,Enchantment,Irate Miracle Alacrity
+31,Creature,Skin-Walker
+32,Creature,Fairy
+33,Spell,Assault
+34,Enchantment,Invert
+35,Creature,Fairy
+36,Artifact,Gloves
+37,Artifact,Irate Chimeric Pendant
+38,Spell,Fireball
+39,Spell,Necro Ice
+40,Creature,Death Chaos Demon of the Dead
+41,Enchantment,Potent Miracle Shrink
+42,Spell,Clever Sorrow Freeze
+43,Artifact,Boots
+44,Enchantment,Empyrean Victory Shade

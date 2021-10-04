@@ -1,46 +1,46 @@
-==================,DECK,6222,Medium
-0,Spell,Common,Heal
-1,Enchantment,Common,Shield
-2,Spell,Common,Reanimate
-3,Enchantment,Common,Deathgrip
-4,Creature,Legendary,Snow Assassin Giant of the Border
-5,Creature,Common,Paladin
-6,Creature,Common,Magi
-7,Spell,Rare,Lunar Stun
-8,Enchantment,Common,Invert
-9,Creature,Rare,Earth Lord Hydra
-10,Creature,Legendary,Light Priest Giant of the Golden Palace
-11,Creature,Common,Eagle
-12,Creature,Common,Ghoul
-13,Spell,Rare,Forged Invisibility
-14,Creature,Legendary,Light Monk Oni of the Golden Palace
-15,Creature,Common,Eagle
-16,Creature,Common,Elf
-17,Enchantment,Legendary,Intense Shade
-18,Artifact,Rare,Dark Helmet
-19,Creature,Common,Eagle
-20,Creature,Common,Paladin
-21,Spell,Common,Torment
-22,Enchantment,Common,Flight
-23,Creature,Rare,Aura Warrior Fairy
-24,Creature,Common,Ghoul
-25,Spell,Mythic,Extreme Heal
-26,Creature,Rare,Frozen Knight Fairy
-27,Enchantment,Rare,Lunar Age
-28,Artifact,Common,Gauntlet
-29,Enchantment,Legendary,Extreme Alacrity
-30,Creature,Mythic,Earth Ancient Wizard of the Shadows
-31,Enchantment,Rare,Cataclysmic Age
-32,Enchantment,Common,Age
-33,Creature,Common,Orc
-34,Enchantment,Mythic,Dire Haste
-35,Creature,Common,Magi
-36,Creature,Rare,Death Queen Berserker
-37,Creature,Common,Paladin
-38,Enchantment,Common,Age
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Spider
-41,Enchantment,Common,Agony
-42,Enchantment,Legendary,Angry Age
-43,Creature,Legendary,Earth Knight Orge of the Mountains
-44,Spell,Legendary,Dire Burn
+==================,DECK,6222
+0,Spell,Fire
+1,Enchantment,Agony
+2,Spell,Burst
+3,Enchantment,Blight
+4,Creature,Snow Assassin Dwarf of the Border
+5,Creature,Troll
+6,Creature,Fairy
+7,Spell,Lunar Burn
+8,Enchantment,Blight
+9,Creature,Earth Lord Hydra
+10,Creature,Light Priest Dwarf of the Golden Palace
+11,Creature,Eagle
+12,Creature,Ghoul
+13,Spell,Lunar Rage
+14,Creature,Light Monk Oni of the Golden Palace
+15,Creature,Eagle
+16,Creature,Warlock
+17,Enchantment,Dire Necro Age
+18,Artifact,Sorrow Helmet
+19,Creature,Eagle
+20,Creature,Troll
+21,Spell,Assault
+22,Enchantment,Shade
+23,Creature,Aura Warrior Kraken
+24,Creature,Ghoul
+25,Spell,Instant Gloom Maelstrom
+26,Creature,Frozen Knight Kraken
+27,Enchantment,Gloom Alacrity
+28,Artifact,Gauntlet
+29,Enchantment,Urgent Dark Flight
+30,Creature,Earth Ancient Wizard of the Shadows
+31,Enchantment,Gloom Flight
+32,Enchantment,Drain
+33,Creature,Spider
+34,Enchantment,Empyrean Life Shade
+35,Creature,Fairy
+36,Creature,Death Queen Goblin
+37,Creature,Troll
+38,Enchantment,Shield
+39,Enchantment,Lethargy
+40,Creature,Paladin
+41,Enchantment,Shield
+42,Enchantment,Mighty Gloom Flight
+43,Creature,Earth Knight Elf of the Mountains
+44,Spell,Mighty Life Burst

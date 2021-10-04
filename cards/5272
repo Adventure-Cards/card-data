@@ -1,46 +1,46 @@
-==================,DECK,5272,Light
-0,Enchantment,Common,Blight
-1,Spell,Common,Torment
-2,Creature,Common,Spider
-3,Creature,Rare,Death Assassin Griffin
-4,Creature,Common,Spider
-5,Creature,Rare,Frozen Monk Griffin
-6,Creature,Common,Eagle
-7,Creature,Common,Paladin
-8,Creature,Common,Goblin
-9,Creature,Common,Elf
-10,Spell,Common,Stricken
-11,Artifact,Rare,Necro Staff
-12,Spell,Rare,Dark Lightning
-13,Artifact,Common,Amulet
-14,Creature,Rare,Frozen Assassin Griffin
-15,Spell,Common,Frost
-16,Artifact,Common,Gauntlet
-17,Artifact,Common,Shield
-18,Enchantment,Common,Drain
-19,Spell,Common,Sorrow
-20,Creature,Common,Wolf
-21,Creature,Legendary,Snow Undead Oni of the Black Stone
-22,Spell,Common,Fury
-23,Enchantment,Legendary,Instant Alacrity
-24,Creature,Common,Eagle
-25,Enchantment,Rare,Frigid Agony
-26,Creature,Common,Orc
-27,Artifact,Common,Sword
-28,Spell,Common,Lightning
-29,Spell,Rare,Frigid Lightning
-30,Enchantment,Common,Shield
-31,Creature,Common,Goblin
-32,Creature,Rare,Frozen Undead Minotaur
-33,Enchantment,Common,Deathgrip
-34,Artifact,Common,Sigil
-35,Spell,Common,Pandemonium
-36,Enchantment,Common,Age
-37,Creature,Common,Spider
-38,Spell,Common,Reanimate
-39,Creature,Common,Warlock
-40,Spell,Common,Pandemonium
-41,Creature,Common,Orc
-42,Enchantment,Common,Alacrity
-43,Creature,Legendary,Aura Knight Orge of the Black Stone
-44,Spell,Common,Lightning
+==================,DECK,5272
+0,Enchantment,Drain
+1,Spell,Frenzy
+2,Creature,Paladin
+3,Creature,Death Assassin Griffin
+4,Creature,Paladin
+5,Creature,Frozen Monk Griffin
+6,Creature,Eagle
+7,Creature,Troll
+8,Creature,Skin-Walker
+9,Creature,Warlock
+10,Spell,Assault
+11,Artifact,Necro Staff
+12,Spell,Sorrow Revive
+13,Artifact,Amulet
+14,Creature,Frozen Assassin Griffin
+15,Spell,Rage
+16,Artifact,Gauntlet
+17,Artifact,Shield
+18,Enchantment,Shield
+19,Spell,Gravitation
+20,Creature,Wolf
+21,Creature,Snow Undead Oni of the Black Stone
+22,Spell,Frenzy
+23,Enchantment,Irate Forged Deathgrip
+24,Creature,Eagle
+25,Enchantment,Life Haste
+26,Creature,Spider
+27,Artifact,Sword
+28,Spell,Heal
+29,Spell,Victory Wall
+30,Enchantment,Lethargy
+31,Creature,Skin-Walker
+32,Creature,Frozen Undead Cyclops
+33,Enchantment,Firebreath
+34,Artifact,Sigil
+35,Spell,Wall
+36,Enchantment,Haste
+37,Creature,Paladin
+38,Spell,Gale
+39,Creature,Berserker
+40,Spell,Assault
+41,Creature,Spider
+42,Enchantment,Haste
+43,Creature,Aura Knight Elf of the Black Stone
+44,Spell,Invisibility

@@ -1,46 +1,46 @@
-==================,DECK,5505,Light
-0,Creature,Common,Orc
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Blight
-3,Creature,Rare,Snow Assassin Griffin
-4,Creature,Common,Wolf
-5,Creature,Common,Dwarf
-6,Creature,Common,Dwarf
-7,Creature,Common,Goblin
-8,Creature,Common,Elf
-9,Creature,Common,Ghoul
-10,Spell,Common,Gravitation
-11,Artifact,Legendary,Urgent Helm
-12,Creature,Rare,Earth Knight Berserker
-13,Creature,Common,Dwarf
-14,Creature,Common,Wolf
-15,Creature,Common,Wolf
-16,Artifact,Common,Greaves
-17,Enchantment,Common,Shade
-18,Creature,Common,Elf
-19,Creature,Common,Orc
-20,Spell,Legendary,Clever Burn
-21,Creature,Common,Eagle
-22,Enchantment,Rare,Life Flight
-23,Creature,Rare,Death Rogue Fairy
-24,Creature,Common,Elf
-25,Spell,Rare,Cataclysmic Reanimate
-26,Enchantment,Rare,Apocalypse Flight
-27,Creature,Common,Ghoul
-28,Spell,Common,Frost
-29,Creature,Common,Dwarf
-30,Creature,Common,Spider
-31,Creature,Common,Elf
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Dwarf
-34,Spell,Common,Rage
-35,Spell,Common,Gravitation
-36,Spell,Common,Sorrow
-37,Creature,Common,Goblin
-38,Artifact,Rare,Hateful Ring
-39,Creature,Common,Magi
-40,Spell,Common,Hypnosis
-41,Creature,Common,Ghoul
-42,Spell,Legendary,Intense Assault
-43,Creature,Common,Paladin
-44,Creature,Rare,Snow Assassin Berserker
+==================,DECK,5505
+0,Creature,Spider
+1,Creature,Ghoul
+2,Enchantment,Invert
+3,Creature,Snow Assassin Griffin
+4,Creature,Wolf
+5,Creature,Magi
+6,Creature,Magi
+7,Creature,Skin-Walker
+8,Creature,Warlock
+9,Creature,Ghoul
+10,Spell,Vortex
+11,Artifact,Dire Hateful Helm
+12,Creature,Earth Knight Goblin
+13,Creature,Magi
+14,Creature,Wolf
+15,Creature,Wolf
+16,Artifact,Greaves
+17,Enchantment,Shrink
+18,Creature,Warlock
+19,Creature,Spider
+20,Spell,Clever Grim Wall
+21,Creature,Eagle
+22,Enchantment,Grim Invert
+23,Creature,Death Rogue Kraken
+24,Creature,Warlock
+25,Spell,Sorrow Gravitation
+26,Enchantment,Grim Haste
+27,Creature,Ghoul
+28,Spell,Gale
+29,Creature,Magi
+30,Creature,Paladin
+31,Creature,Warlock
+32,Enchantment,Haste
+33,Creature,Magi
+34,Spell,Burst
+35,Spell,Rage
+36,Spell,Reanimate
+37,Creature,Skin-Walker
+38,Artifact,Cataclysmic Ring
+39,Creature,Fairy
+40,Spell,Wall
+41,Creature,Ghoul
+42,Spell,Irate Nature Infuriate
+43,Creature,Troll
+44,Creature,Snow Assassin Goblin

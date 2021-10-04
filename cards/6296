@@ -1,46 +1,46 @@
-==================,DECK,6296,Light
-0,Creature,Rare,Death Monk Berserker
-1,Creature,Common,Orc
-2,Enchantment,Common,Deathgrip
-3,Enchantment,Common,Shrink
-4,Spell,Common,Freeze
-5,Creature,Rare,Snow Undead Fairy
-6,Creature,Rare,Death Merchant Hydra
-7,Enchantment,Rare,Hateful Blight
-8,Enchantment,Common,Age
-9,Spell,Common,Heal
-10,Spell,Common,Invisibility
-11,Spell,Common,Maelstrom
-12,Creature,Common,Wolf
-13,Artifact,Common,Greaves
-14,Artifact,Common,Potion
-15,Enchantment,Common,Haste
-16,Spell,Rare,Forged Freeze
-17,Creature,Common,Warlock
-18,Artifact,Common,Sword
-19,Creature,Common,Orc
-20,Spell,Common,Wall
-21,Artifact,Legendary,Dire Cloak
-22,Creature,Legendary,Frozen Priest Oni of the Arctic Blizzards
-23,Spell,Rare,Necro Infuriate
-24,Creature,Common,Goblin
-25,Creature,Legendary,Aura Merchant Oni of the Swamp
-26,Enchantment,Common,Lethargy
-27,Spell,Common,Infuriate
-28,Creature,Mythic,Aura Grand Wizard of the Light
-29,Creature,Common,Elf
-30,Creature,Common,Goblin
-31,Creature,Common,Ghoul
-32,Creature,Rare,Dark Merchant Hydra
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Eagle
-35,Spell,Common,Wall
-36,Creature,Common,Ghoul
-37,Spell,Common,Infuriate
-38,Creature,Common,Dwarf
-39,Creature,Common,Magi
-40,Enchantment,Common,Haste
-41,Creature,Common,Wolf
-42,Artifact,Legendary,Intense Helm
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,6296
+0,Creature,Death Monk Goblin
+1,Creature,Spider
+2,Enchantment,Flight
+3,Enchantment,Blight
+4,Spell,Vortex
+5,Creature,Snow Undead Kraken
+6,Creature,Death Merchant Hydra
+7,Enchantment,Cataclysmic Flight
+8,Enchantment,Shrink
+9,Spell,Assault
+10,Spell,Rage
+11,Spell,Pandemonium
+12,Creature,Wolf
+13,Artifact,Greaves
+14,Artifact,Potion
+15,Enchantment,Age
+16,Spell,Miracle Frenzy
+17,Creature,Berserker
+18,Artifact,Sword
+19,Creature,Spider
+20,Spell,Fury
+21,Artifact,Clever Oblivion Cloak
+22,Creature,Frozen Priest Oni of the Arctic Blizzards
+23,Spell,Necro Maelstrom
+24,Creature,Skin-Walker
+25,Creature,Aura Merchant Oni of the Swamp
+26,Enchantment,Firebreath
+27,Spell,Vortex
+28,Creature,Aura Grand Wizard of the Light
+29,Creature,Warlock
+30,Creature,Skin-Walker
+31,Creature,Ghoul
+32,Creature,Dark Merchant Hydra
+33,Enchantment,Age
+34,Creature,Eagle
+35,Spell,Burn
+36,Creature,Ghoul
+37,Spell,Pandemonium
+38,Creature,Magi
+39,Creature,Fairy
+40,Enchantment,Shield
+41,Creature,Wolf
+42,Artifact,Dire Forged Helm
+43,Creature,Troll
+44,Creature,Paladin

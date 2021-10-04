@@ -1,46 +1,46 @@
-==================,DECK,5848,Medium
-0,Enchantment,Rare,Miracle Flight
-1,Spell,Common,Burst
-2,Creature,Rare,Earth Monk Minotaur
-3,Creature,Common,Warlock
-4,Spell,Common,Revive
-5,Spell,Common,Burst
-6,Creature,Rare,Aura Lord Berserker
-7,Enchantment,Common,Agony
-8,Spell,Common,Revive
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Shade
-11,Enchantment,Common,Shade
-12,Artifact,Common,Gloves
-13,Artifact,Rare,Apocalypse Bow
-14,Enchantment,Common,Deathgrip
-15,Artifact,Common,Scepter
-16,Creature,Common,Paladin
-17,Enchantment,Rare,Corpse Shield
-18,Enchantment,Common,Blight
-19,Enchantment,Rare,Corpse Shield
-20,Enchantment,Rare,Corpse Agony
-21,Creature,Rare,Death Rogue Berserker
-22,Creature,Common,Orc
-23,Enchantment,Common,Shade
-24,Creature,Common,Eagle
-25,Creature,Mythic,Earth Time Phoenix of the Shadows
-26,Spell,Rare,Oblivion Assault
-27,Creature,Rare,Snow Knight Skin-Walker
-28,Creature,Common,Spider
-29,Creature,Common,Goblin
-30,Spell,Common,Lightning
-31,Creature,Common,Wolf
-32,Artifact,Rare,Miracle Crown
-33,Enchantment,Common,Shade
-34,Creature,Legendary,Dark Lord Kraken of the Low Hills
-35,Creature,Common,Elf
-36,Creature,Rare,Frozen King Skin-Walker
-37,Creature,Common,Eagle
-38,Creature,Common,Ghoul
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Haste
-41,Spell,Common,Sorrow
-42,Creature,Rare,Dark Thief Berserker
-43,Creature,Rare,Earth Merchant Hydra
-44,Enchantment,Rare,Solar Strength
+==================,DECK,5848
+0,Enchantment,Grim Drain
+1,Spell,Burn
+2,Creature,Earth Monk Cyclops
+3,Creature,Berserker
+4,Spell,Rage
+5,Spell,Maelstrom
+6,Creature,Aura Lord Goblin
+7,Enchantment,Blight
+8,Spell,Ice
+9,Creature,Ghoul
+10,Enchantment,Firebreath
+11,Enchantment,Blight
+12,Artifact,Gloves
+13,Artifact,Victory Bow
+14,Enchantment,Shrink
+15,Artifact,Scepter
+16,Creature,Troll
+17,Enchantment,Nature Strength
+18,Enchantment,Agony
+19,Enchantment,Nature Strength
+20,Enchantment,Corpse Deathgrip
+21,Creature,Death Rogue Goblin
+22,Creature,Spider
+23,Enchantment,Alacrity
+24,Creature,Eagle
+25,Creature,Earth Time Phoenix of the Shadows
+26,Spell,Victory Burn
+27,Creature,Snow Knight Orc
+28,Creature,Paladin
+29,Creature,Skin-Walker
+30,Spell,Fireball
+31,Creature,Wolf
+32,Artifact,Oblivion Crown
+33,Enchantment,Agony
+34,Creature,Dark Lord Ogre of the Low Hills
+35,Creature,Warlock
+36,Creature,Frozen King Orc
+37,Creature,Eagle
+38,Creature,Ghoul
+39,Creature,Ghoul
+40,Enchantment,Strength
+41,Spell,Gravitation
+42,Creature,Dark Thief Goblin
+43,Creature,Earth Merchant Hydra
+44,Enchantment,Solar Age

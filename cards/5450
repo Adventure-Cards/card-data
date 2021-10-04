@@ -1,46 +1,46 @@
-==================,DECK,5450,Medium
-0,Spell,Common,Frost
-1,Creature,Common,Goblin
-2,Spell,Rare,Cataclysmic Pandemonium
-3,Creature,Mythic,Aura Grand Demon of the Light
-4,Spell,Common,Infuriate
-5,Enchantment,Common,Alacrity
-6,Enchantment,Common,Shrink
-7,Spell,Legendary,Mighty Fury
-8,Creature,Rare,Aura Thief Minotaur
-9,Creature,Common,Orc
-10,Creature,Common,Wolf
-11,Spell,Common,Revive
-12,Creature,Rare,Frozen Lord Fairy
-13,Creature,Common,Eagle
-14,Creature,Common,Eagle
-15,Enchantment,Common,Haste
-16,Creature,Legendary,Frozen King Kraken of the Swamp
-17,Creature,Common,Warlock
-18,Creature,Rare,Aura Merchant Fairy
-19,Creature,Common,Spider
-20,Spell,Rare,Nature Sorrow
-21,Spell,Rare,Frigid Invisibility
-22,Enchantment,Rare,Life Haste
-23,Creature,Rare,Light Rogue Berserker
-24,Creature,Rare,Death King Fairy
-25,Artifact,Common,Scythe
-26,Creature,Mythic,Aura Ancient Demon of the Light
-27,Creature,Common,Eagle
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Lethargy
-30,Creature,Rare,Snow Assassin Hydra
-31,Spell,Common,Vortex
-32,Spell,Common,Sorrow
-33,Enchantment,Common,Haste
-34,Enchantment,Common,Blight
-35,Creature,Rare,Frozen Knight Griffin
-36,Spell,Common,Invisibility
-37,Enchantment,Legendary,Clever Lethargy
-38,Spell,Common,Freeze
-39,Enchantment,Legendary,Extreme Shade
-40,Creature,Rare,Frozen Merchant Minotaur
-41,Enchantment,Common,Blight
-42,Creature,Common,Dwarf
-43,Creature,Common,Wolf
-44,Creature,Legendary,Earth Fighter Kraken of the Swamp
+==================,DECK,5450
+0,Spell,Hypnosis
+1,Creature,Skin-Walker
+2,Spell,Cataclysmic Sorrow
+3,Creature,Aura Grand Demon of the Light
+4,Spell,Freeze
+5,Enchantment,Flight
+6,Enchantment,Shrink
+7,Spell,Potent Cataclysmic Fury
+8,Creature,Aura Thief Cyclops
+9,Creature,Spider
+10,Creature,Wolf
+11,Spell,Fury
+12,Creature,Frozen Lord Kraken
+13,Creature,Eagle
+14,Creature,Eagle
+15,Enchantment,Deathgrip
+16,Creature,Frozen King Ogre of the Swamp
+17,Creature,Berserker
+18,Creature,Aura Merchant Kraken
+19,Creature,Paladin
+20,Spell,Necro Stun
+21,Spell,Grim Fire
+22,Enchantment,Life Drain
+23,Creature,Light Rogue Goblin
+24,Creature,Death King Kraken
+25,Artifact,Scythe
+26,Creature,Aura Ancient Demon of the Light
+27,Creature,Eagle
+28,Creature,Magi
+29,Enchantment,Haste
+30,Creature,Snow Assassin Hydra
+31,Spell,Infuriate
+32,Spell,Fire
+33,Enchantment,Deathgrip
+34,Enchantment,Flight
+35,Creature,Frozen Knight Griffin
+36,Spell,Burn
+37,Enchantment,Irate Grim Blight
+38,Spell,Torment
+39,Enchantment,Instant Chimeric Shrink
+40,Creature,Frozen Merchant Cyclops
+41,Enchantment,Agony
+42,Creature,Magi
+43,Creature,Wolf
+44,Creature,Earth Fighter Ogre of the Swamp

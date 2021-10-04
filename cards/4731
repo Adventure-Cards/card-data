@@ -1,46 +1,46 @@
-==================,DECK,4731,Light
-0,Enchantment,Mythic,Mighty Drain
-1,Creature,Common,Ghoul
-2,Creature,Common,Paladin
-3,Creature,Common,Elf
-4,Creature,Common,Spider
-5,Creature,Common,Eagle
-6,Enchantment,Mythic,Instant Age
-7,Creature,Mythic,Dark Nameless Dragon of Illusion
-8,Creature,Common,Spider
-9,Creature,Rare,Death Thief Minotaur
-10,Spell,Common,Frenzy
-11,Spell,Legendary,Instant Gravitation
-12,Creature,Common,Elf
-13,Creature,Rare,Snow Thief Minotaur
-14,Spell,Common,Reanimate
-15,Artifact,Common,Gauntlet
-16,Spell,Common,Freeze
-17,Spell,Common,Burn
-18,Spell,Common,Burst
-19,Creature,Common,Goblin
-20,Artifact,Common,Pendant
-21,Creature,Rare,Earth Rogue Minotaur
-22,Creature,Common,Elf
-23,Creature,Common,Dwarf
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Creature,Common,Wolf
-27,Creature,Common,Spider
-28,Creature,Rare,Earth Queen Minotaur
-29,Artifact,Rare,Frigid Pendant
-30,Creature,Common,Elf
-31,Creature,Legendary,Dark Queen Giant of the Border
-32,Spell,Rare,Apocalypse Stricken
-33,Creature,Common,Spider
-34,Creature,Common,Ghoul
-35,Creature,Common,Wolf
-36,Creature,Common,Warlock
-37,Creature,Common,Warlock
-38,Creature,Rare,Frozen Thief Fairy
-39,Creature,Common,Goblin
-40,Artifact,Common,Staff
-41,Spell,Common,Stun
-42,Spell,Legendary,Clever Wall
-43,Creature,Common,Goblin
-44,Spell,Common,Burst
+==================,DECK,4731
+0,Enchantment,Empyrean Dark Firebreath
+1,Creature,Ghoul
+2,Creature,Troll
+3,Creature,Warlock
+4,Creature,Paladin
+5,Creature,Eagle
+6,Enchantment,Potent Nature Strength
+7,Creature,Dark Nameless Dragon of Illusion
+8,Creature,Paladin
+9,Creature,Death Thief Cyclops
+10,Spell,Fury
+11,Spell,Urgent Hateful Maelstrom
+12,Creature,Warlock
+13,Creature,Snow Thief Cyclops
+14,Spell,Gravitation
+15,Artifact,Gauntlet
+16,Spell,Freeze
+17,Spell,Burn
+18,Spell,Vortex
+19,Creature,Skin-Walker
+20,Artifact,Pendant
+21,Creature,Earth Rogue Cyclops
+22,Creature,Warlock
+23,Creature,Magi
+24,Creature,Magi
+25,Creature,Berserker
+26,Creature,Wolf
+27,Creature,Paladin
+28,Creature,Earth Queen Cyclops
+29,Artifact,Oblivion Pendant
+30,Creature,Warlock
+31,Creature,Dark Queen Dwarf of the Border
+32,Spell,Victory Fury
+33,Creature,Paladin
+34,Creature,Ghoul
+35,Creature,Wolf
+36,Creature,Berserker
+37,Creature,Berserker
+38,Creature,Frozen Thief Kraken
+39,Creature,Skin-Walker
+40,Artifact,Staff
+41,Spell,Frenzy
+42,Spell,Dire Nimble Assault
+43,Creature,Skin-Walker
+44,Spell,Fire

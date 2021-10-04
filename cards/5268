@@ -1,46 +1,46 @@
-==================,DECK,5268,Medium
-0,Spell,Common,Frost
-1,Enchantment,Mythic,Instant Strength
-2,Spell,Rare,Dark Revive
-3,Artifact,Common,Potion
-4,Artifact,Rare,Solar Ring
-5,Enchantment,Common,Lethargy
-6,Creature,Common,Elf
-7,Enchantment,Mythic,Mighty Drain
-8,Artifact,Rare,Dark Bracers
-9,Creature,Common,Ghoul
-10,Creature,Rare,Frozen Priest Hydra
-11,Spell,Common,Maelstrom
-12,Creature,Legendary,Aura Thief Kraken of the Bright Mountains
-13,Creature,Rare,Snow Priest Berserker
-14,Spell,Mythic,Angry Infuriate
-15,Enchantment,Mythic,Intense Shield
-16,Enchantment,Common,Shield
-17,Spell,Legendary,Angry Wall
-18,Artifact,Common,Ring
-19,Enchantment,Common,Agony
-20,Enchantment,Common,Flight
-21,Spell,Common,Rage
-22,Creature,Common,Spider
-23,Creature,Rare,Aura Knight Minotaur
-24,Creature,Rare,Snow Undead Skin-Walker
-25,Creature,Legendary,Snow Knight Oni of the Black Stone
-26,Spell,Common,Gravitation
-27,Creature,Common,Magi
-28,Spell,Legendary,Potent Burn
-29,Creature,Common,Dwarf
-30,Creature,Rare,Death Assassin Skin-Walker
-31,Creature,Rare,Death Fighter Berserker
-32,Enchantment,Common,Blight
-33,Creature,Rare,Snow Assassin Hydra
-34,Creature,Rare,Death Assassin Minotaur
-35,Creature,Mythic,Aura Grand Wizard of the Light
-36,Spell,Rare,Nimble Rage
-37,Creature,Mythic,Aura Grand Wizard of the Light
-38,Enchantment,Common,Flight
-39,Enchantment,Rare,Cataclysmic Age
-40,Creature,Mythic,Snow Chaos Wizard of Hate
-41,Creature,Common,Spider
-42,Creature,Rare,Light Merchant Skin-Walker
-43,Enchantment,Common,Shade
-44,Spell,Rare,Lunar Ice
+==================,DECK,5268
+0,Spell,Torment
+1,Enchantment,Urgent Solar Agony
+2,Spell,Dark Wall
+3,Artifact,Potion
+4,Artifact,Solar Ring
+5,Enchantment,Invert
+6,Creature,Warlock
+7,Enchantment,Clever Dark Shield
+8,Artifact,Lunar Bracers
+9,Creature,Ghoul
+10,Creature,Frozen Priest Hydra
+11,Spell,Stun
+12,Creature,Aura Thief Ogre of the Bright Mountains
+13,Creature,Snow Priest Goblin
+14,Spell,Mighty Lunar Rage
+15,Enchantment,Dire Nature Age
+16,Enchantment,Deathgrip
+17,Spell,Ardent Cataclysmic Maelstrom
+18,Artifact,Ring
+19,Enchantment,Haste
+20,Enchantment,Alacrity
+21,Spell,Infuriate
+22,Creature,Paladin
+23,Creature,Aura Knight Cyclops
+24,Creature,Snow Undead Orc
+25,Creature,Snow Knight Oni of the Black Stone
+26,Spell,Burst
+27,Creature,Fairy
+28,Spell,Mighty Frigid Maelstrom
+29,Creature,Magi
+30,Creature,Death Assassin Orc
+31,Creature,Death Fighter Goblin
+32,Enchantment,Age
+33,Creature,Snow Assassin Hydra
+34,Creature,Death Assassin Cyclops
+35,Creature,Aura Grand Wizard of the Light
+36,Spell,Forged Heal
+37,Creature,Aura Grand Wizard of the Light
+38,Enchantment,Alacrity
+39,Enchantment,Gloom Alacrity
+40,Creature,Snow Chaos Wizard of Hate
+41,Creature,Paladin
+42,Creature,Light Merchant Orc
+43,Enchantment,Shield
+44,Spell,Dark Gravitation

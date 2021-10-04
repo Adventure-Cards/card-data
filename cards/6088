@@ -1,46 +1,46 @@
-==================,DECK,6088,Light
-0,Artifact,Common,Ring
-1,Artifact,Rare,Life Ring
-2,Creature,Rare,Death Thief Skin-Walker
-3,Creature,Rare,Death Merchant Minotaur
-4,Enchantment,Common,Shield
-5,Creature,Common,Orc
-6,Artifact,Legendary,Mighty Ring
-7,Artifact,Common,Greaves
-8,Spell,Common,Torment
-9,Enchantment,Common,Drain
-10,Creature,Common,Spider
-11,Creature,Rare,Death Thief Fairy
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Shrink
-14,Enchantment,Legendary,Extreme Blight
-15,Creature,Common,Paladin
-16,Creature,Common,Wolf
-17,Creature,Common,Wolf
-18,Creature,Common,Goblin
-19,Spell,Common,Heal
-20,Creature,Common,Wolf
-21,Artifact,Common,Scepter
-22,Enchantment,Common,Blight
-23,Enchantment,Common,Alacrity
-24,Spell,Rare,Cataclysmic Gale
-25,Creature,Common,Dwarf
-26,Creature,Common,Ghoul
-27,Spell,Common,Lightning
-28,Creature,Common,Elf
-29,Creature,Common,Wolf
-30,Spell,Common,Ice
-31,Creature,Rare,Dark Warrior Berserker
-32,Creature,Common,Ghoul
-33,Creature,Rare,Earth Queen Berserker
-34,Spell,Rare,Necro Sorrow
-35,Artifact,Common,Gloves
-36,Creature,Common,Wolf
-37,Creature,Legendary,Earth Queen Orge of the Bright Mountains
-38,Enchantment,Common,Deathgrip
-39,Artifact,Rare,Gloom Ghost Wand
-40,Creature,Common,Ghoul
-41,Creature,Common,Goblin
-42,Creature,Rare,Death Knight Griffin
-43,Enchantment,Mythic,Angry Age
-44,Creature,Common,Spider
+==================,DECK,6088
+0,Artifact,Ring
+1,Artifact,Life Ring
+2,Creature,Death Thief Orc
+3,Creature,Death Merchant Cyclops
+4,Enchantment,Age
+5,Creature,Spider
+6,Artifact,Clever Miracle Ring
+7,Artifact,Greaves
+8,Spell,Freeze
+9,Enchantment,Shield
+10,Creature,Paladin
+11,Creature,Death Thief Kraken
+12,Creature,Magi
+13,Enchantment,Strength
+14,Enchantment,Mighty Cataclysmic Flight
+15,Creature,Troll
+16,Creature,Wolf
+17,Creature,Wolf
+18,Creature,Skin-Walker
+19,Spell,Frenzy
+20,Creature,Wolf
+21,Artifact,Scepter
+22,Enchantment,Deathgrip
+23,Enchantment,Age
+24,Spell,Lunar Frenzy
+25,Creature,Magi
+26,Creature,Ghoul
+27,Spell,Torment
+28,Creature,Warlock
+29,Creature,Wolf
+30,Spell,Assault
+31,Creature,Dark Warrior Goblin
+32,Creature,Ghoul
+33,Creature,Earth Queen Goblin
+34,Spell,Necro Fire
+35,Artifact,Gloves
+36,Creature,Wolf
+37,Creature,Earth Queen Elf of the Bright Mountains
+38,Enchantment,Shade
+39,Artifact,Dark Ghost Wand
+40,Creature,Ghoul
+41,Creature,Skin-Walker
+42,Creature,Death Knight Griffin
+43,Enchantment,Mighty Gloom Flight
+44,Creature,Paladin

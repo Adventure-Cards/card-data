@@ -1,46 +1,46 @@
-==================,DECK,6508,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Ghoul
-2,Creature,Common,Magi
-3,Artifact,Common,Ghost Wand
-4,Enchantment,Common,Age
-5,Artifact,Common,Amulet
-6,Creature,Rare,Snow Assassin Hydra
-7,Spell,Rare,Shimmering Hypnosis
-8,Spell,Common,Infuriate
-9,Enchantment,Rare,Hateful Blight
-10,Creature,Common,Elf
-11,Creature,Common,Wolf
-12,Artifact,Rare,Dark Crown
-13,Creature,Rare,Light Fighter Berserker
-14,Spell,Rare,Hateful Burn
-15,Enchantment,Common,Invert
-16,Enchantment,Common,Age
-17,Artifact,Common,Gauntlet
-18,Creature,Common,Dwarf
-19,Artifact,Common,Crown
-20,Spell,Common,Gravitation
-21,Spell,Common,Frenzy
-22,Creature,Rare,Snow Priest Fairy
-23,Creature,Mythic,Frozen Time Dragon of the Void
-24,Creature,Legendary,Dark Priest Giant of the Plains
-25,Creature,Common,Magi
-26,Creature,Legendary,Frozen Lord Cyclops of the West
-27,Creature,Common,Dwarf
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Shade
-30,Spell,Common,Stricken
-31,Creature,Common,Orc
-32,Creature,Common,Goblin
-33,Creature,Common,Orc
-34,Artifact,Common,Amulet
-35,Spell,Rare,Gloom Rage
-36,Enchantment,Common,Flight
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Invert
-39,Creature,Mythic,Earth Time Dragon of the Shadows
-40,Creature,Common,Goblin
-41,Enchantment,Common,Haste
-42,Creature,Common,Eagle
-43,Creature,Legendary,Aura Queen Kraken of the Eternal Land
-44,Creature,Common,Ghoul
+==================,DECK,6508
+0,Creature,Magi
+1,Creature,Ghoul
+2,Creature,Fairy
+3,Artifact,Ghost Wand
+4,Enchantment,Shield
+5,Artifact,Amulet
+6,Creature,Snow Assassin Hydra
+7,Spell,Shimmering Rage
+8,Spell,Invisibility
+9,Enchantment,Cataclysmic Firebreath
+10,Creature,Warlock
+11,Creature,Wolf
+12,Artifact,Miracle Crown
+13,Creature,Light Fighter Goblin
+14,Spell,Sorrow Assault
+15,Enchantment,Haste
+16,Enchantment,Shade
+17,Artifact,Gauntlet
+18,Creature,Magi
+19,Artifact,Crown
+20,Spell,Fire
+21,Spell,Reanimate
+22,Creature,Snow Priest Kraken
+23,Creature,Frozen Time Dragon of the Void
+24,Creature,Dark Priest Dwarf of the Plains
+25,Creature,Fairy
+26,Creature,Frozen Lord Giant of the West
+27,Creature,Magi
+28,Creature,Magi
+29,Enchantment,Alacrity
+30,Spell,Tempest
+31,Creature,Spider
+32,Creature,Skin-Walker
+33,Creature,Spider
+34,Artifact,Amulet
+35,Spell,Gloom Assault
+36,Enchantment,Deathgrip
+37,Creature,Magi
+38,Enchantment,Haste
+39,Creature,Earth Time Dragon of the Shadows
+40,Creature,Skin-Walker
+41,Enchantment,Shield
+42,Creature,Eagle
+43,Creature,Aura Queen Ogre of the Eternal Land
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,5632,Medium
-0,Creature,Common,Wolf
-1,Spell,Common,Stun
-2,Enchantment,Common,Shrink
-3,Enchantment,Common,Shade
-4,Spell,Rare,Corpse Wall
-5,Spell,Common,Frenzy
-6,Creature,Rare,Snow Thief Fairy
-7,Creature,Common,Orc
-8,Spell,Common,Ice
-9,Creature,Common,Eagle
-10,Enchantment,Common,Agony
-11,Creature,Rare,Snow Undead Skin-Walker
-12,Artifact,Legendary,Mighty Scythe
-13,Enchantment,Common,Shrink
-14,Enchantment,Common,Invert
-15,Creature,Rare,Death Knight Berserker
-16,Creature,Common,Dwarf
-17,Creature,Common,Paladin
-18,Spell,Mythic,Mighty Pandemonium
-19,Spell,Common,Gale
-20,Creature,Common,Eagle
-21,Enchantment,Legendary,Mighty Agony
-22,Creature,Common,Orc
-23,Enchantment,Common,Haste
-24,Enchantment,Common,Shade
-25,Spell,Common,Wall
-26,Creature,Common,Goblin
-27,Spell,Common,Vortex
-28,Enchantment,Common,Shade
-29,Spell,Mythic,Urgent Freeze
-30,Artifact,Common,Belt
-31,Spell,Common,Invisibility
-32,Creature,Mythic,Aura Nameless Phoenix of the Light
-33,Creature,Common,Eagle
-34,Artifact,Common,Amulet
-35,Creature,Common,Magi
-36,Creature,Common,Dwarf
-37,Artifact,Rare,Nimble Sigil
-38,Enchantment,Common,Haste
-39,Spell,Mythic,Extreme Reanimate
-40,Enchantment,Common,Shade
-41,Artifact,Common,Potion
-42,Enchantment,Legendary,Clever Lethargy
-43,Creature,Legendary,Aura King Cyclops of the Low Hills
-44,Spell,Common,Sorrow
+==================,DECK,5632
+0,Creature,Wolf
+1,Spell,Frenzy
+2,Enchantment,Shield
+3,Enchantment,Shield
+4,Spell,Solar Fire
+5,Spell,Hypnosis
+6,Creature,Snow Thief Kraken
+7,Creature,Spider
+8,Spell,Revive
+9,Creature,Eagle
+10,Enchantment,Deathgrip
+11,Creature,Snow Undead Orc
+12,Artifact,Dire Gloom Scythe
+13,Enchantment,Deathgrip
+14,Enchantment,Age
+15,Creature,Death Knight Goblin
+16,Creature,Magi
+17,Creature,Troll
+18,Spell,Zealous Miracle Stun
+19,Spell,Torment
+20,Creature,Eagle
+21,Enchantment,Dire Miracle Firebreath
+22,Creature,Spider
+23,Enchantment,Shade
+24,Enchantment,Blight
+25,Spell,Invisibility
+26,Creature,Skin-Walker
+27,Spell,Reanimate
+28,Enchantment,Lethargy
+29,Spell,Ardent Forged Hypnosis
+30,Artifact,Belt
+31,Spell,Revive
+32,Creature,Aura Nameless Phoenix of the Light
+33,Creature,Eagle
+34,Artifact,Amulet
+35,Creature,Fairy
+36,Creature,Magi
+37,Artifact,Solar Sigil
+38,Enchantment,Firebreath
+39,Spell,Zealous Miracle Frost
+40,Enchantment,Alacrity
+41,Artifact,Potion
+42,Enchantment,Urgent Grim Invert
+43,Creature,Aura King Giant of the Low Hills
+44,Spell,Gale

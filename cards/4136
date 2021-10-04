@@ -1,46 +1,46 @@
-==================,DECK,4136,Medium
-0,Creature,Rare,Aura Merchant Berserker
-1,Creature,Rare,Dark Knight Skin-Walker
-2,Creature,Common,Paladin
-3,Enchantment,Rare,Apocalypse Haste
-4,Creature,Rare,Death Assassin Berserker
-5,Creature,Rare,Earth Warrior Berserker
-6,Creature,Common,Warlock
-7,Creature,Common,Orc
-8,Creature,Common,Goblin
-9,Creature,Common,Wolf
-10,Enchantment,Rare,Grim Shade
-11,Artifact,Common,Belt
-12,Spell,Common,Invisibility
-13,Creature,Rare,Light Lord Skin-Walker
-14,Enchantment,Common,Strength
-15,Creature,Common,Ghoul
-16,Creature,Common,Paladin
-17,Artifact,Common,Bracers
-18,Spell,Common,Sorrow
-19,Creature,Common,Paladin
-20,Spell,Common,Rage
-21,Creature,Rare,Dark Knight Skin-Walker
-22,Creature,Rare,Light King Hydra
-23,Creature,Common,Ghoul
-24,Creature,Mythic,Aura Undead Phoenix of the Light
-25,Creature,Legendary,Death Lord Cyclops of the Mountains
-26,Spell,Common,Frost
-27,Spell,Rare,Solar Assault
-28,Spell,Common,Hypnosis
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Alacrity
-31,Spell,Common,Wall
-32,Enchantment,Rare,Lunar Deathgrip
-33,Enchantment,Rare,Nimble Lethargy
-34,Creature,Rare,Earth Rogue Berserker
-35,Spell,Common,Stun
-36,Creature,Legendary,Dark Priest Cyclops of the Plains
-37,Creature,Legendary,Frozen Undead Cyclops of the Polar Woods
-38,Spell,Rare,Necro Pandemonium
-39,Spell,Mythic,Intense Wall
-40,Enchantment,Legendary,Intense Shade
-41,Spell,Common,Maelstrom
-42,Creature,Common,Wolf
-43,Creature,Common,Spider
-44,Enchantment,Common,Blight
+==================,DECK,4136
+0,Creature,Aura Merchant Goblin
+1,Creature,Dark Knight Orc
+2,Creature,Troll
+3,Enchantment,Life Drain
+4,Creature,Death Assassin Goblin
+5,Creature,Earth Warrior Goblin
+6,Creature,Berserker
+7,Creature,Spider
+8,Creature,Skin-Walker
+9,Creature,Wolf
+10,Enchantment,Frigid Blight
+11,Artifact,Belt
+12,Spell,Heal
+13,Creature,Light Lord Orc
+14,Enchantment,Age
+15,Creature,Ghoul
+16,Creature,Troll
+17,Artifact,Bracers
+18,Spell,Reanimate
+19,Creature,Troll
+20,Spell,Lightning
+21,Creature,Dark Knight Orc
+22,Creature,Light King Hydra
+23,Creature,Ghoul
+24,Creature,Aura Undead Phoenix of the Light
+25,Creature,Death Lord Giant of the Mountains
+26,Spell,Maelstrom
+27,Spell,Solar Infuriate
+28,Spell,Freeze
+29,Creature,Magi
+30,Enchantment,Agony
+31,Spell,Heal
+32,Enchantment,Sorrow Flight
+33,Enchantment,Hateful Agony
+34,Creature,Earth Rogue Goblin
+35,Spell,Heal
+36,Creature,Dark Priest Giant of the Plains
+37,Creature,Frozen Undead Giant of the Polar Woods
+38,Spell,Necro Stun
+39,Spell,Instant Hateful Revive
+40,Enchantment,Dire Necro Age
+41,Spell,Infuriate
+42,Creature,Wolf
+43,Creature,Paladin
+44,Enchantment,Shade

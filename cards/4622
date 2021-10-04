@@ -1,46 +1,46 @@
-==================,DECK,4622,Medium
-0,Spell,Common,Revive
-1,Spell,Rare,Miracle Fury
-2,Creature,Mythic,Death Ancient Demon of the Dead
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Paladin
-6,Creature,Rare,Aura Assassin Berserker
-7,Enchantment,Rare,Nimble Shade
-8,Creature,Common,Magi
-9,Creature,Legendary,Light King Giant of the Magical Forest
-10,Creature,Common,Elf
-11,Enchantment,Rare,Corpse Strength
-12,Creature,Legendary,Death Fighter Cyclops of the Bright Mountains
-13,Enchantment,Common,Blight
-14,Enchantment,Common,Agony
-15,Artifact,Rare,Nimble Scythe
-16,Spell,Rare,Necro Fury
-17,Creature,Common,Wolf
-18,Spell,Rare,Necro Burst
-19,Creature,Legendary,Death King Cyclops of the Eastern Skies
-20,Spell,Common,Wall
-21,Creature,Legendary,Dark Priest Giant of the Haven
-22,Creature,Common,Goblin
-23,Creature,Rare,Earth Assassin Griffin
-24,Creature,Common,Warlock
-25,Creature,Rare,Light Lord Fairy
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Dark Invert
-28,Spell,Common,Hypnosis
-29,Artifact,Rare,Solar Crown
-30,Spell,Common,Gravitation
-31,Creature,Common,Eagle
-32,Creature,Common,Magi
-33,Creature,Common,Wolf
-34,Enchantment,Legendary,Instant Agony
-35,Creature,Rare,Snow King Berserker
-36,Creature,Common,Wolf
-37,Artifact,Rare,Solar Ghost Wand
-38,Creature,Rare,Light Monk Berserker
-39,Enchantment,Common,Agony
-40,Artifact,Legendary,Urgent Scepter
-41,Creature,Rare,Light Knight Skin-Walker
-42,Enchantment,Common,Shade
-43,Artifact,Rare,Miracle Staff
-44,Creature,Common,Goblin
+==================,DECK,4622
+0,Spell,Stun
+1,Spell,Frigid Ice
+2,Creature,Death Ancient Demon of the Dead
+3,Creature,Ghoul
+4,Enchantment,Flight
+5,Creature,Troll
+6,Creature,Aura Assassin Goblin
+7,Enchantment,Necro Deathgrip
+8,Creature,Fairy
+9,Creature,Light King Dwarf of the Magical Forest
+10,Creature,Warlock
+11,Enchantment,Solar Lethargy
+12,Creature,Death Fighter Giant of the Bright Mountains
+13,Enchantment,Shrink
+14,Enchantment,Agony
+15,Artifact,Nature Scythe
+16,Spell,Solar Vortex
+17,Creature,Wolf
+18,Spell,Nature Stun
+19,Creature,Death King Giant of the Eastern Skies
+20,Spell,Heal
+21,Creature,Dark Priest Dwarf of the Haven
+22,Creature,Skin-Walker
+23,Creature,Earth Assassin Griffin
+24,Creature,Berserker
+25,Creature,Light Lord Kraken
+26,Creature,Magi
+27,Enchantment,Sorrow Flight
+28,Spell,Lightning
+29,Artifact,Hateful Crown
+30,Spell,Burst
+31,Creature,Eagle
+32,Creature,Fairy
+33,Creature,Wolf
+34,Enchantment,Instant Corpse Strength
+35,Creature,Snow King Goblin
+36,Creature,Wolf
+37,Artifact,Shimmering Ghost Wand
+38,Creature,Light Monk Goblin
+39,Enchantment,Alacrity
+40,Artifact,Instant Shimmering Scepter
+41,Creature,Light Knight Orc
+42,Enchantment,Strength
+43,Artifact,Frigid Staff
+44,Creature,Skin-Walker

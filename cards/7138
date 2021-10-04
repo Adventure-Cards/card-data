@@ -1,46 +1,46 @@
-==================,DECK,7138,Medium
-0,Artifact,Common,Potion
-1,Artifact,Common,Belt
-2,Creature,Common,Paladin
-3,Spell,Common,Frenzy
-4,Creature,Common,Goblin
-5,Creature,Rare,Frozen Priest Griffin
-6,Spell,Common,Reanimate
-7,Spell,Common,Burst
-8,Creature,Mythic,Frozen Time Dragon of the Void
-9,Creature,Legendary,Death Thief Oni of the Plains
-10,Creature,Legendary,Snow Knight Orge of the Golden Palace
-11,Artifact,Common,Helm
-12,Spell,Common,Freeze
-13,Enchantment,Common,Age
-14,Enchantment,Rare,Corpse Shade
-15,Enchantment,Rare,Life Deathgrip
-16,Spell,Common,Frost
-17,Spell,Rare,Apocalypse Stricken
-18,Creature,Rare,Snow Fighter Berserker
-19,Spell,Common,Infuriate
-20,Enchantment,Mythic,Clever Flight
-21,Artifact,Common,Bow
-22,Spell,Rare,Dark Invisibility
-23,Spell,Mythic,Intense Freeze
-24,Spell,Common,Freeze
-25,Spell,Rare,Gloom Heal
-26,Creature,Common,Ghoul
-27,Enchantment,Legendary,Mighty Invert
-28,Creature,Rare,Death Merchant Berserker
-29,Creature,Common,Wolf
-30,Spell,Rare,Life Maelstrom
-31,Creature,Common,Goblin
-32,Enchantment,Common,Blight
-33,Creature,Common,Goblin
-34,Enchantment,Common,Deathgrip
-35,Enchantment,Common,Blight
-36,Enchantment,Common,Deathgrip
-37,Spell,Legendary,Dire Reanimate
-38,Enchantment,Legendary,Intense Shield
-39,Enchantment,Common,Agony
-40,Creature,Common,Spider
-41,Creature,Legendary,Dark Merchant Orge of the Arctic Blizzards
-42,Creature,Common,Ghoul
-43,Creature,Rare,Aura Queen Hydra
-44,Creature,Common,Orc
+==================,DECK,7138
+0,Artifact,Potion
+1,Artifact,Belt
+2,Creature,Troll
+3,Spell,Infuriate
+4,Creature,Skin-Walker
+5,Creature,Frozen Priest Griffin
+6,Spell,Sorrow
+7,Spell,Hypnosis
+8,Creature,Frozen Time Dragon of the Void
+9,Creature,Death Thief Oni of the Plains
+10,Creature,Snow Knight Elf of the Golden Palace
+11,Artifact,Helm
+12,Spell,Invisibility
+13,Enchantment,Invert
+14,Enchantment,Necro Lethargy
+15,Enchantment,Oblivion Haste
+16,Spell,Gale
+17,Spell,Frigid Fireball
+18,Creature,Snow Fighter Goblin
+19,Spell,Tempest
+20,Enchantment,Mighty Grim Invert
+21,Artifact,Bow
+22,Spell,Gloom Stun
+23,Spell,Ardent Forged Reanimate
+24,Spell,Pandemonium
+25,Spell,Sorrow Tempest
+26,Creature,Ghoul
+27,Enchantment,Dire Sorrow Firebreath
+28,Creature,Death Merchant Goblin
+29,Creature,Wolf
+30,Spell,Life Fireball
+31,Creature,Skin-Walker
+32,Enchantment,Blight
+33,Creature,Skin-Walker
+34,Enchantment,Haste
+35,Enchantment,Lethargy
+36,Enchantment,Strength
+37,Spell,Clever Frigid Ice
+38,Enchantment,Dire Nature Age
+39,Enchantment,Age
+40,Creature,Paladin
+41,Creature,Dark Merchant Elf of the Arctic Blizzards
+42,Creature,Ghoul
+43,Creature,Aura Queen Hydra
+44,Creature,Spider

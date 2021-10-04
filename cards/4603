@@ -1,46 +1,46 @@
-==================,DECK,4603,Medium
-0,Creature,Common,Eagle
-1,Spell,Common,Stricken
-2,Spell,Common,Revive
-3,Enchantment,Legendary,Mighty Shield
-4,Enchantment,Common,Haste
-5,Creature,Common,Orc
-6,Creature,Common,Eagle
-7,Spell,Common,Lightning
-8,Spell,Common,Torment
-9,Spell,Common,Burst
-10,Creature,Common,Orc
-11,Spell,Common,Burn
-12,Enchantment,Common,Deathgrip
-13,Spell,Rare,Corpse Gravitation
-14,Creature,Rare,Aura Merchant Hydra
-15,Creature,Common,Orc
-16,Enchantment,Common,Invert
-17,Creature,Rare,Frozen Undead Skin-Walker
-18,Creature,Legendary,Aura Warrior Cyclops of the Plains
-19,Enchantment,Legendary,Extreme Shrink
-20,Creature,Rare,Death Rogue Hydra
-21,Creature,Common,Warlock
-22,Creature,Rare,Earth Priest Griffin
-23,Artifact,Rare,Forged Sword
-24,Creature,Common,Goblin
-25,Enchantment,Common,Alacrity
-26,Spell,Rare,Corpse Wall
-27,Creature,Legendary,Earth King Orge of the Golden Palace
-28,Spell,Common,Assault
-29,Enchantment,Rare,Shimmering Blight
-30,Spell,Common,Ice
-31,Creature,Common,Paladin
-32,Spell,Common,Revive
-33,Spell,Rare,Solar Frenzy
-34,Spell,Legendary,Mighty Gravitation
-35,Artifact,Rare,Nimble Scythe
-36,Spell,Common,Gale
-37,Artifact,Common,Staff
-38,Spell,Common,Maelstrom
-39,Creature,Common,Dwarf
-40,Creature,Rare,Light Lord Griffin
-41,Enchantment,Rare,Shimmering Flight
-42,Artifact,Legendary,Clever Tome
-43,Creature,Common,Eagle
-44,Creature,Common,Wolf
+==================,DECK,4603
+0,Creature,Eagle
+1,Spell,Tempest
+2,Spell,Ice
+3,Enchantment,Dire Gloom Firebreath
+4,Enchantment,Firebreath
+5,Creature,Spider
+6,Creature,Eagle
+7,Spell,Reanimate
+8,Spell,Torment
+9,Spell,Hypnosis
+10,Creature,Spider
+11,Spell,Revive
+12,Enchantment,Age
+13,Spell,Corpse Frenzy
+14,Creature,Aura Merchant Hydra
+15,Creature,Spider
+16,Enchantment,Haste
+17,Creature,Frozen Undead Orc
+18,Creature,Aura Warrior Giant of the Plains
+19,Enchantment,Empyrean Chimeric Firebreath
+20,Creature,Death Rogue Hydra
+21,Creature,Berserker
+22,Creature,Earth Priest Griffin
+23,Artifact,Lunar Sword
+24,Creature,Skin-Walker
+25,Enchantment,Blight
+26,Spell,Shimmering Rage
+27,Creature,Earth King Elf of the Golden Palace
+28,Spell,Maelstrom
+29,Enchantment,Solar Strength
+30,Spell,Freeze
+31,Creature,Troll
+32,Spell,Freeze
+33,Spell,Solar Lightning
+34,Spell,Irate Miracle Frost
+35,Artifact,Necro Scythe
+36,Spell,Stun
+37,Artifact,Staff
+38,Spell,Pandemonium
+39,Creature,Magi
+40,Creature,Light Lord Griffin
+41,Enchantment,Hateful Agony
+42,Artifact,Dire Grim Tome
+43,Creature,Eagle
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,7825,Medium
-0,Spell,Rare,Dark Invisibility
-1,Spell,Rare,Solar Rage
-2,Creature,Common,Spider
-3,Creature,Mythic,Frozen Chaos Wizard of the Void
-4,Creature,Common,Dwarf
-5,Creature,Common,Goblin
-6,Creature,Common,Orc
-7,Creature,Common,Paladin
-8,Creature,Common,Magi
-9,Spell,Common,Stricken
-10,Creature,Legendary,Light Fighter Orge of the Low Hills
-11,Spell,Rare,Miracle Pandemonium
-12,Artifact,Common,Gloves
-13,Creature,Common,Spider
-14,Enchantment,Common,Haste
-15,Spell,Legendary,Urgent Lightning
-16,Spell,Common,Infuriate
-17,Enchantment,Common,Shrink
-18,Creature,Rare,Death Merchant Griffin
-19,Creature,Mythic,Snow Grand Demon of Hate
-20,Artifact,Common,Boots
-21,Spell,Common,Infuriate
-22,Enchantment,Common,Shield
-23,Creature,Common,Elf
-24,Creature,Rare,Light King Hydra
-25,Spell,Common,Stricken
-26,Creature,Common,Paladin
-27,Spell,Common,Frost
-28,Creature,Common,Magi
-29,Spell,Common,Gale
-30,Spell,Legendary,Clever Stricken
-31,Artifact,Rare,Corpse Gloves
-32,Enchantment,Common,Invert
-33,Creature,Mythic,Dark Nameless Dragon of Illusion
-34,Creature,Rare,Dark Fighter Skin-Walker
-35,Creature,Common,Paladin
-36,Spell,Rare,Nimble Frenzy
-37,Spell,Rare,Necro Fury
-38,Spell,Common,Reanimate
-39,Enchantment,Common,Shade
-40,Creature,Rare,Frozen Thief Griffin
-41,Creature,Common,Goblin
-42,Spell,Mythic,Instant Lightning
-43,Creature,Legendary,Death Merchant Giant of the Haven
-44,Spell,Rare,Forged Rage
+==================,DECK,7825
+0,Spell,Miracle Stun
+1,Spell,Shimmering Invisibility
+2,Creature,Paladin
+3,Creature,Frozen Chaos Wizard of the Void
+4,Creature,Magi
+5,Creature,Skin-Walker
+6,Creature,Spider
+7,Creature,Troll
+8,Creature,Fairy
+9,Spell,Infuriate
+10,Creature,Light Fighter Elf of the Low Hills
+11,Spell,Nimble Heal
+12,Artifact,Gloves
+13,Creature,Paladin
+14,Enchantment,Shrink
+15,Spell,Irate Necro Tempest
+16,Spell,Stun
+17,Enchantment,Shrink
+18,Creature,Death Merchant Griffin
+19,Creature,Snow Grand Demon of Hate
+20,Artifact,Boots
+21,Spell,Frost
+22,Enchantment,Blight
+23,Creature,Warlock
+24,Creature,Light King Hydra
+25,Spell,Reanimate
+26,Creature,Troll
+27,Spell,Invisibility
+28,Creature,Fairy
+29,Spell,Hypnosis
+30,Spell,Clever Frigid Frost
+31,Artifact,Corpse Gloves
+32,Enchantment,Flight
+33,Creature,Dark Nameless Dragon of Illusion
+34,Creature,Dark Fighter Orc
+35,Creature,Troll
+36,Spell,Solar Gale
+37,Spell,Hateful Fury
+38,Spell,Sorrow
+39,Enchantment,Lethargy
+40,Creature,Frozen Thief Griffin
+41,Creature,Skin-Walker
+42,Spell,Urgent Shimmering Vortex
+43,Creature,Death Merchant Dwarf of the Haven
+44,Spell,Lunar Maelstrom

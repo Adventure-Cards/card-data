@@ -1,46 +1,46 @@
-==================,DECK,4206,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Alacrity
-2,Enchantment,Common,Alacrity
-3,Enchantment,Common,Agony
-4,Creature,Common,Wolf
-5,Creature,Common,Warlock
-6,Artifact,Common,Tome
-7,Artifact,Common,Scepter
-8,Enchantment,Common,Strength
-9,Creature,Legendary,Aura Priest Cyclops of the Polar Woods
-10,Artifact,Common,Sigil
-11,Creature,Common,Goblin
-12,Creature,Common,Wolf
-13,Enchantment,Mythic,Clever Haste
-14,Creature,Common,Paladin
-15,Enchantment,Legendary,Mighty Shrink
-16,Creature,Rare,Death Merchant Griffin
-17,Enchantment,Common,Strength
-18,Enchantment,Rare,Lunar Flight
-19,Artifact,Common,Helm
-20,Creature,Rare,Snow Warrior Griffin
-21,Creature,Common,Paladin
-22,Creature,Common,Warlock
-23,Spell,Common,Fury
-24,Artifact,Common,Sigil
-25,Creature,Common,Dwarf
-26,Spell,Common,Stun
-27,Creature,Common,Orc
-28,Creature,Common,Magi
-29,Creature,Mythic,Light Undead Dragon of the Sky
-30,Spell,Rare,Apocalypse Gale
-31,Creature,Common,Dwarf
-32,Spell,Common,Burn
-33,Creature,Common,Paladin
-34,Creature,Common,Spider
-35,Spell,Common,Freeze
-36,Enchantment,Common,Strength
-37,Spell,Legendary,Potent Frenzy
-38,Creature,Legendary,Light Priest Cyclops of the Eastern Skies
-39,Creature,Common,Wolf
-40,Creature,Rare,Earth Priest Skin-Walker
-41,Enchantment,Common,Invert
-42,Creature,Legendary,Frozen Priest Giant of the Haven
-43,Artifact,Common,Sword
-44,Enchantment,Common,Lethargy
+==================,DECK,4206
+0,Creature,Ghoul
+1,Enchantment,Lethargy
+2,Enchantment,Age
+3,Enchantment,Flight
+4,Creature,Wolf
+5,Creature,Berserker
+6,Artifact,Tome
+7,Artifact,Scepter
+8,Enchantment,Firebreath
+9,Creature,Aura Priest Giant of the Polar Woods
+10,Artifact,Sigil
+11,Creature,Skin-Walker
+12,Creature,Wolf
+13,Enchantment,Potent Life Drain
+14,Creature,Troll
+15,Enchantment,Potent Chimeric Shrink
+16,Creature,Death Merchant Griffin
+17,Enchantment,Shade
+18,Enchantment,Lunar Firebreath
+19,Artifact,Helm
+20,Creature,Snow Warrior Griffin
+21,Creature,Troll
+22,Creature,Berserker
+23,Spell,Reanimate
+24,Artifact,Sigil
+25,Creature,Magi
+26,Spell,Assault
+27,Creature,Spider
+28,Creature,Fairy
+29,Creature,Light Undead Dragon of the Sky
+30,Spell,Apocalypse Burst
+31,Creature,Magi
+32,Spell,Frenzy
+33,Creature,Troll
+34,Creature,Paladin
+35,Spell,Tempest
+36,Enchantment,Shrink
+37,Spell,Urgent Life Rage
+38,Creature,Light Priest Giant of the Eastern Skies
+39,Creature,Wolf
+40,Creature,Earth Priest Orc
+41,Enchantment,Deathgrip
+42,Creature,Frozen Priest Dwarf of the Haven
+43,Artifact,Sword
+44,Enchantment,Drain

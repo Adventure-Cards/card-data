@@ -1,46 +1,46 @@
-==================,DECK,5099,Light
-0,Creature,Common,Spider
-1,Enchantment,Common,Deathgrip
-2,Spell,Legendary,Instant Freeze
-3,Creature,Legendary,Snow Monk Cyclops of the Eternal Land
-4,Creature,Common,Warlock
-5,Enchantment,Common,Shade
-6,Artifact,Rare,Dark Bracers
-7,Creature,Mythic,Death Ancient Wizard of the Dead
-8,Enchantment,Common,Shield
-9,Creature,Common,Warlock
-10,Creature,Common,Dwarf
-11,Creature,Common,Warlock
-12,Enchantment,Common,Haste
-13,Spell,Common,Sorrow
-14,Creature,Common,Ghoul
-15,Creature,Legendary,Light King Cyclops of the Eastern Skies
-16,Spell,Rare,Grim Rage
-17,Enchantment,Rare,Forged Strength
-18,Enchantment,Common,Deathgrip
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Wolf
-21,Creature,Common,Ghoul
-22,Creature,Rare,Death Monk Minotaur
-23,Creature,Legendary,Frozen Thief Cyclops of the Magical Forest
-24,Enchantment,Rare,Hateful Haste
-25,Artifact,Common,Scythe
-26,Creature,Common,Eagle
-27,Spell,Rare,Solar Frenzy
-28,Creature,Common,Magi
-29,Spell,Common,Burst
-30,Spell,Rare,Hateful Hypnosis
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Common,Strength
-33,Creature,Common,Dwarf
-34,Artifact,Common,Helmet
-35,Artifact,Common,Bracers
-36,Creature,Common,Wolf
-37,Creature,Rare,Frozen Rogue Hydra
-38,Spell,Rare,Necro Ice
-39,Spell,Legendary,Angry Assault
-40,Creature,Mythic,Light Chaos Demon of the Sky
-41,Creature,Common,Eagle
-42,Enchantment,Common,Lethargy
-43,Artifact,Common,Amulet
-44,Spell,Common,Ice
+==================,DECK,5099
+0,Creature,Paladin
+1,Enchantment,Shrink
+2,Spell,Irate Necro Sorrow
+3,Creature,Snow Monk Giant of the Eternal Land
+4,Creature,Berserker
+5,Enchantment,Strength
+6,Artifact,Chimeric Bracers
+7,Creature,Death Ancient Wizard of the Dead
+8,Enchantment,Blight
+9,Creature,Berserker
+10,Creature,Magi
+11,Creature,Berserker
+12,Enchantment,Alacrity
+13,Spell,Stricken
+14,Creature,Ghoul
+15,Creature,Light King Giant of the Eastern Skies
+16,Spell,Nimble Ice
+17,Enchantment,Cataclysmic Shrink
+18,Enchantment,Invert
+19,Enchantment,Strength
+20,Creature,Wolf
+21,Creature,Ghoul
+22,Creature,Death Monk Cyclops
+23,Creature,Frozen Thief Giant of the Magical Forest
+24,Enchantment,Miracle Shrink
+25,Artifact,Scythe
+26,Creature,Eagle
+27,Spell,Shimmering Vortex
+28,Creature,Fairy
+29,Spell,Rage
+30,Spell,Gloom Torment
+31,Enchantment,Alacrity
+32,Enchantment,Alacrity
+33,Creature,Magi
+34,Artifact,Helmet
+35,Artifact,Bracers
+36,Creature,Wolf
+37,Creature,Frozen Rogue Hydra
+38,Spell,Necro Invisibility
+39,Spell,Instant Cataclysmic Vortex
+40,Creature,Light Chaos Demon of the Sky
+41,Creature,Eagle
+42,Enchantment,Drain
+43,Artifact,Amulet
+44,Spell,Hypnosis

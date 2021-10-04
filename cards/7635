@@ -1,46 +1,46 @@
-==================,DECK,7635,Medium
-0,Creature,Common,Ghoul
-1,Creature,Rare,Aura King Fairy
-2,Creature,Rare,Aura Thief Minotaur
-3,Creature,Common,Dwarf
-4,Creature,Common,Eagle
-5,Creature,Common,Dwarf
-6,Creature,Common,Ghoul
-7,Artifact,Legendary,Angry Boots
-8,Spell,Common,Hypnosis
-9,Artifact,Common,Bracers
-10,Creature,Common,Warlock
-11,Spell,Legendary,Mighty Reanimate
-12,Artifact,Legendary,Urgent Belt
-13,Spell,Common,Freeze
-14,Creature,Legendary,Earth Rogue Cyclops of the Magical Forest
-15,Enchantment,Common,Shield
-16,Enchantment,Rare,Corpse Strength
-17,Creature,Common,Ghoul
-18,Enchantment,Mythic,Dire Shield
-19,Creature,Legendary,Frozen Priest Giant of the Golden Palace
-20,Spell,Common,Revive
-21,Enchantment,Rare,Solar Alacrity
-22,Creature,Common,Paladin
-23,Spell,Rare,Corpse Frost
-24,Creature,Common,Wolf
-25,Creature,Common,Dwarf
-26,Spell,Mythic,Angry Burst
-27,Creature,Legendary,Snow Lord Oni of the Haven
-28,Creature,Legendary,Frozen Priest Giant of the Low Hills
-29,Creature,Rare,Frozen Fighter Berserker
-30,Creature,Common,Orc
-31,Enchantment,Common,Lethargy
-32,Artifact,Rare,Hateful Helmet
-33,Spell,Rare,Shimmering Ice
-34,Creature,Common,Paladin
-35,Spell,Legendary,Instant Invisibility
-36,Artifact,Common,Ring
-37,Enchantment,Rare,Frigid Shield
-38,Enchantment,Legendary,Extreme Agony
-39,Spell,Common,Lightning
-40,Enchantment,Common,Deathgrip
-41,Creature,Mythic,Death Ancient Wizard of the Dead
-42,Spell,Common,Gravitation
-43,Creature,Common,Wolf
-44,Spell,Rare,Shimmering Burn
+==================,DECK,7635
+0,Creature,Ghoul
+1,Creature,Aura King Kraken
+2,Creature,Aura Thief Cyclops
+3,Creature,Magi
+4,Creature,Eagle
+5,Creature,Magi
+6,Creature,Ghoul
+7,Artifact,Clever Lunar Boots
+8,Spell,Burn
+9,Artifact,Bracers
+10,Creature,Berserker
+11,Spell,Clever Gloom Gravitation
+12,Artifact,Dire Nature Belt
+13,Spell,Wall
+14,Creature,Earth Rogue Giant of the Magical Forest
+15,Enchantment,Shade
+16,Enchantment,Solar Strength
+17,Creature,Ghoul
+18,Enchantment,Ardent Victory Haste
+19,Creature,Frozen Priest Dwarf of the Golden Palace
+20,Spell,Infuriate
+21,Enchantment,Forged Age
+22,Creature,Troll
+23,Spell,Shimmering Lightning
+24,Creature,Wolf
+25,Creature,Magi
+26,Spell,Zealous Cataclysmic Rage
+27,Creature,Snow Lord Oni of the Haven
+28,Creature,Frozen Priest Dwarf of the Low Hills
+29,Creature,Frozen Fighter Goblin
+30,Creature,Spider
+31,Enchantment,Age
+32,Artifact,Cataclysmic Helmet
+33,Spell,Corpse Pandemonium
+34,Creature,Troll
+35,Spell,Instant Forged Fire
+36,Artifact,Ring
+37,Enchantment,Victory Shade
+38,Enchantment,Instant Miracle Shrink
+39,Spell,Wall
+40,Enchantment,Shield
+41,Creature,Death Ancient Wizard of the Dead
+42,Spell,Fury
+43,Creature,Wolf
+44,Spell,Forged Burst

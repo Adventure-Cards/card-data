@@ -1,46 +1,46 @@
-==================,DECK,4238,Light
-0,Spell,Legendary,Mighty Ice
-1,Spell,Common,Fury
-2,Enchantment,Common,Drain
-3,Creature,Common,Spider
-4,Spell,Common,Reanimate
-5,Enchantment,Common,Deathgrip
-6,Artifact,Common,Gloves
-7,Creature,Common,Ghoul
-8,Creature,Common,Eagle
-9,Creature,Common,Orc
-10,Spell,Common,Burst
-11,Creature,Rare,Death Merchant Hydra
-12,Spell,Rare,Frigid Frost
-13,Enchantment,Common,Lethargy
-14,Artifact,Rare,Miracle Bow
-15,Spell,Common,Infuriate
-16,Spell,Common,Reanimate
-17,Creature,Rare,Snow Merchant Griffin
-18,Enchantment,Common,Lethargy
-19,Artifact,Common,Ghost Wand
-20,Creature,Common,Spider
-21,Enchantment,Common,Shield
-22,Creature,Common,Orc
-23,Artifact,Common,Gloves
-24,Creature,Common,Dwarf
-25,Creature,Common,Wolf
-26,Creature,Rare,Snow Fighter Skin-Walker
-27,Enchantment,Common,Shade
-28,Enchantment,Rare,Apocalypse Shrink
-29,Creature,Common,Ghoul
-30,Enchantment,Mythic,Clever Shield
-31,Spell,Rare,Miracle Fury
-32,Creature,Common,Spider
-33,Spell,Common,Fury
-34,Enchantment,Rare,Gloom Lethargy
-35,Artifact,Common,Gloves
-36,Creature,Common,Spider
-37,Enchantment,Mythic,Intense Blight
-38,Spell,Rare,Apocalypse Maelstrom
-39,Creature,Rare,Dark Monk Skin-Walker
-40,Creature,Common,Spider
-41,Spell,Common,Reanimate
-42,Spell,Common,Sorrow
-43,Enchantment,Common,Deathgrip
-44,Spell,Common,Maelstrom
+==================,DECK,4238
+0,Spell,Clever Lunar Lightning
+1,Spell,Frost
+2,Enchantment,Firebreath
+3,Creature,Paladin
+4,Spell,Fire
+5,Enchantment,Drain
+6,Artifact,Gloves
+7,Creature,Ghoul
+8,Creature,Eagle
+9,Creature,Spider
+10,Spell,Lightning
+11,Creature,Death Merchant Hydra
+12,Spell,Oblivion Assault
+13,Enchantment,Deathgrip
+14,Artifact,Nimble Bow
+15,Spell,Stricken
+16,Spell,Vortex
+17,Creature,Snow Merchant Griffin
+18,Enchantment,Haste
+19,Artifact,Ghost Wand
+20,Creature,Paladin
+21,Enchantment,Flight
+22,Creature,Spider
+23,Artifact,Gloves
+24,Creature,Magi
+25,Creature,Wolf
+26,Creature,Snow Fighter Orc
+27,Enchantment,Agony
+28,Enchantment,Frigid Invert
+29,Creature,Ghoul
+30,Enchantment,Urgent Victory Invert
+31,Spell,Victory Lightning
+32,Creature,Paladin
+33,Spell,Ice
+34,Enchantment,Lunar Firebreath
+35,Artifact,Gloves
+36,Creature,Paladin
+37,Enchantment,Potent Solar Strength
+38,Spell,Frigid Fireball
+39,Creature,Dark Monk Orc
+40,Creature,Paladin
+41,Spell,Revive
+42,Spell,Maelstrom
+43,Enchantment,Invert
+44,Spell,Frost

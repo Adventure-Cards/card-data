@@ -1,46 +1,46 @@
-==================,DECK,5623,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Strength
-2,Creature,Rare,Snow Queen Berserker
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Solar Shade
-5,Enchantment,Common,Drain
-6,Creature,Legendary,Snow Assassin Oni of the Bright Mountains
-7,Spell,Legendary,Urgent Lightning
-8,Artifact,Rare,Grim Gauntlet
-9,Spell,Rare,Miracle Gale
-10,Spell,Common,Frenzy
-11,Spell,Common,Gale
-12,Artifact,Common,Potion
-13,Spell,Common,Torment
-14,Spell,Common,Hypnosis
-15,Creature,Rare,Aura Queen Berserker
-16,Spell,Common,Reanimate
-17,Creature,Common,Eagle
-18,Creature,Common,Warlock
-19,Creature,Common,Elf
-20,Creature,Common,Goblin
-21,Creature,Rare,Death Lord Minotaur
-22,Creature,Legendary,Earth Lord Giant of the Black Stone
-23,Spell,Common,Burst
-24,Creature,Common,Warlock
-25,Artifact,Common,Helmet
-26,Creature,Rare,Aura Lord Berserker
-27,Enchantment,Common,Shield
-28,Creature,Common,Spider
-29,Creature,Rare,Death Queen Fairy
-30,Creature,Common,Wolf
-31,Creature,Common,Elf
-32,Enchantment,Common,Shield
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Invert
-35,Creature,Common,Dwarf
-36,Creature,Common,Orc
-37,Spell,Legendary,Intense Burst
-38,Spell,Rare,Grim Heal
-39,Enchantment,Common,Blight
-40,Spell,Common,Lightning
-41,Creature,Common,Elf
-42,Spell,Common,Torment
-43,Spell,Common,Gravitation
-44,Creature,Legendary,Death Queen Giant of the Frozen Castle
+==================,DECK,5623
+0,Creature,Warlock
+1,Enchantment,Blight
+2,Creature,Snow Queen Goblin
+3,Creature,Wolf
+4,Enchantment,Necro Deathgrip
+5,Enchantment,Alacrity
+6,Creature,Snow Assassin Oni of the Bright Mountains
+7,Spell,Instant Hateful Revive
+8,Artifact,Frigid Gauntlet
+9,Spell,Victory Sorrow
+10,Spell,Stun
+11,Spell,Ice
+12,Artifact,Potion
+13,Spell,Frost
+14,Spell,Pandemonium
+15,Creature,Aura Queen Goblin
+16,Spell,Fire
+17,Creature,Eagle
+18,Creature,Berserker
+19,Creature,Warlock
+20,Creature,Skin-Walker
+21,Creature,Death Lord Cyclops
+22,Creature,Earth Lord Dwarf of the Black Stone
+23,Spell,Sorrow
+24,Creature,Berserker
+25,Artifact,Helmet
+26,Creature,Aura Lord Goblin
+27,Enchantment,Drain
+28,Creature,Paladin
+29,Creature,Death Queen Kraken
+30,Creature,Wolf
+31,Creature,Warlock
+32,Enchantment,Agony
+33,Creature,Magi
+34,Enchantment,Shield
+35,Creature,Magi
+36,Creature,Spider
+37,Spell,Clever Forged Revive
+38,Spell,Grim Infuriate
+39,Enchantment,Agony
+40,Spell,Fireball
+41,Creature,Warlock
+42,Spell,Hypnosis
+43,Spell,Stun
+44,Creature,Death Queen Dwarf of the Frozen Castle

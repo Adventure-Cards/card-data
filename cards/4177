@@ -1,46 +1,46 @@
-==================,DECK,4177,Light
-0,Enchantment,Rare,Shimmering Flight
-1,Creature,Rare,Light Merchant Griffin
-2,Enchantment,Mythic,Extreme Lethargy
-3,Creature,Legendary,Aura Priest Giant of the Frozen Castle
-4,Enchantment,Common,Agony
-5,Spell,Rare,Lunar Burn
-6,Enchantment,Rare,Cataclysmic Deathgrip
-7,Creature,Legendary,Aura King Oni of the Swamp
-8,Spell,Rare,Lunar Sorrow
-9,Spell,Common,Pandemonium
-10,Enchantment,Rare,Lunar Blight
-11,Artifact,Common,Helmet
-12,Enchantment,Common,Invert
-13,Enchantment,Common,Age
-14,Enchantment,Common,Shield
-15,Creature,Rare,Light Merchant Minotaur
-16,Creature,Common,Dwarf
-17,Creature,Legendary,Death Warrior Kraken of the Black Stone
-18,Creature,Common,Warlock
-19,Creature,Common,Elf
-20,Creature,Legendary,Earth Lord Cyclops of the Mountains
-21,Creature,Rare,Frozen Knight Griffin
-22,Creature,Common,Magi
-23,Creature,Rare,Aura Assassin Fairy
-24,Spell,Rare,Hateful Fury
-25,Creature,Legendary,Death Thief Cyclops of the Frozen Castle
-26,Creature,Common,Elf
-27,Artifact,Legendary,Angry Potion
-28,Enchantment,Common,Lethargy
-29,Spell,Common,Gale
-30,Creature,Common,Warlock
-31,Creature,Rare,Frozen Queen Skin-Walker
-32,Creature,Mythic,Dark Time Dragon of Illusion
-33,Enchantment,Mythic,Potent Lethargy
-34,Enchantment,Common,Alacrity
-35,Spell,Common,Burst
-36,Creature,Common,Wolf
-37,Creature,Rare,Light Fighter Griffin
-38,Artifact,Rare,Dark Tome
-39,Enchantment,Rare,Oblivion Shield
-40,Creature,Common,Elf
-41,Creature,Common,Ghoul
-42,Creature,Common,Spider
-43,Creature,Rare,Earth Thief Hydra
-44,Enchantment,Common,Shade
+==================,DECK,4177
+0,Enchantment,Hateful Deathgrip
+1,Creature,Light Merchant Griffin
+2,Enchantment,Irate Lunar Alacrity
+3,Creature,Aura Priest Dwarf of the Frozen Castle
+4,Enchantment,Strength
+5,Spell,Chimeric Torment
+6,Enchantment,Sorrow Shield
+7,Creature,Aura King Oni of the Swamp
+8,Spell,Gloom Fireball
+9,Spell,Wall
+10,Enchantment,Cataclysmic Flight
+11,Artifact,Helmet
+12,Enchantment,Deathgrip
+13,Enchantment,Lethargy
+14,Enchantment,Strength
+15,Creature,Light Merchant Cyclops
+16,Creature,Magi
+17,Creature,Death Warrior Ogre of the Black Stone
+18,Creature,Berserker
+19,Creature,Warlock
+20,Creature,Earth Lord Giant of the Mountains
+21,Creature,Frozen Knight Griffin
+22,Creature,Fairy
+23,Creature,Aura Assassin Kraken
+24,Spell,Gloom Fire
+25,Creature,Death Thief Giant of the Frozen Castle
+26,Creature,Warlock
+27,Artifact,Clever Chimeric Potion
+28,Enchantment,Shade
+29,Spell,Tempest
+30,Creature,Berserker
+31,Creature,Frozen Queen Orc
+32,Creature,Dark Time Dragon of Illusion
+33,Enchantment,Ardent Grim Haste
+34,Enchantment,Firebreath
+35,Spell,Stricken
+36,Creature,Wolf
+37,Creature,Light Fighter Griffin
+38,Artifact,Cataclysmic Tome
+39,Enchantment,Victory Drain
+40,Creature,Warlock
+41,Creature,Ghoul
+42,Creature,Paladin
+43,Creature,Earth Thief Hydra
+44,Enchantment,Flight

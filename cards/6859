@@ -1,46 +1,46 @@
-==================,DECK,6859,Medium
-0,Spell,Rare,Corpse Frost
-1,Creature,Rare,Death Priest Fairy
-2,Artifact,Common,Helm
-3,Spell,Common,Torment
-4,Creature,Rare,Snow Queen Fairy
-5,Creature,Rare,Snow Thief Minotaur
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Paladin
-8,Enchantment,Rare,Nature Drain
-9,Creature,Common,Magi
-10,Spell,Common,Sorrow
-11,Creature,Rare,Earth Assassin Minotaur
-12,Creature,Common,Warlock
-13,Creature,Rare,Light Undead Fairy
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Flight
-16,Enchantment,Rare,Hateful Shrink
-17,Artifact,Common,Amulet
-18,Spell,Rare,Nature Maelstrom
-19,Creature,Rare,Earth Queen Berserker
-20,Creature,Common,Magi
-21,Creature,Common,Spider
-22,Spell,Common,Lightning
-23,Creature,Rare,Snow Merchant Fairy
-24,Creature,Rare,Death Assassin Minotaur
-25,Creature,Common,Orc
-26,Creature,Common,Eagle
-27,Creature,Mythic,Earth Time Dragon of the Shadows
-28,Creature,Common,Goblin
-29,Creature,Common,Eagle
-30,Creature,Common,Eagle
-31,Enchantment,Rare,Grim Invert
-32,Creature,Common,Wolf
-33,Creature,Common,Wolf
-34,Creature,Common,Goblin
-35,Creature,Common,Paladin
-36,Creature,Common,Paladin
-37,Creature,Common,Wolf
-38,Creature,Rare,Aura Fighter Hydra
-39,Spell,Common,Torment
-40,Enchantment,Mythic,Urgent Shade
-41,Spell,Mythic,Clever Revive
-42,Creature,Mythic,Light Time Dragon of the Sky
-43,Enchantment,Rare,Dark Shade
-44,Spell,Rare,Cataclysmic Reanimate
+==================,DECK,6859
+0,Spell,Necro Ice
+1,Creature,Death Priest Kraken
+2,Artifact,Helm
+3,Spell,Burn
+4,Creature,Snow Queen Kraken
+5,Creature,Snow Thief Cyclops
+6,Enchantment,Age
+7,Creature,Troll
+8,Enchantment,Forged Age
+9,Creature,Fairy
+10,Spell,Burn
+11,Creature,Earth Assassin Cyclops
+12,Creature,Berserker
+13,Creature,Light Undead Kraken
+14,Creature,Ghoul
+15,Enchantment,Haste
+16,Enchantment,Chimeric Alacrity
+17,Artifact,Amulet
+18,Spell,Solar Vortex
+19,Creature,Earth Queen Goblin
+20,Creature,Fairy
+21,Creature,Paladin
+22,Spell,Tempest
+23,Creature,Snow Merchant Kraken
+24,Creature,Death Assassin Cyclops
+25,Creature,Spider
+26,Creature,Eagle
+27,Creature,Earth Time Dragon of the Shadows
+28,Creature,Skin-Walker
+29,Creature,Eagle
+30,Creature,Eagle
+31,Enchantment,Oblivion Invert
+32,Creature,Wolf
+33,Creature,Wolf
+34,Creature,Skin-Walker
+35,Creature,Troll
+36,Creature,Troll
+37,Creature,Wolf
+38,Creature,Aura Fighter Hydra
+39,Spell,Stricken
+40,Enchantment,Dire Necro Age
+41,Spell,Dire Apocalypse Burst
+42,Creature,Light Time Dragon of the Sky
+43,Enchantment,Chimeric Firebreath
+44,Spell,Dark Reanimate

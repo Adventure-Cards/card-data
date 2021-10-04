@@ -1,46 +1,46 @@
-==================,DECK,4950,Light
-0,Spell,Common,Reanimate
-1,Creature,Common,Paladin
-2,Creature,Common,Ghoul
-3,Creature,Rare,Death Rogue Minotaur
-4,Creature,Common,Magi
-5,Artifact,Common,Sigil
-6,Spell,Common,Stun
-7,Creature,Mythic,Frozen Time Dragon of the Void
-8,Enchantment,Common,Flight
-9,Creature,Legendary,Snow Knight Oni of the Black Stone
-10,Spell,Common,Stun
-11,Creature,Common,Eagle
-12,Enchantment,Common,Lethargy
-13,Creature,Common,Elf
-14,Creature,Common,Magi
-15,Creature,Common,Warlock
-16,Spell,Rare,Gloom Torment
-17,Enchantment,Common,Flight
-18,Creature,Common,Goblin
-19,Creature,Rare,Death King Griffin
-20,Enchantment,Legendary,Mighty Shade
-21,Enchantment,Common,Shield
-22,Creature,Common,Wolf
-23,Artifact,Rare,Miracle Sword
-24,Creature,Common,Spider
-25,Spell,Rare,Frigid Wall
-26,Artifact,Common,Scythe
-27,Spell,Common,Freeze
-28,Enchantment,Common,Alacrity
-29,Creature,Rare,Aura Knight Berserker
-30,Creature,Legendary,Snow Undead Oni of the West
-31,Spell,Common,Pandemonium
-32,Creature,Common,Spider
-33,Creature,Rare,Snow Fighter Minotaur
-34,Creature,Common,Magi
-35,Creature,Common,Magi
-36,Creature,Common,Eagle
-37,Enchantment,Common,Shield
-38,Creature,Rare,Snow Merchant Hydra
-39,Creature,Common,Warlock
-40,Enchantment,Common,Flight
-41,Creature,Rare,Dark Undead Minotaur
-42,Enchantment,Common,Strength
-43,Creature,Common,Orc
-44,Creature,Rare,Snow Priest Minotaur
+==================,DECK,4950
+0,Spell,Vortex
+1,Creature,Troll
+2,Creature,Ghoul
+3,Creature,Death Rogue Cyclops
+4,Creature,Fairy
+5,Artifact,Sigil
+6,Spell,Pandemonium
+7,Creature,Frozen Time Dragon of the Void
+8,Enchantment,Strength
+9,Creature,Snow Knight Oni of the Black Stone
+10,Spell,Revive
+11,Creature,Eagle
+12,Enchantment,Blight
+13,Creature,Warlock
+14,Creature,Fairy
+15,Creature,Berserker
+16,Spell,Cataclysmic Burst
+17,Enchantment,Blight
+18,Creature,Skin-Walker
+19,Creature,Death King Griffin
+20,Enchantment,Urgent Chimeric Flight
+21,Enchantment,Shrink
+22,Creature,Wolf
+23,Artifact,Victory Sword
+24,Creature,Paladin
+25,Spell,Frigid Ice
+26,Artifact,Scythe
+27,Spell,Maelstrom
+28,Enchantment,Strength
+29,Creature,Aura Knight Goblin
+30,Creature,Snow Undead Oni of the West
+31,Spell,Invisibility
+32,Creature,Paladin
+33,Creature,Snow Fighter Cyclops
+34,Creature,Fairy
+35,Creature,Fairy
+36,Creature,Eagle
+37,Enchantment,Age
+38,Creature,Snow Merchant Hydra
+39,Creature,Berserker
+40,Enchantment,Strength
+41,Creature,Dark Undead Cyclops
+42,Enchantment,Agony
+43,Creature,Spider
+44,Creature,Snow Priest Cyclops

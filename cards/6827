@@ -1,46 +1,46 @@
-==================,DECK,6827,Light
-0,Creature,Common,Elf
-1,Creature,Common,Ghoul
-2,Spell,Rare,Shimmering Stun
-3,Creature,Common,Orc
-4,Creature,Common,Warlock
-5,Creature,Common,Wolf
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Wolf
-8,Spell,Rare,Lunar Gale
-9,Enchantment,Common,Lethargy
-10,Creature,Common,Goblin
-11,Spell,Common,Vortex
-12,Creature,Rare,Aura Rogue Skin-Walker
-13,Creature,Common,Magi
-14,Creature,Common,Warlock
-15,Artifact,Common,Boots
-16,Enchantment,Common,Invert
-17,Enchantment,Common,Drain
-18,Creature,Common,Orc
-19,Creature,Common,Goblin
-20,Creature,Common,Ghoul
-21,Artifact,Common,Tome
-22,Creature,Rare,Light Rogue Berserker
-23,Spell,Legendary,Dire Stricken
-24,Creature,Common,Orc
-25,Creature,Common,Dwarf
-26,Creature,Common,Eagle
-27,Enchantment,Common,Alacrity
-28,Enchantment,Common,Drain
-29,Creature,Common,Wolf
-30,Creature,Common,Warlock
-31,Creature,Common,Ghoul
-32,Spell,Common,Stun
-33,Spell,Common,Hypnosis
-34,Spell,Common,Invisibility
-35,Creature,Legendary,Death Queen Giant of the Swamp
-36,Creature,Legendary,Earth Fighter Orge of the Arctic Blizzards
-37,Creature,Common,Ghoul
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Invert
-40,Creature,Common,Eagle
-41,Enchantment,Common,Agony
-42,Spell,Rare,Solar Heal
-43,Spell,Common,Freeze
-44,Creature,Common,Dwarf
+==================,DECK,6827
+0,Creature,Warlock
+1,Creature,Ghoul
+2,Spell,Shimmering Freeze
+3,Creature,Spider
+4,Creature,Berserker
+5,Creature,Wolf
+6,Enchantment,Haste
+7,Creature,Wolf
+8,Spell,Dark Burn
+9,Enchantment,Firebreath
+10,Creature,Skin-Walker
+11,Spell,Rage
+12,Creature,Aura Rogue Orc
+13,Creature,Fairy
+14,Creature,Berserker
+15,Artifact,Boots
+16,Enchantment,Alacrity
+17,Enchantment,Shade
+18,Creature,Spider
+19,Creature,Skin-Walker
+20,Creature,Ghoul
+21,Artifact,Tome
+22,Creature,Light Rogue Goblin
+23,Spell,Empyrean Apocalypse Gale
+24,Creature,Spider
+25,Creature,Magi
+26,Creature,Eagle
+27,Enchantment,Age
+28,Enchantment,Drain
+29,Creature,Wolf
+30,Creature,Berserker
+31,Creature,Ghoul
+32,Spell,Fire
+33,Spell,Fireball
+34,Spell,Lightning
+35,Creature,Death Queen Dwarf of the Swamp
+36,Creature,Earth Fighter Elf of the Arctic Blizzards
+37,Creature,Ghoul
+38,Creature,Magi
+39,Enchantment,Lethargy
+40,Creature,Eagle
+41,Enchantment,Agony
+42,Spell,Forged Stricken
+43,Spell,Infuriate
+44,Creature,Magi

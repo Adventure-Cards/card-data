@@ -1,46 +1,46 @@
-==================,DECK,5017,Light
-0,Artifact,Common,Ghost Wand
-1,Creature,Common,Spider
-2,Spell,Common,Wall
-3,Enchantment,Common,Strength
-4,Creature,Common,Wolf
-5,Creature,Common,Dwarf
-6,Creature,Rare,Snow Fighter Berserker
-7,Creature,Common,Warlock
-8,Creature,Common,Magi
-9,Spell,Common,Wall
-10,Creature,Common,Elf
-11,Spell,Common,Gravitation
-12,Creature,Rare,Light Rogue Minotaur
-13,Creature,Common,Spider
-14,Creature,Common,Ghoul
-15,Spell,Common,Gravitation
-16,Artifact,Common,Cloak
-17,Creature,Common,Dwarf
-18,Creature,Legendary,Snow Priest Oni of the Arctic Blizzards
-19,Enchantment,Rare,Shimmering Drain
-20,Creature,Common,Spider
-21,Enchantment,Rare,Dark Strength
-22,Artifact,Rare,Dark Scythe
-23,Creature,Legendary,Frozen Knight Oni of the Mountains
-24,Artifact,Common,Amulet
-25,Creature,Common,Elf
-26,Enchantment,Common,Haste
-27,Spell,Legendary,Dire Stricken
-28,Creature,Common,Spider
-29,Creature,Common,Paladin
-30,Creature,Common,Orc
-31,Creature,Common,Orc
-32,Creature,Common,Dwarf
-33,Creature,Rare,Dark Warrior Hydra
-34,Creature,Common,Goblin
-35,Creature,Common,Spider
-36,Enchantment,Common,Alacrity
-37,Creature,Rare,Aura Rogue Berserker
-38,Spell,Rare,Apocalypse Fury
-39,Creature,Common,Elf
-40,Creature,Common,Dwarf
-41,Creature,Common,Eagle
-42,Enchantment,Mythic,Intense Shade
-43,Enchantment,Common,Drain
-44,Creature,Common,Orc
+==================,DECK,5017
+0,Artifact,Ghost Wand
+1,Creature,Paladin
+2,Spell,Hypnosis
+3,Enchantment,Flight
+4,Creature,Wolf
+5,Creature,Magi
+6,Creature,Snow Fighter Goblin
+7,Creature,Berserker
+8,Creature,Fairy
+9,Spell,Hypnosis
+10,Creature,Warlock
+11,Spell,Fire
+12,Creature,Light Rogue Cyclops
+13,Creature,Paladin
+14,Creature,Ghoul
+15,Spell,Wall
+16,Artifact,Cloak
+17,Creature,Magi
+18,Creature,Snow Priest Oni of the Arctic Blizzards
+19,Enchantment,Forged Agony
+20,Creature,Paladin
+21,Enchantment,Cataclysmic Alacrity
+22,Artifact,Miracle Scythe
+23,Creature,Frozen Knight Oni of the Mountains
+24,Artifact,Amulet
+25,Creature,Warlock
+26,Enchantment,Age
+27,Spell,Potent Life Ice
+28,Creature,Paladin
+29,Creature,Troll
+30,Creature,Spider
+31,Creature,Spider
+32,Creature,Magi
+33,Creature,Dark Warrior Hydra
+34,Creature,Skin-Walker
+35,Creature,Paladin
+36,Enchantment,Flight
+37,Creature,Aura Rogue Goblin
+38,Spell,Victory Fireball
+39,Creature,Warlock
+40,Creature,Magi
+41,Creature,Eagle
+42,Enchantment,Ardent Necro Lethargy
+43,Enchantment,Shrink
+44,Creature,Spider

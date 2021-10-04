@@ -1,46 +1,46 @@
-==================,DECK,7300,Medium
-0,Spell,Common,Rage
-1,Creature,Common,Orc
-2,Creature,Common,Orc
-3,Creature,Mythic,Aura Ancient Wizard of the Light
-4,Creature,Rare,Earth Undead Griffin
-5,Enchantment,Rare,Nature Deathgrip
-6,Creature,Rare,Aura Fighter Berserker
-7,Enchantment,Rare,Frigid Strength
-8,Artifact,Common,Divine Robe
-9,Artifact,Common,Potion
-10,Creature,Common,Elf
-11,Spell,Rare,Lunar Stricken
-12,Spell,Common,Revive
-13,Creature,Common,Magi
-14,Spell,Common,Heal
-15,Spell,Legendary,Urgent Heal
-16,Creature,Common,Paladin
-17,Spell,Common,Burst
-18,Creature,Mythic,Death Undead Phoenix of the Dead
-19,Spell,Common,Gravitation
-20,Enchantment,Common,Age
-21,Spell,Common,Torment
-22,Creature,Common,Eagle
-23,Enchantment,Rare,Nimble Strength
-24,Creature,Mythic,Aura Undead Phoenix of the Light
-25,Artifact,Rare,Corpse Sword
-26,Creature,Rare,Death Knight Berserker
-27,Creature,Rare,Light Merchant Berserker
-28,Spell,Common,Gravitation
-29,Creature,Rare,Snow Queen Griffin
-30,Creature,Common,Eagle
-31,Creature,Common,Eagle
-32,Creature,Common,Ghoul
-33,Creature,Common,Elf
-34,Spell,Common,Gravitation
-35,Spell,Rare,Miracle Pandemonium
-36,Creature,Legendary,Death Queen Cyclops of the Golden Palace
-37,Artifact,Rare,Forged Crown
-38,Creature,Common,Spider
-39,Creature,Common,Spider
-40,Creature,Common,Paladin
-41,Creature,Common,Ghoul
-42,Creature,Rare,Earth Merchant Fairy
-43,Enchantment,Legendary,Instant Haste
-44,Artifact,Common,Ghost Wand
+==================,DECK,7300
+0,Spell,Reanimate
+1,Creature,Spider
+2,Creature,Spider
+3,Creature,Aura Ancient Wizard of the Light
+4,Creature,Earth Undead Griffin
+5,Enchantment,Shimmering Lethargy
+6,Creature,Aura Fighter Goblin
+7,Enchantment,Nimble Invert
+8,Artifact,Divine Robe
+9,Artifact,Potion
+10,Creature,Warlock
+11,Spell,Gloom Assault
+12,Spell,Fire
+13,Creature,Fairy
+14,Spell,Stricken
+15,Spell,Irate Necro Heal
+16,Creature,Troll
+17,Spell,Frost
+18,Creature,Death Undead Phoenix of the Dead
+19,Spell,Pandemonium
+20,Enchantment,Haste
+21,Spell,Wall
+22,Creature,Eagle
+23,Enchantment,Solar Strength
+24,Creature,Aura Undead Phoenix of the Light
+25,Artifact,Shimmering Sword
+26,Creature,Death Knight Goblin
+27,Creature,Light Merchant Goblin
+28,Spell,Vortex
+29,Creature,Snow Queen Griffin
+30,Creature,Eagle
+31,Creature,Eagle
+32,Creature,Ghoul
+33,Creature,Warlock
+34,Spell,Frenzy
+35,Spell,Oblivion Burn
+36,Creature,Death Queen Giant of the Golden Palace
+37,Artifact,Sorrow Crown
+38,Creature,Paladin
+39,Creature,Paladin
+40,Creature,Troll
+41,Creature,Ghoul
+42,Creature,Earth Merchant Kraken
+43,Enchantment,Mighty Corpse Agony
+44,Artifact,Ghost Wand

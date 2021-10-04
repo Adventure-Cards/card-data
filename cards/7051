@@ -1,46 +1,46 @@
-==================,DECK,7051,Light
-0,Creature,Legendary,Light Undead Cyclops of the Mountains
-1,Artifact,Rare,Dark Tome
-2,Enchantment,Common,Drain
-3,Spell,Rare,Nature Fury
-4,Creature,Common,Paladin
-5,Spell,Legendary,Intense Maelstrom
-6,Artifact,Common,Shield
-7,Creature,Legendary,Frozen Thief Giant of the Low Hills
-8,Spell,Legendary,Dire Frenzy
-9,Enchantment,Legendary,Intense Shield
-10,Creature,Rare,Snow Priest Minotaur
-11,Creature,Common,Ghoul
-12,Creature,Rare,Aura Queen Fairy
-13,Enchantment,Mythic,Intense Shrink
-14,Creature,Common,Wolf
-15,Spell,Common,Frost
-16,Enchantment,Common,Drain
-17,Creature,Common,Warlock
-18,Creature,Rare,Aura Merchant Skin-Walker
-19,Artifact,Common,Sword
-20,Creature,Common,Spider
-21,Creature,Legendary,Dark King Kraken of the Plains
-22,Creature,Common,Orc
-23,Enchantment,Mythic,Potent Invert
-24,Creature,Legendary,Aura Undead Giant of the Swamp
-25,Enchantment,Common,Shade
-26,Enchantment,Common,Shield
-27,Creature,Common,Magi
-28,Creature,Rare,Light Thief Skin-Walker
-29,Creature,Common,Spider
-30,Creature,Common,Eagle
-31,Creature,Common,Magi
-32,Creature,Common,Ghoul
-33,Creature,Common,Warlock
-34,Creature,Common,Orc
-35,Creature,Common,Eagle
-36,Spell,Common,Heal
-37,Creature,Common,Ghoul
-38,Creature,Mythic,Frozen Nameless Phoenix of the Void
-39,Creature,Common,Magi
-40,Spell,Common,Reanimate
-41,Creature,Legendary,Frozen Warrior Oni of the Polar Woods
-42,Enchantment,Common,Shield
-43,Creature,Legendary,Frozen Monk Orge of the Frozen Castle
-44,Creature,Common,Spider
+==================,DECK,7051
+0,Creature,Light Undead Giant of the Mountains
+1,Artifact,Gloom Tome
+2,Enchantment,Alacrity
+3,Spell,Solar Wall
+4,Creature,Troll
+5,Spell,Mighty Hateful Infuriate
+6,Artifact,Shield
+7,Creature,Frozen Thief Dwarf of the Low Hills
+8,Spell,Ardent Nimble Frenzy
+9,Enchantment,Irate Nature Deathgrip
+10,Creature,Snow Priest Cyclops
+11,Creature,Ghoul
+12,Creature,Aura Queen Kraken
+13,Enchantment,Mighty Necro Agony
+14,Creature,Wolf
+15,Spell,Frenzy
+16,Enchantment,Shield
+17,Creature,Berserker
+18,Creature,Aura Merchant Orc
+19,Artifact,Sword
+20,Creature,Paladin
+21,Creature,Dark King Ogre of the Plains
+22,Creature,Spider
+23,Enchantment,Ardent Oblivion Haste
+24,Creature,Aura Undead Dwarf of the Swamp
+25,Enchantment,Deathgrip
+26,Enchantment,Firebreath
+27,Creature,Fairy
+28,Creature,Light Thief Orc
+29,Creature,Paladin
+30,Creature,Eagle
+31,Creature,Fairy
+32,Creature,Ghoul
+33,Creature,Berserker
+34,Creature,Spider
+35,Creature,Eagle
+36,Spell,Rage
+37,Creature,Ghoul
+38,Creature,Frozen Nameless Phoenix of the Void
+39,Creature,Fairy
+40,Spell,Torment
+41,Creature,Frozen Warrior Oni of the Polar Woods
+42,Enchantment,Haste
+43,Creature,Frozen Monk Elf of the Frozen Castle
+44,Creature,Paladin

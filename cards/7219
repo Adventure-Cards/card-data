@@ -1,46 +1,46 @@
-==================,DECK,7219,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Freeze
-2,Spell,Common,Gravitation
-3,Enchantment,Common,Agony
-4,Creature,Common,Warlock
-5,Creature,Rare,Dark Knight Berserker
-6,Creature,Common,Paladin
-7,Creature,Rare,Dark Knight Hydra
-8,Creature,Common,Spider
-9,Artifact,Common,Helm
-10,Spell,Rare,Grim Heal
-11,Creature,Rare,Death Undead Fairy
-12,Creature,Legendary,Dark Rogue Giant of the Eastern Skies
-13,Spell,Common,Frenzy
-14,Creature,Common,Spider
-15,Enchantment,Rare,Corpse Lethargy
-16,Creature,Common,Warlock
-17,Spell,Common,Rage
-18,Creature,Rare,Light Undead Griffin
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Goblin
-21,Creature,Rare,Aura Warrior Berserker
-22,Creature,Rare,Dark Warrior Fairy
-23,Spell,Rare,Corpse Torment
-24,Creature,Rare,Snow Fighter Hydra
-25,Creature,Common,Goblin
-26,Creature,Legendary,Light Fighter Orge of the Black Stone
-27,Creature,Common,Dwarf
-28,Creature,Common,Dwarf
-29,Creature,Common,Elf
-30,Enchantment,Rare,Nimble Shade
-31,Creature,Common,Spider
-32,Enchantment,Common,Drain
-33,Enchantment,Mythic,Angry Drain
-34,Enchantment,Common,Shield
-35,Creature,Common,Paladin
-36,Creature,Common,Eagle
-37,Creature,Common,Magi
-38,Artifact,Common,Ring
-39,Creature,Common,Spider
-40,Spell,Common,Fury
-41,Creature,Common,Orc
-42,Spell,Common,Frost
-43,Creature,Common,Elf
-44,Creature,Rare,Dark Priest Griffin
+==================,DECK,7219
+0,Creature,Eagle
+1,Spell,Invisibility
+2,Spell,Wall
+3,Enchantment,Invert
+4,Creature,Berserker
+5,Creature,Dark Knight Goblin
+6,Creature,Troll
+7,Creature,Dark Knight Hydra
+8,Creature,Paladin
+9,Artifact,Helm
+10,Spell,Grim Fireball
+11,Creature,Death Undead Kraken
+12,Creature,Dark Rogue Dwarf of the Eastern Skies
+13,Spell,Assault
+14,Creature,Paladin
+15,Enchantment,Hateful Strength
+16,Creature,Berserker
+17,Spell,Stricken
+18,Creature,Light Undead Griffin
+19,Enchantment,Age
+20,Creature,Skin-Walker
+21,Creature,Aura Warrior Goblin
+22,Creature,Dark Warrior Kraken
+23,Spell,Hateful Hypnosis
+24,Creature,Snow Fighter Hydra
+25,Creature,Skin-Walker
+26,Creature,Light Fighter Elf of the Black Stone
+27,Creature,Magi
+28,Creature,Magi
+29,Creature,Warlock
+30,Enchantment,Necro Age
+31,Creature,Paladin
+32,Enchantment,Shrink
+33,Enchantment,Mighty Dark Flight
+34,Enchantment,Shade
+35,Creature,Troll
+36,Creature,Eagle
+37,Creature,Fairy
+38,Artifact,Ring
+39,Creature,Paladin
+40,Spell,Assault
+41,Creature,Spider
+42,Spell,Stricken
+43,Creature,Warlock
+44,Creature,Dark Priest Griffin

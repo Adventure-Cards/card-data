@@ -1,46 +1,46 @@
-==================,DECK,7716,Light
-0,Artifact,Common,Gauntlet
-1,Enchantment,Common,Shield
-2,Enchantment,Legendary,Potent Agony
-3,Creature,Common,Spider
-4,Creature,Common,Wolf
-5,Spell,Rare,Lunar Reanimate
-6,Enchantment,Common,Age
-7,Spell,Rare,Shimmering Burst
-8,Enchantment,Legendary,Instant Lethargy
-9,Spell,Common,Stricken
-10,Enchantment,Common,Agony
-11,Creature,Common,Warlock
-12,Creature,Common,Orc
-13,Artifact,Rare,Forged Helmet
-14,Creature,Common,Ghoul
-15,Artifact,Common,Boots
-16,Enchantment,Rare,Necro Age
-17,Artifact,Rare,Gloom Greaves
-18,Spell,Common,Burn
-19,Enchantment,Common,Shade
-20,Enchantment,Common,Deathgrip
-21,Spell,Rare,Apocalypse Fury
-22,Spell,Common,Hypnosis
-23,Creature,Common,Orc
-24,Creature,Rare,Death Knight Minotaur
-25,Spell,Common,Stun
-26,Enchantment,Common,Flight
-27,Enchantment,Common,Shield
-28,Spell,Common,Burst
-29,Creature,Common,Warlock
-30,Creature,Common,Goblin
-31,Enchantment,Rare,Gloom Shade
-32,Artifact,Common,Belt
-33,Creature,Legendary,Snow Queen Kraken of the Arctic Blizzards
-34,Spell,Common,Freeze
-35,Artifact,Common,Shield
-36,Artifact,Rare,Dark Shield
-37,Enchantment,Common,Lethargy
-38,Spell,Common,Lightning
-39,Creature,Rare,Aura Assassin Fairy
-40,Creature,Common,Spider
-41,Creature,Rare,Death Queen Minotaur
-42,Creature,Common,Paladin
-43,Creature,Common,Goblin
-44,Creature,Common,Elf
+==================,DECK,7716
+0,Artifact,Gauntlet
+1,Enchantment,Invert
+2,Enchantment,Urgent Life Invert
+3,Creature,Paladin
+4,Creature,Wolf
+5,Spell,Chimeric Stricken
+6,Enchantment,Age
+7,Spell,Solar Tempest
+8,Enchantment,Ardent Hateful Lethargy
+9,Spell,Burst
+10,Enchantment,Lethargy
+11,Creature,Berserker
+12,Creature,Spider
+13,Artifact,Lunar Helmet
+14,Creature,Ghoul
+15,Artifact,Boots
+16,Enchantment,Nature Deathgrip
+17,Artifact,Gloom Greaves
+18,Spell,Gravitation
+19,Enchantment,Haste
+20,Enchantment,Drain
+21,Spell,Victory Heal
+22,Spell,Invisibility
+23,Creature,Spider
+24,Creature,Death Knight Cyclops
+25,Spell,Rage
+26,Enchantment,Haste
+27,Enchantment,Flight
+28,Spell,Lightning
+29,Creature,Berserker
+30,Creature,Skin-Walker
+31,Enchantment,Chimeric Alacrity
+32,Artifact,Belt
+33,Creature,Snow Queen Ogre of the Arctic Blizzards
+34,Spell,Infuriate
+35,Artifact,Shield
+36,Artifact,Gloom Shield
+37,Enchantment,Age
+38,Spell,Invisibility
+39,Creature,Aura Assassin Kraken
+40,Creature,Paladin
+41,Creature,Death Queen Cyclops
+42,Creature,Troll
+43,Creature,Skin-Walker
+44,Creature,Warlock

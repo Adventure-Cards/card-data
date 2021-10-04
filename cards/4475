@@ -1,46 +1,46 @@
-==================,DECK,4475,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Elf
-2,Spell,Common,Heal
-3,Enchantment,Rare,Forged Shield
-4,Creature,Rare,Dark Lord Griffin
-5,Spell,Common,Sorrow
-6,Creature,Common,Paladin
-7,Enchantment,Common,Haste
-8,Enchantment,Common,Shade
-9,Enchantment,Mythic,Clever Blight
-10,Creature,Rare,Frozen Undead Berserker
-11,Artifact,Common,Staff
-12,Enchantment,Common,Shield
-13,Creature,Common,Ghoul
-14,Artifact,Rare,Dark Potion
-15,Creature,Common,Eagle
-16,Spell,Legendary,Clever Assault
-17,Enchantment,Common,Blight
-18,Creature,Legendary,Dark King Kraken of the Mountains
-19,Spell,Legendary,Urgent Stricken
-20,Enchantment,Common,Shade
-21,Creature,Common,Spider
-22,Creature,Common,Orc
-23,Enchantment,Common,Deathgrip
-24,Spell,Rare,Lunar Hypnosis
-25,Creature,Common,Wolf
-26,Spell,Common,Reanimate
-27,Spell,Common,Freeze
-28,Creature,Rare,Death Lord Hydra
-29,Spell,Rare,Solar Freeze
-30,Spell,Common,Frenzy
-31,Creature,Common,Ghoul
-32,Spell,Common,Vortex
-33,Creature,Mythic,Light Chaos Wizard of the Sky
-34,Spell,Common,Frenzy
-35,Creature,Common,Wolf
-36,Spell,Common,Frost
-37,Spell,Rare,Gloom Lightning
-38,Artifact,Rare,Oblivion Greaves
-39,Spell,Common,Frenzy
-40,Creature,Common,Wolf
-41,Creature,Mythic,Light Ancient Wizard of the Sky
-42,Spell,Common,Frost
-43,Creature,Rare,Snow King Berserker
-44,Spell,Rare,Nature Burst
+==================,DECK,4475
+0,Creature,Eagle
+1,Creature,Warlock
+2,Spell,Reanimate
+3,Enchantment,Gloom Flight
+4,Creature,Dark Lord Griffin
+5,Spell,Sorrow
+6,Creature,Troll
+7,Enchantment,Drain
+8,Enchantment,Invert
+9,Enchantment,Mighty Nimble Invert
+10,Creature,Frozen Undead Goblin
+11,Artifact,Staff
+12,Enchantment,Drain
+13,Creature,Ghoul
+14,Artifact,Dark Potion
+15,Creature,Eagle
+16,Spell,Dire Victory Freeze
+17,Enchantment,Invert
+18,Creature,Dark King Ogre of the Mountains
+19,Spell,Potent Shimmering Infuriate
+20,Enchantment,Shade
+21,Creature,Paladin
+22,Creature,Spider
+23,Enchantment,Haste
+24,Spell,Lunar Fire
+25,Creature,Wolf
+26,Spell,Stun
+27,Spell,Lightning
+28,Creature,Death Lord Hydra
+29,Spell,Solar Torment
+30,Spell,Tempest
+31,Creature,Ghoul
+32,Spell,Torment
+33,Creature,Light Chaos Wizard of the Sky
+34,Spell,Hypnosis
+35,Creature,Wolf
+36,Spell,Maelstrom
+37,Spell,Lunar Frenzy
+38,Artifact,Victory Greaves
+39,Spell,Burst
+40,Creature,Wolf
+41,Creature,Light Ancient Wizard of the Sky
+42,Spell,Reanimate
+43,Creature,Snow King Goblin
+44,Spell,Corpse Frost

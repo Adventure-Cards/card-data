@@ -1,46 +1,46 @@
-==================,DECK,4458,Light
-0,Creature,Common,Ghoul
-1,Creature,Rare,Death King Skin-Walker
-2,Enchantment,Mythic,Extreme Lethargy
-3,Creature,Rare,Light Knight Fairy
-4,Creature,Common,Eagle
-5,Creature,Common,Eagle
-6,Enchantment,Common,Strength
-7,Artifact,Common,Crown
-8,Creature,Common,Warlock
-9,Creature,Legendary,Snow Undead Giant of the Black Stone
-10,Creature,Mythic,Frozen Undead Phoenix of the Void
-11,Creature,Rare,Earth Fighter Minotaur
-12,Creature,Common,Paladin
-13,Creature,Common,Wolf
-14,Artifact,Common,Scepter
-15,Creature,Rare,Light Merchant Minotaur
-16,Enchantment,Common,Blight
-17,Creature,Legendary,Earth Warrior Oni of the Haven
-18,Artifact,Legendary,Urgent Shield
-19,Creature,Common,Goblin
-20,Spell,Legendary,Urgent Assault
-21,Spell,Legendary,Mighty Assault
-22,Creature,Rare,Aura Rogue Hydra
-23,Creature,Rare,Snow Thief Berserker
-24,Creature,Rare,Snow Undead Minotaur
-25,Creature,Common,Goblin
-26,Spell,Rare,Corpse Frost
-27,Creature,Legendary,Earth Queen Cyclops of the Haven
-28,Spell,Rare,Necro Gale
-29,Spell,Common,Invisibility
-30,Spell,Legendary,Clever Stricken
-31,Spell,Rare,Necro Fury
-32,Artifact,Common,Pendant
-33,Enchantment,Legendary,Urgent Blight
-34,Creature,Common,Wolf
-35,Creature,Rare,Dark Assassin Griffin
-36,Creature,Rare,Frozen Priest Skin-Walker
-37,Artifact,Rare,Apocalypse Sword
-38,Creature,Common,Spider
-39,Enchantment,Mythic,Extreme Agony
-40,Spell,Common,Torment
-41,Artifact,Common,Bow
-42,Creature,Common,Dwarf
-43,Creature,Rare,Aura Monk Skin-Walker
-44,Creature,Rare,Death King Berserker
+==================,DECK,4458
+0,Creature,Ghoul
+1,Creature,Death King Orc
+2,Enchantment,Urgent Lunar Flight
+3,Creature,Light Knight Kraken
+4,Creature,Eagle
+5,Creature,Eagle
+6,Enchantment,Invert
+7,Artifact,Crown
+8,Creature,Berserker
+9,Creature,Snow Undead Dwarf of the Black Stone
+10,Creature,Frozen Undead Phoenix of the Void
+11,Creature,Earth Fighter Cyclops
+12,Creature,Troll
+13,Creature,Wolf
+14,Artifact,Scepter
+15,Creature,Light Merchant Cyclops
+16,Enchantment,Strength
+17,Creature,Earth Warrior Oni of the Haven
+18,Artifact,Empyrean Hateful Shield
+19,Creature,Skin-Walker
+20,Spell,Dire Solar Reanimate
+21,Spell,Dire Cataclysmic Maelstrom
+22,Creature,Aura Rogue Hydra
+23,Creature,Snow Thief Goblin
+24,Creature,Snow Undead Cyclops
+25,Creature,Skin-Walker
+26,Spell,Forged Assault
+27,Creature,Earth Queen Giant of the Haven
+28,Spell,Solar Invisibility
+29,Spell,Tempest
+30,Spell,Mighty Grim Revive
+31,Spell,Hateful Hypnosis
+32,Artifact,Pendant
+33,Enchantment,Mighty Solar Agony
+34,Creature,Wolf
+35,Creature,Dark Assassin Griffin
+36,Creature,Frozen Priest Orc
+37,Artifact,Oblivion Sword
+38,Creature,Paladin
+39,Enchantment,Dire Miracle Firebreath
+40,Spell,Wall
+41,Artifact,Bow
+42,Creature,Magi
+43,Creature,Aura Monk Orc
+44,Creature,Death King Goblin

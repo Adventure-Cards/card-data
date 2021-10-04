@@ -1,46 +1,46 @@
-==================,DECK,6479,Light
-0,Spell,Common,Freeze
-1,Spell,Rare,Nature Stun
-2,Spell,Common,Frenzy
-3,Spell,Common,Assault
-4,Spell,Common,Infuriate
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Flight
-7,Spell,Common,Lightning
-8,Creature,Rare,Snow Priest Hydra
-9,Creature,Common,Orc
-10,Creature,Rare,Dark Merchant Minotaur
-11,Enchantment,Common,Deathgrip
-12,Spell,Rare,Apocalypse Hypnosis
-13,Creature,Legendary,Earth Queen Kraken of the Frozen Castle
-14,Creature,Common,Wolf
-15,Enchantment,Common,Shrink
-16,Artifact,Common,Amulet
-17,Creature,Rare,Death Undead Griffin
-18,Enchantment,Common,Blight
-19,Creature,Common,Magi
-20,Spell,Legendary,Urgent Rage
-21,Spell,Legendary,Extreme Hypnosis
-22,Artifact,Common,Bracers
-23,Enchantment,Common,Deathgrip
-24,Enchantment,Common,Strength
-25,Spell,Legendary,Clever Stricken
-26,Creature,Mythic,Frozen Ancient Demon of the Void
-27,Enchantment,Rare,Forged Agony
-28,Creature,Common,Spider
-29,Creature,Common,Paladin
-30,Spell,Common,Heal
-31,Enchantment,Common,Haste
-32,Enchantment,Rare,Nimble Alacrity
-33,Enchantment,Legendary,Intense Deathgrip
-34,Enchantment,Mythic,Mighty Age
-35,Spell,Common,Reanimate
-36,Creature,Common,Warlock
-37,Creature,Common,Wolf
-38,Creature,Rare,Aura Thief Fairy
-39,Creature,Mythic,Death Undead Phoenix of the Dead
-40,Spell,Common,Vortex
-41,Artifact,Common,Scepter
-42,Creature,Common,Magi
-43,Enchantment,Common,Blight
-44,Spell,Common,Assault
+==================,DECK,6479
+0,Spell,Reanimate
+1,Spell,Necro Gale
+2,Spell,Hypnosis
+3,Spell,Freeze
+4,Spell,Rage
+5,Creature,Ghoul
+6,Enchantment,Haste
+7,Spell,Stun
+8,Creature,Snow Priest Hydra
+9,Creature,Spider
+10,Creature,Dark Merchant Cyclops
+11,Enchantment,Age
+12,Spell,Life Heal
+13,Creature,Earth Queen Ogre of the Frozen Castle
+14,Creature,Wolf
+15,Enchantment,Shade
+16,Artifact,Amulet
+17,Creature,Death Undead Griffin
+18,Enchantment,Lethargy
+19,Creature,Fairy
+20,Spell,Irate Nature Burn
+21,Spell,Potent Chimeric Tempest
+22,Artifact,Bracers
+23,Enchantment,Shield
+24,Enchantment,Deathgrip
+25,Spell,Clever Victory Gale
+26,Creature,Frozen Ancient Demon of the Void
+27,Enchantment,Miracle Firebreath
+28,Creature,Paladin
+29,Creature,Troll
+30,Spell,Frost
+31,Enchantment,Flight
+32,Enchantment,Forged Agony
+33,Enchantment,Zealous Shimmering Deathgrip
+34,Enchantment,Mighty Gloom Flight
+35,Spell,Wall
+36,Creature,Berserker
+37,Creature,Wolf
+38,Creature,Aura Thief Kraken
+39,Creature,Death Undead Phoenix of the Dead
+40,Spell,Fire
+41,Artifact,Scepter
+42,Creature,Fairy
+43,Enchantment,Alacrity
+44,Spell,Torment

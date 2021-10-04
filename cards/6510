@@ -1,46 +1,46 @@
-==================,DECK,6510,Light
-0,Artifact,Common,Sigil
-1,Enchantment,Rare,Dark Shade
-2,Creature,Common,Wolf
-3,Creature,Mythic,Frozen Nameless Phoenix of the Void
-4,Creature,Common,Eagle
-5,Creature,Common,Elf
-6,Creature,Legendary,Snow Priest Giant of the Eastern Skies
-7,Enchantment,Mythic,Urgent Blight
-8,Creature,Common,Goblin
-9,Spell,Legendary,Dire Freeze
-10,Enchantment,Common,Flight
-11,Artifact,Common,Ring
-12,Enchantment,Legendary,Angry Lethargy
-13,Artifact,Common,Gauntlet
-14,Creature,Rare,Snow Rogue Fairy
-15,Spell,Common,Fury
-16,Spell,Rare,Miracle Gale
-17,Spell,Common,Hypnosis
-18,Creature,Rare,Earth Fighter Minotaur
-19,Creature,Common,Magi
-20,Creature,Common,Warlock
-21,Spell,Rare,Miracle Stricken
-22,Artifact,Common,Scepter
-23,Spell,Legendary,Mighty Pandemonium
-24,Enchantment,Rare,Nimble Invert
-25,Artifact,Common,Cloak
-26,Creature,Common,Goblin
-27,Creature,Common,Magi
-28,Enchantment,Common,Lethargy
-29,Enchantment,Mythic,Clever Flight
-30,Creature,Common,Orc
-31,Spell,Common,Lightning
-32,Creature,Common,Spider
-33,Creature,Common,Paladin
-34,Creature,Mythic,Light Time Phoenix of the Sky
-35,Creature,Common,Paladin
-36,Creature,Common,Warlock
-37,Creature,Common,Magi
-38,Spell,Common,Reanimate
-39,Enchantment,Common,Strength
-40,Creature,Rare,Snow Queen Griffin
-41,Spell,Rare,Nature Burst
-42,Enchantment,Common,Blight
-43,Creature,Legendary,Death Thief Orge of the Eastern Skies
-44,Creature,Common,Ghoul
+==================,DECK,6510
+0,Artifact,Sigil
+1,Enchantment,Chimeric Alacrity
+2,Creature,Wolf
+3,Creature,Frozen Nameless Phoenix of the Void
+4,Creature,Eagle
+5,Creature,Warlock
+6,Creature,Snow Priest Dwarf of the Eastern Skies
+7,Enchantment,Potent Solar Strength
+8,Creature,Skin-Walker
+9,Spell,Instant Apocalypse Frost
+10,Enchantment,Invert
+11,Artifact,Ring
+12,Enchantment,Dire Lunar Firebreath
+13,Artifact,Gauntlet
+14,Creature,Snow Rogue Kraken
+15,Spell,Vortex
+16,Spell,Frigid Revive
+17,Spell,Torment
+18,Creature,Earth Fighter Cyclops
+19,Creature,Fairy
+20,Creature,Berserker
+21,Spell,Nimble Ice
+22,Artifact,Scepter
+23,Spell,Clever Cataclysmic Pandemonium
+24,Enchantment,Shimmering Strength
+25,Artifact,Cloak
+26,Creature,Skin-Walker
+27,Creature,Fairy
+28,Enchantment,Firebreath
+29,Enchantment,Zealous Grim Blight
+30,Creature,Spider
+31,Spell,Hypnosis
+32,Creature,Paladin
+33,Creature,Troll
+34,Creature,Light Time Phoenix of the Sky
+35,Creature,Troll
+36,Creature,Berserker
+37,Creature,Fairy
+38,Spell,Wall
+39,Enchantment,Shade
+40,Creature,Snow Queen Griffin
+41,Spell,Hateful Infuriate
+42,Enchantment,Lethargy
+43,Creature,Death Thief Elf of the Eastern Skies
+44,Creature,Ghoul

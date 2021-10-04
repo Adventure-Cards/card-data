@@ -1,46 +1,46 @@
-==================,DECK,4844,Medium
-0,Creature,Common,Goblin
-1,Creature,Mythic,Death Grand Demon of the Dead
-2,Artifact,Common,Sword
-3,Creature,Common,Paladin
-4,Spell,Common,Burn
-5,Creature,Rare,Snow Assassin Griffin
-6,Enchantment,Common,Drain
-7,Enchantment,Common,Age
-8,Creature,Common,Elf
-9,Artifact,Rare,Grim Sigil
-10,Creature,Common,Wolf
-11,Enchantment,Common,Alacrity
-12,Spell,Common,Stricken
-13,Enchantment,Common,Flight
-14,Creature,Common,Spider
-15,Enchantment,Common,Shade
-16,Creature,Rare,Snow Warrior Skin-Walker
-17,Spell,Rare,Oblivion Frost
-18,Spell,Common,Burst
-19,Spell,Common,Frenzy
-20,Spell,Common,Fury
-21,Enchantment,Common,Shrink
-22,Spell,Legendary,Potent Reanimate
-23,Enchantment,Mythic,Intense Deathgrip
-24,Creature,Mythic,Aura Time Phoenix of the Light
-25,Spell,Common,Infuriate
-26,Artifact,Common,Scythe
-27,Creature,Common,Goblin
-28,Enchantment,Rare,Life Blight
-29,Enchantment,Common,Age
-30,Enchantment,Common,Deathgrip
-31,Artifact,Rare,Miracle Scythe
-32,Spell,Common,Gale
-33,Creature,Common,Spider
-34,Creature,Rare,Aura Thief Fairy
-35,Artifact,Rare,Solar Shield
-36,Artifact,Common,Crown
-37,Creature,Rare,Earth Knight Berserker
-38,Spell,Common,Burst
-39,Creature,Common,Eagle
-40,Creature,Common,Wolf
-41,Creature,Mythic,Snow Undead Dragon of Hate
-42,Creature,Rare,Frozen Merchant Fairy
-43,Creature,Legendary,Aura Fighter Giant of the Swamp
-44,Enchantment,Mythic,Mighty Drain
+==================,DECK,4844
+0,Creature,Skin-Walker
+1,Creature,Death Grand Demon of the Dead
+2,Artifact,Sword
+3,Creature,Troll
+4,Spell,Assault
+5,Creature,Snow Assassin Griffin
+6,Enchantment,Flight
+7,Enchantment,Flight
+8,Creature,Warlock
+9,Artifact,Nimble Sigil
+10,Creature,Wolf
+11,Enchantment,Strength
+12,Spell,Fireball
+13,Enchantment,Shade
+14,Creature,Paladin
+15,Enchantment,Haste
+16,Creature,Snow Warrior Orc
+17,Spell,Life Fire
+18,Spell,Gravitation
+19,Spell,Frost
+20,Spell,Assault
+21,Enchantment,Invert
+22,Spell,Potent Apocalypse Stun
+23,Enchantment,Clever Shimmering Lethargy
+24,Creature,Aura Time Phoenix of the Light
+25,Spell,Stricken
+26,Artifact,Scythe
+27,Creature,Skin-Walker
+28,Enchantment,Nimble Blight
+29,Enchantment,Invert
+30,Enchantment,Haste
+31,Artifact,Grim Scythe
+32,Spell,Wall
+33,Creature,Paladin
+34,Creature,Aura Thief Kraken
+35,Artifact,Forged Shield
+36,Artifact,Crown
+37,Creature,Earth Knight Goblin
+38,Spell,Fireball
+39,Creature,Eagle
+40,Creature,Wolf
+41,Creature,Snow Undead Dragon of Hate
+42,Creature,Frozen Merchant Kraken
+43,Creature,Aura Fighter Dwarf of the Swamp
+44,Enchantment,Clever Dark Shield

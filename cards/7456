@@ -1,46 +1,46 @@
-==================,DECK,7456,Light
-0,Creature,Common,Paladin
-1,Creature,Rare,Earth Rogue Griffin
-2,Enchantment,Legendary,Urgent Drain
-3,Enchantment,Common,Blight
-4,Enchantment,Common,Drain
-5,Creature,Common,Wolf
-6,Enchantment,Rare,Solar Agony
-7,Creature,Common,Magi
-8,Creature,Common,Paladin
-9,Creature,Common,Spider
-10,Creature,Common,Elf
-11,Enchantment,Common,Age
-12,Enchantment,Rare,Frigid Lethargy
-13,Creature,Common,Elf
-14,Creature,Common,Elf
-15,Creature,Rare,Earth Knight Berserker
-16,Creature,Rare,Frozen Fighter Minotaur
-17,Creature,Common,Goblin
-18,Enchantment,Common,Lethargy
-19,Enchantment,Common,Blight
-20,Creature,Common,Magi
-21,Creature,Legendary,Light Warrior Kraken of the Border
-22,Creature,Common,Dwarf
-23,Creature,Common,Ghoul
-24,Artifact,Common,Helm
-25,Enchantment,Common,Flight
-26,Creature,Legendary,Earth Merchant Cyclops of the Border
-27,Creature,Common,Dwarf
-28,Artifact,Common,Bow
-29,Artifact,Common,Boots
-30,Artifact,Common,Sigil
-31,Creature,Common,Elf
-32,Creature,Common,Eagle
-33,Creature,Common,Goblin
-34,Creature,Common,Paladin
-35,Creature,Common,Paladin
-36,Spell,Common,Reanimate
-37,Enchantment,Common,Agony
-38,Spell,Legendary,Urgent Heal
-39,Creature,Rare,Snow Lord Hydra
-40,Creature,Common,Orc
-41,Creature,Common,Ghoul
-42,Creature,Legendary,Aura Rogue Kraken of the Golden Palace
-43,Creature,Common,Paladin
-44,Enchantment,Legendary,Potent Drain
+==================,DECK,7456
+0,Creature,Troll
+1,Creature,Earth Rogue Griffin
+2,Enchantment,Potent Forged Strength
+3,Enchantment,Drain
+4,Enchantment,Blight
+5,Creature,Wolf
+6,Enchantment,Corpse Agony
+7,Creature,Fairy
+8,Creature,Troll
+9,Creature,Paladin
+10,Creature,Warlock
+11,Enchantment,Age
+12,Enchantment,Grim Blight
+13,Creature,Warlock
+14,Creature,Warlock
+15,Creature,Earth Knight Goblin
+16,Creature,Frozen Fighter Cyclops
+17,Creature,Skin-Walker
+18,Enchantment,Strength
+19,Enchantment,Shrink
+20,Creature,Fairy
+21,Creature,Light Warrior Ogre of the Border
+22,Creature,Magi
+23,Creature,Ghoul
+24,Artifact,Helm
+25,Enchantment,Drain
+26,Creature,Earth Merchant Giant of the Border
+27,Creature,Magi
+28,Artifact,Bow
+29,Artifact,Boots
+30,Artifact,Sigil
+31,Creature,Warlock
+32,Creature,Eagle
+33,Creature,Skin-Walker
+34,Creature,Troll
+35,Creature,Troll
+36,Spell,Infuriate
+37,Enchantment,Invert
+38,Spell,Dire Nature Infuriate
+39,Creature,Snow Lord Hydra
+40,Creature,Spider
+41,Creature,Ghoul
+42,Creature,Aura Rogue Ogre of the Golden Palace
+43,Creature,Troll
+44,Enchantment,Zealous Apocalypse Blight

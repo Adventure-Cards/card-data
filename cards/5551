@@ -1,46 +1,46 @@
-==================,DECK,5551,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Dark King Berserker
-2,Creature,Common,Spider
-3,Creature,Common,Dwarf
-4,Creature,Common,Wolf
-5,Enchantment,Common,Blight
-6,Enchantment,Common,Agony
-7,Spell,Common,Stun
-8,Creature,Legendary,Light Undead Kraken of the Mountains
-9,Enchantment,Common,Shield
-10,Creature,Common,Paladin
-11,Creature,Rare,Dark Merchant Fairy
-12,Creature,Legendary,Earth Lord Orge of the Magical Forest
-13,Creature,Rare,Death King Minotaur
-14,Creature,Common,Dwarf
-15,Spell,Common,Invisibility
-16,Enchantment,Common,Deathgrip
-17,Artifact,Rare,Dark Ring
-18,Artifact,Common,Scythe
-19,Creature,Common,Wolf
-20,Creature,Common,Wolf
-21,Creature,Common,Magi
-22,Spell,Rare,Nature Stun
-23,Spell,Common,Frenzy
-24,Creature,Common,Eagle
-25,Artifact,Common,Helm
-26,Creature,Common,Magi
-27,Artifact,Common,Staff
-28,Creature,Common,Spider
-29,Enchantment,Mythic,Clever Age
-30,Artifact,Common,Shield
-31,Creature,Common,Wolf
-32,Creature,Common,Spider
-33,Spell,Common,Hypnosis
-34,Enchantment,Common,Haste
-35,Creature,Common,Wolf
-36,Creature,Rare,Death Merchant Hydra
-37,Creature,Rare,Frozen Warrior Fairy
-38,Spell,Legendary,Intense Freeze
-39,Enchantment,Common,Shield
-40,Creature,Common,Eagle
-41,Enchantment,Mythic,Clever Shade
-42,Artifact,Rare,Forged Ring
-43,Creature,Common,Warlock
-44,Creature,Common,Eagle
+==================,DECK,5551
+0,Creature,Berserker
+1,Creature,Dark King Goblin
+2,Creature,Paladin
+3,Creature,Magi
+4,Creature,Wolf
+5,Enchantment,Strength
+6,Enchantment,Blight
+7,Spell,Fireball
+8,Creature,Light Undead Ogre of the Mountains
+9,Enchantment,Shrink
+10,Creature,Troll
+11,Creature,Dark Merchant Kraken
+12,Creature,Earth Lord Elf of the Magical Forest
+13,Creature,Death King Cyclops
+14,Creature,Magi
+15,Spell,Rage
+16,Enchantment,Blight
+17,Artifact,Dark Ring
+18,Artifact,Scythe
+19,Creature,Wolf
+20,Creature,Wolf
+21,Creature,Fairy
+22,Spell,Shimmering Lightning
+23,Spell,Stricken
+24,Creature,Eagle
+25,Artifact,Helm
+26,Creature,Fairy
+27,Artifact,Staff
+28,Creature,Paladin
+29,Enchantment,Zealous Victory Blight
+30,Artifact,Shield
+31,Creature,Wolf
+32,Creature,Paladin
+33,Spell,Fury
+34,Enchantment,Firebreath
+35,Creature,Wolf
+36,Creature,Death Merchant Hydra
+37,Creature,Frozen Warrior Kraken
+38,Spell,Instant Nature Fury
+39,Enchantment,Age
+40,Creature,Eagle
+41,Enchantment,Ardent Frigid Haste
+42,Artifact,Dark Ring
+43,Creature,Berserker
+44,Creature,Eagle

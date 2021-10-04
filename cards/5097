@@ -1,46 +1,46 @@
-==================,DECK,5097,Light
-0,Creature,Rare,Snow Monk Berserker
-1,Creature,Common,Dwarf
-2,Spell,Common,Stun
-3,Enchantment,Rare,Apocalypse Age
-4,Creature,Common,Ghoul
-5,Creature,Common,Orc
-6,Enchantment,Rare,Frigid Strength
-7,Creature,Legendary,Frozen Lord Oni of the Haven
-8,Creature,Common,Wolf
-9,Creature,Common,Goblin
-10,Creature,Common,Goblin
-11,Spell,Common,Torment
-12,Artifact,Common,Ring
-13,Artifact,Common,Tome
-14,Spell,Common,Stun
-15,Artifact,Common,Gauntlet
-16,Artifact,Legendary,Potent Ring
-17,Creature,Common,Ghoul
-18,Enchantment,Common,Flight
-19,Enchantment,Common,Shrink
-20,Creature,Rare,Death Rogue Fairy
-21,Spell,Rare,Grim Heal
-22,Creature,Common,Dwarf
-23,Enchantment,Common,Shield
-24,Creature,Common,Warlock
-25,Creature,Common,Spider
-26,Creature,Common,Eagle
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Shrink
-29,Creature,Common,Ghoul
-30,Artifact,Rare,Frigid Cloak
-31,Creature,Legendary,Snow Thief Cyclops of the Eastern Skies
-32,Creature,Common,Orc
-33,Creature,Common,Dwarf
-34,Artifact,Common,Bracers
-35,Spell,Legendary,Intense Pandemonium
-36,Spell,Common,Burst
-37,Spell,Common,Freeze
-38,Spell,Rare,Cataclysmic Sorrow
-39,Creature,Rare,Light Rogue Hydra
-40,Creature,Legendary,Death Assassin Orge of the West
-41,Artifact,Common,Gauntlet
-42,Creature,Common,Magi
-43,Enchantment,Common,Flight
-44,Spell,Common,Hypnosis
+==================,DECK,5097
+0,Creature,Snow Monk Goblin
+1,Creature,Magi
+2,Spell,Fire
+3,Enchantment,Victory Invert
+4,Creature,Ghoul
+5,Creature,Spider
+6,Enchantment,Nimble Blight
+7,Creature,Frozen Lord Oni of the Haven
+8,Creature,Wolf
+9,Creature,Skin-Walker
+10,Creature,Skin-Walker
+11,Spell,Wall
+12,Artifact,Ring
+13,Artifact,Tome
+14,Spell,Reanimate
+15,Artifact,Gauntlet
+16,Artifact,Ardent Apocalypse Ring
+17,Creature,Ghoul
+18,Enchantment,Agony
+19,Enchantment,Shield
+20,Creature,Death Rogue Kraken
+21,Spell,Victory Invisibility
+22,Creature,Magi
+23,Enchantment,Lethargy
+24,Creature,Berserker
+25,Creature,Paladin
+26,Creature,Eagle
+27,Creature,Magi
+28,Enchantment,Lethargy
+29,Creature,Ghoul
+30,Artifact,Apocalypse Cloak
+31,Creature,Snow Thief Giant of the Eastern Skies
+32,Creature,Spider
+33,Creature,Magi
+34,Artifact,Bracers
+35,Spell,Zealous Hateful Burst
+36,Spell,Assault
+37,Spell,Maelstrom
+38,Spell,Gloom Burn
+39,Creature,Light Rogue Hydra
+40,Creature,Death Assassin Elf of the West
+41,Artifact,Gauntlet
+42,Creature,Fairy
+43,Enchantment,Drain
+44,Spell,Torment

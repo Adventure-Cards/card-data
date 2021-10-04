@@ -1,46 +1,46 @@
-==================,DECK,5214,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Frost
-2,Creature,Common,Magi
-3,Spell,Common,Vortex
-4,Creature,Common,Paladin
-5,Enchantment,Rare,Shimmering Drain
-6,Spell,Common,Assault
-7,Spell,Legendary,Dire Burst
-8,Spell,Common,Lightning
-9,Creature,Common,Paladin
-10,Spell,Common,Torment
-11,Spell,Common,Gale
-12,Spell,Common,Wall
-13,Creature,Common,Orc
-14,Spell,Common,Freeze
-15,Spell,Common,Torment
-16,Enchantment,Common,Invert
-17,Spell,Common,Gravitation
-18,Spell,Common,Stricken
-19,Creature,Common,Paladin
-20,Spell,Common,Pandemonium
-21,Creature,Rare,Death Rogue Minotaur
-22,Creature,Rare,Snow Assassin Griffin
-23,Artifact,Common,Sigil
-24,Spell,Rare,Apocalypse Burn
-25,Creature,Common,Spider
-26,Creature,Rare,Frozen Monk Skin-Walker
-27,Creature,Common,Eagle
-28,Creature,Common,Magi
-29,Creature,Common,Magi
-30,Enchantment,Common,Shade
-31,Enchantment,Common,Haste
-32,Spell,Common,Lightning
-33,Creature,Common,Ghoul
-34,Enchantment,Legendary,Clever Strength
-35,Creature,Common,Elf
-36,Creature,Common,Warlock
-37,Enchantment,Common,Shield
-38,Creature,Legendary,Dark Monk Kraken of the Bright Mountains
-39,Spell,Rare,Necro Stricken
-40,Spell,Rare,Frigid Invisibility
-41,Creature,Common,Goblin
-42,Spell,Common,Maelstrom
-43,Creature,Rare,Aura King Fairy
-44,Creature,Common,Goblin
+==================,DECK,5214
+0,Creature,Ghoul
+1,Spell,Tempest
+2,Creature,Fairy
+3,Spell,Assault
+4,Creature,Troll
+5,Enchantment,Forged Strength
+6,Spell,Rage
+7,Spell,Zealous Victory Frenzy
+8,Spell,Fireball
+9,Creature,Troll
+10,Spell,Gale
+11,Spell,Burn
+12,Spell,Wall
+13,Creature,Spider
+14,Spell,Revive
+15,Spell,Assault
+16,Enchantment,Age
+17,Spell,Reanimate
+18,Spell,Fury
+19,Creature,Troll
+20,Spell,Frost
+21,Creature,Death Rogue Cyclops
+22,Creature,Snow Assassin Griffin
+23,Artifact,Sigil
+24,Spell,Nimble Burst
+25,Creature,Paladin
+26,Creature,Frozen Monk Orc
+27,Creature,Eagle
+28,Creature,Fairy
+29,Creature,Fairy
+30,Enchantment,Drain
+31,Enchantment,Flight
+32,Spell,Assault
+33,Creature,Ghoul
+34,Enchantment,Dire Nimble Shade
+35,Creature,Warlock
+36,Creature,Berserker
+37,Enchantment,Agony
+38,Creature,Dark Monk Ogre of the Bright Mountains
+39,Spell,Necro Heal
+40,Spell,Nimble Sorrow
+41,Creature,Skin-Walker
+42,Spell,Stun
+43,Creature,Aura King Kraken
+44,Creature,Skin-Walker

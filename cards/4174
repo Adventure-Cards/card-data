@@ -1,46 +1,46 @@
-==================,DECK,4174,Light
-0,Creature,Common,Orc
-1,Creature,Common,Eagle
-2,Creature,Common,Warlock
-3,Creature,Legendary,Snow Assassin Orge of the Polar Woods
-4,Creature,Legendary,Light Thief Oni of the Low Hills
-5,Spell,Common,Freeze
-6,Enchantment,Common,Age
-7,Spell,Rare,Frigid Frenzy
-8,Enchantment,Rare,Necro Haste
-9,Enchantment,Common,Age
-10,Enchantment,Common,Invert
-11,Creature,Common,Spider
-12,Creature,Common,Goblin
-13,Artifact,Legendary,Potent Helmet
-14,Creature,Common,Paladin
-15,Creature,Common,Ghoul
-16,Creature,Common,Warlock
-17,Creature,Common,Goblin
-18,Enchantment,Mythic,Dire Shade
-19,Creature,Common,Warlock
-20,Creature,Common,Magi
-21,Artifact,Rare,Corpse Belt
-22,Creature,Common,Goblin
-23,Creature,Rare,Light Fighter Griffin
-24,Creature,Common,Eagle
-25,Creature,Mythic,Snow Undead Dragon of Hate
-26,Creature,Rare,Light Queen Berserker
-27,Creature,Common,Magi
-28,Enchantment,Common,Haste
-29,Enchantment,Rare,Miracle Haste
-30,Creature,Common,Wolf
-31,Creature,Common,Wolf
-32,Spell,Common,Burst
-33,Spell,Common,Frost
-34,Creature,Legendary,Earth Warrior Giant of the Low Hills
-35,Artifact,Common,Divine Robe
-36,Enchantment,Legendary,Angry Deathgrip
-37,Spell,Rare,Gloom Heal
-38,Creature,Mythic,Snow Ancient Demon of Hate
-39,Creature,Rare,Earth Queen Griffin
-40,Spell,Common,Revive
-41,Creature,Common,Elf
-42,Creature,Common,Spider
-43,Creature,Common,Paladin
-44,Creature,Common,Eagle
+==================,DECK,4174
+0,Creature,Spider
+1,Creature,Eagle
+2,Creature,Berserker
+3,Creature,Snow Assassin Elf of the Polar Woods
+4,Creature,Light Thief Oni of the Low Hills
+5,Spell,Sorrow
+6,Enchantment,Flight
+7,Spell,Frigid Gravitation
+8,Enchantment,Corpse Lethargy
+9,Enchantment,Shade
+10,Enchantment,Blight
+11,Creature,Paladin
+12,Creature,Skin-Walker
+13,Artifact,Irate Nimble Helmet
+14,Creature,Troll
+15,Creature,Ghoul
+16,Creature,Berserker
+17,Creature,Skin-Walker
+18,Enchantment,Dire Frigid Shade
+19,Creature,Berserker
+20,Creature,Fairy
+21,Artifact,Corpse Belt
+22,Creature,Skin-Walker
+23,Creature,Light Fighter Griffin
+24,Creature,Eagle
+25,Creature,Snow Undead Dragon of Hate
+26,Creature,Light Queen Goblin
+27,Creature,Fairy
+28,Enchantment,Drain
+29,Enchantment,Life Blight
+30,Creature,Wolf
+31,Creature,Wolf
+32,Spell,Vortex
+33,Spell,Maelstrom
+34,Creature,Earth Warrior Dwarf of the Low Hills
+35,Artifact,Divine Robe
+36,Enchantment,Zealous Sorrow Alacrity
+37,Spell,Miracle Fire
+38,Creature,Snow Ancient Demon of Hate
+39,Creature,Earth Queen Griffin
+40,Spell,Freeze
+41,Creature,Warlock
+42,Creature,Paladin
+43,Creature,Troll
+44,Creature,Eagle

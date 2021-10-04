@@ -1,46 +1,46 @@
-==================,DECK,6671,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Legendary,Death Warrior Kraken of the Golden Palace
-2,Creature,Common,Wolf
-3,Artifact,Common,Ghost Wand
-4,Creature,Rare,Death Merchant Berserker
-5,Enchantment,Rare,Forged Strength
-6,Creature,Common,Eagle
-7,Creature,Legendary,Dark King Orge of the West
-8,Enchantment,Common,Shrink
-9,Creature,Common,Eagle
-10,Artifact,Common,Ring
-11,Spell,Legendary,Angry Invisibility
-12,Enchantment,Common,Deathgrip
-13,Creature,Common,Dwarf
-14,Creature,Rare,Aura Monk Skin-Walker
-15,Spell,Rare,Cataclysmic Stricken
-16,Creature,Rare,Frozen Monk Hydra
-17,Creature,Mythic,Light Nameless Phoenix of the Sky
-18,Creature,Common,Elf
-19,Creature,Legendary,Snow Merchant Kraken of the Haven
-20,Creature,Common,Paladin
-21,Creature,Common,Elf
-22,Spell,Common,Frenzy
-23,Enchantment,Common,Age
-24,Creature,Legendary,Dark Fighter Cyclops of the West
-25,Spell,Common,Hypnosis
-26,Enchantment,Common,Shield
-27,Creature,Common,Spider
-28,Creature,Common,Goblin
-29,Creature,Common,Orc
-30,Creature,Mythic,Aura Grand Wizard of the Light
-31,Enchantment,Common,Flight
-32,Spell,Rare,Gloom Vortex
-33,Spell,Common,Stun
-34,Creature,Common,Wolf
-35,Artifact,Common,Divine Robe
-36,Spell,Legendary,Potent Burn
-37,Spell,Common,Heal
-38,Spell,Common,Wall
-39,Creature,Common,Wolf
-40,Creature,Rare,Dark Rogue Hydra
-41,Enchantment,Common,Strength
-42,Enchantment,Rare,Corpse Lethargy
-43,Creature,Rare,Earth King Griffin
-44,Creature,Common,Ghoul
+==================,DECK,6671
+0,Enchantment,Drain
+1,Creature,Death Warrior Ogre of the Golden Palace
+2,Creature,Wolf
+3,Artifact,Ghost Wand
+4,Creature,Death Merchant Goblin
+5,Enchantment,Cataclysmic Shield
+6,Creature,Eagle
+7,Creature,Dark King Elf of the West
+8,Enchantment,Agony
+9,Creature,Eagle
+10,Artifact,Ring
+11,Spell,Irate Gloom Wall
+12,Enchantment,Firebreath
+13,Creature,Magi
+14,Creature,Aura Monk Orc
+15,Spell,Chimeric Assault
+16,Creature,Frozen Monk Hydra
+17,Creature,Light Nameless Phoenix of the Sky
+18,Creature,Warlock
+19,Creature,Snow Merchant Ogre of the Haven
+20,Creature,Troll
+21,Creature,Warlock
+22,Spell,Ice
+23,Enchantment,Flight
+24,Creature,Dark Fighter Giant of the West
+25,Spell,Burst
+26,Enchantment,Invert
+27,Creature,Paladin
+28,Creature,Skin-Walker
+29,Creature,Spider
+30,Creature,Aura Grand Wizard of the Light
+31,Enchantment,Haste
+32,Spell,Lunar Rage
+33,Spell,Invisibility
+34,Creature,Wolf
+35,Artifact,Divine Robe
+36,Spell,Zealous Nimble Burn
+37,Spell,Hypnosis
+38,Spell,Vortex
+39,Creature,Wolf
+40,Creature,Dark Rogue Hydra
+41,Enchantment,Lethargy
+42,Enchantment,Hateful Lethargy
+43,Creature,Earth King Griffin
+44,Creature,Ghoul

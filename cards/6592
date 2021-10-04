@@ -1,46 +1,46 @@
-==================,DECK,6592,Light
-0,Artifact,Common,Crown
-1,Creature,Common,Ghoul
-2,Spell,Common,Ice
-3,Spell,Legendary,Extreme Stricken
-4,Creature,Common,Ghoul
-5,Spell,Common,Sorrow
-6,Spell,Common,Reanimate
-7,Creature,Common,Ghoul
-8,Creature,Common,Goblin
-9,Enchantment,Common,Drain
-10,Artifact,Rare,Lunar Scepter
-11,Enchantment,Rare,Dark Shade
-12,Creature,Common,Orc
-13,Creature,Common,Elf
-14,Creature,Common,Wolf
-15,Creature,Common,Eagle
-16,Creature,Common,Ghoul
-17,Enchantment,Common,Blight
-18,Artifact,Common,Crown
-19,Spell,Common,Maelstrom
-20,Creature,Rare,Death Knight Skin-Walker
-21,Artifact,Common,Potion
-22,Creature,Common,Ghoul
-23,Enchantment,Rare,Shimmering Blight
-24,Spell,Rare,Necro Stun
-25,Creature,Common,Wolf
-26,Enchantment,Common,Deathgrip
-27,Spell,Rare,Forged Frenzy
-28,Spell,Common,Infuriate
-29,Creature,Common,Warlock
-30,Creature,Common,Elf
-31,Creature,Rare,Frozen Fighter Berserker
-32,Creature,Legendary,Frozen King Cyclops of the Low Hills
-33,Creature,Common,Dwarf
-34,Creature,Rare,Death Lord Fairy
-35,Creature,Rare,Light Lord Hydra
-36,Spell,Legendary,Intense Invisibility
-37,Enchantment,Common,Haste
-38,Artifact,Common,Shield
-39,Creature,Legendary,Frozen Thief Orge of the Border
-40,Spell,Common,Gravitation
-41,Creature,Rare,Snow Monk Berserker
-42,Enchantment,Rare,Corpse Invert
-43,Enchantment,Common,Flight
-44,Enchantment,Common,Strength
+==================,DECK,6592
+0,Artifact,Crown
+1,Creature,Ghoul
+2,Spell,Torment
+3,Spell,Potent Lunar Burn
+4,Creature,Ghoul
+5,Spell,Infuriate
+6,Spell,Gale
+7,Creature,Ghoul
+8,Creature,Skin-Walker
+9,Enchantment,Drain
+10,Artifact,Lunar Scepter
+11,Enchantment,Chimeric Alacrity
+12,Creature,Spider
+13,Creature,Warlock
+14,Creature,Wolf
+15,Creature,Eagle
+16,Creature,Ghoul
+17,Enchantment,Haste
+18,Artifact,Crown
+19,Spell,Torment
+20,Creature,Death Knight Orc
+21,Artifact,Potion
+22,Creature,Ghoul
+23,Enchantment,Solar Strength
+24,Spell,Corpse Freeze
+25,Creature,Wolf
+26,Enchantment,Strength
+27,Spell,Gloom Frenzy
+28,Spell,Freeze
+29,Creature,Berserker
+30,Creature,Warlock
+31,Creature,Frozen Fighter Goblin
+32,Creature,Frozen King Giant of the Low Hills
+33,Creature,Magi
+34,Creature,Death Lord Kraken
+35,Creature,Light Lord Hydra
+36,Spell,Irate Corpse Tempest
+37,Enchantment,Haste
+38,Artifact,Shield
+39,Creature,Frozen Thief Elf of the Border
+40,Spell,Gale
+41,Creature,Snow Monk Goblin
+42,Enchantment,Shimmering Agony
+43,Enchantment,Shield
+44,Enchantment,Flight

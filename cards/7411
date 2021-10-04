@@ -1,46 +1,46 @@
-==================,DECK,7411,Light
-0,Spell,Rare,Hateful Burn
-1,Creature,Common,Orc
-2,Spell,Common,Burn
-3,Enchantment,Rare,Apocalypse Flight
-4,Enchantment,Common,Age
-5,Spell,Legendary,Angry Pandemonium
-6,Enchantment,Legendary,Clever Invert
-7,Enchantment,Mythic,Dire Blight
-8,Artifact,Common,Sigil
-9,Artifact,Common,Bracers
-10,Creature,Common,Warlock
-11,Spell,Common,Gale
-12,Artifact,Common,Bracers
-13,Creature,Common,Paladin
-14,Artifact,Common,Scepter
-15,Spell,Common,Revive
-16,Artifact,Common,Crown
-17,Creature,Common,Wolf
-18,Enchantment,Common,Lethargy
-19,Spell,Rare,Miracle Ice
-20,Artifact,Common,Staff
-21,Creature,Legendary,Snow King Giant of the Haven
-22,Spell,Common,Gale
-23,Creature,Common,Eagle
-24,Spell,Common,Fury
-25,Enchantment,Common,Alacrity
-26,Spell,Common,Ice
-27,Artifact,Common,Sigil
-28,Enchantment,Common,Drain
-29,Spell,Rare,Grim Assault
-30,Creature,Common,Orc
-31,Creature,Common,Spider
-32,Creature,Common,Goblin
-33,Creature,Common,Magi
-34,Enchantment,Rare,Apocalypse Shrink
-35,Enchantment,Common,Shrink
-36,Creature,Common,Goblin
-37,Artifact,Common,Sigil
-38,Enchantment,Legendary,Mighty Invert
-39,Spell,Common,Stun
-40,Artifact,Legendary,Urgent Tome
-41,Artifact,Rare,Lunar Bow
-42,Creature,Legendary,Frozen Queen Oni of the Eastern Skies
-43,Creature,Common,Warlock
-44,Creature,Rare,Death Lord Fairy
+==================,DECK,7411
+0,Spell,Lunar Burst
+1,Creature,Spider
+2,Spell,Fury
+3,Enchantment,Grim Haste
+4,Enchantment,Shade
+5,Spell,Potent Cataclysmic Heal
+6,Enchantment,Instant Oblivion Drain
+7,Enchantment,Clever Nimble Haste
+8,Artifact,Sigil
+9,Artifact,Bracers
+10,Creature,Berserker
+11,Spell,Burn
+12,Artifact,Bracers
+13,Creature,Troll
+14,Artifact,Scepter
+15,Spell,Freeze
+16,Artifact,Crown
+17,Creature,Wolf
+18,Enchantment,Shrink
+19,Spell,Oblivion Vortex
+20,Artifact,Staff
+21,Creature,Snow King Dwarf of the Haven
+22,Spell,Wall
+23,Creature,Eagle
+24,Spell,Sorrow
+25,Enchantment,Firebreath
+26,Spell,Invisibility
+27,Artifact,Sigil
+28,Enchantment,Haste
+29,Spell,Oblivion Freeze
+30,Creature,Spider
+31,Creature,Paladin
+32,Creature,Skin-Walker
+33,Creature,Fairy
+34,Enchantment,Frigid Shade
+35,Enchantment,Strength
+36,Creature,Skin-Walker
+37,Artifact,Sigil
+38,Enchantment,Irate Sorrow Alacrity
+39,Spell,Revive
+40,Artifact,Dire Solar Tome
+41,Artifact,Sorrow Bow
+42,Creature,Frozen Queen Oni of the Eastern Skies
+43,Creature,Berserker
+44,Creature,Death Lord Kraken

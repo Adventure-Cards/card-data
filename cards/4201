@@ -1,46 +1,46 @@
-==================,DECK,4201,Medium
-0,Creature,Common,Warlock
-1,Creature,Common,Warlock
-2,Creature,Common,Paladin
-3,Creature,Common,Orc
-4,Enchantment,Common,Agony
-5,Creature,Rare,Light Rogue Minotaur
-6,Creature,Rare,Aura Assassin Minotaur
-7,Enchantment,Common,Shrink
-8,Spell,Common,Burst
-9,Creature,Common,Elf
-10,Enchantment,Common,Blight
-11,Creature,Rare,Earth King Berserker
-12,Enchantment,Common,Alacrity
-13,Spell,Common,Invisibility
-14,Enchantment,Common,Drain
-15,Creature,Common,Paladin
-16,Spell,Rare,Miracle Stun
-17,Spell,Common,Rage
-18,Spell,Common,Assault
-19,Artifact,Legendary,Instant Scepter
-20,Creature,Rare,Earth Rogue Hydra
-21,Spell,Rare,Necro Gale
-22,Spell,Common,Burst
-23,Spell,Common,Revive
-24,Creature,Common,Warlock
-25,Creature,Rare,Death Queen Fairy
-26,Artifact,Common,Staff
-27,Spell,Rare,Miracle Fury
-28,Enchantment,Common,Drain
-29,Creature,Common,Goblin
-30,Creature,Rare,Aura Fighter Fairy
-31,Creature,Common,Dwarf
-32,Enchantment,Common,Shrink
-33,Creature,Common,Warlock
-34,Creature,Common,Eagle
-35,Spell,Common,Gale
-36,Creature,Common,Wolf
-37,Creature,Common,Goblin
-38,Enchantment,Common,Deathgrip
-39,Creature,Mythic,Earth Time Phoenix of the Shadows
-40,Spell,Rare,Nimble Frost
-41,Enchantment,Common,Invert
-42,Artifact,Rare,Life Belt
-43,Creature,Common,Eagle
-44,Creature,Mythic,Death Undead Dragon of the Dead
+==================,DECK,4201
+0,Creature,Berserker
+1,Creature,Berserker
+2,Creature,Troll
+3,Creature,Spider
+4,Enchantment,Age
+5,Creature,Light Rogue Cyclops
+6,Creature,Aura Assassin Cyclops
+7,Enchantment,Deathgrip
+8,Spell,Burst
+9,Creature,Warlock
+10,Enchantment,Deathgrip
+11,Creature,Earth King Goblin
+12,Enchantment,Agony
+13,Spell,Maelstrom
+14,Enchantment,Agony
+15,Creature,Troll
+16,Spell,Grim Hypnosis
+17,Spell,Assault
+18,Spell,Vortex
+19,Artifact,Potent Corpse Scepter
+20,Creature,Earth Rogue Hydra
+21,Spell,Corpse Infuriate
+22,Spell,Burn
+23,Spell,Frenzy
+24,Creature,Berserker
+25,Creature,Death Queen Kraken
+26,Artifact,Staff
+27,Spell,Life Reanimate
+28,Enchantment,Deathgrip
+29,Creature,Skin-Walker
+30,Creature,Aura Fighter Kraken
+31,Creature,Magi
+32,Enchantment,Haste
+33,Creature,Berserker
+34,Creature,Eagle
+35,Spell,Vortex
+36,Creature,Wolf
+37,Creature,Skin-Walker
+38,Enchantment,Alacrity
+39,Creature,Earth Time Phoenix of the Shadows
+40,Spell,Forged Revive
+41,Enchantment,Shield
+42,Artifact,Oblivion Belt
+43,Creature,Eagle
+44,Creature,Death Undead Dragon of the Dead

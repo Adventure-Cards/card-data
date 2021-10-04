@@ -1,46 +1,46 @@
-==================,DECK,7642,Strong
-0,Creature,Mythic,Aura Undead Dragon of the Light
-1,Spell,Common,Sorrow
-2,Creature,Common,Wolf
-3,Spell,Common,Stun
-4,Artifact,Rare,Corpse Sigil
-5,Enchantment,Legendary,Urgent Lethargy
-6,Creature,Rare,Death King Berserker
-7,Spell,Legendary,Urgent Fury
-8,Artifact,Common,Staff
-9,Creature,Common,Goblin
-10,Creature,Rare,Light Undead Fairy
-11,Creature,Rare,Aura Knight Skin-Walker
-12,Creature,Legendary,Frozen Undead Kraken of the West
-13,Creature,Common,Warlock
-14,Creature,Common,Orc
-15,Creature,Rare,Earth Assassin Hydra
-16,Creature,Legendary,Frozen Priest Giant of the Black Stone
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Common,Shield
-19,Enchantment,Rare,Nimble Shield
-20,Creature,Legendary,Earth Nameless Dragon of the Shadows
-21,Creature,Common,Magi
-22,Spell,Common,Frost
-23,Spell,Common,Pandemonium
-24,Creature,Rare,Aura Thief Griffin
-25,Creature,Common,Wolf
-26,Enchantment,Common,Strength
-27,Spell,Common,Sorrow
-28,Creature,Rare,Dark Fighter Fairy
-29,Creature,Common,Ghoul
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Lethargy
-32,Enchantment,Rare,Lunar Blight
-33,Spell,Common,Gravitation
-34,Creature,Common,Magi
-35,Spell,Common,Frost
-36,Creature,Common,Paladin
-37,Spell,Common,Ice
-38,Artifact,Common,Gloves
-39,Creature,Legendary,Earth Fighter Kraken of the Golden Palace
-40,Creature,Rare,Snow Queen Griffin
-41,Creature,Common,Magi
-42,Creature,Rare,Dark Thief Griffin
-43,Spell,Common,Frenzy
-44,Spell,Common,Stricken
+==================,DECK,7642
+0,Creature,Aura Undead Dragon of the Light
+1,Spell,Frenzy
+2,Creature,Wolf
+3,Spell,Hypnosis
+4,Artifact,Corpse Sigil
+5,Enchantment,Ardent Hateful Lethargy
+6,Creature,Death King Goblin
+7,Spell,Empyrean Hateful Stun
+8,Artifact,Staff
+9,Creature,Skin-Walker
+10,Creature,Light Undead Kraken
+11,Creature,Aura Knight Orc
+12,Creature,Frozen Undead Ogre of the West
+13,Creature,Berserker
+14,Creature,Spider
+15,Creature,Earth Assassin Hydra
+16,Creature,Frozen Priest Dwarf of the Black Stone
+17,Enchantment,Flight
+18,Enchantment,Flight
+19,Enchantment,Nature Strength
+20,Creature,Earth Nameless Dragon of the Shadows
+21,Creature,Fairy
+22,Spell,Fire
+23,Spell,Frost
+24,Creature,Aura Thief Griffin
+25,Creature,Wolf
+26,Enchantment,Agony
+27,Spell,Sorrow
+28,Creature,Dark Fighter Kraken
+29,Creature,Ghoul
+30,Creature,Ghoul
+31,Enchantment,Flight
+32,Enchantment,Cataclysmic Shield
+33,Spell,Gale
+34,Creature,Fairy
+35,Spell,Invisibility
+36,Creature,Troll
+37,Spell,Frost
+38,Artifact,Gloves
+39,Creature,Earth Fighter Ogre of the Golden Palace
+40,Creature,Snow Queen Griffin
+41,Creature,Fairy
+42,Creature,Dark Thief Griffin
+43,Spell,Sorrow
+44,Spell,Hypnosis

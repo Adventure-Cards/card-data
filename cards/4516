@@ -1,46 +1,46 @@
-==================,DECK,4516,Light
-0,Spell,Common,Revive
-1,Creature,Legendary,Death Lord Orge of the Swamp
-2,Creature,Common,Ghoul
-3,Creature,Rare,Light Lord Hydra
-4,Spell,Common,Fury
-5,Creature,Common,Dwarf
-6,Creature,Rare,Light Thief Minotaur
-7,Spell,Common,Reanimate
-8,Creature,Common,Spider
-9,Creature,Common,Goblin
-10,Enchantment,Common,Haste
-11,Artifact,Common,Gloves
-12,Creature,Rare,Frozen Assassin Skin-Walker
-13,Spell,Common,Fury
-14,Creature,Legendary,Earth Knight Kraken of the Mountains
-15,Enchantment,Mythic,Dire Invert
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Creature,Common,Wolf
-19,Creature,Legendary,Light Lord Kraken of the Arctic Blizzards
-20,Artifact,Common,Crown
-21,Creature,Common,Orc
-22,Artifact,Rare,Corpse Tome
-23,Creature,Legendary,Earth Knight Cyclops of the Polar Woods
-24,Enchantment,Legendary,Mighty Flight
-25,Creature,Common,Wolf
-26,Creature,Common,Ghoul
-27,Spell,Common,Wall
-28,Artifact,Common,Boots
-29,Creature,Mythic,Snow Time Phoenix of Hate
-30,Creature,Common,Elf
-31,Enchantment,Rare,Miracle Deathgrip
-32,Enchantment,Rare,Oblivion Invert
-33,Creature,Common,Dwarf
-34,Creature,Common,Ghoul
-35,Creature,Common,Wolf
-36,Spell,Legendary,Angry Gale
-37,Artifact,Common,Tome
-38,Creature,Common,Elf
-39,Spell,Common,Stricken
-40,Enchantment,Legendary,Dire Shield
-41,Artifact,Legendary,Mighty Ring
-42,Creature,Common,Goblin
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Shrink
+==================,DECK,4516
+0,Spell,Wall
+1,Creature,Death Lord Elf of the Swamp
+2,Creature,Ghoul
+3,Creature,Light Lord Hydra
+4,Spell,Fire
+5,Creature,Magi
+6,Creature,Light Thief Cyclops
+7,Spell,Invisibility
+8,Creature,Paladin
+9,Creature,Skin-Walker
+10,Enchantment,Strength
+11,Artifact,Gloves
+12,Creature,Frozen Assassin Orc
+13,Spell,Reanimate
+14,Creature,Earth Knight Ogre of the Mountains
+15,Enchantment,Dire Oblivion Shade
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Creature,Wolf
+19,Creature,Light Lord Ogre of the Arctic Blizzards
+20,Artifact,Crown
+21,Creature,Spider
+22,Artifact,Corpse Tome
+23,Creature,Earth Knight Giant of the Polar Woods
+24,Enchantment,Potent Lunar Shrink
+25,Creature,Wolf
+26,Creature,Ghoul
+27,Spell,Fire
+28,Artifact,Boots
+29,Creature,Snow Time Phoenix of Hate
+30,Creature,Warlock
+31,Enchantment,Oblivion Invert
+32,Enchantment,Oblivion Drain
+33,Creature,Magi
+34,Creature,Ghoul
+35,Creature,Wolf
+36,Spell,Empyrean Gloom Torment
+37,Artifact,Tome
+38,Creature,Warlock
+39,Spell,Gravitation
+40,Enchantment,Instant Victory Drain
+41,Artifact,Clever Sorrow Ring
+42,Creature,Skin-Walker
+43,Creature,Ghoul
+44,Enchantment,Shade

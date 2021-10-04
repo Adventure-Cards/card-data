@@ -1,46 +1,46 @@
-==================,DECK,5193,Medium
-0,Spell,Common,Lightning
-1,Creature,Rare,Aura Thief Hydra
-2,Creature,Rare,Dark Assassin Griffin
-3,Creature,Common,Goblin
-4,Creature,Common,Orc
-5,Creature,Rare,Frozen Queen Hydra
-6,Creature,Rare,Snow Thief Hydra
-7,Creature,Common,Eagle
-8,Creature,Common,Spider
-9,Creature,Common,Orc
-10,Enchantment,Common,Blight
-11,Spell,Rare,Grim Gravitation
-12,Artifact,Rare,Hateful Gloves
-13,Artifact,Common,Belt
-14,Creature,Common,Paladin
-15,Spell,Common,Heal
-16,Spell,Common,Torment
-17,Enchantment,Common,Shade
-18,Creature,Legendary,Death Priest Orge of the Mountains
-19,Spell,Rare,Life Infuriate
-20,Spell,Common,Reanimate
-21,Artifact,Rare,Gloom Gauntlet
-22,Enchantment,Common,Alacrity
-23,Creature,Legendary,Earth Warrior Kraken of the Border
-24,Creature,Common,Wolf
-25,Creature,Rare,Snow Thief Hydra
-26,Spell,Common,Reanimate
-27,Creature,Legendary,Dark Rogue Cyclops of the Mountains
-28,Spell,Rare,Hateful Pandemonium
-29,Creature,Common,Warlock
-30,Artifact,Rare,Lunar Belt
-31,Spell,Common,Gravitation
-32,Creature,Legendary,Snow Lord Oni of the Plains
-33,Artifact,Common,Helm
-34,Creature,Common,Dwarf
-35,Enchantment,Legendary,Angry Shrink
-36,Spell,Rare,Life Reanimate
-37,Spell,Common,Rage
-38,Creature,Common,Ghoul
-39,Spell,Rare,Corpse Lightning
-40,Creature,Common,Eagle
-41,Creature,Common,Elf
-42,Creature,Rare,Death Knight Griffin
-43,Creature,Common,Warlock
-44,Spell,Common,Sorrow
+==================,DECK,5193
+0,Spell,Gravitation
+1,Creature,Aura Thief Hydra
+2,Creature,Dark Assassin Griffin
+3,Creature,Skin-Walker
+4,Creature,Spider
+5,Creature,Frozen Queen Hydra
+6,Creature,Snow Thief Hydra
+7,Creature,Eagle
+8,Creature,Paladin
+9,Creature,Spider
+10,Enchantment,Drain
+11,Spell,Frigid Freeze
+12,Artifact,Cataclysmic Gloves
+13,Artifact,Belt
+14,Creature,Troll
+15,Spell,Pandemonium
+16,Spell,Tempest
+17,Enchantment,Flight
+18,Creature,Death Priest Elf of the Mountains
+19,Spell,Life Revive
+20,Spell,Assault
+21,Artifact,Gloom Gauntlet
+22,Enchantment,Blight
+23,Creature,Earth Warrior Ogre of the Border
+24,Creature,Wolf
+25,Creature,Snow Thief Hydra
+26,Spell,Heal
+27,Creature,Dark Rogue Giant of the Mountains
+28,Spell,Dark Pandemonium
+29,Creature,Berserker
+30,Artifact,Chimeric Belt
+31,Spell,Invisibility
+32,Creature,Snow Lord Oni of the Plains
+33,Artifact,Helm
+34,Creature,Magi
+35,Enchantment,Clever Chimeric Shield
+36,Spell,Victory Frenzy
+37,Spell,Maelstrom
+38,Creature,Ghoul
+39,Spell,Forged Torment
+40,Creature,Eagle
+41,Creature,Warlock
+42,Creature,Death Knight Griffin
+43,Creature,Berserker
+44,Spell,Freeze

@@ -1,46 +1,46 @@
-==================,DECK,6069,Light
-0,Creature,Rare,Snow Assassin Fairy
-1,Creature,Common,Wolf
-2,Spell,Common,Burn
-3,Spell,Common,Assault
-4,Spell,Common,Rage
-5,Spell,Common,Frenzy
-6,Creature,Common,Magi
-7,Creature,Common,Magi
-8,Spell,Common,Invisibility
-9,Artifact,Legendary,Mighty Greaves
-10,Enchantment,Mythic,Clever Alacrity
-11,Enchantment,Legendary,Angry Haste
-12,Creature,Rare,Death Knight Skin-Walker
-13,Enchantment,Common,Strength
-14,Spell,Common,Stun
-15,Enchantment,Rare,Solar Shade
-16,Spell,Rare,Nimble Gravitation
-17,Spell,Rare,Solar Revive
-18,Creature,Common,Warlock
-19,Creature,Common,Eagle
-20,Creature,Common,Orc
-21,Creature,Common,Paladin
-22,Spell,Rare,Corpse Assault
-23,Creature,Legendary,Earth Knight Orge of the Low Hills
-24,Enchantment,Common,Blight
-25,Creature,Common,Elf
-26,Creature,Rare,Earth Lord Minotaur
-27,Creature,Common,Goblin
-28,Creature,Common,Spider
-29,Spell,Common,Rage
-30,Creature,Rare,Aura Assassin Minotaur
-31,Enchantment,Rare,Oblivion Agony
-32,Spell,Common,Heal
-33,Creature,Common,Paladin
-34,Creature,Rare,Frozen Knight Berserker
-35,Spell,Rare,Cataclysmic Gale
-36,Creature,Rare,Frozen Knight Minotaur
-37,Artifact,Legendary,Clever Ring
-38,Artifact,Legendary,Intense Helmet
-39,Enchantment,Common,Shade
-40,Spell,Common,Reanimate
-41,Artifact,Common,Greaves
-42,Artifact,Common,Pendant
-43,Spell,Common,Infuriate
-44,Creature,Legendary,Dark King Giant of the Bright Mountains
+==================,DECK,6069
+0,Creature,Snow Assassin Kraken
+1,Creature,Wolf
+2,Spell,Revive
+3,Spell,Infuriate
+4,Spell,Maelstrom
+5,Spell,Revive
+6,Creature,Fairy
+7,Creature,Fairy
+8,Spell,Heal
+9,Artifact,Urgent Sorrow Greaves
+10,Enchantment,Irate Apocalypse Blight
+11,Enchantment,Empyrean Miracle Firebreath
+12,Creature,Death Knight Orc
+13,Enchantment,Shield
+14,Spell,Rage
+15,Enchantment,Necro Deathgrip
+16,Spell,Nature Vortex
+17,Spell,Necro Wall
+18,Creature,Berserker
+19,Creature,Eagle
+20,Creature,Spider
+21,Creature,Troll
+22,Spell,Hateful Fury
+23,Creature,Earth Knight Elf of the Low Hills
+24,Enchantment,Age
+25,Creature,Warlock
+26,Creature,Earth Lord Cyclops
+27,Creature,Skin-Walker
+28,Creature,Paladin
+29,Spell,Torment
+30,Creature,Aura Assassin Cyclops
+31,Enchantment,Life Drain
+32,Spell,Revive
+33,Creature,Troll
+34,Creature,Frozen Knight Goblin
+35,Spell,Dark Vortex
+36,Creature,Frozen Knight Cyclops
+37,Artifact,Instant Life Ring
+38,Artifact,Irate Necro Helmet
+39,Enchantment,Strength
+40,Spell,Fireball
+41,Artifact,Greaves
+42,Artifact,Pendant
+43,Spell,Pandemonium
+44,Creature,Dark King Dwarf of the Bright Mountains

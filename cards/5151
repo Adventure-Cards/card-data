@@ -1,46 +1,46 @@
-==================,DECK,5151,Light
-0,Creature,Common,Magi
-1,Artifact,Common,Belt
-2,Creature,Common,Magi
-3,Spell,Common,Freeze
-4,Spell,Rare,Apocalypse Gale
-5,Creature,Common,Wolf
-6,Creature,Common,Magi
-7,Artifact,Rare,Cataclysmic Boots
-8,Enchantment,Common,Haste
-9,Creature,Legendary,Light Merchant Cyclops of the Polar Woods
-10,Enchantment,Common,Age
-11,Creature,Common,Wolf
-12,Creature,Rare,Aura Monk Fairy
-13,Enchantment,Common,Drain
-14,Artifact,Rare,Dark Tome
-15,Artifact,Common,Helm
-16,Spell,Common,Lightning
-17,Artifact,Rare,Frigid Greaves
-18,Artifact,Common,Ring
-19,Creature,Common,Spider
-20,Creature,Common,Wolf
-21,Enchantment,Common,Haste
-22,Spell,Common,Wall
-23,Creature,Common,Wolf
-24,Spell,Common,Invisibility
-25,Enchantment,Common,Invert
-26,Spell,Common,Invisibility
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Enchantment,Mythic,Intense Flight
-30,Creature,Rare,Snow Lord Berserker
-31,Spell,Common,Heal
-32,Enchantment,Common,Haste
-33,Enchantment,Common,Blight
-34,Creature,Legendary,Snow Queen Kraken of the Swamp
-35,Creature,Legendary,Snow Undead Giant of the Eternal Land
-36,Enchantment,Common,Age
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Agony
-39,Creature,Common,Dwarf
-40,Enchantment,Mythic,Mighty Shield
-41,Creature,Common,Eagle
-42,Creature,Rare,Earth Monk Fairy
-43,Creature,Common,Paladin
-44,Artifact,Legendary,Urgent Greaves
+==================,DECK,5151
+0,Creature,Fairy
+1,Artifact,Belt
+2,Creature,Fairy
+3,Spell,Revive
+4,Spell,Grim Assault
+5,Creature,Wolf
+6,Creature,Fairy
+7,Artifact,Chimeric Boots
+8,Enchantment,Agony
+9,Creature,Light Merchant Giant of the Polar Woods
+10,Enchantment,Firebreath
+11,Creature,Wolf
+12,Creature,Aura Monk Kraken
+13,Enchantment,Alacrity
+14,Artifact,Lunar Tome
+15,Artifact,Helm
+16,Spell,Vortex
+17,Artifact,Life Greaves
+18,Artifact,Ring
+19,Creature,Paladin
+20,Creature,Wolf
+21,Enchantment,Lethargy
+22,Spell,Gale
+23,Creature,Wolf
+24,Spell,Freeze
+25,Enchantment,Alacrity
+26,Spell,Infuriate
+27,Creature,Magi
+28,Creature,Paladin
+29,Enchantment,Potent Hateful Strength
+30,Creature,Snow Lord Goblin
+31,Spell,Torment
+32,Enchantment,Agony
+33,Enchantment,Invert
+34,Creature,Snow Queen Ogre of the Swamp
+35,Creature,Snow Undead Dwarf of the Eternal Land
+36,Enchantment,Firebreath
+37,Creature,Ghoul
+38,Enchantment,Alacrity
+39,Creature,Magi
+40,Enchantment,Instant Gloom Shrink
+41,Creature,Eagle
+42,Creature,Earth Monk Kraken
+43,Creature,Troll
+44,Artifact,Mighty Solar Greaves

@@ -1,46 +1,46 @@
-==================,DECK,5701,Light
-0,Creature,Legendary,Snow Warrior Kraken of the Golden Palace
-1,Enchantment,Common,Flight
-2,Enchantment,Rare,Shimmering Deathgrip
-3,Creature,Common,Warlock
-4,Creature,Common,Eagle
-5,Enchantment,Common,Drain
-6,Creature,Common,Spider
-7,Creature,Rare,Dark Undead Fairy
-8,Creature,Legendary,Light Undead Orge of the Bright Mountains
-9,Spell,Rare,Apocalypse Sorrow
-10,Creature,Common,Dwarf
-11,Creature,Common,Spider
-12,Enchantment,Mythic,Instant Deathgrip
-13,Spell,Common,Heal
-14,Creature,Legendary,Aura King Giant of the Eastern Skies
-15,Spell,Rare,Gloom Assault
-16,Creature,Mythic,Aura Ancient Wizard of the Light
-17,Enchantment,Rare,Solar Lethargy
-18,Creature,Rare,Aura Monk Fairy
-19,Spell,Common,Maelstrom
-20,Creature,Common,Warlock
-21,Creature,Common,Eagle
-22,Creature,Common,Orc
-23,Enchantment,Rare,Shimmering Age
-24,Creature,Common,Elf
-25,Spell,Common,Burn
-26,Enchantment,Legendary,Mighty Shrink
-27,Spell,Rare,Shimmering Stricken
-28,Creature,Common,Ghoul
-29,Artifact,Rare,Oblivion Divine Robe
-30,Enchantment,Mythic,Urgent Flight
-31,Creature,Mythic,Snow Chaos Demon of Hate
-32,Enchantment,Common,Alacrity
-33,Creature,Mythic,Death Grand Demon of the Dead
-34,Spell,Common,Gravitation
-35,Creature,Legendary,Death Queen Giant of the Eternal Land
-36,Enchantment,Common,Flight
-37,Spell,Rare,Miracle Pandemonium
-38,Spell,Common,Reanimate
-39,Spell,Common,Heal
-40,Creature,Common,Magi
-41,Creature,Legendary,Aura Thief Giant of the Arctic Blizzards
-42,Artifact,Legendary,Mighty Helm
-43,Creature,Legendary,Dark Rogue Orge of the Haven
-44,Spell,Common,Revive
+==================,DECK,5701
+0,Creature,Snow Warrior Ogre of the Golden Palace
+1,Enchantment,Blight
+2,Enchantment,Shimmering Age
+3,Creature,Berserker
+4,Creature,Eagle
+5,Enchantment,Alacrity
+6,Creature,Paladin
+7,Creature,Dark Undead Kraken
+8,Creature,Light Undead Elf of the Bright Mountains
+9,Spell,Oblivion Burst
+10,Creature,Magi
+11,Creature,Paladin
+12,Enchantment,Mighty Shimmering Agony
+13,Spell,Tempest
+14,Creature,Aura King Dwarf of the Eastern Skies
+15,Spell,Sorrow Maelstrom
+16,Creature,Aura Ancient Wizard of the Light
+17,Enchantment,Hateful Deathgrip
+18,Creature,Aura Monk Kraken
+19,Spell,Sorrow
+20,Creature,Berserker
+21,Creature,Eagle
+22,Creature,Spider
+23,Enchantment,Nature Agony
+24,Creature,Warlock
+25,Spell,Gale
+26,Enchantment,Mighty Chimeric Flight
+27,Spell,Corpse Heal
+28,Creature,Ghoul
+29,Artifact,Oblivion Divine Robe
+30,Enchantment,Empyrean Hateful Age
+31,Creature,Snow Chaos Demon of Hate
+32,Enchantment,Drain
+33,Creature,Death Grand Demon of the Dead
+34,Spell,Rage
+35,Creature,Death Queen Dwarf of the Eternal Land
+36,Enchantment,Drain
+37,Spell,Victory Wall
+38,Spell,Stun
+39,Spell,Rage
+40,Creature,Fairy
+41,Creature,Aura Thief Dwarf of the Arctic Blizzards
+42,Artifact,Empyrean Cataclysmic Helm
+43,Creature,Dark Rogue Elf of the Haven
+44,Spell,Gale

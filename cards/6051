@@ -1,46 +1,46 @@
-==================,DECK,6051,Light
-0,Spell,Common,Frenzy
-1,Creature,Common,Warlock
-2,Enchantment,Rare,Corpse Lethargy
-3,Spell,Rare,Gloom Invisibility
-4,Creature,Common,Wolf
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Warlock
-8,Spell,Common,Maelstrom
-9,Creature,Common,Goblin
-10,Enchantment,Common,Blight
-11,Creature,Common,Warlock
-12,Creature,Common,Spider
-13,Enchantment,Rare,Corpse Agony
-14,Enchantment,Rare,Miracle Deathgrip
-15,Creature,Common,Orc
-16,Creature,Rare,Light Thief Minotaur
-17,Spell,Common,Heal
-18,Creature,Common,Paladin
-19,Creature,Common,Spider
-20,Creature,Rare,Earth Undead Hydra
-21,Creature,Common,Magi
-22,Creature,Rare,Dark Undead Berserker
-23,Creature,Legendary,Frozen Rogue Kraken of the Low Hills
-24,Creature,Rare,Death King Fairy
-25,Creature,Common,Ghoul
-26,Creature,Common,Paladin
-27,Spell,Common,Sorrow
-28,Creature,Common,Goblin
-29,Enchantment,Common,Deathgrip
-30,Creature,Rare,Dark Knight Hydra
-31,Enchantment,Rare,Apocalypse Drain
-32,Spell,Common,Freeze
-33,Creature,Common,Orc
-34,Artifact,Rare,Life Ring
-35,Creature,Common,Magi
-36,Enchantment,Common,Agony
-37,Creature,Common,Spider
-38,Spell,Common,Gale
-39,Spell,Common,Burn
-40,Spell,Common,Frenzy
-41,Enchantment,Common,Shield
-42,Creature,Common,Warlock
-43,Enchantment,Common,Invert
-44,Enchantment,Common,Lethargy
+==================,DECK,6051
+0,Spell,Pandemonium
+1,Creature,Berserker
+2,Enchantment,Hateful Lethargy
+3,Spell,Lunar Invisibility
+4,Creature,Wolf
+5,Creature,Ghoul
+6,Enchantment,Drain
+7,Creature,Berserker
+8,Spell,Invisibility
+9,Creature,Skin-Walker
+10,Enchantment,Alacrity
+11,Creature,Berserker
+12,Creature,Paladin
+13,Enchantment,Corpse Deathgrip
+14,Enchantment,Oblivion Blight
+15,Creature,Spider
+16,Creature,Light Thief Cyclops
+17,Spell,Frost
+18,Creature,Troll
+19,Creature,Paladin
+20,Creature,Earth Undead Hydra
+21,Creature,Fairy
+22,Creature,Dark Undead Goblin
+23,Creature,Frozen Rogue Ogre of the Low Hills
+24,Creature,Death King Kraken
+25,Creature,Ghoul
+26,Creature,Troll
+27,Spell,Ice
+28,Creature,Skin-Walker
+29,Enchantment,Invert
+30,Creature,Dark Knight Hydra
+31,Enchantment,Apocalypse Shade
+32,Spell,Assault
+33,Creature,Spider
+34,Artifact,Victory Ring
+35,Creature,Fairy
+36,Enchantment,Haste
+37,Creature,Paladin
+38,Spell,Rage
+39,Spell,Heal
+40,Spell,Fire
+41,Enchantment,Blight
+42,Creature,Berserker
+43,Enchantment,Lethargy
+44,Enchantment,Drain

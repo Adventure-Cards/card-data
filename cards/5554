@@ -1,46 +1,46 @@
-==================,DECK,5554,Light
-0,Enchantment,Common,Flight
-1,Creature,Rare,Dark Knight Hydra
-2,Enchantment,Common,Shield
-3,Creature,Legendary,Dark Warrior Giant of the Swamp
-4,Enchantment,Common,Agony
-5,Creature,Rare,Dark Fighter Fairy
-6,Artifact,Rare,Cataclysmic Tome
-7,Creature,Rare,Earth Priest Skin-Walker
-8,Creature,Common,Dwarf
-9,Artifact,Rare,Dark Gloves
-10,Spell,Common,Ice
-11,Artifact,Common,Helmet
-12,Creature,Rare,Light Undead Griffin
-13,Spell,Rare,Solar Assault
-14,Creature,Rare,Earth Monk Minotaur
-15,Creature,Common,Elf
-16,Creature,Common,Spider
-17,Artifact,Rare,Grim Gauntlet
-18,Enchantment,Common,Shield
-19,Creature,Common,Elf
-20,Creature,Common,Magi
-21,Artifact,Common,Potion
-22,Spell,Common,Rage
-23,Creature,Common,Magi
-24,Enchantment,Common,Shade
-25,Creature,Legendary,Earth Monk Kraken of the West
-26,Creature,Rare,Aura Fighter Hydra
-27,Creature,Rare,Snow Assassin Griffin
-28,Enchantment,Common,Lethargy
-29,Spell,Common,Lightning
-30,Spell,Rare,Forged Invisibility
-31,Enchantment,Common,Invert
-32,Spell,Rare,Cataclysmic Stun
-33,Creature,Rare,Light Lord Skin-Walker
-34,Enchantment,Common,Deathgrip
-35,Creature,Common,Orc
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Eagle
-38,Enchantment,Common,Haste
-39,Spell,Common,Ice
-40,Spell,Common,Rage
-41,Enchantment,Rare,Oblivion Alacrity
-42,Enchantment,Mythic,Intense Strength
-43,Artifact,Legendary,Intense Scepter
-44,Creature,Common,Ghoul
+==================,DECK,5554
+0,Enchantment,Blight
+1,Creature,Dark Knight Hydra
+2,Enchantment,Lethargy
+3,Creature,Dark Warrior Dwarf of the Swamp
+4,Enchantment,Agony
+5,Creature,Dark Fighter Kraken
+6,Artifact,Sorrow Tome
+7,Creature,Earth Priest Orc
+8,Creature,Magi
+9,Artifact,Dark Gloves
+10,Spell,Wall
+11,Artifact,Helmet
+12,Creature,Light Undead Griffin
+13,Spell,Hateful Vortex
+14,Creature,Earth Monk Cyclops
+15,Creature,Warlock
+16,Creature,Paladin
+17,Artifact,Frigid Gauntlet
+18,Enchantment,Lethargy
+19,Creature,Warlock
+20,Creature,Fairy
+21,Artifact,Potion
+22,Spell,Hypnosis
+23,Creature,Fairy
+24,Enchantment,Age
+25,Creature,Earth Monk Ogre of the West
+26,Creature,Aura Fighter Hydra
+27,Creature,Snow Assassin Griffin
+28,Enchantment,Shield
+29,Spell,Stun
+30,Spell,Dark Stun
+31,Enchantment,Agony
+32,Spell,Dark Fury
+33,Creature,Light Lord Orc
+34,Enchantment,Deathgrip
+35,Creature,Spider
+36,Enchantment,Agony
+37,Creature,Eagle
+38,Enchantment,Deathgrip
+39,Spell,Heal
+40,Spell,Fireball
+41,Enchantment,Apocalypse Drain
+42,Enchantment,Irate Solar Deathgrip
+43,Artifact,Potent Nature Scepter
+44,Creature,Ghoul

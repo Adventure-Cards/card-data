@@ -1,46 +1,46 @@
-==================,DECK,6938,Light
-0,Spell,Common,Freeze
-1,Artifact,Rare,Shimmering Pendant
-2,Enchantment,Common,Shade
-3,Creature,Common,Elf
-4,Creature,Common,Spider
-5,Enchantment,Common,Alacrity
-6,Enchantment,Common,Shade
-7,Creature,Common,Elf
-8,Spell,Common,Ice
-9,Enchantment,Common,Agony
-10,Spell,Common,Frenzy
-11,Enchantment,Mythic,Urgent Age
-12,Spell,Common,Ice
-13,Spell,Common,Revive
-14,Creature,Common,Orc
-15,Enchantment,Legendary,Intense Alacrity
-16,Creature,Common,Wolf
-17,Artifact,Common,Shield
-18,Artifact,Common,Helm
-19,Creature,Common,Goblin
-20,Creature,Common,Elf
-21,Creature,Legendary,Snow Rogue Kraken of the Eastern Skies
-22,Creature,Common,Goblin
-23,Creature,Legendary,Death Undead Oni of the Swamp
-24,Artifact,Rare,Gloom Scythe
-25,Creature,Common,Warlock
-26,Enchantment,Common,Shrink
-27,Creature,Rare,Dark Fighter Minotaur
-28,Spell,Common,Frenzy
-29,Artifact,Common,Belt
-30,Artifact,Common,Cloak
-31,Artifact,Common,Crown
-32,Spell,Rare,Oblivion Wall
-33,Spell,Legendary,Potent Sorrow
-34,Artifact,Common,Bow
-35,Creature,Common,Wolf
-36,Creature,Common,Ghoul
-37,Spell,Common,Infuriate
-38,Creature,Common,Orc
-39,Enchantment,Common,Shade
-40,Creature,Common,Spider
-41,Creature,Common,Paladin
-42,Creature,Common,Warlock
-43,Creature,Legendary,Frozen Lord Cyclops of the Bright Mountains
-44,Artifact,Legendary,Intense Ring
+==================,DECK,6938
+0,Spell,Invisibility
+1,Artifact,Nature Pendant
+2,Enchantment,Blight
+3,Creature,Warlock
+4,Creature,Paladin
+5,Enchantment,Alacrity
+6,Enchantment,Invert
+7,Creature,Warlock
+8,Spell,Fireball
+9,Enchantment,Lethargy
+10,Spell,Frenzy
+11,Enchantment,Potent Nature Strength
+12,Spell,Stun
+13,Spell,Invisibility
+14,Creature,Spider
+15,Enchantment,Urgent Forged Agony
+16,Creature,Wolf
+17,Artifact,Shield
+18,Artifact,Helm
+19,Creature,Skin-Walker
+20,Creature,Warlock
+21,Creature,Snow Rogue Ogre of the Eastern Skies
+22,Creature,Skin-Walker
+23,Creature,Death Undead Oni of the Swamp
+24,Artifact,Dark Scythe
+25,Creature,Berserker
+26,Enchantment,Firebreath
+27,Creature,Dark Fighter Cyclops
+28,Spell,Hypnosis
+29,Artifact,Belt
+30,Artifact,Cloak
+31,Artifact,Crown
+32,Spell,Life Assault
+33,Spell,Mighty Oblivion Fire
+34,Artifact,Bow
+35,Creature,Wolf
+36,Creature,Ghoul
+37,Spell,Fire
+38,Creature,Spider
+39,Enchantment,Blight
+40,Creature,Paladin
+41,Creature,Troll
+42,Creature,Berserker
+43,Creature,Frozen Lord Giant of the Bright Mountains
+44,Artifact,Ardent Solar Ring

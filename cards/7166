@@ -1,46 +1,46 @@
-==================,DECK,7166,Light
-0,Creature,Legendary,Dark Monk Cyclops of the Low Hills
-1,Enchantment,Common,Age
-2,Creature,Common,Magi
-3,Enchantment,Common,Strength
-4,Creature,Common,Eagle
-5,Creature,Common,Dwarf
-6,Spell,Common,Burn
-7,Enchantment,Common,Blight
-8,Creature,Common,Orc
-9,Spell,Common,Invisibility
-10,Spell,Rare,Life Burst
-11,Creature,Legendary,Dark King Giant of the Eternal Land
-12,Creature,Rare,Aura Priest Minotaur
-13,Spell,Rare,Dark Assault
-14,Creature,Common,Spider
-15,Creature,Common,Warlock
-16,Creature,Legendary,Snow Rogue Giant of the Black Stone
-17,Creature,Common,Spider
-18,Spell,Common,Torment
-19,Enchantment,Mythic,Dire Drain
-20,Enchantment,Mythic,Angry Strength
-21,Creature,Legendary,Light Fighter Giant of the Haven
-22,Artifact,Common,Sigil
-23,Spell,Common,Freeze
-24,Creature,Common,Warlock
-25,Spell,Rare,Apocalypse Gale
-26,Enchantment,Common,Lethargy
-27,Artifact,Rare,Necro Gauntlet
-28,Enchantment,Rare,Oblivion Strength
-29,Artifact,Common,Tome
-30,Enchantment,Common,Flight
-31,Creature,Common,Spider
-32,Creature,Common,Orc
-33,Creature,Common,Magi
-34,Creature,Legendary,Frozen Priest Giant of the Eternal Land
-35,Spell,Common,Reanimate
-36,Creature,Common,Magi
-37,Creature,Legendary,Death Priest Kraken of the Plains
-38,Enchantment,Common,Shrink
-39,Enchantment,Common,Agony
-40,Creature,Legendary,Earth Rogue Giant of the Golden Palace
-41,Spell,Common,Assault
-42,Enchantment,Common,Blight
-43,Creature,Rare,Light Priest Berserker
-44,Enchantment,Rare,Shimmering Shrink
+==================,DECK,7166
+0,Creature,Dark Monk Giant of the Low Hills
+1,Enchantment,Shield
+2,Creature,Fairy
+3,Enchantment,Lethargy
+4,Creature,Eagle
+5,Creature,Magi
+6,Spell,Burst
+7,Enchantment,Drain
+8,Creature,Spider
+9,Spell,Revive
+10,Spell,Apocalypse Heal
+11,Creature,Dark King Dwarf of the Eternal Land
+12,Creature,Aura Priest Cyclops
+13,Spell,Lunar Fire
+14,Creature,Paladin
+15,Creature,Berserker
+16,Creature,Snow Rogue Dwarf of the Black Stone
+17,Creature,Paladin
+18,Spell,Hypnosis
+19,Enchantment,Empyrean Apocalypse Shade
+20,Enchantment,Irate Cataclysmic Alacrity
+21,Creature,Light Fighter Dwarf of the Haven
+22,Artifact,Sigil
+23,Spell,Gravitation
+24,Creature,Berserker
+25,Spell,Oblivion Lightning
+26,Enchantment,Alacrity
+27,Artifact,Forged Gauntlet
+28,Enchantment,Nimble Drain
+29,Artifact,Tome
+30,Enchantment,Lethargy
+31,Creature,Paladin
+32,Creature,Spider
+33,Creature,Fairy
+34,Creature,Frozen Priest Dwarf of the Eternal Land
+35,Spell,Lightning
+36,Creature,Fairy
+37,Creature,Death Priest Ogre of the Plains
+38,Enchantment,Haste
+39,Enchantment,Haste
+40,Creature,Earth Rogue Dwarf of the Golden Palace
+41,Spell,Sorrow
+42,Enchantment,Drain
+43,Creature,Light Priest Goblin
+44,Enchantment,Necro Strength

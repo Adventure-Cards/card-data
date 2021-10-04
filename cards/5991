@@ -1,46 +1,46 @@
-==================,DECK,5991,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Burn
-2,Creature,Common,Elf
-3,Creature,Common,Wolf
-4,Spell,Rare,Shimmering Sorrow
-5,Spell,Common,Stricken
-6,Enchantment,Rare,Corpse Alacrity
-7,Creature,Common,Paladin
-8,Creature,Common,Paladin
-9,Enchantment,Common,Shield
-10,Creature,Common,Orc
-11,Artifact,Common,Bracers
-12,Enchantment,Rare,Cataclysmic Blight
-13,Enchantment,Common,Flight
-14,Spell,Common,Vortex
-15,Creature,Mythic,Light Grand Demon of the Sky
-16,Spell,Legendary,Urgent Frost
-17,Enchantment,Common,Alacrity
-18,Artifact,Rare,Nature Potion
-19,Creature,Rare,Death Knight Minotaur
-20,Spell,Common,Burst
-21,Enchantment,Common,Strength
-22,Artifact,Common,Helmet
-23,Creature,Common,Ghoul
-24,Creature,Common,Spider
-25,Enchantment,Legendary,Extreme Shrink
-26,Creature,Common,Ghoul
-27,Spell,Common,Revive
-28,Creature,Rare,Death Priest Griffin
-29,Enchantment,Common,Flight
-30,Spell,Rare,Hateful Stricken
-31,Enchantment,Common,Agony
-32,Creature,Rare,Frozen Knight Fairy
-33,Creature,Common,Goblin
-34,Spell,Common,Burst
-35,Artifact,Common,Crown
-36,Enchantment,Mythic,Angry Agony
-37,Creature,Rare,Frozen Queen Hydra
-38,Enchantment,Rare,Apocalypse Drain
-39,Creature,Common,Elf
-40,Creature,Common,Warlock
-41,Enchantment,Common,Age
-42,Spell,Rare,Gloom Rage
-43,Creature,Common,Dwarf
-44,Creature,Rare,Frozen Queen Hydra
+==================,DECK,5991
+0,Creature,Ghoul
+1,Spell,Wall
+2,Creature,Warlock
+3,Creature,Wolf
+4,Spell,Corpse Freeze
+5,Spell,Assault
+6,Enchantment,Forged Deathgrip
+7,Creature,Troll
+8,Creature,Troll
+9,Enchantment,Lethargy
+10,Creature,Spider
+11,Artifact,Bracers
+12,Enchantment,Cataclysmic Flight
+13,Enchantment,Shield
+14,Spell,Tempest
+15,Creature,Light Grand Demon of the Sky
+16,Spell,Urgent Necro Rage
+17,Enchantment,Shade
+18,Artifact,Forged Potion
+19,Creature,Death Knight Cyclops
+20,Spell,Wall
+21,Enchantment,Alacrity
+22,Artifact,Helmet
+23,Creature,Ghoul
+24,Creature,Paladin
+25,Enchantment,Empyrean Chimeric Firebreath
+26,Creature,Ghoul
+27,Spell,Stun
+28,Creature,Death Priest Griffin
+29,Enchantment,Shade
+30,Spell,Gloom Freeze
+31,Enchantment,Invert
+32,Creature,Frozen Knight Kraken
+33,Creature,Skin-Walker
+34,Spell,Hypnosis
+35,Artifact,Crown
+36,Enchantment,Dire Miracle Firebreath
+37,Creature,Frozen Queen Hydra
+38,Enchantment,Apocalypse Invert
+39,Creature,Warlock
+40,Creature,Berserker
+41,Enchantment,Flight
+42,Spell,Chimeric Stricken
+43,Creature,Magi
+44,Creature,Frozen Queen Hydra

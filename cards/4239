@@ -1,46 +1,46 @@
-==================,DECK,4239,Light
-0,Creature,Rare,Frozen Priest Berserker
-1,Enchantment,Common,Blight
-2,Artifact,Rare,Frigid Crown
-3,Enchantment,Common,Lethargy
-4,Spell,Legendary,Urgent Stun
-5,Creature,Common,Paladin
-6,Enchantment,Common,Invert
-7,Enchantment,Common,Strength
-8,Artifact,Legendary,Urgent Staff
-9,Spell,Common,Stun
-10,Creature,Rare,Death Merchant Fairy
-11,Enchantment,Common,Age
-12,Artifact,Legendary,Clever Sword
-13,Creature,Mythic,Frozen Chaos Wizard of the Void
-14,Creature,Common,Wolf
-15,Creature,Common,Ghoul
-16,Creature,Common,Magi
-17,Spell,Common,Torment
-18,Creature,Common,Orc
-19,Creature,Rare,Light Fighter Hydra
-20,Spell,Common,Fury
-21,Creature,Common,Eagle
-22,Creature,Common,Goblin
-23,Creature,Mythic,Earth Nameless Dragon of the Shadows
-24,Spell,Legendary,Instant Lightning
-25,Creature,Common,Orc
-26,Creature,Common,Elf
-27,Spell,Rare,Nature Sorrow
-28,Creature,Common,Ghoul
-29,Creature,Common,Goblin
-30,Creature,Rare,Dark Warrior Skin-Walker
-31,Spell,Common,Rage
-32,Creature,Common,Elf
-33,Creature,Common,Goblin
-34,Creature,Common,Magi
-35,Spell,Common,Frenzy
-36,Creature,Rare,Light Rogue Fairy
-37,Creature,Rare,Earth Rogue Griffin
-38,Artifact,Common,Shield
-39,Creature,Common,Eagle
-40,Creature,Common,Ghoul
-41,Creature,Common,Orc
-42,Enchantment,Common,Invert
-43,Creature,Common,Dwarf
-44,Creature,Rare,Dark Thief Skin-Walker
+==================,DECK,4239
+0,Creature,Frozen Priest Goblin
+1,Enchantment,Drain
+2,Artifact,Frigid Crown
+3,Enchantment,Haste
+4,Spell,Zealous Necro Gravitation
+5,Creature,Troll
+6,Enchantment,Shade
+7,Enchantment,Invert
+8,Artifact,Irate Corpse Staff
+9,Spell,Reanimate
+10,Creature,Death Merchant Kraken
+11,Enchantment,Drain
+12,Artifact,Potent Frigid Sword
+13,Creature,Frozen Chaos Wizard of the Void
+14,Creature,Wolf
+15,Creature,Ghoul
+16,Creature,Fairy
+17,Spell,Lightning
+18,Creature,Spider
+19,Creature,Light Fighter Hydra
+20,Spell,Stun
+21,Creature,Eagle
+22,Creature,Skin-Walker
+23,Creature,Earth Nameless Dragon of the Shadows
+24,Spell,Dire Necro Freeze
+25,Creature,Spider
+26,Creature,Warlock
+27,Spell,Hateful Stricken
+28,Creature,Ghoul
+29,Creature,Skin-Walker
+30,Creature,Dark Warrior Orc
+31,Spell,Pandemonium
+32,Creature,Warlock
+33,Creature,Skin-Walker
+34,Creature,Fairy
+35,Spell,Heal
+36,Creature,Light Rogue Kraken
+37,Creature,Earth Rogue Griffin
+38,Artifact,Shield
+39,Creature,Eagle
+40,Creature,Ghoul
+41,Creature,Spider
+42,Enchantment,Invert
+43,Creature,Magi
+44,Creature,Dark Thief Orc

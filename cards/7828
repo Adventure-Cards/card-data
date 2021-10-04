@@ -1,46 +1,46 @@
-==================,DECK,7828,Light
-0,Creature,Common,Ghoul
-1,Artifact,Common,Helmet
-2,Creature,Rare,Light Fighter Griffin
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Agony
-5,Creature,Common,Dwarf
-6,Spell,Common,Torment
-7,Artifact,Common,Pendant
-8,Enchantment,Rare,Frigid Lethargy
-9,Artifact,Common,Bow
-10,Enchantment,Common,Deathgrip
-11,Creature,Mythic,Aura Time Phoenix of the Light
-12,Enchantment,Rare,Shimmering Deathgrip
-13,Spell,Common,Freeze
-14,Creature,Rare,Light Queen Skin-Walker
-15,Enchantment,Mythic,Extreme Drain
-16,Creature,Common,Spider
-17,Creature,Common,Paladin
-18,Creature,Common,Paladin
-19,Enchantment,Legendary,Intense Age
-20,Creature,Common,Paladin
-21,Creature,Legendary,Dark Monk Kraken of the Plains
-22,Creature,Common,Spider
-23,Creature,Legendary,Earth Undead Oni of the West
-24,Creature,Common,Wolf
-25,Artifact,Common,Belt
-26,Spell,Common,Reanimate
-27,Creature,Common,Paladin
-28,Enchantment,Common,Shield
-29,Creature,Common,Magi
-30,Spell,Common,Lightning
-31,Artifact,Common,Gloves
-32,Creature,Rare,Snow Priest Minotaur
-33,Creature,Common,Eagle
-34,Spell,Common,Invisibility
-35,Spell,Rare,Apocalypse Maelstrom
-36,Enchantment,Common,Agony
-37,Creature,Rare,Light Assassin Skin-Walker
-38,Spell,Legendary,Urgent Torment
-39,Artifact,Legendary,Urgent Gauntlet
-40,Creature,Legendary,Light Priest Giant of the Eternal Land
-41,Spell,Common,Sorrow
-42,Creature,Common,Dwarf
-43,Artifact,Rare,Grim Greaves
-44,Creature,Common,Paladin
+==================,DECK,7828
+0,Creature,Ghoul
+1,Artifact,Helmet
+2,Creature,Light Fighter Griffin
+3,Enchantment,Blight
+4,Enchantment,Deathgrip
+5,Creature,Magi
+6,Spell,Vortex
+7,Artifact,Pendant
+8,Enchantment,Grim Haste
+9,Artifact,Bow
+10,Enchantment,Age
+11,Creature,Aura Time Phoenix of the Light
+12,Enchantment,Shimmering Strength
+13,Spell,Assault
+14,Creature,Light Queen Orc
+15,Enchantment,Clever Dark Shield
+16,Creature,Paladin
+17,Creature,Troll
+18,Creature,Troll
+19,Enchantment,Zealous Nature Deathgrip
+20,Creature,Troll
+21,Creature,Dark Monk Ogre of the Plains
+22,Creature,Paladin
+23,Creature,Earth Undead Oni of the West
+24,Creature,Wolf
+25,Artifact,Belt
+26,Spell,Reanimate
+27,Creature,Troll
+28,Enchantment,Flight
+29,Creature,Fairy
+30,Spell,Freeze
+31,Artifact,Gloves
+32,Creature,Snow Priest Cyclops
+33,Creature,Eagle
+34,Spell,Assault
+35,Spell,Victory Burn
+36,Enchantment,Shrink
+37,Creature,Light Assassin Orc
+38,Spell,Dire Solar Infuriate
+39,Artifact,Ardent Forged Gauntlet
+40,Creature,Light Priest Dwarf of the Eternal Land
+41,Spell,Invisibility
+42,Creature,Magi
+43,Artifact,Victory Greaves
+44,Creature,Troll

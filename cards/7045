@@ -1,46 +1,46 @@
-==================,DECK,7045,Medium
-0,Creature,Legendary,Frozen Lord Orge of the Frozen Castle
-1,Enchantment,Common,Invert
-2,Creature,Common,Warlock
-3,Creature,Rare,Death Merchant Berserker
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Goblin
-6,Spell,Rare,Miracle Fury
-7,Creature,Common,Dwarf
-8,Artifact,Common,Bow
-9,Creature,Rare,Light Merchant Skin-Walker
-10,Spell,Common,Pandemonium
-11,Creature,Common,Dwarf
-12,Creature,Common,Goblin
-13,Enchantment,Rare,Hateful Shrink
-14,Creature,Legendary,Dark King Giant of the Polar Woods
-15,Enchantment,Mythic,Potent Shrink
-16,Creature,Legendary,Aura Fighter Oni of the Golden Palace
-17,Creature,Common,Paladin
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Blight
-20,Enchantment,Mythic,Urgent Strength
-21,Artifact,Rare,Forged Bow
-22,Spell,Legendary,Instant Assault
-23,Creature,Rare,Aura Merchant Hydra
-24,Spell,Common,Pandemonium
-25,Creature,Mythic,Light Ancient Demon of the Sky
-26,Spell,Common,Hypnosis
-27,Creature,Common,Spider
-28,Artifact,Common,Boots
-29,Enchantment,Common,Deathgrip
-30,Creature,Mythic,Aura Ancient Wizard of the Light
-31,Spell,Common,Gravitation
-32,Spell,Rare,Life Pandemonium
-33,Creature,Common,Ghoul
-34,Creature,Rare,Snow Thief Griffin
-35,Spell,Rare,Apocalypse Infuriate
-36,Creature,Common,Goblin
-37,Artifact,Rare,Cataclysmic Ghost Wand
-38,Enchantment,Legendary,Extreme Agony
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Elf
-41,Creature,Legendary,Snow Fighter Giant of the Mountains
-42,Artifact,Rare,Grim Potion
-43,Spell,Common,Stun
-44,Creature,Legendary,Aura Priest Oni of the Arctic Blizzards
+==================,DECK,7045
+0,Creature,Frozen Lord Elf of the Frozen Castle
+1,Enchantment,Age
+2,Creature,Berserker
+3,Creature,Death Merchant Goblin
+4,Enchantment,Drain
+5,Creature,Skin-Walker
+6,Spell,Life Invisibility
+7,Creature,Magi
+8,Artifact,Bow
+9,Creature,Light Merchant Orc
+10,Spell,Invisibility
+11,Creature,Magi
+12,Creature,Skin-Walker
+13,Enchantment,Chimeric Firebreath
+14,Creature,Dark King Dwarf of the Polar Woods
+15,Enchantment,Potent Frigid Drain
+16,Creature,Aura Fighter Oni of the Golden Palace
+17,Creature,Troll
+18,Creature,Magi
+19,Enchantment,Blight
+20,Enchantment,Urgent Solar Agony
+21,Artifact,Sorrow Bow
+22,Spell,Instant Shimmering Burn
+23,Creature,Aura Merchant Hydra
+24,Spell,Fury
+25,Creature,Light Ancient Demon of the Sky
+26,Spell,Frost
+27,Creature,Paladin
+28,Artifact,Boots
+29,Enchantment,Flight
+30,Creature,Aura Ancient Wizard of the Light
+31,Spell,Frost
+32,Spell,Oblivion Invisibility
+33,Creature,Ghoul
+34,Creature,Snow Thief Griffin
+35,Spell,Grim Fury
+36,Creature,Skin-Walker
+37,Artifact,Dark Ghost Wand
+38,Enchantment,Instant Miracle Shrink
+39,Enchantment,Age
+40,Creature,Warlock
+41,Creature,Snow Fighter Dwarf of the Mountains
+42,Artifact,Life Potion
+43,Spell,Lightning
+44,Creature,Aura Priest Oni of the Arctic Blizzards

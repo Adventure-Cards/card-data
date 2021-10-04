@@ -1,46 +1,46 @@
-==================,DECK,7801,Light
-0,Spell,Common,Pandemonium
-1,Enchantment,Common,Invert
-2,Creature,Rare,Light Monk Skin-Walker
-3,Spell,Rare,Apocalypse Gale
-4,Creature,Common,Eagle
-5,Creature,Common,Dwarf
-6,Creature,Rare,Light Lord Skin-Walker
-7,Creature,Common,Wolf
-8,Creature,Common,Goblin
-9,Creature,Common,Warlock
-10,Spell,Common,Burst
-11,Creature,Common,Wolf
-12,Creature,Common,Goblin
-13,Creature,Common,Orc
-14,Enchantment,Common,Shade
-15,Enchantment,Mythic,Dire Alacrity
-16,Creature,Common,Orc
-17,Creature,Rare,Death King Berserker
-18,Spell,Common,Vortex
-19,Creature,Common,Dwarf
-20,Enchantment,Rare,Cataclysmic Deathgrip
-21,Creature,Common,Elf
-22,Spell,Common,Vortex
-23,Spell,Rare,Frigid Frost
-24,Enchantment,Common,Flight
-25,Creature,Legendary,Aura Warrior Kraken of the Black Stone
-26,Enchantment,Rare,Hateful Flight
-27,Creature,Rare,Earth Rogue Fairy
-28,Enchantment,Common,Strength
-29,Creature,Common,Warlock
-30,Creature,Common,Magi
-31,Spell,Common,Maelstrom
-32,Creature,Rare,Dark Rogue Minotaur
-33,Creature,Common,Paladin
-34,Enchantment,Common,Shield
-35,Creature,Common,Magi
-36,Enchantment,Common,Flight
-37,Creature,Common,Wolf
-38,Creature,Rare,Frozen Assassin Fairy
-39,Artifact,Legendary,Instant Crown
-40,Creature,Rare,Aura Lord Skin-Walker
-41,Creature,Common,Orc
-42,Enchantment,Common,Haste
-43,Enchantment,Common,Invert
-44,Creature,Common,Elf
+==================,DECK,7801
+0,Spell,Ice
+1,Enchantment,Shrink
+2,Creature,Light Monk Orc
+3,Spell,Grim Torment
+4,Creature,Eagle
+5,Creature,Magi
+6,Creature,Light Lord Orc
+7,Creature,Wolf
+8,Creature,Skin-Walker
+9,Creature,Berserker
+10,Spell,Burn
+11,Creature,Wolf
+12,Creature,Skin-Walker
+13,Creature,Spider
+14,Enchantment,Drain
+15,Enchantment,Urgent Apocalypse Invert
+16,Creature,Spider
+17,Creature,Death King Goblin
+18,Spell,Stricken
+19,Creature,Magi
+20,Enchantment,Sorrow Shrink
+21,Creature,Warlock
+22,Spell,Revive
+23,Spell,Grim Infuriate
+24,Enchantment,Agony
+25,Creature,Aura Warrior Ogre of the Black Stone
+26,Enchantment,Lunar Firebreath
+27,Creature,Earth Rogue Kraken
+28,Enchantment,Deathgrip
+29,Creature,Berserker
+30,Creature,Fairy
+31,Spell,Tempest
+32,Creature,Dark Rogue Cyclops
+33,Creature,Troll
+34,Enchantment,Blight
+35,Creature,Fairy
+36,Enchantment,Blight
+37,Creature,Wolf
+38,Creature,Frozen Assassin Kraken
+39,Artifact,Irate Hateful Crown
+40,Creature,Aura Lord Orc
+41,Creature,Spider
+42,Enchantment,Flight
+43,Enchantment,Alacrity
+44,Creature,Warlock

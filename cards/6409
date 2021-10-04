@@ -1,46 +1,46 @@
-==================,DECK,6409,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Ghoul
-2,Creature,Rare,Dark Priest Berserker
-3,Creature,Common,Paladin
-4,Artifact,Common,Scepter
-5,Enchantment,Common,Age
-6,Artifact,Legendary,Instant Gloves
-7,Creature,Rare,Aura Knight Griffin
-8,Enchantment,Common,Shade
-9,Creature,Common,Spider
-10,Creature,Common,Warlock
-11,Enchantment,Common,Lethargy
-12,Creature,Common,Spider
-13,Enchantment,Common,Deathgrip
-14,Creature,Common,Orc
-15,Enchantment,Common,Shade
-16,Artifact,Rare,Forged Scythe
-17,Spell,Legendary,Intense Sorrow
-18,Creature,Common,Eagle
-19,Creature,Common,Paladin
-20,Creature,Legendary,Snow Queen Orge of the Swamp
-21,Creature,Common,Wolf
-22,Creature,Common,Elf
-23,Spell,Common,Invisibility
-24,Enchantment,Common,Drain
-25,Creature,Common,Paladin
-26,Creature,Common,Elf
-27,Spell,Common,Gale
-28,Creature,Common,Wolf
-29,Enchantment,Mythic,Angry Age
-30,Creature,Common,Orc
-31,Creature,Common,Ghoul
-32,Artifact,Common,Gauntlet
-33,Spell,Common,Reanimate
-34,Enchantment,Common,Age
-35,Creature,Common,Eagle
-36,Creature,Rare,Death Priest Hydra
-37,Creature,Common,Wolf
-38,Enchantment,Common,Shield
-39,Enchantment,Common,Age
-40,Enchantment,Common,Flight
-41,Artifact,Legendary,Instant Sigil
-42,Enchantment,Rare,Miracle Drain
-43,Creature,Legendary,Aura Assassin Orge of the Mountains
-44,Spell,Common,Gravitation
+==================,DECK,6409
+0,Creature,Skin-Walker
+1,Creature,Ghoul
+2,Creature,Dark Priest Goblin
+3,Creature,Troll
+4,Artifact,Scepter
+5,Enchantment,Shade
+6,Artifact,Instant Nature Gloves
+7,Creature,Aura Knight Griffin
+8,Enchantment,Age
+9,Creature,Paladin
+10,Creature,Berserker
+11,Enchantment,Agony
+12,Creature,Paladin
+13,Enchantment,Invert
+14,Creature,Spider
+15,Enchantment,Alacrity
+16,Artifact,Sorrow Scythe
+17,Spell,Clever Shimmering Revive
+18,Creature,Eagle
+19,Creature,Troll
+20,Creature,Snow Queen Elf of the Swamp
+21,Creature,Wolf
+22,Creature,Warlock
+23,Spell,Frost
+24,Enchantment,Firebreath
+25,Creature,Troll
+26,Creature,Warlock
+27,Spell,Gale
+28,Creature,Wolf
+29,Enchantment,Zealous Gloom Alacrity
+30,Creature,Spider
+31,Creature,Ghoul
+32,Artifact,Gauntlet
+33,Spell,Fireball
+34,Enchantment,Strength
+35,Creature,Eagle
+36,Creature,Death Priest Hydra
+37,Creature,Wolf
+38,Enchantment,Deathgrip
+39,Enchantment,Strength
+40,Enchantment,Deathgrip
+41,Artifact,Urgent Nature Sigil
+42,Enchantment,Apocalypse Shade
+43,Creature,Aura Assassin Elf of the Mountains
+44,Spell,Heal

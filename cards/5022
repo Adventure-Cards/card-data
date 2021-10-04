@@ -1,46 +1,46 @@
-==================,DECK,5022,Light
-0,Enchantment,Common,Invert
-1,Artifact,Common,Ghost Wand
-2,Creature,Common,Wolf
-3,Creature,Common,Paladin
-4,Creature,Rare,Aura Knight Berserker
-5,Creature,Legendary,Death Priest Oni of the Swamp
-6,Creature,Mythic,Snow Ancient Demon of Hate
-7,Creature,Legendary,Frozen Warrior Giant of the Frozen Castle
-8,Enchantment,Rare,Frigid Agony
-9,Creature,Common,Dwarf
-10,Creature,Common,Orc
-11,Enchantment,Common,Drain
-12,Creature,Legendary,Dark Priest Cyclops of the Eastern Skies
-13,Enchantment,Common,Shrink
-14,Creature,Common,Warlock
-15,Artifact,Rare,Necro Ring
-16,Artifact,Common,Tome
-17,Artifact,Legendary,Intense Divine Robe
-18,Spell,Common,Frenzy
-19,Creature,Rare,Earth Monk Griffin
-20,Creature,Rare,Snow Knight Hydra
-21,Artifact,Rare,Forged Shield
-22,Creature,Common,Ghoul
-23,Spell,Common,Sorrow
-24,Creature,Common,Paladin
-25,Creature,Rare,Death Knight Minotaur
-26,Enchantment,Rare,Dark Shade
-27,Enchantment,Common,Lethargy
-28,Creature,Common,Elf
-29,Creature,Common,Warlock
-30,Creature,Common,Warlock
-31,Creature,Common,Orc
-32,Creature,Common,Orc
-33,Creature,Common,Paladin
-34,Creature,Common,Paladin
-35,Spell,Rare,Necro Gale
-36,Enchantment,Rare,Nature Age
-37,Spell,Rare,Apocalypse Reanimate
-38,Creature,Mythic,Frozen Ancient Wizard of the Void
-39,Artifact,Common,Crown
-40,Creature,Common,Spider
-41,Creature,Common,Orc
-42,Spell,Common,Assault
-43,Spell,Common,Ice
-44,Enchantment,Common,Blight
+==================,DECK,5022
+0,Enchantment,Shield
+1,Artifact,Ghost Wand
+2,Creature,Wolf
+3,Creature,Troll
+4,Creature,Aura Knight Goblin
+5,Creature,Death Priest Oni of the Swamp
+6,Creature,Snow Ancient Demon of Hate
+7,Creature,Frozen Warrior Dwarf of the Frozen Castle
+8,Enchantment,Life Blight
+9,Creature,Magi
+10,Creature,Spider
+11,Enchantment,Blight
+12,Creature,Dark Priest Giant of the Eastern Skies
+13,Enchantment,Deathgrip
+14,Creature,Berserker
+15,Artifact,Solar Ring
+16,Artifact,Tome
+17,Artifact,Instant Nature Divine Robe
+18,Spell,Ice
+19,Creature,Earth Monk Griffin
+20,Creature,Snow Knight Hydra
+21,Artifact,Chimeric Shield
+22,Creature,Ghoul
+23,Spell,Assault
+24,Creature,Troll
+25,Creature,Death Knight Cyclops
+26,Enchantment,Chimeric Shield
+27,Enchantment,Alacrity
+28,Creature,Warlock
+29,Creature,Berserker
+30,Creature,Berserker
+31,Creature,Spider
+32,Creature,Spider
+33,Creature,Troll
+34,Creature,Troll
+35,Spell,Nature Wall
+36,Enchantment,Nature Strength
+37,Spell,Victory Maelstrom
+38,Creature,Frozen Ancient Wizard of the Void
+39,Artifact,Crown
+40,Creature,Paladin
+41,Creature,Spider
+42,Spell,Gravitation
+43,Spell,Gale
+44,Enchantment,Shade

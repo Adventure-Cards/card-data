@@ -1,46 +1,46 @@
-==================,DECK,4277,Light
-0,Creature,Common,Elf
-1,Creature,Legendary,Earth King Cyclops of the Low Hills
-2,Creature,Common,Wolf
-3,Enchantment,Common,Shade
-4,Enchantment,Mythic,Potent Lethargy
-5,Enchantment,Mythic,Dire Alacrity
-6,Creature,Legendary,Aura Rogue Oni of the Magical Forest
-7,Creature,Common,Warlock
-8,Creature,Common,Dwarf
-9,Creature,Common,Elf
-10,Enchantment,Common,Blight
-11,Creature,Common,Ghoul
-12,Creature,Rare,Aura King Hydra
-13,Spell,Common,Gale
-14,Creature,Common,Elf
-15,Spell,Common,Reanimate
-16,Spell,Common,Freeze
-17,Spell,Rare,Shimmering Ice
-18,Spell,Common,Infuriate
-19,Spell,Common,Assault
-20,Creature,Rare,Light Priest Berserker
-21,Creature,Common,Ghoul
-22,Spell,Common,Wall
-23,Spell,Legendary,Mighty Hypnosis
-24,Creature,Common,Dwarf
-25,Artifact,Common,Sword
-26,Creature,Common,Orc
-27,Creature,Common,Orc
-28,Creature,Common,Eagle
-29,Creature,Common,Warlock
-30,Artifact,Common,Bracers
-31,Creature,Common,Spider
-32,Creature,Common,Warlock
-33,Creature,Common,Orc
-34,Creature,Common,Wolf
-35,Creature,Common,Goblin
-36,Enchantment,Rare,Dark Invert
-37,Creature,Rare,Dark Priest Skin-Walker
-38,Creature,Rare,Frozen Assassin Fairy
-39,Enchantment,Legendary,Mighty Strength
-40,Creature,Common,Magi
-41,Enchantment,Common,Shield
-42,Enchantment,Common,Flight
-43,Creature,Common,Goblin
-44,Creature,Common,Elf
+==================,DECK,4277
+0,Creature,Warlock
+1,Creature,Earth King Giant of the Low Hills
+2,Creature,Wolf
+3,Enchantment,Age
+4,Enchantment,Dire Grim Shade
+5,Enchantment,Instant Apocalypse Drain
+6,Creature,Aura Rogue Oni of the Magical Forest
+7,Creature,Berserker
+8,Creature,Magi
+9,Creature,Warlock
+10,Enchantment,Deathgrip
+11,Creature,Ghoul
+12,Creature,Aura King Hydra
+13,Spell,Sorrow
+14,Creature,Warlock
+15,Spell,Ice
+16,Spell,Wall
+17,Spell,Corpse Tempest
+18,Spell,Pandemonium
+19,Spell,Invisibility
+20,Creature,Light Priest Goblin
+21,Creature,Ghoul
+22,Spell,Torment
+23,Spell,Potent Sorrow Gale
+24,Creature,Magi
+25,Artifact,Sword
+26,Creature,Spider
+27,Creature,Spider
+28,Creature,Eagle
+29,Creature,Berserker
+30,Artifact,Bracers
+31,Creature,Paladin
+32,Creature,Berserker
+33,Creature,Spider
+34,Creature,Wolf
+35,Creature,Skin-Walker
+36,Enchantment,Sorrow Flight
+37,Creature,Dark Priest Orc
+38,Creature,Frozen Assassin Kraken
+39,Enchantment,Ardent Cataclysmic Shield
+40,Creature,Fairy
+41,Enchantment,Haste
+42,Enchantment,Age
+43,Creature,Skin-Walker
+44,Creature,Warlock

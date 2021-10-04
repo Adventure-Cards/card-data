@@ -1,46 +1,46 @@
-==================,DECK,4173,Medium
-0,Artifact,Common,Sword
-1,Enchantment,Common,Shield
-2,Creature,Rare,Snow Queen Hydra
-3,Enchantment,Common,Age
-4,Artifact,Rare,Nature Ring
-5,Creature,Mythic,Snow Undead Phoenix of Hate
-6,Spell,Common,Torment
-7,Spell,Rare,Cataclysmic Ice
-8,Creature,Rare,Light Knight Minotaur
-9,Creature,Rare,Death King Hydra
-10,Creature,Common,Goblin
-11,Creature,Common,Dwarf
-12,Creature,Common,Elf
-13,Artifact,Rare,Solar Bracers
-14,Enchantment,Common,Shrink
-15,Creature,Common,Elf
-16,Enchantment,Common,Invert
-17,Enchantment,Rare,Oblivion Strength
-18,Enchantment,Common,Deathgrip
-19,Spell,Common,Maelstrom
-20,Enchantment,Common,Blight
-21,Enchantment,Mythic,Extreme Alacrity
-22,Enchantment,Legendary,Instant Lethargy
-23,Enchantment,Common,Shrink
-24,Spell,Common,Pandemonium
-25,Spell,Common,Gale
-26,Enchantment,Rare,Forged Invert
-27,Spell,Common,Vortex
-28,Creature,Common,Dwarf
-29,Creature,Common,Warlock
-30,Spell,Common,Gravitation
-31,Artifact,Common,Gloves
-32,Enchantment,Rare,Life Flight
-33,Creature,Common,Goblin
-34,Creature,Rare,Snow Priest Minotaur
-35,Creature,Common,Spider
-36,Creature,Common,Elf
-37,Artifact,Rare,Cataclysmic Boots
-38,Creature,Common,Goblin
-39,Creature,Legendary,Frozen Monk Giant of the Swamp
-40,Creature,Common,Warlock
-41,Creature,Common,Magi
-42,Enchantment,Common,Alacrity
-43,Spell,Common,Invisibility
-44,Creature,Legendary,Aura Priest Giant of the Border
+==================,DECK,4173
+0,Artifact,Sword
+1,Enchantment,Alacrity
+2,Creature,Snow Queen Hydra
+3,Enchantment,Age
+4,Artifact,Solar Ring
+5,Creature,Snow Undead Phoenix of Hate
+6,Spell,Ice
+7,Spell,Dark Fire
+8,Creature,Light Knight Cyclops
+9,Creature,Death King Hydra
+10,Creature,Skin-Walker
+11,Creature,Magi
+12,Creature,Warlock
+13,Artifact,Necro Bracers
+14,Enchantment,Shield
+15,Creature,Warlock
+16,Enchantment,Shrink
+17,Enchantment,Nimble Invert
+18,Enchantment,Deathgrip
+19,Spell,Lightning
+20,Enchantment,Flight
+21,Enchantment,Ardent Dark Shield
+22,Enchantment,Irate Hateful Deathgrip
+23,Enchantment,Lethargy
+24,Spell,Torment
+25,Spell,Frost
+26,Enchantment,Sorrow Shield
+27,Spell,Hypnosis
+28,Creature,Magi
+29,Creature,Berserker
+30,Spell,Heal
+31,Artifact,Gloves
+32,Enchantment,Grim Haste
+33,Creature,Skin-Walker
+34,Creature,Snow Priest Cyclops
+35,Creature,Paladin
+36,Creature,Warlock
+37,Artifact,Gloom Boots
+38,Creature,Skin-Walker
+39,Creature,Frozen Monk Dwarf of the Swamp
+40,Creature,Berserker
+41,Creature,Fairy
+42,Enchantment,Shrink
+43,Spell,Tempest
+44,Creature,Aura Priest Dwarf of the Border

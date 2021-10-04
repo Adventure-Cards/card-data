@@ -1,46 +1,46 @@
-==================,DECK,5054,Light
-0,Spell,Common,Reanimate
-1,Enchantment,Common,Haste
-2,Enchantment,Common,Shade
-3,Creature,Common,Magi
-4,Spell,Common,Burst
-5,Creature,Common,Ghoul
-6,Artifact,Common,Boots
-7,Creature,Common,Orc
-8,Spell,Common,Stun
-9,Enchantment,Common,Shield
-10,Creature,Legendary,Death Assassin Cyclops of the Frozen Castle
-11,Spell,Common,Wall
-12,Creature,Common,Wolf
-13,Artifact,Rare,Solar Pendant
-14,Enchantment,Common,Invert
-15,Creature,Common,Warlock
-16,Spell,Common,Vortex
-17,Creature,Rare,Dark Knight Berserker
-18,Spell,Common,Wall
-19,Creature,Common,Elf
-20,Enchantment,Common,Strength
-21,Spell,Common,Ice
-22,Artifact,Common,Sigil
-23,Creature,Common,Elf
-24,Artifact,Common,Ring
-25,Enchantment,Mythic,Mighty Deathgrip
-26,Enchantment,Common,Alacrity
-27,Creature,Common,Eagle
-28,Creature,Mythic,Aura Time Phoenix of the Light
-29,Spell,Common,Torment
-30,Spell,Common,Torment
-31,Creature,Common,Wolf
-32,Creature,Common,Goblin
-33,Enchantment,Common,Blight
-34,Creature,Common,Ghoul
-35,Creature,Common,Goblin
-36,Enchantment,Common,Flight
-37,Artifact,Rare,Lunar Staff
-38,Spell,Common,Reanimate
-39,Creature,Legendary,Snow Queen Orge of the Border
-40,Creature,Common,Paladin
-41,Enchantment,Legendary,Extreme Haste
-42,Spell,Legendary,Mighty Burst
-43,Creature,Rare,Aura Warrior Minotaur
-44,Artifact,Common,Pendant
+==================,DECK,5054
+0,Spell,Revive
+1,Enchantment,Agony
+2,Enchantment,Drain
+3,Creature,Fairy
+4,Spell,Invisibility
+5,Creature,Ghoul
+6,Artifact,Boots
+7,Creature,Spider
+8,Spell,Frenzy
+9,Enchantment,Lethargy
+10,Creature,Death Assassin Giant of the Frozen Castle
+11,Spell,Lightning
+12,Creature,Wolf
+13,Artifact,Forged Pendant
+14,Enchantment,Flight
+15,Creature,Berserker
+16,Spell,Gale
+17,Creature,Dark Knight Goblin
+18,Spell,Gale
+19,Creature,Warlock
+20,Enchantment,Shrink
+21,Spell,Fire
+22,Artifact,Sigil
+23,Creature,Warlock
+24,Artifact,Ring
+25,Enchantment,Zealous Sorrow Alacrity
+26,Enchantment,Shrink
+27,Creature,Eagle
+28,Creature,Aura Time Phoenix of the Light
+29,Spell,Invisibility
+30,Spell,Pandemonium
+31,Creature,Wolf
+32,Creature,Skin-Walker
+33,Enchantment,Shield
+34,Creature,Ghoul
+35,Creature,Skin-Walker
+36,Enchantment,Strength
+37,Artifact,Chimeric Staff
+38,Spell,Vortex
+39,Creature,Snow Queen Elf of the Border
+40,Creature,Troll
+41,Enchantment,Potent Miracle Shrink
+42,Spell,Potent Gloom Stricken
+43,Creature,Aura Warrior Cyclops
+44,Artifact,Pendant

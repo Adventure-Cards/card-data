@@ -1,46 +1,46 @@
-==================,DECK,5762,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Elf
-2,Enchantment,Common,Shield
-3,Creature,Common,Spider
-4,Enchantment,Common,Alacrity
-5,Creature,Common,Paladin
-6,Creature,Common,Magi
-7,Enchantment,Common,Shrink
-8,Enchantment,Common,Lethargy
-9,Creature,Common,Orc
-10,Artifact,Common,Helmet
-11,Creature,Common,Magi
-12,Creature,Common,Warlock
-13,Spell,Common,Pandemonium
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Enchantment,Rare,Frigid Shield
-17,Artifact,Common,Scepter
-18,Creature,Common,Dwarf
-19,Spell,Common,Lightning
-20,Creature,Common,Spider
-21,Creature,Legendary,Snow Assassin Cyclops of the Plains
-22,Creature,Common,Goblin
-23,Spell,Common,Reanimate
-24,Creature,Rare,Death King Griffin
-25,Artifact,Common,Scepter
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Shimmering Flight
-28,Spell,Common,Heal
-29,Creature,Common,Magi
-30,Creature,Rare,Aura Warrior Fairy
-31,Artifact,Common,Scepter
-32,Creature,Rare,Frozen Merchant Minotaur
-33,Creature,Common,Orc
-34,Enchantment,Common,Agony
-35,Creature,Rare,Death Merchant Fairy
-36,Creature,Common,Ghoul
-37,Spell,Common,Fury
-38,Artifact,Common,Ring
-39,Creature,Common,Goblin
-40,Spell,Rare,Nature Pandemonium
-41,Spell,Common,Sorrow
-42,Spell,Common,Wall
-43,Creature,Common,Elf
-44,Enchantment,Rare,Forged Agony
+==================,DECK,5762
+0,Creature,Wolf
+1,Creature,Warlock
+2,Enchantment,Invert
+3,Creature,Paladin
+4,Enchantment,Invert
+5,Creature,Troll
+6,Creature,Fairy
+7,Enchantment,Flight
+8,Enchantment,Strength
+9,Creature,Spider
+10,Artifact,Helmet
+11,Creature,Fairy
+12,Creature,Berserker
+13,Spell,Reanimate
+14,Creature,Warlock
+15,Creature,Berserker
+16,Enchantment,Victory Haste
+17,Artifact,Scepter
+18,Creature,Magi
+19,Spell,Invisibility
+20,Creature,Paladin
+21,Creature,Snow Assassin Giant of the Plains
+22,Creature,Skin-Walker
+23,Spell,Maelstrom
+24,Creature,Death King Griffin
+25,Artifact,Scepter
+26,Creature,Magi
+27,Enchantment,Hateful Deathgrip
+28,Spell,Rage
+29,Creature,Fairy
+30,Creature,Aura Warrior Kraken
+31,Artifact,Scepter
+32,Creature,Frozen Merchant Cyclops
+33,Creature,Spider
+34,Enchantment,Strength
+35,Creature,Death Merchant Kraken
+36,Creature,Ghoul
+37,Spell,Freeze
+38,Artifact,Ring
+39,Creature,Skin-Walker
+40,Spell,Corpse Lightning
+41,Spell,Gravitation
+42,Spell,Burn
+43,Creature,Warlock
+44,Enchantment,Miracle Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,7233,Light
-0,Enchantment,Common,Shield
-1,Enchantment,Common,Invert
-2,Creature,Rare,Death Queen Minotaur
-3,Spell,Rare,Nature Infuriate
-4,Creature,Legendary,Dark Warrior Cyclops of the Arctic Blizzards
-5,Creature,Legendary,Frozen Priest Kraken of the Golden Palace
-6,Creature,Common,Goblin
-7,Creature,Common,Ghoul
-8,Spell,Common,Reanimate
-9,Creature,Common,Ghoul
-10,Creature,Common,Warlock
-11,Spell,Common,Burn
-12,Creature,Common,Dwarf
-13,Creature,Common,Elf
-14,Artifact,Common,Ring
-15,Creature,Common,Warlock
-16,Creature,Rare,Death Fighter Fairy
-17,Creature,Common,Orc
-18,Creature,Common,Spider
-19,Creature,Common,Paladin
-20,Artifact,Rare,Dark Potion
-21,Creature,Common,Orc
-22,Creature,Common,Dwarf
-23,Spell,Common,Stricken
-24,Enchantment,Mythic,Extreme Deathgrip
-25,Enchantment,Common,Invert
-26,Creature,Common,Eagle
-27,Creature,Common,Orc
-28,Spell,Legendary,Angry Heal
-29,Spell,Common,Burn
-30,Enchantment,Common,Strength
-31,Spell,Common,Gravitation
-32,Enchantment,Legendary,Dire Flight
-33,Creature,Common,Dwarf
-34,Spell,Legendary,Instant Heal
-35,Creature,Rare,Death King Hydra
-36,Enchantment,Common,Flight
-37,Creature,Common,Warlock
-38,Enchantment,Rare,Life Haste
-39,Creature,Rare,Aura King Griffin
-40,Enchantment,Rare,Hateful Shrink
-41,Creature,Common,Dwarf
-42,Spell,Common,Lightning
-43,Enchantment,Rare,Cataclysmic Deathgrip
-44,Creature,Legendary,Dark Queen Orge of the Eternal Land
+==================,DECK,7233
+0,Enchantment,Shield
+1,Enchantment,Shade
+2,Creature,Death Queen Cyclops
+3,Spell,Necro Sorrow
+4,Creature,Dark Warrior Giant of the Arctic Blizzards
+5,Creature,Frozen Priest Ogre of the Golden Palace
+6,Creature,Skin-Walker
+7,Creature,Ghoul
+8,Spell,Torment
+9,Creature,Ghoul
+10,Creature,Berserker
+11,Spell,Lightning
+12,Creature,Magi
+13,Creature,Warlock
+14,Artifact,Ring
+15,Creature,Berserker
+16,Creature,Death Fighter Kraken
+17,Creature,Spider
+18,Creature,Paladin
+19,Creature,Troll
+20,Artifact,Sorrow Potion
+21,Creature,Spider
+22,Creature,Magi
+23,Spell,Vortex
+24,Enchantment,Potent Sorrow Shrink
+25,Enchantment,Shrink
+26,Creature,Eagle
+27,Creature,Spider
+28,Spell,Instant Dark Lightning
+29,Spell,Infuriate
+30,Enchantment,Blight
+31,Spell,Rage
+32,Enchantment,Empyrean Grim Shade
+33,Creature,Magi
+34,Spell,Dire Forged Sorrow
+35,Creature,Death King Hydra
+36,Enchantment,Strength
+37,Creature,Berserker
+38,Enchantment,Life Haste
+39,Creature,Aura King Griffin
+40,Enchantment,Chimeric Shield
+41,Creature,Magi
+42,Spell,Ice
+43,Enchantment,Sorrow Shrink
+44,Creature,Dark Queen Elf of the Eternal Land

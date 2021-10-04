@@ -1,46 +1,46 @@
-==================,DECK,6509,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Light Priest Minotaur
-2,Creature,Rare,Light Monk Griffin
-3,Creature,Rare,Snow Assassin Skin-Walker
-4,Creature,Common,Elf
-5,Enchantment,Common,Drain
-6,Creature,Rare,Snow Warrior Hydra
-7,Creature,Common,Elf
-8,Spell,Common,Stricken
-9,Creature,Common,Dwarf
-10,Spell,Common,Gale
-11,Creature,Common,Warlock
-12,Creature,Common,Dwarf
-13,Spell,Rare,Hateful Infuriate
-14,Creature,Rare,Light Queen Fairy
-15,Spell,Common,Burst
-16,Creature,Common,Spider
-17,Creature,Common,Orc
-18,Creature,Common,Wolf
-19,Creature,Rare,Earth Warrior Minotaur
-20,Spell,Common,Wall
-21,Enchantment,Common,Strength
-22,Creature,Common,Dwarf
-23,Creature,Common,Spider
-24,Artifact,Common,Staff
-25,Creature,Common,Eagle
-26,Creature,Common,Dwarf
-27,Creature,Rare,Frozen King Berserker
-28,Creature,Legendary,Dark Rogue Oni of the Low Hills
-29,Creature,Common,Spider
-30,Creature,Common,Warlock
-31,Spell,Common,Gale
-32,Creature,Common,Wolf
-33,Artifact,Common,Shield
-34,Creature,Common,Dwarf
-35,Artifact,Common,Greaves
-36,Creature,Common,Orc
-37,Enchantment,Common,Age
-38,Creature,Common,Elf
-39,Spell,Common,Sorrow
-40,Creature,Rare,Light Warrior Berserker
-41,Spell,Rare,Gloom Assault
-42,Spell,Rare,Forged Frenzy
-43,Creature,Rare,Aura Queen Griffin
-44,Creature,Common,Orc
+==================,DECK,6509
+0,Creature,Berserker
+1,Creature,Light Priest Cyclops
+2,Creature,Light Monk Griffin
+3,Creature,Snow Assassin Orc
+4,Creature,Warlock
+5,Enchantment,Firebreath
+6,Creature,Snow Warrior Hydra
+7,Creature,Warlock
+8,Spell,Frost
+9,Creature,Magi
+10,Spell,Gravitation
+11,Creature,Berserker
+12,Creature,Magi
+13,Spell,Miracle Stun
+14,Creature,Light Queen Kraken
+15,Spell,Pandemonium
+16,Creature,Paladin
+17,Creature,Spider
+18,Creature,Wolf
+19,Creature,Earth Warrior Cyclops
+20,Spell,Freeze
+21,Enchantment,Blight
+22,Creature,Magi
+23,Creature,Paladin
+24,Artifact,Staff
+25,Creature,Eagle
+26,Creature,Magi
+27,Creature,Frozen King Goblin
+28,Creature,Dark Rogue Oni of the Low Hills
+29,Creature,Paladin
+30,Creature,Berserker
+31,Spell,Invisibility
+32,Creature,Wolf
+33,Artifact,Shield
+34,Creature,Magi
+35,Artifact,Greaves
+36,Creature,Spider
+37,Enchantment,Drain
+38,Creature,Warlock
+39,Spell,Infuriate
+40,Creature,Light Warrior Goblin
+41,Spell,Miracle Frenzy
+42,Spell,Gloom Burst
+43,Creature,Aura Queen Griffin
+44,Creature,Spider

@@ -1,46 +1,46 @@
-==================,DECK,7520,Medium
-0,Spell,Common,Invisibility
-1,Artifact,Common,Ring
-2,Enchantment,Common,Drain
-3,Creature,Legendary,Aura Warrior Kraken of the Black Stone
-4,Creature,Common,Dwarf
-5,Artifact,Rare,Solar Bow
-6,Creature,Common,Warlock
-7,Enchantment,Rare,Nature Blight
-8,Enchantment,Common,Flight
-9,Creature,Rare,Frozen Fighter Hydra
-10,Creature,Rare,Frozen Merchant Skin-Walker
-11,Creature,Common,Orc
-12,Creature,Rare,Frozen King Minotaur
-13,Creature,Rare,Snow Queen Hydra
-14,Creature,Common,Paladin
-15,Enchantment,Legendary,Mighty Age
-16,Enchantment,Rare,Grim Strength
-17,Creature,Rare,Dark Queen Griffin
-18,Creature,Common,Warlock
-19,Creature,Common,Elf
-20,Enchantment,Common,Flight
-21,Creature,Rare,Aura Warrior Hydra
-22,Creature,Common,Eagle
-23,Artifact,Rare,Apocalypse Boots
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Artifact,Legendary,Potent Scepter
-27,Artifact,Rare,Cataclysmic Sigil
-28,Creature,Mythic,Light Ancient Wizard of the Sky
-29,Artifact,Common,Bow
-30,Spell,Legendary,Extreme Stun
-31,Creature,Common,Dwarf
-32,Enchantment,Legendary,Angry Haste
-33,Creature,Common,Spider
-34,Enchantment,Legendary,Clever Lethargy
-35,Enchantment,Common,Strength
-36,Enchantment,Common,Drain
-37,Creature,Common,Magi
-38,Enchantment,Common,Drain
-39,Creature,Common,Paladin
-40,Enchantment,Common,Alacrity
-41,Creature,Mythic,Earth Ancient Demon of the Shadows
-42,Spell,Common,Freeze
-43,Enchantment,Common,Blight
-44,Artifact,Legendary,Extreme Ring
+==================,DECK,7520
+0,Spell,Burn
+1,Artifact,Ring
+2,Enchantment,Invert
+3,Creature,Aura Warrior Ogre of the Black Stone
+4,Creature,Magi
+5,Artifact,Shimmering Bow
+6,Creature,Berserker
+7,Enchantment,Solar Agony
+8,Enchantment,Haste
+9,Creature,Frozen Fighter Hydra
+10,Creature,Frozen Merchant Orc
+11,Creature,Spider
+12,Creature,Frozen King Cyclops
+13,Creature,Snow Queen Hydra
+14,Creature,Troll
+15,Enchantment,Potent Gloom Shrink
+16,Enchantment,Nimble Shade
+17,Creature,Dark Queen Griffin
+18,Creature,Berserker
+19,Creature,Warlock
+20,Enchantment,Shield
+21,Creature,Aura Warrior Hydra
+22,Creature,Eagle
+23,Artifact,Victory Boots
+24,Creature,Magi
+25,Creature,Berserker
+26,Artifact,Instant Nimble Scepter
+27,Artifact,Lunar Sigil
+28,Creature,Light Ancient Wizard of the Sky
+29,Artifact,Bow
+30,Spell,Zealous Miracle Tempest
+31,Creature,Magi
+32,Enchantment,Empyrean Miracle Firebreath
+33,Creature,Paladin
+34,Enchantment,Dire Grim Shade
+35,Enchantment,Deathgrip
+36,Enchantment,Drain
+37,Creature,Fairy
+38,Enchantment,Shield
+39,Creature,Troll
+40,Enchantment,Blight
+41,Creature,Earth Ancient Demon of the Shadows
+42,Spell,Tempest
+43,Enchantment,Shrink
+44,Artifact,Instant Gloom Ring

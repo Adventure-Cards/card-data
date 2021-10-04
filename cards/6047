@@ -1,46 +1,46 @@
-==================,DECK,6047,Medium
-0,Spell,Common,Reanimate
-1,Creature,Common,Warlock
-2,Artifact,Rare,Oblivion Cloak
-3,Creature,Mythic,Earth Ancient Demon of the Shadows
-4,Artifact,Common,Ring
-5,Creature,Common,Goblin
-6,Creature,Common,Warlock
-7,Spell,Common,Burst
-8,Creature,Common,Paladin
-9,Creature,Mythic,Snow Time Phoenix of Hate
-10,Artifact,Rare,Hateful Divine Robe
-11,Spell,Common,Ice
-12,Creature,Common,Eagle
-13,Creature,Legendary,Dark Warrior Kraken of the Polar Woods
-14,Creature,Rare,Death Fighter Skin-Walker
-15,Creature,Rare,Earth Priest Hydra
-16,Creature,Common,Warlock
-17,Artifact,Legendary,Extreme Bracers
-18,Spell,Rare,Life Fury
-19,Creature,Common,Eagle
-20,Creature,Common,Warlock
-21,Creature,Common,Paladin
-22,Enchantment,Common,Lethargy
-23,Spell,Common,Assault
-24,Spell,Mythic,Mighty Wall
-25,Spell,Common,Sorrow
-26,Creature,Common,Elf
-27,Creature,Common,Wolf
-28,Artifact,Rare,Lunar Belt
-29,Spell,Common,Assault
-30,Creature,Common,Elf
-31,Creature,Common,Wolf
-32,Artifact,Common,Scepter
-33,Creature,Rare,Aura Merchant Griffin
-34,Spell,Common,Fury
-35,Enchantment,Common,Agony
-36,Creature,Rare,Frozen Fighter Fairy
-37,Artifact,Common,Ghost Wand
-38,Spell,Rare,Shimmering Pandemonium
-39,Creature,Common,Spider
-40,Spell,Rare,Lunar Fury
-41,Enchantment,Common,Blight
-42,Enchantment,Rare,Lunar Blight
-43,Spell,Rare,Corpse Revive
-44,Enchantment,Common,Strength
+==================,DECK,6047
+0,Spell,Fireball
+1,Creature,Berserker
+2,Artifact,Victory Cloak
+3,Creature,Earth Ancient Demon of the Shadows
+4,Artifact,Ring
+5,Creature,Skin-Walker
+6,Creature,Berserker
+7,Spell,Wall
+8,Creature,Troll
+9,Creature,Snow Time Phoenix of Hate
+10,Artifact,Dark Divine Robe
+11,Spell,Fury
+12,Creature,Eagle
+13,Creature,Dark Warrior Ogre of the Polar Woods
+14,Creature,Death Fighter Orc
+15,Creature,Earth Priest Hydra
+16,Creature,Berserker
+17,Artifact,Zealous Lunar Bracers
+18,Spell,Frigid Burn
+19,Creature,Eagle
+20,Creature,Berserker
+21,Creature,Troll
+22,Enchantment,Blight
+23,Spell,Stun
+24,Spell,Irate Sorrow Burn
+25,Spell,Vortex
+26,Creature,Warlock
+27,Creature,Wolf
+28,Artifact,Chimeric Belt
+29,Spell,Fireball
+30,Creature,Warlock
+31,Creature,Wolf
+32,Artifact,Scepter
+33,Creature,Aura Merchant Griffin
+34,Spell,Stricken
+35,Enchantment,Strength
+36,Creature,Frozen Fighter Kraken
+37,Artifact,Ghost Wand
+38,Spell,Nature Pandemonium
+39,Creature,Paladin
+40,Spell,Sorrow Invisibility
+41,Enchantment,Lethargy
+42,Enchantment,Cataclysmic Shield
+43,Spell,Nature Frost
+44,Enchantment,Shield

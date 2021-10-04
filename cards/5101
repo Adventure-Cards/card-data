@@ -1,46 +1,46 @@
-==================,DECK,5101,Medium
-0,Artifact,Rare,Life Amulet
-1,Creature,Rare,Aura Priest Berserker
-2,Enchantment,Common,Shade
-3,Spell,Legendary,Potent Lightning
-4,Artifact,Common,Pendant
-5,Enchantment,Common,Agony
-6,Creature,Rare,Dark Assassin Fairy
-7,Creature,Mythic,Earth Undead Phoenix of the Shadows
-8,Artifact,Common,Bow
-9,Artifact,Rare,Life Cloak
-10,Enchantment,Common,Age
-11,Spell,Common,Stricken
-12,Enchantment,Common,Blight
-13,Enchantment,Mythic,Mighty Blight
-14,Creature,Common,Dwarf
-15,Enchantment,Mythic,Potent Blight
-16,Creature,Rare,Aura Merchant Berserker
-17,Creature,Common,Elf
-18,Spell,Rare,Life Burst
-19,Enchantment,Rare,Cataclysmic Blight
-20,Creature,Common,Orc
-21,Spell,Legendary,Intense Vortex
-22,Creature,Rare,Aura Priest Minotaur
-23,Creature,Common,Spider
-24,Creature,Mythic,Light Ancient Demon of the Sky
-25,Creature,Common,Goblin
-26,Creature,Common,Dwarf
-27,Artifact,Common,Ghost Wand
-28,Spell,Legendary,Angry Freeze
-29,Spell,Legendary,Angry Burst
-30,Creature,Common,Goblin
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Shade
-33,Spell,Common,Wall
-34,Creature,Legendary,Aura Warrior Giant of the Eternal Land
-35,Creature,Common,Goblin
-36,Creature,Rare,Dark Undead Griffin
-37,Spell,Rare,Hateful Hypnosis
-38,Enchantment,Common,Haste
-39,Spell,Common,Hypnosis
-40,Creature,Rare,Frozen Lord Berserker
-41,Spell,Common,Infuriate
-42,Artifact,Rare,Life Helm
-43,Creature,Mythic,Death Ancient Wizard of the Dead
-44,Enchantment,Mythic,Urgent Lethargy
+==================,DECK,5101
+0,Artifact,Nimble Amulet
+1,Creature,Aura Priest Goblin
+2,Enchantment,Agony
+3,Spell,Urgent Life Revive
+4,Artifact,Pendant
+5,Enchantment,Haste
+6,Creature,Dark Assassin Kraken
+7,Creature,Earth Undead Phoenix of the Shadows
+8,Artifact,Bow
+9,Artifact,Oblivion Cloak
+10,Enchantment,Flight
+11,Spell,Hypnosis
+12,Enchantment,Agony
+13,Enchantment,Mighty Cataclysmic Flight
+14,Creature,Magi
+15,Enchantment,Potent Nimble Drain
+16,Creature,Aura Merchant Goblin
+17,Creature,Warlock
+18,Spell,Oblivion Assault
+19,Enchantment,Cataclysmic Flight
+20,Creature,Spider
+21,Spell,Ardent Forged Torment
+22,Creature,Aura Priest Cyclops
+23,Creature,Paladin
+24,Creature,Light Ancient Demon of the Sky
+25,Creature,Skin-Walker
+26,Creature,Magi
+27,Artifact,Ghost Wand
+28,Spell,Irate Sorrow Frost
+29,Spell,Empyrean Gloom Pandemonium
+30,Creature,Skin-Walker
+31,Creature,Ghoul
+32,Enchantment,Flight
+33,Spell,Lightning
+34,Creature,Aura Warrior Dwarf of the Eternal Land
+35,Creature,Skin-Walker
+36,Creature,Dark Undead Griffin
+37,Spell,Gloom Stun
+38,Enchantment,Shield
+39,Spell,Infuriate
+40,Creature,Frozen Lord Goblin
+41,Spell,Wall
+42,Artifact,Nimble Helm
+43,Creature,Death Ancient Wizard of the Dead
+44,Enchantment,Urgent Hateful Agony

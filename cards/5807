@@ -1,46 +1,46 @@
-==================,DECK,5807,Medium
-0,Creature,Common,Wolf
-1,Spell,Rare,Life Pandemonium
-2,Creature,Common,Spider
-3,Spell,Rare,Grim Vortex
-4,Spell,Rare,Cataclysmic Infuriate
-5,Creature,Common,Goblin
-6,Spell,Common,Sorrow
-7,Spell,Rare,Necro Burst
-8,Artifact,Legendary,Urgent Gauntlet
-9,Artifact,Rare,Apocalypse Helm
-10,Creature,Legendary,Aura Knight Cyclops of the Low Hills
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Ghoul
-13,Creature,Common,Wolf
-14,Creature,Common,Orc
-15,Creature,Common,Magi
-16,Creature,Rare,Snow Lord Griffin
-17,Creature,Rare,Death Lord Berserker
-18,Spell,Legendary,Clever Revive
-19,Spell,Common,Maelstrom
-20,Creature,Mythic,Dark Chaos Demon of Illusion
-21,Creature,Legendary,Death Merchant Kraken of the Haven
-22,Creature,Common,Eagle
-23,Spell,Legendary,Clever Frenzy
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Magi
-26,Creature,Common,Ghoul
-27,Spell,Rare,Dark Invisibility
-28,Creature,Common,Paladin
-29,Creature,Common,Spider
-30,Spell,Rare,Solar Vortex
-31,Creature,Common,Ghoul
-32,Creature,Common,Warlock
-33,Artifact,Rare,Dark Pendant
-34,Artifact,Common,Gloves
-35,Artifact,Rare,Nimble Divine Robe
-36,Enchantment,Rare,Necro Deathgrip
-37,Creature,Rare,Dark Knight Hydra
-38,Spell,Common,Sorrow
-39,Enchantment,Rare,Nimble Shield
-40,Spell,Legendary,Extreme Burn
-41,Creature,Common,Warlock
-42,Creature,Common,Ghoul
-43,Creature,Rare,Death Assassin Minotaur
-44,Enchantment,Rare,Forged Strength
+==================,DECK,5807
+0,Creature,Wolf
+1,Spell,Life Stricken
+2,Creature,Paladin
+3,Spell,Victory Fire
+4,Spell,Sorrow Wall
+5,Creature,Skin-Walker
+6,Spell,Maelstrom
+7,Spell,Forged Burst
+8,Artifact,Ardent Shimmering Gauntlet
+9,Artifact,Frigid Helm
+10,Creature,Aura Knight Giant of the Low Hills
+11,Enchantment,Shade
+12,Creature,Ghoul
+13,Creature,Wolf
+14,Creature,Spider
+15,Creature,Fairy
+16,Creature,Snow Lord Griffin
+17,Creature,Death Lord Goblin
+18,Spell,Dire Frigid Maelstrom
+19,Spell,Frenzy
+20,Creature,Dark Chaos Demon of Illusion
+21,Creature,Death Merchant Ogre of the Haven
+22,Creature,Eagle
+23,Spell,Dire Frigid Rage
+24,Enchantment,Age
+25,Creature,Fairy
+26,Creature,Ghoul
+27,Spell,Gloom Pandemonium
+28,Creature,Troll
+29,Creature,Paladin
+30,Spell,Shimmering Hypnosis
+31,Creature,Ghoul
+32,Creature,Berserker
+33,Artifact,Lunar Pendant
+34,Artifact,Gloves
+35,Artifact,Solar Divine Robe
+36,Enchantment,Shimmering Strength
+37,Creature,Dark Knight Hydra
+38,Spell,Stricken
+39,Enchantment,Nature Agony
+40,Spell,Clever Cataclysmic Reanimate
+41,Creature,Berserker
+42,Creature,Ghoul
+43,Creature,Death Assassin Cyclops
+44,Enchantment,Cataclysmic Alacrity

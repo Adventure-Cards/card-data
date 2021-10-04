@@ -1,46 +1,46 @@
-==================,DECK,5795,Light
-0,Spell,Common,Invisibility
-1,Spell,Legendary,Instant Pandemonium
-2,Creature,Common,Spider
-3,Spell,Common,Revive
-4,Creature,Common,Dwarf
-5,Enchantment,Common,Haste
-6,Spell,Common,Rage
-7,Creature,Rare,Earth Priest Griffin
-8,Artifact,Common,Scythe
-9,Creature,Common,Spider
-10,Creature,Rare,Earth Knight Minotaur
-11,Artifact,Common,Helm
-12,Spell,Common,Burn
-13,Artifact,Common,Gauntlet
-14,Creature,Common,Orc
-15,Creature,Rare,Earth Monk Hydra
-16,Spell,Common,Maelstrom
-17,Artifact,Common,Gauntlet
-18,Enchantment,Common,Haste
-19,Spell,Rare,Gloom Invisibility
-20,Artifact,Common,Gloves
-21,Creature,Common,Ghoul
-22,Creature,Common,Dwarf
-23,Spell,Common,Lightning
-24,Creature,Common,Warlock
-25,Creature,Common,Eagle
-26,Enchantment,Common,Invert
-27,Creature,Rare,Dark Thief Griffin
-28,Spell,Common,Frost
-29,Creature,Common,Warlock
-30,Creature,Common,Warlock
-31,Creature,Legendary,Earth Thief Orge of the Swamp
-32,Creature,Common,Orc
-33,Creature,Common,Wolf
-34,Creature,Mythic,Light Time Dragon of the Sky
-35,Creature,Legendary,Frozen Monk Orge of the Border
-36,Creature,Common,Paladin
-37,Spell,Common,Burn
-38,Spell,Common,Maelstrom
-39,Creature,Common,Paladin
-40,Spell,Rare,Miracle Hypnosis
-41,Creature,Legendary,Dark Queen Cyclops of the Frozen Castle
-42,Spell,Legendary,Dire Revive
-43,Spell,Common,Gale
-44,Creature,Common,Eagle
+==================,DECK,5795
+0,Spell,Reanimate
+1,Spell,Clever Necro Tempest
+2,Creature,Paladin
+3,Spell,Burst
+4,Creature,Magi
+5,Enchantment,Shrink
+6,Spell,Invisibility
+7,Creature,Earth Priest Griffin
+8,Artifact,Scythe
+9,Creature,Paladin
+10,Creature,Earth Knight Cyclops
+11,Artifact,Helm
+12,Spell,Torment
+13,Artifact,Gauntlet
+14,Creature,Spider
+15,Creature,Earth Monk Hydra
+16,Spell,Sorrow
+17,Artifact,Gauntlet
+18,Enchantment,Lethargy
+19,Spell,Chimeric Rage
+20,Artifact,Gloves
+21,Creature,Ghoul
+22,Creature,Magi
+23,Spell,Infuriate
+24,Creature,Berserker
+25,Creature,Eagle
+26,Enchantment,Drain
+27,Creature,Dark Thief Griffin
+28,Spell,Fury
+29,Creature,Berserker
+30,Creature,Berserker
+31,Creature,Earth Thief Elf of the Swamp
+32,Creature,Spider
+33,Creature,Wolf
+34,Creature,Light Time Dragon of the Sky
+35,Creature,Frozen Monk Elf of the Border
+36,Creature,Troll
+37,Spell,Hypnosis
+38,Spell,Burn
+39,Creature,Troll
+40,Spell,Nimble Infuriate
+41,Creature,Dark Queen Giant of the Frozen Castle
+42,Spell,Instant Life Frenzy
+43,Spell,Pandemonium
+44,Creature,Eagle

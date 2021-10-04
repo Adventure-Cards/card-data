@@ -1,46 +1,46 @@
-==================,DECK,6805,Medium
-0,Spell,Common,Infuriate
-1,Enchantment,Legendary,Clever Strength
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Eagle
-4,Creature,Common,Spider
-5,Creature,Rare,Earth Merchant Fairy
-6,Creature,Rare,Earth Lord Skin-Walker
-7,Spell,Rare,Necro Maelstrom
-8,Creature,Rare,Aura Priest Griffin
-9,Creature,Common,Dwarf
-10,Creature,Common,Goblin
-11,Creature,Common,Elf
-12,Creature,Common,Magi
-13,Creature,Rare,Death Undead Minotaur
-14,Enchantment,Common,Invert
-15,Creature,Mythic,Light Ancient Demon of the Sky
-16,Spell,Common,Rage
-17,Creature,Rare,Aura Undead Skin-Walker
-18,Creature,Rare,Earth Knight Griffin
-19,Creature,Rare,Aura Undead Hydra
-20,Spell,Legendary,Clever Gravitation
-21,Artifact,Legendary,Urgent Ring
-22,Creature,Rare,Frozen Queen Hydra
-23,Creature,Common,Wolf
-24,Spell,Common,Stricken
-25,Spell,Rare,Frigid Invisibility
-26,Creature,Common,Warlock
-27,Enchantment,Mythic,Potent Haste
-28,Creature,Common,Paladin
-29,Creature,Common,Warlock
-30,Creature,Common,Warlock
-31,Creature,Rare,Aura Queen Skin-Walker
-32,Creature,Common,Magi
-33,Creature,Common,Paladin
-34,Creature,Legendary,Light Thief Cyclops of the Golden Palace
-35,Enchantment,Common,Flight
-36,Creature,Rare,Dark Merchant Skin-Walker
-37,Spell,Rare,Forged Gravitation
-38,Creature,Common,Eagle
-39,Enchantment,Common,Deathgrip
-40,Creature,Rare,Aura Warrior Hydra
-41,Creature,Rare,Dark King Minotaur
-42,Creature,Common,Warlock
-43,Enchantment,Common,Strength
-44,Creature,Rare,Aura Fighter Berserker
+==================,DECK,6805
+0,Spell,Burst
+1,Enchantment,Irate Nimble Blight
+2,Enchantment,Shade
+3,Creature,Eagle
+4,Creature,Paladin
+5,Creature,Earth Merchant Kraken
+6,Creature,Earth Lord Orc
+7,Spell,Hateful Stun
+8,Creature,Aura Priest Griffin
+9,Creature,Magi
+10,Creature,Skin-Walker
+11,Creature,Warlock
+12,Creature,Fairy
+13,Creature,Death Undead Cyclops
+14,Enchantment,Agony
+15,Creature,Light Ancient Demon of the Sky
+16,Spell,Burn
+17,Creature,Aura Undead Orc
+18,Creature,Earth Knight Griffin
+19,Creature,Aura Undead Hydra
+20,Spell,Instant Oblivion Burst
+21,Artifact,Clever Corpse Ring
+22,Creature,Frozen Queen Hydra
+23,Creature,Wolf
+24,Spell,Burn
+25,Spell,Life Frost
+26,Creature,Berserker
+27,Enchantment,Empyrean Life Shade
+28,Creature,Troll
+29,Creature,Berserker
+30,Creature,Berserker
+31,Creature,Aura Queen Orc
+32,Creature,Fairy
+33,Creature,Troll
+34,Creature,Light Thief Giant of the Golden Palace
+35,Enchantment,Deathgrip
+36,Creature,Dark Merchant Orc
+37,Spell,Cataclysmic Gravitation
+38,Creature,Eagle
+39,Enchantment,Shield
+40,Creature,Aura Warrior Hydra
+41,Creature,Dark King Cyclops
+42,Creature,Berserker
+43,Enchantment,Deathgrip
+44,Creature,Aura Fighter Goblin

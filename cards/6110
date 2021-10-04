@@ -1,46 +1,46 @@
-==================,DECK,6110,Light
-0,Enchantment,Common,Haste
-1,Creature,Common,Elf
-2,Spell,Common,Ice
-3,Creature,Common,Orc
-4,Artifact,Common,Tome
-5,Artifact,Rare,Nature Staff
-6,Spell,Common,Wall
-7,Creature,Common,Paladin
-8,Artifact,Common,Belt
-9,Creature,Rare,Frozen Merchant Minotaur
-10,Spell,Common,Freeze
-11,Creature,Common,Orc
-12,Spell,Rare,Apocalypse Stun
-13,Creature,Legendary,Light Warrior Orge of the Haven
-14,Enchantment,Common,Invert
-15,Spell,Rare,Nimble Vortex
-16,Creature,Common,Ghoul
-17,Creature,Common,Eagle
-18,Enchantment,Common,Drain
-19,Spell,Rare,Corpse Lightning
-20,Creature,Legendary,Dark Monk Giant of the Arctic Blizzards
-21,Artifact,Common,Scepter
-22,Creature,Common,Elf
-23,Creature,Common,Warlock
-24,Enchantment,Rare,Apocalypse Age
-25,Creature,Common,Dwarf
-26,Enchantment,Rare,Nimble Shade
-27,Creature,Rare,Aura Thief Minotaur
-28,Creature,Common,Eagle
-29,Spell,Common,Freeze
-30,Enchantment,Common,Lethargy
-31,Artifact,Common,Amulet
-32,Creature,Common,Elf
-33,Enchantment,Rare,Frigid Shield
-34,Creature,Rare,Light Thief Fairy
-35,Artifact,Rare,Nature Helmet
-36,Creature,Rare,Snow Undead Griffin
-37,Creature,Legendary,Dark Undead Giant of the Plains
-38,Creature,Rare,Snow Fighter Berserker
-39,Enchantment,Common,Agony
-40,Spell,Common,Heal
-41,Creature,Rare,Death Lord Hydra
-42,Spell,Rare,Corpse Heal
-43,Artifact,Common,Ring
-44,Spell,Common,Sorrow
+==================,DECK,6110
+0,Enchantment,Lethargy
+1,Creature,Warlock
+2,Spell,Vortex
+3,Creature,Spider
+4,Artifact,Tome
+5,Artifact,Necro Staff
+6,Spell,Reanimate
+7,Creature,Troll
+8,Artifact,Belt
+9,Creature,Frozen Merchant Cyclops
+10,Spell,Sorrow
+11,Creature,Spider
+12,Spell,Life Stricken
+13,Creature,Light Warrior Elf of the Haven
+14,Enchantment,Firebreath
+15,Spell,Shimmering Frenzy
+16,Creature,Ghoul
+17,Creature,Eagle
+18,Enchantment,Blight
+19,Spell,Shimmering Stricken
+20,Creature,Dark Monk Dwarf of the Arctic Blizzards
+21,Artifact,Scepter
+22,Creature,Warlock
+23,Creature,Berserker
+24,Enchantment,Victory Invert
+25,Creature,Magi
+26,Enchantment,Necro Strength
+27,Creature,Aura Thief Cyclops
+28,Creature,Eagle
+29,Spell,Fire
+30,Enchantment,Haste
+31,Artifact,Amulet
+32,Creature,Warlock
+33,Enchantment,Victory Blight
+34,Creature,Light Thief Kraken
+35,Artifact,Forged Helmet
+36,Creature,Snow Undead Griffin
+37,Creature,Dark Undead Dwarf of the Plains
+38,Creature,Snow Fighter Goblin
+39,Enchantment,Firebreath
+40,Spell,Fury
+41,Creature,Death Lord Hydra
+42,Spell,Nature Pandemonium
+43,Artifact,Ring
+44,Spell,Fireball

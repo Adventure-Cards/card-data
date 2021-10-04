@@ -1,46 +1,46 @@
-==================,DECK,4836,Light
-0,Creature,Common,Ghoul
-1,Spell,Rare,Hateful Burn
-2,Enchantment,Common,Flight
-3,Enchantment,Common,Deathgrip
-4,Enchantment,Mythic,Potent Blight
-5,Enchantment,Common,Alacrity
-6,Creature,Common,Spider
-7,Creature,Common,Ghoul
-8,Creature,Common,Goblin
-9,Spell,Common,Invisibility
-10,Creature,Common,Spider
-11,Creature,Common,Elf
-12,Creature,Rare,Frozen Knight Griffin
-13,Creature,Common,Eagle
-14,Creature,Rare,Aura Fighter Fairy
-15,Creature,Common,Warlock
-16,Enchantment,Common,Age
-17,Enchantment,Common,Haste
-18,Creature,Common,Warlock
-19,Enchantment,Common,Alacrity
-20,Enchantment,Common,Age
-21,Spell,Common,Pandemonium
-22,Creature,Common,Warlock
-23,Creature,Rare,Aura Priest Minotaur
-24,Artifact,Common,Pendant
-25,Spell,Rare,Hateful Burst
-26,Spell,Common,Wall
-27,Creature,Legendary,Death Queen Oni of the Eternal Land
-28,Artifact,Common,Helmet
-29,Creature,Common,Ghoul
-30,Spell,Rare,Necro Sorrow
-31,Creature,Common,Dwarf
-32,Enchantment,Common,Alacrity
-33,Artifact,Legendary,Urgent Ring
-34,Creature,Rare,Snow Knight Minotaur
-35,Creature,Common,Orc
-36,Enchantment,Rare,Shimmering Blight
-37,Artifact,Common,Belt
-38,Creature,Rare,Earth Monk Griffin
-39,Enchantment,Common,Shield
-40,Spell,Rare,Life Hypnosis
-41,Creature,Common,Goblin
-42,Creature,Common,Goblin
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Ghoul
+==================,DECK,4836
+0,Creature,Ghoul
+1,Spell,Lunar Revive
+2,Enchantment,Blight
+3,Enchantment,Firebreath
+4,Enchantment,Mighty Nimble Invert
+5,Enchantment,Flight
+6,Creature,Paladin
+7,Creature,Ghoul
+8,Creature,Skin-Walker
+9,Spell,Vortex
+10,Creature,Paladin
+11,Creature,Warlock
+12,Creature,Frozen Knight Griffin
+13,Creature,Eagle
+14,Creature,Aura Fighter Kraken
+15,Creature,Berserker
+16,Enchantment,Haste
+17,Enchantment,Invert
+18,Creature,Berserker
+19,Enchantment,Invert
+20,Enchantment,Shrink
+21,Spell,Torment
+22,Creature,Berserker
+23,Creature,Aura Priest Cyclops
+24,Artifact,Pendant
+25,Spell,Miracle Freeze
+26,Spell,Heal
+27,Creature,Death Queen Oni of the Eternal Land
+28,Artifact,Helmet
+29,Creature,Ghoul
+30,Spell,Forged Tempest
+31,Creature,Magi
+32,Enchantment,Invert
+33,Artifact,Instant Solar Ring
+34,Creature,Snow Knight Cyclops
+35,Creature,Spider
+36,Enchantment,Solar Deathgrip
+37,Artifact,Belt
+38,Creature,Earth Monk Griffin
+39,Enchantment,Age
+40,Spell,Nimble Pandemonium
+41,Creature,Skin-Walker
+42,Creature,Skin-Walker
+43,Enchantment,Shield
+44,Creature,Ghoul

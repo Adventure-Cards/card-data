@@ -1,46 +1,46 @@
-==================,DECK,6221,Medium
-0,Creature,Rare,Death Queen Minotaur
-1,Artifact,Rare,Nature Staff
-2,Creature,Common,Magi
-3,Enchantment,Common,Lethargy
-4,Spell,Common,Gale
-5,Creature,Common,Wolf
-6,Spell,Rare,Shimmering Pandemonium
-7,Artifact,Rare,Nimble Cloak
-8,Enchantment,Legendary,Potent Blight
-9,Creature,Rare,Aura Thief Skin-Walker
-10,Artifact,Common,Staff
-11,Creature,Rare,Death Priest Griffin
-12,Creature,Rare,Dark Rogue Fairy
-13,Spell,Rare,Life Stricken
-14,Creature,Common,Paladin
-15,Enchantment,Mythic,Potent Agony
-16,Enchantment,Legendary,Potent Drain
-17,Creature,Rare,Frozen Undead Hydra
-18,Spell,Common,Gale
-19,Enchantment,Common,Haste
-20,Enchantment,Rare,Nimble Shade
-21,Creature,Common,Magi
-22,Creature,Common,Dwarf
-23,Spell,Legendary,Urgent Frenzy
-24,Creature,Common,Magi
-25,Creature,Rare,Earth Assassin Griffin
-26,Creature,Rare,Light Thief Fairy
-27,Creature,Mythic,Frozen Ancient Demon of the Void
-28,Enchantment,Mythic,Intense Agony
-29,Spell,Common,Invisibility
-30,Spell,Rare,Lunar Reanimate
-31,Creature,Common,Magi
-32,Enchantment,Rare,Life Flight
-33,Spell,Rare,Corpse Assault
-34,Spell,Common,Maelstrom
-35,Creature,Rare,Snow Assassin Hydra
-36,Creature,Mythic,Snow Nameless Dragon of Hate
-37,Spell,Common,Gravitation
-38,Artifact,Common,Sword
-39,Creature,Common,Warlock
-40,Enchantment,Common,Invert
-41,Creature,Common,Warlock
-42,Creature,Mythic,Death Undead Dragon of the Dead
-43,Enchantment,Rare,Life Age
-44,Creature,Common,Wolf
+==================,DECK,6221
+0,Creature,Death Queen Cyclops
+1,Artifact,Nature Staff
+2,Creature,Fairy
+3,Enchantment,Strength
+4,Spell,Revive
+5,Creature,Wolf
+6,Spell,Nature Torment
+7,Artifact,Forged Cloak
+8,Enchantment,Potent Nimble Drain
+9,Creature,Aura Thief Orc
+10,Artifact,Staff
+11,Creature,Death Priest Griffin
+12,Creature,Dark Rogue Kraken
+13,Spell,Nimble Infuriate
+14,Creature,Troll
+15,Enchantment,Urgent Life Invert
+16,Enchantment,Empyrean Apocalypse Shade
+17,Creature,Frozen Undead Hydra
+18,Spell,Gravitation
+19,Enchantment,Lethargy
+20,Enchantment,Necro Lethargy
+21,Creature,Fairy
+22,Creature,Magi
+23,Spell,Ardent Hateful Stricken
+24,Creature,Fairy
+25,Creature,Earth Assassin Griffin
+26,Creature,Light Thief Kraken
+27,Creature,Frozen Ancient Demon of the Void
+28,Enchantment,Ardent Corpse Lethargy
+29,Spell,Torment
+30,Spell,Dark Fire
+31,Creature,Fairy
+32,Enchantment,Grim Invert
+33,Spell,Hateful Freeze
+34,Spell,Infuriate
+35,Creature,Snow Assassin Hydra
+36,Creature,Snow Nameless Dragon of Hate
+37,Spell,Burst
+38,Artifact,Sword
+39,Creature,Berserker
+40,Enchantment,Blight
+41,Creature,Berserker
+42,Creature,Death Undead Dragon of the Dead
+43,Enchantment,Victory Drain
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,5789,Light
-0,Spell,Common,Gale
-1,Creature,Legendary,Snow Warrior Giant of the Arctic Blizzards
-2,Spell,Legendary,Mighty Invisibility
-3,Creature,Rare,Snow Monk Skin-Walker
-4,Artifact,Common,Greaves
-5,Creature,Common,Eagle
-6,Spell,Common,Frost
-7,Creature,Common,Ghoul
-8,Artifact,Rare,Frigid Divine Robe
-9,Creature,Common,Warlock
-10,Creature,Common,Eagle
-11,Spell,Common,Sorrow
-12,Creature,Legendary,Snow Priest Cyclops of the Eternal Land
-13,Creature,Mythic,Dark Undead Phoenix of Illusion
-14,Enchantment,Mythic,Extreme Lethargy
-15,Spell,Rare,Miracle Ice
-16,Creature,Common,Eagle
-17,Spell,Legendary,Extreme Reanimate
-18,Creature,Common,Dwarf
-19,Creature,Common,Goblin
-20,Creature,Rare,Dark Warrior Griffin
-21,Creature,Common,Eagle
-22,Artifact,Rare,Necro Ghost Wand
-23,Creature,Common,Dwarf
-24,Spell,Common,Sorrow
-25,Creature,Common,Ghoul
-26,Creature,Common,Wolf
-27,Creature,Common,Orc
-28,Enchantment,Mythic,Mighty Drain
-29,Creature,Legendary,Aura Fighter Cyclops of the West
-30,Spell,Rare,Solar Gravitation
-31,Creature,Common,Orc
-32,Creature,Legendary,Death Rogue Giant of the Plains
-33,Creature,Common,Warlock
-34,Enchantment,Rare,Miracle Shrink
-35,Enchantment,Legendary,Intense Lethargy
-36,Spell,Common,Gravitation
-37,Spell,Common,Stricken
-38,Spell,Common,Maelstrom
-39,Artifact,Common,Ghost Wand
-40,Artifact,Rare,Life Sigil
-41,Enchantment,Common,Haste
-42,Creature,Common,Ghoul
-43,Creature,Rare,Snow Warrior Skin-Walker
-44,Creature,Rare,Dark Rogue Hydra
+==================,DECK,5789
+0,Spell,Sorrow
+1,Creature,Snow Warrior Dwarf of the Arctic Blizzards
+2,Spell,Urgent Miracle Vortex
+3,Creature,Snow Monk Orc
+4,Artifact,Greaves
+5,Creature,Eagle
+6,Spell,Stricken
+7,Creature,Ghoul
+8,Artifact,Frigid Divine Robe
+9,Creature,Berserker
+10,Creature,Eagle
+11,Spell,Infuriate
+12,Creature,Snow Priest Giant of the Eternal Land
+13,Creature,Dark Undead Phoenix of Illusion
+14,Enchantment,Ardent Lunar Shield
+15,Spell,Frigid Tempest
+16,Creature,Eagle
+17,Spell,Clever Gloom Revive
+18,Creature,Magi
+19,Creature,Skin-Walker
+20,Creature,Dark Warrior Griffin
+21,Creature,Eagle
+22,Artifact,Shimmering Ghost Wand
+23,Creature,Magi
+24,Spell,Wall
+25,Creature,Ghoul
+26,Creature,Wolf
+27,Creature,Spider
+28,Enchantment,Empyrean Dark Firebreath
+29,Creature,Aura Fighter Giant of the West
+30,Spell,Necro Revive
+31,Creature,Spider
+32,Creature,Death Rogue Dwarf of the Plains
+33,Creature,Berserker
+34,Enchantment,Frigid Drain
+35,Enchantment,Dire Hateful Age
+36,Spell,Heal
+37,Spell,Maelstrom
+38,Spell,Burn
+39,Artifact,Ghost Wand
+40,Artifact,Nimble Sigil
+41,Enchantment,Haste
+42,Creature,Ghoul
+43,Creature,Snow Warrior Orc
+44,Creature,Dark Rogue Hydra

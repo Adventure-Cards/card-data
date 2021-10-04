@@ -1,46 +1,46 @@
-==================,DECK,6205,Light
-0,Creature,Common,Spider
-1,Creature,Common,Wolf
-2,Creature,Common,Ghoul
-3,Artifact,Common,Sword
-4,Creature,Rare,Aura Rogue Skin-Walker
-5,Artifact,Common,Ghost Wand
-6,Creature,Common,Spider
-7,Enchantment,Common,Age
-8,Creature,Legendary,Light Merchant Oni of the Polar Woods
-9,Creature,Common,Elf
-10,Creature,Common,Dwarf
-11,Artifact,Common,Cloak
-12,Creature,Common,Orc
-13,Spell,Rare,Shimmering Ice
-14,Spell,Common,Rage
-15,Creature,Common,Dwarf
-16,Creature,Common,Goblin
-17,Creature,Common,Spider
-18,Enchantment,Common,Age
-19,Artifact,Common,Belt
-20,Enchantment,Common,Agony
-21,Creature,Rare,Earth Priest Fairy
-22,Spell,Common,Revive
-23,Creature,Common,Magi
-24,Spell,Common,Torment
-25,Creature,Legendary,Snow Lord Kraken of the West
-26,Creature,Common,Ghoul
-27,Enchantment,Common,Deathgrip
-28,Spell,Common,Stricken
-29,Creature,Common,Ghoul
-30,Enchantment,Legendary,Instant Invert
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Orc
-33,Creature,Common,Spider
-34,Creature,Rare,Dark Fighter Berserker
-35,Artifact,Common,Shield
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Spider
-38,Creature,Common,Eagle
-39,Creature,Rare,Light Rogue Berserker
-40,Enchantment,Common,Age
-41,Creature,Common,Eagle
-42,Creature,Rare,Snow Fighter Minotaur
-43,Spell,Common,Heal
-44,Artifact,Common,Tome
+==================,DECK,6205
+0,Creature,Paladin
+1,Creature,Wolf
+2,Creature,Ghoul
+3,Artifact,Sword
+4,Creature,Aura Rogue Orc
+5,Artifact,Ghost Wand
+6,Creature,Paladin
+7,Enchantment,Flight
+8,Creature,Light Merchant Oni of the Polar Woods
+9,Creature,Warlock
+10,Creature,Magi
+11,Artifact,Cloak
+12,Creature,Spider
+13,Spell,Forged Torment
+14,Spell,Ice
+15,Creature,Magi
+16,Creature,Skin-Walker
+17,Creature,Paladin
+18,Enchantment,Age
+19,Artifact,Belt
+20,Enchantment,Deathgrip
+21,Creature,Earth Priest Kraken
+22,Spell,Tempest
+23,Creature,Fairy
+24,Spell,Gale
+25,Creature,Snow Lord Ogre of the West
+26,Creature,Ghoul
+27,Enchantment,Haste
+28,Spell,Lightning
+29,Creature,Ghoul
+30,Enchantment,Dire Shimmering Age
+31,Enchantment,Age
+32,Creature,Spider
+33,Creature,Paladin
+34,Creature,Dark Fighter Goblin
+35,Artifact,Shield
+36,Enchantment,Haste
+37,Creature,Paladin
+38,Creature,Eagle
+39,Creature,Light Rogue Goblin
+40,Enchantment,Alacrity
+41,Creature,Eagle
+42,Creature,Snow Fighter Cyclops
+43,Spell,Burst
+44,Artifact,Tome

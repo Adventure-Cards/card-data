@@ -1,46 +1,46 @@
-==================,DECK,7748,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Eagle
-2,Spell,Rare,Solar Lightning
-3,Spell,Common,Rage
-4,Spell,Common,Stun
-5,Creature,Common,Dwarf
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Shade
-8,Spell,Common,Revive
-9,Enchantment,Common,Flight
-10,Creature,Common,Eagle
-11,Artifact,Rare,Hateful Helmet
-12,Creature,Mythic,Dark Chaos Wizard of Illusion
-13,Creature,Common,Goblin
-14,Enchantment,Common,Shade
-15,Enchantment,Mythic,Mighty Deathgrip
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Artifact,Common,Potion
-19,Creature,Common,Paladin
-20,Spell,Common,Heal
-21,Creature,Rare,Death Merchant Griffin
-22,Creature,Common,Warlock
-23,Artifact,Common,Shield
-24,Enchantment,Common,Lethargy
-25,Creature,Common,Wolf
-26,Creature,Common,Elf
-27,Enchantment,Common,Shade
-28,Creature,Common,Orc
-29,Creature,Common,Wolf
-30,Creature,Rare,Frozen Assassin Skin-Walker
-31,Spell,Common,Frost
-32,Enchantment,Common,Strength
-33,Creature,Common,Wolf
-34,Enchantment,Common,Haste
-35,Creature,Common,Spider
-36,Enchantment,Mythic,Angry Shield
-37,Creature,Rare,Snow Lord Minotaur
-38,Creature,Rare,Death Rogue Griffin
-39,Enchantment,Common,Agony
-40,Creature,Rare,Death Merchant Berserker
-41,Creature,Common,Spider
-42,Enchantment,Common,Lethargy
-43,Creature,Legendary,Dark Merchant Cyclops of the Golden Palace
-44,Spell,Common,Frenzy
+==================,DECK,7748
+0,Creature,Eagle
+1,Creature,Eagle
+2,Spell,Corpse Sorrow
+3,Spell,Reanimate
+4,Spell,Ice
+5,Creature,Magi
+6,Spell,Stricken
+7,Enchantment,Shield
+8,Spell,Heal
+9,Enchantment,Firebreath
+10,Creature,Eagle
+11,Artifact,Lunar Helmet
+12,Creature,Dark Chaos Wizard of Illusion
+13,Creature,Skin-Walker
+14,Enchantment,Blight
+15,Enchantment,Potent Sorrow Shrink
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Artifact,Potion
+19,Creature,Troll
+20,Spell,Burn
+21,Creature,Death Merchant Griffin
+22,Creature,Berserker
+23,Artifact,Shield
+24,Enchantment,Age
+25,Creature,Wolf
+26,Creature,Warlock
+27,Enchantment,Haste
+28,Creature,Spider
+29,Creature,Wolf
+30,Creature,Frozen Assassin Orc
+31,Spell,Frenzy
+32,Enchantment,Shade
+33,Creature,Wolf
+34,Enchantment,Strength
+35,Creature,Paladin
+36,Enchantment,Dire Gloom Firebreath
+37,Creature,Snow Lord Cyclops
+38,Creature,Death Rogue Griffin
+39,Enchantment,Firebreath
+40,Creature,Death Merchant Goblin
+41,Creature,Paladin
+42,Enchantment,Flight
+43,Creature,Dark Merchant Giant of the Golden Palace
+44,Spell,Tempest

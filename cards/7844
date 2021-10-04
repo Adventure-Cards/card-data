@@ -1,46 +1,46 @@
-==================,DECK,7844,Light
-0,Creature,Legendary,Dark Lord Cyclops of the Low Hills
-1,Enchantment,Common,Alacrity
-2,Creature,Mythic,Aura Ancient Wizard of the Light
-3,Creature,Common,Elf
-4,Creature,Rare,Aura Fighter Berserker
-5,Enchantment,Common,Drain
-6,Creature,Common,Elf
-7,Spell,Common,Burn
-8,Creature,Common,Magi
-9,Enchantment,Common,Drain
-10,Creature,Common,Goblin
-11,Enchantment,Legendary,Instant Flight
-12,Creature,Legendary,Earth Assassin Orge of the West
-13,Artifact,Common,Shield
-14,Creature,Common,Magi
-15,Spell,Common,Gale
-16,Creature,Common,Magi
-17,Creature,Rare,Death Queen Minotaur
-18,Enchantment,Common,Alacrity
-19,Spell,Common,Fury
-20,Creature,Legendary,Light Monk Giant of the Golden Palace
-21,Spell,Common,Invisibility
-22,Creature,Rare,Aura Lord Griffin
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Shade
-25,Creature,Rare,Aura King Griffin
-26,Spell,Common,Stun
-27,Creature,Common,Orc
-28,Creature,Common,Wolf
-29,Creature,Common,Paladin
-30,Creature,Common,Wolf
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Maelstrom
-33,Creature,Common,Elf
-34,Spell,Common,Freeze
-35,Spell,Common,Freeze
-36,Artifact,Common,Potion
-37,Enchantment,Rare,Necro Blight
-38,Creature,Common,Warlock
-39,Spell,Common,Gravitation
-40,Creature,Mythic,Light Time Phoenix of the Sky
-41,Enchantment,Mythic,Intense Deathgrip
-42,Creature,Common,Ghoul
-43,Creature,Rare,Earth Lord Fairy
-44,Creature,Common,Wolf
+==================,DECK,7844
+0,Creature,Dark Lord Giant of the Low Hills
+1,Enchantment,Shrink
+2,Creature,Aura Ancient Wizard of the Light
+3,Creature,Warlock
+4,Creature,Aura Fighter Goblin
+5,Enchantment,Agony
+6,Creature,Warlock
+7,Spell,Sorrow
+8,Creature,Fairy
+9,Enchantment,Shrink
+10,Creature,Skin-Walker
+11,Enchantment,Potent Hateful Strength
+12,Creature,Earth Assassin Elf of the West
+13,Artifact,Shield
+14,Creature,Fairy
+15,Spell,Lightning
+16,Creature,Fairy
+17,Creature,Death Queen Cyclops
+18,Enchantment,Invert
+19,Spell,Fury
+20,Creature,Light Monk Dwarf of the Golden Palace
+21,Spell,Gravitation
+22,Creature,Aura Lord Griffin
+23,Creature,Magi
+24,Enchantment,Flight
+25,Creature,Aura King Griffin
+26,Spell,Burst
+27,Creature,Spider
+28,Creature,Wolf
+29,Creature,Troll
+30,Creature,Wolf
+31,Enchantment,Age
+32,Spell,Torment
+33,Creature,Warlock
+34,Spell,Fire
+35,Spell,Invisibility
+36,Artifact,Potion
+37,Enchantment,Solar Deathgrip
+38,Creature,Berserker
+39,Spell,Pandemonium
+40,Creature,Light Time Phoenix of the Sky
+41,Enchantment,Clever Shimmering Lethargy
+42,Creature,Ghoul
+43,Creature,Earth Lord Kraken
+44,Creature,Wolf

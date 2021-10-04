@@ -1,46 +1,46 @@
-==================,DECK,4803,Medium
-0,Artifact,Rare,Miracle Amulet
-1,Creature,Common,Ghoul
-2,Spell,Rare,Frigid Wall
-3,Creature,Mythic,Death Chaos Demon of the Dead
-4,Creature,Rare,Death Assassin Berserker
-5,Artifact,Common,Sigil
-6,Creature,Common,Paladin
-7,Creature,Common,Ghoul
-8,Spell,Common,Freeze
-9,Enchantment,Common,Shield
-10,Spell,Common,Rage
-11,Creature,Rare,Light Fighter Fairy
-12,Creature,Legendary,Frozen Lord Kraken of the Bright Mountains
-13,Creature,Common,Goblin
-14,Artifact,Legendary,Dire Divine Robe
-15,Enchantment,Legendary,Extreme Deathgrip
-16,Enchantment,Common,Flight
-17,Enchantment,Rare,Gloom Strength
-18,Creature,Common,Paladin
-19,Creature,Legendary,Death Warrior Kraken of the Haven
-20,Creature,Common,Magi
-21,Artifact,Common,Gauntlet
-22,Creature,Rare,Dark King Hydra
-23,Artifact,Common,Staff
-24,Creature,Mythic,Frozen Nameless Dragon of the Void
-25,Enchantment,Common,Blight
-26,Enchantment,Legendary,Urgent Alacrity
-27,Enchantment,Common,Agony
-28,Creature,Common,Ghoul
-29,Enchantment,Mythic,Clever Invert
-30,Enchantment,Common,Drain
-31,Creature,Mythic,Snow Grand Wizard of Hate
-32,Creature,Common,Spider
-33,Creature,Common,Magi
-34,Enchantment,Rare,Gloom Strength
-35,Artifact,Common,Cloak
-36,Enchantment,Common,Shade
-37,Spell,Rare,Hateful Infuriate
-38,Artifact,Common,Amulet
-39,Creature,Common,Orc
-40,Creature,Rare,Earth Fighter Hydra
-41,Creature,Mythic,Dark Nameless Dragon of Illusion
-42,Spell,Common,Gravitation
-43,Creature,Rare,Dark Assassin Griffin
-44,Creature,Common,Elf
+==================,DECK,4803
+0,Artifact,Victory Amulet
+1,Creature,Ghoul
+2,Spell,Nimble Hypnosis
+3,Creature,Death Chaos Demon of the Dead
+4,Creature,Death Assassin Goblin
+5,Artifact,Sigil
+6,Creature,Troll
+7,Creature,Ghoul
+8,Spell,Lightning
+9,Enchantment,Agony
+10,Spell,Sorrow
+11,Creature,Light Fighter Kraken
+12,Creature,Frozen Lord Ogre of the Bright Mountains
+13,Creature,Skin-Walker
+14,Artifact,Potent Frigid Divine Robe
+15,Enchantment,Zealous Sorrow Alacrity
+16,Enchantment,Blight
+17,Enchantment,Cataclysmic Alacrity
+18,Creature,Troll
+19,Creature,Death Warrior Ogre of the Haven
+20,Creature,Fairy
+21,Artifact,Gauntlet
+22,Creature,Dark King Hydra
+23,Artifact,Staff
+24,Creature,Frozen Nameless Dragon of the Void
+25,Enchantment,Haste
+26,Enchantment,Instant Forged Strength
+27,Enchantment,Haste
+28,Creature,Ghoul
+29,Enchantment,Ardent Oblivion Haste
+30,Enchantment,Blight
+31,Creature,Snow Grand Wizard of Hate
+32,Creature,Paladin
+33,Creature,Fairy
+34,Enchantment,Cataclysmic Shield
+35,Artifact,Cloak
+36,Enchantment,Strength
+37,Spell,Miracle Frost
+38,Artifact,Amulet
+39,Creature,Spider
+40,Creature,Earth Fighter Hydra
+41,Creature,Dark Nameless Dragon of Illusion
+42,Spell,Wall
+43,Creature,Dark Assassin Griffin
+44,Creature,Warlock

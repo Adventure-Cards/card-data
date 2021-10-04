@@ -1,46 +1,46 @@
-==================,DECK,6053,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Dwarf
-2,Enchantment,Rare,Apocalypse Blight
-3,Enchantment,Common,Flight
-4,Creature,Mythic,Aura Chaos Demon of the Light
-5,Enchantment,Common,Age
-6,Creature,Legendary,Earth Rogue Kraken of the Eternal Land
-7,Enchantment,Legendary,Extreme Haste
-8,Creature,Mythic,Frozen Nameless Dragon of the Void
-9,Spell,Common,Burn
-10,Enchantment,Common,Strength
-11,Creature,Common,Dwarf
-12,Enchantment,Rare,Hateful Drain
-13,Creature,Common,Wolf
-14,Spell,Rare,Forged Heal
-15,Spell,Common,Invisibility
-16,Artifact,Common,Boots
-17,Spell,Common,Burn
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Shade
-20,Artifact,Rare,Forged Crown
-21,Enchantment,Common,Flight
-22,Creature,Rare,Death Monk Fairy
-23,Creature,Common,Eagle
-24,Enchantment,Mythic,Extreme Shade
-25,Enchantment,Common,Drain
-26,Creature,Common,Paladin
-27,Creature,Common,Wolf
-28,Creature,Rare,Light Priest Hydra
-29,Spell,Common,Maelstrom
-30,Artifact,Rare,Gloom Sigil
-31,Creature,Common,Ghoul
-32,Spell,Common,Pandemonium
-33,Enchantment,Common,Invert
-34,Creature,Common,Wolf
-35,Spell,Common,Fury
-36,Spell,Common,Infuriate
-37,Enchantment,Mythic,Mighty Drain
-38,Creature,Legendary,Snow Merchant Cyclops of the Golden Palace
-39,Creature,Rare,Dark King Griffin
-40,Enchantment,Common,Age
-41,Creature,Common,Elf
-42,Spell,Common,Hypnosis
-43,Creature,Mythic,Death Chaos Demon of the Dead
-44,Artifact,Common,Gloves
+==================,DECK,6053
+0,Creature,Warlock
+1,Creature,Magi
+2,Enchantment,Nimble Blight
+3,Enchantment,Lethargy
+4,Creature,Aura Chaos Demon of the Light
+5,Enchantment,Invert
+6,Creature,Earth Rogue Ogre of the Eternal Land
+7,Enchantment,Clever Miracle Shield
+8,Creature,Frozen Nameless Dragon of the Void
+9,Spell,Fireball
+10,Enchantment,Agony
+11,Creature,Magi
+12,Enchantment,Dark Alacrity
+13,Creature,Wolf
+14,Spell,Chimeric Frost
+15,Spell,Fury
+16,Artifact,Boots
+17,Spell,Pandemonium
+18,Creature,Magi
+19,Enchantment,Strength
+20,Artifact,Sorrow Crown
+21,Enchantment,Deathgrip
+22,Creature,Death Monk Kraken
+23,Creature,Eagle
+24,Enchantment,Ardent Chimeric Shield
+25,Enchantment,Drain
+26,Creature,Troll
+27,Creature,Wolf
+28,Creature,Light Priest Hydra
+29,Spell,Fireball
+30,Artifact,Sorrow Sigil
+31,Creature,Ghoul
+32,Spell,Revive
+33,Enchantment,Agony
+34,Creature,Wolf
+35,Spell,Torment
+36,Spell,Freeze
+37,Enchantment,Mighty Dark Flight
+38,Creature,Snow Merchant Giant of the Golden Palace
+39,Creature,Dark King Griffin
+40,Enchantment,Alacrity
+41,Creature,Warlock
+42,Spell,Revive
+43,Creature,Death Chaos Demon of the Dead
+44,Artifact,Gloves

@@ -1,46 +1,46 @@
-==================,DECK,4191,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Ghoul
-2,Creature,Common,Spider
-3,Spell,Common,Sorrow
-4,Creature,Common,Warlock
-5,Spell,Legendary,Instant Rage
-6,Creature,Common,Paladin
-7,Creature,Rare,Dark Lord Minotaur
-8,Creature,Common,Ghoul
-9,Creature,Common,Eagle
-10,Creature,Rare,Aura Undead Skin-Walker
-11,Artifact,Legendary,Dire Staff
-12,Spell,Common,Frost
-13,Creature,Common,Orc
-14,Enchantment,Common,Alacrity
-15,Creature,Common,Goblin
-16,Spell,Common,Stun
-17,Creature,Common,Spider
-18,Enchantment,Common,Shield
-19,Enchantment,Mythic,Potent Shield
-20,Enchantment,Common,Blight
-21,Creature,Rare,Dark Merchant Skin-Walker
-22,Enchantment,Common,Drain
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Vortex
-25,Spell,Legendary,Angry Heal
-26,Spell,Common,Gravitation
-27,Spell,Common,Frenzy
-28,Spell,Rare,Life Reanimate
-29,Creature,Common,Goblin
-30,Artifact,Common,Ring
-31,Enchantment,Mythic,Instant Shade
-32,Creature,Rare,Aura Knight Skin-Walker
-33,Creature,Common,Paladin
-34,Artifact,Common,Amulet
-35,Enchantment,Mythic,Extreme Strength
-36,Enchantment,Common,Lethargy
-37,Enchantment,Rare,Necro Haste
-38,Enchantment,Common,Age
-39,Creature,Common,Paladin
-40,Creature,Legendary,Death Assassin Oni of the Eastern Skies
-41,Enchantment,Common,Deathgrip
-42,Spell,Legendary,Mighty Revive
-43,Creature,Rare,Snow Priest Fairy
-44,Creature,Common,Orc
+==================,DECK,4191
+0,Creature,Wolf
+1,Creature,Ghoul
+2,Creature,Paladin
+3,Spell,Wall
+4,Creature,Berserker
+5,Spell,Irate Nature Wall
+6,Creature,Troll
+7,Creature,Dark Lord Cyclops
+8,Creature,Ghoul
+9,Creature,Eagle
+10,Creature,Aura Undead Orc
+11,Artifact,Zealous Grim Staff
+12,Spell,Heal
+13,Creature,Spider
+14,Enchantment,Shield
+15,Creature,Skin-Walker
+16,Spell,Frenzy
+17,Creature,Paladin
+18,Enchantment,Blight
+19,Enchantment,Instant Victory Drain
+20,Enchantment,Blight
+21,Creature,Dark Merchant Orc
+22,Enchantment,Shade
+23,Enchantment,Firebreath
+24,Spell,Invisibility
+25,Spell,Ardent Gloom Revive
+26,Spell,Gale
+27,Spell,Torment
+28,Spell,Frigid Burst
+29,Creature,Skin-Walker
+30,Artifact,Ring
+31,Enchantment,Instant Necro Strength
+32,Creature,Aura Knight Orc
+33,Creature,Troll
+34,Artifact,Amulet
+35,Enchantment,Instant Cataclysmic Shrink
+36,Enchantment,Lethargy
+37,Enchantment,Corpse Agony
+38,Enchantment,Agony
+39,Creature,Troll
+40,Creature,Death Assassin Oni of the Eastern Skies
+41,Enchantment,Firebreath
+42,Spell,Urgent Sorrow Maelstrom
+43,Creature,Snow Priest Kraken
+44,Creature,Spider

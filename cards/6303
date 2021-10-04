@@ -1,46 +1,46 @@
-==================,DECK,6303,Light
-0,Spell,Common,Maelstrom
-1,Creature,Rare,Snow Lord Skin-Walker
-2,Creature,Common,Wolf
-3,Creature,Common,Elf
-4,Creature,Common,Goblin
-5,Spell,Common,Vortex
-6,Creature,Common,Paladin
-7,Spell,Rare,Corpse Revive
-8,Creature,Rare,Snow King Fairy
-9,Creature,Common,Dwarf
-10,Creature,Rare,Earth Assassin Fairy
-11,Creature,Common,Dwarf
-12,Spell,Common,Infuriate
-13,Spell,Common,Lightning
-14,Spell,Common,Frenzy
-15,Creature,Common,Eagle
-16,Enchantment,Common,Flight
-17,Creature,Legendary,Earth Undead Oni of the Bright Mountains
-18,Spell,Legendary,Clever Invisibility
-19,Artifact,Common,Staff
-20,Enchantment,Rare,Necro Haste
-21,Creature,Common,Wolf
-22,Spell,Common,Rage
-23,Creature,Common,Spider
-24,Creature,Common,Ghoul
-25,Creature,Rare,Light Lord Minotaur
-26,Creature,Rare,Earth Thief Skin-Walker
-27,Creature,Common,Elf
-28,Artifact,Common,Scythe
-29,Creature,Common,Ghoul
-30,Enchantment,Common,Lethargy
-31,Creature,Rare,Snow Lord Fairy
-32,Creature,Rare,Frozen Assassin Hydra
-33,Creature,Common,Goblin
-34,Enchantment,Common,Lethargy
-35,Creature,Common,Magi
-36,Creature,Rare,Aura Queen Skin-Walker
-37,Creature,Common,Warlock
-38,Spell,Common,Burn
-39,Creature,Common,Wolf
-40,Spell,Common,Torment
-41,Creature,Rare,Earth Fighter Fairy
-42,Spell,Common,Stun
-43,Creature,Common,Eagle
-44,Creature,Common,Ghoul
+==================,DECK,6303
+0,Spell,Revive
+1,Creature,Snow Lord Orc
+2,Creature,Wolf
+3,Creature,Warlock
+4,Creature,Skin-Walker
+5,Spell,Lightning
+6,Creature,Troll
+7,Spell,Necro Wall
+8,Creature,Snow King Kraken
+9,Creature,Magi
+10,Creature,Earth Assassin Kraken
+11,Creature,Magi
+12,Spell,Rage
+13,Spell,Torment
+14,Spell,Revive
+15,Creature,Eagle
+16,Enchantment,Strength
+17,Creature,Earth Undead Oni of the Bright Mountains
+18,Spell,Irate Life Tempest
+19,Artifact,Staff
+20,Enchantment,Corpse Deathgrip
+21,Creature,Wolf
+22,Spell,Stun
+23,Creature,Paladin
+24,Creature,Ghoul
+25,Creature,Light Lord Cyclops
+26,Creature,Earth Thief Orc
+27,Creature,Warlock
+28,Artifact,Scythe
+29,Creature,Ghoul
+30,Enchantment,Firebreath
+31,Creature,Snow Lord Kraken
+32,Creature,Frozen Assassin Hydra
+33,Creature,Skin-Walker
+34,Enchantment,Haste
+35,Creature,Fairy
+36,Creature,Aura Queen Orc
+37,Creature,Berserker
+38,Spell,Assault
+39,Creature,Wolf
+40,Spell,Tempest
+41,Creature,Earth Fighter Kraken
+42,Spell,Hypnosis
+43,Creature,Eagle
+44,Creature,Ghoul

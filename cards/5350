@@ -1,46 +1,46 @@
-==================,DECK,5350,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Magi
-2,Creature,Rare,Death Merchant Minotaur
-3,Creature,Common,Orc
-4,Enchantment,Rare,Nimble Agony
-5,Artifact,Common,Boots
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Enchantment,Rare,Miracle Haste
-9,Enchantment,Common,Haste
-10,Spell,Common,Rage
-11,Creature,Common,Warlock
-12,Creature,Rare,Earth Queen Berserker
-13,Spell,Common,Maelstrom
-14,Creature,Common,Paladin
-15,Artifact,Common,Sword
-16,Spell,Legendary,Instant Frenzy
-17,Creature,Common,Eagle
-18,Creature,Common,Paladin
-19,Creature,Common,Eagle
-20,Creature,Common,Spider
-21,Creature,Rare,Light Warrior Minotaur
-22,Spell,Common,Assault
-23,Creature,Mythic,Snow Nameless Phoenix of Hate
-24,Creature,Legendary,Death Monk Giant of the Plains
-25,Creature,Common,Dwarf
-26,Artifact,Common,Amulet
-27,Enchantment,Common,Drain
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Spider
-30,Enchantment,Common,Lethargy
-31,Creature,Common,Wolf
-32,Artifact,Common,Scepter
-33,Creature,Rare,Earth Lord Berserker
-34,Enchantment,Mythic,Angry Invert
-35,Creature,Common,Elf
-36,Enchantment,Common,Agony
-37,Creature,Rare,Death Lord Fairy
-38,Creature,Mythic,Death Ancient Wizard of the Dead
-39,Creature,Common,Goblin
-40,Creature,Common,Ghoul
-41,Creature,Common,Wolf
-42,Artifact,Common,Amulet
-43,Spell,Common,Burst
-44,Enchantment,Common,Flight
+==================,DECK,5350
+0,Creature,Ghoul
+1,Creature,Fairy
+2,Creature,Death Merchant Cyclops
+3,Creature,Spider
+4,Enchantment,Corpse Lethargy
+5,Artifact,Boots
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Enchantment,Life Drain
+9,Enchantment,Haste
+10,Spell,Stricken
+11,Creature,Berserker
+12,Creature,Earth Queen Goblin
+13,Spell,Gravitation
+14,Creature,Troll
+15,Artifact,Sword
+16,Spell,Urgent Shimmering Reanimate
+17,Creature,Eagle
+18,Creature,Troll
+19,Creature,Eagle
+20,Creature,Paladin
+21,Creature,Light Warrior Cyclops
+22,Spell,Pandemonium
+23,Creature,Snow Nameless Phoenix of Hate
+24,Creature,Death Monk Dwarf of the Plains
+25,Creature,Magi
+26,Artifact,Amulet
+27,Enchantment,Haste
+28,Enchantment,Drain
+29,Creature,Paladin
+30,Enchantment,Haste
+31,Creature,Wolf
+32,Artifact,Scepter
+33,Creature,Earth Lord Goblin
+34,Enchantment,Instant Sorrow Shrink
+35,Creature,Warlock
+36,Enchantment,Age
+37,Creature,Death Lord Kraken
+38,Creature,Death Ancient Wizard of the Dead
+39,Creature,Skin-Walker
+40,Creature,Ghoul
+41,Creature,Wolf
+42,Artifact,Amulet
+43,Spell,Assault
+44,Enchantment,Firebreath

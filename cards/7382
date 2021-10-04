@@ -1,46 +1,46 @@
-==================,DECK,7382,Light
-0,Creature,Common,Elf
-1,Creature,Legendary,Aura Fighter Giant of the Haven
-2,Artifact,Common,Bow
-3,Creature,Legendary,Frozen Priest Kraken of the Magical Forest
-4,Creature,Common,Magi
-5,Spell,Common,Gravitation
-6,Creature,Rare,Death Thief Berserker
-7,Spell,Common,Sorrow
-8,Enchantment,Common,Haste
-9,Creature,Common,Orc
-10,Creature,Common,Elf
-11,Spell,Legendary,Angry Rage
-12,Artifact,Rare,Cataclysmic Sword
-13,Creature,Legendary,Frozen Priest Oni of the Mountains
-14,Spell,Common,Hypnosis
-15,Spell,Common,Gravitation
-16,Enchantment,Common,Agony
-17,Creature,Common,Magi
-18,Creature,Common,Orc
-19,Creature,Common,Paladin
-20,Artifact,Rare,Cataclysmic Crown
-21,Creature,Common,Magi
-22,Spell,Rare,Solar Torment
-23,Creature,Common,Eagle
-24,Creature,Common,Warlock
-25,Spell,Common,Ice
-26,Spell,Legendary,Angry Stricken
-27,Creature,Legendary,Death Knight Orge of the Polar Woods
-28,Enchantment,Common,Blight
-29,Enchantment,Rare,Grim Shade
-30,Spell,Common,Revive
-31,Creature,Mythic,Frozen Grand Demon of the Void
-32,Enchantment,Common,Alacrity
-33,Creature,Common,Elf
-34,Creature,Mythic,Dark Time Phoenix of Illusion
-35,Artifact,Common,Ghost Wand
-36,Creature,Common,Goblin
-37,Creature,Common,Eagle
-38,Enchantment,Common,Drain
-39,Enchantment,Rare,Grim Strength
-40,Artifact,Common,Sword
-41,Creature,Rare,Snow Fighter Fairy
-42,Creature,Mythic,Dark Time Phoenix of Illusion
-43,Creature,Common,Elf
-44,Creature,Mythic,Earth Nameless Phoenix of the Shadows
+==================,DECK,7382
+0,Creature,Warlock
+1,Creature,Aura Fighter Dwarf of the Haven
+2,Artifact,Bow
+3,Creature,Frozen Priest Ogre of the Magical Forest
+4,Creature,Fairy
+5,Spell,Tempest
+6,Creature,Death Thief Goblin
+7,Spell,Gravitation
+8,Enchantment,Strength
+9,Creature,Spider
+10,Creature,Warlock
+11,Spell,Ardent Gloom Stricken
+12,Artifact,Gloom Sword
+13,Creature,Frozen Priest Oni of the Mountains
+14,Spell,Sorrow
+15,Spell,Burst
+16,Enchantment,Drain
+17,Creature,Fairy
+18,Creature,Spider
+19,Creature,Troll
+20,Artifact,Miracle Crown
+21,Creature,Fairy
+22,Spell,Forged Revive
+23,Creature,Eagle
+24,Creature,Berserker
+25,Spell,Wall
+26,Spell,Clever Gloom Hypnosis
+27,Creature,Death Knight Elf of the Polar Woods
+28,Enchantment,Shrink
+29,Enchantment,Frigid Blight
+30,Spell,Heal
+31,Creature,Frozen Grand Demon of the Void
+32,Enchantment,Agony
+33,Creature,Warlock
+34,Creature,Dark Time Phoenix of Illusion
+35,Artifact,Ghost Wand
+36,Creature,Skin-Walker
+37,Creature,Eagle
+38,Enchantment,Agony
+39,Enchantment,Nimble Drain
+40,Artifact,Sword
+41,Creature,Snow Fighter Kraken
+42,Creature,Dark Time Phoenix of Illusion
+43,Creature,Warlock
+44,Creature,Earth Nameless Phoenix of the Shadows

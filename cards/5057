@@ -1,46 +1,46 @@
-==================,DECK,5057,Light
-0,Creature,Common,Magi
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Ghoul
-4,Creature,Rare,Light Fighter Skin-Walker
-5,Creature,Common,Warlock
-6,Enchantment,Mythic,Angry Shrink
-7,Artifact,Common,Scepter
-8,Creature,Common,Orc
-9,Artifact,Common,Ring
-10,Creature,Rare,Frozen Thief Hydra
-11,Creature,Common,Paladin
-12,Artifact,Rare,Necro Greaves
-13,Enchantment,Common,Strength
-14,Enchantment,Mythic,Urgent Strength
-15,Creature,Common,Eagle
-16,Creature,Common,Spider
-17,Spell,Rare,Gloom Torment
-18,Spell,Common,Frost
-19,Spell,Common,Hypnosis
-20,Enchantment,Mythic,Mighty Drain
-21,Creature,Common,Spider
-22,Spell,Legendary,Urgent Stricken
-23,Enchantment,Legendary,Angry Flight
-24,Enchantment,Common,Age
-25,Enchantment,Common,Deathgrip
-26,Spell,Rare,Miracle Sorrow
-27,Creature,Rare,Frozen Queen Hydra
-28,Artifact,Common,Ring
-29,Enchantment,Common,Lethargy
-30,Enchantment,Common,Age
-31,Creature,Common,Wolf
-32,Enchantment,Common,Strength
-33,Creature,Common,Paladin
-34,Creature,Common,Spider
-35,Creature,Legendary,Earth King Kraken of the Black Stone
-36,Creature,Mythic,Dark Time Phoenix of Illusion
-37,Spell,Common,Freeze
-38,Spell,Common,Stun
-39,Enchantment,Common,Drain
-40,Enchantment,Common,Shrink
-41,Creature,Common,Spider
-42,Creature,Common,Goblin
-43,Creature,Common,Spider
-44,Enchantment,Common,Blight
+==================,DECK,5057
+0,Creature,Fairy
+1,Creature,Ghoul
+2,Enchantment,Lethargy
+3,Creature,Ghoul
+4,Creature,Light Fighter Orc
+5,Creature,Berserker
+6,Enchantment,Empyrean Chimeric Firebreath
+7,Artifact,Scepter
+8,Creature,Spider
+9,Artifact,Ring
+10,Creature,Frozen Thief Hydra
+11,Creature,Troll
+12,Artifact,Solar Greaves
+13,Enchantment,Shade
+14,Enchantment,Dire Solar Age
+15,Creature,Eagle
+16,Creature,Paladin
+17,Spell,Sorrow Tempest
+18,Spell,Lightning
+19,Spell,Frenzy
+20,Enchantment,Empyrean Dark Firebreath
+21,Creature,Paladin
+22,Spell,Potent Necro Tempest
+23,Enchantment,Zealous Lunar Alacrity
+24,Enchantment,Firebreath
+25,Enchantment,Flight
+26,Spell,Grim Rage
+27,Creature,Frozen Queen Hydra
+28,Artifact,Ring
+29,Enchantment,Flight
+30,Enchantment,Lethargy
+31,Creature,Wolf
+32,Enchantment,Deathgrip
+33,Creature,Troll
+34,Creature,Paladin
+35,Creature,Earth King Ogre of the Black Stone
+36,Creature,Dark Time Phoenix of Illusion
+37,Spell,Gravitation
+38,Spell,Gale
+39,Enchantment,Shield
+40,Enchantment,Shrink
+41,Creature,Paladin
+42,Creature,Skin-Walker
+43,Creature,Paladin
+44,Enchantment,Agony

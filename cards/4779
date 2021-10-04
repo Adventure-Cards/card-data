@@ -1,46 +1,46 @@
-==================,DECK,4779,Light
-0,Creature,Common,Spider
-1,Creature,Rare,Death Assassin Griffin
-2,Spell,Rare,Oblivion Vortex
-3,Artifact,Common,Crown
-4,Artifact,Common,Scythe
-5,Artifact,Common,Scythe
-6,Creature,Common,Spider
-7,Creature,Rare,Snow Warrior Minotaur
-8,Artifact,Common,Greaves
-9,Creature,Rare,Dark Thief Berserker
-10,Spell,Common,Pandemonium
-11,Creature,Common,Orc
-12,Creature,Legendary,Snow Thief Cyclops of the Border
-13,Enchantment,Mythic,Clever Lethargy
-14,Creature,Legendary,Aura Monk Kraken of the Border
-15,Creature,Common,Ghoul
-16,Creature,Rare,Aura King Minotaur
-17,Artifact,Rare,Gloom Staff
-18,Creature,Common,Goblin
-19,Spell,Legendary,Dire Burn
-20,Creature,Common,Dwarf
-21,Spell,Common,Ice
-22,Spell,Common,Gale
-23,Spell,Common,Freeze
-24,Enchantment,Common,Drain
-25,Creature,Common,Ghoul
-26,Enchantment,Mythic,Mighty Shield
-27,Enchantment,Common,Shrink
-28,Enchantment,Common,Strength
-29,Creature,Common,Ghoul
-30,Creature,Rare,Death Assassin Berserker
-31,Spell,Common,Infuriate
-32,Creature,Common,Dwarf
-33,Spell,Common,Fury
-34,Creature,Common,Warlock
-35,Creature,Common,Elf
-36,Creature,Common,Orc
-37,Artifact,Common,Tome
-38,Creature,Common,Elf
-39,Enchantment,Common,Alacrity
-40,Enchantment,Common,Invert
-41,Spell,Common,Gale
-42,Creature,Legendary,Aura Lord Kraken of the Arctic Blizzards
-43,Creature,Legendary,Earth Fighter Orge of the Border
-44,Creature,Common,Orc
+==================,DECK,4779
+0,Creature,Paladin
+1,Creature,Death Assassin Griffin
+2,Spell,Life Gravitation
+3,Artifact,Crown
+4,Artifact,Scythe
+5,Artifact,Scythe
+6,Creature,Paladin
+7,Creature,Snow Warrior Cyclops
+8,Artifact,Greaves
+9,Creature,Dark Thief Goblin
+10,Spell,Hypnosis
+11,Creature,Spider
+12,Creature,Snow Thief Giant of the Border
+13,Enchantment,Irate Grim Blight
+14,Creature,Aura Monk Ogre of the Border
+15,Creature,Ghoul
+16,Creature,Aura King Cyclops
+17,Artifact,Gloom Staff
+18,Creature,Skin-Walker
+19,Spell,Mighty Nimble Fireball
+20,Creature,Magi
+21,Spell,Burn
+22,Spell,Burn
+23,Spell,Torment
+24,Enchantment,Alacrity
+25,Creature,Ghoul
+26,Enchantment,Irate Gloom Alacrity
+27,Enchantment,Deathgrip
+28,Enchantment,Shade
+29,Creature,Ghoul
+30,Creature,Death Assassin Goblin
+31,Spell,Infuriate
+32,Creature,Magi
+33,Spell,Maelstrom
+34,Creature,Berserker
+35,Creature,Warlock
+36,Creature,Spider
+37,Artifact,Tome
+38,Creature,Warlock
+39,Enchantment,Flight
+40,Enchantment,Age
+41,Spell,Ice
+42,Creature,Aura Lord Ogre of the Arctic Blizzards
+43,Creature,Earth Fighter Elf of the Border
+44,Creature,Spider

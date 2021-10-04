@@ -1,46 +1,46 @@
-==================,DECK,6890,Medium
-0,Creature,Common,Elf
-1,Spell,Common,Vortex
-2,Creature,Common,Magi
-3,Creature,Rare,Dark Warrior Hydra
-4,Creature,Common,Warlock
-5,Creature,Rare,Snow Thief Skin-Walker
-6,Spell,Common,Sorrow
-7,Artifact,Common,Crown
-8,Artifact,Legendary,Instant Shield
-9,Enchantment,Common,Age
-10,Creature,Common,Orc
-11,Creature,Common,Dwarf
-12,Creature,Common,Warlock
-13,Creature,Common,Ghoul
-14,Spell,Common,Frenzy
-15,Enchantment,Common,Shield
-16,Creature,Rare,Aura Monk Skin-Walker
-17,Enchantment,Common,Shrink
-18,Creature,Rare,Aura Priest Fairy
-19,Enchantment,Common,Drain
-20,Creature,Common,Orc
-21,Spell,Common,Invisibility
-22,Spell,Common,Hypnosis
-23,Creature,Legendary,Light Fighter Orge of the Polar Woods
-24,Spell,Common,Invisibility
-25,Creature,Common,Dwarf
-26,Creature,Common,Goblin
-27,Enchantment,Rare,Apocalypse Shrink
-28,Spell,Common,Sorrow
-29,Creature,Rare,Aura Knight Griffin
-30,Enchantment,Common,Haste
-31,Spell,Common,Hypnosis
-32,Creature,Rare,Frozen Undead Hydra
-33,Creature,Rare,Earth Lord Griffin
-34,Enchantment,Mythic,Dire Blight
-35,Spell,Rare,Life Burn
-36,Spell,Common,Stun
-37,Creature,Common,Goblin
-38,Creature,Common,Wolf
-39,Creature,Common,Spider
-40,Creature,Common,Orc
-41,Creature,Rare,Snow Queen Berserker
-42,Creature,Common,Spider
-43,Creature,Common,Magi
-44,Creature,Common,Ghoul
+==================,DECK,6890
+0,Creature,Warlock
+1,Spell,Burn
+2,Creature,Fairy
+3,Creature,Dark Warrior Hydra
+4,Creature,Berserker
+5,Creature,Snow Thief Orc
+6,Spell,Revive
+7,Artifact,Crown
+8,Artifact,Dire Nature Shield
+9,Enchantment,Shield
+10,Creature,Spider
+11,Creature,Magi
+12,Creature,Berserker
+13,Creature,Ghoul
+14,Spell,Fireball
+15,Enchantment,Blight
+16,Creature,Aura Monk Orc
+17,Enchantment,Shade
+18,Creature,Aura Priest Kraken
+19,Enchantment,Invert
+20,Creature,Spider
+21,Spell,Maelstrom
+22,Spell,Gale
+23,Creature,Light Fighter Elf of the Polar Woods
+24,Spell,Maelstrom
+25,Creature,Magi
+26,Creature,Skin-Walker
+27,Enchantment,Frigid Haste
+28,Spell,Infuriate
+29,Creature,Aura Knight Griffin
+30,Enchantment,Haste
+31,Spell,Tempest
+32,Creature,Frozen Undead Hydra
+33,Creature,Earth Lord Griffin
+34,Enchantment,Mighty Nimble Invert
+35,Spell,Life Burst
+36,Spell,Infuriate
+37,Creature,Skin-Walker
+38,Creature,Wolf
+39,Creature,Paladin
+40,Creature,Spider
+41,Creature,Snow Queen Goblin
+42,Creature,Paladin
+43,Creature,Fairy
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,6935,Medium
-0,Creature,Common,Paladin
-1,Creature,Rare,Dark Warrior Griffin
-2,Creature,Rare,Aura King Minotaur
-3,Creature,Rare,Dark Merchant Griffin
-4,Creature,Rare,Death Thief Griffin
-5,Creature,Legendary,Snow Rogue Oni of the Swamp
-6,Creature,Common,Warlock
-7,Enchantment,Rare,Lunar Shrink
-8,Creature,Common,Wolf
-9,Creature,Rare,Aura Monk Skin-Walker
-10,Spell,Common,Gravitation
-11,Spell,Common,Frost
-12,Creature,Rare,Frozen Fighter Skin-Walker
-13,Creature,Rare,Earth King Fairy
-14,Spell,Common,Heal
-15,Creature,Common,Magi
-16,Enchantment,Rare,Lunar Age
-17,Artifact,Common,Cloak
-18,Spell,Rare,Miracle Stun
-19,Creature,Common,Warlock
-20,Creature,Common,Orc
-21,Enchantment,Common,Alacrity
-22,Enchantment,Common,Agony
-23,Creature,Rare,Aura Warrior Minotaur
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Shield
-26,Creature,Common,Dwarf
-27,Artifact,Common,Ring
-28,Creature,Common,Warlock
-29,Enchantment,Common,Strength
-30,Creature,Rare,Death Monk Griffin
-31,Creature,Common,Orc
-32,Enchantment,Rare,Nature Flight
-33,Enchantment,Legendary,Intense Shrink
-34,Artifact,Rare,Solar Boots
-35,Creature,Rare,Frozen Undead Minotaur
-36,Artifact,Common,Ring
-37,Creature,Rare,Death Warrior Hydra
-38,Enchantment,Common,Haste
-39,Spell,Common,Burn
-40,Creature,Legendary,Death King Oni of the Golden Palace
-41,Creature,Common,Dwarf
-42,Enchantment,Mythic,Urgent Shade
-43,Spell,Common,Gravitation
-44,Artifact,Common,Staff
+==================,DECK,6935
+0,Creature,Troll
+1,Creature,Dark Warrior Griffin
+2,Creature,Aura King Cyclops
+3,Creature,Dark Merchant Griffin
+4,Creature,Death Thief Griffin
+5,Creature,Snow Rogue Oni of the Swamp
+6,Creature,Berserker
+7,Enchantment,Chimeric Alacrity
+8,Creature,Wolf
+9,Creature,Aura Monk Orc
+10,Spell,Freeze
+11,Spell,Fireball
+12,Creature,Frozen Fighter Orc
+13,Creature,Earth King Kraken
+14,Spell,Assault
+15,Creature,Fairy
+16,Enchantment,Gloom Shrink
+17,Artifact,Cloak
+18,Spell,Life Hypnosis
+19,Creature,Berserker
+20,Creature,Spider
+21,Enchantment,Firebreath
+22,Enchantment,Agony
+23,Creature,Aura Warrior Cyclops
+24,Creature,Magi
+25,Enchantment,Shield
+26,Creature,Magi
+27,Artifact,Ring
+28,Creature,Berserker
+29,Enchantment,Strength
+30,Creature,Death Monk Griffin
+31,Creature,Spider
+32,Enchantment,Hateful Strength
+33,Enchantment,Mighty Necro Agony
+34,Artifact,Forged Boots
+35,Creature,Frozen Undead Cyclops
+36,Artifact,Ring
+37,Creature,Death Warrior Hydra
+38,Enchantment,Shrink
+39,Spell,Reanimate
+40,Creature,Death King Oni of the Golden Palace
+41,Creature,Magi
+42,Enchantment,Dire Necro Age
+43,Spell,Fireball
+44,Artifact,Staff

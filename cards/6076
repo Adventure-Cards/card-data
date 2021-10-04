@@ -1,46 +1,46 @@
-==================,DECK,6076,Light
-0,Creature,Rare,Snow Lord Hydra
-1,Spell,Common,Torment
-2,Creature,Common,Goblin
-3,Creature,Common,Wolf
-4,Enchantment,Mythic,Angry Age
-5,Enchantment,Common,Haste
-6,Spell,Common,Freeze
-7,Creature,Mythic,Snow Time Dragon of Hate
-8,Creature,Rare,Frozen Warrior Fairy
-9,Spell,Common,Stun
-10,Spell,Common,Stun
-11,Enchantment,Common,Invert
-12,Creature,Rare,Light Queen Skin-Walker
-13,Creature,Common,Spider
-14,Creature,Common,Orc
-15,Enchantment,Mythic,Dire Deathgrip
-16,Enchantment,Rare,Dark Agony
-17,Artifact,Common,Helmet
-18,Enchantment,Common,Haste
-19,Creature,Common,Paladin
-20,Creature,Rare,Light Merchant Fairy
-21,Creature,Common,Eagle
-22,Artifact,Common,Boots
-23,Spell,Common,Frenzy
-24,Creature,Common,Goblin
-25,Creature,Rare,Aura Undead Berserker
-26,Creature,Common,Magi
-27,Enchantment,Common,Blight
-28,Creature,Common,Ghoul
-29,Creature,Common,Orc
-30,Creature,Legendary,Snow Thief Orge of the Border
-31,Creature,Common,Dwarf
-32,Enchantment,Common,Shrink
-33,Creature,Rare,Light Undead Minotaur
-34,Spell,Legendary,Mighty Pandemonium
-35,Creature,Legendary,Frozen King Giant of the Mountains
-36,Spell,Rare,Nimble Frost
-37,Creature,Common,Dwarf
-38,Creature,Rare,Aura Thief Griffin
-39,Creature,Common,Ghoul
-40,Creature,Common,Paladin
-41,Creature,Rare,Dark Assassin Griffin
-42,Creature,Common,Orc
-43,Enchantment,Common,Invert
-44,Creature,Common,Paladin
+==================,DECK,6076
+0,Creature,Snow Lord Hydra
+1,Spell,Burst
+2,Creature,Skin-Walker
+3,Creature,Wolf
+4,Enchantment,Potent Gloom Shrink
+5,Enchantment,Flight
+6,Spell,Freeze
+7,Creature,Snow Time Dragon of Hate
+8,Creature,Frozen Warrior Kraken
+9,Spell,Maelstrom
+10,Spell,Torment
+11,Enchantment,Blight
+12,Creature,Light Queen Orc
+13,Creature,Paladin
+14,Creature,Spider
+15,Enchantment,Potent Oblivion Drain
+16,Enchantment,Miracle Shrink
+17,Artifact,Helmet
+18,Enchantment,Age
+19,Creature,Troll
+20,Creature,Light Merchant Kraken
+21,Creature,Eagle
+22,Artifact,Boots
+23,Spell,Assault
+24,Creature,Skin-Walker
+25,Creature,Aura Undead Goblin
+26,Creature,Fairy
+27,Enchantment,Flight
+28,Creature,Ghoul
+29,Creature,Spider
+30,Creature,Snow Thief Elf of the Border
+31,Creature,Magi
+32,Enchantment,Haste
+33,Creature,Light Undead Cyclops
+34,Spell,Potent Gloom Hypnosis
+35,Creature,Frozen King Dwarf of the Mountains
+36,Spell,Shimmering Infuriate
+37,Creature,Magi
+38,Creature,Aura Thief Griffin
+39,Creature,Ghoul
+40,Creature,Troll
+41,Creature,Dark Assassin Griffin
+42,Creature,Spider
+43,Enchantment,Strength
+44,Creature,Troll

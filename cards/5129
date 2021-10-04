@@ -1,46 +1,46 @@
-==================,DECK,5129,Light
-0,Creature,Common,Elf
-1,Creature,Common,Spider
-2,Creature,Rare,Death Rogue Berserker
-3,Creature,Rare,Dark Priest Hydra
-4,Enchantment,Common,Agony
-5,Creature,Common,Warlock
-6,Creature,Common,Magi
-7,Enchantment,Common,Shield
-8,Creature,Common,Orc
-9,Creature,Common,Spider
-10,Creature,Common,Magi
-11,Enchantment,Common,Invert
-12,Enchantment,Mythic,Dire Strength
-13,Spell,Common,Pandemonium
-14,Creature,Common,Magi
-15,Creature,Rare,Earth Undead Fairy
-16,Creature,Rare,Frozen Rogue Minotaur
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Shade
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Drain
-21,Enchantment,Rare,Apocalypse Age
-22,Enchantment,Common,Alacrity
-23,Enchantment,Common,Flight
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Artifact,Common,Pendant
-27,Enchantment,Common,Shade
-28,Creature,Common,Paladin
-29,Creature,Common,Orc
-30,Creature,Rare,Snow Rogue Berserker
-31,Creature,Mythic,Light Ancient Wizard of the Sky
-32,Creature,Common,Paladin
-33,Creature,Common,Warlock
-34,Enchantment,Common,Flight
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Drain
-37,Artifact,Common,Sword
-38,Enchantment,Common,Shield
-39,Creature,Common,Eagle
-40,Enchantment,Rare,Corpse Shield
-41,Enchantment,Common,Agony
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Death King Oni of the West
-44,Spell,Common,Rage
+==================,DECK,5129
+0,Creature,Warlock
+1,Creature,Paladin
+2,Creature,Death Rogue Goblin
+3,Creature,Dark Priest Hydra
+4,Enchantment,Strength
+5,Creature,Berserker
+6,Creature,Fairy
+7,Enchantment,Invert
+8,Creature,Spider
+9,Creature,Paladin
+10,Creature,Fairy
+11,Enchantment,Strength
+12,Enchantment,Irate Nimble Blight
+13,Spell,Hypnosis
+14,Creature,Fairy
+15,Creature,Earth Undead Kraken
+16,Creature,Frozen Rogue Cyclops
+17,Creature,Magi
+18,Enchantment,Age
+19,Creature,Magi
+20,Enchantment,Strength
+21,Enchantment,Victory Invert
+22,Enchantment,Haste
+23,Enchantment,Shrink
+24,Creature,Magi
+25,Creature,Berserker
+26,Artifact,Pendant
+27,Enchantment,Deathgrip
+28,Creature,Troll
+29,Creature,Spider
+30,Creature,Snow Rogue Goblin
+31,Creature,Light Ancient Wizard of the Sky
+32,Creature,Troll
+33,Creature,Berserker
+34,Enchantment,Agony
+35,Creature,Magi
+36,Enchantment,Firebreath
+37,Artifact,Sword
+38,Enchantment,Shrink
+39,Creature,Eagle
+40,Enchantment,Nature Age
+41,Enchantment,Shade
+42,Creature,Magi
+43,Creature,Death King Oni of the West
+44,Spell,Frenzy

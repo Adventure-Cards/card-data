@@ -1,46 +1,46 @@
-==================,DECK,4371,Light
-0,Creature,Common,Magi
-1,Enchantment,Rare,Life Drain
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Paladin
-4,Enchantment,Common,Strength
-5,Creature,Common,Magi
-6,Spell,Common,Stricken
-7,Spell,Legendary,Mighty Lightning
-8,Creature,Common,Elf
-9,Enchantment,Common,Alacrity
-10,Spell,Legendary,Dire Hypnosis
-11,Creature,Common,Goblin
-12,Spell,Common,Wall
-13,Enchantment,Common,Deathgrip
-14,Creature,Rare,Death Assassin Hydra
-15,Creature,Common,Paladin
-16,Creature,Common,Paladin
-17,Creature,Legendary,Frozen Fighter Giant of the Eastern Skies
-18,Enchantment,Rare,Nimble Lethargy
-19,Creature,Rare,Earth Monk Skin-Walker
-20,Creature,Common,Paladin
-21,Enchantment,Common,Agony
-22,Enchantment,Mythic,Extreme Lethargy
-23,Creature,Common,Dwarf
-24,Spell,Common,Burn
-25,Spell,Common,Hypnosis
-26,Spell,Common,Fury
-27,Creature,Common,Elf
-28,Creature,Common,Wolf
-29,Spell,Common,Ice
-30,Enchantment,Common,Lethargy
-31,Creature,Legendary,Earth Monk Cyclops of the Golden Palace
-32,Spell,Common,Infuriate
-33,Enchantment,Common,Flight
-34,Creature,Common,Ghoul
-35,Creature,Rare,Earth Merchant Fairy
-36,Enchantment,Common,Shade
-37,Creature,Legendary,Aura King Orge of the Swamp
-38,Artifact,Rare,Corpse Ring
-39,Creature,Rare,Dark Knight Hydra
-40,Creature,Common,Magi
-41,Creature,Common,Eagle
-42,Creature,Common,Spider
-43,Creature,Legendary,Snow Thief Oni of the Arctic Blizzards
-44,Spell,Common,Vortex
+==================,DECK,4371
+0,Creature,Fairy
+1,Enchantment,Apocalypse Blight
+2,Enchantment,Firebreath
+3,Creature,Troll
+4,Enchantment,Firebreath
+5,Creature,Fairy
+6,Spell,Stricken
+7,Spell,Irate Gloom Reanimate
+8,Creature,Warlock
+9,Enchantment,Invert
+10,Spell,Potent Oblivion Vortex
+11,Creature,Skin-Walker
+12,Spell,Freeze
+13,Enchantment,Shield
+14,Creature,Death Assassin Hydra
+15,Creature,Troll
+16,Creature,Troll
+17,Creature,Frozen Fighter Dwarf of the Eastern Skies
+18,Enchantment,Hateful Deathgrip
+19,Creature,Earth Monk Orc
+20,Creature,Troll
+21,Enchantment,Shield
+22,Enchantment,Urgent Lunar Flight
+23,Creature,Magi
+24,Spell,Tempest
+25,Spell,Frost
+26,Spell,Maelstrom
+27,Creature,Warlock
+28,Creature,Wolf
+29,Spell,Heal
+30,Enchantment,Flight
+31,Creature,Earth Monk Giant of the Golden Palace
+32,Spell,Assault
+33,Enchantment,Lethargy
+34,Creature,Ghoul
+35,Creature,Earth Merchant Kraken
+36,Enchantment,Blight
+37,Creature,Aura King Elf of the Swamp
+38,Artifact,Solar Ring
+39,Creature,Dark Knight Hydra
+40,Creature,Fairy
+41,Creature,Eagle
+42,Creature,Paladin
+43,Creature,Snow Thief Oni of the Arctic Blizzards
+44,Spell,Infuriate

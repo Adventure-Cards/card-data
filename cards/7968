@@ -1,46 +1,46 @@
-==================,DECK,7968,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Elf
-2,Creature,Common,Goblin
-3,Spell,Rare,Miracle Sorrow
-4,Enchantment,Common,Haste
-5,Artifact,Common,Belt
-6,Spell,Common,Assault
-7,Artifact,Common,Pendant
-8,Artifact,Common,Cloak
-9,Enchantment,Common,Flight
-10,Artifact,Rare,Apocalypse Staff
-11,Enchantment,Common,Lethargy
-12,Spell,Rare,Nimble Wall
-13,Enchantment,Mythic,Extreme Shade
-14,Creature,Rare,Dark Lord Fairy
-15,Spell,Legendary,Dire Frost
-16,Spell,Legendary,Urgent Ice
-17,Enchantment,Common,Age
-18,Spell,Mythic,Angry Infuriate
-19,Enchantment,Common,Drain
-20,Creature,Common,Eagle
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Lethargy
-23,Enchantment,Legendary,Intense Shade
-24,Creature,Rare,Frozen Rogue Griffin
-25,Spell,Common,Burst
-26,Creature,Common,Orc
-27,Creature,Mythic,Light Time Dragon of the Sky
-28,Creature,Common,Elf
-29,Enchantment,Common,Flight
-30,Spell,Rare,Oblivion Torment
-31,Artifact,Common,Helm
-32,Creature,Rare,Dark Lord Hydra
-33,Creature,Common,Eagle
-34,Creature,Rare,Earth Thief Minotaur
-35,Enchantment,Common,Age
-36,Spell,Rare,Oblivion Assault
-37,Creature,Common,Eagle
-38,Artifact,Rare,Corpse Cloak
-39,Creature,Common,Orc
-40,Creature,Common,Wolf
-41,Creature,Common,Goblin
-42,Spell,Rare,Miracle Burn
-43,Spell,Rare,Cataclysmic Gale
-44,Artifact,Rare,Oblivion Divine Robe
+==================,DECK,7968
+0,Creature,Eagle
+1,Creature,Warlock
+2,Creature,Skin-Walker
+3,Spell,Oblivion Stricken
+4,Enchantment,Shield
+5,Artifact,Belt
+6,Spell,Wall
+7,Artifact,Pendant
+8,Artifact,Cloak
+9,Enchantment,Invert
+10,Artifact,Apocalypse Staff
+11,Enchantment,Alacrity
+12,Spell,Forged Fireball
+13,Enchantment,Dire Chimeric Firebreath
+14,Creature,Dark Lord Kraken
+15,Spell,Dire Life Hypnosis
+16,Spell,Empyrean Corpse Tempest
+17,Enchantment,Shade
+18,Spell,Potent Lunar Stricken
+19,Enchantment,Shield
+20,Creature,Eagle
+21,Creature,Magi
+22,Enchantment,Haste
+23,Enchantment,Dire Necro Age
+24,Creature,Frozen Rogue Griffin
+25,Spell,Stricken
+26,Creature,Spider
+27,Creature,Light Time Dragon of the Sky
+28,Creature,Warlock
+29,Enchantment,Invert
+30,Spell,Nimble Rage
+31,Artifact,Helm
+32,Creature,Dark Lord Hydra
+33,Creature,Eagle
+34,Creature,Earth Thief Cyclops
+35,Enchantment,Shield
+36,Spell,Nimble Fire
+37,Creature,Eagle
+38,Artifact,Solar Cloak
+39,Creature,Spider
+40,Creature,Wolf
+41,Creature,Skin-Walker
+42,Spell,Oblivion Gravitation
+43,Spell,Cataclysmic Gale
+44,Artifact,Frigid Divine Robe

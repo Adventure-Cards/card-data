@@ -1,46 +1,46 @@
-==================,DECK,7480,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Goblin
-2,Creature,Common,Eagle
-3,Creature,Common,Goblin
-4,Creature,Common,Orc
-5,Spell,Common,Gravitation
-6,Creature,Rare,Aura King Griffin
-7,Spell,Legendary,Mighty Wall
-8,Enchantment,Rare,Shimmering Flight
-9,Spell,Common,Fury
-10,Spell,Common,Wall
-11,Enchantment,Rare,Life Age
-12,Creature,Common,Dwarf
-13,Creature,Common,Wolf
-14,Creature,Common,Orc
-15,Enchantment,Common,Strength
-16,Creature,Common,Dwarf
-17,Creature,Common,Goblin
-18,Creature,Common,Ghoul
-19,Creature,Common,Elf
-20,Artifact,Common,Shield
-21,Creature,Common,Paladin
-22,Creature,Legendary,Frozen Undead Cyclops of the Golden Palace
-23,Creature,Common,Paladin
-24,Spell,Common,Pandemonium
-25,Creature,Common,Wolf
-26,Creature,Rare,Dark Warrior Berserker
-27,Spell,Common,Burn
-28,Enchantment,Common,Invert
-29,Spell,Rare,Nature Fury
-30,Creature,Rare,Dark King Fairy
-31,Creature,Common,Ghoul
-32,Creature,Rare,Death Assassin Fairy
-33,Artifact,Common,Greaves
-34,Creature,Common,Wolf
-35,Artifact,Rare,Cataclysmic Sigil
-36,Spell,Rare,Lunar Gale
-37,Spell,Common,Stricken
-38,Spell,Rare,Nimble Torment
-39,Artifact,Common,Gauntlet
-40,Creature,Rare,Frozen Queen Hydra
-41,Spell,Rare,Gloom Invisibility
-42,Enchantment,Common,Lethargy
-43,Enchantment,Mythic,Instant Agony
-44,Creature,Common,Wolf
+==================,DECK,7480
+0,Creature,Wolf
+1,Creature,Skin-Walker
+2,Creature,Eagle
+3,Creature,Skin-Walker
+4,Creature,Spider
+5,Spell,Fireball
+6,Creature,Aura King Griffin
+7,Spell,Ardent Gloom Gravitation
+8,Enchantment,Hateful Strength
+9,Spell,Vortex
+10,Spell,Frost
+11,Enchantment,Victory Drain
+12,Creature,Magi
+13,Creature,Wolf
+14,Creature,Spider
+15,Enchantment,Blight
+16,Creature,Magi
+17,Creature,Skin-Walker
+18,Creature,Ghoul
+19,Creature,Warlock
+20,Artifact,Shield
+21,Creature,Troll
+22,Creature,Frozen Undead Giant of the Golden Palace
+23,Creature,Troll
+24,Spell,Torment
+25,Creature,Wolf
+26,Creature,Dark Warrior Goblin
+27,Spell,Infuriate
+28,Enchantment,Blight
+29,Spell,Necro Fireball
+30,Creature,Dark King Kraken
+31,Creature,Ghoul
+32,Creature,Death Assassin Kraken
+33,Artifact,Greaves
+34,Creature,Wolf
+35,Artifact,Lunar Sigil
+36,Spell,Dark Stricken
+37,Spell,Fireball
+38,Spell,Forged Lightning
+39,Artifact,Gauntlet
+40,Creature,Frozen Queen Hydra
+41,Spell,Miracle Hypnosis
+42,Enchantment,Firebreath
+43,Enchantment,Irate Corpse Deathgrip
+44,Creature,Wolf

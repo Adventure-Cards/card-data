@@ -1,46 +1,46 @@
-==================,DECK,4218,Strong
-0,Creature,Common,Dwarf
-1,Creature,Legendary,Snow Knight Giant of the Arctic Blizzards
-2,Creature,Common,Paladin
-3,Spell,Common,Hypnosis
-4,Creature,Rare,Aura Queen Skin-Walker
-5,Artifact,Mythic,Urgent Belt
-6,Creature,Rare,Light Rogue Minotaur
-7,Creature,Rare,Frozen Lord Berserker
-8,Creature,Rare,Earth Monk Fairy
-9,Creature,Common,Warlock
-10,Spell,Common,Burst
-11,Spell,Common,Rage
-12,Enchantment,Rare,Cataclysmic Shrink
-13,Enchantment,Common,Agony
-14,Artifact,Rare,Cataclysmic Helm
-15,Creature,Common,Goblin
-16,Spell,Common,Torment
-17,Creature,Rare,Earth Monk Minotaur
-18,Creature,Common,Dwarf
-19,Enchantment,Mythic,Instant Blight
-20,Spell,Rare,Apocalypse Ice
-21,Creature,Common,Eagle
-22,Spell,Common,Infuriate
-23,Creature,Common,Warlock
-24,Creature,Common,Wolf
-25,Creature,Common,Spider
-26,Enchantment,Common,Shield
-27,Spell,Common,Burn
-28,Enchantment,Common,Drain
-29,Enchantment,Common,Haste
-30,Creature,Common,Goblin
-31,Enchantment,Mythic,Dire Flight
-32,Enchantment,Common,Strength
-33,Enchantment,Common,Alacrity
-34,Creature,Mythic,Frozen Grand Wizard of the Void
-35,Spell,Common,Gale
-36,Creature,Common,Dwarf
-37,Creature,Common,Warlock
-38,Enchantment,Legendary,Intense Shade
-39,Creature,Common,Warlock
-40,Creature,Legendary,Frozen Lord Oni of the Haven
-41,Spell,Common,Gravitation
-42,Creature,Common,Eagle
-43,Enchantment,Rare,Grim Lethargy
-44,Creature,Common,Magi
+==================,DECK,4218
+0,Creature,Magi
+1,Creature,Snow Knight Dwarf of the Arctic Blizzards
+2,Creature,Troll
+3,Spell,Sorrow
+4,Creature,Aura Queen Orc
+5,Artifact,Dire Necro Belt
+6,Creature,Light Rogue Cyclops
+7,Creature,Frozen Lord Goblin
+8,Creature,Earth Monk Kraken
+9,Creature,Berserker
+10,Spell,Gale
+11,Spell,Revive
+12,Enchantment,Chimeric Alacrity
+13,Enchantment,Firebreath
+14,Artifact,Sorrow Helm
+15,Creature,Skin-Walker
+16,Spell,Torment
+17,Creature,Earth Monk Cyclops
+18,Creature,Magi
+19,Enchantment,Empyrean Solar Age
+20,Spell,Apocalypse Stun
+21,Creature,Eagle
+22,Spell,Stricken
+23,Creature,Berserker
+24,Creature,Wolf
+25,Creature,Paladin
+26,Enchantment,Shield
+27,Spell,Stricken
+28,Enchantment,Age
+29,Enchantment,Agony
+30,Creature,Skin-Walker
+31,Enchantment,Potent Grim Drain
+32,Enchantment,Shrink
+33,Enchantment,Lethargy
+34,Creature,Frozen Grand Wizard of the Void
+35,Spell,Invisibility
+36,Creature,Magi
+37,Creature,Berserker
+38,Enchantment,Urgent Necro Agony
+39,Creature,Berserker
+40,Creature,Frozen Lord Oni of the Haven
+41,Spell,Sorrow
+42,Creature,Eagle
+43,Enchantment,Grim Blight
+44,Creature,Fairy

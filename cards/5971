@@ -1,46 +1,46 @@
-==================,DECK,5971,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Aura Warrior Minotaur
-2,Creature,Common,Dwarf
-3,Enchantment,Common,Shield
-4,Enchantment,Common,Strength
-5,Creature,Common,Magi
-6,Creature,Common,Wolf
-7,Creature,Common,Dwarf
-8,Creature,Rare,Light Warrior Berserker
-9,Enchantment,Common,Age
-10,Spell,Rare,Cataclysmic Reanimate
-11,Creature,Common,Elf
-12,Creature,Rare,Light Merchant Skin-Walker
-13,Creature,Rare,Aura Knight Griffin
-14,Creature,Rare,Aura Priest Griffin
-15,Creature,Common,Goblin
-16,Creature,Common,Paladin
-17,Spell,Common,Maelstrom
-18,Spell,Common,Assault
-19,Enchantment,Mythic,Urgent Shade
-20,Spell,Common,Sorrow
-21,Creature,Common,Dwarf
-22,Creature,Common,Dwarf
-23,Artifact,Common,Divine Robe
-24,Creature,Rare,Dark King Berserker
-25,Spell,Common,Freeze
-26,Spell,Common,Revive
-27,Artifact,Rare,Cataclysmic Sword
-28,Creature,Rare,Frozen Rogue Hydra
-29,Creature,Legendary,Dark Lord Kraken of the Plains
-30,Creature,Common,Warlock
-31,Creature,Common,Eagle
-32,Enchantment,Common,Agony
-33,Creature,Common,Wolf
-34,Creature,Rare,Earth Warrior Hydra
-35,Spell,Common,Burst
-36,Creature,Legendary,Light Monk Cyclops of the West
-37,Spell,Rare,Hateful Ice
-38,Creature,Common,Goblin
-39,Enchantment,Common,Strength
-40,Creature,Common,Dwarf
-41,Creature,Common,Dwarf
-42,Creature,Rare,Earth Warrior Griffin
-43,Creature,Legendary,Snow Assassin Oni of the Plains
-44,Spell,Common,Fury
+==================,DECK,5971
+0,Creature,Skin-Walker
+1,Creature,Aura Warrior Cyclops
+2,Creature,Magi
+3,Enchantment,Deathgrip
+4,Enchantment,Blight
+5,Creature,Fairy
+6,Creature,Wolf
+7,Creature,Magi
+8,Creature,Light Warrior Goblin
+9,Enchantment,Shield
+10,Spell,Cataclysmic Assault
+11,Creature,Warlock
+12,Creature,Light Merchant Orc
+13,Creature,Aura Knight Griffin
+14,Creature,Aura Priest Griffin
+15,Creature,Skin-Walker
+16,Creature,Troll
+17,Spell,Vortex
+18,Spell,Lightning
+19,Enchantment,Instant Necro Strength
+20,Spell,Freeze
+21,Creature,Magi
+22,Creature,Magi
+23,Artifact,Divine Robe
+24,Creature,Dark King Goblin
+25,Spell,Frost
+26,Spell,Fury
+27,Artifact,Lunar Sword
+28,Creature,Frozen Rogue Hydra
+29,Creature,Dark Lord Ogre of the Plains
+30,Creature,Berserker
+31,Creature,Eagle
+32,Enchantment,Firebreath
+33,Creature,Wolf
+34,Creature,Earth Warrior Hydra
+35,Spell,Frenzy
+36,Creature,Light Monk Giant of the West
+37,Spell,Dark Lightning
+38,Creature,Skin-Walker
+39,Enchantment,Blight
+40,Creature,Magi
+41,Creature,Magi
+42,Creature,Earth Warrior Griffin
+43,Creature,Snow Assassin Oni of the Plains
+44,Spell,Invisibility

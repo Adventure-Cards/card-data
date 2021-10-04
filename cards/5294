@@ -1,46 +1,46 @@
-==================,DECK,5294,Strong
-0,Spell,Common,Gale
-1,Artifact,Common,Shield
-2,Creature,Common,Wolf
-3,Spell,Rare,Solar Heal
-4,Creature,Rare,Light Knight Hydra
-5,Creature,Legendary,Light Rogue Cyclops of the Eternal Land
-6,Creature,Common,Orc
-7,Enchantment,Common,Lethargy
-8,Spell,Common,Torment
-9,Creature,Common,Dwarf
-10,Creature,Common,Spider
-11,Spell,Mythic,Urgent Maelstrom
-12,Enchantment,Common,Strength
-13,Creature,Common,Wolf
-14,Creature,Legendary,Frozen Thief Cyclops of the Haven
-15,Creature,Common,Warlock
-16,Spell,Common,Fury
-17,Creature,Mythic,Snow Chaos Demon of Hate
-18,Creature,Common,Magi
-19,Creature,Legendary,Frozen Knight Orge of the Eternal Land
-20,Enchantment,Common,Age
-21,Artifact,Common,Ring
-22,Enchantment,Legendary,Urgent Lethargy
-23,Creature,Common,Warlock
-24,Creature,Common,Eagle
-25,Enchantment,Rare,Apocalypse Age
-26,Creature,Legendary,Dark Fighter Orge of the Bright Mountains
-27,Creature,Rare,Death Lord Skin-Walker
-28,Artifact,Common,Gloves
-29,Creature,Rare,Light Monk Minotaur
-30,Creature,Mythic,Aura Chaos Demon of the Light
-31,Creature,Common,Magi
-32,Spell,Rare,Oblivion Wall
-33,Spell,Common,Frenzy
-34,Creature,Mythic,Aura Undead Phoenix of the Light
-35,Creature,Common,Orc
-36,Creature,Common,Eagle
-37,Creature,Legendary,Frozen Thief Giant of the Frozen Castle
-38,Enchantment,Legendary,Urgent Haste
-39,Spell,Rare,Corpse Invisibility
-40,Enchantment,Common,Shrink
-41,Creature,Mythic,Light Grand Demon of the Sky
-42,Spell,Legendary,Potent Wall
-43,Creature,Common,Eagle
-44,Spell,Common,Ice
+==================,DECK,5294
+0,Spell,Wall
+1,Artifact,Shield
+2,Creature,Wolf
+3,Spell,Shimmering Wall
+4,Creature,Light Knight Hydra
+5,Creature,Light Rogue Giant of the Eternal Land
+6,Creature,Spider
+7,Enchantment,Shade
+8,Spell,Torment
+9,Creature,Magi
+10,Creature,Paladin
+11,Spell,Zealous Hateful Stun
+12,Enchantment,Deathgrip
+13,Creature,Wolf
+14,Creature,Frozen Thief Giant of the Haven
+15,Creature,Berserker
+16,Spell,Tempest
+17,Creature,Snow Chaos Demon of Hate
+18,Creature,Fairy
+19,Creature,Frozen Knight Elf of the Eternal Land
+20,Enchantment,Shade
+21,Artifact,Ring
+22,Enchantment,Ardent Hateful Lethargy
+23,Creature,Berserker
+24,Creature,Eagle
+25,Enchantment,Victory Haste
+26,Creature,Dark Fighter Elf of the Bright Mountains
+27,Creature,Death Lord Orc
+28,Artifact,Gloves
+29,Creature,Light Monk Cyclops
+30,Creature,Aura Chaos Demon of the Light
+31,Creature,Fairy
+32,Spell,Apocalypse Burst
+33,Spell,Fire
+34,Creature,Aura Undead Phoenix of the Light
+35,Creature,Spider
+36,Creature,Eagle
+37,Creature,Frozen Thief Dwarf of the Frozen Castle
+38,Enchantment,Zealous Corpse Deathgrip
+39,Spell,Solar Maelstrom
+40,Enchantment,Deathgrip
+41,Creature,Light Grand Demon of the Sky
+42,Spell,Dire Oblivion Gravitation
+43,Creature,Eagle
+44,Spell,Lightning

@@ -1,46 +1,46 @@
-==================,DECK,4789,Light
-0,Spell,Common,Revive
-1,Creature,Common,Orc
-2,Creature,Common,Magi
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Invert
-5,Creature,Legendary,Death Warrior Giant of the Frozen Castle
-6,Artifact,Rare,Nimble Ring
-7,Creature,Common,Goblin
-8,Creature,Common,Magi
-9,Creature,Common,Orc
-10,Enchantment,Common,Blight
-11,Creature,Rare,Dark Assassin Minotaur
-12,Enchantment,Rare,Gloom Agony
-13,Creature,Common,Goblin
-14,Enchantment,Common,Age
-15,Creature,Common,Paladin
-16,Creature,Rare,Death Warrior Griffin
-17,Spell,Common,Sorrow
-18,Spell,Common,Revive
-19,Creature,Common,Warlock
-20,Enchantment,Rare,Life Haste
-21,Spell,Common,Stricken
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Drain
-24,Enchantment,Rare,Dark Invert
-25,Spell,Common,Revive
-26,Creature,Rare,Light Warrior Griffin
-27,Spell,Rare,Necro Stun
-28,Artifact,Common,Pendant
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Warlock
-31,Creature,Common,Eagle
-32,Artifact,Common,Ring
-33,Creature,Common,Ghoul
-34,Artifact,Common,Boots
-35,Creature,Common,Elf
-36,Enchantment,Common,Age
-37,Artifact,Common,Gloves
-38,Creature,Common,Warlock
-39,Creature,Legendary,Dark Queen Cyclops of the Black Stone
-40,Creature,Common,Ghoul
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Blight
-43,Spell,Common,Gravitation
-44,Creature,Common,Dwarf
+==================,DECK,4789
+0,Spell,Fire
+1,Creature,Spider
+2,Creature,Fairy
+3,Creature,Ghoul
+4,Enchantment,Alacrity
+5,Creature,Death Warrior Dwarf of the Frozen Castle
+6,Artifact,Solar Ring
+7,Creature,Skin-Walker
+8,Creature,Fairy
+9,Creature,Spider
+10,Enchantment,Alacrity
+11,Creature,Dark Assassin Cyclops
+12,Enchantment,Miracle Firebreath
+13,Creature,Skin-Walker
+14,Enchantment,Shield
+15,Creature,Troll
+16,Creature,Death Warrior Griffin
+17,Spell,Pandemonium
+18,Spell,Maelstrom
+19,Creature,Berserker
+20,Enchantment,Life Shade
+21,Spell,Assault
+22,Creature,Ghoul
+23,Enchantment,Deathgrip
+24,Enchantment,Sorrow Shrink
+25,Spell,Pandemonium
+26,Creature,Light Warrior Griffin
+27,Spell,Necro Revive
+28,Artifact,Pendant
+29,Enchantment,Blight
+30,Creature,Berserker
+31,Creature,Eagle
+32,Artifact,Ring
+33,Creature,Ghoul
+34,Artifact,Boots
+35,Creature,Warlock
+36,Enchantment,Shade
+37,Artifact,Gloves
+38,Creature,Berserker
+39,Creature,Dark Queen Giant of the Black Stone
+40,Creature,Ghoul
+41,Creature,Magi
+42,Enchantment,Lethargy
+43,Spell,Fire
+44,Creature,Magi

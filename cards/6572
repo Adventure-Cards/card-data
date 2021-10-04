@@ -1,46 +1,46 @@
-==================,DECK,6572,Strong
-0,Creature,Mythic,Dark Chaos Demon of Illusion
-1,Creature,Common,Dwarf
-2,Artifact,Legendary,Instant Gauntlet
-3,Creature,Common,Spider
-4,Spell,Common,Torment
-5,Spell,Common,Gale
-6,Spell,Common,Gravitation
-7,Artifact,Rare,Hateful Pendant
-8,Artifact,Common,Sigil
-9,Artifact,Mythic,Extreme Helm
-10,Creature,Rare,Dark Thief Berserker
-11,Creature,Legendary,Light Ancient Wizard of the Sky
-12,Creature,Rare,Death King Fairy
-13,Enchantment,Common,Drain
-14,Enchantment,Rare,Nimble Lethargy
-15,Creature,Legendary,Snow Ancient Demon of Hate
-16,Creature,Legendary,Aura Nameless Dragon of the Light
-17,Creature,Common,Spider
-18,Enchantment,Rare,Frigid Invert
-19,Creature,Common,Goblin
-20,Enchantment,Mythic,Extreme Drain
-21,Spell,Common,Frost
-22,Creature,Common,Wolf
-23,Creature,Legendary,Snow Warrior Cyclops of the Eternal Land
-24,Creature,Legendary,Dark Priest Orge of the Haven
-25,Artifact,Common,Scepter
-26,Creature,Mythic,Aura Undead Phoenix of the Light
-27,Artifact,Common,Boots
-28,Creature,Rare,Light Assassin Hydra
-29,Creature,Legendary,Dark Grand Wizard of Illusion
-30,Spell,Rare,Nature Sorrow
-31,Creature,Legendary,Snow Chaos Wizard of Hate
-32,Creature,Rare,Snow Queen Skin-Walker
-33,Enchantment,Rare,Solar Invert
-34,Enchantment,Rare,Solar Agony
-35,Creature,Common,Orc
-36,Spell,Common,Invisibility
-37,Creature,Mythic,Light Chaos Wizard of the Sky
-38,Spell,Common,Gale
-39,Creature,Rare,Frozen Undead Griffin
-40,Creature,Common,Dwarf
-41,Enchantment,Rare,Dark Shade
-42,Creature,Rare,Dark Queen Minotaur
-43,Artifact,Common,Pendant
-44,Creature,Common,Spider
+==================,DECK,6572
+0,Creature,Dark Chaos Demon of Illusion
+1,Creature,Magi
+2,Artifact,Ardent Corpse Gauntlet
+3,Creature,Paladin
+4,Spell,Maelstrom
+5,Spell,Invisibility
+6,Spell,Burst
+7,Artifact,Cataclysmic Pendant
+8,Artifact,Sigil
+9,Artifact,Dire Cataclysmic Helm
+10,Creature,Dark Thief Goblin
+11,Creature,Light Ancient Wizard of the Sky
+12,Creature,Death King Kraken
+13,Enchantment,Flight
+14,Enchantment,Hateful Deathgrip
+15,Creature,Snow Ancient Demon of Hate
+16,Creature,Aura Nameless Dragon of the Light
+17,Creature,Paladin
+18,Enchantment,Oblivion Drain
+19,Creature,Skin-Walker
+20,Enchantment,Mighty Dark Flight
+21,Spell,Lightning
+22,Creature,Wolf
+23,Creature,Snow Warrior Giant of the Eternal Land
+24,Creature,Dark Priest Elf of the Haven
+25,Artifact,Scepter
+26,Creature,Aura Undead Phoenix of the Light
+27,Artifact,Boots
+28,Creature,Light Assassin Hydra
+29,Creature,Dark Grand Wizard of Illusion
+30,Spell,Corpse Stricken
+31,Creature,Snow Chaos Wizard of Hate
+32,Creature,Snow Queen Orc
+33,Enchantment,Shimmering Strength
+34,Enchantment,Corpse Age
+35,Creature,Spider
+36,Spell,Vortex
+37,Creature,Light Chaos Wizard of the Sky
+38,Spell,Ice
+39,Creature,Frozen Undead Griffin
+40,Creature,Magi
+41,Enchantment,Chimeric Alacrity
+42,Creature,Dark Queen Cyclops
+43,Artifact,Pendant
+44,Creature,Paladin

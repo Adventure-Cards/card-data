@@ -1,46 +1,46 @@
-==================,DECK,6239,Light
-0,Spell,Common,Maelstrom
-1,Enchantment,Common,Strength
-2,Enchantment,Common,Agony
-3,Spell,Common,Frost
-4,Spell,Legendary,Urgent Sorrow
-5,Creature,Common,Warlock
-6,Creature,Common,Paladin
-7,Enchantment,Rare,Apocalypse Shrink
-8,Enchantment,Common,Drain
-9,Creature,Common,Warlock
-10,Spell,Common,Fury
-11,Enchantment,Common,Drain
-12,Creature,Mythic,Earth Grand Demon of the Shadows
-13,Enchantment,Common,Strength
-14,Enchantment,Mythic,Clever Shrink
-15,Creature,Common,Orc
-16,Creature,Common,Elf
-17,Creature,Legendary,Light Knight Oni of the Haven
-18,Artifact,Legendary,Intense Bow
-19,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-20,Enchantment,Rare,Shimmering Blight
-21,Artifact,Common,Greaves
-22,Enchantment,Common,Alacrity
-23,Enchantment,Rare,Lunar Age
-24,Enchantment,Common,Blight
-25,Enchantment,Common,Shade
-26,Artifact,Common,Belt
-27,Artifact,Rare,Apocalypse Crown
-28,Artifact,Common,Greaves
-29,Enchantment,Common,Shrink
-30,Creature,Common,Warlock
-31,Spell,Common,Maelstrom
-32,Creature,Common,Goblin
-33,Creature,Common,Orc
-34,Spell,Rare,Cataclysmic Stun
-35,Enchantment,Common,Age
-36,Enchantment,Common,Drain
-37,Creature,Common,Dwarf
-38,Creature,Common,Elf
-39,Enchantment,Mythic,Potent Haste
-40,Creature,Rare,Snow Monk Berserker
-41,Creature,Common,Goblin
-42,Enchantment,Rare,Solar Agony
-43,Spell,Legendary,Urgent Infuriate
-44,Creature,Mythic,Snow Nameless Dragon of Hate
+==================,DECK,6239
+0,Spell,Gravitation
+1,Enchantment,Haste
+2,Enchantment,Drain
+3,Spell,Gravitation
+4,Spell,Empyrean Hateful Gravitation
+5,Creature,Berserker
+6,Creature,Troll
+7,Enchantment,Frigid Drain
+8,Enchantment,Age
+9,Creature,Berserker
+10,Spell,Stricken
+11,Enchantment,Deathgrip
+12,Creature,Earth Grand Demon of the Shadows
+13,Enchantment,Strength
+14,Enchantment,Zealous Frigid Blight
+15,Creature,Spider
+16,Creature,Warlock
+17,Creature,Light Knight Oni of the Haven
+18,Artifact,Mighty Hateful Bow
+19,Creature,Earth Nameless Phoenix of the Shadows
+20,Enchantment,Solar Lethargy
+21,Artifact,Greaves
+22,Enchantment,Deathgrip
+23,Enchantment,Gloom Alacrity
+24,Enchantment,Lethargy
+25,Enchantment,Deathgrip
+26,Artifact,Belt
+27,Artifact,Life Crown
+28,Artifact,Greaves
+29,Enchantment,Blight
+30,Creature,Berserker
+31,Spell,Burst
+32,Creature,Skin-Walker
+33,Creature,Spider
+34,Spell,Lunar Lightning
+35,Enchantment,Flight
+36,Enchantment,Haste
+37,Creature,Magi
+38,Creature,Warlock
+39,Enchantment,Empyrean Life Shade
+40,Creature,Snow Monk Goblin
+41,Creature,Skin-Walker
+42,Enchantment,Corpse Age
+43,Spell,Potent Nature Torment
+44,Creature,Snow Nameless Dragon of Hate

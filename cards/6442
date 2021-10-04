@@ -1,46 +1,46 @@
-==================,DECK,6442,Light
-0,Creature,Common,Goblin
-1,Spell,Rare,Frigid Revive
-2,Creature,Common,Magi
-3,Creature,Rare,Earth Priest Berserker
-4,Creature,Common,Spider
-5,Spell,Common,Maelstrom
-6,Creature,Common,Paladin
-7,Spell,Rare,Necro Burn
-8,Creature,Common,Ghoul
-9,Creature,Legendary,Aura Thief Giant of the Golden Palace
-10,Enchantment,Legendary,Urgent Flight
-11,Spell,Rare,Apocalypse Pandemonium
-12,Spell,Common,Reanimate
-13,Artifact,Common,Ring
-14,Creature,Common,Dwarf
-15,Creature,Common,Eagle
-16,Artifact,Common,Boots
-17,Creature,Common,Dwarf
-18,Creature,Common,Spider
-19,Creature,Common,Orc
-20,Creature,Common,Paladin
-21,Spell,Common,Sorrow
-22,Spell,Common,Burst
-23,Spell,Common,Heal
-24,Creature,Common,Spider
-25,Spell,Rare,Shimmering Maelstrom
-26,Creature,Rare,Light Thief Skin-Walker
-27,Enchantment,Common,Shade
-28,Enchantment,Common,Age
-29,Creature,Common,Dwarf
-30,Artifact,Rare,Forged Tome
-31,Enchantment,Common,Blight
-32,Spell,Rare,Cataclysmic Stricken
-33,Artifact,Rare,Gloom Bracers
-34,Spell,Common,Heal
-35,Creature,Common,Magi
-36,Creature,Common,Orc
-37,Creature,Common,Magi
-38,Creature,Common,Wolf
-39,Enchantment,Common,Shade
-40,Spell,Common,Freeze
-41,Enchantment,Legendary,Extreme Shade
-42,Spell,Rare,Necro Ice
-43,Artifact,Common,Cloak
-44,Creature,Common,Dwarf
+==================,DECK,6442
+0,Creature,Skin-Walker
+1,Spell,Life Lightning
+2,Creature,Fairy
+3,Creature,Earth Priest Goblin
+4,Creature,Paladin
+5,Spell,Vortex
+6,Creature,Troll
+7,Spell,Nature Gale
+8,Creature,Ghoul
+9,Creature,Aura Thief Dwarf of the Golden Palace
+10,Enchantment,Mighty Hateful Agony
+11,Spell,Life Burst
+12,Spell,Fire
+13,Artifact,Ring
+14,Creature,Magi
+15,Creature,Eagle
+16,Artifact,Boots
+17,Creature,Magi
+18,Creature,Paladin
+19,Creature,Spider
+20,Creature,Troll
+21,Spell,Fire
+22,Spell,Freeze
+23,Spell,Assault
+24,Creature,Paladin
+25,Spell,Corpse Torment
+26,Creature,Light Thief Orc
+27,Enchantment,Alacrity
+28,Enchantment,Age
+29,Creature,Magi
+30,Artifact,Miracle Tome
+31,Enchantment,Haste
+32,Spell,Gloom Burst
+33,Artifact,Sorrow Bracers
+34,Spell,Fireball
+35,Creature,Fairy
+36,Creature,Spider
+37,Creature,Fairy
+38,Creature,Wolf
+39,Enchantment,Haste
+40,Spell,Revive
+41,Enchantment,Dire Chimeric Firebreath
+42,Spell,Shimmering Hypnosis
+43,Artifact,Cloak
+44,Creature,Magi

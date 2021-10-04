@@ -1,46 +1,46 @@
-==================,DECK,6889,Light
-0,Creature,Common,Paladin
-1,Artifact,Common,Cloak
-2,Creature,Rare,Death Merchant Hydra
-3,Creature,Legendary,Light Warrior Giant of the Low Hills
-4,Creature,Common,Orc
-5,Enchantment,Common,Strength
-6,Creature,Common,Eagle
-7,Enchantment,Common,Agony
-8,Creature,Common,Magi
-9,Enchantment,Common,Drain
-10,Creature,Rare,Aura Merchant Berserker
-11,Enchantment,Legendary,Instant Shrink
-12,Enchantment,Common,Invert
-13,Creature,Common,Dwarf
-14,Spell,Common,Hypnosis
-15,Creature,Legendary,Dark Assassin Giant of the Eternal Land
-16,Creature,Legendary,Light Warrior Cyclops of the Low Hills
-17,Spell,Common,Fury
-18,Creature,Common,Eagle
-19,Creature,Common,Spider
-20,Artifact,Rare,Nimble Potion
-21,Enchantment,Rare,Forged Shield
-22,Creature,Common,Spider
-23,Spell,Rare,Nature Burst
-24,Artifact,Rare,Nimble Scepter
-25,Creature,Rare,Earth Lord Minotaur
-26,Enchantment,Common,Flight
-27,Creature,Common,Warlock
-28,Spell,Rare,Miracle Gale
-29,Spell,Common,Rage
-30,Creature,Common,Elf
-31,Creature,Common,Orc
-32,Creature,Common,Ghoul
-33,Enchantment,Common,Blight
-34,Enchantment,Common,Shade
-35,Spell,Rare,Necro Ice
-36,Creature,Common,Orc
-37,Spell,Common,Gale
-38,Creature,Common,Elf
-39,Artifact,Legendary,Clever Scepter
-40,Artifact,Common,Helmet
-41,Creature,Common,Goblin
-42,Enchantment,Common,Alacrity
-43,Artifact,Common,Gauntlet
-44,Artifact,Common,Ghost Wand
+==================,DECK,6889
+0,Creature,Troll
+1,Artifact,Cloak
+2,Creature,Death Merchant Hydra
+3,Creature,Light Warrior Dwarf of the Low Hills
+4,Creature,Spider
+5,Enchantment,Age
+6,Creature,Eagle
+7,Enchantment,Firebreath
+8,Creature,Fairy
+9,Enchantment,Blight
+10,Creature,Aura Merchant Goblin
+11,Enchantment,Potent Necro Strength
+12,Enchantment,Lethargy
+13,Creature,Magi
+14,Spell,Heal
+15,Creature,Dark Assassin Dwarf of the Eternal Land
+16,Creature,Light Warrior Giant of the Low Hills
+17,Spell,Reanimate
+18,Creature,Eagle
+19,Creature,Paladin
+20,Artifact,Corpse Potion
+21,Enchantment,Gloom Shield
+22,Creature,Paladin
+23,Spell,Solar Pandemonium
+24,Artifact,Nature Scepter
+25,Creature,Earth Lord Cyclops
+26,Enchantment,Invert
+27,Creature,Berserker
+28,Spell,Life Freeze
+29,Spell,Frost
+30,Creature,Warlock
+31,Creature,Spider
+32,Creature,Ghoul
+33,Enchantment,Firebreath
+34,Enchantment,Lethargy
+35,Spell,Hateful Maelstrom
+36,Creature,Spider
+37,Spell,Rage
+38,Creature,Warlock
+39,Artifact,Potent Grim Scepter
+40,Artifact,Helmet
+41,Creature,Skin-Walker
+42,Enchantment,Flight
+43,Artifact,Gauntlet
+44,Artifact,Ghost Wand

@@ -1,46 +1,46 @@
-==================,DECK,6174,Light
-0,Artifact,Common,Sigil
-1,Spell,Legendary,Urgent Revive
-2,Spell,Common,Gravitation
-3,Creature,Common,Magi
-4,Enchantment,Mythic,Urgent Shrink
-5,Spell,Common,Maelstrom
-6,Creature,Mythic,Snow Undead Dragon of Hate
-7,Creature,Common,Dwarf
-8,Spell,Rare,Life Infuriate
-9,Spell,Common,Reanimate
-10,Creature,Rare,Frozen Fighter Minotaur
-11,Creature,Common,Elf
-12,Creature,Common,Orc
-13,Spell,Common,Torment
-14,Creature,Common,Wolf
-15,Spell,Common,Burn
-16,Enchantment,Common,Lethargy
-17,Spell,Common,Stun
-18,Creature,Common,Dwarf
-19,Spell,Rare,Gloom Lightning
-20,Creature,Rare,Earth Knight Minotaur
-21,Creature,Common,Paladin
-22,Creature,Rare,Snow Merchant Fairy
-23,Spell,Common,Rage
-24,Enchantment,Legendary,Intense Alacrity
-25,Spell,Legendary,Clever Wall
-26,Creature,Legendary,Frozen Rogue Cyclops of the Eastern Skies
-27,Creature,Common,Magi
-28,Creature,Common,Elf
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Wolf
-31,Spell,Common,Wall
-32,Spell,Common,Sorrow
-33,Creature,Rare,Light Merchant Berserker
-34,Enchantment,Legendary,Dire Drain
-35,Creature,Legendary,Earth Lord Kraken of the Arctic Blizzards
-36,Enchantment,Common,Lethargy
-37,Creature,Mythic,Frozen Time Dragon of the Void
-38,Creature,Rare,Aura Thief Skin-Walker
-39,Enchantment,Legendary,Potent Invert
-40,Enchantment,Legendary,Angry Shade
-41,Enchantment,Common,Agony
-42,Enchantment,Mythic,Instant Shade
-43,Creature,Common,Spider
-44,Creature,Rare,Aura Assassin Skin-Walker
+==================,DECK,6174
+0,Artifact,Sigil
+1,Spell,Irate Forged Invisibility
+2,Spell,Torment
+3,Creature,Fairy
+4,Enchantment,Potent Necro Strength
+5,Spell,Infuriate
+6,Creature,Snow Undead Dragon of Hate
+7,Creature,Magi
+8,Spell,Nimble Vortex
+9,Spell,Revive
+10,Creature,Frozen Fighter Cyclops
+11,Creature,Warlock
+12,Creature,Spider
+13,Spell,Wall
+14,Creature,Wolf
+15,Spell,Tempest
+16,Enchantment,Haste
+17,Spell,Fury
+18,Creature,Magi
+19,Spell,Miracle Heal
+20,Creature,Earth Knight Cyclops
+21,Creature,Troll
+22,Creature,Snow Merchant Kraken
+23,Spell,Pandemonium
+24,Enchantment,Irate Forged Deathgrip
+25,Spell,Ardent Victory Wall
+26,Creature,Frozen Rogue Giant of the Eastern Skies
+27,Creature,Fairy
+28,Creature,Warlock
+29,Enchantment,Firebreath
+30,Creature,Wolf
+31,Spell,Tempest
+32,Spell,Rage
+33,Creature,Light Merchant Goblin
+34,Enchantment,Potent Apocalypse Drain
+35,Creature,Earth Lord Ogre of the Arctic Blizzards
+36,Enchantment,Drain
+37,Creature,Frozen Time Dragon of the Void
+38,Creature,Aura Thief Orc
+39,Enchantment,Irate Oblivion Blight
+40,Enchantment,Ardent Chimeric Shield
+41,Enchantment,Invert
+42,Enchantment,Instant Necro Strength
+43,Creature,Paladin
+44,Creature,Aura Assassin Orc

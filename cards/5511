@@ -1,46 +1,46 @@
-==================,DECK,5511,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shrink
-2,Spell,Rare,Dark Vortex
-3,Creature,Common,Elf
-4,Creature,Common,Wolf
-5,Spell,Common,Frenzy
-6,Creature,Rare,Frozen Priest Griffin
-7,Spell,Common,Freeze
-8,Artifact,Legendary,Angry Sword
-9,Creature,Common,Warlock
-10,Spell,Common,Sorrow
-11,Creature,Rare,Light Assassin Skin-Walker
-12,Artifact,Legendary,Mighty Tome
-13,Artifact,Common,Staff
-14,Spell,Common,Vortex
-15,Spell,Common,Heal
-16,Artifact,Legendary,Intense Divine Robe
-17,Spell,Common,Maelstrom
-18,Enchantment,Common,Drain
-19,Creature,Common,Spider
-20,Artifact,Common,Sigil
-21,Creature,Common,Dwarf
-22,Creature,Common,Dwarf
-23,Creature,Common,Paladin
-24,Spell,Common,Invisibility
-25,Creature,Common,Elf
-26,Creature,Common,Wolf
-27,Creature,Common,Orc
-28,Enchantment,Common,Shrink
-29,Creature,Rare,Earth Queen Hydra
-30,Artifact,Common,Amulet
-31,Spell,Common,Assault
-32,Spell,Common,Stricken
-33,Creature,Common,Eagle
-34,Artifact,Common,Bow
-35,Enchantment,Common,Flight
-36,Creature,Rare,Aura Thief Griffin
-37,Spell,Legendary,Dire Maelstrom
-38,Artifact,Common,Shield
-39,Creature,Legendary,Snow Rogue Cyclops of the Border
-40,Spell,Rare,Necro Burst
-41,Enchantment,Common,Age
-42,Spell,Common,Lightning
-43,Spell,Common,Sorrow
-44,Spell,Legendary,Mighty Pandemonium
+==================,DECK,5511
+0,Creature,Eagle
+1,Enchantment,Strength
+2,Spell,Dark Pandemonium
+3,Creature,Warlock
+4,Creature,Wolf
+5,Spell,Rage
+6,Creature,Frozen Priest Griffin
+7,Spell,Infuriate
+8,Artifact,Potent Chimeric Sword
+9,Creature,Berserker
+10,Spell,Revive
+11,Creature,Light Assassin Orc
+12,Artifact,Empyrean Miracle Tome
+13,Artifact,Staff
+14,Spell,Infuriate
+15,Spell,Maelstrom
+16,Artifact,Potent Shimmering Divine Robe
+17,Spell,Sorrow
+18,Enchantment,Blight
+19,Creature,Paladin
+20,Artifact,Sigil
+21,Creature,Magi
+22,Creature,Magi
+23,Creature,Troll
+24,Spell,Maelstrom
+25,Creature,Warlock
+26,Creature,Wolf
+27,Creature,Spider
+28,Enchantment,Shrink
+29,Creature,Earth Queen Hydra
+30,Artifact,Amulet
+31,Spell,Vortex
+32,Spell,Reanimate
+33,Creature,Eagle
+34,Artifact,Bow
+35,Enchantment,Alacrity
+36,Creature,Aura Thief Griffin
+37,Spell,Zealous Apocalypse Torment
+38,Artifact,Shield
+39,Creature,Snow Rogue Giant of the Border
+40,Spell,Forged Tempest
+41,Enchantment,Flight
+42,Spell,Gravitation
+43,Spell,Lightning
+44,Spell,Empyrean Gloom Frenzy

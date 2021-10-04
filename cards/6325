@@ -1,46 +1,46 @@
-==================,DECK,6325,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Agony
-2,Artifact,Common,Staff
-3,Creature,Common,Orc
-4,Creature,Common,Warlock
-5,Enchantment,Common,Haste
-6,Spell,Common,Stricken
-7,Creature,Common,Ghoul
-8,Creature,Mythic,Dark Undead Dragon of Illusion
-9,Creature,Common,Elf
-10,Creature,Rare,Dark Warrior Hydra
-11,Spell,Common,Invisibility
-12,Creature,Rare,Dark Queen Fairy
-13,Artifact,Common,Crown
-14,Artifact,Legendary,Clever Scepter
-15,Spell,Common,Ice
-16,Creature,Common,Spider
-17,Spell,Common,Invisibility
-18,Spell,Common,Heal
-19,Creature,Mythic,Earth Ancient Wizard of the Shadows
-20,Creature,Common,Wolf
-21,Creature,Common,Elf
-22,Creature,Common,Goblin
-23,Creature,Common,Paladin
-24,Enchantment,Legendary,Extreme Shrink
-25,Creature,Common,Orc
-26,Creature,Common,Dwarf
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Shield
-29,Artifact,Rare,Dark Pendant
-30,Spell,Common,Vortex
-31,Creature,Common,Orc
-32,Artifact,Common,Tome
-33,Enchantment,Mythic,Instant Haste
-34,Spell,Rare,Life Stricken
-35,Artifact,Common,Pendant
-36,Creature,Common,Wolf
-37,Creature,Mythic,Earth Time Phoenix of the Shadows
-38,Spell,Common,Freeze
-39,Creature,Common,Dwarf
-40,Creature,Common,Orc
-41,Creature,Rare,Light Undead Minotaur
-42,Artifact,Common,Helm
-43,Spell,Common,Wall
-44,Enchantment,Common,Agony
+==================,DECK,6325
+0,Creature,Spider
+1,Enchantment,Flight
+2,Artifact,Staff
+3,Creature,Spider
+4,Creature,Berserker
+5,Enchantment,Flight
+6,Spell,Vortex
+7,Creature,Ghoul
+8,Creature,Dark Undead Dragon of Illusion
+9,Creature,Warlock
+10,Creature,Dark Warrior Hydra
+11,Spell,Lightning
+12,Creature,Dark Queen Kraken
+13,Artifact,Crown
+14,Artifact,Instant Grim Scepter
+15,Spell,Frenzy
+16,Creature,Paladin
+17,Spell,Assault
+18,Spell,Gravitation
+19,Creature,Earth Ancient Wizard of the Shadows
+20,Creature,Wolf
+21,Creature,Warlock
+22,Creature,Skin-Walker
+23,Creature,Troll
+24,Enchantment,Zealous Chimeric Alacrity
+25,Creature,Spider
+26,Creature,Magi
+27,Creature,Magi
+28,Enchantment,Blight
+29,Artifact,Cataclysmic Pendant
+30,Spell,Fireball
+31,Creature,Spider
+32,Artifact,Tome
+33,Enchantment,Zealous Corpse Deathgrip
+34,Spell,Victory Frost
+35,Artifact,Pendant
+36,Creature,Wolf
+37,Creature,Earth Time Phoenix of the Shadows
+38,Spell,Heal
+39,Creature,Magi
+40,Creature,Spider
+41,Creature,Light Undead Cyclops
+42,Artifact,Helm
+43,Spell,Vortex
+44,Enchantment,Lethargy

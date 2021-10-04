@@ -1,46 +1,46 @@
-==================,DECK,7190,Medium
-0,Creature,Rare,Earth Queen Fairy
-1,Enchantment,Common,Blight
-2,Spell,Common,Burst
-3,Creature,Common,Wolf
-4,Creature,Common,Spider
-5,Enchantment,Mythic,Intense Alacrity
-6,Creature,Common,Goblin
-7,Creature,Mythic,Light Undead Phoenix of the Sky
-8,Creature,Legendary,Frozen Lord Giant of the Low Hills
-9,Creature,Common,Elf
-10,Creature,Legendary,Frozen Rogue Giant of the Eastern Skies
-11,Creature,Common,Elf
-12,Enchantment,Common,Blight
-13,Creature,Common,Ghoul
-14,Creature,Rare,Earth Merchant Berserker
-15,Enchantment,Common,Flight
-16,Spell,Common,Reanimate
-17,Creature,Common,Spider
-18,Spell,Common,Frenzy
-19,Creature,Common,Elf
-20,Creature,Common,Spider
-21,Spell,Common,Ice
-22,Creature,Rare,Light Queen Hydra
-23,Creature,Common,Eagle
-24,Creature,Common,Goblin
-25,Enchantment,Common,Shield
-26,Spell,Legendary,Instant Ice
-27,Creature,Common,Elf
-28,Creature,Common,Eagle
-29,Creature,Common,Dwarf
-30,Creature,Common,Ghoul
-31,Creature,Rare,Death Thief Berserker
-32,Creature,Common,Goblin
-33,Spell,Rare,Dark Frenzy
-34,Enchantment,Common,Blight
-35,Spell,Common,Burn
-36,Creature,Common,Spider
-37,Enchantment,Common,Age
-38,Creature,Common,Spider
-39,Creature,Common,Orc
-40,Creature,Common,Goblin
-41,Spell,Mythic,Clever Pandemonium
-42,Creature,Common,Warlock
-43,Spell,Mythic,Angry Hypnosis
-44,Creature,Common,Spider
+==================,DECK,7190
+0,Creature,Earth Queen Kraken
+1,Enchantment,Flight
+2,Spell,Hypnosis
+3,Creature,Wolf
+4,Creature,Paladin
+5,Enchantment,Urgent Forged Agony
+6,Creature,Skin-Walker
+7,Creature,Light Undead Phoenix of the Sky
+8,Creature,Frozen Lord Dwarf of the Low Hills
+9,Creature,Warlock
+10,Creature,Frozen Rogue Dwarf of the Eastern Skies
+11,Creature,Warlock
+12,Enchantment,Invert
+13,Creature,Ghoul
+14,Creature,Earth Merchant Goblin
+15,Enchantment,Agony
+16,Spell,Rage
+17,Creature,Paladin
+18,Spell,Sorrow
+19,Creature,Warlock
+20,Creature,Paladin
+21,Spell,Invisibility
+22,Creature,Light Queen Hydra
+23,Creature,Eagle
+24,Creature,Skin-Walker
+25,Enchantment,Strength
+26,Spell,Empyrean Solar Invisibility
+27,Creature,Warlock
+28,Creature,Eagle
+29,Creature,Magi
+30,Creature,Ghoul
+31,Creature,Death Thief Goblin
+32,Creature,Skin-Walker
+33,Spell,Gloom Gale
+34,Enchantment,Drain
+35,Spell,Frost
+36,Creature,Paladin
+37,Enchantment,Shrink
+38,Creature,Paladin
+39,Creature,Spider
+40,Creature,Skin-Walker
+41,Spell,Clever Victory Wall
+42,Creature,Berserker
+43,Spell,Clever Cataclysmic Stun
+44,Creature,Paladin

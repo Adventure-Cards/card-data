@@ -1,46 +1,46 @@
-==================,DECK,4514,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Earth Assassin Fairy
-2,Creature,Rare,Dark Knight Hydra
-3,Creature,Common,Goblin
-4,Enchantment,Common,Age
-5,Creature,Rare,Aura Priest Minotaur
-6,Enchantment,Common,Lethargy
-7,Spell,Common,Torment
-8,Artifact,Common,Gauntlet
-9,Creature,Legendary,Death Knight Cyclops of the Black Stone
-10,Spell,Legendary,Urgent Infuriate
-11,Creature,Common,Wolf
-12,Creature,Mythic,Dark Grand Demon of Illusion
-13,Enchantment,Common,Shade
-14,Creature,Common,Magi
-15,Spell,Common,Vortex
-16,Creature,Common,Ghoul
-17,Enchantment,Rare,Hateful Shrink
-18,Creature,Rare,Death Warrior Fairy
-19,Creature,Common,Wolf
-20,Enchantment,Common,Invert
-21,Spell,Common,Stricken
-22,Enchantment,Rare,Apocalypse Blight
-23,Creature,Common,Eagle
-24,Enchantment,Rare,Cataclysmic Blight
-25,Creature,Common,Eagle
-26,Enchantment,Mythic,Angry Lethargy
-27,Spell,Rare,Dark Frost
-28,Creature,Common,Orc
-29,Enchantment,Common,Haste
-30,Spell,Common,Gale
-31,Creature,Common,Warlock
-32,Creature,Common,Wolf
-33,Creature,Common,Wolf
-34,Spell,Common,Stricken
-35,Creature,Rare,Death Merchant Skin-Walker
-36,Creature,Rare,Dark Lord Fairy
-37,Creature,Rare,Snow Thief Skin-Walker
-38,Enchantment,Common,Blight
-39,Creature,Rare,Aura Warrior Minotaur
-40,Enchantment,Rare,Gloom Invert
-41,Spell,Common,Burst
-42,Spell,Common,Sorrow
-43,Creature,Common,Spider
-44,Enchantment,Rare,Solar Agony
+==================,DECK,4514
+0,Creature,Skin-Walker
+1,Creature,Earth Assassin Kraken
+2,Creature,Dark Knight Hydra
+3,Creature,Skin-Walker
+4,Enchantment,Drain
+5,Creature,Aura Priest Cyclops
+6,Enchantment,Firebreath
+7,Spell,Ice
+8,Artifact,Gauntlet
+9,Creature,Death Knight Giant of the Black Stone
+10,Spell,Empyrean Shimmering Stricken
+11,Creature,Wolf
+12,Creature,Dark Grand Demon of Illusion
+13,Enchantment,Drain
+14,Creature,Fairy
+15,Spell,Lightning
+16,Creature,Ghoul
+17,Enchantment,Chimeric Alacrity
+18,Creature,Death Warrior Kraken
+19,Creature,Wolf
+20,Enchantment,Lethargy
+21,Spell,Tempest
+22,Enchantment,Nimble Invert
+23,Creature,Eagle
+24,Enchantment,Cataclysmic Alacrity
+25,Creature,Eagle
+26,Enchantment,Instant Lunar Shrink
+27,Spell,Sorrow Burn
+28,Creature,Spider
+29,Enchantment,Age
+30,Spell,Torment
+31,Creature,Berserker
+32,Creature,Wolf
+33,Creature,Wolf
+34,Spell,Stricken
+35,Creature,Death Merchant Orc
+36,Creature,Dark Lord Kraken
+37,Creature,Snow Thief Orc
+38,Enchantment,Haste
+39,Creature,Aura Warrior Cyclops
+40,Enchantment,Sorrow Shrink
+41,Spell,Tempest
+42,Spell,Invisibility
+43,Creature,Paladin
+44,Enchantment,Corpse Strength

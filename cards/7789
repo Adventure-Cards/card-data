@@ -1,46 +1,46 @@
-==================,DECK,7789,Medium
-0,Spell,Common,Hypnosis
-1,Spell,Legendary,Urgent Assault
-2,Spell,Rare,Gloom Vortex
-3,Spell,Rare,Shimmering Hypnosis
-4,Creature,Common,Goblin
-5,Creature,Legendary,Dark Lord Giant of the Eastern Skies
-6,Spell,Common,Ice
-7,Spell,Rare,Solar Frenzy
-8,Spell,Common,Invisibility
-9,Creature,Common,Paladin
-10,Creature,Rare,Earth Knight Minotaur
-11,Creature,Rare,Snow Undead Fairy
-12,Spell,Legendary,Urgent Reanimate
-13,Spell,Rare,Hateful Infuriate
-14,Creature,Common,Goblin
-15,Creature,Rare,Earth King Griffin
-16,Spell,Common,Burn
-17,Artifact,Rare,Solar Helm
-18,Enchantment,Common,Blight
-19,Spell,Common,Infuriate
-20,Creature,Rare,Frozen Queen Fairy
-21,Creature,Common,Dwarf
-22,Creature,Legendary,Frozen King Orge of the Frozen Castle
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Fury
-25,Enchantment,Rare,Hateful Age
-26,Spell,Rare,Life Stricken
-27,Enchantment,Common,Strength
-28,Artifact,Common,Ghost Wand
-29,Creature,Legendary,Snow Warrior Kraken of the Eastern Skies
-30,Creature,Common,Warlock
-31,Enchantment,Mythic,Clever Haste
-32,Spell,Legendary,Angry Invisibility
-33,Artifact,Rare,Life Sigil
-34,Creature,Mythic,Death Chaos Demon of the Dead
-35,Creature,Mythic,Frozen Time Phoenix of the Void
-36,Creature,Common,Orc
-37,Creature,Common,Ghoul
-38,Spell,Common,Gravitation
-39,Spell,Legendary,Mighty Gravitation
-40,Spell,Common,Pandemonium
-41,Artifact,Rare,Apocalypse Staff
-42,Creature,Common,Spider
-43,Creature,Common,Warlock
-44,Spell,Common,Invisibility
+==================,DECK,7789
+0,Spell,Gale
+1,Spell,Dire Forged Fireball
+2,Spell,Cataclysmic Infuriate
+3,Spell,Corpse Burst
+4,Creature,Skin-Walker
+5,Creature,Dark Lord Dwarf of the Eastern Skies
+6,Spell,Gravitation
+7,Spell,Forged Stricken
+8,Spell,Tempest
+9,Creature,Troll
+10,Creature,Earth Knight Cyclops
+11,Creature,Snow Undead Kraken
+12,Spell,Empyrean Corpse Fire
+13,Spell,Cataclysmic Lightning
+14,Creature,Skin-Walker
+15,Creature,Earth King Griffin
+16,Spell,Lightning
+17,Artifact,Solar Helm
+18,Enchantment,Alacrity
+19,Spell,Stun
+20,Creature,Frozen Queen Kraken
+21,Creature,Magi
+22,Creature,Frozen King Elf of the Frozen Castle
+23,Enchantment,Agony
+24,Spell,Stun
+25,Enchantment,Gloom Flight
+26,Spell,Apocalypse Stricken
+27,Enchantment,Agony
+28,Artifact,Ghost Wand
+29,Creature,Snow Warrior Ogre of the Eastern Skies
+30,Creature,Berserker
+31,Enchantment,Zealous Life Blight
+32,Spell,Instant Cataclysmic Frost
+33,Artifact,Grim Sigil
+34,Creature,Death Chaos Demon of the Dead
+35,Creature,Frozen Time Phoenix of the Void
+36,Creature,Spider
+37,Creature,Ghoul
+38,Spell,Gale
+39,Spell,Irate Lunar Invisibility
+40,Spell,Invisibility
+41,Artifact,Life Staff
+42,Creature,Paladin
+43,Creature,Berserker
+44,Spell,Assault

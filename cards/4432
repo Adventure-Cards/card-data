@@ -1,46 +1,46 @@
-==================,DECK,4432,Light
-0,Creature,Rare,Death Knight Fairy
-1,Creature,Common,Elf
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Wolf
-4,Creature,Common,Warlock
-5,Enchantment,Common,Drain
-6,Creature,Rare,Snow Thief Griffin
-7,Creature,Common,Ghoul
-8,Enchantment,Common,Strength
-9,Creature,Common,Orc
-10,Creature,Common,Goblin
-11,Enchantment,Common,Haste
-12,Spell,Common,Torment
-13,Artifact,Common,Shield
-14,Creature,Common,Ghoul
-15,Creature,Common,Orc
-16,Creature,Rare,Dark Thief Hydra
-17,Creature,Rare,Snow Priest Berserker
-18,Creature,Common,Ghoul
-19,Enchantment,Rare,Grim Shield
-20,Enchantment,Common,Shade
-21,Creature,Rare,Light Lord Fairy
-22,Enchantment,Mythic,Intense Drain
-23,Creature,Mythic,Frozen Nameless Dragon of the Void
-24,Spell,Common,Sorrow
-25,Creature,Rare,Snow Priest Minotaur
-26,Enchantment,Rare,Necro Shrink
-27,Artifact,Common,Scythe
-28,Enchantment,Mythic,Instant Age
-29,Enchantment,Common,Shade
-30,Creature,Common,Orc
-31,Creature,Common,Magi
-32,Creature,Common,Elf
-33,Enchantment,Common,Blight
-34,Artifact,Common,Cloak
-35,Creature,Rare,Frozen Knight Griffin
-36,Creature,Rare,Frozen Queen Hydra
-37,Enchantment,Rare,Lunar Drain
-38,Enchantment,Common,Shade
-39,Creature,Rare,Light Priest Skin-Walker
-40,Spell,Common,Frost
-41,Artifact,Common,Ghost Wand
-42,Spell,Common,Sorrow
-43,Creature,Common,Magi
-44,Spell,Common,Heal
+==================,DECK,4432
+0,Creature,Death Knight Kraken
+1,Creature,Warlock
+2,Enchantment,Firebreath
+3,Creature,Wolf
+4,Creature,Berserker
+5,Enchantment,Shade
+6,Creature,Snow Thief Griffin
+7,Creature,Ghoul
+8,Enchantment,Firebreath
+9,Creature,Spider
+10,Creature,Skin-Walker
+11,Enchantment,Lethargy
+12,Spell,Infuriate
+13,Artifact,Shield
+14,Creature,Ghoul
+15,Creature,Spider
+16,Creature,Dark Thief Hydra
+17,Creature,Snow Priest Goblin
+18,Creature,Ghoul
+19,Enchantment,Victory Blight
+20,Enchantment,Blight
+21,Creature,Light Lord Kraken
+22,Enchantment,Clever Forged Lethargy
+23,Creature,Frozen Nameless Dragon of the Void
+24,Spell,Ice
+25,Creature,Snow Priest Cyclops
+26,Enchantment,Necro Agony
+27,Artifact,Scythe
+28,Enchantment,Mighty Nature Agony
+29,Enchantment,Invert
+30,Creature,Spider
+31,Creature,Fairy
+32,Creature,Warlock
+33,Enchantment,Shade
+34,Artifact,Cloak
+35,Creature,Frozen Knight Griffin
+36,Creature,Frozen Queen Hydra
+37,Enchantment,Dark Firebreath
+38,Enchantment,Shade
+39,Creature,Light Priest Orc
+40,Spell,Assault
+41,Artifact,Ghost Wand
+42,Spell,Stun
+43,Creature,Fairy
+44,Spell,Invisibility

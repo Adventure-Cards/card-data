@@ -1,46 +1,46 @@
-==================,DECK,6636,Medium
-0,Creature,Common,Warlock
-1,Spell,Legendary,Extreme Infuriate
-2,Enchantment,Mythic,Dire Alacrity
-3,Artifact,Rare,Shimmering Gauntlet
-4,Creature,Legendary,Snow Undead Orge of the Plains
-5,Spell,Common,Hypnosis
-6,Creature,Rare,Light King Berserker
-7,Enchantment,Legendary,Dire Agony
-8,Creature,Common,Goblin
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Age
-11,Enchantment,Legendary,Instant Agony
-12,Creature,Mythic,Aura Ancient Demon of the Light
-13,Spell,Rare,Shimmering Maelstrom
-14,Creature,Common,Paladin
-15,Creature,Common,Wolf
-16,Creature,Legendary,Frozen Lord Cyclops of the Haven
-17,Spell,Common,Burst
-18,Spell,Common,Assault
-19,Creature,Legendary,Earth King Orge of the Frozen Castle
-20,Spell,Rare,Miracle Hypnosis
-21,Creature,Legendary,Snow Queen Giant of the Eastern Skies
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Death Fighter Giant of the Plains
-24,Spell,Common,Wall
-25,Creature,Rare,Snow King Fairy
-26,Creature,Common,Ghoul
-27,Artifact,Common,Ghost Wand
-28,Enchantment,Rare,Nature Flight
-29,Artifact,Rare,Solar Amulet
-30,Spell,Rare,Grim Assault
-31,Artifact,Legendary,Clever Greaves
-32,Creature,Legendary,Frozen Warrior Cyclops of the Border
-33,Artifact,Legendary,Dire Bow
-34,Creature,Legendary,Dark Warrior Kraken of the Swamp
-35,Artifact,Rare,Miracle Crown
-36,Spell,Common,Torment
-37,Enchantment,Common,Drain
-38,Creature,Common,Warlock
-39,Creature,Common,Wolf
-40,Creature,Common,Elf
-41,Creature,Common,Elf
-42,Creature,Common,Ghoul
-43,Creature,Common,Dwarf
-44,Creature,Common,Paladin
+==================,DECK,6636
+0,Creature,Berserker
+1,Spell,Potent Miracle Assault
+2,Enchantment,Irate Apocalypse Blight
+3,Artifact,Nature Gauntlet
+4,Creature,Snow Undead Elf of the Plains
+5,Spell,Revive
+6,Creature,Light King Goblin
+7,Enchantment,Irate Life Blight
+8,Creature,Skin-Walker
+9,Creature,Ghoul
+10,Enchantment,Alacrity
+11,Enchantment,Ardent Corpse Lethargy
+12,Creature,Aura Ancient Demon of the Light
+13,Spell,Corpse Ice
+14,Creature,Troll
+15,Creature,Wolf
+16,Creature,Frozen Lord Giant of the Haven
+17,Spell,Gravitation
+18,Spell,Ice
+19,Creature,Earth King Elf of the Frozen Castle
+20,Spell,Apocalypse Stricken
+21,Creature,Snow Queen Dwarf of the Eastern Skies
+22,Creature,Magi
+23,Creature,Death Fighter Dwarf of the Plains
+24,Spell,Wall
+25,Creature,Snow King Kraken
+26,Creature,Ghoul
+27,Artifact,Ghost Wand
+28,Enchantment,Hateful Strength
+29,Artifact,Necro Amulet
+30,Spell,Nimble Pandemonium
+31,Artifact,Urgent Oblivion Greaves
+32,Creature,Frozen Warrior Giant of the Border
+33,Artifact,Urgent Life Bow
+34,Creature,Dark Warrior Ogre of the Swamp
+35,Artifact,Oblivion Crown
+36,Spell,Freeze
+37,Enchantment,Shade
+38,Creature,Berserker
+39,Creature,Wolf
+40,Creature,Warlock
+41,Creature,Warlock
+42,Creature,Ghoul
+43,Creature,Magi
+44,Creature,Troll

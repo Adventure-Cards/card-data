@@ -1,46 +1,46 @@
-==================,DECK,5621,Light
-0,Spell,Common,Frost
-1,Creature,Rare,Death Merchant Hydra
-2,Creature,Common,Dwarf
-3,Creature,Common,Magi
-4,Creature,Rare,Frozen Queen Griffin
-5,Artifact,Common,Scythe
-6,Enchantment,Legendary,Intense Haste
-7,Creature,Common,Orc
-8,Enchantment,Rare,Forged Agony
-9,Enchantment,Common,Strength
-10,Enchantment,Mythic,Intense Lethargy
-11,Creature,Rare,Light Thief Skin-Walker
-12,Enchantment,Rare,Cataclysmic Deathgrip
-13,Creature,Rare,Dark Knight Fairy
-14,Artifact,Common,Greaves
-15,Creature,Common,Ghoul
-16,Creature,Common,Elf
-17,Creature,Mythic,Earth Nameless Dragon of the Shadows
-18,Creature,Mythic,Light Grand Wizard of the Sky
-19,Creature,Rare,Death Queen Berserker
-20,Creature,Rare,Aura Knight Skin-Walker
-21,Artifact,Common,Amulet
-22,Enchantment,Common,Haste
-23,Spell,Common,Hypnosis
-24,Creature,Common,Spider
-25,Spell,Common,Burst
-26,Creature,Rare,Dark Monk Hydra
-27,Artifact,Common,Ring
-28,Enchantment,Rare,Apocalypse Haste
-29,Spell,Common,Wall
-30,Artifact,Common,Tome
-31,Creature,Common,Warlock
-32,Creature,Common,Goblin
-33,Creature,Common,Ghoul
-34,Creature,Rare,Frozen Merchant Fairy
-35,Creature,Common,Wolf
-36,Enchantment,Common,Shade
-37,Creature,Common,Paladin
-38,Creature,Common,Eagle
-39,Enchantment,Mythic,Clever Flight
-40,Creature,Common,Paladin
-41,Creature,Rare,Dark Thief Berserker
-42,Creature,Common,Wolf
-43,Creature,Common,Elf
-44,Creature,Common,Spider
+==================,DECK,5621
+0,Spell,Stricken
+1,Creature,Death Merchant Hydra
+2,Creature,Magi
+3,Creature,Fairy
+4,Creature,Frozen Queen Griffin
+5,Artifact,Scythe
+6,Enchantment,Mighty Corpse Agony
+7,Creature,Spider
+8,Enchantment,Miracle Shield
+9,Enchantment,Lethargy
+10,Enchantment,Instant Hateful Strength
+11,Creature,Light Thief Orc
+12,Enchantment,Sorrow Shield
+13,Creature,Dark Knight Kraken
+14,Artifact,Greaves
+15,Creature,Ghoul
+16,Creature,Warlock
+17,Creature,Earth Nameless Dragon of the Shadows
+18,Creature,Light Grand Wizard of the Sky
+19,Creature,Death Queen Goblin
+20,Creature,Aura Knight Orc
+21,Artifact,Amulet
+22,Enchantment,Firebreath
+23,Spell,Stun
+24,Creature,Paladin
+25,Spell,Fireball
+26,Creature,Dark Monk Hydra
+27,Artifact,Ring
+28,Enchantment,Life Drain
+29,Spell,Fireball
+30,Artifact,Tome
+31,Creature,Berserker
+32,Creature,Skin-Walker
+33,Creature,Ghoul
+34,Creature,Frozen Merchant Kraken
+35,Creature,Wolf
+36,Enchantment,Invert
+37,Creature,Troll
+38,Creature,Eagle
+39,Enchantment,Empyrean Grim Shade
+40,Creature,Troll
+41,Creature,Dark Thief Goblin
+42,Creature,Wolf
+43,Creature,Warlock
+44,Creature,Paladin

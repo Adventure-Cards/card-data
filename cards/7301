@@ -1,46 +1,46 @@
-==================,DECK,7301,Light
-0,Creature,Legendary,Snow Assassin Cyclops of the Golden Palace
-1,Creature,Rare,Aura Thief Berserker
-2,Artifact,Common,Sword
-3,Spell,Rare,Corpse Vortex
-4,Enchantment,Rare,Apocalypse Age
-5,Creature,Common,Magi
-6,Creature,Common,Goblin
-7,Creature,Rare,Light King Fairy
-8,Creature,Rare,Death Assassin Griffin
-9,Spell,Common,Frost
-10,Enchantment,Common,Agony
-11,Creature,Legendary,Aura Knight Giant of the Frozen Castle
-12,Creature,Common,Spider
-13,Artifact,Common,Sword
-14,Spell,Common,Gravitation
-15,Spell,Common,Rage
-16,Artifact,Common,Scepter
-17,Spell,Common,Invisibility
-18,Creature,Common,Paladin
-19,Artifact,Common,Tome
-20,Spell,Common,Revive
-21,Creature,Common,Spider
-22,Artifact,Common,Scepter
-23,Creature,Common,Dwarf
-24,Spell,Common,Hypnosis
-25,Creature,Rare,Dark Knight Berserker
-26,Creature,Common,Warlock
-27,Enchantment,Common,Invert
-28,Creature,Common,Wolf
-29,Creature,Common,Ghoul
-30,Creature,Legendary,Aura Rogue Cyclops of the Magical Forest
-31,Spell,Common,Reanimate
-32,Enchantment,Mythic,Extreme Haste
-33,Spell,Common,Assault
-34,Artifact,Common,Staff
-35,Creature,Common,Elf
-36,Creature,Common,Warlock
-37,Creature,Common,Elf
-38,Enchantment,Common,Haste
-39,Creature,Common,Wolf
-40,Enchantment,Mythic,Intense Alacrity
-41,Creature,Common,Paladin
-42,Creature,Common,Goblin
-43,Spell,Common,Revive
-44,Creature,Common,Warlock
+==================,DECK,7301
+0,Creature,Snow Assassin Giant of the Golden Palace
+1,Creature,Aura Thief Goblin
+2,Artifact,Sword
+3,Spell,Necro Fire
+4,Enchantment,Victory Shade
+5,Creature,Fairy
+6,Creature,Skin-Walker
+7,Creature,Light King Kraken
+8,Creature,Death Assassin Griffin
+9,Spell,Burst
+10,Enchantment,Firebreath
+11,Creature,Aura Knight Dwarf of the Frozen Castle
+12,Creature,Paladin
+13,Artifact,Sword
+14,Spell,Pandemonium
+15,Spell,Hypnosis
+16,Artifact,Scepter
+17,Spell,Burst
+18,Creature,Troll
+19,Artifact,Tome
+20,Spell,Maelstrom
+21,Creature,Paladin
+22,Artifact,Scepter
+23,Creature,Magi
+24,Spell,Hypnosis
+25,Creature,Dark Knight Goblin
+26,Creature,Berserker
+27,Enchantment,Strength
+28,Creature,Wolf
+29,Creature,Ghoul
+30,Creature,Aura Rogue Giant of the Magical Forest
+31,Spell,Freeze
+32,Enchantment,Clever Miracle Shield
+33,Spell,Tempest
+34,Artifact,Staff
+35,Creature,Warlock
+36,Creature,Berserker
+37,Creature,Warlock
+38,Enchantment,Haste
+39,Creature,Wolf
+40,Enchantment,Irate Forged Deathgrip
+41,Creature,Troll
+42,Creature,Skin-Walker
+43,Spell,Pandemonium
+44,Creature,Berserker

@@ -1,46 +1,46 @@
-==================,DECK,6251,Medium
-0,Enchantment,Common,Lethargy
-1,Creature,Rare,Snow Queen Griffin
-2,Artifact,Rare,Frigid Ring
-3,Creature,Rare,Death Thief Skin-Walker
-4,Creature,Common,Ghoul
-5,Creature,Rare,Light Queen Minotaur
-6,Creature,Common,Eagle
-7,Spell,Common,Pandemonium
-8,Enchantment,Mythic,Mighty Age
-9,Enchantment,Common,Shade
-10,Creature,Rare,Aura Priest Berserker
-11,Spell,Common,Maelstrom
-12,Spell,Common,Vortex
-13,Creature,Legendary,Dark Thief Kraken of the Eternal Land
-14,Artifact,Legendary,Instant Boots
-15,Creature,Legendary,Light Thief Cyclops of the Bright Mountains
-16,Creature,Common,Wolf
-17,Creature,Common,Wolf
-18,Enchantment,Common,Haste
-19,Creature,Common,Wolf
-20,Spell,Common,Gravitation
-21,Spell,Common,Invisibility
-22,Creature,Rare,Death Fighter Berserker
-23,Artifact,Rare,Miracle Sword
-24,Creature,Rare,Earth King Skin-Walker
-25,Creature,Rare,Earth Warrior Griffin
-26,Enchantment,Mythic,Potent Alacrity
-27,Creature,Common,Spider
-28,Creature,Common,Dwarf
-29,Creature,Common,Eagle
-30,Creature,Common,Warlock
-31,Creature,Common,Eagle
-32,Spell,Common,Infuriate
-33,Artifact,Legendary,Intense Belt
-34,Creature,Legendary,Snow Lord Kraken of the Bright Mountains
-35,Creature,Common,Paladin
-36,Creature,Rare,Frozen Knight Fairy
-37,Creature,Common,Warlock
-38,Creature,Common,Wolf
-39,Enchantment,Mythic,Potent Agony
-40,Creature,Mythic,Aura Grand Wizard of the Light
-41,Creature,Rare,Earth Warrior Griffin
-42,Artifact,Rare,Gloom Boots
-43,Enchantment,Common,Haste
-44,Creature,Common,Ghoul
+==================,DECK,6251
+0,Enchantment,Shield
+1,Creature,Snow Queen Griffin
+2,Artifact,Life Ring
+3,Creature,Death Thief Orc
+4,Creature,Ghoul
+5,Creature,Light Queen Cyclops
+6,Creature,Eagle
+7,Spell,Fire
+8,Enchantment,Clever Gloom Shield
+9,Enchantment,Flight
+10,Creature,Aura Priest Goblin
+11,Spell,Torment
+12,Spell,Reanimate
+13,Creature,Dark Thief Ogre of the Eternal Land
+14,Artifact,Ardent Nature Boots
+15,Creature,Light Thief Giant of the Bright Mountains
+16,Creature,Wolf
+17,Creature,Wolf
+18,Enchantment,Strength
+19,Creature,Wolf
+20,Spell,Revive
+21,Spell,Burst
+22,Creature,Death Fighter Goblin
+23,Artifact,Frigid Sword
+24,Creature,Earth King Orc
+25,Creature,Earth Warrior Griffin
+26,Enchantment,Urgent Apocalypse Invert
+27,Creature,Paladin
+28,Creature,Magi
+29,Creature,Eagle
+30,Creature,Berserker
+31,Creature,Eagle
+32,Spell,Heal
+33,Artifact,Empyrean Hateful Belt
+34,Creature,Snow Lord Ogre of the Bright Mountains
+35,Creature,Troll
+36,Creature,Frozen Knight Kraken
+37,Creature,Berserker
+38,Creature,Wolf
+39,Enchantment,Urgent Life Invert
+40,Creature,Aura Grand Wizard of the Light
+41,Creature,Earth Warrior Griffin
+42,Artifact,Lunar Boots
+43,Enchantment,Strength
+44,Creature,Ghoul

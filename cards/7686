@@ -1,46 +1,46 @@
-==================,DECK,7686,Light
-0,Artifact,Common,Potion
-1,Creature,Common,Ghoul
-2,Creature,Common,Paladin
-3,Creature,Common,Goblin
-4,Creature,Common,Orc
-5,Creature,Common,Wolf
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Creature,Common,Dwarf
-9,Creature,Common,Warlock
-10,Spell,Common,Pandemonium
-11,Creature,Common,Wolf
-12,Spell,Common,Freeze
-13,Creature,Common,Wolf
-14,Creature,Common,Dwarf
-15,Creature,Common,Wolf
-16,Spell,Legendary,Dire Gale
-17,Creature,Legendary,Snow Thief Orge of the Plains
-18,Spell,Common,Invisibility
-19,Creature,Legendary,Death Priest Cyclops of the Border
-20,Creature,Rare,Death Rogue Berserker
-21,Creature,Common,Orc
-22,Enchantment,Common,Drain
-23,Creature,Common,Paladin
-24,Enchantment,Common,Drain
-25,Creature,Rare,Frozen Queen Griffin
-26,Creature,Common,Wolf
-27,Enchantment,Common,Flight
-28,Artifact,Common,Ring
-29,Creature,Common,Ghoul
-30,Spell,Rare,Dark Torment
-31,Creature,Common,Spider
-32,Enchantment,Rare,Dark Lethargy
-33,Creature,Rare,Death Lord Griffin
-34,Enchantment,Rare,Frigid Shade
-35,Artifact,Common,Potion
-36,Creature,Common,Eagle
-37,Creature,Common,Spider
-38,Creature,Common,Elf
-39,Spell,Common,Rage
-40,Spell,Rare,Nature Reanimate
-41,Creature,Rare,Aura Warrior Berserker
-42,Creature,Mythic,Snow Grand Demon of Hate
-43,Artifact,Common,Scepter
-44,Spell,Rare,Oblivion Assault
+==================,DECK,7686
+0,Artifact,Potion
+1,Creature,Ghoul
+2,Creature,Troll
+3,Creature,Skin-Walker
+4,Creature,Spider
+5,Creature,Wolf
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Creature,Magi
+9,Creature,Berserker
+10,Spell,Vortex
+11,Creature,Wolf
+12,Spell,Freeze
+13,Creature,Wolf
+14,Creature,Magi
+15,Creature,Wolf
+16,Spell,Mighty Victory Sorrow
+17,Creature,Snow Thief Elf of the Plains
+18,Spell,Stun
+19,Creature,Death Priest Giant of the Border
+20,Creature,Death Rogue Goblin
+21,Creature,Spider
+22,Enchantment,Shrink
+23,Creature,Troll
+24,Enchantment,Lethargy
+25,Creature,Frozen Queen Griffin
+26,Creature,Wolf
+27,Enchantment,Agony
+28,Artifact,Ring
+29,Creature,Ghoul
+30,Spell,Miracle Ice
+31,Creature,Paladin
+32,Enchantment,Lunar Alacrity
+33,Creature,Death Lord Griffin
+34,Enchantment,Frigid Drain
+35,Artifact,Potion
+36,Creature,Eagle
+37,Creature,Paladin
+38,Creature,Warlock
+39,Spell,Stun
+40,Spell,Forged Ice
+41,Creature,Aura Warrior Goblin
+42,Creature,Snow Grand Demon of Hate
+43,Artifact,Scepter
+44,Spell,Oblivion Ice

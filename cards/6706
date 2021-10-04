@@ -1,46 +1,46 @@
-==================,DECK,6706,Light
-0,Artifact,Rare,Corpse Pendant
-1,Creature,Common,Magi
-2,Creature,Common,Eagle
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Flight
-5,Creature,Common,Wolf
-6,Enchantment,Common,Flight
-7,Artifact,Common,Sigil
-8,Creature,Common,Dwarf
-9,Spell,Rare,Hateful Fury
-10,Creature,Rare,Earth Knight Berserker
-11,Creature,Common,Orc
-12,Creature,Common,Paladin
-13,Enchantment,Common,Age
-14,Creature,Mythic,Dark Chaos Wizard of Illusion
-15,Spell,Common,Wall
-16,Creature,Common,Paladin
-17,Creature,Common,Eagle
-18,Spell,Common,Gale
-19,Creature,Mythic,Snow Undead Phoenix of Hate
-20,Artifact,Common,Greaves
-21,Enchantment,Common,Strength
-22,Creature,Common,Ghoul
-23,Creature,Rare,Earth Monk Minotaur
-24,Creature,Common,Ghoul
-25,Creature,Common,Magi
-26,Spell,Common,Freeze
-27,Enchantment,Legendary,Clever Drain
-28,Creature,Legendary,Earth Assassin Cyclops of the Eastern Skies
-29,Creature,Legendary,Dark Knight Kraken of the Low Hills
-30,Enchantment,Common,Strength
-31,Spell,Common,Vortex
-32,Creature,Rare,Light Rogue Griffin
-33,Creature,Common,Goblin
-34,Creature,Common,Magi
-35,Creature,Common,Dwarf
-36,Creature,Common,Wolf
-37,Spell,Common,Reanimate
-38,Spell,Common,Ice
-39,Spell,Legendary,Potent Frenzy
-40,Enchantment,Common,Agony
-41,Spell,Common,Vortex
-42,Creature,Legendary,Light Knight Orge of the Polar Woods
-43,Creature,Common,Magi
-44,Enchantment,Common,Haste
+==================,DECK,6706
+0,Artifact,Solar Pendant
+1,Creature,Fairy
+2,Creature,Eagle
+3,Creature,Magi
+4,Enchantment,Lethargy
+5,Creature,Wolf
+6,Enchantment,Firebreath
+7,Artifact,Sigil
+8,Creature,Magi
+9,Spell,Lunar Ice
+10,Creature,Earth Knight Goblin
+11,Creature,Spider
+12,Creature,Troll
+13,Enchantment,Agony
+14,Creature,Dark Chaos Wizard of Illusion
+15,Spell,Vortex
+16,Creature,Troll
+17,Creature,Eagle
+18,Spell,Burst
+19,Creature,Snow Undead Phoenix of Hate
+20,Artifact,Greaves
+21,Enchantment,Deathgrip
+22,Creature,Ghoul
+23,Creature,Earth Monk Cyclops
+24,Creature,Ghoul
+25,Creature,Fairy
+26,Spell,Vortex
+27,Enchantment,Mighty Apocalypse Invert
+28,Creature,Earth Assassin Giant of the Eastern Skies
+29,Creature,Dark Knight Ogre of the Low Hills
+30,Enchantment,Age
+31,Spell,Maelstrom
+32,Creature,Light Rogue Griffin
+33,Creature,Skin-Walker
+34,Creature,Fairy
+35,Creature,Magi
+36,Creature,Wolf
+37,Spell,Burn
+38,Spell,Heal
+39,Spell,Irate Frigid Tempest
+40,Enchantment,Strength
+41,Spell,Maelstrom
+42,Creature,Light Knight Elf of the Polar Woods
+43,Creature,Fairy
+44,Enchantment,Flight

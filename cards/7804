@@ -1,46 +1,46 @@
-==================,DECK,7804,Light
-0,Creature,Common,Wolf
-1,Artifact,Common,Helmet
-2,Creature,Rare,Frozen Assassin Hydra
-3,Spell,Rare,Necro Burst
-4,Creature,Rare,Dark Priest Hydra
-5,Creature,Common,Wolf
-6,Enchantment,Mythic,Potent Blight
-7,Creature,Common,Paladin
-8,Spell,Common,Hypnosis
-9,Creature,Common,Ghoul
-10,Creature,Common,Goblin
-11,Spell,Common,Gravitation
-12,Artifact,Rare,Hateful Potion
-13,Creature,Common,Wolf
-14,Creature,Mythic,Frozen Undead Phoenix of the Void
-15,Creature,Legendary,Snow Warrior Giant of the Golden Palace
-16,Creature,Rare,Aura Warrior Hydra
-17,Creature,Common,Elf
-18,Spell,Common,Hypnosis
-19,Creature,Common,Spider
-20,Creature,Rare,Aura Rogue Hydra
-21,Creature,Common,Elf
-22,Creature,Common,Spider
-23,Creature,Common,Warlock
-24,Enchantment,Common,Lethargy
-25,Artifact,Common,Potion
-26,Creature,Common,Dwarf
-27,Spell,Rare,Lunar Maelstrom
-28,Spell,Common,Vortex
-29,Artifact,Common,Tome
-30,Enchantment,Mythic,Instant Strength
-31,Enchantment,Common,Alacrity
-32,Enchantment,Common,Flight
-33,Spell,Common,Lightning
-34,Enchantment,Common,Deathgrip
-35,Spell,Common,Gravitation
-36,Creature,Common,Goblin
-37,Creature,Rare,Dark Assassin Hydra
-38,Creature,Mythic,Snow Undead Dragon of Hate
-39,Creature,Rare,Light Fighter Griffin
-40,Enchantment,Common,Invert
-41,Creature,Rare,Aura Undead Fairy
-42,Creature,Common,Elf
-43,Artifact,Common,Gloves
-44,Spell,Rare,Nature Gale
+==================,DECK,7804
+0,Creature,Wolf
+1,Artifact,Helmet
+2,Creature,Frozen Assassin Hydra
+3,Spell,Nature Invisibility
+4,Creature,Dark Priest Hydra
+5,Creature,Wolf
+6,Enchantment,Potent Nimble Drain
+7,Creature,Troll
+8,Spell,Infuriate
+9,Creature,Ghoul
+10,Creature,Skin-Walker
+11,Spell,Assault
+12,Artifact,Miracle Potion
+13,Creature,Wolf
+14,Creature,Frozen Undead Phoenix of the Void
+15,Creature,Snow Warrior Dwarf of the Golden Palace
+16,Creature,Aura Warrior Hydra
+17,Creature,Warlock
+18,Spell,Gravitation
+19,Creature,Paladin
+20,Creature,Aura Rogue Hydra
+21,Creature,Warlock
+22,Creature,Paladin
+23,Creature,Berserker
+24,Enchantment,Invert
+25,Artifact,Potion
+26,Creature,Magi
+27,Spell,Miracle Ice
+28,Spell,Gravitation
+29,Artifact,Tome
+30,Enchantment,Urgent Solar Agony
+31,Enchantment,Flight
+32,Enchantment,Haste
+33,Spell,Gravitation
+34,Enchantment,Shade
+35,Spell,Assault
+36,Creature,Skin-Walker
+37,Creature,Dark Assassin Hydra
+38,Creature,Snow Undead Dragon of Hate
+39,Creature,Light Fighter Griffin
+40,Enchantment,Alacrity
+41,Creature,Aura Undead Kraken
+42,Creature,Warlock
+43,Artifact,Gloves
+44,Spell,Solar Frost

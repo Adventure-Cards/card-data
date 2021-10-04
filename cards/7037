@@ -1,46 +1,46 @@
-==================,DECK,7037,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Elf
-2,Creature,Common,Paladin
-3,Spell,Rare,Nimble Wall
-4,Creature,Rare,Dark Fighter Hydra
-5,Spell,Common,Frenzy
-6,Creature,Legendary,Earth King Giant of the Plains
-7,Creature,Common,Goblin
-8,Creature,Legendary,Frozen Lord Oni of the Low Hills
-9,Creature,Common,Paladin
-10,Creature,Common,Spider
-11,Spell,Common,Vortex
-12,Creature,Common,Warlock
-13,Creature,Common,Orc
-14,Artifact,Common,Scythe
-15,Creature,Legendary,Death King Kraken of the Border
-16,Artifact,Common,Potion
-17,Enchantment,Common,Shield
-18,Creature,Common,Wolf
-19,Artifact,Common,Belt
-20,Creature,Common,Magi
-21,Enchantment,Rare,Apocalypse Flight
-22,Creature,Common,Goblin
-23,Creature,Common,Goblin
-24,Spell,Common,Pandemonium
-25,Enchantment,Mythic,Instant Deathgrip
-26,Spell,Legendary,Mighty Burst
-27,Enchantment,Common,Shade
-28,Creature,Common,Spider
-29,Artifact,Common,Sigil
-30,Artifact,Common,Staff
-31,Spell,Common,Infuriate
-32,Creature,Common,Warlock
-33,Creature,Rare,Light King Griffin
-34,Creature,Common,Wolf
-35,Enchantment,Common,Shade
-36,Creature,Rare,Death Assassin Skin-Walker
-37,Enchantment,Mythic,Extreme Shade
-38,Enchantment,Common,Shrink
-39,Spell,Rare,Dark Freeze
-40,Enchantment,Mythic,Clever Shield
-41,Spell,Common,Ice
-42,Creature,Common,Goblin
-43,Spell,Common,Burst
-44,Creature,Legendary,Light Warrior Oni of the Golden Palace
+==================,DECK,7037
+0,Creature,Eagle
+1,Creature,Warlock
+2,Creature,Troll
+3,Spell,Necro Stun
+4,Creature,Dark Fighter Hydra
+5,Spell,Frost
+6,Creature,Earth King Dwarf of the Plains
+7,Creature,Skin-Walker
+8,Creature,Frozen Lord Oni of the Low Hills
+9,Creature,Troll
+10,Creature,Paladin
+11,Spell,Sorrow
+12,Creature,Berserker
+13,Creature,Spider
+14,Artifact,Scythe
+15,Creature,Death King Ogre of the Border
+16,Artifact,Potion
+17,Enchantment,Blight
+18,Creature,Wolf
+19,Artifact,Belt
+20,Creature,Fairy
+21,Enchantment,Grim Haste
+22,Creature,Skin-Walker
+23,Creature,Skin-Walker
+24,Spell,Pandemonium
+25,Enchantment,Empyrean Shimmering Age
+26,Spell,Mighty Sorrow Frenzy
+27,Enchantment,Shrink
+28,Creature,Paladin
+29,Artifact,Sigil
+30,Artifact,Staff
+31,Spell,Fireball
+32,Creature,Berserker
+33,Creature,Light King Griffin
+34,Creature,Wolf
+35,Enchantment,Firebreath
+36,Creature,Death Assassin Orc
+37,Enchantment,Urgent Chimeric Flight
+38,Enchantment,Invert
+39,Spell,Gloom Rage
+40,Enchantment,Urgent Victory Invert
+41,Spell,Gravitation
+42,Creature,Skin-Walker
+43,Spell,Maelstrom
+44,Creature,Light Warrior Oni of the Golden Palace

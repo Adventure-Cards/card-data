@@ -1,46 +1,46 @@
-==================,DECK,5263,Light
-0,Spell,Common,Gale
-1,Enchantment,Common,Strength
-2,Artifact,Rare,Hateful Scepter
-3,Spell,Common,Heal
-4,Enchantment,Rare,Frigid Shield
-5,Artifact,Common,Sword
-6,Creature,Common,Paladin
-7,Creature,Common,Warlock
-8,Spell,Common,Wall
-9,Enchantment,Rare,Dark Shade
-10,Enchantment,Legendary,Urgent Drain
-11,Creature,Common,Magi
-12,Creature,Common,Goblin
-13,Creature,Mythic,Dark Chaos Wizard of Illusion
-14,Creature,Rare,Aura Fighter Hydra
-15,Creature,Legendary,Dark Undead Giant of the Plains
-16,Spell,Common,Assault
-17,Creature,Common,Dwarf
-18,Artifact,Rare,Frigid Divine Robe
-19,Creature,Common,Magi
-20,Creature,Legendary,Light Thief Cyclops of the Mountains
-21,Creature,Common,Warlock
-22,Creature,Common,Goblin
-23,Creature,Common,Spider
-24,Enchantment,Common,Blight
-25,Spell,Common,Frenzy
-26,Spell,Common,Stun
-27,Enchantment,Mythic,Angry Alacrity
-28,Creature,Legendary,Death Fighter Kraken of the Swamp
-29,Creature,Mythic,Aura Chaos Wizard of the Light
-30,Spell,Rare,Necro Hypnosis
-31,Creature,Rare,Snow Priest Hydra
-32,Enchantment,Rare,Necro Blight
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Warlock
-35,Creature,Rare,Death Warrior Hydra
-36,Creature,Common,Goblin
-37,Creature,Common,Orc
-38,Creature,Common,Dwarf
-39,Spell,Common,Lightning
-40,Creature,Common,Spider
-41,Creature,Common,Dwarf
-42,Creature,Rare,Snow Warrior Minotaur
-43,Enchantment,Common,Flight
-44,Spell,Common,Assault
+==================,DECK,5263
+0,Spell,Gravitation
+1,Enchantment,Shrink
+2,Artifact,Chimeric Scepter
+3,Spell,Revive
+4,Enchantment,Victory Blight
+5,Artifact,Sword
+6,Creature,Troll
+7,Creature,Berserker
+8,Spell,Sorrow
+9,Enchantment,Chimeric Alacrity
+10,Enchantment,Potent Forged Strength
+11,Creature,Fairy
+12,Creature,Skin-Walker
+13,Creature,Dark Chaos Wizard of Illusion
+14,Creature,Aura Fighter Hydra
+15,Creature,Dark Undead Dwarf of the Plains
+16,Spell,Gale
+17,Creature,Magi
+18,Artifact,Apocalypse Divine Robe
+19,Creature,Fairy
+20,Creature,Light Thief Giant of the Mountains
+21,Creature,Berserker
+22,Creature,Skin-Walker
+23,Creature,Paladin
+24,Enchantment,Age
+25,Spell,Wall
+26,Spell,Invisibility
+27,Enchantment,Urgent Dark Flight
+28,Creature,Death Fighter Ogre of the Swamp
+29,Creature,Aura Chaos Wizard of the Light
+30,Spell,Shimmering Sorrow
+31,Creature,Snow Priest Hydra
+32,Enchantment,Solar Agony
+33,Enchantment,Strength
+34,Creature,Berserker
+35,Creature,Death Warrior Hydra
+36,Creature,Skin-Walker
+37,Creature,Spider
+38,Creature,Magi
+39,Spell,Ice
+40,Creature,Paladin
+41,Creature,Magi
+42,Creature,Snow Warrior Cyclops
+43,Enchantment,Shade
+44,Spell,Invisibility

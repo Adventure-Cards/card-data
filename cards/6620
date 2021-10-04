@@ -1,46 +1,46 @@
-==================,DECK,6620,Medium
-0,Artifact,Rare,Frigid Shield
-1,Creature,Common,Magi
-2,Creature,Common,Wolf
-3,Creature,Common,Paladin
-4,Creature,Common,Warlock
-5,Creature,Common,Goblin
-6,Creature,Common,Eagle
-7,Artifact,Common,Potion
-8,Creature,Common,Orc
-9,Spell,Rare,Nimble Lightning
-10,Enchantment,Common,Shade
-11,Creature,Common,Eagle
-12,Spell,Common,Gravitation
-13,Creature,Rare,Dark Rogue Griffin
-14,Creature,Mythic,Light Chaos Demon of the Sky
-15,Creature,Common,Wolf
-16,Creature,Rare,Aura Queen Minotaur
-17,Creature,Rare,Dark Knight Skin-Walker
-18,Creature,Legendary,Light King Oni of the Swamp
-19,Creature,Legendary,Frozen Monk Kraken of the Haven
-20,Artifact,Common,Scepter
-21,Creature,Common,Orc
-22,Creature,Rare,Snow Knight Hydra
-23,Spell,Common,Burst
-24,Enchantment,Common,Shrink
-25,Creature,Common,Eagle
-26,Enchantment,Common,Shield
-27,Enchantment,Common,Haste
-28,Creature,Rare,Death Lord Griffin
-29,Spell,Mythic,Dire Vortex
-30,Spell,Common,Maelstrom
-31,Creature,Rare,Earth Undead Fairy
-32,Enchantment,Common,Drain
-33,Creature,Rare,Dark Undead Skin-Walker
-34,Creature,Common,Spider
-35,Creature,Legendary,Snow King Kraken of the Eastern Skies
-36,Creature,Common,Goblin
-37,Creature,Common,Orc
-38,Spell,Common,Frost
-39,Creature,Rare,Frozen Undead Hydra
-40,Enchantment,Common,Drain
-41,Enchantment,Common,Haste
-42,Spell,Legendary,Urgent Rage
-43,Creature,Rare,Death Priest Minotaur
-44,Spell,Rare,Nature Reanimate
+==================,DECK,6620
+0,Artifact,Frigid Shield
+1,Creature,Fairy
+2,Creature,Wolf
+3,Creature,Troll
+4,Creature,Berserker
+5,Creature,Skin-Walker
+6,Creature,Eagle
+7,Artifact,Potion
+8,Creature,Spider
+9,Spell,Corpse Maelstrom
+10,Enchantment,Haste
+11,Creature,Eagle
+12,Spell,Gale
+13,Creature,Dark Rogue Griffin
+14,Creature,Light Chaos Demon of the Sky
+15,Creature,Wolf
+16,Creature,Aura Queen Cyclops
+17,Creature,Dark Knight Orc
+18,Creature,Light King Oni of the Swamp
+19,Creature,Frozen Monk Ogre of the Haven
+20,Artifact,Scepter
+21,Creature,Spider
+22,Creature,Snow Knight Hydra
+23,Spell,Frost
+24,Enchantment,Shade
+25,Creature,Eagle
+26,Enchantment,Lethargy
+27,Enchantment,Blight
+28,Creature,Death Lord Griffin
+29,Spell,Irate Apocalypse Stricken
+30,Spell,Reanimate
+31,Creature,Earth Undead Kraken
+32,Enchantment,Alacrity
+33,Creature,Dark Undead Orc
+34,Creature,Paladin
+35,Creature,Snow King Ogre of the Eastern Skies
+36,Creature,Skin-Walker
+37,Creature,Spider
+38,Spell,Hypnosis
+39,Creature,Frozen Undead Hydra
+40,Enchantment,Age
+41,Enchantment,Lethargy
+42,Spell,Dire Hateful Tempest
+43,Creature,Death Priest Cyclops
+44,Spell,Corpse Stun

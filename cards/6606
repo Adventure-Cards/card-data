@@ -1,46 +1,46 @@
-==================,DECK,6606,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Dwarf
-2,Creature,Common,Orc
-3,Artifact,Common,Shield
-4,Creature,Common,Goblin
-5,Spell,Common,Torment
-6,Creature,Rare,Light Priest Minotaur
-7,Spell,Common,Frenzy
-8,Enchantment,Common,Deathgrip
-9,Creature,Common,Elf
-10,Spell,Common,Fury
-11,Enchantment,Common,Agony
-12,Creature,Common,Magi
-13,Creature,Common,Wolf
-14,Spell,Common,Frenzy
-15,Creature,Legendary,Frozen King Giant of the Black Stone
-16,Creature,Mythic,Light Undead Dragon of the Sky
-17,Spell,Rare,Life Hypnosis
-18,Enchantment,Common,Blight
-19,Creature,Legendary,Light Thief Cyclops of the Arctic Blizzards
-20,Creature,Common,Eagle
-21,Enchantment,Common,Blight
-22,Spell,Common,Freeze
-23,Creature,Common,Magi
-24,Creature,Common,Dwarf
-25,Artifact,Common,Gauntlet
-26,Enchantment,Common,Blight
-27,Enchantment,Common,Strength
-28,Enchantment,Common,Drain
-29,Creature,Common,Eagle
-30,Creature,Common,Elf
-31,Artifact,Legendary,Urgent Bracers
-32,Creature,Rare,Earth Thief Hydra
-33,Enchantment,Mythic,Intense Strength
-34,Artifact,Rare,Gloom Amulet
-35,Artifact,Common,Helm
-36,Creature,Mythic,Aura Nameless Dragon of the Light
-37,Creature,Common,Orc
-38,Enchantment,Mythic,Mighty Flight
-39,Spell,Common,Vortex
-40,Creature,Common,Goblin
-41,Spell,Common,Heal
-42,Enchantment,Common,Alacrity
-43,Spell,Common,Maelstrom
-44,Artifact,Legendary,Dire Cloak
+==================,DECK,6606
+0,Creature,Ghoul
+1,Creature,Magi
+2,Creature,Spider
+3,Artifact,Shield
+4,Creature,Skin-Walker
+5,Spell,Fury
+6,Creature,Light Priest Cyclops
+7,Spell,Tempest
+8,Enchantment,Lethargy
+9,Creature,Warlock
+10,Spell,Sorrow
+11,Enchantment,Shade
+12,Creature,Fairy
+13,Creature,Wolf
+14,Spell,Maelstrom
+15,Creature,Frozen King Dwarf of the Black Stone
+16,Creature,Light Undead Dragon of the Sky
+17,Spell,Grim Fire
+18,Enchantment,Blight
+19,Creature,Light Thief Giant of the Arctic Blizzards
+20,Creature,Eagle
+21,Enchantment,Blight
+22,Spell,Hypnosis
+23,Creature,Fairy
+24,Creature,Magi
+25,Artifact,Gauntlet
+26,Enchantment,Agony
+27,Enchantment,Shrink
+28,Enchantment,Invert
+29,Creature,Eagle
+30,Creature,Warlock
+31,Artifact,Zealous Solar Bracers
+32,Creature,Earth Thief Hydra
+33,Enchantment,Urgent Solar Agony
+34,Artifact,Lunar Amulet
+35,Artifact,Helm
+36,Creature,Aura Nameless Dragon of the Light
+37,Creature,Spider
+38,Enchantment,Clever Lunar Shield
+39,Spell,Infuriate
+40,Creature,Skin-Walker
+41,Spell,Fire
+42,Enchantment,Age
+43,Spell,Stun
+44,Artifact,Ardent Nimble Cloak

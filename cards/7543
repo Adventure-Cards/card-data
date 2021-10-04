@@ -1,46 +1,46 @@
-==================,DECK,7543,Medium
-0,Creature,Common,Paladin
-1,Enchantment,Common,Shield
-2,Creature,Legendary,Frozen Priest Giant of the Magical Forest
-3,Enchantment,Common,Strength
-4,Artifact,Rare,Necro Sigil
-5,Creature,Legendary,Dark Merchant Cyclops of the Eastern Skies
-6,Creature,Rare,Dark Assassin Fairy
-7,Creature,Legendary,Snow Thief Giant of the Golden Palace
-8,Creature,Common,Magi
-9,Spell,Common,Heal
-10,Spell,Common,Maelstrom
-11,Creature,Common,Ghoul
-12,Artifact,Rare,Shimmering Shield
-13,Creature,Common,Orc
-14,Creature,Rare,Snow Lord Minotaur
-15,Creature,Mythic,Light Undead Phoenix of the Sky
-16,Creature,Legendary,Light Monk Orge of the Eastern Skies
-17,Creature,Common,Magi
-18,Spell,Legendary,Instant Ice
-19,Creature,Rare,Earth King Griffin
-20,Enchantment,Common,Invert
-21,Enchantment,Rare,Miracle Deathgrip
-22,Creature,Rare,Light Fighter Berserker
-23,Spell,Rare,Gloom Gravitation
-24,Artifact,Common,Ring
-25,Creature,Rare,Light Priest Hydra
-26,Creature,Common,Warlock
-27,Enchantment,Rare,Life Shrink
-28,Creature,Rare,Aura Thief Minotaur
-29,Creature,Legendary,Dark Assassin Giant of the Border
-30,Creature,Rare,Frozen Thief Minotaur
-31,Creature,Common,Paladin
-32,Artifact,Rare,Apocalypse Bow
-33,Artifact,Rare,Nature Potion
-34,Creature,Common,Magi
-35,Enchantment,Rare,Solar Strength
-36,Enchantment,Mythic,Extreme Alacrity
-37,Creature,Common,Elf
-38,Creature,Rare,Snow Fighter Hydra
-39,Creature,Common,Dwarf
-40,Spell,Common,Torment
-41,Artifact,Rare,Miracle Greaves
-42,Spell,Common,Assault
-43,Artifact,Legendary,Extreme Staff
-44,Spell,Common,Infuriate
+==================,DECK,7543
+0,Creature,Troll
+1,Enchantment,Agony
+2,Creature,Frozen Priest Dwarf of the Magical Forest
+3,Enchantment,Shade
+4,Artifact,Forged Sigil
+5,Creature,Dark Merchant Giant of the Eastern Skies
+6,Creature,Dark Assassin Kraken
+7,Creature,Snow Thief Dwarf of the Golden Palace
+8,Creature,Fairy
+9,Spell,Tempest
+10,Spell,Fireball
+11,Creature,Ghoul
+12,Artifact,Corpse Shield
+13,Creature,Spider
+14,Creature,Snow Lord Cyclops
+15,Creature,Light Undead Phoenix of the Sky
+16,Creature,Light Monk Elf of the Eastern Skies
+17,Creature,Fairy
+18,Spell,Clever Nature Revive
+19,Creature,Earth King Griffin
+20,Enchantment,Invert
+21,Enchantment,Oblivion Drain
+22,Creature,Light Fighter Goblin
+23,Spell,Cataclysmic Fury
+24,Artifact,Ring
+25,Creature,Light Priest Hydra
+26,Creature,Berserker
+27,Enchantment,Frigid Invert
+28,Creature,Aura Thief Cyclops
+29,Creature,Dark Assassin Dwarf of the Border
+30,Creature,Frozen Thief Cyclops
+31,Creature,Troll
+32,Artifact,Oblivion Bow
+33,Artifact,Solar Potion
+34,Creature,Fairy
+35,Enchantment,Solar Deathgrip
+36,Enchantment,Irate Dark Alacrity
+37,Creature,Warlock
+38,Creature,Snow Fighter Hydra
+39,Creature,Magi
+40,Spell,Ice
+41,Artifact,Oblivion Greaves
+42,Spell,Maelstrom
+43,Artifact,Zealous Sorrow Staff
+44,Spell,Gale

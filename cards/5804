@@ -1,46 +1,46 @@
-==================,DECK,5804,Medium
-0,Creature,Common,Warlock
-1,Spell,Common,Fury
-2,Creature,Legendary,Death Assassin Kraken of the Border
-3,Artifact,Legendary,Potent Tome
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Eagle
-6,Creature,Common,Goblin
-7,Enchantment,Mythic,Extreme Flight
-8,Artifact,Common,Potion
-9,Creature,Common,Magi
-10,Creature,Legendary,Light Assassin Kraken of the Low Hills
-11,Spell,Mythic,Instant Hypnosis
-12,Creature,Rare,Frozen Rogue Griffin
-13,Creature,Mythic,Light Grand Demon of the Sky
-14,Creature,Common,Elf
-15,Artifact,Common,Helmet
-16,Enchantment,Common,Haste
-17,Creature,Rare,Death Rogue Hydra
-18,Enchantment,Rare,Shimmering Haste
-19,Enchantment,Common,Flight
-20,Spell,Common,Stun
-21,Spell,Rare,Gloom Rage
-22,Creature,Common,Dwarf
-23,Artifact,Common,Ghost Wand
-24,Creature,Common,Orc
-25,Creature,Rare,Earth King Fairy
-26,Artifact,Rare,Miracle Gauntlet
-27,Artifact,Common,Shield
-28,Enchantment,Common,Strength
-29,Enchantment,Common,Age
-30,Creature,Legendary,Aura Undead Cyclops of the Polar Woods
-31,Artifact,Common,Belt
-32,Creature,Rare,Dark Warrior Skin-Walker
-33,Creature,Legendary,Death Merchant Kraken of the Haven
-34,Artifact,Common,Amulet
-35,Spell,Common,Ice
-36,Enchantment,Common,Invert
-37,Creature,Common,Paladin
-38,Enchantment,Rare,Hateful Drain
-39,Creature,Common,Eagle
-40,Artifact,Common,Helm
-41,Creature,Common,Paladin
-42,Creature,Rare,Earth Warrior Minotaur
-43,Creature,Common,Goblin
-44,Creature,Common,Wolf
+==================,DECK,5804
+0,Creature,Berserker
+1,Spell,Hypnosis
+2,Creature,Death Assassin Ogre of the Border
+3,Artifact,Dire Oblivion Tome
+4,Enchantment,Haste
+5,Creature,Eagle
+6,Creature,Skin-Walker
+7,Enchantment,Potent Lunar Shrink
+8,Artifact,Potion
+9,Creature,Fairy
+10,Creature,Light Assassin Ogre of the Low Hills
+11,Spell,Zealous Hateful Ice
+12,Creature,Frozen Rogue Griffin
+13,Creature,Light Grand Demon of the Sky
+14,Creature,Warlock
+15,Artifact,Helmet
+16,Enchantment,Invert
+17,Creature,Death Rogue Hydra
+18,Enchantment,Corpse Age
+19,Enchantment,Shield
+20,Spell,Fury
+21,Spell,Cataclysmic Pandemonium
+22,Creature,Magi
+23,Artifact,Ghost Wand
+24,Creature,Spider
+25,Creature,Earth King Kraken
+26,Artifact,Oblivion Gauntlet
+27,Artifact,Shield
+28,Enchantment,Shrink
+29,Enchantment,Shrink
+30,Creature,Aura Undead Giant of the Polar Woods
+31,Artifact,Belt
+32,Creature,Dark Warrior Orc
+33,Creature,Death Merchant Ogre of the Haven
+34,Artifact,Amulet
+35,Spell,Rage
+36,Enchantment,Deathgrip
+37,Creature,Troll
+38,Enchantment,Dark Alacrity
+39,Creature,Eagle
+40,Artifact,Helm
+41,Creature,Troll
+42,Creature,Earth Warrior Cyclops
+43,Creature,Skin-Walker
+44,Creature,Wolf

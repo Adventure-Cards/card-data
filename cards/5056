@@ -1,46 +1,46 @@
-==================,DECK,5056,Medium
-0,Enchantment,Common,Agony
-1,Spell,Legendary,Angry Assault
-2,Spell,Rare,Frigid Heal
-3,Enchantment,Common,Strength
-4,Artifact,Common,Divine Robe
-5,Enchantment,Common,Drain
-6,Creature,Rare,Light Lord Hydra
-7,Spell,Common,Stricken
-8,Enchantment,Rare,Gloom Alacrity
-9,Artifact,Common,Sword
-10,Creature,Rare,Snow Merchant Griffin
-11,Creature,Common,Goblin
-12,Artifact,Common,Sigil
-13,Enchantment,Common,Lethargy
-14,Enchantment,Common,Shield
-15,Artifact,Common,Bracers
-16,Enchantment,Common,Deathgrip
-17,Creature,Rare,Frozen Thief Minotaur
-18,Creature,Rare,Snow Rogue Skin-Walker
-19,Spell,Rare,Forged Heal
-20,Creature,Legendary,Earth King Oni of the Magical Forest
-21,Enchantment,Common,Agony
-22,Enchantment,Rare,Cataclysmic Shrink
-23,Creature,Rare,Aura Monk Minotaur
-24,Spell,Mythic,Potent Frenzy
-25,Creature,Rare,Light Queen Fairy
-26,Creature,Rare,Light Rogue Griffin
-27,Creature,Common,Elf
-28,Enchantment,Rare,Shimmering Flight
-29,Artifact,Rare,Frigid Divine Robe
-30,Spell,Common,Frost
-31,Spell,Legendary,Dire Frost
-32,Creature,Common,Goblin
-33,Spell,Legendary,Urgent Assault
-34,Creature,Common,Wolf
-35,Artifact,Common,Scythe
-36,Spell,Rare,Oblivion Invisibility
-37,Spell,Rare,Frigid Vortex
-38,Enchantment,Common,Agony
-39,Artifact,Common,Gauntlet
-40,Enchantment,Legendary,Mighty Deathgrip
-41,Creature,Rare,Dark Merchant Fairy
-42,Enchantment,Rare,Forged Shade
-43,Spell,Common,Wall
-44,Spell,Common,Burn
+==================,DECK,5056
+0,Enchantment,Deathgrip
+1,Spell,Instant Gloom Stun
+2,Spell,Victory Invisibility
+3,Enchantment,Shade
+4,Artifact,Divine Robe
+5,Enchantment,Shield
+6,Creature,Light Lord Hydra
+7,Spell,Rage
+8,Enchantment,Dark Flight
+9,Artifact,Sword
+10,Creature,Snow Merchant Griffin
+11,Creature,Skin-Walker
+12,Artifact,Sigil
+13,Enchantment,Shade
+14,Enchantment,Alacrity
+15,Artifact,Bracers
+16,Enchantment,Invert
+17,Creature,Frozen Thief Cyclops
+18,Creature,Snow Rogue Orc
+19,Spell,Lunar Torment
+20,Creature,Earth King Oni of the Magical Forest
+21,Enchantment,Firebreath
+22,Enchantment,Chimeric Flight
+23,Creature,Aura Monk Cyclops
+24,Spell,Irate Frigid Stricken
+25,Creature,Light Queen Kraken
+26,Creature,Light Rogue Griffin
+27,Creature,Warlock
+28,Enchantment,Hateful Age
+29,Artifact,Nimble Divine Robe
+30,Spell,Heal
+31,Spell,Dire Grim Revive
+32,Creature,Skin-Walker
+33,Spell,Urgent Shimmering Stun
+34,Creature,Wolf
+35,Artifact,Scythe
+36,Spell,Nimble Reanimate
+37,Spell,Life Freeze
+38,Enchantment,Shrink
+39,Artifact,Gauntlet
+40,Enchantment,Zealous Sorrow Alacrity
+41,Creature,Dark Merchant Kraken
+42,Enchantment,Chimeric Flight
+43,Spell,Stricken
+44,Spell,Assault

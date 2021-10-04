@@ -1,46 +1,46 @@
-==================,DECK,5492,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Common,Age
-2,Creature,Rare,Death Merchant Skin-Walker
-3,Creature,Rare,Light Warrior Fairy
-4,Artifact,Common,Divine Robe
-5,Enchantment,Common,Shade
-6,Creature,Rare,Aura Warrior Fairy
-7,Enchantment,Common,Blight
-8,Spell,Common,Lightning
-9,Enchantment,Common,Deathgrip
-10,Creature,Common,Eagle
-11,Enchantment,Rare,Necro Deathgrip
-12,Enchantment,Rare,Nature Deathgrip
-13,Spell,Rare,Dark Wall
-14,Spell,Legendary,Angry Gale
-15,Spell,Common,Freeze
-16,Enchantment,Rare,Corpse Lethargy
-17,Enchantment,Common,Shrink
-18,Creature,Common,Magi
-19,Creature,Common,Ghoul
-20,Creature,Common,Wolf
-21,Creature,Legendary,Frozen Monk Orge of the Haven
-22,Creature,Common,Spider
-23,Creature,Common,Paladin
-24,Artifact,Common,Helmet
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Dwarf
-27,Spell,Common,Maelstrom
-28,Creature,Rare,Dark Knight Griffin
-29,Creature,Common,Ghoul
-30,Creature,Legendary,Aura Undead Kraken of the Polar Woods
-31,Creature,Rare,Dark Rogue Griffin
-32,Creature,Legendary,Light Undead Kraken of the Border
-33,Creature,Common,Wolf
-34,Enchantment,Common,Agony
-35,Spell,Common,Heal
-36,Creature,Mythic,Dark Grand Wizard of Illusion
-37,Spell,Common,Gale
-38,Spell,Legendary,Intense Lightning
-39,Spell,Common,Gale
-40,Creature,Legendary,Light Merchant Cyclops of the Bright Mountains
-41,Creature,Common,Wolf
-42,Spell,Rare,Cataclysmic Gale
-43,Enchantment,Common,Shade
-44,Creature,Rare,Death King Griffin
+==================,DECK,5492
+0,Enchantment,Invert
+1,Enchantment,Haste
+2,Creature,Death Merchant Orc
+3,Creature,Light Warrior Kraken
+4,Artifact,Divine Robe
+5,Enchantment,Lethargy
+6,Creature,Aura Warrior Kraken
+7,Enchantment,Flight
+8,Spell,Sorrow
+9,Enchantment,Haste
+10,Creature,Eagle
+11,Enchantment,Shimmering Age
+12,Enchantment,Shimmering Agony
+13,Spell,Sorrow Frost
+14,Spell,Empyrean Lunar Fireball
+15,Spell,Fury
+16,Enchantment,Hateful Lethargy
+17,Enchantment,Haste
+18,Creature,Fairy
+19,Creature,Ghoul
+20,Creature,Wolf
+21,Creature,Frozen Monk Elf of the Haven
+22,Creature,Paladin
+23,Creature,Troll
+24,Artifact,Helmet
+25,Enchantment,Alacrity
+26,Creature,Magi
+27,Spell,Heal
+28,Creature,Dark Knight Griffin
+29,Creature,Ghoul
+30,Creature,Aura Undead Ogre of the Polar Woods
+31,Creature,Dark Rogue Griffin
+32,Creature,Light Undead Ogre of the Border
+33,Creature,Wolf
+34,Enchantment,Flight
+35,Spell,Reanimate
+36,Creature,Dark Grand Wizard of Illusion
+37,Spell,Fireball
+38,Spell,Ardent Hateful Pandemonium
+39,Spell,Infuriate
+40,Creature,Light Merchant Giant of the Bright Mountains
+41,Creature,Wolf
+42,Spell,Gloom Burst
+43,Enchantment,Blight
+44,Creature,Death King Griffin

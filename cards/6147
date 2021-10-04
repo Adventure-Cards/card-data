@@ -1,46 +1,46 @@
-==================,DECK,6147,Light
-0,Spell,Common,Pandemonium
-1,Creature,Common,Wolf
-2,Artifact,Common,Helm
-3,Creature,Common,Elf
-4,Enchantment,Rare,Shimmering Blight
-5,Creature,Common,Warlock
-6,Spell,Common,Gale
-7,Creature,Rare,Death Knight Berserker
-8,Creature,Common,Dwarf
-9,Creature,Rare,Earth Assassin Hydra
-10,Spell,Common,Vortex
-11,Spell,Common,Heal
-12,Creature,Common,Orc
-13,Creature,Common,Paladin
-14,Spell,Rare,Shimmering Stun
-15,Spell,Common,Vortex
-16,Enchantment,Rare,Nature Drain
-17,Creature,Common,Goblin
-18,Spell,Common,Maelstrom
-19,Creature,Common,Magi
-20,Creature,Common,Elf
-21,Artifact,Common,Gauntlet
-22,Spell,Common,Heal
-23,Spell,Common,Frost
-24,Artifact,Legendary,Urgent Boots
-25,Artifact,Common,Sword
-26,Creature,Legendary,Light Monk Kraken of the Plains
-27,Creature,Legendary,Earth King Cyclops of the Haven
-28,Artifact,Common,Scythe
-29,Creature,Rare,Earth Lord Minotaur
-30,Creature,Common,Goblin
-31,Spell,Common,Hypnosis
-32,Spell,Legendary,Instant Fury
-33,Artifact,Legendary,Clever Scepter
-34,Artifact,Legendary,Extreme Bow
-35,Creature,Legendary,Light Thief Cyclops of the Mountains
-36,Creature,Legendary,Earth Rogue Kraken of the Magical Forest
-37,Artifact,Rare,Nature Potion
-38,Creature,Common,Paladin
-39,Creature,Common,Wolf
-40,Creature,Rare,Aura Assassin Minotaur
-41,Creature,Common,Ghoul
-42,Creature,Common,Eagle
-43,Creature,Mythic,Aura Grand Wizard of the Light
-44,Creature,Common,Goblin
+==================,DECK,6147
+0,Spell,Maelstrom
+1,Creature,Wolf
+2,Artifact,Helm
+3,Creature,Warlock
+4,Enchantment,Solar Lethargy
+5,Creature,Berserker
+6,Spell,Assault
+7,Creature,Death Knight Goblin
+8,Creature,Magi
+9,Creature,Earth Assassin Hydra
+10,Spell,Vortex
+11,Spell,Gale
+12,Creature,Spider
+13,Creature,Troll
+14,Spell,Nature Burst
+15,Spell,Stricken
+16,Enchantment,Forged Agony
+17,Creature,Skin-Walker
+18,Spell,Burn
+19,Creature,Fairy
+20,Creature,Warlock
+21,Artifact,Gauntlet
+22,Spell,Assault
+23,Spell,Torment
+24,Artifact,Clever Corpse Boots
+25,Artifact,Sword
+26,Creature,Light Monk Ogre of the Plains
+27,Creature,Earth King Giant of the Haven
+28,Artifact,Scythe
+29,Creature,Earth Lord Cyclops
+30,Creature,Skin-Walker
+31,Spell,Invisibility
+32,Spell,Potent Necro Revive
+33,Artifact,Potent Victory Scepter
+34,Artifact,Urgent Miracle Bow
+35,Creature,Light Thief Giant of the Mountains
+36,Creature,Earth Rogue Ogre of the Magical Forest
+37,Artifact,Hateful Potion
+38,Creature,Troll
+39,Creature,Wolf
+40,Creature,Aura Assassin Cyclops
+41,Creature,Ghoul
+42,Creature,Eagle
+43,Creature,Aura Grand Wizard of the Light
+44,Creature,Skin-Walker

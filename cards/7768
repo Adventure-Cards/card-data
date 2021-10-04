@@ -1,46 +1,46 @@
-==================,DECK,7768,Light
-0,Enchantment,Common,Lethargy
-1,Spell,Rare,Miracle Hypnosis
-2,Creature,Mythic,Frozen Nameless Phoenix of the Void
-3,Artifact,Common,Scepter
-4,Creature,Mythic,Earth Undead Phoenix of the Shadows
-5,Creature,Common,Ghoul
-6,Spell,Common,Stricken
-7,Creature,Common,Magi
-8,Enchantment,Common,Shade
-9,Creature,Common,Spider
-10,Artifact,Common,Gloves
-11,Creature,Common,Spider
-12,Creature,Common,Spider
-13,Creature,Common,Elf
-14,Creature,Legendary,Aura Warrior Oni of the Border
-15,Creature,Common,Ghoul
-16,Creature,Common,Warlock
-17,Artifact,Common,Helmet
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Orc
-20,Spell,Common,Torment
-21,Spell,Rare,Solar Invisibility
-22,Creature,Rare,Earth Knight Minotaur
-23,Enchantment,Common,Agony
-24,Spell,Common,Torment
-25,Spell,Legendary,Dire Freeze
-26,Creature,Common,Eagle
-27,Creature,Common,Paladin
-28,Creature,Common,Ghoul
-29,Creature,Common,Warlock
-30,Creature,Common,Spider
-31,Creature,Mythic,Frozen Grand Wizard of the Void
-32,Creature,Common,Orc
-33,Creature,Rare,Dark Warrior Griffin
-34,Creature,Common,Ghoul
-35,Spell,Common,Torment
-36,Creature,Common,Dwarf
-37,Creature,Common,Paladin
-38,Creature,Common,Wolf
-39,Creature,Rare,Light Lord Minotaur
-40,Spell,Common,Sorrow
-41,Creature,Common,Elf
-42,Creature,Common,Spider
-43,Creature,Rare,Earth Thief Minotaur
-44,Enchantment,Common,Strength
+==================,DECK,7768
+0,Enchantment,Drain
+1,Spell,Apocalypse Assault
+2,Creature,Frozen Nameless Phoenix of the Void
+3,Artifact,Scepter
+4,Creature,Earth Undead Phoenix of the Shadows
+5,Creature,Ghoul
+6,Spell,Tempest
+7,Creature,Fairy
+8,Enchantment,Shield
+9,Creature,Paladin
+10,Artifact,Gloves
+11,Creature,Paladin
+12,Creature,Paladin
+13,Creature,Warlock
+14,Creature,Aura Warrior Oni of the Border
+15,Creature,Ghoul
+16,Creature,Berserker
+17,Artifact,Helmet
+18,Enchantment,Haste
+19,Creature,Spider
+20,Spell,Maelstrom
+21,Spell,Shimmering Fury
+22,Creature,Earth Knight Cyclops
+23,Enchantment,Shade
+24,Spell,Fury
+25,Spell,Dire Oblivion Burn
+26,Creature,Eagle
+27,Creature,Troll
+28,Creature,Ghoul
+29,Creature,Berserker
+30,Creature,Paladin
+31,Creature,Frozen Grand Wizard of the Void
+32,Creature,Spider
+33,Creature,Dark Warrior Griffin
+34,Creature,Ghoul
+35,Spell,Maelstrom
+36,Creature,Magi
+37,Creature,Troll
+38,Creature,Wolf
+39,Creature,Light Lord Cyclops
+40,Spell,Tempest
+41,Creature,Warlock
+42,Creature,Paladin
+43,Creature,Earth Thief Cyclops
+44,Enchantment,Strength

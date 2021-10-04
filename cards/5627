@@ -1,46 +1,46 @@
-==================,DECK,5627,Light
-0,Creature,Mythic,Snow Nameless Phoenix of Hate
-1,Creature,Common,Magi
-2,Creature,Common,Dwarf
-3,Creature,Common,Magi
-4,Spell,Common,Heal
-5,Artifact,Common,Cloak
-6,Spell,Common,Revive
-7,Enchantment,Common,Agony
-8,Enchantment,Common,Shrink
-9,Creature,Common,Spider
-10,Creature,Common,Orc
-11,Artifact,Common,Belt
-12,Creature,Common,Wolf
-13,Spell,Rare,Corpse Frost
-14,Artifact,Common,Divine Robe
-15,Creature,Mythic,Earth Ancient Demon of the Shadows
-16,Enchantment,Common,Age
-17,Enchantment,Common,Deathgrip
-18,Artifact,Rare,Life Ring
-19,Enchantment,Common,Deathgrip
-20,Spell,Rare,Nimble Frenzy
-21,Creature,Common,Orc
-22,Enchantment,Mythic,Clever Invert
-23,Enchantment,Common,Drain
-24,Enchantment,Common,Blight
-25,Creature,Common,Dwarf
-26,Enchantment,Common,Drain
-27,Creature,Common,Orc
-28,Creature,Common,Ghoul
-29,Spell,Common,Fury
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Shade
-32,Creature,Common,Magi
-33,Creature,Common,Spider
-34,Artifact,Rare,Nimble Cloak
-35,Spell,Rare,Cataclysmic Hypnosis
-36,Spell,Rare,Shimmering Infuriate
-37,Enchantment,Common,Blight
-38,Spell,Common,Ice
-39,Artifact,Common,Greaves
-40,Creature,Rare,Snow Rogue Berserker
-41,Enchantment,Mythic,Mighty Lethargy
-42,Spell,Common,Lightning
-43,Creature,Rare,Frozen Undead Griffin
-44,Artifact,Common,Greaves
+==================,DECK,5627
+0,Creature,Snow Nameless Phoenix of Hate
+1,Creature,Fairy
+2,Creature,Magi
+3,Creature,Fairy
+4,Spell,Assault
+5,Artifact,Cloak
+6,Spell,Wall
+7,Enchantment,Age
+8,Enchantment,Agony
+9,Creature,Paladin
+10,Creature,Spider
+11,Artifact,Belt
+12,Creature,Wolf
+13,Spell,Hateful Maelstrom
+14,Artifact,Divine Robe
+15,Creature,Earth Ancient Demon of the Shadows
+16,Enchantment,Firebreath
+17,Enchantment,Flight
+18,Artifact,Grim Ring
+19,Enchantment,Alacrity
+20,Spell,Nature Burst
+21,Creature,Spider
+22,Enchantment,Instant Oblivion Drain
+23,Enchantment,Lethargy
+24,Enchantment,Blight
+25,Creature,Magi
+26,Enchantment,Agony
+27,Creature,Spider
+28,Creature,Ghoul
+29,Spell,Fury
+30,Creature,Ghoul
+31,Enchantment,Haste
+32,Creature,Fairy
+33,Creature,Paladin
+34,Artifact,Shimmering Cloak
+35,Spell,Lunar Infuriate
+36,Spell,Solar Gravitation
+37,Enchantment,Invert
+38,Spell,Lightning
+39,Artifact,Greaves
+40,Creature,Snow Rogue Goblin
+41,Enchantment,Dire Lunar Firebreath
+42,Spell,Hypnosis
+43,Creature,Frozen Undead Griffin
+44,Artifact,Greaves

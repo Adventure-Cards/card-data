@@ -1,46 +1,46 @@
-==================,DECK,6253,Light
-0,Enchantment,Common,Shield
-1,Creature,Legendary,Aura Lord Kraken of the Frozen Castle
-2,Enchantment,Common,Agony
-3,Enchantment,Common,Shade
-4,Enchantment,Common,Flight
-5,Creature,Common,Elf
-6,Spell,Rare,Apocalypse Stun
-7,Enchantment,Common,Shade
-8,Creature,Common,Paladin
-9,Creature,Legendary,Aura Monk Orge of the Bright Mountains
-10,Creature,Common,Dwarf
-11,Creature,Common,Wolf
-12,Creature,Legendary,Frozen King Cyclops of the Eternal Land
-13,Spell,Rare,Frigid Frost
-14,Creature,Common,Warlock
-15,Enchantment,Common,Invert
-16,Creature,Mythic,Aura Undead Phoenix of the Light
-17,Enchantment,Rare,Dark Alacrity
-18,Creature,Common,Spider
-19,Enchantment,Legendary,Angry Alacrity
-20,Creature,Common,Eagle
-21,Creature,Common,Elf
-22,Spell,Common,Maelstrom
-23,Enchantment,Common,Strength
-24,Creature,Common,Spider
-25,Enchantment,Common,Invert
-26,Spell,Common,Fury
-27,Spell,Rare,Grim Gravitation
-28,Creature,Common,Wolf
-29,Creature,Common,Wolf
-30,Creature,Rare,Aura Knight Skin-Walker
-31,Creature,Rare,Aura Queen Minotaur
-32,Creature,Common,Magi
-33,Creature,Common,Goblin
-34,Creature,Rare,Earth Priest Skin-Walker
-35,Enchantment,Common,Strength
-36,Creature,Common,Elf
-37,Enchantment,Legendary,Potent Strength
-38,Spell,Rare,Miracle Burst
-39,Creature,Mythic,Light Nameless Dragon of the Sky
-40,Creature,Common,Paladin
-41,Artifact,Rare,Life Sword
-42,Artifact,Common,Sigil
-43,Spell,Rare,Corpse Gravitation
-44,Creature,Legendary,Aura Priest Orge of the Border
+==================,DECK,6253
+0,Enchantment,Shield
+1,Creature,Aura Lord Ogre of the Frozen Castle
+2,Enchantment,Blight
+3,Enchantment,Blight
+4,Enchantment,Firebreath
+5,Creature,Warlock
+6,Spell,Life Frost
+7,Enchantment,Agony
+8,Creature,Troll
+9,Creature,Aura Monk Elf of the Bright Mountains
+10,Creature,Magi
+11,Creature,Wolf
+12,Creature,Frozen King Giant of the Eternal Land
+13,Spell,Oblivion Assault
+14,Creature,Berserker
+15,Enchantment,Shrink
+16,Creature,Aura Undead Phoenix of the Light
+17,Enchantment,Dark Alacrity
+18,Creature,Paladin
+19,Enchantment,Urgent Dark Flight
+20,Creature,Eagle
+21,Creature,Warlock
+22,Spell,Fury
+23,Enchantment,Alacrity
+24,Creature,Paladin
+25,Enchantment,Drain
+26,Spell,Burn
+27,Spell,Victory Assault
+28,Creature,Wolf
+29,Creature,Wolf
+30,Creature,Aura Knight Orc
+31,Creature,Aura Queen Cyclops
+32,Creature,Fairy
+33,Creature,Skin-Walker
+34,Creature,Earth Priest Orc
+35,Enchantment,Agony
+36,Creature,Warlock
+37,Enchantment,Irate Nimble Blight
+38,Spell,Grim Sorrow
+39,Creature,Light Nameless Dragon of the Sky
+40,Creature,Troll
+41,Artifact,Oblivion Sword
+42,Artifact,Sigil
+43,Spell,Nature Gale
+44,Creature,Aura Priest Elf of the Border

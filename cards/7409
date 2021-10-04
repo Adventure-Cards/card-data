@@ -1,46 +1,46 @@
-==================,DECK,7409,Light
-0,Enchantment,Common,Shade
-1,Creature,Rare,Earth Merchant Fairy
-2,Enchantment,Mythic,Mighty Haste
-3,Spell,Common,Maelstrom
-4,Spell,Common,Maelstrom
-5,Spell,Common,Pandemonium
-6,Creature,Common,Paladin
-7,Artifact,Rare,Nature Scythe
-8,Enchantment,Common,Age
-9,Artifact,Common,Ring
-10,Creature,Rare,Earth Undead Minotaur
-11,Artifact,Common,Helm
-12,Creature,Common,Wolf
-13,Creature,Common,Goblin
-14,Enchantment,Common,Lethargy
-15,Spell,Rare,Cataclysmic Ice
-16,Spell,Common,Ice
-17,Creature,Common,Orc
-18,Creature,Common,Paladin
-19,Artifact,Rare,Oblivion Shield
-20,Enchantment,Common,Haste
-21,Creature,Common,Spider
-22,Creature,Common,Orc
-23,Creature,Common,Wolf
-24,Creature,Common,Dwarf
-25,Spell,Common,Frost
-26,Creature,Mythic,Death Undead Phoenix of the Dead
-27,Creature,Legendary,Earth Rogue Orge of the Border
-28,Artifact,Legendary,Mighty Scepter
-29,Creature,Common,Warlock
-30,Creature,Common,Orc
-31,Creature,Common,Warlock
-32,Enchantment,Rare,Gloom Shade
-33,Creature,Common,Warlock
-34,Creature,Common,Paladin
-35,Creature,Common,Ghoul
-36,Creature,Rare,Earth Fighter Griffin
-37,Enchantment,Rare,Solar Lethargy
-38,Enchantment,Common,Blight
-39,Enchantment,Common,Strength
-40,Creature,Legendary,Frozen Rogue Oni of the Haven
-41,Creature,Common,Elf
-42,Creature,Mythic,Snow Ancient Demon of Hate
-43,Creature,Common,Warlock
-44,Creature,Common,Eagle
+==================,DECK,7409
+0,Enchantment,Haste
+1,Creature,Earth Merchant Kraken
+2,Enchantment,Clever Miracle Shield
+3,Spell,Gravitation
+4,Spell,Fireball
+5,Spell,Torment
+6,Creature,Troll
+7,Artifact,Nature Scythe
+8,Enchantment,Blight
+9,Artifact,Ring
+10,Creature,Earth Undead Cyclops
+11,Artifact,Helm
+12,Creature,Wolf
+13,Creature,Skin-Walker
+14,Enchantment,Shrink
+15,Spell,Dark Reanimate
+16,Spell,Stricken
+17,Creature,Spider
+18,Creature,Troll
+19,Artifact,Victory Shield
+20,Enchantment,Blight
+21,Creature,Paladin
+22,Creature,Spider
+23,Creature,Wolf
+24,Creature,Magi
+25,Spell,Torment
+26,Creature,Death Undead Phoenix of the Dead
+27,Creature,Earth Rogue Elf of the Border
+28,Artifact,Instant Sorrow Scepter
+29,Creature,Berserker
+30,Creature,Spider
+31,Creature,Berserker
+32,Enchantment,Chimeric Shield
+33,Creature,Berserker
+34,Creature,Troll
+35,Creature,Ghoul
+36,Creature,Earth Fighter Griffin
+37,Enchantment,Hateful Age
+38,Enchantment,Blight
+39,Enchantment,Deathgrip
+40,Creature,Frozen Rogue Oni of the Haven
+41,Creature,Warlock
+42,Creature,Snow Ancient Demon of Hate
+43,Creature,Berserker
+44,Creature,Eagle

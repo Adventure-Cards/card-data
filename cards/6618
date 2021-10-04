@@ -1,46 +1,46 @@
-==================,DECK,6618,Light
-0,Creature,Rare,Death Undead Griffin
-1,Creature,Rare,Aura Merchant Hydra
-2,Enchantment,Common,Drain
-3,Creature,Common,Dwarf
-4,Artifact,Common,Scepter
-5,Artifact,Legendary,Mighty Cloak
-6,Creature,Common,Ghoul
-7,Creature,Common,Magi
-8,Creature,Rare,Aura Monk Griffin
-9,Spell,Legendary,Mighty Rage
-10,Artifact,Common,Ring
-11,Creature,Common,Dwarf
-12,Creature,Common,Eagle
-13,Creature,Common,Ghoul
-14,Creature,Common,Wolf
-15,Enchantment,Common,Deathgrip
-16,Creature,Mythic,Aura Grand Demon of the Light
-17,Enchantment,Rare,Dark Shield
-18,Artifact,Common,Gauntlet
-19,Creature,Common,Ghoul
-20,Artifact,Common,Amulet
-21,Creature,Common,Goblin
-22,Artifact,Rare,Shimmering Boots
-23,Creature,Common,Warlock
-24,Creature,Rare,Snow Queen Hydra
-25,Spell,Common,Assault
-26,Enchantment,Legendary,Clever Blight
-27,Spell,Common,Sorrow
-28,Creature,Common,Magi
-29,Creature,Rare,Light Rogue Skin-Walker
-30,Creature,Common,Orc
-31,Enchantment,Mythic,Potent Agony
-32,Enchantment,Rare,Corpse Shade
-33,Creature,Rare,Frozen Rogue Berserker
-34,Spell,Rare,Dark Torment
-35,Creature,Legendary,Frozen Monk Kraken of the Low Hills
-36,Enchantment,Mythic,Urgent Shield
-37,Creature,Common,Warlock
-38,Enchantment,Common,Shrink
-39,Enchantment,Rare,Nimble Shade
-40,Creature,Common,Ghoul
-41,Enchantment,Common,Agony
-42,Creature,Legendary,Snow Knight Orge of the West
-43,Creature,Mythic,Aura Chaos Demon of the Light
-44,Creature,Common,Wolf
+==================,DECK,6618
+0,Creature,Death Undead Griffin
+1,Creature,Aura Merchant Hydra
+2,Enchantment,Blight
+3,Creature,Magi
+4,Artifact,Scepter
+5,Artifact,Clever Lunar Cloak
+6,Creature,Ghoul
+7,Creature,Fairy
+8,Creature,Aura Monk Griffin
+9,Spell,Urgent Sorrow Sorrow
+10,Artifact,Ring
+11,Creature,Magi
+12,Creature,Eagle
+13,Creature,Ghoul
+14,Creature,Wolf
+15,Enchantment,Blight
+16,Creature,Aura Grand Demon of the Light
+17,Enchantment,Gloom Shield
+18,Artifact,Gauntlet
+19,Creature,Ghoul
+20,Artifact,Amulet
+21,Creature,Skin-Walker
+22,Artifact,Necro Boots
+23,Creature,Berserker
+24,Creature,Snow Queen Hydra
+25,Spell,Ice
+26,Enchantment,Clever Nimble Haste
+27,Spell,Assault
+28,Creature,Fairy
+29,Creature,Light Rogue Orc
+30,Creature,Spider
+31,Enchantment,Dire Life Shade
+32,Enchantment,Necro Age
+33,Creature,Frozen Rogue Goblin
+34,Spell,Sorrow Stricken
+35,Creature,Frozen Monk Ogre of the Low Hills
+36,Enchantment,Irate Nature Deathgrip
+37,Creature,Berserker
+38,Enchantment,Deathgrip
+39,Enchantment,Necro Agony
+40,Creature,Ghoul
+41,Enchantment,Shield
+42,Creature,Snow Knight Elf of the West
+43,Creature,Aura Chaos Demon of the Light
+44,Creature,Wolf

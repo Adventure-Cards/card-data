@@ -1,46 +1,46 @@
-==================,DECK,6623,Medium
-0,Enchantment,Common,Agony
-1,Spell,Common,Fury
-2,Spell,Legendary,Mighty Sorrow
-3,Enchantment,Legendary,Intense Age
-4,Creature,Common,Magi
-5,Creature,Common,Elf
-6,Spell,Common,Gravitation
-7,Creature,Common,Spider
-8,Creature,Mythic,Snow Nameless Dragon of Hate
-9,Creature,Common,Warlock
-10,Spell,Common,Sorrow
-11,Enchantment,Rare,Nimble Strength
-12,Creature,Rare,Frozen Knight Hydra
-13,Spell,Common,Hypnosis
-14,Enchantment,Common,Deathgrip
-15,Enchantment,Rare,Cataclysmic Drain
-16,Creature,Common,Spider
-17,Creature,Rare,Light Monk Fairy
-18,Spell,Legendary,Mighty Frost
-19,Creature,Rare,Snow Merchant Skin-Walker
-20,Creature,Common,Dwarf
-21,Creature,Common,Goblin
-22,Creature,Common,Eagle
-23,Spell,Common,Revive
-24,Creature,Common,Wolf
-25,Spell,Common,Reanimate
-26,Creature,Common,Warlock
-27,Spell,Common,Infuriate
-28,Creature,Legendary,Light Rogue Orge of the West
-29,Spell,Common,Reanimate
-30,Creature,Common,Wolf
-31,Creature,Rare,Death Knight Fairy
-32,Artifact,Common,Scepter
-33,Enchantment,Common,Strength
-34,Spell,Rare,Nimble Gravitation
-35,Enchantment,Mythic,Potent Drain
-36,Enchantment,Rare,Shimmering Drain
-37,Enchantment,Common,Lethargy
-38,Creature,Common,Dwarf
-39,Creature,Rare,Earth Lord Skin-Walker
-40,Enchantment,Rare,Necro Flight
-41,Creature,Rare,Dark Thief Hydra
-42,Spell,Rare,Life Reanimate
-43,Creature,Mythic,Earth Grand Wizard of the Shadows
-44,Creature,Common,Spider
+==================,DECK,6623
+0,Enchantment,Agony
+1,Spell,Burst
+2,Spell,Zealous Gloom Revive
+3,Enchantment,Potent Nature Strength
+4,Creature,Fairy
+5,Creature,Warlock
+6,Spell,Revive
+7,Creature,Paladin
+8,Creature,Snow Nameless Dragon of Hate
+9,Creature,Berserker
+10,Spell,Rage
+11,Enchantment,Solar Lethargy
+12,Creature,Frozen Knight Hydra
+13,Spell,Tempest
+14,Enchantment,Strength
+15,Enchantment,Dark Firebreath
+16,Creature,Paladin
+17,Creature,Light Monk Kraken
+18,Spell,Irate Cataclysmic Fireball
+19,Creature,Snow Merchant Orc
+20,Creature,Magi
+21,Creature,Skin-Walker
+22,Creature,Eagle
+23,Spell,Heal
+24,Creature,Wolf
+25,Spell,Frost
+26,Creature,Berserker
+27,Spell,Wall
+28,Creature,Light Rogue Elf of the West
+29,Spell,Wall
+30,Creature,Wolf
+31,Creature,Death Knight Kraken
+32,Artifact,Scepter
+33,Enchantment,Strength
+34,Spell,Nature Invisibility
+35,Enchantment,Mighty Apocalypse Invert
+36,Enchantment,Forged Strength
+37,Enchantment,Lethargy
+38,Creature,Magi
+39,Creature,Earth Lord Orc
+40,Enchantment,Hateful Agony
+41,Creature,Dark Thief Hydra
+42,Spell,Frigid Gravitation
+43,Creature,Earth Grand Wizard of the Shadows
+44,Creature,Paladin

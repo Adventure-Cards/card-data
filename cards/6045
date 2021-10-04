@@ -1,46 +1,46 @@
-==================,DECK,6045,Light
-0,Creature,Common,Goblin
-1,Artifact,Rare,Oblivion Scythe
-2,Spell,Common,Ice
-3,Creature,Rare,Aura Merchant Hydra
-4,Creature,Legendary,Earth Knight Cyclops of the Golden Palace
-5,Creature,Common,Ghoul
-6,Creature,Common,Ghoul
-7,Enchantment,Rare,Nimble Shield
-8,Artifact,Common,Potion
-9,Creature,Common,Warlock
-10,Enchantment,Common,Blight
-11,Creature,Common,Paladin
-12,Creature,Legendary,Light Rogue Giant of the Frozen Castle
-13,Spell,Legendary,Intense Lightning
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Eagle
-16,Enchantment,Rare,Hateful Flight
-17,Enchantment,Common,Invert
-18,Creature,Common,Paladin
-19,Creature,Legendary,Light Fighter Giant of the Polar Woods
-20,Creature,Common,Paladin
-21,Creature,Mythic,Aura Time Phoenix of the Light
-22,Spell,Rare,Dark Vortex
-23,Enchantment,Common,Shield
-24,Creature,Common,Magi
-25,Creature,Rare,Aura Thief Minotaur
-26,Spell,Legendary,Clever Gravitation
-27,Enchantment,Common,Lethargy
-28,Creature,Legendary,Snow Warrior Oni of the Border
-29,Spell,Legendary,Clever Gale
-30,Creature,Mythic,Snow Time Phoenix of Hate
-31,Creature,Legendary,Frozen Undead Cyclops of the Golden Palace
-32,Creature,Rare,Dark Rogue Fairy
-33,Creature,Common,Paladin
-34,Enchantment,Common,Drain
-35,Spell,Common,Gravitation
-36,Creature,Common,Spider
-37,Spell,Common,Invisibility
-38,Spell,Legendary,Dire Burn
-39,Creature,Common,Paladin
-40,Spell,Common,Hypnosis
-41,Creature,Rare,Frozen Monk Hydra
-42,Creature,Common,Elf
-43,Enchantment,Common,Invert
-44,Creature,Legendary,Death Monk Orge of the Plains
+==================,DECK,6045
+0,Creature,Skin-Walker
+1,Artifact,Life Scythe
+2,Spell,Vortex
+3,Creature,Aura Merchant Hydra
+4,Creature,Earth Knight Giant of the Golden Palace
+5,Creature,Ghoul
+6,Creature,Ghoul
+7,Enchantment,Nature Deathgrip
+8,Artifact,Potion
+9,Creature,Berserker
+10,Enchantment,Shield
+11,Creature,Troll
+12,Creature,Light Rogue Dwarf of the Frozen Castle
+13,Spell,Instant Solar Stun
+14,Enchantment,Alacrity
+15,Creature,Eagle
+16,Enchantment,Lunar Shrink
+17,Enchantment,Drain
+18,Creature,Troll
+19,Creature,Light Fighter Dwarf of the Polar Woods
+20,Creature,Troll
+21,Creature,Aura Time Phoenix of the Light
+22,Spell,Miracle Frenzy
+23,Enchantment,Strength
+24,Creature,Fairy
+25,Creature,Aura Thief Cyclops
+26,Spell,Dire Grim Ice
+27,Enchantment,Flight
+28,Creature,Snow Warrior Oni of the Border
+29,Spell,Empyrean Apocalypse Frost
+30,Creature,Snow Time Phoenix of Hate
+31,Creature,Frozen Undead Giant of the Golden Palace
+32,Creature,Dark Rogue Kraken
+33,Creature,Troll
+34,Enchantment,Deathgrip
+35,Spell,Ice
+36,Creature,Paladin
+37,Spell,Ice
+38,Spell,Empyrean Frigid Stun
+39,Creature,Troll
+40,Spell,Fireball
+41,Creature,Frozen Monk Hydra
+42,Creature,Warlock
+43,Enchantment,Shrink
+44,Creature,Death Monk Elf of the Plains

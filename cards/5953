@@ -1,46 +1,46 @@
-==================,DECK,5953,Light
-0,Enchantment,Common,Lethargy
-1,Artifact,Common,Amulet
-2,Spell,Common,Burn
-3,Creature,Common,Warlock
-4,Creature,Common,Ghoul
-5,Creature,Common,Goblin
-6,Spell,Common,Assault
-7,Creature,Common,Dwarf
-8,Creature,Common,Ghoul
-9,Creature,Legendary,Death Merchant Oni of the Eternal Land
-10,Enchantment,Common,Haste
-11,Spell,Common,Vortex
-12,Creature,Rare,Frozen Monk Skin-Walker
-13,Enchantment,Common,Strength
-14,Creature,Common,Elf
-15,Creature,Common,Wolf
-16,Enchantment,Rare,Lunar Shrink
-17,Spell,Rare,Apocalypse Infuriate
-18,Creature,Common,Magi
-19,Spell,Common,Stricken
-20,Enchantment,Common,Flight
-21,Creature,Legendary,Snow Monk Giant of the Haven
-22,Spell,Common,Maelstrom
-23,Enchantment,Common,Shade
-24,Creature,Rare,Aura Warrior Berserker
-25,Creature,Common,Goblin
-26,Enchantment,Mythic,Intense Strength
-27,Creature,Rare,Dark Priest Minotaur
-28,Creature,Common,Magi
-29,Creature,Mythic,Frozen Grand Wizard of the Void
-30,Creature,Common,Goblin
-31,Creature,Common,Spider
-32,Creature,Rare,Dark Undead Minotaur
-33,Creature,Common,Wolf
-34,Spell,Common,Burn
-35,Creature,Rare,Death Lord Hydra
-36,Enchantment,Rare,Life Blight
-37,Creature,Mythic,Death Nameless Phoenix of the Dead
-38,Creature,Rare,Death Undead Skin-Walker
-39,Enchantment,Common,Strength
-40,Creature,Common,Elf
-41,Creature,Common,Orc
-42,Creature,Rare,Dark Lord Hydra
-43,Enchantment,Common,Lethargy
-44,Spell,Rare,Frigid Invisibility
+==================,DECK,5953
+0,Enchantment,Shield
+1,Artifact,Amulet
+2,Spell,Gravitation
+3,Creature,Berserker
+4,Creature,Ghoul
+5,Creature,Skin-Walker
+6,Spell,Gravitation
+7,Creature,Magi
+8,Creature,Ghoul
+9,Creature,Death Merchant Oni of the Eternal Land
+10,Enchantment,Strength
+11,Spell,Stun
+12,Creature,Frozen Monk Orc
+13,Enchantment,Haste
+14,Creature,Warlock
+15,Creature,Wolf
+16,Enchantment,Chimeric Flight
+17,Spell,Apocalypse Tempest
+18,Creature,Fairy
+19,Spell,Stricken
+20,Enchantment,Age
+21,Creature,Snow Monk Dwarf of the Haven
+22,Spell,Gale
+23,Enchantment,Firebreath
+24,Creature,Aura Warrior Goblin
+25,Creature,Skin-Walker
+26,Enchantment,Urgent Solar Agony
+27,Creature,Dark Priest Cyclops
+28,Creature,Fairy
+29,Creature,Frozen Grand Wizard of the Void
+30,Creature,Skin-Walker
+31,Creature,Paladin
+32,Creature,Dark Undead Cyclops
+33,Creature,Wolf
+34,Spell,Revive
+35,Creature,Death Lord Hydra
+36,Enchantment,Nimble Haste
+37,Creature,Death Nameless Phoenix of the Dead
+38,Creature,Death Undead Orc
+39,Enchantment,Haste
+40,Creature,Warlock
+41,Creature,Spider
+42,Creature,Dark Lord Hydra
+43,Enchantment,Agony
+44,Spell,Victory Stun

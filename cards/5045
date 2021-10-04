@@ -1,46 +1,46 @@
-==================,DECK,5045,Strong
-0,Spell,Common,Sorrow
-1,Artifact,Common,Cloak
-2,Creature,Common,Magi
-3,Creature,Mythic,Light Undead Dragon of the Sky
-4,Creature,Mythic,Light Grand Demon of the Sky
-5,Creature,Common,Goblin
-6,Artifact,Common,Crown
-7,Creature,Common,Ghoul
-8,Creature,Rare,Snow Fighter Hydra
-9,Enchantment,Rare,Hateful Flight
-10,Creature,Rare,Frozen Lord Skin-Walker
-11,Enchantment,Common,Age
-12,Enchantment,Rare,Miracle Flight
-13,Creature,Rare,Snow Warrior Berserker
-14,Enchantment,Common,Shield
-15,Creature,Legendary,Aura Undead Phoenix of the Light
-16,Creature,Rare,Light Merchant Skin-Walker
-17,Creature,Common,Warlock
-18,Creature,Common,Paladin
-19,Creature,Rare,Light Priest Skin-Walker
-20,Artifact,Rare,Necro Belt
-21,Enchantment,Mythic,Angry Deathgrip
-22,Spell,Common,Pandemonium
-23,Creature,Common,Orc
-24,Enchantment,Mythic,Extreme Drain
-25,Enchantment,Rare,Lunar Shrink
-26,Creature,Legendary,Frozen Nameless Dragon of the Void
-27,Spell,Mythic,Urgent Hypnosis
-28,Creature,Legendary,Frozen Merchant Giant of the Mountains
-29,Spell,Mythic,Dire Wall
-30,Creature,Common,Eagle
-31,Creature,Rare,Snow Knight Berserker
-32,Enchantment,Common,Shield
-33,Creature,Rare,Snow Priest Hydra
-34,Spell,Common,Torment
-35,Creature,Mythic,Aura Undead Dragon of the Light
-36,Spell,Mythic,Clever Revive
-37,Spell,Common,Burn
-38,Creature,Legendary,Death Time Phoenix of the Dead
-39,Creature,Rare,Death King Griffin
-40,Creature,Common,Paladin
-41,Spell,Rare,Shimmering Maelstrom
-42,Enchantment,Common,Shade
-43,Creature,Common,Dwarf
-44,Creature,Legendary,Dark Undead Dragon of Illusion
+==================,DECK,5045
+0,Spell,Gravitation
+1,Artifact,Cloak
+2,Creature,Fairy
+3,Creature,Light Undead Dragon of the Sky
+4,Creature,Light Grand Demon of the Sky
+5,Creature,Skin-Walker
+6,Artifact,Crown
+7,Creature,Ghoul
+8,Creature,Snow Fighter Hydra
+9,Enchantment,Lunar Shield
+10,Creature,Frozen Lord Orc
+11,Enchantment,Blight
+12,Enchantment,Grim Blight
+13,Creature,Snow Warrior Goblin
+14,Enchantment,Haste
+15,Creature,Aura Undead Phoenix of the Light
+16,Creature,Light Merchant Orc
+17,Creature,Berserker
+18,Creature,Troll
+19,Creature,Light Priest Orc
+20,Artifact,Shimmering Belt
+21,Enchantment,Mighty Sorrow Flight
+22,Spell,Wall
+23,Creature,Spider
+24,Enchantment,Empyrean Dark Firebreath
+25,Enchantment,Chimeric Shield
+26,Creature,Frozen Nameless Dragon of the Void
+27,Spell,Potent Corpse Vortex
+28,Creature,Frozen Merchant Dwarf of the Mountains
+29,Spell,Irate Oblivion Vortex
+30,Creature,Eagle
+31,Creature,Snow Knight Goblin
+32,Enchantment,Haste
+33,Creature,Snow Priest Hydra
+34,Spell,Burst
+35,Creature,Aura Undead Dragon of the Light
+36,Spell,Ardent Frigid Revive
+37,Spell,Fireball
+38,Creature,Death Time Phoenix of the Dead
+39,Creature,Death King Griffin
+40,Creature,Troll
+41,Spell,Solar Fire
+42,Enchantment,Blight
+43,Creature,Magi
+44,Creature,Dark Undead Dragon of Illusion

@@ -1,46 +1,46 @@
-==================,DECK,7873,Light
-0,Creature,Common,Wolf
-1,Artifact,Common,Pendant
-2,Creature,Common,Ghoul
-3,Creature,Mythic,Earth Undead Dragon of the Shadows
-4,Creature,Legendary,Dark Undead Giant of the Black Stone
-5,Creature,Common,Magi
-6,Enchantment,Mythic,Intense Age
-7,Creature,Common,Dwarf
-8,Creature,Rare,Aura Fighter Griffin
-9,Enchantment,Mythic,Dire Deathgrip
-10,Creature,Common,Paladin
-11,Spell,Rare,Lunar Hypnosis
-12,Artifact,Common,Ring
-13,Spell,Common,Pandemonium
-14,Creature,Common,Paladin
-15,Artifact,Common,Gauntlet
-16,Enchantment,Common,Age
-17,Creature,Common,Goblin
-18,Creature,Common,Orc
-19,Creature,Common,Dwarf
-20,Creature,Common,Elf
-21,Spell,Common,Infuriate
-22,Creature,Rare,Light Merchant Griffin
-23,Enchantment,Common,Shrink
-24,Artifact,Rare,Forged Bow
-25,Creature,Common,Paladin
-26,Creature,Common,Spider
-27,Creature,Common,Dwarf
-28,Creature,Common,Orc
-29,Creature,Rare,Light Fighter Minotaur
-30,Creature,Common,Dwarf
-31,Artifact,Common,Gauntlet
-32,Creature,Common,Magi
-33,Spell,Common,Fury
-34,Spell,Common,Revive
-35,Artifact,Common,Gauntlet
-36,Spell,Common,Infuriate
-37,Spell,Common,Torment
-38,Creature,Rare,Dark Thief Berserker
-39,Spell,Common,Heal
-40,Spell,Common,Lightning
-41,Creature,Mythic,Frozen Grand Wizard of the Void
-42,Spell,Common,Assault
-43,Creature,Common,Elf
-44,Creature,Legendary,Light King Kraken of the Low Hills
+==================,DECK,7873
+0,Creature,Wolf
+1,Artifact,Pendant
+2,Creature,Ghoul
+3,Creature,Earth Undead Dragon of the Shadows
+4,Creature,Dark Undead Dwarf of the Black Stone
+5,Creature,Fairy
+6,Enchantment,Zealous Nature Deathgrip
+7,Creature,Magi
+8,Creature,Aura Fighter Griffin
+9,Enchantment,Potent Oblivion Drain
+10,Creature,Troll
+11,Spell,Dark Maelstrom
+12,Artifact,Ring
+13,Spell,Burn
+14,Creature,Troll
+15,Artifact,Gauntlet
+16,Enchantment,Firebreath
+17,Creature,Skin-Walker
+18,Creature,Spider
+19,Creature,Magi
+20,Creature,Warlock
+21,Spell,Tempest
+22,Creature,Light Merchant Griffin
+23,Enchantment,Flight
+24,Artifact,Gloom Bow
+25,Creature,Troll
+26,Creature,Paladin
+27,Creature,Magi
+28,Creature,Spider
+29,Creature,Light Fighter Cyclops
+30,Creature,Magi
+31,Artifact,Gauntlet
+32,Creature,Fairy
+33,Spell,Fireball
+34,Spell,Hypnosis
+35,Artifact,Gauntlet
+36,Spell,Gravitation
+37,Spell,Gale
+38,Creature,Dark Thief Goblin
+39,Spell,Pandemonium
+40,Spell,Torment
+41,Creature,Frozen Grand Wizard of the Void
+42,Spell,Stricken
+43,Creature,Warlock
+44,Creature,Light King Ogre of the Low Hills

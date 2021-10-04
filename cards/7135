@@ -1,46 +1,46 @@
-==================,DECK,7135,Light
-0,Enchantment,Common,Agony
-1,Creature,Common,Wolf
-2,Artifact,Common,Shield
-3,Creature,Common,Elf
-4,Creature,Common,Eagle
-5,Creature,Common,Goblin
-6,Creature,Mythic,Light Chaos Wizard of the Sky
-7,Creature,Common,Paladin
-8,Creature,Common,Warlock
-9,Spell,Common,Torment
-10,Spell,Common,Ice
-11,Artifact,Rare,Necro Sword
-12,Enchantment,Common,Alacrity
-13,Enchantment,Common,Alacrity
-14,Enchantment,Mythic,Clever Deathgrip
-15,Enchantment,Common,Lethargy
-16,Enchantment,Rare,Dark Strength
-17,Enchantment,Rare,Cataclysmic Blight
-18,Spell,Legendary,Extreme Freeze
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Wall
-21,Spell,Common,Assault
-22,Creature,Common,Ghoul
-23,Artifact,Rare,Lunar Divine Robe
-24,Creature,Common,Eagle
-25,Creature,Common,Wolf
-26,Spell,Rare,Apocalypse Burn
-27,Creature,Common,Goblin
-28,Enchantment,Rare,Life Shrink
-29,Spell,Common,Revive
-30,Artifact,Legendary,Intense Ring
-31,Creature,Common,Warlock
-32,Creature,Legendary,Earth Thief Giant of the Polar Woods
-33,Creature,Common,Orc
-34,Creature,Common,Warlock
-35,Enchantment,Rare,Solar Shade
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Orc
-38,Creature,Rare,Dark Priest Skin-Walker
-39,Spell,Rare,Frigid Assault
-40,Creature,Common,Paladin
-41,Creature,Common,Wolf
-42,Enchantment,Common,Invert
-43,Creature,Rare,Earth Warrior Hydra
-44,Creature,Rare,Light Undead Berserker
+==================,DECK,7135
+0,Enchantment,Blight
+1,Creature,Wolf
+2,Artifact,Shield
+3,Creature,Warlock
+4,Creature,Eagle
+5,Creature,Skin-Walker
+6,Creature,Light Chaos Wizard of the Sky
+7,Creature,Troll
+8,Creature,Berserker
+9,Spell,Revive
+10,Spell,Stun
+11,Artifact,Solar Sword
+12,Enchantment,Blight
+13,Enchantment,Blight
+14,Enchantment,Empyrean Oblivion Shade
+15,Enchantment,Alacrity
+16,Enchantment,Cataclysmic Alacrity
+17,Enchantment,Cataclysmic Alacrity
+18,Spell,Ardent Gloom Fury
+19,Enchantment,Shield
+20,Spell,Tempest
+21,Spell,Stricken
+22,Creature,Ghoul
+23,Artifact,Cataclysmic Divine Robe
+24,Creature,Eagle
+25,Creature,Wolf
+26,Spell,Victory Hypnosis
+27,Creature,Skin-Walker
+28,Enchantment,Frigid Invert
+29,Spell,Reanimate
+30,Artifact,Ardent Necro Ring
+31,Creature,Berserker
+32,Creature,Earth Thief Dwarf of the Polar Woods
+33,Creature,Spider
+34,Creature,Berserker
+35,Enchantment,Necro Strength
+36,Enchantment,Age
+37,Creature,Spider
+38,Creature,Dark Priest Orc
+39,Spell,Apocalypse Frost
+40,Creature,Troll
+41,Creature,Wolf
+42,Enchantment,Drain
+43,Creature,Earth Warrior Hydra
+44,Creature,Light Undead Goblin

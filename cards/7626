@@ -1,46 +1,46 @@
-==================,DECK,7626,Strong
-0,Creature,Mythic,Death Time Dragon of the Dead
-1,Spell,Legendary,Angry Burn
-2,Spell,Legendary,Intense Stun
-3,Creature,Common,Orc
-4,Enchantment,Legendary,Angry Haste
-5,Spell,Common,Burst
-6,Creature,Mythic,Light Grand Wizard of the Sky
-7,Enchantment,Rare,Oblivion Shade
-8,Spell,Mythic,Potent Revive
-9,Creature,Rare,Light Monk Minotaur
-10,Creature,Common,Orc
-11,Enchantment,Legendary,Potent Drain
-12,Enchantment,Common,Shield
-13,Creature,Common,Orc
-14,Creature,Common,Elf
-15,Spell,Common,Assault
-16,Creature,Legendary,Dark Monk Cyclops of the Mountains
-17,Creature,Common,Ghoul
-18,Creature,Legendary,Snow Knight Kraken of the Bright Mountains
-19,Creature,Legendary,Snow Undead Giant of the Polar Woods
-20,Spell,Legendary,Extreme Freeze
-21,Spell,Rare,Cataclysmic Infuriate
-22,Enchantment,Mythic,Dire Agony
-23,Enchantment,Common,Strength
-24,Spell,Legendary,Extreme Assault
-25,Creature,Legendary,Earth Lord Kraken of the Bright Mountains
-26,Artifact,Rare,Oblivion Helmet
-27,Artifact,Rare,Corpse Boots
-28,Creature,Legendary,Light Nameless Dragon of the Sky
-29,Creature,Common,Goblin
-30,Creature,Mythic,Dark Ancient Demon of Illusion
-31,Creature,Mythic,Dark Chaos Demon of Illusion
-32,Artifact,Rare,Nature Amulet
-33,Spell,Legendary,Mighty Freeze
-34,Enchantment,Common,Drain
-35,Creature,Legendary,Death Undead Dragon of the Dead
-36,Creature,Mythic,Dark Time Phoenix of Illusion
-37,Creature,Common,Paladin
-38,Creature,Rare,Light Knight Berserker
-39,Creature,Legendary,Frozen Chaos Demon of the Void
-40,Artifact,Common,Sword
-41,Creature,Mythic,Aura Chaos Wizard of the Light
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Frozen Fighter Berserker
-44,Creature,Common,Dwarf
+==================,DECK,7626
+0,Creature,Death Time Dragon of the Dead
+1,Spell,Empyrean Dark Sorrow
+2,Spell,Empyrean Solar Stun
+3,Creature,Spider
+4,Enchantment,Empyrean Miracle Firebreath
+5,Spell,Vortex
+6,Creature,Light Grand Wizard of the Sky
+7,Enchantment,Frigid Drain
+8,Spell,Urgent Oblivion Lightning
+9,Creature,Light Monk Cyclops
+10,Creature,Spider
+11,Enchantment,Empyrean Apocalypse Shade
+12,Enchantment,Blight
+13,Creature,Spider
+14,Creature,Warlock
+15,Spell,Vortex
+16,Creature,Dark Monk Giant of the Mountains
+17,Creature,Ghoul
+18,Creature,Snow Knight Ogre of the Bright Mountains
+19,Creature,Snow Undead Dwarf of the Polar Woods
+20,Spell,Dire Dark Gravitation
+21,Spell,Lunar Reanimate
+22,Enchantment,Dire Life Shade
+23,Enchantment,Deathgrip
+24,Spell,Dire Lunar Reanimate
+25,Creature,Earth Lord Ogre of the Bright Mountains
+26,Artifact,Frigid Helmet
+27,Artifact,Corpse Boots
+28,Creature,Light Nameless Dragon of the Sky
+29,Creature,Skin-Walker
+30,Creature,Dark Ancient Demon of Illusion
+31,Creature,Dark Chaos Demon of Illusion
+32,Artifact,Solar Amulet
+33,Spell,Urgent Chimeric Freeze
+34,Enchantment,Shrink
+35,Creature,Death Undead Dragon of the Dead
+36,Creature,Dark Time Phoenix of Illusion
+37,Creature,Troll
+38,Creature,Light Knight Goblin
+39,Creature,Frozen Chaos Demon of the Void
+40,Artifact,Sword
+41,Creature,Aura Chaos Wizard of the Light
+42,Enchantment,Shield
+43,Creature,Frozen Fighter Goblin
+44,Creature,Magi

@@ -1,46 +1,46 @@
-==================,DECK,7632,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Blight
-2,Creature,Common,Elf
-3,Spell,Rare,Nimble Frenzy
-4,Enchantment,Common,Shrink
-5,Creature,Common,Spider
-6,Enchantment,Legendary,Dire Age
-7,Creature,Common,Goblin
-8,Creature,Common,Paladin
-9,Creature,Rare,Snow Fighter Berserker
-10,Creature,Common,Spider
-11,Creature,Common,Wolf
-12,Spell,Common,Frost
-13,Spell,Legendary,Extreme Maelstrom
-14,Creature,Common,Spider
-15,Spell,Legendary,Mighty Assault
-16,Spell,Common,Maelstrom
-17,Enchantment,Mythic,Mighty Invert
-18,Creature,Common,Orc
-19,Creature,Common,Wolf
-20,Creature,Common,Warlock
-21,Enchantment,Common,Strength
-22,Creature,Common,Paladin
-23,Creature,Rare,Frozen Warrior Hydra
-24,Creature,Common,Orc
-25,Creature,Common,Wolf
-26,Creature,Common,Orc
-27,Creature,Legendary,Earth Warrior Giant of the Eastern Skies
-28,Spell,Common,Pandemonium
-29,Creature,Common,Ghoul
-30,Artifact,Common,Helm
-31,Spell,Rare,Shimmering Fury
-32,Spell,Common,Maelstrom
-33,Creature,Rare,Light Warrior Fairy
-34,Creature,Legendary,Dark Rogue Oni of the Frozen Castle
-35,Artifact,Common,Sword
-36,Creature,Common,Warlock
-37,Creature,Common,Wolf
-38,Artifact,Common,Greaves
-39,Creature,Rare,Earth Priest Griffin
-40,Artifact,Common,Greaves
-41,Creature,Legendary,Earth Assassin Orge of the Frozen Castle
-42,Creature,Common,Dwarf
-43,Spell,Common,Maelstrom
-44,Spell,Common,Freeze
+==================,DECK,7632
+0,Creature,Magi
+1,Enchantment,Drain
+2,Creature,Warlock
+3,Spell,Corpse Burn
+4,Enchantment,Blight
+5,Creature,Paladin
+6,Enchantment,Clever Victory Haste
+7,Creature,Skin-Walker
+8,Creature,Troll
+9,Creature,Snow Fighter Goblin
+10,Creature,Paladin
+11,Creature,Wolf
+12,Spell,Stricken
+13,Spell,Zealous Sorrow Assault
+14,Creature,Paladin
+15,Spell,Irate Chimeric Wall
+16,Spell,Fury
+17,Enchantment,Ardent Sorrow Shield
+18,Creature,Spider
+19,Creature,Wolf
+20,Creature,Berserker
+21,Enchantment,Shield
+22,Creature,Troll
+23,Creature,Frozen Warrior Hydra
+24,Creature,Spider
+25,Creature,Wolf
+26,Creature,Spider
+27,Creature,Earth Warrior Dwarf of the Eastern Skies
+28,Spell,Hypnosis
+29,Creature,Ghoul
+30,Artifact,Helm
+31,Spell,Hateful Assault
+32,Spell,Infuriate
+33,Creature,Light Warrior Kraken
+34,Creature,Dark Rogue Oni of the Frozen Castle
+35,Artifact,Sword
+36,Creature,Berserker
+37,Creature,Wolf
+38,Artifact,Greaves
+39,Creature,Earth Priest Griffin
+40,Artifact,Greaves
+41,Creature,Earth Assassin Elf of the Frozen Castle
+42,Creature,Magi
+43,Spell,Rage
+44,Spell,Frost

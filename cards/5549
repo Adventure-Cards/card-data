@@ -1,46 +1,46 @@
-==================,DECK,5549,Medium
-0,Creature,Legendary,Earth Lord Oni of the Golden Palace
-1,Spell,Rare,Grim Wall
-2,Creature,Rare,Earth Warrior Skin-Walker
-3,Artifact,Rare,Grim Scythe
-4,Enchantment,Rare,Forged Alacrity
-5,Creature,Rare,Dark King Griffin
-6,Creature,Common,Orc
-7,Creature,Common,Dwarf
-8,Spell,Legendary,Clever Rage
-9,Creature,Common,Orc
-10,Artifact,Common,Ring
-11,Enchantment,Common,Age
-12,Creature,Common,Orc
-13,Spell,Mythic,Angry Frenzy
-14,Creature,Common,Eagle
-15,Spell,Common,Invisibility
-16,Creature,Legendary,Aura Priest Kraken of the Magical Forest
-17,Creature,Common,Wolf
-18,Creature,Rare,Dark Lord Griffin
-19,Creature,Mythic,Light Chaos Demon of the Sky
-20,Spell,Common,Invisibility
-21,Creature,Common,Ghoul
-22,Creature,Common,Goblin
-23,Creature,Mythic,Earth Chaos Wizard of the Shadows
-24,Spell,Mythic,Extreme Infuriate
-25,Creature,Rare,Aura Knight Skin-Walker
-26,Creature,Common,Magi
-27,Creature,Common,Spider
-28,Creature,Rare,Frozen Undead Hydra
-29,Creature,Rare,Death Thief Hydra
-30,Spell,Common,Rage
-31,Spell,Common,Heal
-32,Enchantment,Mythic,Angry Strength
-33,Spell,Rare,Nimble Invisibility
-34,Spell,Legendary,Angry Infuriate
-35,Creature,Mythic,Frozen Nameless Phoenix of the Void
-36,Creature,Common,Elf
-37,Enchantment,Common,Shade
-38,Creature,Mythic,Snow Time Phoenix of Hate
-39,Spell,Rare,Gloom Heal
-40,Artifact,Rare,Life Helmet
-41,Creature,Common,Warlock
-42,Creature,Rare,Snow Knight Berserker
-43,Creature,Common,Elf
-44,Creature,Legendary,Dark Assassin Cyclops of the Swamp
+==================,DECK,5549
+0,Creature,Earth Lord Oni of the Golden Palace
+1,Spell,Life Freeze
+2,Creature,Earth Warrior Orc
+3,Artifact,Nimble Scythe
+4,Enchantment,Dark Flight
+5,Creature,Dark King Griffin
+6,Creature,Spider
+7,Creature,Magi
+8,Spell,Dire Oblivion Freeze
+9,Creature,Spider
+10,Artifact,Ring
+11,Enchantment,Lethargy
+12,Creature,Spider
+13,Spell,Urgent Chimeric Fire
+14,Creature,Eagle
+15,Spell,Fireball
+16,Creature,Aura Priest Ogre of the Magical Forest
+17,Creature,Wolf
+18,Creature,Dark Lord Griffin
+19,Creature,Light Chaos Demon of the Sky
+20,Spell,Hypnosis
+21,Creature,Ghoul
+22,Creature,Skin-Walker
+23,Creature,Earth Chaos Wizard of the Shadows
+24,Spell,Zealous Chimeric Stricken
+25,Creature,Aura Knight Orc
+26,Creature,Fairy
+27,Creature,Paladin
+28,Creature,Frozen Undead Hydra
+29,Creature,Death Thief Hydra
+30,Spell,Pandemonium
+31,Spell,Frost
+32,Enchantment,Instant Cataclysmic Shrink
+33,Spell,Shimmering Gale
+34,Spell,Clever Sorrow Tempest
+35,Creature,Frozen Nameless Phoenix of the Void
+36,Creature,Warlock
+37,Enchantment,Alacrity
+38,Creature,Snow Time Phoenix of Hate
+39,Spell,Miracle Stun
+40,Artifact,Nimble Helmet
+41,Creature,Berserker
+42,Creature,Snow Knight Goblin
+43,Creature,Warlock
+44,Creature,Dark Assassin Giant of the Swamp

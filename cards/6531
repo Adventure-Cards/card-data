@@ -1,46 +1,46 @@
-==================,DECK,6531,Light
-0,Creature,Common,Wolf
-1,Creature,Legendary,Aura Monk Orge of the Border
-2,Spell,Common,Vortex
-3,Artifact,Common,Crown
-4,Artifact,Common,Belt
-5,Artifact,Common,Ring
-6,Creature,Common,Spider
-7,Creature,Common,Paladin
-8,Spell,Common,Frost
-9,Creature,Common,Elf
-10,Creature,Common,Orc
-11,Enchantment,Common,Blight
-12,Creature,Rare,Light Fighter Fairy
-13,Artifact,Common,Cloak
-14,Creature,Mythic,Light Chaos Demon of the Sky
-15,Enchantment,Common,Drain
-16,Artifact,Rare,Cataclysmic Helmet
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Strength
-19,Creature,Legendary,Dark Fighter Cyclops of the Frozen Castle
-20,Spell,Legendary,Extreme Ice
-21,Spell,Rare,Apocalypse Infuriate
-22,Enchantment,Rare,Oblivion Alacrity
-23,Creature,Common,Ghoul
-24,Creature,Common,Magi
-25,Creature,Rare,Light Rogue Hydra
-26,Creature,Common,Spider
-27,Enchantment,Mythic,Mighty Flight
-28,Creature,Common,Spider
-29,Creature,Rare,Death Fighter Griffin
-30,Creature,Rare,Snow Queen Hydra
-31,Creature,Common,Dwarf
-32,Artifact,Rare,Corpse Boots
-33,Enchantment,Mythic,Angry Drain
-34,Creature,Common,Orc
-35,Spell,Common,Fury
-36,Enchantment,Common,Strength
-37,Creature,Common,Eagle
-38,Enchantment,Rare,Dark Shade
-39,Creature,Common,Warlock
-40,Enchantment,Rare,Miracle Drain
-41,Creature,Common,Paladin
-42,Creature,Common,Dwarf
-43,Creature,Rare,Aura Assassin Minotaur
-44,Spell,Common,Maelstrom
+==================,DECK,6531
+0,Creature,Wolf
+1,Creature,Aura Monk Elf of the Border
+2,Spell,Revive
+3,Artifact,Crown
+4,Artifact,Belt
+5,Artifact,Ring
+6,Creature,Paladin
+7,Creature,Troll
+8,Spell,Heal
+9,Creature,Warlock
+10,Creature,Spider
+11,Enchantment,Shrink
+12,Creature,Light Fighter Kraken
+13,Artifact,Cloak
+14,Creature,Light Chaos Demon of the Sky
+15,Enchantment,Drain
+16,Artifact,Cataclysmic Helmet
+17,Creature,Magi
+18,Enchantment,Drain
+19,Creature,Dark Fighter Giant of the Frozen Castle
+20,Spell,Potent Dark Burn
+21,Spell,Apocalypse Stricken
+22,Enchantment,Apocalypse Haste
+23,Creature,Ghoul
+24,Creature,Fairy
+25,Creature,Light Rogue Hydra
+26,Creature,Paladin
+27,Enchantment,Clever Lunar Shield
+28,Creature,Paladin
+29,Creature,Death Fighter Griffin
+30,Creature,Snow Queen Hydra
+31,Creature,Magi
+32,Artifact,Shimmering Boots
+33,Enchantment,Zealous Dark Alacrity
+34,Creature,Spider
+35,Spell,Infuriate
+36,Enchantment,Haste
+37,Creature,Eagle
+38,Enchantment,Chimeric Alacrity
+39,Creature,Berserker
+40,Enchantment,Apocalypse Shade
+41,Creature,Troll
+42,Creature,Magi
+43,Creature,Aura Assassin Cyclops
+44,Spell,Invisibility

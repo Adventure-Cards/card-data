@@ -1,46 +1,46 @@
-==================,DECK,5179,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Wolf
-2,Artifact,Rare,Nature Ghost Wand
-3,Spell,Common,Lightning
-4,Spell,Rare,Grim Assault
-5,Spell,Legendary,Potent Stun
-6,Enchantment,Common,Blight
-7,Spell,Legendary,Angry Stricken
-8,Creature,Mythic,Light Undead Phoenix of the Sky
-9,Creature,Rare,Death Lord Minotaur
-10,Creature,Rare,Aura Undead Hydra
-11,Creature,Mythic,Death Chaos Demon of the Dead
-12,Creature,Common,Paladin
-13,Spell,Common,Gale
-14,Creature,Common,Spider
-15,Creature,Common,Paladin
-16,Creature,Rare,Light Priest Fairy
-17,Creature,Common,Orc
-18,Enchantment,Rare,Corpse Lethargy
-19,Spell,Common,Vortex
-20,Creature,Common,Eagle
-21,Enchantment,Common,Strength
-22,Creature,Common,Goblin
-23,Enchantment,Common,Flight
-24,Creature,Common,Elf
-25,Creature,Legendary,Dark Rogue Giant of the Black Stone
-26,Creature,Common,Warlock
-27,Creature,Common,Goblin
-28,Enchantment,Common,Agony
-29,Creature,Common,Wolf
-30,Enchantment,Common,Flight
-31,Artifact,Rare,Lunar Bracers
-32,Creature,Common,Elf
-33,Spell,Common,Fury
-34,Enchantment,Common,Shrink
-35,Spell,Common,Maelstrom
-36,Spell,Legendary,Clever Frenzy
-37,Enchantment,Common,Deathgrip
-38,Spell,Rare,Necro Stun
-39,Artifact,Legendary,Urgent Scythe
-40,Creature,Rare,Earth Knight Minotaur
-41,Enchantment,Mythic,Urgent Invert
-42,Spell,Common,Maelstrom
-43,Spell,Rare,Oblivion Freeze
-44,Spell,Common,Invisibility
+==================,DECK,5179
+0,Creature,Eagle
+1,Creature,Wolf
+2,Artifact,Shimmering Ghost Wand
+3,Spell,Revive
+4,Spell,Nimble Fireball
+5,Spell,Empyrean Apocalypse Fury
+6,Enchantment,Shrink
+7,Spell,Potent Cataclysmic Fireball
+8,Creature,Light Undead Phoenix of the Sky
+9,Creature,Death Lord Cyclops
+10,Creature,Aura Undead Hydra
+11,Creature,Death Chaos Demon of the Dead
+12,Creature,Troll
+13,Spell,Revive
+14,Creature,Paladin
+15,Creature,Troll
+16,Creature,Light Priest Kraken
+17,Creature,Spider
+18,Enchantment,Hateful Lethargy
+19,Spell,Pandemonium
+20,Creature,Eagle
+21,Enchantment,Haste
+22,Creature,Skin-Walker
+23,Enchantment,Age
+24,Creature,Warlock
+25,Creature,Dark Rogue Dwarf of the Black Stone
+26,Creature,Berserker
+27,Creature,Skin-Walker
+28,Enchantment,Invert
+29,Creature,Wolf
+30,Enchantment,Haste
+31,Artifact,Lunar Bracers
+32,Creature,Warlock
+33,Spell,Fury
+34,Enchantment,Haste
+35,Spell,Fire
+36,Spell,Dire Victory Revive
+37,Enchantment,Blight
+38,Spell,Corpse Vortex
+39,Artifact,Empyrean Nature Scythe
+40,Creature,Earth Knight Cyclops
+41,Enchantment,Urgent Shimmering Agony
+42,Spell,Sorrow
+43,Spell,Grim Fire
+44,Spell,Lightning

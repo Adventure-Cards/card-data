@@ -1,46 +1,46 @@
-==================,DECK,7029,Light
-0,Creature,Rare,Snow Knight Berserker
-1,Spell,Legendary,Instant Heal
-2,Creature,Common,Paladin
-3,Spell,Common,Lightning
-4,Spell,Common,Stun
-5,Enchantment,Common,Blight
-6,Enchantment,Rare,Corpse Agony
-7,Creature,Rare,Earth Undead Griffin
-8,Enchantment,Mythic,Dire Drain
-9,Creature,Common,Magi
-10,Spell,Common,Frost
-11,Artifact,Common,Pendant
-12,Artifact,Common,Bracers
-13,Creature,Rare,Snow Knight Skin-Walker
-14,Enchantment,Common,Agony
-15,Creature,Common,Dwarf
-16,Creature,Rare,Light King Hydra
-17,Spell,Common,Frost
-18,Creature,Mythic,Earth Ancient Wizard of the Shadows
-19,Spell,Common,Vortex
-20,Creature,Common,Goblin
-21,Creature,Rare,Frozen Undead Berserker
-22,Spell,Common,Gale
-23,Creature,Rare,Aura Assassin Minotaur
-24,Creature,Common,Goblin
-25,Creature,Common,Spider
-26,Creature,Common,Dwarf
-27,Creature,Rare,Death Queen Griffin
-28,Creature,Common,Warlock
-29,Creature,Common,Warlock
-30,Creature,Legendary,Dark Monk Kraken of the Eternal Land
-31,Artifact,Common,Helmet
-32,Creature,Rare,Dark Undead Skin-Walker
-33,Enchantment,Common,Flight
-34,Creature,Common,Wolf
-35,Creature,Common,Paladin
-36,Spell,Rare,Solar Invisibility
-37,Spell,Common,Heal
-38,Creature,Legendary,Earth Monk Kraken of the Magical Forest
-39,Spell,Common,Ice
-40,Spell,Common,Burst
-41,Spell,Legendary,Clever Fury
-42,Enchantment,Rare,Solar Alacrity
-43,Creature,Rare,Snow Merchant Berserker
-44,Spell,Common,Burst
+==================,DECK,7029
+0,Creature,Snow Knight Goblin
+1,Spell,Urgent Shimmering Gale
+2,Creature,Troll
+3,Spell,Freeze
+4,Spell,Gale
+5,Enchantment,Agony
+6,Enchantment,Corpse Lethargy
+7,Creature,Earth Undead Griffin
+8,Enchantment,Potent Apocalypse Drain
+9,Creature,Fairy
+10,Spell,Infuriate
+11,Artifact,Pendant
+12,Artifact,Bracers
+13,Creature,Snow Knight Orc
+14,Enchantment,Deathgrip
+15,Creature,Magi
+16,Creature,Light King Hydra
+17,Spell,Invisibility
+18,Creature,Earth Ancient Wizard of the Shadows
+19,Spell,Stricken
+20,Creature,Skin-Walker
+21,Creature,Frozen Undead Goblin
+22,Spell,Lightning
+23,Creature,Aura Assassin Cyclops
+24,Creature,Skin-Walker
+25,Creature,Paladin
+26,Creature,Magi
+27,Creature,Death Queen Griffin
+28,Creature,Berserker
+29,Creature,Berserker
+30,Creature,Dark Monk Ogre of the Eternal Land
+31,Artifact,Helmet
+32,Creature,Dark Undead Orc
+33,Enchantment,Flight
+34,Creature,Wolf
+35,Creature,Troll
+36,Spell,Shimmering Stun
+37,Spell,Torment
+38,Creature,Earth Monk Ogre of the Magical Forest
+39,Spell,Sorrow
+40,Spell,Wall
+41,Spell,Clever Frigid Lightning
+42,Enchantment,Forged Strength
+43,Creature,Snow Merchant Goblin
+44,Spell,Sorrow

@@ -1,46 +1,46 @@
-==================,DECK,5337,Light
-0,Creature,Legendary,Aura Lord Oni of the Swamp
-1,Spell,Common,Gravitation
-2,Spell,Common,Torment
-3,Spell,Rare,Apocalypse Maelstrom
-4,Creature,Rare,Snow Queen Fairy
-5,Artifact,Common,Greaves
-6,Creature,Common,Ghoul
-7,Enchantment,Legendary,Dire Flight
-8,Spell,Common,Invisibility
-9,Artifact,Common,Ring
-10,Creature,Common,Eagle
-11,Creature,Common,Goblin
-12,Creature,Common,Magi
-13,Enchantment,Common,Deathgrip
-14,Creature,Mythic,Death Nameless Dragon of the Dead
-15,Creature,Common,Wolf
-16,Artifact,Common,Helm
-17,Creature,Common,Wolf
-18,Spell,Common,Frost
-19,Creature,Rare,Death Priest Griffin
-20,Creature,Legendary,Light Queen Cyclops of the Plains
-21,Enchantment,Common,Age
-22,Enchantment,Common,Shade
-23,Creature,Common,Eagle
-24,Creature,Common,Goblin
-25,Creature,Common,Spider
-26,Spell,Common,Freeze
-27,Creature,Common,Magi
-28,Creature,Common,Goblin
-29,Creature,Legendary,Light Rogue Orge of the Golden Palace
-30,Spell,Common,Fury
-31,Artifact,Common,Ghost Wand
-32,Creature,Common,Eagle
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Alacrity
-35,Enchantment,Legendary,Instant Agony
-36,Creature,Common,Spider
-37,Creature,Common,Spider
-38,Spell,Common,Gale
-39,Creature,Common,Elf
-40,Creature,Common,Warlock
-41,Spell,Rare,Cataclysmic Stun
-42,Creature,Rare,Light Warrior Griffin
-43,Creature,Legendary,Death Knight Giant of the Plains
-44,Creature,Common,Paladin
+==================,DECK,5337
+0,Creature,Aura Lord Oni of the Swamp
+1,Spell,Frost
+2,Spell,Fury
+3,Spell,Oblivion Heal
+4,Creature,Snow Queen Kraken
+5,Artifact,Greaves
+6,Creature,Ghoul
+7,Enchantment,Empyrean Grim Shade
+8,Spell,Revive
+9,Artifact,Ring
+10,Creature,Eagle
+11,Creature,Skin-Walker
+12,Creature,Fairy
+13,Enchantment,Agony
+14,Creature,Death Nameless Dragon of the Dead
+15,Creature,Wolf
+16,Artifact,Helm
+17,Creature,Wolf
+18,Spell,Gale
+19,Creature,Death Priest Griffin
+20,Creature,Light Queen Giant of the Plains
+21,Enchantment,Shrink
+22,Enchantment,Age
+23,Creature,Eagle
+24,Creature,Skin-Walker
+25,Creature,Paladin
+26,Spell,Pandemonium
+27,Creature,Fairy
+28,Creature,Skin-Walker
+29,Creature,Light Rogue Elf of the Golden Palace
+30,Spell,Burn
+31,Artifact,Ghost Wand
+32,Creature,Eagle
+33,Creature,Magi
+34,Enchantment,Shade
+35,Enchantment,Urgent Corpse Agony
+36,Creature,Paladin
+37,Creature,Paladin
+38,Spell,Torment
+39,Creature,Warlock
+40,Creature,Berserker
+41,Spell,Sorrow Burst
+42,Creature,Light Warrior Griffin
+43,Creature,Death Knight Dwarf of the Plains
+44,Creature,Troll

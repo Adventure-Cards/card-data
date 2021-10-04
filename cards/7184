@@ -1,46 +1,46 @@
-==================,DECK,7184,Light
-0,Spell,Common,Pandemonium
-1,Creature,Common,Wolf
-2,Enchantment,Rare,Oblivion Lethargy
-3,Creature,Rare,Light Assassin Griffin
-4,Artifact,Common,Boots
-5,Creature,Legendary,Light Knight Oni of the Swamp
-6,Spell,Common,Stricken
-7,Enchantment,Mythic,Angry Drain
-8,Artifact,Rare,Dark Scepter
-9,Creature,Common,Goblin
-10,Enchantment,Common,Alacrity
-11,Spell,Legendary,Extreme Infuriate
-12,Enchantment,Mythic,Clever Deathgrip
-13,Spell,Common,Frost
-14,Creature,Common,Dwarf
-15,Creature,Common,Ghoul
-16,Creature,Common,Dwarf
-17,Enchantment,Common,Shrink
-18,Creature,Rare,Aura Fighter Minotaur
-19,Enchantment,Common,Invert
-20,Spell,Common,Reanimate
-21,Enchantment,Rare,Solar Shade
-22,Enchantment,Common,Shield
-23,Creature,Rare,Dark King Griffin
-24,Enchantment,Common,Lethargy
-25,Enchantment,Common,Deathgrip
-26,Creature,Rare,Dark Monk Skin-Walker
-27,Enchantment,Rare,Nimble Shield
-28,Enchantment,Rare,Grim Lethargy
-29,Spell,Common,Gale
-30,Creature,Common,Orc
-31,Creature,Common,Eagle
-32,Creature,Common,Ghoul
-33,Creature,Common,Orc
-34,Artifact,Common,Pendant
-35,Artifact,Common,Ring
-36,Creature,Common,Ghoul
-37,Artifact,Common,Ghost Wand
-38,Artifact,Common,Bracers
-39,Creature,Mythic,Dark Undead Dragon of Illusion
-40,Spell,Common,Reanimate
-41,Spell,Legendary,Potent Frost
-42,Spell,Common,Gale
-43,Creature,Common,Paladin
-44,Enchantment,Mythic,Instant Age
+==================,DECK,7184
+0,Spell,Infuriate
+1,Creature,Wolf
+2,Enchantment,Grim Shade
+3,Creature,Light Assassin Griffin
+4,Artifact,Boots
+5,Creature,Light Knight Oni of the Swamp
+6,Spell,Tempest
+7,Enchantment,Potent Dark Shrink
+8,Artifact,Sorrow Scepter
+9,Creature,Skin-Walker
+10,Enchantment,Haste
+11,Spell,Mighty Gloom Gale
+12,Enchantment,Potent Oblivion Drain
+13,Spell,Assault
+14,Creature,Magi
+15,Creature,Ghoul
+16,Creature,Magi
+17,Enchantment,Shield
+18,Creature,Aura Fighter Cyclops
+19,Enchantment,Shrink
+20,Spell,Hypnosis
+21,Enchantment,Necro Agony
+22,Enchantment,Alacrity
+23,Creature,Dark King Griffin
+24,Enchantment,Age
+25,Enchantment,Shield
+26,Creature,Dark Monk Orc
+27,Enchantment,Nature Strength
+28,Enchantment,Grim Blight
+29,Spell,Burst
+30,Creature,Spider
+31,Creature,Eagle
+32,Creature,Ghoul
+33,Creature,Spider
+34,Artifact,Pendant
+35,Artifact,Ring
+36,Creature,Ghoul
+37,Artifact,Ghost Wand
+38,Artifact,Bracers
+39,Creature,Dark Undead Dragon of Illusion
+40,Spell,Stun
+41,Spell,Instant Grim Hypnosis
+42,Spell,Infuriate
+43,Creature,Troll
+44,Enchantment,Potent Nature Strength

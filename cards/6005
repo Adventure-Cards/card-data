@@ -1,46 +1,46 @@
-==================,DECK,6005,Light
-0,Artifact,Common,Gauntlet
-1,Enchantment,Common,Shield
-2,Creature,Common,Paladin
-3,Enchantment,Common,Agony
-4,Enchantment,Common,Lethargy
-5,Enchantment,Common,Alacrity
-6,Enchantment,Common,Shield
-7,Creature,Common,Goblin
-8,Enchantment,Common,Alacrity
-9,Creature,Common,Ghoul
-10,Creature,Rare,Snow Warrior Skin-Walker
-11,Creature,Common,Goblin
-12,Enchantment,Mythic,Angry Shrink
-13,Artifact,Common,Tome
-14,Creature,Mythic,Dark Nameless Phoenix of Illusion
-15,Enchantment,Rare,Apocalypse Haste
-16,Spell,Legendary,Extreme Infuriate
-17,Spell,Common,Ice
-18,Spell,Common,Frost
-19,Enchantment,Common,Invert
-20,Spell,Common,Frenzy
-21,Spell,Common,Pandemonium
-22,Creature,Rare,Earth Lord Griffin
-23,Enchantment,Legendary,Angry Agony
-24,Creature,Common,Orc
-25,Creature,Rare,Earth Assassin Griffin
-26,Artifact,Legendary,Mighty Tome
-27,Enchantment,Rare,Nimble Shield
-28,Creature,Rare,Earth Lord Berserker
-29,Spell,Common,Wall
-30,Creature,Common,Ghoul
-31,Creature,Common,Paladin
-32,Spell,Rare,Miracle Infuriate
-33,Creature,Common,Spider
-34,Creature,Common,Paladin
-35,Spell,Common,Infuriate
-36,Creature,Common,Magi
-37,Spell,Common,Revive
-38,Creature,Legendary,Death Merchant Giant of the Eternal Land
-39,Creature,Common,Elf
-40,Creature,Common,Spider
-41,Spell,Common,Heal
-42,Enchantment,Rare,Nature Deathgrip
-43,Spell,Common,Fury
-44,Artifact,Legendary,Potent Ring
+==================,DECK,6005
+0,Artifact,Gauntlet
+1,Enchantment,Strength
+2,Creature,Troll
+3,Enchantment,Shield
+4,Enchantment,Shrink
+5,Enchantment,Age
+6,Enchantment,Blight
+7,Creature,Skin-Walker
+8,Enchantment,Firebreath
+9,Creature,Ghoul
+10,Creature,Snow Warrior Orc
+11,Creature,Skin-Walker
+12,Enchantment,Potent Chimeric Shrink
+13,Artifact,Tome
+14,Creature,Dark Nameless Phoenix of Illusion
+15,Enchantment,Life Shade
+16,Spell,Zealous Cataclysmic Sorrow
+17,Spell,Assault
+18,Spell,Ice
+19,Enchantment,Firebreath
+20,Spell,Pandemonium
+21,Spell,Fury
+22,Creature,Earth Lord Griffin
+23,Enchantment,Irate Miracle Alacrity
+24,Creature,Spider
+25,Creature,Earth Assassin Griffin
+26,Artifact,Dire Miracle Tome
+27,Enchantment,Nature Agony
+28,Creature,Earth Lord Goblin
+29,Spell,Tempest
+30,Creature,Ghoul
+31,Creature,Troll
+32,Spell,Frigid Assault
+33,Creature,Paladin
+34,Creature,Troll
+35,Spell,Heal
+36,Creature,Fairy
+37,Spell,Invisibility
+38,Creature,Death Merchant Dwarf of the Eternal Land
+39,Creature,Warlock
+40,Creature,Paladin
+41,Spell,Burst
+42,Enchantment,Shimmering Agony
+43,Spell,Wall
+44,Artifact,Instant Oblivion Ring

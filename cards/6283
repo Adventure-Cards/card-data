@@ -1,46 +1,46 @@
-==================,DECK,6283,Light
-0,Creature,Common,Dwarf
-1,Spell,Common,Rage
-2,Creature,Common,Ghoul
-3,Creature,Rare,Death Queen Hydra
-4,Creature,Common,Ghoul
-5,Spell,Common,Fury
-6,Creature,Rare,Dark Lord Minotaur
-7,Artifact,Common,Sword
-8,Creature,Rare,Death Thief Hydra
-9,Creature,Common,Paladin
-10,Creature,Rare,Snow Warrior Fairy
-11,Creature,Common,Dwarf
-12,Enchantment,Common,Alacrity
-13,Creature,Common,Paladin
-14,Creature,Common,Elf
-15,Creature,Common,Paladin
-16,Spell,Common,Ice
-17,Creature,Common,Elf
-18,Creature,Common,Paladin
-19,Spell,Common,Sorrow
-20,Enchantment,Common,Shrink
-21,Creature,Rare,Earth Merchant Griffin
-22,Creature,Common,Wolf
-23,Enchantment,Common,Shrink
-24,Enchantment,Common,Shade
-25,Creature,Common,Warlock
-26,Spell,Legendary,Potent Burn
-27,Creature,Rare,Light Assassin Minotaur
-28,Spell,Common,Wall
-29,Creature,Common,Paladin
-30,Artifact,Common,Ghost Wand
-31,Creature,Common,Wolf
-32,Creature,Common,Wolf
-33,Creature,Common,Eagle
-34,Artifact,Rare,Necro Ring
-35,Creature,Common,Wolf
-36,Creature,Legendary,Frozen Rogue Oni of the Magical Forest
-37,Artifact,Rare,Dark Shield
-38,Artifact,Common,Ring
-39,Enchantment,Common,Flight
-40,Spell,Common,Gravitation
-41,Creature,Rare,Aura Queen Fairy
-42,Creature,Common,Goblin
-43,Creature,Rare,Dark Warrior Hydra
-44,Artifact,Common,Staff
+==================,DECK,6283
+0,Creature,Magi
+1,Spell,Heal
+2,Creature,Ghoul
+3,Creature,Death Queen Hydra
+4,Creature,Ghoul
+5,Spell,Ice
+6,Creature,Dark Lord Cyclops
+7,Artifact,Sword
+8,Creature,Death Thief Hydra
+9,Creature,Troll
+10,Creature,Snow Warrior Kraken
+11,Creature,Magi
+12,Enchantment,Blight
+13,Creature,Troll
+14,Creature,Warlock
+15,Creature,Troll
+16,Spell,Revive
+17,Creature,Warlock
+18,Creature,Troll
+19,Spell,Fury
+20,Enchantment,Alacrity
+21,Creature,Earth Merchant Griffin
+22,Creature,Wolf
+23,Enchantment,Drain
+24,Enchantment,Strength
+25,Creature,Berserker
+26,Spell,Empyrean Oblivion Sorrow
+27,Creature,Light Assassin Cyclops
+28,Spell,Ice
+29,Creature,Troll
+30,Artifact,Ghost Wand
+31,Creature,Wolf
+32,Creature,Wolf
+33,Creature,Eagle
+34,Artifact,Nature Ring
+35,Creature,Wolf
+36,Creature,Frozen Rogue Oni of the Magical Forest
+37,Artifact,Dark Shield
+38,Artifact,Ring
+39,Enchantment,Lethargy
+40,Spell,Stun
+41,Creature,Aura Queen Kraken
+42,Creature,Skin-Walker
+43,Creature,Dark Warrior Hydra
+44,Artifact,Staff

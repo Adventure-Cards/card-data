@@ -1,46 +1,46 @@
-==================,DECK,6754,Medium
-0,Creature,Common,Wolf
-1,Spell,Common,Pandemonium
-2,Enchantment,Legendary,Potent Invert
-3,Creature,Common,Ghoul
-4,Creature,Legendary,Earth Rogue Orge of the Polar Woods
-5,Creature,Common,Eagle
-6,Spell,Legendary,Angry Fury
-7,Creature,Rare,Dark Warrior Griffin
-8,Enchantment,Common,Alacrity
-9,Creature,Common,Wolf
-10,Creature,Legendary,Light Priest Kraken of the Haven
-11,Creature,Common,Ghoul
-12,Creature,Rare,Light Priest Griffin
-13,Spell,Common,Ice
-14,Creature,Rare,Death King Hydra
-15,Creature,Mythic,Dark Chaos Demon of Illusion
-16,Creature,Rare,Aura King Skin-Walker
-17,Enchantment,Common,Age
-18,Spell,Common,Invisibility
-19,Enchantment,Legendary,Potent Drain
-20,Artifact,Rare,Lunar Gloves
-21,Spell,Common,Torment
-22,Creature,Rare,Frozen Fighter Fairy
-23,Spell,Legendary,Angry Gale
-24,Spell,Common,Gravitation
-25,Artifact,Common,Pendant
-26,Creature,Common,Orc
-27,Spell,Common,Lightning
-28,Creature,Common,Magi
-29,Creature,Common,Spider
-30,Creature,Rare,Aura Assassin Skin-Walker
-31,Spell,Common,Gravitation
-32,Spell,Rare,Hateful Fury
-33,Enchantment,Common,Haste
-34,Creature,Common,Dwarf
-35,Spell,Mythic,Clever Maelstrom
-36,Enchantment,Common,Blight
-37,Creature,Common,Spider
-38,Enchantment,Rare,Gloom Invert
-39,Enchantment,Common,Lethargy
-40,Creature,Mythic,Aura Grand Wizard of the Light
-41,Spell,Mythic,Angry Assault
-42,Creature,Rare,Frozen Merchant Fairy
-43,Spell,Common,Maelstrom
-44,Artifact,Common,Greaves
+==================,DECK,6754
+0,Creature,Wolf
+1,Spell,Pandemonium
+2,Enchantment,Dire Oblivion Shade
+3,Creature,Ghoul
+4,Creature,Earth Rogue Elf of the Polar Woods
+5,Creature,Eagle
+6,Spell,Mighty Cataclysmic Heal
+7,Creature,Dark Warrior Griffin
+8,Enchantment,Shrink
+9,Creature,Wolf
+10,Creature,Light Priest Ogre of the Haven
+11,Creature,Ghoul
+12,Creature,Light Priest Griffin
+13,Spell,Hypnosis
+14,Creature,Death King Hydra
+15,Creature,Dark Chaos Demon of Illusion
+16,Creature,Aura King Orc
+17,Enchantment,Blight
+18,Spell,Invisibility
+19,Enchantment,Clever Apocalypse Haste
+20,Artifact,Lunar Gloves
+21,Spell,Fireball
+22,Creature,Frozen Fighter Kraken
+23,Spell,Potent Gloom Invisibility
+24,Spell,Vortex
+25,Artifact,Pendant
+26,Creature,Spider
+27,Spell,Tempest
+28,Creature,Fairy
+29,Creature,Paladin
+30,Creature,Aura Assassin Orc
+31,Spell,Stricken
+32,Spell,Lunar Burn
+33,Enchantment,Alacrity
+34,Creature,Magi
+35,Spell,Potent Frigid Stricken
+36,Enchantment,Invert
+37,Creature,Paladin
+38,Enchantment,Sorrow Shield
+39,Enchantment,Agony
+40,Creature,Aura Grand Wizard of the Light
+41,Spell,Instant Lunar Stun
+42,Creature,Frozen Merchant Kraken
+43,Spell,Sorrow
+44,Artifact,Greaves

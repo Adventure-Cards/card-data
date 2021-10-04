@@ -1,46 +1,46 @@
-==================,DECK,4494,Medium
-0,Creature,Rare,Death Warrior Berserker
-1,Spell,Common,Heal
-2,Spell,Common,Fury
-3,Spell,Common,Invisibility
-4,Spell,Common,Fury
-5,Creature,Rare,Light King Skin-Walker
-6,Enchantment,Common,Lethargy
-7,Creature,Rare,Death Assassin Hydra
-8,Artifact,Common,Helmet
-9,Creature,Rare,Earth Warrior Skin-Walker
-10,Spell,Common,Torment
-11,Enchantment,Common,Drain
-12,Spell,Common,Stun
-13,Creature,Common,Magi
-14,Spell,Common,Frost
-15,Spell,Rare,Lunar Infuriate
-16,Enchantment,Common,Shrink
-17,Artifact,Common,Shield
-18,Spell,Rare,Necro Reanimate
-19,Spell,Common,Reanimate
-20,Artifact,Common,Pendant
-21,Spell,Common,Rage
-22,Creature,Common,Elf
-23,Creature,Common,Orc
-24,Spell,Common,Ice
-25,Creature,Common,Spider
-26,Creature,Rare,Earth Rogue Fairy
-27,Spell,Common,Sorrow
-28,Creature,Common,Spider
-29,Enchantment,Rare,Dark Agony
-30,Creature,Common,Elf
-31,Spell,Common,Assault
-32,Spell,Common,Stricken
-33,Spell,Legendary,Intense Fury
-34,Creature,Common,Magi
-35,Creature,Rare,Earth Warrior Berserker
-36,Enchantment,Common,Alacrity
-37,Artifact,Rare,Nimble Boots
-38,Creature,Legendary,Snow Monk Cyclops of the Haven
-39,Creature,Common,Dwarf
-40,Creature,Common,Wolf
-41,Creature,Mythic,Earth Grand Demon of the Shadows
-42,Creature,Mythic,Death Chaos Wizard of the Dead
-43,Enchantment,Common,Shield
-44,Artifact,Rare,Life Helmet
+==================,DECK,4494
+0,Creature,Death Warrior Goblin
+1,Spell,Heal
+2,Spell,Pandemonium
+3,Spell,Freeze
+4,Spell,Pandemonium
+5,Creature,Light King Orc
+6,Enchantment,Alacrity
+7,Creature,Death Assassin Hydra
+8,Artifact,Helmet
+9,Creature,Earth Warrior Orc
+10,Spell,Fury
+11,Enchantment,Shield
+12,Spell,Burst
+13,Creature,Fairy
+14,Spell,Stricken
+15,Spell,Cataclysmic Wall
+16,Enchantment,Shield
+17,Artifact,Shield
+18,Spell,Nature Tempest
+19,Spell,Wall
+20,Artifact,Pendant
+21,Spell,Gale
+22,Creature,Warlock
+23,Creature,Spider
+24,Spell,Maelstrom
+25,Creature,Paladin
+26,Creature,Earth Rogue Kraken
+27,Spell,Freeze
+28,Creature,Paladin
+29,Enchantment,Miracle Firebreath
+30,Creature,Warlock
+31,Spell,Ice
+32,Spell,Ice
+33,Spell,Mighty Necro Stricken
+34,Creature,Fairy
+35,Creature,Earth Warrior Goblin
+36,Enchantment,Shrink
+37,Artifact,Necro Boots
+38,Creature,Snow Monk Giant of the Haven
+39,Creature,Magi
+40,Creature,Wolf
+41,Creature,Earth Grand Demon of the Shadows
+42,Creature,Death Chaos Wizard of the Dead
+43,Enchantment,Shade
+44,Artifact,Victory Helmet

@@ -1,46 +1,46 @@
-==================,DECK,5609,Light
-0,Creature,Rare,Frozen Monk Hydra
-1,Enchantment,Rare,Shimmering Drain
-2,Creature,Common,Warlock
-3,Artifact,Common,Gloves
-4,Creature,Common,Wolf
-5,Artifact,Common,Bow
-6,Creature,Common,Goblin
-7,Enchantment,Common,Strength
-8,Creature,Common,Goblin
-9,Spell,Common,Wall
-10,Creature,Common,Goblin
-11,Spell,Common,Invisibility
-12,Enchantment,Mythic,Mighty Lethargy
-13,Creature,Rare,Dark Fighter Fairy
-14,Enchantment,Common,Strength
-15,Creature,Common,Wolf
-16,Spell,Common,Sorrow
-17,Spell,Common,Stricken
-18,Creature,Common,Magi
-19,Creature,Rare,Snow Lord Griffin
-20,Enchantment,Common,Shade
-21,Artifact,Rare,Oblivion Scythe
-22,Enchantment,Mythic,Angry Shade
-23,Spell,Common,Fury
-24,Enchantment,Common,Blight
-25,Spell,Common,Hypnosis
-26,Creature,Legendary,Light Warrior Kraken of the Haven
-27,Enchantment,Common,Lethargy
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Ghoul
-30,Spell,Legendary,Extreme Reanimate
-31,Spell,Rare,Forged Gravitation
-32,Enchantment,Mythic,Extreme Invert
-33,Creature,Common,Eagle
-34,Creature,Legendary,Aura Merchant Cyclops of the Arctic Blizzards
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Frigid Lethargy
-37,Creature,Common,Ghoul
-38,Spell,Common,Stricken
-39,Creature,Legendary,Dark King Giant of the Swamp
-40,Spell,Common,Vortex
-41,Spell,Common,Stricken
-42,Spell,Legendary,Extreme Burn
-43,Creature,Mythic,Death Chaos Demon of the Dead
-44,Enchantment,Legendary,Angry Age
+==================,DECK,5609
+0,Creature,Frozen Monk Hydra
+1,Enchantment,Forged Deathgrip
+2,Creature,Berserker
+3,Artifact,Gloves
+4,Creature,Wolf
+5,Artifact,Bow
+6,Creature,Skin-Walker
+7,Enchantment,Shrink
+8,Creature,Skin-Walker
+9,Spell,Vortex
+10,Creature,Skin-Walker
+11,Spell,Heal
+12,Enchantment,Urgent Lunar Flight
+13,Creature,Dark Fighter Kraken
+14,Enchantment,Blight
+15,Creature,Wolf
+16,Spell,Rage
+17,Spell,Maelstrom
+18,Creature,Fairy
+19,Creature,Snow Lord Griffin
+20,Enchantment,Alacrity
+21,Artifact,Oblivion Scythe
+22,Enchantment,Dire Chimeric Firebreath
+23,Spell,Infuriate
+24,Enchantment,Alacrity
+25,Spell,Tempest
+26,Creature,Light Warrior Ogre of the Haven
+27,Enchantment,Agony
+28,Enchantment,Age
+29,Creature,Ghoul
+30,Spell,Clever Dark Vortex
+31,Spell,Gloom Pandemonium
+32,Enchantment,Instant Sorrow Shrink
+33,Creature,Eagle
+34,Creature,Aura Merchant Giant of the Arctic Blizzards
+35,Creature,Troll
+36,Enchantment,Grim Drain
+37,Creature,Ghoul
+38,Spell,Fire
+39,Creature,Dark King Dwarf of the Swamp
+40,Spell,Gravitation
+41,Spell,Stricken
+42,Spell,Zealous Cataclysmic Invisibility
+43,Creature,Death Chaos Demon of the Dead
+44,Enchantment,Mighty Gloom Flight

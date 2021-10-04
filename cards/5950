@@ -1,46 +1,46 @@
-==================,DECK,5950,Light
-0,Creature,Common,Wolf
-1,Artifact,Common,Greaves
-2,Creature,Common,Goblin
-3,Spell,Rare,Grim Frenzy
-4,Enchantment,Common,Shade
-5,Creature,Mythic,Dark Undead Phoenix of Illusion
-6,Creature,Common,Ghoul
-7,Spell,Rare,Nimble Assault
-8,Spell,Common,Burn
-9,Enchantment,Rare,Life Age
-10,Enchantment,Legendary,Angry Flight
-11,Enchantment,Common,Deathgrip
-12,Spell,Common,Stricken
-13,Artifact,Legendary,Potent Helm
-14,Creature,Mythic,Light Chaos Wizard of the Sky
-15,Spell,Common,Vortex
-16,Creature,Rare,Dark Priest Hydra
-17,Creature,Common,Orc
-18,Creature,Common,Spider
-19,Creature,Common,Warlock
-20,Creature,Legendary,Frozen Rogue Oni of the Border
-21,Artifact,Common,Shield
-22,Creature,Common,Orc
-23,Spell,Common,Frenzy
-24,Enchantment,Common,Drain
-25,Creature,Common,Elf
-26,Enchantment,Rare,Dark Shield
-27,Spell,Common,Ice
-28,Creature,Common,Ghoul
-29,Spell,Common,Invisibility
-30,Creature,Common,Spider
-31,Creature,Common,Warlock
-32,Creature,Common,Elf
-33,Enchantment,Common,Strength
-34,Creature,Common,Eagle
-35,Spell,Rare,Lunar Gale
-36,Creature,Common,Ghoul
-37,Creature,Common,Warlock
-38,Enchantment,Mythic,Clever Shade
-39,Enchantment,Common,Lethargy
-40,Enchantment,Common,Deathgrip
-41,Creature,Rare,Earth Thief Skin-Walker
-42,Creature,Rare,Death Monk Berserker
-43,Enchantment,Mythic,Extreme Shield
-44,Creature,Rare,Dark Priest Berserker
+==================,DECK,5950
+0,Creature,Wolf
+1,Artifact,Greaves
+2,Creature,Skin-Walker
+3,Spell,Nimble Burst
+4,Enchantment,Deathgrip
+5,Creature,Dark Undead Phoenix of Illusion
+6,Creature,Ghoul
+7,Spell,Nature Burst
+8,Spell,Revive
+9,Enchantment,Victory Haste
+10,Enchantment,Potent Lunar Shrink
+11,Enchantment,Shade
+12,Spell,Revive
+13,Artifact,Empyrean Apocalypse Helm
+14,Creature,Light Chaos Wizard of the Sky
+15,Spell,Fire
+16,Creature,Dark Priest Hydra
+17,Creature,Spider
+18,Creature,Paladin
+19,Creature,Berserker
+20,Creature,Frozen Rogue Oni of the Border
+21,Artifact,Shield
+22,Creature,Spider
+23,Spell,Gale
+24,Enchantment,Firebreath
+25,Creature,Warlock
+26,Enchantment,Gloom Firebreath
+27,Spell,Sorrow
+28,Creature,Ghoul
+29,Spell,Stricken
+30,Creature,Paladin
+31,Creature,Berserker
+32,Creature,Warlock
+33,Enchantment,Strength
+34,Creature,Eagle
+35,Spell,Chimeric Frost
+36,Creature,Ghoul
+37,Creature,Berserker
+38,Enchantment,Dire Frigid Shade
+39,Enchantment,Firebreath
+40,Enchantment,Shield
+41,Creature,Earth Thief Orc
+42,Creature,Death Monk Goblin
+43,Enchantment,Instant Gloom Shrink
+44,Creature,Dark Priest Goblin

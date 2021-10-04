@@ -1,46 +1,46 @@
-==================,DECK,4655,Light
-0,Enchantment,Common,Shade
-1,Enchantment,Common,Alacrity
-2,Creature,Common,Ghoul
-3,Creature,Mythic,Light Undead Dragon of the Sky
-4,Creature,Common,Eagle
-5,Enchantment,Common,Blight
-6,Creature,Common,Wolf
-7,Creature,Common,Eagle
-8,Creature,Legendary,Snow Merchant Kraken of the Magical Forest
-9,Creature,Legendary,Dark Fighter Giant of the Magical Forest
-10,Creature,Common,Spider
-11,Artifact,Common,Ring
-12,Creature,Rare,Earth Priest Skin-Walker
-13,Enchantment,Rare,Shimmering Blight
-14,Enchantment,Common,Deathgrip
-15,Creature,Rare,Frozen Rogue Berserker
-16,Creature,Common,Elf
-17,Artifact,Legendary,Extreme Helmet
-18,Enchantment,Common,Invert
-19,Creature,Rare,Light Thief Hydra
-20,Creature,Common,Spider
-21,Creature,Rare,Snow King Minotaur
-22,Enchantment,Common,Invert
-23,Creature,Common,Ghoul
-24,Creature,Legendary,Death Thief Cyclops of the Swamp
-25,Spell,Common,Torment
-26,Spell,Common,Revive
-27,Creature,Common,Orc
-28,Creature,Common,Warlock
-29,Creature,Mythic,Aura Nameless Phoenix of the Light
-30,Creature,Common,Spider
-31,Enchantment,Common,Agony
-32,Creature,Legendary,Dark Lord Cyclops of the Low Hills
-33,Creature,Rare,Death Undead Skin-Walker
-34,Enchantment,Common,Deathgrip
-35,Creature,Legendary,Dark King Kraken of the Eastern Skies
-36,Enchantment,Common,Shrink
-37,Enchantment,Common,Invert
-38,Creature,Rare,Light Fighter Hydra
-39,Creature,Rare,Light King Fairy
-40,Enchantment,Mythic,Angry Shrink
-41,Enchantment,Common,Age
-42,Creature,Rare,Dark Assassin Skin-Walker
-43,Creature,Common,Magi
-44,Enchantment,Common,Drain
+==================,DECK,4655
+0,Enchantment,Firebreath
+1,Enchantment,Agony
+2,Creature,Ghoul
+3,Creature,Light Undead Dragon of the Sky
+4,Creature,Eagle
+5,Enchantment,Lethargy
+6,Creature,Wolf
+7,Creature,Eagle
+8,Creature,Snow Merchant Ogre of the Magical Forest
+9,Creature,Dark Fighter Dwarf of the Magical Forest
+10,Creature,Paladin
+11,Artifact,Ring
+12,Creature,Earth Priest Orc
+13,Enchantment,Solar Age
+14,Enchantment,Shield
+15,Creature,Frozen Rogue Goblin
+16,Creature,Warlock
+17,Artifact,Zealous Miracle Helmet
+18,Enchantment,Shade
+19,Creature,Light Thief Hydra
+20,Creature,Paladin
+21,Creature,Snow King Cyclops
+22,Enchantment,Invert
+23,Creature,Ghoul
+24,Creature,Death Thief Giant of the Swamp
+25,Spell,Maelstrom
+26,Spell,Ice
+27,Creature,Spider
+28,Creature,Berserker
+29,Creature,Aura Nameless Phoenix of the Light
+30,Creature,Paladin
+31,Enchantment,Firebreath
+32,Creature,Dark Lord Giant of the Low Hills
+33,Creature,Death Undead Orc
+34,Enchantment,Firebreath
+35,Creature,Dark King Ogre of the Eastern Skies
+36,Enchantment,Deathgrip
+37,Enchantment,Flight
+38,Creature,Light Fighter Hydra
+39,Creature,Light King Kraken
+40,Enchantment,Empyrean Chimeric Firebreath
+41,Enchantment,Shrink
+42,Creature,Dark Assassin Orc
+43,Creature,Fairy
+44,Enchantment,Lethargy

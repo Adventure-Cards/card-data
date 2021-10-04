@@ -1,46 +1,46 @@
-==================,DECK,7515,Light
-0,Spell,Common,Frost
-1,Spell,Common,Revive
-2,Creature,Common,Spider
-3,Artifact,Common,Staff
-4,Enchantment,Common,Shrink
-5,Artifact,Legendary,Urgent Greaves
-6,Creature,Common,Magi
-7,Creature,Common,Dwarf
-8,Spell,Common,Gale
-9,Creature,Common,Magi
-10,Creature,Legendary,Light Rogue Giant of the Magical Forest
-11,Spell,Legendary,Urgent Reanimate
-12,Enchantment,Common,Strength
-13,Creature,Legendary,Dark Warrior Oni of the Plains
-14,Creature,Legendary,Death Lord Cyclops of the Golden Palace
-15,Creature,Common,Eagle
-16,Enchantment,Rare,Shimmering Deathgrip
-17,Creature,Common,Paladin
-18,Creature,Common,Paladin
-19,Artifact,Common,Sword
-20,Artifact,Common,Pendant
-21,Enchantment,Common,Drain
-22,Enchantment,Mythic,Potent Invert
-23,Creature,Common,Elf
-24,Creature,Common,Spider
-25,Artifact,Rare,Dark Staff
-26,Creature,Mythic,Death Time Dragon of the Dead
-27,Creature,Mythic,Aura Ancient Wizard of the Light
-28,Creature,Rare,Frozen Merchant Skin-Walker
-29,Enchantment,Common,Haste
-30,Creature,Common,Orc
-31,Spell,Common,Lightning
-32,Creature,Common,Magi
-33,Creature,Mythic,Dark Chaos Wizard of Illusion
-34,Enchantment,Rare,Apocalypse Blight
-35,Spell,Rare,Apocalypse Burst
-36,Creature,Common,Wolf
-37,Spell,Common,Heal
-38,Enchantment,Rare,Life Shrink
-39,Creature,Common,Elf
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Shrink
-42,Enchantment,Common,Alacrity
-43,Creature,Common,Elf
-44,Creature,Legendary,Earth Monk Giant of the Black Stone
+==================,DECK,7515
+0,Spell,Lightning
+1,Spell,Gale
+2,Creature,Paladin
+3,Artifact,Staff
+4,Enchantment,Drain
+5,Artifact,Urgent Necro Greaves
+6,Creature,Fairy
+7,Creature,Magi
+8,Spell,Fury
+9,Creature,Fairy
+10,Creature,Light Rogue Dwarf of the Magical Forest
+11,Spell,Potent Solar Tempest
+12,Enchantment,Haste
+13,Creature,Dark Warrior Oni of the Plains
+14,Creature,Death Lord Giant of the Golden Palace
+15,Creature,Eagle
+16,Enchantment,Shimmering Lethargy
+17,Creature,Troll
+18,Creature,Troll
+19,Artifact,Sword
+20,Artifact,Pendant
+21,Enchantment,Shade
+22,Enchantment,Ardent Oblivion Haste
+23,Creature,Warlock
+24,Creature,Paladin
+25,Artifact,Gloom Staff
+26,Creature,Death Time Dragon of the Dead
+27,Creature,Aura Ancient Wizard of the Light
+28,Creature,Frozen Merchant Orc
+29,Enchantment,Shield
+30,Creature,Spider
+31,Spell,Frenzy
+32,Creature,Fairy
+33,Creature,Dark Chaos Wizard of Illusion
+34,Enchantment,Nimble Invert
+35,Spell,Apocalypse Hypnosis
+36,Creature,Wolf
+37,Spell,Stun
+38,Enchantment,Frigid Drain
+39,Creature,Warlock
+40,Creature,Magi
+41,Enchantment,Firebreath
+42,Enchantment,Shrink
+43,Creature,Warlock
+44,Creature,Earth Monk Dwarf of the Black Stone

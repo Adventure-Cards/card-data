@@ -1,46 +1,46 @@
-==================,DECK,7407,Medium
-0,Enchantment,Common,Shade
-1,Creature,Rare,Frozen Assassin Berserker
-2,Spell,Common,Invisibility
-3,Creature,Common,Spider
-4,Creature,Common,Goblin
-5,Spell,Common,Frost
-6,Enchantment,Mythic,Mighty Alacrity
-7,Creature,Legendary,Earth Fighter Giant of the Border
-8,Creature,Common,Ghoul
-9,Creature,Legendary,Death Undead Kraken of the Eternal Land
-10,Spell,Legendary,Mighty Stun
-11,Creature,Rare,Snow Queen Griffin
-12,Spell,Rare,Dark Gravitation
-13,Creature,Common,Magi
-14,Creature,Rare,Aura Merchant Hydra
-15,Creature,Common,Ghoul
-16,Spell,Rare,Forged Frost
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Invert
-19,Creature,Common,Elf
-20,Artifact,Rare,Necro Bracers
-21,Enchantment,Common,Blight
-22,Creature,Legendary,Dark Priest Orge of the Polar Woods
-23,Creature,Rare,Snow Undead Minotaur
-24,Enchantment,Common,Agony
-25,Creature,Rare,Snow Fighter Berserker
-26,Enchantment,Rare,Dark Invert
-27,Creature,Rare,Snow Assassin Fairy
-28,Creature,Common,Goblin
-29,Creature,Common,Spider
-30,Spell,Common,Burn
-31,Creature,Rare,Aura Lord Skin-Walker
-32,Spell,Common,Ice
-33,Creature,Common,Ghoul
-34,Creature,Common,Ghoul
-35,Creature,Legendary,Dark Lord Oni of the Haven
-36,Creature,Rare,Aura Merchant Fairy
-37,Creature,Common,Eagle
-38,Spell,Mythic,Dire Gravitation
-39,Creature,Legendary,Dark Thief Oni of the Eternal Land
-40,Creature,Common,Goblin
-41,Spell,Rare,Life Fury
-42,Creature,Rare,Aura Knight Berserker
-43,Creature,Mythic,Death Time Phoenix of the Dead
-44,Creature,Common,Elf
+==================,DECK,7407
+0,Enchantment,Shade
+1,Creature,Frozen Assassin Goblin
+2,Spell,Tempest
+3,Creature,Paladin
+4,Creature,Skin-Walker
+5,Spell,Vortex
+6,Enchantment,Dire Dark Firebreath
+7,Creature,Earth Fighter Dwarf of the Border
+8,Creature,Ghoul
+9,Creature,Death Undead Ogre of the Eternal Land
+10,Spell,Zealous Gloom Tempest
+11,Creature,Snow Queen Griffin
+12,Spell,Chimeric Sorrow
+13,Creature,Fairy
+14,Creature,Aura Merchant Hydra
+15,Creature,Ghoul
+16,Spell,Gloom Revive
+17,Enchantment,Strength
+18,Enchantment,Lethargy
+19,Creature,Warlock
+20,Artifact,Corpse Bracers
+21,Enchantment,Agony
+22,Creature,Dark Priest Elf of the Polar Woods
+23,Creature,Snow Undead Cyclops
+24,Enchantment,Firebreath
+25,Creature,Snow Fighter Goblin
+26,Enchantment,Sorrow Shrink
+27,Creature,Snow Assassin Kraken
+28,Creature,Skin-Walker
+29,Creature,Paladin
+30,Spell,Sorrow
+31,Creature,Aura Lord Orc
+32,Spell,Heal
+33,Creature,Ghoul
+34,Creature,Ghoul
+35,Creature,Dark Lord Oni of the Haven
+36,Creature,Aura Merchant Kraken
+37,Creature,Eagle
+38,Spell,Instant Grim Burn
+39,Creature,Dark Thief Oni of the Eternal Land
+40,Creature,Skin-Walker
+41,Spell,Life Rage
+42,Creature,Aura Knight Goblin
+43,Creature,Death Time Phoenix of the Dead
+44,Creature,Warlock

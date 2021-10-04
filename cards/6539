@@ -1,46 +1,46 @@
-==================,DECK,6539,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Burn
-2,Creature,Mythic,Frozen Time Dragon of the Void
-3,Spell,Common,Infuriate
-4,Creature,Common,Eagle
-5,Spell,Common,Fury
-6,Artifact,Rare,Oblivion Ghost Wand
-7,Artifact,Rare,Forged Amulet
-8,Creature,Legendary,Earth Monk Cyclops of the Black Stone
-9,Enchantment,Common,Shade
-10,Creature,Common,Paladin
-11,Enchantment,Rare,Grim Shield
-12,Creature,Common,Orc
-13,Creature,Common,Orc
-14,Creature,Common,Elf
-15,Spell,Common,Maelstrom
-16,Creature,Common,Warlock
-17,Spell,Rare,Oblivion Rage
-18,Creature,Rare,Dark Warrior Skin-Walker
-19,Enchantment,Common,Haste
-20,Spell,Common,Burst
-21,Creature,Rare,Snow Priest Minotaur
-22,Enchantment,Common,Haste
-23,Creature,Common,Elf
-24,Creature,Rare,Dark King Berserker
-25,Enchantment,Common,Age
-26,Artifact,Common,Ghost Wand
-27,Enchantment,Common,Shade
-28,Creature,Common,Orc
-29,Creature,Common,Wolf
-30,Creature,Rare,Earth Monk Minotaur
-31,Spell,Common,Ice
-32,Spell,Legendary,Intense Burn
-33,Creature,Legendary,Dark Monk Kraken of the Low Hills
-34,Creature,Common,Paladin
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Drain
-37,Creature,Rare,Earth Monk Skin-Walker
-38,Creature,Common,Goblin
-39,Spell,Common,Sorrow
-40,Enchantment,Mythic,Angry Lethargy
-41,Artifact,Rare,Lunar Greaves
-42,Spell,Common,Reanimate
-43,Spell,Common,Vortex
-44,Enchantment,Common,Lethargy
+==================,DECK,6539
+0,Creature,Eagle
+1,Spell,Fireball
+2,Creature,Frozen Time Dragon of the Void
+3,Spell,Torment
+4,Creature,Eagle
+5,Spell,Burn
+6,Artifact,Oblivion Ghost Wand
+7,Artifact,Lunar Amulet
+8,Creature,Earth Monk Giant of the Black Stone
+9,Enchantment,Age
+10,Creature,Troll
+11,Enchantment,Victory Shade
+12,Creature,Spider
+13,Creature,Spider
+14,Creature,Warlock
+15,Spell,Burst
+16,Creature,Berserker
+17,Spell,Frigid Stun
+18,Creature,Dark Warrior Orc
+19,Enchantment,Blight
+20,Spell,Lightning
+21,Creature,Snow Priest Cyclops
+22,Enchantment,Flight
+23,Creature,Warlock
+24,Creature,Dark King Goblin
+25,Enchantment,Alacrity
+26,Artifact,Ghost Wand
+27,Enchantment,Firebreath
+28,Creature,Spider
+29,Creature,Wolf
+30,Creature,Earth Monk Cyclops
+31,Spell,Revive
+32,Spell,Mighty Solar Pandemonium
+33,Creature,Dark Monk Ogre of the Low Hills
+34,Creature,Troll
+35,Creature,Ghoul
+36,Enchantment,Alacrity
+37,Creature,Earth Monk Orc
+38,Creature,Skin-Walker
+39,Spell,Wall
+40,Enchantment,Urgent Lunar Flight
+41,Artifact,Gloom Greaves
+42,Spell,Vortex
+43,Spell,Gravitation
+44,Enchantment,Flight

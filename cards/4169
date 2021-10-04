@@ -1,46 +1,46 @@
-==================,DECK,4169,Light
-0,Spell,Common,Reanimate
-1,Creature,Common,Paladin
-2,Creature,Rare,Frozen Priest Skin-Walker
-3,Spell,Common,Torment
-4,Creature,Legendary,Light Knight Oni of the Low Hills
-5,Spell,Legendary,Potent Torment
-6,Spell,Common,Freeze
-7,Enchantment,Common,Strength
-8,Artifact,Rare,Solar Potion
-9,Spell,Common,Invisibility
-10,Creature,Common,Goblin
-11,Creature,Common,Elf
-12,Enchantment,Common,Invert
-13,Spell,Common,Frost
-14,Creature,Common,Magi
-15,Creature,Common,Dwarf
-16,Creature,Common,Magi
-17,Artifact,Common,Sigil
-18,Spell,Rare,Necro Burn
-19,Creature,Rare,Light Thief Minotaur
-20,Creature,Mythic,Frozen Ancient Demon of the Void
-21,Creature,Common,Warlock
-22,Creature,Rare,Snow King Fairy
-23,Creature,Common,Warlock
-24,Enchantment,Common,Age
-25,Creature,Rare,Snow Lord Fairy
-26,Spell,Common,Sorrow
-27,Creature,Legendary,Aura Knight Cyclops of the Golden Palace
-28,Enchantment,Legendary,Clever Drain
-29,Spell,Common,Burn
-30,Creature,Common,Eagle
-31,Creature,Common,Wolf
-32,Enchantment,Common,Age
-33,Creature,Rare,Frozen Undead Hydra
-34,Creature,Common,Spider
-35,Enchantment,Common,Drain
-36,Creature,Common,Eagle
-37,Enchantment,Common,Lethargy
-38,Creature,Common,Paladin
-39,Creature,Rare,Frozen Lord Minotaur
-40,Artifact,Common,Helm
-41,Enchantment,Legendary,Potent Agony
-42,Creature,Common,Spider
-43,Creature,Rare,Death Priest Skin-Walker
-44,Creature,Mythic,Aura Time Phoenix of the Light
+==================,DECK,4169
+0,Spell,Invisibility
+1,Creature,Troll
+2,Creature,Frozen Priest Orc
+3,Spell,Pandemonium
+4,Creature,Light Knight Oni of the Low Hills
+5,Spell,Urgent Life Vortex
+6,Spell,Ice
+7,Enchantment,Firebreath
+8,Artifact,Nature Potion
+9,Spell,Ice
+10,Creature,Skin-Walker
+11,Creature,Warlock
+12,Enchantment,Drain
+13,Spell,Fire
+14,Creature,Fairy
+15,Creature,Magi
+16,Creature,Fairy
+17,Artifact,Sigil
+18,Spell,Shimmering Vortex
+19,Creature,Light Thief Cyclops
+20,Creature,Frozen Ancient Demon of the Void
+21,Creature,Berserker
+22,Creature,Snow King Kraken
+23,Creature,Berserker
+24,Enchantment,Flight
+25,Creature,Snow Lord Kraken
+26,Spell,Wall
+27,Creature,Aura Knight Giant of the Golden Palace
+28,Enchantment,Mighty Apocalypse Invert
+29,Spell,Revive
+30,Creature,Eagle
+31,Creature,Wolf
+32,Enchantment,Flight
+33,Creature,Frozen Undead Hydra
+34,Creature,Paladin
+35,Enchantment,Shade
+36,Creature,Eagle
+37,Enchantment,Flight
+38,Creature,Troll
+39,Creature,Frozen Lord Cyclops
+40,Artifact,Helm
+41,Enchantment,Irate Life Blight
+42,Creature,Paladin
+43,Creature,Death Priest Orc
+44,Creature,Aura Time Phoenix of the Light

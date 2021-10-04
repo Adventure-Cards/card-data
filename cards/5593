@@ -1,46 +1,46 @@
-==================,DECK,5593,Strong
-0,Spell,Rare,Nimble Revive
-1,Artifact,Common,Scepter
-2,Artifact,Rare,Shimmering Potion
-3,Creature,Common,Wolf
-4,Spell,Common,Infuriate
-5,Creature,Common,Goblin
-6,Creature,Common,Warlock
-7,Creature,Common,Paladin
-8,Artifact,Common,Scythe
-9,Creature,Rare,Light Warrior Hydra
-10,Spell,Common,Gravitation
-11,Creature,Mythic,Frozen Undead Phoenix of the Void
-12,Enchantment,Common,Lethargy
-13,Spell,Common,Maelstrom
-14,Artifact,Common,Ring
-15,Creature,Common,Warlock
-16,Creature,Mythic,Frozen Chaos Wizard of the Void
-17,Enchantment,Legendary,Clever Flight
-18,Creature,Common,Spider
-19,Creature,Legendary,Dark King Cyclops of the Eternal Land
-20,Enchantment,Common,Drain
-21,Creature,Rare,Dark Assassin Griffin
-22,Spell,Mythic,Angry Infuriate
-23,Enchantment,Common,Shade
-24,Artifact,Rare,Nature Gauntlet
-25,Spell,Common,Stun
-26,Artifact,Legendary,Extreme Ring
-27,Enchantment,Common,Flight
-28,Creature,Rare,Dark Merchant Berserker
-29,Artifact,Common,Helmet
-30,Creature,Legendary,Death Rogue Cyclops of the Black Stone
-31,Creature,Rare,Aura Thief Skin-Walker
-32,Creature,Common,Goblin
-33,Spell,Common,Wall
-34,Creature,Legendary,Aura Warrior Orge of the Bright Mountains
-35,Spell,Common,Heal
-36,Enchantment,Rare,Necro Deathgrip
-37,Creature,Common,Wolf
-38,Spell,Common,Torment
-39,Artifact,Common,Boots
-40,Enchantment,Common,Alacrity
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Elf
-43,Creature,Mythic,Frozen Nameless Phoenix of the Void
-44,Enchantment,Common,Lethargy
+==================,DECK,5593
+0,Spell,Forged Revive
+1,Artifact,Scepter
+2,Artifact,Hateful Potion
+3,Creature,Wolf
+4,Spell,Pandemonium
+5,Creature,Skin-Walker
+6,Creature,Berserker
+7,Creature,Troll
+8,Artifact,Scythe
+9,Creature,Light Warrior Hydra
+10,Spell,Sorrow
+11,Creature,Frozen Undead Phoenix of the Void
+12,Enchantment,Flight
+13,Spell,Fireball
+14,Artifact,Ring
+15,Creature,Berserker
+16,Creature,Frozen Chaos Wizard of the Void
+17,Enchantment,Zealous Grim Blight
+18,Creature,Paladin
+19,Creature,Dark King Giant of the Eternal Land
+20,Enchantment,Shield
+21,Creature,Dark Assassin Griffin
+22,Spell,Mighty Gloom Stricken
+23,Enchantment,Shrink
+24,Artifact,Necro Gauntlet
+25,Spell,Fireball
+26,Artifact,Ardent Sorrow Ring
+27,Enchantment,Shrink
+28,Creature,Dark Merchant Goblin
+29,Artifact,Helmet
+30,Creature,Death Rogue Giant of the Black Stone
+31,Creature,Aura Thief Orc
+32,Creature,Skin-Walker
+33,Spell,Infuriate
+34,Creature,Aura Warrior Elf of the Bright Mountains
+35,Spell,Revive
+36,Enchantment,Shimmering Lethargy
+37,Creature,Wolf
+38,Spell,Reanimate
+39,Artifact,Boots
+40,Enchantment,Deathgrip
+41,Enchantment,Agony
+42,Creature,Warlock
+43,Creature,Frozen Nameless Phoenix of the Void
+44,Enchantment,Strength

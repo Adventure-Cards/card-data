@@ -1,46 +1,46 @@
-==================,DECK,7477,Light
-0,Creature,Mythic,Frozen Nameless Dragon of the Void
-1,Creature,Common,Paladin
-2,Artifact,Common,Crown
-3,Creature,Legendary,Death Thief Oni of the Bright Mountains
-4,Creature,Common,Magi
-5,Creature,Common,Warlock
-6,Artifact,Rare,Grim Greaves
-7,Creature,Common,Warlock
-8,Creature,Common,Warlock
-9,Creature,Rare,Snow Fighter Fairy
-10,Spell,Common,Rage
-11,Creature,Common,Dwarf
-12,Enchantment,Mythic,Intense Age
-13,Creature,Legendary,Light King Oni of the Magical Forest
-14,Creature,Common,Spider
-15,Enchantment,Common,Age
-16,Spell,Common,Frost
-17,Spell,Common,Stun
-18,Enchantment,Common,Shield
-19,Spell,Common,Burn
-20,Enchantment,Rare,Gloom Invert
-21,Creature,Common,Orc
-22,Spell,Legendary,Intense Lightning
-23,Spell,Common,Freeze
-24,Spell,Common,Assault
-25,Creature,Legendary,Aura Knight Kraken of the Magical Forest
-26,Creature,Common,Elf
-27,Spell,Common,Hypnosis
-28,Creature,Common,Elf
-29,Creature,Mythic,Death Nameless Phoenix of the Dead
-30,Artifact,Common,Greaves
-31,Creature,Common,Goblin
-32,Artifact,Common,Gauntlet
-33,Spell,Rare,Solar Heal
-34,Creature,Common,Warlock
-35,Creature,Legendary,Dark Warrior Giant of the Golden Palace
-36,Creature,Rare,Death King Minotaur
-37,Artifact,Common,Gloves
-38,Spell,Common,Stun
-39,Spell,Rare,Grim Invisibility
-40,Creature,Legendary,Earth Monk Oni of the West
-41,Creature,Common,Magi
-42,Spell,Common,Assault
-43,Creature,Common,Wolf
-44,Creature,Rare,Aura Queen Skin-Walker
+==================,DECK,7477
+0,Creature,Frozen Nameless Dragon of the Void
+1,Creature,Troll
+2,Artifact,Crown
+3,Creature,Death Thief Oni of the Bright Mountains
+4,Creature,Fairy
+5,Creature,Berserker
+6,Artifact,Nimble Greaves
+7,Creature,Berserker
+8,Creature,Berserker
+9,Creature,Snow Fighter Kraken
+10,Spell,Stricken
+11,Creature,Magi
+12,Enchantment,Mighty Nature Agony
+13,Creature,Light King Oni of the Magical Forest
+14,Creature,Paladin
+15,Enchantment,Shade
+16,Spell,Frost
+17,Spell,Frenzy
+18,Enchantment,Flight
+19,Spell,Stricken
+20,Enchantment,Sorrow Flight
+21,Creature,Spider
+22,Spell,Dire Nature Sorrow
+23,Spell,Stun
+24,Spell,Frenzy
+25,Creature,Aura Knight Ogre of the Magical Forest
+26,Creature,Warlock
+27,Spell,Invisibility
+28,Creature,Warlock
+29,Creature,Death Nameless Phoenix of the Dead
+30,Artifact,Greaves
+31,Creature,Skin-Walker
+32,Artifact,Gauntlet
+33,Spell,Corpse Burn
+34,Creature,Berserker
+35,Creature,Dark Warrior Dwarf of the Golden Palace
+36,Creature,Death King Cyclops
+37,Artifact,Gloves
+38,Spell,Gravitation
+39,Spell,Nimble Burn
+40,Creature,Earth Monk Oni of the West
+41,Creature,Fairy
+42,Spell,Heal
+43,Creature,Wolf
+44,Creature,Aura Queen Orc

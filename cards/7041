@@ -1,46 +1,46 @@
-==================,DECK,7041,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Gravitation
-2,Artifact,Common,Scythe
-3,Spell,Common,Reanimate
-4,Artifact,Common,Scepter
-5,Spell,Rare,Forged Torment
-6,Spell,Legendary,Instant Infuriate
-7,Enchantment,Common,Agony
-8,Spell,Rare,Frigid Invisibility
-9,Creature,Common,Goblin
-10,Creature,Rare,Light Merchant Griffin
-11,Creature,Common,Magi
-12,Creature,Legendary,Snow Warrior Orge of the Eastern Skies
-13,Creature,Common,Spider
-14,Creature,Rare,Aura Merchant Hydra
-15,Creature,Common,Elf
-16,Creature,Common,Wolf
-17,Creature,Common,Goblin
-18,Spell,Common,Gravitation
-19,Enchantment,Rare,Necro Blight
-20,Creature,Legendary,Dark Priest Giant of the Frozen Castle
-21,Spell,Common,Fury
-22,Creature,Common,Goblin
-23,Creature,Rare,Earth Assassin Griffin
-24,Spell,Common,Torment
-25,Enchantment,Rare,Solar Shade
-26,Enchantment,Rare,Grim Lethargy
-27,Enchantment,Mythic,Extreme Invert
-28,Creature,Rare,Light Warrior Minotaur
-29,Artifact,Common,Ghost Wand
-30,Creature,Common,Paladin
-31,Creature,Common,Elf
-32,Creature,Common,Warlock
-33,Artifact,Legendary,Dire Bow
-34,Enchantment,Common,Age
-35,Creature,Rare,Death Queen Griffin
-36,Creature,Common,Spider
-37,Spell,Common,Sorrow
-38,Spell,Rare,Shimmering Pandemonium
-39,Enchantment,Rare,Oblivion Agony
-40,Creature,Common,Spider
-41,Enchantment,Rare,Hateful Drain
-42,Enchantment,Common,Flight
-43,Creature,Common,Warlock
-44,Creature,Common,Wolf
+==================,DECK,7041
+0,Creature,Troll
+1,Spell,Assault
+2,Artifact,Scythe
+3,Spell,Tempest
+4,Artifact,Scepter
+5,Spell,Chimeric Revive
+6,Spell,Zealous Forged Stun
+7,Enchantment,Alacrity
+8,Spell,Oblivion Stun
+9,Creature,Skin-Walker
+10,Creature,Light Merchant Griffin
+11,Creature,Fairy
+12,Creature,Snow Warrior Elf of the Eastern Skies
+13,Creature,Paladin
+14,Creature,Aura Merchant Hydra
+15,Creature,Warlock
+16,Creature,Wolf
+17,Creature,Skin-Walker
+18,Spell,Ice
+19,Enchantment,Solar Lethargy
+20,Creature,Dark Priest Dwarf of the Frozen Castle
+21,Spell,Heal
+22,Creature,Skin-Walker
+23,Creature,Earth Assassin Griffin
+24,Spell,Gale
+25,Enchantment,Necro Lethargy
+26,Enchantment,Grim Drain
+27,Enchantment,Ardent Sorrow Shield
+28,Creature,Light Warrior Cyclops
+29,Artifact,Ghost Wand
+30,Creature,Troll
+31,Creature,Warlock
+32,Creature,Berserker
+33,Artifact,Mighty Apocalypse Bow
+34,Enchantment,Strength
+35,Creature,Death Queen Griffin
+36,Creature,Paladin
+37,Spell,Heal
+38,Spell,Nature Tempest
+39,Enchantment,Life Shade
+40,Creature,Paladin
+41,Enchantment,Dark Shrink
+42,Enchantment,Age
+43,Creature,Berserker
+44,Creature,Wolf

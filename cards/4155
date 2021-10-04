@@ -1,46 +1,46 @@
-==================,DECK,4155,Light
-0,Creature,Common,Elf
-1,Creature,Rare,Dark Knight Berserker
-2,Artifact,Common,Bow
-3,Creature,Common,Warlock
-4,Creature,Common,Magi
-5,Creature,Common,Warlock
-6,Creature,Common,Orc
-7,Spell,Rare,Oblivion Vortex
-8,Spell,Common,Stricken
-9,Enchantment,Mythic,Angry Invert
-10,Artifact,Common,Sword
-11,Creature,Common,Magi
-12,Creature,Common,Orc
-13,Creature,Rare,Death Knight Skin-Walker
-14,Creature,Common,Warlock
-15,Enchantment,Common,Agony
-16,Creature,Common,Warlock
-17,Creature,Common,Elf
-18,Enchantment,Mythic,Dire Shade
-19,Enchantment,Mythic,Mighty Invert
-20,Creature,Common,Goblin
-21,Creature,Common,Orc
-22,Artifact,Rare,Shimmering Divine Robe
-23,Artifact,Common,Gloves
-24,Spell,Common,Burst
-25,Spell,Common,Burn
-26,Enchantment,Rare,Solar Agony
-27,Creature,Common,Ghoul
-28,Creature,Common,Warlock
-29,Enchantment,Common,Haste
-30,Spell,Rare,Life Burst
-31,Creature,Common,Magi
-32,Artifact,Common,Helm
-33,Enchantment,Rare,Miracle Drain
-34,Enchantment,Legendary,Clever Alacrity
-35,Creature,Common,Orc
-36,Creature,Common,Spider
-37,Creature,Rare,Frozen Monk Fairy
-38,Creature,Common,Orc
-39,Enchantment,Rare,Grim Shield
-40,Creature,Common,Ghoul
-41,Artifact,Legendary,Instant Gloves
-42,Spell,Rare,Solar Torment
-43,Creature,Rare,Snow Monk Griffin
-44,Creature,Common,Wolf
+==================,DECK,4155
+0,Creature,Warlock
+1,Creature,Dark Knight Goblin
+2,Artifact,Bow
+3,Creature,Berserker
+4,Creature,Fairy
+5,Creature,Berserker
+6,Creature,Spider
+7,Spell,Oblivion Rage
+8,Spell,Infuriate
+9,Enchantment,Instant Sorrow Shrink
+10,Artifact,Sword
+11,Creature,Fairy
+12,Creature,Spider
+13,Creature,Death Knight Orc
+14,Creature,Berserker
+15,Enchantment,Age
+16,Creature,Berserker
+17,Creature,Warlock
+18,Enchantment,Instant Frigid Drain
+19,Enchantment,Urgent Sorrow Flight
+20,Creature,Skin-Walker
+21,Creature,Spider
+22,Artifact,Hateful Divine Robe
+23,Artifact,Gloves
+24,Spell,Ice
+25,Spell,Tempest
+26,Enchantment,Corpse Lethargy
+27,Creature,Ghoul
+28,Creature,Berserker
+29,Enchantment,Firebreath
+30,Spell,Victory Invisibility
+31,Creature,Fairy
+32,Artifact,Helm
+33,Enchantment,Apocalypse Blight
+34,Enchantment,Instant Apocalypse Drain
+35,Creature,Spider
+36,Creature,Paladin
+37,Creature,Frozen Monk Kraken
+38,Creature,Spider
+39,Enchantment,Victory Shade
+40,Creature,Ghoul
+41,Artifact,Potent Forged Gloves
+42,Spell,Corpse Maelstrom
+43,Creature,Snow Monk Griffin
+44,Creature,Wolf

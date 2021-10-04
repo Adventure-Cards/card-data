@@ -1,46 +1,46 @@
-==================,DECK,4545,Light
-0,Creature,Legendary,Earth Knight Kraken of the West
-1,Artifact,Common,Helm
-2,Creature,Common,Goblin
-3,Enchantment,Rare,Cataclysmic Flight
-4,Enchantment,Common,Lethargy
-5,Enchantment,Rare,Nature Age
-6,Spell,Common,Freeze
-7,Creature,Common,Warlock
-8,Creature,Common,Goblin
-9,Creature,Common,Orc
-10,Creature,Common,Dwarf
-11,Enchantment,Rare,Nimble Shade
-12,Creature,Common,Eagle
-13,Spell,Rare,Life Pandemonium
-14,Enchantment,Rare,Forged Strength
-15,Creature,Common,Warlock
-16,Creature,Rare,Frozen Monk Fairy
-17,Creature,Common,Ghoul
-18,Artifact,Common,Tome
-19,Creature,Common,Ghoul
-20,Spell,Common,Freeze
-21,Enchantment,Mythic,Instant Drain
-22,Artifact,Common,Scythe
-23,Creature,Rare,Light Merchant Skin-Walker
-24,Creature,Common,Elf
-25,Enchantment,Common,Alacrity
-26,Creature,Common,Goblin
-27,Creature,Legendary,Snow Queen Oni of the Plains
-28,Spell,Common,Vortex
-29,Creature,Common,Dwarf
-30,Creature,Common,Wolf
-31,Spell,Rare,Corpse Frenzy
-32,Artifact,Common,Helm
-33,Creature,Common,Goblin
-34,Spell,Common,Rage
-35,Enchantment,Common,Haste
-36,Creature,Common,Spider
-37,Creature,Common,Elf
-38,Creature,Common,Ghoul
-39,Artifact,Rare,Shimmering Ring
-40,Creature,Common,Magi
-41,Creature,Common,Magi
-42,Artifact,Legendary,Clever Gauntlet
-43,Enchantment,Common,Strength
-44,Creature,Common,Spider
+==================,DECK,4545
+0,Creature,Earth Knight Ogre of the West
+1,Artifact,Helm
+2,Creature,Skin-Walker
+3,Enchantment,Lunar Shrink
+4,Enchantment,Shade
+5,Enchantment,Nature Agony
+6,Spell,Assault
+7,Creature,Berserker
+8,Creature,Skin-Walker
+9,Creature,Spider
+10,Creature,Magi
+11,Enchantment,Necro Deathgrip
+12,Creature,Eagle
+13,Spell,Grim Hypnosis
+14,Enchantment,Cataclysmic Alacrity
+15,Creature,Berserker
+16,Creature,Frozen Monk Kraken
+17,Creature,Ghoul
+18,Artifact,Tome
+19,Creature,Ghoul
+20,Spell,Revive
+21,Enchantment,Clever Forged Lethargy
+22,Artifact,Scythe
+23,Creature,Light Merchant Orc
+24,Creature,Warlock
+25,Enchantment,Agony
+26,Creature,Skin-Walker
+27,Creature,Snow Queen Oni of the Plains
+28,Spell,Revive
+29,Creature,Magi
+30,Creature,Wolf
+31,Spell,Nature Infuriate
+32,Artifact,Helm
+33,Creature,Skin-Walker
+34,Spell,Reanimate
+35,Enchantment,Lethargy
+36,Creature,Paladin
+37,Creature,Warlock
+38,Creature,Ghoul
+39,Artifact,Shimmering Ring
+40,Creature,Fairy
+41,Creature,Fairy
+42,Artifact,Clever Life Gauntlet
+43,Enchantment,Shrink
+44,Creature,Paladin

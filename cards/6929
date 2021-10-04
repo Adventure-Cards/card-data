@@ -1,46 +1,46 @@
-==================,DECK,6929,Medium
-0,Spell,Common,Sorrow
-1,Creature,Common,Wolf
-2,Creature,Rare,Aura Lord Berserker
-3,Creature,Rare,Light Rogue Skin-Walker
-4,Creature,Rare,Aura Undead Berserker
-5,Artifact,Rare,Necro Helmet
-6,Creature,Rare,Aura Queen Hydra
-7,Artifact,Legendary,Intense Scepter
-8,Creature,Common,Dwarf
-9,Creature,Common,Wolf
-10,Enchantment,Common,Drain
-11,Creature,Common,Orc
-12,Enchantment,Common,Lethargy
-13,Creature,Rare,Light Monk Griffin
-14,Creature,Common,Spider
-15,Creature,Rare,Snow Monk Berserker
-16,Creature,Common,Orc
-17,Enchantment,Common,Haste
-18,Spell,Common,Maelstrom
-19,Enchantment,Common,Invert
-20,Creature,Rare,Frozen Assassin Berserker
-21,Creature,Common,Paladin
-22,Creature,Rare,Dark Lord Berserker
-23,Spell,Rare,Life Pandemonium
-24,Spell,Common,Vortex
-25,Creature,Common,Goblin
-26,Spell,Common,Revive
-27,Spell,Common,Pandemonium
-28,Artifact,Legendary,Urgent Helm
-29,Enchantment,Legendary,Potent Strength
-30,Creature,Common,Warlock
-31,Enchantment,Common,Age
-32,Creature,Common,Dwarf
-33,Creature,Legendary,Aura Priest Oni of the Low Hills
-34,Creature,Legendary,Light Rogue Cyclops of the Border
-35,Enchantment,Common,Blight
-36,Creature,Legendary,Frozen Monk Giant of the Eastern Skies
-37,Artifact,Common,Boots
-38,Spell,Common,Lightning
-39,Artifact,Common,Scythe
-40,Spell,Mythic,Urgent Lightning
-41,Spell,Common,Stricken
-42,Spell,Common,Torment
-43,Artifact,Common,Cloak
-44,Spell,Rare,Cataclysmic Stricken
+==================,DECK,6929
+0,Spell,Stun
+1,Creature,Wolf
+2,Creature,Aura Lord Goblin
+3,Creature,Light Rogue Orc
+4,Creature,Aura Undead Goblin
+5,Artifact,Hateful Helmet
+6,Creature,Aura Queen Hydra
+7,Artifact,Potent Forged Scepter
+8,Creature,Magi
+9,Creature,Wolf
+10,Enchantment,Shade
+11,Creature,Spider
+12,Enchantment,Shade
+13,Creature,Light Monk Griffin
+14,Creature,Paladin
+15,Creature,Snow Monk Goblin
+16,Creature,Spider
+17,Enchantment,Shade
+18,Spell,Assault
+19,Enchantment,Drain
+20,Creature,Frozen Assassin Goblin
+21,Creature,Troll
+22,Creature,Dark Lord Goblin
+23,Spell,Victory Pandemonium
+24,Spell,Frost
+25,Creature,Skin-Walker
+26,Spell,Vortex
+27,Spell,Heal
+28,Artifact,Dire Corpse Helm
+29,Enchantment,Irate Nimble Blight
+30,Creature,Berserker
+31,Enchantment,Shrink
+32,Creature,Magi
+33,Creature,Aura Priest Oni of the Low Hills
+34,Creature,Light Rogue Giant of the Border
+35,Enchantment,Lethargy
+36,Creature,Frozen Monk Dwarf of the Eastern Skies
+37,Artifact,Boots
+38,Spell,Heal
+39,Artifact,Scythe
+40,Spell,Instant Forged Freeze
+41,Spell,Ice
+42,Spell,Gravitation
+43,Artifact,Cloak
+44,Spell,Sorrow Freeze

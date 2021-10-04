@@ -1,46 +1,46 @@
-==================,DECK,7736,Medium
-0,Creature,Legendary,Light Warrior Oni of the Polar Woods
-1,Enchantment,Mythic,Extreme Shade
-2,Creature,Common,Ghoul
-3,Enchantment,Rare,Dark Strength
-4,Creature,Common,Dwarf
-5,Spell,Rare,Grim Frost
-6,Creature,Rare,Earth Warrior Hydra
-7,Creature,Common,Spider
-8,Enchantment,Common,Drain
-9,Creature,Common,Orc
-10,Creature,Common,Eagle
-11,Artifact,Common,Gauntlet
-12,Creature,Legendary,Snow Rogue Cyclops of the Mountains
-13,Creature,Mythic,Aura Undead Phoenix of the Light
-14,Creature,Common,Elf
-15,Enchantment,Common,Blight
-16,Enchantment,Common,Haste
-17,Enchantment,Rare,Nature Age
-18,Spell,Common,Stricken
-19,Creature,Legendary,Earth Undead Cyclops of the Magical Forest
-20,Creature,Common,Spider
-21,Artifact,Common,Potion
-22,Creature,Common,Orc
-23,Creature,Common,Warlock
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Common,Blight
-26,Creature,Mythic,Death Grand Wizard of the Dead
-27,Artifact,Rare,Cataclysmic Shield
-28,Creature,Common,Ghoul
-29,Spell,Mythic,Intense Stun
-30,Creature,Legendary,Snow Priest Kraken of the Haven
-31,Enchantment,Common,Blight
-32,Creature,Rare,Earth Assassin Griffin
-33,Enchantment,Common,Age
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Haste
-36,Enchantment,Common,Agony
-37,Creature,Common,Magi
-38,Spell,Common,Wall
-39,Creature,Legendary,Earth Undead Oni of the Golden Palace
-40,Spell,Common,Frenzy
-41,Spell,Common,Gale
-42,Creature,Common,Dwarf
-43,Creature,Common,Dwarf
-44,Artifact,Common,Helmet
+==================,DECK,7736
+0,Creature,Light Warrior Oni of the Polar Woods
+1,Enchantment,Ardent Chimeric Shield
+2,Creature,Ghoul
+3,Enchantment,Cataclysmic Shrink
+4,Creature,Magi
+5,Spell,Nimble Pandemonium
+6,Creature,Earth Warrior Hydra
+7,Creature,Paladin
+8,Enchantment,Alacrity
+9,Creature,Spider
+10,Creature,Eagle
+11,Artifact,Gauntlet
+12,Creature,Snow Rogue Giant of the Mountains
+13,Creature,Aura Undead Phoenix of the Light
+14,Creature,Warlock
+15,Enchantment,Drain
+16,Enchantment,Flight
+17,Enchantment,Nature Agony
+18,Spell,Reanimate
+19,Creature,Earth Undead Giant of the Magical Forest
+20,Creature,Paladin
+21,Artifact,Potion
+22,Creature,Spider
+23,Creature,Berserker
+24,Enchantment,Shrink
+25,Enchantment,Shade
+26,Creature,Death Grand Wizard of the Dead
+27,Artifact,Cataclysmic Shield
+28,Creature,Ghoul
+29,Spell,Mighty Forged Freeze
+30,Creature,Snow Priest Ogre of the Haven
+31,Enchantment,Shade
+32,Creature,Earth Assassin Griffin
+33,Enchantment,Shrink
+34,Creature,Magi
+35,Enchantment,Shield
+36,Enchantment,Agony
+37,Creature,Fairy
+38,Spell,Frost
+39,Creature,Earth Undead Oni of the Golden Palace
+40,Spell,Gale
+41,Spell,Tempest
+42,Creature,Magi
+43,Creature,Magi
+44,Artifact,Helmet

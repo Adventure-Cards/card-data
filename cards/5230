@@ -1,46 +1,46 @@
-==================,DECK,5230,Light
-0,Creature,Common,Warlock
-1,Enchantment,Legendary,Dire Age
-2,Enchantment,Legendary,Angry Drain
-3,Creature,Common,Dwarf
-4,Enchantment,Legendary,Clever Shield
-5,Creature,Common,Warlock
-6,Artifact,Rare,Apocalypse Tome
-7,Creature,Rare,Light Monk Berserker
-8,Creature,Mythic,Earth Nameless Dragon of the Shadows
-9,Creature,Common,Orc
-10,Spell,Common,Stricken
-11,Creature,Common,Magi
-12,Spell,Rare,Hateful Sorrow
-13,Artifact,Rare,Miracle Scythe
-14,Enchantment,Legendary,Potent Deathgrip
-15,Spell,Common,Freeze
-16,Creature,Common,Goblin
-17,Creature,Common,Magi
-18,Spell,Legendary,Mighty Wall
-19,Creature,Rare,Aura Merchant Berserker
-20,Creature,Mythic,Snow Grand Wizard of Hate
-21,Spell,Common,Heal
-22,Enchantment,Common,Flight
-23,Creature,Rare,Snow Knight Hydra
-24,Creature,Rare,Earth Assassin Hydra
-25,Spell,Common,Stricken
-26,Creature,Common,Warlock
-27,Creature,Common,Paladin
-28,Creature,Legendary,Death King Giant of the Low Hills
-29,Spell,Common,Ice
-30,Spell,Common,Lightning
-31,Creature,Common,Paladin
-32,Artifact,Common,Crown
-33,Creature,Legendary,Dark Thief Orge of the Black Stone
-34,Creature,Common,Ghoul
-35,Spell,Common,Invisibility
-36,Enchantment,Legendary,Instant Drain
-37,Enchantment,Rare,Forged Shield
-38,Creature,Mythic,Snow Ancient Wizard of Hate
-39,Artifact,Common,Shield
-40,Enchantment,Rare,Nimble Shade
-41,Enchantment,Common,Haste
-42,Enchantment,Mythic,Mighty Shade
-43,Enchantment,Common,Deathgrip
-44,Enchantment,Rare,Apocalypse Deathgrip
+==================,DECK,5230
+0,Creature,Berserker
+1,Enchantment,Clever Victory Haste
+2,Enchantment,Potent Dark Shrink
+3,Creature,Magi
+4,Enchantment,Ardent Victory Haste
+5,Creature,Berserker
+6,Artifact,Oblivion Tome
+7,Creature,Light Monk Goblin
+8,Creature,Earth Nameless Dragon of the Shadows
+9,Creature,Spider
+10,Spell,Sorrow
+11,Creature,Fairy
+12,Spell,Cataclysmic Rage
+13,Artifact,Grim Scythe
+14,Enchantment,Mighty Oblivion Invert
+15,Spell,Revive
+16,Creature,Skin-Walker
+17,Creature,Fairy
+18,Spell,Ardent Dark Burst
+19,Creature,Aura Merchant Goblin
+20,Creature,Snow Grand Wizard of Hate
+21,Spell,Heal
+22,Enchantment,Shield
+23,Creature,Snow Knight Hydra
+24,Creature,Earth Assassin Hydra
+25,Spell,Pandemonium
+26,Creature,Berserker
+27,Creature,Troll
+28,Creature,Death King Dwarf of the Low Hills
+29,Spell,Invisibility
+30,Spell,Gravitation
+31,Creature,Troll
+32,Artifact,Crown
+33,Creature,Dark Thief Elf of the Black Stone
+34,Creature,Ghoul
+35,Spell,Assault
+36,Enchantment,Potent Forged Strength
+37,Enchantment,Gloom Alacrity
+38,Creature,Snow Ancient Wizard of Hate
+39,Artifact,Shield
+40,Enchantment,Necro Lethargy
+41,Enchantment,Shield
+42,Enchantment,Dire Chimeric Firebreath
+43,Enchantment,Shade
+44,Enchantment,Oblivion Invert

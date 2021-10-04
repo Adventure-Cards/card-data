@@ -1,46 +1,46 @@
-==================,DECK,6282,Medium
-0,Creature,Common,Goblin
-1,Creature,Rare,Dark King Hydra
-2,Creature,Legendary,Snow Queen Cyclops of the Arctic Blizzards
-3,Enchantment,Common,Shield
-4,Spell,Legendary,Urgent Wall
-5,Enchantment,Legendary,Instant Shrink
-6,Enchantment,Common,Age
-7,Creature,Legendary,Frozen Queen Oni of the Black Stone
-8,Spell,Rare,Frigid Rage
-9,Creature,Rare,Snow Rogue Hydra
-10,Artifact,Rare,Nature Helmet
-11,Creature,Legendary,Dark Fighter Orge of the West
-12,Spell,Common,Sorrow
-13,Creature,Legendary,Light Fighter Cyclops of the Bright Mountains
-14,Creature,Common,Goblin
-15,Creature,Common,Eagle
-16,Artifact,Rare,Lunar Cloak
-17,Creature,Common,Paladin
-18,Artifact,Common,Pendant
-19,Artifact,Common,Cloak
-20,Creature,Rare,Light Priest Hydra
-21,Creature,Common,Orc
-22,Creature,Common,Dwarf
-23,Enchantment,Rare,Miracle Haste
-24,Creature,Common,Dwarf
-25,Creature,Common,Wolf
-26,Artifact,Rare,Dark Gloves
-27,Spell,Common,Frenzy
-28,Creature,Common,Eagle
-29,Creature,Common,Paladin
-30,Enchantment,Mythic,Intense Age
-31,Creature,Common,Eagle
-32,Creature,Legendary,Light King Orge of the Magical Forest
-33,Creature,Rare,Dark Rogue Berserker
-34,Artifact,Rare,Forged Ghost Wand
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Dwarf
-37,Spell,Common,Frenzy
-38,Artifact,Legendary,Angry Gauntlet
-39,Creature,Common,Orc
-40,Creature,Rare,Aura Merchant Skin-Walker
-41,Creature,Common,Spider
-42,Creature,Common,Warlock
-43,Creature,Common,Eagle
-44,Creature,Common,Eagle
+==================,DECK,6282
+0,Creature,Skin-Walker
+1,Creature,Dark King Hydra
+2,Creature,Snow Queen Giant of the Arctic Blizzards
+3,Enchantment,Invert
+4,Spell,Ardent Nature Torment
+5,Enchantment,Empyrean Necro Age
+6,Enchantment,Haste
+7,Creature,Frozen Queen Oni of the Black Stone
+8,Spell,Frigid Freeze
+9,Creature,Snow Rogue Hydra
+10,Artifact,Necro Helmet
+11,Creature,Dark Fighter Elf of the West
+12,Spell,Infuriate
+13,Creature,Light Fighter Giant of the Bright Mountains
+14,Creature,Skin-Walker
+15,Creature,Eagle
+16,Artifact,Chimeric Cloak
+17,Creature,Troll
+18,Artifact,Pendant
+19,Artifact,Cloak
+20,Creature,Light Priest Hydra
+21,Creature,Spider
+22,Creature,Magi
+23,Enchantment,Life Blight
+24,Creature,Magi
+25,Creature,Wolf
+26,Artifact,Dark Gloves
+27,Spell,Frenzy
+28,Creature,Eagle
+29,Creature,Troll
+30,Enchantment,Clever Nature Lethargy
+31,Creature,Eagle
+32,Creature,Light King Elf of the Magical Forest
+33,Creature,Dark Rogue Goblin
+34,Artifact,Gloom Ghost Wand
+35,Enchantment,Lethargy
+36,Creature,Magi
+37,Spell,Ice
+38,Artifact,Clever Dark Gauntlet
+39,Creature,Spider
+40,Creature,Aura Merchant Orc
+41,Creature,Paladin
+42,Creature,Berserker
+43,Creature,Eagle
+44,Creature,Eagle

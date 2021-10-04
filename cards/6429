@@ -1,46 +1,46 @@
-==================,DECK,6429,Medium
-0,Spell,Rare,Necro Infuriate
-1,Creature,Common,Eagle
-2,Creature,Common,Warlock
-3,Creature,Common,Goblin
-4,Artifact,Legendary,Potent Sword
-5,Artifact,Rare,Miracle Bracers
-6,Creature,Common,Orc
-7,Creature,Common,Dwarf
-8,Creature,Common,Spider
-9,Enchantment,Common,Strength
-10,Enchantment,Legendary,Extreme Haste
-11,Creature,Common,Goblin
-12,Creature,Common,Goblin
-13,Enchantment,Rare,Cataclysmic Age
-14,Creature,Rare,Aura Warrior Hydra
-15,Creature,Legendary,Snow Assassin Kraken of the Magical Forest
-16,Creature,Common,Goblin
-17,Spell,Common,Rage
-18,Artifact,Common,Sigil
-19,Spell,Common,Fury
-20,Creature,Common,Paladin
-21,Creature,Rare,Aura King Berserker
-22,Spell,Common,Invisibility
-23,Creature,Common,Orc
-24,Spell,Common,Hypnosis
-25,Creature,Rare,Light Merchant Fairy
-26,Creature,Legendary,Frozen Rogue Kraken of the Plains
-27,Creature,Common,Elf
-28,Artifact,Common,Bracers
-29,Enchantment,Common,Invert
-30,Creature,Mythic,Dark Chaos Demon of Illusion
-31,Spell,Common,Infuriate
-32,Enchantment,Mythic,Clever Blight
-33,Creature,Common,Goblin
-34,Spell,Legendary,Dire Vortex
-35,Creature,Rare,Snow Queen Minotaur
-36,Creature,Common,Goblin
-37,Creature,Common,Warlock
-38,Spell,Common,Invisibility
-39,Creature,Legendary,Earth Fighter Kraken of the Magical Forest
-40,Spell,Rare,Solar Revive
-41,Enchantment,Rare,Lunar Haste
-42,Spell,Common,Infuriate
-43,Creature,Common,Wolf
-44,Spell,Common,Fury
+==================,DECK,6429
+0,Spell,Nature Burst
+1,Creature,Eagle
+2,Creature,Berserker
+3,Creature,Skin-Walker
+4,Artifact,Instant Oblivion Sword
+5,Artifact,Victory Bracers
+6,Creature,Spider
+7,Creature,Magi
+8,Creature,Paladin
+9,Enchantment,Drain
+10,Enchantment,Mighty Miracle Flight
+11,Creature,Skin-Walker
+12,Creature,Skin-Walker
+13,Enchantment,Gloom Firebreath
+14,Creature,Aura Warrior Hydra
+15,Creature,Snow Assassin Ogre of the Magical Forest
+16,Creature,Skin-Walker
+17,Spell,Ice
+18,Artifact,Sigil
+19,Spell,Heal
+20,Creature,Troll
+21,Creature,Aura King Goblin
+22,Spell,Tempest
+23,Creature,Spider
+24,Spell,Tempest
+25,Creature,Light Merchant Kraken
+26,Creature,Frozen Rogue Ogre of the Plains
+27,Creature,Warlock
+28,Artifact,Bracers
+29,Enchantment,Shield
+30,Creature,Dark Chaos Demon of Illusion
+31,Spell,Burn
+32,Enchantment,Clever Nimble Haste
+33,Creature,Skin-Walker
+34,Spell,Ardent Nimble Revive
+35,Creature,Snow Queen Cyclops
+36,Creature,Skin-Walker
+37,Creature,Berserker
+38,Spell,Gravitation
+39,Creature,Earth Fighter Ogre of the Magical Forest
+40,Spell,Solar Pandemonium
+41,Enchantment,Miracle Shrink
+42,Spell,Fury
+43,Creature,Wolf
+44,Spell,Vortex

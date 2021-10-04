@@ -1,46 +1,46 @@
-==================,DECK,6364,Light
-0,Creature,Common,Dwarf
-1,Creature,Rare,Death Queen Minotaur
-2,Creature,Common,Orc
-3,Creature,Legendary,Snow Warrior Orge of the West
-4,Artifact,Common,Gauntlet
-5,Spell,Legendary,Extreme Burn
-6,Creature,Common,Spider
-7,Enchantment,Legendary,Urgent Haste
-8,Artifact,Common,Sigil
-9,Artifact,Common,Tome
-10,Creature,Common,Warlock
-11,Spell,Common,Infuriate
-12,Enchantment,Mythic,Mighty Shade
-13,Artifact,Common,Boots
-14,Spell,Common,Rage
-15,Spell,Common,Revive
-16,Creature,Common,Dwarf
-17,Creature,Common,Eagle
-18,Creature,Common,Paladin
-19,Artifact,Common,Tome
-20,Enchantment,Common,Age
-21,Spell,Rare,Forged Freeze
-22,Spell,Common,Revive
-23,Artifact,Common,Helm
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Ghoul
-26,Artifact,Common,Sigil
-27,Creature,Common,Goblin
-28,Creature,Common,Magi
-29,Artifact,Rare,Nimble Pendant
-30,Enchantment,Common,Agony
-31,Creature,Common,Spider
-32,Enchantment,Common,Shield
-33,Artifact,Common,Gloves
-34,Creature,Rare,Snow King Skin-Walker
-35,Enchantment,Common,Agony
-36,Spell,Common,Hypnosis
-37,Creature,Rare,Aura Lord Fairy
-38,Spell,Rare,Oblivion Heal
-39,Creature,Rare,Snow Merchant Berserker
-40,Creature,Common,Orc
-41,Creature,Common,Magi
-42,Creature,Common,Dwarf
-43,Creature,Rare,Light Lord Skin-Walker
-44,Enchantment,Common,Alacrity
+==================,DECK,6364
+0,Creature,Magi
+1,Creature,Death Queen Cyclops
+2,Creature,Spider
+3,Creature,Snow Warrior Elf of the West
+4,Artifact,Gauntlet
+5,Spell,Zealous Lunar Pandemonium
+6,Creature,Paladin
+7,Enchantment,Potent Corpse Strength
+8,Artifact,Sigil
+9,Artifact,Tome
+10,Creature,Berserker
+11,Spell,Stun
+12,Enchantment,Urgent Chimeric Flight
+13,Artifact,Boots
+14,Spell,Vortex
+15,Spell,Stun
+16,Creature,Magi
+17,Creature,Eagle
+18,Creature,Troll
+19,Artifact,Tome
+20,Enchantment,Strength
+21,Spell,Lunar Ice
+22,Spell,Rage
+23,Artifact,Helm
+24,Enchantment,Lethargy
+25,Creature,Ghoul
+26,Artifact,Sigil
+27,Creature,Skin-Walker
+28,Creature,Fairy
+29,Artifact,Nature Pendant
+30,Enchantment,Drain
+31,Creature,Paladin
+32,Enchantment,Strength
+33,Artifact,Gloves
+34,Creature,Snow King Orc
+35,Enchantment,Shrink
+36,Spell,Rage
+37,Creature,Aura Lord Kraken
+38,Spell,Oblivion Gale
+39,Creature,Snow Merchant Goblin
+40,Creature,Spider
+41,Creature,Fairy
+42,Creature,Magi
+43,Creature,Light Lord Orc
+44,Enchantment,Alacrity

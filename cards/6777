@@ -1,46 +1,46 @@
-==================,DECK,6777,Light
-0,Spell,Common,Gale
-1,Creature,Common,Eagle
-2,Enchantment,Common,Age
-3,Creature,Common,Warlock
-4,Creature,Common,Spider
-5,Enchantment,Common,Age
-6,Creature,Common,Goblin
-7,Artifact,Legendary,Angry Staff
-8,Creature,Legendary,Light Merchant Giant of the Polar Woods
-9,Enchantment,Common,Haste
-10,Creature,Common,Eagle
-11,Spell,Rare,Nature Burn
-12,Creature,Common,Elf
-13,Creature,Common,Spider
-14,Artifact,Common,Helmet
-15,Creature,Rare,Light Queen Skin-Walker
-16,Spell,Rare,Shimmering Maelstrom
-17,Artifact,Common,Ghost Wand
-18,Enchantment,Common,Flight
-19,Creature,Legendary,Aura Monk Cyclops of the Low Hills
-20,Creature,Common,Orc
-21,Artifact,Common,Scythe
-22,Spell,Common,Rage
-23,Creature,Common,Eagle
-24,Creature,Legendary,Light Thief Cyclops of the Black Stone
-25,Creature,Common,Magi
-26,Spell,Common,Freeze
-27,Spell,Legendary,Mighty Gale
-28,Creature,Common,Orc
-29,Creature,Common,Wolf
-30,Creature,Common,Elf
-31,Creature,Legendary,Dark King Giant of the West
-32,Creature,Common,Eagle
-33,Enchantment,Legendary,Mighty Alacrity
-34,Creature,Common,Magi
-35,Creature,Rare,Frozen Rogue Griffin
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Flight
-38,Creature,Common,Warlock
-39,Spell,Common,Pandemonium
-40,Artifact,Common,Ghost Wand
-41,Creature,Common,Wolf
-42,Creature,Common,Elf
-43,Creature,Common,Wolf
-44,Spell,Common,Gravitation
+==================,DECK,6777
+0,Spell,Stricken
+1,Creature,Eagle
+2,Enchantment,Agony
+3,Creature,Berserker
+4,Creature,Paladin
+5,Enchantment,Shade
+6,Creature,Skin-Walker
+7,Artifact,Irate Miracle Staff
+8,Creature,Light Merchant Dwarf of the Polar Woods
+9,Enchantment,Shrink
+10,Creature,Eagle
+11,Spell,Solar Infuriate
+12,Creature,Warlock
+13,Creature,Paladin
+14,Artifact,Helmet
+15,Creature,Light Queen Orc
+16,Spell,Hateful Reanimate
+17,Artifact,Ghost Wand
+18,Enchantment,Lethargy
+19,Creature,Aura Monk Giant of the Low Hills
+20,Creature,Spider
+21,Artifact,Scythe
+22,Spell,Vortex
+23,Creature,Eagle
+24,Creature,Light Thief Giant of the Black Stone
+25,Creature,Fairy
+26,Spell,Ice
+27,Spell,Mighty Sorrow Gravitation
+28,Creature,Spider
+29,Creature,Wolf
+30,Creature,Warlock
+31,Creature,Dark King Dwarf of the West
+32,Creature,Eagle
+33,Enchantment,Irate Dark Alacrity
+34,Creature,Fairy
+35,Creature,Frozen Rogue Griffin
+36,Creature,Ghoul
+37,Enchantment,Agony
+38,Creature,Berserker
+39,Spell,Reanimate
+40,Artifact,Ghost Wand
+41,Creature,Wolf
+42,Creature,Warlock
+43,Creature,Wolf
+44,Spell,Stricken

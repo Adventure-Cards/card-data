@@ -1,46 +1,46 @@
-==================,DECK,6685,Light
-0,Creature,Rare,Death Thief Griffin
-1,Creature,Common,Warlock
-2,Enchantment,Common,Age
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Haste
-5,Creature,Rare,Snow Lord Berserker
-6,Creature,Legendary,Light Queen Oni of the Magical Forest
-7,Creature,Common,Dwarf
-8,Creature,Common,Dwarf
-9,Creature,Common,Dwarf
-10,Creature,Common,Warlock
-11,Artifact,Legendary,Intense Amulet
-12,Enchantment,Common,Shrink
-13,Spell,Common,Frenzy
-14,Spell,Common,Frenzy
-15,Creature,Rare,Light Monk Fairy
-16,Spell,Rare,Nature Ice
-17,Creature,Common,Elf
-18,Enchantment,Rare,Lunar Blight
-19,Spell,Common,Assault
-20,Creature,Common,Ghoul
-21,Enchantment,Rare,Gloom Agony
-22,Artifact,Common,Staff
-23,Creature,Common,Magi
-24,Spell,Common,Gravitation
-25,Spell,Rare,Lunar Stun
-26,Enchantment,Common,Lethargy
-27,Enchantment,Common,Lethargy
-28,Enchantment,Common,Shade
-29,Spell,Common,Infuriate
-30,Creature,Common,Spider
-31,Spell,Common,Burst
-32,Spell,Common,Pandemonium
-33,Enchantment,Rare,Cataclysmic Age
-34,Creature,Common,Paladin
-35,Creature,Common,Warlock
-36,Creature,Legendary,Frozen Monk Cyclops of the Low Hills
-37,Creature,Rare,Light Fighter Berserker
-38,Artifact,Common,Potion
-39,Creature,Rare,Frozen Rogue Griffin
-40,Enchantment,Legendary,Dire Invert
-41,Creature,Rare,Earth Rogue Skin-Walker
-42,Creature,Common,Eagle
-43,Creature,Common,Warlock
-44,Enchantment,Rare,Apocalypse Age
+==================,DECK,6685
+0,Creature,Death Thief Griffin
+1,Creature,Berserker
+2,Enchantment,Blight
+3,Enchantment,Age
+4,Enchantment,Shade
+5,Creature,Snow Lord Goblin
+6,Creature,Light Queen Oni of the Magical Forest
+7,Creature,Magi
+8,Creature,Magi
+9,Creature,Magi
+10,Creature,Berserker
+11,Artifact,Urgent Shimmering Amulet
+12,Enchantment,Flight
+13,Spell,Pandemonium
+14,Spell,Stun
+15,Creature,Light Monk Kraken
+16,Spell,Nature Ice
+17,Creature,Warlock
+18,Enchantment,Cataclysmic Alacrity
+19,Spell,Fury
+20,Creature,Ghoul
+21,Enchantment,Miracle Firebreath
+22,Artifact,Staff
+23,Creature,Fairy
+24,Spell,Infuriate
+25,Spell,Dark Pandemonium
+26,Enchantment,Alacrity
+27,Enchantment,Deathgrip
+28,Enchantment,Firebreath
+29,Spell,Heal
+30,Creature,Paladin
+31,Spell,Lightning
+32,Spell,Ice
+33,Enchantment,Gloom Alacrity
+34,Creature,Troll
+35,Creature,Berserker
+36,Creature,Frozen Monk Giant of the Low Hills
+37,Creature,Light Fighter Goblin
+38,Artifact,Potion
+39,Creature,Frozen Rogue Griffin
+40,Enchantment,Urgent Oblivion Invert
+41,Creature,Earth Rogue Orc
+42,Creature,Eagle
+43,Creature,Berserker
+44,Enchantment,Victory Blight

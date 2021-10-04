@@ -1,46 +1,46 @@
-==================,DECK,5090,Light
-0,Spell,Rare,Oblivion Gravitation
-1,Spell,Common,Infuriate
-2,Creature,Rare,Light Assassin Hydra
-3,Creature,Legendary,Aura Fighter Oni of the Mountains
-4,Creature,Common,Spider
-5,Creature,Common,Eagle
-6,Creature,Mythic,Earth Ancient Demon of the Shadows
-7,Artifact,Common,Gauntlet
-8,Spell,Common,Wall
-9,Creature,Rare,Frozen Merchant Griffin
-10,Creature,Rare,Dark Fighter Hydra
-11,Creature,Common,Wolf
-12,Creature,Rare,Death Monk Skin-Walker
-13,Spell,Common,Gravitation
-14,Creature,Rare,Aura Rogue Fairy
-15,Creature,Common,Spider
-16,Spell,Common,Stricken
-17,Creature,Rare,Dark Warrior Hydra
-18,Creature,Common,Warlock
-19,Enchantment,Common,Strength
-20,Artifact,Common,Boots
-21,Creature,Common,Ghoul
-22,Enchantment,Mythic,Clever Strength
-23,Enchantment,Common,Agony
-24,Artifact,Common,Cloak
-25,Enchantment,Mythic,Clever Blight
-26,Enchantment,Mythic,Intense Haste
-27,Spell,Common,Wall
-28,Creature,Common,Orc
-29,Artifact,Common,Helm
-30,Artifact,Common,Bow
-31,Artifact,Common,Cloak
-32,Spell,Common,Infuriate
-33,Enchantment,Common,Strength
-34,Creature,Common,Elf
-35,Spell,Common,Reanimate
-36,Creature,Common,Warlock
-37,Creature,Rare,Dark Queen Fairy
-38,Creature,Common,Magi
-39,Spell,Common,Wall
-40,Enchantment,Rare,Dark Alacrity
-41,Spell,Common,Invisibility
-42,Creature,Common,Paladin
-43,Enchantment,Rare,Solar Agony
-44,Creature,Common,Dwarf
+==================,DECK,5090
+0,Spell,Grim Stricken
+1,Spell,Pandemonium
+2,Creature,Light Assassin Hydra
+3,Creature,Aura Fighter Oni of the Mountains
+4,Creature,Paladin
+5,Creature,Eagle
+6,Creature,Earth Ancient Demon of the Shadows
+7,Artifact,Gauntlet
+8,Spell,Burn
+9,Creature,Frozen Merchant Griffin
+10,Creature,Dark Fighter Hydra
+11,Creature,Wolf
+12,Creature,Death Monk Orc
+13,Spell,Hypnosis
+14,Creature,Aura Rogue Kraken
+15,Creature,Paladin
+16,Spell,Pandemonium
+17,Creature,Dark Warrior Hydra
+18,Creature,Berserker
+19,Enchantment,Invert
+20,Artifact,Boots
+21,Creature,Ghoul
+22,Enchantment,Ardent Nimble Haste
+23,Enchantment,Invert
+24,Artifact,Cloak
+25,Enchantment,Clever Nimble Haste
+26,Enchantment,Clever Corpse Lethargy
+27,Spell,Fireball
+28,Creature,Spider
+29,Artifact,Helm
+30,Artifact,Bow
+31,Artifact,Cloak
+32,Spell,Hypnosis
+33,Enchantment,Alacrity
+34,Creature,Warlock
+35,Spell,Reanimate
+36,Creature,Berserker
+37,Creature,Dark Queen Kraken
+38,Creature,Fairy
+39,Spell,Lightning
+40,Enchantment,Dark Firebreath
+41,Spell,Ice
+42,Creature,Troll
+43,Enchantment,Corpse Deathgrip
+44,Creature,Magi

@@ -1,46 +1,46 @@
-==================,DECK,6535,Light
-0,Creature,Rare,Aura Warrior Griffin
-1,Creature,Common,Goblin
-2,Creature,Common,Orc
-3,Creature,Rare,Light Monk Griffin
-4,Creature,Common,Orc
-5,Creature,Common,Goblin
-6,Creature,Common,Warlock
-7,Creature,Common,Wolf
-8,Creature,Common,Paladin
-9,Creature,Mythic,Frozen Nameless Dragon of the Void
-10,Creature,Rare,Snow Knight Griffin
-11,Creature,Rare,Light Thief Berserker
-12,Enchantment,Common,Lethargy
-13,Creature,Common,Orc
-14,Artifact,Common,Staff
-15,Spell,Common,Frost
-16,Creature,Rare,Frozen Undead Berserker
-17,Artifact,Rare,Frigid Bow
-18,Creature,Common,Paladin
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Infuriate
-21,Creature,Common,Dwarf
-22,Spell,Common,Lightning
-23,Creature,Common,Paladin
-24,Artifact,Rare,Corpse Bracers
-25,Spell,Common,Heal
-26,Creature,Rare,Dark Undead Minotaur
-27,Enchantment,Common,Deathgrip
-28,Creature,Mythic,Frozen Nameless Dragon of the Void
-29,Creature,Rare,Earth Queen Berserker
-30,Creature,Legendary,Earth Undead Kraken of the Swamp
-31,Creature,Common,Ghoul
-32,Creature,Common,Ghoul
-33,Creature,Common,Warlock
-34,Artifact,Common,Helm
-35,Enchantment,Rare,Necro Shrink
-36,Creature,Common,Dwarf
-37,Spell,Legendary,Potent Ice
-38,Enchantment,Common,Deathgrip
-39,Enchantment,Rare,Necro Haste
-40,Creature,Rare,Light Lord Hydra
-41,Enchantment,Rare,Nimble Agony
-42,Spell,Common,Reanimate
-43,Creature,Common,Goblin
-44,Enchantment,Rare,Cataclysmic Deathgrip
+==================,DECK,6535
+0,Creature,Aura Warrior Griffin
+1,Creature,Skin-Walker
+2,Creature,Spider
+3,Creature,Light Monk Griffin
+4,Creature,Spider
+5,Creature,Skin-Walker
+6,Creature,Berserker
+7,Creature,Wolf
+8,Creature,Troll
+9,Creature,Frozen Nameless Dragon of the Void
+10,Creature,Snow Knight Griffin
+11,Creature,Light Thief Goblin
+12,Enchantment,Deathgrip
+13,Creature,Spider
+14,Artifact,Staff
+15,Spell,Pandemonium
+16,Creature,Frozen Undead Goblin
+17,Artifact,Oblivion Bow
+18,Creature,Troll
+19,Enchantment,Deathgrip
+20,Spell,Burst
+21,Creature,Magi
+22,Spell,Heal
+23,Creature,Troll
+24,Artifact,Forged Bracers
+25,Spell,Wall
+26,Creature,Dark Undead Cyclops
+27,Enchantment,Shield
+28,Creature,Frozen Nameless Dragon of the Void
+29,Creature,Earth Queen Goblin
+30,Creature,Earth Undead Ogre of the Swamp
+31,Creature,Ghoul
+32,Creature,Ghoul
+33,Creature,Berserker
+34,Artifact,Helm
+35,Enchantment,Necro Agony
+36,Creature,Magi
+37,Spell,Zealous Victory Ice
+38,Enchantment,Drain
+39,Enchantment,Corpse Deathgrip
+40,Creature,Light Lord Hydra
+41,Enchantment,Corpse Deathgrip
+42,Spell,Lightning
+43,Creature,Skin-Walker
+44,Enchantment,Sorrow Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,5091,Light
-0,Creature,Common,Warlock
-1,Spell,Rare,Forged Invisibility
-2,Enchantment,Legendary,Intense Drain
-3,Enchantment,Mythic,Clever Age
-4,Creature,Common,Magi
-5,Artifact,Common,Boots
-6,Creature,Rare,Frozen Knight Minotaur
-7,Creature,Common,Eagle
-8,Creature,Rare,Aura Knight Berserker
-9,Spell,Legendary,Potent Burn
-10,Artifact,Common,Divine Robe
-11,Enchantment,Mythic,Instant Drain
-12,Enchantment,Common,Drain
-13,Spell,Common,Gravitation
-14,Creature,Rare,Aura Undead Minotaur
-15,Spell,Common,Invisibility
-16,Enchantment,Common,Drain
-17,Spell,Common,Ice
-18,Spell,Common,Rage
-19,Creature,Common,Paladin
-20,Creature,Common,Spider
-21,Creature,Common,Goblin
-22,Spell,Common,Ice
-23,Spell,Common,Frost
-24,Creature,Common,Goblin
-25,Spell,Common,Burst
-26,Spell,Common,Stricken
-27,Enchantment,Common,Flight
-28,Creature,Common,Wolf
-29,Creature,Common,Eagle
-30,Enchantment,Common,Invert
-31,Spell,Legendary,Clever Heal
-32,Creature,Common,Wolf
-33,Spell,Legendary,Instant Burn
-34,Artifact,Common,Ring
-35,Creature,Rare,Light Assassin Hydra
-36,Spell,Common,Invisibility
-37,Enchantment,Common,Agony
-38,Spell,Common,Heal
-39,Creature,Mythic,Aura Chaos Wizard of the Light
-40,Creature,Common,Wolf
-41,Creature,Common,Dwarf
-42,Creature,Common,Wolf
-43,Creature,Common,Ghoul
-44,Creature,Common,Eagle
+==================,DECK,5091
+0,Creature,Berserker
+1,Spell,Gloom Heal
+2,Enchantment,Empyrean Forged Age
+3,Enchantment,Mighty Victory Invert
+4,Creature,Fairy
+5,Artifact,Boots
+6,Creature,Frozen Knight Cyclops
+7,Creature,Eagle
+8,Creature,Aura Knight Goblin
+9,Spell,Potent Frigid Stricken
+10,Artifact,Divine Robe
+11,Enchantment,Potent Forged Strength
+12,Enchantment,Shade
+13,Spell,Invisibility
+14,Creature,Aura Undead Cyclops
+15,Spell,Assault
+16,Enchantment,Invert
+17,Spell,Invisibility
+18,Spell,Freeze
+19,Creature,Troll
+20,Creature,Paladin
+21,Creature,Skin-Walker
+22,Spell,Tempest
+23,Spell,Fireball
+24,Creature,Skin-Walker
+25,Spell,Fury
+26,Spell,Freeze
+27,Enchantment,Deathgrip
+28,Creature,Wolf
+29,Creature,Eagle
+30,Enchantment,Age
+31,Spell,Ardent Grim Burn
+32,Creature,Wolf
+33,Spell,Zealous Nature Maelstrom
+34,Artifact,Ring
+35,Creature,Light Assassin Hydra
+36,Spell,Assault
+37,Enchantment,Firebreath
+38,Spell,Hypnosis
+39,Creature,Aura Chaos Wizard of the Light
+40,Creature,Wolf
+41,Creature,Magi
+42,Creature,Wolf
+43,Creature,Ghoul
+44,Creature,Eagle

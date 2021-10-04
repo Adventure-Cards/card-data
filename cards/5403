@@ -1,46 +1,46 @@
-==================,DECK,5403,Medium
-0,Creature,Common,Spider
-1,Artifact,Common,Gloves
-2,Creature,Legendary,Light Warrior Orge of the Plains
-3,Artifact,Common,Scepter
-4,Artifact,Legendary,Intense Potion
-5,Spell,Common,Burst
-6,Creature,Common,Wolf
-7,Creature,Common,Elf
-8,Enchantment,Common,Deathgrip
-9,Creature,Common,Dwarf
-10,Artifact,Rare,Corpse Belt
-11,Enchantment,Common,Blight
-12,Creature,Common,Ghoul
-13,Creature,Common,Spider
-14,Creature,Common,Spider
-15,Creature,Common,Warlock
-16,Spell,Common,Hypnosis
-17,Spell,Common,Assault
-18,Artifact,Rare,Forged Shield
-19,Artifact,Rare,Corpse Ghost Wand
-20,Enchantment,Common,Deathgrip
-21,Creature,Legendary,Dark Assassin Oni of the Swamp
-22,Spell,Common,Burn
-23,Spell,Legendary,Urgent Wall
-24,Creature,Rare,Aura Rogue Minotaur
-25,Spell,Common,Gale
-26,Artifact,Rare,Miracle Sword
-27,Enchantment,Common,Strength
-28,Creature,Common,Wolf
-29,Creature,Common,Spider
-30,Creature,Common,Paladin
-31,Creature,Common,Goblin
-32,Spell,Rare,Cataclysmic Pandemonium
-33,Creature,Common,Ghoul
-34,Enchantment,Common,Shrink
-35,Creature,Common,Magi
-36,Creature,Rare,Snow Assassin Fairy
-37,Enchantment,Common,Agony
-38,Creature,Legendary,Dark Thief Cyclops of the Frozen Castle
-39,Creature,Common,Spider
-40,Creature,Common,Wolf
-41,Artifact,Common,Cloak
-42,Spell,Rare,Gloom Heal
-43,Creature,Rare,Frozen Priest Minotaur
-44,Artifact,Common,Crown
+==================,DECK,5403
+0,Creature,Paladin
+1,Artifact,Gloves
+2,Creature,Light Warrior Elf of the Plains
+3,Artifact,Scepter
+4,Artifact,Ardent Corpse Potion
+5,Spell,Ice
+6,Creature,Wolf
+7,Creature,Warlock
+8,Enchantment,Drain
+9,Creature,Magi
+10,Artifact,Forged Belt
+11,Enchantment,Firebreath
+12,Creature,Ghoul
+13,Creature,Paladin
+14,Creature,Paladin
+15,Creature,Berserker
+16,Spell,Ice
+17,Spell,Fire
+18,Artifact,Gloom Shield
+19,Artifact,Forged Ghost Wand
+20,Enchantment,Shield
+21,Creature,Dark Assassin Oni of the Swamp
+22,Spell,Gale
+23,Spell,Ardent Nature Reanimate
+24,Creature,Aura Rogue Cyclops
+25,Spell,Frenzy
+26,Artifact,Victory Sword
+27,Enchantment,Alacrity
+28,Creature,Wolf
+29,Creature,Paladin
+30,Creature,Troll
+31,Creature,Skin-Walker
+32,Spell,Chimeric Frenzy
+33,Creature,Ghoul
+34,Enchantment,Firebreath
+35,Creature,Fairy
+36,Creature,Snow Assassin Kraken
+37,Enchantment,Firebreath
+38,Creature,Dark Thief Giant of the Frozen Castle
+39,Creature,Paladin
+40,Creature,Wolf
+41,Artifact,Cloak
+42,Spell,Gloom Wall
+43,Creature,Frozen Priest Cyclops
+44,Artifact,Crown

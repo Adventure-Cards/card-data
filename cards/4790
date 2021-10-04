@@ -1,46 +1,46 @@
-==================,DECK,4790,Medium
-0,Creature,Common,Orc
-1,Spell,Common,Fury
-2,Spell,Legendary,Mighty Frost
-3,Creature,Rare,Dark Merchant Fairy
-4,Enchantment,Rare,Life Flight
-5,Artifact,Common,Ghost Wand
-6,Artifact,Rare,Frigid Scythe
-7,Creature,Common,Wolf
-8,Enchantment,Common,Shield
-9,Creature,Common,Wolf
-10,Creature,Common,Paladin
-11,Artifact,Legendary,Potent Bracers
-12,Creature,Common,Wolf
-13,Creature,Common,Ghoul
-14,Creature,Mythic,Earth Undead Dragon of the Shadows
-15,Creature,Mythic,Dark Time Phoenix of Illusion
-16,Enchantment,Common,Alacrity
-17,Creature,Mythic,Earth Nameless Dragon of the Shadows
-18,Creature,Common,Eagle
-19,Enchantment,Common,Strength
-20,Spell,Common,Torment
-21,Creature,Common,Magi
-22,Creature,Rare,Dark King Minotaur
-23,Enchantment,Common,Shrink
-24,Artifact,Common,Helm
-25,Enchantment,Rare,Nature Haste
-26,Spell,Legendary,Intense Pandemonium
-27,Enchantment,Legendary,Urgent Flight
-28,Spell,Legendary,Angry Wall
-29,Enchantment,Common,Shrink
-30,Creature,Rare,Aura Lord Griffin
-31,Enchantment,Rare,Life Shrink
-32,Creature,Common,Paladin
-33,Creature,Common,Eagle
-34,Creature,Common,Ghoul
-35,Creature,Rare,Snow Merchant Fairy
-36,Enchantment,Mythic,Dire Agony
-37,Creature,Common,Orc
-38,Enchantment,Common,Strength
-39,Creature,Common,Magi
-40,Creature,Common,Paladin
-41,Enchantment,Common,Shrink
-42,Creature,Common,Magi
-43,Creature,Legendary,Frozen Rogue Orge of the Black Stone
-44,Artifact,Common,Divine Robe
+==================,DECK,4790
+0,Creature,Spider
+1,Spell,Assault
+2,Spell,Irate Cataclysmic Stricken
+3,Creature,Dark Merchant Kraken
+4,Enchantment,Grim Invert
+5,Artifact,Ghost Wand
+6,Artifact,Apocalypse Scythe
+7,Creature,Wolf
+8,Enchantment,Invert
+9,Creature,Wolf
+10,Creature,Troll
+11,Artifact,Irate Nimble Bracers
+12,Creature,Wolf
+13,Creature,Ghoul
+14,Creature,Earth Undead Dragon of the Shadows
+15,Creature,Dark Time Phoenix of Illusion
+16,Enchantment,Flight
+17,Creature,Earth Nameless Dragon of the Shadows
+18,Creature,Eagle
+19,Enchantment,Firebreath
+20,Spell,Hypnosis
+21,Creature,Fairy
+22,Creature,Dark King Cyclops
+23,Enchantment,Deathgrip
+24,Artifact,Helm
+25,Enchantment,Corpse Strength
+26,Spell,Empyrean Corpse Wall
+27,Enchantment,Empyrean Hateful Age
+28,Spell,Dire Gloom Fury
+29,Enchantment,Haste
+30,Creature,Aura Lord Griffin
+31,Enchantment,Frigid Shade
+32,Creature,Troll
+33,Creature,Eagle
+34,Creature,Ghoul
+35,Creature,Snow Merchant Kraken
+36,Enchantment,Instant Life Drain
+37,Creature,Spider
+38,Enchantment,Strength
+39,Creature,Fairy
+40,Creature,Troll
+41,Enchantment,Shrink
+42,Creature,Fairy
+43,Creature,Frozen Rogue Elf of the Black Stone
+44,Artifact,Divine Robe

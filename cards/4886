@@ -1,46 +1,46 @@
-==================,DECK,4886,Strong
-0,Creature,Common,Spider
-1,Artifact,Common,Belt
-2,Creature,Common,Dwarf
-3,Creature,Rare,Dark Queen Fairy
-4,Creature,Mythic,Light Time Dragon of the Sky
-5,Creature,Legendary,Light Assassin Orge of the Polar Woods
-6,Creature,Rare,Light Monk Minotaur
-7,Creature,Rare,Death Knight Minotaur
-8,Creature,Rare,Death Fighter Hydra
-9,Creature,Rare,Light Lord Minotaur
-10,Creature,Mythic,Snow Undead Phoenix of Hate
-11,Creature,Mythic,Snow Time Phoenix of Hate
-12,Creature,Common,Elf
-13,Spell,Common,Wall
-14,Enchantment,Mythic,Dire Haste
-15,Creature,Mythic,Death Grand Demon of the Dead
-16,Creature,Rare,Dark Assassin Minotaur
-17,Creature,Common,Elf
-18,Creature,Common,Dwarf
-19,Enchantment,Legendary,Dire Blight
-20,Spell,Rare,Solar Freeze
-21,Spell,Common,Lightning
-22,Creature,Mythic,Death Nameless Phoenix of the Dead
-23,Creature,Mythic,Light Time Dragon of the Sky
-24,Artifact,Mythic,Intense Potion
-25,Creature,Rare,Earth Knight Minotaur
-26,Creature,Common,Warlock
-27,Creature,Rare,Death Rogue Skin-Walker
-28,Creature,Common,Spider
-29,Spell,Common,Pandemonium
-30,Creature,Rare,Death Assassin Hydra
-31,Creature,Common,Paladin
-32,Creature,Common,Warlock
-33,Artifact,Legendary,Instant Tome
-34,Creature,Common,Spider
-35,Enchantment,Mythic,Urgent Blight
-36,Creature,Rare,Earth Assassin Hydra
-37,Creature,Common,Goblin
-38,Creature,Common,Wolf
-39,Creature,Rare,Aura Queen Berserker
-40,Creature,Common,Paladin
-41,Spell,Rare,Gloom Vortex
-42,Creature,Common,Ghoul
-43,Creature,Mythic,Snow Chaos Demon of Hate
-44,Creature,Mythic,Death Time Dragon of the Dead
+==================,DECK,4886
+0,Creature,Paladin
+1,Artifact,Belt
+2,Creature,Magi
+3,Creature,Dark Queen Kraken
+4,Creature,Light Time Dragon of the Sky
+5,Creature,Light Assassin Elf of the Polar Woods
+6,Creature,Light Monk Cyclops
+7,Creature,Death Knight Cyclops
+8,Creature,Death Fighter Hydra
+9,Creature,Light Lord Cyclops
+10,Creature,Snow Undead Phoenix of Hate
+11,Creature,Snow Time Phoenix of Hate
+12,Creature,Warlock
+13,Spell,Lightning
+14,Enchantment,Clever Life Haste
+15,Creature,Death Grand Demon of the Dead
+16,Creature,Dark Assassin Cyclops
+17,Creature,Warlock
+18,Creature,Magi
+19,Enchantment,Empyrean Nimble Shade
+20,Spell,Necro Frost
+21,Spell,Reanimate
+22,Creature,Death Nameless Phoenix of the Dead
+23,Creature,Light Time Dragon of the Sky
+24,Artifact,Ardent Forged Potion
+25,Creature,Earth Knight Cyclops
+26,Creature,Berserker
+27,Creature,Death Rogue Orc
+28,Creature,Paladin
+29,Spell,Ice
+30,Creature,Death Assassin Hydra
+31,Creature,Troll
+32,Creature,Berserker
+33,Artifact,Empyrean Hateful Tome
+34,Creature,Paladin
+35,Enchantment,Potent Solar Strength
+36,Creature,Earth Assassin Hydra
+37,Creature,Skin-Walker
+38,Creature,Wolf
+39,Creature,Aura Queen Goblin
+40,Creature,Troll
+41,Spell,Gloom Infuriate
+42,Creature,Ghoul
+43,Creature,Snow Chaos Demon of Hate
+44,Creature,Death Time Dragon of the Dead

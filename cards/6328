@@ -1,46 +1,46 @@
-==================,DECK,6328,Strong
-0,Creature,Common,Magi
-1,Spell,Common,Wall
-2,Creature,Rare,Snow Warrior Griffin
-3,Creature,Common,Goblin
-4,Creature,Common,Dwarf
-5,Spell,Mythic,Urgent Maelstrom
-6,Spell,Mythic,Dire Vortex
-7,Enchantment,Legendary,Mighty Age
-8,Spell,Rare,Nimble Torment
-9,Artifact,Common,Sword
-10,Creature,Common,Magi
-11,Spell,Rare,Miracle Infuriate
-12,Creature,Mythic,Snow Nameless Phoenix of Hate
-13,Artifact,Rare,Corpse Cloak
-14,Enchantment,Rare,Grim Agony
-15,Enchantment,Common,Shield
-16,Spell,Rare,Life Maelstrom
-17,Spell,Mythic,Extreme Frost
-18,Spell,Rare,Gloom Gravitation
-19,Creature,Common,Ghoul
-20,Creature,Mythic,Earth Grand Demon of the Shadows
-21,Creature,Legendary,Frozen Nameless Dragon of the Void
-22,Spell,Common,Infuriate
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Miracle Deathgrip
-25,Artifact,Rare,Oblivion Ring
-26,Creature,Common,Warlock
-27,Enchantment,Legendary,Extreme Alacrity
-28,Enchantment,Legendary,Mighty Agony
-29,Enchantment,Common,Invert
-30,Artifact,Common,Ring
-31,Creature,Common,Ghoul
-32,Artifact,Legendary,Urgent Scythe
-33,Creature,Common,Orc
-34,Artifact,Legendary,Extreme Scythe
-35,Enchantment,Rare,Life Haste
-36,Creature,Legendary,Aura Merchant Giant of the West
-37,Enchantment,Common,Lethargy
-38,Enchantment,Rare,Frigid Lethargy
-39,Creature,Rare,Light Warrior Fairy
-40,Spell,Legendary,Clever Gale
-41,Creature,Rare,Death Knight Hydra
-42,Artifact,Common,Gloves
-43,Spell,Common,Vortex
-44,Enchantment,Mythic,Clever Shrink
+==================,DECK,6328
+0,Creature,Fairy
+1,Spell,Fireball
+2,Creature,Snow Warrior Griffin
+3,Creature,Skin-Walker
+4,Creature,Magi
+5,Spell,Empyrean Forged Assault
+6,Spell,Instant Frigid Sorrow
+7,Enchantment,Mighty Gloom Flight
+8,Spell,Shimmering Fire
+9,Artifact,Sword
+10,Creature,Fairy
+11,Spell,Victory Fireball
+12,Creature,Snow Nameless Phoenix of Hate
+13,Artifact,Shimmering Cloak
+14,Enchantment,Life Shade
+15,Enchantment,Strength
+16,Spell,Grim Gale
+17,Spell,Dire Sorrow Sorrow
+18,Spell,Chimeric Fury
+19,Creature,Ghoul
+20,Creature,Earth Grand Demon of the Shadows
+21,Creature,Frozen Nameless Dragon of the Void
+22,Spell,Lightning
+23,Creature,Magi
+24,Enchantment,Oblivion Drain
+25,Artifact,Victory Ring
+26,Creature,Berserker
+27,Enchantment,Instant Dark Shrink
+28,Enchantment,Irate Miracle Alacrity
+29,Enchantment,Firebreath
+30,Artifact,Ring
+31,Creature,Ghoul
+32,Artifact,Dire Nature Scythe
+33,Creature,Spider
+34,Artifact,Empyrean Sorrow Scythe
+35,Enchantment,Life Shade
+36,Creature,Aura Merchant Dwarf of the West
+37,Enchantment,Firebreath
+38,Enchantment,Grim Haste
+39,Creature,Light Warrior Kraken
+40,Spell,Empyrean Oblivion Assault
+41,Creature,Death Knight Hydra
+42,Artifact,Gloves
+43,Spell,Infuriate
+44,Enchantment,Clever Frigid Haste

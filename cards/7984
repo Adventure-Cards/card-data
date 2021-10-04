@@ -1,46 +1,46 @@
-==================,DECK,7984,Light
-0,Spell,Rare,Frigid Vortex
-1,Creature,Common,Eagle
-2,Enchantment,Common,Deathgrip
-3,Spell,Rare,Gloom Freeze
-4,Enchantment,Rare,Dark Alacrity
-5,Creature,Common,Eagle
-6,Enchantment,Common,Blight
-7,Spell,Rare,Dark Rage
-8,Spell,Common,Revive
-9,Creature,Rare,Dark Lord Skin-Walker
-10,Artifact,Common,Helm
-11,Enchantment,Rare,Hateful Shrink
-12,Spell,Common,Burst
-13,Spell,Common,Hypnosis
-14,Creature,Common,Spider
-15,Enchantment,Common,Haste
-16,Artifact,Common,Sigil
-17,Spell,Common,Stun
-18,Creature,Rare,Aura Knight Griffin
-19,Spell,Common,Heal
-20,Enchantment,Legendary,Angry Alacrity
-21,Enchantment,Common,Age
-22,Creature,Rare,Aura Assassin Skin-Walker
-23,Creature,Rare,Snow Monk Hydra
-24,Enchantment,Common,Drain
-25,Spell,Common,Gale
-26,Creature,Common,Orc
-27,Spell,Rare,Dark Assault
-28,Creature,Common,Eagle
-29,Enchantment,Rare,Apocalypse Shrink
-30,Enchantment,Common,Shield
-31,Enchantment,Common,Drain
-32,Spell,Legendary,Urgent Frenzy
-33,Creature,Common,Elf
-34,Creature,Common,Magi
-35,Creature,Common,Goblin
-36,Creature,Legendary,Death Monk Cyclops of the Bright Mountains
-37,Artifact,Common,Amulet
-38,Creature,Legendary,Dark Lord Giant of the Frozen Castle
-39,Creature,Common,Ghoul
-40,Creature,Common,Spider
-41,Creature,Common,Spider
-42,Creature,Common,Elf
-43,Enchantment,Common,Blight
-44,Artifact,Common,Sword
+==================,DECK,7984
+0,Spell,Life Fire
+1,Creature,Eagle
+2,Enchantment,Invert
+3,Spell,Sorrow Pandemonium
+4,Enchantment,Dark Flight
+5,Creature,Eagle
+6,Enchantment,Shield
+7,Spell,Dark Frost
+8,Spell,Ice
+9,Creature,Dark Lord Orc
+10,Artifact,Helm
+11,Enchantment,Chimeric Flight
+12,Spell,Gale
+13,Spell,Frost
+14,Creature,Paladin
+15,Enchantment,Flight
+16,Artifact,Sigil
+17,Spell,Burst
+18,Creature,Aura Knight Griffin
+19,Spell,Gale
+20,Enchantment,Instant Dark Shrink
+21,Enchantment,Shield
+22,Creature,Aura Assassin Orc
+23,Creature,Snow Monk Hydra
+24,Enchantment,Shield
+25,Spell,Frenzy
+26,Creature,Spider
+27,Spell,Dark Burn
+28,Creature,Eagle
+29,Enchantment,Frigid Haste
+30,Enchantment,Blight
+31,Enchantment,Shade
+32,Spell,Urgent Necro Frenzy
+33,Creature,Warlock
+34,Creature,Fairy
+35,Creature,Skin-Walker
+36,Creature,Death Monk Giant of the Bright Mountains
+37,Artifact,Amulet
+38,Creature,Dark Lord Dwarf of the Frozen Castle
+39,Creature,Ghoul
+40,Creature,Paladin
+41,Creature,Paladin
+42,Creature,Warlock
+43,Enchantment,Shade
+44,Artifact,Sword

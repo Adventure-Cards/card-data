@@ -1,46 +1,46 @@
-==================,DECK,5415,Light
-0,Enchantment,Common,Agony
-1,Creature,Common,Ghoul
-2,Creature,Mythic,Death Ancient Demon of the Dead
-3,Spell,Common,Burst
-4,Enchantment,Common,Age
-5,Creature,Common,Eagle
-6,Creature,Rare,Snow Undead Skin-Walker
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Enchantment,Rare,Hateful Drain
-10,Creature,Mythic,Light Ancient Wizard of the Sky
-11,Artifact,Legendary,Dire Pendant
-12,Enchantment,Common,Shield
-13,Spell,Common,Frenzy
-14,Artifact,Common,Helmet
-15,Artifact,Legendary,Dire Belt
-16,Enchantment,Mythic,Urgent Deathgrip
-17,Creature,Common,Wolf
-18,Creature,Rare,Snow Lord Griffin
-19,Creature,Common,Paladin
-20,Creature,Common,Elf
-21,Creature,Common,Dwarf
-22,Creature,Common,Warlock
-23,Creature,Common,Magi
-24,Enchantment,Common,Shade
-25,Artifact,Common,Crown
-26,Artifact,Rare,Dark Helm
-27,Spell,Rare,Oblivion Rage
-28,Artifact,Common,Scythe
-29,Enchantment,Common,Haste
-30,Spell,Legendary,Instant Maelstrom
-31,Creature,Common,Ghoul
-32,Creature,Common,Elf
-33,Spell,Common,Heal
-34,Enchantment,Common,Deathgrip
-35,Creature,Common,Eagle
-36,Enchantment,Common,Deathgrip
-37,Enchantment,Legendary,Urgent Alacrity
-38,Creature,Common,Ghoul
-39,Enchantment,Rare,Lunar Deathgrip
-40,Creature,Common,Elf
-41,Creature,Rare,Light Undead Hydra
-42,Creature,Common,Paladin
-43,Enchantment,Common,Shade
-44,Creature,Common,Spider
+==================,DECK,5415
+0,Enchantment,Strength
+1,Creature,Ghoul
+2,Creature,Death Ancient Demon of the Dead
+3,Spell,Frost
+4,Enchantment,Strength
+5,Creature,Eagle
+6,Creature,Snow Undead Orc
+7,Creature,Troll
+8,Creature,Spider
+9,Enchantment,Dark Shrink
+10,Creature,Light Ancient Wizard of the Sky
+11,Artifact,Irate Grim Pendant
+12,Enchantment,Invert
+13,Spell,Freeze
+14,Artifact,Helmet
+15,Artifact,Empyrean Nimble Belt
+16,Enchantment,Mighty Shimmering Agony
+17,Creature,Wolf
+18,Creature,Snow Lord Griffin
+19,Creature,Troll
+20,Creature,Warlock
+21,Creature,Magi
+22,Creature,Berserker
+23,Creature,Fairy
+24,Enchantment,Shrink
+25,Artifact,Crown
+26,Artifact,Cataclysmic Helm
+27,Spell,Apocalypse Gale
+28,Artifact,Scythe
+29,Enchantment,Blight
+30,Spell,Empyrean Forged Sorrow
+31,Creature,Ghoul
+32,Creature,Warlock
+33,Spell,Torment
+34,Enchantment,Drain
+35,Creature,Eagle
+36,Enchantment,Invert
+37,Enchantment,Dire Forged Age
+38,Creature,Ghoul
+39,Enchantment,Sorrow Flight
+40,Creature,Warlock
+41,Creature,Light Undead Hydra
+42,Creature,Troll
+43,Enchantment,Drain
+44,Creature,Paladin

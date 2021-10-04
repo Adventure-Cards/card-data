@@ -1,46 +1,46 @@
-==================,DECK,7548,Medium
-0,Creature,Rare,Light King Griffin
-1,Creature,Common,Orc
-2,Creature,Rare,Frozen Warrior Minotaur
-3,Spell,Rare,Forged Wall
-4,Creature,Common,Wolf
-5,Creature,Common,Warlock
-6,Creature,Rare,Snow Knight Skin-Walker
-7,Spell,Common,Freeze
-8,Enchantment,Common,Drain
-9,Creature,Rare,Earth Priest Skin-Walker
-10,Spell,Common,Hypnosis
-11,Creature,Common,Orc
-12,Creature,Rare,Snow Queen Skin-Walker
-13,Enchantment,Common,Shrink
-14,Enchantment,Common,Invert
-15,Creature,Rare,Dark Fighter Hydra
-16,Creature,Rare,Frozen Thief Skin-Walker
-17,Artifact,Legendary,Instant Crown
-18,Spell,Common,Fury
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Age
-21,Creature,Rare,Dark Undead Minotaur
-22,Creature,Mythic,Aura Undead Phoenix of the Light
-23,Spell,Rare,Gloom Wall
-24,Spell,Legendary,Intense Burst
-25,Spell,Rare,Nimble Wall
-26,Creature,Mythic,Dark Time Phoenix of Illusion
-27,Creature,Common,Ghoul
-28,Artifact,Common,Sword
-29,Enchantment,Mythic,Clever Haste
-30,Spell,Common,Burn
-31,Spell,Common,Stricken
-32,Enchantment,Rare,Corpse Shade
-33,Artifact,Common,Scepter
-34,Creature,Common,Orc
-35,Spell,Rare,Nature Stricken
-36,Creature,Common,Ghoul
-37,Spell,Common,Stricken
-38,Creature,Common,Goblin
-39,Enchantment,Common,Strength
-40,Enchantment,Common,Lethargy
-41,Creature,Common,Ghoul
-42,Creature,Rare,Light Monk Minotaur
-43,Enchantment,Common,Flight
-44,Spell,Rare,Nature Sorrow
+==================,DECK,7548
+0,Creature,Light King Griffin
+1,Creature,Spider
+2,Creature,Frozen Warrior Cyclops
+3,Spell,Chimeric Gale
+4,Creature,Wolf
+5,Creature,Berserker
+6,Creature,Snow Knight Orc
+7,Spell,Burn
+8,Enchantment,Flight
+9,Creature,Earth Priest Orc
+10,Spell,Freeze
+11,Creature,Spider
+12,Creature,Snow Queen Orc
+13,Enchantment,Flight
+14,Enchantment,Blight
+15,Creature,Dark Fighter Hydra
+16,Creature,Frozen Thief Orc
+17,Artifact,Zealous Necro Crown
+18,Spell,Ice
+19,Creature,Ghoul
+20,Enchantment,Shade
+21,Creature,Dark Undead Cyclops
+22,Creature,Aura Undead Phoenix of the Light
+23,Spell,Gloom Burn
+24,Spell,Clever Nature Infuriate
+25,Spell,Nature Wall
+26,Creature,Dark Time Phoenix of Illusion
+27,Creature,Ghoul
+28,Artifact,Sword
+29,Enchantment,Zealous Life Blight
+30,Spell,Pandemonium
+31,Spell,Ice
+32,Enchantment,Necro Strength
+33,Artifact,Scepter
+34,Creature,Spider
+35,Spell,Shimmering Pandemonium
+36,Creature,Ghoul
+37,Spell,Frost
+38,Creature,Skin-Walker
+39,Enchantment,Drain
+40,Enchantment,Alacrity
+41,Creature,Ghoul
+42,Creature,Light Monk Cyclops
+43,Enchantment,Invert
+44,Spell,Corpse Reanimate

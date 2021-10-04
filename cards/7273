@@ -1,46 +1,46 @@
-==================,DECK,7273,Strong
-0,Creature,Common,Elf
-1,Enchantment,Rare,Dark Lethargy
-2,Artifact,Rare,Frigid Helm
-3,Creature,Mythic,Frozen Grand Wizard of the Void
-4,Creature,Mythic,Light Nameless Dragon of the Sky
-5,Artifact,Mythic,Mighty Crown
-6,Creature,Legendary,Frozen Rogue Orge of the Arctic Blizzards
-7,Creature,Common,Ghoul
-8,Creature,Legendary,Snow Rogue Giant of the Frozen Castle
-9,Artifact,Rare,Miracle Staff
-10,Creature,Rare,Snow Queen Berserker
-11,Enchantment,Common,Invert
-12,Creature,Legendary,Snow Fighter Orge of the Low Hills
-13,Creature,Rare,Light Monk Berserker
-14,Artifact,Mythic,Mighty Bow
-15,Spell,Rare,Forged Gravitation
-16,Spell,Common,Stricken
-17,Enchantment,Rare,Lunar Blight
-18,Spell,Legendary,Clever Frost
-19,Creature,Rare,Snow Monk Skin-Walker
-20,Creature,Common,Orc
-21,Creature,Rare,Dark Fighter Minotaur
-22,Enchantment,Legendary,Extreme Lethargy
-23,Creature,Rare,Snow Lord Griffin
-24,Artifact,Common,Scythe
-25,Spell,Common,Burn
-26,Enchantment,Common,Shade
-27,Enchantment,Rare,Solar Lethargy
-28,Enchantment,Legendary,Angry Agony
-29,Spell,Common,Maelstrom
-30,Creature,Rare,Snow Priest Berserker
-31,Creature,Rare,Snow Priest Skin-Walker
-32,Creature,Rare,Death Assassin Fairy
-33,Creature,Common,Magi
-34,Spell,Common,Pandemonium
-35,Spell,Common,Heal
-36,Creature,Rare,Aura Thief Minotaur
-37,Creature,Rare,Death Merchant Skin-Walker
-38,Enchantment,Common,Age
-39,Spell,Mythic,Intense Maelstrom
-40,Spell,Rare,Life Pandemonium
-41,Creature,Rare,Earth Lord Hydra
-42,Enchantment,Common,Haste
-43,Spell,Common,Lightning
-44,Enchantment,Rare,Nimble Alacrity
+==================,DECK,7273
+0,Creature,Warlock
+1,Enchantment,Lunar Firebreath
+2,Artifact,Oblivion Helm
+3,Creature,Frozen Grand Wizard of the Void
+4,Creature,Light Nameless Dragon of the Sky
+5,Artifact,Irate Lunar Crown
+6,Creature,Frozen Rogue Elf of the Arctic Blizzards
+7,Creature,Ghoul
+8,Creature,Snow Rogue Dwarf of the Frozen Castle
+9,Artifact,Apocalypse Staff
+10,Creature,Snow Queen Goblin
+11,Enchantment,Deathgrip
+12,Creature,Snow Fighter Elf of the Low Hills
+13,Creature,Light Monk Goblin
+14,Artifact,Mighty Lunar Bow
+15,Spell,Gloom Gravitation
+16,Spell,Infuriate
+17,Enchantment,Cataclysmic Shrink
+18,Spell,Dire Nimble Ice
+19,Creature,Snow Monk Orc
+20,Creature,Spider
+21,Creature,Dark Fighter Cyclops
+22,Enchantment,Irate Lunar Alacrity
+23,Creature,Snow Lord Griffin
+24,Artifact,Scythe
+25,Spell,Burn
+26,Enchantment,Shield
+27,Enchantment,Hateful Strength
+28,Enchantment,Ardent Miracle Shield
+29,Spell,Infuriate
+30,Creature,Snow Priest Goblin
+31,Creature,Snow Priest Orc
+32,Creature,Death Assassin Kraken
+33,Creature,Fairy
+34,Spell,Assault
+35,Spell,Torment
+36,Creature,Aura Thief Cyclops
+37,Creature,Death Merchant Orc
+38,Enchantment,Blight
+39,Spell,Zealous Hateful Revive
+40,Spell,Oblivion Hypnosis
+41,Creature,Earth Lord Hydra
+42,Enchantment,Deathgrip
+43,Spell,Ice
+44,Enchantment,Forged Lethargy

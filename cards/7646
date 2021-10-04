@@ -1,46 +1,46 @@
-==================,DECK,7646,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Elf
-2,Creature,Rare,Aura Assassin Griffin
-3,Creature,Common,Wolf
-4,Spell,Common,Freeze
-5,Creature,Rare,Frozen Lord Minotaur
-6,Creature,Common,Spider
-7,Spell,Common,Gravitation
-8,Enchantment,Common,Alacrity
-9,Creature,Rare,Snow Queen Skin-Walker
-10,Enchantment,Legendary,Potent Shrink
-11,Spell,Common,Fury
-12,Creature,Common,Warlock
-13,Spell,Legendary,Extreme Vortex
-14,Creature,Common,Elf
-15,Creature,Common,Elf
-16,Enchantment,Common,Shrink
-17,Creature,Rare,Light Knight Hydra
-18,Artifact,Common,Ring
-19,Creature,Common,Paladin
-20,Creature,Rare,Death Warrior Hydra
-21,Spell,Rare,Necro Fury
-22,Creature,Rare,Snow Rogue Fairy
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Age
-25,Enchantment,Common,Age
-26,Creature,Common,Magi
-27,Creature,Common,Goblin
-28,Creature,Common,Goblin
-29,Spell,Common,Frost
-30,Creature,Common,Warlock
-31,Spell,Common,Pandemonium
-32,Creature,Legendary,Light Lord Orge of the Border
-33,Creature,Rare,Snow King Fairy
-34,Creature,Common,Wolf
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Alacrity
-37,Spell,Legendary,Urgent Burn
-38,Creature,Common,Elf
-39,Creature,Common,Magi
-40,Enchantment,Mythic,Extreme Blight
-41,Creature,Common,Elf
-42,Creature,Common,Elf
-43,Spell,Common,Heal
-44,Creature,Common,Magi
+==================,DECK,7646
+0,Creature,Skin-Walker
+1,Creature,Warlock
+2,Creature,Aura Assassin Griffin
+3,Creature,Wolf
+4,Spell,Torment
+5,Creature,Frozen Lord Cyclops
+6,Creature,Paladin
+7,Spell,Frost
+8,Enchantment,Blight
+9,Creature,Snow Queen Orc
+10,Enchantment,Mighty Frigid Invert
+11,Spell,Stun
+12,Creature,Berserker
+13,Spell,Irate Lunar Lightning
+14,Creature,Warlock
+15,Creature,Warlock
+16,Enchantment,Haste
+17,Creature,Light Knight Hydra
+18,Artifact,Ring
+19,Creature,Troll
+20,Creature,Death Warrior Hydra
+21,Spell,Nature Rage
+22,Creature,Snow Rogue Kraken
+23,Creature,Magi
+24,Enchantment,Strength
+25,Enchantment,Invert
+26,Creature,Fairy
+27,Creature,Skin-Walker
+28,Creature,Skin-Walker
+29,Spell,Burst
+30,Creature,Berserker
+31,Spell,Assault
+32,Creature,Light Lord Elf of the Border
+33,Creature,Snow King Kraken
+34,Creature,Wolf
+35,Creature,Magi
+36,Enchantment,Firebreath
+37,Spell,Mighty Necro Wall
+38,Creature,Warlock
+39,Creature,Fairy
+40,Enchantment,Zealous Cataclysmic Alacrity
+41,Creature,Warlock
+42,Creature,Warlock
+43,Spell,Sorrow
+44,Creature,Fairy

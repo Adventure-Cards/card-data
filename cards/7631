@@ -1,46 +1,46 @@
-==================,DECK,7631,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Lightning
-2,Enchantment,Common,Shield
-3,Creature,Common,Eagle
-4,Artifact,Common,Cloak
-5,Artifact,Common,Boots
-6,Enchantment,Mythic,Angry Blight
-7,Creature,Common,Elf
-8,Enchantment,Common,Drain
-9,Creature,Common,Warlock
-10,Spell,Common,Torment
-11,Creature,Common,Wolf
-12,Creature,Common,Elf
-13,Creature,Common,Dwarf
-14,Artifact,Common,Tome
-15,Creature,Common,Wolf
-16,Spell,Common,Reanimate
-17,Creature,Rare,Earth Assassin Griffin
-18,Spell,Common,Heal
-19,Creature,Common,Dwarf
-20,Enchantment,Rare,Frigid Invert
-21,Spell,Common,Lightning
-22,Creature,Common,Paladin
-23,Creature,Rare,Death Warrior Minotaur
-24,Creature,Common,Orc
-25,Artifact,Common,Crown
-26,Creature,Rare,Dark Monk Minotaur
-27,Creature,Mythic,Death Time Dragon of the Dead
-28,Artifact,Common,Bow
-29,Creature,Rare,Dark King Griffin
-30,Creature,Rare,Aura Warrior Griffin
-31,Creature,Common,Goblin
-32,Creature,Common,Dwarf
-33,Spell,Common,Heal
-34,Creature,Common,Goblin
-35,Artifact,Common,Amulet
-36,Creature,Common,Wolf
-37,Creature,Common,Magi
-38,Spell,Common,Sorrow
-39,Creature,Common,Orc
-40,Enchantment,Common,Agony
-41,Spell,Legendary,Clever Revive
-42,Enchantment,Common,Invert
-43,Creature,Common,Wolf
-44,Creature,Common,Magi
+==================,DECK,7631
+0,Creature,Ghoul
+1,Spell,Frenzy
+2,Enchantment,Shield
+3,Creature,Eagle
+4,Artifact,Cloak
+5,Artifact,Boots
+6,Enchantment,Potent Cataclysmic Shrink
+7,Creature,Warlock
+8,Enchantment,Deathgrip
+9,Creature,Berserker
+10,Spell,Fury
+11,Creature,Wolf
+12,Creature,Warlock
+13,Creature,Magi
+14,Artifact,Tome
+15,Creature,Wolf
+16,Spell,Pandemonium
+17,Creature,Earth Assassin Griffin
+18,Spell,Burst
+19,Creature,Magi
+20,Enchantment,Oblivion Shade
+21,Spell,Freeze
+22,Creature,Troll
+23,Creature,Death Warrior Cyclops
+24,Creature,Spider
+25,Artifact,Crown
+26,Creature,Dark Monk Cyclops
+27,Creature,Death Time Dragon of the Dead
+28,Artifact,Bow
+29,Creature,Dark King Griffin
+30,Creature,Aura Warrior Griffin
+31,Creature,Skin-Walker
+32,Creature,Magi
+33,Spell,Burst
+34,Creature,Skin-Walker
+35,Artifact,Amulet
+36,Creature,Wolf
+37,Creature,Fairy
+38,Spell,Revive
+39,Creature,Spider
+40,Enchantment,Shrink
+41,Spell,Urgent Grim Burn
+42,Enchantment,Firebreath
+43,Creature,Wolf
+44,Creature,Fairy

@@ -1,46 +1,46 @@
-==================,DECK,4151,Light
-0,Creature,Common,Elf
-1,Creature,Legendary,Snow King Cyclops of the Eternal Land
-2,Spell,Common,Burn
-3,Spell,Common,Gravitation
-4,Enchantment,Common,Strength
-5,Creature,Common,Magi
-6,Enchantment,Common,Shade
-7,Creature,Rare,Light Lord Minotaur
-8,Creature,Common,Magi
-9,Enchantment,Common,Deathgrip
-10,Artifact,Common,Helmet
-11,Spell,Rare,Apocalypse Stun
-12,Spell,Rare,Lunar Stricken
-13,Creature,Common,Magi
-14,Creature,Common,Spider
-15,Creature,Common,Warlock
-16,Creature,Common,Orc
-17,Creature,Common,Orc
-18,Spell,Common,Wall
-19,Enchantment,Common,Strength
-20,Creature,Common,Warlock
-21,Artifact,Rare,Shimmering Gauntlet
-22,Enchantment,Rare,Hateful Age
-23,Enchantment,Mythic,Extreme Shrink
-24,Creature,Common,Orc
-25,Spell,Legendary,Dire Maelstrom
-26,Spell,Common,Sorrow
-27,Enchantment,Rare,Lunar Age
-28,Artifact,Common,Potion
-29,Artifact,Common,Gloves
-30,Enchantment,Mythic,Intense Age
-31,Creature,Legendary,Dark Lord Giant of the Mountains
-32,Spell,Rare,Life Sorrow
-33,Creature,Common,Magi
-34,Enchantment,Rare,Corpse Agony
-35,Artifact,Common,Crown
-36,Creature,Legendary,Aura Priest Giant of the Black Stone
-37,Spell,Common,Sorrow
-38,Spell,Rare,Miracle Burn
-39,Creature,Common,Dwarf
-40,Creature,Rare,Death Knight Fairy
-41,Artifact,Rare,Grim Amulet
-42,Creature,Common,Ghoul
-43,Enchantment,Rare,Gloom Shield
-44,Creature,Common,Paladin
+==================,DECK,4151
+0,Creature,Warlock
+1,Creature,Snow King Giant of the Eternal Land
+2,Spell,Sorrow
+3,Spell,Freeze
+4,Enchantment,Shade
+5,Creature,Fairy
+6,Enchantment,Agony
+7,Creature,Light Lord Cyclops
+8,Creature,Fairy
+9,Enchantment,Invert
+10,Artifact,Helmet
+11,Spell,Nimble Frenzy
+12,Spell,Miracle Reanimate
+13,Creature,Fairy
+14,Creature,Paladin
+15,Creature,Berserker
+16,Creature,Spider
+17,Creature,Spider
+18,Spell,Burst
+19,Enchantment,Flight
+20,Creature,Berserker
+21,Artifact,Nature Gauntlet
+22,Enchantment,Gloom Shield
+23,Enchantment,Empyrean Chimeric Firebreath
+24,Creature,Spider
+25,Spell,Zealous Victory Lightning
+26,Spell,Rage
+27,Enchantment,Gloom Shield
+28,Artifact,Potion
+29,Artifact,Gloves
+30,Enchantment,Mighty Nature Agony
+31,Creature,Dark Lord Dwarf of the Mountains
+32,Spell,Nimble Wall
+33,Creature,Fairy
+34,Enchantment,Corpse Deathgrip
+35,Artifact,Crown
+36,Creature,Aura Priest Dwarf of the Black Stone
+37,Spell,Fireball
+38,Spell,Apocalypse Torment
+39,Creature,Magi
+40,Creature,Death Knight Kraken
+41,Artifact,Nimble Amulet
+42,Creature,Ghoul
+43,Enchantment,Gloom Alacrity
+44,Creature,Troll

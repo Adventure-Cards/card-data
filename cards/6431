@@ -1,46 +1,46 @@
-==================,DECK,6431,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Snow Lord Griffin
-2,Spell,Common,Heal
-3,Enchantment,Common,Shrink
-4,Creature,Rare,Earth King Hydra
-5,Enchantment,Common,Shrink
-6,Spell,Common,Rage
-7,Creature,Common,Warlock
-8,Enchantment,Common,Agony
-9,Enchantment,Common,Haste
-10,Artifact,Rare,Miracle Bow
-11,Enchantment,Common,Haste
-12,Creature,Rare,Earth Warrior Minotaur
-13,Artifact,Common,Potion
-14,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-15,Creature,Rare,Light Thief Berserker
-16,Creature,Common,Spider
-17,Artifact,Common,Sword
-18,Spell,Common,Assault
-19,Creature,Common,Goblin
-20,Creature,Legendary,Frozen Assassin Kraken of the Black Stone
-21,Creature,Mythic,Frozen Chaos Demon of the Void
-22,Enchantment,Common,Age
-23,Spell,Common,Freeze
-24,Creature,Common,Paladin
-25,Creature,Rare,Light Queen Fairy
-26,Creature,Legendary,Earth Lord Cyclops of the Golden Palace
-27,Creature,Common,Magi
-28,Creature,Common,Magi
-29,Creature,Legendary,Frozen Priest Orge of the Polar Woods
-30,Enchantment,Rare,Lunar Blight
-31,Creature,Rare,Snow Merchant Minotaur
-32,Enchantment,Mythic,Extreme Flight
-33,Creature,Common,Warlock
-34,Artifact,Common,Ghost Wand
-35,Spell,Common,Frenzy
-36,Enchantment,Rare,Miracle Shrink
-37,Enchantment,Common,Shield
-38,Spell,Rare,Hateful Burst
-39,Enchantment,Common,Lethargy
-40,Artifact,Rare,Cataclysmic Shield
-41,Enchantment,Mythic,Instant Shrink
-42,Creature,Rare,Snow Merchant Griffin
-43,Enchantment,Common,Deathgrip
-44,Creature,Common,Elf
+==================,DECK,6431
+0,Creature,Eagle
+1,Creature,Snow Lord Griffin
+2,Spell,Infuriate
+3,Enchantment,Firebreath
+4,Creature,Earth King Hydra
+5,Enchantment,Flight
+6,Spell,Pandemonium
+7,Creature,Berserker
+8,Enchantment,Agony
+9,Enchantment,Strength
+10,Artifact,Life Bow
+11,Enchantment,Shield
+12,Creature,Earth Warrior Cyclops
+13,Artifact,Potion
+14,Creature,Snow Merchant Oni of the Magical Forest
+15,Creature,Light Thief Goblin
+16,Creature,Paladin
+17,Artifact,Sword
+18,Spell,Hypnosis
+19,Creature,Skin-Walker
+20,Creature,Frozen Assassin Ogre of the Black Stone
+21,Creature,Frozen Chaos Demon of the Void
+22,Enchantment,Invert
+23,Spell,Stun
+24,Creature,Troll
+25,Creature,Light Queen Kraken
+26,Creature,Earth Lord Giant of the Golden Palace
+27,Creature,Fairy
+28,Creature,Fairy
+29,Creature,Frozen Priest Elf of the Polar Woods
+30,Enchantment,Cataclysmic Alacrity
+31,Creature,Snow Merchant Cyclops
+32,Enchantment,Zealous Lunar Alacrity
+33,Creature,Berserker
+34,Artifact,Ghost Wand
+35,Spell,Pandemonium
+36,Enchantment,Frigid Blight
+37,Enchantment,Invert
+38,Spell,Chimeric Pandemonium
+39,Enchantment,Alacrity
+40,Artifact,Cataclysmic Shield
+41,Enchantment,Empyrean Necro Age
+42,Creature,Snow Merchant Griffin
+43,Enchantment,Firebreath
+44,Creature,Warlock

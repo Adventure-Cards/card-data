@@ -1,46 +1,46 @@
-==================,DECK,4478,Medium
-0,Artifact,Common,Gauntlet
-1,Creature,Mythic,Frozen Undead Phoenix of the Void
-2,Creature,Common,Magi
-3,Spell,Rare,Cataclysmic Fury
-4,Enchantment,Common,Strength
-5,Spell,Common,Invisibility
-6,Creature,Common,Wolf
-7,Enchantment,Rare,Gloom Shade
-8,Artifact,Common,Scepter
-9,Creature,Rare,Dark King Fairy
-10,Enchantment,Rare,Hateful Deathgrip
-11,Creature,Rare,Frozen Queen Berserker
-12,Creature,Rare,Dark Warrior Skin-Walker
-13,Creature,Common,Warlock
-14,Creature,Rare,Death Rogue Hydra
-15,Spell,Common,Reanimate
-16,Creature,Common,Eagle
-17,Spell,Rare,Grim Lightning
-18,Enchantment,Legendary,Intense Strength
-19,Artifact,Rare,Corpse Bow
-20,Creature,Common,Spider
-21,Enchantment,Common,Agony
-22,Creature,Rare,Snow Merchant Fairy
-23,Creature,Common,Dwarf
-24,Creature,Common,Warlock
-25,Creature,Mythic,Frozen Time Phoenix of the Void
-26,Enchantment,Mythic,Instant Deathgrip
-27,Enchantment,Common,Deathgrip
-28,Artifact,Common,Sword
-29,Creature,Rare,Light Thief Hydra
-30,Spell,Common,Torment
-31,Creature,Common,Wolf
-32,Artifact,Common,Pendant
-33,Spell,Common,Stricken
-34,Creature,Rare,Light Queen Berserker
-35,Creature,Legendary,Dark Fighter Kraken of the Frozen Castle
-36,Creature,Rare,Earth Priest Berserker
-37,Creature,Common,Eagle
-38,Creature,Common,Goblin
-39,Artifact,Rare,Apocalypse Gloves
-40,Creature,Mythic,Frozen Grand Demon of the Void
-41,Creature,Rare,Aura Undead Berserker
-42,Creature,Common,Goblin
-43,Creature,Rare,Snow Warrior Griffin
-44,Spell,Common,Wall
+==================,DECK,4478
+0,Artifact,Gauntlet
+1,Creature,Frozen Undead Phoenix of the Void
+2,Creature,Fairy
+3,Spell,Dark Infuriate
+4,Enchantment,Flight
+5,Spell,Gale
+6,Creature,Wolf
+7,Enchantment,Chimeric Alacrity
+8,Artifact,Scepter
+9,Creature,Dark King Kraken
+10,Enchantment,Sorrow Alacrity
+11,Creature,Frozen Queen Goblin
+12,Creature,Dark Warrior Orc
+13,Creature,Berserker
+14,Creature,Death Rogue Hydra
+15,Spell,Gravitation
+16,Creature,Eagle
+17,Spell,Oblivion Freeze
+18,Enchantment,Dire Solar Age
+19,Artifact,Necro Bow
+20,Creature,Paladin
+21,Enchantment,Shade
+22,Creature,Snow Merchant Kraken
+23,Creature,Magi
+24,Creature,Berserker
+25,Creature,Frozen Time Phoenix of the Void
+26,Enchantment,Clever Shimmering Lethargy
+27,Enchantment,Firebreath
+28,Artifact,Sword
+29,Creature,Light Thief Hydra
+30,Spell,Freeze
+31,Creature,Wolf
+32,Artifact,Pendant
+33,Spell,Hypnosis
+34,Creature,Light Queen Goblin
+35,Creature,Dark Fighter Ogre of the Frozen Castle
+36,Creature,Earth Priest Goblin
+37,Creature,Eagle
+38,Creature,Skin-Walker
+39,Artifact,Nimble Gloves
+40,Creature,Frozen Grand Demon of the Void
+41,Creature,Aura Undead Goblin
+42,Creature,Skin-Walker
+43,Creature,Snow Warrior Griffin
+44,Spell,Lightning

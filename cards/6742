@@ -1,46 +1,46 @@
-==================,DECK,6742,Light
-0,Spell,Common,Assault
-1,Creature,Common,Magi
-2,Creature,Rare,Aura Monk Fairy
-3,Creature,Rare,Light Assassin Fairy
-4,Creature,Mythic,Aura Undead Dragon of the Light
-5,Spell,Rare,Oblivion Wall
-6,Creature,Common,Magi
-7,Enchantment,Legendary,Angry Shrink
-8,Creature,Common,Elf
-9,Artifact,Rare,Grim Scepter
-10,Spell,Legendary,Clever Gravitation
-11,Creature,Rare,Frozen Knight Skin-Walker
-12,Spell,Common,Fury
-13,Spell,Common,Burn
-14,Creature,Common,Warlock
-15,Creature,Mythic,Snow Time Phoenix of Hate
-16,Creature,Mythic,Frozen Undead Phoenix of the Void
-17,Creature,Rare,Dark Undead Skin-Walker
-18,Creature,Common,Wolf
-19,Enchantment,Mythic,Angry Shade
-20,Spell,Common,Pandemonium
-21,Creature,Common,Dwarf
-22,Enchantment,Legendary,Urgent Shade
-23,Enchantment,Mythic,Dire Blight
-24,Creature,Common,Elf
-25,Creature,Common,Goblin
-26,Creature,Common,Eagle
-27,Spell,Common,Burst
-28,Enchantment,Common,Flight
-29,Creature,Common,Orc
-30,Creature,Mythic,Aura Nameless Phoenix of the Light
-31,Spell,Rare,Grim Gravitation
-32,Creature,Rare,Dark Lord Fairy
-33,Enchantment,Common,Age
-34,Creature,Common,Elf
-35,Enchantment,Common,Age
-36,Enchantment,Rare,Forged Agony
-37,Creature,Rare,Snow King Skin-Walker
-38,Creature,Legendary,Snow Merchant Orge of the Swamp
-39,Spell,Rare,Solar Frenzy
-40,Spell,Common,Freeze
-41,Spell,Rare,Cataclysmic Reanimate
-42,Creature,Rare,Dark King Skin-Walker
-43,Creature,Rare,Death Warrior Fairy
-44,Spell,Common,Stun
+==================,DECK,6742
+0,Spell,Heal
+1,Creature,Fairy
+2,Creature,Aura Monk Kraken
+3,Creature,Light Assassin Kraken
+4,Creature,Aura Undead Dragon of the Light
+5,Spell,Victory Wall
+6,Creature,Fairy
+7,Enchantment,Zealous Chimeric Alacrity
+8,Creature,Warlock
+9,Artifact,Apocalypse Scepter
+10,Spell,Ardent Life Reanimate
+11,Creature,Frozen Knight Orc
+12,Spell,Ice
+13,Spell,Sorrow
+14,Creature,Berserker
+15,Creature,Snow Time Phoenix of Hate
+16,Creature,Frozen Undead Phoenix of the Void
+17,Creature,Dark Undead Orc
+18,Creature,Wolf
+19,Enchantment,Instant Chimeric Shrink
+20,Spell,Burst
+21,Creature,Magi
+22,Enchantment,Irate Necro Deathgrip
+23,Enchantment,Potent Nimble Drain
+24,Creature,Warlock
+25,Creature,Skin-Walker
+26,Creature,Eagle
+27,Spell,Rage
+28,Enchantment,Strength
+29,Creature,Spider
+30,Creature,Aura Nameless Phoenix of the Light
+31,Spell,Grim Assault
+32,Creature,Dark Lord Kraken
+33,Enchantment,Alacrity
+34,Creature,Warlock
+35,Enchantment,Strength
+36,Enchantment,Miracle Firebreath
+37,Creature,Snow King Orc
+38,Creature,Snow Merchant Elf of the Swamp
+39,Spell,Solar Tempest
+40,Spell,Revive
+41,Spell,Miracle Invisibility
+42,Creature,Dark King Orc
+43,Creature,Death Warrior Kraken
+44,Spell,Frenzy

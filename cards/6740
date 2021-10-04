@@ -1,46 +1,46 @@
-==================,DECK,6740,Medium
-0,Creature,Rare,Snow Undead Griffin
-1,Enchantment,Common,Blight
-2,Creature,Common,Orc
-3,Enchantment,Common,Drain
-4,Spell,Common,Ice
-5,Creature,Common,Elf
-6,Spell,Common,Ice
-7,Spell,Mythic,Intense Infuriate
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Spell,Common,Reanimate
-11,Creature,Common,Wolf
-12,Creature,Common,Eagle
-13,Creature,Common,Eagle
-14,Spell,Legendary,Intense Fury
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Burst
-17,Creature,Rare,Snow King Hydra
-18,Spell,Common,Stun
-19,Creature,Common,Magi
-20,Creature,Common,Eagle
-21,Spell,Rare,Life Infuriate
-22,Creature,Common,Spider
-23,Enchantment,Common,Flight
-24,Creature,Common,Elf
-25,Creature,Common,Elf
-26,Creature,Common,Ghoul
-27,Enchantment,Common,Haste
-28,Creature,Common,Elf
-29,Enchantment,Mythic,Urgent Shrink
-30,Enchantment,Rare,Nimble Invert
-31,Spell,Common,Pandemonium
-32,Creature,Mythic,Death Undead Dragon of the Dead
-33,Enchantment,Common,Flight
-34,Spell,Rare,Oblivion Invisibility
-35,Creature,Common,Warlock
-36,Creature,Common,Spider
-37,Enchantment,Common,Age
-38,Artifact,Rare,Lunar Gauntlet
-39,Creature,Common,Magi
-40,Spell,Legendary,Dire Pandemonium
-41,Creature,Common,Wolf
-42,Creature,Legendary,Death Undead Orge of the Polar Woods
-43,Spell,Legendary,Instant Reanimate
-44,Creature,Common,Dwarf
+==================,DECK,6740
+0,Creature,Snow Undead Griffin
+1,Enchantment,Alacrity
+2,Creature,Spider
+3,Enchantment,Blight
+4,Spell,Frenzy
+5,Creature,Warlock
+6,Spell,Maelstrom
+7,Spell,Potent Nature Burst
+8,Creature,Spider
+9,Creature,Spider
+10,Spell,Revive
+11,Creature,Wolf
+12,Creature,Eagle
+13,Creature,Eagle
+14,Spell,Zealous Shimmering Heal
+15,Enchantment,Shrink
+16,Spell,Revive
+17,Creature,Snow King Hydra
+18,Spell,Freeze
+19,Creature,Fairy
+20,Creature,Eagle
+21,Spell,Life Sorrow
+22,Creature,Paladin
+23,Enchantment,Lethargy
+24,Creature,Warlock
+25,Creature,Warlock
+26,Creature,Ghoul
+27,Enchantment,Firebreath
+28,Creature,Warlock
+29,Enchantment,Empyrean Necro Age
+30,Enchantment,Shimmering Strength
+31,Spell,Sorrow
+32,Creature,Death Undead Dragon of the Dead
+33,Enchantment,Deathgrip
+34,Spell,Grim Frost
+35,Creature,Berserker
+36,Creature,Paladin
+37,Enchantment,Drain
+38,Artifact,Sorrow Gauntlet
+39,Creature,Fairy
+40,Spell,Potent Frigid Reanimate
+41,Creature,Wolf
+42,Creature,Death Undead Elf of the Polar Woods
+43,Spell,Empyrean Hateful Invisibility
+44,Creature,Magi

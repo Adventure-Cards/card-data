@@ -1,46 +1,46 @@
-==================,DECK,5735,Medium
-0,Spell,Common,Hypnosis
-1,Enchantment,Common,Shade
-2,Artifact,Common,Cloak
-3,Enchantment,Mythic,Angry Deathgrip
-4,Enchantment,Common,Agony
-5,Creature,Common,Orc
-6,Spell,Common,Ice
-7,Creature,Legendary,Aura Lord Giant of the Black Stone
-8,Creature,Rare,Frozen Assassin Minotaur
-9,Enchantment,Common,Flight
-10,Artifact,Rare,Necro Boots
-11,Artifact,Rare,Corpse Ghost Wand
-12,Enchantment,Rare,Forged Lethargy
-13,Creature,Common,Warlock
-14,Creature,Common,Dwarf
-15,Creature,Common,Warlock
-16,Spell,Common,Revive
-17,Creature,Rare,Light Lord Skin-Walker
-18,Creature,Common,Paladin
-19,Creature,Common,Spider
-20,Creature,Rare,Frozen Monk Skin-Walker
-21,Enchantment,Common,Flight
-22,Creature,Rare,Aura Merchant Berserker
-23,Spell,Legendary,Potent Assault
-24,Spell,Rare,Nature Stricken
-25,Spell,Common,Stricken
-26,Enchantment,Common,Shield
-27,Enchantment,Rare,Hateful Drain
-28,Creature,Common,Wolf
-29,Enchantment,Rare,Forged Alacrity
-30,Spell,Common,Reanimate
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Legendary,Angry Age
-33,Spell,Common,Frost
-34,Spell,Legendary,Intense Frenzy
-35,Creature,Common,Paladin
-36,Creature,Common,Warlock
-37,Creature,Common,Eagle
-38,Creature,Rare,Dark King Berserker
-39,Creature,Common,Dwarf
-40,Enchantment,Rare,Gloom Lethargy
-41,Creature,Common,Goblin
-42,Creature,Common,Wolf
-43,Creature,Rare,Snow Warrior Fairy
-44,Creature,Common,Warlock
+==================,DECK,5735
+0,Spell,Rage
+1,Enchantment,Shade
+2,Artifact,Cloak
+3,Enchantment,Potent Sorrow Shrink
+4,Enchantment,Agony
+5,Creature,Spider
+6,Spell,Burst
+7,Creature,Aura Lord Dwarf of the Black Stone
+8,Creature,Frozen Assassin Cyclops
+9,Enchantment,Haste
+10,Artifact,Nature Boots
+11,Artifact,Forged Ghost Wand
+12,Enchantment,Lunar Shield
+13,Creature,Berserker
+14,Creature,Magi
+15,Creature,Berserker
+16,Spell,Burst
+17,Creature,Light Lord Orc
+18,Creature,Troll
+19,Creature,Paladin
+20,Creature,Frozen Monk Orc
+21,Enchantment,Invert
+22,Creature,Aura Merchant Goblin
+23,Spell,Irate Frigid Stun
+24,Spell,Nature Burst
+25,Spell,Rage
+26,Enchantment,Lethargy
+27,Enchantment,Dark Shrink
+28,Creature,Wolf
+29,Enchantment,Dark Shield
+30,Spell,Stricken
+31,Enchantment,Strength
+32,Enchantment,Mighty Gloom Flight
+33,Spell,Stricken
+34,Spell,Irate Forged Lightning
+35,Creature,Troll
+36,Creature,Berserker
+37,Creature,Eagle
+38,Creature,Dark King Goblin
+39,Creature,Magi
+40,Enchantment,Lunar Shield
+41,Creature,Skin-Walker
+42,Creature,Wolf
+43,Creature,Snow Warrior Kraken
+44,Creature,Berserker

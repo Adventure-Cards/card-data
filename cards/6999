@@ -1,46 +1,46 @@
-==================,DECK,6999,Light
-0,Artifact,Rare,Nature Bracers
-1,Artifact,Common,Sigil
-2,Creature,Common,Orc
-3,Spell,Common,Burst
-4,Creature,Common,Dwarf
-5,Creature,Rare,Dark Knight Fairy
-6,Enchantment,Common,Blight
-7,Creature,Rare,Dark Warrior Griffin
-8,Enchantment,Common,Deathgrip
-9,Creature,Rare,Aura Assassin Griffin
-10,Creature,Common,Magi
-11,Creature,Common,Wolf
-12,Creature,Rare,Light King Skin-Walker
-13,Creature,Common,Ghoul
-14,Spell,Legendary,Clever Freeze
-15,Enchantment,Common,Shrink
-16,Creature,Rare,Frozen Undead Berserker
-17,Artifact,Common,Staff
-18,Enchantment,Common,Lethargy
-19,Enchantment,Common,Shade
-20,Creature,Common,Paladin
-21,Creature,Rare,Snow King Fairy
-22,Spell,Common,Frenzy
-23,Creature,Common,Goblin
-24,Artifact,Common,Sigil
-25,Spell,Common,Gravitation
-26,Creature,Common,Wolf
-27,Spell,Common,Sorrow
-28,Spell,Common,Burst
-29,Creature,Common,Paladin
-30,Creature,Common,Goblin
-31,Spell,Common,Stricken
-32,Enchantment,Common,Alacrity
-33,Enchantment,Common,Shrink
-34,Artifact,Common,Ring
-35,Spell,Common,Stricken
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Strength
-38,Creature,Common,Wolf
-39,Spell,Legendary,Angry Gravitation
-40,Creature,Common,Goblin
-41,Creature,Common,Goblin
-42,Creature,Common,Spider
-43,Creature,Legendary,Frozen Warrior Kraken of the Swamp
-44,Spell,Legendary,Mighty Burst
+==================,DECK,6999
+0,Artifact,Necro Bracers
+1,Artifact,Sigil
+2,Creature,Spider
+3,Spell,Lightning
+4,Creature,Magi
+5,Creature,Dark Knight Kraken
+6,Enchantment,Alacrity
+7,Creature,Dark Warrior Griffin
+8,Enchantment,Lethargy
+9,Creature,Aura Assassin Griffin
+10,Creature,Fairy
+11,Creature,Wolf
+12,Creature,Light King Orc
+13,Creature,Ghoul
+14,Spell,Irate Frigid Frost
+15,Enchantment,Strength
+16,Creature,Frozen Undead Goblin
+17,Artifact,Staff
+18,Enchantment,Drain
+19,Enchantment,Deathgrip
+20,Creature,Troll
+21,Creature,Snow King Kraken
+22,Spell,Vortex
+23,Creature,Skin-Walker
+24,Artifact,Sigil
+25,Spell,Lightning
+26,Creature,Wolf
+27,Spell,Lightning
+28,Spell,Frenzy
+29,Creature,Troll
+30,Creature,Skin-Walker
+31,Spell,Stun
+32,Enchantment,Blight
+33,Enchantment,Drain
+34,Artifact,Ring
+35,Spell,Gravitation
+36,Creature,Ghoul
+37,Enchantment,Invert
+38,Creature,Wolf
+39,Spell,Ardent Miracle Gale
+40,Creature,Skin-Walker
+41,Creature,Skin-Walker
+42,Creature,Paladin
+43,Creature,Frozen Warrior Ogre of the Swamp
+44,Spell,Zealous Miracle Frost

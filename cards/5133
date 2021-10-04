@@ -1,46 +1,46 @@
-==================,DECK,5133,Light
-0,Enchantment,Common,Shade
-1,Spell,Common,Infuriate
-2,Creature,Rare,Frozen Assassin Fairy
-3,Spell,Rare,Life Stricken
-4,Creature,Common,Eagle
-5,Spell,Common,Assault
-6,Enchantment,Rare,Miracle Age
-7,Spell,Common,Vortex
-8,Spell,Common,Reanimate
-9,Enchantment,Common,Haste
-10,Creature,Common,Warlock
-11,Creature,Common,Wolf
-12,Spell,Common,Burn
-13,Creature,Common,Ghoul
-14,Spell,Rare,Necro Reanimate
-15,Enchantment,Common,Drain
-16,Creature,Legendary,Aura Lord Oni of the Polar Woods
-17,Creature,Common,Wolf
-18,Spell,Common,Ice
-19,Creature,Rare,Earth Warrior Berserker
-20,Creature,Common,Orc
-21,Enchantment,Common,Shield
-22,Creature,Common,Dwarf
-23,Creature,Common,Paladin
-24,Creature,Common,Paladin
-25,Spell,Rare,Necro Stun
-26,Creature,Common,Spider
-27,Creature,Rare,Frozen Warrior Berserker
-28,Spell,Common,Frenzy
-29,Enchantment,Common,Deathgrip
-30,Enchantment,Common,Lethargy
-31,Creature,Rare,Frozen Assassin Berserker
-32,Creature,Common,Dwarf
-33,Artifact,Common,Helm
-34,Creature,Common,Paladin
-35,Enchantment,Legendary,Extreme Strength
-36,Creature,Common,Goblin
-37,Creature,Common,Warlock
-38,Creature,Rare,Aura Queen Skin-Walker
-39,Artifact,Common,Boots
-40,Creature,Rare,Snow Warrior Hydra
-41,Creature,Common,Paladin
-42,Spell,Common,Heal
-43,Creature,Common,Paladin
-44,Creature,Rare,Light Fighter Fairy
+==================,DECK,5133
+0,Enchantment,Blight
+1,Spell,Wall
+2,Creature,Frozen Assassin Kraken
+3,Spell,Oblivion Fury
+4,Creature,Eagle
+5,Spell,Fireball
+6,Enchantment,Victory Blight
+7,Spell,Stun
+8,Spell,Vortex
+9,Enchantment,Firebreath
+10,Creature,Berserker
+11,Creature,Wolf
+12,Spell,Heal
+13,Creature,Ghoul
+14,Spell,Necro Pandemonium
+15,Enchantment,Lethargy
+16,Creature,Aura Lord Oni of the Polar Woods
+17,Creature,Wolf
+18,Spell,Frenzy
+19,Creature,Earth Warrior Goblin
+20,Creature,Spider
+21,Enchantment,Firebreath
+22,Creature,Magi
+23,Creature,Troll
+24,Creature,Troll
+25,Spell,Hateful Revive
+26,Creature,Paladin
+27,Creature,Frozen Warrior Goblin
+28,Spell,Frenzy
+29,Enchantment,Strength
+30,Enchantment,Strength
+31,Creature,Frozen Assassin Goblin
+32,Creature,Magi
+33,Artifact,Helm
+34,Creature,Troll
+35,Enchantment,Ardent Cataclysmic Shield
+36,Creature,Skin-Walker
+37,Creature,Berserker
+38,Creature,Aura Queen Orc
+39,Artifact,Boots
+40,Creature,Snow Warrior Hydra
+41,Creature,Troll
+42,Spell,Ice
+43,Creature,Troll
+44,Creature,Light Fighter Kraken

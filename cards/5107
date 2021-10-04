@@ -1,46 +1,46 @@
-==================,DECK,5107,Medium
-0,Creature,Legendary,Aura Assassin Orge of the Haven
-1,Spell,Rare,Frigid Invisibility
-2,Spell,Rare,Gloom Invisibility
-3,Artifact,Rare,Oblivion Cloak
-4,Creature,Common,Goblin
-5,Creature,Common,Dwarf
-6,Enchantment,Mythic,Clever Age
-7,Creature,Rare,Death Fighter Minotaur
-8,Enchantment,Common,Haste
-9,Spell,Common,Frost
-10,Artifact,Common,Gloves
-11,Enchantment,Rare,Necro Haste
-12,Enchantment,Mythic,Potent Invert
-13,Artifact,Common,Crown
-14,Enchantment,Common,Invert
-15,Creature,Common,Orc
-16,Spell,Legendary,Clever Wall
-17,Enchantment,Common,Flight
-18,Creature,Common,Eagle
-19,Enchantment,Common,Strength
-20,Spell,Rare,Grim Freeze
-21,Spell,Common,Invisibility
-22,Enchantment,Common,Invert
-23,Creature,Rare,Dark Queen Minotaur
-24,Creature,Legendary,Snow Merchant Giant of the Frozen Castle
-25,Enchantment,Common,Deathgrip
-26,Enchantment,Common,Blight
-27,Creature,Legendary,Light Fighter Giant of the Magical Forest
-28,Creature,Rare,Snow Fighter Fairy
-29,Enchantment,Common,Blight
-30,Creature,Legendary,Death Lord Cyclops of the Eternal Land
-31,Creature,Common,Wolf
-32,Creature,Rare,Earth Undead Minotaur
-33,Creature,Common,Magi
-34,Spell,Rare,Corpse Vortex
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Orc
-37,Creature,Common,Ghoul
-38,Enchantment,Rare,Oblivion Shield
-39,Creature,Common,Dwarf
-40,Enchantment,Rare,Oblivion Invert
-41,Spell,Rare,Apocalypse Burst
-42,Enchantment,Mythic,Extreme Age
-43,Creature,Rare,Frozen Assassin Berserker
-44,Spell,Common,Infuriate
+==================,DECK,5107
+0,Creature,Aura Assassin Elf of the Haven
+1,Spell,Life Gale
+2,Spell,Miracle Ice
+3,Artifact,Nimble Cloak
+4,Creature,Skin-Walker
+5,Creature,Magi
+6,Enchantment,Potent Victory Drain
+7,Creature,Death Fighter Cyclops
+8,Enchantment,Shield
+9,Spell,Sorrow
+10,Artifact,Gloves
+11,Enchantment,Corpse Lethargy
+12,Enchantment,Irate Oblivion Blight
+13,Artifact,Crown
+14,Enchantment,Firebreath
+15,Creature,Spider
+16,Spell,Dire Frigid Rage
+17,Enchantment,Drain
+18,Creature,Eagle
+19,Enchantment,Deathgrip
+20,Spell,Frigid Rage
+21,Spell,Reanimate
+22,Enchantment,Invert
+23,Creature,Dark Queen Cyclops
+24,Creature,Snow Merchant Dwarf of the Frozen Castle
+25,Enchantment,Lethargy
+26,Enchantment,Flight
+27,Creature,Light Fighter Dwarf of the Magical Forest
+28,Creature,Snow Fighter Kraken
+29,Enchantment,Alacrity
+30,Creature,Death Lord Giant of the Eternal Land
+31,Creature,Wolf
+32,Creature,Earth Undead Cyclops
+33,Creature,Fairy
+34,Spell,Nature Infuriate
+35,Enchantment,Flight
+36,Creature,Spider
+37,Creature,Ghoul
+38,Enchantment,Victory Haste
+39,Creature,Magi
+40,Enchantment,Oblivion Shade
+41,Spell,Frigid Frost
+42,Enchantment,Zealous Gloom Alacrity
+43,Creature,Frozen Assassin Goblin
+44,Spell,Burn

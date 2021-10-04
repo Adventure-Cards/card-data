@@ -1,46 +1,46 @@
-==================,DECK,6547,Light
-0,Creature,Common,Paladin
-1,Creature,Rare,Snow King Griffin
-2,Enchantment,Common,Drain
-3,Spell,Common,Rage
-4,Enchantment,Mythic,Urgent Haste
-5,Enchantment,Common,Drain
-6,Creature,Common,Elf
-7,Spell,Common,Lightning
-8,Creature,Legendary,Aura Thief Kraken of the Polar Woods
-9,Enchantment,Common,Shield
-10,Creature,Rare,Frozen King Hydra
-11,Artifact,Legendary,Urgent Greaves
-12,Enchantment,Common,Haste
-13,Creature,Common,Eagle
-14,Enchantment,Common,Age
-15,Creature,Legendary,Frozen Monk Orge of the Mountains
-16,Creature,Common,Wolf
-17,Enchantment,Common,Age
-18,Creature,Rare,Snow Priest Berserker
-19,Creature,Common,Spider
-20,Creature,Common,Dwarf
-21,Creature,Common,Magi
-22,Spell,Legendary,Mighty Stricken
-23,Artifact,Common,Helmet
-24,Creature,Common,Wolf
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Haste
-27,Creature,Legendary,Light Thief Kraken of the West
-28,Spell,Legendary,Clever Gale
-29,Artifact,Common,Gloves
-30,Enchantment,Rare,Solar Lethargy
-31,Creature,Common,Wolf
-32,Enchantment,Common,Blight
-33,Creature,Common,Magi
-34,Creature,Common,Warlock
-35,Enchantment,Common,Agony
-36,Creature,Rare,Light Knight Griffin
-37,Creature,Rare,Frozen Fighter Hydra
-38,Enchantment,Common,Shield
-39,Creature,Common,Dwarf
-40,Enchantment,Common,Drain
-41,Creature,Legendary,Death Lord Cyclops of the Eastern Skies
-42,Enchantment,Rare,Oblivion Shield
-43,Spell,Common,Sorrow
-44,Enchantment,Rare,Necro Age
+==================,DECK,6547
+0,Creature,Troll
+1,Creature,Snow King Griffin
+2,Enchantment,Invert
+3,Spell,Invisibility
+4,Enchantment,Clever Corpse Lethargy
+5,Enchantment,Haste
+6,Creature,Warlock
+7,Spell,Heal
+8,Creature,Aura Thief Ogre of the Polar Woods
+9,Enchantment,Age
+10,Creature,Frozen King Hydra
+11,Artifact,Urgent Nature Greaves
+12,Enchantment,Shield
+13,Creature,Eagle
+14,Enchantment,Haste
+15,Creature,Frozen Monk Elf of the Mountains
+16,Creature,Wolf
+17,Enchantment,Deathgrip
+18,Creature,Snow Priest Goblin
+19,Creature,Paladin
+20,Creature,Magi
+21,Creature,Fairy
+22,Spell,Empyrean Sorrow Sorrow
+23,Artifact,Helmet
+24,Creature,Wolf
+25,Creature,Ghoul
+26,Enchantment,Deathgrip
+27,Creature,Light Thief Ogre of the West
+28,Spell,Zealous Grim Fire
+29,Artifact,Gloves
+30,Enchantment,Hateful Strength
+31,Creature,Wolf
+32,Enchantment,Deathgrip
+33,Creature,Fairy
+34,Creature,Berserker
+35,Enchantment,Alacrity
+36,Creature,Light Knight Griffin
+37,Creature,Frozen Fighter Hydra
+38,Enchantment,Lethargy
+39,Creature,Magi
+40,Enchantment,Shrink
+41,Creature,Death Lord Giant of the Eastern Skies
+42,Enchantment,Victory Haste
+43,Spell,Gale
+44,Enchantment,Nature Deathgrip

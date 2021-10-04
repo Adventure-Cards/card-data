@@ -1,46 +1,46 @@
-==================,DECK,7810,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Maelstrom
-2,Enchantment,Common,Agony
-3,Enchantment,Common,Strength
-4,Spell,Common,Revive
-5,Spell,Common,Sorrow
-6,Creature,Common,Warlock
-7,Creature,Common,Magi
-8,Enchantment,Common,Shade
-9,Creature,Rare,Earth Assassin Minotaur
-10,Creature,Rare,Aura King Skin-Walker
-11,Creature,Common,Magi
-12,Creature,Rare,Aura King Hydra
-13,Spell,Common,Burn
-14,Spell,Common,Stun
-15,Creature,Legendary,Snow Merchant Giant of the West
-16,Creature,Common,Wolf
-17,Creature,Rare,Light Queen Fairy
-18,Artifact,Common,Gloves
-19,Creature,Common,Eagle
-20,Artifact,Common,Tome
-21,Creature,Common,Dwarf
-22,Enchantment,Rare,Grim Agony
-23,Spell,Legendary,Dire Vortex
-24,Artifact,Common,Amulet
-25,Creature,Legendary,Death King Oni of the Mountains
-26,Artifact,Rare,Apocalypse Scythe
-27,Creature,Common,Wolf
-28,Artifact,Rare,Nimble Amulet
-29,Creature,Common,Magi
-30,Creature,Common,Magi
-31,Creature,Legendary,Snow Priest Giant of the Arctic Blizzards
-32,Enchantment,Common,Age
-33,Creature,Rare,Frozen Priest Skin-Walker
-34,Creature,Common,Dwarf
-35,Artifact,Rare,Corpse Sword
-36,Creature,Rare,Earth Rogue Minotaur
-37,Enchantment,Common,Flight
-38,Creature,Rare,Light Lord Griffin
-39,Enchantment,Common,Shrink
-40,Enchantment,Common,Shrink
-41,Enchantment,Rare,Forged Invert
-42,Creature,Common,Eagle
-43,Creature,Mythic,Death Ancient Demon of the Dead
-44,Spell,Common,Freeze
+==================,DECK,7810
+0,Creature,Eagle
+1,Spell,Frost
+2,Enchantment,Lethargy
+3,Enchantment,Drain
+4,Spell,Fire
+5,Spell,Burst
+6,Creature,Berserker
+7,Creature,Fairy
+8,Enchantment,Age
+9,Creature,Earth Assassin Cyclops
+10,Creature,Aura King Orc
+11,Creature,Fairy
+12,Creature,Aura King Hydra
+13,Spell,Stricken
+14,Spell,Ice
+15,Creature,Snow Merchant Dwarf of the West
+16,Creature,Wolf
+17,Creature,Light Queen Kraken
+18,Artifact,Gloves
+19,Creature,Eagle
+20,Artifact,Tome
+21,Creature,Magi
+22,Enchantment,Life Blight
+23,Spell,Dire Nimble Frost
+24,Artifact,Amulet
+25,Creature,Death King Oni of the Mountains
+26,Artifact,Frigid Scythe
+27,Creature,Wolf
+28,Artifact,Necro Amulet
+29,Creature,Fairy
+30,Creature,Fairy
+31,Creature,Snow Priest Dwarf of the Arctic Blizzards
+32,Enchantment,Haste
+33,Creature,Frozen Priest Orc
+34,Creature,Magi
+35,Artifact,Corpse Sword
+36,Creature,Earth Rogue Cyclops
+37,Enchantment,Shrink
+38,Creature,Light Lord Griffin
+39,Enchantment,Firebreath
+40,Enchantment,Age
+41,Enchantment,Sorrow Firebreath
+42,Creature,Eagle
+43,Creature,Death Ancient Demon of the Dead
+44,Spell,Invisibility

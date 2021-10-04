@@ -1,46 +1,46 @@
-==================,DECK,7232,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Eagle
-2,Enchantment,Common,Agony
-3,Creature,Common,Dwarf
-4,Artifact,Common,Boots
-5,Enchantment,Mythic,Potent Shrink
-6,Artifact,Rare,Necro Belt
-7,Creature,Common,Goblin
-8,Enchantment,Rare,Forged Agony
-9,Creature,Rare,Aura Monk Griffin
-10,Enchantment,Common,Lethargy
-11,Enchantment,Common,Age
-12,Enchantment,Common,Flight
-13,Enchantment,Common,Alacrity
-14,Spell,Common,Gravitation
-15,Enchantment,Common,Deathgrip
-16,Creature,Rare,Light Fighter Hydra
-17,Spell,Common,Stricken
-18,Spell,Common,Sorrow
-19,Creature,Rare,Death Lord Hydra
-20,Enchantment,Common,Age
-21,Enchantment,Common,Shrink
-22,Creature,Common,Paladin
-23,Creature,Common,Goblin
-24,Enchantment,Common,Deathgrip
-25,Artifact,Common,Tome
-26,Creature,Legendary,Dark Queen Orge of the Eastern Skies
-27,Creature,Legendary,Dark Undead Orge of the Eternal Land
-28,Creature,Common,Spider
-29,Artifact,Common,Bracers
-30,Creature,Common,Orc
-31,Creature,Common,Magi
-32,Creature,Common,Goblin
-33,Creature,Rare,Death Rogue Berserker
-34,Spell,Common,Vortex
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Elf
-37,Enchantment,Legendary,Dire Deathgrip
-38,Spell,Common,Maelstrom
-39,Spell,Legendary,Potent Stun
-40,Spell,Rare,Lunar Reanimate
-41,Enchantment,Rare,Dark Alacrity
-42,Creature,Common,Warlock
-43,Enchantment,Common,Drain
-44,Creature,Common,Dwarf
+==================,DECK,7232
+0,Creature,Skin-Walker
+1,Creature,Eagle
+2,Enchantment,Shrink
+3,Creature,Magi
+4,Artifact,Boots
+5,Enchantment,Potent Frigid Drain
+6,Artifact,Necro Belt
+7,Creature,Skin-Walker
+8,Enchantment,Miracle Shrink
+9,Creature,Aura Monk Griffin
+10,Enchantment,Alacrity
+11,Enchantment,Deathgrip
+12,Enchantment,Drain
+13,Enchantment,Invert
+14,Spell,Gravitation
+15,Enchantment,Strength
+16,Creature,Light Fighter Hydra
+17,Spell,Freeze
+18,Spell,Gale
+19,Creature,Death Lord Hydra
+20,Enchantment,Shrink
+21,Enchantment,Shade
+22,Creature,Troll
+23,Creature,Skin-Walker
+24,Enchantment,Age
+25,Artifact,Tome
+26,Creature,Dark Queen Elf of the Eastern Skies
+27,Creature,Dark Undead Elf of the Eternal Land
+28,Creature,Paladin
+29,Artifact,Bracers
+30,Creature,Spider
+31,Creature,Fairy
+32,Creature,Skin-Walker
+33,Creature,Death Rogue Goblin
+34,Spell,Heal
+35,Enchantment,Lethargy
+36,Creature,Warlock
+37,Enchantment,Zealous Oblivion Blight
+38,Spell,Assault
+39,Spell,Potent Frigid Gravitation
+40,Spell,Cataclysmic Assault
+41,Enchantment,Dark Firebreath
+42,Creature,Berserker
+43,Enchantment,Invert
+44,Creature,Magi

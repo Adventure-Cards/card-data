@@ -1,46 +1,46 @@
-==================,DECK,6425,Medium
-0,Spell,Common,Lightning
-1,Creature,Common,Wolf
-2,Creature,Rare,Frozen Undead Hydra
-3,Spell,Common,Burn
-4,Creature,Common,Orc
-5,Creature,Legendary,Snow Warrior Orge of the Haven
-6,Spell,Common,Hypnosis
-7,Spell,Common,Gale
-8,Creature,Common,Paladin
-9,Creature,Rare,Snow Knight Minotaur
-10,Enchantment,Rare,Oblivion Agony
-11,Enchantment,Common,Drain
-12,Artifact,Common,Bow
-13,Artifact,Common,Shield
-14,Creature,Common,Elf
-15,Creature,Legendary,Light Rogue Kraken of the Eternal Land
-16,Creature,Common,Eagle
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Gale
-19,Artifact,Rare,Frigid Belt
-20,Enchantment,Rare,Life Age
-21,Creature,Mythic,Snow Nameless Phoenix of Hate
-22,Spell,Legendary,Urgent Stricken
-23,Spell,Legendary,Mighty Maelstrom
-24,Enchantment,Common,Drain
-25,Enchantment,Common,Drain
-26,Creature,Rare,Aura Knight Berserker
-27,Artifact,Common,Pendant
-28,Creature,Common,Elf
-29,Creature,Common,Magi
-30,Creature,Common,Ghoul
-31,Creature,Rare,Frozen Queen Skin-Walker
-32,Artifact,Rare,Corpse Potion
-33,Spell,Common,Frenzy
-34,Enchantment,Common,Deathgrip
-35,Creature,Common,Orc
-36,Spell,Common,Frenzy
-37,Artifact,Rare,Frigid Helmet
-38,Creature,Legendary,Dark Undead Oni of the Haven
-39,Creature,Rare,Aura Assassin Hydra
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Haste
-42,Creature,Common,Warlock
-43,Enchantment,Common,Flight
-44,Artifact,Legendary,Potent Gloves
+==================,DECK,6425
+0,Spell,Gravitation
+1,Creature,Wolf
+2,Creature,Frozen Undead Hydra
+3,Spell,Sorrow
+4,Creature,Spider
+5,Creature,Snow Warrior Elf of the Haven
+6,Spell,Burn
+7,Spell,Vortex
+8,Creature,Troll
+9,Creature,Snow Knight Cyclops
+10,Enchantment,Life Invert
+11,Enchantment,Lethargy
+12,Artifact,Bow
+13,Artifact,Shield
+14,Creature,Warlock
+15,Creature,Light Rogue Ogre of the Eternal Land
+16,Creature,Eagle
+17,Enchantment,Lethargy
+18,Spell,Gravitation
+19,Artifact,Oblivion Belt
+20,Enchantment,Victory Invert
+21,Creature,Snow Nameless Phoenix of Hate
+22,Spell,Empyrean Hateful Fireball
+23,Spell,Clever Miracle Revive
+24,Enchantment,Drain
+25,Enchantment,Lethargy
+26,Creature,Aura Knight Goblin
+27,Artifact,Pendant
+28,Creature,Warlock
+29,Creature,Fairy
+30,Creature,Ghoul
+31,Creature,Frozen Queen Orc
+32,Artifact,Hateful Potion
+33,Spell,Maelstrom
+34,Enchantment,Firebreath
+35,Creature,Spider
+36,Spell,Revive
+37,Artifact,Nimble Helmet
+38,Creature,Dark Undead Oni of the Haven
+39,Creature,Aura Assassin Hydra
+40,Creature,Magi
+41,Enchantment,Shade
+42,Creature,Berserker
+43,Enchantment,Lethargy
+44,Artifact,Potent Apocalypse Gloves

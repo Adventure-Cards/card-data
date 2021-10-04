@@ -1,46 +1,46 @@
-==================,DECK,5954,Light
-0,Enchantment,Mythic,Potent Strength
-1,Artifact,Common,Helm
-2,Creature,Common,Spider
-3,Creature,Common,Wolf
-4,Spell,Rare,Apocalypse Ice
-5,Spell,Common,Stun
-6,Artifact,Rare,Miracle Staff
-7,Artifact,Legendary,Urgent Bow
-8,Creature,Common,Dwarf
-9,Artifact,Common,Sigil
-10,Spell,Common,Heal
-11,Spell,Common,Frenzy
-12,Creature,Rare,Aura King Fairy
-13,Creature,Common,Dwarf
-14,Creature,Rare,Snow Merchant Berserker
-15,Enchantment,Rare,Nature Flight
-16,Creature,Common,Warlock
-17,Enchantment,Common,Strength
-18,Spell,Common,Torment
-19,Spell,Common,Revive
-20,Creature,Mythic,Light Grand Wizard of the Sky
-21,Artifact,Common,Staff
-22,Creature,Common,Goblin
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Spell,Rare,Frigid Gravitation
-26,Enchantment,Common,Strength
-27,Spell,Common,Burn
-28,Creature,Rare,Light Warrior Minotaur
-29,Spell,Common,Heal
-30,Creature,Common,Wolf
-31,Spell,Common,Ice
-32,Spell,Common,Heal
-33,Spell,Common,Vortex
-34,Artifact,Common,Staff
-35,Enchantment,Rare,Lunar Shrink
-36,Creature,Common,Spider
-37,Artifact,Common,Crown
-38,Creature,Common,Paladin
-39,Spell,Common,Frenzy
-40,Creature,Rare,Aura Assassin Berserker
-41,Creature,Common,Magi
-42,Artifact,Legendary,Urgent Helmet
-43,Creature,Rare,Aura Merchant Fairy
-44,Artifact,Common,Shield
+==================,DECK,5954
+0,Enchantment,Instant Nimble Drain
+1,Artifact,Helm
+2,Creature,Paladin
+3,Creature,Wolf
+4,Spell,Oblivion Torment
+5,Spell,Invisibility
+6,Artifact,Oblivion Staff
+7,Artifact,Urgent Shimmering Bow
+8,Creature,Magi
+9,Artifact,Sigil
+10,Spell,Fire
+11,Spell,Freeze
+12,Creature,Aura King Kraken
+13,Creature,Magi
+14,Creature,Snow Merchant Goblin
+15,Enchantment,Hateful Strength
+16,Creature,Berserker
+17,Enchantment,Haste
+18,Spell,Reanimate
+19,Spell,Freeze
+20,Creature,Light Grand Wizard of the Sky
+21,Artifact,Staff
+22,Creature,Skin-Walker
+23,Creature,Spider
+24,Creature,Fairy
+25,Spell,Frigid Burst
+26,Enchantment,Deathgrip
+27,Spell,Torment
+28,Creature,Light Warrior Cyclops
+29,Spell,Fire
+30,Creature,Wolf
+31,Spell,Invisibility
+32,Spell,Sorrow
+33,Spell,Pandemonium
+34,Artifact,Staff
+35,Enchantment,Chimeric Shrink
+36,Creature,Paladin
+37,Artifact,Crown
+38,Creature,Troll
+39,Spell,Lightning
+40,Creature,Aura Assassin Goblin
+41,Creature,Fairy
+42,Artifact,Zealous Nature Helmet
+43,Creature,Aura Merchant Kraken
+44,Artifact,Shield

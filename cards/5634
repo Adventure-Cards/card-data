@@ -1,46 +1,46 @@
-==================,DECK,5634,Medium
-0,Creature,Common,Magi
-1,Enchantment,Common,Flight
-2,Spell,Legendary,Instant Revive
-3,Creature,Rare,Frozen Merchant Berserker
-4,Creature,Mythic,Snow Undead Dragon of Hate
-5,Enchantment,Rare,Nimble Agony
-6,Creature,Common,Eagle
-7,Spell,Common,Pandemonium
-8,Creature,Legendary,Aura Thief Oni of the Frozen Castle
-9,Creature,Common,Spider
-10,Creature,Rare,Snow Queen Griffin
-11,Creature,Legendary,Dark Rogue Orge of the Bright Mountains
-12,Creature,Common,Paladin
-13,Artifact,Common,Cloak
-14,Creature,Legendary,Earth Monk Giant of the Golden Palace
-15,Creature,Mythic,Earth Chaos Wizard of the Shadows
-16,Creature,Common,Goblin
-17,Creature,Rare,Death Undead Skin-Walker
-18,Creature,Mythic,Dark Time Dragon of Illusion
-19,Creature,Rare,Frozen Rogue Minotaur
-20,Creature,Common,Goblin
-21,Creature,Rare,Death Undead Hydra
-22,Enchantment,Common,Blight
-23,Creature,Rare,Dark Monk Griffin
-24,Enchantment,Common,Alacrity
-25,Enchantment,Common,Strength
-26,Enchantment,Common,Blight
-27,Enchantment,Mythic,Mighty Flight
-28,Creature,Mythic,Snow Time Dragon of Hate
-29,Enchantment,Legendary,Potent Drain
-30,Spell,Common,Ice
-31,Enchantment,Rare,Nimble Alacrity
-32,Creature,Common,Magi
-33,Creature,Rare,Death King Fairy
-34,Creature,Common,Dwarf
-35,Creature,Common,Magi
-36,Creature,Common,Paladin
-37,Creature,Common,Magi
-38,Enchantment,Rare,Necro Deathgrip
-39,Creature,Common,Elf
-40,Spell,Rare,Nimble Frost
-41,Creature,Rare,Light Lord Hydra
-42,Creature,Common,Ghoul
-43,Creature,Rare,Light Priest Minotaur
-44,Creature,Rare,Death King Minotaur
+==================,DECK,5634
+0,Creature,Fairy
+1,Enchantment,Agony
+2,Spell,Ardent Nature Gravitation
+3,Creature,Frozen Merchant Goblin
+4,Creature,Snow Undead Dragon of Hate
+5,Enchantment,Corpse Lethargy
+6,Creature,Eagle
+7,Spell,Stricken
+8,Creature,Aura Thief Oni of the Frozen Castle
+9,Creature,Paladin
+10,Creature,Snow Queen Griffin
+11,Creature,Dark Rogue Elf of the Bright Mountains
+12,Creature,Troll
+13,Artifact,Cloak
+14,Creature,Earth Monk Dwarf of the Golden Palace
+15,Creature,Earth Chaos Wizard of the Shadows
+16,Creature,Skin-Walker
+17,Creature,Death Undead Orc
+18,Creature,Dark Time Dragon of Illusion
+19,Creature,Frozen Rogue Cyclops
+20,Creature,Skin-Walker
+21,Creature,Death Undead Hydra
+22,Enchantment,Agony
+23,Creature,Dark Monk Griffin
+24,Enchantment,Invert
+25,Enchantment,Shade
+26,Enchantment,Strength
+27,Enchantment,Mighty Lunar Flight
+28,Creature,Snow Time Dragon of Hate
+29,Enchantment,Zealous Apocalypse Blight
+30,Spell,Freeze
+31,Enchantment,Forged Age
+32,Creature,Fairy
+33,Creature,Death King Kraken
+34,Creature,Magi
+35,Creature,Fairy
+36,Creature,Troll
+37,Creature,Fairy
+38,Enchantment,Shimmering Strength
+39,Creature,Warlock
+40,Spell,Necro Revive
+41,Creature,Light Lord Hydra
+42,Creature,Ghoul
+43,Creature,Light Priest Cyclops
+44,Creature,Death King Cyclops

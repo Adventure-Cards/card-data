@@ -1,46 +1,46 @@
-==================,DECK,6379,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Spider
-2,Enchantment,Common,Agony
-3,Creature,Common,Spider
-4,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-5,Enchantment,Common,Blight
-6,Artifact,Common,Staff
-7,Creature,Rare,Frozen Knight Minotaur
-8,Enchantment,Common,Strength
-9,Creature,Rare,Dark Assassin Skin-Walker
-10,Creature,Rare,Light Monk Fairy
-11,Creature,Common,Orc
-12,Creature,Common,Goblin
-13,Spell,Common,Ice
-14,Artifact,Common,Helmet
-15,Enchantment,Common,Drain
-16,Creature,Common,Magi
-17,Creature,Common,Paladin
-18,Creature,Common,Wolf
-19,Creature,Rare,Death Thief Griffin
-20,Enchantment,Rare,Oblivion Alacrity
-21,Enchantment,Common,Blight
-22,Enchantment,Common,Haste
-23,Artifact,Legendary,Angry Helmet
-24,Artifact,Common,Bow
-25,Enchantment,Common,Alacrity
-26,Creature,Common,Magi
-27,Enchantment,Rare,Grim Shade
-28,Creature,Rare,Dark King Skin-Walker
-29,Creature,Common,Wolf
-30,Creature,Rare,Aura Monk Griffin
-31,Creature,Rare,Snow Queen Griffin
-32,Artifact,Rare,Grim Bow
-33,Spell,Common,Gravitation
-34,Creature,Common,Goblin
-35,Enchantment,Mythic,Clever Deathgrip
-36,Enchantment,Legendary,Extreme Shield
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Deathgrip
-39,Creature,Common,Eagle
-40,Enchantment,Common,Strength
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Creature,Common,Elf
-44,Spell,Common,Sorrow
+==================,DECK,6379
+0,Creature,Ghoul
+1,Creature,Paladin
+2,Enchantment,Firebreath
+3,Creature,Paladin
+4,Creature,Earth Nameless Phoenix of the Shadows
+5,Enchantment,Shade
+6,Artifact,Staff
+7,Creature,Frozen Knight Cyclops
+8,Enchantment,Blight
+9,Creature,Dark Assassin Orc
+10,Creature,Light Monk Kraken
+11,Creature,Spider
+12,Creature,Skin-Walker
+13,Spell,Sorrow
+14,Artifact,Helmet
+15,Enchantment,Age
+16,Creature,Fairy
+17,Creature,Troll
+18,Creature,Wolf
+19,Creature,Death Thief Griffin
+20,Enchantment,Apocalypse Haste
+21,Enchantment,Deathgrip
+22,Enchantment,Agony
+23,Artifact,Irate Miracle Helmet
+24,Artifact,Bow
+25,Enchantment,Shield
+26,Creature,Fairy
+27,Enchantment,Frigid Haste
+28,Creature,Dark King Orc
+29,Creature,Wolf
+30,Creature,Aura Monk Griffin
+31,Creature,Snow Queen Griffin
+32,Artifact,Grim Bow
+33,Spell,Stun
+34,Creature,Skin-Walker
+35,Enchantment,Clever Oblivion Haste
+36,Enchantment,Dire Gloom Firebreath
+37,Creature,Ghoul
+38,Enchantment,Haste
+39,Creature,Eagle
+40,Enchantment,Blight
+41,Creature,Troll
+42,Creature,Paladin
+43,Creature,Warlock
+44,Spell,Burst

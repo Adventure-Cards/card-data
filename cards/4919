@@ -1,46 +1,46 @@
-==================,DECK,4919,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Elf
-2,Creature,Common,Elf
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Age
-5,Spell,Common,Hypnosis
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Shield
-8,Creature,Common,Orc
-9,Spell,Rare,Apocalypse Stun
-10,Creature,Common,Warlock
-11,Creature,Common,Goblin
-12,Spell,Common,Maelstrom
-13,Creature,Legendary,Frozen Rogue Oni of the Eastern Skies
-14,Creature,Rare,Dark Merchant Berserker
-15,Artifact,Common,Cloak
-16,Enchantment,Common,Shield
-17,Artifact,Common,Ring
-18,Spell,Common,Gale
-19,Spell,Common,Assault
-20,Creature,Common,Magi
-21,Spell,Common,Sorrow
-22,Creature,Common,Wolf
-23,Creature,Common,Dwarf
-24,Creature,Common,Ghoul
-25,Artifact,Common,Sigil
-26,Enchantment,Common,Shield
-27,Artifact,Common,Divine Robe
-28,Artifact,Common,Ring
-29,Enchantment,Common,Blight
-30,Spell,Common,Freeze
-31,Enchantment,Common,Deathgrip
-32,Spell,Common,Frenzy
-33,Spell,Rare,Life Sorrow
-34,Enchantment,Common,Alacrity
-35,Spell,Common,Heal
-36,Creature,Common,Elf
-37,Enchantment,Common,Flight
-38,Creature,Rare,Dark Priest Griffin
-39,Enchantment,Rare,Cataclysmic Shrink
-40,Creature,Common,Paladin
-41,Creature,Rare,Snow Undead Berserker
-42,Creature,Rare,Earth Knight Hydra
-43,Enchantment,Common,Strength
-44,Creature,Rare,Dark Monk Griffin
+==================,DECK,4919
+0,Creature,Berserker
+1,Creature,Warlock
+2,Creature,Warlock
+3,Creature,Magi
+4,Enchantment,Shade
+5,Spell,Freeze
+6,Spell,Tempest
+7,Enchantment,Agony
+8,Creature,Spider
+9,Spell,Apocalypse Stun
+10,Creature,Berserker
+11,Creature,Skin-Walker
+12,Spell,Stun
+13,Creature,Frozen Rogue Oni of the Eastern Skies
+14,Creature,Dark Merchant Goblin
+15,Artifact,Cloak
+16,Enchantment,Blight
+17,Artifact,Ring
+18,Spell,Pandemonium
+19,Spell,Freeze
+20,Creature,Fairy
+21,Spell,Tempest
+22,Creature,Wolf
+23,Creature,Magi
+24,Creature,Ghoul
+25,Artifact,Sigil
+26,Enchantment,Lethargy
+27,Artifact,Divine Robe
+28,Artifact,Ring
+29,Enchantment,Drain
+30,Spell,Frenzy
+31,Enchantment,Firebreath
+32,Spell,Fire
+33,Spell,Nimble Hypnosis
+34,Enchantment,Drain
+35,Spell,Fire
+36,Creature,Warlock
+37,Enchantment,Strength
+38,Creature,Dark Priest Griffin
+39,Enchantment,Chimeric Shield
+40,Creature,Troll
+41,Creature,Snow Undead Goblin
+42,Creature,Earth Knight Hydra
+43,Enchantment,Firebreath
+44,Creature,Dark Monk Griffin

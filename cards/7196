@@ -1,46 +1,46 @@
-==================,DECK,7196,Light
-0,Creature,Common,Magi
-1,Creature,Common,Warlock
-2,Artifact,Rare,Necro Boots
-3,Creature,Common,Magi
-4,Creature,Legendary,Light Thief Orge of the Golden Palace
-5,Enchantment,Rare,Forged Agony
-6,Creature,Common,Goblin
-7,Creature,Common,Elf
-8,Creature,Common,Spider
-9,Creature,Common,Warlock
-10,Enchantment,Common,Invert
-11,Spell,Common,Frost
-12,Spell,Rare,Miracle Reanimate
-13,Artifact,Common,Tome
-14,Artifact,Legendary,Instant Sword
-15,Enchantment,Rare,Grim Strength
-16,Enchantment,Common,Drain
-17,Creature,Common,Elf
-18,Spell,Common,Invisibility
-19,Enchantment,Rare,Hateful Flight
-20,Enchantment,Common,Agony
-21,Spell,Rare,Dark Lightning
-22,Enchantment,Common,Invert
-23,Creature,Common,Paladin
-24,Creature,Common,Spider
-25,Enchantment,Common,Shade
-26,Creature,Rare,Frozen Lord Skin-Walker
-27,Artifact,Common,Potion
-28,Creature,Common,Paladin
-29,Spell,Rare,Grim Assault
-30,Artifact,Rare,Nature Scepter
-31,Artifact,Common,Gauntlet
-32,Creature,Common,Wolf
-33,Creature,Rare,Dark Rogue Hydra
-34,Creature,Rare,Dark Merchant Griffin
-35,Enchantment,Rare,Oblivion Shade
-36,Creature,Rare,Death Warrior Fairy
-37,Spell,Rare,Miracle Hypnosis
-38,Spell,Legendary,Angry Burn
-39,Creature,Rare,Light Lord Minotaur
-40,Artifact,Common,Divine Robe
-41,Creature,Common,Magi
-42,Spell,Common,Burn
-43,Creature,Legendary,Snow Lord Cyclops of the West
-44,Creature,Common,Spider
+==================,DECK,7196
+0,Creature,Fairy
+1,Creature,Berserker
+2,Artifact,Solar Boots
+3,Creature,Fairy
+4,Creature,Light Thief Elf of the Golden Palace
+5,Enchantment,Miracle Flight
+6,Creature,Skin-Walker
+7,Creature,Warlock
+8,Creature,Paladin
+9,Creature,Berserker
+10,Enchantment,Haste
+11,Spell,Gravitation
+12,Spell,Apocalypse Tempest
+13,Artifact,Tome
+14,Artifact,Instant Hateful Sword
+15,Enchantment,Nimble Invert
+16,Enchantment,Strength
+17,Creature,Warlock
+18,Spell,Burn
+19,Enchantment,Lunar Shield
+20,Enchantment,Shade
+21,Spell,Chimeric Revive
+22,Enchantment,Invert
+23,Creature,Troll
+24,Creature,Paladin
+25,Enchantment,Shrink
+26,Creature,Frozen Lord Orc
+27,Artifact,Potion
+28,Creature,Troll
+29,Spell,Victory Infuriate
+30,Artifact,Nature Scepter
+31,Artifact,Gauntlet
+32,Creature,Wolf
+33,Creature,Dark Rogue Hydra
+34,Creature,Dark Merchant Griffin
+35,Enchantment,Frigid Shade
+36,Creature,Death Warrior Kraken
+37,Spell,Nimble Frost
+38,Spell,Empyrean Miracle Lightning
+39,Creature,Light Lord Cyclops
+40,Artifact,Divine Robe
+41,Creature,Fairy
+42,Spell,Gale
+43,Creature,Snow Lord Giant of the West
+44,Creature,Paladin

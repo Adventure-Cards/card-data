@@ -1,46 +1,46 @@
-==================,DECK,5085,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Spider
-2,Creature,Rare,Light Merchant Minotaur
-3,Spell,Common,Infuriate
-4,Creature,Common,Magi
-5,Enchantment,Rare,Forged Strength
-6,Enchantment,Mythic,Clever Blight
-7,Creature,Common,Eagle
-8,Creature,Common,Eagle
-9,Artifact,Rare,Frigid Amulet
-10,Creature,Common,Spider
-11,Creature,Rare,Dark Warrior Berserker
-12,Creature,Common,Orc
-13,Creature,Common,Spider
-14,Creature,Mythic,Snow Nameless Phoenix of Hate
-15,Enchantment,Common,Alacrity
-16,Enchantment,Rare,Frigid Lethargy
-17,Creature,Common,Wolf
-18,Enchantment,Rare,Forged Lethargy
-19,Enchantment,Legendary,Dire Haste
-20,Creature,Common,Spider
-21,Enchantment,Rare,Frigid Agony
-22,Creature,Common,Spider
-23,Creature,Legendary,Light Monk Kraken of the Eastern Skies
-24,Creature,Common,Ghoul
-25,Creature,Mythic,Earth Time Dragon of the Shadows
-26,Spell,Common,Freeze
-27,Enchantment,Common,Haste
-28,Artifact,Common,Greaves
-29,Creature,Common,Wolf
-30,Creature,Common,Spider
-31,Artifact,Common,Amulet
-32,Creature,Common,Goblin
-33,Creature,Common,Magi
-34,Spell,Common,Torment
-35,Spell,Common,Hypnosis
-36,Creature,Legendary,Death Lord Oni of the West
-37,Creature,Common,Eagle
-38,Creature,Common,Eagle
-39,Enchantment,Common,Shrink
-40,Creature,Common,Elf
-41,Spell,Common,Sorrow
-42,Creature,Legendary,Aura Fighter Kraken of the Eternal Land
-43,Creature,Mythic,Earth Undead Dragon of the Shadows
-44,Creature,Common,Spider
+==================,DECK,5085
+0,Creature,Troll
+1,Creature,Paladin
+2,Creature,Light Merchant Cyclops
+3,Spell,Ice
+4,Creature,Fairy
+5,Enchantment,Cataclysmic Firebreath
+6,Enchantment,Mighty Nimble Invert
+7,Creature,Eagle
+8,Creature,Eagle
+9,Artifact,Apocalypse Amulet
+10,Creature,Paladin
+11,Creature,Dark Warrior Goblin
+12,Creature,Spider
+13,Creature,Paladin
+14,Creature,Snow Nameless Phoenix of Hate
+15,Enchantment,Lethargy
+16,Enchantment,Grim Invert
+17,Creature,Wolf
+18,Enchantment,Lunar Firebreath
+19,Enchantment,Mighty Life Invert
+20,Creature,Paladin
+21,Enchantment,Life Shade
+22,Creature,Paladin
+23,Creature,Light Monk Ogre of the Eastern Skies
+24,Creature,Ghoul
+25,Creature,Earth Time Dragon of the Shadows
+26,Spell,Wall
+27,Enchantment,Invert
+28,Artifact,Greaves
+29,Creature,Wolf
+30,Creature,Paladin
+31,Artifact,Amulet
+32,Creature,Skin-Walker
+33,Creature,Fairy
+34,Spell,Heal
+35,Spell,Hypnosis
+36,Creature,Death Lord Oni of the West
+37,Creature,Eagle
+38,Creature,Eagle
+39,Enchantment,Invert
+40,Creature,Warlock
+41,Spell,Rage
+42,Creature,Aura Fighter Ogre of the Eternal Land
+43,Creature,Earth Undead Dragon of the Shadows
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,4838,Light
-0,Creature,Common,Orc
-1,Creature,Common,Spider
-2,Enchantment,Common,Agony
-3,Spell,Common,Assault
-4,Enchantment,Common,Strength
-5,Enchantment,Mythic,Clever Agony
-6,Creature,Common,Spider
-7,Spell,Common,Sorrow
-8,Creature,Common,Elf
-9,Creature,Legendary,Dark Monk Oni of the Border
-10,Creature,Common,Orc
-11,Enchantment,Mythic,Intense Deathgrip
-12,Enchantment,Mythic,Angry Alacrity
-13,Creature,Legendary,Death Lord Oni of the Plains
-14,Creature,Common,Wolf
-15,Enchantment,Rare,Apocalypse Flight
-16,Enchantment,Common,Shrink
-17,Artifact,Rare,Cataclysmic Cloak
-18,Spell,Legendary,Intense Sorrow
-19,Enchantment,Common,Shield
-20,Enchantment,Common,Age
-21,Creature,Legendary,Death Merchant Kraken of the Haven
-22,Artifact,Legendary,Extreme Boots
-23,Creature,Rare,Death Thief Fairy
-24,Creature,Common,Wolf
-25,Creature,Mythic,Death Nameless Phoenix of the Dead
-26,Enchantment,Common,Agony
-27,Creature,Common,Dwarf
-28,Creature,Common,Paladin
-29,Artifact,Legendary,Potent Greaves
-30,Enchantment,Common,Invert
-31,Creature,Rare,Earth Assassin Skin-Walker
-32,Spell,Common,Frenzy
-33,Spell,Common,Fury
-34,Creature,Common,Paladin
-35,Enchantment,Rare,Nimble Agony
-36,Spell,Common,Reanimate
-37,Creature,Common,Orc
-38,Creature,Common,Wolf
-39,Creature,Rare,Snow Queen Hydra
-40,Enchantment,Common,Agony
-41,Creature,Common,Paladin
-42,Creature,Common,Ghoul
-43,Artifact,Rare,Gloom Scepter
-44,Spell,Rare,Cataclysmic Reanimate
+==================,DECK,4838
+0,Creature,Spider
+1,Creature,Paladin
+2,Enchantment,Shield
+3,Spell,Reanimate
+4,Enchantment,Agony
+5,Enchantment,Urgent Life Invert
+6,Creature,Paladin
+7,Spell,Fire
+8,Creature,Warlock
+9,Creature,Dark Monk Oni of the Border
+10,Creature,Spider
+11,Enchantment,Mighty Shimmering Agony
+12,Enchantment,Urgent Dark Flight
+13,Creature,Death Lord Oni of the Plains
+14,Creature,Wolf
+15,Enchantment,Grim Drain
+16,Enchantment,Strength
+17,Artifact,Cataclysmic Cloak
+18,Spell,Clever Nature Fire
+19,Enchantment,Alacrity
+20,Enchantment,Drain
+21,Creature,Death Merchant Ogre of the Haven
+22,Artifact,Clever Cataclysmic Boots
+23,Creature,Death Thief Kraken
+24,Creature,Wolf
+25,Creature,Death Nameless Phoenix of the Dead
+26,Enchantment,Invert
+27,Creature,Magi
+28,Creature,Troll
+29,Artifact,Urgent Victory Greaves
+30,Enchantment,Blight
+31,Creature,Earth Assassin Orc
+32,Spell,Revive
+33,Spell,Lightning
+34,Creature,Troll
+35,Enchantment,Corpse Lethargy
+36,Spell,Fury
+37,Creature,Spider
+38,Creature,Wolf
+39,Creature,Snow Queen Hydra
+40,Enchantment,Lethargy
+41,Creature,Troll
+42,Creature,Ghoul
+43,Artifact,Sorrow Scepter
+44,Spell,Cataclysmic Freeze

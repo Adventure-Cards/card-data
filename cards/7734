@@ -1,46 +1,46 @@
-==================,DECK,7734,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Goblin
-2,Creature,Common,Spider
-3,Spell,Common,Gale
-4,Spell,Legendary,Clever Torment
-5,Enchantment,Legendary,Mighty Agony
-6,Spell,Common,Assault
-7,Creature,Mythic,Aura Undead Phoenix of the Light
-8,Creature,Common,Elf
-9,Creature,Legendary,Snow Merchant Cyclops of the Haven
-10,Enchantment,Common,Deathgrip
-11,Creature,Common,Goblin
-12,Creature,Common,Eagle
-13,Creature,Common,Ghoul
-14,Creature,Common,Magi
-15,Enchantment,Common,Alacrity
-16,Enchantment,Common,Age
-17,Creature,Common,Elf
-18,Creature,Common,Spider
-19,Creature,Rare,Light Queen Hydra
-20,Spell,Common,Gale
-21,Enchantment,Common,Lethargy
-22,Creature,Rare,Death Knight Hydra
-23,Spell,Common,Assault
-24,Creature,Mythic,Earth Ancient Wizard of the Shadows
-25,Enchantment,Mythic,Intense Shield
-26,Creature,Common,Orc
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Creature,Common,Elf
-30,Creature,Common,Ghoul
-31,Enchantment,Mythic,Intense Agony
-32,Creature,Common,Warlock
-33,Creature,Common,Orc
-34,Creature,Common,Goblin
-35,Creature,Common,Elf
-36,Spell,Common,Burst
-37,Creature,Common,Spider
-38,Creature,Common,Magi
-39,Creature,Common,Elf
-40,Enchantment,Mythic,Extreme Blight
-41,Creature,Common,Wolf
-42,Artifact,Common,Sigil
-43,Creature,Mythic,Frozen Ancient Demon of the Void
-44,Enchantment,Mythic,Mighty Flight
+==================,DECK,7734
+0,Creature,Troll
+1,Creature,Skin-Walker
+2,Creature,Paladin
+3,Spell,Torment
+4,Spell,Instant Frigid Vortex
+5,Enchantment,Dire Miracle Firebreath
+6,Spell,Burst
+7,Creature,Aura Undead Phoenix of the Light
+8,Creature,Warlock
+9,Creature,Snow Merchant Giant of the Haven
+10,Enchantment,Lethargy
+11,Creature,Skin-Walker
+12,Creature,Eagle
+13,Creature,Ghoul
+14,Creature,Fairy
+15,Enchantment,Agony
+16,Enchantment,Shield
+17,Creature,Warlock
+18,Creature,Paladin
+19,Creature,Light Queen Hydra
+20,Spell,Sorrow
+21,Enchantment,Lethargy
+22,Creature,Death Knight Hydra
+23,Spell,Revive
+24,Creature,Earth Ancient Wizard of the Shadows
+25,Enchantment,Dire Nature Age
+26,Creature,Spider
+27,Creature,Warlock
+28,Creature,Fairy
+29,Creature,Warlock
+30,Creature,Ghoul
+31,Enchantment,Ardent Corpse Lethargy
+32,Creature,Berserker
+33,Creature,Spider
+34,Creature,Skin-Walker
+35,Creature,Warlock
+36,Spell,Frost
+37,Creature,Paladin
+38,Creature,Fairy
+39,Creature,Warlock
+40,Enchantment,Potent Cataclysmic Shrink
+41,Creature,Wolf
+42,Artifact,Sigil
+43,Creature,Frozen Ancient Demon of the Void
+44,Enchantment,Empyrean Lunar Firebreath

@@ -1,46 +1,46 @@
-==================,DECK,4572,Light
-0,Creature,Mythic,Frozen Undead Dragon of the Void
-1,Creature,Legendary,Dark Lord Oni of the Low Hills
-2,Spell,Common,Ice
-3,Creature,Common,Warlock
-4,Creature,Rare,Earth Undead Skin-Walker
-5,Creature,Common,Goblin
-6,Creature,Common,Eagle
-7,Enchantment,Common,Invert
-8,Spell,Common,Pandemonium
-9,Enchantment,Common,Shield
-10,Spell,Common,Rage
-11,Artifact,Common,Helm
-12,Creature,Common,Orc
-13,Creature,Common,Wolf
-14,Enchantment,Common,Alacrity
-15,Creature,Common,Ghoul
-16,Spell,Rare,Lunar Infuriate
-17,Creature,Common,Dwarf
-18,Spell,Rare,Gloom Freeze
-19,Artifact,Common,Boots
-20,Enchantment,Rare,Nature Deathgrip
-21,Artifact,Common,Belt
-22,Creature,Common,Dwarf
-23,Enchantment,Common,Flight
-24,Enchantment,Rare,Life Flight
-25,Creature,Mythic,Light Ancient Demon of the Sky
-26,Spell,Common,Freeze
-27,Creature,Rare,Aura Warrior Fairy
-28,Creature,Common,Warlock
-29,Spell,Common,Rage
-30,Spell,Legendary,Extreme Fury
-31,Enchantment,Common,Shrink
-32,Spell,Legendary,Mighty Ice
-33,Creature,Mythic,Earth Time Phoenix of the Shadows
-34,Creature,Common,Wolf
-35,Creature,Rare,Light Priest Hydra
-36,Creature,Common,Eagle
-37,Creature,Common,Magi
-38,Enchantment,Common,Shield
-39,Artifact,Common,Scythe
-40,Creature,Common,Eagle
-41,Spell,Rare,Grim Vortex
-42,Enchantment,Rare,Nature Flight
-43,Artifact,Common,Crown
-44,Enchantment,Rare,Necro Shrink
+==================,DECK,4572
+0,Creature,Frozen Undead Dragon of the Void
+1,Creature,Dark Lord Oni of the Low Hills
+2,Spell,Stun
+3,Creature,Berserker
+4,Creature,Earth Undead Orc
+5,Creature,Skin-Walker
+6,Creature,Eagle
+7,Enchantment,Flight
+8,Spell,Revive
+9,Enchantment,Alacrity
+10,Spell,Burst
+11,Artifact,Helm
+12,Creature,Spider
+13,Creature,Wolf
+14,Enchantment,Deathgrip
+15,Creature,Ghoul
+16,Spell,Dark Wall
+17,Creature,Magi
+18,Spell,Lunar Burst
+19,Artifact,Boots
+20,Enchantment,Shimmering Agony
+21,Artifact,Belt
+22,Creature,Magi
+23,Enchantment,Alacrity
+24,Enchantment,Grim Invert
+25,Creature,Light Ancient Demon of the Sky
+26,Spell,Assault
+27,Creature,Aura Warrior Kraken
+28,Creature,Berserker
+29,Spell,Gale
+30,Spell,Zealous Sorrow Reanimate
+31,Enchantment,Flight
+32,Spell,Zealous Chimeric Reanimate
+33,Creature,Earth Time Phoenix of the Shadows
+34,Creature,Wolf
+35,Creature,Light Priest Hydra
+36,Creature,Eagle
+37,Creature,Fairy
+38,Enchantment,Lethargy
+39,Artifact,Scythe
+40,Creature,Eagle
+41,Spell,Nimble Reanimate
+42,Enchantment,Hateful Agony
+43,Artifact,Crown
+44,Enchantment,Necro Strength

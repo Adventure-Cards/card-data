@@ -1,46 +1,46 @@
-==================,DECK,7921,Light
-0,Creature,Common,Wolf
-1,Enchantment,Common,Haste
-2,Enchantment,Common,Shade
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Flight
-5,Spell,Common,Frost
-6,Spell,Common,Maelstrom
-7,Creature,Common,Dwarf
-8,Creature,Common,Magi
-9,Artifact,Common,Ring
-10,Creature,Common,Orc
-11,Spell,Legendary,Dire Pandemonium
-12,Creature,Rare,Snow Priest Minotaur
-13,Creature,Rare,Frozen Queen Minotaur
-14,Enchantment,Mythic,Extreme Alacrity
-15,Creature,Common,Eagle
-16,Enchantment,Rare,Frigid Invert
-17,Enchantment,Common,Blight
-18,Artifact,Rare,Corpse Potion
-19,Creature,Rare,Aura Queen Minotaur
-20,Creature,Common,Orc
-21,Enchantment,Mythic,Instant Alacrity
-22,Creature,Common,Magi
-23,Creature,Common,Spider
-24,Enchantment,Common,Haste
-25,Creature,Common,Goblin
-26,Spell,Rare,Dark Vortex
-27,Creature,Rare,Death Warrior Griffin
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Oblivion Shield
-30,Spell,Common,Frost
-31,Enchantment,Common,Haste
-32,Creature,Common,Warlock
-33,Enchantment,Common,Shrink
-34,Creature,Legendary,Dark Merchant Orge of the Border
-35,Enchantment,Common,Shrink
-36,Enchantment,Common,Age
-37,Creature,Common,Orc
-38,Spell,Legendary,Angry Vortex
-39,Creature,Common,Goblin
-40,Creature,Rare,Frozen Thief Minotaur
-41,Creature,Common,Orc
-42,Creature,Common,Wolf
-43,Artifact,Common,Gauntlet
-44,Creature,Common,Warlock
+==================,DECK,7921
+0,Creature,Wolf
+1,Enchantment,Haste
+2,Enchantment,Deathgrip
+3,Enchantment,Deathgrip
+4,Enchantment,Shade
+5,Spell,Vortex
+6,Spell,Frenzy
+7,Creature,Magi
+8,Creature,Fairy
+9,Artifact,Ring
+10,Creature,Spider
+11,Spell,Mighty Oblivion Pandemonium
+12,Creature,Snow Priest Cyclops
+13,Creature,Frozen Queen Cyclops
+14,Enchantment,Dire Dark Firebreath
+15,Creature,Eagle
+16,Enchantment,Oblivion Haste
+17,Enchantment,Strength
+18,Artifact,Nature Potion
+19,Creature,Aura Queen Cyclops
+20,Creature,Spider
+21,Enchantment,Urgent Forged Agony
+22,Creature,Fairy
+23,Creature,Paladin
+24,Enchantment,Haste
+25,Creature,Skin-Walker
+26,Spell,Chimeric Hypnosis
+27,Creature,Death Warrior Griffin
+28,Creature,Magi
+29,Enchantment,Victory Invert
+30,Spell,Stricken
+31,Enchantment,Strength
+32,Creature,Berserker
+33,Enchantment,Blight
+34,Creature,Dark Merchant Elf of the Border
+35,Enchantment,Age
+36,Enchantment,Age
+37,Creature,Spider
+38,Spell,Instant Miracle Reanimate
+39,Creature,Skin-Walker
+40,Creature,Frozen Thief Cyclops
+41,Creature,Spider
+42,Creature,Wolf
+43,Artifact,Gauntlet
+44,Creature,Berserker

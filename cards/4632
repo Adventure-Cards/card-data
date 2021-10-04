@@ -1,46 +1,46 @@
-==================,DECK,4632,Light
-0,Creature,Common,Wolf
-1,Enchantment,Common,Drain
-2,Enchantment,Common,Agony
-3,Creature,Common,Paladin
-4,Creature,Common,Paladin
-5,Creature,Rare,Earth King Minotaur
-6,Creature,Mythic,Dark Chaos Demon of Illusion
-7,Creature,Rare,Frozen King Hydra
-8,Creature,Common,Wolf
-9,Spell,Legendary,Potent Lightning
-10,Spell,Common,Revive
-11,Artifact,Common,Shield
-12,Creature,Common,Spider
-13,Spell,Common,Torment
-14,Spell,Common,Freeze
-15,Artifact,Common,Gloves
-16,Creature,Common,Spider
-17,Spell,Common,Assault
-18,Enchantment,Rare,Lunar Drain
-19,Creature,Common,Magi
-20,Artifact,Common,Greaves
-21,Creature,Common,Spider
-22,Creature,Common,Ghoul
-23,Spell,Common,Pandemonium
-24,Artifact,Common,Divine Robe
-25,Artifact,Common,Ring
-26,Spell,Common,Rage
-27,Enchantment,Common,Lethargy
-28,Creature,Common,Warlock
-29,Enchantment,Common,Shield
-30,Creature,Common,Ghoul
-31,Creature,Rare,Light Monk Skin-Walker
-32,Creature,Common,Orc
-33,Enchantment,Common,Agony
-34,Artifact,Common,Gloves
-35,Enchantment,Common,Agony
-36,Enchantment,Legendary,Mighty Invert
-37,Creature,Common,Magi
-38,Creature,Common,Elf
-39,Enchantment,Common,Drain
-40,Enchantment,Common,Strength
-41,Spell,Legendary,Mighty Invisibility
-42,Spell,Common,Gale
-43,Artifact,Rare,Corpse Belt
-44,Creature,Common,Wolf
+==================,DECK,4632
+0,Creature,Wolf
+1,Enchantment,Flight
+2,Enchantment,Blight
+3,Creature,Troll
+4,Creature,Troll
+5,Creature,Earth King Cyclops
+6,Creature,Dark Chaos Demon of Illusion
+7,Creature,Frozen King Hydra
+8,Creature,Wolf
+9,Spell,Ardent Apocalypse Gale
+10,Spell,Sorrow
+11,Artifact,Shield
+12,Creature,Paladin
+13,Spell,Gale
+14,Spell,Freeze
+15,Artifact,Gloves
+16,Creature,Paladin
+17,Spell,Maelstrom
+18,Enchantment,Dark Firebreath
+19,Creature,Fairy
+20,Artifact,Greaves
+21,Creature,Paladin
+22,Creature,Ghoul
+23,Spell,Hypnosis
+24,Artifact,Divine Robe
+25,Artifact,Ring
+26,Spell,Fire
+27,Enchantment,Invert
+28,Creature,Berserker
+29,Enchantment,Shrink
+30,Creature,Ghoul
+31,Creature,Light Monk Orc
+32,Creature,Spider
+33,Enchantment,Agony
+34,Artifact,Gloves
+35,Enchantment,Lethargy
+36,Enchantment,Instant Sorrow Shrink
+37,Creature,Fairy
+38,Creature,Warlock
+39,Enchantment,Invert
+40,Enchantment,Lethargy
+41,Spell,Irate Cataclysmic Gale
+42,Spell,Lightning
+43,Artifact,Nature Belt
+44,Creature,Wolf

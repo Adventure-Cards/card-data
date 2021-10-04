@@ -1,46 +1,46 @@
-==================,DECK,7481,Light
-0,Creature,Common,Ghoul
-1,Creature,Rare,Aura Lord Hydra
-2,Spell,Legendary,Instant Stun
-3,Enchantment,Common,Shrink
-4,Creature,Rare,Snow Priest Skin-Walker
-5,Creature,Common,Elf
-6,Creature,Common,Paladin
-7,Creature,Common,Dwarf
-8,Enchantment,Rare,Lunar Deathgrip
-9,Enchantment,Common,Agony
-10,Creature,Common,Warlock
-11,Enchantment,Common,Agony
-12,Creature,Rare,Death Assassin Griffin
-13,Creature,Common,Goblin
-14,Enchantment,Common,Shrink
-15,Enchantment,Mythic,Intense Shrink
-16,Spell,Legendary,Potent Rage
-17,Artifact,Rare,Necro Ring
-18,Creature,Rare,Frozen Fighter Minotaur
-19,Creature,Common,Goblin
-20,Creature,Legendary,Snow Monk Oni of the Eastern Skies
-21,Creature,Rare,Aura Lord Fairy
-22,Artifact,Common,Boots
-23,Enchantment,Common,Invert
-24,Creature,Rare,Dark Lord Berserker
-25,Spell,Common,Frost
-26,Artifact,Common,Ring
-27,Creature,Common,Eagle
-28,Artifact,Rare,Grim Bow
-29,Enchantment,Common,Flight
-30,Creature,Common,Spider
-31,Enchantment,Common,Agony
-32,Enchantment,Common,Invert
-33,Spell,Common,Reanimate
-34,Spell,Rare,Cataclysmic Fury
-35,Enchantment,Common,Deathgrip
-36,Creature,Common,Goblin
-37,Creature,Common,Wolf
-38,Enchantment,Common,Strength
-39,Enchantment,Common,Shrink
-40,Creature,Common,Warlock
-41,Spell,Common,Frost
-42,Enchantment,Common,Lethargy
-43,Creature,Common,Spider
-44,Artifact,Common,Ghost Wand
+==================,DECK,7481
+0,Creature,Ghoul
+1,Creature,Aura Lord Hydra
+2,Spell,Zealous Necro Vortex
+3,Enchantment,Alacrity
+4,Creature,Snow Priest Orc
+5,Creature,Warlock
+6,Creature,Troll
+7,Creature,Magi
+8,Enchantment,Sorrow Alacrity
+9,Enchantment,Haste
+10,Creature,Berserker
+11,Enchantment,Deathgrip
+12,Creature,Death Assassin Griffin
+13,Creature,Skin-Walker
+14,Enchantment,Firebreath
+15,Enchantment,Clever Necro Lethargy
+16,Spell,Ardent Nimble Infuriate
+17,Artifact,Solar Ring
+18,Creature,Frozen Fighter Cyclops
+19,Creature,Skin-Walker
+20,Creature,Snow Monk Oni of the Eastern Skies
+21,Creature,Aura Lord Kraken
+22,Artifact,Boots
+23,Enchantment,Firebreath
+24,Creature,Dark Lord Goblin
+25,Spell,Wall
+26,Artifact,Ring
+27,Creature,Eagle
+28,Artifact,Nimble Bow
+29,Enchantment,Shade
+30,Creature,Paladin
+31,Enchantment,Drain
+32,Enchantment,Firebreath
+33,Spell,Wall
+34,Spell,Chimeric Invisibility
+35,Enchantment,Firebreath
+36,Creature,Skin-Walker
+37,Creature,Wolf
+38,Enchantment,Shield
+39,Enchantment,Invert
+40,Creature,Berserker
+41,Spell,Revive
+42,Enchantment,Drain
+43,Creature,Paladin
+44,Artifact,Ghost Wand

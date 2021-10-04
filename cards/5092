@@ -1,46 +1,46 @@
-==================,DECK,5092,Light
-0,Spell,Legendary,Intense Lightning
-1,Enchantment,Common,Age
-2,Creature,Rare,Dark Merchant Griffin
-3,Creature,Common,Wolf
-4,Enchantment,Common,Flight
-5,Spell,Common,Fury
-6,Creature,Common,Dwarf
-7,Creature,Legendary,Death Warrior Oni of the Swamp
-8,Creature,Common,Goblin
-9,Spell,Common,Sorrow
-10,Spell,Common,Gravitation
-11,Enchantment,Common,Agony
-12,Enchantment,Common,Deathgrip
-13,Creature,Common,Dwarf
-14,Spell,Rare,Oblivion Invisibility
-15,Spell,Legendary,Instant Burst
-16,Spell,Rare,Lunar Hypnosis
-17,Creature,Common,Eagle
-18,Enchantment,Rare,Frigid Agony
-19,Creature,Common,Orc
-20,Enchantment,Common,Invert
-21,Artifact,Common,Crown
-22,Creature,Common,Orc
-23,Creature,Common,Spider
-24,Spell,Common,Burst
-25,Creature,Common,Dwarf
-26,Creature,Common,Warlock
-27,Enchantment,Rare,Shimmering Drain
-28,Creature,Common,Orc
-29,Creature,Mythic,Light Ancient Demon of the Sky
-30,Spell,Rare,Oblivion Heal
-31,Enchantment,Rare,Forged Strength
-32,Creature,Common,Ghoul
-33,Spell,Common,Lightning
-34,Spell,Rare,Lunar Ice
-35,Creature,Common,Ghoul
-36,Spell,Common,Lightning
-37,Creature,Rare,Snow Lord Hydra
-38,Enchantment,Common,Shade
-39,Spell,Common,Lightning
-40,Creature,Common,Magi
-41,Creature,Rare,Aura Warrior Skin-Walker
-42,Creature,Rare,Aura Lord Griffin
-43,Enchantment,Common,Age
-44,Creature,Common,Ghoul
+==================,DECK,5092
+0,Spell,Urgent Shimmering Fire
+1,Enchantment,Firebreath
+2,Creature,Dark Merchant Griffin
+3,Creature,Wolf
+4,Enchantment,Lethargy
+5,Spell,Maelstrom
+6,Creature,Magi
+7,Creature,Death Warrior Oni of the Swamp
+8,Creature,Skin-Walker
+9,Spell,Sorrow
+10,Spell,Stricken
+11,Enchantment,Shield
+12,Enchantment,Invert
+13,Creature,Magi
+14,Spell,Life Frost
+15,Spell,Potent Nature Heal
+16,Spell,Miracle Fireball
+17,Creature,Eagle
+18,Enchantment,Life Shade
+19,Creature,Spider
+20,Enchantment,Lethargy
+21,Artifact,Crown
+22,Creature,Spider
+23,Creature,Paladin
+24,Spell,Vortex
+25,Creature,Magi
+26,Creature,Berserker
+27,Enchantment,Forged Deathgrip
+28,Creature,Spider
+29,Creature,Light Ancient Demon of the Sky
+30,Spell,Victory Torment
+31,Enchantment,Cataclysmic Alacrity
+32,Creature,Ghoul
+33,Spell,Sorrow
+34,Spell,Cataclysmic Gravitation
+35,Creature,Ghoul
+36,Spell,Invisibility
+37,Creature,Snow Lord Hydra
+38,Enchantment,Firebreath
+39,Spell,Vortex
+40,Creature,Fairy
+41,Creature,Aura Warrior Orc
+42,Creature,Aura Lord Griffin
+43,Enchantment,Haste
+44,Creature,Ghoul

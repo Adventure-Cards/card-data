@@ -1,46 +1,46 @@
-==================,DECK,5940,Medium
-0,Creature,Common,Ghoul
-1,Enchantment,Rare,Grim Invert
-2,Creature,Common,Ghoul
-3,Creature,Rare,Earth Monk Hydra
-4,Artifact,Common,Gloves
-5,Artifact,Common,Sword
-6,Creature,Common,Elf
-7,Artifact,Common,Amulet
-8,Spell,Common,Torment
-9,Creature,Rare,Snow Assassin Griffin
-10,Creature,Common,Wolf
-11,Creature,Rare,Frozen Lord Berserker
-12,Creature,Rare,Snow Lord Berserker
-13,Enchantment,Rare,Grim Shade
-14,Creature,Common,Eagle
-15,Creature,Rare,Snow Rogue Skin-Walker
-16,Creature,Common,Paladin
-17,Creature,Common,Orc
-18,Creature,Common,Spider
-19,Creature,Common,Spider
-20,Creature,Common,Wolf
-21,Creature,Common,Orc
-22,Enchantment,Common,Haste
-23,Creature,Common,Orc
-24,Enchantment,Rare,Nimble Strength
-25,Creature,Common,Spider
-26,Creature,Common,Warlock
-27,Creature,Common,Ghoul
-28,Creature,Common,Ghoul
-29,Creature,Common,Goblin
-30,Enchantment,Mythic,Extreme Alacrity
-31,Enchantment,Legendary,Potent Agony
-32,Creature,Common,Paladin
-33,Creature,Mythic,Death Chaos Demon of the Dead
-34,Creature,Common,Spider
-35,Creature,Rare,Light Warrior Hydra
-36,Creature,Common,Magi
-37,Creature,Rare,Frozen Warrior Fairy
-38,Creature,Common,Wolf
-39,Artifact,Common,Helm
-40,Creature,Common,Ghoul
-41,Spell,Common,Frenzy
-42,Enchantment,Legendary,Intense Alacrity
-43,Creature,Rare,Dark King Griffin
-44,Creature,Rare,Frozen Merchant Minotaur
+==================,DECK,5940
+0,Creature,Ghoul
+1,Enchantment,Oblivion Blight
+2,Creature,Ghoul
+3,Creature,Earth Monk Hydra
+4,Artifact,Gloves
+5,Artifact,Sword
+6,Creature,Warlock
+7,Artifact,Amulet
+8,Spell,Vortex
+9,Creature,Snow Assassin Griffin
+10,Creature,Wolf
+11,Creature,Frozen Lord Goblin
+12,Creature,Snow Lord Goblin
+13,Enchantment,Frigid Blight
+14,Creature,Eagle
+15,Creature,Snow Rogue Orc
+16,Creature,Troll
+17,Creature,Spider
+18,Creature,Paladin
+19,Creature,Paladin
+20,Creature,Wolf
+21,Creature,Spider
+22,Enchantment,Flight
+23,Creature,Spider
+24,Enchantment,Solar Strength
+25,Creature,Paladin
+26,Creature,Berserker
+27,Creature,Ghoul
+28,Creature,Ghoul
+29,Creature,Skin-Walker
+30,Enchantment,Urgent Dark Flight
+31,Enchantment,Instant Life Drain
+32,Creature,Troll
+33,Creature,Death Chaos Demon of the Dead
+34,Creature,Paladin
+35,Creature,Light Warrior Hydra
+36,Creature,Fairy
+37,Creature,Frozen Warrior Kraken
+38,Creature,Wolf
+39,Artifact,Helm
+40,Creature,Ghoul
+41,Spell,Frenzy
+42,Enchantment,Instant Forged Strength
+43,Creature,Dark King Griffin
+44,Creature,Frozen Merchant Cyclops

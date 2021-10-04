@@ -1,46 +1,46 @@
-==================,DECK,6042,Medium
-0,Creature,Rare,Aura Assassin Berserker
-1,Creature,Common,Eagle
-2,Creature,Common,Spider
-3,Spell,Common,Stun
-4,Spell,Common,Burst
-5,Spell,Common,Wall
-6,Creature,Mythic,Frozen Nameless Phoenix of the Void
-7,Creature,Rare,Death Knight Griffin
-8,Artifact,Common,Potion
-9,Creature,Common,Eagle
-10,Creature,Common,Warlock
-11,Creature,Common,Dwarf
-12,Spell,Common,Reanimate
-13,Enchantment,Common,Alacrity
-14,Artifact,Rare,Solar Ghost Wand
-15,Creature,Rare,Light Warrior Hydra
-16,Creature,Common,Paladin
-17,Spell,Common,Gravitation
-18,Artifact,Common,Boots
-19,Creature,Legendary,Dark Merchant Giant of the Magical Forest
-20,Spell,Common,Stun
-21,Artifact,Rare,Solar Ghost Wand
-22,Creature,Common,Eagle
-23,Spell,Common,Frost
-24,Spell,Common,Frenzy
-25,Artifact,Rare,Hateful Boots
-26,Spell,Common,Heal
-27,Creature,Common,Wolf
-28,Creature,Rare,Earth Warrior Berserker
-29,Creature,Rare,Snow Lord Hydra
-30,Spell,Common,Gravitation
-31,Spell,Common,Torment
-32,Creature,Common,Orc
-33,Creature,Mythic,Aura Time Phoenix of the Light
-34,Creature,Common,Orc
-35,Creature,Rare,Aura Queen Griffin
-36,Enchantment,Legendary,Potent Deathgrip
-37,Creature,Common,Elf
-38,Creature,Common,Elf
-39,Artifact,Rare,Solar Ring
-40,Artifact,Legendary,Dire Sigil
-41,Creature,Common,Paladin
-42,Creature,Mythic,Frozen Time Dragon of the Void
-43,Creature,Common,Eagle
-44,Artifact,Common,Tome
+==================,DECK,6042
+0,Creature,Aura Assassin Goblin
+1,Creature,Eagle
+2,Creature,Paladin
+3,Spell,Fury
+4,Spell,Ice
+5,Spell,Invisibility
+6,Creature,Frozen Nameless Phoenix of the Void
+7,Creature,Death Knight Griffin
+8,Artifact,Potion
+9,Creature,Eagle
+10,Creature,Berserker
+11,Creature,Magi
+12,Spell,Fury
+13,Enchantment,Drain
+14,Artifact,Corpse Ghost Wand
+15,Creature,Light Warrior Hydra
+16,Creature,Troll
+17,Spell,Rage
+18,Artifact,Boots
+19,Creature,Dark Merchant Dwarf of the Magical Forest
+20,Spell,Gravitation
+21,Artifact,Solar Ghost Wand
+22,Creature,Eagle
+23,Spell,Lightning
+24,Spell,Gravitation
+25,Artifact,Sorrow Boots
+26,Spell,Stun
+27,Creature,Wolf
+28,Creature,Earth Warrior Goblin
+29,Creature,Snow Lord Hydra
+30,Spell,Invisibility
+31,Spell,Fury
+32,Creature,Spider
+33,Creature,Aura Time Phoenix of the Light
+34,Creature,Spider
+35,Creature,Aura Queen Griffin
+36,Enchantment,Potent Oblivion Drain
+37,Creature,Warlock
+38,Creature,Warlock
+39,Artifact,Forged Ring
+40,Artifact,Mighty Grim Sigil
+41,Creature,Troll
+42,Creature,Frozen Time Dragon of the Void
+43,Creature,Eagle
+44,Artifact,Tome

@@ -1,46 +1,46 @@
-==================,DECK,7398,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Elf
-2,Enchantment,Legendary,Dire Deathgrip
-3,Creature,Common,Ghoul
-4,Creature,Common,Wolf
-5,Creature,Rare,Snow Rogue Minotaur
-6,Spell,Common,Torment
-7,Creature,Rare,Light Priest Minotaur
-8,Enchantment,Common,Strength
-9,Creature,Mythic,Frozen Grand Wizard of the Void
-10,Creature,Common,Dwarf
-11,Creature,Common,Eagle
-12,Creature,Common,Elf
-13,Creature,Common,Elf
-14,Creature,Rare,Aura Fighter Minotaur
-15,Creature,Common,Eagle
-16,Creature,Legendary,Dark Merchant Giant of the Border
-17,Artifact,Common,Greaves
-18,Enchantment,Rare,Nimble Invert
-19,Spell,Common,Sorrow
-20,Enchantment,Common,Agony
-21,Creature,Common,Goblin
-22,Creature,Rare,Dark Priest Fairy
-23,Spell,Common,Fury
-24,Creature,Common,Wolf
-25,Enchantment,Rare,Apocalypse Haste
-26,Creature,Common,Spider
-27,Artifact,Common,Pendant
-28,Creature,Common,Spider
-29,Creature,Common,Dwarf
-30,Creature,Common,Paladin
-31,Enchantment,Common,Deathgrip
-32,Creature,Rare,Death Knight Minotaur
-33,Enchantment,Rare,Grim Strength
-34,Creature,Legendary,Frozen Rogue Kraken of the Eastern Skies
-35,Artifact,Common,Cloak
-36,Spell,Common,Maelstrom
-37,Enchantment,Rare,Nimble Lethargy
-38,Spell,Rare,Grim Rage
-39,Spell,Common,Stricken
-40,Creature,Common,Warlock
-41,Artifact,Rare,Gloom Sigil
-42,Artifact,Common,Sword
-43,Creature,Common,Dwarf
-44,Creature,Common,Goblin
+==================,DECK,7398
+0,Creature,Wolf
+1,Creature,Warlock
+2,Enchantment,Clever Oblivion Haste
+3,Creature,Ghoul
+4,Creature,Wolf
+5,Creature,Snow Rogue Cyclops
+6,Spell,Gale
+7,Creature,Light Priest Cyclops
+8,Enchantment,Haste
+9,Creature,Frozen Grand Wizard of the Void
+10,Creature,Magi
+11,Creature,Eagle
+12,Creature,Warlock
+13,Creature,Warlock
+14,Creature,Aura Fighter Cyclops
+15,Creature,Eagle
+16,Creature,Dark Merchant Dwarf of the Border
+17,Artifact,Greaves
+18,Enchantment,Shimmering Lethargy
+19,Spell,Wall
+20,Enchantment,Strength
+21,Creature,Skin-Walker
+22,Creature,Dark Priest Kraken
+23,Spell,Invisibility
+24,Creature,Wolf
+25,Enchantment,Life Blight
+26,Creature,Paladin
+27,Artifact,Pendant
+28,Creature,Paladin
+29,Creature,Magi
+30,Creature,Troll
+31,Enchantment,Invert
+32,Creature,Death Knight Cyclops
+33,Enchantment,Nimble Blight
+34,Creature,Frozen Rogue Ogre of the Eastern Skies
+35,Artifact,Cloak
+36,Spell,Wall
+37,Enchantment,Hateful Lethargy
+38,Spell,Oblivion Gravitation
+39,Spell,Revive
+40,Creature,Berserker
+41,Artifact,Lunar Sigil
+42,Artifact,Sword
+43,Creature,Magi
+44,Creature,Skin-Walker

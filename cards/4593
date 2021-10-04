@@ -1,46 +1,46 @@
-==================,DECK,4593,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Ghoul
-2,Spell,Rare,Hateful Reanimate
-3,Artifact,Common,Ring
-4,Creature,Common,Wolf
-5,Creature,Common,Orc
-6,Enchantment,Common,Agony
-7,Enchantment,Common,Haste
-8,Spell,Common,Frost
-9,Creature,Common,Paladin
-10,Enchantment,Common,Shrink
-11,Creature,Legendary,Death Merchant Oni of the Golden Palace
-12,Spell,Legendary,Instant Maelstrom
-13,Artifact,Common,Potion
-14,Creature,Rare,Snow Monk Fairy
-15,Creature,Common,Goblin
-16,Enchantment,Mythic,Intense Deathgrip
-17,Enchantment,Common,Drain
-18,Creature,Common,Spider
-19,Creature,Common,Magi
-20,Spell,Rare,Cataclysmic Burn
-21,Creature,Rare,Death Rogue Griffin
-22,Spell,Common,Revive
-23,Artifact,Legendary,Urgent Cloak
-24,Creature,Legendary,Snow Rogue Orge of the Mountains
-25,Spell,Legendary,Mighty Infuriate
-26,Enchantment,Common,Shade
-27,Creature,Legendary,Snow Rogue Kraken of the Arctic Blizzards
-28,Creature,Common,Orc
-29,Enchantment,Common,Alacrity
-30,Enchantment,Common,Lethargy
-31,Enchantment,Mythic,Clever Agony
-32,Spell,Common,Freeze
-33,Creature,Rare,Dark Knight Hydra
-34,Creature,Common,Orc
-35,Artifact,Common,Tome
-36,Creature,Rare,Death Monk Hydra
-37,Spell,Rare,Grim Heal
-38,Spell,Common,Burst
-39,Creature,Common,Elf
-40,Creature,Common,Wolf
-41,Creature,Common,Dwarf
-42,Creature,Common,Eagle
-43,Enchantment,Rare,Hateful Shrink
-44,Spell,Legendary,Extreme Wall
+==================,DECK,4593
+0,Creature,Magi
+1,Creature,Ghoul
+2,Spell,Sorrow Wall
+3,Artifact,Ring
+4,Creature,Wolf
+5,Creature,Spider
+6,Enchantment,Lethargy
+7,Enchantment,Drain
+8,Spell,Heal
+9,Creature,Troll
+10,Enchantment,Flight
+11,Creature,Death Merchant Oni of the Golden Palace
+12,Spell,Empyrean Shimmering Wall
+13,Artifact,Potion
+14,Creature,Snow Monk Kraken
+15,Creature,Skin-Walker
+16,Enchantment,Zealous Shimmering Deathgrip
+17,Enchantment,Deathgrip
+18,Creature,Paladin
+19,Creature,Fairy
+20,Spell,Sorrow Frenzy
+21,Creature,Death Rogue Griffin
+22,Spell,Fury
+23,Artifact,Ardent Nature Cloak
+24,Creature,Snow Rogue Elf of the Mountains
+25,Spell,Clever Lunar Fury
+26,Enchantment,Shield
+27,Creature,Snow Rogue Ogre of the Arctic Blizzards
+28,Creature,Spider
+29,Enchantment,Alacrity
+30,Enchantment,Firebreath
+31,Enchantment,Urgent Life Invert
+32,Spell,Frenzy
+33,Creature,Dark Knight Hydra
+34,Creature,Spider
+35,Artifact,Tome
+36,Creature,Death Monk Hydra
+37,Spell,Nimble Heal
+38,Spell,Lightning
+39,Creature,Warlock
+40,Creature,Wolf
+41,Creature,Magi
+42,Creature,Eagle
+43,Enchantment,Chimeric Alacrity
+44,Spell,Urgent Miracle Infuriate

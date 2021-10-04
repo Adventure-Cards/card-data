@@ -1,46 +1,46 @@
-==================,DECK,6153,Light
-0,Spell,Common,Rage
-1,Spell,Common,Fury
-2,Creature,Legendary,Dark Assassin Kraken of the Border
-3,Artifact,Rare,Dark Shield
-4,Artifact,Common,Ghost Wand
-5,Creature,Rare,Dark Assassin Hydra
-6,Creature,Common,Paladin
-7,Artifact,Common,Amulet
-8,Spell,Common,Fury
-9,Artifact,Common,Scepter
-10,Spell,Common,Gravitation
-11,Creature,Common,Wolf
-12,Spell,Common,Hypnosis
-13,Creature,Rare,Light King Fairy
-14,Enchantment,Rare,Oblivion Shield
-15,Enchantment,Common,Shield
-16,Enchantment,Common,Alacrity
-17,Creature,Mythic,Snow Nameless Dragon of Hate
-18,Enchantment,Common,Invert
-19,Creature,Common,Paladin
-20,Creature,Rare,Earth Merchant Minotaur
-21,Spell,Legendary,Potent Hypnosis
-22,Artifact,Legendary,Urgent Greaves
-23,Creature,Common,Orc
-24,Artifact,Legendary,Intense Ghost Wand
-25,Creature,Common,Paladin
-26,Enchantment,Mythic,Clever Blight
-27,Enchantment,Common,Agony
-28,Spell,Rare,Corpse Vortex
-29,Spell,Common,Invisibility
-30,Enchantment,Common,Flight
-31,Creature,Rare,Snow Fighter Griffin
-32,Creature,Rare,Light Priest Minotaur
-33,Enchantment,Common,Strength
-34,Enchantment,Rare,Forged Strength
-35,Creature,Common,Dwarf
-36,Creature,Legendary,Dark Merchant Orge of the Eastern Skies
-37,Creature,Rare,Aura Assassin Griffin
-38,Creature,Mythic,Aura Time Dragon of the Light
-39,Artifact,Common,Pendant
-40,Creature,Mythic,Light Grand Demon of the Sky
-41,Creature,Common,Eagle
-42,Enchantment,Common,Haste
-43,Creature,Common,Magi
-44,Artifact,Common,Cloak
+==================,DECK,6153
+0,Spell,Freeze
+1,Spell,Ice
+2,Creature,Dark Assassin Ogre of the Border
+3,Artifact,Sorrow Shield
+4,Artifact,Ghost Wand
+5,Creature,Dark Assassin Hydra
+6,Creature,Troll
+7,Artifact,Amulet
+8,Spell,Gravitation
+9,Artifact,Scepter
+10,Spell,Fireball
+11,Creature,Wolf
+12,Spell,Ice
+13,Creature,Light King Kraken
+14,Enchantment,Victory Shade
+15,Enchantment,Drain
+16,Enchantment,Age
+17,Creature,Snow Nameless Dragon of Hate
+18,Enchantment,Alacrity
+19,Creature,Troll
+20,Creature,Earth Merchant Cyclops
+21,Spell,Mighty Life Heal
+22,Artifact,Mighty Solar Greaves
+23,Creature,Spider
+24,Artifact,Mighty Forged Ghost Wand
+25,Creature,Troll
+26,Enchantment,Potent Nimble Drain
+27,Enchantment,Haste
+28,Spell,Hateful Lightning
+29,Spell,Burn
+30,Enchantment,Drain
+31,Creature,Snow Fighter Griffin
+32,Creature,Light Priest Cyclops
+33,Enchantment,Lethargy
+34,Enchantment,Cataclysmic Alacrity
+35,Creature,Magi
+36,Creature,Dark Merchant Elf of the Eastern Skies
+37,Creature,Aura Assassin Griffin
+38,Creature,Aura Time Dragon of the Light
+39,Artifact,Pendant
+40,Creature,Light Grand Demon of the Sky
+41,Creature,Eagle
+42,Enchantment,Shade
+43,Creature,Fairy
+44,Artifact,Cloak

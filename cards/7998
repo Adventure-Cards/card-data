@@ -1,46 +1,46 @@
-==================,DECK,7998,Light
-0,Creature,Common,Dwarf
-1,Spell,Common,Stricken
-2,Artifact,Legendary,Intense Ghost Wand
-3,Enchantment,Common,Flight
-4,Creature,Rare,Snow Merchant Griffin
-5,Artifact,Common,Crown
-6,Creature,Common,Orc
-7,Creature,Common,Magi
-8,Creature,Common,Paladin
-9,Creature,Legendary,Earth Thief Giant of the Bright Mountains
-10,Enchantment,Common,Age
-11,Creature,Mythic,Frozen Undead Dragon of the Void
-12,Creature,Common,Warlock
-13,Spell,Rare,Miracle Stricken
-14,Creature,Common,Ghoul
-15,Spell,Common,Ice
-16,Creature,Common,Wolf
-17,Artifact,Rare,Cataclysmic Boots
-18,Spell,Rare,Corpse Lightning
-19,Artifact,Legendary,Dire Bracers
-20,Spell,Legendary,Potent Stun
-21,Creature,Common,Wolf
-22,Creature,Common,Orc
-23,Enchantment,Rare,Frigid Agony
-24,Enchantment,Common,Haste
-25,Creature,Common,Spider
-26,Spell,Rare,Grim Assault
-27,Artifact,Legendary,Urgent Potion
-28,Enchantment,Common,Shield
-29,Enchantment,Common,Shield
-30,Creature,Mythic,Dark Nameless Phoenix of Illusion
-31,Enchantment,Common,Shade
-32,Creature,Common,Paladin
-33,Creature,Common,Paladin
-34,Spell,Common,Lightning
-35,Creature,Common,Goblin
-36,Creature,Legendary,Light Undead Kraken of the Eastern Skies
-37,Enchantment,Common,Blight
-38,Creature,Legendary,Dark Knight Kraken of the Bright Mountains
-39,Creature,Common,Wolf
-40,Creature,Rare,Aura Undead Skin-Walker
-41,Spell,Common,Pandemonium
-42,Spell,Common,Infuriate
-43,Creature,Common,Paladin
-44,Spell,Common,Torment
+==================,DECK,7998
+0,Creature,Magi
+1,Spell,Vortex
+2,Artifact,Urgent Forged Ghost Wand
+3,Enchantment,Agony
+4,Creature,Snow Merchant Griffin
+5,Artifact,Crown
+6,Creature,Spider
+7,Creature,Fairy
+8,Creature,Troll
+9,Creature,Earth Thief Dwarf of the Bright Mountains
+10,Enchantment,Haste
+11,Creature,Frozen Undead Dragon of the Void
+12,Creature,Berserker
+13,Spell,Victory Burst
+14,Creature,Ghoul
+15,Spell,Frost
+16,Creature,Wolf
+17,Artifact,Sorrow Boots
+18,Spell,Corpse Fireball
+19,Artifact,Irate Grim Bracers
+20,Spell,Zealous Oblivion Lightning
+21,Creature,Wolf
+22,Creature,Spider
+23,Enchantment,Life Shade
+24,Enchantment,Agony
+25,Creature,Paladin
+26,Spell,Nimble Lightning
+27,Artifact,Clever Hateful Potion
+28,Enchantment,Firebreath
+29,Enchantment,Blight
+30,Creature,Dark Nameless Phoenix of Illusion
+31,Enchantment,Invert
+32,Creature,Troll
+33,Creature,Troll
+34,Spell,Hypnosis
+35,Creature,Skin-Walker
+36,Creature,Light Undead Ogre of the Eastern Skies
+37,Enchantment,Flight
+38,Creature,Dark Knight Ogre of the Bright Mountains
+39,Creature,Wolf
+40,Creature,Aura Undead Orc
+41,Spell,Fire
+42,Spell,Assault
+43,Creature,Troll
+44,Spell,Maelstrom

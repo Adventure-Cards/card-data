@@ -1,46 +1,46 @@
-==================,DECK,5911,Light
-0,Creature,Rare,Aura Merchant Berserker
-1,Spell,Legendary,Intense Rage
-2,Creature,Common,Paladin
-3,Creature,Common,Orc
-4,Creature,Common,Goblin
-5,Creature,Common,Paladin
-6,Creature,Common,Orc
-7,Spell,Common,Lightning
-8,Creature,Common,Goblin
-9,Creature,Common,Magi
-10,Enchantment,Rare,Frigid Shade
-11,Spell,Common,Hypnosis
-12,Spell,Rare,Hateful Stricken
-13,Artifact,Rare,Gloom Helmet
-14,Enchantment,Common,Deathgrip
-15,Creature,Common,Ghoul
-16,Creature,Rare,Snow Rogue Berserker
-17,Creature,Common,Orc
-18,Creature,Common,Eagle
-19,Creature,Common,Elf
-20,Artifact,Common,Sigil
-21,Creature,Common,Paladin
-22,Creature,Common,Wolf
-23,Artifact,Rare,Miracle Bow
-24,Spell,Common,Vortex
-25,Enchantment,Common,Shade
-26,Creature,Common,Wolf
-27,Artifact,Common,Helm
-28,Creature,Common,Ghoul
-29,Enchantment,Rare,Grim Shade
-30,Spell,Common,Gravitation
-31,Enchantment,Legendary,Mighty Blight
-32,Creature,Rare,Dark Lord Griffin
-33,Enchantment,Common,Strength
-34,Enchantment,Common,Drain
-35,Spell,Common,Lightning
-36,Creature,Common,Paladin
-37,Enchantment,Common,Haste
-38,Enchantment,Common,Flight
-39,Enchantment,Common,Agony
-40,Creature,Legendary,Dark Assassin Kraken of the Magical Forest
-41,Creature,Common,Dwarf
-42,Creature,Legendary,Light Lord Cyclops of the Arctic Blizzards
-43,Creature,Common,Elf
-44,Creature,Legendary,Light Priest Orge of the Swamp
+==================,DECK,5911
+0,Creature,Aura Merchant Goblin
+1,Spell,Instant Solar Frost
+2,Creature,Troll
+3,Creature,Spider
+4,Creature,Skin-Walker
+5,Creature,Troll
+6,Creature,Spider
+7,Spell,Gravitation
+8,Creature,Skin-Walker
+9,Creature,Fairy
+10,Enchantment,Frigid Haste
+11,Spell,Fireball
+12,Spell,Chimeric Ice
+13,Artifact,Sorrow Helmet
+14,Enchantment,Alacrity
+15,Creature,Ghoul
+16,Creature,Snow Rogue Goblin
+17,Creature,Spider
+18,Creature,Eagle
+19,Creature,Warlock
+20,Artifact,Sigil
+21,Creature,Troll
+22,Creature,Wolf
+23,Artifact,Apocalypse Bow
+24,Spell,Infuriate
+25,Enchantment,Flight
+26,Creature,Wolf
+27,Artifact,Helm
+28,Creature,Ghoul
+29,Enchantment,Frigid Blight
+30,Spell,Wall
+31,Enchantment,Mighty Cataclysmic Flight
+32,Creature,Dark Lord Griffin
+33,Enchantment,Flight
+34,Enchantment,Age
+35,Spell,Frenzy
+36,Creature,Troll
+37,Enchantment,Haste
+38,Enchantment,Lethargy
+39,Enchantment,Blight
+40,Creature,Dark Assassin Ogre of the Magical Forest
+41,Creature,Magi
+42,Creature,Light Lord Giant of the Arctic Blizzards
+43,Creature,Warlock
+44,Creature,Light Priest Elf of the Swamp

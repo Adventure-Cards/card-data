@@ -1,46 +1,46 @@
-==================,DECK,7364,Medium
-0,Artifact,Common,Divine Robe
-1,Creature,Rare,Dark Fighter Hydra
-2,Spell,Common,Rage
-3,Creature,Common,Goblin
-4,Spell,Common,Infuriate
-5,Creature,Rare,Earth King Berserker
-6,Enchantment,Common,Shade
-7,Spell,Rare,Hateful Reanimate
-8,Enchantment,Common,Drain
-9,Creature,Common,Paladin
-10,Creature,Legendary,Earth Knight Orge of the Eternal Land
-11,Creature,Mythic,Dark Nameless Phoenix of Illusion
-12,Enchantment,Common,Alacrity
-13,Creature,Common,Warlock
-14,Enchantment,Common,Age
-15,Enchantment,Common,Blight
-16,Creature,Mythic,Death Nameless Dragon of the Dead
-17,Spell,Rare,Nimble Frost
-18,Creature,Common,Wolf
-19,Spell,Common,Infuriate
-20,Spell,Common,Gale
-21,Artifact,Rare,Nimble Helm
-22,Creature,Common,Wolf
-23,Spell,Rare,Miracle Stricken
-24,Enchantment,Rare,Grim Alacrity
-25,Enchantment,Mythic,Clever Haste
-26,Spell,Rare,Oblivion Revive
-27,Enchantment,Common,Alacrity
-28,Spell,Rare,Hateful Hypnosis
-29,Creature,Common,Orc
-30,Creature,Common,Ghoul
-31,Spell,Rare,Gloom Lightning
-32,Creature,Common,Ghoul
-33,Creature,Rare,Death Rogue Hydra
-34,Creature,Common,Dwarf
-35,Creature,Common,Orc
-36,Creature,Rare,Light Rogue Berserker
-37,Creature,Rare,Frozen Lord Skin-Walker
-38,Creature,Rare,Light Thief Minotaur
-39,Creature,Common,Spider
-40,Enchantment,Legendary,Clever Shield
-41,Spell,Common,Gale
-42,Spell,Legendary,Instant Heal
-43,Spell,Rare,Necro Hypnosis
-44,Enchantment,Rare,Dark Shield
+==================,DECK,7364
+0,Artifact,Divine Robe
+1,Creature,Dark Fighter Hydra
+2,Spell,Maelstrom
+3,Creature,Skin-Walker
+4,Spell,Stricken
+5,Creature,Earth King Goblin
+6,Enchantment,Deathgrip
+7,Spell,Miracle Hypnosis
+8,Enchantment,Drain
+9,Creature,Troll
+10,Creature,Earth Knight Elf of the Eternal Land
+11,Creature,Dark Nameless Phoenix of Illusion
+12,Enchantment,Agony
+13,Creature,Berserker
+14,Enchantment,Firebreath
+15,Enchantment,Invert
+16,Creature,Death Nameless Dragon of the Dead
+17,Spell,Shimmering Torment
+18,Creature,Wolf
+19,Spell,Burst
+20,Spell,Gale
+21,Artifact,Necro Helm
+22,Creature,Wolf
+23,Spell,Oblivion Fireball
+24,Enchantment,Apocalypse Drain
+25,Enchantment,Clever Life Haste
+26,Spell,Frigid Lightning
+27,Enchantment,Flight
+28,Spell,Sorrow Revive
+29,Creature,Spider
+30,Creature,Ghoul
+31,Spell,Miracle Freeze
+32,Creature,Ghoul
+33,Creature,Death Rogue Hydra
+34,Creature,Magi
+35,Creature,Spider
+36,Creature,Light Rogue Goblin
+37,Creature,Frozen Lord Orc
+38,Creature,Light Thief Cyclops
+39,Creature,Paladin
+40,Enchantment,Ardent Victory Haste
+41,Spell,Infuriate
+42,Spell,Dire Solar Lightning
+43,Spell,Necro Burst
+44,Enchantment,Gloom Shield

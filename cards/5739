@@ -1,46 +1,46 @@
-==================,DECK,5739,Light
-0,Spell,Common,Reanimate
-1,Enchantment,Common,Flight
-2,Artifact,Common,Scythe
-3,Creature,Rare,Snow Monk Griffin
-4,Creature,Common,Wolf
-5,Enchantment,Common,Shade
-6,Creature,Common,Magi
-7,Creature,Common,Orc
-8,Artifact,Rare,Oblivion Scepter
-9,Creature,Common,Spider
-10,Creature,Common,Goblin
-11,Creature,Common,Dwarf
-12,Spell,Common,Maelstrom
-13,Enchantment,Common,Invert
-14,Creature,Legendary,Frozen Thief Cyclops of the Border
-15,Creature,Common,Spider
-16,Creature,Common,Warlock
-17,Creature,Common,Eagle
-18,Creature,Common,Ghoul
-19,Spell,Common,Stun
-20,Creature,Rare,Light Assassin Hydra
-21,Spell,Rare,Necro Pandemonium
-22,Creature,Common,Spider
-23,Enchantment,Common,Haste
-24,Creature,Common,Eagle
-25,Creature,Legendary,Death Fighter Cyclops of the Mountains
-26,Creature,Common,Warlock
-27,Spell,Common,Burn
-28,Creature,Common,Elf
-29,Creature,Common,Warlock
-30,Enchantment,Common,Invert
-31,Creature,Common,Elf
-32,Enchantment,Mythic,Clever Blight
-33,Creature,Mythic,Death Grand Wizard of the Dead
-34,Spell,Legendary,Clever Burst
-35,Creature,Common,Spider
-36,Creature,Common,Dwarf
-37,Creature,Common,Eagle
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Creature,Common,Warlock
-41,Creature,Common,Spider
-42,Creature,Common,Ghoul
-43,Creature,Legendary,Frozen Undead Cyclops of the Border
-44,Artifact,Common,Boots
+==================,DECK,5739
+0,Spell,Stricken
+1,Enchantment,Strength
+2,Artifact,Scythe
+3,Creature,Snow Monk Griffin
+4,Creature,Wolf
+5,Enchantment,Flight
+6,Creature,Fairy
+7,Creature,Spider
+8,Artifact,Apocalypse Scepter
+9,Creature,Paladin
+10,Creature,Skin-Walker
+11,Creature,Magi
+12,Spell,Pandemonium
+13,Enchantment,Blight
+14,Creature,Frozen Thief Giant of the Border
+15,Creature,Paladin
+16,Creature,Berserker
+17,Creature,Eagle
+18,Creature,Ghoul
+19,Spell,Gale
+20,Creature,Light Assassin Hydra
+21,Spell,Nature Stun
+22,Creature,Paladin
+23,Enchantment,Invert
+24,Creature,Eagle
+25,Creature,Death Fighter Giant of the Mountains
+26,Creature,Berserker
+27,Spell,Fire
+28,Creature,Warlock
+29,Creature,Berserker
+30,Enchantment,Flight
+31,Creature,Warlock
+32,Enchantment,Potent Nimble Drain
+33,Creature,Death Grand Wizard of the Dead
+34,Spell,Zealous Frigid Stricken
+35,Creature,Paladin
+36,Creature,Magi
+37,Creature,Eagle
+38,Creature,Fairy
+39,Creature,Troll
+40,Creature,Berserker
+41,Creature,Paladin
+42,Creature,Ghoul
+43,Creature,Frozen Undead Giant of the Border
+44,Artifact,Boots

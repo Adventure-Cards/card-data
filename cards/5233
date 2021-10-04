@@ -1,46 +1,46 @@
-==================,DECK,5233,Light
-0,Creature,Rare,Aura Thief Fairy
-1,Enchantment,Common,Flight
-2,Artifact,Common,Amulet
-3,Enchantment,Common,Blight
-4,Artifact,Common,Amulet
-5,Spell,Legendary,Extreme Heal
-6,Creature,Common,Paladin
-7,Spell,Common,Infuriate
-8,Creature,Common,Spider
-9,Creature,Common,Dwarf
-10,Creature,Common,Dwarf
-11,Spell,Common,Invisibility
-12,Spell,Common,Torment
-13,Artifact,Common,Amulet
-14,Artifact,Common,Scepter
-15,Creature,Common,Elf
-16,Creature,Common,Wolf
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Common,Strength
-19,Spell,Common,Burn
-20,Spell,Common,Hypnosis
-21,Creature,Rare,Light King Fairy
-22,Spell,Rare,Oblivion Wall
-23,Creature,Common,Goblin
-24,Artifact,Common,Greaves
-25,Creature,Common,Eagle
-26,Artifact,Common,Shield
-27,Artifact,Common,Tome
-28,Enchantment,Rare,Corpse Invert
-29,Creature,Rare,Aura Lord Skin-Walker
-30,Creature,Common,Ghoul
-31,Creature,Common,Paladin
-32,Artifact,Common,Belt
-33,Creature,Common,Orc
-34,Enchantment,Common,Haste
-35,Spell,Rare,Nimble Frenzy
-36,Creature,Common,Ghoul
-37,Artifact,Common,Amulet
-38,Enchantment,Common,Alacrity
-39,Artifact,Common,Pendant
-40,Enchantment,Common,Shrink
-41,Spell,Legendary,Instant Revive
-42,Enchantment,Common,Flight
-43,Enchantment,Rare,Frigid Invert
-44,Creature,Common,Wolf
+==================,DECK,5233
+0,Creature,Aura Thief Kraken
+1,Enchantment,Lethargy
+2,Artifact,Amulet
+3,Enchantment,Deathgrip
+4,Artifact,Amulet
+5,Spell,Instant Dark Fury
+6,Creature,Troll
+7,Spell,Burn
+8,Creature,Paladin
+9,Creature,Magi
+10,Creature,Magi
+11,Spell,Frost
+12,Spell,Fury
+13,Artifact,Amulet
+14,Artifact,Scepter
+15,Creature,Warlock
+16,Creature,Wolf
+17,Enchantment,Age
+18,Enchantment,Shrink
+19,Spell,Vortex
+20,Spell,Fireball
+21,Creature,Light King Kraken
+22,Spell,Grim Rage
+23,Creature,Skin-Walker
+24,Artifact,Greaves
+25,Creature,Eagle
+26,Artifact,Shield
+27,Artifact,Tome
+28,Enchantment,Shimmering Lethargy
+29,Creature,Aura Lord Orc
+30,Creature,Ghoul
+31,Creature,Troll
+32,Artifact,Belt
+33,Creature,Spider
+34,Enchantment,Alacrity
+35,Spell,Nature Burn
+36,Creature,Ghoul
+37,Artifact,Amulet
+38,Enchantment,Invert
+39,Artifact,Pendant
+40,Enchantment,Invert
+41,Spell,Ardent Hateful Pandemonium
+42,Enchantment,Flight
+43,Enchantment,Oblivion Drain
+44,Creature,Wolf

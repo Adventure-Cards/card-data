@@ -1,46 +1,46 @@
-==================,DECK,5007,Medium
-0,Creature,Rare,Dark Thief Griffin
-1,Creature,Rare,Dark Merchant Griffin
-2,Enchantment,Legendary,Angry Alacrity
-3,Creature,Common,Goblin
-4,Creature,Common,Elf
-5,Creature,Common,Goblin
-6,Creature,Mythic,Light Undead Dragon of the Sky
-7,Enchantment,Common,Deathgrip
-8,Artifact,Legendary,Mighty Tome
-9,Creature,Rare,Death Fighter Skin-Walker
-10,Enchantment,Common,Alacrity
-11,Enchantment,Legendary,Mighty Haste
-12,Enchantment,Common,Shade
-13,Creature,Mythic,Snow Time Dragon of Hate
-14,Creature,Rare,Frozen Priest Berserker
-15,Creature,Common,Eagle
-16,Creature,Legendary,Frozen Queen Giant of the Bright Mountains
-17,Creature,Rare,Aura Merchant Hydra
-18,Creature,Common,Magi
-19,Creature,Common,Spider
-20,Spell,Common,Frost
-21,Creature,Rare,Snow Warrior Skin-Walker
-22,Enchantment,Mythic,Urgent Flight
-23,Creature,Common,Wolf
-24,Creature,Mythic,Dark Grand Demon of Illusion
-25,Enchantment,Rare,Miracle Shrink
-26,Creature,Common,Wolf
-27,Spell,Common,Burn
-28,Creature,Common,Elf
-29,Creature,Common,Eagle
-30,Spell,Rare,Life Hypnosis
-31,Spell,Rare,Nimble Lightning
-32,Artifact,Common,Ring
-33,Creature,Common,Eagle
-34,Creature,Legendary,Earth Assassin Orge of the Haven
-35,Creature,Rare,Snow Thief Hydra
-36,Creature,Common,Elf
-37,Spell,Common,Rage
-38,Spell,Rare,Oblivion Wall
-39,Enchantment,Common,Invert
-40,Creature,Rare,Frozen King Fairy
-41,Creature,Legendary,Death Monk Oni of the Black Stone
-42,Creature,Rare,Light Rogue Griffin
-43,Artifact,Legendary,Angry Helm
-44,Creature,Legendary,Death Monk Cyclops of the Mountains
+==================,DECK,5007
+0,Creature,Dark Thief Griffin
+1,Creature,Dark Merchant Griffin
+2,Enchantment,Irate Dark Alacrity
+3,Creature,Skin-Walker
+4,Creature,Warlock
+5,Creature,Skin-Walker
+6,Creature,Light Undead Dragon of the Sky
+7,Enchantment,Alacrity
+8,Artifact,Empyrean Lunar Tome
+9,Creature,Death Fighter Orc
+10,Enchantment,Agony
+11,Enchantment,Potent Miracle Shrink
+12,Enchantment,Age
+13,Creature,Snow Time Dragon of Hate
+14,Creature,Frozen Priest Goblin
+15,Creature,Eagle
+16,Creature,Frozen Queen Dwarf of the Bright Mountains
+17,Creature,Aura Merchant Hydra
+18,Creature,Fairy
+19,Creature,Paladin
+20,Spell,Fire
+21,Creature,Snow Warrior Orc
+22,Enchantment,Potent Hateful Strength
+23,Creature,Wolf
+24,Creature,Dark Grand Demon of Illusion
+25,Enchantment,Frigid Invert
+26,Creature,Wolf
+27,Spell,Lightning
+28,Creature,Warlock
+29,Creature,Eagle
+30,Spell,Apocalypse Maelstrom
+31,Spell,Hateful Frenzy
+32,Artifact,Ring
+33,Creature,Eagle
+34,Creature,Earth Assassin Elf of the Haven
+35,Creature,Snow Thief Hydra
+36,Creature,Warlock
+37,Spell,Wall
+38,Spell,Life Rage
+39,Enchantment,Alacrity
+40,Creature,Frozen King Kraken
+41,Creature,Death Monk Oni of the Black Stone
+42,Creature,Light Rogue Griffin
+43,Artifact,Dire Lunar Helm
+44,Creature,Death Monk Giant of the Mountains

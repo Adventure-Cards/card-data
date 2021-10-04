@@ -1,46 +1,46 @@
-==================,DECK,4761,Medium
-0,Enchantment,Common,Strength
-1,Creature,Legendary,Snow Merchant Cyclops of the Eternal Land
-2,Enchantment,Common,Haste
-3,Enchantment,Common,Shade
-4,Creature,Common,Warlock
-5,Spell,Common,Sorrow
-6,Enchantment,Common,Flight
-7,Creature,Rare,Frozen Fighter Berserker
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Flight
-10,Spell,Common,Gale
-11,Enchantment,Common,Flight
-12,Spell,Rare,Nature Gale
-13,Artifact,Common,Ring
-14,Creature,Rare,Dark Thief Skin-Walker
-15,Creature,Common,Paladin
-16,Creature,Rare,Snow Assassin Hydra
-17,Spell,Rare,Necro Stun
-18,Creature,Common,Warlock
-19,Creature,Rare,Death Lord Griffin
-20,Spell,Common,Hypnosis
-21,Creature,Common,Eagle
-22,Creature,Legendary,Light King Kraken of the Polar Woods
-23,Creature,Common,Elf
-24,Creature,Common,Eagle
-25,Spell,Common,Burn
-26,Creature,Legendary,Light King Kraken of the West
-27,Spell,Rare,Lunar Reanimate
-28,Creature,Legendary,Light Assassin Giant of the Low Hills
-29,Creature,Rare,Snow Knight Minotaur
-30,Enchantment,Common,Shrink
-31,Creature,Rare,Light Monk Skin-Walker
-32,Spell,Common,Stun
-33,Creature,Common,Eagle
-34,Enchantment,Common,Alacrity
-35,Creature,Common,Paladin
-36,Enchantment,Common,Haste
-37,Creature,Rare,Snow Fighter Hydra
-38,Enchantment,Legendary,Extreme Drain
-39,Enchantment,Rare,Lunar Flight
-40,Creature,Legendary,Light Lord Orge of the West
-41,Spell,Common,Stricken
-42,Creature,Legendary,Dark Fighter Cyclops of the Bright Mountains
-43,Creature,Common,Orc
-44,Creature,Common,Dwarf
+==================,DECK,4761
+0,Enchantment,Invert
+1,Creature,Snow Merchant Giant of the Eternal Land
+2,Enchantment,Invert
+3,Enchantment,Shrink
+4,Creature,Berserker
+5,Spell,Hypnosis
+6,Enchantment,Alacrity
+7,Creature,Frozen Fighter Goblin
+8,Creature,Magi
+9,Enchantment,Flight
+10,Spell,Fury
+11,Enchantment,Shade
+12,Spell,Corpse Ice
+13,Artifact,Ring
+14,Creature,Dark Thief Orc
+15,Creature,Troll
+16,Creature,Snow Assassin Hydra
+17,Spell,Shimmering Freeze
+18,Creature,Berserker
+19,Creature,Death Lord Griffin
+20,Spell,Maelstrom
+21,Creature,Eagle
+22,Creature,Light King Ogre of the Polar Woods
+23,Creature,Warlock
+24,Creature,Eagle
+25,Spell,Invisibility
+26,Creature,Light King Ogre of the West
+27,Spell,Lunar Sorrow
+28,Creature,Light Assassin Dwarf of the Low Hills
+29,Creature,Snow Knight Cyclops
+30,Enchantment,Haste
+31,Creature,Light Monk Orc
+32,Spell,Fury
+33,Creature,Eagle
+34,Enchantment,Strength
+35,Creature,Troll
+36,Enchantment,Haste
+37,Creature,Snow Fighter Hydra
+38,Enchantment,Clever Dark Shield
+39,Enchantment,Lunar Alacrity
+40,Creature,Light Lord Elf of the West
+41,Spell,Assault
+42,Creature,Dark Fighter Giant of the Bright Mountains
+43,Creature,Spider
+44,Creature,Magi

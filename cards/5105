@@ -1,46 +1,46 @@
-==================,DECK,5105,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Wolf
-2,Spell,Rare,Nimble Freeze
-3,Creature,Common,Goblin
-4,Creature,Common,Elf
-5,Creature,Common,Spider
-6,Creature,Common,Goblin
-7,Enchantment,Common,Age
-8,Spell,Common,Burn
-9,Creature,Common,Paladin
-10,Creature,Rare,Earth Knight Berserker
-11,Creature,Common,Dwarf
-12,Creature,Rare,Earth Lord Minotaur
-13,Spell,Common,Infuriate
-14,Spell,Common,Fury
-15,Creature,Common,Orc
-16,Creature,Common,Ghoul
-17,Creature,Common,Eagle
-18,Enchantment,Legendary,Potent Agony
-19,Creature,Common,Dwarf
-20,Enchantment,Legendary,Mighty Age
-21,Creature,Common,Ghoul
-22,Spell,Common,Revive
-23,Creature,Mythic,Death Undead Phoenix of the Dead
-24,Creature,Rare,Death King Hydra
-25,Spell,Legendary,Instant Gale
-26,Artifact,Common,Ghost Wand
-27,Spell,Rare,Lunar Ice
-28,Creature,Rare,Aura Rogue Griffin
-29,Creature,Mythic,Snow Undead Dragon of Hate
-30,Creature,Common,Spider
-31,Creature,Common,Goblin
-32,Artifact,Common,Ghost Wand
-33,Creature,Common,Elf
-34,Creature,Legendary,Frozen Priest Cyclops of the Golden Palace
-35,Spell,Legendary,Potent Heal
-36,Creature,Common,Paladin
-37,Spell,Rare,Miracle Ice
-38,Enchantment,Common,Shield
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Drain
-41,Creature,Common,Paladin
-42,Spell,Common,Gale
-43,Creature,Rare,Dark Thief Hydra
-44,Creature,Rare,Frozen Assassin Skin-Walker
+==================,DECK,5105
+0,Creature,Fairy
+1,Creature,Wolf
+2,Spell,Hateful Hypnosis
+3,Creature,Skin-Walker
+4,Creature,Warlock
+5,Creature,Paladin
+6,Creature,Skin-Walker
+7,Enchantment,Shade
+8,Spell,Fire
+9,Creature,Troll
+10,Creature,Earth Knight Goblin
+11,Creature,Magi
+12,Creature,Earth Lord Cyclops
+13,Spell,Freeze
+14,Spell,Frost
+15,Creature,Spider
+16,Creature,Ghoul
+17,Creature,Eagle
+18,Enchantment,Ardent Life Haste
+19,Creature,Magi
+20,Enchantment,Mighty Gloom Flight
+21,Creature,Ghoul
+22,Spell,Burst
+23,Creature,Death Undead Phoenix of the Dead
+24,Creature,Death King Hydra
+25,Spell,Empyrean Hateful Freeze
+26,Artifact,Ghost Wand
+27,Spell,Miracle Fireball
+28,Creature,Aura Rogue Griffin
+29,Creature,Snow Undead Dragon of Hate
+30,Creature,Paladin
+31,Creature,Skin-Walker
+32,Artifact,Ghost Wand
+33,Creature,Warlock
+34,Creature,Frozen Priest Giant of the Golden Palace
+35,Spell,Irate Frigid Burn
+36,Creature,Troll
+37,Spell,Oblivion Frenzy
+38,Enchantment,Drain
+39,Creature,Ghoul
+40,Enchantment,Invert
+41,Creature,Troll
+42,Spell,Revive
+43,Creature,Dark Thief Hydra
+44,Creature,Frozen Assassin Orc

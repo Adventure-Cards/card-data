@@ -1,46 +1,46 @@
-==================,DECK,6210,Light
-0,Creature,Common,Elf
-1,Artifact,Common,Shield
-2,Enchantment,Rare,Shimmering Shrink
-3,Spell,Rare,Nimble Torment
-4,Creature,Rare,Snow Queen Skin-Walker
-5,Creature,Common,Magi
-6,Creature,Common,Dwarf
-7,Spell,Common,Frost
-8,Creature,Rare,Aura Knight Skin-Walker
-9,Creature,Common,Ghoul
-10,Spell,Rare,Gloom Vortex
-11,Creature,Legendary,Snow Knight Kraken of the Swamp
-12,Artifact,Common,Potion
-13,Creature,Common,Orc
-14,Enchantment,Common,Drain
-15,Creature,Rare,Death Thief Griffin
-16,Creature,Rare,Aura King Griffin
-17,Creature,Rare,Aura King Minotaur
-18,Creature,Legendary,Light Warrior Cyclops of the Border
-19,Spell,Common,Heal
-20,Creature,Common,Ghoul
-21,Creature,Common,Ghoul
-22,Creature,Rare,Frozen Undead Hydra
-23,Spell,Rare,Corpse Freeze
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Magi
-26,Spell,Common,Revive
-27,Creature,Common,Dwarf
-28,Spell,Rare,Nimble Vortex
-29,Creature,Legendary,Aura Assassin Giant of the Eternal Land
-30,Creature,Mythic,Death Nameless Dragon of the Dead
-31,Creature,Common,Ghoul
-32,Spell,Common,Pandemonium
-33,Creature,Common,Spider
-34,Spell,Rare,Frigid Gravitation
-35,Enchantment,Common,Invert
-36,Creature,Common,Elf
-37,Enchantment,Common,Shade
-38,Creature,Common,Elf
-39,Creature,Common,Dwarf
-40,Creature,Common,Spider
-41,Enchantment,Common,Drain
-42,Artifact,Common,Ghost Wand
-43,Enchantment,Common,Shield
-44,Creature,Common,Wolf
+==================,DECK,6210
+0,Creature,Warlock
+1,Artifact,Shield
+2,Enchantment,Necro Deathgrip
+3,Spell,Corpse Revive
+4,Creature,Snow Queen Orc
+5,Creature,Fairy
+6,Creature,Magi
+7,Spell,Revive
+8,Creature,Aura Knight Orc
+9,Creature,Ghoul
+10,Spell,Sorrow Revive
+11,Creature,Snow Knight Ogre of the Swamp
+12,Artifact,Potion
+13,Creature,Spider
+14,Enchantment,Flight
+15,Creature,Death Thief Griffin
+16,Creature,Aura King Griffin
+17,Creature,Aura King Cyclops
+18,Creature,Light Warrior Giant of the Border
+19,Spell,Frenzy
+20,Creature,Ghoul
+21,Creature,Ghoul
+22,Creature,Frozen Undead Hydra
+23,Spell,Solar Invisibility
+24,Enchantment,Deathgrip
+25,Creature,Fairy
+26,Spell,Wall
+27,Creature,Magi
+28,Spell,Forged Wall
+29,Creature,Aura Assassin Dwarf of the Eternal Land
+30,Creature,Death Nameless Dragon of the Dead
+31,Creature,Ghoul
+32,Spell,Burst
+33,Creature,Paladin
+34,Spell,Victory Revive
+35,Enchantment,Lethargy
+36,Creature,Warlock
+37,Enchantment,Shade
+38,Creature,Warlock
+39,Creature,Magi
+40,Creature,Paladin
+41,Enchantment,Haste
+42,Artifact,Ghost Wand
+43,Enchantment,Flight
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,7937,Light
-0,Spell,Common,Wall
-1,Enchantment,Common,Haste
-2,Creature,Rare,Earth Monk Griffin
-3,Creature,Common,Elf
-4,Spell,Common,Wall
-5,Creature,Rare,Light Merchant Skin-Walker
-6,Artifact,Common,Sigil
-7,Artifact,Rare,Solar Staff
-8,Enchantment,Common,Flight
-9,Creature,Rare,Frozen Rogue Fairy
-10,Enchantment,Common,Flight
-11,Creature,Rare,Dark Undead Minotaur
-12,Creature,Legendary,Death Queen Oni of the Golden Palace
-13,Spell,Legendary,Urgent Sorrow
-14,Creature,Common,Orc
-15,Artifact,Common,Sword
-16,Enchantment,Mythic,Urgent Drain
-17,Spell,Common,Torment
-18,Enchantment,Common,Agony
-19,Creature,Common,Elf
-20,Creature,Common,Dwarf
-21,Creature,Common,Goblin
-22,Creature,Common,Dwarf
-23,Spell,Common,Pandemonium
-24,Creature,Common,Magi
-25,Spell,Legendary,Intense Vortex
-26,Enchantment,Common,Agony
-27,Creature,Legendary,Dark Lord Cyclops of the Bright Mountains
-28,Enchantment,Rare,Hateful Drain
-29,Spell,Rare,Oblivion Revive
-30,Creature,Common,Wolf
-31,Creature,Mythic,Snow Time Phoenix of Hate
-32,Enchantment,Common,Haste
-33,Creature,Common,Orc
-34,Artifact,Legendary,Extreme Greaves
-35,Enchantment,Common,Haste
-36,Enchantment,Mythic,Mighty Deathgrip
-37,Creature,Common,Dwarf
-38,Creature,Rare,Aura Warrior Hydra
-39,Creature,Common,Magi
-40,Creature,Common,Elf
-41,Enchantment,Mythic,Instant Strength
-42,Creature,Legendary,Light Warrior Kraken of the Polar Woods
-43,Creature,Rare,Frozen Fighter Hydra
-44,Spell,Common,Stun
+==================,DECK,7937
+0,Spell,Burst
+1,Enchantment,Flight
+2,Creature,Earth Monk Griffin
+3,Creature,Warlock
+4,Spell,Gale
+5,Creature,Light Merchant Orc
+6,Artifact,Sigil
+7,Artifact,Forged Staff
+8,Enchantment,Haste
+9,Creature,Frozen Rogue Kraken
+10,Enchantment,Alacrity
+11,Creature,Dark Undead Cyclops
+12,Creature,Death Queen Oni of the Golden Palace
+13,Spell,Empyrean Hateful Heal
+14,Creature,Spider
+15,Artifact,Sword
+16,Enchantment,Zealous Forged Deathgrip
+17,Spell,Hypnosis
+18,Enchantment,Invert
+19,Creature,Warlock
+20,Creature,Magi
+21,Creature,Skin-Walker
+22,Creature,Magi
+23,Spell,Stun
+24,Creature,Fairy
+25,Spell,Ardent Corpse Ice
+26,Enchantment,Shrink
+27,Creature,Dark Lord Giant of the Bright Mountains
+28,Enchantment,Dark Alacrity
+29,Spell,Frigid Gale
+30,Creature,Wolf
+31,Creature,Snow Time Phoenix of Hate
+32,Enchantment,Firebreath
+33,Creature,Spider
+34,Artifact,Urgent Gloom Greaves
+35,Enchantment,Deathgrip
+36,Enchantment,Mighty Sorrow Flight
+37,Creature,Magi
+38,Creature,Aura Warrior Hydra
+39,Creature,Fairy
+40,Creature,Warlock
+41,Enchantment,Irate Solar Deathgrip
+42,Creature,Light Warrior Ogre of the Polar Woods
+43,Creature,Frozen Fighter Hydra
+44,Spell,Sorrow

@@ -1,46 +1,46 @@
-==================,DECK,4645,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Paladin
-2,Creature,Rare,Aura Fighter Hydra
-3,Creature,Rare,Earth Merchant Skin-Walker
-4,Creature,Common,Magi
-5,Artifact,Rare,Cataclysmic Ghost Wand
-6,Creature,Rare,Dark Thief Berserker
-7,Enchantment,Common,Blight
-8,Creature,Common,Dwarf
-9,Artifact,Common,Gloves
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Orc
-12,Enchantment,Common,Age
-13,Artifact,Common,Scepter
-14,Enchantment,Common,Alacrity
-15,Creature,Common,Magi
-16,Enchantment,Rare,Necro Deathgrip
-17,Creature,Common,Dwarf
-18,Creature,Common,Elf
-19,Creature,Rare,Frozen Priest Griffin
-20,Enchantment,Common,Flight
-21,Spell,Common,Torment
-22,Creature,Common,Elf
-23,Creature,Common,Spider
-24,Creature,Common,Spider
-25,Creature,Legendary,Snow Merchant Cyclops of the Arctic Blizzards
-26,Spell,Common,Infuriate
-27,Spell,Legendary,Mighty Sorrow
-28,Enchantment,Common,Shrink
-29,Spell,Common,Frenzy
-30,Enchantment,Common,Age
-31,Enchantment,Common,Shrink
-32,Creature,Rare,Light Rogue Hydra
-33,Creature,Rare,Aura Queen Berserker
-34,Artifact,Common,Bow
-35,Creature,Common,Spider
-36,Spell,Common,Lightning
-37,Spell,Common,Assault
-38,Creature,Rare,Death Warrior Berserker
-39,Creature,Common,Wolf
-40,Enchantment,Rare,Life Drain
-41,Creature,Legendary,Aura Rogue Cyclops of the Border
-42,Enchantment,Legendary,Extreme Strength
-43,Creature,Rare,Frozen King Berserker
-44,Artifact,Common,Ring
+==================,DECK,4645
+0,Creature,Magi
+1,Creature,Troll
+2,Creature,Aura Fighter Hydra
+3,Creature,Earth Merchant Orc
+4,Creature,Fairy
+5,Artifact,Gloom Ghost Wand
+6,Creature,Dark Thief Goblin
+7,Enchantment,Flight
+8,Creature,Magi
+9,Artifact,Gloves
+10,Enchantment,Shrink
+11,Creature,Spider
+12,Enchantment,Invert
+13,Artifact,Scepter
+14,Enchantment,Drain
+15,Creature,Fairy
+16,Enchantment,Shimmering Strength
+17,Creature,Magi
+18,Creature,Warlock
+19,Creature,Frozen Priest Griffin
+20,Enchantment,Shrink
+21,Spell,Ice
+22,Creature,Warlock
+23,Creature,Paladin
+24,Creature,Paladin
+25,Creature,Snow Merchant Giant of the Arctic Blizzards
+26,Spell,Gale
+27,Spell,Mighty Gloom Frenzy
+28,Enchantment,Firebreath
+29,Spell,Vortex
+30,Enchantment,Alacrity
+31,Enchantment,Blight
+32,Creature,Light Rogue Hydra
+33,Creature,Aura Queen Goblin
+34,Artifact,Bow
+35,Creature,Paladin
+36,Spell,Hypnosis
+37,Spell,Assault
+38,Creature,Death Warrior Goblin
+39,Creature,Wolf
+40,Enchantment,Apocalypse Haste
+41,Creature,Aura Rogue Giant of the Border
+42,Enchantment,Ardent Cataclysmic Shield
+43,Creature,Frozen King Goblin
+44,Artifact,Ring

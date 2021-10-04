@@ -1,46 +1,46 @@
-==================,DECK,5766,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Hypnosis
-2,Creature,Common,Warlock
-3,Creature,Common,Wolf
-4,Artifact,Common,Bracers
-5,Creature,Mythic,Death Grand Wizard of the Dead
-6,Creature,Common,Elf
-7,Creature,Rare,Earth King Skin-Walker
-8,Artifact,Common,Ring
-9,Enchantment,Rare,Lunar Shrink
-10,Spell,Common,Heal
-11,Creature,Common,Paladin
-12,Spell,Common,Gravitation
-13,Artifact,Common,Cloak
-14,Creature,Legendary,Death Rogue Oni of the Haven
-15,Creature,Common,Magi
-16,Creature,Common,Wolf
-17,Creature,Rare,Light Priest Griffin
-18,Creature,Mythic,Snow Chaos Demon of Hate
-19,Artifact,Legendary,Angry Staff
-20,Creature,Common,Warlock
-21,Creature,Common,Paladin
-22,Creature,Common,Goblin
-23,Enchantment,Common,Blight
-24,Creature,Common,Elf
-25,Creature,Common,Paladin
-26,Creature,Common,Magi
-27,Creature,Mythic,Light Nameless Phoenix of the Sky
-28,Enchantment,Common,Age
-29,Spell,Common,Pandemonium
-30,Spell,Rare,Corpse Frost
-31,Spell,Rare,Corpse Wall
-32,Enchantment,Common,Invert
-33,Spell,Rare,Shimmering Ice
-34,Creature,Common,Warlock
-35,Artifact,Rare,Nimble Bow
-36,Creature,Common,Elf
-37,Creature,Common,Eagle
-38,Creature,Common,Eagle
-39,Spell,Common,Frenzy
-40,Creature,Common,Orc
-41,Spell,Common,Lightning
-42,Creature,Common,Eagle
-43,Artifact,Legendary,Intense Pendant
-44,Artifact,Legendary,Dire Tome
+==================,DECK,5766
+0,Creature,Ghoul
+1,Spell,Burn
+2,Creature,Berserker
+3,Creature,Wolf
+4,Artifact,Bracers
+5,Creature,Death Grand Wizard of the Dead
+6,Creature,Warlock
+7,Creature,Earth King Orc
+8,Artifact,Ring
+9,Enchantment,Chimeric Alacrity
+10,Spell,Revive
+11,Creature,Troll
+12,Spell,Freeze
+13,Artifact,Cloak
+14,Creature,Death Rogue Oni of the Haven
+15,Creature,Fairy
+16,Creature,Wolf
+17,Creature,Light Priest Griffin
+18,Creature,Snow Chaos Demon of Hate
+19,Artifact,Irate Miracle Staff
+20,Creature,Berserker
+21,Creature,Troll
+22,Creature,Skin-Walker
+23,Enchantment,Deathgrip
+24,Creature,Warlock
+25,Creature,Troll
+26,Creature,Fairy
+27,Creature,Light Nameless Phoenix of the Sky
+28,Enchantment,Deathgrip
+29,Spell,Freeze
+30,Spell,Corpse Gravitation
+31,Spell,Corpse Fire
+32,Enchantment,Shrink
+33,Spell,Corpse Infuriate
+34,Creature,Berserker
+35,Artifact,Hateful Bow
+36,Creature,Warlock
+37,Creature,Eagle
+38,Creature,Eagle
+39,Spell,Heal
+40,Creature,Spider
+41,Spell,Burn
+42,Creature,Eagle
+43,Artifact,Irate Hateful Pendant
+44,Artifact,Dire Frigid Tome

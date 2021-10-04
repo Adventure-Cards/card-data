@@ -1,46 +1,46 @@
-==================,DECK,5378,Light
-0,Spell,Common,Freeze
-1,Creature,Common,Goblin
-2,Spell,Common,Vortex
-3,Spell,Common,Fury
-4,Creature,Common,Spider
-5,Spell,Common,Frost
-6,Enchantment,Common,Blight
-7,Enchantment,Mythic,Angry Flight
-8,Creature,Legendary,Snow Knight Kraken of the Black Stone
-9,Creature,Common,Orc
-10,Creature,Common,Paladin
-11,Enchantment,Common,Shield
-12,Spell,Common,Revive
-13,Spell,Common,Stun
-14,Enchantment,Rare,Gloom Alacrity
-15,Spell,Rare,Dark Frenzy
-16,Enchantment,Common,Invert
-17,Artifact,Common,Shield
-18,Enchantment,Common,Blight
-19,Spell,Common,Invisibility
-20,Creature,Common,Spider
-21,Creature,Common,Dwarf
-22,Spell,Common,Sorrow
-23,Spell,Common,Pandemonium
-24,Artifact,Common,Staff
-25,Artifact,Common,Pendant
-26,Creature,Rare,Death Queen Fairy
-27,Creature,Legendary,Death Merchant Orge of the Haven
-28,Spell,Common,Sorrow
-29,Spell,Common,Assault
-30,Creature,Rare,Snow Merchant Griffin
-31,Creature,Common,Goblin
-32,Enchantment,Common,Strength
-33,Enchantment,Rare,Frigid Shade
-34,Spell,Common,Wall
-35,Creature,Rare,Death Undead Berserker
-36,Creature,Common,Elf
-37,Enchantment,Common,Blight
-38,Creature,Common,Magi
-39,Enchantment,Common,Strength
-40,Artifact,Rare,Life Helm
-41,Spell,Rare,Apocalypse Ice
-42,Creature,Common,Eagle
-43,Spell,Rare,Necro Pandemonium
-44,Enchantment,Common,Strength
+==================,DECK,5378
+0,Spell,Burst
+1,Creature,Skin-Walker
+2,Spell,Fireball
+3,Spell,Torment
+4,Creature,Paladin
+5,Spell,Frenzy
+6,Enchantment,Shield
+7,Enchantment,Potent Lunar Shrink
+8,Creature,Snow Knight Ogre of the Black Stone
+9,Creature,Spider
+10,Creature,Troll
+11,Enchantment,Strength
+12,Spell,Gravitation
+13,Spell,Freeze
+14,Enchantment,Dark Shield
+15,Spell,Gloom Invisibility
+16,Enchantment,Flight
+17,Artifact,Shield
+18,Enchantment,Invert
+19,Spell,Maelstrom
+20,Creature,Paladin
+21,Creature,Magi
+22,Spell,Rage
+23,Spell,Stricken
+24,Artifact,Staff
+25,Artifact,Pendant
+26,Creature,Death Queen Kraken
+27,Creature,Death Merchant Elf of the Haven
+28,Spell,Fury
+29,Spell,Fury
+30,Creature,Snow Merchant Griffin
+31,Creature,Skin-Walker
+32,Enchantment,Lethargy
+33,Enchantment,Frigid Shade
+34,Spell,Vortex
+35,Creature,Death Undead Goblin
+36,Creature,Warlock
+37,Enchantment,Flight
+38,Creature,Fairy
+39,Enchantment,Firebreath
+40,Artifact,Oblivion Helm
+41,Spell,Victory Rage
+42,Creature,Eagle
+43,Spell,Solar Gravitation
+44,Enchantment,Shrink

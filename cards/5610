@@ -1,46 +1,46 @@
-==================,DECK,5610,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Burst
-2,Creature,Common,Dwarf
-3,Artifact,Common,Belt
-4,Enchantment,Common,Flight
-5,Spell,Rare,Dark Invisibility
-6,Enchantment,Legendary,Mighty Alacrity
-7,Artifact,Common,Cloak
-8,Creature,Rare,Aura Queen Hydra
-9,Creature,Common,Magi
-10,Creature,Common,Orc
-11,Enchantment,Common,Alacrity
-12,Enchantment,Common,Invert
-13,Spell,Common,Burn
-14,Enchantment,Common,Alacrity
-15,Creature,Rare,Death Lord Minotaur
-16,Enchantment,Mythic,Angry Shade
-17,Spell,Rare,Solar Heal
-18,Enchantment,Common,Haste
-19,Spell,Common,Ice
-20,Creature,Common,Spider
-21,Enchantment,Common,Shrink
-22,Creature,Common,Magi
-23,Creature,Common,Warlock
-24,Enchantment,Common,Deathgrip
-25,Creature,Rare,Earth Rogue Berserker
-26,Spell,Legendary,Potent Rage
-27,Artifact,Common,Crown
-28,Creature,Common,Wolf
-29,Spell,Rare,Life Stricken
-30,Spell,Common,Lightning
-31,Creature,Common,Warlock
-32,Spell,Common,Fury
-33,Spell,Common,Heal
-34,Spell,Common,Frenzy
-35,Creature,Rare,Frozen Undead Hydra
-36,Creature,Common,Warlock
-37,Artifact,Common,Scepter
-38,Creature,Rare,Light Merchant Griffin
-39,Creature,Rare,Death Monk Fairy
-40,Spell,Rare,Dark Revive
-41,Artifact,Legendary,Mighty Crown
-42,Enchantment,Rare,Hateful Shrink
-43,Creature,Common,Magi
-44,Creature,Common,Elf
+==================,DECK,5610
+0,Creature,Berserker
+1,Spell,Burn
+2,Creature,Magi
+3,Artifact,Belt
+4,Enchantment,Firebreath
+5,Spell,Gloom Gravitation
+6,Enchantment,Instant Dark Shrink
+7,Artifact,Cloak
+8,Creature,Aura Queen Hydra
+9,Creature,Fairy
+10,Creature,Spider
+11,Enchantment,Blight
+12,Enchantment,Invert
+13,Spell,Frenzy
+14,Enchantment,Shrink
+15,Creature,Death Lord Cyclops
+16,Enchantment,Ardent Chimeric Shield
+17,Spell,Corpse Gravitation
+18,Enchantment,Deathgrip
+19,Spell,Maelstrom
+20,Creature,Paladin
+21,Enchantment,Drain
+22,Creature,Fairy
+23,Creature,Berserker
+24,Enchantment,Shade
+25,Creature,Earth Rogue Goblin
+26,Spell,Irate Nimble Sorrow
+27,Artifact,Crown
+28,Creature,Wolf
+29,Spell,Victory Fury
+30,Spell,Stricken
+31,Creature,Berserker
+32,Spell,Heal
+33,Spell,Rage
+34,Spell,Vortex
+35,Creature,Frozen Undead Hydra
+36,Creature,Berserker
+37,Artifact,Scepter
+38,Creature,Light Merchant Griffin
+39,Creature,Death Monk Kraken
+40,Spell,Miracle Maelstrom
+41,Artifact,Zealous Lunar Crown
+42,Enchantment,Chimeric Flight
+43,Creature,Fairy
+44,Creature,Warlock

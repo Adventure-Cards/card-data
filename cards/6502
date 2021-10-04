@@ -1,46 +1,46 @@
-==================,DECK,6502,Medium
-0,Creature,Legendary,Dark Thief Cyclops of the Arctic Blizzards
-1,Spell,Common,Torment
-2,Enchantment,Common,Alacrity
-3,Creature,Common,Goblin
-4,Creature,Legendary,Light Queen Cyclops of the Golden Palace
-5,Creature,Common,Orc
-6,Creature,Common,Ghoul
-7,Creature,Common,Eagle
-8,Enchantment,Mythic,Urgent Flight
-9,Creature,Common,Paladin
-10,Creature,Legendary,Aura Queen Kraken of the Swamp
-11,Creature,Rare,Snow Undead Fairy
-12,Spell,Legendary,Urgent Sorrow
-13,Creature,Legendary,Frozen Thief Orge of the Border
-14,Enchantment,Common,Strength
-15,Spell,Common,Vortex
-16,Spell,Common,Wall
-17,Creature,Common,Eagle
-18,Creature,Common,Orc
-19,Artifact,Common,Helm
-20,Creature,Common,Dwarf
-21,Creature,Common,Magi
-22,Artifact,Rare,Hateful Amulet
-23,Enchantment,Common,Shade
-24,Enchantment,Common,Haste
-25,Spell,Common,Maelstrom
-26,Spell,Common,Assault
-27,Artifact,Common,Ring
-28,Enchantment,Rare,Dark Invert
-29,Artifact,Rare,Grim Sigil
-30,Spell,Common,Invisibility
-31,Enchantment,Common,Invert
-32,Creature,Common,Eagle
-33,Spell,Common,Torment
-34,Enchantment,Legendary,Mighty Invert
-35,Creature,Rare,Earth Undead Fairy
-36,Creature,Common,Orc
-37,Spell,Rare,Cataclysmic Burn
-38,Spell,Rare,Necro Burst
-39,Creature,Common,Eagle
-40,Enchantment,Common,Shrink
-41,Artifact,Legendary,Mighty Gauntlet
-42,Creature,Common,Warlock
-43,Creature,Common,Eagle
-44,Artifact,Common,Ghost Wand
+==================,DECK,6502
+0,Creature,Dark Thief Giant of the Arctic Blizzards
+1,Spell,Rage
+2,Enchantment,Alacrity
+3,Creature,Skin-Walker
+4,Creature,Light Queen Giant of the Golden Palace
+5,Creature,Spider
+6,Creature,Ghoul
+7,Creature,Eagle
+8,Enchantment,Mighty Hateful Agony
+9,Creature,Troll
+10,Creature,Aura Queen Ogre of the Swamp
+11,Creature,Snow Undead Kraken
+12,Spell,Zealous Shimmering Burn
+13,Creature,Frozen Thief Elf of the Border
+14,Enchantment,Strength
+15,Spell,Hypnosis
+16,Spell,Assault
+17,Creature,Eagle
+18,Creature,Spider
+19,Artifact,Helm
+20,Creature,Magi
+21,Creature,Fairy
+22,Artifact,Miracle Amulet
+23,Enchantment,Shade
+24,Enchantment,Flight
+25,Spell,Torment
+26,Spell,Stricken
+27,Artifact,Ring
+28,Enchantment,Sorrow Firebreath
+29,Artifact,Frigid Sigil
+30,Spell,Sorrow
+31,Enchantment,Invert
+32,Creature,Eagle
+33,Spell,Heal
+34,Enchantment,Ardent Sorrow Shield
+35,Creature,Earth Undead Kraken
+36,Creature,Spider
+37,Spell,Dark Reanimate
+38,Spell,Hateful Assault
+39,Creature,Eagle
+40,Enchantment,Deathgrip
+41,Artifact,Ardent Miracle Gauntlet
+42,Creature,Berserker
+43,Creature,Eagle
+44,Artifact,Ghost Wand

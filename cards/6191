@@ -1,46 +1,46 @@
-==================,DECK,6191,Light
-0,Spell,Legendary,Extreme Stun
-1,Enchantment,Common,Drain
-2,Enchantment,Common,Strength
-3,Artifact,Legendary,Mighty Scepter
-4,Creature,Common,Orc
-5,Creature,Common,Spider
-6,Creature,Common,Wolf
-7,Creature,Legendary,Frozen Monk Giant of the Bright Mountains
-8,Creature,Common,Paladin
-9,Enchantment,Common,Blight
-10,Creature,Common,Dwarf
-11,Spell,Common,Invisibility
-12,Artifact,Common,Gauntlet
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Paladin
-15,Enchantment,Common,Shield
-16,Artifact,Common,Cloak
-17,Creature,Rare,Earth Fighter Fairy
-18,Creature,Common,Elf
-19,Enchantment,Common,Drain
-20,Spell,Rare,Frigid Invisibility
-21,Creature,Common,Spider
-22,Creature,Rare,Light Priest Griffin
-23,Creature,Common,Orc
-24,Creature,Common,Eagle
-25,Creature,Common,Paladin
-26,Creature,Common,Orc
-27,Enchantment,Rare,Nature Haste
-28,Enchantment,Common,Drain
-29,Creature,Common,Spider
-30,Enchantment,Legendary,Dire Agony
-31,Artifact,Common,Gloves
-32,Creature,Mythic,Light Undead Phoenix of the Sky
-33,Artifact,Common,Tome
-34,Spell,Common,Freeze
-35,Creature,Common,Spider
-36,Enchantment,Common,Flight
-37,Spell,Rare,Frigid Heal
-38,Enchantment,Legendary,Urgent Strength
-39,Enchantment,Legendary,Angry Age
-40,Spell,Rare,Nimble Frost
-41,Creature,Common,Elf
-42,Spell,Common,Revive
-43,Creature,Rare,Snow Merchant Minotaur
-44,Enchantment,Common,Age
+==================,DECK,6191
+0,Spell,Clever Lunar Reanimate
+1,Enchantment,Shade
+2,Enchantment,Drain
+3,Artifact,Potent Lunar Scepter
+4,Creature,Spider
+5,Creature,Paladin
+6,Creature,Wolf
+7,Creature,Frozen Monk Dwarf of the Bright Mountains
+8,Creature,Troll
+9,Enchantment,Drain
+10,Creature,Magi
+11,Spell,Hypnosis
+12,Artifact,Gauntlet
+13,Enchantment,Shrink
+14,Creature,Troll
+15,Enchantment,Flight
+16,Artifact,Cloak
+17,Creature,Earth Fighter Kraken
+18,Creature,Warlock
+19,Enchantment,Haste
+20,Spell,Life Sorrow
+21,Creature,Paladin
+22,Creature,Light Priest Griffin
+23,Creature,Spider
+24,Creature,Eagle
+25,Creature,Troll
+26,Creature,Spider
+27,Enchantment,Corpse Deathgrip
+28,Enchantment,Agony
+29,Creature,Paladin
+30,Enchantment,Instant Life Drain
+31,Artifact,Gloves
+32,Creature,Light Undead Phoenix of the Sky
+33,Artifact,Tome
+34,Spell,Pandemonium
+35,Creature,Paladin
+36,Enchantment,Invert
+37,Spell,Nimble Ice
+38,Enchantment,Urgent Solar Agony
+39,Enchantment,Mighty Gloom Flight
+40,Spell,Nature Pandemonium
+41,Creature,Warlock
+42,Spell,Heal
+43,Creature,Snow Merchant Cyclops
+44,Enchantment,Deathgrip

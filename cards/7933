@@ -1,46 +1,46 @@
-==================,DECK,7933,Medium
-0,Creature,Common,Warlock
-1,Spell,Rare,Oblivion Torment
-2,Creature,Common,Wolf
-3,Enchantment,Legendary,Instant Age
-4,Enchantment,Common,Age
-5,Creature,Common,Warlock
-6,Creature,Common,Eagle
-7,Spell,Common,Pandemonium
-8,Enchantment,Common,Drain
-9,Spell,Common,Freeze
-10,Creature,Common,Wolf
-11,Enchantment,Common,Shrink
-12,Spell,Common,Sorrow
-13,Spell,Common,Maelstrom
-14,Creature,Common,Warlock
-15,Creature,Mythic,Dark Ancient Demon of Illusion
-16,Creature,Rare,Aura Assassin Griffin
-17,Creature,Common,Paladin
-18,Creature,Rare,Aura Queen Berserker
-19,Artifact,Common,Staff
-20,Spell,Common,Rage
-21,Artifact,Common,Bow
-22,Enchantment,Mythic,Dire Invert
-23,Enchantment,Common,Drain
-24,Artifact,Common,Sigil
-25,Spell,Legendary,Intense Wall
-26,Creature,Rare,Death Knight Griffin
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Eagle
-29,Enchantment,Common,Shade
-30,Spell,Common,Gale
-31,Creature,Rare,Aura Warrior Griffin
-32,Enchantment,Common,Drain
-33,Spell,Common,Rage
-34,Enchantment,Rare,Solar Shade
-35,Artifact,Rare,Gloom Tome
-36,Creature,Common,Warlock
-37,Enchantment,Common,Invert
-38,Artifact,Common,Shield
-39,Creature,Mythic,Aura Chaos Wizard of the Light
-40,Enchantment,Common,Strength
-41,Enchantment,Common,Shield
-42,Creature,Mythic,Frozen Undead Phoenix of the Void
-43,Spell,Legendary,Mighty Stun
-44,Creature,Common,Paladin
+==================,DECK,7933
+0,Creature,Berserker
+1,Spell,Nimble Torment
+2,Creature,Wolf
+3,Enchantment,Clever Nature Lethargy
+4,Enchantment,Drain
+5,Creature,Berserker
+6,Creature,Eagle
+7,Spell,Torment
+8,Enchantment,Flight
+9,Spell,Gravitation
+10,Creature,Wolf
+11,Enchantment,Lethargy
+12,Spell,Stun
+13,Spell,Wall
+14,Creature,Berserker
+15,Creature,Dark Ancient Demon of Illusion
+16,Creature,Aura Assassin Griffin
+17,Creature,Troll
+18,Creature,Aura Queen Goblin
+19,Artifact,Staff
+20,Spell,Maelstrom
+21,Artifact,Bow
+22,Enchantment,Urgent Oblivion Invert
+23,Enchantment,Shade
+24,Artifact,Sigil
+25,Spell,Instant Forged Frost
+26,Creature,Death Knight Griffin
+27,Enchantment,Shrink
+28,Creature,Eagle
+29,Enchantment,Haste
+30,Spell,Frenzy
+31,Creature,Aura Warrior Griffin
+32,Enchantment,Flight
+33,Spell,Frost
+34,Enchantment,Necro Strength
+35,Artifact,Chimeric Tome
+36,Creature,Berserker
+37,Enchantment,Firebreath
+38,Artifact,Shield
+39,Creature,Aura Chaos Wizard of the Light
+40,Enchantment,Firebreath
+41,Enchantment,Age
+42,Creature,Frozen Undead Phoenix of the Void
+43,Spell,Clever Lunar Maelstrom
+44,Creature,Troll

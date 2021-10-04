@@ -1,48 +1,4 @@
-0,Creature,Light Undead Orc
-1,Creature,Light Monk Kraken
-2,Spell,Instant Dark Torment
-3,Creature,Magi
-4,Creature,Warlock
-5,Creature,Wolf
-6,Creature,Eagle
-7,Artifact,Crown
-8,Creature,Troll
-9,Creature,Ghoul
-10,Creature,Aura Thief Cyclops
-11,Creature,Death Fighter Elf of the Swamp
-12,Creature,Light Queen Dwarf of the Plains
-13,Creature,Spider
-14,Creature,Warlock
-15,Spell,Burst
-16,Creature,Paladin
-17,Creature,Troll
-18,Creature,Fairy
-19,Creature,Magi
-20,Spell,Clever Necro Ice
-21,Creature,Wolf
-22,Creature,Skin-Walker
-23,Enchantment,Age
-24,Artifact,Boots
-25,Enchantment,Lethargy
-26,Enchantment,Agony
-27,Creature,Eagle
-28,Spell,Burn
-29,Enchantment,Agony
-30,Creature,Wolf
-31,Creature,Paladin
-32,Creature,Death Lord Ogre of the West
-33,Creature,Berserker
-34,Spell,Pandemonium
-35,Spell,Stricken
-36,Enchantment,Age
-37,Creature,Dark Undead Dragon of Illusion
-38,Spell,Burst
-39,Creature,Spider
-40,Enchantment,Frigid Shade
-41,Artifact,Ring
-42,Artifact,Boots
-43,Spell,Lunar Tempest
-44,Creature,Magi
+==================,DECK,2000
 0,Creature,Light Undead Orc
 1,Creature,Light Monk Kraken
 2,Spell,Instant Dark Torment

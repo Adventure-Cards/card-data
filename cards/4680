@@ -1,46 +1,46 @@
-==================,DECK,4680,Light
-0,Creature,Mythic,Frozen Nameless Phoenix of the Void
-1,Creature,Rare,Death Rogue Hydra
-2,Artifact,Common,Scepter
-3,Enchantment,Common,Deathgrip
-4,Artifact,Common,Helm
-5,Spell,Common,Infuriate
-6,Creature,Rare,Aura Rogue Berserker
-7,Creature,Common,Ghoul
-8,Enchantment,Rare,Gloom Shade
-9,Creature,Common,Magi
-10,Creature,Rare,Light Thief Minotaur
-11,Spell,Common,Pandemonium
-12,Creature,Rare,Aura Merchant Minotaur
-13,Creature,Rare,Light Queen Griffin
-14,Artifact,Common,Ring
-15,Spell,Rare,Hateful Maelstrom
-16,Creature,Common,Warlock
-17,Creature,Legendary,Earth King Cyclops of the Black Stone
-18,Enchantment,Common,Deathgrip
-19,Spell,Common,Burn
-20,Spell,Common,Burn
-21,Enchantment,Common,Shield
-22,Creature,Common,Dwarf
-23,Spell,Common,Pandemonium
-24,Creature,Common,Orc
-25,Creature,Common,Eagle
-26,Enchantment,Mythic,Angry Strength
-27,Spell,Common,Invisibility
-28,Creature,Common,Orc
-29,Spell,Legendary,Instant Fury
-30,Creature,Common,Dwarf
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Common,Lethargy
-33,Creature,Rare,Frozen Warrior Fairy
-34,Creature,Common,Spider
-35,Spell,Rare,Cataclysmic Infuriate
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Enchantment,Mythic,Instant Shrink
-39,Creature,Legendary,Snow Monk Kraken of the Plains
-40,Enchantment,Common,Drain
-41,Creature,Common,Magi
-42,Creature,Common,Eagle
-43,Creature,Legendary,Frozen Monk Giant of the West
-44,Creature,Rare,Earth Assassin Berserker
+==================,DECK,4680
+0,Creature,Frozen Nameless Phoenix of the Void
+1,Creature,Death Rogue Hydra
+2,Artifact,Scepter
+3,Enchantment,Strength
+4,Artifact,Helm
+5,Spell,Wall
+6,Creature,Aura Rogue Goblin
+7,Creature,Ghoul
+8,Enchantment,Chimeric Shield
+9,Creature,Fairy
+10,Creature,Light Thief Cyclops
+11,Spell,Reanimate
+12,Creature,Aura Merchant Cyclops
+13,Creature,Light Queen Griffin
+14,Artifact,Ring
+15,Spell,Lunar Stun
+16,Creature,Berserker
+17,Creature,Earth King Giant of the Black Stone
+18,Enchantment,Firebreath
+19,Spell,Freeze
+20,Spell,Heal
+21,Enchantment,Drain
+22,Creature,Magi
+23,Spell,Ice
+24,Creature,Spider
+25,Creature,Eagle
+26,Enchantment,Ardent Cataclysmic Shield
+27,Spell,Sorrow
+28,Creature,Spider
+29,Spell,Mighty Nature Reanimate
+30,Creature,Magi
+31,Enchantment,Flight
+32,Enchantment,Invert
+33,Creature,Frozen Warrior Kraken
+34,Creature,Paladin
+35,Spell,Gloom Frost
+36,Creature,Wolf
+37,Creature,Berserker
+38,Enchantment,Potent Necro Strength
+39,Creature,Snow Monk Ogre of the Plains
+40,Enchantment,Shield
+41,Creature,Fairy
+42,Creature,Eagle
+43,Creature,Frozen Monk Dwarf of the West
+44,Creature,Earth Assassin Goblin

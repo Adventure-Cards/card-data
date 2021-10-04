@@ -1,46 +1,46 @@
-==================,DECK,7027,Light
-0,Artifact,Common,Belt
-1,Creature,Legendary,Dark Undead Oni of the Border
-2,Creature,Rare,Aura Merchant Berserker
-3,Creature,Common,Wolf
-4,Enchantment,Common,Drain
-5,Spell,Common,Sorrow
-6,Enchantment,Common,Drain
-7,Spell,Rare,Grim Rage
-8,Artifact,Rare,Apocalypse Divine Robe
-9,Creature,Common,Dwarf
-10,Creature,Common,Paladin
-11,Spell,Common,Lightning
-12,Creature,Common,Magi
-13,Spell,Common,Rage
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Paladin
-16,Creature,Common,Ghoul
-17,Spell,Common,Stricken
-18,Creature,Legendary,Death Assassin Cyclops of the Plains
-19,Spell,Legendary,Angry Frost
-20,Creature,Common,Paladin
-21,Artifact,Common,Divine Robe
-22,Enchantment,Common,Flight
-23,Artifact,Common,Helm
-24,Creature,Common,Ghoul
-25,Creature,Mythic,Aura Undead Dragon of the Light
-26,Spell,Common,Gale
-27,Enchantment,Common,Age
-28,Creature,Common,Orc
-29,Enchantment,Common,Haste
-30,Creature,Common,Ghoul
-31,Spell,Common,Frost
-32,Creature,Rare,Frozen Queen Skin-Walker
-33,Enchantment,Common,Blight
-34,Spell,Rare,Cataclysmic Gale
-35,Creature,Common,Ghoul
-36,Spell,Common,Sorrow
-37,Enchantment,Legendary,Potent Invert
-38,Creature,Common,Magi
-39,Enchantment,Common,Shade
-40,Creature,Common,Paladin
-41,Spell,Common,Sorrow
-42,Creature,Common,Wolf
-43,Creature,Common,Magi
-44,Creature,Common,Dwarf
+==================,DECK,7027
+0,Artifact,Belt
+1,Creature,Dark Undead Oni of the Border
+2,Creature,Aura Merchant Goblin
+3,Creature,Wolf
+4,Enchantment,Shrink
+5,Spell,Revive
+6,Enchantment,Agony
+7,Spell,Victory Fire
+8,Artifact,Victory Divine Robe
+9,Creature,Magi
+10,Creature,Troll
+11,Spell,Maelstrom
+12,Creature,Fairy
+13,Spell,Maelstrom
+14,Enchantment,Shade
+15,Creature,Troll
+16,Creature,Ghoul
+17,Spell,Stricken
+18,Creature,Death Assassin Giant of the Plains
+19,Spell,Urgent Dark Heal
+20,Creature,Troll
+21,Artifact,Divine Robe
+22,Enchantment,Firebreath
+23,Artifact,Helm
+24,Creature,Ghoul
+25,Creature,Aura Undead Dragon of the Light
+26,Spell,Gale
+27,Enchantment,Flight
+28,Creature,Spider
+29,Enchantment,Invert
+30,Creature,Ghoul
+31,Spell,Fireball
+32,Creature,Frozen Queen Orc
+33,Enchantment,Strength
+34,Spell,Miracle Assault
+35,Creature,Ghoul
+36,Spell,Gravitation
+37,Enchantment,Irate Oblivion Blight
+38,Creature,Fairy
+39,Enchantment,Drain
+40,Creature,Troll
+41,Spell,Reanimate
+42,Creature,Wolf
+43,Creature,Fairy
+44,Creature,Magi

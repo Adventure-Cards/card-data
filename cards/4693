@@ -1,46 +1,46 @@
-==================,DECK,4693,Medium
-0,Creature,Common,Wolf
-1,Creature,Common,Paladin
-2,Spell,Common,Lightning
-3,Spell,Common,Fury
-4,Creature,Common,Goblin
-5,Creature,Rare,Dark Merchant Minotaur
-6,Enchantment,Legendary,Urgent Haste
-7,Spell,Common,Freeze
-8,Spell,Rare,Shimmering Stun
-9,Spell,Rare,Oblivion Gravitation
-10,Enchantment,Common,Age
-11,Creature,Rare,Aura Merchant Fairy
-12,Enchantment,Common,Shield
-13,Spell,Rare,Apocalypse Gale
-14,Creature,Legendary,Light Lord Cyclops of the Low Hills
-15,Spell,Common,Frenzy
-16,Creature,Rare,Earth Queen Berserker
-17,Spell,Rare,Gloom Freeze
-18,Enchantment,Common,Strength
-19,Enchantment,Common,Flight
-20,Creature,Common,Ghoul
-21,Creature,Common,Warlock
-22,Artifact,Common,Crown
-23,Enchantment,Common,Agony
-24,Creature,Common,Ghoul
-25,Artifact,Common,Tome
-26,Spell,Rare,Miracle Fury
-27,Artifact,Rare,Hateful Shield
-28,Spell,Common,Invisibility
-29,Creature,Common,Magi
-30,Artifact,Legendary,Intense Tome
-31,Enchantment,Common,Blight
-32,Artifact,Legendary,Angry Pendant
-33,Spell,Legendary,Instant Stun
-34,Creature,Common,Spider
-35,Creature,Common,Warlock
-36,Enchantment,Common,Alacrity
-37,Creature,Legendary,Earth Assassin Kraken of the Eastern Skies
-38,Creature,Common,Eagle
-39,Creature,Common,Eagle
-40,Creature,Rare,Aura Knight Skin-Walker
-41,Enchantment,Common,Haste
-42,Spell,Common,Heal
-43,Spell,Common,Frost
-44,Artifact,Rare,Oblivion Amulet
+==================,DECK,4693
+0,Creature,Wolf
+1,Creature,Troll
+2,Spell,Revive
+3,Spell,Ice
+4,Creature,Skin-Walker
+5,Creature,Dark Merchant Cyclops
+6,Enchantment,Mighty Corpse Agony
+7,Spell,Fireball
+8,Spell,Corpse Pandemonium
+9,Spell,Oblivion Ice
+10,Enchantment,Alacrity
+11,Creature,Aura Merchant Kraken
+12,Enchantment,Deathgrip
+13,Spell,Oblivion Reanimate
+14,Creature,Light Lord Giant of the Low Hills
+15,Spell,Revive
+16,Creature,Earth Queen Goblin
+17,Spell,Chimeric Gravitation
+18,Enchantment,Haste
+19,Enchantment,Shade
+20,Creature,Ghoul
+21,Creature,Berserker
+22,Artifact,Crown
+23,Enchantment,Shield
+24,Creature,Ghoul
+25,Artifact,Tome
+26,Spell,Victory Fireball
+27,Artifact,Cataclysmic Shield
+28,Spell,Fury
+29,Creature,Fairy
+30,Artifact,Empyrean Shimmering Tome
+31,Enchantment,Haste
+32,Artifact,Zealous Cataclysmic Pendant
+33,Spell,Potent Hateful Assault
+34,Creature,Paladin
+35,Creature,Berserker
+36,Enchantment,Invert
+37,Creature,Earth Assassin Ogre of the Eastern Skies
+38,Creature,Eagle
+39,Creature,Eagle
+40,Creature,Aura Knight Orc
+41,Enchantment,Shrink
+42,Spell,Assault
+43,Spell,Lightning
+44,Artifact,Frigid Amulet

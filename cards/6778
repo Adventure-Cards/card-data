@@ -1,46 +1,46 @@
-==================,DECK,6778,Light
-0,Creature,Common,Goblin
-1,Artifact,Rare,Gloom Potion
-2,Spell,Rare,Nature Gale
-3,Spell,Common,Invisibility
-4,Spell,Common,Sorrow
-5,Creature,Common,Wolf
-6,Enchantment,Common,Shade
-7,Creature,Rare,Light Rogue Fairy
-8,Creature,Common,Magi
-9,Spell,Common,Maelstrom
-10,Enchantment,Common,Agony
-11,Spell,Rare,Miracle Stun
-12,Spell,Common,Wall
-13,Creature,Rare,Aura Merchant Berserker
-14,Creature,Common,Eagle
-15,Creature,Common,Ghoul
-16,Artifact,Common,Sword
-17,Creature,Common,Paladin
-18,Creature,Common,Orc
-19,Creature,Common,Wolf
-20,Spell,Legendary,Urgent Fury
-21,Creature,Common,Warlock
-22,Spell,Rare,Shimmering Burst
-23,Creature,Rare,Dark Warrior Griffin
-24,Enchantment,Common,Shield
-25,Creature,Mythic,Death Undead Dragon of the Dead
-26,Spell,Common,Invisibility
-27,Enchantment,Common,Shield
-28,Creature,Common,Magi
-29,Enchantment,Common,Shrink
-30,Creature,Mythic,Light Undead Dragon of the Sky
-31,Enchantment,Rare,Solar Agony
-32,Creature,Rare,Aura Monk Griffin
-33,Spell,Common,Infuriate
-34,Spell,Common,Stricken
-35,Creature,Common,Spider
-36,Spell,Common,Revive
-37,Spell,Common,Assault
-38,Enchantment,Common,Flight
-39,Spell,Legendary,Mighty Hypnosis
-40,Creature,Common,Wolf
-41,Creature,Rare,Dark Rogue Minotaur
-42,Creature,Rare,Light Monk Hydra
-43,Enchantment,Rare,Oblivion Shield
-44,Creature,Common,Wolf
+==================,DECK,6778
+0,Creature,Skin-Walker
+1,Artifact,Dark Potion
+2,Spell,Necro Wall
+3,Spell,Stun
+4,Spell,Wall
+5,Creature,Wolf
+6,Enchantment,Alacrity
+7,Creature,Light Rogue Kraken
+8,Creature,Fairy
+9,Spell,Wall
+10,Enchantment,Shield
+11,Spell,Oblivion Freeze
+12,Spell,Vortex
+13,Creature,Aura Merchant Goblin
+14,Creature,Eagle
+15,Creature,Ghoul
+16,Artifact,Sword
+17,Creature,Troll
+18,Creature,Spider
+19,Creature,Wolf
+20,Spell,Mighty Solar Gale
+21,Creature,Berserker
+22,Spell,Corpse Burst
+23,Creature,Dark Warrior Griffin
+24,Enchantment,Flight
+25,Creature,Death Undead Dragon of the Dead
+26,Spell,Vortex
+27,Enchantment,Shade
+28,Creature,Fairy
+29,Enchantment,Alacrity
+30,Creature,Light Undead Dragon of the Sky
+31,Enchantment,Corpse Agony
+32,Creature,Aura Monk Griffin
+33,Spell,Torment
+34,Spell,Tempest
+35,Creature,Paladin
+36,Spell,Burst
+37,Spell,Pandemonium
+38,Enchantment,Age
+39,Spell,Zealous Gloom Gale
+40,Creature,Wolf
+41,Creature,Dark Rogue Cyclops
+42,Creature,Light Monk Hydra
+43,Enchantment,Victory Shade
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,4978,Medium
-0,Creature,Legendary,Dark Monk Oni of the Frozen Castle
-1,Enchantment,Common,Strength
-2,Creature,Common,Eagle
-3,Spell,Rare,Necro Hypnosis
-4,Enchantment,Common,Shade
-5,Creature,Legendary,Aura King Giant of the Border
-6,Creature,Common,Wolf
-7,Creature,Mythic,Snow Time Dragon of Hate
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Creature,Common,Spider
-11,Creature,Legendary,Frozen Knight Kraken of the Bright Mountains
-12,Creature,Common,Warlock
-13,Spell,Common,Heal
-14,Enchantment,Common,Blight
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Sorrow
-17,Creature,Common,Wolf
-18,Creature,Rare,Earth Rogue Berserker
-19,Creature,Common,Paladin
-20,Spell,Common,Lightning
-21,Enchantment,Common,Agony
-22,Spell,Rare,Forged Freeze
-23,Creature,Legendary,Frozen Queen Giant of the Swamp
-24,Artifact,Common,Gloves
-25,Creature,Common,Paladin
-26,Enchantment,Rare,Necro Flight
-27,Creature,Common,Magi
-28,Spell,Common,Ice
-29,Creature,Legendary,Snow Warrior Orge of the Plains
-30,Spell,Rare,Nimble Revive
-31,Creature,Common,Elf
-32,Artifact,Common,Sigil
-33,Spell,Common,Fury
-34,Enchantment,Rare,Gloom Alacrity
-35,Enchantment,Common,Strength
-36,Spell,Common,Frost
-37,Creature,Common,Wolf
-38,Enchantment,Common,Alacrity
-39,Artifact,Common,Greaves
-40,Creature,Mythic,Aura Chaos Demon of the Light
-41,Creature,Rare,Frozen Assassin Minotaur
-42,Creature,Common,Dwarf
-43,Creature,Rare,Light Merchant Fairy
-44,Creature,Rare,Earth Merchant Griffin
+==================,DECK,4978
+0,Creature,Dark Monk Oni of the Frozen Castle
+1,Enchantment,Age
+2,Creature,Eagle
+3,Spell,Nature Assault
+4,Enchantment,Shade
+5,Creature,Aura King Dwarf of the Border
+6,Creature,Wolf
+7,Creature,Snow Time Dragon of Hate
+8,Creature,Spider
+9,Creature,Spider
+10,Creature,Paladin
+11,Creature,Frozen Knight Ogre of the Bright Mountains
+12,Creature,Berserker
+13,Spell,Sorrow
+14,Enchantment,Haste
+15,Enchantment,Haste
+16,Spell,Stun
+17,Creature,Wolf
+18,Creature,Earth Rogue Goblin
+19,Creature,Troll
+20,Spell,Stun
+21,Enchantment,Shrink
+22,Spell,Miracle Burst
+23,Creature,Frozen Queen Dwarf of the Swamp
+24,Artifact,Gloves
+25,Creature,Troll
+26,Enchantment,Hateful Deathgrip
+27,Creature,Fairy
+28,Spell,Stricken
+29,Creature,Snow Warrior Elf of the Plains
+30,Spell,Necro Heal
+31,Creature,Warlock
+32,Artifact,Sigil
+33,Spell,Frost
+34,Enchantment,Dark Shrink
+35,Enchantment,Strength
+36,Spell,Gale
+37,Creature,Wolf
+38,Enchantment,Age
+39,Artifact,Greaves
+40,Creature,Aura Chaos Demon of the Light
+41,Creature,Frozen Assassin Cyclops
+42,Creature,Magi
+43,Creature,Light Merchant Kraken
+44,Creature,Earth Merchant Griffin

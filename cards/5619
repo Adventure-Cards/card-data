@@ -1,46 +1,46 @@
-==================,DECK,5619,Medium
-0,Creature,Common,Elf
-1,Creature,Rare,Death Rogue Skin-Walker
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Paladin
-4,Enchantment,Rare,Life Age
-5,Spell,Common,Infuriate
-6,Enchantment,Common,Shield
-7,Enchantment,Common,Invert
-8,Creature,Common,Warlock
-9,Creature,Rare,Light Thief Hydra
-10,Creature,Common,Warlock
-11,Spell,Common,Fury
-12,Enchantment,Mythic,Mighty Alacrity
-13,Artifact,Legendary,Instant Helm
-14,Artifact,Common,Pendant
-15,Artifact,Rare,Forged Boots
-16,Enchantment,Rare,Hateful Age
-17,Creature,Mythic,Dark Nameless Phoenix of Illusion
-18,Creature,Common,Ghoul
-19,Creature,Common,Goblin
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Shield
-22,Creature,Rare,Aura Warrior Berserker
-23,Creature,Common,Magi
-24,Creature,Rare,Light Undead Griffin
-25,Creature,Legendary,Light Queen Giant of the Bright Mountains
-26,Creature,Common,Wolf
-27,Spell,Common,Gravitation
-28,Creature,Legendary,Death Merchant Cyclops of the Mountains
-29,Creature,Common,Warlock
-30,Spell,Common,Sorrow
-31,Creature,Legendary,Death Thief Orge of the Magical Forest
-32,Creature,Common,Dwarf
-33,Creature,Common,Magi
-34,Creature,Common,Paladin
-35,Creature,Common,Dwarf
-36,Creature,Common,Ghoul
-37,Creature,Rare,Snow Queen Fairy
-38,Creature,Common,Goblin
-39,Creature,Mythic,Death Grand Wizard of the Dead
-40,Spell,Rare,Corpse Heal
-41,Spell,Rare,Forged Torment
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Earth Undead Hydra
-44,Creature,Common,Wolf
+==================,DECK,5619
+0,Creature,Warlock
+1,Creature,Death Rogue Orc
+2,Enchantment,Alacrity
+3,Creature,Troll
+4,Enchantment,Victory Shade
+5,Spell,Burn
+6,Enchantment,Shade
+7,Enchantment,Firebreath
+8,Creature,Berserker
+9,Creature,Light Thief Hydra
+10,Creature,Berserker
+11,Spell,Rage
+12,Enchantment,Urgent Dark Flight
+13,Artifact,Empyrean Forged Helm
+14,Artifact,Pendant
+15,Artifact,Chimeric Boots
+16,Enchantment,Gloom Shrink
+17,Creature,Dark Nameless Phoenix of Illusion
+18,Creature,Ghoul
+19,Creature,Skin-Walker
+20,Enchantment,Drain
+21,Enchantment,Shade
+22,Creature,Aura Warrior Goblin
+23,Creature,Fairy
+24,Creature,Light Undead Griffin
+25,Creature,Light Queen Dwarf of the Bright Mountains
+26,Creature,Wolf
+27,Spell,Burn
+28,Creature,Death Merchant Giant of the Mountains
+29,Creature,Berserker
+30,Spell,Hypnosis
+31,Creature,Death Thief Elf of the Magical Forest
+32,Creature,Magi
+33,Creature,Fairy
+34,Creature,Troll
+35,Creature,Magi
+36,Creature,Ghoul
+37,Creature,Snow Queen Kraken
+38,Creature,Skin-Walker
+39,Creature,Death Grand Wizard of the Dead
+40,Spell,Forged Lightning
+41,Spell,Miracle Lightning
+42,Enchantment,Age
+43,Creature,Earth Undead Hydra
+44,Creature,Wolf

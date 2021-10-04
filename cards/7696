@@ -1,46 +1,46 @@
-==================,DECK,7696,Medium
-0,Creature,Common,Eagle
-1,Enchantment,Common,Flight
-2,Creature,Common,Elf
-3,Creature,Common,Orc
-4,Creature,Common,Elf
-5,Creature,Rare,Frozen Knight Berserker
-6,Creature,Rare,Frozen Undead Minotaur
-7,Creature,Common,Paladin
-8,Spell,Common,Burn
-9,Creature,Common,Spider
-10,Artifact,Common,Sword
-11,Creature,Legendary,Frozen King Kraken of the Border
-12,Spell,Common,Burn
-13,Artifact,Common,Sword
-14,Enchantment,Common,Lethargy
-15,Spell,Common,Lightning
-16,Enchantment,Common,Blight
-17,Enchantment,Legendary,Dire Shrink
-18,Artifact,Common,Shield
-19,Spell,Common,Assault
-20,Spell,Rare,Hateful Burn
-21,Creature,Common,Magi
-22,Spell,Common,Lightning
-23,Spell,Common,Gale
-24,Artifact,Common,Scythe
-25,Creature,Common,Eagle
-26,Artifact,Common,Boots
-27,Creature,Common,Magi
-28,Creature,Rare,Aura Assassin Hydra
-29,Creature,Rare,Light Merchant Skin-Walker
-30,Creature,Rare,Earth Lord Griffin
-31,Creature,Rare,Death Monk Minotaur
-32,Enchantment,Common,Lethargy
-33,Spell,Common,Ice
-34,Artifact,Common,Amulet
-35,Creature,Rare,Snow Undead Fairy
-36,Artifact,Rare,Cataclysmic Helm
-37,Spell,Common,Rage
-38,Artifact,Common,Crown
-39,Spell,Common,Freeze
-40,Creature,Mythic,Dark Chaos Wizard of Illusion
-41,Enchantment,Legendary,Mighty Strength
-42,Creature,Common,Dwarf
-43,Spell,Common,Lightning
-44,Artifact,Rare,Miracle Helm
+==================,DECK,7696
+0,Creature,Eagle
+1,Enchantment,Shield
+2,Creature,Warlock
+3,Creature,Spider
+4,Creature,Warlock
+5,Creature,Frozen Knight Goblin
+6,Creature,Frozen Undead Cyclops
+7,Creature,Troll
+8,Spell,Fire
+9,Creature,Paladin
+10,Artifact,Sword
+11,Creature,Frozen King Ogre of the Border
+12,Spell,Frenzy
+13,Artifact,Sword
+14,Enchantment,Deathgrip
+15,Spell,Burst
+16,Enchantment,Shade
+17,Enchantment,Clever Frigid Haste
+18,Artifact,Shield
+19,Spell,Revive
+20,Spell,Sorrow Sorrow
+21,Creature,Fairy
+22,Spell,Lightning
+23,Spell,Fire
+24,Artifact,Scythe
+25,Creature,Eagle
+26,Artifact,Boots
+27,Creature,Fairy
+28,Creature,Aura Assassin Hydra
+29,Creature,Light Merchant Orc
+30,Creature,Earth Lord Griffin
+31,Creature,Death Monk Cyclops
+32,Enchantment,Invert
+33,Spell,Stun
+34,Artifact,Amulet
+35,Creature,Snow Undead Kraken
+36,Artifact,Cataclysmic Helm
+37,Spell,Fury
+38,Artifact,Crown
+39,Spell,Gravitation
+40,Creature,Dark Chaos Wizard of Illusion
+41,Enchantment,Ardent Cataclysmic Shield
+42,Creature,Magi
+43,Spell,Gale
+44,Artifact,Victory Helm

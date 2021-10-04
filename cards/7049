@@ -1,46 +1,46 @@
-==================,DECK,7049,Light
-0,Spell,Common,Invisibility
-1,Creature,Common,Spider
-2,Spell,Rare,Cataclysmic Fury
-3,Enchantment,Common,Agony
-4,Creature,Rare,Frozen Priest Hydra
-5,Creature,Common,Paladin
-6,Creature,Common,Spider
-7,Creature,Common,Spider
-8,Spell,Common,Revive
-9,Enchantment,Rare,Apocalypse Drain
-10,Creature,Common,Dwarf
-11,Creature,Common,Goblin
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Artifact,Common,Divine Robe
-15,Creature,Rare,Aura Assassin Hydra
-16,Enchantment,Mythic,Extreme Lethargy
-17,Spell,Rare,Necro Stun
-18,Creature,Common,Ghoul
-19,Creature,Common,Goblin
-20,Spell,Rare,Miracle Ice
-21,Spell,Common,Pandemonium
-22,Creature,Common,Orc
-23,Spell,Common,Reanimate
-24,Enchantment,Mythic,Urgent Age
-25,Enchantment,Common,Lethargy
-26,Enchantment,Common,Flight
-27,Spell,Common,Sorrow
-28,Creature,Rare,Light Priest Berserker
-29,Creature,Common,Paladin
-30,Creature,Mythic,Snow Undead Phoenix of Hate
-31,Enchantment,Common,Shade
-32,Spell,Rare,Apocalypse Pandemonium
-33,Spell,Common,Rage
-34,Creature,Legendary,Snow Assassin Cyclops of the Eastern Skies
-35,Spell,Common,Wall
-36,Creature,Common,Eagle
-37,Artifact,Rare,Nimble Shield
-38,Artifact,Common,Staff
-39,Spell,Common,Gale
-40,Creature,Common,Orc
-41,Creature,Common,Orc
-42,Artifact,Rare,Necro Greaves
-43,Spell,Common,Gravitation
-44,Enchantment,Common,Shade
+==================,DECK,7049
+0,Spell,Frenzy
+1,Creature,Paladin
+2,Spell,Dark Hypnosis
+3,Enchantment,Shade
+4,Creature,Frozen Priest Hydra
+5,Creature,Troll
+6,Creature,Paladin
+7,Creature,Paladin
+8,Spell,Stricken
+9,Enchantment,Apocalypse Blight
+10,Creature,Magi
+11,Creature,Skin-Walker
+12,Creature,Eagle
+13,Creature,Fairy
+14,Artifact,Divine Robe
+15,Creature,Aura Assassin Hydra
+16,Enchantment,Dire Lunar Firebreath
+17,Spell,Nature Sorrow
+18,Creature,Ghoul
+19,Creature,Skin-Walker
+20,Spell,Grim Vortex
+21,Spell,Assault
+22,Creature,Spider
+23,Spell,Vortex
+24,Enchantment,Potent Nature Strength
+25,Enchantment,Shield
+26,Enchantment,Haste
+27,Spell,Ice
+28,Creature,Light Priest Goblin
+29,Creature,Troll
+30,Creature,Snow Undead Phoenix of Hate
+31,Enchantment,Alacrity
+32,Spell,Nimble Fireball
+33,Spell,Gale
+34,Creature,Snow Assassin Giant of the Eastern Skies
+35,Spell,Torment
+36,Creature,Eagle
+37,Artifact,Forged Shield
+38,Artifact,Staff
+39,Spell,Invisibility
+40,Creature,Spider
+41,Creature,Spider
+42,Artifact,Hateful Greaves
+43,Spell,Lightning
+44,Enchantment,Deathgrip

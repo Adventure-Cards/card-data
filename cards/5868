@@ -1,46 +1,46 @@
-==================,DECK,5868,Medium
-0,Spell,Common,Assault
-1,Creature,Rare,Frozen Priest Berserker
-2,Enchantment,Legendary,Potent Strength
-3,Artifact,Common,Gauntlet
-4,Creature,Common,Warlock
-5,Creature,Common,Magi
-6,Artifact,Rare,Dark Staff
-7,Creature,Common,Spider
-8,Creature,Common,Dwarf
-9,Creature,Common,Spider
-10,Creature,Common,Paladin
-11,Spell,Common,Wall
-12,Spell,Common,Torment
-13,Enchantment,Mythic,Clever Strength
-14,Spell,Common,Stun
-15,Enchantment,Legendary,Mighty Invert
-16,Creature,Common,Magi
-17,Creature,Common,Eagle
-18,Enchantment,Legendary,Angry Shield
-19,Artifact,Rare,Miracle Bow
-20,Artifact,Rare,Solar Boots
-21,Spell,Rare,Dark Rage
-22,Creature,Common,Ghoul
-23,Spell,Common,Frenzy
-24,Creature,Rare,Earth Monk Fairy
-25,Enchantment,Common,Agony
-26,Enchantment,Rare,Shimmering Haste
-27,Creature,Rare,Frozen Assassin Hydra
-28,Creature,Common,Orc
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Agony
-31,Enchantment,Common,Shield
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Flight
-34,Spell,Common,Rage
-35,Enchantment,Common,Age
-36,Artifact,Common,Boots
-37,Artifact,Common,Pendant
-38,Creature,Common,Wolf
-39,Enchantment,Common,Shield
-40,Enchantment,Common,Invert
-41,Creature,Common,Warlock
-42,Creature,Mythic,Aura Undead Phoenix of the Light
-43,Creature,Common,Dwarf
-44,Creature,Common,Spider
+==================,DECK,5868
+0,Spell,Fury
+1,Creature,Frozen Priest Goblin
+2,Enchantment,Dire Nimble Shade
+3,Artifact,Gauntlet
+4,Creature,Berserker
+5,Creature,Fairy
+6,Artifact,Chimeric Staff
+7,Creature,Paladin
+8,Creature,Magi
+9,Creature,Paladin
+10,Creature,Troll
+11,Spell,Reanimate
+12,Spell,Invisibility
+13,Enchantment,Instant Nimble Drain
+14,Spell,Frenzy
+15,Enchantment,Irate Sorrow Alacrity
+16,Creature,Fairy
+17,Creature,Eagle
+18,Enchantment,Ardent Gloom Shield
+19,Artifact,Apocalypse Bow
+20,Artifact,Forged Boots
+21,Spell,Sorrow Tempest
+22,Creature,Ghoul
+23,Spell,Ice
+24,Creature,Earth Monk Kraken
+25,Enchantment,Firebreath
+26,Enchantment,Corpse Deathgrip
+27,Creature,Frozen Assassin Hydra
+28,Creature,Spider
+29,Creature,Magi
+30,Enchantment,Blight
+31,Enchantment,Blight
+32,Creature,Magi
+33,Enchantment,Lethargy
+34,Spell,Maelstrom
+35,Enchantment,Strength
+36,Artifact,Boots
+37,Artifact,Pendant
+38,Creature,Wolf
+39,Enchantment,Age
+40,Enchantment,Invert
+41,Creature,Berserker
+42,Creature,Aura Undead Phoenix of the Light
+43,Creature,Magi
+44,Creature,Paladin

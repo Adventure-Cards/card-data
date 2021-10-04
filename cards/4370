@@ -1,46 +1,46 @@
-==================,DECK,4370,Light
-0,Creature,Legendary,Frozen Undead Giant of the Mountains
-1,Artifact,Common,Helm
-2,Spell,Rare,Life Stun
-3,Enchantment,Common,Lethargy
-4,Creature,Rare,Light Assassin Fairy
-5,Creature,Rare,Snow Merchant Berserker
-6,Artifact,Common,Bow
-7,Creature,Common,Magi
-8,Enchantment,Common,Lethargy
-9,Creature,Common,Eagle
-10,Enchantment,Rare,Nimble Shield
-11,Artifact,Rare,Shimmering Cloak
-12,Creature,Mythic,Dark Ancient Demon of Illusion
-13,Enchantment,Common,Shrink
-14,Creature,Common,Eagle
-15,Spell,Common,Stun
-16,Spell,Rare,Apocalypse Ice
-17,Spell,Rare,Gloom Gravitation
-18,Creature,Common,Warlock
-19,Spell,Common,Gale
-20,Creature,Common,Orc
-21,Creature,Legendary,Aura King Orge of the Bright Mountains
-22,Artifact,Common,Belt
-23,Creature,Rare,Light Queen Hydra
-24,Creature,Rare,Death Merchant Hydra
-25,Spell,Common,Stun
-26,Artifact,Common,Helmet
-27,Enchantment,Common,Age
-28,Spell,Rare,Shimmering Maelstrom
-29,Enchantment,Common,Invert
-30,Creature,Legendary,Light Assassin Oni of the Low Hills
-31,Creature,Rare,Aura Warrior Fairy
-32,Creature,Rare,Light Undead Griffin
-33,Creature,Common,Spider
-34,Enchantment,Common,Agony
-35,Creature,Rare,Death Thief Skin-Walker
-36,Enchantment,Common,Deathgrip
-37,Spell,Rare,Shimmering Maelstrom
-38,Creature,Common,Paladin
-39,Creature,Common,Ghoul
-40,Creature,Common,Ghoul
-41,Spell,Common,Infuriate
-42,Creature,Legendary,Frozen Lord Cyclops of the Eastern Skies
-43,Creature,Common,Paladin
-44,Creature,Common,Wolf
+==================,DECK,4370
+0,Creature,Frozen Undead Dwarf of the Mountains
+1,Artifact,Helm
+2,Spell,Victory Ice
+3,Enchantment,Drain
+4,Creature,Light Assassin Kraken
+5,Creature,Snow Merchant Goblin
+6,Artifact,Bow
+7,Creature,Fairy
+8,Enchantment,Haste
+9,Creature,Eagle
+10,Enchantment,Nature Age
+11,Artifact,Corpse Cloak
+12,Creature,Dark Ancient Demon of Illusion
+13,Enchantment,Invert
+14,Creature,Eagle
+15,Spell,Vortex
+16,Spell,Life Stricken
+17,Spell,Cataclysmic Burst
+18,Creature,Berserker
+19,Spell,Gale
+20,Creature,Spider
+21,Creature,Aura King Elf of the Bright Mountains
+22,Artifact,Belt
+23,Creature,Light Queen Hydra
+24,Creature,Death Merchant Hydra
+25,Spell,Torment
+26,Artifact,Helmet
+27,Enchantment,Alacrity
+28,Spell,Necro Heal
+29,Enchantment,Strength
+30,Creature,Light Assassin Oni of the Low Hills
+31,Creature,Aura Warrior Kraken
+32,Creature,Light Undead Griffin
+33,Creature,Paladin
+34,Enchantment,Shield
+35,Creature,Death Thief Orc
+36,Enchantment,Alacrity
+37,Spell,Shimmering Sorrow
+38,Creature,Troll
+39,Creature,Ghoul
+40,Creature,Ghoul
+41,Spell,Revive
+42,Creature,Frozen Lord Giant of the Eastern Skies
+43,Creature,Troll
+44,Creature,Wolf

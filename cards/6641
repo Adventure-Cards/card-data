@@ -1,46 +1,46 @@
-==================,DECK,6641,Light
-0,Creature,Common,Magi
-1,Creature,Common,Magi
-2,Spell,Common,Assault
-3,Creature,Common,Magi
-4,Spell,Common,Maelstrom
-5,Artifact,Common,Divine Robe
-6,Creature,Rare,Frozen Priest Berserker
-7,Artifact,Rare,Nimble Helm
-8,Creature,Legendary,Light Lord Kraken of the Mountains
-9,Creature,Rare,Death Knight Skin-Walker
-10,Creature,Rare,Frozen Knight Minotaur
-11,Creature,Common,Ghoul
-12,Artifact,Common,Sword
-13,Spell,Common,Assault
-14,Enchantment,Common,Shrink
-15,Creature,Common,Ghoul
-16,Creature,Common,Ghoul
-17,Creature,Common,Warlock
-18,Spell,Common,Gale
-19,Spell,Common,Reanimate
-20,Creature,Common,Warlock
-21,Enchantment,Common,Age
-22,Spell,Common,Gale
-23,Creature,Common,Magi
-24,Artifact,Common,Ghost Wand
-25,Enchantment,Mythic,Clever Shrink
-26,Enchantment,Common,Lethargy
-27,Enchantment,Common,Strength
-28,Creature,Common,Wolf
-29,Creature,Common,Ghoul
-30,Creature,Common,Eagle
-31,Creature,Rare,Frozen Fighter Berserker
-32,Spell,Legendary,Intense Infuriate
-33,Creature,Common,Eagle
-34,Creature,Rare,Light Priest Minotaur
-35,Spell,Legendary,Urgent Gravitation
-36,Creature,Common,Wolf
-37,Creature,Rare,Frozen Fighter Griffin
-38,Spell,Common,Stricken
-39,Creature,Common,Goblin
-40,Spell,Common,Fury
-41,Creature,Common,Warlock
-42,Artifact,Common,Ring
-43,Enchantment,Common,Lethargy
-44,Enchantment,Common,Blight
+==================,DECK,6641
+0,Creature,Fairy
+1,Creature,Fairy
+2,Spell,Fire
+3,Creature,Fairy
+4,Spell,Hypnosis
+5,Artifact,Divine Robe
+6,Creature,Frozen Priest Goblin
+7,Artifact,Corpse Helm
+8,Creature,Light Lord Ogre of the Mountains
+9,Creature,Death Knight Orc
+10,Creature,Frozen Knight Cyclops
+11,Creature,Ghoul
+12,Artifact,Sword
+13,Spell,Fireball
+14,Enchantment,Firebreath
+15,Creature,Ghoul
+16,Creature,Ghoul
+17,Creature,Berserker
+18,Spell,Assault
+19,Spell,Fury
+20,Creature,Berserker
+21,Enchantment,Lethargy
+22,Spell,Rage
+23,Creature,Fairy
+24,Artifact,Ghost Wand
+25,Enchantment,Mighty Frigid Invert
+26,Enchantment,Lethargy
+27,Enchantment,Alacrity
+28,Creature,Wolf
+29,Creature,Ghoul
+30,Creature,Eagle
+31,Creature,Frozen Fighter Goblin
+32,Spell,Empyrean Forged Assault
+33,Creature,Eagle
+34,Creature,Light Priest Cyclops
+35,Spell,Dire Nature Heal
+36,Creature,Wolf
+37,Creature,Frozen Fighter Griffin
+38,Spell,Infuriate
+39,Creature,Skin-Walker
+40,Spell,Rage
+41,Creature,Berserker
+42,Artifact,Ring
+43,Enchantment,Age
+44,Enchantment,Alacrity

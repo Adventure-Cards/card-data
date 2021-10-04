@@ -1,46 +1,46 @@
-==================,DECK,4511,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Age
-2,Spell,Rare,Hateful Gale
-3,Creature,Common,Paladin
-4,Enchantment,Common,Agony
-5,Creature,Common,Eagle
-6,Creature,Common,Paladin
-7,Creature,Common,Goblin
-8,Spell,Common,Burn
-9,Creature,Common,Spider
-10,Creature,Legendary,Aura Assassin Giant of the Black Stone
-11,Creature,Common,Goblin
-12,Enchantment,Common,Deathgrip
-13,Creature,Common,Eagle
-14,Artifact,Common,Gauntlet
-15,Creature,Common,Warlock
-16,Spell,Legendary,Extreme Torment
-17,Creature,Rare,Aura King Berserker
-18,Creature,Common,Dwarf
-19,Creature,Rare,Snow King Berserker
-20,Creature,Mythic,Snow Chaos Wizard of Hate
-21,Artifact,Rare,Frigid Helm
-22,Creature,Common,Orc
-23,Creature,Legendary,Frozen King Oni of the Arctic Blizzards
-24,Enchantment,Common,Blight
-25,Artifact,Common,Tome
-26,Spell,Common,Frenzy
-27,Spell,Common,Hypnosis
-28,Creature,Rare,Dark King Berserker
-29,Creature,Common,Goblin
-30,Artifact,Common,Sword
-31,Spell,Rare,Nimble Gravitation
-32,Creature,Legendary,Snow Queen Oni of the Black Stone
-33,Artifact,Common,Sword
-34,Spell,Common,Rage
-35,Spell,Rare,Gloom Heal
-36,Artifact,Common,Gloves
-37,Creature,Rare,Dark Rogue Skin-Walker
-38,Spell,Common,Burn
-39,Artifact,Common,Potion
-40,Creature,Mythic,Death Ancient Wizard of the Dead
-41,Enchantment,Mythic,Dire Shield
-42,Spell,Common,Sorrow
-43,Creature,Common,Spider
-44,Creature,Common,Ghoul
+==================,DECK,4511
+0,Creature,Eagle
+1,Enchantment,Blight
+2,Spell,Sorrow Fury
+3,Creature,Troll
+4,Enchantment,Agony
+5,Creature,Eagle
+6,Creature,Troll
+7,Creature,Skin-Walker
+8,Spell,Stricken
+9,Creature,Paladin
+10,Creature,Aura Assassin Dwarf of the Black Stone
+11,Creature,Skin-Walker
+12,Enchantment,Flight
+13,Creature,Eagle
+14,Artifact,Gauntlet
+15,Creature,Berserker
+16,Spell,Ardent Dark Hypnosis
+17,Creature,Aura King Goblin
+18,Creature,Magi
+19,Creature,Snow King Goblin
+20,Creature,Snow Chaos Wizard of Hate
+21,Artifact,Victory Helm
+22,Creature,Spider
+23,Creature,Frozen King Oni of the Arctic Blizzards
+24,Enchantment,Shield
+25,Artifact,Tome
+26,Spell,Revive
+27,Spell,Lightning
+28,Creature,Dark King Goblin
+29,Creature,Skin-Walker
+30,Artifact,Sword
+31,Spell,Corpse Rage
+32,Creature,Snow Queen Oni of the Black Stone
+33,Artifact,Sword
+34,Spell,Fireball
+35,Spell,Dark Stun
+36,Artifact,Gloves
+37,Creature,Dark Rogue Orc
+38,Spell,Wall
+39,Artifact,Potion
+40,Creature,Death Ancient Wizard of the Dead
+41,Enchantment,Instant Victory Drain
+42,Spell,Stun
+43,Creature,Paladin
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,4249,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Wolf
-2,Enchantment,Rare,Forged Shield
-3,Enchantment,Legendary,Intense Invert
-4,Enchantment,Mythic,Intense Age
-5,Creature,Rare,Dark Knight Hydra
-6,Spell,Common,Vortex
-7,Creature,Common,Ghoul
-8,Creature,Common,Spider
-9,Creature,Rare,Death King Skin-Walker
-10,Artifact,Common,Shield
-11,Spell,Common,Revive
-12,Enchantment,Rare,Dark Shade
-13,Enchantment,Common,Drain
-14,Enchantment,Mythic,Extreme Age
-15,Enchantment,Rare,Nature Haste
-16,Creature,Rare,Frozen Priest Fairy
-17,Spell,Rare,Nature Infuriate
-18,Creature,Mythic,Light Undead Phoenix of the Sky
-19,Creature,Common,Magi
-20,Artifact,Common,Helmet
-21,Enchantment,Mythic,Intense Invert
-22,Creature,Common,Spider
-23,Artifact,Common,Belt
-24,Creature,Common,Ghoul
-25,Spell,Common,Lightning
-26,Creature,Rare,Death Assassin Skin-Walker
-27,Spell,Common,Lightning
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Eagle
-30,Creature,Rare,Snow King Hydra
-31,Creature,Common,Wolf
-32,Enchantment,Common,Agony
-33,Creature,Rare,Death Assassin Skin-Walker
-34,Enchantment,Common,Haste
-35,Creature,Legendary,Snow Undead Giant of the West
-36,Creature,Common,Warlock
-37,Spell,Common,Wall
-38,Creature,Common,Eagle
-39,Artifact,Common,Cloak
-40,Creature,Common,Orc
-41,Enchantment,Common,Flight
-42,Creature,Common,Eagle
-43,Creature,Rare,Frozen Rogue Skin-Walker
-44,Creature,Common,Ghoul
+==================,DECK,4249
+0,Creature,Ghoul
+1,Creature,Wolf
+2,Enchantment,Gloom Flight
+3,Enchantment,Ardent Shimmering Lethargy
+4,Enchantment,Empyrean Nature Age
+5,Creature,Dark Knight Hydra
+6,Spell,Vortex
+7,Creature,Ghoul
+8,Creature,Paladin
+9,Creature,Death King Orc
+10,Artifact,Shield
+11,Spell,Burn
+12,Enchantment,Chimeric Alacrity
+13,Enchantment,Agony
+14,Enchantment,Empyrean Gloom Firebreath
+15,Enchantment,Corpse Age
+16,Creature,Frozen Priest Kraken
+17,Spell,Nature Revive
+18,Creature,Light Undead Phoenix of the Sky
+19,Creature,Fairy
+20,Artifact,Helmet
+21,Enchantment,Urgent Shimmering Agony
+22,Creature,Paladin
+23,Artifact,Belt
+24,Creature,Ghoul
+25,Spell,Burst
+26,Creature,Death Assassin Orc
+27,Spell,Ice
+28,Enchantment,Drain
+29,Creature,Eagle
+30,Creature,Snow King Hydra
+31,Creature,Wolf
+32,Enchantment,Haste
+33,Creature,Death Assassin Orc
+34,Enchantment,Drain
+35,Creature,Snow Undead Dwarf of the West
+36,Creature,Berserker
+37,Spell,Maelstrom
+38,Creature,Eagle
+39,Artifact,Cloak
+40,Creature,Spider
+41,Enchantment,Firebreath
+42,Creature,Eagle
+43,Creature,Frozen Rogue Orc
+44,Creature,Ghoul

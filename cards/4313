@@ -1,46 +1,46 @@
-==================,DECK,4313,Light
-0,Creature,Legendary,Frozen Merchant Cyclops of the Eternal Land
-1,Spell,Common,Fury
-2,Creature,Common,Paladin
-3,Creature,Common,Ghoul
-4,Creature,Common,Magi
-5,Creature,Common,Magi
-6,Spell,Common,Lightning
-7,Creature,Common,Orc
-8,Creature,Common,Wolf
-9,Artifact,Common,Sigil
-10,Enchantment,Mythic,Dire Alacrity
-11,Creature,Common,Eagle
-12,Creature,Legendary,Snow Assassin Giant of the Magical Forest
-13,Creature,Common,Orc
-14,Artifact,Common,Staff
-15,Creature,Common,Dwarf
-16,Creature,Common,Orc
-17,Enchantment,Common,Invert
-18,Enchantment,Common,Shield
-19,Artifact,Common,Cloak
-20,Spell,Rare,Cataclysmic Burst
-21,Creature,Legendary,Frozen Warrior Giant of the Swamp
-22,Creature,Common,Elf
-23,Creature,Common,Spider
-24,Creature,Common,Orc
-25,Spell,Common,Gravitation
-26,Enchantment,Mythic,Urgent Shield
-27,Spell,Common,Ice
-28,Spell,Common,Gale
-29,Artifact,Legendary,Angry Pendant
-30,Creature,Common,Dwarf
-31,Creature,Common,Dwarf
-32,Creature,Rare,Light Merchant Berserker
-33,Artifact,Common,Bow
-34,Spell,Common,Stun
-35,Creature,Rare,Earth Assassin Griffin
-36,Creature,Rare,Earth Undead Fairy
-37,Creature,Common,Orc
-38,Creature,Rare,Death Knight Griffin
-39,Creature,Mythic,Earth Chaos Demon of the Shadows
-40,Creature,Common,Spider
-41,Creature,Common,Paladin
-42,Enchantment,Mythic,Clever Shield
-43,Creature,Rare,Earth Monk Berserker
-44,Spell,Common,Gale
+==================,DECK,4313
+0,Creature,Frozen Merchant Giant of the Eternal Land
+1,Spell,Wall
+2,Creature,Troll
+3,Creature,Ghoul
+4,Creature,Fairy
+5,Creature,Fairy
+6,Spell,Invisibility
+7,Creature,Spider
+8,Creature,Wolf
+9,Artifact,Sigil
+10,Enchantment,Urgent Apocalypse Invert
+11,Creature,Eagle
+12,Creature,Snow Assassin Dwarf of the Magical Forest
+13,Creature,Spider
+14,Artifact,Staff
+15,Creature,Magi
+16,Creature,Spider
+17,Enchantment,Shrink
+18,Enchantment,Flight
+19,Artifact,Cloak
+20,Spell,Gloom Vortex
+21,Creature,Frozen Warrior Dwarf of the Swamp
+22,Creature,Warlock
+23,Creature,Paladin
+24,Creature,Spider
+25,Spell,Heal
+26,Enchantment,Ardent Nature Lethargy
+27,Spell,Stun
+28,Spell,Fireball
+29,Artifact,Irate Miracle Pendant
+30,Creature,Magi
+31,Creature,Magi
+32,Creature,Light Merchant Goblin
+33,Artifact,Bow
+34,Spell,Revive
+35,Creature,Earth Assassin Griffin
+36,Creature,Earth Undead Kraken
+37,Creature,Spider
+38,Creature,Death Knight Griffin
+39,Creature,Earth Chaos Demon of the Shadows
+40,Creature,Paladin
+41,Creature,Troll
+42,Enchantment,Ardent Victory Haste
+43,Creature,Earth Monk Goblin
+44,Spell,Frost

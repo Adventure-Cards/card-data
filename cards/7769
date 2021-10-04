@@ -1,46 +1,46 @@
-==================,DECK,7769,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Shrink
-2,Creature,Common,Spider
-3,Creature,Rare,Death Fighter Griffin
-4,Enchantment,Common,Alacrity
-5,Creature,Mythic,Aura Ancient Demon of the Light
-6,Enchantment,Common,Strength
-7,Creature,Common,Warlock
-8,Creature,Common,Paladin
-9,Enchantment,Common,Deathgrip
-10,Creature,Rare,Frozen Lord Fairy
-11,Enchantment,Rare,Corpse Shade
-12,Creature,Common,Ghoul
-13,Creature,Common,Dwarf
-14,Spell,Rare,Frigid Torment
-15,Creature,Mythic,Earth Nameless Dragon of the Shadows
-16,Artifact,Rare,Necro Ring
-17,Artifact,Common,Gloves
-18,Artifact,Common,Gauntlet
-19,Creature,Common,Paladin
-20,Creature,Common,Elf
-21,Spell,Common,Rage
-22,Creature,Common,Ghoul
-23,Artifact,Legendary,Potent Helm
-24,Creature,Common,Dwarf
-25,Artifact,Legendary,Intense Boots
-26,Enchantment,Rare,Nature Shrink
-27,Enchantment,Rare,Miracle Flight
-28,Creature,Common,Dwarf
-29,Creature,Common,Paladin
-30,Enchantment,Common,Blight
-31,Spell,Common,Gravitation
-32,Creature,Common,Paladin
-33,Enchantment,Common,Deathgrip
-34,Enchantment,Common,Shrink
-35,Creature,Rare,Light Monk Skin-Walker
-36,Creature,Common,Eagle
-37,Enchantment,Rare,Hateful Drain
-38,Creature,Rare,Death Queen Berserker
-39,Creature,Common,Ghoul
-40,Creature,Rare,Snow Lord Fairy
-41,Enchantment,Common,Strength
-42,Spell,Common,Gale
-43,Artifact,Common,Shield
-44,Creature,Common,Warlock
+==================,DECK,7769
+0,Creature,Fairy
+1,Enchantment,Age
+2,Creature,Paladin
+3,Creature,Death Fighter Griffin
+4,Enchantment,Firebreath
+5,Creature,Aura Ancient Demon of the Light
+6,Enchantment,Agony
+7,Creature,Berserker
+8,Creature,Troll
+9,Enchantment,Alacrity
+10,Creature,Frozen Lord Kraken
+11,Enchantment,Necro Lethargy
+12,Creature,Ghoul
+13,Creature,Magi
+14,Spell,Oblivion Pandemonium
+15,Creature,Earth Nameless Dragon of the Shadows
+16,Artifact,Nature Ring
+17,Artifact,Gloves
+18,Artifact,Gauntlet
+19,Creature,Troll
+20,Creature,Warlock
+21,Spell,Fire
+22,Creature,Ghoul
+23,Artifact,Dire Oblivion Helm
+24,Creature,Magi
+25,Artifact,Ardent Necro Boots
+26,Enchantment,Necro Age
+27,Enchantment,Grim Blight
+28,Creature,Magi
+29,Creature,Troll
+30,Enchantment,Blight
+31,Spell,Rage
+32,Creature,Troll
+33,Enchantment,Age
+34,Enchantment,Shrink
+35,Creature,Light Monk Orc
+36,Creature,Eagle
+37,Enchantment,Dark Flight
+38,Creature,Death Queen Goblin
+39,Creature,Ghoul
+40,Creature,Snow Lord Kraken
+41,Enchantment,Lethargy
+42,Spell,Sorrow
+43,Artifact,Shield
+44,Creature,Berserker

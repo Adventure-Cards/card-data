@@ -1,46 +1,46 @@
-==================,DECK,7667,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Goblin
-2,Creature,Common,Ghoul
-3,Creature,Common,Spider
-4,Spell,Legendary,Urgent Frost
-5,Spell,Legendary,Intense Vortex
-6,Enchantment,Common,Flight
-7,Artifact,Legendary,Extreme Shield
-8,Creature,Common,Magi
-9,Enchantment,Common,Alacrity
-10,Artifact,Common,Amulet
-11,Enchantment,Common,Lethargy
-12,Spell,Common,Frenzy
-13,Creature,Common,Paladin
-14,Creature,Rare,Light Monk Berserker
-15,Creature,Common,Goblin
-16,Spell,Common,Assault
-17,Creature,Common,Warlock
-18,Creature,Rare,Death Knight Skin-Walker
-19,Creature,Rare,Aura King Minotaur
-20,Enchantment,Mythic,Mighty Haste
-21,Artifact,Common,Ghost Wand
-22,Creature,Rare,Aura Knight Fairy
-23,Spell,Common,Pandemonium
-24,Creature,Common,Magi
-25,Creature,Mythic,Frozen Nameless Dragon of the Void
-26,Creature,Common,Dwarf
-27,Creature,Legendary,Aura Priest Oni of the Polar Woods
-28,Enchantment,Common,Strength
-29,Creature,Common,Eagle
-30,Creature,Mythic,Dark Nameless Phoenix of Illusion
-31,Creature,Common,Wolf
-32,Creature,Common,Orc
-33,Creature,Common,Wolf
-34,Creature,Common,Warlock
-35,Creature,Common,Spider
-36,Spell,Common,Ice
-37,Spell,Rare,Cataclysmic Pandemonium
-38,Enchantment,Common,Shield
-39,Creature,Mythic,Aura Nameless Dragon of the Light
-40,Creature,Mythic,Light Undead Phoenix of the Sky
-41,Creature,Rare,Dark Queen Fairy
-42,Artifact,Common,Scepter
-43,Spell,Common,Frenzy
-44,Spell,Rare,Cataclysmic Pandemonium
+==================,DECK,7667
+0,Creature,Ghoul
+1,Creature,Skin-Walker
+2,Creature,Ghoul
+3,Creature,Paladin
+4,Spell,Ardent Solar Invisibility
+5,Spell,Instant Hateful Torment
+6,Enchantment,Agony
+7,Artifact,Dire Sorrow Shield
+8,Creature,Fairy
+9,Enchantment,Flight
+10,Artifact,Amulet
+11,Enchantment,Alacrity
+12,Spell,Stricken
+13,Creature,Troll
+14,Creature,Light Monk Goblin
+15,Creature,Skin-Walker
+16,Spell,Gale
+17,Creature,Berserker
+18,Creature,Death Knight Orc
+19,Creature,Aura King Cyclops
+20,Enchantment,Mighty Miracle Flight
+21,Artifact,Ghost Wand
+22,Creature,Aura Knight Kraken
+23,Spell,Torment
+24,Creature,Fairy
+25,Creature,Frozen Nameless Dragon of the Void
+26,Creature,Magi
+27,Creature,Aura Priest Oni of the Polar Woods
+28,Enchantment,Blight
+29,Creature,Eagle
+30,Creature,Dark Nameless Phoenix of Illusion
+31,Creature,Wolf
+32,Creature,Spider
+33,Creature,Wolf
+34,Creature,Berserker
+35,Creature,Paladin
+36,Spell,Vortex
+37,Spell,Cataclysmic Infuriate
+38,Enchantment,Blight
+39,Creature,Aura Nameless Dragon of the Light
+40,Creature,Light Undead Phoenix of the Sky
+41,Creature,Dark Queen Kraken
+42,Artifact,Scepter
+43,Spell,Fury
+44,Spell,Cataclysmic Freeze

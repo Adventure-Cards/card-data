@@ -1,46 +1,46 @@
-==================,DECK,4744,Medium
-0,Creature,Common,Magi
-1,Enchantment,Rare,Oblivion Lethargy
-2,Creature,Common,Ghoul
-3,Creature,Mythic,Frozen Nameless Dragon of the Void
-4,Artifact,Rare,Gloom Helm
-5,Creature,Mythic,Aura Chaos Demon of the Light
-6,Creature,Rare,Earth Lord Fairy
-7,Enchantment,Common,Blight
-8,Enchantment,Legendary,Clever Shade
-9,Spell,Common,Burn
-10,Creature,Rare,Earth King Minotaur
-11,Artifact,Rare,Life Bow
-12,Enchantment,Common,Shrink
-13,Spell,Rare,Shimmering Fury
-14,Creature,Common,Paladin
-15,Enchantment,Rare,Lunar Blight
-16,Creature,Mythic,Light Ancient Demon of the Sky
-17,Spell,Common,Vortex
-18,Enchantment,Rare,Solar Strength
-19,Artifact,Rare,Solar Scythe
-20,Spell,Legendary,Urgent Reanimate
-21,Enchantment,Mythic,Dire Alacrity
-22,Creature,Legendary,Light Fighter Oni of the Bright Mountains
-23,Enchantment,Common,Flight
-24,Creature,Legendary,Death Knight Kraken of the Polar Woods
-25,Creature,Mythic,Aura Nameless Dragon of the Light
-26,Creature,Common,Wolf
-27,Artifact,Common,Helm
-28,Spell,Common,Assault
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Enchantment,Mythic,Potent Agony
-32,Creature,Legendary,Frozen Priest Oni of the Swamp
-33,Creature,Mythic,Frozen Chaos Wizard of the Void
-34,Creature,Common,Magi
-35,Creature,Common,Elf
-36,Creature,Common,Magi
-37,Spell,Common,Reanimate
-38,Spell,Mythic,Urgent Stun
-39,Enchantment,Legendary,Angry Invert
-40,Spell,Mythic,Potent Invisibility
-41,Creature,Common,Dwarf
-42,Creature,Common,Paladin
-43,Creature,Common,Warlock
-44,Artifact,Common,Belt
+==================,DECK,4744
+0,Creature,Fairy
+1,Enchantment,Grim Invert
+2,Creature,Ghoul
+3,Creature,Frozen Nameless Dragon of the Void
+4,Artifact,Sorrow Helm
+5,Creature,Aura Chaos Demon of the Light
+6,Creature,Earth Lord Kraken
+7,Enchantment,Shade
+8,Enchantment,Irate Frigid Blight
+9,Spell,Fury
+10,Creature,Earth King Cyclops
+11,Artifact,Life Bow
+12,Enchantment,Alacrity
+13,Spell,Solar Lightning
+14,Creature,Troll
+15,Enchantment,Cataclysmic Flight
+16,Creature,Light Ancient Demon of the Sky
+17,Spell,Fireball
+18,Enchantment,Solar Deathgrip
+19,Artifact,Solar Scythe
+20,Spell,Mighty Necro Infuriate
+21,Enchantment,Urgent Apocalypse Invert
+22,Creature,Light Fighter Oni of the Bright Mountains
+23,Enchantment,Shrink
+24,Creature,Death Knight Ogre of the Polar Woods
+25,Creature,Aura Nameless Dragon of the Light
+26,Creature,Wolf
+27,Artifact,Helm
+28,Spell,Heal
+29,Creature,Wolf
+30,Creature,Eagle
+31,Enchantment,Irate Life Blight
+32,Creature,Frozen Priest Oni of the Swamp
+33,Creature,Frozen Chaos Wizard of the Void
+34,Creature,Fairy
+35,Creature,Warlock
+36,Creature,Fairy
+37,Spell,Rage
+38,Spell,Clever Necro Hypnosis
+39,Enchantment,Ardent Sorrow Shield
+40,Spell,Instant Frigid Burn
+41,Creature,Magi
+42,Creature,Troll
+43,Creature,Berserker
+44,Artifact,Belt

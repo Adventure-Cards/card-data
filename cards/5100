@@ -1,46 +1,46 @@
-==================,DECK,5100,Medium
-0,Creature,Rare,Earth King Griffin
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Snow King Hydra
-3,Spell,Mythic,Dire Infuriate
-4,Artifact,Common,Sigil
-5,Enchantment,Mythic,Extreme Blight
-6,Creature,Common,Magi
-7,Creature,Rare,Dark Priest Fairy
-8,Creature,Common,Magi
-9,Spell,Legendary,Clever Assault
-10,Creature,Common,Elf
-11,Creature,Common,Warlock
-12,Enchantment,Common,Haste
-13,Enchantment,Legendary,Intense Age
-14,Artifact,Rare,Hateful Ring
-15,Enchantment,Rare,Grim Shield
-16,Enchantment,Common,Flight
-17,Creature,Rare,Frozen Fighter Hydra
-18,Creature,Common,Dwarf
-19,Creature,Legendary,Dark Rogue Orge of the West
-20,Artifact,Rare,Forged Cloak
-21,Artifact,Legendary,Mighty Pendant
-22,Artifact,Rare,Nature Ghost Wand
-23,Creature,Common,Paladin
-24,Creature,Common,Goblin
-25,Enchantment,Rare,Solar Invert
-26,Creature,Common,Elf
-27,Artifact,Rare,Life Sigil
-28,Spell,Common,Gravitation
-29,Spell,Common,Reanimate
-30,Creature,Legendary,Death Monk Orge of the Plains
-31,Creature,Rare,Death Warrior Skin-Walker
-32,Spell,Legendary,Angry Freeze
-33,Enchantment,Mythic,Potent Shield
-34,Creature,Common,Magi
-35,Enchantment,Mythic,Extreme Drain
-36,Creature,Common,Magi
-37,Creature,Rare,Dark Thief Griffin
-38,Enchantment,Common,Blight
-39,Creature,Rare,Death Knight Hydra
-40,Creature,Common,Eagle
-41,Enchantment,Rare,Miracle Blight
-42,Creature,Common,Warlock
-43,Enchantment,Common,Drain
-44,Creature,Common,Orc
+==================,DECK,5100
+0,Creature,Earth King Griffin
+1,Enchantment,Lethargy
+2,Creature,Snow King Hydra
+3,Spell,Clever Life Fireball
+4,Artifact,Sigil
+5,Enchantment,Empyrean Cataclysmic Firebreath
+6,Creature,Fairy
+7,Creature,Dark Priest Kraken
+8,Creature,Fairy
+9,Spell,Instant Victory Reanimate
+10,Creature,Warlock
+11,Creature,Berserker
+12,Enchantment,Agony
+13,Enchantment,Empyrean Nature Age
+14,Artifact,Chimeric Ring
+15,Enchantment,Victory Shade
+16,Enchantment,Drain
+17,Creature,Frozen Fighter Hydra
+18,Creature,Magi
+19,Creature,Dark Rogue Elf of the West
+20,Artifact,Lunar Cloak
+21,Artifact,Irate Sorrow Pendant
+22,Artifact,Forged Ghost Wand
+23,Creature,Troll
+24,Creature,Skin-Walker
+25,Enchantment,Shimmering Agony
+26,Creature,Warlock
+27,Artifact,Life Sigil
+28,Spell,Assault
+29,Spell,Stun
+30,Creature,Death Monk Elf of the Plains
+31,Creature,Death Warrior Orc
+32,Spell,Dire Cataclysmic Stun
+33,Enchantment,Instant Victory Drain
+34,Creature,Fairy
+35,Enchantment,Clever Dark Shield
+36,Creature,Fairy
+37,Creature,Dark Thief Griffin
+38,Enchantment,Firebreath
+39,Creature,Death Knight Hydra
+40,Creature,Eagle
+41,Enchantment,Nimble Drain
+42,Creature,Berserker
+43,Enchantment,Flight
+44,Creature,Spider

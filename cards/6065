@@ -1,46 +1,46 @@
-==================,DECK,6065,Medium
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Eagle
-2,Creature,Mythic,Aura Undead Dragon of the Light
-3,Creature,Common,Magi
-4,Creature,Common,Wolf
-5,Creature,Common,Orc
-6,Creature,Legendary,Snow Lord Orge of the West
-7,Creature,Common,Elf
-8,Enchantment,Common,Alacrity
-9,Creature,Rare,Frozen Fighter Fairy
-10,Spell,Rare,Grim Torment
-11,Enchantment,Rare,Gloom Lethargy
-12,Creature,Rare,Earth Fighter Hydra
-13,Creature,Common,Ghoul
-14,Creature,Common,Ghoul
-15,Creature,Common,Paladin
-16,Creature,Common,Ghoul
-17,Creature,Common,Paladin
-18,Creature,Mythic,Death Ancient Demon of the Dead
-19,Creature,Rare,Dark Assassin Fairy
-20,Creature,Rare,Earth Priest Minotaur
-21,Artifact,Rare,Cataclysmic Pendant
-22,Artifact,Rare,Apocalypse Ghost Wand
-23,Creature,Rare,Death Knight Skin-Walker
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Creature,Rare,Aura Lord Skin-Walker
-27,Spell,Common,Maelstrom
-28,Creature,Rare,Aura Rogue Minotaur
-29,Enchantment,Common,Invert
-30,Creature,Common,Wolf
-31,Enchantment,Mythic,Clever Age
-32,Creature,Common,Magi
-33,Creature,Rare,Aura Rogue Skin-Walker
-34,Enchantment,Common,Flight
-35,Spell,Common,Freeze
-36,Creature,Legendary,Frozen Lord Kraken of the Black Stone
-37,Creature,Common,Wolf
-38,Spell,Common,Revive
-39,Creature,Common,Wolf
-40,Enchantment,Legendary,Extreme Flight
-41,Spell,Rare,Life Stun
-42,Spell,Common,Revive
-43,Artifact,Rare,Miracle Bow
-44,Creature,Common,Paladin
+==================,DECK,6065
+0,Enchantment,Firebreath
+1,Creature,Eagle
+2,Creature,Aura Undead Dragon of the Light
+3,Creature,Fairy
+4,Creature,Wolf
+5,Creature,Spider
+6,Creature,Snow Lord Elf of the West
+7,Creature,Warlock
+8,Enchantment,Firebreath
+9,Creature,Frozen Fighter Kraken
+10,Spell,Frigid Heal
+11,Enchantment,Lunar Firebreath
+12,Creature,Earth Fighter Hydra
+13,Creature,Ghoul
+14,Creature,Ghoul
+15,Creature,Troll
+16,Creature,Ghoul
+17,Creature,Troll
+18,Creature,Death Ancient Demon of the Dead
+19,Creature,Dark Assassin Kraken
+20,Creature,Earth Priest Cyclops
+21,Artifact,Sorrow Pendant
+22,Artifact,Apocalypse Ghost Wand
+23,Creature,Death Knight Orc
+24,Creature,Magi
+25,Creature,Berserker
+26,Creature,Aura Lord Orc
+27,Spell,Frost
+28,Creature,Aura Rogue Cyclops
+29,Enchantment,Agony
+30,Creature,Wolf
+31,Enchantment,Zealous Victory Blight
+32,Creature,Fairy
+33,Creature,Aura Rogue Orc
+34,Enchantment,Strength
+35,Spell,Gale
+36,Creature,Frozen Lord Ogre of the Black Stone
+37,Creature,Wolf
+38,Spell,Fireball
+39,Creature,Wolf
+40,Enchantment,Empyrean Lunar Firebreath
+41,Spell,Life Stun
+42,Spell,Tempest
+43,Artifact,Grim Bow
+44,Creature,Troll

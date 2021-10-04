@@ -1,46 +1,46 @@
-==================,DECK,4783,Light
-0,Artifact,Rare,Corpse Ring
-1,Artifact,Common,Scepter
-2,Creature,Common,Orc
-3,Creature,Mythic,Frozen Ancient Wizard of the Void
-4,Creature,Common,Magi
-5,Artifact,Legendary,Extreme Divine Robe
-6,Creature,Mythic,Snow Chaos Wizard of Hate
-7,Creature,Common,Wolf
-8,Creature,Rare,Earth Fighter Fairy
-9,Artifact,Rare,Hateful Ring
-10,Creature,Common,Ghoul
-11,Enchantment,Legendary,Instant Lethargy
-12,Creature,Common,Orc
-13,Creature,Common,Wolf
-14,Creature,Legendary,Frozen Priest Cyclops of the Black Stone
-15,Enchantment,Common,Shrink
-16,Spell,Common,Maelstrom
-17,Enchantment,Common,Deathgrip
-18,Spell,Common,Hypnosis
-19,Spell,Common,Frost
-20,Creature,Common,Paladin
-21,Artifact,Legendary,Intense Cloak
-22,Creature,Common,Eagle
-23,Spell,Common,Lightning
-24,Artifact,Common,Divine Robe
-25,Spell,Common,Vortex
-26,Creature,Common,Dwarf
-27,Enchantment,Common,Shade
-28,Creature,Common,Goblin
-29,Creature,Rare,Death Priest Hydra
-30,Creature,Common,Warlock
-31,Creature,Common,Dwarf
-32,Creature,Common,Orc
-33,Creature,Common,Orc
-34,Creature,Common,Wolf
-35,Enchantment,Rare,Nature Drain
-36,Creature,Common,Elf
-37,Artifact,Common,Belt
-38,Enchantment,Common,Agony
-39,Spell,Common,Reanimate
-40,Creature,Common,Dwarf
-41,Creature,Rare,Snow Warrior Fairy
-42,Creature,Common,Paladin
-43,Enchantment,Rare,Grim Lethargy
-44,Spell,Common,Gale
+==================,DECK,4783
+0,Artifact,Nature Ring
+1,Artifact,Scepter
+2,Creature,Spider
+3,Creature,Frozen Ancient Wizard of the Void
+4,Creature,Fairy
+5,Artifact,Potent Lunar Divine Robe
+6,Creature,Snow Chaos Wizard of Hate
+7,Creature,Wolf
+8,Creature,Earth Fighter Kraken
+9,Artifact,Miracle Ring
+10,Creature,Ghoul
+11,Enchantment,Irate Hateful Deathgrip
+12,Creature,Spider
+13,Creature,Wolf
+14,Creature,Frozen Priest Giant of the Black Stone
+15,Enchantment,Shield
+16,Spell,Lightning
+17,Enchantment,Shield
+18,Spell,Heal
+19,Spell,Pandemonium
+20,Creature,Troll
+21,Artifact,Ardent Necro Cloak
+22,Creature,Eagle
+23,Spell,Frenzy
+24,Artifact,Divine Robe
+25,Spell,Frost
+26,Creature,Magi
+27,Enchantment,Invert
+28,Creature,Skin-Walker
+29,Creature,Death Priest Hydra
+30,Creature,Berserker
+31,Creature,Magi
+32,Creature,Spider
+33,Creature,Spider
+34,Creature,Wolf
+35,Enchantment,Forged Strength
+36,Creature,Warlock
+37,Artifact,Belt
+38,Enchantment,Flight
+39,Spell,Wall
+40,Creature,Magi
+41,Creature,Snow Warrior Kraken
+42,Creature,Troll
+43,Enchantment,Grim Shade
+44,Spell,Hypnosis

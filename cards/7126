@@ -1,46 +1,46 @@
-==================,DECK,7126,Medium
-0,Creature,Legendary,Death Fighter Oni of the Magical Forest
-1,Creature,Common,Orc
-2,Spell,Common,Torment
-3,Artifact,Rare,Solar Helmet
-4,Creature,Rare,Aura Thief Berserker
-5,Spell,Legendary,Instant Pandemonium
-6,Creature,Common,Dwarf
-7,Creature,Common,Paladin
-8,Spell,Common,Torment
-9,Creature,Legendary,Snow Warrior Oni of the Low Hills
-10,Enchantment,Mythic,Mighty Deathgrip
-11,Creature,Legendary,Light Priest Cyclops of the Eternal Land
-12,Creature,Rare,Aura King Griffin
-13,Enchantment,Legendary,Clever Invert
-14,Creature,Rare,Aura Queen Minotaur
-15,Creature,Common,Elf
-16,Creature,Common,Eagle
-17,Enchantment,Common,Strength
-18,Creature,Common,Ghoul
-19,Spell,Common,Infuriate
-20,Creature,Common,Paladin
-21,Creature,Common,Ghoul
-22,Creature,Common,Warlock
-23,Creature,Common,Warlock
-24,Creature,Rare,Snow Thief Berserker
-25,Spell,Common,Stricken
-26,Creature,Rare,Death Merchant Skin-Walker
-27,Creature,Common,Warlock
-28,Enchantment,Common,Shrink
-29,Creature,Rare,Aura Thief Berserker
-30,Spell,Common,Assault
-31,Creature,Rare,Death Knight Fairy
-32,Spell,Common,Stricken
-33,Spell,Common,Invisibility
-34,Creature,Common,Ghoul
-35,Spell,Common,Fury
-36,Enchantment,Common,Age
-37,Creature,Rare,Aura Fighter Minotaur
-38,Enchantment,Rare,Life Shrink
-39,Enchantment,Rare,Hateful Drain
-40,Creature,Rare,Snow Queen Skin-Walker
-41,Creature,Rare,Light Queen Griffin
-42,Spell,Common,Heal
-43,Spell,Common,Frenzy
-44,Creature,Common,Dwarf
+==================,DECK,7126
+0,Creature,Death Fighter Oni of the Magical Forest
+1,Creature,Spider
+2,Spell,Infuriate
+3,Artifact,Necro Helmet
+4,Creature,Aura Thief Goblin
+5,Spell,Mighty Shimmering Burst
+6,Creature,Magi
+7,Creature,Troll
+8,Spell,Frost
+9,Creature,Snow Warrior Oni of the Low Hills
+10,Enchantment,Empyrean Sorrow Firebreath
+11,Creature,Light Priest Giant of the Eternal Land
+12,Creature,Aura King Griffin
+13,Enchantment,Urgent Oblivion Invert
+14,Creature,Aura Queen Cyclops
+15,Creature,Warlock
+16,Creature,Eagle
+17,Enchantment,Agony
+18,Creature,Ghoul
+19,Spell,Maelstrom
+20,Creature,Troll
+21,Creature,Ghoul
+22,Creature,Berserker
+23,Creature,Berserker
+24,Creature,Snow Thief Goblin
+25,Spell,Reanimate
+26,Creature,Death Merchant Orc
+27,Creature,Berserker
+28,Enchantment,Shade
+29,Creature,Aura Thief Goblin
+30,Spell,Tempest
+31,Creature,Death Knight Kraken
+32,Spell,Frenzy
+33,Spell,Pandemonium
+34,Creature,Ghoul
+35,Spell,Hypnosis
+36,Enchantment,Shield
+37,Creature,Aura Fighter Cyclops
+38,Enchantment,Frigid Shade
+39,Enchantment,Dark Flight
+40,Creature,Snow Queen Orc
+41,Creature,Light Queen Griffin
+42,Spell,Wall
+43,Spell,Stricken
+44,Creature,Magi

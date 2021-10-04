@@ -1,46 +1,46 @@
-==================,DECK,6138,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Ghoul
-2,Creature,Rare,Earth Warrior Skin-Walker
-3,Spell,Common,Gale
-4,Spell,Rare,Shimmering Burst
-5,Creature,Mythic,Snow Ancient Demon of Hate
-6,Spell,Common,Lightning
-7,Spell,Common,Gale
-8,Enchantment,Mythic,Intense Shield
-9,Creature,Common,Dwarf
-10,Creature,Rare,Dark Thief Griffin
-11,Artifact,Common,Boots
-12,Creature,Rare,Earth Knight Berserker
-13,Enchantment,Mythic,Urgent Deathgrip
-14,Creature,Common,Paladin
-15,Artifact,Common,Ring
-16,Spell,Rare,Miracle Gale
-17,Creature,Common,Spider
-18,Creature,Common,Eagle
-19,Enchantment,Mythic,Clever Flight
-20,Creature,Common,Ghoul
-21,Enchantment,Common,Invert
-22,Artifact,Common,Sigil
-23,Creature,Common,Dwarf
-24,Spell,Common,Invisibility
-25,Enchantment,Common,Blight
-26,Enchantment,Rare,Gloom Agony
-27,Enchantment,Common,Alacrity
-28,Enchantment,Mythic,Dire Alacrity
-29,Spell,Rare,Lunar Reanimate
-30,Artifact,Legendary,Dire Belt
-31,Creature,Common,Elf
-32,Spell,Rare,Miracle Pandemonium
-33,Enchantment,Common,Flight
-34,Spell,Rare,Forged Invisibility
-35,Creature,Common,Spider
-36,Spell,Common,Freeze
-37,Creature,Common,Magi
-38,Creature,Common,Spider
-39,Creature,Common,Elf
-40,Creature,Common,Orc
-41,Creature,Common,Wolf
-42,Enchantment,Common,Invert
-43,Creature,Legendary,Dark Assassin Orge of the Bright Mountains
-44,Creature,Common,Spider
+==================,DECK,6138
+0,Creature,Skin-Walker
+1,Creature,Ghoul
+2,Creature,Earth Warrior Orc
+3,Spell,Torment
+4,Spell,Shimmering Stricken
+5,Creature,Snow Ancient Demon of Hate
+6,Spell,Pandemonium
+7,Spell,Sorrow
+8,Enchantment,Ardent Nature Lethargy
+9,Creature,Magi
+10,Creature,Dark Thief Griffin
+11,Artifact,Boots
+12,Creature,Earth Knight Goblin
+13,Enchantment,Empyrean Shimmering Age
+14,Creature,Troll
+15,Artifact,Ring
+16,Spell,Life Fury
+17,Creature,Paladin
+18,Creature,Eagle
+19,Enchantment,Mighty Grim Invert
+20,Creature,Ghoul
+21,Enchantment,Blight
+22,Artifact,Sigil
+23,Creature,Magi
+24,Spell,Heal
+25,Enchantment,Flight
+26,Enchantment,Miracle Firebreath
+27,Enchantment,Strength
+28,Enchantment,Instant Apocalypse Drain
+29,Spell,Gloom Sorrow
+30,Artifact,Empyrean Victory Belt
+31,Creature,Warlock
+32,Spell,Nimble Frenzy
+33,Enchantment,Shield
+34,Spell,Miracle Fire
+35,Creature,Paladin
+36,Spell,Infuriate
+37,Creature,Fairy
+38,Creature,Paladin
+39,Creature,Warlock
+40,Creature,Spider
+41,Creature,Wolf
+42,Enchantment,Agony
+43,Creature,Dark Assassin Elf of the Bright Mountains
+44,Creature,Paladin

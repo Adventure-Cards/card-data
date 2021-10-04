@@ -1,46 +1,46 @@
-==================,DECK,6516,Medium
-0,Creature,Common,Goblin
-1,Spell,Common,Wall
-2,Creature,Common,Spider
-3,Spell,Common,Assault
-4,Creature,Common,Magi
-5,Spell,Common,Vortex
-6,Spell,Common,Burn
-7,Spell,Mythic,Instant Gale
-8,Creature,Common,Orc
-9,Creature,Common,Dwarf
-10,Creature,Common,Paladin
-11,Spell,Common,Pandemonium
-12,Creature,Mythic,Aura Grand Demon of the Light
-13,Creature,Mythic,Earth Ancient Wizard of the Shadows
-14,Creature,Common,Paladin
-15,Enchantment,Rare,Miracle Shrink
-16,Enchantment,Common,Lethargy
-17,Enchantment,Rare,Nimble Lethargy
-18,Creature,Rare,Death Merchant Berserker
-19,Enchantment,Rare,Apocalypse Haste
-20,Creature,Legendary,Death King Orge of the Haven
-21,Creature,Rare,Death Priest Skin-Walker
-22,Spell,Rare,Apocalypse Maelstrom
-23,Creature,Common,Paladin
-24,Creature,Common,Wolf
-25,Spell,Rare,Forged Lightning
-26,Creature,Common,Elf
-27,Creature,Rare,Light Priest Minotaur
-28,Creature,Rare,Earth Fighter Fairy
-29,Enchantment,Common,Age
-30,Creature,Common,Ghoul
-31,Creature,Common,Paladin
-32,Enchantment,Legendary,Potent Deathgrip
-33,Spell,Common,Sorrow
-34,Creature,Rare,Light Knight Minotaur
-35,Creature,Common,Spider
-36,Enchantment,Rare,Nature Age
-37,Enchantment,Legendary,Mighty Shade
-38,Spell,Mythic,Urgent Stricken
-39,Creature,Rare,Light Queen Minotaur
-40,Enchantment,Rare,Frigid Shield
-41,Creature,Rare,Dark Thief Hydra
-42,Spell,Rare,Grim Frenzy
-43,Artifact,Common,Amulet
-44,Spell,Common,Revive
+==================,DECK,6516
+0,Creature,Skin-Walker
+1,Spell,Invisibility
+2,Creature,Paladin
+3,Spell,Fire
+4,Creature,Fairy
+5,Spell,Frenzy
+6,Spell,Gale
+7,Spell,Zealous Hateful Fury
+8,Creature,Spider
+9,Creature,Magi
+10,Creature,Troll
+11,Spell,Fire
+12,Creature,Aura Grand Demon of the Light
+13,Creature,Earth Ancient Wizard of the Shadows
+14,Creature,Troll
+15,Enchantment,Frigid Drain
+16,Enchantment,Drain
+17,Enchantment,Hateful Deathgrip
+18,Creature,Death Merchant Goblin
+19,Enchantment,Life Haste
+20,Creature,Death King Elf of the Haven
+21,Creature,Death Priest Orc
+22,Spell,Life Gale
+23,Creature,Troll
+24,Creature,Wolf
+25,Spell,Lunar Lightning
+26,Creature,Warlock
+27,Creature,Light Priest Cyclops
+28,Creature,Earth Fighter Kraken
+29,Enchantment,Blight
+30,Creature,Ghoul
+31,Creature,Troll
+32,Enchantment,Mighty Oblivion Invert
+33,Spell,Maelstrom
+34,Creature,Light Knight Cyclops
+35,Creature,Paladin
+36,Enchantment,Nature Deathgrip
+37,Enchantment,Instant Chimeric Shrink
+38,Spell,Empyrean Shimmering Rage
+39,Creature,Light Queen Cyclops
+40,Enchantment,Victory Drain
+41,Creature,Dark Thief Hydra
+42,Spell,Nimble Tempest
+43,Artifact,Amulet
+44,Spell,Frost

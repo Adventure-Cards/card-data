@@ -1,46 +1,46 @@
-==================,DECK,4944,Light
-0,Spell,Common,Burst
-1,Creature,Rare,Dark Assassin Hydra
-2,Creature,Common,Spider
-3,Creature,Legendary,Frozen Rogue Cyclops of the Mountains
-4,Artifact,Common,Sigil
-5,Creature,Rare,Dark Knight Griffin
-6,Creature,Common,Goblin
-7,Spell,Common,Invisibility
-8,Creature,Common,Dwarf
-9,Creature,Common,Eagle
-10,Spell,Common,Hypnosis
-11,Creature,Common,Ghoul
-12,Creature,Common,Eagle
-13,Creature,Common,Eagle
-14,Creature,Rare,Snow King Berserker
-15,Creature,Common,Spider
-16,Enchantment,Common,Shade
-17,Enchantment,Common,Blight
-18,Creature,Rare,Earth Rogue Griffin
-19,Spell,Common,Revive
-20,Creature,Rare,Death Queen Fairy
-21,Enchantment,Common,Shade
-22,Creature,Common,Elf
-23,Creature,Rare,Dark Knight Griffin
-24,Spell,Common,Pandemonium
-25,Artifact,Rare,Lunar Sword
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Corpse Shield
-28,Spell,Common,Fury
-29,Spell,Common,Frost
-30,Creature,Common,Paladin
-31,Spell,Common,Vortex
-32,Creature,Common,Paladin
-33,Creature,Common,Wolf
-34,Enchantment,Common,Alacrity
-35,Spell,Common,Gale
-36,Spell,Common,Torment
-37,Artifact,Common,Pendant
-38,Artifact,Legendary,Intense Scepter
-39,Creature,Common,Orc
-40,Artifact,Rare,Life Helmet
-41,Artifact,Rare,Frigid Ghost Wand
-42,Creature,Common,Wolf
-43,Spell,Common,Gravitation
-44,Spell,Legendary,Urgent Ice
+==================,DECK,4944
+0,Spell,Vortex
+1,Creature,Dark Assassin Hydra
+2,Creature,Paladin
+3,Creature,Frozen Rogue Giant of the Mountains
+4,Artifact,Sigil
+5,Creature,Dark Knight Griffin
+6,Creature,Skin-Walker
+7,Spell,Torment
+8,Creature,Magi
+9,Creature,Eagle
+10,Spell,Tempest
+11,Creature,Ghoul
+12,Creature,Eagle
+13,Creature,Eagle
+14,Creature,Snow King Goblin
+15,Creature,Paladin
+16,Enchantment,Haste
+17,Enchantment,Shield
+18,Creature,Earth Rogue Griffin
+19,Spell,Stun
+20,Creature,Death Queen Kraken
+21,Enchantment,Flight
+22,Creature,Warlock
+23,Creature,Dark Knight Griffin
+24,Spell,Ice
+25,Artifact,Cataclysmic Sword
+26,Creature,Magi
+27,Enchantment,Nature Deathgrip
+28,Spell,Ice
+29,Spell,Heal
+30,Creature,Troll
+31,Spell,Burst
+32,Creature,Troll
+33,Creature,Wolf
+34,Enchantment,Shrink
+35,Spell,Torment
+36,Spell,Fire
+37,Artifact,Pendant
+38,Artifact,Instant Nature Scepter
+39,Creature,Spider
+40,Artifact,Apocalypse Helmet
+41,Artifact,Life Ghost Wand
+42,Creature,Wolf
+43,Spell,Maelstrom
+44,Spell,Empyrean Forged Vortex

@@ -1,46 +1,46 @@
-==================,DECK,6336,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Spider
-2,Enchantment,Common,Agony
-3,Creature,Common,Goblin
-4,Creature,Rare,Snow Monk Hydra
-5,Creature,Legendary,Light Merchant Orge of the Low Hills
-6,Creature,Rare,Aura Merchant Minotaur
-7,Creature,Common,Paladin
-8,Creature,Rare,Snow Queen Minotaur
-9,Creature,Common,Wolf
-10,Enchantment,Mythic,Potent Alacrity
-11,Creature,Common,Warlock
-12,Creature,Legendary,Earth Fighter Cyclops of the Low Hills
-13,Creature,Common,Warlock
-14,Creature,Mythic,Earth Chaos Demon of the Shadows
-15,Creature,Common,Elf
-16,Spell,Rare,Nimble Assault
-17,Creature,Rare,Death Fighter Fairy
-18,Spell,Rare,Forged Invisibility
-19,Spell,Common,Pandemonium
-20,Creature,Common,Magi
-21,Creature,Common,Wolf
-22,Spell,Common,Hypnosis
-23,Creature,Rare,Death Thief Skin-Walker
-24,Creature,Common,Paladin
-25,Spell,Rare,Apocalypse Fury
-26,Spell,Rare,Nature Maelstrom
-27,Spell,Common,Rage
-28,Spell,Common,Reanimate
-29,Spell,Common,Gravitation
-30,Spell,Mythic,Instant Burn
-31,Enchantment,Rare,Corpse Shield
-32,Creature,Rare,Dark Fighter Skin-Walker
-33,Creature,Common,Eagle
-34,Creature,Common,Wolf
-35,Enchantment,Rare,Solar Shield
-36,Enchantment,Rare,Cataclysmic Deathgrip
-37,Enchantment,Mythic,Instant Age
-38,Creature,Common,Spider
-39,Creature,Legendary,Aura Monk Cyclops of the Border
-40,Enchantment,Mythic,Dire Lethargy
-41,Spell,Common,Rage
-42,Enchantment,Common,Drain
-43,Creature,Common,Goblin
-44,Creature,Rare,Dark Rogue Skin-Walker
+==================,DECK,6336
+0,Creature,Eagle
+1,Creature,Paladin
+2,Enchantment,Invert
+3,Creature,Skin-Walker
+4,Creature,Snow Monk Hydra
+5,Creature,Light Merchant Elf of the Low Hills
+6,Creature,Aura Merchant Cyclops
+7,Creature,Troll
+8,Creature,Snow Queen Cyclops
+9,Creature,Wolf
+10,Enchantment,Urgent Apocalypse Invert
+11,Creature,Berserker
+12,Creature,Earth Fighter Giant of the Low Hills
+13,Creature,Berserker
+14,Creature,Earth Chaos Demon of the Shadows
+15,Creature,Warlock
+16,Spell,Corpse Wall
+17,Creature,Death Fighter Kraken
+18,Spell,Chimeric Infuriate
+19,Spell,Maelstrom
+20,Creature,Fairy
+21,Creature,Wolf
+22,Spell,Frost
+23,Creature,Death Thief Orc
+24,Creature,Troll
+25,Spell,Apocalypse Fury
+26,Spell,Corpse Revive
+27,Spell,Fireball
+28,Spell,Stun
+29,Spell,Lightning
+30,Spell,Mighty Solar Reanimate
+31,Enchantment,Nature Lethargy
+32,Creature,Dark Fighter Orc
+33,Creature,Eagle
+34,Creature,Wolf
+35,Enchantment,Nature Agony
+36,Enchantment,Sorrow Firebreath
+37,Enchantment,Mighty Nature Agony
+38,Creature,Paladin
+39,Creature,Aura Monk Giant of the Border
+40,Enchantment,Urgent Grim Invert
+41,Spell,Frost
+42,Enchantment,Lethargy
+43,Creature,Skin-Walker
+44,Creature,Dark Rogue Orc

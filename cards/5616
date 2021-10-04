@@ -1,46 +1,46 @@
-==================,DECK,5616,Light
-0,Enchantment,Rare,Cataclysmic Flight
-1,Creature,Common,Magi
-2,Creature,Common,Paladin
-3,Enchantment,Common,Agony
-4,Creature,Mythic,Frozen Undead Dragon of the Void
-5,Creature,Legendary,Light Monk Kraken of the Golden Palace
-6,Spell,Rare,Dark Vortex
-7,Creature,Common,Warlock
-8,Creature,Mythic,Snow Ancient Demon of Hate
-9,Creature,Common,Goblin
-10,Creature,Common,Goblin
-11,Artifact,Rare,Corpse Helm
-12,Spell,Common,Gale
-13,Creature,Common,Warlock
-14,Artifact,Rare,Necro Bow
-15,Creature,Common,Paladin
-16,Artifact,Common,Amulet
-17,Creature,Common,Spider
-18,Enchantment,Common,Alacrity
-19,Spell,Legendary,Instant Vortex
-20,Spell,Rare,Solar Rage
-21,Creature,Common,Goblin
-22,Creature,Common,Wolf
-23,Spell,Legendary,Dire Burn
-24,Creature,Common,Magi
-25,Creature,Common,Orc
-26,Creature,Common,Ghoul
-27,Creature,Common,Paladin
-28,Spell,Common,Vortex
-29,Spell,Rare,Lunar Burn
-30,Artifact,Common,Crown
-31,Enchantment,Common,Haste
-32,Creature,Rare,Dark Rogue Fairy
-33,Enchantment,Common,Drain
-34,Artifact,Common,Helm
-35,Spell,Common,Fury
-36,Creature,Rare,Snow Queen Hydra
-37,Creature,Common,Spider
-38,Spell,Common,Sorrow
-39,Creature,Common,Magi
-40,Creature,Common,Magi
-41,Creature,Legendary,Snow Undead Cyclops of the Golden Palace
-42,Enchantment,Common,Haste
-43,Creature,Common,Eagle
-44,Creature,Common,Goblin
+==================,DECK,5616
+0,Enchantment,Lunar Shrink
+1,Creature,Fairy
+2,Creature,Troll
+3,Enchantment,Age
+4,Creature,Frozen Undead Dragon of the Void
+5,Creature,Light Monk Ogre of the Golden Palace
+6,Spell,Miracle Gale
+7,Creature,Berserker
+8,Creature,Snow Ancient Demon of Hate
+9,Creature,Skin-Walker
+10,Creature,Skin-Walker
+11,Artifact,Shimmering Helm
+12,Spell,Reanimate
+13,Creature,Berserker
+14,Artifact,Shimmering Bow
+15,Creature,Troll
+16,Artifact,Amulet
+17,Creature,Paladin
+18,Enchantment,Blight
+19,Spell,Ardent Shimmering Gale
+20,Spell,Corpse Pandemonium
+21,Creature,Skin-Walker
+22,Creature,Wolf
+23,Spell,Potent Life Pandemonium
+24,Creature,Fairy
+25,Creature,Spider
+26,Creature,Ghoul
+27,Creature,Troll
+28,Spell,Fire
+29,Spell,Lunar Fireball
+30,Artifact,Crown
+31,Enchantment,Firebreath
+32,Creature,Dark Rogue Kraken
+33,Enchantment,Haste
+34,Artifact,Helm
+35,Spell,Heal
+36,Creature,Snow Queen Hydra
+37,Creature,Paladin
+38,Spell,Ice
+39,Creature,Fairy
+40,Creature,Fairy
+41,Creature,Snow Undead Giant of the Golden Palace
+42,Enchantment,Firebreath
+43,Creature,Eagle
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,7784,Light
-0,Creature,Rare,Snow Warrior Griffin
-1,Spell,Common,Frenzy
-2,Spell,Common,Rage
-3,Creature,Common,Warlock
-4,Artifact,Rare,Miracle Scepter
-5,Creature,Common,Orc
-6,Creature,Rare,Light King Griffin
-7,Creature,Common,Ghoul
-8,Enchantment,Common,Shield
-9,Creature,Common,Goblin
-10,Creature,Rare,Snow Queen Berserker
-11,Enchantment,Mythic,Clever Shield
-12,Spell,Common,Frost
-13,Creature,Rare,Aura Fighter Griffin
-14,Creature,Common,Eagle
-15,Spell,Legendary,Extreme Maelstrom
-16,Creature,Common,Ghoul
-17,Enchantment,Legendary,Angry Deathgrip
-18,Artifact,Common,Ghost Wand
-19,Spell,Rare,Necro Burst
-20,Enchantment,Common,Alacrity
-21,Spell,Common,Ice
-22,Enchantment,Rare,Grim Alacrity
-23,Creature,Rare,Frozen Queen Griffin
-24,Creature,Legendary,Frozen Assassin Kraken of the West
-25,Spell,Rare,Gloom Frenzy
-26,Creature,Common,Paladin
-27,Spell,Common,Lightning
-28,Enchantment,Rare,Life Drain
-29,Spell,Common,Stun
-30,Creature,Common,Spider
-31,Creature,Common,Warlock
-32,Creature,Common,Spider
-33,Creature,Common,Eagle
-34,Spell,Rare,Lunar Stricken
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Strength
-37,Spell,Common,Reanimate
-38,Enchantment,Common,Deathgrip
-39,Creature,Legendary,Light Merchant Oni of the Golden Palace
-40,Creature,Common,Spider
-41,Enchantment,Rare,Gloom Strength
-42,Creature,Common,Goblin
-43,Creature,Legendary,Death Priest Orge of the Eternal Land
-44,Creature,Common,Wolf
+==================,DECK,7784
+0,Creature,Snow Warrior Griffin
+1,Spell,Wall
+2,Spell,Fury
+3,Creature,Berserker
+4,Artifact,Life Scepter
+5,Creature,Spider
+6,Creature,Light King Griffin
+7,Creature,Ghoul
+8,Enchantment,Deathgrip
+9,Creature,Skin-Walker
+10,Creature,Snow Queen Goblin
+11,Enchantment,Urgent Victory Invert
+12,Spell,Rage
+13,Creature,Aura Fighter Griffin
+14,Creature,Eagle
+15,Spell,Potent Lunar Assault
+16,Creature,Ghoul
+17,Enchantment,Mighty Sorrow Flight
+18,Artifact,Ghost Wand
+19,Spell,Solar Sorrow
+20,Enchantment,Alacrity
+21,Spell,Wall
+22,Enchantment,Apocalypse Blight
+23,Creature,Frozen Queen Griffin
+24,Creature,Frozen Assassin Ogre of the West
+25,Spell,Sorrow Gravitation
+26,Creature,Troll
+27,Spell,Frost
+28,Enchantment,Apocalypse Blight
+29,Spell,Pandemonium
+30,Creature,Paladin
+31,Creature,Berserker
+32,Creature,Paladin
+33,Creature,Eagle
+34,Spell,Sorrow Heal
+35,Creature,Ghoul
+36,Enchantment,Shrink
+37,Spell,Wall
+38,Enchantment,Haste
+39,Creature,Light Merchant Oni of the Golden Palace
+40,Creature,Paladin
+41,Enchantment,Cataclysmic Flight
+42,Creature,Skin-Walker
+43,Creature,Death Priest Elf of the Eternal Land
+44,Creature,Wolf

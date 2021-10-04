@@ -1,46 +1,46 @@
-==================,DECK,4273,Light
-0,Spell,Rare,Solar Revive
-1,Creature,Common,Warlock
-2,Enchantment,Common,Drain
-3,Artifact,Rare,Solar Ring
-4,Artifact,Common,Cloak
-5,Enchantment,Common,Deathgrip
-6,Creature,Rare,Death Thief Hydra
-7,Creature,Rare,Snow Undead Berserker
-8,Creature,Common,Dwarf
-9,Creature,Common,Dwarf
-10,Creature,Common,Goblin
-11,Creature,Mythic,Snow Ancient Wizard of Hate
-12,Creature,Rare,Light Thief Fairy
-13,Enchantment,Common,Shrink
-14,Artifact,Rare,Apocalypse Staff
-15,Creature,Legendary,Aura Assassin Oni of the Golden Palace
-16,Creature,Common,Warlock
-17,Creature,Legendary,Snow Knight Kraken of the Border
-18,Artifact,Legendary,Dire Greaves
-19,Enchantment,Common,Shrink
-20,Creature,Common,Eagle
-21,Spell,Common,Heal
-22,Artifact,Common,Sword
-23,Creature,Common,Magi
-24,Creature,Common,Orc
-25,Spell,Common,Stun
-26,Creature,Common,Eagle
-27,Creature,Common,Dwarf
-28,Creature,Mythic,Aura Ancient Demon of the Light
-29,Spell,Rare,Miracle Fury
-30,Creature,Legendary,Earth Thief Orge of the Haven
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Common,Drain
-33,Spell,Common,Assault
-34,Enchantment,Common,Drain
-35,Creature,Common,Goblin
-36,Spell,Common,Assault
-37,Enchantment,Common,Haste
-38,Creature,Common,Paladin
-39,Artifact,Common,Ring
-40,Creature,Common,Wolf
-41,Creature,Common,Magi
-42,Creature,Common,Eagle
-43,Enchantment,Rare,Grim Alacrity
-44,Enchantment,Legendary,Potent Lethargy
+==================,DECK,4273
+0,Spell,Nature Hypnosis
+1,Creature,Berserker
+2,Enchantment,Invert
+3,Artifact,Forged Ring
+4,Artifact,Cloak
+5,Enchantment,Shade
+6,Creature,Death Thief Hydra
+7,Creature,Snow Undead Goblin
+8,Creature,Magi
+9,Creature,Magi
+10,Creature,Skin-Walker
+11,Creature,Snow Ancient Wizard of Hate
+12,Creature,Light Thief Kraken
+13,Enchantment,Firebreath
+14,Artifact,Oblivion Staff
+15,Creature,Aura Assassin Oni of the Golden Palace
+16,Creature,Berserker
+17,Creature,Snow Knight Ogre of the Border
+18,Artifact,Urgent Oblivion Greaves
+19,Enchantment,Firebreath
+20,Creature,Eagle
+21,Spell,Stun
+22,Artifact,Sword
+23,Creature,Fairy
+24,Creature,Spider
+25,Spell,Wall
+26,Creature,Eagle
+27,Creature,Magi
+28,Creature,Aura Ancient Demon of the Light
+29,Spell,Frigid Fireball
+30,Creature,Earth Thief Elf of the Haven
+31,Enchantment,Blight
+32,Enchantment,Firebreath
+33,Spell,Vortex
+34,Enchantment,Shade
+35,Creature,Skin-Walker
+36,Spell,Vortex
+37,Enchantment,Haste
+38,Creature,Troll
+39,Artifact,Ring
+40,Creature,Wolf
+41,Creature,Fairy
+42,Creature,Eagle
+43,Enchantment,Apocalypse Drain
+44,Enchantment,Instant Grim Drain

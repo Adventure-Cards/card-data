@@ -1,46 +1,46 @@
-==================,DECK,4425,Light
-0,Spell,Common,Gravitation
-1,Artifact,Rare,Hateful Greaves
-2,Enchantment,Common,Invert
-3,Creature,Rare,Death Priest Skin-Walker
-4,Creature,Common,Warlock
-5,Creature,Common,Magi
-6,Creature,Rare,Frozen Knight Berserker
-7,Spell,Common,Wall
-8,Creature,Common,Dwarf
-9,Creature,Rare,Snow Merchant Hydra
-10,Creature,Common,Elf
-11,Creature,Common,Spider
-12,Enchantment,Rare,Necro Blight
-13,Creature,Legendary,Aura Undead Oni of the Plains
-14,Creature,Legendary,Earth Warrior Kraken of the Eternal Land
-15,Enchantment,Rare,Oblivion Agony
-16,Creature,Rare,Dark Monk Berserker
-17,Enchantment,Legendary,Potent Blight
-18,Creature,Common,Paladin
-19,Creature,Common,Goblin
-20,Creature,Rare,Dark Lord Skin-Walker
-21,Artifact,Common,Ghost Wand
-22,Creature,Rare,Frozen Merchant Hydra
-23,Creature,Common,Wolf
-24,Enchantment,Rare,Cataclysmic Flight
-25,Enchantment,Legendary,Extreme Blight
-26,Creature,Legendary,Dark Lord Kraken of the Bright Mountains
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Creature,Common,Eagle
-30,Enchantment,Rare,Grim Strength
-31,Creature,Common,Elf
-32,Spell,Common,Assault
-33,Enchantment,Rare,Shimmering Age
-34,Spell,Rare,Nimble Freeze
-35,Spell,Common,Infuriate
-36,Artifact,Common,Sigil
-37,Creature,Common,Goblin
-38,Creature,Common,Spider
-39,Creature,Legendary,Snow Rogue Kraken of the Border
-40,Spell,Common,Gale
-41,Creature,Mythic,Aura Grand Wizard of the Light
-42,Creature,Common,Eagle
-43,Creature,Common,Wolf
-44,Creature,Common,Orc
+==================,DECK,4425
+0,Spell,Assault
+1,Artifact,Miracle Greaves
+2,Enchantment,Invert
+3,Creature,Death Priest Orc
+4,Creature,Berserker
+5,Creature,Fairy
+6,Creature,Frozen Knight Goblin
+7,Spell,Stricken
+8,Creature,Magi
+9,Creature,Snow Merchant Hydra
+10,Creature,Warlock
+11,Creature,Paladin
+12,Enchantment,Solar Age
+13,Creature,Aura Undead Oni of the Plains
+14,Creature,Earth Warrior Ogre of the Eternal Land
+15,Enchantment,Life Haste
+16,Creature,Dark Monk Goblin
+17,Enchantment,Zealous Nimble Blight
+18,Creature,Troll
+19,Creature,Skin-Walker
+20,Creature,Dark Lord Orc
+21,Artifact,Ghost Wand
+22,Creature,Frozen Merchant Hydra
+23,Creature,Wolf
+24,Enchantment,Lunar Firebreath
+25,Enchantment,Clever Cataclysmic Shield
+26,Creature,Dark Lord Ogre of the Bright Mountains
+27,Creature,Magi
+28,Creature,Paladin
+29,Creature,Eagle
+30,Enchantment,Nimble Shade
+31,Creature,Warlock
+32,Spell,Burst
+33,Enchantment,Nature Strength
+34,Spell,Necro Assault
+35,Spell,Torment
+36,Artifact,Sigil
+37,Creature,Skin-Walker
+38,Creature,Paladin
+39,Creature,Snow Rogue Ogre of the Border
+40,Spell,Wall
+41,Creature,Aura Grand Wizard of the Light
+42,Creature,Eagle
+43,Creature,Wolf
+44,Creature,Spider

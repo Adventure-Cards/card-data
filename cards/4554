@@ -1,46 +1,46 @@
-==================,DECK,4554,Light
-0,Creature,Mythic,Death Chaos Demon of the Dead
-1,Enchantment,Common,Blight
-2,Enchantment,Common,Age
-3,Creature,Common,Elf
-4,Enchantment,Rare,Corpse Lethargy
-5,Creature,Common,Paladin
-6,Creature,Common,Warlock
-7,Creature,Common,Ghoul
-8,Spell,Rare,Cataclysmic Reanimate
-9,Spell,Rare,Necro Pandemonium
-10,Creature,Common,Elf
-11,Creature,Common,Ghoul
-12,Creature,Rare,Death Queen Fairy
-13,Creature,Common,Magi
-14,Creature,Rare,Earth Merchant Fairy
-15,Spell,Common,Burn
-16,Spell,Common,Pandemonium
-17,Creature,Common,Goblin
-18,Enchantment,Rare,Apocalypse Flight
-19,Spell,Common,Infuriate
-20,Creature,Rare,Snow Queen Hydra
-21,Creature,Rare,Frozen Merchant Berserker
-22,Enchantment,Common,Strength
-23,Spell,Common,Torment
-24,Creature,Common,Elf
-25,Creature,Common,Goblin
-26,Enchantment,Common,Strength
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Wolf
-29,Spell,Rare,Grim Frenzy
-30,Creature,Common,Dwarf
-31,Enchantment,Common,Shrink
-32,Spell,Common,Frost
-33,Spell,Common,Fury
-34,Creature,Common,Warlock
-35,Creature,Rare,Death Rogue Berserker
-36,Creature,Common,Ghoul
-37,Creature,Rare,Light Thief Skin-Walker
-38,Spell,Common,Burst
-39,Enchantment,Common,Alacrity
-40,Enchantment,Mythic,Urgent Deathgrip
-41,Creature,Common,Orc
-42,Creature,Common,Orc
-43,Artifact,Common,Sigil
-44,Creature,Legendary,Dark Merchant Orge of the Golden Palace
+==================,DECK,4554
+0,Creature,Death Chaos Demon of the Dead
+1,Enchantment,Age
+2,Enchantment,Deathgrip
+3,Creature,Warlock
+4,Enchantment,Hateful Lethargy
+5,Creature,Troll
+6,Creature,Berserker
+7,Creature,Ghoul
+8,Spell,Miracle Stun
+9,Spell,Corpse Rage
+10,Creature,Warlock
+11,Creature,Ghoul
+12,Creature,Death Queen Kraken
+13,Creature,Fairy
+14,Creature,Earth Merchant Kraken
+15,Spell,Maelstrom
+16,Spell,Fireball
+17,Creature,Skin-Walker
+18,Enchantment,Grim Invert
+19,Spell,Burst
+20,Creature,Snow Queen Hydra
+21,Creature,Frozen Merchant Goblin
+22,Enchantment,Invert
+23,Spell,Sorrow
+24,Creature,Warlock
+25,Creature,Skin-Walker
+26,Enchantment,Age
+27,Enchantment,Shade
+28,Creature,Wolf
+29,Spell,Life Vortex
+30,Creature,Magi
+31,Enchantment,Age
+32,Spell,Invisibility
+33,Spell,Stricken
+34,Creature,Berserker
+35,Creature,Death Rogue Goblin
+36,Creature,Ghoul
+37,Creature,Light Thief Orc
+38,Spell,Stun
+39,Enchantment,Flight
+40,Enchantment,Potent Shimmering Strength
+41,Creature,Spider
+42,Creature,Spider
+43,Artifact,Sigil
+44,Creature,Dark Merchant Elf of the Golden Palace

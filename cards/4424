@@ -1,46 +1,46 @@
-==================,DECK,4424,Medium
-0,Creature,Common,Spider
-1,Enchantment,Mythic,Dire Alacrity
-2,Spell,Rare,Cataclysmic Maelstrom
-3,Spell,Common,Frost
-4,Enchantment,Common,Deathgrip
-5,Enchantment,Common,Age
-6,Creature,Common,Elf
-7,Spell,Rare,Solar Revive
-8,Enchantment,Legendary,Extreme Blight
-9,Creature,Rare,Dark Undead Berserker
-10,Creature,Legendary,Light Knight Giant of the Eastern Skies
-11,Spell,Legendary,Instant Sorrow
-12,Enchantment,Legendary,Urgent Alacrity
-13,Spell,Common,Stun
-14,Creature,Common,Ghoul
-15,Creature,Rare,Light Lord Griffin
-16,Creature,Legendary,Aura Knight Giant of the Bright Mountains
-17,Enchantment,Legendary,Dire Invert
-18,Creature,Common,Warlock
-19,Artifact,Common,Gloves
-20,Creature,Common,Magi
-21,Spell,Rare,Gloom Gravitation
-22,Creature,Common,Magi
-23,Creature,Common,Elf
-24,Artifact,Common,Scepter
-25,Spell,Legendary,Angry Frenzy
-26,Creature,Mythic,Light Nameless Dragon of the Sky
-27,Artifact,Rare,Oblivion Potion
-28,Artifact,Common,Cloak
-29,Creature,Common,Goblin
-30,Creature,Common,Spider
-31,Creature,Rare,Frozen Fighter Griffin
-32,Artifact,Rare,Nimble Greaves
-33,Creature,Common,Dwarf
-34,Spell,Common,Burn
-35,Enchantment,Rare,Miracle Haste
-36,Creature,Common,Eagle
-37,Artifact,Rare,Lunar Sigil
-38,Creature,Rare,Dark Merchant Minotaur
-39,Enchantment,Common,Shield
-40,Spell,Common,Rage
-41,Enchantment,Common,Shrink
-42,Enchantment,Common,Strength
-43,Artifact,Rare,Necro Shield
-44,Spell,Common,Stun
+==================,DECK,4424
+0,Creature,Paladin
+1,Enchantment,Irate Apocalypse Blight
+2,Spell,Sorrow Hypnosis
+3,Spell,Burn
+4,Enchantment,Invert
+5,Enchantment,Deathgrip
+6,Creature,Warlock
+7,Spell,Solar Ice
+8,Enchantment,Empyrean Cataclysmic Firebreath
+9,Creature,Dark Undead Goblin
+10,Creature,Light Knight Dwarf of the Eastern Skies
+11,Spell,Zealous Shimmering Rage
+12,Enchantment,Ardent Forged Lethargy
+13,Spell,Stun
+14,Creature,Ghoul
+15,Creature,Light Lord Griffin
+16,Creature,Aura Knight Dwarf of the Bright Mountains
+17,Enchantment,Irate Oblivion Blight
+18,Creature,Berserker
+19,Artifact,Gloves
+20,Creature,Fairy
+21,Spell,Lunar Rage
+22,Creature,Fairy
+23,Creature,Warlock
+24,Artifact,Scepter
+25,Spell,Irate Dark Ice
+26,Creature,Light Nameless Dragon of the Sky
+27,Artifact,Nimble Potion
+28,Artifact,Cloak
+29,Creature,Skin-Walker
+30,Creature,Paladin
+31,Creature,Frozen Fighter Griffin
+32,Artifact,Necro Greaves
+33,Creature,Magi
+34,Spell,Tempest
+35,Enchantment,Life Invert
+36,Creature,Eagle
+37,Artifact,Gloom Sigil
+38,Creature,Dark Merchant Cyclops
+39,Enchantment,Strength
+40,Spell,Heal
+41,Enchantment,Lethargy
+42,Enchantment,Shield
+43,Artifact,Nature Shield
+44,Spell,Stricken

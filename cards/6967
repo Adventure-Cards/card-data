@@ -1,46 +1,46 @@
-==================,DECK,6967,Light
-0,Creature,Common,Goblin
-1,Enchantment,Common,Haste
-2,Creature,Common,Orc
-3,Enchantment,Legendary,Instant Alacrity
-4,Enchantment,Legendary,Potent Lethargy
-5,Spell,Common,Fury
-6,Artifact,Common,Scythe
-7,Spell,Common,Wall
-8,Creature,Rare,Light Undead Berserker
-9,Enchantment,Common,Invert
-10,Spell,Common,Gale
-11,Artifact,Common,Helmet
-12,Spell,Common,Reanimate
-13,Creature,Legendary,Earth Assassin Giant of the Polar Woods
-14,Creature,Common,Elf
-15,Creature,Common,Eagle
-16,Creature,Rare,Frozen King Fairy
-17,Creature,Common,Goblin
-18,Creature,Common,Goblin
-19,Creature,Legendary,Death Undead Orge of the Eastern Skies
-20,Enchantment,Common,Drain
-21,Creature,Common,Ghoul
-22,Creature,Rare,Frozen Rogue Griffin
-23,Spell,Common,Freeze
-24,Creature,Common,Magi
-25,Enchantment,Common,Invert
-26,Creature,Common,Paladin
-27,Creature,Common,Ghoul
-28,Artifact,Common,Crown
-29,Creature,Rare,Dark Lord Griffin
-30,Creature,Common,Eagle
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Ghoul
-33,Artifact,Common,Shield
-34,Creature,Legendary,Snow Fighter Kraken of the West
-35,Creature,Common,Wolf
-36,Enchantment,Mythic,Clever Shade
-37,Spell,Common,Torment
-38,Creature,Common,Paladin
-39,Artifact,Rare,Dark Amulet
-40,Creature,Common,Wolf
-41,Artifact,Common,Staff
-42,Enchantment,Common,Haste
-43,Creature,Common,Dwarf
-44,Creature,Rare,Death Undead Hydra
+==================,DECK,6967
+0,Creature,Skin-Walker
+1,Enchantment,Alacrity
+2,Creature,Spider
+3,Enchantment,Dire Forged Age
+4,Enchantment,Dire Grim Shade
+5,Spell,Assault
+6,Artifact,Scythe
+7,Spell,Pandemonium
+8,Creature,Light Undead Goblin
+9,Enchantment,Strength
+10,Spell,Heal
+11,Artifact,Helmet
+12,Spell,Tempest
+13,Creature,Earth Assassin Dwarf of the Polar Woods
+14,Creature,Warlock
+15,Creature,Eagle
+16,Creature,Frozen King Kraken
+17,Creature,Skin-Walker
+18,Creature,Skin-Walker
+19,Creature,Death Undead Elf of the Eastern Skies
+20,Enchantment,Invert
+21,Creature,Ghoul
+22,Creature,Frozen Rogue Griffin
+23,Spell,Vortex
+24,Creature,Fairy
+25,Enchantment,Shrink
+26,Creature,Troll
+27,Creature,Ghoul
+28,Artifact,Crown
+29,Creature,Dark Lord Griffin
+30,Creature,Eagle
+31,Enchantment,Flight
+32,Creature,Ghoul
+33,Artifact,Shield
+34,Creature,Snow Fighter Ogre of the West
+35,Creature,Wolf
+36,Enchantment,Instant Frigid Drain
+37,Spell,Torment
+38,Creature,Troll
+39,Artifact,Chimeric Amulet
+40,Creature,Wolf
+41,Artifact,Staff
+42,Enchantment,Firebreath
+43,Creature,Magi
+44,Creature,Death Undead Hydra

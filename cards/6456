@@ -1,46 +1,46 @@
-==================,DECK,6456,Light
-0,Creature,Common,Ghoul
-1,Spell,Rare,Dark Vortex
-2,Enchantment,Common,Lethargy
-3,Enchantment,Rare,Miracle Blight
-4,Creature,Common,Magi
-5,Artifact,Common,Helmet
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Blight
-8,Creature,Common,Warlock
-9,Spell,Common,Stricken
-10,Creature,Legendary,Snow Assassin Oni of the Swamp
-11,Creature,Common,Goblin
-12,Creature,Common,Dwarf
-13,Spell,Common,Sorrow
-14,Creature,Rare,Earth Undead Skin-Walker
-15,Artifact,Rare,Lunar Bow
-16,Creature,Common,Goblin
-17,Creature,Common,Wolf
-18,Creature,Common,Eagle
-19,Enchantment,Common,Deathgrip
-20,Spell,Common,Frost
-21,Creature,Common,Dwarf
-22,Creature,Common,Wolf
-23,Creature,Rare,Death Lord Fairy
-24,Creature,Common,Goblin
-25,Creature,Common,Eagle
-26,Creature,Common,Goblin
-27,Spell,Legendary,Instant Stun
-28,Artifact,Common,Bow
-29,Artifact,Legendary,Dire Scythe
-30,Spell,Common,Frenzy
-31,Artifact,Common,Gloves
-32,Creature,Common,Eagle
-33,Creature,Common,Eagle
-34,Spell,Common,Wall
-35,Enchantment,Common,Blight
-36,Enchantment,Common,Haste
-37,Creature,Common,Magi
-38,Creature,Common,Magi
-39,Enchantment,Common,Invert
-40,Creature,Common,Paladin
-41,Spell,Rare,Corpse Assault
-42,Creature,Rare,Death Thief Griffin
-43,Creature,Common,Orc
-44,Creature,Common,Dwarf
+==================,DECK,6456
+0,Creature,Ghoul
+1,Spell,Cataclysmic Reanimate
+2,Enchantment,Firebreath
+3,Enchantment,Nimble Drain
+4,Creature,Fairy
+5,Artifact,Helmet
+6,Spell,Ice
+7,Enchantment,Agony
+8,Creature,Berserker
+9,Spell,Sorrow
+10,Creature,Snow Assassin Oni of the Swamp
+11,Creature,Skin-Walker
+12,Creature,Magi
+13,Spell,Burst
+14,Creature,Earth Undead Orc
+15,Artifact,Chimeric Bow
+16,Creature,Skin-Walker
+17,Creature,Wolf
+18,Creature,Eagle
+19,Enchantment,Blight
+20,Spell,Freeze
+21,Creature,Magi
+22,Creature,Wolf
+23,Creature,Death Lord Kraken
+24,Creature,Skin-Walker
+25,Creature,Eagle
+26,Creature,Skin-Walker
+27,Spell,Zealous Forged Sorrow
+28,Artifact,Bow
+29,Artifact,Dire Frigid Scythe
+30,Spell,Fury
+31,Artifact,Gloves
+32,Creature,Eagle
+33,Creature,Eagle
+34,Spell,Pandemonium
+35,Enchantment,Flight
+36,Enchantment,Shield
+37,Creature,Fairy
+38,Creature,Fairy
+39,Enchantment,Shrink
+40,Creature,Troll
+41,Spell,Corpse Maelstrom
+42,Creature,Death Thief Griffin
+43,Creature,Spider
+44,Creature,Magi

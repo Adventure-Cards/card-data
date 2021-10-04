@@ -1,46 +1,46 @@
-==================,DECK,4885,Light
-0,Spell,Rare,Shimmering Stricken
-1,Creature,Common,Warlock
-2,Creature,Legendary,Light Lord Cyclops of the Eastern Skies
-3,Artifact,Common,Potion
-4,Creature,Legendary,Dark Priest Cyclops of the Bright Mountains
-5,Creature,Rare,Death Assassin Fairy
-6,Creature,Rare,Snow Knight Minotaur
-7,Creature,Common,Goblin
-8,Spell,Rare,Forged Invisibility
-9,Creature,Common,Warlock
-10,Creature,Legendary,Aura Fighter Cyclops of the Eastern Skies
-11,Creature,Rare,Frozen Undead Berserker
-12,Artifact,Common,Tome
-13,Creature,Common,Goblin
-14,Creature,Legendary,Aura Assassin Cyclops of the Bright Mountains
-15,Creature,Common,Wolf
-16,Creature,Rare,Death Lord Skin-Walker
-17,Spell,Rare,Lunar Pandemonium
-18,Creature,Common,Paladin
-19,Enchantment,Common,Blight
-20,Artifact,Common,Ring
-21,Spell,Legendary,Potent Stricken
-22,Artifact,Common,Staff
-23,Creature,Rare,Death Priest Minotaur
-24,Creature,Common,Goblin
-25,Creature,Common,Goblin
-26,Creature,Common,Orc
-27,Enchantment,Common,Blight
-28,Creature,Common,Spider
-29,Spell,Legendary,Dire Heal
-30,Spell,Rare,Grim Frenzy
-31,Creature,Common,Wolf
-32,Enchantment,Rare,Grim Shield
-33,Creature,Common,Eagle
-34,Spell,Common,Lightning
-35,Creature,Common,Spider
-36,Creature,Legendary,Death Thief Oni of the Golden Palace
-37,Creature,Common,Wolf
-38,Spell,Common,Sorrow
-39,Spell,Legendary,Dire Ice
-40,Enchantment,Common,Haste
-41,Creature,Common,Wolf
-42,Creature,Common,Warlock
-43,Creature,Common,Warlock
-44,Spell,Common,Rage
+==================,DECK,4885
+0,Spell,Necro Ice
+1,Creature,Berserker
+2,Creature,Light Lord Giant of the Eastern Skies
+3,Artifact,Potion
+4,Creature,Dark Priest Giant of the Bright Mountains
+5,Creature,Death Assassin Kraken
+6,Creature,Snow Knight Cyclops
+7,Creature,Skin-Walker
+8,Spell,Lunar Stun
+9,Creature,Berserker
+10,Creature,Aura Fighter Giant of the Eastern Skies
+11,Creature,Frozen Undead Goblin
+12,Artifact,Tome
+13,Creature,Skin-Walker
+14,Creature,Aura Assassin Giant of the Bright Mountains
+15,Creature,Wolf
+16,Creature,Death Lord Orc
+17,Spell,Dark Sorrow
+18,Creature,Troll
+19,Enchantment,Invert
+20,Artifact,Ring
+21,Spell,Mighty Apocalypse Sorrow
+22,Artifact,Staff
+23,Creature,Death Priest Cyclops
+24,Creature,Skin-Walker
+25,Creature,Skin-Walker
+26,Creature,Spider
+27,Enchantment,Shield
+28,Creature,Paladin
+29,Spell,Urgent Life Lightning
+30,Spell,Oblivion Invisibility
+31,Creature,Wolf
+32,Enchantment,Victory Shade
+33,Creature,Eagle
+34,Spell,Rage
+35,Creature,Paladin
+36,Creature,Death Thief Oni of the Golden Palace
+37,Creature,Wolf
+38,Spell,Sorrow
+39,Spell,Empyrean Oblivion Lightning
+40,Enchantment,Haste
+41,Creature,Wolf
+42,Creature,Berserker
+43,Creature,Berserker
+44,Spell,Fireball

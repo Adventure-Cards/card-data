@@ -1,46 +1,46 @@
-==================,DECK,4570,Light
-0,Creature,Common,Goblin
-1,Artifact,Legendary,Extreme Gauntlet
-2,Creature,Common,Spider
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Alacrity
-5,Creature,Common,Dwarf
-6,Creature,Common,Wolf
-7,Creature,Common,Eagle
-8,Creature,Legendary,Death Lord Giant of the Border
-9,Spell,Common,Maelstrom
-10,Creature,Rare,Death Lord Griffin
-11,Creature,Common,Warlock
-12,Creature,Common,Orc
-13,Creature,Legendary,Death Queen Oni of the Magical Forest
-14,Enchantment,Common,Deathgrip
-15,Enchantment,Common,Haste
-16,Creature,Common,Warlock
-17,Spell,Common,Ice
-18,Creature,Common,Elf
-19,Creature,Common,Warlock
-20,Creature,Common,Spider
-21,Creature,Common,Ghoul
-22,Creature,Common,Goblin
-23,Spell,Common,Invisibility
-24,Spell,Common,Stun
-25,Artifact,Legendary,Dire Greaves
-26,Spell,Rare,Miracle Maelstrom
-27,Enchantment,Rare,Grim Invert
-28,Enchantment,Common,Alacrity
-29,Enchantment,Common,Drain
-30,Creature,Common,Wolf
-31,Artifact,Common,Ghost Wand
-32,Spell,Rare,Nimble Torment
-33,Spell,Common,Ice
-34,Creature,Common,Elf
-35,Spell,Common,Heal
-36,Enchantment,Mythic,Instant Agony
-37,Artifact,Common,Potion
-38,Enchantment,Mythic,Intense Shield
-39,Artifact,Common,Ring
-40,Creature,Common,Magi
-41,Creature,Legendary,Earth King Orge of the Swamp
-42,Artifact,Rare,Frigid Potion
-43,Creature,Common,Eagle
-44,Spell,Common,Wall
+==================,DECK,4570
+0,Creature,Skin-Walker
+1,Artifact,Ardent Cataclysmic Gauntlet
+2,Creature,Paladin
+3,Creature,Magi
+4,Enchantment,Lethargy
+5,Creature,Magi
+6,Creature,Wolf
+7,Creature,Eagle
+8,Creature,Death Lord Dwarf of the Border
+9,Spell,Burst
+10,Creature,Death Lord Griffin
+11,Creature,Berserker
+12,Creature,Spider
+13,Creature,Death Queen Oni of the Magical Forest
+14,Enchantment,Drain
+15,Enchantment,Invert
+16,Creature,Berserker
+17,Spell,Pandemonium
+18,Creature,Warlock
+19,Creature,Berserker
+20,Creature,Paladin
+21,Creature,Ghoul
+22,Creature,Skin-Walker
+23,Spell,Sorrow
+24,Spell,Hypnosis
+25,Artifact,Mighty Grim Greaves
+26,Spell,Oblivion Ice
+27,Enchantment,Oblivion Haste
+28,Enchantment,Lethargy
+29,Enchantment,Flight
+30,Creature,Wolf
+31,Artifact,Ghost Wand
+32,Spell,Solar Infuriate
+33,Spell,Tempest
+34,Creature,Warlock
+35,Spell,Vortex
+36,Enchantment,Instant Corpse Strength
+37,Artifact,Potion
+38,Enchantment,Ardent Nature Lethargy
+39,Artifact,Ring
+40,Creature,Fairy
+41,Creature,Earth King Elf of the Swamp
+42,Artifact,Nimble Potion
+43,Creature,Eagle
+44,Spell,Fireball

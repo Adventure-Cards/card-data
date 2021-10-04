@@ -1,46 +1,46 @@
-==================,DECK,5839,Light
-0,Enchantment,Rare,Life Blight
-1,Creature,Common,Dwarf
-2,Creature,Common,Warlock
-3,Spell,Common,Frost
-4,Creature,Common,Spider
-5,Creature,Rare,Aura Lord Fairy
-6,Artifact,Common,Shield
-7,Creature,Rare,Death Rogue Berserker
-8,Spell,Rare,Life Pandemonium
-9,Creature,Rare,Light Assassin Minotaur
-10,Creature,Common,Warlock
-11,Enchantment,Common,Flight
-12,Creature,Rare,Dark Merchant Hydra
-13,Creature,Common,Ghoul
-14,Creature,Rare,Aura Assassin Hydra
-15,Spell,Common,Stricken
-16,Spell,Common,Sorrow
-17,Creature,Common,Dwarf
-18,Spell,Common,Stricken
-19,Spell,Common,Sorrow
-20,Creature,Common,Goblin
-21,Creature,Rare,Aura Rogue Hydra
-22,Creature,Common,Orc
-23,Spell,Common,Fury
-24,Creature,Rare,Frozen Priest Hydra
-25,Creature,Common,Orc
-26,Creature,Common,Dwarf
-27,Spell,Legendary,Potent Burst
-28,Spell,Common,Lightning
-29,Enchantment,Common,Alacrity
-30,Spell,Common,Burn
-31,Creature,Common,Dwarf
-32,Enchantment,Rare,Miracle Drain
-33,Creature,Rare,Death Merchant Fairy
-34,Enchantment,Rare,Nature Blight
-35,Spell,Common,Burst
-36,Artifact,Rare,Lunar Gauntlet
-37,Enchantment,Mythic,Clever Blight
-38,Creature,Common,Elf
-39,Creature,Common,Magi
-40,Creature,Common,Orc
-41,Artifact,Rare,Hateful Crown
-42,Creature,Common,Orc
-43,Creature,Rare,Snow King Skin-Walker
-44,Creature,Common,Eagle
+==================,DECK,5839
+0,Enchantment,Nimble Shade
+1,Creature,Magi
+2,Creature,Berserker
+3,Spell,Gravitation
+4,Creature,Paladin
+5,Creature,Aura Lord Kraken
+6,Artifact,Shield
+7,Creature,Death Rogue Goblin
+8,Spell,Frigid Infuriate
+9,Creature,Light Assassin Cyclops
+10,Creature,Berserker
+11,Enchantment,Agony
+12,Creature,Dark Merchant Hydra
+13,Creature,Ghoul
+14,Creature,Aura Assassin Hydra
+15,Spell,Tempest
+16,Spell,Fury
+17,Creature,Magi
+18,Spell,Lightning
+19,Spell,Gravitation
+20,Creature,Skin-Walker
+21,Creature,Aura Rogue Hydra
+22,Creature,Spider
+23,Spell,Frost
+24,Creature,Frozen Priest Hydra
+25,Creature,Spider
+26,Creature,Magi
+27,Spell,Potent Victory Torment
+28,Spell,Burst
+29,Enchantment,Shade
+30,Spell,Fury
+31,Creature,Magi
+32,Enchantment,Apocalypse Drain
+33,Creature,Death Merchant Kraken
+34,Enchantment,Solar Strength
+35,Spell,Sorrow
+36,Artifact,Dark Gauntlet
+37,Enchantment,Mighty Nimble Invert
+38,Creature,Warlock
+39,Creature,Fairy
+40,Creature,Spider
+41,Artifact,Chimeric Crown
+42,Creature,Spider
+43,Creature,Snow King Orc
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,7328,Medium
-0,Creature,Common,Orc
-1,Enchantment,Common,Drain
-2,Enchantment,Rare,Solar Shield
-3,Creature,Common,Elf
-4,Artifact,Rare,Nimble Cloak
-5,Creature,Legendary,Dark Thief Orge of the Arctic Blizzards
-6,Creature,Rare,Earth Rogue Berserker
-7,Enchantment,Common,Age
-8,Enchantment,Legendary,Intense Flight
-9,Creature,Rare,Aura Rogue Hydra
-10,Enchantment,Common,Strength
-11,Artifact,Common,Potion
-12,Spell,Common,Burn
-13,Spell,Mythic,Potent Burn
-14,Artifact,Rare,Necro Gloves
-15,Artifact,Common,Helm
-16,Enchantment,Common,Agony
-17,Spell,Rare,Corpse Freeze
-18,Creature,Common,Orc
-19,Enchantment,Legendary,Instant Drain
-20,Creature,Common,Goblin
-21,Enchantment,Common,Age
-22,Artifact,Common,Sword
-23,Creature,Rare,Light Knight Berserker
-24,Creature,Common,Magi
-25,Spell,Rare,Solar Wall
-26,Creature,Mythic,Dark Nameless Dragon of Illusion
-27,Enchantment,Common,Drain
-28,Creature,Common,Warlock
-29,Creature,Rare,Snow Thief Fairy
-30,Creature,Common,Goblin
-31,Enchantment,Mythic,Angry Invert
-32,Enchantment,Common,Invert
-33,Spell,Common,Frenzy
-34,Creature,Common,Ghoul
-35,Creature,Common,Spider
-36,Creature,Rare,Frozen Undead Minotaur
-37,Spell,Rare,Cataclysmic Reanimate
-38,Creature,Common,Magi
-39,Artifact,Rare,Shimmering Greaves
-40,Spell,Legendary,Extreme Reanimate
-41,Enchantment,Common,Shade
-42,Enchantment,Common,Flight
-43,Creature,Common,Paladin
-44,Enchantment,Common,Drain
+==================,DECK,7328
+0,Creature,Spider
+1,Enchantment,Blight
+2,Enchantment,Nature Lethargy
+3,Creature,Warlock
+4,Artifact,Solar Cloak
+5,Creature,Dark Thief Elf of the Arctic Blizzards
+6,Creature,Earth Rogue Goblin
+7,Enchantment,Alacrity
+8,Enchantment,Zealous Hateful Deathgrip
+9,Creature,Aura Rogue Hydra
+10,Enchantment,Strength
+11,Artifact,Potion
+12,Spell,Sorrow
+13,Spell,Zealous Life Gale
+14,Artifact,Nature Gloves
+15,Artifact,Helm
+16,Enchantment,Shield
+17,Spell,Shimmering Maelstrom
+18,Creature,Spider
+19,Enchantment,Potent Forged Strength
+20,Creature,Skin-Walker
+21,Enchantment,Flight
+22,Artifact,Sword
+23,Creature,Light Knight Goblin
+24,Creature,Fairy
+25,Spell,Nature Reanimate
+26,Creature,Dark Nameless Dragon of Illusion
+27,Enchantment,Agony
+28,Creature,Berserker
+29,Creature,Snow Thief Kraken
+30,Creature,Skin-Walker
+31,Enchantment,Dire Sorrow Firebreath
+32,Enchantment,Invert
+33,Spell,Freeze
+34,Creature,Ghoul
+35,Creature,Paladin
+36,Creature,Frozen Undead Cyclops
+37,Spell,Dark Gale
+38,Creature,Fairy
+39,Artifact,Shimmering Greaves
+40,Spell,Clever Chimeric Tempest
+41,Enchantment,Flight
+42,Enchantment,Shrink
+43,Creature,Troll
+44,Enchantment,Blight

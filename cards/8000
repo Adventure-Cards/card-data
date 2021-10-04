@@ -1,46 +1,46 @@
-==================,DECK,8000,Light
-0,Creature,Mythic,Earth Chaos Demon of the Shadows
-1,Creature,Rare,Light Assassin Berserker
-2,Artifact,Legendary,Extreme Cloak
-3,Enchantment,Legendary,Urgent Deathgrip
-4,Creature,Common,Ghoul
-5,Enchantment,Common,Age
-6,Creature,Common,Elf
-7,Spell,Common,Infuriate
-8,Artifact,Common,Helmet
-9,Artifact,Common,Ring
-10,Spell,Common,Lightning
-11,Spell,Common,Sorrow
-12,Artifact,Common,Cloak
-13,Enchantment,Common,Alacrity
-14,Enchantment,Rare,Dark Agony
-15,Spell,Common,Stun
-16,Creature,Common,Goblin
-17,Creature,Rare,Dark Knight Minotaur
-18,Spell,Legendary,Angry Maelstrom
-19,Artifact,Common,Sword
-20,Creature,Rare,Snow Undead Griffin
-21,Spell,Common,Stun
-22,Creature,Rare,Aura Merchant Minotaur
-23,Creature,Rare,Earth Merchant Berserker
-24,Creature,Rare,Death Priest Fairy
-25,Creature,Rare,Earth Undead Fairy
-26,Creature,Common,Dwarf
-27,Spell,Common,Gravitation
-28,Artifact,Common,Bow
-29,Creature,Common,Spider
-30,Spell,Common,Stricken
-31,Creature,Legendary,Snow King Giant of the Mountains
-32,Enchantment,Rare,Lunar Shrink
-33,Creature,Common,Spider
-34,Spell,Common,Revive
-35,Enchantment,Mythic,Clever Lethargy
-36,Creature,Rare,Death Lord Minotaur
-37,Spell,Common,Assault
-38,Spell,Common,Frost
-39,Spell,Legendary,Mighty Freeze
-40,Creature,Common,Elf
-41,Creature,Common,Spider
-42,Artifact,Common,Ghost Wand
-43,Creature,Common,Orc
-44,Enchantment,Common,Deathgrip
+==================,DECK,8000
+0,Creature,Earth Chaos Demon of the Shadows
+1,Creature,Light Assassin Goblin
+2,Artifact,Clever Dark Cloak
+3,Enchantment,Mighty Shimmering Agony
+4,Creature,Ghoul
+5,Enchantment,Shade
+6,Creature,Warlock
+7,Spell,Burst
+8,Artifact,Helmet
+9,Artifact,Ring
+10,Spell,Fireball
+11,Spell,Vortex
+12,Artifact,Cloak
+13,Enchantment,Strength
+14,Enchantment,Miracle Shrink
+15,Spell,Pandemonium
+16,Creature,Skin-Walker
+17,Creature,Dark Knight Cyclops
+18,Spell,Mighty Cataclysmic Fireball
+19,Artifact,Sword
+20,Creature,Snow Undead Griffin
+21,Spell,Torment
+22,Creature,Aura Merchant Cyclops
+23,Creature,Earth Merchant Goblin
+24,Creature,Death Priest Kraken
+25,Creature,Earth Undead Kraken
+26,Creature,Magi
+27,Spell,Stun
+28,Artifact,Bow
+29,Creature,Paladin
+30,Spell,Pandemonium
+31,Creature,Snow King Dwarf of the Mountains
+32,Enchantment,Chimeric Flight
+33,Creature,Paladin
+34,Spell,Sorrow
+35,Enchantment,Ardent Grim Haste
+36,Creature,Death Lord Cyclops
+37,Spell,Invisibility
+38,Spell,Frost
+39,Spell,Dire Gloom Gale
+40,Creature,Warlock
+41,Creature,Paladin
+42,Artifact,Ghost Wand
+43,Creature,Spider
+44,Enchantment,Haste

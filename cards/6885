@@ -1,46 +1,46 @@
-==================,DECK,6885,Light
-0,Enchantment,Common,Age
-1,Creature,Legendary,Earth Rogue Cyclops of the West
-2,Spell,Common,Hypnosis
-3,Artifact,Common,Staff
-4,Spell,Common,Hypnosis
-5,Creature,Common,Elf
-6,Creature,Common,Magi
-7,Creature,Common,Orc
-8,Spell,Common,Lightning
-9,Creature,Common,Elf
-10,Creature,Rare,Earth Warrior Berserker
-11,Creature,Common,Spider
-12,Artifact,Rare,Hateful Helmet
-13,Creature,Common,Ghoul
-14,Creature,Common,Eagle
-15,Spell,Common,Rage
-16,Spell,Common,Wall
-17,Creature,Common,Paladin
-18,Creature,Common,Paladin
-19,Spell,Common,Burn
-20,Spell,Common,Frenzy
-21,Creature,Common,Warlock
-22,Creature,Common,Ghoul
-23,Spell,Common,Ice
-24,Creature,Common,Goblin
-25,Creature,Common,Spider
-26,Spell,Legendary,Dire Maelstrom
-27,Creature,Common,Eagle
-28,Creature,Rare,Earth Undead Fairy
-29,Enchantment,Common,Drain
-30,Enchantment,Mythic,Potent Shade
-31,Creature,Common,Wolf
-32,Creature,Common,Orc
-33,Creature,Legendary,Death King Giant of the Golden Palace
-34,Creature,Common,Spider
-35,Creature,Rare,Light Priest Berserker
-36,Creature,Common,Paladin
-37,Spell,Common,Stricken
-38,Creature,Common,Ghoul
-39,Spell,Common,Lightning
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Haste
-42,Spell,Common,Maelstrom
-43,Creature,Common,Wolf
-44,Creature,Common,Magi
+==================,DECK,6885
+0,Enchantment,Deathgrip
+1,Creature,Earth Rogue Giant of the West
+2,Spell,Hypnosis
+3,Artifact,Staff
+4,Spell,Revive
+5,Creature,Warlock
+6,Creature,Fairy
+7,Creature,Spider
+8,Spell,Fire
+9,Creature,Warlock
+10,Creature,Earth Warrior Goblin
+11,Creature,Paladin
+12,Artifact,Cataclysmic Helmet
+13,Creature,Ghoul
+14,Creature,Eagle
+15,Spell,Freeze
+16,Spell,Gale
+17,Creature,Troll
+18,Creature,Troll
+19,Spell,Gravitation
+20,Spell,Stun
+21,Creature,Berserker
+22,Creature,Ghoul
+23,Spell,Stricken
+24,Creature,Skin-Walker
+25,Creature,Paladin
+26,Spell,Potent Grim Hypnosis
+27,Creature,Eagle
+28,Creature,Earth Undead Kraken
+29,Enchantment,Invert
+30,Enchantment,Dire Frigid Shade
+31,Creature,Wolf
+32,Creature,Spider
+33,Creature,Death King Dwarf of the Golden Palace
+34,Creature,Paladin
+35,Creature,Light Priest Goblin
+36,Creature,Troll
+37,Spell,Fire
+38,Creature,Ghoul
+39,Spell,Frenzy
+40,Creature,Magi
+41,Enchantment,Firebreath
+42,Spell,Frenzy
+43,Creature,Wolf
+44,Creature,Fairy

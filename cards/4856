@@ -1,46 +1,46 @@
-==================,DECK,4856,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Lightning
-2,Enchantment,Rare,Shimmering Blight
-3,Spell,Legendary,Potent Rage
-4,Artifact,Rare,Solar Sigil
-5,Creature,Common,Warlock
-6,Creature,Rare,Dark Warrior Berserker
-7,Enchantment,Common,Blight
-8,Creature,Rare,Earth Warrior Skin-Walker
-9,Creature,Rare,Dark Monk Fairy
-10,Enchantment,Mythic,Clever Strength
-11,Creature,Common,Wolf
-12,Creature,Common,Magi
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Magi
-15,Artifact,Common,Ring
-16,Spell,Rare,Nimble Frost
-17,Enchantment,Common,Drain
-18,Enchantment,Common,Age
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Strength
-21,Creature,Common,Dwarf
-22,Artifact,Rare,Necro Belt
-23,Artifact,Common,Ring
-24,Enchantment,Common,Haste
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Warlock
-27,Enchantment,Common,Drain
-28,Creature,Rare,Snow Lord Fairy
-29,Spell,Common,Hypnosis
-30,Creature,Mythic,Aura Nameless Dragon of the Light
-31,Artifact,Common,Scythe
-32,Creature,Common,Spider
-33,Spell,Common,Reanimate
-34,Creature,Common,Orc
-35,Enchantment,Common,Lethargy
-36,Creature,Common,Dwarf
-37,Spell,Common,Infuriate
-38,Creature,Rare,Frozen Knight Minotaur
-39,Creature,Common,Elf
-40,Enchantment,Common,Lethargy
-41,Spell,Common,Gale
-42,Creature,Common,Orc
-43,Spell,Common,Lightning
-44,Enchantment,Common,Shade
+==================,DECK,4856
+0,Creature,Eagle
+1,Spell,Frost
+2,Enchantment,Solar Agony
+3,Spell,Dire Oblivion Gravitation
+4,Artifact,Solar Sigil
+5,Creature,Berserker
+6,Creature,Dark Warrior Goblin
+7,Enchantment,Deathgrip
+8,Creature,Earth Warrior Orc
+9,Creature,Dark Monk Kraken
+10,Enchantment,Ardent Nimble Haste
+11,Creature,Wolf
+12,Creature,Fairy
+13,Enchantment,Shrink
+14,Creature,Fairy
+15,Artifact,Ring
+16,Spell,Nature Fireball
+17,Enchantment,Shield
+18,Enchantment,Alacrity
+19,Creature,Ghoul
+20,Enchantment,Invert
+21,Creature,Magi
+22,Artifact,Forged Belt
+23,Artifact,Ring
+24,Enchantment,Age
+25,Enchantment,Firebreath
+26,Creature,Berserker
+27,Enchantment,Alacrity
+28,Creature,Snow Lord Kraken
+29,Spell,Assault
+30,Creature,Aura Nameless Dragon of the Light
+31,Artifact,Scythe
+32,Creature,Paladin
+33,Spell,Stricken
+34,Creature,Spider
+35,Enchantment,Deathgrip
+36,Creature,Magi
+37,Spell,Burn
+38,Creature,Frozen Knight Cyclops
+39,Creature,Warlock
+40,Enchantment,Deathgrip
+41,Spell,Gravitation
+42,Creature,Spider
+43,Spell,Fury
+44,Enchantment,Invert

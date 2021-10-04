@@ -1,46 +1,46 @@
-==================,DECK,4193,Medium
-0,Spell,Common,Ice
-1,Creature,Common,Magi
-2,Enchantment,Common,Flight
-3,Enchantment,Mythic,Angry Alacrity
-4,Enchantment,Rare,Forged Invert
-5,Artifact,Common,Gauntlet
-6,Enchantment,Rare,Gloom Lethargy
-7,Creature,Common,Wolf
-8,Creature,Mythic,Aura Ancient Wizard of the Light
-9,Enchantment,Common,Agony
-10,Creature,Common,Wolf
-11,Spell,Common,Heal
-12,Creature,Common,Elf
-13,Creature,Legendary,Frozen Thief Kraken of the Mountains
-14,Artifact,Common,Tome
-15,Creature,Legendary,Earth Lord Orge of the Swamp
-16,Enchantment,Mythic,Urgent Shade
-17,Enchantment,Mythic,Clever Drain
-18,Creature,Common,Elf
-19,Creature,Common,Eagle
-20,Artifact,Rare,Grim Bow
-21,Enchantment,Common,Deathgrip
-22,Spell,Common,Lightning
-23,Artifact,Rare,Grim Potion
-24,Spell,Common,Burst
-25,Artifact,Rare,Apocalypse Belt
-26,Creature,Common,Eagle
-27,Creature,Common,Paladin
-28,Artifact,Common,Divine Robe
-29,Creature,Common,Goblin
-30,Enchantment,Common,Shrink
-31,Enchantment,Rare,Miracle Drain
-32,Creature,Rare,Earth Thief Minotaur
-33,Enchantment,Legendary,Potent Age
-34,Creature,Common,Paladin
-35,Enchantment,Common,Deathgrip
-36,Artifact,Rare,Shimmering Staff
-37,Enchantment,Legendary,Dire Drain
-38,Enchantment,Legendary,Clever Blight
-39,Enchantment,Common,Haste
-40,Creature,Common,Warlock
-41,Artifact,Legendary,Dire Helm
-42,Creature,Rare,Death Queen Berserker
-43,Enchantment,Rare,Nimble Agony
-44,Creature,Rare,Death Thief Berserker
+==================,DECK,4193
+0,Spell,Invisibility
+1,Creature,Fairy
+2,Enchantment,Flight
+3,Enchantment,Irate Dark Alacrity
+4,Enchantment,Sorrow Alacrity
+5,Artifact,Gauntlet
+6,Enchantment,Lunar Shrink
+7,Creature,Wolf
+8,Creature,Aura Ancient Wizard of the Light
+9,Enchantment,Age
+10,Creature,Wolf
+11,Spell,Ice
+12,Creature,Warlock
+13,Creature,Frozen Thief Ogre of the Mountains
+14,Artifact,Tome
+15,Creature,Earth Lord Elf of the Swamp
+16,Enchantment,Dire Necro Age
+17,Enchantment,Empyrean Apocalypse Shade
+18,Creature,Warlock
+19,Creature,Eagle
+20,Artifact,Victory Bow
+21,Enchantment,Invert
+22,Spell,Vortex
+23,Artifact,Frigid Potion
+24,Spell,Rage
+25,Artifact,Oblivion Belt
+26,Creature,Eagle
+27,Creature,Troll
+28,Artifact,Divine Robe
+29,Creature,Skin-Walker
+30,Enchantment,Firebreath
+31,Enchantment,Apocalypse Blight
+32,Creature,Earth Thief Cyclops
+33,Enchantment,Zealous Victory Blight
+34,Creature,Troll
+35,Enchantment,Flight
+36,Artifact,Nature Staff
+37,Enchantment,Empyrean Apocalypse Shade
+38,Enchantment,Mighty Nimble Invert
+39,Enchantment,Drain
+40,Creature,Berserker
+41,Artifact,Empyrean Grim Helm
+42,Creature,Death Queen Goblin
+43,Enchantment,Corpse Deathgrip
+44,Creature,Death Thief Goblin

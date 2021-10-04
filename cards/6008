@@ -1,46 +1,46 @@
-==================,DECK,6008,Light
-0,Spell,Common,Burn
-1,Creature,Common,Orc
-2,Artifact,Rare,Oblivion Tome
-3,Spell,Rare,Miracle Gale
-4,Artifact,Legendary,Instant Sword
-5,Creature,Common,Ghoul
-6,Spell,Common,Rage
-7,Creature,Common,Wolf
-8,Creature,Common,Paladin
-9,Spell,Common,Burn
-10,Artifact,Common,Pendant
-11,Artifact,Common,Ghost Wand
-12,Creature,Common,Wolf
-13,Spell,Common,Vortex
-14,Creature,Common,Eagle
-15,Enchantment,Rare,Dark Lethargy
-16,Spell,Common,Sorrow
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Agony
-19,Enchantment,Mythic,Mighty Lethargy
-20,Enchantment,Common,Shrink
-21,Creature,Common,Elf
-22,Artifact,Common,Divine Robe
-23,Artifact,Common,Greaves
-24,Spell,Common,Invisibility
-25,Enchantment,Common,Age
-26,Creature,Common,Spider
-27,Spell,Rare,Life Sorrow
-28,Enchantment,Common,Blight
-29,Spell,Common,Burn
-30,Creature,Common,Elf
-31,Enchantment,Legendary,Angry Flight
-32,Artifact,Legendary,Mighty Ghost Wand
-33,Enchantment,Common,Blight
-34,Artifact,Common,Sigil
-35,Artifact,Rare,Miracle Ring
-36,Enchantment,Common,Strength
-37,Enchantment,Rare,Miracle Blight
-38,Spell,Common,Stun
-39,Spell,Legendary,Mighty Wall
-40,Spell,Common,Burn
-41,Creature,Common,Paladin
-42,Enchantment,Common,Lethargy
-43,Creature,Common,Wolf
-44,Enchantment,Common,Blight
+==================,DECK,6008
+0,Spell,Ice
+1,Creature,Spider
+2,Artifact,Victory Tome
+3,Spell,Victory Vortex
+4,Artifact,Potent Nature Sword
+5,Creature,Ghoul
+6,Spell,Reanimate
+7,Creature,Wolf
+8,Creature,Troll
+9,Spell,Gravitation
+10,Artifact,Pendant
+11,Artifact,Ghost Wand
+12,Creature,Wolf
+13,Spell,Invisibility
+14,Creature,Eagle
+15,Enchantment,Lunar Alacrity
+16,Spell,Frost
+17,Creature,Magi
+18,Enchantment,Agony
+19,Enchantment,Urgent Lunar Flight
+20,Enchantment,Lethargy
+21,Creature,Warlock
+22,Artifact,Divine Robe
+23,Artifact,Greaves
+24,Spell,Burst
+25,Enchantment,Lethargy
+26,Creature,Paladin
+27,Spell,Victory Fireball
+28,Enchantment,Flight
+29,Spell,Stricken
+30,Creature,Warlock
+31,Enchantment,Empyrean Lunar Firebreath
+32,Artifact,Urgent Dark Ghost Wand
+33,Enchantment,Shield
+34,Artifact,Sigil
+35,Artifact,Apocalypse Ring
+36,Enchantment,Shade
+37,Enchantment,Nimble Blight
+38,Spell,Wall
+39,Spell,Urgent Chimeric Infuriate
+40,Spell,Invisibility
+41,Creature,Troll
+42,Enchantment,Age
+43,Creature,Wolf
+44,Enchantment,Alacrity

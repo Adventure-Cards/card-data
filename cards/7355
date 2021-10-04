@@ -1,46 +1,46 @@
-==================,DECK,7355,Medium
-0,Enchantment,Common,Age
-1,Spell,Rare,Shimmering Sorrow
-2,Enchantment,Common,Shade
-3,Spell,Rare,Frigid Rage
-4,Artifact,Common,Gauntlet
-5,Spell,Rare,Miracle Gale
-6,Spell,Rare,Lunar Fury
-7,Creature,Legendary,Dark Rogue Giant of the Haven
-8,Enchantment,Legendary,Potent Invert
-9,Creature,Common,Wolf
-10,Creature,Common,Warlock
-11,Artifact,Common,Crown
-12,Spell,Legendary,Intense Reanimate
-13,Enchantment,Common,Haste
-14,Artifact,Common,Ring
-15,Creature,Common,Wolf
-16,Enchantment,Common,Invert
-17,Artifact,Common,Belt
-18,Spell,Rare,Lunar Hypnosis
-19,Enchantment,Rare,Cataclysmic Drain
-20,Creature,Rare,Earth King Fairy
-21,Creature,Legendary,Death Thief Oni of the Eternal Land
-22,Spell,Common,Freeze
-23,Spell,Mythic,Dire Stun
-24,Creature,Rare,Snow Undead Griffin
-25,Creature,Common,Wolf
-26,Artifact,Legendary,Extreme Scepter
-27,Creature,Common,Eagle
-28,Enchantment,Rare,Solar Alacrity
-29,Creature,Common,Orc
-30,Enchantment,Common,Invert
-31,Creature,Common,Spider
-32,Artifact,Common,Shield
-33,Creature,Rare,Frozen King Griffin
-34,Creature,Rare,Light Queen Skin-Walker
-35,Enchantment,Rare,Nature Blight
-36,Enchantment,Common,Alacrity
-37,Spell,Common,Burst
-38,Enchantment,Common,Shade
-39,Creature,Common,Paladin
-40,Creature,Rare,Frozen Rogue Hydra
-41,Spell,Rare,Frigid Torment
-42,Creature,Rare,Death Lord Skin-Walker
-43,Creature,Mythic,Dark Time Phoenix of Illusion
-44,Creature,Common,Magi
+==================,DECK,7355
+0,Enchantment,Drain
+1,Spell,Solar Infuriate
+2,Enchantment,Age
+3,Spell,Life Fireball
+4,Artifact,Gauntlet
+5,Spell,Victory Torment
+6,Spell,Chimeric Revive
+7,Creature,Dark Rogue Dwarf of the Haven
+8,Enchantment,Irate Oblivion Blight
+9,Creature,Wolf
+10,Creature,Berserker
+11,Artifact,Crown
+12,Spell,Mighty Forged Frenzy
+13,Enchantment,Shield
+14,Artifact,Ring
+15,Creature,Wolf
+16,Enchantment,Deathgrip
+17,Artifact,Belt
+18,Spell,Sorrow Fire
+19,Enchantment,Dark Alacrity
+20,Creature,Earth King Kraken
+21,Creature,Death Thief Oni of the Eternal Land
+22,Spell,Tempest
+23,Spell,Clever Oblivion Gravitation
+24,Creature,Snow Undead Griffin
+25,Creature,Wolf
+26,Artifact,Potent Lunar Scepter
+27,Creature,Eagle
+28,Enchantment,Forged Agony
+29,Creature,Spider
+30,Enchantment,Flight
+31,Creature,Paladin
+32,Artifact,Shield
+33,Creature,Frozen King Griffin
+34,Creature,Light Queen Orc
+35,Enchantment,Solar Agony
+36,Enchantment,Invert
+37,Spell,Infuriate
+38,Enchantment,Invert
+39,Creature,Troll
+40,Creature,Frozen Rogue Hydra
+41,Spell,Nimble Infuriate
+42,Creature,Death Lord Orc
+43,Creature,Dark Time Phoenix of Illusion
+44,Creature,Fairy

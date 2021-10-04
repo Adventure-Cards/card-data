@@ -1,46 +1,46 @@
-==================,DECK,7644,Medium
-0,Enchantment,Rare,Life Shrink
-1,Creature,Common,Magi
-2,Enchantment,Legendary,Instant Strength
-3,Spell,Common,Frost
-4,Creature,Common,Dwarf
-5,Creature,Rare,Light Warrior Griffin
-6,Enchantment,Common,Shade
-7,Creature,Common,Magi
-8,Spell,Common,Sorrow
-9,Enchantment,Common,Blight
-10,Creature,Legendary,Aura Monk Cyclops of the Swamp
-11,Artifact,Legendary,Angry Sigil
-12,Creature,Common,Spider
-13,Enchantment,Common,Agony
-14,Creature,Legendary,Death Rogue Oni of the Arctic Blizzards
-15,Spell,Common,Rage
-16,Enchantment,Common,Strength
-17,Creature,Common,Goblin
-18,Spell,Common,Burst
-19,Spell,Mythic,Urgent Gravitation
-20,Creature,Common,Paladin
-21,Creature,Legendary,Earth Priest Oni of the Eastern Skies
-22,Enchantment,Common,Alacrity
-23,Spell,Rare,Necro Stricken
-24,Spell,Rare,Frigid Freeze
-25,Creature,Common,Paladin
-26,Creature,Common,Ghoul
-27,Creature,Common,Eagle
-28,Enchantment,Legendary,Intense Blight
-29,Spell,Common,Frost
-30,Enchantment,Common,Shrink
-31,Creature,Rare,Aura Knight Griffin
-32,Spell,Common,Assault
-33,Spell,Legendary,Dire Lightning
-34,Spell,Rare,Shimmering Burn
-35,Creature,Common,Eagle
-36,Creature,Rare,Light Queen Minotaur
-37,Enchantment,Rare,Nimble Invert
-38,Artifact,Common,Gloves
-39,Artifact,Common,Staff
-40,Creature,Common,Spider
-41,Creature,Common,Magi
-42,Artifact,Common,Belt
-43,Creature,Common,Wolf
-44,Creature,Rare,Snow Warrior Fairy
+==================,DECK,7644
+0,Enchantment,Frigid Blight
+1,Creature,Fairy
+2,Enchantment,Urgent Solar Agony
+3,Spell,Gravitation
+4,Creature,Magi
+5,Creature,Light Warrior Griffin
+6,Enchantment,Firebreath
+7,Creature,Fairy
+8,Spell,Sorrow
+9,Enchantment,Firebreath
+10,Creature,Aura Monk Giant of the Swamp
+11,Artifact,Mighty Dark Sigil
+12,Creature,Paladin
+13,Enchantment,Alacrity
+14,Creature,Death Rogue Oni of the Arctic Blizzards
+15,Spell,Revive
+16,Enchantment,Lethargy
+17,Creature,Skin-Walker
+18,Spell,Wall
+19,Spell,Urgent Solar Revive
+20,Creature,Troll
+21,Creature,Earth Priest Oni of the Eastern Skies
+22,Enchantment,Invert
+23,Spell,Nature Infuriate
+24,Spell,Victory Hypnosis
+25,Creature,Troll
+26,Creature,Ghoul
+27,Creature,Eagle
+28,Enchantment,Zealous Solar Deathgrip
+29,Spell,Hypnosis
+30,Enchantment,Invert
+31,Creature,Aura Knight Griffin
+32,Spell,Burst
+33,Spell,Dire Nimble Fireball
+34,Spell,Shimmering Burn
+35,Creature,Eagle
+36,Creature,Light Queen Cyclops
+37,Enchantment,Shimmering Agony
+38,Artifact,Gloves
+39,Artifact,Staff
+40,Creature,Paladin
+41,Creature,Fairy
+42,Artifact,Belt
+43,Creature,Wolf
+44,Creature,Snow Warrior Kraken

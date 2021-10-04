@@ -1,46 +1,46 @@
-==================,DECK,5663,Light
-0,Artifact,Common,Divine Robe
-1,Spell,Common,Stun
-2,Artifact,Legendary,Extreme Greaves
-3,Artifact,Common,Scythe
-4,Enchantment,Common,Alacrity
-5,Enchantment,Common,Flight
-6,Creature,Rare,Dark Monk Hydra
-7,Spell,Legendary,Clever Sorrow
-8,Enchantment,Mythic,Instant Blight
-9,Enchantment,Common,Drain
-10,Creature,Common,Warlock
-11,Creature,Common,Wolf
-12,Creature,Rare,Earth Queen Hydra
-13,Creature,Common,Eagle
-14,Creature,Rare,Snow Lord Berserker
-15,Spell,Common,Burn
-16,Creature,Common,Orc
-17,Creature,Common,Paladin
-18,Enchantment,Common,Drain
-19,Creature,Common,Warlock
-20,Creature,Rare,Light Priest Minotaur
-21,Spell,Common,Assault
-22,Creature,Common,Goblin
-23,Enchantment,Rare,Lunar Haste
-24,Creature,Common,Wolf
-25,Spell,Common,Invisibility
-26,Spell,Common,Torment
-27,Spell,Common,Ice
-28,Creature,Common,Elf
-29,Creature,Common,Ghoul
-30,Creature,Common,Magi
-31,Enchantment,Common,Blight
-32,Creature,Rare,Snow Thief Minotaur
-33,Spell,Common,Stun
-34,Creature,Rare,Frozen Fighter Skin-Walker
-35,Enchantment,Common,Strength
-36,Enchantment,Common,Lethargy
-37,Enchantment,Common,Alacrity
-38,Creature,Common,Magi
-39,Enchantment,Common,Alacrity
-40,Creature,Common,Wolf
-41,Creature,Rare,Aura Thief Hydra
-42,Artifact,Common,Boots
-43,Spell,Common,Burn
-44,Creature,Common,Eagle
+==================,DECK,5663
+0,Artifact,Divine Robe
+1,Spell,Wall
+2,Artifact,Urgent Chimeric Greaves
+3,Artifact,Scythe
+4,Enchantment,Deathgrip
+5,Enchantment,Blight
+6,Creature,Dark Monk Hydra
+7,Spell,Clever Grim Fireball
+8,Enchantment,Zealous Solar Deathgrip
+9,Enchantment,Agony
+10,Creature,Berserker
+11,Creature,Wolf
+12,Creature,Earth Queen Hydra
+13,Creature,Eagle
+14,Creature,Snow Lord Goblin
+15,Spell,Lightning
+16,Creature,Spider
+17,Creature,Troll
+18,Enchantment,Alacrity
+19,Creature,Berserker
+20,Creature,Light Priest Cyclops
+21,Spell,Ice
+22,Creature,Skin-Walker
+23,Enchantment,Miracle Shield
+24,Creature,Wolf
+25,Spell,Stricken
+26,Spell,Lightning
+27,Spell,Frenzy
+28,Creature,Warlock
+29,Creature,Ghoul
+30,Creature,Fairy
+31,Enchantment,Flight
+32,Creature,Snow Thief Cyclops
+33,Spell,Frost
+34,Creature,Frozen Fighter Orc
+35,Enchantment,Invert
+36,Enchantment,Shield
+37,Enchantment,Shrink
+38,Creature,Fairy
+39,Enchantment,Agony
+40,Creature,Wolf
+41,Creature,Aura Thief Hydra
+42,Artifact,Boots
+43,Spell,Lightning
+44,Creature,Eagle

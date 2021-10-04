@@ -1,46 +1,46 @@
-==================,DECK,7440,Medium
-0,Creature,Rare,Aura Warrior Minotaur
-1,Artifact,Rare,Solar Scythe
-2,Creature,Legendary,Frozen Warrior Giant of the Bright Mountains
-3,Artifact,Common,Belt
-4,Enchantment,Common,Lethargy
-5,Artifact,Common,Greaves
-6,Creature,Common,Wolf
-7,Creature,Legendary,Dark King Kraken of the Mountains
-8,Creature,Common,Paladin
-9,Spell,Common,Frenzy
-10,Spell,Rare,Corpse Torment
-11,Enchantment,Mythic,Instant Shield
-12,Artifact,Rare,Shimmering Greaves
-13,Creature,Rare,Death Merchant Berserker
-14,Enchantment,Rare,Cataclysmic Blight
-15,Artifact,Common,Helm
-16,Spell,Common,Burst
-17,Enchantment,Common,Deathgrip
-18,Creature,Legendary,Snow Lord Cyclops of the Mountains
-19,Enchantment,Rare,Solar Invert
-20,Creature,Common,Spider
-21,Creature,Mythic,Aura Ancient Wizard of the Light
-22,Creature,Common,Elf
-23,Spell,Legendary,Urgent Gravitation
-24,Creature,Common,Eagle
-25,Artifact,Common,Pendant
-26,Creature,Common,Magi
-27,Spell,Common,Freeze
-28,Enchantment,Mythic,Instant Lethargy
-29,Enchantment,Rare,Frigid Agony
-30,Creature,Rare,Aura Fighter Fairy
-31,Spell,Common,Ice
-32,Spell,Rare,Hateful Infuriate
-33,Spell,Common,Pandemonium
-34,Spell,Common,Stricken
-35,Creature,Mythic,Snow Nameless Phoenix of Hate
-36,Creature,Common,Paladin
-37,Enchantment,Common,Shield
-38,Enchantment,Common,Deathgrip
-39,Creature,Rare,Frozen Queen Fairy
-40,Enchantment,Rare,Necro Haste
-41,Creature,Common,Dwarf
-42,Creature,Mythic,Frozen Time Phoenix of the Void
-43,Enchantment,Common,Alacrity
-44,Spell,Rare,Miracle Ice
+==================,DECK,7440
+0,Creature,Aura Warrior Cyclops
+1,Artifact,Corpse Scythe
+2,Creature,Frozen Warrior Dwarf of the Bright Mountains
+3,Artifact,Belt
+4,Enchantment,Age
+5,Artifact,Greaves
+6,Creature,Wolf
+7,Creature,Dark King Ogre of the Mountains
+8,Creature,Troll
+9,Spell,Gale
+10,Spell,Solar Lightning
+11,Enchantment,Instant Nature Strength
+12,Artifact,Necro Greaves
+13,Creature,Death Merchant Goblin
+14,Enchantment,Cataclysmic Alacrity
+15,Artifact,Helm
+16,Spell,Assault
+17,Enchantment,Drain
+18,Creature,Snow Lord Giant of the Mountains
+19,Enchantment,Shimmering Agony
+20,Creature,Paladin
+21,Creature,Aura Ancient Wizard of the Light
+22,Creature,Warlock
+23,Spell,Irate Shimmering Gravitation
+24,Creature,Eagle
+25,Artifact,Pendant
+26,Creature,Fairy
+27,Spell,Wall
+28,Enchantment,Urgent Hateful Agony
+29,Enchantment,Life Shade
+30,Creature,Aura Fighter Kraken
+31,Spell,Burst
+32,Spell,Miracle Burst
+33,Spell,Vortex
+34,Spell,Assault
+35,Creature,Snow Nameless Phoenix of Hate
+36,Creature,Troll
+37,Enchantment,Strength
+38,Enchantment,Haste
+39,Creature,Frozen Queen Kraken
+40,Enchantment,Corpse Agony
+41,Creature,Magi
+42,Creature,Frozen Time Phoenix of the Void
+43,Enchantment,Shrink
+44,Spell,Grim Freeze

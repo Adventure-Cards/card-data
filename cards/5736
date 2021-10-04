@@ -1,46 +1,46 @@
-==================,DECK,5736,Light
-0,Spell,Common,Gale
-1,Artifact,Legendary,Extreme Shield
-2,Creature,Common,Goblin
-3,Creature,Rare,Earth Priest Minotaur
-4,Spell,Common,Lightning
-5,Enchantment,Rare,Necro Haste
-6,Creature,Rare,Aura Merchant Skin-Walker
-7,Creature,Common,Warlock
-8,Spell,Common,Stricken
-9,Creature,Common,Orc
-10,Creature,Common,Goblin
-11,Creature,Rare,Snow Undead Fairy
-12,Creature,Common,Magi
-13,Creature,Common,Warlock
-14,Creature,Common,Dwarf
-15,Spell,Common,Burn
-16,Enchantment,Common,Haste
-17,Spell,Common,Pandemonium
-18,Spell,Common,Reanimate
-19,Creature,Common,Elf
-20,Enchantment,Mythic,Urgent Haste
-21,Creature,Rare,Death Queen Skin-Walker
-22,Enchantment,Common,Drain
-23,Creature,Common,Warlock
-24,Creature,Legendary,Death Priest Cyclops of the Polar Woods
-25,Creature,Legendary,Aura Thief Oni of the Golden Palace
-26,Creature,Legendary,Frozen Thief Kraken of the Magical Forest
-27,Creature,Common,Ghoul
-28,Creature,Common,Warlock
-29,Enchantment,Common,Agony
-30,Enchantment,Common,Shield
-31,Enchantment,Common,Shade
-32,Artifact,Common,Potion
-33,Creature,Mythic,Frozen Nameless Dragon of the Void
-34,Enchantment,Mythic,Extreme Flight
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Necro Age
-37,Creature,Legendary,Frozen Monk Oni of the West
-38,Spell,Common,Gale
-39,Spell,Common,Stun
-40,Creature,Common,Spider
-41,Creature,Legendary,Earth Assassin Cyclops of the Black Stone
-42,Enchantment,Common,Haste
-43,Creature,Common,Goblin
-44,Enchantment,Common,Shade
+==================,DECK,5736
+0,Spell,Fireball
+1,Artifact,Dire Sorrow Shield
+2,Creature,Skin-Walker
+3,Creature,Earth Priest Cyclops
+4,Spell,Wall
+5,Enchantment,Corpse Age
+6,Creature,Aura Merchant Orc
+7,Creature,Berserker
+8,Spell,Gale
+9,Creature,Spider
+10,Creature,Skin-Walker
+11,Creature,Snow Undead Kraken
+12,Creature,Fairy
+13,Creature,Berserker
+14,Creature,Magi
+15,Spell,Stricken
+16,Enchantment,Invert
+17,Spell,Frost
+18,Spell,Stun
+19,Creature,Warlock
+20,Enchantment,Clever Corpse Lethargy
+21,Creature,Death Queen Orc
+22,Enchantment,Shade
+23,Creature,Berserker
+24,Creature,Death Priest Giant of the Polar Woods
+25,Creature,Aura Thief Oni of the Golden Palace
+26,Creature,Frozen Thief Ogre of the Magical Forest
+27,Creature,Ghoul
+28,Creature,Berserker
+29,Enchantment,Drain
+30,Enchantment,Agony
+31,Enchantment,Strength
+32,Artifact,Potion
+33,Creature,Frozen Nameless Dragon of the Void
+34,Enchantment,Mighty Lunar Flight
+35,Creature,Troll
+36,Enchantment,Nature Agony
+37,Creature,Frozen Monk Oni of the West
+38,Spell,Infuriate
+39,Spell,Burn
+40,Creature,Paladin
+41,Creature,Earth Assassin Giant of the Black Stone
+42,Enchantment,Age
+43,Creature,Skin-Walker
+44,Enchantment,Haste

@@ -1,46 +1,46 @@
-==================,DECK,4741,Medium
-0,Creature,Common,Wolf
-1,Creature,Common,Paladin
-2,Creature,Common,Paladin
-3,Spell,Common,Fury
-4,Creature,Common,Paladin
-5,Creature,Rare,Earth Undead Fairy
-6,Spell,Legendary,Urgent Pandemonium
-7,Enchantment,Rare,Miracle Shrink
-8,Spell,Rare,Lunar Maelstrom
-9,Spell,Legendary,Instant Burn
-10,Creature,Rare,Dark Undead Skin-Walker
-11,Spell,Common,Heal
-12,Creature,Common,Dwarf
-13,Creature,Common,Dwarf
-14,Creature,Legendary,Death Priest Orge of the Arctic Blizzards
-15,Creature,Common,Eagle
-16,Enchantment,Common,Deathgrip
-17,Artifact,Rare,Frigid Pendant
-18,Creature,Common,Orc
-19,Artifact,Rare,Oblivion Sigil
-20,Creature,Common,Goblin
-21,Spell,Mythic,Instant Heal
-22,Creature,Common,Warlock
-23,Creature,Legendary,Snow Queen Kraken of the Bright Mountains
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Elf
-26,Artifact,Rare,Oblivion Sword
-27,Spell,Rare,Lunar Burn
-28,Creature,Rare,Aura Queen Minotaur
-29,Spell,Common,Frost
-30,Creature,Common,Warlock
-31,Creature,Common,Spider
-32,Enchantment,Rare,Hateful Shrink
-33,Enchantment,Common,Flight
-34,Enchantment,Rare,Nature Age
-35,Enchantment,Common,Shrink
-36,Creature,Common,Dwarf
-37,Creature,Rare,Death Lord Minotaur
-38,Creature,Rare,Aura Thief Fairy
-39,Creature,Rare,Frozen Monk Griffin
-40,Artifact,Common,Shield
-41,Creature,Mythic,Aura Chaos Demon of the Light
-42,Creature,Legendary,Snow Thief Kraken of the Low Hills
-43,Artifact,Common,Belt
-44,Creature,Common,Spider
+==================,DECK,4741
+0,Creature,Wolf
+1,Creature,Troll
+2,Creature,Troll
+3,Spell,Stun
+4,Creature,Troll
+5,Creature,Earth Undead Kraken
+6,Spell,Mighty Nature Stricken
+7,Enchantment,Frigid Shade
+8,Spell,Lunar Maelstrom
+9,Spell,Mighty Forged Wall
+10,Creature,Dark Undead Orc
+11,Spell,Burn
+12,Creature,Magi
+13,Creature,Magi
+14,Creature,Death Priest Elf of the Arctic Blizzards
+15,Creature,Eagle
+16,Enchantment,Shrink
+17,Artifact,Frigid Pendant
+18,Creature,Spider
+19,Artifact,Nimble Sigil
+20,Creature,Skin-Walker
+21,Spell,Urgent Shimmering Invisibility
+22,Creature,Berserker
+23,Creature,Snow Queen Ogre of the Bright Mountains
+24,Enchantment,Flight
+25,Creature,Warlock
+26,Artifact,Oblivion Sword
+27,Spell,Chimeric Torment
+28,Creature,Aura Queen Cyclops
+29,Spell,Frenzy
+30,Creature,Berserker
+31,Creature,Paladin
+32,Enchantment,Chimeric Alacrity
+33,Enchantment,Deathgrip
+34,Enchantment,Nature Age
+35,Enchantment,Deathgrip
+36,Creature,Magi
+37,Creature,Death Lord Cyclops
+38,Creature,Aura Thief Kraken
+39,Creature,Frozen Monk Griffin
+40,Artifact,Shield
+41,Creature,Aura Chaos Demon of the Light
+42,Creature,Snow Thief Ogre of the Low Hills
+43,Artifact,Belt
+44,Creature,Paladin

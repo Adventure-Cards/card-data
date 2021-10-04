@@ -1,46 +1,46 @@
-==================,DECK,5502,Light
-0,Enchantment,Common,Invert
-1,Artifact,Legendary,Potent Helmet
-2,Creature,Common,Warlock
-3,Artifact,Common,Ring
-4,Creature,Common,Eagle
-5,Creature,Common,Paladin
-6,Creature,Common,Warlock
-7,Creature,Common,Goblin
-8,Creature,Common,Orc
-9,Creature,Legendary,Snow Assassin Kraken of the Magical Forest
-10,Creature,Common,Paladin
-11,Enchantment,Common,Agony
-12,Creature,Legendary,Snow Queen Giant of the Low Hills
-13,Creature,Common,Dwarf
-14,Spell,Legendary,Instant Ice
-15,Spell,Common,Rage
-16,Creature,Common,Wolf
-17,Artifact,Common,Crown
-18,Creature,Common,Eagle
-19,Artifact,Rare,Gloom Greaves
-20,Artifact,Rare,Solar Pendant
-21,Creature,Common,Ghoul
-22,Spell,Common,Invisibility
-23,Artifact,Rare,Corpse Shield
-24,Enchantment,Common,Invert
-25,Spell,Common,Torment
-26,Creature,Common,Magi
-27,Creature,Common,Ghoul
-28,Enchantment,Rare,Forged Invert
-29,Spell,Common,Maelstrom
-30,Enchantment,Common,Strength
-31,Spell,Rare,Necro Ice
-32,Creature,Common,Dwarf
-33,Enchantment,Mythic,Urgent Strength
-34,Spell,Legendary,Dire Maelstrom
-35,Spell,Common,Burn
-36,Enchantment,Common,Shield
-37,Spell,Common,Vortex
-38,Creature,Common,Elf
-39,Creature,Legendary,Death Fighter Orge of the Frozen Castle
-40,Enchantment,Common,Shield
-41,Creature,Common,Goblin
-42,Creature,Rare,Snow Lord Fairy
-43,Spell,Common,Stun
-44,Creature,Rare,Aura Assassin Hydra
+==================,DECK,5502
+0,Enchantment,Strength
+1,Artifact,Zealous Victory Helmet
+2,Creature,Berserker
+3,Artifact,Ring
+4,Creature,Eagle
+5,Creature,Troll
+6,Creature,Berserker
+7,Creature,Skin-Walker
+8,Creature,Spider
+9,Creature,Snow Assassin Ogre of the Magical Forest
+10,Creature,Troll
+11,Enchantment,Deathgrip
+12,Creature,Snow Queen Dwarf of the Low Hills
+13,Creature,Magi
+14,Spell,Empyrean Corpse Fury
+15,Spell,Assault
+16,Creature,Wolf
+17,Artifact,Crown
+18,Creature,Eagle
+19,Artifact,Gloom Greaves
+20,Artifact,Solar Pendant
+21,Creature,Ghoul
+22,Spell,Stun
+23,Artifact,Forged Shield
+24,Enchantment,Shrink
+25,Spell,Rage
+26,Creature,Fairy
+27,Creature,Ghoul
+28,Enchantment,Sorrow Firebreath
+29,Spell,Revive
+30,Enchantment,Blight
+31,Spell,Nature Rage
+32,Creature,Magi
+33,Enchantment,Urgent Solar Agony
+34,Spell,Mighty Frigid Lightning
+35,Spell,Maelstrom
+36,Enchantment,Shrink
+37,Spell,Sorrow
+38,Creature,Warlock
+39,Creature,Death Fighter Elf of the Frozen Castle
+40,Enchantment,Strength
+41,Creature,Skin-Walker
+42,Creature,Snow Lord Kraken
+43,Spell,Gravitation
+44,Creature,Aura Assassin Hydra

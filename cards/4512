@@ -1,46 +1,46 @@
-==================,DECK,4512,Light
-0,Creature,Legendary,Light Rogue Kraken of the Magical Forest
-1,Spell,Common,Infuriate
-2,Artifact,Legendary,Potent Scepter
-3,Creature,Common,Paladin
-4,Creature,Rare,Death Queen Griffin
-5,Spell,Common,Torment
-6,Creature,Rare,Frozen Queen Hydra
-7,Enchantment,Common,Shield
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Age
-10,Spell,Common,Maelstrom
-11,Creature,Common,Eagle
-12,Artifact,Common,Bow
-13,Creature,Common,Wolf
-14,Creature,Common,Ghoul
-15,Creature,Common,Eagle
-16,Creature,Common,Goblin
-17,Creature,Common,Dwarf
-18,Spell,Common,Revive
-19,Creature,Common,Ghoul
-20,Enchantment,Rare,Frigid Strength
-21,Spell,Rare,Grim Frost
-22,Creature,Common,Dwarf
-23,Creature,Common,Eagle
-24,Creature,Common,Elf
-25,Creature,Common,Elf
-26,Creature,Common,Orc
-27,Enchantment,Rare,Solar Alacrity
-28,Artifact,Legendary,Instant Potion
-29,Artifact,Common,Cloak
-30,Artifact,Legendary,Dire Gauntlet
-31,Enchantment,Common,Lethargy
-32,Spell,Rare,Shimmering Fury
-33,Spell,Common,Reanimate
-34,Artifact,Common,Crown
-35,Artifact,Common,Helm
-36,Spell,Common,Revive
-37,Creature,Common,Goblin
-38,Spell,Common,Assault
-39,Creature,Mythic,Earth Chaos Wizard of the Shadows
-40,Creature,Common,Magi
-41,Artifact,Common,Bow
-42,Creature,Common,Dwarf
-43,Creature,Common,Orc
-44,Enchantment,Rare,Gloom Agony
+==================,DECK,4512
+0,Creature,Light Rogue Ogre of the Magical Forest
+1,Spell,Stun
+2,Artifact,Instant Life Scepter
+3,Creature,Troll
+4,Creature,Death Queen Griffin
+5,Spell,Hypnosis
+6,Creature,Frozen Queen Hydra
+7,Enchantment,Firebreath
+8,Creature,Magi
+9,Enchantment,Flight
+10,Spell,Hypnosis
+11,Creature,Eagle
+12,Artifact,Bow
+13,Creature,Wolf
+14,Creature,Ghoul
+15,Creature,Eagle
+16,Creature,Skin-Walker
+17,Creature,Magi
+18,Spell,Vortex
+19,Creature,Ghoul
+20,Enchantment,Nimble Shade
+21,Spell,Grim Vortex
+22,Creature,Magi
+23,Creature,Eagle
+24,Creature,Warlock
+25,Creature,Warlock
+26,Creature,Spider
+27,Enchantment,Forged Deathgrip
+28,Artifact,Ardent Shimmering Potion
+29,Artifact,Cloak
+30,Artifact,Clever Apocalypse Gauntlet
+31,Enchantment,Blight
+32,Spell,Solar Hypnosis
+33,Spell,Burst
+34,Artifact,Crown
+35,Artifact,Helm
+36,Spell,Lightning
+37,Creature,Skin-Walker
+38,Spell,Stun
+39,Creature,Earth Chaos Wizard of the Shadows
+40,Creature,Fairy
+41,Artifact,Bow
+42,Creature,Magi
+43,Creature,Spider
+44,Enchantment,Miracle Shield

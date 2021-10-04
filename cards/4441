@@ -1,46 +1,46 @@
-==================,DECK,4441,Light
-0,Creature,Common,Orc
-1,Creature,Common,Orc
-2,Artifact,Common,Boots
-3,Creature,Common,Goblin
-4,Spell,Rare,Apocalypse Stun
-5,Creature,Legendary,Snow King Orge of the Polar Woods
-6,Creature,Common,Orc
-7,Creature,Common,Ghoul
-8,Creature,Rare,Dark Monk Minotaur
-9,Artifact,Common,Bow
-10,Artifact,Common,Gauntlet
-11,Spell,Common,Hypnosis
-12,Creature,Common,Magi
-13,Spell,Common,Hypnosis
-14,Creature,Mythic,Death Undead Dragon of the Dead
-15,Enchantment,Rare,Grim Shade
-16,Creature,Rare,Death Priest Skin-Walker
-17,Creature,Common,Ghoul
-18,Creature,Common,Warlock
-19,Enchantment,Common,Shield
-20,Artifact,Common,Crown
-21,Creature,Rare,Snow Monk Griffin
-22,Spell,Common,Burst
-23,Enchantment,Common,Shade
-24,Artifact,Common,Divine Robe
-25,Creature,Common,Orc
-26,Creature,Common,Warlock
-27,Spell,Common,Reanimate
-28,Spell,Common,Sorrow
-29,Creature,Common,Wolf
-30,Spell,Common,Heal
-31,Enchantment,Common,Invert
-32,Enchantment,Rare,Life Flight
-33,Spell,Rare,Lunar Burn
-34,Enchantment,Common,Alacrity
-35,Creature,Rare,Death Merchant Hydra
-36,Spell,Common,Vortex
-37,Enchantment,Common,Flight
-38,Creature,Common,Magi
-39,Creature,Legendary,Aura Queen Orge of the Mountains
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Orc
-42,Spell,Common,Lightning
-43,Creature,Common,Orc
-44,Enchantment,Common,Shrink
+==================,DECK,4441
+0,Creature,Spider
+1,Creature,Spider
+2,Artifact,Boots
+3,Creature,Skin-Walker
+4,Spell,Victory Vortex
+5,Creature,Snow King Elf of the Polar Woods
+6,Creature,Spider
+7,Creature,Ghoul
+8,Creature,Dark Monk Cyclops
+9,Artifact,Bow
+10,Artifact,Gauntlet
+11,Spell,Burn
+12,Creature,Fairy
+13,Spell,Infuriate
+14,Creature,Death Undead Dragon of the Dead
+15,Enchantment,Frigid Haste
+16,Creature,Death Priest Orc
+17,Creature,Ghoul
+18,Creature,Berserker
+19,Enchantment,Shield
+20,Artifact,Crown
+21,Creature,Snow Monk Griffin
+22,Spell,Tempest
+23,Enchantment,Flight
+24,Artifact,Divine Robe
+25,Creature,Spider
+26,Creature,Berserker
+27,Spell,Fire
+28,Spell,Fury
+29,Creature,Wolf
+30,Spell,Heal
+31,Enchantment,Firebreath
+32,Enchantment,Grim Haste
+33,Spell,Chimeric Rage
+34,Enchantment,Shade
+35,Creature,Death Merchant Hydra
+36,Spell,Ice
+37,Enchantment,Alacrity
+38,Creature,Fairy
+39,Creature,Aura Queen Elf of the Mountains
+40,Enchantment,Blight
+41,Creature,Spider
+42,Spell,Fireball
+43,Creature,Spider
+44,Enchantment,Age

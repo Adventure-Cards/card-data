@@ -1,46 +1,46 @@
-==================,DECK,7294,Medium
-0,Artifact,Legendary,Instant Scythe
-1,Creature,Common,Magi
-2,Creature,Mythic,Frozen Chaos Wizard of the Void
-3,Creature,Common,Magi
-4,Spell,Common,Lightning
-5,Creature,Rare,Light Lord Skin-Walker
-6,Creature,Rare,Light Rogue Berserker
-7,Enchantment,Common,Age
-8,Enchantment,Common,Drain
-9,Spell,Common,Revive
-10,Creature,Rare,Dark Lord Berserker
-11,Artifact,Common,Bracers
-12,Enchantment,Common,Invert
-13,Spell,Legendary,Extreme Stricken
-14,Creature,Common,Magi
-15,Creature,Common,Eagle
-16,Artifact,Rare,Lunar Potion
-17,Enchantment,Rare,Frigid Lethargy
-18,Creature,Common,Elf
-19,Creature,Legendary,Light Undead Cyclops of the Low Hills
-20,Spell,Common,Torment
-21,Creature,Common,Elf
-22,Creature,Common,Spider
-23,Spell,Common,Freeze
-24,Enchantment,Legendary,Angry Alacrity
-25,Creature,Common,Spider
-26,Spell,Common,Wall
-27,Creature,Common,Warlock
-28,Enchantment,Rare,Nimble Invert
-29,Enchantment,Common,Shade
-30,Creature,Mythic,Earth Chaos Wizard of the Shadows
-31,Enchantment,Common,Haste
-32,Creature,Common,Ghoul
-33,Spell,Common,Frost
-34,Creature,Common,Paladin
-35,Creature,Common,Warlock
-36,Creature,Rare,Death Priest Minotaur
-37,Creature,Rare,Aura Fighter Minotaur
-38,Spell,Rare,Hateful Gale
-39,Creature,Common,Eagle
-40,Artifact,Common,Divine Robe
-41,Creature,Common,Goblin
-42,Creature,Rare,Snow Warrior Fairy
-43,Creature,Legendary,Dark Knight Kraken of the Mountains
-44,Spell,Rare,Frigid Rage
+==================,DECK,7294
+0,Artifact,Dire Shimmering Scythe
+1,Creature,Fairy
+2,Creature,Frozen Chaos Wizard of the Void
+3,Creature,Fairy
+4,Spell,Gravitation
+5,Creature,Light Lord Orc
+6,Creature,Light Rogue Goblin
+7,Enchantment,Flight
+8,Enchantment,Shade
+9,Spell,Invisibility
+10,Creature,Dark Lord Goblin
+11,Artifact,Bracers
+12,Enchantment,Alacrity
+13,Spell,Mighty Cataclysmic Assault
+14,Creature,Fairy
+15,Creature,Eagle
+16,Artifact,Gloom Potion
+17,Enchantment,Grim Haste
+18,Creature,Warlock
+19,Creature,Light Undead Giant of the Low Hills
+20,Spell,Maelstrom
+21,Creature,Warlock
+22,Creature,Paladin
+23,Spell,Fury
+24,Enchantment,Urgent Dark Flight
+25,Creature,Paladin
+26,Spell,Invisibility
+27,Creature,Berserker
+28,Enchantment,Shimmering Lethargy
+29,Enchantment,Shield
+30,Creature,Earth Chaos Wizard of the Shadows
+31,Enchantment,Firebreath
+32,Creature,Ghoul
+33,Spell,Lightning
+34,Creature,Troll
+35,Creature,Berserker
+36,Creature,Death Priest Cyclops
+37,Creature,Aura Fighter Cyclops
+38,Spell,Cataclysmic Fire
+39,Creature,Eagle
+40,Artifact,Divine Robe
+41,Creature,Skin-Walker
+42,Creature,Snow Warrior Kraken
+43,Creature,Dark Knight Ogre of the Mountains
+44,Spell,Nimble Gale

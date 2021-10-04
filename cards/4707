@@ -1,46 +1,46 @@
-==================,DECK,4707,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Goblin
-2,Creature,Common,Wolf
-3,Creature,Rare,Dark Rogue Berserker
-4,Creature,Common,Goblin
-5,Creature,Common,Ghoul
-6,Creature,Rare,Dark Rogue Berserker
-7,Enchantment,Common,Deathgrip
-8,Artifact,Common,Greaves
-9,Creature,Common,Dwarf
-10,Creature,Common,Wolf
-11,Spell,Rare,Dark Vortex
-12,Artifact,Common,Sword
-13,Enchantment,Common,Invert
-14,Creature,Common,Wolf
-15,Enchantment,Common,Agony
-16,Artifact,Rare,Nature Helmet
-17,Enchantment,Common,Alacrity
-18,Creature,Rare,Frozen Fighter Griffin
-19,Creature,Common,Warlock
-20,Enchantment,Mythic,Angry Drain
-21,Creature,Common,Orc
-22,Creature,Rare,Earth Knight Fairy
-23,Creature,Mythic,Dark Ancient Wizard of Illusion
-24,Creature,Rare,Light Lord Hydra
-25,Artifact,Common,Boots
-26,Artifact,Common,Gloves
-27,Enchantment,Common,Shield
-28,Spell,Common,Invisibility
-29,Creature,Common,Dwarf
-30,Creature,Legendary,Frozen Undead Orge of the Border
-31,Creature,Common,Wolf
-32,Spell,Rare,Grim Wall
-33,Enchantment,Common,Strength
-34,Creature,Common,Elf
-35,Spell,Rare,Corpse Gravitation
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Spider
-38,Creature,Rare,Light Knight Griffin
-39,Creature,Common,Magi
-40,Creature,Common,Paladin
-41,Creature,Legendary,Frozen Priest Orge of the Low Hills
-42,Spell,Common,Invisibility
-43,Enchantment,Rare,Apocalypse Age
-44,Enchantment,Rare,Lunar Blight
+==================,DECK,4707
+0,Creature,Skin-Walker
+1,Creature,Skin-Walker
+2,Creature,Wolf
+3,Creature,Dark Rogue Goblin
+4,Creature,Skin-Walker
+5,Creature,Ghoul
+6,Creature,Dark Rogue Goblin
+7,Enchantment,Firebreath
+8,Artifact,Greaves
+9,Creature,Magi
+10,Creature,Wolf
+11,Spell,Cataclysmic Wall
+12,Artifact,Sword
+13,Enchantment,Deathgrip
+14,Creature,Wolf
+15,Enchantment,Shrink
+16,Artifact,Shimmering Helmet
+17,Enchantment,Invert
+18,Creature,Frozen Fighter Griffin
+19,Creature,Berserker
+20,Enchantment,Clever Dark Shield
+21,Creature,Spider
+22,Creature,Earth Knight Kraken
+23,Creature,Dark Ancient Wizard of Illusion
+24,Creature,Light Lord Hydra
+25,Artifact,Boots
+26,Artifact,Gloves
+27,Enchantment,Blight
+28,Spell,Fire
+29,Creature,Magi
+30,Creature,Frozen Undead Elf of the Border
+31,Creature,Wolf
+32,Spell,Frigid Rage
+33,Enchantment,Lethargy
+34,Creature,Warlock
+35,Spell,Nature Assault
+36,Enchantment,Alacrity
+37,Creature,Paladin
+38,Creature,Light Knight Griffin
+39,Creature,Fairy
+40,Creature,Troll
+41,Creature,Frozen Priest Elf of the Low Hills
+42,Spell,Heal
+43,Enchantment,Victory Drain
+44,Enchantment,Cataclysmic Shrink

@@ -1,46 +1,46 @@
-==================,DECK,4881,Light
-0,Spell,Common,Wall
-1,Enchantment,Common,Haste
-2,Enchantment,Rare,Cataclysmic Haste
-3,Spell,Common,Frost
-4,Enchantment,Legendary,Dire Invert
-5,Artifact,Common,Bracers
-6,Creature,Common,Wolf
-7,Creature,Common,Dwarf
-8,Artifact,Rare,Corpse Divine Robe
-9,Creature,Common,Wolf
-10,Creature,Common,Dwarf
-11,Creature,Common,Magi
-12,Artifact,Common,Bracers
-13,Spell,Legendary,Extreme Stricken
-14,Spell,Common,Torment
-15,Artifact,Legendary,Extreme Ring
-16,Creature,Legendary,Earth Monk Orge of the Arctic Blizzards
-17,Creature,Legendary,Earth Rogue Giant of the Low Hills
-18,Enchantment,Common,Shield
-19,Creature,Mythic,Light Grand Wizard of the Sky
-20,Artifact,Common,Crown
-21,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-22,Creature,Common,Magi
-23,Spell,Common,Freeze
-24,Enchantment,Mythic,Instant Shrink
-25,Enchantment,Rare,Lunar Deathgrip
-26,Creature,Rare,Death Assassin Skin-Walker
-27,Creature,Rare,Frozen Lord Minotaur
-28,Creature,Rare,Earth Knight Minotaur
-29,Enchantment,Rare,Life Flight
-30,Enchantment,Common,Alacrity
-31,Spell,Common,Fury
-32,Creature,Mythic,Death Grand Wizard of the Dead
-33,Creature,Common,Orc
-34,Spell,Common,Stun
-35,Spell,Rare,Solar Heal
-36,Creature,Common,Eagle
-37,Creature,Legendary,Snow Undead Cyclops of the Low Hills
-38,Creature,Common,Elf
-39,Creature,Common,Warlock
-40,Enchantment,Rare,Corpse Shield
-41,Spell,Common,Torment
-42,Creature,Common,Elf
-43,Enchantment,Common,Haste
-44,Enchantment,Mythic,Angry Flight
+==================,DECK,4881
+0,Spell,Frost
+1,Enchantment,Shade
+2,Enchantment,Miracle Firebreath
+3,Spell,Lightning
+4,Enchantment,Instant Oblivion Drain
+5,Artifact,Bracers
+6,Creature,Wolf
+7,Creature,Magi
+8,Artifact,Hateful Divine Robe
+9,Creature,Wolf
+10,Creature,Magi
+11,Creature,Fairy
+12,Artifact,Bracers
+13,Spell,Empyrean Sorrow Gravitation
+14,Spell,Maelstrom
+15,Artifact,Potent Gloom Ring
+16,Creature,Earth Monk Elf of the Arctic Blizzards
+17,Creature,Earth Rogue Dwarf of the Low Hills
+18,Enchantment,Haste
+19,Creature,Light Grand Wizard of the Sky
+20,Artifact,Crown
+21,Creature,Earth Nameless Phoenix of the Shadows
+22,Creature,Fairy
+23,Spell,Heal
+24,Enchantment,Zealous Necro Deathgrip
+25,Enchantment,Sorrow Shrink
+26,Creature,Death Assassin Orc
+27,Creature,Frozen Lord Cyclops
+28,Creature,Earth Knight Cyclops
+29,Enchantment,Grim Drain
+30,Enchantment,Shrink
+31,Spell,Frenzy
+32,Creature,Death Grand Wizard of the Dead
+33,Creature,Spider
+34,Spell,Gravitation
+35,Spell,Forged Burst
+36,Creature,Eagle
+37,Creature,Snow Undead Giant of the Low Hills
+38,Creature,Warlock
+39,Creature,Berserker
+40,Enchantment,Nature Lethargy
+41,Spell,Frost
+42,Creature,Warlock
+43,Enchantment,Strength
+44,Enchantment,Zealous Lunar Alacrity

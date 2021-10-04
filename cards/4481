@@ -1,46 +1,46 @@
-==================,DECK,4481,Light
-0,Spell,Common,Heal
-1,Enchantment,Legendary,Urgent Shield
-2,Creature,Common,Warlock
-3,Enchantment,Common,Deathgrip
-4,Spell,Common,Wall
-5,Creature,Rare,Death King Griffin
-6,Spell,Rare,Lunar Stun
-7,Spell,Common,Ice
-8,Creature,Common,Paladin
-9,Creature,Common,Paladin
-10,Spell,Common,Frenzy
-11,Creature,Common,Elf
-12,Artifact,Common,Ring
-13,Artifact,Common,Ring
-14,Enchantment,Mythic,Mighty Agony
-15,Creature,Common,Dwarf
-16,Artifact,Common,Staff
-17,Enchantment,Common,Lethargy
-18,Creature,Common,Wolf
-19,Creature,Common,Dwarf
-20,Spell,Rare,Forged Torment
-21,Spell,Common,Gravitation
-22,Creature,Common,Spider
-23,Enchantment,Mythic,Potent Strength
-24,Artifact,Rare,Apocalypse Tome
-25,Enchantment,Legendary,Dire Shield
-26,Spell,Common,Burst
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Wolf
-29,Creature,Rare,Dark Knight Hydra
-30,Enchantment,Legendary,Potent Lethargy
-31,Creature,Common,Warlock
-32,Creature,Common,Ghoul
-33,Creature,Rare,Frozen Undead Fairy
-34,Creature,Common,Dwarf
-35,Artifact,Legendary,Instant Bracers
-36,Spell,Legendary,Intense Rage
-37,Creature,Common,Goblin
-38,Spell,Rare,Nimble Invisibility
-39,Creature,Common,Warlock
-40,Spell,Legendary,Urgent Lightning
-41,Creature,Common,Eagle
-42,Creature,Legendary,Aura Warrior Kraken of the Black Stone
-43,Creature,Common,Orc
-44,Spell,Common,Burn
+==================,DECK,4481
+0,Spell,Freeze
+1,Enchantment,Urgent Nature Agony
+2,Creature,Berserker
+3,Enchantment,Blight
+4,Spell,Burst
+5,Creature,Death King Griffin
+6,Spell,Miracle Freeze
+7,Spell,Lightning
+8,Creature,Troll
+9,Creature,Troll
+10,Spell,Reanimate
+11,Creature,Warlock
+12,Artifact,Ring
+13,Artifact,Ring
+14,Enchantment,Instant Miracle Shrink
+15,Creature,Magi
+16,Artifact,Staff
+17,Enchantment,Deathgrip
+18,Creature,Wolf
+19,Creature,Magi
+20,Spell,Sorrow Vortex
+21,Spell,Gravitation
+22,Creature,Paladin
+23,Enchantment,Instant Nimble Drain
+24,Artifact,Nimble Tome
+25,Enchantment,Irate Victory Blight
+26,Spell,Stun
+27,Enchantment,Flight
+28,Creature,Wolf
+29,Creature,Dark Knight Hydra
+30,Enchantment,Instant Grim Drain
+31,Creature,Berserker
+32,Creature,Ghoul
+33,Creature,Frozen Undead Kraken
+34,Creature,Magi
+35,Artifact,Irate Hateful Bracers
+36,Spell,Urgent Forged Pandemonium
+37,Creature,Skin-Walker
+38,Spell,Forged Frost
+39,Creature,Berserker
+40,Spell,Ardent Nature Gale
+41,Creature,Eagle
+42,Creature,Aura Warrior Ogre of the Black Stone
+43,Creature,Spider
+44,Spell,Gravitation

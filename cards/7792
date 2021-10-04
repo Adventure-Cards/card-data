@@ -1,46 +1,46 @@
-==================,DECK,7792,Medium
-0,Creature,Common,Wolf
-1,Creature,Rare,Death Assassin Griffin
-2,Spell,Common,Burn
-3,Creature,Rare,Earth Knight Hydra
-4,Enchantment,Common,Flight
-5,Spell,Legendary,Intense Invisibility
-6,Creature,Common,Elf
-7,Enchantment,Common,Age
-8,Creature,Rare,Frozen Warrior Fairy
-9,Spell,Common,Invisibility
-10,Creature,Common,Eagle
-11,Spell,Rare,Shimmering Burst
-12,Enchantment,Common,Shade
-13,Enchantment,Common,Shrink
-14,Spell,Rare,Forged Revive
-15,Enchantment,Common,Shade
-16,Creature,Common,Spider
-17,Spell,Rare,Solar Frenzy
-18,Creature,Common,Goblin
-19,Spell,Common,Freeze
-20,Enchantment,Rare,Apocalypse Flight
-21,Enchantment,Common,Agony
-22,Creature,Rare,Snow Queen Griffin
-23,Creature,Common,Wolf
-24,Enchantment,Common,Lethargy
-25,Creature,Common,Paladin
-26,Creature,Rare,Light King Berserker
-27,Creature,Common,Warlock
-28,Artifact,Legendary,Potent Ring
-29,Creature,Common,Orc
-30,Spell,Mythic,Mighty Ice
-31,Creature,Mythic,Snow Time Dragon of Hate
-32,Artifact,Common,Ghost Wand
-33,Spell,Common,Pandemonium
-34,Spell,Rare,Gloom Rage
-35,Creature,Common,Elf
-36,Spell,Common,Frost
-37,Creature,Common,Goblin
-38,Creature,Common,Goblin
-39,Creature,Common,Ghoul
-40,Artifact,Common,Cloak
-41,Artifact,Rare,Apocalypse Divine Robe
-42,Artifact,Rare,Grim Gloves
-43,Creature,Rare,Light Queen Fairy
-44,Creature,Common,Wolf
+==================,DECK,7792
+0,Creature,Wolf
+1,Creature,Death Assassin Griffin
+2,Spell,Sorrow
+3,Creature,Earth Knight Hydra
+4,Enchantment,Firebreath
+5,Spell,Urgent Hateful Invisibility
+6,Creature,Warlock
+7,Enchantment,Age
+8,Creature,Frozen Warrior Kraken
+9,Spell,Gravitation
+10,Creature,Eagle
+11,Spell,Solar Sorrow
+12,Enchantment,Haste
+13,Enchantment,Drain
+14,Spell,Miracle Revive
+15,Enchantment,Haste
+16,Creature,Paladin
+17,Spell,Solar Freeze
+18,Creature,Skin-Walker
+19,Spell,Rage
+20,Enchantment,Grim Shade
+21,Enchantment,Blight
+22,Creature,Snow Queen Griffin
+23,Creature,Wolf
+24,Enchantment,Shield
+25,Creature,Troll
+26,Creature,Light King Goblin
+27,Creature,Berserker
+28,Artifact,Instant Nimble Ring
+29,Creature,Spider
+30,Spell,Empyrean Dark Burn
+31,Creature,Snow Time Dragon of Hate
+32,Artifact,Ghost Wand
+33,Spell,Invisibility
+34,Spell,Gloom Invisibility
+35,Creature,Warlock
+36,Spell,Assault
+37,Creature,Skin-Walker
+38,Creature,Skin-Walker
+39,Creature,Ghoul
+40,Artifact,Cloak
+41,Artifact,Grim Divine Robe
+42,Artifact,Grim Gloves
+43,Creature,Light Queen Kraken
+44,Creature,Wolf

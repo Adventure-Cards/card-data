@@ -1,46 +1,46 @@
-==================,DECK,4968,Light
-0,Enchantment,Common,Shrink
-1,Creature,Common,Wolf
-2,Enchantment,Mythic,Instant Haste
-3,Spell,Common,Stun
-4,Artifact,Rare,Cataclysmic Sword
-5,Creature,Common,Warlock
-6,Artifact,Legendary,Clever Ghost Wand
-7,Artifact,Rare,Forged Greaves
-8,Creature,Rare,Death Merchant Hydra
-9,Creature,Common,Wolf
-10,Spell,Common,Revive
-11,Spell,Rare,Apocalypse Maelstrom
-12,Spell,Common,Freeze
-13,Enchantment,Mythic,Urgent Blight
-14,Creature,Common,Warlock
-15,Creature,Common,Dwarf
-16,Artifact,Rare,Nimble Crown
-17,Creature,Common,Magi
-18,Enchantment,Common,Haste
-19,Enchantment,Common,Shade
-20,Artifact,Common,Pendant
-21,Creature,Common,Spider
-22,Creature,Common,Ghoul
-23,Spell,Common,Maelstrom
-24,Enchantment,Rare,Corpse Invert
-25,Spell,Common,Stricken
-26,Creature,Common,Eagle
-27,Enchantment,Common,Shade
-28,Spell,Common,Gale
-29,Spell,Common,Pandemonium
-30,Creature,Common,Warlock
-31,Enchantment,Common,Strength
-32,Spell,Common,Frenzy
-33,Enchantment,Common,Invert
-34,Creature,Legendary,Frozen Priest Oni of the Black Stone
-35,Enchantment,Common,Shrink
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Eagle
-38,Spell,Common,Infuriate
-39,Artifact,Common,Sigil
-40,Enchantment,Common,Strength
-41,Spell,Common,Lightning
-42,Enchantment,Common,Shade
-43,Spell,Legendary,Clever Torment
-44,Creature,Common,Goblin
+==================,DECK,4968
+0,Enchantment,Drain
+1,Creature,Wolf
+2,Enchantment,Zealous Corpse Deathgrip
+3,Spell,Sorrow
+4,Artifact,Miracle Sword
+5,Creature,Berserker
+6,Artifact,Mighty Victory Ghost Wand
+7,Artifact,Miracle Greaves
+8,Creature,Death Merchant Hydra
+9,Creature,Wolf
+10,Spell,Torment
+11,Spell,Life Ice
+12,Spell,Frenzy
+13,Enchantment,Potent Solar Strength
+14,Creature,Berserker
+15,Creature,Magi
+16,Artifact,Necro Crown
+17,Creature,Fairy
+18,Enchantment,Age
+19,Enchantment,Blight
+20,Artifact,Pendant
+21,Creature,Paladin
+22,Creature,Ghoul
+23,Spell,Burn
+24,Enchantment,Shimmering Agony
+25,Spell,Invisibility
+26,Creature,Eagle
+27,Enchantment,Lethargy
+28,Spell,Burn
+29,Spell,Burn
+30,Creature,Berserker
+31,Enchantment,Blight
+32,Spell,Frenzy
+33,Enchantment,Invert
+34,Creature,Frozen Priest Oni of the Black Stone
+35,Enchantment,Flight
+36,Enchantment,Alacrity
+37,Creature,Eagle
+38,Spell,Infuriate
+39,Artifact,Sigil
+40,Enchantment,Firebreath
+41,Spell,Stricken
+42,Enchantment,Deathgrip
+43,Spell,Irate Grim Ice
+44,Creature,Skin-Walker

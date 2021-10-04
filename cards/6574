@@ -1,46 +1,46 @@
-==================,DECK,6574,Light
-0,Creature,Common,Goblin
-1,Artifact,Rare,Apocalypse Crown
-2,Spell,Rare,Nature Ice
-3,Enchantment,Common,Shade
-4,Creature,Rare,Light Knight Griffin
-5,Spell,Common,Rage
-6,Creature,Common,Elf
-7,Spell,Legendary,Angry Hypnosis
-8,Creature,Mythic,Aura Time Phoenix of the Light
-9,Artifact,Common,Cloak
-10,Artifact,Common,Bow
-11,Creature,Common,Eagle
-12,Artifact,Common,Helmet
-13,Enchantment,Common,Drain
-14,Creature,Legendary,Death Lord Kraken of the Mountains
-15,Artifact,Common,Amulet
-16,Creature,Common,Warlock
-17,Creature,Common,Paladin
-18,Artifact,Rare,Necro Sigil
-19,Creature,Common,Elf
-20,Creature,Common,Ghoul
-21,Creature,Common,Magi
-22,Creature,Rare,Dark Thief Griffin
-23,Enchantment,Mythic,Angry Drain
-24,Spell,Common,Pandemonium
-25,Creature,Common,Ghoul
-26,Artifact,Common,Potion
-27,Creature,Common,Eagle
-28,Enchantment,Common,Agony
-29,Enchantment,Common,Shield
-30,Creature,Legendary,Earth Queen Orge of the Arctic Blizzards
-31,Creature,Common,Ghoul
-32,Creature,Common,Elf
-33,Creature,Common,Dwarf
-34,Creature,Rare,Death Knight Griffin
-35,Enchantment,Common,Invert
-36,Creature,Legendary,Aura Assassin Giant of the Low Hills
-37,Spell,Common,Burst
-38,Creature,Rare,Earth Rogue Berserker
-39,Creature,Legendary,Aura Merchant Oni of the Golden Palace
-40,Enchantment,Common,Flight
-41,Spell,Rare,Apocalypse Burst
-42,Spell,Rare,Grim Gravitation
-43,Creature,Common,Paladin
-44,Creature,Common,Eagle
+==================,DECK,6574
+0,Creature,Skin-Walker
+1,Artifact,Frigid Crown
+2,Spell,Forged Heal
+3,Enchantment,Shield
+4,Creature,Light Knight Griffin
+5,Spell,Assault
+6,Creature,Warlock
+7,Spell,Clever Sorrow Fire
+8,Creature,Aura Time Phoenix of the Light
+9,Artifact,Cloak
+10,Artifact,Bow
+11,Creature,Eagle
+12,Artifact,Helmet
+13,Enchantment,Shield
+14,Creature,Death Lord Ogre of the Mountains
+15,Artifact,Amulet
+16,Creature,Berserker
+17,Creature,Troll
+18,Artifact,Necro Sigil
+19,Creature,Warlock
+20,Creature,Ghoul
+21,Creature,Fairy
+22,Creature,Dark Thief Griffin
+23,Enchantment,Zealous Dark Alacrity
+24,Spell,Rage
+25,Creature,Ghoul
+26,Artifact,Potion
+27,Creature,Eagle
+28,Enchantment,Shade
+29,Enchantment,Shrink
+30,Creature,Earth Queen Elf of the Arctic Blizzards
+31,Creature,Ghoul
+32,Creature,Warlock
+33,Creature,Magi
+34,Creature,Death Knight Griffin
+35,Enchantment,Drain
+36,Creature,Aura Assassin Dwarf of the Low Hills
+37,Spell,Torment
+38,Creature,Earth Rogue Goblin
+39,Creature,Aura Merchant Oni of the Golden Palace
+40,Enchantment,Invert
+41,Spell,Nimble Sorrow
+42,Spell,Victory Stricken
+43,Creature,Troll
+44,Creature,Eagle

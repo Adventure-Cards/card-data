@@ -1,46 +1,46 @@
-==================,DECK,7204,Light
-0,Enchantment,Rare,Hateful Age
-1,Creature,Common,Ghoul
-2,Artifact,Common,Gloves
-3,Creature,Common,Ghoul
-4,Creature,Mythic,Dark Grand Demon of Illusion
-5,Spell,Common,Rage
-6,Artifact,Common,Scythe
-7,Spell,Common,Vortex
-8,Artifact,Rare,Corpse Boots
-9,Enchantment,Common,Drain
-10,Spell,Common,Assault
-11,Creature,Common,Elf
-12,Spell,Common,Revive
-13,Creature,Common,Eagle
-14,Enchantment,Common,Agony
-15,Enchantment,Common,Shrink
-16,Creature,Rare,Death King Berserker
-17,Creature,Common,Dwarf
-18,Creature,Common,Elf
-19,Creature,Common,Magi
-20,Creature,Common,Warlock
-21,Creature,Rare,Aura Merchant Berserker
-22,Enchantment,Common,Deathgrip
-23,Creature,Rare,Light Fighter Hydra
-24,Spell,Common,Freeze
-25,Creature,Common,Wolf
-26,Artifact,Legendary,Clever Ring
-27,Enchantment,Common,Age
-28,Creature,Common,Wolf
-29,Creature,Common,Magi
-30,Spell,Common,Assault
-31,Enchantment,Common,Shade
-32,Spell,Rare,Grim Torment
-33,Creature,Rare,Snow Knight Minotaur
-34,Enchantment,Common,Haste
-35,Creature,Common,Ghoul
-36,Spell,Common,Sorrow
-37,Artifact,Common,Bracers
-38,Creature,Common,Spider
-39,Creature,Rare,Light Knight Berserker
-40,Creature,Common,Spider
-41,Creature,Common,Warlock
-42,Enchantment,Rare,Grim Invert
-43,Spell,Rare,Oblivion Frost
-44,Creature,Common,Goblin
+==================,DECK,7204
+0,Enchantment,Gloom Shield
+1,Creature,Ghoul
+2,Artifact,Gloves
+3,Creature,Ghoul
+4,Creature,Dark Grand Demon of Illusion
+5,Spell,Pandemonium
+6,Artifact,Scythe
+7,Spell,Fire
+8,Artifact,Solar Boots
+9,Enchantment,Invert
+10,Spell,Reanimate
+11,Creature,Warlock
+12,Spell,Stun
+13,Creature,Eagle
+14,Enchantment,Flight
+15,Enchantment,Strength
+16,Creature,Death King Goblin
+17,Creature,Magi
+18,Creature,Warlock
+19,Creature,Fairy
+20,Creature,Berserker
+21,Creature,Aura Merchant Goblin
+22,Enchantment,Lethargy
+23,Creature,Light Fighter Hydra
+24,Spell,Stun
+25,Creature,Wolf
+26,Artifact,Instant Life Ring
+27,Enchantment,Agony
+28,Creature,Wolf
+29,Creature,Fairy
+30,Spell,Assault
+31,Enchantment,Shield
+32,Spell,Life Fury
+33,Creature,Snow Knight Cyclops
+34,Enchantment,Drain
+35,Creature,Ghoul
+36,Spell,Lightning
+37,Artifact,Bracers
+38,Creature,Paladin
+39,Creature,Light Knight Goblin
+40,Creature,Paladin
+41,Creature,Berserker
+42,Enchantment,Oblivion Haste
+43,Spell,Frigid Burn
+44,Creature,Skin-Walker

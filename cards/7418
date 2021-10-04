@@ -1,46 +1,46 @@
-==================,DECK,7418,Medium
-0,Creature,Common,Wolf
-1,Artifact,Common,Bracers
-2,Enchantment,Common,Invert
-3,Creature,Common,Wolf
-4,Spell,Common,Invisibility
-5,Creature,Common,Dwarf
-6,Creature,Common,Spider
-7,Creature,Common,Goblin
-8,Spell,Legendary,Extreme Assault
-9,Enchantment,Rare,Nimble Alacrity
-10,Creature,Legendary,Death Undead Kraken of the Plains
-11,Creature,Common,Magi
-12,Spell,Rare,Gloom Heal
-13,Creature,Common,Eagle
-14,Artifact,Common,Cloak
-15,Creature,Common,Elf
-16,Spell,Rare,Gloom Invisibility
-17,Creature,Common,Eagle
-18,Creature,Common,Magi
-19,Creature,Common,Paladin
-20,Creature,Mythic,Aura Nameless Phoenix of the Light
-21,Spell,Legendary,Extreme Revive
-22,Spell,Rare,Lunar Sorrow
-23,Creature,Legendary,Light Thief Cyclops of the Frozen Castle
-24,Enchantment,Common,Flight
-25,Artifact,Rare,Nature Greaves
-26,Creature,Common,Magi
-27,Creature,Common,Elf
-28,Enchantment,Rare,Solar Shade
-29,Creature,Common,Warlock
-30,Creature,Rare,Frozen Assassin Minotaur
-31,Creature,Legendary,Death Priest Giant of the Haven
-32,Creature,Rare,Aura Merchant Griffin
-33,Creature,Legendary,Aura Merchant Kraken of the Plains
-34,Creature,Rare,Frozen Merchant Hydra
-35,Spell,Rare,Apocalypse Maelstrom
-36,Creature,Legendary,Light Undead Giant of the Bright Mountains
-37,Creature,Common,Orc
-38,Spell,Common,Wall
-39,Enchantment,Common,Lethargy
-40,Creature,Legendary,Snow Merchant Kraken of the Swamp
-41,Artifact,Common,Cloak
-42,Creature,Legendary,Light Undead Giant of the Eastern Skies
-43,Enchantment,Legendary,Angry Blight
-44,Creature,Rare,Earth Warrior Minotaur
+==================,DECK,7418
+0,Creature,Wolf
+1,Artifact,Bracers
+2,Enchantment,Alacrity
+3,Creature,Wolf
+4,Spell,Ice
+5,Creature,Magi
+6,Creature,Paladin
+7,Creature,Skin-Walker
+8,Spell,Irate Cataclysmic Fireball
+9,Enchantment,Forged Lethargy
+10,Creature,Death Undead Ogre of the Plains
+11,Creature,Fairy
+12,Spell,Sorrow Fury
+13,Creature,Eagle
+14,Artifact,Cloak
+15,Creature,Warlock
+16,Spell,Lunar Frost
+17,Creature,Eagle
+18,Creature,Fairy
+19,Creature,Troll
+20,Creature,Aura Nameless Phoenix of the Light
+21,Spell,Irate Chimeric Fury
+22,Spell,Lunar Fire
+23,Creature,Light Thief Giant of the Frozen Castle
+24,Enchantment,Invert
+25,Artifact,Solar Greaves
+26,Creature,Fairy
+27,Creature,Warlock
+28,Enchantment,Necro Agony
+29,Creature,Berserker
+30,Creature,Frozen Assassin Cyclops
+31,Creature,Death Priest Dwarf of the Haven
+32,Creature,Aura Merchant Griffin
+33,Creature,Aura Merchant Ogre of the Plains
+34,Creature,Frozen Merchant Hydra
+35,Spell,Oblivion Gale
+36,Creature,Light Undead Dwarf of the Bright Mountains
+37,Creature,Spider
+38,Spell,Fire
+39,Enchantment,Flight
+40,Creature,Snow Merchant Ogre of the Swamp
+41,Artifact,Cloak
+42,Creature,Light Undead Dwarf of the Eastern Skies
+43,Enchantment,Empyrean Cataclysmic Firebreath
+44,Creature,Earth Warrior Cyclops

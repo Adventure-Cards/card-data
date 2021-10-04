@@ -1,46 +1,46 @@
-==================,DECK,5430,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Legendary,Urgent Shrink
-2,Artifact,Common,Scythe
-3,Creature,Common,Ghoul
-4,Spell,Mythic,Extreme Hypnosis
-5,Creature,Common,Dwarf
-6,Creature,Rare,Snow Merchant Skin-Walker
-7,Enchantment,Common,Lethargy
-8,Creature,Common,Paladin
-9,Enchantment,Common,Shade
-10,Creature,Common,Eagle
-11,Creature,Rare,Frozen Priest Hydra
-12,Spell,Rare,Life Infuriate
-13,Creature,Common,Wolf
-14,Creature,Common,Ghoul
-15,Spell,Rare,Nature Maelstrom
-16,Creature,Rare,Frozen Rogue Hydra
-17,Spell,Legendary,Instant Revive
-18,Creature,Rare,Earth Warrior Minotaur
-19,Creature,Rare,Light Priest Skin-Walker
-20,Creature,Common,Wolf
-21,Creature,Rare,Frozen Thief Skin-Walker
-22,Spell,Common,Assault
-23,Enchantment,Common,Flight
-24,Enchantment,Rare,Hateful Age
-25,Creature,Common,Wolf
-26,Creature,Rare,Dark Priest Minotaur
-27,Enchantment,Common,Haste
-28,Creature,Rare,Aura Rogue Griffin
-29,Enchantment,Common,Lethargy
-30,Enchantment,Common,Age
-31,Creature,Rare,Frozen Monk Berserker
-32,Creature,Rare,Light Merchant Berserker
-33,Creature,Rare,Death King Minotaur
-34,Creature,Rare,Earth Warrior Minotaur
-35,Creature,Mythic,Light Chaos Demon of the Sky
-36,Creature,Legendary,Frozen Merchant Giant of the West
-37,Spell,Mythic,Extreme Pandemonium
-38,Spell,Common,Frost
-39,Enchantment,Common,Alacrity
-40,Spell,Common,Maelstrom
-41,Enchantment,Common,Invert
-42,Creature,Rare,Snow Priest Berserker
-43,Creature,Rare,Earth Warrior Hydra
-44,Creature,Common,Magi
+==================,DECK,5430
+0,Creature,Wolf
+1,Enchantment,Empyrean Necro Age
+2,Artifact,Scythe
+3,Creature,Ghoul
+4,Spell,Potent Chimeric Lightning
+5,Creature,Magi
+6,Creature,Snow Merchant Orc
+7,Enchantment,Lethargy
+8,Creature,Troll
+9,Enchantment,Agony
+10,Creature,Eagle
+11,Creature,Frozen Priest Hydra
+12,Spell,Apocalypse Freeze
+13,Creature,Wolf
+14,Creature,Ghoul
+15,Spell,Corpse Freeze
+16,Creature,Frozen Rogue Hydra
+17,Spell,Instant Forged Stricken
+18,Creature,Earth Warrior Cyclops
+19,Creature,Light Priest Orc
+20,Creature,Wolf
+21,Creature,Frozen Thief Orc
+22,Spell,Hypnosis
+23,Enchantment,Deathgrip
+24,Enchantment,Gloom Firebreath
+25,Creature,Wolf
+26,Creature,Dark Priest Cyclops
+27,Enchantment,Deathgrip
+28,Creature,Aura Rogue Griffin
+29,Enchantment,Shield
+30,Enchantment,Shield
+31,Creature,Frozen Monk Goblin
+32,Creature,Light Merchant Goblin
+33,Creature,Death King Cyclops
+34,Creature,Earth Warrior Cyclops
+35,Creature,Light Chaos Demon of the Sky
+36,Creature,Frozen Merchant Dwarf of the West
+37,Spell,Clever Chimeric Frenzy
+38,Spell,Burn
+39,Enchantment,Shade
+40,Spell,Freeze
+41,Enchantment,Firebreath
+42,Creature,Snow Priest Goblin
+43,Creature,Earth Warrior Hydra
+44,Creature,Fairy

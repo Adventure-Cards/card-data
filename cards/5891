@@ -1,46 +1,46 @@
-==================,DECK,5891,Light
-0,Spell,Common,Hypnosis
-1,Creature,Common,Eagle
-2,Creature,Common,Elf
-3,Creature,Common,Ghoul
-4,Spell,Common,Freeze
-5,Enchantment,Legendary,Dire Age
-6,Creature,Mythic,Aura Grand Demon of the Light
-7,Creature,Common,Magi
-8,Spell,Legendary,Mighty Assault
-9,Enchantment,Common,Lethargy
-10,Enchantment,Common,Strength
-11,Creature,Common,Wolf
-12,Creature,Common,Dwarf
-13,Enchantment,Legendary,Potent Alacrity
-14,Spell,Rare,Nimble Vortex
-15,Spell,Legendary,Mighty Wall
-16,Creature,Common,Wolf
-17,Creature,Common,Paladin
-18,Creature,Common,Warlock
-19,Spell,Common,Fury
-20,Creature,Common,Magi
-21,Creature,Rare,Death Lord Hydra
-22,Creature,Common,Elf
-23,Creature,Common,Spider
-24,Creature,Common,Orc
-25,Artifact,Legendary,Mighty Ring
-26,Creature,Common,Spider
-27,Creature,Common,Goblin
-28,Artifact,Common,Sigil
-29,Enchantment,Common,Shield
-30,Spell,Legendary,Instant Reanimate
-31,Artifact,Common,Ring
-32,Spell,Common,Freeze
-33,Spell,Common,Invisibility
-34,Spell,Rare,Frigid Wall
-35,Enchantment,Rare,Apocalypse Shrink
-36,Creature,Rare,Death Knight Griffin
-37,Enchantment,Common,Drain
-38,Spell,Common,Fury
-39,Creature,Common,Ghoul
-40,Creature,Common,Elf
-41,Creature,Common,Wolf
-42,Creature,Common,Dwarf
-43,Artifact,Common,Bow
-44,Creature,Common,Warlock
+==================,DECK,5891
+0,Spell,Revive
+1,Creature,Eagle
+2,Creature,Warlock
+3,Creature,Ghoul
+4,Spell,Lightning
+5,Enchantment,Zealous Victory Blight
+6,Creature,Aura Grand Demon of the Light
+7,Creature,Fairy
+8,Spell,Instant Dark Invisibility
+9,Enchantment,Age
+10,Enchantment,Flight
+11,Creature,Wolf
+12,Creature,Magi
+13,Enchantment,Dire Apocalypse Shade
+14,Spell,Nature Sorrow
+15,Spell,Urgent Cataclysmic Maelstrom
+16,Creature,Wolf
+17,Creature,Troll
+18,Creature,Berserker
+19,Spell,Stun
+20,Creature,Fairy
+21,Creature,Death Lord Hydra
+22,Creature,Warlock
+23,Creature,Paladin
+24,Creature,Spider
+25,Artifact,Potent Sorrow Ring
+26,Creature,Paladin
+27,Creature,Skin-Walker
+28,Artifact,Sigil
+29,Enchantment,Haste
+30,Spell,Clever Solar Torment
+31,Artifact,Ring
+32,Spell,Gale
+33,Spell,Fire
+34,Spell,Oblivion Gale
+35,Enchantment,Frigid Invert
+36,Creature,Death Knight Griffin
+37,Enchantment,Agony
+38,Spell,Pandemonium
+39,Creature,Ghoul
+40,Creature,Warlock
+41,Creature,Wolf
+42,Creature,Magi
+43,Artifact,Bow
+44,Creature,Berserker

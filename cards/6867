@@ -1,46 +1,46 @@
-==================,DECK,6867,Light
-0,Spell,Common,Lightning
-1,Enchantment,Common,Drain
-2,Spell,Common,Invisibility
-3,Creature,Mythic,Aura Time Phoenix of the Light
-4,Spell,Rare,Nimble Lightning
-5,Spell,Common,Pandemonium
-6,Creature,Common,Dwarf
-7,Creature,Common,Eagle
-8,Creature,Common,Orc
-9,Creature,Common,Paladin
-10,Spell,Common,Ice
-11,Creature,Common,Paladin
-12,Creature,Common,Wolf
-13,Spell,Legendary,Intense Stun
-14,Creature,Common,Spider
-15,Creature,Rare,Death Fighter Fairy
-16,Creature,Rare,Frozen Warrior Berserker
-17,Creature,Common,Magi
-18,Spell,Common,Freeze
-19,Creature,Common,Eagle
-20,Creature,Common,Spider
-21,Enchantment,Legendary,Instant Lethargy
-22,Enchantment,Common,Lethargy
-23,Spell,Common,Stricken
-24,Creature,Common,Elf
-25,Creature,Common,Spider
-26,Creature,Common,Spider
-27,Creature,Common,Magi
-28,Spell,Common,Torment
-29,Creature,Common,Goblin
-30,Artifact,Common,Ring
-31,Creature,Common,Paladin
-32,Creature,Common,Dwarf
-33,Creature,Common,Paladin
-34,Creature,Rare,Frozen Queen Skin-Walker
-35,Enchantment,Common,Blight
-36,Creature,Rare,Aura Rogue Berserker
-37,Creature,Common,Goblin
-38,Creature,Common,Paladin
-39,Artifact,Common,Bow
-40,Enchantment,Common,Shade
-41,Enchantment,Common,Haste
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Common,Blight
-44,Creature,Rare,Frozen King Berserker
+==================,DECK,6867
+0,Spell,Fire
+1,Enchantment,Firebreath
+2,Spell,Assault
+3,Creature,Aura Time Phoenix of the Light
+4,Spell,Shimmering Vortex
+5,Spell,Hypnosis
+6,Creature,Magi
+7,Creature,Eagle
+8,Creature,Spider
+9,Creature,Troll
+10,Spell,Burn
+11,Creature,Troll
+12,Creature,Wolf
+13,Spell,Zealous Necro Fire
+14,Creature,Paladin
+15,Creature,Death Fighter Kraken
+16,Creature,Frozen Warrior Goblin
+17,Creature,Fairy
+18,Spell,Lightning
+19,Creature,Eagle
+20,Creature,Paladin
+21,Enchantment,Irate Hateful Deathgrip
+22,Enchantment,Drain
+23,Spell,Stun
+24,Creature,Warlock
+25,Creature,Paladin
+26,Creature,Paladin
+27,Creature,Fairy
+28,Spell,Hypnosis
+29,Creature,Skin-Walker
+30,Artifact,Ring
+31,Creature,Troll
+32,Creature,Magi
+33,Creature,Troll
+34,Creature,Frozen Queen Orc
+35,Enchantment,Invert
+36,Creature,Aura Rogue Goblin
+37,Creature,Skin-Walker
+38,Creature,Troll
+39,Artifact,Bow
+40,Enchantment,Haste
+41,Enchantment,Flight
+42,Enchantment,Lethargy
+43,Enchantment,Blight
+44,Creature,Frozen King Goblin

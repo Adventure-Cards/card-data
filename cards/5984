@@ -1,46 +1,46 @@
-==================,DECK,5984,Light
-0,Artifact,Common,Divine Robe
-1,Creature,Common,Elf
-2,Creature,Common,Goblin
-3,Creature,Rare,Dark Monk Hydra
-4,Spell,Common,Freeze
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Alacrity
-7,Enchantment,Common,Drain
-8,Spell,Common,Fury
-9,Spell,Rare,Apocalypse Sorrow
-10,Artifact,Legendary,Dire Greaves
-11,Spell,Common,Frost
-12,Creature,Legendary,Earth Thief Kraken of the Frozen Castle
-13,Creature,Common,Magi
-14,Creature,Mythic,Earth Time Phoenix of the Shadows
-15,Creature,Common,Elf
-16,Spell,Common,Hypnosis
-17,Spell,Legendary,Instant Lightning
-18,Creature,Rare,Light Queen Hydra
-19,Spell,Common,Torment
-20,Spell,Common,Frenzy
-21,Creature,Common,Spider
-22,Enchantment,Mythic,Potent Lethargy
-23,Enchantment,Rare,Grim Agony
-24,Spell,Common,Burn
-25,Enchantment,Common,Strength
-26,Creature,Common,Warlock
-27,Spell,Rare,Shimmering Hypnosis
-28,Artifact,Common,Ghost Wand
-29,Creature,Common,Spider
-30,Creature,Rare,Snow Rogue Griffin
-31,Enchantment,Common,Agony
-32,Creature,Common,Wolf
-33,Creature,Common,Paladin
-34,Enchantment,Mythic,Angry Lethargy
-35,Creature,Common,Orc
-36,Enchantment,Common,Haste
-37,Creature,Common,Elf
-38,Enchantment,Mythic,Dire Shield
-39,Creature,Common,Wolf
-40,Enchantment,Rare,Miracle Blight
-41,Creature,Rare,Dark Thief Berserker
-42,Artifact,Common,Shield
-43,Creature,Common,Dwarf
-44,Artifact,Common,Divine Robe
+==================,DECK,5984
+0,Artifact,Divine Robe
+1,Creature,Warlock
+2,Creature,Skin-Walker
+3,Creature,Dark Monk Hydra
+4,Spell,Revive
+5,Creature,Magi
+6,Enchantment,Shade
+7,Enchantment,Shrink
+8,Spell,Stricken
+9,Spell,Nimble Hypnosis
+10,Artifact,Mighty Grim Greaves
+11,Spell,Fury
+12,Creature,Earth Thief Ogre of the Frozen Castle
+13,Creature,Fairy
+14,Creature,Earth Time Phoenix of the Shadows
+15,Creature,Warlock
+16,Spell,Frenzy
+17,Spell,Irate Forged Vortex
+18,Creature,Light Queen Hydra
+19,Spell,Fire
+20,Spell,Infuriate
+21,Creature,Paladin
+22,Enchantment,Ardent Grim Haste
+23,Enchantment,Life Blight
+24,Spell,Hypnosis
+25,Enchantment,Shade
+26,Creature,Berserker
+27,Spell,Nature Heal
+28,Artifact,Ghost Wand
+29,Creature,Paladin
+30,Creature,Snow Rogue Griffin
+31,Enchantment,Shrink
+32,Creature,Wolf
+33,Creature,Troll
+34,Enchantment,Urgent Lunar Flight
+35,Creature,Spider
+36,Enchantment,Flight
+37,Creature,Warlock
+38,Enchantment,Instant Victory Drain
+39,Creature,Wolf
+40,Enchantment,Nimble Invert
+41,Creature,Dark Thief Goblin
+42,Artifact,Shield
+43,Creature,Magi
+44,Artifact,Divine Robe

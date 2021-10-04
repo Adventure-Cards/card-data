@@ -1,46 +1,46 @@
-==================,DECK,5050,Medium
-0,Creature,Common,Warlock
-1,Enchantment,Common,Shield
-2,Creature,Rare,Death Undead Hydra
-3,Creature,Common,Spider
-4,Enchantment,Common,Shield
-5,Artifact,Legendary,Instant Amulet
-6,Artifact,Legendary,Extreme Ring
-7,Creature,Common,Orc
-8,Creature,Mythic,Snow Nameless Phoenix of Hate
-9,Creature,Rare,Earth Priest Berserker
-10,Spell,Rare,Oblivion Wall
-11,Artifact,Common,Bracers
-12,Creature,Mythic,Death Grand Demon of the Dead
-13,Spell,Common,Lightning
-14,Creature,Common,Goblin
-15,Spell,Common,Frost
-16,Enchantment,Rare,Gloom Invert
-17,Artifact,Rare,Gloom Helm
-18,Spell,Common,Hypnosis
-19,Creature,Common,Spider
-20,Enchantment,Rare,Miracle Haste
-21,Enchantment,Common,Flight
-22,Creature,Legendary,Light Thief Cyclops of the Low Hills
-23,Spell,Common,Reanimate
-24,Creature,Mythic,Light Undead Dragon of the Sky
-25,Creature,Legendary,Snow Undead Giant of the Black Stone
-26,Creature,Mythic,Earth Ancient Demon of the Shadows
-27,Enchantment,Legendary,Potent Shield
-28,Artifact,Common,Potion
-29,Enchantment,Common,Lethargy
-30,Enchantment,Rare,Forged Agony
-31,Enchantment,Common,Alacrity
-32,Artifact,Legendary,Dire Helmet
-33,Spell,Legendary,Potent Fury
-34,Creature,Mythic,Frozen Nameless Phoenix of the Void
-35,Creature,Common,Dwarf
-36,Spell,Common,Revive
-37,Spell,Common,Infuriate
-38,Creature,Common,Wolf
-39,Creature,Common,Paladin
-40,Creature,Rare,Earth Undead Skin-Walker
-41,Enchantment,Legendary,Instant Agony
-42,Creature,Common,Ghoul
-43,Artifact,Common,Amulet
-44,Enchantment,Common,Age
+==================,DECK,5050
+0,Creature,Berserker
+1,Enchantment,Blight
+2,Creature,Death Undead Hydra
+3,Creature,Paladin
+4,Enchantment,Blight
+5,Artifact,Mighty Forged Amulet
+6,Artifact,Clever Gloom Ring
+7,Creature,Spider
+8,Creature,Snow Nameless Phoenix of Hate
+9,Creature,Earth Priest Goblin
+10,Spell,Victory Infuriate
+11,Artifact,Bracers
+12,Creature,Death Grand Demon of the Dead
+13,Spell,Hypnosis
+14,Creature,Skin-Walker
+15,Spell,Stun
+16,Enchantment,Sorrow Firebreath
+17,Artifact,Dark Helm
+18,Spell,Burst
+19,Creature,Paladin
+20,Enchantment,Life Shade
+21,Enchantment,Haste
+22,Creature,Light Thief Giant of the Low Hills
+23,Spell,Infuriate
+24,Creature,Light Undead Dragon of the Sky
+25,Creature,Snow Undead Dwarf of the Black Stone
+26,Creature,Earth Ancient Demon of the Shadows
+27,Enchantment,Instant Victory Drain
+28,Artifact,Potion
+29,Enchantment,Blight
+30,Enchantment,Miracle Firebreath
+31,Enchantment,Age
+32,Artifact,Irate Life Helmet
+33,Spell,Potent Victory Lightning
+34,Creature,Frozen Nameless Phoenix of the Void
+35,Creature,Magi
+36,Spell,Infuriate
+37,Spell,Pandemonium
+38,Creature,Wolf
+39,Creature,Troll
+40,Creature,Earth Undead Orc
+41,Enchantment,Irate Corpse Deathgrip
+42,Creature,Ghoul
+43,Artifact,Amulet
+44,Enchantment,Age

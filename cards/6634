@@ -1,46 +1,46 @@
-==================,DECK,6634,Light
-0,Spell,Common,Hypnosis
-1,Creature,Common,Warlock
-2,Creature,Common,Wolf
-3,Creature,Legendary,Death Merchant Giant of the Border
-4,Creature,Common,Warlock
-5,Enchantment,Common,Shrink
-6,Creature,Mythic,Aura Time Dragon of the Light
-7,Creature,Common,Ghoul
-8,Creature,Common,Dwarf
-9,Creature,Rare,Dark Queen Berserker
-10,Enchantment,Mythic,Angry Shrink
-11,Enchantment,Common,Agony
-12,Enchantment,Common,Flight
-13,Spell,Common,Hypnosis
-14,Artifact,Rare,Nature Shield
-15,Spell,Common,Ice
-16,Creature,Legendary,Death Warrior Cyclops of the Mountains
-17,Spell,Common,Frost
-18,Spell,Common,Gale
-19,Creature,Common,Wolf
-20,Creature,Common,Ghoul
-21,Creature,Common,Wolf
-22,Creature,Common,Spider
-23,Creature,Common,Dwarf
-24,Spell,Rare,Hateful Stun
-25,Creature,Common,Magi
-26,Artifact,Common,Crown
-27,Enchantment,Common,Shrink
-28,Artifact,Rare,Gloom Pendant
-29,Creature,Common,Orc
-30,Artifact,Common,Ghost Wand
-31,Creature,Common,Elf
-32,Creature,Common,Goblin
-33,Enchantment,Common,Shield
-34,Spell,Rare,Gloom Wall
-35,Artifact,Common,Helmet
-36,Creature,Common,Eagle
-37,Spell,Common,Gravitation
-38,Enchantment,Rare,Forged Lethargy
-39,Artifact,Rare,Necro Ring
-40,Creature,Common,Ghoul
-41,Creature,Legendary,Death Rogue Oni of the Bright Mountains
-42,Creature,Common,Eagle
-43,Enchantment,Common,Invert
-44,Creature,Common,Dwarf
+==================,DECK,6634
+0,Spell,Freeze
+1,Creature,Berserker
+2,Creature,Wolf
+3,Creature,Death Merchant Dwarf of the Border
+4,Creature,Berserker
+5,Enchantment,Shade
+6,Creature,Aura Time Dragon of the Light
+7,Creature,Ghoul
+8,Creature,Magi
+9,Creature,Dark Queen Goblin
+10,Enchantment,Potent Chimeric Shrink
+11,Enchantment,Agony
+12,Enchantment,Invert
+13,Spell,Burn
+14,Artifact,Solar Shield
+15,Spell,Tempest
+16,Creature,Death Warrior Giant of the Mountains
+17,Spell,Burn
+18,Spell,Frost
+19,Creature,Wolf
+20,Creature,Ghoul
+21,Creature,Wolf
+22,Creature,Paladin
+23,Creature,Magi
+24,Spell,Sorrow Hypnosis
+25,Creature,Fairy
+26,Artifact,Crown
+27,Enchantment,Invert
+28,Artifact,Sorrow Pendant
+29,Creature,Spider
+30,Artifact,Ghost Wand
+31,Creature,Warlock
+32,Creature,Skin-Walker
+33,Enchantment,Invert
+34,Spell,Cataclysmic Frenzy
+35,Artifact,Helmet
+36,Creature,Eagle
+37,Spell,Gravitation
+38,Enchantment,Lunar Shield
+39,Artifact,Corpse Ring
+40,Creature,Ghoul
+41,Creature,Death Rogue Oni of the Bright Mountains
+42,Creature,Eagle
+43,Enchantment,Shrink
+44,Creature,Magi

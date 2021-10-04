@@ -1,46 +1,46 @@
-==================,DECK,7094,Light
-0,Creature,Common,Wolf
-1,Creature,Rare,Light Warrior Skin-Walker
-2,Creature,Legendary,Snow Rogue Oni of the Polar Woods
-3,Spell,Rare,Oblivion Torment
-4,Enchantment,Common,Blight
-5,Artifact,Rare,Corpse Shield
-6,Enchantment,Common,Alacrity
-7,Spell,Common,Pandemonium
-8,Spell,Common,Fury
-9,Artifact,Common,Belt
-10,Creature,Common,Orc
-11,Creature,Rare,Earth Thief Griffin
-12,Creature,Legendary,Earth Knight Orge of the Frozen Castle
-13,Enchantment,Common,Shade
-14,Enchantment,Common,Invert
-15,Creature,Rare,Snow King Berserker
-16,Creature,Legendary,Death Undead Giant of the Low Hills
-17,Creature,Common,Eagle
-18,Creature,Common,Paladin
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Magi
-21,Creature,Common,Orc
-22,Artifact,Common,Sword
-23,Creature,Legendary,Aura Monk Giant of the Swamp
-24,Creature,Common,Spider
-25,Creature,Common,Elf
-26,Artifact,Rare,Grim Staff
-27,Spell,Common,Freeze
-28,Creature,Common,Elf
-29,Creature,Rare,Earth Thief Griffin
-30,Creature,Rare,Earth Monk Fairy
-31,Spell,Rare,Solar Assault
-32,Spell,Rare,Solar Freeze
-33,Creature,Rare,Earth Lord Skin-Walker
-34,Artifact,Legendary,Intense Gauntlet
-35,Creature,Legendary,Light Assassin Oni of the Frozen Castle
-36,Spell,Rare,Hateful Burn
-37,Spell,Common,Stricken
-38,Artifact,Rare,Oblivion Divine Robe
-39,Creature,Common,Elf
-40,Enchantment,Common,Shrink
-41,Creature,Common,Spider
-42,Creature,Mythic,Aura Nameless Phoenix of the Light
-43,Spell,Rare,Necro Maelstrom
-44,Creature,Common,Wolf
+==================,DECK,7094
+0,Creature,Wolf
+1,Creature,Light Warrior Orc
+2,Creature,Snow Rogue Oni of the Polar Woods
+3,Spell,Oblivion Burn
+4,Enchantment,Shield
+5,Artifact,Corpse Shield
+6,Enchantment,Blight
+7,Spell,Rage
+8,Spell,Lightning
+9,Artifact,Belt
+10,Creature,Spider
+11,Creature,Earth Thief Griffin
+12,Creature,Earth Knight Elf of the Frozen Castle
+13,Enchantment,Flight
+14,Enchantment,Haste
+15,Creature,Snow King Goblin
+16,Creature,Death Undead Dwarf of the Low Hills
+17,Creature,Eagle
+18,Creature,Troll
+19,Enchantment,Deathgrip
+20,Creature,Fairy
+21,Creature,Spider
+22,Artifact,Sword
+23,Creature,Aura Monk Dwarf of the Swamp
+24,Creature,Paladin
+25,Creature,Warlock
+26,Artifact,Oblivion Staff
+27,Spell,Ice
+28,Creature,Warlock
+29,Creature,Earth Thief Griffin
+30,Creature,Earth Monk Kraken
+31,Spell,Hateful Sorrow
+32,Spell,Solar Gravitation
+33,Creature,Earth Lord Orc
+34,Artifact,Clever Corpse Gauntlet
+35,Creature,Light Assassin Oni of the Frozen Castle
+36,Spell,Sorrow Lightning
+37,Spell,Burst
+38,Artifact,Oblivion Divine Robe
+39,Creature,Warlock
+40,Enchantment,Drain
+41,Creature,Paladin
+42,Creature,Aura Nameless Phoenix of the Light
+43,Spell,Hateful Frost
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,5964,Light
-0,Creature,Legendary,Aura Warrior Cyclops of the Plains
-1,Spell,Common,Stricken
-2,Creature,Rare,Snow Thief Minotaur
-3,Creature,Rare,Earth Queen Griffin
-4,Creature,Common,Warlock
-5,Enchantment,Rare,Grim Strength
-6,Enchantment,Common,Blight
-7,Creature,Common,Eagle
-8,Creature,Rare,Light Assassin Fairy
-9,Enchantment,Common,Alacrity
-10,Spell,Legendary,Angry Fury
-11,Spell,Common,Stricken
-12,Creature,Common,Orc
-13,Spell,Legendary,Potent Frenzy
-14,Creature,Rare,Death Lord Skin-Walker
-15,Creature,Common,Paladin
-16,Artifact,Common,Bracers
-17,Artifact,Common,Sigil
-18,Spell,Common,Fury
-19,Enchantment,Common,Shrink
-20,Enchantment,Common,Haste
-21,Enchantment,Common,Shade
-22,Creature,Rare,Aura Rogue Hydra
-23,Creature,Common,Spider
-24,Enchantment,Rare,Apocalypse Flight
-25,Creature,Legendary,Snow Merchant Giant of the West
-26,Creature,Legendary,Snow Merchant Kraken of the Plains
-27,Enchantment,Rare,Cataclysmic Blight
-28,Enchantment,Mythic,Angry Shrink
-29,Creature,Legendary,Aura Monk Oni of the Low Hills
-30,Enchantment,Common,Shade
-31,Creature,Rare,Frozen Priest Minotaur
-32,Spell,Rare,Life Hypnosis
-33,Spell,Common,Lightning
-34,Creature,Rare,Aura Fighter Berserker
-35,Creature,Common,Eagle
-36,Spell,Common,Lightning
-37,Spell,Common,Torment
-38,Spell,Common,Vortex
-39,Spell,Common,Freeze
-40,Creature,Common,Goblin
-41,Creature,Common,Goblin
-42,Spell,Common,Revive
-43,Creature,Rare,Frozen Lord Berserker
-44,Creature,Rare,Frozen King Minotaur
+==================,DECK,5964
+0,Creature,Aura Warrior Giant of the Plains
+1,Spell,Frost
+2,Creature,Snow Thief Cyclops
+3,Creature,Earth Queen Griffin
+4,Creature,Berserker
+5,Enchantment,Nimble Shade
+6,Enchantment,Invert
+7,Creature,Eagle
+8,Creature,Light Assassin Kraken
+9,Enchantment,Flight
+10,Spell,Empyrean Miracle Fury
+11,Spell,Pandemonium
+12,Creature,Spider
+13,Spell,Dire Victory Rage
+14,Creature,Death Lord Orc
+15,Creature,Troll
+16,Artifact,Bracers
+17,Artifact,Sigil
+18,Spell,Vortex
+19,Enchantment,Strength
+20,Enchantment,Shade
+21,Enchantment,Blight
+22,Creature,Aura Rogue Hydra
+23,Creature,Paladin
+24,Enchantment,Grim Drain
+25,Creature,Snow Merchant Dwarf of the West
+26,Creature,Snow Merchant Ogre of the Plains
+27,Enchantment,Cataclysmic Flight
+28,Enchantment,Potent Chimeric Shrink
+29,Creature,Aura Monk Oni of the Low Hills
+30,Enchantment,Shade
+31,Creature,Frozen Priest Cyclops
+32,Spell,Frigid Frenzy
+33,Spell,Stricken
+34,Creature,Aura Fighter Goblin
+35,Creature,Eagle
+36,Spell,Assault
+37,Spell,Sorrow
+38,Spell,Fire
+39,Spell,Assault
+40,Creature,Skin-Walker
+41,Creature,Skin-Walker
+42,Spell,Tempest
+43,Creature,Frozen Lord Goblin
+44,Creature,Frozen King Cyclops

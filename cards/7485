@@ -1,46 +1,46 @@
-==================,DECK,7485,Light
-0,Creature,Legendary,Frozen Rogue Giant of the Bright Mountains
-1,Enchantment,Common,Drain
-2,Spell,Common,Freeze
-3,Creature,Common,Paladin
-4,Creature,Common,Wolf
-5,Creature,Common,Warlock
-6,Spell,Rare,Nimble Lightning
-7,Enchantment,Rare,Frigid Alacrity
-8,Creature,Common,Warlock
-9,Spell,Common,Reanimate
-10,Artifact,Legendary,Dire Crown
-11,Enchantment,Common,Blight
-12,Spell,Common,Frost
-13,Enchantment,Common,Haste
-14,Creature,Common,Paladin
-15,Creature,Rare,Death Thief Hydra
-16,Enchantment,Legendary,Potent Strength
-17,Artifact,Common,Ring
-18,Spell,Rare,Gloom Frenzy
-19,Creature,Common,Orc
-20,Enchantment,Rare,Hateful Blight
-21,Artifact,Legendary,Clever Ghost Wand
-22,Artifact,Common,Greaves
-23,Spell,Common,Gale
-24,Enchantment,Common,Shield
-25,Creature,Common,Orc
-26,Spell,Common,Rage
-27,Artifact,Common,Crown
-28,Spell,Common,Ice
-29,Enchantment,Common,Shade
-30,Artifact,Common,Potion
-31,Creature,Rare,Frozen Knight Berserker
-32,Creature,Rare,Aura Assassin Hydra
-33,Enchantment,Common,Blight
-34,Enchantment,Common,Flight
-35,Creature,Legendary,Snow Assassin Oni of the Bright Mountains
-36,Creature,Common,Orc
-37,Creature,Common,Paladin
-38,Spell,Rare,Hateful Burst
-39,Artifact,Common,Bracers
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Agony
-42,Artifact,Common,Shield
-43,Creature,Common,Wolf
-44,Spell,Rare,Hateful Maelstrom
+==================,DECK,7485
+0,Creature,Frozen Rogue Dwarf of the Bright Mountains
+1,Enchantment,Alacrity
+2,Spell,Frost
+3,Creature,Troll
+4,Creature,Wolf
+5,Creature,Berserker
+6,Spell,Necro Gravitation
+7,Enchantment,Apocalypse Blight
+8,Creature,Berserker
+9,Spell,Pandemonium
+10,Artifact,Irate Life Crown
+11,Enchantment,Shade
+12,Spell,Stun
+13,Enchantment,Deathgrip
+14,Creature,Troll
+15,Creature,Death Thief Hydra
+16,Enchantment,Urgent Nimble Invert
+17,Artifact,Ring
+18,Spell,Dark Stricken
+19,Creature,Spider
+20,Enchantment,Cataclysmic Flight
+21,Artifact,Urgent Oblivion Ghost Wand
+22,Artifact,Greaves
+23,Spell,Torment
+24,Enchantment,Agony
+25,Creature,Spider
+26,Spell,Frost
+27,Artifact,Crown
+28,Spell,Wall
+29,Enchantment,Shade
+30,Artifact,Potion
+31,Creature,Frozen Knight Goblin
+32,Creature,Aura Assassin Hydra
+33,Enchantment,Alacrity
+34,Enchantment,Lethargy
+35,Creature,Snow Assassin Oni of the Bright Mountains
+36,Creature,Spider
+37,Creature,Troll
+38,Spell,Sorrow Fire
+39,Artifact,Bracers
+40,Creature,Magi
+41,Enchantment,Deathgrip
+42,Artifact,Shield
+43,Creature,Wolf
+44,Spell,Gloom Pandemonium

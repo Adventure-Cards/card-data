@@ -1,46 +1,46 @@
-==================,DECK,6874,Light
-0,Creature,Legendary,Death Rogue Giant of the Haven
-1,Spell,Common,Freeze
-2,Creature,Legendary,Death Fighter Oni of the Eternal Land
-3,Creature,Common,Spider
-4,Creature,Common,Dwarf
-5,Creature,Common,Ghoul
-6,Creature,Rare,Light Fighter Skin-Walker
-7,Spell,Rare,Shimmering Sorrow
-8,Creature,Common,Goblin
-9,Enchantment,Common,Deathgrip
-10,Creature,Common,Orc
-11,Creature,Legendary,Death Queen Kraken of the Mountains
-12,Spell,Common,Frenzy
-13,Creature,Rare,Frozen Rogue Fairy
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Strength
-16,Spell,Common,Revive
-17,Enchantment,Common,Flight
-18,Creature,Rare,Earth Undead Skin-Walker
-19,Enchantment,Mythic,Angry Invert
-20,Creature,Legendary,Dark Undead Oni of the Low Hills
-21,Creature,Common,Warlock
-22,Creature,Rare,Aura Thief Minotaur
-23,Enchantment,Common,Agony
-24,Creature,Legendary,Snow Assassin Kraken of the Eastern Skies
-25,Enchantment,Common,Lethargy
-26,Spell,Rare,Corpse Gravitation
-27,Creature,Common,Orc
-28,Artifact,Common,Sword
-29,Enchantment,Common,Agony
-30,Artifact,Rare,Oblivion Helm
-31,Creature,Common,Warlock
-32,Artifact,Legendary,Mighty Scythe
-33,Creature,Rare,Aura Assassin Berserker
-34,Spell,Common,Revive
-35,Creature,Rare,Aura Lord Skin-Walker
-36,Enchantment,Common,Shade
-37,Enchantment,Rare,Necro Drain
-38,Creature,Common,Eagle
-39,Creature,Rare,Death King Griffin
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Age
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Rare,Life Shrink
-44,Creature,Rare,Aura Undead Skin-Walker
+==================,DECK,6874
+0,Creature,Death Rogue Dwarf of the Haven
+1,Spell,Frost
+2,Creature,Death Fighter Oni of the Eternal Land
+3,Creature,Paladin
+4,Creature,Magi
+5,Creature,Ghoul
+6,Creature,Light Fighter Orc
+7,Spell,Shimmering Revive
+8,Creature,Skin-Walker
+9,Enchantment,Haste
+10,Creature,Spider
+11,Creature,Death Queen Ogre of the Mountains
+12,Spell,Reanimate
+13,Creature,Frozen Rogue Kraken
+14,Creature,Magi
+15,Enchantment,Haste
+16,Spell,Sorrow
+17,Enchantment,Shield
+18,Creature,Earth Undead Orc
+19,Enchantment,Dire Sorrow Firebreath
+20,Creature,Dark Undead Oni of the Low Hills
+21,Creature,Berserker
+22,Creature,Aura Thief Cyclops
+23,Enchantment,Blight
+24,Creature,Snow Assassin Ogre of the Eastern Skies
+25,Enchantment,Drain
+26,Spell,Necro Fury
+27,Creature,Spider
+28,Artifact,Sword
+29,Enchantment,Firebreath
+30,Artifact,Oblivion Helm
+31,Creature,Berserker
+32,Artifact,Empyrean Lunar Scythe
+33,Creature,Aura Assassin Goblin
+34,Spell,Frenzy
+35,Creature,Aura Lord Orc
+36,Enchantment,Shield
+37,Enchantment,Forged Age
+38,Creature,Eagle
+39,Creature,Death King Griffin
+40,Creature,Magi
+41,Enchantment,Invert
+42,Enchantment,Alacrity
+43,Enchantment,Frigid Drain
+44,Creature,Aura Undead Orc

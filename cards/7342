@@ -1,46 +1,46 @@
-==================,DECK,7342,Medium
-0,Spell,Common,Stricken
-1,Creature,Common,Warlock
-2,Spell,Common,Frost
-3,Spell,Legendary,Extreme Torment
-4,Creature,Common,Spider
-5,Creature,Common,Wolf
-6,Spell,Common,Gravitation
-7,Enchantment,Common,Shrink
-8,Spell,Common,Ice
-9,Spell,Common,Fury
-10,Spell,Common,Infuriate
-11,Creature,Rare,Aura King Berserker
-12,Enchantment,Common,Alacrity
-13,Enchantment,Common,Shrink
-14,Enchantment,Common,Haste
-15,Artifact,Common,Bow
-16,Spell,Common,Wall
-17,Creature,Common,Elf
-18,Creature,Common,Ghoul
-19,Enchantment,Rare,Nature Shrink
-20,Enchantment,Rare,Solar Shield
-21,Artifact,Common,Greaves
-22,Enchantment,Common,Haste
-23,Enchantment,Rare,Lunar Deathgrip
-24,Creature,Legendary,Frozen Priest Cyclops of the Black Stone
-25,Spell,Rare,Dark Revive
-26,Creature,Common,Eagle
-27,Creature,Common,Orc
-28,Enchantment,Rare,Gloom Lethargy
-29,Creature,Legendary,Snow Merchant Orge of the Haven
-30,Spell,Rare,Lunar Reanimate
-31,Spell,Rare,Lunar Ice
-32,Enchantment,Mythic,Angry Shield
-33,Spell,Common,Invisibility
-34,Artifact,Common,Divine Robe
-35,Spell,Common,Burn
-36,Creature,Common,Magi
-37,Creature,Common,Eagle
-38,Artifact,Common,Helmet
-39,Creature,Common,Paladin
-40,Creature,Mythic,Frozen Time Phoenix of the Void
-41,Creature,Common,Warlock
-42,Spell,Common,Rage
-43,Creature,Common,Paladin
-44,Enchantment,Rare,Necro Shrink
+==================,DECK,7342
+0,Spell,Torment
+1,Creature,Berserker
+2,Spell,Gale
+3,Spell,Instant Miracle Stun
+4,Creature,Paladin
+5,Creature,Wolf
+6,Spell,Sorrow
+7,Enchantment,Alacrity
+8,Spell,Stun
+9,Spell,Burn
+10,Spell,Maelstrom
+11,Creature,Aura King Goblin
+12,Enchantment,Shield
+13,Enchantment,Agony
+14,Enchantment,Flight
+15,Artifact,Bow
+16,Spell,Lightning
+17,Creature,Warlock
+18,Creature,Ghoul
+19,Enchantment,Necro Agony
+20,Enchantment,Nature Lethargy
+21,Artifact,Greaves
+22,Enchantment,Firebreath
+23,Enchantment,Sorrow Shrink
+24,Creature,Frozen Priest Giant of the Black Stone
+25,Spell,Cataclysmic Freeze
+26,Creature,Eagle
+27,Creature,Spider
+28,Enchantment,Lunar Firebreath
+29,Creature,Snow Merchant Elf of the Haven
+30,Spell,Gloom Burn
+31,Spell,Sorrow Tempest
+32,Enchantment,Ardent Gloom Shield
+33,Spell,Reanimate
+34,Artifact,Divine Robe
+35,Spell,Pandemonium
+36,Creature,Fairy
+37,Creature,Eagle
+38,Artifact,Helmet
+39,Creature,Troll
+40,Creature,Frozen Time Phoenix of the Void
+41,Creature,Berserker
+42,Spell,Stricken
+43,Creature,Troll
+44,Enchantment,Necro Lethargy

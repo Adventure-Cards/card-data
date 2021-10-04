@@ -1,46 +1,46 @@
-==================,DECK,5562,Medium
-0,Creature,Common,Warlock
-1,Spell,Common,Ice
-2,Creature,Rare,Death Merchant Griffin
-3,Creature,Common,Magi
-4,Creature,Legendary,Snow King Cyclops of the Eastern Skies
-5,Enchantment,Common,Deathgrip
-6,Spell,Legendary,Angry Revive
-7,Creature,Common,Wolf
-8,Spell,Rare,Hateful Pandemonium
-9,Spell,Common,Stricken
-10,Spell,Legendary,Dire Burn
-11,Enchantment,Rare,Apocalypse Age
-12,Creature,Rare,Light Queen Griffin
-13,Creature,Legendary,Frozen Knight Oni of the Arctic Blizzards
-14,Creature,Rare,Frozen Fighter Hydra
-15,Artifact,Rare,Hateful Tome
-16,Creature,Legendary,Frozen Thief Orge of the Bright Mountains
-17,Spell,Common,Stricken
-18,Creature,Common,Ghoul
-19,Spell,Common,Torment
-20,Creature,Common,Spider
-21,Creature,Common,Dwarf
-22,Creature,Rare,Dark Priest Skin-Walker
-23,Creature,Legendary,Aura Assassin Cyclops of the Bright Mountains
-24,Spell,Mythic,Potent Stun
-25,Enchantment,Common,Flight
-26,Enchantment,Rare,Nature Age
-27,Creature,Rare,Snow Assassin Griffin
-28,Creature,Rare,Earth Rogue Minotaur
-29,Enchantment,Common,Shade
-30,Enchantment,Common,Lethargy
-31,Creature,Common,Orc
-32,Enchantment,Mythic,Instant Shield
-33,Creature,Common,Eagle
-34,Creature,Rare,Death Knight Griffin
-35,Spell,Common,Gale
-36,Enchantment,Rare,Nature Deathgrip
-37,Creature,Rare,Aura Queen Minotaur
-38,Creature,Mythic,Aura Grand Wizard of the Light
-39,Creature,Common,Orc
-40,Creature,Common,Elf
-41,Creature,Common,Spider
-42,Creature,Legendary,Death Lord Cyclops of the Golden Palace
-43,Spell,Common,Frenzy
-44,Creature,Common,Magi
+==================,DECK,5562
+0,Creature,Berserker
+1,Spell,Fury
+2,Creature,Death Merchant Griffin
+3,Creature,Fairy
+4,Creature,Snow King Giant of the Eastern Skies
+5,Enchantment,Invert
+6,Spell,Irate Cataclysmic Freeze
+7,Creature,Wolf
+8,Spell,Lunar Ice
+9,Spell,Lightning
+10,Spell,Clever Life Tempest
+11,Enchantment,Victory Invert
+12,Creature,Light Queen Griffin
+13,Creature,Frozen Knight Oni of the Arctic Blizzards
+14,Creature,Frozen Fighter Hydra
+15,Artifact,Dark Tome
+16,Creature,Frozen Thief Elf of the Bright Mountains
+17,Spell,Frost
+18,Creature,Ghoul
+19,Spell,Fireball
+20,Creature,Paladin
+21,Creature,Magi
+22,Creature,Dark Priest Orc
+23,Creature,Aura Assassin Giant of the Bright Mountains
+24,Spell,Clever Nimble Freeze
+25,Enchantment,Haste
+26,Enchantment,Nature Age
+27,Creature,Snow Assassin Griffin
+28,Creature,Earth Rogue Cyclops
+29,Enchantment,Deathgrip
+30,Enchantment,Invert
+31,Creature,Spider
+32,Enchantment,Urgent Nature Agony
+33,Creature,Eagle
+34,Creature,Death Knight Griffin
+35,Spell,Fireball
+36,Enchantment,Shimmering Agony
+37,Creature,Aura Queen Cyclops
+38,Creature,Aura Grand Wizard of the Light
+39,Creature,Spider
+40,Creature,Warlock
+41,Creature,Paladin
+42,Creature,Death Lord Giant of the Golden Palace
+43,Spell,Fury
+44,Creature,Fairy

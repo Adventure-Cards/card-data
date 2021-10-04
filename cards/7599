@@ -1,46 +1,46 @@
-==================,DECK,7599,Light
-0,Artifact,Common,Pendant
-1,Enchantment,Mythic,Extreme Shrink
-2,Enchantment,Common,Agony
-3,Spell,Common,Heal
-4,Creature,Rare,Light Warrior Minotaur
-5,Creature,Legendary,Frozen Warrior Oni of the Eastern Skies
-6,Creature,Common,Paladin
-7,Creature,Common,Goblin
-8,Creature,Common,Paladin
-9,Enchantment,Common,Lethargy
-10,Creature,Common,Magi
-11,Creature,Common,Wolf
-12,Spell,Rare,Solar Lightning
-13,Creature,Common,Dwarf
-14,Creature,Common,Elf
-15,Enchantment,Common,Drain
-16,Creature,Rare,Snow Monk Griffin
-17,Spell,Common,Pandemonium
-18,Creature,Common,Magi
-19,Artifact,Common,Tome
-20,Artifact,Common,Sword
-21,Artifact,Common,Crown
-22,Creature,Common,Elf
-23,Creature,Rare,Aura Fighter Berserker
-24,Spell,Common,Torment
-25,Enchantment,Legendary,Clever Agony
-26,Creature,Common,Elf
-27,Enchantment,Rare,Corpse Strength
-28,Creature,Rare,Dark Assassin Griffin
-29,Enchantment,Mythic,Extreme Shade
-30,Creature,Common,Ghoul
-31,Creature,Rare,Dark Warrior Skin-Walker
-32,Spell,Legendary,Clever Rage
-33,Creature,Common,Wolf
-34,Creature,Common,Eagle
-35,Spell,Common,Stricken
-36,Creature,Common,Dwarf
-37,Creature,Rare,Death Monk Skin-Walker
-38,Creature,Rare,Death Knight Skin-Walker
-39,Artifact,Common,Helmet
-40,Enchantment,Common,Haste
-41,Creature,Common,Eagle
-42,Enchantment,Common,Shrink
-43,Artifact,Common,Potion
-44,Artifact,Common,Crown
+==================,DECK,7599
+0,Artifact,Pendant
+1,Enchantment,Empyrean Chimeric Firebreath
+2,Enchantment,Strength
+3,Spell,Heal
+4,Creature,Light Warrior Cyclops
+5,Creature,Frozen Warrior Oni of the Eastern Skies
+6,Creature,Troll
+7,Creature,Skin-Walker
+8,Creature,Troll
+9,Enchantment,Haste
+10,Creature,Fairy
+11,Creature,Wolf
+12,Spell,Corpse Assault
+13,Creature,Magi
+14,Creature,Warlock
+15,Enchantment,Alacrity
+16,Creature,Snow Monk Griffin
+17,Spell,Infuriate
+18,Creature,Fairy
+19,Artifact,Tome
+20,Artifact,Sword
+21,Artifact,Crown
+22,Creature,Warlock
+23,Creature,Aura Fighter Goblin
+24,Spell,Burst
+25,Enchantment,Urgent Life Invert
+26,Creature,Warlock
+27,Enchantment,Solar Age
+28,Creature,Dark Assassin Griffin
+29,Enchantment,Instant Chimeric Shrink
+30,Creature,Ghoul
+31,Creature,Dark Warrior Orc
+32,Spell,Ardent Apocalypse Freeze
+33,Creature,Wolf
+34,Creature,Eagle
+35,Spell,Stun
+36,Creature,Magi
+37,Creature,Death Monk Orc
+38,Creature,Death Knight Orc
+39,Artifact,Helmet
+40,Enchantment,Shield
+41,Creature,Eagle
+42,Enchantment,Deathgrip
+43,Artifact,Potion
+44,Artifact,Crown

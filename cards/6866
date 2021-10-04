@@ -1,46 +1,46 @@
-==================,DECK,6866,Medium
-0,Creature,Legendary,Frozen Rogue Cyclops of the Haven
-1,Creature,Common,Orc
-2,Spell,Common,Maelstrom
-3,Artifact,Common,Ring
-4,Enchantment,Rare,Frigid Lethargy
-5,Creature,Rare,Light Merchant Fairy
-6,Creature,Rare,Death Warrior Berserker
-7,Creature,Mythic,Aura Undead Phoenix of the Light
-8,Creature,Common,Goblin
-9,Creature,Common,Paladin
-10,Artifact,Rare,Apocalypse Divine Robe
-11,Spell,Common,Reanimate
-12,Creature,Common,Wolf
-13,Creature,Common,Ghoul
-14,Enchantment,Legendary,Dire Haste
-15,Creature,Rare,Aura Merchant Skin-Walker
-16,Creature,Common,Elf
-17,Enchantment,Common,Invert
-18,Spell,Common,Infuriate
-19,Creature,Common,Warlock
-20,Enchantment,Common,Deathgrip
-21,Creature,Common,Wolf
-22,Spell,Rare,Forged Gravitation
-23,Creature,Common,Paladin
-24,Enchantment,Common,Deathgrip
-25,Spell,Common,Burn
-26,Spell,Common,Gale
-27,Creature,Legendary,Death Assassin Orge of the Border
-28,Creature,Rare,Death Thief Skin-Walker
-29,Creature,Rare,Dark Thief Fairy
-30,Spell,Common,Hypnosis
-31,Creature,Common,Magi
-32,Spell,Rare,Dark Freeze
-33,Artifact,Common,Sword
-34,Creature,Rare,Snow Monk Hydra
-35,Spell,Rare,Necro Hypnosis
-36,Creature,Common,Goblin
-37,Creature,Mythic,Frozen Time Dragon of the Void
-38,Spell,Common,Lightning
-39,Creature,Mythic,Death Chaos Wizard of the Dead
-40,Creature,Common,Elf
-41,Creature,Rare,Snow King Fairy
-42,Spell,Common,Revive
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Shade
+==================,DECK,6866
+0,Creature,Frozen Rogue Giant of the Haven
+1,Creature,Spider
+2,Spell,Gale
+3,Artifact,Ring
+4,Enchantment,Grim Drain
+5,Creature,Light Merchant Kraken
+6,Creature,Death Warrior Goblin
+7,Creature,Aura Undead Phoenix of the Light
+8,Creature,Skin-Walker
+9,Creature,Troll
+10,Artifact,Victory Divine Robe
+11,Spell,Ice
+12,Creature,Wolf
+13,Creature,Ghoul
+14,Enchantment,Clever Life Haste
+15,Creature,Aura Merchant Orc
+16,Creature,Warlock
+17,Enchantment,Haste
+18,Spell,Fury
+19,Creature,Berserker
+20,Enchantment,Firebreath
+21,Creature,Wolf
+22,Spell,Gloom Freeze
+23,Creature,Troll
+24,Enchantment,Agony
+25,Spell,Invisibility
+26,Spell,Sorrow
+27,Creature,Death Assassin Elf of the Border
+28,Creature,Death Thief Orc
+29,Creature,Dark Thief Kraken
+30,Spell,Stricken
+31,Creature,Fairy
+32,Spell,Gloom Fury
+33,Artifact,Sword
+34,Creature,Snow Monk Hydra
+35,Spell,Hateful Lightning
+36,Creature,Skin-Walker
+37,Creature,Frozen Time Dragon of the Void
+38,Spell,Rage
+39,Creature,Death Chaos Wizard of the Dead
+40,Creature,Warlock
+41,Creature,Snow King Kraken
+42,Spell,Lightning
+43,Creature,Ghoul
+44,Enchantment,Drain

@@ -1,46 +1,46 @@
-==================,DECK,4262,Light
-0,Enchantment,Common,Shrink
-1,Creature,Common,Wolf
-2,Creature,Common,Magi
-3,Creature,Common,Ghoul
-4,Creature,Rare,Death Queen Skin-Walker
-5,Creature,Common,Elf
-6,Spell,Legendary,Intense Heal
-7,Creature,Common,Eagle
-8,Creature,Legendary,Aura Fighter Oni of the Eternal Land
-9,Creature,Common,Spider
-10,Spell,Common,Wall
-11,Artifact,Rare,Solar Ring
-12,Creature,Rare,Earth Fighter Skin-Walker
-13,Enchantment,Common,Shield
-14,Spell,Rare,Forged Revive
-15,Spell,Legendary,Dire Wall
-16,Artifact,Rare,Shimmering Ring
-17,Creature,Common,Elf
-18,Enchantment,Common,Agony
-19,Creature,Rare,Frozen Undead Fairy
-20,Spell,Legendary,Intense Hypnosis
-21,Enchantment,Common,Agony
-22,Creature,Common,Paladin
-23,Enchantment,Common,Alacrity
-24,Spell,Legendary,Mighty Gravitation
-25,Creature,Legendary,Dark Assassin Orge of the Mountains
-26,Creature,Rare,Death Thief Berserker
-27,Enchantment,Common,Flight
-28,Spell,Common,Maelstrom
-29,Creature,Rare,Earth Merchant Skin-Walker
-30,Creature,Common,Elf
-31,Creature,Common,Spider
-32,Enchantment,Mythic,Urgent Haste
-33,Enchantment,Rare,Oblivion Shade
-34,Creature,Common,Ghoul
-35,Creature,Common,Paladin
-36,Spell,Common,Assault
-37,Creature,Legendary,Dark Fighter Kraken of the West
-38,Enchantment,Mythic,Dire Blight
-39,Creature,Common,Wolf
-40,Creature,Common,Paladin
-41,Creature,Common,Goblin
-42,Creature,Rare,Frozen Monk Hydra
-43,Creature,Common,Spider
-44,Enchantment,Mythic,Potent Blight
+==================,DECK,4262
+0,Enchantment,Shrink
+1,Creature,Wolf
+2,Creature,Fairy
+3,Creature,Ghoul
+4,Creature,Death Queen Orc
+5,Creature,Warlock
+6,Spell,Irate Hateful Invisibility
+7,Creature,Eagle
+8,Creature,Aura Fighter Oni of the Eternal Land
+9,Creature,Paladin
+10,Spell,Fire
+11,Artifact,Shimmering Ring
+12,Creature,Earth Fighter Orc
+13,Enchantment,Age
+14,Spell,Chimeric Freeze
+15,Spell,Instant Victory Maelstrom
+16,Artifact,Nature Ring
+17,Creature,Warlock
+18,Enchantment,Shade
+19,Creature,Frozen Undead Kraken
+20,Spell,Mighty Shimmering Tempest
+21,Enchantment,Shrink
+22,Creature,Troll
+23,Enchantment,Shrink
+24,Spell,Instant Sorrow Freeze
+25,Creature,Dark Assassin Elf of the Mountains
+26,Creature,Death Thief Goblin
+27,Enchantment,Age
+28,Spell,Burn
+29,Creature,Earth Merchant Orc
+30,Creature,Warlock
+31,Creature,Paladin
+32,Enchantment,Potent Corpse Strength
+33,Enchantment,Frigid Drain
+34,Creature,Ghoul
+35,Creature,Troll
+36,Spell,Lightning
+37,Creature,Dark Fighter Ogre of the West
+38,Enchantment,Empyrean Nimble Shade
+39,Creature,Wolf
+40,Creature,Troll
+41,Creature,Skin-Walker
+42,Creature,Frozen Monk Hydra
+43,Creature,Paladin
+44,Enchantment,Zealous Nimble Blight

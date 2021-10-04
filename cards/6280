@@ -1,46 +1,46 @@
-==================,DECK,6280,Medium
-0,Creature,Mythic,Aura Grand Demon of the Light
-1,Creature,Common,Wolf
-2,Artifact,Common,Divine Robe
-3,Creature,Rare,Frozen Priest Skin-Walker
-4,Creature,Common,Magi
-5,Creature,Rare,Frozen Assassin Hydra
-6,Creature,Common,Elf
-7,Artifact,Common,Potion
-8,Enchantment,Common,Shade
-9,Creature,Common,Warlock
-10,Creature,Common,Goblin
-11,Artifact,Common,Pendant
-12,Creature,Rare,Light Rogue Griffin
-13,Spell,Common,Reanimate
-14,Artifact,Common,Ghost Wand
-15,Creature,Common,Ghoul
-16,Creature,Legendary,Frozen Lord Orge of the Frozen Castle
-17,Enchantment,Rare,Miracle Deathgrip
-18,Enchantment,Legendary,Dire Shrink
-19,Enchantment,Common,Shrink
-20,Creature,Rare,Aura Lord Skin-Walker
-21,Creature,Legendary,Frozen Knight Giant of the Eternal Land
-22,Enchantment,Rare,Lunar Shrink
-23,Creature,Rare,Frozen Priest Griffin
-24,Artifact,Rare,Apocalypse Shield
-25,Spell,Rare,Grim Wall
-26,Enchantment,Legendary,Intense Shrink
-27,Spell,Rare,Frigid Rage
-28,Creature,Rare,Snow Warrior Fairy
-29,Creature,Common,Magi
-30,Creature,Common,Wolf
-31,Creature,Common,Goblin
-32,Creature,Common,Warlock
-33,Creature,Mythic,Frozen Time Phoenix of the Void
-34,Spell,Common,Lightning
-35,Creature,Common,Dwarf
-36,Creature,Common,Ghoul
-37,Creature,Common,Eagle
-38,Spell,Legendary,Clever Assault
-39,Spell,Legendary,Clever Burn
-40,Creature,Legendary,Dark Thief Cyclops of the Swamp
-41,Creature,Common,Goblin
-42,Creature,Common,Spider
-43,Creature,Rare,Snow Assassin Hydra
-44,Artifact,Rare,Apocalypse Staff
+==================,DECK,6280
+0,Creature,Aura Grand Demon of the Light
+1,Creature,Wolf
+2,Artifact,Divine Robe
+3,Creature,Frozen Priest Orc
+4,Creature,Fairy
+5,Creature,Frozen Assassin Hydra
+6,Creature,Warlock
+7,Artifact,Potion
+8,Enchantment,Firebreath
+9,Creature,Berserker
+10,Creature,Skin-Walker
+11,Artifact,Pendant
+12,Creature,Light Rogue Griffin
+13,Spell,Frenzy
+14,Artifact,Ghost Wand
+15,Creature,Ghoul
+16,Creature,Frozen Lord Elf of the Frozen Castle
+17,Enchantment,Oblivion Blight
+18,Enchantment,Zealous Frigid Blight
+19,Enchantment,Haste
+20,Creature,Aura Lord Orc
+21,Creature,Frozen Knight Dwarf of the Eternal Land
+22,Enchantment,Chimeric Alacrity
+23,Creature,Frozen Priest Griffin
+24,Artifact,Grim Shield
+25,Spell,Victory Fire
+26,Enchantment,Potent Necro Strength
+27,Spell,Nimble Reanimate
+28,Creature,Snow Warrior Kraken
+29,Creature,Fairy
+30,Creature,Wolf
+31,Creature,Skin-Walker
+32,Creature,Berserker
+33,Creature,Frozen Time Phoenix of the Void
+34,Spell,Frenzy
+35,Creature,Magi
+36,Creature,Ghoul
+37,Creature,Eagle
+38,Spell,Urgent Oblivion Pandemonium
+39,Spell,Zealous Grim Vortex
+40,Creature,Dark Thief Giant of the Swamp
+41,Creature,Skin-Walker
+42,Creature,Paladin
+43,Creature,Snow Assassin Hydra
+44,Artifact,Life Staff

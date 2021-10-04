@@ -1,46 +1,46 @@
-==================,DECK,7331,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Spider
-2,Creature,Rare,Death Knight Griffin
-3,Enchantment,Common,Shield
-4,Creature,Rare,Frozen Lord Berserker
-5,Creature,Rare,Earth Assassin Hydra
-6,Creature,Common,Orc
-7,Creature,Common,Eagle
-8,Spell,Common,Frenzy
-9,Creature,Common,Orc
-10,Creature,Common,Ghoul
-11,Creature,Common,Warlock
-12,Creature,Common,Paladin
-13,Spell,Common,Maelstrom
-14,Creature,Legendary,Earth Undead Cyclops of the Frozen Castle
-15,Creature,Common,Wolf
-16,Spell,Rare,Frigid Assault
-17,Artifact,Common,Scythe
-18,Enchantment,Common,Shade
-19,Enchantment,Common,Blight
-20,Spell,Common,Heal
-21,Creature,Common,Magi
-22,Spell,Rare,Apocalypse Burn
-23,Creature,Common,Ghoul
-24,Creature,Common,Orc
-25,Spell,Rare,Oblivion Gravitation
-26,Artifact,Common,Helm
-27,Artifact,Common,Ghost Wand
-28,Creature,Legendary,Frozen Priest Cyclops of the Magical Forest
-29,Creature,Common,Elf
-30,Spell,Common,Sorrow
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Blight
-33,Artifact,Common,Greaves
-34,Artifact,Common,Scythe
-35,Creature,Common,Ghoul
-36,Enchantment,Mythic,Instant Drain
-37,Creature,Rare,Frozen Thief Griffin
-38,Enchantment,Common,Shrink
-39,Creature,Common,Dwarf
-40,Creature,Mythic,Light Undead Dragon of the Sky
-41,Artifact,Common,Shield
-42,Creature,Common,Spider
-43,Creature,Rare,Earth Fighter Minotaur
-44,Spell,Mythic,Mighty Frost
+==================,DECK,7331
+0,Creature,Ghoul
+1,Creature,Paladin
+2,Creature,Death Knight Griffin
+3,Enchantment,Alacrity
+4,Creature,Frozen Lord Goblin
+5,Creature,Earth Assassin Hydra
+6,Creature,Spider
+7,Creature,Eagle
+8,Spell,Torment
+9,Creature,Spider
+10,Creature,Ghoul
+11,Creature,Berserker
+12,Creature,Troll
+13,Spell,Frenzy
+14,Creature,Earth Undead Giant of the Frozen Castle
+15,Creature,Wolf
+16,Spell,Grim Torment
+17,Artifact,Scythe
+18,Enchantment,Shade
+19,Enchantment,Shrink
+20,Spell,Vortex
+21,Creature,Fairy
+22,Spell,Grim Burst
+23,Creature,Ghoul
+24,Creature,Spider
+25,Spell,Life Frenzy
+26,Artifact,Helm
+27,Artifact,Ghost Wand
+28,Creature,Frozen Priest Giant of the Magical Forest
+29,Creature,Warlock
+30,Spell,Freeze
+31,Creature,Ghoul
+32,Enchantment,Alacrity
+33,Artifact,Greaves
+34,Artifact,Scythe
+35,Creature,Ghoul
+36,Enchantment,Mighty Forged Agony
+37,Creature,Frozen Thief Griffin
+38,Enchantment,Drain
+39,Creature,Magi
+40,Creature,Light Undead Dragon of the Sky
+41,Artifact,Shield
+42,Creature,Paladin
+43,Creature,Earth Fighter Cyclops
+44,Spell,Ardent Sorrow Tempest

@@ -1,46 +1,46 @@
-==================,DECK,6806,Medium
-0,Creature,Common,Spider
-1,Creature,Mythic,Light Nameless Phoenix of the Sky
-2,Spell,Common,Assault
-3,Spell,Common,Maelstrom
-4,Creature,Common,Dwarf
-5,Spell,Rare,Oblivion Gravitation
-6,Spell,Common,Stun
-7,Spell,Common,Wall
-8,Spell,Common,Burn
-9,Creature,Legendary,Snow Queen Orge of the Border
-10,Artifact,Common,Greaves
-11,Creature,Common,Wolf
-12,Spell,Common,Gale
-13,Creature,Rare,Earth Warrior Minotaur
-14,Creature,Mythic,Snow Undead Phoenix of Hate
-15,Enchantment,Common,Invert
-16,Creature,Mythic,Frozen Ancient Wizard of the Void
-17,Creature,Common,Ghoul
-18,Creature,Common,Wolf
-19,Creature,Common,Dwarf
-20,Creature,Common,Magi
-21,Enchantment,Rare,Apocalypse Shrink
-22,Enchantment,Common,Drain
-23,Creature,Rare,Snow Merchant Minotaur
-24,Enchantment,Common,Strength
-25,Creature,Mythic,Death Grand Wizard of the Dead
-26,Creature,Mythic,Snow Grand Wizard of Hate
-27,Creature,Common,Goblin
-28,Spell,Legendary,Clever Fury
-29,Creature,Rare,Death Assassin Skin-Walker
-30,Creature,Common,Paladin
-31,Enchantment,Common,Shade
-32,Creature,Common,Magi
-33,Enchantment,Common,Invert
-34,Enchantment,Mythic,Extreme Haste
-35,Spell,Common,Maelstrom
-36,Creature,Mythic,Light Ancient Wizard of the Sky
-37,Creature,Common,Elf
-38,Spell,Mythic,Mighty Ice
-39,Creature,Rare,Snow Undead Hydra
-40,Creature,Common,Dwarf
-41,Creature,Rare,Snow Warrior Fairy
-42,Creature,Mythic,Frozen Nameless Dragon of the Void
-43,Enchantment,Common,Deathgrip
-44,Creature,Rare,Frozen Priest Griffin
+==================,DECK,6806
+0,Creature,Paladin
+1,Creature,Light Nameless Phoenix of the Sky
+2,Spell,Burst
+3,Spell,Ice
+4,Creature,Magi
+5,Spell,Frigid Freeze
+6,Spell,Invisibility
+7,Spell,Stricken
+8,Spell,Fury
+9,Creature,Snow Queen Elf of the Border
+10,Artifact,Greaves
+11,Creature,Wolf
+12,Spell,Infuriate
+13,Creature,Earth Warrior Cyclops
+14,Creature,Snow Undead Phoenix of Hate
+15,Enchantment,Shrink
+16,Creature,Frozen Ancient Wizard of the Void
+17,Creature,Ghoul
+18,Creature,Wolf
+19,Creature,Magi
+20,Creature,Fairy
+21,Enchantment,Frigid Invert
+22,Enchantment,Deathgrip
+23,Creature,Snow Merchant Cyclops
+24,Enchantment,Blight
+25,Creature,Death Grand Wizard of the Dead
+26,Creature,Snow Grand Wizard of Hate
+27,Creature,Skin-Walker
+28,Spell,Mighty Life Torment
+29,Creature,Death Assassin Orc
+30,Creature,Troll
+31,Enchantment,Haste
+32,Creature,Fairy
+33,Enchantment,Firebreath
+34,Enchantment,Empyrean Miracle Firebreath
+35,Spell,Ice
+36,Creature,Light Ancient Wizard of the Sky
+37,Creature,Warlock
+38,Spell,Zealous Sorrow Maelstrom
+39,Creature,Snow Undead Hydra
+40,Creature,Magi
+41,Creature,Snow Warrior Kraken
+42,Creature,Frozen Nameless Dragon of the Void
+43,Enchantment,Invert
+44,Creature,Frozen Priest Griffin

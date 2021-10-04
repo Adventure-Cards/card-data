@@ -1,46 +1,46 @@
-==================,DECK,5182,Medium
-0,Creature,Rare,Dark Rogue Hydra
-1,Spell,Common,Fury
-2,Creature,Legendary,Aura Knight Cyclops of the Eternal Land
-3,Creature,Mythic,Frozen Ancient Wizard of the Void
-4,Enchantment,Common,Age
-5,Creature,Common,Ghoul
-6,Creature,Common,Paladin
-7,Spell,Legendary,Extreme Maelstrom
-8,Creature,Common,Warlock
-9,Creature,Common,Orc
-10,Artifact,Rare,Necro Greaves
-11,Artifact,Common,Helm
-12,Creature,Legendary,Snow Rogue Kraken of the Swamp
-13,Spell,Common,Pandemonium
-14,Artifact,Common,Boots
-15,Creature,Legendary,Light Fighter Cyclops of the Magical Forest
-16,Creature,Common,Paladin
-17,Spell,Rare,Gloom Frenzy
-18,Creature,Common,Elf
-19,Creature,Common,Spider
-20,Artifact,Common,Pendant
-21,Creature,Rare,Light Warrior Minotaur
-22,Spell,Common,Frost
-23,Artifact,Common,Ghost Wand
-24,Creature,Legendary,Snow Queen Kraken of the Mountains
-25,Artifact,Common,Ghost Wand
-26,Creature,Legendary,Snow Warrior Orge of the Eternal Land
-27,Spell,Rare,Miracle Sorrow
-28,Spell,Common,Wall
-29,Enchantment,Common,Lethargy
-30,Enchantment,Common,Shrink
-31,Creature,Common,Spider
-32,Creature,Rare,Aura Fighter Minotaur
-33,Artifact,Common,Boots
-34,Artifact,Rare,Dark Helmet
-35,Enchantment,Common,Haste
-36,Creature,Common,Warlock
-37,Creature,Mythic,Snow Grand Wizard of Hate
-38,Enchantment,Common,Shrink
-39,Enchantment,Common,Blight
-40,Spell,Common,Fury
-41,Enchantment,Rare,Cataclysmic Haste
-42,Creature,Rare,Dark Fighter Minotaur
-43,Artifact,Rare,Lunar Bracers
-44,Artifact,Rare,Solar Ring
+==================,DECK,5182
+0,Creature,Dark Rogue Hydra
+1,Spell,Frost
+2,Creature,Aura Knight Giant of the Eternal Land
+3,Creature,Frozen Ancient Wizard of the Void
+4,Enchantment,Deathgrip
+5,Creature,Ghoul
+6,Creature,Troll
+7,Spell,Potent Chimeric Fireball
+8,Creature,Berserker
+9,Creature,Spider
+10,Artifact,Forged Greaves
+11,Artifact,Helm
+12,Creature,Snow Rogue Ogre of the Swamp
+13,Spell,Pandemonium
+14,Artifact,Boots
+15,Creature,Light Fighter Giant of the Magical Forest
+16,Creature,Troll
+17,Spell,Cataclysmic Heal
+18,Creature,Warlock
+19,Creature,Paladin
+20,Artifact,Pendant
+21,Creature,Light Warrior Cyclops
+22,Spell,Fireball
+23,Artifact,Ghost Wand
+24,Creature,Snow Queen Ogre of the Mountains
+25,Artifact,Ghost Wand
+26,Creature,Snow Warrior Elf of the Eternal Land
+27,Spell,Nimble Freeze
+28,Spell,Maelstrom
+29,Enchantment,Invert
+30,Enchantment,Deathgrip
+31,Creature,Paladin
+32,Creature,Aura Fighter Cyclops
+33,Artifact,Boots
+34,Artifact,Lunar Helmet
+35,Enchantment,Blight
+36,Creature,Berserker
+37,Creature,Snow Grand Wizard of Hate
+38,Enchantment,Drain
+39,Enchantment,Blight
+40,Spell,Torment
+41,Enchantment,Miracle Alacrity
+42,Creature,Dark Fighter Cyclops
+43,Artifact,Sorrow Bracers
+44,Artifact,Nature Ring

@@ -1,46 +1,46 @@
-==================,DECK,7468,Light
-0,Enchantment,Common,Shield
-1,Enchantment,Common,Invert
-2,Creature,Common,Spider
-3,Creature,Common,Dwarf
-4,Creature,Mythic,Death Undead Phoenix of the Dead
-5,Creature,Common,Spider
-6,Creature,Common,Magi
-7,Creature,Common,Goblin
-8,Spell,Common,Burst
-9,Spell,Common,Vortex
-10,Artifact,Common,Potion
-11,Enchantment,Common,Shade
-12,Enchantment,Common,Shield
-13,Spell,Common,Assault
-14,Enchantment,Common,Invert
-15,Artifact,Common,Pendant
-16,Creature,Common,Dwarf
-17,Creature,Common,Orc
-18,Enchantment,Common,Shade
-19,Creature,Common,Paladin
-20,Creature,Mythic,Light Ancient Wizard of the Sky
-21,Artifact,Rare,Corpse Helmet
-22,Enchantment,Mythic,Clever Strength
-23,Spell,Common,Pandemonium
-24,Spell,Common,Maelstrom
-25,Creature,Rare,Aura Lord Minotaur
-26,Enchantment,Rare,Frigid Shield
-27,Creature,Rare,Death Priest Hydra
-28,Enchantment,Common,Blight
-29,Spell,Common,Infuriate
-30,Creature,Common,Paladin
-31,Spell,Rare,Dark Vortex
-32,Creature,Rare,Light Warrior Minotaur
-33,Enchantment,Common,Shield
-34,Creature,Common,Orc
-35,Spell,Common,Sorrow
-36,Enchantment,Rare,Life Drain
-37,Spell,Legendary,Instant Pandemonium
-38,Enchantment,Common,Haste
-39,Spell,Common,Infuriate
-40,Creature,Common,Dwarf
-41,Enchantment,Common,Haste
-42,Creature,Common,Goblin
-43,Creature,Common,Elf
-44,Spell,Common,Burn
+==================,DECK,7468
+0,Enchantment,Shrink
+1,Enchantment,Agony
+2,Creature,Paladin
+3,Creature,Magi
+4,Creature,Death Undead Phoenix of the Dead
+5,Creature,Paladin
+6,Creature,Fairy
+7,Creature,Skin-Walker
+8,Spell,Frenzy
+9,Spell,Hypnosis
+10,Artifact,Potion
+11,Enchantment,Haste
+12,Enchantment,Lethargy
+13,Spell,Stricken
+14,Enchantment,Haste
+15,Artifact,Pendant
+16,Creature,Magi
+17,Creature,Spider
+18,Enchantment,Firebreath
+19,Creature,Troll
+20,Creature,Light Ancient Wizard of the Sky
+21,Artifact,Forged Helmet
+22,Enchantment,Irate Nimble Blight
+23,Spell,Torment
+24,Spell,Fury
+25,Creature,Aura Lord Cyclops
+26,Enchantment,Victory Drain
+27,Creature,Death Priest Hydra
+28,Enchantment,Drain
+29,Spell,Tempest
+30,Creature,Troll
+31,Spell,Gloom Wall
+32,Creature,Light Warrior Cyclops
+33,Enchantment,Alacrity
+34,Creature,Spider
+35,Spell,Gale
+36,Enchantment,Apocalypse Invert
+37,Spell,Clever Shimmering Tempest
+38,Enchantment,Shrink
+39,Spell,Fireball
+40,Creature,Magi
+41,Enchantment,Shade
+42,Creature,Skin-Walker
+43,Creature,Warlock
+44,Spell,Hypnosis

@@ -1,46 +1,46 @@
-==================,DECK,6149,Light
-0,Creature,Common,Elf
-1,Creature,Rare,Frozen King Fairy
-2,Creature,Common,Eagle
-3,Creature,Common,Paladin
-4,Spell,Common,Wall
-5,Creature,Common,Magi
-6,Creature,Common,Dwarf
-7,Enchantment,Common,Shrink
-8,Enchantment,Rare,Miracle Blight
-9,Creature,Common,Elf
-10,Enchantment,Common,Agony
-11,Creature,Rare,Death Merchant Skin-Walker
-12,Enchantment,Common,Age
-13,Spell,Common,Ice
-14,Spell,Legendary,Intense Reanimate
-15,Spell,Common,Gravitation
-16,Creature,Rare,Light Undead Griffin
-17,Spell,Common,Assault
-18,Spell,Common,Revive
-19,Spell,Common,Burst
-20,Creature,Common,Orc
-21,Creature,Common,Spider
-22,Enchantment,Common,Haste
-23,Artifact,Common,Crown
-24,Spell,Legendary,Mighty Gravitation
-25,Spell,Common,Burn
-26,Creature,Rare,Frozen Warrior Hydra
-27,Creature,Common,Orc
-28,Enchantment,Rare,Frigid Strength
-29,Creature,Common,Dwarf
-30,Creature,Common,Goblin
-31,Creature,Common,Spider
-32,Spell,Rare,Necro Hypnosis
-33,Creature,Common,Orc
-34,Creature,Rare,Light Monk Berserker
-35,Spell,Common,Ice
-36,Enchantment,Rare,Corpse Invert
-37,Spell,Common,Vortex
-38,Creature,Common,Magi
-39,Creature,Common,Elf
-40,Creature,Common,Elf
-41,Creature,Common,Eagle
-42,Creature,Rare,Snow Lord Griffin
-43,Enchantment,Common,Lethargy
-44,Spell,Common,Vortex
+==================,DECK,6149
+0,Creature,Warlock
+1,Creature,Frozen King Kraken
+2,Creature,Eagle
+3,Creature,Troll
+4,Spell,Revive
+5,Creature,Fairy
+6,Creature,Magi
+7,Enchantment,Blight
+8,Enchantment,Nimble Shade
+9,Creature,Warlock
+10,Enchantment,Haste
+11,Creature,Death Merchant Orc
+12,Enchantment,Lethargy
+13,Spell,Gale
+14,Spell,Potent Solar Pandemonium
+15,Spell,Stricken
+16,Creature,Light Undead Griffin
+17,Spell,Fireball
+18,Spell,Ice
+19,Spell,Rage
+20,Creature,Spider
+21,Creature,Paladin
+22,Enchantment,Haste
+23,Artifact,Crown
+24,Spell,Dire Cataclysmic Gravitation
+25,Spell,Torment
+26,Creature,Frozen Warrior Hydra
+27,Creature,Spider
+28,Enchantment,Nimble Invert
+29,Creature,Magi
+30,Creature,Skin-Walker
+31,Creature,Paladin
+32,Spell,Nature Invisibility
+33,Creature,Spider
+34,Creature,Light Monk Goblin
+35,Spell,Freeze
+36,Enchantment,Shimmering Age
+37,Spell,Gale
+38,Creature,Fairy
+39,Creature,Warlock
+40,Creature,Warlock
+41,Creature,Eagle
+42,Creature,Snow Lord Griffin
+43,Enchantment,Flight
+44,Spell,Burst

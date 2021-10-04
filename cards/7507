@@ -1,46 +1,46 @@
-==================,DECK,7507,Light
-0,Creature,Common,Goblin
-1,Spell,Rare,Miracle Hypnosis
-2,Creature,Common,Wolf
-3,Creature,Common,Spider
-4,Enchantment,Rare,Nature Deathgrip
-5,Enchantment,Rare,Necro Shrink
-6,Artifact,Common,Crown
-7,Enchantment,Common,Strength
-8,Spell,Common,Freeze
-9,Creature,Common,Dwarf
-10,Creature,Common,Warlock
-11,Creature,Mythic,Frozen Grand Wizard of the Void
-12,Enchantment,Common,Shrink
-13,Creature,Common,Spider
-14,Spell,Common,Hypnosis
-15,Artifact,Common,Sigil
-16,Creature,Common,Magi
-17,Creature,Common,Paladin
-18,Artifact,Common,Gloves
-19,Spell,Common,Stricken
-20,Spell,Common,Fury
-21,Enchantment,Common,Haste
-22,Creature,Common,Orc
-23,Creature,Rare,Snow Assassin Berserker
-24,Enchantment,Common,Shade
-25,Enchantment,Common,Alacrity
-26,Creature,Common,Dwarf
-27,Creature,Common,Wolf
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Strength
-30,Creature,Rare,Frozen Queen Minotaur
-31,Spell,Common,Invisibility
-32,Creature,Rare,Snow Thief Skin-Walker
-33,Creature,Common,Paladin
-34,Creature,Mythic,Frozen Undead Phoenix of the Void
-35,Creature,Rare,Earth Assassin Skin-Walker
-36,Enchantment,Common,Shrink
-37,Creature,Rare,Death Monk Griffin
-38,Enchantment,Common,Age
-39,Enchantment,Common,Lethargy
-40,Creature,Rare,Snow Lord Minotaur
-41,Creature,Common,Dwarf
-42,Creature,Rare,Light Priest Minotaur
-43,Creature,Common,Elf
-44,Artifact,Rare,Nimble Shield
+==================,DECK,7507
+0,Creature,Skin-Walker
+1,Spell,Apocalypse Infuriate
+2,Creature,Wolf
+3,Creature,Paladin
+4,Enchantment,Shimmering Deathgrip
+5,Enchantment,Necro Strength
+6,Artifact,Crown
+7,Enchantment,Agony
+8,Spell,Ice
+9,Creature,Magi
+10,Creature,Berserker
+11,Creature,Frozen Grand Wizard of the Void
+12,Enchantment,Shield
+13,Creature,Paladin
+14,Spell,Frost
+15,Artifact,Sigil
+16,Creature,Fairy
+17,Creature,Troll
+18,Artifact,Gloves
+19,Spell,Vortex
+20,Spell,Tempest
+21,Enchantment,Alacrity
+22,Creature,Spider
+23,Creature,Snow Assassin Goblin
+24,Enchantment,Strength
+25,Enchantment,Haste
+26,Creature,Magi
+27,Creature,Wolf
+28,Creature,Magi
+29,Enchantment,Shield
+30,Creature,Frozen Queen Cyclops
+31,Spell,Stun
+32,Creature,Snow Thief Orc
+33,Creature,Troll
+34,Creature,Frozen Undead Phoenix of the Void
+35,Creature,Earth Assassin Orc
+36,Enchantment,Alacrity
+37,Creature,Death Monk Griffin
+38,Enchantment,Strength
+39,Enchantment,Shade
+40,Creature,Snow Lord Cyclops
+41,Creature,Magi
+42,Creature,Light Priest Cyclops
+43,Creature,Warlock
+44,Artifact,Nature Shield

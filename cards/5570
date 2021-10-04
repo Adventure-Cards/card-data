@@ -1,46 +1,46 @@
-==================,DECK,5570,Strong
-0,Creature,Rare,Snow Monk Berserker
-1,Creature,Rare,Frozen Queen Berserker
-2,Creature,Common,Goblin
-3,Creature,Legendary,Death Fighter Cyclops of the Plains
-4,Spell,Common,Invisibility
-5,Creature,Common,Wolf
-6,Enchantment,Common,Shrink
-7,Creature,Common,Magi
-8,Creature,Common,Elf
-9,Creature,Rare,Snow King Skin-Walker
-10,Creature,Common,Spider
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Alacrity
-13,Creature,Common,Ghoul
-14,Enchantment,Common,Shade
-15,Enchantment,Common,Strength
-16,Creature,Common,Spider
-17,Creature,Rare,Dark Warrior Fairy
-18,Creature,Common,Elf
-19,Artifact,Rare,Frigid Crown
-20,Enchantment,Common,Alacrity
-21,Artifact,Common,Ring
-22,Creature,Common,Warlock
-23,Enchantment,Mythic,Dire Flight
-24,Spell,Common,Torment
-25,Creature,Legendary,Frozen Nameless Phoenix of the Void
-26,Creature,Rare,Frozen Monk Minotaur
-27,Enchantment,Common,Agony
-28,Artifact,Legendary,Urgent Pendant
-29,Artifact,Rare,Gloom Crown
-30,Enchantment,Common,Shield
-31,Artifact,Common,Divine Robe
-32,Creature,Legendary,Aura Knight Kraken of the Eternal Land
-33,Artifact,Legendary,Urgent Boots
-34,Enchantment,Mythic,Potent Strength
-35,Artifact,Rare,Life Helm
-36,Creature,Rare,Snow Lord Fairy
-37,Enchantment,Common,Lethargy
-38,Artifact,Common,Ring
-39,Enchantment,Rare,Miracle Haste
-40,Creature,Rare,Death Thief Hydra
-41,Creature,Common,Eagle
-42,Artifact,Legendary,Potent Greaves
-43,Spell,Common,Vortex
-44,Creature,Legendary,Snow Knight Cyclops of the Black Stone
+==================,DECK,5570
+0,Creature,Snow Monk Goblin
+1,Creature,Frozen Queen Goblin
+2,Creature,Skin-Walker
+3,Creature,Death Fighter Giant of the Plains
+4,Spell,Maelstrom
+5,Creature,Wolf
+6,Enchantment,Blight
+7,Creature,Fairy
+8,Creature,Warlock
+9,Creature,Snow King Orc
+10,Creature,Paladin
+11,Creature,Ghoul
+12,Enchantment,Deathgrip
+13,Creature,Ghoul
+14,Enchantment,Shrink
+15,Enchantment,Age
+16,Creature,Paladin
+17,Creature,Dark Warrior Kraken
+18,Creature,Warlock
+19,Artifact,Oblivion Crown
+20,Enchantment,Alacrity
+21,Artifact,Ring
+22,Creature,Berserker
+23,Enchantment,Clever Grim Haste
+24,Spell,Pandemonium
+25,Creature,Frozen Nameless Phoenix of the Void
+26,Creature,Frozen Monk Cyclops
+27,Enchantment,Shield
+28,Artifact,Irate Corpse Pendant
+29,Artifact,Dark Crown
+30,Enchantment,Alacrity
+31,Artifact,Divine Robe
+32,Creature,Aura Knight Ogre of the Eternal Land
+33,Artifact,Clever Necro Boots
+34,Enchantment,Instant Nimble Drain
+35,Artifact,Grim Helm
+36,Creature,Snow Lord Kraken
+37,Enchantment,Flight
+38,Artifact,Ring
+39,Enchantment,Life Shade
+40,Creature,Death Thief Hydra
+41,Creature,Eagle
+42,Artifact,Mighty Victory Greaves
+43,Spell,Infuriate
+44,Creature,Snow Knight Giant of the Black Stone

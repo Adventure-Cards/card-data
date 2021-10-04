@@ -1,46 +1,46 @@
-==================,DECK,7420,Light
-0,Spell,Common,Burst
-1,Enchantment,Common,Invert
-2,Spell,Common,Burst
-3,Creature,Common,Warlock
-4,Artifact,Legendary,Intense Bow
-5,Enchantment,Common,Invert
-6,Creature,Common,Orc
-7,Spell,Common,Gale
-8,Creature,Rare,Light Warrior Minotaur
-9,Enchantment,Rare,Forged Alacrity
-10,Creature,Common,Dwarf
-11,Spell,Common,Reanimate
-12,Creature,Common,Spider
-13,Enchantment,Common,Shade
-14,Creature,Common,Orc
-15,Creature,Common,Warlock
-16,Creature,Common,Magi
-17,Artifact,Common,Amulet
-18,Creature,Rare,Dark Undead Hydra
-19,Enchantment,Common,Flight
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Creature,Common,Goblin
-23,Creature,Legendary,Frozen Queen Oni of the Plains
-24,Creature,Rare,Aura Merchant Minotaur
-25,Enchantment,Common,Shield
-26,Spell,Common,Burst
-27,Artifact,Common,Belt
-28,Enchantment,Legendary,Clever Lethargy
-29,Creature,Common,Warlock
-30,Artifact,Rare,Gloom Pendant
-31,Creature,Common,Goblin
-32,Enchantment,Common,Shield
-33,Creature,Rare,Light Assassin Griffin
-34,Creature,Legendary,Dark Merchant Cyclops of the Haven
-35,Enchantment,Rare,Frigid Shield
-36,Spell,Common,Maelstrom
-37,Creature,Common,Wolf
-38,Creature,Common,Wolf
-39,Creature,Common,Goblin
-40,Artifact,Common,Helm
-41,Enchantment,Common,Lethargy
-42,Creature,Rare,Light Rogue Skin-Walker
-43,Creature,Common,Warlock
-44,Creature,Common,Orc
+==================,DECK,7420
+0,Spell,Revive
+1,Enchantment,Age
+2,Spell,Rage
+3,Creature,Berserker
+4,Artifact,Urgent Nature Bow
+5,Enchantment,Blight
+6,Creature,Spider
+7,Spell,Heal
+8,Creature,Light Warrior Cyclops
+9,Enchantment,Dark Firebreath
+10,Creature,Magi
+11,Spell,Burn
+12,Creature,Paladin
+13,Enchantment,Age
+14,Creature,Spider
+15,Creature,Berserker
+16,Creature,Fairy
+17,Artifact,Amulet
+18,Creature,Dark Undead Hydra
+19,Enchantment,Strength
+20,Creature,Eagle
+21,Creature,Berserker
+22,Creature,Skin-Walker
+23,Creature,Frozen Queen Oni of the Plains
+24,Creature,Aura Merchant Cyclops
+25,Enchantment,Shade
+26,Spell,Sorrow
+27,Artifact,Belt
+28,Enchantment,Irate Grim Blight
+29,Creature,Berserker
+30,Artifact,Sorrow Pendant
+31,Creature,Skin-Walker
+32,Enchantment,Lethargy
+33,Creature,Light Assassin Griffin
+34,Creature,Dark Merchant Giant of the Haven
+35,Enchantment,Victory Blight
+36,Spell,Sorrow
+37,Creature,Wolf
+38,Creature,Wolf
+39,Creature,Skin-Walker
+40,Artifact,Helm
+41,Enchantment,Agony
+42,Creature,Light Rogue Orc
+43,Creature,Berserker
+44,Creature,Spider

@@ -1,46 +1,46 @@
-==================,DECK,6353,Light
-0,Creature,Common,Goblin
-1,Artifact,Common,Tome
-2,Creature,Common,Wolf
-3,Artifact,Legendary,Angry Tome
-4,Enchantment,Common,Alacrity
-5,Spell,Common,Stun
-6,Enchantment,Rare,Hateful Shrink
-7,Enchantment,Rare,Cataclysmic Haste
-8,Creature,Rare,Aura Fighter Hydra
-9,Creature,Common,Ghoul
-10,Spell,Common,Gravitation
-11,Spell,Common,Pandemonium
-12,Creature,Rare,Light Thief Skin-Walker
-13,Creature,Rare,Death Monk Minotaur
-14,Creature,Common,Elf
-15,Creature,Common,Eagle
-16,Artifact,Common,Scepter
-17,Creature,Common,Eagle
-18,Creature,Common,Dwarf
-19,Spell,Common,Gravitation
-20,Enchantment,Common,Strength
-21,Creature,Common,Spider
-22,Creature,Common,Wolf
-23,Creature,Common,Paladin
-24,Creature,Legendary,Earth Rogue Orge of the Border
-25,Creature,Legendary,Dark Warrior Cyclops of the Border
-26,Spell,Common,Torment
-27,Creature,Common,Warlock
-28,Spell,Common,Frenzy
-29,Creature,Common,Spider
-30,Spell,Common,Revive
-31,Creature,Rare,Light Rogue Berserker
-32,Creature,Rare,Dark Thief Berserker
-33,Spell,Rare,Grim Wall
-34,Creature,Rare,Death Warrior Griffin
-35,Enchantment,Common,Drain
-36,Spell,Common,Fury
-37,Creature,Common,Dwarf
-38,Enchantment,Common,Flight
-39,Creature,Legendary,Earth King Cyclops of the Magical Forest
-40,Spell,Rare,Frigid Invisibility
-41,Creature,Common,Warlock
-42,Creature,Common,Warlock
-43,Creature,Common,Paladin
-44,Enchantment,Common,Shield
+==================,DECK,6353
+0,Creature,Skin-Walker
+1,Artifact,Tome
+2,Creature,Wolf
+3,Artifact,Dire Chimeric Tome
+4,Enchantment,Shrink
+5,Spell,Torment
+6,Enchantment,Chimeric Flight
+7,Enchantment,Miracle Firebreath
+8,Creature,Aura Fighter Hydra
+9,Creature,Ghoul
+10,Spell,Tempest
+11,Spell,Maelstrom
+12,Creature,Light Thief Orc
+13,Creature,Death Monk Cyclops
+14,Creature,Warlock
+15,Creature,Eagle
+16,Artifact,Scepter
+17,Creature,Eagle
+18,Creature,Magi
+19,Spell,Invisibility
+20,Enchantment,Deathgrip
+21,Creature,Paladin
+22,Creature,Wolf
+23,Creature,Troll
+24,Creature,Earth Rogue Elf of the Border
+25,Creature,Dark Warrior Giant of the Border
+26,Spell,Infuriate
+27,Creature,Berserker
+28,Spell,Lightning
+29,Creature,Paladin
+30,Spell,Frost
+31,Creature,Light Rogue Goblin
+32,Creature,Dark Thief Goblin
+33,Spell,Oblivion Gravitation
+34,Creature,Death Warrior Griffin
+35,Enchantment,Lethargy
+36,Spell,Stricken
+37,Creature,Magi
+38,Enchantment,Agony
+39,Creature,Earth King Giant of the Magical Forest
+40,Spell,Life Revive
+41,Creature,Berserker
+42,Creature,Berserker
+43,Creature,Troll
+44,Enchantment,Shield

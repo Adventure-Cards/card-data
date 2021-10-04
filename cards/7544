@@ -1,46 +1,46 @@
-==================,DECK,7544,Light
-0,Creature,Rare,Light Thief Skin-Walker
-1,Artifact,Common,Boots
-2,Creature,Common,Ghoul
-3,Creature,Legendary,Light Priest Orge of the Eastern Skies
-4,Creature,Common,Spider
-5,Enchantment,Common,Drain
-6,Creature,Common,Ghoul
-7,Enchantment,Common,Shield
-8,Creature,Common,Dwarf
-9,Creature,Common,Goblin
-10,Spell,Legendary,Dire Burn
-11,Creature,Mythic,Dark Time Phoenix of Illusion
-12,Spell,Rare,Nature Burn
-13,Artifact,Rare,Apocalypse Greaves
-14,Creature,Common,Magi
-15,Creature,Rare,Light Monk Skin-Walker
-16,Artifact,Common,Sigil
-17,Artifact,Rare,Dark Divine Robe
-18,Artifact,Rare,Necro Ring
-19,Creature,Common,Dwarf
-20,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-21,Enchantment,Common,Drain
-22,Spell,Common,Gale
-23,Artifact,Common,Belt
-24,Spell,Rare,Oblivion Vortex
-25,Enchantment,Common,Haste
-26,Spell,Common,Burn
-27,Artifact,Rare,Necro Scepter
-28,Artifact,Rare,Solar Ghost Wand
-29,Creature,Common,Magi
-30,Enchantment,Common,Flight
-31,Spell,Rare,Oblivion Torment
-32,Artifact,Common,Cloak
-33,Creature,Common,Magi
-34,Enchantment,Common,Haste
-35,Enchantment,Rare,Shimmering Drain
-36,Spell,Rare,Miracle Sorrow
-37,Enchantment,Common,Shade
-38,Creature,Common,Ghoul
-39,Creature,Common,Magi
-40,Enchantment,Common,Shrink
-41,Creature,Mythic,Aura Grand Demon of the Light
-42,Creature,Common,Dwarf
-43,Creature,Common,Spider
-44,Enchantment,Common,Flight
+==================,DECK,7544
+0,Creature,Light Thief Orc
+1,Artifact,Boots
+2,Creature,Ghoul
+3,Creature,Light Priest Elf of the Eastern Skies
+4,Creature,Paladin
+5,Enchantment,Shrink
+6,Creature,Ghoul
+7,Enchantment,Invert
+8,Creature,Magi
+9,Creature,Skin-Walker
+10,Spell,Clever Grim Invisibility
+11,Creature,Dark Time Phoenix of Illusion
+12,Spell,Necro Infuriate
+13,Artifact,Nimble Greaves
+14,Creature,Fairy
+15,Creature,Light Monk Orc
+16,Artifact,Sigil
+17,Artifact,Lunar Divine Robe
+18,Artifact,Hateful Ring
+19,Creature,Magi
+20,Creature,Earth Nameless Phoenix of the Shadows
+21,Enchantment,Deathgrip
+22,Spell,Hypnosis
+23,Artifact,Belt
+24,Spell,Victory Ice
+25,Enchantment,Invert
+26,Spell,Burn
+27,Artifact,Corpse Scepter
+28,Artifact,Solar Ghost Wand
+29,Creature,Fairy
+30,Enchantment,Shrink
+31,Spell,Grim Reanimate
+32,Artifact,Cloak
+33,Creature,Fairy
+34,Enchantment,Drain
+35,Enchantment,Forged Agony
+36,Spell,Oblivion Stricken
+37,Enchantment,Age
+38,Creature,Ghoul
+39,Creature,Fairy
+40,Enchantment,Age
+41,Creature,Aura Grand Demon of the Light
+42,Creature,Magi
+43,Creature,Paladin
+44,Enchantment,Lethargy

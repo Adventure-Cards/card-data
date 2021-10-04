@@ -1,46 +1,46 @@
-==================,DECK,5910,Light
-0,Enchantment,Common,Age
-1,Spell,Rare,Gloom Gravitation
-2,Creature,Common,Eagle
-3,Enchantment,Common,Drain
-4,Creature,Common,Goblin
-5,Creature,Common,Paladin
-6,Spell,Common,Rage
-7,Creature,Common,Magi
-8,Spell,Common,Wall
-9,Enchantment,Legendary,Extreme Shrink
-10,Creature,Common,Goblin
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Lethargy
-13,Creature,Mythic,Dark Chaos Demon of Illusion
-14,Creature,Rare,Death Fighter Minotaur
-15,Creature,Rare,Death Assassin Skin-Walker
-16,Creature,Common,Elf
-17,Creature,Common,Spider
-18,Creature,Rare,Earth Warrior Minotaur
-19,Creature,Common,Orc
-20,Artifact,Common,Belt
-21,Spell,Rare,Necro Infuriate
-22,Enchantment,Common,Drain
-23,Creature,Common,Elf
-24,Artifact,Common,Staff
-25,Creature,Rare,Death Queen Hydra
-26,Creature,Rare,Snow Rogue Fairy
-27,Creature,Common,Goblin
-28,Creature,Common,Orc
-29,Creature,Legendary,Death Assassin Cyclops of the Low Hills
-30,Creature,Common,Wolf
-31,Creature,Legendary,Snow King Oni of the Swamp
-32,Spell,Common,Assault
-33,Artifact,Rare,Dark Helmet
-34,Spell,Common,Gravitation
-35,Spell,Common,Frost
-36,Spell,Legendary,Angry Stricken
-37,Creature,Common,Magi
-38,Artifact,Common,Cloak
-39,Enchantment,Common,Flight
-40,Creature,Rare,Snow Queen Fairy
-41,Spell,Common,Invisibility
-42,Creature,Common,Magi
-43,Spell,Rare,Frigid Rage
-44,Spell,Rare,Frigid Frost
+==================,DECK,5910
+0,Enchantment,Firebreath
+1,Spell,Dark Stricken
+2,Creature,Eagle
+3,Enchantment,Drain
+4,Creature,Skin-Walker
+5,Creature,Troll
+6,Spell,Hypnosis
+7,Creature,Fairy
+8,Spell,Revive
+9,Enchantment,Mighty Chimeric Flight
+10,Creature,Skin-Walker
+11,Creature,Ghoul
+12,Enchantment,Deathgrip
+13,Creature,Dark Chaos Demon of Illusion
+14,Creature,Death Fighter Cyclops
+15,Creature,Death Assassin Orc
+16,Creature,Warlock
+17,Creature,Paladin
+18,Creature,Earth Warrior Cyclops
+19,Creature,Spider
+20,Artifact,Belt
+21,Spell,Hateful Maelstrom
+22,Enchantment,Drain
+23,Creature,Warlock
+24,Artifact,Staff
+25,Creature,Death Queen Hydra
+26,Creature,Snow Rogue Kraken
+27,Creature,Skin-Walker
+28,Creature,Spider
+29,Creature,Death Assassin Giant of the Low Hills
+30,Creature,Wolf
+31,Creature,Snow King Oni of the Swamp
+32,Spell,Vortex
+33,Artifact,Miracle Helmet
+34,Spell,Burst
+35,Spell,Burn
+36,Spell,Mighty Cataclysmic Fireball
+37,Creature,Fairy
+38,Artifact,Cloak
+39,Enchantment,Shrink
+40,Creature,Snow Queen Kraken
+41,Spell,Infuriate
+42,Creature,Fairy
+43,Spell,Frigid Gravitation
+44,Spell,Nimble Gale

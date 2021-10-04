@@ -1,46 +1,46 @@
-==================,DECK,7334,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Spider
-2,Creature,Common,Ghoul
-3,Creature,Common,Warlock
-4,Creature,Common,Goblin
-5,Spell,Common,Frost
-6,Creature,Rare,Dark Queen Berserker
-7,Creature,Legendary,Aura Lord Cyclops of the Black Stone
-8,Creature,Rare,Snow Monk Hydra
-9,Spell,Common,Frost
-10,Creature,Rare,Aura Assassin Skin-Walker
-11,Creature,Rare,Earth Thief Skin-Walker
-12,Spell,Common,Gale
-13,Enchantment,Rare,Necro Age
-14,Spell,Common,Gravitation
-15,Enchantment,Legendary,Dire Lethargy
-16,Enchantment,Common,Agony
-17,Creature,Rare,Dark Fighter Fairy
-18,Spell,Rare,Gloom Rage
-19,Creature,Common,Ghoul
-20,Creature,Common,Dwarf
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Shield
-23,Spell,Common,Pandemonium
-24,Creature,Rare,Aura Priest Minotaur
-25,Creature,Common,Wolf
-26,Creature,Common,Ghoul
-27,Creature,Rare,Dark Assassin Hydra
-28,Spell,Common,Torment
-29,Spell,Common,Lightning
-30,Enchantment,Rare,Life Deathgrip
-31,Creature,Common,Elf
-32,Creature,Common,Warlock
-33,Artifact,Common,Ring
-34,Enchantment,Legendary,Clever Alacrity
-35,Spell,Common,Hypnosis
-36,Spell,Common,Infuriate
-37,Spell,Rare,Nimble Gravitation
-38,Creature,Common,Paladin
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Agony
-41,Creature,Common,Dwarf
-42,Creature,Rare,Earth Merchant Skin-Walker
-43,Creature,Common,Spider
-44,Creature,Rare,Light King Griffin
+==================,DECK,7334
+0,Creature,Wolf
+1,Creature,Paladin
+2,Creature,Ghoul
+3,Creature,Berserker
+4,Creature,Skin-Walker
+5,Spell,Rage
+6,Creature,Dark Queen Goblin
+7,Creature,Aura Lord Giant of the Black Stone
+8,Creature,Snow Monk Hydra
+9,Spell,Freeze
+10,Creature,Aura Assassin Orc
+11,Creature,Earth Thief Orc
+12,Spell,Assault
+13,Enchantment,Nature Lethargy
+14,Spell,Freeze
+15,Enchantment,Irate Grim Blight
+16,Enchantment,Drain
+17,Creature,Dark Fighter Kraken
+18,Spell,Dark Torment
+19,Creature,Ghoul
+20,Creature,Magi
+21,Creature,Ghoul
+22,Enchantment,Shield
+23,Spell,Wall
+24,Creature,Aura Priest Cyclops
+25,Creature,Wolf
+26,Creature,Ghoul
+27,Creature,Dark Assassin Hydra
+28,Spell,Frenzy
+29,Spell,Burst
+30,Enchantment,Oblivion Shade
+31,Creature,Warlock
+32,Creature,Berserker
+33,Artifact,Ring
+34,Enchantment,Instant Apocalypse Drain
+35,Spell,Infuriate
+36,Spell,Gravitation
+37,Spell,Forged Fury
+38,Creature,Troll
+39,Creature,Ghoul
+40,Enchantment,Deathgrip
+41,Creature,Magi
+42,Creature,Earth Merchant Orc
+43,Creature,Paladin
+44,Creature,Light King Griffin

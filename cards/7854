@@ -1,46 +1,46 @@
-==================,DECK,7854,Light
-0,Enchantment,Rare,Shimmering Shrink
-1,Creature,Common,Eagle
-2,Creature,Common,Ghoul
-3,Creature,Rare,Aura Warrior Fairy
-4,Spell,Rare,Lunar Infuriate
-5,Spell,Rare,Shimmering Stricken
-6,Creature,Common,Dwarf
-7,Spell,Legendary,Instant Lightning
-8,Artifact,Legendary,Intense Potion
-9,Creature,Common,Dwarf
-10,Creature,Common,Paladin
-11,Creature,Common,Elf
-12,Spell,Common,Lightning
-13,Creature,Common,Goblin
-14,Spell,Common,Gravitation
-15,Artifact,Common,Potion
-16,Creature,Common,Paladin
-17,Enchantment,Common,Shield
-18,Artifact,Common,Cloak
-19,Creature,Common,Orc
-20,Enchantment,Legendary,Intense Age
-21,Creature,Rare,Aura Lord Hydra
-22,Creature,Rare,Light Lord Skin-Walker
-23,Spell,Common,Stun
-24,Artifact,Rare,Life Sword
-25,Creature,Common,Magi
-26,Creature,Mythic,Dark Grand Demon of Illusion
-27,Creature,Common,Spider
-28,Creature,Common,Ghoul
-29,Artifact,Common,Tome
-30,Enchantment,Common,Deathgrip
-31,Creature,Common,Orc
-32,Creature,Common,Spider
-33,Creature,Rare,Snow King Fairy
-34,Enchantment,Legendary,Potent Shrink
-35,Creature,Common,Eagle
-36,Artifact,Rare,Miracle Ghost Wand
-37,Creature,Common,Wolf
-38,Enchantment,Common,Shrink
-39,Creature,Common,Spider
-40,Creature,Common,Magi
-41,Enchantment,Common,Shield
-42,Spell,Common,Rage
-43,Enchantment,Rare,Frigid Invert
-44,Spell,Common,Burn
+==================,DECK,7854
+0,Enchantment,Necro Strength
+1,Creature,Eagle
+2,Creature,Ghoul
+3,Creature,Aura Warrior Kraken
+4,Spell,Chimeric Heal
+5,Spell,Hateful Reanimate
+6,Creature,Magi
+7,Spell,Urgent Hateful Reanimate
+8,Artifact,Clever Shimmering Potion
+9,Creature,Magi
+10,Creature,Troll
+11,Creature,Warlock
+12,Spell,Hypnosis
+13,Creature,Skin-Walker
+14,Spell,Gravitation
+15,Artifact,Potion
+16,Creature,Troll
+17,Enchantment,Age
+18,Artifact,Cloak
+19,Creature,Spider
+20,Enchantment,Clever Nature Lethargy
+21,Creature,Aura Lord Hydra
+22,Creature,Light Lord Orc
+23,Spell,Torment
+24,Artifact,Oblivion Sword
+25,Creature,Fairy
+26,Creature,Dark Grand Demon of Illusion
+27,Creature,Paladin
+28,Creature,Ghoul
+29,Artifact,Tome
+30,Enchantment,Shield
+31,Creature,Spider
+32,Creature,Paladin
+33,Creature,Snow King Kraken
+34,Enchantment,Potent Frigid Drain
+35,Creature,Eagle
+36,Artifact,Apocalypse Ghost Wand
+37,Creature,Wolf
+38,Enchantment,Shade
+39,Creature,Paladin
+40,Creature,Fairy
+41,Enchantment,Agony
+42,Spell,Ice
+43,Enchantment,Oblivion Invert
+44,Spell,Invisibility

@@ -1,46 +1,46 @@
-==================,DECK,6897,Light
-0,Creature,Mythic,Death Grand Demon of the Dead
-1,Spell,Common,Rage
-2,Creature,Common,Magi
-3,Creature,Common,Warlock
-4,Enchantment,Common,Deathgrip
-5,Creature,Common,Magi
-6,Spell,Common,Heal
-7,Creature,Legendary,Aura Warrior Kraken of the Eternal Land
-8,Enchantment,Common,Drain
-9,Enchantment,Common,Invert
-10,Enchantment,Rare,Miracle Age
-11,Creature,Common,Eagle
-12,Creature,Common,Ghoul
-13,Creature,Mythic,Dark Chaos Demon of Illusion
-14,Creature,Common,Ghoul
-15,Enchantment,Legendary,Clever Drain
-16,Spell,Rare,Gloom Revive
-17,Creature,Common,Warlock
-18,Spell,Common,Lightning
-19,Creature,Common,Warlock
-20,Creature,Common,Goblin
-21,Enchantment,Common,Shrink
-22,Artifact,Common,Potion
-23,Enchantment,Common,Flight
-24,Creature,Rare,Light Merchant Skin-Walker
-25,Creature,Legendary,Death Priest Orge of the Border
-26,Enchantment,Common,Haste
-27,Enchantment,Common,Shrink
-28,Creature,Common,Eagle
-29,Enchantment,Rare,Miracle Haste
-30,Creature,Common,Eagle
-31,Spell,Common,Stun
-32,Creature,Legendary,Dark Rogue Cyclops of the Mountains
-33,Spell,Rare,Nimble Frenzy
-34,Enchantment,Common,Drain
-35,Creature,Common,Elf
-36,Creature,Common,Paladin
-37,Enchantment,Common,Shade
-38,Spell,Common,Stun
-39,Creature,Rare,Death Merchant Skin-Walker
-40,Creature,Common,Paladin
-41,Artifact,Legendary,Mighty Gloves
-42,Enchantment,Common,Shield
-43,Creature,Rare,Earth Merchant Hydra
-44,Enchantment,Legendary,Dire Flight
+==================,DECK,6897
+0,Creature,Death Grand Demon of the Dead
+1,Spell,Vortex
+2,Creature,Fairy
+3,Creature,Berserker
+4,Enchantment,Flight
+5,Creature,Fairy
+6,Spell,Stun
+7,Creature,Aura Warrior Ogre of the Eternal Land
+8,Enchantment,Agony
+9,Enchantment,Deathgrip
+10,Enchantment,Victory Invert
+11,Creature,Eagle
+12,Creature,Ghoul
+13,Creature,Dark Chaos Demon of Illusion
+14,Creature,Ghoul
+15,Enchantment,Potent Apocalypse Drain
+16,Spell,Cataclysmic Burst
+17,Creature,Berserker
+18,Spell,Fire
+19,Creature,Berserker
+20,Creature,Skin-Walker
+21,Enchantment,Strength
+22,Artifact,Potion
+23,Enchantment,Shrink
+24,Creature,Light Merchant Orc
+25,Creature,Death Priest Elf of the Border
+26,Enchantment,Shield
+27,Enchantment,Blight
+28,Creature,Eagle
+29,Enchantment,Life Shade
+30,Creature,Eagle
+31,Spell,Rage
+32,Creature,Dark Rogue Giant of the Mountains
+33,Spell,Hateful Gravitation
+34,Enchantment,Agony
+35,Creature,Warlock
+36,Creature,Troll
+37,Enchantment,Strength
+38,Spell,Sorrow
+39,Creature,Death Merchant Orc
+40,Creature,Troll
+41,Artifact,Instant Sorrow Gloves
+42,Enchantment,Age
+43,Creature,Earth Merchant Hydra
+44,Enchantment,Clever Grim Haste

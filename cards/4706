@@ -1,46 +1,46 @@
-==================,DECK,4706,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Elf
-2,Creature,Legendary,Death Priest Cyclops of the Plains
-3,Creature,Common,Eagle
-4,Creature,Rare,Death King Berserker
-5,Spell,Common,Assault
-6,Creature,Common,Wolf
-7,Creature,Common,Warlock
-8,Creature,Common,Spider
-9,Creature,Common,Warlock
-10,Creature,Common,Paladin
-11,Creature,Rare,Earth Knight Griffin
-12,Enchantment,Common,Agony
-13,Creature,Rare,Frozen Fighter Minotaur
-14,Spell,Common,Stricken
-15,Enchantment,Common,Shade
-16,Creature,Common,Dwarf
-17,Spell,Common,Ice
-18,Spell,Common,Hypnosis
-19,Enchantment,Common,Alacrity
-20,Creature,Common,Eagle
-21,Spell,Common,Revive
-22,Creature,Common,Warlock
-23,Artifact,Common,Tome
-24,Spell,Rare,Nature Reanimate
-25,Enchantment,Common,Shield
-26,Creature,Common,Spider
-27,Creature,Rare,Light Assassin Griffin
-28,Spell,Common,Lightning
-29,Spell,Common,Frenzy
-30,Creature,Rare,Light Warrior Hydra
-31,Enchantment,Common,Strength
-32,Creature,Common,Magi
-33,Spell,Legendary,Dire Maelstrom
-34,Creature,Common,Magi
-35,Spell,Common,Infuriate
-36,Spell,Common,Torment
-37,Creature,Common,Eagle
-38,Creature,Common,Warlock
-39,Enchantment,Common,Shade
-40,Spell,Common,Burst
-41,Artifact,Common,Ghost Wand
-42,Creature,Common,Spider
-43,Spell,Rare,Cataclysmic Burn
-44,Artifact,Common,Staff
+==================,DECK,4706
+0,Creature,Skin-Walker
+1,Creature,Warlock
+2,Creature,Death Priest Giant of the Plains
+3,Creature,Eagle
+4,Creature,Death King Goblin
+5,Spell,Revive
+6,Creature,Wolf
+7,Creature,Berserker
+8,Creature,Paladin
+9,Creature,Berserker
+10,Creature,Troll
+11,Creature,Earth Knight Griffin
+12,Enchantment,Blight
+13,Creature,Frozen Fighter Cyclops
+14,Spell,Gravitation
+15,Enchantment,Deathgrip
+16,Creature,Magi
+17,Spell,Fire
+18,Spell,Heal
+19,Enchantment,Blight
+20,Creature,Eagle
+21,Spell,Maelstrom
+22,Creature,Berserker
+23,Artifact,Tome
+24,Spell,Nature Gravitation
+25,Enchantment,Flight
+26,Creature,Paladin
+27,Creature,Light Assassin Griffin
+28,Spell,Heal
+29,Spell,Reanimate
+30,Creature,Light Warrior Hydra
+31,Enchantment,Deathgrip
+32,Creature,Fairy
+33,Spell,Zealous Frigid Sorrow
+34,Creature,Fairy
+35,Spell,Assault
+36,Spell,Rage
+37,Creature,Eagle
+38,Creature,Berserker
+39,Enchantment,Agony
+40,Spell,Frost
+41,Artifact,Ghost Wand
+42,Creature,Paladin
+43,Spell,Miracle Assault
+44,Artifact,Staff

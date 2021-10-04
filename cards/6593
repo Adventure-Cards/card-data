@@ -1,46 +1,46 @@
-==================,DECK,6593,Medium
-0,Creature,Common,Ghoul
-1,Artifact,Common,Divine Robe
-2,Creature,Rare,Frozen Priest Skin-Walker
-3,Spell,Common,Reanimate
-4,Enchantment,Common,Blight
-5,Spell,Common,Gale
-6,Enchantment,Rare,Frigid Agony
-7,Artifact,Common,Ring
-8,Artifact,Common,Ghost Wand
-9,Spell,Legendary,Dire Infuriate
-10,Creature,Common,Dwarf
-11,Creature,Common,Dwarf
-12,Artifact,Rare,Apocalypse Potion
-13,Enchantment,Rare,Corpse Invert
-14,Creature,Common,Warlock
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Common,Dwarf
-18,Creature,Rare,Frozen Priest Berserker
-19,Creature,Common,Paladin
-20,Spell,Common,Lightning
-21,Spell,Rare,Corpse Gravitation
-22,Creature,Common,Ghoul
-23,Spell,Legendary,Instant Stun
-24,Creature,Mythic,Aura Chaos Wizard of the Light
-25,Creature,Common,Spider
-26,Creature,Rare,Light Priest Berserker
-27,Creature,Common,Orc
-28,Enchantment,Legendary,Dire Strength
-29,Creature,Mythic,Death Grand Demon of the Dead
-30,Creature,Common,Ghoul
-31,Spell,Rare,Nature Gale
-32,Creature,Rare,Frozen Merchant Skin-Walker
-33,Spell,Rare,Grim Vortex
-34,Creature,Common,Eagle
-35,Artifact,Rare,Solar Staff
-36,Spell,Rare,Gloom Heal
-37,Artifact,Common,Potion
-38,Spell,Common,Gale
-39,Spell,Common,Torment
-40,Spell,Common,Maelstrom
-41,Enchantment,Mythic,Intense Lethargy
-42,Artifact,Legendary,Mighty Scythe
-43,Spell,Rare,Dark Lightning
-44,Creature,Rare,Snow Undead Minotaur
+==================,DECK,6593
+0,Creature,Ghoul
+1,Artifact,Divine Robe
+2,Creature,Frozen Priest Orc
+3,Spell,Hypnosis
+4,Enchantment,Deathgrip
+5,Spell,Fury
+6,Enchantment,Life Blight
+7,Artifact,Ring
+8,Artifact,Ghost Wand
+9,Spell,Zealous Victory Tempest
+10,Creature,Magi
+11,Creature,Magi
+12,Artifact,Oblivion Potion
+13,Enchantment,Shimmering Lethargy
+14,Creature,Berserker
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Magi
+18,Creature,Frozen Priest Goblin
+19,Creature,Troll
+20,Spell,Sorrow
+21,Spell,Hateful Frenzy
+22,Creature,Ghoul
+23,Spell,Clever Hateful Wall
+24,Creature,Aura Chaos Wizard of the Light
+25,Creature,Paladin
+26,Creature,Light Priest Goblin
+27,Creature,Spider
+28,Enchantment,Urgent Nimble Invert
+29,Creature,Death Grand Demon of the Dead
+30,Creature,Ghoul
+31,Spell,Solar Burst
+32,Creature,Frozen Merchant Orc
+33,Spell,Apocalypse Torment
+34,Creature,Eagle
+35,Artifact,Necro Staff
+36,Spell,Gloom Rage
+37,Artifact,Potion
+38,Spell,Frost
+39,Spell,Fireball
+40,Spell,Fireball
+41,Enchantment,Instant Hateful Strength
+42,Artifact,Dire Miracle Scythe
+43,Spell,Dark Fire
+44,Creature,Snow Undead Cyclops

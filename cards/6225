@@ -1,46 +1,46 @@
-==================,DECK,6225,Light
-0,Artifact,Common,Scepter
-1,Creature,Common,Paladin
-2,Enchantment,Common,Blight
-3,Spell,Legendary,Extreme Infuriate
-4,Spell,Common,Assault
-5,Spell,Legendary,Intense Frost
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Orc
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Enchantment,Common,Age
-11,Creature,Common,Paladin
-12,Enchantment,Common,Alacrity
-13,Spell,Common,Burn
-14,Creature,Legendary,Dark Undead Giant of the West
-15,Spell,Common,Infuriate
-16,Creature,Common,Warlock
-17,Artifact,Legendary,Dire Shield
-18,Artifact,Common,Tome
-19,Artifact,Rare,Forged Scepter
-20,Creature,Common,Magi
-21,Creature,Common,Dwarf
-22,Enchantment,Rare,Hateful Age
-23,Creature,Common,Ghoul
-24,Creature,Mythic,Aura Nameless Dragon of the Light
-25,Creature,Common,Ghoul
-26,Creature,Common,Goblin
-27,Enchantment,Common,Agony
-28,Enchantment,Common,Flight
-29,Enchantment,Common,Haste
-30,Spell,Rare,Grim Freeze
-31,Creature,Common,Dwarf
-32,Artifact,Common,Bracers
-33,Creature,Common,Warlock
-34,Spell,Rare,Hateful Burn
-35,Creature,Legendary,Death Lord Oni of the Frozen Castle
-36,Creature,Common,Paladin
-37,Creature,Common,Dwarf
-38,Creature,Common,Warlock
-39,Artifact,Rare,Lunar Bow
-40,Creature,Rare,Aura Monk Fairy
-41,Creature,Common,Paladin
-42,Spell,Common,Stun
-43,Enchantment,Common,Drain
-44,Artifact,Common,Ghost Wand
+==================,DECK,6225
+0,Artifact,Scepter
+1,Creature,Troll
+2,Enchantment,Lethargy
+3,Spell,Potent Gloom Infuriate
+4,Spell,Ice
+5,Spell,Urgent Necro Rage
+6,Enchantment,Lethargy
+7,Creature,Spider
+8,Creature,Spider
+9,Creature,Spider
+10,Enchantment,Age
+11,Creature,Troll
+12,Enchantment,Flight
+13,Spell,Stricken
+14,Creature,Dark Undead Dwarf of the West
+15,Spell,Gravitation
+16,Creature,Berserker
+17,Artifact,Empyrean Apocalypse Shield
+18,Artifact,Tome
+19,Artifact,Dark Scepter
+20,Creature,Fairy
+21,Creature,Magi
+22,Enchantment,Gloom Alacrity
+23,Creature,Ghoul
+24,Creature,Aura Nameless Dragon of the Light
+25,Creature,Ghoul
+26,Creature,Skin-Walker
+27,Enchantment,Flight
+28,Enchantment,Agony
+29,Enchantment,Blight
+30,Spell,Apocalypse Vortex
+31,Creature,Magi
+32,Artifact,Bracers
+33,Creature,Berserker
+34,Spell,Lunar Freeze
+35,Creature,Death Lord Oni of the Frozen Castle
+36,Creature,Troll
+37,Creature,Magi
+38,Creature,Berserker
+39,Artifact,Lunar Bow
+40,Creature,Aura Monk Kraken
+41,Creature,Troll
+42,Spell,Heal
+43,Enchantment,Blight
+44,Artifact,Ghost Wand

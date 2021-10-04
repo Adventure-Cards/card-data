@@ -1,46 +1,46 @@
-==================,DECK,4652,Light
-0,Creature,Rare,Light Priest Hydra
-1,Creature,Common,Warlock
-2,Enchantment,Common,Blight
-3,Creature,Mythic,Snow Grand Demon of Hate
-4,Enchantment,Common,Shield
-5,Enchantment,Common,Haste
-6,Spell,Legendary,Mighty Freeze
-7,Spell,Common,Revive
-8,Creature,Common,Orc
-9,Spell,Rare,Solar Heal
-10,Enchantment,Common,Flight
-11,Creature,Common,Ghoul
-12,Creature,Mythic,Aura Undead Phoenix of the Light
-13,Enchantment,Common,Haste
-14,Creature,Common,Warlock
-15,Creature,Common,Magi
-16,Creature,Common,Eagle
-17,Enchantment,Common,Deathgrip
-18,Artifact,Common,Tome
-19,Enchantment,Common,Blight
-20,Spell,Common,Burst
-21,Spell,Common,Hypnosis
-22,Creature,Legendary,Snow Priest Kraken of the Polar Woods
-23,Artifact,Common,Sword
-24,Creature,Common,Elf
-25,Artifact,Legendary,Mighty Belt
-26,Creature,Legendary,Light King Giant of the Golden Palace
-27,Creature,Legendary,Snow Priest Kraken of the Golden Palace
-28,Creature,Common,Eagle
-29,Creature,Rare,Death Warrior Berserker
-30,Artifact,Common,Ring
-31,Creature,Rare,Aura Thief Griffin
-32,Spell,Common,Fury
-33,Creature,Common,Paladin
-34,Artifact,Legendary,Mighty Bracers
-35,Spell,Common,Stun
-36,Creature,Legendary,Aura Lord Cyclops of the Golden Palace
-37,Creature,Mythic,Aura Time Dragon of the Light
-38,Spell,Legendary,Clever Hypnosis
-39,Enchantment,Mythic,Clever Age
-40,Enchantment,Mythic,Dire Flight
-41,Creature,Legendary,Dark Queen Cyclops of the Arctic Blizzards
-42,Creature,Mythic,Light Undead Phoenix of the Sky
-43,Creature,Common,Eagle
-44,Creature,Common,Elf
+==================,DECK,4652
+0,Creature,Light Priest Hydra
+1,Creature,Berserker
+2,Enchantment,Drain
+3,Creature,Snow Grand Demon of Hate
+4,Enchantment,Lethargy
+5,Enchantment,Lethargy
+6,Spell,Dire Cataclysmic Assault
+7,Spell,Heal
+8,Creature,Spider
+9,Spell,Forged Stun
+10,Enchantment,Shrink
+11,Creature,Ghoul
+12,Creature,Aura Undead Phoenix of the Light
+13,Enchantment,Flight
+14,Creature,Berserker
+15,Creature,Fairy
+16,Creature,Eagle
+17,Enchantment,Firebreath
+18,Artifact,Tome
+19,Enchantment,Agony
+20,Spell,Burn
+21,Spell,Invisibility
+22,Creature,Snow Priest Ogre of the Polar Woods
+23,Artifact,Sword
+24,Creature,Warlock
+25,Artifact,Dire Chimeric Belt
+26,Creature,Light King Dwarf of the Golden Palace
+27,Creature,Snow Priest Ogre of the Golden Palace
+28,Creature,Eagle
+29,Creature,Death Warrior Goblin
+30,Artifact,Ring
+31,Creature,Aura Thief Griffin
+32,Spell,Fireball
+33,Creature,Troll
+34,Artifact,Irate Lunar Bracers
+35,Spell,Tempest
+36,Creature,Aura Lord Giant of the Golden Palace
+37,Creature,Aura Time Dragon of the Light
+38,Spell,Potent Oblivion Revive
+39,Enchantment,Zealous Victory Blight
+40,Enchantment,Potent Grim Drain
+41,Creature,Dark Queen Giant of the Arctic Blizzards
+42,Creature,Light Undead Phoenix of the Sky
+43,Creature,Eagle
+44,Creature,Warlock

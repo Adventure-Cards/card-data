@@ -1,46 +1,46 @@
-==================,DECK,7779,Medium
-0,Spell,Common,Gravitation
-1,Creature,Legendary,Earth Priest Orge of the Black Stone
-2,Artifact,Common,Ring
-3,Enchantment,Mythic,Urgent Age
-4,Creature,Rare,Light Merchant Minotaur
-5,Spell,Rare,Forged Revive
-6,Spell,Common,Infuriate
-7,Creature,Rare,Snow Thief Berserker
-8,Creature,Common,Dwarf
-9,Spell,Common,Heal
-10,Artifact,Rare,Dark Greaves
-11,Spell,Rare,Necro Maelstrom
-12,Spell,Legendary,Mighty Hypnosis
-13,Creature,Rare,Dark Assassin Berserker
-14,Artifact,Legendary,Urgent Bracers
-15,Creature,Legendary,Earth Warrior Orge of the Black Stone
-16,Spell,Rare,Grim Wall
-17,Creature,Common,Magi
-18,Enchantment,Common,Shrink
-19,Spell,Common,Gale
-20,Creature,Common,Magi
-21,Creature,Common,Dwarf
-22,Creature,Legendary,Frozen Assassin Giant of the Swamp
-23,Enchantment,Common,Invert
-24,Creature,Legendary,Frozen Merchant Kraken of the Mountains
-25,Creature,Common,Paladin
-26,Enchantment,Mythic,Mighty Deathgrip
-27,Creature,Mythic,Dark Undead Dragon of Illusion
-28,Enchantment,Common,Lethargy
-29,Creature,Rare,Dark Monk Berserker
-30,Enchantment,Common,Shade
-31,Spell,Legendary,Instant Pandemonium
-32,Spell,Common,Vortex
-33,Creature,Legendary,Snow Rogue Orge of the Low Hills
-34,Spell,Rare,Frigid Assault
-35,Creature,Common,Magi
-36,Enchantment,Common,Invert
-37,Creature,Rare,Death Undead Skin-Walker
-38,Creature,Common,Magi
-39,Creature,Common,Dwarf
-40,Creature,Common,Goblin
-41,Creature,Rare,Death King Fairy
-42,Creature,Common,Ghoul
-43,Creature,Common,Wolf
-44,Creature,Mythic,Dark Chaos Wizard of Illusion
+==================,DECK,7779
+0,Spell,Gale
+1,Creature,Earth Priest Elf of the Black Stone
+2,Artifact,Ring
+3,Enchantment,Clever Nature Lethargy
+4,Creature,Light Merchant Cyclops
+5,Spell,Cataclysmic Stun
+6,Spell,Assault
+7,Creature,Snow Thief Goblin
+8,Creature,Magi
+9,Spell,Frost
+10,Artifact,Cataclysmic Greaves
+11,Spell,Solar Lightning
+12,Spell,Clever Cataclysmic Wall
+13,Creature,Dark Assassin Goblin
+14,Artifact,Irate Nature Bracers
+15,Creature,Earth Warrior Elf of the Black Stone
+16,Spell,Apocalypse Fire
+17,Creature,Fairy
+18,Enchantment,Firebreath
+19,Spell,Stricken
+20,Creature,Fairy
+21,Creature,Magi
+22,Creature,Frozen Assassin Dwarf of the Swamp
+23,Enchantment,Blight
+24,Creature,Frozen Merchant Ogre of the Mountains
+25,Creature,Troll
+26,Enchantment,Clever Sorrow Shield
+27,Creature,Dark Undead Dragon of Illusion
+28,Enchantment,Shield
+29,Creature,Dark Monk Goblin
+30,Enchantment,Blight
+31,Spell,Clever Solar Lightning
+32,Spell,Frenzy
+33,Creature,Snow Rogue Elf of the Low Hills
+34,Spell,Life Frenzy
+35,Creature,Fairy
+36,Enchantment,Haste
+37,Creature,Death Undead Orc
+38,Creature,Fairy
+39,Creature,Magi
+40,Creature,Skin-Walker
+41,Creature,Death King Kraken
+42,Creature,Ghoul
+43,Creature,Wolf
+44,Creature,Dark Chaos Wizard of Illusion

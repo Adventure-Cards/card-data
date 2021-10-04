@@ -1,46 +1,46 @@
-==================,DECK,5074,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Wolf
-2,Spell,Legendary,Angry Fury
-3,Creature,Common,Eagle
-4,Spell,Common,Ice
-5,Creature,Rare,Dark Monk Skin-Walker
-6,Spell,Legendary,Extreme Vortex
-7,Spell,Common,Reanimate
-8,Creature,Common,Orc
-9,Spell,Common,Rage
-10,Creature,Common,Elf
-11,Enchantment,Common,Haste
-12,Enchantment,Legendary,Potent Invert
-13,Enchantment,Rare,Oblivion Strength
-14,Artifact,Common,Helmet
-15,Enchantment,Common,Shrink
-16,Spell,Common,Infuriate
-17,Spell,Common,Reanimate
-18,Enchantment,Common,Strength
-19,Creature,Rare,Dark King Berserker
-20,Creature,Common,Wolf
-21,Artifact,Common,Shield
-22,Creature,Common,Warlock
-23,Artifact,Common,Helmet
-24,Spell,Common,Heal
-25,Enchantment,Rare,Dark Agony
-26,Artifact,Rare,Dark Divine Robe
-27,Creature,Common,Elf
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Elf
-30,Creature,Rare,Dark Lord Fairy
-31,Creature,Legendary,Aura Merchant Oni of the Frozen Castle
-32,Spell,Common,Freeze
-33,Creature,Common,Elf
-34,Creature,Rare,Frozen Thief Griffin
-35,Enchantment,Common,Drain
-36,Creature,Rare,Earth Priest Hydra
-37,Spell,Rare,Hateful Burst
-38,Spell,Legendary,Clever Torment
-39,Enchantment,Common,Shield
-40,Spell,Legendary,Angry Pandemonium
-41,Creature,Common,Magi
-42,Artifact,Rare,Necro Amulet
-43,Creature,Common,Orc
-44,Spell,Common,Revive
+==================,DECK,5074
+0,Creature,Skin-Walker
+1,Creature,Wolf
+2,Spell,Zealous Dark Invisibility
+3,Creature,Eagle
+4,Spell,Hypnosis
+5,Creature,Dark Monk Orc
+6,Spell,Irate Gloom Hypnosis
+7,Spell,Wall
+8,Creature,Spider
+9,Spell,Freeze
+10,Creature,Warlock
+11,Enchantment,Haste
+12,Enchantment,Ardent Oblivion Haste
+13,Enchantment,Nimble Haste
+14,Artifact,Helmet
+15,Enchantment,Strength
+16,Spell,Frenzy
+17,Spell,Freeze
+18,Enchantment,Shade
+19,Creature,Dark King Goblin
+20,Creature,Wolf
+21,Artifact,Shield
+22,Creature,Berserker
+23,Artifact,Helmet
+24,Spell,Vortex
+25,Enchantment,Miracle Alacrity
+26,Artifact,Chimeric Divine Robe
+27,Creature,Warlock
+28,Enchantment,Invert
+29,Creature,Warlock
+30,Creature,Dark Lord Kraken
+31,Creature,Aura Merchant Oni of the Frozen Castle
+32,Spell,Sorrow
+33,Creature,Warlock
+34,Creature,Frozen Thief Griffin
+35,Enchantment,Invert
+36,Creature,Earth Priest Hydra
+37,Spell,Chimeric Fire
+38,Spell,Dire Victory Fireball
+39,Enchantment,Shrink
+40,Spell,Zealous Gloom Reanimate
+41,Creature,Fairy
+42,Artifact,Shimmering Amulet
+43,Creature,Spider
+44,Spell,Pandemonium

@@ -1,46 +1,46 @@
-==================,DECK,6458,Light
-0,Creature,Common,Elf
-1,Creature,Common,Elf
-2,Creature,Common,Ghoul
-3,Spell,Common,Vortex
-4,Creature,Common,Spider
-5,Spell,Common,Vortex
-6,Creature,Common,Goblin
-7,Enchantment,Common,Strength
-8,Enchantment,Rare,Gloom Agony
-9,Spell,Common,Maelstrom
-10,Creature,Common,Wolf
-11,Creature,Common,Eagle
-12,Enchantment,Common,Shade
-13,Spell,Common,Freeze
-14,Spell,Common,Infuriate
-15,Creature,Common,Eagle
-16,Spell,Common,Wall
-17,Creature,Common,Dwarf
-18,Creature,Common,Orc
-19,Creature,Rare,Snow Merchant Hydra
-20,Enchantment,Common,Lethargy
-21,Creature,Rare,Dark Monk Berserker
-22,Creature,Common,Wolf
-23,Creature,Common,Orc
-24,Artifact,Common,Scepter
-25,Creature,Common,Orc
-26,Spell,Rare,Forged Lightning
-27,Spell,Common,Rage
-28,Creature,Rare,Earth Merchant Skin-Walker
-29,Spell,Rare,Solar Freeze
-30,Creature,Common,Warlock
-31,Creature,Legendary,Death Thief Cyclops of the Mountains
-32,Enchantment,Common,Shield
-33,Creature,Common,Eagle
-34,Enchantment,Common,Invert
-35,Creature,Rare,Death Undead Berserker
-36,Creature,Common,Eagle
-37,Creature,Common,Spider
-38,Enchantment,Common,Shrink
-39,Artifact,Rare,Lunar Bracers
-40,Creature,Common,Magi
-41,Spell,Common,Freeze
-42,Creature,Common,Warlock
-43,Spell,Common,Pandemonium
-44,Creature,Common,Eagle
+==================,DECK,6458
+0,Creature,Warlock
+1,Creature,Warlock
+2,Creature,Ghoul
+3,Spell,Wall
+4,Creature,Paladin
+5,Spell,Hypnosis
+6,Creature,Skin-Walker
+7,Enchantment,Alacrity
+8,Enchantment,Miracle Alacrity
+9,Spell,Stricken
+10,Creature,Wolf
+11,Creature,Eagle
+12,Enchantment,Lethargy
+13,Spell,Burn
+14,Spell,Ice
+15,Creature,Eagle
+16,Spell,Fire
+17,Creature,Magi
+18,Creature,Spider
+19,Creature,Snow Merchant Hydra
+20,Enchantment,Firebreath
+21,Creature,Dark Monk Goblin
+22,Creature,Wolf
+23,Creature,Spider
+24,Artifact,Scepter
+25,Creature,Spider
+26,Spell,Sorrow Assault
+27,Spell,Heal
+28,Creature,Earth Merchant Orc
+29,Spell,Shimmering Assault
+30,Creature,Berserker
+31,Creature,Death Thief Giant of the Mountains
+32,Enchantment,Strength
+33,Creature,Eagle
+34,Enchantment,Shade
+35,Creature,Death Undead Goblin
+36,Creature,Eagle
+37,Creature,Paladin
+38,Enchantment,Agony
+39,Artifact,Lunar Bracers
+40,Creature,Fairy
+41,Spell,Wall
+42,Creature,Berserker
+43,Spell,Stun
+44,Creature,Eagle

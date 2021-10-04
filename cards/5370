@@ -1,46 +1,46 @@
-==================,DECK,5370,Light
-0,Spell,Common,Fury
-1,Creature,Common,Elf
-2,Artifact,Common,Scepter
-3,Spell,Common,Infuriate
-4,Creature,Common,Dwarf
-5,Spell,Legendary,Intense Ice
-6,Spell,Common,Vortex
-7,Enchantment,Common,Blight
-8,Spell,Common,Pandemonium
-9,Creature,Common,Spider
-10,Spell,Common,Maelstrom
-11,Creature,Common,Paladin
-12,Spell,Common,Lightning
-13,Creature,Legendary,Dark Undead Giant of the Border
-14,Artifact,Common,Belt
-15,Spell,Legendary,Dire Torment
-16,Creature,Common,Wolf
-17,Enchantment,Common,Strength
-18,Creature,Rare,Earth Monk Minotaur
-19,Artifact,Common,Bow
-20,Creature,Common,Eagle
-21,Spell,Common,Burst
-22,Spell,Rare,Forged Invisibility
-23,Enchantment,Common,Shield
-24,Creature,Rare,Earth Undead Hydra
-25,Spell,Common,Vortex
-26,Creature,Common,Spider
-27,Spell,Rare,Cataclysmic Stricken
-28,Enchantment,Common,Age
-29,Artifact,Legendary,Angry Crown
-30,Creature,Common,Magi
-31,Creature,Common,Goblin
-32,Spell,Common,Torment
-33,Artifact,Rare,Nimble Boots
-34,Creature,Legendary,Death Knight Orge of the West
-35,Spell,Common,Frost
-36,Artifact,Common,Divine Robe
-37,Creature,Common,Ghoul
-38,Creature,Common,Spider
-39,Creature,Common,Goblin
-40,Creature,Common,Magi
-41,Creature,Common,Ghoul
-42,Enchantment,Common,Haste
-43,Spell,Common,Gravitation
-44,Creature,Common,Ghoul
+==================,DECK,5370
+0,Spell,Vortex
+1,Creature,Warlock
+2,Artifact,Scepter
+3,Spell,Maelstrom
+4,Creature,Magi
+5,Spell,Clever Hateful Pandemonium
+6,Spell,Fireball
+7,Enchantment,Invert
+8,Spell,Tempest
+9,Creature,Paladin
+10,Spell,Lightning
+11,Creature,Troll
+12,Spell,Ice
+13,Creature,Dark Undead Dwarf of the Border
+14,Artifact,Belt
+15,Spell,Irate Life Invisibility
+16,Creature,Wolf
+17,Enchantment,Age
+18,Creature,Earth Monk Cyclops
+19,Artifact,Bow
+20,Creature,Eagle
+21,Spell,Maelstrom
+22,Spell,Lunar Wall
+23,Enchantment,Blight
+24,Creature,Earth Undead Hydra
+25,Spell,Fireball
+26,Creature,Paladin
+27,Spell,Chimeric Burn
+28,Enchantment,Deathgrip
+29,Artifact,Irate Miracle Crown
+30,Creature,Fairy
+31,Creature,Skin-Walker
+32,Spell,Sorrow
+33,Artifact,Solar Boots
+34,Creature,Death Knight Elf of the West
+35,Spell,Gravitation
+36,Artifact,Divine Robe
+37,Creature,Ghoul
+38,Creature,Paladin
+39,Creature,Skin-Walker
+40,Creature,Fairy
+41,Creature,Ghoul
+42,Enchantment,Flight
+43,Spell,Stun
+44,Creature,Ghoul

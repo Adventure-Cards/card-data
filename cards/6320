@@ -1,46 +1,46 @@
-==================,DECK,6320,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Warlock
-2,Creature,Common,Paladin
-3,Creature,Common,Paladin
-4,Creature,Common,Spider
-5,Creature,Common,Magi
-6,Spell,Common,Maelstrom
-7,Spell,Rare,Apocalypse Reanimate
-8,Creature,Common,Wolf
-9,Enchantment,Legendary,Potent Flight
-10,Creature,Common,Dwarf
-11,Creature,Legendary,Dark Merchant Giant of the Low Hills
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Shade
-14,Enchantment,Rare,Gloom Shade
-15,Enchantment,Common,Invert
-16,Spell,Common,Hypnosis
-17,Enchantment,Rare,Forged Invert
-18,Enchantment,Common,Shield
-19,Enchantment,Common,Lethargy
-20,Enchantment,Common,Shrink
-21,Artifact,Common,Pendant
-22,Spell,Rare,Life Fury
-23,Spell,Rare,Hateful Sorrow
-24,Enchantment,Common,Strength
-25,Creature,Rare,Light Warrior Minotaur
-26,Spell,Rare,Dark Frenzy
-27,Spell,Common,Lightning
-28,Spell,Rare,Forged Gravitation
-29,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-30,Artifact,Common,Bracers
-31,Enchantment,Common,Blight
-32,Enchantment,Legendary,Dire Drain
-33,Creature,Rare,Aura Priest Griffin
-34,Creature,Rare,Frozen Merchant Fairy
-35,Artifact,Common,Bracers
-36,Artifact,Rare,Oblivion Pendant
-37,Spell,Common,Heal
-38,Enchantment,Mythic,Clever Shield
-39,Creature,Common,Elf
-40,Creature,Rare,Snow Thief Hydra
-41,Creature,Mythic,Aura Ancient Wizard of the Light
-42,Creature,Common,Eagle
-43,Spell,Common,Invisibility
-44,Spell,Rare,Life Infuriate
+==================,DECK,6320
+0,Creature,Magi
+1,Creature,Berserker
+2,Creature,Troll
+3,Creature,Troll
+4,Creature,Paladin
+5,Creature,Fairy
+6,Spell,Frost
+7,Spell,Grim Stricken
+8,Creature,Wolf
+9,Enchantment,Zealous Grim Blight
+10,Creature,Magi
+11,Creature,Dark Merchant Dwarf of the Low Hills
+12,Creature,Magi
+13,Enchantment,Age
+14,Enchantment,Chimeric Flight
+15,Enchantment,Invert
+16,Spell,Wall
+17,Enchantment,Sorrow Shield
+18,Enchantment,Blight
+19,Enchantment,Lethargy
+20,Enchantment,Firebreath
+21,Artifact,Pendant
+22,Spell,Frigid Gale
+23,Spell,Miracle Ice
+24,Enchantment,Invert
+25,Creature,Light Warrior Cyclops
+26,Spell,Gloom Sorrow
+27,Spell,Tempest
+28,Spell,Cataclysmic Torment
+29,Creature,Snow Merchant Oni of the Magical Forest
+30,Artifact,Bracers
+31,Enchantment,Flight
+32,Enchantment,Mighty Apocalypse Invert
+33,Creature,Aura Priest Griffin
+34,Creature,Frozen Merchant Kraken
+35,Artifact,Bracers
+36,Artifact,Victory Pendant
+37,Spell,Stun
+38,Enchantment,Dire Victory Shade
+39,Creature,Warlock
+40,Creature,Snow Thief Hydra
+41,Creature,Aura Ancient Wizard of the Light
+42,Creature,Eagle
+43,Spell,Gravitation
+44,Spell,Apocalypse Hypnosis

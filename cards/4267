@@ -1,46 +1,46 @@
-==================,DECK,4267,Light
-0,Spell,Legendary,Clever Assault
-1,Enchantment,Common,Agony
-2,Enchantment,Rare,Nimble Invert
-3,Creature,Common,Paladin
-4,Creature,Common,Elf
-5,Creature,Common,Goblin
-6,Creature,Mythic,Snow Undead Dragon of Hate
-7,Spell,Common,Infuriate
-8,Artifact,Rare,Corpse Helm
-9,Artifact,Common,Pendant
-10,Creature,Legendary,Light Lord Giant of the Golden Palace
-11,Spell,Rare,Dark Revive
-12,Enchantment,Common,Flight
-13,Spell,Common,Wall
-14,Creature,Common,Goblin
-15,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-16,Enchantment,Common,Shrink
-17,Creature,Rare,Light Priest Fairy
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Agony
-20,Spell,Common,Sorrow
-21,Spell,Common,Ice
-22,Spell,Rare,Grim Vortex
-23,Enchantment,Common,Blight
-24,Spell,Common,Assault
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Dwarf
-27,Enchantment,Common,Invert
-28,Enchantment,Common,Shade
-29,Artifact,Common,Bow
-30,Artifact,Common,Pendant
-31,Creature,Mythic,Frozen Grand Demon of the Void
-32,Enchantment,Common,Strength
-33,Creature,Common,Orc
-34,Creature,Common,Goblin
-35,Creature,Common,Magi
-36,Artifact,Common,Pendant
-37,Enchantment,Common,Blight
-38,Spell,Common,Fury
-39,Creature,Legendary,Frozen Warrior Cyclops of the Plains
-40,Creature,Common,Elf
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Spell,Common,Freeze
-44,Creature,Common,Spider
+==================,DECK,4267
+0,Spell,Dire Grim Pandemonium
+1,Enchantment,Deathgrip
+2,Enchantment,Shimmering Lethargy
+3,Creature,Troll
+4,Creature,Warlock
+5,Creature,Skin-Walker
+6,Creature,Snow Undead Dragon of Hate
+7,Spell,Fire
+8,Artifact,Hateful Helm
+9,Artifact,Pendant
+10,Creature,Light Lord Dwarf of the Golden Palace
+11,Spell,Chimeric Fire
+12,Enchantment,Lethargy
+13,Spell,Hypnosis
+14,Creature,Skin-Walker
+15,Creature,Earth Nameless Phoenix of the Shadows
+16,Enchantment,Drain
+17,Creature,Light Priest Kraken
+18,Creature,Ghoul
+19,Enchantment,Firebreath
+20,Spell,Burn
+21,Spell,Vortex
+22,Spell,Apocalypse Lightning
+23,Enchantment,Flight
+24,Spell,Infuriate
+25,Enchantment,Flight
+26,Creature,Magi
+27,Enchantment,Lethargy
+28,Enchantment,Haste
+29,Artifact,Bow
+30,Artifact,Pendant
+31,Creature,Frozen Grand Demon of the Void
+32,Enchantment,Blight
+33,Creature,Spider
+34,Creature,Skin-Walker
+35,Creature,Fairy
+36,Artifact,Pendant
+37,Enchantment,Shade
+38,Spell,Sorrow
+39,Creature,Frozen Warrior Giant of the Plains
+40,Creature,Warlock
+41,Creature,Troll
+42,Creature,Paladin
+43,Spell,Gravitation
+44,Creature,Paladin

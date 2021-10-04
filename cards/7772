@@ -1,46 +1,46 @@
-==================,DECK,7772,Light
-0,Spell,Common,Pandemonium
-1,Spell,Common,Ice
-2,Creature,Common,Eagle
-3,Creature,Common,Magi
-4,Creature,Common,Dwarf
-5,Creature,Legendary,Snow King Giant of the Magical Forest
-6,Creature,Common,Magi
-7,Creature,Rare,Light Priest Griffin
-8,Creature,Common,Spider
-9,Creature,Common,Warlock
-10,Enchantment,Legendary,Dire Shield
-11,Spell,Common,Assault
-12,Creature,Common,Paladin
-13,Artifact,Rare,Miracle Amulet
-14,Creature,Common,Orc
-15,Enchantment,Rare,Gloom Agony
-16,Enchantment,Common,Invert
-17,Creature,Mythic,Snow Undead Dragon of Hate
-18,Creature,Common,Elf
-19,Artifact,Legendary,Dire Boots
-20,Spell,Common,Freeze
-21,Enchantment,Common,Invert
-22,Spell,Common,Freeze
-23,Creature,Rare,Snow Knight Hydra
-24,Artifact,Common,Divine Robe
-25,Enchantment,Common,Invert
-26,Creature,Common,Ghoul
-27,Artifact,Rare,Gloom Gloves
-28,Enchantment,Common,Shield
-29,Creature,Common,Spider
-30,Creature,Common,Goblin
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Dwarf
-33,Creature,Rare,Death Knight Skin-Walker
-34,Artifact,Rare,Nimble Staff
-35,Creature,Rare,Aura King Fairy
-36,Enchantment,Common,Deathgrip
-37,Creature,Rare,Snow Warrior Skin-Walker
-38,Spell,Common,Burst
-39,Creature,Common,Wolf
-40,Spell,Rare,Shimmering Stun
-41,Spell,Common,Freeze
-42,Enchantment,Common,Alacrity
-43,Spell,Common,Burst
-44,Artifact,Common,Greaves
+==================,DECK,7772
+0,Spell,Sorrow
+1,Spell,Stun
+2,Creature,Eagle
+3,Creature,Fairy
+4,Creature,Magi
+5,Creature,Snow King Dwarf of the Magical Forest
+6,Creature,Fairy
+7,Creature,Light Priest Griffin
+8,Creature,Paladin
+9,Creature,Berserker
+10,Enchantment,Instant Victory Drain
+11,Spell,Infuriate
+12,Creature,Troll
+13,Artifact,Oblivion Amulet
+14,Creature,Spider
+15,Enchantment,Miracle Alacrity
+16,Enchantment,Shade
+17,Creature,Snow Undead Dragon of Hate
+18,Creature,Warlock
+19,Artifact,Clever Oblivion Boots
+20,Spell,Stricken
+21,Enchantment,Strength
+22,Spell,Fire
+23,Creature,Snow Knight Hydra
+24,Artifact,Divine Robe
+25,Enchantment,Invert
+26,Creature,Ghoul
+27,Artifact,Cataclysmic Gloves
+28,Enchantment,Agony
+29,Creature,Paladin
+30,Creature,Skin-Walker
+31,Enchantment,Deathgrip
+32,Creature,Magi
+33,Creature,Death Knight Orc
+34,Artifact,Corpse Staff
+35,Creature,Aura King Kraken
+36,Enchantment,Strength
+37,Creature,Snow Warrior Orc
+38,Spell,Freeze
+39,Creature,Wolf
+40,Spell,Necro Frenzy
+41,Spell,Gale
+42,Enchantment,Shield
+43,Spell,Gravitation
+44,Artifact,Greaves

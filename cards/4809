@@ -1,46 +1,46 @@
-==================,DECK,4809,Medium
-0,Artifact,Common,Gloves
-1,Creature,Common,Magi
-2,Spell,Legendary,Angry Stun
-3,Creature,Common,Magi
-4,Spell,Rare,Lunar Stricken
-5,Creature,Mythic,Snow Grand Wizard of Hate
-6,Creature,Common,Orc
-7,Creature,Common,Magi
-8,Creature,Common,Goblin
-9,Spell,Common,Frenzy
-10,Creature,Rare,Earth King Skin-Walker
-11,Artifact,Legendary,Angry Ring
-12,Creature,Common,Elf
-13,Creature,Rare,Frozen Undead Skin-Walker
-14,Creature,Common,Orc
-15,Creature,Rare,Death Lord Hydra
-16,Spell,Common,Hypnosis
-17,Creature,Common,Warlock
-18,Enchantment,Rare,Miracle Age
-19,Creature,Rare,Light Rogue Fairy
-20,Creature,Rare,Aura Merchant Berserker
-21,Creature,Common,Warlock
-22,Artifact,Rare,Gloom Pendant
-23,Creature,Common,Wolf
-24,Creature,Rare,Aura Assassin Berserker
-25,Spell,Rare,Lunar Maelstrom
-26,Creature,Common,Wolf
-27,Creature,Common,Dwarf
-28,Artifact,Common,Divine Robe
-29,Spell,Common,Heal
-30,Spell,Common,Freeze
-31,Enchantment,Legendary,Instant Drain
-32,Spell,Rare,Solar Frost
-33,Spell,Common,Torment
-34,Creature,Rare,Light Rogue Skin-Walker
-35,Creature,Legendary,Aura Undead Kraken of the Swamp
-36,Enchantment,Common,Invert
-37,Creature,Rare,Dark Merchant Hydra
-38,Creature,Common,Ghoul
-39,Artifact,Common,Amulet
-40,Artifact,Legendary,Potent Potion
-41,Creature,Rare,Frozen Queen Griffin
-42,Creature,Common,Magi
-43,Creature,Common,Wolf
-44,Creature,Rare,Dark Undead Hydra
+==================,DECK,4809
+0,Artifact,Gloves
+1,Creature,Fairy
+2,Spell,Empyrean Dark Reanimate
+3,Creature,Fairy
+4,Spell,Cataclysmic Heal
+5,Creature,Snow Grand Wizard of Hate
+6,Creature,Spider
+7,Creature,Fairy
+8,Creature,Skin-Walker
+9,Spell,Reanimate
+10,Creature,Earth King Orc
+11,Artifact,Clever Chimeric Ring
+12,Creature,Warlock
+13,Creature,Frozen Undead Orc
+14,Creature,Spider
+15,Creature,Death Lord Hydra
+16,Spell,Pandemonium
+17,Creature,Berserker
+18,Enchantment,Victory Blight
+19,Creature,Light Rogue Kraken
+20,Creature,Aura Merchant Goblin
+21,Creature,Berserker
+22,Artifact,Cataclysmic Pendant
+23,Creature,Wolf
+24,Creature,Aura Assassin Goblin
+25,Spell,Cataclysmic Gravitation
+26,Creature,Wolf
+27,Creature,Magi
+28,Artifact,Divine Robe
+29,Spell,Freeze
+30,Spell,Gravitation
+31,Enchantment,Mighty Forged Agony
+32,Spell,Forged Fire
+33,Spell,Ice
+34,Creature,Light Rogue Orc
+35,Creature,Aura Undead Ogre of the Swamp
+36,Enchantment,Blight
+37,Creature,Dark Merchant Hydra
+38,Creature,Ghoul
+39,Artifact,Amulet
+40,Artifact,Ardent Grim Potion
+41,Creature,Frozen Queen Griffin
+42,Creature,Fairy
+43,Creature,Wolf
+44,Creature,Dark Undead Hydra

@@ -1,46 +1,46 @@
-==================,DECK,5042,Medium
-0,Spell,Rare,Oblivion Freeze
-1,Creature,Common,Spider
-2,Enchantment,Legendary,Clever Shield
-3,Creature,Rare,Dark Monk Berserker
-4,Creature,Legendary,Frozen Thief Giant of the Swamp
-5,Creature,Legendary,Death Knight Giant of the Haven
-6,Enchantment,Mythic,Intense Lethargy
-7,Enchantment,Mythic,Potent Shield
-8,Creature,Rare,Frozen Fighter Berserker
-9,Spell,Common,Infuriate
-10,Enchantment,Mythic,Mighty Shield
-11,Spell,Rare,Apocalypse Maelstrom
-12,Enchantment,Legendary,Intense Shrink
-13,Spell,Common,Rage
-14,Artifact,Rare,Shimmering Greaves
-15,Creature,Rare,Frozen Rogue Berserker
-16,Creature,Common,Orc
-17,Creature,Rare,Light Lord Hydra
-18,Creature,Common,Orc
-19,Enchantment,Legendary,Dire Shrink
-20,Enchantment,Rare,Oblivion Strength
-21,Creature,Common,Dwarf
-22,Creature,Rare,Light Undead Berserker
-23,Creature,Common,Elf
-24,Creature,Common,Magi
-25,Creature,Common,Goblin
-26,Creature,Mythic,Earth Grand Demon of the Shadows
-27,Artifact,Common,Divine Robe
-28,Enchantment,Legendary,Intense Invert
-29,Creature,Common,Elf
-30,Creature,Rare,Dark Assassin Minotaur
-31,Spell,Common,Invisibility
-32,Enchantment,Common,Shield
-33,Artifact,Rare,Hateful Gloves
-34,Spell,Common,Infuriate
-35,Spell,Common,Burst
-36,Spell,Legendary,Angry Fury
-37,Creature,Mythic,Frozen Chaos Wizard of the Void
-38,Creature,Rare,Frozen King Griffin
-39,Creature,Common,Spider
-40,Creature,Legendary,Light Warrior Giant of the Haven
-41,Creature,Common,Elf
-42,Creature,Rare,Earth Thief Griffin
-43,Creature,Common,Elf
-44,Spell,Rare,Life Sorrow
+==================,DECK,5042
+0,Spell,Frigid Frenzy
+1,Creature,Paladin
+2,Enchantment,Instant Victory Drain
+3,Creature,Dark Monk Goblin
+4,Creature,Frozen Thief Dwarf of the Swamp
+5,Creature,Death Knight Dwarf of the Haven
+6,Enchantment,Instant Hateful Strength
+7,Enchantment,Irate Victory Blight
+8,Creature,Frozen Fighter Goblin
+9,Spell,Reanimate
+10,Enchantment,Instant Gloom Shrink
+11,Spell,Victory Burst
+12,Enchantment,Potent Necro Strength
+13,Spell,Lightning
+14,Artifact,Nature Greaves
+15,Creature,Frozen Rogue Goblin
+16,Creature,Spider
+17,Creature,Light Lord Hydra
+18,Creature,Spider
+19,Enchantment,Potent Frigid Drain
+20,Enchantment,Nimble Shade
+21,Creature,Magi
+22,Creature,Light Undead Goblin
+23,Creature,Warlock
+24,Creature,Fairy
+25,Creature,Skin-Walker
+26,Creature,Earth Grand Demon of the Shadows
+27,Artifact,Divine Robe
+28,Enchantment,Instant Shimmering Strength
+29,Creature,Warlock
+30,Creature,Dark Assassin Cyclops
+31,Spell,Wall
+32,Enchantment,Shrink
+33,Artifact,Sorrow Gloves
+34,Spell,Fire
+35,Spell,Lightning
+36,Spell,Mighty Cataclysmic Stun
+37,Creature,Frozen Chaos Wizard of the Void
+38,Creature,Frozen King Griffin
+39,Creature,Paladin
+40,Creature,Light Warrior Dwarf of the Haven
+41,Creature,Warlock
+42,Creature,Earth Thief Griffin
+43,Creature,Warlock
+44,Spell,Frigid Vortex

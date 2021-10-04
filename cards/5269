@@ -1,46 +1,46 @@
-==================,DECK,5269,Light
-0,Enchantment,Common,Agony
-1,Artifact,Rare,Nature Scythe
-2,Spell,Rare,Grim Lightning
-3,Spell,Common,Invisibility
-4,Creature,Rare,Snow Undead Griffin
-5,Spell,Rare,Life Ice
-6,Artifact,Common,Scythe
-7,Enchantment,Common,Strength
-8,Creature,Common,Eagle
-9,Enchantment,Common,Flight
-10,Creature,Common,Elf
-11,Spell,Legendary,Clever Burn
-12,Spell,Common,Burst
-13,Creature,Common,Goblin
-14,Creature,Common,Eagle
-15,Enchantment,Common,Shrink
-16,Spell,Common,Freeze
-17,Spell,Legendary,Mighty Burn
-18,Spell,Common,Burn
-19,Creature,Common,Eagle
-20,Creature,Rare,Earth Lord Fairy
-21,Enchantment,Rare,Hateful Drain
-22,Creature,Common,Warlock
-23,Creature,Rare,Frozen Monk Fairy
-24,Creature,Common,Ghoul
-25,Creature,Common,Warlock
-26,Creature,Legendary,Earth Queen Cyclops of the Border
-27,Artifact,Rare,Miracle Sigil
-28,Creature,Common,Dwarf
-29,Creature,Rare,Snow Knight Hydra
-30,Artifact,Common,Helm
-31,Creature,Common,Goblin
-32,Spell,Common,Torment
-33,Enchantment,Common,Strength
-34,Spell,Common,Wall
-35,Creature,Common,Spider
-36,Creature,Rare,Light Undead Skin-Walker
-37,Creature,Common,Magi
-38,Enchantment,Common,Alacrity
-39,Enchantment,Common,Blight
-40,Spell,Common,Frenzy
-41,Spell,Common,Assault
-42,Artifact,Common,Sigil
-43,Spell,Common,Ice
-44,Creature,Common,Goblin
+==================,DECK,5269
+0,Enchantment,Lethargy
+1,Artifact,Nature Scythe
+2,Spell,Frigid Gravitation
+3,Spell,Heal
+4,Creature,Snow Undead Griffin
+5,Spell,Victory Rage
+6,Artifact,Scythe
+7,Enchantment,Flight
+8,Creature,Eagle
+9,Enchantment,Haste
+10,Creature,Warlock
+11,Spell,Zealous Grim Burst
+12,Spell,Stun
+13,Creature,Skin-Walker
+14,Creature,Eagle
+15,Enchantment,Shrink
+16,Spell,Vortex
+17,Spell,Clever Chimeric Gale
+18,Spell,Stricken
+19,Creature,Eagle
+20,Creature,Earth Lord Kraken
+21,Enchantment,Dark Flight
+22,Creature,Berserker
+23,Creature,Frozen Monk Kraken
+24,Creature,Ghoul
+25,Creature,Berserker
+26,Creature,Earth Queen Giant of the Border
+27,Artifact,Frigid Sigil
+28,Creature,Magi
+29,Creature,Snow Knight Hydra
+30,Artifact,Helm
+31,Creature,Skin-Walker
+32,Spell,Stun
+33,Enchantment,Invert
+34,Spell,Fury
+35,Creature,Paladin
+36,Creature,Light Undead Orc
+37,Creature,Fairy
+38,Enchantment,Shield
+39,Enchantment,Shade
+40,Spell,Reanimate
+41,Spell,Rage
+42,Artifact,Sigil
+43,Spell,Fury
+44,Creature,Skin-Walker

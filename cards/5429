@@ -1,46 +1,46 @@
-==================,DECK,5429,Light
-0,Creature,Common,Dwarf
-1,Artifact,Common,Helm
-2,Creature,Common,Warlock
-3,Spell,Legendary,Intense Wall
-4,Spell,Common,Hypnosis
-5,Spell,Rare,Grim Frost
-6,Spell,Rare,Oblivion Invisibility
-7,Artifact,Common,Tome
-8,Creature,Common,Magi
-9,Spell,Common,Stricken
-10,Creature,Rare,Aura Monk Minotaur
-11,Creature,Common,Paladin
-12,Creature,Legendary,Aura Priest Giant of the Haven
-13,Creature,Common,Warlock
-14,Spell,Rare,Dark Frenzy
-15,Enchantment,Rare,Nature Drain
-16,Spell,Common,Freeze
-17,Spell,Common,Frost
-18,Spell,Common,Gravitation
-19,Creature,Common,Ghoul
-20,Spell,Common,Ice
-21,Creature,Legendary,Aura Knight Oni of the Haven
-22,Creature,Common,Paladin
-23,Spell,Common,Burn
-24,Spell,Legendary,Intense Stricken
-25,Enchantment,Common,Strength
-26,Enchantment,Common,Lethargy
-27,Artifact,Common,Tome
-28,Spell,Legendary,Dire Vortex
-29,Creature,Common,Magi
-30,Enchantment,Mythic,Instant Strength
-31,Spell,Rare,Hateful Sorrow
-32,Spell,Common,Infuriate
-33,Enchantment,Rare,Nimble Shield
-34,Creature,Common,Magi
-35,Creature,Common,Ghoul
-36,Creature,Common,Spider
-37,Enchantment,Common,Strength
-38,Enchantment,Mythic,Mighty Shade
-39,Creature,Legendary,Light Merchant Orge of the Arctic Blizzards
-40,Creature,Legendary,Earth Merchant Orge of the Low Hills
-41,Creature,Common,Wolf
-42,Spell,Common,Reanimate
-43,Spell,Rare,Gloom Assault
-44,Creature,Common,Eagle
+==================,DECK,5429
+0,Creature,Magi
+1,Artifact,Helm
+2,Creature,Berserker
+3,Spell,Irate Forged Frost
+4,Spell,Maelstrom
+5,Spell,Life Infuriate
+6,Spell,Victory Revive
+7,Artifact,Tome
+8,Creature,Fairy
+9,Spell,Burst
+10,Creature,Aura Monk Cyclops
+11,Creature,Troll
+12,Creature,Aura Priest Dwarf of the Haven
+13,Creature,Berserker
+14,Spell,Miracle Gale
+15,Enchantment,Forged Deathgrip
+16,Spell,Gale
+17,Spell,Stricken
+18,Spell,Freeze
+19,Creature,Ghoul
+20,Spell,Heal
+21,Creature,Aura Knight Oni of the Haven
+22,Creature,Troll
+23,Spell,Rage
+24,Spell,Zealous Necro Fire
+25,Enchantment,Shield
+26,Enchantment,Agony
+27,Artifact,Tome
+28,Spell,Ardent Grim Assault
+29,Creature,Fairy
+30,Enchantment,Urgent Solar Agony
+31,Spell,Sorrow Fury
+32,Spell,Revive
+33,Enchantment,Nature Age
+34,Creature,Fairy
+35,Creature,Ghoul
+36,Creature,Paladin
+37,Enchantment,Firebreath
+38,Enchantment,Ardent Chimeric Shield
+39,Creature,Light Merchant Elf of the Arctic Blizzards
+40,Creature,Earth Merchant Elf of the Low Hills
+41,Creature,Wolf
+42,Spell,Vortex
+43,Spell,Gloom Stun
+44,Creature,Eagle

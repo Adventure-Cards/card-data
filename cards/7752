@@ -1,46 +1,46 @@
-==================,DECK,7752,Light
-0,Creature,Legendary,Frozen Priest Kraken of the Plains
-1,Creature,Common,Spider
-2,Enchantment,Common,Deathgrip
-3,Creature,Rare,Earth Queen Berserker
-4,Spell,Common,Lightning
-5,Creature,Common,Orc
-6,Spell,Rare,Forged Heal
-7,Enchantment,Rare,Shimmering Blight
-8,Creature,Rare,Frozen Assassin Fairy
-9,Enchantment,Rare,Dark Strength
-10,Creature,Rare,Light Monk Fairy
-11,Spell,Common,Burn
-12,Creature,Rare,Frozen Lord Minotaur
-13,Enchantment,Mythic,Instant Agony
-14,Spell,Common,Gale
-15,Artifact,Common,Bracers
-16,Creature,Common,Warlock
-17,Enchantment,Common,Invert
-18,Creature,Common,Magi
-19,Creature,Common,Orc
-20,Creature,Common,Eagle
-21,Spell,Common,Burn
-22,Spell,Legendary,Urgent Rage
-23,Spell,Common,Hypnosis
-24,Creature,Common,Warlock
-25,Creature,Rare,Death Assassin Berserker
-26,Spell,Legendary,Clever Heal
-27,Enchantment,Common,Agony
-28,Creature,Common,Ghoul
-29,Spell,Common,Gravitation
-30,Artifact,Common,Gauntlet
-31,Spell,Common,Wall
-32,Creature,Common,Warlock
-33,Spell,Common,Infuriate
-34,Creature,Rare,Death Merchant Skin-Walker
-35,Creature,Rare,Aura Rogue Berserker
-36,Enchantment,Common,Invert
-37,Spell,Common,Infuriate
-38,Creature,Common,Spider
-39,Spell,Common,Frost
-40,Spell,Rare,Lunar Infuriate
-41,Artifact,Common,Bow
-42,Enchantment,Common,Shield
-43,Spell,Rare,Solar Wall
-44,Artifact,Common,Ghost Wand
+==================,DECK,7752
+0,Creature,Frozen Priest Ogre of the Plains
+1,Creature,Paladin
+2,Enchantment,Shield
+3,Creature,Earth Queen Goblin
+4,Spell,Pandemonium
+5,Creature,Spider
+6,Spell,Sorrow Invisibility
+7,Enchantment,Solar Age
+8,Creature,Frozen Assassin Kraken
+9,Enchantment,Cataclysmic Shrink
+10,Creature,Light Monk Kraken
+11,Spell,Stricken
+12,Creature,Frozen Lord Cyclops
+13,Enchantment,Urgent Corpse Agony
+14,Spell,Frost
+15,Artifact,Bracers
+16,Creature,Berserker
+17,Enchantment,Age
+18,Creature,Fairy
+19,Creature,Spider
+20,Creature,Eagle
+21,Spell,Wall
+22,Spell,Instant Necro Pandemonium
+23,Spell,Burn
+24,Creature,Berserker
+25,Creature,Death Assassin Goblin
+26,Spell,Irate Grim Frost
+27,Enchantment,Blight
+28,Creature,Ghoul
+29,Spell,Rage
+30,Artifact,Gauntlet
+31,Spell,Frenzy
+32,Creature,Berserker
+33,Spell,Torment
+34,Creature,Death Merchant Orc
+35,Creature,Aura Rogue Goblin
+36,Enchantment,Flight
+37,Spell,Wall
+38,Creature,Paladin
+39,Spell,Vortex
+40,Spell,Chimeric Invisibility
+41,Artifact,Bow
+42,Enchantment,Invert
+43,Spell,Corpse Burn
+44,Artifact,Ghost Wand

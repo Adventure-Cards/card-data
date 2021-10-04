@@ -1,46 +1,46 @@
-==================,DECK,6860,Medium
-0,Enchantment,Common,Invert
-1,Artifact,Rare,Nature Potion
-2,Creature,Common,Elf
-3,Creature,Rare,Death Priest Fairy
-4,Artifact,Common,Helmet
-5,Creature,Common,Warlock
-6,Creature,Legendary,Death Thief Giant of the Arctic Blizzards
-7,Spell,Rare,Lunar Gale
-8,Creature,Legendary,Snow Assassin Kraken of the Arctic Blizzards
-9,Artifact,Rare,Grim Helmet
-10,Creature,Common,Magi
-11,Enchantment,Mythic,Clever Flight
-12,Artifact,Rare,Shimmering Staff
-13,Artifact,Common,Ring
-14,Spell,Rare,Miracle Hypnosis
-15,Creature,Common,Orc
-16,Spell,Common,Sorrow
-17,Creature,Common,Warlock
-18,Enchantment,Common,Lethargy
-19,Creature,Legendary,Snow Lord Cyclops of the Eternal Land
-20,Artifact,Rare,Shimmering Ghost Wand
-21,Creature,Rare,Aura Merchant Fairy
-22,Creature,Legendary,Dark Queen Kraken of the Swamp
-23,Creature,Common,Orc
-24,Creature,Rare,Dark Undead Skin-Walker
-25,Enchantment,Legendary,Clever Shade
-26,Creature,Mythic,Frozen Ancient Wizard of the Void
-27,Creature,Rare,Light Lord Fairy
-28,Spell,Rare,Nature Stun
-29,Creature,Common,Paladin
-30,Artifact,Rare,Dark Cloak
-31,Spell,Common,Vortex
-32,Spell,Legendary,Dire Invisibility
-33,Creature,Rare,Snow Assassin Minotaur
-34,Creature,Rare,Light Assassin Skin-Walker
-35,Spell,Legendary,Clever Frenzy
-36,Enchantment,Common,Deathgrip
-37,Creature,Rare,Light Warrior Hydra
-38,Enchantment,Rare,Apocalypse Haste
-39,Creature,Rare,Earth Knight Minotaur
-40,Spell,Legendary,Angry Frost
-41,Spell,Common,Vortex
-42,Creature,Rare,Aura Thief Skin-Walker
-43,Creature,Legendary,Snow Merchant Giant of the Bright Mountains
-44,Creature,Common,Goblin
+==================,DECK,6860
+0,Enchantment,Shrink
+1,Artifact,Corpse Potion
+2,Creature,Warlock
+3,Creature,Death Priest Kraken
+4,Artifact,Helmet
+5,Creature,Berserker
+6,Creature,Death Thief Dwarf of the Arctic Blizzards
+7,Spell,Gloom Fire
+8,Creature,Snow Assassin Ogre of the Arctic Blizzards
+9,Artifact,Frigid Helmet
+10,Creature,Fairy
+11,Enchantment,Mighty Grim Invert
+12,Artifact,Nature Staff
+13,Artifact,Ring
+14,Spell,Victory Freeze
+15,Creature,Spider
+16,Spell,Gravitation
+17,Creature,Berserker
+18,Enchantment,Drain
+19,Creature,Snow Lord Giant of the Eternal Land
+20,Artifact,Solar Ghost Wand
+21,Creature,Aura Merchant Kraken
+22,Creature,Dark Queen Ogre of the Swamp
+23,Creature,Spider
+24,Creature,Dark Undead Orc
+25,Enchantment,Instant Frigid Drain
+26,Creature,Frozen Ancient Wizard of the Void
+27,Creature,Light Lord Kraken
+28,Spell,Forged Fire
+29,Creature,Troll
+30,Artifact,Gloom Cloak
+31,Spell,Revive
+32,Spell,Irate Nimble Fury
+33,Creature,Snow Assassin Cyclops
+34,Creature,Light Assassin Orc
+35,Spell,Irate Life Rage
+36,Enchantment,Strength
+37,Creature,Light Warrior Hydra
+38,Enchantment,Life Drain
+39,Creature,Earth Knight Cyclops
+40,Spell,Irate Miracle Fireball
+41,Spell,Heal
+42,Creature,Aura Thief Orc
+43,Creature,Snow Merchant Dwarf of the Bright Mountains
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,5359,Light
-0,Artifact,Common,Pendant
-1,Creature,Rare,Dark Undead Griffin
-2,Creature,Rare,Death Lord Minotaur
-3,Creature,Common,Orc
-4,Enchantment,Common,Shade
-5,Spell,Common,Freeze
-6,Spell,Common,Pandemonium
-7,Creature,Rare,Snow Monk Griffin
-8,Spell,Rare,Grim Frost
-9,Enchantment,Common,Flight
-10,Creature,Rare,Dark King Skin-Walker
-11,Enchantment,Common,Shrink
-12,Creature,Common,Dwarf
-13,Creature,Common,Goblin
-14,Artifact,Common,Crown
-15,Creature,Common,Dwarf
-16,Spell,Legendary,Angry Wall
-17,Spell,Common,Reanimate
-18,Creature,Legendary,Frozen Rogue Giant of the Haven
-19,Spell,Common,Wall
-20,Enchantment,Legendary,Clever Drain
-21,Spell,Legendary,Angry Sorrow
-22,Spell,Common,Ice
-23,Creature,Common,Wolf
-24,Artifact,Common,Sigil
-25,Spell,Common,Invisibility
-26,Spell,Common,Ice
-27,Creature,Rare,Light Monk Berserker
-28,Creature,Common,Goblin
-29,Artifact,Common,Helmet
-30,Enchantment,Legendary,Clever Shade
-31,Creature,Common,Ghoul
-32,Spell,Common,Frenzy
-33,Spell,Rare,Necro Hypnosis
-34,Creature,Rare,Dark Monk Skin-Walker
-35,Spell,Common,Gravitation
-36,Artifact,Common,Gauntlet
-37,Artifact,Rare,Dark Belt
-38,Creature,Common,Spider
-39,Artifact,Rare,Oblivion Potion
-40,Creature,Common,Ghoul
-41,Creature,Common,Spider
-42,Spell,Common,Infuriate
-43,Creature,Legendary,Frozen Priest Kraken of the Mountains
-44,Enchantment,Common,Invert
+==================,DECK,5359
+0,Artifact,Pendant
+1,Creature,Dark Undead Griffin
+2,Creature,Death Lord Cyclops
+3,Creature,Spider
+4,Enchantment,Invert
+5,Spell,Wall
+6,Spell,Torment
+7,Creature,Snow Monk Griffin
+8,Spell,Apocalypse Reanimate
+9,Enchantment,Strength
+10,Creature,Dark King Orc
+11,Enchantment,Age
+12,Creature,Magi
+13,Creature,Skin-Walker
+14,Artifact,Crown
+15,Creature,Magi
+16,Spell,Irate Chimeric Rage
+17,Spell,Lightning
+18,Creature,Frozen Rogue Dwarf of the Haven
+19,Spell,Frenzy
+20,Enchantment,Mighty Apocalypse Invert
+21,Spell,Empyrean Miracle Vortex
+22,Spell,Pandemonium
+23,Creature,Wolf
+24,Artifact,Sigil
+25,Spell,Hypnosis
+26,Spell,Frenzy
+27,Creature,Light Monk Goblin
+28,Creature,Skin-Walker
+29,Artifact,Helmet
+30,Enchantment,Ardent Frigid Haste
+31,Creature,Ghoul
+32,Spell,Maelstrom
+33,Spell,Shimmering Wall
+34,Creature,Dark Monk Orc
+35,Spell,Revive
+36,Artifact,Gauntlet
+37,Artifact,Cataclysmic Belt
+38,Creature,Paladin
+39,Artifact,Frigid Potion
+40,Creature,Ghoul
+41,Creature,Paladin
+42,Spell,Rage
+43,Creature,Frozen Priest Ogre of the Mountains
+44,Enchantment,Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,5217,Light
-0,Enchantment,Common,Shield
-1,Creature,Legendary,Snow Assassin Orge of the Magical Forest
-2,Creature,Rare,Light Warrior Berserker
-3,Creature,Common,Elf
-4,Spell,Common,Fury
-5,Enchantment,Common,Drain
-6,Spell,Legendary,Urgent Fury
-7,Spell,Common,Infuriate
-8,Creature,Legendary,Aura Undead Kraken of the Frozen Castle
-9,Creature,Common,Dwarf
-10,Creature,Common,Eagle
-11,Spell,Common,Stricken
-12,Enchantment,Mythic,Instant Lethargy
-13,Creature,Common,Wolf
-14,Creature,Common,Dwarf
-15,Creature,Legendary,Death King Oni of the Border
-16,Spell,Common,Sorrow
-17,Creature,Legendary,Snow Queen Cyclops of the Arctic Blizzards
-18,Enchantment,Rare,Lunar Flight
-19,Creature,Common,Paladin
-20,Creature,Common,Ghoul
-21,Creature,Common,Paladin
-22,Spell,Rare,Forged Rage
-23,Creature,Common,Magi
-24,Enchantment,Common,Lethargy
-25,Creature,Legendary,Aura Rogue Giant of the Eastern Skies
-26,Spell,Common,Gale
-27,Spell,Rare,Hateful Sorrow
-28,Enchantment,Common,Shield
-29,Spell,Common,Torment
-30,Creature,Common,Eagle
-31,Creature,Common,Spider
-32,Creature,Common,Wolf
-33,Creature,Common,Eagle
-34,Creature,Common,Paladin
-35,Creature,Common,Goblin
-36,Creature,Common,Goblin
-37,Creature,Common,Elf
-38,Artifact,Legendary,Clever Ring
-39,Enchantment,Rare,Forged Strength
-40,Spell,Common,Vortex
-41,Artifact,Common,Pendant
-42,Creature,Common,Goblin
-43,Enchantment,Common,Invert
-44,Creature,Rare,Death Thief Hydra
+==================,DECK,5217
+0,Enchantment,Drain
+1,Creature,Snow Assassin Elf of the Magical Forest
+2,Creature,Light Warrior Goblin
+3,Creature,Warlock
+4,Spell,Reanimate
+5,Enchantment,Blight
+6,Spell,Potent Hateful Invisibility
+7,Spell,Ice
+8,Creature,Aura Undead Ogre of the Frozen Castle
+9,Creature,Magi
+10,Creature,Eagle
+11,Spell,Tempest
+12,Enchantment,Instant Hateful Strength
+13,Creature,Wolf
+14,Creature,Magi
+15,Creature,Death King Oni of the Border
+16,Spell,Stricken
+17,Creature,Snow Queen Giant of the Arctic Blizzards
+18,Enchantment,Lunar Shield
+19,Creature,Troll
+20,Creature,Ghoul
+21,Creature,Troll
+22,Spell,Lunar Stricken
+23,Creature,Fairy
+24,Enchantment,Alacrity
+25,Creature,Aura Rogue Dwarf of the Eastern Skies
+26,Spell,Lightning
+27,Spell,Miracle Gale
+28,Enchantment,Flight
+29,Spell,Vortex
+30,Creature,Eagle
+31,Creature,Paladin
+32,Creature,Wolf
+33,Creature,Eagle
+34,Creature,Troll
+35,Creature,Skin-Walker
+36,Creature,Skin-Walker
+37,Creature,Warlock
+38,Artifact,Clever Victory Ring
+39,Enchantment,Cataclysmic Firebreath
+40,Spell,Pandemonium
+41,Artifact,Pendant
+42,Creature,Skin-Walker
+43,Enchantment,Shrink
+44,Creature,Death Thief Hydra

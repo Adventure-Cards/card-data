@@ -1,46 +1,46 @@
-==================,DECK,6631,Light
-0,Creature,Common,Wolf
-1,Creature,Legendary,Light Rogue Cyclops of the Plains
-2,Creature,Common,Orc
-3,Creature,Common,Dwarf
-4,Creature,Rare,Snow Fighter Berserker
-5,Creature,Legendary,Earth Queen Giant of the Polar Woods
-6,Enchantment,Common,Haste
-7,Creature,Rare,Death Thief Berserker
-8,Creature,Common,Paladin
-9,Spell,Common,Heal
-10,Enchantment,Common,Flight
-11,Spell,Common,Gravitation
-12,Enchantment,Common,Shrink
-13,Creature,Common,Orc
-14,Spell,Common,Freeze
-15,Spell,Common,Heal
-16,Artifact,Legendary,Clever Belt
-17,Enchantment,Rare,Nimble Shade
-18,Spell,Common,Reanimate
-19,Enchantment,Mythic,Urgent Lethargy
-20,Creature,Common,Orc
-21,Spell,Common,Rage
-22,Creature,Rare,Earth Knight Berserker
-23,Creature,Rare,Snow Fighter Fairy
-24,Creature,Rare,Dark Undead Berserker
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Deathgrip
-27,Enchantment,Common,Flight
-28,Creature,Common,Dwarf
-29,Creature,Rare,Death Lord Griffin
-30,Creature,Common,Dwarf
-31,Artifact,Common,Ring
-32,Creature,Common,Orc
-33,Creature,Common,Warlock
-34,Spell,Legendary,Mighty Hypnosis
-35,Enchantment,Common,Haste
-36,Creature,Common,Elf
-37,Enchantment,Common,Deathgrip
-38,Creature,Rare,Death Knight Hydra
-39,Spell,Legendary,Clever Wall
-40,Enchantment,Rare,Nimble Lethargy
-41,Creature,Common,Spider
-42,Spell,Common,Lightning
-43,Spell,Common,Assault
-44,Enchantment,Common,Blight
+==================,DECK,6631
+0,Creature,Wolf
+1,Creature,Light Rogue Giant of the Plains
+2,Creature,Spider
+3,Creature,Magi
+4,Creature,Snow Fighter Goblin
+5,Creature,Earth Queen Dwarf of the Polar Woods
+6,Enchantment,Firebreath
+7,Creature,Death Thief Goblin
+8,Creature,Troll
+9,Spell,Vortex
+10,Enchantment,Flight
+11,Spell,Hypnosis
+12,Enchantment,Agony
+13,Creature,Spider
+14,Spell,Infuriate
+15,Spell,Hypnosis
+16,Artifact,Empyrean Oblivion Belt
+17,Enchantment,Necro Deathgrip
+18,Spell,Ice
+19,Enchantment,Instant Hateful Strength
+20,Creature,Spider
+21,Spell,Revive
+22,Creature,Earth Knight Goblin
+23,Creature,Snow Fighter Kraken
+24,Creature,Dark Undead Goblin
+25,Creature,Ghoul
+26,Enchantment,Invert
+27,Enchantment,Haste
+28,Creature,Magi
+29,Creature,Death Lord Griffin
+30,Creature,Magi
+31,Artifact,Ring
+32,Creature,Spider
+33,Creature,Berserker
+34,Spell,Potent Chimeric Sorrow
+35,Enchantment,Blight
+36,Creature,Warlock
+37,Enchantment,Shield
+38,Creature,Death Knight Hydra
+39,Spell,Dire Apocalypse Ice
+40,Enchantment,Hateful Lethargy
+41,Creature,Paladin
+42,Spell,Ice
+43,Spell,Heal
+44,Enchantment,Invert

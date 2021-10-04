@@ -1,46 +1,46 @@
-==================,DECK,5579,Light
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Ghoul
-2,Creature,Common,Spider
-3,Creature,Common,Warlock
-4,Enchantment,Common,Drain
-5,Creature,Mythic,Death Ancient Wizard of the Dead
-6,Spell,Legendary,Mighty Assault
-7,Creature,Common,Spider
-8,Creature,Common,Magi
-9,Artifact,Rare,Frigid Ghost Wand
-10,Enchantment,Common,Invert
-11,Spell,Common,Freeze
-12,Creature,Common,Dwarf
-13,Spell,Common,Ice
-14,Creature,Common,Elf
-15,Enchantment,Common,Drain
-16,Creature,Common,Spider
-17,Creature,Common,Magi
-18,Spell,Common,Wall
-19,Creature,Common,Magi
-20,Artifact,Common,Sword
-21,Creature,Common,Paladin
-22,Spell,Common,Invisibility
-23,Creature,Rare,Light Monk Hydra
-24,Enchantment,Common,Age
-25,Creature,Common,Paladin
-26,Enchantment,Common,Blight
-27,Enchantment,Common,Lethargy
-28,Creature,Common,Warlock
-29,Enchantment,Rare,Hateful Shrink
-30,Creature,Common,Elf
-31,Spell,Common,Burn
-32,Enchantment,Common,Shield
-33,Creature,Common,Eagle
-34,Creature,Common,Dwarf
-35,Creature,Common,Paladin
-36,Creature,Rare,Earth Lord Fairy
-37,Creature,Common,Dwarf
-38,Creature,Mythic,Death Nameless Phoenix of the Dead
-39,Enchantment,Common,Haste
-40,Spell,Common,Vortex
-41,Creature,Common,Goblin
-42,Creature,Legendary,Snow Queen Giant of the Frozen Castle
-43,Creature,Common,Orc
-44,Creature,Common,Magi
+==================,DECK,5579
+0,Enchantment,Lethargy
+1,Creature,Ghoul
+2,Creature,Paladin
+3,Creature,Berserker
+4,Enchantment,Flight
+5,Creature,Death Ancient Wizard of the Dead
+6,Spell,Urgent Chimeric Assault
+7,Creature,Paladin
+8,Creature,Fairy
+9,Artifact,Apocalypse Ghost Wand
+10,Enchantment,Deathgrip
+11,Spell,Infuriate
+12,Creature,Magi
+13,Spell,Lightning
+14,Creature,Warlock
+15,Enchantment,Drain
+16,Creature,Paladin
+17,Creature,Fairy
+18,Spell,Infuriate
+19,Creature,Fairy
+20,Artifact,Sword
+21,Creature,Troll
+22,Spell,Stun
+23,Creature,Light Monk Hydra
+24,Enchantment,Alacrity
+25,Creature,Troll
+26,Enchantment,Shrink
+27,Enchantment,Drain
+28,Creature,Berserker
+29,Enchantment,Chimeric Shield
+30,Creature,Warlock
+31,Spell,Reanimate
+32,Enchantment,Flight
+33,Creature,Eagle
+34,Creature,Magi
+35,Creature,Troll
+36,Creature,Earth Lord Kraken
+37,Creature,Magi
+38,Creature,Death Nameless Phoenix of the Dead
+39,Enchantment,Blight
+40,Spell,Burst
+41,Creature,Skin-Walker
+42,Creature,Snow Queen Dwarf of the Frozen Castle
+43,Creature,Spider
+44,Creature,Fairy

@@ -1,46 +1,46 @@
-==================,DECK,6672,Light
-0,Artifact,Legendary,Instant Amulet
-1,Creature,Common,Elf
-2,Creature,Common,Paladin
-3,Artifact,Common,Boots
-4,Creature,Common,Spider
-5,Enchantment,Mythic,Angry Drain
-6,Enchantment,Common,Shield
-7,Spell,Common,Assault
-8,Creature,Common,Spider
-9,Artifact,Common,Crown
-10,Spell,Rare,Lunar Infuriate
-11,Artifact,Legendary,Potent Amulet
-12,Creature,Common,Elf
-13,Artifact,Rare,Frigid Sword
-14,Creature,Common,Orc
-15,Creature,Common,Wolf
-16,Spell,Common,Maelstrom
-17,Enchantment,Rare,Frigid Invert
-18,Creature,Common,Spider
-19,Spell,Common,Invisibility
-20,Enchantment,Rare,Lunar Age
-21,Creature,Common,Orc
-22,Creature,Common,Dwarf
-23,Creature,Common,Magi
-24,Creature,Common,Goblin
-25,Creature,Common,Magi
-26,Artifact,Rare,Grim Scythe
-27,Artifact,Common,Scythe
-28,Spell,Rare,Nature Maelstrom
-29,Enchantment,Legendary,Urgent Age
-30,Enchantment,Common,Strength
-31,Creature,Common,Ghoul
-32,Creature,Legendary,Snow Lord Orge of the Frozen Castle
-33,Creature,Common,Dwarf
-34,Creature,Rare,Dark Queen Berserker
-35,Spell,Common,Vortex
-36,Spell,Common,Frost
-37,Spell,Common,Assault
-38,Creature,Common,Spider
-39,Spell,Rare,Dark Gravitation
-40,Spell,Common,Vortex
-41,Creature,Common,Ghoul
-42,Creature,Mythic,Earth Time Phoenix of the Shadows
-43,Enchantment,Rare,Frigid Agony
-44,Enchantment,Common,Invert
+==================,DECK,6672
+0,Artifact,Mighty Forged Amulet
+1,Creature,Warlock
+2,Creature,Troll
+3,Artifact,Boots
+4,Creature,Paladin
+5,Enchantment,Mighty Dark Flight
+6,Enchantment,Blight
+7,Spell,Assault
+8,Creature,Paladin
+9,Artifact,Crown
+10,Spell,Cataclysmic Lightning
+11,Artifact,Urgent Nimble Amulet
+12,Creature,Warlock
+13,Artifact,Frigid Sword
+14,Creature,Spider
+15,Creature,Wolf
+16,Spell,Fury
+17,Enchantment,Oblivion Blight
+18,Creature,Paladin
+19,Spell,Gravitation
+20,Enchantment,Gloom Firebreath
+21,Creature,Spider
+22,Creature,Magi
+23,Creature,Fairy
+24,Creature,Skin-Walker
+25,Creature,Fairy
+26,Artifact,Oblivion Scythe
+27,Artifact,Scythe
+28,Spell,Necro Assault
+29,Enchantment,Zealous Nature Deathgrip
+30,Enchantment,Shade
+31,Creature,Ghoul
+32,Creature,Snow Lord Elf of the Frozen Castle
+33,Creature,Magi
+34,Creature,Dark Queen Goblin
+35,Spell,Heal
+36,Spell,Tempest
+37,Spell,Pandemonium
+38,Creature,Paladin
+39,Spell,Chimeric Vortex
+40,Spell,Wall
+41,Creature,Ghoul
+42,Creature,Earth Time Phoenix of the Shadows
+43,Enchantment,Life Blight
+44,Enchantment,Invert

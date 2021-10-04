@@ -1,46 +1,46 @@
-==================,DECK,7509,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Frozen Rogue Skin-Walker
-2,Spell,Common,Infuriate
-3,Creature,Common,Magi
-4,Spell,Common,Gravitation
-5,Creature,Common,Magi
-6,Creature,Mythic,Earth Chaos Wizard of the Shadows
-7,Enchantment,Legendary,Urgent Shield
-8,Creature,Common,Elf
-9,Artifact,Common,Belt
-10,Creature,Legendary,Death Merchant Oni of the Eastern Skies
-11,Spell,Common,Fury
-12,Creature,Rare,Death Priest Skin-Walker
-13,Artifact,Common,Helm
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Haste
-16,Creature,Common,Wolf
-17,Enchantment,Common,Agony
-18,Creature,Common,Dwarf
-19,Artifact,Rare,Grim Staff
-20,Creature,Common,Paladin
-21,Creature,Rare,Aura King Berserker
-22,Creature,Common,Paladin
-23,Creature,Common,Eagle
-24,Creature,Common,Orc
-25,Enchantment,Common,Strength
-26,Enchantment,Common,Shield
-27,Creature,Common,Eagle
-28,Creature,Rare,Dark Thief Minotaur
-29,Spell,Common,Hypnosis
-30,Enchantment,Common,Strength
-31,Creature,Common,Spider
-32,Enchantment,Common,Invert
-33,Spell,Common,Fury
-34,Creature,Common,Magi
-35,Creature,Common,Elf
-36,Creature,Rare,Snow Knight Berserker
-37,Creature,Mythic,Frozen Time Dragon of the Void
-38,Creature,Common,Magi
-39,Enchantment,Mythic,Clever Deathgrip
-40,Creature,Rare,Frozen Rogue Griffin
-41,Spell,Common,Hypnosis
-42,Artifact,Rare,Miracle Gauntlet
-43,Creature,Common,Eagle
-44,Artifact,Common,Tome
+==================,DECK,7509
+0,Creature,Berserker
+1,Creature,Frozen Rogue Orc
+2,Spell,Torment
+3,Creature,Fairy
+4,Spell,Heal
+5,Creature,Fairy
+6,Creature,Earth Chaos Wizard of the Shadows
+7,Enchantment,Instant Nature Strength
+8,Creature,Warlock
+9,Artifact,Belt
+10,Creature,Death Merchant Oni of the Eastern Skies
+11,Spell,Hypnosis
+12,Creature,Death Priest Orc
+13,Artifact,Helm
+14,Creature,Magi
+15,Enchantment,Strength
+16,Creature,Wolf
+17,Enchantment,Age
+18,Creature,Magi
+19,Artifact,Frigid Staff
+20,Creature,Troll
+21,Creature,Aura King Goblin
+22,Creature,Troll
+23,Creature,Eagle
+24,Creature,Spider
+25,Enchantment,Shrink
+26,Enchantment,Shield
+27,Creature,Eagle
+28,Creature,Dark Thief Cyclops
+29,Spell,Frost
+30,Enchantment,Deathgrip
+31,Creature,Paladin
+32,Enchantment,Strength
+33,Spell,Stricken
+34,Creature,Fairy
+35,Creature,Warlock
+36,Creature,Snow Knight Goblin
+37,Creature,Frozen Time Dragon of the Void
+38,Creature,Fairy
+39,Enchantment,Potent Oblivion Drain
+40,Creature,Frozen Rogue Griffin
+41,Spell,Pandemonium
+42,Artifact,Apocalypse Gauntlet
+43,Creature,Eagle
+44,Artifact,Tome

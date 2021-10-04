@@ -1,46 +1,46 @@
-==================,DECK,6344,Light
-0,Spell,Common,Burst
-1,Enchantment,Common,Invert
-2,Creature,Common,Goblin
-3,Spell,Rare,Necro Hypnosis
-4,Creature,Rare,Earth Warrior Berserker
-5,Creature,Rare,Light Merchant Skin-Walker
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Creature,Common,Ghoul
-9,Creature,Common,Spider
-10,Artifact,Rare,Hateful Gloves
-11,Creature,Common,Wolf
-12,Creature,Common,Spider
-13,Creature,Rare,Dark Merchant Berserker
-14,Enchantment,Common,Haste
-15,Creature,Common,Dwarf
-16,Spell,Common,Freeze
-17,Spell,Rare,Corpse Vortex
-18,Creature,Common,Dwarf
-19,Creature,Common,Orc
-20,Spell,Common,Wall
-21,Artifact,Common,Sigil
-22,Creature,Common,Wolf
-23,Enchantment,Legendary,Clever Invert
-24,Creature,Common,Eagle
-25,Enchantment,Common,Shield
-26,Creature,Rare,Light Queen Fairy
-27,Creature,Common,Eagle
-28,Enchantment,Common,Drain
-29,Creature,Rare,Earth Monk Hydra
-30,Enchantment,Mythic,Intense Flight
-31,Artifact,Common,Scepter
-32,Enchantment,Common,Deathgrip
-33,Spell,Legendary,Dire Invisibility
-34,Enchantment,Rare,Grim Shield
-35,Spell,Common,Hypnosis
-36,Spell,Common,Frenzy
-37,Creature,Common,Ghoul
-38,Creature,Common,Orc
-39,Creature,Common,Eagle
-40,Artifact,Legendary,Instant Gloves
-41,Creature,Common,Dwarf
-42,Creature,Common,Paladin
-43,Creature,Rare,Dark Undead Fairy
-44,Creature,Common,Dwarf
+==================,DECK,6344
+0,Spell,Burn
+1,Enchantment,Lethargy
+2,Creature,Skin-Walker
+3,Spell,Solar Burn
+4,Creature,Earth Warrior Goblin
+5,Creature,Light Merchant Orc
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Creature,Ghoul
+9,Creature,Paladin
+10,Artifact,Dark Gloves
+11,Creature,Wolf
+12,Creature,Paladin
+13,Creature,Dark Merchant Goblin
+14,Enchantment,Alacrity
+15,Creature,Magi
+16,Spell,Sorrow
+17,Spell,Hateful Lightning
+18,Creature,Magi
+19,Creature,Spider
+20,Spell,Fireball
+21,Artifact,Sigil
+22,Creature,Wolf
+23,Enchantment,Ardent Oblivion Haste
+24,Creature,Eagle
+25,Enchantment,Deathgrip
+26,Creature,Light Queen Kraken
+27,Creature,Eagle
+28,Enchantment,Agony
+29,Creature,Earth Monk Hydra
+30,Enchantment,Clever Hateful Lethargy
+31,Artifact,Scepter
+32,Enchantment,Shrink
+33,Spell,Dire Apocalypse Gale
+34,Enchantment,Victory Blight
+35,Spell,Fireball
+36,Spell,Rage
+37,Creature,Ghoul
+38,Creature,Spider
+39,Creature,Eagle
+40,Artifact,Potent Necro Gloves
+41,Creature,Magi
+42,Creature,Troll
+43,Creature,Dark Undead Kraken
+44,Creature,Magi

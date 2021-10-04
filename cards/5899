@@ -1,46 +1,46 @@
-==================,DECK,5899,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Flight
-2,Spell,Common,Reanimate
-3,Spell,Common,Lightning
-4,Enchantment,Common,Strength
-5,Enchantment,Common,Age
-6,Creature,Rare,Aura Queen Berserker
-7,Spell,Common,Burst
-8,Creature,Common,Magi
-9,Creature,Common,Ghoul
-10,Enchantment,Legendary,Angry Deathgrip
-11,Creature,Common,Ghoul
-12,Creature,Common,Orc
-13,Creature,Common,Orc
-14,Spell,Common,Reanimate
-15,Enchantment,Mythic,Clever Drain
-16,Creature,Common,Warlock
-17,Enchantment,Common,Agony
-18,Creature,Rare,Dark Warrior Hydra
-19,Creature,Common,Elf
-20,Creature,Common,Wolf
-21,Spell,Common,Lightning
-22,Artifact,Common,Pendant
-23,Creature,Rare,Death Lord Berserker
-24,Creature,Rare,Snow Merchant Hydra
-25,Creature,Common,Goblin
-26,Creature,Common,Paladin
-27,Enchantment,Mythic,Extreme Drain
-28,Spell,Common,Revive
-29,Creature,Common,Elf
-30,Creature,Common,Wolf
-31,Enchantment,Common,Blight
-32,Spell,Legendary,Dire Fury
-33,Enchantment,Common,Shade
-34,Spell,Common,Infuriate
-35,Enchantment,Common,Drain
-36,Enchantment,Mythic,Extreme Deathgrip
-37,Creature,Common,Ghoul
-38,Creature,Legendary,Aura Merchant Kraken of the Mountains
-39,Enchantment,Rare,Hateful Drain
-40,Spell,Rare,Miracle Fury
-41,Enchantment,Rare,Apocalypse Haste
-42,Enchantment,Common,Deathgrip
-43,Creature,Common,Goblin
-44,Creature,Rare,Earth Priest Minotaur
+==================,DECK,5899
+0,Creature,Spider
+1,Enchantment,Agony
+2,Spell,Reanimate
+3,Spell,Stun
+4,Enchantment,Shade
+5,Enchantment,Blight
+6,Creature,Aura Queen Goblin
+7,Spell,Frost
+8,Creature,Fairy
+9,Creature,Ghoul
+10,Enchantment,Clever Sorrow Shield
+11,Creature,Ghoul
+12,Creature,Spider
+13,Creature,Spider
+14,Spell,Freeze
+15,Enchantment,Clever Apocalypse Haste
+16,Creature,Berserker
+17,Enchantment,Firebreath
+18,Creature,Dark Warrior Hydra
+19,Creature,Warlock
+20,Creature,Wolf
+21,Spell,Invisibility
+22,Artifact,Pendant
+23,Creature,Death Lord Goblin
+24,Creature,Snow Merchant Hydra
+25,Creature,Skin-Walker
+26,Creature,Troll
+27,Enchantment,Zealous Dark Alacrity
+28,Spell,Pandemonium
+29,Creature,Warlock
+30,Creature,Wolf
+31,Enchantment,Haste
+32,Spell,Zealous Oblivion Frenzy
+33,Enchantment,Firebreath
+34,Spell,Fire
+35,Enchantment,Alacrity
+36,Enchantment,Mighty Sorrow Flight
+37,Creature,Ghoul
+38,Creature,Aura Merchant Ogre of the Mountains
+39,Enchantment,Dark Shrink
+40,Spell,Nimble Rage
+41,Enchantment,Life Invert
+42,Enchantment,Age
+43,Creature,Skin-Walker
+44,Creature,Earth Priest Cyclops

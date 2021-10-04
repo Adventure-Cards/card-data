@@ -1,46 +1,46 @@
-==================,DECK,4332,Light
-0,Creature,Common,Goblin
-1,Enchantment,Common,Alacrity
-2,Spell,Common,Maelstrom
-3,Creature,Common,Wolf
-4,Creature,Common,Wolf
-5,Creature,Rare,Light Thief Fairy
-6,Spell,Common,Pandemonium
-7,Spell,Common,Infuriate
-8,Creature,Rare,Earth Assassin Skin-Walker
-9,Artifact,Rare,Nature Divine Robe
-10,Creature,Rare,Earth Warrior Fairy
-11,Creature,Rare,Earth Knight Hydra
-12,Enchantment,Common,Invert
-13,Creature,Rare,Dark Thief Hydra
-14,Creature,Common,Wolf
-15,Artifact,Common,Pendant
-16,Creature,Rare,Death Fighter Skin-Walker
-17,Creature,Common,Wolf
-18,Creature,Common,Elf
-19,Spell,Common,Gravitation
-20,Spell,Legendary,Dire Torment
-21,Creature,Common,Wolf
-22,Creature,Rare,Snow Queen Skin-Walker
-23,Spell,Rare,Corpse Frost
-24,Enchantment,Rare,Necro Age
-25,Creature,Common,Paladin
-26,Enchantment,Rare,Forged Shade
-27,Artifact,Common,Staff
-28,Artifact,Rare,Cataclysmic Belt
-29,Creature,Common,Goblin
-30,Enchantment,Common,Shrink
-31,Creature,Common,Elf
-32,Creature,Rare,Snow Thief Berserker
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Spider
-35,Creature,Rare,Frozen Assassin Fairy
-36,Creature,Rare,Light Assassin Hydra
-37,Enchantment,Legendary,Instant Flight
-38,Creature,Common,Magi
-39,Creature,Mythic,Aura Undead Phoenix of the Light
-40,Creature,Common,Magi
-41,Spell,Common,Wall
-42,Creature,Common,Wolf
-43,Creature,Common,Goblin
-44,Creature,Common,Magi
+==================,DECK,4332
+0,Creature,Skin-Walker
+1,Enchantment,Drain
+2,Spell,Stricken
+3,Creature,Wolf
+4,Creature,Wolf
+5,Creature,Light Thief Kraken
+6,Spell,Fireball
+7,Spell,Reanimate
+8,Creature,Earth Assassin Orc
+9,Artifact,Necro Divine Robe
+10,Creature,Earth Warrior Kraken
+11,Creature,Earth Knight Hydra
+12,Enchantment,Deathgrip
+13,Creature,Dark Thief Hydra
+14,Creature,Wolf
+15,Artifact,Pendant
+16,Creature,Death Fighter Orc
+17,Creature,Wolf
+18,Creature,Warlock
+19,Spell,Freeze
+20,Spell,Irate Frigid Stricken
+21,Creature,Wolf
+22,Creature,Snow Queen Orc
+23,Spell,Shimmering Vortex
+24,Enchantment,Nature Age
+25,Creature,Troll
+26,Enchantment,Chimeric Shield
+27,Artifact,Staff
+28,Artifact,Gloom Belt
+29,Creature,Skin-Walker
+30,Enchantment,Flight
+31,Creature,Warlock
+32,Creature,Snow Thief Goblin
+33,Artifact,Divine Robe
+34,Creature,Paladin
+35,Creature,Frozen Assassin Kraken
+36,Creature,Light Assassin Hydra
+37,Enchantment,Clever Hateful Lethargy
+38,Creature,Fairy
+39,Creature,Aura Undead Phoenix of the Light
+40,Creature,Fairy
+41,Spell,Fireball
+42,Creature,Wolf
+43,Creature,Skin-Walker
+44,Creature,Fairy

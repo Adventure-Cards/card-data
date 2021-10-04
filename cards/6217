@@ -1,46 +1,46 @@
-==================,DECK,6217,Strong
-0,Creature,Common,Eagle
-1,Creature,Legendary,Frozen Merchant Orge of the Haven
-2,Spell,Common,Infuriate
-3,Enchantment,Legendary,Instant Age
-4,Creature,Rare,Light Queen Hydra
-5,Creature,Common,Magi
-6,Creature,Common,Elf
-7,Creature,Common,Magi
-8,Creature,Common,Elf
-9,Creature,Common,Dwarf
-10,Artifact,Common,Bow
-11,Enchantment,Rare,Gloom Lethargy
-12,Spell,Rare,Oblivion Assault
-13,Spell,Common,Burn
-14,Enchantment,Mythic,Extreme Shrink
-15,Creature,Mythic,Death Chaos Wizard of the Dead
-16,Creature,Legendary,Frozen Grand Demon of the Void
-17,Spell,Common,Rage
-18,Spell,Common,Wall
-19,Creature,Mythic,Aura Ancient Wizard of the Light
-20,Spell,Mythic,Instant Stricken
-21,Creature,Common,Paladin
-22,Artifact,Rare,Grim Amulet
-23,Creature,Common,Paladin
-24,Creature,Rare,Death Rogue Berserker
-25,Creature,Common,Wolf
-26,Creature,Common,Warlock
-27,Enchantment,Common,Flight
-28,Creature,Legendary,Earth Time Dragon of the Shadows
-29,Creature,Common,Wolf
-30,Creature,Common,Paladin
-31,Creature,Common,Ghoul
-32,Creature,Common,Spider
-33,Creature,Rare,Aura Fighter Minotaur
-34,Creature,Mythic,Light Time Phoenix of the Sky
-35,Creature,Rare,Earth Assassin Minotaur
-36,Creature,Legendary,Earth Knight Orge of the Black Stone
-37,Enchantment,Legendary,Urgent Invert
-38,Spell,Legendary,Urgent Hypnosis
-39,Creature,Common,Ghoul
-40,Artifact,Mythic,Angry Bracers
-41,Spell,Common,Stun
-42,Spell,Mythic,Clever Revive
-43,Enchantment,Legendary,Potent Shield
-44,Spell,Common,Vortex
+==================,DECK,6217
+0,Creature,Eagle
+1,Creature,Frozen Merchant Elf of the Haven
+2,Spell,Wall
+3,Enchantment,Potent Nature Strength
+4,Creature,Light Queen Hydra
+5,Creature,Fairy
+6,Creature,Warlock
+7,Creature,Fairy
+8,Creature,Warlock
+9,Creature,Magi
+10,Artifact,Bow
+11,Enchantment,Lunar Flight
+12,Spell,Nimble Stun
+13,Spell,Wall
+14,Enchantment,Potent Chimeric Shrink
+15,Creature,Death Chaos Wizard of the Dead
+16,Creature,Frozen Grand Demon of the Void
+17,Spell,Fireball
+18,Spell,Gale
+19,Creature,Aura Ancient Wizard of the Light
+20,Spell,Mighty Forged Frost
+21,Creature,Troll
+22,Artifact,Apocalypse Amulet
+23,Creature,Troll
+24,Creature,Death Rogue Goblin
+25,Creature,Wolf
+26,Creature,Berserker
+27,Enchantment,Shield
+28,Creature,Earth Time Dragon of the Shadows
+29,Creature,Wolf
+30,Creature,Troll
+31,Creature,Ghoul
+32,Creature,Paladin
+33,Creature,Aura Fighter Cyclops
+34,Creature,Light Time Phoenix of the Sky
+35,Creature,Earth Assassin Cyclops
+36,Creature,Earth Knight Elf of the Black Stone
+37,Enchantment,Instant Shimmering Strength
+38,Spell,Potent Shimmering Wall
+39,Creature,Ghoul
+40,Artifact,Irate Dark Bracers
+41,Spell,Hypnosis
+42,Spell,Dire Frigid Gravitation
+43,Enchantment,Instant Victory Drain
+44,Spell,Torment

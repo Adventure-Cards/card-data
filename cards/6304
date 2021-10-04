@@ -1,46 +1,46 @@
-==================,DECK,6304,Strong
-0,Creature,Common,Goblin
-1,Creature,Legendary,Earth Undead Phoenix of the Shadows
-2,Artifact,Common,Crown
-3,Spell,Common,Fury
-4,Creature,Common,Dwarf
-5,Creature,Common,Warlock
-6,Enchantment,Common,Shrink
-7,Creature,Common,Dwarf
-8,Enchantment,Legendary,Urgent Drain
-9,Spell,Rare,Life Stun
-10,Creature,Rare,Aura Lord Hydra
-11,Artifact,Mythic,Potent Potion
-12,Enchantment,Common,Age
-13,Creature,Rare,Death Queen Hydra
-14,Creature,Rare,Earth King Fairy
-15,Creature,Legendary,Earth Nameless Dragon of the Shadows
-16,Enchantment,Common,Drain
-17,Enchantment,Rare,Hateful Shrink
-18,Enchantment,Mythic,Clever Alacrity
-19,Enchantment,Legendary,Angry Alacrity
-20,Creature,Mythic,Frozen Time Phoenix of the Void
-21,Artifact,Rare,Lunar Helm
-22,Artifact,Mythic,Dire Scythe
-23,Enchantment,Legendary,Dire Alacrity
-24,Enchantment,Common,Age
-25,Creature,Common,Warlock
-26,Creature,Rare,Aura Undead Skin-Walker
-27,Enchantment,Common,Drain
-28,Spell,Common,Stricken
-29,Creature,Mythic,Death Time Dragon of the Dead
-30,Enchantment,Mythic,Intense Flight
-31,Enchantment,Rare,Apocalypse Blight
-32,Creature,Common,Goblin
-33,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-34,Enchantment,Rare,Cataclysmic Shrink
-35,Spell,Common,Burst
-36,Creature,Common,Goblin
-37,Enchantment,Mythic,Urgent Flight
-38,Creature,Mythic,Frozen Grand Demon of the Void
-39,Enchantment,Mythic,Extreme Shield
-40,Creature,Common,Ghoul
-41,Creature,Rare,Death Rogue Fairy
-42,Enchantment,Common,Invert
-43,Creature,Common,Dwarf
-44,Spell,Rare,Nature Gale
+==================,DECK,6304
+0,Creature,Skin-Walker
+1,Creature,Earth Undead Phoenix of the Shadows
+2,Artifact,Crown
+3,Spell,Vortex
+4,Creature,Magi
+5,Creature,Berserker
+6,Enchantment,Drain
+7,Creature,Magi
+8,Enchantment,Clever Forged Lethargy
+9,Spell,Apocalypse Revive
+10,Creature,Aura Lord Hydra
+11,Artifact,Clever Nimble Potion
+12,Enchantment,Age
+13,Creature,Death Queen Hydra
+14,Creature,Earth King Kraken
+15,Creature,Earth Nameless Dragon of the Shadows
+16,Enchantment,Age
+17,Enchantment,Chimeric Firebreath
+18,Enchantment,Urgent Apocalypse Invert
+19,Enchantment,Dire Dark Firebreath
+20,Creature,Frozen Time Phoenix of the Void
+21,Artifact,Gloom Helm
+22,Artifact,Empyrean Apocalypse Scythe
+23,Enchantment,Dire Apocalypse Shade
+24,Enchantment,Shade
+25,Creature,Berserker
+26,Creature,Aura Undead Orc
+27,Enchantment,Shrink
+28,Spell,Burst
+29,Creature,Death Time Dragon of the Dead
+30,Enchantment,Zealous Hateful Deathgrip
+31,Enchantment,Nimble Invert
+32,Creature,Skin-Walker
+33,Creature,Earth Nameless Phoenix of the Shadows
+34,Enchantment,Chimeric Flight
+35,Spell,Tempest
+36,Creature,Skin-Walker
+37,Enchantment,Clever Hateful Lethargy
+38,Creature,Frozen Grand Demon of the Void
+39,Enchantment,Ardent Gloom Shield
+40,Creature,Ghoul
+41,Creature,Death Rogue Kraken
+42,Enchantment,Flight
+43,Creature,Magi
+44,Spell,Necro Assault

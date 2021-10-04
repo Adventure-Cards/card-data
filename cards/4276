@@ -1,46 +1,46 @@
-==================,DECK,4276,Light
-0,Spell,Common,Ice
-1,Artifact,Common,Ghost Wand
-2,Spell,Common,Torment
-3,Creature,Common,Spider
-4,Artifact,Common,Gauntlet
-5,Enchantment,Common,Shield
-6,Enchantment,Common,Shield
-7,Spell,Rare,Lunar Stricken
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Drain
-10,Spell,Rare,Gloom Heal
-11,Enchantment,Common,Drain
-12,Enchantment,Common,Strength
-13,Spell,Common,Assault
-14,Creature,Mythic,Light Nameless Phoenix of the Sky
-15,Creature,Common,Warlock
-16,Artifact,Common,Tome
-17,Creature,Common,Spider
-18,Enchantment,Common,Age
-19,Creature,Common,Magi
-20,Enchantment,Common,Invert
-21,Creature,Rare,Death Knight Berserker
-22,Artifact,Common,Sigil
-23,Creature,Common,Wolf
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Shrink
-26,Creature,Common,Warlock
-27,Spell,Common,Hypnosis
-28,Creature,Common,Elf
-29,Enchantment,Common,Lethargy
-30,Spell,Rare,Gloom Freeze
-31,Spell,Legendary,Intense Burn
-32,Creature,Common,Dwarf
-33,Creature,Common,Warlock
-34,Artifact,Common,Gauntlet
-35,Spell,Common,Ice
-36,Enchantment,Common,Agony
-37,Creature,Rare,Death Fighter Berserker
-38,Spell,Common,Gravitation
-39,Creature,Common,Warlock
-40,Artifact,Rare,Forged Potion
-41,Spell,Common,Torment
-42,Enchantment,Common,Alacrity
-43,Creature,Rare,Snow Rogue Fairy
-44,Enchantment,Common,Age
+==================,DECK,4276
+0,Spell,Wall
+1,Artifact,Ghost Wand
+2,Spell,Fire
+3,Creature,Paladin
+4,Artifact,Gauntlet
+5,Enchantment,Shade
+6,Enchantment,Deathgrip
+7,Spell,Dark Fireball
+8,Creature,Magi
+9,Enchantment,Haste
+10,Spell,Miracle Wall
+11,Enchantment,Firebreath
+12,Enchantment,Shield
+13,Spell,Fire
+14,Creature,Light Nameless Phoenix of the Sky
+15,Creature,Berserker
+16,Artifact,Tome
+17,Creature,Paladin
+18,Enchantment,Drain
+19,Creature,Fairy
+20,Enchantment,Lethargy
+21,Creature,Death Knight Goblin
+22,Artifact,Sigil
+23,Creature,Wolf
+24,Creature,Magi
+25,Enchantment,Blight
+26,Creature,Berserker
+27,Spell,Hypnosis
+28,Creature,Warlock
+29,Enchantment,Deathgrip
+30,Spell,Dark Freeze
+31,Spell,Mighty Corpse Freeze
+32,Creature,Magi
+33,Creature,Berserker
+34,Artifact,Gauntlet
+35,Spell,Gravitation
+36,Enchantment,Strength
+37,Creature,Death Fighter Goblin
+38,Spell,Revive
+39,Creature,Berserker
+40,Artifact,Sorrow Potion
+41,Spell,Vortex
+42,Enchantment,Shade
+43,Creature,Snow Rogue Kraken
+44,Enchantment,Invert

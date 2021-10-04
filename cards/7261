@@ -1,46 +1,46 @@
-==================,DECK,7261,Medium
-0,Creature,Common,Warlock
-1,Enchantment,Rare,Dark Alacrity
-2,Creature,Rare,Earth Priest Minotaur
-3,Creature,Common,Goblin
-4,Creature,Common,Eagle
-5,Creature,Legendary,Death Assassin Giant of the Mountains
-6,Creature,Common,Goblin
-7,Creature,Rare,Death Lord Fairy
-8,Enchantment,Common,Invert
-9,Creature,Mythic,Light Ancient Demon of the Sky
-10,Creature,Rare,Earth Warrior Hydra
-11,Enchantment,Common,Shrink
-12,Creature,Legendary,Death Merchant Orge of the Bright Mountains
-13,Creature,Common,Warlock
-14,Enchantment,Common,Age
-15,Enchantment,Mythic,Extreme Blight
-16,Artifact,Rare,Miracle Greaves
-17,Creature,Mythic,Death Ancient Wizard of the Dead
-18,Spell,Common,Fury
-19,Creature,Common,Eagle
-20,Enchantment,Mythic,Potent Flight
-21,Spell,Rare,Oblivion Assault
-22,Enchantment,Rare,Forged Agony
-23,Creature,Rare,Aura King Hydra
-24,Creature,Common,Spider
-25,Creature,Rare,Dark Monk Minotaur
-26,Spell,Common,Wall
-27,Creature,Rare,Frozen Undead Minotaur
-28,Creature,Common,Warlock
-29,Creature,Mythic,Frozen Chaos Wizard of the Void
-30,Enchantment,Common,Flight
-31,Artifact,Common,Ring
-32,Enchantment,Rare,Grim Lethargy
-33,Creature,Rare,Frozen Rogue Skin-Walker
-34,Spell,Common,Ice
-35,Creature,Common,Eagle
-36,Creature,Rare,Light Thief Hydra
-37,Spell,Common,Stricken
-38,Enchantment,Rare,Frigid Shield
-39,Spell,Mythic,Angry Hypnosis
-40,Spell,Rare,Necro Fury
-41,Creature,Rare,Earth Assassin Fairy
-42,Spell,Legendary,Mighty Lightning
-43,Spell,Rare,Corpse Heal
-44,Creature,Common,Orc
+==================,DECK,7261
+0,Creature,Berserker
+1,Enchantment,Dark Alacrity
+2,Creature,Earth Priest Cyclops
+3,Creature,Skin-Walker
+4,Creature,Eagle
+5,Creature,Death Assassin Dwarf of the Mountains
+6,Creature,Skin-Walker
+7,Creature,Death Lord Kraken
+8,Enchantment,Deathgrip
+9,Creature,Light Ancient Demon of the Sky
+10,Creature,Earth Warrior Hydra
+11,Enchantment,Alacrity
+12,Creature,Death Merchant Elf of the Bright Mountains
+13,Creature,Berserker
+14,Enchantment,Shield
+15,Enchantment,Zealous Cataclysmic Alacrity
+16,Artifact,Nimble Greaves
+17,Creature,Death Ancient Wizard of the Dead
+18,Spell,Torment
+19,Creature,Eagle
+20,Enchantment,Zealous Grim Blight
+21,Spell,Life Ice
+22,Enchantment,Miracle Shrink
+23,Creature,Aura King Hydra
+24,Creature,Paladin
+25,Creature,Dark Monk Cyclops
+26,Spell,Tempest
+27,Creature,Frozen Undead Cyclops
+28,Creature,Berserker
+29,Creature,Frozen Chaos Wizard of the Void
+30,Enchantment,Age
+31,Artifact,Ring
+32,Enchantment,Grim Blight
+33,Creature,Frozen Rogue Orc
+34,Spell,Wall
+35,Creature,Eagle
+36,Creature,Light Thief Hydra
+37,Spell,Tempest
+38,Enchantment,Victory Shade
+39,Spell,Clever Gloom Fire
+40,Spell,Nature Tempest
+41,Creature,Earth Assassin Kraken
+42,Spell,Irate Gloom Fire
+43,Spell,Forged Gale
+44,Creature,Spider

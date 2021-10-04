@@ -1,46 +1,46 @@
-==================,DECK,7822,Light
-0,Spell,Common,Burst
-1,Artifact,Rare,Life Bow
-2,Creature,Rare,Death Thief Griffin
-3,Enchantment,Common,Lethargy
-4,Creature,Common,Goblin
-5,Spell,Common,Frenzy
-6,Artifact,Common,Helm
-7,Artifact,Legendary,Angry Scythe
-8,Spell,Common,Torment
-9,Enchantment,Common,Flight
-10,Creature,Common,Wolf
-11,Enchantment,Legendary,Intense Shrink
-12,Enchantment,Common,Lethargy
-13,Enchantment,Common,Strength
-14,Spell,Common,Fury
-15,Spell,Common,Frost
-16,Enchantment,Common,Agony
-17,Enchantment,Common,Shield
-18,Spell,Common,Frost
-19,Creature,Common,Orc
-20,Spell,Common,Burst
-21,Enchantment,Rare,Nimble Agony
-22,Creature,Common,Magi
-23,Artifact,Rare,Nature Ring
-24,Spell,Rare,Gloom Invisibility
-25,Creature,Common,Warlock
-26,Spell,Common,Heal
-27,Spell,Rare,Cataclysmic Ice
-28,Creature,Common,Spider
-29,Enchantment,Rare,Apocalypse Age
-30,Artifact,Common,Scepter
-31,Spell,Common,Rage
-32,Spell,Common,Pandemonium
-33,Artifact,Rare,Hateful Ghost Wand
-34,Creature,Common,Dwarf
-35,Creature,Rare,Dark Priest Minotaur
-36,Creature,Common,Dwarf
-37,Creature,Common,Orc
-38,Spell,Common,Gale
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Warlock
-41,Creature,Common,Dwarf
-42,Creature,Common,Elf
-43,Enchantment,Common,Lethargy
-44,Spell,Legendary,Instant Hypnosis
+==================,DECK,7822
+0,Spell,Maelstrom
+1,Artifact,Life Bow
+2,Creature,Death Thief Griffin
+3,Enchantment,Firebreath
+4,Creature,Skin-Walker
+5,Spell,Freeze
+6,Artifact,Helm
+7,Artifact,Empyrean Miracle Scythe
+8,Spell,Sorrow
+9,Enchantment,Firebreath
+10,Creature,Wolf
+11,Enchantment,Empyrean Necro Age
+12,Enchantment,Alacrity
+13,Enchantment,Flight
+14,Spell,Frost
+15,Spell,Stun
+16,Enchantment,Shade
+17,Enchantment,Shrink
+18,Spell,Infuriate
+19,Creature,Spider
+20,Spell,Infuriate
+21,Enchantment,Corpse Deathgrip
+22,Creature,Fairy
+23,Artifact,Corpse Ring
+24,Spell,Sorrow Heal
+25,Creature,Berserker
+26,Spell,Vortex
+27,Spell,Dark Gravitation
+28,Creature,Paladin
+29,Enchantment,Victory Drain
+30,Artifact,Scepter
+31,Spell,Fury
+32,Spell,Fury
+33,Artifact,Dark Ghost Wand
+34,Creature,Magi
+35,Creature,Dark Priest Cyclops
+36,Creature,Magi
+37,Creature,Spider
+38,Spell,Fire
+39,Enchantment,Flight
+40,Creature,Berserker
+41,Creature,Magi
+42,Creature,Warlock
+43,Enchantment,Age
+44,Spell,Zealous Hateful Gravitation

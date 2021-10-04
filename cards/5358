@@ -1,46 +1,46 @@
-==================,DECK,5358,Light
-0,Artifact,Common,Helm
-1,Creature,Legendary,Frozen Lord Oni of the Low Hills
-2,Creature,Common,Elf
-3,Creature,Common,Eagle
-4,Enchantment,Mythic,Dire Lethargy
-5,Creature,Common,Goblin
-6,Spell,Common,Gravitation
-7,Creature,Legendary,Light Monk Cyclops of the Plains
-8,Enchantment,Common,Age
-9,Creature,Legendary,Dark Queen Kraken of the Frozen Castle
-10,Artifact,Rare,Grim Ring
-11,Spell,Common,Frenzy
-12,Creature,Common,Warlock
-13,Enchantment,Common,Age
-14,Enchantment,Rare,Oblivion Shield
-15,Creature,Common,Goblin
-16,Creature,Common,Ghoul
-17,Creature,Legendary,Light Rogue Cyclops of the Magical Forest
-18,Enchantment,Mythic,Urgent Shield
-19,Enchantment,Common,Shade
-20,Creature,Common,Elf
-21,Artifact,Rare,Gloom Cloak
-22,Creature,Common,Paladin
-23,Spell,Common,Burst
-24,Artifact,Common,Ghost Wand
-25,Enchantment,Common,Shade
-26,Creature,Common,Paladin
-27,Enchantment,Common,Drain
-28,Creature,Common,Dwarf
-29,Spell,Common,Stricken
-30,Artifact,Rare,Dark Cloak
-31,Enchantment,Common,Shield
-32,Creature,Common,Paladin
-33,Creature,Common,Magi
-34,Enchantment,Mythic,Angry Haste
-35,Creature,Common,Ghoul
-36,Spell,Rare,Nature Burst
-37,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-38,Spell,Legendary,Angry Hypnosis
-39,Creature,Common,Goblin
-40,Spell,Common,Sorrow
-41,Creature,Rare,Dark Assassin Hydra
-42,Creature,Rare,Snow Lord Hydra
-43,Enchantment,Common,Age
-44,Creature,Common,Wolf
+==================,DECK,5358
+0,Artifact,Helm
+1,Creature,Frozen Lord Oni of the Low Hills
+2,Creature,Warlock
+3,Creature,Eagle
+4,Enchantment,Instant Grim Drain
+5,Creature,Skin-Walker
+6,Spell,Sorrow
+7,Creature,Light Monk Giant of the Plains
+8,Enchantment,Drain
+9,Creature,Dark Queen Ogre of the Frozen Castle
+10,Artifact,Victory Ring
+11,Spell,Assault
+12,Creature,Berserker
+13,Enchantment,Agony
+14,Enchantment,Victory Shade
+15,Creature,Skin-Walker
+16,Creature,Ghoul
+17,Creature,Light Rogue Giant of the Magical Forest
+18,Enchantment,Instant Nature Strength
+19,Enchantment,Shield
+20,Creature,Warlock
+21,Artifact,Miracle Cloak
+22,Creature,Troll
+23,Spell,Frenzy
+24,Artifact,Ghost Wand
+25,Enchantment,Alacrity
+26,Creature,Troll
+27,Enchantment,Alacrity
+28,Creature,Magi
+29,Spell,Rage
+30,Artifact,Cataclysmic Cloak
+31,Enchantment,Age
+32,Creature,Troll
+33,Creature,Fairy
+34,Enchantment,Mighty Miracle Flight
+35,Creature,Ghoul
+36,Spell,Forged Ice
+37,Creature,Earth Nameless Phoenix of the Shadows
+38,Spell,Mighty Miracle Pandemonium
+39,Creature,Skin-Walker
+40,Spell,Sorrow
+41,Creature,Dark Assassin Hydra
+42,Creature,Snow Lord Hydra
+43,Enchantment,Strength
+44,Creature,Wolf

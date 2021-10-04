@@ -1,46 +1,46 @@
-==================,DECK,7718,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Lethargy
-2,Creature,Common,Paladin
-3,Spell,Rare,Lunar Reanimate
-4,Artifact,Rare,Lunar Helm
-5,Spell,Common,Vortex
-6,Creature,Common,Magi
-7,Creature,Rare,Aura Lord Berserker
-8,Creature,Common,Eagle
-9,Spell,Common,Pandemonium
-10,Creature,Legendary,Light Lord Kraken of the Frozen Castle
-11,Enchantment,Common,Lethargy
-12,Creature,Rare,Dark Queen Fairy
-13,Creature,Common,Magi
-14,Creature,Common,Ghoul
-15,Creature,Rare,Death Lord Hydra
-16,Creature,Rare,Snow Undead Skin-Walker
-17,Creature,Common,Dwarf
-18,Spell,Legendary,Instant Infuriate
-19,Enchantment,Common,Agony
-20,Enchantment,Common,Shade
-21,Creature,Common,Orc
-22,Spell,Common,Stun
-23,Spell,Common,Heal
-24,Spell,Rare,Frigid Gravitation
-25,Creature,Common,Dwarf
-26,Enchantment,Rare,Oblivion Strength
-27,Artifact,Common,Pendant
-28,Creature,Common,Spider
-29,Artifact,Common,Amulet
-30,Spell,Common,Ice
-31,Creature,Common,Wolf
-32,Creature,Rare,Snow Lord Berserker
-33,Artifact,Common,Sigil
-34,Enchantment,Common,Strength
-35,Enchantment,Common,Flight
-36,Creature,Rare,Earth Knight Berserker
-37,Creature,Common,Goblin
-38,Enchantment,Common,Shade
-39,Spell,Common,Wall
-40,Creature,Common,Elf
-41,Creature,Common,Wolf
-42,Creature,Common,Paladin
-43,Spell,Rare,Forged Freeze
-44,Creature,Legendary,Death Assassin Orge of the Low Hills
+==================,DECK,7718
+0,Creature,Magi
+1,Enchantment,Shrink
+2,Creature,Troll
+3,Spell,Dark Vortex
+4,Artifact,Miracle Helm
+5,Spell,Burn
+6,Creature,Fairy
+7,Creature,Aura Lord Goblin
+8,Creature,Eagle
+9,Spell,Tempest
+10,Creature,Light Lord Ogre of the Frozen Castle
+11,Enchantment,Shield
+12,Creature,Dark Queen Kraken
+13,Creature,Fairy
+14,Creature,Ghoul
+15,Creature,Death Lord Hydra
+16,Creature,Snow Undead Orc
+17,Creature,Magi
+18,Spell,Empyrean Hateful Burst
+19,Enchantment,Shade
+20,Enchantment,Agony
+21,Creature,Spider
+22,Spell,Fireball
+23,Spell,Heal
+24,Spell,Apocalypse Fireball
+25,Creature,Magi
+26,Enchantment,Nimble Shade
+27,Artifact,Pendant
+28,Creature,Paladin
+29,Artifact,Amulet
+30,Spell,Burn
+31,Creature,Wolf
+32,Creature,Snow Lord Goblin
+33,Artifact,Sigil
+34,Enchantment,Haste
+35,Enchantment,Age
+36,Creature,Earth Knight Goblin
+37,Creature,Skin-Walker
+38,Enchantment,Age
+39,Spell,Hypnosis
+40,Creature,Warlock
+41,Creature,Wolf
+42,Creature,Troll
+43,Spell,Dark Wall
+44,Creature,Death Assassin Elf of the Low Hills

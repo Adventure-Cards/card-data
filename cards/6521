@@ -1,46 +1,46 @@
-==================,DECK,6521,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Common,Strength
-2,Creature,Common,Ghoul
-3,Creature,Rare,Snow Monk Hydra
-4,Creature,Common,Spider
-5,Spell,Common,Infuriate
-6,Enchantment,Common,Age
-7,Creature,Rare,Frozen Rogue Hydra
-8,Creature,Common,Goblin
-9,Artifact,Common,Crown
-10,Artifact,Legendary,Dire Helmet
-11,Enchantment,Mythic,Clever Deathgrip
-12,Creature,Rare,Light Undead Skin-Walker
-13,Creature,Common,Ghoul
-14,Creature,Common,Paladin
-15,Spell,Common,Hypnosis
-16,Artifact,Common,Staff
-17,Artifact,Rare,Nimble Greaves
-18,Spell,Rare,Necro Reanimate
-19,Creature,Common,Eagle
-20,Creature,Common,Paladin
-21,Enchantment,Rare,Frigid Strength
-22,Creature,Common,Elf
-23,Creature,Rare,Snow Thief Fairy
-24,Creature,Common,Ghoul
-25,Creature,Common,Elf
-26,Enchantment,Legendary,Potent Lethargy
-27,Creature,Rare,Dark Lord Fairy
-28,Spell,Rare,Dark Frenzy
-29,Creature,Rare,Snow Warrior Minotaur
-30,Creature,Legendary,Dark Knight Kraken of the Bright Mountains
-31,Creature,Common,Elf
-32,Creature,Common,Magi
-33,Creature,Common,Elf
-34,Artifact,Rare,Solar Sigil
-35,Spell,Common,Fury
-36,Artifact,Rare,Apocalypse Divine Robe
-37,Creature,Mythic,Aura Nameless Dragon of the Light
-38,Spell,Rare,Nature Maelstrom
-39,Artifact,Common,Scythe
-40,Enchantment,Rare,Hateful Drain
-41,Creature,Mythic,Dark Nameless Phoenix of Illusion
-42,Creature,Common,Orc
-43,Spell,Rare,Solar Assault
-44,Enchantment,Common,Flight
+==================,DECK,6521
+0,Creature,Wolf
+1,Enchantment,Age
+2,Creature,Ghoul
+3,Creature,Snow Monk Hydra
+4,Creature,Paladin
+5,Spell,Pandemonium
+6,Enchantment,Haste
+7,Creature,Frozen Rogue Hydra
+8,Creature,Skin-Walker
+9,Artifact,Crown
+10,Artifact,Irate Apocalypse Helmet
+11,Enchantment,Potent Oblivion Drain
+12,Creature,Light Undead Orc
+13,Creature,Ghoul
+14,Creature,Troll
+15,Spell,Ice
+16,Artifact,Staff
+17,Artifact,Necro Greaves
+18,Spell,Necro Gravitation
+19,Creature,Eagle
+20,Creature,Troll
+21,Enchantment,Nimble Invert
+22,Creature,Warlock
+23,Creature,Snow Thief Kraken
+24,Creature,Ghoul
+25,Creature,Warlock
+26,Enchantment,Irate Grim Blight
+27,Creature,Dark Lord Kraken
+28,Spell,Miracle Lightning
+29,Creature,Snow Warrior Cyclops
+30,Creature,Dark Knight Ogre of the Bright Mountains
+31,Creature,Warlock
+32,Creature,Fairy
+33,Creature,Warlock
+34,Artifact,Shimmering Sigil
+35,Spell,Gale
+36,Artifact,Apocalypse Divine Robe
+37,Creature,Aura Nameless Dragon of the Light
+38,Spell,Nature Rage
+39,Artifact,Scythe
+40,Enchantment,Dark Firebreath
+41,Creature,Dark Nameless Phoenix of Illusion
+42,Creature,Spider
+43,Spell,Corpse Heal
+44,Enchantment,Firebreath

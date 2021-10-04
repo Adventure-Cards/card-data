@@ -1,46 +1,46 @@
-==================,DECK,6143,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Rage
-2,Creature,Rare,Death Assassin Minotaur
-3,Creature,Common,Elf
-4,Spell,Legendary,Clever Frost
-5,Spell,Rare,Lunar Burn
-6,Creature,Common,Paladin
-7,Enchantment,Common,Blight
-8,Creature,Common,Elf
-9,Creature,Common,Goblin
-10,Creature,Common,Ghoul
-11,Creature,Common,Ghoul
-12,Spell,Rare,Nimble Rage
-13,Creature,Common,Magi
-14,Spell,Common,Wall
-15,Creature,Common,Spider
-16,Creature,Common,Spider
-17,Creature,Rare,Snow Thief Berserker
-18,Creature,Rare,Earth Priest Skin-Walker
-19,Creature,Common,Wolf
-20,Artifact,Common,Gauntlet
-21,Creature,Common,Dwarf
-22,Spell,Legendary,Dire Heal
-23,Creature,Common,Magi
-24,Spell,Rare,Nimble Wall
-25,Artifact,Rare,Nature Gloves
-26,Creature,Rare,Dark Warrior Fairy
-27,Creature,Rare,Light King Griffin
-28,Creature,Common,Spider
-29,Creature,Rare,Dark Merchant Minotaur
-30,Creature,Legendary,Frozen Warrior Oni of the Golden Palace
-31,Enchantment,Legendary,Instant Lethargy
-32,Creature,Legendary,Light Knight Kraken of the Mountains
-33,Spell,Common,Sorrow
-34,Enchantment,Common,Age
-35,Enchantment,Common,Shade
-36,Spell,Common,Gale
-37,Spell,Legendary,Angry Ice
-38,Enchantment,Common,Invert
-39,Creature,Rare,Earth Thief Berserker
-40,Spell,Common,Vortex
-41,Spell,Rare,Corpse Frenzy
-42,Spell,Legendary,Angry Rage
-43,Creature,Common,Goblin
-44,Creature,Legendary,Death Undead Orge of the Mountains
+==================,DECK,6143
+0,Creature,Wolf
+1,Spell,Frenzy
+2,Creature,Death Assassin Cyclops
+3,Creature,Warlock
+4,Spell,Irate Grim Gravitation
+5,Spell,Sorrow Maelstrom
+6,Creature,Troll
+7,Enchantment,Lethargy
+8,Creature,Warlock
+9,Creature,Skin-Walker
+10,Creature,Ghoul
+11,Creature,Ghoul
+12,Spell,Shimmering Reanimate
+13,Creature,Fairy
+14,Spell,Burn
+15,Creature,Paladin
+16,Creature,Paladin
+17,Creature,Snow Thief Goblin
+18,Creature,Earth Priest Orc
+19,Creature,Wolf
+20,Artifact,Gauntlet
+21,Creature,Magi
+22,Spell,Dire Life Rage
+23,Creature,Fairy
+24,Spell,Necro Heal
+25,Artifact,Forged Gloves
+26,Creature,Dark Warrior Kraken
+27,Creature,Light King Griffin
+28,Creature,Paladin
+29,Creature,Dark Merchant Cyclops
+30,Creature,Frozen Warrior Oni of the Golden Palace
+31,Enchantment,Ardent Hateful Lethargy
+32,Creature,Light Knight Ogre of the Mountains
+33,Spell,Torment
+34,Enchantment,Age
+35,Enchantment,Invert
+36,Spell,Rage
+37,Spell,Empyrean Gloom Stun
+38,Enchantment,Deathgrip
+39,Creature,Earth Thief Goblin
+40,Spell,Heal
+41,Spell,Hateful Heal
+42,Spell,Irate Cataclysmic Frost
+43,Creature,Skin-Walker
+44,Creature,Death Undead Elf of the Mountains

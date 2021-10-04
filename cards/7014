@@ -1,46 +1,46 @@
-==================,DECK,7014,Medium
-0,Creature,Rare,Light King Hydra
-1,Artifact,Rare,Nature Scepter
-2,Creature,Mythic,Death Ancient Wizard of the Dead
-3,Creature,Legendary,Frozen Priest Cyclops of the Plains
-4,Creature,Legendary,Frozen Fighter Cyclops of the Mountains
-5,Creature,Common,Paladin
-6,Enchantment,Rare,Nature Drain
-7,Creature,Rare,Death Lord Fairy
-8,Creature,Common,Elf
-9,Enchantment,Rare,Nature Deathgrip
-10,Creature,Mythic,Earth Undead Phoenix of the Shadows
-11,Spell,Common,Frenzy
-12,Creature,Common,Orc
-13,Creature,Common,Eagle
-14,Creature,Rare,Aura Assassin Hydra
-15,Creature,Mythic,Dark Time Dragon of Illusion
-16,Creature,Common,Spider
-17,Creature,Common,Eagle
-18,Spell,Common,Infuriate
-19,Creature,Legendary,Aura Assassin Giant of the Swamp
-20,Creature,Common,Warlock
-21,Creature,Rare,Snow Priest Skin-Walker
-22,Enchantment,Mythic,Instant Blight
-23,Spell,Rare,Grim Invisibility
-24,Artifact,Rare,Dark Ring
-25,Creature,Common,Spider
-26,Spell,Common,Maelstrom
-27,Artifact,Rare,Life Shield
-28,Enchantment,Mythic,Mighty Blight
-29,Creature,Common,Spider
-30,Creature,Common,Ghoul
-31,Spell,Common,Revive
-32,Creature,Rare,Dark Priest Berserker
-33,Creature,Common,Paladin
-34,Artifact,Common,Bow
-35,Artifact,Common,Helmet
-36,Enchantment,Rare,Necro Haste
-37,Spell,Common,Freeze
-38,Artifact,Common,Sigil
-39,Creature,Common,Warlock
-40,Creature,Mythic,Dark Nameless Dragon of Illusion
-41,Enchantment,Mythic,Urgent Age
-42,Spell,Rare,Corpse Frost
-43,Creature,Common,Elf
-44,Spell,Legendary,Urgent Rage
+==================,DECK,7014
+0,Creature,Light King Hydra
+1,Artifact,Corpse Scepter
+2,Creature,Death Ancient Wizard of the Dead
+3,Creature,Frozen Priest Giant of the Plains
+4,Creature,Frozen Fighter Giant of the Mountains
+5,Creature,Troll
+6,Enchantment,Forged Deathgrip
+7,Creature,Death Lord Kraken
+8,Creature,Warlock
+9,Enchantment,Shimmering Deathgrip
+10,Creature,Earth Undead Phoenix of the Shadows
+11,Spell,Gale
+12,Creature,Spider
+13,Creature,Eagle
+14,Creature,Aura Assassin Hydra
+15,Creature,Dark Time Dragon of Illusion
+16,Creature,Paladin
+17,Creature,Eagle
+18,Spell,Lightning
+19,Creature,Aura Assassin Dwarf of the Swamp
+20,Creature,Berserker
+21,Creature,Snow Priest Orc
+22,Enchantment,Mighty Solar Agony
+23,Spell,Apocalypse Frenzy
+24,Artifact,Cataclysmic Ring
+25,Creature,Paladin
+26,Spell,Ice
+27,Artifact,Apocalypse Shield
+28,Enchantment,Zealous Cataclysmic Alacrity
+29,Creature,Paladin
+30,Creature,Ghoul
+31,Spell,Heal
+32,Creature,Dark Priest Goblin
+33,Creature,Troll
+34,Artifact,Bow
+35,Artifact,Helmet
+36,Enchantment,Corpse Age
+37,Spell,Vortex
+38,Artifact,Sigil
+39,Creature,Berserker
+40,Creature,Dark Nameless Dragon of Illusion
+41,Enchantment,Clever Nature Lethargy
+42,Spell,Solar Lightning
+43,Creature,Warlock
+44,Spell,Irate Solar Pandemonium

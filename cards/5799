@@ -1,46 +1,46 @@
-==================,DECK,5799,Medium
-0,Creature,Common,Eagle
-1,Artifact,Common,Helmet
-2,Creature,Rare,Snow King Hydra
-3,Enchantment,Common,Strength
-4,Enchantment,Common,Shade
-5,Enchantment,Legendary,Instant Invert
-6,Enchantment,Common,Invert
-7,Creature,Common,Goblin
-8,Enchantment,Common,Shrink
-9,Spell,Common,Assault
-10,Spell,Common,Gravitation
-11,Spell,Common,Heal
-12,Enchantment,Legendary,Instant Invert
-13,Creature,Common,Warlock
-14,Creature,Mythic,Dark Undead Dragon of Illusion
-15,Spell,Common,Fury
-16,Creature,Common,Elf
-17,Enchantment,Common,Lethargy
-18,Spell,Legendary,Intense Rage
-19,Spell,Common,Freeze
-20,Spell,Common,Gravitation
-21,Creature,Common,Elf
-22,Creature,Common,Goblin
-23,Creature,Common,Warlock
-24,Creature,Rare,Light Knight Berserker
-25,Artifact,Rare,Nimble Pendant
-26,Artifact,Common,Divine Robe
-27,Creature,Rare,Light Priest Griffin
-28,Spell,Legendary,Clever Frost
-29,Artifact,Rare,Corpse Boots
-30,Creature,Rare,Light Rogue Hydra
-31,Enchantment,Common,Alacrity
-32,Creature,Common,Paladin
-33,Creature,Common,Elf
-34,Creature,Common,Magi
-35,Artifact,Rare,Nature Divine Robe
-36,Artifact,Rare,Necro Helm
-37,Creature,Common,Wolf
-38,Creature,Common,Wolf
-39,Enchantment,Common,Lethargy
-40,Creature,Common,Warlock
-41,Spell,Common,Stun
-42,Creature,Common,Wolf
-43,Creature,Rare,Snow Fighter Minotaur
-44,Creature,Common,Wolf
+==================,DECK,5799
+0,Creature,Eagle
+1,Artifact,Helmet
+2,Creature,Snow King Hydra
+3,Enchantment,Shield
+4,Enchantment,Shade
+5,Enchantment,Urgent Shimmering Agony
+6,Enchantment,Firebreath
+7,Creature,Skin-Walker
+8,Enchantment,Drain
+9,Spell,Fire
+10,Spell,Burn
+11,Spell,Burn
+12,Enchantment,Ardent Shimmering Lethargy
+13,Creature,Berserker
+14,Creature,Dark Undead Dragon of Illusion
+15,Spell,Revive
+16,Creature,Warlock
+17,Enchantment,Deathgrip
+18,Spell,Irate Solar Sorrow
+19,Spell,Revive
+20,Spell,Sorrow
+21,Creature,Warlock
+22,Creature,Skin-Walker
+23,Creature,Berserker
+24,Creature,Light Knight Goblin
+25,Artifact,Corpse Pendant
+26,Artifact,Divine Robe
+27,Creature,Light Priest Griffin
+28,Spell,Dire Life Infuriate
+29,Artifact,Solar Boots
+30,Creature,Light Rogue Hydra
+31,Enchantment,Strength
+32,Creature,Troll
+33,Creature,Warlock
+34,Creature,Fairy
+35,Artifact,Corpse Divine Robe
+36,Artifact,Nature Helm
+37,Creature,Wolf
+38,Creature,Wolf
+39,Enchantment,Flight
+40,Creature,Berserker
+41,Spell,Infuriate
+42,Creature,Wolf
+43,Creature,Snow Fighter Cyclops
+44,Creature,Wolf

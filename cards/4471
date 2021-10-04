@@ -1,46 +1,46 @@
-==================,DECK,4471,Medium
-0,Spell,Common,Gale
-1,Artifact,Common,Greaves
-2,Spell,Legendary,Angry Assault
-3,Enchantment,Rare,Frigid Shield
-4,Artifact,Common,Scepter
-5,Spell,Common,Maelstrom
-6,Spell,Legendary,Extreme Lightning
-7,Spell,Rare,Nimble Freeze
-8,Artifact,Common,Scepter
-9,Creature,Common,Spider
-10,Enchantment,Legendary,Dire Shield
-11,Enchantment,Common,Agony
-12,Creature,Rare,Light Fighter Berserker
-13,Spell,Rare,Hateful Hypnosis
-14,Enchantment,Common,Agony
-15,Spell,Common,Hypnosis
-16,Creature,Common,Ghoul
-17,Spell,Legendary,Potent Torment
-18,Enchantment,Common,Shade
-19,Creature,Common,Warlock
-20,Enchantment,Common,Blight
-21,Creature,Rare,Earth Assassin Hydra
-22,Creature,Legendary,Aura Warrior Giant of the Golden Palace
-23,Creature,Rare,Aura Queen Hydra
-24,Enchantment,Rare,Grim Strength
-25,Creature,Common,Warlock
-26,Creature,Rare,Snow Warrior Minotaur
-27,Artifact,Common,Divine Robe
-28,Spell,Common,Invisibility
-29,Creature,Legendary,Aura Queen Cyclops of the Low Hills
-30,Creature,Common,Wolf
-31,Spell,Common,Burst
-32,Spell,Common,Torment
-33,Artifact,Common,Ring
-34,Spell,Legendary,Urgent Frost
-35,Creature,Common,Spider
-36,Creature,Mythic,Death Undead Phoenix of the Dead
-37,Creature,Common,Eagle
-38,Enchantment,Rare,Necro Shrink
-39,Creature,Common,Goblin
-40,Creature,Legendary,Dark Knight Oni of the Border
-41,Enchantment,Common,Shield
-42,Spell,Common,Sorrow
-43,Creature,Legendary,Earth Merchant Orge of the Border
-44,Creature,Common,Paladin
+==================,DECK,4471
+0,Spell,Revive
+1,Artifact,Greaves
+2,Spell,Dire Chimeric Ice
+3,Enchantment,Victory Invert
+4,Artifact,Scepter
+5,Spell,Vortex
+6,Spell,Urgent Sorrow Wall
+7,Spell,Hateful Frost
+8,Artifact,Scepter
+9,Creature,Paladin
+10,Enchantment,Dire Victory Shade
+11,Enchantment,Drain
+12,Creature,Light Fighter Goblin
+13,Spell,Miracle Lightning
+14,Enchantment,Haste
+15,Spell,Torment
+16,Creature,Ghoul
+17,Spell,Instant Nimble Sorrow
+18,Enchantment,Flight
+19,Creature,Berserker
+20,Enchantment,Agony
+21,Creature,Earth Assassin Hydra
+22,Creature,Aura Warrior Dwarf of the Golden Palace
+23,Creature,Aura Queen Hydra
+24,Enchantment,Nimble Shade
+25,Creature,Berserker
+26,Creature,Snow Warrior Cyclops
+27,Artifact,Divine Robe
+28,Spell,Hypnosis
+29,Creature,Aura Queen Giant of the Low Hills
+30,Creature,Wolf
+31,Spell,Burst
+32,Spell,Burst
+33,Artifact,Ring
+34,Spell,Ardent Solar Gravitation
+35,Creature,Paladin
+36,Creature,Death Undead Phoenix of the Dead
+37,Creature,Eagle
+38,Enchantment,Necro Strength
+39,Creature,Skin-Walker
+40,Creature,Dark Knight Oni of the Border
+41,Enchantment,Strength
+42,Spell,Sorrow
+43,Creature,Earth Merchant Elf of the Border
+44,Creature,Troll

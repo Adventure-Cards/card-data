@@ -1,46 +1,46 @@
-==================,DECK,6196,Light
-0,Creature,Common,Eagle
-1,Enchantment,Rare,Hateful Flight
-2,Creature,Rare,Death Queen Skin-Walker
-3,Creature,Rare,Death Fighter Skin-Walker
-4,Creature,Common,Dwarf
-5,Creature,Common,Goblin
-6,Creature,Rare,Aura Rogue Berserker
-7,Spell,Common,Stun
-8,Spell,Common,Gravitation
-9,Creature,Common,Paladin
-10,Creature,Common,Spider
-11,Spell,Rare,Forged Rage
-12,Creature,Common,Warlock
-13,Creature,Common,Magi
-14,Creature,Rare,Snow Thief Skin-Walker
-15,Spell,Rare,Lunar Stricken
-16,Creature,Common,Elf
-17,Enchantment,Common,Blight
-18,Spell,Common,Rage
-19,Artifact,Common,Helm
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Haste
-22,Enchantment,Rare,Necro Flight
-23,Creature,Common,Warlock
-24,Creature,Common,Magi
-25,Spell,Common,Gale
-26,Enchantment,Common,Alacrity
-27,Creature,Common,Goblin
-28,Enchantment,Rare,Dark Shield
-29,Spell,Rare,Hateful Stricken
-30,Creature,Legendary,Earth Monk Giant of the Eternal Land
-31,Creature,Common,Orc
-32,Creature,Common,Warlock
-33,Creature,Common,Orc
-34,Creature,Common,Orc
-35,Creature,Common,Magi
-36,Spell,Legendary,Mighty Freeze
-37,Creature,Common,Wolf
-38,Spell,Common,Stricken
-39,Creature,Common,Warlock
-40,Spell,Rare,Frigid Wall
-41,Spell,Rare,Lunar Stun
-42,Spell,Rare,Cataclysmic Ice
-43,Spell,Common,Pandemonium
-44,Artifact,Common,Boots
+==================,DECK,6196
+0,Creature,Eagle
+1,Enchantment,Lunar Firebreath
+2,Creature,Death Queen Orc
+3,Creature,Death Fighter Orc
+4,Creature,Magi
+5,Creature,Skin-Walker
+6,Creature,Aura Rogue Goblin
+7,Spell,Fire
+8,Spell,Heal
+9,Creature,Troll
+10,Creature,Paladin
+11,Spell,Lunar Wall
+12,Creature,Berserker
+13,Creature,Fairy
+14,Creature,Snow Thief Orc
+15,Spell,Gloom Heal
+16,Creature,Warlock
+17,Enchantment,Age
+18,Spell,Heal
+19,Artifact,Helm
+20,Enchantment,Strength
+21,Enchantment,Alacrity
+22,Enchantment,Hateful Strength
+23,Creature,Berserker
+24,Creature,Fairy
+25,Spell,Sorrow
+26,Enchantment,Shield
+27,Creature,Skin-Walker
+28,Enchantment,Gloom Shrink
+29,Spell,Sorrow Lightning
+30,Creature,Earth Monk Dwarf of the Eternal Land
+31,Creature,Spider
+32,Creature,Berserker
+33,Creature,Spider
+34,Creature,Spider
+35,Creature,Fairy
+36,Spell,Dire Gloom Fury
+37,Creature,Wolf
+38,Spell,Pandemonium
+39,Creature,Berserker
+40,Spell,Apocalypse Frenzy
+41,Spell,Cataclysmic Heal
+42,Spell,Cataclysmic Frenzy
+43,Spell,Rage
+44,Artifact,Boots

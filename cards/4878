@@ -1,46 +1,46 @@
-==================,DECK,4878,Light
-0,Creature,Common,Dwarf
-1,Spell,Legendary,Extreme Vortex
-2,Artifact,Common,Ghost Wand
-3,Spell,Common,Burst
-4,Enchantment,Rare,Shimmering Age
-5,Artifact,Rare,Hateful Helmet
-6,Enchantment,Common,Invert
-7,Creature,Common,Eagle
-8,Creature,Rare,Aura Thief Griffin
-9,Enchantment,Common,Lethargy
-10,Enchantment,Rare,Solar Agony
-11,Enchantment,Rare,Hateful Age
-12,Creature,Common,Eagle
-13,Creature,Common,Warlock
-14,Enchantment,Common,Agony
-15,Creature,Common,Wolf
-16,Enchantment,Common,Strength
-17,Creature,Common,Elf
-18,Spell,Common,Gale
-19,Enchantment,Common,Strength
-20,Spell,Rare,Dark Torment
-21,Artifact,Common,Scepter
-22,Creature,Common,Warlock
-23,Creature,Common,Wolf
-24,Creature,Common,Elf
-25,Enchantment,Common,Deathgrip
-26,Creature,Legendary,Earth Knight Cyclops of the Black Stone
-27,Creature,Common,Wolf
-28,Creature,Common,Wolf
-29,Spell,Common,Infuriate
-30,Spell,Common,Stricken
-31,Enchantment,Common,Lethargy
-32,Spell,Common,Lightning
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Goblin
-35,Spell,Common,Burst
-36,Enchantment,Common,Drain
-37,Enchantment,Common,Shade
-38,Creature,Common,Wolf
-39,Creature,Common,Ghoul
-40,Creature,Mythic,Aura Nameless Dragon of the Light
-41,Enchantment,Common,Deathgrip
-42,Spell,Common,Gale
-43,Spell,Common,Revive
-44,Enchantment,Common,Shade
+==================,DECK,4878
+0,Creature,Magi
+1,Spell,Urgent Gloom Pandemonium
+2,Artifact,Ghost Wand
+3,Spell,Wall
+4,Enchantment,Nature Age
+5,Artifact,Sorrow Helmet
+6,Enchantment,Drain
+7,Creature,Eagle
+8,Creature,Aura Thief Griffin
+9,Enchantment,Alacrity
+10,Enchantment,Corpse Lethargy
+11,Enchantment,Gloom Alacrity
+12,Creature,Eagle
+13,Creature,Berserker
+14,Enchantment,Deathgrip
+15,Creature,Wolf
+16,Enchantment,Invert
+17,Creature,Warlock
+18,Spell,Assault
+19,Enchantment,Blight
+20,Spell,Chimeric Tempest
+21,Artifact,Scepter
+22,Creature,Berserker
+23,Creature,Wolf
+24,Creature,Warlock
+25,Enchantment,Shade
+26,Creature,Earth Knight Giant of the Black Stone
+27,Creature,Wolf
+28,Creature,Wolf
+29,Spell,Frenzy
+30,Spell,Pandemonium
+31,Enchantment,Shield
+32,Spell,Lightning
+33,Enchantment,Shield
+34,Creature,Skin-Walker
+35,Spell,Assault
+36,Enchantment,Haste
+37,Enchantment,Shrink
+38,Creature,Wolf
+39,Creature,Ghoul
+40,Creature,Aura Nameless Dragon of the Light
+41,Enchantment,Haste
+42,Spell,Freeze
+43,Spell,Maelstrom
+44,Enchantment,Shade

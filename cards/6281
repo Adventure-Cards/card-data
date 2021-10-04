@@ -1,46 +1,46 @@
-==================,DECK,6281,Light
-0,Enchantment,Common,Deathgrip
-1,Creature,Common,Spider
-2,Creature,Common,Dwarf
-3,Creature,Legendary,Frozen Lord Giant of the Plains
-4,Creature,Common,Magi
-5,Spell,Rare,Lunar Sorrow
-6,Creature,Common,Ghoul
-7,Spell,Common,Gale
-8,Spell,Rare,Nimble Lightning
-9,Artifact,Common,Amulet
-10,Creature,Common,Ghoul
-11,Spell,Common,Stun
-12,Creature,Common,Magi
-13,Spell,Legendary,Extreme Reanimate
-14,Creature,Common,Wolf
-15,Spell,Legendary,Extreme Fury
-16,Creature,Common,Paladin
-17,Creature,Common,Ghoul
-18,Creature,Common,Warlock
-19,Spell,Common,Invisibility
-20,Creature,Common,Spider
-21,Spell,Common,Fury
-22,Enchantment,Mythic,Clever Invert
-23,Artifact,Common,Belt
-24,Artifact,Rare,Frigid Ring
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Paladin
-27,Creature,Common,Goblin
-28,Enchantment,Common,Blight
-29,Creature,Common,Magi
-30,Spell,Common,Frenzy
-31,Creature,Common,Wolf
-32,Enchantment,Common,Strength
-33,Enchantment,Mythic,Angry Invert
-34,Enchantment,Rare,Solar Agony
-35,Enchantment,Common,Strength
-36,Creature,Rare,Earth Assassin Hydra
-37,Creature,Common,Goblin
-38,Enchantment,Common,Strength
-39,Creature,Mythic,Dark Grand Wizard of Illusion
-40,Creature,Mythic,Frozen Time Phoenix of the Void
-41,Artifact,Common,Bow
-42,Creature,Common,Spider
-43,Enchantment,Common,Drain
-44,Creature,Rare,Dark Assassin Berserker
+==================,DECK,6281
+0,Enchantment,Firebreath
+1,Creature,Paladin
+2,Creature,Magi
+3,Creature,Frozen Lord Dwarf of the Plains
+4,Creature,Fairy
+5,Spell,Gloom Reanimate
+6,Creature,Ghoul
+7,Spell,Tempest
+8,Spell,Corpse Ice
+9,Artifact,Amulet
+10,Creature,Ghoul
+11,Spell,Fire
+12,Creature,Fairy
+13,Spell,Empyrean Dark Wall
+14,Creature,Wolf
+15,Spell,Zealous Dark Heal
+16,Creature,Troll
+17,Creature,Ghoul
+18,Creature,Berserker
+19,Spell,Gravitation
+20,Creature,Paladin
+21,Spell,Wall
+22,Enchantment,Instant Oblivion Drain
+23,Artifact,Belt
+24,Artifact,Nimble Ring
+25,Enchantment,Shield
+26,Creature,Troll
+27,Creature,Skin-Walker
+28,Enchantment,Lethargy
+29,Creature,Fairy
+30,Spell,Stricken
+31,Creature,Wolf
+32,Enchantment,Drain
+33,Enchantment,Irate Sorrow Alacrity
+34,Enchantment,Corpse Age
+35,Enchantment,Age
+36,Creature,Earth Assassin Hydra
+37,Creature,Skin-Walker
+38,Enchantment,Shrink
+39,Creature,Dark Grand Wizard of Illusion
+40,Creature,Frozen Time Phoenix of the Void
+41,Artifact,Bow
+42,Creature,Paladin
+43,Enchantment,Shade
+44,Creature,Dark Assassin Goblin

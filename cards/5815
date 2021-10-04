@@ -1,46 +1,46 @@
-==================,DECK,5815,Light
-0,Creature,Common,Warlock
-1,Spell,Legendary,Extreme Rage
-2,Artifact,Common,Boots
-3,Creature,Common,Ghoul
-4,Creature,Common,Goblin
-5,Spell,Rare,Oblivion Lightning
-6,Creature,Common,Magi
-7,Artifact,Common,Greaves
-8,Spell,Common,Stricken
-9,Spell,Common,Lightning
-10,Creature,Rare,Death Merchant Griffin
-11,Creature,Common,Orc
-12,Artifact,Common,Bracers
-13,Creature,Common,Dwarf
-14,Creature,Common,Dwarf
-15,Creature,Common,Warlock
-16,Enchantment,Rare,Shimmering Deathgrip
-17,Creature,Mythic,Dark Undead Phoenix of Illusion
-18,Creature,Legendary,Frozen Fighter Kraken of the Magical Forest
-19,Creature,Common,Warlock
-20,Creature,Rare,Aura Merchant Minotaur
-21,Enchantment,Common,Drain
-22,Enchantment,Common,Drain
-23,Creature,Common,Dwarf
-24,Creature,Rare,Snow Thief Fairy
-25,Creature,Common,Wolf
-26,Creature,Legendary,Earth Undead Kraken of the Low Hills
-27,Creature,Common,Goblin
-28,Creature,Mythic,Death Time Dragon of the Dead
-29,Spell,Common,Stricken
-30,Enchantment,Common,Shade
-31,Creature,Common,Goblin
-32,Artifact,Common,Scepter
-33,Creature,Rare,Earth Rogue Berserker
-34,Creature,Mythic,Frozen Time Phoenix of the Void
-35,Creature,Common,Eagle
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Orc
-38,Spell,Common,Sorrow
-39,Creature,Common,Eagle
-40,Creature,Common,Warlock
-41,Creature,Common,Wolf
-42,Spell,Legendary,Angry Sorrow
-43,Creature,Mythic,Snow Undead Phoenix of Hate
-44,Spell,Common,Stricken
+==================,DECK,5815
+0,Creature,Berserker
+1,Spell,Urgent Chimeric Torment
+2,Artifact,Boots
+3,Creature,Ghoul
+4,Creature,Skin-Walker
+5,Spell,Nimble Burn
+6,Creature,Fairy
+7,Artifact,Greaves
+8,Spell,Reanimate
+9,Spell,Fireball
+10,Creature,Death Merchant Griffin
+11,Creature,Spider
+12,Artifact,Bracers
+13,Creature,Magi
+14,Creature,Magi
+15,Creature,Berserker
+16,Enchantment,Shimmering Agony
+17,Creature,Dark Undead Phoenix of Illusion
+18,Creature,Frozen Fighter Ogre of the Magical Forest
+19,Creature,Berserker
+20,Creature,Aura Merchant Cyclops
+21,Enchantment,Agony
+22,Enchantment,Strength
+23,Creature,Magi
+24,Creature,Snow Thief Kraken
+25,Creature,Wolf
+26,Creature,Earth Undead Ogre of the Low Hills
+27,Creature,Skin-Walker
+28,Creature,Death Time Dragon of the Dead
+29,Spell,Heal
+30,Enchantment,Lethargy
+31,Creature,Skin-Walker
+32,Artifact,Scepter
+33,Creature,Earth Rogue Goblin
+34,Creature,Frozen Time Phoenix of the Void
+35,Creature,Eagle
+36,Enchantment,Strength
+37,Creature,Spider
+38,Spell,Frost
+39,Creature,Eagle
+40,Creature,Berserker
+41,Creature,Wolf
+42,Spell,Potent Chimeric Burn
+43,Creature,Snow Undead Phoenix of Hate
+44,Spell,Gale

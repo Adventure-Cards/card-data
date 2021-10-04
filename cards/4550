@@ -1,46 +1,46 @@
-==================,DECK,4550,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Wolf
-2,Spell,Rare,Gloom Vortex
-3,Spell,Common,Wall
-4,Creature,Common,Paladin
-5,Spell,Legendary,Mighty Burst
-6,Creature,Common,Paladin
-7,Enchantment,Rare,Frigid Invert
-8,Creature,Common,Spider
-9,Creature,Common,Wolf
-10,Creature,Common,Dwarf
-11,Creature,Common,Wolf
-12,Artifact,Common,Tome
-13,Creature,Common,Paladin
-14,Spell,Rare,Solar Assault
-15,Spell,Common,Assault
-16,Artifact,Rare,Necro Ghost Wand
-17,Enchantment,Common,Age
-18,Spell,Common,Wall
-19,Spell,Common,Rage
-20,Creature,Rare,Aura Rogue Hydra
-21,Creature,Common,Dwarf
-22,Creature,Common,Wolf
-23,Creature,Common,Paladin
-24,Artifact,Common,Crown
-25,Creature,Common,Paladin
-26,Creature,Legendary,Dark Merchant Giant of the Mountains
-27,Enchantment,Common,Shrink
-28,Enchantment,Common,Age
-29,Creature,Common,Ghoul
-30,Artifact,Common,Staff
-31,Enchantment,Common,Strength
-32,Enchantment,Rare,Frigid Invert
-33,Spell,Common,Invisibility
-34,Artifact,Rare,Solar Scythe
-35,Creature,Common,Magi
-36,Enchantment,Mythic,Extreme Blight
-37,Spell,Common,Ice
-38,Creature,Rare,Aura Rogue Hydra
-39,Enchantment,Rare,Apocalypse Drain
-40,Creature,Common,Warlock
-41,Creature,Legendary,Frozen Assassin Cyclops of the Bright Mountains
-42,Creature,Legendary,Frozen Assassin Oni of the Eastern Skies
-43,Creature,Common,Warlock
-44,Enchantment,Common,Strength
+==================,DECK,4550
+0,Enchantment,Strength
+1,Creature,Wolf
+2,Spell,Miracle Frenzy
+3,Spell,Freeze
+4,Creature,Troll
+5,Spell,Potent Gloom Rage
+6,Creature,Troll
+7,Enchantment,Oblivion Invert
+8,Creature,Paladin
+9,Creature,Wolf
+10,Creature,Magi
+11,Creature,Wolf
+12,Artifact,Tome
+13,Creature,Troll
+14,Spell,Shimmering Assault
+15,Spell,Sorrow
+16,Artifact,Forged Ghost Wand
+17,Enchantment,Strength
+18,Spell,Infuriate
+19,Spell,Assault
+20,Creature,Aura Rogue Hydra
+21,Creature,Magi
+22,Creature,Wolf
+23,Creature,Troll
+24,Artifact,Crown
+25,Creature,Troll
+26,Creature,Dark Merchant Dwarf of the Mountains
+27,Enchantment,Flight
+28,Enchantment,Shrink
+29,Creature,Ghoul
+30,Artifact,Staff
+31,Enchantment,Invert
+32,Enchantment,Oblivion Invert
+33,Spell,Assault
+34,Artifact,Nature Scythe
+35,Creature,Fairy
+36,Enchantment,Empyrean Cataclysmic Firebreath
+37,Spell,Frost
+38,Creature,Aura Rogue Hydra
+39,Enchantment,Apocalypse Haste
+40,Creature,Berserker
+41,Creature,Frozen Assassin Giant of the Bright Mountains
+42,Creature,Frozen Assassin Oni of the Eastern Skies
+43,Creature,Berserker
+44,Enchantment,Drain

@@ -1,46 +1,46 @@
-==================,DECK,4389,Medium
-0,Creature,Rare,Dark Lord Griffin
-1,Enchantment,Mythic,Instant Shield
-2,Creature,Common,Elf
-3,Creature,Rare,Aura Fighter Hydra
-4,Creature,Legendary,Light Merchant Cyclops of the Eternal Land
-5,Spell,Rare,Hateful Maelstrom
-6,Spell,Rare,Necro Pandemonium
-7,Enchantment,Legendary,Angry Agony
-8,Creature,Common,Warlock
-9,Spell,Rare,Life Gale
-10,Enchantment,Rare,Apocalypse Age
-11,Spell,Rare,Nimble Wall
-12,Creature,Rare,Earth Queen Berserker
-13,Spell,Common,Infuriate
-14,Artifact,Common,Crown
-15,Creature,Common,Ghoul
-16,Creature,Common,Orc
-17,Creature,Common,Spider
-18,Enchantment,Mythic,Potent Age
-19,Spell,Common,Torment
-20,Enchantment,Mythic,Dire Agony
-21,Spell,Rare,Life Gale
-22,Spell,Common,Lightning
-23,Artifact,Common,Helmet
-24,Creature,Common,Wolf
-25,Creature,Common,Wolf
-26,Creature,Common,Spider
-27,Artifact,Common,Boots
-28,Enchantment,Legendary,Mighty Shield
-29,Creature,Rare,Light Lord Skin-Walker
-30,Enchantment,Rare,Nimble Lethargy
-31,Creature,Rare,Earth Rogue Griffin
-32,Creature,Common,Ghoul
-33,Spell,Common,Ice
-34,Spell,Common,Infuriate
-35,Creature,Rare,Light Fighter Skin-Walker
-36,Creature,Rare,Earth Queen Hydra
-37,Creature,Rare,Dark Warrior Berserker
-38,Creature,Rare,Dark Thief Hydra
-39,Creature,Common,Orc
-40,Creature,Common,Paladin
-41,Creature,Common,Paladin
-42,Enchantment,Common,Strength
-43,Creature,Common,Spider
-44,Creature,Mythic,Snow Ancient Demon of Hate
+==================,DECK,4389
+0,Creature,Dark Lord Griffin
+1,Enchantment,Instant Nature Strength
+2,Creature,Warlock
+3,Creature,Aura Fighter Hydra
+4,Creature,Light Merchant Giant of the Eternal Land
+5,Spell,Dark Freeze
+6,Spell,Solar Infuriate
+7,Enchantment,Ardent Miracle Shield
+8,Creature,Berserker
+9,Spell,Nimble Maelstrom
+10,Enchantment,Victory Haste
+11,Spell,Shimmering Fire
+12,Creature,Earth Queen Goblin
+13,Spell,Frenzy
+14,Artifact,Crown
+15,Creature,Ghoul
+16,Creature,Spider
+17,Creature,Paladin
+18,Enchantment,Zealous Victory Blight
+19,Spell,Stun
+20,Enchantment,Dire Life Shade
+21,Spell,Victory Maelstrom
+22,Spell,Fury
+23,Artifact,Helmet
+24,Creature,Wolf
+25,Creature,Wolf
+26,Creature,Paladin
+27,Artifact,Boots
+28,Enchantment,Dire Gloom Firebreath
+29,Creature,Light Lord Orc
+30,Enchantment,Hateful Age
+31,Creature,Earth Rogue Griffin
+32,Creature,Ghoul
+33,Spell,Frenzy
+34,Spell,Lightning
+35,Creature,Light Fighter Orc
+36,Creature,Earth Queen Hydra
+37,Creature,Dark Warrior Goblin
+38,Creature,Dark Thief Hydra
+39,Creature,Spider
+40,Creature,Troll
+41,Creature,Troll
+42,Enchantment,Invert
+43,Creature,Paladin
+44,Creature,Snow Ancient Demon of Hate

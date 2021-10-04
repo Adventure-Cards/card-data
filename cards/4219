@@ -1,46 +1,46 @@
-==================,DECK,4219,Strong
-0,Enchantment,Common,Haste
-1,Enchantment,Common,Shade
-2,Spell,Legendary,Angry Stun
-3,Creature,Common,Dwarf
-4,Artifact,Rare,Nimble Cloak
-5,Creature,Rare,Snow King Skin-Walker
-6,Creature,Common,Ghoul
-7,Enchantment,Legendary,Extreme Invert
-8,Creature,Common,Ghoul
-9,Creature,Legendary,Light Undead Phoenix of the Sky
-10,Artifact,Common,Scepter
-11,Creature,Common,Wolf
-12,Creature,Common,Wolf
-13,Creature,Rare,Light King Berserker
-14,Spell,Legendary,Dire Ice
-15,Spell,Common,Burn
-16,Enchantment,Mythic,Mighty Shade
-17,Creature,Rare,Frozen Warrior Griffin
-18,Creature,Rare,Frozen Fighter Hydra
-19,Creature,Common,Magi
-20,Creature,Rare,Snow Undead Berserker
-21,Creature,Mythic,Light Time Dragon of the Sky
-22,Creature,Common,Dwarf
-23,Enchantment,Rare,Solar Lethargy
-24,Artifact,Mythic,Potent Crown
-25,Creature,Common,Wolf
-26,Creature,Rare,Dark Fighter Minotaur
-27,Enchantment,Legendary,Instant Alacrity
-28,Creature,Common,Spider
-29,Creature,Mythic,Death Chaos Demon of the Dead
-30,Creature,Common,Dwarf
-31,Spell,Rare,Dark Assault
-32,Creature,Mythic,Aura Time Phoenix of the Light
-33,Creature,Common,Warlock
-34,Creature,Common,Eagle
-35,Creature,Common,Dwarf
-36,Artifact,Rare,Miracle Potion
-37,Enchantment,Common,Flight
-38,Creature,Common,Orc
-39,Enchantment,Common,Strength
-40,Creature,Rare,Light Undead Berserker
-41,Artifact,Rare,Forged Potion
-42,Creature,Rare,Death Monk Skin-Walker
-43,Artifact,Rare,Oblivion Ghost Wand
-44,Creature,Common,Orc
+==================,DECK,4219
+0,Enchantment,Blight
+1,Enchantment,Blight
+2,Spell,Clever Cataclysmic Burst
+3,Creature,Magi
+4,Artifact,Nature Cloak
+5,Creature,Snow King Orc
+6,Creature,Ghoul
+7,Enchantment,Dire Sorrow Firebreath
+8,Creature,Ghoul
+9,Creature,Light Undead Phoenix of the Sky
+10,Artifact,Scepter
+11,Creature,Wolf
+12,Creature,Wolf
+13,Creature,Light King Goblin
+14,Spell,Empyrean Life Rage
+15,Spell,Maelstrom
+16,Enchantment,Ardent Chimeric Shield
+17,Creature,Frozen Warrior Griffin
+18,Creature,Frozen Fighter Hydra
+19,Creature,Fairy
+20,Creature,Snow Undead Goblin
+21,Creature,Light Time Dragon of the Sky
+22,Creature,Magi
+23,Enchantment,Hateful Lethargy
+24,Artifact,Irate Victory Crown
+25,Creature,Wolf
+26,Creature,Dark Fighter Cyclops
+27,Enchantment,Ardent Forged Lethargy
+28,Creature,Paladin
+29,Creature,Death Chaos Demon of the Dead
+30,Creature,Magi
+31,Spell,Chimeric Ice
+32,Creature,Aura Time Phoenix of the Light
+33,Creature,Berserker
+34,Creature,Eagle
+35,Creature,Magi
+36,Artifact,Victory Potion
+37,Enchantment,Lethargy
+38,Creature,Spider
+39,Enchantment,Alacrity
+40,Creature,Light Undead Goblin
+41,Artifact,Cataclysmic Potion
+42,Creature,Death Monk Orc
+43,Artifact,Nimble Ghost Wand
+44,Creature,Spider

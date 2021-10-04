@@ -1,46 +1,46 @@
-==================,DECK,5212,Light
-0,Spell,Common,Fury
-1,Creature,Common,Warlock
-2,Spell,Rare,Shimmering Sorrow
-3,Artifact,Common,Scythe
-4,Creature,Common,Orc
-5,Enchantment,Common,Agony
-6,Creature,Common,Ghoul
-7,Spell,Common,Invisibility
-8,Creature,Common,Warlock
-9,Enchantment,Common,Invert
-10,Enchantment,Common,Flight
-11,Artifact,Common,Staff
-12,Artifact,Common,Bow
-13,Creature,Common,Eagle
-14,Spell,Common,Rage
-15,Spell,Legendary,Intense Rage
-16,Spell,Common,Burn
-17,Spell,Common,Assault
-18,Spell,Common,Gale
-19,Creature,Common,Orc
-20,Enchantment,Common,Blight
-21,Creature,Mythic,Death Ancient Wizard of the Dead
-22,Creature,Common,Dwarf
-23,Spell,Rare,Cataclysmic Reanimate
-24,Creature,Rare,Aura Warrior Skin-Walker
-25,Spell,Rare,Nimble Frenzy
-26,Enchantment,Common,Invert
-27,Creature,Rare,Frozen King Fairy
-28,Enchantment,Legendary,Dire Age
-29,Creature,Common,Elf
-30,Creature,Common,Paladin
-31,Creature,Rare,Earth Priest Berserker
-32,Creature,Common,Goblin
-33,Creature,Legendary,Snow King Orge of the Arctic Blizzards
-34,Creature,Common,Paladin
-35,Spell,Common,Maelstrom
-36,Artifact,Rare,Nimble Helm
-37,Enchantment,Common,Strength
-38,Enchantment,Mythic,Mighty Lethargy
-39,Creature,Common,Paladin
-40,Creature,Rare,Light Queen Fairy
-41,Artifact,Common,Divine Robe
-42,Creature,Common,Magi
-43,Creature,Common,Magi
-44,Enchantment,Common,Deathgrip
+==================,DECK,5212
+0,Spell,Wall
+1,Creature,Berserker
+2,Spell,Forged Fireball
+3,Artifact,Scythe
+4,Creature,Spider
+5,Enchantment,Shade
+6,Creature,Ghoul
+7,Spell,Gale
+8,Creature,Berserker
+9,Enchantment,Shield
+10,Enchantment,Deathgrip
+11,Artifact,Staff
+12,Artifact,Bow
+13,Creature,Eagle
+14,Spell,Gravitation
+15,Spell,Irate Shimmering Gravitation
+16,Spell,Ice
+17,Spell,Assault
+18,Spell,Lightning
+19,Creature,Spider
+20,Enchantment,Alacrity
+21,Creature,Death Ancient Wizard of the Dead
+22,Creature,Magi
+23,Spell,Cataclysmic Sorrow
+24,Creature,Aura Warrior Orc
+25,Spell,Hateful Fury
+26,Enchantment,Blight
+27,Creature,Frozen King Kraken
+28,Enchantment,Clever Victory Haste
+29,Creature,Warlock
+30,Creature,Troll
+31,Creature,Earth Priest Goblin
+32,Creature,Skin-Walker
+33,Creature,Snow King Elf of the Arctic Blizzards
+34,Creature,Troll
+35,Spell,Gale
+36,Artifact,Forged Helm
+37,Enchantment,Lethargy
+38,Enchantment,Instant Lunar Shrink
+39,Creature,Troll
+40,Creature,Light Queen Kraken
+41,Artifact,Divine Robe
+42,Creature,Fairy
+43,Creature,Fairy
+44,Enchantment,Age

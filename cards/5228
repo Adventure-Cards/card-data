@@ -1,46 +1,46 @@
-==================,DECK,5228,Medium
-0,Creature,Common,Ghoul
-1,Enchantment,Legendary,Mighty Age
-2,Spell,Common,Ice
-3,Spell,Rare,Dark Rage
-4,Spell,Common,Pandemonium
-5,Artifact,Rare,Corpse Boots
-6,Creature,Common,Warlock
-7,Creature,Common,Dwarf
-8,Spell,Common,Reanimate
-9,Creature,Rare,Dark Rogue Griffin
-10,Enchantment,Rare,Cataclysmic Blight
-11,Creature,Common,Orc
-12,Creature,Common,Spider
-13,Creature,Rare,Snow Merchant Skin-Walker
-14,Creature,Common,Magi
-15,Creature,Rare,Death Knight Minotaur
-16,Spell,Rare,Nature Sorrow
-17,Spell,Common,Ice
-18,Creature,Common,Eagle
-19,Creature,Common,Magi
-20,Creature,Legendary,Light Merchant Kraken of the Eternal Land
-21,Creature,Common,Magi
-22,Spell,Common,Sorrow
-23,Creature,Common,Warlock
-24,Creature,Common,Wolf
-25,Creature,Common,Orc
-26,Creature,Common,Magi
-27,Creature,Common,Dwarf
-28,Creature,Rare,Snow Knight Hydra
-29,Artifact,Legendary,Intense Sword
-30,Creature,Rare,Frozen Priest Minotaur
-31,Spell,Legendary,Mighty Assault
-32,Creature,Rare,Snow Lord Fairy
-33,Creature,Common,Dwarf
-34,Creature,Common,Dwarf
-35,Creature,Common,Wolf
-36,Enchantment,Common,Age
-37,Enchantment,Rare,Cataclysmic Blight
-38,Creature,Common,Goblin
-39,Enchantment,Legendary,Potent Alacrity
-40,Spell,Common,Rage
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Flight
-43,Spell,Common,Heal
-44,Spell,Common,Gale
+==================,DECK,5228
+0,Creature,Ghoul
+1,Enchantment,Mighty Gloom Flight
+2,Spell,Fireball
+3,Spell,Miracle Hypnosis
+4,Spell,Fury
+5,Artifact,Hateful Boots
+6,Creature,Berserker
+7,Creature,Magi
+8,Spell,Wall
+9,Creature,Dark Rogue Griffin
+10,Enchantment,Cataclysmic Alacrity
+11,Creature,Spider
+12,Creature,Paladin
+13,Creature,Snow Merchant Orc
+14,Creature,Fairy
+15,Creature,Death Knight Cyclops
+16,Spell,Forged Infuriate
+17,Spell,Frost
+18,Creature,Eagle
+19,Creature,Fairy
+20,Creature,Light Merchant Ogre of the Eternal Land
+21,Creature,Fairy
+22,Spell,Burst
+23,Creature,Berserker
+24,Creature,Wolf
+25,Creature,Spider
+26,Creature,Fairy
+27,Creature,Magi
+28,Creature,Snow Knight Hydra
+29,Artifact,Potent Hateful Sword
+30,Creature,Frozen Priest Cyclops
+31,Spell,Ardent Lunar Stricken
+32,Creature,Snow Lord Kraken
+33,Creature,Magi
+34,Creature,Magi
+35,Creature,Wolf
+36,Enchantment,Agony
+37,Enchantment,Cataclysmic Shrink
+38,Creature,Skin-Walker
+39,Enchantment,Dire Apocalypse Shade
+40,Spell,Stun
+41,Creature,Magi
+42,Enchantment,Firebreath
+43,Spell,Assault
+44,Spell,Gravitation

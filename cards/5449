@@ -1,46 +1,46 @@
-==================,DECK,5449,Strong
-0,Creature,Common,Eagle
-1,Enchantment,Common,Shrink
-2,Creature,Rare,Dark Undead Griffin
-3,Spell,Common,Gale
-4,Creature,Legendary,Frozen Queen Kraken of the West
-5,Enchantment,Rare,Apocalypse Deathgrip
-6,Spell,Rare,Apocalypse Maelstrom
-7,Creature,Legendary,Death Chaos Wizard of the Dead
-8,Enchantment,Legendary,Urgent Lethargy
-9,Creature,Rare,Frozen Fighter Hydra
-10,Creature,Rare,Death Rogue Berserker
-11,Enchantment,Legendary,Intense Flight
-12,Spell,Common,Frenzy
-13,Creature,Rare,Dark Undead Griffin
-14,Creature,Common,Eagle
-15,Spell,Common,Invisibility
-16,Creature,Rare,Snow Lord Griffin
-17,Creature,Common,Dwarf
-18,Creature,Rare,Dark Knight Minotaur
-19,Spell,Common,Invisibility
-20,Enchantment,Rare,Apocalypse Shrink
-21,Artifact,Mythic,Clever Shield
-22,Creature,Common,Spider
-23,Creature,Common,Dwarf
-24,Creature,Common,Goblin
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Shrink
-27,Creature,Common,Eagle
-28,Spell,Rare,Frigid Vortex
-29,Enchantment,Mythic,Intense Blight
-30,Enchantment,Common,Drain
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Agony
-33,Spell,Legendary,Extreme Frenzy
-34,Enchantment,Mythic,Instant Alacrity
-35,Creature,Legendary,Death Chaos Wizard of the Dead
-36,Enchantment,Common,Lethargy
-37,Spell,Common,Torment
-38,Artifact,Rare,Oblivion Scepter
-39,Creature,Mythic,Aura Nameless Dragon of the Light
-40,Enchantment,Rare,Apocalypse Drain
-41,Artifact,Common,Bow
-42,Creature,Rare,Light Merchant Minotaur
-43,Creature,Common,Ghoul
-44,Creature,Common,Magi
+==================,DECK,5449
+0,Creature,Eagle
+1,Enchantment,Shade
+2,Creature,Dark Undead Griffin
+3,Spell,Stricken
+4,Creature,Frozen Queen Ogre of the West
+5,Enchantment,Oblivion Haste
+6,Spell,Frigid Frenzy
+7,Creature,Death Chaos Wizard of the Dead
+8,Enchantment,Irate Hateful Deathgrip
+9,Creature,Frozen Fighter Hydra
+10,Creature,Death Rogue Goblin
+11,Enchantment,Clever Hateful Lethargy
+12,Spell,Stricken
+13,Creature,Dark Undead Griffin
+14,Creature,Eagle
+15,Spell,Maelstrom
+16,Creature,Snow Lord Griffin
+17,Creature,Magi
+18,Creature,Dark Knight Cyclops
+19,Spell,Fire
+20,Enchantment,Frigid Invert
+21,Artifact,Empyrean Victory Shield
+22,Creature,Paladin
+23,Creature,Magi
+24,Creature,Skin-Walker
+25,Creature,Ghoul
+26,Enchantment,Shield
+27,Creature,Eagle
+28,Spell,Victory Burn
+29,Enchantment,Clever Solar Lethargy
+30,Enchantment,Age
+31,Creature,Ghoul
+32,Enchantment,Alacrity
+33,Spell,Urgent Gloom Heal
+34,Enchantment,Ardent Forged Lethargy
+35,Creature,Death Chaos Wizard of the Dead
+36,Enchantment,Flight
+37,Spell,Ice
+38,Artifact,Oblivion Scepter
+39,Creature,Aura Nameless Dragon of the Light
+40,Enchantment,Apocalypse Invert
+41,Artifact,Bow
+42,Creature,Light Merchant Cyclops
+43,Creature,Ghoul
+44,Creature,Fairy

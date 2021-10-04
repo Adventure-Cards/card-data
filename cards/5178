@@ -1,46 +1,46 @@
-==================,DECK,5178,Light
-0,Spell,Common,Pandemonium
-1,Creature,Rare,Dark King Berserker
-2,Enchantment,Common,Age
-3,Enchantment,Common,Agony
-4,Creature,Common,Elf
-5,Creature,Common,Paladin
-6,Creature,Mythic,Frozen Time Dragon of the Void
-7,Artifact,Common,Tome
-8,Creature,Rare,Light King Minotaur
-9,Creature,Rare,Frozen Thief Fairy
-10,Artifact,Common,Helmet
-11,Artifact,Common,Scythe
-12,Creature,Common,Ghoul
-13,Spell,Common,Maelstrom
-14,Creature,Common,Eagle
-15,Artifact,Rare,Necro Cloak
-16,Creature,Common,Elf
-17,Creature,Common,Magi
-18,Creature,Rare,Snow Queen Fairy
-19,Enchantment,Common,Blight
-20,Creature,Common,Eagle
-21,Artifact,Common,Sigil
-22,Spell,Common,Hypnosis
-23,Enchantment,Common,Flight
-24,Spell,Common,Pandemonium
-25,Artifact,Legendary,Dire Greaves
-26,Spell,Common,Revive
-27,Creature,Common,Ghoul
-28,Creature,Common,Wolf
-29,Artifact,Common,Helm
-30,Creature,Common,Warlock
-31,Spell,Common,Pandemonium
-32,Creature,Common,Goblin
-33,Artifact,Common,Pendant
-34,Creature,Common,Paladin
-35,Enchantment,Common,Shade
-36,Creature,Common,Ghoul
-37,Creature,Common,Wolf
-38,Creature,Common,Goblin
-39,Artifact,Rare,Gloom Ghost Wand
-40,Artifact,Common,Scepter
-41,Creature,Rare,Frozen Knight Fairy
-42,Enchantment,Common,Strength
-43,Creature,Rare,Snow Assassin Skin-Walker
-44,Creature,Legendary,Dark Queen Giant of the Border
+==================,DECK,5178
+0,Spell,Wall
+1,Creature,Dark King Goblin
+2,Enchantment,Blight
+3,Enchantment,Shade
+4,Creature,Warlock
+5,Creature,Troll
+6,Creature,Frozen Time Dragon of the Void
+7,Artifact,Tome
+8,Creature,Light King Cyclops
+9,Creature,Frozen Thief Kraken
+10,Artifact,Helmet
+11,Artifact,Scythe
+12,Creature,Ghoul
+13,Spell,Sorrow
+14,Creature,Eagle
+15,Artifact,Shimmering Cloak
+16,Creature,Warlock
+17,Creature,Fairy
+18,Creature,Snow Queen Kraken
+19,Enchantment,Strength
+20,Creature,Eagle
+21,Artifact,Sigil
+22,Spell,Frenzy
+23,Enchantment,Strength
+24,Spell,Fireball
+25,Artifact,Mighty Apocalypse Greaves
+26,Spell,Torment
+27,Creature,Ghoul
+28,Creature,Wolf
+29,Artifact,Helm
+30,Creature,Berserker
+31,Spell,Gravitation
+32,Creature,Skin-Walker
+33,Artifact,Pendant
+34,Creature,Troll
+35,Enchantment,Drain
+36,Creature,Ghoul
+37,Creature,Wolf
+38,Creature,Skin-Walker
+39,Artifact,Sorrow Ghost Wand
+40,Artifact,Scepter
+41,Creature,Frozen Knight Kraken
+42,Enchantment,Strength
+43,Creature,Snow Assassin Orc
+44,Creature,Dark Queen Dwarf of the Border

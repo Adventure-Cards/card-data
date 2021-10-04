@@ -1,46 +1,46 @@
-==================,DECK,5784,Light
-0,Artifact,Rare,Oblivion Cloak
-1,Creature,Common,Warlock
-2,Creature,Rare,Frozen King Griffin
-3,Artifact,Common,Ghost Wand
-4,Artifact,Rare,Miracle Sigil
-5,Creature,Common,Paladin
-6,Spell,Common,Invisibility
-7,Creature,Common,Elf
-8,Artifact,Common,Amulet
-9,Enchantment,Rare,Frigid Lethargy
-10,Artifact,Legendary,Intense Amulet
-11,Enchantment,Common,Haste
-12,Creature,Rare,Death Queen Berserker
-13,Artifact,Legendary,Clever Ring
-14,Artifact,Rare,Shimmering Pendant
-15,Enchantment,Rare,Nimble Strength
-16,Spell,Common,Torment
-17,Creature,Common,Dwarf
-18,Creature,Common,Paladin
-19,Enchantment,Common,Drain
-20,Spell,Legendary,Urgent Stun
-21,Artifact,Common,Greaves
-22,Creature,Legendary,Earth Lord Cyclops of the Border
-23,Enchantment,Common,Invert
-24,Creature,Mythic,Snow Undead Dragon of Hate
-25,Creature,Common,Elf
-26,Enchantment,Common,Shield
-27,Spell,Common,Ice
-28,Artifact,Common,Tome
-29,Creature,Common,Elf
-30,Creature,Mythic,Earth Grand Wizard of the Shadows
-31,Artifact,Common,Pendant
-32,Artifact,Rare,Shimmering Belt
-33,Creature,Legendary,Dark Assassin Orge of the Polar Woods
-34,Creature,Rare,Death Undead Skin-Walker
-35,Spell,Rare,Gloom Frost
-36,Enchantment,Common,Blight
-37,Creature,Common,Ghoul
-38,Spell,Common,Burn
-39,Creature,Common,Dwarf
-40,Creature,Common,Goblin
-41,Creature,Common,Magi
-42,Spell,Common,Stricken
-43,Creature,Common,Spider
-44,Creature,Common,Warlock
+==================,DECK,5784
+0,Artifact,Nimble Cloak
+1,Creature,Berserker
+2,Creature,Frozen King Griffin
+3,Artifact,Ghost Wand
+4,Artifact,Frigid Sigil
+5,Creature,Troll
+6,Spell,Maelstrom
+7,Creature,Warlock
+8,Artifact,Amulet
+9,Enchantment,Grim Blight
+10,Artifact,Mighty Necro Amulet
+11,Enchantment,Shield
+12,Creature,Death Queen Goblin
+13,Artifact,Instant Life Ring
+14,Artifact,Shimmering Pendant
+15,Enchantment,Solar Deathgrip
+16,Spell,Fury
+17,Creature,Magi
+18,Creature,Troll
+19,Enchantment,Blight
+20,Spell,Empyrean Shimmering Burst
+21,Artifact,Greaves
+22,Creature,Earth Lord Giant of the Border
+23,Enchantment,Strength
+24,Creature,Snow Undead Dragon of Hate
+25,Creature,Warlock
+26,Enchantment,Deathgrip
+27,Spell,Stricken
+28,Artifact,Tome
+29,Creature,Warlock
+30,Creature,Earth Grand Wizard of the Shadows
+31,Artifact,Pendant
+32,Artifact,Hateful Belt
+33,Creature,Dark Assassin Elf of the Polar Woods
+34,Creature,Death Undead Orc
+35,Spell,Chimeric Fire
+36,Enchantment,Lethargy
+37,Creature,Ghoul
+38,Spell,Wall
+39,Creature,Magi
+40,Creature,Skin-Walker
+41,Creature,Fairy
+42,Spell,Stricken
+43,Creature,Paladin
+44,Creature,Berserker

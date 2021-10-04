@@ -1,46 +1,46 @@
-==================,DECK,6132,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Haste
-2,Creature,Common,Eagle
-3,Enchantment,Common,Agony
-4,Enchantment,Mythic,Clever Drain
-5,Spell,Rare,Dark Assault
-6,Creature,Common,Magi
-7,Creature,Legendary,Frozen Warrior Cyclops of the Polar Woods
-8,Spell,Rare,Solar Gravitation
-9,Spell,Rare,Hateful Stricken
-10,Spell,Common,Infuriate
-11,Spell,Common,Rage
-12,Spell,Common,Invisibility
-13,Creature,Rare,Aura Assassin Berserker
-14,Creature,Common,Paladin
-15,Creature,Common,Eagle
-16,Creature,Common,Elf
-17,Creature,Common,Wolf
-18,Creature,Common,Spider
-19,Creature,Common,Orc
-20,Spell,Legendary,Mighty Vortex
-21,Creature,Legendary,Snow Knight Oni of the Polar Woods
-22,Creature,Mythic,Dark Chaos Demon of Illusion
-23,Enchantment,Mythic,Potent Haste
-24,Spell,Common,Burn
-25,Creature,Common,Elf
-26,Creature,Common,Warlock
-27,Creature,Rare,Frozen Warrior Hydra
-28,Artifact,Common,Sigil
-29,Creature,Mythic,Frozen Nameless Phoenix of the Void
-30,Spell,Rare,Lunar Reanimate
-31,Spell,Common,Gale
-32,Creature,Common,Warlock
-33,Creature,Common,Eagle
-34,Artifact,Rare,Lunar Tome
-35,Enchantment,Common,Flight
-36,Spell,Common,Sorrow
-37,Spell,Common,Hypnosis
-38,Spell,Rare,Nimble Lightning
-39,Creature,Common,Elf
-40,Creature,Rare,Light Thief Skin-Walker
-41,Creature,Common,Elf
-42,Creature,Common,Orc
-43,Enchantment,Common,Agony
-44,Artifact,Common,Shield
+==================,DECK,6132
+0,Creature,Spider
+1,Enchantment,Haste
+2,Creature,Eagle
+3,Enchantment,Age
+4,Enchantment,Mighty Apocalypse Invert
+5,Spell,Cataclysmic Invisibility
+6,Creature,Fairy
+7,Creature,Frozen Warrior Giant of the Polar Woods
+8,Spell,Shimmering Revive
+9,Spell,Cataclysmic Gale
+10,Spell,Heal
+11,Spell,Gale
+12,Spell,Wall
+13,Creature,Aura Assassin Goblin
+14,Creature,Troll
+15,Creature,Eagle
+16,Creature,Warlock
+17,Creature,Wolf
+18,Creature,Paladin
+19,Creature,Spider
+20,Spell,Irate Chimeric Frenzy
+21,Creature,Snow Knight Oni of the Polar Woods
+22,Creature,Dark Chaos Demon of Illusion
+23,Enchantment,Potent Life Drain
+24,Spell,Gale
+25,Creature,Warlock
+26,Creature,Berserker
+27,Creature,Frozen Warrior Hydra
+28,Artifact,Sigil
+29,Creature,Frozen Nameless Phoenix of the Void
+30,Spell,Chimeric Infuriate
+31,Spell,Stun
+32,Creature,Berserker
+33,Creature,Eagle
+34,Artifact,Cataclysmic Tome
+35,Enchantment,Alacrity
+36,Spell,Fireball
+37,Spell,Freeze
+38,Spell,Solar Frenzy
+39,Creature,Warlock
+40,Creature,Light Thief Orc
+41,Creature,Warlock
+42,Creature,Spider
+43,Enchantment,Age
+44,Artifact,Shield

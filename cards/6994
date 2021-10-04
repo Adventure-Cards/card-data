@@ -1,46 +1,46 @@
-==================,DECK,6994,Light
-0,Spell,Common,Fury
-1,Spell,Common,Stricken
-2,Artifact,Rare,Solar Helmet
-3,Creature,Common,Wolf
-4,Artifact,Common,Cloak
-5,Creature,Common,Goblin
-6,Creature,Common,Paladin
-7,Artifact,Rare,Oblivion Helm
-8,Spell,Legendary,Clever Pandemonium
-9,Creature,Common,Goblin
-10,Spell,Legendary,Extreme Rage
-11,Enchantment,Common,Invert
-12,Enchantment,Rare,Life Haste
-13,Enchantment,Common,Haste
-14,Enchantment,Common,Flight
-15,Creature,Rare,Dark Thief Hydra
-16,Creature,Common,Dwarf
-17,Enchantment,Common,Strength
-18,Creature,Common,Magi
-19,Creature,Common,Warlock
-20,Creature,Common,Paladin
-21,Creature,Legendary,Death Rogue Giant of the West
-22,Creature,Common,Magi
-23,Creature,Rare,Earth Fighter Hydra
-24,Spell,Common,Gravitation
-25,Creature,Common,Magi
-26,Enchantment,Common,Agony
-27,Creature,Common,Dwarf
-28,Creature,Legendary,Frozen Queen Giant of the Golden Palace
-29,Creature,Common,Eagle
-30,Creature,Common,Spider
-31,Creature,Common,Orc
-32,Creature,Common,Ghoul
-33,Creature,Legendary,Aura Priest Cyclops of the Bright Mountains
-34,Creature,Common,Paladin
-35,Spell,Common,Lightning
-36,Artifact,Common,Gauntlet
-37,Enchantment,Rare,Oblivion Invert
-38,Spell,Legendary,Mighty Sorrow
-39,Creature,Common,Dwarf
-40,Creature,Common,Spider
-41,Artifact,Common,Tome
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Age
-44,Spell,Rare,Grim Frost
+==================,DECK,6994
+0,Spell,Fire
+1,Spell,Vortex
+2,Artifact,Hateful Helmet
+3,Creature,Wolf
+4,Artifact,Cloak
+5,Creature,Skin-Walker
+6,Creature,Troll
+7,Artifact,Grim Helm
+8,Spell,Mighty Life Heal
+9,Creature,Skin-Walker
+10,Spell,Urgent Dark Fury
+11,Enchantment,Shield
+12,Enchantment,Life Drain
+13,Enchantment,Invert
+14,Enchantment,Invert
+15,Creature,Dark Thief Hydra
+16,Creature,Magi
+17,Enchantment,Agony
+18,Creature,Fairy
+19,Creature,Berserker
+20,Creature,Troll
+21,Creature,Death Rogue Dwarf of the West
+22,Creature,Fairy
+23,Creature,Earth Fighter Hydra
+24,Spell,Hypnosis
+25,Creature,Fairy
+26,Enchantment,Age
+27,Creature,Magi
+28,Creature,Frozen Queen Dwarf of the Golden Palace
+29,Creature,Eagle
+30,Creature,Paladin
+31,Creature,Spider
+32,Creature,Ghoul
+33,Creature,Aura Priest Giant of the Bright Mountains
+34,Creature,Troll
+35,Spell,Reanimate
+36,Artifact,Gauntlet
+37,Enchantment,Oblivion Invert
+38,Spell,Potent Cataclysmic Torment
+39,Creature,Magi
+40,Creature,Paladin
+41,Artifact,Tome
+42,Creature,Magi
+43,Enchantment,Shield
+44,Spell,Frigid Rage

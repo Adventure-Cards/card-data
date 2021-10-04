@@ -1,46 +1,46 @@
-==================,DECK,6586,Light
-0,Spell,Common,Sorrow
-1,Enchantment,Common,Invert
-2,Enchantment,Common,Drain
-3,Creature,Common,Warlock
-4,Creature,Common,Spider
-5,Creature,Rare,Death Assassin Griffin
-6,Artifact,Common,Shield
-7,Creature,Common,Orc
-8,Spell,Common,Hypnosis
-9,Creature,Rare,Dark King Skin-Walker
-10,Creature,Rare,Earth Priest Griffin
-11,Creature,Common,Wolf
-12,Enchantment,Mythic,Urgent Haste
-13,Creature,Common,Elf
-14,Spell,Common,Reanimate
-15,Creature,Rare,Frozen Merchant Berserker
-16,Creature,Common,Elf
-17,Enchantment,Common,Shrink
-18,Creature,Common,Paladin
-19,Creature,Rare,Death Warrior Hydra
-20,Creature,Common,Elf
-21,Spell,Common,Wall
-22,Spell,Common,Sorrow
-23,Enchantment,Common,Shade
-24,Artifact,Legendary,Mighty Scythe
-25,Artifact,Common,Gloves
-26,Creature,Common,Paladin
-27,Spell,Common,Infuriate
-28,Enchantment,Rare,Dark Shield
-29,Creature,Rare,Aura Lord Griffin
-30,Creature,Legendary,Frozen Assassin Kraken of the Border
-31,Creature,Rare,Snow Fighter Fairy
-32,Spell,Common,Vortex
-33,Creature,Common,Ghoul
-34,Spell,Rare,Cataclysmic Infuriate
-35,Creature,Common,Spider
-36,Spell,Common,Burst
-37,Creature,Common,Dwarf
-38,Spell,Common,Reanimate
-39,Spell,Legendary,Mighty Stricken
-40,Spell,Common,Gale
-41,Creature,Common,Magi
-42,Creature,Common,Spider
-43,Enchantment,Common,Lethargy
-44,Artifact,Common,Sigil
+==================,DECK,6586
+0,Spell,Invisibility
+1,Enchantment,Invert
+2,Enchantment,Age
+3,Creature,Berserker
+4,Creature,Paladin
+5,Creature,Death Assassin Griffin
+6,Artifact,Shield
+7,Creature,Spider
+8,Spell,Assault
+9,Creature,Dark King Orc
+10,Creature,Earth Priest Griffin
+11,Creature,Wolf
+12,Enchantment,Empyrean Corpse Age
+13,Creature,Warlock
+14,Spell,Frenzy
+15,Creature,Frozen Merchant Goblin
+16,Creature,Warlock
+17,Enchantment,Shield
+18,Creature,Troll
+19,Creature,Death Warrior Hydra
+20,Creature,Warlock
+21,Spell,Gravitation
+22,Spell,Gale
+23,Enchantment,Blight
+24,Artifact,Empyrean Gloom Scythe
+25,Artifact,Gloves
+26,Creature,Troll
+27,Spell,Lightning
+28,Enchantment,Gloom Alacrity
+29,Creature,Aura Lord Griffin
+30,Creature,Frozen Assassin Ogre of the Border
+31,Creature,Snow Fighter Kraken
+32,Spell,Revive
+33,Creature,Ghoul
+34,Spell,Lunar Invisibility
+35,Creature,Paladin
+36,Spell,Assault
+37,Creature,Magi
+38,Spell,Invisibility
+39,Spell,Empyrean Dark Stricken
+40,Spell,Vortex
+41,Creature,Fairy
+42,Creature,Paladin
+43,Enchantment,Firebreath
+44,Artifact,Sigil

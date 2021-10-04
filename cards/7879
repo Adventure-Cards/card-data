@@ -1,46 +1,46 @@
-==================,DECK,7879,Medium
-0,Creature,Rare,Aura Monk Berserker
-1,Creature,Rare,Light Rogue Griffin
-2,Creature,Legendary,Frozen Lord Orge of the Eastern Skies
-3,Enchantment,Common,Drain
-4,Spell,Rare,Hateful Hypnosis
-5,Creature,Common,Orc
-6,Artifact,Rare,Solar Helmet
-7,Enchantment,Common,Deathgrip
-8,Creature,Mythic,Light Grand Demon of the Sky
-9,Creature,Rare,Aura Thief Minotaur
-10,Creature,Common,Spider
-11,Artifact,Legendary,Extreme Potion
-12,Enchantment,Common,Deathgrip
-13,Creature,Mythic,Aura Nameless Phoenix of the Light
-14,Creature,Legendary,Frozen Monk Giant of the Swamp
-15,Enchantment,Rare,Frigid Shield
-16,Creature,Rare,Aura Undead Fairy
-17,Creature,Common,Warlock
-18,Creature,Rare,Earth Assassin Minotaur
-19,Creature,Common,Elf
-20,Creature,Mythic,Light Nameless Phoenix of the Sky
-21,Creature,Rare,Light Knight Minotaur
-22,Artifact,Common,Potion
-23,Creature,Mythic,Aura Ancient Wizard of the Light
-24,Creature,Common,Warlock
-25,Enchantment,Common,Invert
-26,Creature,Common,Warlock
-27,Enchantment,Common,Shield
-28,Enchantment,Mythic,Urgent Blight
-29,Creature,Rare,Earth Assassin Fairy
-30,Creature,Mythic,Frozen Chaos Demon of the Void
-31,Enchantment,Common,Lethargy
-32,Creature,Common,Magi
-33,Creature,Common,Eagle
-34,Enchantment,Rare,Gloom Agony
-35,Spell,Common,Gravitation
-36,Creature,Rare,Death Priest Griffin
-37,Spell,Common,Maelstrom
-38,Creature,Legendary,Frozen Knight Giant of the Haven
-39,Creature,Common,Spider
-40,Enchantment,Mythic,Dire Lethargy
-41,Creature,Common,Eagle
-42,Creature,Legendary,Earth Undead Kraken of the Bright Mountains
-43,Creature,Rare,Earth Thief Fairy
-44,Creature,Common,Wolf
+==================,DECK,7879
+0,Creature,Aura Monk Goblin
+1,Creature,Light Rogue Griffin
+2,Creature,Frozen Lord Elf of the Eastern Skies
+3,Enchantment,Blight
+4,Spell,Miracle Assault
+5,Creature,Spider
+6,Artifact,Corpse Helmet
+7,Enchantment,Shrink
+8,Creature,Light Grand Demon of the Sky
+9,Creature,Aura Thief Cyclops
+10,Creature,Paladin
+11,Artifact,Ardent Sorrow Potion
+12,Enchantment,Lethargy
+13,Creature,Aura Nameless Phoenix of the Light
+14,Creature,Frozen Monk Dwarf of the Swamp
+15,Enchantment,Victory Blight
+16,Creature,Aura Undead Kraken
+17,Creature,Berserker
+18,Creature,Earth Assassin Cyclops
+19,Creature,Warlock
+20,Creature,Light Nameless Phoenix of the Sky
+21,Creature,Light Knight Cyclops
+22,Artifact,Potion
+23,Creature,Aura Ancient Wizard of the Light
+24,Creature,Berserker
+25,Enchantment,Shield
+26,Creature,Berserker
+27,Enchantment,Agony
+28,Enchantment,Potent Solar Strength
+29,Creature,Earth Assassin Kraken
+30,Creature,Frozen Chaos Demon of the Void
+31,Enchantment,Alacrity
+32,Creature,Fairy
+33,Creature,Eagle
+34,Enchantment,Miracle Flight
+35,Spell,Rage
+36,Creature,Death Priest Griffin
+37,Spell,Assault
+38,Creature,Frozen Knight Dwarf of the Haven
+39,Creature,Paladin
+40,Enchantment,Instant Grim Drain
+41,Creature,Eagle
+42,Creature,Earth Undead Ogre of the Bright Mountains
+43,Creature,Earth Thief Kraken
+44,Creature,Wolf

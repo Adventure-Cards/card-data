@@ -1,46 +1,46 @@
-==================,DECK,5993,Light
-0,Creature,Common,Paladin
-1,Enchantment,Common,Lethargy
-2,Creature,Mythic,Dark Ancient Demon of Illusion
-3,Spell,Common,Frenzy
-4,Enchantment,Common,Shrink
-5,Creature,Rare,Light Priest Griffin
-6,Spell,Common,Vortex
-7,Creature,Common,Dwarf
-8,Creature,Common,Warlock
-9,Spell,Legendary,Dire Vortex
-10,Spell,Legendary,Urgent Fury
-11,Creature,Common,Eagle
-12,Spell,Common,Burst
-13,Creature,Common,Warlock
-14,Creature,Common,Spider
-15,Enchantment,Common,Shrink
-16,Creature,Legendary,Death Thief Cyclops of the Mountains
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Shield
-19,Enchantment,Mythic,Urgent Age
-20,Creature,Common,Spider
-21,Creature,Common,Spider
-22,Spell,Rare,Corpse Gravitation
-23,Enchantment,Legendary,Angry Shield
-24,Creature,Common,Eagle
-25,Spell,Legendary,Intense Frenzy
-26,Spell,Rare,Necro Sorrow
-27,Creature,Rare,Light Undead Skin-Walker
-28,Spell,Common,Stricken
-29,Spell,Common,Heal
-30,Creature,Rare,Snow Merchant Minotaur
-31,Creature,Legendary,Frozen Warrior Oni of the Polar Woods
-32,Spell,Rare,Life Maelstrom
-33,Spell,Rare,Cataclysmic Pandemonium
-34,Enchantment,Mythic,Extreme Flight
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Apocalypse Age
-37,Creature,Common,Orc
-38,Creature,Common,Goblin
-39,Creature,Common,Magi
-40,Artifact,Common,Greaves
-41,Spell,Common,Ice
-42,Spell,Rare,Nature Pandemonium
-43,Enchantment,Rare,Necro Drain
-44,Creature,Common,Spider
+==================,DECK,5993
+0,Creature,Troll
+1,Enchantment,Invert
+2,Creature,Dark Ancient Demon of Illusion
+3,Spell,Freeze
+4,Enchantment,Agony
+5,Creature,Light Priest Griffin
+6,Spell,Assault
+7,Creature,Magi
+8,Creature,Berserker
+9,Spell,Instant Life Maelstrom
+10,Spell,Empyrean Nature Pandemonium
+11,Creature,Eagle
+12,Spell,Gale
+13,Creature,Berserker
+14,Creature,Paladin
+15,Enchantment,Lethargy
+16,Creature,Death Thief Giant of the Mountains
+17,Creature,Magi
+18,Enchantment,Shrink
+19,Enchantment,Mighty Nature Agony
+20,Creature,Paladin
+21,Creature,Paladin
+22,Spell,Corpse Gale
+23,Enchantment,Urgent Gloom Flight
+24,Creature,Eagle
+25,Spell,Ardent Nature Vortex
+26,Spell,Necro Infuriate
+27,Creature,Light Undead Orc
+28,Spell,Hypnosis
+29,Spell,Infuriate
+30,Creature,Snow Merchant Cyclops
+31,Creature,Frozen Warrior Oni of the Polar Woods
+32,Spell,Oblivion Pandemonium
+33,Spell,Lunar Burst
+34,Enchantment,Clever Lunar Shield
+35,Creature,Troll
+36,Enchantment,Victory Blight
+37,Creature,Spider
+38,Creature,Skin-Walker
+39,Creature,Fairy
+40,Artifact,Greaves
+41,Spell,Fury
+42,Spell,Hateful Burst
+43,Enchantment,Forged Agony
+44,Creature,Paladin

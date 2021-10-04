@@ -1,46 +1,46 @@
-==================,DECK,7150,Light
-0,Enchantment,Rare,Frigid Strength
-1,Creature,Common,Wolf
-2,Spell,Common,Sorrow
-3,Creature,Common,Wolf
-4,Spell,Common,Invisibility
-5,Enchantment,Common,Strength
-6,Artifact,Rare,Grim Bracers
-7,Creature,Common,Spider
-8,Artifact,Common,Tome
-9,Enchantment,Common,Strength
-10,Spell,Common,Revive
-11,Creature,Common,Warlock
-12,Creature,Common,Elf
-13,Creature,Common,Wolf
-14,Creature,Common,Paladin
-15,Spell,Common,Torment
-16,Creature,Legendary,Light Rogue Orge of the Swamp
-17,Spell,Common,Gale
-18,Artifact,Legendary,Clever Ghost Wand
-19,Enchantment,Legendary,Dire Blight
-20,Creature,Common,Orc
-21,Spell,Common,Infuriate
-22,Artifact,Common,Helm
-23,Creature,Common,Warlock
-24,Enchantment,Common,Lethargy
-25,Spell,Legendary,Intense Stricken
-26,Spell,Rare,Frigid Lightning
-27,Enchantment,Common,Invert
-28,Creature,Common,Elf
-29,Artifact,Rare,Hateful Gloves
-30,Artifact,Legendary,Instant Tome
-31,Creature,Common,Magi
-32,Enchantment,Rare,Corpse Agony
-33,Spell,Common,Assault
-34,Enchantment,Common,Shield
-35,Artifact,Common,Helm
-36,Enchantment,Common,Flight
-37,Creature,Rare,Frozen Knight Minotaur
-38,Spell,Common,Sorrow
-39,Creature,Common,Warlock
-40,Creature,Common,Eagle
-41,Creature,Mythic,Dark Grand Demon of Illusion
-42,Artifact,Rare,Oblivion Gloves
-43,Enchantment,Common,Agony
-44,Creature,Common,Ghoul
+==================,DECK,7150
+0,Enchantment,Nimble Blight
+1,Creature,Wolf
+2,Spell,Frenzy
+3,Creature,Wolf
+4,Spell,Sorrow
+5,Enchantment,Age
+6,Artifact,Frigid Bracers
+7,Creature,Paladin
+8,Artifact,Tome
+9,Enchantment,Drain
+10,Spell,Gravitation
+11,Creature,Berserker
+12,Creature,Warlock
+13,Creature,Wolf
+14,Creature,Troll
+15,Spell,Heal
+16,Creature,Light Rogue Elf of the Swamp
+17,Spell,Infuriate
+18,Artifact,Urgent Apocalypse Ghost Wand
+19,Enchantment,Potent Nimble Drain
+20,Creature,Spider
+21,Spell,Fire
+22,Artifact,Helm
+23,Creature,Berserker
+24,Enchantment,Shade
+25,Spell,Potent Hateful Burn
+26,Spell,Nimble Sorrow
+27,Enchantment,Shrink
+28,Creature,Warlock
+29,Artifact,Chimeric Gloves
+30,Artifact,Empyrean Forged Tome
+31,Creature,Fairy
+32,Enchantment,Corpse Lethargy
+33,Spell,Pandemonium
+34,Enchantment,Shrink
+35,Artifact,Helm
+36,Enchantment,Firebreath
+37,Creature,Frozen Knight Cyclops
+38,Spell,Reanimate
+39,Creature,Berserker
+40,Creature,Eagle
+41,Creature,Dark Grand Demon of Illusion
+42,Artifact,Oblivion Gloves
+43,Enchantment,Flight
+44,Creature,Ghoul

@@ -1,46 +1,46 @@
-==================,DECK,5218,Light
-0,Spell,Common,Fury
-1,Creature,Common,Spider
-2,Enchantment,Common,Lethargy
-3,Creature,Common,Elf
-4,Artifact,Common,Cloak
-5,Enchantment,Mythic,Intense Lethargy
-6,Spell,Common,Stun
-7,Creature,Rare,Frozen Queen Skin-Walker
-8,Creature,Legendary,Dark Lord Orge of the Bright Mountains
-9,Creature,Common,Goblin
-10,Artifact,Legendary,Potent Potion
-11,Creature,Common,Ghoul
-12,Enchantment,Common,Blight
-13,Creature,Rare,Frozen Knight Berserker
-14,Enchantment,Rare,Apocalypse Age
-15,Creature,Legendary,Snow Lord Giant of the Arctic Blizzards
-16,Spell,Legendary,Urgent Freeze
-17,Creature,Rare,Aura Thief Griffin
-18,Enchantment,Mythic,Intense Shade
-19,Creature,Rare,Death Merchant Skin-Walker
-20,Enchantment,Rare,Frigid Invert
-21,Creature,Common,Paladin
-22,Creature,Legendary,Aura Warrior Oni of the Black Stone
-23,Enchantment,Common,Agony
-24,Creature,Legendary,Dark Monk Kraken of the Border
-25,Enchantment,Common,Agony
-26,Enchantment,Common,Flight
-27,Artifact,Common,Cloak
-28,Creature,Rare,Death Thief Berserker
-29,Creature,Common,Magi
-30,Creature,Legendary,Death Rogue Orge of the Haven
-31,Enchantment,Common,Shade
-32,Creature,Common,Elf
-33,Creature,Common,Spider
-34,Creature,Common,Elf
-35,Enchantment,Mythic,Intense Invert
-36,Enchantment,Common,Agony
-37,Creature,Common,Dwarf
-38,Creature,Legendary,Dark Queen Kraken of the Bright Mountains
-39,Spell,Common,Ice
-40,Enchantment,Mythic,Urgent Shrink
-41,Artifact,Common,Bracers
-42,Creature,Common,Paladin
-43,Creature,Common,Dwarf
-44,Enchantment,Common,Flight
+==================,DECK,5218
+0,Spell,Pandemonium
+1,Creature,Paladin
+2,Enchantment,Shrink
+3,Creature,Warlock
+4,Artifact,Cloak
+5,Enchantment,Urgent Hateful Agony
+6,Spell,Torment
+7,Creature,Frozen Queen Orc
+8,Creature,Dark Lord Elf of the Bright Mountains
+9,Creature,Skin-Walker
+10,Artifact,Clever Nimble Potion
+11,Creature,Ghoul
+12,Enchantment,Invert
+13,Creature,Frozen Knight Goblin
+14,Enchantment,Victory Haste
+15,Creature,Snow Lord Dwarf of the Arctic Blizzards
+16,Spell,Instant Corpse Torment
+17,Creature,Aura Thief Griffin
+18,Enchantment,Instant Necro Strength
+19,Creature,Death Merchant Orc
+20,Enchantment,Oblivion Drain
+21,Creature,Troll
+22,Creature,Aura Warrior Oni of the Black Stone
+23,Enchantment,Deathgrip
+24,Creature,Dark Monk Ogre of the Border
+25,Enchantment,Invert
+26,Enchantment,Strength
+27,Artifact,Cloak
+28,Creature,Death Thief Goblin
+29,Creature,Fairy
+30,Creature,Death Rogue Elf of the Haven
+31,Enchantment,Agony
+32,Creature,Warlock
+33,Creature,Paladin
+34,Creature,Warlock
+35,Enchantment,Ardent Shimmering Lethargy
+36,Enchantment,Flight
+37,Creature,Magi
+38,Creature,Dark Queen Ogre of the Bright Mountains
+39,Spell,Maelstrom
+40,Enchantment,Empyrean Necro Age
+41,Artifact,Bracers
+42,Creature,Troll
+43,Creature,Magi
+44,Enchantment,Agony

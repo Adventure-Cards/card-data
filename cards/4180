@@ -1,46 +1,46 @@
-==================,DECK,4180,Strong
-0,Creature,Mythic,Light Grand Demon of the Sky
-1,Creature,Rare,Earth Warrior Minotaur
-2,Spell,Common,Wall
-3,Creature,Mythic,Light Chaos Wizard of the Sky
-4,Creature,Legendary,Earth Assassin Giant of the Eternal Land
-5,Creature,Rare,Earth Rogue Minotaur
-6,Creature,Common,Magi
-7,Creature,Legendary,Death Chaos Wizard of the Dead
-8,Enchantment,Mythic,Intense Deathgrip
-9,Creature,Mythic,Dark Grand Wizard of Illusion
-10,Enchantment,Common,Drain
-11,Spell,Common,Gale
-12,Spell,Rare,Forged Lightning
-13,Enchantment,Rare,Forged Agony
-14,Enchantment,Common,Alacrity
-15,Creature,Mythic,Snow Chaos Demon of Hate
-16,Enchantment,Common,Agony
-17,Creature,Mythic,Death Grand Demon of the Dead
-18,Creature,Legendary,Frozen Chaos Wizard of the Void
-19,Creature,Rare,Earth Undead Griffin
-20,Creature,Rare,Dark Assassin Minotaur
-21,Creature,Common,Paladin
-22,Spell,Legendary,Clever Invisibility
-23,Creature,Legendary,Snow Time Phoenix of Hate
-24,Creature,Rare,Aura Queen Skin-Walker
-25,Creature,Rare,Aura Queen Griffin
-26,Creature,Mythic,Frozen Ancient Wizard of the Void
-27,Enchantment,Legendary,Urgent Shield
-28,Spell,Mythic,Extreme Stun
-29,Creature,Rare,Earth Fighter Minotaur
-30,Creature,Rare,Aura Warrior Fairy
-31,Enchantment,Rare,Cataclysmic Blight
-32,Spell,Common,Burn
-33,Creature,Mythic,Earth Nameless Dragon of the Shadows
-34,Creature,Common,Warlock
-35,Enchantment,Common,Strength
-36,Artifact,Legendary,Urgent Scepter
-37,Artifact,Common,Divine Robe
-38,Enchantment,Common,Shrink
-39,Artifact,Rare,Forged Ghost Wand
-40,Creature,Common,Dwarf
-41,Artifact,Rare,Gloom Helm
-42,Creature,Common,Spider
-43,Creature,Legendary,Death Thief Kraken of the Border
-44,Spell,Rare,Dark Frenzy
+==================,DECK,4180
+0,Creature,Light Grand Demon of the Sky
+1,Creature,Earth Warrior Cyclops
+2,Spell,Maelstrom
+3,Creature,Light Chaos Wizard of the Sky
+4,Creature,Earth Assassin Dwarf of the Eternal Land
+5,Creature,Earth Rogue Cyclops
+6,Creature,Fairy
+7,Creature,Death Chaos Wizard of the Dead
+8,Enchantment,Mighty Shimmering Agony
+9,Creature,Dark Grand Wizard of Illusion
+10,Enchantment,Shrink
+11,Spell,Torment
+12,Spell,Chimeric Infuriate
+13,Enchantment,Miracle Flight
+14,Enchantment,Blight
+15,Creature,Snow Chaos Demon of Hate
+16,Enchantment,Invert
+17,Creature,Death Grand Demon of the Dead
+18,Creature,Frozen Chaos Wizard of the Void
+19,Creature,Earth Undead Griffin
+20,Creature,Dark Assassin Cyclops
+21,Creature,Troll
+22,Spell,Ardent Grim Burst
+23,Creature,Snow Time Phoenix of Hate
+24,Creature,Aura Queen Orc
+25,Creature,Aura Queen Griffin
+26,Creature,Frozen Ancient Wizard of the Void
+27,Enchantment,Ardent Nature Lethargy
+28,Spell,Zealous Chimeric Fire
+29,Creature,Earth Fighter Cyclops
+30,Creature,Aura Warrior Kraken
+31,Enchantment,Cataclysmic Shrink
+32,Spell,Pandemonium
+33,Creature,Earth Nameless Dragon of the Shadows
+34,Creature,Berserker
+35,Enchantment,Shade
+36,Artifact,Instant Nature Scepter
+37,Artifact,Divine Robe
+38,Enchantment,Lethargy
+39,Artifact,Dark Ghost Wand
+40,Creature,Magi
+41,Artifact,Miracle Helm
+42,Creature,Paladin
+43,Creature,Death Thief Ogre of the Border
+44,Spell,Dark Stricken

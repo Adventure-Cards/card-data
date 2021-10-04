@@ -1,46 +1,46 @@
-==================,DECK,6679,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Common,Drain
-2,Enchantment,Rare,Gloom Strength
-3,Spell,Rare,Life Hypnosis
-4,Artifact,Rare,Oblivion Scepter
-5,Spell,Mythic,Urgent Maelstrom
-6,Creature,Common,Paladin
-7,Creature,Common,Spider
-8,Spell,Common,Hypnosis
-9,Spell,Rare,Gloom Wall
-10,Creature,Rare,Frozen Warrior Griffin
-11,Spell,Rare,Cataclysmic Burn
-12,Creature,Rare,Dark King Fairy
-13,Creature,Common,Magi
-14,Enchantment,Common,Strength
-15,Enchantment,Rare,Hateful Flight
-16,Creature,Common,Spider
-17,Spell,Common,Gravitation
-18,Enchantment,Legendary,Angry Shield
-19,Enchantment,Common,Haste
-20,Spell,Rare,Nature Reanimate
-21,Enchantment,Rare,Miracle Shrink
-22,Spell,Legendary,Angry Sorrow
-23,Artifact,Rare,Lunar Ghost Wand
-24,Enchantment,Mythic,Instant Strength
-25,Creature,Common,Orc
-26,Enchantment,Legendary,Potent Invert
-27,Creature,Common,Dwarf
-28,Artifact,Common,Ghost Wand
-29,Creature,Mythic,Frozen Time Phoenix of the Void
-30,Creature,Common,Eagle
-31,Artifact,Common,Sword
-32,Enchantment,Mythic,Dire Strength
-33,Enchantment,Common,Haste
-34,Creature,Common,Wolf
-35,Creature,Common,Goblin
-36,Creature,Common,Spider
-37,Creature,Common,Magi
-38,Creature,Common,Elf
-39,Creature,Common,Spider
-40,Spell,Legendary,Mighty Gravitation
-41,Enchantment,Common,Age
-42,Artifact,Common,Boots
-43,Creature,Legendary,Aura Thief Oni of the Black Stone
-44,Creature,Rare,Death Priest Skin-Walker
+==================,DECK,6679
+0,Creature,Wolf
+1,Enchantment,Agony
+2,Enchantment,Cataclysmic Firebreath
+3,Spell,Apocalypse Fireball
+4,Artifact,Life Scepter
+5,Spell,Clever Necro Gale
+6,Creature,Troll
+7,Creature,Paladin
+8,Spell,Assault
+9,Spell,Dark Tempest
+10,Creature,Frozen Warrior Griffin
+11,Spell,Gloom Vortex
+12,Creature,Dark King Kraken
+13,Creature,Fairy
+14,Enchantment,Deathgrip
+15,Enchantment,Lunar Shrink
+16,Creature,Paladin
+17,Spell,Infuriate
+18,Enchantment,Dire Gloom Firebreath
+19,Enchantment,Blight
+20,Spell,Necro Freeze
+21,Enchantment,Frigid Blight
+22,Spell,Empyrean Cataclysmic Wall
+23,Artifact,Chimeric Ghost Wand
+24,Enchantment,Irate Solar Deathgrip
+25,Creature,Spider
+26,Enchantment,Ardent Oblivion Haste
+27,Creature,Magi
+28,Artifact,Ghost Wand
+29,Creature,Frozen Time Phoenix of the Void
+30,Creature,Eagle
+31,Artifact,Sword
+32,Enchantment,Urgent Nimble Invert
+33,Enchantment,Agony
+34,Creature,Wolf
+35,Creature,Skin-Walker
+36,Creature,Paladin
+37,Creature,Fairy
+38,Creature,Warlock
+39,Creature,Paladin
+40,Spell,Irate Dark Sorrow
+41,Enchantment,Agony
+42,Artifact,Boots
+43,Creature,Aura Thief Oni of the Black Stone
+44,Creature,Death Priest Orc

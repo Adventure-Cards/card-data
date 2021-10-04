@@ -1,46 +1,46 @@
-==================,DECK,6291,Medium
-0,Spell,Common,Sorrow
-1,Spell,Common,Maelstrom
-2,Spell,Common,Hypnosis
-3,Spell,Common,Invisibility
-4,Creature,Rare,Death Undead Hydra
-5,Creature,Rare,Frozen Rogue Skin-Walker
-6,Creature,Common,Wolf
-7,Creature,Legendary,Earth Priest Kraken of the Eternal Land
-8,Enchantment,Common,Flight
-9,Enchantment,Common,Shade
-10,Creature,Common,Eagle
-11,Artifact,Rare,Oblivion Shield
-12,Creature,Rare,Dark Thief Fairy
-13,Spell,Rare,Grim Assault
-14,Creature,Common,Eagle
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Magi
-17,Creature,Rare,Snow Warrior Hydra
-18,Enchantment,Common,Strength
-19,Creature,Common,Goblin
-20,Enchantment,Rare,Life Haste
-21,Creature,Rare,Frozen Monk Skin-Walker
-22,Creature,Common,Orc
-23,Spell,Common,Stun
-24,Artifact,Rare,Oblivion Cloak
-25,Enchantment,Rare,Miracle Shrink
-26,Spell,Rare,Shimmering Fury
-27,Artifact,Common,Ghost Wand
-28,Creature,Rare,Aura Warrior Griffin
-29,Creature,Mythic,Aura Grand Wizard of the Light
-30,Spell,Rare,Forged Torment
-31,Creature,Common,Paladin
-32,Creature,Rare,Earth Lord Griffin
-33,Spell,Mythic,Potent Freeze
-34,Creature,Common,Goblin
-35,Creature,Legendary,Aura Fighter Oni of the West
-36,Creature,Rare,Dark Monk Hydra
-37,Creature,Rare,Earth Fighter Minotaur
-38,Enchantment,Common,Strength
-39,Creature,Rare,Aura Priest Berserker
-40,Creature,Common,Elf
-41,Spell,Mythic,Extreme Gale
-42,Enchantment,Rare,Dark Shade
-43,Creature,Common,Paladin
-44,Creature,Common,Dwarf
+==================,DECK,6291
+0,Spell,Pandemonium
+1,Spell,Stricken
+2,Spell,Hypnosis
+3,Spell,Gravitation
+4,Creature,Death Undead Hydra
+5,Creature,Frozen Rogue Orc
+6,Creature,Wolf
+7,Creature,Earth Priest Ogre of the Eternal Land
+8,Enchantment,Blight
+9,Enchantment,Haste
+10,Creature,Eagle
+11,Artifact,Nimble Shield
+12,Creature,Dark Thief Kraken
+13,Spell,Apocalypse Torment
+14,Creature,Eagle
+15,Enchantment,Flight
+16,Creature,Fairy
+17,Creature,Snow Warrior Hydra
+18,Enchantment,Lethargy
+19,Creature,Skin-Walker
+20,Enchantment,Life Drain
+21,Creature,Frozen Monk Orc
+22,Creature,Spider
+23,Spell,Invisibility
+24,Artifact,Nimble Cloak
+25,Enchantment,Frigid Invert
+26,Spell,Necro Burst
+27,Artifact,Ghost Wand
+28,Creature,Aura Warrior Griffin
+29,Creature,Aura Grand Wizard of the Light
+30,Spell,Miracle Rage
+31,Creature,Troll
+32,Creature,Earth Lord Griffin
+33,Spell,Urgent Oblivion Stun
+34,Creature,Skin-Walker
+35,Creature,Aura Fighter Oni of the West
+36,Creature,Dark Monk Hydra
+37,Creature,Earth Fighter Cyclops
+38,Enchantment,Haste
+39,Creature,Aura Priest Goblin
+40,Creature,Warlock
+41,Spell,Mighty Dark Maelstrom
+42,Enchantment,Chimeric Alacrity
+43,Creature,Troll
+44,Creature,Magi

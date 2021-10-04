@@ -1,46 +1,46 @@
-==================,DECK,4504,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Strength
-2,Enchantment,Rare,Cataclysmic Drain
-3,Spell,Common,Freeze
-4,Creature,Common,Paladin
-5,Enchantment,Legendary,Extreme Flight
-6,Spell,Common,Torment
-7,Creature,Rare,Earth Fighter Hydra
-8,Spell,Rare,Apocalypse Reanimate
-9,Enchantment,Common,Haste
-10,Spell,Common,Infuriate
-11,Creature,Common,Wolf
-12,Spell,Common,Heal
-13,Artifact,Rare,Hateful Pendant
-14,Spell,Legendary,Potent Stricken
-15,Artifact,Common,Bow
-16,Enchantment,Common,Haste
-17,Enchantment,Legendary,Urgent Invert
-18,Creature,Common,Magi
-19,Spell,Rare,Forged Vortex
-20,Creature,Rare,Death Priest Fairy
-21,Creature,Rare,Dark Undead Hydra
-22,Creature,Common,Dwarf
-23,Spell,Common,Burst
-24,Artifact,Legendary,Potent Scythe
-25,Creature,Common,Orc
-26,Creature,Common,Wolf
-27,Creature,Common,Elf
-28,Creature,Common,Orc
-29,Creature,Common,Magi
-30,Artifact,Common,Bow
-31,Creature,Common,Goblin
-32,Spell,Common,Burst
-33,Enchantment,Rare,Life Haste
-34,Spell,Legendary,Dire Frost
-35,Enchantment,Common,Haste
-36,Enchantment,Legendary,Mighty Strength
-37,Creature,Rare,Light Lord Fairy
-38,Creature,Rare,Aura Assassin Minotaur
-39,Creature,Legendary,Snow King Oni of the Plains
-40,Enchantment,Common,Shade
-41,Creature,Common,Spider
-42,Spell,Rare,Necro Hypnosis
-43,Creature,Common,Warlock
-44,Creature,Common,Paladin
+==================,DECK,4504
+0,Creature,Eagle
+1,Enchantment,Drain
+2,Enchantment,Dark Shrink
+3,Spell,Maelstrom
+4,Creature,Troll
+5,Enchantment,Mighty Lunar Flight
+6,Spell,Torment
+7,Creature,Earth Fighter Hydra
+8,Spell,Apocalypse Heal
+9,Enchantment,Flight
+10,Spell,Stricken
+11,Creature,Wolf
+12,Spell,Burst
+13,Artifact,Chimeric Pendant
+14,Spell,Zealous Victory Heal
+15,Artifact,Bow
+16,Enchantment,Haste
+17,Enchantment,Dire Shimmering Age
+18,Creature,Fairy
+19,Spell,Lunar Invisibility
+20,Creature,Death Priest Kraken
+21,Creature,Dark Undead Hydra
+22,Creature,Magi
+23,Spell,Stricken
+24,Artifact,Dire Oblivion Scythe
+25,Creature,Spider
+26,Creature,Wolf
+27,Creature,Warlock
+28,Creature,Spider
+29,Creature,Fairy
+30,Artifact,Bow
+31,Creature,Skin-Walker
+32,Spell,Burst
+33,Enchantment,Life Haste
+34,Spell,Irate Frigid Torment
+35,Enchantment,Alacrity
+36,Enchantment,Urgent Cataclysmic Flight
+37,Creature,Light Lord Kraken
+38,Creature,Aura Assassin Cyclops
+39,Creature,Snow King Oni of the Plains
+40,Enchantment,Shield
+41,Creature,Paladin
+42,Spell,Forged Heal
+43,Creature,Berserker
+44,Creature,Troll

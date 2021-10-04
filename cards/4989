@@ -1,46 +1,46 @@
-==================,DECK,4989,Light
-0,Creature,Mythic,Light Undead Phoenix of the Sky
-1,Spell,Common,Wall
-2,Artifact,Common,Gauntlet
-3,Spell,Legendary,Extreme Heal
-4,Enchantment,Common,Flight
-5,Creature,Common,Dwarf
-6,Creature,Common,Goblin
-7,Creature,Common,Ghoul
-8,Creature,Common,Spider
-9,Artifact,Common,Pendant
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Death Lord Oni of the Bright Mountains
-12,Spell,Rare,Nature Sorrow
-13,Spell,Rare,Cataclysmic Pandemonium
-14,Creature,Common,Spider
-15,Spell,Common,Hypnosis
-16,Creature,Common,Eagle
-17,Spell,Common,Stricken
-18,Enchantment,Rare,Miracle Blight
-19,Spell,Common,Stricken
-20,Creature,Legendary,Light Merchant Cyclops of the Bright Mountains
-21,Creature,Common,Ghoul
-22,Spell,Common,Gravitation
-23,Enchantment,Common,Age
-24,Enchantment,Common,Strength
-25,Creature,Common,Dwarf
-26,Enchantment,Common,Shade
-27,Creature,Common,Goblin
-28,Creature,Common,Orc
-29,Spell,Common,Assault
-30,Creature,Common,Wolf
-31,Enchantment,Common,Drain
-32,Creature,Rare,Dark Priest Hydra
-33,Creature,Legendary,Snow Queen Giant of the Eastern Skies
-34,Spell,Legendary,Clever Frenzy
-35,Creature,Common,Orc
-36,Creature,Common,Orc
-37,Enchantment,Rare,Grim Shield
-38,Spell,Common,Wall
-39,Spell,Common,Lightning
-40,Spell,Rare,Cataclysmic Ice
-41,Creature,Rare,Light Warrior Skin-Walker
-42,Artifact,Common,Boots
-43,Creature,Common,Elf
-44,Creature,Legendary,Frozen Thief Cyclops of the Polar Woods
+==================,DECK,4989
+0,Creature,Light Undead Phoenix of the Sky
+1,Spell,Freeze
+2,Artifact,Gauntlet
+3,Spell,Urgent Miracle Wall
+4,Enchantment,Shade
+5,Creature,Magi
+6,Creature,Skin-Walker
+7,Creature,Ghoul
+8,Creature,Paladin
+9,Artifact,Pendant
+10,Creature,Ghoul
+11,Creature,Death Lord Oni of the Bright Mountains
+12,Spell,Hateful Invisibility
+13,Spell,Miracle Hypnosis
+14,Creature,Paladin
+15,Spell,Heal
+16,Creature,Eagle
+17,Spell,Assault
+18,Enchantment,Nimble Haste
+19,Spell,Ice
+20,Creature,Light Merchant Giant of the Bright Mountains
+21,Creature,Ghoul
+22,Spell,Stricken
+23,Enchantment,Agony
+24,Enchantment,Lethargy
+25,Creature,Magi
+26,Enchantment,Shield
+27,Creature,Skin-Walker
+28,Creature,Spider
+29,Spell,Fireball
+30,Creature,Wolf
+31,Enchantment,Blight
+32,Creature,Dark Priest Hydra
+33,Creature,Snow Queen Dwarf of the Eastern Skies
+34,Spell,Instant Grim Freeze
+35,Creature,Spider
+36,Creature,Spider
+37,Enchantment,Victory Shade
+38,Spell,Gale
+39,Spell,Stun
+40,Spell,Gloom Torment
+41,Creature,Light Warrior Orc
+42,Artifact,Boots
+43,Creature,Warlock
+44,Creature,Frozen Thief Giant of the Polar Woods

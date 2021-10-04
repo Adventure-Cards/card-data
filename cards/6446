@@ -1,46 +1,46 @@
-==================,DECK,6446,Light
-0,Spell,Common,Invisibility
-1,Artifact,Rare,Oblivion Sword
-2,Creature,Common,Spider
-3,Artifact,Common,Tome
-4,Enchantment,Common,Alacrity
-5,Spell,Rare,Frigid Invisibility
-6,Creature,Common,Warlock
-7,Spell,Common,Torment
-8,Spell,Rare,Nimble Frenzy
-9,Creature,Legendary,Frozen King Giant of the Swamp
-10,Creature,Common,Spider
-11,Enchantment,Common,Alacrity
-12,Creature,Legendary,Light Assassin Giant of the Black Stone
-13,Creature,Common,Eagle
-14,Spell,Common,Stricken
-15,Creature,Common,Ghoul
-16,Enchantment,Common,Blight
-17,Creature,Common,Eagle
-18,Spell,Common,Invisibility
-19,Creature,Rare,Light Knight Griffin
-20,Enchantment,Common,Invert
-21,Artifact,Rare,Dark Amulet
-22,Spell,Legendary,Clever Stricken
-23,Creature,Common,Eagle
-24,Enchantment,Common,Drain
-25,Enchantment,Common,Flight
-26,Enchantment,Common,Drain
-27,Creature,Common,Ghoul
-28,Creature,Common,Elf
-29,Creature,Legendary,Dark Fighter Cyclops of the Bright Mountains
-30,Enchantment,Common,Lethargy
-31,Spell,Rare,Shimmering Fury
-32,Creature,Rare,Dark Knight Griffin
-33,Creature,Common,Elf
-34,Creature,Rare,Death Monk Minotaur
-35,Spell,Common,Burst
-36,Creature,Rare,Aura Merchant Minotaur
-37,Creature,Common,Magi
-38,Enchantment,Common,Shrink
-39,Enchantment,Common,Shade
-40,Artifact,Rare,Grim Potion
-41,Enchantment,Common,Lethargy
-42,Enchantment,Common,Deathgrip
-43,Creature,Legendary,Aura Warrior Orge of the West
-44,Spell,Legendary,Mighty Revive
+==================,DECK,6446
+0,Spell,Stricken
+1,Artifact,Nimble Sword
+2,Creature,Paladin
+3,Artifact,Tome
+4,Enchantment,Strength
+5,Spell,Grim Burst
+6,Creature,Berserker
+7,Spell,Vortex
+8,Spell,Shimmering Torment
+9,Creature,Frozen King Dwarf of the Swamp
+10,Creature,Paladin
+11,Enchantment,Age
+12,Creature,Light Assassin Dwarf of the Black Stone
+13,Creature,Eagle
+14,Spell,Lightning
+15,Creature,Ghoul
+16,Enchantment,Age
+17,Creature,Eagle
+18,Spell,Reanimate
+19,Creature,Light Knight Griffin
+20,Enchantment,Shade
+21,Artifact,Dark Amulet
+22,Spell,Potent Frigid Gale
+23,Creature,Eagle
+24,Enchantment,Shade
+25,Enchantment,Flight
+26,Enchantment,Firebreath
+27,Creature,Ghoul
+28,Creature,Warlock
+29,Creature,Dark Fighter Giant of the Bright Mountains
+30,Enchantment,Drain
+31,Spell,Nature Heal
+32,Creature,Dark Knight Griffin
+33,Creature,Warlock
+34,Creature,Death Monk Cyclops
+35,Spell,Heal
+36,Creature,Aura Merchant Cyclops
+37,Creature,Fairy
+38,Enchantment,Firebreath
+39,Enchantment,Shield
+40,Artifact,Apocalypse Potion
+41,Enchantment,Blight
+42,Enchantment,Blight
+43,Creature,Aura Warrior Elf of the West
+44,Spell,Irate Gloom Ice

@@ -1,46 +1,46 @@
-==================,DECK,6678,Light
-0,Spell,Common,Gale
-1,Creature,Common,Paladin
-2,Spell,Common,Pandemonium
-3,Creature,Common,Warlock
-4,Enchantment,Common,Blight
-5,Artifact,Rare,Miracle Divine Robe
-6,Enchantment,Legendary,Intense Haste
-7,Spell,Common,Lightning
-8,Creature,Common,Spider
-9,Creature,Common,Goblin
-10,Artifact,Common,Gauntlet
-11,Enchantment,Mythic,Clever Deathgrip
-12,Artifact,Common,Staff
-13,Creature,Common,Eagle
-14,Spell,Common,Fury
-15,Creature,Common,Ghoul
-16,Creature,Common,Dwarf
-17,Creature,Common,Eagle
-18,Creature,Legendary,Light Knight Cyclops of the Swamp
-19,Spell,Common,Vortex
-20,Creature,Common,Dwarf
-21,Creature,Common,Dwarf
-22,Spell,Rare,Cataclysmic Fury
-23,Creature,Rare,Death Priest Hydra
-24,Creature,Common,Paladin
-25,Spell,Common,Sorrow
-26,Creature,Common,Eagle
-27,Creature,Common,Magi
-28,Artifact,Rare,Grim Gloves
-29,Spell,Common,Lightning
-30,Creature,Common,Orc
-31,Creature,Common,Spider
-32,Spell,Common,Ice
-33,Enchantment,Common,Age
-34,Spell,Legendary,Clever Invisibility
-35,Enchantment,Common,Drain
-36,Creature,Common,Goblin
-37,Spell,Legendary,Mighty Lightning
-38,Enchantment,Common,Alacrity
-39,Spell,Rare,Forged Frenzy
-40,Creature,Common,Eagle
-41,Creature,Rare,Aura Undead Minotaur
-42,Creature,Common,Warlock
-43,Artifact,Common,Potion
-44,Creature,Mythic,Earth Ancient Wizard of the Shadows
+==================,DECK,6678
+0,Spell,Frenzy
+1,Creature,Troll
+2,Spell,Gale
+3,Creature,Berserker
+4,Enchantment,Blight
+5,Artifact,Grim Divine Robe
+6,Enchantment,Empyrean Corpse Age
+7,Spell,Infuriate
+8,Creature,Paladin
+9,Creature,Skin-Walker
+10,Artifact,Gauntlet
+11,Enchantment,Empyrean Oblivion Shade
+12,Artifact,Staff
+13,Creature,Eagle
+14,Spell,Assault
+15,Creature,Ghoul
+16,Creature,Magi
+17,Creature,Eagle
+18,Creature,Light Knight Giant of the Swamp
+19,Spell,Pandemonium
+20,Creature,Magi
+21,Creature,Magi
+22,Spell,Miracle Stricken
+23,Creature,Death Priest Hydra
+24,Creature,Troll
+25,Spell,Stricken
+26,Creature,Eagle
+27,Creature,Fairy
+28,Artifact,Frigid Gloves
+29,Spell,Pandemonium
+30,Creature,Spider
+31,Creature,Paladin
+32,Spell,Tempest
+33,Enchantment,Firebreath
+34,Spell,Urgent Life Fury
+35,Enchantment,Shield
+36,Creature,Skin-Walker
+37,Spell,Ardent Chimeric Assault
+38,Enchantment,Shade
+39,Spell,Sorrow Reanimate
+40,Creature,Eagle
+41,Creature,Aura Undead Cyclops
+42,Creature,Berserker
+43,Artifact,Potion
+44,Creature,Earth Ancient Wizard of the Shadows

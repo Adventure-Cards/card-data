@@ -1,46 +1,46 @@
-==================,DECK,4460,Light
-0,Enchantment,Common,Shade
-1,Creature,Rare,Aura Monk Minotaur
-2,Creature,Common,Warlock
-3,Creature,Common,Paladin
-4,Artifact,Common,Helmet
-5,Creature,Common,Eagle
-6,Enchantment,Rare,Cataclysmic Blight
-7,Enchantment,Rare,Shimmering Shrink
-8,Artifact,Common,Ring
-9,Spell,Common,Assault
-10,Creature,Common,Dwarf
-11,Enchantment,Common,Shrink
-12,Spell,Common,Frenzy
-13,Creature,Rare,Aura Warrior Griffin
-14,Creature,Rare,Aura Priest Minotaur
-15,Enchantment,Common,Lethargy
-16,Spell,Common,Wall
-17,Enchantment,Mythic,Extreme Shrink
-18,Enchantment,Common,Lethargy
-19,Enchantment,Rare,Solar Lethargy
-20,Artifact,Common,Scythe
-21,Creature,Legendary,Snow Thief Kraken of the Polar Woods
-22,Enchantment,Legendary,Dire Invert
-23,Creature,Common,Goblin
-24,Creature,Common,Goblin
-25,Artifact,Rare,Corpse Ghost Wand
-26,Creature,Common,Goblin
-27,Creature,Common,Elf
-28,Enchantment,Rare,Forged Invert
-29,Creature,Common,Orc
-30,Enchantment,Common,Age
-31,Spell,Common,Ice
-32,Creature,Legendary,Frozen Knight Kraken of the Haven
-33,Creature,Rare,Frozen King Griffin
-34,Artifact,Common,Sword
-35,Creature,Mythic,Light Chaos Wizard of the Sky
-36,Spell,Rare,Apocalypse Maelstrom
-37,Creature,Legendary,Light Monk Giant of the Low Hills
-38,Creature,Common,Dwarf
-39,Enchantment,Mythic,Angry Shield
-40,Creature,Common,Dwarf
-41,Creature,Common,Spider
-42,Creature,Common,Eagle
-43,Creature,Legendary,Light Priest Giant of the Plains
-44,Creature,Common,Warlock
+==================,DECK,4460
+0,Enchantment,Strength
+1,Creature,Aura Monk Cyclops
+2,Creature,Berserker
+3,Creature,Troll
+4,Artifact,Helmet
+5,Creature,Eagle
+6,Enchantment,Cataclysmic Flight
+7,Enchantment,Necro Deathgrip
+8,Artifact,Ring
+9,Spell,Freeze
+10,Creature,Magi
+11,Enchantment,Shade
+12,Spell,Frost
+13,Creature,Aura Warrior Griffin
+14,Creature,Aura Priest Cyclops
+15,Enchantment,Lethargy
+16,Spell,Tempest
+17,Enchantment,Potent Chimeric Shrink
+18,Enchantment,Drain
+19,Enchantment,Hateful Strength
+20,Artifact,Scythe
+21,Creature,Snow Thief Ogre of the Polar Woods
+22,Enchantment,Instant Oblivion Drain
+23,Creature,Skin-Walker
+24,Creature,Skin-Walker
+25,Artifact,Nature Ghost Wand
+26,Creature,Skin-Walker
+27,Creature,Warlock
+28,Enchantment,Sorrow Alacrity
+29,Creature,Spider
+30,Enchantment,Firebreath
+31,Spell,Ice
+32,Creature,Frozen Knight Ogre of the Haven
+33,Creature,Frozen King Griffin
+34,Artifact,Sword
+35,Creature,Light Chaos Wizard of the Sky
+36,Spell,Frigid Rage
+37,Creature,Light Monk Dwarf of the Low Hills
+38,Creature,Magi
+39,Enchantment,Instant Gloom Shrink
+40,Creature,Magi
+41,Creature,Paladin
+42,Creature,Eagle
+43,Creature,Light Priest Dwarf of the Plains
+44,Creature,Berserker

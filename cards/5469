@@ -1,46 +1,46 @@
-==================,DECK,5469,Medium
-0,Spell,Common,Reanimate
-1,Creature,Mythic,Dark Time Dragon of Illusion
-2,Creature,Rare,Aura Priest Hydra
-3,Creature,Common,Spider
-4,Artifact,Common,Ghost Wand
-5,Creature,Rare,Light Priest Hydra
-6,Enchantment,Rare,Hateful Age
-7,Enchantment,Common,Shade
-8,Creature,Rare,Snow Knight Skin-Walker
-9,Creature,Rare,Aura Fighter Skin-Walker
-10,Enchantment,Common,Blight
-11,Enchantment,Legendary,Dire Alacrity
-12,Creature,Legendary,Dark Undead Kraken of the Bright Mountains
-13,Artifact,Rare,Solar Sigil
-14,Creature,Rare,Snow Fighter Minotaur
-15,Spell,Rare,Forged Vortex
-16,Creature,Legendary,Snow Lord Orge of the Haven
-17,Creature,Legendary,Aura Queen Kraken of the Black Stone
-18,Spell,Common,Stun
-19,Enchantment,Common,Shield
-20,Creature,Common,Goblin
-21,Enchantment,Rare,Grim Shade
-22,Artifact,Rare,Gloom Sword
-23,Creature,Rare,Dark Queen Griffin
-24,Artifact,Common,Gauntlet
-25,Spell,Legendary,Mighty Fury
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Magi
-28,Creature,Common,Wolf
-29,Creature,Rare,Snow Undead Hydra
-30,Creature,Common,Paladin
-31,Spell,Common,Frost
-32,Spell,Common,Heal
-33,Spell,Common,Wall
-34,Artifact,Rare,Grim Divine Robe
-35,Creature,Common,Paladin
-36,Enchantment,Common,Shade
-37,Spell,Rare,Frigid Gravitation
-38,Artifact,Legendary,Mighty Cloak
-39,Creature,Common,Goblin
-40,Enchantment,Common,Blight
-41,Spell,Rare,Shimmering Pandemonium
-42,Creature,Common,Magi
-43,Artifact,Common,Sigil
-44,Spell,Common,Hypnosis
+==================,DECK,5469
+0,Spell,Assault
+1,Creature,Dark Time Dragon of Illusion
+2,Creature,Aura Priest Hydra
+3,Creature,Paladin
+4,Artifact,Ghost Wand
+5,Creature,Light Priest Hydra
+6,Enchantment,Gloom Shield
+7,Enchantment,Alacrity
+8,Creature,Snow Knight Orc
+9,Creature,Aura Fighter Orc
+10,Enchantment,Deathgrip
+11,Enchantment,Ardent Apocalypse Haste
+12,Creature,Dark Undead Ogre of the Bright Mountains
+13,Artifact,Hateful Sigil
+14,Creature,Snow Fighter Cyclops
+15,Spell,Chimeric Stricken
+16,Creature,Snow Lord Elf of the Haven
+17,Creature,Aura Queen Ogre of the Black Stone
+18,Spell,Heal
+19,Enchantment,Flight
+20,Creature,Skin-Walker
+21,Enchantment,Frigid Haste
+22,Artifact,Lunar Sword
+23,Creature,Dark Queen Griffin
+24,Artifact,Gauntlet
+25,Spell,Clever Dark Revive
+26,Enchantment,Haste
+27,Creature,Fairy
+28,Creature,Wolf
+29,Creature,Snow Undead Hydra
+30,Creature,Troll
+31,Spell,Burst
+32,Spell,Gravitation
+33,Spell,Maelstrom
+34,Artifact,Nimble Divine Robe
+35,Creature,Troll
+36,Enchantment,Strength
+37,Spell,Victory Stun
+38,Artifact,Clever Chimeric Cloak
+39,Creature,Skin-Walker
+40,Enchantment,Alacrity
+41,Spell,Shimmering Rage
+42,Creature,Fairy
+43,Artifact,Sigil
+44,Spell,Freeze

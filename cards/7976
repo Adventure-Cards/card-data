@@ -1,46 +1,46 @@
-==================,DECK,7976,Light
-0,Artifact,Common,Helmet
-1,Creature,Common,Magi
-2,Spell,Legendary,Potent Revive
-3,Enchantment,Rare,Grim Agony
-4,Spell,Rare,Necro Infuriate
-5,Creature,Common,Orc
-6,Spell,Rare,Forged Torment
-7,Enchantment,Rare,Lunar Blight
-8,Enchantment,Rare,Life Flight
-9,Creature,Common,Ghoul
-10,Enchantment,Rare,Miracle Haste
-11,Enchantment,Common,Shrink
-12,Artifact,Rare,Nimble Tome
-13,Enchantment,Rare,Gloom Invert
-14,Creature,Common,Wolf
-15,Creature,Legendary,Dark Merchant Orge of the Black Stone
-16,Spell,Common,Stricken
-17,Spell,Rare,Solar Torment
-18,Spell,Common,Gale
-19,Creature,Rare,Frozen Lord Griffin
-20,Creature,Common,Paladin
-21,Enchantment,Common,Shrink
-22,Creature,Mythic,Aura Time Phoenix of the Light
-23,Spell,Rare,Nimble Rage
-24,Spell,Rare,Nimble Wall
-25,Spell,Common,Revive
-26,Spell,Legendary,Extreme Assault
-27,Creature,Rare,Dark Undead Hydra
-28,Creature,Common,Magi
-29,Creature,Legendary,Earth Assassin Oni of the Swamp
-30,Creature,Rare,Aura Queen Minotaur
-31,Artifact,Common,Ring
-32,Creature,Common,Spider
-33,Spell,Common,Ice
-34,Creature,Common,Ghoul
-35,Spell,Common,Stun
-36,Spell,Common,Frost
-37,Creature,Rare,Dark Monk Hydra
-38,Creature,Common,Paladin
-39,Artifact,Rare,Hateful Pendant
-40,Artifact,Rare,Necro Greaves
-41,Artifact,Common,Greaves
-42,Creature,Common,Orc
-43,Enchantment,Common,Flight
-44,Creature,Common,Eagle
+==================,DECK,7976
+0,Artifact,Helmet
+1,Creature,Fairy
+2,Spell,Dire Victory Invisibility
+3,Enchantment,Life Shade
+4,Spell,Forged Stricken
+5,Creature,Spider
+6,Spell,Dark Rage
+7,Enchantment,Cataclysmic Alacrity
+8,Enchantment,Grim Blight
+9,Creature,Ghoul
+10,Enchantment,Life Blight
+11,Enchantment,Age
+12,Artifact,Nature Tome
+13,Enchantment,Sorrow Alacrity
+14,Creature,Wolf
+15,Creature,Dark Merchant Elf of the Black Stone
+16,Spell,Fire
+17,Spell,Necro Sorrow
+18,Spell,Burst
+19,Creature,Frozen Lord Griffin
+20,Creature,Troll
+21,Enchantment,Flight
+22,Creature,Aura Time Phoenix of the Light
+23,Spell,Necro Assault
+24,Spell,Corpse Gale
+25,Spell,Pandemonium
+26,Spell,Dire Dark Invisibility
+27,Creature,Dark Undead Hydra
+28,Creature,Fairy
+29,Creature,Earth Assassin Oni of the Swamp
+30,Creature,Aura Queen Cyclops
+31,Artifact,Ring
+32,Creature,Paladin
+33,Spell,Hypnosis
+34,Creature,Ghoul
+35,Spell,Wall
+36,Spell,Sorrow
+37,Creature,Dark Monk Hydra
+38,Creature,Troll
+39,Artifact,Chimeric Pendant
+40,Artifact,Hateful Greaves
+41,Artifact,Greaves
+42,Creature,Spider
+43,Enchantment,Deathgrip
+44,Creature,Eagle

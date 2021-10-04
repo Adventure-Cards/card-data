@@ -1,46 +1,46 @@
-==================,DECK,6499,Light
-0,Creature,Common,Magi
-1,Spell,Common,Revive
-2,Enchantment,Common,Shade
-3,Enchantment,Rare,Hateful Drain
-4,Enchantment,Rare,Grim Agony
-5,Enchantment,Common,Lethargy
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Spell,Rare,Dark Heal
-9,Spell,Rare,Hateful Maelstrom
-10,Creature,Common,Paladin
-11,Enchantment,Legendary,Urgent Blight
-12,Enchantment,Common,Flight
-13,Creature,Common,Eagle
-14,Creature,Mythic,Death Grand Wizard of the Dead
-15,Creature,Common,Paladin
-16,Creature,Common,Dwarf
-17,Artifact,Common,Belt
-18,Creature,Common,Warlock
-19,Artifact,Common,Ring
-20,Enchantment,Mythic,Mighty Flight
-21,Creature,Rare,Death Lord Berserker
-22,Spell,Common,Stun
-23,Creature,Common,Elf
-24,Enchantment,Common,Shield
-25,Spell,Common,Wall
-26,Creature,Common,Orc
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Ghoul
-29,Creature,Common,Ghoul
-30,Spell,Legendary,Instant Rage
-31,Creature,Common,Orc
-32,Creature,Common,Magi
-33,Spell,Rare,Life Gale
-34,Enchantment,Mythic,Mighty Shield
-35,Creature,Common,Spider
-36,Creature,Common,Paladin
-37,Artifact,Common,Helmet
-38,Enchantment,Common,Age
-39,Creature,Rare,Dark Monk Minotaur
-40,Creature,Legendary,Earth Thief Cyclops of the West
-41,Creature,Common,Ghoul
-42,Enchantment,Common,Blight
-43,Creature,Rare,Earth Undead Skin-Walker
-44,Enchantment,Common,Blight
+==================,DECK,6499
+0,Creature,Fairy
+1,Spell,Hypnosis
+2,Enchantment,Strength
+3,Enchantment,Dark Flight
+4,Enchantment,Life Invert
+5,Enchantment,Agony
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Spell,Dark Wall
+9,Spell,Dark Invisibility
+10,Creature,Troll
+11,Enchantment,Empyrean Solar Age
+12,Enchantment,Flight
+13,Creature,Eagle
+14,Creature,Death Grand Wizard of the Dead
+15,Creature,Troll
+16,Creature,Magi
+17,Artifact,Belt
+18,Creature,Berserker
+19,Artifact,Ring
+20,Enchantment,Mighty Lunar Flight
+21,Creature,Death Lord Goblin
+22,Spell,Gravitation
+23,Creature,Warlock
+24,Enchantment,Drain
+25,Spell,Wall
+26,Creature,Spider
+27,Enchantment,Shield
+28,Creature,Ghoul
+29,Creature,Ghoul
+30,Spell,Instant Necro Pandemonium
+31,Creature,Spider
+32,Creature,Fairy
+33,Spell,Oblivion Pandemonium
+34,Enchantment,Irate Gloom Alacrity
+35,Creature,Paladin
+36,Creature,Troll
+37,Artifact,Helmet
+38,Enchantment,Age
+39,Creature,Dark Monk Cyclops
+40,Creature,Earth Thief Giant of the West
+41,Creature,Ghoul
+42,Enchantment,Deathgrip
+43,Creature,Earth Undead Orc
+44,Enchantment,Invert

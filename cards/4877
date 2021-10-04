@@ -1,46 +1,46 @@
-==================,DECK,4877,Light
-0,Spell,Rare,Cataclysmic Stricken
-1,Creature,Rare,Aura Queen Skin-Walker
-2,Creature,Common,Orc
-3,Enchantment,Common,Flight
-4,Creature,Common,Paladin
-5,Creature,Common,Warlock
-6,Creature,Common,Dwarf
-7,Creature,Rare,Snow Assassin Fairy
-8,Artifact,Rare,Apocalypse Scepter
-9,Spell,Common,Revive
-10,Creature,Common,Orc
-11,Creature,Common,Ghoul
-12,Creature,Common,Ghoul
-13,Creature,Common,Dwarf
-14,Enchantment,Common,Age
-15,Creature,Common,Orc
-16,Creature,Common,Magi
-17,Spell,Common,Frost
-18,Creature,Common,Orc
-19,Artifact,Common,Greaves
-20,Creature,Common,Dwarf
-21,Artifact,Common,Staff
-22,Creature,Common,Paladin
-23,Creature,Common,Goblin
-24,Creature,Common,Orc
-25,Creature,Common,Orc
-26,Enchantment,Common,Drain
-27,Creature,Common,Dwarf
-28,Creature,Common,Goblin
-29,Creature,Rare,Aura King Griffin
-30,Creature,Rare,Dark Knight Griffin
-31,Enchantment,Rare,Lunar Deathgrip
-32,Creature,Common,Paladin
-33,Creature,Common,Wolf
-34,Spell,Common,Maelstrom
-35,Creature,Rare,Light Merchant Fairy
-36,Creature,Common,Spider
-37,Artifact,Rare,Nature Potion
-38,Spell,Common,Freeze
-39,Spell,Legendary,Potent Burst
-40,Creature,Rare,Light Assassin Minotaur
-41,Creature,Common,Warlock
-42,Creature,Common,Ghoul
-43,Creature,Common,Magi
-44,Spell,Common,Burst
+==================,DECK,4877
+0,Spell,Cataclysmic Reanimate
+1,Creature,Aura Queen Orc
+2,Creature,Spider
+3,Enchantment,Lethargy
+4,Creature,Troll
+5,Creature,Berserker
+6,Creature,Magi
+7,Creature,Snow Assassin Kraken
+8,Artifact,Oblivion Scepter
+9,Spell,Invisibility
+10,Creature,Spider
+11,Creature,Ghoul
+12,Creature,Ghoul
+13,Creature,Magi
+14,Enchantment,Lethargy
+15,Creature,Spider
+16,Creature,Fairy
+17,Spell,Tempest
+18,Creature,Spider
+19,Artifact,Greaves
+20,Creature,Magi
+21,Artifact,Staff
+22,Creature,Troll
+23,Creature,Skin-Walker
+24,Creature,Spider
+25,Creature,Spider
+26,Enchantment,Shade
+27,Creature,Magi
+28,Creature,Skin-Walker
+29,Creature,Aura King Griffin
+30,Creature,Dark Knight Griffin
+31,Enchantment,Sorrow Shrink
+32,Creature,Troll
+33,Creature,Wolf
+34,Spell,Heal
+35,Creature,Light Merchant Kraken
+36,Creature,Paladin
+37,Artifact,Nature Potion
+38,Spell,Tempest
+39,Spell,Clever Oblivion Ice
+40,Creature,Light Assassin Cyclops
+41,Creature,Berserker
+42,Creature,Ghoul
+43,Creature,Fairy
+44,Spell,Vortex

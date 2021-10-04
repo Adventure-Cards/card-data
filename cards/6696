@@ -1,46 +1,46 @@
-==================,DECK,6696,Medium
-0,Creature,Rare,Earth Undead Berserker
-1,Creature,Legendary,Earth Warrior Oni of the Bright Mountains
-2,Creature,Common,Paladin
-3,Creature,Legendary,Earth Priest Cyclops of the Arctic Blizzards
-4,Spell,Common,Fury
-5,Creature,Legendary,Dark Rogue Kraken of the Eternal Land
-6,Spell,Common,Maelstrom
-7,Enchantment,Common,Agony
-8,Enchantment,Common,Invert
-9,Creature,Common,Orc
-10,Creature,Rare,Earth Knight Minotaur
-11,Creature,Common,Dwarf
-12,Creature,Common,Paladin
-13,Creature,Rare,Light Fighter Berserker
-14,Enchantment,Common,Lethargy
-15,Creature,Rare,Snow Warrior Griffin
-16,Spell,Legendary,Clever Pandemonium
-17,Spell,Mythic,Mighty Maelstrom
-18,Creature,Legendary,Frozen Knight Giant of the Bright Mountains
-19,Spell,Common,Torment
-20,Artifact,Common,Pendant
-21,Enchantment,Mythic,Extreme Alacrity
-22,Spell,Common,Frenzy
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Miracle Shrink
-25,Spell,Rare,Shimmering Gale
-26,Enchantment,Rare,Dark Strength
-27,Spell,Rare,Shimmering Reanimate
-28,Creature,Rare,Snow Fighter Hydra
-29,Spell,Common,Sorrow
-30,Spell,Common,Burst
-31,Enchantment,Common,Shade
-32,Creature,Rare,Aura Lord Skin-Walker
-33,Creature,Rare,Dark King Berserker
-34,Creature,Rare,Light King Fairy
-35,Creature,Legendary,Aura Merchant Orge of the Arctic Blizzards
-36,Creature,Common,Magi
-37,Enchantment,Common,Shield
-38,Spell,Rare,Grim Torment
-39,Creature,Rare,Frozen Queen Fairy
-40,Creature,Common,Warlock
-41,Creature,Common,Paladin
-42,Creature,Rare,Earth Knight Griffin
-43,Creature,Common,Paladin
-44,Spell,Common,Revive
+==================,DECK,6696
+0,Creature,Earth Undead Goblin
+1,Creature,Earth Warrior Oni of the Bright Mountains
+2,Creature,Troll
+3,Creature,Earth Priest Giant of the Arctic Blizzards
+4,Spell,Burn
+5,Creature,Dark Rogue Ogre of the Eternal Land
+6,Spell,Wall
+7,Enchantment,Strength
+8,Enchantment,Alacrity
+9,Creature,Spider
+10,Creature,Earth Knight Cyclops
+11,Creature,Magi
+12,Creature,Troll
+13,Creature,Light Fighter Goblin
+14,Enchantment,Alacrity
+15,Creature,Snow Warrior Griffin
+16,Spell,Empyrean Nimble Stricken
+17,Spell,Mighty Lunar Gravitation
+18,Creature,Frozen Knight Dwarf of the Bright Mountains
+19,Spell,Gravitation
+20,Artifact,Pendant
+21,Enchantment,Dire Dark Firebreath
+22,Spell,Frost
+23,Creature,Magi
+24,Enchantment,Frigid Drain
+25,Spell,Forged Freeze
+26,Enchantment,Cataclysmic Firebreath
+27,Spell,Solar Freeze
+28,Creature,Snow Fighter Hydra
+29,Spell,Vortex
+30,Spell,Infuriate
+31,Enchantment,Blight
+32,Creature,Aura Lord Orc
+33,Creature,Dark King Goblin
+34,Creature,Light King Kraken
+35,Creature,Aura Merchant Elf of the Arctic Blizzards
+36,Creature,Fairy
+37,Enchantment,Agony
+38,Spell,Apocalypse Heal
+39,Creature,Frozen Queen Kraken
+40,Creature,Berserker
+41,Creature,Troll
+42,Creature,Earth Knight Griffin
+43,Creature,Troll
+44,Spell,Ice

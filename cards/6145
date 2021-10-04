@@ -1,46 +1,46 @@
-==================,DECK,6145,Light
-0,Spell,Common,Fury
-1,Creature,Common,Orc
-2,Creature,Legendary,Frozen Queen Giant of the Mountains
-3,Enchantment,Common,Agony
-4,Creature,Common,Wolf
-5,Artifact,Rare,Nature Boots
-6,Enchantment,Rare,Dark Lethargy
-7,Enchantment,Rare,Shimmering Haste
-8,Spell,Common,Stricken
-9,Spell,Common,Gale
-10,Artifact,Rare,Apocalypse Amulet
-11,Creature,Common,Eagle
-12,Artifact,Common,Tome
-13,Spell,Common,Pandemonium
-14,Spell,Rare,Hateful Infuriate
-15,Enchantment,Mythic,Angry Lethargy
-16,Enchantment,Common,Invert
-17,Creature,Common,Wolf
-18,Creature,Common,Spider
-19,Spell,Common,Stun
-20,Creature,Common,Wolf
-21,Spell,Common,Maelstrom
-22,Artifact,Common,Ring
-23,Artifact,Rare,Oblivion Pendant
-24,Artifact,Rare,Miracle Gauntlet
-25,Creature,Rare,Aura Lord Griffin
-26,Creature,Common,Ghoul
-27,Artifact,Common,Gauntlet
-28,Creature,Common,Paladin
-29,Artifact,Common,Bow
-30,Enchantment,Common,Flight
-31,Enchantment,Common,Strength
-32,Creature,Common,Elf
-33,Creature,Common,Orc
-34,Spell,Common,Heal
-35,Artifact,Rare,Hateful Cloak
-36,Creature,Common,Dwarf
-37,Creature,Common,Orc
-38,Spell,Common,Revive
-39,Creature,Rare,Dark Warrior Minotaur
-40,Creature,Common,Wolf
-41,Enchantment,Common,Invert
-42,Creature,Common,Warlock
-43,Enchantment,Rare,Lunar Shrink
-44,Creature,Common,Paladin
+==================,DECK,6145
+0,Spell,Freeze
+1,Creature,Spider
+2,Creature,Frozen Queen Dwarf of the Mountains
+3,Enchantment,Shade
+4,Creature,Wolf
+5,Artifact,Hateful Boots
+6,Enchantment,Lunar Firebreath
+7,Enchantment,Corpse Deathgrip
+8,Spell,Burst
+9,Spell,Sorrow
+10,Artifact,Apocalypse Amulet
+11,Creature,Eagle
+12,Artifact,Tome
+13,Spell,Burst
+14,Spell,Cataclysmic Infuriate
+15,Enchantment,Irate Lunar Alacrity
+16,Enchantment,Shade
+17,Creature,Wolf
+18,Creature,Paladin
+19,Spell,Gravitation
+20,Creature,Wolf
+21,Spell,Lightning
+22,Artifact,Ring
+23,Artifact,Oblivion Pendant
+24,Artifact,Nimble Gauntlet
+25,Creature,Aura Lord Griffin
+26,Creature,Ghoul
+27,Artifact,Gauntlet
+28,Creature,Troll
+29,Artifact,Bow
+30,Enchantment,Lethargy
+31,Enchantment,Firebreath
+32,Creature,Warlock
+33,Creature,Spider
+34,Spell,Fireball
+35,Artifact,Sorrow Cloak
+36,Creature,Magi
+37,Creature,Spider
+38,Spell,Tempest
+39,Creature,Dark Warrior Cyclops
+40,Creature,Wolf
+41,Enchantment,Age
+42,Creature,Berserker
+43,Enchantment,Chimeric Shield
+44,Creature,Troll

@@ -1,46 +1,46 @@
-==================,DECK,6418,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Blight
-2,Spell,Common,Gale
-3,Enchantment,Common,Agony
-4,Creature,Common,Paladin
-5,Creature,Common,Dwarf
-6,Creature,Rare,Dark Merchant Skin-Walker
-7,Spell,Mythic,Urgent Reanimate
-8,Creature,Rare,Earth Knight Berserker
-9,Spell,Common,Burst
-10,Enchantment,Common,Deathgrip
-11,Enchantment,Common,Strength
-12,Creature,Common,Spider
-13,Artifact,Rare,Nimble Ring
-14,Creature,Common,Magi
-15,Enchantment,Common,Haste
-16,Creature,Common,Orc
-17,Spell,Rare,Nimble Wall
-18,Creature,Rare,Snow Thief Minotaur
-19,Creature,Common,Eagle
-20,Creature,Mythic,Frozen Undead Phoenix of the Void
-21,Creature,Rare,Frozen Assassin Minotaur
-22,Spell,Common,Gale
-23,Creature,Common,Goblin
-24,Creature,Common,Paladin
-25,Spell,Legendary,Urgent Lightning
-26,Enchantment,Common,Haste
-27,Creature,Rare,Death Rogue Skin-Walker
-28,Artifact,Common,Potion
-29,Creature,Common,Magi
-30,Creature,Common,Warlock
-31,Spell,Common,Reanimate
-32,Creature,Rare,Light Merchant Hydra
-33,Spell,Rare,Oblivion Gravitation
-34,Creature,Rare,Frozen Rogue Skin-Walker
-35,Creature,Legendary,Earth Fighter Orge of the West
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Goblin
-38,Artifact,Common,Amulet
-39,Creature,Common,Spider
-40,Creature,Rare,Frozen Queen Minotaur
-41,Creature,Legendary,Death Rogue Kraken of the Mountains
-42,Spell,Common,Burn
-43,Creature,Common,Goblin
-44,Creature,Rare,Frozen Warrior Hydra
+==================,DECK,6418
+0,Creature,Magi
+1,Enchantment,Drain
+2,Spell,Torment
+3,Enchantment,Agony
+4,Creature,Troll
+5,Creature,Magi
+6,Creature,Dark Merchant Orc
+7,Spell,Zealous Necro Torment
+8,Creature,Earth Knight Goblin
+9,Spell,Sorrow
+10,Enchantment,Haste
+11,Enchantment,Drain
+12,Creature,Paladin
+13,Artifact,Hateful Ring
+14,Creature,Fairy
+15,Enchantment,Shield
+16,Creature,Spider
+17,Spell,Nature Frost
+18,Creature,Snow Thief Cyclops
+19,Creature,Eagle
+20,Creature,Frozen Undead Phoenix of the Void
+21,Creature,Frozen Assassin Cyclops
+22,Spell,Fire
+23,Creature,Skin-Walker
+24,Creature,Troll
+25,Spell,Instant Solar Rage
+26,Enchantment,Lethargy
+27,Creature,Death Rogue Orc
+28,Artifact,Potion
+29,Creature,Fairy
+30,Creature,Berserker
+31,Spell,Ice
+32,Creature,Light Merchant Hydra
+33,Spell,Nimble Wall
+34,Creature,Frozen Rogue Orc
+35,Creature,Earth Fighter Elf of the West
+36,Enchantment,Shield
+37,Creature,Skin-Walker
+38,Artifact,Amulet
+39,Creature,Paladin
+40,Creature,Frozen Queen Cyclops
+41,Creature,Death Rogue Ogre of the Mountains
+42,Spell,Frenzy
+43,Creature,Skin-Walker
+44,Creature,Frozen Warrior Hydra

@@ -1,46 +1,46 @@
-==================,DECK,7546,Medium
-0,Creature,Rare,Earth Merchant Minotaur
-1,Enchantment,Rare,Necro Drain
-2,Creature,Common,Wolf
-3,Enchantment,Common,Alacrity
-4,Artifact,Common,Bracers
-5,Spell,Common,Pandemonium
-6,Creature,Rare,Snow Thief Hydra
-7,Enchantment,Common,Strength
-8,Creature,Rare,Snow Priest Skin-Walker
-9,Spell,Rare,Nature Stricken
-10,Spell,Common,Assault
-11,Artifact,Rare,Hateful Tome
-12,Enchantment,Common,Shield
-13,Artifact,Rare,Forged Gauntlet
-14,Creature,Legendary,Earth Assassin Cyclops of the Haven
-15,Spell,Common,Hypnosis
-16,Creature,Common,Paladin
-17,Creature,Rare,Aura Undead Skin-Walker
-18,Creature,Common,Eagle
-19,Spell,Rare,Life Stun
-20,Creature,Rare,Death Fighter Fairy
-21,Creature,Rare,Light Warrior Skin-Walker
-22,Spell,Rare,Apocalypse Pandemonium
-23,Creature,Common,Eagle
-24,Enchantment,Rare,Lunar Drain
-25,Creature,Rare,Death Knight Hydra
-26,Creature,Common,Eagle
-27,Spell,Common,Vortex
-28,Creature,Mythic,Frozen Chaos Demon of the Void
-29,Creature,Rare,Frozen Monk Fairy
-30,Enchantment,Rare,Gloom Invert
-31,Creature,Common,Wolf
-32,Creature,Legendary,Aura Priest Orge of the Eastern Skies
-33,Creature,Common,Goblin
-34,Creature,Rare,Aura Queen Minotaur
-35,Creature,Mythic,Dark Grand Demon of Illusion
-36,Artifact,Common,Ring
-37,Artifact,Legendary,Mighty Sword
-38,Creature,Rare,Frozen Merchant Minotaur
-39,Creature,Legendary,Dark Monk Oni of the Border
-40,Spell,Legendary,Extreme Burst
-41,Artifact,Rare,Hateful Gloves
-42,Creature,Common,Eagle
-43,Creature,Common,Eagle
-44,Enchantment,Common,Drain
+==================,DECK,7546
+0,Creature,Earth Merchant Cyclops
+1,Enchantment,Forged Strength
+2,Creature,Wolf
+3,Enchantment,Shade
+4,Artifact,Bracers
+5,Spell,Frost
+6,Creature,Snow Thief Hydra
+7,Enchantment,Blight
+8,Creature,Snow Priest Orc
+9,Spell,Nature Pandemonium
+10,Spell,Sorrow
+11,Artifact,Miracle Tome
+12,Enchantment,Firebreath
+13,Artifact,Dark Gauntlet
+14,Creature,Earth Assassin Giant of the Haven
+15,Spell,Sorrow
+16,Creature,Troll
+17,Creature,Aura Undead Orc
+18,Creature,Eagle
+19,Spell,Nimble Ice
+20,Creature,Death Fighter Kraken
+21,Creature,Light Warrior Orc
+22,Spell,Nimble Maelstrom
+23,Creature,Eagle
+24,Enchantment,Dark Shrink
+25,Creature,Death Knight Hydra
+26,Creature,Eagle
+27,Spell,Frost
+28,Creature,Frozen Chaos Demon of the Void
+29,Creature,Frozen Monk Kraken
+30,Enchantment,Sorrow Shield
+31,Creature,Wolf
+32,Creature,Aura Priest Elf of the Eastern Skies
+33,Creature,Skin-Walker
+34,Creature,Aura Queen Cyclops
+35,Creature,Dark Grand Demon of Illusion
+36,Artifact,Ring
+37,Artifact,Instant Miracle Sword
+38,Creature,Frozen Merchant Cyclops
+39,Creature,Dark Monk Oni of the Border
+40,Spell,Mighty Chimeric Maelstrom
+41,Artifact,Lunar Gloves
+42,Creature,Eagle
+43,Creature,Eagle
+44,Enchantment,Blight

@@ -1,46 +1,46 @@
-==================,DECK,6526,Medium
-0,Spell,Rare,Life Ice
-1,Creature,Common,Wolf
-2,Spell,Common,Vortex
-3,Creature,Common,Dwarf
-4,Creature,Common,Goblin
-5,Spell,Common,Rage
-6,Artifact,Rare,Necro Amulet
-7,Spell,Common,Frenzy
-8,Enchantment,Common,Shade
-9,Spell,Common,Pandemonium
-10,Enchantment,Common,Lethargy
-11,Enchantment,Common,Blight
-12,Enchantment,Common,Blight
-13,Enchantment,Mythic,Angry Invert
-14,Creature,Mythic,Aura Chaos Demon of the Light
-15,Creature,Common,Warlock
-16,Enchantment,Common,Blight
-17,Artifact,Rare,Apocalypse Crown
-18,Creature,Rare,Earth King Fairy
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Dwarf
-21,Creature,Common,Ghoul
-22,Creature,Common,Wolf
-23,Creature,Mythic,Death Nameless Dragon of the Dead
-24,Spell,Common,Sorrow
-25,Enchantment,Mythic,Angry Shield
-26,Artifact,Legendary,Extreme Tome
-27,Spell,Mythic,Clever Gravitation
-28,Creature,Common,Paladin
-29,Enchantment,Common,Haste
-30,Artifact,Rare,Oblivion Sword
-31,Spell,Rare,Shimmering Stun
-32,Enchantment,Common,Shield
-33,Creature,Common,Magi
-34,Creature,Rare,Dark Thief Skin-Walker
-35,Spell,Legendary,Dire Frenzy
-36,Spell,Common,Wall
-37,Creature,Rare,Aura Rogue Griffin
-38,Spell,Legendary,Urgent Burn
-39,Enchantment,Mythic,Dire Lethargy
-40,Creature,Common,Warlock
-41,Spell,Rare,Lunar Pandemonium
-42,Spell,Common,Stun
-43,Enchantment,Common,Drain
-44,Artifact,Common,Gauntlet
+==================,DECK,6526
+0,Spell,Grim Hypnosis
+1,Creature,Wolf
+2,Spell,Stricken
+3,Creature,Magi
+4,Creature,Skin-Walker
+5,Spell,Torment
+6,Artifact,Necro Amulet
+7,Spell,Burn
+8,Enchantment,Blight
+9,Spell,Freeze
+10,Enchantment,Haste
+11,Enchantment,Shade
+12,Enchantment,Lethargy
+13,Enchantment,Urgent Sorrow Flight
+14,Creature,Aura Chaos Demon of the Light
+15,Creature,Berserker
+16,Enchantment,Deathgrip
+17,Artifact,Life Crown
+18,Creature,Earth King Kraken
+19,Enchantment,Age
+20,Creature,Magi
+21,Creature,Ghoul
+22,Creature,Wolf
+23,Creature,Death Nameless Dragon of the Dead
+24,Spell,Ice
+25,Enchantment,Instant Gloom Shrink
+26,Artifact,Dire Sorrow Tome
+27,Spell,Instant Victory Burn
+28,Creature,Troll
+29,Enchantment,Shrink
+30,Artifact,Life Sword
+31,Spell,Solar Assault
+32,Enchantment,Shield
+33,Creature,Fairy
+34,Creature,Dark Thief Orc
+35,Spell,Irate Life Fireball
+36,Spell,Heal
+37,Creature,Aura Rogue Griffin
+38,Spell,Mighty Necro Tempest
+39,Enchantment,Instant Grim Drain
+40,Creature,Berserker
+41,Spell,Sorrow Burst
+42,Spell,Sorrow
+43,Enchantment,Drain
+44,Artifact,Gauntlet

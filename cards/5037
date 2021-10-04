@@ -1,46 +1,46 @@
-==================,DECK,5037,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Dwarf
-2,Creature,Common,Warlock
-3,Spell,Common,Sorrow
-4,Spell,Common,Freeze
-5,Enchantment,Common,Deathgrip
-6,Spell,Rare,Miracle Stricken
-7,Artifact,Rare,Solar Helmet
-8,Creature,Common,Ghoul
-9,Creature,Common,Spider
-10,Enchantment,Mythic,Intense Strength
-11,Creature,Rare,Death Merchant Berserker
-12,Creature,Legendary,Death Fighter Giant of the Border
-13,Enchantment,Common,Age
-14,Artifact,Common,Gloves
-15,Creature,Legendary,Dark Rogue Giant of the Golden Palace
-16,Creature,Common,Wolf
-17,Creature,Rare,Aura Warrior Skin-Walker
-18,Creature,Common,Ghoul
-19,Creature,Common,Goblin
-20,Spell,Rare,Grim Freeze
-21,Creature,Common,Orc
-22,Creature,Rare,Snow Assassin Berserker
-23,Creature,Common,Ghoul
-24,Creature,Common,Eagle
-25,Enchantment,Mythic,Mighty Shield
-26,Creature,Mythic,Death Grand Wizard of the Dead
-27,Artifact,Common,Scythe
-28,Enchantment,Common,Age
-29,Spell,Common,Freeze
-30,Artifact,Common,Greaves
-31,Creature,Rare,Light Monk Fairy
-32,Creature,Common,Warlock
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Creature,Mythic,Snow Ancient Demon of Hate
-36,Enchantment,Rare,Dark Strength
-37,Enchantment,Mythic,Mighty Blight
-38,Creature,Mythic,Earth Grand Demon of the Shadows
-39,Enchantment,Rare,Miracle Deathgrip
-40,Enchantment,Rare,Grim Strength
-41,Artifact,Common,Ring
-42,Creature,Common,Goblin
-43,Creature,Legendary,Aura Undead Kraken of the Polar Woods
-44,Creature,Common,Elf
+==================,DECK,5037
+0,Creature,Magi
+1,Creature,Magi
+2,Creature,Berserker
+3,Spell,Frenzy
+4,Spell,Burn
+5,Enchantment,Deathgrip
+6,Spell,Frigid Assault
+7,Artifact,Forged Helmet
+8,Creature,Ghoul
+9,Creature,Paladin
+10,Enchantment,Instant Solar Strength
+11,Creature,Death Merchant Goblin
+12,Creature,Death Fighter Dwarf of the Border
+13,Enchantment,Strength
+14,Artifact,Gloves
+15,Creature,Dark Rogue Dwarf of the Golden Palace
+16,Creature,Wolf
+17,Creature,Aura Warrior Orc
+18,Creature,Ghoul
+19,Creature,Skin-Walker
+20,Spell,Victory Infuriate
+21,Creature,Spider
+22,Creature,Snow Assassin Goblin
+23,Creature,Ghoul
+24,Creature,Eagle
+25,Enchantment,Ardent Gloom Shield
+26,Creature,Death Grand Wizard of the Dead
+27,Artifact,Scythe
+28,Enchantment,Invert
+29,Spell,Lightning
+30,Artifact,Greaves
+31,Creature,Light Monk Kraken
+32,Creature,Berserker
+33,Creature,Warlock
+34,Creature,Magi
+35,Creature,Snow Ancient Demon of Hate
+36,Enchantment,Cataclysmic Shrink
+37,Enchantment,Mighty Cataclysmic Flight
+38,Creature,Earth Grand Demon of the Shadows
+39,Enchantment,Oblivion Haste
+40,Enchantment,Nimble Haste
+41,Artifact,Ring
+42,Creature,Skin-Walker
+43,Creature,Aura Undead Ogre of the Polar Woods
+44,Creature,Warlock

@@ -1,46 +1,46 @@
-==================,DECK,5655,Light
-0,Spell,Common,Torment
-1,Spell,Common,Pandemonium
-2,Artifact,Legendary,Mighty Sigil
-3,Creature,Common,Wolf
-4,Creature,Common,Orc
-5,Creature,Common,Orc
-6,Spell,Common,Sorrow
-7,Spell,Common,Frost
-8,Creature,Common,Dwarf
-9,Artifact,Common,Helmet
-10,Creature,Common,Ghoul
-11,Creature,Common,Spider
-12,Artifact,Common,Amulet
-13,Artifact,Rare,Grim Sigil
-14,Creature,Common,Spider
-15,Spell,Rare,Forged Wall
-16,Spell,Common,Hypnosis
-17,Spell,Common,Burn
-18,Creature,Common,Spider
-19,Spell,Common,Freeze
-20,Creature,Common,Elf
-21,Creature,Rare,Aura Lord Skin-Walker
-22,Creature,Rare,Dark Priest Griffin
-23,Artifact,Rare,Dark Sigil
-24,Creature,Common,Orc
-25,Artifact,Common,Potion
-26,Creature,Common,Spider
-27,Spell,Common,Assault
-28,Spell,Legendary,Clever Stun
-29,Enchantment,Mythic,Clever Blight
-30,Creature,Common,Magi
-31,Creature,Common,Ghoul
-32,Creature,Common,Ghoul
-33,Enchantment,Rare,Miracle Deathgrip
-34,Creature,Legendary,Dark Warrior Orge of the Bright Mountains
-35,Enchantment,Common,Shield
-36,Creature,Legendary,Frozen Warrior Oni of the Bright Mountains
-37,Creature,Common,Ghoul
-38,Creature,Rare,Death Thief Minotaur
-39,Spell,Common,Sorrow
-40,Creature,Common,Elf
-41,Spell,Common,Frost
-42,Enchantment,Rare,Nature Age
-43,Creature,Rare,Snow Thief Skin-Walker
-44,Enchantment,Common,Shade
+==================,DECK,5655
+0,Spell,Stun
+1,Spell,Stricken
+2,Artifact,Urgent Dark Sigil
+3,Creature,Wolf
+4,Creature,Spider
+5,Creature,Spider
+6,Spell,Hypnosis
+7,Spell,Revive
+8,Creature,Magi
+9,Artifact,Helmet
+10,Creature,Ghoul
+11,Creature,Paladin
+12,Artifact,Amulet
+13,Artifact,Frigid Sigil
+14,Creature,Paladin
+15,Spell,Sorrow Wall
+16,Spell,Gale
+17,Spell,Wall
+18,Creature,Paladin
+19,Spell,Pandemonium
+20,Creature,Warlock
+21,Creature,Aura Lord Orc
+22,Creature,Dark Priest Griffin
+23,Artifact,Dark Sigil
+24,Creature,Spider
+25,Artifact,Potion
+26,Creature,Paladin
+27,Spell,Fury
+28,Spell,Potent Grim Frost
+29,Enchantment,Potent Nimble Drain
+30,Creature,Fairy
+31,Creature,Ghoul
+32,Creature,Ghoul
+33,Enchantment,Oblivion Drain
+34,Creature,Dark Warrior Elf of the Bright Mountains
+35,Enchantment,Haste
+36,Creature,Frozen Warrior Oni of the Bright Mountains
+37,Creature,Ghoul
+38,Creature,Death Thief Cyclops
+39,Spell,Fireball
+40,Creature,Warlock
+41,Spell,Sorrow
+42,Enchantment,Nature Deathgrip
+43,Creature,Snow Thief Orc
+44,Enchantment,Flight

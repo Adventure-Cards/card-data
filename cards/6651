@@ -1,46 +1,46 @@
-==================,DECK,6651,Medium
-0,Creature,Rare,Light Lord Skin-Walker
-1,Spell,Rare,Solar Freeze
-2,Spell,Common,Frost
-3,Enchantment,Legendary,Potent Blight
-4,Spell,Common,Burn
-5,Creature,Common,Paladin
-6,Creature,Common,Spider
-7,Spell,Common,Burn
-8,Creature,Common,Ghoul
-9,Creature,Mythic,Light Undead Dragon of the Sky
-10,Creature,Legendary,Light Queen Kraken of the Eastern Skies
-11,Creature,Legendary,Dark Knight Kraken of the Polar Woods
-12,Enchantment,Common,Shade
-13,Creature,Common,Orc
-14,Enchantment,Rare,Grim Lethargy
-15,Spell,Rare,Lunar Pandemonium
-16,Creature,Legendary,Dark King Giant of the Mountains
-17,Creature,Mythic,Earth Undead Phoenix of the Shadows
-18,Creature,Rare,Frozen Queen Hydra
-19,Artifact,Legendary,Angry Crown
-20,Enchantment,Mythic,Clever Alacrity
-21,Creature,Common,Spider
-22,Spell,Common,Frenzy
-23,Spell,Common,Gravitation
-24,Spell,Rare,Miracle Burst
-25,Spell,Common,Reanimate
-26,Enchantment,Common,Strength
-27,Spell,Rare,Frigid Vortex
-28,Creature,Common,Spider
-29,Spell,Legendary,Instant Wall
-30,Artifact,Rare,Oblivion Amulet
-31,Creature,Common,Spider
-32,Spell,Rare,Nimble Rage
-33,Creature,Common,Warlock
-34,Creature,Common,Spider
-35,Spell,Common,Heal
-36,Spell,Legendary,Angry Stun
-37,Creature,Common,Ghoul
-38,Creature,Legendary,Aura Merchant Orge of the Magical Forest
-39,Enchantment,Common,Shrink
-40,Spell,Common,Freeze
-41,Creature,Rare,Light Merchant Fairy
-42,Creature,Common,Ghoul
-43,Spell,Common,Invisibility
-44,Spell,Rare,Lunar Burst
+==================,DECK,6651
+0,Creature,Light Lord Orc
+1,Spell,Necro Frost
+2,Spell,Burst
+3,Enchantment,Potent Nimble Drain
+4,Spell,Reanimate
+5,Creature,Troll
+6,Creature,Paladin
+7,Spell,Rage
+8,Creature,Ghoul
+9,Creature,Light Undead Dragon of the Sky
+10,Creature,Light Queen Ogre of the Eastern Skies
+11,Creature,Dark Knight Ogre of the Polar Woods
+12,Enchantment,Strength
+13,Creature,Spider
+14,Enchantment,Grim Shade
+15,Spell,Dark Maelstrom
+16,Creature,Dark King Dwarf of the Mountains
+17,Creature,Earth Undead Phoenix of the Shadows
+18,Creature,Frozen Queen Hydra
+19,Artifact,Irate Chimeric Crown
+20,Enchantment,Instant Apocalypse Drain
+21,Creature,Paladin
+22,Spell,Vortex
+23,Spell,Stun
+24,Spell,Nimble Torment
+25,Spell,Fury
+26,Enchantment,Drain
+27,Spell,Life Burn
+28,Creature,Paladin
+29,Spell,Ardent Nature Gale
+30,Artifact,Nimble Amulet
+31,Creature,Paladin
+32,Spell,Forged Frenzy
+33,Creature,Berserker
+34,Creature,Paladin
+35,Spell,Lightning
+36,Spell,Zealous Gloom Hypnosis
+37,Creature,Ghoul
+38,Creature,Aura Merchant Elf of the Magical Forest
+39,Enchantment,Shrink
+40,Spell,Lightning
+41,Creature,Light Merchant Kraken
+42,Creature,Ghoul
+43,Spell,Assault
+44,Spell,Cataclysmic Freeze

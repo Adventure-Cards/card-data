@@ -1,46 +1,46 @@
-==================,DECK,7053,Medium
-0,Creature,Common,Wolf
-1,Spell,Common,Rage
-2,Creature,Common,Warlock
-3,Enchantment,Common,Strength
-4,Spell,Common,Revive
-5,Creature,Common,Paladin
-6,Creature,Common,Eagle
-7,Spell,Common,Rage
-8,Creature,Common,Ghoul
-9,Spell,Common,Rage
-10,Creature,Rare,Light Priest Fairy
-11,Creature,Common,Elf
-12,Creature,Rare,Aura Queen Berserker
-13,Creature,Common,Spider
-14,Creature,Common,Ghoul
-15,Spell,Common,Maelstrom
-16,Artifact,Common,Ring
-17,Creature,Common,Eagle
-18,Spell,Common,Ice
-19,Creature,Common,Warlock
-20,Artifact,Rare,Life Staff
-21,Artifact,Rare,Lunar Shield
-22,Creature,Common,Paladin
-23,Enchantment,Common,Haste
-24,Creature,Common,Orc
-25,Spell,Common,Freeze
-26,Creature,Common,Goblin
-27,Creature,Rare,Frozen Queen Minotaur
-28,Artifact,Common,Shield
-29,Creature,Rare,Snow Lord Skin-Walker
-30,Enchantment,Common,Invert
-31,Creature,Legendary,Dark Undead Orge of the Eternal Land
-32,Artifact,Common,Ghost Wand
-33,Creature,Common,Ghoul
-34,Creature,Rare,Death Undead Hydra
-35,Creature,Common,Dwarf
-36,Enchantment,Rare,Life Drain
-37,Enchantment,Common,Lethargy
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Drain
-40,Creature,Rare,Aura Queen Minotaur
-41,Creature,Legendary,Death Thief Giant of the Low Hills
-42,Spell,Rare,Dark Freeze
-43,Creature,Mythic,Earth Chaos Demon of the Shadows
-44,Creature,Legendary,Light Knight Kraken of the Magical Forest
+==================,DECK,7053
+0,Creature,Wolf
+1,Spell,Maelstrom
+2,Creature,Berserker
+3,Enchantment,Agony
+4,Spell,Revive
+5,Creature,Troll
+6,Creature,Eagle
+7,Spell,Lightning
+8,Creature,Ghoul
+9,Spell,Maelstrom
+10,Creature,Light Priest Kraken
+11,Creature,Warlock
+12,Creature,Aura Queen Goblin
+13,Creature,Paladin
+14,Creature,Ghoul
+15,Spell,Reanimate
+16,Artifact,Ring
+17,Creature,Eagle
+18,Spell,Wall
+19,Creature,Berserker
+20,Artifact,Victory Staff
+21,Artifact,Gloom Shield
+22,Creature,Troll
+23,Enchantment,Haste
+24,Creature,Spider
+25,Spell,Freeze
+26,Creature,Skin-Walker
+27,Creature,Frozen Queen Cyclops
+28,Artifact,Shield
+29,Creature,Snow Lord Orc
+30,Enchantment,Deathgrip
+31,Creature,Dark Undead Elf of the Eternal Land
+32,Artifact,Ghost Wand
+33,Creature,Ghoul
+34,Creature,Death Undead Hydra
+35,Creature,Magi
+36,Enchantment,Apocalypse Invert
+37,Enchantment,Haste
+38,Creature,Ghoul
+39,Enchantment,Firebreath
+40,Creature,Aura Queen Cyclops
+41,Creature,Death Thief Dwarf of the Low Hills
+42,Spell,Dark Vortex
+43,Creature,Earth Chaos Demon of the Shadows
+44,Creature,Light Knight Ogre of the Magical Forest

@@ -1,46 +1,46 @@
-==================,DECK,6000,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Ghoul
-2,Spell,Common,Gale
-3,Enchantment,Legendary,Instant Flight
-4,Creature,Legendary,Snow Fighter Cyclops of the Bright Mountains
-5,Creature,Common,Paladin
-6,Enchantment,Common,Drain
-7,Spell,Common,Reanimate
-8,Spell,Common,Sorrow
-9,Creature,Common,Elf
-10,Creature,Common,Spider
-11,Creature,Common,Magi
-12,Artifact,Rare,Necro Ring
-13,Creature,Mythic,Snow Grand Wizard of Hate
-14,Enchantment,Rare,Apocalypse Shrink
-15,Enchantment,Common,Alacrity
-16,Spell,Common,Revive
-17,Spell,Legendary,Angry Gravitation
-18,Creature,Mythic,Death Nameless Phoenix of the Dead
-19,Spell,Common,Burst
-20,Spell,Rare,Solar Lightning
-21,Creature,Rare,Light Knight Skin-Walker
-22,Artifact,Common,Sword
-23,Creature,Common,Ghoul
-24,Creature,Common,Ghoul
-25,Creature,Common,Ghoul
-26,Creature,Common,Wolf
-27,Spell,Legendary,Mighty Maelstrom
-28,Creature,Common,Paladin
-29,Enchantment,Rare,Necro Haste
-30,Creature,Mythic,Frozen Ancient Demon of the Void
-31,Creature,Common,Elf
-32,Artifact,Common,Shield
-33,Creature,Rare,Snow Knight Minotaur
-34,Spell,Rare,Dark Assault
-35,Creature,Common,Spider
-36,Creature,Mythic,Frozen Undead Phoenix of the Void
-37,Creature,Common,Eagle
-38,Enchantment,Common,Drain
-39,Spell,Common,Frenzy
-40,Artifact,Common,Ring
-41,Creature,Common,Wolf
-42,Spell,Mythic,Angry Freeze
-43,Creature,Common,Ghoul
-44,Creature,Rare,Frozen Lord Fairy
+==================,DECK,6000
+0,Creature,Skin-Walker
+1,Creature,Ghoul
+2,Spell,Gravitation
+3,Enchantment,Potent Hateful Strength
+4,Creature,Snow Fighter Giant of the Bright Mountains
+5,Creature,Troll
+6,Enchantment,Firebreath
+7,Spell,Fireball
+8,Spell,Fireball
+9,Creature,Warlock
+10,Creature,Paladin
+11,Creature,Fairy
+12,Artifact,Hateful Ring
+13,Creature,Snow Grand Wizard of Hate
+14,Enchantment,Frigid Haste
+15,Enchantment,Alacrity
+16,Spell,Assault
+17,Spell,Ardent Cataclysmic Sorrow
+18,Creature,Death Nameless Phoenix of the Dead
+19,Spell,Fireball
+20,Spell,Corpse Reanimate
+21,Creature,Light Knight Orc
+22,Artifact,Sword
+23,Creature,Ghoul
+24,Creature,Ghoul
+25,Creature,Ghoul
+26,Creature,Wolf
+27,Spell,Potent Chimeric Tempest
+28,Creature,Troll
+29,Enchantment,Corpse Deathgrip
+30,Creature,Frozen Ancient Demon of the Void
+31,Creature,Warlock
+32,Artifact,Shield
+33,Creature,Snow Knight Cyclops
+34,Spell,Gloom Reanimate
+35,Creature,Paladin
+36,Creature,Frozen Undead Phoenix of the Void
+37,Creature,Eagle
+38,Enchantment,Flight
+39,Spell,Tempest
+40,Artifact,Ring
+41,Creature,Wolf
+42,Spell,Irate Lunar Rage
+43,Creature,Ghoul
+44,Creature,Frozen Lord Kraken

@@ -1,46 +1,46 @@
-==================,DECK,5029,Medium
-0,Creature,Common,Wolf
-1,Creature,Rare,Snow King Berserker
-2,Enchantment,Mythic,Angry Flight
-3,Creature,Common,Orc
-4,Spell,Common,Pandemonium
-5,Creature,Common,Elf
-6,Artifact,Common,Sigil
-7,Spell,Rare,Necro Reanimate
-8,Creature,Rare,Death Lord Skin-Walker
-9,Creature,Common,Spider
-10,Spell,Common,Reanimate
-11,Enchantment,Mythic,Intense Invert
-12,Creature,Rare,Aura King Berserker
-13,Creature,Common,Orc
-14,Spell,Common,Reanimate
-15,Creature,Rare,Frozen Undead Fairy
-16,Creature,Legendary,Earth Warrior Orge of the Swamp
-17,Spell,Common,Assault
-18,Creature,Common,Spider
-19,Creature,Common,Ghoul
-20,Spell,Common,Gale
-21,Creature,Common,Paladin
-22,Creature,Common,Paladin
-23,Spell,Common,Assault
-24,Creature,Common,Ghoul
-25,Creature,Rare,Frozen Knight Minotaur
-26,Spell,Common,Freeze
-27,Enchantment,Rare,Apocalypse Shrink
-28,Creature,Common,Warlock
-29,Creature,Rare,Frozen Undead Berserker
-30,Creature,Common,Warlock
-31,Enchantment,Rare,Nimble Shade
-32,Creature,Common,Warlock
-33,Enchantment,Common,Strength
-34,Spell,Common,Reanimate
-35,Creature,Common,Magi
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Dwarf
-38,Enchantment,Rare,Lunar Haste
-39,Enchantment,Common,Alacrity
-40,Spell,Common,Heal
-41,Creature,Mythic,Death Grand Wizard of the Dead
-42,Creature,Mythic,Snow Chaos Wizard of Hate
-43,Enchantment,Legendary,Potent Deathgrip
-44,Artifact,Rare,Corpse Pendant
+==================,DECK,5029
+0,Creature,Wolf
+1,Creature,Snow King Goblin
+2,Enchantment,Clever Lunar Shield
+3,Creature,Spider
+4,Spell,Reanimate
+5,Creature,Warlock
+6,Artifact,Sigil
+7,Spell,Necro Maelstrom
+8,Creature,Death Lord Orc
+9,Creature,Paladin
+10,Spell,Burst
+11,Enchantment,Urgent Shimmering Agony
+12,Creature,Aura King Goblin
+13,Creature,Spider
+14,Spell,Stricken
+15,Creature,Frozen Undead Kraken
+16,Creature,Earth Warrior Elf of the Swamp
+17,Spell,Frenzy
+18,Creature,Paladin
+19,Creature,Ghoul
+20,Spell,Fireball
+21,Creature,Troll
+22,Creature,Troll
+23,Spell,Freeze
+24,Creature,Ghoul
+25,Creature,Frozen Knight Cyclops
+26,Spell,Tempest
+27,Enchantment,Frigid Invert
+28,Creature,Berserker
+29,Creature,Frozen Undead Goblin
+30,Creature,Berserker
+31,Enchantment,Necro Age
+32,Creature,Berserker
+33,Enchantment,Shrink
+34,Spell,Maelstrom
+35,Creature,Fairy
+36,Enchantment,Flight
+37,Creature,Magi
+38,Enchantment,Miracle Shield
+39,Enchantment,Haste
+40,Spell,Lightning
+41,Creature,Death Grand Wizard of the Dead
+42,Creature,Snow Chaos Wizard of Hate
+43,Enchantment,Clever Oblivion Haste
+44,Artifact,Solar Pendant

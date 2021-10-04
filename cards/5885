@@ -1,46 +1,46 @@
-==================,DECK,5885,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Aura King Griffin
-2,Enchantment,Mythic,Instant Haste
-3,Enchantment,Common,Age
-4,Creature,Common,Magi
-5,Creature,Common,Ghoul
-6,Creature,Common,Wolf
-7,Creature,Common,Spider
-8,Spell,Rare,Forged Frenzy
-9,Artifact,Rare,Nimble Crown
-10,Creature,Mythic,Light Time Dragon of the Sky
-11,Creature,Common,Paladin
-12,Spell,Legendary,Angry Heal
-13,Artifact,Common,Ghost Wand
-14,Creature,Rare,Light Assassin Minotaur
-15,Enchantment,Mythic,Potent Invert
-16,Creature,Common,Elf
-17,Enchantment,Common,Flight
-18,Creature,Common,Dwarf
-19,Creature,Common,Goblin
-20,Spell,Common,Wall
-21,Creature,Rare,Earth Thief Hydra
-22,Creature,Rare,Frozen Thief Hydra
-23,Creature,Common,Spider
-24,Enchantment,Common,Blight
-25,Spell,Common,Wall
-26,Creature,Common,Spider
-27,Creature,Common,Spider
-28,Creature,Common,Eagle
-29,Spell,Common,Reanimate
-30,Artifact,Common,Amulet
-31,Artifact,Common,Helm
-32,Creature,Common,Elf
-33,Spell,Common,Invisibility
-34,Spell,Common,Invisibility
-35,Creature,Common,Magi
-36,Spell,Common,Infuriate
-37,Enchantment,Rare,Lunar Age
-38,Artifact,Rare,Forged Gloves
-39,Enchantment,Common,Age
-40,Spell,Rare,Dark Heal
-41,Creature,Common,Elf
-42,Creature,Common,Ghoul
-43,Artifact,Legendary,Angry Boots
-44,Enchantment,Common,Agony
+==================,DECK,5885
+0,Creature,Skin-Walker
+1,Creature,Aura King Griffin
+2,Enchantment,Empyrean Corpse Age
+3,Enchantment,Deathgrip
+4,Creature,Fairy
+5,Creature,Ghoul
+6,Creature,Wolf
+7,Creature,Paladin
+8,Spell,Chimeric Maelstrom
+9,Artifact,Forged Crown
+10,Creature,Light Time Dragon of the Sky
+11,Creature,Troll
+12,Spell,Irate Miracle Frenzy
+13,Artifact,Ghost Wand
+14,Creature,Light Assassin Cyclops
+15,Enchantment,Instant Oblivion Drain
+16,Creature,Warlock
+17,Enchantment,Shade
+18,Creature,Magi
+19,Creature,Skin-Walker
+20,Spell,Lightning
+21,Creature,Earth Thief Hydra
+22,Creature,Frozen Thief Hydra
+23,Creature,Paladin
+24,Enchantment,Shield
+25,Spell,Assault
+26,Creature,Paladin
+27,Creature,Paladin
+28,Creature,Eagle
+29,Spell,Burst
+30,Artifact,Amulet
+31,Artifact,Helm
+32,Creature,Warlock
+33,Spell,Ice
+34,Spell,Infuriate
+35,Creature,Fairy
+36,Spell,Lightning
+37,Enchantment,Gloom Shrink
+38,Artifact,Chimeric Gloves
+39,Enchantment,Strength
+40,Spell,Cataclysmic Stun
+41,Creature,Warlock
+42,Creature,Ghoul
+43,Artifact,Clever Cataclysmic Boots
+44,Enchantment,Lethargy

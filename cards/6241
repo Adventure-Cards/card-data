@@ -1,46 +1,46 @@
-==================,DECK,6241,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Warlock
-2,Spell,Common,Wall
-3,Spell,Common,Vortex
-4,Enchantment,Rare,Shimmering Age
-5,Artifact,Common,Bracers
-6,Creature,Rare,Light Thief Hydra
-7,Enchantment,Rare,Hateful Age
-8,Spell,Rare,Forged Assault
-9,Enchantment,Common,Strength
-10,Enchantment,Common,Age
-11,Creature,Common,Orc
-12,Creature,Legendary,Dark Queen Cyclops of the Bright Mountains
-13,Spell,Legendary,Intense Revive
-14,Artifact,Rare,Shimmering Bracers
-15,Spell,Legendary,Urgent Hypnosis
-16,Enchantment,Common,Age
-17,Creature,Common,Wolf
-18,Enchantment,Common,Shrink
-19,Creature,Rare,Light Assassin Skin-Walker
-20,Creature,Common,Goblin
-21,Creature,Common,Spider
-22,Creature,Common,Goblin
-23,Artifact,Common,Greaves
-24,Enchantment,Common,Age
-25,Enchantment,Rare,Corpse Alacrity
-26,Artifact,Common,Amulet
-27,Creature,Rare,Snow Priest Minotaur
-28,Artifact,Rare,Apocalypse Sword
-29,Creature,Rare,Earth Knight Skin-Walker
-30,Creature,Common,Orc
-31,Enchantment,Common,Invert
-32,Spell,Rare,Oblivion Invisibility
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Alacrity
-35,Creature,Rare,Aura Queen Minotaur
-36,Creature,Common,Paladin
-37,Artifact,Common,Shield
-38,Enchantment,Rare,Hateful Blight
-39,Enchantment,Common,Flight
-40,Enchantment,Mythic,Urgent Shade
-41,Spell,Rare,Corpse Gravitation
-42,Creature,Rare,Snow Priest Fairy
-43,Spell,Common,Burst
-44,Creature,Common,Paladin
+==================,DECK,6241
+0,Creature,Eagle
+1,Creature,Berserker
+2,Spell,Reanimate
+3,Spell,Gravitation
+4,Enchantment,Nature Lethargy
+5,Artifact,Bracers
+6,Creature,Light Thief Hydra
+7,Enchantment,Gloom Alacrity
+8,Spell,Sorrow Heal
+9,Enchantment,Shrink
+10,Enchantment,Firebreath
+11,Creature,Spider
+12,Creature,Dark Queen Giant of the Bright Mountains
+13,Spell,Ardent Necro Sorrow
+14,Artifact,Nature Bracers
+15,Spell,Zealous Forged Gale
+16,Enchantment,Shield
+17,Creature,Wolf
+18,Enchantment,Haste
+19,Creature,Light Assassin Orc
+20,Creature,Skin-Walker
+21,Creature,Paladin
+22,Creature,Skin-Walker
+23,Artifact,Greaves
+24,Enchantment,Firebreath
+25,Enchantment,Forged Age
+26,Artifact,Amulet
+27,Creature,Snow Priest Cyclops
+28,Artifact,Victory Sword
+29,Creature,Earth Knight Orc
+30,Creature,Spider
+31,Enchantment,Shade
+32,Spell,Frigid Infuriate
+33,Creature,Magi
+34,Enchantment,Age
+35,Creature,Aura Queen Cyclops
+36,Creature,Troll
+37,Artifact,Shield
+38,Enchantment,Cataclysmic Alacrity
+39,Enchantment,Flight
+40,Enchantment,Instant Necro Strength
+41,Spell,Solar Ice
+42,Creature,Snow Priest Kraken
+43,Spell,Assault
+44,Creature,Troll

@@ -1,46 +1,46 @@
-==================,DECK,7710,Medium
-0,Spell,Rare,Frigid Wall
-1,Spell,Common,Frenzy
-2,Creature,Common,Ghoul
-3,Enchantment,Mythic,Intense Haste
-4,Spell,Rare,Forged Heal
-5,Spell,Common,Pandemonium
-6,Spell,Rare,Frigid Gravitation
-7,Enchantment,Common,Shade
-8,Creature,Legendary,Earth Assassin Cyclops of the Plains
-9,Creature,Common,Eagle
-10,Spell,Legendary,Clever Sorrow
-11,Creature,Common,Orc
-12,Spell,Rare,Life Sorrow
-13,Creature,Legendary,Death Priest Cyclops of the Bright Mountains
-14,Creature,Legendary,Light Merchant Orge of the Eternal Land
-15,Artifact,Rare,Corpse Ghost Wand
-16,Creature,Common,Elf
-17,Creature,Common,Paladin
-18,Creature,Rare,Dark Warrior Fairy
-19,Creature,Common,Orc
-20,Creature,Rare,Death King Fairy
-21,Enchantment,Common,Shrink
-22,Creature,Common,Dwarf
-23,Spell,Rare,Cataclysmic Infuriate
-24,Enchantment,Common,Haste
-25,Creature,Legendary,Death Knight Cyclops of the Border
-26,Spell,Common,Lightning
-27,Artifact,Common,Greaves
-28,Spell,Common,Gravitation
-29,Creature,Common,Wolf
-30,Spell,Common,Reanimate
-31,Creature,Common,Ghoul
-32,Creature,Legendary,Dark Undead Orge of the Plains
-33,Spell,Common,Infuriate
-34,Creature,Common,Goblin
-35,Spell,Rare,Oblivion Invisibility
-36,Creature,Rare,Light Fighter Griffin
-37,Spell,Common,Invisibility
-38,Enchantment,Rare,Oblivion Invert
-39,Enchantment,Rare,Forged Agony
-40,Spell,Common,Pandemonium
-41,Artifact,Common,Shield
-42,Creature,Common,Wolf
-43,Creature,Common,Elf
-44,Enchantment,Rare,Lunar Shrink
+==================,DECK,7710
+0,Spell,Oblivion Stun
+1,Spell,Assault
+2,Creature,Ghoul
+3,Enchantment,Empyrean Corpse Age
+4,Spell,Gloom Ice
+5,Spell,Wall
+6,Spell,Life Assault
+7,Enchantment,Firebreath
+8,Creature,Earth Assassin Giant of the Plains
+9,Creature,Eagle
+10,Spell,Potent Frigid Ice
+11,Creature,Spider
+12,Spell,Life Gravitation
+13,Creature,Death Priest Giant of the Bright Mountains
+14,Creature,Light Merchant Elf of the Eternal Land
+15,Artifact,Corpse Ghost Wand
+16,Creature,Warlock
+17,Creature,Troll
+18,Creature,Dark Warrior Kraken
+19,Creature,Spider
+20,Creature,Death King Kraken
+21,Enchantment,Blight
+22,Creature,Magi
+23,Spell,Gloom Frost
+24,Enchantment,Firebreath
+25,Creature,Death Knight Giant of the Border
+26,Spell,Stun
+27,Artifact,Greaves
+28,Spell,Heal
+29,Creature,Wolf
+30,Spell,Pandemonium
+31,Creature,Ghoul
+32,Creature,Dark Undead Elf of the Plains
+33,Spell,Reanimate
+34,Creature,Skin-Walker
+35,Spell,Life Hypnosis
+36,Creature,Light Fighter Griffin
+37,Spell,Heal
+38,Enchantment,Oblivion Blight
+39,Enchantment,Miracle Shield
+40,Spell,Fire
+41,Artifact,Shield
+42,Creature,Wolf
+43,Creature,Warlock
+44,Enchantment,Chimeric Flight

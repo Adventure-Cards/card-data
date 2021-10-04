@@ -1,46 +1,46 @@
-==================,DECK,6601,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Ghoul
-2,Spell,Common,Gravitation
-3,Enchantment,Common,Strength
-4,Creature,Common,Warlock
-5,Enchantment,Common,Shrink
-6,Spell,Mythic,Dire Frenzy
-7,Creature,Common,Goblin
-8,Enchantment,Common,Invert
-9,Creature,Rare,Frozen Thief Berserker
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Rare,Earth Monk Hydra
-13,Creature,Rare,Earth Lord Hydra
-14,Spell,Common,Pandemonium
-15,Enchantment,Common,Drain
-16,Creature,Common,Warlock
-17,Creature,Common,Eagle
-18,Spell,Rare,Necro Burst
-19,Enchantment,Rare,Grim Lethargy
-20,Creature,Common,Magi
-21,Spell,Rare,Nature Stricken
-22,Enchantment,Legendary,Angry Age
-23,Artifact,Common,Potion
-24,Creature,Common,Eagle
-25,Creature,Common,Goblin
-26,Spell,Rare,Frigid Gravitation
-27,Creature,Common,Wolf
-28,Artifact,Legendary,Urgent Tome
-29,Enchantment,Common,Age
-30,Creature,Common,Elf
-31,Creature,Legendary,Aura Priest Oni of the Eastern Skies
-32,Creature,Common,Warlock
-33,Spell,Common,Sorrow
-34,Creature,Rare,Frozen Fighter Hydra
-35,Creature,Common,Eagle
-36,Creature,Mythic,Earth Grand Wizard of the Shadows
-37,Spell,Rare,Hateful Maelstrom
-38,Creature,Mythic,Death Nameless Dragon of the Dead
-39,Spell,Common,Heal
-40,Creature,Common,Ghoul
-41,Spell,Rare,Grim Heal
-42,Creature,Legendary,Snow Assassin Giant of the Arctic Blizzards
-43,Artifact,Rare,Frigid Helmet
-44,Creature,Common,Magi
+==================,DECK,6601
+0,Creature,Spider
+1,Creature,Ghoul
+2,Spell,Stricken
+3,Enchantment,Shrink
+4,Creature,Berserker
+5,Enchantment,Shrink
+6,Spell,Ardent Life Ice
+7,Creature,Skin-Walker
+8,Enchantment,Drain
+9,Creature,Frozen Thief Goblin
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Earth Monk Hydra
+13,Creature,Earth Lord Hydra
+14,Spell,Reanimate
+15,Enchantment,Shield
+16,Creature,Berserker
+17,Creature,Eagle
+18,Spell,Solar Sorrow
+19,Enchantment,Grim Haste
+20,Creature,Fairy
+21,Spell,Corpse Maelstrom
+22,Enchantment,Zealous Gloom Alacrity
+23,Artifact,Potion
+24,Creature,Eagle
+25,Creature,Skin-Walker
+26,Spell,Oblivion Ice
+27,Creature,Wolf
+28,Artifact,Empyrean Hateful Tome
+29,Enchantment,Invert
+30,Creature,Warlock
+31,Creature,Aura Priest Oni of the Eastern Skies
+32,Creature,Berserker
+33,Spell,Infuriate
+34,Creature,Frozen Fighter Hydra
+35,Creature,Eagle
+36,Creature,Earth Grand Wizard of the Shadows
+37,Spell,Lunar Tempest
+38,Creature,Death Nameless Dragon of the Dead
+39,Spell,Maelstrom
+40,Creature,Ghoul
+41,Spell,Victory Lightning
+42,Creature,Snow Assassin Dwarf of the Arctic Blizzards
+43,Artifact,Victory Helmet
+44,Creature,Fairy

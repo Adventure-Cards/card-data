@@ -1,46 +1,46 @@
-==================,DECK,4285,Light
-0,Enchantment,Common,Blight
-1,Creature,Common,Wolf
-2,Creature,Common,Warlock
-3,Creature,Common,Spider
-4,Creature,Common,Wolf
-5,Spell,Legendary,Urgent Vortex
-6,Creature,Common,Warlock
-7,Enchantment,Common,Agony
-8,Enchantment,Mythic,Dire Age
-9,Creature,Common,Spider
-10,Creature,Rare,Earth Undead Skin-Walker
-11,Artifact,Rare,Cataclysmic Gloves
-12,Enchantment,Common,Strength
-13,Creature,Common,Warlock
-14,Artifact,Common,Scepter
-15,Enchantment,Common,Shade
-16,Creature,Common,Eagle
-17,Spell,Common,Hypnosis
-18,Creature,Common,Dwarf
-19,Spell,Common,Revive
-20,Spell,Common,Freeze
-21,Enchantment,Common,Shade
-22,Creature,Rare,Aura Thief Minotaur
-23,Enchantment,Legendary,Clever Shrink
-24,Spell,Common,Invisibility
-25,Creature,Common,Spider
-26,Creature,Rare,Light Lord Skin-Walker
-27,Creature,Common,Magi
-28,Creature,Common,Goblin
-29,Creature,Legendary,Light Undead Orge of the Low Hills
-30,Enchantment,Common,Deathgrip
-31,Spell,Rare,Lunar Fury
-32,Spell,Common,Fury
-33,Creature,Common,Eagle
-34,Creature,Rare,Aura Fighter Berserker
-35,Creature,Common,Magi
-36,Enchantment,Common,Deathgrip
-37,Spell,Common,Assault
-38,Spell,Common,Reanimate
-39,Creature,Common,Orc
-40,Creature,Common,Orc
-41,Creature,Common,Ghoul
-42,Creature,Common,Dwarf
-43,Creature,Rare,Light Knight Fairy
-44,Creature,Common,Wolf
+==================,DECK,4285
+0,Enchantment,Strength
+1,Creature,Wolf
+2,Creature,Berserker
+3,Creature,Paladin
+4,Creature,Wolf
+5,Spell,Irate Nature Assault
+6,Creature,Berserker
+7,Enchantment,Shade
+8,Enchantment,Mighty Victory Invert
+9,Creature,Paladin
+10,Creature,Earth Undead Orc
+11,Artifact,Gloom Gloves
+12,Enchantment,Flight
+13,Creature,Berserker
+14,Artifact,Scepter
+15,Enchantment,Drain
+16,Creature,Eagle
+17,Spell,Fireball
+18,Creature,Magi
+19,Spell,Frenzy
+20,Spell,Hypnosis
+21,Enchantment,Strength
+22,Creature,Aura Thief Cyclops
+23,Enchantment,Mighty Frigid Invert
+24,Spell,Fire
+25,Creature,Paladin
+26,Creature,Light Lord Orc
+27,Creature,Fairy
+28,Creature,Skin-Walker
+29,Creature,Light Undead Elf of the Low Hills
+30,Enchantment,Invert
+31,Spell,Gloom Infuriate
+32,Spell,Frenzy
+33,Creature,Eagle
+34,Creature,Aura Fighter Goblin
+35,Creature,Fairy
+36,Enchantment,Alacrity
+37,Spell,Vortex
+38,Spell,Stun
+39,Creature,Spider
+40,Creature,Spider
+41,Creature,Ghoul
+42,Creature,Magi
+43,Creature,Light Knight Kraken
+44,Creature,Wolf

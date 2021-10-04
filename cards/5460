@@ -1,46 +1,46 @@
-==================,DECK,5460,Medium
-0,Spell,Common,Stun
-1,Creature,Common,Eagle
-2,Creature,Common,Orc
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Dark Alacrity
-5,Creature,Rare,Light Fighter Griffin
-6,Creature,Rare,Snow Monk Berserker
-7,Enchantment,Common,Age
-8,Spell,Rare,Nature Burn
-9,Creature,Common,Spider
-10,Creature,Common,Eagle
-11,Creature,Common,Magi
-12,Enchantment,Rare,Miracle Flight
-13,Enchantment,Rare,Miracle Shrink
-14,Creature,Common,Orc
-15,Artifact,Common,Ring
-16,Enchantment,Mythic,Instant Lethargy
-17,Creature,Common,Goblin
-18,Artifact,Common,Bracers
-19,Spell,Common,Ice
-20,Spell,Common,Stricken
-21,Creature,Common,Orc
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Creature,Common,Elf
-26,Enchantment,Rare,Cataclysmic Haste
-27,Creature,Rare,Dark Rogue Berserker
-28,Spell,Common,Vortex
-29,Enchantment,Common,Blight
-30,Creature,Rare,Dark Thief Berserker
-31,Spell,Common,Reanimate
-32,Enchantment,Common,Strength
-33,Enchantment,Common,Lethargy
-34,Creature,Legendary,Death Merchant Orge of the Border
-35,Creature,Common,Eagle
-36,Enchantment,Mythic,Dire Blight
-37,Creature,Common,Wolf
-38,Enchantment,Rare,Lunar Deathgrip
-39,Spell,Common,Stun
-40,Enchantment,Common,Strength
-41,Creature,Common,Warlock
-42,Creature,Legendary,Light King Kraken of the Bright Mountains
-43,Creature,Common,Orc
-44,Spell,Rare,Oblivion Revive
+==================,DECK,5460
+0,Spell,Infuriate
+1,Creature,Eagle
+2,Creature,Spider
+3,Creature,Wolf
+4,Enchantment,Dark Alacrity
+5,Creature,Light Fighter Griffin
+6,Creature,Snow Monk Goblin
+7,Enchantment,Invert
+8,Spell,Solar Frost
+9,Creature,Paladin
+10,Creature,Eagle
+11,Creature,Fairy
+12,Enchantment,Grim Shade
+13,Enchantment,Frigid Blight
+14,Creature,Spider
+15,Artifact,Ring
+16,Enchantment,Instant Hateful Strength
+17,Creature,Skin-Walker
+18,Artifact,Bracers
+19,Spell,Pandemonium
+20,Spell,Assault
+21,Creature,Spider
+22,Creature,Ghoul
+23,Enchantment,Haste
+24,Creature,Wolf
+25,Creature,Warlock
+26,Enchantment,Miracle Shrink
+27,Creature,Dark Rogue Goblin
+28,Spell,Tempest
+29,Enchantment,Deathgrip
+30,Creature,Dark Thief Goblin
+31,Spell,Maelstrom
+32,Enchantment,Blight
+33,Enchantment,Agony
+34,Creature,Death Merchant Elf of the Border
+35,Creature,Eagle
+36,Enchantment,Zealous Nimble Blight
+37,Creature,Wolf
+38,Enchantment,Sorrow Shield
+39,Spell,Burst
+40,Enchantment,Blight
+41,Creature,Berserker
+42,Creature,Light King Ogre of the Bright Mountains
+43,Creature,Spider
+44,Spell,Victory Reanimate

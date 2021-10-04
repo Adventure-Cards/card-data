@@ -1,46 +1,46 @@
-==================,DECK,4140,Light
-0,Enchantment,Common,Age
-1,Creature,Common,Eagle
-2,Enchantment,Rare,Grim Lethargy
-3,Enchantment,Common,Drain
-4,Creature,Legendary,Aura Fighter Giant of the Border
-5,Spell,Common,Infuriate
-6,Creature,Common,Ghoul
-7,Enchantment,Common,Deathgrip
-8,Creature,Mythic,Frozen Grand Wizard of the Void
-9,Enchantment,Common,Haste
-10,Creature,Common,Magi
-11,Creature,Common,Warlock
-12,Enchantment,Common,Alacrity
-13,Creature,Rare,Earth Lord Griffin
-14,Creature,Common,Elf
-15,Creature,Rare,Death Fighter Griffin
-16,Creature,Common,Dwarf
-17,Creature,Common,Goblin
-18,Creature,Common,Goblin
-19,Creature,Common,Ghoul
-20,Creature,Common,Dwarf
-21,Creature,Legendary,Frozen Merchant Kraken of the Polar Woods
-22,Creature,Rare,Frozen Lord Minotaur
-23,Creature,Common,Magi
-24,Creature,Common,Elf
-25,Spell,Common,Sorrow
-26,Spell,Rare,Dark Frost
-27,Artifact,Common,Scythe
-28,Creature,Common,Paladin
-29,Enchantment,Common,Shield
-30,Spell,Common,Heal
-31,Enchantment,Common,Haste
-32,Spell,Rare,Life Hypnosis
-33,Creature,Common,Eagle
-34,Spell,Common,Freeze
-35,Spell,Rare,Lunar Ice
-36,Artifact,Rare,Cataclysmic Boots
-37,Creature,Common,Spider
-38,Creature,Common,Orc
-39,Artifact,Common,Gauntlet
-40,Artifact,Common,Potion
-41,Spell,Common,Wall
-42,Artifact,Common,Boots
-43,Creature,Common,Magi
-44,Spell,Rare,Dark Rage
+==================,DECK,4140
+0,Enchantment,Blight
+1,Creature,Eagle
+2,Enchantment,Grim Shade
+3,Enchantment,Firebreath
+4,Creature,Aura Fighter Dwarf of the Border
+5,Spell,Reanimate
+6,Creature,Ghoul
+7,Enchantment,Lethargy
+8,Creature,Frozen Grand Wizard of the Void
+9,Enchantment,Haste
+10,Creature,Fairy
+11,Creature,Berserker
+12,Enchantment,Shade
+13,Creature,Earth Lord Griffin
+14,Creature,Warlock
+15,Creature,Death Fighter Griffin
+16,Creature,Magi
+17,Creature,Skin-Walker
+18,Creature,Skin-Walker
+19,Creature,Ghoul
+20,Creature,Magi
+21,Creature,Frozen Merchant Ogre of the Polar Woods
+22,Creature,Frozen Lord Cyclops
+23,Creature,Fairy
+24,Creature,Warlock
+25,Spell,Tempest
+26,Spell,Lunar Pandemonium
+27,Artifact,Scythe
+28,Creature,Troll
+29,Enchantment,Firebreath
+30,Spell,Reanimate
+31,Enchantment,Lethargy
+32,Spell,Frigid Wall
+33,Creature,Eagle
+34,Spell,Frost
+35,Spell,Lunar Frenzy
+36,Artifact,Dark Boots
+37,Creature,Paladin
+38,Creature,Spider
+39,Artifact,Gauntlet
+40,Artifact,Potion
+41,Spell,Stun
+42,Artifact,Boots
+43,Creature,Fairy
+44,Spell,Miracle Assault

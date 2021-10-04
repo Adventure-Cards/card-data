@@ -1,46 +1,46 @@
-==================,DECK,6533,Light
-0,Enchantment,Common,Shade
-1,Enchantment,Mythic,Dire Deathgrip
-2,Enchantment,Common,Shield
-3,Creature,Common,Elf
-4,Spell,Common,Torment
-5,Creature,Rare,Death Lord Berserker
-6,Creature,Common,Warlock
-7,Creature,Legendary,Earth Rogue Giant of the Border
-8,Creature,Common,Goblin
-9,Spell,Rare,Corpse Freeze
-10,Creature,Rare,Frozen Monk Griffin
-11,Enchantment,Rare,Lunar Shrink
-12,Creature,Common,Goblin
-13,Spell,Common,Assault
-14,Enchantment,Common,Drain
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Eagle
-18,Enchantment,Legendary,Instant Shield
-19,Artifact,Legendary,Potent Helmet
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Magi
-22,Enchantment,Common,Strength
-23,Enchantment,Legendary,Intense Deathgrip
-24,Creature,Common,Paladin
-25,Spell,Common,Revive
-26,Enchantment,Rare,Hateful Shrink
-27,Spell,Common,Invisibility
-28,Creature,Common,Magi
-29,Creature,Common,Warlock
-30,Enchantment,Common,Agony
-31,Enchantment,Common,Flight
-32,Creature,Common,Goblin
-33,Artifact,Common,Helm
-34,Creature,Common,Spider
-35,Creature,Common,Dwarf
-36,Creature,Legendary,Snow Priest Oni of the Bright Mountains
-37,Spell,Common,Frost
-38,Spell,Legendary,Clever Stun
-39,Creature,Common,Dwarf
-40,Artifact,Common,Staff
-41,Artifact,Common,Gloves
-42,Creature,Legendary,Aura Lord Giant of the West
-43,Enchantment,Common,Shade
-44,Spell,Common,Reanimate
+==================,DECK,6533
+0,Enchantment,Drain
+1,Enchantment,Empyrean Oblivion Shade
+2,Enchantment,Invert
+3,Creature,Warlock
+4,Spell,Burst
+5,Creature,Death Lord Goblin
+6,Creature,Berserker
+7,Creature,Earth Rogue Dwarf of the Border
+8,Creature,Skin-Walker
+9,Spell,Corpse Burst
+10,Creature,Frozen Monk Griffin
+11,Enchantment,Chimeric Shrink
+12,Creature,Skin-Walker
+13,Spell,Burn
+14,Enchantment,Agony
+15,Enchantment,Alacrity
+16,Enchantment,Haste
+17,Creature,Eagle
+18,Enchantment,Ardent Nature Lethargy
+19,Artifact,Irate Grim Helmet
+20,Enchantment,Alacrity
+21,Creature,Fairy
+22,Enchantment,Invert
+23,Enchantment,Clever Shimmering Lethargy
+24,Creature,Troll
+25,Spell,Vortex
+26,Enchantment,Chimeric Shrink
+27,Spell,Fireball
+28,Creature,Fairy
+29,Creature,Berserker
+30,Enchantment,Alacrity
+31,Enchantment,Shield
+32,Creature,Skin-Walker
+33,Artifact,Helm
+34,Creature,Paladin
+35,Creature,Magi
+36,Creature,Snow Priest Oni of the Bright Mountains
+37,Spell,Vortex
+38,Spell,Empyrean Grim Stun
+39,Creature,Magi
+40,Artifact,Staff
+41,Artifact,Gloves
+42,Creature,Aura Lord Dwarf of the West
+43,Enchantment,Agony
+44,Spell,Stricken

@@ -1,46 +1,46 @@
-==================,DECK,6068,Medium
-0,Spell,Common,Invisibility
-1,Creature,Common,Magi
-2,Enchantment,Common,Shield
-3,Creature,Rare,Light Priest Griffin
-4,Creature,Common,Paladin
-5,Creature,Rare,Snow King Berserker
-6,Creature,Common,Spider
-7,Spell,Common,Frost
-8,Creature,Common,Wolf
-9,Enchantment,Legendary,Clever Shade
-10,Creature,Legendary,Dark Queen Orge of the Low Hills
-11,Creature,Legendary,Death Warrior Kraken of the Low Hills
-12,Creature,Rare,Frozen Undead Hydra
-13,Enchantment,Common,Shrink
-14,Artifact,Legendary,Extreme Gloves
-15,Enchantment,Common,Age
-16,Creature,Rare,Earth Warrior Fairy
-17,Creature,Rare,Earth Merchant Griffin
-18,Enchantment,Common,Shade
-19,Creature,Common,Ghoul
-20,Artifact,Rare,Nature Sigil
-21,Creature,Common,Paladin
-22,Creature,Common,Elf
-23,Spell,Common,Lightning
-24,Creature,Mythic,Light Undead Dragon of the Sky
-25,Creature,Common,Warlock
-26,Creature,Common,Elf
-27,Enchantment,Common,Lethargy
-28,Artifact,Legendary,Mighty Belt
-29,Enchantment,Common,Blight
-30,Creature,Common,Magi
-31,Spell,Rare,Nature Sorrow
-32,Creature,Common,Dwarf
-33,Spell,Common,Frenzy
-34,Creature,Common,Eagle
-35,Artifact,Common,Crown
-36,Creature,Rare,Light Queen Skin-Walker
-37,Creature,Common,Ghoul
-38,Enchantment,Legendary,Intense Shrink
-39,Creature,Common,Dwarf
-40,Enchantment,Common,Shield
-41,Creature,Common,Dwarf
-42,Artifact,Rare,Life Sword
-43,Enchantment,Common,Strength
-44,Enchantment,Rare,Nature Drain
+==================,DECK,6068
+0,Spell,Pandemonium
+1,Creature,Fairy
+2,Enchantment,Blight
+3,Creature,Light Priest Griffin
+4,Creature,Troll
+5,Creature,Snow King Goblin
+6,Creature,Paladin
+7,Spell,Freeze
+8,Creature,Wolf
+9,Enchantment,Dire Frigid Shade
+10,Creature,Dark Queen Elf of the Low Hills
+11,Creature,Death Warrior Ogre of the Low Hills
+12,Creature,Frozen Undead Hydra
+13,Enchantment,Firebreath
+14,Artifact,Instant Cataclysmic Gloves
+15,Enchantment,Flight
+16,Creature,Earth Warrior Kraken
+17,Creature,Earth Merchant Griffin
+18,Enchantment,Shade
+19,Creature,Ghoul
+20,Artifact,Hateful Sigil
+21,Creature,Troll
+22,Creature,Warlock
+23,Spell,Pandemonium
+24,Creature,Light Undead Dragon of the Sky
+25,Creature,Berserker
+26,Creature,Warlock
+27,Enchantment,Age
+28,Artifact,Empyrean Miracle Belt
+29,Enchantment,Drain
+30,Creature,Fairy
+31,Spell,Hateful Pandemonium
+32,Creature,Magi
+33,Spell,Tempest
+34,Creature,Eagle
+35,Artifact,Crown
+36,Creature,Light Queen Orc
+37,Creature,Ghoul
+38,Enchantment,Mighty Necro Agony
+39,Creature,Magi
+40,Enchantment,Invert
+41,Creature,Magi
+42,Artifact,Grim Sword
+43,Enchantment,Age
+44,Enchantment,Forged Strength

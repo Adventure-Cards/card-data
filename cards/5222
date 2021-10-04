@@ -1,46 +1,46 @@
-==================,DECK,5222,Medium
-0,Creature,Legendary,Aura Queen Cyclops of the Black Stone
-1,Creature,Common,Orc
-2,Creature,Rare,Frozen Knight Skin-Walker
-3,Spell,Rare,Apocalypse Burn
-4,Creature,Common,Wolf
-5,Creature,Rare,Frozen Thief Berserker
-6,Artifact,Common,Sword
-7,Artifact,Common,Scepter
-8,Creature,Common,Orc
-9,Creature,Common,Wolf
-10,Creature,Rare,Frozen Knight Berserker
-11,Artifact,Rare,Lunar Scepter
-12,Artifact,Common,Helm
-13,Creature,Common,Eagle
-14,Enchantment,Rare,Lunar Haste
-15,Spell,Common,Gravitation
-16,Creature,Legendary,Light Lord Kraken of the West
-17,Spell,Common,Rage
-18,Spell,Rare,Life Ice
-19,Creature,Legendary,Aura Rogue Kraken of the Arctic Blizzards
-20,Creature,Common,Ghoul
-21,Spell,Common,Stun
-22,Creature,Common,Warlock
-23,Enchantment,Mythic,Dire Deathgrip
-24,Enchantment,Rare,Cataclysmic Age
-25,Creature,Rare,Aura Undead Berserker
-26,Enchantment,Common,Agony
-27,Creature,Common,Paladin
-28,Artifact,Common,Ghost Wand
-29,Creature,Rare,Light Queen Skin-Walker
-30,Artifact,Rare,Nature Potion
-31,Enchantment,Common,Lethargy
-32,Creature,Common,Wolf
-33,Creature,Mythic,Dark Nameless Phoenix of Illusion
-34,Enchantment,Mythic,Mighty Invert
-35,Creature,Common,Orc
-36,Creature,Rare,Dark Warrior Berserker
-37,Artifact,Rare,Dark Greaves
-38,Creature,Rare,Light Fighter Berserker
-39,Creature,Common,Paladin
-40,Spell,Mythic,Dire Heal
-41,Enchantment,Legendary,Instant Strength
-42,Creature,Common,Warlock
-43,Spell,Legendary,Instant Fury
-44,Creature,Mythic,Death Ancient Demon of the Dead
+==================,DECK,5222
+0,Creature,Aura Queen Giant of the Black Stone
+1,Creature,Spider
+2,Creature,Frozen Knight Orc
+3,Spell,Apocalypse Gale
+4,Creature,Wolf
+5,Creature,Frozen Thief Goblin
+6,Artifact,Sword
+7,Artifact,Scepter
+8,Creature,Spider
+9,Creature,Wolf
+10,Creature,Frozen Knight Goblin
+11,Artifact,Miracle Scepter
+12,Artifact,Helm
+13,Creature,Eagle
+14,Enchantment,Miracle Firebreath
+15,Spell,Infuriate
+16,Creature,Light Lord Ogre of the West
+17,Spell,Lightning
+18,Spell,Oblivion Torment
+19,Creature,Aura Rogue Ogre of the Arctic Blizzards
+20,Creature,Ghoul
+21,Spell,Burst
+22,Creature,Berserker
+23,Enchantment,Empyrean Oblivion Shade
+24,Enchantment,Gloom Firebreath
+25,Creature,Aura Undead Goblin
+26,Enchantment,Shield
+27,Creature,Troll
+28,Artifact,Ghost Wand
+29,Creature,Light Queen Orc
+30,Artifact,Nature Potion
+31,Enchantment,Haste
+32,Creature,Wolf
+33,Creature,Dark Nameless Phoenix of Illusion
+34,Enchantment,Urgent Sorrow Flight
+35,Creature,Spider
+36,Creature,Dark Warrior Goblin
+37,Artifact,Lunar Greaves
+38,Creature,Light Fighter Goblin
+39,Creature,Troll
+40,Spell,Instant Frigid Tempest
+41,Enchantment,Ardent Solar Lethargy
+42,Creature,Berserker
+43,Spell,Clever Corpse Stun
+44,Creature,Death Ancient Demon of the Dead

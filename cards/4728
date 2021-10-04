@@ -1,46 +1,46 @@
-==================,DECK,4728,Light
-0,Spell,Rare,Frigid Lightning
-1,Creature,Common,Goblin
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Wolf
-4,Artifact,Common,Boots
-5,Creature,Common,Ghoul
-6,Creature,Rare,Snow Thief Griffin
-7,Spell,Common,Fury
-8,Creature,Common,Paladin
-9,Creature,Common,Paladin
-10,Spell,Common,Sorrow
-11,Artifact,Common,Boots
-12,Creature,Common,Paladin
-13,Creature,Common,Eagle
-14,Enchantment,Common,Shield
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Legendary,Light Knight Oni of the Low Hills
-18,Enchantment,Common,Invert
-19,Creature,Common,Wolf
-20,Creature,Legendary,Dark King Cyclops of the Black Stone
-21,Enchantment,Common,Invert
-22,Spell,Common,Ice
-23,Creature,Rare,Earth Fighter Skin-Walker
-24,Creature,Common,Eagle
-25,Artifact,Common,Tome
-26,Spell,Rare,Shimmering Sorrow
-27,Enchantment,Common,Blight
-28,Enchantment,Common,Deathgrip
-29,Creature,Rare,Earth Lord Minotaur
-30,Enchantment,Common,Deathgrip
-31,Spell,Legendary,Instant Burst
-32,Creature,Common,Goblin
-33,Enchantment,Rare,Frigid Alacrity
-34,Artifact,Common,Potion
-35,Artifact,Rare,Miracle Scepter
-36,Creature,Common,Eagle
-37,Creature,Rare,Aura Fighter Skin-Walker
-38,Enchantment,Common,Agony
-39,Creature,Rare,Aura Monk Minotaur
-40,Creature,Rare,Light Warrior Griffin
-41,Enchantment,Common,Haste
-42,Creature,Common,Orc
-43,Enchantment,Common,Age
-44,Enchantment,Common,Shrink
+==================,DECK,4728
+0,Spell,Apocalypse Freeze
+1,Creature,Skin-Walker
+2,Enchantment,Haste
+3,Creature,Wolf
+4,Artifact,Boots
+5,Creature,Ghoul
+6,Creature,Snow Thief Griffin
+7,Spell,Ice
+8,Creature,Troll
+9,Creature,Troll
+10,Spell,Lightning
+11,Artifact,Boots
+12,Creature,Troll
+13,Creature,Eagle
+14,Enchantment,Drain
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Light Knight Oni of the Low Hills
+18,Enchantment,Drain
+19,Creature,Wolf
+20,Creature,Dark King Giant of the Black Stone
+21,Enchantment,Shrink
+22,Spell,Wall
+23,Creature,Earth Fighter Orc
+24,Creature,Eagle
+25,Artifact,Tome
+26,Spell,Solar Lightning
+27,Enchantment,Agony
+28,Enchantment,Agony
+29,Creature,Earth Lord Cyclops
+30,Enchantment,Shrink
+31,Spell,Potent Corpse Pandemonium
+32,Creature,Skin-Walker
+33,Enchantment,Apocalypse Drain
+34,Artifact,Potion
+35,Artifact,Victory Scepter
+36,Creature,Eagle
+37,Creature,Aura Fighter Orc
+38,Enchantment,Agony
+39,Creature,Aura Monk Cyclops
+40,Creature,Light Warrior Griffin
+41,Enchantment,Shade
+42,Creature,Spider
+43,Enchantment,Shade
+44,Enchantment,Invert

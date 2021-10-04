@@ -1,48 +1,4 @@
-0,Creature,Paladin
-1,Creature,Ghoul
-2,Spell,Freeze
-3,Creature,Fairy
-4,Enchantment,Age
-5,Spell,Rage
-6,Creature,Fairy
-7,Enchantment,Shade
-8,Creature,Frozen Queen Ogre of the Low Hills
-9,Spell,Tempest
-10,Creature,Wolf
-11,Spell,Maelstrom
-12,Creature,Warlock
-13,Creature,Dark Grand Wizard of Illusion
-14,Creature,Warlock
-15,Creature,Snow Merchant Cyclops
-16,Creature,Fairy
-17,Creature,Skin-Walker
-18,Artifact,Empyrean Chimeric Scythe
-19,Spell,Burst
-20,Creature,Magi
-21,Creature,Warlock
-22,Enchantment,Invert
-23,Creature,Warlock
-24,Creature,Light Fighter Dwarf of the Bright Mountains
-25,Spell,Frost
-26,Creature,Snow Merchant Elf of the Polar Woods
-27,Creature,Snow King Hydra
-28,Creature,Ghoul
-29,Enchantment,Flight
-30,Enchantment,Solar Age
-31,Creature,Earth Knight Kraken
-32,Artifact,Scepter
-33,Creature,Berserker
-34,Spell,Sorrow
-35,Artifact,Pendant
-36,Creature,Magi
-37,Spell,Assault
-38,Creature,Magi
-39,Enchantment,Flight
-40,Artifact,Sorrow Helmet
-41,Spell,Frost
-42,Enchantment,Shade
-43,Artifact,Zealous Cataclysmic Pendant
-44,Creature,Frozen Monk Giant of the Magical Forest
+==================,DECK,2020
 0,Creature,Paladin
 1,Creature,Ghoul
 2,Spell,Freeze

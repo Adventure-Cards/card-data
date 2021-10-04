@@ -1,46 +1,46 @@
-==================,DECK,5160,Medium
-0,Spell,Legendary,Extreme Hypnosis
-1,Creature,Common,Dwarf
-2,Creature,Rare,Death Lord Hydra
-3,Spell,Common,Hypnosis
-4,Artifact,Common,Potion
-5,Spell,Rare,Dark Frenzy
-6,Creature,Common,Dwarf
-7,Creature,Common,Spider
-8,Artifact,Rare,Apocalypse Staff
-9,Artifact,Rare,Apocalypse Helmet
-10,Creature,Common,Eagle
-11,Creature,Common,Goblin
-12,Artifact,Rare,Forged Sigil
-13,Creature,Mythic,Dark Chaos Wizard of Illusion
-14,Spell,Common,Sorrow
-15,Creature,Rare,Dark Assassin Hydra
-16,Creature,Common,Eagle
-17,Creature,Mythic,Dark Grand Demon of Illusion
-18,Artifact,Rare,Miracle Ring
-19,Artifact,Rare,Solar Bracers
-20,Creature,Rare,Death Merchant Berserker
-21,Enchantment,Common,Haste
-22,Creature,Common,Goblin
-23,Creature,Common,Spider
-24,Creature,Common,Wolf
-25,Creature,Common,Wolf
-26,Creature,Common,Goblin
-27,Enchantment,Rare,Solar Invert
-28,Spell,Common,Fury
-29,Creature,Common,Ghoul
-30,Artifact,Common,Crown
-31,Enchantment,Common,Shrink
-32,Artifact,Rare,Oblivion Ring
-33,Creature,Rare,Earth Monk Skin-Walker
-34,Creature,Common,Warlock
-35,Artifact,Rare,Forged Bow
-36,Creature,Common,Orc
-37,Enchantment,Common,Lethargy
-38,Spell,Common,Stricken
-39,Creature,Common,Warlock
-40,Artifact,Rare,Forged Greaves
-41,Enchantment,Common,Strength
-42,Spell,Common,Wall
-43,Enchantment,Common,Blight
-44,Artifact,Common,Bracers
+==================,DECK,5160
+0,Spell,Mighty Sorrow Fire
+1,Creature,Magi
+2,Creature,Death Lord Hydra
+3,Spell,Tempest
+4,Artifact,Potion
+5,Spell,Lunar Fire
+6,Creature,Magi
+7,Creature,Paladin
+8,Artifact,Frigid Staff
+9,Artifact,Life Helmet
+10,Creature,Eagle
+11,Creature,Skin-Walker
+12,Artifact,Chimeric Sigil
+13,Creature,Dark Chaos Wizard of Illusion
+14,Spell,Stricken
+15,Creature,Dark Assassin Hydra
+16,Creature,Eagle
+17,Creature,Dark Grand Demon of Illusion
+18,Artifact,Grim Ring
+19,Artifact,Necro Bracers
+20,Creature,Death Merchant Goblin
+21,Enchantment,Invert
+22,Creature,Skin-Walker
+23,Creature,Paladin
+24,Creature,Wolf
+25,Creature,Wolf
+26,Creature,Skin-Walker
+27,Enchantment,Shimmering Deathgrip
+28,Spell,Pandemonium
+29,Creature,Ghoul
+30,Artifact,Crown
+31,Enchantment,Blight
+32,Artifact,Oblivion Ring
+33,Creature,Earth Monk Orc
+34,Creature,Berserker
+35,Artifact,Dark Bow
+36,Creature,Spider
+37,Enchantment,Shield
+38,Spell,Fireball
+39,Creature,Berserker
+40,Artifact,Dark Greaves
+41,Enchantment,Agony
+42,Spell,Vortex
+43,Enchantment,Flight
+44,Artifact,Bracers

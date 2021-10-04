@@ -1,46 +1,46 @@
-==================,DECK,5495,Medium
-0,Spell,Common,Ice
-1,Creature,Legendary,Snow Assassin Oni of the Arctic Blizzards
-2,Creature,Rare,Snow King Skin-Walker
-3,Artifact,Rare,Dark Sword
-4,Spell,Rare,Dark Invisibility
-5,Artifact,Common,Pendant
-6,Enchantment,Common,Agony
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Enchantment,Rare,Apocalypse Flight
-10,Creature,Rare,Aura Priest Skin-Walker
-11,Creature,Common,Orc
-12,Creature,Common,Eagle
-13,Enchantment,Common,Lethargy
-14,Spell,Common,Invisibility
-15,Creature,Common,Warlock
-16,Creature,Common,Goblin
-17,Creature,Mythic,Death Time Dragon of the Dead
-18,Artifact,Common,Belt
-19,Creature,Rare,Dark Monk Skin-Walker
-20,Creature,Rare,Frozen Assassin Skin-Walker
-21,Enchantment,Rare,Solar Strength
-22,Enchantment,Common,Agony
-23,Spell,Rare,Apocalypse Stricken
-24,Creature,Common,Wolf
-25,Creature,Common,Orc
-26,Enchantment,Common,Blight
-27,Creature,Common,Elf
-28,Creature,Rare,Death Merchant Minotaur
-29,Creature,Common,Goblin
-30,Enchantment,Rare,Apocalypse Drain
-31,Creature,Legendary,Death King Orge of the Black Stone
-32,Spell,Common,Lightning
-33,Spell,Common,Fury
-34,Creature,Mythic,Death Time Dragon of the Dead
-35,Enchantment,Common,Lethargy
-36,Enchantment,Common,Haste
-37,Creature,Mythic,Dark Grand Wizard of Illusion
-38,Creature,Legendary,Death King Cyclops of the Black Stone
-39,Creature,Common,Elf
-40,Creature,Legendary,Frozen Merchant Orge of the Plains
-41,Creature,Common,Ghoul
-42,Enchantment,Common,Blight
-43,Spell,Common,Assault
-44,Creature,Rare,Dark Queen Minotaur
+==================,DECK,5495
+0,Spell,Frenzy
+1,Creature,Snow Assassin Oni of the Arctic Blizzards
+2,Creature,Snow King Orc
+3,Artifact,Miracle Sword
+4,Spell,Chimeric Assault
+5,Artifact,Pendant
+6,Enchantment,Shield
+7,Creature,Troll
+8,Creature,Spider
+9,Enchantment,Grim Invert
+10,Creature,Aura Priest Orc
+11,Creature,Spider
+12,Creature,Eagle
+13,Enchantment,Strength
+14,Spell,Sorrow
+15,Creature,Berserker
+16,Creature,Skin-Walker
+17,Creature,Death Time Dragon of the Dead
+18,Artifact,Belt
+19,Creature,Dark Monk Orc
+20,Creature,Frozen Assassin Orc
+21,Enchantment,Solar Strength
+22,Enchantment,Lethargy
+23,Spell,Oblivion Wall
+24,Creature,Wolf
+25,Creature,Spider
+26,Enchantment,Shield
+27,Creature,Warlock
+28,Creature,Death Merchant Cyclops
+29,Creature,Skin-Walker
+30,Enchantment,Apocalypse Drain
+31,Creature,Death King Elf of the Black Stone
+32,Spell,Fury
+33,Spell,Invisibility
+34,Creature,Death Time Dragon of the Dead
+35,Enchantment,Shade
+36,Enchantment,Invert
+37,Creature,Dark Grand Wizard of Illusion
+38,Creature,Death King Giant of the Black Stone
+39,Creature,Warlock
+40,Creature,Frozen Merchant Elf of the Plains
+41,Creature,Ghoul
+42,Enchantment,Alacrity
+43,Spell,Assault
+44,Creature,Dark Queen Cyclops

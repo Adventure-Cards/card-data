@@ -1,46 +1,46 @@
-==================,DECK,6035,Medium
-0,Spell,Common,Pandemonium
-1,Creature,Mythic,Earth Grand Demon of the Shadows
-2,Enchantment,Common,Alacrity
-3,Spell,Common,Maelstrom
-4,Spell,Rare,Solar Torment
-5,Enchantment,Rare,Miracle Age
-6,Creature,Rare,Light Rogue Skin-Walker
-7,Creature,Common,Dwarf
-8,Spell,Common,Ice
-9,Creature,Rare,Aura Knight Berserker
-10,Creature,Common,Orc
-11,Creature,Rare,Light Knight Griffin
-12,Creature,Common,Wolf
-13,Creature,Rare,Death Lord Griffin
-14,Artifact,Rare,Nature Pendant
-15,Creature,Rare,Death Knight Griffin
-16,Creature,Common,Eagle
-17,Spell,Rare,Miracle Maelstrom
-18,Creature,Rare,Dark Monk Skin-Walker
-19,Creature,Common,Eagle
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Creature,Common,Orc
-23,Spell,Common,Fury
-24,Spell,Common,Ice
-25,Creature,Legendary,Death Undead Giant of the Swamp
-26,Creature,Rare,Earth King Minotaur
-27,Artifact,Common,Scythe
-28,Creature,Rare,Death Warrior Skin-Walker
-29,Spell,Common,Stun
-30,Spell,Rare,Nature Stun
-31,Creature,Rare,Death Priest Fairy
-32,Creature,Rare,Aura King Hydra
-33,Artifact,Legendary,Intense Boots
-34,Creature,Rare,Earth Assassin Fairy
-35,Creature,Rare,Earth Lord Hydra
-36,Creature,Rare,Earth King Fairy
-37,Enchantment,Common,Drain
-38,Creature,Common,Orc
-39,Enchantment,Common,Deathgrip
-40,Creature,Rare,Dark Undead Griffin
-41,Creature,Rare,Frozen Fighter Fairy
-42,Creature,Common,Dwarf
-43,Spell,Common,Hypnosis
-44,Artifact,Common,Bracers
+==================,DECK,6035
+0,Spell,Burst
+1,Creature,Earth Grand Demon of the Shadows
+2,Enchantment,Invert
+3,Spell,Reanimate
+4,Spell,Hateful Vortex
+5,Enchantment,Victory Haste
+6,Creature,Light Rogue Orc
+7,Creature,Magi
+8,Spell,Stricken
+9,Creature,Aura Knight Goblin
+10,Creature,Spider
+11,Creature,Light Knight Griffin
+12,Creature,Wolf
+13,Creature,Death Lord Griffin
+14,Artifact,Solar Pendant
+15,Creature,Death Knight Griffin
+16,Creature,Eagle
+17,Spell,Nimble Frenzy
+18,Creature,Dark Monk Orc
+19,Creature,Eagle
+20,Creature,Eagle
+21,Creature,Berserker
+22,Creature,Spider
+23,Spell,Tempest
+24,Spell,Fire
+25,Creature,Death Undead Dwarf of the Swamp
+26,Creature,Earth King Cyclops
+27,Artifact,Scythe
+28,Creature,Death Warrior Orc
+29,Spell,Tempest
+30,Spell,Corpse Revive
+31,Creature,Death Priest Kraken
+32,Creature,Aura King Hydra
+33,Artifact,Clever Forged Boots
+34,Creature,Earth Assassin Kraken
+35,Creature,Earth Lord Hydra
+36,Creature,Earth King Kraken
+37,Enchantment,Age
+38,Creature,Spider
+39,Enchantment,Flight
+40,Creature,Dark Undead Griffin
+41,Creature,Frozen Fighter Kraken
+42,Creature,Magi
+43,Spell,Fury
+44,Artifact,Bracers

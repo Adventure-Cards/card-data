@@ -1,46 +1,46 @@
-==================,DECK,6552,Medium
-0,Spell,Common,Invisibility
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Paladin
-4,Creature,Common,Ghoul
-5,Spell,Rare,Apocalypse Hypnosis
-6,Creature,Common,Ghoul
-7,Creature,Common,Orc
-8,Enchantment,Common,Drain
-9,Creature,Common,Orc
-10,Creature,Rare,Death Monk Skin-Walker
-11,Creature,Rare,Dark Monk Fairy
-12,Creature,Legendary,Frozen Assassin Orge of the Arctic Blizzards
-13,Creature,Common,Spider
-14,Creature,Common,Orc
-15,Creature,Common,Eagle
-16,Creature,Common,Magi
-17,Spell,Common,Revive
-18,Enchantment,Mythic,Intense Alacrity
-19,Creature,Legendary,Death Monk Oni of the Haven
-20,Artifact,Legendary,Angry Sword
-21,Artifact,Common,Shield
-22,Enchantment,Rare,Apocalypse Haste
-23,Spell,Rare,Grim Torment
-24,Creature,Rare,Aura Fighter Skin-Walker
-25,Creature,Common,Spider
-26,Enchantment,Common,Blight
-27,Creature,Common,Warlock
-28,Creature,Common,Dwarf
-29,Spell,Common,Invisibility
-30,Creature,Rare,Earth Rogue Hydra
-31,Enchantment,Common,Drain
-32,Creature,Common,Ghoul
-33,Enchantment,Rare,Oblivion Agony
-34,Creature,Common,Goblin
-35,Spell,Legendary,Angry Sorrow
-36,Spell,Common,Lightning
-37,Enchantment,Rare,Necro Drain
-38,Creature,Common,Elf
-39,Enchantment,Common,Shade
-40,Enchantment,Rare,Solar Lethargy
-41,Creature,Legendary,Frozen Priest Cyclops of the Mountains
-42,Enchantment,Rare,Corpse Invert
-43,Enchantment,Common,Shade
-44,Enchantment,Common,Deathgrip
+==================,DECK,6552
+0,Spell,Heal
+1,Creature,Ghoul
+2,Enchantment,Firebreath
+3,Creature,Troll
+4,Creature,Ghoul
+5,Spell,Victory Gravitation
+6,Creature,Ghoul
+7,Creature,Spider
+8,Enchantment,Age
+9,Creature,Spider
+10,Creature,Death Monk Orc
+11,Creature,Dark Monk Kraken
+12,Creature,Frozen Assassin Elf of the Arctic Blizzards
+13,Creature,Paladin
+14,Creature,Spider
+15,Creature,Eagle
+16,Creature,Fairy
+17,Spell,Maelstrom
+18,Enchantment,Ardent Forged Lethargy
+19,Creature,Death Monk Oni of the Haven
+20,Artifact,Instant Cataclysmic Sword
+21,Artifact,Shield
+22,Enchantment,Life Invert
+23,Spell,Frigid Heal
+24,Creature,Aura Fighter Orc
+25,Creature,Paladin
+26,Enchantment,Shade
+27,Creature,Berserker
+28,Creature,Magi
+29,Spell,Fire
+30,Creature,Earth Rogue Hydra
+31,Enchantment,Shade
+32,Creature,Ghoul
+33,Enchantment,Life Haste
+34,Creature,Skin-Walker
+35,Spell,Clever Sorrow Frost
+36,Spell,Pandemonium
+37,Enchantment,Forged Lethargy
+38,Creature,Warlock
+39,Enchantment,Flight
+40,Enchantment,Hateful Deathgrip
+41,Creature,Frozen Priest Giant of the Mountains
+42,Enchantment,Shimmering Lethargy
+43,Enchantment,Strength
+44,Enchantment,Shield

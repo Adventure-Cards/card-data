@@ -1,46 +1,46 @@
-==================,DECK,6187,Light
-0,Enchantment,Common,Drain
-1,Artifact,Legendary,Angry Bracers
-2,Spell,Common,Infuriate
-3,Creature,Common,Elf
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Orc
-6,Spell,Common,Revive
-7,Artifact,Common,Divine Robe
-8,Creature,Common,Orc
-9,Creature,Common,Spider
-10,Spell,Legendary,Potent Gale
-11,Creature,Rare,Death Queen Fairy
-12,Creature,Common,Dwarf
-13,Artifact,Common,Amulet
-14,Creature,Legendary,Dark Lord Cyclops of the Bright Mountains
-15,Creature,Common,Elf
-16,Creature,Rare,Aura Fighter Berserker
-17,Creature,Legendary,Earth Lord Giant of the Black Stone
-18,Creature,Rare,Earth Warrior Berserker
-19,Creature,Common,Paladin
-20,Spell,Common,Assault
-21,Creature,Common,Warlock
-22,Creature,Common,Magi
-23,Enchantment,Rare,Solar Shade
-24,Spell,Rare,Gloom Heal
-25,Creature,Rare,Earth Fighter Skin-Walker
-26,Enchantment,Common,Lethargy
-27,Artifact,Common,Scepter
-28,Enchantment,Common,Lethargy
-29,Enchantment,Common,Alacrity
-30,Spell,Common,Wall
-31,Creature,Common,Spider
-32,Artifact,Common,Bow
-33,Creature,Common,Spider
-34,Enchantment,Common,Drain
-35,Creature,Common,Magi
-36,Enchantment,Common,Shield
-37,Enchantment,Common,Flight
-38,Creature,Rare,Light Lord Fairy
-39,Spell,Common,Wall
-40,Artifact,Common,Gauntlet
-41,Creature,Rare,Snow Queen Fairy
-42,Enchantment,Common,Flight
-43,Creature,Common,Eagle
-44,Enchantment,Legendary,Dire Drain
+==================,DECK,6187
+0,Enchantment,Lethargy
+1,Artifact,Zealous Dark Bracers
+2,Spell,Fire
+3,Creature,Warlock
+4,Enchantment,Deathgrip
+5,Creature,Spider
+6,Spell,Vortex
+7,Artifact,Divine Robe
+8,Creature,Spider
+9,Creature,Paladin
+10,Spell,Clever Life Tempest
+11,Creature,Death Queen Kraken
+12,Creature,Magi
+13,Artifact,Amulet
+14,Creature,Dark Lord Giant of the Bright Mountains
+15,Creature,Warlock
+16,Creature,Aura Fighter Goblin
+17,Creature,Earth Lord Dwarf of the Black Stone
+18,Creature,Earth Warrior Goblin
+19,Creature,Troll
+20,Spell,Revive
+21,Creature,Berserker
+22,Creature,Fairy
+23,Enchantment,Necro Age
+24,Spell,Dark Fury
+25,Creature,Earth Fighter Orc
+26,Enchantment,Alacrity
+27,Artifact,Scepter
+28,Enchantment,Age
+29,Enchantment,Firebreath
+30,Spell,Fireball
+31,Creature,Paladin
+32,Artifact,Bow
+33,Creature,Paladin
+34,Enchantment,Invert
+35,Creature,Fairy
+36,Enchantment,Flight
+37,Enchantment,Age
+38,Creature,Light Lord Kraken
+39,Spell,Sorrow
+40,Artifact,Gauntlet
+41,Creature,Snow Queen Kraken
+42,Enchantment,Deathgrip
+43,Creature,Eagle
+44,Enchantment,Zealous Apocalypse Blight

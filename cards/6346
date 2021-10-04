@@ -1,46 +1,46 @@
-==================,DECK,6346,Medium
-0,Creature,Common,Magi
-1,Spell,Common,Hypnosis
-2,Creature,Common,Spider
-3,Enchantment,Rare,Solar Strength
-4,Enchantment,Common,Shield
-5,Artifact,Rare,Forged Staff
-6,Creature,Common,Wolf
-7,Artifact,Legendary,Urgent Sigil
-8,Creature,Common,Warlock
-9,Artifact,Common,Gloves
-10,Creature,Rare,Dark Monk Skin-Walker
-11,Creature,Rare,Aura King Hydra
-12,Spell,Legendary,Potent Stun
-13,Creature,Rare,Earth King Griffin
-14,Creature,Common,Eagle
-15,Creature,Rare,Earth Fighter Berserker
-16,Artifact,Common,Potion
-17,Creature,Common,Wolf
-18,Creature,Common,Elf
-19,Artifact,Common,Ring
-20,Creature,Legendary,Snow Lord Giant of the Arctic Blizzards
-21,Creature,Common,Elf
-22,Enchantment,Common,Strength
-23,Artifact,Common,Potion
-24,Spell,Legendary,Dire Rage
-25,Creature,Mythic,Dark Grand Wizard of Illusion
-26,Spell,Common,Stun
-27,Artifact,Common,Cloak
-28,Creature,Rare,Aura Undead Berserker
-29,Creature,Common,Magi
-30,Creature,Common,Goblin
-31,Enchantment,Common,Drain
-32,Spell,Rare,Nature Burn
-33,Enchantment,Common,Blight
-34,Creature,Common,Orc
-35,Creature,Common,Dwarf
-36,Spell,Rare,Gloom Assault
-37,Creature,Rare,Frozen Lord Fairy
-38,Enchantment,Rare,Frigid Shield
-39,Creature,Common,Eagle
-40,Creature,Common,Orc
-41,Creature,Rare,Snow Assassin Berserker
-42,Creature,Common,Paladin
-43,Creature,Common,Goblin
-44,Spell,Common,Gale
+==================,DECK,6346
+0,Creature,Fairy
+1,Spell,Heal
+2,Creature,Paladin
+3,Enchantment,Solar Strength
+4,Enchantment,Drain
+5,Artifact,Dark Staff
+6,Creature,Wolf
+7,Artifact,Urgent Solar Sigil
+8,Creature,Berserker
+9,Artifact,Gloves
+10,Creature,Dark Monk Orc
+11,Creature,Aura King Hydra
+12,Spell,Mighty Apocalypse Assault
+13,Creature,Earth King Griffin
+14,Creature,Eagle
+15,Creature,Earth Fighter Goblin
+16,Artifact,Potion
+17,Creature,Wolf
+18,Creature,Warlock
+19,Artifact,Ring
+20,Creature,Snow Lord Dwarf of the Arctic Blizzards
+21,Creature,Warlock
+22,Enchantment,Strength
+23,Artifact,Potion
+24,Spell,Irate Oblivion Heal
+25,Creature,Dark Grand Wizard of Illusion
+26,Spell,Freeze
+27,Artifact,Cloak
+28,Creature,Aura Undead Goblin
+29,Creature,Fairy
+30,Creature,Skin-Walker
+31,Enchantment,Deathgrip
+32,Spell,Solar Wall
+33,Enchantment,Deathgrip
+34,Creature,Spider
+35,Creature,Magi
+36,Spell,Gloom Burn
+37,Creature,Frozen Lord Kraken
+38,Enchantment,Victory Blight
+39,Creature,Eagle
+40,Creature,Spider
+41,Creature,Snow Assassin Goblin
+42,Creature,Troll
+43,Creature,Skin-Walker
+44,Spell,Infuriate

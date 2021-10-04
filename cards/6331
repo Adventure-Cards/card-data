@@ -1,46 +1,46 @@
-==================,DECK,6331,Strong
-0,Creature,Legendary,Aura Grand Wizard of the Light
-1,Spell,Common,Pandemonium
-2,Enchantment,Common,Alacrity
-3,Spell,Rare,Frigid Lightning
-4,Spell,Common,Freeze
-5,Enchantment,Common,Agony
-6,Spell,Mythic,Mighty Freeze
-7,Spell,Rare,Oblivion Freeze
-8,Enchantment,Legendary,Clever Shade
-9,Spell,Common,Invisibility
-10,Creature,Legendary,Aura Chaos Wizard of the Light
-11,Artifact,Common,Staff
-12,Creature,Legendary,Death Time Dragon of the Dead
-13,Spell,Rare,Nature Hypnosis
-14,Creature,Common,Elf
-15,Enchantment,Mythic,Urgent Flight
-16,Creature,Rare,Aura Knight Hydra
-17,Creature,Common,Magi
-18,Creature,Common,Paladin
-19,Creature,Rare,Snow Queen Griffin
-20,Creature,Mythic,Frozen Grand Wizard of the Void
-21,Creature,Common,Orc
-22,Creature,Legendary,Snow Warrior Cyclops of the Plains
-23,Creature,Rare,Earth Rogue Berserker
-24,Enchantment,Rare,Necro Age
-25,Artifact,Rare,Oblivion Crown
-26,Spell,Common,Ice
-27,Creature,Common,Eagle
-28,Creature,Common,Orc
-29,Creature,Common,Magi
-30,Creature,Common,Eagle
-31,Creature,Legendary,Dark King Kraken of the Black Stone
-32,Creature,Rare,Aura Rogue Minotaur
-33,Creature,Mythic,Aura Chaos Wizard of the Light
-34,Enchantment,Legendary,Extreme Haste
-35,Spell,Common,Lightning
-36,Creature,Common,Dwarf
-37,Creature,Common,Paladin
-38,Creature,Common,Wolf
-39,Artifact,Common,Potion
-40,Enchantment,Common,Invert
-41,Creature,Legendary,Frozen Time Dragon of the Void
-42,Enchantment,Mythic,Angry Blight
-43,Enchantment,Legendary,Dire Strength
-44,Enchantment,Legendary,Instant Shield
+==================,DECK,6331
+0,Creature,Aura Grand Wizard of the Light
+1,Spell,Pandemonium
+2,Enchantment,Agony
+3,Spell,Oblivion Assault
+4,Spell,Lightning
+5,Enchantment,Blight
+6,Spell,Dire Lunar Burst
+7,Spell,Frigid Stun
+8,Enchantment,Instant Frigid Drain
+9,Spell,Burst
+10,Creature,Aura Chaos Wizard of the Light
+11,Artifact,Staff
+12,Creature,Death Time Dragon of the Dead
+13,Spell,Shimmering Fury
+14,Creature,Warlock
+15,Enchantment,Potent Hateful Strength
+16,Creature,Aura Knight Hydra
+17,Creature,Fairy
+18,Creature,Troll
+19,Creature,Snow Queen Griffin
+20,Creature,Frozen Grand Wizard of the Void
+21,Creature,Spider
+22,Creature,Snow Warrior Giant of the Plains
+23,Creature,Earth Rogue Goblin
+24,Enchantment,Nature Age
+25,Artifact,Oblivion Crown
+26,Spell,Maelstrom
+27,Creature,Eagle
+28,Creature,Spider
+29,Creature,Fairy
+30,Creature,Eagle
+31,Creature,Dark King Ogre of the Black Stone
+32,Creature,Aura Rogue Cyclops
+33,Creature,Aura Chaos Wizard of the Light
+34,Enchantment,Mighty Miracle Flight
+35,Spell,Burst
+36,Creature,Magi
+37,Creature,Troll
+38,Creature,Wolf
+39,Artifact,Potion
+40,Enchantment,Shade
+41,Creature,Frozen Time Dragon of the Void
+42,Enchantment,Empyrean Cataclysmic Firebreath
+43,Enchantment,Urgent Nimble Invert
+44,Enchantment,Instant Nature Strength

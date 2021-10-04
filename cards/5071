@@ -1,46 +1,46 @@
-==================,DECK,5071,Light
-0,Creature,Rare,Death Rogue Berserker
-1,Creature,Rare,Death Merchant Griffin
-2,Creature,Common,Ghoul
-3,Artifact,Rare,Hateful Boots
-4,Enchantment,Common,Strength
-5,Spell,Common,Reanimate
-6,Enchantment,Mythic,Potent Blight
-7,Spell,Common,Wall
-8,Creature,Common,Magi
-9,Spell,Legendary,Potent Heal
-10,Enchantment,Common,Invert
-11,Spell,Rare,Necro Maelstrom
-12,Enchantment,Rare,Nimble Shield
-13,Spell,Rare,Dark Torment
-14,Enchantment,Common,Shade
-15,Spell,Common,Infuriate
-16,Creature,Common,Magi
-17,Creature,Common,Ghoul
-18,Spell,Common,Heal
-19,Creature,Rare,Aura Thief Berserker
-20,Creature,Common,Ghoul
-21,Enchantment,Common,Drain
-22,Spell,Rare,Gloom Frenzy
-23,Artifact,Rare,Grim Divine Robe
-24,Creature,Common,Goblin
-25,Creature,Common,Goblin
-26,Creature,Common,Magi
-27,Spell,Rare,Life Stun
-28,Creature,Rare,Aura King Griffin
-29,Creature,Rare,Earth Priest Berserker
-30,Spell,Rare,Hateful Fury
-31,Creature,Common,Spider
-32,Creature,Legendary,Frozen Lord Oni of the Mountains
-33,Artifact,Common,Sword
-34,Creature,Common,Goblin
-35,Creature,Legendary,Light Priest Oni of the Polar Woods
-36,Creature,Common,Orc
-37,Creature,Legendary,Death Merchant Oni of the Eastern Skies
-38,Spell,Rare,Oblivion Frost
-39,Spell,Common,Vortex
-40,Creature,Common,Orc
-41,Creature,Common,Goblin
-42,Artifact,Legendary,Urgent Gauntlet
-43,Creature,Common,Spider
-44,Creature,Common,Warlock
+==================,DECK,5071
+0,Creature,Death Rogue Goblin
+1,Creature,Death Merchant Griffin
+2,Creature,Ghoul
+3,Artifact,Gloom Boots
+4,Enchantment,Shade
+5,Spell,Fire
+6,Enchantment,Potent Nimble Drain
+7,Spell,Revive
+8,Creature,Fairy
+9,Spell,Urgent Oblivion Tempest
+10,Enchantment,Agony
+11,Spell,Solar Assault
+12,Enchantment,Nature Age
+13,Spell,Gloom Tempest
+14,Enchantment,Strength
+15,Spell,Burn
+16,Creature,Fairy
+17,Creature,Ghoul
+18,Spell,Torment
+19,Creature,Aura Thief Goblin
+20,Creature,Ghoul
+21,Enchantment,Flight
+22,Spell,Lunar Lightning
+23,Artifact,Victory Divine Robe
+24,Creature,Skin-Walker
+25,Creature,Skin-Walker
+26,Creature,Fairy
+27,Spell,Frigid Tempest
+28,Creature,Aura King Griffin
+29,Creature,Earth Priest Goblin
+30,Spell,Sorrow Maelstrom
+31,Creature,Paladin
+32,Creature,Frozen Lord Oni of the Mountains
+33,Artifact,Sword
+34,Creature,Skin-Walker
+35,Creature,Light Priest Oni of the Polar Woods
+36,Creature,Spider
+37,Creature,Death Merchant Oni of the Eastern Skies
+38,Spell,Apocalypse Vortex
+39,Spell,Fireball
+40,Creature,Spider
+41,Creature,Skin-Walker
+42,Artifact,Clever Nature Gauntlet
+43,Creature,Paladin
+44,Creature,Berserker

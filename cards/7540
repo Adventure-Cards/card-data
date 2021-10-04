@@ -1,46 +1,46 @@
-==================,DECK,7540,Medium
-0,Enchantment,Common,Lethargy
-1,Artifact,Common,Gauntlet
-2,Enchantment,Common,Age
-3,Creature,Rare,Death King Berserker
-4,Artifact,Legendary,Urgent Gauntlet
-5,Creature,Rare,Aura Monk Skin-Walker
-6,Spell,Common,Gale
-7,Creature,Common,Warlock
-8,Artifact,Rare,Dark Ring
-9,Spell,Common,Frenzy
-10,Creature,Rare,Aura Assassin Berserker
-11,Spell,Rare,Cataclysmic Sorrow
-12,Artifact,Common,Divine Robe
-13,Creature,Rare,Dark Assassin Griffin
-14,Creature,Common,Goblin
-15,Creature,Common,Ghoul
-16,Creature,Rare,Death Lord Minotaur
-17,Creature,Common,Dwarf
-18,Creature,Common,Ghoul
-19,Creature,Legendary,Dark Undead Cyclops of the Polar Woods
-20,Spell,Common,Sorrow
-21,Creature,Common,Paladin
-22,Artifact,Rare,Cataclysmic Ring
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Spell,Common,Wall
-26,Creature,Legendary,Dark Queen Kraken of the Bright Mountains
-27,Enchantment,Common,Flight
-28,Creature,Rare,Frozen Rogue Berserker
-29,Spell,Common,Pandemonium
-30,Spell,Rare,Shimmering Reanimate
-31,Artifact,Common,Helm
-32,Spell,Common,Burst
-33,Creature,Common,Orc
-34,Creature,Common,Dwarf
-35,Artifact,Common,Divine Robe
-36,Creature,Common,Orc
-37,Creature,Legendary,Death Queen Kraken of the Swamp
-38,Enchantment,Rare,Nature Drain
-39,Creature,Common,Paladin
-40,Creature,Common,Magi
-41,Enchantment,Common,Invert
-42,Enchantment,Common,Agony
-43,Creature,Common,Orc
-44,Enchantment,Common,Haste
+==================,DECK,7540
+0,Enchantment,Drain
+1,Artifact,Gauntlet
+2,Enchantment,Shield
+3,Creature,Death King Goblin
+4,Artifact,Clever Solar Gauntlet
+5,Creature,Aura Monk Orc
+6,Spell,Freeze
+7,Creature,Berserker
+8,Artifact,Sorrow Ring
+9,Spell,Tempest
+10,Creature,Aura Assassin Goblin
+11,Spell,Sorrow Freeze
+12,Artifact,Divine Robe
+13,Creature,Dark Assassin Griffin
+14,Creature,Skin-Walker
+15,Creature,Ghoul
+16,Creature,Death Lord Cyclops
+17,Creature,Magi
+18,Creature,Ghoul
+19,Creature,Dark Undead Giant of the Polar Woods
+20,Spell,Wall
+21,Creature,Troll
+22,Artifact,Chimeric Ring
+23,Creature,Paladin
+24,Creature,Troll
+25,Spell,Fireball
+26,Creature,Dark Queen Ogre of the Bright Mountains
+27,Enchantment,Deathgrip
+28,Creature,Frozen Rogue Goblin
+29,Spell,Vortex
+30,Spell,Hateful Freeze
+31,Artifact,Helm
+32,Spell,Wall
+33,Creature,Spider
+34,Creature,Magi
+35,Artifact,Divine Robe
+36,Creature,Spider
+37,Creature,Death Queen Ogre of the Swamp
+38,Enchantment,Forged Agony
+39,Creature,Troll
+40,Creature,Fairy
+41,Enchantment,Alacrity
+42,Enchantment,Deathgrip
+43,Creature,Spider
+44,Enchantment,Haste

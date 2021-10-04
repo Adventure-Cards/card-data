@@ -1,46 +1,46 @@
-==================,DECK,4595,Medium
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Drain
-2,Spell,Rare,Cataclysmic Burst
-3,Creature,Common,Eagle
-4,Artifact,Legendary,Mighty Scythe
-5,Creature,Common,Warlock
-6,Enchantment,Common,Alacrity
-7,Artifact,Common,Bow
-8,Enchantment,Mythic,Instant Deathgrip
-9,Spell,Rare,Lunar Pandemonium
-10,Artifact,Rare,Corpse Ring
-11,Creature,Common,Ghoul
-12,Artifact,Legendary,Urgent Pendant
-13,Enchantment,Rare,Frigid Lethargy
-14,Creature,Legendary,Death Knight Giant of the Border
-15,Creature,Legendary,Aura Monk Orge of the Magical Forest
-16,Spell,Rare,Hateful Stun
-17,Spell,Common,Rage
-18,Enchantment,Common,Alacrity
-19,Spell,Rare,Hateful Sorrow
-20,Creature,Common,Eagle
-21,Spell,Legendary,Instant Freeze
-22,Artifact,Rare,Grim Tome
-23,Artifact,Common,Staff
-24,Enchantment,Common,Agony
-25,Creature,Common,Warlock
-26,Spell,Common,Infuriate
-27,Enchantment,Common,Deathgrip
-28,Creature,Rare,Frozen Knight Griffin
-29,Artifact,Rare,Frigid Scythe
-30,Creature,Legendary,Frozen Thief Oni of the Eternal Land
-31,Creature,Common,Spider
-32,Creature,Legendary,Aura Lord Oni of the Black Stone
-33,Creature,Common,Warlock
-34,Creature,Common,Elf
-35,Creature,Common,Warlock
-36,Creature,Rare,Snow Warrior Fairy
-37,Artifact,Common,Greaves
-38,Creature,Common,Paladin
-39,Creature,Common,Orc
-40,Spell,Common,Frenzy
-41,Spell,Rare,Nature Maelstrom
-42,Enchantment,Common,Shade
-43,Enchantment,Common,Age
-44,Spell,Common,Reanimate
+==================,DECK,4595
+0,Creature,Magi
+1,Enchantment,Deathgrip
+2,Spell,Dark Fire
+3,Creature,Eagle
+4,Artifact,Dire Miracle Scythe
+5,Creature,Berserker
+6,Enchantment,Strength
+7,Artifact,Bow
+8,Enchantment,Zealous Shimmering Deathgrip
+9,Spell,Gloom Gravitation
+10,Artifact,Forged Ring
+11,Creature,Ghoul
+12,Artifact,Zealous Forged Pendant
+13,Enchantment,Grim Blight
+14,Creature,Death Knight Dwarf of the Border
+15,Creature,Aura Monk Elf of the Magical Forest
+16,Spell,Gloom Frenzy
+17,Spell,Tempest
+18,Enchantment,Shrink
+19,Spell,Dark Revive
+20,Creature,Eagle
+21,Spell,Instant Corpse Torment
+22,Artifact,Oblivion Tome
+23,Artifact,Staff
+24,Enchantment,Shade
+25,Creature,Berserker
+26,Spell,Maelstrom
+27,Enchantment,Deathgrip
+28,Creature,Frozen Knight Griffin
+29,Artifact,Frigid Scythe
+30,Creature,Frozen Thief Oni of the Eternal Land
+31,Creature,Paladin
+32,Creature,Aura Lord Oni of the Black Stone
+33,Creature,Berserker
+34,Creature,Warlock
+35,Creature,Berserker
+36,Creature,Snow Warrior Kraken
+37,Artifact,Greaves
+38,Creature,Troll
+39,Creature,Spider
+40,Spell,Vortex
+41,Spell,Necro Freeze
+42,Enchantment,Haste
+43,Enchantment,Blight
+44,Spell,Infuriate

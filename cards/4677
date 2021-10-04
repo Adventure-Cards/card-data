@@ -1,46 +1,46 @@
-==================,DECK,4677,Light
-0,Spell,Rare,Nimble Torment
-1,Creature,Common,Warlock
-2,Enchantment,Common,Shrink
-3,Spell,Common,Gravitation
-4,Creature,Common,Elf
-5,Spell,Common,Assault
-6,Creature,Common,Wolf
-7,Creature,Common,Wolf
-8,Artifact,Rare,Hateful Bracers
-9,Enchantment,Common,Lethargy
-10,Creature,Rare,Dark Fighter Fairy
-11,Artifact,Common,Helmet
-12,Enchantment,Common,Age
-13,Enchantment,Common,Lethargy
-14,Spell,Legendary,Urgent Burn
-15,Creature,Common,Eagle
-16,Creature,Common,Eagle
-17,Spell,Common,Reanimate
-18,Creature,Rare,Dark Monk Minotaur
-19,Creature,Common,Magi
-20,Spell,Common,Wall
-21,Spell,Rare,Frigid Gravitation
-22,Creature,Common,Elf
-23,Enchantment,Common,Shrink
-24,Creature,Common,Spider
-25,Spell,Common,Sorrow
-26,Creature,Common,Magi
-27,Enchantment,Common,Agony
-28,Spell,Common,Lightning
-29,Spell,Common,Freeze
-30,Creature,Legendary,Earth Rogue Orge of the Border
-31,Creature,Rare,Snow King Hydra
-32,Spell,Common,Maelstrom
-33,Creature,Rare,Earth Monk Fairy
-34,Creature,Common,Wolf
-35,Creature,Common,Eagle
-36,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-37,Enchantment,Mythic,Urgent Haste
-38,Creature,Common,Dwarf
-39,Creature,Common,Goblin
-40,Creature,Legendary,Death Monk Giant of the Plains
-41,Creature,Common,Dwarf
-42,Creature,Common,Warlock
-43,Enchantment,Common,Shield
-44,Enchantment,Common,Shrink
+==================,DECK,4677
+0,Spell,Nature Fury
+1,Creature,Berserker
+2,Enchantment,Alacrity
+3,Spell,Infuriate
+4,Creature,Warlock
+5,Spell,Freeze
+6,Creature,Wolf
+7,Creature,Wolf
+8,Artifact,Dark Bracers
+9,Enchantment,Invert
+10,Creature,Dark Fighter Kraken
+11,Artifact,Helmet
+12,Enchantment,Drain
+13,Enchantment,Age
+14,Spell,Potent Hateful Pandemonium
+15,Creature,Eagle
+16,Creature,Eagle
+17,Spell,Assault
+18,Creature,Dark Monk Cyclops
+19,Creature,Fairy
+20,Spell,Stricken
+21,Spell,Apocalypse Fire
+22,Creature,Warlock
+23,Enchantment,Haste
+24,Creature,Paladin
+25,Spell,Fire
+26,Creature,Fairy
+27,Enchantment,Haste
+28,Spell,Fire
+29,Spell,Maelstrom
+30,Creature,Earth Rogue Elf of the Border
+31,Creature,Snow King Hydra
+32,Spell,Heal
+33,Creature,Earth Monk Kraken
+34,Creature,Wolf
+35,Creature,Eagle
+36,Creature,Earth Nameless Phoenix of the Shadows
+37,Enchantment,Potent Corpse Strength
+38,Creature,Magi
+39,Creature,Skin-Walker
+40,Creature,Death Monk Dwarf of the Plains
+41,Creature,Magi
+42,Creature,Berserker
+43,Enchantment,Haste
+44,Enchantment,Agony

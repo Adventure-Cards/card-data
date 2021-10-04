@@ -1,46 +1,46 @@
-==================,DECK,7365,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Wolf
-2,Enchantment,Rare,Oblivion Shade
-3,Creature,Mythic,Aura Time Phoenix of the Light
-4,Enchantment,Common,Shrink
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Drain
-7,Spell,Common,Sorrow
-8,Enchantment,Common,Age
-9,Creature,Common,Dwarf
-10,Enchantment,Rare,Grim Strength
-11,Creature,Common,Dwarf
-12,Creature,Common,Magi
-13,Enchantment,Common,Drain
-14,Creature,Rare,Light Merchant Griffin
-15,Enchantment,Legendary,Instant Age
-16,Artifact,Legendary,Clever Crown
-17,Artifact,Common,Amulet
-18,Spell,Common,Hypnosis
-19,Enchantment,Mythic,Potent Deathgrip
-20,Creature,Common,Elf
-21,Creature,Legendary,Death Rogue Oni of the Bright Mountains
-22,Creature,Common,Ghoul
-23,Creature,Legendary,Death Merchant Cyclops of the Polar Woods
-24,Creature,Rare,Dark Knight Griffin
-25,Creature,Common,Ghoul
-26,Creature,Rare,Earth Priest Minotaur
-27,Spell,Common,Stun
-28,Creature,Common,Warlock
-29,Artifact,Common,Shield
-30,Creature,Common,Ghoul
-31,Creature,Common,Elf
-32,Artifact,Rare,Grim Shield
-33,Creature,Common,Orc
-34,Creature,Rare,Light Knight Skin-Walker
-35,Creature,Common,Wolf
-36,Artifact,Common,Boots
-37,Spell,Common,Freeze
-38,Spell,Rare,Corpse Invisibility
-39,Enchantment,Common,Strength
-40,Creature,Common,Goblin
-41,Spell,Common,Maelstrom
-42,Creature,Legendary,Death Assassin Giant of the Polar Woods
-43,Creature,Rare,Dark Fighter Hydra
-44,Creature,Rare,Light Priest Skin-Walker
+==================,DECK,7365
+0,Creature,Magi
+1,Creature,Wolf
+2,Enchantment,Frigid Drain
+3,Creature,Aura Time Phoenix of the Light
+4,Enchantment,Age
+5,Creature,Magi
+6,Enchantment,Shade
+7,Spell,Hypnosis
+8,Enchantment,Invert
+9,Creature,Magi
+10,Enchantment,Nimble Blight
+11,Creature,Magi
+12,Creature,Fairy
+13,Enchantment,Firebreath
+14,Creature,Light Merchant Griffin
+15,Enchantment,Clever Nature Lethargy
+16,Artifact,Irate Nimble Crown
+17,Artifact,Amulet
+18,Spell,Lightning
+19,Enchantment,Zealous Oblivion Blight
+20,Creature,Warlock
+21,Creature,Death Rogue Oni of the Bright Mountains
+22,Creature,Ghoul
+23,Creature,Death Merchant Giant of the Polar Woods
+24,Creature,Dark Knight Griffin
+25,Creature,Ghoul
+26,Creature,Earth Priest Cyclops
+27,Spell,Wall
+28,Creature,Berserker
+29,Artifact,Shield
+30,Creature,Ghoul
+31,Creature,Warlock
+32,Artifact,Life Shield
+33,Creature,Spider
+34,Creature,Light Knight Orc
+35,Creature,Wolf
+36,Artifact,Boots
+37,Spell,Freeze
+38,Spell,Forged Assault
+39,Enchantment,Age
+40,Creature,Skin-Walker
+41,Spell,Freeze
+42,Creature,Death Assassin Dwarf of the Polar Woods
+43,Creature,Dark Fighter Hydra
+44,Creature,Light Priest Orc

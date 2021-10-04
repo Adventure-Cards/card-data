@@ -1,46 +1,46 @@
-==================,DECK,6782,Light
-0,Creature,Common,Paladin
-1,Artifact,Common,Potion
-2,Creature,Legendary,Snow Fighter Orge of the Eastern Skies
-3,Spell,Common,Burst
-4,Spell,Common,Rage
-5,Creature,Common,Paladin
-6,Creature,Common,Spider
-7,Enchantment,Common,Blight
-8,Creature,Common,Ghoul
-9,Creature,Common,Elf
-10,Enchantment,Common,Age
-11,Creature,Legendary,Earth Undead Kraken of the Golden Palace
-12,Creature,Legendary,Dark Priest Kraken of the Black Stone
-13,Enchantment,Rare,Nature Shrink
-14,Creature,Common,Goblin
-15,Creature,Mythic,Death Nameless Dragon of the Dead
-16,Enchantment,Common,Shield
-17,Spell,Common,Burn
-18,Spell,Common,Maelstrom
-19,Enchantment,Common,Alacrity
-20,Creature,Rare,Earth Lord Hydra
-21,Enchantment,Common,Alacrity
-22,Creature,Common,Magi
-23,Spell,Common,Vortex
-24,Artifact,Rare,Hateful Scythe
-25,Creature,Common,Elf
-26,Creature,Common,Spider
-27,Spell,Common,Gravitation
-28,Spell,Common,Maelstrom
-29,Enchantment,Common,Shade
-30,Creature,Legendary,Frozen Queen Kraken of the Swamp
-31,Spell,Rare,Cataclysmic Reanimate
-32,Creature,Rare,Light Warrior Berserker
-33,Enchantment,Rare,Solar Agony
-34,Enchantment,Common,Blight
-35,Creature,Common,Eagle
-36,Artifact,Legendary,Urgent Pendant
-37,Creature,Common,Eagle
-38,Enchantment,Rare,Miracle Blight
-39,Creature,Common,Spider
-40,Enchantment,Common,Haste
-41,Creature,Rare,Light Fighter Berserker
-42,Creature,Common,Ghoul
-43,Creature,Rare,Frozen Undead Skin-Walker
-44,Creature,Common,Goblin
+==================,DECK,6782
+0,Creature,Troll
+1,Artifact,Potion
+2,Creature,Snow Fighter Elf of the Eastern Skies
+3,Spell,Stricken
+4,Spell,Ice
+5,Creature,Troll
+6,Creature,Paladin
+7,Enchantment,Firebreath
+8,Creature,Ghoul
+9,Creature,Warlock
+10,Enchantment,Haste
+11,Creature,Earth Undead Ogre of the Golden Palace
+12,Creature,Dark Priest Ogre of the Black Stone
+13,Enchantment,Necro Deathgrip
+14,Creature,Skin-Walker
+15,Creature,Death Nameless Dragon of the Dead
+16,Enchantment,Flight
+17,Spell,Sorrow
+18,Spell,Freeze
+19,Enchantment,Invert
+20,Creature,Earth Lord Hydra
+21,Enchantment,Strength
+22,Creature,Fairy
+23,Spell,Fury
+24,Artifact,Dark Scythe
+25,Creature,Warlock
+26,Creature,Paladin
+27,Spell,Freeze
+28,Spell,Frenzy
+29,Enchantment,Deathgrip
+30,Creature,Frozen Queen Ogre of the Swamp
+31,Spell,Cataclysmic Invisibility
+32,Creature,Light Warrior Goblin
+33,Enchantment,Corpse Age
+34,Enchantment,Firebreath
+35,Creature,Eagle
+36,Artifact,Irate Forged Pendant
+37,Creature,Eagle
+38,Enchantment,Nimble Drain
+39,Creature,Paladin
+40,Enchantment,Strength
+41,Creature,Light Fighter Goblin
+42,Creature,Ghoul
+43,Creature,Frozen Undead Orc
+44,Creature,Skin-Walker

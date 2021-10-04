@@ -1,46 +1,46 @@
-==================,DECK,6391,Light
-0,Creature,Common,Spider
-1,Artifact,Common,Ghost Wand
-2,Creature,Common,Eagle
-3,Creature,Common,Elf
-4,Creature,Common,Orc
-5,Enchantment,Common,Strength
-6,Creature,Rare,Dark King Hydra
-7,Creature,Common,Goblin
-8,Spell,Common,Stun
-9,Creature,Common,Goblin
-10,Spell,Common,Revive
-11,Enchantment,Common,Lethargy
-12,Creature,Rare,Dark Assassin Berserker
-13,Spell,Common,Wall
-14,Enchantment,Rare,Dark Lethargy
-15,Creature,Mythic,Frozen Grand Wizard of the Void
-16,Creature,Common,Warlock
-17,Creature,Rare,Light Thief Hydra
-18,Creature,Rare,Earth Monk Minotaur
-19,Enchantment,Common,Shield
-20,Artifact,Rare,Corpse Divine Robe
-21,Creature,Rare,Earth Lord Hydra
-22,Creature,Common,Magi
-23,Creature,Rare,Aura Undead Minotaur
-24,Creature,Common,Elf
-25,Spell,Rare,Nimble Revive
-26,Enchantment,Common,Drain
-27,Creature,Common,Spider
-28,Creature,Common,Goblin
-29,Spell,Common,Rage
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Shade
-32,Creature,Common,Paladin
-33,Creature,Rare,Dark Rogue Griffin
-34,Creature,Common,Dwarf
-35,Spell,Common,Torment
-36,Spell,Common,Frenzy
-37,Artifact,Rare,Solar Shield
-38,Spell,Common,Wall
-39,Creature,Common,Spider
-40,Spell,Common,Stricken
-41,Enchantment,Common,Deathgrip
-42,Spell,Common,Lightning
-43,Creature,Common,Paladin
-44,Creature,Common,Warlock
+==================,DECK,6391
+0,Creature,Paladin
+1,Artifact,Ghost Wand
+2,Creature,Eagle
+3,Creature,Warlock
+4,Creature,Spider
+5,Enchantment,Invert
+6,Creature,Dark King Hydra
+7,Creature,Skin-Walker
+8,Spell,Sorrow
+9,Creature,Skin-Walker
+10,Spell,Wall
+11,Enchantment,Shrink
+12,Creature,Dark Assassin Goblin
+13,Spell,Fireball
+14,Enchantment,Lunar Shield
+15,Creature,Frozen Grand Wizard of the Void
+16,Creature,Berserker
+17,Creature,Light Thief Hydra
+18,Creature,Earth Monk Cyclops
+19,Enchantment,Drain
+20,Artifact,Shimmering Divine Robe
+21,Creature,Earth Lord Hydra
+22,Creature,Fairy
+23,Creature,Aura Undead Cyclops
+24,Creature,Warlock
+25,Spell,Solar Frenzy
+26,Enchantment,Firebreath
+27,Creature,Paladin
+28,Creature,Skin-Walker
+29,Spell,Rage
+30,Creature,Ghoul
+31,Enchantment,Shade
+32,Creature,Troll
+33,Creature,Dark Rogue Griffin
+34,Creature,Magi
+35,Spell,Fire
+36,Spell,Assault
+37,Artifact,Shimmering Shield
+38,Spell,Invisibility
+39,Creature,Paladin
+40,Spell,Maelstrom
+41,Enchantment,Lethargy
+42,Spell,Frenzy
+43,Creature,Troll
+44,Creature,Berserker

@@ -1,46 +1,46 @@
-==================,DECK,5041,Light
-0,Spell,Common,Freeze
-1,Enchantment,Common,Blight
-2,Creature,Common,Dwarf
-3,Spell,Common,Gravitation
-4,Creature,Common,Goblin
-5,Creature,Common,Paladin
-6,Creature,Rare,Dark Merchant Minotaur
-7,Spell,Common,Torment
-8,Enchantment,Mythic,Extreme Lethargy
-9,Creature,Common,Elf
-10,Spell,Rare,Nimble Revive
-11,Creature,Common,Elf
-12,Creature,Mythic,Frozen Time Phoenix of the Void
-13,Enchantment,Mythic,Mighty Drain
-14,Creature,Common,Ghoul
-15,Spell,Rare,Dark Assault
-16,Creature,Mythic,Earth Grand Wizard of the Shadows
-17,Creature,Common,Goblin
-18,Creature,Rare,Death Lord Hydra
-19,Enchantment,Mythic,Potent Shade
-20,Artifact,Common,Cloak
-21,Artifact,Common,Ghost Wand
-22,Creature,Legendary,Death Priest Orge of the West
-23,Enchantment,Legendary,Mighty Strength
-24,Spell,Rare,Apocalypse Sorrow
-25,Spell,Rare,Cataclysmic Infuriate
-26,Artifact,Legendary,Clever Pendant
-27,Creature,Common,Ghoul
-28,Spell,Rare,Solar Freeze
-29,Spell,Common,Freeze
-30,Creature,Common,Warlock
-31,Creature,Rare,Snow Queen Minotaur
-32,Creature,Common,Ghoul
-33,Creature,Common,Eagle
-34,Enchantment,Common,Flight
-35,Creature,Rare,Dark Thief Fairy
-36,Enchantment,Common,Deathgrip
-37,Artifact,Common,Belt
-38,Enchantment,Common,Flight
-39,Spell,Common,Ice
-40,Spell,Rare,Forged Revive
-41,Enchantment,Common,Deathgrip
-42,Spell,Rare,Dark Rage
-43,Spell,Common,Maelstrom
-44,Spell,Common,Heal
+==================,DECK,5041
+0,Spell,Heal
+1,Enchantment,Invert
+2,Creature,Magi
+3,Spell,Invisibility
+4,Creature,Skin-Walker
+5,Creature,Troll
+6,Creature,Dark Merchant Cyclops
+7,Spell,Frost
+8,Enchantment,Ardent Lunar Shield
+9,Creature,Warlock
+10,Spell,Necro Wall
+11,Creature,Warlock
+12,Creature,Frozen Time Phoenix of the Void
+13,Enchantment,Zealous Dark Alacrity
+14,Creature,Ghoul
+15,Spell,Chimeric Fireball
+16,Creature,Earth Grand Wizard of the Shadows
+17,Creature,Skin-Walker
+18,Creature,Death Lord Hydra
+19,Enchantment,Dire Frigid Shade
+20,Artifact,Cloak
+21,Artifact,Ghost Wand
+22,Creature,Death Priest Elf of the West
+23,Enchantment,Urgent Cataclysmic Flight
+24,Spell,Nimble Ice
+25,Spell,Sorrow Assault
+26,Artifact,Irate Grim Pendant
+27,Creature,Ghoul
+28,Spell,Forged Maelstrom
+29,Spell,Torment
+30,Creature,Berserker
+31,Creature,Snow Queen Cyclops
+32,Creature,Ghoul
+33,Creature,Eagle
+34,Enchantment,Age
+35,Creature,Dark Thief Kraken
+36,Enchantment,Drain
+37,Artifact,Belt
+38,Enchantment,Drain
+39,Spell,Fireball
+40,Spell,Cataclysmic Hypnosis
+41,Enchantment,Deathgrip
+42,Spell,Cataclysmic Assault
+43,Spell,Freeze
+44,Spell,Stricken

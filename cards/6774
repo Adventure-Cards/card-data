@@ -1,46 +1,46 @@
-==================,DECK,6774,Medium
-0,Enchantment,Mythic,Extreme Shade
-1,Enchantment,Common,Agony
-2,Enchantment,Common,Drain
-3,Enchantment,Rare,Solar Invert
-4,Spell,Common,Rage
-5,Spell,Common,Hypnosis
-6,Artifact,Common,Sigil
-7,Spell,Common,Vortex
-8,Artifact,Common,Gauntlet
-9,Creature,Rare,Frozen Priest Griffin
-10,Spell,Common,Reanimate
-11,Creature,Common,Eagle
-12,Spell,Legendary,Mighty Lightning
-13,Creature,Common,Dwarf
-14,Enchantment,Rare,Life Blight
-15,Artifact,Rare,Forged Boots
-16,Creature,Rare,Light Lord Skin-Walker
-17,Enchantment,Common,Drain
-18,Creature,Rare,Light King Hydra
-19,Spell,Common,Assault
-20,Spell,Rare,Hateful Fury
-21,Spell,Common,Wall
-22,Creature,Common,Elf
-23,Creature,Rare,Death King Minotaur
-24,Artifact,Rare,Apocalypse Scythe
-25,Creature,Legendary,Earth King Orge of the West
-26,Enchantment,Common,Strength
-27,Creature,Common,Dwarf
-28,Enchantment,Rare,Forged Alacrity
-29,Creature,Rare,Light Undead Fairy
-30,Creature,Legendary,Aura Undead Orge of the Swamp
-31,Spell,Common,Heal
-32,Creature,Legendary,Snow Thief Cyclops of the Eternal Land
-33,Creature,Rare,Death Rogue Fairy
-34,Artifact,Rare,Necro Shield
-35,Spell,Common,Invisibility
-36,Creature,Common,Ghoul
-37,Creature,Common,Wolf
-38,Enchantment,Common,Drain
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Lethargy
-41,Enchantment,Rare,Shimmering Haste
-42,Spell,Legendary,Intense Pandemonium
-43,Creature,Common,Goblin
-44,Creature,Legendary,Aura Fighter Kraken of the Arctic Blizzards
+==================,DECK,6774
+0,Enchantment,Dire Chimeric Firebreath
+1,Enchantment,Shade
+2,Enchantment,Alacrity
+3,Enchantment,Shimmering Agony
+4,Spell,Frost
+5,Spell,Fireball
+6,Artifact,Sigil
+7,Spell,Freeze
+8,Artifact,Gauntlet
+9,Creature,Frozen Priest Griffin
+10,Spell,Maelstrom
+11,Creature,Eagle
+12,Spell,Ardent Cataclysmic Assault
+13,Creature,Magi
+14,Enchantment,Nimble Shade
+15,Artifact,Chimeric Boots
+16,Creature,Light Lord Orc
+17,Enchantment,Lethargy
+18,Creature,Light King Hydra
+19,Spell,Sorrow
+20,Spell,Cataclysmic Fury
+21,Spell,Stricken
+22,Creature,Warlock
+23,Creature,Death King Cyclops
+24,Artifact,Apocalypse Scythe
+25,Creature,Earth King Elf of the West
+26,Enchantment,Alacrity
+27,Creature,Magi
+28,Enchantment,Dark Shrink
+29,Creature,Light Undead Kraken
+30,Creature,Aura Undead Elf of the Swamp
+31,Spell,Fireball
+32,Creature,Snow Thief Giant of the Eternal Land
+33,Creature,Death Rogue Kraken
+34,Artifact,Solar Shield
+35,Spell,Heal
+36,Creature,Ghoul
+37,Creature,Wolf
+38,Enchantment,Haste
+39,Creature,Ghoul
+40,Enchantment,Haste
+41,Enchantment,Corpse Strength
+42,Spell,Mighty Hateful Invisibility
+43,Creature,Skin-Walker
+44,Creature,Aura Fighter Ogre of the Arctic Blizzards

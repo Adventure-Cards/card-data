@@ -1,46 +1,46 @@
-==================,DECK,7806,Light
-0,Creature,Common,Orc
-1,Creature,Common,Dwarf
-2,Creature,Rare,Light Assassin Minotaur
-3,Artifact,Legendary,Urgent Tome
-4,Creature,Common,Goblin
-5,Enchantment,Rare,Nature Haste
-6,Enchantment,Common,Shield
-7,Artifact,Common,Bracers
-8,Enchantment,Common,Flight
-9,Creature,Common,Wolf
-10,Creature,Rare,Earth Queen Berserker
-11,Creature,Common,Eagle
-12,Enchantment,Rare,Solar Agony
-13,Creature,Legendary,Frozen Queen Oni of the Haven
-14,Creature,Common,Ghoul
-15,Spell,Common,Revive
-16,Enchantment,Common,Flight
-17,Spell,Rare,Apocalypse Infuriate
-18,Artifact,Common,Crown
-19,Creature,Common,Spider
-20,Creature,Common,Goblin
-21,Creature,Rare,Snow Lord Griffin
-22,Creature,Common,Spider
-23,Creature,Common,Spider
-24,Creature,Common,Goblin
-25,Spell,Common,Infuriate
-26,Creature,Rare,Light Merchant Skin-Walker
-27,Creature,Rare,Light Assassin Griffin
-28,Creature,Common,Orc
-29,Enchantment,Common,Agony
-30,Creature,Rare,Earth King Minotaur
-31,Enchantment,Legendary,Angry Drain
-32,Creature,Common,Ghoul
-33,Enchantment,Common,Drain
-34,Creature,Rare,Death Priest Griffin
-35,Enchantment,Common,Age
-36,Creature,Common,Magi
-37,Enchantment,Rare,Life Blight
-38,Spell,Rare,Shimmering Fury
-39,Spell,Common,Sorrow
-40,Creature,Common,Paladin
-41,Enchantment,Common,Invert
-42,Spell,Common,Lightning
-43,Spell,Common,Gravitation
-44,Creature,Common,Dwarf
+==================,DECK,7806
+0,Creature,Spider
+1,Creature,Magi
+2,Creature,Light Assassin Cyclops
+3,Artifact,Dire Shimmering Tome
+4,Creature,Skin-Walker
+5,Enchantment,Corpse Age
+6,Enchantment,Drain
+7,Artifact,Bracers
+8,Enchantment,Shield
+9,Creature,Wolf
+10,Creature,Earth Queen Goblin
+11,Creature,Eagle
+12,Enchantment,Corpse Age
+13,Creature,Frozen Queen Oni of the Haven
+14,Creature,Ghoul
+15,Spell,Reanimate
+16,Enchantment,Blight
+17,Spell,Oblivion Burst
+18,Artifact,Crown
+19,Creature,Paladin
+20,Creature,Skin-Walker
+21,Creature,Snow Lord Griffin
+22,Creature,Paladin
+23,Creature,Paladin
+24,Creature,Skin-Walker
+25,Spell,Infuriate
+26,Creature,Light Merchant Orc
+27,Creature,Light Assassin Griffin
+28,Creature,Spider
+29,Enchantment,Strength
+30,Creature,Earth King Cyclops
+31,Enchantment,Potent Dark Shrink
+32,Creature,Ghoul
+33,Enchantment,Blight
+34,Creature,Death Priest Griffin
+35,Enchantment,Flight
+36,Creature,Fairy
+37,Enchantment,Nimble Invert
+38,Spell,Corpse Freeze
+39,Spell,Ice
+40,Creature,Troll
+41,Enchantment,Haste
+42,Spell,Rage
+43,Spell,Sorrow
+44,Creature,Magi

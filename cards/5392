@@ -1,46 +1,46 @@
-==================,DECK,5392,Medium
-0,Artifact,Common,Belt
-1,Creature,Rare,Snow Monk Hydra
-2,Creature,Common,Warlock
-3,Creature,Rare,Dark Rogue Skin-Walker
-4,Enchantment,Common,Haste
-5,Creature,Legendary,Snow Undead Giant of the Haven
-6,Creature,Common,Orc
-7,Enchantment,Common,Invert
-8,Creature,Common,Wolf
-9,Creature,Common,Goblin
-10,Creature,Common,Warlock
-11,Creature,Common,Eagle
-12,Spell,Rare,Shimmering Reanimate
-13,Creature,Common,Wolf
-14,Enchantment,Common,Lethargy
-15,Spell,Rare,Shimmering Stricken
-16,Creature,Rare,Aura Fighter Minotaur
-17,Creature,Common,Elf
-18,Creature,Common,Eagle
-19,Creature,Rare,Snow Rogue Berserker
-20,Creature,Legendary,Light Warrior Kraken of the Golden Palace
-21,Enchantment,Mythic,Extreme Drain
-22,Enchantment,Mythic,Angry Shrink
-23,Creature,Common,Goblin
-24,Creature,Rare,Earth Thief Hydra
-25,Creature,Common,Paladin
-26,Spell,Common,Lightning
-27,Creature,Common,Eagle
-28,Enchantment,Common,Shield
-29,Spell,Rare,Forged Torment
-30,Spell,Common,Heal
-31,Artifact,Rare,Cataclysmic Ring
-32,Creature,Common,Paladin
-33,Enchantment,Common,Drain
-34,Creature,Rare,Aura Thief Skin-Walker
-35,Creature,Legendary,Dark Queen Oni of the West
-36,Enchantment,Common,Shade
-37,Creature,Rare,Aura Lord Berserker
-38,Creature,Common,Orc
-39,Creature,Common,Dwarf
-40,Artifact,Common,Crown
-41,Artifact,Rare,Oblivion Helmet
-42,Enchantment,Legendary,Clever Invert
-43,Creature,Common,Eagle
-44,Spell,Rare,Frigid Freeze
+==================,DECK,5392
+0,Artifact,Belt
+1,Creature,Snow Monk Hydra
+2,Creature,Berserker
+3,Creature,Dark Rogue Orc
+4,Enchantment,Invert
+5,Creature,Snow Undead Dwarf of the Haven
+6,Creature,Spider
+7,Enchantment,Drain
+8,Creature,Wolf
+9,Creature,Skin-Walker
+10,Creature,Berserker
+11,Creature,Eagle
+12,Spell,Shimmering Wall
+13,Creature,Wolf
+14,Enchantment,Alacrity
+15,Spell,Solar Burst
+16,Creature,Aura Fighter Cyclops
+17,Creature,Warlock
+18,Creature,Eagle
+19,Creature,Snow Rogue Goblin
+20,Creature,Light Warrior Ogre of the Golden Palace
+21,Enchantment,Potent Dark Shrink
+22,Enchantment,Potent Chimeric Shrink
+23,Creature,Skin-Walker
+24,Creature,Earth Thief Hydra
+25,Creature,Troll
+26,Spell,Frost
+27,Creature,Eagle
+28,Enchantment,Drain
+29,Spell,Cataclysmic Sorrow
+30,Spell,Infuriate
+31,Artifact,Lunar Ring
+32,Creature,Troll
+33,Enchantment,Age
+34,Creature,Aura Thief Orc
+35,Creature,Dark Queen Oni of the West
+36,Enchantment,Flight
+37,Creature,Aura Lord Goblin
+38,Creature,Spider
+39,Creature,Magi
+40,Artifact,Crown
+41,Artifact,Frigid Helmet
+42,Enchantment,Instant Oblivion Drain
+43,Creature,Eagle
+44,Spell,Grim Maelstrom

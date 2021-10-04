@@ -1,46 +1,46 @@
-==================,DECK,7453,Medium
-0,Creature,Common,Orc
-1,Enchantment,Legendary,Dire Flight
-2,Artifact,Rare,Nimble Scythe
-3,Enchantment,Rare,Solar Agony
-4,Spell,Common,Revive
-5,Spell,Common,Burn
-6,Creature,Common,Dwarf
-7,Creature,Mythic,Earth Ancient Demon of the Shadows
-8,Artifact,Rare,Nature Scepter
-9,Creature,Common,Goblin
-10,Creature,Common,Eagle
-11,Creature,Common,Warlock
-12,Creature,Common,Eagle
-13,Enchantment,Legendary,Angry Shield
-14,Creature,Common,Paladin
-15,Creature,Legendary,Snow Assassin Orge of the Haven
-16,Creature,Legendary,Death Priest Cyclops of the Swamp
-17,Creature,Common,Orc
-18,Creature,Common,Spider
-19,Artifact,Legendary,Angry Ghost Wand
-20,Enchantment,Legendary,Urgent Flight
-21,Enchantment,Common,Drain
-22,Spell,Common,Assault
-23,Creature,Mythic,Frozen Time Dragon of the Void
-24,Spell,Common,Freeze
-25,Artifact,Common,Scythe
-26,Enchantment,Common,Shield
-27,Creature,Common,Orc
-28,Creature,Common,Elf
-29,Enchantment,Common,Age
-30,Enchantment,Legendary,Angry Haste
-31,Enchantment,Legendary,Clever Haste
-32,Enchantment,Common,Haste
-33,Creature,Common,Paladin
-34,Spell,Rare,Frigid Wall
-35,Creature,Mythic,Death Nameless Dragon of the Dead
-36,Creature,Common,Magi
-37,Spell,Common,Revive
-38,Artifact,Rare,Hateful Ghost Wand
-39,Spell,Common,Hypnosis
-40,Spell,Rare,Corpse Rage
-41,Creature,Legendary,Snow Assassin Kraken of the Arctic Blizzards
-42,Creature,Common,Wolf
-43,Artifact,Common,Ring
-44,Spell,Rare,Cataclysmic Sorrow
+==================,DECK,7453
+0,Creature,Spider
+1,Enchantment,Clever Grim Haste
+2,Artifact,Necro Scythe
+3,Enchantment,Corpse Agony
+4,Spell,Vortex
+5,Spell,Gravitation
+6,Creature,Magi
+7,Creature,Earth Ancient Demon of the Shadows
+8,Artifact,Corpse Scepter
+9,Creature,Skin-Walker
+10,Creature,Eagle
+11,Creature,Berserker
+12,Creature,Eagle
+13,Enchantment,Irate Gloom Alacrity
+14,Creature,Troll
+15,Creature,Snow Assassin Elf of the Haven
+16,Creature,Death Priest Giant of the Swamp
+17,Creature,Spider
+18,Creature,Paladin
+19,Artifact,Mighty Cataclysmic Ghost Wand
+20,Enchantment,Empyrean Hateful Age
+21,Enchantment,Deathgrip
+22,Spell,Gale
+23,Creature,Frozen Time Dragon of the Void
+24,Spell,Wall
+25,Artifact,Scythe
+26,Enchantment,Strength
+27,Creature,Spider
+28,Creature,Warlock
+29,Enchantment,Age
+30,Enchantment,Mighty Miracle Flight
+31,Enchantment,Clever Life Haste
+32,Enchantment,Haste
+33,Creature,Troll
+34,Spell,Victory Frenzy
+35,Creature,Death Nameless Dragon of the Dead
+36,Creature,Fairy
+37,Spell,Fireball
+38,Artifact,Lunar Ghost Wand
+39,Spell,Gravitation
+40,Spell,Hateful Sorrow
+41,Creature,Snow Assassin Ogre of the Arctic Blizzards
+42,Creature,Wolf
+43,Artifact,Ring
+44,Spell,Cataclysmic Stricken

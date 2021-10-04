@@ -1,46 +1,46 @@
-==================,DECK,7329,Light
-0,Creature,Common,Spider
-1,Creature,Common,Magi
-2,Spell,Rare,Nature Stricken
-3,Artifact,Common,Helm
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Warlock
-6,Spell,Common,Stun
-7,Creature,Common,Spider
-8,Creature,Common,Magi
-9,Creature,Rare,Dark Priest Minotaur
-10,Enchantment,Common,Invert
-11,Enchantment,Common,Invert
-12,Spell,Common,Ice
-13,Creature,Common,Ghoul
-14,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-15,Creature,Rare,Light Lord Fairy
-16,Creature,Common,Paladin
-17,Creature,Common,Orc
-18,Enchantment,Common,Shrink
-19,Enchantment,Common,Blight
-20,Enchantment,Common,Shield
-21,Creature,Legendary,Dark Knight Kraken of the Bright Mountains
-22,Enchantment,Rare,Nimble Invert
-23,Creature,Rare,Snow Lord Minotaur
-24,Creature,Rare,Aura Knight Berserker
-25,Artifact,Common,Gloves
-26,Creature,Rare,Light King Skin-Walker
-27,Creature,Common,Warlock
-28,Enchantment,Common,Alacrity
-29,Spell,Common,Wall
-30,Creature,Mythic,Earth Undead Dragon of the Shadows
-31,Spell,Legendary,Extreme Gale
-32,Enchantment,Common,Strength
-33,Creature,Common,Elf
-34,Enchantment,Common,Blight
-35,Spell,Common,Burst
-36,Creature,Rare,Death Merchant Skin-Walker
-37,Creature,Common,Magi
-38,Creature,Common,Goblin
-39,Creature,Common,Spider
-40,Creature,Common,Wolf
-41,Artifact,Rare,Apocalypse Ring
-42,Creature,Rare,Frozen Thief Berserker
-43,Creature,Common,Goblin
-44,Creature,Common,Spider
+==================,DECK,7329
+0,Creature,Paladin
+1,Creature,Fairy
+2,Spell,Corpse Stun
+3,Artifact,Helm
+4,Enchantment,Drain
+5,Creature,Berserker
+6,Spell,Heal
+7,Creature,Paladin
+8,Creature,Fairy
+9,Creature,Dark Priest Cyclops
+10,Enchantment,Drain
+11,Enchantment,Lethargy
+12,Spell,Torment
+13,Creature,Ghoul
+14,Creature,Earth Nameless Phoenix of the Shadows
+15,Creature,Light Lord Kraken
+16,Creature,Troll
+17,Creature,Spider
+18,Enchantment,Haste
+19,Enchantment,Firebreath
+20,Enchantment,Haste
+21,Creature,Dark Knight Ogre of the Bright Mountains
+22,Enchantment,Shimmering Deathgrip
+23,Creature,Snow Lord Cyclops
+24,Creature,Aura Knight Goblin
+25,Artifact,Gloves
+26,Creature,Light King Orc
+27,Creature,Berserker
+28,Enchantment,Haste
+29,Spell,Gale
+30,Creature,Earth Undead Dragon of the Shadows
+31,Spell,Zealous Lunar Hypnosis
+32,Enchantment,Shade
+33,Creature,Warlock
+34,Enchantment,Deathgrip
+35,Spell,Heal
+36,Creature,Death Merchant Orc
+37,Creature,Fairy
+38,Creature,Skin-Walker
+39,Creature,Paladin
+40,Creature,Wolf
+41,Artifact,Life Ring
+42,Creature,Frozen Thief Goblin
+43,Creature,Skin-Walker
+44,Creature,Paladin

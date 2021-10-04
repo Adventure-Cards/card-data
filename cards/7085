@@ -1,46 +1,46 @@
-==================,DECK,7085,Medium
-0,Creature,Common,Goblin
-1,Creature,Rare,Dark Queen Berserker
-2,Artifact,Common,Shield
-3,Creature,Rare,Death Fighter Griffin
-4,Creature,Legendary,Dark Thief Cyclops of the Border
-5,Enchantment,Common,Alacrity
-6,Creature,Rare,Dark Thief Hydra
-7,Creature,Common,Elf
-8,Enchantment,Legendary,Urgent Invert
-9,Creature,Rare,Dark Assassin Berserker
-10,Enchantment,Mythic,Clever Agony
-11,Creature,Common,Orc
-12,Creature,Legendary,Death Lord Orge of the Haven
-13,Artifact,Common,Shield
-14,Creature,Rare,Light King Minotaur
-15,Creature,Common,Paladin
-16,Artifact,Common,Helm
-17,Creature,Common,Spider
-18,Enchantment,Common,Haste
-19,Creature,Legendary,Dark King Cyclops of the Swamp
-20,Creature,Common,Magi
-21,Creature,Rare,Dark King Minotaur
-22,Creature,Rare,Snow Thief Skin-Walker
-23,Creature,Common,Ghoul
-24,Spell,Common,Pandemonium
-25,Creature,Mythic,Death Ancient Wizard of the Dead
-26,Enchantment,Rare,Gloom Alacrity
-27,Spell,Common,Stun
-28,Creature,Rare,Death Merchant Fairy
-29,Creature,Rare,Snow Rogue Hydra
-30,Artifact,Common,Helmet
-31,Spell,Common,Maelstrom
-32,Creature,Rare,Snow Queen Hydra
-33,Spell,Mythic,Instant Heal
-34,Spell,Common,Maelstrom
-35,Creature,Common,Eagle
-36,Creature,Common,Wolf
-37,Enchantment,Common,Deathgrip
-38,Creature,Mythic,Death Ancient Wizard of the Dead
-39,Artifact,Common,Gloves
-40,Artifact,Common,Divine Robe
-41,Artifact,Common,Scepter
-42,Artifact,Rare,Frigid Ring
-43,Creature,Legendary,Aura Knight Kraken of the Swamp
-44,Spell,Common,Wall
+==================,DECK,7085
+0,Creature,Skin-Walker
+1,Creature,Dark Queen Goblin
+2,Artifact,Shield
+3,Creature,Death Fighter Griffin
+4,Creature,Dark Thief Giant of the Border
+5,Enchantment,Strength
+6,Creature,Dark Thief Hydra
+7,Creature,Warlock
+8,Enchantment,Ardent Shimmering Lethargy
+9,Creature,Dark Assassin Goblin
+10,Enchantment,Urgent Life Invert
+11,Creature,Spider
+12,Creature,Death Lord Elf of the Haven
+13,Artifact,Shield
+14,Creature,Light King Cyclops
+15,Creature,Troll
+16,Artifact,Helm
+17,Creature,Paladin
+18,Enchantment,Age
+19,Creature,Dark King Giant of the Swamp
+20,Creature,Fairy
+21,Creature,Dark King Cyclops
+22,Creature,Snow Thief Orc
+23,Creature,Ghoul
+24,Spell,Vortex
+25,Creature,Death Ancient Wizard of the Dead
+26,Enchantment,Dark Firebreath
+27,Spell,Fire
+28,Creature,Death Merchant Kraken
+29,Creature,Snow Rogue Hydra
+30,Artifact,Helmet
+31,Spell,Burst
+32,Creature,Snow Queen Hydra
+33,Spell,Irate Corpse Reanimate
+34,Spell,Fury
+35,Creature,Eagle
+36,Creature,Wolf
+37,Enchantment,Firebreath
+38,Creature,Death Ancient Wizard of the Dead
+39,Artifact,Gloves
+40,Artifact,Divine Robe
+41,Artifact,Scepter
+42,Artifact,Life Ring
+43,Creature,Aura Knight Ogre of the Swamp
+44,Spell,Stricken

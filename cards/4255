@@ -1,46 +1,46 @@
-==================,DECK,4255,Medium
-0,Spell,Rare,Cataclysmic Ice
-1,Creature,Common,Warlock
-2,Creature,Common,Magi
-3,Enchantment,Common,Lethargy
-4,Spell,Common,Gale
-5,Spell,Rare,Corpse Freeze
-6,Creature,Common,Ghoul
-7,Creature,Rare,Dark Merchant Fairy
-8,Creature,Common,Magi
-9,Artifact,Rare,Cataclysmic Greaves
-10,Creature,Common,Orc
-11,Creature,Rare,Earth King Berserker
-12,Enchantment,Rare,Forged Agony
-13,Creature,Common,Spider
-14,Creature,Mythic,Death Nameless Dragon of the Dead
-15,Creature,Common,Eagle
-16,Artifact,Rare,Nimble Ring
-17,Creature,Rare,Aura Priest Skin-Walker
-18,Enchantment,Common,Shade
-19,Enchantment,Common,Shield
-20,Enchantment,Common,Strength
-21,Creature,Rare,Snow Thief Griffin
-22,Creature,Common,Wolf
-23,Creature,Rare,Death Warrior Minotaur
-24,Spell,Rare,Necro Maelstrom
-25,Spell,Rare,Nimble Gravitation
-26,Artifact,Common,Potion
-27,Creature,Common,Ghoul
-28,Creature,Common,Ghoul
-29,Enchantment,Rare,Apocalypse Age
-30,Creature,Common,Magi
-31,Artifact,Common,Gauntlet
-32,Creature,Common,Orc
-33,Artifact,Rare,Grim Boots
-34,Enchantment,Rare,Grim Shade
-35,Creature,Common,Eagle
-36,Creature,Rare,Frozen Merchant Hydra
-37,Enchantment,Rare,Apocalypse Haste
-38,Spell,Rare,Apocalypse Stun
-39,Creature,Rare,Earth Priest Minotaur
-40,Creature,Common,Magi
-41,Creature,Rare,Dark Merchant Fairy
-42,Creature,Common,Ghoul
-43,Creature,Common,Wolf
-44,Creature,Common,Warlock
+==================,DECK,4255
+0,Spell,Lunar Wall
+1,Creature,Berserker
+2,Creature,Fairy
+3,Enchantment,Drain
+4,Spell,Pandemonium
+5,Spell,Necro Gravitation
+6,Creature,Ghoul
+7,Creature,Dark Merchant Kraken
+8,Creature,Fairy
+9,Artifact,Chimeric Greaves
+10,Creature,Spider
+11,Creature,Earth King Goblin
+12,Enchantment,Miracle Alacrity
+13,Creature,Paladin
+14,Creature,Death Nameless Dragon of the Dead
+15,Creature,Eagle
+16,Artifact,Solar Ring
+17,Creature,Aura Priest Orc
+18,Enchantment,Deathgrip
+19,Enchantment,Agony
+20,Enchantment,Firebreath
+21,Creature,Snow Thief Griffin
+22,Creature,Wolf
+23,Creature,Death Warrior Cyclops
+24,Spell,Nature Lightning
+25,Spell,Nature Fire
+26,Artifact,Potion
+27,Creature,Ghoul
+28,Creature,Ghoul
+29,Enchantment,Victory Shade
+30,Creature,Fairy
+31,Artifact,Gauntlet
+32,Creature,Spider
+33,Artifact,Nimble Boots
+34,Enchantment,Frigid Blight
+35,Creature,Eagle
+36,Creature,Frozen Merchant Hydra
+37,Enchantment,Life Invert
+38,Spell,Oblivion Frenzy
+39,Creature,Earth Priest Cyclops
+40,Creature,Fairy
+41,Creature,Dark Merchant Kraken
+42,Creature,Ghoul
+43,Creature,Wolf
+44,Creature,Berserker

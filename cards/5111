@@ -1,46 +1,46 @@
-==================,DECK,5111,Light
-0,Creature,Common,Orc
-1,Creature,Common,Magi
-2,Spell,Common,Rage
-3,Enchantment,Common,Flight
-4,Spell,Common,Sorrow
-5,Artifact,Common,Ring
-6,Creature,Rare,Aura Knight Skin-Walker
-7,Artifact,Legendary,Instant Gloves
-8,Creature,Legendary,Aura King Kraken of the Eastern Skies
-9,Creature,Common,Ghoul
-10,Spell,Rare,Necro Burn
-11,Creature,Common,Dwarf
-12,Enchantment,Rare,Life Blight
-13,Spell,Common,Rage
-14,Creature,Common,Wolf
-15,Spell,Common,Reanimate
-16,Enchantment,Common,Flight
-17,Creature,Legendary,Aura Merchant Giant of the Eastern Skies
-18,Enchantment,Common,Agony
-19,Spell,Legendary,Angry Freeze
-20,Spell,Rare,Cataclysmic Fury
-21,Creature,Mythic,Snow Undead Dragon of Hate
-22,Enchantment,Common,Flight
-23,Enchantment,Common,Deathgrip
-24,Enchantment,Mythic,Intense Shade
-25,Creature,Common,Wolf
-26,Enchantment,Common,Haste
-27,Creature,Common,Goblin
-28,Spell,Common,Infuriate
-29,Enchantment,Legendary,Intense Flight
-30,Spell,Legendary,Intense Torment
-31,Creature,Mythic,Snow Undead Dragon of Hate
-32,Artifact,Common,Bow
-33,Artifact,Rare,Miracle Greaves
-34,Creature,Common,Warlock
-35,Artifact,Common,Greaves
-36,Spell,Common,Fury
-37,Creature,Common,Paladin
-38,Creature,Legendary,Aura Thief Kraken of the Eastern Skies
-39,Spell,Rare,Life Sorrow
-40,Spell,Common,Freeze
-41,Creature,Common,Goblin
-42,Spell,Common,Rage
-43,Enchantment,Common,Shield
-44,Creature,Common,Orc
+==================,DECK,5111
+0,Creature,Spider
+1,Creature,Fairy
+2,Spell,Gale
+3,Enchantment,Flight
+4,Spell,Stun
+5,Artifact,Ring
+6,Creature,Aura Knight Orc
+7,Artifact,Potent Nature Gloves
+8,Creature,Aura King Ogre of the Eastern Skies
+9,Creature,Ghoul
+10,Spell,Forged Vortex
+11,Creature,Magi
+12,Enchantment,Nimble Shade
+13,Spell,Maelstrom
+14,Creature,Wolf
+15,Spell,Hypnosis
+16,Enchantment,Deathgrip
+17,Creature,Aura Merchant Dwarf of the Eastern Skies
+18,Enchantment,Deathgrip
+19,Spell,Instant Chimeric Burn
+20,Spell,Miracle Burst
+21,Creature,Snow Undead Dragon of Hate
+22,Enchantment,Blight
+23,Enchantment,Agony
+24,Enchantment,Instant Necro Strength
+25,Creature,Wolf
+26,Enchantment,Deathgrip
+27,Creature,Skin-Walker
+28,Spell,Gale
+29,Enchantment,Zealous Hateful Deathgrip
+30,Spell,Instant Hateful Frost
+31,Creature,Snow Undead Dragon of Hate
+32,Artifact,Bow
+33,Artifact,Victory Greaves
+34,Creature,Berserker
+35,Artifact,Greaves
+36,Spell,Vortex
+37,Creature,Troll
+38,Creature,Aura Thief Ogre of the Eastern Skies
+39,Spell,Nimble Freeze
+40,Spell,Rage
+41,Creature,Skin-Walker
+42,Spell,Pandemonium
+43,Enchantment,Blight
+44,Creature,Spider

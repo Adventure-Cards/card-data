@@ -1,46 +1,46 @@
-==================,DECK,4795,Light
-0,Creature,Legendary,Frozen Assassin Oni of the West
-1,Creature,Common,Orc
-2,Enchantment,Common,Shrink
-3,Creature,Common,Orc
-4,Creature,Common,Elf
-5,Enchantment,Common,Lethargy
-6,Artifact,Common,Gauntlet
-7,Enchantment,Rare,Necro Deathgrip
-8,Creature,Common,Elf
-9,Enchantment,Common,Agony
-10,Spell,Common,Hypnosis
-11,Creature,Common,Warlock
-12,Creature,Common,Wolf
-13,Spell,Rare,Grim Revive
-14,Spell,Rare,Oblivion Freeze
-15,Creature,Mythic,Frozen Time Phoenix of the Void
-16,Spell,Common,Gale
-17,Creature,Common,Paladin
-18,Creature,Rare,Light Priest Griffin
-19,Spell,Rare,Nimble Revive
-20,Creature,Common,Elf
-21,Creature,Common,Wolf
-22,Spell,Common,Reanimate
-23,Enchantment,Mythic,Urgent Lethargy
-24,Spell,Rare,Corpse Lightning
-25,Enchantment,Common,Blight
-26,Creature,Common,Wolf
-27,Creature,Common,Elf
-28,Enchantment,Rare,Necro Shrink
-29,Spell,Rare,Life Sorrow
-30,Enchantment,Common,Blight
-31,Creature,Legendary,Aura Monk Cyclops of the Magical Forest
-32,Creature,Common,Ghoul
-33,Creature,Common,Paladin
-34,Creature,Common,Spider
-35,Enchantment,Common,Agony
-36,Spell,Common,Burn
-37,Creature,Rare,Light Priest Hydra
-38,Enchantment,Common,Agony
-39,Creature,Rare,Aura Rogue Minotaur
-40,Enchantment,Common,Shrink
-41,Creature,Common,Warlock
-42,Creature,Rare,Aura Merchant Minotaur
-43,Creature,Legendary,Earth Priest Giant of the Plains
-44,Creature,Common,Orc
+==================,DECK,4795
+0,Creature,Frozen Assassin Oni of the West
+1,Creature,Spider
+2,Enchantment,Shrink
+3,Creature,Spider
+4,Creature,Warlock
+5,Enchantment,Flight
+6,Artifact,Gauntlet
+7,Enchantment,Shimmering Agony
+8,Creature,Warlock
+9,Enchantment,Blight
+10,Spell,Vortex
+11,Creature,Berserker
+12,Creature,Wolf
+13,Spell,Grim Invisibility
+14,Spell,Frigid Vortex
+15,Creature,Frozen Time Phoenix of the Void
+16,Spell,Invisibility
+17,Creature,Troll
+18,Creature,Light Priest Griffin
+19,Spell,Hateful Maelstrom
+20,Creature,Warlock
+21,Creature,Wolf
+22,Spell,Rage
+23,Enchantment,Ardent Hateful Lethargy
+24,Spell,Necro Ice
+25,Enchantment,Shield
+26,Creature,Wolf
+27,Creature,Warlock
+28,Enchantment,Necro Agony
+29,Spell,Frigid Hypnosis
+30,Enchantment,Invert
+31,Creature,Aura Monk Giant of the Magical Forest
+32,Creature,Ghoul
+33,Creature,Troll
+34,Creature,Paladin
+35,Enchantment,Strength
+36,Spell,Lightning
+37,Creature,Light Priest Hydra
+38,Enchantment,Deathgrip
+39,Creature,Aura Rogue Cyclops
+40,Enchantment,Shrink
+41,Creature,Berserker
+42,Creature,Aura Merchant Cyclops
+43,Creature,Earth Priest Dwarf of the Plains
+44,Creature,Spider

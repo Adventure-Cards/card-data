@@ -1,46 +1,46 @@
-==================,DECK,5397,Light
-0,Creature,Rare,Frozen Thief Skin-Walker
-1,Enchantment,Common,Drain
-2,Creature,Common,Paladin
-3,Creature,Common,Paladin
-4,Enchantment,Mythic,Intense Drain
-5,Artifact,Common,Pendant
-6,Spell,Rare,Nimble Frenzy
-7,Creature,Common,Orc
-8,Creature,Mythic,Earth Chaos Demon of the Shadows
-9,Creature,Common,Warlock
-10,Enchantment,Common,Flight
-11,Artifact,Common,Crown
-12,Creature,Common,Elf
-13,Enchantment,Common,Haste
-14,Spell,Common,Vortex
-15,Creature,Common,Dwarf
-16,Enchantment,Common,Shield
-17,Artifact,Common,Gloves
-18,Enchantment,Common,Deathgrip
-19,Spell,Legendary,Mighty Rage
-20,Creature,Rare,Light Warrior Fairy
-21,Artifact,Common,Ring
-22,Enchantment,Rare,Lunar Drain
-23,Spell,Common,Fury
-24,Creature,Common,Magi
-25,Creature,Common,Orc
-26,Spell,Common,Frost
-27,Artifact,Common,Sword
-28,Artifact,Common,Staff
-29,Spell,Rare,Life Fury
-30,Creature,Rare,Dark King Minotaur
-31,Creature,Rare,Aura Monk Minotaur
-32,Enchantment,Common,Deathgrip
-33,Enchantment,Common,Blight
-34,Creature,Common,Elf
-35,Enchantment,Common,Shrink
-36,Artifact,Common,Gauntlet
-37,Creature,Common,Elf
-38,Spell,Common,Assault
-39,Creature,Common,Orc
-40,Creature,Common,Elf
-41,Creature,Common,Wolf
-42,Creature,Common,Magi
-43,Artifact,Legendary,Extreme Boots
-44,Creature,Rare,Dark Warrior Berserker
+==================,DECK,5397
+0,Creature,Frozen Thief Orc
+1,Enchantment,Invert
+2,Creature,Troll
+3,Creature,Troll
+4,Enchantment,Clever Forged Lethargy
+5,Artifact,Pendant
+6,Spell,Nature Frenzy
+7,Creature,Spider
+8,Creature,Earth Chaos Demon of the Shadows
+9,Creature,Berserker
+10,Enchantment,Agony
+11,Artifact,Crown
+12,Creature,Warlock
+13,Enchantment,Shrink
+14,Spell,Frenzy
+15,Creature,Magi
+16,Enchantment,Deathgrip
+17,Artifact,Gloves
+18,Enchantment,Lethargy
+19,Spell,Irate Lunar Lightning
+20,Creature,Light Warrior Kraken
+21,Artifact,Ring
+22,Enchantment,Dark Flight
+23,Spell,Freeze
+24,Creature,Fairy
+25,Creature,Spider
+26,Spell,Fire
+27,Artifact,Sword
+28,Artifact,Staff
+29,Spell,Frigid Stun
+30,Creature,Dark King Cyclops
+31,Creature,Aura Monk Cyclops
+32,Enchantment,Shrink
+33,Enchantment,Shield
+34,Creature,Warlock
+35,Enchantment,Flight
+36,Artifact,Gauntlet
+37,Creature,Warlock
+38,Spell,Burn
+39,Creature,Spider
+40,Creature,Warlock
+41,Creature,Wolf
+42,Creature,Fairy
+43,Artifact,Ardent Gloom Boots
+44,Creature,Dark Warrior Goblin

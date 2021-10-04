@@ -1,46 +1,46 @@
-==================,DECK,6063,Medium
-0,Enchantment,Common,Deathgrip
-1,Creature,Common,Magi
-2,Spell,Common,Sorrow
-3,Creature,Common,Ghoul
-4,Creature,Legendary,Dark Rogue Kraken of the Eternal Land
-5,Creature,Rare,Earth Undead Berserker
-6,Spell,Common,Frenzy
-7,Creature,Legendary,Death Assassin Giant of the Swamp
-8,Creature,Rare,Aura King Fairy
-9,Spell,Common,Freeze
-10,Creature,Rare,Snow Rogue Griffin
-11,Enchantment,Legendary,Urgent Haste
-12,Creature,Common,Wolf
-13,Creature,Common,Magi
-14,Spell,Common,Ice
-15,Enchantment,Rare,Miracle Flight
-16,Enchantment,Common,Alacrity
-17,Enchantment,Common,Flight
-18,Enchantment,Common,Shade
-19,Creature,Common,Magi
-20,Enchantment,Mythic,Instant Flight
-21,Artifact,Common,Amulet
-22,Spell,Common,Heal
-23,Spell,Common,Infuriate
-24,Enchantment,Rare,Necro Drain
-25,Creature,Mythic,Death Chaos Demon of the Dead
-26,Spell,Common,Torment
-27,Artifact,Common,Boots
-28,Creature,Rare,Snow Warrior Fairy
-29,Artifact,Rare,Nimble Boots
-30,Spell,Common,Reanimate
-31,Artifact,Rare,Grim Helmet
-32,Creature,Mythic,Dark Nameless Dragon of Illusion
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Ghoul
-35,Creature,Rare,Snow Merchant Minotaur
-36,Creature,Rare,Snow Assassin Fairy
-37,Creature,Common,Ghoul
-38,Creature,Common,Spider
-39,Enchantment,Rare,Forged Agony
-40,Creature,Common,Dwarf
-41,Creature,Rare,Earth Thief Berserker
-42,Creature,Mythic,Dark Time Dragon of Illusion
-43,Creature,Common,Spider
-44,Creature,Rare,Death Lord Fairy
+==================,DECK,6063
+0,Enchantment,Drain
+1,Creature,Fairy
+2,Spell,Fire
+3,Creature,Ghoul
+4,Creature,Dark Rogue Ogre of the Eternal Land
+5,Creature,Earth Undead Goblin
+6,Spell,Tempest
+7,Creature,Death Assassin Dwarf of the Swamp
+8,Creature,Aura King Kraken
+9,Spell,Frenzy
+10,Creature,Snow Rogue Griffin
+11,Enchantment,Potent Corpse Strength
+12,Creature,Wolf
+13,Creature,Fairy
+14,Spell,Infuriate
+15,Enchantment,Grim Blight
+16,Enchantment,Agony
+17,Enchantment,Alacrity
+18,Enchantment,Shield
+19,Creature,Fairy
+20,Enchantment,Zealous Hateful Deathgrip
+21,Artifact,Amulet
+22,Spell,Freeze
+23,Spell,Fireball
+24,Enchantment,Forged Age
+25,Creature,Death Chaos Demon of the Dead
+26,Spell,Revive
+27,Artifact,Boots
+28,Creature,Snow Warrior Kraken
+29,Artifact,Necro Boots
+30,Spell,Maelstrom
+31,Artifact,Apocalypse Helmet
+32,Creature,Dark Nameless Dragon of Illusion
+33,Enchantment,Invert
+34,Creature,Ghoul
+35,Creature,Snow Merchant Cyclops
+36,Creature,Snow Assassin Kraken
+37,Creature,Ghoul
+38,Creature,Paladin
+39,Enchantment,Miracle Flight
+40,Creature,Magi
+41,Creature,Earth Thief Goblin
+42,Creature,Dark Time Dragon of Illusion
+43,Creature,Paladin
+44,Creature,Death Lord Kraken

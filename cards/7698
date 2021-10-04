@@ -1,46 +1,46 @@
-==================,DECK,7698,Light
-0,Creature,Common,Dwarf
-1,Spell,Rare,Forged Lightning
-2,Creature,Rare,Earth Lord Fairy
-3,Creature,Common,Magi
-4,Creature,Common,Paladin
-5,Spell,Common,Invisibility
-6,Artifact,Legendary,Angry Ring
-7,Creature,Rare,Snow Monk Berserker
-8,Creature,Common,Elf
-9,Artifact,Common,Staff
-10,Creature,Common,Goblin
-11,Enchantment,Common,Blight
-12,Artifact,Common,Ring
-13,Enchantment,Common,Drain
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Drain
-16,Creature,Rare,Aura Rogue Griffin
-17,Enchantment,Mythic,Clever Age
-18,Spell,Common,Sorrow
-19,Enchantment,Rare,Corpse Agony
-20,Creature,Rare,Snow Knight Berserker
-21,Enchantment,Rare,Nature Flight
-22,Creature,Common,Warlock
-23,Creature,Legendary,Snow Knight Orge of the Haven
-24,Enchantment,Common,Agony
-25,Enchantment,Common,Shield
-26,Enchantment,Common,Age
-27,Creature,Common,Paladin
-28,Creature,Common,Orc
-29,Creature,Common,Ghoul
-30,Enchantment,Rare,Nimble Agony
-31,Creature,Common,Warlock
-32,Enchantment,Rare,Frigid Lethargy
-33,Spell,Common,Pandemonium
-34,Enchantment,Rare,Apocalypse Haste
-35,Enchantment,Common,Agony
-36,Creature,Common,Warlock
-37,Enchantment,Common,Age
-38,Artifact,Common,Bow
-39,Creature,Common,Magi
-40,Enchantment,Common,Invert
-41,Creature,Common,Spider
-42,Creature,Rare,Light Queen Hydra
-43,Enchantment,Common,Deathgrip
-44,Creature,Mythic,Aura Grand Demon of the Light
+==================,DECK,7698
+0,Creature,Magi
+1,Spell,Chimeric Tempest
+2,Creature,Earth Lord Kraken
+3,Creature,Fairy
+4,Creature,Troll
+5,Spell,Wall
+6,Artifact,Potent Gloom Ring
+7,Creature,Snow Monk Goblin
+8,Creature,Warlock
+9,Artifact,Staff
+10,Creature,Skin-Walker
+11,Enchantment,Blight
+12,Artifact,Ring
+13,Enchantment,Haste
+14,Creature,Ghoul
+15,Enchantment,Haste
+16,Creature,Aura Rogue Griffin
+17,Enchantment,Empyrean Victory Shade
+18,Spell,Sorrow
+19,Enchantment,Corpse Strength
+20,Creature,Snow Knight Goblin
+21,Enchantment,Hateful Strength
+22,Creature,Berserker
+23,Creature,Snow Knight Elf of the Haven
+24,Enchantment,Shade
+25,Enchantment,Deathgrip
+26,Enchantment,Shield
+27,Creature,Troll
+28,Creature,Spider
+29,Creature,Ghoul
+30,Enchantment,Corpse Agony
+31,Creature,Berserker
+32,Enchantment,Grim Drain
+33,Spell,Sorrow
+34,Enchantment,Life Invert
+35,Enchantment,Shrink
+36,Creature,Berserker
+37,Enchantment,Agony
+38,Artifact,Bow
+39,Creature,Fairy
+40,Enchantment,Alacrity
+41,Creature,Paladin
+42,Creature,Light Queen Hydra
+43,Enchantment,Haste
+44,Creature,Aura Grand Demon of the Light

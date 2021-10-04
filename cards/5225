@@ -1,46 +1,46 @@
-==================,DECK,5225,Medium
-0,Artifact,Common,Shield
-1,Enchantment,Mythic,Intense Deathgrip
-2,Enchantment,Common,Shield
-3,Spell,Rare,Shimmering Fury
-4,Creature,Common,Goblin
-5,Creature,Legendary,Snow King Kraken of the Black Stone
-6,Creature,Common,Warlock
-7,Creature,Legendary,Earth Fighter Cyclops of the Border
-8,Creature,Rare,Light Queen Fairy
-9,Enchantment,Rare,Lunar Age
-10,Enchantment,Common,Agony
-11,Creature,Common,Warlock
-12,Creature,Common,Ghoul
-13,Creature,Common,Warlock
-14,Creature,Common,Eagle
-15,Creature,Mythic,Dark Nameless Dragon of Illusion
-16,Creature,Common,Dwarf
-17,Creature,Common,Spider
-18,Spell,Rare,Nature Pandemonium
-19,Creature,Legendary,Light Lord Oni of the Arctic Blizzards
-20,Spell,Rare,Miracle Burn
-21,Spell,Rare,Shimmering Pandemonium
-22,Creature,Rare,Snow Knight Skin-Walker
-23,Artifact,Common,Scepter
-24,Spell,Rare,Gloom Heal
-25,Spell,Common,Rage
-26,Enchantment,Common,Shrink
-27,Enchantment,Rare,Life Drain
-28,Creature,Legendary,Death Thief Kraken of the Golden Palace
-29,Artifact,Common,Ring
-30,Enchantment,Rare,Nature Haste
-31,Enchantment,Rare,Lunar Haste
-32,Creature,Mythic,Frozen Time Dragon of the Void
-33,Creature,Common,Magi
-34,Creature,Common,Paladin
-35,Creature,Common,Wolf
-36,Artifact,Common,Sword
-37,Creature,Common,Warlock
-38,Creature,Common,Goblin
-39,Artifact,Common,Bracers
-40,Creature,Rare,Frozen Thief Skin-Walker
-41,Creature,Common,Magi
-42,Enchantment,Rare,Solar Strength
-43,Artifact,Rare,Gloom Belt
-44,Artifact,Rare,Cataclysmic Tome
+==================,DECK,5225
+0,Artifact,Shield
+1,Enchantment,Empyrean Shimmering Age
+2,Enchantment,Shrink
+3,Spell,Necro Stun
+4,Creature,Skin-Walker
+5,Creature,Snow King Ogre of the Black Stone
+6,Creature,Berserker
+7,Creature,Earth Fighter Giant of the Border
+8,Creature,Light Queen Kraken
+9,Enchantment,Gloom Shrink
+10,Enchantment,Haste
+11,Creature,Berserker
+12,Creature,Ghoul
+13,Creature,Berserker
+14,Creature,Eagle
+15,Creature,Dark Nameless Dragon of Illusion
+16,Creature,Magi
+17,Creature,Paladin
+18,Spell,Necro Assault
+19,Creature,Light Lord Oni of the Arctic Blizzards
+20,Spell,Frigid Pandemonium
+21,Spell,Nature Stun
+22,Creature,Snow Knight Orc
+23,Artifact,Scepter
+24,Spell,Miracle Lightning
+25,Spell,Stricken
+26,Enchantment,Shield
+27,Enchantment,Apocalypse Shade
+28,Creature,Death Thief Ogre of the Golden Palace
+29,Artifact,Ring
+30,Enchantment,Corpse Agony
+31,Enchantment,Miracle Alacrity
+32,Creature,Frozen Time Dragon of the Void
+33,Creature,Fairy
+34,Creature,Troll
+35,Creature,Wolf
+36,Artifact,Sword
+37,Creature,Berserker
+38,Creature,Skin-Walker
+39,Artifact,Bracers
+40,Creature,Frozen Thief Orc
+41,Creature,Fairy
+42,Enchantment,Solar Deathgrip
+43,Artifact,Chimeric Belt
+44,Artifact,Miracle Tome

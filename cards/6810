@@ -1,46 +1,46 @@
-==================,DECK,6810,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Wall
-2,Spell,Rare,Miracle Gale
-3,Creature,Legendary,Dark Queen Kraken of the Low Hills
-4,Creature,Rare,Death King Berserker
-5,Creature,Common,Spider
-6,Enchantment,Common,Blight
-7,Creature,Common,Orc
-8,Spell,Rare,Life Gale
-9,Spell,Rare,Miracle Stun
-10,Creature,Common,Orc
-11,Artifact,Common,Gloves
-12,Creature,Rare,Death King Fairy
-13,Enchantment,Common,Shield
-14,Enchantment,Common,Flight
-15,Artifact,Rare,Miracle Belt
-16,Creature,Common,Warlock
-17,Spell,Common,Maelstrom
-18,Creature,Common,Ghoul
-19,Creature,Rare,Death Queen Fairy
-20,Creature,Common,Magi
-21,Spell,Legendary,Urgent Invisibility
-22,Creature,Legendary,Frozen Rogue Orge of the Golden Palace
-23,Enchantment,Common,Haste
-24,Creature,Common,Ghoul
-25,Spell,Legendary,Intense Hypnosis
-26,Creature,Rare,Frozen Priest Berserker
-27,Creature,Common,Paladin
-28,Enchantment,Common,Drain
-29,Spell,Common,Revive
-30,Spell,Common,Vortex
-31,Spell,Common,Wall
-32,Artifact,Common,Gloves
-33,Enchantment,Common,Blight
-34,Artifact,Common,Sword
-35,Enchantment,Common,Age
-36,Spell,Rare,Lunar Ice
-37,Creature,Common,Paladin
-38,Enchantment,Common,Alacrity
-39,Enchantment,Common,Shade
-40,Artifact,Rare,Corpse Boots
-41,Creature,Common,Magi
-42,Spell,Common,Pandemonium
-43,Enchantment,Common,Agony
-44,Creature,Mythic,Dark Chaos Wizard of Illusion
+==================,DECK,6810
+0,Creature,Ghoul
+1,Spell,Rage
+2,Spell,Grim Stun
+3,Creature,Dark Queen Ogre of the Low Hills
+4,Creature,Death King Goblin
+5,Creature,Paladin
+6,Enchantment,Shade
+7,Creature,Spider
+8,Spell,Frigid Frenzy
+9,Spell,Frigid Wall
+10,Creature,Spider
+11,Artifact,Gloves
+12,Creature,Death King Kraken
+13,Enchantment,Lethargy
+14,Enchantment,Deathgrip
+15,Artifact,Frigid Belt
+16,Creature,Berserker
+17,Spell,Stun
+18,Creature,Ghoul
+19,Creature,Death Queen Kraken
+20,Creature,Fairy
+21,Spell,Urgent Solar Frost
+22,Creature,Frozen Rogue Elf of the Golden Palace
+23,Enchantment,Lethargy
+24,Creature,Ghoul
+25,Spell,Mighty Forged Stricken
+26,Creature,Frozen Priest Goblin
+27,Creature,Troll
+28,Enchantment,Alacrity
+29,Spell,Pandemonium
+30,Spell,Ice
+31,Spell,Invisibility
+32,Artifact,Gloves
+33,Enchantment,Shield
+34,Artifact,Sword
+35,Enchantment,Invert
+36,Spell,Chimeric Lightning
+37,Creature,Troll
+38,Enchantment,Blight
+39,Enchantment,Age
+40,Artifact,Forged Boots
+41,Creature,Fairy
+42,Spell,Fire
+43,Enchantment,Shrink
+44,Creature,Dark Chaos Wizard of Illusion

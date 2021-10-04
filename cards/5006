@@ -1,46 +1,46 @@
-==================,DECK,5006,Light
-0,Creature,Common,Elf
-1,Artifact,Common,Boots
-2,Enchantment,Legendary,Clever Haste
-3,Creature,Rare,Dark Priest Berserker
-4,Creature,Rare,Aura Rogue Skin-Walker
-5,Spell,Common,Infuriate
-6,Creature,Mythic,Earth Undead Phoenix of the Shadows
-7,Enchantment,Common,Blight
-8,Creature,Common,Magi
-9,Enchantment,Rare,Hateful Haste
-10,Enchantment,Rare,Dark Shade
-11,Creature,Common,Orc
-12,Creature,Rare,Light King Skin-Walker
-13,Creature,Common,Elf
-14,Spell,Rare,Dark Gravitation
-15,Enchantment,Common,Haste
-16,Creature,Rare,Aura Monk Hydra
-17,Artifact,Common,Tome
-18,Spell,Legendary,Dire Stricken
-19,Creature,Common,Magi
-20,Spell,Common,Gale
-21,Creature,Legendary,Light Priest Orge of the Eternal Land
-22,Artifact,Common,Gloves
-23,Creature,Common,Paladin
-24,Enchantment,Rare,Apocalypse Age
-25,Spell,Legendary,Clever Burst
-26,Spell,Common,Invisibility
-27,Spell,Common,Infuriate
-28,Spell,Common,Maelstrom
-29,Creature,Common,Eagle
-30,Creature,Mythic,Snow Grand Wizard of Hate
-31,Artifact,Common,Scythe
-32,Creature,Common,Magi
-33,Enchantment,Common,Shield
-34,Creature,Common,Spider
-35,Enchantment,Common,Strength
-36,Spell,Legendary,Mighty Ice
-37,Spell,Common,Invisibility
-38,Creature,Common,Warlock
-39,Spell,Legendary,Clever Ice
-40,Enchantment,Rare,Dark Agony
-41,Creature,Legendary,Death Rogue Cyclops of the Polar Woods
-42,Enchantment,Common,Agony
-43,Enchantment,Rare,Dark Agony
-44,Spell,Legendary,Intense Burn
+==================,DECK,5006
+0,Creature,Warlock
+1,Artifact,Boots
+2,Enchantment,Empyrean Life Shade
+3,Creature,Dark Priest Goblin
+4,Creature,Aura Rogue Orc
+5,Spell,Frost
+6,Creature,Earth Undead Phoenix of the Shadows
+7,Enchantment,Haste
+8,Creature,Fairy
+9,Enchantment,Miracle Shield
+10,Enchantment,Chimeric Shrink
+11,Creature,Spider
+12,Creature,Light King Orc
+13,Creature,Warlock
+14,Spell,Gloom Torment
+15,Enchantment,Alacrity
+16,Creature,Aura Monk Hydra
+17,Artifact,Tome
+18,Spell,Empyrean Grim Rage
+19,Creature,Fairy
+20,Spell,Assault
+21,Creature,Light Priest Elf of the Eternal Land
+22,Artifact,Gloves
+23,Creature,Troll
+24,Enchantment,Victory Invert
+25,Spell,Zealous Frigid Burst
+26,Spell,Wall
+27,Spell,Infuriate
+28,Spell,Reanimate
+29,Creature,Eagle
+30,Creature,Snow Grand Wizard of Hate
+31,Artifact,Scythe
+32,Creature,Fairy
+33,Enchantment,Age
+34,Creature,Paladin
+35,Enchantment,Invert
+36,Spell,Empyrean Dark Fireball
+37,Spell,Burst
+38,Creature,Berserker
+39,Spell,Clever Oblivion Rage
+40,Enchantment,Miracle Flight
+41,Creature,Death Rogue Giant of the Polar Woods
+42,Enchantment,Blight
+43,Enchantment,Miracle Alacrity
+44,Spell,Zealous Nature Reanimate

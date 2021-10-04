@@ -1,46 +1,46 @@
-==================,DECK,7923,Light
-0,Spell,Common,Burst
-1,Spell,Rare,Grim Frost
-2,Artifact,Common,Greaves
-3,Creature,Common,Goblin
-4,Creature,Common,Goblin
-5,Spell,Common,Gravitation
-6,Spell,Common,Reanimate
-7,Creature,Common,Wolf
-8,Creature,Common,Goblin
-9,Creature,Common,Magi
-10,Creature,Common,Eagle
-11,Creature,Common,Paladin
-12,Enchantment,Common,Haste
-13,Creature,Common,Paladin
-14,Creature,Common,Eagle
-15,Creature,Common,Orc
-16,Spell,Common,Stricken
-17,Creature,Common,Paladin
-18,Creature,Common,Eagle
-19,Enchantment,Common,Blight
-20,Creature,Common,Wolf
-21,Creature,Rare,Frozen King Griffin
-22,Creature,Legendary,Dark Priest Oni of the West
-23,Enchantment,Common,Haste
-24,Enchantment,Legendary,Extreme Flight
-25,Enchantment,Common,Lethargy
-26,Creature,Rare,Light Queen Griffin
-27,Creature,Rare,Earth Rogue Skin-Walker
-28,Creature,Common,Dwarf
-29,Creature,Rare,Light Assassin Berserker
-30,Creature,Rare,Frozen Merchant Fairy
-31,Spell,Common,Stun
-32,Spell,Rare,Dark Rage
-33,Enchantment,Common,Flight
-34,Creature,Common,Magi
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Life Drain
-37,Enchantment,Common,Invert
-38,Enchantment,Rare,Solar Invert
-39,Creature,Common,Eagle
-40,Creature,Mythic,Dark Undead Dragon of Illusion
-41,Enchantment,Common,Alacrity
-42,Creature,Rare,Earth King Hydra
-43,Creature,Common,Magi
-44,Spell,Common,Stun
+==================,DECK,7923
+0,Spell,Freeze
+1,Spell,Apocalypse Pandemonium
+2,Artifact,Greaves
+3,Creature,Skin-Walker
+4,Creature,Skin-Walker
+5,Spell,Fireball
+6,Spell,Maelstrom
+7,Creature,Wolf
+8,Creature,Skin-Walker
+9,Creature,Fairy
+10,Creature,Eagle
+11,Creature,Troll
+12,Enchantment,Shade
+13,Creature,Troll
+14,Creature,Eagle
+15,Creature,Spider
+16,Spell,Fire
+17,Creature,Troll
+18,Creature,Eagle
+19,Enchantment,Alacrity
+20,Creature,Wolf
+21,Creature,Frozen King Griffin
+22,Creature,Dark Priest Oni of the West
+23,Enchantment,Shield
+24,Enchantment,Empyrean Lunar Firebreath
+25,Enchantment,Drain
+26,Creature,Light Queen Griffin
+27,Creature,Earth Rogue Orc
+28,Creature,Magi
+29,Creature,Light Assassin Goblin
+30,Creature,Frozen Merchant Kraken
+31,Spell,Wall
+32,Spell,Miracle Burn
+33,Enchantment,Age
+34,Creature,Fairy
+35,Creature,Troll
+36,Enchantment,Apocalypse Invert
+37,Enchantment,Flight
+38,Enchantment,Shimmering Age
+39,Creature,Eagle
+40,Creature,Dark Undead Dragon of Illusion
+41,Enchantment,Deathgrip
+42,Creature,Earth King Hydra
+43,Creature,Fairy
+44,Spell,Gravitation

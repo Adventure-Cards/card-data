@@ -1,46 +1,46 @@
-==================,DECK,5594,Light
-0,Spell,Rare,Nimble Gravitation
-1,Spell,Rare,Dark Rage
-2,Creature,Legendary,Dark Thief Giant of the Swamp
-3,Enchantment,Common,Flight
-4,Enchantment,Common,Shrink
-5,Spell,Common,Stricken
-6,Artifact,Rare,Dark Scythe
-7,Creature,Common,Elf
-8,Spell,Common,Reanimate
-9,Creature,Common,Paladin
-10,Artifact,Common,Sword
-11,Spell,Common,Torment
-12,Artifact,Legendary,Urgent Shield
-13,Creature,Common,Elf
-14,Creature,Common,Eagle
-15,Creature,Mythic,Dark Nameless Dragon of Illusion
-16,Artifact,Common,Bow
-17,Enchantment,Rare,Solar Shield
-18,Creature,Rare,Frozen Rogue Skin-Walker
-19,Creature,Rare,Frozen Monk Griffin
-20,Artifact,Common,Helmet
-21,Enchantment,Common,Shade
-22,Creature,Common,Eagle
-23,Creature,Common,Spider
-24,Artifact,Rare,Cataclysmic Staff
-25,Creature,Common,Paladin
-26,Spell,Common,Hypnosis
-27,Creature,Common,Orc
-28,Spell,Common,Hypnosis
-29,Artifact,Rare,Necro Helmet
-30,Enchantment,Mythic,Potent Age
-31,Creature,Common,Ghoul
-32,Artifact,Legendary,Instant Divine Robe
-33,Creature,Common,Goblin
-34,Creature,Common,Dwarf
-35,Creature,Common,Wolf
-36,Enchantment,Common,Flight
-37,Creature,Mythic,Dark Grand Wizard of Illusion
-38,Creature,Common,Paladin
-39,Creature,Common,Spider
-40,Artifact,Common,Potion
-41,Creature,Rare,Light Warrior Fairy
-42,Spell,Common,Heal
-43,Creature,Common,Warlock
-44,Artifact,Common,Gauntlet
+==================,DECK,5594
+0,Spell,Solar Tempest
+1,Spell,Miracle Gale
+2,Creature,Dark Thief Dwarf of the Swamp
+3,Enchantment,Age
+4,Enchantment,Alacrity
+5,Spell,Burn
+6,Artifact,Chimeric Scythe
+7,Creature,Warlock
+8,Spell,Frost
+9,Creature,Troll
+10,Artifact,Sword
+11,Spell,Ice
+12,Artifact,Dire Forged Shield
+13,Creature,Warlock
+14,Creature,Eagle
+15,Creature,Dark Nameless Dragon of Illusion
+16,Artifact,Bow
+17,Enchantment,Nature Agony
+18,Creature,Frozen Rogue Orc
+19,Creature,Frozen Monk Griffin
+20,Artifact,Helmet
+21,Enchantment,Lethargy
+22,Creature,Eagle
+23,Creature,Paladin
+24,Artifact,Lunar Staff
+25,Creature,Troll
+26,Spell,Wall
+27,Creature,Spider
+28,Spell,Gravitation
+29,Artifact,Corpse Helmet
+30,Enchantment,Mighty Victory Invert
+31,Creature,Ghoul
+32,Artifact,Instant Hateful Divine Robe
+33,Creature,Skin-Walker
+34,Creature,Magi
+35,Creature,Wolf
+36,Enchantment,Drain
+37,Creature,Dark Grand Wizard of Illusion
+38,Creature,Troll
+39,Creature,Paladin
+40,Artifact,Potion
+41,Creature,Light Warrior Kraken
+42,Spell,Reanimate
+43,Creature,Berserker
+44,Artifact,Gauntlet

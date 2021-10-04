@@ -1,46 +1,46 @@
-==================,DECK,4903,Light
-0,Creature,Common,Ghoul
-1,Spell,Rare,Frigid Gravitation
-2,Creature,Legendary,Snow Knight Orge of the Mountains
-3,Creature,Common,Spider
-4,Creature,Common,Orc
-5,Creature,Rare,Frozen Merchant Fairy
-6,Spell,Common,Hypnosis
-7,Spell,Common,Frenzy
-8,Artifact,Common,Potion
-9,Enchantment,Common,Strength
-10,Artifact,Common,Divine Robe
-11,Creature,Common,Paladin
-12,Enchantment,Common,Shade
-13,Enchantment,Common,Shade
-14,Spell,Rare,Shimmering Stun
-15,Creature,Common,Magi
-16,Creature,Common,Orc
-17,Creature,Rare,Dark Assassin Fairy
-18,Enchantment,Common,Agony
-19,Artifact,Legendary,Mighty Crown
-20,Creature,Rare,Light Merchant Berserker
-21,Creature,Common,Spider
-22,Spell,Common,Vortex
-23,Creature,Common,Orc
-24,Creature,Common,Ghoul
-25,Creature,Common,Orc
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Ghoul
-28,Artifact,Common,Crown
-29,Spell,Rare,Dark Frost
-30,Creature,Legendary,Snow Priest Orge of the Swamp
-31,Creature,Common,Magi
-32,Creature,Rare,Frozen Priest Minotaur
-33,Spell,Common,Gale
-34,Enchantment,Legendary,Dire Lethargy
-35,Artifact,Legendary,Mighty Ghost Wand
-36,Creature,Common,Paladin
-37,Creature,Rare,Light Knight Berserker
-38,Creature,Rare,Dark Priest Berserker
-39,Creature,Common,Goblin
-40,Enchantment,Rare,Frigid Strength
-41,Enchantment,Rare,Nature Age
-42,Enchantment,Common,Invert
-43,Spell,Common,Stun
-44,Creature,Rare,Dark Merchant Skin-Walker
+==================,DECK,4903
+0,Creature,Ghoul
+1,Spell,Grim Reanimate
+2,Creature,Snow Knight Elf of the Mountains
+3,Creature,Paladin
+4,Creature,Spider
+5,Creature,Frozen Merchant Kraken
+6,Spell,Frost
+7,Spell,Frost
+8,Artifact,Potion
+9,Enchantment,Drain
+10,Artifact,Divine Robe
+11,Creature,Troll
+12,Enchantment,Shrink
+13,Enchantment,Invert
+14,Spell,Hateful Burst
+15,Creature,Fairy
+16,Creature,Spider
+17,Creature,Dark Assassin Kraken
+18,Enchantment,Drain
+19,Artifact,Irate Gloom Crown
+20,Creature,Light Merchant Goblin
+21,Creature,Paladin
+22,Spell,Fire
+23,Creature,Spider
+24,Creature,Ghoul
+25,Creature,Spider
+26,Enchantment,Shrink
+27,Creature,Ghoul
+28,Artifact,Crown
+29,Spell,Chimeric Revive
+30,Creature,Snow Priest Elf of the Swamp
+31,Creature,Fairy
+32,Creature,Frozen Priest Cyclops
+33,Spell,Revive
+34,Enchantment,Dire Grim Shade
+35,Artifact,Urgent Cataclysmic Ghost Wand
+36,Creature,Troll
+37,Creature,Light Knight Goblin
+38,Creature,Dark Priest Goblin
+39,Creature,Skin-Walker
+40,Enchantment,Nimble Haste
+41,Enchantment,Nature Deathgrip
+42,Enchantment,Blight
+43,Spell,Stricken
+44,Creature,Dark Merchant Orc

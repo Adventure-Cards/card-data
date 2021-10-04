@@ -1,46 +1,46 @@
-==================,DECK,4730,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Frozen Knight Fairy
-2,Spell,Common,Fury
-3,Artifact,Common,Gloves
-4,Creature,Mythic,Dark Chaos Demon of Illusion
-5,Creature,Rare,Dark Thief Fairy
-6,Spell,Common,Reanimate
-7,Spell,Common,Gale
-8,Enchantment,Common,Invert
-9,Spell,Legendary,Intense Fury
-10,Creature,Rare,Death Priest Griffin
-11,Creature,Rare,Frozen Monk Fairy
-12,Creature,Common,Goblin
-13,Creature,Common,Goblin
-14,Creature,Common,Spider
-15,Spell,Rare,Dark Invisibility
-16,Artifact,Legendary,Instant Potion
-17,Creature,Rare,Snow Monk Minotaur
-18,Spell,Common,Assault
-19,Artifact,Common,Scepter
-20,Creature,Rare,Death Lord Fairy
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Blight
-23,Creature,Common,Paladin
-24,Creature,Rare,Dark Lord Fairy
-25,Creature,Legendary,Light Thief Kraken of the Low Hills
-26,Creature,Common,Eagle
-27,Enchantment,Common,Shade
-28,Artifact,Common,Ring
-29,Creature,Mythic,Death Ancient Demon of the Dead
-30,Creature,Common,Wolf
-31,Creature,Common,Ghoul
-32,Spell,Common,Pandemonium
-33,Enchantment,Common,Flight
-34,Spell,Common,Freeze
-35,Creature,Common,Warlock
-36,Enchantment,Rare,Solar Shield
-37,Creature,Rare,Frozen Assassin Berserker
-38,Creature,Common,Paladin
-39,Creature,Rare,Earth Fighter Griffin
-40,Artifact,Legendary,Extreme Bow
-41,Creature,Rare,Death Priest Griffin
-42,Creature,Rare,Earth Assassin Berserker
-43,Creature,Common,Spider
-44,Artifact,Rare,Grim Pendant
+==================,DECK,4730
+0,Creature,Skin-Walker
+1,Creature,Frozen Knight Kraken
+2,Spell,Fury
+3,Artifact,Gloves
+4,Creature,Dark Chaos Demon of Illusion
+5,Creature,Dark Thief Kraken
+6,Spell,Frost
+7,Spell,Maelstrom
+8,Enchantment,Shrink
+9,Spell,Empyrean Solar Tempest
+10,Creature,Death Priest Griffin
+11,Creature,Frozen Monk Kraken
+12,Creature,Skin-Walker
+13,Creature,Skin-Walker
+14,Creature,Paladin
+15,Spell,Lunar Sorrow
+16,Artifact,Ardent Necro Potion
+17,Creature,Snow Monk Cyclops
+18,Spell,Reanimate
+19,Artifact,Scepter
+20,Creature,Death Lord Kraken
+21,Creature,Magi
+22,Enchantment,Blight
+23,Creature,Troll
+24,Creature,Dark Lord Kraken
+25,Creature,Light Thief Ogre of the Low Hills
+26,Creature,Eagle
+27,Enchantment,Alacrity
+28,Artifact,Ring
+29,Creature,Death Ancient Demon of the Dead
+30,Creature,Wolf
+31,Creature,Ghoul
+32,Spell,Invisibility
+33,Enchantment,Agony
+34,Spell,Rage
+35,Creature,Berserker
+36,Enchantment,Nature Strength
+37,Creature,Frozen Assassin Goblin
+38,Creature,Troll
+39,Creature,Earth Fighter Griffin
+40,Artifact,Urgent Dark Bow
+41,Creature,Death Priest Griffin
+42,Creature,Earth Assassin Goblin
+43,Creature,Paladin
+44,Artifact,Life Pendant

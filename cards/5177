@@ -1,46 +1,46 @@
-==================,DECK,5177,Medium
-0,Creature,Mythic,Light Time Phoenix of the Sky
-1,Creature,Common,Orc
-2,Spell,Common,Assault
-3,Creature,Common,Warlock
-4,Creature,Common,Spider
-5,Artifact,Rare,Dark Bow
-6,Creature,Common,Elf
-7,Creature,Common,Paladin
-8,Creature,Rare,Aura Undead Skin-Walker
-9,Artifact,Rare,Lunar Crown
-10,Creature,Rare,Light Lord Berserker
-11,Creature,Common,Dwarf
-12,Creature,Common,Spider
-13,Creature,Common,Orc
-14,Creature,Common,Spider
-15,Enchantment,Rare,Frigid Alacrity
-16,Creature,Rare,Earth Monk Griffin
-17,Creature,Common,Goblin
-18,Creature,Common,Elf
-19,Enchantment,Common,Shield
-20,Creature,Rare,Dark Monk Griffin
-21,Creature,Common,Eagle
-22,Enchantment,Rare,Apocalypse Shrink
-23,Enchantment,Rare,Grim Shade
-24,Enchantment,Common,Lethargy
-25,Spell,Common,Assault
-26,Creature,Mythic,Light Time Dragon of the Sky
-27,Creature,Common,Orc
-28,Artifact,Common,Ring
-29,Creature,Rare,Earth Fighter Minotaur
-30,Enchantment,Legendary,Instant Alacrity
-31,Enchantment,Common,Agony
-32,Enchantment,Rare,Apocalypse Blight
-33,Creature,Common,Warlock
-34,Creature,Legendary,Frozen Priest Kraken of the Polar Woods
-35,Artifact,Rare,Miracle Crown
-36,Creature,Common,Goblin
-37,Enchantment,Common,Shield
-38,Enchantment,Rare,Corpse Invert
-39,Creature,Common,Ghoul
-40,Spell,Rare,Lunar Maelstrom
-41,Creature,Rare,Frozen Lord Berserker
-42,Creature,Mythic,Light Time Phoenix of the Sky
-43,Creature,Rare,Aura Knight Fairy
-44,Creature,Rare,Snow Merchant Fairy
+==================,DECK,5177
+0,Creature,Light Time Phoenix of the Sky
+1,Creature,Spider
+2,Spell,Wall
+3,Creature,Berserker
+4,Creature,Paladin
+5,Artifact,Chimeric Bow
+6,Creature,Warlock
+7,Creature,Troll
+8,Creature,Aura Undead Orc
+9,Artifact,Gloom Crown
+10,Creature,Light Lord Goblin
+11,Creature,Magi
+12,Creature,Paladin
+13,Creature,Spider
+14,Creature,Paladin
+15,Enchantment,Apocalypse Invert
+16,Creature,Earth Monk Griffin
+17,Creature,Skin-Walker
+18,Creature,Warlock
+19,Enchantment,Deathgrip
+20,Creature,Dark Monk Griffin
+21,Creature,Eagle
+22,Enchantment,Frigid Haste
+23,Enchantment,Frigid Haste
+24,Enchantment,Blight
+25,Spell,Infuriate
+26,Creature,Light Time Dragon of the Sky
+27,Creature,Spider
+28,Artifact,Ring
+29,Creature,Earth Fighter Cyclops
+30,Enchantment,Urgent Forged Agony
+31,Enchantment,Agony
+32,Enchantment,Nimble Shade
+33,Creature,Berserker
+34,Creature,Frozen Priest Ogre of the Polar Woods
+35,Artifact,Nimble Crown
+36,Creature,Skin-Walker
+37,Enchantment,Lethargy
+38,Enchantment,Shimmering Lethargy
+39,Creature,Ghoul
+40,Spell,Lunar Gravitation
+41,Creature,Frozen Lord Goblin
+42,Creature,Light Time Phoenix of the Sky
+43,Creature,Aura Knight Kraken
+44,Creature,Snow Merchant Kraken

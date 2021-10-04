@@ -1,46 +1,46 @@
-==================,DECK,7019,Light
-0,Creature,Common,Elf
-1,Creature,Common,Goblin
-2,Enchantment,Rare,Lunar Age
-3,Creature,Rare,Aura Assassin Berserker
-4,Creature,Common,Warlock
-5,Enchantment,Rare,Gloom Strength
-6,Artifact,Rare,Oblivion Helm
-7,Creature,Rare,Aura Knight Skin-Walker
-8,Creature,Common,Ghoul
-9,Spell,Common,Frenzy
-10,Creature,Common,Ghoul
-11,Spell,Rare,Corpse Invisibility
-12,Creature,Common,Wolf
-13,Creature,Common,Wolf
-14,Creature,Common,Wolf
-15,Spell,Common,Freeze
-16,Enchantment,Common,Alacrity
-17,Enchantment,Mythic,Mighty Shade
-18,Spell,Rare,Oblivion Rage
-19,Creature,Common,Wolf
-20,Spell,Common,Fury
-21,Creature,Rare,Dark Thief Berserker
-22,Spell,Common,Maelstrom
-23,Creature,Common,Dwarf
-24,Creature,Rare,Light King Hydra
-25,Enchantment,Common,Agony
-26,Creature,Common,Orc
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Spell,Common,Gale
-30,Creature,Legendary,Frozen Thief Orge of the Magical Forest
-31,Creature,Common,Wolf
-32,Enchantment,Common,Deathgrip
-33,Creature,Common,Goblin
-34,Spell,Legendary,Urgent Sorrow
-35,Creature,Common,Warlock
-36,Enchantment,Mythic,Mighty Alacrity
-37,Spell,Common,Burst
-38,Artifact,Common,Pendant
-39,Spell,Common,Invisibility
-40,Creature,Common,Orc
-41,Creature,Common,Magi
-42,Creature,Common,Spider
-43,Spell,Common,Freeze
-44,Enchantment,Common,Shrink
+==================,DECK,7019
+0,Creature,Warlock
+1,Creature,Skin-Walker
+2,Enchantment,Gloom Shield
+3,Creature,Aura Assassin Goblin
+4,Creature,Berserker
+5,Enchantment,Cataclysmic Shrink
+6,Artifact,Grim Helm
+7,Creature,Aura Knight Orc
+8,Creature,Ghoul
+9,Spell,Ice
+10,Creature,Ghoul
+11,Spell,Solar Gale
+12,Creature,Wolf
+13,Creature,Wolf
+14,Creature,Wolf
+15,Spell,Freeze
+16,Enchantment,Drain
+17,Enchantment,Dire Chimeric Firebreath
+18,Spell,Victory Fire
+19,Creature,Wolf
+20,Spell,Stun
+21,Creature,Dark Thief Goblin
+22,Spell,Burn
+23,Creature,Magi
+24,Creature,Light King Hydra
+25,Enchantment,Haste
+26,Creature,Spider
+27,Creature,Warlock
+28,Creature,Fairy
+29,Spell,Fireball
+30,Creature,Frozen Thief Elf of the Magical Forest
+31,Creature,Wolf
+32,Enchantment,Lethargy
+33,Creature,Skin-Walker
+34,Spell,Empyrean Forged Torment
+35,Creature,Berserker
+36,Enchantment,Dire Dark Firebreath
+37,Spell,Burst
+38,Artifact,Pendant
+39,Spell,Sorrow
+40,Creature,Spider
+41,Creature,Fairy
+42,Creature,Paladin
+43,Spell,Infuriate
+44,Enchantment,Alacrity

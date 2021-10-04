@@ -1,46 +1,46 @@
-==================,DECK,5801,Medium
-0,Spell,Common,Maelstrom
-1,Creature,Common,Eagle
-2,Artifact,Common,Greaves
-3,Creature,Common,Wolf
-4,Creature,Rare,Dark Knight Hydra
-5,Creature,Rare,Aura Assassin Skin-Walker
-6,Artifact,Common,Boots
-7,Enchantment,Common,Strength
-8,Creature,Common,Wolf
-9,Spell,Legendary,Potent Fury
-10,Enchantment,Common,Flight
-11,Creature,Legendary,Dark Assassin Giant of the Swamp
-12,Creature,Common,Magi
-13,Creature,Common,Goblin
-14,Enchantment,Common,Deathgrip
-15,Spell,Rare,Miracle Stricken
-16,Creature,Mythic,Frozen Grand Demon of the Void
-17,Creature,Common,Orc
-18,Spell,Common,Frost
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Strength
-21,Creature,Common,Magi
-22,Enchantment,Mythic,Instant Blight
-23,Creature,Common,Wolf
-24,Enchantment,Common,Strength
-25,Artifact,Rare,Solar Staff
-26,Artifact,Rare,Solar Ring
-27,Creature,Mythic,Dark Time Dragon of Illusion
-28,Spell,Common,Reanimate
-29,Creature,Common,Orc
-30,Spell,Mythic,Instant Stun
-31,Spell,Rare,Apocalypse Sorrow
-32,Artifact,Common,Shield
-33,Spell,Common,Freeze
-34,Creature,Common,Elf
-35,Artifact,Common,Sword
-36,Enchantment,Mythic,Angry Flight
-37,Creature,Rare,Frozen Assassin Minotaur
-38,Creature,Common,Spider
-39,Creature,Common,Warlock
-40,Creature,Rare,Earth Lord Berserker
-41,Spell,Common,Assault
-42,Enchantment,Common,Alacrity
-43,Artifact,Rare,Shimmering Pendant
-44,Creature,Rare,Death Lord Griffin
+==================,DECK,5801
+0,Spell,Vortex
+1,Creature,Eagle
+2,Artifact,Greaves
+3,Creature,Wolf
+4,Creature,Dark Knight Hydra
+5,Creature,Aura Assassin Orc
+6,Artifact,Boots
+7,Enchantment,Blight
+8,Creature,Wolf
+9,Spell,Potent Frigid Invisibility
+10,Enchantment,Lethargy
+11,Creature,Dark Assassin Dwarf of the Swamp
+12,Creature,Fairy
+13,Creature,Skin-Walker
+14,Enchantment,Alacrity
+15,Spell,Oblivion Infuriate
+16,Creature,Frozen Grand Demon of the Void
+17,Creature,Spider
+18,Spell,Sorrow
+19,Creature,Magi
+20,Enchantment,Flight
+21,Creature,Fairy
+22,Enchantment,Mighty Solar Agony
+23,Creature,Wolf
+24,Enchantment,Shrink
+25,Artifact,Solar Staff
+26,Artifact,Forged Ring
+27,Creature,Dark Time Dragon of Illusion
+28,Spell,Frost
+29,Creature,Spider
+30,Spell,Mighty Forged Lightning
+31,Spell,Victory Revive
+32,Artifact,Shield
+33,Spell,Pandemonium
+34,Creature,Warlock
+35,Artifact,Sword
+36,Enchantment,Empyrean Lunar Firebreath
+37,Creature,Frozen Assassin Cyclops
+38,Creature,Paladin
+39,Creature,Berserker
+40,Creature,Earth Lord Goblin
+41,Spell,Wall
+42,Enchantment,Lethargy
+43,Artifact,Corpse Pendant
+44,Creature,Death Lord Griffin

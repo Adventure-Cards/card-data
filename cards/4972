@@ -1,46 +1,46 @@
-==================,DECK,4972,Medium
-0,Enchantment,Common,Agony
-1,Creature,Common,Elf
-2,Enchantment,Rare,Corpse Lethargy
-3,Spell,Rare,Lunar Infuriate
-4,Enchantment,Common,Lethargy
-5,Spell,Common,Sorrow
-6,Creature,Rare,Dark Knight Minotaur
-7,Creature,Mythic,Snow Chaos Wizard of Hate
-8,Creature,Common,Wolf
-9,Spell,Rare,Hateful Stun
-10,Spell,Common,Heal
-11,Spell,Common,Frost
-12,Creature,Legendary,Death Lord Giant of the Border
-13,Creature,Mythic,Light Ancient Wizard of the Sky
-14,Enchantment,Common,Blight
-15,Enchantment,Common,Flight
-16,Enchantment,Common,Haste
-17,Creature,Common,Goblin
-18,Spell,Rare,Oblivion Frenzy
-19,Creature,Common,Paladin
-20,Creature,Rare,Earth Thief Griffin
-21,Creature,Common,Elf
-22,Artifact,Common,Scythe
-23,Spell,Rare,Corpse Frost
-24,Creature,Rare,Earth Undead Fairy
-25,Enchantment,Common,Shield
-26,Artifact,Rare,Nature Sigil
-27,Creature,Legendary,Dark Monk Cyclops of the Eastern Skies
-28,Spell,Common,Vortex
-29,Spell,Common,Hypnosis
-30,Creature,Rare,Aura Warrior Fairy
-31,Creature,Common,Dwarf
-32,Spell,Common,Revive
-33,Creature,Common,Magi
-34,Spell,Common,Infuriate
-35,Spell,Common,Heal
-36,Creature,Common,Magi
-37,Creature,Rare,Light King Skin-Walker
-38,Creature,Common,Goblin
-39,Spell,Mythic,Mighty Reanimate
-40,Spell,Common,Pandemonium
-41,Creature,Mythic,Light Nameless Dragon of the Sky
-42,Creature,Legendary,Death Knight Cyclops of the Arctic Blizzards
-43,Creature,Common,Warlock
-44,Spell,Common,Maelstrom
+==================,DECK,4972
+0,Enchantment,Alacrity
+1,Creature,Warlock
+2,Enchantment,Hateful Agony
+3,Spell,Sorrow Gravitation
+4,Enchantment,Flight
+5,Spell,Assault
+6,Creature,Dark Knight Cyclops
+7,Creature,Snow Chaos Wizard of Hate
+8,Creature,Wolf
+9,Spell,Dark Freeze
+10,Spell,Ice
+11,Spell,Vortex
+12,Creature,Death Lord Dwarf of the Border
+13,Creature,Light Ancient Wizard of the Sky
+14,Enchantment,Blight
+15,Enchantment,Deathgrip
+16,Enchantment,Shrink
+17,Creature,Skin-Walker
+18,Spell,Grim Fury
+19,Creature,Troll
+20,Creature,Earth Thief Griffin
+21,Creature,Warlock
+22,Artifact,Scythe
+23,Spell,Solar Torment
+24,Creature,Earth Undead Kraken
+25,Enchantment,Drain
+26,Artifact,Solar Sigil
+27,Creature,Dark Monk Giant of the Eastern Skies
+28,Spell,Assault
+29,Spell,Infuriate
+30,Creature,Aura Warrior Kraken
+31,Creature,Magi
+32,Spell,Heal
+33,Creature,Fairy
+34,Spell,Vortex
+35,Spell,Lightning
+36,Creature,Fairy
+37,Creature,Light King Orc
+38,Creature,Skin-Walker
+39,Spell,Clever Sorrow Stricken
+40,Spell,Gravitation
+41,Creature,Light Nameless Dragon of the Sky
+42,Creature,Death Knight Giant of the Arctic Blizzards
+43,Creature,Berserker
+44,Spell,Revive

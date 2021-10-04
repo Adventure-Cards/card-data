@@ -1,46 +1,46 @@
-==================,DECK,4467,Medium
-0,Creature,Common,Goblin
-1,Spell,Legendary,Urgent Lightning
-2,Creature,Common,Orc
-3,Creature,Rare,Death Rogue Skin-Walker
-4,Enchantment,Common,Lethargy
-5,Enchantment,Legendary,Instant Strength
-6,Creature,Common,Magi
-7,Creature,Rare,Dark Queen Griffin
-8,Spell,Rare,Forged Frenzy
-9,Creature,Rare,Dark Lord Berserker
-10,Creature,Legendary,Snow Monk Orge of the West
-11,Enchantment,Common,Age
-12,Artifact,Rare,Solar Divine Robe
-13,Creature,Common,Spider
-14,Spell,Common,Lightning
-15,Creature,Common,Magi
-16,Creature,Rare,Earth Queen Hydra
-17,Spell,Common,Freeze
-18,Spell,Common,Fury
-19,Creature,Common,Warlock
-20,Creature,Common,Spider
-21,Creature,Common,Dwarf
-22,Creature,Common,Ghoul
-23,Creature,Rare,Dark Assassin Fairy
-24,Creature,Rare,Snow Rogue Griffin
-25,Spell,Common,Hypnosis
-26,Creature,Common,Magi
-27,Creature,Legendary,Frozen Undead Cyclops of the Mountains
-28,Creature,Common,Elf
-29,Enchantment,Rare,Grim Shade
-30,Creature,Legendary,Death Monk Oni of the Swamp
-31,Creature,Legendary,Dark Lord Oni of the Plains
-32,Artifact,Common,Bracers
-33,Creature,Common,Spider
-34,Creature,Mythic,Dark Undead Phoenix of Illusion
-35,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-36,Artifact,Common,Gloves
-37,Enchantment,Common,Shield
-38,Spell,Common,Lightning
-39,Creature,Common,Spider
-40,Creature,Rare,Frozen Assassin Hydra
-41,Creature,Legendary,Dark Rogue Oni of the Arctic Blizzards
-42,Enchantment,Mythic,Extreme Drain
-43,Creature,Rare,Frozen Monk Fairy
-44,Creature,Rare,Earth Queen Griffin
+==================,DECK,4467
+0,Creature,Skin-Walker
+1,Spell,Irate Solar Heal
+2,Creature,Spider
+3,Creature,Death Rogue Orc
+4,Enchantment,Agony
+5,Enchantment,Ardent Solar Lethargy
+6,Creature,Fairy
+7,Creature,Dark Queen Griffin
+8,Spell,Chimeric Freeze
+9,Creature,Dark Lord Goblin
+10,Creature,Snow Monk Elf of the West
+11,Enchantment,Age
+12,Artifact,Shimmering Divine Robe
+13,Creature,Paladin
+14,Spell,Ice
+15,Creature,Fairy
+16,Creature,Earth Queen Hydra
+17,Spell,Reanimate
+18,Spell,Torment
+19,Creature,Berserker
+20,Creature,Paladin
+21,Creature,Magi
+22,Creature,Ghoul
+23,Creature,Dark Assassin Kraken
+24,Creature,Snow Rogue Griffin
+25,Spell,Hypnosis
+26,Creature,Fairy
+27,Creature,Frozen Undead Giant of the Mountains
+28,Creature,Warlock
+29,Enchantment,Frigid Blight
+30,Creature,Death Monk Oni of the Swamp
+31,Creature,Dark Lord Oni of the Plains
+32,Artifact,Bracers
+33,Creature,Paladin
+34,Creature,Dark Undead Phoenix of Illusion
+35,Creature,Earth Nameless Phoenix of the Shadows
+36,Artifact,Gloves
+37,Enchantment,Shrink
+38,Spell,Infuriate
+39,Creature,Paladin
+40,Creature,Frozen Assassin Hydra
+41,Creature,Dark Rogue Oni of the Arctic Blizzards
+42,Enchantment,Empyrean Dark Firebreath
+43,Creature,Frozen Monk Kraken
+44,Creature,Earth Queen Griffin

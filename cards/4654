@@ -1,46 +1,46 @@
-==================,DECK,4654,Light
-0,Enchantment,Rare,Life Drain
-1,Creature,Common,Paladin
-2,Creature,Common,Eagle
-3,Creature,Common,Warlock
-4,Creature,Common,Ghoul
-5,Enchantment,Common,Shield
-6,Creature,Rare,Aura Assassin Hydra
-7,Creature,Rare,Snow Undead Minotaur
-8,Spell,Common,Rage
-9,Spell,Common,Wall
-10,Spell,Common,Maelstrom
-11,Spell,Common,Gale
-12,Creature,Common,Paladin
-13,Creature,Common,Warlock
-14,Creature,Rare,Dark Lord Fairy
-15,Spell,Common,Vortex
-16,Creature,Legendary,Dark Lord Giant of the Magical Forest
-17,Creature,Common,Orc
-18,Spell,Common,Invisibility
-19,Creature,Common,Wolf
-20,Spell,Common,Pandemonium
-21,Creature,Rare,Dark Merchant Hydra
-22,Creature,Common,Wolf
-23,Spell,Rare,Nature Hypnosis
-24,Creature,Common,Wolf
-25,Creature,Common,Magi
-26,Creature,Common,Spider
-27,Creature,Common,Orc
-28,Creature,Common,Paladin
-29,Enchantment,Rare,Solar Agony
-30,Creature,Rare,Earth Rogue Hydra
-31,Spell,Common,Invisibility
-32,Creature,Common,Paladin
-33,Enchantment,Rare,Shimmering Deathgrip
-34,Spell,Common,Revive
-35,Spell,Common,Reanimate
-36,Enchantment,Common,Drain
-37,Spell,Rare,Dark Heal
-38,Creature,Legendary,Snow Warrior Orge of the Swamp
-39,Artifact,Common,Potion
-40,Creature,Common,Eagle
-41,Enchantment,Common,Shade
-42,Artifact,Common,Divine Robe
-43,Spell,Common,Ice
-44,Enchantment,Rare,Necro Age
+==================,DECK,4654
+0,Enchantment,Apocalypse Haste
+1,Creature,Troll
+2,Creature,Eagle
+3,Creature,Berserker
+4,Creature,Ghoul
+5,Enchantment,Drain
+6,Creature,Aura Assassin Hydra
+7,Creature,Snow Undead Cyclops
+8,Spell,Stricken
+9,Spell,Stun
+10,Spell,Fury
+11,Spell,Tempest
+12,Creature,Troll
+13,Creature,Berserker
+14,Creature,Dark Lord Kraken
+15,Spell,Vortex
+16,Creature,Dark Lord Dwarf of the Magical Forest
+17,Creature,Spider
+18,Spell,Reanimate
+19,Creature,Wolf
+20,Spell,Hypnosis
+21,Creature,Dark Merchant Hydra
+22,Creature,Wolf
+23,Spell,Hateful Vortex
+24,Creature,Wolf
+25,Creature,Fairy
+26,Creature,Paladin
+27,Creature,Spider
+28,Creature,Troll
+29,Enchantment,Corpse Deathgrip
+30,Creature,Earth Rogue Hydra
+31,Spell,Maelstrom
+32,Creature,Troll
+33,Enchantment,Shimmering Strength
+34,Spell,Sorrow
+35,Spell,Heal
+36,Enchantment,Agony
+37,Spell,Chimeric Assault
+38,Creature,Snow Warrior Elf of the Swamp
+39,Artifact,Potion
+40,Creature,Eagle
+41,Enchantment,Haste
+42,Artifact,Divine Robe
+43,Spell,Freeze
+44,Enchantment,Nature Agony

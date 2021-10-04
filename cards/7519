@@ -1,46 +1,46 @@
-==================,DECK,7519,Light
-0,Enchantment,Common,Blight
-1,Artifact,Common,Helm
-2,Enchantment,Common,Age
-3,Enchantment,Rare,Oblivion Shield
-4,Enchantment,Common,Deathgrip
-5,Artifact,Common,Ring
-6,Creature,Common,Dwarf
-7,Artifact,Common,Greaves
-8,Creature,Legendary,Dark Lord Orge of the Swamp
-9,Creature,Common,Warlock
-10,Spell,Common,Wall
-11,Creature,Common,Warlock
-12,Creature,Legendary,Frozen King Oni of the Frozen Castle
-13,Creature,Rare,Frozen Queen Griffin
-14,Creature,Rare,Earth Queen Skin-Walker
-15,Creature,Common,Goblin
-16,Enchantment,Rare,Corpse Shade
-17,Enchantment,Mythic,Clever Drain
-18,Spell,Common,Stricken
-19,Creature,Mythic,Snow Undead Dragon of Hate
-20,Creature,Common,Orc
-21,Artifact,Rare,Grim Potion
-22,Spell,Common,Stricken
-23,Enchantment,Common,Alacrity
-24,Spell,Common,Fury
-25,Creature,Common,Dwarf
-26,Creature,Rare,Earth Rogue Hydra
-27,Creature,Common,Orc
-28,Artifact,Common,Sigil
-29,Spell,Common,Infuriate
-30,Spell,Common,Frost
-31,Enchantment,Common,Flight
-32,Creature,Common,Dwarf
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Creature,Rare,Snow Merchant Fairy
-36,Spell,Common,Lightning
-37,Spell,Common,Heal
-38,Creature,Common,Spider
-39,Spell,Common,Stun
-40,Artifact,Common,Amulet
-41,Enchantment,Common,Drain
-42,Spell,Common,Lightning
-43,Enchantment,Common,Alacrity
-44,Creature,Common,Warlock
+==================,DECK,7519
+0,Enchantment,Firebreath
+1,Artifact,Helm
+2,Enchantment,Drain
+3,Enchantment,Victory Haste
+4,Enchantment,Strength
+5,Artifact,Ring
+6,Creature,Magi
+7,Artifact,Greaves
+8,Creature,Dark Lord Elf of the Swamp
+9,Creature,Berserker
+10,Spell,Freeze
+11,Creature,Berserker
+12,Creature,Frozen King Oni of the Frozen Castle
+13,Creature,Frozen Queen Griffin
+14,Creature,Earth Queen Orc
+15,Creature,Skin-Walker
+16,Enchantment,Necro Strength
+17,Enchantment,Clever Apocalypse Haste
+18,Spell,Gale
+19,Creature,Snow Undead Dragon of Hate
+20,Creature,Spider
+21,Artifact,Victory Potion
+22,Spell,Sorrow
+23,Enchantment,Flight
+24,Spell,Stun
+25,Creature,Magi
+26,Creature,Earth Rogue Hydra
+27,Creature,Spider
+28,Artifact,Sigil
+29,Spell,Sorrow
+30,Spell,Fury
+31,Enchantment,Haste
+32,Creature,Magi
+33,Creature,Warlock
+34,Creature,Magi
+35,Creature,Snow Merchant Kraken
+36,Spell,Wall
+37,Spell,Stun
+38,Creature,Paladin
+39,Spell,Fury
+40,Artifact,Amulet
+41,Enchantment,Firebreath
+42,Spell,Maelstrom
+43,Enchantment,Invert
+44,Creature,Berserker

@@ -1,46 +1,46 @@
-==================,DECK,7600,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Wall
-2,Enchantment,Common,Shade
-3,Creature,Common,Orc
-4,Creature,Rare,Light Rogue Hydra
-5,Enchantment,Common,Age
-6,Spell,Common,Lightning
-7,Creature,Legendary,Light Thief Orge of the Golden Palace
-8,Enchantment,Rare,Oblivion Strength
-9,Creature,Common,Magi
-10,Enchantment,Common,Strength
-11,Creature,Legendary,Dark King Giant of the Swamp
-12,Creature,Legendary,Light Knight Oni of the Eastern Skies
-13,Creature,Common,Ghoul
-14,Creature,Common,Elf
-15,Creature,Rare,Earth Lord Skin-Walker
-16,Creature,Common,Paladin
-17,Artifact,Rare,Cataclysmic Amulet
-18,Creature,Common,Wolf
-19,Creature,Mythic,Death Time Dragon of the Dead
-20,Spell,Common,Maelstrom
-21,Creature,Common,Wolf
-22,Spell,Common,Maelstrom
-23,Creature,Common,Paladin
-24,Creature,Common,Paladin
-25,Spell,Rare,Necro Burn
-26,Creature,Legendary,Snow Undead Giant of the Arctic Blizzards
-27,Spell,Common,Ice
-28,Spell,Common,Reanimate
-29,Creature,Common,Orc
-30,Creature,Common,Eagle
-31,Spell,Common,Frost
-32,Enchantment,Common,Blight
-33,Artifact,Common,Helmet
-34,Spell,Common,Invisibility
-35,Creature,Common,Spider
-36,Enchantment,Mythic,Potent Lethargy
-37,Enchantment,Common,Agony
-38,Creature,Rare,Earth Queen Griffin
-39,Creature,Common,Orc
-40,Artifact,Common,Gloves
-41,Spell,Common,Sorrow
-42,Creature,Rare,Frozen Assassin Berserker
-43,Creature,Mythic,Dark Ancient Demon of Illusion
-44,Creature,Common,Eagle
+==================,DECK,7600
+0,Creature,Berserker
+1,Spell,Stricken
+2,Enchantment,Firebreath
+3,Creature,Spider
+4,Creature,Light Rogue Hydra
+5,Enchantment,Deathgrip
+6,Spell,Vortex
+7,Creature,Light Thief Elf of the Golden Palace
+8,Enchantment,Nimble Blight
+9,Creature,Fairy
+10,Enchantment,Haste
+11,Creature,Dark King Dwarf of the Swamp
+12,Creature,Light Knight Oni of the Eastern Skies
+13,Creature,Ghoul
+14,Creature,Warlock
+15,Creature,Earth Lord Orc
+16,Creature,Troll
+17,Artifact,Miracle Amulet
+18,Creature,Wolf
+19,Creature,Death Time Dragon of the Dead
+20,Spell,Stun
+21,Creature,Wolf
+22,Spell,Infuriate
+23,Creature,Troll
+24,Creature,Troll
+25,Spell,Nature Fury
+26,Creature,Snow Undead Dwarf of the Arctic Blizzards
+27,Spell,Gale
+28,Spell,Vortex
+29,Creature,Spider
+30,Creature,Eagle
+31,Spell,Tempest
+32,Enchantment,Lethargy
+33,Artifact,Helmet
+34,Spell,Reanimate
+35,Creature,Paladin
+36,Enchantment,Irate Grim Blight
+37,Enchantment,Shield
+38,Creature,Earth Queen Griffin
+39,Creature,Spider
+40,Artifact,Gloves
+41,Spell,Pandemonium
+42,Creature,Frozen Assassin Goblin
+43,Creature,Dark Ancient Demon of Illusion
+44,Creature,Eagle

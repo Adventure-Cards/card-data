@@ -1,46 +1,46 @@
-==================,DECK,4440,Medium
-0,Creature,Common,Ghoul
-1,Creature,Mythic,Dark Time Phoenix of Illusion
-2,Creature,Common,Eagle
-3,Spell,Mythic,Clever Hypnosis
-4,Creature,Common,Ghoul
-5,Creature,Common,Dwarf
-6,Spell,Common,Invisibility
-7,Enchantment,Common,Agony
-8,Creature,Mythic,Death Ancient Demon of the Dead
-9,Creature,Legendary,Light Warrior Giant of the Eastern Skies
-10,Artifact,Common,Tome
-11,Spell,Common,Pandemonium
-12,Artifact,Rare,Oblivion Crown
-13,Spell,Rare,Oblivion Rage
-14,Artifact,Common,Potion
-15,Creature,Common,Magi
-16,Creature,Common,Wolf
-17,Creature,Rare,Snow Thief Berserker
-18,Creature,Legendary,Earth Fighter Oni of the Magical Forest
-19,Spell,Rare,Solar Assault
-20,Creature,Common,Orc
-21,Artifact,Rare,Gloom Divine Robe
-22,Creature,Common,Magi
-23,Creature,Common,Warlock
-24,Artifact,Rare,Dark Bracers
-25,Creature,Common,Warlock
-26,Spell,Rare,Miracle Burn
-27,Enchantment,Rare,Solar Lethargy
-28,Creature,Common,Spider
-29,Creature,Mythic,Snow Time Phoenix of Hate
-30,Creature,Common,Eagle
-31,Enchantment,Common,Haste
-32,Creature,Common,Wolf
-33,Enchantment,Common,Shrink
-34,Enchantment,Legendary,Extreme Blight
-35,Creature,Common,Elf
-36,Creature,Legendary,Earth Merchant Cyclops of the Haven
-37,Artifact,Legendary,Intense Scythe
-38,Creature,Common,Dwarf
-39,Creature,Common,Magi
-40,Creature,Rare,Dark Lord Berserker
-41,Spell,Rare,Cataclysmic Ice
-42,Spell,Legendary,Angry Sorrow
-43,Creature,Common,Magi
-44,Enchantment,Common,Alacrity
+==================,DECK,4440
+0,Creature,Ghoul
+1,Creature,Dark Time Phoenix of Illusion
+2,Creature,Eagle
+3,Spell,Clever Grim Fire
+4,Creature,Ghoul
+5,Creature,Magi
+6,Spell,Fury
+7,Enchantment,Flight
+8,Creature,Death Ancient Demon of the Dead
+9,Creature,Light Warrior Dwarf of the Eastern Skies
+10,Artifact,Tome
+11,Spell,Stricken
+12,Artifact,Frigid Crown
+13,Spell,Oblivion Pandemonium
+14,Artifact,Potion
+15,Creature,Fairy
+16,Creature,Wolf
+17,Creature,Snow Thief Goblin
+18,Creature,Earth Fighter Oni of the Magical Forest
+19,Spell,Nature Reanimate
+20,Creature,Spider
+21,Artifact,Gloom Divine Robe
+22,Creature,Fairy
+23,Creature,Berserker
+24,Artifact,Sorrow Bracers
+25,Creature,Berserker
+26,Spell,Frigid Revive
+27,Enchantment,Hateful Strength
+28,Creature,Paladin
+29,Creature,Snow Time Phoenix of Hate
+30,Creature,Eagle
+31,Enchantment,Shrink
+32,Creature,Wolf
+33,Enchantment,Firebreath
+34,Enchantment,Zealous Cataclysmic Alacrity
+35,Creature,Warlock
+36,Creature,Earth Merchant Giant of the Haven
+37,Artifact,Dire Shimmering Scythe
+38,Creature,Magi
+39,Creature,Fairy
+40,Creature,Dark Lord Goblin
+41,Spell,Chimeric Lightning
+42,Spell,Zealous Dark Ice
+43,Creature,Fairy
+44,Enchantment,Shade

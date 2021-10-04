@@ -1,46 +1,46 @@
-==================,DECK,4588,Strong
-0,Creature,Common,Wolf
-1,Artifact,Common,Pendant
-2,Creature,Common,Goblin
-3,Creature,Legendary,Earth Undead Kraken of the West
-4,Enchantment,Rare,Lunar Haste
-5,Creature,Common,Dwarf
-6,Artifact,Common,Sword
-7,Spell,Rare,Lunar Fury
-8,Artifact,Rare,Necro Sword
-9,Spell,Common,Assault
-10,Creature,Common,Warlock
-11,Enchantment,Common,Invert
-12,Creature,Rare,Earth Monk Skin-Walker
-13,Spell,Common,Hypnosis
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Age
-16,Spell,Common,Gale
-17,Creature,Common,Magi
-18,Spell,Mythic,Mighty Rage
-19,Creature,Rare,Dark Fighter Skin-Walker
-20,Creature,Common,Goblin
-21,Enchantment,Common,Shield
-22,Creature,Common,Eagle
-23,Creature,Legendary,Snow King Orge of the Eternal Land
-24,Enchantment,Common,Shade
-25,Enchantment,Mythic,Clever Shrink
-26,Artifact,Common,Sigil
-27,Creature,Rare,Frozen Lord Hydra
-28,Enchantment,Rare,Necro Blight
-29,Creature,Common,Elf
-30,Creature,Common,Spider
-31,Spell,Rare,Nimble Lightning
-32,Creature,Rare,Light Warrior Skin-Walker
-33,Enchantment,Common,Haste
-34,Spell,Rare,Miracle Stun
-35,Spell,Legendary,Extreme Pandemonium
-36,Creature,Rare,Earth Thief Skin-Walker
-37,Creature,Common,Elf
-38,Enchantment,Legendary,Urgent Lethargy
-39,Spell,Mythic,Dire Vortex
-40,Enchantment,Common,Shrink
-41,Creature,Rare,Dark Monk Fairy
-42,Enchantment,Rare,Nature Drain
-43,Creature,Rare,Aura Assassin Hydra
-44,Enchantment,Mythic,Clever Drain
+==================,DECK,4588
+0,Creature,Wolf
+1,Artifact,Pendant
+2,Creature,Skin-Walker
+3,Creature,Earth Undead Ogre of the West
+4,Enchantment,Miracle Alacrity
+5,Creature,Magi
+6,Artifact,Sword
+7,Spell,Miracle Invisibility
+8,Artifact,Forged Sword
+9,Spell,Assault
+10,Creature,Berserker
+11,Enchantment,Age
+12,Creature,Earth Monk Orc
+13,Spell,Assault
+14,Creature,Magi
+15,Enchantment,Age
+16,Spell,Gale
+17,Creature,Fairy
+18,Spell,Instant Gloom Torment
+19,Creature,Dark Fighter Orc
+20,Creature,Skin-Walker
+21,Enchantment,Lethargy
+22,Creature,Eagle
+23,Creature,Snow King Elf of the Eternal Land
+24,Enchantment,Alacrity
+25,Enchantment,Zealous Frigid Blight
+26,Artifact,Sigil
+27,Creature,Frozen Lord Hydra
+28,Enchantment,Solar Lethargy
+29,Creature,Warlock
+30,Creature,Paladin
+31,Spell,Necro Freeze
+32,Creature,Light Warrior Orc
+33,Enchantment,Agony
+34,Spell,Life Invisibility
+35,Spell,Clever Gloom Wall
+36,Creature,Earth Thief Orc
+37,Creature,Warlock
+38,Enchantment,Urgent Hateful Agony
+39,Spell,Ardent Grim Sorrow
+40,Enchantment,Agony
+41,Creature,Dark Monk Kraken
+42,Enchantment,Forged Agony
+43,Creature,Aura Assassin Hydra
+44,Enchantment,Clever Apocalypse Haste

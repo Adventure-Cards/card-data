@@ -1,46 +1,46 @@
-==================,DECK,7705,Light
-0,Creature,Legendary,Aura Undead Kraken of the Magical Forest
-1,Creature,Rare,Frozen Lord Skin-Walker
-2,Creature,Common,Elf
-3,Creature,Rare,Death Lord Berserker
-4,Creature,Rare,Dark Fighter Berserker
-5,Creature,Rare,Aura Priest Hydra
-6,Artifact,Common,Staff
-7,Artifact,Common,Scepter
-8,Creature,Common,Wolf
-9,Creature,Common,Magi
-10,Spell,Common,Reanimate
-11,Spell,Common,Invisibility
-12,Spell,Common,Heal
-13,Spell,Rare,Hateful Burn
-14,Creature,Common,Magi
-15,Creature,Rare,Frozen Knight Berserker
-16,Creature,Rare,Snow Priest Fairy
-17,Spell,Legendary,Clever Heal
-18,Creature,Common,Wolf
-19,Creature,Common,Elf
-20,Creature,Common,Warlock
-21,Spell,Rare,Apocalypse Maelstrom
-22,Artifact,Common,Shield
-23,Spell,Common,Invisibility
-24,Creature,Common,Spider
-25,Creature,Common,Spider
-26,Spell,Common,Gale
-27,Creature,Rare,Snow King Hydra
-28,Spell,Common,Rage
-29,Artifact,Common,Sigil
-30,Enchantment,Common,Lethargy
-31,Enchantment,Legendary,Dire Haste
-32,Creature,Rare,Aura Thief Skin-Walker
-33,Creature,Common,Dwarf
-34,Creature,Rare,Frozen Thief Hydra
-35,Enchantment,Common,Drain
-36,Creature,Common,Spider
-37,Artifact,Common,Boots
-38,Creature,Common,Dwarf
-39,Creature,Common,Dwarf
-40,Creature,Common,Dwarf
-41,Spell,Common,Invisibility
-42,Enchantment,Rare,Nature Drain
-43,Spell,Common,Gale
-44,Creature,Rare,Death Merchant Hydra
+==================,DECK,7705
+0,Creature,Aura Undead Ogre of the Magical Forest
+1,Creature,Frozen Lord Orc
+2,Creature,Warlock
+3,Creature,Death Lord Goblin
+4,Creature,Dark Fighter Goblin
+5,Creature,Aura Priest Hydra
+6,Artifact,Staff
+7,Artifact,Scepter
+8,Creature,Wolf
+9,Creature,Fairy
+10,Spell,Frost
+11,Spell,Frost
+12,Spell,Invisibility
+13,Spell,Sorrow Revive
+14,Creature,Fairy
+15,Creature,Frozen Knight Goblin
+16,Creature,Snow Priest Kraken
+17,Spell,Instant Grim Fury
+18,Creature,Wolf
+19,Creature,Warlock
+20,Creature,Berserker
+21,Spell,Nimble Wall
+22,Artifact,Shield
+23,Spell,Heal
+24,Creature,Paladin
+25,Creature,Paladin
+26,Spell,Assault
+27,Creature,Snow King Hydra
+28,Spell,Frost
+29,Artifact,Sigil
+30,Enchantment,Shade
+31,Enchantment,Mighty Life Invert
+32,Creature,Aura Thief Orc
+33,Creature,Magi
+34,Creature,Frozen Thief Hydra
+35,Enchantment,Deathgrip
+36,Creature,Paladin
+37,Artifact,Boots
+38,Creature,Magi
+39,Creature,Magi
+40,Creature,Magi
+41,Spell,Invisibility
+42,Enchantment,Forged Agony
+43,Spell,Stricken
+44,Creature,Death Merchant Hydra

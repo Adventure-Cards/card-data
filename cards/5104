@@ -1,46 +1,46 @@
-==================,DECK,5104,Medium
-0,Artifact,Common,Helm
-1,Artifact,Rare,Hateful Divine Robe
-2,Creature,Common,Warlock
-3,Creature,Rare,Aura Queen Fairy
-4,Creature,Rare,Light Warrior Fairy
-5,Artifact,Legendary,Instant Bracers
-6,Creature,Common,Eagle
-7,Enchantment,Common,Agony
-8,Creature,Common,Ghoul
-9,Spell,Common,Pandemonium
-10,Spell,Common,Reanimate
-11,Spell,Rare,Cataclysmic Maelstrom
-12,Spell,Common,Burn
-13,Creature,Common,Goblin
-14,Creature,Common,Eagle
-15,Creature,Common,Eagle
-16,Creature,Common,Wolf
-17,Creature,Common,Goblin
-18,Spell,Common,Burst
-19,Artifact,Common,Potion
-20,Creature,Rare,Dark Rogue Hydra
-21,Creature,Common,Dwarf
-22,Creature,Rare,Earth Priest Griffin
-23,Artifact,Rare,Cataclysmic Boots
-24,Enchantment,Common,Strength
-25,Creature,Rare,Dark Warrior Skin-Walker
-26,Spell,Common,Infuriate
-27,Creature,Common,Eagle
-28,Artifact,Common,Sword
-29,Enchantment,Mythic,Dire Alacrity
-30,Enchantment,Legendary,Intense Alacrity
-31,Enchantment,Common,Drain
-32,Creature,Common,Spider
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Wolf
-35,Enchantment,Rare,Solar Lethargy
-36,Enchantment,Common,Flight
-37,Enchantment,Common,Shrink
-38,Creature,Common,Spider
-39,Spell,Common,Frenzy
-40,Enchantment,Common,Deathgrip
-41,Spell,Common,Freeze
-42,Creature,Common,Wolf
-43,Creature,Rare,Aura King Minotaur
-44,Creature,Legendary,Death King Giant of the Bright Mountains
+==================,DECK,5104
+0,Artifact,Helm
+1,Artifact,Dark Divine Robe
+2,Creature,Berserker
+3,Creature,Aura Queen Kraken
+4,Creature,Light Warrior Kraken
+5,Artifact,Zealous Hateful Bracers
+6,Creature,Eagle
+7,Enchantment,Haste
+8,Creature,Ghoul
+9,Spell,Invisibility
+10,Spell,Burst
+11,Spell,Chimeric Reanimate
+12,Spell,Sorrow
+13,Creature,Skin-Walker
+14,Creature,Eagle
+15,Creature,Eagle
+16,Creature,Wolf
+17,Creature,Skin-Walker
+18,Spell,Gale
+19,Artifact,Potion
+20,Creature,Dark Rogue Hydra
+21,Creature,Magi
+22,Creature,Earth Priest Griffin
+23,Artifact,Lunar Boots
+24,Enchantment,Shade
+25,Creature,Dark Warrior Orc
+26,Spell,Revive
+27,Creature,Eagle
+28,Artifact,Sword
+29,Enchantment,Instant Apocalypse Drain
+30,Enchantment,Ardent Forged Lethargy
+31,Enchantment,Agony
+32,Creature,Paladin
+33,Enchantment,Flight
+34,Creature,Wolf
+35,Enchantment,Hateful Age
+36,Enchantment,Age
+37,Enchantment,Alacrity
+38,Creature,Paladin
+39,Spell,Reanimate
+40,Enchantment,Firebreath
+41,Spell,Tempest
+42,Creature,Wolf
+43,Creature,Aura King Cyclops
+44,Creature,Death King Dwarf of the Bright Mountains

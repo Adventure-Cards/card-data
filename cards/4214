@@ -1,46 +1,46 @@
-==================,DECK,4214,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Ghoul
-2,Creature,Common,Wolf
-3,Creature,Mythic,Dark Time Dragon of Illusion
-4,Creature,Common,Eagle
-5,Artifact,Common,Scythe
-6,Enchantment,Rare,Hateful Drain
-7,Spell,Mythic,Angry Torment
-8,Spell,Common,Invisibility
-9,Spell,Rare,Oblivion Vortex
-10,Creature,Common,Spider
-11,Spell,Common,Frost
-12,Creature,Mythic,Frozen Ancient Wizard of the Void
-13,Creature,Rare,Aura Monk Berserker
-14,Enchantment,Common,Shrink
-15,Creature,Common,Wolf
-16,Creature,Rare,Earth Monk Berserker
-17,Creature,Mythic,Light Ancient Demon of the Sky
-18,Spell,Rare,Shimmering Sorrow
-19,Creature,Rare,Dark Queen Griffin
-20,Creature,Rare,Snow Warrior Minotaur
-21,Creature,Common,Magi
-22,Spell,Mythic,Angry Vortex
-23,Creature,Rare,Snow Thief Skin-Walker
-24,Enchantment,Rare,Gloom Shield
-25,Spell,Common,Gale
-26,Creature,Legendary,Light Monk Oni of the Bright Mountains
-27,Spell,Rare,Necro Gale
-28,Creature,Common,Magi
-29,Creature,Common,Magi
-30,Creature,Rare,Death King Skin-Walker
-31,Creature,Legendary,Dark Queen Orge of the Golden Palace
-32,Spell,Rare,Oblivion Frenzy
-33,Enchantment,Common,Strength
-34,Spell,Common,Gale
-35,Creature,Common,Orc
-36,Spell,Common,Ice
-37,Creature,Rare,Death Warrior Berserker
-38,Creature,Legendary,Death King Giant of the West
-39,Enchantment,Rare,Lunar Haste
-40,Spell,Mythic,Instant Stricken
-41,Creature,Common,Eagle
-42,Enchantment,Legendary,Mighty Agony
-43,Creature,Common,Goblin
-44,Creature,Common,Dwarf
+==================,DECK,4214
+0,Creature,Eagle
+1,Creature,Ghoul
+2,Creature,Wolf
+3,Creature,Dark Time Dragon of Illusion
+4,Creature,Eagle
+5,Artifact,Scythe
+6,Enchantment,Dark Shield
+7,Spell,Urgent Dark Burst
+8,Spell,Fireball
+9,Spell,Nimble Rage
+10,Creature,Paladin
+11,Spell,Gale
+12,Creature,Frozen Ancient Wizard of the Void
+13,Creature,Aura Monk Goblin
+14,Enchantment,Age
+15,Creature,Wolf
+16,Creature,Earth Monk Goblin
+17,Creature,Light Ancient Demon of the Sky
+18,Spell,Shimmering Stun
+19,Creature,Dark Queen Griffin
+20,Creature,Snow Warrior Cyclops
+21,Creature,Fairy
+22,Spell,Urgent Dark Hypnosis
+23,Creature,Snow Thief Orc
+24,Enchantment,Gloom Alacrity
+25,Spell,Sorrow
+26,Creature,Light Monk Oni of the Bright Mountains
+27,Spell,Necro Stun
+28,Creature,Fairy
+29,Creature,Fairy
+30,Creature,Death King Orc
+31,Creature,Dark Queen Elf of the Golden Palace
+32,Spell,Oblivion Stun
+33,Enchantment,Haste
+34,Spell,Frenzy
+35,Creature,Spider
+36,Spell,Gale
+37,Creature,Death Warrior Goblin
+38,Creature,Death King Dwarf of the West
+39,Enchantment,Miracle Firebreath
+40,Spell,Mighty Hateful Gale
+41,Creature,Eagle
+42,Enchantment,Dire Miracle Firebreath
+43,Creature,Skin-Walker
+44,Creature,Magi

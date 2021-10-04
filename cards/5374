@@ -1,46 +1,46 @@
-==================,DECK,5374,Light
-0,Enchantment,Common,Lethargy
-1,Artifact,Common,Shield
-2,Creature,Common,Dwarf
-3,Spell,Common,Lightning
-4,Creature,Rare,Death Merchant Hydra
-5,Artifact,Rare,Apocalypse Divine Robe
-6,Spell,Legendary,Instant Sorrow
-7,Enchantment,Common,Blight
-8,Enchantment,Common,Agony
-9,Spell,Common,Frost
-10,Enchantment,Common,Blight
-11,Enchantment,Common,Blight
-12,Enchantment,Mythic,Angry Shield
-13,Creature,Common,Ghoul
-14,Spell,Common,Lightning
-15,Creature,Common,Magi
-16,Spell,Common,Assault
-17,Enchantment,Mythic,Potent Strength
-18,Artifact,Common,Sword
-19,Creature,Common,Dwarf
-20,Spell,Common,Fury
-21,Creature,Common,Dwarf
-22,Spell,Common,Invisibility
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Blight
-25,Artifact,Legendary,Extreme Crown
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Orc
-28,Creature,Rare,Snow Monk Griffin
-29,Spell,Common,Freeze
-30,Enchantment,Rare,Lunar Shrink
-31,Spell,Common,Pandemonium
-32,Creature,Common,Elf
-33,Creature,Common,Dwarf
-34,Enchantment,Mythic,Potent Flight
-35,Creature,Common,Wolf
-36,Creature,Common,Orc
-37,Enchantment,Common,Agony
-38,Creature,Common,Ghoul
-39,Creature,Mythic,Light Time Dragon of the Sky
-40,Enchantment,Common,Drain
-41,Creature,Common,Orc
-42,Spell,Common,Lightning
-43,Enchantment,Common,Alacrity
-44,Enchantment,Common,Shield
+==================,DECK,5374
+0,Enchantment,Shrink
+1,Artifact,Shield
+2,Creature,Magi
+3,Spell,Torment
+4,Creature,Death Merchant Hydra
+5,Artifact,Life Divine Robe
+6,Spell,Potent Solar Frost
+7,Enchantment,Deathgrip
+8,Enchantment,Alacrity
+9,Spell,Wall
+10,Enchantment,Shrink
+11,Enchantment,Deathgrip
+12,Enchantment,Instant Gloom Shrink
+13,Creature,Ghoul
+14,Spell,Frost
+15,Creature,Fairy
+16,Spell,Fireball
+17,Enchantment,Irate Nimble Blight
+18,Artifact,Sword
+19,Creature,Magi
+20,Spell,Vortex
+21,Creature,Magi
+22,Spell,Invisibility
+23,Creature,Magi
+24,Enchantment,Shrink
+25,Artifact,Zealous Miracle Crown
+26,Enchantment,Drain
+27,Creature,Spider
+28,Creature,Snow Monk Griffin
+29,Spell,Fury
+30,Enchantment,Chimeric Alacrity
+31,Spell,Fire
+32,Creature,Warlock
+33,Creature,Magi
+34,Enchantment,Empyrean Grim Shade
+35,Creature,Wolf
+36,Creature,Spider
+37,Enchantment,Blight
+38,Creature,Ghoul
+39,Creature,Light Time Dragon of the Sky
+40,Enchantment,Strength
+41,Creature,Spider
+42,Spell,Revive
+43,Enchantment,Deathgrip
+44,Enchantment,Drain

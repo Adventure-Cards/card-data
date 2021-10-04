@@ -1,46 +1,46 @@
-==================,DECK,6390,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Blight
-2,Artifact,Rare,Corpse Belt
-3,Enchantment,Common,Shrink
-4,Creature,Common,Goblin
-5,Creature,Common,Eagle
-6,Enchantment,Common,Haste
-7,Creature,Common,Spider
-8,Spell,Rare,Lunar Burst
-9,Creature,Rare,Snow King Skin-Walker
-10,Enchantment,Rare,Nature Flight
-11,Spell,Common,Maelstrom
-12,Creature,Common,Magi
-13,Creature,Common,Spider
-14,Spell,Rare,Miracle Stun
-15,Spell,Common,Pandemonium
-16,Creature,Common,Orc
-17,Creature,Common,Elf
-18,Creature,Common,Orc
-19,Artifact,Legendary,Extreme Scythe
-20,Creature,Common,Paladin
-21,Creature,Common,Orc
-22,Creature,Common,Goblin
-23,Artifact,Common,Belt
-24,Creature,Common,Warlock
-25,Spell,Common,Reanimate
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Magi
-28,Artifact,Common,Bow
-29,Enchantment,Legendary,Potent Agony
-30,Creature,Common,Goblin
-31,Creature,Rare,Light Priest Fairy
-32,Creature,Common,Eagle
-33,Enchantment,Common,Alacrity
-34,Creature,Legendary,Death King Orge of the Mountains
-35,Spell,Common,Ice
-36,Spell,Common,Gravitation
-37,Creature,Common,Warlock
-38,Spell,Common,Stun
-39,Creature,Common,Goblin
-40,Spell,Common,Gale
-41,Creature,Rare,Earth Assassin Griffin
-42,Creature,Common,Warlock
-43,Enchantment,Common,Alacrity
-44,Artifact,Rare,Cataclysmic Sigil
+==================,DECK,6390
+0,Creature,Eagle
+1,Enchantment,Strength
+2,Artifact,Corpse Belt
+3,Enchantment,Flight
+4,Creature,Skin-Walker
+5,Creature,Eagle
+6,Enchantment,Flight
+7,Creature,Paladin
+8,Spell,Lunar Freeze
+9,Creature,Snow King Orc
+10,Enchantment,Hateful Agony
+11,Spell,Frost
+12,Creature,Fairy
+13,Creature,Paladin
+14,Spell,Life Lightning
+15,Spell,Fireball
+16,Creature,Spider
+17,Creature,Warlock
+18,Creature,Spider
+19,Artifact,Dire Sorrow Scythe
+20,Creature,Troll
+21,Creature,Spider
+22,Creature,Skin-Walker
+23,Artifact,Belt
+24,Creature,Berserker
+25,Spell,Freeze
+26,Enchantment,Firebreath
+27,Creature,Fairy
+28,Artifact,Bow
+29,Enchantment,Ardent Life Haste
+30,Creature,Skin-Walker
+31,Creature,Light Priest Kraken
+32,Creature,Eagle
+33,Enchantment,Shade
+34,Creature,Death King Elf of the Mountains
+35,Spell,Rage
+36,Spell,Burn
+37,Creature,Berserker
+38,Spell,Maelstrom
+39,Creature,Skin-Walker
+40,Spell,Freeze
+41,Creature,Earth Assassin Griffin
+42,Creature,Berserker
+43,Enchantment,Agony
+44,Artifact,Miracle Sigil

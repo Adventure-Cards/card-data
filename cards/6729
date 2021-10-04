@@ -1,46 +1,46 @@
-==================,DECK,6729,Medium
-0,Spell,Common,Gravitation
-1,Creature,Rare,Dark Warrior Minotaur
-2,Spell,Rare,Forged Wall
-3,Creature,Common,Spider
-4,Spell,Common,Fury
-5,Enchantment,Common,Age
-6,Creature,Common,Spider
-7,Creature,Common,Ghoul
-8,Creature,Common,Eagle
-9,Enchantment,Common,Strength
-10,Creature,Common,Wolf
-11,Creature,Common,Paladin
-12,Spell,Legendary,Intense Torment
-13,Creature,Common,Eagle
-14,Creature,Common,Warlock
-15,Spell,Mythic,Intense Invisibility
-16,Creature,Common,Dwarf
-17,Creature,Common,Ghoul
-18,Creature,Common,Magi
-19,Artifact,Common,Greaves
-20,Spell,Mythic,Urgent Infuriate
-21,Enchantment,Mythic,Dire Shield
-22,Creature,Common,Orc
-23,Spell,Rare,Grim Torment
-24,Spell,Common,Wall
-25,Enchantment,Rare,Life Blight
-26,Enchantment,Common,Shield
-27,Enchantment,Rare,Apocalypse Deathgrip
-28,Artifact,Common,Shield
-29,Spell,Legendary,Angry Rage
-30,Enchantment,Legendary,Potent Alacrity
-31,Creature,Rare,Aura Monk Fairy
-32,Spell,Common,Frost
-33,Creature,Common,Orc
-34,Spell,Rare,Grim Frenzy
-35,Spell,Rare,Cataclysmic Burn
-36,Spell,Common,Assault
-37,Artifact,Rare,Necro Belt
-38,Spell,Common,Wall
-39,Creature,Legendary,Frozen Merchant Orge of the Eternal Land
-40,Spell,Common,Wall
-41,Creature,Rare,Light Lord Skin-Walker
-42,Creature,Rare,Death Warrior Minotaur
-43,Artifact,Common,Helmet
-44,Spell,Common,Burst
+==================,DECK,6729
+0,Spell,Stun
+1,Creature,Dark Warrior Cyclops
+2,Spell,Miracle Stun
+3,Creature,Paladin
+4,Spell,Stricken
+5,Enchantment,Haste
+6,Creature,Paladin
+7,Creature,Ghoul
+8,Creature,Eagle
+9,Enchantment,Firebreath
+10,Creature,Wolf
+11,Creature,Troll
+12,Spell,Irate Forged Stun
+13,Creature,Eagle
+14,Creature,Berserker
+15,Spell,Irate Forged Fireball
+16,Creature,Magi
+17,Creature,Ghoul
+18,Creature,Fairy
+19,Artifact,Greaves
+20,Spell,Clever Hateful Maelstrom
+21,Enchantment,Irate Victory Blight
+22,Creature,Spider
+23,Spell,Oblivion Hypnosis
+24,Spell,Gravitation
+25,Enchantment,Nimble Invert
+26,Enchantment,Shade
+27,Enchantment,Oblivion Shade
+28,Artifact,Shield
+29,Spell,Urgent Miracle Stun
+30,Enchantment,Urgent Apocalypse Invert
+31,Creature,Aura Monk Kraken
+32,Spell,Fireball
+33,Creature,Spider
+34,Spell,Victory Invisibility
+35,Spell,Gloom Hypnosis
+36,Spell,Tempest
+37,Artifact,Forged Belt
+38,Spell,Stun
+39,Creature,Frozen Merchant Elf of the Eternal Land
+40,Spell,Freeze
+41,Creature,Light Lord Orc
+42,Creature,Death Warrior Cyclops
+43,Artifact,Helmet
+44,Spell,Fireball

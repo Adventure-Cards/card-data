@@ -1,46 +1,46 @@
-==================,DECK,7203,Medium
-0,Creature,Common,Spider
-1,Enchantment,Rare,Miracle Shrink
-2,Spell,Common,Frost
-3,Artifact,Common,Pendant
-4,Creature,Common,Elf
-5,Spell,Rare,Grim Gravitation
-6,Enchantment,Common,Haste
-7,Creature,Common,Dwarf
-8,Enchantment,Mythic,Intense Drain
-9,Spell,Rare,Cataclysmic Stun
-10,Artifact,Legendary,Intense Potion
-11,Creature,Common,Eagle
-12,Enchantment,Common,Invert
-13,Creature,Rare,Aura Fighter Minotaur
-14,Spell,Common,Frenzy
-15,Spell,Common,Frenzy
-16,Enchantment,Rare,Dark Shield
-17,Enchantment,Rare,Oblivion Agony
-18,Artifact,Rare,Shimmering Bracers
-19,Creature,Common,Paladin
-20,Creature,Legendary,Snow Queen Oni of the Golden Palace
-21,Creature,Common,Magi
-22,Creature,Common,Spider
-23,Creature,Common,Wolf
-24,Enchantment,Mythic,Instant Age
-25,Creature,Rare,Light Rogue Skin-Walker
-26,Creature,Rare,Light Rogue Hydra
-27,Enchantment,Legendary,Clever Invert
-28,Spell,Legendary,Dire Infuriate
-29,Artifact,Common,Potion
-30,Artifact,Rare,Nature Divine Robe
-31,Enchantment,Common,Strength
-32,Enchantment,Common,Invert
-33,Creature,Legendary,Earth Queen Cyclops of the Polar Woods
-34,Spell,Rare,Frigid Assault
-35,Creature,Rare,Dark Rogue Minotaur
-36,Spell,Common,Invisibility
-37,Creature,Mythic,Frozen Ancient Demon of the Void
-38,Creature,Legendary,Aura Queen Kraken of the Eternal Land
-39,Creature,Common,Goblin
-40,Creature,Mythic,Snow Grand Demon of Hate
-41,Creature,Common,Paladin
-42,Enchantment,Common,Agony
-43,Creature,Mythic,Death Grand Demon of the Dead
-44,Creature,Legendary,Aura Fighter Cyclops of the Swamp
+==================,DECK,7203
+0,Creature,Paladin
+1,Enchantment,Frigid Blight
+2,Spell,Burst
+3,Artifact,Pendant
+4,Creature,Warlock
+5,Spell,Victory Pandemonium
+6,Enchantment,Flight
+7,Creature,Magi
+8,Enchantment,Mighty Forged Agony
+9,Spell,Chimeric Burn
+10,Artifact,Ardent Corpse Potion
+11,Creature,Eagle
+12,Enchantment,Shrink
+13,Creature,Aura Fighter Cyclops
+14,Spell,Burn
+15,Spell,Lightning
+16,Enchantment,Gloom Shrink
+17,Enchantment,Life Drain
+18,Artifact,Nature Bracers
+19,Creature,Troll
+20,Creature,Snow Queen Oni of the Golden Palace
+21,Creature,Fairy
+22,Creature,Paladin
+23,Creature,Wolf
+24,Enchantment,Potent Nature Strength
+25,Creature,Light Rogue Orc
+26,Creature,Light Rogue Hydra
+27,Enchantment,Ardent Oblivion Haste
+28,Spell,Mighty Nimble Frenzy
+29,Artifact,Potion
+30,Artifact,Hateful Divine Robe
+31,Enchantment,Age
+32,Enchantment,Haste
+33,Creature,Earth Queen Giant of the Polar Woods
+34,Spell,Grim Frost
+35,Creature,Dark Rogue Cyclops
+36,Spell,Invisibility
+37,Creature,Frozen Ancient Demon of the Void
+38,Creature,Aura Queen Ogre of the Eternal Land
+39,Creature,Skin-Walker
+40,Creature,Snow Grand Demon of Hate
+41,Creature,Troll
+42,Enchantment,Invert
+43,Creature,Death Grand Demon of the Dead
+44,Creature,Aura Fighter Giant of the Swamp

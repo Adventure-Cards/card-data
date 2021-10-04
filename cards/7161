@@ -1,46 +1,46 @@
-==================,DECK,7161,Light
-0,Creature,Common,Magi
-1,Enchantment,Common,Deathgrip
-2,Creature,Rare,Death Assassin Berserker
-3,Creature,Rare,Earth Monk Minotaur
-4,Creature,Mythic,Snow Undead Dragon of Hate
-5,Enchantment,Rare,Cataclysmic Deathgrip
-6,Artifact,Common,Tome
-7,Artifact,Common,Amulet
-8,Creature,Common,Goblin
-9,Spell,Common,Ice
-10,Spell,Rare,Gloom Invisibility
-11,Creature,Common,Paladin
-12,Artifact,Common,Gauntlet
-13,Creature,Common,Wolf
-14,Artifact,Common,Divine Robe
-15,Enchantment,Mythic,Potent Drain
-16,Spell,Rare,Hateful Stricken
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Age
-19,Spell,Legendary,Potent Stun
-20,Creature,Rare,Earth Undead Fairy
-21,Enchantment,Rare,Cataclysmic Flight
-22,Creature,Mythic,Dark Time Dragon of Illusion
-23,Artifact,Rare,Grim Gauntlet
-24,Enchantment,Legendary,Instant Haste
-25,Creature,Common,Warlock
-26,Creature,Rare,Light Queen Berserker
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Orc
-29,Creature,Mythic,Light Chaos Wizard of the Sky
-30,Creature,Rare,Dark Lord Minotaur
-31,Creature,Common,Elf
-32,Creature,Rare,Dark Lord Skin-Walker
-33,Creature,Rare,Light Fighter Minotaur
-34,Enchantment,Common,Drain
-35,Spell,Rare,Dark Heal
-36,Artifact,Common,Ring
-37,Enchantment,Common,Blight
-38,Artifact,Common,Scepter
-39,Enchantment,Common,Lethargy
-40,Creature,Common,Goblin
-41,Enchantment,Common,Shield
-42,Enchantment,Rare,Dark Lethargy
-43,Spell,Legendary,Angry Assault
-44,Creature,Rare,Death Queen Minotaur
+==================,DECK,7161
+0,Creature,Fairy
+1,Enchantment,Shield
+2,Creature,Death Assassin Goblin
+3,Creature,Earth Monk Cyclops
+4,Creature,Snow Undead Dragon of Hate
+5,Enchantment,Sorrow Firebreath
+6,Artifact,Tome
+7,Artifact,Amulet
+8,Creature,Skin-Walker
+9,Spell,Stun
+10,Spell,Lunar Burn
+11,Creature,Troll
+12,Artifact,Gauntlet
+13,Creature,Wolf
+14,Artifact,Divine Robe
+15,Enchantment,Clever Apocalypse Haste
+16,Spell,Gloom Wall
+17,Enchantment,Blight
+18,Enchantment,Shade
+19,Spell,Zealous Victory Gravitation
+20,Creature,Earth Undead Kraken
+21,Enchantment,Lunar Alacrity
+22,Creature,Dark Time Dragon of Illusion
+23,Artifact,Nimble Gauntlet
+24,Enchantment,Zealous Corpse Deathgrip
+25,Creature,Berserker
+26,Creature,Light Queen Goblin
+27,Enchantment,Shrink
+28,Creature,Spider
+29,Creature,Light Chaos Wizard of the Sky
+30,Creature,Dark Lord Cyclops
+31,Creature,Warlock
+32,Creature,Dark Lord Orc
+33,Creature,Light Fighter Cyclops
+34,Enchantment,Firebreath
+35,Spell,Sorrow Burst
+36,Artifact,Ring
+37,Enchantment,Deathgrip
+38,Artifact,Scepter
+39,Enchantment,Age
+40,Creature,Skin-Walker
+41,Enchantment,Lethargy
+42,Enchantment,Lunar Shrink
+43,Spell,Instant Gloom Fury
+44,Creature,Death Queen Cyclops

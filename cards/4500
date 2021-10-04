@@ -1,46 +1,46 @@
-==================,DECK,4500,Light
-0,Creature,Common,Goblin
-1,Enchantment,Rare,Lunar Shrink
-2,Creature,Common,Magi
-3,Artifact,Common,Belt
-4,Creature,Rare,Dark Undead Fairy
-5,Spell,Common,Invisibility
-6,Creature,Rare,Earth Thief Skin-Walker
-7,Enchantment,Common,Deathgrip
-8,Creature,Common,Magi
-9,Spell,Common,Torment
-10,Enchantment,Mythic,Angry Drain
-11,Creature,Common,Dwarf
-12,Creature,Rare,Snow Merchant Skin-Walker
-13,Enchantment,Common,Flight
-14,Enchantment,Common,Deathgrip
-15,Enchantment,Common,Lethargy
-16,Enchantment,Common,Blight
-17,Creature,Rare,Light Undead Griffin
-18,Artifact,Legendary,Clever Belt
-19,Spell,Common,Infuriate
-20,Enchantment,Common,Alacrity
-21,Spell,Legendary,Mighty Infuriate
-22,Artifact,Common,Pendant
-23,Creature,Common,Spider
-24,Creature,Common,Paladin
-25,Creature,Common,Wolf
-26,Spell,Common,Burst
-27,Creature,Common,Magi
-28,Creature,Common,Magi
-29,Creature,Common,Warlock
-30,Artifact,Legendary,Instant Sigil
-31,Spell,Common,Gale
-32,Creature,Rare,Death Warrior Griffin
-33,Creature,Rare,Earth Thief Berserker
-34,Enchantment,Mythic,Potent Haste
-35,Artifact,Rare,Corpse Potion
-36,Creature,Mythic,Frozen Chaos Wizard of the Void
-37,Enchantment,Common,Drain
-38,Creature,Common,Goblin
-39,Creature,Common,Wolf
-40,Creature,Common,Wolf
-41,Creature,Rare,Death Knight Skin-Walker
-42,Creature,Rare,Aura Fighter Fairy
-43,Spell,Rare,Corpse Freeze
-44,Enchantment,Common,Deathgrip
+==================,DECK,4500
+0,Creature,Skin-Walker
+1,Enchantment,Chimeric Flight
+2,Creature,Fairy
+3,Artifact,Belt
+4,Creature,Dark Undead Kraken
+5,Spell,Gravitation
+6,Creature,Earth Thief Orc
+7,Enchantment,Haste
+8,Creature,Fairy
+9,Spell,Invisibility
+10,Enchantment,Potent Dark Shrink
+11,Creature,Magi
+12,Creature,Snow Merchant Orc
+13,Enchantment,Lethargy
+14,Enchantment,Shield
+15,Enchantment,Shrink
+16,Enchantment,Deathgrip
+17,Creature,Light Undead Griffin
+18,Artifact,Dire Victory Belt
+19,Spell,Gravitation
+20,Enchantment,Lethargy
+21,Spell,Zealous Cataclysmic Fireball
+22,Artifact,Pendant
+23,Creature,Paladin
+24,Creature,Troll
+25,Creature,Wolf
+26,Spell,Hypnosis
+27,Creature,Fairy
+28,Creature,Fairy
+29,Creature,Berserker
+30,Artifact,Mighty Shimmering Sigil
+31,Spell,Stun
+32,Creature,Death Warrior Griffin
+33,Creature,Earth Thief Goblin
+34,Enchantment,Potent Life Drain
+35,Artifact,Corpse Potion
+36,Creature,Frozen Chaos Wizard of the Void
+37,Enchantment,Flight
+38,Creature,Skin-Walker
+39,Creature,Wolf
+40,Creature,Wolf
+41,Creature,Death Knight Orc
+42,Creature,Aura Fighter Kraken
+43,Spell,Necro Maelstrom
+44,Enchantment,Blight

@@ -1,46 +1,46 @@
-==================,DECK,4678,Light
-0,Creature,Rare,Aura Undead Hydra
-1,Spell,Common,Freeze
-2,Creature,Common,Magi
-3,Enchantment,Common,Drain
-4,Artifact,Rare,Necro Potion
-5,Enchantment,Common,Lethargy
-6,Artifact,Rare,Corpse Sword
-7,Spell,Common,Burn
-8,Creature,Rare,Light Rogue Griffin
-9,Creature,Common,Warlock
-10,Spell,Rare,Corpse Frenzy
-11,Creature,Common,Elf
-12,Creature,Rare,Snow Priest Fairy
-13,Creature,Common,Warlock
-14,Creature,Common,Wolf
-15,Creature,Common,Magi
-16,Creature,Rare,Earth Priest Berserker
-17,Artifact,Common,Shield
-18,Artifact,Common,Helmet
-19,Creature,Common,Magi
-20,Enchantment,Common,Invert
-21,Creature,Mythic,Light Grand Demon of the Sky
-22,Creature,Common,Paladin
-23,Enchantment,Common,Lethargy
-24,Enchantment,Common,Blight
-25,Creature,Common,Magi
-26,Spell,Rare,Shimmering Gale
-27,Creature,Common,Orc
-28,Spell,Common,Sorrow
-29,Creature,Rare,Frozen Thief Fairy
-30,Creature,Common,Goblin
-31,Spell,Rare,Gloom Assault
-32,Artifact,Rare,Nimble Sigil
-33,Artifact,Common,Sigil
-34,Enchantment,Common,Blight
-35,Enchantment,Common,Shade
-36,Enchantment,Legendary,Extreme Haste
-37,Enchantment,Legendary,Potent Alacrity
-38,Creature,Common,Wolf
-39,Spell,Legendary,Potent Sorrow
-40,Enchantment,Mythic,Dire Shield
-41,Enchantment,Common,Blight
-42,Creature,Common,Warlock
-43,Spell,Rare,Shimmering Fury
-44,Creature,Common,Magi
+==================,DECK,4678
+0,Creature,Aura Undead Hydra
+1,Spell,Maelstrom
+2,Creature,Fairy
+3,Enchantment,Shrink
+4,Artifact,Corpse Potion
+5,Enchantment,Shield
+6,Artifact,Corpse Sword
+7,Spell,Vortex
+8,Creature,Light Rogue Griffin
+9,Creature,Berserker
+10,Spell,Necro Fury
+11,Creature,Warlock
+12,Creature,Snow Priest Kraken
+13,Creature,Berserker
+14,Creature,Wolf
+15,Creature,Fairy
+16,Creature,Earth Priest Goblin
+17,Artifact,Shield
+18,Artifact,Helmet
+19,Creature,Fairy
+20,Enchantment,Deathgrip
+21,Creature,Light Grand Demon of the Sky
+22,Creature,Troll
+23,Enchantment,Age
+24,Enchantment,Agony
+25,Creature,Fairy
+26,Spell,Shimmering Stricken
+27,Creature,Spider
+28,Spell,Sorrow
+29,Creature,Frozen Thief Kraken
+30,Creature,Skin-Walker
+31,Spell,Dark Hypnosis
+32,Artifact,Forged Sigil
+33,Artifact,Sigil
+34,Enchantment,Agony
+35,Enchantment,Drain
+36,Enchantment,Empyrean Miracle Firebreath
+37,Enchantment,Dire Apocalypse Shade
+38,Creature,Wolf
+39,Spell,Zealous Apocalypse Hypnosis
+40,Enchantment,Instant Victory Drain
+41,Enchantment,Agony
+42,Creature,Berserker
+43,Spell,Corpse Tempest
+44,Creature,Fairy

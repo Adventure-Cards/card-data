@@ -1,46 +1,46 @@
-==================,DECK,4847,Light
-0,Enchantment,Common,Haste
-1,Spell,Common,Invisibility
-2,Creature,Common,Paladin
-3,Creature,Common,Dwarf
-4,Creature,Common,Magi
-5,Creature,Common,Elf
-6,Enchantment,Common,Shrink
-7,Creature,Common,Spider
-8,Spell,Common,Assault
-9,Spell,Common,Torment
-10,Creature,Rare,Light Priest Skin-Walker
-11,Creature,Common,Wolf
-12,Enchantment,Rare,Hateful Deathgrip
-13,Spell,Common,Gale
-14,Creature,Common,Wolf
-15,Artifact,Common,Belt
-16,Creature,Legendary,Death Warrior Oni of the Border
-17,Enchantment,Rare,Corpse Alacrity
-18,Artifact,Common,Potion
-19,Creature,Rare,Earth Undead Hydra
-20,Creature,Common,Elf
-21,Creature,Common,Spider
-22,Creature,Mythic,Earth Undead Dragon of the Shadows
-23,Creature,Common,Elf
-24,Artifact,Common,Bow
-25,Creature,Common,Wolf
-26,Creature,Rare,Earth Assassin Skin-Walker
-27,Creature,Common,Dwarf
-28,Artifact,Rare,Miracle Crown
-29,Creature,Common,Warlock
-30,Spell,Common,Lightning
-31,Creature,Common,Spider
-32,Spell,Rare,Dark Invisibility
-33,Creature,Common,Dwarf
-34,Enchantment,Rare,Oblivion Strength
-35,Creature,Rare,Frozen Monk Skin-Walker
-36,Enchantment,Rare,Corpse Strength
-37,Artifact,Common,Helm
-38,Spell,Common,Pandemonium
-39,Creature,Common,Warlock
-40,Enchantment,Rare,Grim Lethargy
-41,Creature,Common,Orc
-42,Creature,Common,Warlock
-43,Artifact,Legendary,Mighty Greaves
-44,Creature,Common,Eagle
+==================,DECK,4847
+0,Enchantment,Flight
+1,Spell,Frenzy
+2,Creature,Troll
+3,Creature,Magi
+4,Creature,Fairy
+5,Creature,Warlock
+6,Enchantment,Shield
+7,Creature,Paladin
+8,Spell,Fury
+9,Spell,Hypnosis
+10,Creature,Light Priest Orc
+11,Creature,Wolf
+12,Enchantment,Sorrow Flight
+13,Spell,Sorrow
+14,Creature,Wolf
+15,Artifact,Belt
+16,Creature,Death Warrior Oni of the Border
+17,Enchantment,Forged Agony
+18,Artifact,Potion
+19,Creature,Earth Undead Hydra
+20,Creature,Warlock
+21,Creature,Paladin
+22,Creature,Earth Undead Dragon of the Shadows
+23,Creature,Warlock
+24,Artifact,Bow
+25,Creature,Wolf
+26,Creature,Earth Assassin Orc
+27,Creature,Magi
+28,Artifact,Nimble Crown
+29,Creature,Berserker
+30,Spell,Revive
+31,Creature,Paladin
+32,Spell,Gloom Wall
+33,Creature,Magi
+34,Enchantment,Nimble Invert
+35,Creature,Frozen Monk Orc
+36,Enchantment,Solar Agony
+37,Artifact,Helm
+38,Spell,Tempest
+39,Creature,Berserker
+40,Enchantment,Grim Blight
+41,Creature,Spider
+42,Creature,Berserker
+43,Artifact,Mighty Sorrow Greaves
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,6536,Light
-0,Creature,Common,Eagle
-1,Artifact,Common,Bracers
-2,Enchantment,Common,Shade
-3,Spell,Common,Stricken
-4,Spell,Common,Wall
-5,Creature,Common,Eagle
-6,Creature,Common,Paladin
-7,Creature,Legendary,Earth Priest Kraken of the Bright Mountains
-8,Creature,Common,Spider
-9,Spell,Common,Freeze
-10,Spell,Rare,Lunar Stun
-11,Creature,Rare,Snow Monk Hydra
-12,Spell,Rare,Gloom Invisibility
-13,Enchantment,Rare,Cataclysmic Age
-14,Creature,Common,Dwarf
-15,Artifact,Legendary,Extreme Ring
-16,Artifact,Common,Ghost Wand
-17,Spell,Common,Fury
-18,Creature,Common,Elf
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Alacrity
-21,Creature,Common,Magi
-22,Creature,Common,Magi
-23,Creature,Common,Magi
-24,Creature,Common,Ghoul
-25,Spell,Common,Burst
-26,Creature,Common,Goblin
-27,Creature,Rare,Dark Assassin Fairy
-28,Enchantment,Common,Shield
-29,Enchantment,Common,Shield
-30,Spell,Common,Pandemonium
-31,Creature,Common,Dwarf
-32,Creature,Common,Warlock
-33,Creature,Common,Eagle
-34,Artifact,Rare,Necro Gauntlet
-35,Creature,Common,Warlock
-36,Spell,Common,Invisibility
-37,Creature,Common,Warlock
-38,Enchantment,Common,Agony
-39,Enchantment,Common,Agony
-40,Creature,Common,Ghoul
-41,Creature,Common,Elf
-42,Creature,Legendary,Earth Knight Oni of the Arctic Blizzards
-43,Artifact,Common,Ghost Wand
-44,Enchantment,Legendary,Intense Drain
+==================,DECK,6536
+0,Creature,Eagle
+1,Artifact,Bracers
+2,Enchantment,Shrink
+3,Spell,Fire
+4,Spell,Torment
+5,Creature,Eagle
+6,Creature,Troll
+7,Creature,Earth Priest Ogre of the Bright Mountains
+8,Creature,Paladin
+9,Spell,Pandemonium
+10,Spell,Lunar Reanimate
+11,Creature,Snow Monk Hydra
+12,Spell,Lunar Stricken
+13,Enchantment,Gloom Flight
+14,Creature,Magi
+15,Artifact,Potent Miracle Ring
+16,Artifact,Ghost Wand
+17,Spell,Sorrow
+18,Creature,Warlock
+19,Creature,Magi
+20,Enchantment,Blight
+21,Creature,Fairy
+22,Creature,Fairy
+23,Creature,Fairy
+24,Creature,Ghoul
+25,Spell,Stricken
+26,Creature,Skin-Walker
+27,Creature,Dark Assassin Kraken
+28,Enchantment,Age
+29,Enchantment,Shrink
+30,Spell,Reanimate
+31,Creature,Magi
+32,Creature,Berserker
+33,Creature,Eagle
+34,Artifact,Necro Gauntlet
+35,Creature,Berserker
+36,Spell,Lightning
+37,Creature,Berserker
+38,Enchantment,Drain
+39,Enchantment,Shield
+40,Creature,Ghoul
+41,Creature,Warlock
+42,Creature,Earth Knight Oni of the Arctic Blizzards
+43,Artifact,Ghost Wand
+44,Enchantment,Clever Forged Lethargy

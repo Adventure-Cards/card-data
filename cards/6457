@@ -1,46 +1,46 @@
-==================,DECK,6457,Light
-0,Artifact,Common,Scythe
-1,Enchantment,Rare,Miracle Blight
-2,Creature,Common,Warlock
-3,Creature,Common,Warlock
-4,Creature,Rare,Dark Monk Minotaur
-5,Creature,Common,Elf
-6,Artifact,Common,Boots
-7,Creature,Common,Eagle
-8,Enchantment,Common,Drain
-9,Enchantment,Common,Shrink
-10,Creature,Common,Paladin
-11,Creature,Common,Wolf
-12,Artifact,Common,Ring
-13,Spell,Rare,Solar Frost
-14,Spell,Common,Revive
-15,Creature,Rare,Aura Assassin Berserker
-16,Creature,Common,Paladin
-17,Creature,Rare,Dark Warrior Berserker
-18,Enchantment,Common,Drain
-19,Creature,Legendary,Snow Warrior Kraken of the Plains
-20,Spell,Legendary,Instant Freeze
-21,Creature,Rare,Light Queen Skin-Walker
-22,Creature,Common,Paladin
-23,Spell,Common,Reanimate
-24,Spell,Common,Revive
-25,Creature,Rare,Dark Rogue Berserker
-26,Creature,Common,Ghoul
-27,Creature,Rare,Earth Merchant Berserker
-28,Enchantment,Mythic,Clever Agony
-29,Enchantment,Common,Lethargy
-30,Creature,Rare,Light Fighter Hydra
-31,Creature,Common,Elf
-32,Creature,Common,Warlock
-33,Creature,Common,Elf
-34,Artifact,Rare,Gloom Gloves
-35,Spell,Common,Heal
-36,Creature,Common,Dwarf
-37,Enchantment,Common,Alacrity
-38,Creature,Legendary,Frozen Rogue Oni of the Bright Mountains
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Strength
-41,Artifact,Rare,Life Belt
-42,Spell,Common,Hypnosis
-43,Spell,Common,Frost
-44,Spell,Rare,Corpse Invisibility
+==================,DECK,6457
+0,Artifact,Scythe
+1,Enchantment,Nimble Haste
+2,Creature,Berserker
+3,Creature,Berserker
+4,Creature,Dark Monk Cyclops
+5,Creature,Warlock
+6,Artifact,Boots
+7,Creature,Eagle
+8,Enchantment,Shade
+9,Enchantment,Age
+10,Creature,Troll
+11,Creature,Wolf
+12,Artifact,Ring
+13,Spell,Necro Maelstrom
+14,Spell,Revive
+15,Creature,Aura Assassin Goblin
+16,Creature,Troll
+17,Creature,Dark Warrior Goblin
+18,Enchantment,Drain
+19,Creature,Snow Warrior Ogre of the Plains
+20,Spell,Ardent Corpse Fury
+21,Creature,Light Queen Orc
+22,Creature,Troll
+23,Spell,Hypnosis
+24,Spell,Revive
+25,Creature,Dark Rogue Goblin
+26,Creature,Ghoul
+27,Creature,Earth Merchant Goblin
+28,Enchantment,Urgent Life Invert
+29,Enchantment,Lethargy
+30,Creature,Light Fighter Hydra
+31,Creature,Warlock
+32,Creature,Berserker
+33,Creature,Warlock
+34,Artifact,Cataclysmic Gloves
+35,Spell,Stun
+36,Creature,Magi
+37,Enchantment,Age
+38,Creature,Frozen Rogue Oni of the Bright Mountains
+39,Creature,Ghoul
+40,Enchantment,Blight
+41,Artifact,Life Belt
+42,Spell,Reanimate
+43,Spell,Infuriate
+44,Spell,Shimmering Infuriate

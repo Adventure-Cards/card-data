@@ -1,46 +1,46 @@
-==================,DECK,7114,Light
-0,Creature,Common,Elf
-1,Artifact,Common,Scythe
-2,Spell,Common,Frost
-3,Spell,Common,Torment
-4,Enchantment,Common,Shield
-5,Spell,Common,Gravitation
-6,Spell,Common,Gale
-7,Creature,Common,Magi
-8,Spell,Common,Burst
-9,Creature,Common,Magi
-10,Creature,Common,Warlock
-11,Creature,Common,Spider
-12,Artifact,Common,Amulet
-13,Enchantment,Common,Shield
-14,Creature,Rare,Snow Knight Skin-Walker
-15,Enchantment,Common,Blight
-16,Enchantment,Rare,Miracle Haste
-17,Spell,Rare,Grim Wall
-18,Spell,Common,Maelstrom
-19,Artifact,Common,Scythe
-20,Enchantment,Common,Blight
-21,Creature,Common,Goblin
-22,Creature,Common,Goblin
-23,Enchantment,Common,Agony
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Eagle
-28,Spell,Rare,Forged Lightning
-29,Creature,Common,Eagle
-30,Creature,Common,Ghoul
-31,Creature,Common,Warlock
-32,Creature,Common,Warlock
-33,Creature,Common,Warlock
-34,Creature,Common,Spider
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Drain
-37,Spell,Common,Frenzy
-38,Creature,Common,Elf
-39,Enchantment,Rare,Nimble Agony
-40,Enchantment,Rare,Dark Shield
-41,Creature,Common,Dwarf
-42,Spell,Common,Frost
-43,Artifact,Legendary,Clever Potion
-44,Enchantment,Common,Deathgrip
+==================,DECK,7114
+0,Creature,Warlock
+1,Artifact,Scythe
+2,Spell,Lightning
+3,Spell,Sorrow
+4,Enchantment,Blight
+5,Spell,Stun
+6,Spell,Tempest
+7,Creature,Fairy
+8,Spell,Stricken
+9,Creature,Fairy
+10,Creature,Berserker
+11,Creature,Paladin
+12,Artifact,Amulet
+13,Enchantment,Shade
+14,Creature,Snow Knight Orc
+15,Enchantment,Shade
+16,Enchantment,Life Invert
+17,Spell,Nimble Revive
+18,Spell,Rage
+19,Artifact,Scythe
+20,Enchantment,Age
+21,Creature,Skin-Walker
+22,Creature,Skin-Walker
+23,Enchantment,Haste
+24,Enchantment,Age
+25,Creature,Ghoul
+26,Enchantment,Firebreath
+27,Creature,Eagle
+28,Spell,Cataclysmic Frost
+29,Creature,Eagle
+30,Creature,Ghoul
+31,Creature,Berserker
+32,Creature,Berserker
+33,Creature,Berserker
+34,Creature,Paladin
+35,Creature,Magi
+36,Enchantment,Invert
+37,Spell,Ice
+38,Creature,Warlock
+39,Enchantment,Corpse Lethargy
+40,Enchantment,Gloom Firebreath
+41,Creature,Magi
+42,Spell,Revive
+43,Artifact,Ardent Apocalypse Potion
+44,Enchantment,Shield

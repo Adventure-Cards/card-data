@@ -1,46 +1,46 @@
-==================,DECK,4845,Light
-0,Creature,Rare,Light Knight Berserker
-1,Spell,Common,Lightning
-2,Creature,Common,Ghoul
-3,Spell,Rare,Lunar Sorrow
-4,Creature,Common,Ghoul
-5,Artifact,Legendary,Mighty Belt
-6,Creature,Common,Dwarf
-7,Creature,Common,Wolf
-8,Artifact,Rare,Gloom Amulet
-9,Enchantment,Mythic,Instant Drain
-10,Creature,Rare,Frozen Thief Berserker
-11,Enchantment,Common,Haste
-12,Enchantment,Common,Lethargy
-13,Spell,Common,Burst
-14,Creature,Common,Magi
-15,Creature,Common,Warlock
-16,Spell,Common,Reanimate
-17,Creature,Common,Elf
-18,Creature,Rare,Aura Rogue Fairy
-19,Spell,Rare,Nimble Freeze
-20,Enchantment,Legendary,Mighty Alacrity
-21,Spell,Common,Sorrow
-22,Spell,Legendary,Urgent Vortex
-23,Creature,Rare,Light Fighter Skin-Walker
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Age
-26,Spell,Common,Invisibility
-27,Enchantment,Legendary,Dire Drain
-28,Artifact,Common,Tome
-29,Enchantment,Mythic,Potent Lethargy
-30,Spell,Common,Burst
-31,Creature,Legendary,Light Monk Kraken of the Eastern Skies
-32,Enchantment,Common,Age
-33,Spell,Common,Lightning
-34,Creature,Common,Orc
-35,Enchantment,Common,Strength
-36,Creature,Rare,Death Rogue Berserker
-37,Creature,Common,Elf
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Creature,Common,Warlock
-41,Creature,Rare,Death Monk Fairy
-42,Enchantment,Mythic,Mighty Lethargy
-43,Enchantment,Common,Lethargy
-44,Creature,Common,Elf
+==================,DECK,4845
+0,Creature,Light Knight Goblin
+1,Spell,Frenzy
+2,Creature,Ghoul
+3,Spell,Miracle Sorrow
+4,Creature,Ghoul
+5,Artifact,Dire Miracle Belt
+6,Creature,Magi
+7,Creature,Wolf
+8,Artifact,Cataclysmic Amulet
+9,Enchantment,Potent Forged Strength
+10,Creature,Frozen Thief Goblin
+11,Enchantment,Haste
+12,Enchantment,Deathgrip
+13,Spell,Infuriate
+14,Creature,Fairy
+15,Creature,Berserker
+16,Spell,Rage
+17,Creature,Warlock
+18,Creature,Aura Rogue Kraken
+19,Spell,Forged Invisibility
+20,Enchantment,Irate Dark Alacrity
+21,Spell,Ice
+22,Spell,Instant Corpse Frenzy
+23,Creature,Light Fighter Orc
+24,Creature,Magi
+25,Enchantment,Alacrity
+26,Spell,Tempest
+27,Enchantment,Mighty Apocalypse Invert
+28,Artifact,Tome
+29,Enchantment,Instant Grim Drain
+30,Spell,Burst
+31,Creature,Light Monk Ogre of the Eastern Skies
+32,Enchantment,Agony
+33,Spell,Gravitation
+34,Creature,Spider
+35,Enchantment,Firebreath
+36,Creature,Death Rogue Goblin
+37,Creature,Warlock
+38,Creature,Fairy
+39,Creature,Troll
+40,Creature,Berserker
+41,Creature,Death Monk Kraken
+42,Enchantment,Urgent Lunar Flight
+43,Enchantment,Age
+44,Creature,Warlock

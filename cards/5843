@@ -1,46 +1,46 @@
-==================,DECK,5843,Light
-0,Enchantment,Common,Agony
-1,Enchantment,Common,Invert
-2,Creature,Rare,Death Rogue Fairy
-3,Spell,Common,Invisibility
-4,Creature,Common,Goblin
-5,Creature,Legendary,Earth Assassin Oni of the Eastern Skies
-6,Creature,Common,Warlock
-7,Creature,Legendary,Aura Undead Oni of the Polar Woods
-8,Spell,Common,Lightning
-9,Enchantment,Rare,Grim Strength
-10,Enchantment,Common,Age
-11,Creature,Rare,Earth Lord Griffin
-12,Spell,Common,Invisibility
-13,Creature,Rare,Snow King Griffin
-14,Spell,Common,Assault
-15,Spell,Common,Vortex
-16,Creature,Common,Goblin
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Lethargy
-19,Spell,Common,Rage
-20,Creature,Common,Orc
-21,Artifact,Rare,Solar Gloves
-22,Creature,Common,Spider
-23,Artifact,Common,Ghost Wand
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Orc
-26,Creature,Common,Goblin
-27,Spell,Common,Maelstrom
-28,Enchantment,Common,Shrink
-29,Artifact,Common,Staff
-30,Creature,Common,Orc
-31,Artifact,Common,Scythe
-32,Spell,Rare,Life Burst
-33,Creature,Common,Spider
-34,Artifact,Legendary,Urgent Gloves
-35,Creature,Common,Warlock
-36,Creature,Common,Dwarf
-37,Spell,Common,Vortex
-38,Enchantment,Mythic,Urgent Deathgrip
-39,Creature,Common,Ghoul
-40,Creature,Common,Paladin
-41,Creature,Common,Dwarf
-42,Spell,Common,Reanimate
-43,Enchantment,Common,Blight
-44,Creature,Rare,Death Queen Fairy
+==================,DECK,5843
+0,Enchantment,Shrink
+1,Enchantment,Flight
+2,Creature,Death Rogue Kraken
+3,Spell,Gale
+4,Creature,Skin-Walker
+5,Creature,Earth Assassin Oni of the Eastern Skies
+6,Creature,Berserker
+7,Creature,Aura Undead Oni of the Polar Woods
+8,Spell,Rage
+9,Enchantment,Nimble Blight
+10,Enchantment,Lethargy
+11,Creature,Earth Lord Griffin
+12,Spell,Invisibility
+13,Creature,Snow King Griffin
+14,Spell,Stricken
+15,Spell,Burst
+16,Creature,Skin-Walker
+17,Creature,Magi
+18,Enchantment,Blight
+19,Spell,Ice
+20,Creature,Spider
+21,Artifact,Forged Gloves
+22,Creature,Paladin
+23,Artifact,Ghost Wand
+24,Enchantment,Haste
+25,Creature,Spider
+26,Creature,Skin-Walker
+27,Spell,Frenzy
+28,Enchantment,Deathgrip
+29,Artifact,Staff
+30,Creature,Spider
+31,Artifact,Scythe
+32,Spell,Oblivion Burst
+33,Creature,Paladin
+34,Artifact,Potent Corpse Gloves
+35,Creature,Berserker
+36,Creature,Magi
+37,Spell,Assault
+38,Enchantment,Zealous Shimmering Deathgrip
+39,Creature,Ghoul
+40,Creature,Troll
+41,Creature,Magi
+42,Spell,Rage
+43,Enchantment,Alacrity
+44,Creature,Death Queen Kraken

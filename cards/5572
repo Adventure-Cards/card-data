@@ -1,46 +1,46 @@
-==================,DECK,5572,Light
-0,Creature,Common,Goblin
-1,Artifact,Legendary,Extreme Crown
-2,Spell,Common,Maelstrom
-3,Spell,Common,Assault
-4,Artifact,Rare,Lunar Scepter
-5,Creature,Common,Spider
-6,Creature,Rare,Aura Rogue Skin-Walker
-7,Enchantment,Mythic,Instant Shrink
-8,Creature,Common,Warlock
-9,Enchantment,Common,Lethargy
-10,Creature,Legendary,Dark Thief Orge of the Haven
-11,Creature,Mythic,Dark Time Dragon of Illusion
-12,Enchantment,Common,Shield
-13,Spell,Legendary,Potent Hypnosis
-14,Creature,Mythic,Aura Undead Dragon of the Light
-15,Creature,Common,Warlock
-16,Creature,Common,Dwarf
-17,Creature,Rare,Earth Undead Skin-Walker
-18,Enchantment,Common,Drain
-19,Creature,Common,Spider
-20,Spell,Rare,Solar Frost
-21,Creature,Rare,Earth Merchant Skin-Walker
-22,Spell,Common,Reanimate
-23,Enchantment,Common,Shrink
-24,Artifact,Common,Divine Robe
-25,Creature,Common,Ghoul
-26,Creature,Common,Eagle
-27,Creature,Rare,Earth Assassin Minotaur
-28,Spell,Common,Frost
-29,Creature,Common,Orc
-30,Creature,Common,Dwarf
-31,Creature,Legendary,Death Lord Kraken of the Border
-32,Creature,Common,Wolf
-33,Creature,Common,Ghoul
-34,Artifact,Common,Ghost Wand
-35,Artifact,Common,Gloves
-36,Enchantment,Common,Strength
-37,Creature,Common,Elf
-38,Creature,Common,Warlock
-39,Artifact,Common,Helmet
-40,Spell,Common,Stun
-41,Creature,Common,Paladin
-42,Creature,Common,Wolf
-43,Creature,Legendary,Snow Lord Cyclops of the Mountains
-44,Spell,Common,Lightning
+==================,DECK,5572
+0,Creature,Skin-Walker
+1,Artifact,Irate Lunar Crown
+2,Spell,Fireball
+3,Spell,Frenzy
+4,Artifact,Sorrow Scepter
+5,Creature,Paladin
+6,Creature,Aura Rogue Orc
+7,Enchantment,Clever Necro Lethargy
+8,Creature,Berserker
+9,Enchantment,Agony
+10,Creature,Dark Thief Elf of the Haven
+11,Creature,Dark Time Dragon of Illusion
+12,Enchantment,Alacrity
+13,Spell,Potent Nimble Stricken
+14,Creature,Aura Undead Dragon of the Light
+15,Creature,Berserker
+16,Creature,Magi
+17,Creature,Earth Undead Orc
+18,Enchantment,Shrink
+19,Creature,Paladin
+20,Spell,Necro Burn
+21,Creature,Earth Merchant Orc
+22,Spell,Tempest
+23,Enchantment,Alacrity
+24,Artifact,Divine Robe
+25,Creature,Ghoul
+26,Creature,Eagle
+27,Creature,Earth Assassin Cyclops
+28,Spell,Frenzy
+29,Creature,Spider
+30,Creature,Magi
+31,Creature,Death Lord Ogre of the Border
+32,Creature,Wolf
+33,Creature,Ghoul
+34,Artifact,Ghost Wand
+35,Artifact,Gloves
+36,Enchantment,Shade
+37,Creature,Warlock
+38,Creature,Berserker
+39,Artifact,Helmet
+40,Spell,Gravitation
+41,Creature,Troll
+42,Creature,Wolf
+43,Creature,Snow Lord Giant of the Mountains
+44,Spell,Fire

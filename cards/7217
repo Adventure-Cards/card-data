@@ -1,46 +1,46 @@
-==================,DECK,7217,Light
-0,Enchantment,Common,Flight
-1,Creature,Common,Ghoul
-2,Creature,Common,Warlock
-3,Artifact,Rare,Frigid Pendant
-4,Enchantment,Common,Strength
-5,Spell,Common,Wall
-6,Enchantment,Common,Invert
-7,Spell,Common,Ice
-8,Creature,Rare,Death Assassin Minotaur
-9,Spell,Legendary,Mighty Wall
-10,Creature,Common,Ghoul
-11,Creature,Common,Spider
-12,Enchantment,Common,Shrink
-13,Artifact,Common,Crown
-14,Creature,Common,Wolf
-15,Creature,Common,Wolf
-16,Artifact,Common,Bracers
-17,Spell,Legendary,Mighty Stricken
-18,Spell,Common,Pandemonium
-19,Enchantment,Legendary,Clever Shield
-20,Enchantment,Mythic,Instant Lethargy
-21,Enchantment,Common,Haste
-22,Spell,Legendary,Instant Stricken
-23,Creature,Common,Spider
-24,Creature,Rare,Frozen Merchant Skin-Walker
-25,Creature,Common,Ghoul
-26,Creature,Legendary,Snow Queen Oni of the Eternal Land
-27,Creature,Common,Warlock
-28,Enchantment,Common,Blight
-29,Creature,Common,Warlock
-30,Creature,Common,Warlock
-31,Creature,Common,Spider
-32,Creature,Legendary,Frozen Assassin Giant of the Arctic Blizzards
-33,Spell,Common,Hypnosis
-34,Spell,Common,Freeze
-35,Enchantment,Rare,Lunar Blight
-36,Creature,Common,Wolf
-37,Enchantment,Common,Flight
-38,Spell,Legendary,Angry Gravitation
-39,Enchantment,Rare,Gloom Shade
-40,Spell,Common,Sorrow
-41,Creature,Common,Goblin
-42,Creature,Rare,Dark Assassin Minotaur
-43,Creature,Mythic,Earth Chaos Demon of the Shadows
-44,Spell,Rare,Necro Pandemonium
+==================,DECK,7217
+0,Enchantment,Age
+1,Creature,Ghoul
+2,Creature,Berserker
+3,Artifact,Victory Pendant
+4,Enchantment,Shrink
+5,Spell,Torment
+6,Enchantment,Age
+7,Spell,Torment
+8,Creature,Death Assassin Cyclops
+9,Spell,Ardent Lunar Reanimate
+10,Creature,Ghoul
+11,Creature,Paladin
+12,Enchantment,Flight
+13,Artifact,Crown
+14,Creature,Wolf
+15,Creature,Wolf
+16,Artifact,Bracers
+17,Spell,Potent Gloom Infuriate
+18,Spell,Wall
+19,Enchantment,Instant Victory Drain
+20,Enchantment,Irate Hateful Deathgrip
+21,Enchantment,Haste
+22,Spell,Clever Nature Burst
+23,Creature,Paladin
+24,Creature,Frozen Merchant Orc
+25,Creature,Ghoul
+26,Creature,Snow Queen Oni of the Eternal Land
+27,Creature,Berserker
+28,Enchantment,Shade
+29,Creature,Berserker
+30,Creature,Berserker
+31,Creature,Paladin
+32,Creature,Frozen Assassin Dwarf of the Arctic Blizzards
+33,Spell,Wall
+34,Spell,Stricken
+35,Enchantment,Cataclysmic Shrink
+36,Creature,Wolf
+37,Enchantment,Firebreath
+38,Spell,Irate Chimeric Gravitation
+39,Enchantment,Chimeric Shield
+40,Spell,Fireball
+41,Creature,Skin-Walker
+42,Creature,Dark Assassin Cyclops
+43,Creature,Earth Chaos Demon of the Shadows
+44,Spell,Corpse Burst

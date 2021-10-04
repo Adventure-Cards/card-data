@@ -1,46 +1,46 @@
-==================,DECK,5131,Medium
-0,Enchantment,Common,Invert
-1,Spell,Rare,Miracle Maelstrom
-2,Spell,Common,Lightning
-3,Artifact,Rare,Apocalypse Belt
-4,Creature,Common,Magi
-5,Creature,Common,Spider
-6,Creature,Common,Eagle
-7,Creature,Rare,Earth Undead Minotaur
-8,Enchantment,Mythic,Clever Strength
-9,Artifact,Rare,Dark Gauntlet
-10,Creature,Common,Spider
-11,Spell,Mythic,Clever Invisibility
-12,Enchantment,Common,Flight
-13,Creature,Legendary,Dark Assassin Cyclops of the Magical Forest
-14,Spell,Common,Infuriate
-15,Spell,Rare,Lunar Sorrow
-16,Enchantment,Legendary,Extreme Blight
-17,Creature,Common,Elf
-18,Creature,Rare,Earth Knight Fairy
-19,Creature,Common,Spider
-20,Creature,Rare,Dark Monk Fairy
-21,Creature,Common,Eagle
-22,Artifact,Rare,Apocalypse Gauntlet
-23,Enchantment,Common,Strength
-24,Enchantment,Common,Invert
-25,Creature,Rare,Light Lord Skin-Walker
-26,Creature,Common,Magi
-27,Creature,Common,Spider
-28,Creature,Common,Eagle
-29,Spell,Rare,Hateful Ice
-30,Creature,Common,Spider
-31,Creature,Common,Goblin
-32,Creature,Rare,Death Warrior Hydra
-33,Artifact,Common,Scythe
-34,Spell,Legendary,Potent Rage
-35,Creature,Legendary,Snow Queen Oni of the Golden Palace
-36,Enchantment,Mythic,Urgent Shade
-37,Spell,Common,Torment
-38,Creature,Rare,Aura Lord Minotaur
-39,Artifact,Rare,Gloom Crown
-40,Enchantment,Common,Haste
-41,Creature,Rare,Frozen Thief Berserker
-42,Artifact,Legendary,Urgent Scythe
-43,Creature,Common,Warlock
-44,Artifact,Common,Scythe
+==================,DECK,5131
+0,Enchantment,Alacrity
+1,Spell,Victory Fire
+2,Spell,Ice
+3,Artifact,Life Belt
+4,Creature,Fairy
+5,Creature,Paladin
+6,Creature,Eagle
+7,Creature,Earth Undead Cyclops
+8,Enchantment,Ardent Nimble Haste
+9,Artifact,Dark Gauntlet
+10,Creature,Paladin
+11,Spell,Ardent Nimble Freeze
+12,Enchantment,Shield
+13,Creature,Dark Assassin Giant of the Magical Forest
+14,Spell,Ice
+15,Spell,Sorrow Burn
+16,Enchantment,Potent Cataclysmic Shrink
+17,Creature,Warlock
+18,Creature,Earth Knight Kraken
+19,Creature,Paladin
+20,Creature,Dark Monk Kraken
+21,Creature,Eagle
+22,Artifact,Oblivion Gauntlet
+23,Enchantment,Drain
+24,Enchantment,Flight
+25,Creature,Light Lord Orc
+26,Creature,Fairy
+27,Creature,Paladin
+28,Creature,Eagle
+29,Spell,Lunar Lightning
+30,Creature,Paladin
+31,Creature,Skin-Walker
+32,Creature,Death Warrior Hydra
+33,Artifact,Scythe
+34,Spell,Instant Apocalypse Tempest
+35,Creature,Snow Queen Oni of the Golden Palace
+36,Enchantment,Urgent Necro Agony
+37,Spell,Revive
+38,Creature,Aura Lord Cyclops
+39,Artifact,Chimeric Crown
+40,Enchantment,Strength
+41,Creature,Frozen Thief Goblin
+42,Artifact,Empyrean Shimmering Scythe
+43,Creature,Berserker
+44,Artifact,Scythe

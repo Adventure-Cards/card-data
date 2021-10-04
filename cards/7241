@@ -1,46 +1,46 @@
-==================,DECK,7241,Medium
-0,Creature,Mythic,Aura Time Dragon of the Light
-1,Artifact,Common,Greaves
-2,Spell,Common,Gale
-3,Enchantment,Rare,Hateful Shrink
-4,Creature,Common,Elf
-5,Creature,Common,Warlock
-6,Spell,Rare,Lunar Pandemonium
-7,Creature,Common,Eagle
-8,Creature,Common,Ghoul
-9,Enchantment,Common,Strength
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Dwarf
-12,Creature,Legendary,Death Rogue Cyclops of the Mountains
-13,Creature,Rare,Aura Undead Hydra
-14,Creature,Rare,Earth Knight Skin-Walker
-15,Artifact,Rare,Oblivion Gloves
-16,Creature,Legendary,Frozen Undead Oni of the Golden Palace
-17,Creature,Common,Spider
-18,Creature,Rare,Death Queen Skin-Walker
-19,Enchantment,Common,Age
-20,Creature,Legendary,Frozen Merchant Cyclops of the Arctic Blizzards
-21,Creature,Rare,Earth Undead Hydra
-22,Enchantment,Rare,Frigid Shield
-23,Creature,Legendary,Frozen Lord Giant of the West
-24,Creature,Common,Warlock
-25,Creature,Rare,Snow King Fairy
-26,Creature,Rare,Snow Rogue Hydra
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Lethargy
-29,Creature,Rare,Dark Rogue Berserker
-30,Creature,Common,Orc
-31,Enchantment,Common,Strength
-32,Enchantment,Rare,Grim Alacrity
-33,Creature,Common,Dwarf
-34,Spell,Rare,Corpse Revive
-35,Creature,Common,Warlock
-36,Artifact,Common,Ring
-37,Spell,Rare,Nimble Vortex
-38,Creature,Common,Orc
-39,Spell,Common,Frost
-40,Creature,Common,Spider
-41,Enchantment,Common,Shrink
-42,Spell,Common,Vortex
-43,Enchantment,Common,Age
-44,Spell,Rare,Corpse Gravitation
+==================,DECK,7241
+0,Creature,Aura Time Dragon of the Light
+1,Artifact,Greaves
+2,Spell,Lightning
+3,Enchantment,Chimeric Alacrity
+4,Creature,Warlock
+5,Creature,Berserker
+6,Spell,Gloom Stun
+7,Creature,Eagle
+8,Creature,Ghoul
+9,Enchantment,Flight
+10,Enchantment,Shrink
+11,Creature,Magi
+12,Creature,Death Rogue Giant of the Mountains
+13,Creature,Aura Undead Hydra
+14,Creature,Earth Knight Orc
+15,Artifact,Frigid Gloves
+16,Creature,Frozen Undead Oni of the Golden Palace
+17,Creature,Paladin
+18,Creature,Death Queen Orc
+19,Enchantment,Invert
+20,Creature,Frozen Merchant Giant of the Arctic Blizzards
+21,Creature,Earth Undead Hydra
+22,Enchantment,Victory Haste
+23,Creature,Frozen Lord Dwarf of the West
+24,Creature,Berserker
+25,Creature,Snow King Kraken
+26,Creature,Snow Rogue Hydra
+27,Creature,Magi
+28,Enchantment,Shrink
+29,Creature,Dark Rogue Goblin
+30,Creature,Spider
+31,Enchantment,Strength
+32,Enchantment,Apocalypse Blight
+33,Creature,Magi
+34,Spell,Hateful Fireball
+35,Creature,Berserker
+36,Artifact,Ring
+37,Spell,Corpse Heal
+38,Creature,Spider
+39,Spell,Sorrow
+40,Creature,Paladin
+41,Enchantment,Shade
+42,Spell,Lightning
+43,Enchantment,Lethargy
+44,Spell,Solar Stun

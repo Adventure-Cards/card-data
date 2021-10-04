@@ -1,46 +1,46 @@
-==================,DECK,4857,Light
-0,Creature,Common,Orc
-1,Artifact,Rare,Lunar Gloves
-2,Creature,Legendary,Frozen Fighter Orge of the Border
-3,Enchantment,Rare,Gloom Agony
-4,Creature,Common,Wolf
-5,Creature,Rare,Frozen Merchant Fairy
-6,Enchantment,Common,Strength
-7,Creature,Rare,Death King Berserker
-8,Creature,Legendary,Earth Warrior Giant of the Border
-9,Spell,Common,Stun
-10,Creature,Rare,Snow Undead Minotaur
-11,Creature,Common,Magi
-12,Creature,Common,Dwarf
-13,Spell,Rare,Dark Vortex
-14,Spell,Common,Gravitation
-15,Enchantment,Rare,Shimmering Age
-16,Creature,Common,Ghoul
-17,Creature,Common,Paladin
-18,Creature,Common,Wolf
-19,Creature,Common,Orc
-20,Spell,Common,Revive
-21,Creature,Rare,Death Merchant Fairy
-22,Spell,Common,Frenzy
-23,Creature,Rare,Dark Priest Skin-Walker
-24,Spell,Rare,Hateful Sorrow
-25,Enchantment,Common,Flight
-26,Spell,Rare,Frigid Revive
-27,Enchantment,Common,Shade
-28,Creature,Common,Wolf
-29,Enchantment,Common,Shrink
-30,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-31,Spell,Common,Wall
-32,Artifact,Common,Amulet
-33,Enchantment,Common,Haste
-34,Creature,Common,Dwarf
-35,Spell,Legendary,Intense Freeze
-36,Spell,Common,Stricken
-37,Creature,Common,Warlock
-38,Spell,Rare,Life Burst
-39,Artifact,Common,Staff
-40,Enchantment,Legendary,Intense Shield
-41,Creature,Rare,Light Lord Griffin
-42,Spell,Common,Wall
-43,Creature,Common,Magi
-44,Enchantment,Common,Strength
+==================,DECK,4857
+0,Creature,Spider
+1,Artifact,Lunar Gloves
+2,Creature,Frozen Fighter Elf of the Border
+3,Enchantment,Miracle Alacrity
+4,Creature,Wolf
+5,Creature,Frozen Merchant Kraken
+6,Enchantment,Shade
+7,Creature,Death King Goblin
+8,Creature,Earth Warrior Dwarf of the Border
+9,Spell,Ice
+10,Creature,Snow Undead Cyclops
+11,Creature,Fairy
+12,Creature,Magi
+13,Spell,Cataclysmic Gravitation
+14,Spell,Burst
+15,Enchantment,Nature Strength
+16,Creature,Ghoul
+17,Creature,Troll
+18,Creature,Wolf
+19,Creature,Spider
+20,Spell,Heal
+21,Creature,Death Merchant Kraken
+22,Spell,Burn
+23,Creature,Dark Priest Orc
+24,Spell,Miracle Fire
+25,Enchantment,Flight
+26,Spell,Apocalypse Freeze
+27,Enchantment,Invert
+28,Creature,Wolf
+29,Enchantment,Shade
+30,Creature,Earth Nameless Phoenix of the Shadows
+31,Spell,Ice
+32,Artifact,Amulet
+33,Enchantment,Lethargy
+34,Creature,Magi
+35,Spell,Dire Corpse Assault
+36,Spell,Fireball
+37,Creature,Berserker
+38,Spell,Nimble Rage
+39,Artifact,Staff
+40,Enchantment,Urgent Nature Agony
+41,Creature,Light Lord Griffin
+42,Spell,Lightning
+43,Creature,Fairy
+44,Enchantment,Strength

@@ -1,46 +1,46 @@
-==================,DECK,6841,Light
-0,Spell,Common,Hypnosis
-1,Creature,Common,Magi
-2,Spell,Common,Revive
-3,Creature,Mythic,Light Grand Wizard of the Sky
-4,Enchantment,Common,Strength
-5,Spell,Common,Frenzy
-6,Spell,Common,Invisibility
-7,Creature,Common,Eagle
-8,Creature,Legendary,Snow Undead Kraken of the Black Stone
-9,Spell,Common,Frost
-10,Spell,Rare,Apocalypse Stun
-11,Spell,Common,Reanimate
-12,Enchantment,Common,Shrink
-13,Spell,Common,Assault
-14,Artifact,Legendary,Angry Potion
-15,Creature,Mythic,Snow Chaos Wizard of Hate
-16,Artifact,Rare,Shimmering Bracers
-17,Creature,Legendary,Death Fighter Oni of the Eastern Skies
-18,Creature,Common,Wolf
-19,Creature,Rare,Light Lord Berserker
-20,Enchantment,Rare,Lunar Haste
-21,Enchantment,Common,Alacrity
-22,Spell,Rare,Grim Gravitation
-23,Spell,Rare,Grim Frost
-24,Creature,Common,Elf
-25,Spell,Rare,Gloom Invisibility
-26,Spell,Legendary,Dire Infuriate
-27,Artifact,Common,Ghost Wand
-28,Creature,Rare,Light Thief Griffin
-29,Artifact,Common,Tome
-30,Creature,Legendary,Dark Lord Giant of the Eastern Skies
-31,Enchantment,Legendary,Angry Strength
-32,Enchantment,Common,Alacrity
-33,Enchantment,Common,Invert
-34,Artifact,Common,Staff
-35,Creature,Common,Ghoul
-36,Creature,Common,Magi
-37,Enchantment,Rare,Oblivion Lethargy
-38,Creature,Common,Orc
-39,Creature,Legendary,Death Monk Cyclops of the Low Hills
-40,Enchantment,Mythic,Urgent Shield
-41,Spell,Rare,Miracle Burn
-42,Creature,Common,Eagle
-43,Creature,Common,Spider
-44,Enchantment,Common,Shield
+==================,DECK,6841
+0,Spell,Pandemonium
+1,Creature,Fairy
+2,Spell,Stun
+3,Creature,Light Grand Wizard of the Sky
+4,Enchantment,Deathgrip
+5,Spell,Tempest
+6,Spell,Ice
+7,Creature,Eagle
+8,Creature,Snow Undead Ogre of the Black Stone
+9,Spell,Ice
+10,Spell,Life Stun
+11,Spell,Revive
+12,Enchantment,Shrink
+13,Spell,Rage
+14,Artifact,Clever Chimeric Potion
+15,Creature,Snow Chaos Wizard of Hate
+16,Artifact,Forged Bracers
+17,Creature,Death Fighter Oni of the Eastern Skies
+18,Creature,Wolf
+19,Creature,Light Lord Goblin
+20,Enchantment,Miracle Shrink
+21,Enchantment,Strength
+22,Spell,Frigid Fire
+23,Spell,Life Burn
+24,Creature,Warlock
+25,Spell,Chimeric Gravitation
+26,Spell,Mighty Nimble Gale
+27,Artifact,Ghost Wand
+28,Creature,Light Thief Griffin
+29,Artifact,Tome
+30,Creature,Dark Lord Dwarf of the Eastern Skies
+31,Enchantment,Dire Cataclysmic Firebreath
+32,Enchantment,Shrink
+33,Enchantment,Strength
+34,Artifact,Staff
+35,Creature,Ghoul
+36,Creature,Fairy
+37,Enchantment,Grim Blight
+38,Creature,Spider
+39,Creature,Death Monk Giant of the Low Hills
+40,Enchantment,Irate Nature Deathgrip
+41,Spell,Frigid Gale
+42,Creature,Eagle
+43,Creature,Paladin
+44,Enchantment,Shade

@@ -1,46 +1,46 @@
-==================,DECK,5130,Light
-0,Spell,Common,Fury
-1,Artifact,Common,Gloves
-2,Creature,Common,Elf
-3,Enchantment,Common,Flight
-4,Enchantment,Common,Flight
-5,Artifact,Rare,Solar Gloves
-6,Spell,Common,Reanimate
-7,Creature,Rare,Frozen Knight Hydra
-8,Artifact,Legendary,Angry Bracers
-9,Enchantment,Common,Shade
-10,Enchantment,Legendary,Extreme Lethargy
-11,Creature,Rare,Snow Fighter Berserker
-12,Spell,Legendary,Potent Vortex
-13,Spell,Common,Heal
-14,Spell,Common,Burn
-15,Creature,Common,Eagle
-16,Enchantment,Common,Haste
-17,Creature,Common,Ghoul
-18,Creature,Common,Dwarf
-19,Creature,Common,Ghoul
-20,Artifact,Common,Divine Robe
-21,Spell,Common,Stun
-22,Creature,Legendary,Light Warrior Giant of the Golden Palace
-23,Artifact,Rare,Nature Scythe
-24,Creature,Mythic,Light Grand Demon of the Sky
-25,Creature,Rare,Dark Priest Hydra
-26,Creature,Common,Ghoul
-27,Creature,Common,Magi
-28,Enchantment,Common,Shade
-29,Spell,Rare,Lunar Hypnosis
-30,Enchantment,Rare,Apocalypse Deathgrip
-31,Enchantment,Common,Strength
-32,Creature,Rare,Light Monk Griffin
-33,Spell,Rare,Hateful Pandemonium
-34,Artifact,Common,Helm
-35,Spell,Common,Gravitation
-36,Creature,Common,Goblin
-37,Creature,Rare,Earth Queen Minotaur
-38,Creature,Legendary,Dark Thief Cyclops of the Bright Mountains
-39,Enchantment,Common,Agony
-40,Enchantment,Common,Drain
-41,Creature,Common,Eagle
-42,Spell,Common,Infuriate
-43,Creature,Common,Wolf
-44,Creature,Legendary,Snow Thief Oni of the Frozen Castle
+==================,DECK,5130
+0,Spell,Reanimate
+1,Artifact,Gloves
+2,Creature,Warlock
+3,Enchantment,Flight
+4,Enchantment,Age
+5,Artifact,Nature Gloves
+6,Spell,Heal
+7,Creature,Frozen Knight Hydra
+8,Artifact,Zealous Chimeric Bracers
+9,Enchantment,Strength
+10,Enchantment,Urgent Lunar Flight
+11,Creature,Snow Fighter Goblin
+12,Spell,Instant Apocalypse Revive
+13,Spell,Stricken
+14,Spell,Maelstrom
+15,Creature,Eagle
+16,Enchantment,Shade
+17,Creature,Ghoul
+18,Creature,Magi
+19,Creature,Ghoul
+20,Artifact,Divine Robe
+21,Spell,Wall
+22,Creature,Light Warrior Dwarf of the Golden Palace
+23,Artifact,Solar Scythe
+24,Creature,Light Grand Demon of the Sky
+25,Creature,Dark Priest Hydra
+26,Creature,Ghoul
+27,Creature,Fairy
+28,Enchantment,Shade
+29,Spell,Lunar Invisibility
+30,Enchantment,Oblivion Haste
+31,Enchantment,Alacrity
+32,Creature,Light Monk Griffin
+33,Spell,Cataclysmic Pandemonium
+34,Artifact,Helm
+35,Spell,Heal
+36,Creature,Skin-Walker
+37,Creature,Earth Queen Cyclops
+38,Creature,Dark Thief Giant of the Bright Mountains
+39,Enchantment,Firebreath
+40,Enchantment,Shrink
+41,Creature,Eagle
+42,Spell,Tempest
+43,Creature,Wolf
+44,Creature,Snow Thief Oni of the Frozen Castle

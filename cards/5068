@@ -1,46 +1,46 @@
-==================,DECK,5068,Strong
-0,Creature,Common,Warlock
-1,Creature,Common,Goblin
-2,Spell,Rare,Miracle Hypnosis
-3,Creature,Common,Ghoul
-4,Creature,Common,Dwarf
-5,Creature,Common,Orc
-6,Creature,Mythic,Dark Undead Phoenix of Illusion
-7,Creature,Common,Spider
-8,Creature,Common,Orc
-9,Creature,Common,Warlock
-10,Creature,Legendary,Death Chaos Demon of the Dead
-11,Enchantment,Rare,Nimble Shade
-12,Artifact,Common,Helm
-13,Creature,Legendary,Snow Nameless Dragon of Hate
-14,Creature,Common,Ghoul
-15,Creature,Common,Spider
-16,Spell,Rare,Hateful Ice
-17,Spell,Legendary,Mighty Wall
-18,Creature,Common,Ghoul
-19,Artifact,Mythic,Extreme Potion
-20,Creature,Legendary,Frozen Chaos Demon of the Void
-21,Creature,Common,Ghoul
-22,Creature,Common,Eagle
-23,Creature,Common,Eagle
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Eagle
-26,Spell,Common,Stricken
-27,Enchantment,Common,Shade
-28,Enchantment,Legendary,Urgent Invert
-29,Enchantment,Rare,Forged Shade
-30,Spell,Common,Frost
-31,Creature,Legendary,Snow Queen Kraken of the Golden Palace
-32,Creature,Rare,Frozen Thief Griffin
-33,Artifact,Mythic,Intense Pendant
-34,Artifact,Rare,Necro Bow
-35,Spell,Common,Infuriate
-36,Spell,Rare,Nimble Assault
-37,Artifact,Mythic,Intense Bow
-38,Creature,Rare,Frozen Assassin Hydra
-39,Spell,Common,Burst
-40,Spell,Common,Pandemonium
-41,Creature,Legendary,Death Merchant Oni of the Low Hills
-42,Spell,Common,Rage
-43,Enchantment,Rare,Hateful Blight
-44,Creature,Legendary,Death Nameless Phoenix of the Dead
+==================,DECK,5068
+0,Creature,Berserker
+1,Creature,Skin-Walker
+2,Spell,Apocalypse Fury
+3,Creature,Ghoul
+4,Creature,Magi
+5,Creature,Spider
+6,Creature,Dark Undead Phoenix of Illusion
+7,Creature,Paladin
+8,Creature,Spider
+9,Creature,Berserker
+10,Creature,Death Chaos Demon of the Dead
+11,Enchantment,Necro Deathgrip
+12,Artifact,Helm
+13,Creature,Snow Nameless Dragon of Hate
+14,Creature,Ghoul
+15,Creature,Paladin
+16,Spell,Gloom Gale
+17,Spell,Ardent Dark Infuriate
+18,Creature,Ghoul
+19,Artifact,Ardent Lunar Potion
+20,Creature,Frozen Chaos Demon of the Void
+21,Creature,Ghoul
+22,Creature,Eagle
+23,Creature,Eagle
+24,Enchantment,Invert
+25,Creature,Eagle
+26,Spell,Tempest
+27,Enchantment,Shade
+28,Enchantment,Dire Shimmering Age
+29,Enchantment,Chimeric Alacrity
+30,Spell,Fireball
+31,Creature,Snow Queen Ogre of the Golden Palace
+32,Creature,Frozen Thief Griffin
+33,Artifact,Zealous Necro Pendant
+34,Artifact,Solar Bow
+35,Spell,Rage
+36,Spell,Corpse Frenzy
+37,Artifact,Urgent Hateful Bow
+38,Creature,Frozen Assassin Hydra
+39,Spell,Stun
+40,Spell,Frost
+41,Creature,Death Merchant Oni of the Low Hills
+42,Spell,Maelstrom
+43,Enchantment,Cataclysmic Shield
+44,Creature,Death Nameless Phoenix of the Dead

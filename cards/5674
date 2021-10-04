@@ -1,46 +1,46 @@
-==================,DECK,5674,Strong
-0,Creature,Common,Eagle
-1,Creature,Common,Spider
-2,Creature,Rare,Frozen Assassin Berserker
-3,Spell,Legendary,Instant Rage
-4,Creature,Legendary,Frozen Queen Giant of the Plains
-5,Creature,Common,Spider
-6,Creature,Common,Ghoul
-7,Creature,Mythic,Light Grand Wizard of the Sky
-8,Artifact,Rare,Nimble Cloak
-9,Creature,Rare,Frozen Lord Griffin
-10,Spell,Common,Invisibility
-11,Creature,Rare,Dark Merchant Hydra
-12,Enchantment,Legendary,Angry Deathgrip
-13,Spell,Common,Infuriate
-14,Creature,Rare,Earth Undead Griffin
-15,Creature,Common,Warlock
-16,Spell,Common,Stun
-17,Enchantment,Common,Shield
-18,Creature,Mythic,Earth Chaos Wizard of the Shadows
-19,Spell,Legendary,Clever Freeze
-20,Spell,Rare,Cataclysmic Stun
-21,Creature,Common,Paladin
-22,Creature,Common,Goblin
-23,Creature,Common,Spider
-24,Artifact,Common,Ghost Wand
-25,Artifact,Rare,Necro Pendant
-26,Artifact,Common,Bracers
-27,Artifact,Rare,Lunar Amulet
-28,Creature,Common,Warlock
-29,Artifact,Common,Sigil
-30,Spell,Common,Frenzy
-31,Creature,Common,Ghoul
-32,Creature,Common,Wolf
-33,Artifact,Common,Ring
-34,Enchantment,Legendary,Instant Shield
-35,Artifact,Common,Greaves
-36,Spell,Legendary,Angry Stun
-37,Creature,Common,Dwarf
-38,Spell,Rare,Nature Infuriate
-39,Enchantment,Common,Invert
-40,Enchantment,Mythic,Extreme Haste
-41,Enchantment,Common,Shield
-42,Enchantment,Mythic,Intense Strength
-43,Enchantment,Rare,Gloom Strength
-44,Enchantment,Mythic,Potent Agony
+==================,DECK,5674
+0,Creature,Eagle
+1,Creature,Paladin
+2,Creature,Frozen Assassin Goblin
+3,Spell,Instant Shimmering Torment
+4,Creature,Frozen Queen Dwarf of the Plains
+5,Creature,Paladin
+6,Creature,Ghoul
+7,Creature,Light Grand Wizard of the Sky
+8,Artifact,Shimmering Cloak
+9,Creature,Frozen Lord Griffin
+10,Spell,Fury
+11,Creature,Dark Merchant Hydra
+12,Enchantment,Clever Sorrow Shield
+13,Spell,Fireball
+14,Creature,Earth Undead Griffin
+15,Creature,Berserker
+16,Spell,Assault
+17,Enchantment,Alacrity
+18,Creature,Earth Chaos Wizard of the Shadows
+19,Spell,Urgent Oblivion Rage
+20,Spell,Miracle Revive
+21,Creature,Troll
+22,Creature,Skin-Walker
+23,Creature,Paladin
+24,Artifact,Ghost Wand
+25,Artifact,Necro Pendant
+26,Artifact,Bracers
+27,Artifact,Gloom Amulet
+28,Creature,Berserker
+29,Artifact,Sigil
+30,Spell,Fireball
+31,Creature,Ghoul
+32,Creature,Wolf
+33,Artifact,Ring
+34,Enchantment,Urgent Nature Agony
+35,Artifact,Greaves
+36,Spell,Zealous Lunar Assault
+37,Creature,Magi
+38,Spell,Hateful Gravitation
+39,Enchantment,Invert
+40,Enchantment,Potent Miracle Shrink
+41,Enchantment,Strength
+42,Enchantment,Instant Solar Strength
+43,Enchantment,Cataclysmic Firebreath
+44,Enchantment,Dire Life Shade

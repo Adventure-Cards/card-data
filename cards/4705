@@ -1,46 +1,46 @@
-==================,DECK,4705,Light
-0,Artifact,Common,Tome
-1,Creature,Common,Goblin
-2,Enchantment,Common,Alacrity
-3,Creature,Rare,Aura Monk Hydra
-4,Creature,Common,Ghoul
-5,Spell,Common,Reanimate
-6,Artifact,Common,Staff
-7,Creature,Common,Orc
-8,Creature,Rare,Death King Skin-Walker
-9,Enchantment,Common,Invert
-10,Enchantment,Common,Age
-11,Creature,Common,Paladin
-12,Spell,Common,Hypnosis
-13,Creature,Common,Ghoul
-14,Artifact,Common,Sigil
-15,Creature,Common,Ghoul
-16,Enchantment,Common,Deathgrip
-17,Creature,Rare,Light Merchant Skin-Walker
-18,Enchantment,Mythic,Intense Agony
-19,Creature,Common,Ghoul
-20,Creature,Common,Ghoul
-21,Creature,Common,Goblin
-22,Spell,Common,Wall
-23,Creature,Common,Ghoul
-24,Creature,Common,Paladin
-25,Creature,Rare,Frozen King Skin-Walker
-26,Enchantment,Legendary,Intense Shield
-27,Creature,Rare,Light Undead Fairy
-28,Creature,Common,Spider
-29,Creature,Common,Goblin
-30,Creature,Rare,Dark Knight Griffin
-31,Creature,Common,Magi
-32,Enchantment,Common,Blight
-33,Creature,Rare,Dark Fighter Griffin
-34,Creature,Rare,Frozen Queen Hydra
-35,Spell,Common,Hypnosis
-36,Enchantment,Common,Haste
-37,Artifact,Common,Scythe
-38,Creature,Common,Warlock
-39,Enchantment,Common,Shrink
-40,Creature,Common,Elf
-41,Spell,Common,Wall
-42,Enchantment,Mythic,Mighty Drain
-43,Enchantment,Mythic,Potent Lethargy
-44,Creature,Common,Paladin
+==================,DECK,4705
+0,Artifact,Tome
+1,Creature,Skin-Walker
+2,Enchantment,Alacrity
+3,Creature,Aura Monk Hydra
+4,Creature,Ghoul
+5,Spell,Hypnosis
+6,Artifact,Staff
+7,Creature,Spider
+8,Creature,Death King Orc
+9,Enchantment,Haste
+10,Enchantment,Firebreath
+11,Creature,Troll
+12,Spell,Revive
+13,Creature,Ghoul
+14,Artifact,Sigil
+15,Creature,Ghoul
+16,Enchantment,Lethargy
+17,Creature,Light Merchant Orc
+18,Enchantment,Ardent Corpse Lethargy
+19,Creature,Ghoul
+20,Creature,Ghoul
+21,Creature,Skin-Walker
+22,Spell,Burst
+23,Creature,Ghoul
+24,Creature,Troll
+25,Creature,Frozen King Orc
+26,Enchantment,Irate Nature Deathgrip
+27,Creature,Light Undead Kraken
+28,Creature,Paladin
+29,Creature,Skin-Walker
+30,Creature,Dark Knight Griffin
+31,Creature,Fairy
+32,Enchantment,Age
+33,Creature,Dark Fighter Griffin
+34,Creature,Frozen Queen Hydra
+35,Spell,Hypnosis
+36,Enchantment,Haste
+37,Artifact,Scythe
+38,Creature,Berserker
+39,Enchantment,Agony
+40,Creature,Warlock
+41,Spell,Fireball
+42,Enchantment,Mighty Dark Flight
+43,Enchantment,Irate Grim Blight
+44,Creature,Troll

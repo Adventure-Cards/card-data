@@ -1,46 +1,46 @@
-==================,DECK,4586,Medium
-0,Spell,Common,Frost
-1,Spell,Legendary,Dire Rage
-2,Creature,Rare,Aura Monk Skin-Walker
-3,Enchantment,Common,Deathgrip
-4,Creature,Rare,Frozen Assassin Fairy
-5,Creature,Rare,Light Rogue Skin-Walker
-6,Enchantment,Common,Shade
-7,Creature,Legendary,Snow Monk Giant of the Bright Mountains
-8,Spell,Rare,Dark Assault
-9,Artifact,Common,Sword
-10,Creature,Mythic,Frozen Nameless Phoenix of the Void
-11,Creature,Common,Warlock
-12,Creature,Legendary,Aura Monk Oni of the Plains
-13,Spell,Common,Pandemonium
-14,Creature,Common,Magi
-15,Creature,Mythic,Snow Nameless Dragon of Hate
-16,Artifact,Legendary,Urgent Helm
-17,Enchantment,Rare,Forged Shade
-18,Creature,Mythic,Aura Undead Dragon of the Light
-19,Creature,Rare,Aura Warrior Skin-Walker
-20,Enchantment,Common,Strength
-21,Creature,Common,Goblin
-22,Creature,Common,Eagle
-23,Creature,Common,Dwarf
-24,Artifact,Common,Staff
-25,Artifact,Rare,Oblivion Shield
-26,Enchantment,Rare,Frigid Invert
-27,Creature,Legendary,Death Queen Orge of the Black Stone
-28,Spell,Rare,Grim Rage
-29,Enchantment,Rare,Grim Shade
-30,Spell,Common,Stun
-31,Artifact,Common,Ghost Wand
-32,Artifact,Common,Tome
-33,Creature,Common,Wolf
-34,Enchantment,Common,Alacrity
-35,Spell,Common,Burn
-36,Spell,Common,Burst
-37,Creature,Common,Goblin
-38,Enchantment,Common,Drain
-39,Spell,Common,Pandemonium
-40,Creature,Rare,Light Merchant Minotaur
-41,Enchantment,Rare,Life Shrink
-42,Creature,Legendary,Aura Undead Giant of the Haven
-43,Spell,Rare,Grim Gravitation
-44,Enchantment,Rare,Gloom Shield
+==================,DECK,4586
+0,Spell,Invisibility
+1,Spell,Ardent Life Fire
+2,Creature,Aura Monk Orc
+3,Enchantment,Agony
+4,Creature,Frozen Assassin Kraken
+5,Creature,Light Rogue Orc
+6,Enchantment,Age
+7,Creature,Snow Monk Dwarf of the Bright Mountains
+8,Spell,Cataclysmic Frost
+9,Artifact,Sword
+10,Creature,Frozen Nameless Phoenix of the Void
+11,Creature,Berserker
+12,Creature,Aura Monk Oni of the Plains
+13,Spell,Invisibility
+14,Creature,Fairy
+15,Creature,Snow Nameless Dragon of Hate
+16,Artifact,Empyrean Hateful Helm
+17,Enchantment,Chimeric Shrink
+18,Creature,Aura Undead Dragon of the Light
+19,Creature,Aura Warrior Orc
+20,Enchantment,Drain
+21,Creature,Skin-Walker
+22,Creature,Eagle
+23,Creature,Magi
+24,Artifact,Staff
+25,Artifact,Grim Shield
+26,Enchantment,Oblivion Shade
+27,Creature,Death Queen Elf of the Black Stone
+28,Spell,Victory Frenzy
+29,Enchantment,Frigid Haste
+30,Spell,Sorrow
+31,Artifact,Ghost Wand
+32,Artifact,Tome
+33,Creature,Wolf
+34,Enchantment,Invert
+35,Spell,Vortex
+36,Spell,Gale
+37,Creature,Skin-Walker
+38,Enchantment,Shade
+39,Spell,Stricken
+40,Creature,Light Merchant Cyclops
+41,Enchantment,Frigid Invert
+42,Creature,Aura Undead Dwarf of the Haven
+43,Spell,Frigid Vortex
+44,Enchantment,Gloom Alacrity

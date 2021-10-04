@@ -1,46 +1,46 @@
-==================,DECK,5325,Medium
-0,Creature,Legendary,Earth Thief Cyclops of the Swamp
-1,Creature,Rare,Earth Queen Minotaur
-2,Creature,Rare,Aura Knight Hydra
-3,Creature,Rare,Light Undead Minotaur
-4,Creature,Rare,Death King Griffin
-5,Spell,Mythic,Mighty Invisibility
-6,Creature,Common,Paladin
-7,Spell,Common,Ice
-8,Creature,Rare,Dark Lord Griffin
-9,Spell,Common,Burst
-10,Enchantment,Rare,Nimble Shield
-11,Enchantment,Common,Blight
-12,Creature,Common,Ghoul
-13,Creature,Common,Spider
-14,Creature,Legendary,Frozen Knight Giant of the Swamp
-15,Spell,Common,Fury
-16,Creature,Rare,Aura Queen Minotaur
-17,Creature,Legendary,Frozen Merchant Orge of the Border
-18,Creature,Common,Magi
-19,Spell,Legendary,Dire Wall
-20,Artifact,Common,Pendant
-21,Creature,Common,Paladin
-22,Creature,Legendary,Light Undead Orge of the Low Hills
-23,Creature,Common,Ghoul
-24,Creature,Rare,Light Thief Hydra
-25,Creature,Common,Warlock
-26,Creature,Common,Orc
-27,Creature,Common,Eagle
-28,Creature,Common,Spider
-29,Creature,Common,Elf
-30,Enchantment,Rare,Miracle Flight
-31,Enchantment,Common,Blight
-32,Creature,Common,Elf
-33,Enchantment,Common,Shade
-34,Enchantment,Rare,Hateful Blight
-35,Enchantment,Common,Invert
-36,Spell,Common,Maelstrom
-37,Creature,Common,Paladin
-38,Spell,Common,Pandemonium
-39,Artifact,Legendary,Extreme Helmet
-40,Creature,Common,Elf
-41,Enchantment,Legendary,Mighty Shield
-42,Artifact,Rare,Solar Bracers
-43,Spell,Common,Vortex
-44,Enchantment,Common,Blight
+==================,DECK,5325
+0,Creature,Earth Thief Giant of the Swamp
+1,Creature,Earth Queen Cyclops
+2,Creature,Aura Knight Hydra
+3,Creature,Light Undead Cyclops
+4,Creature,Death King Griffin
+5,Spell,Instant Cataclysmic Rage
+6,Creature,Troll
+7,Spell,Fury
+8,Creature,Dark Lord Griffin
+9,Spell,Gale
+10,Enchantment,Nature Agony
+11,Enchantment,Alacrity
+12,Creature,Ghoul
+13,Creature,Paladin
+14,Creature,Frozen Knight Dwarf of the Swamp
+15,Spell,Stricken
+16,Creature,Aura Queen Cyclops
+17,Creature,Frozen Merchant Elf of the Border
+18,Creature,Fairy
+19,Spell,Urgent Oblivion Revive
+20,Artifact,Pendant
+21,Creature,Troll
+22,Creature,Light Undead Elf of the Low Hills
+23,Creature,Ghoul
+24,Creature,Light Thief Hydra
+25,Creature,Berserker
+26,Creature,Spider
+27,Creature,Eagle
+28,Creature,Paladin
+29,Creature,Warlock
+30,Enchantment,Grim Shade
+31,Enchantment,Blight
+32,Creature,Warlock
+33,Enchantment,Shield
+34,Enchantment,Cataclysmic Firebreath
+35,Enchantment,Deathgrip
+36,Spell,Gale
+37,Creature,Troll
+38,Spell,Stricken
+39,Artifact,Irate Sorrow Helmet
+40,Creature,Warlock
+41,Enchantment,Urgent Gloom Flight
+42,Artifact,Hateful Bracers
+43,Spell,Fireball
+44,Enchantment,Age

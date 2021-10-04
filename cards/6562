@@ -1,46 +1,46 @@
-==================,DECK,6562,Light
-0,Artifact,Common,Scythe
-1,Spell,Common,Fury
-2,Creature,Common,Spider
-3,Creature,Rare,Frozen Assassin Minotaur
-4,Spell,Legendary,Clever Infuriate
-5,Enchantment,Common,Deathgrip
-6,Creature,Rare,Earth Lord Minotaur
-7,Enchantment,Common,Agony
-8,Creature,Rare,Earth Monk Minotaur
-9,Creature,Common,Warlock
-10,Spell,Common,Frost
-11,Spell,Common,Frost
-12,Enchantment,Mythic,Urgent Shade
-13,Creature,Common,Wolf
-14,Creature,Common,Spider
-15,Spell,Common,Gale
-16,Creature,Common,Wolf
-17,Creature,Common,Wolf
-18,Artifact,Common,Greaves
-19,Creature,Rare,Death Thief Hydra
-20,Spell,Common,Freeze
-21,Spell,Common,Infuriate
-22,Creature,Common,Warlock
-23,Spell,Common,Frenzy
-24,Creature,Rare,Earth Merchant Griffin
-25,Spell,Common,Wall
-26,Creature,Rare,Frozen Undead Griffin
-27,Spell,Legendary,Dire Vortex
-28,Creature,Common,Spider
-29,Creature,Common,Elf
-30,Artifact,Common,Boots
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Maelstrom
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Ghoul
-35,Spell,Common,Gravitation
-36,Spell,Common,Assault
-37,Creature,Common,Magi
-38,Creature,Common,Elf
-39,Creature,Common,Eagle
-40,Enchantment,Common,Haste
-41,Spell,Common,Revive
-42,Artifact,Common,Pendant
-43,Spell,Rare,Dark Revive
-44,Creature,Common,Elf
+==================,DECK,6562
+0,Artifact,Scythe
+1,Spell,Stun
+2,Creature,Paladin
+3,Creature,Frozen Assassin Cyclops
+4,Spell,Empyrean Grim Stun
+5,Enchantment,Age
+6,Creature,Earth Lord Cyclops
+7,Enchantment,Flight
+8,Creature,Earth Monk Cyclops
+9,Creature,Berserker
+10,Spell,Reanimate
+11,Spell,Hypnosis
+12,Enchantment,Dire Necro Age
+13,Creature,Wolf
+14,Creature,Paladin
+15,Spell,Rage
+16,Creature,Wolf
+17,Creature,Wolf
+18,Artifact,Greaves
+19,Creature,Death Thief Hydra
+20,Spell,Reanimate
+21,Spell,Pandemonium
+22,Creature,Berserker
+23,Spell,Fireball
+24,Creature,Earth Merchant Griffin
+25,Spell,Infuriate
+26,Creature,Frozen Undead Griffin
+27,Spell,Instant Frigid Infuriate
+28,Creature,Paladin
+29,Creature,Warlock
+30,Artifact,Boots
+31,Enchantment,Strength
+32,Spell,Rage
+33,Enchantment,Flight
+34,Creature,Ghoul
+35,Spell,Gale
+36,Spell,Torment
+37,Creature,Fairy
+38,Creature,Warlock
+39,Creature,Eagle
+40,Enchantment,Agony
+41,Spell,Reanimate
+42,Artifact,Pendant
+43,Spell,Lunar Rage
+44,Creature,Warlock

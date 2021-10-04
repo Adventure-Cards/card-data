@@ -1,46 +1,46 @@
-==================,DECK,6680,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Sorrow
-2,Creature,Common,Goblin
-3,Creature,Common,Elf
-4,Spell,Common,Assault
-5,Artifact,Common,Scythe
-6,Creature,Common,Magi
-7,Spell,Common,Fury
-8,Enchantment,Common,Shield
-9,Spell,Common,Infuriate
-10,Creature,Common,Paladin
-11,Spell,Common,Fury
-12,Enchantment,Mythic,Angry Flight
-13,Creature,Legendary,Frozen Priest Orge of the Golden Palace
-14,Spell,Rare,Dark Lightning
-15,Creature,Common,Dwarf
-16,Creature,Legendary,Earth Merchant Orge of the Magical Forest
-17,Spell,Common,Stun
-18,Enchantment,Common,Blight
-19,Enchantment,Common,Drain
-20,Creature,Common,Magi
-21,Creature,Legendary,Aura Assassin Oni of the Haven
-22,Creature,Legendary,Frozen Assassin Orge of the West
-23,Creature,Mythic,Frozen Nameless Phoenix of the Void
-24,Creature,Rare,Death Thief Skin-Walker
-25,Creature,Common,Paladin
-26,Creature,Common,Magi
-27,Creature,Legendary,Death Knight Orge of the Arctic Blizzards
-28,Creature,Common,Ghoul
-29,Creature,Rare,Earth Warrior Minotaur
-30,Enchantment,Common,Shade
-31,Creature,Common,Goblin
-32,Creature,Rare,Snow Priest Minotaur
-33,Creature,Common,Elf
-34,Enchantment,Common,Blight
-35,Enchantment,Common,Flight
-36,Creature,Common,Goblin
-37,Creature,Common,Elf
-38,Creature,Common,Goblin
-39,Creature,Common,Goblin
-40,Spell,Common,Vortex
-41,Creature,Common,Ghoul
-42,Creature,Common,Ghoul
-43,Creature,Rare,Snow Undead Berserker
-44,Creature,Common,Warlock
+==================,DECK,6680
+0,Creature,Ghoul
+1,Spell,Revive
+2,Creature,Skin-Walker
+3,Creature,Warlock
+4,Spell,Fire
+5,Artifact,Scythe
+6,Creature,Fairy
+7,Spell,Gale
+8,Enchantment,Drain
+9,Spell,Ice
+10,Creature,Troll
+11,Spell,Heal
+12,Enchantment,Clever Lunar Shield
+13,Creature,Frozen Priest Elf of the Golden Palace
+14,Spell,Miracle Torment
+15,Creature,Magi
+16,Creature,Earth Merchant Elf of the Magical Forest
+17,Spell,Revive
+18,Enchantment,Deathgrip
+19,Enchantment,Blight
+20,Creature,Fairy
+21,Creature,Aura Assassin Oni of the Haven
+22,Creature,Frozen Assassin Elf of the West
+23,Creature,Frozen Nameless Phoenix of the Void
+24,Creature,Death Thief Orc
+25,Creature,Troll
+26,Creature,Fairy
+27,Creature,Death Knight Elf of the Arctic Blizzards
+28,Creature,Ghoul
+29,Creature,Earth Warrior Cyclops
+30,Enchantment,Shrink
+31,Creature,Skin-Walker
+32,Creature,Snow Priest Cyclops
+33,Creature,Warlock
+34,Enchantment,Agony
+35,Enchantment,Haste
+36,Creature,Skin-Walker
+37,Creature,Warlock
+38,Creature,Skin-Walker
+39,Creature,Skin-Walker
+40,Spell,Frenzy
+41,Creature,Ghoul
+42,Creature,Ghoul
+43,Creature,Snow Undead Goblin
+44,Creature,Berserker

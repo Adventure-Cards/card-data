@@ -1,46 +1,46 @@
-==================,DECK,6464,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Earth Assassin Fairy
-2,Spell,Common,Pandemonium
-3,Artifact,Rare,Lunar Scythe
-4,Creature,Common,Dwarf
-5,Creature,Common,Spider
-6,Creature,Rare,Snow Lord Minotaur
-7,Creature,Rare,Dark Monk Fairy
-8,Creature,Rare,Death Knight Hydra
-9,Enchantment,Common,Alacrity
-10,Spell,Mythic,Urgent Vortex
-11,Artifact,Common,Gloves
-12,Enchantment,Common,Lethargy
-13,Enchantment,Rare,Shimmering Blight
-14,Creature,Common,Spider
-15,Artifact,Common,Greaves
-16,Spell,Common,Rage
-17,Creature,Common,Eagle
-18,Creature,Common,Dwarf
-19,Creature,Common,Elf
-20,Spell,Legendary,Extreme Burst
-21,Creature,Common,Spider
-22,Enchantment,Common,Agony
-23,Enchantment,Rare,Nimble Shield
-24,Creature,Rare,Earth Knight Berserker
-25,Enchantment,Common,Age
-26,Creature,Common,Elf
-27,Spell,Common,Assault
-28,Creature,Legendary,Death Assassin Orge of the Bright Mountains
-29,Creature,Rare,Earth Warrior Hydra
-30,Spell,Rare,Dark Assault
-31,Creature,Common,Paladin
-32,Enchantment,Common,Shade
-33,Creature,Rare,Earth Rogue Fairy
-34,Creature,Rare,Dark Warrior Griffin
-35,Creature,Rare,Dark Merchant Minotaur
-36,Spell,Mythic,Potent Revive
-37,Spell,Rare,Grim Invisibility
-38,Enchantment,Rare,Gloom Alacrity
-39,Spell,Common,Freeze
-40,Creature,Legendary,Light Assassin Giant of the Frozen Castle
-41,Creature,Common,Wolf
-42,Creature,Rare,Frozen Warrior Skin-Walker
-43,Creature,Rare,Death Thief Skin-Walker
-44,Creature,Common,Spider
+==================,DECK,6464
+0,Creature,Eagle
+1,Creature,Earth Assassin Kraken
+2,Spell,Frost
+3,Artifact,Dark Scythe
+4,Creature,Magi
+5,Creature,Paladin
+6,Creature,Snow Lord Cyclops
+7,Creature,Dark Monk Kraken
+8,Creature,Death Knight Hydra
+9,Enchantment,Blight
+10,Spell,Irate Forged Freeze
+11,Artifact,Gloves
+12,Enchantment,Drain
+13,Enchantment,Solar Deathgrip
+14,Creature,Paladin
+15,Artifact,Greaves
+16,Spell,Burn
+17,Creature,Eagle
+18,Creature,Magi
+19,Creature,Warlock
+20,Spell,Mighty Miracle Stricken
+21,Creature,Paladin
+22,Enchantment,Invert
+23,Enchantment,Nature Strength
+24,Creature,Earth Knight Goblin
+25,Enchantment,Drain
+26,Creature,Warlock
+27,Spell,Pandemonium
+28,Creature,Death Assassin Elf of the Bright Mountains
+29,Creature,Earth Warrior Hydra
+30,Spell,Lunar Pandemonium
+31,Creature,Troll
+32,Enchantment,Flight
+33,Creature,Earth Rogue Kraken
+34,Creature,Dark Warrior Griffin
+35,Creature,Dark Merchant Cyclops
+36,Spell,Irate Oblivion Fire
+37,Spell,Nimble Maelstrom
+38,Enchantment,Dark Shrink
+39,Spell,Lightning
+40,Creature,Light Assassin Dwarf of the Frozen Castle
+41,Creature,Wolf
+42,Creature,Frozen Warrior Orc
+43,Creature,Death Thief Orc
+44,Creature,Paladin

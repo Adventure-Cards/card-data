@@ -1,46 +1,46 @@
-==================,DECK,5605,Light
-0,Creature,Rare,Dark Undead Berserker
-1,Enchantment,Mythic,Instant Agony
-2,Creature,Mythic,Dark Chaos Wizard of Illusion
-3,Spell,Common,Gravitation
-4,Creature,Common,Goblin
-5,Enchantment,Common,Flight
-6,Creature,Common,Warlock
-7,Spell,Common,Frost
-8,Creature,Common,Eagle
-9,Spell,Common,Pandemonium
-10,Enchantment,Common,Age
-11,Creature,Common,Wolf
-12,Artifact,Common,Sword
-13,Creature,Common,Ghoul
-14,Creature,Rare,Earth King Berserker
-15,Creature,Rare,Snow Thief Berserker
-16,Creature,Common,Wolf
-17,Enchantment,Common,Strength
-18,Creature,Common,Elf
-19,Spell,Common,Vortex
-20,Creature,Common,Wolf
-21,Spell,Common,Reanimate
-22,Artifact,Common,Divine Robe
-23,Spell,Common,Reanimate
-24,Creature,Legendary,Light Merchant Oni of the Frozen Castle
-25,Enchantment,Common,Strength
-26,Creature,Common,Dwarf
-27,Creature,Rare,Aura Thief Hydra
-28,Creature,Common,Orc
-29,Spell,Common,Freeze
-30,Creature,Rare,Aura Monk Hydra
-31,Spell,Common,Burn
-32,Spell,Common,Frenzy
-33,Creature,Common,Paladin
-34,Spell,Common,Vortex
-35,Enchantment,Mythic,Urgent Drain
-36,Artifact,Common,Ghost Wand
-37,Enchantment,Common,Lethargy
-38,Spell,Rare,Miracle Pandemonium
-39,Creature,Rare,Snow Assassin Minotaur
-40,Artifact,Rare,Necro Potion
-41,Enchantment,Common,Flight
-42,Creature,Common,Spider
-43,Creature,Legendary,Dark King Giant of the Black Stone
-44,Enchantment,Rare,Hateful Drain
+==================,DECK,5605
+0,Creature,Dark Undead Goblin
+1,Enchantment,Urgent Corpse Agony
+2,Creature,Dark Chaos Wizard of Illusion
+3,Spell,Hypnosis
+4,Creature,Skin-Walker
+5,Enchantment,Shield
+6,Creature,Berserker
+7,Spell,Stricken
+8,Creature,Eagle
+9,Spell,Stun
+10,Enchantment,Shield
+11,Creature,Wolf
+12,Artifact,Sword
+13,Creature,Ghoul
+14,Creature,Earth King Goblin
+15,Creature,Snow Thief Goblin
+16,Creature,Wolf
+17,Enchantment,Shade
+18,Creature,Warlock
+19,Spell,Fireball
+20,Creature,Wolf
+21,Spell,Maelstrom
+22,Artifact,Divine Robe
+23,Spell,Revive
+24,Creature,Light Merchant Oni of the Frozen Castle
+25,Enchantment,Haste
+26,Creature,Magi
+27,Creature,Aura Thief Hydra
+28,Creature,Spider
+29,Spell,Fireball
+30,Creature,Aura Monk Hydra
+31,Spell,Vortex
+32,Spell,Torment
+33,Creature,Troll
+34,Spell,Frenzy
+35,Enchantment,Empyrean Forged Age
+36,Artifact,Ghost Wand
+37,Enchantment,Strength
+38,Spell,Life Maelstrom
+39,Creature,Snow Assassin Cyclops
+40,Artifact,Solar Potion
+41,Enchantment,Lethargy
+42,Creature,Paladin
+43,Creature,Dark King Dwarf of the Black Stone
+44,Enchantment,Dark Shrink

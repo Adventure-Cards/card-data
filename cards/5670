@@ -1,46 +1,46 @@
-==================,DECK,5670,Light
-0,Creature,Common,Eagle
-1,Enchantment,Common,Invert
-2,Creature,Common,Magi
-3,Spell,Common,Ice
-4,Creature,Rare,Light Warrior Hydra
-5,Creature,Legendary,Aura Assassin Oni of the Eastern Skies
-6,Artifact,Common,Helmet
-7,Creature,Common,Eagle
-8,Creature,Rare,Earth Lord Berserker
-9,Creature,Common,Magi
-10,Creature,Common,Ghoul
-11,Creature,Rare,Light King Fairy
-12,Enchantment,Common,Alacrity
-13,Enchantment,Common,Deathgrip
-14,Creature,Legendary,Dark Lord Cyclops of the Golden Palace
-15,Creature,Mythic,Dark Chaos Wizard of Illusion
-16,Creature,Common,Ghoul
-17,Creature,Common,Goblin
-18,Enchantment,Common,Strength
-19,Spell,Legendary,Dire Wall
-20,Creature,Common,Elf
-21,Spell,Common,Freeze
-22,Creature,Mythic,Snow Undead Dragon of Hate
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Lethargy
-25,Creature,Mythic,Death Grand Wizard of the Dead
-26,Enchantment,Mythic,Angry Drain
-27,Enchantment,Common,Haste
-28,Creature,Common,Elf
-29,Creature,Mythic,Snow Ancient Demon of Hate
-30,Enchantment,Mythic,Angry Agony
-31,Enchantment,Common,Lethargy
-32,Enchantment,Common,Shrink
-33,Creature,Rare,Snow Fighter Minotaur
-34,Spell,Legendary,Dire Assault
-35,Enchantment,Common,Shrink
-36,Creature,Common,Elf
-37,Creature,Common,Eagle
-38,Creature,Common,Eagle
-39,Creature,Rare,Earth Fighter Hydra
-40,Spell,Common,Rage
-41,Creature,Common,Warlock
-42,Creature,Common,Paladin
-43,Enchantment,Common,Flight
-44,Enchantment,Mythic,Extreme Alacrity
+==================,DECK,5670
+0,Creature,Eagle
+1,Enchantment,Drain
+2,Creature,Fairy
+3,Spell,Maelstrom
+4,Creature,Light Warrior Hydra
+5,Creature,Aura Assassin Oni of the Eastern Skies
+6,Artifact,Helmet
+7,Creature,Eagle
+8,Creature,Earth Lord Goblin
+9,Creature,Fairy
+10,Creature,Ghoul
+11,Creature,Light King Kraken
+12,Enchantment,Flight
+13,Enchantment,Shield
+14,Creature,Dark Lord Giant of the Golden Palace
+15,Creature,Dark Chaos Wizard of Illusion
+16,Creature,Ghoul
+17,Creature,Skin-Walker
+18,Enchantment,Flight
+19,Spell,Instant Victory Stun
+20,Creature,Warlock
+21,Spell,Hypnosis
+22,Creature,Snow Undead Dragon of Hate
+23,Creature,Ghoul
+24,Enchantment,Invert
+25,Creature,Death Grand Wizard of the Dead
+26,Enchantment,Empyrean Dark Firebreath
+27,Enchantment,Deathgrip
+28,Creature,Warlock
+29,Creature,Snow Ancient Demon of Hate
+30,Enchantment,Urgent Miracle Flight
+31,Enchantment,Deathgrip
+32,Enchantment,Agony
+33,Creature,Snow Fighter Cyclops
+34,Spell,Dire Victory Fireball
+35,Enchantment,Alacrity
+36,Creature,Warlock
+37,Creature,Eagle
+38,Creature,Eagle
+39,Creature,Earth Fighter Hydra
+40,Spell,Infuriate
+41,Creature,Berserker
+42,Creature,Troll
+43,Enchantment,Strength
+44,Enchantment,Ardent Dark Shield

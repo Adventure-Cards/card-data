@@ -1,46 +1,46 @@
-==================,DECK,5660,Medium
-0,Spell,Common,Infuriate
-1,Creature,Rare,Earth Rogue Griffin
-2,Spell,Common,Frost
-3,Enchantment,Common,Alacrity
-4,Creature,Common,Dwarf
-5,Creature,Common,Goblin
-6,Creature,Common,Magi
-7,Creature,Common,Eagle
-8,Spell,Rare,Oblivion Frost
-9,Spell,Rare,Grim Heal
-10,Enchantment,Common,Alacrity
-11,Enchantment,Legendary,Instant Drain
-12,Spell,Common,Frenzy
-13,Enchantment,Rare,Nimble Lethargy
-14,Spell,Rare,Dark Wall
-15,Creature,Common,Warlock
-16,Artifact,Legendary,Instant Ring
-17,Creature,Rare,Light Thief Minotaur
-18,Creature,Common,Ghoul
-19,Enchantment,Rare,Hateful Age
-20,Spell,Common,Vortex
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Shield
-23,Artifact,Common,Amulet
-24,Spell,Legendary,Potent Frenzy
-25,Enchantment,Common,Drain
-26,Enchantment,Rare,Gloom Shade
-27,Spell,Common,Lightning
-28,Creature,Common,Warlock
-29,Creature,Legendary,Earth King Kraken of the Swamp
-30,Creature,Rare,Frozen King Fairy
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Eagle
-33,Creature,Legendary,Snow Knight Kraken of the Black Stone
-34,Creature,Common,Spider
-35,Creature,Common,Ghoul
-36,Creature,Common,Spider
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Alacrity
-39,Creature,Common,Magi
-40,Spell,Rare,Necro Gale
-41,Spell,Common,Freeze
-42,Creature,Rare,Aura Rogue Berserker
-43,Spell,Legendary,Clever Vortex
-44,Creature,Common,Ghoul
+==================,DECK,5660
+0,Spell,Ice
+1,Creature,Earth Rogue Griffin
+2,Spell,Reanimate
+3,Enchantment,Firebreath
+4,Creature,Magi
+5,Creature,Skin-Walker
+6,Creature,Fairy
+7,Creature,Eagle
+8,Spell,Frigid Heal
+9,Spell,Nimble Freeze
+10,Enchantment,Shrink
+11,Enchantment,Empyrean Forged Age
+12,Spell,Freeze
+13,Enchantment,Hateful Strength
+14,Spell,Lunar Freeze
+15,Creature,Berserker
+16,Artifact,Ardent Shimmering Ring
+17,Creature,Light Thief Cyclops
+18,Creature,Ghoul
+19,Enchantment,Gloom Flight
+20,Spell,Invisibility
+21,Creature,Ghoul
+22,Enchantment,Firebreath
+23,Artifact,Amulet
+24,Spell,Irate Oblivion Fury
+25,Enchantment,Shield
+26,Enchantment,Chimeric Shrink
+27,Spell,Stun
+28,Creature,Berserker
+29,Creature,Earth King Ogre of the Swamp
+30,Creature,Frozen King Kraken
+31,Enchantment,Deathgrip
+32,Creature,Eagle
+33,Creature,Snow Knight Ogre of the Black Stone
+34,Creature,Paladin
+35,Creature,Ghoul
+36,Creature,Paladin
+37,Enchantment,Lethargy
+38,Enchantment,Drain
+39,Creature,Fairy
+40,Spell,Solar Fire
+41,Spell,Freeze
+42,Creature,Aura Rogue Goblin
+43,Spell,Urgent Oblivion Revive
+44,Creature,Ghoul

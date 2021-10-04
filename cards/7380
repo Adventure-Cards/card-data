@@ -1,46 +1,46 @@
-==================,DECK,7380,Medium
-0,Creature,Common,Wolf
-1,Spell,Rare,Nature Sorrow
-2,Creature,Rare,Snow Monk Fairy
-3,Creature,Legendary,Snow Monk Giant of the Plains
-4,Creature,Rare,Snow Undead Berserker
-5,Creature,Common,Eagle
-6,Creature,Rare,Frozen King Minotaur
-7,Creature,Common,Wolf
-8,Spell,Common,Reanimate
-9,Creature,Common,Ghoul
-10,Enchantment,Mythic,Clever Agony
-11,Enchantment,Common,Shield
-12,Creature,Rare,Light Fighter Fairy
-13,Creature,Common,Eagle
-14,Creature,Mythic,Dark Ancient Demon of Illusion
-15,Creature,Common,Paladin
-16,Artifact,Legendary,Urgent Tome
-17,Spell,Common,Heal
-18,Spell,Rare,Corpse Assault
-19,Enchantment,Common,Blight
-20,Creature,Common,Orc
-21,Creature,Mythic,Light Time Phoenix of the Sky
-22,Creature,Common,Magi
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Enchantment,Common,Shade
-26,Enchantment,Mythic,Urgent Invert
-27,Creature,Rare,Earth Rogue Berserker
-28,Creature,Mythic,Death Grand Demon of the Dead
-29,Spell,Legendary,Urgent Maelstrom
-30,Creature,Mythic,Snow Time Dragon of Hate
-31,Creature,Mythic,Snow Grand Demon of Hate
-32,Spell,Rare,Hateful Stun
-33,Creature,Rare,Snow Fighter Fairy
-34,Spell,Common,Maelstrom
-35,Spell,Common,Pandemonium
-36,Creature,Common,Dwarf
-37,Spell,Rare,Corpse Torment
-38,Enchantment,Common,Deathgrip
-39,Artifact,Common,Ring
-40,Enchantment,Common,Shrink
-41,Spell,Legendary,Mighty Torment
-42,Enchantment,Common,Alacrity
-43,Creature,Common,Wolf
-44,Artifact,Rare,Shimmering Divine Robe
+==================,DECK,7380
+0,Creature,Wolf
+1,Spell,Shimmering Hypnosis
+2,Creature,Snow Monk Kraken
+3,Creature,Snow Monk Dwarf of the Plains
+4,Creature,Snow Undead Goblin
+5,Creature,Eagle
+6,Creature,Frozen King Cyclops
+7,Creature,Wolf
+8,Spell,Fury
+9,Creature,Ghoul
+10,Enchantment,Urgent Life Invert
+11,Enchantment,Alacrity
+12,Creature,Light Fighter Kraken
+13,Creature,Eagle
+14,Creature,Dark Ancient Demon of Illusion
+15,Creature,Troll
+16,Artifact,Empyrean Corpse Tome
+17,Spell,Revive
+18,Spell,Corpse Lightning
+19,Enchantment,Strength
+20,Creature,Spider
+21,Creature,Light Time Phoenix of the Sky
+22,Creature,Fairy
+23,Creature,Spider
+24,Creature,Fairy
+25,Enchantment,Lethargy
+26,Enchantment,Instant Shimmering Strength
+27,Creature,Earth Rogue Goblin
+28,Creature,Death Grand Demon of the Dead
+29,Spell,Clever Shimmering Hypnosis
+30,Creature,Snow Time Dragon of Hate
+31,Creature,Snow Grand Demon of Hate
+32,Spell,Sorrow Burst
+33,Creature,Snow Fighter Kraken
+34,Spell,Burst
+35,Spell,Pandemonium
+36,Creature,Magi
+37,Spell,Forged Lightning
+38,Enchantment,Shade
+39,Artifact,Ring
+40,Enchantment,Flight
+41,Spell,Instant Gloom Pandemonium
+42,Enchantment,Shrink
+43,Creature,Wolf
+44,Artifact,Nature Divine Robe

@@ -1,46 +1,46 @@
-==================,DECK,7188,Medium
-0,Creature,Common,Wolf
-1,Spell,Rare,Hateful Ice
-2,Enchantment,Common,Deathgrip
-3,Spell,Common,Revive
-4,Spell,Rare,Miracle Fury
-5,Creature,Rare,Dark Knight Fairy
-6,Creature,Common,Ghoul
-7,Enchantment,Rare,Nature Deathgrip
-8,Creature,Common,Magi
-9,Spell,Rare,Corpse Frost
-10,Enchantment,Common,Agony
-11,Enchantment,Rare,Hateful Haste
-12,Creature,Common,Wolf
-13,Creature,Common,Paladin
-14,Creature,Rare,Frozen Monk Berserker
-15,Creature,Common,Ghoul
-16,Creature,Rare,Death King Hydra
-17,Creature,Common,Eagle
-18,Creature,Rare,Snow Assassin Fairy
-19,Enchantment,Common,Flight
-20,Creature,Rare,Aura Fighter Berserker
-21,Creature,Rare,Aura King Berserker
-22,Creature,Rare,Earth Thief Fairy
-23,Spell,Common,Lightning
-24,Creature,Common,Orc
-25,Enchantment,Common,Strength
-26,Creature,Common,Paladin
-27,Creature,Legendary,Earth Fighter Kraken of the West
-28,Creature,Common,Orc
-29,Enchantment,Rare,Necro Haste
-30,Creature,Rare,Light Merchant Berserker
-31,Creature,Common,Elf
-32,Spell,Mythic,Clever Hypnosis
-33,Creature,Common,Magi
-34,Creature,Rare,Snow Priest Hydra
-35,Enchantment,Common,Blight
-36,Creature,Common,Warlock
-37,Creature,Common,Paladin
-38,Spell,Rare,Cataclysmic Stricken
-39,Creature,Common,Eagle
-40,Enchantment,Mythic,Urgent Haste
-41,Enchantment,Mythic,Instant Drain
-42,Creature,Common,Magi
-43,Creature,Legendary,Snow Lord Kraken of the Low Hills
-44,Spell,Common,Burn
+==================,DECK,7188
+0,Creature,Wolf
+1,Spell,Miracle Sorrow
+2,Enchantment,Age
+3,Spell,Burst
+4,Spell,Life Stricken
+5,Creature,Dark Knight Kraken
+6,Creature,Ghoul
+7,Enchantment,Shimmering Agony
+8,Creature,Fairy
+9,Spell,Shimmering Freeze
+10,Enchantment,Deathgrip
+11,Enchantment,Miracle Alacrity
+12,Creature,Wolf
+13,Creature,Troll
+14,Creature,Frozen Monk Goblin
+15,Creature,Ghoul
+16,Creature,Death King Hydra
+17,Creature,Eagle
+18,Creature,Snow Assassin Kraken
+19,Enchantment,Drain
+20,Creature,Aura Fighter Goblin
+21,Creature,Aura King Goblin
+22,Creature,Earth Thief Kraken
+23,Spell,Revive
+24,Creature,Spider
+25,Enchantment,Age
+26,Creature,Troll
+27,Creature,Earth Fighter Ogre of the West
+28,Creature,Spider
+29,Enchantment,Corpse Deathgrip
+30,Creature,Light Merchant Goblin
+31,Creature,Warlock
+32,Spell,Potent Life Hypnosis
+33,Creature,Fairy
+34,Creature,Snow Priest Hydra
+35,Enchantment,Firebreath
+36,Creature,Berserker
+37,Creature,Troll
+38,Spell,Miracle Heal
+39,Creature,Eagle
+40,Enchantment,Mighty Corpse Agony
+41,Enchantment,Mighty Forged Agony
+42,Creature,Fairy
+43,Creature,Snow Lord Ogre of the Low Hills
+44,Spell,Fire

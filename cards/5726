@@ -1,46 +1,46 @@
-==================,DECK,5726,Light
-0,Artifact,Rare,Oblivion Bow
-1,Creature,Common,Wolf
-2,Creature,Common,Paladin
-3,Creature,Common,Spider
-4,Enchantment,Common,Agony
-5,Creature,Common,Spider
-6,Spell,Common,Hypnosis
-7,Creature,Common,Magi
-8,Enchantment,Common,Age
-9,Creature,Common,Dwarf
-10,Spell,Legendary,Extreme Frenzy
-11,Enchantment,Mythic,Mighty Agony
-12,Creature,Common,Magi
-13,Creature,Rare,Snow Assassin Berserker
-14,Spell,Common,Burn
-15,Spell,Common,Burst
-16,Enchantment,Common,Shield
-17,Creature,Legendary,Earth Queen Kraken of the Mountains
-18,Creature,Rare,Frozen Queen Hydra
-19,Creature,Rare,Earth Fighter Berserker
-20,Creature,Common,Elf
-21,Creature,Common,Magi
-22,Creature,Common,Eagle
-23,Creature,Common,Eagle
-24,Spell,Common,Assault
-25,Enchantment,Common,Lethargy
-26,Enchantment,Mythic,Angry Shade
-27,Creature,Rare,Snow Undead Skin-Walker
-28,Creature,Rare,Snow Priest Griffin
-29,Enchantment,Common,Drain
-30,Artifact,Legendary,Extreme Helmet
-31,Creature,Rare,Dark Fighter Griffin
-32,Spell,Common,Maelstrom
-33,Spell,Common,Assault
-34,Spell,Common,Pandemonium
-35,Creature,Common,Eagle
-36,Enchantment,Common,Blight
-37,Creature,Common,Warlock
-38,Creature,Common,Ghoul
-39,Spell,Rare,Gloom Assault
-40,Spell,Rare,Hateful Burst
-41,Creature,Common,Elf
-42,Creature,Common,Magi
-43,Creature,Common,Spider
-44,Creature,Legendary,Aura Merchant Orge of the Black Stone
+==================,DECK,5726
+0,Artifact,Grim Bow
+1,Creature,Wolf
+2,Creature,Troll
+3,Creature,Paladin
+4,Enchantment,Strength
+5,Creature,Paladin
+6,Spell,Tempest
+7,Creature,Fairy
+8,Enchantment,Shrink
+9,Creature,Magi
+10,Spell,Urgent Cataclysmic Fireball
+11,Enchantment,Urgent Miracle Flight
+12,Creature,Fairy
+13,Creature,Snow Assassin Goblin
+14,Spell,Tempest
+15,Spell,Tempest
+16,Enchantment,Invert
+17,Creature,Earth Queen Ogre of the Mountains
+18,Creature,Frozen Queen Hydra
+19,Creature,Earth Fighter Goblin
+20,Creature,Warlock
+21,Creature,Fairy
+22,Creature,Eagle
+23,Creature,Eagle
+24,Spell,Pandemonium
+25,Enchantment,Blight
+26,Enchantment,Dire Chimeric Firebreath
+27,Creature,Snow Undead Orc
+28,Creature,Snow Priest Griffin
+29,Enchantment,Shield
+30,Artifact,Zealous Cataclysmic Helmet
+31,Creature,Dark Fighter Griffin
+32,Spell,Reanimate
+33,Spell,Sorrow
+34,Spell,Ice
+35,Creature,Eagle
+36,Enchantment,Flight
+37,Creature,Berserker
+38,Creature,Ghoul
+39,Spell,Chimeric Rage
+40,Spell,Cataclysmic Frenzy
+41,Creature,Warlock
+42,Creature,Fairy
+43,Creature,Paladin
+44,Creature,Aura Merchant Elf of the Black Stone

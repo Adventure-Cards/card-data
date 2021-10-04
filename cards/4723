@@ -1,46 +1,46 @@
-==================,DECK,4723,Light
-0,Creature,Common,Wolf
-1,Artifact,Common,Boots
-2,Enchantment,Rare,Corpse Agony
-3,Spell,Rare,Necro Gale
-4,Creature,Common,Paladin
-5,Spell,Legendary,Instant Wall
-6,Creature,Rare,Death Monk Berserker
-7,Spell,Rare,Corpse Wall
-8,Artifact,Common,Tome
-9,Creature,Common,Elf
-10,Artifact,Rare,Corpse Ring
-11,Creature,Legendary,Earth Assassin Oni of the Low Hills
-12,Enchantment,Common,Flight
-13,Creature,Rare,Light Warrior Griffin
-14,Enchantment,Common,Drain
-15,Artifact,Rare,Forged Scythe
-16,Creature,Common,Dwarf
-17,Enchantment,Legendary,Dire Shield
-18,Enchantment,Common,Age
-19,Creature,Common,Eagle
-20,Creature,Rare,Snow Merchant Skin-Walker
-21,Creature,Common,Dwarf
-22,Creature,Common,Wolf
-23,Enchantment,Rare,Frigid Strength
-24,Creature,Common,Orc
-25,Spell,Common,Gravitation
-26,Enchantment,Common,Strength
-27,Enchantment,Common,Drain
-28,Spell,Common,Hypnosis
-29,Creature,Rare,Aura Rogue Fairy
-30,Creature,Common,Paladin
-31,Creature,Legendary,Aura Fighter Kraken of the Mountains
-32,Creature,Common,Wolf
-33,Enchantment,Mythic,Urgent Deathgrip
-34,Creature,Common,Warlock
-35,Spell,Common,Wall
-36,Creature,Mythic,Frozen Nameless Dragon of the Void
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Haste
-39,Enchantment,Common,Shade
-40,Creature,Common,Spider
-41,Enchantment,Legendary,Instant Age
-42,Creature,Common,Orc
-43,Enchantment,Common,Shield
-44,Creature,Common,Warlock
+==================,DECK,4723
+0,Creature,Wolf
+1,Artifact,Boots
+2,Enchantment,Corpse Lethargy
+3,Spell,Necro Burn
+4,Creature,Troll
+5,Spell,Instant Nature Ice
+6,Creature,Death Monk Goblin
+7,Spell,Nature Hypnosis
+8,Artifact,Tome
+9,Creature,Warlock
+10,Artifact,Solar Ring
+11,Creature,Earth Assassin Oni of the Low Hills
+12,Enchantment,Flight
+13,Creature,Light Warrior Griffin
+14,Enchantment,Shade
+15,Artifact,Chimeric Scythe
+16,Creature,Magi
+17,Enchantment,Dire Victory Shade
+18,Enchantment,Invert
+19,Creature,Eagle
+20,Creature,Snow Merchant Orc
+21,Creature,Magi
+22,Creature,Wolf
+23,Enchantment,Nimble Blight
+24,Creature,Spider
+25,Spell,Infuriate
+26,Enchantment,Blight
+27,Enchantment,Agony
+28,Spell,Fireball
+29,Creature,Aura Rogue Kraken
+30,Creature,Troll
+31,Creature,Aura Fighter Ogre of the Mountains
+32,Creature,Wolf
+33,Enchantment,Empyrean Shimmering Age
+34,Creature,Berserker
+35,Spell,Burst
+36,Creature,Frozen Nameless Dragon of the Void
+37,Enchantment,Alacrity
+38,Enchantment,Firebreath
+39,Enchantment,Invert
+40,Creature,Paladin
+41,Enchantment,Potent Nature Strength
+42,Creature,Spider
+43,Enchantment,Age
+44,Creature,Berserker

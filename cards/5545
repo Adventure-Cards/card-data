@@ -1,46 +1,46 @@
-==================,DECK,5545,Medium
-0,Creature,Rare,Snow King Hydra
-1,Creature,Common,Warlock
-2,Enchantment,Rare,Shimmering Age
-3,Creature,Common,Orc
-4,Spell,Common,Infuriate
-5,Spell,Common,Hypnosis
-6,Creature,Rare,Frozen Priest Hydra
-7,Creature,Common,Dwarf
-8,Creature,Common,Magi
-9,Creature,Common,Goblin
-10,Creature,Common,Orc
-11,Spell,Common,Vortex
-12,Spell,Common,Maelstrom
-13,Creature,Legendary,Death Thief Cyclops of the Polar Woods
-14,Enchantment,Common,Drain
-15,Creature,Mythic,Dark Ancient Wizard of Illusion
-16,Creature,Rare,Light King Skin-Walker
-17,Spell,Rare,Cataclysmic Burst
-18,Artifact,Rare,Grim Shield
-19,Creature,Legendary,Light Monk Oni of the Mountains
-20,Spell,Common,Frenzy
-21,Creature,Rare,Light Undead Hydra
-22,Enchantment,Common,Shield
-23,Enchantment,Legendary,Clever Agony
-24,Artifact,Common,Cloak
-25,Spell,Common,Fury
-26,Enchantment,Common,Drain
-27,Spell,Rare,Lunar Ice
-28,Creature,Common,Orc
-29,Creature,Rare,Dark Warrior Berserker
-30,Creature,Common,Spider
-31,Creature,Common,Eagle
-32,Creature,Legendary,Aura Warrior Oni of the Plains
-33,Creature,Rare,Death Knight Hydra
-34,Creature,Common,Orc
-35,Spell,Rare,Grim Vortex
-36,Creature,Common,Dwarf
-37,Spell,Common,Burn
-38,Creature,Common,Goblin
-39,Enchantment,Common,Age
-40,Creature,Rare,Frozen Undead Hydra
-41,Creature,Legendary,Snow Assassin Orge of the Polar Woods
-42,Creature,Common,Wolf
-43,Spell,Common,Stricken
-44,Enchantment,Common,Shade
+==================,DECK,5545
+0,Creature,Snow King Hydra
+1,Creature,Berserker
+2,Enchantment,Nature Deathgrip
+3,Creature,Spider
+4,Spell,Fire
+5,Spell,Wall
+6,Creature,Frozen Priest Hydra
+7,Creature,Magi
+8,Creature,Fairy
+9,Creature,Skin-Walker
+10,Creature,Spider
+11,Spell,Wall
+12,Spell,Vortex
+13,Creature,Death Thief Giant of the Polar Woods
+14,Enchantment,Shade
+15,Creature,Dark Ancient Wizard of Illusion
+16,Creature,Light King Orc
+17,Spell,Lunar Fireball
+18,Artifact,Nimble Shield
+19,Creature,Light Monk Oni of the Mountains
+20,Spell,Fury
+21,Creature,Light Undead Hydra
+22,Enchantment,Invert
+23,Enchantment,Instant Life Drain
+24,Artifact,Cloak
+25,Spell,Torment
+26,Enchantment,Alacrity
+27,Spell,Chimeric Stun
+28,Creature,Spider
+29,Creature,Dark Warrior Goblin
+30,Creature,Paladin
+31,Creature,Eagle
+32,Creature,Aura Warrior Oni of the Plains
+33,Creature,Death Knight Hydra
+34,Creature,Spider
+35,Spell,Life Infuriate
+36,Creature,Magi
+37,Spell,Hypnosis
+38,Creature,Skin-Walker
+39,Enchantment,Invert
+40,Creature,Frozen Undead Hydra
+41,Creature,Snow Assassin Elf of the Polar Woods
+42,Creature,Wolf
+43,Spell,Freeze
+44,Enchantment,Strength

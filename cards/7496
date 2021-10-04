@@ -1,46 +1,46 @@
-==================,DECK,7496,Medium
-0,Enchantment,Common,Lethargy
-1,Artifact,Common,Divine Robe
-2,Creature,Mythic,Aura Ancient Demon of the Light
-3,Creature,Common,Paladin
-4,Spell,Common,Lightning
-5,Spell,Legendary,Extreme Gale
-6,Enchantment,Common,Haste
-7,Creature,Legendary,Death King Cyclops of the Magical Forest
-8,Creature,Common,Spider
-9,Spell,Common,Wall
-10,Enchantment,Common,Strength
-11,Creature,Common,Magi
-12,Enchantment,Mythic,Intense Shield
-13,Artifact,Rare,Frigid Divine Robe
-14,Artifact,Rare,Dark Pendant
-15,Creature,Legendary,Snow Lord Oni of the Golden Palace
-16,Creature,Mythic,Dark Chaos Wizard of Illusion
-17,Creature,Common,Orc
-18,Enchantment,Mythic,Intense Flight
-19,Spell,Common,Gale
-20,Creature,Mythic,Earth Time Phoenix of the Shadows
-21,Spell,Common,Lightning
-22,Creature,Rare,Light Knight Fairy
-23,Artifact,Legendary,Clever Gauntlet
-24,Creature,Rare,Dark Merchant Griffin
-25,Creature,Rare,Aura Priest Fairy
-26,Spell,Common,Reanimate
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Artifact,Common,Ghost Wand
-30,Spell,Common,Infuriate
-31,Spell,Legendary,Intense Freeze
-32,Creature,Common,Dwarf
-33,Enchantment,Common,Shield
-34,Enchantment,Common,Strength
-35,Enchantment,Common,Shrink
-36,Creature,Common,Warlock
-37,Enchantment,Common,Drain
-38,Spell,Common,Torment
-39,Creature,Rare,Aura Merchant Fairy
-40,Creature,Rare,Earth Fighter Griffin
-41,Creature,Common,Paladin
-42,Artifact,Rare,Life Helmet
-43,Enchantment,Common,Alacrity
-44,Spell,Common,Rage
+==================,DECK,7496
+0,Enchantment,Haste
+1,Artifact,Divine Robe
+2,Creature,Aura Ancient Demon of the Light
+3,Creature,Troll
+4,Spell,Fire
+5,Spell,Potent Dark Stun
+6,Enchantment,Drain
+7,Creature,Death King Giant of the Magical Forest
+8,Creature,Paladin
+9,Spell,Gale
+10,Enchantment,Age
+11,Creature,Fairy
+12,Enchantment,Irate Nature Deathgrip
+13,Artifact,Nimble Divine Robe
+14,Artifact,Chimeric Pendant
+15,Creature,Snow Lord Oni of the Golden Palace
+16,Creature,Dark Chaos Wizard of Illusion
+17,Creature,Spider
+18,Enchantment,Mighty Hateful Agony
+19,Spell,Vortex
+20,Creature,Earth Time Phoenix of the Shadows
+21,Spell,Gale
+22,Creature,Light Knight Kraken
+23,Artifact,Clever Victory Gauntlet
+24,Creature,Dark Merchant Griffin
+25,Creature,Aura Priest Kraken
+26,Spell,Assault
+27,Creature,Ghoul
+28,Creature,Magi
+29,Artifact,Ghost Wand
+30,Spell,Freeze
+31,Spell,Ardent Shimmering Burst
+32,Creature,Magi
+33,Enchantment,Invert
+34,Enchantment,Blight
+35,Enchantment,Age
+36,Creature,Berserker
+37,Enchantment,Alacrity
+38,Spell,Burst
+39,Creature,Aura Merchant Kraken
+40,Creature,Earth Fighter Griffin
+41,Creature,Troll
+42,Artifact,Victory Helmet
+43,Enchantment,Firebreath
+44,Spell,Torment

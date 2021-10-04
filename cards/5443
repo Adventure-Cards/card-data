@@ -1,46 +1,46 @@
-==================,DECK,5443,Medium
-0,Creature,Common,Goblin
-1,Enchantment,Rare,Necro Shrink
-2,Creature,Common,Dwarf
-3,Creature,Mythic,Dark Ancient Demon of Illusion
-4,Artifact,Rare,Corpse Gloves
-5,Creature,Common,Paladin
-6,Enchantment,Common,Flight
-7,Spell,Common,Frost
-8,Creature,Legendary,Death Rogue Oni of the Mountains
-9,Spell,Common,Frenzy
-10,Artifact,Common,Tome
-11,Creature,Common,Spider
-12,Enchantment,Common,Haste
-13,Creature,Common,Magi
-14,Creature,Common,Dwarf
-15,Spell,Common,Hypnosis
-16,Creature,Common,Spider
-17,Artifact,Common,Amulet
-18,Enchantment,Rare,Nature Haste
-19,Spell,Legendary,Mighty Lightning
-20,Spell,Common,Gale
-21,Spell,Common,Infuriate
-22,Creature,Rare,Aura Rogue Hydra
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Nimble Shade
-25,Spell,Legendary,Angry Burn
-26,Creature,Mythic,Death Undead Dragon of the Dead
-27,Artifact,Common,Scythe
-28,Enchantment,Legendary,Angry Shield
-29,Spell,Common,Burn
-30,Creature,Rare,Dark Merchant Hydra
-31,Creature,Rare,Aura Warrior Minotaur
-32,Creature,Rare,Snow King Minotaur
-33,Creature,Mythic,Aura Chaos Demon of the Light
-34,Spell,Legendary,Potent Vortex
-35,Creature,Rare,Dark Fighter Fairy
-36,Artifact,Rare,Apocalypse Ring
-37,Spell,Common,Torment
-38,Creature,Common,Goblin
-39,Creature,Legendary,Snow Knight Giant of the Border
-40,Creature,Common,Dwarf
-41,Creature,Common,Warlock
-42,Creature,Legendary,Earth Lord Kraken of the West
-43,Spell,Common,Pandemonium
-44,Creature,Rare,Snow Rogue Skin-Walker
+==================,DECK,5443
+0,Creature,Skin-Walker
+1,Enchantment,Necro Strength
+2,Creature,Magi
+3,Creature,Dark Ancient Demon of Illusion
+4,Artifact,Corpse Gloves
+5,Creature,Troll
+6,Enchantment,Agony
+7,Spell,Gale
+8,Creature,Death Rogue Oni of the Mountains
+9,Spell,Frost
+10,Artifact,Tome
+11,Creature,Paladin
+12,Enchantment,Shrink
+13,Creature,Fairy
+14,Creature,Magi
+15,Spell,Vortex
+16,Creature,Paladin
+17,Artifact,Amulet
+18,Enchantment,Corpse Age
+19,Spell,Urgent Gloom Ice
+20,Spell,Lightning
+21,Spell,Fireball
+22,Creature,Aura Rogue Hydra
+23,Creature,Magi
+24,Enchantment,Necro Strength
+25,Spell,Empyrean Dark Fireball
+26,Creature,Death Undead Dragon of the Dead
+27,Artifact,Scythe
+28,Enchantment,Instant Gloom Shrink
+29,Spell,Torment
+30,Creature,Dark Merchant Hydra
+31,Creature,Aura Warrior Cyclops
+32,Creature,Snow King Cyclops
+33,Creature,Aura Chaos Demon of the Light
+34,Spell,Urgent Nimble Gale
+35,Creature,Dark Fighter Kraken
+36,Artifact,Life Ring
+37,Spell,Hypnosis
+38,Creature,Skin-Walker
+39,Creature,Snow Knight Dwarf of the Border
+40,Creature,Magi
+41,Creature,Berserker
+42,Creature,Earth Lord Ogre of the West
+43,Spell,Sorrow
+44,Creature,Snow Rogue Orc

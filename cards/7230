@@ -1,46 +1,46 @@
-==================,DECK,7230,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Orc
-2,Enchantment,Rare,Lunar Deathgrip
-3,Creature,Common,Warlock
-4,Artifact,Common,Bow
-5,Spell,Common,Hypnosis
-6,Artifact,Common,Bow
-7,Creature,Common,Eagle
-8,Creature,Common,Paladin
-9,Enchantment,Common,Shade
-10,Spell,Common,Reanimate
-11,Enchantment,Common,Shrink
-12,Creature,Common,Goblin
-13,Enchantment,Common,Invert
-14,Enchantment,Mythic,Clever Strength
-15,Spell,Rare,Necro Infuriate
-16,Creature,Common,Warlock
-17,Creature,Common,Wolf
-18,Creature,Common,Paladin
-19,Creature,Legendary,Earth Priest Giant of the West
-20,Creature,Rare,Death Lord Skin-Walker
-21,Creature,Common,Wolf
-22,Spell,Common,Burn
-23,Creature,Mythic,Aura Nameless Dragon of the Light
-24,Creature,Rare,Snow Thief Berserker
-25,Artifact,Rare,Frigid Amulet
-26,Creature,Rare,Earth Lord Griffin
-27,Spell,Common,Gravitation
-28,Creature,Common,Paladin
-29,Creature,Rare,Earth Assassin Griffin
-30,Artifact,Common,Divine Robe
-31,Spell,Rare,Grim Torment
-32,Spell,Rare,Apocalypse Burn
-33,Creature,Rare,Snow King Fairy
-34,Creature,Common,Goblin
-35,Creature,Rare,Aura Knight Minotaur
-36,Creature,Mythic,Earth Grand Demon of the Shadows
-37,Spell,Rare,Oblivion Invisibility
-38,Spell,Rare,Nature Ice
-39,Enchantment,Common,Lethargy
-40,Spell,Legendary,Potent Lightning
-41,Spell,Common,Burst
-42,Artifact,Common,Belt
-43,Artifact,Common,Helmet
-44,Enchantment,Common,Invert
+==================,DECK,7230
+0,Creature,Magi
+1,Creature,Spider
+2,Enchantment,Sorrow Firebreath
+3,Creature,Berserker
+4,Artifact,Bow
+5,Spell,Invisibility
+6,Artifact,Bow
+7,Creature,Eagle
+8,Creature,Troll
+9,Enchantment,Shrink
+10,Spell,Hypnosis
+11,Enchantment,Lethargy
+12,Creature,Skin-Walker
+13,Enchantment,Shrink
+14,Enchantment,Ardent Nimble Haste
+15,Spell,Hateful Heal
+16,Creature,Berserker
+17,Creature,Wolf
+18,Creature,Troll
+19,Creature,Earth Priest Dwarf of the West
+20,Creature,Death Lord Orc
+21,Creature,Wolf
+22,Spell,Gale
+23,Creature,Aura Nameless Dragon of the Light
+24,Creature,Snow Thief Goblin
+25,Artifact,Grim Amulet
+26,Creature,Earth Lord Griffin
+27,Spell,Torment
+28,Creature,Troll
+29,Creature,Earth Assassin Griffin
+30,Artifact,Divine Robe
+31,Spell,Apocalypse Wall
+32,Spell,Grim Maelstrom
+33,Creature,Snow King Kraken
+34,Creature,Skin-Walker
+35,Creature,Aura Knight Cyclops
+36,Creature,Earth Grand Demon of the Shadows
+37,Spell,Victory Fury
+38,Spell,Corpse Maelstrom
+39,Enchantment,Age
+40,Spell,Irate Oblivion Assault
+41,Spell,Burn
+42,Artifact,Belt
+43,Artifact,Helmet
+44,Enchantment,Age

@@ -1,46 +1,46 @@
-==================,DECK,7470,Light
-0,Spell,Common,Wall
-1,Enchantment,Legendary,Extreme Lethargy
-2,Spell,Common,Burst
-3,Artifact,Common,Ring
-4,Enchantment,Common,Flight
-5,Creature,Common,Warlock
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Artifact,Common,Ghost Wand
-9,Creature,Common,Eagle
-10,Artifact,Common,Greaves
-11,Creature,Common,Paladin
-12,Spell,Legendary,Urgent Maelstrom
-13,Enchantment,Common,Shade
-14,Spell,Common,Burst
-15,Creature,Common,Spider
-16,Artifact,Common,Divine Robe
-17,Enchantment,Legendary,Angry Shrink
-18,Spell,Rare,Frigid Invisibility
-19,Enchantment,Rare,Grim Shade
-20,Creature,Common,Wolf
-21,Spell,Rare,Solar Heal
-22,Creature,Common,Eagle
-23,Creature,Common,Eagle
-24,Creature,Common,Goblin
-25,Enchantment,Common,Flight
-26,Creature,Common,Wolf
-27,Spell,Rare,Miracle Ice
-28,Spell,Common,Gravitation
-29,Enchantment,Common,Haste
-30,Creature,Common,Elf
-31,Creature,Legendary,Light Knight Cyclops of the Border
-32,Creature,Common,Eagle
-33,Spell,Legendary,Potent Rage
-34,Creature,Common,Ghoul
-35,Enchantment,Rare,Hateful Deathgrip
-36,Creature,Rare,Death King Minotaur
-37,Enchantment,Mythic,Clever Blight
-38,Spell,Common,Hypnosis
-39,Enchantment,Legendary,Potent Blight
-40,Creature,Common,Elf
-41,Creature,Common,Orc
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Rare,Nature Age
-44,Spell,Common,Infuriate
+==================,DECK,7470
+0,Spell,Vortex
+1,Enchantment,Irate Lunar Alacrity
+2,Spell,Reanimate
+3,Artifact,Ring
+4,Enchantment,Flight
+5,Creature,Berserker
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Artifact,Ghost Wand
+9,Creature,Eagle
+10,Artifact,Greaves
+11,Creature,Troll
+12,Spell,Clever Nature Tempest
+13,Enchantment,Drain
+14,Spell,Burst
+15,Creature,Paladin
+16,Artifact,Divine Robe
+17,Enchantment,Mighty Chimeric Flight
+18,Spell,Grim Revive
+19,Enchantment,Frigid Invert
+20,Creature,Wolf
+21,Spell,Solar Sorrow
+22,Creature,Eagle
+23,Creature,Eagle
+24,Creature,Skin-Walker
+25,Enchantment,Shrink
+26,Creature,Wolf
+27,Spell,Apocalypse Sorrow
+28,Spell,Frost
+29,Enchantment,Deathgrip
+30,Creature,Warlock
+31,Creature,Light Knight Giant of the Border
+32,Creature,Eagle
+33,Spell,Urgent Victory Reanimate
+34,Creature,Ghoul
+35,Enchantment,Sorrow Alacrity
+36,Creature,Death King Cyclops
+37,Enchantment,Zealous Nimble Blight
+38,Spell,Tempest
+39,Enchantment,Zealous Nimble Blight
+40,Creature,Warlock
+41,Creature,Spider
+42,Enchantment,Deathgrip
+43,Enchantment,Nature Lethargy
+44,Spell,Gale

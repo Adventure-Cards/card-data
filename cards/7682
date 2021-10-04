@@ -1,46 +1,46 @@
-==================,DECK,7682,Medium
-0,Creature,Legendary,Snow Monk Kraken of the Bright Mountains
-1,Spell,Common,Ice
-2,Enchantment,Rare,Solar Strength
-3,Spell,Common,Rage
-4,Artifact,Common,Boots
-5,Enchantment,Common,Flight
-6,Spell,Common,Stun
-7,Creature,Common,Spider
-8,Enchantment,Rare,Cataclysmic Flight
-9,Enchantment,Common,Deathgrip
-10,Spell,Common,Invisibility
-11,Creature,Common,Warlock
-12,Enchantment,Common,Shield
-13,Creature,Mythic,Light Time Dragon of the Sky
-14,Creature,Rare,Earth Fighter Hydra
-15,Artifact,Common,Bracers
-16,Creature,Common,Ghoul
-17,Creature,Common,Paladin
-18,Creature,Common,Wolf
-19,Creature,Rare,Frozen Queen Minotaur
-20,Creature,Common,Warlock
-21,Enchantment,Common,Strength
-22,Enchantment,Common,Lethargy
-23,Creature,Legendary,Earth Warrior Oni of the Frozen Castle
-24,Enchantment,Legendary,Angry Shade
-25,Creature,Rare,Death Rogue Griffin
-26,Creature,Common,Magi
-27,Creature,Rare,Frozen Queen Skin-Walker
-28,Enchantment,Rare,Forged Agony
-29,Creature,Common,Warlock
-30,Enchantment,Common,Deathgrip
-31,Artifact,Rare,Corpse Helm
-32,Enchantment,Common,Shield
-33,Spell,Rare,Forged Torment
-34,Enchantment,Common,Drain
-35,Creature,Rare,Dark Fighter Griffin
-36,Spell,Rare,Apocalypse Stun
-37,Creature,Common,Paladin
-38,Artifact,Common,Tome
-39,Artifact,Rare,Necro Greaves
-40,Creature,Rare,Death King Griffin
-41,Spell,Common,Fury
-42,Spell,Common,Rage
-43,Creature,Rare,Death Fighter Fairy
-44,Creature,Common,Wolf
+==================,DECK,7682
+0,Creature,Snow Monk Ogre of the Bright Mountains
+1,Spell,Fire
+2,Enchantment,Solar Lethargy
+3,Spell,Revive
+4,Artifact,Boots
+5,Enchantment,Deathgrip
+6,Spell,Vortex
+7,Creature,Paladin
+8,Enchantment,Lunar Shrink
+9,Enchantment,Blight
+10,Spell,Heal
+11,Creature,Berserker
+12,Enchantment,Shield
+13,Creature,Light Time Dragon of the Sky
+14,Creature,Earth Fighter Hydra
+15,Artifact,Bracers
+16,Creature,Ghoul
+17,Creature,Troll
+18,Creature,Wolf
+19,Creature,Frozen Queen Cyclops
+20,Creature,Berserker
+21,Enchantment,Strength
+22,Enchantment,Shade
+23,Creature,Earth Warrior Oni of the Frozen Castle
+24,Enchantment,Urgent Chimeric Flight
+25,Creature,Death Rogue Griffin
+26,Creature,Fairy
+27,Creature,Frozen Queen Orc
+28,Enchantment,Miracle Shield
+29,Creature,Berserker
+30,Enchantment,Strength
+31,Artifact,Necro Helm
+32,Enchantment,Haste
+33,Spell,Cataclysmic Frost
+34,Enchantment,Strength
+35,Creature,Dark Fighter Griffin
+36,Spell,Oblivion Burst
+37,Creature,Troll
+38,Artifact,Tome
+39,Artifact,Necro Greaves
+40,Creature,Death King Griffin
+41,Spell,Rage
+42,Spell,Vortex
+43,Creature,Death Fighter Kraken
+44,Creature,Wolf

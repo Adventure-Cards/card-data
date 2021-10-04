@@ -1,46 +1,46 @@
-==================,DECK,5172,Light
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Magi
-2,Enchantment,Rare,Nature Flight
-3,Spell,Common,Lightning
-4,Creature,Common,Orc
-5,Enchantment,Common,Deathgrip
-6,Spell,Rare,Shimmering Gale
-7,Creature,Common,Dwarf
-8,Creature,Common,Ghoul
-9,Enchantment,Rare,Grim Invert
-10,Enchantment,Rare,Corpse Agony
-11,Enchantment,Rare,Gloom Shade
-12,Artifact,Common,Scythe
-13,Spell,Common,Hypnosis
-14,Artifact,Rare,Life Shield
-15,Creature,Common,Dwarf
-16,Creature,Rare,Dark King Fairy
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Age
-19,Creature,Common,Eagle
-20,Creature,Rare,Frozen Undead Skin-Walker
-21,Spell,Rare,Life Fury
-22,Enchantment,Common,Shrink
-23,Creature,Common,Eagle
-24,Spell,Common,Stricken
-25,Creature,Common,Spider
-26,Creature,Legendary,Light Undead Giant of the Eternal Land
-27,Creature,Rare,Earth Merchant Fairy
-28,Enchantment,Rare,Miracle Deathgrip
-29,Enchantment,Common,Shrink
-30,Creature,Common,Goblin
-31,Creature,Rare,Dark Lord Fairy
-32,Spell,Common,Assault
-33,Enchantment,Rare,Apocalypse Haste
-34,Creature,Rare,Light Monk Minotaur
-35,Creature,Common,Eagle
-36,Artifact,Common,Bracers
-37,Enchantment,Common,Shade
-38,Creature,Rare,Death King Minotaur
-39,Creature,Common,Elf
-40,Enchantment,Common,Lethargy
-41,Artifact,Common,Bow
-42,Spell,Rare,Life Stun
-43,Enchantment,Legendary,Potent Drain
-44,Creature,Common,Elf
+==================,DECK,5172
+0,Enchantment,Agony
+1,Creature,Fairy
+2,Enchantment,Hateful Lethargy
+3,Spell,Freeze
+4,Creature,Spider
+5,Enchantment,Firebreath
+6,Spell,Corpse Vortex
+7,Creature,Magi
+8,Creature,Ghoul
+9,Enchantment,Oblivion Drain
+10,Enchantment,Corpse Agony
+11,Enchantment,Chimeric Flight
+12,Artifact,Scythe
+13,Spell,Stun
+14,Artifact,Victory Shield
+15,Creature,Magi
+16,Creature,Dark King Kraken
+17,Enchantment,Age
+18,Enchantment,Drain
+19,Creature,Eagle
+20,Creature,Frozen Undead Orc
+21,Spell,Apocalypse Fire
+22,Enchantment,Shade
+23,Creature,Eagle
+24,Spell,Revive
+25,Creature,Paladin
+26,Creature,Light Undead Dwarf of the Eternal Land
+27,Creature,Earth Merchant Kraken
+28,Enchantment,Oblivion Blight
+29,Enchantment,Shield
+30,Creature,Skin-Walker
+31,Creature,Dark Lord Kraken
+32,Spell,Maelstrom
+33,Enchantment,Life Invert
+34,Creature,Light Monk Cyclops
+35,Creature,Eagle
+36,Artifact,Bracers
+37,Enchantment,Shade
+38,Creature,Death King Cyclops
+39,Creature,Warlock
+40,Enchantment,Firebreath
+41,Artifact,Bow
+42,Spell,Life Freeze
+43,Enchantment,Mighty Apocalypse Invert
+44,Creature,Warlock

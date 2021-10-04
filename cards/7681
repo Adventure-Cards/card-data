@@ -1,46 +1,46 @@
-==================,DECK,7681,Light
-0,Creature,Legendary,Earth Thief Cyclops of the Low Hills
-1,Artifact,Common,Potion
-2,Artifact,Rare,Nimble Bracers
-3,Enchantment,Common,Deathgrip
-4,Creature,Legendary,Snow Merchant Giant of the Bright Mountains
-5,Artifact,Common,Potion
-6,Enchantment,Rare,Dark Lethargy
-7,Creature,Common,Eagle
-8,Creature,Legendary,Death King Cyclops of the Low Hills
-9,Artifact,Legendary,Clever Scythe
-10,Creature,Common,Elf
-11,Spell,Common,Ice
-12,Enchantment,Common,Flight
-13,Creature,Legendary,Death King Oni of the Black Stone
-14,Enchantment,Common,Invert
-15,Creature,Common,Elf
-16,Creature,Common,Dwarf
-17,Enchantment,Common,Invert
-18,Artifact,Common,Greaves
-19,Creature,Common,Goblin
-20,Creature,Mythic,Aura Chaos Wizard of the Light
-21,Creature,Common,Warlock
-22,Spell,Rare,Shimmering Infuriate
-23,Enchantment,Common,Age
-24,Creature,Common,Ghoul
-25,Spell,Rare,Miracle Stun
-26,Creature,Common,Dwarf
-27,Spell,Common,Torment
-28,Enchantment,Common,Shrink
-29,Creature,Common,Magi
-30,Spell,Common,Rage
-31,Spell,Common,Infuriate
-32,Spell,Common,Frost
-33,Creature,Common,Warlock
-34,Enchantment,Common,Flight
-35,Spell,Common,Sorrow
-36,Creature,Common,Magi
-37,Creature,Legendary,Earth Thief Kraken of the Border
-38,Spell,Common,Pandemonium
-39,Enchantment,Common,Invert
-40,Creature,Legendary,Snow King Kraken of the Black Stone
-41,Enchantment,Common,Shrink
-42,Creature,Common,Spider
-43,Artifact,Common,Staff
-44,Creature,Rare,Snow Undead Griffin
+==================,DECK,7681
+0,Creature,Earth Thief Giant of the Low Hills
+1,Artifact,Potion
+2,Artifact,Forged Bracers
+3,Enchantment,Blight
+4,Creature,Snow Merchant Dwarf of the Bright Mountains
+5,Artifact,Potion
+6,Enchantment,Lunar Shield
+7,Creature,Eagle
+8,Creature,Death King Giant of the Low Hills
+9,Artifact,Empyrean Frigid Scythe
+10,Creature,Warlock
+11,Spell,Tempest
+12,Enchantment,Shrink
+13,Creature,Death King Oni of the Black Stone
+14,Enchantment,Shrink
+15,Creature,Warlock
+16,Creature,Magi
+17,Enchantment,Lethargy
+18,Artifact,Greaves
+19,Creature,Skin-Walker
+20,Creature,Aura Chaos Wizard of the Light
+21,Creature,Berserker
+22,Spell,Forged Rage
+23,Enchantment,Lethargy
+24,Creature,Ghoul
+25,Spell,Oblivion Frost
+26,Creature,Magi
+27,Spell,Burn
+28,Enchantment,Deathgrip
+29,Creature,Fairy
+30,Spell,Lightning
+31,Spell,Maelstrom
+32,Spell,Stricken
+33,Creature,Berserker
+34,Enchantment,Alacrity
+35,Spell,Rage
+36,Creature,Fairy
+37,Creature,Earth Thief Ogre of the Border
+38,Spell,Frenzy
+39,Enchantment,Shade
+40,Creature,Snow King Ogre of the Black Stone
+41,Enchantment,Haste
+42,Creature,Paladin
+43,Artifact,Staff
+44,Creature,Snow Undead Griffin

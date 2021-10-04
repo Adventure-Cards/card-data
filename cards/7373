@@ -1,46 +1,46 @@
-==================,DECK,7373,Light
-0,Creature,Rare,Frozen Knight Hydra
-1,Spell,Common,Gale
-2,Creature,Common,Orc
-3,Creature,Common,Elf
-4,Artifact,Rare,Corpse Greaves
-5,Enchantment,Common,Lethargy
-6,Artifact,Rare,Corpse Gloves
-7,Creature,Legendary,Earth Priest Oni of the Black Stone
-8,Creature,Common,Spider
-9,Spell,Common,Reanimate
-10,Creature,Rare,Frozen Knight Skin-Walker
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Elf
-13,Creature,Rare,Death Assassin Minotaur
-14,Creature,Rare,Dark Priest Berserker
-15,Creature,Common,Elf
-16,Artifact,Common,Helm
-17,Creature,Legendary,Aura Fighter Orge of the Plains
-18,Creature,Legendary,Aura Lord Orge of the Border
-19,Enchantment,Common,Drain
-20,Creature,Rare,Snow Priest Skin-Walker
-21,Creature,Common,Warlock
-22,Spell,Common,Fury
-23,Spell,Rare,Lunar Stun
-24,Spell,Common,Assault
-25,Creature,Legendary,Dark Priest Giant of the Bright Mountains
-26,Enchantment,Common,Invert
-27,Spell,Common,Stricken
-28,Artifact,Common,Sword
-29,Spell,Common,Gravitation
-30,Spell,Common,Burst
-31,Creature,Legendary,Frozen Warrior Orge of the Frozen Castle
-32,Enchantment,Common,Lethargy
-33,Spell,Common,Vortex
-34,Creature,Common,Orc
-35,Spell,Common,Sorrow
-36,Artifact,Common,Pendant
-37,Creature,Common,Eagle
-38,Spell,Rare,Oblivion Heal
-39,Spell,Common,Sorrow
-40,Spell,Common,Frost
-41,Enchantment,Common,Haste
-42,Spell,Common,Burst
-43,Creature,Legendary,Frozen Merchant Cyclops of the Arctic Blizzards
-44,Artifact,Common,Ghost Wand
+==================,DECK,7373
+0,Creature,Frozen Knight Hydra
+1,Spell,Hypnosis
+2,Creature,Spider
+3,Creature,Warlock
+4,Artifact,Necro Greaves
+5,Enchantment,Strength
+6,Artifact,Shimmering Gloves
+7,Creature,Earth Priest Oni of the Black Stone
+8,Creature,Paladin
+9,Spell,Sorrow
+10,Creature,Frozen Knight Orc
+11,Enchantment,Age
+12,Creature,Warlock
+13,Creature,Death Assassin Cyclops
+14,Creature,Dark Priest Goblin
+15,Creature,Warlock
+16,Artifact,Helm
+17,Creature,Aura Fighter Elf of the Plains
+18,Creature,Aura Lord Elf of the Border
+19,Enchantment,Deathgrip
+20,Creature,Snow Priest Orc
+21,Creature,Berserker
+22,Spell,Vortex
+23,Spell,Sorrow Ice
+24,Spell,Stun
+25,Creature,Dark Priest Dwarf of the Bright Mountains
+26,Enchantment,Alacrity
+27,Spell,Ice
+28,Artifact,Sword
+29,Spell,Burn
+30,Spell,Assault
+31,Creature,Frozen Warrior Elf of the Frozen Castle
+32,Enchantment,Drain
+33,Spell,Revive
+34,Creature,Spider
+35,Spell,Freeze
+36,Artifact,Pendant
+37,Creature,Eagle
+38,Spell,Oblivion Stun
+39,Spell,Torment
+40,Spell,Vortex
+41,Enchantment,Drain
+42,Spell,Sorrow
+43,Creature,Frozen Merchant Giant of the Arctic Blizzards
+44,Artifact,Ghost Wand

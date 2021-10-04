@@ -1,46 +1,46 @@
-==================,DECK,7538,Light
-0,Creature,Mythic,Light Nameless Dragon of the Sky
-1,Creature,Mythic,Light Ancient Demon of the Sky
-2,Creature,Common,Orc
-3,Creature,Common,Orc
-4,Enchantment,Common,Shield
-5,Enchantment,Common,Invert
-6,Creature,Common,Warlock
-7,Creature,Common,Spider
-8,Creature,Common,Elf
-9,Spell,Rare,Dark Heal
-10,Spell,Rare,Necro Infuriate
-11,Spell,Common,Infuriate
-12,Artifact,Common,Boots
-13,Enchantment,Common,Drain
-14,Spell,Common,Fury
-15,Creature,Common,Wolf
-16,Artifact,Common,Potion
-17,Creature,Common,Dwarf
-18,Spell,Common,Frost
-19,Creature,Mythic,Aura Undead Phoenix of the Light
-20,Creature,Common,Spider
-21,Enchantment,Mythic,Angry Agony
-22,Creature,Common,Orc
-23,Creature,Common,Goblin
-24,Creature,Common,Goblin
-25,Enchantment,Common,Shrink
-26,Creature,Common,Warlock
-27,Creature,Common,Eagle
-28,Artifact,Common,Sword
-29,Spell,Rare,Hateful Fury
-30,Artifact,Rare,Shimmering Shield
-31,Spell,Common,Hypnosis
-32,Artifact,Rare,Solar Gloves
-33,Creature,Common,Spider
-34,Enchantment,Mythic,Angry Strength
-35,Spell,Common,Fury
-36,Spell,Common,Assault
-37,Enchantment,Mythic,Mighty Lethargy
-38,Artifact,Common,Bow
-39,Enchantment,Mythic,Intense Shade
-40,Artifact,Common,Boots
-41,Enchantment,Common,Agony
-42,Enchantment,Common,Deathgrip
-43,Creature,Common,Goblin
-44,Enchantment,Common,Drain
+==================,DECK,7538
+0,Creature,Light Nameless Dragon of the Sky
+1,Creature,Light Ancient Demon of the Sky
+2,Creature,Spider
+3,Creature,Spider
+4,Enchantment,Flight
+5,Enchantment,Shrink
+6,Creature,Berserker
+7,Creature,Paladin
+8,Creature,Warlock
+9,Spell,Cataclysmic Invisibility
+10,Spell,Forged Lightning
+11,Spell,Hypnosis
+12,Artifact,Boots
+13,Enchantment,Alacrity
+14,Spell,Revive
+15,Creature,Wolf
+16,Artifact,Potion
+17,Creature,Magi
+18,Spell,Wall
+19,Creature,Aura Undead Phoenix of the Light
+20,Creature,Paladin
+21,Enchantment,Irate Miracle Alacrity
+22,Creature,Spider
+23,Creature,Skin-Walker
+24,Creature,Skin-Walker
+25,Enchantment,Agony
+26,Creature,Berserker
+27,Creature,Eagle
+28,Artifact,Sword
+29,Spell,Sorrow Stun
+30,Artifact,Solar Shield
+31,Spell,Sorrow
+32,Artifact,Shimmering Gloves
+33,Creature,Paladin
+34,Enchantment,Urgent Cataclysmic Flight
+35,Spell,Gravitation
+36,Spell,Stricken
+37,Enchantment,Urgent Lunar Flight
+38,Artifact,Bow
+39,Enchantment,Urgent Necro Agony
+40,Artifact,Boots
+41,Enchantment,Strength
+42,Enchantment,Lethargy
+43,Creature,Skin-Walker
+44,Enchantment,Lethargy

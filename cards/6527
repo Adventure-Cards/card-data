@@ -1,46 +1,46 @@
-==================,DECK,6527,Light
-0,Spell,Common,Frenzy
-1,Creature,Legendary,Snow Fighter Orge of the Swamp
-2,Creature,Rare,Death Fighter Minotaur
-3,Creature,Common,Goblin
-4,Enchantment,Common,Drain
-5,Creature,Legendary,Dark Knight Kraken of the Haven
-6,Enchantment,Common,Shrink
-7,Creature,Common,Paladin
-8,Creature,Mythic,Earth Ancient Wizard of the Shadows
-9,Spell,Common,Stricken
-10,Spell,Common,Reanimate
-11,Enchantment,Common,Strength
-12,Enchantment,Rare,Dark Strength
-13,Spell,Rare,Forged Vortex
-14,Enchantment,Common,Shade
-15,Creature,Common,Elf
-16,Enchantment,Common,Strength
-17,Creature,Common,Paladin
-18,Creature,Rare,Dark Priest Griffin
-19,Creature,Common,Dwarf
-20,Creature,Common,Wolf
-21,Creature,Common,Wolf
-22,Spell,Rare,Frigid Revive
-23,Spell,Common,Gale
-24,Spell,Common,Gravitation
-25,Creature,Common,Goblin
-26,Creature,Common,Orc
-27,Artifact,Rare,Grim Gloves
-28,Creature,Legendary,Light Monk Orge of the Polar Woods
-29,Enchantment,Mythic,Potent Blight
-30,Creature,Common,Eagle
-31,Enchantment,Common,Lethargy
-32,Creature,Rare,Death Lord Minotaur
-33,Enchantment,Common,Shade
-34,Enchantment,Common,Drain
-35,Spell,Common,Assault
-36,Enchantment,Common,Shrink
-37,Creature,Rare,Aura Rogue Minotaur
-38,Spell,Common,Hypnosis
-39,Creature,Common,Orc
-40,Enchantment,Common,Deathgrip
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Spider
-43,Enchantment,Rare,Solar Invert
-44,Creature,Common,Orc
+==================,DECK,6527
+0,Spell,Burst
+1,Creature,Snow Fighter Elf of the Swamp
+2,Creature,Death Fighter Cyclops
+3,Creature,Skin-Walker
+4,Enchantment,Blight
+5,Creature,Dark Knight Ogre of the Haven
+6,Enchantment,Deathgrip
+7,Creature,Troll
+8,Creature,Earth Ancient Wizard of the Shadows
+9,Spell,Tempest
+10,Spell,Reanimate
+11,Enchantment,Agony
+12,Enchantment,Cataclysmic Flight
+13,Spell,Gloom Freeze
+14,Enchantment,Firebreath
+15,Creature,Warlock
+16,Enchantment,Blight
+17,Creature,Troll
+18,Creature,Dark Priest Griffin
+19,Creature,Magi
+20,Creature,Wolf
+21,Creature,Wolf
+22,Spell,Grim Gale
+23,Spell,Maelstrom
+24,Spell,Fireball
+25,Creature,Skin-Walker
+26,Creature,Spider
+27,Artifact,Oblivion Gloves
+28,Creature,Light Monk Elf of the Polar Woods
+29,Enchantment,Empyrean Nimble Shade
+30,Creature,Eagle
+31,Enchantment,Drain
+32,Creature,Death Lord Cyclops
+33,Enchantment,Lethargy
+34,Enchantment,Shield
+35,Spell,Gale
+36,Enchantment,Blight
+37,Creature,Aura Rogue Cyclops
+38,Spell,Maelstrom
+39,Creature,Spider
+40,Enchantment,Alacrity
+41,Enchantment,Strength
+42,Creature,Paladin
+43,Enchantment,Shimmering Lethargy
+44,Creature,Spider

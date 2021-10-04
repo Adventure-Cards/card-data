@@ -1,46 +1,46 @@
-==================,DECK,4750,Medium
-0,Spell,Common,Sorrow
-1,Spell,Common,Burst
-2,Spell,Rare,Necro Maelstrom
-3,Creature,Rare,Light Warrior Minotaur
-4,Enchantment,Mythic,Potent Shade
-5,Spell,Common,Reanimate
-6,Enchantment,Common,Age
-7,Creature,Mythic,Frozen Chaos Demon of the Void
-8,Artifact,Rare,Corpse Sword
-9,Creature,Mythic,Dark Grand Demon of Illusion
-10,Creature,Common,Wolf
-11,Enchantment,Mythic,Instant Alacrity
-12,Creature,Rare,Death Undead Fairy
-13,Creature,Rare,Dark Thief Griffin
-14,Creature,Rare,Snow Assassin Fairy
-15,Creature,Mythic,Aura Undead Dragon of the Light
-16,Creature,Rare,Aura Undead Hydra
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Ice
-19,Enchantment,Mythic,Instant Shield
-20,Creature,Common,Warlock
-21,Creature,Rare,Light Rogue Skin-Walker
-22,Enchantment,Rare,Cataclysmic Flight
-23,Creature,Common,Paladin
-24,Creature,Rare,Snow Knight Griffin
-25,Spell,Rare,Forged Heal
-26,Enchantment,Common,Flight
-27,Spell,Rare,Gloom Frost
-28,Creature,Rare,Frozen Fighter Griffin
-29,Creature,Rare,Light Merchant Minotaur
-30,Artifact,Common,Scepter
-31,Spell,Rare,Life Maelstrom
-32,Spell,Rare,Lunar Burn
-33,Creature,Common,Ghoul
-34,Spell,Rare,Gloom Frenzy
-35,Enchantment,Rare,Life Deathgrip
-36,Creature,Common,Goblin
-37,Artifact,Rare,Dark Staff
-38,Artifact,Common,Divine Robe
-39,Enchantment,Common,Flight
-40,Spell,Legendary,Mighty Sorrow
-41,Spell,Common,Maelstrom
-42,Spell,Legendary,Mighty Rage
-43,Enchantment,Common,Drain
-44,Spell,Common,Stricken
+==================,DECK,4750
+0,Spell,Sorrow
+1,Spell,Infuriate
+2,Spell,Shimmering Assault
+3,Creature,Light Warrior Cyclops
+4,Enchantment,Irate Frigid Blight
+5,Spell,Revive
+6,Enchantment,Shrink
+7,Creature,Frozen Chaos Demon of the Void
+8,Artifact,Solar Sword
+9,Creature,Dark Grand Demon of Illusion
+10,Creature,Wolf
+11,Enchantment,Irate Forged Deathgrip
+12,Creature,Death Undead Kraken
+13,Creature,Dark Thief Griffin
+14,Creature,Snow Assassin Kraken
+15,Creature,Aura Undead Dragon of the Light
+16,Creature,Aura Undead Hydra
+17,Enchantment,Deathgrip
+18,Spell,Heal
+19,Enchantment,Dire Nature Age
+20,Creature,Berserker
+21,Creature,Light Rogue Orc
+22,Enchantment,Lunar Firebreath
+23,Creature,Troll
+24,Creature,Snow Knight Griffin
+25,Spell,Chimeric Torment
+26,Enchantment,Shield
+27,Spell,Chimeric Fire
+28,Creature,Frozen Fighter Griffin
+29,Creature,Light Merchant Cyclops
+30,Artifact,Scepter
+31,Spell,Grim Gravitation
+32,Spell,Miracle Fireball
+33,Creature,Ghoul
+34,Spell,Cataclysmic Pandemonium
+35,Enchantment,Oblivion Shade
+36,Creature,Skin-Walker
+37,Artifact,Chimeric Staff
+38,Artifact,Divine Robe
+39,Enchantment,Blight
+40,Spell,Zealous Miracle Fireball
+41,Spell,Fireball
+42,Spell,Ardent Miracle Wall
+43,Enchantment,Drain
+44,Spell,Tempest

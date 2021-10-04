@@ -1,46 +1,46 @@
-==================,DECK,5161,Strong
-0,Spell,Common,Invisibility
-1,Spell,Common,Vortex
-2,Creature,Common,Spider
-3,Artifact,Common,Cloak
-4,Spell,Common,Rage
-5,Creature,Common,Orc
-6,Creature,Legendary,Death Monk Giant of the Polar Woods
-7,Spell,Common,Ice
-8,Artifact,Common,Shield
-9,Enchantment,Mythic,Extreme Blight
-10,Creature,Common,Ghoul
-11,Artifact,Common,Staff
-12,Enchantment,Legendary,Clever Age
-13,Creature,Mythic,Death Grand Demon of the Dead
-14,Creature,Common,Elf
-15,Enchantment,Legendary,Extreme Lethargy
-16,Spell,Common,Stricken
-17,Creature,Common,Ghoul
-18,Creature,Common,Spider
-19,Creature,Common,Orc
-20,Creature,Common,Goblin
-21,Spell,Common,Vortex
-22,Artifact,Rare,Hateful Gloves
-23,Spell,Mythic,Clever Burn
-24,Enchantment,Legendary,Urgent Blight
-25,Creature,Rare,Earth Merchant Berserker
-26,Creature,Legendary,Light Chaos Wizard of the Sky
-27,Creature,Common,Paladin
-28,Creature,Common,Magi
-29,Creature,Mythic,Earth Chaos Demon of the Shadows
-30,Creature,Rare,Snow Knight Minotaur
-31,Artifact,Rare,Apocalypse Ring
-32,Creature,Mythic,Earth Time Phoenix of the Shadows
-33,Creature,Mythic,Aura Ancient Wizard of the Light
-34,Creature,Legendary,Dark Rogue Cyclops of the Golden Palace
-35,Spell,Rare,Solar Revive
-36,Creature,Legendary,Snow Grand Wizard of Hate
-37,Artifact,Rare,Lunar Ring
-38,Creature,Rare,Light Undead Berserker
-39,Artifact,Mythic,Extreme Sword
-40,Creature,Legendary,Snow Chaos Demon of Hate
-41,Spell,Legendary,Urgent Burn
-42,Creature,Common,Spider
-43,Enchantment,Rare,Forged Invert
-44,Creature,Common,Goblin
+==================,DECK,5161
+0,Spell,Gale
+1,Spell,Torment
+2,Creature,Paladin
+3,Artifact,Cloak
+4,Spell,Burst
+5,Creature,Spider
+6,Creature,Death Monk Dwarf of the Polar Woods
+7,Spell,Gravitation
+8,Artifact,Shield
+9,Enchantment,Mighty Cataclysmic Flight
+10,Creature,Ghoul
+11,Artifact,Staff
+12,Enchantment,Mighty Victory Invert
+13,Creature,Death Grand Demon of the Dead
+14,Creature,Warlock
+15,Enchantment,Urgent Lunar Flight
+16,Spell,Revive
+17,Creature,Ghoul
+18,Creature,Paladin
+19,Creature,Spider
+20,Creature,Skin-Walker
+21,Spell,Gale
+22,Artifact,Sorrow Gloves
+23,Spell,Clever Nimble Stun
+24,Enchantment,Mighty Solar Agony
+25,Creature,Earth Merchant Goblin
+26,Creature,Light Chaos Wizard of the Sky
+27,Creature,Troll
+28,Creature,Fairy
+29,Creature,Earth Chaos Demon of the Shadows
+30,Creature,Snow Knight Cyclops
+31,Artifact,Nimble Ring
+32,Creature,Earth Time Phoenix of the Shadows
+33,Creature,Aura Ancient Wizard of the Light
+34,Creature,Dark Rogue Giant of the Golden Palace
+35,Spell,Hateful Hypnosis
+36,Creature,Snow Grand Wizard of Hate
+37,Artifact,Lunar Ring
+38,Creature,Light Undead Goblin
+39,Artifact,Instant Lunar Sword
+40,Creature,Snow Chaos Demon of Hate
+41,Spell,Clever Nature Tempest
+42,Creature,Paladin
+43,Enchantment,Sorrow Alacrity
+44,Creature,Skin-Walker

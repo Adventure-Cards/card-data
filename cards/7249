@@ -1,46 +1,46 @@
-==================,DECK,7249,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Rare,Shimmering Age
-2,Creature,Rare,Frozen Thief Griffin
-3,Spell,Common,Sorrow
-4,Creature,Common,Eagle
-5,Spell,Common,Ice
-6,Creature,Common,Wolf
-7,Spell,Common,Stricken
-8,Spell,Common,Lightning
-9,Creature,Common,Goblin
-10,Spell,Legendary,Mighty Stun
-11,Enchantment,Common,Lethargy
-12,Spell,Common,Sorrow
-13,Creature,Common,Magi
-14,Artifact,Common,Boots
-15,Spell,Common,Torment
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Blight
-19,Creature,Mythic,Death Grand Wizard of the Dead
-20,Creature,Common,Warlock
-21,Spell,Common,Burn
-22,Enchantment,Legendary,Mighty Flight
-23,Creature,Common,Goblin
-24,Spell,Common,Reanimate
-25,Spell,Common,Maelstrom
-26,Artifact,Rare,Shimmering Bow
-27,Spell,Legendary,Urgent Stricken
-28,Creature,Common,Wolf
-29,Creature,Rare,Light Priest Griffin
-30,Enchantment,Rare,Lunar Shrink
-31,Spell,Rare,Life Gale
-32,Creature,Rare,Frozen Fighter Minotaur
-33,Artifact,Common,Crown
-34,Spell,Common,Frenzy
-35,Spell,Common,Reanimate
-36,Creature,Common,Magi
-37,Creature,Legendary,Death Knight Kraken of the Mountains
-38,Creature,Common,Warlock
-39,Artifact,Common,Boots
-40,Creature,Common,Paladin
-41,Creature,Common,Dwarf
-42,Artifact,Rare,Forged Ring
-43,Enchantment,Common,Blight
-44,Creature,Common,Warlock
+==================,DECK,7249
+0,Enchantment,Flight
+1,Enchantment,Nature Agony
+2,Creature,Frozen Thief Griffin
+3,Spell,Fireball
+4,Creature,Eagle
+5,Spell,Vortex
+6,Creature,Wolf
+7,Spell,Maelstrom
+8,Spell,Stun
+9,Creature,Skin-Walker
+10,Spell,Mighty Miracle Gale
+11,Enchantment,Haste
+12,Spell,Burn
+13,Creature,Fairy
+14,Artifact,Boots
+15,Spell,Hypnosis
+16,Enchantment,Deathgrip
+17,Creature,Magi
+18,Enchantment,Firebreath
+19,Creature,Death Grand Wizard of the Dead
+20,Creature,Berserker
+21,Spell,Stun
+22,Enchantment,Clever Lunar Shield
+23,Creature,Skin-Walker
+24,Spell,Maelstrom
+25,Spell,Fireball
+26,Artifact,Shimmering Bow
+27,Spell,Clever Nature Infuriate
+28,Creature,Wolf
+29,Creature,Light Priest Griffin
+30,Enchantment,Chimeric Firebreath
+31,Spell,Oblivion Fireball
+32,Creature,Frozen Fighter Cyclops
+33,Artifact,Crown
+34,Spell,Fire
+35,Spell,Invisibility
+36,Creature,Fairy
+37,Creature,Death Knight Ogre of the Mountains
+38,Creature,Berserker
+39,Artifact,Boots
+40,Creature,Troll
+41,Creature,Magi
+42,Artifact,Chimeric Ring
+43,Enchantment,Blight
+44,Creature,Berserker

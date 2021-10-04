@@ -1,46 +1,46 @@
-==================,DECK,7580,Light
-0,Creature,Common,Orc
-1,Creature,Common,Warlock
-2,Spell,Common,Ice
-3,Enchantment,Common,Deathgrip
-4,Enchantment,Common,Drain
-5,Creature,Common,Warlock
-6,Spell,Common,Maelstrom
-7,Creature,Common,Eagle
-8,Artifact,Common,Helm
-9,Creature,Common,Wolf
-10,Enchantment,Common,Alacrity
-11,Spell,Common,Rage
-12,Creature,Legendary,Earth Thief Orge of the West
-13,Creature,Common,Orc
-14,Creature,Rare,Snow Thief Berserker
-15,Creature,Common,Wolf
-16,Creature,Common,Warlock
-17,Creature,Common,Goblin
-18,Creature,Common,Paladin
-19,Creature,Common,Elf
-20,Creature,Common,Dwarf
-21,Creature,Rare,Aura Knight Skin-Walker
-22,Spell,Rare,Oblivion Invisibility
-23,Artifact,Common,Gloves
-24,Creature,Common,Goblin
-25,Spell,Common,Heal
-26,Spell,Common,Infuriate
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Deathgrip
-29,Spell,Common,Ice
-30,Creature,Legendary,Death Merchant Cyclops of the Golden Palace
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Goblin
-33,Artifact,Common,Sword
-34,Creature,Mythic,Earth Undead Phoenix of the Shadows
-35,Creature,Rare,Dark Thief Minotaur
-36,Spell,Legendary,Angry Stricken
-37,Creature,Common,Spider
-38,Spell,Rare,Shimmering Maelstrom
-39,Spell,Common,Rage
-40,Spell,Rare,Life Burst
-41,Spell,Rare,Apocalypse Pandemonium
-42,Spell,Common,Hypnosis
-43,Creature,Common,Orc
-44,Creature,Rare,Earth Monk Fairy
+==================,DECK,7580
+0,Creature,Spider
+1,Creature,Berserker
+2,Spell,Lightning
+3,Enchantment,Lethargy
+4,Enchantment,Age
+5,Creature,Berserker
+6,Spell,Pandemonium
+7,Creature,Eagle
+8,Artifact,Helm
+9,Creature,Wolf
+10,Enchantment,Shade
+11,Spell,Lightning
+12,Creature,Earth Thief Elf of the West
+13,Creature,Spider
+14,Creature,Snow Thief Goblin
+15,Creature,Wolf
+16,Creature,Berserker
+17,Creature,Skin-Walker
+18,Creature,Troll
+19,Creature,Warlock
+20,Creature,Magi
+21,Creature,Aura Knight Orc
+22,Spell,Oblivion Assault
+23,Artifact,Gloves
+24,Creature,Skin-Walker
+25,Spell,Maelstrom
+26,Spell,Heal
+27,Creature,Magi
+28,Enchantment,Invert
+29,Spell,Stun
+30,Creature,Death Merchant Giant of the Golden Palace
+31,Enchantment,Flight
+32,Creature,Skin-Walker
+33,Artifact,Sword
+34,Creature,Earth Undead Phoenix of the Shadows
+35,Creature,Dark Thief Cyclops
+36,Spell,Mighty Sorrow Gravitation
+37,Creature,Paladin
+38,Spell,Forged Pandemonium
+39,Spell,Freeze
+40,Spell,Apocalypse Assault
+41,Spell,Life Rage
+42,Spell,Tempest
+43,Creature,Spider
+44,Creature,Earth Monk Kraken

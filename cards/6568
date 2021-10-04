@@ -1,46 +1,46 @@
-==================,DECK,6568,Light
-0,Creature,Common,Orc
-1,Creature,Common,Ghoul
-2,Spell,Common,Sorrow
-3,Enchantment,Common,Strength
-4,Creature,Common,Ghoul
-5,Creature,Common,Paladin
-6,Creature,Common,Orc
-7,Creature,Common,Orc
-8,Spell,Rare,Life Gale
-9,Creature,Legendary,Light Thief Kraken of the Swamp
-10,Creature,Common,Eagle
-11,Enchantment,Common,Lethargy
-12,Creature,Rare,Dark Monk Minotaur
-13,Enchantment,Common,Flight
-14,Creature,Common,Ghoul
-15,Creature,Common,Elf
-16,Creature,Mythic,Death Chaos Wizard of the Dead
-17,Enchantment,Common,Agony
-18,Creature,Common,Eagle
-19,Spell,Legendary,Potent Gravitation
-20,Creature,Common,Magi
-21,Creature,Common,Warlock
-22,Creature,Common,Wolf
-23,Creature,Rare,Frozen Assassin Griffin
-24,Creature,Rare,Light King Berserker
-25,Creature,Common,Ghoul
-26,Spell,Common,Gravitation
-27,Creature,Common,Elf
-28,Creature,Common,Paladin
-29,Enchantment,Common,Lethargy
-30,Enchantment,Common,Strength
-31,Creature,Common,Ghoul
-32,Creature,Common,Ghoul
-33,Spell,Legendary,Urgent Frost
-34,Enchantment,Common,Shield
-35,Enchantment,Common,Haste
-36,Enchantment,Common,Shade
-37,Enchantment,Rare,Corpse Agony
-38,Spell,Common,Reanimate
-39,Enchantment,Common,Strength
-40,Creature,Common,Wolf
-41,Enchantment,Mythic,Extreme Strength
-42,Enchantment,Legendary,Mighty Invert
-43,Creature,Rare,Snow Assassin Berserker
-44,Creature,Common,Elf
+==================,DECK,6568
+0,Creature,Spider
+1,Creature,Ghoul
+2,Spell,Fireball
+3,Enchantment,Shield
+4,Creature,Ghoul
+5,Creature,Troll
+6,Creature,Spider
+7,Creature,Spider
+8,Spell,Frigid Rage
+9,Creature,Light Thief Ogre of the Swamp
+10,Creature,Eagle
+11,Enchantment,Shrink
+12,Creature,Dark Monk Cyclops
+13,Enchantment,Lethargy
+14,Creature,Ghoul
+15,Creature,Warlock
+16,Creature,Death Chaos Wizard of the Dead
+17,Enchantment,Shield
+18,Creature,Eagle
+19,Spell,Irate Oblivion Stun
+20,Creature,Fairy
+21,Creature,Berserker
+22,Creature,Wolf
+23,Creature,Frozen Assassin Griffin
+24,Creature,Light King Goblin
+25,Creature,Ghoul
+26,Spell,Stun
+27,Creature,Warlock
+28,Creature,Troll
+29,Enchantment,Shrink
+30,Enchantment,Lethargy
+31,Creature,Ghoul
+32,Creature,Ghoul
+33,Spell,Urgent Hateful Burst
+34,Enchantment,Flight
+35,Enchantment,Alacrity
+36,Enchantment,Agony
+37,Enchantment,Corpse Lethargy
+38,Spell,Frenzy
+39,Enchantment,Shield
+40,Creature,Wolf
+41,Enchantment,Instant Cataclysmic Shrink
+42,Enchantment,Ardent Sorrow Shield
+43,Creature,Snow Assassin Goblin
+44,Creature,Warlock

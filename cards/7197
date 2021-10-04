@@ -1,46 +1,46 @@
-==================,DECK,7197,Medium
-0,Spell,Rare,Necro Fury
-1,Artifact,Common,Ring
-2,Enchantment,Common,Lethargy
-3,Spell,Common,Torment
-4,Enchantment,Rare,Forged Shield
-5,Creature,Common,Paladin
-6,Enchantment,Common,Age
-7,Spell,Common,Vortex
-8,Creature,Common,Orc
-9,Creature,Common,Goblin
-10,Spell,Common,Hypnosis
-11,Spell,Common,Fury
-12,Artifact,Rare,Dark Helmet
-13,Spell,Rare,Necro Stricken
-14,Creature,Mythic,Dark Chaos Demon of Illusion
-15,Spell,Common,Sorrow
-16,Creature,Legendary,Dark Queen Orge of the Bright Mountains
-17,Creature,Legendary,Dark Queen Cyclops of the Magical Forest
-18,Artifact,Rare,Necro Belt
-19,Spell,Mythic,Intense Frost
-20,Creature,Common,Ghoul
-21,Spell,Common,Gravitation
-22,Enchantment,Common,Flight
-23,Creature,Common,Orc
-24,Enchantment,Common,Age
-25,Spell,Legendary,Potent Frenzy
-26,Creature,Rare,Aura King Hydra
-27,Spell,Rare,Apocalypse Infuriate
-28,Creature,Common,Elf
-29,Spell,Rare,Oblivion Freeze
-30,Creature,Legendary,Dark Lord Cyclops of the Polar Woods
-31,Spell,Common,Reanimate
-32,Artifact,Common,Bow
-33,Creature,Legendary,Aura Queen Cyclops of the Frozen Castle
-34,Artifact,Rare,Solar Ring
-35,Creature,Mythic,Frozen Time Dragon of the Void
-36,Creature,Common,Orc
-37,Artifact,Rare,Hateful Belt
-38,Artifact,Legendary,Instant Ghost Wand
-39,Artifact,Common,Boots
-40,Spell,Common,Assault
-41,Enchantment,Common,Lethargy
-42,Creature,Common,Orc
-43,Spell,Rare,Necro Maelstrom
-44,Enchantment,Common,Shade
+==================,DECK,7197
+0,Spell,Necro Sorrow
+1,Artifact,Ring
+2,Enchantment,Deathgrip
+3,Spell,Rage
+4,Enchantment,Gloom Flight
+5,Creature,Troll
+6,Enchantment,Agony
+7,Spell,Stun
+8,Creature,Spider
+9,Creature,Skin-Walker
+10,Spell,Stun
+11,Spell,Stricken
+12,Artifact,Gloom Helmet
+13,Spell,Forged Rage
+14,Creature,Dark Chaos Demon of Illusion
+15,Spell,Stricken
+16,Creature,Dark Queen Elf of the Bright Mountains
+17,Creature,Dark Queen Giant of the Magical Forest
+18,Artifact,Nature Belt
+19,Spell,Instant Solar Fury
+20,Creature,Ghoul
+21,Spell,Sorrow
+22,Enchantment,Shield
+23,Creature,Spider
+24,Enchantment,Shield
+25,Spell,Dire Victory Burst
+26,Creature,Aura King Hydra
+27,Spell,Apocalypse Gale
+28,Creature,Warlock
+29,Spell,Life Burst
+30,Creature,Dark Lord Giant of the Polar Woods
+31,Spell,Freeze
+32,Artifact,Bow
+33,Creature,Aura Queen Giant of the Frozen Castle
+34,Artifact,Shimmering Ring
+35,Creature,Frozen Time Dragon of the Void
+36,Creature,Spider
+37,Artifact,Cataclysmic Belt
+38,Artifact,Urgent Shimmering Ghost Wand
+39,Artifact,Boots
+40,Spell,Ice
+41,Enchantment,Drain
+42,Creature,Spider
+43,Spell,Hateful Ice
+44,Enchantment,Agony

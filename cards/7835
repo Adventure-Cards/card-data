@@ -1,46 +1,46 @@
-==================,DECK,7835,Light
-0,Creature,Mythic,Aura Chaos Demon of the Light
-1,Enchantment,Common,Invert
-2,Creature,Common,Magi
-3,Creature,Common,Wolf
-4,Creature,Mythic,Death Undead Phoenix of the Dead
-5,Creature,Common,Orc
-6,Enchantment,Rare,Nature Deathgrip
-7,Spell,Common,Frenzy
-8,Creature,Common,Wolf
-9,Creature,Common,Orc
-10,Creature,Legendary,Dark Rogue Cyclops of the Frozen Castle
-11,Spell,Rare,Forged Freeze
-12,Enchantment,Common,Blight
-13,Spell,Common,Vortex
-14,Spell,Legendary,Angry Wall
-15,Creature,Rare,Aura Queen Skin-Walker
-16,Enchantment,Common,Flight
-17,Enchantment,Common,Alacrity
-18,Creature,Rare,Death King Fairy
-19,Creature,Common,Elf
-20,Creature,Common,Dwarf
-21,Artifact,Common,Shield
-22,Enchantment,Common,Shade
-23,Creature,Common,Elf
-24,Creature,Common,Ghoul
-25,Creature,Common,Elf
-26,Creature,Common,Magi
-27,Creature,Common,Spider
-28,Artifact,Common,Sigil
-29,Artifact,Legendary,Mighty Helm
-30,Creature,Rare,Aura King Fairy
-31,Creature,Legendary,Dark Priest Cyclops of the Bright Mountains
-32,Creature,Common,Warlock
-33,Spell,Legendary,Instant Freeze
-34,Creature,Mythic,Aura Ancient Wizard of the Light
-35,Enchantment,Common,Drain
-36,Creature,Common,Spider
-37,Enchantment,Common,Age
-38,Creature,Common,Wolf
-39,Creature,Common,Eagle
-40,Creature,Rare,Death Queen Griffin
-41,Spell,Rare,Cataclysmic Reanimate
-42,Spell,Common,Torment
-43,Spell,Common,Frenzy
-44,Creature,Rare,Dark King Minotaur
+==================,DECK,7835
+0,Creature,Aura Chaos Demon of the Light
+1,Enchantment,Blight
+2,Creature,Fairy
+3,Creature,Wolf
+4,Creature,Death Undead Phoenix of the Dead
+5,Creature,Spider
+6,Enchantment,Shimmering Age
+7,Spell,Stun
+8,Creature,Wolf
+9,Creature,Spider
+10,Creature,Dark Rogue Giant of the Frozen Castle
+11,Spell,Chimeric Sorrow
+12,Enchantment,Invert
+13,Spell,Gravitation
+14,Spell,Urgent Cataclysmic Torment
+15,Creature,Aura Queen Orc
+16,Enchantment,Blight
+17,Enchantment,Alacrity
+18,Creature,Death King Kraken
+19,Creature,Warlock
+20,Creature,Magi
+21,Artifact,Shield
+22,Enchantment,Strength
+23,Creature,Warlock
+24,Creature,Ghoul
+25,Creature,Warlock
+26,Creature,Fairy
+27,Creature,Paladin
+28,Artifact,Sigil
+29,Artifact,Dire Gloom Helm
+30,Creature,Aura King Kraken
+31,Creature,Dark Priest Giant of the Bright Mountains
+32,Creature,Berserker
+33,Spell,Dire Necro Heal
+34,Creature,Aura Ancient Wizard of the Light
+35,Enchantment,Invert
+36,Creature,Paladin
+37,Enchantment,Shrink
+38,Creature,Wolf
+39,Creature,Eagle
+40,Creature,Death Queen Griffin
+41,Spell,Cataclysmic Gale
+42,Spell,Ice
+43,Spell,Lightning
+44,Creature,Dark King Cyclops

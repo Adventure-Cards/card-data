@@ -1,46 +1,46 @@
-==================,DECK,7311,Light
-0,Creature,Legendary,Death Warrior Giant of the Black Stone
-1,Creature,Common,Elf
-2,Enchantment,Rare,Apocalypse Flight
-3,Artifact,Rare,Corpse Amulet
-4,Creature,Legendary,Light Rogue Giant of the Magical Forest
-5,Spell,Common,Reanimate
-6,Spell,Common,Lightning
-7,Artifact,Legendary,Urgent Helmet
-8,Enchantment,Common,Blight
-9,Creature,Rare,Aura Rogue Minotaur
-10,Creature,Rare,Snow Rogue Hydra
-11,Artifact,Common,Cloak
-12,Enchantment,Common,Invert
-13,Creature,Legendary,Light Queen Cyclops of the Magical Forest
-14,Spell,Common,Heal
-15,Creature,Rare,Frozen Lord Fairy
-16,Creature,Rare,Death King Skin-Walker
-17,Creature,Common,Warlock
-18,Spell,Common,Ice
-19,Creature,Common,Eagle
-20,Creature,Common,Ghoul
-21,Creature,Rare,Earth Assassin Fairy
-22,Creature,Rare,Light Priest Minotaur
-23,Artifact,Common,Staff
-24,Creature,Rare,Aura King Hydra
-25,Creature,Common,Magi
-26,Spell,Common,Stun
-27,Enchantment,Mythic,Mighty Shield
-28,Enchantment,Common,Alacrity
-29,Spell,Rare,Lunar Gale
-30,Creature,Common,Paladin
-31,Creature,Rare,Dark Undead Skin-Walker
-32,Creature,Common,Ghoul
-33,Creature,Common,Dwarf
-34,Spell,Legendary,Intense Reanimate
-35,Spell,Common,Maelstrom
-36,Creature,Common,Paladin
-37,Spell,Legendary,Extreme Revive
-38,Artifact,Rare,Grim Belt
-39,Enchantment,Rare,Life Flight
-40,Enchantment,Legendary,Urgent Deathgrip
-41,Enchantment,Mythic,Extreme Drain
-42,Creature,Common,Orc
-43,Spell,Legendary,Dire Burn
-44,Enchantment,Legendary,Intense Lethargy
+==================,DECK,7311
+0,Creature,Death Warrior Dwarf of the Black Stone
+1,Creature,Warlock
+2,Enchantment,Grim Invert
+3,Artifact,Necro Amulet
+4,Creature,Light Rogue Dwarf of the Magical Forest
+5,Spell,Burst
+6,Spell,Maelstrom
+7,Artifact,Zealous Nature Helmet
+8,Enchantment,Lethargy
+9,Creature,Aura Rogue Cyclops
+10,Creature,Snow Rogue Hydra
+11,Artifact,Cloak
+12,Enchantment,Lethargy
+13,Creature,Light Queen Giant of the Magical Forest
+14,Spell,Stun
+15,Creature,Frozen Lord Kraken
+16,Creature,Death King Orc
+17,Creature,Berserker
+18,Spell,Fire
+19,Creature,Eagle
+20,Creature,Ghoul
+21,Creature,Earth Assassin Kraken
+22,Creature,Light Priest Cyclops
+23,Artifact,Staff
+24,Creature,Aura King Hydra
+25,Creature,Fairy
+26,Spell,Frost
+27,Enchantment,Instant Gloom Shrink
+28,Enchantment,Flight
+29,Spell,Gloom Reanimate
+30,Creature,Troll
+31,Creature,Dark Undead Orc
+32,Creature,Ghoul
+33,Creature,Magi
+34,Spell,Empyrean Corpse Heal
+35,Spell,Heal
+36,Creature,Troll
+37,Spell,Ardent Dark Stricken
+38,Artifact,Oblivion Belt
+39,Enchantment,Grim Invert
+40,Enchantment,Zealous Shimmering Deathgrip
+41,Enchantment,Potent Dark Shrink
+42,Creature,Spider
+43,Spell,Potent Oblivion Tempest
+44,Enchantment,Irate Hateful Deathgrip

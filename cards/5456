@@ -1,46 +1,46 @@
-==================,DECK,5456,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Wolf
-2,Creature,Common,Dwarf
-3,Spell,Common,Revive
-4,Enchantment,Common,Lethargy
-5,Artifact,Common,Boots
-6,Creature,Common,Elf
-7,Artifact,Common,Belt
-8,Creature,Legendary,Death King Oni of the Polar Woods
-9,Artifact,Rare,Corpse Crown
-10,Creature,Common,Spider
-11,Spell,Common,Vortex
-12,Spell,Rare,Hateful Reanimate
-13,Spell,Common,Maelstrom
-14,Spell,Common,Burn
-15,Creature,Common,Paladin
-16,Creature,Common,Dwarf
-17,Enchantment,Mythic,Urgent Deathgrip
-18,Enchantment,Common,Shield
-19,Artifact,Legendary,Mighty Pendant
-20,Enchantment,Common,Flight
-21,Creature,Common,Warlock
-22,Creature,Common,Orc
-23,Enchantment,Legendary,Extreme Blight
-24,Creature,Common,Paladin
-25,Spell,Common,Stricken
-26,Enchantment,Legendary,Intense Flight
-27,Artifact,Rare,Oblivion Divine Robe
-28,Artifact,Legendary,Extreme Sigil
-29,Creature,Common,Magi
-30,Artifact,Common,Scepter
-31,Spell,Common,Frost
-32,Creature,Rare,Death King Hydra
-33,Creature,Common,Dwarf
-34,Artifact,Common,Boots
-35,Artifact,Common,Sigil
-36,Spell,Rare,Apocalypse Stricken
-37,Creature,Mythic,Dark Chaos Demon of Illusion
-38,Spell,Mythic,Clever Frost
-39,Enchantment,Common,Shrink
-40,Creature,Common,Ghoul
-41,Spell,Legendary,Urgent Reanimate
-42,Enchantment,Common,Drain
-43,Creature,Common,Elf
-44,Creature,Common,Ghoul
+==================,DECK,5456
+0,Creature,Skin-Walker
+1,Creature,Wolf
+2,Creature,Magi
+3,Spell,Frenzy
+4,Enchantment,Age
+5,Artifact,Boots
+6,Creature,Warlock
+7,Artifact,Belt
+8,Creature,Death King Oni of the Polar Woods
+9,Artifact,Hateful Crown
+10,Creature,Paladin
+11,Spell,Lightning
+12,Spell,Chimeric Revive
+13,Spell,Reanimate
+14,Spell,Rage
+15,Creature,Troll
+16,Creature,Magi
+17,Enchantment,Potent Shimmering Strength
+18,Enchantment,Deathgrip
+19,Artifact,Irate Miracle Pendant
+20,Enchantment,Blight
+21,Creature,Berserker
+22,Creature,Spider
+23,Enchantment,Mighty Cataclysmic Flight
+24,Creature,Troll
+25,Spell,Assault
+26,Enchantment,Clever Hateful Lethargy
+27,Artifact,Life Divine Robe
+28,Artifact,Urgent Gloom Sigil
+29,Creature,Fairy
+30,Artifact,Scepter
+31,Spell,Stricken
+32,Creature,Death King Hydra
+33,Creature,Magi
+34,Artifact,Boots
+35,Artifact,Sigil
+36,Spell,Grim Sorrow
+37,Creature,Dark Chaos Demon of Illusion
+38,Spell,Dire Life Torment
+39,Enchantment,Firebreath
+40,Creature,Ghoul
+41,Spell,Clever Solar Invisibility
+42,Enchantment,Haste
+43,Creature,Warlock
+44,Creature,Ghoul

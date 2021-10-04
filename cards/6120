@@ -1,46 +1,46 @@
-==================,DECK,6120,Medium
-0,Artifact,Common,Sigil
-1,Enchantment,Common,Invert
-2,Enchantment,Common,Flight
-3,Enchantment,Common,Agony
-4,Spell,Common,Stun
-5,Spell,Common,Ice
-6,Spell,Rare,Shimmering Gale
-7,Enchantment,Common,Flight
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Alacrity
-10,Creature,Common,Wolf
-11,Creature,Common,Goblin
-12,Creature,Common,Orc
-13,Artifact,Common,Boots
-14,Artifact,Common,Sword
-15,Creature,Rare,Light Thief Fairy
-16,Enchantment,Common,Lethargy
-17,Creature,Legendary,Earth Priest Cyclops of the Plains
-18,Spell,Rare,Shimmering Reanimate
-19,Enchantment,Rare,Nature Shrink
-20,Artifact,Rare,Corpse Ghost Wand
-21,Creature,Rare,Aura Thief Griffin
-22,Spell,Common,Rage
-23,Enchantment,Rare,Shimmering Flight
-24,Creature,Common,Dwarf
-25,Artifact,Common,Bracers
-26,Creature,Legendary,Frozen Warrior Orge of the Eternal Land
-27,Creature,Rare,Frozen Undead Fairy
-28,Creature,Rare,Snow Thief Hydra
-29,Creature,Common,Wolf
-30,Enchantment,Common,Strength
-31,Spell,Common,Lightning
-32,Creature,Common,Goblin
-33,Creature,Mythic,Snow Time Phoenix of Hate
-34,Creature,Rare,Frozen Merchant Fairy
-35,Creature,Rare,Earth Undead Fairy
-36,Creature,Rare,Death Fighter Berserker
-37,Spell,Common,Gale
-38,Enchantment,Common,Agony
-39,Creature,Common,Goblin
-40,Artifact,Common,Scythe
-41,Creature,Common,Paladin
-42,Enchantment,Common,Lethargy
-43,Enchantment,Rare,Gloom Agony
-44,Spell,Common,Sorrow
+==================,DECK,6120
+0,Artifact,Sigil
+1,Enchantment,Blight
+2,Enchantment,Blight
+3,Enchantment,Shade
+4,Spell,Freeze
+5,Spell,Assault
+6,Spell,Shimmering Reanimate
+7,Enchantment,Firebreath
+8,Creature,Magi
+9,Enchantment,Invert
+10,Creature,Wolf
+11,Creature,Skin-Walker
+12,Creature,Spider
+13,Artifact,Boots
+14,Artifact,Sword
+15,Creature,Light Thief Kraken
+16,Enchantment,Shield
+17,Creature,Earth Priest Giant of the Plains
+18,Spell,Shimmering Gale
+19,Enchantment,Necro Age
+20,Artifact,Forged Ghost Wand
+21,Creature,Aura Thief Griffin
+22,Spell,Pandemonium
+23,Enchantment,Hateful Deathgrip
+24,Creature,Magi
+25,Artifact,Bracers
+26,Creature,Frozen Warrior Elf of the Eternal Land
+27,Creature,Frozen Undead Kraken
+28,Creature,Snow Thief Hydra
+29,Creature,Wolf
+30,Enchantment,Agony
+31,Spell,Burst
+32,Creature,Skin-Walker
+33,Creature,Snow Time Phoenix of Hate
+34,Creature,Frozen Merchant Kraken
+35,Creature,Earth Undead Kraken
+36,Creature,Death Fighter Goblin
+37,Spell,Invisibility
+38,Enchantment,Blight
+39,Creature,Skin-Walker
+40,Artifact,Scythe
+41,Creature,Troll
+42,Enchantment,Deathgrip
+43,Enchantment,Miracle Firebreath
+44,Spell,Invisibility

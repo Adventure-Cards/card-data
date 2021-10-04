@@ -1,46 +1,46 @@
-==================,DECK,7209,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Freeze
-2,Spell,Common,Gravitation
-3,Creature,Rare,Frozen Thief Skin-Walker
-4,Enchantment,Common,Alacrity
-5,Enchantment,Common,Alacrity
-6,Enchantment,Common,Blight
-7,Creature,Common,Warlock
-8,Creature,Common,Magi
-9,Spell,Rare,Forged Invisibility
-10,Spell,Legendary,Potent Hypnosis
-11,Creature,Common,Dwarf
-12,Creature,Common,Paladin
-13,Enchantment,Rare,Miracle Flight
-14,Creature,Rare,Dark Merchant Minotaur
-15,Creature,Rare,Frozen Priest Minotaur
-16,Spell,Common,Lightning
-17,Enchantment,Mythic,Extreme Shrink
-18,Creature,Rare,Dark Knight Hydra
-19,Creature,Common,Ghoul
-20,Creature,Common,Orc
-21,Creature,Common,Goblin
-22,Spell,Common,Gravitation
-23,Creature,Common,Elf
-24,Creature,Legendary,Dark Lord Giant of the Black Stone
-25,Creature,Common,Goblin
-26,Creature,Common,Spider
-27,Creature,Common,Goblin
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Paladin
-30,Enchantment,Common,Blight
-31,Creature,Rare,Frozen Monk Minotaur
-32,Enchantment,Common,Shade
-33,Spell,Legendary,Potent Gale
-34,Creature,Rare,Light Assassin Fairy
-35,Spell,Common,Freeze
-36,Artifact,Common,Potion
-37,Creature,Rare,Earth King Minotaur
-38,Enchantment,Common,Blight
-39,Enchantment,Common,Deathgrip
-40,Spell,Common,Stricken
-41,Creature,Common,Elf
-42,Enchantment,Legendary,Extreme Drain
-43,Enchantment,Mythic,Angry Haste
-44,Spell,Common,Torment
+==================,DECK,7209
+0,Creature,Troll
+1,Spell,Heal
+2,Spell,Burn
+3,Creature,Frozen Thief Orc
+4,Enchantment,Age
+5,Enchantment,Shield
+6,Enchantment,Shield
+7,Creature,Berserker
+8,Creature,Fairy
+9,Spell,Dark Sorrow
+10,Spell,Mighty Oblivion Tempest
+11,Creature,Magi
+12,Creature,Troll
+13,Enchantment,Grim Shade
+14,Creature,Dark Merchant Cyclops
+15,Creature,Frozen Priest Cyclops
+16,Spell,Stricken
+17,Enchantment,Empyrean Chimeric Firebreath
+18,Creature,Dark Knight Hydra
+19,Creature,Ghoul
+20,Creature,Spider
+21,Creature,Skin-Walker
+22,Spell,Heal
+23,Creature,Warlock
+24,Creature,Dark Lord Dwarf of the Black Stone
+25,Creature,Skin-Walker
+26,Creature,Paladin
+27,Creature,Skin-Walker
+28,Enchantment,Age
+29,Creature,Troll
+30,Enchantment,Shield
+31,Creature,Frozen Monk Cyclops
+32,Enchantment,Agony
+33,Spell,Potent Grim Burst
+34,Creature,Light Assassin Kraken
+35,Spell,Hypnosis
+36,Artifact,Potion
+37,Creature,Earth King Cyclops
+38,Enchantment,Alacrity
+39,Enchantment,Invert
+40,Spell,Pandemonium
+41,Creature,Warlock
+42,Enchantment,Empyrean Dark Firebreath
+43,Enchantment,Potent Miracle Shrink
+44,Spell,Freeze

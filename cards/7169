@@ -1,46 +1,46 @@
-==================,DECK,7169,Light
-0,Spell,Common,Frenzy
-1,Spell,Rare,Corpse Assault
-2,Enchantment,Rare,Forged Alacrity
-3,Creature,Common,Dwarf
-4,Creature,Rare,Aura Merchant Minotaur
-5,Creature,Common,Paladin
-6,Spell,Common,Invisibility
-7,Enchantment,Common,Lethargy
-8,Creature,Common,Elf
-9,Spell,Common,Ice
-10,Creature,Common,Magi
-11,Creature,Common,Wolf
-12,Artifact,Legendary,Angry Scythe
-13,Creature,Legendary,Frozen King Cyclops of the Golden Palace
-14,Enchantment,Rare,Lunar Blight
-15,Spell,Common,Vortex
-16,Spell,Rare,Apocalypse Maelstrom
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Invert
-19,Creature,Common,Orc
-20,Creature,Common,Eagle
-21,Enchantment,Common,Strength
-22,Spell,Rare,Gloom Wall
-23,Creature,Common,Orc
-24,Enchantment,Mythic,Dire Age
-25,Spell,Common,Frost
-26,Spell,Common,Sorrow
-27,Spell,Common,Heal
-28,Creature,Common,Dwarf
-29,Creature,Common,Warlock
-30,Enchantment,Common,Deathgrip
-31,Spell,Common,Sorrow
-32,Creature,Common,Magi
-33,Creature,Common,Elf
-34,Creature,Common,Wolf
-35,Creature,Common,Goblin
-36,Spell,Rare,Miracle Gale
-37,Creature,Legendary,Earth King Orge of the Plains
-38,Enchantment,Common,Haste
-39,Enchantment,Common,Haste
-40,Artifact,Common,Crown
-41,Creature,Common,Spider
-42,Spell,Common,Assault
-43,Enchantment,Common,Lethargy
-44,Spell,Rare,Solar Frost
+==================,DECK,7169
+0,Spell,Infuriate
+1,Spell,Necro Burn
+2,Enchantment,Dark Alacrity
+3,Creature,Magi
+4,Creature,Aura Merchant Cyclops
+5,Creature,Troll
+6,Spell,Tempest
+7,Enchantment,Shield
+8,Creature,Warlock
+9,Spell,Sorrow
+10,Creature,Fairy
+11,Creature,Wolf
+12,Artifact,Empyrean Cataclysmic Scythe
+13,Creature,Frozen King Giant of the Golden Palace
+14,Enchantment,Cataclysmic Shield
+15,Spell,Infuriate
+16,Spell,Nimble Stricken
+17,Creature,Magi
+18,Enchantment,Flight
+19,Creature,Spider
+20,Creature,Eagle
+21,Enchantment,Shade
+22,Spell,Chimeric Gravitation
+23,Creature,Spider
+24,Enchantment,Clever Victory Haste
+25,Spell,Ice
+26,Spell,Ice
+27,Spell,Burst
+28,Creature,Magi
+29,Creature,Berserker
+30,Enchantment,Firebreath
+31,Spell,Reanimate
+32,Creature,Fairy
+33,Creature,Warlock
+34,Creature,Wolf
+35,Creature,Skin-Walker
+36,Spell,Life Hypnosis
+37,Creature,Earth King Elf of the Plains
+38,Enchantment,Blight
+39,Enchantment,Age
+40,Artifact,Crown
+41,Creature,Paladin
+42,Spell,Hypnosis
+43,Enchantment,Flight
+44,Spell,Corpse Torment

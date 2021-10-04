@@ -1,46 +1,46 @@
-==================,DECK,6721,Light
-0,Creature,Rare,Snow Fighter Griffin
-1,Spell,Legendary,Intense Rage
-2,Spell,Rare,Dark Revive
-3,Creature,Common,Paladin
-4,Spell,Rare,Nimble Frenzy
-5,Creature,Rare,Snow Warrior Skin-Walker
-6,Creature,Rare,Aura Merchant Skin-Walker
-7,Creature,Common,Elf
-8,Artifact,Common,Ring
-9,Spell,Common,Stun
-10,Creature,Common,Orc
-11,Creature,Common,Wolf
-12,Creature,Common,Wolf
-13,Creature,Common,Eagle
-14,Artifact,Common,Pendant
-15,Creature,Common,Warlock
-16,Enchantment,Common,Invert
-17,Creature,Rare,Dark Rogue Fairy
-18,Creature,Common,Goblin
-19,Creature,Legendary,Light Queen Cyclops of the Arctic Blizzards
-20,Creature,Common,Ghoul
-21,Artifact,Common,Ring
-22,Creature,Common,Goblin
-23,Spell,Common,Frost
-24,Creature,Common,Orc
-25,Spell,Common,Gale
-26,Creature,Common,Elf
-27,Creature,Common,Dwarf
-28,Artifact,Rare,Oblivion Shield
-29,Enchantment,Common,Age
-30,Enchantment,Common,Haste
-31,Enchantment,Common,Agony
-32,Spell,Common,Rage
-33,Spell,Rare,Necro Infuriate
-34,Spell,Legendary,Dire Lightning
-35,Spell,Common,Stricken
-36,Creature,Common,Paladin
-37,Creature,Legendary,Aura Undead Kraken of the Eastern Skies
-38,Enchantment,Common,Alacrity
-39,Creature,Common,Paladin
-40,Spell,Rare,Grim Revive
-41,Creature,Rare,Snow Warrior Berserker
-42,Creature,Common,Spider
-43,Spell,Common,Ice
-44,Enchantment,Common,Invert
+==================,DECK,6721
+0,Creature,Snow Fighter Griffin
+1,Spell,Irate Forged Reanimate
+2,Spell,Lunar Fireball
+3,Creature,Troll
+4,Spell,Corpse Gale
+5,Creature,Snow Warrior Orc
+6,Creature,Aura Merchant Orc
+7,Creature,Warlock
+8,Artifact,Ring
+9,Spell,Frenzy
+10,Creature,Spider
+11,Creature,Wolf
+12,Creature,Wolf
+13,Creature,Eagle
+14,Artifact,Pendant
+15,Creature,Berserker
+16,Enchantment,Flight
+17,Creature,Dark Rogue Kraken
+18,Creature,Skin-Walker
+19,Creature,Light Queen Giant of the Arctic Blizzards
+20,Creature,Ghoul
+21,Artifact,Ring
+22,Creature,Skin-Walker
+23,Spell,Stun
+24,Creature,Spider
+25,Spell,Rage
+26,Creature,Warlock
+27,Creature,Magi
+28,Artifact,Frigid Shield
+29,Enchantment,Alacrity
+30,Enchantment,Alacrity
+31,Enchantment,Flight
+32,Spell,Wall
+33,Spell,Shimmering Pandemonium
+34,Spell,Instant Nimble Gale
+35,Spell,Lightning
+36,Creature,Troll
+37,Creature,Aura Undead Ogre of the Eastern Skies
+38,Enchantment,Blight
+39,Creature,Troll
+40,Spell,Apocalypse Tempest
+41,Creature,Snow Warrior Goblin
+42,Creature,Paladin
+43,Spell,Rage
+44,Enchantment,Firebreath

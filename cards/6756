@@ -1,46 +1,46 @@
-==================,DECK,6756,Light
-0,Enchantment,Mythic,Angry Strength
-1,Creature,Mythic,Snow Chaos Demon of Hate
-2,Creature,Common,Warlock
-3,Creature,Common,Wolf
-4,Spell,Common,Assault
-5,Enchantment,Common,Blight
-6,Enchantment,Common,Age
-7,Enchantment,Common,Shrink
-8,Artifact,Legendary,Urgent Ring
-9,Spell,Common,Vortex
-10,Enchantment,Common,Flight
-11,Enchantment,Mythic,Intense Deathgrip
-12,Enchantment,Common,Deathgrip
-13,Creature,Common,Warlock
-14,Spell,Common,Assault
-15,Creature,Common,Goblin
-16,Enchantment,Common,Drain
-17,Creature,Common,Ghoul
-18,Artifact,Common,Pendant
-19,Creature,Common,Orc
-20,Creature,Common,Eagle
-21,Spell,Common,Gale
-22,Spell,Common,Pandemonium
-23,Spell,Common,Lightning
-24,Spell,Common,Heal
-25,Artifact,Common,Crown
-26,Creature,Common,Ghoul
-27,Spell,Common,Burst
-28,Creature,Common,Magi
-29,Enchantment,Legendary,Extreme Shade
-30,Creature,Common,Wolf
-31,Creature,Common,Paladin
-32,Spell,Common,Burst
-33,Spell,Common,Maelstrom
-34,Creature,Rare,Light Monk Skin-Walker
-35,Creature,Common,Warlock
-36,Creature,Legendary,Dark Lord Orge of the Magical Forest
-37,Enchantment,Common,Shrink
-38,Spell,Common,Hypnosis
-39,Creature,Common,Paladin
-40,Enchantment,Common,Drain
-41,Creature,Legendary,Frozen King Kraken of the West
-42,Creature,Common,Ghoul
-43,Enchantment,Legendary,Intense Invert
-44,Creature,Rare,Earth King Minotaur
+==================,DECK,6756
+0,Enchantment,Urgent Cataclysmic Flight
+1,Creature,Snow Chaos Demon of Hate
+2,Creature,Berserker
+3,Creature,Wolf
+4,Spell,Torment
+5,Enchantment,Shrink
+6,Enchantment,Alacrity
+7,Enchantment,Alacrity
+8,Artifact,Instant Corpse Ring
+9,Spell,Vortex
+10,Enchantment,Shrink
+11,Enchantment,Clever Shimmering Lethargy
+12,Enchantment,Blight
+13,Creature,Berserker
+14,Spell,Stricken
+15,Creature,Skin-Walker
+16,Enchantment,Alacrity
+17,Creature,Ghoul
+18,Artifact,Pendant
+19,Creature,Spider
+20,Creature,Eagle
+21,Spell,Frost
+22,Spell,Fury
+23,Spell,Lightning
+24,Spell,Gravitation
+25,Artifact,Crown
+26,Creature,Ghoul
+27,Spell,Assault
+28,Creature,Fairy
+29,Enchantment,Instant Chimeric Shrink
+30,Creature,Wolf
+31,Creature,Troll
+32,Spell,Fireball
+33,Spell,Gravitation
+34,Creature,Light Monk Orc
+35,Creature,Berserker
+36,Creature,Dark Lord Elf of the Magical Forest
+37,Enchantment,Agony
+38,Spell,Burst
+39,Creature,Troll
+40,Enchantment,Invert
+41,Creature,Frozen King Ogre of the West
+42,Creature,Ghoul
+43,Enchantment,Instant Shimmering Strength
+44,Creature,Earth King Cyclops

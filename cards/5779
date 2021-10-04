@@ -1,46 +1,46 @@
-==================,DECK,5779,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Sorrow
-2,Artifact,Common,Pendant
-3,Creature,Rare,Frozen Undead Skin-Walker
-4,Creature,Rare,Aura Rogue Hydra
-5,Creature,Common,Spider
-6,Creature,Common,Dwarf
-7,Creature,Common,Magi
-8,Creature,Common,Wolf
-9,Creature,Common,Elf
-10,Creature,Common,Magi
-11,Creature,Common,Magi
-12,Creature,Common,Ghoul
-13,Creature,Common,Elf
-14,Creature,Common,Paladin
-15,Creature,Legendary,Aura Monk Cyclops of the Black Stone
-16,Spell,Common,Stun
-17,Enchantment,Common,Blight
-18,Creature,Rare,Death Rogue Fairy
-19,Creature,Rare,Dark Merchant Skin-Walker
-20,Creature,Common,Wolf
-21,Enchantment,Common,Haste
-22,Creature,Common,Ghoul
-23,Enchantment,Common,Deathgrip
-24,Creature,Rare,Aura Queen Griffin
-25,Creature,Rare,Earth Undead Griffin
-26,Enchantment,Common,Strength
-27,Spell,Common,Rage
-28,Creature,Legendary,Frozen Priest Cyclops of the Golden Palace
-29,Creature,Common,Elf
-30,Enchantment,Common,Deathgrip
-31,Spell,Common,Freeze
-32,Creature,Common,Ghoul
-33,Creature,Legendary,Aura Undead Kraken of the Bright Mountains
-34,Creature,Common,Ghoul
-35,Creature,Legendary,Light Undead Cyclops of the Black Stone
-36,Enchantment,Common,Blight
-37,Spell,Common,Burn
-38,Spell,Rare,Solar Invisibility
-39,Artifact,Common,Bracers
-40,Creature,Common,Dwarf
-41,Creature,Common,Ghoul
-42,Creature,Common,Spider
-43,Spell,Rare,Nimble Torment
-44,Creature,Legendary,Death Merchant Orge of the Arctic Blizzards
+==================,DECK,5779
+0,Creature,Berserker
+1,Spell,Gale
+2,Artifact,Pendant
+3,Creature,Frozen Undead Orc
+4,Creature,Aura Rogue Hydra
+5,Creature,Paladin
+6,Creature,Magi
+7,Creature,Fairy
+8,Creature,Wolf
+9,Creature,Warlock
+10,Creature,Fairy
+11,Creature,Fairy
+12,Creature,Ghoul
+13,Creature,Warlock
+14,Creature,Troll
+15,Creature,Aura Monk Giant of the Black Stone
+16,Spell,Stricken
+17,Enchantment,Firebreath
+18,Creature,Death Rogue Kraken
+19,Creature,Dark Merchant Orc
+20,Creature,Wolf
+21,Enchantment,Blight
+22,Creature,Ghoul
+23,Enchantment,Age
+24,Creature,Aura Queen Griffin
+25,Creature,Earth Undead Griffin
+26,Enchantment,Shield
+27,Spell,Gale
+28,Creature,Frozen Priest Giant of the Golden Palace
+29,Creature,Warlock
+30,Enchantment,Invert
+31,Spell,Burn
+32,Creature,Ghoul
+33,Creature,Aura Undead Ogre of the Bright Mountains
+34,Creature,Ghoul
+35,Creature,Light Undead Giant of the Black Stone
+36,Enchantment,Alacrity
+37,Spell,Invisibility
+38,Spell,Solar Fire
+39,Artifact,Bracers
+40,Creature,Magi
+41,Creature,Ghoul
+42,Creature,Paladin
+43,Spell,Nature Gravitation
+44,Creature,Death Merchant Elf of the Arctic Blizzards

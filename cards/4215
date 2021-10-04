@@ -1,46 +1,46 @@
-==================,DECK,4215,Medium
-0,Creature,Rare,Frozen Queen Griffin
-1,Spell,Common,Ice
-2,Creature,Common,Magi
-3,Creature,Mythic,Snow Time Dragon of Hate
-4,Spell,Rare,Nimble Invisibility
-5,Creature,Rare,Frozen Queen Minotaur
-6,Enchantment,Common,Flight
-7,Spell,Rare,Nature Sorrow
-8,Creature,Rare,Earth Queen Hydra
-9,Enchantment,Mythic,Intense Drain
-10,Creature,Common,Goblin
-11,Creature,Common,Elf
-12,Spell,Mythic,Angry Assault
-13,Enchantment,Mythic,Intense Flight
-14,Enchantment,Common,Flight
-15,Creature,Legendary,Light Warrior Oni of the Black Stone
-16,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-17,Spell,Common,Vortex
-18,Creature,Legendary,Snow Monk Orge of the Eastern Skies
-19,Spell,Mythic,Intense Heal
-20,Creature,Rare,Light Queen Skin-Walker
-21,Spell,Common,Invisibility
-22,Spell,Common,Hypnosis
-23,Creature,Mythic,Snow Nameless Dragon of Hate
-24,Creature,Rare,Light Undead Griffin
-25,Creature,Legendary,Frozen Rogue Kraken of the Mountains
-26,Enchantment,Common,Flight
-27,Enchantment,Common,Strength
-28,Creature,Legendary,Death Thief Oni of the Polar Woods
-29,Enchantment,Common,Lethargy
-30,Enchantment,Rare,Hateful Flight
-31,Creature,Common,Goblin
-32,Creature,Legendary,Light Lord Kraken of the Haven
-33,Creature,Common,Ghoul
-34,Artifact,Common,Boots
-35,Creature,Legendary,Death Merchant Oni of the Mountains
-36,Enchantment,Mythic,Clever Lethargy
-37,Creature,Rare,Aura King Minotaur
-38,Creature,Common,Goblin
-39,Creature,Rare,Earth Warrior Hydra
-40,Enchantment,Common,Drain
-41,Artifact,Common,Cloak
-42,Creature,Legendary,Snow Queen Orge of the Polar Woods
-43,Creature,Rare,Dark Knight Berserker
-44,Spell,Common,Stricken
+==================,DECK,4215
+0,Creature,Frozen Queen Griffin
+1,Spell,Ice
+2,Creature,Fairy
+3,Creature,Snow Time Dragon of Hate
+4,Spell,Corpse Gale
+5,Creature,Frozen Queen Cyclops
+6,Enchantment,Drain
+7,Spell,Solar Gravitation
+8,Creature,Earth Queen Hydra
+9,Enchantment,Zealous Forged Deathgrip
+10,Creature,Skin-Walker
+11,Creature,Warlock
+12,Spell,Irate Chimeric Stun
+13,Enchantment,Mighty Hateful Agony
+14,Enchantment,Shrink
+15,Creature,Light Warrior Oni of the Black Stone
+16,Creature,Earth Nameless Phoenix of the Shadows
+17,Spell,Pandemonium
+18,Creature,Snow Monk Elf of the Eastern Skies
+19,Spell,Irate Necro Freeze
+20,Creature,Light Queen Orc
+21,Spell,Frost
+22,Spell,Tempest
+23,Creature,Snow Nameless Dragon of Hate
+24,Creature,Light Undead Griffin
+25,Creature,Frozen Rogue Ogre of the Mountains
+26,Enchantment,Shade
+27,Enchantment,Invert
+28,Creature,Death Thief Oni of the Polar Woods
+29,Enchantment,Agony
+30,Enchantment,Lunar Firebreath
+31,Creature,Skin-Walker
+32,Creature,Light Lord Ogre of the Haven
+33,Creature,Ghoul
+34,Artifact,Boots
+35,Creature,Death Merchant Oni of the Mountains
+36,Enchantment,Ardent Grim Haste
+37,Creature,Aura King Cyclops
+38,Creature,Skin-Walker
+39,Creature,Earth Warrior Hydra
+40,Enchantment,Shield
+41,Artifact,Cloak
+42,Creature,Snow Queen Elf of the Polar Woods
+43,Creature,Dark Knight Goblin
+44,Spell,Torment

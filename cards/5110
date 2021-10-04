@@ -1,46 +1,46 @@
-==================,DECK,5110,Light
-0,Creature,Common,Orc
-1,Enchantment,Rare,Miracle Deathgrip
-2,Creature,Common,Wolf
-3,Creature,Common,Eagle
-4,Creature,Common,Goblin
-5,Creature,Common,Wolf
-6,Creature,Common,Eagle
-7,Creature,Rare,Frozen Knight Griffin
-8,Creature,Legendary,Dark Thief Oni of the Frozen Castle
-9,Creature,Legendary,Aura Merchant Orge of the Border
-10,Spell,Legendary,Clever Vortex
-11,Enchantment,Rare,Hateful Drain
-12,Spell,Common,Reanimate
-13,Enchantment,Mythic,Potent Agony
-14,Enchantment,Common,Age
-15,Creature,Rare,Light Queen Minotaur
-16,Creature,Rare,Death Thief Hydra
-17,Creature,Rare,Aura Monk Fairy
-18,Spell,Common,Fury
-19,Creature,Common,Warlock
-20,Creature,Common,Wolf
-21,Enchantment,Rare,Forged Shield
-22,Enchantment,Common,Flight
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Miracle Deathgrip
-25,Creature,Common,Spider
-26,Enchantment,Common,Deathgrip
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Warlock
-29,Artifact,Common,Gloves
-30,Creature,Common,Spider
-31,Enchantment,Common,Invert
-32,Enchantment,Common,Invert
-33,Creature,Mythic,Frozen Undead Phoenix of the Void
-34,Creature,Common,Elf
-35,Enchantment,Rare,Hateful Drain
-36,Enchantment,Common,Alacrity
-37,Enchantment,Mythic,Mighty Haste
-38,Artifact,Legendary,Potent Sword
-39,Creature,Rare,Snow Undead Berserker
-40,Enchantment,Common,Shade
-41,Creature,Common,Warlock
-42,Artifact,Legendary,Intense Boots
-43,Spell,Common,Invisibility
-44,Creature,Common,Warlock
+==================,DECK,5110
+0,Creature,Spider
+1,Enchantment,Oblivion Invert
+2,Creature,Wolf
+3,Creature,Eagle
+4,Creature,Skin-Walker
+5,Creature,Wolf
+6,Creature,Eagle
+7,Creature,Frozen Knight Griffin
+8,Creature,Dark Thief Oni of the Frozen Castle
+9,Creature,Aura Merchant Elf of the Border
+10,Spell,Ardent Grim Fire
+11,Enchantment,Dark Flight
+12,Spell,Infuriate
+13,Enchantment,Urgent Life Invert
+14,Enchantment,Strength
+15,Creature,Light Queen Cyclops
+16,Creature,Death Thief Hydra
+17,Creature,Aura Monk Kraken
+18,Spell,Revive
+19,Creature,Berserker
+20,Creature,Wolf
+21,Enchantment,Gloom Shield
+22,Enchantment,Agony
+23,Creature,Magi
+24,Enchantment,Oblivion Invert
+25,Creature,Paladin
+26,Enchantment,Age
+27,Enchantment,Shield
+28,Creature,Berserker
+29,Artifact,Gloves
+30,Creature,Paladin
+31,Enchantment,Strength
+32,Enchantment,Shade
+33,Creature,Frozen Undead Phoenix of the Void
+34,Creature,Warlock
+35,Enchantment,Dark Alacrity
+36,Enchantment,Lethargy
+37,Enchantment,Mighty Miracle Flight
+38,Artifact,Potent Oblivion Sword
+39,Creature,Snow Undead Goblin
+40,Enchantment,Agony
+41,Creature,Berserker
+42,Artifact,Clever Shimmering Boots
+43,Spell,Frost
+44,Creature,Berserker

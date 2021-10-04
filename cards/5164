@@ -1,46 +1,46 @@
-==================,DECK,5164,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Orc
-2,Creature,Common,Magi
-3,Creature,Common,Spider
-4,Spell,Common,Infuriate
-5,Enchantment,Common,Deathgrip
-6,Spell,Rare,Shimmering Maelstrom
-7,Enchantment,Rare,Hateful Deathgrip
-8,Artifact,Rare,Shimmering Scepter
-9,Creature,Common,Goblin
-10,Spell,Common,Wall
-11,Creature,Legendary,Snow Fighter Kraken of the Border
-12,Creature,Rare,Death Knight Hydra
-13,Creature,Common,Elf
-14,Creature,Common,Magi
-15,Creature,Common,Eagle
-16,Creature,Common,Magi
-17,Enchantment,Common,Blight
-18,Creature,Common,Paladin
-19,Spell,Common,Frenzy
-20,Creature,Common,Warlock
-21,Artifact,Rare,Cataclysmic Helmet
-22,Creature,Common,Elf
-23,Enchantment,Common,Deathgrip
-24,Creature,Common,Eagle
-25,Artifact,Common,Gloves
-26,Spell,Rare,Cataclysmic Burn
-27,Enchantment,Rare,Necro Shrink
-28,Spell,Common,Sorrow
-29,Spell,Common,Wall
-30,Creature,Legendary,Death Rogue Giant of the Golden Palace
-31,Creature,Common,Ghoul
-32,Spell,Rare,Nimble Rage
-33,Creature,Common,Warlock
-34,Spell,Legendary,Instant Frenzy
-35,Creature,Common,Elf
-36,Creature,Common,Wolf
-37,Creature,Mythic,Death Time Phoenix of the Dead
-38,Creature,Common,Magi
-39,Enchantment,Legendary,Dire Flight
-40,Creature,Rare,Snow Monk Fairy
-41,Enchantment,Common,Shrink
-42,Spell,Rare,Lunar Reanimate
-43,Enchantment,Legendary,Angry Lethargy
-44,Creature,Common,Goblin
+==================,DECK,5164
+0,Creature,Wolf
+1,Creature,Spider
+2,Creature,Fairy
+3,Creature,Paladin
+4,Spell,Gravitation
+5,Enchantment,Shrink
+6,Spell,Nature Frenzy
+7,Enchantment,Sorrow Flight
+8,Artifact,Necro Scepter
+9,Creature,Skin-Walker
+10,Spell,Revive
+11,Creature,Snow Fighter Ogre of the Border
+12,Creature,Death Knight Hydra
+13,Creature,Warlock
+14,Creature,Fairy
+15,Creature,Eagle
+16,Creature,Fairy
+17,Enchantment,Agony
+18,Creature,Troll
+19,Spell,Frost
+20,Creature,Berserker
+21,Artifact,Cataclysmic Helmet
+22,Creature,Warlock
+23,Enchantment,Shield
+24,Creature,Eagle
+25,Artifact,Gloves
+26,Spell,Sorrow Lightning
+27,Enchantment,Necro Lethargy
+28,Spell,Burn
+29,Spell,Freeze
+30,Creature,Death Rogue Dwarf of the Golden Palace
+31,Creature,Ghoul
+32,Spell,Shimmering Tempest
+33,Creature,Berserker
+34,Spell,Urgent Corpse Burn
+35,Creature,Warlock
+36,Creature,Wolf
+37,Creature,Death Time Phoenix of the Dead
+38,Creature,Fairy
+39,Enchantment,Mighty Grim Invert
+40,Creature,Snow Monk Kraken
+41,Enchantment,Strength
+42,Spell,Miracle Vortex
+43,Enchantment,Ardent Lunar Shield
+44,Creature,Skin-Walker

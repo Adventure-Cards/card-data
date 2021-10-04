@@ -1,46 +1,46 @@
-==================,DECK,4344,Medium
-0,Creature,Rare,Snow Merchant Berserker
-1,Creature,Common,Orc
-2,Enchantment,Rare,Hateful Shrink
-3,Creature,Common,Magi
-4,Spell,Rare,Solar Assault
-5,Creature,Common,Goblin
-6,Enchantment,Common,Haste
-7,Spell,Rare,Frigid Vortex
-8,Creature,Common,Goblin
-9,Spell,Rare,Forged Invisibility
-10,Artifact,Rare,Lunar Ring
-11,Creature,Legendary,Death Undead Cyclops of the Border
-12,Enchantment,Legendary,Angry Blight
-13,Enchantment,Common,Invert
-14,Artifact,Rare,Miracle Staff
-15,Enchantment,Common,Blight
-16,Spell,Common,Stricken
-17,Artifact,Rare,Shimmering Tome
-18,Spell,Rare,Necro Sorrow
-19,Creature,Legendary,Earth Merchant Oni of the Low Hills
-20,Creature,Rare,Light King Skin-Walker
-21,Spell,Rare,Frigid Wall
-22,Creature,Rare,Earth Knight Berserker
-23,Creature,Rare,Earth Knight Hydra
-24,Creature,Common,Paladin
-25,Spell,Common,Fury
-26,Creature,Common,Dwarf
-27,Creature,Common,Dwarf
-28,Artifact,Legendary,Extreme Cloak
-29,Creature,Common,Elf
-30,Enchantment,Common,Shade
-31,Spell,Common,Stricken
-32,Enchantment,Common,Drain
-33,Creature,Legendary,Snow Warrior Giant of the Eastern Skies
-34,Enchantment,Common,Shade
-35,Creature,Legendary,Earth Merchant Orge of the Black Stone
-36,Creature,Common,Elf
-37,Spell,Common,Vortex
-38,Spell,Rare,Cataclysmic Stun
-39,Creature,Common,Elf
-40,Enchantment,Rare,Oblivion Lethargy
-41,Spell,Common,Maelstrom
-42,Spell,Common,Vortex
-43,Artifact,Common,Bow
-44,Creature,Common,Magi
+==================,DECK,4344
+0,Creature,Snow Merchant Goblin
+1,Creature,Spider
+2,Enchantment,Chimeric Firebreath
+3,Creature,Fairy
+4,Spell,Necro Burst
+5,Creature,Skin-Walker
+6,Enchantment,Strength
+7,Spell,Frigid Freeze
+8,Creature,Skin-Walker
+9,Spell,Miracle Frost
+10,Artifact,Miracle Ring
+11,Creature,Death Undead Giant of the Border
+12,Enchantment,Mighty Cataclysmic Flight
+13,Enchantment,Invert
+14,Artifact,Life Staff
+15,Enchantment,Deathgrip
+16,Spell,Stun
+17,Artifact,Hateful Tome
+18,Spell,Corpse Assault
+19,Creature,Earth Merchant Oni of the Low Hills
+20,Creature,Light King Orc
+21,Spell,Life Heal
+22,Creature,Earth Knight Goblin
+23,Creature,Earth Knight Hydra
+24,Creature,Troll
+25,Spell,Burst
+26,Creature,Magi
+27,Creature,Magi
+28,Artifact,Ardent Cataclysmic Cloak
+29,Creature,Warlock
+30,Enchantment,Blight
+31,Spell,Burn
+32,Enchantment,Shrink
+33,Creature,Snow Warrior Dwarf of the Eastern Skies
+34,Enchantment,Shrink
+35,Creature,Earth Merchant Elf of the Black Stone
+36,Creature,Warlock
+37,Spell,Fury
+38,Spell,Gloom Lightning
+39,Creature,Warlock
+40,Enchantment,Grim Shade
+41,Spell,Vortex
+42,Spell,Fire
+43,Artifact,Bow
+44,Creature,Fairy

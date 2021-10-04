@@ -1,46 +1,46 @@
-==================,DECK,7495,Light
-0,Spell,Common,Frenzy
-1,Spell,Common,Ice
-2,Enchantment,Common,Shrink
-3,Enchantment,Mythic,Clever Alacrity
-4,Creature,Common,Magi
-5,Enchantment,Rare,Gloom Lethargy
-6,Spell,Common,Ice
-7,Creature,Common,Elf
-8,Creature,Common,Eagle
-9,Creature,Rare,Snow Monk Hydra
-10,Creature,Common,Paladin
-11,Creature,Rare,Death King Berserker
-12,Creature,Common,Elf
-13,Enchantment,Common,Haste
-14,Creature,Rare,Earth Thief Griffin
-15,Creature,Legendary,Light Queen Kraken of the Black Stone
-16,Artifact,Common,Sigil
-17,Enchantment,Rare,Grim Alacrity
-18,Creature,Common,Magi
-19,Enchantment,Common,Strength
-20,Creature,Mythic,Light Chaos Wizard of the Sky
-21,Creature,Common,Paladin
-22,Creature,Common,Paladin
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Spell,Common,Freeze
-26,Creature,Common,Spider
-27,Spell,Rare,Grim Invisibility
-28,Creature,Common,Elf
-29,Artifact,Common,Helmet
-30,Artifact,Common,Tome
-31,Creature,Common,Ghoul
-32,Enchantment,Common,Age
-33,Creature,Rare,Aura Queen Skin-Walker
-34,Enchantment,Common,Haste
-35,Artifact,Rare,Cataclysmic Scepter
-36,Creature,Common,Goblin
-37,Spell,Common,Lightning
-38,Creature,Common,Spider
-39,Creature,Common,Eagle
-40,Spell,Rare,Cataclysmic Ice
-41,Creature,Rare,Frozen Monk Berserker
-42,Artifact,Common,Amulet
-43,Creature,Common,Orc
-44,Enchantment,Common,Shade
+==================,DECK,7495
+0,Spell,Burst
+1,Spell,Fire
+2,Enchantment,Strength
+3,Enchantment,Instant Apocalypse Drain
+4,Creature,Fairy
+5,Enchantment,Lunar Shrink
+6,Spell,Stricken
+7,Creature,Warlock
+8,Creature,Eagle
+9,Creature,Snow Monk Hydra
+10,Creature,Troll
+11,Creature,Death King Goblin
+12,Creature,Warlock
+13,Enchantment,Agony
+14,Creature,Earth Thief Griffin
+15,Creature,Light Queen Ogre of the Black Stone
+16,Artifact,Sigil
+17,Enchantment,Apocalypse Haste
+18,Creature,Fairy
+19,Enchantment,Agony
+20,Creature,Light Chaos Wizard of the Sky
+21,Creature,Troll
+22,Creature,Troll
+23,Enchantment,Blight
+24,Creature,Wolf
+25,Spell,Revive
+26,Creature,Paladin
+27,Spell,Oblivion Assault
+28,Creature,Warlock
+29,Artifact,Helmet
+30,Artifact,Tome
+31,Creature,Ghoul
+32,Enchantment,Haste
+33,Creature,Aura Queen Orc
+34,Enchantment,Lethargy
+35,Artifact,Lunar Scepter
+36,Creature,Skin-Walker
+37,Spell,Torment
+38,Creature,Paladin
+39,Creature,Eagle
+40,Spell,Gloom Stricken
+41,Creature,Frozen Monk Goblin
+42,Artifact,Amulet
+43,Creature,Spider
+44,Enchantment,Flight

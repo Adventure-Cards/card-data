@@ -1,46 +1,46 @@
-==================,DECK,7283,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Frost
-2,Enchantment,Common,Flight
-3,Creature,Common,Spider
-4,Enchantment,Rare,Lunar Shrink
-5,Enchantment,Common,Drain
-6,Enchantment,Common,Blight
-7,Creature,Legendary,Frozen Assassin Giant of the Black Stone
-8,Creature,Common,Dwarf
-9,Creature,Legendary,Snow Merchant Kraken of the Plains
-10,Spell,Common,Vortex
-11,Artifact,Common,Gauntlet
-12,Creature,Legendary,Earth Merchant Cyclops of the Golden Palace
-13,Artifact,Rare,Frigid Sigil
-14,Enchantment,Common,Invert
-15,Artifact,Common,Bracers
-16,Spell,Legendary,Instant Reanimate
-17,Creature,Common,Warlock
-18,Creature,Rare,Frozen Merchant Hydra
-19,Creature,Common,Paladin
-20,Creature,Rare,Death Rogue Minotaur
-21,Enchantment,Common,Alacrity
-22,Creature,Common,Spider
-23,Creature,Common,Ghoul
-24,Creature,Common,Eagle
-25,Creature,Common,Ghoul
-26,Creature,Rare,Death Monk Minotaur
-27,Spell,Common,Burn
-28,Enchantment,Common,Deathgrip
-29,Spell,Common,Reanimate
-30,Creature,Common,Ghoul
-31,Spell,Common,Freeze
-32,Creature,Common,Ghoul
-33,Enchantment,Mythic,Dire Shield
-34,Artifact,Rare,Life Scythe
-35,Enchantment,Common,Age
-36,Spell,Legendary,Instant Gale
-37,Spell,Common,Rage
-38,Creature,Common,Paladin
-39,Spell,Common,Pandemonium
-40,Enchantment,Common,Agony
-41,Enchantment,Common,Blight
-42,Enchantment,Common,Invert
-43,Spell,Common,Torment
-44,Creature,Common,Goblin
+==================,DECK,7283
+0,Creature,Ghoul
+1,Spell,Torment
+2,Enchantment,Haste
+3,Creature,Paladin
+4,Enchantment,Chimeric Shrink
+5,Enchantment,Haste
+6,Enchantment,Invert
+7,Creature,Frozen Assassin Dwarf of the Black Stone
+8,Creature,Magi
+9,Creature,Snow Merchant Ogre of the Plains
+10,Spell,Ice
+11,Artifact,Gauntlet
+12,Creature,Earth Merchant Giant of the Golden Palace
+13,Artifact,Victory Sigil
+14,Enchantment,Age
+15,Artifact,Bracers
+16,Spell,Potent Forged Vortex
+17,Creature,Berserker
+18,Creature,Frozen Merchant Hydra
+19,Creature,Troll
+20,Creature,Death Rogue Cyclops
+21,Enchantment,Age
+22,Creature,Paladin
+23,Creature,Ghoul
+24,Creature,Eagle
+25,Creature,Ghoul
+26,Creature,Death Monk Cyclops
+27,Spell,Hypnosis
+28,Enchantment,Shade
+29,Spell,Stricken
+30,Creature,Ghoul
+31,Spell,Torment
+32,Creature,Ghoul
+33,Enchantment,Dire Victory Shade
+34,Artifact,Victory Scythe
+35,Enchantment,Blight
+36,Spell,Mighty Hateful Burst
+37,Spell,Frost
+38,Creature,Troll
+39,Spell,Infuriate
+40,Enchantment,Firebreath
+41,Enchantment,Blight
+42,Enchantment,Shrink
+43,Spell,Invisibility
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,5249,Light
-0,Spell,Common,Frenzy
-1,Creature,Common,Wolf
-2,Artifact,Common,Helm
-3,Spell,Common,Maelstrom
-4,Creature,Common,Paladin
-5,Creature,Rare,Death Assassin Griffin
-6,Enchantment,Common,Shrink
-7,Creature,Common,Eagle
-8,Spell,Common,Burst
-9,Creature,Legendary,Dark Undead Cyclops of the Mountains
-10,Creature,Common,Wolf
-11,Enchantment,Common,Shrink
-12,Artifact,Common,Belt
-13,Creature,Rare,Snow Warrior Griffin
-14,Creature,Common,Ghoul
-15,Creature,Mythic,Death Nameless Phoenix of the Dead
-16,Spell,Common,Torment
-17,Artifact,Common,Gloves
-18,Artifact,Rare,Hateful Pendant
-19,Spell,Common,Vortex
-20,Creature,Legendary,Light Rogue Orge of the Golden Palace
-21,Enchantment,Common,Strength
-22,Artifact,Rare,Corpse Scythe
-23,Enchantment,Rare,Corpse Lethargy
-24,Creature,Rare,Aura Fighter Hydra
-25,Creature,Mythic,Aura Nameless Dragon of the Light
-26,Creature,Common,Orc
-27,Spell,Rare,Necro Stun
-28,Artifact,Legendary,Urgent Amulet
-29,Creature,Common,Ghoul
-30,Creature,Common,Ghoul
-31,Enchantment,Mythic,Urgent Flight
-32,Enchantment,Common,Lethargy
-33,Spell,Common,Wall
-34,Spell,Common,Wall
-35,Creature,Common,Eagle
-36,Spell,Common,Stun
-37,Spell,Rare,Nimble Wall
-38,Creature,Legendary,Death King Cyclops of the West
-39,Spell,Rare,Miracle Pandemonium
-40,Creature,Rare,Light Assassin Berserker
-41,Creature,Common,Eagle
-42,Enchantment,Common,Age
-43,Creature,Common,Wolf
-44,Enchantment,Mythic,Instant Drain
+==================,DECK,5249
+0,Spell,Burst
+1,Creature,Wolf
+2,Artifact,Helm
+3,Spell,Heal
+4,Creature,Troll
+5,Creature,Death Assassin Griffin
+6,Enchantment,Blight
+7,Creature,Eagle
+8,Spell,Torment
+9,Creature,Dark Undead Giant of the Mountains
+10,Creature,Wolf
+11,Enchantment,Shield
+12,Artifact,Belt
+13,Creature,Snow Warrior Griffin
+14,Creature,Ghoul
+15,Creature,Death Nameless Phoenix of the Dead
+16,Spell,Burst
+17,Artifact,Gloves
+18,Artifact,Lunar Pendant
+19,Spell,Freeze
+20,Creature,Light Rogue Elf of the Golden Palace
+21,Enchantment,Lethargy
+22,Artifact,Hateful Scythe
+23,Enchantment,Hateful Age
+24,Creature,Aura Fighter Hydra
+25,Creature,Aura Nameless Dragon of the Light
+26,Creature,Spider
+27,Spell,Necro Stricken
+28,Artifact,Mighty Hateful Amulet
+29,Creature,Ghoul
+30,Creature,Ghoul
+31,Enchantment,Clever Hateful Lethargy
+32,Enchantment,Flight
+33,Spell,Invisibility
+34,Spell,Rage
+35,Creature,Eagle
+36,Spell,Lightning
+37,Spell,Solar Lightning
+38,Creature,Death King Giant of the West
+39,Spell,Grim Maelstrom
+40,Creature,Light Assassin Goblin
+41,Creature,Eagle
+42,Enchantment,Haste
+43,Creature,Wolf
+44,Enchantment,Mighty Forged Agony

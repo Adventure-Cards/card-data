@@ -1,46 +1,46 @@
-==================,DECK,4778,Medium
-0,Creature,Common,Warlock
-1,Enchantment,Rare,Solar Shield
-2,Creature,Legendary,Frozen Warrior Cyclops of the Plains
-3,Creature,Rare,Snow Merchant Minotaur
-4,Spell,Common,Sorrow
-5,Artifact,Common,Cloak
-6,Spell,Mythic,Angry Sorrow
-7,Spell,Rare,Dark Torment
-8,Creature,Legendary,Snow Thief Giant of the Plains
-9,Creature,Legendary,Light Rogue Orge of the Golden Palace
-10,Creature,Common,Dwarf
-11,Creature,Common,Goblin
-12,Creature,Common,Ghoul
-13,Creature,Common,Goblin
-14,Creature,Rare,Snow Monk Skin-Walker
-15,Creature,Common,Spider
-16,Creature,Common,Dwarf
-17,Creature,Rare,Earth King Fairy
-18,Artifact,Legendary,Potent Staff
-19,Artifact,Common,Cloak
-20,Artifact,Rare,Forged Scepter
-21,Artifact,Rare,Cataclysmic Sigil
-22,Enchantment,Common,Drain
-23,Creature,Common,Orc
-24,Enchantment,Rare,Apocalypse Flight
-25,Creature,Common,Goblin
-26,Creature,Legendary,Light Fighter Oni of the Frozen Castle
-27,Spell,Rare,Nature Reanimate
-28,Spell,Common,Burst
-29,Spell,Common,Frost
-30,Artifact,Common,Sword
-31,Spell,Legendary,Mighty Vortex
-32,Creature,Rare,Frozen Undead Hydra
-33,Creature,Common,Spider
-34,Spell,Common,Freeze
-35,Enchantment,Common,Age
-36,Creature,Common,Ghoul
-37,Spell,Rare,Oblivion Revive
-38,Enchantment,Rare,Nature Haste
-39,Artifact,Rare,Apocalypse Cloak
-40,Creature,Common,Orc
-41,Spell,Common,Wall
-42,Creature,Common,Wolf
-43,Creature,Rare,Light Lord Fairy
-44,Enchantment,Common,Drain
+==================,DECK,4778
+0,Creature,Berserker
+1,Enchantment,Nature Strength
+2,Creature,Frozen Warrior Giant of the Plains
+3,Creature,Snow Merchant Cyclops
+4,Spell,Vortex
+5,Artifact,Cloak
+6,Spell,Potent Miracle Rage
+7,Spell,Miracle Torment
+8,Creature,Snow Thief Dwarf of the Plains
+9,Creature,Light Rogue Elf of the Golden Palace
+10,Creature,Magi
+11,Creature,Skin-Walker
+12,Creature,Ghoul
+13,Creature,Skin-Walker
+14,Creature,Snow Monk Orc
+15,Creature,Paladin
+16,Creature,Magi
+17,Creature,Earth King Kraken
+18,Artifact,Irate Grim Staff
+19,Artifact,Cloak
+20,Artifact,Cataclysmic Scepter
+21,Artifact,Chimeric Sigil
+22,Enchantment,Shade
+23,Creature,Spider
+24,Enchantment,Grim Drain
+25,Creature,Skin-Walker
+26,Creature,Light Fighter Oni of the Frozen Castle
+27,Spell,Forged Lightning
+28,Spell,Gravitation
+29,Spell,Heal
+30,Artifact,Sword
+31,Spell,Instant Gloom Frost
+32,Creature,Frozen Undead Hydra
+33,Creature,Paladin
+34,Spell,Fire
+35,Enchantment,Agony
+36,Creature,Ghoul
+37,Spell,Victory Fire
+38,Enchantment,Corpse Strength
+39,Artifact,Grim Cloak
+40,Creature,Spider
+41,Spell,Frost
+42,Creature,Wolf
+43,Creature,Light Lord Kraken
+44,Enchantment,Agony

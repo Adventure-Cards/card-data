@@ -1,46 +1,46 @@
-==================,DECK,4264,Light
-0,Enchantment,Common,Agony
-1,Spell,Common,Infuriate
-2,Creature,Common,Magi
-3,Creature,Common,Ghoul
-4,Spell,Legendary,Potent Freeze
-5,Artifact,Common,Ghost Wand
-6,Creature,Common,Ghoul
-7,Creature,Common,Eagle
-8,Enchantment,Mythic,Extreme Age
-9,Spell,Common,Reanimate
-10,Enchantment,Mythic,Potent Shade
-11,Creature,Common,Wolf
-12,Enchantment,Common,Shade
-13,Creature,Common,Warlock
-14,Creature,Legendary,Aura Rogue Oni of the Haven
-15,Creature,Common,Wolf
-16,Creature,Common,Magi
-17,Creature,Common,Wolf
-18,Spell,Common,Maelstrom
-19,Creature,Common,Warlock
-20,Spell,Common,Wall
-21,Enchantment,Common,Age
-22,Creature,Common,Paladin
-23,Creature,Rare,Dark Rogue Fairy
-24,Creature,Rare,Snow Monk Skin-Walker
-25,Creature,Rare,Dark Queen Fairy
-26,Enchantment,Common,Flight
-27,Creature,Common,Wolf
-28,Enchantment,Common,Shield
-29,Spell,Common,Fury
-30,Creature,Rare,Snow Warrior Berserker
-31,Creature,Common,Goblin
-32,Creature,Common,Orc
-33,Spell,Rare,Corpse Rage
-34,Creature,Common,Ghoul
-35,Creature,Common,Orc
-36,Creature,Common,Dwarf
-37,Artifact,Rare,Grim Divine Robe
-38,Enchantment,Common,Invert
-39,Creature,Rare,Earth Monk Hydra
-40,Artifact,Common,Tome
-41,Spell,Rare,Life Maelstrom
-42,Enchantment,Common,Age
-43,Enchantment,Rare,Apocalypse Flight
-44,Enchantment,Common,Shrink
+==================,DECK,4264
+0,Enchantment,Strength
+1,Spell,Gravitation
+2,Creature,Fairy
+3,Creature,Ghoul
+4,Spell,Dire Nimble Pandemonium
+5,Artifact,Ghost Wand
+6,Creature,Ghoul
+7,Creature,Eagle
+8,Enchantment,Zealous Gloom Alacrity
+9,Spell,Burn
+10,Enchantment,Urgent Frigid Invert
+11,Creature,Wolf
+12,Enchantment,Haste
+13,Creature,Berserker
+14,Creature,Aura Rogue Oni of the Haven
+15,Creature,Wolf
+16,Creature,Fairy
+17,Creature,Wolf
+18,Spell,Assault
+19,Creature,Berserker
+20,Spell,Maelstrom
+21,Enchantment,Age
+22,Creature,Troll
+23,Creature,Dark Rogue Kraken
+24,Creature,Snow Monk Orc
+25,Creature,Dark Queen Kraken
+26,Enchantment,Shield
+27,Creature,Wolf
+28,Enchantment,Flight
+29,Spell,Sorrow
+30,Creature,Snow Warrior Goblin
+31,Creature,Skin-Walker
+32,Creature,Spider
+33,Spell,Hateful Maelstrom
+34,Creature,Ghoul
+35,Creature,Spider
+36,Creature,Magi
+37,Artifact,Oblivion Divine Robe
+38,Enchantment,Agony
+39,Creature,Earth Monk Hydra
+40,Artifact,Tome
+41,Spell,Frigid Tempest
+42,Enchantment,Shield
+43,Enchantment,Grim Blight
+44,Enchantment,Alacrity

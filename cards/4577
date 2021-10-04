@@ -1,46 +1,46 @@
-==================,DECK,4577,Medium
-0,Enchantment,Common,Shade
-1,Creature,Common,Elf
-2,Creature,Rare,Earth Merchant Berserker
-3,Enchantment,Common,Invert
-4,Creature,Legendary,Frozen Rogue Kraken of the West
-5,Spell,Common,Stun
-6,Creature,Common,Eagle
-7,Creature,Common,Orc
-8,Creature,Rare,Frozen Assassin Skin-Walker
-9,Spell,Rare,Solar Rage
-10,Creature,Common,Warlock
-11,Enchantment,Legendary,Mighty Deathgrip
-12,Artifact,Rare,Nimble Ring
-13,Artifact,Common,Helm
-14,Creature,Legendary,Frozen Fighter Cyclops of the Magical Forest
-15,Creature,Common,Eagle
-16,Creature,Common,Goblin
-17,Spell,Rare,Hateful Burst
-18,Enchantment,Common,Agony
-19,Creature,Common,Ghoul
-20,Spell,Common,Frenzy
-21,Creature,Rare,Snow Fighter Skin-Walker
-22,Spell,Mythic,Instant Hypnosis
-23,Creature,Rare,Frozen Monk Berserker
-24,Creature,Common,Spider
-25,Creature,Common,Wolf
-26,Creature,Rare,Frozen Priest Berserker
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Dwarf
-29,Enchantment,Legendary,Dire Haste
-30,Creature,Common,Magi
-31,Creature,Rare,Dark Undead Skin-Walker
-32,Artifact,Rare,Frigid Gauntlet
-33,Creature,Common,Elf
-34,Creature,Rare,Light Lord Minotaur
-35,Enchantment,Common,Shade
-36,Spell,Rare,Frigid Heal
-37,Creature,Common,Orc
-38,Creature,Rare,Aura Undead Hydra
-39,Creature,Common,Dwarf
-40,Spell,Rare,Miracle Gale
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Rare,Gloom Alacrity
-44,Spell,Rare,Apocalypse Hypnosis
+==================,DECK,4577
+0,Enchantment,Shrink
+1,Creature,Warlock
+2,Creature,Earth Merchant Goblin
+3,Enchantment,Invert
+4,Creature,Frozen Rogue Ogre of the West
+5,Spell,Reanimate
+6,Creature,Eagle
+7,Creature,Spider
+8,Creature,Frozen Assassin Orc
+9,Spell,Solar Vortex
+10,Creature,Berserker
+11,Enchantment,Empyrean Sorrow Firebreath
+12,Artifact,Corpse Ring
+13,Artifact,Helm
+14,Creature,Frozen Fighter Giant of the Magical Forest
+15,Creature,Eagle
+16,Creature,Skin-Walker
+17,Spell,Gloom Fireball
+18,Enchantment,Strength
+19,Creature,Ghoul
+20,Spell,Assault
+21,Creature,Snow Fighter Orc
+22,Spell,Clever Corpse Stricken
+23,Creature,Frozen Monk Goblin
+24,Creature,Paladin
+25,Creature,Wolf
+26,Creature,Frozen Priest Goblin
+27,Enchantment,Deathgrip
+28,Creature,Magi
+29,Enchantment,Potent Life Drain
+30,Creature,Fairy
+31,Creature,Dark Undead Orc
+32,Artifact,Nimble Gauntlet
+33,Creature,Warlock
+34,Creature,Light Lord Cyclops
+35,Enchantment,Blight
+36,Spell,Victory Reanimate
+37,Creature,Spider
+38,Creature,Aura Undead Hydra
+39,Creature,Magi
+40,Spell,Nimble Hypnosis
+41,Creature,Magi
+42,Enchantment,Strength
+43,Enchantment,Dark Flight
+44,Spell,Victory Ice

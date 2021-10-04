@@ -1,46 +1,46 @@
-==================,DECK,5395,Medium
-0,Creature,Common,Orc
-1,Spell,Legendary,Angry Revive
-2,Artifact,Common,Bracers
-3,Artifact,Common,Staff
-4,Spell,Mythic,Extreme Hypnosis
-5,Creature,Common,Elf
-6,Creature,Common,Ghoul
-7,Spell,Common,Stun
-8,Creature,Mythic,Earth Time Phoenix of the Shadows
-9,Creature,Rare,Light King Fairy
-10,Creature,Common,Magi
-11,Artifact,Common,Greaves
-12,Artifact,Rare,Frigid Crown
-13,Artifact,Common,Gloves
-14,Spell,Common,Invisibility
-15,Creature,Legendary,Frozen Thief Orge of the Bright Mountains
-16,Creature,Common,Wolf
-17,Enchantment,Mythic,Dire Blight
-18,Creature,Common,Dwarf
-19,Creature,Common,Magi
-20,Enchantment,Common,Lethargy
-21,Creature,Common,Eagle
-22,Spell,Common,Heal
-23,Creature,Common,Eagle
-24,Enchantment,Common,Blight
-25,Creature,Rare,Aura Thief Skin-Walker
-26,Creature,Mythic,Earth Undead Dragon of the Shadows
-27,Creature,Common,Goblin
-28,Enchantment,Mythic,Extreme Shield
-29,Creature,Legendary,Earth Monk Orge of the Frozen Castle
-30,Artifact,Rare,Necro Ring
-31,Enchantment,Common,Drain
-32,Creature,Legendary,Earth Merchant Giant of the Eastern Skies
-33,Enchantment,Mythic,Potent Shield
-34,Artifact,Rare,Nimble Helmet
-35,Creature,Rare,Frozen Queen Minotaur
-36,Artifact,Common,Helm
-37,Enchantment,Common,Agony
-38,Spell,Common,Stricken
-39,Creature,Rare,Light Merchant Fairy
-40,Creature,Legendary,Frozen Merchant Orge of the Black Stone
-41,Enchantment,Common,Invert
-42,Creature,Mythic,Light Time Dragon of the Sky
-43,Creature,Rare,Frozen Knight Skin-Walker
-44,Creature,Common,Elf
+==================,DECK,5395
+0,Creature,Spider
+1,Spell,Urgent Dark Freeze
+2,Artifact,Bracers
+3,Artifact,Staff
+4,Spell,Potent Cataclysmic Assault
+5,Creature,Warlock
+6,Creature,Ghoul
+7,Spell,Stun
+8,Creature,Earth Time Phoenix of the Shadows
+9,Creature,Light King Kraken
+10,Creature,Fairy
+11,Artifact,Greaves
+12,Artifact,Nimble Crown
+13,Artifact,Gloves
+14,Spell,Maelstrom
+15,Creature,Frozen Thief Elf of the Bright Mountains
+16,Creature,Wolf
+17,Enchantment,Empyrean Nimble Shade
+18,Creature,Magi
+19,Creature,Fairy
+20,Enchantment,Lethargy
+21,Creature,Eagle
+22,Spell,Torment
+23,Creature,Eagle
+24,Enchantment,Shrink
+25,Creature,Aura Thief Orc
+26,Creature,Earth Undead Dragon of the Shadows
+27,Creature,Skin-Walker
+28,Enchantment,Instant Gloom Shrink
+29,Creature,Earth Monk Elf of the Frozen Castle
+30,Artifact,Nature Ring
+31,Enchantment,Drain
+32,Creature,Earth Merchant Dwarf of the Eastern Skies
+33,Enchantment,Instant Victory Drain
+34,Artifact,Necro Helmet
+35,Creature,Frozen Queen Cyclops
+36,Artifact,Helm
+37,Enchantment,Flight
+38,Spell,Stun
+39,Creature,Light Merchant Kraken
+40,Creature,Frozen Merchant Elf of the Black Stone
+41,Enchantment,Agony
+42,Creature,Light Time Dragon of the Sky
+43,Creature,Frozen Knight Orc
+44,Creature,Warlock

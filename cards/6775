@@ -1,46 +1,46 @@
-==================,DECK,6775,Medium
-0,Creature,Common,Ghoul
-1,Creature,Common,Spider
-2,Creature,Mythic,Frozen Time Dragon of the Void
-3,Enchantment,Common,Age
-4,Artifact,Rare,Dark Tome
-5,Creature,Common,Paladin
-6,Creature,Rare,Earth Monk Hydra
-7,Enchantment,Legendary,Potent Strength
-8,Enchantment,Legendary,Clever Flight
-9,Creature,Rare,Dark Rogue Berserker
-10,Enchantment,Mythic,Extreme Shrink
-11,Enchantment,Legendary,Intense Lethargy
-12,Creature,Common,Paladin
-13,Creature,Common,Magi
-14,Creature,Common,Paladin
-15,Creature,Common,Magi
-16,Artifact,Legendary,Extreme Helm
-17,Creature,Rare,Snow Merchant Griffin
-18,Creature,Common,Elf
-19,Creature,Common,Dwarf
-20,Creature,Rare,Earth Queen Skin-Walker
-21,Creature,Common,Eagle
-22,Creature,Common,Paladin
-23,Enchantment,Common,Shade
-24,Creature,Common,Ghoul
-25,Creature,Rare,Frozen Rogue Minotaur
-26,Creature,Common,Paladin
-27,Enchantment,Rare,Grim Shield
-28,Artifact,Rare,Grim Tome
-29,Spell,Rare,Gloom Vortex
-30,Creature,Common,Wolf
-31,Creature,Common,Elf
-32,Enchantment,Common,Shrink
-33,Artifact,Rare,Nimble Potion
-34,Creature,Common,Paladin
-35,Enchantment,Mythic,Extreme Blight
-36,Enchantment,Common,Agony
-37,Enchantment,Common,Shrink
-38,Spell,Rare,Cataclysmic Sorrow
-39,Enchantment,Common,Haste
-40,Enchantment,Rare,Dark Agony
-41,Creature,Common,Dwarf
-42,Creature,Common,Dwarf
-43,Spell,Rare,Nature Pandemonium
-44,Enchantment,Mythic,Extreme Lethargy
+==================,DECK,6775
+0,Creature,Ghoul
+1,Creature,Paladin
+2,Creature,Frozen Time Dragon of the Void
+3,Enchantment,Shrink
+4,Artifact,Miracle Tome
+5,Creature,Troll
+6,Creature,Earth Monk Hydra
+7,Enchantment,Irate Nimble Blight
+8,Enchantment,Empyrean Grim Shade
+9,Creature,Dark Rogue Goblin
+10,Enchantment,Clever Chimeric Shield
+11,Enchantment,Irate Hateful Deathgrip
+12,Creature,Troll
+13,Creature,Fairy
+14,Creature,Troll
+15,Creature,Fairy
+16,Artifact,Dire Lunar Helm
+17,Creature,Snow Merchant Griffin
+18,Creature,Warlock
+19,Creature,Magi
+20,Creature,Earth Queen Orc
+21,Creature,Eagle
+22,Creature,Troll
+23,Enchantment,Alacrity
+24,Creature,Ghoul
+25,Creature,Frozen Rogue Cyclops
+26,Creature,Troll
+27,Enchantment,Victory Blight
+28,Artifact,Frigid Tome
+29,Spell,Sorrow Burn
+30,Creature,Wolf
+31,Creature,Warlock
+32,Enchantment,Shade
+33,Artifact,Solar Potion
+34,Creature,Troll
+35,Enchantment,Zealous Cataclysmic Alacrity
+36,Enchantment,Haste
+37,Enchantment,Shield
+38,Spell,Cataclysmic Gravitation
+39,Enchantment,Lethargy
+40,Enchantment,Miracle Shield
+41,Creature,Magi
+42,Creature,Magi
+43,Spell,Solar Tempest
+44,Enchantment,Instant Lunar Shrink

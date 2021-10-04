@@ -1,46 +1,46 @@
-==================,DECK,5617,Light
-0,Spell,Common,Gravitation
-1,Spell,Rare,Shimmering Burn
-2,Creature,Common,Magi
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Agony
-5,Creature,Mythic,Dark Chaos Wizard of Illusion
-6,Creature,Common,Dwarf
-7,Creature,Common,Elf
-8,Creature,Mythic,Death Nameless Phoenix of the Dead
-9,Creature,Common,Elf
-10,Creature,Common,Goblin
-11,Creature,Rare,Frozen Queen Hydra
-12,Creature,Common,Dwarf
-13,Creature,Common,Goblin
-14,Enchantment,Common,Blight
-15,Enchantment,Common,Flight
-16,Enchantment,Mythic,Extreme Deathgrip
-17,Creature,Legendary,Frozen Merchant Giant of the Swamp
-18,Spell,Common,Ice
-19,Spell,Rare,Dark Freeze
-20,Creature,Common,Orc
-21,Creature,Legendary,Aura Merchant Giant of the Bright Mountains
-22,Creature,Common,Ghoul
-23,Spell,Common,Maelstrom
-24,Enchantment,Common,Shield
-25,Creature,Rare,Snow Monk Fairy
-26,Artifact,Rare,Frigid Scepter
-27,Enchantment,Common,Flight
-28,Artifact,Rare,Dark Sigil
-29,Spell,Common,Frenzy
-30,Creature,Common,Paladin
-31,Enchantment,Legendary,Clever Flight
-32,Artifact,Legendary,Urgent Ring
-33,Enchantment,Common,Strength
-34,Creature,Common,Dwarf
-35,Creature,Common,Spider
-36,Creature,Common,Dwarf
-37,Creature,Common,Orc
-38,Artifact,Rare,Shimmering Bracers
-39,Enchantment,Common,Shield
-40,Creature,Rare,Dark Rogue Berserker
-41,Creature,Common,Spider
-42,Artifact,Common,Tome
-43,Creature,Common,Elf
-44,Artifact,Rare,Solar Amulet
+==================,DECK,5617
+0,Spell,Reanimate
+1,Spell,Hateful Lightning
+2,Creature,Fairy
+3,Creature,Magi
+4,Enchantment,Alacrity
+5,Creature,Dark Chaos Wizard of Illusion
+6,Creature,Magi
+7,Creature,Warlock
+8,Creature,Death Nameless Phoenix of the Dead
+9,Creature,Warlock
+10,Creature,Skin-Walker
+11,Creature,Frozen Queen Hydra
+12,Creature,Magi
+13,Creature,Skin-Walker
+14,Enchantment,Alacrity
+15,Enchantment,Blight
+16,Enchantment,Zealous Sorrow Alacrity
+17,Creature,Frozen Merchant Dwarf of the Swamp
+18,Spell,Fireball
+19,Spell,Sorrow Tempest
+20,Creature,Spider
+21,Creature,Aura Merchant Dwarf of the Bright Mountains
+22,Creature,Ghoul
+23,Spell,Revive
+24,Enchantment,Shrink
+25,Creature,Snow Monk Kraken
+26,Artifact,Oblivion Scepter
+27,Enchantment,Agony
+28,Artifact,Sorrow Sigil
+29,Spell,Gale
+30,Creature,Troll
+31,Enchantment,Potent Grim Drain
+32,Artifact,Instant Nature Ring
+33,Enchantment,Age
+34,Creature,Magi
+35,Creature,Paladin
+36,Creature,Magi
+37,Creature,Spider
+38,Artifact,Shimmering Bracers
+39,Enchantment,Lethargy
+40,Creature,Dark Rogue Goblin
+41,Creature,Paladin
+42,Artifact,Tome
+43,Creature,Warlock
+44,Artifact,Hateful Amulet

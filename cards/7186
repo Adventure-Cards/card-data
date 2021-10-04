@@ -1,46 +1,46 @@
-==================,DECK,7186,Light
-0,Creature,Common,Goblin
-1,Creature,Rare,Snow Thief Skin-Walker
-2,Spell,Common,Assault
-3,Creature,Common,Spider
-4,Enchantment,Rare,Solar Alacrity
-5,Creature,Common,Dwarf
-6,Spell,Common,Stun
-7,Spell,Rare,Nature Infuriate
-8,Creature,Common,Magi
-9,Creature,Common,Goblin
-10,Enchantment,Common,Shrink
-11,Creature,Rare,Snow Rogue Griffin
-12,Creature,Legendary,Earth Knight Cyclops of the Polar Woods
-13,Creature,Rare,Death Merchant Fairy
-14,Artifact,Common,Helmet
-15,Creature,Common,Goblin
-16,Creature,Common,Warlock
-17,Enchantment,Common,Alacrity
-18,Creature,Common,Magi
-19,Creature,Rare,Frozen Assassin Griffin
-20,Creature,Rare,Frozen Merchant Hydra
-21,Creature,Common,Magi
-22,Spell,Legendary,Urgent Invisibility
-23,Spell,Common,Frost
-24,Spell,Common,Gale
-25,Creature,Common,Spider
-26,Creature,Common,Magi
-27,Creature,Legendary,Snow Warrior Oni of the Plains
-28,Creature,Rare,Snow Monk Griffin
-29,Creature,Common,Ghoul
-30,Creature,Rare,Dark Queen Griffin
-31,Creature,Common,Spider
-32,Artifact,Rare,Oblivion Potion
-33,Spell,Common,Torment
-34,Creature,Legendary,Death Lord Cyclops of the Black Stone
-35,Creature,Common,Spider
-36,Creature,Common,Magi
-37,Creature,Rare,Earth Assassin Fairy
-38,Creature,Legendary,Death Priest Orge of the Frozen Castle
-39,Creature,Common,Paladin
-40,Creature,Rare,Frozen Undead Berserker
-41,Creature,Rare,Aura Priest Berserker
-42,Enchantment,Mythic,Clever Shade
-43,Creature,Common,Paladin
-44,Artifact,Rare,Hateful Greaves
+==================,DECK,7186
+0,Creature,Skin-Walker
+1,Creature,Snow Thief Orc
+2,Spell,Ice
+3,Creature,Paladin
+4,Enchantment,Forged Age
+5,Creature,Magi
+6,Spell,Torment
+7,Spell,Shimmering Fury
+8,Creature,Fairy
+9,Creature,Skin-Walker
+10,Enchantment,Shield
+11,Creature,Snow Rogue Griffin
+12,Creature,Earth Knight Giant of the Polar Woods
+13,Creature,Death Merchant Kraken
+14,Artifact,Helmet
+15,Creature,Skin-Walker
+16,Creature,Berserker
+17,Enchantment,Agony
+18,Creature,Fairy
+19,Creature,Frozen Assassin Griffin
+20,Creature,Frozen Merchant Hydra
+21,Creature,Fairy
+22,Spell,Instant Corpse Burst
+23,Spell,Burn
+24,Spell,Ice
+25,Creature,Paladin
+26,Creature,Fairy
+27,Creature,Snow Warrior Oni of the Plains
+28,Creature,Snow Monk Griffin
+29,Creature,Ghoul
+30,Creature,Dark Queen Griffin
+31,Creature,Paladin
+32,Artifact,Grim Potion
+33,Spell,Tempest
+34,Creature,Death Lord Giant of the Black Stone
+35,Creature,Paladin
+36,Creature,Fairy
+37,Creature,Earth Assassin Kraken
+38,Creature,Death Priest Elf of the Frozen Castle
+39,Creature,Troll
+40,Creature,Frozen Undead Goblin
+41,Creature,Aura Priest Goblin
+42,Enchantment,Urgent Frigid Invert
+43,Creature,Troll
+44,Artifact,Sorrow Greaves

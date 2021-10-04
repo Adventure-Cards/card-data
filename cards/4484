@@ -1,46 +1,46 @@
-==================,DECK,4484,Medium
-0,Enchantment,Common,Drain
-1,Creature,Mythic,Frozen Chaos Demon of the Void
-2,Spell,Rare,Life Pandemonium
-3,Creature,Rare,Death Lord Skin-Walker
-4,Spell,Rare,Apocalypse Stun
-5,Creature,Mythic,Light Grand Wizard of the Sky
-6,Creature,Common,Orc
-7,Enchantment,Common,Strength
-8,Spell,Rare,Frigid Heal
-9,Creature,Common,Elf
-10,Creature,Common,Paladin
-11,Spell,Rare,Life Stricken
-12,Creature,Rare,Dark King Hydra
-13,Enchantment,Mythic,Mighty Age
-14,Artifact,Common,Greaves
-15,Enchantment,Common,Shrink
-16,Artifact,Rare,Nature Staff
-17,Spell,Common,Frost
-18,Artifact,Common,Gauntlet
-19,Artifact,Rare,Grim Sigil
-20,Enchantment,Legendary,Angry Shade
-21,Creature,Legendary,Aura Rogue Cyclops of the Haven
-22,Enchantment,Common,Alacrity
-23,Enchantment,Rare,Life Deathgrip
-24,Creature,Common,Spider
-25,Spell,Mythic,Angry Rage
-26,Creature,Legendary,Snow Assassin Kraken of the Golden Palace
-27,Enchantment,Common,Flight
-28,Artifact,Rare,Dark Sigil
-29,Spell,Rare,Life Maelstrom
-30,Creature,Rare,Dark Monk Griffin
-31,Artifact,Legendary,Instant Gloves
-32,Enchantment,Mythic,Potent Drain
-33,Creature,Common,Wolf
-34,Creature,Common,Spider
-35,Enchantment,Common,Shield
-36,Creature,Common,Goblin
-37,Creature,Common,Spider
-38,Creature,Rare,Earth Knight Berserker
-39,Enchantment,Rare,Oblivion Strength
-40,Spell,Common,Hypnosis
-41,Spell,Common,Reanimate
-42,Artifact,Legendary,Mighty Boots
-43,Spell,Rare,Nature Burn
-44,Enchantment,Legendary,Mighty Shade
+==================,DECK,4484
+0,Enchantment,Shade
+1,Creature,Frozen Chaos Demon of the Void
+2,Spell,Oblivion Revive
+3,Creature,Death Lord Orc
+4,Spell,Grim Vortex
+5,Creature,Light Grand Wizard of the Sky
+6,Creature,Spider
+7,Enchantment,Alacrity
+8,Spell,Frigid Burst
+9,Creature,Warlock
+10,Creature,Troll
+11,Spell,Frigid Heal
+12,Creature,Dark King Hydra
+13,Enchantment,Mighty Gloom Flight
+14,Artifact,Greaves
+15,Enchantment,Shade
+16,Artifact,Forged Staff
+17,Spell,Hypnosis
+18,Artifact,Gauntlet
+19,Artifact,Victory Sigil
+20,Enchantment,Urgent Chimeric Flight
+21,Creature,Aura Rogue Giant of the Haven
+22,Enchantment,Age
+23,Enchantment,Oblivion Shade
+24,Creature,Paladin
+25,Spell,Dire Miracle Sorrow
+26,Creature,Snow Assassin Ogre of the Golden Palace
+27,Enchantment,Agony
+28,Artifact,Miracle Sigil
+29,Spell,Apocalypse Reanimate
+30,Creature,Dark Monk Griffin
+31,Artifact,Potent Solar Gloves
+32,Enchantment,Empyrean Apocalypse Shade
+33,Creature,Wolf
+34,Creature,Paladin
+35,Enchantment,Flight
+36,Creature,Skin-Walker
+37,Creature,Paladin
+38,Creature,Earth Knight Goblin
+39,Enchantment,Nimble Blight
+40,Spell,Freeze
+41,Spell,Burn
+42,Artifact,Ardent Cataclysmic Boots
+43,Spell,Forged Vortex
+44,Enchantment,Ardent Chimeric Shield

@@ -1,46 +1,46 @@
-==================,DECK,5558,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Assault
-2,Creature,Common,Paladin
-3,Artifact,Legendary,Angry Potion
-4,Creature,Common,Eagle
-5,Artifact,Legendary,Intense Ring
-6,Creature,Legendary,Frozen Merchant Orge of the Arctic Blizzards
-7,Spell,Common,Heal
-8,Creature,Common,Paladin
-9,Creature,Legendary,Earth Queen Oni of the Bright Mountains
-10,Creature,Common,Warlock
-11,Spell,Common,Sorrow
-12,Creature,Rare,Dark Lord Hydra
-13,Enchantment,Common,Agony
-14,Creature,Rare,Aura Rogue Berserker
-15,Spell,Common,Fury
-16,Spell,Common,Wall
-17,Spell,Common,Fury
-18,Creature,Common,Elf
-19,Creature,Common,Warlock
-20,Creature,Rare,Light Knight Hydra
-21,Artifact,Common,Greaves
-22,Creature,Common,Ghoul
-23,Creature,Common,Ghoul
-24,Creature,Common,Paladin
-25,Spell,Rare,Miracle Burst
-26,Creature,Common,Eagle
-27,Enchantment,Common,Age
-28,Creature,Common,Wolf
-29,Creature,Common,Eagle
-30,Creature,Common,Magi
-31,Creature,Common,Elf
-32,Creature,Common,Spider
-33,Artifact,Rare,Lunar Gloves
-34,Enchantment,Common,Shield
-35,Creature,Common,Elf
-36,Enchantment,Rare,Corpse Agony
-37,Enchantment,Common,Invert
-38,Creature,Common,Paladin
-39,Spell,Common,Gravitation
-40,Creature,Rare,Death Knight Berserker
-41,Spell,Rare,Apocalypse Burst
-42,Creature,Common,Orc
-43,Spell,Common,Assault
-44,Creature,Rare,Light King Skin-Walker
+==================,DECK,5558
+0,Creature,Ghoul
+1,Spell,Fury
+2,Creature,Troll
+3,Artifact,Clever Cataclysmic Potion
+4,Creature,Eagle
+5,Artifact,Instant Solar Ring
+6,Creature,Frozen Merchant Elf of the Arctic Blizzards
+7,Spell,Tempest
+8,Creature,Troll
+9,Creature,Earth Queen Oni of the Bright Mountains
+10,Creature,Berserker
+11,Spell,Maelstrom
+12,Creature,Dark Lord Hydra
+13,Enchantment,Agony
+14,Creature,Aura Rogue Goblin
+15,Spell,Burn
+16,Spell,Wall
+17,Spell,Burst
+18,Creature,Warlock
+19,Creature,Berserker
+20,Creature,Light Knight Hydra
+21,Artifact,Greaves
+22,Creature,Ghoul
+23,Creature,Ghoul
+24,Creature,Troll
+25,Spell,Apocalypse Revive
+26,Creature,Eagle
+27,Enchantment,Firebreath
+28,Creature,Wolf
+29,Creature,Eagle
+30,Creature,Fairy
+31,Creature,Warlock
+32,Creature,Paladin
+33,Artifact,Sorrow Gloves
+34,Enchantment,Age
+35,Creature,Warlock
+36,Enchantment,Corpse Agony
+37,Enchantment,Deathgrip
+38,Creature,Troll
+39,Spell,Vortex
+40,Creature,Death Knight Goblin
+41,Spell,Victory Fury
+42,Creature,Spider
+43,Spell,Infuriate
+44,Creature,Light King Orc

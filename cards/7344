@@ -1,46 +1,46 @@
-==================,DECK,7344,Medium
-0,Creature,Common,Magi
-1,Enchantment,Rare,Shimmering Flight
-2,Creature,Common,Spider
-3,Creature,Rare,Light Thief Hydra
-4,Creature,Common,Wolf
-5,Creature,Rare,Light Merchant Griffin
-6,Creature,Common,Wolf
-7,Enchantment,Mythic,Clever Invert
-8,Enchantment,Common,Agony
-9,Creature,Common,Warlock
-10,Creature,Common,Goblin
-11,Spell,Common,Burn
-12,Creature,Mythic,Snow Undead Phoenix of Hate
-13,Artifact,Legendary,Extreme Potion
-14,Creature,Common,Wolf
-15,Creature,Common,Orc
-16,Spell,Legendary,Intense Assault
-17,Spell,Common,Frenzy
-18,Creature,Common,Warlock
-19,Creature,Rare,Light Knight Fairy
-20,Creature,Common,Dwarf
-21,Creature,Common,Orc
-22,Creature,Common,Paladin
-23,Spell,Common,Lightning
-24,Creature,Common,Elf
-25,Creature,Rare,Dark Undead Hydra
-26,Artifact,Common,Shield
-27,Creature,Common,Wolf
-28,Creature,Rare,Frozen Monk Hydra
-29,Creature,Common,Dwarf
-30,Creature,Common,Spider
-31,Creature,Common,Warlock
-32,Creature,Common,Paladin
-33,Creature,Common,Spider
-34,Creature,Common,Goblin
-35,Creature,Legendary,Dark Queen Cyclops of the Swamp
-36,Spell,Rare,Solar Gravitation
-37,Artifact,Rare,Nature Potion
-38,Spell,Legendary,Urgent Freeze
-39,Creature,Common,Wolf
-40,Spell,Rare,Apocalypse Pandemonium
-41,Creature,Legendary,Light Knight Giant of the Polar Woods
-42,Enchantment,Rare,Grim Shield
-43,Enchantment,Rare,Gloom Shield
-44,Creature,Legendary,Aura Fighter Kraken of the Plains
+==================,DECK,7344
+0,Creature,Fairy
+1,Enchantment,Hateful Agony
+2,Creature,Paladin
+3,Creature,Light Thief Hydra
+4,Creature,Wolf
+5,Creature,Light Merchant Griffin
+6,Creature,Wolf
+7,Enchantment,Urgent Oblivion Invert
+8,Enchantment,Invert
+9,Creature,Berserker
+10,Creature,Skin-Walker
+11,Spell,Ice
+12,Creature,Snow Undead Phoenix of Hate
+13,Artifact,Clever Chimeric Potion
+14,Creature,Wolf
+15,Creature,Spider
+16,Spell,Dire Solar Infuriate
+17,Spell,Gale
+18,Creature,Berserker
+19,Creature,Light Knight Kraken
+20,Creature,Magi
+21,Creature,Spider
+22,Creature,Troll
+23,Spell,Tempest
+24,Creature,Warlock
+25,Creature,Dark Undead Hydra
+26,Artifact,Shield
+27,Creature,Wolf
+28,Creature,Frozen Monk Hydra
+29,Creature,Magi
+30,Creature,Paladin
+31,Creature,Berserker
+32,Creature,Troll
+33,Creature,Paladin
+34,Creature,Skin-Walker
+35,Creature,Dark Queen Giant of the Swamp
+36,Spell,Hateful Infuriate
+37,Artifact,Forged Potion
+38,Spell,Instant Hateful Hypnosis
+39,Creature,Wolf
+40,Spell,Grim Torment
+41,Creature,Light Knight Dwarf of the Polar Woods
+42,Enchantment,Victory Shade
+43,Enchantment,Gloom Shrink
+44,Creature,Aura Fighter Ogre of the Plains

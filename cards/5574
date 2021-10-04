@@ -1,46 +1,46 @@
-==================,DECK,5574,Medium
-0,Artifact,Common,Pendant
-1,Enchantment,Legendary,Dire Shade
-2,Creature,Common,Paladin
-3,Creature,Mythic,Light Nameless Phoenix of the Sky
-4,Artifact,Rare,Nimble Gauntlet
-5,Spell,Legendary,Mighty Reanimate
-6,Enchantment,Common,Invert
-7,Artifact,Common,Boots
-8,Spell,Common,Revive
-9,Enchantment,Rare,Life Shrink
-10,Creature,Common,Spider
-11,Creature,Common,Spider
-12,Spell,Common,Infuriate
-13,Enchantment,Common,Invert
-14,Spell,Common,Hypnosis
-15,Spell,Common,Hypnosis
-16,Enchantment,Mythic,Clever Deathgrip
-17,Creature,Common,Dwarf
-18,Enchantment,Rare,Grim Invert
-19,Creature,Rare,Death Warrior Skin-Walker
-20,Spell,Rare,Cataclysmic Hypnosis
-21,Enchantment,Common,Blight
-22,Artifact,Rare,Grim Sword
-23,Spell,Common,Gravitation
-24,Creature,Mythic,Snow Chaos Wizard of Hate
-25,Artifact,Legendary,Mighty Helm
-26,Creature,Common,Dwarf
-27,Creature,Common,Wolf
-28,Spell,Rare,Necro Pandemonium
-29,Creature,Rare,Frozen Lord Minotaur
-30,Spell,Common,Invisibility
-31,Artifact,Common,Belt
-32,Creature,Common,Spider
-33,Creature,Common,Ghoul
-34,Creature,Common,Orc
-35,Artifact,Rare,Hateful Helm
-36,Creature,Common,Wolf
-37,Artifact,Rare,Gloom Ring
-38,Creature,Common,Wolf
-39,Artifact,Common,Helmet
-40,Creature,Common,Spider
-41,Spell,Mythic,Dire Ice
-42,Spell,Rare,Oblivion Revive
-43,Creature,Common,Dwarf
-44,Creature,Common,Ghoul
+==================,DECK,5574
+0,Artifact,Pendant
+1,Enchantment,Dire Frigid Shade
+2,Creature,Troll
+3,Creature,Light Nameless Phoenix of the Sky
+4,Artifact,Hateful Gauntlet
+5,Spell,Clever Sorrow Wall
+6,Enchantment,Haste
+7,Artifact,Boots
+8,Spell,Maelstrom
+9,Enchantment,Frigid Shade
+10,Creature,Paladin
+11,Creature,Paladin
+12,Spell,Hypnosis
+13,Enchantment,Strength
+14,Spell,Pandemonium
+15,Spell,Infuriate
+16,Enchantment,Empyrean Oblivion Shade
+17,Creature,Magi
+18,Enchantment,Oblivion Haste
+19,Creature,Death Warrior Orc
+20,Spell,Sorrow Fire
+21,Enchantment,Blight
+22,Artifact,Life Sword
+23,Spell,Invisibility
+24,Creature,Snow Chaos Wizard of Hate
+25,Artifact,Empyrean Dark Helm
+26,Creature,Magi
+27,Creature,Wolf
+28,Spell,Corpse Stricken
+29,Creature,Frozen Lord Cyclops
+30,Spell,Fury
+31,Artifact,Belt
+32,Creature,Paladin
+33,Creature,Ghoul
+34,Creature,Spider
+35,Artifact,Gloom Helm
+36,Creature,Wolf
+37,Artifact,Dark Ring
+38,Creature,Wolf
+39,Artifact,Helmet
+40,Creature,Paladin
+41,Spell,Zealous Grim Ice
+42,Spell,Nimble Ice
+43,Creature,Magi
+44,Creature,Ghoul

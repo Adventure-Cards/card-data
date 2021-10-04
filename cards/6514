@@ -1,46 +1,46 @@
-==================,DECK,6514,Light
-0,Creature,Rare,Dark Merchant Minotaur
-1,Enchantment,Common,Lethargy
-2,Spell,Legendary,Potent Gale
-3,Enchantment,Common,Shrink
-4,Creature,Common,Eagle
-5,Spell,Common,Maelstrom
-6,Spell,Rare,Apocalypse Fury
-7,Creature,Common,Warlock
-8,Creature,Common,Dwarf
-9,Enchantment,Rare,Nimble Invert
-10,Creature,Common,Eagle
-11,Creature,Legendary,Death Undead Oni of the West
-12,Creature,Mythic,Light Chaos Demon of the Sky
-13,Creature,Common,Dwarf
-14,Enchantment,Common,Alacrity
-15,Enchantment,Common,Deathgrip
-16,Creature,Common,Goblin
-17,Spell,Common,Pandemonium
-18,Enchantment,Legendary,Mighty Shade
-19,Spell,Common,Sorrow
-20,Spell,Common,Heal
-21,Enchantment,Common,Flight
-22,Spell,Common,Torment
-23,Artifact,Common,Cloak
-24,Creature,Common,Goblin
-25,Creature,Common,Spider
-26,Enchantment,Common,Flight
-27,Creature,Common,Wolf
-28,Creature,Legendary,Death Rogue Orge of the Magical Forest
-29,Spell,Common,Sorrow
-30,Spell,Common,Revive
-31,Spell,Rare,Corpse Freeze
-32,Creature,Common,Paladin
-33,Spell,Legendary,Dire Burst
-34,Creature,Common,Elf
-35,Enchantment,Rare,Lunar Drain
-36,Spell,Common,Maelstrom
-37,Artifact,Common,Greaves
-38,Enchantment,Common,Blight
-39,Creature,Common,Spider
-40,Creature,Mythic,Frozen Ancient Wizard of the Void
-41,Artifact,Common,Ring
-42,Spell,Common,Lightning
-43,Creature,Common,Orc
-44,Creature,Common,Dwarf
+==================,DECK,6514
+0,Creature,Dark Merchant Cyclops
+1,Enchantment,Invert
+2,Spell,Zealous Victory Ice
+3,Enchantment,Agony
+4,Creature,Eagle
+5,Spell,Tempest
+6,Spell,Victory Fire
+7,Creature,Berserker
+8,Creature,Magi
+9,Enchantment,Shimmering Age
+10,Creature,Eagle
+11,Creature,Death Undead Oni of the West
+12,Creature,Light Chaos Demon of the Sky
+13,Creature,Magi
+14,Enchantment,Haste
+15,Enchantment,Shrink
+16,Creature,Skin-Walker
+17,Spell,Gale
+18,Enchantment,Urgent Chimeric Flight
+19,Spell,Fury
+20,Spell,Heal
+21,Enchantment,Firebreath
+22,Spell,Torment
+23,Artifact,Cloak
+24,Creature,Skin-Walker
+25,Creature,Paladin
+26,Enchantment,Flight
+27,Creature,Wolf
+28,Creature,Death Rogue Elf of the Magical Forest
+29,Spell,Fire
+30,Spell,Infuriate
+31,Spell,Corpse Lightning
+32,Creature,Troll
+33,Spell,Empyrean Nimble Invisibility
+34,Creature,Warlock
+35,Enchantment,Dark Alacrity
+36,Spell,Maelstrom
+37,Artifact,Greaves
+38,Enchantment,Invert
+39,Creature,Paladin
+40,Creature,Frozen Ancient Wizard of the Void
+41,Artifact,Ring
+42,Spell,Frost
+43,Creature,Spider
+44,Creature,Magi

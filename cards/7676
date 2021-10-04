@@ -1,46 +1,46 @@
-==================,DECK,7676,Light
-0,Creature,Mythic,Frozen Ancient Demon of the Void
-1,Enchantment,Common,Age
-2,Creature,Common,Dwarf
-3,Enchantment,Common,Drain
-4,Spell,Common,Vortex
-5,Spell,Rare,Forged Heal
-6,Creature,Mythic,Aura Undead Dragon of the Light
-7,Enchantment,Common,Shrink
-8,Enchantment,Common,Age
-9,Enchantment,Common,Lethargy
-10,Creature,Common,Warlock
-11,Creature,Rare,Death Assassin Griffin
-12,Spell,Common,Hypnosis
-13,Creature,Common,Paladin
-14,Creature,Mythic,Frozen Chaos Demon of the Void
-15,Creature,Common,Elf
-16,Enchantment,Common,Strength
-17,Creature,Common,Dwarf
-18,Artifact,Rare,Oblivion Scepter
-19,Enchantment,Common,Invert
-20,Artifact,Rare,Grim Helm
-21,Artifact,Rare,Lunar Crown
-22,Artifact,Legendary,Potent Greaves
-23,Creature,Mythic,Dark Time Dragon of Illusion
-24,Spell,Common,Fury
-25,Enchantment,Common,Agony
-26,Creature,Common,Magi
-27,Creature,Common,Eagle
-28,Spell,Common,Stricken
-29,Spell,Legendary,Clever Revive
-30,Artifact,Common,Staff
-31,Creature,Common,Elf
-32,Artifact,Common,Bracers
-33,Creature,Common,Warlock
-34,Creature,Legendary,Snow King Cyclops of the Haven
-35,Creature,Common,Spider
-36,Spell,Common,Pandemonium
-37,Spell,Common,Stun
-38,Creature,Common,Eagle
-39,Enchantment,Rare,Grim Agony
-40,Enchantment,Mythic,Instant Strength
-41,Spell,Common,Burn
-42,Creature,Rare,Aura Assassin Fairy
-43,Enchantment,Mythic,Urgent Blight
-44,Enchantment,Common,Haste
+==================,DECK,7676
+0,Creature,Frozen Ancient Demon of the Void
+1,Enchantment,Strength
+2,Creature,Magi
+3,Enchantment,Alacrity
+4,Spell,Fireball
+5,Spell,Cataclysmic Tempest
+6,Creature,Aura Undead Dragon of the Light
+7,Enchantment,Agony
+8,Enchantment,Shade
+9,Enchantment,Invert
+10,Creature,Berserker
+11,Creature,Death Assassin Griffin
+12,Spell,Burn
+13,Creature,Troll
+14,Creature,Frozen Chaos Demon of the Void
+15,Creature,Warlock
+16,Enchantment,Firebreath
+17,Creature,Magi
+18,Artifact,Grim Scepter
+19,Enchantment,Invert
+20,Artifact,Oblivion Helm
+21,Artifact,Sorrow Crown
+22,Artifact,Urgent Apocalypse Greaves
+23,Creature,Dark Time Dragon of Illusion
+24,Spell,Gravitation
+25,Enchantment,Invert
+26,Creature,Fairy
+27,Creature,Eagle
+28,Spell,Fury
+29,Spell,Urgent Life Wall
+30,Artifact,Staff
+31,Creature,Warlock
+32,Artifact,Bracers
+33,Creature,Berserker
+34,Creature,Snow King Giant of the Haven
+35,Creature,Paladin
+36,Spell,Burn
+37,Spell,Maelstrom
+38,Creature,Eagle
+39,Enchantment,Life Shade
+40,Enchantment,Instant Solar Strength
+41,Spell,Vortex
+42,Creature,Aura Assassin Kraken
+43,Enchantment,Clever Solar Lethargy
+44,Enchantment,Agony

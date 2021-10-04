@@ -1,46 +1,46 @@
-==================,DECK,7615,Medium
-0,Creature,Common,Elf
-1,Creature,Rare,Death Priest Griffin
-2,Spell,Rare,Corpse Torment
-3,Creature,Common,Orc
-4,Artifact,Rare,Hateful Crown
-5,Creature,Common,Magi
-6,Creature,Rare,Snow King Hydra
-7,Enchantment,Rare,Life Blight
-8,Creature,Common,Ghoul
-9,Artifact,Rare,Corpse Staff
-10,Creature,Rare,Dark Priest Minotaur
-11,Creature,Common,Elf
-12,Enchantment,Legendary,Mighty Drain
-13,Creature,Rare,Dark King Minotaur
-14,Creature,Rare,Dark Merchant Skin-Walker
-15,Enchantment,Legendary,Intense Deathgrip
-16,Creature,Common,Paladin
-17,Enchantment,Common,Deathgrip
-18,Artifact,Rare,Nimble Potion
-19,Spell,Common,Frost
-20,Spell,Rare,Cataclysmic Infuriate
-21,Creature,Common,Dwarf
-22,Enchantment,Rare,Gloom Shield
-23,Spell,Common,Stun
-24,Spell,Rare,Apocalypse Gale
-25,Spell,Mythic,Urgent Gale
-26,Creature,Legendary,Snow Assassin Oni of the Black Stone
-27,Creature,Rare,Light Undead Fairy
-28,Creature,Common,Dwarf
-29,Spell,Rare,Miracle Fury
-30,Creature,Rare,Death Merchant Berserker
-31,Enchantment,Common,Shrink
-32,Creature,Common,Orc
-33,Enchantment,Common,Shrink
-34,Spell,Common,Sorrow
-35,Artifact,Rare,Corpse Ring
-36,Creature,Legendary,Frozen Lord Kraken of the Frozen Castle
-37,Enchantment,Common,Haste
-38,Spell,Rare,Frigid Revive
-39,Enchantment,Common,Invert
-40,Creature,Common,Ghoul
-41,Creature,Common,Dwarf
-42,Creature,Common,Dwarf
-43,Artifact,Rare,Lunar Crown
-44,Creature,Common,Elf
+==================,DECK,7615
+0,Creature,Warlock
+1,Creature,Death Priest Griffin
+2,Spell,Shimmering Tempest
+3,Creature,Spider
+4,Artifact,Chimeric Crown
+5,Creature,Fairy
+6,Creature,Snow King Hydra
+7,Enchantment,Nimble Invert
+8,Creature,Ghoul
+9,Artifact,Necro Staff
+10,Creature,Dark Priest Cyclops
+11,Creature,Warlock
+12,Enchantment,Zealous Dark Alacrity
+13,Creature,Dark King Cyclops
+14,Creature,Dark Merchant Orc
+15,Enchantment,Mighty Shimmering Agony
+16,Creature,Troll
+17,Enchantment,Alacrity
+18,Artifact,Forged Potion
+19,Spell,Revive
+20,Spell,Cataclysmic Stun
+21,Creature,Magi
+22,Enchantment,Gloom Flight
+23,Spell,Fire
+24,Spell,Grim Sorrow
+25,Spell,Zealous Corpse Burst
+26,Creature,Snow Assassin Oni of the Black Stone
+27,Creature,Light Undead Kraken
+28,Creature,Magi
+29,Spell,Apocalypse Vortex
+30,Creature,Death Merchant Goblin
+31,Enchantment,Strength
+32,Creature,Spider
+33,Enchantment,Strength
+34,Spell,Frost
+35,Artifact,Nature Ring
+36,Creature,Frozen Lord Ogre of the Frozen Castle
+37,Enchantment,Blight
+38,Spell,Apocalypse Infuriate
+39,Enchantment,Flight
+40,Creature,Ghoul
+41,Creature,Magi
+42,Creature,Magi
+43,Artifact,Sorrow Crown
+44,Creature,Warlock

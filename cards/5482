@@ -1,46 +1,46 @@
-==================,DECK,5482,Light
-0,Creature,Rare,Frozen Monk Skin-Walker
-1,Creature,Common,Wolf
-2,Spell,Common,Hypnosis
-3,Creature,Common,Wolf
-4,Spell,Rare,Hateful Stun
-5,Creature,Common,Warlock
-6,Spell,Common,Burn
-7,Creature,Mythic,Earth Grand Demon of the Shadows
-8,Creature,Common,Orc
-9,Enchantment,Common,Alacrity
-10,Creature,Common,Magi
-11,Creature,Common,Warlock
-12,Creature,Mythic,Snow Undead Phoenix of Hate
-13,Creature,Common,Spider
-14,Spell,Common,Vortex
-15,Creature,Common,Magi
-16,Enchantment,Common,Agony
-17,Creature,Legendary,Snow King Cyclops of the Polar Woods
-18,Creature,Rare,Dark Warrior Hydra
-19,Artifact,Rare,Apocalypse Helm
-20,Enchantment,Common,Invert
-21,Creature,Common,Magi
-22,Creature,Common,Paladin
-23,Enchantment,Common,Shade
-24,Spell,Common,Burn
-25,Spell,Rare,Miracle Ice
-26,Spell,Common,Sorrow
-27,Creature,Rare,Light Thief Skin-Walker
-28,Creature,Common,Warlock
-29,Enchantment,Common,Shield
-30,Spell,Rare,Nature Stun
-31,Creature,Rare,Snow Fighter Minotaur
-32,Enchantment,Common,Invert
-33,Creature,Rare,Frozen Priest Griffin
-34,Creature,Common,Orc
-35,Spell,Common,Invisibility
-36,Creature,Rare,Death Monk Hydra
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Deathgrip
-39,Artifact,Common,Pendant
-40,Creature,Legendary,Snow King Orge of the Frozen Castle
-41,Enchantment,Common,Blight
-42,Spell,Common,Reanimate
-43,Creature,Rare,Earth Rogue Berserker
-44,Spell,Common,Gravitation
+==================,DECK,5482
+0,Creature,Frozen Monk Orc
+1,Creature,Wolf
+2,Spell,Vortex
+3,Creature,Wolf
+4,Spell,Chimeric Fury
+5,Creature,Berserker
+6,Spell,Frost
+7,Creature,Earth Grand Demon of the Shadows
+8,Creature,Spider
+9,Enchantment,Shrink
+10,Creature,Fairy
+11,Creature,Berserker
+12,Creature,Snow Undead Phoenix of Hate
+13,Creature,Paladin
+14,Spell,Frost
+15,Creature,Fairy
+16,Enchantment,Drain
+17,Creature,Snow King Giant of the Polar Woods
+18,Creature,Dark Warrior Hydra
+19,Artifact,Apocalypse Helm
+20,Enchantment,Shade
+21,Creature,Fairy
+22,Creature,Troll
+23,Enchantment,Drain
+24,Spell,Frenzy
+25,Spell,Grim Torment
+26,Spell,Hypnosis
+27,Creature,Light Thief Orc
+28,Creature,Berserker
+29,Enchantment,Flight
+30,Spell,Nature Pandemonium
+31,Creature,Snow Fighter Cyclops
+32,Enchantment,Age
+33,Creature,Frozen Priest Griffin
+34,Creature,Spider
+35,Spell,Wall
+36,Creature,Death Monk Hydra
+37,Enchantment,Alacrity
+38,Enchantment,Alacrity
+39,Artifact,Pendant
+40,Creature,Snow King Elf of the Frozen Castle
+41,Enchantment,Deathgrip
+42,Spell,Gale
+43,Creature,Earth Rogue Goblin
+44,Spell,Revive

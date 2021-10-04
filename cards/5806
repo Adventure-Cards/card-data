@@ -1,46 +1,46 @@
-==================,DECK,5806,Light
-0,Creature,Rare,Earth Assassin Hydra
-1,Enchantment,Common,Strength
-2,Creature,Rare,Light Monk Hydra
-3,Enchantment,Common,Alacrity
-4,Creature,Rare,Frozen Assassin Skin-Walker
-5,Creature,Common,Wolf
-6,Enchantment,Mythic,Angry Haste
-7,Spell,Rare,Grim Lightning
-8,Creature,Common,Eagle
-9,Creature,Rare,Earth King Skin-Walker
-10,Creature,Common,Goblin
-11,Enchantment,Common,Deathgrip
-12,Creature,Common,Magi
-13,Enchantment,Common,Blight
-14,Artifact,Common,Crown
-15,Creature,Rare,Snow Assassin Skin-Walker
-16,Creature,Legendary,Earth Rogue Oni of the Golden Palace
-17,Enchantment,Common,Alacrity
-18,Enchantment,Common,Shield
-19,Enchantment,Common,Agony
-20,Enchantment,Common,Invert
-21,Spell,Common,Heal
-22,Creature,Common,Ghoul
-23,Creature,Legendary,Snow Thief Kraken of the Golden Palace
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Common,Shield
-26,Creature,Common,Ghoul
-27,Creature,Mythic,Snow Ancient Wizard of Hate
-28,Creature,Common,Warlock
-29,Creature,Legendary,Light Priest Cyclops of the Black Stone
-30,Artifact,Common,Scepter
-31,Creature,Common,Paladin
-32,Spell,Common,Maelstrom
-33,Creature,Mythic,Frozen Ancient Demon of the Void
-34,Artifact,Common,Helmet
-35,Spell,Common,Torment
-36,Artifact,Rare,Dark Sword
-37,Artifact,Common,Boots
-38,Creature,Common,Ghoul
-39,Creature,Common,Elf
-40,Enchantment,Common,Flight
-41,Enchantment,Common,Blight
-42,Artifact,Legendary,Extreme Bracers
-43,Creature,Common,Goblin
-44,Creature,Common,Spider
+==================,DECK,5806
+0,Creature,Earth Assassin Hydra
+1,Enchantment,Firebreath
+2,Creature,Light Monk Hydra
+3,Enchantment,Lethargy
+4,Creature,Frozen Assassin Orc
+5,Creature,Wolf
+6,Enchantment,Mighty Miracle Flight
+7,Spell,Nimble Frenzy
+8,Creature,Eagle
+9,Creature,Earth King Orc
+10,Creature,Skin-Walker
+11,Enchantment,Blight
+12,Creature,Fairy
+13,Enchantment,Alacrity
+14,Artifact,Crown
+15,Creature,Snow Assassin Orc
+16,Creature,Earth Rogue Oni of the Golden Palace
+17,Enchantment,Drain
+18,Enchantment,Deathgrip
+19,Enchantment,Blight
+20,Enchantment,Haste
+21,Spell,Wall
+22,Creature,Ghoul
+23,Creature,Snow Thief Ogre of the Golden Palace
+24,Enchantment,Age
+25,Enchantment,Drain
+26,Creature,Ghoul
+27,Creature,Snow Ancient Wizard of Hate
+28,Creature,Berserker
+29,Creature,Light Priest Giant of the Black Stone
+30,Artifact,Scepter
+31,Creature,Troll
+32,Spell,Vortex
+33,Creature,Frozen Ancient Demon of the Void
+34,Artifact,Helmet
+35,Spell,Tempest
+36,Artifact,Dark Sword
+37,Artifact,Boots
+38,Creature,Ghoul
+39,Creature,Warlock
+40,Enchantment,Shade
+41,Enchantment,Haste
+42,Artifact,Irate Sorrow Bracers
+43,Creature,Skin-Walker
+44,Creature,Paladin

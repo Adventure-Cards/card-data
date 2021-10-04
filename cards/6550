@@ -1,46 +1,46 @@
-==================,DECK,6550,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Spider
-2,Enchantment,Common,Blight
-3,Spell,Common,Stricken
-4,Creature,Common,Warlock
-5,Artifact,Rare,Solar Bow
-6,Spell,Common,Fury
-7,Artifact,Rare,Lunar Pendant
-8,Spell,Common,Maelstrom
-9,Creature,Common,Warlock
-10,Creature,Common,Ghoul
-11,Creature,Common,Wolf
-12,Spell,Rare,Frigid Frenzy
-13,Spell,Rare,Hateful Gale
-14,Spell,Common,Sorrow
-15,Enchantment,Common,Agony
-16,Enchantment,Common,Drain
-17,Creature,Rare,Aura Warrior Berserker
-18,Enchantment,Rare,Oblivion Lethargy
-19,Creature,Common,Wolf
-20,Creature,Common,Warlock
-21,Spell,Common,Maelstrom
-22,Creature,Common,Eagle
-23,Enchantment,Common,Agony
-24,Creature,Rare,Death Thief Minotaur
-25,Spell,Common,Infuriate
-26,Creature,Rare,Dark Thief Fairy
-27,Creature,Common,Spider
-28,Creature,Common,Dwarf
-29,Creature,Common,Warlock
-30,Creature,Common,Elf
-31,Artifact,Rare,Necro Tome
-32,Creature,Common,Orc
-33,Creature,Rare,Dark Lord Berserker
-34,Creature,Common,Goblin
-35,Creature,Rare,Earth Undead Hydra
-36,Artifact,Rare,Necro Amulet
-37,Creature,Common,Dwarf
-38,Creature,Common,Eagle
-39,Creature,Common,Spider
-40,Creature,Common,Dwarf
-41,Enchantment,Legendary,Extreme Deathgrip
-42,Creature,Rare,Death Monk Minotaur
-43,Enchantment,Legendary,Dire Deathgrip
-44,Spell,Common,Maelstrom
+==================,DECK,6550
+0,Enchantment,Agony
+1,Creature,Paladin
+2,Enchantment,Drain
+3,Spell,Burn
+4,Creature,Berserker
+5,Artifact,Solar Bow
+6,Spell,Gravitation
+7,Artifact,Lunar Pendant
+8,Spell,Frenzy
+9,Creature,Berserker
+10,Creature,Ghoul
+11,Creature,Wolf
+12,Spell,Nimble Revive
+13,Spell,Chimeric Torment
+14,Spell,Gale
+15,Enchantment,Invert
+16,Enchantment,Deathgrip
+17,Creature,Aura Warrior Goblin
+18,Enchantment,Grim Shade
+19,Creature,Wolf
+20,Creature,Berserker
+21,Spell,Tempest
+22,Creature,Eagle
+23,Enchantment,Lethargy
+24,Creature,Death Thief Cyclops
+25,Spell,Tempest
+26,Creature,Dark Thief Kraken
+27,Creature,Paladin
+28,Creature,Magi
+29,Creature,Berserker
+30,Creature,Warlock
+31,Artifact,Shimmering Tome
+32,Creature,Spider
+33,Creature,Dark Lord Goblin
+34,Creature,Skin-Walker
+35,Creature,Earth Undead Hydra
+36,Artifact,Corpse Amulet
+37,Creature,Magi
+38,Creature,Eagle
+39,Creature,Paladin
+40,Creature,Magi
+41,Enchantment,Clever Sorrow Shield
+42,Creature,Death Monk Cyclops
+43,Enchantment,Mighty Oblivion Invert
+44,Spell,Burn

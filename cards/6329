@@ -1,46 +1,46 @@
-==================,DECK,6329,Medium
-0,Spell,Common,Sorrow
-1,Spell,Common,Ice
-2,Creature,Rare,Aura Rogue Skin-Walker
-3,Artifact,Common,Ring
-4,Creature,Common,Orc
-5,Creature,Common,Magi
-6,Creature,Common,Eagle
-7,Enchantment,Legendary,Extreme Lethargy
-8,Creature,Rare,Light Priest Skin-Walker
-9,Creature,Common,Warlock
-10,Spell,Legendary,Mighty Reanimate
-11,Enchantment,Common,Flight
-12,Creature,Common,Paladin
-13,Enchantment,Rare,Shimmering Flight
-14,Creature,Rare,Light Rogue Minotaur
-15,Enchantment,Mythic,Instant Lethargy
-16,Artifact,Common,Ghost Wand
-17,Spell,Rare,Dark Rage
-18,Spell,Common,Fury
-19,Creature,Rare,Earth Warrior Hydra
-20,Spell,Common,Heal
-21,Spell,Common,Reanimate
-22,Spell,Common,Maelstrom
-23,Enchantment,Common,Lethargy
-24,Creature,Rare,Death Warrior Berserker
-25,Spell,Common,Infuriate
-26,Spell,Common,Maelstrom
-27,Spell,Common,Torment
-28,Creature,Rare,Earth Merchant Fairy
-29,Creature,Common,Spider
-30,Spell,Common,Hypnosis
-31,Creature,Rare,Snow King Hydra
-32,Enchantment,Mythic,Dire Shrink
-33,Enchantment,Common,Lethargy
-34,Creature,Common,Magi
-35,Spell,Common,Pandemonium
-36,Enchantment,Legendary,Instant Invert
-37,Creature,Common,Warlock
-38,Enchantment,Common,Flight
-39,Artifact,Rare,Nimble Sword
-40,Creature,Rare,Dark Queen Berserker
-41,Creature,Common,Paladin
-42,Artifact,Rare,Shimmering Shield
-43,Artifact,Rare,Hateful Sword
-44,Creature,Legendary,Frozen Priest Kraken of the Plains
+==================,DECK,6329
+0,Spell,Fire
+1,Spell,Stun
+2,Creature,Aura Rogue Orc
+3,Artifact,Ring
+4,Creature,Spider
+5,Creature,Fairy
+6,Creature,Eagle
+7,Enchantment,Instant Lunar Shrink
+8,Creature,Light Priest Orc
+9,Creature,Berserker
+10,Spell,Potent Sorrow Ice
+11,Enchantment,Flight
+12,Creature,Troll
+13,Enchantment,Hateful Deathgrip
+14,Creature,Light Rogue Cyclops
+15,Enchantment,Dire Hateful Age
+16,Artifact,Ghost Wand
+17,Spell,Dark Frost
+18,Spell,Invisibility
+19,Creature,Earth Warrior Hydra
+20,Spell,Stricken
+21,Spell,Sorrow
+22,Spell,Vortex
+23,Enchantment,Drain
+24,Creature,Death Warrior Goblin
+25,Spell,Tempest
+26,Spell,Frenzy
+27,Spell,Revive
+28,Creature,Earth Merchant Kraken
+29,Creature,Paladin
+30,Spell,Pandemonium
+31,Creature,Snow King Hydra
+32,Enchantment,Empyrean Frigid Shade
+33,Enchantment,Shade
+34,Creature,Fairy
+35,Spell,Ice
+36,Enchantment,Dire Shimmering Age
+37,Creature,Berserker
+38,Enchantment,Alacrity
+39,Artifact,Hateful Sword
+40,Creature,Dark Queen Goblin
+41,Creature,Troll
+42,Artifact,Necro Shield
+43,Artifact,Gloom Sword
+44,Creature,Frozen Priest Ogre of the Plains

@@ -1,46 +1,46 @@
-==================,DECK,5108,Medium
-0,Artifact,Common,Scepter
-1,Creature,Common,Ghoul
-2,Creature,Common,Spider
-3,Enchantment,Common,Strength
-4,Creature,Common,Magi
-5,Creature,Common,Goblin
-6,Creature,Rare,Aura Warrior Griffin
-7,Creature,Common,Goblin
-8,Spell,Common,Torment
-9,Creature,Legendary,Earth Thief Cyclops of the Border
-10,Creature,Common,Ghoul
-11,Enchantment,Rare,Grim Lethargy
-12,Creature,Common,Paladin
-13,Creature,Mythic,Snow Chaos Demon of Hate
-14,Creature,Rare,Death Fighter Fairy
-15,Creature,Common,Spider
-16,Enchantment,Common,Haste
-17,Artifact,Rare,Apocalypse Scythe
-18,Spell,Rare,Corpse Lightning
-19,Spell,Rare,Life Stricken
-20,Enchantment,Common,Deathgrip
-21,Creature,Rare,Snow Warrior Hydra
-22,Artifact,Common,Belt
-23,Spell,Common,Pandemonium
-24,Artifact,Rare,Miracle Crown
-25,Artifact,Rare,Necro Helmet
-26,Spell,Common,Frost
-27,Creature,Common,Paladin
-28,Creature,Common,Spider
-29,Creature,Rare,Dark Knight Minotaur
-30,Enchantment,Rare,Necro Flight
-31,Creature,Common,Warlock
-32,Enchantment,Common,Agony
-33,Enchantment,Mythic,Urgent Blight
-34,Creature,Legendary,Aura Thief Oni of the Polar Woods
-35,Creature,Common,Orc
-36,Spell,Rare,Solar Rage
-37,Creature,Common,Magi
-38,Enchantment,Common,Flight
-39,Creature,Rare,Death Rogue Hydra
-40,Creature,Common,Goblin
-41,Spell,Common,Gale
-42,Creature,Common,Warlock
-43,Artifact,Common,Sigil
-44,Enchantment,Mythic,Extreme Shrink
+==================,DECK,5108
+0,Artifact,Scepter
+1,Creature,Ghoul
+2,Creature,Paladin
+3,Enchantment,Agony
+4,Creature,Fairy
+5,Creature,Skin-Walker
+6,Creature,Aura Warrior Griffin
+7,Creature,Skin-Walker
+8,Spell,Reanimate
+9,Creature,Earth Thief Giant of the Border
+10,Creature,Ghoul
+11,Enchantment,Grim Drain
+12,Creature,Troll
+13,Creature,Snow Chaos Demon of Hate
+14,Creature,Death Fighter Kraken
+15,Creature,Paladin
+16,Enchantment,Age
+17,Artifact,Apocalypse Scythe
+18,Spell,Forged Lightning
+19,Spell,Nimble Freeze
+20,Enchantment,Haste
+21,Creature,Snow Warrior Hydra
+22,Artifact,Belt
+23,Spell,Maelstrom
+24,Artifact,Grim Crown
+25,Artifact,Forged Helmet
+26,Spell,Burst
+27,Creature,Troll
+28,Creature,Paladin
+29,Creature,Dark Knight Cyclops
+30,Enchantment,Hateful Lethargy
+31,Creature,Berserker
+32,Enchantment,Firebreath
+33,Enchantment,Clever Solar Lethargy
+34,Creature,Aura Thief Oni of the Polar Woods
+35,Creature,Spider
+36,Spell,Solar Lightning
+37,Creature,Fairy
+38,Enchantment,Blight
+39,Creature,Death Rogue Hydra
+40,Creature,Skin-Walker
+41,Spell,Freeze
+42,Creature,Berserker
+43,Artifact,Sigil
+44,Enchantment,Clever Chimeric Shield

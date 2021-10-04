@@ -1,46 +1,46 @@
-==================,DECK,6466,Medium
-0,Creature,Rare,Death Thief Minotaur
-1,Enchantment,Common,Deathgrip
-2,Enchantment,Common,Lethargy
-3,Artifact,Common,Scythe
-4,Creature,Mythic,Aura Chaos Demon of the Light
-5,Enchantment,Rare,Cataclysmic Shrink
-6,Creature,Rare,Snow Warrior Hydra
-7,Creature,Common,Paladin
-8,Spell,Common,Lightning
-9,Enchantment,Mythic,Dire Agony
-10,Creature,Common,Wolf
-11,Creature,Common,Wolf
-12,Enchantment,Legendary,Intense Lethargy
-13,Enchantment,Legendary,Mighty Haste
-14,Creature,Common,Paladin
-15,Artifact,Common,Potion
-16,Artifact,Legendary,Angry Scepter
-17,Enchantment,Mythic,Angry Strength
-18,Creature,Common,Eagle
-19,Artifact,Common,Staff
-20,Creature,Common,Magi
-21,Creature,Common,Goblin
-22,Spell,Legendary,Angry Torment
-23,Enchantment,Common,Agony
-24,Spell,Common,Freeze
-25,Creature,Common,Ghoul
-26,Creature,Common,Paladin
-27,Enchantment,Common,Blight
-28,Enchantment,Rare,Life Deathgrip
-29,Spell,Common,Invisibility
-30,Enchantment,Rare,Cataclysmic Haste
-31,Creature,Common,Orc
-32,Creature,Common,Ghoul
-33,Enchantment,Rare,Cataclysmic Shrink
-34,Creature,Common,Eagle
-35,Creature,Rare,Aura Assassin Hydra
-36,Spell,Common,Heal
-37,Creature,Common,Magi
-38,Enchantment,Rare,Lunar Flight
-39,Creature,Common,Magi
-40,Creature,Legendary,Light Assassin Giant of the Magical Forest
-41,Spell,Common,Hypnosis
-42,Spell,Rare,Cataclysmic Reanimate
-43,Creature,Common,Orc
-44,Creature,Legendary,Earth Thief Cyclops of the Arctic Blizzards
+==================,DECK,6466
+0,Creature,Death Thief Cyclops
+1,Enchantment,Flight
+2,Enchantment,Agony
+3,Artifact,Scythe
+4,Creature,Aura Chaos Demon of the Light
+5,Enchantment,Chimeric Alacrity
+6,Creature,Snow Warrior Hydra
+7,Creature,Troll
+8,Spell,Invisibility
+9,Enchantment,Irate Life Blight
+10,Creature,Wolf
+11,Creature,Wolf
+12,Enchantment,Ardent Hateful Lethargy
+13,Enchantment,Potent Miracle Shrink
+14,Creature,Troll
+15,Artifact,Potion
+16,Artifact,Instant Sorrow Scepter
+17,Enchantment,Ardent Cataclysmic Shield
+18,Creature,Eagle
+19,Artifact,Staff
+20,Creature,Fairy
+21,Creature,Skin-Walker
+22,Spell,Urgent Miracle Lightning
+23,Enchantment,Shield
+24,Spell,Tempest
+25,Creature,Ghoul
+26,Creature,Troll
+27,Enchantment,Alacrity
+28,Enchantment,Oblivion Shade
+29,Spell,Invisibility
+30,Enchantment,Miracle Alacrity
+31,Creature,Spider
+32,Creature,Ghoul
+33,Enchantment,Chimeric Shrink
+34,Creature,Eagle
+35,Creature,Aura Assassin Hydra
+36,Spell,Tempest
+37,Creature,Fairy
+38,Enchantment,Lunar Alacrity
+39,Creature,Fairy
+40,Creature,Light Assassin Dwarf of the Magical Forest
+41,Spell,Reanimate
+42,Spell,Cataclysmic Stricken
+43,Creature,Spider
+44,Creature,Earth Thief Giant of the Arctic Blizzards

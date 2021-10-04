@@ -1,46 +1,46 @@
-==================,DECK,4374,Medium
-0,Creature,Rare,Snow Monk Berserker
-1,Creature,Rare,Frozen Queen Berserker
-2,Spell,Legendary,Intense Ice
-3,Creature,Common,Magi
-4,Spell,Common,Stricken
-5,Enchantment,Common,Drain
-6,Creature,Legendary,Light King Cyclops of the Golden Palace
-7,Creature,Rare,Aura Queen Minotaur
-8,Artifact,Rare,Life Ghost Wand
-9,Spell,Common,Vortex
-10,Enchantment,Legendary,Potent Shield
-11,Enchantment,Legendary,Dire Agony
-12,Creature,Rare,Dark Assassin Griffin
-13,Creature,Common,Spider
-14,Creature,Common,Spider
-15,Creature,Common,Paladin
-16,Creature,Common,Warlock
-17,Creature,Mythic,Frozen Undead Dragon of the Void
-18,Creature,Legendary,Dark King Orge of the Mountains
-19,Spell,Rare,Nimble Frenzy
-20,Creature,Common,Magi
-21,Spell,Rare,Miracle Infuriate
-22,Artifact,Rare,Grim Ring
-23,Spell,Common,Maelstrom
-24,Creature,Rare,Aura Knight Hydra
-25,Enchantment,Legendary,Dire Agony
-26,Creature,Common,Warlock
-27,Creature,Mythic,Frozen Time Dragon of the Void
-28,Creature,Common,Elf
-29,Enchantment,Common,Age
-30,Enchantment,Common,Lethargy
-31,Spell,Legendary,Instant Torment
-32,Artifact,Common,Sword
-33,Spell,Rare,Oblivion Rage
-34,Spell,Common,Stun
-35,Enchantment,Common,Alacrity
-36,Spell,Rare,Lunar Pandemonium
-37,Creature,Common,Warlock
-38,Creature,Common,Eagle
-39,Creature,Common,Ghoul
-40,Creature,Common,Wolf
-41,Enchantment,Common,Shield
-42,Enchantment,Mythic,Extreme Age
-43,Creature,Legendary,Earth Lord Oni of the Low Hills
-44,Enchantment,Common,Flight
+==================,DECK,4374
+0,Creature,Snow Monk Goblin
+1,Creature,Frozen Queen Goblin
+2,Spell,Mighty Nature Frenzy
+3,Creature,Fairy
+4,Spell,Burst
+5,Enchantment,Shrink
+6,Creature,Light King Giant of the Golden Palace
+7,Creature,Aura Queen Cyclops
+8,Artifact,Frigid Ghost Wand
+9,Spell,Lightning
+10,Enchantment,Irate Victory Blight
+11,Enchantment,Urgent Life Invert
+12,Creature,Dark Assassin Griffin
+13,Creature,Paladin
+14,Creature,Paladin
+15,Creature,Troll
+16,Creature,Berserker
+17,Creature,Frozen Undead Dragon of the Void
+18,Creature,Dark King Elf of the Mountains
+19,Spell,Hateful Infuriate
+20,Creature,Fairy
+21,Spell,Frigid Invisibility
+22,Artifact,Nimble Ring
+23,Spell,Invisibility
+24,Creature,Aura Knight Hydra
+25,Enchantment,Instant Life Drain
+26,Creature,Berserker
+27,Creature,Frozen Time Dragon of the Void
+28,Creature,Warlock
+29,Enchantment,Alacrity
+30,Enchantment,Invert
+31,Spell,Dire Forged Tempest
+32,Artifact,Sword
+33,Spell,Oblivion Fury
+34,Spell,Pandemonium
+35,Enchantment,Strength
+36,Spell,Gloom Torment
+37,Creature,Berserker
+38,Creature,Eagle
+39,Creature,Ghoul
+40,Creature,Wolf
+41,Enchantment,Drain
+42,Enchantment,Clever Gloom Shield
+43,Creature,Earth Lord Oni of the Low Hills
+44,Enchantment,Firebreath

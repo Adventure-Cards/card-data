@@ -1,46 +1,46 @@
-==================,DECK,4380,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Sorrow
-2,Creature,Common,Orc
-3,Creature,Rare,Death Undead Fairy
-4,Spell,Rare,Life Stun
-5,Creature,Rare,Dark Monk Griffin
-6,Enchantment,Mythic,Dire Agony
-7,Creature,Common,Magi
-8,Creature,Rare,Dark Queen Fairy
-9,Spell,Common,Burst
-10,Enchantment,Common,Invert
-11,Creature,Rare,Snow King Griffin
-12,Enchantment,Common,Shrink
-13,Enchantment,Common,Haste
-14,Creature,Common,Orc
-15,Enchantment,Legendary,Extreme Age
-16,Spell,Rare,Dark Lightning
-17,Creature,Legendary,Snow Merchant Kraken of the Eastern Skies
-18,Creature,Rare,Aura Lord Hydra
-19,Creature,Common,Warlock
-20,Artifact,Rare,Frigid Tome
-21,Spell,Common,Torment
-22,Spell,Rare,Necro Pandemonium
-23,Creature,Rare,Aura Queen Minotaur
-24,Creature,Common,Wolf
-25,Spell,Common,Invisibility
-26,Spell,Common,Ice
-27,Spell,Rare,Lunar Maelstrom
-28,Artifact,Common,Bow
-29,Spell,Common,Ice
-30,Artifact,Common,Gauntlet
-31,Enchantment,Common,Lethargy
-32,Enchantment,Common,Flight
-33,Enchantment,Common,Deathgrip
-34,Creature,Legendary,Snow Assassin Oni of the Swamp
-35,Creature,Common,Magi
-36,Creature,Common,Elf
-37,Spell,Rare,Corpse Assault
-38,Spell,Legendary,Intense Ice
-39,Creature,Common,Dwarf
-40,Enchantment,Common,Flight
-41,Enchantment,Common,Haste
-42,Enchantment,Rare,Forged Invert
-43,Creature,Legendary,Snow Thief Giant of the Golden Palace
-44,Spell,Common,Revive
+==================,DECK,4380
+0,Creature,Troll
+1,Spell,Torment
+2,Creature,Spider
+3,Creature,Death Undead Kraken
+4,Spell,Nimble Stricken
+5,Creature,Dark Monk Griffin
+6,Enchantment,Ardent Life Haste
+7,Creature,Fairy
+8,Creature,Dark Queen Kraken
+9,Spell,Frenzy
+10,Enchantment,Shrink
+11,Creature,Snow King Griffin
+12,Enchantment,Agony
+13,Enchantment,Drain
+14,Creature,Spider
+15,Enchantment,Mighty Gloom Flight
+16,Spell,Dark Maelstrom
+17,Creature,Snow Merchant Ogre of the Eastern Skies
+18,Creature,Aura Lord Hydra
+19,Creature,Berserker
+20,Artifact,Frigid Tome
+21,Spell,Pandemonium
+22,Spell,Forged Ice
+23,Creature,Aura Queen Cyclops
+24,Creature,Wolf
+25,Spell,Invisibility
+26,Spell,Vortex
+27,Spell,Lunar Rage
+28,Artifact,Bow
+29,Spell,Wall
+30,Artifact,Gauntlet
+31,Enchantment,Invert
+32,Enchantment,Strength
+33,Enchantment,Haste
+34,Creature,Snow Assassin Oni of the Swamp
+35,Creature,Fairy
+36,Creature,Warlock
+37,Spell,Forged Stun
+38,Spell,Clever Solar Burn
+39,Creature,Magi
+40,Enchantment,Lethargy
+41,Enchantment,Firebreath
+42,Enchantment,Sorrow Shield
+43,Creature,Snow Thief Dwarf of the Golden Palace
+44,Spell,Burn

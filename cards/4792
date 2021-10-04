@@ -1,46 +1,46 @@
-==================,DECK,4792,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Shrink
-2,Spell,Common,Gravitation
-3,Spell,Common,Gale
-4,Creature,Common,Goblin
-5,Enchantment,Common,Flight
-6,Creature,Common,Wolf
-7,Creature,Common,Eagle
-8,Creature,Common,Warlock
-9,Creature,Common,Orc
-10,Spell,Rare,Oblivion Torment
-11,Enchantment,Common,Agony
-12,Enchantment,Common,Haste
-13,Spell,Rare,Solar Frenzy
-14,Creature,Common,Magi
-15,Enchantment,Common,Shrink
-16,Spell,Rare,Cataclysmic Gale
-17,Creature,Rare,Frozen King Griffin
-18,Creature,Rare,Death Undead Berserker
-19,Creature,Legendary,Snow Assassin Orge of the Plains
-20,Enchantment,Common,Deathgrip
-21,Spell,Rare,Life Maelstrom
-22,Enchantment,Common,Drain
-23,Creature,Rare,Light Priest Berserker
-24,Creature,Common,Magi
-25,Enchantment,Common,Agony
-26,Spell,Rare,Shimmering Burn
-27,Enchantment,Common,Drain
-28,Creature,Common,Dwarf
-29,Creature,Common,Ghoul
-30,Spell,Rare,Life Sorrow
-31,Creature,Common,Wolf
-32,Spell,Common,Burn
-33,Creature,Rare,Earth Priest Hydra
-34,Enchantment,Common,Agony
-35,Spell,Common,Stun
-36,Enchantment,Common,Shield
-37,Enchantment,Rare,Miracle Deathgrip
-38,Enchantment,Common,Shade
-39,Enchantment,Legendary,Extreme Flight
-40,Creature,Common,Dwarf
-41,Artifact,Common,Scythe
-42,Enchantment,Common,Agony
-43,Creature,Rare,Aura Merchant Minotaur
-44,Spell,Legendary,Urgent Heal
+==================,DECK,4792
+0,Creature,Warlock
+1,Enchantment,Blight
+2,Spell,Sorrow
+3,Spell,Maelstrom
+4,Creature,Skin-Walker
+5,Enchantment,Shrink
+6,Creature,Wolf
+7,Creature,Eagle
+8,Creature,Berserker
+9,Creature,Spider
+10,Spell,Frigid Sorrow
+11,Enchantment,Invert
+12,Enchantment,Age
+13,Spell,Hateful Stun
+14,Creature,Fairy
+15,Enchantment,Haste
+16,Spell,Gloom Fury
+17,Creature,Frozen King Griffin
+18,Creature,Death Undead Goblin
+19,Creature,Snow Assassin Elf of the Plains
+20,Enchantment,Blight
+21,Spell,Oblivion Stricken
+22,Enchantment,Haste
+23,Creature,Light Priest Goblin
+24,Creature,Fairy
+25,Enchantment,Alacrity
+26,Spell,Shimmering Lightning
+27,Enchantment,Invert
+28,Creature,Magi
+29,Creature,Ghoul
+30,Spell,Grim Infuriate
+31,Creature,Wolf
+32,Spell,Lightning
+33,Creature,Earth Priest Hydra
+34,Enchantment,Blight
+35,Spell,Vortex
+36,Enchantment,Agony
+37,Enchantment,Oblivion Shade
+38,Enchantment,Blight
+39,Enchantment,Empyrean Lunar Firebreath
+40,Creature,Magi
+41,Artifact,Scythe
+42,Enchantment,Agony
+43,Creature,Aura Merchant Cyclops
+44,Spell,Instant Necro Gale

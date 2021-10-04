@@ -1,46 +1,46 @@
-==================,DECK,6232,Medium
-0,Spell,Common,Assault
-1,Spell,Rare,Miracle Stun
-2,Enchantment,Mythic,Clever Haste
-3,Creature,Mythic,Earth Chaos Demon of the Shadows
-4,Artifact,Rare,Apocalypse Helmet
-5,Spell,Legendary,Intense Heal
-6,Creature,Rare,Light Undead Minotaur
-7,Enchantment,Common,Blight
-8,Spell,Common,Maelstrom
-9,Spell,Rare,Apocalypse Maelstrom
-10,Enchantment,Common,Blight
-11,Artifact,Common,Amulet
-12,Enchantment,Rare,Grim Shield
-13,Creature,Rare,Light Assassin Hydra
-14,Enchantment,Common,Strength
-15,Creature,Rare,Aura King Minotaur
-16,Creature,Legendary,Frozen King Giant of the Frozen Castle
-17,Enchantment,Rare,Hateful Deathgrip
-18,Creature,Rare,Death Thief Berserker
-19,Enchantment,Rare,Nimble Alacrity
-20,Spell,Rare,Necro Gale
-21,Creature,Rare,Dark Thief Minotaur
-22,Enchantment,Common,Shrink
-23,Creature,Rare,Light Warrior Griffin
-24,Creature,Rare,Death Queen Berserker
-25,Creature,Rare,Light Undead Hydra
-26,Creature,Rare,Earth Merchant Berserker
-27,Spell,Rare,Nature Reanimate
-28,Artifact,Common,Ring
-29,Spell,Mythic,Dire Frost
-30,Enchantment,Common,Shade
-31,Spell,Legendary,Urgent Freeze
-32,Spell,Rare,Nimble Heal
-33,Artifact,Common,Sigil
-34,Spell,Common,Stricken
-35,Creature,Common,Orc
-36,Creature,Common,Paladin
-37,Spell,Common,Frost
-38,Spell,Rare,Lunar Fury
-39,Enchantment,Legendary,Angry Shrink
-40,Creature,Common,Wolf
-41,Artifact,Common,Helmet
-42,Creature,Common,Warlock
-43,Creature,Common,Orc
-44,Creature,Common,Goblin
+==================,DECK,6232
+0,Spell,Heal
+1,Spell,Apocalypse Hypnosis
+2,Enchantment,Empyrean Life Shade
+3,Creature,Earth Chaos Demon of the Shadows
+4,Artifact,Oblivion Helmet
+5,Spell,Instant Nature Frenzy
+6,Creature,Light Undead Cyclops
+7,Enchantment,Flight
+8,Spell,Hypnosis
+9,Spell,Frigid Gravitation
+10,Enchantment,Agony
+11,Artifact,Amulet
+12,Enchantment,Victory Drain
+13,Creature,Light Assassin Hydra
+14,Enchantment,Shade
+15,Creature,Aura King Cyclops
+16,Creature,Frozen King Dwarf of the Frozen Castle
+17,Enchantment,Sorrow Alacrity
+18,Creature,Death Thief Goblin
+19,Enchantment,Forged Agony
+20,Spell,Shimmering Torment
+21,Creature,Dark Thief Cyclops
+22,Enchantment,Deathgrip
+23,Creature,Light Warrior Griffin
+24,Creature,Death Queen Goblin
+25,Creature,Light Undead Hydra
+26,Creature,Earth Merchant Goblin
+27,Spell,Hateful Burn
+28,Artifact,Ring
+29,Spell,Urgent Frigid Hypnosis
+30,Enchantment,Haste
+31,Spell,Dire Necro Stun
+32,Spell,Solar Burn
+33,Artifact,Sigil
+34,Spell,Heal
+35,Creature,Spider
+36,Creature,Troll
+37,Spell,Frost
+38,Spell,Chimeric Fire
+39,Enchantment,Mighty Chimeric Flight
+40,Creature,Wolf
+41,Artifact,Helmet
+42,Creature,Berserker
+43,Creature,Spider
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,5862,Light
-0,Spell,Common,Fury
-1,Spell,Common,Torment
-2,Creature,Legendary,Dark Queen Kraken of the Eastern Skies
-3,Creature,Common,Paladin
-4,Creature,Common,Magi
-5,Artifact,Common,Gauntlet
-6,Creature,Common,Goblin
-7,Spell,Common,Heal
-8,Enchantment,Common,Drain
-9,Spell,Common,Gale
-10,Creature,Rare,Death Monk Minotaur
-11,Enchantment,Common,Deathgrip
-12,Creature,Common,Eagle
-13,Spell,Rare,Necro Sorrow
-14,Spell,Common,Invisibility
-15,Creature,Common,Eagle
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Spell,Rare,Oblivion Assault
-19,Spell,Rare,Hateful Burst
-20,Spell,Common,Vortex
-21,Creature,Common,Paladin
-22,Creature,Common,Ghoul
-23,Creature,Rare,Light Monk Minotaur
-24,Creature,Common,Wolf
-25,Creature,Common,Warlock
-26,Creature,Common,Orc
-27,Creature,Common,Ghoul
-28,Spell,Legendary,Potent Reanimate
-29,Creature,Rare,Light Warrior Griffin
-30,Creature,Common,Eagle
-31,Spell,Common,Stricken
-32,Enchantment,Common,Shade
-33,Creature,Legendary,Earth Undead Orge of the Magical Forest
-34,Creature,Common,Spider
-35,Enchantment,Rare,Apocalypse Drain
-36,Creature,Rare,Death Queen Minotaur
-37,Creature,Legendary,Death Priest Orge of the Haven
-38,Creature,Common,Goblin
-39,Creature,Common,Elf
-40,Creature,Common,Eagle
-41,Spell,Common,Lightning
-42,Creature,Common,Elf
-43,Creature,Common,Orc
-44,Creature,Rare,Earth Rogue Griffin
+==================,DECK,5862
+0,Spell,Freeze
+1,Spell,Ice
+2,Creature,Dark Queen Ogre of the Eastern Skies
+3,Creature,Troll
+4,Creature,Fairy
+5,Artifact,Gauntlet
+6,Creature,Skin-Walker
+7,Spell,Frost
+8,Enchantment,Haste
+9,Spell,Gale
+10,Creature,Death Monk Cyclops
+11,Enchantment,Drain
+12,Creature,Eagle
+13,Spell,Hateful Tempest
+14,Spell,Burn
+15,Creature,Eagle
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Spell,Oblivion Torment
+19,Spell,Cataclysmic Rage
+20,Spell,Fire
+21,Creature,Troll
+22,Creature,Ghoul
+23,Creature,Light Monk Cyclops
+24,Creature,Wolf
+25,Creature,Berserker
+26,Creature,Spider
+27,Creature,Ghoul
+28,Spell,Potent Frigid Heal
+29,Creature,Light Warrior Griffin
+30,Creature,Eagle
+31,Spell,Heal
+32,Enchantment,Lethargy
+33,Creature,Earth Undead Elf of the Magical Forest
+34,Creature,Paladin
+35,Enchantment,Apocalypse Blight
+36,Creature,Death Queen Cyclops
+37,Creature,Death Priest Elf of the Haven
+38,Creature,Skin-Walker
+39,Creature,Warlock
+40,Creature,Eagle
+41,Spell,Rage
+42,Creature,Warlock
+43,Creature,Spider
+44,Creature,Earth Rogue Griffin

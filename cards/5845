@@ -1,46 +1,46 @@
-==================,DECK,5845,Light
-0,Artifact,Common,Belt
-1,Creature,Rare,Dark Lord Hydra
-2,Creature,Common,Eagle
-3,Enchantment,Common,Strength
-4,Creature,Rare,Frozen Undead Fairy
-5,Creature,Rare,Dark Undead Hydra
-6,Creature,Common,Wolf
-7,Creature,Common,Elf
-8,Spell,Common,Invisibility
-9,Enchantment,Common,Shade
-10,Spell,Common,Vortex
-11,Enchantment,Common,Shield
-12,Spell,Common,Burst
-13,Creature,Rare,Dark Knight Berserker
-14,Creature,Common,Paladin
-15,Spell,Common,Frenzy
-16,Creature,Mythic,Snow Time Dragon of Hate
-17,Spell,Rare,Frigid Freeze
-18,Enchantment,Rare,Lunar Blight
-19,Creature,Legendary,Dark Merchant Giant of the Golden Palace
-20,Spell,Rare,Shimmering Stricken
-21,Artifact,Common,Ring
-22,Enchantment,Common,Agony
-23,Enchantment,Common,Shade
-24,Creature,Common,Warlock
-25,Creature,Common,Spider
-26,Spell,Rare,Solar Assault
-27,Creature,Legendary,Snow Knight Kraken of the Golden Palace
-28,Creature,Common,Elf
-29,Enchantment,Common,Drain
-30,Creature,Common,Magi
-31,Spell,Common,Sorrow
-32,Artifact,Rare,Life Belt
-33,Creature,Common,Orc
-34,Creature,Rare,Aura Assassin Fairy
-35,Spell,Common,Infuriate
-36,Creature,Common,Warlock
-37,Artifact,Legendary,Clever Sword
-38,Spell,Common,Assault
-39,Spell,Legendary,Extreme Frost
-40,Creature,Common,Wolf
-41,Artifact,Common,Staff
-42,Spell,Rare,Oblivion Lightning
-43,Creature,Common,Elf
-44,Spell,Common,Ice
+==================,DECK,5845
+0,Artifact,Belt
+1,Creature,Dark Lord Hydra
+2,Creature,Eagle
+3,Enchantment,Shrink
+4,Creature,Frozen Undead Kraken
+5,Creature,Dark Undead Hydra
+6,Creature,Wolf
+7,Creature,Warlock
+8,Spell,Torment
+9,Enchantment,Age
+10,Spell,Gravitation
+11,Enchantment,Drain
+12,Spell,Gale
+13,Creature,Dark Knight Goblin
+14,Creature,Troll
+15,Spell,Stun
+16,Creature,Snow Time Dragon of Hate
+17,Spell,Apocalypse Assault
+18,Enchantment,Cataclysmic Alacrity
+19,Creature,Dark Merchant Dwarf of the Golden Palace
+20,Spell,Hateful Invisibility
+21,Artifact,Ring
+22,Enchantment,Haste
+23,Enchantment,Deathgrip
+24,Creature,Berserker
+25,Creature,Paladin
+26,Spell,Necro Stricken
+27,Creature,Snow Knight Ogre of the Golden Palace
+28,Creature,Warlock
+29,Enchantment,Deathgrip
+30,Creature,Fairy
+31,Spell,Fire
+32,Artifact,Victory Belt
+33,Creature,Spider
+34,Creature,Aura Assassin Kraken
+35,Spell,Invisibility
+36,Creature,Berserker
+37,Artifact,Instant Victory Sword
+38,Spell,Pandemonium
+39,Spell,Irate Lunar Fireball
+40,Creature,Wolf
+41,Artifact,Staff
+42,Spell,Oblivion Freeze
+43,Creature,Warlock
+44,Spell,Tempest

@@ -1,46 +1,46 @@
-==================,DECK,4748,Medium
-0,Creature,Common,Warlock
-1,Spell,Common,Vortex
-2,Creature,Common,Orc
-3,Enchantment,Common,Alacrity
-4,Creature,Common,Magi
-5,Spell,Common,Burst
-6,Creature,Common,Magi
-7,Spell,Rare,Lunar Burst
-8,Creature,Common,Elf
-9,Creature,Rare,Earth Warrior Hydra
-10,Creature,Common,Magi
-11,Creature,Mythic,Earth Undead Dragon of the Shadows
-12,Artifact,Common,Scepter
-13,Creature,Mythic,Aura Chaos Demon of the Light
-14,Creature,Common,Elf
-15,Enchantment,Common,Shrink
-16,Creature,Common,Paladin
-17,Creature,Common,Paladin
-18,Creature,Common,Warlock
-19,Creature,Common,Warlock
-20,Creature,Legendary,Aura Thief Kraken of the Black Stone
-21,Creature,Common,Wolf
-22,Creature,Rare,Aura Thief Griffin
-23,Enchantment,Rare,Nature Haste
-24,Enchantment,Common,Flight
-25,Creature,Common,Orc
-26,Creature,Rare,Earth Thief Hydra
-27,Creature,Common,Orc
-28,Creature,Rare,Dark Merchant Griffin
-29,Creature,Common,Magi
-30,Creature,Legendary,Aura Warrior Cyclops of the Frozen Castle
-31,Creature,Common,Orc
-32,Creature,Rare,Dark Undead Minotaur
-33,Creature,Legendary,Light Monk Oni of the Magical Forest
-34,Enchantment,Common,Strength
-35,Creature,Rare,Snow Thief Hydra
-36,Enchantment,Common,Alacrity
-37,Creature,Rare,Death Knight Minotaur
-38,Creature,Rare,Aura Priest Skin-Walker
-39,Creature,Rare,Dark Warrior Berserker
-40,Creature,Rare,Death Knight Skin-Walker
-41,Artifact,Rare,Gloom Bow
-42,Artifact,Common,Divine Robe
-43,Spell,Common,Vortex
-44,Creature,Common,Ghoul
+==================,DECK,4748
+0,Creature,Berserker
+1,Spell,Burst
+2,Creature,Spider
+3,Enchantment,Invert
+4,Creature,Fairy
+5,Spell,Vortex
+6,Creature,Fairy
+7,Spell,Sorrow Lightning
+8,Creature,Warlock
+9,Creature,Earth Warrior Hydra
+10,Creature,Fairy
+11,Creature,Earth Undead Dragon of the Shadows
+12,Artifact,Scepter
+13,Creature,Aura Chaos Demon of the Light
+14,Creature,Warlock
+15,Enchantment,Drain
+16,Creature,Troll
+17,Creature,Troll
+18,Creature,Berserker
+19,Creature,Berserker
+20,Creature,Aura Thief Ogre of the Black Stone
+21,Creature,Wolf
+22,Creature,Aura Thief Griffin
+23,Enchantment,Corpse Deathgrip
+24,Enchantment,Alacrity
+25,Creature,Spider
+26,Creature,Earth Thief Hydra
+27,Creature,Spider
+28,Creature,Dark Merchant Griffin
+29,Creature,Fairy
+30,Creature,Aura Warrior Giant of the Frozen Castle
+31,Creature,Spider
+32,Creature,Dark Undead Cyclops
+33,Creature,Light Monk Oni of the Magical Forest
+34,Enchantment,Shade
+35,Creature,Snow Thief Hydra
+36,Enchantment,Strength
+37,Creature,Death Knight Cyclops
+38,Creature,Aura Priest Orc
+39,Creature,Dark Warrior Goblin
+40,Creature,Death Knight Orc
+41,Artifact,Sorrow Bow
+42,Artifact,Divine Robe
+43,Spell,Frost
+44,Creature,Ghoul

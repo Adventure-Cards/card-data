@@ -1,46 +1,46 @@
-==================,DECK,5649,Light
-0,Spell,Common,Fury
-1,Enchantment,Common,Blight
-2,Spell,Common,Burst
-3,Creature,Common,Wolf
-4,Spell,Legendary,Potent Pandemonium
-5,Enchantment,Common,Age
-6,Enchantment,Common,Strength
-7,Enchantment,Common,Blight
-8,Creature,Common,Ghoul
-9,Creature,Legendary,Snow Assassin Kraken of the Arctic Blizzards
-10,Spell,Common,Gravitation
-11,Artifact,Rare,Necro Amulet
-12,Enchantment,Common,Agony
-13,Creature,Rare,Snow Merchant Minotaur
-14,Creature,Legendary,Snow Undead Oni of the Mountains
-15,Spell,Common,Lightning
-16,Enchantment,Common,Deathgrip
-17,Artifact,Common,Divine Robe
-18,Enchantment,Legendary,Clever Haste
-19,Spell,Common,Vortex
-20,Creature,Common,Goblin
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Wolf
-23,Spell,Common,Gravitation
-24,Creature,Rare,Snow Fighter Fairy
-25,Creature,Common,Paladin
-26,Enchantment,Mythic,Mighty Invert
-27,Creature,Common,Spider
-28,Spell,Common,Wall
-29,Creature,Common,Ghoul
-30,Artifact,Common,Gloves
-31,Creature,Common,Dwarf
-32,Spell,Common,Hypnosis
-33,Creature,Common,Warlock
-34,Creature,Legendary,Dark Knight Oni of the Border
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Haste
-37,Enchantment,Common,Shrink
-38,Creature,Common,Wolf
-39,Creature,Common,Dwarf
-40,Spell,Rare,Nature Sorrow
-41,Enchantment,Common,Strength
-42,Creature,Mythic,Frozen Undead Dragon of the Void
-43,Creature,Common,Eagle
-44,Creature,Common,Eagle
+==================,DECK,5649
+0,Spell,Fire
+1,Enchantment,Alacrity
+2,Spell,Invisibility
+3,Creature,Wolf
+4,Spell,Clever Life Assault
+5,Enchantment,Alacrity
+6,Enchantment,Deathgrip
+7,Enchantment,Age
+8,Creature,Ghoul
+9,Creature,Snow Assassin Ogre of the Arctic Blizzards
+10,Spell,Infuriate
+11,Artifact,Necro Amulet
+12,Enchantment,Agony
+13,Creature,Snow Merchant Cyclops
+14,Creature,Snow Undead Oni of the Mountains
+15,Spell,Wall
+16,Enchantment,Deathgrip
+17,Artifact,Divine Robe
+18,Enchantment,Zealous Life Blight
+19,Spell,Gravitation
+20,Creature,Skin-Walker
+21,Enchantment,Invert
+22,Creature,Wolf
+23,Spell,Wall
+24,Creature,Snow Fighter Kraken
+25,Creature,Troll
+26,Enchantment,Urgent Sorrow Flight
+27,Creature,Paladin
+28,Spell,Lightning
+29,Creature,Ghoul
+30,Artifact,Gloves
+31,Creature,Magi
+32,Spell,Rage
+33,Creature,Berserker
+34,Creature,Dark Knight Oni of the Border
+35,Creature,Ghoul
+36,Enchantment,Flight
+37,Enchantment,Age
+38,Creature,Wolf
+39,Creature,Magi
+40,Spell,Hateful Infuriate
+41,Enchantment,Strength
+42,Creature,Frozen Undead Dragon of the Void
+43,Creature,Eagle
+44,Creature,Eagle

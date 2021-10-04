@@ -1,46 +1,46 @@
-==================,DECK,7992,Light
-0,Enchantment,Common,Haste
-1,Enchantment,Common,Age
-2,Creature,Common,Magi
-3,Creature,Rare,Light Assassin Hydra
-4,Creature,Common,Warlock
-5,Creature,Rare,Earth Warrior Fairy
-6,Creature,Common,Wolf
-7,Creature,Common,Ghoul
-8,Spell,Common,Infuriate
-9,Creature,Common,Magi
-10,Artifact,Common,Ring
-11,Artifact,Rare,Cataclysmic Divine Robe
-12,Enchantment,Common,Alacrity
-13,Creature,Rare,Snow Undead Skin-Walker
-14,Creature,Common,Orc
-15,Creature,Common,Magi
-16,Creature,Common,Dwarf
-17,Creature,Common,Spider
-18,Creature,Mythic,Frozen Nameless Dragon of the Void
-19,Creature,Common,Spider
-20,Artifact,Common,Scepter
-21,Creature,Common,Orc
-22,Creature,Common,Spider
-23,Artifact,Common,Greaves
-24,Creature,Common,Orc
-25,Enchantment,Common,Alacrity
-26,Creature,Mythic,Death Undead Phoenix of the Dead
-27,Enchantment,Rare,Necro Deathgrip
-28,Creature,Rare,Frozen Fighter Minotaur
-29,Creature,Common,Spider
-30,Creature,Common,Warlock
-31,Artifact,Common,Cloak
-32,Creature,Common,Dwarf
-33,Creature,Rare,Light Thief Griffin
-34,Creature,Rare,Frozen Queen Skin-Walker
-35,Enchantment,Common,Age
-36,Artifact,Legendary,Extreme Cloak
-37,Enchantment,Common,Age
-38,Creature,Common,Dwarf
-39,Creature,Common,Orc
-40,Enchantment,Common,Shrink
-41,Creature,Common,Spider
-42,Spell,Common,Frenzy
-43,Enchantment,Rare,Hateful Deathgrip
-44,Creature,Common,Elf
+==================,DECK,7992
+0,Enchantment,Age
+1,Enchantment,Flight
+2,Creature,Fairy
+3,Creature,Light Assassin Hydra
+4,Creature,Berserker
+5,Creature,Earth Warrior Kraken
+6,Creature,Wolf
+7,Creature,Ghoul
+8,Spell,Burn
+9,Creature,Fairy
+10,Artifact,Ring
+11,Artifact,Lunar Divine Robe
+12,Enchantment,Shield
+13,Creature,Snow Undead Orc
+14,Creature,Spider
+15,Creature,Fairy
+16,Creature,Magi
+17,Creature,Paladin
+18,Creature,Frozen Nameless Dragon of the Void
+19,Creature,Paladin
+20,Artifact,Scepter
+21,Creature,Spider
+22,Creature,Paladin
+23,Artifact,Greaves
+24,Creature,Spider
+25,Enchantment,Shade
+26,Creature,Death Undead Phoenix of the Dead
+27,Enchantment,Shimmering Strength
+28,Creature,Frozen Fighter Cyclops
+29,Creature,Paladin
+30,Creature,Berserker
+31,Artifact,Cloak
+32,Creature,Magi
+33,Creature,Light Thief Griffin
+34,Creature,Frozen Queen Orc
+35,Enchantment,Alacrity
+36,Artifact,Clever Chimeric Cloak
+37,Enchantment,Deathgrip
+38,Creature,Magi
+39,Creature,Spider
+40,Enchantment,Age
+41,Creature,Paladin
+42,Spell,Invisibility
+43,Enchantment,Sorrow Flight
+44,Creature,Warlock

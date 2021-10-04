@@ -1,46 +1,46 @@
-==================,DECK,4519,Light
-0,Enchantment,Rare,Lunar Flight
-1,Creature,Common,Goblin
-2,Creature,Common,Dwarf
-3,Enchantment,Common,Blight
-4,Spell,Rare,Apocalypse Stricken
-5,Creature,Common,Paladin
-6,Creature,Common,Orc
-7,Spell,Common,Lightning
-8,Enchantment,Common,Drain
-9,Enchantment,Common,Drain
-10,Creature,Common,Spider
-11,Creature,Common,Goblin
-12,Creature,Common,Dwarf
-13,Creature,Common,Spider
-14,Creature,Rare,Death Queen Griffin
-15,Creature,Common,Paladin
-16,Creature,Rare,Snow Queen Fairy
-17,Creature,Mythic,Light Undead Dragon of the Sky
-18,Creature,Common,Wolf
-19,Creature,Common,Eagle
-20,Spell,Rare,Miracle Burn
-21,Creature,Common,Warlock
-22,Artifact,Common,Gauntlet
-23,Creature,Common,Spider
-24,Artifact,Common,Helmet
-25,Creature,Rare,Aura Merchant Skin-Walker
-26,Spell,Rare,Lunar Stun
-27,Spell,Common,Sorrow
-28,Creature,Common,Dwarf
-29,Creature,Common,Eagle
-30,Creature,Legendary,Dark Assassin Cyclops of the Low Hills
-31,Enchantment,Rare,Dark Agony
-32,Creature,Common,Paladin
-33,Creature,Common,Orc
-34,Enchantment,Common,Haste
-35,Enchantment,Rare,Shimmering Blight
-36,Spell,Rare,Dark Invisibility
-37,Creature,Common,Warlock
-38,Creature,Rare,Aura Priest Hydra
-39,Creature,Common,Dwarf
-40,Creature,Legendary,Dark Thief Kraken of the Mountains
-41,Creature,Rare,Death Fighter Skin-Walker
-42,Creature,Rare,Light Warrior Hydra
-43,Creature,Legendary,Aura Priest Kraken of the Haven
-44,Creature,Common,Magi
+==================,DECK,4519
+0,Enchantment,Lunar Shield
+1,Creature,Skin-Walker
+2,Creature,Magi
+3,Enchantment,Lethargy
+4,Spell,Nimble Assault
+5,Creature,Troll
+6,Creature,Spider
+7,Spell,Gravitation
+8,Enchantment,Firebreath
+9,Enchantment,Blight
+10,Creature,Paladin
+11,Creature,Skin-Walker
+12,Creature,Magi
+13,Creature,Paladin
+14,Creature,Death Queen Griffin
+15,Creature,Troll
+16,Creature,Snow Queen Kraken
+17,Creature,Light Undead Dragon of the Sky
+18,Creature,Wolf
+19,Creature,Eagle
+20,Spell,Grim Gravitation
+21,Creature,Berserker
+22,Artifact,Gauntlet
+23,Creature,Paladin
+24,Artifact,Helmet
+25,Creature,Aura Merchant Orc
+26,Spell,Cataclysmic Heal
+27,Spell,Stun
+28,Creature,Magi
+29,Creature,Eagle
+30,Creature,Dark Assassin Giant of the Low Hills
+31,Enchantment,Miracle Firebreath
+32,Creature,Troll
+33,Creature,Spider
+34,Enchantment,Strength
+35,Enchantment,Solar Agony
+36,Spell,Gloom Stun
+37,Creature,Berserker
+38,Creature,Aura Priest Hydra
+39,Creature,Magi
+40,Creature,Dark Thief Ogre of the Mountains
+41,Creature,Death Fighter Orc
+42,Creature,Light Warrior Hydra
+43,Creature,Aura Priest Ogre of the Haven
+44,Creature,Fairy

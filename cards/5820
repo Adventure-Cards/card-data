@@ -1,46 +1,46 @@
-==================,DECK,5820,Light
-0,Enchantment,Common,Strength
-1,Spell,Rare,Solar Frenzy
-2,Enchantment,Legendary,Dire Drain
-3,Creature,Common,Paladin
-4,Enchantment,Common,Flight
-5,Artifact,Common,Gauntlet
-6,Enchantment,Common,Shield
-7,Creature,Rare,Frozen Queen Skin-Walker
-8,Enchantment,Common,Haste
-9,Enchantment,Common,Haste
-10,Creature,Common,Warlock
-11,Creature,Common,Dwarf
-12,Creature,Rare,Dark Knight Hydra
-13,Creature,Common,Warlock
-14,Enchantment,Common,Alacrity
-15,Creature,Rare,Snow Knight Minotaur
-16,Enchantment,Common,Shrink
-17,Artifact,Common,Greaves
-18,Creature,Common,Dwarf
-19,Spell,Rare,Necro Infuriate
-20,Creature,Common,Goblin
-21,Spell,Common,Ice
-22,Creature,Common,Ghoul
-23,Enchantment,Rare,Miracle Deathgrip
-24,Spell,Legendary,Angry Stricken
-25,Spell,Legendary,Mighty Burn
-26,Creature,Rare,Light Lord Griffin
-27,Spell,Common,Maelstrom
-28,Creature,Rare,Light Queen Skin-Walker
-29,Enchantment,Common,Agony
-30,Enchantment,Common,Alacrity
-31,Creature,Common,Ghoul
-32,Creature,Common,Wolf
-33,Spell,Rare,Frigid Heal
-34,Enchantment,Common,Alacrity
-35,Spell,Common,Freeze
-36,Creature,Common,Spider
-37,Spell,Common,Gale
-38,Creature,Legendary,Dark Merchant Orge of the Plains
-39,Spell,Common,Revive
-40,Spell,Legendary,Urgent Stun
-41,Creature,Common,Elf
-42,Spell,Common,Burst
-43,Spell,Legendary,Dire Freeze
-44,Enchantment,Common,Age
+==================,DECK,5820
+0,Enchantment,Age
+1,Spell,Necro Gale
+2,Enchantment,Mighty Apocalypse Invert
+3,Creature,Troll
+4,Enchantment,Deathgrip
+5,Artifact,Gauntlet
+6,Enchantment,Firebreath
+7,Creature,Frozen Queen Orc
+8,Enchantment,Haste
+9,Enchantment,Deathgrip
+10,Creature,Berserker
+11,Creature,Magi
+12,Creature,Dark Knight Hydra
+13,Creature,Berserker
+14,Enchantment,Shrink
+15,Creature,Snow Knight Cyclops
+16,Enchantment,Lethargy
+17,Artifact,Greaves
+18,Creature,Magi
+19,Spell,Nature Lightning
+20,Creature,Skin-Walker
+21,Spell,Frost
+22,Creature,Ghoul
+23,Enchantment,Oblivion Shade
+24,Spell,Mighty Gloom Frenzy
+25,Spell,Mighty Lunar Invisibility
+26,Creature,Light Lord Griffin
+27,Spell,Heal
+28,Creature,Light Queen Orc
+29,Enchantment,Shrink
+30,Enchantment,Alacrity
+31,Creature,Ghoul
+32,Creature,Wolf
+33,Spell,Apocalypse Sorrow
+34,Enchantment,Shrink
+35,Spell,Invisibility
+36,Creature,Paladin
+37,Spell,Burn
+38,Creature,Dark Merchant Elf of the Plains
+39,Spell,Burst
+40,Spell,Clever Hateful Fireball
+41,Creature,Warlock
+42,Spell,Reanimate
+43,Spell,Dire Victory Reanimate
+44,Enchantment,Lethargy

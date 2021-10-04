@@ -1,46 +1,46 @@
-==================,DECK,6383,Light
-0,Creature,Common,Goblin
-1,Enchantment,Common,Age
-2,Creature,Legendary,Earth Thief Oni of the Mountains
-3,Creature,Common,Ghoul
-4,Creature,Common,Magi
-5,Artifact,Common,Divine Robe
-6,Enchantment,Mythic,Instant Shrink
-7,Spell,Common,Infuriate
-8,Creature,Common,Warlock
-9,Enchantment,Legendary,Mighty Invert
-10,Creature,Common,Eagle
-11,Creature,Common,Eagle
-12,Creature,Common,Wolf
-13,Creature,Legendary,Light Thief Orge of the Golden Palace
-14,Spell,Common,Revive
-15,Spell,Legendary,Clever Sorrow
-16,Enchantment,Common,Shield
-17,Creature,Rare,Death Knight Hydra
-18,Creature,Common,Goblin
-19,Enchantment,Rare,Cataclysmic Deathgrip
-20,Creature,Rare,Frozen Knight Minotaur
-21,Creature,Common,Wolf
-22,Enchantment,Common,Shield
-23,Creature,Common,Spider
-24,Spell,Common,Reanimate
-25,Creature,Rare,Earth Assassin Berserker
-26,Creature,Rare,Dark Priest Hydra
-27,Enchantment,Common,Invert
-28,Enchantment,Common,Strength
-29,Enchantment,Mythic,Dire Strength
-30,Spell,Common,Torment
-31,Creature,Legendary,Dark Fighter Oni of the Eternal Land
-32,Spell,Rare,Life Stricken
-33,Creature,Rare,Light Knight Griffin
-34,Creature,Common,Orc
-35,Enchantment,Common,Strength
-36,Creature,Common,Paladin
-37,Spell,Common,Stun
-38,Spell,Common,Burst
-39,Spell,Rare,Nature Reanimate
-40,Creature,Common,Dwarf
-41,Creature,Common,Elf
-42,Artifact,Common,Gauntlet
-43,Creature,Common,Paladin
-44,Spell,Common,Invisibility
+==================,DECK,6383
+0,Creature,Skin-Walker
+1,Enchantment,Alacrity
+2,Creature,Earth Thief Oni of the Mountains
+3,Creature,Ghoul
+4,Creature,Fairy
+5,Artifact,Divine Robe
+6,Enchantment,Potent Necro Strength
+7,Spell,Frenzy
+8,Creature,Berserker
+9,Enchantment,Urgent Sorrow Flight
+10,Creature,Eagle
+11,Creature,Eagle
+12,Creature,Wolf
+13,Creature,Light Thief Elf of the Golden Palace
+14,Spell,Reanimate
+15,Spell,Potent Apocalypse Fireball
+16,Enchantment,Lethargy
+17,Creature,Death Knight Hydra
+18,Creature,Skin-Walker
+19,Enchantment,Sorrow Shield
+20,Creature,Frozen Knight Cyclops
+21,Creature,Wolf
+22,Enchantment,Deathgrip
+23,Creature,Paladin
+24,Spell,Sorrow
+25,Creature,Earth Assassin Goblin
+26,Creature,Dark Priest Hydra
+27,Enchantment,Agony
+28,Enchantment,Flight
+29,Enchantment,Irate Nimble Blight
+30,Spell,Invisibility
+31,Creature,Dark Fighter Oni of the Eternal Land
+32,Spell,Frigid Fury
+33,Creature,Light Knight Griffin
+34,Creature,Spider
+35,Enchantment,Blight
+36,Creature,Troll
+37,Spell,Fire
+38,Spell,Revive
+39,Spell,Corpse Vortex
+40,Creature,Magi
+41,Creature,Warlock
+42,Artifact,Gauntlet
+43,Creature,Troll
+44,Spell,Rage

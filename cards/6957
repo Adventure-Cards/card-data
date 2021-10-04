@@ -1,46 +1,46 @@
-==================,DECK,6957,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Goblin
-2,Enchantment,Mythic,Intense Alacrity
-3,Creature,Common,Magi
-4,Creature,Legendary,Death Knight Cyclops of the Mountains
-5,Creature,Common,Goblin
-6,Creature,Mythic,Snow Time Dragon of Hate
-7,Enchantment,Common,Strength
-8,Enchantment,Common,Invert
-9,Creature,Common,Elf
-10,Creature,Common,Goblin
-11,Creature,Common,Ghoul
-12,Artifact,Common,Helmet
-13,Creature,Common,Wolf
-14,Enchantment,Mythic,Potent Blight
-15,Enchantment,Common,Age
-16,Enchantment,Common,Shade
-17,Creature,Rare,Frozen Warrior Berserker
-18,Spell,Rare,Lunar Infuriate
-19,Creature,Mythic,Death Undead Dragon of the Dead
-20,Spell,Common,Burn
-21,Enchantment,Legendary,Potent Shade
-22,Creature,Common,Warlock
-23,Creature,Common,Orc
-24,Spell,Common,Reanimate
-25,Creature,Common,Ghoul
-26,Creature,Rare,Dark Undead Griffin
-27,Creature,Common,Eagle
-28,Creature,Rare,Death Warrior Skin-Walker
-29,Creature,Common,Warlock
-30,Creature,Common,Ghoul
-31,Enchantment,Mythic,Dire Shrink
-32,Enchantment,Legendary,Urgent Shrink
-33,Creature,Rare,Aura Priest Griffin
-34,Creature,Common,Wolf
-35,Creature,Rare,Earth Priest Hydra
-36,Creature,Common,Orc
-37,Creature,Legendary,Earth Fighter Giant of the Low Hills
-38,Enchantment,Mythic,Mighty Haste
-39,Creature,Legendary,Earth Lord Cyclops of the Border
-40,Spell,Common,Freeze
-41,Creature,Common,Ghoul
-42,Creature,Mythic,Earth Time Phoenix of the Shadows
-43,Artifact,Rare,Oblivion Helm
-44,Creature,Common,Paladin
+==================,DECK,6957
+0,Creature,Wolf
+1,Creature,Skin-Walker
+2,Enchantment,Irate Forged Deathgrip
+3,Creature,Fairy
+4,Creature,Death Knight Giant of the Mountains
+5,Creature,Skin-Walker
+6,Creature,Snow Time Dragon of Hate
+7,Enchantment,Age
+8,Enchantment,Flight
+9,Creature,Warlock
+10,Creature,Skin-Walker
+11,Creature,Ghoul
+12,Artifact,Helmet
+13,Creature,Wolf
+14,Enchantment,Potent Nimble Drain
+15,Enchantment,Blight
+16,Enchantment,Agony
+17,Creature,Frozen Warrior Goblin
+18,Spell,Cataclysmic Torment
+19,Creature,Death Undead Dragon of the Dead
+20,Spell,Pandemonium
+21,Enchantment,Irate Frigid Blight
+22,Creature,Berserker
+23,Creature,Spider
+24,Spell,Ice
+25,Creature,Ghoul
+26,Creature,Dark Undead Griffin
+27,Creature,Eagle
+28,Creature,Death Warrior Orc
+29,Creature,Berserker
+30,Creature,Ghoul
+31,Enchantment,Zealous Frigid Blight
+32,Enchantment,Mighty Necro Agony
+33,Creature,Aura Priest Griffin
+34,Creature,Wolf
+35,Creature,Earth Priest Hydra
+36,Creature,Spider
+37,Creature,Earth Fighter Dwarf of the Low Hills
+38,Enchantment,Mighty Miracle Flight
+39,Creature,Earth Lord Giant of the Border
+40,Spell,Tempest
+41,Creature,Ghoul
+42,Creature,Earth Time Phoenix of the Shadows
+43,Artifact,Frigid Helm
+44,Creature,Troll

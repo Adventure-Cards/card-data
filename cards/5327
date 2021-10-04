@@ -1,46 +1,46 @@
-==================,DECK,5327,Light
-0,Artifact,Common,Bracers
-1,Creature,Mythic,Aura Nameless Dragon of the Light
-2,Spell,Common,Ice
-3,Creature,Common,Magi
-4,Spell,Common,Ice
-5,Creature,Common,Goblin
-6,Spell,Legendary,Angry Infuriate
-7,Artifact,Common,Tome
-8,Creature,Common,Goblin
-9,Creature,Rare,Aura Queen Hydra
-10,Creature,Mythic,Dark Ancient Demon of Illusion
-11,Creature,Legendary,Earth Monk Oni of the Black Stone
-12,Creature,Rare,Snow Rogue Skin-Walker
-13,Creature,Common,Wolf
-14,Spell,Common,Fury
-15,Enchantment,Mythic,Dire Haste
-16,Creature,Common,Wolf
-17,Creature,Common,Warlock
-18,Creature,Common,Dwarf
-19,Creature,Rare,Death Priest Minotaur
-20,Spell,Common,Rage
-21,Enchantment,Rare,Miracle Shrink
-22,Creature,Mythic,Aura Ancient Wizard of the Light
-23,Spell,Common,Infuriate
-24,Spell,Common,Lightning
-25,Enchantment,Common,Shield
-26,Enchantment,Common,Lethargy
-27,Spell,Rare,Cataclysmic Reanimate
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Elf
-30,Creature,Rare,Frozen Thief Fairy
-31,Creature,Common,Dwarf
-32,Creature,Common,Magi
-33,Enchantment,Legendary,Urgent Agony
-34,Enchantment,Common,Haste
-35,Creature,Mythic,Earth Undead Phoenix of the Shadows
-36,Enchantment,Common,Shade
-37,Artifact,Common,Shield
-38,Creature,Common,Dwarf
-39,Spell,Legendary,Angry Hypnosis
-40,Creature,Common,Magi
-41,Artifact,Common,Ring
-42,Enchantment,Common,Shrink
-43,Artifact,Legendary,Potent Belt
-44,Creature,Common,Paladin
+==================,DECK,5327
+0,Artifact,Bracers
+1,Creature,Aura Nameless Dragon of the Light
+2,Spell,Burst
+3,Creature,Fairy
+4,Spell,Frost
+5,Creature,Skin-Walker
+6,Spell,Mighty Dark Fireball
+7,Artifact,Tome
+8,Creature,Skin-Walker
+9,Creature,Aura Queen Hydra
+10,Creature,Dark Ancient Demon of Illusion
+11,Creature,Earth Monk Oni of the Black Stone
+12,Creature,Snow Rogue Orc
+13,Creature,Wolf
+14,Spell,Torment
+15,Enchantment,Potent Life Drain
+16,Creature,Wolf
+17,Creature,Berserker
+18,Creature,Magi
+19,Creature,Death Priest Cyclops
+20,Spell,Rage
+21,Enchantment,Frigid Blight
+22,Creature,Aura Ancient Wizard of the Light
+23,Spell,Revive
+24,Spell,Burn
+25,Enchantment,Strength
+26,Enchantment,Haste
+27,Spell,Dark Hypnosis
+28,Enchantment,Deathgrip
+29,Creature,Warlock
+30,Creature,Frozen Thief Kraken
+31,Creature,Magi
+32,Creature,Fairy
+33,Enchantment,Irate Corpse Deathgrip
+34,Enchantment,Blight
+35,Creature,Earth Undead Phoenix of the Shadows
+36,Enchantment,Shield
+37,Artifact,Shield
+38,Creature,Magi
+39,Spell,Mighty Chimeric Rage
+40,Creature,Fairy
+41,Artifact,Ring
+42,Enchantment,Shield
+43,Artifact,Empyrean Apocalypse Belt
+44,Creature,Troll

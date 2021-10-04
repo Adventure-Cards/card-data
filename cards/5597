@@ -1,46 +1,46 @@
-==================,DECK,5597,Light
-0,Creature,Rare,Light Priest Griffin
-1,Creature,Common,Wolf
-2,Creature,Common,Ghoul
-3,Enchantment,Rare,Cataclysmic Blight
-4,Spell,Common,Torment
-5,Creature,Legendary,Light King Oni of the Border
-6,Enchantment,Common,Blight
-7,Creature,Common,Wolf
-8,Spell,Common,Rage
-9,Enchantment,Mythic,Angry Deathgrip
-10,Creature,Common,Elf
-11,Artifact,Common,Sword
-12,Spell,Common,Lightning
-13,Spell,Common,Vortex
-14,Artifact,Common,Scythe
-15,Spell,Common,Stricken
-16,Spell,Common,Freeze
-17,Creature,Rare,Dark Thief Minotaur
-18,Creature,Common,Ghoul
-19,Creature,Common,Paladin
-20,Creature,Legendary,Death Knight Kraken of the West
-21,Creature,Common,Spider
-22,Creature,Rare,Death King Hydra
-23,Enchantment,Common,Lethargy
-24,Creature,Legendary,Earth Rogue Kraken of the West
-25,Spell,Rare,Hateful Pandemonium
-26,Enchantment,Rare,Life Blight
-27,Creature,Common,Orc
-28,Enchantment,Common,Deathgrip
-29,Enchantment,Common,Drain
-30,Spell,Common,Infuriate
-31,Spell,Common,Gravitation
-32,Spell,Rare,Corpse Revive
-33,Creature,Common,Dwarf
-34,Spell,Common,Pandemonium
-35,Enchantment,Rare,Necro Haste
-36,Creature,Rare,Frozen Monk Minotaur
-37,Artifact,Common,Ring
-38,Spell,Common,Hypnosis
-39,Creature,Common,Magi
-40,Enchantment,Common,Deathgrip
-41,Enchantment,Common,Drain
-42,Enchantment,Rare,Gloom Invert
-43,Spell,Common,Gravitation
-44,Creature,Rare,Snow Monk Griffin
+==================,DECK,5597
+0,Creature,Light Priest Griffin
+1,Creature,Wolf
+2,Creature,Ghoul
+3,Enchantment,Cataclysmic Firebreath
+4,Spell,Lightning
+5,Creature,Light King Oni of the Border
+6,Enchantment,Shield
+7,Creature,Wolf
+8,Spell,Fire
+9,Enchantment,Clever Sorrow Shield
+10,Creature,Warlock
+11,Artifact,Sword
+12,Spell,Vortex
+13,Spell,Invisibility
+14,Artifact,Scythe
+15,Spell,Hypnosis
+16,Spell,Burn
+17,Creature,Dark Thief Cyclops
+18,Creature,Ghoul
+19,Creature,Troll
+20,Creature,Death Knight Ogre of the West
+21,Creature,Paladin
+22,Creature,Death King Hydra
+23,Enchantment,Invert
+24,Creature,Earth Rogue Ogre of the West
+25,Spell,Sorrow Wall
+26,Enchantment,Nimble Haste
+27,Creature,Spider
+28,Enchantment,Invert
+29,Enchantment,Shield
+30,Spell,Gale
+31,Spell,Hypnosis
+32,Spell,Solar Fury
+33,Creature,Magi
+34,Spell,Hypnosis
+35,Enchantment,Corpse Age
+36,Creature,Frozen Monk Cyclops
+37,Artifact,Ring
+38,Spell,Revive
+39,Creature,Fairy
+40,Enchantment,Lethargy
+41,Enchantment,Shade
+42,Enchantment,Sorrow Firebreath
+43,Spell,Assault
+44,Creature,Snow Monk Griffin

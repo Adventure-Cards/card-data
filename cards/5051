@@ -1,46 +1,46 @@
-==================,DECK,5051,Medium
-0,Artifact,Common,Greaves
-1,Spell,Common,Rage
-2,Enchantment,Common,Age
-3,Spell,Common,Gale
-4,Creature,Legendary,Snow Rogue Orge of the Magical Forest
-5,Creature,Common,Warlock
-6,Artifact,Common,Cloak
-7,Enchantment,Legendary,Dire Shield
-8,Artifact,Common,Greaves
-9,Spell,Rare,Grim Invisibility
-10,Spell,Legendary,Intense Assault
-11,Spell,Rare,Corpse Assault
-12,Spell,Mythic,Angry Freeze
-13,Creature,Common,Warlock
-14,Enchantment,Mythic,Mighty Blight
-15,Creature,Common,Goblin
-16,Creature,Common,Magi
-17,Enchantment,Common,Blight
-18,Artifact,Rare,Shimmering Bracers
-19,Enchantment,Common,Shade
-20,Creature,Common,Magi
-21,Enchantment,Common,Deathgrip
-22,Creature,Rare,Dark Warrior Hydra
-23,Creature,Common,Paladin
-24,Spell,Common,Rage
-25,Spell,Common,Fury
-26,Artifact,Common,Gauntlet
-27,Spell,Legendary,Clever Ice
-28,Creature,Common,Wolf
-29,Creature,Common,Ghoul
-30,Creature,Rare,Snow Thief Griffin
-31,Enchantment,Mythic,Mighty Deathgrip
-32,Artifact,Common,Ring
-33,Enchantment,Rare,Corpse Agony
-34,Creature,Rare,Death Knight Minotaur
-35,Creature,Mythic,Aura Nameless Dragon of the Light
-36,Enchantment,Common,Deathgrip
-37,Creature,Common,Dwarf
-38,Creature,Common,Goblin
-39,Spell,Common,Sorrow
-40,Spell,Common,Torment
-41,Creature,Common,Spider
-42,Spell,Legendary,Angry Maelstrom
-43,Creature,Common,Goblin
-44,Creature,Common,Dwarf
+==================,DECK,5051
+0,Artifact,Greaves
+1,Spell,Reanimate
+2,Enchantment,Lethargy
+3,Spell,Maelstrom
+4,Creature,Snow Rogue Elf of the Magical Forest
+5,Creature,Berserker
+6,Artifact,Cloak
+7,Enchantment,Instant Victory Drain
+8,Artifact,Greaves
+9,Spell,Frigid Wall
+10,Spell,Dire Forged Freeze
+11,Spell,Hateful Infuriate
+12,Spell,Instant Gloom Ice
+13,Creature,Berserker
+14,Enchantment,Empyrean Cataclysmic Firebreath
+15,Creature,Skin-Walker
+16,Creature,Fairy
+17,Enchantment,Shield
+18,Artifact,Shimmering Bracers
+19,Enchantment,Shade
+20,Creature,Fairy
+21,Enchantment,Deathgrip
+22,Creature,Dark Warrior Hydra
+23,Creature,Troll
+24,Spell,Fury
+25,Spell,Maelstrom
+26,Artifact,Gauntlet
+27,Spell,Zealous Nimble Torment
+28,Creature,Wolf
+29,Creature,Ghoul
+30,Creature,Snow Thief Griffin
+31,Enchantment,Empyrean Sorrow Firebreath
+32,Artifact,Ring
+33,Enchantment,Corpse Deathgrip
+34,Creature,Death Knight Cyclops
+35,Creature,Aura Nameless Dragon of the Light
+36,Enchantment,Shrink
+37,Creature,Magi
+38,Creature,Skin-Walker
+39,Spell,Wall
+40,Spell,Stun
+41,Creature,Paladin
+42,Spell,Clever Cataclysmic Rage
+43,Creature,Skin-Walker
+44,Creature,Magi

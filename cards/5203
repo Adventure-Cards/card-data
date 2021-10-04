@@ -1,46 +1,46 @@
-==================,DECK,5203,Light
-0,Creature,Common,Paladin
-1,Enchantment,Common,Lethargy
-2,Enchantment,Common,Strength
-3,Enchantment,Common,Lethargy
-4,Spell,Common,Fury
-5,Enchantment,Mythic,Clever Shield
-6,Creature,Common,Wolf
-7,Creature,Common,Magi
-8,Spell,Common,Stun
-9,Creature,Common,Warlock
-10,Spell,Common,Wall
-11,Artifact,Common,Cloak
-12,Creature,Legendary,Light Undead Cyclops of the Swamp
-13,Creature,Common,Elf
-14,Enchantment,Common,Drain
-15,Spell,Common,Pandemonium
-16,Spell,Legendary,Clever Gravitation
-17,Creature,Common,Warlock
-18,Enchantment,Common,Strength
-19,Creature,Rare,Dark Warrior Fairy
-20,Enchantment,Common,Haste
-21,Creature,Legendary,Aura Thief Oni of the Eternal Land
-22,Spell,Common,Gale
-23,Creature,Common,Warlock
-24,Enchantment,Common,Strength
-25,Enchantment,Common,Shield
-26,Enchantment,Rare,Lunar Shrink
-27,Spell,Common,Torment
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Corpse Shade
-30,Enchantment,Common,Agony
-31,Spell,Common,Invisibility
-32,Creature,Rare,Death Priest Skin-Walker
-33,Creature,Common,Spider
-34,Artifact,Common,Gauntlet
-35,Spell,Common,Freeze
-36,Creature,Rare,Earth Thief Griffin
-37,Spell,Common,Sorrow
-38,Creature,Legendary,Dark Merchant Giant of the Eastern Skies
-39,Artifact,Rare,Forged Potion
-40,Creature,Common,Wolf
-41,Spell,Common,Maelstrom
-42,Enchantment,Legendary,Clever Shade
-43,Creature,Rare,Earth Fighter Griffin
-44,Enchantment,Common,Agony
+==================,DECK,5203
+0,Creature,Troll
+1,Enchantment,Invert
+2,Enchantment,Alacrity
+3,Enchantment,Invert
+4,Spell,Maelstrom
+5,Enchantment,Instant Victory Drain
+6,Creature,Wolf
+7,Creature,Fairy
+8,Spell,Hypnosis
+9,Creature,Berserker
+10,Spell,Reanimate
+11,Artifact,Cloak
+12,Creature,Light Undead Giant of the Swamp
+13,Creature,Warlock
+14,Enchantment,Shrink
+15,Spell,Stricken
+16,Spell,Instant Frigid Gale
+17,Creature,Berserker
+18,Enchantment,Strength
+19,Creature,Dark Warrior Kraken
+20,Enchantment,Lethargy
+21,Creature,Aura Thief Oni of the Eternal Land
+22,Spell,Infuriate
+23,Creature,Berserker
+24,Enchantment,Invert
+25,Enchantment,Lethargy
+26,Enchantment,Chimeric Firebreath
+27,Spell,Rage
+28,Creature,Magi
+29,Enchantment,Necro Agony
+30,Enchantment,Drain
+31,Spell,Wall
+32,Creature,Death Priest Orc
+33,Creature,Paladin
+34,Artifact,Gauntlet
+35,Spell,Burn
+36,Creature,Earth Thief Griffin
+37,Spell,Fury
+38,Creature,Dark Merchant Dwarf of the Eastern Skies
+39,Artifact,Chimeric Potion
+40,Creature,Wolf
+41,Spell,Gale
+42,Enchantment,Dire Frigid Shade
+43,Creature,Earth Fighter Griffin
+44,Enchantment,Shield

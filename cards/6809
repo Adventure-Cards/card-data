@@ -1,46 +1,46 @@
-==================,DECK,6809,Medium
-0,Creature,Legendary,Earth Warrior Giant of the Border
-1,Enchantment,Common,Shield
-2,Creature,Common,Magi
-3,Creature,Common,Spider
-4,Artifact,Rare,Nature Pendant
-5,Artifact,Rare,Nimble Sigil
-6,Creature,Common,Elf
-7,Enchantment,Mythic,Intense Lethargy
-8,Creature,Rare,Light Lord Griffin
-9,Artifact,Rare,Miracle Crown
-10,Creature,Rare,Light Lord Fairy
-11,Enchantment,Rare,Gloom Agony
-12,Creature,Common,Elf
-13,Spell,Common,Burst
-14,Enchantment,Rare,Miracle Flight
-15,Creature,Common,Spider
-16,Artifact,Legendary,Urgent Scythe
-17,Creature,Common,Goblin
-18,Spell,Legendary,Dire Gravitation
-19,Creature,Common,Spider
-20,Creature,Legendary,Snow Priest Cyclops of the Black Stone
-21,Creature,Common,Magi
-22,Creature,Legendary,Earth Merchant Oni of the Polar Woods
-23,Artifact,Legendary,Intense Bracers
-24,Enchantment,Rare,Necro Shrink
-25,Creature,Rare,Snow Rogue Minotaur
-26,Spell,Common,Stun
-27,Artifact,Common,Helm
-28,Enchantment,Common,Invert
-29,Enchantment,Rare,Necro Blight
-30,Enchantment,Common,Drain
-31,Enchantment,Common,Lethargy
-32,Artifact,Common,Gauntlet
-33,Enchantment,Rare,Apocalypse Shrink
-34,Creature,Common,Goblin
-35,Spell,Common,Gale
-36,Creature,Common,Paladin
-37,Spell,Common,Vortex
-38,Creature,Common,Goblin
-39,Creature,Common,Eagle
-40,Creature,Rare,Snow Monk Skin-Walker
-41,Enchantment,Common,Blight
-42,Creature,Rare,Light Priest Griffin
-43,Artifact,Rare,Life Belt
-44,Enchantment,Mythic,Urgent Deathgrip
+==================,DECK,6809
+0,Creature,Earth Warrior Dwarf of the Border
+1,Enchantment,Invert
+2,Creature,Fairy
+3,Creature,Paladin
+4,Artifact,Forged Pendant
+5,Artifact,Corpse Sigil
+6,Creature,Warlock
+7,Enchantment,Urgent Hateful Agony
+8,Creature,Light Lord Griffin
+9,Artifact,Grim Crown
+10,Creature,Light Lord Kraken
+11,Enchantment,Miracle Alacrity
+12,Creature,Warlock
+13,Spell,Wall
+14,Enchantment,Grim Haste
+15,Creature,Paladin
+16,Artifact,Dire Solar Scythe
+17,Creature,Skin-Walker
+18,Spell,Irate Apocalypse Fireball
+19,Creature,Paladin
+20,Creature,Snow Priest Giant of the Black Stone
+21,Creature,Fairy
+22,Creature,Earth Merchant Oni of the Polar Woods
+23,Artifact,Irate Shimmering Bracers
+24,Enchantment,Necro Deathgrip
+25,Creature,Snow Rogue Cyclops
+26,Spell,Vortex
+27,Artifact,Helm
+28,Enchantment,Drain
+29,Enchantment,Solar Agony
+30,Enchantment,Invert
+31,Enchantment,Strength
+32,Artifact,Gauntlet
+33,Enchantment,Frigid Drain
+34,Creature,Skin-Walker
+35,Spell,Infuriate
+36,Creature,Troll
+37,Spell,Stricken
+38,Creature,Skin-Walker
+39,Creature,Eagle
+40,Creature,Snow Monk Orc
+41,Enchantment,Haste
+42,Creature,Light Priest Griffin
+43,Artifact,Victory Belt
+44,Enchantment,Potent Shimmering Strength

@@ -1,46 +1,46 @@
-==================,DECK,5541,Medium
-0,Creature,Rare,Light Fighter Minotaur
-1,Artifact,Common,Sword
-2,Creature,Legendary,Aura Priest Kraken of the Polar Woods
-3,Artifact,Common,Gauntlet
-4,Creature,Rare,Snow Merchant Hydra
-5,Enchantment,Common,Flight
-6,Creature,Common,Goblin
-7,Creature,Common,Goblin
-8,Creature,Common,Ghoul
-9,Enchantment,Rare,Miracle Age
-10,Spell,Common,Invisibility
-11,Creature,Common,Paladin
-12,Creature,Legendary,Death Warrior Giant of the Arctic Blizzards
-13,Enchantment,Common,Strength
-14,Creature,Common,Paladin
-15,Spell,Legendary,Extreme Wall
-16,Artifact,Common,Ring
-17,Spell,Legendary,Urgent Burn
-18,Enchantment,Common,Alacrity
-19,Creature,Mythic,Light Chaos Demon of the Sky
-20,Enchantment,Legendary,Mighty Shade
-21,Spell,Common,Heal
-22,Creature,Rare,Frozen Undead Minotaur
-23,Spell,Common,Wall
-24,Creature,Common,Orc
-25,Creature,Legendary,Earth Monk Cyclops of the Plains
-26,Enchantment,Legendary,Dire Lethargy
-27,Creature,Common,Eagle
-28,Creature,Common,Goblin
-29,Creature,Common,Ghoul
-30,Enchantment,Legendary,Extreme Blight
-31,Artifact,Common,Crown
-32,Creature,Rare,Death Rogue Fairy
-33,Creature,Common,Ghoul
-34,Enchantment,Mythic,Potent Deathgrip
-35,Creature,Rare,Aura Warrior Berserker
-36,Spell,Common,Heal
-37,Creature,Common,Eagle
-38,Creature,Legendary,Frozen Rogue Oni of the Plains
-39,Spell,Mythic,Extreme Frost
-40,Artifact,Rare,Lunar Sigil
-41,Creature,Common,Paladin
-42,Creature,Rare,Dark Fighter Skin-Walker
-43,Creature,Common,Magi
-44,Enchantment,Common,Shield
+==================,DECK,5541
+0,Creature,Light Fighter Cyclops
+1,Artifact,Sword
+2,Creature,Aura Priest Ogre of the Polar Woods
+3,Artifact,Gauntlet
+4,Creature,Snow Merchant Hydra
+5,Enchantment,Deathgrip
+6,Creature,Skin-Walker
+7,Creature,Skin-Walker
+8,Creature,Ghoul
+9,Enchantment,Victory Invert
+10,Spell,Ice
+11,Creature,Troll
+12,Creature,Death Warrior Dwarf of the Arctic Blizzards
+13,Enchantment,Flight
+14,Creature,Troll
+15,Spell,Urgent Cataclysmic Gale
+16,Artifact,Ring
+17,Spell,Zealous Shimmering Infuriate
+18,Enchantment,Shade
+19,Creature,Light Chaos Demon of the Sky
+20,Enchantment,Urgent Chimeric Flight
+21,Spell,Sorrow
+22,Creature,Frozen Undead Cyclops
+23,Spell,Sorrow
+24,Creature,Spider
+25,Creature,Earth Monk Giant of the Plains
+26,Enchantment,Dire Grim Shade
+27,Creature,Eagle
+28,Creature,Skin-Walker
+29,Creature,Ghoul
+30,Enchantment,Clever Cataclysmic Shield
+31,Artifact,Crown
+32,Creature,Death Rogue Kraken
+33,Creature,Ghoul
+34,Enchantment,Potent Oblivion Drain
+35,Creature,Aura Warrior Goblin
+36,Spell,Sorrow
+37,Creature,Eagle
+38,Creature,Frozen Rogue Oni of the Plains
+39,Spell,Urgent Gloom Invisibility
+40,Artifact,Gloom Sigil
+41,Creature,Troll
+42,Creature,Dark Fighter Orc
+43,Creature,Fairy
+44,Enchantment,Shield

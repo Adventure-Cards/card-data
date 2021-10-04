@@ -1,46 +1,46 @@
-==================,DECK,6347,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Elf
-2,Creature,Common,Goblin
-3,Spell,Common,Stun
-4,Creature,Common,Eagle
-5,Creature,Common,Eagle
-6,Creature,Mythic,Aura Chaos Demon of the Light
-7,Spell,Common,Frenzy
-8,Creature,Rare,Light Warrior Fairy
-9,Enchantment,Common,Blight
-10,Enchantment,Common,Alacrity
-11,Creature,Common,Warlock
-12,Enchantment,Legendary,Urgent Haste
-13,Creature,Common,Magi
-14,Artifact,Common,Sigil
-15,Artifact,Common,Sigil
-16,Creature,Common,Orc
-17,Enchantment,Common,Strength
-18,Spell,Common,Maelstrom
-19,Spell,Common,Stricken
-20,Artifact,Common,Sigil
-21,Spell,Common,Invisibility
-22,Creature,Common,Wolf
-23,Spell,Mythic,Extreme Hypnosis
-24,Spell,Common,Burst
-25,Creature,Common,Goblin
-26,Artifact,Common,Gauntlet
-27,Creature,Rare,Aura Undead Hydra
-28,Enchantment,Rare,Gloom Invert
-29,Enchantment,Common,Shrink
-30,Creature,Common,Elf
-31,Creature,Rare,Frozen King Minotaur
-32,Creature,Mythic,Light Undead Dragon of the Sky
-33,Artifact,Rare,Hateful Cloak
-34,Artifact,Common,Potion
-35,Spell,Common,Wall
-36,Enchantment,Rare,Frigid Lethargy
-37,Spell,Legendary,Angry Pandemonium
-38,Creature,Rare,Earth Knight Berserker
-39,Creature,Common,Eagle
-40,Creature,Rare,Aura Lord Skin-Walker
-41,Creature,Common,Orc
-42,Enchantment,Rare,Life Flight
-43,Enchantment,Mythic,Potent Strength
-44,Creature,Rare,Earth Thief Hydra
+==================,DECK,6347
+0,Creature,Magi
+1,Creature,Warlock
+2,Creature,Skin-Walker
+3,Spell,Gravitation
+4,Creature,Eagle
+5,Creature,Eagle
+6,Creature,Aura Chaos Demon of the Light
+7,Spell,Gravitation
+8,Creature,Light Warrior Kraken
+9,Enchantment,Alacrity
+10,Enchantment,Shield
+11,Creature,Berserker
+12,Enchantment,Empyrean Corpse Age
+13,Creature,Fairy
+14,Artifact,Sigil
+15,Artifact,Sigil
+16,Creature,Spider
+17,Enchantment,Drain
+18,Spell,Tempest
+19,Spell,Invisibility
+20,Artifact,Sigil
+21,Spell,Stun
+22,Creature,Wolf
+23,Spell,Empyrean Cataclysmic Burn
+24,Spell,Revive
+25,Creature,Skin-Walker
+26,Artifact,Gauntlet
+27,Creature,Aura Undead Hydra
+28,Enchantment,Sorrow Alacrity
+29,Enchantment,Deathgrip
+30,Creature,Warlock
+31,Creature,Frozen King Cyclops
+32,Creature,Light Undead Dragon of the Sky
+33,Artifact,Chimeric Cloak
+34,Artifact,Potion
+35,Spell,Assault
+36,Enchantment,Grim Invert
+37,Spell,Mighty Cataclysmic Gale
+38,Creature,Earth Knight Goblin
+39,Creature,Eagle
+40,Creature,Aura Lord Orc
+41,Creature,Spider
+42,Enchantment,Grim Shade
+43,Enchantment,Instant Nimble Drain
+44,Creature,Earth Thief Hydra

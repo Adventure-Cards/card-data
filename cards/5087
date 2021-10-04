@@ -1,46 +1,46 @@
-==================,DECK,5087,Light
-0,Artifact,Common,Tome
-1,Spell,Common,Heal
-2,Creature,Common,Paladin
-3,Creature,Common,Warlock
-4,Enchantment,Common,Alacrity
-5,Creature,Common,Dwarf
-6,Spell,Legendary,Instant Reanimate
-7,Creature,Common,Warlock
-8,Creature,Rare,Death Undead Hydra
-9,Enchantment,Common,Strength
-10,Enchantment,Common,Shade
-11,Enchantment,Common,Flight
-12,Creature,Rare,Light King Hydra
-13,Creature,Rare,Frozen Queen Fairy
-14,Enchantment,Legendary,Extreme Lethargy
-15,Creature,Common,Dwarf
-16,Spell,Common,Ice
-17,Spell,Common,Assault
-18,Artifact,Common,Bow
-19,Artifact,Legendary,Mighty Divine Robe
-20,Creature,Common,Spider
-21,Artifact,Common,Crown
-22,Creature,Common,Dwarf
-23,Artifact,Common,Cloak
-24,Creature,Common,Warlock
-25,Spell,Common,Frost
-26,Creature,Common,Eagle
-27,Artifact,Common,Bow
-28,Creature,Rare,Death Warrior Minotaur
-29,Creature,Common,Ghoul
-30,Spell,Common,Invisibility
-31,Spell,Legendary,Angry Frost
-32,Enchantment,Common,Drain
-33,Enchantment,Mythic,Intense Agony
-34,Creature,Rare,Frozen Warrior Minotaur
-35,Creature,Common,Dwarf
-36,Artifact,Rare,Forged Tome
-37,Creature,Common,Warlock
-38,Spell,Common,Frenzy
-39,Enchantment,Common,Invert
-40,Creature,Common,Orc
-41,Creature,Common,Warlock
-42,Spell,Rare,Cataclysmic Stricken
-43,Enchantment,Mythic,Intense Shrink
-44,Artifact,Common,Ring
+==================,DECK,5087
+0,Artifact,Tome
+1,Spell,Burst
+2,Creature,Troll
+3,Creature,Berserker
+4,Enchantment,Invert
+5,Creature,Magi
+6,Spell,Potent Shimmering Heal
+7,Creature,Berserker
+8,Creature,Death Undead Hydra
+9,Enchantment,Shrink
+10,Enchantment,Haste
+11,Enchantment,Shade
+12,Creature,Light King Hydra
+13,Creature,Frozen Queen Kraken
+14,Enchantment,Ardent Lunar Shield
+15,Creature,Magi
+16,Spell,Gale
+17,Spell,Maelstrom
+18,Artifact,Bow
+19,Artifact,Instant Cataclysmic Divine Robe
+20,Creature,Paladin
+21,Artifact,Crown
+22,Creature,Magi
+23,Artifact,Cloak
+24,Creature,Berserker
+25,Spell,Fireball
+26,Creature,Eagle
+27,Artifact,Bow
+28,Creature,Death Warrior Cyclops
+29,Creature,Ghoul
+30,Spell,Invisibility
+31,Spell,Ardent Cataclysmic Pandemonium
+32,Enchantment,Firebreath
+33,Enchantment,Urgent Corpse Agony
+34,Creature,Frozen Warrior Cyclops
+35,Creature,Magi
+36,Artifact,Miracle Tome
+37,Creature,Berserker
+38,Spell,Fireball
+39,Enchantment,Age
+40,Creature,Spider
+41,Creature,Berserker
+42,Spell,Dark Rage
+43,Enchantment,Zealous Necro Deathgrip
+44,Artifact,Ring

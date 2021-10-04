@@ -1,46 +1,46 @@
-==================,DECK,4890,Light
-0,Creature,Common,Spider
-1,Artifact,Common,Ring
-2,Artifact,Common,Sword
-3,Creature,Common,Eagle
-4,Spell,Rare,Frigid Revive
-5,Creature,Common,Spider
-6,Creature,Common,Paladin
-7,Creature,Common,Elf
-8,Creature,Rare,Death King Hydra
-9,Creature,Common,Magi
-10,Spell,Common,Fury
-11,Enchantment,Mythic,Angry Agony
-12,Spell,Common,Stricken
-13,Creature,Common,Magi
-14,Spell,Common,Stun
-15,Spell,Legendary,Dire Frost
-16,Creature,Mythic,Death Grand Wizard of the Dead
-17,Creature,Rare,Death Priest Minotaur
-18,Enchantment,Common,Alacrity
-19,Enchantment,Common,Haste
-20,Creature,Common,Orc
-21,Creature,Common,Dwarf
-22,Creature,Common,Spider
-23,Artifact,Common,Gauntlet
-24,Creature,Common,Paladin
-25,Enchantment,Common,Invert
-26,Creature,Rare,Dark Warrior Minotaur
-27,Creature,Common,Ghoul
-28,Spell,Rare,Apocalypse Ice
-29,Artifact,Common,Scepter
-30,Enchantment,Common,Age
-31,Creature,Common,Wolf
-32,Creature,Common,Goblin
-33,Creature,Common,Orc
-34,Creature,Common,Ghoul
-35,Creature,Common,Warlock
-36,Spell,Common,Stun
-37,Artifact,Common,Potion
-38,Creature,Legendary,Aura Rogue Oni of the Black Stone
-39,Creature,Common,Spider
-40,Creature,Common,Wolf
-41,Creature,Legendary,Earth Monk Kraken of the Eastern Skies
-42,Spell,Common,Assault
-43,Creature,Common,Eagle
-44,Creature,Common,Goblin
+==================,DECK,4890
+0,Creature,Paladin
+1,Artifact,Ring
+2,Artifact,Sword
+3,Creature,Eagle
+4,Spell,Oblivion Infuriate
+5,Creature,Paladin
+6,Creature,Troll
+7,Creature,Warlock
+8,Creature,Death King Hydra
+9,Creature,Fairy
+10,Spell,Pandemonium
+11,Enchantment,Dire Miracle Firebreath
+12,Spell,Stricken
+13,Creature,Fairy
+14,Spell,Frenzy
+15,Spell,Instant Oblivion Assault
+16,Creature,Death Grand Wizard of the Dead
+17,Creature,Death Priest Cyclops
+18,Enchantment,Firebreath
+19,Enchantment,Lethargy
+20,Creature,Spider
+21,Creature,Magi
+22,Creature,Paladin
+23,Artifact,Gauntlet
+24,Creature,Troll
+25,Enchantment,Lethargy
+26,Creature,Dark Warrior Cyclops
+27,Creature,Ghoul
+28,Spell,Apocalypse Wall
+29,Artifact,Scepter
+30,Enchantment,Deathgrip
+31,Creature,Wolf
+32,Creature,Skin-Walker
+33,Creature,Spider
+34,Creature,Ghoul
+35,Creature,Berserker
+36,Spell,Burn
+37,Artifact,Potion
+38,Creature,Aura Rogue Oni of the Black Stone
+39,Creature,Paladin
+40,Creature,Wolf
+41,Creature,Earth Monk Ogre of the Eastern Skies
+42,Spell,Pandemonium
+43,Creature,Eagle
+44,Creature,Skin-Walker

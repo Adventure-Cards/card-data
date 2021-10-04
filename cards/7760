@@ -1,46 +1,46 @@
-==================,DECK,7760,Light
-0,Creature,Common,Elf
-1,Spell,Rare,Hateful Stricken
-2,Creature,Legendary,Earth Fighter Kraken of the Border
-3,Enchantment,Common,Shade
-4,Spell,Legendary,Extreme Wall
-5,Creature,Common,Orc
-6,Creature,Common,Orc
-7,Spell,Legendary,Dire Infuriate
-8,Creature,Common,Magi
-9,Creature,Common,Spider
-10,Creature,Common,Paladin
-11,Enchantment,Legendary,Angry Shield
-12,Creature,Common,Orc
-13,Spell,Common,Hypnosis
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Invert
-16,Enchantment,Rare,Shimmering Deathgrip
-17,Creature,Common,Eagle
-18,Artifact,Common,Scythe
-19,Enchantment,Common,Alacrity
-20,Enchantment,Common,Deathgrip
-21,Creature,Common,Warlock
-22,Enchantment,Common,Strength
-23,Spell,Rare,Corpse Torment
-24,Creature,Common,Orc
-25,Creature,Mythic,Snow Nameless Phoenix of Hate
-26,Spell,Rare,Nimble Lightning
-27,Creature,Common,Elf
-28,Artifact,Common,Belt
-29,Enchantment,Common,Alacrity
-30,Enchantment,Common,Blight
-31,Spell,Rare,Nature Stun
-32,Creature,Legendary,Snow Knight Oni of the West
-33,Creature,Common,Paladin
-34,Creature,Legendary,Dark Fighter Kraken of the Arctic Blizzards
-35,Enchantment,Rare,Dark Lethargy
-36,Enchantment,Common,Age
-37,Creature,Rare,Aura Lord Fairy
-38,Artifact,Common,Helmet
-39,Creature,Common,Elf
-40,Enchantment,Common,Agony
-41,Creature,Common,Orc
-42,Creature,Common,Spider
-43,Spell,Common,Frenzy
-44,Creature,Common,Eagle
+==================,DECK,7760
+0,Creature,Warlock
+1,Spell,Lunar Gravitation
+2,Creature,Earth Fighter Ogre of the Border
+3,Enchantment,Flight
+4,Spell,Irate Dark Freeze
+5,Creature,Spider
+6,Creature,Spider
+7,Spell,Mighty Oblivion Gravitation
+8,Creature,Fairy
+9,Creature,Paladin
+10,Creature,Troll
+11,Enchantment,Ardent Gloom Shield
+12,Creature,Spider
+13,Spell,Heal
+14,Creature,Ghoul
+15,Enchantment,Shrink
+16,Enchantment,Shimmering Lethargy
+17,Creature,Eagle
+18,Artifact,Scythe
+19,Enchantment,Age
+20,Enchantment,Deathgrip
+21,Creature,Berserker
+22,Enchantment,Age
+23,Spell,Nature Fury
+24,Creature,Spider
+25,Creature,Snow Nameless Phoenix of Hate
+26,Spell,Forged Sorrow
+27,Creature,Warlock
+28,Artifact,Belt
+29,Enchantment,Deathgrip
+30,Enchantment,Shield
+31,Spell,Nature Gale
+32,Creature,Snow Knight Oni of the West
+33,Creature,Troll
+34,Creature,Dark Fighter Ogre of the Arctic Blizzards
+35,Enchantment,Lunar Firebreath
+36,Enchantment,Blight
+37,Creature,Aura Lord Kraken
+38,Artifact,Helmet
+39,Creature,Warlock
+40,Enchantment,Age
+41,Creature,Spider
+42,Creature,Paladin
+43,Spell,Fury
+44,Creature,Eagle

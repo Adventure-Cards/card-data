@@ -1,46 +1,46 @@
-==================,DECK,4259,Light
-0,Enchantment,Common,Deathgrip
-1,Enchantment,Common,Agony
-2,Creature,Common,Magi
-3,Creature,Common,Paladin
-4,Enchantment,Common,Shield
-5,Spell,Rare,Shimmering Burst
-6,Creature,Mythic,Light Grand Wizard of the Sky
-7,Enchantment,Mythic,Urgent Blight
-8,Creature,Legendary,Aura Merchant Oni of the Low Hills
-9,Spell,Common,Sorrow
-10,Spell,Legendary,Urgent Pandemonium
-11,Enchantment,Common,Deathgrip
-12,Spell,Legendary,Intense Infuriate
-13,Creature,Rare,Dark Knight Berserker
-14,Enchantment,Common,Alacrity
-15,Artifact,Common,Boots
-16,Spell,Common,Freeze
-17,Artifact,Common,Bracers
-18,Artifact,Legendary,Extreme Potion
-19,Spell,Common,Infuriate
-20,Spell,Rare,Oblivion Gravitation
-21,Enchantment,Common,Haste
-22,Creature,Common,Elf
-23,Creature,Common,Warlock
-24,Artifact,Common,Gauntlet
-25,Spell,Rare,Frigid Revive
-26,Artifact,Common,Belt
-27,Creature,Rare,Dark Undead Fairy
-28,Creature,Common,Magi
-29,Enchantment,Rare,Gloom Agony
-30,Creature,Legendary,Aura Rogue Giant of the Polar Woods
-31,Creature,Rare,Dark Merchant Minotaur
-32,Spell,Common,Reanimate
-33,Enchantment,Common,Shield
-34,Creature,Common,Dwarf
-35,Creature,Common,Paladin
-36,Artifact,Common,Helmet
-37,Enchantment,Mythic,Urgent Haste
-38,Creature,Common,Goblin
-39,Artifact,Common,Gauntlet
-40,Creature,Common,Paladin
-41,Artifact,Common,Ghost Wand
-42,Artifact,Common,Amulet
-43,Creature,Rare,Dark Monk Griffin
-44,Spell,Legendary,Intense Stricken
+==================,DECK,4259
+0,Enchantment,Haste
+1,Enchantment,Invert
+2,Creature,Fairy
+3,Creature,Troll
+4,Enchantment,Lethargy
+5,Spell,Necro Stun
+6,Creature,Light Grand Wizard of the Sky
+7,Enchantment,Clever Solar Lethargy
+8,Creature,Aura Merchant Oni of the Low Hills
+9,Spell,Revive
+10,Spell,Zealous Solar Ice
+11,Enchantment,Haste
+12,Spell,Mighty Corpse Frenzy
+13,Creature,Dark Knight Goblin
+14,Enchantment,Firebreath
+15,Artifact,Boots
+16,Spell,Gale
+17,Artifact,Bracers
+18,Artifact,Ardent Lunar Potion
+19,Spell,Lightning
+20,Spell,Grim Burn
+21,Enchantment,Drain
+22,Creature,Warlock
+23,Creature,Berserker
+24,Artifact,Gauntlet
+25,Spell,Oblivion Vortex
+26,Artifact,Belt
+27,Creature,Dark Undead Kraken
+28,Creature,Fairy
+29,Enchantment,Miracle Firebreath
+30,Creature,Aura Rogue Dwarf of the Polar Woods
+31,Creature,Dark Merchant Cyclops
+32,Spell,Vortex
+33,Enchantment,Shield
+34,Creature,Magi
+35,Creature,Troll
+36,Artifact,Helmet
+37,Enchantment,Zealous Corpse Deathgrip
+38,Creature,Skin-Walker
+39,Artifact,Gauntlet
+40,Creature,Troll
+41,Artifact,Ghost Wand
+42,Artifact,Amulet
+43,Creature,Dark Monk Griffin
+44,Spell,Zealous Nature Stun

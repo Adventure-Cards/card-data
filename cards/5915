@@ -1,46 +1,46 @@
-==================,DECK,5915,Light
-0,Spell,Common,Hypnosis
-1,Spell,Common,Vortex
-2,Spell,Common,Gale
-3,Artifact,Rare,Oblivion Greaves
-4,Spell,Common,Assault
-5,Spell,Common,Hypnosis
-6,Spell,Common,Vortex
-7,Enchantment,Rare,Hateful Deathgrip
-8,Enchantment,Common,Blight
-9,Artifact,Legendary,Potent Belt
-10,Spell,Common,Fury
-11,Creature,Mythic,Light Nameless Dragon of the Sky
-12,Spell,Rare,Necro Stun
-13,Enchantment,Common,Alacrity
-14,Creature,Common,Orc
-15,Creature,Common,Eagle
-16,Spell,Common,Wall
-17,Creature,Common,Warlock
-18,Spell,Common,Rage
-19,Spell,Legendary,Instant Pandemonium
-20,Creature,Rare,Dark Priest Fairy
-21,Creature,Rare,Frozen Lord Griffin
-22,Creature,Mythic,Light Undead Dragon of the Sky
-23,Creature,Common,Goblin
-24,Creature,Rare,Aura Undead Fairy
-25,Creature,Common,Eagle
-26,Creature,Common,Ghoul
-27,Creature,Common,Warlock
-28,Creature,Legendary,Earth Knight Giant of the Magical Forest
-29,Artifact,Common,Amulet
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Alacrity
-32,Artifact,Common,Ghost Wand
-33,Spell,Common,Pandemonium
-34,Spell,Legendary,Angry Maelstrom
-35,Artifact,Common,Greaves
-36,Creature,Rare,Snow Rogue Berserker
-37,Creature,Common,Paladin
-38,Enchantment,Rare,Hateful Flight
-39,Creature,Common,Magi
-40,Creature,Common,Goblin
-41,Enchantment,Common,Agony
-42,Creature,Rare,Death Undead Griffin
-43,Creature,Rare,Aura Lord Hydra
-44,Creature,Common,Elf
+==================,DECK,5915
+0,Spell,Heal
+1,Spell,Stun
+2,Spell,Fury
+3,Artifact,Victory Greaves
+4,Spell,Burn
+5,Spell,Frost
+6,Spell,Gravitation
+7,Enchantment,Sorrow Shrink
+8,Enchantment,Deathgrip
+9,Artifact,Dire Apocalypse Belt
+10,Spell,Reanimate
+11,Creature,Light Nameless Dragon of the Sky
+12,Spell,Solar Rage
+13,Enchantment,Lethargy
+14,Creature,Spider
+15,Creature,Eagle
+16,Spell,Reanimate
+17,Creature,Berserker
+18,Spell,Gravitation
+19,Spell,Potent Hateful Lightning
+20,Creature,Dark Priest Kraken
+21,Creature,Frozen Lord Griffin
+22,Creature,Light Undead Dragon of the Sky
+23,Creature,Skin-Walker
+24,Creature,Aura Undead Kraken
+25,Creature,Eagle
+26,Creature,Ghoul
+27,Creature,Berserker
+28,Creature,Earth Knight Dwarf of the Magical Forest
+29,Artifact,Amulet
+30,Creature,Ghoul
+31,Enchantment,Firebreath
+32,Artifact,Ghost Wand
+33,Spell,Reanimate
+34,Spell,Potent Miracle Reanimate
+35,Artifact,Greaves
+36,Creature,Snow Rogue Goblin
+37,Creature,Troll
+38,Enchantment,Lunar Flight
+39,Creature,Fairy
+40,Creature,Skin-Walker
+41,Enchantment,Deathgrip
+42,Creature,Death Undead Griffin
+43,Creature,Aura Lord Hydra
+44,Creature,Warlock

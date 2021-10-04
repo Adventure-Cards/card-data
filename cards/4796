@@ -1,46 +1,46 @@
-==================,DECK,4796,Light
-0,Creature,Rare,Earth King Fairy
-1,Creature,Common,Warlock
-2,Spell,Common,Stricken
-3,Creature,Rare,Light Queen Berserker
-4,Enchantment,Common,Blight
-5,Enchantment,Rare,Forged Alacrity
-6,Creature,Common,Warlock
-7,Spell,Common,Revive
-8,Creature,Common,Wolf
-9,Creature,Legendary,Snow Assassin Cyclops of the Bright Mountains
-10,Creature,Legendary,Dark Rogue Kraken of the Swamp
-11,Creature,Common,Elf
-12,Enchantment,Common,Lethargy
-13,Artifact,Legendary,Urgent Bow
-14,Spell,Common,Infuriate
-15,Enchantment,Common,Blight
-16,Creature,Common,Dwarf
-17,Enchantment,Common,Blight
-18,Enchantment,Common,Agony
-19,Enchantment,Common,Age
-20,Creature,Common,Magi
-21,Creature,Legendary,Earth Priest Orge of the Frozen Castle
-22,Enchantment,Common,Deathgrip
-23,Creature,Rare,Light Priest Minotaur
-24,Creature,Common,Orc
-25,Creature,Rare,Aura Warrior Hydra
-26,Enchantment,Common,Deathgrip
-27,Creature,Rare,Aura Monk Minotaur
-28,Enchantment,Common,Invert
-29,Spell,Rare,Lunar Maelstrom
-30,Enchantment,Common,Strength
-31,Enchantment,Common,Invert
-32,Spell,Common,Torment
-33,Enchantment,Common,Alacrity
-34,Creature,Common,Warlock
-35,Creature,Common,Warlock
-36,Creature,Common,Dwarf
-37,Creature,Legendary,Light Undead Oni of the Low Hills
-38,Creature,Mythic,Dark Ancient Demon of Illusion
-39,Creature,Common,Orc
-40,Enchantment,Common,Agony
-41,Creature,Common,Dwarf
-42,Creature,Rare,Aura King Fairy
-43,Enchantment,Common,Invert
-44,Enchantment,Common,Lethargy
+==================,DECK,4796
+0,Creature,Earth King Kraken
+1,Creature,Berserker
+2,Spell,Stun
+3,Creature,Light Queen Goblin
+4,Enchantment,Drain
+5,Enchantment,Dark Shield
+6,Creature,Berserker
+7,Spell,Lightning
+8,Creature,Wolf
+9,Creature,Snow Assassin Giant of the Bright Mountains
+10,Creature,Dark Rogue Ogre of the Swamp
+11,Creature,Warlock
+12,Enchantment,Deathgrip
+13,Artifact,Urgent Nature Bow
+14,Spell,Fire
+15,Enchantment,Alacrity
+16,Creature,Magi
+17,Enchantment,Firebreath
+18,Enchantment,Flight
+19,Enchantment,Deathgrip
+20,Creature,Fairy
+21,Creature,Earth Priest Elf of the Frozen Castle
+22,Enchantment,Deathgrip
+23,Creature,Light Priest Cyclops
+24,Creature,Spider
+25,Creature,Aura Warrior Hydra
+26,Enchantment,Firebreath
+27,Creature,Aura Monk Cyclops
+28,Enchantment,Deathgrip
+29,Spell,Miracle Maelstrom
+30,Enchantment,Alacrity
+31,Enchantment,Haste
+32,Spell,Freeze
+33,Enchantment,Flight
+34,Creature,Berserker
+35,Creature,Berserker
+36,Creature,Magi
+37,Creature,Light Undead Oni of the Low Hills
+38,Creature,Dark Ancient Demon of Illusion
+39,Creature,Spider
+40,Enchantment,Age
+41,Creature,Magi
+42,Creature,Aura King Kraken
+43,Enchantment,Agony
+44,Enchantment,Shield

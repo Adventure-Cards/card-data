@@ -1,46 +1,46 @@
-==================,DECK,6162,Light
-0,Spell,Common,Assault
-1,Creature,Rare,Earth Fighter Griffin
-2,Artifact,Common,Sigil
-3,Creature,Common,Warlock
-4,Spell,Legendary,Extreme Frenzy
-5,Creature,Common,Goblin
-6,Creature,Common,Elf
-7,Spell,Common,Torment
-8,Spell,Rare,Nature Stricken
-9,Spell,Common,Burst
-10,Spell,Legendary,Clever Assault
-11,Artifact,Common,Helm
-12,Creature,Mythic,Earth Ancient Demon of the Shadows
-13,Enchantment,Common,Deathgrip
-14,Enchantment,Common,Haste
-15,Spell,Common,Invisibility
-16,Creature,Mythic,Death Nameless Dragon of the Dead
-17,Creature,Common,Ghoul
-18,Spell,Common,Sorrow
-19,Artifact,Common,Gauntlet
-20,Spell,Common,Heal
-21,Enchantment,Rare,Dark Strength
-22,Creature,Common,Magi
-23,Creature,Rare,Aura Knight Skin-Walker
-24,Creature,Common,Eagle
-25,Spell,Common,Gale
-26,Creature,Common,Magi
-27,Creature,Common,Dwarf
-28,Artifact,Common,Cloak
-29,Creature,Legendary,Dark Rogue Oni of the Mountains
-30,Creature,Common,Elf
-31,Spell,Common,Torment
-32,Creature,Rare,Snow Lord Hydra
-33,Spell,Rare,Gloom Assault
-34,Creature,Common,Eagle
-35,Creature,Rare,Frozen Lord Minotaur
-36,Creature,Common,Elf
-37,Artifact,Common,Sword
-38,Creature,Common,Magi
-39,Enchantment,Common,Alacrity
-40,Creature,Common,Paladin
-41,Spell,Rare,Hateful Burst
-42,Creature,Common,Ghoul
-43,Spell,Rare,Necro Burn
-44,Creature,Common,Wolf
+==================,DECK,6162
+0,Spell,Wall
+1,Creature,Earth Fighter Griffin
+2,Artifact,Sigil
+3,Creature,Berserker
+4,Spell,Urgent Miracle Stun
+5,Creature,Skin-Walker
+6,Creature,Warlock
+7,Spell,Sorrow
+8,Spell,Shimmering Tempest
+9,Spell,Infuriate
+10,Spell,Urgent Oblivion Fury
+11,Artifact,Helm
+12,Creature,Earth Ancient Demon of the Shadows
+13,Enchantment,Shield
+14,Enchantment,Firebreath
+15,Spell,Maelstrom
+16,Creature,Death Nameless Dragon of the Dead
+17,Creature,Ghoul
+18,Spell,Fury
+19,Artifact,Gauntlet
+20,Spell,Frenzy
+21,Enchantment,Cataclysmic Flight
+22,Creature,Fairy
+23,Creature,Aura Knight Orc
+24,Creature,Eagle
+25,Spell,Fireball
+26,Creature,Fairy
+27,Creature,Magi
+28,Artifact,Cloak
+29,Creature,Dark Rogue Oni of the Mountains
+30,Creature,Warlock
+31,Spell,Vortex
+32,Creature,Snow Lord Hydra
+33,Spell,Cataclysmic Wall
+34,Creature,Eagle
+35,Creature,Frozen Lord Cyclops
+36,Creature,Warlock
+37,Artifact,Sword
+38,Creature,Fairy
+39,Enchantment,Lethargy
+40,Creature,Troll
+41,Spell,Chimeric Fire
+42,Creature,Ghoul
+43,Spell,Hateful Fury
+44,Creature,Wolf

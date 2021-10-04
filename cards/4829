@@ -1,46 +1,46 @@
-==================,DECK,4829,Light
-0,Creature,Common,Eagle
-1,Spell,Common,Invisibility
-2,Enchantment,Common,Strength
-3,Creature,Common,Magi
-4,Artifact,Common,Pendant
-5,Enchantment,Rare,Life Age
-6,Creature,Common,Orc
-7,Enchantment,Common,Invert
-8,Spell,Rare,Necro Stun
-9,Artifact,Legendary,Instant Scythe
-10,Spell,Common,Gale
-11,Enchantment,Common,Deathgrip
-12,Spell,Common,Assault
-13,Spell,Rare,Nimble Freeze
-14,Creature,Common,Dwarf
-15,Creature,Rare,Light Priest Minotaur
-16,Creature,Common,Goblin
-17,Creature,Common,Orc
-18,Creature,Rare,Snow Lord Berserker
-19,Creature,Common,Spider
-20,Enchantment,Common,Deathgrip
-21,Creature,Common,Spider
-22,Creature,Common,Eagle
-23,Creature,Legendary,Snow Undead Kraken of the Swamp
-24,Spell,Rare,Oblivion Wall
-25,Artifact,Rare,Grim Staff
-26,Enchantment,Common,Strength
-27,Enchantment,Common,Drain
-28,Enchantment,Legendary,Angry Agony
-29,Spell,Common,Reanimate
-30,Artifact,Common,Bracers
-31,Enchantment,Common,Agony
-32,Spell,Common,Heal
-33,Enchantment,Common,Blight
-34,Spell,Common,Fury
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Invert
-37,Creature,Common,Spider
-38,Spell,Common,Rage
-39,Creature,Rare,Dark King Minotaur
-40,Enchantment,Common,Deathgrip
-41,Spell,Common,Lightning
-42,Creature,Common,Elf
-43,Creature,Common,Dwarf
-44,Creature,Common,Paladin
+==================,DECK,4829
+0,Creature,Eagle
+1,Spell,Rage
+2,Enchantment,Shrink
+3,Creature,Fairy
+4,Artifact,Pendant
+5,Enchantment,Victory Invert
+6,Creature,Spider
+7,Enchantment,Flight
+8,Spell,Shimmering Wall
+9,Artifact,Empyrean Shimmering Scythe
+10,Spell,Stricken
+11,Enchantment,Agony
+12,Spell,Tempest
+13,Spell,Nature Invisibility
+14,Creature,Magi
+15,Creature,Light Priest Cyclops
+16,Creature,Skin-Walker
+17,Creature,Spider
+18,Creature,Snow Lord Goblin
+19,Creature,Paladin
+20,Enchantment,Haste
+21,Creature,Paladin
+22,Creature,Eagle
+23,Creature,Snow Undead Ogre of the Swamp
+24,Spell,Apocalypse Burn
+25,Artifact,Life Staff
+26,Enchantment,Deathgrip
+27,Enchantment,Shade
+28,Enchantment,Ardent Miracle Shield
+29,Spell,Sorrow
+30,Artifact,Bracers
+31,Enchantment,Shade
+32,Spell,Hypnosis
+33,Enchantment,Blight
+34,Spell,Tempest
+35,Creature,Ghoul
+36,Enchantment,Alacrity
+37,Creature,Paladin
+38,Spell,Torment
+39,Creature,Dark King Cyclops
+40,Enchantment,Shield
+41,Spell,Ice
+42,Creature,Warlock
+43,Creature,Magi
+44,Creature,Troll

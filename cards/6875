@@ -1,46 +1,46 @@
-==================,DECK,6875,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Common,Drain
-2,Artifact,Common,Ghost Wand
-3,Artifact,Common,Gauntlet
-4,Artifact,Common,Sword
-5,Artifact,Common,Boots
-6,Creature,Common,Spider
-7,Enchantment,Mythic,Instant Age
-8,Spell,Legendary,Dire Wall
-9,Enchantment,Mythic,Urgent Haste
-10,Creature,Legendary,Dark Queen Oni of the Magical Forest
-11,Creature,Rare,Aura Rogue Berserker
-12,Creature,Legendary,Earth Fighter Cyclops of the Low Hills
-13,Enchantment,Mythic,Extreme Deathgrip
-14,Creature,Common,Eagle
-15,Creature,Common,Paladin
-16,Creature,Common,Eagle
-17,Creature,Common,Paladin
-18,Creature,Common,Ghoul
-19,Creature,Common,Paladin
-20,Artifact,Common,Shield
-21,Creature,Common,Magi
-22,Enchantment,Common,Deathgrip
-23,Artifact,Common,Amulet
-24,Creature,Common,Wolf
-25,Spell,Common,Revive
-26,Creature,Common,Ghoul
-27,Creature,Legendary,Frozen Undead Kraken of the Golden Palace
-28,Creature,Legendary,Frozen Warrior Oni of the Border
-29,Enchantment,Mythic,Urgent Flight
-30,Spell,Common,Stun
-31,Creature,Common,Dwarf
-32,Enchantment,Mythic,Extreme Shade
-33,Creature,Common,Goblin
-34,Creature,Common,Dwarf
-35,Enchantment,Rare,Frigid Agony
-36,Spell,Common,Rage
-37,Spell,Common,Burst
-38,Creature,Common,Eagle
-39,Artifact,Common,Greaves
-40,Creature,Common,Paladin
-41,Spell,Common,Torment
-42,Creature,Common,Elf
-43,Creature,Rare,Earth Monk Skin-Walker
-44,Enchantment,Mythic,Dire Shade
+==================,DECK,6875
+0,Enchantment,Haste
+1,Enchantment,Invert
+2,Artifact,Ghost Wand
+3,Artifact,Gauntlet
+4,Artifact,Sword
+5,Artifact,Boots
+6,Creature,Paladin
+7,Enchantment,Zealous Nature Deathgrip
+8,Spell,Irate Oblivion Wall
+9,Enchantment,Empyrean Corpse Age
+10,Creature,Dark Queen Oni of the Magical Forest
+11,Creature,Aura Rogue Goblin
+12,Creature,Earth Fighter Giant of the Low Hills
+13,Enchantment,Potent Sorrow Shrink
+14,Creature,Eagle
+15,Creature,Troll
+16,Creature,Eagle
+17,Creature,Troll
+18,Creature,Ghoul
+19,Creature,Troll
+20,Artifact,Shield
+21,Creature,Fairy
+22,Enchantment,Age
+23,Artifact,Amulet
+24,Creature,Wolf
+25,Spell,Tempest
+26,Creature,Ghoul
+27,Creature,Frozen Undead Ogre of the Golden Palace
+28,Creature,Frozen Warrior Oni of the Border
+29,Enchantment,Potent Hateful Strength
+30,Spell,Gale
+31,Creature,Magi
+32,Enchantment,Urgent Chimeric Flight
+33,Creature,Skin-Walker
+34,Creature,Magi
+35,Enchantment,Life Haste
+36,Spell,Stricken
+37,Spell,Stricken
+38,Creature,Eagle
+39,Artifact,Greaves
+40,Creature,Troll
+41,Spell,Stun
+42,Creature,Warlock
+43,Creature,Earth Monk Orc
+44,Enchantment,Urgent Frigid Invert

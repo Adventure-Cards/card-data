@@ -1,46 +1,46 @@
-==================,DECK,6082,Light
-0,Creature,Common,Goblin
-1,Spell,Rare,Nimble Rage
-2,Creature,Common,Dwarf
-3,Creature,Common,Elf
-4,Creature,Common,Orc
-5,Spell,Common,Ice
-6,Creature,Rare,Earth Assassin Hydra
-7,Creature,Rare,Death Assassin Hydra
-8,Creature,Common,Eagle
-9,Creature,Rare,Aura Fighter Fairy
-10,Creature,Common,Dwarf
-11,Creature,Legendary,Earth Fighter Giant of the Golden Palace
-12,Creature,Common,Wolf
-13,Creature,Common,Goblin
-14,Creature,Common,Paladin
-15,Creature,Common,Elf
-16,Spell,Common,Torment
-17,Enchantment,Mythic,Angry Strength
-18,Creature,Common,Spider
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Shrink
-22,Spell,Rare,Shimmering Ice
-23,Enchantment,Common,Strength
-24,Enchantment,Rare,Forged Invert
-25,Spell,Common,Fury
-26,Creature,Rare,Snow Merchant Berserker
-27,Creature,Common,Ghoul
-28,Spell,Common,Fury
-29,Creature,Common,Spider
-30,Artifact,Common,Amulet
-31,Creature,Common,Spider
-32,Creature,Common,Dwarf
-33,Creature,Rare,Death Assassin Berserker
-34,Creature,Common,Spider
-35,Creature,Legendary,Earth King Giant of the Magical Forest
-36,Enchantment,Rare,Oblivion Agony
-37,Enchantment,Rare,Frigid Invert
-38,Creature,Rare,Snow Warrior Griffin
-39,Spell,Rare,Lunar Infuriate
-40,Creature,Common,Spider
-41,Artifact,Common,Staff
-42,Creature,Rare,Aura Queen Berserker
-43,Enchantment,Common,Blight
-44,Creature,Common,Magi
+==================,DECK,6082
+0,Creature,Skin-Walker
+1,Spell,Solar Tempest
+2,Creature,Magi
+3,Creature,Warlock
+4,Creature,Spider
+5,Spell,Gale
+6,Creature,Earth Assassin Hydra
+7,Creature,Death Assassin Hydra
+8,Creature,Eagle
+9,Creature,Aura Fighter Kraken
+10,Creature,Magi
+11,Creature,Earth Fighter Dwarf of the Golden Palace
+12,Creature,Wolf
+13,Creature,Skin-Walker
+14,Creature,Troll
+15,Creature,Warlock
+16,Spell,Fireball
+17,Enchantment,Urgent Cataclysmic Flight
+18,Creature,Paladin
+19,Creature,Magi
+20,Enchantment,Shrink
+21,Enchantment,Shrink
+22,Spell,Nature Infuriate
+23,Enchantment,Firebreath
+24,Enchantment,Sorrow Shield
+25,Spell,Frenzy
+26,Creature,Snow Merchant Goblin
+27,Creature,Ghoul
+28,Spell,Fury
+29,Creature,Paladin
+30,Artifact,Amulet
+31,Creature,Paladin
+32,Creature,Magi
+33,Creature,Death Assassin Goblin
+34,Creature,Paladin
+35,Creature,Earth King Dwarf of the Magical Forest
+36,Enchantment,Life Drain
+37,Enchantment,Oblivion Shade
+38,Creature,Snow Warrior Griffin
+39,Spell,Cataclysmic Infuriate
+40,Creature,Paladin
+41,Artifact,Staff
+42,Creature,Aura Queen Goblin
+43,Enchantment,Strength
+44,Creature,Fairy

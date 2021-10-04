@@ -1,46 +1,46 @@
-==================,DECK,6419,Light
-0,Creature,Common,Magi
-1,Creature,Common,Elf
-2,Creature,Common,Eagle
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Invert
-5,Creature,Rare,Aura Merchant Griffin
-6,Creature,Rare,Death Monk Griffin
-7,Spell,Rare,Apocalypse Pandemonium
-8,Creature,Common,Elf
-9,Spell,Common,Burst
-10,Creature,Common,Ghoul
-11,Spell,Common,Gale
-12,Artifact,Common,Belt
-13,Spell,Common,Lightning
-14,Creature,Common,Eagle
-15,Creature,Common,Orc
-16,Creature,Common,Orc
-17,Enchantment,Common,Flight
-18,Spell,Rare,Nature Burn
-19,Enchantment,Common,Lethargy
-20,Creature,Rare,Light Rogue Griffin
-21,Creature,Legendary,Death King Oni of the Plains
-22,Enchantment,Common,Blight
-23,Spell,Common,Rage
-24,Creature,Common,Goblin
-25,Spell,Legendary,Angry Ice
-26,Creature,Common,Spider
-27,Creature,Rare,Earth Assassin Skin-Walker
-28,Creature,Rare,Death King Skin-Walker
-29,Creature,Common,Goblin
-30,Spell,Common,Infuriate
-31,Spell,Common,Stricken
-32,Artifact,Common,Ring
-33,Enchantment,Common,Shade
-34,Creature,Common,Goblin
-35,Creature,Common,Eagle
-36,Creature,Common,Ghoul
-37,Spell,Common,Assault
-38,Spell,Legendary,Urgent Wall
-39,Creature,Common,Magi
-40,Spell,Common,Heal
-41,Creature,Common,Orc
-42,Creature,Common,Orc
-43,Enchantment,Common,Shield
-44,Spell,Rare,Miracle Burn
+==================,DECK,6419
+0,Creature,Fairy
+1,Creature,Warlock
+2,Creature,Eagle
+3,Enchantment,Flight
+4,Enchantment,Shield
+5,Creature,Aura Merchant Griffin
+6,Creature,Death Monk Griffin
+7,Spell,Nimble Vortex
+8,Creature,Warlock
+9,Spell,Fury
+10,Creature,Ghoul
+11,Spell,Burst
+12,Artifact,Belt
+13,Spell,Gale
+14,Creature,Eagle
+15,Creature,Spider
+16,Creature,Spider
+17,Enchantment,Blight
+18,Spell,Nature Sorrow
+19,Enchantment,Shield
+20,Creature,Light Rogue Griffin
+21,Creature,Death King Oni of the Plains
+22,Enchantment,Haste
+23,Spell,Vortex
+24,Creature,Skin-Walker
+25,Spell,Clever Dark Vortex
+26,Creature,Paladin
+27,Creature,Earth Assassin Orc
+28,Creature,Death King Orc
+29,Creature,Skin-Walker
+30,Spell,Hypnosis
+31,Spell,Wall
+32,Artifact,Ring
+33,Enchantment,Shield
+34,Creature,Skin-Walker
+35,Creature,Eagle
+36,Creature,Ghoul
+37,Spell,Wall
+38,Spell,Ardent Hateful Lightning
+39,Creature,Fairy
+40,Spell,Maelstrom
+41,Creature,Spider
+42,Creature,Spider
+43,Enchantment,Firebreath
+44,Spell,Nimble Wall

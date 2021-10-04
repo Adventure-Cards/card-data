@@ -1,46 +1,46 @@
-==================,DECK,7103,Light
-0,Creature,Common,Paladin
-1,Artifact,Common,Staff
-2,Creature,Common,Goblin
-3,Spell,Common,Lightning
-4,Artifact,Common,Ghost Wand
-5,Creature,Common,Wolf
-6,Artifact,Common,Pendant
-7,Artifact,Common,Pendant
-8,Creature,Common,Elf
-9,Creature,Common,Paladin
-10,Spell,Common,Wall
-11,Enchantment,Common,Drain
-12,Creature,Common,Magi
-13,Creature,Common,Magi
-14,Creature,Common,Magi
-15,Creature,Common,Orc
-16,Spell,Common,Stun
-17,Creature,Common,Magi
-18,Creature,Common,Warlock
-19,Spell,Common,Torment
-20,Artifact,Legendary,Instant Belt
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Age
-23,Creature,Rare,Earth Monk Skin-Walker
-24,Spell,Common,Vortex
-25,Enchantment,Common,Agony
-26,Enchantment,Common,Strength
-27,Creature,Common,Ghoul
-28,Spell,Common,Hypnosis
-29,Creature,Common,Warlock
-30,Creature,Common,Eagle
-31,Artifact,Common,Potion
-32,Creature,Legendary,Frozen King Kraken of the Golden Palace
-33,Creature,Common,Goblin
-34,Creature,Rare,Dark Queen Fairy
-35,Enchantment,Common,Strength
-36,Creature,Common,Eagle
-37,Creature,Common,Wolf
-38,Spell,Common,Frenzy
-39,Enchantment,Common,Shrink
-40,Creature,Common,Magi
-41,Enchantment,Rare,Corpse Shield
-42,Artifact,Rare,Apocalypse Ring
-43,Creature,Common,Goblin
-44,Creature,Common,Eagle
+==================,DECK,7103
+0,Creature,Troll
+1,Artifact,Staff
+2,Creature,Skin-Walker
+3,Spell,Wall
+4,Artifact,Ghost Wand
+5,Creature,Wolf
+6,Artifact,Pendant
+7,Artifact,Pendant
+8,Creature,Warlock
+9,Creature,Troll
+10,Spell,Ice
+11,Enchantment,Lethargy
+12,Creature,Fairy
+13,Creature,Fairy
+14,Creature,Fairy
+15,Creature,Spider
+16,Spell,Stun
+17,Creature,Fairy
+18,Creature,Berserker
+19,Spell,Heal
+20,Artifact,Dire Shimmering Belt
+21,Creature,Magi
+22,Enchantment,Firebreath
+23,Creature,Earth Monk Orc
+24,Spell,Fireball
+25,Enchantment,Invert
+26,Enchantment,Haste
+27,Creature,Ghoul
+28,Spell,Stricken
+29,Creature,Berserker
+30,Creature,Eagle
+31,Artifact,Potion
+32,Creature,Frozen King Ogre of the Golden Palace
+33,Creature,Skin-Walker
+34,Creature,Dark Queen Kraken
+35,Enchantment,Drain
+36,Creature,Eagle
+37,Creature,Wolf
+38,Spell,Stun
+39,Enchantment,Shield
+40,Creature,Fairy
+41,Enchantment,Nature Age
+42,Artifact,Frigid Ring
+43,Creature,Skin-Walker
+44,Creature,Eagle

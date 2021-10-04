@@ -1,46 +1,46 @@
-==================,DECK,7123,Light
-0,Creature,Common,Paladin
-1,Spell,Common,Hypnosis
-2,Spell,Common,Torment
-3,Creature,Common,Spider
-4,Enchantment,Rare,Grim Shield
-5,Spell,Rare,Hateful Ice
-6,Creature,Common,Goblin
-7,Enchantment,Common,Haste
-8,Creature,Common,Ghoul
-9,Spell,Common,Torment
-10,Spell,Common,Lightning
-11,Creature,Rare,Light Fighter Hydra
-12,Enchantment,Common,Strength
-13,Spell,Common,Frost
-14,Enchantment,Rare,Corpse Lethargy
-15,Creature,Common,Paladin
-16,Creature,Common,Wolf
-17,Enchantment,Common,Shield
-18,Creature,Rare,Snow King Berserker
-19,Artifact,Common,Ghost Wand
-20,Creature,Common,Paladin
-21,Creature,Common,Orc
-22,Creature,Rare,Aura Lord Berserker
-23,Creature,Rare,Death Warrior Griffin
-24,Creature,Common,Elf
-25,Spell,Legendary,Clever Gale
-26,Enchantment,Common,Age
-27,Enchantment,Mythic,Mighty Shrink
-28,Creature,Rare,Dark Thief Berserker
-29,Creature,Common,Warlock
-30,Creature,Common,Dwarf
-31,Artifact,Common,Scepter
-32,Artifact,Common,Gloves
-33,Artifact,Common,Gloves
-34,Creature,Legendary,Frozen Knight Orge of the Arctic Blizzards
-35,Enchantment,Common,Drain
-36,Spell,Rare,Corpse Freeze
-37,Artifact,Common,Bracers
-38,Creature,Common,Paladin
-39,Enchantment,Mythic,Clever Alacrity
-40,Creature,Legendary,Aura Monk Oni of the Golden Palace
-41,Creature,Common,Paladin
-42,Creature,Common,Orc
-43,Spell,Common,Gale
-44,Spell,Common,Lightning
+==================,DECK,7123
+0,Creature,Troll
+1,Spell,Gale
+2,Spell,Maelstrom
+3,Creature,Paladin
+4,Enchantment,Victory Blight
+5,Spell,Miracle Pandemonium
+6,Creature,Skin-Walker
+7,Enchantment,Blight
+8,Creature,Ghoul
+9,Spell,Assault
+10,Spell,Wall
+11,Creature,Light Fighter Hydra
+12,Enchantment,Blight
+13,Spell,Heal
+14,Enchantment,Hateful Strength
+15,Creature,Troll
+16,Creature,Wolf
+17,Enchantment,Firebreath
+18,Creature,Snow King Goblin
+19,Artifact,Ghost Wand
+20,Creature,Troll
+21,Creature,Spider
+22,Creature,Aura Lord Goblin
+23,Creature,Death Warrior Griffin
+24,Creature,Warlock
+25,Spell,Mighty Oblivion Ice
+26,Enchantment,Shield
+27,Enchantment,Clever Chimeric Shield
+28,Creature,Dark Thief Goblin
+29,Creature,Berserker
+30,Creature,Magi
+31,Artifact,Scepter
+32,Artifact,Gloves
+33,Artifact,Gloves
+34,Creature,Frozen Knight Elf of the Arctic Blizzards
+35,Enchantment,Firebreath
+36,Spell,Corpse Vortex
+37,Artifact,Bracers
+38,Creature,Troll
+39,Enchantment,Dire Apocalypse Shade
+40,Creature,Aura Monk Oni of the Golden Palace
+41,Creature,Troll
+42,Creature,Spider
+43,Spell,Burst
+44,Spell,Frenzy

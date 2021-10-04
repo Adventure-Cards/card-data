@@ -1,46 +1,46 @@
-==================,DECK,4436,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Frozen Knight Skin-Walker
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Eagle
-4,Creature,Rare,Aura Lord Minotaur
-5,Creature,Common,Warlock
-6,Creature,Rare,Snow Assassin Hydra
-7,Creature,Rare,Frozen Thief Minotaur
-8,Enchantment,Legendary,Dire Flight
-9,Creature,Common,Dwarf
-10,Artifact,Common,Pendant
-11,Creature,Common,Ghoul
-12,Creature,Common,Eagle
-13,Creature,Legendary,Snow Thief Oni of the Border
-14,Spell,Rare,Nature Gale
-15,Enchantment,Common,Haste
-16,Creature,Common,Paladin
-17,Creature,Rare,Light Knight Hydra
-18,Spell,Common,Ice
-19,Creature,Common,Elf
-20,Creature,Common,Magi
-21,Creature,Common,Dwarf
-22,Spell,Common,Rage
-23,Spell,Common,Assault
-24,Creature,Common,Magi
-25,Creature,Mythic,Snow Undead Dragon of Hate
-26,Creature,Legendary,Death Assassin Orge of the Eastern Skies
-27,Spell,Common,Frost
-28,Creature,Mythic,Aura Chaos Demon of the Light
-29,Spell,Common,Stun
-30,Spell,Rare,Corpse Wall
-31,Creature,Legendary,Frozen Lord Giant of the Black Stone
-32,Creature,Legendary,Frozen Knight Oni of the Magical Forest
-33,Creature,Rare,Earth Assassin Minotaur
-34,Creature,Common,Eagle
-35,Enchantment,Common,Shrink
-36,Spell,Legendary,Dire Burst
-37,Artifact,Common,Ring
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Flight
-40,Enchantment,Common,Age
-41,Enchantment,Rare,Forged Shield
-42,Creature,Common,Eagle
-43,Artifact,Common,Crown
-44,Spell,Rare,Solar Rage
+==================,DECK,4436
+0,Creature,Eagle
+1,Creature,Frozen Knight Orc
+2,Enchantment,Drain
+3,Creature,Eagle
+4,Creature,Aura Lord Cyclops
+5,Creature,Berserker
+6,Creature,Snow Assassin Hydra
+7,Creature,Frozen Thief Cyclops
+8,Enchantment,Zealous Grim Blight
+9,Creature,Magi
+10,Artifact,Pendant
+11,Creature,Ghoul
+12,Creature,Eagle
+13,Creature,Snow Thief Oni of the Border
+14,Spell,Forged Freeze
+15,Enchantment,Age
+16,Creature,Troll
+17,Creature,Light Knight Hydra
+18,Spell,Infuriate
+19,Creature,Warlock
+20,Creature,Fairy
+21,Creature,Magi
+22,Spell,Fury
+23,Spell,Vortex
+24,Creature,Fairy
+25,Creature,Snow Undead Dragon of Hate
+26,Creature,Death Assassin Elf of the Eastern Skies
+27,Spell,Gale
+28,Creature,Aura Chaos Demon of the Light
+29,Spell,Infuriate
+30,Spell,Necro Vortex
+31,Creature,Frozen Lord Dwarf of the Black Stone
+32,Creature,Frozen Knight Oni of the Magical Forest
+33,Creature,Earth Assassin Cyclops
+34,Creature,Eagle
+35,Enchantment,Invert
+36,Spell,Zealous Nimble Invisibility
+37,Artifact,Ring
+38,Creature,Magi
+39,Enchantment,Drain
+40,Enchantment,Invert
+41,Enchantment,Gloom Flight
+42,Creature,Eagle
+43,Artifact,Crown
+44,Spell,Necro Reanimate

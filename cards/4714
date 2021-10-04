@@ -1,46 +1,46 @@
-==================,DECK,4714,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Alacrity
-2,Creature,Legendary,Dark Warrior Oni of the West
-3,Enchantment,Common,Blight
-4,Spell,Common,Hypnosis
-5,Spell,Rare,Grim Freeze
-6,Creature,Rare,Death Rogue Minotaur
-7,Creature,Common,Warlock
-8,Creature,Common,Warlock
-9,Spell,Common,Stricken
-10,Creature,Common,Goblin
-11,Creature,Mythic,Light Nameless Phoenix of the Sky
-12,Creature,Common,Spider
-13,Creature,Common,Wolf
-14,Spell,Rare,Lunar Stricken
-15,Creature,Common,Dwarf
-16,Creature,Mythic,Death Time Dragon of the Dead
-17,Creature,Common,Ghoul
-18,Creature,Common,Magi
-19,Enchantment,Mythic,Potent Blight
-20,Creature,Common,Warlock
-21,Enchantment,Common,Alacrity
-22,Creature,Rare,Earth Thief Hydra
-23,Creature,Common,Paladin
-24,Enchantment,Mythic,Clever Deathgrip
-25,Spell,Legendary,Mighty Burn
-26,Creature,Legendary,Snow Thief Kraken of the Black Stone
-27,Artifact,Common,Scepter
-28,Spell,Rare,Grim Revive
-29,Creature,Legendary,Frozen Warrior Orge of the Border
-30,Enchantment,Common,Drain
-31,Creature,Rare,Dark Thief Hydra
-32,Enchantment,Common,Shield
-33,Creature,Common,Spider
-34,Spell,Rare,Lunar Maelstrom
-35,Creature,Common,Orc
-36,Enchantment,Common,Strength
-37,Creature,Mythic,Aura Nameless Dragon of the Light
-38,Enchantment,Common,Shrink
-39,Creature,Common,Dwarf
-40,Creature,Common,Goblin
-41,Creature,Rare,Death Lord Hydra
-42,Spell,Common,Pandemonium
-43,Enchantment,Rare,Nature Age
-44,Enchantment,Common,Shield
+==================,DECK,4714
+0,Creature,Spider
+1,Enchantment,Blight
+2,Creature,Dark Warrior Oni of the West
+3,Enchantment,Invert
+4,Spell,Heal
+5,Spell,Victory Fire
+6,Creature,Death Rogue Cyclops
+7,Creature,Berserker
+8,Creature,Berserker
+9,Spell,Fury
+10,Creature,Skin-Walker
+11,Creature,Light Nameless Phoenix of the Sky
+12,Creature,Paladin
+13,Creature,Wolf
+14,Spell,Chimeric Stun
+15,Creature,Magi
+16,Creature,Death Time Dragon of the Dead
+17,Creature,Ghoul
+18,Creature,Fairy
+19,Enchantment,Clever Nimble Haste
+20,Creature,Berserker
+21,Enchantment,Deathgrip
+22,Creature,Earth Thief Hydra
+23,Creature,Troll
+24,Enchantment,Clever Oblivion Haste
+25,Spell,Mighty Gloom Frenzy
+26,Creature,Snow Thief Ogre of the Black Stone
+27,Artifact,Scepter
+28,Spell,Victory Stricken
+29,Creature,Frozen Warrior Elf of the Border
+30,Enchantment,Strength
+31,Creature,Dark Thief Hydra
+32,Enchantment,Shield
+33,Creature,Paladin
+34,Spell,Sorrow Gale
+35,Creature,Spider
+36,Enchantment,Flight
+37,Creature,Aura Nameless Dragon of the Light
+38,Enchantment,Strength
+39,Creature,Magi
+40,Creature,Skin-Walker
+41,Creature,Death Lord Hydra
+42,Spell,Burst
+43,Enchantment,Nature Strength
+44,Enchantment,Firebreath

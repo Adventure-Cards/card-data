@@ -1,46 +1,46 @@
-==================,DECK,7781,Light
-0,Spell,Common,Invisibility
-1,Creature,Common,Ghoul
-2,Creature,Common,Eagle
-3,Creature,Common,Ghoul
-4,Creature,Mythic,Dark Time Phoenix of Illusion
-5,Creature,Common,Elf
-6,Artifact,Common,Greaves
-7,Creature,Common,Magi
-8,Creature,Rare,Light Merchant Fairy
-9,Spell,Common,Freeze
-10,Creature,Common,Wolf
-11,Artifact,Common,Helmet
-12,Creature,Rare,Light Monk Berserker
-13,Spell,Common,Ice
-14,Creature,Rare,Dark Thief Skin-Walker
-15,Creature,Common,Eagle
-16,Creature,Common,Ghoul
-17,Spell,Common,Lightning
-18,Creature,Common,Wolf
-19,Spell,Common,Stricken
-20,Creature,Common,Wolf
-21,Enchantment,Common,Haste
-22,Creature,Common,Magi
-23,Spell,Legendary,Extreme Frenzy
-24,Enchantment,Rare,Oblivion Invert
-25,Creature,Common,Warlock
-26,Creature,Rare,Snow Merchant Minotaur
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Magi
-29,Enchantment,Common,Drain
-30,Spell,Common,Invisibility
-31,Creature,Common,Magi
-32,Spell,Legendary,Potent Ice
-33,Creature,Common,Paladin
-34,Artifact,Common,Bracers
-35,Creature,Common,Spider
-36,Artifact,Common,Crown
-37,Creature,Rare,Earth Lord Berserker
-38,Enchantment,Rare,Necro Age
-39,Spell,Common,Wall
-40,Spell,Common,Gale
-41,Enchantment,Mythic,Dire Strength
-42,Enchantment,Common,Deathgrip
-43,Creature,Common,Paladin
-44,Enchantment,Rare,Necro Haste
+==================,DECK,7781
+0,Spell,Burn
+1,Creature,Ghoul
+2,Creature,Eagle
+3,Creature,Ghoul
+4,Creature,Dark Time Phoenix of Illusion
+5,Creature,Warlock
+6,Artifact,Greaves
+7,Creature,Fairy
+8,Creature,Light Merchant Kraken
+9,Spell,Tempest
+10,Creature,Wolf
+11,Artifact,Helmet
+12,Creature,Light Monk Goblin
+13,Spell,Ice
+14,Creature,Dark Thief Orc
+15,Creature,Eagle
+16,Creature,Ghoul
+17,Spell,Reanimate
+18,Creature,Wolf
+19,Spell,Hypnosis
+20,Creature,Wolf
+21,Enchantment,Shrink
+22,Creature,Fairy
+23,Spell,Instant Sorrow Frenzy
+24,Enchantment,Oblivion Drain
+25,Creature,Berserker
+26,Creature,Snow Merchant Cyclops
+27,Enchantment,Deathgrip
+28,Creature,Fairy
+29,Enchantment,Shield
+30,Spell,Rage
+31,Creature,Fairy
+32,Spell,Mighty Victory Vortex
+33,Creature,Troll
+34,Artifact,Bracers
+35,Creature,Paladin
+36,Artifact,Crown
+37,Creature,Earth Lord Goblin
+38,Enchantment,Nature Deathgrip
+39,Spell,Rage
+40,Spell,Frenzy
+41,Enchantment,Ardent Nimble Haste
+42,Enchantment,Strength
+43,Creature,Troll
+44,Enchantment,Corpse Lethargy

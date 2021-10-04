@@ -1,46 +1,46 @@
-==================,DECK,5548,Light
-0,Creature,Common,Elf
-1,Spell,Common,Ice
-2,Creature,Legendary,Dark Lord Kraken of the Magical Forest
-3,Artifact,Common,Bracers
-4,Spell,Common,Fury
-5,Creature,Legendary,Death Undead Oni of the Bright Mountains
-6,Creature,Common,Eagle
-7,Creature,Common,Orc
-8,Spell,Common,Revive
-9,Spell,Legendary,Intense Frenzy
-10,Artifact,Common,Helmet
-11,Creature,Common,Goblin
-12,Artifact,Legendary,Instant Gauntlet
-13,Creature,Common,Elf
-14,Creature,Rare,Dark King Berserker
-15,Enchantment,Common,Alacrity
-16,Creature,Common,Paladin
-17,Spell,Common,Frost
-18,Creature,Common,Paladin
-19,Enchantment,Common,Invert
-20,Artifact,Common,Helmet
-21,Artifact,Common,Divine Robe
-22,Creature,Rare,Aura Thief Berserker
-23,Creature,Common,Orc
-24,Enchantment,Mythic,Angry Blight
-25,Creature,Legendary,Light Queen Orge of the Arctic Blizzards
-26,Enchantment,Common,Strength
-27,Creature,Rare,Dark Merchant Hydra
-28,Enchantment,Mythic,Mighty Strength
-29,Creature,Common,Orc
-30,Spell,Legendary,Extreme Burn
-31,Creature,Common,Dwarf
-32,Spell,Common,Gravitation
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Goblin
-35,Creature,Mythic,Aura Undead Phoenix of the Light
-36,Spell,Rare,Apocalypse Sorrow
-37,Creature,Common,Elf
-38,Creature,Common,Goblin
-39,Spell,Common,Torment
-40,Creature,Common,Wolf
-41,Creature,Rare,Earth Queen Griffin
-42,Enchantment,Common,Shade
-43,Spell,Common,Sorrow
-44,Enchantment,Rare,Gloom Invert
+==================,DECK,5548
+0,Creature,Warlock
+1,Spell,Fireball
+2,Creature,Dark Lord Ogre of the Magical Forest
+3,Artifact,Bracers
+4,Spell,Assault
+5,Creature,Death Undead Oni of the Bright Mountains
+6,Creature,Eagle
+7,Creature,Spider
+8,Spell,Freeze
+9,Spell,Dire Forged Tempest
+10,Artifact,Helmet
+11,Creature,Skin-Walker
+12,Artifact,Clever Nature Gauntlet
+13,Creature,Warlock
+14,Creature,Dark King Goblin
+15,Enchantment,Age
+16,Creature,Troll
+17,Spell,Hypnosis
+18,Creature,Troll
+19,Enchantment,Agony
+20,Artifact,Helmet
+21,Artifact,Divine Robe
+22,Creature,Aura Thief Goblin
+23,Creature,Spider
+24,Enchantment,Mighty Cataclysmic Flight
+25,Creature,Light Queen Elf of the Arctic Blizzards
+26,Enchantment,Haste
+27,Creature,Dark Merchant Hydra
+28,Enchantment,Instant Cataclysmic Shrink
+29,Creature,Spider
+30,Spell,Zealous Sorrow Burn
+31,Creature,Magi
+32,Spell,Lightning
+33,Artifact,Divine Robe
+34,Creature,Skin-Walker
+35,Creature,Aura Undead Phoenix of the Light
+36,Spell,Frigid Stun
+37,Creature,Warlock
+38,Creature,Skin-Walker
+39,Spell,Burst
+40,Creature,Wolf
+41,Creature,Earth Queen Griffin
+42,Enchantment,Shield
+43,Spell,Freeze
+44,Enchantment,Sorrow Firebreath

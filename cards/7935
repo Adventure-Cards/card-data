@@ -1,46 +1,46 @@
-==================,DECK,7935,Light
-0,Creature,Rare,Death Undead Berserker
-1,Spell,Common,Pandemonium
-2,Spell,Common,Hypnosis
-3,Creature,Rare,Aura Rogue Berserker
-4,Spell,Rare,Gloom Frenzy
-5,Enchantment,Common,Alacrity
-6,Spell,Rare,Hateful Sorrow
-7,Creature,Common,Ghoul
-8,Artifact,Common,Divine Robe
-9,Creature,Common,Warlock
-10,Spell,Common,Gravitation
-11,Enchantment,Mythic,Mighty Shield
-12,Enchantment,Common,Alacrity
-13,Creature,Common,Eagle
-14,Creature,Mythic,Aura Ancient Demon of the Light
-15,Creature,Common,Dwarf
-16,Enchantment,Rare,Dark Agony
-17,Creature,Rare,Death Queen Fairy
-18,Creature,Common,Ghoul
-19,Creature,Common,Eagle
-20,Creature,Common,Wolf
-21,Spell,Rare,Cataclysmic Infuriate
-22,Creature,Common,Magi
-23,Enchantment,Rare,Solar Agony
-24,Creature,Legendary,Light Queen Kraken of the Low Hills
-25,Artifact,Common,Sigil
-26,Creature,Common,Paladin
-27,Enchantment,Common,Strength
-28,Spell,Common,Invisibility
-29,Spell,Common,Heal
-30,Artifact,Common,Cloak
-31,Enchantment,Common,Alacrity
-32,Artifact,Common,Gauntlet
-33,Spell,Common,Revive
-34,Creature,Common,Warlock
-35,Creature,Rare,Death Rogue Berserker
-36,Spell,Common,Invisibility
-37,Enchantment,Common,Drain
-38,Artifact,Common,Boots
-39,Spell,Common,Sorrow
-40,Creature,Common,Paladin
-41,Creature,Common,Orc
-42,Artifact,Rare,Nature Staff
-43,Creature,Rare,Aura Knight Griffin
-44,Creature,Rare,Frozen Warrior Hydra
+==================,DECK,7935
+0,Creature,Death Undead Goblin
+1,Spell,Lightning
+2,Spell,Burn
+3,Creature,Aura Rogue Goblin
+4,Spell,Cataclysmic Heal
+5,Enchantment,Lethargy
+6,Spell,Chimeric Wall
+7,Creature,Ghoul
+8,Artifact,Divine Robe
+9,Creature,Berserker
+10,Spell,Frenzy
+11,Enchantment,Ardent Gloom Shield
+12,Enchantment,Shield
+13,Creature,Eagle
+14,Creature,Aura Ancient Demon of the Light
+15,Creature,Magi
+16,Enchantment,Miracle Shield
+17,Creature,Death Queen Kraken
+18,Creature,Ghoul
+19,Creature,Eagle
+20,Creature,Wolf
+21,Spell,Chimeric Heal
+22,Creature,Fairy
+23,Enchantment,Corpse Agony
+24,Creature,Light Queen Ogre of the Low Hills
+25,Artifact,Sigil
+26,Creature,Troll
+27,Enchantment,Shield
+28,Spell,Gale
+29,Spell,Infuriate
+30,Artifact,Cloak
+31,Enchantment,Firebreath
+32,Artifact,Gauntlet
+33,Spell,Burn
+34,Creature,Berserker
+35,Creature,Death Rogue Goblin
+36,Spell,Reanimate
+37,Enchantment,Drain
+38,Artifact,Boots
+39,Spell,Torment
+40,Creature,Troll
+41,Creature,Spider
+42,Artifact,Solar Staff
+43,Creature,Aura Knight Griffin
+44,Creature,Frozen Warrior Hydra

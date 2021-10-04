@@ -1,46 +1,46 @@
-==================,DECK,7064,Light
-0,Creature,Common,Ghoul
-1,Spell,Rare,Life Stricken
-2,Creature,Common,Wolf
-3,Enchantment,Common,Blight
-4,Creature,Rare,Earth Rogue Minotaur
-5,Spell,Legendary,Urgent Invisibility
-6,Enchantment,Common,Shade
-7,Enchantment,Rare,Nature Shrink
-8,Creature,Rare,Dark Fighter Skin-Walker
-9,Creature,Common,Wolf
-10,Creature,Common,Goblin
-11,Spell,Rare,Frigid Torment
-12,Artifact,Common,Ghost Wand
-13,Enchantment,Common,Shrink
-14,Artifact,Legendary,Instant Ghost Wand
-15,Enchantment,Common,Shade
-16,Creature,Common,Goblin
-17,Enchantment,Rare,Nature Haste
-18,Creature,Rare,Frozen Undead Hydra
-19,Creature,Common,Elf
-20,Enchantment,Common,Invert
-21,Creature,Mythic,Dark Undead Phoenix of Illusion
-22,Creature,Common,Eagle
-23,Enchantment,Legendary,Instant Agony
-24,Spell,Common,Maelstrom
-25,Creature,Legendary,Death Fighter Cyclops of the Arctic Blizzards
-26,Spell,Common,Reanimate
-27,Creature,Rare,Earth Warrior Berserker
-28,Spell,Common,Wall
-29,Enchantment,Legendary,Dire Flight
-30,Spell,Common,Infuriate
-31,Enchantment,Common,Age
-32,Creature,Common,Ghoul
-33,Enchantment,Common,Haste
-34,Creature,Common,Spider
-35,Creature,Mythic,Light Ancient Wizard of the Sky
-36,Spell,Rare,Grim Frenzy
-37,Artifact,Legendary,Dire Cloak
-38,Spell,Common,Revive
-39,Artifact,Rare,Dark Helmet
-40,Creature,Common,Warlock
-41,Creature,Common,Eagle
-42,Artifact,Legendary,Potent Cloak
-43,Creature,Common,Goblin
-44,Creature,Common,Dwarf
+==================,DECK,7064
+0,Creature,Ghoul
+1,Spell,Oblivion Invisibility
+2,Creature,Wolf
+3,Enchantment,Drain
+4,Creature,Earth Rogue Cyclops
+5,Spell,Irate Nature Freeze
+6,Enchantment,Flight
+7,Enchantment,Necro Strength
+8,Creature,Dark Fighter Orc
+9,Creature,Wolf
+10,Creature,Skin-Walker
+11,Spell,Grim Infuriate
+12,Artifact,Ghost Wand
+13,Enchantment,Shield
+14,Artifact,Mighty Shimmering Ghost Wand
+15,Enchantment,Age
+16,Creature,Skin-Walker
+17,Enchantment,Corpse Lethargy
+18,Creature,Frozen Undead Hydra
+19,Creature,Warlock
+20,Enchantment,Drain
+21,Creature,Dark Undead Phoenix of Illusion
+22,Creature,Eagle
+23,Enchantment,Ardent Corpse Lethargy
+24,Spell,Tempest
+25,Creature,Death Fighter Giant of the Arctic Blizzards
+26,Spell,Vortex
+27,Creature,Earth Warrior Goblin
+28,Spell,Gravitation
+29,Enchantment,Zealous Grim Blight
+30,Spell,Ice
+31,Enchantment,Shrink
+32,Creature,Ghoul
+33,Enchantment,Lethargy
+34,Creature,Paladin
+35,Creature,Light Ancient Wizard of the Sky
+36,Spell,Life Frost
+37,Artifact,Clever Grim Cloak
+38,Spell,Burn
+39,Artifact,Gloom Helmet
+40,Creature,Berserker
+41,Creature,Eagle
+42,Artifact,Clever Life Cloak
+43,Creature,Skin-Walker
+44,Creature,Magi

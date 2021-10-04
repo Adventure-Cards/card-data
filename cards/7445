@@ -1,46 +1,46 @@
-==================,DECK,7445,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Drain
-2,Creature,Common,Eagle
-3,Spell,Common,Stricken
-4,Spell,Common,Heal
-5,Spell,Rare,Solar Torment
-6,Creature,Common,Wolf
-7,Artifact,Rare,Miracle Potion
-8,Spell,Rare,Dark Revive
-9,Enchantment,Common,Shrink
-10,Spell,Common,Vortex
-11,Enchantment,Common,Shade
-12,Creature,Common,Wolf
-13,Creature,Common,Wolf
-14,Creature,Common,Warlock
-15,Spell,Rare,Gloom Vortex
-16,Creature,Common,Goblin
-17,Creature,Legendary,Snow Undead Oni of the West
-18,Enchantment,Rare,Apocalypse Deathgrip
-19,Artifact,Common,Bracers
-20,Creature,Common,Dwarf
-21,Spell,Rare,Gloom Heal
-22,Creature,Common,Eagle
-23,Creature,Legendary,Snow Thief Giant of the Golden Palace
-24,Creature,Common,Wolf
-25,Artifact,Rare,Gloom Tome
-26,Creature,Common,Goblin
-27,Artifact,Rare,Frigid Helmet
-28,Spell,Rare,Apocalypse Stun
-29,Enchantment,Common,Strength
-30,Enchantment,Mythic,Clever Invert
-31,Creature,Common,Goblin
-32,Artifact,Common,Belt
-33,Creature,Common,Goblin
-34,Enchantment,Mythic,Dire Agony
-35,Enchantment,Common,Invert
-36,Creature,Rare,Frozen Monk Minotaur
-37,Creature,Common,Dwarf
-38,Spell,Common,Maelstrom
-39,Creature,Rare,Light Warrior Fairy
-40,Creature,Common,Spider
-41,Creature,Legendary,Light Warrior Kraken of the Plains
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Agony
-44,Creature,Legendary,Death Priest Cyclops of the West
+==================,DECK,7445
+0,Creature,Spider
+1,Enchantment,Blight
+2,Creature,Eagle
+3,Spell,Invisibility
+4,Spell,Invisibility
+5,Spell,Nature Maelstrom
+6,Creature,Wolf
+7,Artifact,Life Potion
+8,Spell,Miracle Burst
+9,Enchantment,Shrink
+10,Spell,Tempest
+11,Enchantment,Lethargy
+12,Creature,Wolf
+13,Creature,Wolf
+14,Creature,Berserker
+15,Spell,Dark Tempest
+16,Creature,Skin-Walker
+17,Creature,Snow Undead Oni of the West
+18,Enchantment,Oblivion Blight
+19,Artifact,Bracers
+20,Creature,Magi
+21,Spell,Miracle Fireball
+22,Creature,Eagle
+23,Creature,Snow Thief Dwarf of the Golden Palace
+24,Creature,Wolf
+25,Artifact,Chimeric Tome
+26,Creature,Skin-Walker
+27,Artifact,Nimble Helmet
+28,Spell,Nimble Fireball
+29,Enchantment,Lethargy
+30,Enchantment,Ardent Oblivion Haste
+31,Creature,Skin-Walker
+32,Artifact,Belt
+33,Creature,Skin-Walker
+34,Enchantment,Instant Life Drain
+35,Enchantment,Lethargy
+36,Creature,Frozen Monk Cyclops
+37,Creature,Magi
+38,Spell,Burst
+39,Creature,Light Warrior Kraken
+40,Creature,Paladin
+41,Creature,Light Warrior Ogre of the Plains
+42,Creature,Magi
+43,Enchantment,Firebreath
+44,Creature,Death Priest Giant of the West

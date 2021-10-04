@@ -1,46 +1,46 @@
-==================,DECK,4449,Light
-0,Enchantment,Common,Flight
-1,Creature,Common,Dwarf
-2,Artifact,Legendary,Mighty Sigil
-3,Spell,Common,Fury
-4,Creature,Common,Paladin
-5,Creature,Legendary,Aura Priest Orge of the Haven
-6,Artifact,Rare,Lunar Bracers
-7,Creature,Common,Spider
-8,Creature,Common,Ghoul
-9,Creature,Common,Eagle
-10,Creature,Common,Warlock
-11,Artifact,Legendary,Intense Tome
-12,Enchantment,Common,Age
-13,Enchantment,Common,Shade
-14,Enchantment,Mythic,Instant Shrink
-15,Creature,Common,Goblin
-16,Enchantment,Mythic,Intense Agony
-17,Spell,Common,Assault
-18,Creature,Mythic,Earth Undead Dragon of the Shadows
-19,Creature,Legendary,Dark Assassin Kraken of the Mountains
-20,Enchantment,Rare,Lunar Age
-21,Creature,Rare,Death Fighter Minotaur
-22,Artifact,Common,Bracers
-23,Creature,Common,Ghoul
-24,Enchantment,Rare,Grim Agony
-25,Spell,Common,Revive
-26,Creature,Rare,Frozen Priest Skin-Walker
-27,Spell,Common,Vortex
-28,Creature,Rare,Light Lord Hydra
-29,Creature,Common,Paladin
-30,Enchantment,Common,Flight
-31,Spell,Rare,Forged Frost
-32,Spell,Rare,Miracle Reanimate
-33,Spell,Common,Stricken
-34,Enchantment,Common,Flight
-35,Spell,Common,Stun
-36,Enchantment,Rare,Corpse Agony
-37,Creature,Common,Spider
-38,Spell,Common,Maelstrom
-39,Creature,Rare,Light Thief Berserker
-40,Artifact,Common,Staff
-41,Spell,Common,Heal
-42,Creature,Common,Magi
-43,Enchantment,Common,Lethargy
-44,Spell,Common,Freeze
+==================,DECK,4449
+0,Enchantment,Shrink
+1,Creature,Magi
+2,Artifact,Mighty Gloom Sigil
+3,Spell,Freeze
+4,Creature,Troll
+5,Creature,Aura Priest Elf of the Haven
+6,Artifact,Cataclysmic Bracers
+7,Creature,Paladin
+8,Creature,Ghoul
+9,Creature,Eagle
+10,Creature,Berserker
+11,Artifact,Dire Hateful Tome
+12,Enchantment,Shade
+13,Enchantment,Shield
+14,Enchantment,Zealous Necro Deathgrip
+15,Creature,Skin-Walker
+16,Enchantment,Ardent Corpse Lethargy
+17,Spell,Vortex
+18,Creature,Earth Undead Dragon of the Shadows
+19,Creature,Dark Assassin Ogre of the Mountains
+20,Enchantment,Gloom Firebreath
+21,Creature,Death Fighter Cyclops
+22,Artifact,Bracers
+23,Creature,Ghoul
+24,Enchantment,Life Drain
+25,Spell,Freeze
+26,Creature,Frozen Priest Orc
+27,Spell,Invisibility
+28,Creature,Light Lord Hydra
+29,Creature,Troll
+30,Enchantment,Age
+31,Spell,Gloom Heal
+32,Spell,Victory Wall
+33,Spell,Heal
+34,Enchantment,Age
+35,Spell,Burn
+36,Enchantment,Corpse Strength
+37,Creature,Paladin
+38,Spell,Burn
+39,Creature,Light Thief Goblin
+40,Artifact,Staff
+41,Spell,Fury
+42,Creature,Fairy
+43,Enchantment,Drain
+44,Spell,Heal

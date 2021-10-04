@@ -1,46 +1,46 @@
-==================,DECK,7767,Light
-0,Artifact,Common,Ring
-1,Artifact,Common,Cloak
-2,Creature,Common,Elf
-3,Creature,Common,Orc
-4,Enchantment,Mythic,Clever Invert
-5,Enchantment,Common,Flight
-6,Enchantment,Common,Drain
-7,Enchantment,Rare,Shimmering Age
-8,Artifact,Common,Helmet
-9,Artifact,Common,Gloves
-10,Spell,Common,Ice
-11,Artifact,Common,Sigil
-12,Creature,Common,Spider
-13,Creature,Common,Wolf
-14,Creature,Common,Spider
-15,Creature,Common,Ghoul
-16,Creature,Legendary,Earth Thief Giant of the Magical Forest
-17,Artifact,Common,Pendant
-18,Creature,Legendary,Frozen Assassin Kraken of the Border
-19,Creature,Rare,Light Fighter Skin-Walker
-20,Spell,Common,Fury
-21,Creature,Rare,Snow King Skin-Walker
-22,Creature,Common,Orc
-23,Creature,Common,Paladin
-24,Creature,Common,Magi
-25,Creature,Rare,Dark Merchant Fairy
-26,Creature,Common,Spider
-27,Spell,Rare,Grim Lightning
-28,Creature,Rare,Dark Assassin Berserker
-29,Creature,Common,Ghoul
-30,Creature,Common,Dwarf
-31,Creature,Common,Goblin
-32,Creature,Common,Magi
-33,Spell,Common,Assault
-34,Creature,Rare,Aura Lord Skin-Walker
-35,Creature,Common,Orc
-36,Enchantment,Rare,Corpse Alacrity
-37,Enchantment,Common,Deathgrip
-38,Artifact,Common,Boots
-39,Artifact,Common,Ring
-40,Spell,Rare,Lunar Fury
-41,Spell,Rare,Corpse Wall
-42,Creature,Common,Orc
-43,Creature,Common,Goblin
-44,Creature,Common,Goblin
+==================,DECK,7767
+0,Artifact,Ring
+1,Artifact,Cloak
+2,Creature,Warlock
+3,Creature,Spider
+4,Enchantment,Ardent Oblivion Haste
+5,Enchantment,Shrink
+6,Enchantment,Flight
+7,Enchantment,Nature Deathgrip
+8,Artifact,Helmet
+9,Artifact,Gloves
+10,Spell,Revive
+11,Artifact,Sigil
+12,Creature,Paladin
+13,Creature,Wolf
+14,Creature,Paladin
+15,Creature,Ghoul
+16,Creature,Earth Thief Dwarf of the Magical Forest
+17,Artifact,Pendant
+18,Creature,Frozen Assassin Ogre of the Border
+19,Creature,Light Fighter Orc
+20,Spell,Hypnosis
+21,Creature,Snow King Orc
+22,Creature,Spider
+23,Creature,Troll
+24,Creature,Fairy
+25,Creature,Dark Merchant Kraken
+26,Creature,Paladin
+27,Spell,Life Fire
+28,Creature,Dark Assassin Goblin
+29,Creature,Ghoul
+30,Creature,Magi
+31,Creature,Skin-Walker
+32,Creature,Fairy
+33,Spell,Ice
+34,Creature,Aura Lord Orc
+35,Creature,Spider
+36,Enchantment,Forged Agony
+37,Enchantment,Shield
+38,Artifact,Boots
+39,Artifact,Ring
+40,Spell,Chimeric Reanimate
+41,Spell,Corpse Fireball
+42,Creature,Spider
+43,Creature,Skin-Walker
+44,Creature,Skin-Walker

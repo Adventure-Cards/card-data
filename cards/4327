@@ -1,46 +1,46 @@
-==================,DECK,4327,Light
-0,Artifact,Common,Crown
-1,Creature,Mythic,Death Chaos Wizard of the Dead
-2,Creature,Common,Goblin
-3,Creature,Common,Goblin
-4,Creature,Rare,Light Assassin Griffin
-5,Spell,Legendary,Clever Wall
-6,Creature,Common,Wolf
-7,Creature,Common,Warlock
-8,Spell,Rare,Shimmering Burst
-9,Creature,Common,Ghoul
-10,Artifact,Common,Pendant
-11,Creature,Common,Goblin
-12,Artifact,Rare,Forged Amulet
-13,Creature,Rare,Snow Queen Fairy
-14,Creature,Common,Dwarf
-15,Creature,Common,Magi
-16,Spell,Common,Ice
-17,Spell,Common,Assault
-18,Creature,Common,Goblin
-19,Creature,Mythic,Frozen Undead Dragon of the Void
-20,Creature,Common,Wolf
-21,Creature,Mythic,Snow Undead Phoenix of Hate
-22,Creature,Common,Eagle
-23,Enchantment,Common,Drain
-24,Spell,Legendary,Intense Reanimate
-25,Creature,Common,Elf
-26,Creature,Common,Spider
-27,Creature,Common,Elf
-28,Creature,Common,Goblin
-29,Spell,Legendary,Clever Ice
-30,Spell,Common,Rage
-31,Creature,Common,Orc
-32,Spell,Common,Rage
-33,Spell,Common,Sorrow
-34,Enchantment,Common,Lethargy
-35,Creature,Common,Warlock
-36,Spell,Rare,Dark Frost
-37,Creature,Common,Goblin
-38,Enchantment,Mythic,Urgent Agony
-39,Spell,Common,Invisibility
-40,Creature,Legendary,Death Priest Giant of the Polar Woods
-41,Artifact,Common,Divine Robe
-42,Creature,Rare,Earth Merchant Skin-Walker
-43,Artifact,Common,Staff
-44,Enchantment,Common,Lethargy
+==================,DECK,4327
+0,Artifact,Crown
+1,Creature,Death Chaos Wizard of the Dead
+2,Creature,Skin-Walker
+3,Creature,Skin-Walker
+4,Creature,Light Assassin Griffin
+5,Spell,Instant Frigid Frenzy
+6,Creature,Wolf
+7,Creature,Berserker
+8,Spell,Solar Invisibility
+9,Creature,Ghoul
+10,Artifact,Pendant
+11,Creature,Skin-Walker
+12,Artifact,Sorrow Amulet
+13,Creature,Snow Queen Kraken
+14,Creature,Magi
+15,Creature,Fairy
+16,Spell,Frost
+17,Spell,Frost
+18,Creature,Skin-Walker
+19,Creature,Frozen Undead Dragon of the Void
+20,Creature,Wolf
+21,Creature,Snow Undead Phoenix of Hate
+22,Creature,Eagle
+23,Enchantment,Age
+24,Spell,Zealous Corpse Stricken
+25,Creature,Warlock
+26,Creature,Paladin
+27,Creature,Warlock
+28,Creature,Skin-Walker
+29,Spell,Clever Victory Assault
+30,Spell,Tempest
+31,Creature,Spider
+32,Spell,Lightning
+33,Spell,Pandemonium
+34,Enchantment,Deathgrip
+35,Creature,Berserker
+36,Spell,Dark Fury
+37,Creature,Skin-Walker
+38,Enchantment,Instant Corpse Strength
+39,Spell,Torment
+40,Creature,Death Priest Dwarf of the Polar Woods
+41,Artifact,Divine Robe
+42,Creature,Earth Merchant Orc
+43,Artifact,Staff
+44,Enchantment,Flight

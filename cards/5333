@@ -1,46 +1,46 @@
-==================,DECK,5333,Medium
-0,Spell,Rare,Life Hypnosis
-1,Creature,Rare,Dark Rogue Skin-Walker
-2,Creature,Rare,Dark Priest Minotaur
-3,Creature,Common,Ghoul
-4,Creature,Common,Ghoul
-5,Enchantment,Mythic,Angry Strength
-6,Artifact,Common,Bow
-7,Enchantment,Common,Age
-8,Creature,Rare,Snow Undead Skin-Walker
-9,Creature,Common,Wolf
-10,Creature,Common,Warlock
-11,Creature,Rare,Light Undead Minotaur
-12,Creature,Rare,Frozen King Hydra
-13,Creature,Mythic,Snow Undead Dragon of Hate
-14,Spell,Rare,Forged Wall
-15,Creature,Common,Spider
-16,Creature,Legendary,Death Lord Orge of the Polar Woods
-17,Spell,Common,Pandemonium
-18,Spell,Rare,Forged Lightning
-19,Creature,Legendary,Death Fighter Orge of the Eastern Skies
-20,Creature,Common,Elf
-21,Spell,Rare,Nimble Wall
-22,Creature,Common,Goblin
-23,Creature,Common,Ghoul
-24,Creature,Rare,Death Monk Fairy
-25,Creature,Rare,Frozen Warrior Fairy
-26,Spell,Common,Heal
-27,Creature,Common,Eagle
-28,Creature,Rare,Light Undead Minotaur
-29,Spell,Legendary,Instant Maelstrom
-30,Enchantment,Mythic,Urgent Strength
-31,Creature,Mythic,Frozen Chaos Wizard of the Void
-32,Spell,Rare,Frigid Heal
-33,Creature,Common,Elf
-34,Creature,Rare,Light Rogue Fairy
-35,Enchantment,Rare,Gloom Shield
-36,Creature,Rare,Death Warrior Skin-Walker
-37,Creature,Common,Dwarf
-38,Creature,Common,Ghoul
-39,Creature,Rare,Frozen Thief Berserker
-40,Spell,Rare,Necro Burst
-41,Artifact,Common,Boots
-42,Enchantment,Mythic,Instant Deathgrip
-43,Enchantment,Legendary,Clever Drain
-44,Enchantment,Common,Shade
+==================,DECK,5333
+0,Spell,Grim Assault
+1,Creature,Dark Rogue Orc
+2,Creature,Dark Priest Cyclops
+3,Creature,Ghoul
+4,Creature,Ghoul
+5,Enchantment,Instant Cataclysmic Shrink
+6,Artifact,Bow
+7,Enchantment,Invert
+8,Creature,Snow Undead Orc
+9,Creature,Wolf
+10,Creature,Berserker
+11,Creature,Light Undead Cyclops
+12,Creature,Frozen King Hydra
+13,Creature,Snow Undead Dragon of Hate
+14,Spell,Dark Heal
+15,Creature,Paladin
+16,Creature,Death Lord Elf of the Polar Woods
+17,Spell,Frost
+18,Spell,Miracle Invisibility
+19,Creature,Death Fighter Elf of the Eastern Skies
+20,Creature,Warlock
+21,Spell,Necro Assault
+22,Creature,Skin-Walker
+23,Creature,Ghoul
+24,Creature,Death Monk Kraken
+25,Creature,Frozen Warrior Kraken
+26,Spell,Pandemonium
+27,Creature,Eagle
+28,Creature,Light Undead Cyclops
+29,Spell,Zealous Nature Tempest
+30,Enchantment,Instant Solar Strength
+31,Creature,Frozen Chaos Wizard of the Void
+32,Spell,Victory Pandemonium
+33,Creature,Warlock
+34,Creature,Light Rogue Kraken
+35,Enchantment,Gloom Flight
+36,Creature,Death Warrior Orc
+37,Creature,Magi
+38,Creature,Ghoul
+39,Creature,Frozen Thief Goblin
+40,Spell,Solar Gale
+41,Artifact,Boots
+42,Enchantment,Clever Shimmering Lethargy
+43,Enchantment,Potent Apocalypse Drain
+44,Enchantment,Firebreath

@@ -1,46 +1,46 @@
-==================,DECK,7340,Light
-0,Spell,Common,Infuriate
-1,Enchantment,Common,Blight
-2,Creature,Common,Warlock
-3,Creature,Common,Eagle
-4,Artifact,Common,Ghost Wand
-5,Spell,Common,Hypnosis
-6,Creature,Common,Dwarf
-7,Artifact,Common,Belt
-8,Spell,Common,Freeze
-9,Enchantment,Mythic,Urgent Strength
-10,Enchantment,Common,Agony
-11,Spell,Rare,Corpse Vortex
-12,Creature,Mythic,Frozen Nameless Dragon of the Void
-13,Spell,Common,Rage
-14,Creature,Rare,Frozen Queen Skin-Walker
-15,Artifact,Rare,Forged Shield
-16,Enchantment,Common,Drain
-17,Creature,Common,Paladin
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Orc
-20,Creature,Rare,Light Fighter Fairy
-21,Spell,Rare,Gloom Rage
-22,Creature,Common,Elf
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Shimmering Haste
-25,Artifact,Common,Cloak
-26,Spell,Common,Pandemonium
-27,Creature,Common,Warlock
-28,Enchantment,Common,Shield
-29,Creature,Common,Wolf
-30,Spell,Common,Pandemonium
-31,Spell,Common,Wall
-32,Creature,Rare,Frozen Monk Minotaur
-33,Artifact,Common,Bracers
-34,Creature,Common,Orc
-35,Enchantment,Common,Strength
-36,Enchantment,Common,Agony
-37,Spell,Common,Lightning
-38,Enchantment,Common,Shrink
-39,Enchantment,Mythic,Instant Shrink
-40,Artifact,Common,Boots
-41,Enchantment,Common,Blight
-42,Creature,Common,Ghoul
-43,Creature,Rare,Death Undead Skin-Walker
-44,Creature,Rare,Light Assassin Griffin
+==================,DECK,7340
+0,Spell,Freeze
+1,Enchantment,Alacrity
+2,Creature,Berserker
+3,Creature,Eagle
+4,Artifact,Ghost Wand
+5,Spell,Stricken
+6,Creature,Magi
+7,Artifact,Belt
+8,Spell,Gravitation
+9,Enchantment,Ardent Solar Lethargy
+10,Enchantment,Drain
+11,Spell,Nature Fury
+12,Creature,Frozen Nameless Dragon of the Void
+13,Spell,Stun
+14,Creature,Frozen Queen Orc
+15,Artifact,Lunar Shield
+16,Enchantment,Deathgrip
+17,Creature,Troll
+18,Enchantment,Deathgrip
+19,Creature,Spider
+20,Creature,Light Fighter Kraken
+21,Spell,Chimeric Frost
+22,Creature,Warlock
+23,Creature,Magi
+24,Enchantment,Corpse Lethargy
+25,Artifact,Cloak
+26,Spell,Gale
+27,Creature,Berserker
+28,Enchantment,Firebreath
+29,Creature,Wolf
+30,Spell,Burst
+31,Spell,Heal
+32,Creature,Frozen Monk Cyclops
+33,Artifact,Bracers
+34,Creature,Spider
+35,Enchantment,Shrink
+36,Enchantment,Drain
+37,Spell,Fireball
+38,Enchantment,Firebreath
+39,Enchantment,Clever Necro Lethargy
+40,Artifact,Boots
+41,Enchantment,Shade
+42,Creature,Ghoul
+43,Creature,Death Undead Orc
+44,Creature,Light Assassin Griffin

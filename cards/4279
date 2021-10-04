@@ -1,46 +1,46 @@
-==================,DECK,4279,Medium
-0,Artifact,Common,Crown
-1,Creature,Rare,Earth Assassin Griffin
-2,Artifact,Rare,Miracle Staff
-3,Artifact,Common,Divine Robe
-4,Creature,Rare,Earth Thief Berserker
-5,Artifact,Common,Pendant
-6,Creature,Common,Paladin
-7,Creature,Rare,Frozen Merchant Minotaur
-8,Artifact,Common,Scythe
-9,Spell,Common,Stun
-10,Enchantment,Mythic,Urgent Shrink
-11,Enchantment,Rare,Nature Blight
-12,Creature,Common,Orc
-13,Enchantment,Rare,Shimmering Flight
-14,Artifact,Rare,Life Sigil
-15,Artifact,Rare,Grim Scepter
-16,Creature,Common,Wolf
-17,Spell,Common,Invisibility
-18,Spell,Mythic,Dire Gale
-19,Spell,Common,Hypnosis
-20,Enchantment,Legendary,Potent Deathgrip
-21,Creature,Common,Warlock
-22,Creature,Rare,Aura Queen Berserker
-23,Creature,Common,Paladin
-24,Enchantment,Mythic,Clever Flight
-25,Spell,Legendary,Extreme Frenzy
-26,Creature,Common,Wolf
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Enchantment,Common,Flight
-30,Enchantment,Mythic,Angry Lethargy
-31,Artifact,Legendary,Intense Bow
-32,Spell,Common,Vortex
-33,Spell,Common,Frost
-34,Creature,Rare,Earth Undead Berserker
-35,Enchantment,Common,Alacrity
-36,Enchantment,Common,Flight
-37,Spell,Mythic,Potent Stun
-38,Creature,Rare,Frozen Queen Minotaur
-39,Spell,Common,Maelstrom
-40,Creature,Rare,Death Fighter Berserker
-41,Enchantment,Rare,Nimble Shield
-42,Creature,Common,Magi
-43,Creature,Common,Paladin
-44,Spell,Common,Burn
+==================,DECK,4279
+0,Artifact,Crown
+1,Creature,Earth Assassin Griffin
+2,Artifact,Nimble Staff
+3,Artifact,Divine Robe
+4,Creature,Earth Thief Goblin
+5,Artifact,Pendant
+6,Creature,Troll
+7,Creature,Frozen Merchant Cyclops
+8,Artifact,Scythe
+9,Spell,Invisibility
+10,Enchantment,Clever Necro Lethargy
+11,Enchantment,Solar Deathgrip
+12,Creature,Spider
+13,Enchantment,Hateful Agony
+14,Artifact,Frigid Sigil
+15,Artifact,Victory Scepter
+16,Creature,Wolf
+17,Spell,Heal
+18,Spell,Potent Nimble Lightning
+19,Spell,Revive
+20,Enchantment,Potent Oblivion Drain
+21,Creature,Berserker
+22,Creature,Aura Queen Goblin
+23,Creature,Troll
+24,Enchantment,Clever Grim Haste
+25,Spell,Instant Cataclysmic Invisibility
+26,Creature,Wolf
+27,Creature,Magi
+28,Creature,Paladin
+29,Enchantment,Strength
+30,Enchantment,Ardent Lunar Shield
+31,Artifact,Mighty Necro Bow
+32,Spell,Heal
+33,Spell,Burst
+34,Creature,Earth Undead Goblin
+35,Enchantment,Haste
+36,Enchantment,Haste
+37,Spell,Clever Oblivion Infuriate
+38,Creature,Frozen Queen Cyclops
+39,Spell,Lightning
+40,Creature,Death Fighter Goblin
+41,Enchantment,Nature Strength
+42,Creature,Fairy
+43,Creature,Troll
+44,Spell,Hypnosis

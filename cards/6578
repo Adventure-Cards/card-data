@@ -1,46 +1,46 @@
-==================,DECK,6578,Light
-0,Spell,Common,Gale
-1,Enchantment,Common,Shield
-2,Enchantment,Common,Haste
-3,Spell,Common,Stricken
-4,Creature,Common,Spider
-5,Creature,Common,Warlock
-6,Spell,Common,Frenzy
-7,Enchantment,Common,Strength
-8,Creature,Common,Wolf
-9,Creature,Mythic,Death Ancient Demon of the Dead
-10,Artifact,Legendary,Intense Tome
-11,Artifact,Common,Helm
-12,Creature,Common,Magi
-13,Enchantment,Common,Age
-14,Spell,Common,Rage
-15,Creature,Common,Ghoul
-16,Creature,Common,Wolf
-17,Spell,Common,Revive
-18,Creature,Common,Spider
-19,Creature,Common,Eagle
-20,Creature,Common,Eagle
-21,Spell,Common,Assault
-22,Creature,Common,Elf
-23,Creature,Common,Orc
-24,Creature,Common,Dwarf
-25,Creature,Common,Goblin
-26,Spell,Rare,Necro Infuriate
-27,Creature,Common,Orc
-28,Creature,Common,Dwarf
-29,Creature,Common,Goblin
-30,Artifact,Rare,Oblivion Sigil
-31,Creature,Common,Dwarf
-32,Artifact,Common,Staff
-33,Creature,Mythic,Death Chaos Wizard of the Dead
-34,Artifact,Common,Gauntlet
-35,Artifact,Common,Cloak
-36,Creature,Common,Orc
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Haste
-39,Artifact,Common,Helm
-40,Creature,Legendary,Dark Knight Orge of the Plains
-41,Creature,Common,Goblin
-42,Creature,Rare,Frozen King Griffin
-43,Enchantment,Common,Agony
-44,Creature,Common,Wolf
+==================,DECK,6578
+0,Spell,Wall
+1,Enchantment,Agony
+2,Enchantment,Strength
+3,Spell,Stun
+4,Creature,Paladin
+5,Creature,Berserker
+6,Spell,Frenzy
+7,Enchantment,Shrink
+8,Creature,Wolf
+9,Creature,Death Ancient Demon of the Dead
+10,Artifact,Dire Necro Tome
+11,Artifact,Helm
+12,Creature,Fairy
+13,Enchantment,Alacrity
+14,Spell,Heal
+15,Creature,Ghoul
+16,Creature,Wolf
+17,Spell,Fireball
+18,Creature,Paladin
+19,Creature,Eagle
+20,Creature,Eagle
+21,Spell,Lightning
+22,Creature,Warlock
+23,Creature,Spider
+24,Creature,Magi
+25,Creature,Skin-Walker
+26,Spell,Corpse Frenzy
+27,Creature,Spider
+28,Creature,Magi
+29,Creature,Skin-Walker
+30,Artifact,Nimble Sigil
+31,Creature,Magi
+32,Artifact,Staff
+33,Creature,Death Chaos Wizard of the Dead
+34,Artifact,Gauntlet
+35,Artifact,Cloak
+36,Creature,Spider
+37,Creature,Ghoul
+38,Enchantment,Lethargy
+39,Artifact,Helm
+40,Creature,Dark Knight Elf of the Plains
+41,Creature,Skin-Walker
+42,Creature,Frozen King Griffin
+43,Enchantment,Age
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,6580,Light
-0,Creature,Common,Elf
-1,Creature,Common,Eagle
-2,Enchantment,Common,Shield
-3,Enchantment,Rare,Cataclysmic Flight
-4,Spell,Common,Stricken
-5,Enchantment,Mythic,Potent Age
-6,Artifact,Common,Greaves
-7,Enchantment,Rare,Nature Age
-8,Creature,Legendary,Dark Priest Giant of the Golden Palace
-9,Enchantment,Common,Age
-10,Creature,Common,Magi
-11,Creature,Common,Spider
-12,Creature,Common,Spider
-13,Creature,Common,Elf
-14,Spell,Common,Freeze
-15,Creature,Common,Warlock
-16,Creature,Rare,Aura Monk Berserker
-17,Enchantment,Common,Alacrity
-18,Creature,Legendary,Death Rogue Orge of the West
-19,Creature,Common,Magi
-20,Enchantment,Mythic,Mighty Haste
-21,Creature,Common,Spider
-22,Artifact,Rare,Necro Ghost Wand
-23,Spell,Rare,Lunar Burst
-24,Creature,Legendary,Death Undead Cyclops of the Low Hills
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Eagle
-27,Artifact,Rare,Shimmering Belt
-28,Creature,Common,Warlock
-29,Spell,Legendary,Dire Invisibility
-30,Artifact,Common,Belt
-31,Enchantment,Rare,Miracle Flight
-32,Creature,Legendary,Dark King Kraken of the Arctic Blizzards
-33,Spell,Common,Assault
-34,Spell,Common,Frenzy
-35,Artifact,Legendary,Extreme Ring
-36,Enchantment,Common,Agony
-37,Enchantment,Common,Age
-38,Creature,Common,Dwarf
-39,Creature,Common,Wolf
-40,Enchantment,Common,Shield
-41,Creature,Common,Warlock
-42,Creature,Common,Spider
-43,Creature,Common,Spider
-44,Creature,Rare,Death Warrior Skin-Walker
+==================,DECK,6580
+0,Creature,Warlock
+1,Creature,Eagle
+2,Enchantment,Age
+3,Enchantment,Lunar Shrink
+4,Spell,Lightning
+5,Enchantment,Clever Victory Haste
+6,Artifact,Greaves
+7,Enchantment,Nature Agony
+8,Creature,Dark Priest Dwarf of the Golden Palace
+9,Enchantment,Shield
+10,Creature,Fairy
+11,Creature,Paladin
+12,Creature,Paladin
+13,Creature,Warlock
+14,Spell,Gravitation
+15,Creature,Berserker
+16,Creature,Aura Monk Goblin
+17,Enchantment,Firebreath
+18,Creature,Death Rogue Elf of the West
+19,Creature,Fairy
+20,Enchantment,Potent Miracle Shrink
+21,Creature,Paladin
+22,Artifact,Shimmering Ghost Wand
+23,Spell,Dark Assault
+24,Creature,Death Undead Giant of the Low Hills
+25,Enchantment,Agony
+26,Creature,Eagle
+27,Artifact,Shimmering Belt
+28,Creature,Berserker
+29,Spell,Irate Apocalypse Frenzy
+30,Artifact,Belt
+31,Enchantment,Grim Haste
+32,Creature,Dark King Ogre of the Arctic Blizzards
+33,Spell,Revive
+34,Spell,Tempest
+35,Artifact,Clever Chimeric Ring
+36,Enchantment,Invert
+37,Enchantment,Strength
+38,Creature,Magi
+39,Creature,Wolf
+40,Enchantment,Haste
+41,Creature,Berserker
+42,Creature,Paladin
+43,Creature,Paladin
+44,Creature,Death Warrior Orc

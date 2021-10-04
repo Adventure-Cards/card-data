@@ -1,46 +1,46 @@
-==================,DECK,6569,Medium
-0,Creature,Legendary,Death Merchant Cyclops of the Black Stone
-1,Artifact,Legendary,Mighty Crown
-2,Creature,Legendary,Death Lord Cyclops of the Polar Woods
-3,Creature,Mythic,Light Ancient Demon of the Sky
-4,Creature,Common,Dwarf
-5,Enchantment,Rare,Forged Lethargy
-6,Creature,Legendary,Frozen Monk Giant of the Eternal Land
-7,Spell,Rare,Grim Heal
-8,Artifact,Rare,Gloom Divine Robe
-9,Spell,Rare,Hateful Maelstrom
-10,Enchantment,Common,Shrink
-11,Spell,Rare,Frigid Revive
-12,Creature,Rare,Light Merchant Fairy
-13,Creature,Mythic,Light Grand Wizard of the Sky
-14,Artifact,Rare,Cataclysmic Sigil
-15,Creature,Common,Magi
-16,Creature,Common,Paladin
-17,Enchantment,Rare,Miracle Shrink
-18,Creature,Legendary,Dark Undead Orge of the Mountains
-19,Creature,Common,Goblin
-20,Spell,Common,Heal
-21,Creature,Rare,Light Priest Fairy
-22,Artifact,Common,Scythe
-23,Creature,Common,Warlock
-24,Creature,Common,Orc
-25,Spell,Common,Vortex
-26,Spell,Common,Invisibility
-27,Spell,Common,Assault
-28,Enchantment,Rare,Gloom Shade
-29,Creature,Common,Ghoul
-30,Creature,Rare,Light Lord Griffin
-31,Creature,Common,Magi
-32,Enchantment,Common,Shield
-33,Enchantment,Rare,Frigid Shade
-34,Creature,Common,Goblin
-35,Creature,Rare,Dark Assassin Minotaur
-36,Spell,Legendary,Intense Assault
-37,Spell,Rare,Cataclysmic Stun
-38,Creature,Common,Dwarf
-39,Creature,Mythic,Death Undead Phoenix of the Dead
-40,Creature,Common,Paladin
-41,Creature,Common,Magi
-42,Enchantment,Rare,Corpse Shade
-43,Artifact,Rare,Forged Ghost Wand
-44,Creature,Common,Paladin
+==================,DECK,6569
+0,Creature,Death Merchant Giant of the Black Stone
+1,Artifact,Zealous Gloom Crown
+2,Creature,Death Lord Giant of the Polar Woods
+3,Creature,Light Ancient Demon of the Sky
+4,Creature,Magi
+5,Enchantment,Lunar Firebreath
+6,Creature,Frozen Monk Dwarf of the Eternal Land
+7,Spell,Oblivion Infuriate
+8,Artifact,Lunar Divine Robe
+9,Spell,Lunar Stun
+10,Enchantment,Alacrity
+11,Spell,Nimble Freeze
+12,Creature,Light Merchant Kraken
+13,Creature,Light Grand Wizard of the Sky
+14,Artifact,Cataclysmic Sigil
+15,Creature,Fairy
+16,Creature,Troll
+17,Enchantment,Frigid Invert
+18,Creature,Dark Undead Elf of the Mountains
+19,Creature,Skin-Walker
+20,Spell,Ice
+21,Creature,Light Priest Kraken
+22,Artifact,Scythe
+23,Creature,Berserker
+24,Creature,Spider
+25,Spell,Revive
+26,Spell,Invisibility
+27,Spell,Burst
+28,Enchantment,Chimeric Firebreath
+29,Creature,Ghoul
+30,Creature,Light Lord Griffin
+31,Creature,Fairy
+32,Enchantment,Alacrity
+33,Enchantment,Frigid Invert
+34,Creature,Skin-Walker
+35,Creature,Dark Assassin Cyclops
+36,Spell,Dire Shimmering Vortex
+37,Spell,Miracle Freeze
+38,Creature,Magi
+39,Creature,Death Undead Phoenix of the Dead
+40,Creature,Troll
+41,Creature,Fairy
+42,Enchantment,Necro Strength
+43,Artifact,Lunar Ghost Wand
+44,Creature,Troll

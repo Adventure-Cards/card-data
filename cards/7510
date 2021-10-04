@@ -1,46 +1,46 @@
-==================,DECK,7510,Light
-0,Artifact,Common,Helm
-1,Artifact,Common,Amulet
-2,Creature,Common,Eagle
-3,Enchantment,Common,Haste
-4,Artifact,Common,Boots
-5,Creature,Rare,Dark Warrior Skin-Walker
-6,Creature,Rare,Light King Skin-Walker
-7,Creature,Rare,Dark King Griffin
-8,Enchantment,Rare,Miracle Drain
-9,Creature,Common,Spider
-10,Creature,Common,Ghoul
-11,Creature,Common,Goblin
-12,Creature,Common,Elf
-13,Enchantment,Mythic,Potent Invert
-14,Creature,Common,Warlock
-15,Artifact,Common,Boots
-16,Creature,Common,Spider
-17,Creature,Common,Orc
-18,Enchantment,Common,Shrink
-19,Enchantment,Common,Lethargy
-20,Spell,Common,Burst
-21,Spell,Common,Frenzy
-22,Spell,Common,Heal
-23,Spell,Rare,Dark Frost
-24,Spell,Common,Ice
-25,Creature,Common,Magi
-26,Creature,Common,Dwarf
-27,Enchantment,Common,Invert
-28,Spell,Common,Hypnosis
-29,Creature,Rare,Aura Queen Minotaur
-30,Artifact,Legendary,Extreme Scythe
-31,Spell,Common,Rage
-32,Creature,Common,Paladin
-33,Creature,Common,Paladin
-34,Spell,Common,Invisibility
-35,Creature,Legendary,Light King Kraken of the Plains
-36,Creature,Common,Dwarf
-37,Spell,Legendary,Angry Burn
-38,Enchantment,Common,Shade
-39,Creature,Common,Magi
-40,Artifact,Common,Sigil
-41,Creature,Common,Elf
-42,Enchantment,Mythic,Dire Shrink
-43,Artifact,Common,Divine Robe
-44,Creature,Common,Eagle
+==================,DECK,7510
+0,Artifact,Helm
+1,Artifact,Amulet
+2,Creature,Eagle
+3,Enchantment,Lethargy
+4,Artifact,Boots
+5,Creature,Dark Warrior Orc
+6,Creature,Light King Orc
+7,Creature,Dark King Griffin
+8,Enchantment,Apocalypse Shade
+9,Creature,Paladin
+10,Creature,Ghoul
+11,Creature,Skin-Walker
+12,Creature,Warlock
+13,Enchantment,Irate Oblivion Blight
+14,Creature,Berserker
+15,Artifact,Boots
+16,Creature,Paladin
+17,Creature,Spider
+18,Enchantment,Strength
+19,Enchantment,Deathgrip
+20,Spell,Fury
+21,Spell,Ice
+22,Spell,Hypnosis
+23,Spell,Lunar Gale
+24,Spell,Wall
+25,Creature,Fairy
+26,Creature,Magi
+27,Enchantment,Shield
+28,Spell,Frost
+29,Creature,Aura Queen Cyclops
+30,Artifact,Dire Dark Scythe
+31,Spell,Freeze
+32,Creature,Troll
+33,Creature,Troll
+34,Spell,Rage
+35,Creature,Light King Ogre of the Plains
+36,Creature,Magi
+37,Spell,Zealous Lunar Gravitation
+38,Enchantment,Firebreath
+39,Creature,Fairy
+40,Artifact,Sigil
+41,Creature,Warlock
+42,Enchantment,Clever Frigid Haste
+43,Artifact,Divine Robe
+44,Creature,Eagle

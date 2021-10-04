@@ -1,46 +1,46 @@
-==================,DECK,6470,Medium
-0,Enchantment,Common,Age
-1,Creature,Legendary,Light Priest Cyclops of the Haven
-2,Enchantment,Common,Shrink
-3,Creature,Common,Ghoul
-4,Creature,Legendary,Frozen Queen Giant of the Arctic Blizzards
-5,Artifact,Legendary,Angry Gloves
-6,Enchantment,Rare,Gloom Alacrity
-7,Creature,Legendary,Light King Giant of the Golden Palace
-8,Creature,Rare,Frozen Undead Skin-Walker
-9,Creature,Common,Ghoul
-10,Creature,Common,Elf
-11,Creature,Common,Dwarf
-12,Spell,Rare,Corpse Rage
-13,Spell,Common,Stun
-14,Creature,Common,Spider
-15,Creature,Rare,Earth Fighter Hydra
-16,Spell,Rare,Life Infuriate
-17,Creature,Rare,Frozen Rogue Griffin
-18,Creature,Rare,Earth Assassin Griffin
-19,Spell,Rare,Necro Pandemonium
-20,Enchantment,Mythic,Clever Agony
-21,Creature,Rare,Frozen Knight Skin-Walker
-22,Creature,Common,Magi
-23,Artifact,Common,Gloves
-24,Enchantment,Rare,Shimmering Haste
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Eagle
-27,Creature,Common,Ghoul
-28,Enchantment,Common,Drain
-29,Spell,Common,Stun
-30,Creature,Rare,Death Priest Hydra
-31,Spell,Rare,Lunar Burn
-32,Artifact,Rare,Nature Bracers
-33,Creature,Common,Dwarf
-34,Spell,Common,Reanimate
-35,Creature,Common,Spider
-36,Creature,Common,Spider
-37,Enchantment,Common,Invert
-38,Enchantment,Mythic,Instant Shrink
-39,Creature,Rare,Frozen Fighter Hydra
-40,Spell,Mythic,Urgent Torment
-41,Enchantment,Common,Shade
-42,Spell,Rare,Oblivion Heal
-43,Enchantment,Common,Drain
-44,Artifact,Rare,Hateful Shield
+==================,DECK,6470
+0,Enchantment,Blight
+1,Creature,Light Priest Giant of the Haven
+2,Enchantment,Lethargy
+3,Creature,Ghoul
+4,Creature,Frozen Queen Dwarf of the Arctic Blizzards
+5,Artifact,Instant Dark Gloves
+6,Enchantment,Dark Alacrity
+7,Creature,Light King Dwarf of the Golden Palace
+8,Creature,Frozen Undead Orc
+9,Creature,Ghoul
+10,Creature,Warlock
+11,Creature,Magi
+12,Spell,Forged Sorrow
+13,Spell,Infuriate
+14,Creature,Paladin
+15,Creature,Earth Fighter Hydra
+16,Spell,Victory Freeze
+17,Creature,Frozen Rogue Griffin
+18,Creature,Earth Assassin Griffin
+19,Spell,Shimmering Fury
+20,Enchantment,Irate Life Blight
+21,Creature,Frozen Knight Orc
+22,Creature,Fairy
+23,Artifact,Gloves
+24,Enchantment,Corpse Lethargy
+25,Enchantment,Flight
+26,Creature,Eagle
+27,Creature,Ghoul
+28,Enchantment,Flight
+29,Spell,Frost
+30,Creature,Death Priest Hydra
+31,Spell,Miracle Vortex
+32,Artifact,Corpse Bracers
+33,Creature,Magi
+34,Spell,Lightning
+35,Creature,Paladin
+36,Creature,Paladin
+37,Enchantment,Invert
+38,Enchantment,Clever Necro Lethargy
+39,Creature,Frozen Fighter Hydra
+40,Spell,Ardent Shimmering Infuriate
+41,Enchantment,Blight
+42,Spell,Victory Infuriate
+43,Enchantment,Deathgrip
+44,Artifact,Cataclysmic Shield

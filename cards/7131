@@ -1,46 +1,46 @@
-==================,DECK,7131,Medium
-0,Spell,Common,Gravitation
-1,Creature,Common,Magi
-2,Creature,Mythic,Earth Grand Demon of the Shadows
-3,Enchantment,Mythic,Angry Agony
-4,Spell,Common,Stricken
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Goblin
-7,Artifact,Common,Amulet
-8,Creature,Common,Goblin
-9,Creature,Common,Wolf
-10,Spell,Common,Stricken
-11,Enchantment,Legendary,Potent Lethargy
-12,Spell,Common,Wall
-13,Enchantment,Common,Deathgrip
-14,Artifact,Common,Scepter
-15,Creature,Rare,Snow Knight Fairy
-16,Spell,Rare,Solar Rage
-17,Creature,Common,Eagle
-18,Enchantment,Common,Deathgrip
-19,Spell,Rare,Hateful Infuriate
-20,Creature,Legendary,Light Undead Orge of the Black Stone
-21,Artifact,Common,Bow
-22,Artifact,Common,Bow
-23,Spell,Common,Lightning
-24,Spell,Rare,Lunar Fury
-25,Creature,Common,Spider
-26,Creature,Common,Dwarf
-27,Enchantment,Rare,Nature Drain
-28,Creature,Common,Elf
-29,Creature,Common,Magi
-30,Creature,Legendary,Earth Fighter Oni of the Mountains
-31,Creature,Common,Goblin
-32,Creature,Common,Spider
-33,Creature,Common,Goblin
-34,Spell,Common,Burst
-35,Artifact,Common,Gloves
-36,Spell,Common,Reanimate
-37,Creature,Common,Magi
-38,Spell,Common,Maelstrom
-39,Spell,Common,Rage
-40,Enchantment,Rare,Hateful Blight
-41,Enchantment,Rare,Solar Lethargy
-42,Creature,Common,Wolf
-43,Spell,Rare,Corpse Revive
-44,Spell,Common,Lightning
+==================,DECK,7131
+0,Spell,Tempest
+1,Creature,Fairy
+2,Creature,Earth Grand Demon of the Shadows
+3,Enchantment,Irate Miracle Alacrity
+4,Spell,Maelstrom
+5,Enchantment,Drain
+6,Creature,Skin-Walker
+7,Artifact,Amulet
+8,Creature,Skin-Walker
+9,Creature,Wolf
+10,Spell,Gale
+11,Enchantment,Irate Grim Blight
+12,Spell,Ice
+13,Enchantment,Shade
+14,Artifact,Scepter
+15,Creature,Snow Knight Kraken
+16,Spell,Forged Gravitation
+17,Creature,Eagle
+18,Enchantment,Shade
+19,Spell,Dark Wall
+20,Creature,Light Undead Elf of the Black Stone
+21,Artifact,Bow
+22,Artifact,Bow
+23,Spell,Fury
+24,Spell,Sorrow Ice
+25,Creature,Paladin
+26,Creature,Magi
+27,Enchantment,Forged Strength
+28,Creature,Warlock
+29,Creature,Fairy
+30,Creature,Earth Fighter Oni of the Mountains
+31,Creature,Skin-Walker
+32,Creature,Paladin
+33,Creature,Skin-Walker
+34,Spell,Fury
+35,Artifact,Gloves
+36,Spell,Frost
+37,Creature,Fairy
+38,Spell,Ice
+39,Spell,Vortex
+40,Enchantment,Cataclysmic Firebreath
+41,Enchantment,Hateful Age
+42,Creature,Wolf
+43,Spell,Shimmering Freeze
+44,Spell,Stun

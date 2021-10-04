@@ -1,46 +1,46 @@
-==================,DECK,6426,Strong
-0,Creature,Rare,Death Lord Fairy
-1,Spell,Common,Rage
-2,Artifact,Common,Shield
-3,Spell,Common,Sorrow
-4,Creature,Legendary,Death Undead Dragon of the Dead
-5,Creature,Mythic,Snow Ancient Wizard of Hate
-6,Creature,Common,Eagle
-7,Creature,Rare,Earth Undead Minotaur
-8,Spell,Common,Lightning
-9,Creature,Common,Wolf
-10,Creature,Legendary,Frozen Thief Oni of the West
-11,Enchantment,Common,Flight
-12,Enchantment,Common,Agony
-13,Enchantment,Legendary,Clever Flight
-14,Enchantment,Common,Haste
-15,Enchantment,Legendary,Potent Lethargy
-16,Enchantment,Common,Haste
-17,Artifact,Rare,Lunar Boots
-18,Creature,Rare,Light Lord Fairy
-19,Spell,Legendary,Urgent Infuriate
-20,Creature,Rare,Light Queen Skin-Walker
-21,Creature,Common,Spider
-22,Enchantment,Mythic,Mighty Drain
-23,Creature,Mythic,Death Nameless Dragon of the Dead
-24,Creature,Mythic,Earth Chaos Demon of the Shadows
-25,Creature,Rare,Frozen Fighter Minotaur
-26,Creature,Common,Ghoul
-27,Artifact,Rare,Shimmering Cloak
-28,Artifact,Rare,Nature Helm
-29,Creature,Common,Goblin
-30,Creature,Rare,Snow Assassin Fairy
-31,Enchantment,Rare,Cataclysmic Flight
-32,Spell,Legendary,Extreme Gale
-33,Creature,Common,Orc
-34,Enchantment,Rare,Gloom Shade
-35,Artifact,Rare,Forged Sigil
-36,Creature,Common,Magi
-37,Spell,Common,Frost
-38,Creature,Common,Spider
-39,Creature,Common,Wolf
-40,Artifact,Rare,Shimmering Bracers
-41,Artifact,Rare,Gloom Staff
-42,Artifact,Common,Crown
-43,Spell,Rare,Forged Frost
-44,Creature,Rare,Earth Priest Griffin
+==================,DECK,6426
+0,Creature,Death Lord Kraken
+1,Spell,Fire
+2,Artifact,Shield
+3,Spell,Frenzy
+4,Creature,Death Undead Dragon of the Dead
+5,Creature,Snow Ancient Wizard of Hate
+6,Creature,Eagle
+7,Creature,Earth Undead Cyclops
+8,Spell,Ice
+9,Creature,Wolf
+10,Creature,Frozen Thief Oni of the West
+11,Enchantment,Alacrity
+12,Enchantment,Blight
+13,Enchantment,Mighty Grim Invert
+14,Enchantment,Deathgrip
+15,Enchantment,Instant Grim Drain
+16,Enchantment,Shield
+17,Artifact,Lunar Boots
+18,Creature,Light Lord Kraken
+19,Spell,Empyrean Corpse Hypnosis
+20,Creature,Light Queen Orc
+21,Creature,Paladin
+22,Enchantment,Mighty Dark Flight
+23,Creature,Death Nameless Dragon of the Dead
+24,Creature,Earth Chaos Demon of the Shadows
+25,Creature,Frozen Fighter Cyclops
+26,Creature,Ghoul
+27,Artifact,Hateful Cloak
+28,Artifact,Hateful Helm
+29,Creature,Skin-Walker
+30,Creature,Snow Assassin Kraken
+31,Enchantment,Lunar Shield
+32,Spell,Mighty Dark Gravitation
+33,Creature,Spider
+34,Enchantment,Chimeric Shrink
+35,Artifact,Cataclysmic Sigil
+36,Creature,Fairy
+37,Spell,Assault
+38,Creature,Paladin
+39,Creature,Wolf
+40,Artifact,Nature Bracers
+41,Artifact,Gloom Staff
+42,Artifact,Crown
+43,Spell,Chimeric Wall
+44,Creature,Earth Priest Griffin

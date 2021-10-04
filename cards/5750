@@ -1,46 +1,46 @@
-==================,DECK,5750,Light
-0,Spell,Common,Heal
-1,Creature,Common,Wolf
-2,Spell,Common,Heal
-3,Spell,Rare,Necro Fury
-4,Artifact,Common,Cloak
-5,Creature,Mythic,Aura Grand Wizard of the Light
-6,Enchantment,Common,Haste
-7,Enchantment,Legendary,Instant Drain
-8,Creature,Common,Magi
-9,Creature,Common,Dwarf
-10,Creature,Mythic,Light Grand Demon of the Sky
-11,Creature,Rare,Dark Warrior Hydra
-12,Creature,Legendary,Dark Warrior Orge of the Border
-13,Spell,Common,Gravitation
-14,Enchantment,Common,Alacrity
-15,Enchantment,Rare,Lunar Haste
-16,Creature,Common,Eagle
-17,Creature,Common,Paladin
-18,Artifact,Common,Divine Robe
-19,Enchantment,Common,Alacrity
-20,Creature,Rare,Death Assassin Griffin
-21,Spell,Common,Fury
-22,Enchantment,Legendary,Angry Shield
-23,Creature,Common,Magi
-24,Enchantment,Common,Shrink
-25,Enchantment,Common,Shrink
-26,Artifact,Common,Potion
-27,Spell,Common,Burst
-28,Enchantment,Common,Flight
-29,Creature,Rare,Snow Knight Minotaur
-30,Creature,Common,Magi
-31,Creature,Common,Paladin
-32,Spell,Common,Torment
-33,Creature,Legendary,Death Monk Giant of the Bright Mountains
-34,Creature,Rare,Death King Minotaur
-35,Enchantment,Common,Lethargy
-36,Enchantment,Common,Lethargy
-37,Creature,Rare,Earth Rogue Minotaur
-38,Spell,Common,Burn
-39,Creature,Rare,Frozen Queen Griffin
-40,Creature,Common,Wolf
-41,Creature,Common,Paladin
-42,Enchantment,Rare,Forged Shield
-43,Creature,Rare,Frozen Thief Minotaur
-44,Creature,Common,Ghoul
+==================,DECK,5750
+0,Spell,Ice
+1,Creature,Wolf
+2,Spell,Vortex
+3,Spell,Solar Frost
+4,Artifact,Cloak
+5,Creature,Aura Grand Wizard of the Light
+6,Enchantment,Invert
+7,Enchantment,Clever Forged Lethargy
+8,Creature,Fairy
+9,Creature,Magi
+10,Creature,Light Grand Demon of the Sky
+11,Creature,Dark Warrior Hydra
+12,Creature,Dark Warrior Elf of the Border
+13,Spell,Burn
+14,Enchantment,Invert
+15,Enchantment,Miracle Flight
+16,Creature,Eagle
+17,Creature,Troll
+18,Artifact,Divine Robe
+19,Enchantment,Lethargy
+20,Creature,Death Assassin Griffin
+21,Spell,Stun
+22,Enchantment,Urgent Gloom Flight
+23,Creature,Fairy
+24,Enchantment,Lethargy
+25,Enchantment,Blight
+26,Artifact,Potion
+27,Spell,Sorrow
+28,Enchantment,Haste
+29,Creature,Snow Knight Cyclops
+30,Creature,Fairy
+31,Creature,Troll
+32,Spell,Revive
+33,Creature,Death Monk Dwarf of the Bright Mountains
+34,Creature,Death King Cyclops
+35,Enchantment,Age
+36,Enchantment,Shield
+37,Creature,Earth Rogue Cyclops
+38,Spell,Heal
+39,Creature,Frozen Queen Griffin
+40,Creature,Wolf
+41,Creature,Troll
+42,Enchantment,Gloom Shrink
+43,Creature,Frozen Thief Cyclops
+44,Creature,Ghoul

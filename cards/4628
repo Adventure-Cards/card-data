@@ -1,46 +1,46 @@
-==================,DECK,4628,Medium
-0,Artifact,Rare,Life Sword
-1,Creature,Legendary,Dark Lord Kraken of the Black Stone
-2,Creature,Legendary,Frozen Queen Giant of the Frozen Castle
-3,Artifact,Rare,Miracle Scepter
-4,Artifact,Common,Helm
-5,Enchantment,Mythic,Urgent Invert
-6,Creature,Common,Ghoul
-7,Spell,Common,Ice
-8,Artifact,Common,Belt
-9,Creature,Common,Warlock
-10,Artifact,Common,Ghost Wand
-11,Spell,Rare,Gloom Assault
-12,Spell,Common,Ice
-13,Creature,Common,Warlock
-14,Creature,Legendary,Aura Queen Oni of the Golden Palace
-15,Enchantment,Common,Invert
-16,Enchantment,Common,Flight
-17,Spell,Rare,Apocalypse Burst
-18,Creature,Rare,Snow Undead Skin-Walker
-19,Enchantment,Rare,Corpse Invert
-20,Creature,Rare,Light Priest Minotaur
-21,Creature,Common,Wolf
-22,Enchantment,Common,Shrink
-23,Spell,Rare,Lunar Infuriate
-24,Artifact,Common,Scepter
-25,Spell,Common,Invisibility
-26,Creature,Common,Spider
-27,Creature,Common,Ghoul
-28,Creature,Common,Paladin
-29,Creature,Common,Dwarf
-30,Artifact,Common,Greaves
-31,Artifact,Common,Potion
-32,Spell,Common,Ice
-33,Spell,Common,Revive
-34,Enchantment,Common,Haste
-35,Spell,Common,Invisibility
-36,Enchantment,Legendary,Mighty Age
-37,Creature,Rare,Dark Queen Berserker
-38,Enchantment,Common,Lethargy
-39,Creature,Rare,Earth Priest Hydra
-40,Creature,Common,Elf
-41,Enchantment,Common,Shrink
-42,Creature,Common,Goblin
-43,Creature,Rare,Snow King Minotaur
-44,Spell,Legendary,Instant Burst
+==================,DECK,4628
+0,Artifact,Life Sword
+1,Creature,Dark Lord Ogre of the Black Stone
+2,Creature,Frozen Queen Dwarf of the Frozen Castle
+3,Artifact,Oblivion Scepter
+4,Artifact,Helm
+5,Enchantment,Instant Shimmering Strength
+6,Creature,Ghoul
+7,Spell,Assault
+8,Artifact,Belt
+9,Creature,Berserker
+10,Artifact,Ghost Wand
+11,Spell,Chimeric Wall
+12,Spell,Reanimate
+13,Creature,Berserker
+14,Creature,Aura Queen Oni of the Golden Palace
+15,Enchantment,Deathgrip
+16,Enchantment,Strength
+17,Spell,Frigid Gravitation
+18,Creature,Snow Undead Orc
+19,Enchantment,Shimmering Age
+20,Creature,Light Priest Cyclops
+21,Creature,Wolf
+22,Enchantment,Firebreath
+23,Spell,Miracle Infuriate
+24,Artifact,Scepter
+25,Spell,Gale
+26,Creature,Paladin
+27,Creature,Ghoul
+28,Creature,Troll
+29,Creature,Magi
+30,Artifact,Greaves
+31,Artifact,Potion
+32,Spell,Fire
+33,Spell,Rage
+34,Enchantment,Lethargy
+35,Spell,Fireball
+36,Enchantment,Empyrean Gloom Firebreath
+37,Creature,Dark Queen Goblin
+38,Enchantment,Lethargy
+39,Creature,Earth Priest Hydra
+40,Creature,Warlock
+41,Enchantment,Shade
+42,Creature,Skin-Walker
+43,Creature,Snow King Cyclops
+44,Spell,Zealous Corpse Gale

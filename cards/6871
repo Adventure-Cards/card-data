@@ -1,46 +1,46 @@
-==================,DECK,6871,Light
-0,Creature,Common,Orc
-1,Creature,Common,Magi
-2,Creature,Common,Goblin
-3,Enchantment,Common,Flight
-4,Creature,Legendary,Snow Fighter Oni of the Haven
-5,Creature,Legendary,Death Undead Oni of the Mountains
-6,Creature,Rare,Dark Knight Hydra
-7,Spell,Rare,Corpse Heal
-8,Creature,Common,Warlock
-9,Creature,Common,Elf
-10,Creature,Common,Goblin
-11,Spell,Legendary,Clever Hypnosis
-12,Creature,Common,Dwarf
-13,Spell,Common,Maelstrom
-14,Creature,Common,Goblin
-15,Creature,Common,Goblin
-16,Creature,Common,Spider
-17,Enchantment,Common,Drain
-18,Spell,Rare,Grim Invisibility
-19,Enchantment,Common,Shield
-20,Creature,Common,Spider
-21,Artifact,Rare,Frigid Cloak
-22,Creature,Common,Warlock
-23,Artifact,Common,Ring
-24,Creature,Rare,Dark Undead Berserker
-25,Artifact,Legendary,Intense Boots
-26,Enchantment,Common,Invert
-27,Creature,Common,Elf
-28,Spell,Common,Burst
-29,Spell,Rare,Forged Vortex
-30,Creature,Rare,Dark Assassin Minotaur
-31,Spell,Common,Torment
-32,Spell,Common,Lightning
-33,Creature,Common,Spider
-34,Spell,Common,Freeze
-35,Creature,Mythic,Death Undead Phoenix of the Dead
-36,Creature,Common,Wolf
-37,Creature,Common,Orc
-38,Enchantment,Common,Haste
-39,Enchantment,Mythic,Angry Alacrity
-40,Spell,Legendary,Dire Invisibility
-41,Spell,Common,Revive
-42,Creature,Common,Wolf
-43,Artifact,Rare,Nature Bracers
-44,Enchantment,Common,Haste
+==================,DECK,6871
+0,Creature,Spider
+1,Creature,Fairy
+2,Creature,Skin-Walker
+3,Enchantment,Invert
+4,Creature,Snow Fighter Oni of the Haven
+5,Creature,Death Undead Oni of the Mountains
+6,Creature,Dark Knight Hydra
+7,Spell,Hateful Fire
+8,Creature,Berserker
+9,Creature,Warlock
+10,Creature,Skin-Walker
+11,Spell,Zealous Oblivion Hypnosis
+12,Creature,Magi
+13,Spell,Assault
+14,Creature,Skin-Walker
+15,Creature,Skin-Walker
+16,Creature,Paladin
+17,Enchantment,Firebreath
+18,Spell,Frigid Infuriate
+19,Enchantment,Haste
+20,Creature,Paladin
+21,Artifact,Victory Cloak
+22,Creature,Berserker
+23,Artifact,Ring
+24,Creature,Dark Undead Goblin
+25,Artifact,Clever Nature Boots
+26,Enchantment,Blight
+27,Creature,Warlock
+28,Spell,Heal
+29,Spell,Chimeric Pandemonium
+30,Creature,Dark Assassin Cyclops
+31,Spell,Vortex
+32,Spell,Maelstrom
+33,Creature,Paladin
+34,Spell,Fury
+35,Creature,Death Undead Phoenix of the Dead
+36,Creature,Wolf
+37,Creature,Spider
+38,Enchantment,Deathgrip
+39,Enchantment,Ardent Dark Shield
+40,Spell,Ardent Frigid Wall
+41,Spell,Wall
+42,Creature,Wolf
+43,Artifact,Forged Bracers
+44,Enchantment,Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,6248,Light
-0,Creature,Common,Elf
-1,Spell,Common,Sorrow
-2,Artifact,Common,Boots
-3,Enchantment,Rare,Cataclysmic Shrink
-4,Creature,Common,Wolf
-5,Artifact,Rare,Apocalypse Crown
-6,Creature,Mythic,Dark Time Phoenix of Illusion
-7,Artifact,Legendary,Clever Potion
-8,Creature,Common,Goblin
-9,Creature,Common,Eagle
-10,Enchantment,Legendary,Extreme Agony
-11,Creature,Rare,Light King Griffin
-12,Artifact,Common,Crown
-13,Spell,Common,Wall
-14,Creature,Rare,Snow Monk Skin-Walker
-15,Enchantment,Common,Drain
-16,Artifact,Common,Sigil
-17,Creature,Legendary,Frozen Queen Oni of the Mountains
-18,Enchantment,Mythic,Dire Invert
-19,Enchantment,Rare,Forged Shield
-20,Spell,Common,Stricken
-21,Creature,Common,Eagle
-22,Creature,Common,Eagle
-23,Spell,Rare,Life Gale
-24,Spell,Common,Burn
-25,Creature,Rare,Light Undead Berserker
-26,Creature,Common,Magi
-27,Creature,Common,Magi
-28,Spell,Common,Pandemonium
-29,Artifact,Common,Boots
-30,Spell,Rare,Hateful Pandemonium
-31,Spell,Rare,Nature Burn
-32,Creature,Common,Warlock
-33,Creature,Rare,Aura Priest Berserker
-34,Artifact,Common,Helm
-35,Artifact,Common,Pendant
-36,Enchantment,Common,Strength
-37,Creature,Mythic,Snow Nameless Dragon of Hate
-38,Creature,Common,Orc
-39,Creature,Rare,Dark Queen Hydra
-40,Creature,Common,Wolf
-41,Creature,Rare,Earth Thief Berserker
-42,Creature,Rare,Frozen Undead Fairy
-43,Creature,Mythic,Light Grand Demon of the Sky
-44,Creature,Common,Dwarf
+==================,DECK,6248
+0,Creature,Warlock
+1,Spell,Infuriate
+2,Artifact,Boots
+3,Enchantment,Chimeric Firebreath
+4,Creature,Wolf
+5,Artifact,Nimble Crown
+6,Creature,Dark Time Phoenix of Illusion
+7,Artifact,Ardent Nimble Potion
+8,Creature,Skin-Walker
+9,Creature,Eagle
+10,Enchantment,Instant Miracle Shrink
+11,Creature,Light King Griffin
+12,Artifact,Crown
+13,Spell,Rage
+14,Creature,Snow Monk Orc
+15,Enchantment,Agony
+16,Artifact,Sigil
+17,Creature,Frozen Queen Oni of the Mountains
+18,Enchantment,Instant Oblivion Drain
+19,Enchantment,Gloom Flight
+20,Spell,Rage
+21,Creature,Eagle
+22,Creature,Eagle
+23,Spell,Nimble Stricken
+24,Spell,Fire
+25,Creature,Light Undead Goblin
+26,Creature,Fairy
+27,Creature,Fairy
+28,Spell,Frost
+29,Artifact,Boots
+30,Spell,Cataclysmic Burst
+31,Spell,Hateful Gale
+32,Creature,Berserker
+33,Creature,Aura Priest Goblin
+34,Artifact,Helm
+35,Artifact,Pendant
+36,Enchantment,Shrink
+37,Creature,Snow Nameless Dragon of Hate
+38,Creature,Spider
+39,Creature,Dark Queen Hydra
+40,Creature,Wolf
+41,Creature,Earth Thief Goblin
+42,Creature,Frozen Undead Kraken
+43,Creature,Light Grand Demon of the Sky
+44,Creature,Magi

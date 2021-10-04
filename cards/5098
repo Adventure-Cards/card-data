@@ -1,46 +1,46 @@
-==================,DECK,5098,Light
-0,Enchantment,Common,Haste
-1,Creature,Common,Eagle
-2,Enchantment,Common,Flight
-3,Creature,Common,Spider
-4,Enchantment,Rare,Solar Strength
-5,Creature,Common,Orc
-6,Creature,Mythic,Dark Time Phoenix of Illusion
-7,Enchantment,Common,Shade
-8,Artifact,Common,Crown
-9,Creature,Rare,Light Queen Minotaur
-10,Creature,Common,Dwarf
-11,Creature,Common,Warlock
-12,Enchantment,Legendary,Angry Invert
-13,Spell,Common,Hypnosis
-14,Spell,Common,Gravitation
-15,Enchantment,Common,Strength
-16,Creature,Rare,Frozen Fighter Griffin
-17,Spell,Common,Invisibility
-18,Creature,Common,Ghoul
-19,Spell,Legendary,Extreme Maelstrom
-20,Artifact,Rare,Life Pendant
-21,Creature,Common,Wolf
-22,Creature,Common,Dwarf
-23,Enchantment,Mythic,Instant Age
-24,Enchantment,Common,Alacrity
-25,Creature,Rare,Light Assassin Griffin
-26,Artifact,Common,Gloves
-27,Enchantment,Common,Agony
-28,Enchantment,Common,Lethargy
-29,Creature,Rare,Earth Fighter Skin-Walker
-30,Creature,Common,Orc
-31,Creature,Rare,Aura Monk Minotaur
-32,Spell,Legendary,Urgent Sorrow
-33,Artifact,Common,Scythe
-34,Creature,Common,Wolf
-35,Creature,Common,Magi
-36,Creature,Common,Dwarf
-37,Creature,Rare,Aura Queen Hydra
-38,Creature,Common,Goblin
-39,Creature,Rare,Frozen Monk Skin-Walker
-40,Artifact,Common,Belt
-41,Artifact,Common,Helmet
-42,Enchantment,Common,Blight
-43,Enchantment,Common,Shield
-44,Creature,Rare,Earth Thief Skin-Walker
+==================,DECK,5098
+0,Enchantment,Firebreath
+1,Creature,Eagle
+2,Enchantment,Age
+3,Creature,Paladin
+4,Enchantment,Solar Lethargy
+5,Creature,Spider
+6,Creature,Dark Time Phoenix of Illusion
+7,Enchantment,Alacrity
+8,Artifact,Crown
+9,Creature,Light Queen Cyclops
+10,Creature,Magi
+11,Creature,Berserker
+12,Enchantment,Instant Sorrow Shrink
+13,Spell,Maelstrom
+14,Spell,Infuriate
+15,Enchantment,Deathgrip
+16,Creature,Frozen Fighter Griffin
+17,Spell,Frenzy
+18,Creature,Ghoul
+19,Spell,Zealous Gloom Wall
+20,Artifact,Life Pendant
+21,Creature,Wolf
+22,Creature,Magi
+23,Enchantment,Empyrean Nature Age
+24,Enchantment,Shrink
+25,Creature,Light Assassin Griffin
+26,Artifact,Gloves
+27,Enchantment,Agony
+28,Enchantment,Shade
+29,Creature,Earth Fighter Orc
+30,Creature,Spider
+31,Creature,Aura Monk Cyclops
+32,Spell,Mighty Nature Sorrow
+33,Artifact,Scythe
+34,Creature,Wolf
+35,Creature,Fairy
+36,Creature,Magi
+37,Creature,Aura Queen Hydra
+38,Creature,Skin-Walker
+39,Creature,Frozen Monk Orc
+40,Artifact,Belt
+41,Artifact,Helmet
+42,Enchantment,Strength
+43,Enchantment,Haste
+44,Creature,Earth Thief Orc

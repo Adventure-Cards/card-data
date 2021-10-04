@@ -1,46 +1,46 @@
-==================,DECK,4941,Light
-0,Creature,Common,Elf
-1,Creature,Mythic,Death Ancient Wizard of the Dead
-2,Creature,Rare,Dark Knight Berserker
-3,Creature,Legendary,Aura Rogue Oni of the Magical Forest
-4,Creature,Common,Goblin
-5,Creature,Mythic,Dark Ancient Demon of Illusion
-6,Creature,Common,Goblin
-7,Creature,Common,Orc
-8,Creature,Common,Elf
-9,Creature,Common,Dwarf
-10,Artifact,Common,Helmet
-11,Spell,Common,Assault
-12,Creature,Common,Spider
-13,Enchantment,Common,Blight
-14,Creature,Legendary,Light Warrior Kraken of the Plains
-15,Artifact,Common,Scepter
-16,Creature,Rare,Earth Warrior Fairy
-17,Spell,Common,Fury
-18,Creature,Rare,Aura Lord Griffin
-19,Spell,Common,Wall
-20,Spell,Common,Lightning
-21,Spell,Common,Invisibility
-22,Spell,Common,Burn
-23,Artifact,Common,Shield
-24,Creature,Common,Elf
-25,Enchantment,Common,Lethargy
-26,Creature,Rare,Snow Assassin Berserker
-27,Creature,Rare,Dark Assassin Minotaur
-28,Artifact,Common,Gauntlet
-29,Creature,Common,Magi
-30,Creature,Legendary,Death Monk Kraken of the Arctic Blizzards
-31,Creature,Common,Magi
-32,Creature,Common,Dwarf
-33,Spell,Common,Wall
-34,Creature,Mythic,Death Ancient Demon of the Dead
-35,Enchantment,Legendary,Intense Lethargy
-36,Creature,Rare,Snow Fighter Skin-Walker
-37,Creature,Mythic,Aura Nameless Phoenix of the Light
-38,Creature,Common,Eagle
-39,Creature,Mythic,Frozen Undead Phoenix of the Void
-40,Spell,Legendary,Intense Stricken
-41,Creature,Common,Paladin
-42,Creature,Legendary,Aura Knight Kraken of the Black Stone
-43,Creature,Mythic,Light Chaos Wizard of the Sky
-44,Spell,Legendary,Clever Maelstrom
+==================,DECK,4941
+0,Creature,Warlock
+1,Creature,Death Ancient Wizard of the Dead
+2,Creature,Dark Knight Goblin
+3,Creature,Aura Rogue Oni of the Magical Forest
+4,Creature,Skin-Walker
+5,Creature,Dark Ancient Demon of Illusion
+6,Creature,Skin-Walker
+7,Creature,Spider
+8,Creature,Warlock
+9,Creature,Magi
+10,Artifact,Helmet
+11,Spell,Frost
+12,Creature,Paladin
+13,Enchantment,Deathgrip
+14,Creature,Light Warrior Ogre of the Plains
+15,Artifact,Scepter
+16,Creature,Earth Warrior Kraken
+17,Spell,Stun
+18,Creature,Aura Lord Griffin
+19,Spell,Frost
+20,Spell,Wall
+21,Spell,Burn
+22,Spell,Fireball
+23,Artifact,Shield
+24,Creature,Warlock
+25,Enchantment,Haste
+26,Creature,Snow Assassin Goblin
+27,Creature,Dark Assassin Cyclops
+28,Artifact,Gauntlet
+29,Creature,Fairy
+30,Creature,Death Monk Ogre of the Arctic Blizzards
+31,Creature,Fairy
+32,Creature,Magi
+33,Spell,Frost
+34,Creature,Death Ancient Demon of the Dead
+35,Enchantment,Instant Hateful Strength
+36,Creature,Snow Fighter Orc
+37,Creature,Aura Nameless Phoenix of the Light
+38,Creature,Eagle
+39,Creature,Frozen Undead Phoenix of the Void
+40,Spell,Clever Nature Freeze
+41,Creature,Troll
+42,Creature,Aura Knight Ogre of the Black Stone
+43,Creature,Light Chaos Wizard of the Sky
+44,Spell,Mighty Frigid Ice

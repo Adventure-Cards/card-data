@@ -1,46 +1,46 @@
-==================,DECK,5638,Medium
-0,Spell,Common,Stun
-1,Creature,Legendary,Dark Knight Kraken of the Mountains
-2,Enchantment,Mythic,Clever Blight
-3,Spell,Common,Infuriate
-4,Enchantment,Common,Flight
-5,Creature,Common,Spider
-6,Creature,Legendary,Death Knight Oni of the Swamp
-7,Creature,Common,Ghoul
-8,Creature,Legendary,Light Assassin Giant of the Low Hills
-9,Enchantment,Rare,Life Haste
-10,Artifact,Common,Cloak
-11,Enchantment,Common,Agony
-12,Creature,Common,Wolf
-13,Creature,Rare,Death Assassin Berserker
-14,Creature,Legendary,Earth Warrior Giant of the Plains
-15,Creature,Common,Paladin
-16,Creature,Rare,Aura Lord Skin-Walker
-17,Creature,Common,Ghoul
-18,Artifact,Rare,Life Shield
-19,Spell,Common,Stun
-20,Spell,Common,Frenzy
-21,Enchantment,Common,Blight
-22,Enchantment,Common,Shield
-23,Creature,Common,Magi
-24,Creature,Common,Goblin
-25,Creature,Rare,Snow Merchant Hydra
-26,Enchantment,Common,Flight
-27,Creature,Common,Magi
-28,Enchantment,Rare,Gloom Alacrity
-29,Enchantment,Common,Alacrity
-30,Creature,Common,Elf
-31,Creature,Legendary,Frozen Thief Giant of the Arctic Blizzards
-32,Creature,Rare,Earth Monk Minotaur
-33,Spell,Rare,Gloom Lightning
-34,Creature,Common,Spider
-35,Creature,Common,Elf
-36,Spell,Common,Lightning
-37,Creature,Rare,Aura Merchant Minotaur
-38,Enchantment,Common,Invert
-39,Creature,Legendary,Frozen King Cyclops of the Border
-40,Spell,Common,Frenzy
-41,Spell,Common,Lightning
-42,Creature,Rare,Death Warrior Griffin
-43,Spell,Legendary,Potent Torment
-44,Creature,Legendary,Aura Undead Giant of the Black Stone
+==================,DECK,5638
+0,Spell,Heal
+1,Creature,Dark Knight Ogre of the Mountains
+2,Enchantment,Potent Nimble Drain
+3,Spell,Torment
+4,Enchantment,Haste
+5,Creature,Paladin
+6,Creature,Death Knight Oni of the Swamp
+7,Creature,Ghoul
+8,Creature,Light Assassin Dwarf of the Low Hills
+9,Enchantment,Life Invert
+10,Artifact,Cloak
+11,Enchantment,Deathgrip
+12,Creature,Wolf
+13,Creature,Death Assassin Goblin
+14,Creature,Earth Warrior Dwarf of the Plains
+15,Creature,Troll
+16,Creature,Aura Lord Orc
+17,Creature,Ghoul
+18,Artifact,Nimble Shield
+19,Spell,Stun
+20,Spell,Rage
+21,Enchantment,Haste
+22,Enchantment,Blight
+23,Creature,Fairy
+24,Creature,Skin-Walker
+25,Creature,Snow Merchant Hydra
+26,Enchantment,Shrink
+27,Creature,Fairy
+28,Enchantment,Dark Flight
+29,Enchantment,Firebreath
+30,Creature,Warlock
+31,Creature,Frozen Thief Dwarf of the Arctic Blizzards
+32,Creature,Earth Monk Cyclops
+33,Spell,Miracle Heal
+34,Creature,Paladin
+35,Creature,Warlock
+36,Spell,Assault
+37,Creature,Aura Merchant Cyclops
+38,Enchantment,Flight
+39,Creature,Frozen King Giant of the Border
+40,Spell,Maelstrom
+41,Spell,Maelstrom
+42,Creature,Death Warrior Griffin
+43,Spell,Irate Apocalypse Reanimate
+44,Creature,Aura Undead Dwarf of the Black Stone

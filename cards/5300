@@ -1,46 +1,46 @@
-==================,DECK,5300,Light
-0,Spell,Rare,Frigid Lightning
-1,Spell,Common,Revive
-2,Creature,Common,Dwarf
-3,Creature,Rare,Light Thief Minotaur
-4,Creature,Legendary,Snow Queen Oni of the Border
-5,Creature,Mythic,Snow Ancient Demon of Hate
-6,Enchantment,Legendary,Intense Shrink
-7,Enchantment,Common,Shrink
-8,Creature,Rare,Light Thief Minotaur
-9,Spell,Legendary,Mighty Frenzy
-10,Creature,Common,Magi
-11,Creature,Legendary,Frozen Rogue Orge of the Low Hills
-12,Creature,Common,Spider
-13,Creature,Common,Dwarf
-14,Spell,Rare,Necro Ice
-15,Spell,Common,Infuriate
-16,Enchantment,Common,Drain
-17,Creature,Common,Warlock
-18,Creature,Rare,Death Queen Skin-Walker
-19,Spell,Common,Lightning
-20,Creature,Common,Dwarf
-21,Spell,Common,Assault
-22,Creature,Common,Wolf
-23,Enchantment,Mythic,Potent Invert
-24,Creature,Legendary,Snow Knight Giant of the Haven
-25,Artifact,Rare,Oblivion Belt
-26,Enchantment,Common,Blight
-27,Enchantment,Common,Blight
-28,Enchantment,Legendary,Angry Alacrity
-29,Creature,Common,Paladin
-30,Creature,Common,Warlock
-31,Spell,Common,Pandemonium
-32,Creature,Common,Eagle
-33,Creature,Common,Dwarf
-34,Creature,Common,Ghoul
-35,Creature,Common,Warlock
-36,Creature,Mythic,Death Undead Phoenix of the Dead
-37,Creature,Common,Warlock
-38,Creature,Common,Eagle
-39,Artifact,Rare,Frigid Gauntlet
-40,Creature,Common,Wolf
-41,Spell,Common,Vortex
-42,Creature,Common,Orc
-43,Creature,Rare,Earth Monk Hydra
-44,Artifact,Rare,Frigid Pendant
+==================,DECK,5300
+0,Spell,Life Gale
+1,Spell,Burn
+2,Creature,Magi
+3,Creature,Light Thief Cyclops
+4,Creature,Snow Queen Oni of the Border
+5,Creature,Snow Ancient Demon of Hate
+6,Enchantment,Mighty Necro Agony
+7,Enchantment,Drain
+8,Creature,Light Thief Cyclops
+9,Spell,Ardent Chimeric Tempest
+10,Creature,Fairy
+11,Creature,Frozen Rogue Elf of the Low Hills
+12,Creature,Paladin
+13,Creature,Magi
+14,Spell,Nature Torment
+15,Spell,Rage
+16,Enchantment,Blight
+17,Creature,Berserker
+18,Creature,Death Queen Orc
+19,Spell,Maelstrom
+20,Creature,Magi
+21,Spell,Heal
+22,Creature,Wolf
+23,Enchantment,Dire Oblivion Shade
+24,Creature,Snow Knight Dwarf of the Haven
+25,Artifact,Oblivion Belt
+26,Enchantment,Haste
+27,Enchantment,Age
+28,Enchantment,Irate Dark Alacrity
+29,Creature,Troll
+30,Creature,Berserker
+31,Spell,Maelstrom
+32,Creature,Eagle
+33,Creature,Magi
+34,Creature,Ghoul
+35,Creature,Berserker
+36,Creature,Death Undead Phoenix of the Dead
+37,Creature,Berserker
+38,Creature,Eagle
+39,Artifact,Life Gauntlet
+40,Creature,Wolf
+41,Spell,Revive
+42,Creature,Spider
+43,Creature,Earth Monk Hydra
+44,Artifact,Frigid Pendant

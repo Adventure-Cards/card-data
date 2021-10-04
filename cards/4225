@@ -1,46 +1,46 @@
-==================,DECK,4225,Medium
-0,Creature,Legendary,Earth Undead Cyclops of the Frozen Castle
-1,Artifact,Common,Gauntlet
-2,Creature,Rare,Frozen Rogue Skin-Walker
-3,Creature,Legendary,Death Fighter Kraken of the Frozen Castle
-4,Creature,Common,Warlock
-5,Artifact,Common,Belt
-6,Creature,Common,Orc
-7,Spell,Common,Gale
-8,Creature,Rare,Death Undead Minotaur
-9,Enchantment,Common,Age
-10,Spell,Common,Revive
-11,Enchantment,Common,Shade
-12,Spell,Rare,Life Burn
-13,Creature,Mythic,Death Nameless Dragon of the Dead
-14,Creature,Legendary,Earth Fighter Kraken of the Polar Woods
-15,Artifact,Common,Gloves
-16,Enchantment,Rare,Forged Lethargy
-17,Spell,Rare,Solar Revive
-18,Spell,Common,Sorrow
-19,Creature,Common,Orc
-20,Spell,Common,Gale
-21,Spell,Common,Hypnosis
-22,Spell,Common,Assault
-23,Creature,Rare,Snow King Skin-Walker
-24,Creature,Rare,Frozen Lord Griffin
-25,Artifact,Legendary,Dire Ghost Wand
-26,Spell,Common,Torment
-27,Spell,Common,Revive
-28,Artifact,Legendary,Mighty Staff
-29,Creature,Common,Wolf
-30,Creature,Rare,Snow King Berserker
-31,Artifact,Common,Gloves
-32,Creature,Common,Ghoul
-33,Spell,Common,Reanimate
-34,Creature,Common,Dwarf
-35,Spell,Common,Freeze
-36,Creature,Legendary,Light Warrior Cyclops of the Polar Woods
-37,Artifact,Legendary,Angry Staff
-38,Spell,Common,Pandemonium
-39,Creature,Mythic,Death Undead Dragon of the Dead
-40,Creature,Mythic,Snow Undead Phoenix of Hate
-41,Spell,Rare,Hateful Maelstrom
-42,Creature,Common,Goblin
-43,Enchantment,Rare,Nimble Invert
-44,Spell,Common,Infuriate
+==================,DECK,4225
+0,Creature,Earth Undead Giant of the Frozen Castle
+1,Artifact,Gauntlet
+2,Creature,Frozen Rogue Orc
+3,Creature,Death Fighter Ogre of the Frozen Castle
+4,Creature,Berserker
+5,Artifact,Belt
+6,Creature,Spider
+7,Spell,Reanimate
+8,Creature,Death Undead Cyclops
+9,Enchantment,Shield
+10,Spell,Hypnosis
+11,Enchantment,Drain
+12,Spell,Frigid Infuriate
+13,Creature,Death Nameless Dragon of the Dead
+14,Creature,Earth Fighter Ogre of the Polar Woods
+15,Artifact,Gloves
+16,Enchantment,Lunar Firebreath
+17,Spell,Forged Frenzy
+18,Spell,Lightning
+19,Creature,Spider
+20,Spell,Fireball
+21,Spell,Freeze
+22,Spell,Stricken
+23,Creature,Snow King Orc
+24,Creature,Frozen Lord Griffin
+25,Artifact,Mighty Victory Ghost Wand
+26,Spell,Wall
+27,Spell,Burst
+28,Artifact,Irate Gloom Staff
+29,Creature,Wolf
+30,Creature,Snow King Goblin
+31,Artifact,Gloves
+32,Creature,Ghoul
+33,Spell,Assault
+34,Creature,Magi
+35,Spell,Rage
+36,Creature,Light Warrior Giant of the Polar Woods
+37,Artifact,Irate Miracle Staff
+38,Spell,Fire
+39,Creature,Death Undead Dragon of the Dead
+40,Creature,Snow Undead Phoenix of Hate
+41,Spell,Chimeric Heal
+42,Creature,Skin-Walker
+43,Enchantment,Shimmering Agony
+44,Spell,Tempest

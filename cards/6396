@@ -1,46 +1,46 @@
-==================,DECK,6396,Light
-0,Creature,Rare,Light King Minotaur
-1,Creature,Common,Elf
-2,Enchantment,Common,Agony
-3,Spell,Common,Invisibility
-4,Spell,Common,Gravitation
-5,Creature,Common,Spider
-6,Creature,Common,Wolf
-7,Creature,Common,Wolf
-8,Creature,Rare,Snow Lord Griffin
-9,Creature,Common,Ghoul
-10,Enchantment,Mythic,Potent Lethargy
-11,Spell,Common,Revive
-12,Creature,Legendary,Dark Undead Cyclops of the Plains
-13,Creature,Rare,Death Fighter Skin-Walker
-14,Enchantment,Common,Blight
-15,Creature,Common,Warlock
-16,Spell,Common,Heal
-17,Spell,Common,Heal
-18,Creature,Common,Goblin
-19,Enchantment,Common,Flight
-20,Enchantment,Common,Lethargy
-21,Enchantment,Common,Agony
-22,Creature,Common,Warlock
-23,Spell,Common,Frost
-24,Artifact,Rare,Dark Sigil
-25,Artifact,Common,Shield
-26,Enchantment,Common,Haste
-27,Spell,Rare,Necro Reanimate
-28,Artifact,Rare,Shimmering Belt
-29,Enchantment,Common,Strength
-30,Spell,Rare,Miracle Ice
-31,Creature,Common,Spider
-32,Creature,Common,Wolf
-33,Spell,Legendary,Mighty Lightning
-34,Creature,Common,Dwarf
-35,Creature,Common,Dwarf
-36,Artifact,Common,Potion
-37,Artifact,Common,Crown
-38,Enchantment,Legendary,Mighty Drain
-39,Creature,Common,Elf
-40,Creature,Common,Goblin
-41,Creature,Common,Orc
-42,Creature,Common,Magi
-43,Spell,Rare,Grim Invisibility
-44,Creature,Rare,Earth Monk Skin-Walker
+==================,DECK,6396
+0,Creature,Light King Cyclops
+1,Creature,Warlock
+2,Enchantment,Flight
+3,Spell,Wall
+4,Spell,Hypnosis
+5,Creature,Paladin
+6,Creature,Wolf
+7,Creature,Wolf
+8,Creature,Snow Lord Griffin
+9,Creature,Ghoul
+10,Enchantment,Instant Grim Drain
+11,Spell,Pandemonium
+12,Creature,Dark Undead Giant of the Plains
+13,Creature,Death Fighter Orc
+14,Enchantment,Shield
+15,Creature,Berserker
+16,Spell,Hypnosis
+17,Spell,Stricken
+18,Creature,Skin-Walker
+19,Enchantment,Age
+20,Enchantment,Shield
+21,Enchantment,Age
+22,Creature,Berserker
+23,Spell,Frost
+24,Artifact,Sorrow Sigil
+25,Artifact,Shield
+26,Enchantment,Age
+27,Spell,Corpse Fury
+28,Artifact,Necro Belt
+29,Enchantment,Firebreath
+30,Spell,Grim Fireball
+31,Creature,Paladin
+32,Creature,Wolf
+33,Spell,Urgent Lunar Invisibility
+34,Creature,Magi
+35,Creature,Magi
+36,Artifact,Potion
+37,Artifact,Crown
+38,Enchantment,Mighty Dark Flight
+39,Creature,Warlock
+40,Creature,Skin-Walker
+41,Creature,Spider
+42,Creature,Fairy
+43,Spell,Frigid Fireball
+44,Creature,Earth Monk Orc

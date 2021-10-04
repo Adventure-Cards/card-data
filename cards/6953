@@ -1,46 +1,46 @@
-==================,DECK,6953,Light
-0,Creature,Common,Orc
-1,Artifact,Common,Ring
-2,Creature,Common,Orc
-3,Creature,Legendary,Earth Rogue Oni of the Black Stone
-4,Enchantment,Rare,Dark Alacrity
-5,Artifact,Common,Scepter
-6,Enchantment,Common,Age
-7,Spell,Common,Reanimate
-8,Creature,Common,Goblin
-9,Creature,Rare,Snow Monk Fairy
-10,Creature,Common,Paladin
-11,Artifact,Rare,Hateful Staff
-12,Artifact,Common,Gloves
-13,Spell,Common,Frost
-14,Spell,Common,Burst
-15,Creature,Common,Warlock
-16,Creature,Common,Ghoul
-17,Enchantment,Mythic,Dire Haste
-18,Spell,Common,Stun
-19,Creature,Common,Magi
-20,Enchantment,Common,Blight
-21,Creature,Rare,Aura Queen Hydra
-22,Spell,Common,Invisibility
-23,Spell,Legendary,Extreme Hypnosis
-24,Enchantment,Rare,Cataclysmic Age
-25,Creature,Rare,Dark Lord Minotaur
-26,Creature,Common,Spider
-27,Creature,Rare,Frozen Assassin Hydra
-28,Creature,Common,Eagle
-29,Spell,Rare,Solar Assault
-30,Creature,Common,Dwarf
-31,Creature,Common,Paladin
-32,Enchantment,Mythic,Urgent Shrink
-33,Creature,Common,Eagle
-34,Creature,Rare,Death Rogue Berserker
-35,Creature,Rare,Earth King Berserker
-36,Creature,Common,Elf
-37,Creature,Common,Spider
-38,Creature,Common,Spider
-39,Spell,Legendary,Extreme Sorrow
-40,Creature,Common,Wolf
-41,Creature,Common,Orc
-42,Enchantment,Common,Strength
-43,Creature,Rare,Earth Undead Berserker
-44,Creature,Common,Magi
+==================,DECK,6953
+0,Creature,Spider
+1,Artifact,Ring
+2,Creature,Spider
+3,Creature,Earth Rogue Oni of the Black Stone
+4,Enchantment,Dark Firebreath
+5,Artifact,Scepter
+6,Enchantment,Blight
+7,Spell,Fury
+8,Creature,Skin-Walker
+9,Creature,Snow Monk Kraken
+10,Creature,Troll
+11,Artifact,Chimeric Staff
+12,Artifact,Gloves
+13,Spell,Stricken
+14,Spell,Fury
+15,Creature,Berserker
+16,Creature,Ghoul
+17,Enchantment,Zealous Life Blight
+18,Spell,Stun
+19,Creature,Fairy
+20,Enchantment,Age
+21,Creature,Aura Queen Hydra
+22,Spell,Fireball
+23,Spell,Potent Chimeric Torment
+24,Enchantment,Gloom Shrink
+25,Creature,Dark Lord Cyclops
+26,Creature,Paladin
+27,Creature,Frozen Assassin Hydra
+28,Creature,Eagle
+29,Spell,Nature Burn
+30,Creature,Magi
+31,Creature,Troll
+32,Enchantment,Potent Necro Strength
+33,Creature,Eagle
+34,Creature,Death Rogue Goblin
+35,Creature,Earth King Goblin
+36,Creature,Warlock
+37,Creature,Paladin
+38,Creature,Paladin
+39,Spell,Clever Lunar Vortex
+40,Creature,Wolf
+41,Creature,Spider
+42,Enchantment,Shade
+43,Creature,Earth Undead Goblin
+44,Creature,Fairy

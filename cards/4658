@@ -1,46 +1,46 @@
-==================,DECK,4658,Light
-0,Artifact,Common,Ring
-1,Artifact,Common,Bow
-2,Creature,Common,Eagle
-3,Creature,Common,Orc
-4,Creature,Common,Wolf
-5,Artifact,Common,Tome
-6,Enchantment,Rare,Apocalypse Age
-7,Enchantment,Legendary,Extreme Drain
-8,Spell,Common,Burn
-9,Enchantment,Common,Shrink
-10,Creature,Common,Eagle
-11,Enchantment,Common,Strength
-12,Spell,Rare,Necro Hypnosis
-13,Creature,Common,Ghoul
-14,Artifact,Common,Tome
-15,Enchantment,Common,Agony
-16,Creature,Common,Orc
-17,Creature,Common,Goblin
-18,Spell,Common,Frenzy
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Haste
-21,Artifact,Common,Gloves
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Warlock
-24,Creature,Common,Spider
-25,Creature,Common,Wolf
-26,Spell,Rare,Hateful Fury
-27,Spell,Rare,Hateful Maelstrom
-28,Artifact,Common,Greaves
-29,Creature,Common,Wolf
-30,Creature,Common,Elf
-31,Spell,Common,Assault
-32,Creature,Common,Warlock
-33,Artifact,Common,Boots
-34,Creature,Common,Eagle
-35,Enchantment,Common,Shade
-36,Artifact,Rare,Nimble Greaves
-37,Creature,Common,Wolf
-38,Creature,Common,Goblin
-39,Creature,Common,Ghoul
-40,Creature,Common,Wolf
-41,Enchantment,Common,Alacrity
-42,Enchantment,Common,Haste
-43,Spell,Common,Burst
-44,Artifact,Common,Shield
+==================,DECK,4658
+0,Artifact,Ring
+1,Artifact,Bow
+2,Creature,Eagle
+3,Creature,Spider
+4,Creature,Wolf
+5,Artifact,Tome
+6,Enchantment,Victory Invert
+7,Enchantment,Empyrean Dark Firebreath
+8,Spell,Gale
+9,Enchantment,Age
+10,Creature,Eagle
+11,Enchantment,Flight
+12,Spell,Necro Revive
+13,Creature,Ghoul
+14,Artifact,Tome
+15,Enchantment,Firebreath
+16,Creature,Spider
+17,Creature,Skin-Walker
+18,Spell,Tempest
+19,Creature,Magi
+20,Enchantment,Shade
+21,Artifact,Gloves
+22,Enchantment,Blight
+23,Creature,Berserker
+24,Creature,Paladin
+25,Creature,Wolf
+26,Spell,Lunar Freeze
+27,Spell,Dark Burn
+28,Artifact,Greaves
+29,Creature,Wolf
+30,Creature,Warlock
+31,Spell,Burn
+32,Creature,Berserker
+33,Artifact,Boots
+34,Creature,Eagle
+35,Enchantment,Alacrity
+36,Artifact,Corpse Greaves
+37,Creature,Wolf
+38,Creature,Skin-Walker
+39,Creature,Ghoul
+40,Creature,Wolf
+41,Enchantment,Deathgrip
+42,Enchantment,Shield
+43,Spell,Gale
+44,Artifact,Shield

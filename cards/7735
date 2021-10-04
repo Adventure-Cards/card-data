@@ -1,46 +1,46 @@
-==================,DECK,7735,Light
-0,Artifact,Common,Shield
-1,Enchantment,Rare,Apocalypse Flight
-2,Enchantment,Common,Strength
-3,Spell,Legendary,Clever Frost
-4,Creature,Mythic,Aura Grand Wizard of the Light
-5,Creature,Common,Elf
-6,Creature,Rare,Earth Assassin Hydra
-7,Creature,Rare,Dark Fighter Hydra
-8,Creature,Common,Goblin
-9,Creature,Legendary,Earth Undead Kraken of the Plains
-10,Spell,Rare,Oblivion Gravitation
-11,Spell,Common,Hypnosis
-12,Enchantment,Mythic,Clever Shrink
-13,Creature,Common,Warlock
-14,Spell,Common,Reanimate
-15,Enchantment,Common,Shield
-16,Artifact,Common,Ring
-17,Spell,Rare,Miracle Ice
-18,Creature,Rare,Earth Lord Skin-Walker
-19,Creature,Common,Paladin
-20,Enchantment,Common,Invert
-21,Creature,Common,Dwarf
-22,Creature,Rare,Earth Lord Minotaur
-23,Enchantment,Common,Age
-24,Enchantment,Common,Lethargy
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Elf
-27,Creature,Common,Eagle
-28,Creature,Common,Warlock
-29,Spell,Legendary,Urgent Hypnosis
-30,Creature,Common,Wolf
-31,Artifact,Common,Tome
-32,Creature,Legendary,Earth Fighter Oni of the Eastern Skies
-33,Artifact,Common,Helm
-34,Spell,Rare,Nature Hypnosis
-35,Artifact,Legendary,Clever Ring
-36,Creature,Common,Eagle
-37,Enchantment,Common,Alacrity
-38,Creature,Common,Eagle
-39,Spell,Legendary,Urgent Rage
-40,Creature,Common,Elf
-41,Spell,Legendary,Dire Reanimate
-42,Creature,Common,Goblin
-43,Artifact,Rare,Grim Gloves
-44,Creature,Common,Ghoul
+==================,DECK,7735
+0,Artifact,Shield
+1,Enchantment,Grim Blight
+2,Enchantment,Alacrity
+3,Spell,Ardent Victory Tempest
+4,Creature,Aura Grand Wizard of the Light
+5,Creature,Warlock
+6,Creature,Earth Assassin Hydra
+7,Creature,Dark Fighter Hydra
+8,Creature,Skin-Walker
+9,Creature,Earth Undead Ogre of the Plains
+10,Spell,Frigid Reanimate
+11,Spell,Frost
+12,Enchantment,Empyrean Frigid Shade
+13,Creature,Berserker
+14,Spell,Tempest
+15,Enchantment,Haste
+16,Artifact,Ring
+17,Spell,Nimble Vortex
+18,Creature,Earth Lord Orc
+19,Creature,Troll
+20,Enchantment,Haste
+21,Creature,Magi
+22,Creature,Earth Lord Cyclops
+23,Enchantment,Shade
+24,Enchantment,Lethargy
+25,Enchantment,Age
+26,Creature,Warlock
+27,Creature,Eagle
+28,Creature,Berserker
+29,Spell,Mighty Forged Rage
+30,Creature,Wolf
+31,Artifact,Tome
+32,Creature,Earth Fighter Oni of the Eastern Skies
+33,Artifact,Helm
+34,Spell,Corpse Sorrow
+35,Artifact,Ardent Victory Ring
+36,Creature,Eagle
+37,Enchantment,Drain
+38,Creature,Eagle
+39,Spell,Irate Corpse Revive
+40,Creature,Warlock
+41,Spell,Clever Oblivion Gravitation
+42,Creature,Skin-Walker
+43,Artifact,Frigid Gloves
+44,Creature,Ghoul

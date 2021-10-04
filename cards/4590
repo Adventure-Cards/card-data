@@ -1,46 +1,46 @@
-==================,DECK,4590,Light
-0,Creature,Common,Magi
-1,Spell,Common,Freeze
-2,Creature,Common,Goblin
-3,Creature,Common,Eagle
-4,Creature,Common,Ghoul
-5,Creature,Rare,Death Warrior Hydra
-6,Creature,Common,Ghoul
-7,Creature,Rare,Aura Lord Berserker
-8,Artifact,Rare,Lunar Boots
-9,Creature,Legendary,Earth Knight Orge of the Frozen Castle
-10,Creature,Legendary,Earth Lord Kraken of the Black Stone
-11,Enchantment,Mythic,Mighty Alacrity
-12,Creature,Common,Paladin
-13,Enchantment,Common,Strength
-14,Artifact,Rare,Dark Tome
-15,Spell,Rare,Frigid Frenzy
-16,Spell,Common,Revive
-17,Creature,Legendary,Death Lord Cyclops of the Low Hills
-18,Creature,Common,Paladin
-19,Creature,Common,Spider
-20,Enchantment,Common,Age
-21,Creature,Legendary,Frozen Queen Orge of the Mountains
-22,Spell,Common,Infuriate
-23,Creature,Common,Spider
-24,Artifact,Common,Belt
-25,Artifact,Common,Boots
-26,Enchantment,Mythic,Mighty Drain
-27,Spell,Common,Burst
-28,Artifact,Legendary,Extreme Staff
-29,Creature,Common,Ghoul
-30,Spell,Rare,Necro Stricken
-31,Creature,Common,Spider
-32,Enchantment,Common,Blight
-33,Creature,Common,Orc
-34,Creature,Rare,Death Thief Minotaur
-35,Creature,Legendary,Aura Monk Orge of the Mountains
-36,Spell,Legendary,Intense Gale
-37,Creature,Mythic,Light Ancient Wizard of the Sky
-38,Creature,Rare,Snow Lord Berserker
-39,Creature,Common,Elf
-40,Enchantment,Rare,Life Deathgrip
-41,Spell,Common,Stun
-42,Creature,Common,Paladin
-43,Spell,Common,Hypnosis
-44,Artifact,Common,Cloak
+==================,DECK,4590
+0,Creature,Fairy
+1,Spell,Wall
+2,Creature,Skin-Walker
+3,Creature,Eagle
+4,Creature,Ghoul
+5,Creature,Death Warrior Hydra
+6,Creature,Ghoul
+7,Creature,Aura Lord Goblin
+8,Artifact,Sorrow Boots
+9,Creature,Earth Knight Elf of the Frozen Castle
+10,Creature,Earth Lord Ogre of the Black Stone
+11,Enchantment,Ardent Dark Shield
+12,Creature,Troll
+13,Enchantment,Blight
+14,Artifact,Cataclysmic Tome
+15,Spell,Apocalypse Sorrow
+16,Spell,Freeze
+17,Creature,Death Lord Giant of the Low Hills
+18,Creature,Troll
+19,Creature,Paladin
+20,Enchantment,Strength
+21,Creature,Frozen Queen Elf of the Mountains
+22,Spell,Stun
+23,Creature,Paladin
+24,Artifact,Belt
+25,Artifact,Boots
+26,Enchantment,Mighty Dark Flight
+27,Spell,Infuriate
+28,Artifact,Irate Miracle Staff
+29,Creature,Ghoul
+30,Spell,Hateful Invisibility
+31,Creature,Paladin
+32,Enchantment,Agony
+33,Creature,Spider
+34,Creature,Death Thief Cyclops
+35,Creature,Aura Monk Elf of the Mountains
+36,Spell,Clever Shimmering Reanimate
+37,Creature,Light Ancient Wizard of the Sky
+38,Creature,Snow Lord Goblin
+39,Creature,Warlock
+40,Enchantment,Oblivion Drain
+41,Spell,Freeze
+42,Creature,Troll
+43,Spell,Rage
+44,Artifact,Cloak

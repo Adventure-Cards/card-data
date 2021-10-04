@@ -1,46 +1,46 @@
-==================,DECK,6324,Medium
-0,Creature,Common,Magi
-1,Creature,Common,Orc
-2,Creature,Legendary,Frozen Undead Orge of the Eternal Land
-3,Artifact,Common,Divine Robe
-4,Enchantment,Mythic,Angry Agony
-5,Enchantment,Common,Alacrity
-6,Creature,Common,Elf
-7,Creature,Mythic,Snow Time Phoenix of Hate
-8,Creature,Rare,Earth King Skin-Walker
-9,Enchantment,Rare,Life Drain
-10,Spell,Rare,Grim Rage
-11,Spell,Legendary,Intense Fury
-12,Creature,Common,Dwarf
-13,Spell,Rare,Oblivion Rage
-14,Creature,Common,Magi
-15,Enchantment,Rare,Apocalypse Deathgrip
-16,Creature,Common,Warlock
-17,Creature,Common,Orc
-18,Enchantment,Common,Alacrity
-19,Creature,Rare,Aura Fighter Skin-Walker
-20,Enchantment,Common,Shrink
-21,Enchantment,Rare,Miracle Shrink
-22,Creature,Rare,Death Fighter Fairy
-23,Spell,Rare,Miracle Hypnosis
-24,Creature,Common,Paladin
-25,Enchantment,Common,Haste
-26,Enchantment,Common,Haste
-27,Creature,Common,Dwarf
-28,Enchantment,Mythic,Mighty Shield
-29,Enchantment,Rare,Life Drain
-30,Creature,Common,Orc
-31,Spell,Common,Pandemonium
-32,Creature,Rare,Aura Lord Hydra
-33,Spell,Common,Gravitation
-34,Enchantment,Common,Alacrity
-35,Enchantment,Common,Lethargy
-36,Spell,Common,Revive
-37,Spell,Common,Revive
-38,Creature,Common,Goblin
-39,Creature,Rare,Aura Knight Minotaur
-40,Creature,Common,Eagle
-41,Creature,Common,Elf
-42,Spell,Common,Torment
-43,Enchantment,Common,Shade
-44,Creature,Legendary,Aura Rogue Giant of the Magical Forest
+==================,DECK,6324
+0,Creature,Fairy
+1,Creature,Spider
+2,Creature,Frozen Undead Elf of the Eternal Land
+3,Artifact,Divine Robe
+4,Enchantment,Irate Miracle Alacrity
+5,Enchantment,Lethargy
+6,Creature,Warlock
+7,Creature,Snow Time Phoenix of Hate
+8,Creature,Earth King Orc
+9,Enchantment,Apocalypse Haste
+10,Spell,Victory Maelstrom
+11,Spell,Empyrean Necro Maelstrom
+12,Creature,Magi
+13,Spell,Life Tempest
+14,Creature,Fairy
+15,Enchantment,Oblivion Blight
+16,Creature,Berserker
+17,Creature,Spider
+18,Enchantment,Agony
+19,Creature,Aura Fighter Orc
+20,Enchantment,Haste
+21,Enchantment,Frigid Blight
+22,Creature,Death Fighter Kraken
+23,Spell,Life Sorrow
+24,Creature,Troll
+25,Enchantment,Deathgrip
+26,Enchantment,Shrink
+27,Creature,Magi
+28,Enchantment,Irate Gloom Alacrity
+29,Enchantment,Apocalypse Shade
+30,Creature,Spider
+31,Spell,Heal
+32,Creature,Aura Lord Hydra
+33,Spell,Pandemonium
+34,Enchantment,Age
+35,Enchantment,Shade
+36,Spell,Burn
+37,Spell,Stricken
+38,Creature,Skin-Walker
+39,Creature,Aura Knight Cyclops
+40,Creature,Eagle
+41,Creature,Warlock
+42,Spell,Fury
+43,Enchantment,Drain
+44,Creature,Aura Rogue Dwarf of the Magical Forest

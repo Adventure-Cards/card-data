@@ -1,46 +1,46 @@
-==================,DECK,6404,Medium
-0,Creature,Common,Eagle
-1,Spell,Rare,Solar Gravitation
-2,Creature,Common,Wolf
-3,Enchantment,Common,Shrink
-4,Artifact,Legendary,Instant Ring
-5,Creature,Common,Magi
-6,Creature,Common,Paladin
-7,Spell,Common,Revive
-8,Creature,Rare,Dark Lord Skin-Walker
-9,Creature,Rare,Dark Priest Minotaur
-10,Creature,Rare,Frozen Queen Berserker
-11,Creature,Common,Dwarf
-12,Spell,Rare,Dark Gravitation
-13,Artifact,Rare,Corpse Divine Robe
-14,Spell,Common,Burst
-15,Creature,Common,Orc
-16,Creature,Legendary,Earth Assassin Cyclops of the Bright Mountains
-17,Creature,Rare,Aura Lord Hydra
-18,Enchantment,Rare,Solar Agony
-19,Enchantment,Common,Agony
-20,Creature,Rare,Light Merchant Minotaur
-21,Spell,Rare,Hateful Fury
-22,Artifact,Common,Boots
-23,Creature,Common,Spider
-24,Enchantment,Rare,Nature Haste
-25,Enchantment,Mythic,Mighty Strength
-26,Artifact,Common,Scythe
-27,Enchantment,Rare,Forged Invert
-28,Creature,Legendary,Earth Undead Orge of the Haven
-29,Creature,Legendary,Death Thief Kraken of the Low Hills
-30,Spell,Common,Rage
-31,Spell,Rare,Dark Invisibility
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Elf
-34,Creature,Rare,Aura Merchant Skin-Walker
-35,Creature,Rare,Aura Assassin Minotaur
-36,Artifact,Rare,Corpse Gloves
-37,Spell,Common,Gale
-38,Enchantment,Common,Strength
-39,Enchantment,Common,Alacrity
-40,Artifact,Common,Potion
-41,Creature,Common,Magi
-42,Creature,Rare,Snow Priest Hydra
-43,Creature,Rare,Death Thief Fairy
-44,Artifact,Common,Belt
+==================,DECK,6404
+0,Creature,Eagle
+1,Spell,Shimmering Stricken
+2,Creature,Wolf
+3,Enchantment,Age
+4,Artifact,Clever Necro Ring
+5,Creature,Fairy
+6,Creature,Troll
+7,Spell,Frost
+8,Creature,Dark Lord Orc
+9,Creature,Dark Priest Cyclops
+10,Creature,Frozen Queen Goblin
+11,Creature,Magi
+12,Spell,Cataclysmic Rage
+13,Artifact,Hateful Divine Robe
+14,Spell,Stun
+15,Creature,Spider
+16,Creature,Earth Assassin Giant of the Bright Mountains
+17,Creature,Aura Lord Hydra
+18,Enchantment,Corpse Agony
+19,Enchantment,Age
+20,Creature,Light Merchant Cyclops
+21,Spell,Dark Vortex
+22,Artifact,Boots
+23,Creature,Paladin
+24,Enchantment,Corpse Agony
+25,Enchantment,Instant Cataclysmic Shrink
+26,Artifact,Scythe
+27,Enchantment,Sorrow Shield
+28,Creature,Earth Undead Elf of the Haven
+29,Creature,Death Thief Ogre of the Low Hills
+30,Spell,Fireball
+31,Spell,Gloom Fireball
+32,Enchantment,Invert
+33,Creature,Warlock
+34,Creature,Aura Merchant Orc
+35,Creature,Aura Assassin Cyclops
+36,Artifact,Necro Gloves
+37,Spell,Vortex
+38,Enchantment,Blight
+39,Enchantment,Drain
+40,Artifact,Potion
+41,Creature,Fairy
+42,Creature,Snow Priest Hydra
+43,Creature,Death Thief Kraken
+44,Artifact,Belt

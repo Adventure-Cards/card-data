@@ -1,46 +1,46 @@
-==================,DECK,4248,Light
-0,Artifact,Common,Ghost Wand
-1,Enchantment,Common,Strength
-2,Creature,Common,Warlock
-3,Enchantment,Common,Strength
-4,Spell,Common,Torment
-5,Creature,Rare,Aura Lord Minotaur
-6,Creature,Common,Goblin
-7,Creature,Legendary,Earth King Giant of the West
-8,Creature,Rare,Light Thief Minotaur
-9,Artifact,Legendary,Extreme Shield
-10,Artifact,Common,Boots
-11,Creature,Common,Wolf
-12,Enchantment,Legendary,Instant Shrink
-13,Spell,Rare,Hateful Burst
-14,Enchantment,Common,Haste
-15,Creature,Rare,Earth Fighter Griffin
-16,Enchantment,Common,Shrink
-17,Artifact,Common,Divine Robe
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Magi
-20,Creature,Rare,Frozen Merchant Skin-Walker
-21,Artifact,Common,Cloak
-22,Enchantment,Rare,Apocalypse Deathgrip
-23,Creature,Common,Spider
-24,Enchantment,Common,Lethargy
-25,Creature,Common,Magi
-26,Creature,Common,Ghoul
-27,Creature,Legendary,Earth Priest Kraken of the Mountains
-28,Artifact,Rare,Hateful Bracers
-29,Creature,Common,Wolf
-30,Creature,Common,Dwarf
-31,Creature,Common,Paladin
-32,Enchantment,Common,Lethargy
-33,Spell,Common,Burn
-34,Creature,Legendary,Snow Rogue Kraken of the Eternal Land
-35,Spell,Legendary,Mighty Stricken
-36,Creature,Common,Paladin
-37,Creature,Common,Spider
-38,Creature,Common,Paladin
-39,Spell,Common,Stricken
-40,Spell,Common,Assault
-41,Creature,Common,Goblin
-42,Creature,Rare,Death Warrior Griffin
-43,Spell,Rare,Necro Burn
-44,Creature,Legendary,Aura King Kraken of the Plains
+==================,DECK,4248
+0,Artifact,Ghost Wand
+1,Enchantment,Shrink
+2,Creature,Berserker
+3,Enchantment,Flight
+4,Spell,Ice
+5,Creature,Aura Lord Cyclops
+6,Creature,Skin-Walker
+7,Creature,Earth King Dwarf of the West
+8,Creature,Light Thief Cyclops
+9,Artifact,Empyrean Dark Shield
+10,Artifact,Boots
+11,Creature,Wolf
+12,Enchantment,Zealous Necro Deathgrip
+13,Spell,Dark Tempest
+14,Enchantment,Shrink
+15,Creature,Earth Fighter Griffin
+16,Enchantment,Firebreath
+17,Artifact,Divine Robe
+18,Enchantment,Agony
+19,Creature,Fairy
+20,Creature,Frozen Merchant Orc
+21,Artifact,Cloak
+22,Enchantment,Oblivion Invert
+23,Creature,Paladin
+24,Enchantment,Deathgrip
+25,Creature,Fairy
+26,Creature,Ghoul
+27,Creature,Earth Priest Ogre of the Mountains
+28,Artifact,Gloom Bracers
+29,Creature,Wolf
+30,Creature,Magi
+31,Creature,Troll
+32,Enchantment,Shade
+33,Spell,Maelstrom
+34,Creature,Snow Rogue Ogre of the Eternal Land
+35,Spell,Mighty Cataclysmic Maelstrom
+36,Creature,Troll
+37,Creature,Paladin
+38,Creature,Troll
+39,Spell,Stun
+40,Spell,Vortex
+41,Creature,Skin-Walker
+42,Creature,Death Warrior Griffin
+43,Spell,Corpse Rage
+44,Creature,Aura King Ogre of the Plains

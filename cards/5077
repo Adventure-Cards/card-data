@@ -1,46 +1,46 @@
-==================,DECK,5077,Medium
-0,Creature,Rare,Earth Lord Griffin
-1,Spell,Common,Frost
-2,Creature,Common,Ghoul
-3,Enchantment,Common,Haste
-4,Enchantment,Rare,Grim Strength
-5,Spell,Common,Lightning
-6,Spell,Common,Wall
-7,Enchantment,Mythic,Intense Strength
-8,Creature,Legendary,Light Assassin Oni of the Haven
-9,Enchantment,Mythic,Potent Shield
-10,Spell,Rare,Cataclysmic Ice
-11,Creature,Common,Wolf
-12,Creature,Rare,Earth Knight Fairy
-13,Enchantment,Mythic,Potent Strength
-14,Spell,Common,Ice
-15,Enchantment,Common,Drain
-16,Creature,Common,Wolf
-17,Spell,Legendary,Extreme Infuriate
-18,Creature,Common,Wolf
-19,Creature,Mythic,Aura Grand Demon of the Light
-20,Spell,Legendary,Extreme Revive
-21,Enchantment,Mythic,Potent Flight
-22,Creature,Rare,Frozen Knight Minotaur
-23,Creature,Mythic,Light Grand Demon of the Sky
-24,Creature,Common,Wolf
-25,Enchantment,Common,Deathgrip
-26,Artifact,Rare,Oblivion Ring
-27,Creature,Common,Dwarf
-28,Spell,Common,Vortex
-29,Creature,Common,Warlock
-30,Enchantment,Mythic,Potent Age
-31,Enchantment,Common,Shade
-32,Spell,Common,Rage
-33,Artifact,Common,Gauntlet
-34,Creature,Rare,Light Fighter Skin-Walker
-35,Enchantment,Mythic,Urgent Lethargy
-36,Enchantment,Common,Shade
-37,Spell,Common,Stricken
-38,Creature,Rare,Snow Merchant Fairy
-39,Spell,Common,Burst
-40,Creature,Legendary,Death Lord Oni of the Haven
-41,Enchantment,Common,Shrink
-42,Creature,Rare,Light Assassin Berserker
-43,Creature,Rare,Earth Monk Fairy
-44,Creature,Common,Goblin
+==================,DECK,5077
+0,Creature,Earth Lord Griffin
+1,Spell,Reanimate
+2,Creature,Ghoul
+3,Enchantment,Firebreath
+4,Enchantment,Nimble Drain
+5,Spell,Hypnosis
+6,Spell,Pandemonium
+7,Enchantment,Ardent Solar Lethargy
+8,Creature,Light Assassin Oni of the Haven
+9,Enchantment,Urgent Victory Invert
+10,Spell,Chimeric Revive
+11,Creature,Wolf
+12,Creature,Earth Knight Kraken
+13,Enchantment,Instant Nimble Drain
+14,Spell,Ice
+15,Enchantment,Lethargy
+16,Creature,Wolf
+17,Spell,Potent Dark Wall
+18,Creature,Wolf
+19,Creature,Aura Grand Demon of the Light
+20,Spell,Ardent Chimeric Gravitation
+21,Enchantment,Mighty Grim Invert
+22,Creature,Frozen Knight Cyclops
+23,Creature,Light Grand Demon of the Sky
+24,Creature,Wolf
+25,Enchantment,Flight
+26,Artifact,Apocalypse Ring
+27,Creature,Magi
+28,Spell,Hypnosis
+29,Creature,Berserker
+30,Enchantment,Empyrean Victory Shade
+31,Enchantment,Firebreath
+32,Spell,Rage
+33,Artifact,Gauntlet
+34,Creature,Light Fighter Orc
+35,Enchantment,Ardent Hateful Lethargy
+36,Enchantment,Age
+37,Spell,Stricken
+38,Creature,Snow Merchant Kraken
+39,Spell,Heal
+40,Creature,Death Lord Oni of the Haven
+41,Enchantment,Alacrity
+42,Creature,Light Assassin Goblin
+43,Creature,Earth Monk Kraken
+44,Creature,Skin-Walker

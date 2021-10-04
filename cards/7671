@@ -1,46 +1,46 @@
-==================,DECK,7671,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Dwarf
-2,Creature,Rare,Frozen Queen Fairy
-3,Creature,Common,Eagle
-4,Enchantment,Common,Haste
-5,Creature,Common,Paladin
-6,Creature,Rare,Earth Monk Griffin
-7,Creature,Common,Magi
-8,Artifact,Common,Crown
-9,Creature,Rare,Death Monk Skin-Walker
-10,Spell,Common,Frenzy
-11,Creature,Legendary,Earth Thief Kraken of the Arctic Blizzards
-12,Artifact,Common,Gauntlet
-13,Creature,Legendary,Dark King Giant of the Swamp
-14,Spell,Common,Invisibility
-15,Artifact,Common,Pendant
-16,Creature,Rare,Snow Knight Hydra
-17,Spell,Common,Vortex
-18,Creature,Common,Orc
-19,Creature,Rare,Frozen Fighter Griffin
-20,Creature,Common,Ghoul
-21,Spell,Common,Gravitation
-22,Enchantment,Common,Shrink
-23,Spell,Common,Rage
-24,Creature,Mythic,Death Grand Demon of the Dead
-25,Enchantment,Mythic,Dire Flight
-26,Creature,Common,Goblin
-27,Creature,Legendary,Aura Assassin Oni of the Arctic Blizzards
-28,Enchantment,Common,Lethargy
-29,Spell,Legendary,Angry Stun
-30,Spell,Common,Revive
-31,Enchantment,Common,Deathgrip
-32,Creature,Legendary,Aura Merchant Oni of the Golden Palace
-33,Enchantment,Rare,Oblivion Shield
-34,Enchantment,Common,Agony
-35,Creature,Common,Spider
-36,Spell,Legendary,Clever Infuriate
-37,Creature,Common,Warlock
-38,Creature,Common,Spider
-39,Enchantment,Mythic,Dire Age
-40,Creature,Common,Elf
-41,Enchantment,Common,Lethargy
-42,Enchantment,Rare,Necro Flight
-43,Artifact,Common,Ghost Wand
-44,Artifact,Common,Belt
+==================,DECK,7671
+0,Creature,Troll
+1,Creature,Magi
+2,Creature,Frozen Queen Kraken
+3,Creature,Eagle
+4,Enchantment,Agony
+5,Creature,Troll
+6,Creature,Earth Monk Griffin
+7,Creature,Fairy
+8,Artifact,Crown
+9,Creature,Death Monk Orc
+10,Spell,Torment
+11,Creature,Earth Thief Ogre of the Arctic Blizzards
+12,Artifact,Gauntlet
+13,Creature,Dark King Dwarf of the Swamp
+14,Spell,Burn
+15,Artifact,Pendant
+16,Creature,Snow Knight Hydra
+17,Spell,Stricken
+18,Creature,Spider
+19,Creature,Frozen Fighter Griffin
+20,Creature,Ghoul
+21,Spell,Fireball
+22,Enchantment,Haste
+23,Spell,Stun
+24,Creature,Death Grand Demon of the Dead
+25,Enchantment,Empyrean Grim Shade
+26,Creature,Skin-Walker
+27,Creature,Aura Assassin Oni of the Arctic Blizzards
+28,Enchantment,Firebreath
+29,Spell,Mighty Gloom Wall
+30,Spell,Stun
+31,Enchantment,Lethargy
+32,Creature,Aura Merchant Oni of the Golden Palace
+33,Enchantment,Victory Drain
+34,Enchantment,Shade
+35,Creature,Paladin
+36,Spell,Zealous Apocalypse Assault
+37,Creature,Berserker
+38,Creature,Paladin
+39,Enchantment,Mighty Victory Invert
+40,Creature,Warlock
+41,Enchantment,Haste
+42,Enchantment,Hateful Strength
+43,Artifact,Ghost Wand
+44,Artifact,Belt

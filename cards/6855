@@ -1,46 +1,46 @@
-==================,DECK,6855,Light
-0,Spell,Common,Sorrow
-1,Creature,Common,Wolf
-2,Creature,Legendary,Dark Merchant Giant of the Haven
-3,Artifact,Legendary,Clever Helm
-4,Creature,Common,Spider
-5,Enchantment,Common,Shade
-6,Creature,Common,Warlock
-7,Creature,Common,Dwarf
-8,Spell,Legendary,Dire Ice
-9,Creature,Common,Warlock
-10,Creature,Common,Wolf
-11,Creature,Common,Orc
-12,Creature,Legendary,Frozen Undead Giant of the Frozen Castle
-13,Artifact,Legendary,Instant Crown
-14,Enchantment,Common,Shrink
-15,Creature,Legendary,Earth Merchant Orge of the Bright Mountains
-16,Enchantment,Legendary,Potent Agony
-17,Creature,Common,Elf
-18,Artifact,Common,Bracers
-19,Spell,Common,Stricken
-20,Creature,Common,Eagle
-21,Creature,Common,Spider
-22,Spell,Common,Assault
-23,Spell,Common,Invisibility
-24,Creature,Common,Orc
-25,Enchantment,Rare,Apocalypse Deathgrip
-26,Creature,Common,Wolf
-27,Creature,Legendary,Death Monk Cyclops of the Eternal Land
-28,Spell,Common,Pandemonium
-29,Creature,Common,Paladin
-30,Creature,Rare,Light Priest Hydra
-31,Enchantment,Legendary,Intense Shade
-32,Spell,Common,Stricken
-33,Enchantment,Common,Shade
-34,Creature,Legendary,Light Thief Giant of the Swamp
-35,Spell,Rare,Gloom Torment
-36,Enchantment,Common,Drain
-37,Spell,Common,Freeze
-38,Enchantment,Common,Agony
-39,Enchantment,Common,Shield
-40,Creature,Rare,Dark Queen Griffin
-41,Artifact,Common,Helmet
-42,Artifact,Rare,Apocalypse Sword
-43,Creature,Common,Warlock
-44,Creature,Common,Spider
+==================,DECK,6855
+0,Spell,Revive
+1,Creature,Wolf
+2,Creature,Dark Merchant Dwarf of the Haven
+3,Artifact,Dire Life Helm
+4,Creature,Paladin
+5,Enchantment,Lethargy
+6,Creature,Berserker
+7,Creature,Magi
+8,Spell,Potent Frigid Ice
+9,Creature,Berserker
+10,Creature,Wolf
+11,Creature,Spider
+12,Creature,Frozen Undead Dwarf of the Frozen Castle
+13,Artifact,Irate Solar Crown
+14,Enchantment,Shrink
+15,Creature,Earth Merchant Elf of the Bright Mountains
+16,Enchantment,Ardent Life Haste
+17,Creature,Warlock
+18,Artifact,Bracers
+19,Spell,Fire
+20,Creature,Eagle
+21,Creature,Paladin
+22,Spell,Frost
+23,Spell,Sorrow
+24,Creature,Spider
+25,Enchantment,Oblivion Invert
+26,Creature,Wolf
+27,Creature,Death Monk Giant of the Eternal Land
+28,Spell,Frenzy
+29,Creature,Troll
+30,Creature,Light Priest Hydra
+31,Enchantment,Instant Necro Strength
+32,Spell,Burn
+33,Enchantment,Shield
+34,Creature,Light Thief Dwarf of the Swamp
+35,Spell,Gloom Infuriate
+36,Enchantment,Strength
+37,Spell,Stun
+38,Enchantment,Deathgrip
+39,Enchantment,Alacrity
+40,Creature,Dark Queen Griffin
+41,Artifact,Helmet
+42,Artifact,Frigid Sword
+43,Creature,Berserker
+44,Creature,Paladin

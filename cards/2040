@@ -1,48 +1,4 @@
-0,Creature,Magi
-1,Creature,Magi
-2,Creature,Warlock
-3,Creature,Magi
-4,Enchantment,Deathgrip
-5,Enchantment,Deathgrip
-6,Spell,Grim Revive
-7,Creature,Ghoul
-8,Spell,Burst
-9,Creature,Dark Monk Giant of the Swamp
-10,Creature,Magi
-11,Enchantment,Drain
-12,Spell,Burn
-13,Creature,Death Fighter Dwarf of the Mountains
-14,Creature,Eagle
-15,Enchantment,Firebreath
-16,Creature,Magi
-17,Enchantment,Shade
-18,Creature,Troll
-19,Creature,Light Lord Oni of the Frozen Castle
-20,Artifact,Crown
-21,Creature,Fairy
-22,Creature,Dark King Griffin
-23,Creature,Aura Lord Hydra
-24,Creature,Wolf
-25,Creature,Fairy
-26,Spell,Nimble Torment
-27,Creature,Magi
-28,Creature,Magi
-29,Spell,Freeze
-30,Enchantment,Ardent Necro Lethargy
-31,Enchantment,Haste
-32,Artifact,Boots
-33,Creature,Snow Assassin Giant of the Golden Palace
-34,Creature,Berserker
-35,Creature,Berserker
-36,Creature,Snow Warrior Hydra
-37,Spell,Solar Fury
-38,Creature,Death Monk Giant of the Magical Forest
-39,Creature,Fairy
-40,Spell,Invisibility
-41,Creature,Light Merchant Orc
-42,Creature,Frozen Assassin Goblin
-43,Creature,Frozen Priest Giant of the Black Stone
-44,Creature,Skin-Walker
+==================,DECK,2040
 0,Creature,Magi
 1,Creature,Magi
 2,Creature,Warlock

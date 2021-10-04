@@ -1,46 +1,46 @@
-==================,DECK,5803,Light
-0,Enchantment,Common,Age
-1,Spell,Rare,Apocalypse Stricken
-2,Creature,Rare,Frozen Undead Griffin
-3,Spell,Common,Sorrow
-4,Creature,Common,Dwarf
-5,Creature,Common,Eagle
-6,Creature,Common,Paladin
-7,Creature,Common,Orc
-8,Artifact,Common,Helmet
-9,Spell,Common,Assault
-10,Creature,Common,Dwarf
-11,Spell,Common,Sorrow
-12,Spell,Common,Invisibility
-13,Spell,Rare,Shimmering Reanimate
-14,Enchantment,Common,Shade
-15,Spell,Rare,Hateful Infuriate
-16,Artifact,Common,Greaves
-17,Spell,Rare,Forged Invisibility
-18,Artifact,Common,Amulet
-19,Creature,Rare,Dark Lord Skin-Walker
-20,Enchantment,Common,Shade
-21,Creature,Common,Spider
-22,Creature,Common,Elf
-23,Spell,Common,Gale
-24,Enchantment,Mythic,Extreme Deathgrip
-25,Artifact,Common,Divine Robe
-26,Creature,Common,Dwarf
-27,Spell,Common,Ice
-28,Enchantment,Common,Drain
-29,Creature,Common,Eagle
-30,Creature,Common,Dwarf
-31,Spell,Common,Ice
-32,Creature,Common,Eagle
-33,Artifact,Rare,Corpse Tome
-34,Creature,Common,Magi
-35,Creature,Common,Paladin
-36,Enchantment,Rare,Corpse Agony
-37,Creature,Common,Goblin
-38,Creature,Rare,Frozen Thief Griffin
-39,Creature,Common,Dwarf
-40,Enchantment,Mythic,Urgent Shrink
-41,Creature,Common,Elf
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Legendary,Urgent Shield
-44,Creature,Rare,Frozen Knight Fairy
+==================,DECK,5803
+0,Enchantment,Drain
+1,Spell,Nimble Wall
+2,Creature,Frozen Undead Griffin
+3,Spell,Reanimate
+4,Creature,Magi
+5,Creature,Eagle
+6,Creature,Troll
+7,Creature,Spider
+8,Artifact,Helmet
+9,Spell,Lightning
+10,Creature,Magi
+11,Spell,Reanimate
+12,Spell,Fireball
+13,Spell,Nature Burst
+14,Enchantment,Deathgrip
+15,Spell,Gloom Lightning
+16,Artifact,Greaves
+17,Spell,Sorrow Hypnosis
+18,Artifact,Amulet
+19,Creature,Dark Lord Orc
+20,Enchantment,Age
+21,Creature,Paladin
+22,Creature,Warlock
+23,Spell,Invisibility
+24,Enchantment,Empyrean Sorrow Firebreath
+25,Artifact,Divine Robe
+26,Creature,Magi
+27,Spell,Assault
+28,Enchantment,Lethargy
+29,Creature,Eagle
+30,Creature,Magi
+31,Spell,Maelstrom
+32,Creature,Eagle
+33,Artifact,Hateful Tome
+34,Creature,Fairy
+35,Creature,Troll
+36,Enchantment,Corpse Age
+37,Creature,Skin-Walker
+38,Creature,Frozen Thief Griffin
+39,Creature,Magi
+40,Enchantment,Zealous Necro Deathgrip
+41,Creature,Warlock
+42,Enchantment,Age
+43,Enchantment,Irate Nature Deathgrip
+44,Creature,Frozen Knight Kraken

@@ -1,46 +1,46 @@
-==================,DECK,6083,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Wolf
-2,Spell,Rare,Forged Frenzy
-3,Spell,Rare,Gloom Wall
-4,Creature,Rare,Aura Assassin Hydra
-5,Enchantment,Common,Shade
-6,Enchantment,Common,Shield
-7,Creature,Common,Orc
-8,Artifact,Common,Sigil
-9,Enchantment,Common,Alacrity
-10,Spell,Common,Stun
-11,Spell,Common,Infuriate
-12,Artifact,Rare,Life Scepter
-13,Creature,Rare,Snow Rogue Griffin
-14,Creature,Legendary,Dark King Kraken of the Polar Woods
-15,Enchantment,Common,Shield
-16,Creature,Common,Elf
-17,Creature,Common,Elf
-18,Spell,Common,Vortex
-19,Artifact,Common,Gauntlet
-20,Creature,Legendary,Snow Knight Cyclops of the Low Hills
-21,Spell,Common,Maelstrom
-22,Creature,Common,Magi
-23,Creature,Rare,Frozen Assassin Hydra
-24,Spell,Rare,Gloom Wall
-25,Enchantment,Mythic,Urgent Blight
-26,Artifact,Common,Ring
-27,Spell,Common,Assault
-28,Artifact,Common,Ghost Wand
-29,Creature,Mythic,Dark Ancient Demon of Illusion
-30,Creature,Rare,Light King Minotaur
-31,Artifact,Common,Bow
-32,Spell,Legendary,Instant Wall
-33,Enchantment,Common,Flight
-34,Creature,Common,Spider
-35,Creature,Legendary,Aura Rogue Cyclops of the Low Hills
-36,Creature,Common,Magi
-37,Artifact,Common,Divine Robe
-38,Creature,Common,Magi
-39,Creature,Common,Ghoul
-40,Creature,Rare,Dark Fighter Minotaur
-41,Creature,Rare,Light Lord Fairy
-42,Artifact,Common,Helmet
-43,Spell,Common,Heal
-44,Creature,Common,Orc
+==================,DECK,6083
+0,Enchantment,Agony
+1,Creature,Wolf
+2,Spell,Lunar Sorrow
+3,Spell,Gloom Infuriate
+4,Creature,Aura Assassin Hydra
+5,Enchantment,Age
+6,Enchantment,Drain
+7,Creature,Spider
+8,Artifact,Sigil
+9,Enchantment,Shade
+10,Spell,Freeze
+11,Spell,Assault
+12,Artifact,Oblivion Scepter
+13,Creature,Snow Rogue Griffin
+14,Creature,Dark King Ogre of the Polar Woods
+15,Enchantment,Haste
+16,Creature,Warlock
+17,Creature,Warlock
+18,Spell,Tempest
+19,Artifact,Gauntlet
+20,Creature,Snow Knight Giant of the Low Hills
+21,Spell,Lightning
+22,Creature,Fairy
+23,Creature,Frozen Assassin Hydra
+24,Spell,Cataclysmic Gravitation
+25,Enchantment,Clever Solar Lethargy
+26,Artifact,Ring
+27,Spell,Rage
+28,Artifact,Ghost Wand
+29,Creature,Dark Ancient Demon of Illusion
+30,Creature,Light King Cyclops
+31,Artifact,Bow
+32,Spell,Irate Shimmering Fire
+33,Enchantment,Firebreath
+34,Creature,Paladin
+35,Creature,Aura Rogue Giant of the Low Hills
+36,Creature,Fairy
+37,Artifact,Divine Robe
+38,Creature,Fairy
+39,Creature,Ghoul
+40,Creature,Dark Fighter Cyclops
+41,Creature,Light Lord Kraken
+42,Artifact,Helmet
+43,Spell,Stun
+44,Creature,Spider

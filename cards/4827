@@ -1,46 +1,46 @@
-==================,DECK,4827,Light
-0,Spell,Rare,Apocalypse Burn
-1,Creature,Common,Magi
-2,Artifact,Common,Helm
-3,Spell,Common,Revive
-4,Spell,Rare,Miracle Hypnosis
-5,Creature,Mythic,Aura Undead Phoenix of the Light
-6,Enchantment,Common,Deathgrip
-7,Spell,Common,Lightning
-8,Creature,Rare,Earth Thief Griffin
-9,Artifact,Common,Pendant
-10,Creature,Rare,Earth Priest Griffin
-11,Creature,Common,Magi
-12,Creature,Common,Eagle
-13,Creature,Common,Goblin
-14,Enchantment,Mythic,Mighty Drain
-15,Creature,Common,Magi
-16,Artifact,Legendary,Urgent Gauntlet
-17,Enchantment,Legendary,Urgent Deathgrip
-18,Creature,Common,Paladin
-19,Creature,Mythic,Dark Chaos Demon of Illusion
-20,Creature,Common,Ghoul
-21,Creature,Common,Ghoul
-22,Creature,Common,Paladin
-23,Spell,Common,Sorrow
-24,Creature,Common,Dwarf
-25,Creature,Common,Spider
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Orc
-28,Creature,Common,Spider
-29,Creature,Common,Goblin
-30,Creature,Common,Orc
-31,Creature,Mythic,Frozen Nameless Phoenix of the Void
-32,Creature,Rare,Light Assassin Fairy
-33,Artifact,Common,Gloves
-34,Creature,Common,Goblin
-35,Artifact,Common,Bracers
-36,Creature,Common,Warlock
-37,Creature,Rare,Earth Lord Hydra
-38,Creature,Legendary,Snow Assassin Kraken of the Polar Woods
-39,Artifact,Common,Shield
-40,Enchantment,Rare,Frigid Shield
-41,Creature,Common,Spider
-42,Enchantment,Common,Blight
-43,Enchantment,Rare,Oblivion Lethargy
-44,Creature,Rare,Light Monk Hydra
+==================,DECK,4827
+0,Spell,Oblivion Burst
+1,Creature,Fairy
+2,Artifact,Helm
+3,Spell,Burst
+4,Spell,Nimble Tempest
+5,Creature,Aura Undead Phoenix of the Light
+6,Enchantment,Invert
+7,Spell,Heal
+8,Creature,Earth Thief Griffin
+9,Artifact,Pendant
+10,Creature,Earth Priest Griffin
+11,Creature,Fairy
+12,Creature,Eagle
+13,Creature,Skin-Walker
+14,Enchantment,Potent Dark Shrink
+15,Creature,Fairy
+16,Artifact,Clever Necro Gauntlet
+17,Enchantment,Empyrean Shimmering Age
+18,Creature,Troll
+19,Creature,Dark Chaos Demon of Illusion
+20,Creature,Ghoul
+21,Creature,Ghoul
+22,Creature,Troll
+23,Spell,Stun
+24,Creature,Magi
+25,Creature,Paladin
+26,Enchantment,Shield
+27,Creature,Spider
+28,Creature,Paladin
+29,Creature,Skin-Walker
+30,Creature,Spider
+31,Creature,Frozen Nameless Phoenix of the Void
+32,Creature,Light Assassin Kraken
+33,Artifact,Gloves
+34,Creature,Skin-Walker
+35,Artifact,Bracers
+36,Creature,Berserker
+37,Creature,Earth Lord Hydra
+38,Creature,Snow Assassin Ogre of the Polar Woods
+39,Artifact,Shield
+40,Enchantment,Victory Haste
+41,Creature,Paladin
+42,Enchantment,Agony
+43,Enchantment,Grim Blight
+44,Creature,Light Monk Hydra

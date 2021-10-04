@@ -1,46 +1,46 @@
-==================,DECK,7795,Light
-0,Creature,Common,Magi
-1,Creature,Legendary,Dark Warrior Cyclops of the Plains
-2,Creature,Common,Paladin
-3,Spell,Common,Gale
-4,Spell,Rare,Solar Freeze
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Haste
-7,Enchantment,Common,Shade
-8,Artifact,Common,Ghost Wand
-9,Creature,Common,Ghoul
-10,Creature,Common,Spider
-11,Enchantment,Rare,Solar Shield
-12,Creature,Common,Wolf
-13,Creature,Common,Magi
-14,Artifact,Rare,Oblivion Helm
-15,Creature,Rare,Snow King Fairy
-16,Enchantment,Rare,Life Blight
-17,Enchantment,Common,Lethargy
-18,Spell,Common,Stricken
-19,Enchantment,Common,Shield
-20,Enchantment,Rare,Apocalypse Haste
-21,Spell,Common,Burst
-22,Enchantment,Common,Strength
-23,Creature,Common,Orc
-24,Creature,Rare,Dark Rogue Hydra
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Shield
-27,Creature,Common,Eagle
-28,Enchantment,Rare,Nimble Shield
-29,Enchantment,Common,Age
-30,Creature,Mythic,Death Undead Dragon of the Dead
-31,Creature,Legendary,Frozen Monk Giant of the Polar Woods
-32,Creature,Rare,Aura Queen Minotaur
-33,Creature,Rare,Snow Queen Griffin
-34,Spell,Common,Burst
-35,Spell,Common,Freeze
-36,Artifact,Common,Amulet
-37,Artifact,Common,Ring
-38,Creature,Common,Orc
-39,Creature,Common,Goblin
-40,Creature,Common,Goblin
-41,Spell,Common,Hypnosis
-42,Creature,Common,Warlock
-43,Creature,Common,Warlock
-44,Creature,Common,Goblin
+==================,DECK,7795
+0,Creature,Fairy
+1,Creature,Dark Warrior Giant of the Plains
+2,Creature,Troll
+3,Spell,Burst
+4,Spell,Nature Sorrow
+5,Creature,Ghoul
+6,Enchantment,Strength
+7,Enchantment,Strength
+8,Artifact,Ghost Wand
+9,Creature,Ghoul
+10,Creature,Paladin
+11,Enchantment,Nature Agony
+12,Creature,Wolf
+13,Creature,Fairy
+14,Artifact,Life Helm
+15,Creature,Snow King Kraken
+16,Enchantment,Nimble Blight
+17,Enchantment,Shade
+18,Spell,Revive
+19,Enchantment,Agony
+20,Enchantment,Life Invert
+21,Spell,Sorrow
+22,Enchantment,Lethargy
+23,Creature,Spider
+24,Creature,Dark Rogue Hydra
+25,Creature,Ghoul
+26,Enchantment,Strength
+27,Creature,Eagle
+28,Enchantment,Nature Lethargy
+29,Enchantment,Deathgrip
+30,Creature,Death Undead Dragon of the Dead
+31,Creature,Frozen Monk Dwarf of the Polar Woods
+32,Creature,Aura Queen Cyclops
+33,Creature,Snow Queen Griffin
+34,Spell,Frost
+35,Spell,Infuriate
+36,Artifact,Amulet
+37,Artifact,Ring
+38,Creature,Spider
+39,Creature,Skin-Walker
+40,Creature,Skin-Walker
+41,Spell,Sorrow
+42,Creature,Berserker
+43,Creature,Berserker
+44,Creature,Skin-Walker

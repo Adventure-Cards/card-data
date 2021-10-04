@@ -1,46 +1,46 @@
-==================,DECK,4403,Medium
-0,Creature,Rare,Light Warrior Berserker
-1,Enchantment,Common,Alacrity
-2,Creature,Common,Ghoul
-3,Creature,Common,Ghoul
-4,Creature,Common,Spider
-5,Creature,Common,Warlock
-6,Enchantment,Common,Shield
-7,Enchantment,Mythic,Potent Strength
-8,Creature,Common,Spider
-9,Creature,Common,Goblin
-10,Spell,Common,Sorrow
-11,Artifact,Common,Scepter
-12,Enchantment,Legendary,Potent Age
-13,Creature,Common,Ghoul
-14,Creature,Common,Paladin
-15,Artifact,Common,Sigil
-16,Enchantment,Mythic,Urgent Flight
-17,Artifact,Common,Divine Robe
-18,Spell,Common,Freeze
-19,Creature,Mythic,Death Grand Demon of the Dead
-20,Creature,Common,Paladin
-21,Enchantment,Mythic,Potent Flight
-22,Creature,Common,Elf
-23,Creature,Common,Eagle
-24,Creature,Rare,Death Monk Minotaur
-25,Artifact,Common,Bracers
-26,Creature,Mythic,Light Chaos Demon of the Sky
-27,Creature,Common,Eagle
-28,Creature,Rare,Snow Monk Minotaur
-29,Enchantment,Rare,Apocalypse Blight
-30,Creature,Common,Eagle
-31,Spell,Common,Freeze
-32,Creature,Common,Orc
-33,Spell,Common,Lightning
-34,Creature,Mythic,Death Chaos Wizard of the Dead
-35,Creature,Legendary,Aura Fighter Kraken of the West
-36,Spell,Rare,Life Burn
-37,Creature,Legendary,Aura Thief Giant of the Arctic Blizzards
-38,Creature,Rare,Frozen Warrior Griffin
-39,Creature,Common,Ghoul
-40,Creature,Legendary,Frozen Monk Kraken of the Polar Woods
-41,Spell,Common,Pandemonium
-42,Creature,Rare,Dark Priest Hydra
-43,Spell,Legendary,Angry Infuriate
-44,Enchantment,Mythic,Instant Age
+==================,DECK,4403
+0,Creature,Light Warrior Goblin
+1,Enchantment,Agony
+2,Creature,Ghoul
+3,Creature,Ghoul
+4,Creature,Paladin
+5,Creature,Berserker
+6,Enchantment,Blight
+7,Enchantment,Instant Nimble Drain
+8,Creature,Paladin
+9,Creature,Skin-Walker
+10,Spell,Wall
+11,Artifact,Scepter
+12,Enchantment,Zealous Victory Blight
+13,Creature,Ghoul
+14,Creature,Troll
+15,Artifact,Sigil
+16,Enchantment,Mighty Hateful Agony
+17,Artifact,Divine Robe
+18,Spell,Gravitation
+19,Creature,Death Grand Demon of the Dead
+20,Creature,Troll
+21,Enchantment,Clever Grim Haste
+22,Creature,Warlock
+23,Creature,Eagle
+24,Creature,Death Monk Cyclops
+25,Artifact,Bracers
+26,Creature,Light Chaos Demon of the Sky
+27,Creature,Eagle
+28,Creature,Snow Monk Cyclops
+29,Enchantment,Nimble Blight
+30,Creature,Eagle
+31,Spell,Maelstrom
+32,Creature,Spider
+33,Spell,Gravitation
+34,Creature,Death Chaos Wizard of the Dead
+35,Creature,Aura Fighter Ogre of the West
+36,Spell,Nimble Tempest
+37,Creature,Aura Thief Dwarf of the Arctic Blizzards
+38,Creature,Frozen Warrior Griffin
+39,Creature,Ghoul
+40,Creature,Frozen Monk Ogre of the Polar Woods
+41,Spell,Sorrow
+42,Creature,Dark Priest Hydra
+43,Spell,Potent Miracle Fury
+44,Enchantment,Empyrean Nature Age

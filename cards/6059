@@ -1,46 +1,46 @@
-==================,DECK,6059,Light
-0,Artifact,Rare,Necro Crown
-1,Creature,Common,Ghoul
-2,Artifact,Common,Ring
-3,Artifact,Legendary,Instant Crown
-4,Artifact,Common,Sword
-5,Creature,Common,Orc
-6,Enchantment,Mythic,Instant Shade
-7,Enchantment,Rare,Nimble Shield
-8,Spell,Rare,Nature Fury
-9,Spell,Common,Heal
-10,Creature,Rare,Snow King Berserker
-11,Creature,Common,Magi
-12,Artifact,Common,Ghost Wand
-13,Spell,Rare,Nature Stun
-14,Creature,Common,Dwarf
-15,Spell,Common,Infuriate
-16,Creature,Common,Orc
-17,Creature,Rare,Frozen Queen Skin-Walker
-18,Spell,Common,Frenzy
-19,Enchantment,Mythic,Urgent Alacrity
-20,Creature,Rare,Snow Assassin Fairy
-21,Creature,Common,Paladin
-22,Creature,Rare,Light Assassin Hydra
-23,Enchantment,Common,Lethargy
-24,Creature,Common,Wolf
-25,Enchantment,Common,Agony
-26,Spell,Common,Frenzy
-27,Creature,Common,Wolf
-28,Creature,Common,Paladin
-29,Artifact,Rare,Nature Potion
-30,Creature,Common,Wolf
-31,Artifact,Legendary,Mighty Scythe
-32,Spell,Common,Lightning
-33,Enchantment,Common,Alacrity
-34,Spell,Legendary,Potent Lightning
-35,Creature,Rare,Snow Merchant Skin-Walker
-36,Artifact,Rare,Grim Helmet
-37,Creature,Common,Warlock
-38,Creature,Common,Orc
-39,Creature,Common,Ghoul
-40,Enchantment,Common,Haste
-41,Artifact,Legendary,Urgent Gloves
-42,Creature,Common,Elf
-43,Enchantment,Common,Agony
-44,Creature,Rare,Dark Fighter Fairy
+==================,DECK,6059
+0,Artifact,Shimmering Crown
+1,Creature,Ghoul
+2,Artifact,Ring
+3,Artifact,Irate Nature Crown
+4,Artifact,Sword
+5,Creature,Spider
+6,Enchantment,Urgent Necro Agony
+7,Enchantment,Nature Age
+8,Spell,Solar Invisibility
+9,Spell,Gale
+10,Creature,Snow King Goblin
+11,Creature,Fairy
+12,Artifact,Ghost Wand
+13,Spell,Necro Invisibility
+14,Creature,Magi
+15,Spell,Pandemonium
+16,Creature,Spider
+17,Creature,Frozen Queen Orc
+18,Spell,Assault
+19,Enchantment,Dire Forged Age
+20,Creature,Snow Assassin Kraken
+21,Creature,Troll
+22,Creature,Light Assassin Hydra
+23,Enchantment,Firebreath
+24,Creature,Wolf
+25,Enchantment,Alacrity
+26,Spell,Fury
+27,Creature,Wolf
+28,Creature,Troll
+29,Artifact,Forged Potion
+30,Creature,Wolf
+31,Artifact,Dire Dark Scythe
+32,Spell,Fury
+33,Enchantment,Firebreath
+34,Spell,Ardent Oblivion Fire
+35,Creature,Snow Merchant Orc
+36,Artifact,Nimble Helmet
+37,Creature,Berserker
+38,Creature,Spider
+39,Creature,Ghoul
+40,Enchantment,Agony
+41,Artifact,Instant Hateful Gloves
+42,Creature,Warlock
+43,Enchantment,Lethargy
+44,Creature,Dark Fighter Kraken

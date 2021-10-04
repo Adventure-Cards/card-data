@@ -1,46 +1,46 @@
-==================,DECK,5700,Medium
-0,Enchantment,Mythic,Potent Lethargy
-1,Creature,Legendary,Dark Rogue Kraken of the Plains
-2,Creature,Common,Magi
-3,Creature,Common,Spider
-4,Spell,Common,Rage
-5,Creature,Legendary,Light Merchant Oni of the Plains
-6,Creature,Common,Warlock
-7,Creature,Common,Goblin
-8,Creature,Common,Paladin
-9,Creature,Common,Eagle
-10,Creature,Common,Dwarf
-11,Enchantment,Legendary,Extreme Lethargy
-12,Creature,Common,Dwarf
-13,Creature,Rare,Snow Priest Minotaur
-14,Artifact,Rare,Necro Crown
-15,Artifact,Rare,Dark Cloak
-16,Enchantment,Rare,Shimmering Deathgrip
-17,Spell,Common,Hypnosis
-18,Creature,Common,Eagle
-19,Creature,Common,Wolf
-20,Spell,Legendary,Intense Vortex
-21,Enchantment,Legendary,Clever Lethargy
-22,Creature,Mythic,Frozen Ancient Demon of the Void
-23,Artifact,Rare,Solar Greaves
-24,Artifact,Common,Sword
-25,Spell,Common,Pandemonium
-26,Artifact,Rare,Miracle Belt
-27,Artifact,Common,Scythe
-28,Creature,Rare,Snow Warrior Skin-Walker
-29,Enchantment,Rare,Gloom Alacrity
-30,Creature,Rare,Dark Priest Hydra
-31,Spell,Common,Pandemonium
-32,Creature,Rare,Earth Undead Berserker
-33,Spell,Legendary,Potent Ice
-34,Enchantment,Rare,Gloom Alacrity
-35,Creature,Rare,Frozen Undead Berserker
-36,Artifact,Rare,Shimmering Crown
-37,Artifact,Legendary,Extreme Bracers
-38,Spell,Rare,Necro Stun
-39,Enchantment,Rare,Nature Drain
-40,Creature,Mythic,Death Grand Wizard of the Dead
-41,Creature,Common,Orc
-42,Creature,Rare,Aura Knight Minotaur
-43,Spell,Common,Gale
-44,Creature,Legendary,Death Monk Giant of the Swamp
+==================,DECK,5700
+0,Enchantment,Ardent Grim Haste
+1,Creature,Dark Rogue Ogre of the Plains
+2,Creature,Fairy
+3,Creature,Paladin
+4,Spell,Reanimate
+5,Creature,Light Merchant Oni of the Plains
+6,Creature,Berserker
+7,Creature,Skin-Walker
+8,Creature,Troll
+9,Creature,Eagle
+10,Creature,Magi
+11,Enchantment,Urgent Lunar Flight
+12,Creature,Magi
+13,Creature,Snow Priest Cyclops
+14,Artifact,Hateful Crown
+15,Artifact,Chimeric Cloak
+16,Enchantment,Shimmering Age
+17,Spell,Frenzy
+18,Creature,Eagle
+19,Creature,Wolf
+20,Spell,Ardent Necro Fireball
+21,Enchantment,Dire Grim Shade
+22,Creature,Frozen Ancient Demon of the Void
+23,Artifact,Solar Greaves
+24,Artifact,Sword
+25,Spell,Invisibility
+26,Artifact,Grim Belt
+27,Artifact,Scythe
+28,Creature,Snow Warrior Orc
+29,Enchantment,Dark Alacrity
+30,Creature,Dark Priest Hydra
+31,Spell,Revive
+32,Creature,Earth Undead Goblin
+33,Spell,Mighty Victory Hypnosis
+34,Enchantment,Dark Shrink
+35,Creature,Frozen Undead Goblin
+36,Artifact,Shimmering Crown
+37,Artifact,Irate Miracle Bracers
+38,Spell,Shimmering Fireball
+39,Enchantment,Forged Agony
+40,Creature,Death Grand Wizard of the Dead
+41,Creature,Spider
+42,Creature,Aura Knight Cyclops
+43,Spell,Frost
+44,Creature,Death Monk Dwarf of the Swamp

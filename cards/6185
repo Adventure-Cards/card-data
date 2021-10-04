@@ -1,46 +1,46 @@
-==================,DECK,6185,Light
-0,Creature,Common,Magi
-1,Creature,Common,Ghoul
-2,Enchantment,Legendary,Intense Haste
-3,Enchantment,Rare,Corpse Strength
-4,Artifact,Common,Sigil
-5,Spell,Common,Infuriate
-6,Spell,Legendary,Angry Ice
-7,Artifact,Common,Shield
-8,Creature,Common,Wolf
-9,Creature,Legendary,Frozen Rogue Oni of the Low Hills
-10,Enchantment,Common,Shield
-11,Creature,Common,Paladin
-12,Creature,Common,Dwarf
-13,Enchantment,Common,Flight
-14,Creature,Common,Elf
-15,Creature,Rare,Earth Monk Fairy
-16,Enchantment,Rare,Solar Shield
-17,Spell,Common,Sorrow
-18,Spell,Rare,Oblivion Rage
-19,Enchantment,Common,Drain
-20,Spell,Common,Reanimate
-21,Creature,Common,Orc
-22,Artifact,Common,Bow
-23,Enchantment,Common,Shade
-24,Creature,Common,Orc
-25,Creature,Common,Eagle
-26,Creature,Common,Eagle
-27,Creature,Common,Wolf
-28,Spell,Legendary,Extreme Assault
-29,Creature,Rare,Dark Knight Fairy
-30,Enchantment,Common,Shade
-31,Creature,Common,Orc
-32,Enchantment,Common,Shade
-33,Creature,Legendary,Earth Priest Oni of the Eastern Skies
-34,Creature,Rare,Death Queen Griffin
-35,Creature,Common,Dwarf
-36,Spell,Rare,Solar Heal
-37,Creature,Common,Elf
-38,Artifact,Common,Pendant
-39,Enchantment,Common,Alacrity
-40,Spell,Rare,Gloom Gravitation
-41,Spell,Common,Frenzy
-42,Spell,Rare,Frigid Frost
-43,Creature,Common,Paladin
-44,Creature,Common,Warlock
+==================,DECK,6185
+0,Creature,Fairy
+1,Creature,Ghoul
+2,Enchantment,Potent Corpse Strength
+3,Enchantment,Solar Age
+4,Artifact,Sigil
+5,Spell,Maelstrom
+6,Spell,Clever Lunar Burst
+7,Artifact,Shield
+8,Creature,Wolf
+9,Creature,Frozen Rogue Oni of the Low Hills
+10,Enchantment,Shade
+11,Creature,Troll
+12,Creature,Magi
+13,Enchantment,Agony
+14,Creature,Warlock
+15,Creature,Earth Monk Kraken
+16,Enchantment,Nature Agony
+17,Spell,Fury
+18,Spell,Frigid Stricken
+19,Enchantment,Alacrity
+20,Spell,Gale
+21,Creature,Spider
+22,Artifact,Bow
+23,Enchantment,Drain
+24,Creature,Spider
+25,Creature,Eagle
+26,Creature,Eagle
+27,Creature,Wolf
+28,Spell,Ardent Sorrow Ice
+29,Creature,Dark Knight Kraken
+30,Enchantment,Blight
+31,Creature,Spider
+32,Enchantment,Age
+33,Creature,Earth Priest Oni of the Eastern Skies
+34,Creature,Death Queen Griffin
+35,Creature,Magi
+36,Spell,Forged Gale
+37,Creature,Warlock
+38,Artifact,Pendant
+39,Enchantment,Deathgrip
+40,Spell,Gloom Sorrow
+41,Spell,Stricken
+42,Spell,Grim Tempest
+43,Creature,Troll
+44,Creature,Berserker

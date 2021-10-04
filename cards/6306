@@ -1,46 +1,46 @@
-==================,DECK,6306,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Warlock
-2,Creature,Common,Goblin
-3,Creature,Common,Warlock
-4,Creature,Common,Dwarf
-5,Spell,Legendary,Potent Infuriate
-6,Enchantment,Common,Shield
-7,Artifact,Common,Scepter
-8,Creature,Common,Elf
-9,Artifact,Rare,Gloom Belt
-10,Enchantment,Common,Flight
-11,Creature,Rare,Aura Knight Skin-Walker
-12,Creature,Common,Dwarf
-13,Creature,Common,Paladin
-14,Creature,Common,Warlock
-15,Enchantment,Common,Blight
-16,Artifact,Common,Ring
-17,Creature,Common,Orc
-18,Spell,Rare,Dark Frenzy
-19,Spell,Rare,Nature Pandemonium
-20,Enchantment,Common,Deathgrip
-21,Creature,Common,Spider
-22,Creature,Common,Magi
-23,Creature,Common,Spider
-24,Spell,Common,Sorrow
-25,Creature,Common,Ghoul
-26,Enchantment,Common,Drain
-27,Enchantment,Common,Drain
-28,Creature,Legendary,Death Thief Orge of the Arctic Blizzards
-29,Creature,Common,Eagle
-30,Spell,Rare,Miracle Maelstrom
-31,Artifact,Common,Potion
-32,Enchantment,Common,Agony
-33,Enchantment,Common,Invert
-34,Artifact,Common,Bow
-35,Creature,Common,Spider
-36,Enchantment,Common,Agony
-37,Spell,Common,Gale
-38,Creature,Rare,Earth Merchant Fairy
-39,Creature,Common,Dwarf
-40,Spell,Rare,Nature Infuriate
-41,Enchantment,Common,Invert
-42,Spell,Common,Revive
-43,Enchantment,Rare,Apocalypse Shrink
-44,Creature,Rare,Aura Queen Skin-Walker
+==================,DECK,6306
+0,Enchantment,Strength
+1,Creature,Berserker
+2,Creature,Skin-Walker
+3,Creature,Berserker
+4,Creature,Magi
+5,Spell,Potent Life Gale
+6,Enchantment,Agony
+7,Artifact,Scepter
+8,Creature,Warlock
+9,Artifact,Lunar Belt
+10,Enchantment,Alacrity
+11,Creature,Aura Knight Orc
+12,Creature,Magi
+13,Creature,Troll
+14,Creature,Berserker
+15,Enchantment,Shrink
+16,Artifact,Ring
+17,Creature,Spider
+18,Spell,Cataclysmic Wall
+19,Spell,Shimmering Stun
+20,Enchantment,Deathgrip
+21,Creature,Paladin
+22,Creature,Fairy
+23,Creature,Paladin
+24,Spell,Burst
+25,Creature,Ghoul
+26,Enchantment,Invert
+27,Enchantment,Haste
+28,Creature,Death Thief Elf of the Arctic Blizzards
+29,Creature,Eagle
+30,Spell,Oblivion Fire
+31,Artifact,Potion
+32,Enchantment,Lethargy
+33,Enchantment,Agony
+34,Artifact,Bow
+35,Creature,Paladin
+36,Enchantment,Shrink
+37,Spell,Freeze
+38,Creature,Earth Merchant Kraken
+39,Creature,Magi
+40,Spell,Hateful Gale
+41,Enchantment,Lethargy
+42,Spell,Lightning
+43,Enchantment,Frigid Invert
+44,Creature,Aura Queen Orc

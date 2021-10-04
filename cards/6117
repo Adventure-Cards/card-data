@@ -1,46 +1,46 @@
-==================,DECK,6117,Light
-0,Creature,Common,Magi
-1,Creature,Common,Ghoul
-2,Enchantment,Legendary,Mighty Blight
-3,Creature,Legendary,Aura Monk Oni of the Swamp
-4,Creature,Common,Eagle
-5,Spell,Legendary,Extreme Wall
-6,Enchantment,Common,Invert
-7,Enchantment,Common,Strength
-8,Creature,Rare,Frozen Thief Minotaur
-9,Creature,Common,Elf
-10,Enchantment,Common,Drain
-11,Spell,Common,Burst
-12,Creature,Common,Eagle
-13,Creature,Common,Orc
-14,Enchantment,Common,Shrink
-15,Creature,Common,Goblin
-16,Creature,Legendary,Light Lord Oni of the Border
-17,Spell,Common,Burn
-18,Spell,Rare,Miracle Reanimate
-19,Spell,Rare,Dark Revive
-20,Spell,Rare,Corpse Rage
-21,Creature,Rare,Death Merchant Griffin
-22,Creature,Common,Wolf
-23,Artifact,Common,Gloves
-24,Spell,Rare,Nature Maelstrom
-25,Creature,Common,Spider
-26,Spell,Common,Lightning
-27,Enchantment,Common,Lethargy
-28,Enchantment,Common,Haste
-29,Artifact,Common,Bracers
-30,Creature,Common,Orc
-31,Spell,Legendary,Urgent Gale
-32,Spell,Common,Stricken
-33,Enchantment,Common,Deathgrip
-34,Enchantment,Mythic,Intense Lethargy
-35,Spell,Common,Infuriate
-36,Creature,Legendary,Light Thief Orge of the Border
-37,Creature,Rare,Dark King Skin-Walker
-38,Creature,Common,Dwarf
-39,Creature,Common,Dwarf
-40,Artifact,Legendary,Dire Cloak
-41,Spell,Rare,Apocalypse Stun
-42,Creature,Rare,Light Warrior Hydra
-43,Creature,Common,Orc
-44,Creature,Rare,Frozen Fighter Skin-Walker
+==================,DECK,6117
+0,Creature,Fairy
+1,Creature,Ghoul
+2,Enchantment,Empyrean Cataclysmic Firebreath
+3,Creature,Aura Monk Oni of the Swamp
+4,Creature,Eagle
+5,Spell,Ardent Cataclysmic Assault
+6,Enchantment,Haste
+7,Enchantment,Haste
+8,Creature,Frozen Thief Cyclops
+9,Creature,Warlock
+10,Enchantment,Shield
+11,Spell,Tempest
+12,Creature,Eagle
+13,Creature,Spider
+14,Enchantment,Age
+15,Creature,Skin-Walker
+16,Creature,Light Lord Oni of the Border
+17,Spell,Burst
+18,Spell,Victory Torment
+19,Spell,Miracle Rage
+20,Spell,Shimmering Sorrow
+21,Creature,Death Merchant Griffin
+22,Creature,Wolf
+23,Artifact,Gloves
+24,Spell,Solar Ice
+25,Creature,Paladin
+26,Spell,Gravitation
+27,Enchantment,Age
+28,Enchantment,Haste
+29,Artifact,Bracers
+30,Creature,Spider
+31,Spell,Zealous Shimmering Burn
+32,Spell,Frost
+33,Enchantment,Agony
+34,Enchantment,Urgent Hateful Agony
+35,Spell,Rage
+36,Creature,Light Thief Elf of the Border
+37,Creature,Dark King Orc
+38,Creature,Magi
+39,Creature,Magi
+40,Artifact,Ardent Oblivion Cloak
+41,Spell,Grim Heal
+42,Creature,Light Warrior Hydra
+43,Creature,Spider
+44,Creature,Frozen Fighter Orc

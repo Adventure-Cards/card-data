@@ -1,46 +1,46 @@
-==================,DECK,7588,Medium
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Wolf
-2,Creature,Common,Dwarf
-3,Creature,Common,Orc
-4,Enchantment,Common,Invert
-5,Enchantment,Rare,Hateful Drain
-6,Spell,Common,Freeze
-7,Creature,Common,Elf
-8,Creature,Mythic,Frozen Time Dragon of the Void
-9,Creature,Legendary,Aura Assassin Orge of the Border
-10,Enchantment,Mythic,Intense Haste
-11,Creature,Rare,Dark King Berserker
-12,Spell,Rare,Oblivion Torment
-13,Enchantment,Common,Shield
-14,Creature,Legendary,Dark King Cyclops of the Frozen Castle
-15,Creature,Rare,Aura Merchant Griffin
-16,Artifact,Legendary,Angry Crown
-17,Spell,Common,Stricken
-18,Creature,Legendary,Snow King Cyclops of the Golden Palace
-19,Creature,Common,Warlock
-20,Creature,Rare,Aura Merchant Hydra
-21,Creature,Rare,Frozen Queen Hydra
-22,Creature,Common,Elf
-23,Creature,Common,Magi
-24,Enchantment,Rare,Lunar Haste
-25,Creature,Common,Warlock
-26,Enchantment,Common,Alacrity
-27,Spell,Common,Burst
-28,Spell,Common,Lightning
-29,Enchantment,Common,Agony
-30,Spell,Rare,Life Stricken
-31,Spell,Common,Hypnosis
-32,Creature,Legendary,Frozen Warrior Cyclops of the Swamp
-33,Creature,Legendary,Death Fighter Oni of the Polar Woods
-34,Artifact,Legendary,Intense Greaves
-35,Artifact,Legendary,Angry Shield
-36,Artifact,Rare,Frigid Ghost Wand
-37,Creature,Mythic,Dark Chaos Demon of Illusion
-38,Creature,Common,Paladin
-39,Creature,Legendary,Death Merchant Cyclops of the Bright Mountains
-40,Creature,Common,Elf
-41,Enchantment,Common,Drain
-42,Enchantment,Legendary,Dire Drain
-43,Creature,Rare,Light Knight Berserker
-44,Enchantment,Rare,Miracle Haste
+==================,DECK,7588
+0,Enchantment,Alacrity
+1,Creature,Wolf
+2,Creature,Magi
+3,Creature,Spider
+4,Enchantment,Blight
+5,Enchantment,Dark Shrink
+6,Spell,Burst
+7,Creature,Warlock
+8,Creature,Frozen Time Dragon of the Void
+9,Creature,Aura Assassin Elf of the Border
+10,Enchantment,Potent Corpse Strength
+11,Creature,Dark King Goblin
+12,Spell,Victory Ice
+13,Enchantment,Age
+14,Creature,Dark King Giant of the Frozen Castle
+15,Creature,Aura Merchant Griffin
+16,Artifact,Irate Lunar Crown
+17,Spell,Fireball
+18,Creature,Snow King Giant of the Golden Palace
+19,Creature,Berserker
+20,Creature,Aura Merchant Hydra
+21,Creature,Frozen Queen Hydra
+22,Creature,Warlock
+23,Creature,Fairy
+24,Enchantment,Miracle Shrink
+25,Creature,Berserker
+26,Enchantment,Shade
+27,Spell,Fire
+28,Spell,Reanimate
+29,Enchantment,Invert
+30,Spell,Life Heal
+31,Spell,Fury
+32,Creature,Frozen Warrior Giant of the Swamp
+33,Creature,Death Fighter Oni of the Polar Woods
+34,Artifact,Mighty Corpse Greaves
+35,Artifact,Dire Miracle Shield
+36,Artifact,Life Ghost Wand
+37,Creature,Dark Chaos Demon of Illusion
+38,Creature,Troll
+39,Creature,Death Merchant Giant of the Bright Mountains
+40,Creature,Warlock
+41,Enchantment,Flight
+42,Enchantment,Zealous Apocalypse Blight
+43,Creature,Light Knight Goblin
+44,Enchantment,Life Invert

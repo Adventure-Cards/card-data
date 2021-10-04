@@ -1,46 +1,46 @@
-==================,DECK,7731,Light
-0,Enchantment,Common,Blight
-1,Spell,Common,Stricken
-2,Enchantment,Rare,Lunar Age
-3,Creature,Rare,Snow Lord Fairy
-4,Spell,Common,Lightning
-5,Spell,Common,Heal
-6,Enchantment,Common,Agony
-7,Artifact,Rare,Frigid Tome
-8,Spell,Rare,Shimmering Sorrow
-9,Spell,Common,Stun
-10,Creature,Common,Paladin
-11,Creature,Common,Dwarf
-12,Artifact,Common,Helmet
-13,Creature,Common,Goblin
-14,Creature,Common,Elf
-15,Creature,Legendary,Frozen Queen Kraken of the Bright Mountains
-16,Enchantment,Mythic,Urgent Shrink
-17,Creature,Common,Ghoul
-18,Spell,Common,Torment
-19,Creature,Rare,Aura Knight Griffin
-20,Enchantment,Rare,Miracle Blight
-21,Creature,Rare,Snow Warrior Minotaur
-22,Artifact,Legendary,Potent Staff
-23,Enchantment,Common,Blight
-24,Enchantment,Common,Lethargy
-25,Creature,Mythic,Aura Ancient Demon of the Light
-26,Enchantment,Common,Shrink
-27,Creature,Common,Goblin
-28,Creature,Common,Dwarf
-29,Creature,Legendary,Aura Thief Cyclops of the Arctic Blizzards
-30,Enchantment,Common,Drain
-31,Creature,Common,Dwarf
-32,Artifact,Common,Divine Robe
-33,Artifact,Common,Boots
-34,Enchantment,Mythic,Potent Shield
-35,Creature,Common,Ghoul
-36,Spell,Common,Rage
-37,Enchantment,Common,Agony
-38,Creature,Common,Magi
-39,Creature,Common,Eagle
-40,Enchantment,Common,Agony
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Magi
-43,Creature,Common,Orc
-44,Spell,Common,Stricken
+==================,DECK,7731
+0,Enchantment,Blight
+1,Spell,Gravitation
+2,Enchantment,Gloom Shrink
+3,Creature,Snow Lord Kraken
+4,Spell,Burst
+5,Spell,Lightning
+6,Enchantment,Flight
+7,Artifact,Life Tome
+8,Spell,Nature Gale
+9,Spell,Frenzy
+10,Creature,Troll
+11,Creature,Magi
+12,Artifact,Helmet
+13,Creature,Skin-Walker
+14,Creature,Warlock
+15,Creature,Frozen Queen Ogre of the Bright Mountains
+16,Enchantment,Zealous Necro Deathgrip
+17,Creature,Ghoul
+18,Spell,Invisibility
+19,Creature,Aura Knight Griffin
+20,Enchantment,Nimble Blight
+21,Creature,Snow Warrior Cyclops
+22,Artifact,Irate Life Staff
+23,Enchantment,Shield
+24,Enchantment,Shield
+25,Creature,Aura Ancient Demon of the Light
+26,Enchantment,Flight
+27,Creature,Skin-Walker
+28,Creature,Magi
+29,Creature,Aura Thief Giant of the Arctic Blizzards
+30,Enchantment,Invert
+31,Creature,Magi
+32,Artifact,Divine Robe
+33,Artifact,Boots
+34,Enchantment,Irate Victory Blight
+35,Creature,Ghoul
+36,Spell,Assault
+37,Enchantment,Agony
+38,Creature,Fairy
+39,Creature,Eagle
+40,Enchantment,Age
+41,Enchantment,Haste
+42,Creature,Fairy
+43,Creature,Spider
+44,Spell,Fireball

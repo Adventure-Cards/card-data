@@ -1,46 +1,46 @@
-==================,DECK,6377,Light
-0,Enchantment,Rare,Forged Lethargy
-1,Artifact,Common,Ring
-2,Enchantment,Rare,Oblivion Invert
-3,Enchantment,Rare,Corpse Lethargy
-4,Creature,Rare,Death Priest Hydra
-5,Creature,Common,Warlock
-6,Spell,Common,Vortex
-7,Spell,Common,Burn
-8,Artifact,Rare,Forged Amulet
-9,Creature,Common,Warlock
-10,Artifact,Common,Boots
-11,Creature,Common,Spider
-12,Artifact,Common,Ghost Wand
-13,Creature,Common,Warlock
-14,Enchantment,Common,Drain
-15,Enchantment,Common,Drain
-16,Creature,Common,Ghoul
-17,Creature,Common,Warlock
-18,Enchantment,Common,Deathgrip
-19,Artifact,Common,Potion
-20,Creature,Legendary,Aura Queen Kraken of the Golden Palace
-21,Enchantment,Common,Shield
-22,Enchantment,Common,Haste
-23,Creature,Mythic,Aura Undead Dragon of the Light
-24,Creature,Common,Warlock
-25,Creature,Common,Elf
-26,Creature,Common,Paladin
-27,Creature,Common,Dwarf
-28,Creature,Common,Ghoul
-29,Spell,Rare,Grim Heal
-30,Spell,Common,Heal
-31,Creature,Common,Spider
-32,Creature,Common,Goblin
-33,Spell,Legendary,Instant Burst
-34,Creature,Common,Spider
-35,Artifact,Common,Helmet
-36,Creature,Common,Wolf
-37,Creature,Common,Eagle
-38,Enchantment,Common,Shrink
-39,Spell,Rare,Nature Fury
-40,Enchantment,Rare,Lunar Drain
-41,Creature,Common,Elf
-42,Creature,Mythic,Frozen Time Dragon of the Void
-43,Creature,Common,Warlock
-44,Creature,Common,Warlock
+==================,DECK,6377
+0,Enchantment,Lunar Alacrity
+1,Artifact,Ring
+2,Enchantment,Oblivion Shade
+3,Enchantment,Hateful Strength
+4,Creature,Death Priest Hydra
+5,Creature,Berserker
+6,Spell,Heal
+7,Spell,Vortex
+8,Artifact,Sorrow Amulet
+9,Creature,Berserker
+10,Artifact,Boots
+11,Creature,Paladin
+12,Artifact,Ghost Wand
+13,Creature,Berserker
+14,Enchantment,Agony
+15,Enchantment,Shade
+16,Creature,Ghoul
+17,Creature,Berserker
+18,Enchantment,Shade
+19,Artifact,Potion
+20,Creature,Aura Queen Ogre of the Golden Palace
+21,Enchantment,Age
+22,Enchantment,Deathgrip
+23,Creature,Aura Undead Dragon of the Light
+24,Creature,Berserker
+25,Creature,Warlock
+26,Creature,Troll
+27,Creature,Magi
+28,Creature,Ghoul
+29,Spell,Nimble Tempest
+30,Spell,Heal
+31,Creature,Paladin
+32,Creature,Skin-Walker
+33,Spell,Clever Forged Revive
+34,Creature,Paladin
+35,Artifact,Helmet
+36,Creature,Wolf
+37,Creature,Eagle
+38,Enchantment,Drain
+39,Spell,Nature Gale
+40,Enchantment,Dark Shrink
+41,Creature,Warlock
+42,Creature,Frozen Time Dragon of the Void
+43,Creature,Berserker
+44,Creature,Berserker

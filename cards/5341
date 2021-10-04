@@ -1,46 +1,46 @@
-==================,DECK,5341,Light
-0,Spell,Common,Rage
-1,Creature,Common,Warlock
-2,Creature,Common,Wolf
-3,Creature,Legendary,Frozen Priest Orge of the Golden Palace
-4,Creature,Common,Dwarf
-5,Creature,Common,Goblin
-6,Creature,Common,Dwarf
-7,Enchantment,Rare,Forged Strength
-8,Spell,Common,Reanimate
-9,Enchantment,Rare,Oblivion Lethargy
-10,Creature,Legendary,Light Warrior Giant of the Bright Mountains
-11,Creature,Mythic,Snow Chaos Wizard of Hate
-12,Artifact,Common,Ghost Wand
-13,Creature,Common,Wolf
-14,Creature,Rare,Frozen Priest Minotaur
-15,Spell,Common,Gale
-16,Creature,Common,Wolf
-17,Enchantment,Common,Haste
-18,Enchantment,Legendary,Urgent Strength
-19,Spell,Rare,Oblivion Wall
-20,Creature,Rare,Snow Assassin Hydra
-21,Creature,Common,Ghoul
-22,Creature,Common,Spider
-23,Artifact,Rare,Solar Gauntlet
-24,Creature,Common,Ghoul
-25,Creature,Common,Spider
-26,Creature,Common,Wolf
-27,Creature,Common,Spider
-28,Creature,Common,Paladin
-29,Enchantment,Common,Flight
-30,Artifact,Rare,Corpse Sword
-31,Spell,Common,Frenzy
-32,Creature,Common,Ghoul
-33,Creature,Common,Magi
-34,Spell,Common,Assault
-35,Creature,Legendary,Earth Priest Orge of the Eternal Land
-36,Spell,Rare,Miracle Reanimate
-37,Creature,Common,Dwarf
-38,Creature,Rare,Snow King Berserker
-39,Creature,Rare,Death Priest Minotaur
-40,Spell,Common,Pandemonium
-41,Enchantment,Common,Alacrity
-42,Spell,Rare,Shimmering Infuriate
-43,Creature,Common,Ghoul
-44,Creature,Rare,Aura Warrior Berserker
+==================,DECK,5341
+0,Spell,Sorrow
+1,Creature,Berserker
+2,Creature,Wolf
+3,Creature,Frozen Priest Elf of the Golden Palace
+4,Creature,Magi
+5,Creature,Skin-Walker
+6,Creature,Magi
+7,Enchantment,Cataclysmic Firebreath
+8,Spell,Gale
+9,Enchantment,Grim Shade
+10,Creature,Light Warrior Dwarf of the Bright Mountains
+11,Creature,Snow Chaos Wizard of Hate
+12,Artifact,Ghost Wand
+13,Creature,Wolf
+14,Creature,Frozen Priest Cyclops
+15,Spell,Pandemonium
+16,Creature,Wolf
+17,Enchantment,Flight
+18,Enchantment,Instant Solar Strength
+19,Spell,Oblivion Maelstrom
+20,Creature,Snow Assassin Hydra
+21,Creature,Ghoul
+22,Creature,Paladin
+23,Artifact,Nature Gauntlet
+24,Creature,Ghoul
+25,Creature,Paladin
+26,Creature,Wolf
+27,Creature,Paladin
+28,Creature,Troll
+29,Enchantment,Flight
+30,Artifact,Solar Sword
+31,Spell,Gravitation
+32,Creature,Ghoul
+33,Creature,Fairy
+34,Spell,Ice
+35,Creature,Earth Priest Elf of the Eternal Land
+36,Spell,Apocalypse Infuriate
+37,Creature,Magi
+38,Creature,Snow King Goblin
+39,Creature,Death Priest Cyclops
+40,Spell,Reanimate
+41,Enchantment,Agony
+42,Spell,Solar Revive
+43,Creature,Ghoul
+44,Creature,Aura Warrior Goblin

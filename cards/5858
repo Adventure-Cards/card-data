@@ -1,46 +1,46 @@
-==================,DECK,5858,Light
-0,Spell,Common,Reanimate
-1,Spell,Rare,Grim Vortex
-2,Creature,Rare,Light Queen Berserker
-3,Creature,Rare,Earth Thief Berserker
-4,Creature,Common,Orc
-5,Creature,Common,Warlock
-6,Creature,Common,Elf
-7,Enchantment,Common,Drain
-8,Spell,Rare,Nimble Gravitation
-9,Creature,Common,Orc
-10,Enchantment,Mythic,Instant Lethargy
-11,Artifact,Rare,Frigid Tome
-12,Artifact,Common,Greaves
-13,Spell,Rare,Oblivion Freeze
-14,Enchantment,Common,Haste
-15,Artifact,Legendary,Dire Crown
-16,Spell,Common,Sorrow
-17,Creature,Common,Paladin
-18,Creature,Common,Ghoul
-19,Artifact,Legendary,Clever Crown
-20,Creature,Rare,Dark Lord Griffin
-21,Creature,Common,Elf
-22,Enchantment,Rare,Grim Shield
-23,Enchantment,Common,Shrink
-24,Creature,Common,Ghoul
-25,Creature,Common,Eagle
-26,Creature,Rare,Snow Rogue Skin-Walker
-27,Spell,Common,Frost
-28,Creature,Common,Elf
-29,Artifact,Rare,Nature Ring
-30,Artifact,Rare,Nimble Boots
-31,Creature,Common,Goblin
-32,Creature,Common,Spider
-33,Creature,Rare,Dark Rogue Berserker
-34,Creature,Common,Ghoul
-35,Enchantment,Common,Age
-36,Spell,Rare,Miracle Hypnosis
-37,Enchantment,Common,Flight
-38,Creature,Common,Warlock
-39,Enchantment,Common,Flight
-40,Creature,Common,Goblin
-41,Creature,Legendary,Light Undead Oni of the Border
-42,Spell,Legendary,Instant Gale
-43,Enchantment,Common,Deathgrip
-44,Spell,Rare,Grim Gravitation
+==================,DECK,5858
+0,Spell,Reanimate
+1,Spell,Frigid Fire
+2,Creature,Light Queen Goblin
+3,Creature,Earth Thief Goblin
+4,Creature,Spider
+5,Creature,Berserker
+6,Creature,Warlock
+7,Enchantment,Shade
+8,Spell,Hateful Burn
+9,Creature,Spider
+10,Enchantment,Urgent Hateful Agony
+11,Artifact,Grim Tome
+12,Artifact,Greaves
+13,Spell,Life Reanimate
+14,Enchantment,Shade
+15,Artifact,Irate Victory Crown
+16,Spell,Revive
+17,Creature,Troll
+18,Creature,Ghoul
+19,Artifact,Irate Frigid Crown
+20,Creature,Dark Lord Griffin
+21,Creature,Warlock
+22,Enchantment,Victory Blight
+23,Enchantment,Blight
+24,Creature,Ghoul
+25,Creature,Eagle
+26,Creature,Snow Rogue Orc
+27,Spell,Maelstrom
+28,Creature,Warlock
+29,Artifact,Hateful Ring
+30,Artifact,Hateful Boots
+31,Creature,Skin-Walker
+32,Creature,Paladin
+33,Creature,Dark Rogue Goblin
+34,Creature,Ghoul
+35,Enchantment,Flight
+36,Spell,Nimble Torment
+37,Enchantment,Haste
+38,Creature,Berserker
+39,Enchantment,Age
+40,Creature,Skin-Walker
+41,Creature,Light Undead Oni of the Border
+42,Spell,Potent Nature Tempest
+43,Enchantment,Age
+44,Spell,Victory Tempest

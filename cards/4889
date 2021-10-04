@@ -1,46 +1,46 @@
-==================,DECK,4889,Medium
-0,Creature,Rare,Frozen Priest Hydra
-1,Creature,Common,Magi
-2,Creature,Common,Paladin
-3,Creature,Common,Goblin
-4,Enchantment,Rare,Frigid Lethargy
-5,Creature,Common,Eagle
-6,Spell,Common,Wall
-7,Creature,Common,Eagle
-8,Creature,Legendary,Light Thief Cyclops of the Low Hills
-9,Enchantment,Common,Strength
-10,Creature,Common,Spider
-11,Enchantment,Rare,Nimble Lethargy
-12,Creature,Legendary,Frozen Knight Orge of the West
-13,Enchantment,Common,Shield
-14,Spell,Common,Rage
-15,Enchantment,Legendary,Instant Strength
-16,Spell,Common,Lightning
-17,Artifact,Rare,Frigid Bracers
-18,Enchantment,Common,Shrink
-19,Creature,Legendary,Light Warrior Kraken of the Swamp
-20,Creature,Rare,Dark Priest Fairy
-21,Creature,Common,Spider
-22,Artifact,Common,Scythe
-23,Creature,Rare,Death King Hydra
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Common,Blight
-26,Spell,Common,Burn
-27,Spell,Common,Gravitation
-28,Enchantment,Common,Flight
-29,Creature,Common,Magi
-30,Enchantment,Rare,Lunar Flight
-31,Enchantment,Common,Shrink
-32,Artifact,Rare,Dark Shield
-33,Creature,Common,Dwarf
-34,Creature,Mythic,Aura Chaos Wizard of the Light
-35,Artifact,Rare,Lunar Pendant
-36,Enchantment,Rare,Grim Invert
-37,Creature,Rare,Death King Hydra
-38,Creature,Common,Eagle
-39,Artifact,Common,Amulet
-40,Spell,Common,Burst
-41,Spell,Legendary,Extreme Hypnosis
-42,Creature,Common,Ghoul
-43,Creature,Common,Paladin
-44,Creature,Mythic,Death Ancient Wizard of the Dead
+==================,DECK,4889
+0,Creature,Frozen Priest Hydra
+1,Creature,Fairy
+2,Creature,Troll
+3,Creature,Skin-Walker
+4,Enchantment,Grim Invert
+5,Creature,Eagle
+6,Spell,Rage
+7,Creature,Eagle
+8,Creature,Light Thief Giant of the Low Hills
+9,Enchantment,Shade
+10,Creature,Paladin
+11,Enchantment,Hateful Lethargy
+12,Creature,Frozen Knight Elf of the West
+13,Enchantment,Invert
+14,Spell,Stun
+15,Enchantment,Instant Solar Strength
+16,Spell,Tempest
+17,Artifact,Apocalypse Bracers
+18,Enchantment,Deathgrip
+19,Creature,Light Warrior Ogre of the Swamp
+20,Creature,Dark Priest Kraken
+21,Creature,Paladin
+22,Artifact,Scythe
+23,Creature,Death King Hydra
+24,Enchantment,Deathgrip
+25,Enchantment,Strength
+26,Spell,Heal
+27,Spell,Frenzy
+28,Enchantment,Blight
+29,Creature,Fairy
+30,Enchantment,Lunar Shrink
+31,Enchantment,Deathgrip
+32,Artifact,Dark Shield
+33,Creature,Magi
+34,Creature,Aura Chaos Wizard of the Light
+35,Artifact,Gloom Pendant
+36,Enchantment,Oblivion Shade
+37,Creature,Death King Hydra
+38,Creature,Eagle
+39,Artifact,Amulet
+40,Spell,Rage
+41,Spell,Potent Gloom Torment
+42,Creature,Ghoul
+43,Creature,Troll
+44,Creature,Death Ancient Wizard of the Dead

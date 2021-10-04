@@ -1,46 +1,46 @@
-==================,DECK,4961,Light
-0,Spell,Common,Reanimate
-1,Spell,Common,Burst
-2,Spell,Rare,Miracle Pandemonium
-3,Spell,Legendary,Angry Gale
-4,Enchantment,Common,Agony
-5,Creature,Common,Paladin
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Warlock
-8,Artifact,Rare,Apocalypse Scepter
-9,Creature,Common,Eagle
-10,Spell,Rare,Miracle Ice
-11,Artifact,Common,Sword
-12,Creature,Common,Ghoul
-13,Enchantment,Common,Lethargy
-14,Spell,Legendary,Clever Infuriate
-15,Creature,Common,Goblin
-16,Creature,Common,Wolf
-17,Creature,Common,Eagle
-18,Artifact,Rare,Nature Ring
-19,Artifact,Rare,Miracle Boots
-20,Artifact,Rare,Lunar Scepter
-21,Enchantment,Common,Agony
-22,Creature,Common,Warlock
-23,Creature,Legendary,Light Queen Giant of the Border
-24,Artifact,Common,Greaves
-25,Creature,Common,Eagle
-26,Creature,Legendary,Light Thief Giant of the Black Stone
-27,Spell,Common,Revive
-28,Creature,Common,Elf
-29,Enchantment,Legendary,Potent Drain
-30,Creature,Common,Orc
-31,Creature,Common,Orc
-32,Spell,Common,Frenzy
-33,Artifact,Common,Amulet
-34,Creature,Common,Wolf
-35,Enchantment,Common,Deathgrip
-36,Creature,Common,Paladin
-37,Creature,Common,Dwarf
-38,Creature,Common,Paladin
-39,Enchantment,Common,Haste
-40,Spell,Rare,Oblivion Freeze
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Shield
-43,Artifact,Common,Amulet
-44,Enchantment,Common,Blight
+==================,DECK,4961
+0,Spell,Stun
+1,Spell,Revive
+2,Spell,Nimble Frenzy
+3,Spell,Mighty Gloom Fury
+4,Enchantment,Flight
+5,Creature,Troll
+6,Enchantment,Lethargy
+7,Creature,Berserker
+8,Artifact,Apocalypse Scepter
+9,Creature,Eagle
+10,Spell,Apocalypse Burst
+11,Artifact,Sword
+12,Creature,Ghoul
+13,Enchantment,Alacrity
+14,Spell,Empyrean Life Freeze
+15,Creature,Skin-Walker
+16,Creature,Wolf
+17,Creature,Eagle
+18,Artifact,Shimmering Ring
+19,Artifact,Victory Boots
+20,Artifact,Miracle Scepter
+21,Enchantment,Strength
+22,Creature,Berserker
+23,Creature,Light Queen Dwarf of the Border
+24,Artifact,Greaves
+25,Creature,Eagle
+26,Creature,Light Thief Dwarf of the Black Stone
+27,Spell,Burst
+28,Creature,Warlock
+29,Enchantment,Potent Apocalypse Drain
+30,Creature,Spider
+31,Creature,Spider
+32,Spell,Stricken
+33,Artifact,Amulet
+34,Creature,Wolf
+35,Enchantment,Haste
+36,Creature,Troll
+37,Creature,Magi
+38,Creature,Troll
+39,Enchantment,Deathgrip
+40,Spell,Life Maelstrom
+41,Creature,Magi
+42,Enchantment,Shield
+43,Artifact,Amulet
+44,Enchantment,Blight

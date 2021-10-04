@@ -1,46 +1,46 @@
-==================,DECK,7839,Medium
-0,Artifact,Common,Scepter
-1,Creature,Rare,Earth Rogue Berserker
-2,Creature,Mythic,Earth Chaos Wizard of the Shadows
-3,Enchantment,Common,Haste
-4,Creature,Common,Ghoul
-5,Creature,Rare,Death Queen Berserker
-6,Artifact,Common,Shield
-7,Enchantment,Legendary,Mighty Haste
-8,Creature,Rare,Snow Thief Hydra
-9,Creature,Rare,Death Undead Skin-Walker
-10,Creature,Common,Spider
-11,Enchantment,Mythic,Extreme Deathgrip
-12,Creature,Common,Magi
-13,Creature,Rare,Light Rogue Skin-Walker
-14,Creature,Legendary,Snow Fighter Orge of the Swamp
-15,Creature,Common,Eagle
-16,Creature,Common,Orc
-17,Creature,Common,Orc
-18,Enchantment,Common,Haste
-19,Enchantment,Common,Drain
-20,Enchantment,Common,Alacrity
-21,Spell,Legendary,Potent Hypnosis
-22,Creature,Common,Warlock
-23,Enchantment,Legendary,Clever Alacrity
-24,Spell,Common,Hypnosis
-25,Creature,Common,Paladin
-26,Enchantment,Mythic,Angry Lethargy
-27,Creature,Common,Ghoul
-28,Spell,Common,Assault
-29,Creature,Common,Goblin
-30,Creature,Rare,Dark Monk Hydra
-31,Creature,Common,Warlock
-32,Spell,Common,Wall
-33,Spell,Legendary,Intense Ice
-34,Spell,Common,Freeze
-35,Spell,Common,Reanimate
-36,Artifact,Legendary,Extreme Crown
-37,Creature,Common,Ghoul
-38,Spell,Rare,Lunar Gale
-39,Spell,Common,Gravitation
-40,Spell,Mythic,Extreme Rage
-41,Spell,Common,Invisibility
-42,Creature,Rare,Light Assassin Skin-Walker
-43,Enchantment,Mythic,Potent Strength
-44,Artifact,Rare,Nimble Divine Robe
+==================,DECK,7839
+0,Artifact,Scepter
+1,Creature,Earth Rogue Goblin
+2,Creature,Earth Chaos Wizard of the Shadows
+3,Enchantment,Shade
+4,Creature,Ghoul
+5,Creature,Death Queen Goblin
+6,Artifact,Shield
+7,Enchantment,Empyrean Miracle Firebreath
+8,Creature,Snow Thief Hydra
+9,Creature,Death Undead Orc
+10,Creature,Paladin
+11,Enchantment,Zealous Sorrow Alacrity
+12,Creature,Fairy
+13,Creature,Light Rogue Orc
+14,Creature,Snow Fighter Elf of the Swamp
+15,Creature,Eagle
+16,Creature,Spider
+17,Creature,Spider
+18,Enchantment,Blight
+19,Enchantment,Deathgrip
+20,Enchantment,Deathgrip
+21,Spell,Potent Life Gale
+22,Creature,Berserker
+23,Enchantment,Instant Apocalypse Drain
+24,Spell,Stricken
+25,Creature,Troll
+26,Enchantment,Urgent Lunar Flight
+27,Creature,Ghoul
+28,Spell,Stricken
+29,Creature,Skin-Walker
+30,Creature,Dark Monk Hydra
+31,Creature,Berserker
+32,Spell,Reanimate
+33,Spell,Potent Corpse Stun
+34,Spell,Tempest
+35,Spell,Gale
+36,Artifact,Irate Dark Crown
+37,Creature,Ghoul
+38,Spell,Chimeric Assault
+39,Spell,Gale
+40,Spell,Irate Sorrow Maelstrom
+41,Spell,Heal
+42,Creature,Light Assassin Orc
+43,Enchantment,Ardent Nimble Haste
+44,Artifact,Shimmering Divine Robe

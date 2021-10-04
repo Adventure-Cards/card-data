@@ -1,46 +1,46 @@
-==================,DECK,7343,Light
-0,Creature,Rare,Snow Thief Berserker
-1,Spell,Rare,Apocalypse Sorrow
-2,Creature,Common,Wolf
-3,Creature,Common,Goblin
-4,Creature,Mythic,Frozen Ancient Demon of the Void
-5,Creature,Rare,Light Lord Skin-Walker
-6,Enchantment,Common,Blight
-7,Creature,Common,Ghoul
-8,Creature,Common,Paladin
-9,Enchantment,Legendary,Angry Flight
-10,Artifact,Common,Helmet
-11,Creature,Common,Orc
-12,Creature,Common,Warlock
-13,Enchantment,Mythic,Mighty Invert
-14,Spell,Common,Ice
-15,Creature,Common,Elf
-16,Creature,Common,Goblin
-17,Creature,Rare,Aura Lord Griffin
-18,Artifact,Common,Crown
-19,Creature,Rare,Frozen Fighter Berserker
-20,Creature,Common,Dwarf
-21,Enchantment,Common,Flight
-22,Enchantment,Rare,Corpse Alacrity
-23,Creature,Common,Paladin
-24,Creature,Common,Dwarf
-25,Creature,Common,Goblin
-26,Creature,Legendary,Light Lord Oni of the Golden Palace
-27,Creature,Common,Dwarf
-28,Spell,Common,Assault
-29,Spell,Common,Fury
-30,Creature,Common,Spider
-31,Creature,Mythic,Frozen Undead Dragon of the Void
-32,Enchantment,Common,Alacrity
-33,Creature,Legendary,Earth Knight Giant of the Bright Mountains
-34,Creature,Rare,Frozen Knight Berserker
-35,Spell,Common,Wall
-36,Spell,Common,Hypnosis
-37,Creature,Rare,Earth Warrior Berserker
-38,Creature,Common,Wolf
-39,Artifact,Common,Scepter
-40,Creature,Common,Ghoul
-41,Enchantment,Common,Strength
-42,Spell,Common,Vortex
-43,Creature,Common,Warlock
-44,Creature,Common,Ghoul
+==================,DECK,7343
+0,Creature,Snow Thief Goblin
+1,Spell,Oblivion Hypnosis
+2,Creature,Wolf
+3,Creature,Skin-Walker
+4,Creature,Frozen Ancient Demon of the Void
+5,Creature,Light Lord Orc
+6,Enchantment,Agony
+7,Creature,Ghoul
+8,Creature,Troll
+9,Enchantment,Potent Lunar Shrink
+10,Artifact,Helmet
+11,Creature,Spider
+12,Creature,Berserker
+13,Enchantment,Irate Sorrow Alacrity
+14,Spell,Hypnosis
+15,Creature,Warlock
+16,Creature,Skin-Walker
+17,Creature,Aura Lord Griffin
+18,Artifact,Crown
+19,Creature,Frozen Fighter Goblin
+20,Creature,Magi
+21,Enchantment,Haste
+22,Enchantment,Forged Lethargy
+23,Creature,Troll
+24,Creature,Magi
+25,Creature,Skin-Walker
+26,Creature,Light Lord Oni of the Golden Palace
+27,Creature,Magi
+28,Spell,Gale
+29,Spell,Stricken
+30,Creature,Paladin
+31,Creature,Frozen Undead Dragon of the Void
+32,Enchantment,Shade
+33,Creature,Earth Knight Dwarf of the Bright Mountains
+34,Creature,Frozen Knight Goblin
+35,Spell,Fire
+36,Spell,Stun
+37,Creature,Earth Warrior Goblin
+38,Creature,Wolf
+39,Artifact,Scepter
+40,Creature,Ghoul
+41,Enchantment,Flight
+42,Spell,Vortex
+43,Creature,Berserker
+44,Creature,Ghoul

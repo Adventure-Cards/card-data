@@ -1,46 +1,46 @@
-==================,DECK,5364,Medium
-0,Creature,Mythic,Snow Nameless Dragon of Hate
-1,Enchantment,Rare,Necro Blight
-2,Spell,Common,Burn
-3,Spell,Common,Vortex
-4,Enchantment,Common,Haste
-5,Spell,Rare,Grim Gravitation
-6,Enchantment,Rare,Solar Strength
-7,Creature,Common,Goblin
-8,Spell,Common,Invisibility
-9,Creature,Common,Wolf
-10,Creature,Mythic,Light Time Phoenix of the Sky
-11,Spell,Common,Wall
-12,Enchantment,Rare,Shimmering Blight
-13,Enchantment,Common,Flight
-14,Creature,Common,Dwarf
-15,Creature,Rare,Light Lord Fairy
-16,Creature,Rare,Dark Assassin Fairy
-17,Enchantment,Common,Haste
-18,Creature,Common,Elf
-19,Creature,Rare,Earth Priest Griffin
-20,Enchantment,Common,Strength
-21,Enchantment,Rare,Shimmering Deathgrip
-22,Spell,Common,Gravitation
-23,Enchantment,Common,Shield
-24,Creature,Common,Orc
-25,Creature,Rare,Dark Queen Griffin
-26,Artifact,Rare,Cataclysmic Greaves
-27,Creature,Rare,Frozen Rogue Skin-Walker
-28,Creature,Common,Elf
-29,Creature,Legendary,Death Priest Orge of the Polar Woods
-30,Spell,Common,Assault
-31,Spell,Common,Infuriate
-32,Enchantment,Common,Lethargy
-33,Artifact,Rare,Solar Tome
-34,Creature,Common,Spider
-35,Spell,Common,Vortex
-36,Creature,Common,Warlock
-37,Spell,Rare,Nimble Gravitation
-38,Spell,Common,Burst
-39,Creature,Common,Warlock
-40,Enchantment,Common,Age
-41,Creature,Common,Magi
-42,Artifact,Common,Pendant
-43,Spell,Common,Hypnosis
-44,Creature,Common,Magi
+==================,DECK,5364
+0,Creature,Snow Nameless Dragon of Hate
+1,Enchantment,Solar Lethargy
+2,Spell,Fury
+3,Spell,Pandemonium
+4,Enchantment,Flight
+5,Spell,Grim Pandemonium
+6,Enchantment,Solar Lethargy
+7,Creature,Skin-Walker
+8,Spell,Tempest
+9,Creature,Wolf
+10,Creature,Light Time Phoenix of the Sky
+11,Spell,Maelstrom
+12,Enchantment,Solar Deathgrip
+13,Enchantment,Drain
+14,Creature,Magi
+15,Creature,Light Lord Kraken
+16,Creature,Dark Assassin Kraken
+17,Enchantment,Strength
+18,Creature,Warlock
+19,Creature,Earth Priest Griffin
+20,Enchantment,Shield
+21,Enchantment,Shimmering Deathgrip
+22,Spell,Burst
+23,Enchantment,Strength
+24,Creature,Spider
+25,Creature,Dark Queen Griffin
+26,Artifact,Chimeric Greaves
+27,Creature,Frozen Rogue Orc
+28,Creature,Warlock
+29,Creature,Death Priest Elf of the Polar Woods
+30,Spell,Sorrow
+31,Spell,Burst
+32,Enchantment,Deathgrip
+33,Artifact,Necro Tome
+34,Creature,Paladin
+35,Spell,Gale
+36,Creature,Berserker
+37,Spell,Corpse Stun
+38,Spell,Stun
+39,Creature,Berserker
+40,Enchantment,Age
+41,Creature,Fairy
+42,Artifact,Pendant
+43,Spell,Sorrow
+44,Creature,Fairy

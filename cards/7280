@@ -1,46 +1,46 @@
-==================,DECK,7280,Medium
-0,Creature,Common,Spider
-1,Creature,Common,Ghoul
-2,Creature,Common,Ghoul
-3,Creature,Legendary,Snow Rogue Cyclops of the Golden Palace
-4,Creature,Common,Paladin
-5,Creature,Rare,Snow Priest Minotaur
-6,Creature,Rare,Frozen Rogue Griffin
-7,Creature,Rare,Earth Lord Griffin
-8,Creature,Common,Goblin
-9,Creature,Common,Eagle
-10,Artifact,Common,Divine Robe
-11,Enchantment,Common,Alacrity
-12,Creature,Legendary,Snow Undead Orge of the Magical Forest
-13,Spell,Rare,Lunar Infuriate
-14,Creature,Common,Orc
-15,Spell,Common,Revive
-16,Creature,Common,Eagle
-17,Creature,Common,Warlock
-18,Artifact,Legendary,Extreme Pendant
-19,Creature,Common,Eagle
-20,Artifact,Rare,Necro Ring
-21,Enchantment,Mythic,Urgent Alacrity
-22,Enchantment,Rare,Grim Lethargy
-23,Enchantment,Rare,Cataclysmic Drain
-24,Spell,Common,Lightning
-25,Spell,Common,Vortex
-26,Creature,Common,Eagle
-27,Enchantment,Common,Agony
-28,Creature,Rare,Light Fighter Skin-Walker
-29,Creature,Rare,Light King Minotaur
-30,Creature,Common,Magi
-31,Creature,Rare,Snow Queen Fairy
-32,Artifact,Rare,Frigid Gauntlet
-33,Spell,Common,Sorrow
-34,Creature,Rare,Aura Lord Griffin
-35,Spell,Common,Sorrow
-36,Creature,Rare,Aura Warrior Griffin
-37,Creature,Common,Spider
-38,Spell,Rare,Oblivion Wall
-39,Enchantment,Legendary,Urgent Deathgrip
-40,Spell,Rare,Nimble Assault
-41,Creature,Common,Goblin
-42,Creature,Common,Paladin
-43,Creature,Common,Wolf
-44,Artifact,Common,Ring
+==================,DECK,7280
+0,Creature,Paladin
+1,Creature,Ghoul
+2,Creature,Ghoul
+3,Creature,Snow Rogue Giant of the Golden Palace
+4,Creature,Troll
+5,Creature,Snow Priest Cyclops
+6,Creature,Frozen Rogue Griffin
+7,Creature,Earth Lord Griffin
+8,Creature,Skin-Walker
+9,Creature,Eagle
+10,Artifact,Divine Robe
+11,Enchantment,Shrink
+12,Creature,Snow Undead Elf of the Magical Forest
+13,Spell,Lunar Frost
+14,Creature,Spider
+15,Spell,Frost
+16,Creature,Eagle
+17,Creature,Berserker
+18,Artifact,Irate Miracle Pendant
+19,Creature,Eagle
+20,Artifact,Corpse Ring
+21,Enchantment,Irate Forged Deathgrip
+22,Enchantment,Grim Drain
+23,Enchantment,Dark Shield
+24,Spell,Fireball
+25,Spell,Fireball
+26,Creature,Eagle
+27,Enchantment,Deathgrip
+28,Creature,Light Fighter Orc
+29,Creature,Light King Cyclops
+30,Creature,Fairy
+31,Creature,Snow Queen Kraken
+32,Artifact,Oblivion Gauntlet
+33,Spell,Torment
+34,Creature,Aura Lord Griffin
+35,Spell,Assault
+36,Creature,Aura Warrior Griffin
+37,Creature,Paladin
+38,Spell,Frigid Vortex
+39,Enchantment,Zealous Shimmering Deathgrip
+40,Spell,Corpse Stricken
+41,Creature,Skin-Walker
+42,Creature,Troll
+43,Creature,Wolf
+44,Artifact,Ring

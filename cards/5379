@@ -1,46 +1,46 @@
-==================,DECK,5379,Medium
-0,Creature,Common,Elf
-1,Creature,Common,Wolf
-2,Enchantment,Legendary,Potent Shrink
-3,Creature,Common,Magi
-4,Creature,Mythic,Light Undead Dragon of the Sky
-5,Creature,Rare,Light Lord Hydra
-6,Creature,Common,Paladin
-7,Creature,Legendary,Snow Rogue Orge of the Arctic Blizzards
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Creature,Common,Wolf
-11,Spell,Legendary,Mighty Burst
-12,Spell,Rare,Forged Lightning
-13,Creature,Legendary,Earth Thief Oni of the Magical Forest
-14,Creature,Common,Elf
-15,Creature,Common,Magi
-16,Artifact,Common,Helmet
-17,Spell,Common,Frost
-18,Artifact,Rare,Corpse Greaves
-19,Creature,Rare,Dark Fighter Minotaur
-20,Creature,Common,Wolf
-21,Spell,Legendary,Mighty Frenzy
-22,Creature,Common,Wolf
-23,Artifact,Common,Gloves
-24,Creature,Legendary,Earth Queen Kraken of the Low Hills
-25,Enchantment,Common,Flight
-26,Creature,Rare,Frozen Fighter Hydra
-27,Spell,Rare,Dark Torment
-28,Creature,Common,Eagle
-29,Artifact,Common,Gauntlet
-30,Spell,Common,Assault
-31,Enchantment,Rare,Lunar Age
-32,Spell,Legendary,Intense Burst
-33,Creature,Common,Dwarf
-34,Creature,Rare,Frozen Queen Minotaur
-35,Enchantment,Common,Haste
-36,Creature,Common,Wolf
-37,Spell,Common,Gravitation
-38,Creature,Common,Dwarf
-39,Enchantment,Rare,Nimble Shade
-40,Artifact,Common,Scepter
-41,Creature,Common,Warlock
-42,Creature,Rare,Frozen Rogue Fairy
-43,Creature,Common,Magi
-44,Enchantment,Rare,Lunar Blight
+==================,DECK,5379
+0,Creature,Warlock
+1,Creature,Wolf
+2,Enchantment,Clever Frigid Haste
+3,Creature,Fairy
+4,Creature,Light Undead Dragon of the Sky
+5,Creature,Light Lord Hydra
+6,Creature,Troll
+7,Creature,Snow Rogue Elf of the Arctic Blizzards
+8,Creature,Spider
+9,Creature,Spider
+10,Creature,Wolf
+11,Spell,Potent Lunar Frost
+12,Spell,Chimeric Freeze
+13,Creature,Earth Thief Oni of the Magical Forest
+14,Creature,Warlock
+15,Creature,Fairy
+16,Artifact,Helmet
+17,Spell,Gravitation
+18,Artifact,Nature Greaves
+19,Creature,Dark Fighter Cyclops
+20,Creature,Wolf
+21,Spell,Instant Sorrow Frenzy
+22,Creature,Wolf
+23,Artifact,Gloves
+24,Creature,Earth Queen Ogre of the Low Hills
+25,Enchantment,Strength
+26,Creature,Frozen Fighter Hydra
+27,Spell,Miracle Rage
+28,Creature,Eagle
+29,Artifact,Gauntlet
+30,Spell,Gale
+31,Enchantment,Gloom Firebreath
+32,Spell,Potent Nature Revive
+33,Creature,Magi
+34,Creature,Frozen Queen Cyclops
+35,Enchantment,Age
+36,Creature,Wolf
+37,Spell,Pandemonium
+38,Creature,Magi
+39,Enchantment,Necro Age
+40,Artifact,Scepter
+41,Creature,Berserker
+42,Creature,Frozen Rogue Kraken
+43,Creature,Fairy
+44,Enchantment,Cataclysmic Alacrity

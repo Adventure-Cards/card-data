@@ -1,46 +1,46 @@
-==================,DECK,7208,Light
-0,Creature,Common,Orc
-1,Spell,Common,Burst
-2,Enchantment,Rare,Apocalypse Flight
-3,Enchantment,Common,Lethargy
-4,Creature,Mythic,Frozen Undead Phoenix of the Void
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Goblin
-7,Enchantment,Common,Drain
-8,Spell,Legendary,Angry Vortex
-9,Spell,Common,Rage
-10,Enchantment,Common,Age
-11,Enchantment,Common,Invert
-12,Creature,Rare,Light Thief Skin-Walker
-13,Creature,Common,Ghoul
-14,Enchantment,Common,Blight
-15,Creature,Common,Elf
-16,Creature,Mythic,Snow Ancient Wizard of Hate
-17,Spell,Rare,Solar Wall
-18,Artifact,Rare,Miracle Ring
-19,Spell,Common,Wall
-20,Creature,Common,Ghoul
-21,Artifact,Common,Helm
-22,Creature,Rare,Dark Merchant Skin-Walker
-23,Spell,Legendary,Dire Burst
-24,Enchantment,Rare,Dark Agony
-25,Creature,Common,Warlock
-26,Artifact,Common,Ring
-27,Artifact,Common,Staff
-28,Spell,Common,Burn
-29,Spell,Legendary,Dire Torment
-30,Enchantment,Common,Age
-31,Enchantment,Common,Deathgrip
-32,Creature,Mythic,Frozen Chaos Wizard of the Void
-33,Spell,Common,Gale
-34,Creature,Rare,Death Lord Berserker
-35,Creature,Common,Paladin
-36,Spell,Rare,Miracle Hypnosis
-37,Creature,Rare,Death Merchant Berserker
-38,Creature,Common,Warlock
-39,Artifact,Legendary,Dire Belt
-40,Creature,Legendary,Death King Kraken of the Bright Mountains
-41,Creature,Rare,Snow King Hydra
-42,Creature,Common,Goblin
-43,Artifact,Legendary,Mighty Bracers
-44,Creature,Common,Spider
+==================,DECK,7208
+0,Creature,Spider
+1,Spell,Invisibility
+2,Enchantment,Grim Haste
+3,Enchantment,Shield
+4,Creature,Frozen Undead Phoenix of the Void
+5,Enchantment,Blight
+6,Creature,Skin-Walker
+7,Enchantment,Blight
+8,Spell,Urgent Miracle Stricken
+9,Spell,Gale
+10,Enchantment,Shade
+11,Enchantment,Alacrity
+12,Creature,Light Thief Orc
+13,Creature,Ghoul
+14,Enchantment,Drain
+15,Creature,Warlock
+16,Creature,Snow Ancient Wizard of Hate
+17,Spell,Necro Assault
+18,Artifact,Nimble Ring
+19,Spell,Tempest
+20,Creature,Ghoul
+21,Artifact,Helm
+22,Creature,Dark Merchant Orc
+23,Spell,Clever Oblivion Assault
+24,Enchantment,Miracle Alacrity
+25,Creature,Berserker
+26,Artifact,Ring
+27,Artifact,Staff
+28,Spell,Stun
+29,Spell,Urgent Apocalypse Ice
+30,Enchantment,Firebreath
+31,Enchantment,Firebreath
+32,Creature,Frozen Chaos Wizard of the Void
+33,Spell,Ice
+34,Creature,Death Lord Goblin
+35,Creature,Troll
+36,Spell,Apocalypse Frost
+37,Creature,Death Merchant Goblin
+38,Creature,Berserker
+39,Artifact,Empyrean Frigid Belt
+40,Creature,Death King Ogre of the Bright Mountains
+41,Creature,Snow King Hydra
+42,Creature,Skin-Walker
+43,Artifact,Irate Miracle Bracers
+44,Creature,Paladin

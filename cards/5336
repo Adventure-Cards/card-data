@@ -1,46 +1,46 @@
-==================,DECK,5336,Strong
-0,Creature,Common,Spider
-1,Enchantment,Common,Age
-2,Creature,Common,Paladin
-3,Creature,Mythic,Death Time Phoenix of the Dead
-4,Artifact,Common,Cloak
-5,Spell,Common,Frenzy
-6,Creature,Legendary,Snow Nameless Dragon of Hate
-7,Enchantment,Common,Flight
-8,Creature,Common,Ghoul
-9,Creature,Rare,Aura Thief Hydra
-10,Creature,Common,Warlock
-11,Creature,Common,Orc
-12,Spell,Mythic,Intense Hypnosis
-13,Spell,Common,Reanimate
-14,Enchantment,Common,Age
-15,Creature,Common,Warlock
-16,Creature,Common,Eagle
-17,Creature,Rare,Death Merchant Fairy
-18,Creature,Common,Paladin
-19,Creature,Rare,Death Merchant Minotaur
-20,Creature,Rare,Light Knight Griffin
-21,Creature,Legendary,Dark Undead Oni of the Haven
-22,Spell,Rare,Oblivion Wall
-23,Enchantment,Common,Age
-24,Creature,Legendary,Aura Grand Wizard of the Light
-25,Enchantment,Rare,Lunar Haste
-26,Creature,Mythic,Dark Time Dragon of Illusion
-27,Creature,Common,Wolf
-28,Spell,Common,Stun
-29,Creature,Mythic,Death Grand Demon of the Dead
-30,Creature,Common,Dwarf
-31,Creature,Legendary,Earth Grand Demon of the Shadows
-32,Creature,Common,Orc
-33,Creature,Common,Elf
-34,Enchantment,Mythic,Clever Shade
-35,Creature,Rare,Snow Knight Minotaur
-36,Spell,Legendary,Mighty Rage
-37,Spell,Rare,Grim Heal
-38,Artifact,Common,Belt
-39,Creature,Rare,Death Warrior Griffin
-40,Artifact,Common,Cloak
-41,Enchantment,Rare,Oblivion Shade
-42,Artifact,Rare,Oblivion Boots
-43,Spell,Mythic,Instant Reanimate
-44,Creature,Rare,Earth Warrior Skin-Walker
+==================,DECK,5336
+0,Creature,Paladin
+1,Enchantment,Flight
+2,Creature,Troll
+3,Creature,Death Time Phoenix of the Dead
+4,Artifact,Cloak
+5,Spell,Frost
+6,Creature,Snow Nameless Dragon of Hate
+7,Enchantment,Alacrity
+8,Creature,Ghoul
+9,Creature,Aura Thief Hydra
+10,Creature,Berserker
+11,Creature,Spider
+12,Spell,Clever Corpse Infuriate
+13,Spell,Wall
+14,Enchantment,Drain
+15,Creature,Berserker
+16,Creature,Eagle
+17,Creature,Death Merchant Kraken
+18,Creature,Troll
+19,Creature,Death Merchant Cyclops
+20,Creature,Light Knight Griffin
+21,Creature,Dark Undead Oni of the Haven
+22,Spell,Grim Maelstrom
+23,Enchantment,Deathgrip
+24,Creature,Aura Grand Wizard of the Light
+25,Enchantment,Miracle Firebreath
+26,Creature,Dark Time Dragon of Illusion
+27,Creature,Wolf
+28,Spell,Revive
+29,Creature,Death Grand Demon of the Dead
+30,Creature,Magi
+31,Creature,Earth Grand Demon of the Shadows
+32,Creature,Spider
+33,Creature,Warlock
+34,Enchantment,Urgent Frigid Invert
+35,Creature,Snow Knight Cyclops
+36,Spell,Irate Miracle Torment
+37,Spell,Life Freeze
+38,Artifact,Belt
+39,Creature,Death Warrior Griffin
+40,Artifact,Cloak
+41,Enchantment,Frigid Invert
+42,Artifact,Apocalypse Boots
+43,Spell,Empyrean Necro Freeze
+44,Creature,Earth Warrior Orc

@@ -1,46 +1,46 @@
-==================,DECK,7182,Light
-0,Creature,Common,Paladin
-1,Enchantment,Rare,Life Blight
-2,Enchantment,Legendary,Extreme Shrink
-3,Enchantment,Common,Flight
-4,Creature,Legendary,Aura Fighter Kraken of the Swamp
-5,Artifact,Common,Pendant
-6,Artifact,Common,Bow
-7,Artifact,Legendary,Dire Ghost Wand
-8,Creature,Legendary,Death King Oni of the Low Hills
-9,Creature,Rare,Light Undead Skin-Walker
-10,Creature,Common,Paladin
-11,Creature,Rare,Death Fighter Skin-Walker
-12,Creature,Rare,Aura Assassin Hydra
-13,Enchantment,Common,Lethargy
-14,Creature,Common,Ghoul
-15,Creature,Common,Orc
-16,Creature,Common,Warlock
-17,Spell,Common,Rage
-18,Enchantment,Mythic,Instant Age
-19,Creature,Rare,Light Monk Hydra
-20,Spell,Common,Hypnosis
-21,Creature,Common,Eagle
-22,Creature,Rare,Snow Queen Griffin
-23,Creature,Common,Ghoul
-24,Creature,Common,Dwarf
-25,Creature,Common,Elf
-26,Spell,Rare,Gloom Frenzy
-27,Creature,Common,Orc
-28,Artifact,Rare,Necro Pendant
-29,Enchantment,Common,Drain
-30,Spell,Rare,Necro Sorrow
-31,Creature,Rare,Frozen Queen Griffin
-32,Creature,Common,Spider
-33,Enchantment,Common,Haste
-34,Enchantment,Common,Agony
-35,Creature,Common,Orc
-36,Enchantment,Common,Invert
-37,Creature,Legendary,Death Fighter Oni of the Golden Palace
-38,Enchantment,Rare,Apocalypse Deathgrip
-39,Artifact,Rare,Nimble Bow
-40,Spell,Common,Frenzy
-41,Spell,Common,Reanimate
-42,Creature,Legendary,Frozen Monk Cyclops of the Magical Forest
-43,Creature,Common,Warlock
-44,Creature,Common,Elf
+==================,DECK,7182
+0,Creature,Troll
+1,Enchantment,Nimble Shade
+2,Enchantment,Potent Chimeric Shrink
+3,Enchantment,Lethargy
+4,Creature,Aura Fighter Ogre of the Swamp
+5,Artifact,Pendant
+6,Artifact,Bow
+7,Artifact,Urgent Victory Ghost Wand
+8,Creature,Death King Oni of the Low Hills
+9,Creature,Light Undead Orc
+10,Creature,Troll
+11,Creature,Death Fighter Orc
+12,Creature,Aura Assassin Hydra
+13,Enchantment,Alacrity
+14,Creature,Ghoul
+15,Creature,Spider
+16,Creature,Berserker
+17,Spell,Stun
+18,Enchantment,Clever Nature Lethargy
+19,Creature,Light Monk Hydra
+20,Spell,Burst
+21,Creature,Eagle
+22,Creature,Snow Queen Griffin
+23,Creature,Ghoul
+24,Creature,Magi
+25,Creature,Warlock
+26,Spell,Sorrow Gale
+27,Creature,Spider
+28,Artifact,Necro Pendant
+29,Enchantment,Shrink
+30,Spell,Corpse Maelstrom
+31,Creature,Frozen Queen Griffin
+32,Creature,Paladin
+33,Enchantment,Agony
+34,Enchantment,Invert
+35,Creature,Spider
+36,Enchantment,Age
+37,Creature,Death Fighter Oni of the Golden Palace
+38,Enchantment,Oblivion Drain
+39,Artifact,Hateful Bow
+40,Spell,Fury
+41,Spell,Gravitation
+42,Creature,Frozen Monk Giant of the Magical Forest
+43,Creature,Berserker
+44,Creature,Warlock

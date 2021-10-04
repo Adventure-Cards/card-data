@@ -1,46 +1,46 @@
-==================,DECK,7036,Medium
-0,Creature,Common,Goblin
-1,Enchantment,Legendary,Dire Shield
-2,Enchantment,Common,Shrink
-3,Enchantment,Common,Flight
-4,Enchantment,Common,Agony
-5,Enchantment,Common,Shrink
-6,Creature,Rare,Light Thief Griffin
-7,Creature,Rare,Light Queen Berserker
-8,Creature,Common,Magi
-9,Enchantment,Mythic,Mighty Shield
-10,Creature,Rare,Earth Merchant Fairy
-11,Enchantment,Mythic,Instant Age
-12,Creature,Common,Eagle
-13,Creature,Common,Warlock
-14,Enchantment,Rare,Nature Shrink
-15,Creature,Common,Warlock
-16,Enchantment,Common,Shield
-17,Spell,Common,Stricken
-18,Spell,Mythic,Mighty Frost
-19,Creature,Common,Paladin
-20,Artifact,Common,Potion
-21,Spell,Legendary,Potent Torment
-22,Creature,Common,Dwarf
-23,Creature,Common,Warlock
-24,Artifact,Legendary,Extreme Gauntlet
-25,Spell,Mythic,Potent Pandemonium
-26,Artifact,Legendary,Dire Scepter
-27,Creature,Common,Wolf
-28,Artifact,Legendary,Dire Crown
-29,Creature,Legendary,Aura Knight Kraken of the Arctic Blizzards
-30,Creature,Common,Eagle
-31,Enchantment,Common,Deathgrip
-32,Creature,Rare,Light Assassin Hydra
-33,Creature,Common,Dwarf
-34,Enchantment,Rare,Grim Alacrity
-35,Creature,Legendary,Death Thief Kraken of the Eastern Skies
-36,Artifact,Rare,Shimmering Gloves
-37,Spell,Legendary,Instant Vortex
-38,Enchantment,Common,Alacrity
-39,Creature,Common,Ghoul
-40,Creature,Common,Goblin
-41,Creature,Common,Spider
-42,Enchantment,Common,Agony
-43,Artifact,Common,Greaves
-44,Spell,Common,Assault
+==================,DECK,7036
+0,Creature,Skin-Walker
+1,Enchantment,Instant Victory Drain
+2,Enchantment,Age
+3,Enchantment,Alacrity
+4,Enchantment,Drain
+5,Enchantment,Agony
+6,Creature,Light Thief Griffin
+7,Creature,Light Queen Goblin
+8,Creature,Fairy
+9,Enchantment,Dire Gloom Firebreath
+10,Creature,Earth Merchant Kraken
+11,Enchantment,Empyrean Nature Age
+12,Creature,Eagle
+13,Creature,Berserker
+14,Enchantment,Necro Agony
+15,Creature,Berserker
+16,Enchantment,Age
+17,Spell,Lightning
+18,Spell,Irate Gloom Assault
+19,Creature,Troll
+20,Artifact,Potion
+21,Spell,Irate Apocalypse Burn
+22,Creature,Magi
+23,Creature,Berserker
+24,Artifact,Ardent Gloom Gauntlet
+25,Spell,Potent Oblivion Lightning
+26,Artifact,Instant Frigid Scepter
+27,Creature,Wolf
+28,Artifact,Irate Grim Crown
+29,Creature,Aura Knight Ogre of the Arctic Blizzards
+30,Creature,Eagle
+31,Enchantment,Invert
+32,Creature,Light Assassin Hydra
+33,Creature,Magi
+34,Enchantment,Apocalypse Blight
+35,Creature,Death Thief Ogre of the Eastern Skies
+36,Artifact,Nature Gloves
+37,Spell,Ardent Corpse Invisibility
+38,Enchantment,Alacrity
+39,Creature,Ghoul
+40,Creature,Skin-Walker
+41,Creature,Paladin
+42,Enchantment,Invert
+43,Artifact,Greaves
+44,Spell,Frenzy

@@ -1,46 +1,46 @@
-==================,DECK,4294,Light
-0,Spell,Common,Assault
-1,Creature,Common,Spider
-2,Creature,Common,Elf
-3,Artifact,Common,Ghost Wand
-4,Spell,Common,Vortex
-5,Creature,Common,Paladin
-6,Artifact,Common,Boots
-7,Enchantment,Common,Shield
-8,Enchantment,Common,Shrink
-9,Enchantment,Rare,Apocalypse Flight
-10,Spell,Common,Frost
-11,Creature,Legendary,Dark Queen Cyclops of the Border
-12,Creature,Rare,Death Rogue Skin-Walker
-13,Creature,Common,Elf
-14,Creature,Legendary,Earth Merchant Orge of the Bright Mountains
-15,Creature,Common,Magi
-16,Creature,Common,Eagle
-17,Creature,Common,Wolf
-18,Creature,Common,Wolf
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Warlock
-21,Spell,Rare,Miracle Ice
-22,Creature,Rare,Earth Queen Minotaur
-23,Creature,Rare,Aura Merchant Fairy
-24,Creature,Rare,Dark Monk Griffin
-25,Creature,Rare,Frozen Fighter Fairy
-26,Creature,Common,Elf
-27,Creature,Common,Dwarf
-28,Creature,Common,Wolf
-29,Spell,Common,Sorrow
-30,Enchantment,Common,Strength
-31,Enchantment,Mythic,Urgent Shade
-32,Spell,Rare,Solar Wall
-33,Creature,Common,Paladin
-34,Artifact,Legendary,Clever Staff
-35,Creature,Rare,Earth Assassin Berserker
-36,Creature,Common,Elf
-37,Spell,Common,Sorrow
-38,Creature,Mythic,Frozen Grand Demon of the Void
-39,Enchantment,Common,Shade
-40,Spell,Common,Burn
-41,Enchantment,Rare,Hateful Haste
-42,Creature,Common,Magi
-43,Enchantment,Common,Invert
-44,Creature,Common,Wolf
+==================,DECK,4294
+0,Spell,Torment
+1,Creature,Paladin
+2,Creature,Warlock
+3,Artifact,Ghost Wand
+4,Spell,Lightning
+5,Creature,Troll
+6,Artifact,Boots
+7,Enchantment,Alacrity
+8,Enchantment,Drain
+9,Enchantment,Grim Shade
+10,Spell,Fury
+11,Creature,Dark Queen Giant of the Border
+12,Creature,Death Rogue Orc
+13,Creature,Warlock
+14,Creature,Earth Merchant Elf of the Bright Mountains
+15,Creature,Fairy
+16,Creature,Eagle
+17,Creature,Wolf
+18,Creature,Wolf
+19,Enchantment,Lethargy
+20,Creature,Berserker
+21,Spell,Life Stricken
+22,Creature,Earth Queen Cyclops
+23,Creature,Aura Merchant Kraken
+24,Creature,Dark Monk Griffin
+25,Creature,Frozen Fighter Kraken
+26,Creature,Warlock
+27,Creature,Magi
+28,Creature,Wolf
+29,Spell,Torment
+30,Enchantment,Agony
+31,Enchantment,Irate Necro Deathgrip
+32,Spell,Corpse Gale
+33,Creature,Troll
+34,Artifact,Irate Grim Staff
+35,Creature,Earth Assassin Goblin
+36,Creature,Warlock
+37,Spell,Fire
+38,Creature,Frozen Grand Demon of the Void
+39,Enchantment,Shade
+40,Spell,Fire
+41,Enchantment,Miracle Alacrity
+42,Creature,Fairy
+43,Enchantment,Age
+44,Creature,Wolf

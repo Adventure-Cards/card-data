@@ -1,46 +1,46 @@
-==================,DECK,6119,Medium
-0,Enchantment,Common,Flight
-1,Spell,Common,Reanimate
-2,Enchantment,Common,Shade
-3,Creature,Legendary,Snow Assassin Orge of the Bright Mountains
-4,Spell,Common,Lightning
-5,Enchantment,Common,Invert
-6,Enchantment,Common,Shield
-7,Spell,Mythic,Mighty Frost
-8,Creature,Rare,Dark Thief Griffin
-9,Enchantment,Common,Shield
-10,Artifact,Common,Amulet
-11,Spell,Common,Sorrow
-12,Enchantment,Mythic,Dire Shield
-13,Spell,Common,Stun
-14,Spell,Legendary,Clever Hypnosis
-15,Enchantment,Common,Flight
-16,Enchantment,Mythic,Potent Agony
-17,Creature,Legendary,Earth Merchant Orge of the Eternal Land
-18,Enchantment,Common,Age
-19,Enchantment,Common,Agony
-20,Creature,Common,Warlock
-21,Creature,Common,Warlock
-22,Artifact,Legendary,Dire Bow
-23,Creature,Rare,Frozen Knight Griffin
-24,Enchantment,Common,Drain
-25,Creature,Legendary,Earth Priest Giant of the Polar Woods
-26,Creature,Common,Paladin
-27,Spell,Rare,Life Reanimate
-28,Artifact,Rare,Nature Pendant
-29,Creature,Common,Magi
-30,Spell,Common,Infuriate
-31,Creature,Common,Elf
-32,Creature,Common,Dwarf
-33,Creature,Legendary,Light Warrior Orge of the Border
-34,Creature,Common,Spider
-35,Artifact,Rare,Solar Ghost Wand
-36,Creature,Common,Warlock
-37,Creature,Common,Elf
-38,Creature,Legendary,Death Undead Cyclops of the West
-39,Creature,Common,Wolf
-40,Creature,Legendary,Earth King Giant of the Swamp
-41,Creature,Common,Elf
-42,Spell,Legendary,Extreme Pandemonium
-43,Spell,Common,Ice
-44,Spell,Rare,Gloom Frost
+==================,DECK,6119
+0,Enchantment,Blight
+1,Spell,Ice
+2,Enchantment,Blight
+3,Creature,Snow Assassin Elf of the Bright Mountains
+4,Spell,Assault
+5,Enchantment,Agony
+6,Enchantment,Age
+7,Spell,Ardent Dark Heal
+8,Creature,Dark Thief Griffin
+9,Enchantment,Invert
+10,Artifact,Amulet
+11,Spell,Fire
+12,Enchantment,Irate Victory Blight
+13,Spell,Pandemonium
+14,Spell,Potent Grim Invisibility
+15,Enchantment,Shield
+16,Enchantment,Ardent Life Haste
+17,Creature,Earth Merchant Elf of the Eternal Land
+18,Enchantment,Shrink
+19,Enchantment,Strength
+20,Creature,Berserker
+21,Creature,Berserker
+22,Artifact,Mighty Nimble Bow
+23,Creature,Frozen Knight Griffin
+24,Enchantment,Shrink
+25,Creature,Earth Priest Dwarf of the Polar Woods
+26,Creature,Troll
+27,Spell,Victory Assault
+28,Artifact,Corpse Pendant
+29,Creature,Fairy
+30,Spell,Rage
+31,Creature,Warlock
+32,Creature,Magi
+33,Creature,Light Warrior Elf of the Border
+34,Creature,Paladin
+35,Artifact,Corpse Ghost Wand
+36,Creature,Berserker
+37,Creature,Warlock
+38,Creature,Death Undead Giant of the West
+39,Creature,Wolf
+40,Creature,Earth King Dwarf of the Swamp
+41,Creature,Warlock
+42,Spell,Mighty Gloom Heal
+43,Spell,Assault
+44,Spell,Dark Torment

@@ -1,46 +1,46 @@
-==================,DECK,7490,Light
-0,Creature,Rare,Frozen Monk Hydra
-1,Creature,Common,Warlock
-2,Artifact,Rare,Grim Scepter
-3,Creature,Rare,Dark Queen Hydra
-4,Creature,Common,Warlock
-5,Creature,Common,Spider
-6,Enchantment,Common,Drain
-7,Creature,Common,Ghoul
-8,Creature,Mythic,Death Chaos Demon of the Dead
-9,Enchantment,Common,Shrink
-10,Creature,Rare,Aura Assassin Griffin
-11,Creature,Common,Goblin
-12,Enchantment,Common,Invert
-13,Creature,Legendary,Aura Queen Giant of the Swamp
-14,Creature,Common,Dwarf
-15,Artifact,Rare,Nimble Tome
-16,Creature,Rare,Earth Undead Skin-Walker
-17,Spell,Rare,Miracle Fury
-18,Spell,Rare,Lunar Sorrow
-19,Creature,Common,Dwarf
-20,Creature,Common,Dwarf
-21,Creature,Common,Orc
-22,Creature,Common,Ghoul
-23,Creature,Rare,Snow King Griffin
-24,Spell,Legendary,Potent Frenzy
-25,Spell,Common,Invisibility
-26,Creature,Common,Magi
-27,Creature,Common,Goblin
-28,Enchantment,Mythic,Intense Haste
-29,Enchantment,Rare,Shimmering Haste
-30,Enchantment,Common,Haste
-31,Spell,Common,Lightning
-32,Creature,Common,Magi
-33,Enchantment,Common,Deathgrip
-34,Creature,Rare,Earth Merchant Fairy
-35,Artifact,Common,Staff
-36,Spell,Legendary,Intense Assault
-37,Creature,Rare,Aura Warrior Fairy
-38,Spell,Rare,Forged Rage
-39,Spell,Common,Frenzy
-40,Creature,Rare,Aura Knight Skin-Walker
-41,Spell,Common,Gale
-42,Spell,Rare,Shimmering Infuriate
-43,Spell,Common,Burst
-44,Creature,Legendary,Dark Monk Giant of the Eternal Land
+==================,DECK,7490
+0,Creature,Frozen Monk Hydra
+1,Creature,Berserker
+2,Artifact,Grim Scepter
+3,Creature,Dark Queen Hydra
+4,Creature,Berserker
+5,Creature,Paladin
+6,Enchantment,Flight
+7,Creature,Ghoul
+8,Creature,Death Chaos Demon of the Dead
+9,Enchantment,Strength
+10,Creature,Aura Assassin Griffin
+11,Creature,Skin-Walker
+12,Enchantment,Blight
+13,Creature,Aura Queen Dwarf of the Swamp
+14,Creature,Magi
+15,Artifact,Forged Tome
+16,Creature,Earth Undead Orc
+17,Spell,Life Rage
+18,Spell,Cataclysmic Gravitation
+19,Creature,Magi
+20,Creature,Magi
+21,Creature,Spider
+22,Creature,Ghoul
+23,Creature,Snow King Griffin
+24,Spell,Urgent Victory Rage
+25,Spell,Hypnosis
+26,Creature,Fairy
+27,Creature,Skin-Walker
+28,Enchantment,Potent Corpse Strength
+29,Enchantment,Corpse Lethargy
+30,Enchantment,Deathgrip
+31,Spell,Burn
+32,Creature,Fairy
+33,Enchantment,Haste
+34,Creature,Earth Merchant Kraken
+35,Artifact,Staff
+36,Spell,Irate Nature Frenzy
+37,Creature,Aura Warrior Kraken
+38,Spell,Cataclysmic Revive
+39,Spell,Lightning
+40,Creature,Aura Knight Orc
+41,Spell,Stricken
+42,Spell,Hateful Stun
+43,Spell,Gale
+44,Creature,Dark Monk Dwarf of the Eternal Land

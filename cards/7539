@@ -1,46 +1,46 @@
-==================,DECK,7539,Medium
-0,Creature,Common,Wolf
-1,Creature,Rare,Frozen Undead Berserker
-2,Creature,Common,Spider
-3,Artifact,Legendary,Dire Ring
-4,Artifact,Common,Ring
-5,Spell,Common,Gravitation
-6,Creature,Common,Orc
-7,Enchantment,Common,Deathgrip
-8,Creature,Rare,Snow Monk Berserker
-9,Spell,Rare,Dark Frost
-10,Creature,Rare,Snow Monk Hydra
-11,Creature,Legendary,Death Lord Giant of the Swamp
-12,Spell,Common,Burn
-13,Creature,Common,Spider
-14,Creature,Rare,Frozen Monk Hydra
-15,Creature,Rare,Aura Monk Griffin
-16,Enchantment,Common,Age
-17,Creature,Common,Orc
-18,Creature,Common,Eagle
-19,Creature,Rare,Frozen Monk Berserker
-20,Creature,Rare,Frozen Monk Fairy
-21,Creature,Common,Dwarf
-22,Creature,Common,Warlock
-23,Spell,Legendary,Mighty Frenzy
-24,Creature,Common,Paladin
-25,Artifact,Rare,Shimmering Gauntlet
-26,Enchantment,Common,Blight
-27,Creature,Common,Wolf
-28,Creature,Common,Spider
-29,Spell,Rare,Lunar Burn
-30,Artifact,Rare,Oblivion Scythe
-31,Spell,Rare,Shimmering Sorrow
-32,Enchantment,Legendary,Urgent Strength
-33,Spell,Common,Fury
-34,Spell,Rare,Frigid Freeze
-35,Creature,Legendary,Earth Assassin Kraken of the Eternal Land
-36,Enchantment,Common,Deathgrip
-37,Creature,Rare,Light Priest Minotaur
-38,Creature,Common,Goblin
-39,Spell,Rare,Forged Freeze
-40,Enchantment,Common,Shield
-41,Enchantment,Rare,Gloom Shield
-42,Creature,Common,Magi
-43,Artifact,Rare,Frigid Ring
-44,Creature,Rare,Aura Thief Skin-Walker
+==================,DECK,7539
+0,Creature,Wolf
+1,Creature,Frozen Undead Goblin
+2,Creature,Paladin
+3,Artifact,Instant Victory Ring
+4,Artifact,Ring
+5,Spell,Vortex
+6,Creature,Spider
+7,Enchantment,Drain
+8,Creature,Snow Monk Goblin
+9,Spell,Miracle Fireball
+10,Creature,Snow Monk Hydra
+11,Creature,Death Lord Dwarf of the Swamp
+12,Spell,Burst
+13,Creature,Paladin
+14,Creature,Frozen Monk Hydra
+15,Creature,Aura Monk Griffin
+16,Enchantment,Blight
+17,Creature,Spider
+18,Creature,Eagle
+19,Creature,Frozen Monk Goblin
+20,Creature,Frozen Monk Kraken
+21,Creature,Magi
+22,Creature,Berserker
+23,Spell,Ardent Dark Maelstrom
+24,Creature,Troll
+25,Artifact,Corpse Gauntlet
+26,Enchantment,Strength
+27,Creature,Wolf
+28,Creature,Paladin
+29,Spell,Gloom Fury
+30,Artifact,Victory Scythe
+31,Spell,Solar Burn
+32,Enchantment,Instant Solar Strength
+33,Spell,Frost
+34,Spell,Grim Torment
+35,Creature,Earth Assassin Ogre of the Eternal Land
+36,Enchantment,Strength
+37,Creature,Light Priest Cyclops
+38,Creature,Skin-Walker
+39,Spell,Miracle Gale
+40,Enchantment,Flight
+41,Enchantment,Gloom Alacrity
+42,Creature,Fairy
+43,Artifact,Life Ring
+44,Creature,Aura Thief Orc

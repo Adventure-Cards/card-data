@@ -1,46 +1,46 @@
-==================,DECK,4196,Light
-0,Creature,Common,Orc
-1,Creature,Common,Warlock
-2,Spell,Common,Torment
-3,Creature,Common,Eagle
-4,Creature,Common,Goblin
-5,Creature,Rare,Snow Undead Fairy
-6,Enchantment,Common,Lethargy
-7,Creature,Common,Orc
-8,Spell,Rare,Frigid Rage
-9,Creature,Rare,Light Fighter Skin-Walker
-10,Creature,Rare,Aura Assassin Hydra
-11,Creature,Common,Magi
-12,Creature,Legendary,Death Knight Giant of the Border
-13,Enchantment,Common,Haste
-14,Creature,Rare,Death Assassin Griffin
-15,Creature,Common,Ghoul
-16,Creature,Legendary,Earth Undead Oni of the Border
-17,Artifact,Rare,Solar Pendant
-18,Creature,Common,Ghoul
-19,Creature,Rare,Snow King Minotaur
-20,Creature,Legendary,Aura Fighter Orge of the Magical Forest
-21,Creature,Common,Paladin
-22,Creature,Legendary,Frozen Fighter Kraken of the Polar Woods
-23,Artifact,Common,Shield
-24,Creature,Common,Ghoul
-25,Enchantment,Common,Blight
-26,Creature,Common,Ghoul
-27,Enchantment,Rare,Lunar Shrink
-28,Spell,Common,Frost
-29,Creature,Common,Spider
-30,Spell,Common,Sorrow
-31,Spell,Common,Revive
-32,Creature,Common,Goblin
-33,Spell,Common,Sorrow
-34,Creature,Common,Magi
-35,Artifact,Common,Potion
-36,Creature,Rare,Snow Lord Berserker
-37,Spell,Common,Freeze
-38,Creature,Common,Orc
-39,Creature,Legendary,Light Priest Oni of the Magical Forest
-40,Enchantment,Common,Drain
-41,Enchantment,Rare,Hateful Flight
-42,Creature,Legendary,Dark Queen Oni of the Magical Forest
-43,Creature,Common,Dwarf
-44,Creature,Rare,Earth Assassin Berserker
+==================,DECK,4196
+0,Creature,Spider
+1,Creature,Berserker
+2,Spell,Invisibility
+3,Creature,Eagle
+4,Creature,Skin-Walker
+5,Creature,Snow Undead Kraken
+6,Enchantment,Shield
+7,Creature,Spider
+8,Spell,Nimble Tempest
+9,Creature,Light Fighter Orc
+10,Creature,Aura Assassin Hydra
+11,Creature,Fairy
+12,Creature,Death Knight Dwarf of the Border
+13,Enchantment,Deathgrip
+14,Creature,Death Assassin Griffin
+15,Creature,Ghoul
+16,Creature,Earth Undead Oni of the Border
+17,Artifact,Solar Pendant
+18,Creature,Ghoul
+19,Creature,Snow King Cyclops
+20,Creature,Aura Fighter Elf of the Magical Forest
+21,Creature,Troll
+22,Creature,Frozen Fighter Ogre of the Polar Woods
+23,Artifact,Shield
+24,Creature,Ghoul
+25,Enchantment,Flight
+26,Creature,Ghoul
+27,Enchantment,Chimeric Shield
+28,Spell,Fireball
+29,Creature,Paladin
+30,Spell,Frenzy
+31,Spell,Ice
+32,Creature,Skin-Walker
+33,Spell,Gravitation
+34,Creature,Fairy
+35,Artifact,Potion
+36,Creature,Snow Lord Goblin
+37,Spell,Frenzy
+38,Creature,Spider
+39,Creature,Light Priest Oni of the Magical Forest
+40,Enchantment,Deathgrip
+41,Enchantment,Lunar Shield
+42,Creature,Dark Queen Oni of the Magical Forest
+43,Creature,Magi
+44,Creature,Earth Assassin Goblin

@@ -1,46 +1,46 @@
-==================,DECK,4406,Medium
-0,Artifact,Common,Crown
-1,Enchantment,Common,Drain
-2,Creature,Common,Ghoul
-3,Enchantment,Common,Drain
-4,Enchantment,Common,Strength
-5,Creature,Rare,Frozen King Griffin
-6,Enchantment,Common,Alacrity
-7,Creature,Common,Dwarf
-8,Creature,Rare,Death Rogue Minotaur
-9,Spell,Common,Rage
-10,Artifact,Common,Boots
-11,Creature,Rare,Dark Queen Berserker
-12,Enchantment,Mythic,Angry Alacrity
-13,Creature,Common,Goblin
-14,Creature,Rare,Snow Assassin Berserker
-15,Creature,Mythic,Snow Nameless Dragon of Hate
-16,Creature,Common,Spider
-17,Artifact,Legendary,Urgent Staff
-18,Creature,Common,Warlock
-19,Creature,Mythic,Frozen Undead Phoenix of the Void
-20,Enchantment,Common,Flight
-21,Artifact,Common,Ring
-22,Spell,Rare,Frigid Frenzy
-23,Creature,Rare,Aura Lord Griffin
-24,Spell,Common,Heal
-25,Enchantment,Common,Invert
-26,Creature,Common,Paladin
-27,Creature,Rare,Snow Lord Fairy
-28,Spell,Legendary,Dire Stricken
-29,Spell,Common,Pandemonium
-30,Creature,Common,Spider
-31,Artifact,Common,Gloves
-32,Artifact,Rare,Gloom Ring
-33,Enchantment,Legendary,Dire Drain
-34,Creature,Rare,Frozen Priest Minotaur
-35,Enchantment,Common,Haste
-36,Creature,Legendary,Dark Assassin Orge of the Eastern Skies
-37,Creature,Legendary,Snow Monk Orge of the Low Hills
-38,Enchantment,Common,Shield
-39,Creature,Common,Paladin
-40,Spell,Rare,Necro Burst
-41,Creature,Rare,Death Knight Griffin
-42,Creature,Rare,Snow Assassin Griffin
-43,Enchantment,Common,Age
-44,Spell,Legendary,Intense Lightning
+==================,DECK,4406
+0,Artifact,Crown
+1,Enchantment,Blight
+2,Creature,Ghoul
+3,Enchantment,Invert
+4,Enchantment,Lethargy
+5,Creature,Frozen King Griffin
+6,Enchantment,Haste
+7,Creature,Magi
+8,Creature,Death Rogue Cyclops
+9,Spell,Gale
+10,Artifact,Boots
+11,Creature,Dark Queen Goblin
+12,Enchantment,Urgent Dark Flight
+13,Creature,Skin-Walker
+14,Creature,Snow Assassin Goblin
+15,Creature,Snow Nameless Dragon of Hate
+16,Creature,Paladin
+17,Artifact,Irate Solar Staff
+18,Creature,Berserker
+19,Creature,Frozen Undead Phoenix of the Void
+20,Enchantment,Shield
+21,Artifact,Ring
+22,Spell,Victory Hypnosis
+23,Creature,Aura Lord Griffin
+24,Spell,Burst
+25,Enchantment,Deathgrip
+26,Creature,Troll
+27,Creature,Snow Lord Kraken
+28,Spell,Zealous Apocalypse Torment
+29,Spell,Vortex
+30,Creature,Paladin
+31,Artifact,Gloves
+32,Artifact,Sorrow Ring
+33,Enchantment,Mighty Apocalypse Invert
+34,Creature,Frozen Priest Cyclops
+35,Enchantment,Shield
+36,Creature,Dark Assassin Elf of the Eastern Skies
+37,Creature,Snow Monk Elf of the Low Hills
+38,Enchantment,Shield
+39,Creature,Troll
+40,Spell,Nature Frenzy
+41,Creature,Death Knight Griffin
+42,Creature,Snow Assassin Griffin
+43,Enchantment,Age
+44,Spell,Ardent Solar Stun

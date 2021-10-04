@@ -1,46 +1,46 @@
-==================,DECK,5376,Light
-0,Enchantment,Common,Age
-1,Creature,Common,Paladin
-2,Creature,Mythic,Earth Nameless Dragon of the Shadows
-3,Creature,Rare,Dark Lord Berserker
-4,Spell,Common,Burst
-5,Enchantment,Common,Flight
-6,Spell,Common,Heal
-7,Creature,Legendary,Snow Warrior Kraken of the Low Hills
-8,Creature,Common,Ghoul
-9,Spell,Rare,Grim Vortex
-10,Enchantment,Rare,Oblivion Strength
-11,Spell,Common,Vortex
-12,Artifact,Common,Helmet
-13,Enchantment,Mythic,Clever Agony
-14,Creature,Common,Orc
-15,Enchantment,Rare,Corpse Strength
-16,Enchantment,Common,Shrink
-17,Spell,Common,Hypnosis
-18,Spell,Rare,Nature Stun
-19,Creature,Legendary,Snow King Oni of the Bright Mountains
-20,Creature,Common,Orc
-21,Creature,Rare,Death Merchant Berserker
-22,Spell,Rare,Grim Frost
-23,Enchantment,Common,Strength
-24,Artifact,Rare,Gloom Scepter
-25,Creature,Common,Ghoul
-26,Enchantment,Mythic,Potent Age
-27,Creature,Common,Eagle
-28,Creature,Rare,Dark Undead Hydra
-29,Creature,Common,Wolf
-30,Creature,Common,Goblin
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Rare,Solar Strength
-33,Creature,Common,Spider
-34,Creature,Rare,Death Knight Skin-Walker
-35,Creature,Common,Magi
-36,Enchantment,Common,Invert
-37,Creature,Common,Ghoul
-38,Spell,Common,Torment
-39,Spell,Rare,Apocalypse Fury
-40,Creature,Common,Paladin
-41,Creature,Common,Paladin
-42,Creature,Common,Warlock
-43,Creature,Rare,Aura Priest Minotaur
-44,Artifact,Common,Pendant
+==================,DECK,5376
+0,Enchantment,Agony
+1,Creature,Troll
+2,Creature,Earth Nameless Dragon of the Shadows
+3,Creature,Dark Lord Goblin
+4,Spell,Stun
+5,Enchantment,Invert
+6,Spell,Lightning
+7,Creature,Snow Warrior Ogre of the Low Hills
+8,Creature,Ghoul
+9,Spell,Frigid Invisibility
+10,Enchantment,Nimble Drain
+11,Spell,Burn
+12,Artifact,Helmet
+13,Enchantment,Urgent Life Invert
+14,Creature,Spider
+15,Enchantment,Solar Deathgrip
+16,Enchantment,Deathgrip
+17,Spell,Stun
+18,Spell,Forged Revive
+19,Creature,Snow King Oni of the Bright Mountains
+20,Creature,Spider
+21,Creature,Death Merchant Goblin
+22,Spell,Oblivion Fury
+23,Enchantment,Invert
+24,Artifact,Gloom Scepter
+25,Creature,Ghoul
+26,Enchantment,Mighty Victory Invert
+27,Creature,Eagle
+28,Creature,Dark Undead Hydra
+29,Creature,Wolf
+30,Creature,Skin-Walker
+31,Enchantment,Drain
+32,Enchantment,Solar Agony
+33,Creature,Paladin
+34,Creature,Death Knight Orc
+35,Creature,Fairy
+36,Enchantment,Alacrity
+37,Creature,Ghoul
+38,Spell,Frost
+39,Spell,Grim Gale
+40,Creature,Troll
+41,Creature,Troll
+42,Creature,Berserker
+43,Creature,Aura Priest Cyclops
+44,Artifact,Pendant

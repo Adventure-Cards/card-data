@@ -1,46 +1,46 @@
-==================,DECK,4314,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Spider
-2,Creature,Common,Dwarf
-3,Creature,Common,Spider
-4,Enchantment,Mythic,Potent Flight
-5,Creature,Rare,Frozen Knight Griffin
-6,Creature,Common,Elf
-7,Enchantment,Common,Lethargy
-8,Artifact,Common,Gauntlet
-9,Enchantment,Mythic,Dire Shade
-10,Spell,Common,Fury
-11,Creature,Common,Dwarf
-12,Enchantment,Common,Haste
-13,Creature,Rare,Snow Knight Griffin
-14,Spell,Common,Lightning
-15,Creature,Rare,Light Queen Hydra
-16,Creature,Common,Dwarf
-17,Spell,Rare,Nature Maelstrom
-18,Enchantment,Mythic,Urgent Flight
-19,Spell,Legendary,Clever Infuriate
-20,Spell,Common,Ice
-21,Creature,Common,Dwarf
-22,Creature,Rare,Frozen Queen Minotaur
-23,Artifact,Common,Bracers
-24,Creature,Common,Eagle
-25,Spell,Common,Stricken
-26,Creature,Common,Eagle
-27,Spell,Rare,Frigid Torment
-28,Artifact,Common,Boots
-29,Creature,Common,Warlock
-30,Enchantment,Common,Flight
-31,Spell,Common,Revive
-32,Artifact,Common,Tome
-33,Creature,Rare,Dark Merchant Minotaur
-34,Enchantment,Common,Invert
-35,Creature,Mythic,Light Nameless Dragon of the Sky
-36,Creature,Rare,Dark Warrior Fairy
-37,Spell,Common,Revive
-38,Creature,Common,Eagle
-39,Creature,Common,Goblin
-40,Creature,Common,Paladin
-41,Enchantment,Common,Agony
-42,Creature,Common,Eagle
-43,Creature,Common,Paladin
-44,Creature,Common,Wolf
+==================,DECK,4314
+0,Creature,Magi
+1,Creature,Paladin
+2,Creature,Magi
+3,Creature,Paladin
+4,Enchantment,Zealous Grim Blight
+5,Creature,Frozen Knight Griffin
+6,Creature,Warlock
+7,Enchantment,Agony
+8,Artifact,Gauntlet
+9,Enchantment,Dire Frigid Shade
+10,Spell,Revive
+11,Creature,Magi
+12,Enchantment,Lethargy
+13,Creature,Snow Knight Griffin
+14,Spell,Stricken
+15,Creature,Light Queen Hydra
+16,Creature,Magi
+17,Spell,Shimmering Invisibility
+18,Enchantment,Clever Hateful Lethargy
+19,Spell,Empyrean Grim Gravitation
+20,Spell,Burn
+21,Creature,Magi
+22,Creature,Frozen Queen Cyclops
+23,Artifact,Bracers
+24,Creature,Eagle
+25,Spell,Assault
+26,Creature,Eagle
+27,Spell,Oblivion Fury
+28,Artifact,Boots
+29,Creature,Berserker
+30,Enchantment,Deathgrip
+31,Spell,Vortex
+32,Artifact,Tome
+33,Creature,Dark Merchant Cyclops
+34,Enchantment,Alacrity
+35,Creature,Light Nameless Dragon of the Sky
+36,Creature,Dark Warrior Kraken
+37,Spell,Gravitation
+38,Creature,Eagle
+39,Creature,Skin-Walker
+40,Creature,Troll
+41,Enchantment,Age
+42,Creature,Eagle
+43,Creature,Troll
+44,Creature,Wolf

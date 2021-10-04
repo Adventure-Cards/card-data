@@ -1,46 +1,46 @@
-==================,DECK,7683,Light
-0,Creature,Common,Warlock
-1,Artifact,Rare,Grim Scepter
-2,Spell,Common,Frenzy
-3,Creature,Common,Spider
-4,Creature,Rare,Frozen Undead Berserker
-5,Creature,Common,Wolf
-6,Creature,Rare,Light Fighter Griffin
-7,Creature,Common,Orc
-8,Spell,Common,Revive
-9,Spell,Common,Hypnosis
-10,Enchantment,Common,Alacrity
-11,Creature,Rare,Death Warrior Skin-Walker
-12,Creature,Mythic,Frozen Nameless Phoenix of the Void
-13,Artifact,Rare,Frigid Potion
-14,Enchantment,Rare,Necro Shrink
-15,Spell,Rare,Dark Freeze
-16,Enchantment,Rare,Frigid Shield
-17,Creature,Common,Paladin
-18,Enchantment,Common,Strength
-19,Creature,Common,Magi
-20,Spell,Rare,Lunar Sorrow
-21,Creature,Common,Warlock
-22,Enchantment,Common,Drain
-23,Creature,Common,Paladin
-24,Spell,Common,Stricken
-25,Artifact,Common,Sword
-26,Creature,Common,Spider
-27,Spell,Legendary,Urgent Infuriate
-28,Creature,Common,Spider
-29,Spell,Common,Revive
-30,Creature,Rare,Light Fighter Fairy
-31,Creature,Mythic,Snow Nameless Dragon of Hate
-32,Enchantment,Common,Shield
-33,Creature,Common,Goblin
-34,Spell,Rare,Nature Infuriate
-35,Spell,Common,Sorrow
-36,Enchantment,Common,Shield
-37,Spell,Common,Frost
-38,Spell,Common,Ice
-39,Spell,Common,Stricken
-40,Spell,Common,Freeze
-41,Creature,Rare,Snow Queen Hydra
-42,Artifact,Common,Ghost Wand
-43,Creature,Common,Spider
-44,Enchantment,Mythic,Potent Deathgrip
+==================,DECK,7683
+0,Creature,Berserker
+1,Artifact,Life Scepter
+2,Spell,Rage
+3,Creature,Paladin
+4,Creature,Frozen Undead Goblin
+5,Creature,Wolf
+6,Creature,Light Fighter Griffin
+7,Creature,Spider
+8,Spell,Revive
+9,Spell,Burn
+10,Enchantment,Haste
+11,Creature,Death Warrior Orc
+12,Creature,Frozen Nameless Phoenix of the Void
+13,Artifact,Apocalypse Potion
+14,Enchantment,Necro Strength
+15,Spell,Lunar Hypnosis
+16,Enchantment,Victory Haste
+17,Creature,Troll
+18,Enchantment,Shade
+19,Creature,Fairy
+20,Spell,Chimeric Tempest
+21,Creature,Berserker
+22,Enchantment,Firebreath
+23,Creature,Troll
+24,Spell,Invisibility
+25,Artifact,Sword
+26,Creature,Paladin
+27,Spell,Zealous Shimmering Wall
+28,Creature,Paladin
+29,Spell,Infuriate
+30,Creature,Light Fighter Kraken
+31,Creature,Snow Nameless Dragon of Hate
+32,Enchantment,Shield
+33,Creature,Skin-Walker
+34,Spell,Shimmering Rage
+35,Spell,Gale
+36,Enchantment,Drain
+37,Spell,Gravitation
+38,Spell,Heal
+39,Spell,Infuriate
+40,Spell,Freeze
+41,Creature,Snow Queen Hydra
+42,Artifact,Ghost Wand
+43,Creature,Paladin
+44,Enchantment,Mighty Oblivion Invert

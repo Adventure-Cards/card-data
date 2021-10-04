@@ -1,46 +1,46 @@
-==================,DECK,7884,Light
-0,Creature,Common,Orc
-1,Spell,Legendary,Dire Burn
-2,Spell,Rare,Lunar Burn
-3,Artifact,Rare,Nature Gauntlet
-4,Enchantment,Common,Haste
-5,Spell,Common,Wall
-6,Creature,Common,Ghoul
-7,Spell,Legendary,Angry Burst
-8,Creature,Common,Paladin
-9,Enchantment,Common,Alacrity
-10,Creature,Common,Elf
-11,Creature,Common,Elf
-12,Spell,Rare,Life Reanimate
-13,Creature,Common,Dwarf
-14,Creature,Common,Warlock
-15,Creature,Legendary,Dark Merchant Cyclops of the Mountains
-16,Enchantment,Common,Shield
-17,Creature,Common,Dwarf
-18,Enchantment,Common,Strength
-19,Enchantment,Common,Haste
-20,Creature,Common,Ghoul
-21,Creature,Rare,Death Undead Minotaur
-22,Creature,Common,Ghoul
-23,Creature,Common,Paladin
-24,Creature,Common,Paladin
-25,Enchantment,Common,Deathgrip
-26,Spell,Legendary,Intense Heal
-27,Creature,Common,Paladin
-28,Creature,Legendary,Aura Knight Kraken of the Swamp
-29,Creature,Common,Eagle
-30,Creature,Common,Eagle
-31,Enchantment,Legendary,Dire Age
-32,Enchantment,Mythic,Potent Drain
-33,Creature,Rare,Light Merchant Griffin
-34,Spell,Common,Lightning
-35,Spell,Common,Assault
-36,Creature,Legendary,Dark Queen Kraken of the Polar Woods
-37,Artifact,Rare,Dark Sigil
-38,Creature,Legendary,Death Knight Cyclops of the Eastern Skies
-39,Creature,Legendary,Frozen Monk Orge of the Arctic Blizzards
-40,Creature,Common,Orc
-41,Spell,Common,Maelstrom
-42,Enchantment,Common,Invert
-43,Creature,Legendary,Dark Merchant Kraken of the Bright Mountains
-44,Creature,Common,Warlock
+==================,DECK,7884
+0,Creature,Spider
+1,Spell,Zealous Grim Rage
+2,Spell,Sorrow Stricken
+3,Artifact,Forged Gauntlet
+4,Enchantment,Deathgrip
+5,Spell,Vortex
+6,Creature,Ghoul
+7,Spell,Zealous Cataclysmic Burst
+8,Creature,Troll
+9,Enchantment,Lethargy
+10,Creature,Warlock
+11,Creature,Warlock
+12,Spell,Frigid Hypnosis
+13,Creature,Magi
+14,Creature,Berserker
+15,Creature,Dark Merchant Giant of the Mountains
+16,Enchantment,Shade
+17,Creature,Magi
+18,Enchantment,Lethargy
+19,Enchantment,Age
+20,Creature,Ghoul
+21,Creature,Death Undead Cyclops
+22,Creature,Ghoul
+23,Creature,Troll
+24,Creature,Troll
+25,Enchantment,Firebreath
+26,Spell,Urgent Corpse Pandemonium
+27,Creature,Troll
+28,Creature,Aura Knight Ogre of the Swamp
+29,Creature,Eagle
+30,Creature,Eagle
+31,Enchantment,Zealous Victory Blight
+32,Enchantment,Clever Apocalypse Haste
+33,Creature,Light Merchant Griffin
+34,Spell,Freeze
+35,Spell,Assault
+36,Creature,Dark Queen Ogre of the Polar Woods
+37,Artifact,Cataclysmic Sigil
+38,Creature,Death Knight Giant of the Eastern Skies
+39,Creature,Frozen Monk Elf of the Arctic Blizzards
+40,Creature,Spider
+41,Spell,Stricken
+42,Enchantment,Firebreath
+43,Creature,Dark Merchant Ogre of the Bright Mountains
+44,Creature,Berserker

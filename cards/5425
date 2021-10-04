@@ -1,46 +1,46 @@
-==================,DECK,5425,Light
-0,Creature,Legendary,Light Undead Giant of the Haven
-1,Creature,Common,Magi
-2,Enchantment,Common,Blight
-3,Enchantment,Common,Agony
-4,Spell,Rare,Oblivion Wall
-5,Enchantment,Common,Age
-6,Creature,Common,Eagle
-7,Creature,Rare,Frozen Rogue Skin-Walker
-8,Spell,Legendary,Clever Invisibility
-9,Spell,Common,Rage
-10,Spell,Common,Ice
-11,Spell,Rare,Necro Ice
-12,Creature,Common,Spider
-13,Creature,Common,Spider
-14,Spell,Common,Sorrow
-15,Creature,Common,Eagle
-16,Spell,Common,Frenzy
-17,Enchantment,Common,Drain
-18,Spell,Rare,Miracle Gale
-19,Creature,Common,Wolf
-20,Artifact,Rare,Grim Pendant
-21,Artifact,Common,Crown
-22,Creature,Common,Dwarf
-23,Enchantment,Common,Shade
-24,Spell,Common,Heal
-25,Artifact,Common,Boots
-26,Spell,Common,Infuriate
-27,Spell,Legendary,Clever Revive
-28,Creature,Rare,Earth Merchant Minotaur
-29,Spell,Legendary,Urgent Vortex
-30,Spell,Common,Gravitation
-31,Creature,Legendary,Aura Queen Cyclops of the West
-32,Artifact,Rare,Frigid Gloves
-33,Enchantment,Common,Blight
-34,Spell,Rare,Forged Revive
-35,Creature,Rare,Aura Queen Berserker
-36,Spell,Common,Frost
-37,Creature,Common,Eagle
-38,Creature,Common,Ghoul
-39,Artifact,Common,Scythe
-40,Enchantment,Common,Agony
-41,Enchantment,Common,Invert
-42,Artifact,Common,Gloves
-43,Enchantment,Legendary,Intense Invert
-44,Creature,Common,Eagle
+==================,DECK,5425
+0,Creature,Light Undead Dwarf of the Haven
+1,Creature,Fairy
+2,Enchantment,Shade
+3,Enchantment,Flight
+4,Spell,Nimble Hypnosis
+5,Enchantment,Age
+6,Creature,Eagle
+7,Creature,Frozen Rogue Orc
+8,Spell,Instant Victory Pandemonium
+9,Spell,Assault
+10,Spell,Sorrow
+11,Spell,Necro Frost
+12,Creature,Paladin
+13,Creature,Paladin
+14,Spell,Vortex
+15,Creature,Eagle
+16,Spell,Sorrow
+17,Enchantment,Drain
+18,Spell,Oblivion Lightning
+19,Creature,Wolf
+20,Artifact,Victory Pendant
+21,Artifact,Crown
+22,Creature,Magi
+23,Enchantment,Invert
+24,Spell,Tempest
+25,Artifact,Boots
+26,Spell,Burst
+27,Spell,Instant Apocalypse Frost
+28,Creature,Earth Merchant Cyclops
+29,Spell,Dire Corpse Heal
+30,Spell,Revive
+31,Creature,Aura Queen Giant of the West
+32,Artifact,Life Gloves
+33,Enchantment,Flight
+34,Spell,Cataclysmic Assault
+35,Creature,Aura Queen Goblin
+36,Spell,Fury
+37,Creature,Eagle
+38,Creature,Ghoul
+39,Artifact,Scythe
+40,Enchantment,Shade
+41,Enchantment,Invert
+42,Artifact,Gloves
+43,Enchantment,Irate Shimmering Deathgrip
+44,Creature,Eagle

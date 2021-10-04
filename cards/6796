@@ -1,46 +1,46 @@
-==================,DECK,6796,Medium
-0,Creature,Common,Paladin
-1,Spell,Mythic,Clever Heal
-2,Creature,Rare,Earth Rogue Skin-Walker
-3,Enchantment,Legendary,Extreme Shade
-4,Creature,Rare,Aura Rogue Fairy
-5,Creature,Common,Elf
-6,Spell,Common,Torment
-7,Enchantment,Common,Shield
-8,Spell,Legendary,Mighty Wall
-9,Creature,Common,Dwarf
-10,Creature,Mythic,Dark Ancient Demon of Illusion
-11,Spell,Common,Fury
-12,Creature,Common,Wolf
-13,Spell,Common,Gravitation
-14,Enchantment,Common,Shade
-15,Creature,Legendary,Dark Queen Kraken of the Swamp
-16,Creature,Common,Eagle
-17,Creature,Legendary,Dark Warrior Kraken of the Border
-18,Creature,Common,Ghoul
-19,Creature,Mythic,Frozen Chaos Demon of the Void
-20,Creature,Common,Ghoul
-21,Creature,Rare,Aura Knight Berserker
-22,Creature,Common,Paladin
-23,Artifact,Rare,Grim Helmet
-24,Creature,Legendary,Light Merchant Kraken of the Eastern Skies
-25,Creature,Common,Paladin
-26,Enchantment,Common,Shrink
-27,Spell,Rare,Frigid Wall
-28,Creature,Common,Eagle
-29,Enchantment,Common,Age
-30,Creature,Mythic,Dark Time Phoenix of Illusion
-31,Creature,Rare,Snow Rogue Skin-Walker
-32,Spell,Rare,Cataclysmic Gale
-33,Creature,Common,Magi
-34,Creature,Legendary,Death Assassin Giant of the Black Stone
-35,Creature,Common,Dwarf
-36,Creature,Rare,Earth King Minotaur
-37,Creature,Rare,Aura Undead Berserker
-38,Artifact,Common,Scepter
-39,Creature,Legendary,Light Undead Giant of the Low Hills
-40,Enchantment,Common,Agony
-41,Creature,Mythic,Dark Time Dragon of Illusion
-42,Enchantment,Common,Shield
-43,Spell,Common,Vortex
-44,Enchantment,Common,Shade
+==================,DECK,6796
+0,Creature,Troll
+1,Spell,Ardent Oblivion Rage
+2,Creature,Earth Rogue Orc
+3,Enchantment,Ardent Chimeric Shield
+4,Creature,Aura Rogue Kraken
+5,Creature,Warlock
+6,Spell,Infuriate
+7,Enchantment,Blight
+8,Spell,Urgent Dark Fury
+9,Creature,Magi
+10,Creature,Dark Ancient Demon of Illusion
+11,Spell,Fury
+12,Creature,Wolf
+13,Spell,Stun
+14,Enchantment,Agony
+15,Creature,Dark Queen Ogre of the Swamp
+16,Creature,Eagle
+17,Creature,Dark Warrior Ogre of the Border
+18,Creature,Ghoul
+19,Creature,Frozen Chaos Demon of the Void
+20,Creature,Ghoul
+21,Creature,Aura Knight Goblin
+22,Creature,Troll
+23,Artifact,Grim Helmet
+24,Creature,Light Merchant Ogre of the Eastern Skies
+25,Creature,Troll
+26,Enchantment,Agony
+27,Spell,Victory Burn
+28,Creature,Eagle
+29,Enchantment,Shrink
+30,Creature,Dark Time Phoenix of Illusion
+31,Creature,Snow Rogue Orc
+32,Spell,Dark Fire
+33,Creature,Fairy
+34,Creature,Death Assassin Dwarf of the Black Stone
+35,Creature,Magi
+36,Creature,Earth King Cyclops
+37,Creature,Aura Undead Goblin
+38,Artifact,Scepter
+39,Creature,Light Undead Dwarf of the Low Hills
+40,Enchantment,Flight
+41,Creature,Dark Time Dragon of Illusion
+42,Enchantment,Alacrity
+43,Spell,Maelstrom
+44,Enchantment,Shade

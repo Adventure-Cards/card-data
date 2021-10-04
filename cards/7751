@@ -1,46 +1,46 @@
-==================,DECK,7751,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Goblin
-2,Artifact,Legendary,Extreme Ring
-3,Creature,Common,Wolf
-4,Spell,Common,Hypnosis
-5,Spell,Common,Gravitation
-6,Spell,Common,Maelstrom
-7,Creature,Common,Dwarf
-8,Creature,Common,Orc
-9,Creature,Common,Wolf
-10,Artifact,Common,Potion
-11,Creature,Mythic,Frozen Time Phoenix of the Void
-12,Creature,Common,Paladin
-13,Creature,Common,Wolf
-14,Creature,Common,Magi
-15,Artifact,Common,Shield
-16,Spell,Legendary,Urgent Lightning
-17,Spell,Common,Stun
-18,Creature,Common,Eagle
-19,Creature,Common,Orc
-20,Creature,Common,Paladin
-21,Creature,Common,Elf
-22,Artifact,Rare,Grim Scepter
-23,Enchantment,Common,Shade
-24,Creature,Common,Goblin
-25,Creature,Common,Spider
-26,Creature,Common,Warlock
-27,Artifact,Common,Scythe
-28,Enchantment,Legendary,Extreme Haste
-29,Spell,Common,Stun
-30,Creature,Common,Dwarf
-31,Creature,Rare,Aura King Berserker
-32,Creature,Common,Dwarf
-33,Creature,Common,Eagle
-34,Enchantment,Mythic,Dire Shade
-35,Creature,Common,Elf
-36,Enchantment,Common,Age
-37,Artifact,Common,Greaves
-38,Spell,Common,Heal
-39,Spell,Rare,Hateful Reanimate
-40,Creature,Rare,Dark King Berserker
-41,Creature,Rare,Death Rogue Hydra
-42,Creature,Common,Magi
-43,Artifact,Common,Bow
-44,Artifact,Rare,Lunar Gauntlet
+==================,DECK,7751
+0,Creature,Eagle
+1,Creature,Skin-Walker
+2,Artifact,Potent Miracle Ring
+3,Creature,Wolf
+4,Spell,Invisibility
+5,Spell,Freeze
+6,Spell,Burn
+7,Creature,Magi
+8,Creature,Spider
+9,Creature,Wolf
+10,Artifact,Potion
+11,Creature,Frozen Time Phoenix of the Void
+12,Creature,Troll
+13,Creature,Wolf
+14,Creature,Fairy
+15,Artifact,Shield
+16,Spell,Urgent Corpse Freeze
+17,Spell,Frost
+18,Creature,Eagle
+19,Creature,Spider
+20,Creature,Troll
+21,Creature,Warlock
+22,Artifact,Frigid Scepter
+23,Enchantment,Shield
+24,Creature,Skin-Walker
+25,Creature,Paladin
+26,Creature,Berserker
+27,Artifact,Scythe
+28,Enchantment,Empyrean Miracle Firebreath
+29,Spell,Stun
+30,Creature,Magi
+31,Creature,Aura King Goblin
+32,Creature,Magi
+33,Creature,Eagle
+34,Enchantment,Urgent Frigid Invert
+35,Creature,Warlock
+36,Enchantment,Lethargy
+37,Artifact,Greaves
+38,Spell,Burst
+39,Spell,Gloom Assault
+40,Creature,Dark King Goblin
+41,Creature,Death Rogue Hydra
+42,Creature,Fairy
+43,Artifact,Bow
+44,Artifact,Cataclysmic Gauntlet

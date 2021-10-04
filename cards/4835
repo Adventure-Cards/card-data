@@ -1,46 +1,46 @@
-==================,DECK,4835,Light
-0,Creature,Common,Wolf
-1,Creature,Legendary,Earth Knight Orge of the Border
-2,Creature,Legendary,Aura Undead Giant of the Mountains
-3,Creature,Rare,Light Undead Minotaur
-4,Spell,Common,Frost
-5,Enchantment,Common,Strength
-6,Creature,Rare,Frozen Assassin Berserker
-7,Enchantment,Common,Flight
-8,Enchantment,Rare,Grim Invert
-9,Creature,Mythic,Light Undead Phoenix of the Sky
-10,Creature,Legendary,Earth Queen Oni of the Swamp
-11,Spell,Common,Frenzy
-12,Creature,Common,Goblin
-13,Enchantment,Common,Alacrity
-14,Creature,Legendary,Frozen Fighter Giant of the Magical Forest
-15,Spell,Common,Maelstrom
-16,Creature,Common,Goblin
-17,Creature,Common,Elf
-18,Creature,Common,Ghoul
-19,Creature,Common,Warlock
-20,Enchantment,Common,Drain
-21,Creature,Common,Wolf
-22,Creature,Common,Magi
-23,Artifact,Common,Scepter
-24,Artifact,Rare,Corpse Scepter
-25,Creature,Rare,Snow Priest Griffin
-26,Creature,Common,Wolf
-27,Enchantment,Rare,Life Haste
-28,Artifact,Common,Scepter
-29,Enchantment,Common,Shield
-30,Creature,Common,Spider
-31,Creature,Common,Warlock
-32,Spell,Common,Freeze
-33,Enchantment,Mythic,Instant Drain
-34,Creature,Legendary,Light Fighter Oni of the Bright Mountains
-35,Enchantment,Rare,Oblivion Alacrity
-36,Creature,Rare,Death Fighter Fairy
-37,Creature,Common,Warlock
-38,Creature,Common,Elf
-39,Spell,Common,Burn
-40,Creature,Common,Orc
-41,Spell,Common,Invisibility
-42,Creature,Common,Magi
-43,Spell,Common,Maelstrom
-44,Enchantment,Mythic,Angry Invert
+==================,DECK,4835
+0,Creature,Wolf
+1,Creature,Earth Knight Elf of the Border
+2,Creature,Aura Undead Dwarf of the Mountains
+3,Creature,Light Undead Cyclops
+4,Spell,Vortex
+5,Enchantment,Blight
+6,Creature,Frozen Assassin Goblin
+7,Enchantment,Shield
+8,Enchantment,Oblivion Blight
+9,Creature,Light Undead Phoenix of the Sky
+10,Creature,Earth Queen Oni of the Swamp
+11,Spell,Freeze
+12,Creature,Skin-Walker
+13,Enchantment,Invert
+14,Creature,Frozen Fighter Dwarf of the Magical Forest
+15,Spell,Frost
+16,Creature,Skin-Walker
+17,Creature,Warlock
+18,Creature,Ghoul
+19,Creature,Berserker
+20,Enchantment,Age
+21,Creature,Wolf
+22,Creature,Fairy
+23,Artifact,Scepter
+24,Artifact,Forged Scepter
+25,Creature,Snow Priest Griffin
+26,Creature,Wolf
+27,Enchantment,Life Blight
+28,Artifact,Scepter
+29,Enchantment,Shield
+30,Creature,Paladin
+31,Creature,Berserker
+32,Spell,Torment
+33,Enchantment,Zealous Forged Deathgrip
+34,Creature,Light Fighter Oni of the Bright Mountains
+35,Enchantment,Apocalypse Blight
+36,Creature,Death Fighter Kraken
+37,Creature,Berserker
+38,Creature,Warlock
+39,Spell,Heal
+40,Creature,Spider
+41,Spell,Revive
+42,Creature,Fairy
+43,Spell,Maelstrom
+44,Enchantment,Urgent Sorrow Flight

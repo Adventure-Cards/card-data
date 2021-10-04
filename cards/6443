@@ -1,46 +1,46 @@
-==================,DECK,6443,Light
-0,Creature,Common,Warlock
-1,Artifact,Common,Tome
-2,Spell,Common,Torment
-3,Enchantment,Common,Invert
-4,Creature,Common,Orc
-5,Creature,Common,Orc
-6,Creature,Common,Dwarf
-7,Creature,Common,Warlock
-8,Spell,Common,Invisibility
-9,Creature,Common,Dwarf
-10,Creature,Legendary,Snow Undead Kraken of the Magical Forest
-11,Creature,Common,Eagle
-12,Creature,Common,Wolf
-13,Enchantment,Mythic,Angry Lethargy
-14,Creature,Common,Warlock
-15,Artifact,Rare,Gloom Helmet
-16,Enchantment,Rare,Life Haste
-17,Creature,Rare,Earth Rogue Fairy
-18,Creature,Common,Ghoul
-19,Creature,Common,Ghoul
-20,Creature,Legendary,Death Fighter Oni of the Border
-21,Artifact,Common,Bracers
-22,Creature,Legendary,Light Warrior Cyclops of the Black Stone
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Goblin
-25,Artifact,Common,Greaves
-26,Creature,Common,Goblin
-27,Creature,Mythic,Death Time Phoenix of the Dead
-28,Spell,Legendary,Urgent Stun
-29,Enchantment,Common,Drain
-30,Spell,Rare,Grim Revive
-31,Creature,Common,Elf
-32,Enchantment,Common,Drain
-33,Creature,Common,Elf
-34,Creature,Common,Goblin
-35,Creature,Common,Elf
-36,Spell,Common,Invisibility
-37,Enchantment,Common,Age
-38,Spell,Common,Frenzy
-39,Creature,Rare,Light Fighter Berserker
-40,Artifact,Common,Ring
-41,Creature,Rare,Aura Merchant Berserker
-42,Creature,Legendary,Dark Monk Orge of the Frozen Castle
-43,Creature,Rare,Snow Lord Hydra
-44,Artifact,Common,Ring
+==================,DECK,6443
+0,Creature,Berserker
+1,Artifact,Tome
+2,Spell,Rage
+3,Enchantment,Shrink
+4,Creature,Spider
+5,Creature,Spider
+6,Creature,Magi
+7,Creature,Berserker
+8,Spell,Frost
+9,Creature,Magi
+10,Creature,Snow Undead Ogre of the Magical Forest
+11,Creature,Eagle
+12,Creature,Wolf
+13,Enchantment,Urgent Lunar Flight
+14,Creature,Berserker
+15,Artifact,Chimeric Helmet
+16,Enchantment,Life Shade
+17,Creature,Earth Rogue Kraken
+18,Creature,Ghoul
+19,Creature,Ghoul
+20,Creature,Death Fighter Oni of the Border
+21,Artifact,Bracers
+22,Creature,Light Warrior Giant of the Black Stone
+23,Enchantment,Shrink
+24,Creature,Skin-Walker
+25,Artifact,Greaves
+26,Creature,Skin-Walker
+27,Creature,Death Time Phoenix of the Dead
+28,Spell,Clever Nature Fire
+29,Enchantment,Lethargy
+30,Spell,Life Hypnosis
+31,Creature,Warlock
+32,Enchantment,Lethargy
+33,Creature,Warlock
+34,Creature,Skin-Walker
+35,Creature,Warlock
+36,Spell,Tempest
+37,Enchantment,Blight
+38,Spell,Maelstrom
+39,Creature,Light Fighter Goblin
+40,Artifact,Ring
+41,Creature,Aura Merchant Goblin
+42,Creature,Dark Monk Elf of the Frozen Castle
+43,Creature,Snow Lord Hydra
+44,Artifact,Ring

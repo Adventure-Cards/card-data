@@ -1,46 +1,46 @@
-==================,DECK,6148,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Pandemonium
-2,Artifact,Rare,Forged Gloves
-3,Spell,Common,Gale
-4,Creature,Common,Elf
-5,Spell,Rare,Oblivion Lightning
-6,Creature,Common,Goblin
-7,Enchantment,Common,Strength
-8,Enchantment,Mythic,Angry Shield
-9,Spell,Legendary,Mighty Infuriate
-10,Creature,Rare,Earth Knight Griffin
-11,Creature,Common,Orc
-12,Artifact,Rare,Cataclysmic Helm
-13,Creature,Common,Eagle
-14,Spell,Common,Infuriate
-15,Enchantment,Common,Blight
-16,Creature,Common,Ghoul
-17,Creature,Common,Elf
-18,Enchantment,Common,Alacrity
-19,Creature,Rare,Frozen Priest Griffin
-20,Creature,Legendary,Dark Knight Giant of the Haven
-21,Enchantment,Rare,Life Drain
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Light Priest Cyclops of the Frozen Castle
-24,Enchantment,Mythic,Clever Deathgrip
-25,Creature,Common,Spider
-26,Creature,Common,Magi
-27,Spell,Common,Infuriate
-28,Creature,Rare,Death Queen Berserker
-29,Spell,Rare,Grim Lightning
-30,Spell,Common,Stun
-31,Creature,Common,Warlock
-32,Enchantment,Common,Agony
-33,Enchantment,Common,Haste
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Deathgrip
-36,Creature,Common,Ghoul
-37,Creature,Common,Orc
-38,Spell,Legendary,Dire Gale
-39,Enchantment,Common,Shade
-40,Enchantment,Legendary,Clever Blight
-41,Creature,Common,Orc
-42,Creature,Common,Wolf
-43,Creature,Common,Spider
-44,Creature,Common,Paladin
+==================,DECK,6148
+0,Creature,Wolf
+1,Spell,Hypnosis
+2,Artifact,Sorrow Gloves
+3,Spell,Torment
+4,Creature,Warlock
+5,Spell,Victory Fire
+6,Creature,Skin-Walker
+7,Enchantment,Drain
+8,Enchantment,Dire Gloom Firebreath
+9,Spell,Empyrean Miracle Fury
+10,Creature,Earth Knight Griffin
+11,Creature,Spider
+12,Artifact,Gloom Helm
+13,Creature,Eagle
+14,Spell,Maelstrom
+15,Enchantment,Shrink
+16,Creature,Ghoul
+17,Creature,Warlock
+18,Enchantment,Alacrity
+19,Creature,Frozen Priest Griffin
+20,Creature,Dark Knight Dwarf of the Haven
+21,Enchantment,Apocalypse Invert
+22,Creature,Magi
+23,Creature,Light Priest Giant of the Frozen Castle
+24,Enchantment,Zealous Oblivion Blight
+25,Creature,Paladin
+26,Creature,Fairy
+27,Spell,Stricken
+28,Creature,Death Queen Goblin
+29,Spell,Grim Heal
+30,Spell,Torment
+31,Creature,Berserker
+32,Enchantment,Haste
+33,Enchantment,Age
+34,Creature,Magi
+35,Enchantment,Firebreath
+36,Creature,Ghoul
+37,Creature,Spider
+38,Spell,Mighty Victory Assault
+39,Enchantment,Blight
+40,Enchantment,Empyrean Nimble Shade
+41,Creature,Spider
+42,Creature,Wolf
+43,Creature,Paladin
+44,Creature,Troll

@@ -1,46 +1,46 @@
-==================,DECK,6235,Light
-0,Creature,Common,Orc
-1,Creature,Common,Ghoul
-2,Spell,Common,Stricken
-3,Creature,Legendary,Snow Monk Kraken of the Swamp
-4,Enchantment,Common,Shade
-5,Artifact,Common,Gauntlet
-6,Enchantment,Common,Age
-7,Creature,Common,Magi
-8,Artifact,Common,Boots
-9,Artifact,Common,Sword
-10,Spell,Common,Assault
-11,Creature,Common,Spider
-12,Spell,Rare,Gloom Heal
-13,Creature,Rare,Earth Thief Fairy
-14,Creature,Rare,Earth Priest Minotaur
-15,Creature,Common,Goblin
-16,Creature,Legendary,Death Merchant Orge of the Mountains
-17,Artifact,Rare,Lunar Sigil
-18,Creature,Common,Magi
-19,Enchantment,Mythic,Clever Haste
-20,Creature,Rare,Death Warrior Fairy
-21,Creature,Common,Dwarf
-22,Creature,Mythic,Earth Time Phoenix of the Shadows
-23,Spell,Rare,Necro Burst
-24,Artifact,Rare,Hateful Tome
-25,Creature,Rare,Death King Fairy
-26,Creature,Rare,Light Queen Berserker
-27,Enchantment,Common,Flight
-28,Enchantment,Mythic,Intense Flight
-29,Creature,Common,Goblin
-30,Creature,Common,Goblin
-31,Enchantment,Common,Strength
-32,Spell,Common,Revive
-33,Creature,Common,Elf
-34,Creature,Common,Spider
-35,Creature,Common,Spider
-36,Creature,Mythic,Light Chaos Demon of the Sky
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Shield
-39,Creature,Common,Goblin
-40,Enchantment,Common,Age
-41,Artifact,Common,Sigil
-42,Creature,Common,Orc
-43,Artifact,Legendary,Intense Belt
-44,Enchantment,Rare,Hateful Drain
+==================,DECK,6235
+0,Creature,Spider
+1,Creature,Ghoul
+2,Spell,Revive
+3,Creature,Snow Monk Ogre of the Swamp
+4,Enchantment,Lethargy
+5,Artifact,Gauntlet
+6,Enchantment,Shade
+7,Creature,Fairy
+8,Artifact,Boots
+9,Artifact,Sword
+10,Spell,Fury
+11,Creature,Paladin
+12,Spell,Cataclysmic Fury
+13,Creature,Earth Thief Kraken
+14,Creature,Earth Priest Cyclops
+15,Creature,Skin-Walker
+16,Creature,Death Merchant Elf of the Mountains
+17,Artifact,Lunar Sigil
+18,Creature,Fairy
+19,Enchantment,Empyrean Life Shade
+20,Creature,Death Warrior Kraken
+21,Creature,Magi
+22,Creature,Earth Time Phoenix of the Shadows
+23,Spell,Forged Lightning
+24,Artifact,Chimeric Tome
+25,Creature,Death King Kraken
+26,Creature,Light Queen Goblin
+27,Enchantment,Agony
+28,Enchantment,Mighty Hateful Agony
+29,Creature,Skin-Walker
+30,Creature,Skin-Walker
+31,Enchantment,Age
+32,Spell,Gale
+33,Creature,Warlock
+34,Creature,Paladin
+35,Creature,Paladin
+36,Creature,Light Chaos Demon of the Sky
+37,Enchantment,Deathgrip
+38,Enchantment,Blight
+39,Creature,Skin-Walker
+40,Enchantment,Haste
+41,Artifact,Sigil
+42,Creature,Spider
+43,Artifact,Empyrean Nature Belt
+44,Enchantment,Dark Alacrity

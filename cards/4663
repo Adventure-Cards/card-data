@@ -1,46 +1,46 @@
-==================,DECK,4663,Light
-0,Enchantment,Common,Blight
-1,Enchantment,Common,Blight
-2,Spell,Common,Burst
-3,Enchantment,Common,Age
-4,Creature,Common,Dwarf
-5,Spell,Common,Revive
-6,Creature,Common,Ghoul
-7,Artifact,Common,Gloves
-8,Spell,Common,Burn
-9,Spell,Rare,Necro Pandemonium
-10,Creature,Common,Orc
-11,Creature,Common,Wolf
-12,Spell,Rare,Corpse Frenzy
-13,Spell,Rare,Forged Lightning
-14,Enchantment,Common,Agony
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Warlock
-17,Enchantment,Common,Flight
-18,Enchantment,Common,Haste
-19,Spell,Rare,Lunar Maelstrom
-20,Artifact,Legendary,Extreme Sigil
-21,Creature,Common,Paladin
-22,Enchantment,Common,Strength
-23,Spell,Common,Hypnosis
-24,Enchantment,Rare,Life Age
-25,Creature,Common,Ghoul
-26,Creature,Legendary,Frozen King Orge of the West
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Age
-29,Creature,Common,Eagle
-30,Spell,Rare,Grim Rage
-31,Enchantment,Common,Shield
-32,Spell,Common,Frenzy
-33,Creature,Common,Elf
-34,Spell,Common,Stun
-35,Creature,Common,Elf
-36,Artifact,Common,Staff
-37,Creature,Common,Paladin
-38,Artifact,Rare,Shimmering Belt
-39,Creature,Common,Paladin
-40,Creature,Common,Goblin
-41,Creature,Common,Eagle
-42,Spell,Common,Reanimate
-43,Creature,Common,Orc
-44,Creature,Common,Wolf
+==================,DECK,4663
+0,Enchantment,Age
+1,Enchantment,Firebreath
+2,Spell,Reanimate
+3,Enchantment,Blight
+4,Creature,Magi
+5,Spell,Invisibility
+6,Creature,Ghoul
+7,Artifact,Gloves
+8,Spell,Frenzy
+9,Spell,Shimmering Pandemonium
+10,Creature,Spider
+11,Creature,Wolf
+12,Spell,Hateful Pandemonium
+13,Spell,Chimeric Gale
+14,Enchantment,Flight
+15,Enchantment,Blight
+16,Creature,Berserker
+17,Enchantment,Lethargy
+18,Enchantment,Invert
+19,Spell,Cataclysmic Frenzy
+20,Artifact,Urgent Sorrow Sigil
+21,Creature,Troll
+22,Enchantment,Invert
+23,Spell,Vortex
+24,Enchantment,Victory Haste
+25,Creature,Ghoul
+26,Creature,Frozen King Elf of the West
+27,Creature,Magi
+28,Enchantment,Alacrity
+29,Creature,Eagle
+30,Spell,Nimble Heal
+31,Enchantment,Shade
+32,Spell,Reanimate
+33,Creature,Warlock
+34,Spell,Freeze
+35,Creature,Warlock
+36,Artifact,Staff
+37,Creature,Troll
+38,Artifact,Corpse Belt
+39,Creature,Troll
+40,Creature,Skin-Walker
+41,Creature,Eagle
+42,Spell,Reanimate
+43,Creature,Spider
+44,Creature,Wolf

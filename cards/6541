@@ -1,46 +1,46 @@
-==================,DECK,6541,Medium
-0,Creature,Common,Eagle
-1,Spell,Common,Fury
-2,Creature,Common,Spider
-3,Creature,Mythic,Earth Nameless Dragon of the Shadows
-4,Creature,Common,Magi
-5,Creature,Legendary,Snow Monk Oni of the West
-6,Creature,Common,Orc
-7,Creature,Legendary,Light Lord Kraken of the Eastern Skies
-8,Enchantment,Common,Shrink
-9,Spell,Rare,Hateful Fury
-10,Creature,Legendary,Earth Assassin Giant of the Low Hills
-11,Spell,Common,Sorrow
-12,Creature,Common,Dwarf
-13,Creature,Common,Goblin
-14,Enchantment,Legendary,Clever Blight
-15,Enchantment,Common,Invert
-16,Artifact,Common,Amulet
-17,Enchantment,Rare,Life Haste
-18,Creature,Common,Magi
-19,Enchantment,Common,Shrink
-20,Artifact,Rare,Oblivion Boots
-21,Artifact,Common,Cloak
-22,Creature,Mythic,Snow Undead Phoenix of Hate
-23,Creature,Rare,Aura Queen Griffin
-24,Enchantment,Common,Shade
-25,Creature,Rare,Aura Priest Minotaur
-26,Creature,Common,Magi
-27,Enchantment,Rare,Nature Blight
-28,Enchantment,Common,Flight
-29,Creature,Rare,Light Monk Berserker
-30,Creature,Common,Eagle
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Assault
-33,Creature,Mythic,Aura Ancient Wizard of the Light
-34,Enchantment,Legendary,Mighty Flight
-35,Enchantment,Common,Strength
-36,Spell,Legendary,Instant Gale
-37,Enchantment,Common,Drain
-38,Enchantment,Common,Shield
-39,Creature,Legendary,Dark Warrior Cyclops of the Polar Woods
-40,Enchantment,Common,Haste
-41,Enchantment,Common,Strength
-42,Spell,Common,Burn
-43,Creature,Common,Orc
-44,Creature,Legendary,Snow Assassin Oni of the Black Stone
+==================,DECK,6541
+0,Creature,Eagle
+1,Spell,Freeze
+2,Creature,Paladin
+3,Creature,Earth Nameless Dragon of the Shadows
+4,Creature,Fairy
+5,Creature,Snow Monk Oni of the West
+6,Creature,Spider
+7,Creature,Light Lord Ogre of the Eastern Skies
+8,Enchantment,Alacrity
+9,Spell,Miracle Burn
+10,Creature,Earth Assassin Dwarf of the Low Hills
+11,Spell,Fireball
+12,Creature,Magi
+13,Creature,Skin-Walker
+14,Enchantment,Mighty Nimble Invert
+15,Enchantment,Alacrity
+16,Artifact,Amulet
+17,Enchantment,Life Haste
+18,Creature,Fairy
+19,Enchantment,Lethargy
+20,Artifact,Frigid Boots
+21,Artifact,Cloak
+22,Creature,Snow Undead Phoenix of Hate
+23,Creature,Aura Queen Griffin
+24,Enchantment,Haste
+25,Creature,Aura Priest Cyclops
+26,Creature,Fairy
+27,Enchantment,Solar Age
+28,Enchantment,Shade
+29,Creature,Light Monk Goblin
+30,Creature,Eagle
+31,Enchantment,Alacrity
+32,Spell,Gale
+33,Creature,Aura Ancient Wizard of the Light
+34,Enchantment,Empyrean Lunar Firebreath
+35,Enchantment,Invert
+36,Spell,Clever Solar Frost
+37,Enchantment,Agony
+38,Enchantment,Shield
+39,Creature,Dark Warrior Giant of the Polar Woods
+40,Enchantment,Invert
+41,Enchantment,Firebreath
+42,Spell,Fire
+43,Creature,Spider
+44,Creature,Snow Assassin Oni of the Black Stone

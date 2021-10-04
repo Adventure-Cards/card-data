@@ -1,46 +1,46 @@
-==================,DECK,7042,Light
-0,Creature,Rare,Death Thief Hydra
-1,Creature,Common,Ghoul
-2,Creature,Legendary,Dark Queen Orge of the West
-3,Creature,Legendary,Aura Warrior Oni of the Arctic Blizzards
-4,Creature,Rare,Snow Fighter Minotaur
-5,Enchantment,Rare,Nature Shrink
-6,Spell,Common,Frost
-7,Creature,Common,Elf
-8,Creature,Legendary,Snow Monk Cyclops of the Eternal Land
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Shield
-11,Enchantment,Common,Lethargy
-12,Spell,Legendary,Intense Frenzy
-13,Artifact,Common,Shield
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Shade
-16,Spell,Legendary,Urgent Rage
-17,Creature,Rare,Dark Monk Minotaur
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Shield
-21,Creature,Mythic,Frozen Ancient Demon of the Void
-22,Artifact,Rare,Gloom Greaves
-23,Spell,Rare,Dark Frost
-24,Creature,Common,Goblin
-25,Creature,Common,Warlock
-26,Spell,Common,Sorrow
-27,Creature,Common,Paladin
-28,Spell,Common,Sorrow
-29,Enchantment,Legendary,Urgent Shield
-30,Creature,Common,Orc
-31,Creature,Common,Warlock
-32,Creature,Common,Dwarf
-33,Creature,Common,Spider
-34,Creature,Common,Elf
-35,Artifact,Rare,Hateful Gloves
-36,Creature,Rare,Snow Lord Skin-Walker
-37,Spell,Legendary,Mighty Wall
-38,Creature,Common,Elf
-39,Spell,Common,Heal
-40,Spell,Common,Burst
-41,Creature,Common,Ghoul
-42,Creature,Rare,Light Merchant Minotaur
-43,Creature,Mythic,Earth Ancient Demon of the Shadows
-44,Creature,Legendary,Dark Knight Giant of the Arctic Blizzards
+==================,DECK,7042
+0,Creature,Death Thief Hydra
+1,Creature,Ghoul
+2,Creature,Dark Queen Elf of the West
+3,Creature,Aura Warrior Oni of the Arctic Blizzards
+4,Creature,Snow Fighter Cyclops
+5,Enchantment,Necro Age
+6,Spell,Stricken
+7,Creature,Warlock
+8,Creature,Snow Monk Giant of the Eternal Land
+9,Creature,Ghoul
+10,Enchantment,Lethargy
+11,Enchantment,Shield
+12,Spell,Urgent Corpse Wall
+13,Artifact,Shield
+14,Creature,Ghoul
+15,Enchantment,Age
+16,Spell,Urgent Forged Fireball
+17,Creature,Dark Monk Cyclops
+18,Enchantment,Shield
+19,Creature,Ghoul
+20,Enchantment,Invert
+21,Creature,Frozen Ancient Demon of the Void
+22,Artifact,Chimeric Greaves
+23,Spell,Sorrow Maelstrom
+24,Creature,Skin-Walker
+25,Creature,Berserker
+26,Spell,Invisibility
+27,Creature,Troll
+28,Spell,Infuriate
+29,Enchantment,Instant Nature Strength
+30,Creature,Spider
+31,Creature,Berserker
+32,Creature,Magi
+33,Creature,Paladin
+34,Creature,Warlock
+35,Artifact,Chimeric Gloves
+36,Creature,Snow Lord Orc
+37,Spell,Ardent Cataclysmic Fireball
+38,Creature,Warlock
+39,Spell,Infuriate
+40,Spell,Hypnosis
+41,Creature,Ghoul
+42,Creature,Light Merchant Cyclops
+43,Creature,Earth Ancient Demon of the Shadows
+44,Creature,Dark Knight Dwarf of the Arctic Blizzards

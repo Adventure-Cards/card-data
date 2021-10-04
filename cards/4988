@@ -1,46 +1,46 @@
-==================,DECK,4988,Light
-0,Creature,Rare,Death King Berserker
-1,Enchantment,Common,Strength
-2,Creature,Common,Wolf
-3,Enchantment,Common,Lethargy
-4,Creature,Common,Wolf
-5,Creature,Common,Paladin
-6,Enchantment,Mythic,Intense Agony
-7,Spell,Common,Torment
-8,Creature,Rare,Death Queen Griffin
-9,Creature,Common,Warlock
-10,Enchantment,Mythic,Angry Strength
-11,Enchantment,Mythic,Dire Blight
-12,Creature,Common,Elf
-13,Creature,Common,Orc
-14,Spell,Common,Stun
-15,Creature,Rare,Earth Rogue Berserker
-16,Spell,Common,Heal
-17,Creature,Common,Magi
-18,Creature,Common,Wolf
-19,Enchantment,Common,Lethargy
-20,Creature,Common,Elf
-21,Creature,Rare,Aura Rogue Skin-Walker
-22,Enchantment,Common,Alacrity
-23,Creature,Rare,Death King Griffin
-24,Creature,Mythic,Death Undead Dragon of the Dead
-25,Spell,Common,Gale
-26,Spell,Common,Revive
-27,Creature,Common,Warlock
-28,Creature,Common,Elf
-29,Creature,Common,Orc
-30,Spell,Rare,Cataclysmic Sorrow
-31,Artifact,Rare,Nature Bracers
-32,Creature,Rare,Dark Undead Minotaur
-33,Creature,Common,Goblin
-34,Creature,Rare,Death Knight Fairy
-35,Creature,Common,Wolf
-36,Creature,Common,Eagle
-37,Creature,Common,Orc
-38,Creature,Common,Dwarf
-39,Enchantment,Rare,Nature Deathgrip
-40,Creature,Common,Magi
-41,Spell,Legendary,Extreme Stun
-42,Artifact,Common,Ring
-43,Enchantment,Common,Shade
-44,Enchantment,Common,Shield
+==================,DECK,4988
+0,Creature,Death King Goblin
+1,Enchantment,Flight
+2,Creature,Wolf
+3,Enchantment,Alacrity
+4,Creature,Wolf
+5,Creature,Troll
+6,Enchantment,Ardent Corpse Lethargy
+7,Spell,Frenzy
+8,Creature,Death Queen Griffin
+9,Creature,Berserker
+10,Enchantment,Ardent Cataclysmic Shield
+11,Enchantment,Clever Nimble Haste
+12,Creature,Warlock
+13,Creature,Spider
+14,Spell,Frost
+15,Creature,Earth Rogue Goblin
+16,Spell,Tempest
+17,Creature,Fairy
+18,Creature,Wolf
+19,Enchantment,Agony
+20,Creature,Warlock
+21,Creature,Aura Rogue Orc
+22,Enchantment,Firebreath
+23,Creature,Death King Griffin
+24,Creature,Death Undead Dragon of the Dead
+25,Spell,Tempest
+26,Spell,Hypnosis
+27,Creature,Berserker
+28,Creature,Warlock
+29,Creature,Spider
+30,Spell,Miracle Stun
+31,Artifact,Shimmering Bracers
+32,Creature,Dark Undead Cyclops
+33,Creature,Skin-Walker
+34,Creature,Death Knight Kraken
+35,Creature,Wolf
+36,Creature,Eagle
+37,Creature,Spider
+38,Creature,Magi
+39,Enchantment,Shimmering Lethargy
+40,Creature,Fairy
+41,Spell,Potent Dark Gale
+42,Artifact,Ring
+43,Enchantment,Shrink
+44,Enchantment,Haste

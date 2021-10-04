@@ -1,46 +1,46 @@
-==================,DECK,7610,Light
-0,Creature,Common,Orc
-1,Artifact,Rare,Solar Bow
-2,Creature,Common,Paladin
-3,Creature,Rare,Dark Knight Fairy
-4,Enchantment,Common,Lethargy
-5,Spell,Common,Heal
-6,Enchantment,Rare,Miracle Drain
-7,Spell,Common,Vortex
-8,Enchantment,Mythic,Extreme Deathgrip
-9,Artifact,Common,Staff
-10,Artifact,Common,Cloak
-11,Creature,Legendary,Light Priest Kraken of the Golden Palace
-12,Enchantment,Common,Shield
-13,Spell,Rare,Nimble Torment
-14,Creature,Common,Elf
-15,Creature,Common,Orc
-16,Spell,Rare,Grim Gravitation
-17,Creature,Legendary,Light Thief Orge of the Plains
-18,Creature,Common,Goblin
-19,Spell,Rare,Grim Wall
-20,Creature,Common,Warlock
-21,Creature,Common,Orc
-22,Spell,Legendary,Mighty Rage
-23,Enchantment,Common,Flight
-24,Creature,Legendary,Aura King Kraken of the Eastern Skies
-25,Creature,Rare,Dark Assassin Minotaur
-26,Creature,Common,Warlock
-27,Artifact,Common,Greaves
-28,Creature,Rare,Earth Assassin Skin-Walker
-29,Creature,Legendary,Aura Knight Orge of the Polar Woods
-30,Creature,Rare,Aura Fighter Hydra
-31,Creature,Common,Goblin
-32,Spell,Rare,Gloom Vortex
-33,Creature,Rare,Frozen King Minotaur
-34,Creature,Legendary,Dark Thief Kraken of the Border
-35,Creature,Legendary,Death Thief Oni of the Bright Mountains
-36,Creature,Common,Paladin
-37,Spell,Legendary,Angry Vortex
-38,Spell,Rare,Apocalypse Fury
-39,Creature,Rare,Earth Merchant Fairy
-40,Artifact,Common,Cloak
-41,Enchantment,Common,Flight
-42,Spell,Rare,Dark Frenzy
-43,Creature,Common,Ghoul
-44,Creature,Common,Elf
+==================,DECK,7610
+0,Creature,Spider
+1,Artifact,Hateful Bow
+2,Creature,Troll
+3,Creature,Dark Knight Kraken
+4,Enchantment,Strength
+5,Spell,Hypnosis
+6,Enchantment,Apocalypse Invert
+7,Spell,Wall
+8,Enchantment,Zealous Sorrow Alacrity
+9,Artifact,Staff
+10,Artifact,Cloak
+11,Creature,Light Priest Ogre of the Golden Palace
+12,Enchantment,Haste
+13,Spell,Hateful Burn
+14,Creature,Warlock
+15,Creature,Spider
+16,Spell,Grim Vortex
+17,Creature,Light Thief Elf of the Plains
+18,Creature,Skin-Walker
+19,Spell,Oblivion Infuriate
+20,Creature,Berserker
+21,Creature,Spider
+22,Spell,Urgent Cataclysmic Infuriate
+23,Enchantment,Strength
+24,Creature,Aura King Ogre of the Eastern Skies
+25,Creature,Dark Assassin Cyclops
+26,Creature,Berserker
+27,Artifact,Greaves
+28,Creature,Earth Assassin Orc
+29,Creature,Aura Knight Elf of the Polar Woods
+30,Creature,Aura Fighter Hydra
+31,Creature,Skin-Walker
+32,Spell,Lunar Wall
+33,Creature,Frozen King Cyclops
+34,Creature,Dark Thief Ogre of the Border
+35,Creature,Death Thief Oni of the Bright Mountains
+36,Creature,Troll
+37,Spell,Ardent Dark Infuriate
+38,Spell,Apocalypse Reanimate
+39,Creature,Earth Merchant Kraken
+40,Artifact,Cloak
+41,Enchantment,Alacrity
+42,Spell,Cataclysmic Burst
+43,Creature,Ghoul
+44,Creature,Warlock

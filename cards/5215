@@ -1,46 +1,46 @@
-==================,DECK,5215,Medium
-0,Spell,Common,Pandemonium
-1,Creature,Common,Dwarf
-2,Spell,Common,Vortex
-3,Enchantment,Rare,Gloom Agony
-4,Spell,Common,Infuriate
-5,Spell,Common,Burst
-6,Enchantment,Common,Age
-7,Creature,Common,Warlock
-8,Artifact,Common,Shield
-9,Enchantment,Common,Shrink
-10,Artifact,Common,Potion
-11,Spell,Common,Maelstrom
-12,Creature,Common,Elf
-13,Spell,Legendary,Intense Maelstrom
-14,Creature,Common,Paladin
-15,Spell,Common,Wall
-16,Enchantment,Common,Blight
-17,Enchantment,Rare,Apocalypse Deathgrip
-18,Spell,Mythic,Intense Heal
-19,Creature,Rare,Death Priest Minotaur
-20,Creature,Common,Ghoul
-21,Spell,Common,Lightning
-22,Enchantment,Common,Strength
-23,Creature,Rare,Light Monk Skin-Walker
-24,Artifact,Rare,Dark Sword
-25,Artifact,Rare,Oblivion Belt
-26,Creature,Legendary,Dark Rogue Orge of the Bright Mountains
-27,Artifact,Legendary,Clever Pendant
-28,Creature,Common,Eagle
-29,Enchantment,Common,Shrink
-30,Creature,Common,Eagle
-31,Creature,Common,Elf
-32,Creature,Common,Eagle
-33,Creature,Common,Elf
-34,Creature,Common,Magi
-35,Creature,Rare,Snow Fighter Hydra
-36,Spell,Common,Stricken
-37,Creature,Rare,Light Monk Hydra
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Spell,Common,Revive
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Wolf
-43,Creature,Rare,Aura Assassin Berserker
-44,Creature,Common,Elf
+==================,DECK,5215
+0,Spell,Maelstrom
+1,Creature,Magi
+2,Spell,Fury
+3,Enchantment,Miracle Shield
+4,Spell,Burst
+5,Spell,Wall
+6,Enchantment,Age
+7,Creature,Berserker
+8,Artifact,Shield
+9,Enchantment,Agony
+10,Artifact,Potion
+11,Spell,Fury
+12,Creature,Warlock
+13,Spell,Potent Necro Freeze
+14,Creature,Troll
+15,Spell,Frost
+16,Enchantment,Alacrity
+17,Enchantment,Oblivion Blight
+18,Spell,Dire Forged Gravitation
+19,Creature,Death Priest Cyclops
+20,Creature,Ghoul
+21,Spell,Rage
+22,Enchantment,Deathgrip
+23,Creature,Light Monk Orc
+24,Artifact,Miracle Sword
+25,Artifact,Apocalypse Belt
+26,Creature,Dark Rogue Elf of the Bright Mountains
+27,Artifact,Zealous Apocalypse Pendant
+28,Creature,Eagle
+29,Enchantment,Strength
+30,Creature,Eagle
+31,Creature,Warlock
+32,Creature,Eagle
+33,Creature,Warlock
+34,Creature,Fairy
+35,Creature,Snow Fighter Hydra
+36,Spell,Freeze
+37,Creature,Light Monk Hydra
+38,Creature,Fairy
+39,Creature,Troll
+40,Spell,Lightning
+41,Enchantment,Firebreath
+42,Creature,Wolf
+43,Creature,Aura Assassin Goblin
+44,Creature,Warlock

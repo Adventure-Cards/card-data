@@ -1,46 +1,46 @@
-==================,DECK,5114,Light
-0,Spell,Common,Freeze
-1,Spell,Common,Maelstrom
-2,Creature,Common,Dwarf
-3,Enchantment,Common,Shrink
-4,Enchantment,Rare,Gloom Shield
-5,Spell,Rare,Life Gale
-6,Creature,Common,Spider
-7,Creature,Rare,Snow Warrior Skin-Walker
-8,Spell,Legendary,Dire Torment
-9,Spell,Common,Fury
-10,Enchantment,Rare,Cataclysmic Flight
-11,Creature,Rare,Frozen Queen Skin-Walker
-12,Creature,Rare,Light Thief Hydra
-13,Creature,Legendary,Snow Knight Giant of the Frozen Castle
-14,Artifact,Legendary,Angry Ghost Wand
-15,Enchantment,Common,Agony
-16,Creature,Common,Warlock
-17,Spell,Common,Frost
-18,Enchantment,Common,Haste
-19,Creature,Legendary,Frozen Queen Kraken of the Polar Woods
-20,Spell,Common,Infuriate
-21,Creature,Common,Elf
-22,Creature,Common,Orc
-23,Creature,Common,Dwarf
-24,Spell,Legendary,Potent Freeze
-25,Creature,Common,Elf
-26,Creature,Common,Orc
-27,Creature,Common,Spider
-28,Spell,Common,Stun
-29,Enchantment,Mythic,Dire Deathgrip
-30,Enchantment,Common,Shade
-31,Creature,Common,Eagle
-32,Creature,Common,Goblin
-33,Enchantment,Rare,Nimble Shade
-34,Creature,Rare,Aura Rogue Berserker
-35,Spell,Rare,Nimble Wall
-36,Enchantment,Common,Flight
-37,Spell,Common,Gale
-38,Creature,Common,Warlock
-39,Artifact,Common,Sword
-40,Creature,Common,Paladin
-41,Creature,Common,Eagle
-42,Creature,Common,Spider
-43,Spell,Rare,Frigid Frenzy
-44,Enchantment,Common,Agony
+==================,DECK,5114
+0,Spell,Reanimate
+1,Spell,Rage
+2,Creature,Magi
+3,Enchantment,Flight
+4,Enchantment,Gloom Shield
+5,Spell,Grim Invisibility
+6,Creature,Paladin
+7,Creature,Snow Warrior Orc
+8,Spell,Instant Apocalypse Stricken
+9,Spell,Frenzy
+10,Enchantment,Lunar Shrink
+11,Creature,Frozen Queen Orc
+12,Creature,Light Thief Hydra
+13,Creature,Snow Knight Dwarf of the Frozen Castle
+14,Artifact,Urgent Dark Ghost Wand
+15,Enchantment,Firebreath
+16,Creature,Berserker
+17,Spell,Burn
+18,Enchantment,Firebreath
+19,Creature,Frozen Queen Ogre of the Polar Woods
+20,Spell,Gale
+21,Creature,Warlock
+22,Creature,Spider
+23,Creature,Magi
+24,Spell,Dire Life Burst
+25,Creature,Warlock
+26,Creature,Spider
+27,Creature,Paladin
+28,Spell,Vortex
+29,Enchantment,Potent Oblivion Drain
+30,Enchantment,Firebreath
+31,Creature,Eagle
+32,Creature,Skin-Walker
+33,Enchantment,Necro Lethargy
+34,Creature,Aura Rogue Goblin
+35,Spell,Nature Pandemonium
+36,Enchantment,Haste
+37,Spell,Torment
+38,Creature,Berserker
+39,Artifact,Sword
+40,Creature,Troll
+41,Creature,Eagle
+42,Creature,Paladin
+43,Spell,Life Fire
+44,Enchantment,Firebreath

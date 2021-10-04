@@ -1,46 +1,46 @@
-==================,DECK,7159,Light
-0,Creature,Rare,Earth Rogue Berserker
-1,Creature,Common,Magi
-2,Creature,Common,Wolf
-3,Spell,Rare,Forged Revive
-4,Creature,Legendary,Light Fighter Cyclops of the Swamp
-5,Creature,Common,Orc
-6,Creature,Common,Elf
-7,Creature,Common,Warlock
-8,Artifact,Common,Gauntlet
-9,Creature,Common,Goblin
-10,Artifact,Legendary,Urgent Ring
-11,Creature,Legendary,Aura Lord Orge of the Polar Woods
-12,Creature,Common,Ghoul
-13,Creature,Mythic,Light Chaos Wizard of the Sky
-14,Enchantment,Common,Lethargy
-15,Enchantment,Common,Agony
-16,Artifact,Legendary,Dire Scythe
-17,Creature,Rare,Light Thief Fairy
-18,Creature,Common,Elf
-19,Enchantment,Common,Haste
-20,Spell,Legendary,Instant Frenzy
-21,Creature,Common,Ghoul
-22,Creature,Common,Ghoul
-23,Creature,Common,Spider
-24,Creature,Common,Eagle
-25,Enchantment,Common,Strength
-26,Creature,Rare,Aura Lord Skin-Walker
-27,Spell,Common,Gravitation
-28,Creature,Common,Dwarf
-29,Creature,Common,Spider
-30,Creature,Legendary,Death Priest Giant of the West
-31,Enchantment,Common,Blight
-32,Creature,Common,Dwarf
-33,Creature,Common,Eagle
-34,Enchantment,Rare,Shimmering Deathgrip
-35,Creature,Rare,Light Priest Fairy
-36,Creature,Common,Paladin
-37,Artifact,Common,Potion
-38,Enchantment,Rare,Shimmering Age
-39,Creature,Common,Spider
-40,Creature,Common,Eagle
-41,Creature,Legendary,Dark Assassin Orge of the Polar Woods
-42,Enchantment,Common,Shield
-43,Enchantment,Mythic,Angry Strength
-44,Artifact,Common,Crown
+==================,DECK,7159
+0,Creature,Earth Rogue Goblin
+1,Creature,Fairy
+2,Creature,Wolf
+3,Spell,Cataclysmic Reanimate
+4,Creature,Light Fighter Giant of the Swamp
+5,Creature,Spider
+6,Creature,Warlock
+7,Creature,Berserker
+8,Artifact,Gauntlet
+9,Creature,Skin-Walker
+10,Artifact,Ardent Shimmering Ring
+11,Creature,Aura Lord Elf of the Polar Woods
+12,Creature,Ghoul
+13,Creature,Light Chaos Wizard of the Sky
+14,Enchantment,Haste
+15,Enchantment,Haste
+16,Artifact,Empyrean Apocalypse Scythe
+17,Creature,Light Thief Kraken
+18,Creature,Warlock
+19,Enchantment,Deathgrip
+20,Spell,Ardent Corpse Reanimate
+21,Creature,Ghoul
+22,Creature,Ghoul
+23,Creature,Paladin
+24,Creature,Eagle
+25,Enchantment,Firebreath
+26,Creature,Aura Lord Orc
+27,Spell,Frost
+28,Creature,Magi
+29,Creature,Paladin
+30,Creature,Death Priest Dwarf of the West
+31,Enchantment,Shrink
+32,Creature,Magi
+33,Creature,Eagle
+34,Enchantment,Shimmering Deathgrip
+35,Creature,Light Priest Kraken
+36,Creature,Troll
+37,Artifact,Potion
+38,Enchantment,Nature Lethargy
+39,Creature,Paladin
+40,Creature,Eagle
+41,Creature,Dark Assassin Elf of the Polar Woods
+42,Enchantment,Blight
+43,Enchantment,Ardent Cataclysmic Shield
+44,Artifact,Crown

@@ -1,46 +1,46 @@
-==================,DECK,4698,Light
-0,Creature,Common,Spider
-1,Spell,Common,Heal
-2,Spell,Common,Vortex
-3,Spell,Common,Ice
-4,Creature,Rare,Frozen Knight Skin-Walker
-5,Creature,Common,Spider
-6,Enchantment,Common,Flight
-7,Creature,Common,Orc
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Creature,Rare,Frozen Merchant Minotaur
-11,Enchantment,Common,Shade
-12,Spell,Legendary,Urgent Gravitation
-13,Spell,Common,Torment
-14,Creature,Common,Goblin
-15,Enchantment,Common,Flight
-16,Spell,Legendary,Instant Ice
-17,Spell,Common,Torment
-18,Spell,Common,Hypnosis
-19,Creature,Rare,Dark Assassin Fairy
-20,Artifact,Legendary,Urgent Helmet
-21,Artifact,Legendary,Potent Amulet
-22,Creature,Rare,Dark Fighter Skin-Walker
-23,Creature,Common,Ghoul
-24,Creature,Common,Spider
-25,Creature,Common,Ghoul
-26,Spell,Common,Hypnosis
-27,Creature,Common,Magi
-28,Creature,Legendary,Earth Thief Cyclops of the Frozen Castle
-29,Spell,Rare,Grim Gravitation
-30,Creature,Common,Spider
-31,Enchantment,Mythic,Clever Shield
-32,Creature,Common,Paladin
-33,Creature,Common,Spider
-34,Enchantment,Common,Age
-35,Enchantment,Common,Strength
-36,Creature,Common,Paladin
-37,Creature,Common,Goblin
-38,Creature,Common,Warlock
-39,Creature,Common,Dwarf
-40,Creature,Common,Wolf
-41,Creature,Rare,Earth Warrior Berserker
-42,Creature,Rare,Light Warrior Minotaur
-43,Creature,Common,Orc
-44,Artifact,Common,Bow
+==================,DECK,4698
+0,Creature,Paladin
+1,Spell,Lightning
+2,Spell,Gravitation
+3,Spell,Invisibility
+4,Creature,Frozen Knight Orc
+5,Creature,Paladin
+6,Enchantment,Drain
+7,Creature,Spider
+8,Creature,Spider
+9,Creature,Spider
+10,Creature,Frozen Merchant Cyclops
+11,Enchantment,Drain
+12,Spell,Ardent Corpse Assault
+13,Spell,Wall
+14,Creature,Skin-Walker
+15,Enchantment,Blight
+16,Spell,Mighty Shimmering Lightning
+17,Spell,Sorrow
+18,Spell,Fire
+19,Creature,Dark Assassin Kraken
+20,Artifact,Irate Shimmering Helmet
+21,Artifact,Urgent Life Amulet
+22,Creature,Dark Fighter Orc
+23,Creature,Ghoul
+24,Creature,Paladin
+25,Creature,Ghoul
+26,Spell,Infuriate
+27,Creature,Fairy
+28,Creature,Earth Thief Giant of the Frozen Castle
+29,Spell,Life Heal
+30,Creature,Paladin
+31,Enchantment,Irate Victory Blight
+32,Creature,Troll
+33,Creature,Paladin
+34,Enchantment,Shield
+35,Enchantment,Flight
+36,Creature,Troll
+37,Creature,Skin-Walker
+38,Creature,Berserker
+39,Creature,Magi
+40,Creature,Wolf
+41,Creature,Earth Warrior Goblin
+42,Creature,Light Warrior Cyclops
+43,Creature,Spider
+44,Artifact,Bow

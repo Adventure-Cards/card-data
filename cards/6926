@@ -1,46 +1,46 @@
-==================,DECK,6926,Light
-0,Enchantment,Common,Flight
-1,Spell,Common,Freeze
-2,Enchantment,Common,Invert
-3,Creature,Common,Spider
-4,Creature,Common,Warlock
-5,Creature,Common,Spider
-6,Creature,Common,Orc
-7,Enchantment,Common,Drain
-8,Creature,Common,Warlock
-9,Creature,Legendary,Snow Rogue Oni of the Mountains
-10,Enchantment,Legendary,Instant Age
-11,Creature,Common,Warlock
-12,Enchantment,Common,Flight
-13,Enchantment,Common,Blight
-14,Enchantment,Common,Shield
-15,Creature,Common,Warlock
-16,Creature,Common,Wolf
-17,Creature,Common,Elf
-18,Artifact,Common,Helm
-19,Spell,Common,Hypnosis
-20,Spell,Legendary,Dire Gale
-21,Spell,Common,Gravitation
-22,Spell,Common,Infuriate
-23,Enchantment,Legendary,Dire Shade
-24,Enchantment,Common,Alacrity
-25,Creature,Rare,Snow Fighter Skin-Walker
-26,Creature,Common,Magi
-27,Creature,Common,Dwarf
-28,Creature,Common,Magi
-29,Enchantment,Common,Invert
-30,Creature,Common,Elf
-31,Creature,Legendary,Dark Knight Cyclops of the Eastern Skies
-32,Enchantment,Rare,Miracle Drain
-33,Creature,Common,Spider
-34,Creature,Common,Ghoul
-35,Enchantment,Legendary,Instant Agony
-36,Spell,Common,Gale
-37,Creature,Common,Elf
-38,Creature,Common,Eagle
-39,Creature,Common,Warlock
-40,Creature,Common,Wolf
-41,Enchantment,Common,Alacrity
-42,Artifact,Common,Potion
-43,Spell,Legendary,Dire Infuriate
-44,Creature,Common,Elf
+==================,DECK,6926
+0,Enchantment,Invert
+1,Spell,Assault
+2,Enchantment,Blight
+3,Creature,Paladin
+4,Creature,Berserker
+5,Creature,Paladin
+6,Creature,Spider
+7,Enchantment,Invert
+8,Creature,Berserker
+9,Creature,Snow Rogue Oni of the Mountains
+10,Enchantment,Empyrean Nature Age
+11,Creature,Berserker
+12,Enchantment,Strength
+13,Enchantment,Deathgrip
+14,Enchantment,Alacrity
+15,Creature,Berserker
+16,Creature,Wolf
+17,Creature,Warlock
+18,Artifact,Helm
+19,Spell,Tempest
+20,Spell,Zealous Victory Frenzy
+21,Spell,Hypnosis
+22,Spell,Vortex
+23,Enchantment,Urgent Frigid Invert
+24,Enchantment,Deathgrip
+25,Creature,Snow Fighter Orc
+26,Creature,Fairy
+27,Creature,Magi
+28,Creature,Fairy
+29,Enchantment,Lethargy
+30,Creature,Warlock
+31,Creature,Dark Knight Giant of the Eastern Skies
+32,Enchantment,Apocalypse Shade
+33,Creature,Paladin
+34,Creature,Ghoul
+35,Enchantment,Urgent Corpse Agony
+36,Spell,Heal
+37,Creature,Warlock
+38,Creature,Eagle
+39,Creature,Berserker
+40,Creature,Wolf
+41,Enchantment,Shield
+42,Artifact,Potion
+43,Spell,Clever Oblivion Hypnosis
+44,Creature,Warlock

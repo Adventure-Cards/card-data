@@ -1,46 +1,46 @@
-==================,DECK,7046,Light
-0,Artifact,Common,Ring
-1,Creature,Common,Magi
-2,Creature,Mythic,Snow Undead Phoenix of Hate
-3,Creature,Common,Eagle
-4,Creature,Rare,Dark Monk Fairy
-5,Creature,Mythic,Death Chaos Demon of the Dead
-6,Creature,Rare,Death King Hydra
-7,Creature,Common,Wolf
-8,Creature,Common,Magi
-9,Creature,Common,Elf
-10,Artifact,Common,Amulet
-11,Creature,Common,Elf
-12,Creature,Rare,Aura Rogue Hydra
-13,Enchantment,Mythic,Urgent Drain
-14,Creature,Legendary,Dark King Kraken of the Eternal Land
-15,Creature,Legendary,Earth Monk Kraken of the Black Stone
-16,Creature,Common,Warlock
-17,Creature,Rare,Dark Monk Hydra
-18,Creature,Rare,Aura Rogue Minotaur
-19,Creature,Common,Paladin
-20,Creature,Common,Magi
-21,Creature,Common,Spider
-22,Creature,Common,Dwarf
-23,Artifact,Common,Boots
-24,Enchantment,Mythic,Potent Flight
-25,Creature,Common,Ghoul
-26,Creature,Legendary,Frozen Fighter Orge of the Black Stone
-27,Artifact,Common,Helm
-28,Enchantment,Common,Blight
-29,Enchantment,Common,Drain
-30,Creature,Common,Spider
-31,Creature,Common,Magi
-32,Creature,Common,Spider
-33,Spell,Rare,Nature Burn
-34,Creature,Common,Eagle
-35,Enchantment,Common,Alacrity
-36,Creature,Rare,Snow Warrior Minotaur
-37,Spell,Common,Pandemonium
-38,Creature,Rare,Earth Warrior Minotaur
-39,Creature,Legendary,Earth Assassin Cyclops of the Plains
-40,Artifact,Common,Gauntlet
-41,Spell,Common,Maelstrom
-42,Enchantment,Common,Age
-43,Creature,Common,Magi
-44,Creature,Rare,Dark Thief Minotaur
+==================,DECK,7046
+0,Artifact,Ring
+1,Creature,Fairy
+2,Creature,Snow Undead Phoenix of Hate
+3,Creature,Eagle
+4,Creature,Dark Monk Kraken
+5,Creature,Death Chaos Demon of the Dead
+6,Creature,Death King Hydra
+7,Creature,Wolf
+8,Creature,Fairy
+9,Creature,Warlock
+10,Artifact,Amulet
+11,Creature,Warlock
+12,Creature,Aura Rogue Hydra
+13,Enchantment,Clever Forged Lethargy
+14,Creature,Dark King Ogre of the Eternal Land
+15,Creature,Earth Monk Ogre of the Black Stone
+16,Creature,Berserker
+17,Creature,Dark Monk Hydra
+18,Creature,Aura Rogue Cyclops
+19,Creature,Troll
+20,Creature,Fairy
+21,Creature,Paladin
+22,Creature,Magi
+23,Artifact,Boots
+24,Enchantment,Empyrean Grim Shade
+25,Creature,Ghoul
+26,Creature,Frozen Fighter Elf of the Black Stone
+27,Artifact,Helm
+28,Enchantment,Deathgrip
+29,Enchantment,Strength
+30,Creature,Paladin
+31,Creature,Fairy
+32,Creature,Paladin
+33,Spell,Nature Hypnosis
+34,Creature,Eagle
+35,Enchantment,Agony
+36,Creature,Snow Warrior Cyclops
+37,Spell,Vortex
+38,Creature,Earth Warrior Cyclops
+39,Creature,Earth Assassin Giant of the Plains
+40,Artifact,Gauntlet
+41,Spell,Fireball
+42,Enchantment,Alacrity
+43,Creature,Fairy
+44,Creature,Dark Thief Cyclops

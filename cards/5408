@@ -1,46 +1,46 @@
-==================,DECK,5408,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Frozen Thief Fairy
-2,Creature,Common,Paladin
-3,Artifact,Common,Ghost Wand
-4,Creature,Common,Orc
-5,Creature,Common,Spider
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Elf
-8,Spell,Common,Pandemonium
-9,Enchantment,Mythic,Mighty Shade
-10,Artifact,Common,Gloves
-11,Creature,Mythic,Frozen Chaos Wizard of the Void
-12,Creature,Legendary,Light Knight Orge of the Black Stone
-13,Creature,Mythic,Dark Nameless Phoenix of Illusion
-14,Artifact,Common,Greaves
-15,Creature,Common,Elf
-16,Spell,Legendary,Intense Stricken
-17,Spell,Common,Stun
-18,Spell,Common,Vortex
-19,Creature,Common,Ghoul
-20,Artifact,Common,Amulet
-21,Creature,Common,Dwarf
-22,Creature,Common,Dwarf
-23,Artifact,Common,Boots
-24,Enchantment,Common,Haste
-25,Creature,Common,Paladin
-26,Creature,Common,Spider
-27,Enchantment,Common,Invert
-28,Enchantment,Rare,Forged Strength
-29,Artifact,Common,Pendant
-30,Creature,Rare,Death Queen Minotaur
-31,Creature,Common,Paladin
-32,Enchantment,Common,Agony
-33,Creature,Common,Eagle
-34,Creature,Common,Paladin
-35,Enchantment,Rare,Lunar Haste
-36,Creature,Common,Warlock
-37,Artifact,Common,Ghost Wand
-38,Spell,Common,Pandemonium
-39,Creature,Legendary,Snow Undead Orge of the Polar Woods
-40,Creature,Common,Elf
-41,Creature,Legendary,Aura Assassin Kraken of the Swamp
-42,Spell,Common,Frenzy
-43,Enchantment,Rare,Apocalypse Flight
-44,Creature,Rare,Light Thief Hydra
+==================,DECK,5408
+0,Creature,Berserker
+1,Creature,Frozen Thief Kraken
+2,Creature,Troll
+3,Artifact,Ghost Wand
+4,Creature,Spider
+5,Creature,Paladin
+6,Enchantment,Shrink
+7,Creature,Warlock
+8,Spell,Invisibility
+9,Enchantment,Urgent Chimeric Flight
+10,Artifact,Gloves
+11,Creature,Frozen Chaos Wizard of the Void
+12,Creature,Light Knight Elf of the Black Stone
+13,Creature,Dark Nameless Phoenix of Illusion
+14,Artifact,Greaves
+15,Creature,Warlock
+16,Spell,Potent Solar Wall
+17,Spell,Stun
+18,Spell,Fire
+19,Creature,Ghoul
+20,Artifact,Amulet
+21,Creature,Magi
+22,Creature,Magi
+23,Artifact,Boots
+24,Enchantment,Agony
+25,Creature,Troll
+26,Creature,Paladin
+27,Enchantment,Deathgrip
+28,Enchantment,Cataclysmic Shield
+29,Artifact,Pendant
+30,Creature,Death Queen Cyclops
+31,Creature,Troll
+32,Enchantment,Invert
+33,Creature,Eagle
+34,Creature,Troll
+35,Enchantment,Miracle Firebreath
+36,Creature,Berserker
+37,Artifact,Ghost Wand
+38,Spell,Assault
+39,Creature,Snow Undead Elf of the Polar Woods
+40,Creature,Warlock
+41,Creature,Aura Assassin Ogre of the Swamp
+42,Spell,Fury
+43,Enchantment,Grim Haste
+44,Creature,Light Thief Hydra

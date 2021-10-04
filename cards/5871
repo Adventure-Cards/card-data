@@ -1,46 +1,46 @@
-==================,DECK,5871,Medium
-0,Creature,Legendary,Frozen Monk Kraken of the Mountains
-1,Enchantment,Common,Age
-2,Spell,Common,Frenzy
-3,Enchantment,Legendary,Potent Strength
-4,Creature,Common,Orc
-5,Creature,Common,Paladin
-6,Creature,Common,Paladin
-7,Artifact,Common,Gauntlet
-8,Creature,Rare,Earth Merchant Griffin
-9,Creature,Rare,Death Thief Fairy
-10,Spell,Common,Pandemonium
-11,Enchantment,Common,Age
-12,Spell,Legendary,Instant Freeze
-13,Creature,Legendary,Snow Merchant Oni of the Eternal Land
-14,Spell,Rare,Gloom Heal
-15,Spell,Common,Ice
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Goblin
-18,Creature,Rare,Dark Monk Minotaur
-19,Creature,Rare,Frozen Priest Griffin
-20,Spell,Common,Ice
-21,Creature,Common,Orc
-22,Enchantment,Common,Blight
-23,Artifact,Common,Gloves
-24,Creature,Common,Warlock
-25,Creature,Mythic,Aura Grand Wizard of the Light
-26,Creature,Common,Wolf
-27,Creature,Common,Wolf
-28,Creature,Common,Ghoul
-29,Enchantment,Common,Drain
-30,Creature,Rare,Frozen Warrior Griffin
-31,Enchantment,Common,Shrink
-32,Creature,Common,Wolf
-33,Spell,Common,Stun
-34,Creature,Common,Goblin
-35,Creature,Common,Warlock
-36,Creature,Mythic,Aura Chaos Demon of the Light
-37,Spell,Common,Invisibility
-38,Creature,Legendary,Snow Merchant Oni of the Magical Forest
-39,Artifact,Common,Helm
-40,Spell,Rare,Dark Rage
-41,Creature,Mythic,Death Chaos Wizard of the Dead
-42,Creature,Legendary,Dark Assassin Kraken of the Bright Mountains
-43,Creature,Rare,Death Thief Fairy
-44,Spell,Common,Hypnosis
+==================,DECK,5871
+0,Creature,Frozen Monk Ogre of the Mountains
+1,Enchantment,Invert
+2,Spell,Lightning
+3,Enchantment,Ardent Nimble Haste
+4,Creature,Spider
+5,Creature,Troll
+6,Creature,Troll
+7,Artifact,Gauntlet
+8,Creature,Earth Merchant Griffin
+9,Creature,Death Thief Kraken
+10,Spell,Lightning
+11,Enchantment,Flight
+12,Spell,Urgent Forged Reanimate
+13,Creature,Snow Merchant Oni of the Eternal Land
+14,Spell,Chimeric Stricken
+15,Spell,Hypnosis
+16,Enchantment,Shrink
+17,Creature,Skin-Walker
+18,Creature,Dark Monk Cyclops
+19,Creature,Frozen Priest Griffin
+20,Spell,Torment
+21,Creature,Spider
+22,Enchantment,Alacrity
+23,Artifact,Gloves
+24,Creature,Berserker
+25,Creature,Aura Grand Wizard of the Light
+26,Creature,Wolf
+27,Creature,Wolf
+28,Creature,Ghoul
+29,Enchantment,Lethargy
+30,Creature,Frozen Warrior Griffin
+31,Enchantment,Strength
+32,Creature,Wolf
+33,Spell,Fury
+34,Creature,Skin-Walker
+35,Creature,Berserker
+36,Creature,Aura Chaos Demon of the Light
+37,Spell,Frost
+38,Creature,Snow Merchant Oni of the Magical Forest
+39,Artifact,Helm
+40,Spell,Dark Pandemonium
+41,Creature,Death Chaos Wizard of the Dead
+42,Creature,Dark Assassin Ogre of the Bright Mountains
+43,Creature,Death Thief Kraken
+44,Spell,Sorrow

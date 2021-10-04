@@ -1,46 +1,46 @@
-==================,DECK,5681,Medium
-0,Spell,Rare,Necro Burn
-1,Creature,Rare,Snow Undead Fairy
-2,Enchantment,Common,Flight
-3,Enchantment,Common,Blight
-4,Creature,Common,Magi
-5,Artifact,Common,Gloves
-6,Spell,Common,Sorrow
-7,Spell,Mythic,Dire Torment
-8,Creature,Mythic,Dark Undead Phoenix of Illusion
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Age
-11,Enchantment,Rare,Lunar Blight
-12,Enchantment,Common,Age
-13,Creature,Rare,Dark Knight Griffin
-14,Spell,Common,Torment
-15,Creature,Rare,Light Warrior Berserker
-16,Spell,Common,Sorrow
-17,Creature,Common,Ghoul
-18,Artifact,Legendary,Intense Amulet
-19,Creature,Rare,Dark Assassin Skin-Walker
-20,Creature,Common,Warlock
-21,Creature,Common,Goblin
-22,Creature,Legendary,Aura Assassin Cyclops of the Border
-23,Creature,Common,Paladin
-24,Creature,Legendary,Light Undead Kraken of the Swamp
-25,Creature,Common,Orc
-26,Creature,Common,Dwarf
-27,Spell,Common,Invisibility
-28,Artifact,Common,Pendant
-29,Creature,Common,Elf
-30,Creature,Common,Spider
-31,Enchantment,Common,Drain
-32,Enchantment,Common,Deathgrip
-33,Creature,Common,Magi
-34,Spell,Common,Gale
-35,Creature,Common,Orc
-36,Creature,Common,Magi
-37,Spell,Common,Stun
-38,Creature,Common,Elf
-39,Artifact,Common,Boots
-40,Creature,Common,Dwarf
-41,Creature,Legendary,Snow Lord Cyclops of the Frozen Castle
-42,Spell,Rare,Oblivion Gravitation
-43,Artifact,Common,Staff
-44,Spell,Common,Fury
+==================,DECK,5681
+0,Spell,Corpse Fireball
+1,Creature,Snow Undead Kraken
+2,Enchantment,Blight
+3,Enchantment,Shade
+4,Creature,Fairy
+5,Artifact,Gloves
+6,Spell,Torment
+7,Spell,Instant Oblivion Torment
+8,Creature,Dark Undead Phoenix of Illusion
+9,Creature,Ghoul
+10,Enchantment,Age
+11,Enchantment,Cataclysmic Flight
+12,Enchantment,Strength
+13,Creature,Dark Knight Griffin
+14,Spell,Stun
+15,Creature,Light Warrior Goblin
+16,Spell,Ice
+17,Creature,Ghoul
+18,Artifact,Mighty Necro Amulet
+19,Creature,Dark Assassin Orc
+20,Creature,Berserker
+21,Creature,Skin-Walker
+22,Creature,Aura Assassin Giant of the Border
+23,Creature,Troll
+24,Creature,Light Undead Ogre of the Swamp
+25,Creature,Spider
+26,Creature,Magi
+27,Spell,Rage
+28,Artifact,Pendant
+29,Creature,Warlock
+30,Creature,Paladin
+31,Enchantment,Age
+32,Enchantment,Shade
+33,Creature,Fairy
+34,Spell,Stun
+35,Creature,Spider
+36,Creature,Fairy
+37,Spell,Frost
+38,Creature,Warlock
+39,Artifact,Boots
+40,Creature,Magi
+41,Creature,Snow Lord Giant of the Frozen Castle
+42,Spell,Grim Revive
+43,Artifact,Staff
+44,Spell,Sorrow

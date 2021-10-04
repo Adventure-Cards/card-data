@@ -1,46 +1,46 @@
-==================,DECK,5095,Light
-0,Creature,Common,Orc
-1,Creature,Common,Wolf
-2,Creature,Common,Spider
-3,Creature,Common,Warlock
-4,Creature,Rare,Dark Priest Berserker
-5,Artifact,Rare,Cataclysmic Bracers
-6,Spell,Common,Gravitation
-7,Enchantment,Mythic,Extreme Age
-8,Creature,Common,Elf
-9,Creature,Common,Wolf
-10,Creature,Rare,Earth Warrior Fairy
-11,Creature,Common,Dwarf
-12,Creature,Common,Paladin
-13,Spell,Rare,Grim Torment
-14,Artifact,Common,Staff
-15,Creature,Common,Orc
-16,Spell,Rare,Hateful Fury
-17,Creature,Common,Ghoul
-18,Creature,Common,Spider
-19,Creature,Mythic,Aura Nameless Dragon of the Light
-20,Creature,Mythic,Aura Time Dragon of the Light
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Drain
-23,Spell,Rare,Forged Revive
-24,Artifact,Common,Gauntlet
-25,Enchantment,Common,Drain
-26,Enchantment,Common,Shade
-27,Creature,Common,Ghoul
-28,Artifact,Common,Sword
-29,Artifact,Common,Belt
-30,Creature,Common,Ghoul
-31,Creature,Common,Magi
-32,Spell,Common,Pandemonium
-33,Spell,Common,Heal
-34,Creature,Common,Orc
-35,Creature,Common,Elf
-36,Spell,Common,Burst
-37,Creature,Common,Dwarf
-38,Spell,Common,Heal
-39,Creature,Common,Paladin
-40,Creature,Common,Goblin
-41,Spell,Common,Rage
-42,Artifact,Common,Sword
-43,Enchantment,Common,Haste
-44,Creature,Common,Wolf
+==================,DECK,5095
+0,Creature,Spider
+1,Creature,Wolf
+2,Creature,Paladin
+3,Creature,Berserker
+4,Creature,Dark Priest Goblin
+5,Artifact,Cataclysmic Bracers
+6,Spell,Hypnosis
+7,Enchantment,Mighty Gloom Flight
+8,Creature,Warlock
+9,Creature,Wolf
+10,Creature,Earth Warrior Kraken
+11,Creature,Magi
+12,Creature,Troll
+13,Spell,Life Rage
+14,Artifact,Staff
+15,Creature,Spider
+16,Spell,Chimeric Invisibility
+17,Creature,Ghoul
+18,Creature,Paladin
+19,Creature,Aura Nameless Dragon of the Light
+20,Creature,Aura Time Dragon of the Light
+21,Creature,Ghoul
+22,Enchantment,Lethargy
+23,Spell,Sorrow Fireball
+24,Artifact,Gauntlet
+25,Enchantment,Deathgrip
+26,Enchantment,Drain
+27,Creature,Ghoul
+28,Artifact,Sword
+29,Artifact,Belt
+30,Creature,Ghoul
+31,Creature,Fairy
+32,Spell,Ice
+33,Spell,Ice
+34,Creature,Spider
+35,Creature,Warlock
+36,Spell,Maelstrom
+37,Creature,Magi
+38,Spell,Heal
+39,Creature,Troll
+40,Creature,Skin-Walker
+41,Spell,Reanimate
+42,Artifact,Sword
+43,Enchantment,Agony
+44,Creature,Wolf

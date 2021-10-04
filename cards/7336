@@ -1,46 +1,46 @@
-==================,DECK,7336,Medium
-0,Spell,Rare,Nature Stun
-1,Spell,Common,Lightning
-2,Creature,Legendary,Aura Lord Kraken of the Golden Palace
-3,Artifact,Rare,Hateful Shield
-4,Spell,Common,Vortex
-5,Creature,Common,Warlock
-6,Artifact,Legendary,Potent Ring
-7,Enchantment,Common,Deathgrip
-8,Creature,Rare,Frozen Undead Griffin
-9,Creature,Common,Paladin
-10,Creature,Common,Eagle
-11,Enchantment,Common,Blight
-12,Enchantment,Common,Deathgrip
-13,Artifact,Rare,Oblivion Divine Robe
-14,Enchantment,Common,Shrink
-15,Enchantment,Common,Drain
-16,Creature,Rare,Death Fighter Berserker
-17,Artifact,Rare,Lunar Belt
-18,Creature,Common,Eagle
-19,Spell,Rare,Lunar Stricken
-20,Creature,Legendary,Death Priest Giant of the Eternal Land
-21,Artifact,Rare,Solar Gloves
-22,Artifact,Rare,Miracle Greaves
-23,Enchantment,Common,Alacrity
-24,Creature,Legendary,Aura Knight Giant of the West
-25,Creature,Rare,Death King Berserker
-26,Spell,Common,Invisibility
-27,Creature,Rare,Death Thief Minotaur
-28,Creature,Common,Paladin
-29,Creature,Common,Ghoul
-30,Creature,Rare,Snow Priest Fairy
-31,Enchantment,Rare,Solar Agony
-32,Creature,Common,Eagle
-33,Creature,Common,Warlock
-34,Creature,Common,Magi
-35,Creature,Mythic,Death Ancient Demon of the Dead
-36,Artifact,Common,Staff
-37,Creature,Mythic,Snow Undead Dragon of Hate
-38,Spell,Legendary,Intense Rage
-39,Creature,Common,Ghoul
-40,Spell,Common,Ice
-41,Creature,Common,Dwarf
-42,Creature,Common,Elf
-43,Spell,Common,Burst
-44,Enchantment,Rare,Hateful Haste
+==================,DECK,7336
+0,Spell,Corpse Freeze
+1,Spell,Frenzy
+2,Creature,Aura Lord Ogre of the Golden Palace
+3,Artifact,Cataclysmic Shield
+4,Spell,Reanimate
+5,Creature,Berserker
+6,Artifact,Ardent Nimble Ring
+7,Enchantment,Blight
+8,Creature,Frozen Undead Griffin
+9,Creature,Troll
+10,Creature,Eagle
+11,Enchantment,Shield
+12,Enchantment,Agony
+13,Artifact,Apocalypse Divine Robe
+14,Enchantment,Firebreath
+15,Enchantment,Drain
+16,Creature,Death Fighter Goblin
+17,Artifact,Cataclysmic Belt
+18,Creature,Eagle
+19,Spell,Gloom Maelstrom
+20,Creature,Death Priest Dwarf of the Eternal Land
+21,Artifact,Shimmering Gloves
+22,Artifact,Nimble Greaves
+23,Enchantment,Blight
+24,Creature,Aura Knight Dwarf of the West
+25,Creature,Death King Goblin
+26,Spell,Infuriate
+27,Creature,Death Thief Cyclops
+28,Creature,Troll
+29,Creature,Ghoul
+30,Creature,Snow Priest Kraken
+31,Enchantment,Corpse Agony
+32,Creature,Eagle
+33,Creature,Berserker
+34,Creature,Fairy
+35,Creature,Death Ancient Demon of the Dead
+36,Artifact,Staff
+37,Creature,Snow Undead Dragon of Hate
+38,Spell,Irate Nature Stricken
+39,Creature,Ghoul
+40,Spell,Fire
+41,Creature,Magi
+42,Creature,Warlock
+43,Spell,Assault
+44,Enchantment,Miracle Flight

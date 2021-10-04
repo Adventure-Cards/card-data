@@ -1,46 +1,46 @@
-==================,DECK,5620,Medium
-0,Creature,Common,Goblin
-1,Enchantment,Rare,Solar Shield
-2,Creature,Rare,Light Assassin Griffin
-3,Enchantment,Common,Flight
-4,Artifact,Common,Staff
-5,Creature,Common,Ghoul
-6,Spell,Legendary,Potent Sorrow
-7,Creature,Common,Eagle
-8,Artifact,Common,Boots
-9,Creature,Rare,Aura Merchant Skin-Walker
-10,Enchantment,Legendary,Intense Deathgrip
-11,Enchantment,Common,Shade
-12,Creature,Common,Warlock
-13,Creature,Common,Orc
-14,Creature,Rare,Death Knight Skin-Walker
-15,Creature,Mythic,Aura Time Phoenix of the Light
-16,Creature,Rare,Death Monk Hydra
-17,Enchantment,Rare,Corpse Shield
-18,Spell,Common,Ice
-19,Creature,Common,Dwarf
-20,Creature,Common,Wolf
-21,Enchantment,Common,Alacrity
-22,Artifact,Legendary,Potent Divine Robe
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Spell,Rare,Necro Burst
-26,Creature,Rare,Snow Undead Skin-Walker
-27,Creature,Rare,Earth King Fairy
-28,Creature,Common,Elf
-29,Spell,Common,Heal
-30,Creature,Rare,Dark Merchant Berserker
-31,Creature,Rare,Light Merchant Skin-Walker
-32,Creature,Rare,Aura Merchant Skin-Walker
-33,Enchantment,Rare,Nature Age
-34,Creature,Rare,Earth Knight Skin-Walker
-35,Creature,Mythic,Snow Chaos Demon of Hate
-36,Creature,Common,Orc
-37,Enchantment,Mythic,Dire Invert
-38,Spell,Common,Stun
-39,Creature,Rare,Light Queen Skin-Walker
-40,Creature,Common,Goblin
-41,Artifact,Legendary,Urgent Ring
-42,Spell,Common,Burst
-43,Enchantment,Common,Invert
-44,Enchantment,Common,Agony
+==================,DECK,5620
+0,Creature,Skin-Walker
+1,Enchantment,Nature Agony
+2,Creature,Light Assassin Griffin
+3,Enchantment,Drain
+4,Artifact,Staff
+5,Creature,Ghoul
+6,Spell,Zealous Apocalypse Fury
+7,Creature,Eagle
+8,Artifact,Boots
+9,Creature,Aura Merchant Orc
+10,Enchantment,Mighty Shimmering Agony
+11,Enchantment,Flight
+12,Creature,Berserker
+13,Creature,Spider
+14,Creature,Death Knight Orc
+15,Creature,Aura Time Phoenix of the Light
+16,Creature,Death Monk Hydra
+17,Enchantment,Nature Deathgrip
+18,Spell,Gale
+19,Creature,Magi
+20,Creature,Wolf
+21,Enchantment,Agony
+22,Artifact,Instant Victory Divine Robe
+23,Enchantment,Blight
+24,Creature,Wolf
+25,Spell,Corpse Revive
+26,Creature,Snow Undead Orc
+27,Creature,Earth King Kraken
+28,Creature,Warlock
+29,Spell,Fire
+30,Creature,Dark Merchant Goblin
+31,Creature,Light Merchant Orc
+32,Creature,Aura Merchant Orc
+33,Enchantment,Nature Agony
+34,Creature,Earth Knight Orc
+35,Creature,Snow Chaos Demon of Hate
+36,Creature,Spider
+37,Enchantment,Instant Oblivion Drain
+38,Spell,Pandemonium
+39,Creature,Light Queen Orc
+40,Creature,Skin-Walker
+41,Artifact,Clever Shimmering Ring
+42,Spell,Lightning
+43,Enchantment,Shield
+44,Enchantment,Shade

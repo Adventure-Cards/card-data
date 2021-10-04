@@ -1,46 +1,46 @@
-==================,DECK,4629,Light
-0,Enchantment,Common,Shield
-1,Spell,Common,Pandemonium
-2,Creature,Common,Dwarf
-3,Spell,Common,Assault
-4,Spell,Rare,Nimble Lightning
-5,Enchantment,Common,Agony
-6,Creature,Legendary,Light Fighter Giant of the Polar Woods
-7,Creature,Legendary,Earth Rogue Kraken of the Border
-8,Creature,Common,Magi
-9,Artifact,Common,Sigil
-10,Creature,Mythic,Dark Time Dragon of Illusion
-11,Creature,Common,Spider
-12,Creature,Rare,Snow Warrior Fairy
-13,Creature,Common,Warlock
-14,Spell,Rare,Shimmering Gale
-15,Artifact,Rare,Shimmering Sword
-16,Artifact,Common,Shield
-17,Enchantment,Rare,Grim Alacrity
-18,Creature,Common,Elf
-19,Artifact,Common,Helmet
-20,Creature,Common,Magi
-21,Enchantment,Rare,Grim Lethargy
-22,Creature,Common,Eagle
-23,Enchantment,Mythic,Potent Shrink
-24,Creature,Legendary,Light Monk Oni of the Eastern Skies
-25,Artifact,Common,Gloves
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Warlock
-28,Artifact,Common,Tome
-29,Creature,Common,Ghoul
-30,Creature,Common,Paladin
-31,Creature,Common,Warlock
-32,Artifact,Common,Sword
-33,Creature,Common,Magi
-34,Creature,Common,Paladin
-35,Artifact,Rare,Nimble Helmet
-36,Spell,Rare,Shimmering Sorrow
-37,Creature,Common,Elf
-38,Creature,Common,Paladin
-39,Creature,Rare,Aura Merchant Griffin
-40,Creature,Mythic,Frozen Time Dragon of the Void
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Paladin
-43,Artifact,Common,Potion
-44,Spell,Common,Assault
+==================,DECK,4629
+0,Enchantment,Alacrity
+1,Spell,Wall
+2,Creature,Magi
+3,Spell,Revive
+4,Spell,Forged Vortex
+5,Enchantment,Drain
+6,Creature,Light Fighter Dwarf of the Polar Woods
+7,Creature,Earth Rogue Ogre of the Border
+8,Creature,Fairy
+9,Artifact,Sigil
+10,Creature,Dark Time Dragon of Illusion
+11,Creature,Paladin
+12,Creature,Snow Warrior Kraken
+13,Creature,Berserker
+14,Spell,Corpse Torment
+15,Artifact,Shimmering Sword
+16,Artifact,Shield
+17,Enchantment,Apocalypse Blight
+18,Creature,Warlock
+19,Artifact,Helmet
+20,Creature,Fairy
+21,Enchantment,Grim Invert
+22,Creature,Eagle
+23,Enchantment,Potent Frigid Drain
+24,Creature,Light Monk Oni of the Eastern Skies
+25,Artifact,Gloves
+26,Enchantment,Drain
+27,Creature,Berserker
+28,Artifact,Tome
+29,Creature,Ghoul
+30,Creature,Troll
+31,Creature,Berserker
+32,Artifact,Sword
+33,Creature,Fairy
+34,Creature,Troll
+35,Artifact,Corpse Helmet
+36,Spell,Nature Torment
+37,Creature,Warlock
+38,Creature,Troll
+39,Creature,Aura Merchant Griffin
+40,Creature,Frozen Time Dragon of the Void
+41,Enchantment,Blight
+42,Creature,Troll
+43,Artifact,Potion
+44,Spell,Lightning

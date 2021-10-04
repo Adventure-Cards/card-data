@@ -1,46 +1,46 @@
-==================,DECK,5555,Light
-0,Creature,Common,Elf
-1,Spell,Common,Vortex
-2,Creature,Common,Warlock
-3,Enchantment,Common,Age
-4,Creature,Common,Warlock
-5,Spell,Rare,Nimble Rage
-6,Artifact,Rare,Gloom Scepter
-7,Creature,Common,Ghoul
-8,Creature,Common,Magi
-9,Creature,Rare,Dark Assassin Fairy
-10,Creature,Common,Dwarf
-11,Spell,Common,Sorrow
-12,Creature,Common,Warlock
-13,Creature,Rare,Earth King Griffin
-14,Enchantment,Common,Haste
-15,Creature,Common,Orc
-16,Artifact,Legendary,Mighty Crown
-17,Creature,Common,Spider
-18,Creature,Mythic,Frozen Time Dragon of the Void
-19,Spell,Common,Ice
-20,Enchantment,Common,Haste
-21,Spell,Legendary,Mighty Heal
-22,Artifact,Rare,Cataclysmic Divine Robe
-23,Artifact,Rare,Shimmering Staff
-24,Creature,Rare,Death Lord Skin-Walker
-25,Creature,Common,Elf
-26,Creature,Rare,Earth Merchant Berserker
-27,Creature,Legendary,Dark Thief Orge of the Plains
-28,Creature,Common,Warlock
-29,Creature,Rare,Frozen Queen Berserker
-30,Creature,Common,Warlock
-31,Creature,Legendary,Aura Assassin Cyclops of the Frozen Castle
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Magi
-34,Creature,Common,Paladin
-35,Creature,Common,Wolf
-36,Creature,Common,Spider
-37,Spell,Rare,Forged Frost
-38,Enchantment,Rare,Cataclysmic Haste
-39,Enchantment,Common,Agony
-40,Creature,Common,Wolf
-41,Creature,Common,Paladin
-42,Enchantment,Rare,Hateful Shrink
-43,Creature,Common,Paladin
-44,Spell,Common,Assault
+==================,DECK,5555
+0,Creature,Warlock
+1,Spell,Frenzy
+2,Creature,Berserker
+3,Enchantment,Firebreath
+4,Creature,Berserker
+5,Spell,Hateful Vortex
+6,Artifact,Sorrow Scepter
+7,Creature,Ghoul
+8,Creature,Fairy
+9,Creature,Dark Assassin Kraken
+10,Creature,Magi
+11,Spell,Torment
+12,Creature,Berserker
+13,Creature,Earth King Griffin
+14,Enchantment,Strength
+15,Creature,Spider
+16,Artifact,Irate Miracle Crown
+17,Creature,Paladin
+18,Creature,Frozen Time Dragon of the Void
+19,Spell,Assault
+20,Enchantment,Flight
+21,Spell,Ardent Chimeric Revive
+22,Artifact,Lunar Divine Robe
+23,Artifact,Corpse Staff
+24,Creature,Death Lord Orc
+25,Creature,Warlock
+26,Creature,Earth Merchant Goblin
+27,Creature,Dark Thief Elf of the Plains
+28,Creature,Berserker
+29,Creature,Frozen Queen Goblin
+30,Creature,Berserker
+31,Creature,Aura Assassin Giant of the Frozen Castle
+32,Enchantment,Alacrity
+33,Creature,Fairy
+34,Creature,Troll
+35,Creature,Wolf
+36,Creature,Paladin
+37,Spell,Dark Vortex
+38,Enchantment,Miracle Firebreath
+39,Enchantment,Flight
+40,Creature,Wolf
+41,Creature,Troll
+42,Enchantment,Chimeric Shrink
+43,Creature,Troll
+44,Spell,Burn

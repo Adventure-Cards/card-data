@@ -1,46 +1,46 @@
-==================,DECK,5451,Light
-0,Spell,Common,Maelstrom
-1,Creature,Legendary,Earth Priest Cyclops of the Polar Woods
-2,Creature,Common,Goblin
-3,Creature,Common,Warlock
-4,Creature,Common,Magi
-5,Artifact,Rare,Forged Pendant
-6,Creature,Common,Dwarf
-7,Artifact,Common,Helm
-8,Creature,Common,Magi
-9,Spell,Common,Sorrow
-10,Creature,Common,Dwarf
-11,Creature,Rare,Earth Knight Minotaur
-12,Creature,Common,Ghoul
-13,Creature,Common,Warlock
-14,Creature,Rare,Aura Rogue Fairy
-15,Creature,Rare,Earth Lord Berserker
-16,Creature,Common,Warlock
-17,Creature,Common,Warlock
-18,Enchantment,Common,Flight
-19,Creature,Common,Goblin
-20,Creature,Common,Wolf
-21,Creature,Rare,Aura Monk Fairy
-22,Creature,Common,Goblin
-23,Artifact,Common,Sword
-24,Creature,Legendary,Snow Priest Cyclops of the Low Hills
-25,Spell,Rare,Frigid Frost
-26,Artifact,Rare,Solar Amulet
-27,Spell,Common,Frost
-28,Enchantment,Legendary,Dire Deathgrip
-29,Enchantment,Common,Age
-30,Spell,Common,Lightning
-31,Artifact,Rare,Oblivion Helmet
-32,Spell,Common,Lightning
-33,Creature,Common,Paladin
-34,Creature,Common,Ghoul
-35,Creature,Legendary,Light Monk Kraken of the Magical Forest
-36,Creature,Legendary,Dark Knight Giant of the Eternal Land
-37,Spell,Rare,Apocalypse Burn
-38,Creature,Common,Elf
-39,Creature,Common,Wolf
-40,Enchantment,Common,Strength
-41,Enchantment,Common,Agony
-42,Spell,Common,Ice
-43,Enchantment,Common,Shrink
-44,Enchantment,Common,Alacrity
+==================,DECK,5451
+0,Spell,Gravitation
+1,Creature,Earth Priest Giant of the Polar Woods
+2,Creature,Skin-Walker
+3,Creature,Berserker
+4,Creature,Fairy
+5,Artifact,Gloom Pendant
+6,Creature,Magi
+7,Artifact,Helm
+8,Creature,Fairy
+9,Spell,Torment
+10,Creature,Magi
+11,Creature,Earth Knight Cyclops
+12,Creature,Ghoul
+13,Creature,Berserker
+14,Creature,Aura Rogue Kraken
+15,Creature,Earth Lord Goblin
+16,Creature,Berserker
+17,Creature,Berserker
+18,Enchantment,Shade
+19,Creature,Skin-Walker
+20,Creature,Wolf
+21,Creature,Aura Monk Kraken
+22,Creature,Skin-Walker
+23,Artifact,Sword
+24,Creature,Snow Priest Giant of the Low Hills
+25,Spell,Grim Tempest
+26,Artifact,Necro Amulet
+27,Spell,Rage
+28,Enchantment,Empyrean Oblivion Shade
+29,Enchantment,Firebreath
+30,Spell,Burn
+31,Artifact,Nimble Helmet
+32,Spell,Fire
+33,Creature,Troll
+34,Creature,Ghoul
+35,Creature,Light Monk Ogre of the Magical Forest
+36,Creature,Dark Knight Dwarf of the Eternal Land
+37,Spell,Frigid Pandemonium
+38,Creature,Warlock
+39,Creature,Wolf
+40,Enchantment,Blight
+41,Enchantment,Shield
+42,Spell,Reanimate
+43,Enchantment,Shade
+44,Enchantment,Drain

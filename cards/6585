@@ -1,46 +1,46 @@
-==================,DECK,6585,Medium
-0,Creature,Common,Magi
-1,Enchantment,Mythic,Potent Age
-2,Creature,Common,Spider
-3,Creature,Rare,Dark Undead Hydra
-4,Enchantment,Legendary,Instant Haste
-5,Creature,Legendary,Light Warrior Oni of the Border
-6,Creature,Rare,Frozen Lord Skin-Walker
-7,Creature,Mythic,Death Nameless Phoenix of the Dead
-8,Creature,Common,Ghoul
-9,Enchantment,Mythic,Intense Shade
-10,Enchantment,Common,Flight
-11,Artifact,Legendary,Angry Pendant
-12,Enchantment,Common,Invert
-13,Artifact,Common,Shield
-14,Artifact,Common,Cloak
-15,Enchantment,Common,Deathgrip
-16,Creature,Common,Paladin
-17,Enchantment,Common,Flight
-18,Creature,Rare,Light King Skin-Walker
-19,Enchantment,Common,Lethargy
-20,Creature,Rare,Death Assassin Griffin
-21,Creature,Common,Paladin
-22,Creature,Rare,Aura Merchant Minotaur
-23,Artifact,Common,Potion
-24,Creature,Common,Ghoul
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Eagle
-27,Spell,Rare,Necro Ice
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Orc
-30,Creature,Common,Wolf
-31,Enchantment,Common,Haste
-32,Creature,Rare,Snow Warrior Hydra
-33,Creature,Common,Eagle
-34,Creature,Common,Magi
-35,Creature,Rare,Death Fighter Minotaur
-36,Creature,Common,Paladin
-37,Creature,Legendary,Snow Fighter Oni of the West
-38,Spell,Common,Burn
-39,Creature,Mythic,Dark Undead Phoenix of Illusion
-40,Spell,Common,Torment
-41,Creature,Rare,Earth Thief Skin-Walker
-42,Creature,Common,Elf
-43,Spell,Mythic,Instant Pandemonium
-44,Spell,Mythic,Instant Infuriate
+==================,DECK,6585
+0,Creature,Fairy
+1,Enchantment,Zealous Victory Blight
+2,Creature,Paladin
+3,Creature,Dark Undead Hydra
+4,Enchantment,Zealous Corpse Deathgrip
+5,Creature,Light Warrior Oni of the Border
+6,Creature,Frozen Lord Orc
+7,Creature,Death Nameless Phoenix of the Dead
+8,Creature,Ghoul
+9,Enchantment,Ardent Necro Lethargy
+10,Enchantment,Age
+11,Artifact,Zealous Lunar Pendant
+12,Enchantment,Haste
+13,Artifact,Shield
+14,Artifact,Cloak
+15,Enchantment,Lethargy
+16,Creature,Troll
+17,Enchantment,Alacrity
+18,Creature,Light King Orc
+19,Enchantment,Lethargy
+20,Creature,Death Assassin Griffin
+21,Creature,Troll
+22,Creature,Aura Merchant Cyclops
+23,Artifact,Potion
+24,Creature,Ghoul
+25,Enchantment,Shade
+26,Creature,Eagle
+27,Spell,Shimmering Ice
+28,Enchantment,Lethargy
+29,Creature,Spider
+30,Creature,Wolf
+31,Enchantment,Deathgrip
+32,Creature,Snow Warrior Hydra
+33,Creature,Eagle
+34,Creature,Fairy
+35,Creature,Death Fighter Cyclops
+36,Creature,Troll
+37,Creature,Snow Fighter Oni of the West
+38,Spell,Torment
+39,Creature,Dark Undead Phoenix of Illusion
+40,Spell,Tempest
+41,Creature,Earth Thief Orc
+42,Creature,Warlock
+43,Spell,Zealous Necro Gravitation
+44,Spell,Clever Solar Burst

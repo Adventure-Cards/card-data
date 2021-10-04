@@ -1,46 +1,46 @@
-==================,DECK,4912,Medium
-0,Creature,Common,Wolf
-1,Spell,Common,Reanimate
-2,Spell,Legendary,Angry Stricken
-3,Creature,Rare,Snow Fighter Minotaur
-4,Creature,Common,Magi
-5,Enchantment,Mythic,Mighty Haste
-6,Creature,Legendary,Snow Priest Cyclops of the Arctic Blizzards
-7,Creature,Common,Wolf
-8,Spell,Common,Infuriate
-9,Creature,Common,Orc
-10,Creature,Common,Warlock
-11,Spell,Common,Invisibility
-12,Creature,Rare,Dark Merchant Skin-Walker
-13,Creature,Common,Dwarf
-14,Spell,Common,Rage
-15,Spell,Common,Vortex
-16,Creature,Rare,Dark Assassin Skin-Walker
-17,Creature,Rare,Snow Queen Skin-Walker
-18,Spell,Common,Stun
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Lethargy
-21,Creature,Common,Orc
-22,Creature,Common,Magi
-23,Creature,Common,Elf
-24,Enchantment,Rare,Lunar Haste
-25,Creature,Rare,Earth Knight Minotaur
-26,Spell,Rare,Life Gale
-27,Spell,Rare,Nimble Wall
-28,Creature,Common,Ghoul
-29,Creature,Common,Eagle
-30,Spell,Common,Invisibility
-31,Creature,Rare,Frozen Knight Fairy
-32,Creature,Common,Orc
-33,Creature,Rare,Earth Fighter Berserker
-34,Creature,Common,Eagle
-35,Enchantment,Common,Age
-36,Creature,Rare,Light Knight Fairy
-37,Enchantment,Legendary,Mighty Agony
-38,Artifact,Common,Pendant
-39,Creature,Rare,Aura Knight Minotaur
-40,Enchantment,Common,Age
-41,Enchantment,Rare,Corpse Strength
-42,Enchantment,Mythic,Urgent Alacrity
-43,Creature,Rare,Death Fighter Berserker
-44,Artifact,Rare,Apocalypse Gauntlet
+==================,DECK,4912
+0,Creature,Wolf
+1,Spell,Gale
+2,Spell,Zealous Dark Hypnosis
+3,Creature,Snow Fighter Cyclops
+4,Creature,Fairy
+5,Enchantment,Zealous Miracle Alacrity
+6,Creature,Snow Priest Giant of the Arctic Blizzards
+7,Creature,Wolf
+8,Spell,Vortex
+9,Creature,Spider
+10,Creature,Berserker
+11,Spell,Ice
+12,Creature,Dark Merchant Orc
+13,Creature,Magi
+14,Spell,Maelstrom
+15,Spell,Lightning
+16,Creature,Dark Assassin Orc
+17,Creature,Snow Queen Orc
+18,Spell,Rage
+19,Creature,Ghoul
+20,Enchantment,Firebreath
+21,Creature,Spider
+22,Creature,Fairy
+23,Creature,Warlock
+24,Enchantment,Miracle Shrink
+25,Creature,Earth Knight Cyclops
+26,Spell,Life Lightning
+27,Spell,Hateful Pandemonium
+28,Creature,Ghoul
+29,Creature,Eagle
+30,Spell,Rage
+31,Creature,Frozen Knight Kraken
+32,Creature,Spider
+33,Creature,Earth Fighter Goblin
+34,Creature,Eagle
+35,Enchantment,Drain
+36,Creature,Light Knight Kraken
+37,Enchantment,Dire Miracle Firebreath
+38,Artifact,Pendant
+39,Creature,Aura Knight Cyclops
+40,Enchantment,Age
+41,Enchantment,Solar Strength
+42,Enchantment,Dire Forged Age
+43,Creature,Death Fighter Goblin
+44,Artifact,Victory Gauntlet

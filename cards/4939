@@ -1,46 +1,46 @@
-==================,DECK,4939,Medium
-0,Spell,Common,Freeze
-1,Artifact,Common,Tome
-2,Artifact,Rare,Gloom Ring
-3,Creature,Rare,Aura Warrior Fairy
-4,Spell,Rare,Lunar Stun
-5,Enchantment,Rare,Necro Age
-6,Creature,Common,Ghoul
-7,Creature,Common,Ghoul
-8,Creature,Rare,Light Fighter Minotaur
-9,Enchantment,Rare,Lunar Deathgrip
-10,Creature,Common,Dwarf
-11,Enchantment,Rare,Hateful Blight
-12,Creature,Common,Spider
-13,Enchantment,Mythic,Mighty Lethargy
-14,Creature,Common,Eagle
-15,Creature,Rare,Earth Merchant Skin-Walker
-16,Artifact,Common,Ring
-17,Creature,Common,Spider
-18,Creature,Rare,Aura Merchant Fairy
-19,Spell,Rare,Life Infuriate
-20,Spell,Common,Sorrow
-21,Enchantment,Common,Flight
-22,Creature,Rare,Frozen King Minotaur
-23,Enchantment,Common,Flight
-24,Enchantment,Common,Haste
-25,Creature,Common,Spider
-26,Artifact,Legendary,Mighty Ring
-27,Spell,Rare,Miracle Sorrow
-28,Creature,Common,Eagle
-29,Enchantment,Rare,Miracle Haste
-30,Creature,Common,Warlock
-31,Creature,Common,Ghoul
-32,Creature,Common,Dwarf
-33,Creature,Common,Spider
-34,Spell,Common,Sorrow
-35,Spell,Mythic,Clever Rage
-36,Creature,Mythic,Light Ancient Demon of the Sky
-37,Enchantment,Rare,Shimmering Haste
-38,Artifact,Rare,Forged Staff
-39,Spell,Legendary,Instant Burn
-40,Creature,Legendary,Earth Priest Kraken of the Golden Palace
-41,Creature,Common,Magi
-42,Creature,Common,Ghoul
-43,Artifact,Legendary,Potent Cloak
-44,Enchantment,Rare,Lunar Haste
+==================,DECK,4939
+0,Spell,Ice
+1,Artifact,Tome
+2,Artifact,Cataclysmic Ring
+3,Creature,Aura Warrior Kraken
+4,Spell,Gloom Burst
+5,Enchantment,Nature Deathgrip
+6,Creature,Ghoul
+7,Creature,Ghoul
+8,Creature,Light Fighter Cyclops
+9,Enchantment,Sorrow Shrink
+10,Creature,Magi
+11,Enchantment,Cataclysmic Shrink
+12,Creature,Paladin
+13,Enchantment,Irate Lunar Alacrity
+14,Creature,Eagle
+15,Creature,Earth Merchant Orc
+16,Artifact,Ring
+17,Creature,Paladin
+18,Creature,Aura Merchant Kraken
+19,Spell,Oblivion Burn
+20,Spell,Assault
+21,Enchantment,Shade
+22,Creature,Frozen King Cyclops
+23,Enchantment,Alacrity
+24,Enchantment,Blight
+25,Creature,Paladin
+26,Artifact,Instant Chimeric Ring
+27,Spell,Grim Lightning
+28,Creature,Eagle
+29,Enchantment,Life Blight
+30,Creature,Berserker
+31,Creature,Ghoul
+32,Creature,Magi
+33,Creature,Paladin
+34,Spell,Wall
+35,Spell,Instant Victory Burst
+36,Creature,Light Ancient Demon of the Sky
+37,Enchantment,Corpse Deathgrip
+38,Artifact,Gloom Staff
+39,Spell,Clever Shimmering Tempest
+40,Creature,Earth Priest Ogre of the Golden Palace
+41,Creature,Fairy
+42,Creature,Ghoul
+43,Artifact,Clever Life Cloak
+44,Enchantment,Miracle Flight

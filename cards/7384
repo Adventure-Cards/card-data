@@ -1,46 +1,46 @@
-==================,DECK,7384,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Agony
-2,Creature,Legendary,Earth Warrior Kraken of the Bright Mountains
-3,Enchantment,Common,Invert
-4,Artifact,Common,Belt
-5,Spell,Common,Vortex
-6,Enchantment,Rare,Lunar Shrink
-7,Enchantment,Rare,Dark Alacrity
-8,Creature,Common,Spider
-9,Artifact,Rare,Nature Boots
-10,Creature,Common,Magi
-11,Creature,Common,Goblin
-12,Spell,Rare,Corpse Lightning
-13,Enchantment,Common,Shade
-14,Spell,Rare,Necro Gale
-15,Enchantment,Mythic,Angry Strength
-16,Enchantment,Common,Agony
-17,Enchantment,Common,Flight
-18,Creature,Common,Paladin
-19,Creature,Rare,Frozen Warrior Berserker
-20,Creature,Common,Magi
-21,Enchantment,Legendary,Angry Shade
-22,Creature,Common,Dwarf
-23,Creature,Common,Warlock
-24,Creature,Mythic,Dark Chaos Demon of Illusion
-25,Creature,Legendary,Death Queen Cyclops of the Border
-26,Creature,Common,Paladin
-27,Enchantment,Common,Haste
-28,Enchantment,Common,Flight
-29,Spell,Common,Assault
-30,Creature,Rare,Earth King Griffin
-31,Creature,Common,Orc
-32,Spell,Common,Invisibility
-33,Creature,Common,Dwarf
-34,Creature,Common,Wolf
-35,Enchantment,Common,Agony
-36,Creature,Rare,Death Knight Griffin
-37,Creature,Mythic,Death Chaos Demon of the Dead
-38,Artifact,Common,Scepter
-39,Enchantment,Rare,Cataclysmic Flight
-40,Enchantment,Common,Strength
-41,Creature,Common,Elf
-42,Spell,Legendary,Extreme Maelstrom
-43,Creature,Rare,Snow Fighter Berserker
-44,Creature,Common,Warlock
+==================,DECK,7384
+0,Creature,Ghoul
+1,Enchantment,Alacrity
+2,Creature,Earth Warrior Ogre of the Bright Mountains
+3,Enchantment,Shrink
+4,Artifact,Belt
+5,Spell,Stun
+6,Enchantment,Chimeric Flight
+7,Enchantment,Dark Flight
+8,Creature,Paladin
+9,Artifact,Shimmering Boots
+10,Creature,Fairy
+11,Creature,Skin-Walker
+12,Spell,Nature Burn
+13,Enchantment,Invert
+14,Spell,Shimmering Revive
+15,Enchantment,Urgent Cataclysmic Flight
+16,Enchantment,Shield
+17,Enchantment,Shrink
+18,Creature,Troll
+19,Creature,Frozen Warrior Goblin
+20,Creature,Fairy
+21,Enchantment,Urgent Chimeric Flight
+22,Creature,Magi
+23,Creature,Berserker
+24,Creature,Dark Chaos Demon of Illusion
+25,Creature,Death Queen Giant of the Border
+26,Creature,Troll
+27,Enchantment,Shade
+28,Enchantment,Deathgrip
+29,Spell,Fire
+30,Creature,Earth King Griffin
+31,Creature,Spider
+32,Spell,Burst
+33,Creature,Magi
+34,Creature,Wolf
+35,Enchantment,Drain
+36,Creature,Death Knight Griffin
+37,Creature,Death Chaos Demon of the Dead
+38,Artifact,Scepter
+39,Enchantment,Lunar Alacrity
+40,Enchantment,Deathgrip
+41,Creature,Warlock
+42,Spell,Empyrean Chimeric Invisibility
+43,Creature,Snow Fighter Goblin
+44,Creature,Berserker

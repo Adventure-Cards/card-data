@@ -1,46 +1,46 @@
-==================,DECK,5420,Medium
-0,Creature,Mythic,Light Undead Phoenix of the Sky
-1,Enchantment,Common,Shade
-2,Spell,Common,Frost
-3,Creature,Legendary,Aura Undead Cyclops of the Bright Mountains
-4,Creature,Legendary,Death Warrior Giant of the Plains
-5,Spell,Common,Ice
-6,Creature,Common,Elf
-7,Spell,Rare,Cataclysmic Stricken
-8,Creature,Common,Orc
-9,Creature,Rare,Light Monk Berserker
-10,Creature,Common,Paladin
-11,Spell,Mythic,Potent Hypnosis
-12,Creature,Rare,Frozen Monk Hydra
-13,Creature,Common,Warlock
-14,Enchantment,Rare,Hateful Shrink
-15,Artifact,Rare,Hateful Tome
-16,Artifact,Rare,Lunar Cloak
-17,Creature,Common,Eagle
-18,Spell,Rare,Necro Reanimate
-19,Spell,Common,Gale
-20,Creature,Common,Wolf
-21,Creature,Mythic,Light Ancient Wizard of the Sky
-22,Artifact,Common,Sigil
-23,Enchantment,Common,Haste
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Eagle
-26,Creature,Common,Goblin
-27,Enchantment,Common,Flight
-28,Enchantment,Common,Alacrity
-29,Creature,Common,Magi
-30,Artifact,Common,Gauntlet
-31,Spell,Rare,Life Maelstrom
-32,Artifact,Common,Bow
-33,Creature,Common,Dwarf
-34,Creature,Rare,Light King Minotaur
-35,Spell,Rare,Necro Gale
-36,Creature,Common,Dwarf
-37,Creature,Common,Eagle
-38,Creature,Mythic,Death Grand Wizard of the Dead
-39,Spell,Common,Rage
-40,Enchantment,Mythic,Urgent Blight
-41,Enchantment,Common,Lethargy
-42,Creature,Rare,Aura Assassin Griffin
-43,Creature,Common,Dwarf
-44,Enchantment,Mythic,Potent Shade
+==================,DECK,5420
+0,Creature,Light Undead Phoenix of the Sky
+1,Enchantment,Alacrity
+2,Spell,Ice
+3,Creature,Aura Undead Giant of the Bright Mountains
+4,Creature,Death Warrior Dwarf of the Plains
+5,Spell,Hypnosis
+6,Creature,Warlock
+7,Spell,Lunar Gale
+8,Creature,Spider
+9,Creature,Light Monk Goblin
+10,Creature,Troll
+11,Spell,Empyrean Frigid Reanimate
+12,Creature,Frozen Monk Hydra
+13,Creature,Berserker
+14,Enchantment,Chimeric Firebreath
+15,Artifact,Sorrow Tome
+16,Artifact,Gloom Cloak
+17,Creature,Eagle
+18,Spell,Forged Fire
+19,Spell,Burn
+20,Creature,Wolf
+21,Creature,Light Ancient Wizard of the Sky
+22,Artifact,Sigil
+23,Enchantment,Haste
+24,Enchantment,Blight
+25,Creature,Eagle
+26,Creature,Skin-Walker
+27,Enchantment,Agony
+28,Enchantment,Lethargy
+29,Creature,Fairy
+30,Artifact,Gauntlet
+31,Spell,Apocalypse Torment
+32,Artifact,Bow
+33,Creature,Magi
+34,Creature,Light King Cyclops
+35,Spell,Hateful Ice
+36,Creature,Magi
+37,Creature,Eagle
+38,Creature,Death Grand Wizard of the Dead
+39,Spell,Gravitation
+40,Enchantment,Empyrean Solar Age
+41,Enchantment,Blight
+42,Creature,Aura Assassin Griffin
+43,Creature,Magi
+44,Enchantment,Urgent Frigid Invert

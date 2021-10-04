@@ -1,46 +1,46 @@
-==================,DECK,5209,Medium
-0,Creature,Rare,Light Assassin Berserker
-1,Enchantment,Common,Alacrity
-2,Enchantment,Rare,Oblivion Strength
-3,Spell,Rare,Oblivion Wall
-4,Artifact,Rare,Cataclysmic Divine Robe
-5,Spell,Common,Pandemonium
-6,Enchantment,Legendary,Instant Flight
-7,Creature,Common,Dwarf
-8,Creature,Common,Wolf
-9,Enchantment,Legendary,Extreme Shrink
-10,Creature,Rare,Aura Lord Berserker
-11,Creature,Mythic,Death Grand Demon of the Dead
-12,Spell,Common,Lightning
-13,Enchantment,Common,Deathgrip
-14,Creature,Common,Orc
-15,Enchantment,Mythic,Urgent Haste
-16,Spell,Rare,Nimble Rage
-17,Creature,Common,Eagle
-18,Enchantment,Common,Flight
-19,Artifact,Common,Ring
-20,Creature,Common,Paladin
-21,Enchantment,Mythic,Urgent Haste
-22,Creature,Common,Magi
-23,Spell,Rare,Necro Stricken
-24,Enchantment,Common,Shield
-25,Enchantment,Rare,Gloom Shield
-26,Enchantment,Common,Deathgrip
-27,Artifact,Rare,Apocalypse Ghost Wand
-28,Creature,Rare,Light Undead Minotaur
-29,Creature,Rare,Snow King Griffin
-30,Creature,Rare,Dark King Minotaur
-31,Creature,Common,Elf
-32,Enchantment,Common,Haste
-33,Enchantment,Mythic,Urgent Blight
-34,Creature,Rare,Dark Undead Skin-Walker
-35,Creature,Legendary,Frozen Queen Orge of the Bright Mountains
-36,Creature,Rare,Dark Undead Skin-Walker
-37,Enchantment,Common,Blight
-38,Artifact,Rare,Hateful Cloak
-39,Spell,Common,Burn
-40,Artifact,Rare,Cataclysmic Greaves
-41,Enchantment,Common,Agony
-42,Creature,Rare,Frozen Rogue Fairy
-43,Creature,Rare,Dark Merchant Minotaur
-44,Creature,Legendary,Death Thief Giant of the Eternal Land
+==================,DECK,5209
+0,Creature,Light Assassin Goblin
+1,Enchantment,Blight
+2,Enchantment,Nimble Blight
+3,Spell,Oblivion Invisibility
+4,Artifact,Dark Divine Robe
+5,Spell,Burst
+6,Enchantment,Potent Hateful Strength
+7,Creature,Magi
+8,Creature,Wolf
+9,Enchantment,Clever Chimeric Shield
+10,Creature,Aura Lord Goblin
+11,Creature,Death Grand Demon of the Dead
+12,Spell,Freeze
+13,Enchantment,Alacrity
+14,Creature,Spider
+15,Enchantment,Empyrean Corpse Age
+16,Spell,Corpse Assault
+17,Creature,Eagle
+18,Enchantment,Invert
+19,Artifact,Ring
+20,Creature,Troll
+21,Enchantment,Clever Corpse Lethargy
+22,Creature,Fairy
+23,Spell,Nature Heal
+24,Enchantment,Agony
+25,Enchantment,Gloom Alacrity
+26,Enchantment,Deathgrip
+27,Artifact,Oblivion Ghost Wand
+28,Creature,Light Undead Cyclops
+29,Creature,Snow King Griffin
+30,Creature,Dark King Cyclops
+31,Creature,Warlock
+32,Enchantment,Invert
+33,Enchantment,Clever Solar Lethargy
+34,Creature,Dark Undead Orc
+35,Creature,Frozen Queen Elf of the Bright Mountains
+36,Creature,Dark Undead Orc
+37,Enchantment,Invert
+38,Artifact,Cataclysmic Cloak
+39,Spell,Stricken
+40,Artifact,Gloom Greaves
+41,Enchantment,Lethargy
+42,Creature,Frozen Rogue Kraken
+43,Creature,Dark Merchant Cyclops
+44,Creature,Death Thief Dwarf of the Eternal Land

@@ -1,46 +1,46 @@
-==================,DECK,7841,Medium
-0,Enchantment,Common,Invert
-1,Artifact,Common,Greaves
-2,Creature,Common,Goblin
-3,Creature,Common,Paladin
-4,Enchantment,Mythic,Extreme Shade
-5,Enchantment,Mythic,Mighty Lethargy
-6,Creature,Common,Paladin
-7,Creature,Rare,Earth Warrior Skin-Walker
-8,Artifact,Rare,Miracle Divine Robe
-9,Creature,Common,Ghoul
-10,Spell,Rare,Dark Revive
-11,Artifact,Legendary,Urgent Scythe
-12,Enchantment,Common,Flight
-13,Creature,Common,Wolf
-14,Artifact,Common,Amulet
-15,Spell,Common,Pandemonium
-16,Creature,Legendary,Frozen Monk Giant of the Frozen Castle
-17,Creature,Rare,Death Queen Hydra
-18,Spell,Common,Hypnosis
-19,Enchantment,Mythic,Extreme Shade
-20,Spell,Common,Wall
-21,Creature,Rare,Snow Warrior Skin-Walker
-22,Enchantment,Legendary,Urgent Alacrity
-23,Spell,Common,Ice
-24,Creature,Legendary,Earth Assassin Kraken of the Low Hills
-25,Creature,Common,Magi
-26,Creature,Common,Wolf
-27,Creature,Common,Ghoul
-28,Spell,Legendary,Potent Infuriate
-29,Creature,Common,Magi
-30,Creature,Common,Orc
-31,Creature,Rare,Frozen Lord Griffin
-32,Creature,Rare,Dark Merchant Skin-Walker
-33,Enchantment,Legendary,Clever Shrink
-34,Creature,Common,Orc
-35,Creature,Common,Elf
-36,Creature,Common,Orc
-37,Creature,Common,Eagle
-38,Enchantment,Common,Strength
-39,Creature,Common,Eagle
-40,Creature,Common,Ghoul
-41,Creature,Legendary,Dark Thief Kraken of the Magical Forest
-42,Spell,Common,Ice
-43,Enchantment,Common,Shield
-44,Artifact,Common,Bow
+==================,DECK,7841
+0,Enchantment,Age
+1,Artifact,Greaves
+2,Creature,Skin-Walker
+3,Creature,Troll
+4,Enchantment,Urgent Chimeric Flight
+5,Enchantment,Instant Lunar Shrink
+6,Creature,Troll
+7,Creature,Earth Warrior Orc
+8,Artifact,Oblivion Divine Robe
+9,Creature,Ghoul
+10,Spell,Lunar Maelstrom
+11,Artifact,Empyrean Nature Scythe
+12,Enchantment,Shrink
+13,Creature,Wolf
+14,Artifact,Amulet
+15,Spell,Gale
+16,Creature,Frozen Monk Dwarf of the Frozen Castle
+17,Creature,Death Queen Hydra
+18,Spell,Tempest
+19,Enchantment,Urgent Chimeric Flight
+20,Spell,Ice
+21,Creature,Snow Warrior Orc
+22,Enchantment,Dire Forged Age
+23,Spell,Stricken
+24,Creature,Earth Assassin Ogre of the Low Hills
+25,Creature,Fairy
+26,Creature,Wolf
+27,Creature,Ghoul
+28,Spell,Empyrean Apocalypse Gale
+29,Creature,Fairy
+30,Creature,Spider
+31,Creature,Frozen Lord Griffin
+32,Creature,Dark Merchant Orc
+33,Enchantment,Clever Frigid Haste
+34,Creature,Spider
+35,Creature,Warlock
+36,Creature,Spider
+37,Creature,Eagle
+38,Enchantment,Haste
+39,Creature,Eagle
+40,Creature,Ghoul
+41,Creature,Dark Thief Ogre of the Magical Forest
+42,Spell,Wall
+43,Enchantment,Blight
+44,Artifact,Bow

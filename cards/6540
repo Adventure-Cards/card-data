@@ -1,46 +1,46 @@
-==================,DECK,6540,Strong
-0,Artifact,Common,Helm
-1,Enchantment,Common,Blight
-2,Creature,Common,Wolf
-3,Creature,Rare,Snow Lord Berserker
-4,Spell,Legendary,Mighty Fury
-5,Creature,Rare,Aura Warrior Skin-Walker
-6,Enchantment,Mythic,Clever Drain
-7,Creature,Common,Elf
-8,Artifact,Common,Ghost Wand
-9,Enchantment,Common,Blight
-10,Enchantment,Common,Drain
-11,Creature,Common,Elf
-12,Enchantment,Mythic,Mighty Shade
-13,Creature,Common,Spider
-14,Creature,Mythic,Earth Nameless Dragon of the Shadows
-15,Artifact,Common,Bow
-16,Enchantment,Common,Haste
-17,Spell,Mythic,Intense Stun
-18,Spell,Rare,Hateful Stun
-19,Enchantment,Common,Shrink
-20,Spell,Rare,Shimmering Fury
-21,Artifact,Rare,Shimmering Potion
-22,Artifact,Common,Boots
-23,Creature,Rare,Light Assassin Skin-Walker
-24,Enchantment,Legendary,Clever Shade
-25,Spell,Mythic,Urgent Stricken
-26,Creature,Common,Orc
-27,Spell,Legendary,Mighty Torment
-28,Creature,Common,Ghoul
-29,Creature,Common,Wolf
-30,Artifact,Common,Shield
-31,Creature,Rare,Aura Undead Fairy
-32,Enchantment,Mythic,Instant Flight
-33,Creature,Rare,Light Lord Griffin
-34,Enchantment,Common,Invert
-35,Spell,Common,Lightning
-36,Creature,Legendary,Snow Nameless Dragon of Hate
-37,Creature,Common,Spider
-38,Enchantment,Common,Drain
-39,Creature,Mythic,Light Ancient Wizard of the Sky
-40,Creature,Common,Orc
-41,Creature,Legendary,Earth Merchant Orge of the Arctic Blizzards
-42,Spell,Rare,Dark Wall
-43,Enchantment,Legendary,Angry Shrink
-44,Creature,Common,Spider
+==================,DECK,6540
+0,Artifact,Helm
+1,Enchantment,Agony
+2,Creature,Wolf
+3,Creature,Snow Lord Goblin
+4,Spell,Empyrean Dark Lightning
+5,Creature,Aura Warrior Orc
+6,Enchantment,Zealous Apocalypse Blight
+7,Creature,Warlock
+8,Artifact,Ghost Wand
+9,Enchantment,Deathgrip
+10,Enchantment,Haste
+11,Creature,Warlock
+12,Enchantment,Instant Chimeric Shrink
+13,Creature,Paladin
+14,Creature,Earth Nameless Dragon of the Shadows
+15,Artifact,Bow
+16,Enchantment,Age
+17,Spell,Potent Forged Fury
+18,Spell,Gloom Sorrow
+19,Enchantment,Deathgrip
+20,Spell,Corpse Pandemonium
+21,Artifact,Corpse Potion
+22,Artifact,Boots
+23,Creature,Light Assassin Orc
+24,Enchantment,Urgent Frigid Invert
+25,Spell,Empyrean Necro Lightning
+26,Creature,Spider
+27,Spell,Instant Miracle Fireball
+28,Creature,Ghoul
+29,Creature,Wolf
+30,Artifact,Shield
+31,Creature,Aura Undead Kraken
+32,Enchantment,Empyrean Hateful Age
+33,Creature,Light Lord Griffin
+34,Enchantment,Blight
+35,Spell,Gale
+36,Creature,Snow Nameless Dragon of Hate
+37,Creature,Paladin
+38,Enchantment,Haste
+39,Creature,Light Ancient Wizard of the Sky
+40,Creature,Spider
+41,Creature,Earth Merchant Elf of the Arctic Blizzards
+42,Spell,Miracle Gravitation
+43,Enchantment,Mighty Chimeric Flight
+44,Creature,Paladin

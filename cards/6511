@@ -1,46 +1,46 @@
-==================,DECK,6511,Light
-0,Enchantment,Common,Deathgrip
-1,Creature,Common,Warlock
-2,Enchantment,Common,Drain
-3,Creature,Common,Goblin
-4,Creature,Legendary,Snow Lord Kraken of the Low Hills
-5,Creature,Common,Spider
-6,Enchantment,Rare,Life Age
-7,Creature,Rare,Earth Fighter Griffin
-8,Creature,Common,Dwarf
-9,Creature,Common,Paladin
-10,Enchantment,Common,Flight
-11,Creature,Common,Goblin
-12,Enchantment,Mythic,Mighty Flight
-13,Creature,Common,Ghoul
-14,Creature,Common,Eagle
-15,Enchantment,Common,Drain
-16,Spell,Legendary,Potent Frenzy
-17,Artifact,Common,Tome
-18,Creature,Rare,Earth Thief Berserker
-19,Artifact,Common,Boots
-20,Creature,Common,Spider
-21,Enchantment,Common,Shield
-22,Creature,Common,Eagle
-23,Creature,Legendary,Snow Merchant Cyclops of the Black Stone
-24,Creature,Rare,Earth Merchant Minotaur
-25,Creature,Common,Paladin
-26,Enchantment,Common,Invert
-27,Creature,Common,Warlock
-28,Enchantment,Common,Strength
-29,Spell,Common,Revive
-30,Spell,Rare,Lunar Infuriate
-31,Enchantment,Common,Flight
-32,Enchantment,Common,Drain
-33,Enchantment,Common,Invert
-34,Creature,Legendary,Aura Undead Cyclops of the Plains
-35,Artifact,Common,Scythe
-36,Creature,Legendary,Aura King Giant of the Arctic Blizzards
-37,Creature,Legendary,Earth Monk Kraken of the Border
-38,Creature,Rare,Dark Merchant Griffin
-39,Enchantment,Rare,Frigid Shield
-40,Enchantment,Common,Drain
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Paladin
-43,Creature,Common,Eagle
-44,Creature,Common,Goblin
+==================,DECK,6511
+0,Enchantment,Shade
+1,Creature,Berserker
+2,Enchantment,Lethargy
+3,Creature,Skin-Walker
+4,Creature,Snow Lord Ogre of the Low Hills
+5,Creature,Paladin
+6,Enchantment,Victory Drain
+7,Creature,Earth Fighter Griffin
+8,Creature,Magi
+9,Creature,Troll
+10,Enchantment,Drain
+11,Creature,Skin-Walker
+12,Enchantment,Zealous Lunar Alacrity
+13,Creature,Ghoul
+14,Creature,Eagle
+15,Enchantment,Age
+16,Spell,Dire Grim Sorrow
+17,Artifact,Tome
+18,Creature,Earth Thief Goblin
+19,Artifact,Boots
+20,Creature,Paladin
+21,Enchantment,Haste
+22,Creature,Eagle
+23,Creature,Snow Merchant Giant of the Black Stone
+24,Creature,Earth Merchant Cyclops
+25,Creature,Troll
+26,Enchantment,Firebreath
+27,Creature,Berserker
+28,Enchantment,Strength
+29,Spell,Infuriate
+30,Spell,Dark Frost
+31,Enchantment,Agony
+32,Enchantment,Flight
+33,Enchantment,Flight
+34,Creature,Aura Undead Giant of the Plains
+35,Artifact,Scythe
+36,Creature,Aura King Dwarf of the Arctic Blizzards
+37,Creature,Earth Monk Ogre of the Border
+38,Creature,Dark Merchant Griffin
+39,Enchantment,Victory Shade
+40,Enchantment,Haste
+41,Enchantment,Alacrity
+42,Creature,Troll
+43,Creature,Eagle
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,6621,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Paladin
-2,Creature,Common,Goblin
-3,Creature,Common,Elf
-4,Creature,Common,Magi
-5,Artifact,Common,Ring
-6,Spell,Rare,Necro Hypnosis
-7,Creature,Common,Goblin
-8,Creature,Common,Dwarf
-9,Creature,Rare,Light Rogue Minotaur
-10,Creature,Rare,Death Undead Skin-Walker
-11,Creature,Common,Wolf
-12,Creature,Common,Dwarf
-13,Spell,Common,Pandemonium
-14,Artifact,Common,Sword
-15,Spell,Common,Torment
-16,Creature,Common,Wolf
-17,Creature,Rare,Snow Thief Minotaur
-18,Spell,Common,Burst
-19,Creature,Rare,Earth Queen Skin-Walker
-20,Creature,Common,Eagle
-21,Spell,Common,Lightning
-22,Spell,Common,Ice
-23,Spell,Legendary,Dire Infuriate
-24,Creature,Common,Warlock
-25,Spell,Common,Stun
-26,Enchantment,Common,Flight
-27,Enchantment,Common,Alacrity
-28,Artifact,Rare,Nimble Amulet
-29,Creature,Common,Elf
-30,Creature,Rare,Aura Lord Minotaur
-31,Creature,Mythic,Frozen Undead Phoenix of the Void
-32,Enchantment,Common,Lethargy
-33,Creature,Rare,Light King Berserker
-34,Spell,Common,Stricken
-35,Artifact,Common,Sigil
-36,Creature,Common,Orc
-37,Creature,Common,Paladin
-38,Creature,Common,Elf
-39,Spell,Common,Revive
-40,Artifact,Common,Bow
-41,Creature,Common,Warlock
-42,Creature,Common,Magi
-43,Spell,Common,Lightning
-44,Spell,Legendary,Mighty Stun
+==================,DECK,6621
+0,Creature,Eagle
+1,Creature,Troll
+2,Creature,Skin-Walker
+3,Creature,Warlock
+4,Creature,Fairy
+5,Artifact,Ring
+6,Spell,Nature Sorrow
+7,Creature,Skin-Walker
+8,Creature,Magi
+9,Creature,Light Rogue Cyclops
+10,Creature,Death Undead Orc
+11,Creature,Wolf
+12,Creature,Magi
+13,Spell,Freeze
+14,Artifact,Sword
+15,Spell,Sorrow
+16,Creature,Wolf
+17,Creature,Snow Thief Cyclops
+18,Spell,Torment
+19,Creature,Earth Queen Orc
+20,Creature,Eagle
+21,Spell,Burn
+22,Spell,Hypnosis
+23,Spell,Mighty Nimble Frenzy
+24,Creature,Berserker
+25,Spell,Fire
+26,Enchantment,Age
+27,Enchantment,Shade
+28,Artifact,Nature Amulet
+29,Creature,Warlock
+30,Creature,Aura Lord Cyclops
+31,Creature,Frozen Undead Phoenix of the Void
+32,Enchantment,Shade
+33,Creature,Light King Goblin
+34,Spell,Burst
+35,Artifact,Sigil
+36,Creature,Spider
+37,Creature,Troll
+38,Creature,Warlock
+39,Spell,Burn
+40,Artifact,Bow
+41,Creature,Berserker
+42,Creature,Fairy
+43,Spell,Tempest
+44,Spell,Empyrean Cataclysmic Stricken

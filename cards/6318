@@ -1,46 +1,46 @@
-==================,DECK,6318,Medium
-0,Creature,Common,Paladin
-1,Enchantment,Common,Agony
-2,Creature,Common,Dwarf
-3,Artifact,Common,Shield
-4,Creature,Common,Spider
-5,Enchantment,Legendary,Extreme Haste
-6,Spell,Common,Wall
-7,Creature,Common,Dwarf
-8,Spell,Common,Lightning
-9,Creature,Legendary,Dark Undead Orge of the Eternal Land
-10,Creature,Common,Spider
-11,Spell,Common,Gale
-12,Creature,Common,Warlock
-13,Spell,Common,Vortex
-14,Creature,Common,Goblin
-15,Spell,Legendary,Angry Invisibility
-16,Enchantment,Rare,Nature Shrink
-17,Enchantment,Mythic,Urgent Agony
-18,Enchantment,Common,Deathgrip
-19,Creature,Rare,Aura Knight Minotaur
-20,Creature,Rare,Light Knight Skin-Walker
-21,Spell,Common,Burn
-22,Enchantment,Rare,Necro Drain
-23,Enchantment,Mythic,Extreme Shield
-24,Enchantment,Common,Flight
-25,Spell,Common,Stricken
-26,Creature,Mythic,Earth Time Dragon of the Shadows
-27,Spell,Common,Revive
-28,Creature,Rare,Light Fighter Hydra
-29,Enchantment,Rare,Lunar Drain
-30,Spell,Common,Pandemonium
-31,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-32,Enchantment,Mythic,Intense Deathgrip
-33,Enchantment,Legendary,Angry Lethargy
-34,Artifact,Common,Tome
-35,Creature,Legendary,Light Priest Orge of the Polar Woods
-36,Artifact,Legendary,Potent Pendant
-37,Creature,Common,Wolf
-38,Spell,Rare,Solar Assault
-39,Spell,Rare,Hateful Fury
-40,Creature,Common,Spider
-41,Spell,Legendary,Clever Stricken
-42,Creature,Common,Goblin
-43,Creature,Rare,Aura Lord Griffin
-44,Enchantment,Rare,Nature Deathgrip
+==================,DECK,6318
+0,Creature,Troll
+1,Enchantment,Invert
+2,Creature,Magi
+3,Artifact,Shield
+4,Creature,Paladin
+5,Enchantment,Mighty Miracle Flight
+6,Spell,Tempest
+7,Creature,Magi
+8,Spell,Gravitation
+9,Creature,Dark Undead Elf of the Eternal Land
+10,Creature,Paladin
+11,Spell,Frost
+12,Creature,Berserker
+13,Spell,Frenzy
+14,Creature,Skin-Walker
+15,Spell,Instant Gloom Gravitation
+16,Enchantment,Necro Age
+17,Enchantment,Dire Corpse Age
+18,Enchantment,Deathgrip
+19,Creature,Aura Knight Cyclops
+20,Creature,Light Knight Orc
+21,Spell,Stun
+22,Enchantment,Forged Age
+23,Enchantment,Irate Gloom Alacrity
+24,Enchantment,Alacrity
+25,Spell,Rage
+26,Creature,Earth Time Dragon of the Shadows
+27,Spell,Torment
+28,Creature,Light Fighter Hydra
+29,Enchantment,Dark Shield
+30,Spell,Fireball
+31,Creature,Earth Nameless Phoenix of the Shadows
+32,Enchantment,Clever Shimmering Lethargy
+33,Enchantment,Dire Lunar Firebreath
+34,Artifact,Tome
+35,Creature,Light Priest Elf of the Polar Woods
+36,Artifact,Irate Nimble Pendant
+37,Creature,Wolf
+38,Spell,Corpse Freeze
+39,Spell,Miracle Pandemonium
+40,Creature,Paladin
+41,Spell,Empyrean Victory Maelstrom
+42,Creature,Skin-Walker
+43,Creature,Aura Lord Griffin
+44,Enchantment,Shimmering Lethargy

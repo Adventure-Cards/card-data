@@ -1,46 +1,46 @@
-==================,DECK,7289,Medium
-0,Creature,Legendary,Aura King Cyclops of the Border
-1,Spell,Legendary,Potent Lightning
-2,Spell,Common,Torment
-3,Creature,Mythic,Earth Nameless Dragon of the Shadows
-4,Artifact,Common,Helm
-5,Creature,Legendary,Aura Rogue Cyclops of the Haven
-6,Artifact,Rare,Nimble Tome
-7,Spell,Common,Freeze
-8,Creature,Common,Warlock
-9,Creature,Common,Warlock
-10,Artifact,Common,Potion
-11,Creature,Common,Eagle
-12,Enchantment,Rare,Solar Alacrity
-13,Creature,Rare,Aura Knight Hydra
-14,Spell,Rare,Necro Hypnosis
-15,Creature,Mythic,Death Time Dragon of the Dead
-16,Artifact,Rare,Shimmering Sword
-17,Creature,Common,Paladin
-18,Spell,Common,Maelstrom
-19,Artifact,Rare,Frigid Sword
-20,Spell,Rare,Shimmering Ice
-21,Spell,Rare,Corpse Frenzy
-22,Spell,Rare,Gloom Torment
-23,Enchantment,Common,Deathgrip
-24,Creature,Mythic,Aura Grand Demon of the Light
-25,Creature,Common,Goblin
-26,Enchantment,Mythic,Potent Shield
-27,Enchantment,Common,Strength
-28,Artifact,Common,Belt
-29,Creature,Common,Spider
-30,Creature,Rare,Frozen Thief Hydra
-31,Enchantment,Common,Haste
-32,Creature,Rare,Death Lord Hydra
-33,Spell,Rare,Shimmering Ice
-34,Enchantment,Mythic,Potent Lethargy
-35,Creature,Common,Paladin
-36,Spell,Common,Burn
-37,Enchantment,Common,Lethargy
-38,Creature,Rare,Aura Assassin Skin-Walker
-39,Spell,Common,Stricken
-40,Creature,Common,Magi
-41,Creature,Common,Paladin
-42,Creature,Rare,Frozen Queen Minotaur
-43,Creature,Rare,Death Knight Fairy
-44,Enchantment,Mythic,Clever Shade
+==================,DECK,7289
+0,Creature,Aura King Giant of the Border
+1,Spell,Instant Frigid Heal
+2,Spell,Vortex
+3,Creature,Earth Nameless Dragon of the Shadows
+4,Artifact,Helm
+5,Creature,Aura Rogue Giant of the Haven
+6,Artifact,Nature Tome
+7,Spell,Torment
+8,Creature,Berserker
+9,Creature,Berserker
+10,Artifact,Potion
+11,Creature,Eagle
+12,Enchantment,Forged Age
+13,Creature,Aura Knight Hydra
+14,Spell,Shimmering Vortex
+15,Creature,Death Time Dragon of the Dead
+16,Artifact,Hateful Sword
+17,Creature,Troll
+18,Spell,Stricken
+19,Artifact,Frigid Sword
+20,Spell,Solar Fireball
+21,Spell,Hateful Lightning
+22,Spell,Chimeric Stun
+23,Enchantment,Firebreath
+24,Creature,Aura Grand Demon of the Light
+25,Creature,Skin-Walker
+26,Enchantment,Irate Victory Blight
+27,Enchantment,Agony
+28,Artifact,Belt
+29,Creature,Paladin
+30,Creature,Frozen Thief Hydra
+31,Enchantment,Age
+32,Creature,Death Lord Hydra
+33,Spell,Necro Fireball
+34,Enchantment,Irate Grim Blight
+35,Creature,Troll
+36,Spell,Fire
+37,Enchantment,Shade
+38,Creature,Aura Assassin Orc
+39,Spell,Invisibility
+40,Creature,Fairy
+41,Creature,Troll
+42,Creature,Frozen Queen Cyclops
+43,Creature,Death Knight Kraken
+44,Enchantment,Instant Frigid Drain

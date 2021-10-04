@@ -1,46 +1,46 @@
-==================,DECK,6074,Light
-0,Creature,Common,Magi
-1,Creature,Common,Warlock
-2,Creature,Mythic,Dark Nameless Dragon of Illusion
-3,Creature,Rare,Earth Priest Hydra
-4,Enchantment,Common,Shield
-5,Spell,Common,Freeze
-6,Creature,Legendary,Aura Assassin Giant of the Plains
-7,Enchantment,Common,Shade
-8,Spell,Common,Hypnosis
-9,Spell,Common,Rage
-10,Artifact,Rare,Frigid Tome
-11,Spell,Common,Wall
-12,Spell,Common,Frost
-13,Artifact,Common,Scepter
-14,Spell,Legendary,Intense Reanimate
-15,Creature,Common,Magi
-16,Artifact,Common,Crown
-17,Spell,Common,Sorrow
-18,Enchantment,Common,Drain
-19,Creature,Legendary,Light Priest Oni of the Frozen Castle
-20,Enchantment,Common,Shrink
-21,Enchantment,Common,Blight
-22,Enchantment,Common,Age
-23,Spell,Common,Heal
-24,Enchantment,Common,Invert
-25,Enchantment,Common,Agony
-26,Enchantment,Rare,Oblivion Strength
-27,Creature,Common,Eagle
-28,Spell,Common,Invisibility
-29,Creature,Common,Wolf
-30,Artifact,Common,Tome
-31,Creature,Common,Elf
-32,Enchantment,Common,Invert
-33,Spell,Common,Sorrow
-34,Enchantment,Common,Agony
-35,Creature,Common,Magi
-36,Enchantment,Common,Age
-37,Creature,Common,Wolf
-38,Creature,Common,Elf
-39,Enchantment,Legendary,Extreme Haste
-40,Spell,Legendary,Angry Invisibility
-41,Enchantment,Common,Invert
-42,Spell,Common,Ice
-43,Creature,Common,Ghoul
-44,Artifact,Common,Gauntlet
+==================,DECK,6074
+0,Creature,Fairy
+1,Creature,Berserker
+2,Creature,Dark Nameless Dragon of Illusion
+3,Creature,Earth Priest Hydra
+4,Enchantment,Drain
+5,Spell,Infuriate
+6,Creature,Aura Assassin Dwarf of the Plains
+7,Enchantment,Strength
+8,Spell,Wall
+9,Spell,Frenzy
+10,Artifact,Grim Tome
+11,Spell,Rage
+12,Spell,Gravitation
+13,Artifact,Scepter
+14,Spell,Clever Shimmering Tempest
+15,Creature,Fairy
+16,Artifact,Crown
+17,Spell,Gale
+18,Enchantment,Strength
+19,Creature,Light Priest Oni of the Frozen Castle
+20,Enchantment,Strength
+21,Enchantment,Haste
+22,Enchantment,Drain
+23,Spell,Stricken
+24,Enchantment,Deathgrip
+25,Enchantment,Deathgrip
+26,Enchantment,Nimble Blight
+27,Creature,Eagle
+28,Spell,Fireball
+29,Creature,Wolf
+30,Artifact,Tome
+31,Creature,Warlock
+32,Enchantment,Lethargy
+33,Spell,Stun
+34,Enchantment,Shade
+35,Creature,Fairy
+36,Enchantment,Shrink
+37,Creature,Wolf
+38,Creature,Warlock
+39,Enchantment,Empyrean Miracle Firebreath
+40,Spell,Ardent Miracle Assault
+41,Enchantment,Agony
+42,Spell,Frost
+43,Creature,Ghoul
+44,Artifact,Gauntlet

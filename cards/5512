@@ -1,46 +1,46 @@
-==================,DECK,5512,Light
-0,Enchantment,Common,Drain
-1,Creature,Rare,Earth King Minotaur
-2,Enchantment,Common,Lethargy
-3,Creature,Common,Spider
-4,Creature,Rare,Frozen Monk Minotaur
-5,Spell,Rare,Frigid Lightning
-6,Enchantment,Common,Lethargy
-7,Enchantment,Mythic,Clever Shade
-8,Creature,Common,Ghoul
-9,Creature,Common,Goblin
-10,Creature,Rare,Earth Rogue Griffin
-11,Creature,Rare,Earth King Minotaur
-12,Enchantment,Common,Alacrity
-13,Enchantment,Rare,Dark Lethargy
-14,Artifact,Common,Pendant
-15,Creature,Common,Eagle
-16,Creature,Rare,Frozen Rogue Fairy
-17,Enchantment,Mythic,Intense Lethargy
-18,Enchantment,Rare,Gloom Agony
-19,Creature,Rare,Aura Merchant Fairy
-20,Spell,Common,Ice
-21,Creature,Legendary,Aura Merchant Oni of the Swamp
-22,Enchantment,Common,Shrink
-23,Creature,Common,Eagle
-24,Spell,Common,Stun
-25,Spell,Common,Sorrow
-26,Creature,Mythic,Earth Ancient Demon of the Shadows
-27,Enchantment,Legendary,Urgent Shield
-28,Spell,Common,Freeze
-29,Creature,Rare,Frozen Fighter Fairy
-30,Creature,Legendary,Frozen Warrior Orge of the Black Stone
-31,Spell,Common,Frost
-32,Creature,Common,Eagle
-33,Spell,Common,Frost
-34,Enchantment,Mythic,Urgent Shrink
-35,Spell,Common,Revive
-36,Creature,Common,Paladin
-37,Creature,Common,Warlock
-38,Creature,Common,Goblin
-39,Creature,Common,Orc
-40,Enchantment,Mythic,Dire Lethargy
-41,Creature,Common,Magi
-42,Creature,Mythic,Death Grand Demon of the Dead
-43,Creature,Common,Magi
-44,Enchantment,Common,Blight
+==================,DECK,5512
+0,Enchantment,Lethargy
+1,Creature,Earth King Cyclops
+2,Enchantment,Firebreath
+3,Creature,Paladin
+4,Creature,Frozen Monk Cyclops
+5,Spell,Frigid Burn
+6,Enchantment,Drain
+7,Enchantment,Ardent Frigid Haste
+8,Creature,Ghoul
+9,Creature,Skin-Walker
+10,Creature,Earth Rogue Griffin
+11,Creature,Earth King Cyclops
+12,Enchantment,Flight
+13,Enchantment,Lunar Flight
+14,Artifact,Pendant
+15,Creature,Eagle
+16,Creature,Frozen Rogue Kraken
+17,Enchantment,Urgent Hateful Agony
+18,Enchantment,Miracle Flight
+19,Creature,Aura Merchant Kraken
+20,Spell,Gale
+21,Creature,Aura Merchant Oni of the Swamp
+22,Enchantment,Invert
+23,Creature,Eagle
+24,Spell,Stricken
+25,Spell,Wall
+26,Creature,Earth Ancient Demon of the Shadows
+27,Enchantment,Ardent Nature Lethargy
+28,Spell,Pandemonium
+29,Creature,Frozen Fighter Kraken
+30,Creature,Frozen Warrior Elf of the Black Stone
+31,Spell,Gravitation
+32,Creature,Eagle
+33,Spell,Pandemonium
+34,Enchantment,Zealous Necro Deathgrip
+35,Spell,Maelstrom
+36,Creature,Troll
+37,Creature,Berserker
+38,Creature,Skin-Walker
+39,Creature,Spider
+40,Enchantment,Ardent Grim Haste
+41,Creature,Fairy
+42,Creature,Death Grand Demon of the Dead
+43,Creature,Fairy
+44,Enchantment,Deathgrip

@@ -1,46 +1,46 @@
-==================,DECK,7762,Strong
-0,Creature,Common,Magi
-1,Spell,Rare,Apocalypse Gale
-2,Spell,Common,Gale
-3,Creature,Rare,Snow Rogue Minotaur
-4,Spell,Rare,Oblivion Vortex
-5,Artifact,Common,Scythe
-6,Spell,Mythic,Urgent Burn
-7,Creature,Legendary,Frozen King Cyclops of the Frozen Castle
-8,Creature,Common,Paladin
-9,Creature,Common,Paladin
-10,Enchantment,Common,Drain
-11,Creature,Legendary,Death Queen Oni of the Golden Palace
-12,Spell,Common,Maelstrom
-13,Enchantment,Common,Deathgrip
-14,Artifact,Common,Tome
-15,Creature,Common,Ghoul
-16,Creature,Common,Orc
-17,Creature,Common,Warlock
-18,Artifact,Common,Tome
-19,Creature,Common,Goblin
-20,Enchantment,Legendary,Intense Alacrity
-21,Creature,Common,Dwarf
-22,Spell,Legendary,Instant Frost
-23,Spell,Rare,Apocalypse Maelstrom
-24,Enchantment,Rare,Shimmering Age
-25,Creature,Common,Ghoul
-26,Enchantment,Legendary,Instant Lethargy
-27,Spell,Mythic,Potent Stricken
-28,Creature,Rare,Light Assassin Fairy
-29,Enchantment,Rare,Gloom Agony
-30,Spell,Common,Gale
-31,Spell,Legendary,Intense Infuriate
-32,Creature,Common,Eagle
-33,Spell,Common,Frenzy
-34,Creature,Common,Elf
-35,Creature,Common,Spider
-36,Creature,Rare,Frozen Monk Minotaur
-37,Creature,Common,Warlock
-38,Enchantment,Legendary,Mighty Shield
-39,Spell,Common,Rage
-40,Creature,Common,Wolf
-41,Enchantment,Rare,Grim Shade
-42,Spell,Rare,Miracle Sorrow
-43,Enchantment,Rare,Miracle Haste
-44,Enchantment,Common,Deathgrip
+==================,DECK,7762
+0,Creature,Fairy
+1,Spell,Frigid Gravitation
+2,Spell,Burst
+3,Creature,Snow Rogue Cyclops
+4,Spell,Nimble Burst
+5,Artifact,Scythe
+6,Spell,Empyrean Forged Maelstrom
+7,Creature,Frozen King Giant of the Frozen Castle
+8,Creature,Troll
+9,Creature,Troll
+10,Enchantment,Shrink
+11,Creature,Death Queen Oni of the Golden Palace
+12,Spell,Fury
+13,Enchantment,Deathgrip
+14,Artifact,Tome
+15,Creature,Ghoul
+16,Creature,Spider
+17,Creature,Berserker
+18,Artifact,Tome
+19,Creature,Skin-Walker
+20,Enchantment,Urgent Forged Agony
+21,Creature,Magi
+22,Spell,Ardent Solar Gale
+23,Spell,Life Gravitation
+24,Enchantment,Nature Age
+25,Creature,Ghoul
+26,Enchantment,Ardent Hateful Lethargy
+27,Spell,Clever Life Gravitation
+28,Creature,Light Assassin Kraken
+29,Enchantment,Miracle Alacrity
+30,Spell,Revive
+31,Spell,Clever Necro Invisibility
+32,Creature,Eagle
+33,Spell,Invisibility
+34,Creature,Warlock
+35,Creature,Paladin
+36,Creature,Frozen Monk Cyclops
+37,Creature,Berserker
+38,Enchantment,Ardent Gloom Shield
+39,Spell,Stricken
+40,Creature,Wolf
+41,Enchantment,Frigid Haste
+42,Spell,Apocalypse Stricken
+43,Enchantment,Life Blight
+44,Enchantment,Age

@@ -1,46 +1,46 @@
-==================,DECK,7880,Medium
-0,Spell,Common,Lightning
-1,Creature,Common,Ghoul
-2,Creature,Common,Wolf
-3,Creature,Rare,Frozen Thief Skin-Walker
-4,Creature,Common,Warlock
-5,Creature,Common,Eagle
-6,Artifact,Common,Bracers
-7,Creature,Common,Wolf
-8,Creature,Rare,Death Rogue Hydra
-9,Spell,Common,Frost
-10,Creature,Common,Wolf
-11,Creature,Common,Elf
-12,Enchantment,Common,Shield
-13,Creature,Rare,Dark Undead Fairy
-14,Creature,Rare,Aura Thief Fairy
-15,Creature,Common,Goblin
-16,Enchantment,Common,Blight
-17,Creature,Common,Goblin
-18,Spell,Mythic,Dire Reanimate
-19,Creature,Common,Wolf
-20,Enchantment,Common,Shade
-21,Spell,Rare,Shimmering Sorrow
-22,Spell,Common,Ice
-23,Enchantment,Legendary,Extreme Invert
-24,Artifact,Rare,Nimble Pendant
-25,Spell,Common,Maelstrom
-26,Artifact,Common,Staff
-27,Creature,Common,Elf
-28,Spell,Rare,Lunar Fury
-29,Creature,Common,Paladin
-30,Artifact,Rare,Nature Ring
-31,Enchantment,Common,Blight
-32,Creature,Legendary,Frozen Thief Oni of the Frozen Castle
-33,Creature,Rare,Snow Rogue Hydra
-34,Spell,Common,Frenzy
-35,Creature,Legendary,Dark Knight Kraken of the Polar Woods
-36,Creature,Common,Goblin
-37,Creature,Legendary,Frozen Assassin Kraken of the Bright Mountains
-38,Artifact,Common,Bow
-39,Creature,Mythic,Snow Ancient Wizard of Hate
-40,Creature,Rare,Snow Priest Griffin
-41,Spell,Common,Sorrow
-42,Creature,Common,Ghoul
-43,Creature,Common,Elf
-44,Creature,Common,Ghoul
+==================,DECK,7880
+0,Spell,Wall
+1,Creature,Ghoul
+2,Creature,Wolf
+3,Creature,Frozen Thief Orc
+4,Creature,Berserker
+5,Creature,Eagle
+6,Artifact,Bracers
+7,Creature,Wolf
+8,Creature,Death Rogue Hydra
+9,Spell,Stun
+10,Creature,Wolf
+11,Creature,Warlock
+12,Enchantment,Flight
+13,Creature,Dark Undead Kraken
+14,Creature,Aura Thief Kraken
+15,Creature,Skin-Walker
+16,Enchantment,Shade
+17,Creature,Skin-Walker
+18,Spell,Empyrean Grim Freeze
+19,Creature,Wolf
+20,Enchantment,Age
+21,Spell,Shimmering Reanimate
+22,Spell,Maelstrom
+23,Enchantment,Ardent Sorrow Shield
+24,Artifact,Nature Pendant
+25,Spell,Stricken
+26,Artifact,Staff
+27,Creature,Warlock
+28,Spell,Sorrow Fury
+29,Creature,Troll
+30,Artifact,Solar Ring
+31,Enchantment,Alacrity
+32,Creature,Frozen Thief Oni of the Frozen Castle
+33,Creature,Snow Rogue Hydra
+34,Spell,Tempest
+35,Creature,Dark Knight Ogre of the Polar Woods
+36,Creature,Skin-Walker
+37,Creature,Frozen Assassin Ogre of the Bright Mountains
+38,Artifact,Bow
+39,Creature,Snow Ancient Wizard of Hate
+40,Creature,Snow Priest Griffin
+41,Spell,Infuriate
+42,Creature,Ghoul
+43,Creature,Warlock
+44,Creature,Ghoul

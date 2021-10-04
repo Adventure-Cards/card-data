@@ -1,46 +1,46 @@
-==================,DECK,7395,Medium
-0,Creature,Rare,Light Monk Fairy
-1,Artifact,Rare,Frigid Ring
-2,Spell,Rare,Shimmering Stricken
-3,Creature,Rare,Light Merchant Skin-Walker
-4,Creature,Common,Warlock
-5,Spell,Rare,Dark Heal
-6,Enchantment,Mythic,Extreme Lethargy
-7,Enchantment,Common,Flight
-8,Spell,Rare,Lunar Sorrow
-9,Creature,Common,Warlock
-10,Enchantment,Mythic,Mighty Shield
-11,Enchantment,Common,Shade
-12,Creature,Common,Goblin
-13,Creature,Legendary,Earth Knight Kraken of the Eternal Land
-14,Creature,Rare,Light Rogue Skin-Walker
-15,Creature,Common,Warlock
-16,Enchantment,Common,Lethargy
-17,Creature,Legendary,Death Knight Oni of the Low Hills
-18,Creature,Legendary,Frozen Monk Kraken of the Frozen Castle
-19,Spell,Rare,Grim Lightning
-20,Creature,Common,Elf
-21,Creature,Common,Ghoul
-22,Creature,Legendary,Earth Priest Cyclops of the Swamp
-23,Artifact,Common,Cloak
-24,Enchantment,Common,Strength
-25,Creature,Legendary,Snow Rogue Oni of the Polar Woods
-26,Creature,Common,Spider
-27,Creature,Legendary,Snow King Cyclops of the Eternal Land
-28,Enchantment,Common,Shrink
-29,Creature,Common,Magi
-30,Spell,Common,Infuriate
-31,Creature,Common,Orc
-32,Spell,Mythic,Dire Freeze
-33,Enchantment,Common,Shield
-34,Enchantment,Mythic,Dire Deathgrip
-35,Creature,Common,Eagle
-36,Spell,Mythic,Urgent Assault
-37,Creature,Common,Magi
-38,Enchantment,Rare,Necro Shrink
-39,Artifact,Common,Helm
-40,Creature,Common,Ghoul
-41,Spell,Common,Lightning
-42,Spell,Rare,Cataclysmic Maelstrom
-43,Artifact,Common,Cloak
-44,Creature,Common,Ghoul
+==================,DECK,7395
+0,Creature,Light Monk Kraken
+1,Artifact,Victory Ring
+2,Spell,Forged Rage
+3,Creature,Light Merchant Orc
+4,Creature,Berserker
+5,Spell,Sorrow Gale
+6,Enchantment,Dire Lunar Firebreath
+7,Enchantment,Invert
+8,Spell,Miracle Invisibility
+9,Creature,Berserker
+10,Enchantment,Ardent Gloom Shield
+11,Enchantment,Invert
+12,Creature,Skin-Walker
+13,Creature,Earth Knight Ogre of the Eternal Land
+14,Creature,Light Rogue Orc
+15,Creature,Berserker
+16,Enchantment,Age
+17,Creature,Death Knight Oni of the Low Hills
+18,Creature,Frozen Monk Ogre of the Frozen Castle
+19,Spell,Oblivion Freeze
+20,Creature,Warlock
+21,Creature,Ghoul
+22,Creature,Earth Priest Giant of the Swamp
+23,Artifact,Cloak
+24,Enchantment,Shade
+25,Creature,Snow Rogue Oni of the Polar Woods
+26,Creature,Paladin
+27,Creature,Snow King Giant of the Eternal Land
+28,Enchantment,Shrink
+29,Creature,Fairy
+30,Spell,Gravitation
+31,Creature,Spider
+32,Spell,Urgent Life Heal
+33,Enchantment,Lethargy
+34,Enchantment,Zealous Oblivion Blight
+35,Creature,Eagle
+36,Spell,Urgent Necro Infuriate
+37,Creature,Fairy
+38,Enchantment,Necro Agony
+39,Artifact,Helm
+40,Creature,Ghoul
+41,Spell,Wall
+42,Spell,Gloom Frenzy
+43,Artifact,Cloak
+44,Creature,Ghoul

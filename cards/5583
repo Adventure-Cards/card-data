@@ -1,46 +1,46 @@
-==================,DECK,5583,Light
-0,Creature,Common,Dwarf
-1,Spell,Common,Rage
-2,Creature,Rare,Snow Assassin Hydra
-3,Artifact,Rare,Miracle Sword
-4,Creature,Common,Elf
-5,Creature,Rare,Death Priest Berserker
-6,Creature,Common,Magi
-7,Creature,Rare,Snow Priest Skin-Walker
-8,Creature,Common,Magi
-9,Enchantment,Common,Lethargy
-10,Spell,Common,Reanimate
-11,Creature,Common,Goblin
-12,Creature,Common,Wolf
-13,Creature,Common,Warlock
-14,Artifact,Rare,Frigid Potion
-15,Creature,Common,Ghoul
-16,Spell,Common,Frost
-17,Spell,Common,Stun
-18,Spell,Rare,Hateful Maelstrom
-19,Artifact,Common,Sigil
-20,Creature,Rare,Death Priest Berserker
-21,Creature,Common,Magi
-22,Creature,Common,Paladin
-23,Creature,Legendary,Dark Warrior Kraken of the Haven
-24,Enchantment,Common,Blight
-25,Creature,Common,Paladin
-26,Artifact,Rare,Corpse Boots
-27,Artifact,Common,Helm
-28,Artifact,Rare,Oblivion Boots
-29,Creature,Common,Orc
-30,Spell,Common,Wall
-31,Enchantment,Common,Shrink
-32,Artifact,Common,Helm
-33,Enchantment,Common,Drain
-34,Creature,Common,Wolf
-35,Enchantment,Rare,Necro Blight
-36,Creature,Legendary,Dark Warrior Oni of the Swamp
-37,Creature,Common,Goblin
-38,Enchantment,Common,Shield
-39,Enchantment,Common,Flight
-40,Creature,Rare,Dark Warrior Skin-Walker
-41,Spell,Common,Pandemonium
-42,Creature,Common,Paladin
-43,Enchantment,Common,Blight
-44,Artifact,Rare,Dark Cloak
+==================,DECK,5583
+0,Creature,Magi
+1,Spell,Freeze
+2,Creature,Snow Assassin Hydra
+3,Artifact,Nimble Sword
+4,Creature,Warlock
+5,Creature,Death Priest Goblin
+6,Creature,Fairy
+7,Creature,Snow Priest Orc
+8,Creature,Fairy
+9,Enchantment,Drain
+10,Spell,Burst
+11,Creature,Skin-Walker
+12,Creature,Wolf
+13,Creature,Berserker
+14,Artifact,Oblivion Potion
+15,Creature,Ghoul
+16,Spell,Frenzy
+17,Spell,Revive
+18,Spell,Lunar Hypnosis
+19,Artifact,Sigil
+20,Creature,Death Priest Goblin
+21,Creature,Fairy
+22,Creature,Troll
+23,Creature,Dark Warrior Ogre of the Haven
+24,Enchantment,Alacrity
+25,Creature,Troll
+26,Artifact,Necro Boots
+27,Artifact,Helm
+28,Artifact,Grim Boots
+29,Creature,Spider
+30,Spell,Sorrow
+31,Enchantment,Shield
+32,Artifact,Helm
+33,Enchantment,Firebreath
+34,Creature,Wolf
+35,Enchantment,Solar Lethargy
+36,Creature,Dark Warrior Oni of the Swamp
+37,Creature,Skin-Walker
+38,Enchantment,Agony
+39,Enchantment,Alacrity
+40,Creature,Dark Warrior Orc
+41,Spell,Assault
+42,Creature,Troll
+43,Enchantment,Shrink
+44,Artifact,Chimeric Cloak

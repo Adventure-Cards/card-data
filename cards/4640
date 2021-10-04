@@ -1,46 +1,46 @@
-==================,DECK,4640,Light
-0,Artifact,Common,Crown
-1,Spell,Legendary,Mighty Stricken
-2,Creature,Common,Eagle
-3,Creature,Rare,Earth Monk Berserker
-4,Creature,Common,Eagle
-5,Artifact,Legendary,Angry Boots
-6,Creature,Common,Goblin
-7,Creature,Rare,Dark Fighter Hydra
-8,Enchantment,Common,Lethargy
-9,Creature,Legendary,Frozen Knight Kraken of the Mountains
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Creature,Common,Spider
-13,Creature,Common,Dwarf
-14,Creature,Common,Magi
-15,Creature,Common,Warlock
-16,Artifact,Common,Crown
-17,Enchantment,Common,Drain
-18,Creature,Common,Magi
-19,Spell,Common,Sorrow
-20,Spell,Rare,Oblivion Invisibility
-21,Creature,Common,Wolf
-22,Creature,Common,Goblin
-23,Artifact,Common,Belt
-24,Creature,Common,Spider
-25,Creature,Rare,Light Queen Hydra
-26,Spell,Common,Freeze
-27,Creature,Legendary,Snow Thief Orge of the Black Stone
-28,Spell,Common,Gale
-29,Creature,Legendary,Death Fighter Cyclops of the Plains
-30,Creature,Common,Goblin
-31,Spell,Common,Hypnosis
-32,Creature,Mythic,Snow Grand Demon of Hate
-33,Enchantment,Mythic,Urgent Age
-34,Enchantment,Common,Age
-35,Creature,Common,Dwarf
-36,Spell,Common,Burst
-37,Creature,Common,Magi
-38,Creature,Legendary,Snow Thief Oni of the Black Stone
-39,Enchantment,Common,Invert
-40,Artifact,Common,Crown
-41,Spell,Rare,Miracle Pandemonium
-42,Artifact,Common,Potion
-43,Creature,Common,Ghoul
-44,Creature,Common,Paladin
+==================,DECK,4640
+0,Artifact,Crown
+1,Spell,Clever Dark Assault
+2,Creature,Eagle
+3,Creature,Earth Monk Goblin
+4,Creature,Eagle
+5,Artifact,Ardent Dark Boots
+6,Creature,Skin-Walker
+7,Creature,Dark Fighter Hydra
+8,Enchantment,Firebreath
+9,Creature,Frozen Knight Ogre of the Mountains
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Creature,Paladin
+13,Creature,Magi
+14,Creature,Fairy
+15,Creature,Berserker
+16,Artifact,Crown
+17,Enchantment,Deathgrip
+18,Creature,Fairy
+19,Spell,Sorrow
+20,Spell,Victory Reanimate
+21,Creature,Wolf
+22,Creature,Skin-Walker
+23,Artifact,Belt
+24,Creature,Paladin
+25,Creature,Light Queen Hydra
+26,Spell,Frost
+27,Creature,Snow Thief Elf of the Black Stone
+28,Spell,Gravitation
+29,Creature,Death Fighter Giant of the Plains
+30,Creature,Skin-Walker
+31,Spell,Tempest
+32,Creature,Snow Grand Demon of Hate
+33,Enchantment,Empyrean Nature Age
+34,Enchantment,Shade
+35,Creature,Magi
+36,Spell,Lightning
+37,Creature,Fairy
+38,Creature,Snow Thief Oni of the Black Stone
+39,Enchantment,Firebreath
+40,Artifact,Crown
+41,Spell,Oblivion Reanimate
+42,Artifact,Potion
+43,Creature,Ghoul
+44,Creature,Troll

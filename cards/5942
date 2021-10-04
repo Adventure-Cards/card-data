@@ -1,46 +1,46 @@
-==================,DECK,5942,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Orc
-2,Artifact,Common,Bow
-3,Artifact,Common,Helm
-4,Creature,Common,Eagle
-5,Enchantment,Common,Shade
-6,Enchantment,Common,Flight
-7,Creature,Common,Paladin
-8,Creature,Common,Spider
-9,Creature,Common,Orc
-10,Creature,Common,Elf
-11,Creature,Common,Spider
-12,Creature,Common,Dwarf
-13,Creature,Common,Warlock
-14,Creature,Rare,Earth Thief Berserker
-15,Creature,Common,Elf
-16,Enchantment,Common,Alacrity
-17,Enchantment,Rare,Nature Drain
-18,Creature,Common,Eagle
-19,Spell,Rare,Frigid Freeze
-20,Creature,Rare,Aura Undead Fairy
-21,Creature,Rare,Snow Warrior Skin-Walker
-22,Artifact,Common,Ring
-23,Artifact,Common,Boots
-24,Spell,Rare,Oblivion Revive
-25,Creature,Common,Warlock
-26,Spell,Common,Assault
-27,Creature,Common,Paladin
-28,Creature,Common,Wolf
-29,Creature,Common,Goblin
-30,Creature,Common,Paladin
-31,Artifact,Common,Ring
-32,Spell,Legendary,Angry Revive
-33,Creature,Common,Spider
-34,Enchantment,Mythic,Potent Shade
-35,Creature,Mythic,Frozen Chaos Demon of the Void
-36,Enchantment,Rare,Miracle Age
-37,Spell,Common,Assault
-38,Creature,Common,Wolf
-39,Artifact,Rare,Hateful Gloves
-40,Enchantment,Common,Age
-41,Creature,Rare,Earth Thief Fairy
-42,Creature,Rare,Light Monk Minotaur
-43,Enchantment,Common,Lethargy
-44,Artifact,Common,Sigil
+==================,DECK,5942
+0,Creature,Eagle
+1,Creature,Spider
+2,Artifact,Bow
+3,Artifact,Helm
+4,Creature,Eagle
+5,Enchantment,Age
+6,Enchantment,Firebreath
+7,Creature,Troll
+8,Creature,Paladin
+9,Creature,Spider
+10,Creature,Warlock
+11,Creature,Paladin
+12,Creature,Magi
+13,Creature,Berserker
+14,Creature,Earth Thief Goblin
+15,Creature,Warlock
+16,Enchantment,Invert
+17,Enchantment,Forged Agony
+18,Creature,Eagle
+19,Spell,Grim Ice
+20,Creature,Aura Undead Kraken
+21,Creature,Snow Warrior Orc
+22,Artifact,Ring
+23,Artifact,Boots
+24,Spell,Frigid Stricken
+25,Creature,Berserker
+26,Spell,Fire
+27,Creature,Troll
+28,Creature,Wolf
+29,Creature,Skin-Walker
+30,Creature,Troll
+31,Artifact,Ring
+32,Spell,Dire Sorrow Maelstrom
+33,Creature,Paladin
+34,Enchantment,Dire Frigid Shade
+35,Creature,Frozen Chaos Demon of the Void
+36,Enchantment,Victory Haste
+37,Spell,Frost
+38,Creature,Wolf
+39,Artifact,Sorrow Gloves
+40,Enchantment,Blight
+41,Creature,Earth Thief Kraken
+42,Creature,Light Monk Cyclops
+43,Enchantment,Shrink
+44,Artifact,Sigil

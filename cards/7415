@@ -1,46 +1,46 @@
-==================,DECK,7415,Light
-0,Creature,Common,Eagle
-1,Creature,Common,Elf
-2,Creature,Common,Magi
-3,Creature,Common,Warlock
-4,Enchantment,Rare,Grim Strength
-5,Spell,Rare,Nimble Invisibility
-6,Creature,Common,Orc
-7,Creature,Common,Spider
-8,Creature,Common,Elf
-9,Creature,Common,Elf
-10,Spell,Common,Gale
-11,Creature,Common,Elf
-12,Creature,Common,Warlock
-13,Creature,Common,Ghoul
-14,Spell,Rare,Lunar Burn
-15,Creature,Common,Elf
-16,Creature,Common,Eagle
-17,Creature,Common,Elf
-18,Spell,Common,Fury
-19,Creature,Common,Spider
-20,Artifact,Legendary,Angry Ring
-21,Creature,Rare,Dark Undead Skin-Walker
-22,Enchantment,Common,Age
-23,Creature,Common,Warlock
-24,Enchantment,Common,Age
-25,Enchantment,Common,Haste
-26,Spell,Common,Revive
-27,Creature,Rare,Light Lord Skin-Walker
-28,Spell,Rare,Grim Freeze
-29,Spell,Rare,Necro Burst
-30,Spell,Legendary,Potent Stun
-31,Spell,Common,Freeze
-32,Creature,Common,Spider
-33,Artifact,Common,Greaves
-34,Spell,Rare,Dark Lightning
-35,Creature,Common,Goblin
-36,Creature,Legendary,Dark Fighter Orge of the Arctic Blizzards
-37,Creature,Common,Elf
-38,Artifact,Rare,Cataclysmic Potion
-39,Spell,Rare,Nimble Frenzy
-40,Creature,Common,Paladin
-41,Enchantment,Common,Strength
-42,Creature,Common,Spider
-43,Creature,Common,Goblin
-44,Spell,Common,Lightning
+==================,DECK,7415
+0,Creature,Eagle
+1,Creature,Warlock
+2,Creature,Fairy
+3,Creature,Berserker
+4,Enchantment,Nimble Invert
+5,Spell,Solar Pandemonium
+6,Creature,Spider
+7,Creature,Paladin
+8,Creature,Warlock
+9,Creature,Warlock
+10,Spell,Ice
+11,Creature,Warlock
+12,Creature,Berserker
+13,Creature,Ghoul
+14,Spell,Chimeric Stun
+15,Creature,Warlock
+16,Creature,Eagle
+17,Creature,Warlock
+18,Spell,Assault
+19,Creature,Paladin
+20,Artifact,Potent Gloom Ring
+21,Creature,Dark Undead Orc
+22,Enchantment,Shade
+23,Creature,Berserker
+24,Enchantment,Invert
+25,Enchantment,Alacrity
+26,Spell,Torment
+27,Creature,Light Lord Orc
+28,Spell,Grim Revive
+29,Spell,Solar Torment
+30,Spell,Clever Frigid Hypnosis
+31,Spell,Fury
+32,Creature,Paladin
+33,Artifact,Greaves
+34,Spell,Sorrow Rage
+35,Creature,Skin-Walker
+36,Creature,Dark Fighter Elf of the Arctic Blizzards
+37,Creature,Warlock
+38,Artifact,Miracle Potion
+39,Spell,Solar Gravitation
+40,Creature,Troll
+41,Enchantment,Firebreath
+42,Creature,Paladin
+43,Creature,Skin-Walker
+44,Spell,Vortex

@@ -1,46 +1,46 @@
-==================,DECK,4257,Medium
-0,Creature,Common,Dwarf
-1,Creature,Rare,Earth Merchant Fairy
-2,Creature,Common,Warlock
-3,Artifact,Rare,Hateful Gauntlet
-4,Spell,Rare,Life Hypnosis
-5,Enchantment,Common,Alacrity
-6,Spell,Common,Rage
-7,Spell,Common,Stricken
-8,Creature,Legendary,Dark Priest Cyclops of the Haven
-9,Creature,Common,Eagle
-10,Creature,Common,Paladin
-11,Creature,Common,Elf
-12,Enchantment,Common,Lethargy
-13,Artifact,Common,Sigil
-14,Creature,Common,Paladin
-15,Creature,Legendary,Aura Warrior Cyclops of the Magical Forest
-16,Creature,Common,Dwarf
-17,Creature,Rare,Aura Assassin Minotaur
-18,Spell,Common,Heal
-19,Enchantment,Common,Blight
-20,Creature,Common,Orc
-21,Creature,Common,Orc
-22,Creature,Rare,Aura Rogue Berserker
-23,Spell,Rare,Solar Heal
-24,Creature,Common,Orc
-25,Creature,Mythic,Frozen Undead Dragon of the Void
-26,Spell,Legendary,Urgent Stun
-27,Artifact,Common,Shield
-28,Creature,Rare,Earth Thief Berserker
-29,Spell,Common,Hypnosis
-30,Creature,Common,Orc
-31,Spell,Common,Invisibility
-32,Creature,Common,Ghoul
-33,Creature,Common,Elf
-34,Enchantment,Legendary,Intense Drain
-35,Creature,Common,Spider
-36,Creature,Rare,Earth Thief Griffin
-37,Enchantment,Legendary,Instant Shade
-38,Spell,Legendary,Mighty Wall
-39,Creature,Common,Wolf
-40,Spell,Common,Rage
-41,Spell,Rare,Corpse Torment
-42,Creature,Rare,Earth Queen Fairy
-43,Enchantment,Common,Shield
-44,Creature,Common,Elf
+==================,DECK,4257
+0,Creature,Magi
+1,Creature,Earth Merchant Kraken
+2,Creature,Berserker
+3,Artifact,Sorrow Gauntlet
+4,Spell,Frigid Infuriate
+5,Enchantment,Strength
+6,Spell,Ice
+7,Spell,Infuriate
+8,Creature,Dark Priest Giant of the Haven
+9,Creature,Eagle
+10,Creature,Troll
+11,Creature,Warlock
+12,Enchantment,Shade
+13,Artifact,Sigil
+14,Creature,Troll
+15,Creature,Aura Warrior Giant of the Magical Forest
+16,Creature,Magi
+17,Creature,Aura Assassin Cyclops
+18,Spell,Stun
+19,Enchantment,Strength
+20,Creature,Spider
+21,Creature,Spider
+22,Creature,Aura Rogue Goblin
+23,Spell,Shimmering Torment
+24,Creature,Spider
+25,Creature,Frozen Undead Dragon of the Void
+26,Spell,Potent Corpse Revive
+27,Artifact,Shield
+28,Creature,Earth Thief Goblin
+29,Spell,Frost
+30,Creature,Spider
+31,Spell,Stricken
+32,Creature,Ghoul
+33,Creature,Warlock
+34,Enchantment,Mighty Forged Agony
+35,Creature,Paladin
+36,Creature,Earth Thief Griffin
+37,Enchantment,Ardent Necro Lethargy
+38,Spell,Irate Miracle Fury
+39,Creature,Wolf
+40,Spell,Hypnosis
+41,Spell,Necro Assault
+42,Creature,Earth Queen Kraken
+43,Enchantment,Invert
+44,Creature,Warlock

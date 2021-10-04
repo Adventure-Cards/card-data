@@ -1,46 +1,46 @@
-==================,DECK,6704,Light
-0,Spell,Legendary,Clever Heal
-1,Creature,Rare,Frozen Knight Griffin
-2,Enchantment,Rare,Dark Alacrity
-3,Creature,Common,Elf
-4,Spell,Common,Frost
-5,Artifact,Common,Scythe
-6,Creature,Rare,Light Queen Minotaur
-7,Spell,Common,Assault
-8,Creature,Common,Magi
-9,Artifact,Common,Scepter
-10,Enchantment,Common,Haste
-11,Creature,Common,Warlock
-12,Spell,Legendary,Extreme Freeze
-13,Spell,Common,Lightning
-14,Enchantment,Common,Alacrity
-15,Artifact,Common,Gauntlet
-16,Artifact,Common,Sword
-17,Creature,Common,Elf
-18,Spell,Common,Stricken
-19,Creature,Common,Elf
-20,Enchantment,Common,Flight
-21,Creature,Common,Orc
-22,Creature,Common,Paladin
-23,Creature,Rare,Dark Queen Minotaur
-24,Creature,Common,Elf
-25,Creature,Common,Goblin
-26,Enchantment,Common,Flight
-27,Creature,Common,Ghoul
-28,Creature,Common,Wolf
-29,Enchantment,Common,Lethargy
-30,Creature,Common,Ghoul
-31,Creature,Rare,Dark Rogue Hydra
-32,Spell,Common,Sorrow
-33,Creature,Common,Elf
-34,Creature,Common,Dwarf
-35,Creature,Legendary,Light Warrior Oni of the Black Stone
-36,Artifact,Common,Boots
-37,Enchantment,Mythic,Urgent Haste
-38,Spell,Legendary,Intense Invisibility
-39,Creature,Legendary,Snow Monk Orge of the Arctic Blizzards
-40,Spell,Common,Hypnosis
-41,Creature,Rare,Dark Warrior Fairy
-42,Creature,Common,Eagle
-43,Creature,Rare,Earth King Minotaur
-44,Spell,Common,Pandemonium
+==================,DECK,6704
+0,Spell,Irate Nimble Hypnosis
+1,Creature,Frozen Knight Griffin
+2,Enchantment,Dark Shrink
+3,Creature,Warlock
+4,Spell,Fire
+5,Artifact,Scythe
+6,Creature,Light Queen Cyclops
+7,Spell,Revive
+8,Creature,Fairy
+9,Artifact,Scepter
+10,Enchantment,Deathgrip
+11,Creature,Berserker
+12,Spell,Urgent Lunar Frost
+13,Spell,Tempest
+14,Enchantment,Lethargy
+15,Artifact,Gauntlet
+16,Artifact,Sword
+17,Creature,Warlock
+18,Spell,Burst
+19,Creature,Warlock
+20,Enchantment,Agony
+21,Creature,Spider
+22,Creature,Troll
+23,Creature,Dark Queen Cyclops
+24,Creature,Warlock
+25,Creature,Skin-Walker
+26,Enchantment,Shade
+27,Creature,Ghoul
+28,Creature,Wolf
+29,Enchantment,Flight
+30,Creature,Ghoul
+31,Creature,Dark Rogue Hydra
+32,Spell,Invisibility
+33,Creature,Warlock
+34,Creature,Magi
+35,Creature,Light Warrior Oni of the Black Stone
+36,Artifact,Boots
+37,Enchantment,Clever Corpse Lethargy
+38,Spell,Ardent Corpse Assault
+39,Creature,Snow Monk Elf of the Arctic Blizzards
+40,Spell,Freeze
+41,Creature,Dark Warrior Kraken
+42,Creature,Eagle
+43,Creature,Earth King Cyclops
+44,Spell,Freeze

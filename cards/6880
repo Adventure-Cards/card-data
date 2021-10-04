@@ -1,46 +1,46 @@
-==================,DECK,6880,Light
-0,Enchantment,Common,Deathgrip
-1,Artifact,Common,Ring
-2,Artifact,Rare,Necro Sigil
-3,Enchantment,Common,Drain
-4,Creature,Common,Ghoul
-5,Creature,Common,Magi
-6,Enchantment,Common,Invert
-7,Creature,Common,Elf
-8,Spell,Rare,Nimble Lightning
-9,Creature,Common,Ghoul
-10,Artifact,Rare,Oblivion Boots
-11,Creature,Common,Elf
-12,Creature,Common,Magi
-13,Creature,Common,Elf
-14,Creature,Common,Goblin
-15,Creature,Common,Eagle
-16,Artifact,Common,Helm
-17,Enchantment,Common,Age
-18,Spell,Common,Frost
-19,Spell,Common,Frenzy
-20,Enchantment,Common,Shrink
-21,Creature,Rare,Light Knight Hydra
-22,Spell,Legendary,Mighty Freeze
-23,Spell,Rare,Necro Stun
-24,Creature,Legendary,Light Assassin Giant of the Mountains
-25,Creature,Common,Dwarf
-26,Creature,Common,Magi
-27,Creature,Common,Orc
-28,Artifact,Common,Shield
-29,Enchantment,Common,Strength
-30,Creature,Legendary,Death Rogue Kraken of the Magical Forest
-31,Artifact,Common,Scepter
-32,Creature,Common,Magi
-33,Artifact,Common,Crown
-34,Enchantment,Common,Deathgrip
-35,Spell,Common,Vortex
-36,Creature,Rare,Dark Warrior Skin-Walker
-37,Spell,Common,Ice
-38,Spell,Common,Fury
-39,Creature,Rare,Light King Berserker
-40,Creature,Common,Spider
-41,Creature,Common,Wolf
-42,Creature,Rare,Earth Warrior Skin-Walker
-43,Spell,Common,Heal
-44,Creature,Common,Paladin
+==================,DECK,6880
+0,Enchantment,Strength
+1,Artifact,Ring
+2,Artifact,Corpse Sigil
+3,Enchantment,Shield
+4,Creature,Ghoul
+5,Creature,Fairy
+6,Enchantment,Deathgrip
+7,Creature,Warlock
+8,Spell,Shimmering Frost
+9,Creature,Ghoul
+10,Artifact,Oblivion Boots
+11,Creature,Warlock
+12,Creature,Fairy
+13,Creature,Warlock
+14,Creature,Skin-Walker
+15,Creature,Eagle
+16,Artifact,Helm
+17,Enchantment,Blight
+18,Spell,Pandemonium
+19,Spell,Revive
+20,Enchantment,Shrink
+21,Creature,Light Knight Hydra
+22,Spell,Ardent Lunar Lightning
+23,Spell,Solar Freeze
+24,Creature,Light Assassin Dwarf of the Mountains
+25,Creature,Magi
+26,Creature,Fairy
+27,Creature,Spider
+28,Artifact,Shield
+29,Enchantment,Firebreath
+30,Creature,Death Rogue Ogre of the Magical Forest
+31,Artifact,Scepter
+32,Creature,Fairy
+33,Artifact,Crown
+34,Enchantment,Lethargy
+35,Spell,Fireball
+36,Creature,Dark Warrior Orc
+37,Spell,Wall
+38,Spell,Lightning
+39,Creature,Light King Goblin
+40,Creature,Paladin
+41,Creature,Wolf
+42,Creature,Earth Warrior Orc
+43,Spell,Ice
+44,Creature,Troll

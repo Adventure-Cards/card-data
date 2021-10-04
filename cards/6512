@@ -1,46 +1,46 @@
-==================,DECK,6512,Medium
-0,Creature,Common,Magi
-1,Spell,Common,Ice
-2,Artifact,Common,Greaves
-3,Creature,Common,Spider
-4,Spell,Common,Gravitation
-5,Spell,Rare,Solar Vortex
-6,Spell,Common,Ice
-7,Creature,Rare,Snow King Fairy
-8,Creature,Common,Wolf
-9,Creature,Rare,Earth Assassin Berserker
-10,Enchantment,Legendary,Intense Alacrity
-11,Creature,Common,Goblin
-12,Enchantment,Common,Drain
-13,Creature,Rare,Aura Assassin Minotaur
-14,Enchantment,Rare,Nature Shrink
-15,Enchantment,Common,Alacrity
-16,Creature,Common,Eagle
-17,Creature,Rare,Dark Merchant Griffin
-18,Creature,Rare,Death Fighter Hydra
-19,Enchantment,Rare,Forged Lethargy
-20,Creature,Common,Elf
-21,Creature,Rare,Light Merchant Fairy
-22,Artifact,Legendary,Dire Ghost Wand
-23,Spell,Rare,Forged Rage
-24,Creature,Rare,Snow Merchant Skin-Walker
-25,Creature,Legendary,Aura Thief Cyclops of the Mountains
-26,Enchantment,Common,Shade
-27,Spell,Legendary,Clever Gale
-28,Creature,Legendary,Snow Priest Oni of the Swamp
-29,Enchantment,Common,Lethargy
-30,Creature,Common,Dwarf
-31,Creature,Legendary,Death Lord Cyclops of the Black Stone
-32,Creature,Rare,Dark Lord Skin-Walker
-33,Spell,Rare,Nimble Revive
-34,Enchantment,Legendary,Mighty Flight
-35,Artifact,Common,Crown
-36,Creature,Mythic,Dark Nameless Phoenix of Illusion
-37,Creature,Rare,Aura Queen Skin-Walker
-38,Creature,Legendary,Aura Priest Cyclops of the Frozen Castle
-39,Creature,Legendary,Dark Fighter Cyclops of the Eternal Land
-40,Enchantment,Rare,Corpse Shield
-41,Enchantment,Common,Age
-42,Enchantment,Rare,Apocalypse Deathgrip
-43,Creature,Common,Warlock
-44,Artifact,Common,Cloak
+==================,DECK,6512
+0,Creature,Fairy
+1,Spell,Sorrow
+2,Artifact,Greaves
+3,Creature,Paladin
+4,Spell,Freeze
+5,Spell,Corpse Assault
+6,Spell,Burn
+7,Creature,Snow King Kraken
+8,Creature,Wolf
+9,Creature,Earth Assassin Goblin
+10,Enchantment,Irate Forged Deathgrip
+11,Creature,Skin-Walker
+12,Enchantment,Shrink
+13,Creature,Aura Assassin Cyclops
+14,Enchantment,Necro Lethargy
+15,Enchantment,Drain
+16,Creature,Eagle
+17,Creature,Dark Merchant Griffin
+18,Creature,Death Fighter Hydra
+19,Enchantment,Lunar Shrink
+20,Creature,Warlock
+21,Creature,Light Merchant Kraken
+22,Artifact,Urgent Victory Ghost Wand
+23,Spell,Cataclysmic Frost
+24,Creature,Snow Merchant Orc
+25,Creature,Aura Thief Giant of the Mountains
+26,Enchantment,Alacrity
+27,Spell,Empyrean Victory Assault
+28,Creature,Snow Priest Oni of the Swamp
+29,Enchantment,Alacrity
+30,Creature,Magi
+31,Creature,Death Lord Giant of the Black Stone
+32,Creature,Dark Lord Orc
+33,Spell,Shimmering Gale
+34,Enchantment,Empyrean Lunar Firebreath
+35,Artifact,Crown
+36,Creature,Dark Nameless Phoenix of Illusion
+37,Creature,Aura Queen Orc
+38,Creature,Aura Priest Giant of the Frozen Castle
+39,Creature,Dark Fighter Giant of the Eternal Land
+40,Enchantment,Nature Agony
+41,Enchantment,Invert
+42,Enchantment,Oblivion Blight
+43,Creature,Berserker
+44,Artifact,Cloak

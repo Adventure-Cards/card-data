@@ -1,46 +1,46 @@
-==================,DECK,6665,Medium
-0,Creature,Rare,Frozen Warrior Griffin
-1,Spell,Rare,Shimmering Stun
-2,Spell,Common,Fury
-3,Spell,Common,Revive
-4,Creature,Rare,Frozen Knight Skin-Walker
-5,Creature,Rare,Aura Priest Skin-Walker
-6,Spell,Mythic,Angry Stricken
-7,Enchantment,Legendary,Intense Shade
-8,Creature,Common,Spider
-9,Artifact,Common,Divine Robe
-10,Artifact,Common,Tome
-11,Enchantment,Common,Age
-12,Creature,Rare,Dark King Skin-Walker
-13,Creature,Rare,Dark Priest Hydra
-14,Artifact,Common,Helm
-15,Creature,Legendary,Death King Orge of the Polar Woods
-16,Creature,Common,Ghoul
-17,Creature,Common,Goblin
-18,Creature,Common,Wolf
-19,Creature,Rare,Light Assassin Minotaur
-20,Creature,Common,Wolf
-21,Enchantment,Common,Flight
-22,Enchantment,Common,Agony
-23,Enchantment,Rare,Corpse Agony
-24,Creature,Rare,Frozen Fighter Skin-Walker
-25,Creature,Rare,Aura Thief Fairy
-26,Enchantment,Common,Agony
-27,Enchantment,Common,Flight
-28,Creature,Common,Warlock
-29,Creature,Legendary,Earth Thief Cyclops of the Swamp
-30,Spell,Common,Gravitation
-31,Creature,Common,Eagle
-32,Spell,Mythic,Potent Frenzy
-33,Spell,Legendary,Instant Frost
-34,Creature,Rare,Earth Undead Berserker
-35,Creature,Legendary,Earth Fighter Kraken of the Bright Mountains
-36,Artifact,Common,Bow
-37,Creature,Legendary,Frozen Queen Giant of the Border
-38,Creature,Common,Magi
-39,Creature,Rare,Aura Thief Griffin
-40,Spell,Rare,Shimmering Hypnosis
-41,Spell,Legendary,Extreme Ice
-42,Creature,Common,Orc
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Lethargy
+==================,DECK,6665
+0,Creature,Frozen Warrior Griffin
+1,Spell,Hateful Fury
+2,Spell,Sorrow
+3,Spell,Assault
+4,Creature,Frozen Knight Orc
+5,Creature,Aura Priest Orc
+6,Spell,Empyrean Lunar Fury
+7,Enchantment,Irate Necro Deathgrip
+8,Creature,Paladin
+9,Artifact,Divine Robe
+10,Artifact,Tome
+11,Enchantment,Alacrity
+12,Creature,Dark King Orc
+13,Creature,Dark Priest Hydra
+14,Artifact,Helm
+15,Creature,Death King Elf of the Polar Woods
+16,Creature,Ghoul
+17,Creature,Skin-Walker
+18,Creature,Wolf
+19,Creature,Light Assassin Cyclops
+20,Creature,Wolf
+21,Enchantment,Firebreath
+22,Enchantment,Lethargy
+23,Enchantment,Corpse Lethargy
+24,Creature,Frozen Fighter Orc
+25,Creature,Aura Thief Kraken
+26,Enchantment,Shrink
+27,Enchantment,Shrink
+28,Creature,Berserker
+29,Creature,Earth Thief Giant of the Swamp
+30,Spell,Invisibility
+31,Creature,Eagle
+32,Spell,Ardent Oblivion Sorrow
+33,Spell,Urgent Hateful Lightning
+34,Creature,Earth Undead Goblin
+35,Creature,Earth Fighter Ogre of the Bright Mountains
+36,Artifact,Bow
+37,Creature,Frozen Queen Dwarf of the Border
+38,Creature,Fairy
+39,Creature,Aura Thief Griffin
+40,Spell,Nature Frenzy
+41,Spell,Clever Chimeric Rage
+42,Creature,Spider
+43,Creature,Ghoul
+44,Enchantment,Shield

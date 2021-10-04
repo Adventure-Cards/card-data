@@ -1,46 +1,46 @@
-==================,DECK,7435,Light
-0,Spell,Rare,Gloom Frenzy
-1,Creature,Rare,Frozen Lord Berserker
-2,Creature,Rare,Death Lord Berserker
-3,Spell,Common,Assault
-4,Artifact,Rare,Life Sword
-5,Artifact,Rare,Grim Sigil
-6,Creature,Common,Eagle
-7,Spell,Common,Frenzy
-8,Creature,Common,Dwarf
-9,Creature,Common,Warlock
-10,Creature,Legendary,Dark Lord Orge of the Swamp
-11,Creature,Common,Eagle
-12,Creature,Common,Ghoul
-13,Creature,Common,Paladin
-14,Enchantment,Common,Shrink
-15,Creature,Common,Magi
-16,Enchantment,Common,Flight
-17,Spell,Common,Stun
-18,Creature,Common,Warlock
-19,Spell,Common,Burst
-20,Creature,Common,Elf
-21,Creature,Rare,Light Knight Minotaur
-22,Creature,Common,Magi
-23,Spell,Common,Wall
-24,Artifact,Common,Cloak
-25,Creature,Common,Wolf
-26,Creature,Common,Orc
-27,Enchantment,Rare,Oblivion Agony
-28,Creature,Common,Elf
-29,Spell,Common,Pandemonium
-30,Artifact,Common,Scythe
-31,Creature,Common,Dwarf
-32,Creature,Rare,Dark King Minotaur
-33,Creature,Common,Elf
-34,Spell,Rare,Nature Maelstrom
-35,Creature,Mythic,Frozen Chaos Wizard of the Void
-36,Spell,Rare,Oblivion Gravitation
-37,Artifact,Legendary,Dire Bow
-38,Creature,Common,Elf
-39,Creature,Mythic,Aura Ancient Demon of the Light
-40,Artifact,Common,Staff
-41,Enchantment,Common,Shield
-42,Creature,Common,Goblin
-43,Enchantment,Common,Flight
-44,Creature,Common,Eagle
+==================,DECK,7435
+0,Spell,Dark Burn
+1,Creature,Frozen Lord Goblin
+2,Creature,Death Lord Goblin
+3,Spell,Frost
+4,Artifact,Frigid Sword
+5,Artifact,Oblivion Sigil
+6,Creature,Eagle
+7,Spell,Fury
+8,Creature,Magi
+9,Creature,Berserker
+10,Creature,Dark Lord Elf of the Swamp
+11,Creature,Eagle
+12,Creature,Ghoul
+13,Creature,Troll
+14,Enchantment,Flight
+15,Creature,Fairy
+16,Enchantment,Blight
+17,Spell,Sorrow
+18,Creature,Berserker
+19,Spell,Rage
+20,Creature,Warlock
+21,Creature,Light Knight Cyclops
+22,Creature,Fairy
+23,Spell,Sorrow
+24,Artifact,Cloak
+25,Creature,Wolf
+26,Creature,Spider
+27,Enchantment,Life Invert
+28,Creature,Warlock
+29,Spell,Frenzy
+30,Artifact,Scythe
+31,Creature,Magi
+32,Creature,Dark King Cyclops
+33,Creature,Warlock
+34,Spell,Nature Reanimate
+35,Creature,Frozen Chaos Wizard of the Void
+36,Spell,Frigid Hypnosis
+37,Artifact,Urgent Victory Bow
+38,Creature,Warlock
+39,Creature,Aura Ancient Demon of the Light
+40,Artifact,Staff
+41,Enchantment,Alacrity
+42,Creature,Skin-Walker
+43,Enchantment,Blight
+44,Creature,Eagle

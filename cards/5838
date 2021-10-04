@@ -1,46 +1,46 @@
-==================,DECK,5838,Medium
-0,Creature,Rare,Death King Hydra
-1,Enchantment,Rare,Gloom Alacrity
-2,Enchantment,Common,Strength
-3,Spell,Common,Frost
-4,Creature,Mythic,Dark Grand Demon of Illusion
-5,Enchantment,Rare,Solar Shade
-6,Spell,Common,Infuriate
-7,Spell,Common,Burn
-8,Spell,Common,Invisibility
-9,Spell,Common,Infuriate
-10,Creature,Common,Dwarf
-11,Creature,Common,Ghoul
-12,Artifact,Rare,Necro Gauntlet
-13,Creature,Common,Orc
-14,Creature,Rare,Death Queen Minotaur
-15,Spell,Common,Wall
-16,Spell,Common,Vortex
-17,Creature,Rare,Earth King Fairy
-18,Creature,Legendary,Earth Warrior Oni of the West
-19,Creature,Rare,Snow Monk Minotaur
-20,Enchantment,Common,Haste
-21,Artifact,Rare,Lunar Pendant
-22,Artifact,Rare,Solar Amulet
-23,Creature,Common,Goblin
-24,Enchantment,Common,Invert
-25,Creature,Common,Goblin
-26,Spell,Rare,Nature Fury
-27,Creature,Common,Paladin
-28,Enchantment,Rare,Nimble Invert
-29,Creature,Common,Spider
-30,Creature,Common,Spider
-31,Creature,Common,Ghoul
-32,Creature,Common,Eagle
-33,Enchantment,Common,Deathgrip
-34,Creature,Common,Wolf
-35,Spell,Common,Lightning
-36,Spell,Legendary,Clever Stun
-37,Creature,Common,Dwarf
-38,Creature,Rare,Death Rogue Fairy
-39,Creature,Rare,Dark Queen Minotaur
-40,Creature,Common,Magi
-41,Creature,Common,Spider
-42,Creature,Common,Eagle
-43,Creature,Common,Warlock
-44,Creature,Rare,Death Monk Skin-Walker
+==================,DECK,5838
+0,Creature,Death King Hydra
+1,Enchantment,Dark Alacrity
+2,Enchantment,Drain
+3,Spell,Burst
+4,Creature,Dark Grand Demon of Illusion
+5,Enchantment,Necro Age
+6,Spell,Revive
+7,Spell,Fury
+8,Spell,Assault
+9,Spell,Wall
+10,Creature,Magi
+11,Creature,Ghoul
+12,Artifact,Corpse Gauntlet
+13,Creature,Spider
+14,Creature,Death Queen Cyclops
+15,Spell,Fireball
+16,Spell,Sorrow
+17,Creature,Earth King Kraken
+18,Creature,Earth Warrior Oni of the West
+19,Creature,Snow Monk Cyclops
+20,Enchantment,Agony
+21,Artifact,Sorrow Pendant
+22,Artifact,Necro Amulet
+23,Creature,Skin-Walker
+24,Enchantment,Age
+25,Creature,Skin-Walker
+26,Spell,Solar Frenzy
+27,Creature,Troll
+28,Enchantment,Shimmering Age
+29,Creature,Paladin
+30,Creature,Paladin
+31,Creature,Ghoul
+32,Creature,Eagle
+33,Enchantment,Deathgrip
+34,Creature,Wolf
+35,Spell,Gale
+36,Spell,Zealous Oblivion Lightning
+37,Creature,Magi
+38,Creature,Death Rogue Kraken
+39,Creature,Dark Queen Cyclops
+40,Creature,Fairy
+41,Creature,Paladin
+42,Creature,Eagle
+43,Creature,Berserker
+44,Creature,Death Monk Orc

@@ -1,46 +1,46 @@
-==================,DECK,7897,Light
-0,Spell,Common,Gale
-1,Creature,Rare,Aura Monk Fairy
-2,Enchantment,Common,Haste
-3,Creature,Common,Paladin
-4,Enchantment,Common,Shade
-5,Artifact,Common,Amulet
-6,Creature,Common,Wolf
-7,Creature,Common,Goblin
-8,Spell,Legendary,Intense Frost
-9,Enchantment,Common,Agony
-10,Enchantment,Legendary,Intense Haste
-11,Spell,Common,Lightning
-12,Spell,Rare,Forged Frenzy
-13,Creature,Common,Wolf
-14,Enchantment,Common,Invert
-15,Creature,Common,Dwarf
-16,Creature,Common,Wolf
-17,Creature,Common,Magi
-18,Enchantment,Common,Invert
-19,Enchantment,Common,Shield
-20,Creature,Common,Warlock
-21,Artifact,Common,Amulet
-22,Creature,Common,Warlock
-23,Artifact,Common,Gloves
-24,Enchantment,Common,Drain
-25,Creature,Common,Warlock
-26,Creature,Rare,Light Lord Minotaur
-27,Creature,Common,Eagle
-28,Enchantment,Common,Shade
-29,Creature,Legendary,Frozen Merchant Cyclops of the Mountains
-30,Creature,Legendary,Snow Fighter Cyclops of the Arctic Blizzards
-31,Spell,Common,Pandemonium
-32,Creature,Common,Warlock
-33,Artifact,Rare,Solar Boots
-34,Enchantment,Common,Blight
-35,Enchantment,Common,Drain
-36,Spell,Legendary,Intense Pandemonium
-37,Creature,Common,Dwarf
-38,Creature,Common,Goblin
-39,Enchantment,Legendary,Angry Invert
-40,Spell,Rare,Corpse Vortex
-41,Spell,Common,Revive
-42,Artifact,Common,Ring
-43,Spell,Common,Gravitation
-44,Enchantment,Common,Shrink
+==================,DECK,7897
+0,Spell,Sorrow
+1,Creature,Aura Monk Kraken
+2,Enchantment,Drain
+3,Creature,Troll
+4,Enchantment,Shrink
+5,Artifact,Amulet
+6,Creature,Wolf
+7,Creature,Skin-Walker
+8,Spell,Dire Solar Hypnosis
+9,Enchantment,Haste
+10,Enchantment,Zealous Corpse Deathgrip
+11,Spell,Fireball
+12,Spell,Gloom Revive
+13,Creature,Wolf
+14,Enchantment,Shield
+15,Creature,Magi
+16,Creature,Wolf
+17,Creature,Fairy
+18,Enchantment,Blight
+19,Enchantment,Drain
+20,Creature,Berserker
+21,Artifact,Amulet
+22,Creature,Berserker
+23,Artifact,Gloves
+24,Enchantment,Haste
+25,Creature,Berserker
+26,Creature,Light Lord Cyclops
+27,Creature,Eagle
+28,Enchantment,Firebreath
+29,Creature,Frozen Merchant Giant of the Mountains
+30,Creature,Snow Fighter Giant of the Arctic Blizzards
+31,Spell,Vortex
+32,Creature,Berserker
+33,Artifact,Hateful Boots
+34,Enchantment,Strength
+35,Enchantment,Firebreath
+36,Spell,Potent Solar Rage
+37,Creature,Magi
+38,Creature,Skin-Walker
+39,Enchantment,Instant Sorrow Shrink
+40,Spell,Necro Lightning
+41,Spell,Stricken
+42,Artifact,Ring
+43,Spell,Stun
+44,Enchantment,Strength

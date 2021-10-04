@@ -1,46 +1,46 @@
-==================,DECK,4837,Medium
-0,Creature,Common,Elf
-1,Creature,Legendary,Death Queen Kraken of the Magical Forest
-2,Spell,Common,Infuriate
-3,Creature,Legendary,Aura King Oni of the Golden Palace
-4,Creature,Common,Spider
-5,Enchantment,Common,Strength
-6,Creature,Common,Paladin
-7,Creature,Legendary,Snow Undead Kraken of the Polar Woods
-8,Enchantment,Mythic,Potent Strength
-9,Creature,Legendary,Snow Lord Kraken of the Mountains
-10,Creature,Mythic,Aura Ancient Wizard of the Light
-11,Spell,Common,Assault
-12,Creature,Common,Ghoul
-13,Creature,Common,Ghoul
-14,Creature,Common,Magi
-15,Spell,Common,Stricken
-16,Spell,Common,Maelstrom
-17,Enchantment,Common,Strength
-18,Creature,Common,Dwarf
-19,Enchantment,Mythic,Mighty Blight
-20,Spell,Rare,Gloom Torment
-21,Creature,Rare,Earth Warrior Berserker
-22,Spell,Common,Lightning
-23,Spell,Common,Frenzy
-24,Spell,Rare,Shimmering Fury
-25,Creature,Rare,Frozen Knight Griffin
-26,Artifact,Rare,Necro Cloak
-27,Creature,Legendary,Death Monk Oni of the Mountains
-28,Artifact,Legendary,Extreme Greaves
-29,Enchantment,Common,Shield
-30,Spell,Rare,Necro Burst
-31,Enchantment,Common,Deathgrip
-32,Artifact,Common,Helmet
-33,Creature,Legendary,Earth Merchant Kraken of the Border
-34,Enchantment,Mythic,Potent Agony
-35,Creature,Rare,Light Rogue Skin-Walker
-36,Enchantment,Legendary,Angry Flight
-37,Artifact,Rare,Nimble Helmet
-38,Artifact,Legendary,Potent Amulet
-39,Spell,Rare,Miracle Sorrow
-40,Enchantment,Common,Flight
-41,Spell,Rare,Shimmering Burn
-42,Enchantment,Common,Shield
-43,Spell,Common,Vortex
-44,Enchantment,Common,Shield
+==================,DECK,4837
+0,Creature,Warlock
+1,Creature,Death Queen Ogre of the Magical Forest
+2,Spell,Invisibility
+3,Creature,Aura King Oni of the Golden Palace
+4,Creature,Paladin
+5,Enchantment,Flight
+6,Creature,Troll
+7,Creature,Snow Undead Ogre of the Polar Woods
+8,Enchantment,Dire Nimble Shade
+9,Creature,Snow Lord Ogre of the Mountains
+10,Creature,Aura Ancient Wizard of the Light
+11,Spell,Fury
+12,Creature,Ghoul
+13,Creature,Ghoul
+14,Creature,Fairy
+15,Spell,Infuriate
+16,Spell,Burst
+17,Enchantment,Strength
+18,Creature,Magi
+19,Enchantment,Mighty Cataclysmic Flight
+20,Spell,Cataclysmic Burst
+21,Creature,Earth Warrior Goblin
+22,Spell,Pandemonium
+23,Spell,Sorrow
+24,Spell,Necro Maelstrom
+25,Creature,Frozen Knight Griffin
+26,Artifact,Shimmering Cloak
+27,Creature,Death Monk Oni of the Mountains
+28,Artifact,Mighty Miracle Greaves
+29,Enchantment,Invert
+30,Spell,Nature Revive
+31,Enchantment,Invert
+32,Artifact,Helmet
+33,Creature,Earth Merchant Ogre of the Border
+34,Enchantment,Irate Life Blight
+35,Creature,Light Rogue Orc
+36,Enchantment,Clever Lunar Shield
+37,Artifact,Necro Helmet
+38,Artifact,Mighty Frigid Amulet
+39,Spell,Apocalypse Infuriate
+40,Enchantment,Lethargy
+41,Spell,Necro Ice
+42,Enchantment,Lethargy
+43,Spell,Torment
+44,Enchantment,Drain

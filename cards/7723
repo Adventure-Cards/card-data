@@ -1,46 +1,46 @@
-==================,DECK,7723,Light
-0,Enchantment,Common,Haste
-1,Enchantment,Rare,Nature Drain
-2,Creature,Common,Wolf
-3,Creature,Common,Orc
-4,Creature,Common,Warlock
-5,Spell,Rare,Life Ice
-6,Spell,Rare,Apocalypse Sorrow
-7,Artifact,Common,Boots
-8,Creature,Common,Goblin
-9,Enchantment,Mythic,Intense Flight
-10,Creature,Legendary,Light Priest Kraken of the West
-11,Enchantment,Rare,Gloom Invert
-12,Spell,Common,Maelstrom
-13,Creature,Common,Warlock
-14,Creature,Rare,Frozen Priest Griffin
-15,Spell,Legendary,Clever Frost
-16,Spell,Rare,Grim Assault
-17,Creature,Common,Elf
-18,Spell,Legendary,Clever Burn
-19,Spell,Common,Gravitation
-20,Artifact,Common,Cloak
-21,Creature,Common,Ghoul
-22,Spell,Legendary,Angry Lightning
-23,Enchantment,Rare,Cataclysmic Haste
-24,Spell,Rare,Frigid Lightning
-25,Creature,Common,Eagle
-26,Enchantment,Rare,Lunar Drain
-27,Enchantment,Mythic,Intense Drain
-28,Creature,Rare,Frozen Monk Minotaur
-29,Creature,Common,Goblin
-30,Creature,Common,Paladin
-31,Spell,Common,Pandemonium
-32,Artifact,Legendary,Instant Bow
-33,Spell,Common,Heal
-34,Enchantment,Mythic,Mighty Invert
-35,Creature,Rare,Earth Merchant Griffin
-36,Spell,Common,Fury
-37,Spell,Common,Heal
-38,Creature,Common,Wolf
-39,Spell,Common,Torment
-40,Creature,Common,Goblin
-41,Spell,Rare,Oblivion Rage
-42,Spell,Common,Revive
-43,Spell,Common,Frost
-44,Creature,Common,Orc
+==================,DECK,7723
+0,Enchantment,Flight
+1,Enchantment,Forged Strength
+2,Creature,Wolf
+3,Creature,Spider
+4,Creature,Berserker
+5,Spell,Frigid Infuriate
+6,Spell,Victory Pandemonium
+7,Artifact,Boots
+8,Creature,Skin-Walker
+9,Enchantment,Mighty Hateful Agony
+10,Creature,Light Priest Ogre of the West
+11,Enchantment,Sorrow Shrink
+12,Spell,Frost
+13,Creature,Berserker
+14,Creature,Frozen Priest Griffin
+15,Spell,Dire Victory Assault
+16,Spell,Apocalypse Heal
+17,Creature,Warlock
+18,Spell,Zealous Nimble Gravitation
+19,Spell,Fireball
+20,Artifact,Cloak
+21,Creature,Ghoul
+22,Spell,Dire Sorrow Sorrow
+23,Enchantment,Miracle Shield
+24,Spell,Apocalypse Pandemonium
+25,Creature,Eagle
+26,Enchantment,Dark Alacrity
+27,Enchantment,Potent Forged Strength
+28,Creature,Frozen Monk Cyclops
+29,Creature,Skin-Walker
+30,Creature,Troll
+31,Spell,Frenzy
+32,Artifact,Mighty Necro Bow
+33,Spell,Hypnosis
+34,Enchantment,Urgent Sorrow Flight
+35,Creature,Earth Merchant Griffin
+36,Spell,Infuriate
+37,Spell,Heal
+38,Creature,Wolf
+39,Spell,Ice
+40,Creature,Skin-Walker
+41,Spell,Grim Gravitation
+42,Spell,Hypnosis
+43,Spell,Sorrow
+44,Creature,Spider

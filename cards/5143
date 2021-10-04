@@ -1,46 +1,46 @@
-==================,DECK,5143,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Torment
-2,Artifact,Common,Pendant
-3,Creature,Legendary,Frozen Assassin Giant of the Plains
-4,Creature,Common,Magi
-5,Creature,Common,Elf
-6,Creature,Legendary,Earth Priest Giant of the Haven
-7,Creature,Common,Magi
-8,Creature,Rare,Earth Warrior Fairy
-9,Creature,Common,Wolf
-10,Creature,Mythic,Death Undead Dragon of the Dead
-11,Creature,Rare,Dark Knight Griffin
-12,Artifact,Rare,Shimmering Staff
-13,Artifact,Common,Belt
-14,Creature,Common,Elf
-15,Creature,Common,Paladin
-16,Spell,Common,Burst
-17,Enchantment,Common,Drain
-18,Enchantment,Common,Shield
-19,Spell,Legendary,Extreme Infuriate
-20,Creature,Legendary,Dark Fighter Oni of the Mountains
-21,Creature,Common,Orc
-22,Creature,Rare,Light Thief Minotaur
-23,Spell,Common,Pandemonium
-24,Enchantment,Common,Alacrity
-25,Enchantment,Common,Shield
-26,Creature,Common,Spider
-27,Creature,Rare,Frozen Monk Griffin
-28,Enchantment,Common,Age
-29,Enchantment,Common,Drain
-30,Creature,Common,Eagle
-31,Spell,Common,Pandemonium
-32,Enchantment,Rare,Nature Flight
-33,Creature,Common,Orc
-34,Spell,Rare,Life Stun
-35,Creature,Common,Magi
-36,Creature,Rare,Death Monk Berserker
-37,Creature,Common,Eagle
-38,Spell,Common,Ice
-39,Artifact,Legendary,Urgent Scythe
-40,Creature,Rare,Frozen Knight Hydra
-41,Spell,Common,Burn
-42,Creature,Rare,Earth Thief Fairy
-43,Spell,Common,Freeze
-44,Spell,Common,Burst
+==================,DECK,5143
+0,Creature,Berserker
+1,Spell,Rage
+2,Artifact,Pendant
+3,Creature,Frozen Assassin Dwarf of the Plains
+4,Creature,Fairy
+5,Creature,Warlock
+6,Creature,Earth Priest Dwarf of the Haven
+7,Creature,Fairy
+8,Creature,Earth Warrior Kraken
+9,Creature,Wolf
+10,Creature,Death Undead Dragon of the Dead
+11,Creature,Dark Knight Griffin
+12,Artifact,Nature Staff
+13,Artifact,Belt
+14,Creature,Warlock
+15,Creature,Troll
+16,Spell,Stun
+17,Enchantment,Age
+18,Enchantment,Firebreath
+19,Spell,Mighty Cataclysmic Hypnosis
+20,Creature,Dark Fighter Oni of the Mountains
+21,Creature,Spider
+22,Creature,Light Thief Cyclops
+23,Spell,Lightning
+24,Enchantment,Shield
+25,Enchantment,Alacrity
+26,Creature,Paladin
+27,Creature,Frozen Monk Griffin
+28,Enchantment,Age
+29,Enchantment,Blight
+30,Creature,Eagle
+31,Spell,Fire
+32,Enchantment,Hateful Strength
+33,Creature,Spider
+34,Spell,Victory Gale
+35,Creature,Fairy
+36,Creature,Death Monk Goblin
+37,Creature,Eagle
+38,Spell,Infuriate
+39,Artifact,Empyrean Necro Scythe
+40,Creature,Frozen Knight Hydra
+41,Spell,Fireball
+42,Creature,Earth Thief Kraken
+43,Spell,Torment
+44,Spell,Assault

@@ -1,46 +1,46 @@
-==================,DECK,7830,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Elf
-2,Spell,Rare,Frigid Frenzy
-3,Creature,Common,Eagle
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Artifact,Common,Potion
-7,Creature,Common,Elf
-8,Creature,Legendary,Earth Thief Orge of the Eternal Land
-9,Creature,Common,Magi
-10,Enchantment,Mythic,Instant Shade
-11,Creature,Legendary,Light Undead Oni of the Plains
-12,Creature,Common,Dwarf
-13,Creature,Common,Elf
-14,Creature,Rare,Snow Assassin Fairy
-15,Spell,Common,Vortex
-16,Creature,Common,Wolf
-17,Spell,Rare,Life Infuriate
-18,Creature,Common,Dwarf
-19,Spell,Legendary,Clever Freeze
-20,Creature,Common,Magi
-21,Creature,Legendary,Earth Undead Cyclops of the West
-22,Enchantment,Common,Age
-23,Spell,Common,Rage
-24,Spell,Common,Torment
-25,Artifact,Common,Crown
-26,Artifact,Common,Ring
-27,Enchantment,Common,Flight
-28,Spell,Common,Freeze
-29,Spell,Rare,Hateful Hypnosis
-30,Creature,Rare,Dark Undead Minotaur
-31,Artifact,Rare,Cataclysmic Crown
-32,Creature,Rare,Aura Merchant Minotaur
-33,Spell,Common,Burn
-34,Artifact,Rare,Oblivion Tome
-35,Spell,Rare,Life Burst
-36,Creature,Common,Magi
-37,Spell,Rare,Frigid Wall
-38,Enchantment,Common,Flight
-39,Spell,Legendary,Clever Freeze
-40,Creature,Common,Elf
-41,Artifact,Common,Sigil
-42,Creature,Legendary,Death King Giant of the Swamp
-43,Creature,Common,Elf
-44,Spell,Common,Torment
+==================,DECK,7830
+0,Creature,Skin-Walker
+1,Creature,Warlock
+2,Spell,Grim Tempest
+3,Creature,Eagle
+4,Creature,Warlock
+5,Creature,Spider
+6,Artifact,Potion
+7,Creature,Warlock
+8,Creature,Earth Thief Elf of the Eternal Land
+9,Creature,Fairy
+10,Enchantment,Instant Necro Strength
+11,Creature,Light Undead Oni of the Plains
+12,Creature,Magi
+13,Creature,Warlock
+14,Creature,Snow Assassin Kraken
+15,Spell,Fire
+16,Creature,Wolf
+17,Spell,Nimble Reanimate
+18,Creature,Magi
+19,Spell,Irate Oblivion Heal
+20,Creature,Fairy
+21,Creature,Earth Undead Giant of the West
+22,Enchantment,Alacrity
+23,Spell,Reanimate
+24,Spell,Burst
+25,Artifact,Crown
+26,Artifact,Ring
+27,Enchantment,Shield
+28,Spell,Assault
+29,Spell,Chimeric Burn
+30,Creature,Dark Undead Cyclops
+31,Artifact,Chimeric Crown
+32,Creature,Aura Merchant Cyclops
+33,Spell,Ice
+34,Artifact,Frigid Tome
+35,Spell,Oblivion Stricken
+36,Creature,Fairy
+37,Spell,Nimble Infuriate
+38,Enchantment,Blight
+39,Spell,Instant Life Sorrow
+40,Creature,Warlock
+41,Artifact,Sigil
+42,Creature,Death King Dwarf of the Swamp
+43,Creature,Warlock
+44,Spell,Gale

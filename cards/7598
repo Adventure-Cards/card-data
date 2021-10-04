@@ -1,46 +1,46 @@
-==================,DECK,7598,Light
-0,Creature,Rare,Earth Thief Griffin
-1,Spell,Common,Lightning
-2,Creature,Common,Wolf
-3,Artifact,Common,Ghost Wand
-4,Artifact,Rare,Life Divine Robe
-5,Spell,Common,Lightning
-6,Spell,Rare,Nimble Heal
-7,Enchantment,Mythic,Clever Drain
-8,Creature,Common,Warlock
-9,Spell,Common,Freeze
-10,Spell,Common,Burn
-11,Enchantment,Common,Strength
-12,Spell,Legendary,Intense Gravitation
-13,Creature,Common,Dwarf
-14,Creature,Common,Warlock
-15,Creature,Common,Wolf
-16,Spell,Common,Rage
-17,Creature,Common,Warlock
-18,Creature,Rare,Snow Warrior Griffin
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Orc
-21,Enchantment,Common,Agony
-22,Spell,Common,Fury
-23,Creature,Common,Elf
-24,Spell,Rare,Hateful Maelstrom
-25,Enchantment,Legendary,Urgent Drain
-26,Creature,Common,Dwarf
-27,Creature,Rare,Frozen Assassin Griffin
-28,Artifact,Common,Boots
-29,Creature,Common,Goblin
-30,Spell,Common,Gale
-31,Creature,Common,Eagle
-32,Creature,Rare,Frozen Fighter Skin-Walker
-33,Creature,Common,Elf
-34,Creature,Rare,Death Warrior Berserker
-35,Enchantment,Common,Deathgrip
-36,Spell,Common,Rage
-37,Creature,Common,Ghoul
-38,Spell,Common,Fury
-39,Creature,Common,Paladin
-40,Creature,Rare,Frozen Thief Skin-Walker
-41,Spell,Common,Gale
-42,Creature,Rare,Death Undead Minotaur
-43,Enchantment,Rare,Oblivion Shade
-44,Artifact,Common,Belt
+==================,DECK,7598
+0,Creature,Earth Thief Griffin
+1,Spell,Fire
+2,Creature,Wolf
+3,Artifact,Ghost Wand
+4,Artifact,Victory Divine Robe
+5,Spell,Fireball
+6,Spell,Solar Heal
+7,Enchantment,Potent Apocalypse Drain
+8,Creature,Berserker
+9,Spell,Revive
+10,Spell,Sorrow
+11,Enchantment,Firebreath
+12,Spell,Irate Solar Burst
+13,Creature,Magi
+14,Creature,Berserker
+15,Creature,Wolf
+16,Spell,Fireball
+17,Creature,Berserker
+18,Creature,Snow Warrior Griffin
+19,Enchantment,Haste
+20,Creature,Spider
+21,Enchantment,Lethargy
+22,Spell,Gale
+23,Creature,Warlock
+24,Spell,Sorrow Fireball
+25,Enchantment,Mighty Forged Agony
+26,Creature,Magi
+27,Creature,Frozen Assassin Griffin
+28,Artifact,Boots
+29,Creature,Skin-Walker
+30,Spell,Maelstrom
+31,Creature,Eagle
+32,Creature,Frozen Fighter Orc
+33,Creature,Warlock
+34,Creature,Death Warrior Goblin
+35,Enchantment,Invert
+36,Spell,Fire
+37,Creature,Ghoul
+38,Spell,Ice
+39,Creature,Troll
+40,Creature,Frozen Thief Orc
+41,Spell,Infuriate
+42,Creature,Death Undead Cyclops
+43,Enchantment,Frigid Shade
+44,Artifact,Belt

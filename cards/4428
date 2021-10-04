@@ -1,46 +1,46 @@
-==================,DECK,4428,Medium
-0,Creature,Mythic,Aura Time Phoenix of the Light
-1,Enchantment,Common,Lethargy
-2,Creature,Mythic,Death Time Phoenix of the Dead
-3,Enchantment,Common,Agony
-4,Spell,Legendary,Potent Infuriate
-5,Enchantment,Rare,Lunar Shrink
-6,Creature,Common,Wolf
-7,Creature,Rare,Frozen Warrior Griffin
-8,Creature,Rare,Dark Assassin Fairy
-9,Creature,Common,Wolf
-10,Enchantment,Legendary,Potent Flight
-11,Creature,Rare,Snow Thief Berserker
-12,Creature,Common,Goblin
-13,Artifact,Rare,Gloom Scythe
-14,Creature,Common,Paladin
-15,Spell,Common,Heal
-16,Creature,Rare,Dark Undead Fairy
-17,Creature,Rare,Light Fighter Hydra
-18,Enchantment,Rare,Oblivion Shield
-19,Creature,Mythic,Death Nameless Phoenix of the Dead
-20,Enchantment,Mythic,Clever Shrink
-21,Creature,Common,Eagle
-22,Enchantment,Rare,Oblivion Agony
-23,Artifact,Rare,Life Scepter
-24,Artifact,Common,Helm
-25,Enchantment,Legendary,Dire Age
-26,Creature,Rare,Dark King Berserker
-27,Enchantment,Common,Drain
-28,Enchantment,Legendary,Urgent Lethargy
-29,Artifact,Legendary,Extreme Sword
-30,Creature,Legendary,Snow Monk Giant of the Golden Palace
-31,Creature,Rare,Dark Priest Fairy
-32,Spell,Common,Sorrow
-33,Enchantment,Mythic,Extreme Age
-34,Creature,Common,Paladin
-35,Spell,Rare,Miracle Sorrow
-36,Spell,Common,Assault
-37,Creature,Rare,Earth Rogue Fairy
-38,Creature,Common,Magi
-39,Enchantment,Common,Flight
-40,Spell,Rare,Hateful Reanimate
-41,Enchantment,Common,Haste
-42,Creature,Legendary,Aura Lord Orge of the Frozen Castle
-43,Artifact,Common,Pendant
-44,Artifact,Common,Staff
+==================,DECK,4428
+0,Creature,Aura Time Phoenix of the Light
+1,Enchantment,Deathgrip
+2,Creature,Death Time Phoenix of the Dead
+3,Enchantment,Flight
+4,Spell,Zealous Victory Sorrow
+5,Enchantment,Chimeric Flight
+6,Creature,Wolf
+7,Creature,Frozen Warrior Griffin
+8,Creature,Dark Assassin Kraken
+9,Creature,Wolf
+10,Enchantment,Potent Grim Drain
+11,Creature,Snow Thief Goblin
+12,Creature,Skin-Walker
+13,Artifact,Sorrow Scythe
+14,Creature,Troll
+15,Spell,Burn
+16,Creature,Dark Undead Kraken
+17,Creature,Light Fighter Hydra
+18,Enchantment,Victory Haste
+19,Creature,Death Nameless Phoenix of the Dead
+20,Enchantment,Empyrean Frigid Shade
+21,Creature,Eagle
+22,Enchantment,Life Invert
+23,Artifact,Frigid Scepter
+24,Artifact,Helm
+25,Enchantment,Clever Victory Haste
+26,Creature,Dark King Goblin
+27,Enchantment,Shrink
+28,Enchantment,Ardent Hateful Lethargy
+29,Artifact,Instant Gloom Sword
+30,Creature,Snow Monk Dwarf of the Golden Palace
+31,Creature,Dark Priest Kraken
+32,Spell,Freeze
+33,Enchantment,Clever Gloom Shield
+34,Creature,Troll
+35,Spell,Frigid Stricken
+36,Spell,Frost
+37,Creature,Earth Rogue Kraken
+38,Creature,Fairy
+39,Enchantment,Alacrity
+40,Spell,Gloom Tempest
+41,Enchantment,Age
+42,Creature,Aura Lord Elf of the Frozen Castle
+43,Artifact,Pendant
+44,Artifact,Staff

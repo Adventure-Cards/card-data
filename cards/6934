@@ -1,46 +1,46 @@
-==================,DECK,6934,Medium
-0,Enchantment,Common,Shade
-1,Creature,Common,Elf
-2,Creature,Common,Paladin
-3,Spell,Common,Reanimate
-4,Artifact,Common,Amulet
-5,Enchantment,Rare,Forged Lethargy
-6,Artifact,Rare,Apocalypse Ring
-7,Creature,Common,Elf
-8,Artifact,Rare,Nature Gloves
-9,Creature,Rare,Earth Queen Berserker
-10,Enchantment,Common,Haste
-11,Creature,Legendary,Dark Queen Giant of the Bright Mountains
-12,Creature,Common,Ghoul
-13,Creature,Legendary,Dark Merchant Orge of the Low Hills
-14,Creature,Common,Paladin
-15,Creature,Rare,Snow Lord Griffin
-16,Creature,Rare,Earth Lord Minotaur
-17,Creature,Common,Goblin
-18,Creature,Mythic,Frozen Ancient Demon of the Void
-19,Creature,Common,Spider
-20,Creature,Mythic,Snow Grand Demon of Hate
-21,Spell,Common,Infuriate
-22,Creature,Common,Spider
-23,Creature,Common,Dwarf
-24,Creature,Legendary,Death King Oni of the Low Hills
-25,Spell,Mythic,Extreme Rage
-26,Enchantment,Common,Flight
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Gloom Lethargy
-30,Creature,Rare,Dark Lord Berserker
-31,Creature,Mythic,Light Grand Demon of the Sky
-32,Enchantment,Common,Blight
-33,Creature,Rare,Dark King Berserker
-34,Creature,Common,Dwarf
-35,Creature,Common,Goblin
-36,Creature,Common,Magi
-37,Enchantment,Legendary,Mighty Age
-38,Spell,Common,Lightning
-39,Creature,Rare,Death Monk Skin-Walker
-40,Creature,Common,Dwarf
-41,Creature,Rare,Light Lord Fairy
-42,Creature,Common,Elf
-43,Artifact,Rare,Grim Scythe
-44,Enchantment,Rare,Shimmering Drain
+==================,DECK,6934
+0,Enchantment,Age
+1,Creature,Warlock
+2,Creature,Troll
+3,Spell,Stun
+4,Artifact,Amulet
+5,Enchantment,Lunar Firebreath
+6,Artifact,Life Ring
+7,Creature,Warlock
+8,Artifact,Shimmering Gloves
+9,Creature,Earth Queen Goblin
+10,Enchantment,Deathgrip
+11,Creature,Dark Queen Dwarf of the Bright Mountains
+12,Creature,Ghoul
+13,Creature,Dark Merchant Elf of the Low Hills
+14,Creature,Troll
+15,Creature,Snow Lord Griffin
+16,Creature,Earth Lord Cyclops
+17,Creature,Skin-Walker
+18,Creature,Frozen Ancient Demon of the Void
+19,Creature,Paladin
+20,Creature,Snow Grand Demon of Hate
+21,Spell,Sorrow
+22,Creature,Paladin
+23,Creature,Magi
+24,Creature,Death King Oni of the Low Hills
+25,Spell,Dire Cataclysmic Frenzy
+26,Enchantment,Lethargy
+27,Creature,Ghoul
+28,Creature,Magi
+29,Enchantment,Lunar Alacrity
+30,Creature,Dark Lord Goblin
+31,Creature,Light Grand Demon of the Sky
+32,Enchantment,Deathgrip
+33,Creature,Dark King Goblin
+34,Creature,Magi
+35,Creature,Skin-Walker
+36,Creature,Fairy
+37,Enchantment,Clever Gloom Shield
+38,Spell,Stricken
+39,Creature,Death Monk Orc
+40,Creature,Magi
+41,Creature,Light Lord Kraken
+42,Creature,Warlock
+43,Artifact,Grim Scythe
+44,Enchantment,Forged Deathgrip

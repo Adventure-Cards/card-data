@@ -1,46 +1,46 @@
-==================,DECK,5346,Strong
-0,Enchantment,Common,Strength
-1,Spell,Mythic,Mighty Stun
-2,Artifact,Rare,Cataclysmic Bow
-3,Creature,Common,Elf
-4,Spell,Common,Sorrow
-5,Creature,Common,Warlock
-6,Enchantment,Legendary,Dire Agony
-7,Creature,Common,Goblin
-8,Enchantment,Legendary,Intense Agony
-9,Creature,Common,Paladin
-10,Enchantment,Common,Flight
-11,Spell,Common,Wall
-12,Creature,Rare,Snow Undead Hydra
-13,Creature,Rare,Aura Monk Fairy
-14,Spell,Legendary,Angry Torment
-15,Enchantment,Rare,Necro Haste
-16,Enchantment,Common,Shade
-17,Enchantment,Common,Lethargy
-18,Artifact,Mythic,Urgent Gloves
-19,Artifact,Mythic,Angry Helm
-20,Spell,Legendary,Urgent Reanimate
-21,Creature,Common,Warlock
-22,Creature,Common,Warlock
-23,Enchantment,Common,Strength
-24,Creature,Common,Eagle
-25,Creature,Rare,Aura Queen Skin-Walker
-26,Spell,Rare,Necro Gale
-27,Creature,Legendary,Snow Priest Kraken of the Haven
-28,Spell,Common,Invisibility
-29,Creature,Legendary,Dark King Orge of the Bright Mountains
-30,Creature,Legendary,Light Grand Demon of the Sky
-31,Creature,Rare,Earth Rogue Berserker
-32,Creature,Legendary,Earth Nameless Dragon of the Shadows
-33,Enchantment,Common,Invert
-34,Creature,Mythic,Death Time Dragon of the Dead
-35,Creature,Legendary,Death Queen Oni of the Mountains
-36,Artifact,Common,Belt
-37,Creature,Legendary,Dark Merchant Kraken of the Plains
-38,Creature,Legendary,Earth King Oni of the West
-39,Enchantment,Common,Shade
-40,Creature,Common,Elf
-41,Creature,Legendary,Earth Chaos Demon of the Shadows
-42,Creature,Rare,Aura Assassin Hydra
-43,Artifact,Common,Tome
-44,Spell,Common,Assault
+==================,DECK,5346
+0,Enchantment,Invert
+1,Spell,Clever Lunar Frenzy
+2,Artifact,Cataclysmic Bow
+3,Creature,Warlock
+4,Spell,Hypnosis
+5,Creature,Berserker
+6,Enchantment,Dire Life Shade
+7,Creature,Skin-Walker
+8,Enchantment,Urgent Corpse Agony
+9,Creature,Troll
+10,Enchantment,Alacrity
+11,Spell,Maelstrom
+12,Creature,Snow Undead Hydra
+13,Creature,Aura Monk Kraken
+14,Spell,Irate Lunar Assault
+15,Enchantment,Corpse Lethargy
+16,Enchantment,Lethargy
+17,Enchantment,Shrink
+18,Artifact,Instant Nature Gloves
+19,Artifact,Dire Chimeric Helm
+20,Spell,Mighty Shimmering Fire
+21,Creature,Berserker
+22,Creature,Berserker
+23,Enchantment,Firebreath
+24,Creature,Eagle
+25,Creature,Aura Queen Orc
+26,Spell,Forged Gravitation
+27,Creature,Snow Priest Ogre of the Haven
+28,Spell,Pandemonium
+29,Creature,Dark King Elf of the Bright Mountains
+30,Creature,Light Grand Demon of the Sky
+31,Creature,Earth Rogue Goblin
+32,Creature,Earth Nameless Dragon of the Shadows
+33,Enchantment,Age
+34,Creature,Death Time Dragon of the Dead
+35,Creature,Death Queen Oni of the Mountains
+36,Artifact,Belt
+37,Creature,Dark Merchant Ogre of the Plains
+38,Creature,Earth King Oni of the West
+39,Enchantment,Alacrity
+40,Creature,Warlock
+41,Creature,Earth Chaos Demon of the Shadows
+42,Creature,Aura Assassin Hydra
+43,Artifact,Tome
+44,Spell,Wall

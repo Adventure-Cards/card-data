@@ -1,46 +1,46 @@
-==================,DECK,7008,Light
-0,Enchantment,Common,Flight
-1,Creature,Common,Dwarf
-2,Spell,Legendary,Instant Pandemonium
-3,Enchantment,Common,Age
-4,Creature,Common,Orc
-5,Spell,Common,Gravitation
-6,Enchantment,Common,Blight
-7,Spell,Common,Stricken
-8,Creature,Common,Ghoul
-9,Creature,Common,Goblin
-10,Spell,Common,Rage
-11,Creature,Legendary,Earth Knight Giant of the West
-12,Spell,Rare,Miracle Reanimate
-13,Enchantment,Mythic,Mighty Deathgrip
-14,Enchantment,Common,Strength
-15,Artifact,Common,Scythe
-16,Artifact,Common,Ghost Wand
-17,Artifact,Common,Gauntlet
-18,Creature,Common,Warlock
-19,Creature,Common,Dwarf
-20,Creature,Legendary,Earth Monk Oni of the Haven
-21,Creature,Common,Goblin
-22,Creature,Common,Elf
-23,Spell,Rare,Gloom Lightning
-24,Spell,Legendary,Clever Sorrow
-25,Enchantment,Rare,Forged Invert
-26,Enchantment,Rare,Dark Lethargy
-27,Artifact,Common,Shield
-28,Creature,Legendary,Earth Assassin Giant of the Golden Palace
-29,Enchantment,Common,Invert
-30,Creature,Common,Goblin
-31,Enchantment,Common,Flight
-32,Creature,Legendary,Light Rogue Orge of the Black Stone
-33,Creature,Common,Spider
-34,Enchantment,Mythic,Urgent Lethargy
-35,Creature,Rare,Death Knight Fairy
-36,Creature,Common,Ghoul
-37,Creature,Legendary,Light Priest Oni of the Low Hills
-38,Creature,Legendary,Frozen Priest Oni of the Eternal Land
-39,Creature,Common,Magi
-40,Creature,Mythic,Snow Time Dragon of Hate
-41,Enchantment,Common,Deathgrip
-42,Artifact,Common,Belt
-43,Creature,Common,Warlock
-44,Creature,Common,Warlock
+==================,DECK,7008
+0,Enchantment,Strength
+1,Creature,Magi
+2,Spell,Empyrean Corpse Freeze
+3,Enchantment,Shade
+4,Creature,Spider
+5,Spell,Torment
+6,Enchantment,Invert
+7,Spell,Frost
+8,Creature,Ghoul
+9,Creature,Skin-Walker
+10,Spell,Pandemonium
+11,Creature,Earth Knight Dwarf of the West
+12,Spell,Life Rage
+13,Enchantment,Mighty Sorrow Flight
+14,Enchantment,Firebreath
+15,Artifact,Scythe
+16,Artifact,Ghost Wand
+17,Artifact,Gauntlet
+18,Creature,Berserker
+19,Creature,Magi
+20,Creature,Earth Monk Oni of the Haven
+21,Creature,Skin-Walker
+22,Creature,Warlock
+23,Spell,Gloom Wall
+24,Spell,Zealous Apocalypse Sorrow
+25,Enchantment,Sorrow Firebreath
+26,Enchantment,Lunar Firebreath
+27,Artifact,Shield
+28,Creature,Earth Assassin Dwarf of the Golden Palace
+29,Enchantment,Shield
+30,Creature,Skin-Walker
+31,Enchantment,Age
+32,Creature,Light Rogue Elf of the Black Stone
+33,Creature,Paladin
+34,Enchantment,Dire Hateful Age
+35,Creature,Death Knight Kraken
+36,Creature,Ghoul
+37,Creature,Light Priest Oni of the Low Hills
+38,Creature,Frozen Priest Oni of the Eternal Land
+39,Creature,Fairy
+40,Creature,Snow Time Dragon of Hate
+41,Enchantment,Strength
+42,Artifact,Belt
+43,Creature,Berserker
+44,Creature,Berserker

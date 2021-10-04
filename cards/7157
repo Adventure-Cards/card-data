@@ -1,46 +1,46 @@
-==================,DECK,7157,Light
-0,Enchantment,Rare,Gloom Shield
-1,Spell,Common,Freeze
-2,Creature,Common,Orc
-3,Creature,Common,Warlock
-4,Artifact,Common,Sword
-5,Enchantment,Legendary,Intense Blight
-6,Creature,Common,Elf
-7,Creature,Mythic,Earth Time Phoenix of the Shadows
-8,Creature,Common,Magi
-9,Creature,Rare,Dark Fighter Hydra
-10,Enchantment,Common,Deathgrip
-11,Creature,Common,Magi
-12,Enchantment,Rare,Nature Age
-13,Enchantment,Rare,Forged Shield
-14,Enchantment,Rare,Apocalypse Drain
-15,Creature,Common,Spider
-16,Spell,Rare,Miracle Gale
-17,Spell,Common,Frost
-18,Creature,Common,Orc
-19,Spell,Common,Sorrow
-20,Creature,Common,Orc
-21,Artifact,Legendary,Potent Amulet
-22,Spell,Common,Torment
-23,Creature,Common,Paladin
-24,Creature,Common,Dwarf
-25,Spell,Legendary,Angry Reanimate
-26,Creature,Common,Dwarf
-27,Creature,Common,Wolf
-28,Enchantment,Rare,Forged Alacrity
-29,Artifact,Legendary,Potent Greaves
-30,Creature,Common,Wolf
-31,Creature,Rare,Earth Priest Hydra
-32,Creature,Common,Ghoul
-33,Creature,Rare,Aura Knight Skin-Walker
-34,Creature,Common,Orc
-35,Spell,Common,Frenzy
-36,Creature,Common,Dwarf
-37,Spell,Rare,Dark Lightning
-38,Creature,Common,Eagle
-39,Spell,Common,Wall
-40,Spell,Common,Invisibility
-41,Spell,Common,Pandemonium
-42,Creature,Common,Magi
-43,Artifact,Rare,Nimble Ring
-44,Creature,Rare,Death Rogue Berserker
+==================,DECK,7157
+0,Enchantment,Gloom Shield
+1,Spell,Fire
+2,Creature,Spider
+3,Creature,Berserker
+4,Artifact,Sword
+5,Enchantment,Clever Solar Lethargy
+6,Creature,Warlock
+7,Creature,Earth Time Phoenix of the Shadows
+8,Creature,Fairy
+9,Creature,Dark Fighter Hydra
+10,Enchantment,Lethargy
+11,Creature,Fairy
+12,Enchantment,Nature Age
+13,Enchantment,Gloom Firebreath
+14,Enchantment,Apocalypse Haste
+15,Creature,Paladin
+16,Spell,Grim Tempest
+17,Spell,Infuriate
+18,Creature,Spider
+19,Spell,Fire
+20,Creature,Spider
+21,Artifact,Mighty Apocalypse Amulet
+22,Spell,Gravitation
+23,Creature,Troll
+24,Creature,Magi
+25,Spell,Potent Sorrow Assault
+26,Creature,Magi
+27,Creature,Wolf
+28,Enchantment,Dark Flight
+29,Artifact,Mighty Nimble Greaves
+30,Creature,Wolf
+31,Creature,Earth Priest Hydra
+32,Creature,Ghoul
+33,Creature,Aura Knight Orc
+34,Creature,Spider
+35,Spell,Invisibility
+36,Creature,Magi
+37,Spell,Sorrow Tempest
+38,Creature,Eagle
+39,Spell,Frost
+40,Spell,Stun
+41,Spell,Stricken
+42,Creature,Fairy
+43,Artifact,Necro Ring
+44,Creature,Death Rogue Goblin

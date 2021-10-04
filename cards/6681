@@ -1,46 +1,46 @@
-==================,DECK,6681,Light
-0,Artifact,Common,Divine Robe
-1,Creature,Common,Eagle
-2,Artifact,Common,Ring
-3,Enchantment,Common,Age
-4,Enchantment,Common,Blight
-5,Creature,Common,Warlock
-6,Creature,Common,Magi
-7,Creature,Common,Dwarf
-8,Creature,Common,Dwarf
-9,Creature,Common,Goblin
-10,Creature,Common,Goblin
-11,Spell,Common,Rage
-12,Spell,Common,Gale
-13,Creature,Common,Magi
-14,Artifact,Common,Pendant
-15,Creature,Rare,Light Merchant Berserker
-16,Enchantment,Common,Blight
-17,Artifact,Rare,Nimble Ring
-18,Creature,Rare,Earth Lord Griffin
-19,Creature,Common,Orc
-20,Creature,Common,Paladin
-21,Spell,Common,Invisibility
-22,Creature,Common,Wolf
-23,Creature,Common,Wolf
-24,Creature,Common,Spider
-25,Creature,Common,Eagle
-26,Artifact,Common,Bracers
-27,Spell,Common,Maelstrom
-28,Creature,Rare,Light King Hydra
-29,Artifact,Rare,Dark Crown
-30,Spell,Rare,Lunar Sorrow
-31,Enchantment,Common,Agony
-32,Spell,Common,Gale
-33,Enchantment,Rare,Lunar Blight
-34,Enchantment,Common,Deathgrip
-35,Creature,Common,Wolf
-36,Creature,Rare,Aura Thief Minotaur
-37,Creature,Common,Elf
-38,Enchantment,Common,Shade
-39,Enchantment,Common,Lethargy
-40,Enchantment,Common,Age
-41,Creature,Common,Dwarf
-42,Creature,Common,Magi
-43,Artifact,Rare,Hateful Helm
-44,Creature,Common,Dwarf
+==================,DECK,6681
+0,Artifact,Divine Robe
+1,Creature,Eagle
+2,Artifact,Ring
+3,Enchantment,Lethargy
+4,Enchantment,Invert
+5,Creature,Berserker
+6,Creature,Fairy
+7,Creature,Magi
+8,Creature,Magi
+9,Creature,Skin-Walker
+10,Creature,Skin-Walker
+11,Spell,Fury
+12,Spell,Gravitation
+13,Creature,Fairy
+14,Artifact,Pendant
+15,Creature,Light Merchant Goblin
+16,Enchantment,Lethargy
+17,Artifact,Corpse Ring
+18,Creature,Earth Lord Griffin
+19,Creature,Spider
+20,Creature,Troll
+21,Spell,Ice
+22,Creature,Wolf
+23,Creature,Wolf
+24,Creature,Paladin
+25,Creature,Eagle
+26,Artifact,Bracers
+27,Spell,Fire
+28,Creature,Light King Hydra
+29,Artifact,Lunar Crown
+30,Spell,Cataclysmic Gale
+31,Enchantment,Shade
+32,Spell,Burst
+33,Enchantment,Cataclysmic Flight
+34,Enchantment,Drain
+35,Creature,Wolf
+36,Creature,Aura Thief Cyclops
+37,Creature,Warlock
+38,Enchantment,Lethargy
+39,Enchantment,Shade
+40,Enchantment,Shield
+41,Creature,Magi
+42,Creature,Fairy
+43,Artifact,Gloom Helm
+44,Creature,Magi

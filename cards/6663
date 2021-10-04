@@ -1,46 +1,46 @@
-==================,DECK,6663,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Eagle
-2,Creature,Legendary,Dark Merchant Kraken of the Eternal Land
-3,Creature,Rare,Light Merchant Fairy
-4,Creature,Common,Elf
-5,Creature,Rare,Light Fighter Griffin
-6,Enchantment,Common,Shield
-7,Creature,Common,Goblin
-8,Creature,Common,Ghoul
-9,Spell,Rare,Miracle Stricken
-10,Artifact,Common,Belt
-11,Enchantment,Common,Alacrity
-12,Enchantment,Common,Strength
-13,Spell,Common,Gravitation
-14,Spell,Rare,Corpse Wall
-15,Creature,Common,Magi
-16,Enchantment,Legendary,Dire Strength
-17,Enchantment,Common,Invert
-18,Creature,Common,Eagle
-19,Creature,Rare,Frozen Knight Berserker
-20,Enchantment,Rare,Shimmering Age
-21,Creature,Legendary,Aura Lord Kraken of the Polar Woods
-22,Creature,Common,Magi
-23,Creature,Common,Wolf
-24,Spell,Rare,Apocalypse Burn
-25,Spell,Common,Stricken
-26,Enchantment,Common,Lethargy
-27,Artifact,Rare,Corpse Shield
-28,Creature,Rare,Frozen King Griffin
-29,Spell,Rare,Nature Hypnosis
-30,Artifact,Common,Scythe
-31,Creature,Rare,Snow Warrior Skin-Walker
-32,Enchantment,Common,Blight
-33,Artifact,Common,Ring
-34,Creature,Common,Paladin
-35,Spell,Common,Torment
-36,Spell,Common,Frenzy
-37,Creature,Common,Eagle
-38,Creature,Common,Warlock
-39,Enchantment,Common,Blight
-40,Creature,Rare,Aura Undead Berserker
-41,Creature,Rare,Aura Warrior Berserker
-42,Artifact,Legendary,Intense Scepter
-43,Artifact,Common,Cloak
-44,Creature,Common,Eagle
+==================,DECK,6663
+0,Creature,Skin-Walker
+1,Creature,Eagle
+2,Creature,Dark Merchant Ogre of the Eternal Land
+3,Creature,Light Merchant Kraken
+4,Creature,Warlock
+5,Creature,Light Fighter Griffin
+6,Enchantment,Deathgrip
+7,Creature,Skin-Walker
+8,Creature,Ghoul
+9,Spell,Oblivion Vortex
+10,Artifact,Belt
+11,Enchantment,Shade
+12,Enchantment,Firebreath
+13,Spell,Sorrow
+14,Spell,Solar Gale
+15,Creature,Fairy
+16,Enchantment,Instant Nimble Drain
+17,Enchantment,Lethargy
+18,Creature,Eagle
+19,Creature,Frozen Knight Goblin
+20,Enchantment,Nature Deathgrip
+21,Creature,Aura Lord Ogre of the Polar Woods
+22,Creature,Fairy
+23,Creature,Wolf
+24,Spell,Nimble Vortex
+25,Spell,Hypnosis
+26,Enchantment,Age
+27,Artifact,Nature Shield
+28,Creature,Frozen King Griffin
+29,Spell,Necro Reanimate
+30,Artifact,Scythe
+31,Creature,Snow Warrior Orc
+32,Enchantment,Shade
+33,Artifact,Ring
+34,Creature,Troll
+35,Spell,Wall
+36,Spell,Torment
+37,Creature,Eagle
+38,Creature,Berserker
+39,Enchantment,Agony
+40,Creature,Aura Undead Goblin
+41,Creature,Aura Warrior Goblin
+42,Artifact,Potent Corpse Scepter
+43,Artifact,Cloak
+44,Creature,Eagle

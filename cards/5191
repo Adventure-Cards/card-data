@@ -1,46 +1,46 @@
-==================,DECK,5191,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Elf
-2,Creature,Common,Eagle
-3,Artifact,Common,Potion
-4,Creature,Common,Ghoul
-5,Enchantment,Legendary,Urgent Strength
-6,Creature,Common,Goblin
-7,Spell,Rare,Dark Gravitation
-8,Creature,Common,Warlock
-9,Enchantment,Mythic,Dire Blight
-10,Creature,Mythic,Light Chaos Wizard of the Sky
-11,Creature,Rare,Dark Warrior Griffin
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Creature,Mythic,Snow Grand Wizard of Hate
-15,Creature,Common,Spider
-16,Enchantment,Rare,Life Blight
-17,Spell,Common,Hypnosis
-18,Spell,Common,Freeze
-19,Creature,Common,Orc
-20,Creature,Common,Ghoul
-21,Creature,Common,Spider
-22,Creature,Mythic,Death Grand Demon of the Dead
-23,Creature,Common,Warlock
-24,Spell,Rare,Dark Heal
-25,Enchantment,Legendary,Mighty Shade
-26,Enchantment,Common,Deathgrip
-27,Spell,Rare,Solar Heal
-28,Creature,Common,Eagle
-29,Creature,Common,Ghoul
-30,Spell,Common,Revive
-31,Spell,Common,Gravitation
-32,Creature,Common,Eagle
-33,Creature,Common,Magi
-34,Creature,Common,Ghoul
-35,Creature,Common,Elf
-36,Creature,Common,Paladin
-37,Creature,Common,Paladin
-38,Creature,Common,Elf
-39,Artifact,Common,Helm
-40,Creature,Rare,Frozen Fighter Hydra
-41,Creature,Rare,Aura Fighter Skin-Walker
-42,Enchantment,Common,Shield
-43,Creature,Rare,Frozen Monk Fairy
-44,Spell,Legendary,Potent Burn
+==================,DECK,5191
+0,Creature,Magi
+1,Creature,Warlock
+2,Creature,Eagle
+3,Artifact,Potion
+4,Creature,Ghoul
+5,Enchantment,Instant Solar Strength
+6,Creature,Skin-Walker
+7,Spell,Lunar Gale
+8,Creature,Berserker
+9,Enchantment,Potent Nimble Drain
+10,Creature,Light Chaos Wizard of the Sky
+11,Creature,Dark Warrior Griffin
+12,Creature,Eagle
+13,Creature,Fairy
+14,Creature,Snow Grand Wizard of Hate
+15,Creature,Paladin
+16,Enchantment,Nimble Shade
+17,Spell,Burst
+18,Spell,Fire
+19,Creature,Spider
+20,Creature,Ghoul
+21,Creature,Paladin
+22,Creature,Death Grand Demon of the Dead
+23,Creature,Berserker
+24,Spell,Dark Invisibility
+25,Enchantment,Urgent Chimeric Flight
+26,Enchantment,Haste
+27,Spell,Necro Vortex
+28,Creature,Eagle
+29,Creature,Ghoul
+30,Spell,Burn
+31,Spell,Hypnosis
+32,Creature,Eagle
+33,Creature,Fairy
+34,Creature,Ghoul
+35,Creature,Warlock
+36,Creature,Troll
+37,Creature,Troll
+38,Creature,Warlock
+39,Artifact,Helm
+40,Creature,Frozen Fighter Hydra
+41,Creature,Aura Fighter Orc
+42,Enchantment,Drain
+43,Creature,Frozen Monk Kraken
+44,Spell,Empyrean Nimble Burn

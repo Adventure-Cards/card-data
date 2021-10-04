@@ -1,46 +1,46 @@
-==================,DECK,7587,Light
-0,Creature,Common,Orc
-1,Artifact,Legendary,Mighty Helm
-2,Creature,Common,Warlock
-3,Creature,Rare,Snow Thief Minotaur
-4,Creature,Rare,Aura Monk Skin-Walker
-5,Creature,Common,Wolf
-6,Creature,Common,Magi
-7,Creature,Rare,Light King Minotaur
-8,Creature,Common,Orc
-9,Spell,Legendary,Dire Heal
-10,Creature,Common,Warlock
-11,Spell,Rare,Nature Infuriate
-12,Creature,Common,Ghoul
-13,Spell,Rare,Apocalypse Ice
-14,Creature,Mythic,Aura Time Phoenix of the Light
-15,Spell,Common,Fury
-16,Artifact,Common,Tome
-17,Creature,Common,Paladin
-18,Creature,Mythic,Light Time Phoenix of the Sky
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Flight
-21,Creature,Common,Dwarf
-22,Creature,Common,Ghoul
-23,Enchantment,Mythic,Potent Invert
-24,Creature,Common,Elf
-25,Enchantment,Common,Shrink
-26,Enchantment,Common,Lethargy
-27,Creature,Common,Orc
-28,Spell,Rare,Nimble Invisibility
-29,Creature,Rare,Frozen Warrior Skin-Walker
-30,Artifact,Common,Cloak
-31,Spell,Common,Wall
-32,Creature,Common,Elf
-33,Creature,Common,Spider
-34,Enchantment,Common,Invert
-35,Enchantment,Common,Strength
-36,Creature,Common,Spider
-37,Spell,Common,Stricken
-38,Artifact,Common,Gauntlet
-39,Creature,Common,Orc
-40,Creature,Common,Paladin
-41,Spell,Common,Burst
-42,Spell,Legendary,Potent Heal
-43,Creature,Rare,Death Merchant Hydra
-44,Enchantment,Common,Shield
+==================,DECK,7587
+0,Creature,Spider
+1,Artifact,Empyrean Miracle Helm
+2,Creature,Berserker
+3,Creature,Snow Thief Cyclops
+4,Creature,Aura Monk Orc
+5,Creature,Wolf
+6,Creature,Fairy
+7,Creature,Light King Cyclops
+8,Creature,Spider
+9,Spell,Instant Grim Burn
+10,Creature,Berserker
+11,Spell,Shimmering Vortex
+12,Creature,Ghoul
+13,Spell,Frigid Burst
+14,Creature,Aura Time Phoenix of the Light
+15,Spell,Sorrow
+16,Artifact,Tome
+17,Creature,Troll
+18,Creature,Light Time Phoenix of the Sky
+19,Creature,Ghoul
+20,Enchantment,Shrink
+21,Creature,Magi
+22,Creature,Ghoul
+23,Enchantment,Irate Oblivion Blight
+24,Creature,Warlock
+25,Enchantment,Invert
+26,Enchantment,Alacrity
+27,Creature,Spider
+28,Spell,Corpse Stricken
+29,Creature,Frozen Warrior Orc
+30,Artifact,Cloak
+31,Spell,Wall
+32,Creature,Warlock
+33,Creature,Paladin
+34,Enchantment,Strength
+35,Enchantment,Shield
+36,Creature,Paladin
+37,Spell,Infuriate
+38,Artifact,Gauntlet
+39,Creature,Spider
+40,Creature,Troll
+41,Spell,Infuriate
+42,Spell,Irate Grim Gale
+43,Creature,Death Merchant Hydra
+44,Enchantment,Shrink

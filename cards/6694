@@ -1,46 +1,46 @@
-==================,DECK,6694,Light
-0,Creature,Common,Paladin
-1,Artifact,Legendary,Dire Shield
-2,Creature,Legendary,Light Rogue Oni of the Border
-3,Creature,Common,Ghoul
-4,Artifact,Common,Crown
-5,Creature,Common,Paladin
-6,Creature,Common,Orc
-7,Creature,Common,Elf
-8,Creature,Common,Dwarf
-9,Enchantment,Common,Flight
-10,Artifact,Common,Sigil
-11,Enchantment,Common,Agony
-12,Creature,Common,Warlock
-13,Spell,Common,Sorrow
-14,Spell,Common,Revive
-15,Spell,Rare,Nature Burn
-16,Creature,Rare,Earth Lord Minotaur
-17,Artifact,Common,Helm
-18,Enchantment,Common,Shade
-19,Enchantment,Common,Flight
-20,Creature,Mythic,Light Time Dragon of the Sky
-21,Creature,Common,Wolf
-22,Spell,Rare,Frigid Heal
-23,Enchantment,Mythic,Potent Age
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Alacrity
-26,Creature,Common,Orc
-27,Enchantment,Common,Shade
-28,Creature,Common,Dwarf
-29,Artifact,Common,Helm
-30,Enchantment,Common,Invert
-31,Creature,Rare,Dark Undead Fairy
-32,Enchantment,Legendary,Urgent Deathgrip
-33,Spell,Common,Lightning
-34,Spell,Common,Assault
-35,Creature,Common,Eagle
-36,Creature,Common,Goblin
-37,Creature,Legendary,Death Undead Oni of the Eastern Skies
-38,Creature,Common,Orc
-39,Spell,Common,Frenzy
-40,Creature,Rare,Light Merchant Berserker
-41,Spell,Common,Rage
-42,Creature,Rare,Light Rogue Berserker
-43,Spell,Common,Vortex
-44,Creature,Rare,Light Fighter Hydra
+==================,DECK,6694
+0,Creature,Troll
+1,Artifact,Dire Grim Shield
+2,Creature,Light Rogue Oni of the Border
+3,Creature,Ghoul
+4,Artifact,Crown
+5,Creature,Troll
+6,Creature,Spider
+7,Creature,Warlock
+8,Creature,Magi
+9,Enchantment,Shield
+10,Artifact,Sigil
+11,Enchantment,Deathgrip
+12,Creature,Berserker
+13,Spell,Fireball
+14,Spell,Rage
+15,Spell,Solar Burn
+16,Creature,Earth Lord Cyclops
+17,Artifact,Helm
+18,Enchantment,Strength
+19,Enchantment,Strength
+20,Creature,Light Time Dragon of the Sky
+21,Creature,Wolf
+22,Spell,Victory Stun
+23,Enchantment,Clever Victory Haste
+24,Creature,Magi
+25,Enchantment,Drain
+26,Creature,Spider
+27,Enchantment,Blight
+28,Creature,Magi
+29,Artifact,Helm
+30,Enchantment,Age
+31,Creature,Dark Undead Kraken
+32,Enchantment,Clever Shimmering Lethargy
+33,Spell,Burst
+34,Spell,Reanimate
+35,Creature,Eagle
+36,Creature,Skin-Walker
+37,Creature,Death Undead Oni of the Eastern Skies
+38,Creature,Spider
+39,Spell,Freeze
+40,Creature,Light Merchant Goblin
+41,Spell,Burn
+42,Creature,Light Rogue Goblin
+43,Spell,Wall
+44,Creature,Light Fighter Hydra

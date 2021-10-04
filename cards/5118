@@ -1,46 +1,46 @@
-==================,DECK,5118,Light
-0,Enchantment,Common,Shade
-1,Enchantment,Common,Alacrity
-2,Spell,Common,Burst
-3,Spell,Common,Vortex
-4,Spell,Common,Gravitation
-5,Enchantment,Common,Flight
-6,Creature,Common,Warlock
-7,Spell,Legendary,Mighty Stricken
-8,Spell,Common,Revive
-9,Spell,Common,Rage
-10,Spell,Common,Vortex
-11,Enchantment,Common,Flight
-12,Creature,Common,Orc
-13,Creature,Rare,Light Fighter Griffin
-14,Creature,Common,Warlock
-15,Spell,Legendary,Urgent Heal
-16,Creature,Common,Eagle
-17,Spell,Rare,Solar Frenzy
-18,Creature,Common,Spider
-19,Spell,Common,Frenzy
-20,Enchantment,Common,Haste
-21,Creature,Common,Eagle
-22,Artifact,Legendary,Angry Bracers
-23,Spell,Common,Gravitation
-24,Creature,Rare,Earth Undead Fairy
-25,Creature,Legendary,Dark Assassin Giant of the Eternal Land
-26,Spell,Common,Reanimate
-27,Creature,Common,Ghoul
-28,Creature,Common,Dwarf
-29,Creature,Legendary,Snow Fighter Kraken of the Polar Woods
-30,Spell,Common,Revive
-31,Spell,Common,Burst
-32,Creature,Common,Magi
-33,Enchantment,Common,Drain
-34,Artifact,Common,Gauntlet
-35,Spell,Common,Frost
-36,Artifact,Rare,Apocalypse Divine Robe
-37,Spell,Common,Invisibility
-38,Enchantment,Common,Haste
-39,Creature,Legendary,Death Lord Cyclops of the Mountains
-40,Creature,Common,Elf
-41,Creature,Common,Orc
-42,Artifact,Rare,Nimble Amulet
-43,Creature,Common,Wolf
-44,Creature,Common,Eagle
+==================,DECK,5118
+0,Enchantment,Age
+1,Enchantment,Shield
+2,Spell,Sorrow
+3,Spell,Stun
+4,Spell,Sorrow
+5,Enchantment,Firebreath
+6,Creature,Berserker
+7,Spell,Clever Dark Infuriate
+8,Spell,Fire
+9,Spell,Sorrow
+10,Spell,Fury
+11,Enchantment,Shrink
+12,Creature,Spider
+13,Creature,Light Fighter Griffin
+14,Creature,Berserker
+15,Spell,Instant Forged Fire
+16,Creature,Eagle
+17,Spell,Solar Vortex
+18,Creature,Paladin
+19,Spell,Fire
+20,Enchantment,Firebreath
+21,Creature,Eagle
+22,Artifact,Irate Dark Bracers
+23,Spell,Invisibility
+24,Creature,Earth Undead Kraken
+25,Creature,Dark Assassin Dwarf of the Eternal Land
+26,Spell,Heal
+27,Creature,Ghoul
+28,Creature,Magi
+29,Creature,Snow Fighter Ogre of the Polar Woods
+30,Spell,Heal
+31,Spell,Fireball
+32,Creature,Fairy
+33,Enchantment,Deathgrip
+34,Artifact,Gauntlet
+35,Spell,Invisibility
+36,Artifact,Victory Divine Robe
+37,Spell,Assault
+38,Enchantment,Haste
+39,Creature,Death Lord Giant of the Mountains
+40,Creature,Warlock
+41,Creature,Spider
+42,Artifact,Solar Amulet
+43,Creature,Wolf
+44,Creature,Eagle

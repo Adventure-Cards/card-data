@@ -1,46 +1,46 @@
-==================,DECK,6413,Light
-0,Spell,Rare,Hateful Burst
-1,Spell,Legendary,Intense Frenzy
-2,Creature,Common,Magi
-3,Enchantment,Common,Haste
-4,Creature,Common,Magi
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Strength
-7,Enchantment,Common,Strength
-8,Creature,Rare,Frozen King Hydra
-9,Enchantment,Common,Deathgrip
-10,Creature,Rare,Light Warrior Minotaur
-11,Spell,Common,Stun
-12,Creature,Common,Spider
-13,Enchantment,Common,Strength
-14,Spell,Legendary,Intense Frost
-15,Spell,Common,Invisibility
-16,Enchantment,Rare,Nimble Invert
-17,Enchantment,Common,Flight
-18,Enchantment,Common,Shrink
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Age
-21,Spell,Rare,Oblivion Rage
-22,Creature,Common,Elf
-23,Enchantment,Common,Lethargy
-24,Enchantment,Common,Age
-25,Creature,Rare,Snow King Fairy
-26,Enchantment,Rare,Cataclysmic Shrink
-27,Creature,Common,Wolf
-28,Creature,Common,Paladin
-29,Spell,Common,Frenzy
-30,Artifact,Common,Ghost Wand
-31,Creature,Common,Orc
-32,Creature,Common,Magi
-33,Enchantment,Common,Drain
-34,Creature,Common,Warlock
-35,Creature,Common,Eagle
-36,Spell,Legendary,Extreme Gale
-37,Creature,Common,Orc
-38,Spell,Common,Reanimate
-39,Spell,Common,Wall
-40,Creature,Common,Orc
-41,Spell,Common,Burn
-42,Creature,Common,Paladin
-43,Creature,Common,Paladin
-44,Creature,Common,Goblin
+==================,DECK,6413
+0,Spell,Sorrow Revive
+1,Spell,Instant Hateful Fire
+2,Creature,Fairy
+3,Enchantment,Age
+4,Creature,Fairy
+5,Creature,Magi
+6,Enchantment,Firebreath
+7,Enchantment,Shield
+8,Creature,Frozen King Hydra
+9,Enchantment,Deathgrip
+10,Creature,Light Warrior Cyclops
+11,Spell,Burn
+12,Creature,Paladin
+13,Enchantment,Shrink
+14,Spell,Ardent Corpse Lightning
+15,Spell,Maelstrom
+16,Enchantment,Shimmering Strength
+17,Enchantment,Deathgrip
+18,Enchantment,Age
+19,Creature,Ghoul
+20,Enchantment,Deathgrip
+21,Spell,Nimble Torment
+22,Creature,Warlock
+23,Enchantment,Haste
+24,Enchantment,Deathgrip
+25,Creature,Snow King Kraken
+26,Enchantment,Chimeric Flight
+27,Creature,Wolf
+28,Creature,Troll
+29,Spell,Lightning
+30,Artifact,Ghost Wand
+31,Creature,Spider
+32,Creature,Fairy
+33,Enchantment,Shield
+34,Creature,Berserker
+35,Creature,Eagle
+36,Spell,Clever Miracle Heal
+37,Creature,Spider
+38,Spell,Burst
+39,Spell,Stun
+40,Creature,Spider
+41,Spell,Burst
+42,Creature,Troll
+43,Creature,Troll
+44,Creature,Skin-Walker

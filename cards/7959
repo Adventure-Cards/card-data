@@ -1,46 +1,46 @@
-==================,DECK,7959,Strong
-0,Creature,Common,Goblin
-1,Creature,Mythic,Snow Chaos Wizard of Hate
-2,Creature,Legendary,Dark Knight Kraken of the Golden Palace
-3,Creature,Mythic,Light Time Phoenix of the Sky
-4,Creature,Rare,Light King Hydra
-5,Artifact,Common,Ring
-6,Creature,Mythic,Dark Grand Demon of Illusion
-7,Artifact,Rare,Forged Amulet
-8,Creature,Legendary,Frozen Fighter Cyclops of the Low Hills
-9,Creature,Legendary,Aura Priest Cyclops of the Eastern Skies
-10,Creature,Common,Magi
-11,Artifact,Rare,Apocalypse Ring
-12,Creature,Common,Goblin
-13,Creature,Rare,Light Warrior Skin-Walker
-14,Creature,Mythic,Frozen Undead Phoenix of the Void
-15,Enchantment,Rare,Life Deathgrip
-16,Creature,Common,Wolf
-17,Spell,Rare,Forged Torment
-18,Creature,Common,Elf
-19,Creature,Common,Ghoul
-20,Creature,Common,Warlock
-21,Spell,Rare,Necro Burn
-22,Artifact,Common,Boots
-23,Creature,Common,Magi
-24,Spell,Rare,Nature Hypnosis
-25,Spell,Rare,Oblivion Torment
-26,Creature,Common,Wolf
-27,Enchantment,Common,Drain
-28,Creature,Legendary,Light Ancient Demon of the Sky
-29,Spell,Rare,Miracle Ice
-30,Enchantment,Legendary,Mighty Shrink
-31,Creature,Common,Spider
-32,Creature,Common,Elf
-33,Artifact,Legendary,Extreme Divine Robe
-34,Creature,Legendary,Death Undead Dragon of the Dead
-35,Spell,Mythic,Urgent Burst
-36,Creature,Common,Ghoul
-37,Artifact,Common,Bow
-38,Creature,Common,Paladin
-39,Creature,Rare,Light Assassin Berserker
-40,Spell,Rare,Miracle Burst
-41,Creature,Mythic,Snow Nameless Dragon of Hate
-42,Creature,Legendary,Frozen Undead Dragon of the Void
-43,Enchantment,Rare,Nature Flight
-44,Creature,Rare,Aura Undead Skin-Walker
+==================,DECK,7959
+0,Creature,Skin-Walker
+1,Creature,Snow Chaos Wizard of Hate
+2,Creature,Dark Knight Ogre of the Golden Palace
+3,Creature,Light Time Phoenix of the Sky
+4,Creature,Light King Hydra
+5,Artifact,Ring
+6,Creature,Dark Grand Demon of Illusion
+7,Artifact,Chimeric Amulet
+8,Creature,Frozen Fighter Giant of the Low Hills
+9,Creature,Aura Priest Giant of the Eastern Skies
+10,Creature,Fairy
+11,Artifact,Victory Ring
+12,Creature,Skin-Walker
+13,Creature,Light Warrior Orc
+14,Creature,Frozen Undead Phoenix of the Void
+15,Enchantment,Oblivion Haste
+16,Creature,Wolf
+17,Spell,Miracle Burn
+18,Creature,Warlock
+19,Creature,Ghoul
+20,Creature,Berserker
+21,Spell,Forged Ice
+22,Artifact,Boots
+23,Creature,Fairy
+24,Spell,Shimmering Burst
+25,Spell,Oblivion Invisibility
+26,Creature,Wolf
+27,Enchantment,Haste
+28,Creature,Light Ancient Demon of the Sky
+29,Spell,Victory Sorrow
+30,Enchantment,Potent Chimeric Shrink
+31,Creature,Paladin
+32,Creature,Warlock
+33,Artifact,Instant Miracle Divine Robe
+34,Creature,Death Undead Dragon of the Dead
+35,Spell,Zealous Corpse Lightning
+36,Creature,Ghoul
+37,Artifact,Bow
+38,Creature,Troll
+39,Creature,Light Assassin Goblin
+40,Spell,Victory Reanimate
+41,Creature,Snow Nameless Dragon of Hate
+42,Creature,Frozen Undead Dragon of the Void
+43,Enchantment,Hateful Strength
+44,Creature,Aura Undead Orc

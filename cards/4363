@@ -1,46 +1,46 @@
-==================,DECK,4363,Light
-0,Enchantment,Common,Agony
-1,Artifact,Common,Crown
-2,Enchantment,Common,Blight
-3,Creature,Rare,Earth King Minotaur
-4,Creature,Common,Wolf
-5,Spell,Common,Stricken
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Magi
-8,Creature,Common,Ghoul
-9,Artifact,Common,Helm
-10,Artifact,Common,Crown
-11,Creature,Common,Orc
-12,Creature,Common,Magi
-13,Spell,Rare,Forged Heal
-14,Creature,Legendary,Frozen Knight Oni of the Bright Mountains
-15,Creature,Common,Spider
-16,Creature,Common,Warlock
-17,Creature,Common,Goblin
-18,Creature,Common,Elf
-19,Creature,Rare,Aura Monk Minotaur
-20,Artifact,Rare,Necro Pendant
-21,Enchantment,Common,Flight
-22,Creature,Common,Dwarf
-23,Artifact,Common,Potion
-24,Creature,Mythic,Aura Ancient Wizard of the Light
-25,Enchantment,Common,Flight
-26,Spell,Rare,Forged Assault
-27,Creature,Rare,Dark Warrior Hydra
-28,Spell,Common,Frenzy
-29,Enchantment,Common,Flight
-30,Creature,Rare,Light Undead Hydra
-31,Creature,Common,Wolf
-32,Spell,Rare,Hateful Sorrow
-33,Creature,Rare,Frozen Assassin Minotaur
-34,Enchantment,Rare,Necro Drain
-35,Enchantment,Common,Shrink
-36,Artifact,Common,Bow
-37,Creature,Common,Eagle
-38,Spell,Common,Freeze
-39,Creature,Legendary,Earth Thief Cyclops of the West
-40,Enchantment,Common,Lethargy
-41,Artifact,Common,Gauntlet
-42,Creature,Common,Elf
-43,Creature,Common,Spider
-44,Creature,Legendary,Frozen Knight Kraken of the Frozen Castle
+==================,DECK,4363
+0,Enchantment,Shield
+1,Artifact,Crown
+2,Enchantment,Flight
+3,Creature,Earth King Cyclops
+4,Creature,Wolf
+5,Spell,Maelstrom
+6,Enchantment,Alacrity
+7,Creature,Fairy
+8,Creature,Ghoul
+9,Artifact,Helm
+10,Artifact,Crown
+11,Creature,Spider
+12,Creature,Fairy
+13,Spell,Sorrow Lightning
+14,Creature,Frozen Knight Oni of the Bright Mountains
+15,Creature,Paladin
+16,Creature,Berserker
+17,Creature,Skin-Walker
+18,Creature,Warlock
+19,Creature,Aura Monk Cyclops
+20,Artifact,Forged Pendant
+21,Enchantment,Lethargy
+22,Creature,Magi
+23,Artifact,Potion
+24,Creature,Aura Ancient Wizard of the Light
+25,Enchantment,Shrink
+26,Spell,Sorrow Maelstrom
+27,Creature,Dark Warrior Hydra
+28,Spell,Assault
+29,Enchantment,Lethargy
+30,Creature,Light Undead Hydra
+31,Creature,Wolf
+32,Spell,Cataclysmic Tempest
+33,Creature,Frozen Assassin Cyclops
+34,Enchantment,Forged Lethargy
+35,Enchantment,Lethargy
+36,Artifact,Bow
+37,Creature,Eagle
+38,Spell,Lightning
+39,Creature,Earth Thief Giant of the West
+40,Enchantment,Shade
+41,Artifact,Gauntlet
+42,Creature,Warlock
+43,Creature,Paladin
+44,Creature,Frozen Knight Ogre of the Frozen Castle

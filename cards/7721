@@ -1,46 +1,46 @@
-==================,DECK,7721,Medium
-0,Enchantment,Common,Shrink
-1,Creature,Common,Dwarf
-2,Creature,Rare,Death Merchant Berserker
-3,Spell,Rare,Solar Vortex
-4,Enchantment,Legendary,Instant Invert
-5,Enchantment,Common,Deathgrip
-6,Spell,Rare,Shimmering Infuriate
-7,Spell,Rare,Frigid Heal
-8,Enchantment,Common,Age
-9,Enchantment,Common,Strength
-10,Creature,Rare,Snow Knight Minotaur
-11,Creature,Rare,Frozen Queen Hydra
-12,Spell,Common,Revive
-13,Creature,Common,Spider
-14,Creature,Common,Paladin
-15,Spell,Rare,Dark Frenzy
-16,Enchantment,Common,Age
-17,Enchantment,Common,Haste
-18,Creature,Common,Orc
-19,Enchantment,Mythic,Angry Haste
-20,Enchantment,Common,Drain
-21,Spell,Rare,Dark Frenzy
-22,Enchantment,Legendary,Extreme Drain
-23,Creature,Common,Magi
-24,Creature,Legendary,Snow Monk Giant of the Frozen Castle
-25,Creature,Legendary,Frozen Knight Oni of the Black Stone
-26,Enchantment,Rare,Miracle Drain
-27,Creature,Rare,Earth Lord Fairy
-28,Creature,Common,Elf
-29,Creature,Common,Wolf
-30,Spell,Common,Freeze
-31,Creature,Common,Paladin
-32,Creature,Mythic,Death Time Phoenix of the Dead
-33,Creature,Mythic,Snow Undead Dragon of Hate
-34,Creature,Common,Goblin
-35,Enchantment,Mythic,Intense Invert
-36,Creature,Common,Warlock
-37,Creature,Legendary,Aura Rogue Kraken of the Arctic Blizzards
-38,Spell,Common,Pandemonium
-39,Spell,Legendary,Dire Gravitation
-40,Creature,Legendary,Aura Knight Orge of the Plains
-41,Spell,Common,Invisibility
-42,Enchantment,Common,Strength
-43,Spell,Common,Fury
-44,Creature,Common,Paladin
+==================,DECK,7721
+0,Enchantment,Drain
+1,Creature,Magi
+2,Creature,Death Merchant Goblin
+3,Spell,Forged Hypnosis
+4,Enchantment,Irate Shimmering Deathgrip
+5,Enchantment,Shield
+6,Spell,Nature Fire
+7,Spell,Oblivion Vortex
+8,Enchantment,Flight
+9,Enchantment,Alacrity
+10,Creature,Snow Knight Cyclops
+11,Creature,Frozen Queen Hydra
+12,Spell,Stricken
+13,Creature,Paladin
+14,Creature,Troll
+15,Spell,Gloom Stun
+16,Enchantment,Deathgrip
+17,Enchantment,Strength
+18,Creature,Spider
+19,Enchantment,Empyrean Miracle Firebreath
+20,Enchantment,Agony
+21,Spell,Dark Maelstrom
+22,Enchantment,Clever Dark Shield
+23,Creature,Fairy
+24,Creature,Snow Monk Dwarf of the Frozen Castle
+25,Creature,Frozen Knight Oni of the Black Stone
+26,Enchantment,Apocalypse Invert
+27,Creature,Earth Lord Kraken
+28,Creature,Warlock
+29,Creature,Wolf
+30,Spell,Ice
+31,Creature,Troll
+32,Creature,Death Time Phoenix of the Dead
+33,Creature,Snow Undead Dragon of Hate
+34,Creature,Skin-Walker
+35,Enchantment,Ardent Shimmering Lethargy
+36,Creature,Berserker
+37,Creature,Aura Rogue Ogre of the Arctic Blizzards
+38,Spell,Heal
+39,Spell,Irate Frigid Fury
+40,Creature,Aura Knight Elf of the Plains
+41,Spell,Invisibility
+42,Enchantment,Deathgrip
+43,Spell,Pandemonium
+44,Creature,Troll

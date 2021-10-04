@@ -1,46 +1,46 @@
-==================,DECK,4315,Medium
-0,Creature,Legendary,Earth Lord Oni of the Polar Woods
-1,Spell,Common,Gale
-2,Creature,Common,Ghoul
-3,Creature,Common,Goblin
-4,Artifact,Rare,Frigid Sigil
-5,Enchantment,Common,Agony
-6,Artifact,Common,Divine Robe
-7,Creature,Common,Warlock
-8,Creature,Common,Spider
-9,Creature,Common,Orc
-10,Enchantment,Rare,Grim Shade
-11,Artifact,Common,Helmet
-12,Creature,Common,Orc
-13,Enchantment,Common,Shade
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Shrink
-16,Enchantment,Common,Haste
-17,Spell,Common,Heal
-18,Creature,Rare,Death Knight Griffin
-19,Creature,Legendary,Aura King Orge of the Golden Palace
-20,Enchantment,Common,Lethargy
-21,Creature,Common,Paladin
-22,Creature,Rare,Death Thief Skin-Walker
-23,Spell,Common,Reanimate
-24,Creature,Common,Magi
-25,Creature,Common,Warlock
-26,Creature,Common,Magi
-27,Creature,Common,Elf
-28,Enchantment,Common,Shield
-29,Enchantment,Common,Alacrity
-30,Artifact,Legendary,Urgent Helm
-31,Enchantment,Rare,Lunar Shrink
-32,Artifact,Rare,Miracle Greaves
-33,Spell,Rare,Forged Revive
-34,Spell,Rare,Hateful Burn
-35,Spell,Rare,Shimmering Maelstrom
-36,Creature,Common,Spider
-37,Spell,Mythic,Instant Invisibility
-38,Artifact,Legendary,Instant Gauntlet
-39,Artifact,Common,Bracers
-40,Spell,Common,Freeze
-41,Enchantment,Common,Haste
-42,Creature,Legendary,Snow Rogue Giant of the Eternal Land
-43,Spell,Rare,Shimmering Stun
-44,Creature,Legendary,Earth Monk Kraken of the Black Stone
+==================,DECK,4315
+0,Creature,Earth Lord Oni of the Polar Woods
+1,Spell,Frenzy
+2,Creature,Ghoul
+3,Creature,Skin-Walker
+4,Artifact,Oblivion Sigil
+5,Enchantment,Alacrity
+6,Artifact,Divine Robe
+7,Creature,Berserker
+8,Creature,Paladin
+9,Creature,Spider
+10,Enchantment,Frigid Shade
+11,Artifact,Helmet
+12,Creature,Spider
+13,Enchantment,Blight
+14,Enchantment,Shade
+15,Enchantment,Shield
+16,Enchantment,Shrink
+17,Spell,Lightning
+18,Creature,Death Knight Griffin
+19,Creature,Aura King Elf of the Golden Palace
+20,Enchantment,Flight
+21,Creature,Troll
+22,Creature,Death Thief Orc
+23,Spell,Tempest
+24,Creature,Fairy
+25,Creature,Berserker
+26,Creature,Fairy
+27,Creature,Warlock
+28,Enchantment,Blight
+29,Enchantment,Firebreath
+30,Artifact,Empyrean Shimmering Helm
+31,Enchantment,Chimeric Shrink
+32,Artifact,Life Greaves
+33,Spell,Miracle Stricken
+34,Spell,Dark Frenzy
+35,Spell,Necro Pandemonium
+36,Creature,Paladin
+37,Spell,Ardent Solar Gravitation
+38,Artifact,Ardent Hateful Gauntlet
+39,Artifact,Bracers
+40,Spell,Ice
+41,Enchantment,Flight
+42,Creature,Snow Rogue Dwarf of the Eternal Land
+43,Spell,Necro Heal
+44,Creature,Earth Monk Ogre of the Black Stone

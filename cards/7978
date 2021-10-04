@@ -1,46 +1,46 @@
-==================,DECK,7978,Light
-0,Artifact,Common,Pendant
-1,Spell,Common,Fury
-2,Artifact,Common,Gloves
-3,Creature,Common,Warlock
-4,Spell,Legendary,Clever Frenzy
-5,Creature,Common,Ghoul
-6,Creature,Common,Ghoul
-7,Creature,Rare,Dark Rogue Berserker
-8,Creature,Rare,Dark King Minotaur
-9,Creature,Legendary,Snow Rogue Kraken of the Black Stone
-10,Artifact,Common,Gauntlet
-11,Creature,Rare,Earth Thief Hydra
-12,Enchantment,Common,Lethargy
-13,Creature,Common,Orc
-14,Spell,Legendary,Mighty Gale
-15,Spell,Common,Gale
-16,Creature,Common,Paladin
-17,Enchantment,Common,Invert
-18,Enchantment,Rare,Grim Shield
-19,Spell,Common,Lightning
-20,Artifact,Common,Belt
-21,Creature,Common,Spider
-22,Artifact,Common,Ghost Wand
-23,Enchantment,Rare,Cataclysmic Blight
-24,Artifact,Common,Potion
-25,Creature,Common,Elf
-26,Creature,Legendary,Light Thief Oni of the Arctic Blizzards
-27,Creature,Common,Eagle
-28,Spell,Common,Lightning
-29,Creature,Common,Ghoul
-30,Spell,Common,Infuriate
-31,Spell,Common,Hypnosis
-32,Creature,Common,Goblin
-33,Enchantment,Common,Deathgrip
-34,Creature,Common,Magi
-35,Spell,Legendary,Potent Frenzy
-36,Creature,Common,Wolf
-37,Creature,Rare,Light Fighter Hydra
-38,Creature,Rare,Aura Queen Fairy
-39,Enchantment,Legendary,Extreme Drain
-40,Creature,Rare,Aura Knight Hydra
-41,Creature,Common,Spider
-42,Creature,Legendary,Dark Merchant Cyclops of the Polar Woods
-43,Enchantment,Rare,Shimmering Drain
-44,Creature,Rare,Dark Fighter Skin-Walker
+==================,DECK,7978
+0,Artifact,Pendant
+1,Spell,Fireball
+2,Artifact,Gloves
+3,Creature,Berserker
+4,Spell,Ardent Victory Tempest
+5,Creature,Ghoul
+6,Creature,Ghoul
+7,Creature,Dark Rogue Goblin
+8,Creature,Dark King Cyclops
+9,Creature,Snow Rogue Ogre of the Black Stone
+10,Artifact,Gauntlet
+11,Creature,Earth Thief Hydra
+12,Enchantment,Drain
+13,Creature,Spider
+14,Spell,Potent Dark Freeze
+15,Spell,Burst
+16,Creature,Troll
+17,Enchantment,Invert
+18,Enchantment,Victory Drain
+19,Spell,Stun
+20,Artifact,Belt
+21,Creature,Paladin
+22,Artifact,Ghost Wand
+23,Enchantment,Cataclysmic Shield
+24,Artifact,Potion
+25,Creature,Warlock
+26,Creature,Light Thief Oni of the Arctic Blizzards
+27,Creature,Eagle
+28,Spell,Invisibility
+29,Creature,Ghoul
+30,Spell,Hypnosis
+31,Spell,Frenzy
+32,Creature,Skin-Walker
+33,Enchantment,Age
+34,Creature,Fairy
+35,Spell,Irate Apocalypse Stun
+36,Creature,Wolf
+37,Creature,Light Fighter Hydra
+38,Creature,Aura Queen Kraken
+39,Enchantment,Potent Dark Shrink
+40,Creature,Aura Knight Hydra
+41,Creature,Paladin
+42,Creature,Dark Merchant Giant of the Polar Woods
+43,Enchantment,Forged Strength
+44,Creature,Dark Fighter Orc

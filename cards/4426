@@ -1,46 +1,46 @@
-==================,DECK,4426,Light
-0,Creature,Common,Magi
-1,Creature,Legendary,Snow Warrior Cyclops of the Mountains
-2,Creature,Rare,Snow Knight Fairy
-3,Creature,Common,Goblin
-4,Artifact,Common,Crown
-5,Spell,Rare,Gloom Assault
-6,Enchantment,Common,Shield
-7,Creature,Common,Wolf
-8,Spell,Common,Hypnosis
-9,Creature,Rare,Snow Priest Fairy
-10,Creature,Common,Eagle
-11,Artifact,Common,Bracers
-12,Artifact,Legendary,Extreme Helmet
-13,Spell,Common,Ice
-14,Spell,Common,Frost
-15,Creature,Legendary,Light Thief Kraken of the Black Stone
-16,Creature,Common,Ghoul
-17,Creature,Common,Goblin
-18,Enchantment,Common,Alacrity
-19,Enchantment,Legendary,Instant Flight
-20,Creature,Common,Eagle
-21,Enchantment,Mythic,Dire Strength
-22,Creature,Common,Warlock
-23,Creature,Common,Goblin
-24,Creature,Rare,Earth Queen Fairy
-25,Creature,Common,Wolf
-26,Enchantment,Rare,Nimble Shade
-27,Creature,Common,Ghoul
-28,Creature,Common,Eagle
-29,Enchantment,Common,Shield
-30,Spell,Common,Gravitation
-31,Creature,Rare,Dark Assassin Griffin
-32,Artifact,Common,Divine Robe
-33,Enchantment,Common,Blight
-34,Spell,Common,Freeze
-35,Spell,Legendary,Angry Stricken
-36,Spell,Rare,Grim Lightning
-37,Artifact,Common,Shield
-38,Creature,Common,Goblin
-39,Enchantment,Common,Flight
-40,Creature,Common,Elf
-41,Creature,Common,Paladin
-42,Creature,Common,Warlock
-43,Artifact,Common,Amulet
-44,Spell,Common,Lightning
+==================,DECK,4426
+0,Creature,Fairy
+1,Creature,Snow Warrior Giant of the Mountains
+2,Creature,Snow Knight Kraken
+3,Creature,Skin-Walker
+4,Artifact,Crown
+5,Spell,Gloom Ice
+6,Enchantment,Drain
+7,Creature,Wolf
+8,Spell,Reanimate
+9,Creature,Snow Priest Kraken
+10,Creature,Eagle
+11,Artifact,Bracers
+12,Artifact,Irate Gloom Helmet
+13,Spell,Rage
+14,Spell,Hypnosis
+15,Creature,Light Thief Ogre of the Black Stone
+16,Creature,Ghoul
+17,Creature,Skin-Walker
+18,Enchantment,Strength
+19,Enchantment,Zealous Hateful Deathgrip
+20,Creature,Eagle
+21,Enchantment,Irate Nimble Blight
+22,Creature,Berserker
+23,Creature,Skin-Walker
+24,Creature,Earth Queen Kraken
+25,Creature,Wolf
+26,Enchantment,Necro Agony
+27,Creature,Ghoul
+28,Creature,Eagle
+29,Enchantment,Strength
+30,Spell,Wall
+31,Creature,Dark Assassin Griffin
+32,Artifact,Divine Robe
+33,Enchantment,Agony
+34,Spell,Rage
+35,Spell,Zealous Lunar Fire
+36,Spell,Apocalypse Frost
+37,Artifact,Shield
+38,Creature,Skin-Walker
+39,Enchantment,Deathgrip
+40,Creature,Warlock
+41,Creature,Troll
+42,Creature,Berserker
+43,Artifact,Amulet
+44,Spell,Frost

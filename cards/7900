@@ -1,46 +1,46 @@
-==================,DECK,7900,Light
-0,Creature,Common,Wolf
-1,Spell,Legendary,Extreme Ice
-2,Enchantment,Common,Lethargy
-3,Enchantment,Common,Alacrity
-4,Spell,Common,Heal
-5,Creature,Common,Wolf
-6,Spell,Rare,Frigid Frost
-7,Creature,Common,Ghoul
-8,Enchantment,Common,Haste
-9,Creature,Common,Orc
-10,Creature,Rare,Death Merchant Hydra
-11,Creature,Common,Ghoul
-12,Artifact,Common,Gloves
-13,Spell,Rare,Solar Lightning
-14,Creature,Rare,Death Lord Berserker
-15,Enchantment,Common,Shield
-16,Creature,Rare,Death Rogue Griffin
-17,Creature,Common,Warlock
-18,Creature,Common,Wolf
-19,Creature,Rare,Earth Thief Skin-Walker
-20,Artifact,Common,Ring
-21,Creature,Common,Ghoul
-22,Artifact,Rare,Solar Gloves
-23,Spell,Common,Maelstrom
-24,Creature,Common,Wolf
-25,Spell,Common,Wall
-26,Artifact,Legendary,Angry Gloves
-27,Creature,Common,Paladin
-28,Artifact,Common,Gloves
-29,Creature,Common,Orc
-30,Enchantment,Rare,Apocalypse Age
-31,Creature,Common,Eagle
-32,Creature,Common,Paladin
-33,Creature,Common,Magi
-34,Creature,Common,Paladin
-35,Spell,Common,Frenzy
-36,Artifact,Legendary,Instant Crown
-37,Creature,Common,Ghoul
-38,Artifact,Rare,Necro Ring
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Magi
-41,Spell,Common,Revive
-42,Artifact,Common,Ghost Wand
-43,Enchantment,Rare,Frigid Shield
-44,Artifact,Common,Bracers
+==================,DECK,7900
+0,Creature,Wolf
+1,Spell,Empyrean Cataclysmic Heal
+2,Enchantment,Drain
+3,Enchantment,Blight
+4,Spell,Rage
+5,Creature,Wolf
+6,Spell,Victory Fireball
+7,Creature,Ghoul
+8,Enchantment,Age
+9,Creature,Spider
+10,Creature,Death Merchant Hydra
+11,Creature,Ghoul
+12,Artifact,Gloves
+13,Spell,Nature Stun
+14,Creature,Death Lord Goblin
+15,Enchantment,Agony
+16,Creature,Death Rogue Griffin
+17,Creature,Berserker
+18,Creature,Wolf
+19,Creature,Earth Thief Orc
+20,Artifact,Ring
+21,Creature,Ghoul
+22,Artifact,Nature Gloves
+23,Spell,Maelstrom
+24,Creature,Wolf
+25,Spell,Fury
+26,Artifact,Potent Gloom Gloves
+27,Creature,Troll
+28,Artifact,Gloves
+29,Creature,Spider
+30,Enchantment,Victory Blight
+31,Creature,Eagle
+32,Creature,Troll
+33,Creature,Fairy
+34,Creature,Troll
+35,Spell,Burn
+36,Artifact,Zealous Hateful Crown
+37,Creature,Ghoul
+38,Artifact,Forged Ring
+39,Enchantment,Deathgrip
+40,Creature,Fairy
+41,Spell,Freeze
+42,Artifact,Ghost Wand
+43,Enchantment,Victory Shade
+44,Artifact,Bracers

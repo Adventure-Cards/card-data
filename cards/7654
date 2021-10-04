@@ -1,46 +1,46 @@
-==================,DECK,7654,Medium
-0,Creature,Rare,Snow Knight Minotaur
-1,Creature,Common,Paladin
-2,Spell,Legendary,Mighty Fury
-3,Creature,Common,Warlock
-4,Spell,Common,Invisibility
-5,Creature,Legendary,Frozen Warrior Oni of the Haven
-6,Creature,Common,Goblin
-7,Creature,Common,Magi
-8,Enchantment,Common,Deathgrip
-9,Enchantment,Common,Shade
-10,Creature,Rare,Death Assassin Berserker
-11,Artifact,Rare,Hateful Gauntlet
-12,Enchantment,Common,Blight
-13,Creature,Mythic,Dark Nameless Phoenix of Illusion
-14,Enchantment,Legendary,Dire Invert
-15,Creature,Common,Paladin
-16,Creature,Common,Elf
-17,Creature,Rare,Death Merchant Berserker
-18,Creature,Rare,Dark Undead Berserker
-19,Creature,Common,Goblin
-20,Enchantment,Common,Lethargy
-21,Creature,Common,Warlock
-22,Spell,Rare,Shimmering Gale
-23,Spell,Rare,Solar Invisibility
-24,Creature,Common,Eagle
-25,Spell,Common,Revive
-26,Creature,Common,Wolf
-27,Creature,Mythic,Snow Undead Dragon of Hate
-28,Creature,Rare,Aura Merchant Berserker
-29,Enchantment,Common,Blight
-30,Creature,Mythic,Earth Ancient Demon of the Shadows
-31,Spell,Common,Vortex
-32,Enchantment,Common,Lethargy
-33,Enchantment,Common,Agony
-34,Enchantment,Rare,Oblivion Shield
-35,Creature,Common,Ghoul
-36,Creature,Rare,Dark Undead Minotaur
-37,Enchantment,Common,Strength
-38,Creature,Common,Ghoul
-39,Creature,Rare,Dark Monk Skin-Walker
-40,Creature,Common,Eagle
-41,Creature,Rare,Death King Skin-Walker
-42,Enchantment,Common,Shrink
-43,Spell,Rare,Solar Vortex
-44,Spell,Common,Heal
+==================,DECK,7654
+0,Creature,Snow Knight Cyclops
+1,Creature,Troll
+2,Spell,Zealous Chimeric Hypnosis
+3,Creature,Berserker
+4,Spell,Ice
+5,Creature,Frozen Warrior Oni of the Haven
+6,Creature,Skin-Walker
+7,Creature,Fairy
+8,Enchantment,Lethargy
+9,Enchantment,Flight
+10,Creature,Death Assassin Goblin
+11,Artifact,Lunar Gauntlet
+12,Enchantment,Flight
+13,Creature,Dark Nameless Phoenix of Illusion
+14,Enchantment,Ardent Oblivion Haste
+15,Creature,Troll
+16,Creature,Warlock
+17,Creature,Death Merchant Goblin
+18,Creature,Dark Undead Goblin
+19,Creature,Skin-Walker
+20,Enchantment,Strength
+21,Creature,Berserker
+22,Spell,Nature Frenzy
+23,Spell,Forged Maelstrom
+24,Creature,Eagle
+25,Spell,Stun
+26,Creature,Wolf
+27,Creature,Snow Undead Dragon of Hate
+28,Creature,Aura Merchant Goblin
+29,Enchantment,Flight
+30,Creature,Earth Ancient Demon of the Shadows
+31,Spell,Burn
+32,Enchantment,Agony
+33,Enchantment,Strength
+34,Enchantment,Victory Blight
+35,Creature,Ghoul
+36,Creature,Dark Undead Cyclops
+37,Enchantment,Shield
+38,Creature,Ghoul
+39,Creature,Dark Monk Orc
+40,Creature,Eagle
+41,Creature,Death King Orc
+42,Enchantment,Haste
+43,Spell,Shimmering Gravitation
+44,Spell,Stun

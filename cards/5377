@@ -1,46 +1,46 @@
-==================,DECK,5377,Light
-0,Creature,Common,Orc
-1,Creature,Common,Orc
-2,Artifact,Rare,Solar Ring
-3,Creature,Common,Paladin
-4,Artifact,Rare,Apocalypse Crown
-5,Spell,Common,Reanimate
-6,Spell,Rare,Dark Heal
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Enchantment,Common,Strength
-10,Creature,Common,Spider
-11,Creature,Common,Elf
-12,Spell,Common,Sorrow
-13,Creature,Rare,Snow Priest Minotaur
-14,Artifact,Common,Crown
-15,Spell,Rare,Forged Vortex
-16,Creature,Rare,Dark Knight Minotaur
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Flight
-19,Creature,Common,Orc
-20,Enchantment,Mythic,Dire Deathgrip
-21,Enchantment,Common,Shield
-22,Creature,Common,Orc
-23,Enchantment,Rare,Frigid Agony
-24,Spell,Common,Maelstrom
-25,Enchantment,Common,Blight
-26,Artifact,Rare,Miracle Sigil
-27,Artifact,Common,Sigil
-28,Enchantment,Common,Lethargy
-29,Creature,Common,Wolf
-30,Spell,Common,Sorrow
-31,Creature,Common,Goblin
-32,Spell,Common,Gale
-33,Spell,Common,Stricken
-34,Creature,Common,Goblin
-35,Creature,Common,Magi
-36,Creature,Common,Eagle
-37,Creature,Common,Wolf
-38,Creature,Common,Ghoul
-39,Creature,Legendary,Snow Queen Cyclops of the Eastern Skies
-40,Creature,Common,Elf
-41,Creature,Common,Spider
-42,Artifact,Common,Staff
-43,Creature,Rare,Snow Assassin Hydra
-44,Spell,Legendary,Clever Frenzy
+==================,DECK,5377
+0,Creature,Spider
+1,Creature,Spider
+2,Artifact,Nature Ring
+3,Creature,Troll
+4,Artifact,Apocalypse Crown
+5,Spell,Frost
+6,Spell,Miracle Fireball
+7,Creature,Troll
+8,Creature,Spider
+9,Enchantment,Shield
+10,Creature,Paladin
+11,Creature,Warlock
+12,Spell,Frenzy
+13,Creature,Snow Priest Cyclops
+14,Artifact,Crown
+15,Spell,Miracle Freeze
+16,Creature,Dark Knight Cyclops
+17,Enchantment,Shrink
+18,Enchantment,Alacrity
+19,Creature,Spider
+20,Enchantment,Empyrean Oblivion Shade
+21,Enchantment,Haste
+22,Creature,Spider
+23,Enchantment,Life Blight
+24,Spell,Pandemonium
+25,Enchantment,Agony
+26,Artifact,Frigid Sigil
+27,Artifact,Sigil
+28,Enchantment,Deathgrip
+29,Creature,Wolf
+30,Spell,Frost
+31,Creature,Skin-Walker
+32,Spell,Torment
+33,Spell,Tempest
+34,Creature,Skin-Walker
+35,Creature,Fairy
+36,Creature,Eagle
+37,Creature,Wolf
+38,Creature,Ghoul
+39,Creature,Snow Queen Giant of the Eastern Skies
+40,Creature,Warlock
+41,Creature,Paladin
+42,Artifact,Staff
+43,Creature,Snow Assassin Hydra
+44,Spell,Urgent Grim Gravitation

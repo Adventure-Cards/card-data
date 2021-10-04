@@ -1,46 +1,46 @@
-==================,DECK,5661,Light
-0,Spell,Legendary,Angry Stricken
-1,Creature,Common,Dwarf
-2,Spell,Common,Burst
-3,Creature,Common,Dwarf
-4,Spell,Rare,Nature Reanimate
-5,Enchantment,Common,Flight
-6,Artifact,Rare,Gloom Pendant
-7,Spell,Common,Torment
-8,Creature,Common,Goblin
-9,Creature,Common,Dwarf
-10,Enchantment,Rare,Nimble Alacrity
-11,Artifact,Common,Ring
-12,Artifact,Legendary,Clever Ring
-13,Spell,Legendary,Extreme Burst
-14,Spell,Common,Pandemonium
-15,Creature,Common,Warlock
-16,Artifact,Legendary,Urgent Helm
-17,Spell,Legendary,Angry Heal
-18,Spell,Rare,Dark Revive
-19,Creature,Rare,Earth Fighter Griffin
-20,Spell,Rare,Dark Lightning
-21,Creature,Rare,Snow Knight Fairy
-22,Creature,Common,Wolf
-23,Creature,Common,Goblin
-24,Spell,Common,Hypnosis
-25,Enchantment,Rare,Miracle Age
-26,Artifact,Common,Belt
-27,Spell,Common,Revive
-28,Creature,Legendary,Frozen Undead Cyclops of the Bright Mountains
-29,Creature,Common,Goblin
-30,Artifact,Common,Gauntlet
-31,Spell,Common,Gravitation
-32,Enchantment,Rare,Corpse Agony
-33,Spell,Common,Gravitation
-34,Creature,Common,Warlock
-35,Creature,Rare,Death Undead Berserker
-36,Creature,Common,Orc
-37,Creature,Common,Orc
-38,Creature,Rare,Earth Warrior Berserker
-39,Artifact,Common,Scythe
-40,Creature,Mythic,Aura Ancient Wizard of the Light
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Agony
-43,Creature,Common,Warlock
-44,Spell,Common,Infuriate
+==================,DECK,5661
+0,Spell,Potent Gloom Fury
+1,Creature,Magi
+2,Spell,Infuriate
+3,Creature,Magi
+4,Spell,Necro Maelstrom
+5,Enchantment,Deathgrip
+6,Artifact,Lunar Pendant
+7,Spell,Torment
+8,Creature,Skin-Walker
+9,Creature,Magi
+10,Enchantment,Forged Deathgrip
+11,Artifact,Ring
+12,Artifact,Potent Frigid Ring
+13,Spell,Potent Miracle Pandemonium
+14,Spell,Heal
+15,Creature,Berserker
+16,Artifact,Dire Nature Helm
+17,Spell,Irate Miracle Hypnosis
+18,Spell,Gloom Invisibility
+19,Creature,Earth Fighter Griffin
+20,Spell,Cataclysmic Wall
+21,Creature,Snow Knight Kraken
+22,Creature,Wolf
+23,Creature,Skin-Walker
+24,Spell,Invisibility
+25,Enchantment,Victory Drain
+26,Artifact,Belt
+27,Spell,Revive
+28,Creature,Frozen Undead Giant of the Bright Mountains
+29,Creature,Skin-Walker
+30,Artifact,Gauntlet
+31,Spell,Frost
+32,Enchantment,Corpse Lethargy
+33,Spell,Fireball
+34,Creature,Berserker
+35,Creature,Death Undead Goblin
+36,Creature,Spider
+37,Creature,Spider
+38,Creature,Earth Warrior Goblin
+39,Artifact,Scythe
+40,Creature,Aura Ancient Wizard of the Light
+41,Creature,Magi
+42,Enchantment,Lethargy
+43,Creature,Berserker
+44,Spell,Freeze

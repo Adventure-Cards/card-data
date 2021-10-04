@@ -1,46 +1,46 @@
-==================,DECK,6582,Medium
-0,Artifact,Rare,Gloom Pendant
-1,Spell,Common,Reanimate
-2,Artifact,Rare,Dark Bow
-3,Creature,Common,Orc
-4,Creature,Common,Elf
-5,Spell,Rare,Cataclysmic Pandemonium
-6,Creature,Rare,Light Assassin Skin-Walker
-7,Creature,Common,Paladin
-8,Enchantment,Common,Shrink
-9,Creature,Mythic,Aura Ancient Demon of the Light
-10,Creature,Mythic,Snow Grand Demon of Hate
-11,Spell,Common,Burst
-12,Artifact,Common,Bow
-13,Artifact,Common,Tome
-14,Spell,Common,Gale
-15,Creature,Rare,Dark Monk Hydra
-16,Creature,Common,Dwarf
-17,Creature,Common,Elf
-18,Enchantment,Mythic,Potent Shrink
-19,Enchantment,Mythic,Instant Shrink
-20,Creature,Legendary,Frozen Lord Orge of the Plains
-21,Creature,Common,Orc
-22,Artifact,Rare,Grim Sigil
-23,Creature,Common,Ghoul
-24,Creature,Common,Ghoul
-25,Creature,Mythic,Snow Chaos Wizard of Hate
-26,Spell,Common,Heal
-27,Enchantment,Common,Alacrity
-28,Spell,Mythic,Dire Rage
-29,Spell,Common,Sorrow
-30,Artifact,Rare,Necro Gauntlet
-31,Creature,Rare,Dark Lord Minotaur
-32,Creature,Common,Ghoul
-33,Spell,Mythic,Dire Revive
-34,Creature,Common,Wolf
-35,Creature,Legendary,Earth Merchant Kraken of the Haven
-36,Enchantment,Common,Shield
-37,Creature,Rare,Light Fighter Berserker
-38,Creature,Common,Warlock
-39,Creature,Common,Paladin
-40,Spell,Rare,Corpse Invisibility
-41,Creature,Rare,Death Warrior Skin-Walker
-42,Artifact,Rare,Frigid Gauntlet
-43,Creature,Rare,Aura Warrior Berserker
-44,Creature,Common,Orc
+==================,DECK,6582
+0,Artifact,Cataclysmic Pendant
+1,Spell,Invisibility
+2,Artifact,Chimeric Bow
+3,Creature,Spider
+4,Creature,Warlock
+5,Spell,Sorrow Ice
+6,Creature,Light Assassin Orc
+7,Creature,Troll
+8,Enchantment,Alacrity
+9,Creature,Aura Ancient Demon of the Light
+10,Creature,Snow Grand Demon of Hate
+11,Spell,Invisibility
+12,Artifact,Bow
+13,Artifact,Tome
+14,Spell,Lightning
+15,Creature,Dark Monk Hydra
+16,Creature,Magi
+17,Creature,Warlock
+18,Enchantment,Potent Frigid Drain
+19,Enchantment,Mighty Necro Agony
+20,Creature,Frozen Lord Elf of the Plains
+21,Creature,Spider
+22,Artifact,Grim Sigil
+23,Creature,Ghoul
+24,Creature,Ghoul
+25,Creature,Snow Chaos Wizard of Hate
+26,Spell,Gravitation
+27,Enchantment,Lethargy
+28,Spell,Instant Apocalypse Hypnosis
+29,Spell,Rage
+30,Artifact,Solar Gauntlet
+31,Creature,Dark Lord Cyclops
+32,Creature,Ghoul
+33,Spell,Irate Grim Pandemonium
+34,Creature,Wolf
+35,Creature,Earth Merchant Ogre of the Haven
+36,Enchantment,Drain
+37,Creature,Light Fighter Goblin
+38,Creature,Berserker
+39,Creature,Troll
+40,Spell,Hateful Pandemonium
+41,Creature,Death Warrior Orc
+42,Artifact,Nimble Gauntlet
+43,Creature,Aura Warrior Goblin
+44,Creature,Spider

@@ -1,46 +1,46 @@
-==================,DECK,6465,Light
-0,Artifact,Rare,Life Amulet
-1,Artifact,Common,Crown
-2,Creature,Common,Warlock
-3,Creature,Rare,Dark Rogue Griffin
-4,Creature,Common,Orc
-5,Spell,Common,Gale
-6,Enchantment,Mythic,Instant Flight
-7,Creature,Common,Goblin
-8,Spell,Rare,Grim Gravitation
-9,Creature,Common,Eagle
-10,Creature,Common,Ghoul
-11,Creature,Common,Dwarf
-12,Artifact,Legendary,Extreme Bracers
-13,Spell,Common,Freeze
-14,Creature,Legendary,Snow King Cyclops of the Arctic Blizzards
-15,Creature,Common,Eagle
-16,Spell,Rare,Solar Wall
-17,Spell,Rare,Oblivion Vortex
-18,Creature,Common,Dwarf
-19,Creature,Common,Warlock
-20,Creature,Common,Orc
-21,Enchantment,Mythic,Angry Shrink
-22,Creature,Common,Wolf
-23,Spell,Legendary,Potent Pandemonium
-24,Spell,Common,Invisibility
-25,Creature,Common,Warlock
-26,Creature,Rare,Snow Queen Berserker
-27,Spell,Legendary,Angry Infuriate
-28,Creature,Common,Spider
-29,Creature,Common,Warlock
-30,Spell,Common,Torment
-31,Creature,Common,Wolf
-32,Spell,Common,Freeze
-33,Enchantment,Common,Shrink
-34,Artifact,Common,Gloves
-35,Creature,Rare,Frozen Lord Griffin
-36,Enchantment,Common,Invert
-37,Spell,Common,Sorrow
-38,Creature,Common,Wolf
-39,Artifact,Common,Helm
-40,Creature,Common,Orc
-41,Enchantment,Common,Agony
-42,Enchantment,Common,Strength
-43,Enchantment,Common,Alacrity
-44,Creature,Rare,Frozen Knight Berserker
+==================,DECK,6465
+0,Artifact,Frigid Amulet
+1,Artifact,Crown
+2,Creature,Berserker
+3,Creature,Dark Rogue Griffin
+4,Creature,Spider
+5,Spell,Heal
+6,Enchantment,Zealous Hateful Deathgrip
+7,Creature,Skin-Walker
+8,Spell,Frigid Wall
+9,Creature,Eagle
+10,Creature,Ghoul
+11,Creature,Magi
+12,Artifact,Irate Gloom Bracers
+13,Spell,Invisibility
+14,Creature,Snow King Giant of the Arctic Blizzards
+15,Creature,Eagle
+16,Spell,Forged Hypnosis
+17,Spell,Oblivion Revive
+18,Creature,Magi
+19,Creature,Berserker
+20,Creature,Spider
+21,Enchantment,Potent Chimeric Shrink
+22,Creature,Wolf
+23,Spell,Empyrean Apocalypse Heal
+24,Spell,Burst
+25,Creature,Berserker
+26,Creature,Snow Queen Goblin
+27,Spell,Clever Cataclysmic Burst
+28,Creature,Paladin
+29,Creature,Berserker
+30,Spell,Lightning
+31,Creature,Wolf
+32,Spell,Frenzy
+33,Enchantment,Haste
+34,Artifact,Gloves
+35,Creature,Frozen Lord Griffin
+36,Enchantment,Firebreath
+37,Spell,Sorrow
+38,Creature,Wolf
+39,Artifact,Helm
+40,Creature,Spider
+41,Enchantment,Blight
+42,Enchantment,Age
+43,Enchantment,Shrink
+44,Creature,Frozen Knight Goblin

@@ -1,46 +1,46 @@
-==================,DECK,4598,Strong
-0,Creature,Common,Paladin
-1,Creature,Common,Orc
-2,Spell,Common,Ice
-3,Spell,Rare,Hateful Stricken
-4,Creature,Common,Ghoul
-5,Creature,Legendary,Snow Grand Demon of Hate
-6,Spell,Legendary,Instant Revive
-7,Creature,Mythic,Aura Grand Wizard of the Light
-8,Spell,Mythic,Clever Burst
-9,Enchantment,Common,Age
-10,Enchantment,Rare,Frigid Agony
-11,Enchantment,Mythic,Instant Lethargy
-12,Artifact,Common,Helmet
-13,Spell,Common,Gravitation
-14,Enchantment,Common,Deathgrip
-15,Spell,Common,Rage
-16,Creature,Common,Spider
-17,Artifact,Rare,Hateful Sigil
-18,Enchantment,Common,Agony
-19,Enchantment,Rare,Gloom Invert
-20,Enchantment,Common,Blight
-21,Spell,Common,Gale
-22,Spell,Mythic,Urgent Invisibility
-23,Creature,Common,Dwarf
-24,Artifact,Legendary,Extreme Ghost Wand
-25,Spell,Rare,Miracle Sorrow
-26,Enchantment,Legendary,Instant Lethargy
-27,Creature,Legendary,Aura Queen Cyclops of the Black Stone
-28,Enchantment,Common,Age
-29,Enchantment,Common,Shrink
-30,Creature,Common,Elf
-31,Creature,Common,Magi
-32,Artifact,Rare,Shimmering Staff
-33,Artifact,Rare,Lunar Gloves
-34,Creature,Common,Spider
-35,Creature,Common,Ghoul
-36,Spell,Common,Sorrow
-37,Artifact,Rare,Solar Ring
-38,Creature,Legendary,Dark Chaos Demon of Illusion
-39,Enchantment,Common,Shade
-40,Enchantment,Rare,Oblivion Strength
-41,Creature,Rare,Frozen Rogue Hydra
-42,Spell,Common,Lightning
-43,Spell,Rare,Solar Rage
-44,Spell,Rare,Grim Invisibility
+==================,DECK,4598
+0,Creature,Troll
+1,Creature,Spider
+2,Spell,Stun
+3,Spell,Cataclysmic Fireball
+4,Creature,Ghoul
+5,Creature,Snow Grand Demon of Hate
+6,Spell,Ardent Solar Burn
+7,Creature,Aura Grand Wizard of the Light
+8,Spell,Potent Life Gravitation
+9,Enchantment,Deathgrip
+10,Enchantment,Life Invert
+11,Enchantment,Urgent Hateful Agony
+12,Artifact,Helmet
+13,Spell,Lightning
+14,Enchantment,Shade
+15,Spell,Revive
+16,Creature,Paladin
+17,Artifact,Lunar Sigil
+18,Enchantment,Blight
+19,Enchantment,Sorrow Flight
+20,Enchantment,Blight
+21,Spell,Pandemonium
+22,Spell,Urgent Solar Gale
+23,Creature,Magi
+24,Artifact,Mighty Miracle Ghost Wand
+25,Spell,Frigid Frenzy
+26,Enchantment,Urgent Hateful Agony
+27,Creature,Aura Queen Giant of the Black Stone
+28,Enchantment,Drain
+29,Enchantment,Strength
+30,Creature,Warlock
+31,Creature,Fairy
+32,Artifact,Solar Staff
+33,Artifact,Lunar Gloves
+34,Creature,Paladin
+35,Creature,Ghoul
+36,Spell,Stun
+37,Artifact,Corpse Ring
+38,Creature,Dark Chaos Demon of Illusion
+39,Enchantment,Age
+40,Enchantment,Nimble Blight
+41,Creature,Frozen Rogue Hydra
+42,Spell,Gale
+43,Spell,Forged Frenzy
+44,Spell,Victory Frost

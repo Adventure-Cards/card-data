@@ -1,46 +1,46 @@
-==================,DECK,6656,Light
-0,Enchantment,Common,Strength
-1,Creature,Rare,Aura Thief Berserker
-2,Creature,Common,Spider
-3,Spell,Common,Heal
-4,Enchantment,Mythic,Instant Blight
-5,Creature,Common,Ghoul
-6,Enchantment,Mythic,Instant Shade
-7,Spell,Common,Revive
-8,Creature,Mythic,Snow Grand Wizard of Hate
-9,Creature,Common,Spider
-10,Spell,Legendary,Clever Maelstrom
-11,Enchantment,Common,Invert
-12,Spell,Rare,Nature Pandemonium
-13,Creature,Rare,Light Warrior Griffin
-14,Creature,Common,Magi
-15,Creature,Common,Orc
-16,Creature,Common,Eagle
-17,Enchantment,Mythic,Urgent Shade
-18,Artifact,Rare,Lunar Divine Robe
-19,Creature,Common,Warlock
-20,Creature,Common,Magi
-21,Creature,Common,Goblin
-22,Spell,Legendary,Angry Freeze
-23,Artifact,Common,Pendant
-24,Creature,Legendary,Death Priest Cyclops of the Swamp
-25,Enchantment,Common,Deathgrip
-26,Creature,Common,Paladin
-27,Spell,Common,Invisibility
-28,Creature,Common,Spider
-29,Creature,Common,Spider
-30,Enchantment,Mythic,Intense Deathgrip
-31,Artifact,Common,Gloves
-32,Enchantment,Common,Shrink
-33,Spell,Common,Gravitation
-34,Creature,Common,Magi
-35,Artifact,Legendary,Intense Pendant
-36,Creature,Common,Goblin
-37,Spell,Common,Lightning
-38,Creature,Legendary,Snow Undead Oni of the Low Hills
-39,Spell,Common,Assault
-40,Enchantment,Common,Flight
-41,Artifact,Common,Helm
-42,Enchantment,Common,Age
-43,Enchantment,Common,Alacrity
-44,Creature,Rare,Aura Rogue Berserker
+==================,DECK,6656
+0,Enchantment,Haste
+1,Creature,Aura Thief Goblin
+2,Creature,Paladin
+3,Spell,Frost
+4,Enchantment,Zealous Solar Deathgrip
+5,Creature,Ghoul
+6,Enchantment,Urgent Necro Agony
+7,Spell,Hypnosis
+8,Creature,Snow Grand Wizard of Hate
+9,Creature,Paladin
+10,Spell,Empyrean Victory Invisibility
+11,Enchantment,Firebreath
+12,Spell,Corpse Tempest
+13,Creature,Light Warrior Griffin
+14,Creature,Fairy
+15,Creature,Spider
+16,Creature,Eagle
+17,Enchantment,Ardent Necro Lethargy
+18,Artifact,Cataclysmic Divine Robe
+19,Creature,Berserker
+20,Creature,Fairy
+21,Creature,Skin-Walker
+22,Spell,Irate Gloom Ice
+23,Artifact,Pendant
+24,Creature,Death Priest Giant of the Swamp
+25,Enchantment,Age
+26,Creature,Troll
+27,Spell,Burst
+28,Creature,Paladin
+29,Creature,Paladin
+30,Enchantment,Potent Shimmering Strength
+31,Artifact,Gloves
+32,Enchantment,Deathgrip
+33,Spell,Pandemonium
+34,Creature,Fairy
+35,Artifact,Irate Shimmering Pendant
+36,Creature,Skin-Walker
+37,Spell,Revive
+38,Creature,Snow Undead Oni of the Low Hills
+39,Spell,Vortex
+40,Enchantment,Shade
+41,Artifact,Helm
+42,Enchantment,Flight
+43,Enchantment,Lethargy
+44,Creature,Aura Rogue Goblin

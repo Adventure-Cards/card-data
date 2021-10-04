@@ -1,46 +1,46 @@
-==================,DECK,5103,Medium
-0,Enchantment,Common,Drain
-1,Creature,Legendary,Aura Undead Cyclops of the Border
-2,Artifact,Common,Sword
-3,Creature,Rare,Light Knight Hydra
-4,Artifact,Rare,Nimble Ghost Wand
-5,Spell,Rare,Necro Fury
-6,Spell,Rare,Dark Heal
-7,Creature,Common,Spider
-8,Spell,Legendary,Clever Burst
-9,Enchantment,Mythic,Instant Blight
-10,Enchantment,Common,Deathgrip
-11,Creature,Common,Eagle
-12,Creature,Rare,Death Knight Minotaur
-13,Creature,Common,Spider
-14,Spell,Legendary,Clever Fury
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Eagle
-17,Creature,Rare,Snow Assassin Hydra
-18,Enchantment,Rare,Dark Shield
-19,Creature,Common,Orc
-20,Creature,Legendary,Light King Oni of the Mountains
-21,Enchantment,Rare,Cataclysmic Shrink
-22,Creature,Common,Dwarf
-23,Creature,Common,Spider
-24,Artifact,Common,Ring
-25,Artifact,Common,Crown
-26,Artifact,Common,Scythe
-27,Creature,Common,Dwarf
-28,Creature,Common,Elf
-29,Creature,Rare,Frozen Queen Berserker
-30,Creature,Mythic,Aura Ancient Demon of the Light
-31,Artifact,Common,Sword
-32,Enchantment,Rare,Dark Alacrity
-33,Creature,Common,Wolf
-34,Creature,Common,Paladin
-35,Spell,Rare,Dark Gravitation
-36,Enchantment,Common,Deathgrip
-37,Creature,Rare,Snow Queen Berserker
-38,Creature,Rare,Earth Lord Hydra
-39,Creature,Common,Orc
-40,Creature,Common,Paladin
-41,Creature,Rare,Aura Warrior Skin-Walker
-42,Creature,Common,Goblin
-43,Creature,Common,Paladin
-44,Creature,Common,Goblin
+==================,DECK,5103
+0,Enchantment,Shield
+1,Creature,Aura Undead Giant of the Border
+2,Artifact,Sword
+3,Creature,Light Knight Hydra
+4,Artifact,Nature Ghost Wand
+5,Spell,Corpse Pandemonium
+6,Spell,Lunar Hypnosis
+7,Creature,Paladin
+8,Spell,Potent Apocalypse Sorrow
+9,Enchantment,Potent Solar Strength
+10,Enchantment,Drain
+11,Creature,Eagle
+12,Creature,Death Knight Cyclops
+13,Creature,Paladin
+14,Spell,Zealous Nimble Hypnosis
+15,Enchantment,Firebreath
+16,Creature,Eagle
+17,Creature,Snow Assassin Hydra
+18,Enchantment,Gloom Shield
+19,Creature,Spider
+20,Creature,Light King Oni of the Mountains
+21,Enchantment,Chimeric Flight
+22,Creature,Magi
+23,Creature,Paladin
+24,Artifact,Ring
+25,Artifact,Crown
+26,Artifact,Scythe
+27,Creature,Magi
+28,Creature,Warlock
+29,Creature,Frozen Queen Goblin
+30,Creature,Aura Ancient Demon of the Light
+31,Artifact,Sword
+32,Enchantment,Dark Shield
+33,Creature,Wolf
+34,Creature,Troll
+35,Spell,Sorrow Maelstrom
+36,Enchantment,Lethargy
+37,Creature,Snow Queen Goblin
+38,Creature,Earth Lord Hydra
+39,Creature,Spider
+40,Creature,Troll
+41,Creature,Aura Warrior Orc
+42,Creature,Skin-Walker
+43,Creature,Troll
+44,Creature,Skin-Walker

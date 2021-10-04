@@ -1,46 +1,46 @@
-==================,DECK,4212,Medium
-0,Spell,Common,Wall
-1,Creature,Common,Goblin
-2,Spell,Legendary,Intense Frost
-3,Creature,Legendary,Snow King Kraken of the Magical Forest
-4,Creature,Common,Paladin
-5,Creature,Common,Magi
-6,Enchantment,Common,Alacrity
-7,Spell,Common,Sorrow
-8,Spell,Rare,Shimmering Pandemonium
-9,Creature,Rare,Frozen Monk Minotaur
-10,Creature,Mythic,Dark Time Phoenix of Illusion
-11,Creature,Legendary,Earth Assassin Giant of the Mountains
-12,Creature,Common,Magi
-13,Creature,Common,Spider
-14,Enchantment,Common,Alacrity
-15,Spell,Common,Burst
-16,Creature,Common,Eagle
-17,Spell,Common,Frost
-18,Creature,Common,Spider
-19,Creature,Rare,Death Warrior Berserker
-20,Enchantment,Rare,Grim Agony
-21,Creature,Common,Elf
-22,Enchantment,Rare,Oblivion Strength
-23,Creature,Legendary,Light King Orge of the Golden Palace
-24,Creature,Common,Eagle
-25,Artifact,Common,Divine Robe
-26,Creature,Common,Elf
-27,Creature,Common,Spider
-28,Creature,Mythic,Earth Ancient Wizard of the Shadows
-29,Creature,Common,Goblin
-30,Spell,Common,Burst
-31,Enchantment,Rare,Necro Age
-32,Enchantment,Common,Shade
-33,Enchantment,Legendary,Clever Shade
-34,Creature,Common,Paladin
-35,Enchantment,Common,Lethargy
-36,Creature,Common,Dwarf
-37,Creature,Common,Warlock
-38,Creature,Common,Goblin
-39,Enchantment,Common,Flight
-40,Spell,Common,Invisibility
-41,Artifact,Rare,Oblivion Cloak
-42,Enchantment,Rare,Oblivion Agony
-43,Creature,Common,Elf
-44,Artifact,Common,Shield
+==================,DECK,4212
+0,Spell,Heal
+1,Creature,Skin-Walker
+2,Spell,Urgent Nature Sorrow
+3,Creature,Snow King Ogre of the Magical Forest
+4,Creature,Troll
+5,Creature,Fairy
+6,Enchantment,Flight
+7,Spell,Infuriate
+8,Spell,Corpse Hypnosis
+9,Creature,Frozen Monk Cyclops
+10,Creature,Dark Time Phoenix of Illusion
+11,Creature,Earth Assassin Dwarf of the Mountains
+12,Creature,Fairy
+13,Creature,Paladin
+14,Enchantment,Strength
+15,Spell,Sorrow
+16,Creature,Eagle
+17,Spell,Gravitation
+18,Creature,Paladin
+19,Creature,Death Warrior Goblin
+20,Enchantment,Life Drain
+21,Creature,Warlock
+22,Enchantment,Nimble Shade
+23,Creature,Light King Elf of the Golden Palace
+24,Creature,Eagle
+25,Artifact,Divine Robe
+26,Creature,Warlock
+27,Creature,Paladin
+28,Creature,Earth Ancient Wizard of the Shadows
+29,Creature,Skin-Walker
+30,Spell,Invisibility
+31,Enchantment,Nature Agony
+32,Enchantment,Shield
+33,Enchantment,Ardent Frigid Haste
+34,Creature,Troll
+35,Enchantment,Shade
+36,Creature,Magi
+37,Creature,Berserker
+38,Creature,Skin-Walker
+39,Enchantment,Age
+40,Spell,Freeze
+41,Artifact,Nimble Cloak
+42,Enchantment,Life Haste
+43,Creature,Warlock
+44,Artifact,Shield

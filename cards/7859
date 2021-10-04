@@ -1,46 +1,46 @@
-==================,DECK,7859,Light
-0,Creature,Common,Spider
-1,Spell,Legendary,Potent Torment
-2,Enchantment,Mythic,Instant Blight
-3,Enchantment,Rare,Gloom Invert
-4,Enchantment,Common,Age
-5,Spell,Rare,Corpse Frost
-6,Creature,Common,Orc
-7,Creature,Legendary,Death Priest Orge of the Bright Mountains
-8,Spell,Legendary,Dire Ice
-9,Enchantment,Common,Age
-10,Creature,Common,Spider
-11,Creature,Rare,Light Assassin Hydra
-12,Creature,Rare,Earth Undead Hydra
-13,Creature,Common,Paladin
-14,Enchantment,Common,Invert
-15,Spell,Common,Stun
-16,Creature,Rare,Dark Monk Fairy
-17,Creature,Common,Paladin
-18,Creature,Common,Eagle
-19,Creature,Rare,Earth Fighter Minotaur
-20,Creature,Rare,Earth King Skin-Walker
-21,Spell,Legendary,Urgent Burst
-22,Creature,Common,Eagle
-23,Artifact,Rare,Oblivion Amulet
-24,Creature,Common,Dwarf
-25,Artifact,Rare,Grim Amulet
-26,Creature,Common,Magi
-27,Enchantment,Common,Haste
-28,Creature,Legendary,Light Rogue Orge of the Mountains
-29,Creature,Common,Warlock
-30,Creature,Common,Orc
-31,Creature,Common,Wolf
-32,Creature,Mythic,Aura Undead Phoenix of the Light
-33,Spell,Rare,Cataclysmic Infuriate
-34,Spell,Legendary,Clever Sorrow
-35,Creature,Legendary,Snow Merchant Kraken of the Haven
-36,Creature,Common,Warlock
-37,Artifact,Common,Greaves
-38,Enchantment,Common,Agony
-39,Artifact,Rare,Frigid Helm
-40,Creature,Common,Spider
-41,Enchantment,Common,Flight
-42,Spell,Common,Infuriate
-43,Creature,Common,Orc
-44,Artifact,Common,Bow
+==================,DECK,7859
+0,Creature,Paladin
+1,Spell,Ardent Apocalypse Heal
+2,Enchantment,Potent Solar Strength
+3,Enchantment,Sorrow Alacrity
+4,Enchantment,Shrink
+5,Spell,Corpse Frost
+6,Creature,Spider
+7,Creature,Death Priest Elf of the Bright Mountains
+8,Spell,Clever Oblivion Lightning
+9,Enchantment,Strength
+10,Creature,Paladin
+11,Creature,Light Assassin Hydra
+12,Creature,Earth Undead Hydra
+13,Creature,Troll
+14,Enchantment,Drain
+15,Spell,Fury
+16,Creature,Dark Monk Kraken
+17,Creature,Troll
+18,Creature,Eagle
+19,Creature,Earth Fighter Cyclops
+20,Creature,Earth King Orc
+21,Spell,Potent Hateful Lightning
+22,Creature,Eagle
+23,Artifact,Grim Amulet
+24,Creature,Magi
+25,Artifact,Apocalypse Amulet
+26,Creature,Fairy
+27,Enchantment,Drain
+28,Creature,Light Rogue Elf of the Mountains
+29,Creature,Berserker
+30,Creature,Spider
+31,Creature,Wolf
+32,Creature,Aura Undead Phoenix of the Light
+33,Spell,Lunar Invisibility
+34,Spell,Mighty Nimble Gale
+35,Creature,Snow Merchant Ogre of the Haven
+36,Creature,Berserker
+37,Artifact,Greaves
+38,Enchantment,Firebreath
+39,Artifact,Oblivion Helm
+40,Creature,Paladin
+41,Enchantment,Invert
+42,Spell,Torment
+43,Creature,Spider
+44,Artifact,Bow

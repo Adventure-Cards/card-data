@@ -1,46 +1,46 @@
-==================,DECK,6326,Light
-0,Creature,Common,Paladin
-1,Enchantment,Mythic,Instant Strength
-2,Creature,Common,Paladin
-3,Artifact,Common,Boots
-4,Spell,Common,Stricken
-5,Spell,Rare,Dark Heal
-6,Enchantment,Common,Deathgrip
-7,Artifact,Common,Gloves
-8,Artifact,Common,Divine Robe
-9,Enchantment,Common,Agony
-10,Creature,Common,Orc
-11,Creature,Legendary,Aura Thief Orge of the Mountains
-12,Creature,Rare,Earth Monk Berserker
-13,Enchantment,Legendary,Dire Flight
-14,Enchantment,Rare,Necro Haste
-15,Spell,Legendary,Intense Hypnosis
-16,Creature,Mythic,Earth Undead Phoenix of the Shadows
-17,Artifact,Rare,Shimmering Pendant
-18,Creature,Common,Spider
-19,Artifact,Common,Amulet
-20,Creature,Rare,Frozen King Skin-Walker
-21,Creature,Rare,Death Thief Hydra
-22,Creature,Mythic,Death Ancient Wizard of the Dead
-23,Enchantment,Common,Haste
-24,Spell,Common,Vortex
-25,Creature,Rare,Frozen Thief Minotaur
-26,Spell,Common,Fury
-27,Creature,Rare,Earth King Berserker
-28,Spell,Common,Gravitation
-29,Creature,Common,Eagle
-30,Enchantment,Common,Strength
-31,Creature,Common,Goblin
-32,Enchantment,Rare,Nature Age
-33,Creature,Rare,Light Queen Berserker
-34,Creature,Common,Ghoul
-35,Enchantment,Common,Shade
-36,Creature,Common,Dwarf
-37,Enchantment,Rare,Grim Invert
-38,Creature,Common,Ghoul
-39,Creature,Common,Wolf
-40,Spell,Legendary,Dire Frost
-41,Spell,Rare,Forged Vortex
-42,Artifact,Common,Cloak
-43,Spell,Common,Maelstrom
-44,Spell,Rare,Life Stun
+==================,DECK,6326
+0,Creature,Troll
+1,Enchantment,Urgent Solar Agony
+2,Creature,Troll
+3,Artifact,Boots
+4,Spell,Rage
+5,Spell,Dark Burst
+6,Enchantment,Invert
+7,Artifact,Gloves
+8,Artifact,Divine Robe
+9,Enchantment,Shield
+10,Creature,Spider
+11,Creature,Aura Thief Elf of the Mountains
+12,Creature,Earth Monk Goblin
+13,Enchantment,Zealous Grim Blight
+14,Enchantment,Corpse Agony
+15,Spell,Clever Corpse Stricken
+16,Creature,Earth Undead Phoenix of the Shadows
+17,Artifact,Nature Pendant
+18,Creature,Paladin
+19,Artifact,Amulet
+20,Creature,Frozen King Orc
+21,Creature,Death Thief Hydra
+22,Creature,Death Ancient Wizard of the Dead
+23,Enchantment,Strength
+24,Spell,Pandemonium
+25,Creature,Frozen Thief Cyclops
+26,Spell,Gravitation
+27,Creature,Earth King Goblin
+28,Spell,Frost
+29,Creature,Eagle
+30,Enchantment,Firebreath
+31,Creature,Skin-Walker
+32,Enchantment,Nature Age
+33,Creature,Light Queen Goblin
+34,Creature,Ghoul
+35,Enchantment,Flight
+36,Creature,Magi
+37,Enchantment,Oblivion Haste
+38,Creature,Ghoul
+39,Creature,Wolf
+40,Spell,Irate Frigid Pandemonium
+41,Spell,Cataclysmic Torment
+42,Artifact,Cloak
+43,Spell,Sorrow
+44,Spell,Life Rage

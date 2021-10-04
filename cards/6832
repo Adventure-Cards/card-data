@@ -1,46 +1,46 @@
-==================,DECK,6832,Light
-0,Creature,Common,Elf
-1,Creature,Common,Ghoul
-2,Creature,Legendary,Light Warrior Oni of the Polar Woods
-3,Artifact,Common,Potion
-4,Spell,Common,Burn
-5,Spell,Rare,Forged Torment
-6,Creature,Common,Spider
-7,Creature,Rare,Aura Undead Griffin
-8,Creature,Common,Wolf
-9,Spell,Common,Vortex
-10,Enchantment,Common,Shield
-11,Creature,Common,Spider
-12,Creature,Common,Elf
-13,Spell,Common,Freeze
-14,Creature,Common,Goblin
-15,Creature,Common,Ghoul
-16,Creature,Rare,Frozen Undead Fairy
-17,Creature,Legendary,Dark Monk Kraken of the Eternal Land
-18,Enchantment,Common,Alacrity
-19,Spell,Legendary,Potent Pandemonium
-20,Enchantment,Mythic,Mighty Agony
-21,Creature,Legendary,Dark King Cyclops of the Frozen Castle
-22,Creature,Common,Orc
-23,Creature,Common,Orc
-24,Enchantment,Common,Shrink
-25,Creature,Common,Ghoul
-26,Enchantment,Mythic,Potent Lethargy
-27,Creature,Rare,Light Thief Minotaur
-28,Creature,Common,Spider
-29,Creature,Common,Wolf
-30,Spell,Common,Pandemonium
-31,Enchantment,Common,Lethargy
-32,Artifact,Rare,Solar Boots
-33,Spell,Common,Frost
-34,Creature,Common,Ghoul
-35,Artifact,Common,Amulet
-36,Creature,Rare,Snow Queen Minotaur
-37,Creature,Common,Warlock
-38,Creature,Common,Paladin
-39,Creature,Common,Spider
-40,Creature,Common,Paladin
-41,Creature,Common,Dwarf
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Snow Queen Cyclops of the Bright Mountains
-44,Spell,Common,Heal
+==================,DECK,6832
+0,Creature,Warlock
+1,Creature,Ghoul
+2,Creature,Light Warrior Oni of the Polar Woods
+3,Artifact,Potion
+4,Spell,Fury
+5,Spell,Sorrow Pandemonium
+6,Creature,Paladin
+7,Creature,Aura Undead Griffin
+8,Creature,Wolf
+9,Spell,Vortex
+10,Enchantment,Alacrity
+11,Creature,Paladin
+12,Creature,Warlock
+13,Spell,Heal
+14,Creature,Skin-Walker
+15,Creature,Ghoul
+16,Creature,Frozen Undead Kraken
+17,Creature,Dark Monk Ogre of the Eternal Land
+18,Enchantment,Shade
+19,Spell,Mighty Frigid Gravitation
+20,Enchantment,Ardent Miracle Shield
+21,Creature,Dark King Giant of the Frozen Castle
+22,Creature,Spider
+23,Creature,Spider
+24,Enchantment,Shade
+25,Creature,Ghoul
+26,Enchantment,Ardent Grim Haste
+27,Creature,Light Thief Cyclops
+28,Creature,Paladin
+29,Creature,Wolf
+30,Spell,Gale
+31,Enchantment,Shield
+32,Artifact,Necro Boots
+33,Spell,Infuriate
+34,Creature,Ghoul
+35,Artifact,Amulet
+36,Creature,Snow Queen Cyclops
+37,Creature,Berserker
+38,Creature,Troll
+39,Creature,Paladin
+40,Creature,Troll
+41,Creature,Magi
+42,Creature,Magi
+43,Creature,Snow Queen Giant of the Bright Mountains
+44,Spell,Lightning

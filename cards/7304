@@ -1,46 +1,46 @@
-==================,DECK,7304,Medium
-0,Spell,Common,Hypnosis
-1,Creature,Common,Dwarf
-2,Enchantment,Mythic,Potent Alacrity
-3,Creature,Common,Ghoul
-4,Creature,Common,Goblin
-5,Spell,Common,Hypnosis
-6,Creature,Rare,Earth Warrior Skin-Walker
-7,Creature,Rare,Earth Lord Skin-Walker
-8,Creature,Legendary,Earth Monk Cyclops of the Haven
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Age
-11,Enchantment,Rare,Grim Invert
-12,Spell,Legendary,Potent Invisibility
-13,Creature,Common,Elf
-14,Creature,Common,Eagle
-15,Creature,Common,Orc
-16,Spell,Common,Frost
-17,Creature,Legendary,Frozen Lord Oni of the Frozen Castle
-18,Spell,Common,Frenzy
-19,Spell,Common,Heal
-20,Creature,Common,Dwarf
-21,Creature,Common,Wolf
-22,Creature,Legendary,Aura Priest Oni of the Mountains
-23,Artifact,Common,Sword
-24,Spell,Common,Lightning
-25,Creature,Common,Wolf
-26,Creature,Mythic,Death Time Phoenix of the Dead
-27,Artifact,Rare,Forged Helm
-28,Creature,Common,Ghoul
-29,Enchantment,Common,Shrink
-30,Artifact,Rare,Gloom Tome
-31,Artifact,Rare,Miracle Crown
-32,Creature,Common,Eagle
-33,Creature,Common,Orc
-34,Creature,Common,Orc
-35,Artifact,Common,Greaves
-36,Enchantment,Common,Alacrity
-37,Enchantment,Rare,Oblivion Alacrity
-38,Spell,Common,Burn
-39,Creature,Common,Paladin
-40,Creature,Common,Warlock
-41,Enchantment,Common,Drain
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Dark Undead Kraken of the Eternal Land
-44,Artifact,Rare,Shimmering Greaves
+==================,DECK,7304
+0,Spell,Wall
+1,Creature,Magi
+2,Enchantment,Irate Apocalypse Blight
+3,Creature,Ghoul
+4,Creature,Skin-Walker
+5,Spell,Ice
+6,Creature,Earth Warrior Orc
+7,Creature,Earth Lord Orc
+8,Creature,Earth Monk Giant of the Haven
+9,Creature,Ghoul
+10,Enchantment,Flight
+11,Enchantment,Oblivion Haste
+12,Spell,Ardent Apocalypse Burn
+13,Creature,Warlock
+14,Creature,Eagle
+15,Creature,Spider
+16,Spell,Infuriate
+17,Creature,Frozen Lord Oni of the Frozen Castle
+18,Spell,Revive
+19,Spell,Pandemonium
+20,Creature,Magi
+21,Creature,Wolf
+22,Creature,Aura Priest Oni of the Mountains
+23,Artifact,Sword
+24,Spell,Vortex
+25,Creature,Wolf
+26,Creature,Death Time Phoenix of the Dead
+27,Artifact,Gloom Helm
+28,Creature,Ghoul
+29,Enchantment,Agony
+30,Artifact,Lunar Tome
+31,Artifact,Frigid Crown
+32,Creature,Eagle
+33,Creature,Spider
+34,Creature,Spider
+35,Artifact,Greaves
+36,Enchantment,Haste
+37,Enchantment,Apocalypse Shade
+38,Spell,Gale
+39,Creature,Troll
+40,Creature,Berserker
+41,Enchantment,Firebreath
+42,Creature,Magi
+43,Creature,Dark Undead Ogre of the Eternal Land
+44,Artifact,Nature Greaves

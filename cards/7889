@@ -1,46 +1,46 @@
-==================,DECK,7889,Light
-0,Spell,Common,Hypnosis
-1,Spell,Common,Sorrow
-2,Artifact,Common,Crown
-3,Spell,Common,Heal
-4,Spell,Common,Ice
-5,Creature,Legendary,Aura Priest Kraken of the Magical Forest
-6,Creature,Rare,Light Assassin Griffin
-7,Creature,Common,Eagle
-8,Creature,Common,Eagle
-9,Spell,Rare,Corpse Invisibility
-10,Spell,Common,Pandemonium
-11,Enchantment,Common,Blight
-12,Artifact,Common,Gloves
-13,Enchantment,Common,Drain
-14,Creature,Common,Wolf
-15,Artifact,Common,Greaves
-16,Creature,Common,Eagle
-17,Creature,Rare,Frozen Assassin Berserker
-18,Creature,Rare,Frozen Thief Hydra
-19,Spell,Common,Revive
-20,Artifact,Rare,Nature Sigil
-21,Creature,Rare,Light Monk Fairy
-22,Artifact,Common,Sigil
-23,Spell,Legendary,Angry Assault
-24,Spell,Common,Frenzy
-25,Creature,Legendary,Death Merchant Oni of the Mountains
-26,Enchantment,Rare,Nature Flight
-27,Creature,Common,Elf
-28,Creature,Common,Magi
-29,Creature,Rare,Dark Lord Fairy
-30,Spell,Common,Fury
-31,Enchantment,Common,Blight
-32,Spell,Legendary,Instant Frost
-33,Enchantment,Common,Shrink
-34,Artifact,Common,Helmet
-35,Spell,Rare,Forged Revive
-36,Creature,Common,Ghoul
-37,Artifact,Common,Sigil
-38,Spell,Rare,Forged Freeze
-39,Creature,Common,Orc
-40,Enchantment,Common,Shield
-41,Creature,Legendary,Death Rogue Giant of the Eternal Land
-42,Spell,Common,Heal
-43,Creature,Legendary,Dark Thief Oni of the Magical Forest
-44,Spell,Common,Pandemonium
+==================,DECK,7889
+0,Spell,Freeze
+1,Spell,Heal
+2,Artifact,Crown
+3,Spell,Torment
+4,Spell,Fire
+5,Creature,Aura Priest Ogre of the Magical Forest
+6,Creature,Light Assassin Griffin
+7,Creature,Eagle
+8,Creature,Eagle
+9,Spell,Hateful Gale
+10,Spell,Burst
+11,Enchantment,Invert
+12,Artifact,Gloves
+13,Enchantment,Drain
+14,Creature,Wolf
+15,Artifact,Greaves
+16,Creature,Eagle
+17,Creature,Frozen Assassin Goblin
+18,Creature,Frozen Thief Hydra
+19,Spell,Frenzy
+20,Artifact,Nature Sigil
+21,Creature,Light Monk Kraken
+22,Artifact,Sigil
+23,Spell,Instant Dark Hypnosis
+24,Spell,Tempest
+25,Creature,Death Merchant Oni of the Mountains
+26,Enchantment,Hateful Age
+27,Creature,Warlock
+28,Creature,Fairy
+29,Creature,Dark Lord Kraken
+30,Spell,Hypnosis
+31,Enchantment,Lethargy
+32,Spell,Dire Shimmering Pandemonium
+33,Enchantment,Shade
+34,Artifact,Helmet
+35,Spell,Cataclysmic Gale
+36,Creature,Ghoul
+37,Artifact,Sigil
+38,Spell,Sorrow Revive
+39,Creature,Spider
+40,Enchantment,Flight
+41,Creature,Death Rogue Dwarf of the Eternal Land
+42,Spell,Frost
+43,Creature,Dark Thief Oni of the Magical Forest
+44,Spell,Stun

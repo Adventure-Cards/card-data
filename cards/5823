@@ -1,46 +1,46 @@
-==================,DECK,5823,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Magi
-2,Creature,Common,Ghoul
-3,Enchantment,Common,Deathgrip
-4,Creature,Common,Paladin
-5,Artifact,Common,Gauntlet
-6,Enchantment,Common,Invert
-7,Spell,Common,Hypnosis
-8,Enchantment,Common,Blight
-9,Creature,Common,Dwarf
-10,Spell,Common,Pandemonium
-11,Creature,Mythic,Death Nameless Phoenix of the Dead
-12,Creature,Common,Orc
-13,Creature,Common,Wolf
-14,Spell,Common,Burst
-15,Artifact,Common,Ghost Wand
-16,Spell,Rare,Corpse Assault
-17,Spell,Common,Pandemonium
-18,Creature,Common,Dwarf
-19,Artifact,Common,Ghost Wand
-20,Creature,Common,Spider
-21,Enchantment,Common,Drain
-22,Creature,Common,Elf
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Magi
-25,Creature,Common,Warlock
-26,Creature,Common,Eagle
-27,Creature,Mythic,Snow Time Phoenix of Hate
-28,Spell,Common,Vortex
-29,Enchantment,Common,Shade
-30,Creature,Mythic,Frozen Undead Dragon of the Void
-31,Enchantment,Common,Age
-32,Creature,Legendary,Death Lord Orge of the Swamp
-33,Creature,Mythic,Dark Time Phoenix of Illusion
-34,Enchantment,Common,Lethargy
-35,Creature,Common,Elf
-36,Creature,Common,Eagle
-37,Creature,Common,Magi
-38,Creature,Common,Eagle
-39,Creature,Common,Magi
-40,Creature,Rare,Light Rogue Griffin
-41,Creature,Rare,Snow Knight Griffin
-42,Creature,Legendary,Earth Monk Kraken of the Mountains
-43,Creature,Common,Spider
-44,Spell,Rare,Cataclysmic Sorrow
+==================,DECK,5823
+0,Creature,Skin-Walker
+1,Creature,Fairy
+2,Creature,Ghoul
+3,Enchantment,Firebreath
+4,Creature,Troll
+5,Artifact,Gauntlet
+6,Enchantment,Haste
+7,Spell,Burst
+8,Enchantment,Alacrity
+9,Creature,Magi
+10,Spell,Sorrow
+11,Creature,Death Nameless Phoenix of the Dead
+12,Creature,Spider
+13,Creature,Wolf
+14,Spell,Pandemonium
+15,Artifact,Ghost Wand
+16,Spell,Corpse Reanimate
+17,Spell,Heal
+18,Creature,Magi
+19,Artifact,Ghost Wand
+20,Creature,Paladin
+21,Enchantment,Drain
+22,Creature,Warlock
+23,Enchantment,Shrink
+24,Creature,Fairy
+25,Creature,Berserker
+26,Creature,Eagle
+27,Creature,Snow Time Phoenix of Hate
+28,Spell,Frenzy
+29,Enchantment,Blight
+30,Creature,Frozen Undead Dragon of the Void
+31,Enchantment,Shrink
+32,Creature,Death Lord Elf of the Swamp
+33,Creature,Dark Time Phoenix of Illusion
+34,Enchantment,Lethargy
+35,Creature,Warlock
+36,Creature,Eagle
+37,Creature,Fairy
+38,Creature,Eagle
+39,Creature,Fairy
+40,Creature,Light Rogue Griffin
+41,Creature,Snow Knight Griffin
+42,Creature,Earth Monk Ogre of the Mountains
+43,Creature,Paladin
+44,Spell,Sorrow Stun

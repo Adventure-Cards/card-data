@@ -1,46 +1,46 @@
-==================,DECK,7684,Light
-0,Enchantment,Common,Agony
-1,Spell,Common,Gale
-2,Spell,Common,Heal
-3,Enchantment,Common,Flight
-4,Creature,Common,Warlock
-5,Spell,Rare,Dark Heal
-6,Creature,Common,Elf
-7,Enchantment,Common,Haste
-8,Creature,Rare,Snow Merchant Minotaur
-9,Spell,Common,Stricken
-10,Spell,Rare,Necro Burst
-11,Creature,Common,Spider
-12,Spell,Rare,Nimble Invisibility
-13,Creature,Common,Magi
-14,Creature,Rare,Snow Warrior Fairy
-15,Creature,Common,Warlock
-16,Creature,Rare,Death Warrior Griffin
-17,Enchantment,Common,Agony
-18,Creature,Common,Wolf
-19,Enchantment,Rare,Miracle Drain
-20,Enchantment,Common,Strength
-21,Artifact,Common,Gloves
-22,Creature,Common,Orc
-23,Enchantment,Common,Agony
-24,Creature,Legendary,Aura Knight Orge of the Bright Mountains
-25,Enchantment,Common,Lethargy
-26,Creature,Mythic,Aura Time Phoenix of the Light
-27,Enchantment,Common,Shade
-28,Creature,Common,Wolf
-29,Creature,Rare,Frozen Assassin Minotaur
-30,Artifact,Legendary,Extreme Pendant
-31,Creature,Common,Orc
-32,Creature,Common,Wolf
-33,Enchantment,Common,Blight
-34,Spell,Common,Pandemonium
-35,Creature,Common,Wolf
-36,Creature,Common,Eagle
-37,Creature,Common,Orc
-38,Artifact,Legendary,Mighty Potion
-39,Enchantment,Rare,Frigid Lethargy
-40,Creature,Common,Ghoul
-41,Creature,Common,Wolf
-42,Spell,Rare,Lunar Infuriate
-43,Creature,Common,Dwarf
-44,Creature,Common,Paladin
+==================,DECK,7684
+0,Enchantment,Shade
+1,Spell,Rage
+2,Spell,Gravitation
+3,Enchantment,Firebreath
+4,Creature,Berserker
+5,Spell,Lunar Wall
+6,Creature,Warlock
+7,Enchantment,Shield
+8,Creature,Snow Merchant Cyclops
+9,Spell,Burst
+10,Spell,Forged Gravitation
+11,Creature,Paladin
+12,Spell,Shimmering Ice
+13,Creature,Fairy
+14,Creature,Snow Warrior Kraken
+15,Creature,Berserker
+16,Creature,Death Warrior Griffin
+17,Enchantment,Lethargy
+18,Creature,Wolf
+19,Enchantment,Apocalypse Shade
+20,Enchantment,Haste
+21,Artifact,Gloves
+22,Creature,Spider
+23,Enchantment,Strength
+24,Creature,Aura Knight Elf of the Bright Mountains
+25,Enchantment,Drain
+26,Creature,Aura Time Phoenix of the Light
+27,Enchantment,Blight
+28,Creature,Wolf
+29,Creature,Frozen Assassin Cyclops
+30,Artifact,Irate Miracle Pendant
+31,Creature,Spider
+32,Creature,Wolf
+33,Enchantment,Shrink
+34,Spell,Frenzy
+35,Creature,Wolf
+36,Creature,Eagle
+37,Creature,Spider
+38,Artifact,Clever Miracle Potion
+39,Enchantment,Grim Drain
+40,Creature,Ghoul
+41,Creature,Wolf
+42,Spell,Sorrow Stricken
+43,Creature,Magi
+44,Creature,Troll

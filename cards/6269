@@ -1,46 +1,46 @@
-==================,DECK,6269,Light
-0,Spell,Common,Hypnosis
-1,Creature,Common,Magi
-2,Spell,Legendary,Intense Assault
-3,Enchantment,Common,Drain
-4,Creature,Common,Eagle
-5,Creature,Common,Dwarf
-6,Creature,Common,Magi
-7,Creature,Common,Warlock
-8,Creature,Common,Dwarf
-9,Creature,Common,Paladin
-10,Spell,Common,Revive
-11,Spell,Rare,Solar Assault
-12,Creature,Common,Goblin
-13,Spell,Legendary,Mighty Fury
-14,Artifact,Common,Divine Robe
-15,Artifact,Common,Divine Robe
-16,Creature,Common,Orc
-17,Creature,Common,Ghoul
-18,Creature,Common,Paladin
-19,Artifact,Legendary,Angry Greaves
-20,Spell,Common,Reanimate
-21,Creature,Rare,Dark Merchant Fairy
-22,Spell,Common,Assault
-23,Artifact,Legendary,Mighty Amulet
-24,Creature,Common,Warlock
-25,Enchantment,Rare,Hateful Deathgrip
-26,Creature,Common,Wolf
-27,Creature,Rare,Aura Assassin Fairy
-28,Creature,Common,Elf
-29,Creature,Common,Eagle
-30,Creature,Rare,Light King Fairy
-31,Creature,Common,Wolf
-32,Spell,Common,Revive
-33,Spell,Rare,Forged Vortex
-34,Spell,Rare,Forged Revive
-35,Enchantment,Common,Drain
-36,Creature,Rare,Frozen Priest Griffin
-37,Spell,Common,Invisibility
-38,Creature,Common,Magi
-39,Creature,Rare,Earth Undead Skin-Walker
-40,Creature,Mythic,Aura Grand Wizard of the Light
-41,Spell,Common,Lightning
-42,Enchantment,Common,Invert
-43,Creature,Common,Paladin
-44,Creature,Common,Magi
+==================,DECK,6269
+0,Spell,Infuriate
+1,Creature,Fairy
+2,Spell,Ardent Necro Infuriate
+3,Enchantment,Haste
+4,Creature,Eagle
+5,Creature,Magi
+6,Creature,Fairy
+7,Creature,Berserker
+8,Creature,Magi
+9,Creature,Troll
+10,Spell,Infuriate
+11,Spell,Corpse Lightning
+12,Creature,Skin-Walker
+13,Spell,Empyrean Lunar Vortex
+14,Artifact,Divine Robe
+15,Artifact,Divine Robe
+16,Creature,Spider
+17,Creature,Ghoul
+18,Creature,Troll
+19,Artifact,Urgent Sorrow Greaves
+20,Spell,Tempest
+21,Creature,Dark Merchant Kraken
+22,Spell,Heal
+23,Artifact,Urgent Chimeric Amulet
+24,Creature,Berserker
+25,Enchantment,Sorrow Flight
+26,Creature,Wolf
+27,Creature,Aura Assassin Kraken
+28,Creature,Warlock
+29,Creature,Eagle
+30,Creature,Light King Kraken
+31,Creature,Wolf
+32,Spell,Burn
+33,Spell,Chimeric Vortex
+34,Spell,Lunar Torment
+35,Enchantment,Alacrity
+36,Creature,Frozen Priest Griffin
+37,Spell,Rage
+38,Creature,Fairy
+39,Creature,Earth Undead Orc
+40,Creature,Aura Grand Wizard of the Light
+41,Spell,Hypnosis
+42,Enchantment,Shrink
+43,Creature,Troll
+44,Creature,Fairy

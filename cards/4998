@@ -1,46 +1,46 @@
-==================,DECK,4998,Light
-0,Artifact,Common,Scythe
-1,Enchantment,Common,Drain
-2,Spell,Common,Heal
-3,Enchantment,Common,Deathgrip
-4,Spell,Legendary,Angry Fury
-5,Spell,Rare,Lunar Hypnosis
-6,Creature,Mythic,Aura Undead Dragon of the Light
-7,Enchantment,Legendary,Potent Shade
-8,Spell,Common,Burn
-9,Creature,Common,Wolf
-10,Creature,Common,Wolf
-11,Creature,Mythic,Death Time Dragon of the Dead
-12,Enchantment,Rare,Solar Strength
-13,Creature,Common,Eagle
-14,Creature,Common,Spider
-15,Spell,Legendary,Angry Torment
-16,Enchantment,Rare,Miracle Drain
-17,Creature,Rare,Light Rogue Minotaur
-18,Creature,Common,Eagle
-19,Creature,Legendary,Frozen Assassin Giant of the Low Hills
-20,Creature,Rare,Light Priest Skin-Walker
-21,Creature,Common,Ghoul
-22,Creature,Common,Spider
-23,Artifact,Rare,Necro Ring
-24,Creature,Common,Ghoul
-25,Creature,Rare,Death Thief Skin-Walker
-26,Spell,Common,Reanimate
-27,Artifact,Legendary,Potent Pendant
-28,Spell,Rare,Shimmering Stun
-29,Creature,Rare,Light Undead Berserker
-30,Spell,Rare,Apocalypse Burst
-31,Creature,Rare,Snow Rogue Minotaur
-32,Enchantment,Rare,Solar Agony
-33,Enchantment,Rare,Nature Shrink
-34,Creature,Rare,Light Monk Berserker
-35,Enchantment,Mythic,Mighty Shade
-36,Creature,Common,Goblin
-37,Enchantment,Common,Haste
-38,Creature,Rare,Light Undead Griffin
-39,Creature,Common,Spider
-40,Creature,Common,Orc
-41,Enchantment,Common,Alacrity
-42,Creature,Common,Warlock
-43,Spell,Rare,Nature Burst
-44,Creature,Common,Spider
+==================,DECK,4998
+0,Artifact,Scythe
+1,Enchantment,Deathgrip
+2,Spell,Torment
+3,Enchantment,Agony
+4,Spell,Clever Gloom Pandemonium
+5,Spell,Cataclysmic Reanimate
+6,Creature,Aura Undead Dragon of the Light
+7,Enchantment,Urgent Frigid Invert
+8,Spell,Pandemonium
+9,Creature,Wolf
+10,Creature,Wolf
+11,Creature,Death Time Dragon of the Dead
+12,Enchantment,Solar Agony
+13,Creature,Eagle
+14,Creature,Paladin
+15,Spell,Irate Sorrow Frenzy
+16,Enchantment,Apocalypse Shade
+17,Creature,Light Rogue Cyclops
+18,Creature,Eagle
+19,Creature,Frozen Assassin Dwarf of the Low Hills
+20,Creature,Light Priest Orc
+21,Creature,Ghoul
+22,Creature,Paladin
+23,Artifact,Solar Ring
+24,Creature,Ghoul
+25,Creature,Death Thief Orc
+26,Spell,Fireball
+27,Artifact,Irate Oblivion Pendant
+28,Spell,Necro Infuriate
+29,Creature,Light Undead Goblin
+30,Spell,Victory Ice
+31,Creature,Snow Rogue Cyclops
+32,Enchantment,Corpse Strength
+33,Enchantment,Necro Strength
+34,Creature,Light Monk Goblin
+35,Enchantment,Ardent Chimeric Shield
+36,Creature,Skin-Walker
+37,Enchantment,Shield
+38,Creature,Light Undead Griffin
+39,Creature,Paladin
+40,Creature,Spider
+41,Enchantment,Flight
+42,Creature,Berserker
+43,Spell,Forged Heal
+44,Creature,Paladin

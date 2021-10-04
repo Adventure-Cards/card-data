@@ -1,46 +1,46 @@
-==================,DECK,4716,Light
-0,Creature,Common,Orc
-1,Spell,Common,Infuriate
-2,Creature,Common,Spider
-3,Spell,Common,Gale
-4,Spell,Common,Frenzy
-5,Enchantment,Common,Flight
-6,Spell,Common,Assault
-7,Artifact,Rare,Forged Ghost Wand
-8,Spell,Legendary,Urgent Rage
-9,Spell,Common,Pandemonium
-10,Creature,Common,Magi
-11,Artifact,Common,Amulet
-12,Creature,Rare,Frozen Assassin Fairy
-13,Spell,Legendary,Angry Revive
-14,Enchantment,Common,Drain
-15,Enchantment,Common,Shrink
-16,Creature,Common,Wolf
-17,Creature,Rare,Death Queen Minotaur
-18,Artifact,Common,Belt
-19,Creature,Common,Ghoul
-20,Creature,Common,Orc
-21,Creature,Common,Spider
-22,Creature,Rare,Light Monk Minotaur
-23,Creature,Common,Orc
-24,Creature,Common,Goblin
-25,Creature,Common,Wolf
-26,Spell,Common,Invisibility
-27,Creature,Common,Magi
-28,Artifact,Common,Potion
-29,Enchantment,Common,Flight
-30,Creature,Common,Ghoul
-31,Creature,Common,Wolf
-32,Artifact,Legendary,Dire Cloak
-33,Creature,Common,Magi
-34,Spell,Rare,Solar Invisibility
-35,Creature,Common,Ghoul
-36,Creature,Legendary,Dark Monk Oni of the Swamp
-37,Spell,Rare,Corpse Revive
-38,Spell,Rare,Cataclysmic Reanimate
-39,Creature,Common,Magi
-40,Creature,Common,Dwarf
-41,Creature,Common,Dwarf
-42,Creature,Rare,Light Lord Skin-Walker
-43,Artifact,Common,Bracers
-44,Creature,Legendary,Dark Rogue Orge of the Black Stone
+==================,DECK,4716
+0,Creature,Spider
+1,Spell,Fireball
+2,Creature,Paladin
+3,Spell,Fury
+4,Spell,Lightning
+5,Enchantment,Haste
+6,Spell,Gale
+7,Artifact,Dark Ghost Wand
+8,Spell,Irate Forged Frost
+9,Spell,Wall
+10,Creature,Fairy
+11,Artifact,Amulet
+12,Creature,Frozen Assassin Kraken
+13,Spell,Dire Miracle Pandemonium
+14,Enchantment,Agony
+15,Enchantment,Age
+16,Creature,Wolf
+17,Creature,Death Queen Cyclops
+18,Artifact,Belt
+19,Creature,Ghoul
+20,Creature,Spider
+21,Creature,Paladin
+22,Creature,Light Monk Cyclops
+23,Creature,Spider
+24,Creature,Skin-Walker
+25,Creature,Wolf
+26,Spell,Rage
+27,Creature,Fairy
+28,Artifact,Potion
+29,Enchantment,Alacrity
+30,Creature,Ghoul
+31,Creature,Wolf
+32,Artifact,Ardent Frigid Cloak
+33,Creature,Fairy
+34,Spell,Nature Revive
+35,Creature,Ghoul
+36,Creature,Dark Monk Oni of the Swamp
+37,Spell,Forged Ice
+38,Spell,Chimeric Fury
+39,Creature,Fairy
+40,Creature,Magi
+41,Creature,Magi
+42,Creature,Light Lord Orc
+43,Artifact,Bracers
+44,Creature,Dark Rogue Elf of the Black Stone

@@ -1,46 +1,46 @@
-==================,DECK,4489,Strong
-0,Creature,Common,Magi
-1,Creature,Rare,Earth Warrior Berserker
-2,Spell,Common,Assault
-3,Creature,Common,Paladin
-4,Artifact,Common,Belt
-5,Creature,Mythic,Frozen Chaos Wizard of the Void
-6,Spell,Common,Burst
-7,Creature,Common,Ghoul
-8,Creature,Rare,Snow Priest Minotaur
-9,Spell,Rare,Grim Rage
-10,Creature,Common,Wolf
-11,Creature,Rare,Light Assassin Minotaur
-12,Creature,Rare,Dark Assassin Berserker
-13,Enchantment,Rare,Miracle Deathgrip
-14,Artifact,Rare,Forged Amulet
-15,Spell,Rare,Cataclysmic Ice
-16,Creature,Rare,Snow Thief Hydra
-17,Spell,Common,Maelstrom
-18,Creature,Common,Paladin
-19,Enchantment,Common,Shade
-20,Creature,Rare,Frozen Priest Skin-Walker
-21,Creature,Common,Paladin
-22,Artifact,Common,Divine Robe
-23,Creature,Common,Warlock
-24,Creature,Rare,Earth Warrior Griffin
-25,Artifact,Rare,Forged Sword
-26,Spell,Rare,Hateful Burn
-27,Creature,Rare,Dark Knight Hydra
-28,Creature,Rare,Frozen Merchant Minotaur
-29,Creature,Common,Wolf
-30,Artifact,Mythic,Intense Amulet
-31,Enchantment,Rare,Shimmering Deathgrip
-32,Creature,Rare,Dark Knight Hydra
-33,Artifact,Common,Crown
-34,Artifact,Common,Gloves
-35,Spell,Common,Gale
-36,Creature,Common,Goblin
-37,Creature,Rare,Snow Assassin Minotaur
-38,Spell,Common,Freeze
-39,Creature,Mythic,Snow Time Phoenix of Hate
-40,Creature,Mythic,Dark Grand Demon of Illusion
-41,Creature,Legendary,Light Rogue Kraken of the West
-42,Enchantment,Rare,Nature Age
-43,Creature,Common,Goblin
-44,Spell,Common,Gale
+==================,DECK,4489
+0,Creature,Fairy
+1,Creature,Earth Warrior Goblin
+2,Spell,Sorrow
+3,Creature,Troll
+4,Artifact,Belt
+5,Creature,Frozen Chaos Wizard of the Void
+6,Spell,Burn
+7,Creature,Ghoul
+8,Creature,Snow Priest Cyclops
+9,Spell,Frigid Tempest
+10,Creature,Wolf
+11,Creature,Light Assassin Cyclops
+12,Creature,Dark Assassin Goblin
+13,Enchantment,Oblivion Haste
+14,Artifact,Chimeric Amulet
+15,Spell,Miracle Hypnosis
+16,Creature,Snow Thief Hydra
+17,Spell,Assault
+18,Creature,Troll
+19,Enchantment,Haste
+20,Creature,Frozen Priest Orc
+21,Creature,Troll
+22,Artifact,Divine Robe
+23,Creature,Berserker
+24,Creature,Earth Warrior Griffin
+25,Artifact,Cataclysmic Sword
+26,Spell,Dark Fireball
+27,Creature,Dark Knight Hydra
+28,Creature,Frozen Merchant Cyclops
+29,Creature,Wolf
+30,Artifact,Urgent Forged Amulet
+31,Enchantment,Shimmering Deathgrip
+32,Creature,Dark Knight Hydra
+33,Artifact,Crown
+34,Artifact,Gloves
+35,Spell,Gale
+36,Creature,Skin-Walker
+37,Creature,Snow Assassin Cyclops
+38,Spell,Frost
+39,Creature,Snow Time Phoenix of Hate
+40,Creature,Dark Grand Demon of Illusion
+41,Creature,Light Rogue Ogre of the West
+42,Enchantment,Nature Agony
+43,Creature,Skin-Walker
+44,Spell,Sorrow

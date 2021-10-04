@@ -1,46 +1,46 @@
-==================,DECK,7800,Medium
-0,Creature,Common,Paladin
-1,Spell,Rare,Forged Freeze
-2,Enchantment,Mythic,Extreme Alacrity
-3,Spell,Rare,Apocalypse Reanimate
-4,Spell,Rare,Gloom Wall
-5,Enchantment,Mythic,Clever Lethargy
-6,Creature,Common,Orc
-7,Creature,Rare,Dark Merchant Berserker
-8,Creature,Rare,Light Warrior Berserker
-9,Creature,Rare,Light King Griffin
-10,Creature,Legendary,Frozen Monk Orge of the Mountains
-11,Creature,Rare,Earth Warrior Hydra
-12,Enchantment,Rare,Forged Shield
-13,Spell,Rare,Life Hypnosis
-14,Enchantment,Common,Shade
-15,Creature,Common,Paladin
-16,Creature,Common,Wolf
-17,Creature,Rare,Snow Queen Skin-Walker
-18,Enchantment,Mythic,Urgent Haste
-19,Enchantment,Rare,Life Flight
-20,Spell,Mythic,Urgent Lightning
-21,Creature,Legendary,Snow Undead Kraken of the Plains
-22,Enchantment,Common,Alacrity
-23,Spell,Rare,Apocalypse Fury
-24,Creature,Legendary,Death Priest Orge of the Black Stone
-25,Creature,Common,Spider
-26,Spell,Common,Burn
-27,Spell,Common,Frenzy
-28,Spell,Rare,Grim Torment
-29,Creature,Common,Wolf
-30,Enchantment,Rare,Cataclysmic Flight
-31,Creature,Common,Wolf
-32,Spell,Common,Rage
-33,Spell,Common,Rage
-34,Enchantment,Common,Blight
-35,Artifact,Common,Sword
-36,Creature,Rare,Death Rogue Minotaur
-37,Creature,Common,Goblin
-38,Spell,Common,Frenzy
-39,Creature,Common,Orc
-40,Creature,Common,Ghoul
-41,Creature,Common,Magi
-42,Spell,Common,Burst
-43,Spell,Common,Infuriate
-44,Creature,Rare,Light King Hydra
+==================,DECK,7800
+0,Creature,Troll
+1,Spell,Gloom Burn
+2,Enchantment,Irate Dark Alacrity
+3,Spell,Oblivion Freeze
+4,Spell,Lunar Infuriate
+5,Enchantment,Dire Grim Shade
+6,Creature,Spider
+7,Creature,Dark Merchant Goblin
+8,Creature,Light Warrior Goblin
+9,Creature,Light King Griffin
+10,Creature,Frozen Monk Elf of the Mountains
+11,Creature,Earth Warrior Hydra
+12,Enchantment,Gloom Shield
+13,Spell,Grim Frenzy
+14,Enchantment,Lethargy
+15,Creature,Troll
+16,Creature,Wolf
+17,Creature,Snow Queen Orc
+18,Enchantment,Zealous Corpse Deathgrip
+19,Enchantment,Grim Drain
+20,Spell,Instant Nature Revive
+21,Creature,Snow Undead Ogre of the Plains
+22,Enchantment,Age
+23,Spell,Victory Sorrow
+24,Creature,Death Priest Elf of the Black Stone
+25,Creature,Paladin
+26,Spell,Sorrow
+27,Spell,Tempest
+28,Spell,Grim Burst
+29,Creature,Wolf
+30,Enchantment,Lunar Alacrity
+31,Creature,Wolf
+32,Spell,Burst
+33,Spell,Vortex
+34,Enchantment,Shrink
+35,Artifact,Sword
+36,Creature,Death Rogue Cyclops
+37,Creature,Skin-Walker
+38,Spell,Pandemonium
+39,Creature,Spider
+40,Creature,Ghoul
+41,Creature,Fairy
+42,Spell,Lightning
+43,Spell,Tempest
+44,Creature,Light King Hydra

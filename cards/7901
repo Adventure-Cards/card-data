@@ -1,46 +1,46 @@
-==================,DECK,7901,Light
-0,Creature,Common,Elf
-1,Creature,Common,Wolf
-2,Artifact,Common,Gloves
-3,Creature,Common,Magi
-4,Creature,Common,Wolf
-5,Spell,Legendary,Potent Lightning
-6,Artifact,Common,Helmet
-7,Creature,Common,Goblin
-8,Artifact,Rare,Corpse Cloak
-9,Artifact,Common,Scepter
-10,Enchantment,Rare,Shimmering Haste
-11,Spell,Legendary,Intense Frost
-12,Enchantment,Common,Age
-13,Spell,Common,Infuriate
-14,Creature,Common,Goblin
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Ice
-17,Creature,Common,Ghoul
-18,Spell,Common,Heal
-19,Spell,Common,Fury
-20,Creature,Common,Eagle
-21,Creature,Common,Ghoul
-22,Creature,Common,Warlock
-23,Enchantment,Rare,Life Blight
-24,Creature,Common,Magi
-25,Spell,Rare,Cataclysmic Reanimate
-26,Creature,Rare,Frozen Lord Berserker
-27,Artifact,Common,Tome
-28,Creature,Common,Goblin
-29,Enchantment,Legendary,Clever Invert
-30,Creature,Common,Ghoul
-31,Artifact,Common,Ghost Wand
-32,Creature,Rare,Earth Priest Minotaur
-33,Artifact,Rare,Shimmering Boots
-34,Creature,Common,Elf
-35,Artifact,Common,Pendant
-36,Enchantment,Rare,Miracle Haste
-37,Creature,Common,Goblin
-38,Enchantment,Common,Alacrity
-39,Spell,Common,Torment
-40,Creature,Common,Orc
-41,Creature,Common,Ghoul
-42,Creature,Common,Goblin
-43,Creature,Common,Dwarf
-44,Creature,Common,Goblin
+==================,DECK,7901
+0,Creature,Warlock
+1,Creature,Wolf
+2,Artifact,Gloves
+3,Creature,Fairy
+4,Creature,Wolf
+5,Spell,Dire Grim Hypnosis
+6,Artifact,Helmet
+7,Creature,Skin-Walker
+8,Artifact,Corpse Cloak
+9,Artifact,Scepter
+10,Enchantment,Corpse Strength
+11,Spell,Dire Necro Stricken
+12,Enchantment,Shield
+13,Spell,Vortex
+14,Creature,Skin-Walker
+15,Enchantment,Deathgrip
+16,Spell,Gale
+17,Creature,Ghoul
+18,Spell,Maelstrom
+19,Spell,Gravitation
+20,Creature,Eagle
+21,Creature,Ghoul
+22,Creature,Berserker
+23,Enchantment,Nimble Shade
+24,Creature,Fairy
+25,Spell,Dark Reanimate
+26,Creature,Frozen Lord Goblin
+27,Artifact,Tome
+28,Creature,Skin-Walker
+29,Enchantment,Irate Oblivion Blight
+30,Creature,Ghoul
+31,Artifact,Ghost Wand
+32,Creature,Earth Priest Cyclops
+33,Artifact,Necro Boots
+34,Creature,Warlock
+35,Artifact,Pendant
+36,Enchantment,Life Drain
+37,Creature,Skin-Walker
+38,Enchantment,Agony
+39,Spell,Fire
+40,Creature,Spider
+41,Creature,Ghoul
+42,Creature,Skin-Walker
+43,Creature,Magi
+44,Creature,Skin-Walker

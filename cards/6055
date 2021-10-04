@@ -1,46 +1,46 @@
-==================,DECK,6055,Medium
-0,Creature,Common,Spider
-1,Spell,Common,Invisibility
-2,Artifact,Rare,Nimble Greaves
-3,Creature,Legendary,Snow Knight Orge of the Magical Forest
-4,Spell,Legendary,Potent Burn
-5,Spell,Mythic,Potent Maelstrom
-6,Creature,Legendary,Light Priest Cyclops of the Bright Mountains
-7,Enchantment,Common,Invert
-8,Creature,Common,Wolf
-9,Enchantment,Rare,Apocalypse Deathgrip
-10,Creature,Common,Goblin
-11,Creature,Common,Spider
-12,Spell,Mythic,Clever Assault
-13,Enchantment,Common,Lethargy
-14,Creature,Legendary,Death Queen Cyclops of the Eternal Land
-15,Artifact,Legendary,Mighty Ghost Wand
-16,Creature,Common,Dwarf
-17,Creature,Common,Eagle
-18,Spell,Common,Lightning
-19,Creature,Rare,Earth Knight Minotaur
-20,Spell,Rare,Solar Assault
-21,Creature,Mythic,Snow Ancient Demon of Hate
-22,Spell,Common,Lightning
-23,Enchantment,Rare,Cataclysmic Drain
-24,Creature,Rare,Aura Monk Minotaur
-25,Creature,Common,Ghoul
-26,Creature,Common,Dwarf
-27,Creature,Common,Magi
-28,Spell,Mythic,Extreme Reanimate
-29,Enchantment,Common,Alacrity
-30,Enchantment,Common,Lethargy
-31,Creature,Legendary,Light Priest Cyclops of the Eastern Skies
-32,Creature,Common,Warlock
-33,Creature,Legendary,Aura Rogue Oni of the Frozen Castle
-34,Spell,Common,Sorrow
-35,Creature,Rare,Frozen Lord Hydra
-36,Creature,Mythic,Light Chaos Demon of the Sky
-37,Creature,Common,Orc
-38,Creature,Common,Goblin
-39,Creature,Rare,Light Merchant Fairy
-40,Creature,Legendary,Light Undead Kraken of the Eternal Land
-41,Creature,Rare,Earth Undead Berserker
-42,Enchantment,Common,Agony
-43,Artifact,Common,Helm
-44,Artifact,Rare,Necro Potion
+==================,DECK,6055
+0,Creature,Paladin
+1,Spell,Tempest
+2,Artifact,Hateful Greaves
+3,Creature,Snow Knight Elf of the Magical Forest
+4,Spell,Empyrean Life Pandemonium
+5,Spell,Clever Life Vortex
+6,Creature,Light Priest Giant of the Bright Mountains
+7,Enchantment,Shield
+8,Creature,Wolf
+9,Enchantment,Oblivion Haste
+10,Creature,Skin-Walker
+11,Creature,Paladin
+12,Spell,Dire Apocalypse Frenzy
+13,Enchantment,Shield
+14,Creature,Death Queen Giant of the Eternal Land
+15,Artifact,Mighty Dark Ghost Wand
+16,Creature,Magi
+17,Creature,Eagle
+18,Spell,Fire
+19,Creature,Earth Knight Cyclops
+20,Spell,Shimmering Torment
+21,Creature,Snow Ancient Demon of Hate
+22,Spell,Burst
+23,Enchantment,Dark Alacrity
+24,Creature,Aura Monk Cyclops
+25,Creature,Ghoul
+26,Creature,Magi
+27,Creature,Fairy
+28,Spell,Clever Chimeric Reanimate
+29,Enchantment,Blight
+30,Enchantment,Shrink
+31,Creature,Light Priest Giant of the Eastern Skies
+32,Creature,Berserker
+33,Creature,Aura Rogue Oni of the Frozen Castle
+34,Spell,Gravitation
+35,Creature,Frozen Lord Hydra
+36,Creature,Light Chaos Demon of the Sky
+37,Creature,Spider
+38,Creature,Skin-Walker
+39,Creature,Light Merchant Kraken
+40,Creature,Light Undead Ogre of the Eternal Land
+41,Creature,Earth Undead Goblin
+42,Enchantment,Alacrity
+43,Artifact,Helm
+44,Artifact,Solar Potion

@@ -1,46 +1,46 @@
-==================,DECK,6332,Medium
-0,Creature,Common,Wolf
-1,Creature,Legendary,Frozen Undead Oni of the Plains
-2,Enchantment,Mythic,Intense Drain
-3,Spell,Common,Gale
-4,Creature,Common,Warlock
-5,Enchantment,Common,Alacrity
-6,Spell,Legendary,Extreme Stun
-7,Spell,Rare,Nimble Frenzy
-8,Creature,Common,Wolf
-9,Artifact,Common,Potion
-10,Spell,Common,Assault
-11,Spell,Common,Hypnosis
-12,Creature,Rare,Light Undead Minotaur
-13,Creature,Rare,Light Warrior Griffin
-14,Spell,Common,Lightning
-15,Creature,Common,Dwarf
-16,Creature,Common,Magi
-17,Spell,Rare,Nimble Gravitation
-18,Creature,Common,Elf
-19,Creature,Common,Warlock
-20,Creature,Common,Magi
-21,Creature,Common,Spider
-22,Creature,Rare,Earth Assassin Berserker
-23,Creature,Legendary,Light Assassin Giant of the Frozen Castle
-24,Artifact,Rare,Corpse Bracers
-25,Spell,Common,Freeze
-26,Spell,Common,Infuriate
-27,Enchantment,Common,Haste
-28,Artifact,Rare,Corpse Belt
-29,Enchantment,Mythic,Angry Lethargy
-30,Creature,Rare,Death Merchant Fairy
-31,Enchantment,Rare,Solar Lethargy
-32,Creature,Rare,Light King Hydra
-33,Creature,Legendary,Dark Rogue Giant of the Arctic Blizzards
-34,Creature,Common,Paladin
-35,Enchantment,Rare,Forged Invert
-36,Spell,Mythic,Urgent Assault
-37,Spell,Legendary,Urgent Stricken
-38,Creature,Common,Elf
-39,Creature,Rare,Dark Knight Minotaur
-40,Creature,Rare,Dark Priest Griffin
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Drain
-43,Spell,Rare,Dark Wall
-44,Creature,Common,Wolf
+==================,DECK,6332
+0,Creature,Wolf
+1,Creature,Frozen Undead Oni of the Plains
+2,Enchantment,Empyrean Forged Age
+3,Spell,Fire
+4,Creature,Berserker
+5,Enchantment,Invert
+6,Spell,Clever Lunar Pandemonium
+7,Spell,Hateful Maelstrom
+8,Creature,Wolf
+9,Artifact,Potion
+10,Spell,Assault
+11,Spell,Lightning
+12,Creature,Light Undead Cyclops
+13,Creature,Light Warrior Griffin
+14,Spell,Gale
+15,Creature,Magi
+16,Creature,Fairy
+17,Spell,Shimmering Pandemonium
+18,Creature,Warlock
+19,Creature,Berserker
+20,Creature,Fairy
+21,Creature,Paladin
+22,Creature,Earth Assassin Goblin
+23,Creature,Light Assassin Dwarf of the Frozen Castle
+24,Artifact,Shimmering Bracers
+25,Spell,Fireball
+26,Spell,Infuriate
+27,Enchantment,Firebreath
+28,Artifact,Nature Belt
+29,Enchantment,Ardent Lunar Shield
+30,Creature,Death Merchant Kraken
+31,Enchantment,Hateful Strength
+32,Creature,Light King Hydra
+33,Creature,Dark Rogue Dwarf of the Arctic Blizzards
+34,Creature,Troll
+35,Enchantment,Sorrow Alacrity
+36,Spell,Urgent Shimmering Frenzy
+37,Spell,Mighty Forged Fireball
+38,Creature,Warlock
+39,Creature,Dark Knight Cyclops
+40,Creature,Dark Priest Griffin
+41,Creature,Magi
+42,Enchantment,Age
+43,Spell,Sorrow Invisibility
+44,Creature,Wolf

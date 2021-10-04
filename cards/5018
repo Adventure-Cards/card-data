@@ -1,46 +1,46 @@
-==================,DECK,5018,Light
-0,Creature,Common,Spider
-1,Creature,Common,Warlock
-2,Enchantment,Common,Lethargy
-3,Creature,Common,Dwarf
-4,Enchantment,Rare,Lunar Shrink
-5,Artifact,Common,Helmet
-6,Creature,Rare,Death Monk Berserker
-7,Enchantment,Mythic,Clever Age
-8,Enchantment,Common,Flight
-9,Creature,Rare,Death Assassin Berserker
-10,Creature,Common,Dwarf
-11,Enchantment,Rare,Nature Haste
-12,Artifact,Common,Helmet
-13,Spell,Common,Pandemonium
-14,Creature,Common,Wolf
-15,Enchantment,Common,Drain
-16,Artifact,Rare,Gloom Helm
-17,Creature,Common,Eagle
-18,Creature,Common,Eagle
-19,Spell,Rare,Grim Revive
-20,Creature,Rare,Snow Assassin Berserker
-21,Creature,Rare,Aura Rogue Fairy
-22,Enchantment,Common,Shrink
-23,Creature,Common,Warlock
-24,Creature,Common,Magi
-25,Creature,Common,Goblin
-26,Enchantment,Rare,Cataclysmic Blight
-27,Enchantment,Common,Lethargy
-28,Enchantment,Rare,Necro Drain
-29,Enchantment,Common,Blight
-30,Creature,Common,Elf
-31,Enchantment,Rare,Oblivion Alacrity
-32,Artifact,Common,Bracers
-33,Enchantment,Common,Blight
-34,Creature,Rare,Snow Priest Griffin
-35,Creature,Common,Magi
-36,Creature,Rare,Aura Queen Griffin
-37,Creature,Common,Goblin
-38,Creature,Common,Dwarf
-39,Creature,Mythic,Frozen Undead Phoenix of the Void
-40,Creature,Common,Warlock
-41,Spell,Common,Reanimate
-42,Artifact,Common,Staff
-43,Creature,Common,Magi
-44,Artifact,Legendary,Clever Potion
+==================,DECK,5018
+0,Creature,Paladin
+1,Creature,Berserker
+2,Enchantment,Agony
+3,Creature,Magi
+4,Enchantment,Chimeric Shrink
+5,Artifact,Helmet
+6,Creature,Death Monk Goblin
+7,Enchantment,Empyrean Victory Shade
+8,Enchantment,Firebreath
+9,Creature,Death Assassin Goblin
+10,Creature,Magi
+11,Enchantment,Corpse Agony
+12,Artifact,Helmet
+13,Spell,Ice
+14,Creature,Wolf
+15,Enchantment,Invert
+16,Artifact,Sorrow Helm
+17,Creature,Eagle
+18,Creature,Eagle
+19,Spell,Victory Burn
+20,Creature,Snow Assassin Goblin
+21,Creature,Aura Rogue Kraken
+22,Enchantment,Shade
+23,Creature,Berserker
+24,Creature,Fairy
+25,Creature,Skin-Walker
+26,Enchantment,Cataclysmic Shield
+27,Enchantment,Shrink
+28,Enchantment,Forged Age
+29,Enchantment,Blight
+30,Creature,Warlock
+31,Enchantment,Apocalypse Shade
+32,Artifact,Bracers
+33,Enchantment,Lethargy
+34,Creature,Snow Priest Griffin
+35,Creature,Fairy
+36,Creature,Aura Queen Griffin
+37,Creature,Skin-Walker
+38,Creature,Magi
+39,Creature,Frozen Undead Phoenix of the Void
+40,Creature,Berserker
+41,Spell,Maelstrom
+42,Artifact,Staff
+43,Creature,Fairy
+44,Artifact,Clever Victory Potion

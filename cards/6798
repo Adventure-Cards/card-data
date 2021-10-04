@@ -1,46 +1,46 @@
-==================,DECK,6798,Light
-0,Spell,Common,Rage
-1,Creature,Common,Eagle
-2,Enchantment,Common,Blight
-3,Spell,Rare,Forged Gravitation
-4,Creature,Common,Paladin
-5,Artifact,Common,Shield
-6,Artifact,Common,Pendant
-7,Creature,Rare,Earth Thief Skin-Walker
-8,Spell,Common,Burn
-9,Spell,Common,Frenzy
-10,Creature,Common,Goblin
-11,Creature,Rare,Aura Warrior Minotaur
-12,Spell,Common,Torment
-13,Artifact,Common,Greaves
-14,Creature,Common,Wolf
-15,Enchantment,Common,Blight
-16,Creature,Common,Dwarf
-17,Spell,Common,Freeze
-18,Creature,Common,Ghoul
-19,Enchantment,Rare,Miracle Deathgrip
-20,Creature,Common,Dwarf
-21,Spell,Common,Gale
-22,Artifact,Common,Ghost Wand
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Flight
-25,Spell,Common,Gravitation
-26,Creature,Common,Eagle
-27,Spell,Common,Reanimate
-28,Enchantment,Common,Haste
-29,Creature,Common,Elf
-30,Creature,Common,Paladin
-31,Enchantment,Rare,Apocalypse Haste
-32,Spell,Common,Maelstrom
-33,Artifact,Common,Crown
-34,Creature,Common,Eagle
-35,Creature,Common,Goblin
-36,Enchantment,Common,Lethargy
-37,Creature,Rare,Aura Priest Griffin
-38,Spell,Common,Rage
-39,Spell,Rare,Grim Invisibility
-40,Enchantment,Common,Flight
-41,Creature,Rare,Earth Thief Skin-Walker
-42,Spell,Rare,Solar Torment
-43,Creature,Common,Goblin
-44,Artifact,Common,Gauntlet
+==================,DECK,6798
+0,Spell,Reanimate
+1,Creature,Eagle
+2,Enchantment,Drain
+3,Spell,Sorrow Torment
+4,Creature,Troll
+5,Artifact,Shield
+6,Artifact,Pendant
+7,Creature,Earth Thief Orc
+8,Spell,Fireball
+9,Spell,Invisibility
+10,Creature,Skin-Walker
+11,Creature,Aura Warrior Cyclops
+12,Spell,Lightning
+13,Artifact,Greaves
+14,Creature,Wolf
+15,Enchantment,Haste
+16,Creature,Magi
+17,Spell,Frenzy
+18,Creature,Ghoul
+19,Enchantment,Oblivion Shade
+20,Creature,Magi
+21,Spell,Ice
+22,Artifact,Ghost Wand
+23,Creature,Magi
+24,Enchantment,Firebreath
+25,Spell,Maelstrom
+26,Creature,Eagle
+27,Spell,Invisibility
+28,Enchantment,Age
+29,Creature,Warlock
+30,Creature,Troll
+31,Enchantment,Life Haste
+32,Spell,Burst
+33,Artifact,Crown
+34,Creature,Eagle
+35,Creature,Skin-Walker
+36,Enchantment,Haste
+37,Creature,Aura Priest Griffin
+38,Spell,Reanimate
+39,Spell,Apocalypse Burn
+40,Enchantment,Shield
+41,Creature,Earth Thief Orc
+42,Spell,Solar Burst
+43,Creature,Skin-Walker
+44,Artifact,Gauntlet

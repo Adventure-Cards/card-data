@@ -1,46 +1,46 @@
-==================,DECK,7714,Light
-0,Creature,Common,Eagle
-1,Creature,Rare,Dark Priest Skin-Walker
-2,Spell,Common,Assault
-3,Creature,Rare,Light Warrior Minotaur
-4,Creature,Common,Warlock
-5,Creature,Common,Spider
-6,Enchantment,Common,Age
-7,Enchantment,Common,Haste
-8,Creature,Rare,Light Fighter Berserker
-9,Enchantment,Rare,Cataclysmic Age
-10,Artifact,Common,Boots
-11,Creature,Common,Goblin
-12,Creature,Rare,Frozen Assassin Hydra
-13,Spell,Rare,Hateful Reanimate
-14,Spell,Common,Reanimate
-15,Creature,Common,Ghoul
-16,Spell,Common,Ice
-17,Enchantment,Common,Alacrity
-18,Spell,Common,Freeze
-19,Spell,Rare,Grim Rage
-20,Artifact,Common,Belt
-21,Creature,Rare,Dark Rogue Griffin
-22,Creature,Common,Magi
-23,Enchantment,Mythic,Extreme Deathgrip
-24,Creature,Rare,Light Undead Skin-Walker
-25,Creature,Common,Spider
-26,Creature,Common,Spider
-27,Creature,Common,Warlock
-28,Creature,Common,Magi
-29,Creature,Common,Paladin
-30,Creature,Common,Eagle
-31,Creature,Common,Dwarf
-32,Creature,Common,Ghoul
-33,Creature,Legendary,Earth Monk Giant of the Polar Woods
-34,Creature,Common,Paladin
-35,Creature,Common,Warlock
-36,Creature,Common,Orc
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Drain
-39,Creature,Rare,Snow Lord Fairy
-40,Enchantment,Common,Alacrity
-41,Spell,Common,Wall
-42,Enchantment,Common,Lethargy
-43,Spell,Common,Invisibility
-44,Creature,Rare,Dark Priest Minotaur
+==================,DECK,7714
+0,Creature,Eagle
+1,Creature,Dark Priest Orc
+2,Spell,Infuriate
+3,Creature,Light Warrior Cyclops
+4,Creature,Berserker
+5,Creature,Paladin
+6,Enchantment,Haste
+7,Enchantment,Shield
+8,Creature,Light Fighter Goblin
+9,Enchantment,Gloom Firebreath
+10,Artifact,Boots
+11,Creature,Skin-Walker
+12,Creature,Frozen Assassin Hydra
+13,Spell,Miracle Lightning
+14,Spell,Assault
+15,Creature,Ghoul
+16,Spell,Vortex
+17,Enchantment,Deathgrip
+18,Spell,Wall
+19,Spell,Nimble Frenzy
+20,Artifact,Belt
+21,Creature,Dark Rogue Griffin
+22,Creature,Fairy
+23,Enchantment,Zealous Sorrow Alacrity
+24,Creature,Light Undead Orc
+25,Creature,Paladin
+26,Creature,Paladin
+27,Creature,Berserker
+28,Creature,Fairy
+29,Creature,Troll
+30,Creature,Eagle
+31,Creature,Magi
+32,Creature,Ghoul
+33,Creature,Earth Monk Dwarf of the Polar Woods
+34,Creature,Troll
+35,Creature,Berserker
+36,Creature,Spider
+37,Enchantment,Lethargy
+38,Enchantment,Flight
+39,Creature,Snow Lord Kraken
+40,Enchantment,Drain
+41,Spell,Gale
+42,Enchantment,Invert
+43,Spell,Rage
+44,Creature,Dark Priest Cyclops

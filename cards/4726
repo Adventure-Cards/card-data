@@ -1,46 +1,46 @@
-==================,DECK,4726,Light
-0,Creature,Common,Goblin
-1,Creature,Common,Ghoul
-2,Spell,Rare,Miracle Reanimate
-3,Spell,Common,Heal
-4,Spell,Common,Revive
-5,Spell,Common,Gravitation
-6,Creature,Common,Elf
-7,Creature,Common,Magi
-8,Creature,Rare,Light Rogue Berserker
-9,Creature,Common,Wolf
-10,Enchantment,Rare,Necro Drain
-11,Spell,Legendary,Urgent Torment
-12,Spell,Common,Lightning
-13,Creature,Common,Ghoul
-14,Creature,Common,Wolf
-15,Enchantment,Common,Drain
-16,Enchantment,Common,Drain
-17,Enchantment,Rare,Lunar Flight
-18,Creature,Common,Wolf
-19,Artifact,Rare,Frigid Helmet
-20,Creature,Rare,Death Undead Skin-Walker
-21,Spell,Rare,Lunar Burn
-22,Spell,Common,Torment
-23,Spell,Common,Torment
-24,Creature,Common,Dwarf
-25,Creature,Rare,Earth Thief Fairy
-26,Spell,Common,Torment
-27,Enchantment,Rare,Life Shrink
-28,Enchantment,Legendary,Instant Shrink
-29,Enchantment,Common,Shrink
-30,Creature,Common,Ghoul
-31,Enchantment,Common,Agony
-32,Artifact,Common,Staff
-33,Enchantment,Common,Drain
-34,Creature,Common,Spider
-35,Spell,Common,Burst
-36,Spell,Common,Heal
-37,Enchantment,Common,Agony
-38,Spell,Rare,Frigid Wall
-39,Creature,Common,Dwarf
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Ghoul
-42,Spell,Common,Reanimate
-43,Spell,Common,Maelstrom
-44,Creature,Common,Elf
+==================,DECK,4726
+0,Creature,Skin-Walker
+1,Creature,Ghoul
+2,Spell,Life Sorrow
+3,Spell,Hypnosis
+4,Spell,Invisibility
+5,Spell,Fireball
+6,Creature,Warlock
+7,Creature,Fairy
+8,Creature,Light Rogue Goblin
+9,Creature,Wolf
+10,Enchantment,Forged Agony
+11,Spell,Dire Nature Revive
+12,Spell,Assault
+13,Creature,Ghoul
+14,Creature,Wolf
+15,Enchantment,Lethargy
+16,Enchantment,Shade
+17,Enchantment,Lunar Flight
+18,Creature,Wolf
+19,Artifact,Apocalypse Helmet
+20,Creature,Death Undead Orc
+21,Spell,Dark Rage
+22,Spell,Burn
+23,Spell,Heal
+24,Creature,Magi
+25,Creature,Earth Thief Kraken
+26,Spell,Revive
+27,Enchantment,Frigid Shade
+28,Enchantment,Mighty Necro Agony
+29,Enchantment,Shade
+30,Creature,Ghoul
+31,Enchantment,Haste
+32,Artifact,Staff
+33,Enchantment,Shield
+34,Creature,Paladin
+35,Spell,Torment
+36,Spell,Burst
+37,Enchantment,Drain
+38,Spell,Victory Maelstrom
+39,Creature,Magi
+40,Enchantment,Shield
+41,Creature,Ghoul
+42,Spell,Freeze
+43,Spell,Tempest
+44,Creature,Warlock

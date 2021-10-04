@@ -1,46 +1,46 @@
-==================,DECK,7066,Light
-0,Spell,Common,Ice
-1,Spell,Legendary,Mighty Burst
-2,Enchantment,Common,Age
-3,Enchantment,Common,Invert
-4,Enchantment,Common,Alacrity
-5,Spell,Common,Frenzy
-6,Creature,Common,Orc
-7,Artifact,Common,Greaves
-8,Creature,Common,Magi
-9,Enchantment,Rare,Solar Agony
-10,Creature,Mythic,Death Nameless Dragon of the Dead
-11,Creature,Common,Orc
-12,Enchantment,Legendary,Urgent Agony
-13,Creature,Legendary,Frozen Rogue Giant of the Black Stone
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Orc
-16,Spell,Common,Wall
-17,Artifact,Legendary,Dire Greaves
-18,Creature,Common,Spider
-19,Enchantment,Mythic,Mighty Flight
-20,Creature,Common,Eagle
-21,Artifact,Rare,Gloom Scythe
-22,Creature,Legendary,Light Fighter Oni of the Swamp
-23,Creature,Common,Elf
-24,Creature,Common,Wolf
-25,Enchantment,Common,Agony
-26,Spell,Common,Wall
-27,Creature,Common,Magi
-28,Creature,Rare,Death Monk Berserker
-29,Creature,Common,Ghoul
-30,Artifact,Rare,Hateful Ring
-31,Creature,Common,Eagle
-32,Artifact,Common,Gloves
-33,Creature,Common,Magi
-34,Creature,Common,Magi
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Shield
-37,Creature,Common,Magi
-38,Spell,Common,Frenzy
-39,Artifact,Rare,Dark Tome
-40,Spell,Common,Rage
-41,Creature,Common,Wolf
-42,Enchantment,Common,Agony
-43,Creature,Common,Magi
-44,Spell,Legendary,Dire Invisibility
+==================,DECK,7066
+0,Spell,Assault
+1,Spell,Zealous Miracle Frost
+2,Enchantment,Agony
+3,Enchantment,Invert
+4,Enchantment,Shrink
+5,Spell,Maelstrom
+6,Creature,Spider
+7,Artifact,Greaves
+8,Creature,Fairy
+9,Enchantment,Corpse Lethargy
+10,Creature,Death Nameless Dragon of the Dead
+11,Creature,Spider
+12,Enchantment,Urgent Corpse Agony
+13,Creature,Frozen Rogue Dwarf of the Black Stone
+14,Enchantment,Drain
+15,Creature,Spider
+16,Spell,Burst
+17,Artifact,Mighty Apocalypse Greaves
+18,Creature,Paladin
+19,Enchantment,Clever Lunar Shield
+20,Creature,Eagle
+21,Artifact,Gloom Scythe
+22,Creature,Light Fighter Oni of the Swamp
+23,Creature,Warlock
+24,Creature,Wolf
+25,Enchantment,Flight
+26,Spell,Fireball
+27,Creature,Fairy
+28,Creature,Death Monk Goblin
+29,Creature,Ghoul
+30,Artifact,Chimeric Ring
+31,Creature,Eagle
+32,Artifact,Gloves
+33,Creature,Fairy
+34,Creature,Fairy
+35,Creature,Magi
+36,Enchantment,Lethargy
+37,Creature,Fairy
+38,Spell,Infuriate
+39,Artifact,Cataclysmic Tome
+40,Spell,Sorrow
+41,Creature,Wolf
+42,Enchantment,Blight
+43,Creature,Fairy
+44,Spell,Dire Victory Heal

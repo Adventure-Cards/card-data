@@ -1,46 +1,46 @@
-==================,DECK,4648,Light
-0,Creature,Common,Spider
-1,Enchantment,Common,Invert
-2,Spell,Common,Heal
-3,Creature,Common,Wolf
-4,Enchantment,Common,Strength
-5,Creature,Common,Eagle
-6,Creature,Common,Spider
-7,Spell,Rare,Lunar Pandemonium
-8,Enchantment,Common,Flight
-9,Creature,Common,Paladin
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Spell,Rare,Oblivion Frenzy
-13,Creature,Rare,Aura Priest Fairy
-14,Creature,Common,Dwarf
-15,Creature,Common,Eagle
-16,Creature,Mythic,Frozen Undead Dragon of the Void
-17,Creature,Common,Wolf
-18,Spell,Rare,Solar Rage
-19,Creature,Common,Ghoul
-20,Enchantment,Common,Blight
-21,Artifact,Common,Helmet
-22,Enchantment,Rare,Life Deathgrip
-23,Creature,Common,Elf
-24,Enchantment,Common,Blight
-25,Enchantment,Common,Flight
-26,Creature,Common,Elf
-27,Creature,Common,Ghoul
-28,Creature,Common,Eagle
-29,Spell,Legendary,Angry Rage
-30,Creature,Legendary,Dark Rogue Cyclops of the Frozen Castle
-31,Creature,Legendary,Aura Warrior Giant of the Plains
-32,Creature,Legendary,Frozen Queen Kraken of the Low Hills
-33,Artifact,Common,Ring
-34,Creature,Common,Elf
-35,Creature,Common,Wolf
-36,Artifact,Common,Helm
-37,Creature,Common,Goblin
-38,Creature,Common,Ghoul
-39,Creature,Mythic,Aura Time Phoenix of the Light
-40,Spell,Legendary,Urgent Infuriate
-41,Creature,Legendary,Frozen Monk Kraken of the Eternal Land
-42,Artifact,Rare,Dark Shield
-43,Spell,Legendary,Clever Burn
-44,Enchantment,Rare,Grim Alacrity
+==================,DECK,4648
+0,Creature,Paladin
+1,Enchantment,Shield
+2,Spell,Burn
+3,Creature,Wolf
+4,Enchantment,Alacrity
+5,Creature,Eagle
+6,Creature,Paladin
+7,Spell,Miracle Maelstrom
+8,Enchantment,Age
+9,Creature,Troll
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Spell,Frigid Sorrow
+13,Creature,Aura Priest Kraken
+14,Creature,Magi
+15,Creature,Eagle
+16,Creature,Frozen Undead Dragon of the Void
+17,Creature,Wolf
+18,Spell,Forged Freeze
+19,Creature,Ghoul
+20,Enchantment,Agony
+21,Artifact,Helmet
+22,Enchantment,Oblivion Shade
+23,Creature,Warlock
+24,Enchantment,Lethargy
+25,Enchantment,Haste
+26,Creature,Warlock
+27,Creature,Ghoul
+28,Creature,Eagle
+29,Spell,Ardent Chimeric Frenzy
+30,Creature,Dark Rogue Giant of the Frozen Castle
+31,Creature,Aura Warrior Dwarf of the Plains
+32,Creature,Frozen Queen Ogre of the Low Hills
+33,Artifact,Ring
+34,Creature,Warlock
+35,Creature,Wolf
+36,Artifact,Helm
+37,Creature,Skin-Walker
+38,Creature,Ghoul
+39,Creature,Aura Time Phoenix of the Light
+40,Spell,Mighty Hateful Lightning
+41,Creature,Frozen Monk Ogre of the Eternal Land
+42,Artifact,Lunar Shield
+43,Spell,Zealous Victory Burst
+44,Enchantment,Apocalypse Blight

@@ -1,46 +1,46 @@
-==================,DECK,6773,Medium
-0,Creature,Common,Spider
-1,Enchantment,Common,Blight
-2,Creature,Common,Wolf
-3,Creature,Mythic,Frozen Ancient Wizard of the Void
-4,Creature,Common,Orc
-5,Creature,Common,Orc
-6,Creature,Rare,Dark Warrior Skin-Walker
-7,Spell,Common,Invisibility
-8,Spell,Common,Freeze
-9,Enchantment,Common,Blight
-10,Creature,Common,Dwarf
-11,Creature,Rare,Death Queen Griffin
-12,Creature,Common,Orc
-13,Spell,Common,Sorrow
-14,Spell,Common,Fury
-15,Creature,Rare,Snow Knight Berserker
-16,Enchantment,Legendary,Extreme Drain
-17,Spell,Common,Heal
-18,Creature,Common,Goblin
-19,Spell,Legendary,Instant Stricken
-20,Creature,Common,Elf
-21,Creature,Mythic,Light Chaos Wizard of the Sky
-22,Creature,Mythic,Earth Undead Phoenix of the Shadows
-23,Creature,Legendary,Death Priest Giant of the Arctic Blizzards
-24,Artifact,Legendary,Mighty Divine Robe
-25,Creature,Common,Goblin
-26,Creature,Common,Wolf
-27,Artifact,Rare,Shimmering Helmet
-28,Enchantment,Common,Haste
-29,Creature,Common,Eagle
-30,Creature,Common,Wolf
-31,Spell,Common,Burn
-32,Creature,Common,Paladin
-33,Creature,Common,Eagle
-34,Creature,Legendary,Death Thief Cyclops of the Mountains
-35,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-36,Spell,Common,Sorrow
-37,Enchantment,Common,Blight
-38,Creature,Legendary,Aura Merchant Kraken of the Swamp
-39,Creature,Common,Wolf
-40,Creature,Common,Dwarf
-41,Spell,Common,Hypnosis
-42,Creature,Common,Goblin
-43,Spell,Common,Burst
-44,Creature,Common,Ghoul
+==================,DECK,6773
+0,Creature,Paladin
+1,Enchantment,Alacrity
+2,Creature,Wolf
+3,Creature,Frozen Ancient Wizard of the Void
+4,Creature,Spider
+5,Creature,Spider
+6,Creature,Dark Warrior Orc
+7,Spell,Frenzy
+8,Spell,Pandemonium
+9,Enchantment,Drain
+10,Creature,Magi
+11,Creature,Death Queen Griffin
+12,Creature,Spider
+13,Spell,Burn
+14,Spell,Gravitation
+15,Creature,Snow Knight Goblin
+16,Enchantment,Empyrean Dark Firebreath
+17,Spell,Heal
+18,Creature,Skin-Walker
+19,Spell,Potent Solar Tempest
+20,Creature,Warlock
+21,Creature,Light Chaos Wizard of the Sky
+22,Creature,Earth Undead Phoenix of the Shadows
+23,Creature,Death Priest Dwarf of the Arctic Blizzards
+24,Artifact,Potent Cataclysmic Divine Robe
+25,Creature,Skin-Walker
+26,Creature,Wolf
+27,Artifact,Corpse Helmet
+28,Enchantment,Invert
+29,Creature,Eagle
+30,Creature,Wolf
+31,Spell,Torment
+32,Creature,Troll
+33,Creature,Eagle
+34,Creature,Death Thief Giant of the Mountains
+35,Creature,Earth Nameless Phoenix of the Shadows
+36,Spell,Assault
+37,Enchantment,Shield
+38,Creature,Aura Merchant Ogre of the Swamp
+39,Creature,Wolf
+40,Creature,Magi
+41,Spell,Fire
+42,Creature,Skin-Walker
+43,Spell,Fireball
+44,Creature,Ghoul

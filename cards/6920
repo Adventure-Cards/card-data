@@ -1,46 +1,46 @@
-==================,DECK,6920,Light
-0,Creature,Rare,Frozen Queen Griffin
-1,Enchantment,Common,Drain
-2,Creature,Common,Ghoul
-3,Creature,Rare,Frozen Undead Hydra
-4,Enchantment,Common,Lethargy
-5,Creature,Common,Elf
-6,Enchantment,Common,Age
-7,Spell,Common,Infuriate
-8,Creature,Common,Magi
-9,Enchantment,Common,Shrink
-10,Creature,Common,Magi
-11,Enchantment,Common,Blight
-12,Creature,Common,Orc
-13,Creature,Common,Elf
-14,Artifact,Common,Potion
-15,Creature,Common,Goblin
-16,Enchantment,Common,Lethargy
-17,Creature,Legendary,Dark Thief Cyclops of the Border
-18,Creature,Rare,Aura Rogue Griffin
-19,Creature,Mythic,Snow Time Dragon of Hate
-20,Enchantment,Common,Blight
-21,Spell,Rare,Gloom Invisibility
-22,Creature,Legendary,Earth Assassin Orge of the Magical Forest
-23,Artifact,Common,Potion
-24,Spell,Rare,Life Fury
-25,Spell,Common,Pandemonium
-26,Creature,Rare,Death Rogue Skin-Walker
-27,Creature,Common,Warlock
-28,Creature,Rare,Aura Merchant Skin-Walker
-29,Creature,Common,Magi
-30,Creature,Common,Paladin
-31,Creature,Common,Ghoul
-32,Creature,Common,Orc
-33,Creature,Mythic,Aura Chaos Wizard of the Light
-34,Enchantment,Common,Shade
-35,Creature,Common,Eagle
-36,Spell,Rare,Life Fury
-37,Creature,Common,Wolf
-38,Creature,Common,Goblin
-39,Spell,Legendary,Dire Pandemonium
-40,Creature,Mythic,Death Grand Wizard of the Dead
-41,Spell,Common,Frost
-42,Creature,Legendary,Light Thief Kraken of the Swamp
-43,Enchantment,Common,Alacrity
-44,Spell,Common,Torment
+==================,DECK,6920
+0,Creature,Frozen Queen Griffin
+1,Enchantment,Lethargy
+2,Creature,Ghoul
+3,Creature,Frozen Undead Hydra
+4,Enchantment,Blight
+5,Creature,Warlock
+6,Enchantment,Firebreath
+7,Spell,Ice
+8,Creature,Fairy
+9,Enchantment,Shade
+10,Creature,Fairy
+11,Enchantment,Shade
+12,Creature,Spider
+13,Creature,Warlock
+14,Artifact,Potion
+15,Creature,Skin-Walker
+16,Enchantment,Shield
+17,Creature,Dark Thief Giant of the Border
+18,Creature,Aura Rogue Griffin
+19,Creature,Snow Time Dragon of Hate
+20,Enchantment,Shield
+21,Spell,Sorrow Gravitation
+22,Creature,Earth Assassin Elf of the Magical Forest
+23,Artifact,Potion
+24,Spell,Grim Fury
+25,Spell,Fireball
+26,Creature,Death Rogue Orc
+27,Creature,Berserker
+28,Creature,Aura Merchant Orc
+29,Creature,Fairy
+30,Creature,Troll
+31,Creature,Ghoul
+32,Creature,Spider
+33,Creature,Aura Chaos Wizard of the Light
+34,Enchantment,Firebreath
+35,Creature,Eagle
+36,Spell,Victory Hypnosis
+37,Creature,Wolf
+38,Creature,Skin-Walker
+39,Spell,Potent Grim Pandemonium
+40,Creature,Death Grand Wizard of the Dead
+41,Spell,Gale
+42,Creature,Light Thief Ogre of the Swamp
+43,Enchantment,Haste
+44,Spell,Reanimate

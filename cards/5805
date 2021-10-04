@@ -1,46 +1,46 @@
-==================,DECK,5805,Strong
-0,Creature,Common,Paladin
-1,Creature,Common,Magi
-2,Artifact,Common,Scythe
-3,Creature,Legendary,Earth Rogue Cyclops of the Haven
-4,Creature,Common,Spider
-5,Spell,Common,Lightning
-6,Artifact,Rare,Hateful Sword
-7,Artifact,Common,Ring
-8,Creature,Common,Eagle
-9,Creature,Mythic,Aura Time Dragon of the Light
-10,Enchantment,Common,Haste
-11,Artifact,Common,Pendant
-12,Creature,Common,Goblin
-13,Creature,Common,Spider
-14,Creature,Common,Goblin
-15,Spell,Rare,Nimble Torment
-16,Spell,Legendary,Extreme Stun
-17,Enchantment,Rare,Gloom Shade
-18,Enchantment,Common,Flight
-19,Spell,Rare,Hateful Ice
-20,Enchantment,Rare,Nimble Lethargy
-21,Creature,Legendary,Earth Queen Oni of the Eastern Skies
-22,Creature,Common,Goblin
-23,Enchantment,Rare,Nature Blight
-24,Enchantment,Legendary,Angry Invert
-25,Creature,Common,Magi
-26,Creature,Common,Spider
-27,Creature,Legendary,Frozen Lord Orge of the Magical Forest
-28,Enchantment,Rare,Necro Deathgrip
-29,Creature,Rare,Dark Monk Griffin
-30,Spell,Rare,Miracle Gale
-31,Creature,Rare,Light Knight Hydra
-32,Creature,Common,Eagle
-33,Spell,Rare,Nimble Heal
-34,Creature,Common,Goblin
-35,Creature,Legendary,Light Knight Kraken of the Border
-36,Creature,Mythic,Frozen Grand Demon of the Void
-37,Artifact,Mythic,Angry Amulet
-38,Artifact,Common,Gauntlet
-39,Enchantment,Common,Shrink
-40,Enchantment,Common,Blight
-41,Creature,Common,Magi
-42,Spell,Mythic,Extreme Burn
-43,Enchantment,Mythic,Urgent Haste
-44,Enchantment,Common,Invert
+==================,DECK,5805
+0,Creature,Troll
+1,Creature,Fairy
+2,Artifact,Scythe
+3,Creature,Earth Rogue Giant of the Haven
+4,Creature,Paladin
+5,Spell,Heal
+6,Artifact,Dark Sword
+7,Artifact,Ring
+8,Creature,Eagle
+9,Creature,Aura Time Dragon of the Light
+10,Enchantment,Lethargy
+11,Artifact,Pendant
+12,Creature,Skin-Walker
+13,Creature,Paladin
+14,Creature,Skin-Walker
+15,Spell,Forged Gravitation
+16,Spell,Empyrean Cataclysmic Reanimate
+17,Enchantment,Chimeric Shield
+18,Enchantment,Alacrity
+19,Spell,Chimeric Fireball
+20,Enchantment,Hateful Agony
+21,Creature,Earth Queen Oni of the Eastern Skies
+22,Creature,Skin-Walker
+23,Enchantment,Solar Deathgrip
+24,Enchantment,Instant Sorrow Shrink
+25,Creature,Fairy
+26,Creature,Paladin
+27,Creature,Frozen Lord Elf of the Magical Forest
+28,Enchantment,Shimmering Lethargy
+29,Creature,Dark Monk Griffin
+30,Spell,Nimble Gravitation
+31,Creature,Light Knight Hydra
+32,Creature,Eagle
+33,Spell,Solar Fireball
+34,Creature,Skin-Walker
+35,Creature,Light Knight Ogre of the Border
+36,Creature,Frozen Grand Demon of the Void
+37,Artifact,Urgent Lunar Amulet
+38,Artifact,Gauntlet
+39,Enchantment,Flight
+40,Enchantment,Agony
+41,Creature,Fairy
+42,Spell,Clever Chimeric Hypnosis
+43,Enchantment,Potent Corpse Strength
+44,Enchantment,Shrink

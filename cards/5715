@@ -1,46 +1,46 @@
-==================,DECK,5715,Medium
-0,Spell,Common,Revive
-1,Creature,Common,Magi
-2,Spell,Rare,Cataclysmic Stun
-3,Spell,Common,Maelstrom
-4,Creature,Legendary,Dark Fighter Giant of the Eastern Skies
-5,Creature,Common,Paladin
-6,Artifact,Rare,Dark Potion
-7,Artifact,Common,Belt
-8,Creature,Common,Magi
-9,Creature,Rare,Snow Thief Berserker
-10,Creature,Legendary,Earth Rogue Kraken of the Magical Forest
-11,Creature,Rare,Dark Undead Minotaur
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Enchantment,Rare,Dark Shield
-15,Creature,Legendary,Snow Merchant Kraken of the Polar Woods
-16,Enchantment,Mythic,Intense Alacrity
-17,Spell,Common,Gravitation
-18,Creature,Rare,Frozen Fighter Berserker
-19,Creature,Common,Goblin
-20,Creature,Common,Wolf
-21,Creature,Common,Wolf
-22,Artifact,Rare,Necro Crown
-23,Creature,Common,Magi
-24,Creature,Common,Warlock
-25,Creature,Rare,Death Priest Fairy
-26,Spell,Common,Sorrow
-27,Creature,Rare,Death King Fairy
-28,Spell,Common,Vortex
-29,Creature,Rare,Earth Fighter Fairy
-30,Spell,Common,Maelstrom
-31,Spell,Common,Burst
-32,Spell,Common,Maelstrom
-33,Artifact,Common,Boots
-34,Spell,Rare,Apocalypse Fury
-35,Spell,Common,Stun
-36,Creature,Rare,Light Fighter Hydra
-37,Creature,Mythic,Light Nameless Dragon of the Sky
-38,Spell,Common,Infuriate
-39,Artifact,Rare,Frigid Boots
-40,Spell,Common,Revive
-41,Spell,Common,Burst
-42,Creature,Rare,Death Knight Hydra
-43,Creature,Common,Elf
-44,Spell,Rare,Oblivion Vortex
+==================,DECK,5715
+0,Spell,Burst
+1,Creature,Fairy
+2,Spell,Lunar Burst
+3,Spell,Pandemonium
+4,Creature,Dark Fighter Dwarf of the Eastern Skies
+5,Creature,Troll
+6,Artifact,Gloom Potion
+7,Artifact,Belt
+8,Creature,Fairy
+9,Creature,Snow Thief Goblin
+10,Creature,Earth Rogue Ogre of the Magical Forest
+11,Creature,Dark Undead Cyclops
+12,Creature,Eagle
+13,Creature,Fairy
+14,Enchantment,Gloom Shrink
+15,Creature,Snow Merchant Ogre of the Polar Woods
+16,Enchantment,Dire Forged Age
+17,Spell,Assault
+18,Creature,Frozen Fighter Goblin
+19,Creature,Skin-Walker
+20,Creature,Wolf
+21,Creature,Wolf
+22,Artifact,Nature Crown
+23,Creature,Fairy
+24,Creature,Berserker
+25,Creature,Death Priest Kraken
+26,Spell,Infuriate
+27,Creature,Death King Kraken
+28,Spell,Infuriate
+29,Creature,Earth Fighter Kraken
+30,Spell,Rage
+31,Spell,Lightning
+32,Spell,Torment
+33,Artifact,Boots
+34,Spell,Victory Burst
+35,Spell,Fury
+36,Creature,Light Fighter Hydra
+37,Creature,Light Nameless Dragon of the Sky
+38,Spell,Infuriate
+39,Artifact,Apocalypse Boots
+40,Spell,Gale
+41,Spell,Lightning
+42,Creature,Death Knight Hydra
+43,Creature,Warlock
+44,Spell,Oblivion Fury

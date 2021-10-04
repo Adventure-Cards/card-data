@@ -1,46 +1,46 @@
-==================,DECK,7836,Light
-0,Creature,Common,Dwarf
-1,Creature,Legendary,Earth Undead Cyclops of the Swamp
-2,Creature,Common,Magi
-3,Creature,Common,Warlock
-4,Creature,Common,Dwarf
-5,Creature,Mythic,Light Time Phoenix of the Sky
-6,Creature,Legendary,Frozen Fighter Kraken of the Swamp
-7,Creature,Common,Warlock
-8,Enchantment,Common,Lethargy
-9,Artifact,Common,Crown
-10,Creature,Rare,Death Warrior Skin-Walker
-11,Enchantment,Common,Shrink
-12,Artifact,Common,Belt
-13,Creature,Common,Eagle
-14,Creature,Common,Dwarf
-15,Creature,Common,Magi
-16,Enchantment,Common,Blight
-17,Creature,Common,Wolf
-18,Enchantment,Common,Age
-19,Artifact,Common,Gauntlet
-20,Creature,Common,Ghoul
-21,Enchantment,Common,Blight
-22,Creature,Common,Spider
-23,Creature,Common,Warlock
-24,Spell,Common,Wall
-25,Spell,Common,Gravitation
-26,Enchantment,Common,Blight
-27,Creature,Common,Paladin
-28,Enchantment,Legendary,Dire Shield
-29,Enchantment,Mythic,Mighty Shield
-30,Artifact,Common,Helmet
-31,Artifact,Common,Amulet
-32,Creature,Common,Elf
-33,Creature,Rare,Dark Fighter Hydra
-34,Spell,Common,Frost
-35,Enchantment,Common,Shrink
-36,Artifact,Common,Divine Robe
-37,Spell,Common,Wall
-38,Creature,Legendary,Snow Priest Cyclops of the Border
-39,Creature,Common,Warlock
-40,Enchantment,Common,Agony
-41,Creature,Mythic,Dark Nameless Dragon of Illusion
-42,Spell,Rare,Lunar Gale
-43,Artifact,Common,Helmet
-44,Creature,Legendary,Earth King Orge of the Golden Palace
+==================,DECK,7836
+0,Creature,Magi
+1,Creature,Earth Undead Giant of the Swamp
+2,Creature,Fairy
+3,Creature,Berserker
+4,Creature,Magi
+5,Creature,Light Time Phoenix of the Sky
+6,Creature,Frozen Fighter Ogre of the Swamp
+7,Creature,Berserker
+8,Enchantment,Invert
+9,Artifact,Crown
+10,Creature,Death Warrior Orc
+11,Enchantment,Alacrity
+12,Artifact,Belt
+13,Creature,Eagle
+14,Creature,Magi
+15,Creature,Fairy
+16,Enchantment,Shrink
+17,Creature,Wolf
+18,Enchantment,Drain
+19,Artifact,Gauntlet
+20,Creature,Ghoul
+21,Enchantment,Haste
+22,Creature,Paladin
+23,Creature,Berserker
+24,Spell,Stricken
+25,Spell,Torment
+26,Enchantment,Firebreath
+27,Creature,Troll
+28,Enchantment,Dire Victory Shade
+29,Enchantment,Dire Gloom Firebreath
+30,Artifact,Helmet
+31,Artifact,Amulet
+32,Creature,Warlock
+33,Creature,Dark Fighter Hydra
+34,Spell,Infuriate
+35,Enchantment,Age
+36,Artifact,Divine Robe
+37,Spell,Burn
+38,Creature,Snow Priest Giant of the Border
+39,Creature,Berserker
+40,Enchantment,Flight
+41,Creature,Dark Nameless Dragon of Illusion
+42,Spell,Dark Invisibility
+43,Artifact,Helmet
+44,Creature,Earth King Elf of the Golden Palace

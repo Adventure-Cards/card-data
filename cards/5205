@@ -1,46 +1,46 @@
-==================,DECK,5205,Medium
-0,Creature,Common,Eagle
-1,Creature,Rare,Aura Lord Minotaur
-2,Spell,Common,Ice
-3,Creature,Rare,Light Queen Griffin
-4,Enchantment,Legendary,Extreme Blight
-5,Creature,Common,Orc
-6,Spell,Common,Burn
-7,Spell,Common,Gravitation
-8,Creature,Rare,Dark Lord Minotaur
-9,Creature,Common,Eagle
-10,Artifact,Rare,Dark Sigil
-11,Enchantment,Common,Strength
-12,Spell,Common,Lightning
-13,Creature,Rare,Death Warrior Skin-Walker
-14,Enchantment,Rare,Apocalypse Haste
-15,Artifact,Legendary,Mighty Ring
-16,Spell,Common,Rage
-17,Spell,Common,Assault
-18,Spell,Rare,Nimble Assault
-19,Creature,Common,Ghoul
-20,Spell,Rare,Nimble Lightning
-21,Creature,Common,Spider
-22,Creature,Rare,Snow Priest Minotaur
-23,Artifact,Common,Sword
-24,Spell,Common,Lightning
-25,Creature,Rare,Snow Priest Griffin
-26,Creature,Common,Goblin
-27,Creature,Common,Goblin
-28,Artifact,Common,Ghost Wand
-29,Creature,Legendary,Frozen Priest Orge of the Haven
-30,Creature,Rare,Light King Berserker
-31,Creature,Common,Orc
-32,Enchantment,Common,Shrink
-33,Spell,Legendary,Urgent Stun
-34,Spell,Common,Revive
-35,Creature,Common,Eagle
-36,Creature,Rare,Light Knight Fairy
-37,Spell,Common,Infuriate
-38,Creature,Common,Elf
-39,Spell,Common,Wall
-40,Spell,Common,Reanimate
-41,Enchantment,Common,Deathgrip
-42,Enchantment,Common,Drain
-43,Spell,Legendary,Urgent Gale
-44,Creature,Rare,Snow Undead Skin-Walker
+==================,DECK,5205
+0,Creature,Eagle
+1,Creature,Aura Lord Cyclops
+2,Spell,Pandemonium
+3,Creature,Light Queen Griffin
+4,Enchantment,Zealous Cataclysmic Alacrity
+5,Creature,Spider
+6,Spell,Heal
+7,Spell,Fireball
+8,Creature,Dark Lord Cyclops
+9,Creature,Eagle
+10,Artifact,Cataclysmic Sigil
+11,Enchantment,Deathgrip
+12,Spell,Tempest
+13,Creature,Death Warrior Orc
+14,Enchantment,Life Invert
+15,Artifact,Potent Lunar Ring
+16,Spell,Frenzy
+17,Spell,Gravitation
+18,Spell,Corpse Fury
+19,Creature,Ghoul
+20,Spell,Necro Pandemonium
+21,Creature,Paladin
+22,Creature,Snow Priest Cyclops
+23,Artifact,Sword
+24,Spell,Fury
+25,Creature,Snow Priest Griffin
+26,Creature,Skin-Walker
+27,Creature,Skin-Walker
+28,Artifact,Ghost Wand
+29,Creature,Frozen Priest Elf of the Haven
+30,Creature,Light King Goblin
+31,Creature,Spider
+32,Enchantment,Alacrity
+33,Spell,Potent Nature Fireball
+34,Spell,Invisibility
+35,Creature,Eagle
+36,Creature,Light Knight Kraken
+37,Spell,Maelstrom
+38,Creature,Warlock
+39,Spell,Tempest
+40,Spell,Sorrow
+41,Enchantment,Drain
+42,Enchantment,Firebreath
+43,Spell,Mighty Corpse Fire
+44,Creature,Snow Undead Orc

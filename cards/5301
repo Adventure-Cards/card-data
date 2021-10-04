@@ -1,46 +1,46 @@
-==================,DECK,5301,Light
-0,Enchantment,Common,Haste
-1,Creature,Rare,Snow Lord Berserker
-2,Creature,Common,Elf
-3,Artifact,Common,Cloak
-4,Spell,Common,Reanimate
-5,Creature,Common,Orc
-6,Creature,Common,Elf
-7,Creature,Common,Warlock
-8,Enchantment,Common,Age
-9,Artifact,Common,Tome
-10,Creature,Common,Spider
-11,Spell,Common,Maelstrom
-12,Enchantment,Legendary,Mighty Shade
-13,Creature,Legendary,Frozen Merchant Cyclops of the Magical Forest
-14,Spell,Common,Ice
-15,Creature,Common,Paladin
-16,Creature,Common,Spider
-17,Enchantment,Common,Flight
-18,Creature,Legendary,Light Undead Giant of the Polar Woods
-19,Spell,Common,Fury
-20,Creature,Rare,Light Knight Fairy
-21,Spell,Common,Fury
-22,Spell,Common,Pandemonium
-23,Creature,Mythic,Earth Nameless Dragon of the Shadows
-24,Creature,Common,Magi
-25,Spell,Legendary,Intense Sorrow
-26,Creature,Common,Elf
-27,Enchantment,Common,Deathgrip
-28,Creature,Common,Orc
-29,Artifact,Common,Helm
-30,Enchantment,Common,Lethargy
-31,Creature,Common,Paladin
-32,Enchantment,Rare,Nimble Shade
-33,Creature,Common,Dwarf
-34,Creature,Rare,Earth Thief Minotaur
-35,Spell,Rare,Frigid Revive
-36,Creature,Legendary,Frozen Queen Cyclops of the Eastern Skies
-37,Creature,Legendary,Death Queen Cyclops of the Black Stone
-38,Spell,Common,Lightning
-39,Creature,Common,Paladin
-40,Artifact,Legendary,Extreme Helm
-41,Artifact,Common,Belt
-42,Enchantment,Mythic,Dire Shield
-43,Spell,Rare,Shimmering Burst
-44,Artifact,Common,Greaves
+==================,DECK,5301
+0,Enchantment,Strength
+1,Creature,Snow Lord Goblin
+2,Creature,Warlock
+3,Artifact,Cloak
+4,Spell,Heal
+5,Creature,Spider
+6,Creature,Warlock
+7,Creature,Berserker
+8,Enchantment,Firebreath
+9,Artifact,Tome
+10,Creature,Paladin
+11,Spell,Vortex
+12,Enchantment,Irate Chimeric Alacrity
+13,Creature,Frozen Merchant Giant of the Magical Forest
+14,Spell,Wall
+15,Creature,Troll
+16,Creature,Paladin
+17,Enchantment,Age
+18,Creature,Light Undead Dwarf of the Polar Woods
+19,Spell,Fireball
+20,Creature,Light Knight Kraken
+21,Spell,Burst
+22,Spell,Pandemonium
+23,Creature,Earth Nameless Dragon of the Shadows
+24,Creature,Fairy
+25,Spell,Zealous Solar Fire
+26,Creature,Warlock
+27,Enchantment,Agony
+28,Creature,Spider
+29,Artifact,Helm
+30,Enchantment,Shrink
+31,Creature,Troll
+32,Enchantment,Necro Agony
+33,Creature,Magi
+34,Creature,Earth Thief Cyclops
+35,Spell,Life Fury
+36,Creature,Frozen Queen Giant of the Eastern Skies
+37,Creature,Death Queen Giant of the Black Stone
+38,Spell,Revive
+39,Creature,Troll
+40,Artifact,Empyrean Chimeric Helm
+41,Artifact,Belt
+42,Enchantment,Irate Victory Blight
+43,Spell,Corpse Tempest
+44,Artifact,Greaves

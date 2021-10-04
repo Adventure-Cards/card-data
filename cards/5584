@@ -1,46 +1,46 @@
-==================,DECK,5584,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Paladin
-2,Creature,Common,Magi
-3,Spell,Legendary,Instant Pandemonium
-4,Creature,Rare,Aura Fighter Fairy
-5,Enchantment,Common,Shade
-6,Creature,Common,Spider
-7,Creature,Rare,Dark Thief Minotaur
-8,Creature,Rare,Death Warrior Fairy
-9,Creature,Legendary,Death Queen Kraken of the Eastern Skies
-10,Creature,Common,Wolf
-11,Artifact,Rare,Shimmering Pendant
-12,Spell,Legendary,Instant Hypnosis
-13,Creature,Common,Goblin
-14,Creature,Common,Paladin
-15,Spell,Common,Lightning
-16,Creature,Common,Warlock
-17,Creature,Rare,Snow Priest Minotaur
-18,Spell,Rare,Nimble Invisibility
-19,Creature,Common,Warlock
-20,Spell,Legendary,Instant Vortex
-21,Creature,Common,Spider
-22,Enchantment,Rare,Oblivion Shield
-23,Creature,Common,Eagle
-24,Creature,Mythic,Earth Grand Demon of the Shadows
-25,Enchantment,Common,Flight
-26,Creature,Common,Paladin
-27,Spell,Common,Ice
-28,Creature,Common,Ghoul
-29,Creature,Rare,Death Warrior Skin-Walker
-30,Enchantment,Mythic,Mighty Agony
-31,Creature,Rare,Light Undead Minotaur
-32,Creature,Legendary,Aura Rogue Orge of the Eastern Skies
-33,Artifact,Common,Shield
-34,Enchantment,Mythic,Instant Deathgrip
-35,Spell,Common,Burn
-36,Creature,Common,Wolf
-37,Spell,Common,Heal
-38,Enchantment,Common,Deathgrip
-39,Creature,Mythic,Snow Ancient Demon of Hate
-40,Creature,Legendary,Dark Warrior Giant of the Low Hills
-41,Creature,Common,Spider
-42,Creature,Legendary,Frozen Rogue Giant of the Frozen Castle
-43,Artifact,Common,Divine Robe
-44,Creature,Common,Wolf
+==================,DECK,5584
+0,Creature,Eagle
+1,Creature,Troll
+2,Creature,Fairy
+3,Spell,Clever Hateful Assault
+4,Creature,Aura Fighter Kraken
+5,Enchantment,Shade
+6,Creature,Paladin
+7,Creature,Dark Thief Cyclops
+8,Creature,Death Warrior Kraken
+9,Creature,Death Queen Ogre of the Eastern Skies
+10,Creature,Wolf
+11,Artifact,Corpse Pendant
+12,Spell,Mighty Solar Ice
+13,Creature,Skin-Walker
+14,Creature,Troll
+15,Spell,Burn
+16,Creature,Berserker
+17,Creature,Snow Priest Cyclops
+18,Spell,Solar Assault
+19,Creature,Berserker
+20,Spell,Urgent Nature Frost
+21,Creature,Paladin
+22,Enchantment,Victory Invert
+23,Creature,Eagle
+24,Creature,Earth Grand Demon of the Shadows
+25,Enchantment,Shield
+26,Creature,Troll
+27,Spell,Assault
+28,Creature,Ghoul
+29,Creature,Death Warrior Orc
+30,Enchantment,Ardent Miracle Shield
+31,Creature,Light Undead Cyclops
+32,Creature,Aura Rogue Elf of the Eastern Skies
+33,Artifact,Shield
+34,Enchantment,Potent Shimmering Strength
+35,Spell,Sorrow
+36,Creature,Wolf
+37,Spell,Assault
+38,Enchantment,Shade
+39,Creature,Snow Ancient Demon of Hate
+40,Creature,Dark Warrior Dwarf of the Low Hills
+41,Creature,Paladin
+42,Creature,Frozen Rogue Dwarf of the Frozen Castle
+43,Artifact,Divine Robe
+44,Creature,Wolf

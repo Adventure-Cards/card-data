@@ -1,46 +1,46 @@
-==================,DECK,5353,Light
-0,Spell,Legendary,Mighty Wall
-1,Artifact,Common,Helm
-2,Artifact,Rare,Cataclysmic Helmet
-3,Spell,Common,Fury
-4,Creature,Common,Paladin
-5,Creature,Common,Eagle
-6,Artifact,Common,Boots
-7,Spell,Common,Reanimate
-8,Creature,Common,Spider
-9,Creature,Legendary,Light Thief Kraken of the Swamp
-10,Creature,Common,Spider
-11,Creature,Legendary,Dark King Oni of the Plains
-12,Artifact,Common,Helmet
-13,Creature,Common,Elf
-14,Creature,Common,Paladin
-15,Creature,Common,Warlock
-16,Spell,Legendary,Extreme Assault
-17,Spell,Common,Freeze
-18,Artifact,Legendary,Dire Scythe
-19,Creature,Rare,Dark Assassin Minotaur
-20,Spell,Legendary,Angry Maelstrom
-21,Spell,Common,Freeze
-22,Creature,Common,Goblin
-23,Artifact,Rare,Solar Ring
-24,Spell,Rare,Necro Infuriate
-25,Creature,Common,Paladin
-26,Creature,Common,Wolf
-27,Enchantment,Common,Blight
-28,Creature,Common,Wolf
-29,Enchantment,Common,Shield
-30,Spell,Rare,Frigid Rage
-31,Spell,Common,Frost
-32,Enchantment,Mythic,Clever Blight
-33,Enchantment,Common,Flight
-34,Enchantment,Common,Blight
-35,Creature,Common,Orc
-36,Enchantment,Common,Agony
-37,Enchantment,Common,Shade
-38,Enchantment,Rare,Life Drain
-39,Artifact,Common,Sword
-40,Enchantment,Common,Flight
-41,Spell,Rare,Necro Burn
-42,Spell,Common,Gale
-43,Enchantment,Rare,Dark Lethargy
-44,Creature,Rare,Frozen Undead Hydra
+==================,DECK,5353
+0,Spell,Ardent Dark Tempest
+1,Artifact,Helm
+2,Artifact,Cataclysmic Helmet
+3,Spell,Torment
+4,Creature,Troll
+5,Creature,Eagle
+6,Artifact,Boots
+7,Spell,Vortex
+8,Creature,Paladin
+9,Creature,Light Thief Ogre of the Swamp
+10,Creature,Paladin
+11,Creature,Dark King Oni of the Plains
+12,Artifact,Helmet
+13,Creature,Warlock
+14,Creature,Troll
+15,Creature,Berserker
+16,Spell,Dire Lunar Rage
+17,Spell,Maelstrom
+18,Artifact,Dire Oblivion Scythe
+19,Creature,Dark Assassin Cyclops
+20,Spell,Mighty Chimeric Ice
+21,Spell,Infuriate
+22,Creature,Skin-Walker
+23,Artifact,Solar Ring
+24,Spell,Shimmering Sorrow
+25,Creature,Troll
+26,Creature,Wolf
+27,Enchantment,Drain
+28,Creature,Wolf
+29,Enchantment,Shade
+30,Spell,Nimble Fury
+31,Spell,Reanimate
+32,Enchantment,Clever Nimble Haste
+33,Enchantment,Strength
+34,Enchantment,Shrink
+35,Creature,Spider
+36,Enchantment,Firebreath
+37,Enchantment,Strength
+38,Enchantment,Apocalypse Haste
+39,Artifact,Sword
+40,Enchantment,Flight
+41,Spell,Forged Frost
+42,Spell,Revive
+43,Enchantment,Lunar Flight
+44,Creature,Frozen Undead Hydra

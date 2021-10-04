@@ -1,46 +1,46 @@
-==================,DECK,4721,Medium
-0,Spell,Common,Invisibility
-1,Creature,Common,Goblin
-2,Artifact,Common,Gauntlet
-3,Creature,Rare,Dark King Minotaur
-4,Creature,Common,Paladin
-5,Spell,Common,Lightning
-6,Enchantment,Common,Deathgrip
-7,Artifact,Legendary,Mighty Ring
-8,Creature,Common,Orc
-9,Creature,Legendary,Snow Rogue Cyclops of the West
-10,Artifact,Common,Pendant
-11,Creature,Rare,Dark Lord Berserker
-12,Creature,Common,Wolf
-13,Artifact,Common,Divine Robe
-14,Creature,Legendary,Death Knight Kraken of the Frozen Castle
-15,Creature,Common,Orc
-16,Enchantment,Rare,Grim Shade
-17,Creature,Mythic,Light Ancient Demon of the Sky
-18,Creature,Common,Dwarf
-19,Artifact,Common,Pendant
-20,Creature,Common,Orc
-21,Artifact,Rare,Nimble Scythe
-22,Creature,Common,Paladin
-23,Enchantment,Common,Alacrity
-24,Enchantment,Common,Alacrity
-25,Enchantment,Mythic,Urgent Alacrity
-26,Creature,Common,Ghoul
-27,Creature,Common,Dwarf
-28,Artifact,Common,Greaves
-29,Creature,Mythic,Frozen Undead Dragon of the Void
-30,Creature,Rare,Snow Rogue Hydra
-31,Creature,Rare,Light Warrior Fairy
-32,Creature,Mythic,Death Nameless Dragon of the Dead
-33,Creature,Legendary,Aura Assassin Orge of the Magical Forest
-34,Artifact,Common,Sigil
-35,Artifact,Common,Greaves
-36,Creature,Rare,Light Thief Hydra
-37,Spell,Rare,Corpse Heal
-38,Creature,Rare,Dark Fighter Griffin
-39,Creature,Mythic,Earth Time Dragon of the Shadows
-40,Spell,Rare,Cataclysmic Burst
-41,Enchantment,Legendary,Potent Lethargy
-42,Creature,Legendary,Frozen Undead Cyclops of the Plains
-43,Creature,Mythic,Snow Time Phoenix of Hate
-44,Creature,Common,Magi
+==================,DECK,4721
+0,Spell,Torment
+1,Creature,Skin-Walker
+2,Artifact,Gauntlet
+3,Creature,Dark King Cyclops
+4,Creature,Troll
+5,Spell,Lightning
+6,Enchantment,Shrink
+7,Artifact,Ardent Chimeric Ring
+8,Creature,Spider
+9,Creature,Snow Rogue Giant of the West
+10,Artifact,Pendant
+11,Creature,Dark Lord Goblin
+12,Creature,Wolf
+13,Artifact,Divine Robe
+14,Creature,Death Knight Ogre of the Frozen Castle
+15,Creature,Spider
+16,Enchantment,Frigid Haste
+17,Creature,Light Ancient Demon of the Sky
+18,Creature,Magi
+19,Artifact,Pendant
+20,Creature,Spider
+21,Artifact,Shimmering Scythe
+22,Creature,Troll
+23,Enchantment,Drain
+24,Enchantment,Shade
+25,Enchantment,Urgent Forged Agony
+26,Creature,Ghoul
+27,Creature,Magi
+28,Artifact,Greaves
+29,Creature,Frozen Undead Dragon of the Void
+30,Creature,Snow Rogue Hydra
+31,Creature,Light Warrior Kraken
+32,Creature,Death Nameless Dragon of the Dead
+33,Creature,Aura Assassin Elf of the Magical Forest
+34,Artifact,Sigil
+35,Artifact,Greaves
+36,Creature,Light Thief Hydra
+37,Spell,Shimmering Frenzy
+38,Creature,Dark Fighter Griffin
+39,Creature,Earth Time Dragon of the Shadows
+40,Spell,Gloom Vortex
+41,Enchantment,Dire Grim Shade
+42,Creature,Frozen Undead Giant of the Plains
+43,Creature,Snow Time Phoenix of Hate
+44,Creature,Fairy

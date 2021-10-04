@@ -1,46 +1,46 @@
-==================,DECK,5238,Medium
-0,Spell,Common,Vortex
-1,Spell,Common,Gale
-2,Enchantment,Rare,Cataclysmic Drain
-3,Creature,Mythic,Frozen Ancient Wizard of the Void
-4,Spell,Common,Vortex
-5,Creature,Common,Orc
-6,Creature,Common,Orc
-7,Enchantment,Common,Lethargy
-8,Spell,Rare,Cataclysmic Infuriate
-9,Spell,Common,Burn
-10,Enchantment,Mythic,Potent Flight
-11,Creature,Rare,Aura Undead Hydra
-12,Spell,Common,Ice
-13,Creature,Mythic,Earth Chaos Wizard of the Shadows
-14,Spell,Common,Vortex
-15,Spell,Legendary,Mighty Stricken
-16,Enchantment,Common,Shrink
-17,Spell,Common,Reanimate
-18,Creature,Legendary,Snow King Kraken of the Black Stone
-19,Artifact,Common,Pendant
-20,Creature,Common,Ghoul
-21,Creature,Rare,Dark Merchant Skin-Walker
-22,Spell,Common,Vortex
-23,Spell,Common,Ice
-24,Creature,Mythic,Death Nameless Dragon of the Dead
-25,Creature,Legendary,Aura Monk Oni of the Eternal Land
-26,Artifact,Rare,Frigid Amulet
-27,Creature,Rare,Light Fighter Minotaur
-28,Enchantment,Rare,Grim Shield
-29,Artifact,Common,Crown
-30,Creature,Rare,Snow Thief Griffin
-31,Creature,Common,Wolf
-32,Spell,Common,Vortex
-33,Creature,Common,Elf
-34,Enchantment,Rare,Hateful Haste
-35,Artifact,Legendary,Intense Pendant
-36,Artifact,Common,Scythe
-37,Creature,Common,Spider
-38,Artifact,Common,Amulet
-39,Enchantment,Common,Alacrity
-40,Artifact,Common,Divine Robe
-41,Creature,Common,Paladin
-42,Spell,Rare,Miracle Sorrow
-43,Spell,Rare,Nimble Wall
-44,Creature,Rare,Dark Monk Fairy
+==================,DECK,5238
+0,Spell,Burst
+1,Spell,Sorrow
+2,Enchantment,Dark Shrink
+3,Creature,Frozen Ancient Wizard of the Void
+4,Spell,Torment
+5,Creature,Spider
+6,Creature,Spider
+7,Enchantment,Shade
+8,Spell,Chimeric Lightning
+9,Spell,Tempest
+10,Enchantment,Mighty Grim Invert
+11,Creature,Aura Undead Hydra
+12,Spell,Pandemonium
+13,Creature,Earth Chaos Wizard of the Shadows
+14,Spell,Invisibility
+15,Spell,Mighty Lunar Frenzy
+16,Enchantment,Shade
+17,Spell,Stun
+18,Creature,Snow King Ogre of the Black Stone
+19,Artifact,Pendant
+20,Creature,Ghoul
+21,Creature,Dark Merchant Orc
+22,Spell,Lightning
+23,Spell,Torment
+24,Creature,Death Nameless Dragon of the Dead
+25,Creature,Aura Monk Oni of the Eternal Land
+26,Artifact,Victory Amulet
+27,Creature,Light Fighter Cyclops
+28,Enchantment,Victory Blight
+29,Artifact,Crown
+30,Creature,Snow Thief Griffin
+31,Creature,Wolf
+32,Spell,Fire
+33,Creature,Warlock
+34,Enchantment,Miracle Alacrity
+35,Artifact,Zealous Nature Pendant
+36,Artifact,Scythe
+37,Creature,Paladin
+38,Artifact,Amulet
+39,Enchantment,Flight
+40,Artifact,Divine Robe
+41,Creature,Troll
+42,Spell,Victory Torment
+43,Spell,Nature Tempest
+44,Creature,Dark Monk Kraken

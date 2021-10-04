@@ -1,46 +1,46 @@
-==================,DECK,7706,Medium
-0,Spell,Common,Heal
-1,Creature,Legendary,Frozen Undead Cyclops of the West
-2,Spell,Common,Burn
-3,Creature,Common,Dwarf
-4,Spell,Common,Sorrow
-5,Creature,Common,Goblin
-6,Creature,Common,Orc
-7,Creature,Common,Eagle
-8,Spell,Common,Wall
-9,Creature,Common,Dwarf
-10,Creature,Common,Wolf
-11,Creature,Common,Warlock
-12,Enchantment,Common,Agony
-13,Creature,Common,Wolf
-14,Spell,Common,Gravitation
-15,Spell,Common,Stricken
-16,Creature,Common,Orc
-17,Creature,Legendary,Snow Thief Giant of the Black Stone
-18,Enchantment,Common,Age
-19,Creature,Rare,Death Lord Minotaur
-20,Creature,Rare,Aura Rogue Griffin
-21,Enchantment,Rare,Grim Lethargy
-22,Artifact,Common,Sword
-23,Spell,Legendary,Angry Fury
-24,Creature,Common,Eagle
-25,Spell,Common,Vortex
-26,Enchantment,Rare,Lunar Age
-27,Creature,Rare,Frozen Assassin Griffin
-28,Creature,Common,Eagle
-29,Creature,Rare,Snow Knight Griffin
-30,Enchantment,Common,Agony
-31,Creature,Rare,Aura Knight Hydra
-32,Artifact,Legendary,Dire Sword
-33,Enchantment,Mythic,Instant Invert
-34,Creature,Rare,Death Lord Fairy
-35,Creature,Mythic,Snow Nameless Phoenix of Hate
-36,Creature,Common,Wolf
-37,Enchantment,Common,Drain
-38,Creature,Common,Warlock
-39,Creature,Common,Eagle
-40,Creature,Common,Paladin
-41,Creature,Legendary,Dark King Oni of the Golden Palace
-42,Enchantment,Common,Drain
-43,Spell,Rare,Nimble Invisibility
-44,Creature,Rare,Snow Knight Berserker
+==================,DECK,7706
+0,Spell,Freeze
+1,Creature,Frozen Undead Giant of the West
+2,Spell,Gale
+3,Creature,Magi
+4,Spell,Assault
+5,Creature,Skin-Walker
+6,Creature,Spider
+7,Creature,Eagle
+8,Spell,Hypnosis
+9,Creature,Magi
+10,Creature,Wolf
+11,Creature,Berserker
+12,Enchantment,Invert
+13,Creature,Wolf
+14,Spell,Vortex
+15,Spell,Revive
+16,Creature,Spider
+17,Creature,Snow Thief Dwarf of the Black Stone
+18,Enchantment,Haste
+19,Creature,Death Lord Cyclops
+20,Creature,Aura Rogue Griffin
+21,Enchantment,Grim Shade
+22,Artifact,Sword
+23,Spell,Mighty Sorrow Stricken
+24,Creature,Eagle
+25,Spell,Infuriate
+26,Enchantment,Gloom Flight
+27,Creature,Frozen Assassin Griffin
+28,Creature,Eagle
+29,Creature,Snow Knight Griffin
+30,Enchantment,Lethargy
+31,Creature,Aura Knight Hydra
+32,Artifact,Instant Nimble Sword
+33,Enchantment,Urgent Shimmering Agony
+34,Creature,Death Lord Kraken
+35,Creature,Snow Nameless Phoenix of Hate
+36,Creature,Wolf
+37,Enchantment,Alacrity
+38,Creature,Berserker
+39,Creature,Eagle
+40,Creature,Troll
+41,Creature,Dark King Oni of the Golden Palace
+42,Enchantment,Age
+43,Spell,Shimmering Vortex
+44,Creature,Snow Knight Goblin

@@ -1,46 +1,46 @@
-==================,DECK,7154,Light
-0,Enchantment,Common,Deathgrip
-1,Artifact,Rare,Apocalypse Gauntlet
-2,Spell,Legendary,Potent Pandemonium
-3,Creature,Rare,Aura Priest Minotaur
-4,Creature,Common,Warlock
-5,Creature,Legendary,Dark Lord Kraken of the Eastern Skies
-6,Creature,Common,Orc
-7,Creature,Legendary,Frozen Lord Orge of the Bright Mountains
-8,Enchantment,Common,Haste
-9,Creature,Common,Orc
-10,Creature,Legendary,Dark Assassin Kraken of the Arctic Blizzards
-11,Spell,Common,Maelstrom
-12,Spell,Legendary,Clever Sorrow
-13,Creature,Common,Wolf
-14,Creature,Legendary,Aura Priest Kraken of the Bright Mountains
-15,Creature,Rare,Dark Fighter Minotaur
-16,Creature,Common,Ghoul
-17,Creature,Common,Goblin
-18,Spell,Common,Stun
-19,Enchantment,Rare,Solar Alacrity
-20,Spell,Common,Gale
-21,Spell,Common,Gale
-22,Creature,Common,Wolf
-23,Creature,Rare,Light Warrior Fairy
-24,Enchantment,Common,Agony
-25,Creature,Rare,Dark King Hydra
-26,Creature,Common,Warlock
-27,Creature,Rare,Dark Thief Skin-Walker
-28,Creature,Common,Magi
-29,Spell,Common,Stricken
-30,Enchantment,Common,Drain
-31,Creature,Rare,Light Thief Hydra
-32,Creature,Rare,Frozen Lord Griffin
-33,Spell,Common,Infuriate
-34,Artifact,Common,Sigil
-35,Creature,Common,Spider
-36,Spell,Common,Sorrow
-37,Creature,Common,Magi
-38,Enchantment,Legendary,Instant Invert
-39,Spell,Legendary,Mighty Revive
-40,Enchantment,Mythic,Clever Lethargy
-41,Enchantment,Common,Shrink
-42,Creature,Common,Orc
-43,Spell,Common,Frost
-44,Creature,Common,Goblin
+==================,DECK,7154
+0,Enchantment,Strength
+1,Artifact,Frigid Gauntlet
+2,Spell,Empyrean Oblivion Tempest
+3,Creature,Aura Priest Cyclops
+4,Creature,Berserker
+5,Creature,Dark Lord Ogre of the Eastern Skies
+6,Creature,Spider
+7,Creature,Frozen Lord Elf of the Bright Mountains
+8,Enchantment,Shrink
+9,Creature,Spider
+10,Creature,Dark Assassin Ogre of the Arctic Blizzards
+11,Spell,Wall
+12,Spell,Zealous Victory Lightning
+13,Creature,Wolf
+14,Creature,Aura Priest Ogre of the Bright Mountains
+15,Creature,Dark Fighter Cyclops
+16,Creature,Ghoul
+17,Creature,Skin-Walker
+18,Spell,Torment
+19,Enchantment,Forged Deathgrip
+20,Spell,Burst
+21,Spell,Ice
+22,Creature,Wolf
+23,Creature,Light Warrior Kraken
+24,Enchantment,Firebreath
+25,Creature,Dark King Hydra
+26,Creature,Berserker
+27,Creature,Dark Thief Orc
+28,Creature,Fairy
+29,Spell,Vortex
+30,Enchantment,Invert
+31,Creature,Light Thief Hydra
+32,Creature,Frozen Lord Griffin
+33,Spell,Sorrow
+34,Artifact,Sigil
+35,Creature,Paladin
+36,Spell,Pandemonium
+37,Creature,Fairy
+38,Enchantment,Dire Shimmering Age
+39,Spell,Instant Cataclysmic Lightning
+40,Enchantment,Instant Grim Drain
+41,Enchantment,Alacrity
+42,Creature,Spider
+43,Spell,Burst
+44,Creature,Skin-Walker

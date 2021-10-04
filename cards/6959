@@ -1,46 +1,46 @@
-==================,DECK,6959,Light
-0,Spell,Common,Invisibility
-1,Creature,Common,Eagle
-2,Creature,Legendary,Frozen Priest Oni of the Haven
-3,Creature,Common,Wolf
-4,Artifact,Common,Scepter
-5,Artifact,Common,Gauntlet
-6,Artifact,Common,Sigil
-7,Enchantment,Common,Shield
-8,Creature,Legendary,Dark Priest Kraken of the Eastern Skies
-9,Creature,Legendary,Aura Undead Kraken of the Haven
-10,Creature,Common,Ghoul
-11,Enchantment,Common,Haste
-12,Enchantment,Common,Drain
-13,Enchantment,Common,Haste
-14,Creature,Common,Wolf
-15,Creature,Common,Wolf
-16,Creature,Common,Dwarf
-17,Creature,Common,Wolf
-18,Spell,Rare,Forged Frost
-19,Spell,Common,Stun
-20,Enchantment,Common,Flight
-21,Artifact,Common,Helmet
-22,Spell,Rare,Lunar Maelstrom
-23,Creature,Common,Orc
-24,Enchantment,Common,Flight
-25,Spell,Common,Burst
-26,Spell,Common,Burn
-27,Creature,Legendary,Death Thief Kraken of the Magical Forest
-28,Creature,Common,Spider
-29,Creature,Rare,Aura Assassin Griffin
-30,Enchantment,Mythic,Dire Blight
-31,Creature,Common,Magi
-32,Enchantment,Common,Shade
-33,Creature,Rare,Light Priest Skin-Walker
-34,Spell,Common,Rage
-35,Creature,Common,Wolf
-36,Artifact,Rare,Frigid Ghost Wand
-37,Creature,Common,Warlock
-38,Creature,Common,Magi
-39,Creature,Common,Goblin
-40,Creature,Common,Spider
-41,Artifact,Common,Crown
-42,Spell,Common,Sorrow
-43,Artifact,Common,Ring
-44,Creature,Common,Dwarf
+==================,DECK,6959
+0,Spell,Sorrow
+1,Creature,Eagle
+2,Creature,Frozen Priest Oni of the Haven
+3,Creature,Wolf
+4,Artifact,Scepter
+5,Artifact,Gauntlet
+6,Artifact,Sigil
+7,Enchantment,Lethargy
+8,Creature,Dark Priest Ogre of the Eastern Skies
+9,Creature,Aura Undead Ogre of the Haven
+10,Creature,Ghoul
+11,Enchantment,Drain
+12,Enchantment,Flight
+13,Enchantment,Deathgrip
+14,Creature,Wolf
+15,Creature,Wolf
+16,Creature,Magi
+17,Creature,Wolf
+18,Spell,Dark Heal
+19,Spell,Reanimate
+20,Enchantment,Shrink
+21,Artifact,Helmet
+22,Spell,Cataclysmic Rage
+23,Creature,Spider
+24,Enchantment,Flight
+25,Spell,Burn
+26,Spell,Revive
+27,Creature,Death Thief Ogre of the Magical Forest
+28,Creature,Paladin
+29,Creature,Aura Assassin Griffin
+30,Enchantment,Potent Nimble Drain
+31,Creature,Fairy
+32,Enchantment,Shade
+33,Creature,Light Priest Orc
+34,Spell,Sorrow
+35,Creature,Wolf
+36,Artifact,Life Ghost Wand
+37,Creature,Berserker
+38,Creature,Fairy
+39,Creature,Skin-Walker
+40,Creature,Paladin
+41,Artifact,Crown
+42,Spell,Infuriate
+43,Artifact,Ring
+44,Creature,Magi

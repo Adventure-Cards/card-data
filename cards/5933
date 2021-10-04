@@ -1,46 +1,46 @@
-==================,DECK,5933,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Agony
-2,Enchantment,Common,Agony
-3,Creature,Common,Ghoul
-4,Creature,Common,Wolf
-5,Creature,Legendary,Death Fighter Giant of the Arctic Blizzards
-6,Spell,Common,Stricken
-7,Creature,Common,Paladin
-8,Creature,Rare,Aura Lord Hydra
-9,Creature,Rare,Light Rogue Fairy
-10,Creature,Rare,Light Monk Griffin
-11,Artifact,Legendary,Mighty Bracers
-12,Enchantment,Common,Shrink
-13,Artifact,Common,Belt
-14,Creature,Rare,Earth Warrior Hydra
-15,Artifact,Common,Gloves
-16,Spell,Common,Gravitation
-17,Spell,Common,Vortex
-18,Creature,Common,Orc
-19,Enchantment,Rare,Lunar Shrink
-20,Creature,Common,Eagle
-21,Creature,Common,Paladin
-22,Creature,Common,Paladin
-23,Creature,Common,Warlock
-24,Artifact,Rare,Dark Potion
-25,Artifact,Rare,Cataclysmic Belt
-26,Creature,Mythic,Death Grand Demon of the Dead
-27,Creature,Legendary,Dark Thief Orge of the Border
-28,Creature,Common,Dwarf
-29,Spell,Common,Wall
-30,Enchantment,Common,Age
-31,Creature,Rare,Light Warrior Berserker
-32,Creature,Common,Wolf
-33,Creature,Legendary,Light Priest Oni of the Low Hills
-34,Creature,Common,Goblin
-35,Creature,Legendary,Frozen Lord Kraken of the Eternal Land
-36,Creature,Common,Dwarf
-37,Creature,Common,Wolf
-38,Creature,Common,Eagle
-39,Spell,Common,Revive
-40,Creature,Common,Paladin
-41,Artifact,Rare,Cataclysmic Ghost Wand
-42,Creature,Common,Goblin
-43,Creature,Rare,Light Rogue Hydra
-44,Enchantment,Common,Age
+==================,DECK,5933
+0,Creature,Magi
+1,Enchantment,Alacrity
+2,Enchantment,Shield
+3,Creature,Ghoul
+4,Creature,Wolf
+5,Creature,Death Fighter Dwarf of the Arctic Blizzards
+6,Spell,Reanimate
+7,Creature,Troll
+8,Creature,Aura Lord Hydra
+9,Creature,Light Rogue Kraken
+10,Creature,Light Monk Griffin
+11,Artifact,Irate Dark Bracers
+12,Enchantment,Strength
+13,Artifact,Belt
+14,Creature,Earth Warrior Hydra
+15,Artifact,Gloves
+16,Spell,Fury
+17,Spell,Stricken
+18,Creature,Spider
+19,Enchantment,Chimeric Firebreath
+20,Creature,Eagle
+21,Creature,Troll
+22,Creature,Troll
+23,Creature,Berserker
+24,Artifact,Sorrow Potion
+25,Artifact,Cataclysmic Belt
+26,Creature,Death Grand Demon of the Dead
+27,Creature,Dark Thief Elf of the Border
+28,Creature,Magi
+29,Spell,Lightning
+30,Enchantment,Drain
+31,Creature,Light Warrior Goblin
+32,Creature,Wolf
+33,Creature,Light Priest Oni of the Low Hills
+34,Creature,Skin-Walker
+35,Creature,Frozen Lord Ogre of the Eternal Land
+36,Creature,Magi
+37,Creature,Wolf
+38,Creature,Eagle
+39,Spell,Burst
+40,Creature,Troll
+41,Artifact,Miracle Ghost Wand
+42,Creature,Skin-Walker
+43,Creature,Light Rogue Hydra
+44,Enchantment,Drain

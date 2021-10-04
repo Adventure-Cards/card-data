@@ -1,46 +1,46 @@
-==================,DECK,6441,Medium
-0,Spell,Common,Heal
-1,Artifact,Common,Gauntlet
-2,Enchantment,Common,Shield
-3,Spell,Common,Revive
-4,Spell,Rare,Nimble Heal
-5,Spell,Legendary,Clever Vortex
-6,Creature,Rare,Death Monk Minotaur
-7,Creature,Rare,Aura Thief Skin-Walker
-8,Artifact,Common,Potion
-9,Creature,Common,Orc
-10,Enchantment,Legendary,Clever Agony
-11,Enchantment,Common,Deathgrip
-12,Creature,Rare,Death King Fairy
-13,Creature,Common,Warlock
-14,Creature,Common,Warlock
-15,Spell,Common,Stricken
-16,Creature,Legendary,Dark Rogue Giant of the Frozen Castle
-17,Creature,Rare,Death Queen Minotaur
-18,Creature,Rare,Dark Undead Griffin
-19,Creature,Common,Warlock
-20,Artifact,Common,Scythe
-21,Creature,Common,Magi
-22,Creature,Common,Spider
-23,Spell,Common,Torment
-24,Creature,Common,Ghoul
-25,Artifact,Common,Ring
-26,Creature,Common,Warlock
-27,Enchantment,Common,Shade
-28,Creature,Common,Spider
-29,Creature,Rare,Earth Assassin Fairy
-30,Creature,Rare,Frozen Undead Hydra
-31,Spell,Common,Wall
-32,Creature,Common,Spider
-33,Creature,Common,Elf
-34,Artifact,Rare,Solar Scythe
-35,Creature,Common,Warlock
-36,Creature,Common,Ghoul
-37,Creature,Mythic,Frozen Undead Dragon of the Void
-38,Enchantment,Common,Drain
-39,Spell,Common,Frost
-40,Creature,Common,Dwarf
-41,Creature,Common,Goblin
-42,Creature,Common,Ghoul
-43,Artifact,Common,Crown
-44,Artifact,Legendary,Angry Pendant
+==================,DECK,6441
+0,Spell,Burn
+1,Artifact,Gauntlet
+2,Enchantment,Age
+3,Spell,Ice
+4,Spell,Forged Frost
+5,Spell,Urgent Apocalypse Stricken
+6,Creature,Death Monk Cyclops
+7,Creature,Aura Thief Orc
+8,Artifact,Potion
+9,Creature,Spider
+10,Enchantment,Ardent Life Haste
+11,Enchantment,Strength
+12,Creature,Death King Kraken
+13,Creature,Berserker
+14,Creature,Berserker
+15,Spell,Sorrow
+16,Creature,Dark Rogue Dwarf of the Frozen Castle
+17,Creature,Death Queen Cyclops
+18,Creature,Dark Undead Griffin
+19,Creature,Berserker
+20,Artifact,Scythe
+21,Creature,Fairy
+22,Creature,Paladin
+23,Spell,Wall
+24,Creature,Ghoul
+25,Artifact,Ring
+26,Creature,Berserker
+27,Enchantment,Haste
+28,Creature,Paladin
+29,Creature,Earth Assassin Kraken
+30,Creature,Frozen Undead Hydra
+31,Spell,Assault
+32,Creature,Paladin
+33,Creature,Warlock
+34,Artifact,Shimmering Scythe
+35,Creature,Berserker
+36,Creature,Ghoul
+37,Creature,Frozen Undead Dragon of the Void
+38,Enchantment,Deathgrip
+39,Spell,Heal
+40,Creature,Magi
+41,Creature,Skin-Walker
+42,Creature,Ghoul
+43,Artifact,Crown
+44,Artifact,Zealous Lunar Pendant

@@ -1,46 +1,46 @@
-==================,DECK,5389,Light
-0,Creature,Common,Ghoul
-1,Creature,Mythic,Earth Ancient Wizard of the Shadows
-2,Spell,Rare,Hateful Reanimate
-3,Spell,Common,Assault
-4,Creature,Common,Eagle
-5,Creature,Common,Elf
-6,Creature,Common,Eagle
-7,Enchantment,Common,Invert
-8,Enchantment,Common,Agony
-9,Creature,Common,Elf
-10,Enchantment,Common,Shade
-11,Creature,Common,Paladin
-12,Creature,Common,Elf
-13,Creature,Common,Wolf
-14,Creature,Common,Paladin
-15,Creature,Rare,Dark Assassin Berserker
-16,Creature,Common,Magi
-17,Creature,Common,Eagle
-18,Artifact,Common,Bracers
-19,Enchantment,Common,Strength
-20,Enchantment,Common,Haste
-21,Creature,Common,Wolf
-22,Enchantment,Common,Deathgrip
-23,Spell,Common,Invisibility
-24,Artifact,Common,Ring
-25,Creature,Rare,Light Lord Skin-Walker
-26,Spell,Rare,Life Infuriate
-27,Creature,Common,Elf
-28,Creature,Common,Ghoul
-29,Creature,Common,Elf
-30,Creature,Common,Spider
-31,Creature,Common,Elf
-32,Creature,Common,Warlock
-33,Creature,Legendary,Frozen Assassin Kraken of the Black Stone
-34,Artifact,Common,Bow
-35,Spell,Legendary,Urgent Gravitation
-36,Creature,Common,Wolf
-37,Creature,Rare,Earth Queen Berserker
-38,Creature,Common,Eagle
-39,Creature,Common,Dwarf
-40,Creature,Common,Goblin
-41,Creature,Common,Eagle
-42,Enchantment,Common,Deathgrip
-43,Enchantment,Common,Age
-44,Spell,Common,Burst
+==================,DECK,5389
+0,Creature,Ghoul
+1,Creature,Earth Ancient Wizard of the Shadows
+2,Spell,Miracle Heal
+3,Spell,Fireball
+4,Creature,Eagle
+5,Creature,Warlock
+6,Creature,Eagle
+7,Enchantment,Shrink
+8,Enchantment,Lethargy
+9,Creature,Warlock
+10,Enchantment,Flight
+11,Creature,Troll
+12,Creature,Warlock
+13,Creature,Wolf
+14,Creature,Troll
+15,Creature,Dark Assassin Goblin
+16,Creature,Fairy
+17,Creature,Eagle
+18,Artifact,Bracers
+19,Enchantment,Deathgrip
+20,Enchantment,Agony
+21,Creature,Wolf
+22,Enchantment,Alacrity
+23,Spell,Gravitation
+24,Artifact,Ring
+25,Creature,Light Lord Orc
+26,Spell,Life Invisibility
+27,Creature,Warlock
+28,Creature,Ghoul
+29,Creature,Warlock
+30,Creature,Paladin
+31,Creature,Warlock
+32,Creature,Berserker
+33,Creature,Frozen Assassin Ogre of the Black Stone
+34,Artifact,Bow
+35,Spell,Urgent Shimmering Assault
+36,Creature,Wolf
+37,Creature,Earth Queen Goblin
+38,Creature,Eagle
+39,Creature,Magi
+40,Creature,Skin-Walker
+41,Creature,Eagle
+42,Enchantment,Agony
+43,Enchantment,Blight
+44,Spell,Stricken

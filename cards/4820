@@ -1,46 +1,46 @@
-==================,DECK,4820,Light
-0,Enchantment,Common,Shield
-1,Creature,Legendary,Dark Rogue Oni of the Haven
-2,Creature,Common,Magi
-3,Creature,Rare,Snow Warrior Griffin
-4,Creature,Rare,Frozen King Fairy
-5,Creature,Common,Spider
-6,Creature,Rare,Aura Fighter Griffin
-7,Spell,Common,Burst
-8,Creature,Mythic,Light Ancient Demon of the Sky
-9,Spell,Common,Wall
-10,Creature,Common,Magi
-11,Creature,Legendary,Light Thief Oni of the Black Stone
-12,Creature,Common,Warlock
-13,Enchantment,Rare,Necro Flight
-14,Creature,Common,Elf
-15,Spell,Common,Burst
-16,Creature,Common,Paladin
-17,Enchantment,Common,Strength
-18,Spell,Common,Vortex
-19,Spell,Common,Wall
-20,Creature,Common,Warlock
-21,Enchantment,Common,Invert
-22,Spell,Rare,Nimble Frenzy
-23,Creature,Legendary,Earth Warrior Orge of the Arctic Blizzards
-24,Creature,Common,Goblin
-25,Enchantment,Common,Flight
-26,Spell,Rare,Lunar Pandemonium
-27,Spell,Legendary,Instant Hypnosis
-28,Creature,Common,Wolf
-29,Enchantment,Common,Flight
-30,Creature,Legendary,Snow Warrior Orge of the Mountains
-31,Enchantment,Common,Drain
-32,Enchantment,Common,Haste
-33,Creature,Rare,Light Warrior Griffin
-34,Creature,Common,Paladin
-35,Creature,Common,Paladin
-36,Enchantment,Common,Agony
-37,Creature,Common,Wolf
-38,Enchantment,Common,Shrink
-39,Creature,Common,Eagle
-40,Creature,Common,Warlock
-41,Enchantment,Common,Agony
-42,Artifact,Legendary,Intense Cloak
-43,Enchantment,Common,Agony
-44,Creature,Common,Eagle
+==================,DECK,4820
+0,Enchantment,Shield
+1,Creature,Dark Rogue Oni of the Haven
+2,Creature,Fairy
+3,Creature,Snow Warrior Griffin
+4,Creature,Frozen King Kraken
+5,Creature,Paladin
+6,Creature,Aura Fighter Griffin
+7,Spell,Stricken
+8,Creature,Light Ancient Demon of the Sky
+9,Spell,Maelstrom
+10,Creature,Fairy
+11,Creature,Light Thief Oni of the Black Stone
+12,Creature,Berserker
+13,Enchantment,Hateful Lethargy
+14,Creature,Warlock
+15,Spell,Tempest
+16,Creature,Troll
+17,Enchantment,Blight
+18,Spell,Burn
+19,Spell,Fireball
+20,Creature,Berserker
+21,Enchantment,Strength
+22,Spell,Hateful Heal
+23,Creature,Earth Warrior Elf of the Arctic Blizzards
+24,Creature,Skin-Walker
+25,Enchantment,Agony
+26,Spell,Sorrow Stun
+27,Spell,Zealous Solar Maelstrom
+28,Creature,Wolf
+29,Enchantment,Lethargy
+30,Creature,Snow Warrior Elf of the Mountains
+31,Enchantment,Age
+32,Enchantment,Flight
+33,Creature,Light Warrior Griffin
+34,Creature,Troll
+35,Creature,Troll
+36,Enchantment,Shade
+37,Creature,Wolf
+38,Enchantment,Age
+39,Creature,Eagle
+40,Creature,Berserker
+41,Enchantment,Blight
+42,Artifact,Clever Corpse Cloak
+43,Enchantment,Shield
+44,Creature,Eagle

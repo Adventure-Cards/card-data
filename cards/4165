@@ -1,46 +1,46 @@
-==================,DECK,4165,Light
-0,Creature,Common,Warlock
-1,Spell,Common,Freeze
-2,Creature,Legendary,Frozen Knight Cyclops of the Mountains
-3,Creature,Rare,Dark Warrior Fairy
-4,Spell,Legendary,Clever Gale
-5,Enchantment,Common,Blight
-6,Enchantment,Common,Shrink
-7,Artifact,Common,Bracers
-8,Spell,Rare,Oblivion Heal
-9,Creature,Common,Dwarf
-10,Creature,Rare,Snow Warrior Hydra
-11,Spell,Common,Gravitation
-12,Artifact,Common,Crown
-13,Spell,Legendary,Clever Assault
-14,Creature,Common,Ghoul
-15,Creature,Common,Ghoul
-16,Creature,Common,Dwarf
-17,Creature,Legendary,Earth Queen Oni of the Frozen Castle
-18,Spell,Common,Frost
-19,Creature,Common,Elf
-20,Spell,Common,Stun
-21,Enchantment,Mythic,Clever Deathgrip
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Snow Assassin Giant of the Mountains
-24,Spell,Legendary,Instant Assault
-25,Artifact,Common,Scythe
-26,Creature,Rare,Snow Rogue Skin-Walker
-27,Enchantment,Common,Shield
-28,Creature,Rare,Light Lord Griffin
-29,Creature,Common,Orc
-30,Creature,Rare,Snow Merchant Hydra
-31,Creature,Common,Paladin
-32,Artifact,Common,Tome
-33,Creature,Common,Wolf
-34,Spell,Common,Heal
-35,Artifact,Legendary,Angry Gloves
-36,Spell,Common,Hypnosis
-37,Spell,Legendary,Clever Gravitation
-38,Spell,Rare,Shimmering Gale
-39,Creature,Common,Wolf
-40,Artifact,Common,Tome
-41,Enchantment,Common,Deathgrip
-42,Creature,Common,Elf
-43,Artifact,Common,Cloak
-44,Creature,Mythic,Aura Grand Wizard of the Light
+==================,DECK,4165
+0,Creature,Berserker
+1,Spell,Vortex
+2,Creature,Frozen Knight Giant of the Mountains
+3,Creature,Dark Warrior Kraken
+4,Spell,Zealous Apocalypse Stun
+5,Enchantment,Agony
+6,Enchantment,Shield
+7,Artifact,Bracers
+8,Spell,Grim Maelstrom
+9,Creature,Magi
+10,Creature,Snow Warrior Hydra
+11,Spell,Heal
+12,Artifact,Crown
+13,Spell,Ardent Nimble Burst
+14,Creature,Ghoul
+15,Creature,Ghoul
+16,Creature,Magi
+17,Creature,Earth Queen Oni of the Frozen Castle
+18,Spell,Rage
+19,Creature,Warlock
+20,Spell,Vortex
+21,Enchantment,Potent Oblivion Drain
+22,Creature,Magi
+23,Creature,Snow Assassin Dwarf of the Mountains
+24,Spell,Dire Forged Lightning
+25,Artifact,Scythe
+26,Creature,Snow Rogue Orc
+27,Enchantment,Blight
+28,Creature,Light Lord Griffin
+29,Creature,Spider
+30,Creature,Snow Merchant Hydra
+31,Creature,Troll
+32,Artifact,Tome
+33,Creature,Wolf
+34,Spell,Vortex
+35,Artifact,Instant Sorrow Gloves
+36,Spell,Invisibility
+37,Spell,Urgent Grim Burst
+38,Spell,Shimmering Freeze
+39,Creature,Wolf
+40,Artifact,Tome
+41,Enchantment,Alacrity
+42,Creature,Warlock
+43,Artifact,Cloak
+44,Creature,Aura Grand Wizard of the Light

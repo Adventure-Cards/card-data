@@ -1,46 +1,46 @@
-==================,DECK,6745,Light
-0,Artifact,Common,Potion
-1,Creature,Common,Elf
-2,Artifact,Common,Helm
-3,Creature,Legendary,Light Assassin Oni of the Haven
-4,Creature,Common,Magi
-5,Creature,Common,Paladin
-6,Creature,Common,Ghoul
-7,Creature,Common,Wolf
-8,Enchantment,Common,Shrink
-9,Creature,Common,Elf
-10,Spell,Common,Torment
-11,Spell,Rare,Miracle Maelstrom
-12,Spell,Common,Burn
-13,Creature,Common,Warlock
-14,Creature,Mythic,Death Time Phoenix of the Dead
-15,Enchantment,Common,Agony
-16,Spell,Common,Gravitation
-17,Creature,Common,Paladin
-18,Creature,Common,Wolf
-19,Enchantment,Mythic,Extreme Haste
-20,Enchantment,Rare,Frigid Strength
-21,Creature,Common,Dwarf
-22,Creature,Common,Orc
-23,Enchantment,Common,Invert
-24,Creature,Common,Dwarf
-25,Creature,Mythic,Light Time Phoenix of the Sky
-26,Creature,Legendary,Earth Merchant Orge of the Polar Woods
-27,Creature,Common,Orc
-28,Creature,Common,Wolf
-29,Creature,Common,Dwarf
-30,Creature,Common,Spider
-31,Enchantment,Common,Deathgrip
-32,Creature,Common,Warlock
-33,Enchantment,Common,Shade
-34,Spell,Common,Ice
-35,Creature,Common,Goblin
-36,Creature,Common,Elf
-37,Enchantment,Rare,Grim Agony
-38,Spell,Common,Ice
-39,Creature,Common,Magi
-40,Creature,Common,Magi
-41,Artifact,Common,Cloak
-42,Creature,Common,Elf
-43,Enchantment,Common,Shield
-44,Enchantment,Common,Blight
+==================,DECK,6745
+0,Artifact,Potion
+1,Creature,Warlock
+2,Artifact,Helm
+3,Creature,Light Assassin Oni of the Haven
+4,Creature,Fairy
+5,Creature,Troll
+6,Creature,Ghoul
+7,Creature,Wolf
+8,Enchantment,Agony
+9,Creature,Warlock
+10,Spell,Burn
+11,Spell,Oblivion Pandemonium
+12,Spell,Torment
+13,Creature,Berserker
+14,Creature,Death Time Phoenix of the Dead
+15,Enchantment,Lethargy
+16,Spell,Burst
+17,Creature,Troll
+18,Creature,Wolf
+19,Enchantment,Clever Miracle Shield
+20,Enchantment,Nimble Haste
+21,Creature,Magi
+22,Creature,Spider
+23,Enchantment,Firebreath
+24,Creature,Magi
+25,Creature,Light Time Phoenix of the Sky
+26,Creature,Earth Merchant Elf of the Polar Woods
+27,Creature,Spider
+28,Creature,Wolf
+29,Creature,Magi
+30,Creature,Paladin
+31,Enchantment,Alacrity
+32,Creature,Berserker
+33,Enchantment,Shrink
+34,Spell,Vortex
+35,Creature,Skin-Walker
+36,Creature,Warlock
+37,Enchantment,Life Drain
+38,Spell,Fury
+39,Creature,Fairy
+40,Creature,Fairy
+41,Artifact,Cloak
+42,Creature,Warlock
+43,Enchantment,Age
+44,Enchantment,Shade

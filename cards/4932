@@ -1,46 +1,46 @@
-==================,DECK,4932,Medium
-0,Spell,Common,Frost
-1,Enchantment,Legendary,Urgent Age
-2,Creature,Legendary,Death Queen Cyclops of the Golden Palace
-3,Spell,Common,Vortex
-4,Creature,Rare,Snow Lord Minotaur
-5,Enchantment,Mythic,Extreme Drain
-6,Creature,Common,Warlock
-7,Creature,Common,Magi
-8,Creature,Rare,Earth Assassin Fairy
-9,Enchantment,Common,Alacrity
-10,Spell,Common,Assault
-11,Enchantment,Common,Blight
-12,Enchantment,Legendary,Mighty Shrink
-13,Spell,Common,Gale
-14,Creature,Rare,Frozen Monk Berserker
-15,Creature,Common,Paladin
-16,Creature,Rare,Earth Merchant Griffin
-17,Creature,Mythic,Dark Time Phoenix of Illusion
-18,Enchantment,Common,Shade
-19,Enchantment,Common,Shade
-20,Enchantment,Common,Shade
-21,Creature,Common,Ghoul
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Shrink
-25,Spell,Common,Lightning
-26,Creature,Rare,Death Queen Berserker
-27,Creature,Rare,Earth Rogue Minotaur
-28,Enchantment,Common,Shield
-29,Creature,Rare,Snow King Berserker
-30,Creature,Legendary,Dark Monk Oni of the West
-31,Spell,Mythic,Angry Frost
-32,Enchantment,Rare,Life Deathgrip
-33,Artifact,Common,Gauntlet
-34,Enchantment,Common,Deathgrip
-35,Spell,Common,Gale
-36,Creature,Common,Dwarf
-37,Artifact,Common,Bow
-38,Artifact,Common,Divine Robe
-39,Spell,Common,Revive
-40,Spell,Common,Ice
-41,Creature,Common,Spider
-42,Creature,Rare,Dark Fighter Minotaur
-43,Creature,Rare,Dark Thief Minotaur
-44,Creature,Common,Spider
+==================,DECK,4932
+0,Spell,Maelstrom
+1,Enchantment,Zealous Nature Deathgrip
+2,Creature,Death Queen Giant of the Golden Palace
+3,Spell,Stun
+4,Creature,Snow Lord Cyclops
+5,Enchantment,Zealous Dark Alacrity
+6,Creature,Berserker
+7,Creature,Fairy
+8,Creature,Earth Assassin Kraken
+9,Enchantment,Firebreath
+10,Spell,Burst
+11,Enchantment,Drain
+12,Enchantment,Empyrean Chimeric Firebreath
+13,Spell,Fury
+14,Creature,Frozen Monk Goblin
+15,Creature,Troll
+16,Creature,Earth Merchant Griffin
+17,Creature,Dark Time Phoenix of Illusion
+18,Enchantment,Drain
+19,Enchantment,Shrink
+20,Enchantment,Lethargy
+21,Creature,Ghoul
+22,Enchantment,Blight
+23,Creature,Magi
+24,Enchantment,Flight
+25,Spell,Reanimate
+26,Creature,Death Queen Goblin
+27,Creature,Earth Rogue Cyclops
+28,Enchantment,Drain
+29,Creature,Snow King Goblin
+30,Creature,Dark Monk Oni of the West
+31,Spell,Ardent Miracle Freeze
+32,Enchantment,Oblivion Shade
+33,Artifact,Gauntlet
+34,Enchantment,Invert
+35,Spell,Sorrow
+36,Creature,Magi
+37,Artifact,Bow
+38,Artifact,Divine Robe
+39,Spell,Hypnosis
+40,Spell,Torment
+41,Creature,Paladin
+42,Creature,Dark Fighter Cyclops
+43,Creature,Dark Thief Cyclops
+44,Creature,Paladin

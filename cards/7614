@@ -1,46 +1,46 @@
-==================,DECK,7614,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Eagle
-2,Creature,Common,Warlock
-3,Creature,Common,Wolf
-4,Spell,Rare,Necro Sorrow
-5,Creature,Mythic,Light Ancient Demon of the Sky
-6,Creature,Rare,Snow Thief Fairy
-7,Enchantment,Mythic,Dire Strength
-8,Enchantment,Common,Flight
-9,Creature,Legendary,Dark King Orge of the Mountains
-10,Creature,Common,Goblin
-11,Creature,Common,Magi
-12,Spell,Common,Infuriate
-13,Spell,Common,Gravitation
-14,Creature,Common,Magi
-15,Artifact,Legendary,Urgent Sigil
-16,Creature,Common,Wolf
-17,Creature,Common,Magi
-18,Enchantment,Common,Haste
-19,Spell,Rare,Miracle Fury
-20,Spell,Common,Gravitation
-21,Enchantment,Legendary,Extreme Lethargy
-22,Creature,Common,Ghoul
-23,Spell,Common,Fury
-24,Creature,Rare,Aura Priest Hydra
-25,Spell,Common,Hypnosis
-26,Spell,Common,Wall
-27,Spell,Rare,Cataclysmic Gale
-28,Artifact,Common,Gloves
-29,Enchantment,Common,Shade
-30,Enchantment,Legendary,Potent Haste
-31,Spell,Legendary,Dire Sorrow
-32,Creature,Common,Elf
-33,Spell,Common,Lightning
-34,Enchantment,Rare,Hateful Shrink
-35,Creature,Rare,Light Warrior Fairy
-36,Creature,Common,Eagle
-37,Creature,Common,Goblin
-38,Creature,Rare,Frozen Warrior Minotaur
-39,Enchantment,Mythic,Clever Agony
-40,Spell,Common,Ice
-41,Creature,Common,Paladin
-42,Creature,Common,Spider
-43,Creature,Common,Orc
-44,Creature,Rare,Dark Merchant Fairy
+==================,DECK,7614
+0,Creature,Berserker
+1,Creature,Eagle
+2,Creature,Berserker
+3,Creature,Wolf
+4,Spell,Solar Gravitation
+5,Creature,Light Ancient Demon of the Sky
+6,Creature,Snow Thief Kraken
+7,Enchantment,Instant Nimble Drain
+8,Enchantment,Strength
+9,Creature,Dark King Elf of the Mountains
+10,Creature,Skin-Walker
+11,Creature,Fairy
+12,Spell,Stricken
+13,Spell,Frenzy
+14,Creature,Fairy
+15,Artifact,Mighty Forged Sigil
+16,Creature,Wolf
+17,Creature,Fairy
+18,Enchantment,Alacrity
+19,Spell,Apocalypse Ice
+20,Spell,Fire
+21,Enchantment,Irate Lunar Alacrity
+22,Creature,Ghoul
+23,Spell,Lightning
+24,Creature,Aura Priest Hydra
+25,Spell,Ice
+26,Spell,Infuriate
+27,Spell,Sorrow Stun
+28,Artifact,Gloves
+29,Enchantment,Invert
+30,Enchantment,Mighty Life Invert
+31,Spell,Mighty Grim Heal
+32,Creature,Warlock
+33,Spell,Lightning
+34,Enchantment,Chimeric Flight
+35,Creature,Light Warrior Kraken
+36,Creature,Eagle
+37,Creature,Skin-Walker
+38,Creature,Frozen Warrior Cyclops
+39,Enchantment,Dire Life Shade
+40,Spell,Fireball
+41,Creature,Troll
+42,Creature,Paladin
+43,Creature,Spider
+44,Creature,Dark Merchant Kraken

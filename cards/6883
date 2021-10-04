@@ -1,46 +1,46 @@
-==================,DECK,6883,Light
-0,Creature,Mythic,Death Grand Wizard of the Dead
-1,Creature,Common,Wolf
-2,Creature,Common,Ghoul
-3,Spell,Rare,Apocalypse Stricken
-4,Creature,Common,Magi
-5,Creature,Common,Wolf
-6,Enchantment,Rare,Nature Age
-7,Enchantment,Common,Strength
-8,Artifact,Rare,Frigid Helmet
-9,Artifact,Rare,Hateful Gauntlet
-10,Creature,Common,Goblin
-11,Spell,Common,Maelstrom
-12,Creature,Common,Eagle
-13,Artifact,Common,Ring
-14,Creature,Common,Elf
-15,Creature,Common,Warlock
-16,Creature,Common,Paladin
-17,Spell,Common,Frenzy
-18,Creature,Mythic,Snow Time Phoenix of Hate
-19,Spell,Common,Sorrow
-20,Spell,Rare,Lunar Fury
-21,Spell,Common,Freeze
-22,Artifact,Rare,Apocalypse Amulet
-23,Creature,Common,Dwarf
-24,Creature,Common,Orc
-25,Creature,Common,Dwarf
-26,Enchantment,Common,Invert
-27,Enchantment,Rare,Oblivion Lethargy
-28,Creature,Common,Orc
-29,Creature,Common,Warlock
-30,Enchantment,Mythic,Angry Drain
-31,Creature,Common,Dwarf
-32,Enchantment,Mythic,Potent Blight
-33,Creature,Common,Eagle
-34,Creature,Common,Goblin
-35,Creature,Rare,Light Warrior Minotaur
-36,Spell,Common,Gale
-37,Creature,Common,Wolf
-38,Enchantment,Common,Drain
-39,Creature,Common,Paladin
-40,Artifact,Rare,Life Gloves
-41,Spell,Rare,Cataclysmic Maelstrom
-42,Creature,Common,Eagle
-43,Creature,Common,Wolf
-44,Spell,Common,Stun
+==================,DECK,6883
+0,Creature,Death Grand Wizard of the Dead
+1,Creature,Wolf
+2,Creature,Ghoul
+3,Spell,Victory Gravitation
+4,Creature,Fairy
+5,Creature,Wolf
+6,Enchantment,Nature Deathgrip
+7,Enchantment,Firebreath
+8,Artifact,Victory Helmet
+9,Artifact,Chimeric Gauntlet
+10,Creature,Skin-Walker
+11,Spell,Lightning
+12,Creature,Eagle
+13,Artifact,Ring
+14,Creature,Warlock
+15,Creature,Berserker
+16,Creature,Troll
+17,Spell,Ice
+18,Creature,Snow Time Phoenix of Hate
+19,Spell,Stun
+20,Spell,Miracle Heal
+21,Spell,Burn
+22,Artifact,Apocalypse Amulet
+23,Creature,Magi
+24,Creature,Spider
+25,Creature,Magi
+26,Enchantment,Shade
+27,Enchantment,Grim Blight
+28,Creature,Spider
+29,Creature,Berserker
+30,Enchantment,Zealous Dark Alacrity
+31,Creature,Magi
+32,Enchantment,Zealous Nimble Blight
+33,Creature,Eagle
+34,Creature,Skin-Walker
+35,Creature,Light Warrior Cyclops
+36,Spell,Invisibility
+37,Creature,Wolf
+38,Enchantment,Age
+39,Creature,Troll
+40,Artifact,Victory Gloves
+41,Spell,Miracle Torment
+42,Creature,Eagle
+43,Creature,Wolf
+44,Spell,Hypnosis

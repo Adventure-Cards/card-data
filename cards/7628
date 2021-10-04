@@ -1,46 +1,46 @@
-==================,DECK,7628,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Flight
-2,Creature,Common,Paladin
-3,Creature,Rare,Snow Merchant Berserker
-4,Creature,Rare,Light Thief Skin-Walker
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Paladin
-7,Enchantment,Common,Agony
-8,Spell,Common,Fury
-9,Creature,Common,Orc
-10,Creature,Rare,Aura Merchant Fairy
-11,Enchantment,Rare,Gloom Shade
-12,Enchantment,Rare,Corpse Shield
-13,Enchantment,Common,Agony
-14,Creature,Rare,Death Priest Griffin
-15,Creature,Common,Magi
-16,Spell,Common,Gravitation
-17,Creature,Rare,Aura Thief Skin-Walker
-18,Creature,Rare,Earth Fighter Griffin
-19,Spell,Common,Hypnosis
-20,Creature,Rare,Light Rogue Fairy
-21,Creature,Rare,Frozen Warrior Skin-Walker
-22,Artifact,Rare,Apocalypse Boots
-23,Creature,Rare,Snow Knight Berserker
-24,Creature,Legendary,Aura Thief Orge of the Eastern Skies
-25,Spell,Common,Maelstrom
-26,Enchantment,Common,Deathgrip
-27,Spell,Common,Burst
-28,Spell,Legendary,Extreme Gravitation
-29,Creature,Rare,Death Queen Minotaur
-30,Creature,Rare,Frozen Lord Hydra
-31,Creature,Common,Warlock
-32,Spell,Rare,Necro Burn
-33,Spell,Rare,Life Gale
-34,Spell,Rare,Corpse Gravitation
-35,Creature,Common,Wolf
-36,Artifact,Common,Crown
-37,Creature,Common,Warlock
-38,Creature,Common,Spider
-39,Creature,Rare,Aura Thief Minotaur
-40,Artifact,Common,Crown
-41,Spell,Legendary,Dire Frenzy
-42,Enchantment,Common,Strength
-43,Spell,Common,Fury
-44,Creature,Mythic,Dark Ancient Demon of Illusion
+==================,DECK,7628
+0,Creature,Berserker
+1,Enchantment,Shade
+2,Creature,Troll
+3,Creature,Snow Merchant Goblin
+4,Creature,Light Thief Orc
+5,Enchantment,Invert
+6,Creature,Troll
+7,Enchantment,Agony
+8,Spell,Rage
+9,Creature,Spider
+10,Creature,Aura Merchant Kraken
+11,Enchantment,Chimeric Flight
+12,Enchantment,Nature Deathgrip
+13,Enchantment,Agony
+14,Creature,Death Priest Griffin
+15,Creature,Fairy
+16,Spell,Maelstrom
+17,Creature,Aura Thief Orc
+18,Creature,Earth Fighter Griffin
+19,Spell,Frost
+20,Creature,Light Rogue Kraken
+21,Creature,Frozen Warrior Orc
+22,Artifact,Oblivion Boots
+23,Creature,Snow Knight Goblin
+24,Creature,Aura Thief Elf of the Eastern Skies
+25,Spell,Infuriate
+26,Enchantment,Shrink
+27,Spell,Tempest
+28,Spell,Urgent Cataclysmic Fireball
+29,Creature,Death Queen Cyclops
+30,Creature,Frozen Lord Hydra
+31,Creature,Berserker
+32,Spell,Shimmering Rage
+33,Spell,Life Assault
+34,Spell,Nature Invisibility
+35,Creature,Wolf
+36,Artifact,Crown
+37,Creature,Berserker
+38,Creature,Paladin
+39,Creature,Aura Thief Cyclops
+40,Artifact,Crown
+41,Spell,Instant Nimble Rage
+42,Enchantment,Age
+43,Spell,Stun
+44,Creature,Dark Ancient Demon of Illusion

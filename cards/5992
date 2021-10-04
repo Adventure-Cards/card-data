@@ -1,46 +1,46 @@
-==================,DECK,5992,Medium
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Paladin
-2,Artifact,Rare,Oblivion Divine Robe
-3,Creature,Common,Wolf
-4,Creature,Common,Ghoul
-5,Creature,Common,Dwarf
-6,Creature,Rare,Light Knight Berserker
-7,Creature,Common,Wolf
-8,Creature,Rare,Frozen Queen Berserker
-9,Artifact,Rare,Miracle Ghost Wand
-10,Enchantment,Common,Haste
-11,Enchantment,Common,Invert
-12,Spell,Mythic,Potent Maelstrom
-13,Enchantment,Rare,Corpse Alacrity
-14,Spell,Rare,Corpse Assault
-15,Creature,Common,Spider
-16,Creature,Common,Paladin
-17,Creature,Common,Warlock
-18,Creature,Common,Paladin
-19,Creature,Rare,Aura Queen Griffin
-20,Creature,Common,Warlock
-21,Creature,Rare,Earth Monk Minotaur
-22,Enchantment,Legendary,Mighty Deathgrip
-23,Creature,Common,Goblin
-24,Enchantment,Common,Lethargy
-25,Spell,Legendary,Instant Reanimate
-26,Creature,Common,Dwarf
-27,Spell,Rare,Dark Invisibility
-28,Spell,Rare,Apocalypse Reanimate
-29,Spell,Common,Sorrow
-30,Creature,Common,Orc
-31,Creature,Rare,Death Assassin Skin-Walker
-32,Spell,Rare,Shimmering Burn
-33,Enchantment,Rare,Forged Shield
-34,Creature,Rare,Death Monk Minotaur
-35,Creature,Common,Warlock
-36,Creature,Common,Orc
-37,Enchantment,Common,Blight
-38,Creature,Legendary,Light Undead Orge of the Eternal Land
-39,Artifact,Rare,Dark Sword
-40,Spell,Common,Gale
-41,Enchantment,Common,Lethargy
-42,Enchantment,Common,Alacrity
-43,Spell,Rare,Lunar Fury
-44,Enchantment,Rare,Life Flight
+==================,DECK,5992
+0,Enchantment,Flight
+1,Creature,Troll
+2,Artifact,Life Divine Robe
+3,Creature,Wolf
+4,Creature,Ghoul
+5,Creature,Magi
+6,Creature,Light Knight Goblin
+7,Creature,Wolf
+8,Creature,Frozen Queen Goblin
+9,Artifact,Oblivion Ghost Wand
+10,Enchantment,Shade
+11,Enchantment,Blight
+12,Spell,Empyrean Oblivion Gravitation
+13,Enchantment,Forged Strength
+14,Spell,Hateful Gravitation
+15,Creature,Paladin
+16,Creature,Troll
+17,Creature,Berserker
+18,Creature,Troll
+19,Creature,Aura Queen Griffin
+20,Creature,Berserker
+21,Creature,Earth Monk Cyclops
+22,Enchantment,Potent Sorrow Shrink
+23,Creature,Skin-Walker
+24,Enchantment,Flight
+25,Spell,Zealous Necro Gale
+26,Creature,Magi
+27,Spell,Chimeric Freeze
+28,Spell,Victory Reanimate
+29,Spell,Frost
+30,Creature,Spider
+31,Creature,Death Assassin Orc
+32,Spell,Forged Assault
+33,Enchantment,Gloom Alacrity
+34,Creature,Death Monk Cyclops
+35,Creature,Berserker
+36,Creature,Spider
+37,Enchantment,Age
+38,Creature,Light Undead Elf of the Eternal Land
+39,Artifact,Chimeric Sword
+40,Spell,Assault
+41,Enchantment,Blight
+42,Enchantment,Shield
+43,Spell,Miracle Freeze
+44,Enchantment,Grim Drain

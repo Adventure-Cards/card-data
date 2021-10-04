@@ -1,46 +1,46 @@
-==================,DECK,7471,Light
-0,Creature,Common,Goblin
-1,Spell,Common,Wall
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Wolf
-4,Creature,Common,Ghoul
-5,Creature,Common,Elf
-6,Creature,Common,Dwarf
-7,Creature,Legendary,Dark Fighter Oni of the Border
-8,Spell,Common,Burst
-9,Creature,Common,Paladin
-10,Enchantment,Rare,Grim Strength
-11,Enchantment,Common,Alacrity
-12,Creature,Common,Elf
-13,Enchantment,Mythic,Extreme Blight
-14,Creature,Common,Paladin
-15,Creature,Common,Ghoul
-16,Creature,Legendary,Dark Undead Orge of the West
-17,Enchantment,Common,Lethargy
-18,Spell,Common,Hypnosis
-19,Enchantment,Mythic,Mighty Lethargy
-20,Artifact,Rare,Oblivion Ghost Wand
-21,Creature,Common,Dwarf
-22,Creature,Common,Goblin
-23,Spell,Common,Vortex
-24,Enchantment,Common,Blight
-25,Creature,Common,Dwarf
-26,Spell,Common,Hypnosis
-27,Creature,Common,Warlock
-28,Creature,Common,Dwarf
-29,Creature,Common,Eagle
-30,Spell,Common,Sorrow
-31,Creature,Common,Paladin
-32,Creature,Legendary,Snow Priest Cyclops of the Bright Mountains
-33,Spell,Common,Rage
-34,Enchantment,Common,Flight
-35,Creature,Common,Wolf
-36,Creature,Common,Elf
-37,Enchantment,Common,Deathgrip
-38,Creature,Common,Paladin
-39,Enchantment,Common,Agony
-40,Creature,Common,Elf
-41,Creature,Common,Wolf
-42,Spell,Rare,Miracle Fury
-43,Artifact,Legendary,Clever Staff
-44,Creature,Common,Spider
+==================,DECK,7471
+0,Creature,Skin-Walker
+1,Spell,Lightning
+2,Enchantment,Invert
+3,Creature,Wolf
+4,Creature,Ghoul
+5,Creature,Warlock
+6,Creature,Magi
+7,Creature,Dark Fighter Oni of the Border
+8,Spell,Assault
+9,Creature,Troll
+10,Enchantment,Nimble Invert
+11,Enchantment,Deathgrip
+12,Creature,Warlock
+13,Enchantment,Potent Cataclysmic Shrink
+14,Creature,Troll
+15,Creature,Ghoul
+16,Creature,Dark Undead Elf of the West
+17,Enchantment,Age
+18,Spell,Lightning
+19,Enchantment,Ardent Lunar Shield
+20,Artifact,Apocalypse Ghost Wand
+21,Creature,Magi
+22,Creature,Skin-Walker
+23,Spell,Infuriate
+24,Enchantment,Drain
+25,Creature,Magi
+26,Spell,Pandemonium
+27,Creature,Berserker
+28,Creature,Magi
+29,Creature,Eagle
+30,Spell,Vortex
+31,Creature,Troll
+32,Creature,Snow Priest Giant of the Bright Mountains
+33,Spell,Burn
+34,Enchantment,Shrink
+35,Creature,Wolf
+36,Creature,Warlock
+37,Enchantment,Strength
+38,Creature,Troll
+39,Enchantment,Firebreath
+40,Creature,Warlock
+41,Creature,Wolf
+42,Spell,Oblivion Frost
+43,Artifact,Zealous Nimble Staff
+44,Creature,Paladin

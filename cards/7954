@@ -1,46 +1,46 @@
-==================,DECK,7954,Light
-0,Enchantment,Common,Strength
-1,Spell,Common,Rage
-2,Creature,Common,Warlock
-3,Creature,Rare,Frozen Queen Minotaur
-4,Enchantment,Common,Blight
-5,Creature,Rare,Snow Merchant Hydra
-6,Creature,Common,Elf
-7,Creature,Common,Elf
-8,Enchantment,Common,Strength
-9,Enchantment,Common,Deathgrip
-10,Creature,Common,Orc
-11,Creature,Common,Goblin
-12,Spell,Legendary,Instant Gale
-13,Creature,Rare,Frozen Warrior Skin-Walker
-14,Creature,Common,Goblin
-15,Spell,Common,Rage
-16,Creature,Common,Wolf
-17,Creature,Legendary,Snow Queen Giant of the Bright Mountains
-18,Creature,Legendary,Snow Thief Giant of the Arctic Blizzards
-19,Creature,Common,Eagle
-20,Spell,Common,Fury
-21,Creature,Common,Ghoul
-22,Spell,Rare,Gloom Revive
-23,Artifact,Common,Scythe
-24,Artifact,Rare,Cataclysmic Ring
-25,Creature,Common,Wolf
-26,Creature,Common,Orc
-27,Artifact,Rare,Nimble Bracers
-28,Creature,Common,Orc
-29,Enchantment,Common,Haste
-30,Creature,Common,Eagle
-31,Creature,Rare,Light Queen Griffin
-32,Creature,Common,Spider
-33,Spell,Rare,Nature Infuriate
-34,Artifact,Rare,Frigid Crown
-35,Creature,Rare,Aura Warrior Skin-Walker
-36,Creature,Common,Magi
-37,Creature,Rare,Snow Undead Griffin
-38,Enchantment,Rare,Miracle Shrink
-39,Creature,Common,Elf
-40,Spell,Common,Reanimate
-41,Spell,Common,Freeze
-42,Spell,Common,Assault
-43,Creature,Common,Elf
-44,Artifact,Rare,Dark Ghost Wand
+==================,DECK,7954
+0,Enchantment,Invert
+1,Spell,Freeze
+2,Creature,Berserker
+3,Creature,Frozen Queen Cyclops
+4,Enchantment,Alacrity
+5,Creature,Snow Merchant Hydra
+6,Creature,Warlock
+7,Creature,Warlock
+8,Enchantment,Invert
+9,Enchantment,Haste
+10,Creature,Spider
+11,Creature,Skin-Walker
+12,Spell,Clever Nature Sorrow
+13,Creature,Frozen Warrior Orc
+14,Creature,Skin-Walker
+15,Spell,Stricken
+16,Creature,Wolf
+17,Creature,Snow Queen Dwarf of the Bright Mountains
+18,Creature,Snow Thief Dwarf of the Arctic Blizzards
+19,Creature,Eagle
+20,Spell,Wall
+21,Creature,Ghoul
+22,Spell,Dark Rage
+23,Artifact,Scythe
+24,Artifact,Miracle Ring
+25,Creature,Wolf
+26,Creature,Spider
+27,Artifact,Solar Bracers
+28,Creature,Spider
+29,Enchantment,Strength
+30,Creature,Eagle
+31,Creature,Light Queen Griffin
+32,Creature,Paladin
+33,Spell,Hateful Fireball
+34,Artifact,Victory Crown
+35,Creature,Aura Warrior Orc
+36,Creature,Fairy
+37,Creature,Snow Undead Griffin
+38,Enchantment,Frigid Haste
+39,Creature,Warlock
+40,Spell,Rage
+41,Spell,Freeze
+42,Spell,Frost
+43,Creature,Warlock
+44,Artifact,Dark Ghost Wand

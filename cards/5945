@@ -1,46 +1,46 @@
-==================,DECK,5945,Light
-0,Creature,Common,Magi
-1,Creature,Common,Goblin
-2,Creature,Common,Warlock
-3,Creature,Common,Dwarf
-4,Artifact,Common,Gauntlet
-5,Creature,Legendary,Snow Thief Orge of the Frozen Castle
-6,Creature,Rare,Aura Merchant Fairy
-7,Enchantment,Legendary,Intense Strength
-8,Creature,Rare,Aura Monk Skin-Walker
-9,Enchantment,Mythic,Instant Agony
-10,Creature,Common,Elf
-11,Creature,Common,Orc
-12,Creature,Common,Ghoul
-13,Enchantment,Common,Strength
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Drain
-16,Spell,Common,Torment
-17,Enchantment,Common,Strength
-18,Creature,Rare,Snow Lord Berserker
-19,Spell,Common,Frost
-20,Creature,Common,Ghoul
-21,Artifact,Common,Shield
-22,Creature,Mythic,Light Grand Demon of the Sky
-23,Artifact,Common,Bracers
-24,Enchantment,Common,Agony
-25,Creature,Common,Paladin
-26,Enchantment,Common,Invert
-27,Artifact,Common,Ghost Wand
-28,Artifact,Common,Ring
-29,Artifact,Common,Gloves
-30,Spell,Rare,Miracle Burn
-31,Creature,Common,Wolf
-32,Creature,Common,Goblin
-33,Spell,Common,Frost
-34,Creature,Common,Paladin
-35,Creature,Common,Warlock
-36,Creature,Common,Wolf
-37,Creature,Common,Eagle
-38,Creature,Rare,Aura Monk Skin-Walker
-39,Creature,Rare,Death Priest Hydra
-40,Creature,Rare,Dark Undead Fairy
-41,Creature,Common,Ghoul
-42,Spell,Common,Burst
-43,Spell,Rare,Miracle Sorrow
-44,Creature,Common,Wolf
+==================,DECK,5945
+0,Creature,Fairy
+1,Creature,Skin-Walker
+2,Creature,Berserker
+3,Creature,Magi
+4,Artifact,Gauntlet
+5,Creature,Snow Thief Elf of the Frozen Castle
+6,Creature,Aura Merchant Kraken
+7,Enchantment,Instant Solar Strength
+8,Creature,Aura Monk Orc
+9,Enchantment,Irate Corpse Deathgrip
+10,Creature,Warlock
+11,Creature,Spider
+12,Creature,Ghoul
+13,Enchantment,Alacrity
+14,Creature,Ghoul
+15,Enchantment,Haste
+16,Spell,Invisibility
+17,Enchantment,Blight
+18,Creature,Snow Lord Goblin
+19,Spell,Stun
+20,Creature,Ghoul
+21,Artifact,Shield
+22,Creature,Light Grand Demon of the Sky
+23,Artifact,Bracers
+24,Enchantment,Alacrity
+25,Creature,Troll
+26,Enchantment,Flight
+27,Artifact,Ghost Wand
+28,Artifact,Ring
+29,Artifact,Gloves
+30,Spell,Oblivion Maelstrom
+31,Creature,Wolf
+32,Creature,Skin-Walker
+33,Spell,Stricken
+34,Creature,Troll
+35,Creature,Berserker
+36,Creature,Wolf
+37,Creature,Eagle
+38,Creature,Aura Monk Orc
+39,Creature,Death Priest Hydra
+40,Creature,Dark Undead Kraken
+41,Creature,Ghoul
+42,Spell,Invisibility
+43,Spell,Apocalypse Vortex
+44,Creature,Wolf

@@ -1,46 +1,46 @@
-==================,DECK,5618,Medium
-0,Artifact,Rare,Shimmering Greaves
-1,Creature,Common,Paladin
-2,Spell,Rare,Cataclysmic Stricken
-3,Creature,Rare,Light Merchant Berserker
-4,Creature,Common,Spider
-5,Creature,Rare,Snow Priest Berserker
-6,Artifact,Common,Cloak
-7,Creature,Common,Eagle
-8,Creature,Common,Wolf
-9,Spell,Common,Sorrow
-10,Creature,Rare,Earth Fighter Berserker
-11,Artifact,Legendary,Clever Potion
-12,Creature,Common,Eagle
-13,Creature,Common,Elf
-14,Spell,Common,Stricken
-15,Enchantment,Rare,Necro Flight
-16,Creature,Common,Orc
-17,Creature,Common,Spider
-18,Spell,Common,Invisibility
-19,Creature,Common,Ghoul
-20,Creature,Common,Spider
-21,Enchantment,Common,Agony
-22,Artifact,Rare,Nimble Sigil
-23,Creature,Rare,Dark Rogue Hydra
-24,Spell,Rare,Corpse Heal
-25,Enchantment,Common,Strength
-26,Creature,Common,Dwarf
-27,Artifact,Common,Crown
-28,Spell,Legendary,Extreme Rage
-29,Creature,Mythic,Snow Time Dragon of Hate
-30,Creature,Rare,Snow Assassin Berserker
-31,Creature,Rare,Snow Rogue Hydra
-32,Enchantment,Rare,Corpse Agony
-33,Spell,Rare,Forged Invisibility
-34,Enchantment,Rare,Life Age
-35,Creature,Rare,Snow Merchant Berserker
-36,Creature,Rare,Dark Monk Skin-Walker
-37,Creature,Common,Dwarf
-38,Creature,Rare,Death Knight Fairy
-39,Creature,Common,Orc
-40,Spell,Common,Vortex
-41,Creature,Rare,Frozen Priest Skin-Walker
-42,Creature,Common,Magi
-43,Creature,Common,Dwarf
-44,Creature,Rare,Dark Thief Fairy
+==================,DECK,5618
+0,Artifact,Corpse Greaves
+1,Creature,Troll
+2,Spell,Chimeric Revive
+3,Creature,Light Merchant Goblin
+4,Creature,Paladin
+5,Creature,Snow Priest Goblin
+6,Artifact,Cloak
+7,Creature,Eagle
+8,Creature,Wolf
+9,Spell,Reanimate
+10,Creature,Earth Fighter Goblin
+11,Artifact,Ardent Nimble Potion
+12,Creature,Eagle
+13,Creature,Warlock
+14,Spell,Frost
+15,Enchantment,Hateful Age
+16,Creature,Spider
+17,Creature,Paladin
+18,Spell,Frost
+19,Creature,Ghoul
+20,Creature,Paladin
+21,Enchantment,Age
+22,Artifact,Hateful Sigil
+23,Creature,Dark Rogue Hydra
+24,Spell,Nature Fury
+25,Enchantment,Haste
+26,Creature,Magi
+27,Artifact,Crown
+28,Spell,Dire Dark Ice
+29,Creature,Snow Time Dragon of Hate
+30,Creature,Snow Assassin Goblin
+31,Creature,Snow Rogue Hydra
+32,Enchantment,Corpse Strength
+33,Spell,Dark Tempest
+34,Enchantment,Victory Invert
+35,Creature,Snow Merchant Goblin
+36,Creature,Dark Monk Orc
+37,Creature,Magi
+38,Creature,Death Knight Kraken
+39,Creature,Spider
+40,Spell,Revive
+41,Creature,Frozen Priest Orc
+42,Creature,Fairy
+43,Creature,Magi
+44,Creature,Dark Thief Kraken

@@ -1,46 +1,46 @@
-==================,DECK,7816,Light
-0,Creature,Mythic,Snow Grand Demon of Hate
-1,Creature,Common,Warlock
-2,Enchantment,Common,Age
-3,Spell,Common,Revive
-4,Creature,Common,Magi
-5,Artifact,Common,Gloves
-6,Creature,Rare,Aura Thief Minotaur
-7,Spell,Rare,Dark Assault
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Creature,Common,Ghoul
-11,Artifact,Common,Pendant
-12,Spell,Common,Invisibility
-13,Creature,Common,Eagle
-14,Creature,Common,Orc
-15,Spell,Common,Fury
-16,Creature,Common,Spider
-17,Artifact,Common,Gauntlet
-18,Creature,Legendary,Frozen Lord Giant of the Eastern Skies
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Mythic,Urgent Shade
-22,Enchantment,Common,Age
-23,Creature,Common,Ghoul
-24,Creature,Rare,Death Undead Skin-Walker
-25,Creature,Common,Elf
-26,Artifact,Common,Cloak
-27,Creature,Rare,Aura Merchant Berserker
-28,Creature,Common,Eagle
-29,Enchantment,Rare,Nature Blight
-30,Spell,Rare,Apocalypse Gale
-31,Creature,Common,Magi
-32,Creature,Common,Eagle
-33,Creature,Common,Goblin
-34,Creature,Common,Eagle
-35,Creature,Legendary,Snow Merchant Giant of the Eternal Land
-36,Spell,Common,Fury
-37,Creature,Rare,Frozen Warrior Minotaur
-38,Creature,Rare,Death Monk Minotaur
-39,Creature,Rare,Dark Monk Hydra
-40,Spell,Legendary,Potent Fury
-41,Artifact,Rare,Grim Bow
-42,Enchantment,Legendary,Extreme Deathgrip
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,7816
+0,Creature,Snow Grand Demon of Hate
+1,Creature,Berserker
+2,Enchantment,Blight
+3,Spell,Sorrow
+4,Creature,Fairy
+5,Artifact,Gloves
+6,Creature,Aura Thief Cyclops
+7,Spell,Dark Tempest
+8,Creature,Spider
+9,Creature,Spider
+10,Creature,Ghoul
+11,Artifact,Pendant
+12,Spell,Ice
+13,Creature,Eagle
+14,Creature,Spider
+15,Spell,Pandemonium
+16,Creature,Paladin
+17,Artifact,Gauntlet
+18,Creature,Frozen Lord Dwarf of the Eastern Skies
+19,Creature,Magi
+20,Enchantment,Strength
+21,Enchantment,Urgent Necro Agony
+22,Enchantment,Haste
+23,Creature,Ghoul
+24,Creature,Death Undead Orc
+25,Creature,Warlock
+26,Artifact,Cloak
+27,Creature,Aura Merchant Goblin
+28,Creature,Eagle
+29,Enchantment,Solar Deathgrip
+30,Spell,Life Torment
+31,Creature,Fairy
+32,Creature,Eagle
+33,Creature,Skin-Walker
+34,Creature,Eagle
+35,Creature,Snow Merchant Dwarf of the Eternal Land
+36,Spell,Frost
+37,Creature,Frozen Warrior Cyclops
+38,Creature,Death Monk Cyclops
+39,Creature,Dark Monk Hydra
+40,Spell,Mighty Nimble Freeze
+41,Artifact,Frigid Bow
+42,Enchantment,Empyrean Sorrow Firebreath
+43,Creature,Troll
+44,Creature,Paladin

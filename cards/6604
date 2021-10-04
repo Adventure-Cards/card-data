@@ -1,46 +1,46 @@
-==================,DECK,6604,Light
-0,Creature,Rare,Aura Knight Skin-Walker
-1,Creature,Common,Dwarf
-2,Creature,Legendary,Aura Undead Cyclops of the Black Stone
-3,Creature,Legendary,Snow Monk Orge of the Haven
-4,Enchantment,Common,Alacrity
-5,Spell,Common,Fury
-6,Spell,Rare,Lunar Burn
-7,Spell,Common,Stricken
-8,Spell,Common,Frost
-9,Creature,Common,Magi
-10,Creature,Common,Orc
-11,Creature,Common,Goblin
-12,Creature,Common,Elf
-13,Creature,Common,Wolf
-14,Creature,Common,Goblin
-15,Spell,Legendary,Extreme Revive
-16,Spell,Common,Hypnosis
-17,Enchantment,Common,Shrink
-18,Spell,Common,Torment
-19,Creature,Legendary,Snow Rogue Orge of the Bright Mountains
-20,Artifact,Common,Sword
-21,Creature,Common,Elf
-22,Creature,Rare,Dark Monk Fairy
-23,Artifact,Common,Ring
-24,Spell,Rare,Hateful Stricken
-25,Creature,Legendary,Snow Monk Orge of the Plains
-26,Enchantment,Common,Alacrity
-27,Artifact,Common,Staff
-28,Creature,Common,Elf
-29,Spell,Common,Invisibility
-30,Creature,Common,Goblin
-31,Creature,Legendary,Earth Merchant Kraken of the Eternal Land
-32,Spell,Legendary,Intense Revive
-33,Creature,Common,Eagle
-34,Creature,Common,Spider
-35,Creature,Common,Paladin
-36,Creature,Rare,Aura Undead Hydra
-37,Spell,Rare,Shimmering Pandemonium
-38,Enchantment,Common,Lethargy
-39,Creature,Common,Eagle
-40,Creature,Rare,Light Rogue Berserker
-41,Creature,Common,Goblin
-42,Creature,Common,Goblin
-43,Enchantment,Common,Blight
-44,Creature,Legendary,Death Rogue Oni of the Plains
+==================,DECK,6604
+0,Creature,Aura Knight Orc
+1,Creature,Magi
+2,Creature,Aura Undead Giant of the Black Stone
+3,Creature,Snow Monk Elf of the Haven
+4,Enchantment,Age
+5,Spell,Infuriate
+6,Spell,Gloom Rage
+7,Spell,Frost
+8,Spell,Fireball
+9,Creature,Fairy
+10,Creature,Spider
+11,Creature,Skin-Walker
+12,Creature,Warlock
+13,Creature,Wolf
+14,Creature,Skin-Walker
+15,Spell,Urgent Lunar Reanimate
+16,Spell,Frenzy
+17,Enchantment,Age
+18,Spell,Fireball
+19,Creature,Snow Rogue Elf of the Bright Mountains
+20,Artifact,Sword
+21,Creature,Warlock
+22,Creature,Dark Monk Kraken
+23,Artifact,Ring
+24,Spell,Chimeric Hypnosis
+25,Creature,Snow Monk Elf of the Plains
+26,Enchantment,Lethargy
+27,Artifact,Staff
+28,Creature,Warlock
+29,Spell,Fury
+30,Creature,Skin-Walker
+31,Creature,Earth Merchant Ogre of the Eternal Land
+32,Spell,Irate Corpse Stricken
+33,Creature,Eagle
+34,Creature,Paladin
+35,Creature,Troll
+36,Creature,Aura Undead Hydra
+37,Spell,Hateful Hypnosis
+38,Enchantment,Age
+39,Creature,Eagle
+40,Creature,Light Rogue Goblin
+41,Creature,Skin-Walker
+42,Creature,Skin-Walker
+43,Enchantment,Firebreath
+44,Creature,Death Rogue Oni of the Plains

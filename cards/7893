@@ -1,46 +1,46 @@
-==================,DECK,7893,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Elf
-2,Creature,Legendary,Earth Thief Oni of the Low Hills
-3,Enchantment,Common,Haste
-4,Spell,Common,Infuriate
-5,Creature,Common,Dwarf
-6,Creature,Common,Spider
-7,Creature,Common,Wolf
-8,Creature,Rare,Snow Thief Hydra
-9,Enchantment,Rare,Hateful Shrink
-10,Creature,Common,Paladin
-11,Enchantment,Common,Shield
-12,Creature,Legendary,Death Lord Oni of the Eastern Skies
-13,Creature,Common,Wolf
-14,Spell,Common,Stun
-15,Enchantment,Common,Drain
-16,Artifact,Common,Ring
-17,Enchantment,Common,Shade
-18,Enchantment,Rare,Forged Lethargy
-19,Artifact,Rare,Nature Divine Robe
-20,Creature,Common,Spider
-21,Spell,Common,Stun
-22,Spell,Common,Reanimate
-23,Spell,Common,Pandemonium
-24,Enchantment,Mythic,Angry Shield
-25,Spell,Rare,Shimmering Infuriate
-26,Creature,Common,Orc
-27,Artifact,Common,Gauntlet
-28,Spell,Common,Stun
-29,Spell,Rare,Frigid Revive
-30,Creature,Legendary,Aura Warrior Oni of the Border
-31,Enchantment,Common,Flight
-32,Creature,Common,Warlock
-33,Enchantment,Rare,Gloom Lethargy
-34,Creature,Rare,Snow King Hydra
-35,Spell,Rare,Life Hypnosis
-36,Creature,Common,Goblin
-37,Creature,Common,Orc
-38,Enchantment,Common,Drain
-39,Creature,Common,Eagle
-40,Enchantment,Common,Blight
-41,Creature,Rare,Frozen Warrior Hydra
-42,Creature,Common,Ghoul
-43,Artifact,Common,Ghost Wand
-44,Creature,Common,Goblin
+==================,DECK,7893
+0,Creature,Magi
+1,Creature,Warlock
+2,Creature,Earth Thief Oni of the Low Hills
+3,Enchantment,Shade
+4,Spell,Vortex
+5,Creature,Magi
+6,Creature,Paladin
+7,Creature,Wolf
+8,Creature,Snow Thief Hydra
+9,Enchantment,Chimeric Shield
+10,Creature,Troll
+11,Enchantment,Shield
+12,Creature,Death Lord Oni of the Eastern Skies
+13,Creature,Wolf
+14,Spell,Lightning
+15,Enchantment,Age
+16,Artifact,Ring
+17,Enchantment,Agony
+18,Enchantment,Lunar Flight
+19,Artifact,Hateful Divine Robe
+20,Creature,Paladin
+21,Spell,Lightning
+22,Spell,Stun
+23,Spell,Invisibility
+24,Enchantment,Dire Gloom Firebreath
+25,Spell,Forged Burn
+26,Creature,Spider
+27,Artifact,Gauntlet
+28,Spell,Frost
+29,Spell,Apocalypse Invisibility
+30,Creature,Aura Warrior Oni of the Border
+31,Enchantment,Firebreath
+32,Creature,Berserker
+33,Enchantment,Lunar Alacrity
+34,Creature,Snow King Hydra
+35,Spell,Frigid Tempest
+36,Creature,Skin-Walker
+37,Creature,Spider
+38,Enchantment,Shrink
+39,Creature,Eagle
+40,Enchantment,Invert
+41,Creature,Frozen Warrior Hydra
+42,Creature,Ghoul
+43,Artifact,Ghost Wand
+44,Creature,Skin-Walker

@@ -1,46 +1,46 @@
-==================,DECK,7248,Light
-0,Enchantment,Common,Agony
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Flight
-3,Enchantment,Common,Alacrity
-4,Artifact,Legendary,Mighty Staff
-5,Spell,Common,Torment
-6,Creature,Rare,Snow Rogue Hydra
-7,Creature,Common,Paladin
-8,Enchantment,Common,Alacrity
-9,Enchantment,Common,Strength
-10,Creature,Common,Paladin
-11,Spell,Common,Wall
-12,Enchantment,Mythic,Mighty Haste
-13,Artifact,Rare,Solar Bracers
-14,Spell,Common,Stun
-15,Enchantment,Mythic,Instant Shade
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Creature,Rare,Light Priest Berserker
-19,Creature,Common,Spider
-20,Creature,Common,Wolf
-21,Creature,Rare,Snow Monk Skin-Walker
-22,Creature,Rare,Snow Merchant Berserker
-23,Creature,Common,Magi
-24,Enchantment,Rare,Lunar Shrink
-25,Artifact,Common,Crown
-26,Artifact,Common,Crown
-27,Creature,Common,Spider
-28,Enchantment,Common,Shrink
-29,Artifact,Common,Helmet
-30,Creature,Common,Ghoul
-31,Spell,Common,Gale
-32,Creature,Common,Orc
-33,Creature,Common,Eagle
-34,Enchantment,Legendary,Mighty Strength
-35,Creature,Common,Goblin
-36,Enchantment,Common,Strength
-37,Artifact,Rare,Solar Cloak
-38,Spell,Common,Rage
-39,Creature,Legendary,Aura Undead Oni of the Eastern Skies
-40,Spell,Rare,Corpse Frost
-41,Enchantment,Common,Flight
-42,Creature,Common,Dwarf
-43,Artifact,Common,Ring
-44,Enchantment,Common,Blight
+==================,DECK,7248
+0,Enchantment,Agony
+1,Creature,Magi
+2,Enchantment,Lethargy
+3,Enchantment,Lethargy
+4,Artifact,Zealous Dark Staff
+5,Spell,Ice
+6,Creature,Snow Rogue Hydra
+7,Creature,Troll
+8,Enchantment,Shield
+9,Enchantment,Alacrity
+10,Creature,Troll
+11,Spell,Stricken
+12,Enchantment,Clever Miracle Shield
+13,Artifact,Shimmering Bracers
+14,Spell,Reanimate
+15,Enchantment,Urgent Necro Agony
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Creature,Light Priest Goblin
+19,Creature,Paladin
+20,Creature,Wolf
+21,Creature,Snow Monk Orc
+22,Creature,Snow Merchant Goblin
+23,Creature,Fairy
+24,Enchantment,Chimeric Shield
+25,Artifact,Crown
+26,Artifact,Crown
+27,Creature,Paladin
+28,Enchantment,Firebreath
+29,Artifact,Helmet
+30,Creature,Ghoul
+31,Spell,Pandemonium
+32,Creature,Spider
+33,Creature,Eagle
+34,Enchantment,Dire Cataclysmic Firebreath
+35,Creature,Skin-Walker
+36,Enchantment,Deathgrip
+37,Artifact,Solar Cloak
+38,Spell,Fire
+39,Creature,Aura Undead Oni of the Eastern Skies
+40,Spell,Corpse Lightning
+41,Enchantment,Blight
+42,Creature,Magi
+43,Artifact,Ring
+44,Enchantment,Firebreath

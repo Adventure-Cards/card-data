@@ -1,46 +1,46 @@
-==================,DECK,6101,Light
-0,Enchantment,Common,Strength
-1,Enchantment,Common,Alacrity
-2,Enchantment,Rare,Forged Invert
-3,Spell,Common,Heal
-4,Spell,Common,Heal
-5,Spell,Legendary,Intense Vortex
-6,Creature,Mythic,Light Nameless Dragon of the Sky
-7,Creature,Common,Eagle
-8,Creature,Common,Ghoul
-9,Creature,Common,Warlock
-10,Creature,Common,Wolf
-11,Artifact,Rare,Oblivion Greaves
-12,Enchantment,Common,Flight
-13,Creature,Common,Eagle
-14,Spell,Common,Torment
-15,Artifact,Common,Pendant
-16,Artifact,Rare,Lunar Ring
-17,Creature,Common,Eagle
-18,Creature,Rare,Death Fighter Berserker
-19,Enchantment,Common,Strength
-20,Creature,Legendary,Frozen Lord Giant of the Border
-21,Creature,Rare,Light Priest Griffin
-22,Spell,Common,Lightning
-23,Creature,Common,Goblin
-24,Enchantment,Rare,Life Drain
-25,Enchantment,Common,Lethargy
-26,Spell,Rare,Nature Burst
-27,Creature,Common,Wolf
-28,Creature,Common,Warlock
-29,Spell,Common,Infuriate
-30,Creature,Rare,Snow Lord Hydra
-31,Creature,Rare,Light Rogue Griffin
-32,Spell,Common,Wall
-33,Creature,Common,Orc
-34,Creature,Common,Magi
-35,Artifact,Common,Ring
-36,Creature,Common,Warlock
-37,Creature,Legendary,Aura Queen Cyclops of the Frozen Castle
-38,Spell,Common,Gravitation
-39,Creature,Common,Warlock
-40,Creature,Common,Dwarf
-41,Creature,Common,Eagle
-42,Creature,Common,Paladin
-43,Enchantment,Common,Alacrity
-44,Spell,Common,Heal
+==================,DECK,6101
+0,Enchantment,Haste
+1,Enchantment,Lethargy
+2,Enchantment,Sorrow Shield
+3,Spell,Lightning
+4,Spell,Assault
+5,Spell,Instant Solar Fireball
+6,Creature,Light Nameless Dragon of the Sky
+7,Creature,Eagle
+8,Creature,Ghoul
+9,Creature,Berserker
+10,Creature,Wolf
+11,Artifact,Nimble Greaves
+12,Enchantment,Age
+13,Creature,Eagle
+14,Spell,Rage
+15,Artifact,Pendant
+16,Artifact,Miracle Ring
+17,Creature,Eagle
+18,Creature,Death Fighter Goblin
+19,Enchantment,Firebreath
+20,Creature,Frozen Lord Dwarf of the Border
+21,Creature,Light Priest Griffin
+22,Spell,Ice
+23,Creature,Skin-Walker
+24,Enchantment,Apocalypse Haste
+25,Enchantment,Alacrity
+26,Spell,Nature Revive
+27,Creature,Wolf
+28,Creature,Berserker
+29,Spell,Hypnosis
+30,Creature,Snow Lord Hydra
+31,Creature,Light Rogue Griffin
+32,Spell,Hypnosis
+33,Creature,Spider
+34,Creature,Fairy
+35,Artifact,Ring
+36,Creature,Berserker
+37,Creature,Aura Queen Giant of the Frozen Castle
+38,Spell,Stun
+39,Creature,Berserker
+40,Creature,Magi
+41,Creature,Eagle
+42,Creature,Troll
+43,Enchantment,Firebreath
+44,Spell,Stun

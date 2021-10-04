@@ -1,46 +1,46 @@
-==================,DECK,5459,Medium
-0,Creature,Rare,Light Monk Griffin
-1,Spell,Common,Vortex
-2,Creature,Common,Orc
-3,Creature,Common,Goblin
-4,Creature,Common,Paladin
-5,Creature,Rare,Death Merchant Berserker
-6,Creature,Common,Spider
-7,Creature,Rare,Snow Rogue Minotaur
-8,Creature,Rare,Aura Warrior Fairy
-9,Creature,Common,Elf
-10,Creature,Common,Eagle
-11,Creature,Common,Elf
-12,Spell,Rare,Solar Invisibility
-13,Creature,Common,Paladin
-14,Creature,Rare,Dark Undead Minotaur
-15,Enchantment,Common,Age
-16,Enchantment,Common,Deathgrip
-17,Enchantment,Mythic,Dire Flight
-18,Enchantment,Common,Shade
-19,Enchantment,Rare,Grim Invert
-20,Creature,Mythic,Death Ancient Wizard of the Dead
-21,Creature,Common,Dwarf
-22,Artifact,Legendary,Mighty Scythe
-23,Creature,Common,Elf
-24,Enchantment,Rare,Oblivion Lethargy
-25,Creature,Common,Eagle
-26,Creature,Common,Magi
-27,Enchantment,Common,Deathgrip
-28,Spell,Common,Pandemonium
-29,Creature,Rare,Death Monk Fairy
-30,Spell,Common,Revive
-31,Spell,Common,Pandemonium
-32,Spell,Common,Maelstrom
-33,Creature,Common,Elf
-34,Creature,Common,Magi
-35,Artifact,Rare,Shimmering Ring
-36,Creature,Rare,Death Warrior Berserker
-37,Creature,Rare,Earth Thief Fairy
-38,Creature,Rare,Dark Thief Berserker
-39,Creature,Rare,Aura Fighter Hydra
-40,Spell,Common,Reanimate
-41,Spell,Legendary,Potent Lightning
-42,Artifact,Common,Ghost Wand
-43,Enchantment,Common,Shade
-44,Enchantment,Rare,Lunar Blight
+==================,DECK,5459
+0,Creature,Light Monk Griffin
+1,Spell,Stun
+2,Creature,Spider
+3,Creature,Skin-Walker
+4,Creature,Troll
+5,Creature,Death Merchant Goblin
+6,Creature,Paladin
+7,Creature,Snow Rogue Cyclops
+8,Creature,Aura Warrior Kraken
+9,Creature,Warlock
+10,Creature,Eagle
+11,Creature,Warlock
+12,Spell,Hateful Tempest
+13,Creature,Troll
+14,Creature,Dark Undead Cyclops
+15,Enchantment,Flight
+16,Enchantment,Flight
+17,Enchantment,Clever Grim Haste
+18,Enchantment,Age
+19,Enchantment,Oblivion Drain
+20,Creature,Death Ancient Wizard of the Dead
+21,Creature,Magi
+22,Artifact,Empyrean Chimeric Scythe
+23,Creature,Warlock
+24,Enchantment,Grim Haste
+25,Creature,Eagle
+26,Creature,Fairy
+27,Enchantment,Strength
+28,Spell,Pandemonium
+29,Creature,Death Monk Kraken
+30,Spell,Wall
+31,Spell,Gravitation
+32,Spell,Revive
+33,Creature,Warlock
+34,Creature,Fairy
+35,Artifact,Nature Ring
+36,Creature,Death Warrior Goblin
+37,Creature,Earth Thief Kraken
+38,Creature,Dark Thief Goblin
+39,Creature,Aura Fighter Hydra
+40,Spell,Wall
+41,Spell,Urgent Nimble Heal
+42,Artifact,Ghost Wand
+43,Enchantment,Invert
+44,Enchantment,Cataclysmic Shield

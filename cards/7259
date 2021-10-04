@@ -1,46 +1,46 @@
-==================,DECK,7259,Medium
-0,Creature,Legendary,Earth Fighter Oni of the Eastern Skies
-1,Creature,Common,Warlock
-2,Creature,Common,Wolf
-3,Artifact,Common,Amulet
-4,Creature,Mythic,Death Nameless Phoenix of the Dead
-5,Creature,Common,Spider
-6,Enchantment,Common,Agony
-7,Enchantment,Mythic,Intense Haste
-8,Enchantment,Common,Age
-9,Enchantment,Legendary,Mighty Shield
-10,Spell,Rare,Shimmering Sorrow
-11,Creature,Common,Warlock
-12,Creature,Common,Warlock
-13,Artifact,Common,Shield
-14,Creature,Rare,Aura Assassin Minotaur
-15,Creature,Legendary,Frozen Lord Orge of the Eternal Land
-16,Spell,Common,Fury
-17,Spell,Common,Vortex
-18,Creature,Rare,Aura King Minotaur
-19,Spell,Common,Gale
-20,Artifact,Common,Scepter
-21,Enchantment,Common,Shrink
-22,Creature,Mythic,Dark Grand Demon of Illusion
-23,Creature,Common,Paladin
-24,Creature,Common,Elf
-25,Artifact,Common,Bracers
-26,Creature,Common,Dwarf
-27,Creature,Common,Eagle
-28,Creature,Legendary,Snow Priest Orge of the Low Hills
-29,Creature,Rare,Aura Knight Fairy
-30,Enchantment,Common,Haste
-31,Enchantment,Common,Drain
-32,Creature,Rare,Dark Thief Hydra
-33,Creature,Rare,Frozen Lord Berserker
-34,Enchantment,Mythic,Urgent Shade
-35,Spell,Rare,Gloom Heal
-36,Creature,Common,Paladin
-37,Creature,Common,Ghoul
-38,Creature,Common,Elf
-39,Creature,Rare,Earth Assassin Berserker
-40,Creature,Common,Magi
-41,Creature,Common,Goblin
-42,Spell,Common,Frost
-43,Artifact,Common,Cloak
-44,Enchantment,Mythic,Extreme Flight
+==================,DECK,7259
+0,Creature,Earth Fighter Oni of the Eastern Skies
+1,Creature,Berserker
+2,Creature,Wolf
+3,Artifact,Amulet
+4,Creature,Death Nameless Phoenix of the Dead
+5,Creature,Paladin
+6,Enchantment,Lethargy
+7,Enchantment,Mighty Corpse Agony
+8,Enchantment,Lethargy
+9,Enchantment,Instant Gloom Shrink
+10,Spell,Solar Lightning
+11,Creature,Berserker
+12,Creature,Berserker
+13,Artifact,Shield
+14,Creature,Aura Assassin Cyclops
+15,Creature,Frozen Lord Elf of the Eternal Land
+16,Spell,Wall
+17,Spell,Torment
+18,Creature,Aura King Cyclops
+19,Spell,Frost
+20,Artifact,Scepter
+21,Enchantment,Agony
+22,Creature,Dark Grand Demon of Illusion
+23,Creature,Troll
+24,Creature,Warlock
+25,Artifact,Bracers
+26,Creature,Magi
+27,Creature,Eagle
+28,Creature,Snow Priest Elf of the Low Hills
+29,Creature,Aura Knight Kraken
+30,Enchantment,Age
+31,Enchantment,Lethargy
+32,Creature,Dark Thief Hydra
+33,Creature,Frozen Lord Goblin
+34,Enchantment,Urgent Necro Agony
+35,Spell,Gloom Fire
+36,Creature,Troll
+37,Creature,Ghoul
+38,Creature,Warlock
+39,Creature,Earth Assassin Goblin
+40,Creature,Fairy
+41,Creature,Skin-Walker
+42,Spell,Burn
+43,Artifact,Cloak
+44,Enchantment,Zealous Lunar Alacrity

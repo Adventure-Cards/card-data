@@ -1,46 +1,46 @@
-==================,DECK,6667,Medium
-0,Enchantment,Common,Haste
-1,Creature,Common,Elf
-2,Creature,Common,Paladin
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Deathgrip
-5,Spell,Common,Gale
-6,Enchantment,Rare,Lunar Flight
-7,Enchantment,Common,Shield
-8,Creature,Common,Elf
-9,Creature,Rare,Earth Fighter Griffin
-10,Creature,Legendary,Snow Warrior Kraken of the Frozen Castle
-11,Spell,Common,Ice
-12,Enchantment,Mythic,Urgent Shade
-13,Creature,Mythic,Snow Chaos Wizard of Hate
-14,Creature,Legendary,Light Queen Giant of the Plains
-15,Spell,Legendary,Potent Pandemonium
-16,Spell,Rare,Frigid Torment
-17,Creature,Legendary,Earth Rogue Kraken of the Golden Palace
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Shade
-20,Creature,Common,Dwarf
-21,Artifact,Common,Pendant
-22,Spell,Common,Sorrow
-23,Spell,Rare,Apocalypse Ice
-24,Creature,Common,Magi
-25,Creature,Common,Spider
-26,Creature,Common,Eagle
-27,Enchantment,Common,Age
-28,Spell,Legendary,Mighty Torment
-29,Spell,Common,Infuriate
-30,Creature,Common,Warlock
-31,Artifact,Common,Ring
-32,Creature,Common,Elf
-33,Spell,Common,Rage
-34,Creature,Common,Goblin
-35,Spell,Common,Reanimate
-36,Enchantment,Common,Age
-37,Creature,Common,Paladin
-38,Creature,Legendary,Light Priest Cyclops of the Eternal Land
-39,Creature,Common,Magi
-40,Creature,Legendary,Earth Merchant Orge of the West
-41,Creature,Common,Elf
-42,Enchantment,Common,Blight
-43,Artifact,Common,Helmet
-44,Enchantment,Common,Haste
+==================,DECK,6667
+0,Enchantment,Haste
+1,Creature,Warlock
+2,Creature,Troll
+3,Creature,Ghoul
+4,Enchantment,Haste
+5,Spell,Fury
+6,Enchantment,Lunar Flight
+7,Enchantment,Blight
+8,Creature,Warlock
+9,Creature,Earth Fighter Griffin
+10,Creature,Snow Warrior Ogre of the Frozen Castle
+11,Spell,Torment
+12,Enchantment,Urgent Necro Agony
+13,Creature,Snow Chaos Wizard of Hate
+14,Creature,Light Queen Dwarf of the Plains
+15,Spell,Empyrean Victory Tempest
+16,Spell,Oblivion Infuriate
+17,Creature,Earth Rogue Ogre of the Golden Palace
+18,Creature,Ghoul
+19,Enchantment,Shade
+20,Creature,Magi
+21,Artifact,Pendant
+22,Spell,Lightning
+23,Spell,Apocalypse Lightning
+24,Creature,Fairy
+25,Creature,Paladin
+26,Creature,Eagle
+27,Enchantment,Shield
+28,Spell,Urgent Lunar Fury
+29,Spell,Hypnosis
+30,Creature,Berserker
+31,Artifact,Ring
+32,Creature,Warlock
+33,Spell,Hypnosis
+34,Creature,Skin-Walker
+35,Spell,Hypnosis
+36,Enchantment,Deathgrip
+37,Creature,Troll
+38,Creature,Light Priest Giant of the Eternal Land
+39,Creature,Fairy
+40,Creature,Earth Merchant Elf of the West
+41,Creature,Warlock
+42,Enchantment,Flight
+43,Artifact,Helmet
+44,Enchantment,Shade

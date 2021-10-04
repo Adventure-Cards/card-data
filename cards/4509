@@ -1,46 +1,46 @@
-==================,DECK,4509,Medium
-0,Creature,Common,Elf
-1,Spell,Common,Lightning
-2,Creature,Common,Warlock
-3,Creature,Mythic,Dark Undead Dragon of Illusion
-4,Creature,Common,Spider
-5,Artifact,Common,Gloves
-6,Enchantment,Rare,Corpse Invert
-7,Creature,Mythic,Light Chaos Wizard of the Sky
-8,Creature,Common,Wolf
-9,Spell,Common,Rage
-10,Enchantment,Common,Alacrity
-11,Creature,Mythic,Aura Undead Dragon of the Light
-12,Spell,Common,Heal
-13,Creature,Rare,Dark King Minotaur
-14,Enchantment,Rare,Grim Shade
-15,Creature,Common,Warlock
-16,Enchantment,Common,Alacrity
-17,Creature,Common,Magi
-18,Enchantment,Rare,Oblivion Shade
-19,Creature,Common,Magi
-20,Creature,Common,Dwarf
-21,Creature,Rare,Dark Warrior Skin-Walker
-22,Enchantment,Common,Alacrity
-23,Enchantment,Common,Agony
-24,Artifact,Common,Scepter
-25,Creature,Common,Paladin
-26,Enchantment,Mythic,Urgent Lethargy
-27,Spell,Mythic,Instant Frenzy
-28,Creature,Common,Paladin
-29,Artifact,Rare,Cataclysmic Gauntlet
-30,Spell,Common,Maelstrom
-31,Creature,Rare,Snow Monk Griffin
-32,Creature,Common,Spider
-33,Creature,Common,Magi
-34,Creature,Common,Dwarf
-35,Creature,Common,Dwarf
-36,Creature,Rare,Earth Lord Berserker
-37,Creature,Rare,Frozen Lord Skin-Walker
-38,Creature,Rare,Snow King Hydra
-39,Enchantment,Legendary,Potent Blight
-40,Enchantment,Common,Shield
-41,Spell,Rare,Cataclysmic Sorrow
-42,Creature,Common,Warlock
-43,Creature,Common,Spider
-44,Enchantment,Common,Agony
+==================,DECK,4509
+0,Creature,Warlock
+1,Spell,Torment
+2,Creature,Berserker
+3,Creature,Dark Undead Dragon of Illusion
+4,Creature,Paladin
+5,Artifact,Gloves
+6,Enchantment,Shimmering Lethargy
+7,Creature,Light Chaos Wizard of the Sky
+8,Creature,Wolf
+9,Spell,Maelstrom
+10,Enchantment,Shrink
+11,Creature,Aura Undead Dragon of the Light
+12,Spell,Fire
+13,Creature,Dark King Cyclops
+14,Enchantment,Frigid Blight
+15,Creature,Berserker
+16,Enchantment,Flight
+17,Creature,Fairy
+18,Enchantment,Frigid Shade
+19,Creature,Fairy
+20,Creature,Magi
+21,Creature,Dark Warrior Orc
+22,Enchantment,Shrink
+23,Enchantment,Invert
+24,Artifact,Scepter
+25,Creature,Troll
+26,Enchantment,Irate Hateful Deathgrip
+27,Spell,Instant Solar Frenzy
+28,Creature,Troll
+29,Artifact,Dark Gauntlet
+30,Spell,Fury
+31,Creature,Snow Monk Griffin
+32,Creature,Paladin
+33,Creature,Fairy
+34,Creature,Magi
+35,Creature,Magi
+36,Creature,Earth Lord Goblin
+37,Creature,Frozen Lord Orc
+38,Creature,Snow King Hydra
+39,Enchantment,Mighty Nimble Invert
+40,Enchantment,Flight
+41,Spell,Lunar Hypnosis
+42,Creature,Berserker
+43,Creature,Paladin
+44,Enchantment,Age

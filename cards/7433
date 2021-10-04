@@ -1,46 +1,46 @@
-==================,DECK,7433,Light
-0,Spell,Common,Lightning
-1,Enchantment,Common,Haste
-2,Creature,Common,Magi
-3,Artifact,Common,Ring
-4,Creature,Common,Warlock
-5,Enchantment,Legendary,Mighty Drain
-6,Enchantment,Common,Agony
-7,Enchantment,Common,Flight
-8,Enchantment,Common,Age
-9,Creature,Common,Elf
-10,Creature,Legendary,Dark Rogue Kraken of the Eternal Land
-11,Artifact,Common,Shield
-12,Spell,Common,Heal
-13,Artifact,Common,Potion
-14,Creature,Legendary,Aura Queen Cyclops of the West
-15,Spell,Common,Vortex
-16,Creature,Common,Warlock
-17,Creature,Common,Spider
-18,Creature,Common,Magi
-19,Creature,Rare,Death Assassin Hydra
-20,Enchantment,Common,Shade
-21,Creature,Legendary,Frozen Rogue Giant of the Bright Mountains
-22,Creature,Common,Paladin
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Goblin
-25,Creature,Rare,Aura Monk Minotaur
-26,Enchantment,Common,Blight
-27,Creature,Common,Orc
-28,Creature,Common,Orc
-29,Enchantment,Common,Shade
-30,Enchantment,Rare,Oblivion Shield
-31,Creature,Rare,Earth Queen Berserker
-32,Enchantment,Common,Alacrity
-33,Creature,Rare,Death Queen Minotaur
-34,Creature,Common,Magi
-35,Creature,Common,Dwarf
-36,Enchantment,Common,Blight
-37,Creature,Common,Spider
-38,Enchantment,Mythic,Urgent Drain
-39,Creature,Rare,Frozen Assassin Minotaur
-40,Spell,Common,Hypnosis
-41,Creature,Legendary,Dark Assassin Orge of the Black Stone
-42,Spell,Common,Wall
-43,Creature,Common,Ghoul
-44,Enchantment,Common,Lethargy
+==================,DECK,7433
+0,Spell,Stun
+1,Enchantment,Agony
+2,Creature,Fairy
+3,Artifact,Ring
+4,Creature,Berserker
+5,Enchantment,Potent Dark Shrink
+6,Enchantment,Lethargy
+7,Enchantment,Shield
+8,Enchantment,Shield
+9,Creature,Warlock
+10,Creature,Dark Rogue Ogre of the Eternal Land
+11,Artifact,Shield
+12,Spell,Heal
+13,Artifact,Potion
+14,Creature,Aura Queen Giant of the West
+15,Spell,Gale
+16,Creature,Berserker
+17,Creature,Paladin
+18,Creature,Fairy
+19,Creature,Death Assassin Hydra
+20,Enchantment,Shield
+21,Creature,Frozen Rogue Dwarf of the Bright Mountains
+22,Creature,Troll
+23,Enchantment,Strength
+24,Creature,Skin-Walker
+25,Creature,Aura Monk Cyclops
+26,Enchantment,Deathgrip
+27,Creature,Spider
+28,Creature,Spider
+29,Enchantment,Blight
+30,Enchantment,Victory Invert
+31,Creature,Earth Queen Goblin
+32,Enchantment,Alacrity
+33,Creature,Death Queen Cyclops
+34,Creature,Fairy
+35,Creature,Magi
+36,Enchantment,Blight
+37,Creature,Paladin
+38,Enchantment,Clever Forged Lethargy
+39,Creature,Frozen Assassin Cyclops
+40,Spell,Reanimate
+41,Creature,Dark Assassin Elf of the Black Stone
+42,Spell,Reanimate
+43,Creature,Ghoul
+44,Enchantment,Invert

@@ -1,46 +1,46 @@
-==================,DECK,5423,Strong
-0,Creature,Common,Wolf
-1,Spell,Common,Frost
-2,Spell,Mythic,Instant Hypnosis
-3,Spell,Common,Frenzy
-4,Creature,Legendary,Snow Lord Kraken of the West
-5,Enchantment,Legendary,Dire Alacrity
-6,Artifact,Common,Ring
-7,Enchantment,Common,Age
-8,Spell,Common,Gravitation
-9,Creature,Common,Dwarf
-10,Artifact,Mythic,Urgent Staff
-11,Creature,Legendary,Death Knight Kraken of the Plains
-12,Spell,Rare,Forged Assault
-13,Enchantment,Mythic,Instant Lethargy
-14,Enchantment,Common,Strength
-15,Creature,Common,Spider
-16,Creature,Common,Paladin
-17,Creature,Rare,Earth Fighter Hydra
-18,Creature,Legendary,Light Undead Orge of the Golden Palace
-19,Spell,Common,Stricken
-20,Creature,Rare,Earth Monk Fairy
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Drain
-23,Enchantment,Common,Lethargy
-24,Spell,Legendary,Urgent Frost
-25,Creature,Common,Ghoul
-26,Enchantment,Legendary,Angry Agony
-27,Creature,Common,Spider
-28,Creature,Rare,Death Queen Minotaur
-29,Creature,Legendary,Aura Knight Orge of the Eastern Skies
-30,Spell,Rare,Gloom Frenzy
-31,Enchantment,Rare,Shimmering Blight
-32,Enchantment,Common,Shield
-33,Creature,Common,Spider
-34,Enchantment,Mythic,Urgent Flight
-35,Creature,Common,Dwarf
-36,Creature,Rare,Earth Lord Griffin
-37,Spell,Rare,Solar Invisibility
-38,Spell,Common,Assault
-39,Creature,Common,Goblin
-40,Creature,Common,Ghoul
-41,Creature,Mythic,Earth Grand Wizard of the Shadows
-42,Creature,Mythic,Light Undead Dragon of the Sky
-43,Creature,Common,Warlock
-44,Enchantment,Legendary,Mighty Age
+==================,DECK,5423
+0,Creature,Wolf
+1,Spell,Assault
+2,Spell,Clever Solar Revive
+3,Spell,Burst
+4,Creature,Snow Lord Ogre of the West
+5,Enchantment,Instant Apocalypse Drain
+6,Artifact,Ring
+7,Enchantment,Agony
+8,Spell,Gravitation
+9,Creature,Magi
+10,Artifact,Zealous Forged Staff
+11,Creature,Death Knight Ogre of the Plains
+12,Spell,Gloom Sorrow
+13,Enchantment,Ardent Hateful Lethargy
+14,Enchantment,Firebreath
+15,Creature,Paladin
+16,Creature,Troll
+17,Creature,Earth Fighter Hydra
+18,Creature,Light Undead Elf of the Golden Palace
+19,Spell,Heal
+20,Creature,Earth Monk Kraken
+21,Creature,Magi
+22,Enchantment,Age
+23,Enchantment,Age
+24,Spell,Dire Forged Revive
+25,Creature,Ghoul
+26,Enchantment,Irate Miracle Alacrity
+27,Creature,Paladin
+28,Creature,Death Queen Cyclops
+29,Creature,Aura Knight Elf of the Eastern Skies
+30,Spell,Miracle Tempest
+31,Enchantment,Solar Lethargy
+32,Enchantment,Shrink
+33,Creature,Paladin
+34,Enchantment,Mighty Hateful Agony
+35,Creature,Magi
+36,Creature,Earth Lord Griffin
+37,Spell,Corpse Sorrow
+38,Spell,Heal
+39,Creature,Skin-Walker
+40,Creature,Ghoul
+41,Creature,Earth Grand Wizard of the Shadows
+42,Creature,Light Undead Dragon of the Sky
+43,Creature,Berserker
+44,Enchantment,Clever Gloom Shield

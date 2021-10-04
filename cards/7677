@@ -1,46 +1,46 @@
-==================,DECK,7677,Medium
-0,Enchantment,Rare,Apocalypse Haste
-1,Creature,Legendary,Death Undead Orge of the Swamp
-2,Creature,Legendary,Aura Assassin Cyclops of the Low Hills
-3,Creature,Rare,Snow Knight Fairy
-4,Spell,Common,Wall
-5,Creature,Common,Wolf
-6,Spell,Rare,Shimmering Burst
-7,Artifact,Common,Ghost Wand
-8,Creature,Rare,Dark Rogue Hydra
-9,Enchantment,Rare,Grim Alacrity
-10,Artifact,Rare,Shimmering Belt
-11,Creature,Common,Eagle
-12,Spell,Rare,Dark Invisibility
-13,Enchantment,Rare,Solar Alacrity
-14,Artifact,Rare,Lunar Scepter
-15,Creature,Common,Elf
-16,Spell,Rare,Gloom Vortex
-17,Enchantment,Rare,Necro Shrink
-18,Artifact,Legendary,Angry Ring
-19,Creature,Common,Eagle
-20,Artifact,Common,Boots
-21,Spell,Rare,Corpse Revive
-22,Creature,Common,Ghoul
-23,Creature,Rare,Aura Lord Hydra
-24,Creature,Rare,Death Merchant Fairy
-25,Creature,Legendary,Frozen Queen Giant of the Swamp
-26,Creature,Rare,Earth Assassin Hydra
-27,Creature,Common,Goblin
-28,Spell,Common,Lightning
-29,Creature,Common,Ghoul
-30,Creature,Rare,Death Undead Griffin
-31,Creature,Mythic,Aura Nameless Dragon of the Light
-32,Enchantment,Legendary,Urgent Shield
-33,Creature,Rare,Death Fighter Skin-Walker
-34,Creature,Common,Goblin
-35,Creature,Common,Dwarf
-36,Creature,Common,Goblin
-37,Spell,Rare,Forged Revive
-38,Artifact,Common,Divine Robe
-39,Creature,Common,Elf
-40,Artifact,Legendary,Angry Shield
-41,Creature,Legendary,Light Assassin Cyclops of the Arctic Blizzards
-42,Creature,Rare,Earth Queen Fairy
-43,Creature,Rare,Death Rogue Minotaur
-44,Creature,Common,Goblin
+==================,DECK,7677
+0,Enchantment,Life Blight
+1,Creature,Death Undead Elf of the Swamp
+2,Creature,Aura Assassin Giant of the Low Hills
+3,Creature,Snow Knight Kraken
+4,Spell,Frenzy
+5,Creature,Wolf
+6,Spell,Solar Invisibility
+7,Artifact,Ghost Wand
+8,Creature,Dark Rogue Hydra
+9,Enchantment,Apocalypse Shade
+10,Artifact,Corpse Belt
+11,Creature,Eagle
+12,Spell,Sorrow Frenzy
+13,Enchantment,Forged Agony
+14,Artifact,Dark Scepter
+15,Creature,Warlock
+16,Spell,Gloom Maelstrom
+17,Enchantment,Necro Agony
+18,Artifact,Potent Chimeric Ring
+19,Creature,Eagle
+20,Artifact,Boots
+21,Spell,Solar Fireball
+22,Creature,Ghoul
+23,Creature,Aura Lord Hydra
+24,Creature,Death Merchant Kraken
+25,Creature,Frozen Queen Dwarf of the Swamp
+26,Creature,Earth Assassin Hydra
+27,Creature,Skin-Walker
+28,Spell,Revive
+29,Creature,Ghoul
+30,Creature,Death Undead Griffin
+31,Creature,Aura Nameless Dragon of the Light
+32,Enchantment,Instant Nature Strength
+33,Creature,Death Fighter Orc
+34,Creature,Skin-Walker
+35,Creature,Magi
+36,Creature,Skin-Walker
+37,Spell,Gloom Frenzy
+38,Artifact,Divine Robe
+39,Creature,Warlock
+40,Artifact,Empyrean Lunar Shield
+41,Creature,Light Assassin Giant of the Arctic Blizzards
+42,Creature,Earth Queen Kraken
+43,Creature,Death Rogue Cyclops
+44,Creature,Skin-Walker

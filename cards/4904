@@ -1,46 +1,46 @@
-==================,DECK,4904,Medium
-0,Artifact,Common,Ring
-1,Spell,Rare,Forged Invisibility
-2,Enchantment,Common,Agony
-3,Creature,Rare,Dark Queen Minotaur
-4,Creature,Legendary,Earth Knight Kraken of the Arctic Blizzards
-5,Creature,Common,Elf
-6,Enchantment,Rare,Forged Shade
-7,Enchantment,Common,Strength
-8,Spell,Rare,Miracle Hypnosis
-9,Enchantment,Common,Blight
-10,Creature,Common,Paladin
-11,Artifact,Common,Shield
-12,Creature,Common,Magi
-13,Enchantment,Legendary,Extreme Shrink
-14,Spell,Mythic,Clever Stricken
-15,Creature,Rare,Snow King Minotaur
-16,Artifact,Legendary,Potent Cloak
-17,Creature,Common,Goblin
-18,Creature,Rare,Aura Assassin Hydra
-19,Artifact,Common,Helmet
-20,Creature,Rare,Earth Rogue Fairy
-21,Creature,Mythic,Aura Undead Phoenix of the Light
-22,Creature,Legendary,Dark Queen Giant of the Black Stone
-23,Creature,Common,Goblin
-24,Enchantment,Common,Alacrity
-25,Creature,Common,Spider
-26,Creature,Common,Magi
-27,Enchantment,Common,Age
-28,Creature,Legendary,Death Queen Cyclops of the Frozen Castle
-29,Enchantment,Legendary,Angry Agony
-30,Artifact,Common,Gloves
-31,Creature,Mythic,Earth Grand Demon of the Shadows
-32,Creature,Common,Warlock
-33,Spell,Common,Reanimate
-34,Creature,Common,Warlock
-35,Enchantment,Legendary,Extreme Strength
-36,Creature,Common,Eagle
-37,Creature,Legendary,Light Priest Kraken of the Black Stone
-38,Creature,Rare,Aura Lord Hydra
-39,Creature,Rare,Light King Hydra
-40,Spell,Legendary,Dire Invisibility
-41,Creature,Mythic,Death Undead Dragon of the Dead
-42,Spell,Common,Stricken
-43,Creature,Common,Orc
-44,Enchantment,Common,Shield
+==================,DECK,4904
+0,Artifact,Ring
+1,Spell,Miracle Gale
+2,Enchantment,Invert
+3,Creature,Dark Queen Cyclops
+4,Creature,Earth Knight Ogre of the Arctic Blizzards
+5,Creature,Warlock
+6,Enchantment,Chimeric Shrink
+7,Enchantment,Lethargy
+8,Spell,Oblivion Invisibility
+9,Enchantment,Shade
+10,Creature,Troll
+11,Artifact,Shield
+12,Creature,Fairy
+13,Enchantment,Zealous Chimeric Alacrity
+14,Spell,Clever Victory Assault
+15,Creature,Snow King Cyclops
+16,Artifact,Clever Frigid Cloak
+17,Creature,Skin-Walker
+18,Creature,Aura Assassin Hydra
+19,Artifact,Helmet
+20,Creature,Earth Rogue Kraken
+21,Creature,Aura Undead Phoenix of the Light
+22,Creature,Dark Queen Dwarf of the Black Stone
+23,Creature,Skin-Walker
+24,Enchantment,Deathgrip
+25,Creature,Paladin
+26,Creature,Fairy
+27,Enchantment,Lethargy
+28,Creature,Death Queen Giant of the Frozen Castle
+29,Enchantment,Instant Miracle Shrink
+30,Artifact,Gloves
+31,Creature,Earth Grand Demon of the Shadows
+32,Creature,Berserker
+33,Spell,Hypnosis
+34,Creature,Berserker
+35,Enchantment,Irate Cataclysmic Alacrity
+36,Creature,Eagle
+37,Creature,Light Priest Ogre of the Black Stone
+38,Creature,Aura Lord Hydra
+39,Creature,Light King Hydra
+40,Spell,Instant Oblivion Burst
+41,Creature,Death Undead Dragon of the Dead
+42,Spell,Torment
+43,Creature,Spider
+44,Enchantment,Age

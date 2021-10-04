@@ -1,46 +1,46 @@
-==================,DECK,4510,Light
-0,Spell,Common,Assault
-1,Creature,Rare,Frozen Thief Berserker
-2,Spell,Common,Invisibility
-3,Creature,Legendary,Light Queen Cyclops of the West
-4,Creature,Common,Warlock
-5,Artifact,Rare,Nimble Gauntlet
-6,Creature,Common,Magi
-7,Enchantment,Common,Shade
-8,Creature,Common,Ghoul
-9,Creature,Common,Elf
-10,Spell,Common,Lightning
-11,Enchantment,Common,Lethargy
-12,Spell,Common,Infuriate
-13,Creature,Rare,Earth Undead Berserker
-14,Creature,Common,Eagle
-15,Creature,Common,Ghoul
-16,Spell,Rare,Oblivion Wall
-17,Creature,Common,Elf
-18,Creature,Legendary,Death Monk Cyclops of the Polar Woods
-19,Spell,Common,Fury
-20,Creature,Common,Eagle
-21,Creature,Common,Warlock
-22,Creature,Common,Elf
-23,Artifact,Rare,Shimmering Staff
-24,Creature,Common,Eagle
-25,Creature,Common,Spider
-26,Creature,Common,Paladin
-27,Artifact,Common,Bracers
-28,Creature,Rare,Death Undead Griffin
-29,Creature,Common,Orc
-30,Creature,Common,Magi
-31,Enchantment,Common,Shield
-32,Enchantment,Rare,Hateful Haste
-33,Enchantment,Mythic,Mighty Deathgrip
-34,Creature,Common,Ghoul
-35,Spell,Common,Assault
-36,Creature,Legendary,Aura Undead Orge of the Low Hills
-37,Spell,Common,Torment
-38,Spell,Common,Assault
-39,Enchantment,Common,Flight
-40,Creature,Common,Magi
-41,Creature,Rare,Frozen Warrior Minotaur
-42,Creature,Common,Warlock
-43,Creature,Rare,Frozen Monk Hydra
-44,Spell,Common,Burst
+==================,DECK,4510
+0,Spell,Heal
+1,Creature,Frozen Thief Goblin
+2,Spell,Fireball
+3,Creature,Light Queen Giant of the West
+4,Creature,Berserker
+5,Artifact,Nature Gauntlet
+6,Creature,Fairy
+7,Enchantment,Agony
+8,Creature,Ghoul
+9,Creature,Warlock
+10,Spell,Fire
+11,Enchantment,Invert
+12,Spell,Heal
+13,Creature,Earth Undead Goblin
+14,Creature,Eagle
+15,Creature,Ghoul
+16,Spell,Victory Assault
+17,Creature,Warlock
+18,Creature,Death Monk Giant of the Polar Woods
+19,Spell,Frenzy
+20,Creature,Eagle
+21,Creature,Berserker
+22,Creature,Warlock
+23,Artifact,Corpse Staff
+24,Creature,Eagle
+25,Creature,Paladin
+26,Creature,Troll
+27,Artifact,Bracers
+28,Creature,Death Undead Griffin
+29,Creature,Spider
+30,Creature,Fairy
+31,Enchantment,Lethargy
+32,Enchantment,Miracle Alacrity
+33,Enchantment,Potent Sorrow Shrink
+34,Creature,Ghoul
+35,Spell,Tempest
+36,Creature,Aura Undead Elf of the Low Hills
+37,Spell,Wall
+38,Spell,Hypnosis
+39,Enchantment,Haste
+40,Creature,Fairy
+41,Creature,Frozen Warrior Cyclops
+42,Creature,Berserker
+43,Creature,Frozen Monk Hydra
+44,Spell,Vortex

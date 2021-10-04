@@ -1,46 +1,46 @@
-==================,DECK,6268,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Paladin
-2,Spell,Common,Stricken
-3,Creature,Rare,Snow Priest Hydra
-4,Spell,Common,Infuriate
-5,Spell,Common,Pandemonium
-6,Enchantment,Common,Strength
-7,Creature,Legendary,Aura Knight Cyclops of the Eastern Skies
-8,Creature,Common,Elf
-9,Enchantment,Rare,Forged Alacrity
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Rare,Death Fighter Minotaur
-13,Enchantment,Common,Shield
-14,Enchantment,Mythic,Instant Strength
-15,Creature,Common,Paladin
-16,Creature,Common,Wolf
-17,Spell,Rare,Oblivion Invisibility
-18,Spell,Legendary,Mighty Frenzy
-19,Artifact,Common,Boots
-20,Creature,Common,Ghoul
-21,Creature,Common,Wolf
-22,Creature,Legendary,Aura Warrior Kraken of the Bright Mountains
-23,Creature,Common,Warlock
-24,Creature,Common,Elf
-25,Creature,Rare,Earth Fighter Griffin
-26,Creature,Rare,Dark Lord Skin-Walker
-27,Enchantment,Common,Shrink
-28,Enchantment,Common,Alacrity
-29,Spell,Common,Stricken
-30,Creature,Rare,Frozen King Hydra
-31,Spell,Rare,Lunar Reanimate
-32,Spell,Rare,Cataclysmic Hypnosis
-33,Creature,Common,Eagle
-34,Artifact,Common,Pendant
-35,Creature,Rare,Frozen Thief Skin-Walker
-36,Creature,Common,Elf
-37,Creature,Common,Eagle
-38,Enchantment,Common,Strength
-39,Spell,Rare,Solar Freeze
-40,Spell,Rare,Necro Sorrow
-41,Creature,Rare,Aura Undead Skin-Walker
-42,Creature,Legendary,Snow Fighter Oni of the Frozen Castle
-43,Creature,Rare,Earth Queen Minotaur
-44,Creature,Rare,Death Monk Hydra
+==================,DECK,6268
+0,Creature,Skin-Walker
+1,Creature,Troll
+2,Spell,Maelstrom
+3,Creature,Snow Priest Hydra
+4,Spell,Tempest
+5,Spell,Fire
+6,Enchantment,Drain
+7,Creature,Aura Knight Giant of the Eastern Skies
+8,Creature,Warlock
+9,Enchantment,Dark Firebreath
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Death Fighter Cyclops
+13,Enchantment,Lethargy
+14,Enchantment,Urgent Solar Agony
+15,Creature,Troll
+16,Creature,Wolf
+17,Spell,Life Fury
+18,Spell,Instant Lunar Fury
+19,Artifact,Boots
+20,Creature,Ghoul
+21,Creature,Wolf
+22,Creature,Aura Warrior Ogre of the Bright Mountains
+23,Creature,Berserker
+24,Creature,Warlock
+25,Creature,Earth Fighter Griffin
+26,Creature,Dark Lord Orc
+27,Enchantment,Alacrity
+28,Enchantment,Agony
+29,Spell,Vortex
+30,Creature,Frozen King Hydra
+31,Spell,Gloom Lightning
+32,Spell,Chimeric Assault
+33,Creature,Eagle
+34,Artifact,Pendant
+35,Creature,Frozen Thief Orc
+36,Creature,Warlock
+37,Creature,Eagle
+38,Enchantment,Shade
+39,Spell,Necro Burst
+40,Spell,Necro Freeze
+41,Creature,Aura Undead Orc
+42,Creature,Snow Fighter Oni of the Frozen Castle
+43,Creature,Earth Queen Cyclops
+44,Creature,Death Monk Hydra

@@ -1,46 +1,46 @@
-==================,DECK,7557,Medium
-0,Creature,Common,Dwarf
-1,Spell,Legendary,Mighty Reanimate
-2,Creature,Rare,Earth Assassin Berserker
-3,Creature,Common,Spider
-4,Enchantment,Rare,Nature Haste
-5,Creature,Mythic,Aura Ancient Demon of the Light
-6,Creature,Common,Paladin
-7,Creature,Common,Ghoul
-8,Creature,Common,Warlock
-9,Enchantment,Common,Deathgrip
-10,Enchantment,Common,Shade
-11,Spell,Common,Stun
-12,Artifact,Common,Ring
-13,Enchantment,Common,Shield
-14,Enchantment,Common,Flight
-15,Spell,Common,Assault
-16,Creature,Common,Elf
-17,Spell,Common,Lightning
-18,Artifact,Common,Gauntlet
-19,Creature,Rare,Aura Rogue Minotaur
-20,Creature,Common,Orc
-21,Enchantment,Common,Flight
-22,Creature,Common,Spider
-23,Creature,Common,Orc
-24,Creature,Common,Elf
-25,Spell,Common,Heal
-26,Creature,Common,Dwarf
-27,Creature,Rare,Snow Thief Griffin
-28,Creature,Common,Ghoul
-29,Spell,Common,Freeze
-30,Enchantment,Common,Drain
-31,Creature,Rare,Frozen Knight Skin-Walker
-32,Creature,Legendary,Aura King Giant of the Golden Palace
-33,Artifact,Common,Gauntlet
-34,Enchantment,Common,Haste
-35,Spell,Common,Ice
-36,Creature,Rare,Death Merchant Fairy
-37,Creature,Rare,Frozen Lord Griffin
-38,Spell,Rare,Frigid Gravitation
-39,Spell,Common,Freeze
-40,Enchantment,Mythic,Clever Age
-41,Creature,Rare,Dark Assassin Berserker
-42,Spell,Legendary,Potent Freeze
-43,Creature,Rare,Dark Thief Fairy
-44,Spell,Common,Rage
+==================,DECK,7557
+0,Creature,Magi
+1,Spell,Empyrean Sorrow Stun
+2,Creature,Earth Assassin Goblin
+3,Creature,Paladin
+4,Enchantment,Corpse Lethargy
+5,Creature,Aura Ancient Demon of the Light
+6,Creature,Troll
+7,Creature,Ghoul
+8,Creature,Berserker
+9,Enchantment,Shrink
+10,Enchantment,Agony
+11,Spell,Burst
+12,Artifact,Ring
+13,Enchantment,Lethargy
+14,Enchantment,Deathgrip
+15,Spell,Wall
+16,Creature,Warlock
+17,Spell,Frenzy
+18,Artifact,Gauntlet
+19,Creature,Aura Rogue Cyclops
+20,Creature,Spider
+21,Enchantment,Shade
+22,Creature,Paladin
+23,Creature,Spider
+24,Creature,Warlock
+25,Spell,Ice
+26,Creature,Magi
+27,Creature,Snow Thief Griffin
+28,Creature,Ghoul
+29,Spell,Sorrow
+30,Enchantment,Alacrity
+31,Creature,Frozen Knight Orc
+32,Creature,Aura King Dwarf of the Golden Palace
+33,Artifact,Gauntlet
+34,Enchantment,Haste
+35,Spell,Hypnosis
+36,Creature,Death Merchant Kraken
+37,Creature,Frozen Lord Griffin
+38,Spell,Life Torment
+39,Spell,Lightning
+40,Enchantment,Mighty Victory Invert
+41,Creature,Dark Assassin Goblin
+42,Spell,Ardent Frigid Infuriate
+43,Creature,Dark Thief Kraken
+44,Spell,Freeze

@@ -1,46 +1,46 @@
-==================,DECK,7236,Strong
-0,Spell,Rare,Frigid Gravitation
-1,Spell,Legendary,Intense Heal
-2,Creature,Common,Dwarf
-3,Enchantment,Mythic,Intense Haste
-4,Creature,Common,Warlock
-5,Creature,Rare,Aura Queen Fairy
-6,Spell,Legendary,Dire Infuriate
-7,Spell,Common,Frenzy
-8,Creature,Legendary,Earth Priest Kraken of the Arctic Blizzards
-9,Artifact,Common,Boots
-10,Creature,Common,Warlock
-11,Enchantment,Mythic,Mighty Flight
-12,Creature,Common,Wolf
-13,Creature,Common,Dwarf
-14,Creature,Rare,Frozen Rogue Skin-Walker
-15,Artifact,Rare,Life Sigil
-16,Creature,Common,Eagle
-17,Creature,Common,Magi
-18,Spell,Common,Frost
-19,Creature,Legendary,Earth Undead Kraken of the Mountains
-20,Enchantment,Legendary,Extreme Drain
-21,Creature,Common,Wolf
-22,Creature,Common,Warlock
-23,Creature,Rare,Death Fighter Hydra
-24,Enchantment,Common,Lethargy
-25,Enchantment,Rare,Gloom Shade
-26,Creature,Common,Magi
-27,Artifact,Mythic,Dire Ring
-28,Enchantment,Mythic,Urgent Deathgrip
-29,Spell,Mythic,Dire Stricken
-30,Spell,Legendary,Clever Stricken
-31,Enchantment,Mythic,Instant Haste
-32,Creature,Common,Eagle
-33,Creature,Common,Magi
-34,Enchantment,Common,Age
-35,Spell,Rare,Forged Frenzy
-36,Enchantment,Common,Age
-37,Creature,Legendary,Frozen Lord Cyclops of the Mountains
-38,Creature,Common,Wolf
-39,Creature,Legendary,Snow Grand Wizard of Hate
-40,Creature,Legendary,Snow Knight Kraken of the Polar Woods
-41,Creature,Legendary,Frozen Grand Wizard of the Void
-42,Spell,Rare,Cataclysmic Gale
-43,Artifact,Common,Cloak
-44,Creature,Common,Warlock
+==================,DECK,7236
+0,Spell,Frigid Stun
+1,Spell,Urgent Forged Hypnosis
+2,Creature,Magi
+3,Enchantment,Clever Corpse Lethargy
+4,Creature,Berserker
+5,Creature,Aura Queen Kraken
+6,Spell,Zealous Apocalypse Fury
+7,Spell,Pandemonium
+8,Creature,Earth Priest Ogre of the Arctic Blizzards
+9,Artifact,Boots
+10,Creature,Berserker
+11,Enchantment,Mighty Lunar Flight
+12,Creature,Wolf
+13,Creature,Magi
+14,Creature,Frozen Rogue Orc
+15,Artifact,Frigid Sigil
+16,Creature,Eagle
+17,Creature,Fairy
+18,Spell,Torment
+19,Creature,Earth Undead Ogre of the Mountains
+20,Enchantment,Potent Dark Shrink
+21,Creature,Wolf
+22,Creature,Berserker
+23,Creature,Death Fighter Hydra
+24,Enchantment,Shade
+25,Enchantment,Chimeric Alacrity
+26,Creature,Fairy
+27,Artifact,Clever Oblivion Ring
+28,Enchantment,Zealous Shimmering Deathgrip
+29,Spell,Mighty Oblivion Gravitation
+30,Spell,Clever Life Reanimate
+31,Enchantment,Clever Corpse Lethargy
+32,Creature,Eagle
+33,Creature,Fairy
+34,Enchantment,Lethargy
+35,Spell,Dark Assault
+36,Enchantment,Deathgrip
+37,Creature,Frozen Lord Giant of the Mountains
+38,Creature,Wolf
+39,Creature,Snow Grand Wizard of Hate
+40,Creature,Snow Knight Ogre of the Polar Woods
+41,Creature,Frozen Grand Wizard of the Void
+42,Spell,Cataclysmic Lightning
+43,Artifact,Cloak
+44,Creature,Berserker

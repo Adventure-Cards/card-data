@@ -1,46 +1,46 @@
-==================,DECK,5601,Light
-0,Creature,Common,Elf
-1,Artifact,Rare,Dark Gloves
-2,Enchantment,Legendary,Angry Blight
-3,Creature,Common,Warlock
-4,Enchantment,Common,Agony
-5,Creature,Common,Eagle
-6,Creature,Common,Goblin
-7,Creature,Common,Wolf
-8,Spell,Common,Frost
-9,Spell,Rare,Corpse Lightning
-10,Creature,Common,Goblin
-11,Enchantment,Common,Haste
-12,Creature,Common,Paladin
-13,Creature,Common,Orc
-14,Spell,Common,Heal
-15,Creature,Rare,Dark Rogue Griffin
-16,Spell,Common,Freeze
-17,Enchantment,Common,Deathgrip
-18,Creature,Common,Wolf
-19,Creature,Common,Elf
-20,Artifact,Rare,Miracle Ring
-21,Artifact,Common,Greaves
-22,Enchantment,Mythic,Angry Lethargy
-23,Enchantment,Common,Haste
-24,Spell,Common,Fury
-25,Artifact,Common,Sigil
-26,Creature,Rare,Frozen Queen Berserker
-27,Spell,Rare,Necro Hypnosis
-28,Creature,Common,Paladin
-29,Creature,Common,Goblin
-30,Creature,Legendary,Earth Undead Oni of the Swamp
-31,Spell,Rare,Dark Heal
-32,Spell,Common,Hypnosis
-33,Artifact,Common,Belt
-34,Creature,Common,Wolf
-35,Spell,Common,Stun
-36,Creature,Common,Goblin
-37,Enchantment,Common,Deathgrip
-38,Artifact,Legendary,Clever Potion
-39,Enchantment,Common,Agony
-40,Creature,Common,Warlock
-41,Enchantment,Common,Haste
-42,Enchantment,Common,Flight
-43,Spell,Common,Burn
-44,Creature,Common,Spider
+==================,DECK,5601
+0,Creature,Warlock
+1,Artifact,Lunar Gloves
+2,Enchantment,Mighty Cataclysmic Flight
+3,Creature,Berserker
+4,Enchantment,Agony
+5,Creature,Eagle
+6,Creature,Skin-Walker
+7,Creature,Wolf
+8,Spell,Stricken
+9,Spell,Nature Maelstrom
+10,Creature,Skin-Walker
+11,Enchantment,Firebreath
+12,Creature,Troll
+13,Creature,Spider
+14,Spell,Wall
+15,Creature,Dark Rogue Griffin
+16,Spell,Pandemonium
+17,Enchantment,Agony
+18,Creature,Wolf
+19,Creature,Warlock
+20,Artifact,Frigid Ring
+21,Artifact,Greaves
+22,Enchantment,Urgent Lunar Flight
+23,Enchantment,Blight
+24,Spell,Ice
+25,Artifact,Sigil
+26,Creature,Frozen Queen Goblin
+27,Spell,Solar Burn
+28,Creature,Troll
+29,Creature,Skin-Walker
+30,Creature,Earth Undead Oni of the Swamp
+31,Spell,Lunar Gravitation
+32,Spell,Burn
+33,Artifact,Belt
+34,Creature,Wolf
+35,Spell,Frenzy
+36,Creature,Skin-Walker
+37,Enchantment,Lethargy
+38,Artifact,Clever Nimble Potion
+39,Enchantment,Blight
+40,Creature,Berserker
+41,Enchantment,Agony
+42,Enchantment,Strength
+43,Spell,Burst
+44,Creature,Paladin

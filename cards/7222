@@ -1,46 +1,46 @@
-==================,DECK,7222,Light
-0,Spell,Common,Pandemonium
-1,Artifact,Common,Shield
-2,Spell,Common,Gravitation
-3,Enchantment,Common,Deathgrip
-4,Artifact,Rare,Grim Belt
-5,Artifact,Rare,Solar Cloak
-6,Creature,Common,Magi
-7,Creature,Common,Spider
-8,Enchantment,Common,Strength
-9,Artifact,Common,Staff
-10,Creature,Legendary,Dark Knight Giant of the Border
-11,Spell,Rare,Dark Rage
-12,Creature,Rare,Death Assassin Minotaur
-13,Creature,Common,Goblin
-14,Spell,Rare,Life Gale
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Gravitation
-17,Spell,Common,Vortex
-18,Spell,Common,Burst
-19,Spell,Common,Assault
-20,Creature,Common,Ghoul
-21,Creature,Common,Paladin
-22,Creature,Common,Eagle
-23,Creature,Mythic,Death Time Dragon of the Dead
-24,Creature,Mythic,Snow Chaos Wizard of Hate
-25,Creature,Common,Dwarf
-26,Creature,Mythic,Earth Time Phoenix of the Shadows
-27,Artifact,Rare,Shimmering Belt
-28,Enchantment,Rare,Dark Alacrity
-29,Enchantment,Common,Invert
-30,Creature,Common,Spider
-31,Creature,Common,Ghoul
-32,Creature,Common,Wolf
-33,Artifact,Common,Amulet
-34,Spell,Common,Rage
-35,Creature,Common,Warlock
-36,Artifact,Common,Helm
-37,Creature,Mythic,Frozen Nameless Phoenix of the Void
-38,Enchantment,Common,Drain
-39,Creature,Common,Spider
-40,Creature,Common,Elf
-41,Enchantment,Common,Blight
-42,Artifact,Rare,Gloom Scepter
-43,Creature,Common,Elf
-44,Artifact,Common,Cloak
+==================,DECK,7222
+0,Spell,Revive
+1,Artifact,Shield
+2,Spell,Rage
+3,Enchantment,Shade
+4,Artifact,Frigid Belt
+5,Artifact,Solar Cloak
+6,Creature,Fairy
+7,Creature,Paladin
+8,Enchantment,Shield
+9,Artifact,Staff
+10,Creature,Dark Knight Dwarf of the Border
+11,Spell,Miracle Infuriate
+12,Creature,Death Assassin Cyclops
+13,Creature,Skin-Walker
+14,Spell,Oblivion Burn
+15,Enchantment,Agony
+16,Spell,Pandemonium
+17,Spell,Hypnosis
+18,Spell,Fireball
+19,Spell,Freeze
+20,Creature,Ghoul
+21,Creature,Troll
+22,Creature,Eagle
+23,Creature,Death Time Dragon of the Dead
+24,Creature,Snow Chaos Wizard of Hate
+25,Creature,Magi
+26,Creature,Earth Time Phoenix of the Shadows
+27,Artifact,Solar Belt
+28,Enchantment,Dark Flight
+29,Enchantment,Deathgrip
+30,Creature,Paladin
+31,Creature,Ghoul
+32,Creature,Wolf
+33,Artifact,Amulet
+34,Spell,Vortex
+35,Creature,Berserker
+36,Artifact,Helm
+37,Creature,Frozen Nameless Phoenix of the Void
+38,Enchantment,Shrink
+39,Creature,Paladin
+40,Creature,Warlock
+41,Enchantment,Flight
+42,Artifact,Chimeric Scepter
+43,Creature,Warlock
+44,Artifact,Cloak

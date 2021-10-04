@@ -1,46 +1,46 @@
-==================,DECK,7313,Medium
-0,Enchantment,Rare,Frigid Agony
-1,Enchantment,Common,Agony
-2,Creature,Rare,Snow Undead Fairy
-3,Creature,Common,Paladin
-4,Creature,Common,Ghoul
-5,Creature,Rare,Frozen Queen Minotaur
-6,Enchantment,Legendary,Mighty Shade
-7,Creature,Common,Goblin
-8,Enchantment,Common,Drain
-9,Spell,Common,Maelstrom
-10,Creature,Common,Goblin
-11,Creature,Common,Wolf
-12,Creature,Rare,Dark Lord Skin-Walker
-13,Creature,Common,Warlock
-14,Enchantment,Mythic,Intense Shield
-15,Enchantment,Common,Blight
-16,Creature,Legendary,Snow Monk Orge of the Arctic Blizzards
-17,Artifact,Common,Boots
-18,Enchantment,Common,Strength
-19,Spell,Rare,Hateful Sorrow
-20,Enchantment,Common,Blight
-21,Creature,Rare,Dark Warrior Hydra
-22,Creature,Mythic,Dark Undead Phoenix of Illusion
-23,Spell,Common,Maelstrom
-24,Enchantment,Common,Age
-25,Spell,Rare,Necro Stricken
-26,Enchantment,Common,Deathgrip
-27,Creature,Common,Goblin
-28,Creature,Common,Orc
-29,Spell,Common,Heal
-30,Enchantment,Common,Drain
-31,Spell,Common,Pandemonium
-32,Creature,Rare,Earth King Berserker
-33,Artifact,Rare,Miracle Helm
-34,Enchantment,Common,Drain
-35,Creature,Legendary,Light Knight Orge of the Magical Forest
-36,Creature,Mythic,Aura Nameless Phoenix of the Light
-37,Spell,Mythic,Intense Hypnosis
-38,Creature,Common,Elf
-39,Creature,Common,Dwarf
-40,Artifact,Rare,Miracle Boots
-41,Spell,Common,Heal
-42,Creature,Rare,Earth Thief Skin-Walker
-43,Enchantment,Common,Shade
-44,Enchantment,Common,Drain
+==================,DECK,7313
+0,Enchantment,Life Shade
+1,Enchantment,Shield
+2,Creature,Snow Undead Kraken
+3,Creature,Troll
+4,Creature,Ghoul
+5,Creature,Frozen Queen Cyclops
+6,Enchantment,Urgent Chimeric Flight
+7,Creature,Skin-Walker
+8,Enchantment,Firebreath
+9,Spell,Tempest
+10,Creature,Skin-Walker
+11,Creature,Wolf
+12,Creature,Dark Lord Orc
+13,Creature,Berserker
+14,Enchantment,Ardent Nature Lethargy
+15,Enchantment,Firebreath
+16,Creature,Snow Monk Elf of the Arctic Blizzards
+17,Artifact,Boots
+18,Enchantment,Flight
+19,Spell,Cataclysmic Heal
+20,Enchantment,Shrink
+21,Creature,Dark Warrior Hydra
+22,Creature,Dark Undead Phoenix of Illusion
+23,Spell,Fireball
+24,Enchantment,Shrink
+25,Spell,Solar Invisibility
+26,Enchantment,Age
+27,Creature,Skin-Walker
+28,Creature,Spider
+29,Spell,Assault
+30,Enchantment,Lethargy
+31,Spell,Wall
+32,Creature,Earth King Goblin
+33,Artifact,Nimble Helm
+34,Enchantment,Alacrity
+35,Creature,Light Knight Elf of the Magical Forest
+36,Creature,Aura Nameless Phoenix of the Light
+37,Spell,Potent Hateful Stricken
+38,Creature,Warlock
+39,Creature,Magi
+40,Artifact,Grim Boots
+41,Spell,Pandemonium
+42,Creature,Earth Thief Orc
+43,Enchantment,Strength
+44,Enchantment,Firebreath

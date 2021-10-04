@@ -1,46 +1,46 @@
-==================,DECK,7925,Medium
-0,Enchantment,Common,Age
-1,Creature,Common,Spider
-2,Enchantment,Common,Strength
-3,Creature,Legendary,Earth Undead Orge of the Plains
-4,Artifact,Rare,Grim Ring
-5,Spell,Legendary,Instant Fury
-6,Creature,Common,Goblin
-7,Creature,Mythic,Earth Time Phoenix of the Shadows
-8,Spell,Rare,Cataclysmic Burn
-9,Creature,Common,Paladin
-10,Enchantment,Legendary,Extreme Deathgrip
-11,Artifact,Legendary,Clever Scepter
-12,Spell,Rare,Oblivion Frost
-13,Creature,Rare,Frozen Monk Minotaur
-14,Enchantment,Rare,Grim Invert
-15,Spell,Common,Stun
-16,Creature,Common,Wolf
-17,Spell,Common,Assault
-18,Creature,Common,Dwarf
-19,Artifact,Legendary,Potent Staff
-20,Enchantment,Rare,Hateful Blight
-21,Spell,Rare,Nature Pandemonium
-22,Creature,Common,Goblin
-23,Creature,Rare,Aura Rogue Griffin
-24,Creature,Common,Spider
-25,Creature,Mythic,Light Grand Wizard of the Sky
-26,Artifact,Common,Staff
-27,Enchantment,Common,Shade
-28,Enchantment,Common,Haste
-29,Creature,Mythic,Earth Grand Demon of the Shadows
-30,Artifact,Rare,Dark Tome
-31,Spell,Common,Burn
-32,Creature,Common,Ghoul
-33,Spell,Common,Wall
-34,Artifact,Common,Sword
-35,Creature,Common,Wolf
-36,Enchantment,Common,Flight
-37,Spell,Mythic,Intense Burn
-38,Creature,Rare,Aura Warrior Minotaur
-39,Enchantment,Common,Agony
-40,Creature,Legendary,Light Priest Kraken of the Mountains
-41,Enchantment,Common,Drain
-42,Creature,Legendary,Death Assassin Oni of the Polar Woods
-43,Enchantment,Common,Alacrity
-44,Creature,Rare,Dark Assassin Berserker
+==================,DECK,7925
+0,Enchantment,Invert
+1,Creature,Paladin
+2,Enchantment,Shrink
+3,Creature,Earth Undead Elf of the Plains
+4,Artifact,Nimble Ring
+5,Spell,Mighty Hateful Lightning
+6,Creature,Skin-Walker
+7,Creature,Earth Time Phoenix of the Shadows
+8,Spell,Dark Ice
+9,Creature,Troll
+10,Enchantment,Mighty Sorrow Flight
+11,Artifact,Potent Grim Scepter
+12,Spell,Grim Gravitation
+13,Creature,Frozen Monk Cyclops
+14,Enchantment,Oblivion Invert
+15,Spell,Fire
+16,Creature,Wolf
+17,Spell,Torment
+18,Creature,Magi
+19,Artifact,Irate Victory Staff
+20,Enchantment,Cataclysmic Flight
+21,Spell,Necro Freeze
+22,Creature,Skin-Walker
+23,Creature,Aura Rogue Griffin
+24,Creature,Paladin
+25,Creature,Light Grand Wizard of the Sky
+26,Artifact,Staff
+27,Enchantment,Strength
+28,Enchantment,Agony
+29,Creature,Earth Grand Demon of the Shadows
+30,Artifact,Dark Tome
+31,Spell,Frenzy
+32,Creature,Ghoul
+33,Spell,Assault
+34,Artifact,Sword
+35,Creature,Wolf
+36,Enchantment,Alacrity
+37,Spell,Empyrean Forged Maelstrom
+38,Creature,Aura Warrior Cyclops
+39,Enchantment,Shield
+40,Creature,Light Priest Ogre of the Mountains
+41,Enchantment,Age
+42,Creature,Death Assassin Oni of the Polar Woods
+43,Enchantment,Haste
+44,Creature,Dark Assassin Goblin

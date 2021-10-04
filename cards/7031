@@ -1,46 +1,46 @@
-==================,DECK,7031,Medium
-0,Enchantment,Common,Deathgrip
-1,Creature,Common,Goblin
-2,Creature,Common,Wolf
-3,Artifact,Legendary,Extreme Amulet
-4,Enchantment,Rare,Grim Agony
-5,Enchantment,Rare,Solar Agony
-6,Creature,Legendary,Aura Rogue Orge of the Haven
-7,Creature,Rare,Death Priest Minotaur
-8,Creature,Legendary,Snow Assassin Oni of the Mountains
-9,Creature,Rare,Death Knight Fairy
-10,Artifact,Common,Gauntlet
-11,Artifact,Rare,Grim Gauntlet
-12,Creature,Common,Elf
-13,Spell,Rare,Nature Stun
-14,Spell,Rare,Gloom Revive
-15,Spell,Common,Burn
-16,Spell,Rare,Nimble Lightning
-17,Creature,Rare,Aura Warrior Berserker
-18,Creature,Common,Orc
-19,Enchantment,Legendary,Clever Shield
-20,Creature,Mythic,Frozen Grand Demon of the Void
-21,Spell,Common,Pandemonium
-22,Creature,Common,Goblin
-23,Artifact,Rare,Hateful Boots
-24,Creature,Common,Dwarf
-25,Creature,Common,Elf
-26,Spell,Common,Stricken
-27,Enchantment,Rare,Life Flight
-28,Creature,Legendary,Snow Merchant Oni of the Eastern Skies
-29,Creature,Mythic,Aura Time Phoenix of the Light
-30,Creature,Legendary,Dark Undead Oni of the Haven
-31,Artifact,Common,Shield
-32,Spell,Legendary,Mighty Frost
-33,Enchantment,Mythic,Angry Haste
-34,Creature,Rare,Snow Merchant Minotaur
-35,Spell,Mythic,Dire Vortex
-36,Creature,Common,Magi
-37,Creature,Common,Magi
-38,Creature,Legendary,Dark Thief Cyclops of the Magical Forest
-39,Creature,Common,Orc
-40,Enchantment,Rare,Apocalypse Haste
-41,Spell,Common,Heal
-42,Enchantment,Common,Drain
-43,Creature,Mythic,Frozen Grand Wizard of the Void
-44,Enchantment,Common,Alacrity
+==================,DECK,7031
+0,Enchantment,Shade
+1,Creature,Skin-Walker
+2,Creature,Wolf
+3,Artifact,Urgent Dark Amulet
+4,Enchantment,Life Shade
+5,Enchantment,Corpse Strength
+6,Creature,Aura Rogue Elf of the Haven
+7,Creature,Death Priest Cyclops
+8,Creature,Snow Assassin Oni of the Mountains
+9,Creature,Death Knight Kraken
+10,Artifact,Gauntlet
+11,Artifact,Life Gauntlet
+12,Creature,Warlock
+13,Spell,Corpse Fireball
+14,Spell,Chimeric Stricken
+15,Spell,Vortex
+16,Spell,Shimmering Gale
+17,Creature,Aura Warrior Goblin
+18,Creature,Spider
+19,Enchantment,Urgent Victory Invert
+20,Creature,Frozen Grand Demon of the Void
+21,Spell,Infuriate
+22,Creature,Skin-Walker
+23,Artifact,Lunar Boots
+24,Creature,Magi
+25,Creature,Warlock
+26,Spell,Fireball
+27,Enchantment,Grim Haste
+28,Creature,Snow Merchant Oni of the Eastern Skies
+29,Creature,Aura Time Phoenix of the Light
+30,Creature,Dark Undead Oni of the Haven
+31,Artifact,Shield
+32,Spell,Irate Chimeric Frost
+33,Enchantment,Zealous Miracle Alacrity
+34,Creature,Snow Merchant Cyclops
+35,Spell,Dire Grim Ice
+36,Creature,Fairy
+37,Creature,Fairy
+38,Creature,Dark Thief Giant of the Magical Forest
+39,Creature,Spider
+40,Enchantment,Life Invert
+41,Spell,Torment
+42,Enchantment,Agony
+43,Creature,Frozen Grand Wizard of the Void
+44,Enchantment,Deathgrip

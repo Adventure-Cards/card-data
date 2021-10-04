@@ -1,46 +1,46 @@
-==================,DECK,5117,Light
-0,Spell,Common,Torment
-1,Creature,Common,Elf
-2,Spell,Common,Burn
-3,Artifact,Common,Ring
-4,Creature,Common,Paladin
-5,Enchantment,Mythic,Instant Age
-6,Creature,Common,Goblin
-7,Enchantment,Mythic,Urgent Shield
-8,Enchantment,Common,Drain
-9,Creature,Legendary,Death King Giant of the Low Hills
-10,Creature,Common,Elf
-11,Creature,Rare,Aura Warrior Berserker
-12,Spell,Legendary,Intense Stun
-13,Artifact,Common,Ring
-14,Spell,Common,Freeze
-15,Creature,Common,Dwarf
-16,Artifact,Common,Bracers
-17,Creature,Common,Goblin
-18,Creature,Common,Wolf
-19,Artifact,Rare,Oblivion Bow
-20,Spell,Common,Revive
-21,Enchantment,Rare,Solar Shade
-22,Artifact,Common,Shield
-23,Creature,Common,Goblin
-24,Artifact,Common,Crown
-25,Creature,Common,Eagle
-26,Artifact,Rare,Hateful Crown
-27,Spell,Rare,Lunar Reanimate
-28,Artifact,Common,Helmet
-29,Creature,Common,Elf
-30,Creature,Common,Orc
-31,Creature,Mythic,Aura Grand Demon of the Light
-32,Creature,Common,Spider
-33,Spell,Common,Frenzy
-34,Creature,Rare,Aura Monk Griffin
-35,Creature,Mythic,Frozen Chaos Wizard of the Void
-36,Spell,Legendary,Urgent Stun
-37,Spell,Common,Gale
-38,Enchantment,Rare,Corpse Invert
-39,Creature,Common,Goblin
-40,Creature,Rare,Frozen Queen Hydra
-41,Creature,Common,Dwarf
-42,Creature,Common,Paladin
-43,Creature,Common,Spider
-44,Creature,Rare,Death Assassin Hydra
+==================,DECK,5117
+0,Spell,Rage
+1,Creature,Warlock
+2,Spell,Maelstrom
+3,Artifact,Ring
+4,Creature,Troll
+5,Enchantment,Zealous Nature Deathgrip
+6,Creature,Skin-Walker
+7,Enchantment,Dire Nature Age
+8,Enchantment,Drain
+9,Creature,Death King Dwarf of the Low Hills
+10,Creature,Warlock
+11,Creature,Aura Warrior Goblin
+12,Spell,Empyrean Solar Burn
+13,Artifact,Ring
+14,Spell,Fire
+15,Creature,Magi
+16,Artifact,Bracers
+17,Creature,Skin-Walker
+18,Creature,Wolf
+19,Artifact,Nimble Bow
+20,Spell,Stricken
+21,Enchantment,Necro Lethargy
+22,Artifact,Shield
+23,Creature,Skin-Walker
+24,Artifact,Crown
+25,Creature,Eagle
+26,Artifact,Cataclysmic Crown
+27,Spell,Gloom Frost
+28,Artifact,Helmet
+29,Creature,Warlock
+30,Creature,Spider
+31,Creature,Aura Grand Demon of the Light
+32,Creature,Paladin
+33,Spell,Vortex
+34,Creature,Aura Monk Griffin
+35,Creature,Frozen Chaos Wizard of the Void
+36,Spell,Clever Hateful Fury
+37,Spell,Rage
+38,Enchantment,Shimmering Lethargy
+39,Creature,Skin-Walker
+40,Creature,Frozen Queen Hydra
+41,Creature,Magi
+42,Creature,Troll
+43,Creature,Paladin
+44,Creature,Death Assassin Hydra

@@ -1,46 +1,46 @@
-==================,DECK,5943,Medium
-0,Creature,Common,Orc
-1,Creature,Common,Eagle
-2,Creature,Rare,Earth Warrior Skin-Walker
-3,Spell,Common,Sorrow
-4,Spell,Common,Invisibility
-5,Spell,Legendary,Mighty Fury
-6,Artifact,Rare,Solar Crown
-7,Enchantment,Rare,Nimble Shield
-8,Creature,Rare,Snow Knight Berserker
-9,Creature,Common,Eagle
-10,Creature,Rare,Light Warrior Skin-Walker
-11,Enchantment,Rare,Dark Lethargy
-12,Creature,Common,Goblin
-13,Creature,Common,Warlock
-14,Spell,Common,Burn
-15,Creature,Common,Orc
-16,Creature,Mythic,Dark Time Dragon of Illusion
-17,Spell,Common,Torment
-18,Creature,Rare,Aura Lord Skin-Walker
-19,Enchantment,Common,Shade
-20,Creature,Mythic,Dark Nameless Dragon of Illusion
-21,Spell,Common,Heal
-22,Creature,Common,Goblin
-23,Enchantment,Rare,Cataclysmic Haste
-24,Enchantment,Rare,Lunar Drain
-25,Spell,Rare,Frigid Torment
-26,Creature,Legendary,Death Queen Cyclops of the Golden Palace
-27,Creature,Common,Wolf
-28,Creature,Rare,Dark Undead Minotaur
-29,Creature,Common,Eagle
-30,Creature,Rare,Death Rogue Fairy
-31,Spell,Common,Vortex
-32,Creature,Common,Magi
-33,Spell,Rare,Forged Assault
-34,Enchantment,Rare,Corpse Strength
-35,Enchantment,Common,Deathgrip
-36,Enchantment,Common,Haste
-37,Creature,Common,Wolf
-38,Creature,Common,Dwarf
-39,Spell,Common,Pandemonium
-40,Spell,Rare,Dark Revive
-41,Artifact,Common,Belt
-42,Spell,Common,Maelstrom
-43,Spell,Rare,Lunar Burst
-44,Spell,Common,Wall
+==================,DECK,5943
+0,Creature,Spider
+1,Creature,Eagle
+2,Creature,Earth Warrior Orc
+3,Spell,Fury
+4,Spell,Vortex
+5,Spell,Clever Gloom Fireball
+6,Artifact,Necro Crown
+7,Enchantment,Nature Deathgrip
+8,Creature,Snow Knight Goblin
+9,Creature,Eagle
+10,Creature,Light Warrior Orc
+11,Enchantment,Lunar Firebreath
+12,Creature,Skin-Walker
+13,Creature,Berserker
+14,Spell,Tempest
+15,Creature,Spider
+16,Creature,Dark Time Dragon of Illusion
+17,Spell,Frenzy
+18,Creature,Aura Lord Orc
+19,Enchantment,Drain
+20,Creature,Dark Nameless Dragon of Illusion
+21,Spell,Stun
+22,Creature,Skin-Walker
+23,Enchantment,Miracle Firebreath
+24,Enchantment,Dark Flight
+25,Spell,Frigid Vortex
+26,Creature,Death Queen Giant of the Golden Palace
+27,Creature,Wolf
+28,Creature,Dark Undead Cyclops
+29,Creature,Eagle
+30,Creature,Death Rogue Kraken
+31,Spell,Fury
+32,Creature,Fairy
+33,Spell,Chimeric Freeze
+34,Enchantment,Solar Age
+35,Enchantment,Lethargy
+36,Enchantment,Shield
+37,Creature,Wolf
+38,Creature,Magi
+39,Spell,Fireball
+40,Spell,Cataclysmic Gravitation
+41,Artifact,Belt
+42,Spell,Maelstrom
+43,Spell,Cataclysmic Frenzy
+44,Spell,Vortex

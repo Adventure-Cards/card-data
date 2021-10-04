@@ -1,46 +1,46 @@
-==================,DECK,7961,Light
-0,Spell,Common,Wall
-1,Creature,Common,Elf
-2,Spell,Rare,Lunar Sorrow
-3,Creature,Common,Goblin
-4,Spell,Common,Rage
-5,Creature,Common,Orc
-6,Creature,Common,Spider
-7,Artifact,Common,Divine Robe
-8,Enchantment,Common,Haste
-9,Artifact,Rare,Frigid Divine Robe
-10,Enchantment,Common,Lethargy
-11,Creature,Common,Wolf
-12,Creature,Rare,Earth Rogue Skin-Walker
-13,Enchantment,Common,Flight
-14,Enchantment,Rare,Cataclysmic Age
-15,Creature,Common,Ghoul
-16,Artifact,Legendary,Instant Helmet
-17,Creature,Common,Ghoul
-18,Spell,Common,Torment
-19,Creature,Common,Dwarf
-20,Creature,Common,Ghoul
-21,Enchantment,Rare,Frigid Alacrity
-22,Creature,Common,Ghoul
-23,Creature,Common,Ghoul
-24,Enchantment,Common,Flight
-25,Spell,Common,Burn
-26,Creature,Common,Magi
-27,Enchantment,Legendary,Intense Invert
-28,Enchantment,Rare,Life Deathgrip
-29,Creature,Rare,Light King Hydra
-30,Artifact,Common,Scepter
-31,Spell,Legendary,Angry Stricken
-32,Artifact,Common,Sword
-33,Spell,Legendary,Dire Stun
-34,Creature,Common,Spider
-35,Spell,Rare,Dark Invisibility
-36,Creature,Common,Paladin
-37,Creature,Common,Spider
-38,Spell,Legendary,Angry Pandemonium
-39,Creature,Common,Wolf
-40,Spell,Common,Heal
-41,Spell,Common,Sorrow
-42,Enchantment,Common,Shield
-43,Artifact,Common,Potion
-44,Creature,Rare,Aura Undead Griffin
+==================,DECK,7961
+0,Spell,Maelstrom
+1,Creature,Warlock
+2,Spell,Cataclysmic Freeze
+3,Creature,Skin-Walker
+4,Spell,Infuriate
+5,Creature,Spider
+6,Creature,Paladin
+7,Artifact,Divine Robe
+8,Enchantment,Agony
+9,Artifact,Victory Divine Robe
+10,Enchantment,Haste
+11,Creature,Wolf
+12,Creature,Earth Rogue Orc
+13,Enchantment,Lethargy
+14,Enchantment,Gloom Shield
+15,Creature,Ghoul
+16,Artifact,Zealous Nature Helmet
+17,Creature,Ghoul
+18,Spell,Lightning
+19,Creature,Magi
+20,Creature,Ghoul
+21,Enchantment,Apocalypse Drain
+22,Creature,Ghoul
+23,Creature,Ghoul
+24,Enchantment,Haste
+25,Spell,Ice
+26,Creature,Fairy
+27,Enchantment,Instant Shimmering Strength
+28,Enchantment,Oblivion Invert
+29,Creature,Light King Hydra
+30,Artifact,Scepter
+31,Spell,Mighty Sorrow Infuriate
+32,Artifact,Sword
+33,Spell,Potent Apocalypse Pandemonium
+34,Creature,Paladin
+35,Spell,Gloom Freeze
+36,Creature,Troll
+37,Creature,Paladin
+38,Spell,Zealous Sorrow Frenzy
+39,Creature,Wolf
+40,Spell,Rage
+41,Spell,Hypnosis
+42,Enchantment,Shrink
+43,Artifact,Potion
+44,Creature,Aura Undead Griffin

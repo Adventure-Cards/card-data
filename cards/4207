@@ -1,46 +1,46 @@
-==================,DECK,4207,Light
-0,Artifact,Common,Sword
-1,Spell,Common,Sorrow
-2,Creature,Common,Dwarf
-3,Creature,Common,Magi
-4,Enchantment,Rare,Lunar Haste
-5,Enchantment,Common,Drain
-6,Artifact,Common,Pendant
-7,Artifact,Legendary,Clever Sigil
-8,Spell,Rare,Shimmering Infuriate
-9,Creature,Mythic,Earth Grand Wizard of the Shadows
-10,Creature,Common,Dwarf
-11,Enchantment,Common,Flight
-12,Spell,Common,Lightning
-13,Creature,Common,Wolf
-14,Artifact,Rare,Hateful Potion
-15,Enchantment,Rare,Apocalypse Deathgrip
-16,Creature,Legendary,Frozen Rogue Oni of the Eastern Skies
-17,Spell,Rare,Grim Torment
-18,Creature,Common,Goblin
-19,Spell,Legendary,Potent Frenzy
-20,Creature,Legendary,Death Assassin Giant of the Mountains
-21,Enchantment,Common,Deathgrip
-22,Creature,Common,Ghoul
-23,Artifact,Common,Potion
-24,Artifact,Common,Ring
-25,Creature,Common,Elf
-26,Creature,Rare,Frozen King Skin-Walker
-27,Creature,Common,Eagle
-28,Creature,Common,Warlock
-29,Creature,Common,Magi
-30,Creature,Common,Eagle
-31,Spell,Rare,Grim Invisibility
-32,Creature,Mythic,Frozen Chaos Wizard of the Void
-33,Spell,Common,Frost
-34,Creature,Common,Spider
-35,Spell,Legendary,Urgent Lightning
-36,Creature,Common,Orc
-37,Creature,Legendary,Light Undead Oni of the Magical Forest
-38,Artifact,Common,Helmet
-39,Creature,Common,Eagle
-40,Spell,Legendary,Extreme Frost
-41,Enchantment,Common,Drain
-42,Creature,Legendary,Aura Fighter Orge of the Magical Forest
-43,Spell,Common,Invisibility
-44,Spell,Common,Burn
+==================,DECK,4207
+0,Artifact,Sword
+1,Spell,Heal
+2,Creature,Magi
+3,Creature,Fairy
+4,Enchantment,Miracle Alacrity
+5,Enchantment,Age
+6,Artifact,Pendant
+7,Artifact,Mighty Oblivion Sigil
+8,Spell,Shimmering Revive
+9,Creature,Earth Grand Wizard of the Shadows
+10,Creature,Magi
+11,Enchantment,Agony
+12,Spell,Pandemonium
+13,Creature,Wolf
+14,Artifact,Sorrow Potion
+15,Enchantment,Oblivion Invert
+16,Creature,Frozen Rogue Oni of the Eastern Skies
+17,Spell,Frigid Burn
+18,Creature,Skin-Walker
+19,Spell,Urgent Frigid Vortex
+20,Creature,Death Assassin Dwarf of the Mountains
+21,Enchantment,Haste
+22,Creature,Ghoul
+23,Artifact,Potion
+24,Artifact,Ring
+25,Creature,Warlock
+26,Creature,Frozen King Orc
+27,Creature,Eagle
+28,Creature,Berserker
+29,Creature,Fairy
+30,Creature,Eagle
+31,Spell,Oblivion Gale
+32,Creature,Frozen Chaos Wizard of the Void
+33,Spell,Gale
+34,Creature,Paladin
+35,Spell,Urgent Hateful Stricken
+36,Creature,Spider
+37,Creature,Light Undead Oni of the Magical Forest
+38,Artifact,Helmet
+39,Creature,Eagle
+40,Spell,Urgent Dark Wall
+41,Enchantment,Shade
+42,Creature,Aura Fighter Elf of the Magical Forest
+43,Spell,Fury
+44,Spell,Fire

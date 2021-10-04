@@ -1,46 +1,46 @@
-==================,DECK,6597,Medium
-0,Artifact,Common,Shield
-1,Spell,Rare,Dark Assault
-2,Creature,Rare,Light Rogue Skin-Walker
-3,Artifact,Legendary,Instant Shield
-4,Creature,Common,Ghoul
-5,Spell,Rare,Forged Frost
-6,Creature,Legendary,Death Priest Kraken of the Mountains
-7,Enchantment,Common,Shade
-8,Creature,Legendary,Dark King Giant of the Swamp
-9,Enchantment,Rare,Nimble Shade
-10,Enchantment,Common,Deathgrip
-11,Creature,Common,Dwarf
-12,Creature,Rare,Aura Assassin Hydra
-13,Creature,Common,Paladin
-14,Artifact,Rare,Forged Gloves
-15,Creature,Common,Paladin
-16,Creature,Common,Dwarf
-17,Creature,Legendary,Aura Monk Giant of the Border
-18,Enchantment,Mythic,Clever Shrink
-19,Creature,Common,Ghoul
-20,Enchantment,Mythic,Clever Blight
-21,Creature,Common,Eagle
-22,Spell,Common,Infuriate
-23,Enchantment,Rare,Necro Deathgrip
-24,Creature,Common,Spider
-25,Spell,Common,Frenzy
-26,Spell,Common,Invisibility
-27,Spell,Rare,Hateful Maelstrom
-28,Enchantment,Legendary,Potent Blight
-29,Spell,Rare,Gloom Wall
-30,Creature,Common,Wolf
-31,Creature,Rare,Aura Rogue Fairy
-32,Spell,Rare,Grim Frenzy
-33,Artifact,Common,Gauntlet
-34,Spell,Common,Burn
-35,Creature,Common,Goblin
-36,Creature,Common,Dwarf
-37,Creature,Common,Eagle
-38,Creature,Legendary,Light Fighter Oni of the Golden Palace
-39,Enchantment,Mythic,Dire Strength
-40,Artifact,Common,Sigil
-41,Enchantment,Common,Alacrity
-42,Spell,Rare,Cataclysmic Fury
-43,Creature,Rare,Earth Thief Hydra
-44,Creature,Legendary,Dark Fighter Kraken of the Polar Woods
+==================,DECK,6597
+0,Artifact,Shield
+1,Spell,Gloom Assault
+2,Creature,Light Rogue Orc
+3,Artifact,Dire Solar Shield
+4,Creature,Ghoul
+5,Spell,Cataclysmic Gravitation
+6,Creature,Death Priest Ogre of the Mountains
+7,Enchantment,Drain
+8,Creature,Dark King Dwarf of the Swamp
+9,Enchantment,Necro Strength
+10,Enchantment,Deathgrip
+11,Creature,Magi
+12,Creature,Aura Assassin Hydra
+13,Creature,Troll
+14,Artifact,Miracle Gloves
+15,Creature,Troll
+16,Creature,Magi
+17,Creature,Aura Monk Dwarf of the Border
+18,Enchantment,Potent Frigid Drain
+19,Creature,Ghoul
+20,Enchantment,Mighty Nimble Invert
+21,Creature,Eagle
+22,Spell,Heal
+23,Enchantment,Shimmering Agony
+24,Creature,Paladin
+25,Spell,Assault
+26,Spell,Vortex
+27,Spell,Dark Rage
+28,Enchantment,Empyrean Nimble Shade
+29,Spell,Chimeric Burn
+30,Creature,Wolf
+31,Creature,Aura Rogue Kraken
+32,Spell,Nimble Fireball
+33,Artifact,Gauntlet
+34,Spell,Gale
+35,Creature,Skin-Walker
+36,Creature,Magi
+37,Creature,Eagle
+38,Creature,Light Fighter Oni of the Golden Palace
+39,Enchantment,Irate Nimble Blight
+40,Artifact,Sigil
+41,Enchantment,Deathgrip
+42,Spell,Sorrow Assault
+43,Creature,Earth Thief Hydra
+44,Creature,Dark Fighter Ogre of the Polar Woods

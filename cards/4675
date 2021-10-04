@@ -1,46 +1,46 @@
-==================,DECK,4675,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Agony
-2,Creature,Common,Magi
-3,Enchantment,Common,Agony
-4,Creature,Common,Magi
-5,Artifact,Common,Bracers
-6,Artifact,Common,Crown
-7,Enchantment,Mythic,Dire Haste
-8,Enchantment,Common,Haste
-9,Spell,Common,Invisibility
-10,Enchantment,Mythic,Extreme Lethargy
-11,Enchantment,Common,Age
-12,Creature,Common,Goblin
-13,Enchantment,Rare,Lunar Deathgrip
-14,Spell,Common,Wall
-15,Spell,Common,Freeze
-16,Creature,Common,Paladin
-17,Creature,Common,Magi
-18,Creature,Common,Warlock
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Warlock
-21,Spell,Rare,Oblivion Lightning
-22,Enchantment,Rare,Corpse Shade
-23,Enchantment,Common,Haste
-24,Creature,Legendary,Death Knight Orge of the Bright Mountains
-25,Creature,Mythic,Death Undead Dragon of the Dead
-26,Enchantment,Rare,Forged Lethargy
-27,Creature,Common,Magi
-28,Enchantment,Common,Drain
-29,Spell,Legendary,Mighty Invisibility
-30,Enchantment,Rare,Cataclysmic Drain
-31,Creature,Common,Elf
-32,Creature,Common,Elf
-33,Creature,Common,Ghoul
-34,Artifact,Common,Gauntlet
-35,Artifact,Legendary,Angry Shield
-36,Spell,Common,Burst
-37,Creature,Common,Warlock
-38,Creature,Common,Goblin
-39,Creature,Common,Warlock
-40,Enchantment,Rare,Shimmering Haste
-41,Creature,Common,Elf
-42,Spell,Common,Stun
-43,Creature,Common,Paladin
-44,Creature,Common,Warlock
+==================,DECK,4675
+0,Creature,Ghoul
+1,Enchantment,Shrink
+2,Creature,Fairy
+3,Enchantment,Drain
+4,Creature,Fairy
+5,Artifact,Bracers
+6,Artifact,Crown
+7,Enchantment,Potent Life Drain
+8,Enchantment,Deathgrip
+9,Spell,Sorrow
+10,Enchantment,Irate Lunar Alacrity
+11,Enchantment,Age
+12,Creature,Skin-Walker
+13,Enchantment,Sorrow Shield
+14,Spell,Tempest
+15,Spell,Tempest
+16,Creature,Troll
+17,Creature,Fairy
+18,Creature,Berserker
+19,Enchantment,Haste
+20,Creature,Berserker
+21,Spell,Frigid Lightning
+22,Enchantment,Necro Age
+23,Enchantment,Blight
+24,Creature,Death Knight Elf of the Bright Mountains
+25,Creature,Death Undead Dragon of the Dead
+26,Enchantment,Lunar Shrink
+27,Creature,Fairy
+28,Enchantment,Flight
+29,Spell,Instant Cataclysmic Sorrow
+30,Enchantment,Dark Shrink
+31,Creature,Warlock
+32,Creature,Warlock
+33,Creature,Ghoul
+34,Artifact,Gauntlet
+35,Artifact,Empyrean Dark Shield
+36,Spell,Stun
+37,Creature,Berserker
+38,Creature,Skin-Walker
+39,Creature,Berserker
+40,Enchantment,Corpse Strength
+41,Creature,Warlock
+42,Spell,Gravitation
+43,Creature,Troll
+44,Creature,Berserker

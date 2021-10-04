@@ -1,46 +1,46 @@
-==================,DECK,7708,Medium
-0,Spell,Common,Pandemonium
-1,Creature,Common,Eagle
-2,Creature,Common,Eagle
-3,Creature,Common,Spider
-4,Creature,Rare,Earth Monk Hydra
-5,Artifact,Rare,Necro Greaves
-6,Creature,Rare,Earth Knight Berserker
-7,Creature,Common,Orc
-8,Creature,Common,Eagle
-9,Enchantment,Common,Blight
-10,Creature,Rare,Earth King Skin-Walker
-11,Creature,Common,Magi
-12,Creature,Common,Ghoul
-13,Spell,Common,Torment
-14,Creature,Common,Ghoul
-15,Artifact,Common,Crown
-16,Enchantment,Common,Shield
-17,Spell,Rare,Nimble Freeze
-18,Creature,Common,Orc
-19,Creature,Common,Eagle
-20,Creature,Common,Paladin
-21,Artifact,Rare,Gloom Boots
-22,Enchantment,Common,Invert
-23,Creature,Rare,Dark Monk Hydra
-24,Enchantment,Rare,Miracle Flight
-25,Creature,Mythic,Dark Chaos Demon of Illusion
-26,Enchantment,Mythic,Angry Age
-27,Creature,Rare,Snow Monk Skin-Walker
-28,Enchantment,Legendary,Clever Alacrity
-29,Creature,Mythic,Aura Grand Wizard of the Light
-30,Creature,Common,Paladin
-31,Enchantment,Common,Haste
-32,Creature,Rare,Dark Priest Griffin
-33,Creature,Common,Paladin
-34,Enchantment,Rare,Cataclysmic Flight
-35,Creature,Common,Orc
-36,Artifact,Common,Ghost Wand
-37,Creature,Common,Wolf
-38,Creature,Common,Paladin
-39,Artifact,Common,Belt
-40,Spell,Rare,Forged Heal
-41,Spell,Common,Frost
-42,Creature,Common,Eagle
-43,Creature,Common,Spider
-44,Creature,Common,Spider
+==================,DECK,7708
+0,Spell,Reanimate
+1,Creature,Eagle
+2,Creature,Eagle
+3,Creature,Paladin
+4,Creature,Earth Monk Hydra
+5,Artifact,Corpse Greaves
+6,Creature,Earth Knight Goblin
+7,Creature,Spider
+8,Creature,Eagle
+9,Enchantment,Shade
+10,Creature,Earth King Orc
+11,Creature,Fairy
+12,Creature,Ghoul
+13,Spell,Assault
+14,Creature,Ghoul
+15,Artifact,Crown
+16,Enchantment,Drain
+17,Spell,Forged Lightning
+18,Creature,Spider
+19,Creature,Eagle
+20,Creature,Troll
+21,Artifact,Lunar Boots
+22,Enchantment,Shield
+23,Creature,Dark Monk Hydra
+24,Enchantment,Grim Invert
+25,Creature,Dark Chaos Demon of Illusion
+26,Enchantment,Zealous Gloom Alacrity
+27,Creature,Snow Monk Orc
+28,Enchantment,Dire Apocalypse Shade
+29,Creature,Aura Grand Wizard of the Light
+30,Creature,Troll
+31,Enchantment,Shield
+32,Creature,Dark Priest Griffin
+33,Creature,Troll
+34,Enchantment,Lunar Flight
+35,Creature,Spider
+36,Artifact,Ghost Wand
+37,Creature,Wolf
+38,Creature,Troll
+39,Artifact,Belt
+40,Spell,Miracle Burst
+41,Spell,Fury
+42,Creature,Eagle
+43,Creature,Paladin
+44,Creature,Paladin

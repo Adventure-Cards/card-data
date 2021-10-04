@@ -1,46 +1,46 @@
-==================,DECK,7826,Light
-0,Artifact,Common,Cloak
-1,Spell,Common,Stun
-2,Artifact,Common,Amulet
-3,Creature,Common,Wolf
-4,Creature,Legendary,Snow Warrior Cyclops of the Frozen Castle
-5,Enchantment,Common,Alacrity
-6,Spell,Common,Frost
-7,Enchantment,Common,Age
-8,Spell,Rare,Grim Revive
-9,Creature,Legendary,Dark Lord Orge of the Low Hills
-10,Creature,Common,Eagle
-11,Creature,Common,Spider
-12,Creature,Common,Ghoul
-13,Creature,Common,Orc
-14,Enchantment,Mythic,Intense Flight
-15,Enchantment,Common,Deathgrip
-16,Spell,Common,Hypnosis
-17,Enchantment,Mythic,Dire Haste
-18,Creature,Common,Warlock
-19,Creature,Common,Goblin
-20,Creature,Mythic,Aura Time Phoenix of the Light
-21,Creature,Rare,Light Warrior Minotaur
-22,Creature,Rare,Snow Thief Griffin
-23,Creature,Common,Paladin
-24,Artifact,Legendary,Extreme Sword
-25,Spell,Legendary,Extreme Assault
-26,Enchantment,Common,Strength
-27,Creature,Common,Elf
-28,Creature,Common,Paladin
-29,Creature,Rare,Aura Merchant Fairy
-30,Creature,Common,Paladin
-31,Spell,Common,Invisibility
-32,Enchantment,Common,Invert
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Agony
-35,Enchantment,Legendary,Extreme Drain
-36,Enchantment,Common,Shade
-37,Creature,Common,Orc
-38,Creature,Legendary,Earth Fighter Cyclops of the Haven
-39,Enchantment,Common,Agony
-40,Enchantment,Common,Shade
-41,Creature,Common,Orc
-42,Enchantment,Mythic,Angry Shrink
-43,Creature,Common,Dwarf
-44,Creature,Common,Wolf
+==================,DECK,7826
+0,Artifact,Cloak
+1,Spell,Gale
+2,Artifact,Amulet
+3,Creature,Wolf
+4,Creature,Snow Warrior Giant of the Frozen Castle
+5,Enchantment,Lethargy
+6,Spell,Fury
+7,Enchantment,Shrink
+8,Spell,Oblivion Burst
+9,Creature,Dark Lord Elf of the Low Hills
+10,Creature,Eagle
+11,Creature,Paladin
+12,Creature,Ghoul
+13,Creature,Spider
+14,Enchantment,Empyrean Hateful Age
+15,Enchantment,Lethargy
+16,Spell,Stricken
+17,Enchantment,Mighty Life Invert
+18,Creature,Berserker
+19,Creature,Skin-Walker
+20,Creature,Aura Time Phoenix of the Light
+21,Creature,Light Warrior Cyclops
+22,Creature,Snow Thief Griffin
+23,Creature,Troll
+24,Artifact,Potent Cataclysmic Sword
+25,Spell,Dire Dark Wall
+26,Enchantment,Firebreath
+27,Creature,Warlock
+28,Creature,Troll
+29,Creature,Aura Merchant Kraken
+30,Creature,Troll
+31,Spell,Hypnosis
+32,Enchantment,Shield
+33,Creature,Magi
+34,Enchantment,Haste
+35,Enchantment,Mighty Dark Flight
+36,Enchantment,Shade
+37,Creature,Spider
+38,Creature,Earth Fighter Giant of the Haven
+39,Enchantment,Shield
+40,Enchantment,Deathgrip
+41,Creature,Spider
+42,Enchantment,Mighty Chimeric Flight
+43,Creature,Magi
+44,Creature,Wolf

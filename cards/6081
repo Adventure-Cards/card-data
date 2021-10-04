@@ -1,46 +1,46 @@
-==================,DECK,6081,Light
-0,Enchantment,Common,Shade
-1,Creature,Common,Orc
-2,Spell,Common,Wall
-3,Creature,Rare,Aura Warrior Fairy
-4,Creature,Mythic,Dark Nameless Dragon of Illusion
-5,Creature,Rare,Dark Monk Berserker
-6,Creature,Mythic,Snow Time Phoenix of Hate
-7,Creature,Common,Goblin
-8,Creature,Common,Orc
-9,Artifact,Legendary,Intense Tome
-10,Creature,Common,Spider
-11,Creature,Common,Goblin
-12,Spell,Common,Rage
-13,Spell,Common,Invisibility
-14,Creature,Legendary,Earth Lord Oni of the Border
-15,Enchantment,Rare,Cataclysmic Blight
-16,Artifact,Legendary,Potent Bracers
-17,Enchantment,Common,Deathgrip
-18,Artifact,Legendary,Urgent Shield
-19,Spell,Legendary,Urgent Freeze
-20,Creature,Common,Paladin
-21,Creature,Mythic,Snow Grand Demon of Hate
-22,Creature,Common,Wolf
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Deathgrip
-25,Creature,Common,Orc
-26,Enchantment,Common,Age
-27,Creature,Common,Eagle
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Magi
-30,Creature,Common,Goblin
-31,Creature,Common,Paladin
-32,Enchantment,Common,Lethargy
-33,Creature,Common,Elf
-34,Enchantment,Common,Shade
-35,Creature,Common,Orc
-36,Creature,Common,Eagle
-37,Creature,Common,Dwarf
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Creature,Legendary,Dark Undead Orge of the Eternal Land
-41,Creature,Common,Goblin
-42,Enchantment,Common,Blight
-43,Creature,Rare,Earth Knight Berserker
-44,Artifact,Common,Scepter
+==================,DECK,6081
+0,Enchantment,Blight
+1,Creature,Spider
+2,Spell,Gravitation
+3,Creature,Aura Warrior Kraken
+4,Creature,Dark Nameless Dragon of Illusion
+5,Creature,Dark Monk Goblin
+6,Creature,Snow Time Phoenix of Hate
+7,Creature,Skin-Walker
+8,Creature,Spider
+9,Artifact,Empyrean Corpse Tome
+10,Creature,Paladin
+11,Creature,Skin-Walker
+12,Spell,Fireball
+13,Spell,Freeze
+14,Creature,Earth Lord Oni of the Border
+15,Enchantment,Cataclysmic Shield
+16,Artifact,Zealous Grim Bracers
+17,Enchantment,Lethargy
+18,Artifact,Empyrean Forged Shield
+19,Spell,Urgent Nature Stricken
+20,Creature,Troll
+21,Creature,Snow Grand Demon of Hate
+22,Creature,Wolf
+23,Creature,Magi
+24,Enchantment,Agony
+25,Creature,Spider
+26,Enchantment,Agony
+27,Creature,Eagle
+28,Enchantment,Invert
+29,Creature,Fairy
+30,Creature,Skin-Walker
+31,Creature,Troll
+32,Enchantment,Firebreath
+33,Creature,Warlock
+34,Enchantment,Deathgrip
+35,Creature,Spider
+36,Creature,Eagle
+37,Creature,Magi
+38,Creature,Fairy
+39,Creature,Troll
+40,Creature,Dark Undead Elf of the Eternal Land
+41,Creature,Skin-Walker
+42,Enchantment,Age
+43,Creature,Earth Knight Goblin
+44,Artifact,Scepter

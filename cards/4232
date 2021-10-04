@@ -1,46 +1,46 @@
-==================,DECK,4232,Light
-0,Creature,Common,Ghoul
-1,Spell,Common,Frenzy
-2,Artifact,Legendary,Extreme Gauntlet
-3,Enchantment,Rare,Nature Deathgrip
-4,Artifact,Legendary,Extreme Greaves
-5,Creature,Legendary,Death Assassin Cyclops of the Bright Mountains
-6,Spell,Rare,Necro Reanimate
-7,Creature,Common,Ghoul
-8,Creature,Legendary,Aura Rogue Kraken of the Golden Palace
-9,Creature,Common,Magi
-10,Creature,Common,Paladin
-11,Spell,Rare,Grim Assault
-12,Creature,Common,Goblin
-13,Spell,Common,Hypnosis
-14,Creature,Common,Elf
-15,Spell,Common,Frenzy
-16,Artifact,Common,Tome
-17,Creature,Common,Ghoul
-18,Creature,Common,Paladin
-19,Enchantment,Rare,Hateful Haste
-20,Creature,Legendary,Frozen Fighter Giant of the Arctic Blizzards
-21,Spell,Common,Ice
-22,Artifact,Common,Helmet
-23,Creature,Common,Spider
-24,Creature,Common,Orc
-25,Enchantment,Common,Haste
-26,Enchantment,Common,Alacrity
-27,Creature,Common,Elf
-28,Creature,Legendary,Death Merchant Giant of the Frozen Castle
-29,Spell,Common,Lightning
-30,Spell,Rare,Shimmering Gale
-31,Creature,Rare,Death King Fairy
-32,Enchantment,Common,Age
-33,Spell,Rare,Dark Gravitation
-34,Enchantment,Mythic,Potent Shrink
-35,Creature,Common,Elf
-36,Creature,Common,Warlock
-37,Creature,Common,Eagle
-38,Creature,Mythic,Light Chaos Wizard of the Sky
-39,Artifact,Common,Boots
-40,Creature,Common,Orc
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Agony
-43,Creature,Common,Eagle
-44,Spell,Common,Heal
+==================,DECK,4232
+0,Creature,Ghoul
+1,Spell,Invisibility
+2,Artifact,Ardent Lunar Gauntlet
+3,Enchantment,Shimmering Agony
+4,Artifact,Mighty Miracle Greaves
+5,Creature,Death Assassin Giant of the Bright Mountains
+6,Spell,Forged Burst
+7,Creature,Ghoul
+8,Creature,Aura Rogue Ogre of the Golden Palace
+9,Creature,Fairy
+10,Creature,Troll
+11,Spell,Frigid Torment
+12,Creature,Skin-Walker
+13,Spell,Fireball
+14,Creature,Warlock
+15,Spell,Wall
+16,Artifact,Tome
+17,Creature,Ghoul
+18,Creature,Troll
+19,Enchantment,Miracle Shield
+20,Creature,Frozen Fighter Dwarf of the Arctic Blizzards
+21,Spell,Vortex
+22,Artifact,Helmet
+23,Creature,Paladin
+24,Creature,Spider
+25,Enchantment,Agony
+26,Enchantment,Blight
+27,Creature,Warlock
+28,Creature,Death Merchant Dwarf of the Frozen Castle
+29,Spell,Lightning
+30,Spell,Solar Fireball
+31,Creature,Death King Kraken
+32,Enchantment,Age
+33,Spell,Miracle Sorrow
+34,Enchantment,Mighty Frigid Invert
+35,Creature,Warlock
+36,Creature,Berserker
+37,Creature,Eagle
+38,Creature,Light Chaos Wizard of the Sky
+39,Artifact,Boots
+40,Creature,Spider
+41,Creature,Magi
+42,Enchantment,Alacrity
+43,Creature,Eagle
+44,Spell,Burn

@@ -1,46 +1,46 @@
-==================,DECK,5641,Medium
-0,Creature,Rare,Aura Merchant Minotaur
-1,Spell,Common,Gale
-2,Creature,Rare,Frozen Assassin Minotaur
-3,Enchantment,Common,Agony
-4,Creature,Rare,Light Warrior Hydra
-5,Creature,Common,Orc
-6,Creature,Legendary,Earth Monk Kraken of the Mountains
-7,Spell,Mythic,Urgent Pandemonium
-8,Creature,Common,Eagle
-9,Creature,Legendary,Death Rogue Giant of the Border
-10,Creature,Common,Eagle
-11,Artifact,Legendary,Angry Boots
-12,Spell,Common,Burn
-13,Creature,Legendary,Dark Queen Cyclops of the Bright Mountains
-14,Artifact,Common,Tome
-15,Creature,Common,Paladin
-16,Artifact,Common,Gloves
-17,Creature,Rare,Aura Assassin Skin-Walker
-18,Creature,Common,Wolf
-19,Spell,Legendary,Angry Pandemonium
-20,Enchantment,Rare,Nature Blight
-21,Spell,Common,Revive
-22,Spell,Common,Gale
-23,Creature,Common,Spider
-24,Spell,Rare,Shimmering Pandemonium
-25,Creature,Legendary,Death Knight Oni of the Plains
-26,Creature,Rare,Snow Queen Hydra
-27,Creature,Rare,Death Warrior Hydra
-28,Spell,Legendary,Intense Hypnosis
-29,Spell,Common,Torment
-30,Spell,Mythic,Dire Reanimate
-31,Spell,Legendary,Potent Burn
-32,Creature,Rare,Snow Thief Hydra
-33,Enchantment,Common,Blight
-34,Creature,Rare,Dark Assassin Griffin
-35,Creature,Common,Wolf
-36,Creature,Rare,Light Undead Hydra
-37,Creature,Rare,Dark Fighter Skin-Walker
-38,Spell,Common,Revive
-39,Creature,Common,Paladin
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Paladin
-42,Enchantment,Common,Lethargy
-43,Enchantment,Common,Shade
-44,Creature,Common,Eagle
+==================,DECK,5641
+0,Creature,Aura Merchant Cyclops
+1,Spell,Vortex
+2,Creature,Frozen Assassin Cyclops
+3,Enchantment,Shade
+4,Creature,Light Warrior Hydra
+5,Creature,Spider
+6,Creature,Earth Monk Ogre of the Mountains
+7,Spell,Potent Forged Reanimate
+8,Creature,Eagle
+9,Creature,Death Rogue Dwarf of the Border
+10,Creature,Eagle
+11,Artifact,Clever Gloom Boots
+12,Spell,Fireball
+13,Creature,Dark Queen Giant of the Bright Mountains
+14,Artifact,Tome
+15,Creature,Troll
+16,Artifact,Gloves
+17,Creature,Aura Assassin Orc
+18,Creature,Wolf
+19,Spell,Empyrean Lunar Maelstrom
+20,Enchantment,Solar Lethargy
+21,Spell,Frost
+22,Spell,Fury
+23,Creature,Paladin
+24,Spell,Shimmering Heal
+25,Creature,Death Knight Oni of the Plains
+26,Creature,Snow Queen Hydra
+27,Creature,Death Warrior Hydra
+28,Spell,Empyrean Hateful Invisibility
+29,Spell,Fury
+30,Spell,Mighty Grim Burn
+31,Spell,Mighty Nimble Sorrow
+32,Creature,Snow Thief Hydra
+33,Enchantment,Lethargy
+34,Creature,Dark Assassin Griffin
+35,Creature,Wolf
+36,Creature,Light Undead Hydra
+37,Creature,Dark Fighter Orc
+38,Spell,Fury
+39,Creature,Troll
+40,Enchantment,Strength
+41,Creature,Troll
+42,Enchantment,Alacrity
+43,Enchantment,Shade
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,5220,Medium
-0,Enchantment,Common,Blight
-1,Spell,Rare,Necro Fury
-2,Spell,Common,Burn
-3,Enchantment,Common,Strength
-4,Creature,Rare,Snow Monk Hydra
-5,Creature,Mythic,Snow Undead Dragon of Hate
-6,Enchantment,Legendary,Intense Agony
-7,Spell,Mythic,Dire Stricken
-8,Spell,Rare,Corpse Frost
-9,Spell,Legendary,Mighty Gravitation
-10,Creature,Common,Paladin
-11,Creature,Common,Eagle
-12,Creature,Rare,Earth Assassin Hydra
-13,Creature,Common,Wolf
-14,Creature,Rare,Dark Priest Griffin
-15,Spell,Rare,Nimble Freeze
-16,Spell,Common,Infuriate
-17,Artifact,Common,Amulet
-18,Creature,Common,Ghoul
-19,Creature,Rare,Aura Thief Griffin
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Shade
-22,Enchantment,Rare,Apocalypse Age
-23,Artifact,Rare,Nimble Bracers
-24,Creature,Rare,Aura Lord Griffin
-25,Spell,Common,Invisibility
-26,Creature,Legendary,Dark King Giant of the Frozen Castle
-27,Spell,Common,Pandemonium
-28,Spell,Common,Lightning
-29,Spell,Common,Gale
-30,Artifact,Common,Amulet
-31,Creature,Common,Warlock
-32,Enchantment,Common,Alacrity
-33,Creature,Common,Paladin
-34,Spell,Common,Freeze
-35,Spell,Legendary,Potent Wall
-36,Enchantment,Common,Shield
-37,Spell,Legendary,Instant Ice
-38,Spell,Legendary,Dire Gravitation
-39,Creature,Rare,Light Lord Griffin
-40,Creature,Rare,Light King Fairy
-41,Creature,Legendary,Death Rogue Orge of the Eternal Land
-42,Creature,Legendary,Frozen Assassin Oni of the Black Stone
-43,Creature,Legendary,Dark Fighter Cyclops of the Swamp
-44,Creature,Common,Orc
+==================,DECK,5220
+0,Enchantment,Shield
+1,Spell,Necro Sorrow
+2,Spell,Heal
+3,Enchantment,Strength
+4,Creature,Snow Monk Hydra
+5,Creature,Snow Undead Dragon of Hate
+6,Enchantment,Ardent Corpse Lethargy
+7,Spell,Potent Victory Revive
+8,Spell,Nature Frost
+9,Spell,Dire Gloom Fireball
+10,Creature,Troll
+11,Creature,Eagle
+12,Creature,Earth Assassin Hydra
+13,Creature,Wolf
+14,Creature,Dark Priest Griffin
+15,Spell,Corpse Reanimate
+16,Spell,Freeze
+17,Artifact,Amulet
+18,Creature,Ghoul
+19,Creature,Aura Thief Griffin
+20,Enchantment,Invert
+21,Enchantment,Shield
+22,Enchantment,Victory Haste
+23,Artifact,Hateful Bracers
+24,Creature,Aura Lord Griffin
+25,Spell,Gravitation
+26,Creature,Dark King Dwarf of the Frozen Castle
+27,Spell,Freeze
+28,Spell,Stun
+29,Spell,Vortex
+30,Artifact,Amulet
+31,Creature,Berserker
+32,Enchantment,Shade
+33,Creature,Troll
+34,Spell,Sorrow
+35,Spell,Ardent Life Reanimate
+36,Enchantment,Blight
+37,Spell,Clever Corpse Fire
+38,Spell,Dire Life Pandemonium
+39,Creature,Light Lord Griffin
+40,Creature,Light King Kraken
+41,Creature,Death Rogue Elf of the Eternal Land
+42,Creature,Frozen Assassin Oni of the Black Stone
+43,Creature,Dark Fighter Giant of the Swamp
+44,Creature,Spider

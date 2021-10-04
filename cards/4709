@@ -1,46 +1,46 @@
-==================,DECK,4709,Light
-0,Creature,Common,Elf
-1,Enchantment,Common,Lethargy
-2,Creature,Common,Elf
-3,Artifact,Common,Gloves
-4,Creature,Common,Wolf
-5,Creature,Mythic,Light Chaos Demon of the Sky
-6,Creature,Rare,Aura Monk Fairy
-7,Creature,Common,Eagle
-8,Creature,Common,Wolf
-9,Enchantment,Common,Invert
-10,Spell,Legendary,Angry Invisibility
-11,Creature,Common,Goblin
-12,Spell,Common,Burst
-13,Creature,Mythic,Frozen Ancient Wizard of the Void
-14,Creature,Rare,Dark King Minotaur
-15,Spell,Common,Rage
-16,Enchantment,Rare,Corpse Lethargy
-17,Enchantment,Common,Deathgrip
-18,Creature,Common,Paladin
-19,Creature,Common,Elf
-20,Artifact,Legendary,Urgent Ghost Wand
-21,Artifact,Rare,Miracle Shield
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Ghoul
-24,Creature,Common,Magi
-25,Creature,Common,Magi
-26,Creature,Common,Warlock
-27,Creature,Common,Paladin
-28,Creature,Rare,Death Monk Fairy
-29,Spell,Common,Frenzy
-30,Artifact,Common,Helmet
-31,Enchantment,Common,Blight
-32,Spell,Common,Wall
-33,Creature,Mythic,Aura Grand Demon of the Light
-34,Spell,Rare,Frigid Assault
-35,Enchantment,Common,Shrink
-36,Spell,Common,Fury
-37,Artifact,Common,Ring
-38,Artifact,Common,Helm
-39,Creature,Legendary,Aura Fighter Giant of the Polar Woods
-40,Creature,Common,Spider
-41,Artifact,Common,Staff
-42,Creature,Common,Warlock
-43,Creature,Common,Spider
-44,Artifact,Common,Belt
+==================,DECK,4709
+0,Creature,Warlock
+1,Enchantment,Age
+2,Creature,Warlock
+3,Artifact,Gloves
+4,Creature,Wolf
+5,Creature,Light Chaos Demon of the Sky
+6,Creature,Aura Monk Kraken
+7,Creature,Eagle
+8,Creature,Wolf
+9,Enchantment,Age
+10,Spell,Urgent Chimeric Ice
+11,Creature,Skin-Walker
+12,Spell,Tempest
+13,Creature,Frozen Ancient Wizard of the Void
+14,Creature,Dark King Cyclops
+15,Spell,Stun
+16,Enchantment,Hateful Agony
+17,Enchantment,Blight
+18,Creature,Troll
+19,Creature,Warlock
+20,Artifact,Urgent Corpse Ghost Wand
+21,Artifact,Nimble Shield
+22,Enchantment,Shade
+23,Creature,Ghoul
+24,Creature,Fairy
+25,Creature,Fairy
+26,Creature,Berserker
+27,Creature,Troll
+28,Creature,Death Monk Kraken
+29,Spell,Assault
+30,Artifact,Helmet
+31,Enchantment,Invert
+32,Spell,Invisibility
+33,Creature,Aura Grand Demon of the Light
+34,Spell,Frigid Torment
+35,Enchantment,Invert
+36,Spell,Fury
+37,Artifact,Ring
+38,Artifact,Helm
+39,Creature,Aura Fighter Dwarf of the Polar Woods
+40,Creature,Paladin
+41,Artifact,Staff
+42,Creature,Berserker
+43,Creature,Paladin
+44,Artifact,Belt

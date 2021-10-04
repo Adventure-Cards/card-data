@@ -1,46 +1,46 @@
-==================,DECK,7680,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Eagle
-2,Enchantment,Mythic,Mighty Strength
-3,Creature,Rare,Death Thief Fairy
-4,Enchantment,Mythic,Clever Haste
-5,Creature,Common,Wolf
-6,Spell,Rare,Nimble Vortex
-7,Creature,Common,Eagle
-8,Artifact,Rare,Frigid Cloak
-9,Artifact,Common,Belt
-10,Spell,Rare,Miracle Stun
-11,Spell,Common,Rage
-12,Creature,Common,Warlock
-13,Creature,Rare,Aura Undead Griffin
-14,Creature,Mythic,Aura Chaos Demon of the Light
-15,Creature,Legendary,Death Fighter Orge of the Black Stone
-16,Enchantment,Common,Deathgrip
-17,Creature,Common,Spider
-18,Artifact,Rare,Corpse Staff
-19,Creature,Rare,Dark King Hydra
-20,Spell,Rare,Apocalypse Stun
-21,Creature,Common,Ghoul
-22,Enchantment,Rare,Dark Shade
-23,Creature,Mythic,Death Nameless Dragon of the Dead
-24,Spell,Rare,Cataclysmic Maelstrom
-25,Creature,Rare,Frozen Monk Fairy
-26,Creature,Common,Orc
-27,Artifact,Common,Staff
-28,Creature,Rare,Earth Priest Griffin
-29,Enchantment,Common,Age
-30,Creature,Rare,Snow Undead Hydra
-31,Spell,Rare,Dark Vortex
-32,Enchantment,Common,Shade
-33,Creature,Common,Orc
-34,Artifact,Rare,Corpse Shield
-35,Creature,Common,Elf
-36,Spell,Rare,Shimmering Burn
-37,Creature,Common,Spider
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Creature,Common,Wolf
-41,Creature,Common,Ghoul
-42,Spell,Common,Torment
-43,Spell,Rare,Solar Frenzy
-44,Creature,Rare,Snow Thief Berserker
+==================,DECK,7680
+0,Creature,Magi
+1,Creature,Eagle
+2,Enchantment,Instant Cataclysmic Shrink
+3,Creature,Death Thief Kraken
+4,Enchantment,Zealous Life Blight
+5,Creature,Wolf
+6,Spell,Hateful Gravitation
+7,Creature,Eagle
+8,Artifact,Grim Cloak
+9,Artifact,Belt
+10,Spell,Apocalypse Burn
+11,Spell,Reanimate
+12,Creature,Berserker
+13,Creature,Aura Undead Griffin
+14,Creature,Aura Chaos Demon of the Light
+15,Creature,Death Fighter Elf of the Black Stone
+16,Enchantment,Agony
+17,Creature,Paladin
+18,Artifact,Nature Staff
+19,Creature,Dark King Hydra
+20,Spell,Nimble Tempest
+21,Creature,Ghoul
+22,Enchantment,Chimeric Alacrity
+23,Creature,Death Nameless Dragon of the Dead
+24,Spell,Sorrow Torment
+25,Creature,Frozen Monk Kraken
+26,Creature,Spider
+27,Artifact,Staff
+28,Creature,Earth Priest Griffin
+29,Enchantment,Lethargy
+30,Creature,Snow Undead Hydra
+31,Spell,Chimeric Tempest
+32,Enchantment,Shade
+33,Creature,Spider
+34,Artifact,Necro Shield
+35,Creature,Warlock
+36,Spell,Shimmering Frenzy
+37,Creature,Paladin
+38,Creature,Fairy
+39,Creature,Troll
+40,Creature,Wolf
+41,Creature,Ghoul
+42,Spell,Rage
+43,Spell,Corpse Revive
+44,Creature,Snow Thief Goblin

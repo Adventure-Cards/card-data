@@ -1,46 +1,46 @@
-==================,DECK,5650,Light
-0,Creature,Common,Magi
-1,Spell,Rare,Frigid Torment
-2,Creature,Common,Ghoul
-3,Artifact,Common,Tome
-4,Creature,Common,Paladin
-5,Creature,Common,Spider
-6,Creature,Rare,Dark Merchant Griffin
-7,Creature,Common,Elf
-8,Artifact,Legendary,Intense Bracers
-9,Enchantment,Mythic,Potent Alacrity
-10,Creature,Legendary,Death King Orge of the Polar Woods
-11,Creature,Rare,Light Fighter Fairy
-12,Creature,Common,Warlock
-13,Creature,Common,Magi
-14,Creature,Common,Dwarf
-15,Creature,Common,Paladin
-16,Artifact,Legendary,Intense Sigil
-17,Artifact,Common,Boots
-18,Creature,Common,Paladin
-19,Enchantment,Common,Agony
-20,Artifact,Common,Ring
-21,Artifact,Common,Amulet
-22,Enchantment,Common,Shield
-23,Creature,Common,Elf
-24,Spell,Rare,Hateful Hypnosis
-25,Creature,Common,Wolf
-26,Enchantment,Common,Haste
-27,Creature,Common,Orc
-28,Artifact,Rare,Frigid Belt
-29,Spell,Common,Torment
-30,Creature,Legendary,Light Fighter Orge of the Black Stone
-31,Enchantment,Common,Alacrity
-32,Creature,Common,Wolf
-33,Enchantment,Common,Lethargy
-34,Spell,Common,Sorrow
-35,Creature,Common,Paladin
-36,Spell,Common,Burn
-37,Spell,Legendary,Mighty Burn
-38,Enchantment,Rare,Frigid Strength
-39,Creature,Common,Magi
-40,Spell,Common,Burn
-41,Creature,Common,Paladin
-42,Creature,Common,Magi
-43,Enchantment,Common,Invert
-44,Creature,Common,Wolf
+==================,DECK,5650
+0,Creature,Fairy
+1,Spell,Oblivion Hypnosis
+2,Creature,Ghoul
+3,Artifact,Tome
+4,Creature,Troll
+5,Creature,Paladin
+6,Creature,Dark Merchant Griffin
+7,Creature,Warlock
+8,Artifact,Zealous Forged Bracers
+9,Enchantment,Irate Apocalypse Blight
+10,Creature,Death King Elf of the Polar Woods
+11,Creature,Light Fighter Kraken
+12,Creature,Berserker
+13,Creature,Fairy
+14,Creature,Magi
+15,Creature,Troll
+16,Artifact,Urgent Solar Sigil
+17,Artifact,Boots
+18,Creature,Troll
+19,Enchantment,Blight
+20,Artifact,Ring
+21,Artifact,Amulet
+22,Enchantment,Shrink
+23,Creature,Warlock
+24,Spell,Chimeric Stun
+25,Creature,Wolf
+26,Enchantment,Shield
+27,Creature,Spider
+28,Artifact,Victory Belt
+29,Spell,Revive
+30,Creature,Light Fighter Elf of the Black Stone
+31,Enchantment,Shrink
+32,Creature,Wolf
+33,Enchantment,Agony
+34,Spell,Assault
+35,Creature,Troll
+36,Spell,Vortex
+37,Spell,Zealous Gloom Fury
+38,Enchantment,Nimble Drain
+39,Creature,Fairy
+40,Spell,Freeze
+41,Creature,Troll
+42,Creature,Fairy
+43,Enchantment,Blight
+44,Creature,Wolf

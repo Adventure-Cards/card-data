@@ -1,46 +1,46 @@
-==================,DECK,5302,Light
-0,Artifact,Rare,Shimmering Cloak
-1,Enchantment,Common,Strength
-2,Spell,Rare,Cataclysmic Infuriate
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Oblivion Strength
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Eagle
-7,Creature,Common,Spider
-8,Spell,Common,Infuriate
-9,Spell,Common,Fury
-10,Creature,Common,Goblin
-11,Spell,Common,Maelstrom
-12,Creature,Legendary,Death Fighter Oni of the Plains
-13,Creature,Rare,Aura Fighter Griffin
-14,Spell,Common,Revive
-15,Spell,Common,Lightning
-16,Creature,Common,Spider
-17,Creature,Rare,Snow Priest Berserker
-18,Creature,Common,Spider
-19,Creature,Common,Wolf
-20,Creature,Common,Dwarf
-21,Enchantment,Common,Shrink
-22,Enchantment,Rare,Necro Shrink
-23,Enchantment,Mythic,Dire Shade
-24,Creature,Common,Goblin
-25,Creature,Common,Orc
-26,Artifact,Common,Pendant
-27,Enchantment,Common,Lethargy
-28,Enchantment,Common,Blight
-29,Creature,Common,Magi
-30,Spell,Legendary,Clever Stricken
-31,Creature,Legendary,Death Queen Kraken of the Plains
-32,Creature,Common,Dwarf
-33,Creature,Common,Wolf
-34,Spell,Common,Stun
-35,Spell,Common,Wall
-36,Spell,Common,Heal
-37,Enchantment,Common,Agony
-38,Creature,Common,Orc
-39,Enchantment,Common,Shield
-40,Spell,Common,Vortex
-41,Spell,Common,Rage
-42,Creature,Legendary,Frozen Merchant Cyclops of the Eastern Skies
-43,Spell,Common,Frost
-44,Spell,Common,Burst
+==================,DECK,5302
+0,Artifact,Necro Cloak
+1,Enchantment,Agony
+2,Spell,Dark Hypnosis
+3,Creature,Wolf
+4,Enchantment,Nimble Drain
+5,Enchantment,Haste
+6,Creature,Eagle
+7,Creature,Paladin
+8,Spell,Frenzy
+9,Spell,Frenzy
+10,Creature,Skin-Walker
+11,Spell,Lightning
+12,Creature,Death Fighter Oni of the Plains
+13,Creature,Aura Fighter Griffin
+14,Spell,Frenzy
+15,Spell,Wall
+16,Creature,Paladin
+17,Creature,Snow Priest Goblin
+18,Creature,Paladin
+19,Creature,Wolf
+20,Creature,Magi
+21,Enchantment,Lethargy
+22,Enchantment,Necro Lethargy
+23,Enchantment,Urgent Frigid Invert
+24,Creature,Skin-Walker
+25,Creature,Spider
+26,Artifact,Pendant
+27,Enchantment,Blight
+28,Enchantment,Strength
+29,Creature,Fairy
+30,Spell,Potent Apocalypse Fury
+31,Creature,Death Queen Ogre of the Plains
+32,Creature,Magi
+33,Creature,Wolf
+34,Spell,Maelstrom
+35,Spell,Heal
+36,Spell,Rage
+37,Enchantment,Age
+38,Creature,Spider
+39,Enchantment,Haste
+40,Spell,Infuriate
+41,Spell,Torment
+42,Creature,Frozen Merchant Giant of the Eastern Skies
+43,Spell,Hypnosis
+44,Spell,Hypnosis

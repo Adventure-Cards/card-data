@@ -1,46 +1,46 @@
-==================,DECK,5139,Strong
-0,Creature,Common,Paladin
-1,Creature,Rare,Aura Knight Griffin
-2,Spell,Common,Rage
-3,Enchantment,Rare,Oblivion Strength
-4,Enchantment,Common,Drain
-5,Creature,Rare,Earth Knight Hydra
-6,Artifact,Rare,Life Amulet
-7,Spell,Rare,Forged Invisibility
-8,Creature,Common,Elf
-9,Creature,Rare,Death Merchant Fairy
-10,Enchantment,Common,Shrink
-11,Enchantment,Rare,Grim Shade
-12,Creature,Common,Ghoul
-13,Creature,Rare,Aura Fighter Hydra
-14,Enchantment,Common,Drain
-15,Enchantment,Rare,Necro Deathgrip
-16,Creature,Legendary,Snow Nameless Dragon of Hate
-17,Enchantment,Rare,Lunar Drain
-18,Enchantment,Legendary,Potent Deathgrip
-19,Spell,Mythic,Instant Frost
-20,Artifact,Rare,Life Tome
-21,Creature,Rare,Aura Knight Fairy
-22,Enchantment,Common,Shrink
-23,Enchantment,Common,Drain
-24,Spell,Common,Fury
-25,Enchantment,Common,Drain
-26,Creature,Rare,Death Knight Fairy
-27,Artifact,Mythic,Instant Gauntlet
-28,Spell,Legendary,Clever Frost
-29,Spell,Common,Vortex
-30,Creature,Common,Spider
-31,Creature,Common,Ghoul
-32,Artifact,Rare,Dark Crown
-33,Creature,Common,Ghoul
-34,Creature,Mythic,Light Nameless Phoenix of the Sky
-35,Artifact,Rare,Corpse Potion
-36,Enchantment,Legendary,Mighty Shrink
-37,Creature,Mythic,Light Time Dragon of the Sky
-38,Artifact,Rare,Dark Potion
-39,Creature,Common,Paladin
-40,Creature,Rare,Light Knight Fairy
-41,Creature,Common,Dwarf
-42,Enchantment,Rare,Nimble Shield
-43,Enchantment,Rare,Frigid Invert
-44,Spell,Common,Reanimate
+==================,DECK,5139
+0,Creature,Troll
+1,Creature,Aura Knight Griffin
+2,Spell,Assault
+3,Enchantment,Nimble Shade
+4,Enchantment,Invert
+5,Creature,Earth Knight Hydra
+6,Artifact,Grim Amulet
+7,Spell,Gloom Lightning
+8,Creature,Warlock
+9,Creature,Death Merchant Kraken
+10,Enchantment,Haste
+11,Enchantment,Frigid Blight
+12,Creature,Ghoul
+13,Creature,Aura Fighter Hydra
+14,Enchantment,Lethargy
+15,Enchantment,Shimmering Deathgrip
+16,Creature,Snow Nameless Dragon of Hate
+17,Enchantment,Dark Flight
+18,Enchantment,Mighty Oblivion Invert
+19,Spell,Ardent Shimmering Torment
+20,Artifact,Oblivion Tome
+21,Creature,Aura Knight Kraken
+22,Enchantment,Shield
+23,Enchantment,Flight
+24,Spell,Lightning
+25,Enchantment,Agony
+26,Creature,Death Knight Kraken
+27,Artifact,Ardent Forged Gauntlet
+28,Spell,Urgent Victory Maelstrom
+29,Spell,Frost
+30,Creature,Paladin
+31,Creature,Ghoul
+32,Artifact,Gloom Crown
+33,Creature,Ghoul
+34,Creature,Light Nameless Phoenix of the Sky
+35,Artifact,Necro Potion
+36,Enchantment,Potent Chimeric Shrink
+37,Creature,Light Time Dragon of the Sky
+38,Artifact,Lunar Potion
+39,Creature,Troll
+40,Creature,Light Knight Kraken
+41,Creature,Magi
+42,Enchantment,Nature Strength
+43,Enchantment,Oblivion Drain
+44,Spell,Fury

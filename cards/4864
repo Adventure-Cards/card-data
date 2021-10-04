@@ -1,46 +1,46 @@
-==================,DECK,4864,Medium
-0,Spell,Rare,Nimble Freeze
-1,Spell,Rare,Necro Infuriate
-2,Spell,Common,Invisibility
-3,Artifact,Common,Ghost Wand
-4,Artifact,Rare,Lunar Ring
-5,Creature,Rare,Light Undead Berserker
-6,Spell,Common,Freeze
-7,Creature,Rare,Light Monk Skin-Walker
-8,Enchantment,Legendary,Potent Invert
-9,Creature,Common,Elf
-10,Artifact,Common,Ghost Wand
-11,Creature,Common,Warlock
-12,Spell,Rare,Apocalypse Stricken
-13,Spell,Rare,Grim Frenzy
-14,Creature,Common,Eagle
-15,Artifact,Common,Bow
-16,Creature,Legendary,Earth Thief Giant of the Polar Woods
-17,Artifact,Common,Staff
-18,Spell,Rare,Dark Lightning
-19,Artifact,Common,Sigil
-20,Creature,Rare,Light Priest Fairy
-21,Spell,Rare,Solar Rage
-22,Spell,Rare,Hateful Reanimate
-23,Enchantment,Legendary,Clever Shield
-24,Enchantment,Rare,Necro Drain
-25,Creature,Common,Magi
-26,Creature,Rare,Earth Priest Griffin
-27,Creature,Rare,Earth Merchant Hydra
-28,Spell,Legendary,Intense Rage
-29,Creature,Rare,Dark Monk Berserker
-30,Creature,Common,Paladin
-31,Artifact,Legendary,Clever Sword
-32,Spell,Mythic,Potent Ice
-33,Enchantment,Common,Blight
-34,Spell,Rare,Hateful Pandemonium
-35,Creature,Rare,Dark Priest Berserker
-36,Creature,Rare,Death Assassin Skin-Walker
-37,Enchantment,Common,Flight
-38,Creature,Rare,Earth Assassin Hydra
-39,Creature,Common,Warlock
-40,Enchantment,Rare,Hateful Shrink
-41,Creature,Rare,Snow Fighter Hydra
-42,Enchantment,Legendary,Mighty Invert
-43,Spell,Common,Gravitation
-44,Creature,Common,Eagle
+==================,DECK,4864
+0,Spell,Forged Hypnosis
+1,Spell,Corpse Wall
+2,Spell,Vortex
+3,Artifact,Ghost Wand
+4,Artifact,Gloom Ring
+5,Creature,Light Undead Goblin
+6,Spell,Ice
+7,Creature,Light Monk Orc
+8,Enchantment,Ardent Oblivion Haste
+9,Creature,Warlock
+10,Artifact,Ghost Wand
+11,Creature,Berserker
+12,Spell,Apocalypse Burn
+13,Spell,Oblivion Pandemonium
+14,Creature,Eagle
+15,Artifact,Bow
+16,Creature,Earth Thief Dwarf of the Polar Woods
+17,Artifact,Staff
+18,Spell,Gloom Pandemonium
+19,Artifact,Sigil
+20,Creature,Light Priest Kraken
+21,Spell,Nature Heal
+22,Spell,Dark Ice
+23,Enchantment,Dire Victory Shade
+24,Enchantment,Forged Strength
+25,Creature,Fairy
+26,Creature,Earth Priest Griffin
+27,Creature,Earth Merchant Hydra
+28,Spell,Ardent Nature Stricken
+29,Creature,Dark Monk Goblin
+30,Creature,Troll
+31,Artifact,Potent Frigid Sword
+32,Spell,Empyrean Frigid Freeze
+33,Enchantment,Flight
+34,Spell,Lunar Reanimate
+35,Creature,Dark Priest Goblin
+36,Creature,Death Assassin Orc
+37,Enchantment,Flight
+38,Creature,Earth Assassin Hydra
+39,Creature,Berserker
+40,Enchantment,Chimeric Shrink
+41,Creature,Snow Fighter Hydra
+42,Enchantment,Irate Sorrow Alacrity
+43,Spell,Gravitation
+44,Creature,Eagle

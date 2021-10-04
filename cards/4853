@@ -1,46 +1,46 @@
-==================,DECK,4853,Light
-0,Creature,Common,Elf
-1,Creature,Common,Paladin
-2,Spell,Common,Revive
-3,Creature,Common,Goblin
-4,Creature,Legendary,Frozen King Kraken of the Golden Palace
-5,Creature,Rare,Snow Lord Fairy
-6,Creature,Common,Warlock
-7,Spell,Common,Burst
-8,Creature,Common,Wolf
-9,Enchantment,Rare,Hateful Deathgrip
-10,Creature,Rare,Aura Rogue Minotaur
-11,Spell,Rare,Frigid Torment
-12,Enchantment,Common,Shade
-13,Enchantment,Common,Haste
-14,Enchantment,Common,Age
-15,Spell,Common,Assault
-16,Creature,Common,Wolf
-17,Artifact,Common,Gauntlet
-18,Enchantment,Common,Alacrity
-19,Spell,Common,Pandemonium
-20,Spell,Legendary,Clever Stun
-21,Enchantment,Mythic,Angry Drain
-22,Creature,Common,Elf
-23,Spell,Common,Reanimate
-24,Creature,Common,Dwarf
-25,Enchantment,Common,Strength
-26,Creature,Common,Dwarf
-27,Creature,Common,Elf
-28,Creature,Common,Paladin
-29,Enchantment,Mythic,Mighty Invert
-30,Creature,Legendary,Frozen Monk Giant of the Arctic Blizzards
-31,Creature,Legendary,Dark Knight Giant of the Mountains
-32,Creature,Common,Eagle
-33,Enchantment,Legendary,Angry Flight
-34,Spell,Common,Fury
-35,Creature,Legendary,Snow Monk Cyclops of the Mountains
-36,Enchantment,Common,Blight
-37,Enchantment,Common,Blight
-38,Spell,Common,Reanimate
-39,Creature,Common,Ghoul
-40,Creature,Common,Elf
-41,Creature,Common,Ghoul
-42,Creature,Legendary,Light Monk Orge of the Plains
-43,Artifact,Common,Shield
-44,Enchantment,Common,Drain
+==================,DECK,4853
+0,Creature,Warlock
+1,Creature,Troll
+2,Spell,Sorrow
+3,Creature,Skin-Walker
+4,Creature,Frozen King Ogre of the Golden Palace
+5,Creature,Snow Lord Kraken
+6,Creature,Berserker
+7,Spell,Reanimate
+8,Creature,Wolf
+9,Enchantment,Sorrow Shield
+10,Creature,Aura Rogue Cyclops
+11,Spell,Victory Fire
+12,Enchantment,Alacrity
+13,Enchantment,Shrink
+14,Enchantment,Deathgrip
+15,Spell,Pandemonium
+16,Creature,Wolf
+17,Artifact,Gauntlet
+18,Enchantment,Drain
+19,Spell,Fury
+20,Spell,Zealous Life Vortex
+21,Enchantment,Mighty Dark Flight
+22,Creature,Warlock
+23,Spell,Sorrow
+24,Creature,Magi
+25,Enchantment,Lethargy
+26,Creature,Magi
+27,Creature,Warlock
+28,Creature,Troll
+29,Enchantment,Urgent Sorrow Flight
+30,Creature,Frozen Monk Dwarf of the Arctic Blizzards
+31,Creature,Dark Knight Dwarf of the Mountains
+32,Creature,Eagle
+33,Enchantment,Zealous Lunar Alacrity
+34,Spell,Vortex
+35,Creature,Snow Monk Giant of the Mountains
+36,Enchantment,Deathgrip
+37,Enchantment,Agony
+38,Spell,Sorrow
+39,Creature,Ghoul
+40,Creature,Warlock
+41,Creature,Ghoul
+42,Creature,Light Monk Elf of the Plains
+43,Artifact,Shield
+44,Enchantment,Flight

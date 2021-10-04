@@ -1,46 +1,46 @@
-==================,DECK,7071,Medium
-0,Creature,Common,Dwarf
-1,Creature,Legendary,Earth Knight Giant of the Black Stone
-2,Enchantment,Common,Shade
-3,Creature,Common,Eagle
-4,Creature,Common,Spider
-5,Artifact,Common,Boots
-6,Creature,Mythic,Earth Undead Dragon of the Shadows
-7,Spell,Legendary,Intense Gravitation
-8,Spell,Legendary,Potent Revive
-9,Spell,Rare,Corpse Heal
-10,Creature,Common,Spider
-11,Creature,Common,Dwarf
-12,Creature,Common,Wolf
-13,Spell,Common,Maelstrom
-14,Creature,Rare,Aura Monk Fairy
-15,Enchantment,Rare,Cataclysmic Deathgrip
-16,Enchantment,Mythic,Extreme Blight
-17,Artifact,Common,Greaves
-18,Artifact,Rare,Apocalypse Belt
-19,Creature,Legendary,Light Queen Oni of the Plains
-20,Artifact,Rare,Oblivion Helmet
-21,Creature,Rare,Frozen King Hydra
-22,Creature,Rare,Snow Assassin Minotaur
-23,Enchantment,Rare,Corpse Alacrity
-24,Creature,Legendary,Dark Undead Cyclops of the Polar Woods
-25,Spell,Common,Wall
-26,Creature,Legendary,Snow Merchant Giant of the Low Hills
-27,Enchantment,Common,Blight
-28,Artifact,Common,Belt
-29,Artifact,Common,Shield
-30,Artifact,Rare,Cataclysmic Scepter
-31,Enchantment,Mythic,Mighty Haste
-32,Enchantment,Common,Shrink
-33,Enchantment,Common,Flight
-34,Creature,Legendary,Dark Merchant Orge of the Frozen Castle
-35,Artifact,Rare,Hateful Ghost Wand
-36,Spell,Common,Sorrow
-37,Creature,Common,Orc
-38,Enchantment,Mythic,Angry Agony
-39,Creature,Rare,Earth Assassin Minotaur
-40,Creature,Legendary,Aura Lord Giant of the West
-41,Creature,Common,Eagle
-42,Spell,Rare,Miracle Stricken
-43,Creature,Rare,Earth Queen Fairy
-44,Artifact,Rare,Nature Potion
+==================,DECK,7071
+0,Creature,Magi
+1,Creature,Earth Knight Dwarf of the Black Stone
+2,Enchantment,Drain
+3,Creature,Eagle
+4,Creature,Paladin
+5,Artifact,Boots
+6,Creature,Earth Undead Dragon of the Shadows
+7,Spell,Urgent Forged Fireball
+8,Spell,Ardent Frigid Invisibility
+9,Spell,Nature Sorrow
+10,Creature,Paladin
+11,Creature,Magi
+12,Creature,Wolf
+13,Spell,Frenzy
+14,Creature,Aura Monk Kraken
+15,Enchantment,Sorrow Shrink
+16,Enchantment,Potent Cataclysmic Shrink
+17,Artifact,Greaves
+18,Artifact,Frigid Belt
+19,Creature,Light Queen Oni of the Plains
+20,Artifact,Apocalypse Helmet
+21,Creature,Frozen King Hydra
+22,Creature,Snow Assassin Cyclops
+23,Enchantment,Forged Age
+24,Creature,Dark Undead Giant of the Polar Woods
+25,Spell,Wall
+26,Creature,Snow Merchant Dwarf of the Low Hills
+27,Enchantment,Shade
+28,Artifact,Belt
+29,Artifact,Shield
+30,Artifact,Gloom Scepter
+31,Enchantment,Empyrean Miracle Firebreath
+32,Enchantment,Firebreath
+33,Enchantment,Drain
+34,Creature,Dark Merchant Elf of the Frozen Castle
+35,Artifact,Cataclysmic Ghost Wand
+36,Spell,Maelstrom
+37,Creature,Spider
+38,Enchantment,Urgent Miracle Flight
+39,Creature,Earth Assassin Cyclops
+40,Creature,Aura Lord Dwarf of the West
+41,Creature,Eagle
+42,Spell,Apocalypse Burn
+43,Creature,Earth Queen Kraken
+44,Artifact,Corpse Potion

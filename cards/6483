@@ -1,46 +1,46 @@
-==================,DECK,6483,Medium
-0,Creature,Common,Magi
-1,Creature,Mythic,Snow Time Phoenix of Hate
-2,Enchantment,Rare,Lunar Deathgrip
-3,Creature,Common,Goblin
-4,Artifact,Common,Boots
-5,Creature,Common,Goblin
-6,Creature,Common,Orc
-7,Creature,Common,Warlock
-8,Creature,Common,Magi
-9,Enchantment,Rare,Nimble Shade
-10,Spell,Common,Stricken
-11,Creature,Common,Orc
-12,Creature,Common,Spider
-13,Spell,Common,Sorrow
-14,Creature,Common,Eagle
-15,Spell,Common,Vortex
-16,Spell,Common,Lightning
-17,Enchantment,Common,Agony
-18,Enchantment,Common,Invert
-19,Artifact,Common,Ring
-20,Creature,Common,Warlock
-21,Creature,Common,Warlock
-22,Creature,Common,Ghoul
-23,Spell,Common,Gale
-24,Spell,Legendary,Urgent Heal
-25,Creature,Common,Wolf
-26,Enchantment,Common,Strength
-27,Creature,Common,Ghoul
-28,Spell,Common,Hypnosis
-29,Spell,Common,Invisibility
-30,Enchantment,Common,Age
-31,Enchantment,Common,Shade
-32,Creature,Rare,Earth Merchant Skin-Walker
-33,Spell,Common,Rage
-34,Creature,Common,Ghoul
-35,Creature,Common,Eagle
-36,Creature,Common,Elf
-37,Spell,Common,Infuriate
-38,Spell,Common,Invisibility
-39,Creature,Common,Elf
-40,Creature,Common,Spider
-41,Enchantment,Common,Lethargy
-42,Enchantment,Common,Shade
-43,Enchantment,Common,Strength
-44,Spell,Common,Frenzy
+==================,DECK,6483
+0,Creature,Fairy
+1,Creature,Snow Time Phoenix of Hate
+2,Enchantment,Sorrow Alacrity
+3,Creature,Skin-Walker
+4,Artifact,Boots
+5,Creature,Skin-Walker
+6,Creature,Spider
+7,Creature,Berserker
+8,Creature,Fairy
+9,Enchantment,Necro Age
+10,Spell,Stun
+11,Creature,Spider
+12,Creature,Paladin
+13,Spell,Wall
+14,Creature,Eagle
+15,Spell,Fury
+16,Spell,Tempest
+17,Enchantment,Flight
+18,Enchantment,Invert
+19,Artifact,Ring
+20,Creature,Berserker
+21,Creature,Berserker
+22,Creature,Ghoul
+23,Spell,Infuriate
+24,Spell,Ardent Necro Fury
+25,Creature,Wolf
+26,Enchantment,Firebreath
+27,Creature,Ghoul
+28,Spell,Stricken
+29,Spell,Sorrow
+30,Enchantment,Blight
+31,Enchantment,Shrink
+32,Creature,Earth Merchant Orc
+33,Spell,Revive
+34,Creature,Ghoul
+35,Creature,Eagle
+36,Creature,Warlock
+37,Spell,Burn
+38,Spell,Frenzy
+39,Creature,Warlock
+40,Creature,Paladin
+41,Enchantment,Agony
+42,Enchantment,Haste
+43,Enchantment,Lethargy
+44,Spell,Burn

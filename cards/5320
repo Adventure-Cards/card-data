@@ -1,46 +1,46 @@
-==================,DECK,5320,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Strength
-2,Creature,Rare,Dark Priest Skin-Walker
-3,Spell,Common,Sorrow
-4,Creature,Common,Ghoul
-5,Artifact,Common,Ghost Wand
-6,Creature,Common,Elf
-7,Creature,Common,Paladin
-8,Enchantment,Common,Flight
-9,Enchantment,Mythic,Instant Strength
-10,Creature,Rare,Light Undead Griffin
-11,Artifact,Common,Greaves
-12,Creature,Legendary,Frozen King Orge of the West
-13,Spell,Common,Invisibility
-14,Enchantment,Common,Drain
-15,Spell,Rare,Dark Torment
-16,Creature,Common,Paladin
-17,Creature,Rare,Light King Griffin
-18,Artifact,Rare,Lunar Potion
-19,Artifact,Common,Bracers
-20,Creature,Rare,Death Merchant Berserker
-21,Artifact,Common,Staff
-22,Artifact,Common,Bracers
-23,Creature,Common,Orc
-24,Spell,Common,Wall
-25,Creature,Rare,Death Thief Fairy
-26,Creature,Common,Magi
-27,Enchantment,Common,Drain
-28,Enchantment,Rare,Dark Alacrity
-29,Enchantment,Mythic,Extreme Shade
-30,Creature,Common,Paladin
-31,Creature,Common,Magi
-32,Creature,Common,Goblin
-33,Spell,Common,Rage
-34,Creature,Common,Eagle
-35,Enchantment,Common,Drain
-36,Creature,Common,Elf
-37,Creature,Rare,Death Priest Skin-Walker
-38,Spell,Common,Frost
-39,Creature,Common,Goblin
-40,Spell,Common,Wall
-41,Creature,Common,Orc
-42,Creature,Legendary,Earth Thief Oni of the Bright Mountains
-43,Creature,Common,Spider
-44,Creature,Rare,Dark Assassin Berserker
+==================,DECK,5320
+0,Creature,Ghoul
+1,Enchantment,Shade
+2,Creature,Dark Priest Orc
+3,Spell,Frost
+4,Creature,Ghoul
+5,Artifact,Ghost Wand
+6,Creature,Warlock
+7,Creature,Troll
+8,Enchantment,Haste
+9,Enchantment,Ardent Solar Lethargy
+10,Creature,Light Undead Griffin
+11,Artifact,Greaves
+12,Creature,Frozen King Elf of the West
+13,Spell,Maelstrom
+14,Enchantment,Lethargy
+15,Spell,Miracle Stun
+16,Creature,Troll
+17,Creature,Light King Griffin
+18,Artifact,Lunar Potion
+19,Artifact,Bracers
+20,Creature,Death Merchant Goblin
+21,Artifact,Staff
+22,Artifact,Bracers
+23,Creature,Spider
+24,Spell,Fire
+25,Creature,Death Thief Kraken
+26,Creature,Fairy
+27,Enchantment,Haste
+28,Enchantment,Dark Shrink
+29,Enchantment,Irate Chimeric Alacrity
+30,Creature,Troll
+31,Creature,Fairy
+32,Creature,Skin-Walker
+33,Spell,Burst
+34,Creature,Eagle
+35,Enchantment,Haste
+36,Creature,Warlock
+37,Creature,Death Priest Orc
+38,Spell,Burst
+39,Creature,Skin-Walker
+40,Spell,Vortex
+41,Creature,Spider
+42,Creature,Earth Thief Oni of the Bright Mountains
+43,Creature,Paladin
+44,Creature,Dark Assassin Goblin

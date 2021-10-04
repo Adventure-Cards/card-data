@@ -1,46 +1,46 @@
-==================,DECK,5925,Light
-0,Creature,Common,Eagle
-1,Creature,Legendary,Light Assassin Giant of the Mountains
-2,Creature,Common,Paladin
-3,Creature,Common,Orc
-4,Creature,Common,Ghoul
-5,Creature,Common,Orc
-6,Creature,Rare,Aura Knight Skin-Walker
-7,Spell,Common,Fury
-8,Spell,Common,Ice
-9,Creature,Rare,Aura Lord Griffin
-10,Creature,Common,Eagle
-11,Artifact,Common,Ring
-12,Artifact,Rare,Necro Staff
-13,Spell,Common,Lightning
-14,Artifact,Common,Helmet
-15,Creature,Legendary,Light Priest Giant of the Eastern Skies
-16,Enchantment,Mythic,Mighty Drain
-17,Spell,Common,Stricken
-18,Enchantment,Common,Shield
-19,Enchantment,Common,Age
-20,Spell,Rare,Grim Frenzy
-21,Spell,Rare,Hateful Maelstrom
-22,Enchantment,Common,Drain
-23,Spell,Legendary,Clever Lightning
-24,Creature,Common,Ghoul
-25,Creature,Legendary,Frozen King Giant of the Magical Forest
-26,Creature,Common,Ghoul
-27,Creature,Rare,Earth Priest Berserker
-28,Creature,Common,Ghoul
-29,Creature,Common,Elf
-30,Spell,Rare,Solar Invisibility
-31,Spell,Rare,Miracle Fury
-32,Creature,Common,Goblin
-33,Creature,Rare,Snow Queen Berserker
-34,Creature,Common,Ghoul
-35,Creature,Rare,Light King Hydra
-36,Creature,Common,Elf
-37,Enchantment,Common,Age
-38,Creature,Mythic,Frozen Ancient Demon of the Void
-39,Creature,Rare,Frozen Thief Fairy
-40,Enchantment,Common,Shade
-41,Creature,Rare,Light Undead Hydra
-42,Enchantment,Mythic,Urgent Lethargy
-43,Creature,Common,Spider
-44,Creature,Common,Paladin
+==================,DECK,5925
+0,Creature,Eagle
+1,Creature,Light Assassin Dwarf of the Mountains
+2,Creature,Troll
+3,Creature,Spider
+4,Creature,Ghoul
+5,Creature,Spider
+6,Creature,Aura Knight Orc
+7,Spell,Rage
+8,Spell,Stun
+9,Creature,Aura Lord Griffin
+10,Creature,Eagle
+11,Artifact,Ring
+12,Artifact,Solar Staff
+13,Spell,Pandemonium
+14,Artifact,Helmet
+15,Creature,Light Priest Dwarf of the Eastern Skies
+16,Enchantment,Empyrean Dark Firebreath
+17,Spell,Stun
+18,Enchantment,Shade
+19,Enchantment,Alacrity
+20,Spell,Victory Torment
+21,Spell,Dark Revive
+22,Enchantment,Shield
+23,Spell,Instant Nimble Freeze
+24,Creature,Ghoul
+25,Creature,Frozen King Dwarf of the Magical Forest
+26,Creature,Ghoul
+27,Creature,Earth Priest Goblin
+28,Creature,Ghoul
+29,Creature,Warlock
+30,Spell,Necro Ice
+31,Spell,Frigid Burn
+32,Creature,Skin-Walker
+33,Creature,Snow Queen Goblin
+34,Creature,Ghoul
+35,Creature,Light King Hydra
+36,Creature,Warlock
+37,Enchantment,Shade
+38,Creature,Frozen Ancient Demon of the Void
+39,Creature,Frozen Thief Kraken
+40,Enchantment,Firebreath
+41,Creature,Light Undead Hydra
+42,Enchantment,Instant Hateful Strength
+43,Creature,Paladin
+44,Creature,Troll

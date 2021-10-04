@@ -1,46 +1,46 @@
-==================,DECK,6528,Light
-0,Creature,Mythic,Dark Chaos Wizard of Illusion
-1,Creature,Common,Eagle
-2,Creature,Common,Paladin
-3,Creature,Common,Wolf
-4,Creature,Common,Ghoul
-5,Enchantment,Rare,Lunar Blight
-6,Artifact,Common,Scepter
-7,Creature,Common,Eagle
-8,Creature,Common,Spider
-9,Artifact,Common,Shield
-10,Creature,Common,Goblin
-11,Enchantment,Common,Age
-12,Enchantment,Rare,Forged Strength
-13,Creature,Common,Elf
-14,Creature,Common,Warlock
-15,Spell,Rare,Dark Invisibility
-16,Spell,Rare,Necro Hypnosis
-17,Enchantment,Common,Drain
-18,Creature,Common,Paladin
-19,Artifact,Common,Ghost Wand
-20,Creature,Common,Magi
-21,Enchantment,Common,Flight
-22,Creature,Common,Paladin
-23,Creature,Legendary,Dark King Oni of the Frozen Castle
-24,Spell,Common,Freeze
-25,Spell,Common,Stricken
-26,Creature,Common,Paladin
-27,Artifact,Legendary,Angry Bracers
-28,Creature,Common,Paladin
-29,Creature,Common,Magi
-30,Spell,Common,Invisibility
-31,Creature,Common,Spider
-32,Spell,Common,Infuriate
-33,Creature,Mythic,Death Chaos Demon of the Dead
-34,Spell,Common,Rage
-35,Creature,Common,Magi
-36,Spell,Common,Burn
-37,Enchantment,Common,Shield
-38,Creature,Common,Warlock
-39,Creature,Rare,Snow Assassin Minotaur
-40,Spell,Common,Vortex
-41,Creature,Common,Goblin
-42,Creature,Legendary,Light Assassin Giant of the Swamp
-43,Creature,Rare,Light Knight Minotaur
-44,Enchantment,Common,Deathgrip
+==================,DECK,6528
+0,Creature,Dark Chaos Wizard of Illusion
+1,Creature,Eagle
+2,Creature,Troll
+3,Creature,Wolf
+4,Creature,Ghoul
+5,Enchantment,Cataclysmic Flight
+6,Artifact,Scepter
+7,Creature,Eagle
+8,Creature,Paladin
+9,Artifact,Shield
+10,Creature,Skin-Walker
+11,Enchantment,Flight
+12,Enchantment,Cataclysmic Shield
+13,Creature,Warlock
+14,Creature,Berserker
+15,Spell,Lunar Sorrow
+16,Spell,Solar Revive
+17,Enchantment,Haste
+18,Creature,Troll
+19,Artifact,Ghost Wand
+20,Creature,Fairy
+21,Enchantment,Strength
+22,Creature,Troll
+23,Creature,Dark King Oni of the Frozen Castle
+24,Spell,Stun
+25,Spell,Hypnosis
+26,Creature,Troll
+27,Artifact,Zealous Dark Bracers
+28,Creature,Troll
+29,Creature,Fairy
+30,Spell,Frost
+31,Creature,Paladin
+32,Spell,Fury
+33,Creature,Death Chaos Demon of the Dead
+34,Spell,Ice
+35,Creature,Fairy
+36,Spell,Frost
+37,Enchantment,Shield
+38,Creature,Berserker
+39,Creature,Snow Assassin Cyclops
+40,Spell,Vortex
+41,Creature,Skin-Walker
+42,Creature,Light Assassin Dwarf of the Swamp
+43,Creature,Light Knight Cyclops
+44,Enchantment,Blight

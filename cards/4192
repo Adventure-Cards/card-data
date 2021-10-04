@@ -1,46 +1,46 @@
-==================,DECK,4192,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Assault
-2,Creature,Common,Paladin
-3,Creature,Common,Dwarf
-4,Spell,Rare,Grim Torment
-5,Spell,Common,Revive
-6,Creature,Common,Eagle
-7,Creature,Rare,Dark Monk Minotaur
-8,Enchantment,Mythic,Mighty Alacrity
-9,Creature,Common,Goblin
-10,Enchantment,Common,Agony
-11,Creature,Rare,Earth Undead Berserker
-12,Creature,Common,Goblin
-13,Creature,Common,Paladin
-14,Creature,Common,Dwarf
-15,Creature,Legendary,Light Warrior Cyclops of the Magical Forest
-16,Creature,Rare,Frozen Fighter Minotaur
-17,Enchantment,Common,Deathgrip
-18,Spell,Common,Vortex
-19,Creature,Rare,Dark Knight Berserker
-20,Spell,Common,Rage
-21,Creature,Common,Dwarf
-22,Creature,Legendary,Earth Rogue Cyclops of the Black Stone
-23,Spell,Common,Reanimate
-24,Creature,Common,Elf
-25,Creature,Common,Magi
-26,Enchantment,Common,Agony
-27,Creature,Common,Orc
-28,Enchantment,Common,Blight
-29,Enchantment,Common,Alacrity
-30,Artifact,Common,Sigil
-31,Enchantment,Rare,Grim Alacrity
-32,Enchantment,Common,Shrink
-33,Creature,Common,Magi
-34,Creature,Rare,Dark Assassin Minotaur
-35,Creature,Common,Wolf
-36,Creature,Legendary,Dark Lord Kraken of the Polar Woods
-37,Creature,Common,Paladin
-38,Artifact,Common,Ring
-39,Spell,Common,Gale
-40,Creature,Common,Warlock
-41,Creature,Common,Orc
-42,Artifact,Common,Ring
-43,Creature,Common,Eagle
-44,Creature,Rare,Snow Rogue Griffin
+==================,DECK,4192
+0,Creature,Wolf
+1,Spell,Fire
+2,Creature,Troll
+3,Creature,Magi
+4,Spell,Life Torment
+5,Spell,Ice
+6,Creature,Eagle
+7,Creature,Dark Monk Cyclops
+8,Enchantment,Ardent Dark Shield
+9,Creature,Skin-Walker
+10,Enchantment,Firebreath
+11,Creature,Earth Undead Goblin
+12,Creature,Skin-Walker
+13,Creature,Troll
+14,Creature,Magi
+15,Creature,Light Warrior Giant of the Magical Forest
+16,Creature,Frozen Fighter Cyclops
+17,Enchantment,Shield
+18,Spell,Rage
+19,Creature,Dark Knight Goblin
+20,Spell,Fury
+21,Creature,Magi
+22,Creature,Earth Rogue Giant of the Black Stone
+23,Spell,Lightning
+24,Creature,Warlock
+25,Creature,Fairy
+26,Enchantment,Shield
+27,Creature,Spider
+28,Enchantment,Haste
+29,Enchantment,Alacrity
+30,Artifact,Sigil
+31,Enchantment,Apocalypse Drain
+32,Enchantment,Drain
+33,Creature,Fairy
+34,Creature,Dark Assassin Cyclops
+35,Creature,Wolf
+36,Creature,Dark Lord Ogre of the Polar Woods
+37,Creature,Troll
+38,Artifact,Ring
+39,Spell,Fireball
+40,Creature,Berserker
+41,Creature,Spider
+42,Artifact,Ring
+43,Creature,Eagle
+44,Creature,Snow Rogue Griffin

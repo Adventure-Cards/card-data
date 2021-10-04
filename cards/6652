@@ -1,46 +1,46 @@
-==================,DECK,6652,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Ghoul
-2,Creature,Rare,Aura Thief Hydra
-3,Enchantment,Rare,Forged Shade
-4,Spell,Legendary,Potent Stun
-5,Creature,Common,Elf
-6,Creature,Common,Magi
-7,Creature,Common,Warlock
-8,Enchantment,Common,Agony
-9,Creature,Common,Orc
-10,Artifact,Common,Ghost Wand
-11,Enchantment,Rare,Nature Drain
-12,Enchantment,Common,Shade
-13,Creature,Common,Orc
-14,Enchantment,Common,Invert
-15,Spell,Common,Fury
-16,Creature,Common,Ghoul
-17,Spell,Rare,Nature Pandemonium
-18,Creature,Rare,Light King Skin-Walker
-19,Enchantment,Common,Age
-20,Creature,Common,Dwarf
-21,Creature,Rare,Dark Queen Skin-Walker
-22,Creature,Common,Wolf
-23,Spell,Common,Frenzy
-24,Creature,Common,Ghoul
-25,Creature,Mythic,Dark Chaos Wizard of Illusion
-26,Creature,Common,Goblin
-27,Creature,Common,Magi
-28,Spell,Common,Revive
-29,Creature,Common,Spider
-30,Creature,Common,Dwarf
-31,Creature,Common,Ghoul
-32,Creature,Common,Warlock
-33,Creature,Common,Elf
-34,Spell,Common,Ice
-35,Creature,Common,Spider
-36,Creature,Common,Wolf
-37,Creature,Common,Warlock
-38,Artifact,Common,Bracers
-39,Creature,Common,Goblin
-40,Enchantment,Mythic,Angry Strength
-41,Creature,Rare,Dark Priest Minotaur
-42,Creature,Common,Goblin
-43,Spell,Common,Burn
-44,Spell,Common,Hypnosis
+==================,DECK,6652
+0,Creature,Berserker
+1,Creature,Ghoul
+2,Creature,Aura Thief Hydra
+3,Enchantment,Chimeric Flight
+4,Spell,Mighty Grim Gravitation
+5,Creature,Warlock
+6,Creature,Fairy
+7,Creature,Berserker
+8,Enchantment,Blight
+9,Creature,Spider
+10,Artifact,Ghost Wand
+11,Enchantment,Forged Agony
+12,Enchantment,Blight
+13,Creature,Spider
+14,Enchantment,Age
+15,Spell,Revive
+16,Creature,Ghoul
+17,Spell,Solar Fireball
+18,Creature,Light King Orc
+19,Enchantment,Firebreath
+20,Creature,Magi
+21,Creature,Dark Queen Orc
+22,Creature,Wolf
+23,Spell,Gale
+24,Creature,Ghoul
+25,Creature,Dark Chaos Wizard of Illusion
+26,Creature,Skin-Walker
+27,Creature,Fairy
+28,Spell,Fury
+29,Creature,Paladin
+30,Creature,Magi
+31,Creature,Ghoul
+32,Creature,Berserker
+33,Creature,Warlock
+34,Spell,Wall
+35,Creature,Paladin
+36,Creature,Wolf
+37,Creature,Berserker
+38,Artifact,Bracers
+39,Creature,Skin-Walker
+40,Enchantment,Urgent Cataclysmic Flight
+41,Creature,Dark Priest Cyclops
+42,Creature,Skin-Walker
+43,Spell,Ice
+44,Spell,Burst

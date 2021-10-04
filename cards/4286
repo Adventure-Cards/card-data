@@ -1,46 +1,46 @@
-==================,DECK,4286,Light
-0,Creature,Common,Orc
-1,Enchantment,Rare,Hateful Flight
-2,Creature,Common,Paladin
-3,Creature,Rare,Snow Rogue Berserker
-4,Artifact,Common,Crown
-5,Spell,Common,Fury
-6,Creature,Mythic,Dark Chaos Demon of Illusion
-7,Creature,Legendary,Dark Fighter Cyclops of the Haven
-8,Enchantment,Common,Strength
-9,Enchantment,Legendary,Urgent Strength
-10,Spell,Common,Vortex
-11,Artifact,Rare,Solar Amulet
-12,Creature,Common,Orc
-13,Creature,Rare,Death Monk Berserker
-14,Spell,Common,Maelstrom
-15,Spell,Common,Stun
-16,Spell,Common,Burn
-17,Enchantment,Mythic,Clever Flight
-18,Enchantment,Common,Shield
-19,Spell,Common,Sorrow
-20,Creature,Common,Elf
-21,Creature,Rare,Aura Queen Minotaur
-22,Spell,Common,Lightning
-23,Creature,Common,Paladin
-24,Enchantment,Common,Deathgrip
-25,Enchantment,Legendary,Extreme Blight
-26,Enchantment,Common,Age
-27,Creature,Legendary,Aura Assassin Giant of the Black Stone
-28,Spell,Common,Freeze
-29,Spell,Common,Hypnosis
-30,Creature,Common,Orc
-31,Artifact,Rare,Hateful Crown
-32,Creature,Rare,Light King Berserker
-33,Spell,Rare,Gloom Heal
-34,Creature,Common,Elf
-35,Creature,Common,Goblin
-36,Artifact,Common,Scythe
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Invert
-39,Enchantment,Rare,Oblivion Agony
-40,Spell,Common,Burst
-41,Creature,Common,Dwarf
-42,Creature,Rare,Dark Monk Fairy
-43,Creature,Common,Warlock
-44,Creature,Common,Paladin
+==================,DECK,4286
+0,Creature,Spider
+1,Enchantment,Lunar Flight
+2,Creature,Troll
+3,Creature,Snow Rogue Goblin
+4,Artifact,Crown
+5,Spell,Revive
+6,Creature,Dark Chaos Demon of Illusion
+7,Creature,Dark Fighter Giant of the Haven
+8,Enchantment,Invert
+9,Enchantment,Dire Solar Age
+10,Spell,Rage
+11,Artifact,Hateful Amulet
+12,Creature,Spider
+13,Creature,Death Monk Goblin
+14,Spell,Tempest
+15,Spell,Rage
+16,Spell,Burn
+17,Enchantment,Potent Grim Drain
+18,Enchantment,Alacrity
+19,Spell,Assault
+20,Creature,Warlock
+21,Creature,Aura Queen Cyclops
+22,Spell,Fireball
+23,Creature,Troll
+24,Enchantment,Invert
+25,Enchantment,Empyrean Cataclysmic Firebreath
+26,Enchantment,Shrink
+27,Creature,Aura Assassin Dwarf of the Black Stone
+28,Spell,Freeze
+29,Spell,Vortex
+30,Creature,Spider
+31,Artifact,Gloom Crown
+32,Creature,Light King Goblin
+33,Spell,Miracle Wall
+34,Creature,Warlock
+35,Creature,Skin-Walker
+36,Artifact,Scythe
+37,Creature,Ghoul
+38,Enchantment,Agony
+39,Enchantment,Life Shade
+40,Spell,Frost
+41,Creature,Magi
+42,Creature,Dark Monk Kraken
+43,Creature,Berserker
+44,Creature,Troll

@@ -1,46 +1,46 @@
-==================,DECK,5959,Medium
-0,Creature,Rare,Death Merchant Minotaur
-1,Creature,Rare,Dark Undead Hydra
-2,Creature,Rare,Earth Assassin Berserker
-3,Creature,Common,Eagle
-4,Enchantment,Common,Shield
-5,Enchantment,Legendary,Angry Age
-6,Artifact,Legendary,Extreme Amulet
-7,Artifact,Rare,Nature Crown
-8,Creature,Rare,Earth Queen Hydra
-9,Creature,Common,Spider
-10,Spell,Rare,Life Sorrow
-11,Enchantment,Mythic,Clever Shrink
-12,Creature,Common,Goblin
-13,Artifact,Rare,Solar Cloak
-14,Creature,Rare,Aura Fighter Hydra
-15,Creature,Common,Spider
-16,Creature,Rare,Aura Warrior Griffin
-17,Spell,Rare,Hateful Reanimate
-18,Enchantment,Common,Invert
-19,Creature,Rare,Light Assassin Fairy
-20,Spell,Rare,Gloom Freeze
-21,Creature,Common,Warlock
-22,Spell,Common,Freeze
-23,Spell,Rare,Hateful Stun
-24,Creature,Common,Warlock
-25,Spell,Rare,Hateful Maelstrom
-26,Enchantment,Rare,Necro Deathgrip
-27,Creature,Common,Elf
-28,Creature,Common,Elf
-29,Creature,Rare,Frozen Knight Hydra
-30,Spell,Rare,Nimble Revive
-31,Creature,Common,Spider
-32,Spell,Common,Gale
-33,Creature,Rare,Dark Warrior Hydra
-34,Creature,Common,Dwarf
-35,Enchantment,Common,Invert
-36,Creature,Legendary,Snow Thief Orge of the Polar Woods
-37,Creature,Rare,Frozen Lord Fairy
-38,Creature,Common,Magi
-39,Spell,Mythic,Urgent Fury
-40,Creature,Rare,Aura Monk Fairy
-41,Spell,Common,Torment
-42,Artifact,Rare,Nimble Scythe
-43,Creature,Common,Spider
-44,Artifact,Rare,Forged Sigil
+==================,DECK,5959
+0,Creature,Death Merchant Cyclops
+1,Creature,Dark Undead Hydra
+2,Creature,Earth Assassin Goblin
+3,Creature,Eagle
+4,Enchantment,Deathgrip
+5,Enchantment,Empyrean Gloom Firebreath
+6,Artifact,Mighty Miracle Amulet
+7,Artifact,Shimmering Crown
+8,Creature,Earth Queen Hydra
+9,Creature,Paladin
+10,Spell,Nimble Stun
+11,Enchantment,Zealous Frigid Blight
+12,Creature,Skin-Walker
+13,Artifact,Corpse Cloak
+14,Creature,Aura Fighter Hydra
+15,Creature,Paladin
+16,Creature,Aura Warrior Griffin
+17,Spell,Sorrow Gale
+18,Enchantment,Strength
+19,Creature,Light Assassin Kraken
+20,Spell,Chimeric Rage
+21,Creature,Berserker
+22,Spell,Torment
+23,Spell,Lunar Invisibility
+24,Creature,Berserker
+25,Spell,Chimeric Hypnosis
+26,Enchantment,Shimmering Age
+27,Creature,Warlock
+28,Creature,Warlock
+29,Creature,Frozen Knight Hydra
+30,Spell,Necro Gale
+31,Creature,Paladin
+32,Spell,Reanimate
+33,Creature,Dark Warrior Hydra
+34,Creature,Magi
+35,Enchantment,Agony
+36,Creature,Snow Thief Elf of the Polar Woods
+37,Creature,Frozen Lord Kraken
+38,Creature,Fairy
+39,Spell,Mighty Forged Ice
+40,Creature,Aura Monk Kraken
+41,Spell,Frost
+42,Artifact,Forged Scythe
+43,Creature,Paladin
+44,Artifact,Gloom Sigil

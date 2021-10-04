@@ -1,46 +1,46 @@
-==================,DECK,7565,Light
-0,Enchantment,Common,Flight
-1,Creature,Common,Eagle
-2,Artifact,Common,Ring
-3,Enchantment,Common,Invert
-4,Creature,Common,Paladin
-5,Spell,Rare,Lunar Sorrow
-6,Creature,Common,Spider
-7,Creature,Common,Elf
-8,Creature,Rare,Death Monk Minotaur
-9,Enchantment,Rare,Gloom Agony
-10,Enchantment,Common,Invert
-11,Creature,Common,Eagle
-12,Creature,Common,Ghoul
-13,Creature,Rare,Frozen Thief Skin-Walker
-14,Enchantment,Common,Flight
-15,Creature,Rare,Frozen Assassin Hydra
-16,Creature,Common,Spider
-17,Creature,Common,Paladin
-18,Artifact,Legendary,Intense Bow
-19,Artifact,Common,Cloak
-20,Creature,Legendary,Snow Rogue Cyclops of the Eternal Land
-21,Spell,Common,Freeze
-22,Creature,Common,Spider
-23,Creature,Common,Wolf
-24,Enchantment,Common,Agony
-25,Creature,Common,Orc
-26,Artifact,Common,Cloak
-27,Creature,Common,Warlock
-28,Creature,Common,Orc
-29,Creature,Common,Eagle
-30,Creature,Rare,Frozen Merchant Skin-Walker
-31,Spell,Common,Stricken
-32,Creature,Common,Wolf
-33,Creature,Rare,Dark Lord Hydra
-34,Enchantment,Legendary,Angry Shade
-35,Creature,Common,Magi
-36,Creature,Legendary,Death Thief Cyclops of the Polar Woods
-37,Enchantment,Common,Blight
-38,Creature,Common,Eagle
-39,Creature,Common,Orc
-40,Creature,Common,Orc
-41,Creature,Common,Wolf
-42,Creature,Common,Orc
-43,Spell,Common,Stun
-44,Creature,Common,Eagle
+==================,DECK,7565
+0,Enchantment,Shrink
+1,Creature,Eagle
+2,Artifact,Ring
+3,Enchantment,Deathgrip
+4,Creature,Troll
+5,Spell,Lunar Frenzy
+6,Creature,Paladin
+7,Creature,Warlock
+8,Creature,Death Monk Cyclops
+9,Enchantment,Miracle Firebreath
+10,Enchantment,Shrink
+11,Creature,Eagle
+12,Creature,Ghoul
+13,Creature,Frozen Thief Orc
+14,Enchantment,Alacrity
+15,Creature,Frozen Assassin Hydra
+16,Creature,Paladin
+17,Creature,Troll
+18,Artifact,Urgent Nature Bow
+19,Artifact,Cloak
+20,Creature,Snow Rogue Giant of the Eternal Land
+21,Spell,Fireball
+22,Creature,Paladin
+23,Creature,Wolf
+24,Enchantment,Age
+25,Creature,Spider
+26,Artifact,Cloak
+27,Creature,Berserker
+28,Creature,Spider
+29,Creature,Eagle
+30,Creature,Frozen Merchant Orc
+31,Spell,Burn
+32,Creature,Wolf
+33,Creature,Dark Lord Hydra
+34,Enchantment,Ardent Chimeric Shield
+35,Creature,Fairy
+36,Creature,Death Thief Giant of the Polar Woods
+37,Enchantment,Invert
+38,Creature,Eagle
+39,Creature,Spider
+40,Creature,Spider
+41,Creature,Wolf
+42,Creature,Spider
+43,Spell,Fireball
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,7461,Light
-0,Creature,Rare,Light Queen Griffin
-1,Creature,Common,Ghoul
-2,Creature,Rare,Earth King Skin-Walker
-3,Enchantment,Common,Flight
-4,Creature,Legendary,Light Undead Oni of the Swamp
-5,Spell,Common,Burn
-6,Spell,Legendary,Extreme Stricken
-7,Spell,Common,Hypnosis
-8,Creature,Legendary,Light Priest Giant of the Magical Forest
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Flight
-11,Creature,Common,Dwarf
-12,Creature,Rare,Frozen King Skin-Walker
-13,Creature,Common,Eagle
-14,Creature,Rare,Earth Fighter Fairy
-15,Creature,Common,Ghoul
-16,Creature,Rare,Aura Merchant Minotaur
-17,Spell,Common,Gravitation
-18,Spell,Common,Rage
-19,Creature,Common,Goblin
-20,Spell,Rare,Lunar Stricken
-21,Enchantment,Common,Shield
-22,Creature,Common,Spider
-23,Creature,Common,Magi
-24,Enchantment,Common,Shield
-25,Creature,Legendary,Snow Monk Kraken of the Golden Palace
-26,Spell,Common,Rage
-27,Creature,Common,Spider
-28,Spell,Legendary,Instant Fury
-29,Creature,Common,Warlock
-30,Creature,Common,Goblin
-31,Creature,Common,Eagle
-32,Spell,Common,Wall
-33,Spell,Common,Rage
-34,Artifact,Common,Bracers
-35,Creature,Mythic,Death Time Dragon of the Dead
-36,Creature,Rare,Dark Queen Hydra
-37,Enchantment,Mythic,Intense Agony
-38,Creature,Common,Orc
-39,Spell,Common,Assault
-40,Artifact,Common,Ghost Wand
-41,Creature,Common,Elf
-42,Creature,Rare,Light Queen Minotaur
-43,Artifact,Common,Helmet
-44,Creature,Rare,Frozen Fighter Skin-Walker
+==================,DECK,7461
+0,Creature,Light Queen Griffin
+1,Creature,Ghoul
+2,Creature,Earth King Orc
+3,Enchantment,Invert
+4,Creature,Light Undead Oni of the Swamp
+5,Spell,Fire
+6,Spell,Zealous Gloom Torment
+7,Spell,Vortex
+8,Creature,Light Priest Dwarf of the Magical Forest
+9,Creature,Ghoul
+10,Enchantment,Firebreath
+11,Creature,Magi
+12,Creature,Frozen King Orc
+13,Creature,Eagle
+14,Creature,Earth Fighter Kraken
+15,Creature,Ghoul
+16,Creature,Aura Merchant Cyclops
+17,Spell,Infuriate
+18,Spell,Pandemonium
+19,Creature,Skin-Walker
+20,Spell,Chimeric Gale
+21,Enchantment,Shade
+22,Creature,Paladin
+23,Creature,Fairy
+24,Enchantment,Shrink
+25,Creature,Snow Monk Ogre of the Golden Palace
+26,Spell,Frenzy
+27,Creature,Paladin
+28,Spell,Zealous Necro Reanimate
+29,Creature,Berserker
+30,Creature,Skin-Walker
+31,Creature,Eagle
+32,Spell,Fury
+33,Spell,Freeze
+34,Artifact,Bracers
+35,Creature,Death Time Dragon of the Dead
+36,Creature,Dark Queen Hydra
+37,Enchantment,Urgent Corpse Agony
+38,Creature,Spider
+39,Spell,Assault
+40,Artifact,Ghost Wand
+41,Creature,Warlock
+42,Creature,Light Queen Cyclops
+43,Artifact,Helmet
+44,Creature,Frozen Fighter Orc

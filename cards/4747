@@ -1,46 +1,46 @@
-==================,DECK,4747,Light
-0,Creature,Legendary,Death Undead Orge of the Eternal Land
-1,Creature,Common,Ghoul
-2,Creature,Common,Elf
-3,Creature,Common,Wolf
-4,Creature,Common,Orc
-5,Artifact,Common,Sigil
-6,Creature,Rare,Dark Rogue Fairy
-7,Enchantment,Common,Shrink
-8,Spell,Common,Reanimate
-9,Enchantment,Common,Shade
-10,Creature,Common,Elf
-11,Spell,Common,Reanimate
-12,Artifact,Common,Scythe
-13,Creature,Common,Dwarf
-14,Artifact,Rare,Necro Ghost Wand
-15,Creature,Common,Magi
-16,Creature,Common,Elf
-17,Enchantment,Common,Lethargy
-18,Enchantment,Common,Strength
-19,Creature,Mythic,Earth Chaos Demon of the Shadows
-20,Creature,Rare,Death Thief Hydra
-21,Artifact,Common,Crown
-22,Creature,Rare,Snow Undead Fairy
-23,Creature,Common,Spider
-24,Artifact,Common,Shield
-25,Creature,Rare,Snow Merchant Hydra
-26,Creature,Rare,Earth Lord Berserker
-27,Artifact,Legendary,Urgent Ghost Wand
-28,Creature,Common,Ghoul
-29,Creature,Common,Orc
-30,Spell,Common,Maelstrom
-31,Creature,Common,Elf
-32,Creature,Mythic,Snow Nameless Phoenix of Hate
-33,Enchantment,Common,Shrink
-34,Creature,Rare,Frozen Undead Berserker
-35,Spell,Legendary,Potent Vortex
-36,Spell,Common,Sorrow
-37,Creature,Common,Spider
-38,Creature,Common,Warlock
-39,Artifact,Rare,Nimble Scythe
-40,Enchantment,Mythic,Dire Flight
-41,Creature,Common,Warlock
-42,Enchantment,Rare,Corpse Alacrity
-43,Creature,Common,Elf
-44,Creature,Common,Wolf
+==================,DECK,4747
+0,Creature,Death Undead Elf of the Eternal Land
+1,Creature,Ghoul
+2,Creature,Warlock
+3,Creature,Wolf
+4,Creature,Spider
+5,Artifact,Sigil
+6,Creature,Dark Rogue Kraken
+7,Enchantment,Flight
+8,Spell,Assault
+9,Enchantment,Strength
+10,Creature,Warlock
+11,Spell,Rage
+12,Artifact,Scythe
+13,Creature,Magi
+14,Artifact,Shimmering Ghost Wand
+15,Creature,Fairy
+16,Creature,Warlock
+17,Enchantment,Age
+18,Enchantment,Strength
+19,Creature,Earth Chaos Demon of the Shadows
+20,Creature,Death Thief Hydra
+21,Artifact,Crown
+22,Creature,Snow Undead Kraken
+23,Creature,Paladin
+24,Artifact,Shield
+25,Creature,Snow Merchant Hydra
+26,Creature,Earth Lord Goblin
+27,Artifact,Urgent Forged Ghost Wand
+28,Creature,Ghoul
+29,Creature,Spider
+30,Spell,Gale
+31,Creature,Warlock
+32,Creature,Snow Nameless Phoenix of Hate
+33,Enchantment,Shield
+34,Creature,Frozen Undead Goblin
+35,Spell,Irate Life Burn
+36,Spell,Lightning
+37,Creature,Paladin
+38,Creature,Berserker
+39,Artifact,Solar Scythe
+40,Enchantment,Clever Grim Haste
+41,Creature,Berserker
+42,Enchantment,Forged Strength
+43,Creature,Warlock
+44,Creature,Wolf

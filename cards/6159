@@ -1,46 +1,46 @@
-==================,DECK,6159,Light
-0,Spell,Common,Lightning
-1,Creature,Mythic,Snow Nameless Phoenix of Hate
-2,Creature,Legendary,Snow Queen Orge of the Plains
-3,Creature,Common,Paladin
-4,Creature,Mythic,Death Time Dragon of the Dead
-5,Creature,Legendary,Earth Fighter Kraken of the Eternal Land
-6,Creature,Common,Paladin
-7,Enchantment,Common,Shrink
-8,Artifact,Common,Tome
-9,Enchantment,Common,Invert
-10,Creature,Common,Paladin
-11,Creature,Common,Warlock
-12,Enchantment,Common,Shield
-13,Creature,Rare,Death King Berserker
-14,Creature,Rare,Earth Warrior Berserker
-15,Creature,Rare,Frozen King Berserker
-16,Creature,Common,Orc
-17,Creature,Common,Magi
-18,Enchantment,Mythic,Dire Deathgrip
-19,Creature,Common,Ghoul
-20,Creature,Rare,Earth Monk Skin-Walker
-21,Creature,Common,Warlock
-22,Enchantment,Common,Drain
-23,Artifact,Common,Scythe
-24,Artifact,Legendary,Clever Greaves
-25,Artifact,Rare,Shimmering Greaves
-26,Enchantment,Rare,Necro Shrink
-27,Creature,Rare,Death Priest Fairy
-28,Enchantment,Common,Strength
-29,Enchantment,Mythic,Potent Deathgrip
-30,Enchantment,Mythic,Angry Flight
-31,Creature,Common,Wolf
-32,Creature,Common,Wolf
-33,Creature,Common,Paladin
-34,Enchantment,Common,Shield
-35,Enchantment,Common,Blight
-36,Creature,Common,Eagle
-37,Spell,Legendary,Instant Stricken
-38,Creature,Common,Eagle
-39,Enchantment,Common,Invert
-40,Enchantment,Common,Shrink
-41,Creature,Rare,Death Lord Griffin
-42,Enchantment,Common,Flight
-43,Creature,Legendary,Earth Priest Kraken of the West
-44,Spell,Common,Burn
+==================,DECK,6159
+0,Spell,Frenzy
+1,Creature,Snow Nameless Phoenix of Hate
+2,Creature,Snow Queen Elf of the Plains
+3,Creature,Troll
+4,Creature,Death Time Dragon of the Dead
+5,Creature,Earth Fighter Ogre of the Eternal Land
+6,Creature,Troll
+7,Enchantment,Alacrity
+8,Artifact,Tome
+9,Enchantment,Lethargy
+10,Creature,Troll
+11,Creature,Berserker
+12,Enchantment,Deathgrip
+13,Creature,Death King Goblin
+14,Creature,Earth Warrior Goblin
+15,Creature,Frozen King Goblin
+16,Creature,Spider
+17,Creature,Fairy
+18,Enchantment,Clever Oblivion Haste
+19,Creature,Ghoul
+20,Creature,Earth Monk Orc
+21,Creature,Berserker
+22,Enchantment,Haste
+23,Artifact,Scythe
+24,Artifact,Urgent Grim Greaves
+25,Artifact,Hateful Greaves
+26,Enchantment,Necro Age
+27,Creature,Death Priest Kraken
+28,Enchantment,Shade
+29,Enchantment,Empyrean Oblivion Shade
+30,Enchantment,Empyrean Lunar Firebreath
+31,Creature,Wolf
+32,Creature,Wolf
+33,Creature,Troll
+34,Enchantment,Haste
+35,Enchantment,Deathgrip
+36,Creature,Eagle
+37,Spell,Empyrean Hateful Maelstrom
+38,Creature,Eagle
+39,Enchantment,Haste
+40,Enchantment,Blight
+41,Creature,Death Lord Griffin
+42,Enchantment,Firebreath
+43,Creature,Earth Priest Ogre of the West
+44,Spell,Infuriate

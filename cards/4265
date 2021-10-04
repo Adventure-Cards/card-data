@@ -1,46 +1,46 @@
-==================,DECK,4265,Light
-0,Creature,Rare,Light Knight Minotaur
-1,Spell,Rare,Grim Assault
-2,Enchantment,Common,Deathgrip
-3,Artifact,Common,Scythe
-4,Spell,Common,Ice
-5,Creature,Mythic,Aura Nameless Dragon of the Light
-6,Spell,Legendary,Instant Maelstrom
-7,Enchantment,Common,Drain
-8,Enchantment,Rare,Dark Invert
-9,Artifact,Common,Greaves
-10,Spell,Common,Frenzy
-11,Creature,Common,Spider
-12,Artifact,Common,Gloves
-13,Creature,Common,Spider
-14,Spell,Rare,Necro Maelstrom
-15,Creature,Common,Ghoul
-16,Creature,Common,Magi
-17,Enchantment,Common,Shrink
-18,Creature,Rare,Dark Monk Griffin
-19,Creature,Mythic,Death Ancient Wizard of the Dead
-20,Enchantment,Mythic,Potent Haste
-21,Creature,Common,Wolf
-22,Enchantment,Mythic,Clever Shield
-23,Enchantment,Common,Shrink
-24,Creature,Rare,Frozen Rogue Hydra
-25,Spell,Common,Rage
-26,Spell,Rare,Nimble Gravitation
-27,Creature,Common,Dwarf
-28,Enchantment,Rare,Nimble Agony
-29,Creature,Rare,Earth Assassin Griffin
-30,Enchantment,Common,Alacrity
-31,Spell,Common,Maelstrom
-32,Creature,Legendary,Death Queen Giant of the Low Hills
-33,Creature,Common,Goblin
-34,Creature,Common,Orc
-35,Enchantment,Legendary,Clever Invert
-36,Creature,Rare,Light Priest Skin-Walker
-37,Creature,Rare,Snow Knight Berserker
-38,Spell,Legendary,Potent Infuriate
-39,Artifact,Common,Ring
-40,Creature,Common,Wolf
-41,Enchantment,Common,Lethargy
-42,Creature,Legendary,Death Priest Oni of the Golden Palace
-43,Creature,Legendary,Earth Priest Orge of the Mountains
-44,Spell,Rare,Gloom Frost
+==================,DECK,4265
+0,Creature,Light Knight Cyclops
+1,Spell,Life Stun
+2,Enchantment,Shade
+3,Artifact,Scythe
+4,Spell,Frost
+5,Creature,Aura Nameless Dragon of the Light
+6,Spell,Clever Shimmering Frost
+7,Enchantment,Strength
+8,Enchantment,Sorrow Shield
+9,Artifact,Greaves
+10,Spell,Hypnosis
+11,Creature,Paladin
+12,Artifact,Gloves
+13,Creature,Paladin
+14,Spell,Hateful Vortex
+15,Creature,Ghoul
+16,Creature,Fairy
+17,Enchantment,Shrink
+18,Creature,Dark Monk Griffin
+19,Creature,Death Ancient Wizard of the Dead
+20,Enchantment,Empyrean Life Shade
+21,Creature,Wolf
+22,Enchantment,Urgent Victory Invert
+23,Enchantment,Shade
+24,Creature,Frozen Rogue Hydra
+25,Spell,Lightning
+26,Spell,Solar Infuriate
+27,Creature,Magi
+28,Enchantment,Corpse Agony
+29,Creature,Earth Assassin Griffin
+30,Enchantment,Haste
+31,Spell,Gravitation
+32,Creature,Death Queen Dwarf of the Low Hills
+33,Creature,Skin-Walker
+34,Creature,Spider
+35,Enchantment,Irate Oblivion Blight
+36,Creature,Light Priest Orc
+37,Creature,Snow Knight Goblin
+38,Spell,Zealous Victory Gravitation
+39,Artifact,Ring
+40,Creature,Wolf
+41,Enchantment,Drain
+42,Creature,Death Priest Oni of the Golden Palace
+43,Creature,Earth Priest Elf of the Mountains
+44,Spell,Cataclysmic Invisibility

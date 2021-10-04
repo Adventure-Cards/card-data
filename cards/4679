@@ -1,46 +1,46 @@
-==================,DECK,4679,Light
-0,Spell,Common,Ice
-1,Creature,Common,Elf
-2,Creature,Common,Ghoul
-3,Creature,Legendary,Aura Assassin Orge of the Eternal Land
-4,Creature,Rare,Earth Thief Hydra
-5,Enchantment,Common,Drain
-6,Creature,Common,Wolf
-7,Spell,Common,Freeze
-8,Artifact,Common,Gauntlet
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Alacrity
-11,Enchantment,Common,Drain
-12,Creature,Common,Wolf
-13,Artifact,Common,Belt
-14,Enchantment,Common,Lethargy
-15,Enchantment,Common,Lethargy
-16,Creature,Common,Spider
-17,Creature,Common,Elf
-18,Creature,Mythic,Earth Chaos Demon of the Shadows
-19,Creature,Common,Wolf
-20,Spell,Common,Gravitation
-21,Creature,Common,Goblin
-22,Creature,Common,Goblin
-23,Artifact,Common,Cloak
-24,Creature,Common,Magi
-25,Creature,Rare,Death Warrior Minotaur
-26,Enchantment,Common,Age
-27,Creature,Common,Eagle
-28,Artifact,Common,Tome
-29,Spell,Common,Frenzy
-30,Creature,Common,Wolf
-31,Enchantment,Common,Flight
-32,Creature,Common,Orc
-33,Creature,Common,Goblin
-34,Spell,Common,Gale
-35,Creature,Common,Spider
-36,Artifact,Common,Boots
-37,Creature,Common,Spider
-38,Creature,Rare,Frozen Merchant Hydra
-39,Spell,Common,Infuriate
-40,Enchantment,Common,Blight
-41,Spell,Common,Frost
-42,Enchantment,Mythic,Intense Lethargy
-43,Creature,Rare,Dark Assassin Skin-Walker
-44,Enchantment,Legendary,Angry Drain
+==================,DECK,4679
+0,Spell,Sorrow
+1,Creature,Warlock
+2,Creature,Ghoul
+3,Creature,Aura Assassin Elf of the Eternal Land
+4,Creature,Earth Thief Hydra
+5,Enchantment,Alacrity
+6,Creature,Wolf
+7,Spell,Infuriate
+8,Artifact,Gauntlet
+9,Creature,Ghoul
+10,Enchantment,Age
+11,Enchantment,Drain
+12,Creature,Wolf
+13,Artifact,Belt
+14,Enchantment,Drain
+15,Enchantment,Flight
+16,Creature,Paladin
+17,Creature,Warlock
+18,Creature,Earth Chaos Demon of the Shadows
+19,Creature,Wolf
+20,Spell,Stricken
+21,Creature,Skin-Walker
+22,Creature,Skin-Walker
+23,Artifact,Cloak
+24,Creature,Fairy
+25,Creature,Death Warrior Cyclops
+26,Enchantment,Alacrity
+27,Creature,Eagle
+28,Artifact,Tome
+29,Spell,Burst
+30,Creature,Wolf
+31,Enchantment,Agony
+32,Creature,Spider
+33,Creature,Skin-Walker
+34,Spell,Fire
+35,Creature,Paladin
+36,Artifact,Boots
+37,Creature,Paladin
+38,Creature,Frozen Merchant Hydra
+39,Spell,Frost
+40,Enchantment,Shade
+41,Spell,Heal
+42,Enchantment,Instant Hateful Strength
+43,Creature,Dark Assassin Orc
+44,Enchantment,Potent Dark Shrink

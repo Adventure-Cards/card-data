@@ -1,46 +1,46 @@
-==================,DECK,4921,Light
-0,Creature,Common,Dwarf
-1,Creature,Common,Warlock
-2,Enchantment,Common,Deathgrip
-3,Artifact,Rare,Miracle Boots
-4,Creature,Legendary,Dark Warrior Kraken of the Plains
-5,Creature,Common,Goblin
-6,Spell,Common,Sorrow
-7,Creature,Common,Dwarf
-8,Creature,Common,Ghoul
-9,Enchantment,Rare,Frigid Agony
-10,Creature,Rare,Dark Thief Griffin
-11,Spell,Common,Rage
-12,Creature,Common,Eagle
-13,Creature,Common,Paladin
-14,Spell,Common,Infuriate
-15,Enchantment,Common,Agony
-16,Spell,Rare,Oblivion Assault
-17,Artifact,Rare,Nimble Ghost Wand
-18,Creature,Legendary,Frozen Knight Cyclops of the West
-19,Spell,Common,Hypnosis
-20,Artifact,Common,Gauntlet
-21,Enchantment,Mythic,Clever Shade
-22,Spell,Common,Torment
-23,Enchantment,Common,Blight
-24,Creature,Common,Ghoul
-25,Spell,Common,Heal
-26,Creature,Common,Dwarf
-27,Creature,Common,Paladin
-28,Creature,Common,Spider
-29,Enchantment,Common,Invert
-30,Enchantment,Common,Flight
-31,Creature,Legendary,Earth Knight Giant of the Eternal Land
-32,Artifact,Common,Boots
-33,Enchantment,Common,Shade
-34,Creature,Common,Orc
-35,Creature,Common,Eagle
-36,Creature,Common,Ghoul
-37,Spell,Common,Sorrow
-38,Creature,Common,Dwarf
-39,Creature,Common,Spider
-40,Creature,Mythic,Dark Chaos Demon of Illusion
-41,Creature,Common,Paladin
-42,Creature,Rare,Aura Rogue Fairy
-43,Creature,Common,Dwarf
-44,Creature,Common,Spider
+==================,DECK,4921
+0,Creature,Magi
+1,Creature,Berserker
+2,Enchantment,Drain
+3,Artifact,Victory Boots
+4,Creature,Dark Warrior Ogre of the Plains
+5,Creature,Skin-Walker
+6,Spell,Frost
+7,Creature,Magi
+8,Creature,Ghoul
+9,Enchantment,Life Haste
+10,Creature,Dark Thief Griffin
+11,Spell,Gale
+12,Creature,Eagle
+13,Creature,Troll
+14,Spell,Freeze
+15,Enchantment,Alacrity
+16,Spell,Oblivion Infuriate
+17,Artifact,Corpse Ghost Wand
+18,Creature,Frozen Knight Giant of the West
+19,Spell,Pandemonium
+20,Artifact,Gauntlet
+21,Enchantment,Instant Frigid Drain
+22,Spell,Tempest
+23,Enchantment,Deathgrip
+24,Creature,Ghoul
+25,Spell,Fireball
+26,Creature,Magi
+27,Creature,Troll
+28,Creature,Paladin
+29,Enchantment,Agony
+30,Enchantment,Age
+31,Creature,Earth Knight Dwarf of the Eternal Land
+32,Artifact,Boots
+33,Enchantment,Shrink
+34,Creature,Spider
+35,Creature,Eagle
+36,Creature,Ghoul
+37,Spell,Gale
+38,Creature,Magi
+39,Creature,Paladin
+40,Creature,Dark Chaos Demon of Illusion
+41,Creature,Troll
+42,Creature,Aura Rogue Kraken
+43,Creature,Magi
+44,Creature,Paladin

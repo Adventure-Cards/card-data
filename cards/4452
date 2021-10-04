@@ -1,46 +1,46 @@
-==================,DECK,4452,Medium
-0,Spell,Common,Reanimate
-1,Creature,Rare,Light Assassin Griffin
-2,Artifact,Legendary,Dire Sword
-3,Enchantment,Common,Invert
-4,Creature,Common,Spider
-5,Artifact,Common,Ring
-6,Creature,Rare,Death Monk Berserker
-7,Creature,Common,Ghoul
-8,Enchantment,Legendary,Potent Invert
-9,Creature,Legendary,Earth Warrior Kraken of the Frozen Castle
-10,Spell,Common,Invisibility
-11,Enchantment,Common,Agony
-12,Creature,Common,Eagle
-13,Creature,Rare,Light Thief Hydra
-14,Enchantment,Legendary,Intense Shade
-15,Creature,Rare,Death Knight Griffin
-16,Creature,Common,Spider
-17,Creature,Common,Paladin
-18,Artifact,Rare,Nature Ring
-19,Creature,Common,Paladin
-20,Creature,Rare,Aura Merchant Berserker
-21,Enchantment,Common,Deathgrip
-22,Creature,Common,Goblin
-23,Enchantment,Common,Shrink
-24,Creature,Common,Wolf
-25,Enchantment,Mythic,Intense Strength
-26,Creature,Common,Magi
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Enchantment,Common,Haste
-30,Artifact,Rare,Nimble Pendant
-31,Creature,Common,Goblin
-32,Enchantment,Common,Strength
-33,Spell,Common,Burst
-34,Creature,Common,Orc
-35,Creature,Common,Paladin
-36,Spell,Common,Lightning
-37,Spell,Common,Hypnosis
-38,Enchantment,Common,Flight
-39,Creature,Common,Ghoul
-40,Creature,Rare,Frozen Lord Berserker
-41,Spell,Mythic,Angry Revive
-42,Creature,Common,Elf
-43,Artifact,Rare,Apocalypse Boots
-44,Spell,Rare,Gloom Rage
+==================,DECK,4452
+0,Spell,Wall
+1,Creature,Light Assassin Griffin
+2,Artifact,Instant Nimble Sword
+3,Enchantment,Alacrity
+4,Creature,Paladin
+5,Artifact,Ring
+6,Creature,Death Monk Goblin
+7,Creature,Ghoul
+8,Enchantment,Urgent Oblivion Invert
+9,Creature,Earth Warrior Ogre of the Frozen Castle
+10,Spell,Maelstrom
+11,Enchantment,Shade
+12,Creature,Eagle
+13,Creature,Light Thief Hydra
+14,Enchantment,Irate Necro Deathgrip
+15,Creature,Death Knight Griffin
+16,Creature,Paladin
+17,Creature,Troll
+18,Artifact,Forged Ring
+19,Creature,Troll
+20,Creature,Aura Merchant Goblin
+21,Enchantment,Haste
+22,Creature,Skin-Walker
+23,Enchantment,Blight
+24,Creature,Wolf
+25,Enchantment,Ardent Solar Lethargy
+26,Creature,Fairy
+27,Creature,Magi
+28,Creature,Paladin
+29,Enchantment,Agony
+30,Artifact,Solar Pendant
+31,Creature,Skin-Walker
+32,Enchantment,Drain
+33,Spell,Freeze
+34,Creature,Spider
+35,Creature,Troll
+36,Spell,Sorrow
+37,Spell,Revive
+38,Enchantment,Shrink
+39,Creature,Ghoul
+40,Creature,Frozen Lord Goblin
+41,Spell,Dire Cataclysmic Lightning
+42,Creature,Warlock
+43,Artifact,Life Boots
+44,Spell,Gloom Stun

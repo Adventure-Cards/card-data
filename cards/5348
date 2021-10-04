@@ -1,46 +1,46 @@
-==================,DECK,5348,Medium
-0,Creature,Common,Magi
-1,Spell,Legendary,Dire Rage
-2,Artifact,Common,Ring
-3,Enchantment,Common,Flight
-4,Creature,Rare,Death Undead Skin-Walker
-5,Spell,Common,Invisibility
-6,Enchantment,Mythic,Instant Haste
-7,Spell,Legendary,Intense Frenzy
-8,Creature,Legendary,Frozen Thief Giant of the Arctic Blizzards
-9,Artifact,Rare,Forged Ring
-10,Creature,Rare,Earth Monk Berserker
-11,Spell,Common,Reanimate
-12,Creature,Common,Goblin
-13,Enchantment,Legendary,Mighty Shield
-14,Spell,Common,Sorrow
-15,Creature,Common,Eagle
-16,Creature,Common,Goblin
-17,Enchantment,Common,Alacrity
-18,Creature,Rare,Aura Thief Skin-Walker
-19,Creature,Rare,Earth Priest Griffin
-20,Creature,Rare,Earth King Fairy
-21,Enchantment,Mythic,Instant Agony
-22,Creature,Mythic,Light Undead Phoenix of the Sky
-23,Creature,Common,Dwarf
-24,Enchantment,Rare,Shimmering Drain
-25,Creature,Common,Warlock
-26,Spell,Common,Sorrow
-27,Creature,Rare,Death Undead Fairy
-28,Spell,Rare,Solar Frenzy
-29,Enchantment,Common,Flight
-30,Enchantment,Common,Agony
-31,Enchantment,Common,Shield
-32,Artifact,Common,Ring
-33,Creature,Common,Wolf
-34,Spell,Common,Torment
-35,Creature,Common,Orc
-36,Creature,Common,Dwarf
-37,Enchantment,Common,Deathgrip
-38,Creature,Legendary,Earth Warrior Oni of the Eternal Land
-39,Artifact,Common,Boots
-40,Creature,Legendary,Aura Lord Cyclops of the Low Hills
-41,Enchantment,Rare,Shimmering Age
-42,Creature,Rare,Death Assassin Minotaur
-43,Enchantment,Common,Strength
-44,Spell,Rare,Corpse Gravitation
+==================,DECK,5348
+0,Creature,Fairy
+1,Spell,Ardent Grim Gravitation
+2,Artifact,Ring
+3,Enchantment,Invert
+4,Creature,Death Undead Orc
+5,Spell,Fire
+6,Enchantment,Clever Corpse Lethargy
+7,Spell,Ardent Solar Torment
+8,Creature,Frozen Thief Dwarf of the Arctic Blizzards
+9,Artifact,Dark Ring
+10,Creature,Earth Monk Goblin
+11,Spell,Burn
+12,Creature,Skin-Walker
+13,Enchantment,Urgent Gloom Flight
+14,Spell,Fire
+15,Creature,Eagle
+16,Creature,Skin-Walker
+17,Enchantment,Haste
+18,Creature,Aura Thief Orc
+19,Creature,Earth Priest Griffin
+20,Creature,Earth King Kraken
+21,Enchantment,Instant Corpse Strength
+22,Creature,Light Undead Phoenix of the Sky
+23,Creature,Magi
+24,Enchantment,Forged Age
+25,Creature,Berserker
+26,Spell,Maelstrom
+27,Creature,Death Undead Kraken
+28,Spell,Forged Reanimate
+29,Enchantment,Blight
+30,Enchantment,Shrink
+31,Enchantment,Deathgrip
+32,Artifact,Ring
+33,Creature,Wolf
+34,Spell,Freeze
+35,Creature,Spider
+36,Creature,Magi
+37,Enchantment,Deathgrip
+38,Creature,Earth Warrior Oni of the Eternal Land
+39,Artifact,Boots
+40,Creature,Aura Lord Giant of the Low Hills
+41,Enchantment,Nature Deathgrip
+42,Creature,Death Assassin Cyclops
+43,Enchantment,Lethargy
+44,Spell,Necro Gravitation

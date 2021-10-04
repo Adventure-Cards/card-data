@@ -1,46 +1,46 @@
-==================,DECK,4448,Light
-0,Spell,Rare,Grim Heal
-1,Spell,Common,Gale
-2,Spell,Common,Infuriate
-3,Creature,Common,Orc
-4,Creature,Common,Paladin
-5,Spell,Common,Hypnosis
-6,Spell,Rare,Oblivion Freeze
-7,Spell,Common,Frost
-8,Spell,Common,Sorrow
-9,Enchantment,Common,Age
-10,Creature,Mythic,Earth Ancient Demon of the Shadows
-11,Creature,Common,Ghoul
-12,Creature,Common,Spider
-13,Creature,Common,Ghoul
-14,Artifact,Common,Bow
-15,Creature,Common,Elf
-16,Creature,Common,Orc
-17,Creature,Common,Goblin
-18,Creature,Legendary,Death King Giant of the Swamp
-19,Creature,Legendary,Dark Rogue Oni of the Mountains
-20,Enchantment,Common,Flight
-21,Creature,Rare,Earth Rogue Hydra
-22,Enchantment,Common,Haste
-23,Creature,Rare,Snow Priest Berserker
-24,Creature,Common,Paladin
-25,Artifact,Common,Scythe
-26,Creature,Common,Orc
-27,Creature,Common,Paladin
-28,Creature,Common,Warlock
-29,Spell,Common,Revive
-30,Enchantment,Common,Blight
-31,Creature,Common,Spider
-32,Creature,Common,Paladin
-33,Enchantment,Common,Shade
-34,Creature,Common,Spider
-35,Spell,Common,Gravitation
-36,Spell,Common,Freeze
-37,Spell,Rare,Gloom Vortex
-38,Creature,Common,Eagle
-39,Enchantment,Mythic,Extreme Shield
-40,Artifact,Common,Gauntlet
-41,Enchantment,Common,Lethargy
-42,Artifact,Common,Shield
-43,Spell,Common,Stun
-44,Spell,Rare,Solar Assault
+==================,DECK,4448
+0,Spell,Nimble Tempest
+1,Spell,Frenzy
+2,Spell,Frenzy
+3,Creature,Spider
+4,Creature,Troll
+5,Spell,Stun
+6,Spell,Frigid Stricken
+7,Spell,Frost
+8,Spell,Maelstrom
+9,Enchantment,Invert
+10,Creature,Earth Ancient Demon of the Shadows
+11,Creature,Ghoul
+12,Creature,Paladin
+13,Creature,Ghoul
+14,Artifact,Bow
+15,Creature,Warlock
+16,Creature,Spider
+17,Creature,Skin-Walker
+18,Creature,Death King Dwarf of the Swamp
+19,Creature,Dark Rogue Oni of the Mountains
+20,Enchantment,Strength
+21,Creature,Earth Rogue Hydra
+22,Enchantment,Drain
+23,Creature,Snow Priest Goblin
+24,Creature,Troll
+25,Artifact,Scythe
+26,Creature,Spider
+27,Creature,Troll
+28,Creature,Berserker
+29,Spell,Fire
+30,Enchantment,Shrink
+31,Creature,Paladin
+32,Creature,Troll
+33,Enchantment,Invert
+34,Creature,Paladin
+35,Spell,Invisibility
+36,Spell,Ice
+37,Spell,Cataclysmic Frenzy
+38,Creature,Eagle
+39,Enchantment,Ardent Gloom Shield
+40,Artifact,Gauntlet
+41,Enchantment,Age
+42,Artifact,Shield
+43,Spell,Rage
+44,Spell,Solar Stricken

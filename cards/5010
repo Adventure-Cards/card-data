@@ -1,46 +1,46 @@
-==================,DECK,5010,Light
-0,Creature,Common,Dwarf
-1,Creature,Rare,Aura Knight Berserker
-2,Spell,Common,Gale
-3,Creature,Common,Spider
-4,Enchantment,Common,Alacrity
-5,Creature,Common,Spider
-6,Creature,Legendary,Dark Rogue Giant of the Polar Woods
-7,Creature,Rare,Aura Rogue Berserker
-8,Enchantment,Common,Shade
-9,Enchantment,Common,Shield
-10,Creature,Legendary,Dark Priest Orge of the West
-11,Creature,Common,Eagle
-12,Enchantment,Common,Agony
-13,Creature,Common,Goblin
-14,Enchantment,Common,Shrink
-15,Spell,Common,Hypnosis
-16,Enchantment,Common,Shade
-17,Spell,Common,Rage
-18,Enchantment,Mythic,Clever Alacrity
-19,Spell,Rare,Apocalypse Stricken
-20,Creature,Common,Ghoul
-21,Spell,Rare,Lunar Gale
-22,Artifact,Rare,Corpse Bow
-23,Spell,Common,Hypnosis
-24,Creature,Common,Goblin
-25,Creature,Common,Goblin
-26,Creature,Common,Orc
-27,Enchantment,Common,Strength
-28,Spell,Common,Freeze
-29,Spell,Common,Wall
-30,Creature,Mythic,Earth Time Dragon of the Shadows
-31,Creature,Legendary,Death Merchant Giant of the Frozen Castle
-32,Creature,Common,Dwarf
-33,Creature,Common,Paladin
-34,Artifact,Common,Gloves
-35,Spell,Common,Gale
-36,Creature,Common,Dwarf
-37,Spell,Common,Ice
-38,Creature,Rare,Earth Thief Minotaur
-39,Creature,Rare,Light Warrior Fairy
-40,Creature,Common,Elf
-41,Creature,Common,Orc
-42,Creature,Rare,Death Undead Skin-Walker
-43,Artifact,Common,Bow
-44,Creature,Rare,Frozen Assassin Minotaur
+==================,DECK,5010
+0,Creature,Magi
+1,Creature,Aura Knight Goblin
+2,Spell,Tempest
+3,Creature,Paladin
+4,Enchantment,Deathgrip
+5,Creature,Paladin
+6,Creature,Dark Rogue Dwarf of the Polar Woods
+7,Creature,Aura Rogue Goblin
+8,Enchantment,Shade
+9,Enchantment,Lethargy
+10,Creature,Dark Priest Elf of the West
+11,Creature,Eagle
+12,Enchantment,Shield
+13,Creature,Skin-Walker
+14,Enchantment,Blight
+15,Spell,Frost
+16,Enchantment,Agony
+17,Spell,Stun
+18,Enchantment,Instant Apocalypse Drain
+19,Spell,Victory Gravitation
+20,Creature,Ghoul
+21,Spell,Gloom Hypnosis
+22,Artifact,Solar Bow
+23,Spell,Infuriate
+24,Creature,Skin-Walker
+25,Creature,Skin-Walker
+26,Creature,Spider
+27,Enchantment,Agony
+28,Spell,Lightning
+29,Spell,Vortex
+30,Creature,Earth Time Dragon of the Shadows
+31,Creature,Death Merchant Dwarf of the Frozen Castle
+32,Creature,Magi
+33,Creature,Troll
+34,Artifact,Gloves
+35,Spell,Fury
+36,Creature,Magi
+37,Spell,Frenzy
+38,Creature,Earth Thief Cyclops
+39,Creature,Light Warrior Kraken
+40,Creature,Warlock
+41,Creature,Spider
+42,Creature,Death Undead Orc
+43,Artifact,Bow
+44,Creature,Frozen Assassin Cyclops

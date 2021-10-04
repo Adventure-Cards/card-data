@@ -1,46 +1,46 @@
-==================,DECK,4427,Medium
-0,Creature,Common,Spider
-1,Creature,Common,Paladin
-2,Creature,Rare,Death Undead Berserker
-3,Spell,Legendary,Urgent Wall
-4,Enchantment,Common,Lethargy
-5,Spell,Common,Reanimate
-6,Creature,Rare,Light Assassin Minotaur
-7,Creature,Mythic,Dark Nameless Phoenix of Illusion
-8,Spell,Common,Ice
-9,Creature,Common,Magi
-10,Creature,Common,Magi
-11,Artifact,Rare,Frigid Gauntlet
-12,Enchantment,Rare,Miracle Flight
-13,Artifact,Common,Cloak
-14,Creature,Common,Dwarf
-15,Creature,Mythic,Frozen Ancient Wizard of the Void
-16,Enchantment,Mythic,Dire Haste
-17,Creature,Rare,Earth Lord Skin-Walker
-18,Spell,Common,Wall
-19,Creature,Legendary,Earth Undead Giant of the Black Stone
-20,Enchantment,Common,Age
-21,Creature,Common,Spider
-22,Spell,Common,Heal
-23,Creature,Legendary,Earth Warrior Cyclops of the Swamp
-24,Creature,Common,Ghoul
-25,Creature,Rare,Frozen Knight Fairy
-26,Creature,Common,Eagle
-27,Creature,Common,Magi
-28,Creature,Common,Ghoul
-29,Artifact,Common,Gauntlet
-30,Creature,Rare,Light Monk Hydra
-31,Spell,Rare,Miracle Burst
-32,Spell,Legendary,Potent Sorrow
-33,Creature,Common,Dwarf
-34,Creature,Legendary,Light Monk Orge of the Magical Forest
-35,Creature,Rare,Aura Assassin Minotaur
-36,Creature,Common,Paladin
-37,Enchantment,Common,Flight
-38,Enchantment,Common,Agony
-39,Creature,Rare,Earth Fighter Minotaur
-40,Spell,Common,Ice
-41,Enchantment,Common,Flight
-42,Creature,Common,Paladin
-43,Enchantment,Common,Strength
-44,Creature,Rare,Earth Undead Berserker
+==================,DECK,4427
+0,Creature,Paladin
+1,Creature,Troll
+2,Creature,Death Undead Goblin
+3,Spell,Irate Hateful Frenzy
+4,Enchantment,Shade
+5,Spell,Lightning
+6,Creature,Light Assassin Cyclops
+7,Creature,Dark Nameless Phoenix of Illusion
+8,Spell,Reanimate
+9,Creature,Fairy
+10,Creature,Fairy
+11,Artifact,Frigid Gauntlet
+12,Enchantment,Grim Blight
+13,Artifact,Cloak
+14,Creature,Magi
+15,Creature,Frozen Ancient Wizard of the Void
+16,Enchantment,Empyrean Life Shade
+17,Creature,Earth Lord Orc
+18,Spell,Gale
+19,Creature,Earth Undead Dwarf of the Black Stone
+20,Enchantment,Flight
+21,Creature,Paladin
+22,Spell,Hypnosis
+23,Creature,Earth Warrior Giant of the Swamp
+24,Creature,Ghoul
+25,Creature,Frozen Knight Kraken
+26,Creature,Eagle
+27,Creature,Fairy
+28,Creature,Ghoul
+29,Artifact,Gauntlet
+30,Creature,Light Monk Hydra
+31,Spell,Life Freeze
+32,Spell,Empyrean Grim Fire
+33,Creature,Magi
+34,Creature,Light Monk Elf of the Magical Forest
+35,Creature,Aura Assassin Cyclops
+36,Creature,Troll
+37,Enchantment,Blight
+38,Enchantment,Invert
+39,Creature,Earth Fighter Cyclops
+40,Spell,Infuriate
+41,Enchantment,Haste
+42,Creature,Troll
+43,Enchantment,Alacrity
+44,Creature,Earth Undead Goblin

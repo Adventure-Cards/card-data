@@ -1,46 +1,46 @@
-==================,DECK,7912,Light
-0,Creature,Common,Warlock
-1,Enchantment,Common,Blight
-2,Creature,Rare,Death Lord Fairy
-3,Enchantment,Common,Shield
-4,Artifact,Common,Scythe
-5,Creature,Rare,Aura Assassin Griffin
-6,Creature,Common,Ghoul
-7,Artifact,Common,Amulet
-8,Creature,Common,Spider
-9,Creature,Common,Warlock
-10,Spell,Common,Ice
-11,Spell,Common,Vortex
-12,Spell,Rare,Forged Invisibility
-13,Creature,Legendary,Frozen Assassin Kraken of the Low Hills
-14,Enchantment,Rare,Life Haste
-15,Creature,Mythic,Dark Ancient Wizard of Illusion
-16,Enchantment,Mythic,Dire Lethargy
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Common,Deathgrip
-19,Spell,Legendary,Potent Vortex
-20,Spell,Common,Burn
-21,Enchantment,Common,Age
-22,Spell,Common,Heal
-23,Enchantment,Common,Shrink
-24,Creature,Common,Magi
-25,Creature,Legendary,Frozen Warrior Orge of the Polar Woods
-26,Spell,Rare,Cataclysmic Stricken
-27,Creature,Common,Wolf
-28,Artifact,Common,Gloves
-29,Creature,Common,Spider
-30,Creature,Common,Warlock
-31,Creature,Rare,Aura Queen Fairy
-32,Enchantment,Mythic,Mighty Drain
-33,Creature,Rare,Death Undead Fairy
-34,Spell,Common,Rage
-35,Artifact,Common,Bow
-36,Spell,Legendary,Instant Pandemonium
-37,Artifact,Rare,Dark Gauntlet
-38,Enchantment,Common,Age
-39,Spell,Legendary,Clever Revive
-40,Creature,Common,Paladin
-41,Creature,Rare,Aura Queen Griffin
-42,Enchantment,Legendary,Angry Haste
-43,Spell,Rare,Corpse Heal
-44,Artifact,Common,Ghost Wand
+==================,DECK,7912
+0,Creature,Berserker
+1,Enchantment,Blight
+2,Creature,Death Lord Kraken
+3,Enchantment,Shield
+4,Artifact,Scythe
+5,Creature,Aura Assassin Griffin
+6,Creature,Ghoul
+7,Artifact,Amulet
+8,Creature,Paladin
+9,Creature,Berserker
+10,Spell,Rage
+11,Spell,Fury
+12,Spell,Sorrow Torment
+13,Creature,Frozen Assassin Ogre of the Low Hills
+14,Enchantment,Life Shade
+15,Creature,Dark Ancient Wizard of Illusion
+16,Enchantment,Irate Grim Blight
+17,Enchantment,Flight
+18,Enchantment,Drain
+19,Spell,Dire Frigid Pandemonium
+20,Spell,Stun
+21,Enchantment,Drain
+22,Spell,Fire
+23,Enchantment,Deathgrip
+24,Creature,Fairy
+25,Creature,Frozen Warrior Elf of the Polar Woods
+26,Spell,Miracle Assault
+27,Creature,Wolf
+28,Artifact,Gloves
+29,Creature,Paladin
+30,Creature,Berserker
+31,Creature,Aura Queen Kraken
+32,Enchantment,Empyrean Dark Firebreath
+33,Creature,Death Undead Kraken
+34,Spell,Rage
+35,Artifact,Bow
+36,Spell,Clever Necro Vortex
+37,Artifact,Lunar Gauntlet
+38,Enchantment,Lethargy
+39,Spell,Irate Apocalypse Freeze
+40,Creature,Troll
+41,Creature,Aura Queen Griffin
+42,Enchantment,Mighty Miracle Flight
+43,Spell,Shimmering Fire
+44,Artifact,Ghost Wand

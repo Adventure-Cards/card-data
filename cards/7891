@@ -1,46 +1,46 @@
-==================,DECK,7891,Light
-0,Spell,Common,Revive
-1,Enchantment,Common,Agony
-2,Creature,Rare,Snow Knight Minotaur
-3,Creature,Common,Spider
-4,Creature,Common,Ghoul
-5,Enchantment,Common,Alacrity
-6,Creature,Common,Paladin
-7,Creature,Rare,Death Knight Skin-Walker
-8,Spell,Common,Pandemonium
-9,Creature,Common,Magi
-10,Enchantment,Common,Haste
-11,Creature,Common,Wolf
-12,Creature,Common,Orc
-13,Enchantment,Rare,Hateful Flight
-14,Creature,Common,Ghoul
-15,Creature,Common,Elf
-16,Creature,Rare,Frozen Fighter Griffin
-17,Creature,Rare,Snow Rogue Berserker
-18,Enchantment,Common,Invert
-19,Creature,Common,Wolf
-20,Creature,Rare,Frozen Thief Fairy
-21,Creature,Mythic,Aura Chaos Demon of the Light
-22,Spell,Legendary,Instant Burst
-23,Enchantment,Rare,Grim Shield
-24,Enchantment,Common,Agony
-25,Creature,Legendary,Frozen Knight Cyclops of the Low Hills
-26,Creature,Rare,Death Assassin Berserker
-27,Creature,Rare,Death Monk Skin-Walker
-28,Creature,Common,Elf
-29,Enchantment,Rare,Solar Agony
-30,Artifact,Rare,Shimmering Scepter
-31,Spell,Common,Fury
-32,Spell,Rare,Necro Ice
-33,Creature,Common,Magi
-34,Creature,Common,Eagle
-35,Creature,Rare,Aura Undead Berserker
-36,Creature,Rare,Snow Knight Hydra
-37,Creature,Common,Eagle
-38,Creature,Common,Warlock
-39,Enchantment,Common,Agony
-40,Enchantment,Common,Flight
-41,Creature,Common,Orc
-42,Spell,Common,Fury
-43,Creature,Rare,Aura Monk Hydra
-44,Creature,Common,Paladin
+==================,DECK,7891
+0,Spell,Freeze
+1,Enchantment,Invert
+2,Creature,Snow Knight Cyclops
+3,Creature,Paladin
+4,Creature,Ghoul
+5,Enchantment,Haste
+6,Creature,Troll
+7,Creature,Death Knight Orc
+8,Spell,Revive
+9,Creature,Fairy
+10,Enchantment,Invert
+11,Creature,Wolf
+12,Creature,Spider
+13,Enchantment,Lunar Flight
+14,Creature,Ghoul
+15,Creature,Warlock
+16,Creature,Frozen Fighter Griffin
+17,Creature,Snow Rogue Goblin
+18,Enchantment,Shrink
+19,Creature,Wolf
+20,Creature,Frozen Thief Kraken
+21,Creature,Aura Chaos Demon of the Light
+22,Spell,Clever Solar Burn
+23,Enchantment,Victory Drain
+24,Enchantment,Haste
+25,Creature,Frozen Knight Giant of the Low Hills
+26,Creature,Death Assassin Goblin
+27,Creature,Death Monk Orc
+28,Creature,Warlock
+29,Enchantment,Corpse Age
+30,Artifact,Forged Scepter
+31,Spell,Ice
+32,Spell,Hateful Tempest
+33,Creature,Fairy
+34,Creature,Eagle
+35,Creature,Aura Undead Goblin
+36,Creature,Snow Knight Hydra
+37,Creature,Eagle
+38,Creature,Berserker
+39,Enchantment,Shrink
+40,Enchantment,Agony
+41,Creature,Spider
+42,Spell,Infuriate
+43,Creature,Aura Monk Hydra
+44,Creature,Troll

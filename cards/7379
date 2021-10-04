@@ -1,46 +1,46 @@
-==================,DECK,7379,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Eagle
-2,Artifact,Rare,Lunar Gauntlet
-3,Creature,Rare,Light Monk Berserker
-4,Enchantment,Rare,Miracle Shrink
-5,Creature,Common,Wolf
-6,Enchantment,Common,Shade
-7,Spell,Common,Gale
-8,Enchantment,Mythic,Dire Invert
-9,Spell,Rare,Cataclysmic Burst
-10,Creature,Common,Magi
-11,Creature,Common,Spider
-12,Creature,Rare,Light Lord Berserker
-13,Creature,Common,Elf
-14,Spell,Rare,Corpse Freeze
-15,Enchantment,Legendary,Instant Flight
-16,Spell,Common,Gale
-17,Creature,Legendary,Light Warrior Orge of the Black Stone
-18,Creature,Common,Goblin
-19,Enchantment,Rare,Miracle Age
-20,Artifact,Common,Staff
-21,Creature,Rare,Death Lord Minotaur
-22,Artifact,Common,Bracers
-23,Creature,Mythic,Aura Ancient Wizard of the Light
-24,Artifact,Rare,Hateful Crown
-25,Creature,Common,Eagle
-26,Spell,Rare,Hateful Burn
-27,Creature,Rare,Aura Assassin Hydra
-28,Spell,Common,Revive
-29,Enchantment,Common,Shade
-30,Enchantment,Rare,Forged Shade
-31,Enchantment,Rare,Miracle Drain
-32,Creature,Common,Elf
-33,Creature,Rare,Dark Merchant Minotaur
-34,Spell,Common,Gale
-35,Enchantment,Rare,Gloom Invert
-36,Creature,Common,Warlock
-37,Enchantment,Rare,Lunar Shrink
-38,Spell,Rare,Miracle Hypnosis
-39,Artifact,Common,Helmet
-40,Creature,Common,Wolf
-41,Creature,Common,Ghoul
-42,Creature,Common,Ghoul
-43,Artifact,Rare,Apocalypse Bow
-44,Creature,Rare,Death King Hydra
+==================,DECK,7379
+0,Creature,Magi
+1,Creature,Eagle
+2,Artifact,Lunar Gauntlet
+3,Creature,Light Monk Goblin
+4,Enchantment,Frigid Shade
+5,Creature,Wolf
+6,Enchantment,Shrink
+7,Spell,Frenzy
+8,Enchantment,Dire Oblivion Shade
+9,Spell,Cataclysmic Gale
+10,Creature,Fairy
+11,Creature,Paladin
+12,Creature,Light Lord Goblin
+13,Creature,Warlock
+14,Spell,Shimmering Fire
+15,Enchantment,Zealous Hateful Deathgrip
+16,Spell,Gale
+17,Creature,Light Warrior Elf of the Black Stone
+18,Creature,Skin-Walker
+19,Enchantment,Victory Shade
+20,Artifact,Staff
+21,Creature,Death Lord Cyclops
+22,Artifact,Bracers
+23,Creature,Aura Ancient Wizard of the Light
+24,Artifact,Sorrow Crown
+25,Creature,Eagle
+26,Spell,Miracle Infuriate
+27,Creature,Aura Assassin Hydra
+28,Spell,Stricken
+29,Enchantment,Haste
+30,Enchantment,Chimeric Shrink
+31,Enchantment,Apocalypse Drain
+32,Creature,Warlock
+33,Creature,Dark Merchant Cyclops
+34,Spell,Gravitation
+35,Enchantment,Sorrow Firebreath
+36,Creature,Berserker
+37,Enchantment,Chimeric Shield
+38,Spell,Oblivion Reanimate
+39,Artifact,Helmet
+40,Creature,Wolf
+41,Creature,Ghoul
+42,Creature,Ghoul
+43,Artifact,Nimble Bow
+44,Creature,Death King Hydra

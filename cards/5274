@@ -1,46 +1,46 @@
-==================,DECK,5274,Light
-0,Creature,Legendary,Snow Warrior Cyclops of the Black Stone
-1,Spell,Common,Invisibility
-2,Creature,Common,Warlock
-3,Enchantment,Rare,Cataclysmic Haste
-4,Creature,Legendary,Earth Knight Oni of the Arctic Blizzards
-5,Creature,Common,Warlock
-6,Creature,Common,Eagle
-7,Enchantment,Common,Drain
-8,Creature,Common,Spider
-9,Spell,Rare,Nature Stun
-10,Artifact,Common,Crown
-11,Creature,Common,Dwarf
-12,Creature,Common,Wolf
-13,Enchantment,Mythic,Intense Alacrity
-14,Creature,Common,Orc
-15,Creature,Common,Paladin
-16,Creature,Common,Elf
-17,Enchantment,Common,Agony
-18,Artifact,Common,Helmet
-19,Creature,Common,Elf
-20,Creature,Common,Wolf
-21,Artifact,Rare,Cataclysmic Amulet
-22,Spell,Common,Sorrow
-23,Artifact,Common,Helm
-24,Spell,Rare,Dark Vortex
-25,Enchantment,Common,Shade
-26,Creature,Common,Eagle
-27,Spell,Legendary,Instant Invisibility
-28,Spell,Common,Invisibility
-29,Creature,Common,Spider
-30,Creature,Common,Magi
-31,Creature,Rare,Aura Rogue Berserker
-32,Creature,Common,Eagle
-33,Creature,Common,Elf
-34,Creature,Rare,Snow Priest Berserker
-35,Artifact,Rare,Gloom Potion
-36,Enchantment,Common,Strength
-37,Creature,Common,Elf
-38,Creature,Rare,Snow Knight Hydra
-39,Artifact,Common,Ring
-40,Creature,Legendary,Aura Undead Oni of the Mountains
-41,Enchantment,Common,Flight
-42,Creature,Rare,Frozen Fighter Berserker
-43,Spell,Common,Ice
-44,Creature,Mythic,Death Undead Phoenix of the Dead
+==================,DECK,5274
+0,Creature,Snow Warrior Giant of the Black Stone
+1,Spell,Rage
+2,Creature,Berserker
+3,Enchantment,Miracle Firebreath
+4,Creature,Earth Knight Oni of the Arctic Blizzards
+5,Creature,Berserker
+6,Creature,Eagle
+7,Enchantment,Blight
+8,Creature,Paladin
+9,Spell,Nature Frost
+10,Artifact,Crown
+11,Creature,Magi
+12,Creature,Wolf
+13,Enchantment,Urgent Forged Agony
+14,Creature,Spider
+15,Creature,Troll
+16,Creature,Warlock
+17,Enchantment,Blight
+18,Artifact,Helmet
+19,Creature,Warlock
+20,Creature,Wolf
+21,Artifact,Cataclysmic Amulet
+22,Spell,Revive
+23,Artifact,Helm
+24,Spell,Sorrow Fury
+25,Enchantment,Shade
+26,Creature,Eagle
+27,Spell,Dire Hateful Maelstrom
+28,Spell,Revive
+29,Creature,Paladin
+30,Creature,Fairy
+31,Creature,Aura Rogue Goblin
+32,Creature,Eagle
+33,Creature,Warlock
+34,Creature,Snow Priest Goblin
+35,Artifact,Chimeric Potion
+36,Enchantment,Shield
+37,Creature,Warlock
+38,Creature,Snow Knight Hydra
+39,Artifact,Ring
+40,Creature,Aura Undead Oni of the Mountains
+41,Enchantment,Age
+42,Creature,Frozen Fighter Goblin
+43,Spell,Hypnosis
+44,Creature,Death Undead Phoenix of the Dead

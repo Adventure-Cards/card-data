@@ -1,46 +1,46 @@
-==================,DECK,7354,Light
-0,Creature,Common,Wolf
-1,Creature,Common,Magi
-2,Spell,Common,Burst
-3,Creature,Common,Elf
-4,Creature,Rare,Dark Priest Griffin
-5,Enchantment,Common,Age
-6,Spell,Common,Burst
-7,Creature,Common,Spider
-8,Creature,Common,Elf
-9,Enchantment,Common,Haste
-10,Creature,Common,Spider
-11,Spell,Common,Burn
-12,Enchantment,Common,Shield
-13,Artifact,Common,Staff
-14,Creature,Rare,Earth Warrior Fairy
-15,Enchantment,Legendary,Intense Drain
-16,Creature,Common,Eagle
-17,Creature,Common,Warlock
-18,Enchantment,Rare,Solar Shade
-19,Creature,Legendary,Frozen Thief Kraken of the Eastern Skies
-20,Creature,Common,Dwarf
-21,Artifact,Common,Ring
-22,Creature,Common,Goblin
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Enchantment,Common,Shade
-26,Creature,Common,Magi
-27,Creature,Common,Paladin
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Dark Alacrity
-30,Artifact,Rare,Nimble Cloak
-31,Creature,Common,Wolf
-32,Creature,Legendary,Aura Monk Giant of the Eternal Land
-33,Artifact,Rare,Forged Staff
-34,Artifact,Common,Gauntlet
-35,Creature,Common,Wolf
-36,Enchantment,Common,Lethargy
-37,Creature,Rare,Light Priest Berserker
-38,Enchantment,Common,Blight
-39,Artifact,Rare,Gloom Potion
-40,Creature,Common,Paladin
-41,Creature,Common,Goblin
-42,Creature,Common,Orc
-43,Creature,Legendary,Aura Lord Kraken of the Frozen Castle
-44,Enchantment,Common,Lethargy
+==================,DECK,7354
+0,Creature,Wolf
+1,Creature,Fairy
+2,Spell,Vortex
+3,Creature,Warlock
+4,Creature,Dark Priest Griffin
+5,Enchantment,Invert
+6,Spell,Hypnosis
+7,Creature,Paladin
+8,Creature,Warlock
+9,Enchantment,Alacrity
+10,Creature,Paladin
+11,Spell,Fireball
+12,Enchantment,Alacrity
+13,Artifact,Staff
+14,Creature,Earth Warrior Kraken
+15,Enchantment,Zealous Forged Deathgrip
+16,Creature,Eagle
+17,Creature,Berserker
+18,Enchantment,Necro Lethargy
+19,Creature,Frozen Thief Ogre of the Eastern Skies
+20,Creature,Magi
+21,Artifact,Ring
+22,Creature,Skin-Walker
+23,Enchantment,Deathgrip
+24,Creature,Wolf
+25,Enchantment,Drain
+26,Creature,Fairy
+27,Creature,Troll
+28,Creature,Magi
+29,Enchantment,Dark Firebreath
+30,Artifact,Shimmering Cloak
+31,Creature,Wolf
+32,Creature,Aura Monk Dwarf of the Eternal Land
+33,Artifact,Sorrow Staff
+34,Artifact,Gauntlet
+35,Creature,Wolf
+36,Enchantment,Shield
+37,Creature,Light Priest Goblin
+38,Enchantment,Deathgrip
+39,Artifact,Sorrow Potion
+40,Creature,Troll
+41,Creature,Skin-Walker
+42,Creature,Spider
+43,Creature,Aura Lord Ogre of the Frozen Castle
+44,Enchantment,Age

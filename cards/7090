@@ -1,46 +1,46 @@
-==================,DECK,7090,Light
-0,Creature,Common,Magi
-1,Creature,Mythic,Earth Ancient Wizard of the Shadows
-2,Spell,Common,Gale
-3,Creature,Common,Ghoul
-4,Enchantment,Rare,Frigid Agony
-5,Spell,Common,Hypnosis
-6,Creature,Rare,Snow Fighter Skin-Walker
-7,Creature,Common,Ghoul
-8,Creature,Common,Ghoul
-9,Creature,Common,Orc
-10,Creature,Common,Dwarf
-11,Creature,Common,Magi
-12,Creature,Common,Elf
-13,Creature,Rare,Snow Monk Fairy
-14,Spell,Common,Reanimate
-15,Creature,Common,Orc
-16,Spell,Rare,Lunar Infuriate
-17,Spell,Rare,Cataclysmic Reanimate
-18,Creature,Common,Ghoul
-19,Spell,Common,Revive
-20,Spell,Rare,Solar Wall
-21,Creature,Common,Elf
-22,Creature,Common,Goblin
-23,Creature,Common,Goblin
-24,Creature,Common,Magi
-25,Artifact,Common,Belt
-26,Spell,Common,Wall
-27,Creature,Common,Dwarf
-28,Creature,Common,Paladin
-29,Creature,Rare,Light Fighter Skin-Walker
-30,Creature,Rare,Aura Warrior Hydra
-31,Spell,Common,Wall
-32,Creature,Common,Wolf
-33,Enchantment,Legendary,Clever Agony
-34,Spell,Rare,Hateful Pandemonium
-35,Enchantment,Common,Shade
-36,Artifact,Rare,Necro Potion
-37,Creature,Common,Spider
-38,Creature,Rare,Light Undead Skin-Walker
-39,Enchantment,Common,Haste
-40,Creature,Legendary,Aura Undead Oni of the Eastern Skies
-41,Spell,Common,Gravitation
-42,Spell,Common,Reanimate
-43,Creature,Common,Spider
-44,Artifact,Common,Scepter
+==================,DECK,7090
+0,Creature,Fairy
+1,Creature,Earth Ancient Wizard of the Shadows
+2,Spell,Reanimate
+3,Creature,Ghoul
+4,Enchantment,Life Haste
+5,Spell,Tempest
+6,Creature,Snow Fighter Orc
+7,Creature,Ghoul
+8,Creature,Ghoul
+9,Creature,Spider
+10,Creature,Magi
+11,Creature,Fairy
+12,Creature,Warlock
+13,Creature,Snow Monk Kraken
+14,Spell,Revive
+15,Creature,Spider
+16,Spell,Gloom Lightning
+17,Spell,Gloom Ice
+18,Creature,Ghoul
+19,Spell,Sorrow
+20,Spell,Forged Fireball
+21,Creature,Warlock
+22,Creature,Skin-Walker
+23,Creature,Skin-Walker
+24,Creature,Fairy
+25,Artifact,Belt
+26,Spell,Frenzy
+27,Creature,Magi
+28,Creature,Troll
+29,Creature,Light Fighter Orc
+30,Creature,Aura Warrior Hydra
+31,Spell,Reanimate
+32,Creature,Wolf
+33,Enchantment,Ardent Life Haste
+34,Spell,Miracle Invisibility
+35,Enchantment,Alacrity
+36,Artifact,Hateful Potion
+37,Creature,Paladin
+38,Creature,Light Undead Orc
+39,Enchantment,Strength
+40,Creature,Aura Undead Oni of the Eastern Skies
+41,Spell,Fury
+42,Spell,Fury
+43,Creature,Paladin
+44,Artifact,Scepter

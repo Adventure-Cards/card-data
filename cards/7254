@@ -1,46 +1,46 @@
-==================,DECK,7254,Light
-0,Creature,Common,Orc
-1,Spell,Rare,Necro Gale
-2,Enchantment,Common,Shield
-3,Spell,Common,Burst
-4,Creature,Rare,Aura Fighter Minotaur
-5,Enchantment,Common,Deathgrip
-6,Spell,Common,Stun
-7,Creature,Common,Elf
-8,Enchantment,Common,Agony
-9,Creature,Rare,Frozen Priest Berserker
-10,Spell,Common,Burn
-11,Creature,Rare,Light Merchant Skin-Walker
-12,Creature,Common,Goblin
-13,Enchantment,Rare,Dark Shield
-14,Creature,Common,Wolf
-15,Creature,Legendary,Light Fighter Cyclops of the Low Hills
-16,Creature,Mythic,Dark Ancient Demon of Illusion
-17,Spell,Rare,Solar Frost
-18,Creature,Common,Paladin
-19,Creature,Mythic,Earth Ancient Wizard of the Shadows
-20,Creature,Common,Paladin
-21,Creature,Common,Dwarf
-22,Enchantment,Common,Haste
-23,Creature,Rare,Snow Rogue Griffin
-24,Creature,Legendary,Snow Rogue Oni of the Magical Forest
-25,Enchantment,Rare,Necro Flight
-26,Enchantment,Legendary,Clever Deathgrip
-27,Spell,Rare,Gloom Revive
-28,Creature,Common,Spider
-29,Spell,Legendary,Angry Gale
-30,Enchantment,Common,Drain
-31,Creature,Common,Eagle
-32,Creature,Rare,Light Merchant Griffin
-33,Enchantment,Common,Invert
-34,Spell,Legendary,Intense Vortex
-35,Creature,Common,Eagle
-36,Creature,Common,Wolf
-37,Creature,Common,Wolf
-38,Enchantment,Common,Strength
-39,Spell,Common,Frenzy
-40,Spell,Common,Stun
-41,Creature,Common,Dwarf
-42,Spell,Common,Freeze
-43,Enchantment,Rare,Oblivion Shade
-44,Enchantment,Mythic,Instant Drain
+==================,DECK,7254
+0,Creature,Spider
+1,Spell,Forged Heal
+2,Enchantment,Shield
+3,Spell,Stun
+4,Creature,Aura Fighter Cyclops
+5,Enchantment,Deathgrip
+6,Spell,Burn
+7,Creature,Warlock
+8,Enchantment,Shield
+9,Creature,Frozen Priest Goblin
+10,Spell,Tempest
+11,Creature,Light Merchant Orc
+12,Creature,Skin-Walker
+13,Enchantment,Gloom Firebreath
+14,Creature,Wolf
+15,Creature,Light Fighter Giant of the Low Hills
+16,Creature,Dark Ancient Demon of Illusion
+17,Spell,Necro Wall
+18,Creature,Troll
+19,Creature,Earth Ancient Wizard of the Shadows
+20,Creature,Troll
+21,Creature,Magi
+22,Enchantment,Firebreath
+23,Creature,Snow Rogue Griffin
+24,Creature,Snow Rogue Oni of the Magical Forest
+25,Enchantment,Hateful Agony
+26,Enchantment,Empyrean Oblivion Shade
+27,Spell,Chimeric Frost
+28,Creature,Paladin
+29,Spell,Empyrean Lunar Sorrow
+30,Enchantment,Shrink
+31,Creature,Eagle
+32,Creature,Light Merchant Griffin
+33,Enchantment,Lethargy
+34,Spell,Instant Corpse Fireball
+35,Creature,Eagle
+36,Creature,Wolf
+37,Creature,Wolf
+38,Enchantment,Strength
+39,Spell,Freeze
+40,Spell,Freeze
+41,Creature,Magi
+42,Spell,Vortex
+43,Enchantment,Frigid Haste
+44,Enchantment,Potent Forged Strength

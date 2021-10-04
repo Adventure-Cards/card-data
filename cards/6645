@@ -1,46 +1,46 @@
-==================,DECK,6645,Light
-0,Spell,Common,Hypnosis
-1,Enchantment,Legendary,Urgent Strength
-2,Spell,Common,Gale
-3,Creature,Rare,Frozen Knight Minotaur
-4,Creature,Common,Magi
-5,Creature,Rare,Dark Merchant Fairy
-6,Spell,Common,Gravitation
-7,Enchantment,Common,Deathgrip
-8,Enchantment,Common,Agony
-9,Creature,Legendary,Aura Priest Oni of the Polar Woods
-10,Creature,Common,Warlock
-11,Creature,Common,Magi
-12,Creature,Common,Elf
-13,Creature,Common,Orc
-14,Artifact,Rare,Grim Ghost Wand
-15,Enchantment,Common,Deathgrip
-16,Enchantment,Common,Shield
-17,Spell,Common,Gale
-18,Enchantment,Common,Flight
-19,Enchantment,Legendary,Dire Shrink
-20,Enchantment,Common,Invert
-21,Creature,Common,Warlock
-22,Spell,Rare,Gloom Revive
-23,Enchantment,Mythic,Extreme Shield
-24,Creature,Common,Paladin
-25,Creature,Common,Orc
-26,Creature,Common,Spider
-27,Spell,Common,Gale
-28,Creature,Common,Dwarf
-29,Enchantment,Common,Shrink
-30,Creature,Rare,Snow Lord Griffin
-31,Spell,Common,Torment
-32,Artifact,Legendary,Instant Gauntlet
-33,Enchantment,Common,Blight
-34,Creature,Rare,Snow Queen Berserker
-35,Enchantment,Mythic,Dire Blight
-36,Creature,Common,Ghoul
-37,Spell,Common,Torment
-38,Spell,Legendary,Potent Burst
-39,Enchantment,Common,Lethargy
-40,Spell,Common,Torment
-41,Spell,Rare,Nature Reanimate
-42,Artifact,Legendary,Intense Greaves
-43,Artifact,Common,Divine Robe
-44,Spell,Common,Ice
+==================,DECK,6645
+0,Spell,Revive
+1,Enchantment,Instant Solar Strength
+2,Spell,Gravitation
+3,Creature,Frozen Knight Cyclops
+4,Creature,Fairy
+5,Creature,Dark Merchant Kraken
+6,Spell,Frost
+7,Enchantment,Shade
+8,Enchantment,Agony
+9,Creature,Aura Priest Oni of the Polar Woods
+10,Creature,Berserker
+11,Creature,Fairy
+12,Creature,Warlock
+13,Creature,Spider
+14,Artifact,Nimble Ghost Wand
+15,Enchantment,Shade
+16,Enchantment,Haste
+17,Spell,Assault
+18,Enchantment,Firebreath
+19,Enchantment,Mighty Frigid Invert
+20,Enchantment,Invert
+21,Creature,Berserker
+22,Spell,Sorrow Tempest
+23,Enchantment,Instant Gloom Shrink
+24,Creature,Troll
+25,Creature,Spider
+26,Creature,Paladin
+27,Spell,Stun
+28,Creature,Magi
+29,Enchantment,Drain
+30,Creature,Snow Lord Griffin
+31,Spell,Reanimate
+32,Artifact,Ardent Nature Gauntlet
+33,Enchantment,Age
+34,Creature,Snow Queen Goblin
+35,Enchantment,Zealous Nimble Blight
+36,Creature,Ghoul
+37,Spell,Pandemonium
+38,Spell,Clever Victory Ice
+39,Enchantment,Strength
+40,Spell,Rage
+41,Spell,Hateful Pandemonium
+42,Artifact,Urgent Necro Greaves
+43,Artifact,Divine Robe
+44,Spell,Vortex

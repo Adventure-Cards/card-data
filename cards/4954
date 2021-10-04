@@ -1,46 +1,46 @@
-==================,DECK,4954,Medium
-0,Creature,Rare,Earth Knight Griffin
-1,Creature,Legendary,Snow Monk Kraken of the Golden Palace
-2,Creature,Common,Warlock
-3,Creature,Rare,Earth Queen Hydra
-4,Creature,Legendary,Light Knight Orge of the Polar Woods
-5,Enchantment,Common,Invert
-6,Creature,Common,Warlock
-7,Creature,Rare,Frozen Merchant Hydra
-8,Artifact,Legendary,Intense Scepter
-9,Enchantment,Common,Drain
-10,Enchantment,Common,Drain
-11,Enchantment,Common,Alacrity
-12,Artifact,Rare,Forged Greaves
-13,Creature,Rare,Snow Lord Berserker
-14,Enchantment,Common,Haste
-15,Creature,Common,Goblin
-16,Creature,Common,Goblin
-17,Creature,Common,Warlock
-18,Creature,Common,Warlock
-19,Enchantment,Legendary,Mighty Flight
-20,Creature,Rare,Light Warrior Skin-Walker
-21,Creature,Common,Wolf
-22,Spell,Common,Torment
-23,Spell,Legendary,Angry Stun
-24,Creature,Rare,Snow Rogue Fairy
-25,Creature,Common,Elf
-26,Creature,Legendary,Earth Knight Cyclops of the Polar Woods
-27,Creature,Common,Elf
-28,Creature,Rare,Frozen Knight Fairy
-29,Creature,Common,Wolf
-30,Creature,Mythic,Aura Ancient Wizard of the Light
-31,Creature,Common,Warlock
-32,Creature,Rare,Frozen Warrior Skin-Walker
-33,Creature,Common,Magi
-34,Spell,Common,Vortex
-35,Creature,Rare,Death Knight Minotaur
-36,Creature,Legendary,Earth Queen Oni of the Frozen Castle
-37,Artifact,Rare,Grim Ring
-38,Creature,Common,Ghoul
-39,Creature,Legendary,Light Thief Cyclops of the Haven
-40,Enchantment,Common,Age
-41,Spell,Common,Torment
-42,Enchantment,Rare,Grim Strength
-43,Creature,Common,Wolf
-44,Enchantment,Mythic,Urgent Shrink
+==================,DECK,4954
+0,Creature,Earth Knight Griffin
+1,Creature,Snow Monk Ogre of the Golden Palace
+2,Creature,Berserker
+3,Creature,Earth Queen Hydra
+4,Creature,Light Knight Elf of the Polar Woods
+5,Enchantment,Alacrity
+6,Creature,Berserker
+7,Creature,Frozen Merchant Hydra
+8,Artifact,Potent Forged Scepter
+9,Enchantment,Haste
+10,Enchantment,Invert
+11,Enchantment,Invert
+12,Artifact,Lunar Greaves
+13,Creature,Snow Lord Goblin
+14,Enchantment,Shade
+15,Creature,Skin-Walker
+16,Creature,Skin-Walker
+17,Creature,Berserker
+18,Creature,Berserker
+19,Enchantment,Clever Lunar Shield
+20,Creature,Light Warrior Orc
+21,Creature,Wolf
+22,Spell,Infuriate
+23,Spell,Clever Miracle Vortex
+24,Creature,Snow Rogue Kraken
+25,Creature,Warlock
+26,Creature,Earth Knight Giant of the Polar Woods
+27,Creature,Warlock
+28,Creature,Frozen Knight Kraken
+29,Creature,Wolf
+30,Creature,Aura Ancient Wizard of the Light
+31,Creature,Berserker
+32,Creature,Frozen Warrior Orc
+33,Creature,Fairy
+34,Spell,Lightning
+35,Creature,Death Knight Cyclops
+36,Creature,Earth Queen Oni of the Frozen Castle
+37,Artifact,Oblivion Ring
+38,Creature,Ghoul
+39,Creature,Light Thief Giant of the Haven
+40,Enchantment,Shade
+41,Spell,Torment
+42,Enchantment,Nimble Blight
+43,Creature,Wolf
+44,Enchantment,Potent Necro Strength

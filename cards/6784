@@ -1,46 +1,46 @@
-==================,DECK,6784,Light
-0,Creature,Common,Ghoul
-1,Artifact,Rare,Corpse Divine Robe
-2,Creature,Rare,Dark Fighter Hydra
-3,Enchantment,Common,Drain
-4,Spell,Common,Frost
-5,Enchantment,Mythic,Potent Lethargy
-6,Creature,Mythic,Dark Grand Demon of Illusion
-7,Creature,Common,Wolf
-8,Enchantment,Common,Shrink
-9,Creature,Rare,Death King Griffin
-10,Spell,Common,Invisibility
-11,Creature,Common,Paladin
-12,Creature,Rare,Dark Thief Hydra
-13,Spell,Common,Rage
-14,Enchantment,Common,Drain
-15,Artifact,Common,Sword
-16,Creature,Common,Ghoul
-17,Creature,Common,Eagle
-18,Creature,Common,Elf
-19,Creature,Mythic,Aura Time Dragon of the Light
-20,Spell,Legendary,Extreme Heal
-21,Spell,Common,Maelstrom
-22,Enchantment,Rare,Apocalypse Shrink
-23,Spell,Rare,Shimmering Stun
-24,Enchantment,Common,Age
-25,Spell,Common,Vortex
-26,Creature,Common,Orc
-27,Creature,Rare,Aura Thief Berserker
-28,Spell,Common,Rage
-29,Artifact,Rare,Miracle Scepter
-30,Creature,Common,Spider
-31,Creature,Rare,Frozen Fighter Berserker
-32,Artifact,Common,Boots
-33,Spell,Common,Burst
-34,Creature,Common,Ghoul
-35,Creature,Mythic,Aura Chaos Demon of the Light
-36,Spell,Rare,Nature Reanimate
-37,Spell,Rare,Oblivion Heal
-38,Enchantment,Rare,Apocalypse Flight
-39,Artifact,Common,Amulet
-40,Creature,Rare,Earth Monk Griffin
-41,Creature,Legendary,Snow Assassin Kraken of the Bright Mountains
-42,Creature,Common,Eagle
-43,Creature,Rare,Dark Monk Hydra
-44,Spell,Common,Fury
+==================,DECK,6784
+0,Creature,Ghoul
+1,Artifact,Nature Divine Robe
+2,Creature,Dark Fighter Hydra
+3,Enchantment,Blight
+4,Spell,Gale
+5,Enchantment,Irate Grim Blight
+6,Creature,Dark Grand Demon of Illusion
+7,Creature,Wolf
+8,Enchantment,Blight
+9,Creature,Death King Griffin
+10,Spell,Stun
+11,Creature,Troll
+12,Creature,Dark Thief Hydra
+13,Spell,Gale
+14,Enchantment,Lethargy
+15,Artifact,Sword
+16,Creature,Ghoul
+17,Creature,Eagle
+18,Creature,Warlock
+19,Creature,Aura Time Dragon of the Light
+20,Spell,Irate Cataclysmic Sorrow
+21,Spell,Burn
+22,Enchantment,Frigid Drain
+23,Spell,Nature Assault
+24,Enchantment,Flight
+25,Spell,Frenzy
+26,Creature,Spider
+27,Creature,Aura Thief Goblin
+28,Spell,Gravitation
+29,Artifact,Victory Scepter
+30,Creature,Paladin
+31,Creature,Frozen Fighter Goblin
+32,Artifact,Boots
+33,Spell,Torment
+34,Creature,Ghoul
+35,Creature,Aura Chaos Demon of the Light
+36,Spell,Shimmering Vortex
+37,Spell,Apocalypse Revive
+38,Enchantment,Grim Drain
+39,Artifact,Amulet
+40,Creature,Earth Monk Griffin
+41,Creature,Snow Assassin Ogre of the Bright Mountains
+42,Creature,Eagle
+43,Creature,Dark Monk Hydra
+44,Spell,Maelstrom

@@ -1,46 +1,46 @@
-==================,DECK,6856,Light
-0,Creature,Common,Elf
-1,Spell,Common,Revive
-2,Enchantment,Common,Haste
-3,Artifact,Common,Cloak
-4,Spell,Common,Assault
-5,Enchantment,Common,Shrink
-6,Spell,Common,Pandemonium
-7,Creature,Common,Elf
-8,Creature,Common,Eagle
-9,Creature,Common,Paladin
-10,Enchantment,Common,Blight
-11,Creature,Rare,Dark Monk Griffin
-12,Creature,Mythic,Dark Undead Phoenix of Illusion
-13,Enchantment,Common,Strength
-14,Spell,Legendary,Angry Reanimate
-15,Artifact,Legendary,Instant Tome
-16,Spell,Common,Torment
-17,Creature,Mythic,Death Chaos Demon of the Dead
-18,Creature,Rare,Death Knight Berserker
-19,Creature,Common,Magi
-20,Creature,Common,Magi
-21,Enchantment,Common,Shade
-22,Creature,Common,Orc
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Spider
-25,Spell,Common,Invisibility
-26,Creature,Common,Dwarf
-27,Artifact,Legendary,Urgent Gauntlet
-28,Creature,Common,Spider
-29,Spell,Common,Invisibility
-30,Creature,Mythic,Death Nameless Phoenix of the Dead
-31,Creature,Common,Elf
-32,Creature,Common,Dwarf
-33,Creature,Common,Paladin
-34,Enchantment,Rare,Grim Invert
-35,Creature,Common,Spider
-36,Spell,Common,Assault
-37,Artifact,Rare,Necro Bracers
-38,Creature,Common,Dwarf
-39,Creature,Legendary,Death Priest Oni of the Bright Mountains
-40,Creature,Common,Elf
-41,Spell,Legendary,Clever Stun
-42,Spell,Rare,Corpse Wall
-43,Enchantment,Rare,Nature Drain
-44,Creature,Common,Dwarf
+==================,DECK,6856
+0,Creature,Warlock
+1,Spell,Gale
+2,Enchantment,Alacrity
+3,Artifact,Cloak
+4,Spell,Burn
+5,Enchantment,Lethargy
+6,Spell,Assault
+7,Creature,Warlock
+8,Creature,Eagle
+9,Creature,Troll
+10,Enchantment,Lethargy
+11,Creature,Dark Monk Griffin
+12,Creature,Dark Undead Phoenix of Illusion
+13,Enchantment,Shield
+14,Spell,Clever Gloom Frenzy
+15,Artifact,Dire Solar Tome
+16,Spell,Gravitation
+17,Creature,Death Chaos Demon of the Dead
+18,Creature,Death Knight Goblin
+19,Creature,Fairy
+20,Creature,Fairy
+21,Enchantment,Shade
+22,Creature,Spider
+23,Enchantment,Haste
+24,Creature,Paladin
+25,Spell,Ice
+26,Creature,Magi
+27,Artifact,Clever Corpse Gauntlet
+28,Creature,Paladin
+29,Spell,Lightning
+30,Creature,Death Nameless Phoenix of the Dead
+31,Creature,Warlock
+32,Creature,Magi
+33,Creature,Troll
+34,Enchantment,Oblivion Haste
+35,Creature,Paladin
+36,Spell,Wall
+37,Artifact,Necro Bracers
+38,Creature,Magi
+39,Creature,Death Priest Oni of the Bright Mountains
+40,Creature,Warlock
+41,Spell,Mighty Nimble Frenzy
+42,Spell,Forged Frenzy
+43,Enchantment,Forged Agony
+44,Creature,Magi

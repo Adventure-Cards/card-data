@@ -1,46 +1,46 @@
-==================,DECK,4250,Light
-0,Creature,Common,Spider
-1,Enchantment,Common,Lethargy
-2,Creature,Common,Elf
-3,Creature,Common,Paladin
-4,Spell,Common,Frenzy
-5,Artifact,Common,Ring
-6,Enchantment,Legendary,Extreme Shade
-7,Spell,Common,Hypnosis
-8,Creature,Common,Spider
-9,Enchantment,Common,Shrink
-10,Creature,Common,Elf
-11,Creature,Common,Spider
-12,Creature,Rare,Earth King Fairy
-13,Creature,Common,Magi
-14,Artifact,Common,Potion
-15,Creature,Common,Goblin
-16,Creature,Common,Warlock
-17,Creature,Mythic,Earth Chaos Demon of the Shadows
-18,Creature,Common,Spider
-19,Creature,Common,Wolf
-20,Creature,Rare,Light Undead Skin-Walker
-21,Creature,Common,Spider
-22,Creature,Rare,Aura Queen Skin-Walker
-23,Creature,Rare,Snow Monk Hydra
-24,Creature,Common,Magi
-25,Enchantment,Common,Blight
-26,Creature,Rare,Aura Assassin Skin-Walker
-27,Creature,Common,Elf
-28,Spell,Rare,Hateful Burn
-29,Creature,Legendary,Light Undead Kraken of the Low Hills
-30,Creature,Common,Dwarf
-31,Creature,Common,Paladin
-32,Spell,Common,Vortex
-33,Creature,Common,Spider
-34,Creature,Common,Dwarf
-35,Creature,Common,Spider
-36,Spell,Common,Maelstrom
-37,Creature,Rare,Light Merchant Minotaur
-38,Spell,Common,Sorrow
-39,Spell,Common,Reanimate
-40,Enchantment,Common,Alacrity
-41,Creature,Common,Elf
-42,Creature,Common,Warlock
-43,Enchantment,Common,Invert
-44,Enchantment,Mythic,Extreme Blight
+==================,DECK,4250
+0,Creature,Paladin
+1,Enchantment,Firebreath
+2,Creature,Warlock
+3,Creature,Troll
+4,Spell,Heal
+5,Artifact,Ring
+6,Enchantment,Irate Chimeric Alacrity
+7,Spell,Lightning
+8,Creature,Paladin
+9,Enchantment,Shrink
+10,Creature,Warlock
+11,Creature,Paladin
+12,Creature,Earth King Kraken
+13,Creature,Fairy
+14,Artifact,Potion
+15,Creature,Skin-Walker
+16,Creature,Berserker
+17,Creature,Earth Chaos Demon of the Shadows
+18,Creature,Paladin
+19,Creature,Wolf
+20,Creature,Light Undead Orc
+21,Creature,Paladin
+22,Creature,Aura Queen Orc
+23,Creature,Snow Monk Hydra
+24,Creature,Fairy
+25,Enchantment,Alacrity
+26,Creature,Aura Assassin Orc
+27,Creature,Warlock
+28,Spell,Sorrow Maelstrom
+29,Creature,Light Undead Ogre of the Low Hills
+30,Creature,Magi
+31,Creature,Troll
+32,Spell,Ice
+33,Creature,Paladin
+34,Creature,Magi
+35,Creature,Paladin
+36,Spell,Frenzy
+37,Creature,Light Merchant Cyclops
+38,Spell,Stun
+39,Spell,Fireball
+40,Enchantment,Shield
+41,Creature,Warlock
+42,Creature,Berserker
+43,Enchantment,Haste
+44,Enchantment,Zealous Cataclysmic Alacrity

@@ -1,46 +1,46 @@
-==================,DECK,7578,Light
-0,Creature,Common,Orc
-1,Spell,Common,Reanimate
-2,Creature,Common,Dwarf
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Age
-5,Spell,Common,Maelstrom
-6,Spell,Common,Stricken
-7,Artifact,Common,Divine Robe
-8,Spell,Legendary,Intense Gravitation
-9,Creature,Common,Ghoul
-10,Creature,Rare,Dark Lord Skin-Walker
-11,Creature,Common,Elf
-12,Enchantment,Common,Shade
-13,Creature,Common,Elf
-14,Creature,Common,Warlock
-15,Enchantment,Common,Blight
-16,Enchantment,Legendary,Clever Invert
-17,Creature,Legendary,Earth King Oni of the West
-18,Creature,Common,Dwarf
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Elf
-21,Spell,Rare,Hateful Burn
-22,Artifact,Legendary,Clever Helm
-23,Artifact,Common,Shield
-24,Creature,Common,Warlock
-25,Creature,Common,Warlock
-26,Creature,Legendary,Light Queen Kraken of the Low Hills
-27,Creature,Common,Ghoul
-28,Enchantment,Common,Shrink
-29,Creature,Common,Spider
-30,Creature,Common,Elf
-31,Creature,Common,Elf
-32,Enchantment,Rare,Shimmering Flight
-33,Creature,Common,Orc
-34,Creature,Legendary,Frozen Warrior Kraken of the Low Hills
-35,Artifact,Rare,Life Tome
-36,Creature,Common,Orc
-37,Creature,Rare,Aura Thief Berserker
-38,Creature,Rare,Light Rogue Griffin
-39,Artifact,Common,Ring
-40,Spell,Rare,Shimmering Pandemonium
-41,Spell,Common,Assault
-42,Artifact,Common,Crown
-43,Creature,Common,Magi
-44,Enchantment,Legendary,Dire Deathgrip
+==================,DECK,7578
+0,Creature,Spider
+1,Spell,Heal
+2,Creature,Magi
+3,Creature,Ghoul
+4,Enchantment,Flight
+5,Spell,Revive
+6,Spell,Stricken
+7,Artifact,Divine Robe
+8,Spell,Irate Corpse Stun
+9,Creature,Ghoul
+10,Creature,Dark Lord Orc
+11,Creature,Warlock
+12,Enchantment,Firebreath
+13,Creature,Warlock
+14,Creature,Berserker
+15,Enchantment,Flight
+16,Enchantment,Irate Oblivion Blight
+17,Creature,Earth King Oni of the West
+18,Creature,Magi
+19,Enchantment,Alacrity
+20,Creature,Warlock
+21,Spell,Dark Pandemonium
+22,Artifact,Empyrean Life Helm
+23,Artifact,Shield
+24,Creature,Berserker
+25,Creature,Berserker
+26,Creature,Light Queen Ogre of the Low Hills
+27,Creature,Ghoul
+28,Enchantment,Agony
+29,Creature,Paladin
+30,Creature,Warlock
+31,Creature,Warlock
+32,Enchantment,Hateful Age
+33,Creature,Spider
+34,Creature,Frozen Warrior Ogre of the Low Hills
+35,Artifact,Life Tome
+36,Creature,Spider
+37,Creature,Aura Thief Goblin
+38,Creature,Light Rogue Griffin
+39,Artifact,Ring
+40,Spell,Necro Frenzy
+41,Spell,Sorrow
+42,Artifact,Crown
+43,Creature,Fairy
+44,Enchantment,Mighty Oblivion Invert

@@ -1,46 +1,46 @@
-==================,DECK,7877,Light
-0,Creature,Common,Orc
-1,Creature,Common,Eagle
-2,Creature,Common,Spider
-3,Artifact,Legendary,Clever Helm
-4,Creature,Common,Paladin
-5,Creature,Rare,Death Monk Fairy
-6,Creature,Common,Ghoul
-7,Creature,Common,Goblin
-8,Spell,Rare,Nimble Torment
-9,Spell,Common,Stricken
-10,Spell,Legendary,Angry Revive
-11,Creature,Legendary,Light Assassin Kraken of the Haven
-12,Spell,Common,Freeze
-13,Creature,Common,Dwarf
-14,Creature,Common,Ghoul
-15,Creature,Common,Spider
-16,Enchantment,Common,Drain
-17,Creature,Common,Ghoul
-18,Creature,Common,Dwarf
-19,Spell,Common,Stun
-20,Creature,Common,Goblin
-21,Creature,Mythic,Light Ancient Demon of the Sky
-22,Enchantment,Common,Haste
-23,Creature,Common,Warlock
-24,Artifact,Common,Gauntlet
-25,Artifact,Common,Shield
-26,Spell,Rare,Nature Fury
-27,Spell,Common,Reanimate
-28,Creature,Legendary,Death Warrior Orge of the Golden Palace
-29,Creature,Rare,Dark Merchant Minotaur
-30,Spell,Common,Ice
-31,Creature,Common,Warlock
-32,Enchantment,Legendary,Extreme Lethargy
-33,Artifact,Common,Helmet
-34,Artifact,Common,Scythe
-35,Creature,Mythic,Earth Time Dragon of the Shadows
-36,Creature,Common,Orc
-37,Creature,Common,Spider
-38,Artifact,Common,Tome
-39,Creature,Mythic,Earth Ancient Demon of the Shadows
-40,Spell,Common,Hypnosis
-41,Spell,Common,Maelstrom
-42,Creature,Rare,Death Rogue Minotaur
-43,Enchantment,Mythic,Potent Shade
-44,Spell,Common,Reanimate
+==================,DECK,7877
+0,Creature,Spider
+1,Creature,Eagle
+2,Creature,Paladin
+3,Artifact,Dire Oblivion Helm
+4,Creature,Troll
+5,Creature,Death Monk Kraken
+6,Creature,Ghoul
+7,Creature,Skin-Walker
+8,Spell,Shimmering Sorrow
+9,Spell,Hypnosis
+10,Spell,Urgent Gloom Gale
+11,Creature,Light Assassin Ogre of the Haven
+12,Spell,Hypnosis
+13,Creature,Magi
+14,Creature,Ghoul
+15,Creature,Paladin
+16,Enchantment,Blight
+17,Creature,Ghoul
+18,Creature,Magi
+19,Spell,Reanimate
+20,Creature,Skin-Walker
+21,Creature,Light Ancient Demon of the Sky
+22,Enchantment,Firebreath
+23,Creature,Berserker
+24,Artifact,Gauntlet
+25,Artifact,Shield
+26,Spell,Nature Fury
+27,Spell,Frost
+28,Creature,Death Warrior Elf of the Golden Palace
+29,Creature,Dark Merchant Cyclops
+30,Spell,Fireball
+31,Creature,Berserker
+32,Enchantment,Ardent Lunar Shield
+33,Artifact,Helmet
+34,Artifact,Scythe
+35,Creature,Earth Time Dragon of the Shadows
+36,Creature,Spider
+37,Creature,Paladin
+38,Artifact,Tome
+39,Creature,Earth Ancient Demon of the Shadows
+40,Spell,Rage
+41,Spell,Gravitation
+42,Creature,Death Rogue Cyclops
+43,Enchantment,Instant Frigid Drain
+44,Spell,Hypnosis

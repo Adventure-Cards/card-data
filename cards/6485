@@ -1,46 +1,46 @@
-==================,DECK,6485,Medium
-0,Creature,Common,Magi
-1,Spell,Rare,Nimble Invisibility
-2,Creature,Common,Ghoul
-3,Spell,Rare,Hateful Ice
-4,Enchantment,Common,Flight
-5,Spell,Common,Infuriate
-6,Enchantment,Legendary,Dire Agony
-7,Spell,Legendary,Angry Reanimate
-8,Creature,Rare,Frozen Undead Minotaur
-9,Spell,Common,Fury
-10,Creature,Common,Wolf
-11,Creature,Common,Elf
-12,Creature,Common,Dwarf
-13,Artifact,Common,Cloak
-14,Spell,Rare,Necro Infuriate
-15,Creature,Rare,Frozen Undead Griffin
-16,Creature,Common,Paladin
-17,Enchantment,Common,Agony
-18,Artifact,Common,Boots
-19,Enchantment,Mythic,Angry Deathgrip
-20,Artifact,Legendary,Urgent Sword
-21,Spell,Rare,Solar Heal
-22,Creature,Rare,Aura King Berserker
-23,Creature,Rare,Aura Thief Minotaur
-24,Spell,Rare,Cataclysmic Sorrow
-25,Artifact,Common,Greaves
-26,Spell,Rare,Cataclysmic Ice
-27,Enchantment,Rare,Lunar Drain
-28,Creature,Common,Warlock
-29,Creature,Common,Paladin
-30,Enchantment,Mythic,Intense Agony
-31,Creature,Common,Magi
-32,Spell,Common,Frost
-33,Creature,Common,Goblin
-34,Enchantment,Common,Blight
-35,Enchantment,Rare,Grim Shade
-36,Artifact,Rare,Nature Potion
-37,Enchantment,Mythic,Angry Age
-38,Spell,Common,Sorrow
-39,Creature,Rare,Death Assassin Skin-Walker
-40,Creature,Common,Dwarf
-41,Creature,Rare,Light Merchant Skin-Walker
-42,Artifact,Common,Helmet
-43,Creature,Common,Spider
-44,Enchantment,Mythic,Urgent Strength
+==================,DECK,6485
+0,Creature,Fairy
+1,Spell,Forged Rage
+2,Creature,Ghoul
+3,Spell,Dark Ice
+4,Enchantment,Deathgrip
+5,Spell,Gravitation
+6,Enchantment,Urgent Life Invert
+7,Spell,Mighty Dark Torment
+8,Creature,Frozen Undead Cyclops
+9,Spell,Gale
+10,Creature,Wolf
+11,Creature,Warlock
+12,Creature,Magi
+13,Artifact,Cloak
+14,Spell,Nature Heal
+15,Creature,Frozen Undead Griffin
+16,Creature,Troll
+17,Enchantment,Strength
+18,Artifact,Boots
+19,Enchantment,Clever Sorrow Shield
+20,Artifact,Instant Hateful Sword
+21,Spell,Solar Maelstrom
+22,Creature,Aura King Goblin
+23,Creature,Aura Thief Cyclops
+24,Spell,Miracle Ice
+25,Artifact,Greaves
+26,Spell,Gloom Gale
+27,Enchantment,Dark Shield
+28,Creature,Berserker
+29,Creature,Troll
+30,Enchantment,Urgent Corpse Agony
+31,Creature,Fairy
+32,Spell,Frost
+33,Creature,Skin-Walker
+34,Enchantment,Deathgrip
+35,Enchantment,Frigid Invert
+36,Artifact,Shimmering Potion
+37,Enchantment,Potent Gloom Shrink
+38,Spell,Torment
+39,Creature,Death Assassin Orc
+40,Creature,Magi
+41,Creature,Light Merchant Orc
+42,Artifact,Helmet
+43,Creature,Paladin
+44,Enchantment,Ardent Solar Lethargy

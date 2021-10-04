@@ -1,46 +1,46 @@
-==================,DECK,5063,Light
-0,Creature,Common,Orc
-1,Enchantment,Common,Lethargy
-2,Creature,Rare,Earth King Griffin
-3,Creature,Common,Goblin
-4,Enchantment,Common,Drain
-5,Creature,Common,Eagle
-6,Enchantment,Common,Strength
-7,Creature,Rare,Earth Thief Griffin
-8,Creature,Common,Wolf
-9,Creature,Rare,Death Warrior Berserker
-10,Creature,Common,Magi
-11,Enchantment,Mythic,Potent Blight
-12,Creature,Common,Magi
-13,Enchantment,Common,Deathgrip
-14,Enchantment,Common,Drain
-15,Creature,Common,Magi
-16,Creature,Common,Goblin
-17,Creature,Rare,Aura Undead Skin-Walker
-18,Creature,Legendary,Earth Warrior Orge of the Black Stone
-19,Artifact,Common,Divine Robe
-20,Creature,Common,Dwarf
-21,Spell,Common,Burst
-22,Creature,Common,Orc
-23,Creature,Rare,Snow King Griffin
-24,Enchantment,Rare,Oblivion Shield
-25,Creature,Common,Goblin
-26,Enchantment,Common,Shade
-27,Creature,Common,Eagle
-28,Enchantment,Common,Flight
-29,Enchantment,Legendary,Intense Shield
-30,Enchantment,Legendary,Dire Shield
-31,Creature,Rare,Dark Queen Griffin
-32,Spell,Rare,Hateful Infuriate
-33,Creature,Common,Goblin
-34,Artifact,Common,Gloves
-35,Creature,Common,Eagle
-36,Spell,Rare,Shimmering Fury
-37,Enchantment,Rare,Forged Lethargy
-38,Spell,Common,Hypnosis
-39,Artifact,Common,Tome
-40,Creature,Common,Eagle
-41,Creature,Common,Paladin
-42,Enchantment,Common,Flight
-43,Spell,Rare,Cataclysmic Sorrow
-44,Creature,Common,Elf
+==================,DECK,5063
+0,Creature,Spider
+1,Enchantment,Age
+2,Creature,Earth King Griffin
+3,Creature,Skin-Walker
+4,Enchantment,Invert
+5,Creature,Eagle
+6,Enchantment,Shrink
+7,Creature,Earth Thief Griffin
+8,Creature,Wolf
+9,Creature,Death Warrior Goblin
+10,Creature,Fairy
+11,Enchantment,Empyrean Nimble Shade
+12,Creature,Fairy
+13,Enchantment,Drain
+14,Enchantment,Haste
+15,Creature,Fairy
+16,Creature,Skin-Walker
+17,Creature,Aura Undead Orc
+18,Creature,Earth Warrior Elf of the Black Stone
+19,Artifact,Divine Robe
+20,Creature,Magi
+21,Spell,Revive
+22,Creature,Spider
+23,Creature,Snow King Griffin
+24,Enchantment,Victory Drain
+25,Creature,Skin-Walker
+26,Enchantment,Strength
+27,Creature,Eagle
+28,Enchantment,Blight
+29,Enchantment,Instant Nature Strength
+30,Enchantment,Irate Victory Blight
+31,Creature,Dark Queen Griffin
+32,Spell,Gloom Maelstrom
+33,Creature,Skin-Walker
+34,Artifact,Gloves
+35,Creature,Eagle
+36,Spell,Hateful Maelstrom
+37,Enchantment,Lunar Shield
+38,Spell,Frost
+39,Artifact,Tome
+40,Creature,Eagle
+41,Creature,Troll
+42,Enchantment,Shade
+43,Spell,Sorrow Torment
+44,Creature,Warlock

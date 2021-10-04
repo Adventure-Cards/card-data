@@ -1,46 +1,46 @@
-==================,DECK,4287,Light
-0,Spell,Rare,Frigid Invisibility
-1,Spell,Common,Gale
-2,Enchantment,Common,Blight
-3,Creature,Common,Wolf
-4,Creature,Common,Warlock
-5,Creature,Rare,Earth Lord Minotaur
-6,Spell,Rare,Life Infuriate
-7,Creature,Common,Elf
-8,Creature,Common,Magi
-9,Enchantment,Common,Invert
-10,Creature,Rare,Snow Warrior Minotaur
-11,Artifact,Common,Helm
-12,Artifact,Common,Amulet
-13,Enchantment,Common,Lethargy
-14,Artifact,Rare,Lunar Boots
-15,Enchantment,Rare,Solar Lethargy
-16,Enchantment,Common,Drain
-17,Creature,Common,Goblin
-18,Enchantment,Common,Agony
-19,Spell,Common,Gale
-20,Spell,Common,Burst
-21,Spell,Legendary,Potent Torment
-22,Spell,Common,Torment
-23,Enchantment,Common,Shade
-24,Artifact,Common,Greaves
-25,Creature,Common,Dwarf
-26,Artifact,Common,Pendant
-27,Creature,Rare,Frozen King Hydra
-28,Creature,Rare,Aura Undead Fairy
-29,Creature,Common,Warlock
-30,Creature,Rare,Frozen Rogue Hydra
-31,Spell,Common,Rage
-32,Enchantment,Common,Drain
-33,Creature,Legendary,Earth Monk Orge of the Mountains
-34,Creature,Common,Paladin
-35,Spell,Common,Stun
-36,Spell,Common,Maelstrom
-37,Creature,Rare,Dark Rogue Berserker
-38,Creature,Common,Goblin
-39,Creature,Common,Goblin
-40,Enchantment,Common,Invert
-41,Enchantment,Common,Strength
-42,Artifact,Common,Shield
-43,Artifact,Common,Ring
-44,Creature,Common,Wolf
+==================,DECK,4287
+0,Spell,Grim Rage
+1,Spell,Sorrow
+2,Enchantment,Agony
+3,Creature,Wolf
+4,Creature,Berserker
+5,Creature,Earth Lord Cyclops
+6,Spell,Frigid Stricken
+7,Creature,Warlock
+8,Creature,Fairy
+9,Enchantment,Drain
+10,Creature,Snow Warrior Cyclops
+11,Artifact,Helm
+12,Artifact,Amulet
+13,Enchantment,Firebreath
+14,Artifact,Cataclysmic Boots
+15,Enchantment,Hateful Agony
+16,Enchantment,Age
+17,Creature,Skin-Walker
+18,Enchantment,Firebreath
+19,Spell,Tempest
+20,Spell,Frost
+21,Spell,Instant Grim Fireball
+22,Spell,Hypnosis
+23,Enchantment,Flight
+24,Artifact,Greaves
+25,Creature,Magi
+26,Artifact,Pendant
+27,Creature,Frozen King Hydra
+28,Creature,Aura Undead Kraken
+29,Creature,Berserker
+30,Creature,Frozen Rogue Hydra
+31,Spell,Gravitation
+32,Enchantment,Haste
+33,Creature,Earth Monk Elf of the Mountains
+34,Creature,Troll
+35,Spell,Vortex
+36,Spell,Maelstrom
+37,Creature,Dark Rogue Goblin
+38,Creature,Skin-Walker
+39,Creature,Skin-Walker
+40,Enchantment,Deathgrip
+41,Enchantment,Age
+42,Artifact,Shield
+43,Artifact,Ring
+44,Creature,Wolf

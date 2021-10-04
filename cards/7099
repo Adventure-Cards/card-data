@@ -1,46 +1,46 @@
-==================,DECK,7099,Medium
-0,Creature,Rare,Aura Monk Griffin
-1,Creature,Legendary,Frozen Undead Giant of the Haven
-2,Spell,Common,Maelstrom
-3,Spell,Rare,Lunar Pandemonium
-4,Creature,Common,Warlock
-5,Creature,Common,Ghoul
-6,Artifact,Common,Scepter
-7,Creature,Common,Wolf
-8,Creature,Rare,Snow Knight Berserker
-9,Artifact,Rare,Gloom Bracers
-10,Creature,Rare,Frozen King Hydra
-11,Creature,Rare,Dark Rogue Skin-Walker
-12,Enchantment,Common,Invert
-13,Artifact,Common,Bow
-14,Spell,Legendary,Extreme Sorrow
-15,Creature,Common,Elf
-16,Spell,Common,Revive
-17,Enchantment,Rare,Cataclysmic Blight
-18,Enchantment,Common,Flight
-19,Creature,Common,Eagle
-20,Enchantment,Common,Haste
-21,Creature,Rare,Earth Monk Berserker
-22,Creature,Rare,Dark Fighter Hydra
-23,Creature,Common,Dwarf
-24,Spell,Common,Assault
-25,Spell,Common,Hypnosis
-26,Enchantment,Common,Alacrity
-27,Creature,Common,Goblin
-28,Spell,Rare,Shimmering Maelstrom
-29,Creature,Common,Paladin
-30,Spell,Rare,Miracle Maelstrom
-31,Artifact,Common,Scythe
-32,Creature,Common,Wolf
-33,Creature,Common,Elf
-34,Enchantment,Common,Haste
-35,Spell,Common,Wall
-36,Creature,Legendary,Earth Assassin Kraken of the Swamp
-37,Creature,Common,Eagle
-38,Creature,Mythic,Snow Undead Phoenix of Hate
-39,Creature,Rare,Aura Fighter Minotaur
-40,Spell,Common,Lightning
-41,Spell,Rare,Dark Vortex
-42,Spell,Legendary,Urgent Infuriate
-43,Enchantment,Rare,Hateful Shrink
-44,Enchantment,Rare,Forged Agony
+==================,DECK,7099
+0,Creature,Aura Monk Griffin
+1,Creature,Frozen Undead Dwarf of the Haven
+2,Spell,Freeze
+3,Spell,Gloom Infuriate
+4,Creature,Berserker
+5,Creature,Ghoul
+6,Artifact,Scepter
+7,Creature,Wolf
+8,Creature,Snow Knight Goblin
+9,Artifact,Dark Bracers
+10,Creature,Frozen King Hydra
+11,Creature,Dark Rogue Orc
+12,Enchantment,Blight
+13,Artifact,Bow
+14,Spell,Empyrean Lunar Burn
+15,Creature,Warlock
+16,Spell,Frost
+17,Enchantment,Cataclysmic Shield
+18,Enchantment,Flight
+19,Creature,Eagle
+20,Enchantment,Shield
+21,Creature,Earth Monk Goblin
+22,Creature,Dark Fighter Hydra
+23,Creature,Magi
+24,Spell,Tempest
+25,Spell,Sorrow
+26,Enchantment,Deathgrip
+27,Creature,Skin-Walker
+28,Spell,Hateful Reanimate
+29,Creature,Troll
+30,Spell,Life Fireball
+31,Artifact,Scythe
+32,Creature,Wolf
+33,Creature,Warlock
+34,Enchantment,Age
+35,Spell,Ice
+36,Creature,Earth Assassin Ogre of the Swamp
+37,Creature,Eagle
+38,Creature,Snow Undead Phoenix of Hate
+39,Creature,Aura Fighter Cyclops
+40,Spell,Assault
+41,Spell,Dark Assault
+42,Spell,Mighty Shimmering Assault
+43,Enchantment,Chimeric Flight
+44,Enchantment,Miracle Firebreath

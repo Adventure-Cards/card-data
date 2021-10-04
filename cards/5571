@@ -1,46 +1,46 @@
-==================,DECK,5571,Light
-0,Creature,Common,Warlock
-1,Creature,Rare,Aura Warrior Minotaur
-2,Creature,Common,Elf
-3,Creature,Common,Warlock
-4,Enchantment,Mythic,Urgent Haste
-5,Enchantment,Mythic,Intense Flight
-6,Creature,Legendary,Snow Knight Giant of the Black Stone
-7,Artifact,Common,Ring
-8,Enchantment,Legendary,Extreme Age
-9,Spell,Common,Wall
-10,Spell,Common,Invisibility
-11,Creature,Common,Magi
-12,Creature,Rare,Death Knight Minotaur
-13,Creature,Common,Magi
-14,Creature,Common,Eagle
-15,Spell,Common,Pandemonium
-16,Creature,Legendary,Death King Orge of the Magical Forest
-17,Enchantment,Common,Blight
-18,Artifact,Rare,Apocalypse Bow
-19,Enchantment,Common,Age
-20,Artifact,Common,Boots
-21,Spell,Common,Infuriate
-22,Creature,Common,Magi
-23,Creature,Rare,Aura Lord Minotaur
-24,Artifact,Common,Ring
-25,Creature,Legendary,Earth Rogue Cyclops of the Low Hills
-26,Enchantment,Common,Alacrity
-27,Enchantment,Common,Strength
-28,Enchantment,Common,Lethargy
-29,Creature,Rare,Earth Priest Skin-Walker
-30,Creature,Common,Orc
-31,Spell,Common,Wall
-32,Artifact,Common,Bracers
-33,Creature,Common,Orc
-34,Enchantment,Common,Deathgrip
-35,Enchantment,Rare,Solar Shield
-36,Spell,Common,Infuriate
-37,Artifact,Rare,Corpse Potion
-38,Artifact,Common,Ring
-39,Creature,Rare,Aura Undead Skin-Walker
-40,Artifact,Common,Ring
-41,Creature,Rare,Snow Monk Hydra
-42,Creature,Common,Spider
-43,Spell,Common,Assault
-44,Creature,Common,Eagle
+==================,DECK,5571
+0,Creature,Berserker
+1,Creature,Aura Warrior Cyclops
+2,Creature,Warlock
+3,Creature,Berserker
+4,Enchantment,Mighty Corpse Agony
+5,Enchantment,Empyrean Hateful Age
+6,Creature,Snow Knight Dwarf of the Black Stone
+7,Artifact,Ring
+8,Enchantment,Potent Gloom Shrink
+9,Spell,Stun
+10,Spell,Fire
+11,Creature,Fairy
+12,Creature,Death Knight Cyclops
+13,Creature,Fairy
+14,Creature,Eagle
+15,Spell,Ice
+16,Creature,Death King Elf of the Magical Forest
+17,Enchantment,Shrink
+18,Artifact,Grim Bow
+19,Enchantment,Lethargy
+20,Artifact,Boots
+21,Spell,Pandemonium
+22,Creature,Fairy
+23,Creature,Aura Lord Cyclops
+24,Artifact,Ring
+25,Creature,Earth Rogue Giant of the Low Hills
+26,Enchantment,Shield
+27,Enchantment,Lethargy
+28,Enchantment,Firebreath
+29,Creature,Earth Priest Orc
+30,Creature,Spider
+31,Spell,Hypnosis
+32,Artifact,Bracers
+33,Creature,Spider
+34,Enchantment,Shade
+35,Enchantment,Nature Lethargy
+36,Spell,Gale
+37,Artifact,Nature Potion
+38,Artifact,Ring
+39,Creature,Aura Undead Orc
+40,Artifact,Ring
+41,Creature,Snow Monk Hydra
+42,Creature,Paladin
+43,Spell,Gale
+44,Creature,Eagle

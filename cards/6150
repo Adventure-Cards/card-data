@@ -1,46 +1,46 @@
-==================,DECK,6150,Light
-0,Creature,Common,Dwarf
-1,Artifact,Common,Bow
-2,Creature,Common,Warlock
-3,Artifact,Common,Greaves
-4,Creature,Common,Goblin
-5,Spell,Common,Infuriate
-6,Artifact,Common,Greaves
-7,Spell,Legendary,Angry Wall
-8,Enchantment,Common,Lethargy
-9,Spell,Rare,Dark Revive
-10,Spell,Rare,Miracle Burn
-11,Enchantment,Rare,Forged Agony
-12,Enchantment,Common,Flight
-13,Creature,Rare,Death Warrior Skin-Walker
-14,Enchantment,Common,Strength
-15,Creature,Rare,Dark Assassin Skin-Walker
-16,Artifact,Common,Bracers
-17,Creature,Common,Goblin
-18,Enchantment,Common,Alacrity
-19,Creature,Rare,Aura Rogue Griffin
-20,Enchantment,Common,Flight
-21,Creature,Legendary,Earth Thief Kraken of the Black Stone
-22,Spell,Common,Torment
-23,Creature,Common,Warlock
-24,Spell,Legendary,Extreme Burst
-25,Enchantment,Common,Alacrity
-26,Creature,Common,Warlock
-27,Enchantment,Rare,Oblivion Alacrity
-28,Artifact,Common,Crown
-29,Spell,Common,Pandemonium
-30,Enchantment,Common,Shade
-31,Creature,Legendary,Death Assassin Cyclops of the Magical Forest
-32,Artifact,Common,Sword
-33,Creature,Common,Elf
-34,Creature,Rare,Earth Merchant Fairy
-35,Creature,Legendary,Frozen Fighter Giant of the Plains
-36,Enchantment,Common,Drain
-37,Enchantment,Common,Age
-38,Artifact,Common,Sigil
-39,Creature,Mythic,Light Grand Demon of the Sky
-40,Creature,Rare,Snow Lord Hydra
-41,Creature,Rare,Frozen Lord Hydra
-42,Creature,Common,Elf
-43,Enchantment,Common,Strength
-44,Creature,Common,Goblin
+==================,DECK,6150
+0,Creature,Magi
+1,Artifact,Bow
+2,Creature,Berserker
+3,Artifact,Greaves
+4,Creature,Skin-Walker
+5,Spell,Sorrow
+6,Artifact,Greaves
+7,Spell,Urgent Lunar Freeze
+8,Enchantment,Lethargy
+9,Spell,Gloom Heal
+10,Spell,Apocalypse Stricken
+11,Enchantment,Miracle Flight
+12,Enchantment,Deathgrip
+13,Creature,Death Warrior Orc
+14,Enchantment,Alacrity
+15,Creature,Dark Assassin Orc
+16,Artifact,Bracers
+17,Creature,Skin-Walker
+18,Enchantment,Strength
+19,Creature,Aura Rogue Griffin
+20,Enchantment,Agony
+21,Creature,Earth Thief Ogre of the Black Stone
+22,Spell,Frenzy
+23,Creature,Berserker
+24,Spell,Clever Cataclysmic Invisibility
+25,Enchantment,Drain
+26,Creature,Berserker
+27,Enchantment,Apocalypse Drain
+28,Artifact,Crown
+29,Spell,Gravitation
+30,Enchantment,Drain
+31,Creature,Death Assassin Giant of the Magical Forest
+32,Artifact,Sword
+33,Creature,Warlock
+34,Creature,Earth Merchant Kraken
+35,Creature,Frozen Fighter Dwarf of the Plains
+36,Enchantment,Drain
+37,Enchantment,Lethargy
+38,Artifact,Sigil
+39,Creature,Light Grand Demon of the Sky
+40,Creature,Snow Lord Hydra
+41,Creature,Frozen Lord Hydra
+42,Creature,Warlock
+43,Enchantment,Firebreath
+44,Creature,Skin-Walker

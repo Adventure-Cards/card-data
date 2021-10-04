@@ -1,46 +1,46 @@
-==================,DECK,5422,Medium
-0,Enchantment,Common,Shade
-1,Creature,Common,Wolf
-2,Creature,Rare,Dark Priest Minotaur
-3,Artifact,Rare,Nature Crown
-4,Artifact,Common,Helmet
-5,Enchantment,Common,Shrink
-6,Spell,Common,Vortex
-7,Enchantment,Common,Invert
-8,Enchantment,Common,Age
-9,Creature,Common,Wolf
-10,Enchantment,Rare,Cataclysmic Flight
-11,Spell,Common,Sorrow
-12,Creature,Common,Magi
-13,Enchantment,Common,Shade
-14,Creature,Common,Warlock
-15,Spell,Common,Gale
-16,Creature,Rare,Aura Thief Fairy
-17,Creature,Common,Elf
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Eagle
-20,Creature,Mythic,Aura Nameless Phoenix of the Light
-21,Spell,Common,Invisibility
-22,Creature,Rare,Light Lord Hydra
-23,Creature,Rare,Frozen Priest Hydra
-24,Enchantment,Common,Flight
-25,Spell,Common,Freeze
-26,Creature,Rare,Aura Rogue Hydra
-27,Creature,Rare,Frozen Fighter Minotaur
-28,Creature,Rare,Death Merchant Hydra
-29,Spell,Common,Gravitation
-30,Spell,Mythic,Intense Hypnosis
-31,Enchantment,Common,Strength
-32,Creature,Common,Magi
-33,Enchantment,Rare,Nature Flight
-34,Creature,Common,Paladin
-35,Creature,Mythic,Light Nameless Dragon of the Sky
-36,Artifact,Common,Scepter
-37,Creature,Rare,Death Monk Berserker
-38,Artifact,Legendary,Intense Gauntlet
-39,Enchantment,Legendary,Angry Drain
-40,Creature,Rare,Light Lord Minotaur
-41,Creature,Common,Dwarf
-42,Spell,Common,Stricken
-43,Spell,Common,Rage
-44,Artifact,Rare,Nature Cloak
+==================,DECK,5422
+0,Enchantment,Shade
+1,Creature,Wolf
+2,Creature,Dark Priest Cyclops
+3,Artifact,Nature Crown
+4,Artifact,Helmet
+5,Enchantment,Haste
+6,Spell,Gravitation
+7,Enchantment,Alacrity
+8,Enchantment,Agony
+9,Creature,Wolf
+10,Enchantment,Lunar Firebreath
+11,Spell,Gale
+12,Creature,Fairy
+13,Enchantment,Haste
+14,Creature,Berserker
+15,Spell,Frenzy
+16,Creature,Aura Thief Kraken
+17,Creature,Warlock
+18,Enchantment,Shade
+19,Creature,Eagle
+20,Creature,Aura Nameless Phoenix of the Light
+21,Spell,Burst
+22,Creature,Light Lord Hydra
+23,Creature,Frozen Priest Hydra
+24,Enchantment,Invert
+25,Spell,Assault
+26,Creature,Aura Rogue Hydra
+27,Creature,Frozen Fighter Cyclops
+28,Creature,Death Merchant Hydra
+29,Spell,Freeze
+30,Spell,Potent Shimmering Burst
+31,Enchantment,Haste
+32,Creature,Fairy
+33,Enchantment,Hateful Age
+34,Creature,Troll
+35,Creature,Light Nameless Dragon of the Sky
+36,Artifact,Scepter
+37,Creature,Death Monk Goblin
+38,Artifact,Ardent Necro Gauntlet
+39,Enchantment,Mighty Dark Flight
+40,Creature,Light Lord Cyclops
+41,Creature,Magi
+42,Spell,Infuriate
+43,Spell,Fire
+44,Artifact,Nature Cloak

@@ -1,46 +1,46 @@
-==================,DECK,4763,Light
-0,Creature,Common,Paladin
-1,Enchantment,Common,Agony
-2,Spell,Rare,Necro Reanimate
-3,Spell,Rare,Nature Fury
-4,Creature,Common,Eagle
-5,Spell,Rare,Cataclysmic Maelstrom
-6,Creature,Common,Elf
-7,Creature,Common,Ghoul
-8,Creature,Legendary,Death Undead Giant of the Swamp
-9,Creature,Rare,Snow Monk Minotaur
-10,Creature,Rare,Death Assassin Hydra
-11,Creature,Common,Goblin
-12,Spell,Common,Frost
-13,Artifact,Common,Cloak
-14,Enchantment,Mythic,Mighty Flight
-15,Enchantment,Common,Shade
-16,Creature,Common,Ghoul
-17,Creature,Mythic,Earth Undead Dragon of the Shadows
-18,Enchantment,Common,Invert
-19,Artifact,Rare,Corpse Gauntlet
-20,Enchantment,Common,Age
-21,Enchantment,Common,Haste
-22,Creature,Common,Elf
-23,Enchantment,Common,Shade
-24,Creature,Common,Spider
-25,Creature,Common,Spider
-26,Creature,Common,Warlock
-27,Creature,Common,Paladin
-28,Spell,Common,Burst
-29,Creature,Common,Orc
-30,Creature,Common,Wolf
-31,Spell,Common,Torment
-32,Enchantment,Common,Alacrity
-33,Creature,Legendary,Death King Cyclops of the Polar Woods
-34,Creature,Rare,Earth Knight Minotaur
-35,Spell,Rare,Corpse Revive
-36,Creature,Common,Warlock
-37,Creature,Rare,Snow King Hydra
-38,Enchantment,Common,Haste
-39,Spell,Common,Vortex
-40,Artifact,Rare,Apocalypse Shield
-41,Creature,Common,Ghoul
-42,Creature,Common,Elf
-43,Spell,Legendary,Angry Ice
-44,Creature,Rare,Light King Minotaur
+==================,DECK,4763
+0,Creature,Troll
+1,Enchantment,Drain
+2,Spell,Nature Fury
+3,Spell,Shimmering Frost
+4,Creature,Eagle
+5,Spell,Cataclysmic Vortex
+6,Creature,Warlock
+7,Creature,Ghoul
+8,Creature,Death Undead Dwarf of the Swamp
+9,Creature,Snow Monk Cyclops
+10,Creature,Death Assassin Hydra
+11,Creature,Skin-Walker
+12,Spell,Heal
+13,Artifact,Cloak
+14,Enchantment,Empyrean Lunar Firebreath
+15,Enchantment,Deathgrip
+16,Creature,Ghoul
+17,Creature,Earth Undead Dragon of the Shadows
+18,Enchantment,Flight
+19,Artifact,Nature Gauntlet
+20,Enchantment,Flight
+21,Enchantment,Firebreath
+22,Creature,Warlock
+23,Enchantment,Haste
+24,Creature,Paladin
+25,Creature,Paladin
+26,Creature,Berserker
+27,Creature,Troll
+28,Spell,Gravitation
+29,Creature,Spider
+30,Creature,Wolf
+31,Spell,Wall
+32,Enchantment,Age
+33,Creature,Death King Giant of the Polar Woods
+34,Creature,Earth Knight Cyclops
+35,Spell,Necro Frost
+36,Creature,Berserker
+37,Creature,Snow King Hydra
+38,Enchantment,Invert
+39,Spell,Wall
+40,Artifact,Grim Shield
+41,Creature,Ghoul
+42,Creature,Warlock
+43,Spell,Empyrean Chimeric Lightning
+44,Creature,Light King Cyclops

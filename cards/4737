@@ -1,46 +1,46 @@
-==================,DECK,4737,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Elf
-2,Creature,Common,Magi
-3,Enchantment,Common,Shield
-4,Spell,Common,Hypnosis
-5,Creature,Legendary,Snow Lord Cyclops of the Polar Woods
-6,Enchantment,Common,Agony
-7,Creature,Common,Wolf
-8,Creature,Common,Wolf
-9,Enchantment,Rare,Nature Age
-10,Enchantment,Common,Shade
-11,Creature,Common,Spider
-12,Spell,Rare,Dark Rage
-13,Creature,Common,Magi
-14,Creature,Rare,Death Queen Skin-Walker
-15,Creature,Common,Wolf
-16,Artifact,Common,Divine Robe
-17,Creature,Common,Spider
-18,Spell,Common,Assault
-19,Creature,Rare,Frozen Monk Fairy
-20,Spell,Common,Maelstrom
-21,Creature,Common,Warlock
-22,Artifact,Common,Greaves
-23,Creature,Common,Magi
-24,Creature,Common,Goblin
-25,Creature,Rare,Aura Priest Berserker
-26,Creature,Common,Eagle
-27,Creature,Common,Ghoul
-28,Creature,Common,Elf
-29,Creature,Common,Eagle
-30,Creature,Common,Paladin
-31,Spell,Common,Rage
-32,Artifact,Common,Ring
-33,Creature,Rare,Light Knight Fairy
-34,Creature,Common,Orc
-35,Spell,Legendary,Angry Burst
-36,Artifact,Common,Scythe
-37,Creature,Rare,Snow Monk Hydra
-38,Creature,Rare,Aura Knight Griffin
-39,Artifact,Rare,Dark Potion
-40,Enchantment,Legendary,Mighty Flight
-41,Creature,Common,Dwarf
-42,Spell,Common,Invisibility
-43,Enchantment,Common,Strength
-44,Enchantment,Common,Invert
+==================,DECK,4737
+0,Creature,Berserker
+1,Creature,Warlock
+2,Creature,Fairy
+3,Enchantment,Blight
+4,Spell,Lightning
+5,Creature,Snow Lord Giant of the Polar Woods
+6,Enchantment,Shrink
+7,Creature,Wolf
+8,Creature,Wolf
+9,Enchantment,Nature Lethargy
+10,Enchantment,Alacrity
+11,Creature,Paladin
+12,Spell,Dark Burn
+13,Creature,Fairy
+14,Creature,Death Queen Orc
+15,Creature,Wolf
+16,Artifact,Divine Robe
+17,Creature,Paladin
+18,Spell,Rage
+19,Creature,Frozen Monk Kraken
+20,Spell,Frost
+21,Creature,Berserker
+22,Artifact,Greaves
+23,Creature,Fairy
+24,Creature,Skin-Walker
+25,Creature,Aura Priest Goblin
+26,Creature,Eagle
+27,Creature,Ghoul
+28,Creature,Warlock
+29,Creature,Eagle
+30,Creature,Troll
+31,Spell,Rage
+32,Artifact,Ring
+33,Creature,Light Knight Kraken
+34,Creature,Spider
+35,Spell,Zealous Lunar Gale
+36,Artifact,Scythe
+37,Creature,Snow Monk Hydra
+38,Creature,Aura Knight Griffin
+39,Artifact,Sorrow Potion
+40,Enchantment,Zealous Lunar Alacrity
+41,Creature,Magi
+42,Spell,Vortex
+43,Enchantment,Blight
+44,Enchantment,Lethargy

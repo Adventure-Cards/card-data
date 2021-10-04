@@ -1,46 +1,46 @@
-==================,DECK,5480,Medium
-0,Creature,Common,Warlock
-1,Creature,Common,Spider
-2,Creature,Mythic,Aura Ancient Demon of the Light
-3,Artifact,Rare,Grim Gloves
-4,Enchantment,Mythic,Potent Shield
-5,Enchantment,Legendary,Dire Shrink
-6,Creature,Rare,Death Knight Berserker
-7,Spell,Common,Infuriate
-8,Creature,Common,Spider
-9,Creature,Common,Eagle
-10,Spell,Rare,Grim Torment
-11,Artifact,Common,Pendant
-12,Artifact,Common,Pendant
-13,Creature,Mythic,Dark Chaos Wizard of Illusion
-14,Creature,Legendary,Snow Fighter Kraken of the Haven
-15,Creature,Common,Warlock
-16,Enchantment,Mythic,Intense Blight
-17,Artifact,Common,Shield
-18,Creature,Common,Dwarf
-19,Creature,Legendary,Dark Queen Orge of the Frozen Castle
-20,Spell,Common,Gravitation
-21,Creature,Common,Eagle
-22,Artifact,Common,Helmet
-23,Creature,Common,Eagle
-24,Enchantment,Common,Blight
-25,Artifact,Rare,Miracle Gloves
-26,Enchantment,Common,Shrink
-27,Creature,Common,Warlock
-28,Creature,Common,Elf
-29,Creature,Rare,Earth Queen Hydra
-30,Spell,Common,Rage
-31,Creature,Rare,Earth Assassin Griffin
-32,Enchantment,Mythic,Angry Age
-33,Creature,Legendary,Light Rogue Giant of the Swamp
-34,Enchantment,Rare,Solar Strength
-35,Creature,Rare,Frozen Priest Skin-Walker
-36,Artifact,Rare,Necro Ring
-37,Creature,Rare,Frozen Thief Fairy
-38,Spell,Mythic,Potent Sorrow
-39,Creature,Common,Elf
-40,Enchantment,Common,Age
-41,Creature,Common,Wolf
-42,Artifact,Common,Divine Robe
-43,Spell,Rare,Lunar Fury
-44,Enchantment,Rare,Grim Lethargy
+==================,DECK,5480
+0,Creature,Berserker
+1,Creature,Paladin
+2,Creature,Aura Ancient Demon of the Light
+3,Artifact,Apocalypse Gloves
+4,Enchantment,Irate Victory Blight
+5,Enchantment,Mighty Frigid Invert
+6,Creature,Death Knight Goblin
+7,Spell,Frost
+8,Creature,Paladin
+9,Creature,Eagle
+10,Spell,Oblivion Tempest
+11,Artifact,Pendant
+12,Artifact,Pendant
+13,Creature,Dark Chaos Wizard of Illusion
+14,Creature,Snow Fighter Ogre of the Haven
+15,Creature,Berserker
+16,Enchantment,Mighty Solar Agony
+17,Artifact,Shield
+18,Creature,Magi
+19,Creature,Dark Queen Elf of the Frozen Castle
+20,Spell,Reanimate
+21,Creature,Eagle
+22,Artifact,Helmet
+23,Creature,Eagle
+24,Enchantment,Shield
+25,Artifact,Victory Gloves
+26,Enchantment,Haste
+27,Creature,Berserker
+28,Creature,Warlock
+29,Creature,Earth Queen Hydra
+30,Spell,Gravitation
+31,Creature,Earth Assassin Griffin
+32,Enchantment,Zealous Gloom Alacrity
+33,Creature,Light Rogue Dwarf of the Swamp
+34,Enchantment,Solar Strength
+35,Creature,Frozen Priest Orc
+36,Artifact,Corpse Ring
+37,Creature,Frozen Thief Kraken
+38,Spell,Zealous Grim Sorrow
+39,Creature,Warlock
+40,Enchantment,Invert
+41,Creature,Wolf
+42,Artifact,Divine Robe
+43,Spell,Chimeric Tempest
+44,Enchantment,Grim Invert

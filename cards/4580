@@ -1,46 +1,46 @@
-==================,DECK,4580,Light
-0,Spell,Common,Reanimate
-1,Creature,Common,Magi
-2,Spell,Common,Revive
-3,Spell,Common,Gravitation
-4,Spell,Common,Invisibility
-5,Enchantment,Rare,Apocalypse Drain
-6,Creature,Common,Magi
-7,Creature,Rare,Earth Fighter Griffin
-8,Spell,Common,Sorrow
-9,Spell,Common,Gale
-10,Enchantment,Common,Blight
-11,Creature,Common,Ghoul
-12,Creature,Common,Wolf
-13,Artifact,Common,Helmet
-14,Spell,Common,Vortex
-15,Enchantment,Rare,Nature Age
-16,Creature,Legendary,Frozen Thief Orge of the Haven
-17,Spell,Legendary,Clever Revive
-18,Creature,Rare,Dark Assassin Berserker
-19,Enchantment,Common,Shield
-20,Creature,Common,Dwarf
-21,Spell,Common,Ice
-22,Creature,Rare,Frozen Merchant Fairy
-23,Spell,Rare,Lunar Fury
-24,Enchantment,Common,Shield
-25,Creature,Legendary,Aura Merchant Cyclops of the Haven
-26,Artifact,Common,Pendant
-27,Artifact,Rare,Oblivion Scythe
-28,Spell,Common,Assault
-29,Artifact,Rare,Hateful Bracers
-30,Creature,Common,Wolf
-31,Enchantment,Mythic,Potent Alacrity
-32,Creature,Rare,Dark Queen Skin-Walker
-33,Creature,Common,Dwarf
-34,Spell,Common,Frost
-35,Spell,Common,Fury
-36,Creature,Common,Ghoul
-37,Creature,Common,Warlock
-38,Creature,Legendary,Death Fighter Giant of the West
-39,Enchantment,Common,Shade
-40,Creature,Common,Goblin
-41,Spell,Legendary,Dire Burst
-42,Creature,Common,Magi
-43,Creature,Common,Eagle
-44,Artifact,Rare,Miracle Crown
+==================,DECK,4580
+0,Spell,Fire
+1,Creature,Fairy
+2,Spell,Frost
+3,Spell,Hypnosis
+4,Spell,Wall
+5,Enchantment,Apocalypse Blight
+6,Creature,Fairy
+7,Creature,Earth Fighter Griffin
+8,Spell,Infuriate
+9,Spell,Stricken
+10,Enchantment,Strength
+11,Creature,Ghoul
+12,Creature,Wolf
+13,Artifact,Helmet
+14,Spell,Revive
+15,Enchantment,Nature Age
+16,Creature,Frozen Thief Elf of the Haven
+17,Spell,Dire Victory Vortex
+18,Creature,Dark Assassin Goblin
+19,Enchantment,Invert
+20,Creature,Magi
+21,Spell,Fury
+22,Creature,Frozen Merchant Kraken
+23,Spell,Sorrow Rage
+24,Enchantment,Lethargy
+25,Creature,Aura Merchant Giant of the Haven
+26,Artifact,Pendant
+27,Artifact,Apocalypse Scythe
+28,Spell,Stun
+29,Artifact,Miracle Bracers
+30,Creature,Wolf
+31,Enchantment,Irate Apocalypse Blight
+32,Creature,Dark Queen Orc
+33,Creature,Magi
+34,Spell,Lightning
+35,Spell,Burst
+36,Creature,Ghoul
+37,Creature,Berserker
+38,Creature,Death Fighter Dwarf of the West
+39,Enchantment,Shrink
+40,Creature,Skin-Walker
+41,Spell,Zealous Victory Stun
+42,Creature,Fairy
+43,Creature,Eagle
+44,Artifact,Life Crown

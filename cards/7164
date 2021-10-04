@@ -1,46 +1,46 @@
-==================,DECK,7164,Medium
-0,Creature,Common,Warlock
-1,Spell,Common,Ice
-2,Creature,Rare,Dark Thief Minotaur
-3,Creature,Mythic,Earth Ancient Demon of the Shadows
-4,Enchantment,Common,Drain
-5,Creature,Common,Elf
-6,Creature,Legendary,Earth Rogue Giant of the Swamp
-7,Spell,Rare,Frigid Assault
-8,Creature,Common,Spider
-9,Enchantment,Common,Age
-10,Creature,Common,Eagle
-11,Creature,Legendary,Death Thief Orge of the Black Stone
-12,Creature,Common,Elf
-13,Creature,Legendary,Snow Fighter Kraken of the Border
-14,Artifact,Legendary,Potent Sigil
-15,Artifact,Common,Shield
-16,Spell,Common,Vortex
-17,Creature,Rare,Light Priest Griffin
-18,Artifact,Legendary,Potent Bracers
-19,Creature,Rare,Earth Warrior Minotaur
-20,Creature,Common,Eagle
-21,Enchantment,Common,Drain
-22,Creature,Common,Magi
-23,Enchantment,Rare,Miracle Haste
-24,Enchantment,Common,Alacrity
-25,Creature,Legendary,Earth Monk Kraken of the Golden Palace
-26,Creature,Legendary,Snow Assassin Giant of the West
-27,Creature,Common,Orc
-28,Spell,Legendary,Dire Stun
-29,Enchantment,Common,Age
-30,Spell,Common,Stricken
-31,Spell,Rare,Shimmering Reanimate
-32,Creature,Legendary,Light Lord Orge of the Swamp
-33,Creature,Rare,Death Assassin Berserker
-34,Creature,Rare,Snow King Griffin
-35,Creature,Common,Orc
-36,Spell,Common,Burn
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Agony
-39,Enchantment,Common,Shield
-40,Creature,Rare,Frozen King Griffin
-41,Spell,Common,Reanimate
-42,Spell,Legendary,Dire Burst
-43,Enchantment,Common,Deathgrip
-44,Spell,Rare,Frigid Assault
+==================,DECK,7164
+0,Creature,Berserker
+1,Spell,Stricken
+2,Creature,Dark Thief Cyclops
+3,Creature,Earth Ancient Demon of the Shadows
+4,Enchantment,Lethargy
+5,Creature,Warlock
+6,Creature,Earth Rogue Dwarf of the Swamp
+7,Spell,Apocalypse Heal
+8,Creature,Paladin
+9,Enchantment,Invert
+10,Creature,Eagle
+11,Creature,Death Thief Elf of the Black Stone
+12,Creature,Warlock
+13,Creature,Snow Fighter Ogre of the Border
+14,Artifact,Urgent Nimble Sigil
+15,Artifact,Shield
+16,Spell,Lightning
+17,Creature,Light Priest Griffin
+18,Artifact,Zealous Oblivion Bracers
+19,Creature,Earth Warrior Cyclops
+20,Creature,Eagle
+21,Enchantment,Firebreath
+22,Creature,Fairy
+23,Enchantment,Life Drain
+24,Enchantment,Haste
+25,Creature,Earth Monk Ogre of the Golden Palace
+26,Creature,Snow Assassin Dwarf of the West
+27,Creature,Spider
+28,Spell,Potent Grim Stun
+29,Enchantment,Lethargy
+30,Spell,Sorrow
+31,Spell,Shimmering Maelstrom
+32,Creature,Light Lord Elf of the Swamp
+33,Creature,Death Assassin Goblin
+34,Creature,Snow King Griffin
+35,Creature,Spider
+36,Spell,Fury
+37,Creature,Ghoul
+38,Enchantment,Age
+39,Enchantment,Alacrity
+40,Creature,Frozen King Griffin
+41,Spell,Vortex
+42,Spell,Clever Nimble Frost
+43,Enchantment,Agony
+44,Spell,Grim Freeze

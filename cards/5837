@@ -1,46 +1,46 @@
-==================,DECK,5837,Medium
-0,Creature,Common,Elf
-1,Artifact,Rare,Nature Scythe
-2,Artifact,Rare,Forged Staff
-3,Creature,Common,Wolf
-4,Spell,Common,Stun
-5,Spell,Mythic,Urgent Invisibility
-6,Artifact,Common,Ring
-7,Creature,Legendary,Snow Lord Orge of the Eternal Land
-8,Creature,Common,Wolf
-9,Enchantment,Rare,Apocalypse Blight
-10,Spell,Rare,Nature Gale
-11,Spell,Common,Torment
-12,Creature,Rare,Death Knight Hydra
-13,Enchantment,Common,Shrink
-14,Enchantment,Common,Haste
-15,Spell,Common,Stun
-16,Creature,Legendary,Aura Knight Oni of the Border
-17,Spell,Legendary,Extreme Gravitation
-18,Enchantment,Mythic,Potent Blight
-19,Enchantment,Rare,Forged Shade
-20,Creature,Common,Ghoul
-21,Creature,Common,Dwarf
-22,Creature,Common,Dwarf
-23,Creature,Legendary,Death Priest Orge of the Golden Palace
-24,Creature,Rare,Frozen King Hydra
-25,Creature,Rare,Frozen Monk Skin-Walker
-26,Enchantment,Mythic,Clever Alacrity
-27,Artifact,Common,Divine Robe
-28,Enchantment,Common,Deathgrip
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Enchantment,Rare,Hateful Blight
-32,Spell,Rare,Apocalypse Stricken
-33,Enchantment,Common,Deathgrip
-34,Creature,Rare,Snow Monk Griffin
-35,Enchantment,Common,Strength
-36,Creature,Common,Goblin
-37,Creature,Common,Orc
-38,Creature,Rare,Earth Priest Griffin
-39,Spell,Common,Heal
-40,Creature,Common,Spider
-41,Creature,Common,Orc
-42,Creature,Rare,Death King Fairy
-43,Enchantment,Mythic,Mighty Deathgrip
-44,Creature,Common,Goblin
+==================,DECK,5837
+0,Creature,Warlock
+1,Artifact,Nature Scythe
+2,Artifact,Sorrow Staff
+3,Creature,Wolf
+4,Spell,Frost
+5,Spell,Urgent Shimmering Fire
+6,Artifact,Ring
+7,Creature,Snow Lord Elf of the Eternal Land
+8,Creature,Wolf
+9,Enchantment,Nimble Invert
+10,Spell,Shimmering Sorrow
+11,Spell,Stun
+12,Creature,Death Knight Hydra
+13,Enchantment,Flight
+14,Enchantment,Invert
+15,Spell,Sorrow
+16,Creature,Aura Knight Oni of the Border
+17,Spell,Urgent Sorrow Hypnosis
+18,Enchantment,Zealous Nimble Blight
+19,Enchantment,Chimeric Shield
+20,Creature,Ghoul
+21,Creature,Magi
+22,Creature,Magi
+23,Creature,Death Priest Elf of the Golden Palace
+24,Creature,Frozen King Hydra
+25,Creature,Frozen Monk Orc
+26,Enchantment,Irate Apocalypse Blight
+27,Artifact,Divine Robe
+28,Enchantment,Blight
+29,Creature,Wolf
+30,Creature,Eagle
+31,Enchantment,Cataclysmic Flight
+32,Spell,Frigid Infuriate
+33,Enchantment,Strength
+34,Creature,Snow Monk Griffin
+35,Enchantment,Shrink
+36,Creature,Skin-Walker
+37,Creature,Spider
+38,Creature,Earth Priest Griffin
+39,Spell,Frenzy
+40,Creature,Paladin
+41,Creature,Spider
+42,Creature,Death King Kraken
+43,Enchantment,Mighty Sorrow Flight
+44,Creature,Skin-Walker

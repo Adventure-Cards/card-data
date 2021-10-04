@@ -1,46 +1,46 @@
-==================,DECK,4349,Light
-0,Spell,Common,Assault
-1,Creature,Common,Goblin
-2,Spell,Common,Pandemonium
-3,Enchantment,Common,Drain
-4,Artifact,Common,Gloves
-5,Enchantment,Rare,Hateful Age
-6,Creature,Rare,Light Priest Skin-Walker
-7,Artifact,Common,Tome
-8,Artifact,Common,Scepter
-9,Creature,Common,Eagle
-10,Enchantment,Common,Strength
-11,Creature,Common,Elf
-12,Creature,Common,Dwarf
-13,Creature,Common,Warlock
-14,Spell,Common,Torment
-15,Spell,Common,Torment
-16,Creature,Common,Dwarf
-17,Spell,Rare,Shimmering Stricken
-18,Spell,Common,Freeze
-19,Spell,Common,Infuriate
-20,Artifact,Common,Amulet
-21,Artifact,Common,Potion
-22,Enchantment,Mythic,Angry Invert
-23,Spell,Rare,Nature Infuriate
-24,Creature,Common,Dwarf
-25,Artifact,Legendary,Potent Ring
-26,Artifact,Common,Scepter
-27,Creature,Common,Dwarf
-28,Spell,Rare,Gloom Frost
-29,Creature,Common,Dwarf
-30,Spell,Rare,Necro Stun
-31,Enchantment,Common,Alacrity
-32,Spell,Common,Revive
-33,Enchantment,Common,Shrink
-34,Artifact,Common,Divine Robe
-35,Creature,Common,Ghoul
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Paladin
-38,Creature,Mythic,Earth Chaos Wizard of the Shadows
-39,Creature,Rare,Aura Merchant Berserker
-40,Creature,Rare,Light Assassin Skin-Walker
-41,Enchantment,Common,Shade
-42,Enchantment,Rare,Gloom Alacrity
-43,Creature,Rare,Light Knight Griffin
-44,Creature,Common,Paladin
+==================,DECK,4349
+0,Spell,Tempest
+1,Creature,Skin-Walker
+2,Spell,Stun
+3,Enchantment,Invert
+4,Artifact,Gloves
+5,Enchantment,Gloom Shield
+6,Creature,Light Priest Orc
+7,Artifact,Tome
+8,Artifact,Scepter
+9,Creature,Eagle
+10,Enchantment,Haste
+11,Creature,Warlock
+12,Creature,Magi
+13,Creature,Berserker
+14,Spell,Fireball
+15,Spell,Reanimate
+16,Creature,Magi
+17,Spell,Hateful Burn
+18,Spell,Invisibility
+19,Spell,Lightning
+20,Artifact,Amulet
+21,Artifact,Potion
+22,Enchantment,Urgent Sorrow Flight
+23,Spell,Necro Tempest
+24,Creature,Magi
+25,Artifact,Clever Apocalypse Ring
+26,Artifact,Scepter
+27,Creature,Magi
+28,Spell,Miracle Torment
+29,Creature,Magi
+30,Spell,Necro Infuriate
+31,Enchantment,Invert
+32,Spell,Fire
+33,Enchantment,Flight
+34,Artifact,Divine Robe
+35,Creature,Ghoul
+36,Enchantment,Shield
+37,Creature,Troll
+38,Creature,Earth Chaos Wizard of the Shadows
+39,Creature,Aura Merchant Goblin
+40,Creature,Light Assassin Orc
+41,Enchantment,Shrink
+42,Enchantment,Dark Shield
+43,Creature,Light Knight Griffin
+44,Creature,Troll

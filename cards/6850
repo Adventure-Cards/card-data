@@ -1,46 +1,46 @@
-==================,DECK,6850,Light
-0,Spell,Common,Pandemonium
-1,Creature,Common,Elf
-2,Creature,Legendary,Light Fighter Cyclops of the Arctic Blizzards
-3,Creature,Common,Spider
-4,Artifact,Common,Shield
-5,Creature,Common,Paladin
-6,Creature,Legendary,Frozen Lord Oni of the Golden Palace
-7,Creature,Rare,Aura Lord Hydra
-8,Creature,Common,Spider
-9,Spell,Common,Fury
-10,Creature,Common,Goblin
-11,Enchantment,Rare,Dark Invert
-12,Enchantment,Rare,Lunar Blight
-13,Creature,Common,Paladin
-14,Creature,Common,Wolf
-15,Creature,Rare,Dark Assassin Griffin
-16,Creature,Common,Magi
-17,Creature,Mythic,Death Grand Wizard of the Dead
-18,Spell,Rare,Dark Gravitation
-19,Creature,Common,Dwarf
-20,Enchantment,Common,Lethargy
-21,Enchantment,Mythic,Intense Strength
-22,Artifact,Common,Potion
-23,Artifact,Common,Belt
-24,Artifact,Common,Gauntlet
-25,Creature,Common,Spider
-26,Artifact,Legendary,Angry Shield
-27,Artifact,Common,Ring
-28,Spell,Common,Vortex
-29,Spell,Rare,Grim Invisibility
-30,Enchantment,Common,Shade
-31,Spell,Legendary,Dire Lightning
-32,Creature,Common,Goblin
-33,Creature,Rare,Death Undead Berserker
-34,Creature,Common,Elf
-35,Spell,Legendary,Potent Burn
-36,Creature,Common,Wolf
-37,Enchantment,Common,Agony
-38,Creature,Common,Ghoul
-39,Creature,Common,Magi
-40,Creature,Common,Elf
-41,Enchantment,Common,Drain
-42,Enchantment,Rare,Miracle Haste
-43,Creature,Common,Goblin
-44,Spell,Common,Reanimate
+==================,DECK,6850
+0,Spell,Hypnosis
+1,Creature,Warlock
+2,Creature,Light Fighter Giant of the Arctic Blizzards
+3,Creature,Paladin
+4,Artifact,Shield
+5,Creature,Troll
+6,Creature,Frozen Lord Oni of the Golden Palace
+7,Creature,Aura Lord Hydra
+8,Creature,Paladin
+9,Spell,Revive
+10,Creature,Skin-Walker
+11,Enchantment,Sorrow Firebreath
+12,Enchantment,Cataclysmic Alacrity
+13,Creature,Troll
+14,Creature,Wolf
+15,Creature,Dark Assassin Griffin
+16,Creature,Fairy
+17,Creature,Death Grand Wizard of the Dead
+18,Spell,Chimeric Maelstrom
+19,Creature,Magi
+20,Enchantment,Shade
+21,Enchantment,Urgent Solar Agony
+22,Artifact,Potion
+23,Artifact,Belt
+24,Artifact,Gauntlet
+25,Creature,Paladin
+26,Artifact,Empyrean Dark Shield
+27,Artifact,Ring
+28,Spell,Revive
+29,Spell,Frigid Hypnosis
+30,Enchantment,Drain
+31,Spell,Ardent Grim Heal
+32,Creature,Skin-Walker
+33,Creature,Death Undead Goblin
+34,Creature,Warlock
+35,Spell,Clever Victory Pandemonium
+36,Creature,Wolf
+37,Enchantment,Haste
+38,Creature,Ghoul
+39,Creature,Fairy
+40,Creature,Warlock
+41,Enchantment,Blight
+42,Enchantment,Life Haste
+43,Creature,Skin-Walker
+44,Spell,Burn

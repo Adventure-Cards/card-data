@@ -1,46 +1,46 @@
-==================,DECK,6408,Medium
-0,Creature,Common,Wolf
-1,Enchantment,Rare,Forged Alacrity
-2,Enchantment,Rare,Cataclysmic Haste
-3,Spell,Rare,Life Burn
-4,Enchantment,Common,Agony
-5,Enchantment,Mythic,Urgent Shade
-6,Creature,Common,Orc
-7,Enchantment,Mythic,Potent Lethargy
-8,Enchantment,Common,Blight
-9,Creature,Common,Warlock
-10,Spell,Common,Torment
-11,Creature,Common,Dwarf
-12,Creature,Common,Paladin
-13,Creature,Common,Orc
-14,Enchantment,Common,Lethargy
-15,Creature,Common,Spider
-16,Creature,Common,Goblin
-17,Creature,Mythic,Light Grand Wizard of the Sky
-18,Artifact,Rare,Apocalypse Ring
-19,Creature,Common,Eagle
-20,Creature,Common,Warlock
-21,Creature,Legendary,Aura Assassin Kraken of the Golden Palace
-22,Enchantment,Common,Shrink
-23,Creature,Common,Magi
-24,Artifact,Common,Cloak
-25,Enchantment,Rare,Solar Invert
-26,Creature,Common,Spider
-27,Creature,Common,Elf
-28,Spell,Legendary,Mighty Maelstrom
-29,Enchantment,Mythic,Urgent Flight
-30,Creature,Common,Warlock
-31,Spell,Rare,Lunar Stun
-32,Enchantment,Common,Blight
-33,Spell,Common,Ice
-34,Creature,Rare,Dark Priest Skin-Walker
-35,Creature,Mythic,Aura Ancient Demon of the Light
-36,Spell,Rare,Hateful Burn
-37,Enchantment,Rare,Nature Flight
-38,Spell,Common,Burn
-39,Enchantment,Common,Drain
-40,Creature,Rare,Light King Fairy
-41,Spell,Common,Revive
-42,Creature,Common,Warlock
-43,Creature,Mythic,Dark Time Phoenix of Illusion
-44,Spell,Rare,Nimble Assault
+==================,DECK,6408
+0,Creature,Wolf
+1,Enchantment,Dark Firebreath
+2,Enchantment,Miracle Alacrity
+3,Spell,Frigid Wall
+4,Enchantment,Strength
+5,Enchantment,Ardent Necro Lethargy
+6,Creature,Spider
+7,Enchantment,Instant Grim Drain
+8,Enchantment,Strength
+9,Creature,Berserker
+10,Spell,Vortex
+11,Creature,Magi
+12,Creature,Troll
+13,Creature,Spider
+14,Enchantment,Age
+15,Creature,Paladin
+16,Creature,Skin-Walker
+17,Creature,Light Grand Wizard of the Sky
+18,Artifact,Grim Ring
+19,Creature,Eagle
+20,Creature,Berserker
+21,Creature,Aura Assassin Ogre of the Golden Palace
+22,Enchantment,Shield
+23,Creature,Fairy
+24,Artifact,Cloak
+25,Enchantment,Shimmering Deathgrip
+26,Creature,Paladin
+27,Creature,Warlock
+28,Spell,Clever Chimeric Frenzy
+29,Enchantment,Empyrean Hateful Age
+30,Creature,Berserker
+31,Spell,Lunar Wall
+32,Enchantment,Deathgrip
+33,Spell,Fury
+34,Creature,Dark Priest Orc
+35,Creature,Aura Ancient Demon of the Light
+36,Spell,Chimeric Frost
+37,Enchantment,Hateful Agony
+38,Spell,Maelstrom
+39,Enchantment,Shield
+40,Creature,Light King Kraken
+41,Spell,Heal
+42,Creature,Berserker
+43,Creature,Dark Time Phoenix of Illusion
+44,Spell,Nature Tempest

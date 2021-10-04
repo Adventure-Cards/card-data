@@ -1,46 +1,46 @@
-==================,DECK,7906,Medium
-0,Creature,Legendary,Aura Fighter Oni of the Magical Forest
-1,Creature,Rare,Earth Queen Hydra
-2,Spell,Rare,Necro Sorrow
-3,Creature,Legendary,Earth Knight Kraken of the Black Stone
-4,Creature,Common,Warlock
-5,Creature,Common,Paladin
-6,Spell,Common,Burst
-7,Creature,Common,Paladin
-8,Creature,Common,Orc
-9,Enchantment,Common,Age
-10,Creature,Rare,Light Priest Skin-Walker
-11,Creature,Common,Eagle
-12,Creature,Common,Eagle
-13,Creature,Common,Eagle
-14,Enchantment,Common,Strength
-15,Creature,Common,Dwarf
-16,Spell,Common,Gale
-17,Creature,Legendary,Aura Thief Kraken of the Haven
-18,Enchantment,Rare,Nimble Invert
-19,Creature,Common,Elf
-20,Creature,Rare,Snow Knight Berserker
-21,Artifact,Rare,Life Helm
-22,Artifact,Common,Scythe
-23,Spell,Common,Burn
-24,Creature,Common,Spider
-25,Creature,Common,Orc
-26,Creature,Common,Orc
-27,Artifact,Common,Bracers
-28,Artifact,Common,Amulet
-29,Creature,Common,Ghoul
-30,Spell,Common,Fury
-31,Spell,Common,Gravitation
-32,Creature,Common,Eagle
-33,Creature,Common,Wolf
-34,Creature,Common,Elf
-35,Creature,Common,Dwarf
-36,Creature,Common,Goblin
-37,Creature,Common,Eagle
-38,Creature,Common,Magi
-39,Creature,Common,Paladin
-40,Spell,Rare,Nimble Rage
-41,Creature,Rare,Snow Queen Griffin
-42,Artifact,Rare,Shimmering Ring
-43,Creature,Legendary,Frozen Thief Cyclops of the Swamp
-44,Creature,Rare,Aura Fighter Skin-Walker
+==================,DECK,7906
+0,Creature,Aura Fighter Oni of the Magical Forest
+1,Creature,Earth Queen Hydra
+2,Spell,Hateful Frenzy
+3,Creature,Earth Knight Ogre of the Black Stone
+4,Creature,Berserker
+5,Creature,Troll
+6,Spell,Ice
+7,Creature,Troll
+8,Creature,Spider
+9,Enchantment,Shade
+10,Creature,Light Priest Orc
+11,Creature,Eagle
+12,Creature,Eagle
+13,Creature,Eagle
+14,Enchantment,Haste
+15,Creature,Magi
+16,Spell,Torment
+17,Creature,Aura Thief Ogre of the Haven
+18,Enchantment,Shimmering Strength
+19,Creature,Warlock
+20,Creature,Snow Knight Goblin
+21,Artifact,Nimble Helm
+22,Artifact,Scythe
+23,Spell,Freeze
+24,Creature,Paladin
+25,Creature,Spider
+26,Creature,Spider
+27,Artifact,Bracers
+28,Artifact,Amulet
+29,Creature,Ghoul
+30,Spell,Pandemonium
+31,Spell,Burst
+32,Creature,Eagle
+33,Creature,Wolf
+34,Creature,Warlock
+35,Creature,Magi
+36,Creature,Skin-Walker
+37,Creature,Eagle
+38,Creature,Fairy
+39,Creature,Troll
+40,Spell,Forged Burn
+41,Creature,Snow Queen Griffin
+42,Artifact,Necro Ring
+43,Creature,Frozen Thief Giant of the Swamp
+44,Creature,Aura Fighter Orc

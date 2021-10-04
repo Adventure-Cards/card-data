@@ -1,46 +1,46 @@
-==================,DECK,5688,Medium
-0,Enchantment,Common,Lethargy
-1,Artifact,Common,Scepter
-2,Creature,Rare,Snow Monk Minotaur
-3,Creature,Rare,Snow Rogue Minotaur
-4,Enchantment,Rare,Life Deathgrip
-5,Creature,Rare,Earth Lord Skin-Walker
-6,Creature,Common,Wolf
-7,Enchantment,Common,Shield
-8,Creature,Common,Magi
-9,Spell,Common,Reanimate
-10,Creature,Rare,Death Priest Fairy
-11,Enchantment,Rare,Grim Shield
-12,Creature,Common,Warlock
-13,Creature,Common,Elf
-14,Enchantment,Mythic,Intense Haste
-15,Artifact,Common,Ring
-16,Creature,Mythic,Light Ancient Demon of the Sky
-17,Spell,Common,Burn
-18,Creature,Common,Elf
-19,Artifact,Legendary,Angry Gloves
-20,Creature,Rare,Dark Rogue Berserker
-21,Spell,Common,Torment
-22,Creature,Legendary,Aura Priest Giant of the Border
-23,Spell,Legendary,Dire Stun
-24,Creature,Legendary,Aura Monk Cyclops of the Eternal Land
-25,Creature,Rare,Dark Knight Griffin
-26,Spell,Common,Maelstrom
-27,Creature,Common,Eagle
-28,Enchantment,Common,Flight
-29,Creature,Common,Magi
-30,Enchantment,Rare,Corpse Agony
-31,Enchantment,Rare,Life Shrink
-32,Creature,Rare,Dark Rogue Minotaur
-33,Artifact,Rare,Gloom Bow
-34,Creature,Rare,Light Priest Skin-Walker
-35,Enchantment,Common,Lethargy
-36,Creature,Common,Elf
-37,Creature,Common,Goblin
-38,Creature,Rare,Aura Fighter Griffin
-39,Creature,Common,Dwarf
-40,Enchantment,Legendary,Dire Strength
-41,Creature,Rare,Dark Fighter Skin-Walker
-42,Spell,Mythic,Instant Infuriate
-43,Creature,Common,Goblin
-44,Artifact,Common,Helm
+==================,DECK,5688
+0,Enchantment,Invert
+1,Artifact,Scepter
+2,Creature,Snow Monk Cyclops
+3,Creature,Snow Rogue Cyclops
+4,Enchantment,Oblivion Shade
+5,Creature,Earth Lord Orc
+6,Creature,Wolf
+7,Enchantment,Age
+8,Creature,Fairy
+9,Spell,Sorrow
+10,Creature,Death Priest Kraken
+11,Enchantment,Victory Haste
+12,Creature,Berserker
+13,Creature,Warlock
+14,Enchantment,Clever Corpse Lethargy
+15,Artifact,Ring
+16,Creature,Light Ancient Demon of the Sky
+17,Spell,Rage
+18,Creature,Warlock
+19,Artifact,Instant Sorrow Gloves
+20,Creature,Dark Rogue Goblin
+21,Spell,Sorrow
+22,Creature,Aura Priest Dwarf of the Border
+23,Spell,Clever Victory Lightning
+24,Creature,Aura Monk Giant of the Eternal Land
+25,Creature,Dark Knight Griffin
+26,Spell,Revive
+27,Creature,Eagle
+28,Enchantment,Agony
+29,Creature,Fairy
+30,Enchantment,Corpse Lethargy
+31,Enchantment,Frigid Shade
+32,Creature,Dark Rogue Cyclops
+33,Artifact,Dark Bow
+34,Creature,Light Priest Orc
+35,Enchantment,Flight
+36,Creature,Warlock
+37,Creature,Skin-Walker
+38,Creature,Aura Fighter Griffin
+39,Creature,Magi
+40,Enchantment,Ardent Nimble Haste
+41,Creature,Dark Fighter Orc
+42,Spell,Mighty Corpse Reanimate
+43,Creature,Skin-Walker
+44,Artifact,Helm

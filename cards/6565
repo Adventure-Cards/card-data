@@ -1,46 +1,46 @@
-==================,DECK,6565,Medium
-0,Creature,Common,Elf
-1,Creature,Rare,Frozen Merchant Hydra
-2,Artifact,Common,Amulet
-3,Creature,Legendary,Snow Monk Orge of the Eternal Land
-4,Creature,Rare,Light King Griffin
-5,Creature,Common,Magi
-6,Creature,Rare,Aura King Fairy
-7,Creature,Rare,Dark Thief Berserker
-8,Creature,Common,Wolf
-9,Spell,Rare,Life Hypnosis
-10,Spell,Common,Heal
-11,Spell,Common,Frost
-12,Enchantment,Common,Blight
-13,Creature,Rare,Earth Fighter Fairy
-14,Spell,Common,Gravitation
-15,Creature,Legendary,Light Knight Kraken of the Magical Forest
-16,Enchantment,Mythic,Potent Age
-17,Artifact,Common,Scepter
-18,Spell,Common,Vortex
-19,Enchantment,Common,Blight
-20,Creature,Common,Warlock
-21,Enchantment,Mythic,Instant Shield
-22,Artifact,Rare,Life Sigil
-23,Creature,Common,Wolf
-24,Enchantment,Common,Blight
-25,Spell,Common,Fury
-26,Creature,Common,Warlock
-27,Creature,Rare,Death Assassin Fairy
-28,Creature,Common,Paladin
-29,Enchantment,Common,Shrink
-30,Spell,Rare,Miracle Stricken
-31,Creature,Common,Eagle
-32,Creature,Common,Orc
-33,Spell,Rare,Nimble Wall
-34,Enchantment,Common,Deathgrip
-35,Spell,Common,Stun
-36,Creature,Rare,Snow Fighter Skin-Walker
-37,Creature,Rare,Frozen Undead Hydra
-38,Spell,Legendary,Mighty Frenzy
-39,Creature,Common,Eagle
-40,Creature,Rare,Snow Warrior Skin-Walker
-41,Creature,Mythic,Light Undead Dragon of the Sky
-42,Creature,Mythic,Earth Undead Dragon of the Shadows
-43,Creature,Common,Warlock
-44,Creature,Common,Elf
+==================,DECK,6565
+0,Creature,Warlock
+1,Creature,Frozen Merchant Hydra
+2,Artifact,Amulet
+3,Creature,Snow Monk Elf of the Eternal Land
+4,Creature,Light King Griffin
+5,Creature,Fairy
+6,Creature,Aura King Kraken
+7,Creature,Dark Thief Goblin
+8,Creature,Wolf
+9,Spell,Grim Rage
+10,Spell,Stun
+11,Spell,Freeze
+12,Enchantment,Alacrity
+13,Creature,Earth Fighter Kraken
+14,Spell,Gravitation
+15,Creature,Light Knight Ogre of the Magical Forest
+16,Enchantment,Potent Victory Drain
+17,Artifact,Scepter
+18,Spell,Rage
+19,Enchantment,Blight
+20,Creature,Berserker
+21,Enchantment,Ardent Nature Lethargy
+22,Artifact,Life Sigil
+23,Creature,Wolf
+24,Enchantment,Deathgrip
+25,Spell,Stun
+26,Creature,Berserker
+27,Creature,Death Assassin Kraken
+28,Creature,Troll
+29,Enchantment,Lethargy
+30,Spell,Apocalypse Rage
+31,Creature,Eagle
+32,Creature,Spider
+33,Spell,Forged Torment
+34,Enchantment,Shield
+35,Spell,Heal
+36,Creature,Snow Fighter Orc
+37,Creature,Frozen Undead Hydra
+38,Spell,Irate Cataclysmic Maelstrom
+39,Creature,Eagle
+40,Creature,Snow Warrior Orc
+41,Creature,Light Undead Dragon of the Sky
+42,Creature,Earth Undead Dragon of the Shadows
+43,Creature,Berserker
+44,Creature,Warlock

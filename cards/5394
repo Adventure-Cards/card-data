@@ -1,46 +1,46 @@
-==================,DECK,5394,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Shade
-2,Creature,Common,Dwarf
-3,Enchantment,Common,Lethargy
-4,Artifact,Common,Boots
-5,Creature,Common,Dwarf
-6,Spell,Common,Freeze
-7,Enchantment,Mythic,Instant Flight
-8,Artifact,Common,Shield
-9,Creature,Legendary,Earth Warrior Oni of the West
-10,Creature,Common,Ghoul
-11,Creature,Legendary,Dark Undead Oni of the Eastern Skies
-12,Creature,Common,Paladin
-13,Enchantment,Common,Shield
-14,Creature,Common,Dwarf
-15,Spell,Legendary,Urgent Maelstrom
-16,Creature,Legendary,Dark Knight Kraken of the Swamp
-17,Enchantment,Common,Shrink
-18,Enchantment,Common,Invert
-19,Spell,Common,Burst
-20,Spell,Common,Frost
-21,Creature,Common,Wolf
-22,Enchantment,Common,Haste
-23,Artifact,Common,Sword
-24,Enchantment,Common,Shade
-25,Spell,Rare,Hateful Reanimate
-26,Creature,Common,Ghoul
-27,Creature,Common,Wolf
-28,Artifact,Rare,Corpse Greaves
-29,Creature,Common,Elf
-30,Enchantment,Common,Alacrity
-31,Spell,Common,Rage
-32,Creature,Common,Wolf
-33,Creature,Legendary,Earth Rogue Oni of the Frozen Castle
-34,Creature,Common,Wolf
-35,Creature,Legendary,Light Knight Kraken of the Haven
-36,Creature,Rare,Earth King Hydra
-37,Creature,Rare,Snow Assassin Berserker
-38,Spell,Common,Infuriate
-39,Creature,Common,Orc
-40,Creature,Common,Warlock
-41,Artifact,Common,Shield
-42,Creature,Common,Magi
-43,Spell,Legendary,Clever Freeze
-44,Artifact,Common,Bracers
+==================,DECK,5394
+0,Creature,Ghoul
+1,Enchantment,Deathgrip
+2,Creature,Magi
+3,Enchantment,Strength
+4,Artifact,Boots
+5,Creature,Magi
+6,Spell,Heal
+7,Enchantment,Empyrean Hateful Age
+8,Artifact,Shield
+9,Creature,Earth Warrior Oni of the West
+10,Creature,Ghoul
+11,Creature,Dark Undead Oni of the Eastern Skies
+12,Creature,Troll
+13,Enchantment,Flight
+14,Creature,Magi
+15,Spell,Potent Corpse Freeze
+16,Creature,Dark Knight Ogre of the Swamp
+17,Enchantment,Flight
+18,Enchantment,Flight
+19,Spell,Ice
+20,Spell,Rage
+21,Creature,Wolf
+22,Enchantment,Shade
+23,Artifact,Sword
+24,Enchantment,Agony
+25,Spell,Sorrow Ice
+26,Creature,Ghoul
+27,Creature,Wolf
+28,Artifact,Necro Greaves
+29,Creature,Warlock
+30,Enchantment,Lethargy
+31,Spell,Maelstrom
+32,Creature,Wolf
+33,Creature,Earth Rogue Oni of the Frozen Castle
+34,Creature,Wolf
+35,Creature,Light Knight Ogre of the Haven
+36,Creature,Earth King Hydra
+37,Creature,Snow Assassin Goblin
+38,Spell,Lightning
+39,Creature,Spider
+40,Creature,Berserker
+41,Artifact,Shield
+42,Creature,Fairy
+43,Spell,Ardent Grim Fury
+44,Artifact,Bracers

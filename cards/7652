@@ -1,46 +1,46 @@
-==================,DECK,7652,Medium
-0,Enchantment,Rare,Hateful Blight
-1,Creature,Rare,Light Undead Berserker
-2,Creature,Common,Magi
-3,Enchantment,Common,Age
-4,Creature,Common,Dwarf
-5,Artifact,Common,Shield
-6,Creature,Common,Orc
-7,Artifact,Rare,Dark Gloves
-8,Creature,Rare,Snow Assassin Fairy
-9,Artifact,Common,Tome
-10,Enchantment,Common,Invert
-11,Creature,Common,Eagle
-12,Creature,Legendary,Snow Rogue Cyclops of the Low Hills
-13,Creature,Legendary,Frozen King Cyclops of the Arctic Blizzards
-14,Creature,Rare,Frozen Warrior Skin-Walker
-15,Enchantment,Rare,Necro Deathgrip
-16,Creature,Legendary,Aura Fighter Giant of the Golden Palace
-17,Artifact,Rare,Nimble Divine Robe
-18,Spell,Rare,Apocalypse Infuriate
-19,Creature,Rare,Death Monk Griffin
-20,Creature,Rare,Frozen Knight Hydra
-21,Creature,Common,Eagle
-22,Creature,Mythic,Earth Ancient Wizard of the Shadows
-23,Creature,Common,Eagle
-24,Enchantment,Mythic,Instant Age
-25,Creature,Common,Elf
-26,Creature,Legendary,Snow Assassin Cyclops of the Arctic Blizzards
-27,Spell,Common,Frost
-28,Creature,Common,Warlock
-29,Enchantment,Rare,Dark Strength
-30,Creature,Rare,Dark Undead Skin-Walker
-31,Creature,Legendary,Frozen Merchant Cyclops of the Golden Palace
-32,Creature,Common,Wolf
-33,Enchantment,Rare,Miracle Flight
-34,Creature,Common,Wolf
-35,Spell,Legendary,Intense Wall
-36,Artifact,Rare,Solar Helmet
-37,Creature,Common,Warlock
-38,Artifact,Common,Cloak
-39,Creature,Common,Dwarf
-40,Spell,Common,Heal
-41,Spell,Common,Sorrow
-42,Enchantment,Common,Strength
-43,Spell,Common,Gravitation
-44,Creature,Common,Paladin
+==================,DECK,7652
+0,Enchantment,Cataclysmic Shield
+1,Creature,Light Undead Goblin
+2,Creature,Fairy
+3,Enchantment,Age
+4,Creature,Magi
+5,Artifact,Shield
+6,Creature,Spider
+7,Artifact,Gloom Gloves
+8,Creature,Snow Assassin Kraken
+9,Artifact,Tome
+10,Enchantment,Firebreath
+11,Creature,Eagle
+12,Creature,Snow Rogue Giant of the Low Hills
+13,Creature,Frozen King Giant of the Arctic Blizzards
+14,Creature,Frozen Warrior Orc
+15,Enchantment,Shimmering Agony
+16,Creature,Aura Fighter Dwarf of the Golden Palace
+17,Artifact,Necro Divine Robe
+18,Spell,Grim Tempest
+19,Creature,Death Monk Griffin
+20,Creature,Frozen Knight Hydra
+21,Creature,Eagle
+22,Creature,Earth Ancient Wizard of the Shadows
+23,Creature,Eagle
+24,Enchantment,Clever Nature Lethargy
+25,Creature,Warlock
+26,Creature,Snow Assassin Giant of the Arctic Blizzards
+27,Spell,Fireball
+28,Creature,Berserker
+29,Enchantment,Cataclysmic Flight
+30,Creature,Dark Undead Orc
+31,Creature,Frozen Merchant Giant of the Golden Palace
+32,Creature,Wolf
+33,Enchantment,Grim Blight
+34,Creature,Wolf
+35,Spell,Urgent Necro Frenzy
+36,Artifact,Hateful Helmet
+37,Creature,Berserker
+38,Artifact,Cloak
+39,Creature,Magi
+40,Spell,Frenzy
+41,Spell,Burst
+42,Enchantment,Haste
+43,Spell,Infuriate
+44,Creature,Troll

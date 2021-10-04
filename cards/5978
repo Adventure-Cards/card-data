@@ -1,46 +1,46 @@
-==================,DECK,5978,Light
-0,Artifact,Common,Helmet
-1,Enchantment,Common,Flight
-2,Creature,Mythic,Aura Undead Phoenix of the Light
-3,Spell,Common,Stricken
-4,Creature,Common,Wolf
-5,Spell,Common,Ice
-6,Enchantment,Mythic,Urgent Shrink
-7,Creature,Common,Orc
-8,Spell,Common,Pandemonium
-9,Spell,Rare,Oblivion Torment
-10,Creature,Common,Orc
-11,Spell,Rare,Hateful Hypnosis
-12,Creature,Common,Orc
-13,Artifact,Legendary,Urgent Bow
-14,Creature,Common,Wolf
-15,Creature,Rare,Dark Thief Minotaur
-16,Artifact,Common,Boots
-17,Creature,Common,Orc
-18,Creature,Rare,Earth Knight Hydra
-19,Creature,Rare,Aura Warrior Berserker
-20,Enchantment,Common,Lethargy
-21,Creature,Legendary,Earth Monk Oni of the Frozen Castle
-22,Spell,Common,Invisibility
-23,Artifact,Common,Scepter
-24,Creature,Common,Magi
-25,Creature,Common,Magi
-26,Spell,Rare,Oblivion Revive
-27,Enchantment,Legendary,Instant Alacrity
-28,Enchantment,Mythic,Dire Shield
-29,Creature,Rare,Light Merchant Fairy
-30,Spell,Common,Maelstrom
-31,Creature,Common,Ghoul
-32,Creature,Rare,Frozen Undead Skin-Walker
-33,Creature,Common,Elf
-34,Spell,Legendary,Mighty Reanimate
-35,Spell,Common,Heal
-36,Spell,Rare,Solar Assault
-37,Creature,Common,Orc
-38,Creature,Common,Elf
-39,Creature,Rare,Light Thief Skin-Walker
-40,Creature,Common,Ghoul
-41,Spell,Rare,Frigid Rage
-42,Enchantment,Common,Alacrity
-43,Spell,Common,Burn
-44,Creature,Common,Elf
+==================,DECK,5978
+0,Artifact,Helmet
+1,Enchantment,Invert
+2,Creature,Aura Undead Phoenix of the Light
+3,Spell,Heal
+4,Creature,Wolf
+5,Spell,Infuriate
+6,Enchantment,Zealous Necro Deathgrip
+7,Creature,Spider
+8,Spell,Vortex
+9,Spell,Nimble Burst
+10,Creature,Spider
+11,Spell,Cataclysmic Ice
+12,Creature,Spider
+13,Artifact,Mighty Nature Bow
+14,Creature,Wolf
+15,Creature,Dark Thief Cyclops
+16,Artifact,Boots
+17,Creature,Spider
+18,Creature,Earth Knight Hydra
+19,Creature,Aura Warrior Goblin
+20,Enchantment,Strength
+21,Creature,Earth Monk Oni of the Frozen Castle
+22,Spell,Sorrow
+23,Artifact,Scepter
+24,Creature,Fairy
+25,Creature,Fairy
+26,Spell,Nimble Fury
+27,Enchantment,Ardent Forged Lethargy
+28,Enchantment,Irate Victory Blight
+29,Creature,Light Merchant Kraken
+30,Spell,Fireball
+31,Creature,Ghoul
+32,Creature,Frozen Undead Orc
+33,Creature,Warlock
+34,Spell,Zealous Gloom Vortex
+35,Spell,Assault
+36,Spell,Hateful Sorrow
+37,Creature,Spider
+38,Creature,Warlock
+39,Creature,Light Thief Orc
+40,Creature,Ghoul
+41,Spell,Frigid Sorrow
+42,Enchantment,Shrink
+43,Spell,Tempest
+44,Creature,Warlock

@@ -1,46 +1,46 @@
-==================,DECK,6140,Strong
-0,Creature,Common,Elf
-1,Creature,Mythic,Light Ancient Demon of the Sky
-2,Creature,Legendary,Snow Lord Giant of the Eternal Land
-3,Creature,Rare,Snow Monk Griffin
-4,Enchantment,Mythic,Angry Invert
-5,Creature,Common,Eagle
-6,Enchantment,Legendary,Extreme Flight
-7,Creature,Mythic,Aura Nameless Dragon of the Light
-8,Creature,Rare,Snow Queen Griffin
-9,Artifact,Legendary,Extreme Pendant
-10,Creature,Common,Eagle
-11,Creature,Common,Wolf
-12,Creature,Mythic,Dark Ancient Demon of Illusion
-13,Spell,Common,Gravitation
-14,Creature,Rare,Light Lord Fairy
-15,Spell,Common,Stun
-16,Spell,Common,Gale
-17,Enchantment,Mythic,Potent Flight
-18,Spell,Common,Maelstrom
-19,Enchantment,Common,Deathgrip
-20,Spell,Common,Gale
-21,Spell,Common,Sorrow
-22,Creature,Legendary,Death Nameless Phoenix of the Dead
-23,Creature,Common,Spider
-24,Enchantment,Common,Strength
-25,Spell,Rare,Nature Maelstrom
-26,Creature,Common,Ghoul
-27,Enchantment,Legendary,Potent Lethargy
-28,Creature,Common,Paladin
-29,Artifact,Common,Gloves
-30,Artifact,Rare,Corpse Ring
-31,Creature,Rare,Aura Thief Berserker
-32,Creature,Rare,Snow Undead Skin-Walker
-33,Spell,Common,Stun
-34,Creature,Rare,Earth Fighter Hydra
-35,Enchantment,Common,Invert
-36,Creature,Rare,Dark Fighter Fairy
-37,Creature,Common,Elf
-38,Creature,Rare,Dark Warrior Minotaur
-39,Creature,Rare,Frozen Warrior Minotaur
-40,Creature,Common,Magi
-41,Enchantment,Common,Drain
-42,Creature,Common,Magi
-43,Creature,Common,Wolf
-44,Enchantment,Mythic,Instant Haste
+==================,DECK,6140
+0,Creature,Warlock
+1,Creature,Light Ancient Demon of the Sky
+2,Creature,Snow Lord Dwarf of the Eternal Land
+3,Creature,Snow Monk Griffin
+4,Enchantment,Instant Sorrow Shrink
+5,Creature,Eagle
+6,Enchantment,Mighty Lunar Flight
+7,Creature,Aura Nameless Dragon of the Light
+8,Creature,Snow Queen Griffin
+9,Artifact,Irate Gloom Pendant
+10,Creature,Eagle
+11,Creature,Wolf
+12,Creature,Dark Ancient Demon of Illusion
+13,Spell,Torment
+14,Creature,Light Lord Kraken
+15,Spell,Sorrow
+16,Spell,Wall
+17,Enchantment,Potent Grim Drain
+18,Spell,Revive
+19,Enchantment,Haste
+20,Spell,Rage
+21,Spell,Pandemonium
+22,Creature,Death Nameless Phoenix of the Dead
+23,Creature,Paladin
+24,Enchantment,Haste
+25,Spell,Hateful Vortex
+26,Creature,Ghoul
+27,Enchantment,Dire Grim Shade
+28,Creature,Troll
+29,Artifact,Gloves
+30,Artifact,Forged Ring
+31,Creature,Aura Thief Goblin
+32,Creature,Snow Undead Orc
+33,Spell,Sorrow
+34,Creature,Earth Fighter Hydra
+35,Enchantment,Haste
+36,Creature,Dark Fighter Kraken
+37,Creature,Warlock
+38,Creature,Dark Warrior Cyclops
+39,Creature,Frozen Warrior Cyclops
+40,Creature,Fairy
+41,Enchantment,Deathgrip
+42,Creature,Fairy
+43,Creature,Wolf
+44,Enchantment,Zealous Corpse Deathgrip

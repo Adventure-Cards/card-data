@@ -1,46 +1,46 @@
-==================,DECK,4433,Light
-0,Creature,Common,Elf
-1,Enchantment,Mythic,Intense Flight
-2,Spell,Common,Assault
-3,Spell,Common,Revive
-4,Creature,Common,Wolf
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Invert
-7,Enchantment,Common,Age
-8,Creature,Common,Spider
-9,Creature,Common,Ghoul
-10,Artifact,Common,Staff
-11,Creature,Common,Goblin
-12,Enchantment,Common,Invert
-13,Creature,Legendary,Aura Queen Orge of the Mountains
-14,Creature,Rare,Dark Fighter Hydra
-15,Creature,Rare,Light Lord Berserker
-16,Creature,Common,Spider
-17,Creature,Mythic,Earth Nameless Dragon of the Shadows
-18,Creature,Legendary,Frozen Fighter Orge of the Golden Palace
-19,Spell,Common,Infuriate
-20,Creature,Common,Dwarf
-21,Creature,Common,Ghoul
-22,Spell,Rare,Shimmering Maelstrom
-23,Creature,Common,Orc
-24,Creature,Common,Warlock
-25,Artifact,Common,Greaves
-26,Creature,Common,Elf
-27,Artifact,Common,Helm
-28,Creature,Rare,Snow Monk Skin-Walker
-29,Creature,Common,Eagle
-30,Creature,Common,Eagle
-31,Spell,Common,Fury
-32,Enchantment,Common,Agony
-33,Enchantment,Rare,Apocalypse Flight
-34,Creature,Common,Dwarf
-35,Spell,Common,Torment
-36,Creature,Common,Eagle
-37,Spell,Rare,Cataclysmic Stun
-38,Creature,Rare,Light Priest Minotaur
-39,Creature,Common,Magi
-40,Creature,Common,Magi
-41,Enchantment,Common,Blight
-42,Spell,Legendary,Instant Heal
-43,Creature,Common,Ghoul
-44,Creature,Rare,Snow Fighter Berserker
+==================,DECK,4433
+0,Creature,Warlock
+1,Enchantment,Zealous Hateful Deathgrip
+2,Spell,Freeze
+3,Spell,Fury
+4,Creature,Wolf
+5,Creature,Ghoul
+6,Enchantment,Strength
+7,Enchantment,Strength
+8,Creature,Paladin
+9,Creature,Ghoul
+10,Artifact,Staff
+11,Creature,Skin-Walker
+12,Enchantment,Lethargy
+13,Creature,Aura Queen Elf of the Mountains
+14,Creature,Dark Fighter Hydra
+15,Creature,Light Lord Goblin
+16,Creature,Paladin
+17,Creature,Earth Nameless Dragon of the Shadows
+18,Creature,Frozen Fighter Elf of the Golden Palace
+19,Spell,Gale
+20,Creature,Magi
+21,Creature,Ghoul
+22,Spell,Hateful Sorrow
+23,Creature,Spider
+24,Creature,Berserker
+25,Artifact,Greaves
+26,Creature,Warlock
+27,Artifact,Helm
+28,Creature,Snow Monk Orc
+29,Creature,Eagle
+30,Creature,Eagle
+31,Spell,Rage
+32,Enchantment,Shade
+33,Enchantment,Grim Shade
+34,Creature,Magi
+35,Spell,Hypnosis
+36,Creature,Eagle
+37,Spell,Gloom Pandemonium
+38,Creature,Light Priest Cyclops
+39,Creature,Fairy
+40,Creature,Fairy
+41,Enchantment,Lethargy
+42,Spell,Dire Necro Fireball
+43,Creature,Ghoul
+44,Creature,Snow Fighter Goblin

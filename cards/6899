@@ -1,46 +1,46 @@
-==================,DECK,6899,Medium
-0,Spell,Common,Stun
-1,Enchantment,Legendary,Urgent Alacrity
-2,Enchantment,Rare,Nimble Alacrity
-3,Creature,Common,Wolf
-4,Enchantment,Rare,Gloom Strength
-5,Enchantment,Common,Deathgrip
-6,Creature,Common,Goblin
-7,Creature,Rare,Earth King Skin-Walker
-8,Creature,Common,Spider
-9,Spell,Rare,Nature Ice
-10,Creature,Common,Wolf
-11,Creature,Common,Goblin
-12,Creature,Rare,Death Undead Griffin
-13,Creature,Rare,Light Assassin Fairy
-14,Spell,Common,Reanimate
-15,Creature,Common,Dwarf
-16,Creature,Rare,Snow Undead Skin-Walker
-17,Spell,Common,Stricken
-18,Creature,Common,Dwarf
-19,Spell,Legendary,Mighty Ice
-20,Creature,Common,Dwarf
-21,Spell,Rare,Solar Freeze
-22,Creature,Common,Eagle
-23,Creature,Common,Wolf
-24,Creature,Common,Ghoul
-25,Artifact,Common,Gloves
-26,Creature,Common,Goblin
-27,Spell,Common,Heal
-28,Creature,Common,Wolf
-29,Artifact,Legendary,Instant Ring
-30,Creature,Common,Wolf
-31,Creature,Common,Goblin
-32,Creature,Common,Elf
-33,Creature,Common,Spider
-34,Spell,Common,Frenzy
-35,Artifact,Rare,Gloom Helm
-36,Creature,Common,Paladin
-37,Spell,Rare,Grim Torment
-38,Enchantment,Legendary,Clever Haste
-39,Creature,Common,Spider
-40,Spell,Common,Torment
-41,Artifact,Legendary,Urgent Sword
-42,Enchantment,Mythic,Instant Deathgrip
-43,Enchantment,Mythic,Mighty Age
-44,Spell,Rare,Grim Freeze
+==================,DECK,6899
+0,Spell,Frenzy
+1,Enchantment,Irate Forged Deathgrip
+2,Enchantment,Forged Deathgrip
+3,Creature,Wolf
+4,Enchantment,Cataclysmic Alacrity
+5,Enchantment,Shrink
+6,Creature,Skin-Walker
+7,Creature,Earth King Orc
+8,Creature,Paladin
+9,Spell,Forged Burn
+10,Creature,Wolf
+11,Creature,Skin-Walker
+12,Creature,Death Undead Griffin
+13,Creature,Light Assassin Kraken
+14,Spell,Heal
+15,Creature,Magi
+16,Creature,Snow Undead Orc
+17,Spell,Fire
+18,Creature,Magi
+19,Spell,Clever Cataclysmic Fireball
+20,Creature,Magi
+21,Spell,Nature Frenzy
+22,Creature,Eagle
+23,Creature,Wolf
+24,Creature,Ghoul
+25,Artifact,Gloves
+26,Creature,Skin-Walker
+27,Spell,Gravitation
+28,Creature,Wolf
+29,Artifact,Ardent Necro Ring
+30,Creature,Wolf
+31,Creature,Skin-Walker
+32,Creature,Warlock
+33,Creature,Paladin
+34,Spell,Frenzy
+35,Artifact,Cataclysmic Helm
+36,Creature,Troll
+37,Spell,Frigid Wall
+38,Enchantment,Clever Life Haste
+39,Creature,Paladin
+40,Spell,Stun
+41,Artifact,Potent Hateful Sword
+42,Enchantment,Clever Shimmering Lethargy
+43,Enchantment,Clever Gloom Shield
+44,Spell,Life Invisibility

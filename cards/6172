@@ -1,46 +1,46 @@
-==================,DECK,6172,Medium
-0,Artifact,Common,Tome
-1,Creature,Rare,Death Monk Minotaur
-2,Creature,Legendary,Death Priest Giant of the Mountains
-3,Enchantment,Rare,Gloom Strength
-4,Creature,Rare,Snow Undead Fairy
-5,Creature,Legendary,Aura Thief Giant of the Plains
-6,Enchantment,Common,Shield
-7,Enchantment,Common,Age
-8,Creature,Common,Magi
-9,Spell,Rare,Miracle Ice
-10,Creature,Common,Paladin
-11,Creature,Common,Magi
-12,Spell,Common,Stricken
-13,Artifact,Common,Staff
-14,Creature,Rare,Frozen Fighter Minotaur
-15,Creature,Legendary,Snow Monk Giant of the Black Stone
-16,Enchantment,Rare,Life Deathgrip
-17,Creature,Legendary,Death Assassin Giant of the Haven
-18,Spell,Common,Freeze
-19,Enchantment,Rare,Dark Lethargy
-20,Creature,Common,Eagle
-21,Creature,Rare,Frozen Merchant Berserker
-22,Enchantment,Common,Haste
-23,Creature,Common,Warlock
-24,Spell,Common,Stricken
-25,Spell,Common,Lightning
-26,Artifact,Common,Gloves
-27,Enchantment,Legendary,Mighty Invert
-28,Creature,Rare,Light Thief Minotaur
-29,Enchantment,Common,Deathgrip
-30,Enchantment,Common,Drain
-31,Creature,Common,Warlock
-32,Artifact,Common,Crown
-33,Creature,Common,Ghoul
-34,Creature,Rare,Frozen Undead Fairy
-35,Spell,Rare,Oblivion Revive
-36,Enchantment,Common,Agony
-37,Spell,Common,Stun
-38,Creature,Rare,Earth Priest Berserker
-39,Spell,Legendary,Dire Frenzy
-40,Creature,Rare,Dark Thief Fairy
-41,Creature,Common,Warlock
-42,Creature,Rare,Light Knight Berserker
-43,Spell,Common,Gale
-44,Creature,Common,Ghoul
+==================,DECK,6172
+0,Artifact,Tome
+1,Creature,Death Monk Cyclops
+2,Creature,Death Priest Dwarf of the Mountains
+3,Enchantment,Cataclysmic Shield
+4,Creature,Snow Undead Kraken
+5,Creature,Aura Thief Dwarf of the Plains
+6,Enchantment,Shade
+7,Enchantment,Shrink
+8,Creature,Fairy
+9,Spell,Nimble Freeze
+10,Creature,Troll
+11,Creature,Fairy
+12,Spell,Stun
+13,Artifact,Staff
+14,Creature,Frozen Fighter Cyclops
+15,Creature,Snow Monk Dwarf of the Black Stone
+16,Enchantment,Oblivion Blight
+17,Creature,Death Assassin Dwarf of the Haven
+18,Spell,Rage
+19,Enchantment,Lunar Flight
+20,Creature,Eagle
+21,Creature,Frozen Merchant Goblin
+22,Enchantment,Flight
+23,Creature,Berserker
+24,Spell,Freeze
+25,Spell,Freeze
+26,Artifact,Gloves
+27,Enchantment,Urgent Sorrow Flight
+28,Creature,Light Thief Cyclops
+29,Enchantment,Shrink
+30,Enchantment,Deathgrip
+31,Creature,Berserker
+32,Artifact,Crown
+33,Creature,Ghoul
+34,Creature,Frozen Undead Kraken
+35,Spell,Grim Reanimate
+36,Enchantment,Shrink
+37,Spell,Vortex
+38,Creature,Earth Priest Goblin
+39,Spell,Ardent Victory Ice
+40,Creature,Dark Thief Kraken
+41,Creature,Berserker
+42,Creature,Light Knight Goblin
+43,Spell,Hypnosis
+44,Creature,Ghoul

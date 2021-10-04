@@ -1,46 +1,46 @@
-==================,DECK,4858,Medium
-0,Enchantment,Rare,Oblivion Strength
-1,Creature,Common,Eagle
-2,Creature,Mythic,Aura Nameless Phoenix of the Light
-3,Enchantment,Rare,Grim Shade
-4,Creature,Common,Dwarf
-5,Spell,Common,Gravitation
-6,Enchantment,Common,Age
-7,Enchantment,Rare,Necro Drain
-8,Artifact,Common,Bow
-9,Creature,Rare,Snow Monk Hydra
-10,Creature,Rare,Light Monk Fairy
-11,Spell,Common,Stun
-12,Creature,Common,Orc
-13,Creature,Common,Magi
-14,Creature,Mythic,Dark Undead Dragon of Illusion
-15,Creature,Legendary,Earth Undead Giant of the Frozen Castle
-16,Enchantment,Legendary,Instant Shield
-17,Spell,Common,Gravitation
-18,Creature,Legendary,Light Assassin Oni of the Swamp
-19,Artifact,Common,Ring
-20,Spell,Rare,Grim Vortex
-21,Creature,Common,Paladin
-22,Creature,Common,Paladin
-23,Spell,Common,Gale
-24,Creature,Common,Dwarf
-25,Creature,Common,Goblin
-26,Spell,Common,Torment
-27,Creature,Rare,Frozen Undead Skin-Walker
-28,Creature,Rare,Snow Undead Hydra
-29,Enchantment,Common,Invert
-30,Enchantment,Common,Invert
-31,Creature,Common,Goblin
-32,Creature,Mythic,Dark Nameless Phoenix of Illusion
-33,Creature,Rare,Frozen Merchant Minotaur
-34,Creature,Rare,Death Knight Skin-Walker
-35,Creature,Common,Elf
-36,Creature,Common,Orc
-37,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-38,Creature,Rare,Aura Thief Berserker
-39,Creature,Common,Orc
-40,Creature,Rare,Snow Undead Skin-Walker
-41,Artifact,Rare,Solar Shield
-42,Creature,Common,Wolf
-43,Enchantment,Mythic,Instant Invert
-44,Enchantment,Legendary,Dire Agony
+==================,DECK,4858
+0,Enchantment,Nimble Haste
+1,Creature,Eagle
+2,Creature,Aura Nameless Phoenix of the Light
+3,Enchantment,Frigid Haste
+4,Creature,Magi
+5,Spell,Frost
+6,Enchantment,Age
+7,Enchantment,Forged Lethargy
+8,Artifact,Bow
+9,Creature,Snow Monk Hydra
+10,Creature,Light Monk Kraken
+11,Spell,Torment
+12,Creature,Spider
+13,Creature,Fairy
+14,Creature,Dark Undead Dragon of Illusion
+15,Creature,Earth Undead Dwarf of the Frozen Castle
+16,Enchantment,Dire Nature Age
+17,Spell,Burn
+18,Creature,Light Assassin Oni of the Swamp
+19,Artifact,Ring
+20,Spell,Frigid Maelstrom
+21,Creature,Troll
+22,Creature,Troll
+23,Spell,Stun
+24,Creature,Magi
+25,Creature,Skin-Walker
+26,Spell,Torment
+27,Creature,Frozen Undead Orc
+28,Creature,Snow Undead Hydra
+29,Enchantment,Age
+30,Enchantment,Shield
+31,Creature,Skin-Walker
+32,Creature,Dark Nameless Phoenix of Illusion
+33,Creature,Frozen Merchant Cyclops
+34,Creature,Death Knight Orc
+35,Creature,Warlock
+36,Creature,Spider
+37,Creature,Earth Nameless Phoenix of the Shadows
+38,Creature,Aura Thief Goblin
+39,Creature,Spider
+40,Creature,Snow Undead Orc
+41,Artifact,Hateful Shield
+42,Creature,Wolf
+43,Enchantment,Urgent Shimmering Agony
+44,Enchantment,Instant Life Drain

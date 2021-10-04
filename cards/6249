@@ -1,46 +1,46 @@
-==================,DECK,6249,Medium
-0,Creature,Rare,Dark Queen Griffin
-1,Artifact,Common,Sword
-2,Creature,Rare,Aura Knight Berserker
-3,Spell,Rare,Miracle Sorrow
-4,Creature,Legendary,Snow Knight Kraken of the Swamp
-5,Creature,Rare,Light Priest Skin-Walker
-6,Enchantment,Rare,Necro Blight
-7,Spell,Rare,Necro Stun
-8,Creature,Common,Orc
-9,Creature,Common,Spider
-10,Creature,Common,Orc
-11,Enchantment,Mythic,Dire Shield
-12,Creature,Legendary,Light Priest Giant of the Plains
-13,Creature,Legendary,Dark Merchant Kraken of the Magical Forest
-14,Creature,Mythic,Snow Chaos Demon of Hate
-15,Artifact,Common,Potion
-16,Creature,Common,Magi
-17,Enchantment,Mythic,Clever Lethargy
-18,Creature,Common,Paladin
-19,Creature,Common,Elf
-20,Creature,Rare,Snow Priest Minotaur
-21,Creature,Common,Magi
-22,Enchantment,Legendary,Urgent Deathgrip
-23,Spell,Mythic,Mighty Vortex
-24,Creature,Legendary,Light Warrior Giant of the Low Hills
-25,Creature,Common,Spider
-26,Creature,Common,Eagle
-27,Enchantment,Rare,Life Haste
-28,Enchantment,Common,Alacrity
-29,Spell,Common,Heal
-30,Spell,Rare,Miracle Fury
-31,Spell,Rare,Nimble Invisibility
-32,Spell,Common,Fury
-33,Creature,Common,Dwarf
-34,Enchantment,Common,Blight
-35,Enchantment,Common,Haste
-36,Enchantment,Common,Strength
-37,Spell,Common,Heal
-38,Spell,Rare,Corpse Lightning
-39,Creature,Common,Warlock
-40,Creature,Rare,Death Fighter Hydra
-41,Creature,Common,Magi
-42,Spell,Common,Torment
-43,Creature,Rare,Dark Queen Minotaur
-44,Creature,Rare,Dark Merchant Hydra
+==================,DECK,6249
+0,Creature,Dark Queen Griffin
+1,Artifact,Sword
+2,Creature,Aura Knight Goblin
+3,Spell,Oblivion Assault
+4,Creature,Snow Knight Ogre of the Swamp
+5,Creature,Light Priest Orc
+6,Enchantment,Solar Strength
+7,Spell,Corpse Infuriate
+8,Creature,Spider
+9,Creature,Paladin
+10,Creature,Spider
+11,Enchantment,Ardent Victory Haste
+12,Creature,Light Priest Dwarf of the Plains
+13,Creature,Dark Merchant Ogre of the Magical Forest
+14,Creature,Snow Chaos Demon of Hate
+15,Artifact,Potion
+16,Creature,Fairy
+17,Enchantment,Irate Grim Blight
+18,Creature,Troll
+19,Creature,Warlock
+20,Creature,Snow Priest Cyclops
+21,Creature,Fairy
+22,Enchantment,Clever Shimmering Lethargy
+23,Spell,Irate Dark Frenzy
+24,Creature,Light Warrior Dwarf of the Low Hills
+25,Creature,Paladin
+26,Creature,Eagle
+27,Enchantment,Life Shade
+28,Enchantment,Deathgrip
+29,Spell,Ice
+30,Spell,Oblivion Lightning
+31,Spell,Hateful Hypnosis
+32,Spell,Frost
+33,Creature,Magi
+34,Enchantment,Blight
+35,Enchantment,Firebreath
+36,Enchantment,Alacrity
+37,Spell,Stun
+38,Spell,Shimmering Lightning
+39,Creature,Berserker
+40,Creature,Death Fighter Hydra
+41,Creature,Fairy
+42,Spell,Assault
+43,Creature,Dark Queen Cyclops
+44,Creature,Dark Merchant Hydra

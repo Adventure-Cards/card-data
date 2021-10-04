@@ -1,46 +1,46 @@
-==================,DECK,5428,Medium
-0,Creature,Rare,Frozen Queen Hydra
-1,Creature,Common,Paladin
-2,Creature,Common,Spider
-3,Enchantment,Rare,Cataclysmic Blight
-4,Creature,Rare,Frozen Fighter Minotaur
-5,Creature,Rare,Dark Warrior Skin-Walker
-6,Creature,Rare,Death Fighter Berserker
-7,Creature,Common,Wolf
-8,Creature,Legendary,Snow Queen Orge of the Mountains
-9,Artifact,Rare,Cataclysmic Shield
-10,Spell,Rare,Solar Vortex
-11,Creature,Legendary,Dark Queen Cyclops of the Arctic Blizzards
-12,Creature,Rare,Light Undead Berserker
-13,Creature,Common,Paladin
-14,Creature,Common,Elf
-15,Spell,Common,Frenzy
-16,Creature,Legendary,Snow Queen Giant of the West
-17,Creature,Common,Magi
-18,Spell,Common,Frenzy
-19,Creature,Rare,Earth Lord Skin-Walker
-20,Creature,Rare,Light Warrior Griffin
-21,Creature,Mythic,Snow Nameless Phoenix of Hate
-22,Enchantment,Rare,Miracle Drain
-23,Spell,Common,Pandemonium
-24,Artifact,Common,Divine Robe
-25,Enchantment,Rare,Solar Strength
-26,Enchantment,Legendary,Clever Blight
-27,Enchantment,Legendary,Extreme Shade
-28,Enchantment,Common,Flight
-29,Spell,Common,Stun
-30,Spell,Common,Assault
-31,Artifact,Legendary,Angry Scepter
-32,Enchantment,Common,Deathgrip
-33,Creature,Common,Spider
-34,Spell,Common,Wall
-35,Spell,Common,Invisibility
-36,Creature,Common,Wolf
-37,Spell,Common,Stricken
-38,Artifact,Rare,Dark Scepter
-39,Enchantment,Legendary,Dire Agony
-40,Creature,Common,Spider
-41,Creature,Common,Magi
-42,Enchantment,Common,Shrink
-43,Creature,Rare,Snow Warrior Skin-Walker
-44,Creature,Common,Eagle
+==================,DECK,5428
+0,Creature,Frozen Queen Hydra
+1,Creature,Troll
+2,Creature,Paladin
+3,Enchantment,Cataclysmic Flight
+4,Creature,Frozen Fighter Cyclops
+5,Creature,Dark Warrior Orc
+6,Creature,Death Fighter Goblin
+7,Creature,Wolf
+8,Creature,Snow Queen Elf of the Mountains
+9,Artifact,Sorrow Shield
+10,Spell,Solar Tempest
+11,Creature,Dark Queen Giant of the Arctic Blizzards
+12,Creature,Light Undead Goblin
+13,Creature,Troll
+14,Creature,Warlock
+15,Spell,Burn
+16,Creature,Snow Queen Dwarf of the West
+17,Creature,Fairy
+18,Spell,Assault
+19,Creature,Earth Lord Orc
+20,Creature,Light Warrior Griffin
+21,Creature,Snow Nameless Phoenix of Hate
+22,Enchantment,Apocalypse Drain
+23,Spell,Sorrow
+24,Artifact,Divine Robe
+25,Enchantment,Solar Lethargy
+26,Enchantment,Potent Nimble Drain
+27,Enchantment,Instant Chimeric Shrink
+28,Enchantment,Flight
+29,Spell,Reanimate
+30,Spell,Rage
+31,Artifact,Instant Dark Scepter
+32,Enchantment,Shade
+33,Creature,Paladin
+34,Spell,Rage
+35,Spell,Tempest
+36,Creature,Wolf
+37,Spell,Fire
+38,Artifact,Chimeric Scepter
+39,Enchantment,Ardent Life Haste
+40,Creature,Paladin
+41,Creature,Fairy
+42,Enchantment,Shrink
+43,Creature,Snow Warrior Orc
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,6161,Light
-0,Enchantment,Common,Flight
-1,Artifact,Common,Gauntlet
-2,Enchantment,Common,Invert
-3,Enchantment,Rare,Corpse Shield
-4,Creature,Rare,Frozen Merchant Berserker
-5,Enchantment,Legendary,Intense Age
-6,Spell,Legendary,Urgent Vortex
-7,Enchantment,Common,Shield
-8,Creature,Common,Warlock
-9,Creature,Common,Dwarf
-10,Enchantment,Legendary,Potent Deathgrip
-11,Enchantment,Common,Blight
-12,Creature,Common,Dwarf
-13,Spell,Common,Torment
-14,Creature,Legendary,Light King Giant of the Frozen Castle
-15,Spell,Rare,Forged Lightning
-16,Spell,Common,Reanimate
-17,Creature,Common,Orc
-18,Creature,Common,Dwarf
-19,Creature,Common,Eagle
-20,Enchantment,Common,Haste
-21,Creature,Common,Magi
-22,Creature,Common,Elf
-23,Creature,Rare,Earth Warrior Skin-Walker
-24,Spell,Common,Sorrow
-25,Creature,Common,Warlock
-26,Artifact,Common,Ghost Wand
-27,Enchantment,Common,Shield
-28,Spell,Rare,Oblivion Assault
-29,Creature,Common,Dwarf
-30,Enchantment,Common,Invert
-31,Spell,Legendary,Instant Reanimate
-32,Enchantment,Rare,Nature Shrink
-33,Creature,Rare,Snow Thief Minotaur
-34,Creature,Rare,Light Merchant Minotaur
-35,Enchantment,Rare,Oblivion Agony
-36,Creature,Common,Magi
-37,Artifact,Common,Ring
-38,Creature,Common,Ghoul
-39,Enchantment,Common,Deathgrip
-40,Creature,Rare,Aura Rogue Hydra
-41,Spell,Common,Frenzy
-42,Creature,Common,Dwarf
-43,Creature,Legendary,Snow Rogue Cyclops of the Plains
-44,Spell,Common,Gravitation
+==================,DECK,6161
+0,Enchantment,Alacrity
+1,Artifact,Gauntlet
+2,Enchantment,Firebreath
+3,Enchantment,Nature Age
+4,Creature,Frozen Merchant Goblin
+5,Enchantment,Mighty Nature Agony
+6,Spell,Instant Solar Vortex
+7,Enchantment,Invert
+8,Creature,Berserker
+9,Creature,Magi
+10,Enchantment,Empyrean Oblivion Shade
+11,Enchantment,Flight
+12,Creature,Magi
+13,Spell,Invisibility
+14,Creature,Light King Dwarf of the Frozen Castle
+15,Spell,Sorrow Fireball
+16,Spell,Sorrow
+17,Creature,Spider
+18,Creature,Magi
+19,Creature,Eagle
+20,Enchantment,Strength
+21,Creature,Fairy
+22,Creature,Warlock
+23,Creature,Earth Warrior Orc
+24,Spell,Vortex
+25,Creature,Berserker
+26,Artifact,Ghost Wand
+27,Enchantment,Invert
+28,Spell,Oblivion Frenzy
+29,Creature,Magi
+30,Enchantment,Alacrity
+31,Spell,Mighty Nature Heal
+32,Enchantment,Necro Strength
+33,Creature,Snow Thief Cyclops
+34,Creature,Light Merchant Cyclops
+35,Enchantment,Life Haste
+36,Creature,Fairy
+37,Artifact,Ring
+38,Creature,Ghoul
+39,Enchantment,Strength
+40,Creature,Aura Rogue Hydra
+41,Spell,Ice
+42,Creature,Magi
+43,Creature,Snow Rogue Giant of the Plains
+44,Spell,Tempest

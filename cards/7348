@@ -1,46 +1,46 @@
-==================,DECK,7348,Medium
-0,Creature,Common,Eagle
-1,Artifact,Rare,Apocalypse Ring
-2,Enchantment,Common,Lethargy
-3,Creature,Rare,Aura Undead Minotaur
-4,Creature,Legendary,Dark Undead Oni of the Border
-5,Artifact,Common,Potion
-6,Creature,Rare,Dark Monk Berserker
-7,Creature,Common,Goblin
-8,Creature,Common,Magi
-9,Enchantment,Rare,Apocalypse Age
-10,Spell,Common,Wall
-11,Creature,Legendary,Aura Warrior Oni of the Polar Woods
-12,Creature,Rare,Earth Monk Skin-Walker
-13,Enchantment,Rare,Necro Haste
-14,Creature,Rare,Snow Merchant Griffin
-15,Creature,Common,Eagle
-16,Creature,Common,Elf
-17,Creature,Rare,Dark Rogue Berserker
-18,Creature,Common,Magi
-19,Creature,Mythic,Snow Undead Dragon of Hate
-20,Spell,Rare,Shimmering Infuriate
-21,Artifact,Rare,Frigid Helm
-22,Creature,Mythic,Dark Chaos Wizard of Illusion
-23,Creature,Common,Orc
-24,Spell,Common,Infuriate
-25,Creature,Common,Ghoul
-26,Artifact,Common,Helmet
-27,Spell,Common,Fury
-28,Creature,Common,Magi
-29,Artifact,Common,Tome
-30,Creature,Legendary,Frozen Fighter Kraken of the Eastern Skies
-31,Spell,Common,Freeze
-32,Creature,Common,Dwarf
-33,Creature,Common,Goblin
-34,Enchantment,Rare,Hateful Haste
-35,Artifact,Rare,Gloom Scepter
-36,Creature,Mythic,Aura Grand Wizard of the Light
-37,Creature,Common,Wolf
-38,Creature,Rare,Frozen Merchant Skin-Walker
-39,Creature,Common,Goblin
-40,Creature,Rare,Light Fighter Minotaur
-41,Enchantment,Rare,Forged Lethargy
-42,Enchantment,Rare,Dark Lethargy
-43,Creature,Common,Magi
-44,Spell,Legendary,Mighty Sorrow
+==================,DECK,7348
+0,Creature,Eagle
+1,Artifact,Apocalypse Ring
+2,Enchantment,Alacrity
+3,Creature,Aura Undead Cyclops
+4,Creature,Dark Undead Oni of the Border
+5,Artifact,Potion
+6,Creature,Dark Monk Goblin
+7,Creature,Skin-Walker
+8,Creature,Fairy
+9,Enchantment,Victory Shade
+10,Spell,Lightning
+11,Creature,Aura Warrior Oni of the Polar Woods
+12,Creature,Earth Monk Orc
+13,Enchantment,Corpse Lethargy
+14,Creature,Snow Merchant Griffin
+15,Creature,Eagle
+16,Creature,Warlock
+17,Creature,Dark Rogue Goblin
+18,Creature,Fairy
+19,Creature,Snow Undead Dragon of Hate
+20,Spell,Corpse Stricken
+21,Artifact,Oblivion Helm
+22,Creature,Dark Chaos Wizard of Illusion
+23,Creature,Spider
+24,Spell,Vortex
+25,Creature,Ghoul
+26,Artifact,Helmet
+27,Spell,Invisibility
+28,Creature,Fairy
+29,Artifact,Tome
+30,Creature,Frozen Fighter Ogre of the Eastern Skies
+31,Spell,Frenzy
+32,Creature,Magi
+33,Creature,Skin-Walker
+34,Enchantment,Miracle Shrink
+35,Artifact,Miracle Scepter
+36,Creature,Aura Grand Wizard of the Light
+37,Creature,Wolf
+38,Creature,Frozen Merchant Orc
+39,Creature,Skin-Walker
+40,Creature,Light Fighter Cyclops
+41,Enchantment,Lunar Shrink
+42,Enchantment,Lunar Shrink
+43,Creature,Fairy
+44,Spell,Mighty Chimeric Infuriate

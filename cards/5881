@@ -1,46 +1,46 @@
-==================,DECK,5881,Medium
-0,Creature,Legendary,Snow Merchant Orge of the Frozen Castle
-1,Spell,Mythic,Mighty Hypnosis
-2,Creature,Common,Dwarf
-3,Creature,Common,Orc
-4,Creature,Rare,Earth Undead Skin-Walker
-5,Creature,Legendary,Snow Fighter Cyclops of the Eastern Skies
-6,Creature,Common,Dwarf
-7,Creature,Common,Elf
-8,Artifact,Rare,Solar Pendant
-9,Spell,Rare,Oblivion Assault
-10,Creature,Common,Spider
-11,Spell,Common,Gale
-12,Creature,Legendary,Snow Warrior Cyclops of the Plains
-13,Artifact,Rare,Lunar Greaves
-14,Creature,Common,Magi
-15,Artifact,Common,Amulet
-16,Creature,Legendary,Earth Warrior Giant of the Arctic Blizzards
-17,Artifact,Common,Helmet
-18,Spell,Rare,Corpse Lightning
-19,Creature,Rare,Aura Assassin Skin-Walker
-20,Creature,Common,Orc
-21,Creature,Common,Eagle
-22,Creature,Rare,Light Monk Skin-Walker
-23,Creature,Common,Orc
-24,Spell,Legendary,Instant Wall
-25,Spell,Legendary,Intense Rage
-26,Spell,Common,Revive
-27,Creature,Mythic,Snow Nameless Dragon of Hate
-28,Creature,Common,Elf
-29,Creature,Rare,Dark Undead Skin-Walker
-30,Creature,Rare,Aura Merchant Skin-Walker
-31,Enchantment,Common,Haste
-32,Spell,Common,Burn
-33,Enchantment,Rare,Shimmering Deathgrip
-34,Creature,Common,Magi
-35,Enchantment,Common,Lethargy
-36,Enchantment,Legendary,Angry Haste
-37,Spell,Common,Sorrow
-38,Creature,Common,Warlock
-39,Creature,Rare,Death Warrior Berserker
-40,Creature,Rare,Frozen King Fairy
-41,Creature,Mythic,Dark Time Dragon of Illusion
-42,Creature,Rare,Snow Thief Berserker
-43,Spell,Common,Invisibility
-44,Artifact,Common,Boots
+==================,DECK,5881
+0,Creature,Snow Merchant Elf of the Frozen Castle
+1,Spell,Zealous Cataclysmic Sorrow
+2,Creature,Magi
+3,Creature,Spider
+4,Creature,Earth Undead Orc
+5,Creature,Snow Fighter Giant of the Eastern Skies
+6,Creature,Magi
+7,Creature,Warlock
+8,Artifact,Shimmering Pendant
+9,Spell,Oblivion Fireball
+10,Creature,Paladin
+11,Spell,Hypnosis
+12,Creature,Snow Warrior Giant of the Plains
+13,Artifact,Lunar Greaves
+14,Creature,Fairy
+15,Artifact,Amulet
+16,Creature,Earth Warrior Dwarf of the Arctic Blizzards
+17,Artifact,Helmet
+18,Spell,Shimmering Tempest
+19,Creature,Aura Assassin Orc
+20,Creature,Spider
+21,Creature,Eagle
+22,Creature,Light Monk Orc
+23,Creature,Spider
+24,Spell,Instant Hateful Ice
+25,Spell,Irate Solar Assault
+26,Spell,Frost
+27,Creature,Snow Nameless Dragon of Hate
+28,Creature,Warlock
+29,Creature,Dark Undead Orc
+30,Creature,Aura Merchant Orc
+31,Enchantment,Lethargy
+32,Spell,Vortex
+33,Enchantment,Shimmering Lethargy
+34,Creature,Fairy
+35,Enchantment,Firebreath
+36,Enchantment,Empyrean Miracle Firebreath
+37,Spell,Gale
+38,Creature,Berserker
+39,Creature,Death Warrior Goblin
+40,Creature,Frozen King Kraken
+41,Creature,Dark Time Dragon of Illusion
+42,Creature,Snow Thief Goblin
+43,Spell,Stricken
+44,Artifact,Boots

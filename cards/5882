@@ -1,46 +1,46 @@
-==================,DECK,5882,Light
-0,Creature,Common,Goblin
-1,Enchantment,Common,Alacrity
-2,Creature,Common,Ghoul
-3,Spell,Common,Frost
-4,Artifact,Common,Sigil
-5,Creature,Legendary,Dark Queen Oni of the Arctic Blizzards
-6,Spell,Common,Ice
-7,Enchantment,Common,Strength
-8,Enchantment,Common,Agony
-9,Artifact,Common,Tome
-10,Spell,Common,Maelstrom
-11,Creature,Common,Ghoul
-12,Creature,Common,Goblin
-13,Artifact,Legendary,Angry Sigil
-14,Creature,Common,Eagle
-15,Enchantment,Common,Shrink
-16,Spell,Common,Ice
-17,Creature,Common,Ghoul
-18,Spell,Legendary,Extreme Ice
-19,Creature,Common,Dwarf
-20,Creature,Common,Warlock
-21,Spell,Common,Heal
-22,Artifact,Common,Gloves
-23,Spell,Common,Frost
-24,Creature,Common,Wolf
-25,Spell,Rare,Necro Stricken
-26,Enchantment,Common,Drain
-27,Creature,Common,Spider
-28,Spell,Common,Heal
-29,Artifact,Legendary,Urgent Staff
-30,Creature,Rare,Frozen Fighter Griffin
-31,Spell,Common,Ice
-32,Artifact,Common,Bracers
-33,Artifact,Legendary,Dire Helmet
-34,Enchantment,Legendary,Intense Shield
-35,Creature,Mythic,Death Chaos Demon of the Dead
-36,Creature,Common,Paladin
-37,Enchantment,Mythic,Potent Deathgrip
-38,Creature,Common,Dwarf
-39,Artifact,Common,Staff
-40,Creature,Common,Orc
-41,Spell,Legendary,Instant Revive
-42,Spell,Common,Gravitation
-43,Enchantment,Rare,Forged Shield
-44,Creature,Rare,Earth Merchant Minotaur
+==================,DECK,5882
+0,Creature,Skin-Walker
+1,Enchantment,Flight
+2,Creature,Ghoul
+3,Spell,Gale
+4,Artifact,Sigil
+5,Creature,Dark Queen Oni of the Arctic Blizzards
+6,Spell,Heal
+7,Enchantment,Shield
+8,Enchantment,Deathgrip
+9,Artifact,Tome
+10,Spell,Freeze
+11,Creature,Ghoul
+12,Creature,Skin-Walker
+13,Artifact,Mighty Gloom Sigil
+14,Creature,Eagle
+15,Enchantment,Deathgrip
+16,Spell,Burst
+17,Creature,Ghoul
+18,Spell,Mighty Cataclysmic Hypnosis
+19,Creature,Magi
+20,Creature,Berserker
+21,Spell,Maelstrom
+22,Artifact,Gloves
+23,Spell,Stun
+24,Creature,Wolf
+25,Spell,Necro Vortex
+26,Enchantment,Blight
+27,Creature,Paladin
+28,Spell,Gravitation
+29,Artifact,Irate Solar Staff
+30,Creature,Frozen Fighter Griffin
+31,Spell,Fireball
+32,Artifact,Bracers
+33,Artifact,Irate Apocalypse Helmet
+34,Enchantment,Urgent Nature Agony
+35,Creature,Death Chaos Demon of the Dead
+36,Creature,Troll
+37,Enchantment,Empyrean Oblivion Shade
+38,Creature,Magi
+39,Artifact,Staff
+40,Creature,Spider
+41,Spell,Ardent Corpse Hypnosis
+42,Spell,Ice
+43,Enchantment,Gloom Firebreath
+44,Creature,Earth Merchant Cyclops

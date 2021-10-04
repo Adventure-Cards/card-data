@@ -1,46 +1,46 @@
-==================,DECK,7494,Medium
-0,Creature,Rare,Earth Thief Berserker
-1,Enchantment,Rare,Grim Lethargy
-2,Artifact,Rare,Hateful Sigil
-3,Artifact,Rare,Necro Boots
-4,Creature,Rare,Snow Merchant Minotaur
-5,Creature,Rare,Frozen Assassin Berserker
-6,Creature,Rare,Earth Assassin Griffin
-7,Enchantment,Common,Invert
-8,Creature,Common,Ghoul
-9,Creature,Common,Magi
-10,Creature,Common,Elf
-11,Creature,Common,Warlock
-12,Artifact,Rare,Solar Divine Robe
-13,Creature,Common,Elf
-14,Creature,Rare,Death Warrior Minotaur
-15,Creature,Mythic,Frozen Chaos Wizard of the Void
-16,Creature,Common,Wolf
-17,Enchantment,Mythic,Clever Age
-18,Creature,Common,Dwarf
-19,Creature,Legendary,Light Warrior Oni of the Black Stone
-20,Enchantment,Rare,Life Flight
-21,Spell,Rare,Cataclysmic Pandemonium
-22,Creature,Common,Spider
-23,Creature,Legendary,Death Priest Orge of the Haven
-24,Creature,Common,Orc
-25,Spell,Rare,Forged Frenzy
-26,Creature,Common,Spider
-27,Enchantment,Common,Strength
-28,Enchantment,Common,Drain
-29,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-30,Creature,Common,Dwarf
-31,Creature,Rare,Aura Knight Berserker
-32,Enchantment,Rare,Nature Age
-33,Creature,Common,Ghoul
-34,Spell,Legendary,Potent Vortex
-35,Artifact,Common,Scepter
-36,Creature,Common,Wolf
-37,Spell,Common,Frenzy
-38,Enchantment,Rare,Oblivion Agony
-39,Artifact,Rare,Necro Sigil
-40,Spell,Common,Assault
-41,Spell,Rare,Oblivion Heal
-42,Spell,Common,Frenzy
-43,Spell,Common,Stricken
-44,Creature,Common,Goblin
+==================,DECK,7494
+0,Creature,Earth Thief Goblin
+1,Enchantment,Grim Blight
+2,Artifact,Miracle Sigil
+3,Artifact,Shimmering Boots
+4,Creature,Snow Merchant Cyclops
+5,Creature,Frozen Assassin Goblin
+6,Creature,Earth Assassin Griffin
+7,Enchantment,Shrink
+8,Creature,Ghoul
+9,Creature,Fairy
+10,Creature,Warlock
+11,Creature,Berserker
+12,Artifact,Shimmering Divine Robe
+13,Creature,Warlock
+14,Creature,Death Warrior Cyclops
+15,Creature,Frozen Chaos Wizard of the Void
+16,Creature,Wolf
+17,Enchantment,Mighty Victory Invert
+18,Creature,Magi
+19,Creature,Light Warrior Oni of the Black Stone
+20,Enchantment,Grim Blight
+21,Spell,Gloom Infuriate
+22,Creature,Paladin
+23,Creature,Death Priest Elf of the Haven
+24,Creature,Spider
+25,Spell,Sorrow Frost
+26,Creature,Paladin
+27,Enchantment,Age
+28,Enchantment,Flight
+29,Creature,Earth Nameless Phoenix of the Shadows
+30,Creature,Magi
+31,Creature,Aura Knight Goblin
+32,Enchantment,Nature Agony
+33,Creature,Ghoul
+34,Spell,Ardent Victory Sorrow
+35,Artifact,Scepter
+36,Creature,Wolf
+37,Spell,Infuriate
+38,Enchantment,Life Drain
+39,Artifact,Shimmering Sigil
+40,Spell,Gravitation
+41,Spell,Oblivion Pandemonium
+42,Spell,Burst
+43,Spell,Reanimate
+44,Creature,Skin-Walker

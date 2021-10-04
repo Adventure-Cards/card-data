@@ -1,46 +1,46 @@
-==================,DECK,7460,Light
-0,Creature,Rare,Aura Rogue Hydra
-1,Creature,Rare,Snow Thief Hydra
-2,Creature,Rare,Light Fighter Berserker
-3,Artifact,Common,Crown
-4,Spell,Rare,Cataclysmic Ice
-5,Creature,Common,Warlock
-6,Creature,Common,Ghoul
-7,Artifact,Common,Potion
-8,Spell,Common,Hypnosis
-9,Enchantment,Common,Invert
-10,Enchantment,Common,Strength
-11,Spell,Common,Freeze
-12,Enchantment,Legendary,Extreme Age
-13,Creature,Common,Paladin
-14,Creature,Rare,Death Rogue Hydra
-15,Creature,Common,Elf
-16,Artifact,Common,Bracers
-17,Spell,Rare,Cataclysmic Stricken
-18,Enchantment,Common,Strength
-19,Spell,Rare,Nimble Assault
-20,Spell,Common,Rage
-21,Enchantment,Common,Alacrity
-22,Artifact,Rare,Hateful Sword
-23,Creature,Rare,Earth Fighter Fairy
-24,Creature,Common,Dwarf
-25,Creature,Common,Orc
-26,Creature,Common,Ghoul
-27,Enchantment,Common,Invert
-28,Creature,Rare,Light Priest Berserker
-29,Spell,Common,Stricken
-30,Enchantment,Rare,Dark Shield
-31,Creature,Common,Spider
-32,Creature,Common,Goblin
-33,Enchantment,Common,Shrink
-34,Spell,Common,Gravitation
-35,Enchantment,Common,Flight
-36,Creature,Legendary,Dark Thief Orge of the Black Stone
-37,Spell,Common,Fury
-38,Enchantment,Common,Shade
-39,Spell,Common,Revive
-40,Enchantment,Legendary,Dire Alacrity
-41,Artifact,Common,Greaves
-42,Enchantment,Common,Blight
-43,Creature,Common,Orc
-44,Creature,Common,Spider
+==================,DECK,7460
+0,Creature,Aura Rogue Hydra
+1,Creature,Snow Thief Hydra
+2,Creature,Light Fighter Goblin
+3,Artifact,Crown
+4,Spell,Chimeric Fire
+5,Creature,Berserker
+6,Creature,Ghoul
+7,Artifact,Potion
+8,Spell,Revive
+9,Enchantment,Lethargy
+10,Enchantment,Alacrity
+11,Spell,Rage
+12,Enchantment,Potent Gloom Shrink
+13,Creature,Troll
+14,Creature,Death Rogue Hydra
+15,Creature,Warlock
+16,Artifact,Bracers
+17,Spell,Dark Gale
+18,Enchantment,Firebreath
+19,Spell,Forged Gale
+20,Spell,Maelstrom
+21,Enchantment,Flight
+22,Artifact,Gloom Sword
+23,Creature,Earth Fighter Kraken
+24,Creature,Magi
+25,Creature,Spider
+26,Creature,Ghoul
+27,Enchantment,Invert
+28,Creature,Light Priest Goblin
+29,Spell,Heal
+30,Enchantment,Gloom Firebreath
+31,Creature,Paladin
+32,Creature,Skin-Walker
+33,Enchantment,Shrink
+34,Spell,Torment
+35,Enchantment,Strength
+36,Creature,Dark Thief Elf of the Black Stone
+37,Spell,Wall
+38,Enchantment,Agony
+39,Spell,Freeze
+40,Enchantment,Dire Apocalypse Shade
+41,Artifact,Greaves
+42,Enchantment,Alacrity
+43,Creature,Spider
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,6927,Medium
-0,Creature,Common,Ghoul
-1,Spell,Legendary,Clever Vortex
-2,Creature,Rare,Frozen Assassin Hydra
-3,Spell,Common,Hypnosis
-4,Artifact,Common,Scythe
-5,Creature,Legendary,Aura Priest Giant of the Polar Woods
-6,Creature,Common,Warlock
-7,Artifact,Rare,Dark Scythe
-8,Enchantment,Mythic,Dire Shield
-9,Creature,Rare,Snow Warrior Minotaur
-10,Creature,Common,Wolf
-11,Creature,Common,Magi
-12,Creature,Rare,Dark Knight Hydra
-13,Artifact,Rare,Oblivion Gloves
-14,Spell,Common,Sorrow
-15,Spell,Common,Gale
-16,Enchantment,Rare,Shimmering Drain
-17,Spell,Common,Stricken
-18,Artifact,Common,Tome
-19,Creature,Common,Eagle
-20,Creature,Legendary,Snow Undead Oni of the Mountains
-21,Spell,Common,Frost
-22,Creature,Common,Orc
-23,Enchantment,Mythic,Intense Haste
-24,Enchantment,Common,Lethargy
-25,Artifact,Common,Tome
-26,Creature,Rare,Aura Assassin Skin-Walker
-27,Creature,Common,Wolf
-28,Artifact,Common,Helm
-29,Creature,Legendary,Aura Warrior Cyclops of the Golden Palace
-30,Creature,Legendary,Snow Undead Oni of the Border
-31,Creature,Rare,Light Queen Fairy
-32,Creature,Common,Paladin
-33,Artifact,Common,Scepter
-34,Creature,Rare,Dark Fighter Minotaur
-35,Spell,Rare,Apocalypse Maelstrom
-36,Creature,Legendary,Earth Lord Kraken of the Eternal Land
-37,Creature,Rare,Snow King Skin-Walker
-38,Spell,Common,Pandemonium
-39,Artifact,Common,Cloak
-40,Enchantment,Legendary,Potent Lethargy
-41,Creature,Rare,Death Assassin Skin-Walker
-42,Creature,Common,Goblin
-43,Creature,Common,Orc
-44,Creature,Rare,Frozen Fighter Berserker
+==================,DECK,6927
+0,Creature,Ghoul
+1,Spell,Instant Victory Maelstrom
+2,Creature,Frozen Assassin Hydra
+3,Spell,Gale
+4,Artifact,Scythe
+5,Creature,Aura Priest Dwarf of the Polar Woods
+6,Creature,Berserker
+7,Artifact,Lunar Scythe
+8,Enchantment,Urgent Victory Invert
+9,Creature,Snow Warrior Cyclops
+10,Creature,Wolf
+11,Creature,Fairy
+12,Creature,Dark Knight Hydra
+13,Artifact,Nimble Gloves
+14,Spell,Lightning
+15,Spell,Rage
+16,Enchantment,Forged Deathgrip
+17,Spell,Wall
+18,Artifact,Tome
+19,Creature,Eagle
+20,Creature,Snow Undead Oni of the Mountains
+21,Spell,Rage
+22,Creature,Spider
+23,Enchantment,Clever Corpse Lethargy
+24,Enchantment,Lethargy
+25,Artifact,Tome
+26,Creature,Aura Assassin Orc
+27,Creature,Wolf
+28,Artifact,Helm
+29,Creature,Aura Warrior Giant of the Golden Palace
+30,Creature,Snow Undead Oni of the Border
+31,Creature,Light Queen Kraken
+32,Creature,Troll
+33,Artifact,Scepter
+34,Creature,Dark Fighter Cyclops
+35,Spell,Grim Lightning
+36,Creature,Earth Lord Ogre of the Eternal Land
+37,Creature,Snow King Orc
+38,Spell,Infuriate
+39,Artifact,Cloak
+40,Enchantment,Urgent Grim Invert
+41,Creature,Death Assassin Orc
+42,Creature,Skin-Walker
+43,Creature,Spider
+44,Creature,Frozen Fighter Goblin

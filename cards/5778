@@ -1,46 +1,46 @@
-==================,DECK,5778,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Paladin
-2,Spell,Rare,Corpse Heal
-3,Creature,Common,Paladin
-4,Spell,Legendary,Potent Vortex
-5,Creature,Common,Dwarf
-6,Spell,Common,Vortex
-7,Creature,Common,Elf
-8,Artifact,Legendary,Clever Scythe
-9,Spell,Common,Frost
-10,Creature,Mythic,Light Nameless Dragon of the Sky
-11,Spell,Rare,Life Maelstrom
-12,Creature,Common,Elf
-13,Creature,Mythic,Frozen Chaos Demon of the Void
-14,Enchantment,Rare,Grim Strength
-15,Creature,Common,Eagle
-16,Creature,Rare,Aura Undead Minotaur
-17,Spell,Rare,Nature Infuriate
-18,Artifact,Common,Bracers
-19,Spell,Rare,Miracle Hypnosis
-20,Spell,Rare,Frigid Heal
-21,Spell,Rare,Gloom Rage
-22,Creature,Common,Elf
-23,Artifact,Common,Divine Robe
-24,Creature,Common,Spider
-25,Creature,Common,Magi
-26,Enchantment,Common,Invert
-27,Spell,Common,Reanimate
-28,Creature,Common,Warlock
-29,Creature,Legendary,Frozen King Giant of the Mountains
-30,Spell,Common,Hypnosis
-31,Artifact,Legendary,Clever Helmet
-32,Spell,Rare,Dark Revive
-33,Artifact,Rare,Nature Helmet
-34,Enchantment,Common,Flight
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Magi
-37,Creature,Rare,Earth Thief Minotaur
-38,Spell,Common,Frost
-39,Artifact,Common,Divine Robe
-40,Creature,Common,Magi
-41,Enchantment,Common,Shade
-42,Artifact,Rare,Solar Bow
-43,Creature,Common,Eagle
-44,Spell,Common,Frost
+==================,DECK,5778
+0,Creature,Magi
+1,Creature,Troll
+2,Spell,Corpse Burst
+3,Creature,Troll
+4,Spell,Ardent Life Gravitation
+5,Creature,Magi
+6,Spell,Stricken
+7,Creature,Warlock
+8,Artifact,Dire Frigid Scythe
+9,Spell,Vortex
+10,Creature,Light Nameless Dragon of the Sky
+11,Spell,Grim Vortex
+12,Creature,Warlock
+13,Creature,Frozen Chaos Demon of the Void
+14,Enchantment,Nimble Shade
+15,Creature,Eagle
+16,Creature,Aura Undead Cyclops
+17,Spell,Solar Wall
+18,Artifact,Bracers
+19,Spell,Victory Burn
+20,Spell,Life Revive
+21,Spell,Dark Frenzy
+22,Creature,Warlock
+23,Artifact,Divine Robe
+24,Creature,Paladin
+25,Creature,Fairy
+26,Enchantment,Shield
+27,Spell,Fireball
+28,Creature,Berserker
+29,Creature,Frozen King Dwarf of the Mountains
+30,Spell,Revive
+31,Artifact,Zealous Frigid Helmet
+32,Spell,Dark Stricken
+33,Artifact,Hateful Helmet
+34,Enchantment,Invert
+35,Enchantment,Shrink
+36,Creature,Fairy
+37,Creature,Earth Thief Cyclops
+38,Spell,Frenzy
+39,Artifact,Divine Robe
+40,Creature,Fairy
+41,Enchantment,Deathgrip
+42,Artifact,Nature Bow
+43,Creature,Eagle
+44,Spell,Fury

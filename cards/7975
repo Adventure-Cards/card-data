@@ -1,46 +1,46 @@
-==================,DECK,7975,Medium
-0,Spell,Common,Burn
-1,Enchantment,Common,Invert
-2,Creature,Common,Magi
-3,Spell,Common,Infuriate
-4,Creature,Common,Goblin
-5,Enchantment,Common,Deathgrip
-6,Creature,Rare,Light Assassin Berserker
-7,Enchantment,Common,Deathgrip
-8,Creature,Common,Elf
-9,Artifact,Rare,Nimble Tome
-10,Artifact,Common,Gauntlet
-11,Spell,Common,Maelstrom
-12,Spell,Legendary,Instant Burn
-13,Spell,Common,Lightning
-14,Creature,Rare,Dark Warrior Berserker
-15,Creature,Rare,Light Rogue Griffin
-16,Enchantment,Common,Invert
-17,Creature,Common,Paladin
-18,Creature,Rare,Frozen Thief Fairy
-19,Enchantment,Common,Deathgrip
-20,Artifact,Common,Divine Robe
-21,Spell,Common,Stricken
-22,Enchantment,Mythic,Angry Strength
-23,Spell,Common,Infuriate
-24,Creature,Legendary,Death Fighter Orge of the Border
-25,Enchantment,Common,Strength
-26,Spell,Common,Stricken
-27,Creature,Common,Elf
-28,Creature,Rare,Snow Assassin Fairy
-29,Creature,Mythic,Dark Grand Demon of Illusion
-30,Creature,Legendary,Light Warrior Kraken of the Eastern Skies
-31,Creature,Common,Paladin
-32,Creature,Common,Paladin
-33,Spell,Common,Revive
-34,Enchantment,Rare,Shimmering Deathgrip
-35,Creature,Common,Dwarf
-36,Creature,Rare,Death Knight Hydra
-37,Artifact,Common,Sword
-38,Spell,Legendary,Intense Stun
-39,Creature,Rare,Snow King Hydra
-40,Spell,Rare,Shimmering Reanimate
-41,Enchantment,Mythic,Clever Haste
-42,Enchantment,Common,Invert
-43,Enchantment,Common,Alacrity
-44,Creature,Common,Orc
+==================,DECK,7975
+0,Spell,Torment
+1,Enchantment,Shrink
+2,Creature,Fairy
+3,Spell,Stricken
+4,Creature,Skin-Walker
+5,Enchantment,Strength
+6,Creature,Light Assassin Goblin
+7,Enchantment,Shrink
+8,Creature,Warlock
+9,Artifact,Shimmering Tome
+10,Artifact,Gauntlet
+11,Spell,Frost
+12,Spell,Zealous Necro Stun
+13,Spell,Fire
+14,Creature,Dark Warrior Goblin
+15,Creature,Light Rogue Griffin
+16,Enchantment,Strength
+17,Creature,Troll
+18,Creature,Frozen Thief Kraken
+19,Enchantment,Agony
+20,Artifact,Divine Robe
+21,Spell,Gale
+22,Enchantment,Urgent Cataclysmic Flight
+23,Spell,Heal
+24,Creature,Death Fighter Elf of the Border
+25,Enchantment,Invert
+26,Spell,Infuriate
+27,Creature,Warlock
+28,Creature,Snow Assassin Kraken
+29,Creature,Dark Grand Demon of Illusion
+30,Creature,Light Warrior Ogre of the Eastern Skies
+31,Creature,Troll
+32,Creature,Troll
+33,Spell,Maelstrom
+34,Enchantment,Shimmering Deathgrip
+35,Creature,Magi
+36,Creature,Death Knight Hydra
+37,Artifact,Sword
+38,Spell,Mighty Corpse Lightning
+39,Creature,Snow King Hydra
+40,Spell,Hateful Tempest
+41,Enchantment,Mighty Life Invert
+42,Enchantment,Shrink
+43,Enchantment,Alacrity
+44,Creature,Spider

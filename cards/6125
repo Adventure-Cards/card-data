@@ -1,46 +1,46 @@
-==================,DECK,6125,Light
-0,Creature,Common,Orc
-1,Creature,Rare,Dark Lord Berserker
-2,Creature,Rare,Light Rogue Minotaur
-3,Creature,Rare,Dark Warrior Griffin
-4,Enchantment,Common,Agony
-5,Creature,Common,Spider
-6,Enchantment,Mythic,Mighty Alacrity
-7,Creature,Common,Eagle
-8,Spell,Rare,Lunar Fury
-9,Creature,Common,Warlock
-10,Creature,Legendary,Frozen Fighter Giant of the Magical Forest
-11,Spell,Common,Stricken
-12,Enchantment,Mythic,Potent Alacrity
-13,Enchantment,Common,Invert
-14,Enchantment,Mythic,Potent Flight
-15,Creature,Rare,Dark Fighter Berserker
-16,Artifact,Common,Sigil
-17,Enchantment,Common,Shade
-18,Spell,Common,Fury
-19,Creature,Mythic,Death Ancient Demon of the Dead
-20,Creature,Common,Ghoul
-21,Creature,Common,Magi
-22,Spell,Legendary,Extreme Frenzy
-23,Enchantment,Mythic,Potent Haste
-24,Spell,Common,Wall
-25,Spell,Rare,Forged Frost
-26,Creature,Rare,Frozen Priest Minotaur
-27,Artifact,Common,Ring
-28,Creature,Common,Magi
-29,Creature,Rare,Frozen Priest Skin-Walker
-30,Enchantment,Common,Shade
-31,Creature,Common,Paladin
-32,Enchantment,Common,Shrink
-33,Creature,Rare,Earth Knight Skin-Walker
-34,Enchantment,Common,Agony
-35,Creature,Mythic,Aura Time Dragon of the Light
-36,Enchantment,Common,Invert
-37,Creature,Common,Elf
-38,Spell,Legendary,Intense Ice
-39,Spell,Common,Sorrow
-40,Creature,Common,Goblin
-41,Spell,Legendary,Dire Pandemonium
-42,Spell,Rare,Lunar Ice
-43,Enchantment,Common,Drain
-44,Creature,Common,Ghoul
+==================,DECK,6125
+0,Creature,Spider
+1,Creature,Dark Lord Goblin
+2,Creature,Light Rogue Cyclops
+3,Creature,Dark Warrior Griffin
+4,Enchantment,Blight
+5,Creature,Paladin
+6,Enchantment,Irate Dark Alacrity
+7,Creature,Eagle
+8,Spell,Cataclysmic Ice
+9,Creature,Berserker
+10,Creature,Frozen Fighter Dwarf of the Magical Forest
+11,Spell,Invisibility
+12,Enchantment,Dire Apocalypse Shade
+13,Enchantment,Shade
+14,Enchantment,Potent Grim Drain
+15,Creature,Dark Fighter Goblin
+16,Artifact,Sigil
+17,Enchantment,Drain
+18,Spell,Ice
+19,Creature,Death Ancient Demon of the Dead
+20,Creature,Ghoul
+21,Creature,Fairy
+22,Spell,Urgent Dark Fury
+23,Enchantment,Zealous Life Blight
+24,Spell,Invisibility
+25,Spell,Sorrow Vortex
+26,Creature,Frozen Priest Cyclops
+27,Artifact,Ring
+28,Creature,Fairy
+29,Creature,Frozen Priest Orc
+30,Enchantment,Haste
+31,Creature,Troll
+32,Enchantment,Blight
+33,Creature,Earth Knight Orc
+34,Enchantment,Alacrity
+35,Creature,Aura Time Dragon of the Light
+36,Enchantment,Lethargy
+37,Creature,Warlock
+38,Spell,Clever Solar Torment
+39,Spell,Reanimate
+40,Creature,Skin-Walker
+41,Spell,Empyrean Oblivion Reanimate
+42,Spell,Chimeric Assault
+43,Enchantment,Alacrity
+44,Creature,Ghoul

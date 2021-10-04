@@ -1,46 +1,46 @@
-==================,DECK,4377,Light
-0,Creature,Legendary,Earth Monk Cyclops of the Border
-1,Spell,Common,Rage
-2,Creature,Common,Elf
-3,Enchantment,Common,Flight
-4,Creature,Legendary,Earth Knight Kraken of the Border
-5,Spell,Common,Heal
-6,Creature,Common,Warlock
-7,Enchantment,Rare,Oblivion Lethargy
-8,Creature,Rare,Death King Minotaur
-9,Creature,Common,Spider
-10,Creature,Common,Goblin
-11,Spell,Common,Maelstrom
-12,Spell,Common,Infuriate
-13,Creature,Legendary,Snow King Cyclops of the Eastern Skies
-14,Creature,Rare,Earth Merchant Hydra
-15,Creature,Common,Ghoul
-16,Creature,Common,Ghoul
-17,Creature,Common,Spider
-18,Creature,Rare,Snow Queen Skin-Walker
-19,Enchantment,Common,Strength
-20,Artifact,Common,Shield
-21,Creature,Rare,Light Warrior Skin-Walker
-22,Enchantment,Common,Deathgrip
-23,Creature,Common,Dwarf
-24,Enchantment,Mythic,Instant Invert
-25,Creature,Rare,Snow Undead Fairy
-26,Artifact,Common,Greaves
-27,Creature,Common,Orc
-28,Creature,Common,Warlock
-29,Creature,Common,Spider
-30,Spell,Common,Frost
-31,Creature,Common,Elf
-32,Creature,Mythic,Light Nameless Phoenix of the Sky
-33,Creature,Common,Magi
-34,Creature,Common,Dwarf
-35,Creature,Common,Orc
-36,Spell,Common,Frenzy
-37,Creature,Mythic,Aura Nameless Phoenix of the Light
-38,Artifact,Rare,Life Helm
-39,Creature,Common,Paladin
-40,Creature,Legendary,Death Assassin Cyclops of the Eastern Skies
-41,Spell,Common,Torment
-42,Enchantment,Common,Agony
-43,Creature,Legendary,Aura Merchant Orge of the Mountains
-44,Enchantment,Rare,Forged Strength
+==================,DECK,4377
+0,Creature,Earth Monk Giant of the Border
+1,Spell,Reanimate
+2,Creature,Warlock
+3,Enchantment,Alacrity
+4,Creature,Earth Knight Ogre of the Border
+5,Spell,Frost
+6,Creature,Berserker
+7,Enchantment,Grim Shade
+8,Creature,Death King Cyclops
+9,Creature,Paladin
+10,Creature,Skin-Walker
+11,Spell,Invisibility
+12,Spell,Gravitation
+13,Creature,Snow King Giant of the Eastern Skies
+14,Creature,Earth Merchant Hydra
+15,Creature,Ghoul
+16,Creature,Ghoul
+17,Creature,Paladin
+18,Creature,Snow Queen Orc
+19,Enchantment,Blight
+20,Artifact,Shield
+21,Creature,Light Warrior Orc
+22,Enchantment,Alacrity
+23,Creature,Magi
+24,Enchantment,Dire Shimmering Age
+25,Creature,Snow Undead Kraken
+26,Artifact,Greaves
+27,Creature,Spider
+28,Creature,Berserker
+29,Creature,Paladin
+30,Spell,Vortex
+31,Creature,Warlock
+32,Creature,Light Nameless Phoenix of the Sky
+33,Creature,Fairy
+34,Creature,Magi
+35,Creature,Spider
+36,Spell,Fury
+37,Creature,Aura Nameless Phoenix of the Light
+38,Artifact,Frigid Helm
+39,Creature,Troll
+40,Creature,Death Assassin Giant of the Eastern Skies
+41,Spell,Stricken
+42,Enchantment,Shrink
+43,Creature,Aura Merchant Elf of the Mountains
+44,Enchantment,Cataclysmic Shrink

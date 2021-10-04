@@ -1,46 +1,46 @@
-==================,DECK,4178,Light
-0,Spell,Rare,Shimmering Stun
-1,Creature,Common,Dwarf
-2,Enchantment,Mythic,Intense Strength
-3,Artifact,Common,Potion
-4,Creature,Common,Wolf
-5,Creature,Common,Warlock
-6,Creature,Common,Spider
-7,Creature,Common,Elf
-8,Enchantment,Mythic,Angry Haste
-9,Enchantment,Common,Drain
-10,Spell,Common,Heal
-11,Creature,Rare,Earth Monk Hydra
-12,Creature,Common,Eagle
-13,Enchantment,Common,Flight
-14,Creature,Common,Warlock
-15,Enchantment,Common,Invert
-16,Spell,Common,Heal
-17,Enchantment,Common,Deathgrip
-18,Spell,Rare,Shimmering Ice
-19,Creature,Mythic,Frozen Time Dragon of the Void
-20,Enchantment,Common,Lethargy
-21,Creature,Legendary,Earth Undead Orge of the Swamp
-22,Spell,Rare,Corpse Vortex
-23,Enchantment,Common,Agony
-24,Enchantment,Mythic,Potent Shield
-25,Enchantment,Mythic,Clever Agony
-26,Spell,Common,Invisibility
-27,Creature,Legendary,Light Warrior Kraken of the Haven
-28,Spell,Rare,Corpse Wall
-29,Spell,Legendary,Urgent Maelstrom
-30,Creature,Legendary,Frozen Fighter Cyclops of the Haven
-31,Spell,Rare,Life Sorrow
-32,Enchantment,Rare,Life Deathgrip
-33,Creature,Rare,Dark Knight Griffin
-34,Creature,Common,Wolf
-35,Artifact,Common,Bracers
-36,Creature,Common,Wolf
-37,Artifact,Common,Helm
-38,Artifact,Common,Bow
-39,Creature,Common,Elf
-40,Spell,Common,Freeze
-41,Creature,Common,Spider
-42,Creature,Common,Elf
-43,Spell,Common,Revive
-44,Artifact,Common,Scythe
+==================,DECK,4178
+0,Spell,Hateful Heal
+1,Creature,Magi
+2,Enchantment,Urgent Solar Agony
+3,Artifact,Potion
+4,Creature,Wolf
+5,Creature,Berserker
+6,Creature,Paladin
+7,Creature,Warlock
+8,Enchantment,Potent Miracle Shrink
+9,Enchantment,Age
+10,Spell,Hypnosis
+11,Creature,Earth Monk Hydra
+12,Creature,Eagle
+13,Enchantment,Shade
+14,Creature,Berserker
+15,Enchantment,Blight
+16,Spell,Burst
+17,Enchantment,Drain
+18,Spell,Forged Maelstrom
+19,Creature,Frozen Time Dragon of the Void
+20,Enchantment,Agony
+21,Creature,Earth Undead Elf of the Swamp
+22,Spell,Hateful Burn
+23,Enchantment,Lethargy
+24,Enchantment,Ardent Victory Haste
+25,Enchantment,Ardent Life Haste
+26,Spell,Tempest
+27,Creature,Light Warrior Ogre of the Haven
+28,Spell,Forged Gale
+29,Spell,Empyrean Corpse Fireball
+30,Creature,Frozen Fighter Giant of the Haven
+31,Spell,Oblivion Stricken
+32,Enchantment,Oblivion Blight
+33,Creature,Dark Knight Griffin
+34,Creature,Wolf
+35,Artifact,Bracers
+36,Creature,Wolf
+37,Artifact,Helm
+38,Artifact,Bow
+39,Creature,Warlock
+40,Spell,Freeze
+41,Creature,Paladin
+42,Creature,Warlock
+43,Spell,Burst
+44,Artifact,Scythe

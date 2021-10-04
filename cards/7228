@@ -1,46 +1,46 @@
-==================,DECK,7228,Light
-0,Artifact,Legendary,Urgent Ring
-1,Creature,Common,Warlock
-2,Creature,Common,Wolf
-3,Spell,Common,Ice
-4,Enchantment,Mythic,Intense Drain
-5,Creature,Common,Spider
-6,Spell,Common,Heal
-7,Creature,Common,Goblin
-8,Artifact,Common,Boots
-9,Creature,Rare,Earth Thief Minotaur
-10,Enchantment,Common,Drain
-11,Creature,Mythic,Earth Chaos Demon of the Shadows
-12,Creature,Common,Eagle
-13,Creature,Common,Magi
-14,Creature,Common,Eagle
-15,Spell,Legendary,Mighty Gravitation
-16,Creature,Common,Wolf
-17,Creature,Common,Orc
-18,Creature,Rare,Earth Rogue Berserker
-19,Enchantment,Mythic,Potent Invert
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Strength
-22,Creature,Common,Orc
-23,Enchantment,Rare,Cataclysmic Deathgrip
-24,Spell,Common,Invisibility
-25,Creature,Common,Dwarf
-26,Creature,Common,Ghoul
-27,Creature,Common,Elf
-28,Artifact,Rare,Corpse Helmet
-29,Creature,Common,Paladin
-30,Creature,Legendary,Dark Undead Oni of the Magical Forest
-31,Creature,Common,Wolf
-32,Artifact,Legendary,Mighty Gauntlet
-33,Creature,Common,Spider
-34,Enchantment,Common,Agony
-35,Creature,Common,Magi
-36,Enchantment,Rare,Nimble Invert
-37,Creature,Rare,Light Fighter Minotaur
-38,Creature,Rare,Aura Rogue Griffin
-39,Creature,Common,Paladin
-40,Spell,Common,Frost
-41,Creature,Rare,Snow Undead Hydra
-42,Enchantment,Common,Shield
-43,Creature,Common,Orc
-44,Artifact,Common,Ring
+==================,DECK,7228
+0,Artifact,Instant Solar Ring
+1,Creature,Berserker
+2,Creature,Wolf
+3,Spell,Revive
+4,Enchantment,Mighty Forged Agony
+5,Creature,Paladin
+6,Spell,Heal
+7,Creature,Skin-Walker
+8,Artifact,Boots
+9,Creature,Earth Thief Cyclops
+10,Enchantment,Agony
+11,Creature,Earth Chaos Demon of the Shadows
+12,Creature,Eagle
+13,Creature,Fairy
+14,Creature,Eagle
+15,Spell,Dire Lunar Wall
+16,Creature,Wolf
+17,Creature,Spider
+18,Creature,Earth Rogue Goblin
+19,Enchantment,Irate Oblivion Blight
+20,Enchantment,Haste
+21,Enchantment,Shrink
+22,Creature,Spider
+23,Enchantment,Sorrow Firebreath
+24,Spell,Fury
+25,Creature,Magi
+26,Creature,Ghoul
+27,Creature,Warlock
+28,Artifact,Hateful Helmet
+29,Creature,Troll
+30,Creature,Dark Undead Oni of the Magical Forest
+31,Creature,Wolf
+32,Artifact,Ardent Chimeric Gauntlet
+33,Creature,Paladin
+34,Enchantment,Invert
+35,Creature,Fairy
+36,Enchantment,Shimmering Age
+37,Creature,Light Fighter Cyclops
+38,Creature,Aura Rogue Griffin
+39,Creature,Troll
+40,Spell,Ice
+41,Creature,Snow Undead Hydra
+42,Enchantment,Haste
+43,Creature,Spider
+44,Artifact,Ring

@@ -1,46 +1,46 @@
-==================,DECK,5028,Light
-0,Enchantment,Rare,Lunar Haste
-1,Creature,Common,Elf
-2,Enchantment,Common,Drain
-3,Enchantment,Common,Shrink
-4,Creature,Common,Wolf
-5,Creature,Common,Spider
-6,Spell,Common,Gravitation
-7,Enchantment,Rare,Hateful Shrink
-8,Enchantment,Rare,Solar Shield
-9,Creature,Common,Goblin
-10,Spell,Common,Fury
-11,Spell,Common,Pandemonium
-12,Spell,Legendary,Clever Assault
-13,Enchantment,Common,Age
-14,Creature,Common,Spider
-15,Spell,Rare,Grim Frost
-16,Creature,Common,Eagle
-17,Enchantment,Rare,Frigid Shield
-18,Creature,Common,Goblin
-19,Enchantment,Common,Shield
-20,Creature,Common,Orc
-21,Creature,Legendary,Frozen King Orge of the Bright Mountains
-22,Enchantment,Mythic,Intense Strength
-23,Creature,Common,Spider
-24,Enchantment,Common,Shield
-25,Creature,Common,Orc
-26,Spell,Common,Gravitation
-27,Creature,Common,Wolf
-28,Creature,Common,Wolf
-29,Enchantment,Rare,Solar Strength
-30,Spell,Common,Reanimate
-31,Creature,Common,Ghoul
-32,Spell,Common,Gale
-33,Creature,Mythic,Dark Time Dragon of Illusion
-34,Creature,Rare,Frozen Priest Griffin
-35,Enchantment,Common,Lethargy
-36,Enchantment,Common,Lethargy
-37,Creature,Common,Spider
-38,Enchantment,Rare,Corpse Shield
-39,Spell,Common,Frost
-40,Spell,Legendary,Extreme Burn
-41,Creature,Common,Wolf
-42,Enchantment,Legendary,Urgent Flight
-43,Artifact,Common,Ghost Wand
-44,Spell,Common,Rage
+==================,DECK,5028
+0,Enchantment,Miracle Shield
+1,Creature,Warlock
+2,Enchantment,Drain
+3,Enchantment,Strength
+4,Creature,Wolf
+5,Creature,Paladin
+6,Spell,Sorrow
+7,Enchantment,Chimeric Shrink
+8,Enchantment,Nature Deathgrip
+9,Creature,Skin-Walker
+10,Spell,Ice
+11,Spell,Frost
+12,Spell,Dire Oblivion Frenzy
+13,Enchantment,Shield
+14,Creature,Paladin
+15,Spell,Victory Fireball
+16,Creature,Eagle
+17,Enchantment,Victory Shade
+18,Creature,Skin-Walker
+19,Enchantment,Drain
+20,Creature,Spider
+21,Creature,Frozen King Elf of the Bright Mountains
+22,Enchantment,Irate Solar Deathgrip
+23,Creature,Paladin
+24,Enchantment,Shield
+25,Creature,Spider
+26,Spell,Pandemonium
+27,Creature,Wolf
+28,Creature,Wolf
+29,Enchantment,Solar Lethargy
+30,Spell,Burst
+31,Creature,Ghoul
+32,Spell,Fire
+33,Creature,Dark Time Dragon of Illusion
+34,Creature,Frozen Priest Griffin
+35,Enchantment,Shield
+36,Enchantment,Firebreath
+37,Creature,Paladin
+38,Enchantment,Nature Deathgrip
+39,Spell,Pandemonium
+40,Spell,Potent Dark Stricken
+41,Creature,Wolf
+42,Enchantment,Clever Hateful Lethargy
+43,Artifact,Ghost Wand
+44,Spell,Revive

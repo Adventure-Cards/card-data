@@ -1,46 +1,46 @@
-==================,DECK,6381,Medium
-0,Creature,Common,Eagle
-1,Creature,Common,Dwarf
-2,Spell,Common,Revive
-3,Creature,Common,Spider
-4,Enchantment,Legendary,Clever Shield
-5,Creature,Common,Wolf
-6,Creature,Mythic,Earth Time Dragon of the Shadows
-7,Artifact,Common,Potion
-8,Creature,Common,Magi
-9,Creature,Legendary,Dark Monk Oni of the Swamp
-10,Enchantment,Mythic,Instant Blight
-11,Creature,Legendary,Aura Thief Giant of the Magical Forest
-12,Creature,Common,Spider
-13,Creature,Legendary,Snow Thief Giant of the Eastern Skies
-14,Spell,Rare,Oblivion Rage
-15,Creature,Common,Ghoul
-16,Creature,Common,Ghoul
-17,Creature,Common,Elf
-18,Enchantment,Rare,Necro Haste
-19,Creature,Rare,Aura Knight Minotaur
-20,Creature,Rare,Aura Undead Fairy
-21,Creature,Rare,Light Undead Berserker
-22,Enchantment,Rare,Nature Age
-23,Enchantment,Common,Shrink
-24,Spell,Common,Ice
-25,Enchantment,Common,Lethargy
-26,Creature,Common,Magi
-27,Creature,Common,Elf
-28,Creature,Common,Spider
-29,Creature,Rare,Aura Thief Minotaur
-30,Artifact,Rare,Solar Shield
-31,Enchantment,Common,Blight
-32,Artifact,Rare,Frigid Pendant
-33,Enchantment,Common,Agony
-34,Artifact,Common,Helm
-35,Creature,Common,Magi
-36,Artifact,Common,Bracers
-37,Creature,Common,Magi
-38,Enchantment,Common,Lethargy
-39,Creature,Common,Warlock
-40,Creature,Rare,Aura Warrior Fairy
-41,Spell,Common,Infuriate
-42,Artifact,Common,Amulet
-43,Enchantment,Common,Invert
-44,Enchantment,Legendary,Urgent Agony
+==================,DECK,6381
+0,Creature,Eagle
+1,Creature,Magi
+2,Spell,Stun
+3,Creature,Paladin
+4,Enchantment,Urgent Victory Invert
+5,Creature,Wolf
+6,Creature,Earth Time Dragon of the Shadows
+7,Artifact,Potion
+8,Creature,Fairy
+9,Creature,Dark Monk Oni of the Swamp
+10,Enchantment,Mighty Solar Agony
+11,Creature,Aura Thief Dwarf of the Magical Forest
+12,Creature,Paladin
+13,Creature,Snow Thief Dwarf of the Eastern Skies
+14,Spell,Oblivion Frost
+15,Creature,Ghoul
+16,Creature,Ghoul
+17,Creature,Warlock
+18,Enchantment,Corpse Deathgrip
+19,Creature,Aura Knight Cyclops
+20,Creature,Aura Undead Kraken
+21,Creature,Light Undead Goblin
+22,Enchantment,Nature Age
+23,Enchantment,Alacrity
+24,Spell,Gravitation
+25,Enchantment,Shrink
+26,Creature,Fairy
+27,Creature,Warlock
+28,Creature,Paladin
+29,Creature,Aura Thief Cyclops
+30,Artifact,Shimmering Shield
+31,Enchantment,Firebreath
+32,Artifact,Apocalypse Pendant
+33,Enchantment,Agony
+34,Artifact,Helm
+35,Creature,Fairy
+36,Artifact,Bracers
+37,Creature,Fairy
+38,Enchantment,Haste
+39,Creature,Berserker
+40,Creature,Aura Warrior Kraken
+41,Spell,Burst
+42,Artifact,Amulet
+43,Enchantment,Haste
+44,Enchantment,Irate Corpse Deathgrip

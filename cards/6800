@@ -1,46 +1,46 @@
-==================,DECK,6800,Medium
-0,Spell,Rare,Corpse Assault
-1,Creature,Legendary,Aura Merchant Giant of the West
-2,Artifact,Common,Shield
-3,Spell,Common,Hypnosis
-4,Creature,Common,Wolf
-5,Enchantment,Common,Agony
-6,Spell,Legendary,Dire Lightning
-7,Spell,Common,Vortex
-8,Spell,Common,Vortex
-9,Creature,Rare,Earth Queen Minotaur
-10,Spell,Rare,Life Stricken
-11,Creature,Rare,Snow Monk Hydra
-12,Enchantment,Legendary,Urgent Shield
-13,Spell,Common,Revive
-14,Spell,Common,Torment
-15,Spell,Common,Gale
-16,Spell,Common,Stricken
-17,Artifact,Common,Sword
-18,Creature,Common,Elf
-19,Spell,Common,Frost
-20,Enchantment,Mythic,Intense Shrink
-21,Artifact,Rare,Lunar Ring
-22,Artifact,Legendary,Extreme Amulet
-23,Enchantment,Mythic,Urgent Drain
-24,Spell,Mythic,Intense Fury
-25,Creature,Rare,Death Warrior Hydra
-26,Creature,Common,Spider
-27,Creature,Common,Warlock
-28,Creature,Common,Spider
-29,Spell,Common,Lightning
-30,Enchantment,Common,Agony
-31,Creature,Common,Ghoul
-32,Creature,Rare,Snow Undead Hydra
-33,Spell,Common,Pandemonium
-34,Artifact,Common,Belt
-35,Spell,Common,Freeze
-36,Spell,Common,Burst
-37,Creature,Common,Eagle
-38,Creature,Common,Dwarf
-39,Spell,Common,Burn
-40,Creature,Common,Warlock
-41,Creature,Rare,Dark Assassin Minotaur
-42,Creature,Common,Goblin
-43,Enchantment,Common,Blight
-44,Creature,Legendary,Dark Rogue Orge of the Plains
+==================,DECK,6800
+0,Spell,Solar Stun
+1,Creature,Aura Merchant Dwarf of the West
+2,Artifact,Shield
+3,Spell,Gale
+4,Creature,Wolf
+5,Enchantment,Shrink
+6,Spell,Dire Victory Stricken
+7,Spell,Infuriate
+8,Spell,Freeze
+9,Creature,Earth Queen Cyclops
+10,Spell,Grim Fury
+11,Creature,Snow Monk Hydra
+12,Enchantment,Urgent Nature Agony
+13,Spell,Vortex
+14,Spell,Tempest
+15,Spell,Tempest
+16,Spell,Frost
+17,Artifact,Sword
+18,Creature,Warlock
+19,Spell,Ice
+20,Enchantment,Potent Necro Strength
+21,Artifact,Cataclysmic Ring
+22,Artifact,Urgent Sorrow Amulet
+23,Enchantment,Mighty Forged Agony
+24,Spell,Mighty Solar Gravitation
+25,Creature,Death Warrior Hydra
+26,Creature,Paladin
+27,Creature,Berserker
+28,Creature,Paladin
+29,Spell,Fury
+30,Enchantment,Drain
+31,Creature,Ghoul
+32,Creature,Snow Undead Hydra
+33,Spell,Torment
+34,Artifact,Belt
+35,Spell,Gale
+36,Spell,Fireball
+37,Creature,Eagle
+38,Creature,Magi
+39,Spell,Wall
+40,Creature,Berserker
+41,Creature,Dark Assassin Cyclops
+42,Creature,Skin-Walker
+43,Enchantment,Flight
+44,Creature,Dark Rogue Elf of the Plains

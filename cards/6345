@@ -1,46 +1,46 @@
-==================,DECK,6345,Medium
-0,Enchantment,Common,Alacrity
-1,Creature,Rare,Earth Knight Berserker
-2,Creature,Rare,Death Fighter Skin-Walker
-3,Enchantment,Common,Shield
-4,Enchantment,Common,Flight
-5,Creature,Common,Spider
-6,Enchantment,Legendary,Urgent Shade
-7,Spell,Rare,Shimmering Maelstrom
-8,Enchantment,Common,Flight
-9,Creature,Common,Paladin
-10,Creature,Common,Eagle
-11,Creature,Common,Ghoul
-12,Spell,Common,Stricken
-13,Spell,Rare,Corpse Wall
-14,Enchantment,Rare,Necro Blight
-15,Spell,Rare,Necro Burn
-16,Enchantment,Common,Blight
-17,Enchantment,Common,Shade
-18,Enchantment,Common,Shrink
-19,Enchantment,Common,Haste
-20,Artifact,Rare,Lunar Pendant
-21,Creature,Legendary,Dark Assassin Cyclops of the Eastern Skies
-22,Enchantment,Common,Flight
-23,Creature,Rare,Snow Monk Griffin
-24,Creature,Common,Spider
-25,Artifact,Common,Staff
-26,Creature,Legendary,Light Thief Orge of the Border
-27,Spell,Common,Frost
-28,Enchantment,Common,Shade
-29,Creature,Common,Warlock
-30,Enchantment,Common,Haste
-31,Creature,Common,Eagle
-32,Enchantment,Common,Haste
-33,Creature,Common,Paladin
-34,Enchantment,Common,Deathgrip
-35,Artifact,Common,Helmet
-36,Spell,Legendary,Mighty Frenzy
-37,Creature,Rare,Snow Knight Berserker
-38,Spell,Common,Reanimate
-39,Creature,Mythic,Aura Ancient Demon of the Light
-40,Creature,Rare,Aura Thief Skin-Walker
-41,Creature,Legendary,Death King Oni of the Frozen Castle
-42,Enchantment,Common,Shield
-43,Creature,Common,Wolf
-44,Enchantment,Rare,Dark Strength
+==================,DECK,6345
+0,Enchantment,Invert
+1,Creature,Earth Knight Goblin
+2,Creature,Death Fighter Orc
+3,Enchantment,Blight
+4,Enchantment,Shrink
+5,Creature,Paladin
+6,Enchantment,Instant Necro Strength
+7,Spell,Nature Tempest
+8,Enchantment,Alacrity
+9,Creature,Troll
+10,Creature,Eagle
+11,Creature,Ghoul
+12,Spell,Assault
+13,Spell,Hateful Burst
+14,Enchantment,Solar Lethargy
+15,Spell,Nature Stricken
+16,Enchantment,Strength
+17,Enchantment,Agony
+18,Enchantment,Shade
+19,Enchantment,Firebreath
+20,Artifact,Dark Pendant
+21,Creature,Dark Assassin Giant of the Eastern Skies
+22,Enchantment,Invert
+23,Creature,Snow Monk Griffin
+24,Creature,Paladin
+25,Artifact,Staff
+26,Creature,Light Thief Elf of the Border
+27,Spell,Burn
+28,Enchantment,Invert
+29,Creature,Berserker
+30,Enchantment,Shade
+31,Creature,Eagle
+32,Enchantment,Deathgrip
+33,Creature,Troll
+34,Enchantment,Drain
+35,Artifact,Helmet
+36,Spell,Ardent Miracle Frenzy
+37,Creature,Snow Knight Goblin
+38,Spell,Fury
+39,Creature,Aura Ancient Demon of the Light
+40,Creature,Aura Thief Orc
+41,Creature,Death King Oni of the Frozen Castle
+42,Enchantment,Flight
+43,Creature,Wolf
+44,Enchantment,Cataclysmic Shield

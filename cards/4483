@@ -1,46 +1,46 @@
-==================,DECK,4483,Medium
-0,Creature,Rare,Light Warrior Griffin
-1,Creature,Common,Orc
-2,Enchantment,Rare,Frigid Strength
-3,Artifact,Rare,Hateful Scythe
-4,Artifact,Common,Amulet
-5,Spell,Common,Wall
-6,Spell,Common,Freeze
-7,Creature,Common,Warlock
-8,Enchantment,Rare,Gloom Strength
-9,Enchantment,Common,Lethargy
-10,Enchantment,Mythic,Intense Blight
-11,Creature,Mythic,Frozen Grand Wizard of the Void
-12,Spell,Common,Revive
-13,Spell,Legendary,Intense Assault
-14,Creature,Common,Eagle
-15,Spell,Legendary,Angry Sorrow
-16,Creature,Legendary,Frozen Fighter Oni of the Eastern Skies
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Mythic,Potent Shade
-19,Artifact,Common,Scepter
-20,Creature,Common,Spider
-21,Creature,Common,Eagle
-22,Spell,Common,Stricken
-23,Artifact,Common,Helm
-24,Enchantment,Rare,Gloom Alacrity
-25,Creature,Common,Magi
-26,Artifact,Rare,Cataclysmic Ring
-27,Creature,Common,Paladin
-28,Spell,Common,Burst
-29,Spell,Common,Reanimate
-30,Enchantment,Common,Shade
-31,Enchantment,Mythic,Mighty Alacrity
-32,Enchantment,Mythic,Urgent Shade
-33,Creature,Common,Magi
-34,Enchantment,Common,Invert
-35,Enchantment,Legendary,Urgent Shade
-36,Enchantment,Common,Blight
-37,Creature,Rare,Aura Knight Hydra
-38,Creature,Common,Eagle
-39,Spell,Common,Revive
-40,Creature,Common,Goblin
-41,Creature,Common,Ghoul
-42,Enchantment,Mythic,Clever Agony
-43,Creature,Rare,Death Fighter Minotaur
-44,Creature,Common,Wolf
+==================,DECK,4483
+0,Creature,Light Warrior Griffin
+1,Creature,Spider
+2,Enchantment,Nimble Shade
+3,Artifact,Gloom Scythe
+4,Artifact,Amulet
+5,Spell,Assault
+6,Spell,Burst
+7,Creature,Berserker
+8,Enchantment,Cataclysmic Alacrity
+9,Enchantment,Invert
+10,Enchantment,Empyrean Solar Age
+11,Creature,Frozen Grand Wizard of the Void
+12,Spell,Vortex
+13,Spell,Instant Necro Assault
+14,Creature,Eagle
+15,Spell,Empyrean Dark Stricken
+16,Creature,Frozen Fighter Oni of the Eastern Skies
+17,Enchantment,Drain
+18,Enchantment,Dire Frigid Shade
+19,Artifact,Scepter
+20,Creature,Paladin
+21,Creature,Eagle
+22,Spell,Freeze
+23,Artifact,Helm
+24,Enchantment,Dark Alacrity
+25,Creature,Fairy
+26,Artifact,Gloom Ring
+27,Creature,Troll
+28,Spell,Invisibility
+29,Spell,Frenzy
+30,Enchantment,Drain
+31,Enchantment,Irate Dark Alacrity
+32,Enchantment,Dire Necro Age
+33,Creature,Fairy
+34,Enchantment,Flight
+35,Enchantment,Dire Necro Age
+36,Enchantment,Strength
+37,Creature,Aura Knight Hydra
+38,Creature,Eagle
+39,Spell,Infuriate
+40,Creature,Skin-Walker
+41,Creature,Ghoul
+42,Enchantment,Instant Life Drain
+43,Creature,Death Fighter Cyclops
+44,Creature,Wolf

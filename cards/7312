@@ -1,46 +1,46 @@
-==================,DECK,7312,Light
-0,Creature,Legendary,Earth Knight Oni of the Eastern Skies
-1,Artifact,Common,Tome
-2,Creature,Common,Eagle
-3,Artifact,Common,Potion
-4,Spell,Common,Ice
-5,Creature,Common,Magi
-6,Creature,Common,Paladin
-7,Creature,Common,Ghoul
-8,Creature,Common,Ghoul
-9,Creature,Common,Warlock
-10,Spell,Common,Frost
-11,Enchantment,Common,Haste
-12,Enchantment,Common,Haste
-13,Creature,Common,Dwarf
-14,Enchantment,Common,Flight
-15,Spell,Common,Ice
-16,Creature,Common,Dwarf
-17,Spell,Common,Reanimate
-18,Creature,Common,Magi
-19,Creature,Common,Magi
-20,Creature,Common,Paladin
-21,Creature,Legendary,Aura Thief Giant of the Black Stone
-22,Spell,Common,Hypnosis
-23,Creature,Common,Orc
-24,Enchantment,Common,Invert
-25,Spell,Common,Gravitation
-26,Creature,Common,Ghoul
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Ghoul
-29,Creature,Common,Wolf
-30,Creature,Legendary,Frozen King Orge of the Eternal Land
-31,Creature,Common,Magi
-32,Creature,Common,Paladin
-33,Creature,Rare,Earth Undead Berserker
-34,Creature,Legendary,Dark Priest Giant of the Mountains
-35,Enchantment,Legendary,Intense Blight
-36,Creature,Legendary,Light King Kraken of the Haven
-37,Enchantment,Common,Shade
-38,Artifact,Common,Boots
-39,Enchantment,Common,Agony
-40,Enchantment,Rare,Shimmering Flight
-41,Spell,Common,Assault
-42,Creature,Rare,Aura Priest Hydra
-43,Creature,Common,Spider
-44,Creature,Common,Spider
+==================,DECK,7312
+0,Creature,Earth Knight Oni of the Eastern Skies
+1,Artifact,Tome
+2,Creature,Eagle
+3,Artifact,Potion
+4,Spell,Revive
+5,Creature,Fairy
+6,Creature,Troll
+7,Creature,Ghoul
+8,Creature,Ghoul
+9,Creature,Berserker
+10,Spell,Revive
+11,Enchantment,Strength
+12,Enchantment,Lethargy
+13,Creature,Magi
+14,Enchantment,Drain
+15,Spell,Frost
+16,Creature,Magi
+17,Spell,Heal
+18,Creature,Fairy
+19,Creature,Fairy
+20,Creature,Troll
+21,Creature,Aura Thief Dwarf of the Black Stone
+22,Spell,Fireball
+23,Creature,Spider
+24,Enchantment,Alacrity
+25,Spell,Rage
+26,Creature,Ghoul
+27,Enchantment,Lethargy
+28,Creature,Ghoul
+29,Creature,Wolf
+30,Creature,Frozen King Elf of the Eternal Land
+31,Creature,Fairy
+32,Creature,Troll
+33,Creature,Earth Undead Goblin
+34,Creature,Dark Priest Dwarf of the Mountains
+35,Enchantment,Empyrean Solar Age
+36,Creature,Light King Ogre of the Haven
+37,Enchantment,Alacrity
+38,Artifact,Boots
+39,Enchantment,Shrink
+40,Enchantment,Hateful Lethargy
+41,Spell,Revive
+42,Creature,Aura Priest Hydra
+43,Creature,Paladin
+44,Creature,Paladin

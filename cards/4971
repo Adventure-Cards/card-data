@@ -1,46 +1,46 @@
-==================,DECK,4971,Light
-0,Creature,Mythic,Snow Chaos Demon of Hate
-1,Spell,Common,Hypnosis
-2,Creature,Mythic,Dark Ancient Demon of Illusion
-3,Enchantment,Common,Shade
-4,Spell,Rare,Nimble Vortex
-5,Creature,Common,Wolf
-6,Spell,Common,Hypnosis
-7,Enchantment,Common,Invert
-8,Creature,Common,Ghoul
-9,Creature,Mythic,Aura Chaos Wizard of the Light
-10,Creature,Rare,Death Undead Skin-Walker
-11,Artifact,Common,Helm
-12,Spell,Common,Hypnosis
-13,Spell,Common,Invisibility
-14,Creature,Rare,Snow Monk Griffin
-15,Creature,Common,Spider
-16,Creature,Common,Wolf
-17,Enchantment,Common,Blight
-18,Artifact,Rare,Miracle Helm
-19,Creature,Common,Dwarf
-20,Creature,Common,Magi
-21,Creature,Common,Dwarf
-22,Creature,Legendary,Death Priest Kraken of the Plains
-23,Creature,Common,Ghoul
-24,Artifact,Common,Bow
-25,Creature,Common,Spider
-26,Creature,Rare,Death Merchant Berserker
-27,Creature,Common,Dwarf
-28,Enchantment,Common,Age
-29,Enchantment,Legendary,Intense Drain
-30,Spell,Common,Freeze
-31,Artifact,Common,Helmet
-32,Creature,Mythic,Light Chaos Wizard of the Sky
-33,Creature,Common,Magi
-34,Creature,Rare,Earth Monk Griffin
-35,Creature,Common,Spider
-36,Creature,Legendary,Snow Lord Oni of the Eastern Skies
-37,Creature,Rare,Death Warrior Skin-Walker
-38,Spell,Common,Maelstrom
-39,Creature,Rare,Light Queen Griffin
-40,Enchantment,Common,Flight
-41,Creature,Mythic,Dark Nameless Dragon of Illusion
-42,Enchantment,Rare,Forged Shield
-43,Creature,Common,Orc
-44,Enchantment,Mythic,Intense Shrink
+==================,DECK,4971
+0,Creature,Snow Chaos Demon of Hate
+1,Spell,Assault
+2,Creature,Dark Ancient Demon of Illusion
+3,Enchantment,Shrink
+4,Spell,Necro Revive
+5,Creature,Wolf
+6,Spell,Lightning
+7,Enchantment,Shade
+8,Creature,Ghoul
+9,Creature,Aura Chaos Wizard of the Light
+10,Creature,Death Undead Orc
+11,Artifact,Helm
+12,Spell,Sorrow
+13,Spell,Gale
+14,Creature,Snow Monk Griffin
+15,Creature,Paladin
+16,Creature,Wolf
+17,Enchantment,Drain
+18,Artifact,Grim Helm
+19,Creature,Magi
+20,Creature,Fairy
+21,Creature,Magi
+22,Creature,Death Priest Ogre of the Plains
+23,Creature,Ghoul
+24,Artifact,Bow
+25,Creature,Paladin
+26,Creature,Death Merchant Goblin
+27,Creature,Magi
+28,Enchantment,Deathgrip
+29,Enchantment,Empyrean Forged Age
+30,Spell,Hypnosis
+31,Artifact,Helmet
+32,Creature,Light Chaos Wizard of the Sky
+33,Creature,Fairy
+34,Creature,Earth Monk Griffin
+35,Creature,Paladin
+36,Creature,Snow Lord Oni of the Eastern Skies
+37,Creature,Death Warrior Orc
+38,Spell,Vortex
+39,Creature,Light Queen Griffin
+40,Enchantment,Deathgrip
+41,Creature,Dark Nameless Dragon of Illusion
+42,Enchantment,Gloom Shrink
+43,Creature,Spider
+44,Enchantment,Zealous Necro Deathgrip

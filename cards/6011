@@ -1,46 +1,46 @@
-==================,DECK,6011,Light
-0,Creature,Common,Ghoul
-1,Enchantment,Common,Drain
-2,Creature,Common,Paladin
-3,Creature,Rare,Dark Priest Skin-Walker
-4,Creature,Common,Dwarf
-5,Creature,Rare,Aura Knight Hydra
-6,Creature,Common,Spider
-7,Creature,Rare,Frozen King Fairy
-8,Creature,Common,Dwarf
-9,Enchantment,Rare,Life Age
-10,Creature,Common,Magi
-11,Artifact,Legendary,Mighty Shield
-12,Spell,Common,Frost
-13,Spell,Common,Frost
-14,Creature,Common,Ghoul
-15,Enchantment,Common,Deathgrip
-16,Creature,Common,Elf
-17,Creature,Common,Spider
-18,Spell,Rare,Apocalypse Maelstrom
-19,Creature,Common,Spider
-20,Creature,Legendary,Frozen Warrior Kraken of the Low Hills
-21,Creature,Common,Elf
-22,Creature,Mythic,Snow Chaos Wizard of Hate
-23,Enchantment,Legendary,Mighty Haste
-24,Artifact,Rare,Corpse Pendant
-25,Creature,Rare,Death Queen Skin-Walker
-26,Artifact,Common,Greaves
-27,Enchantment,Common,Haste
-28,Creature,Common,Warlock
-29,Enchantment,Common,Shield
-30,Enchantment,Common,Deathgrip
-31,Creature,Rare,Death Knight Minotaur
-32,Enchantment,Common,Deathgrip
-33,Spell,Rare,Hateful Reanimate
-34,Creature,Common,Spider
-35,Enchantment,Common,Alacrity
-36,Creature,Common,Wolf
-37,Creature,Common,Paladin
-38,Creature,Common,Goblin
-39,Creature,Common,Warlock
-40,Creature,Rare,Snow Merchant Griffin
-41,Spell,Common,Fury
-42,Enchantment,Rare,Miracle Deathgrip
-43,Enchantment,Common,Age
-44,Creature,Common,Dwarf
+==================,DECK,6011
+0,Creature,Ghoul
+1,Enchantment,Agony
+2,Creature,Troll
+3,Creature,Dark Priest Orc
+4,Creature,Magi
+5,Creature,Aura Knight Hydra
+6,Creature,Paladin
+7,Creature,Frozen King Kraken
+8,Creature,Magi
+9,Enchantment,Victory Drain
+10,Creature,Fairy
+11,Artifact,Empyrean Cataclysmic Shield
+12,Spell,Stun
+13,Spell,Burst
+14,Creature,Ghoul
+15,Enchantment,Shield
+16,Creature,Warlock
+17,Creature,Paladin
+18,Spell,Victory Hypnosis
+19,Creature,Paladin
+20,Creature,Frozen Warrior Ogre of the Low Hills
+21,Creature,Warlock
+22,Creature,Snow Chaos Wizard of Hate
+23,Enchantment,Potent Miracle Shrink
+24,Artifact,Necro Pendant
+25,Creature,Death Queen Orc
+26,Artifact,Greaves
+27,Enchantment,Drain
+28,Creature,Berserker
+29,Enchantment,Deathgrip
+30,Enchantment,Firebreath
+31,Creature,Death Knight Cyclops
+32,Enchantment,Shrink
+33,Spell,Miracle Freeze
+34,Creature,Paladin
+35,Enchantment,Shrink
+36,Creature,Wolf
+37,Creature,Troll
+38,Creature,Skin-Walker
+39,Creature,Berserker
+40,Creature,Snow Merchant Griffin
+41,Spell,Frenzy
+42,Enchantment,Oblivion Drain
+43,Enchantment,Alacrity
+44,Creature,Magi

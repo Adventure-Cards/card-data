@@ -1,46 +1,46 @@
-==================,DECK,6818,Light
-0,Creature,Rare,Frozen Fighter Hydra
-1,Creature,Rare,Aura Queen Hydra
-2,Creature,Common,Paladin
-3,Enchantment,Common,Lethargy
-4,Artifact,Common,Bracers
-5,Creature,Common,Orc
-6,Creature,Common,Spider
-7,Enchantment,Mythic,Urgent Strength
-8,Creature,Common,Magi
-9,Creature,Common,Wolf
-10,Enchantment,Rare,Apocalypse Blight
-11,Spell,Common,Vortex
-12,Enchantment,Rare,Cataclysmic Shrink
-13,Creature,Common,Warlock
-14,Creature,Common,Ghoul
-15,Creature,Common,Goblin
-16,Artifact,Rare,Necro Divine Robe
-17,Spell,Rare,Shimmering Hypnosis
-18,Artifact,Common,Gloves
-19,Creature,Common,Warlock
-20,Enchantment,Rare,Dark Shade
-21,Creature,Common,Wolf
-22,Artifact,Common,Gauntlet
-23,Enchantment,Common,Age
-24,Creature,Rare,Dark Monk Griffin
-25,Creature,Rare,Aura Warrior Berserker
-26,Enchantment,Common,Shield
-27,Enchantment,Common,Deathgrip
-28,Spell,Common,Frenzy
-29,Creature,Mythic,Light Grand Demon of the Sky
-30,Enchantment,Rare,Frigid Invert
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Common,Shield
-33,Enchantment,Common,Shade
-34,Creature,Common,Paladin
-35,Creature,Mythic,Death Ancient Wizard of the Dead
-36,Creature,Common,Spider
-37,Creature,Common,Wolf
-38,Creature,Legendary,Aura Warrior Oni of the Golden Palace
-39,Creature,Rare,Death Warrior Hydra
-40,Creature,Rare,Light Lord Minotaur
-41,Spell,Common,Burst
-42,Spell,Legendary,Dire Maelstrom
-43,Creature,Common,Spider
-44,Creature,Legendary,Snow Fighter Giant of the Black Stone
+==================,DECK,6818
+0,Creature,Frozen Fighter Hydra
+1,Creature,Aura Queen Hydra
+2,Creature,Troll
+3,Enchantment,Firebreath
+4,Artifact,Bracers
+5,Creature,Spider
+6,Creature,Paladin
+7,Enchantment,Urgent Solar Agony
+8,Creature,Fairy
+9,Creature,Wolf
+10,Enchantment,Nimble Blight
+11,Spell,Burn
+12,Enchantment,Chimeric Alacrity
+13,Creature,Berserker
+14,Creature,Ghoul
+15,Creature,Skin-Walker
+16,Artifact,Corpse Divine Robe
+17,Spell,Corpse Gravitation
+18,Artifact,Gloves
+19,Creature,Berserker
+20,Enchantment,Chimeric Shrink
+21,Creature,Wolf
+22,Artifact,Gauntlet
+23,Enchantment,Flight
+24,Creature,Dark Monk Griffin
+25,Creature,Aura Warrior Goblin
+26,Enchantment,Deathgrip
+27,Enchantment,Strength
+28,Spell,Wall
+29,Creature,Light Grand Demon of the Sky
+30,Enchantment,Oblivion Invert
+31,Enchantment,Blight
+32,Enchantment,Alacrity
+33,Enchantment,Strength
+34,Creature,Troll
+35,Creature,Death Ancient Wizard of the Dead
+36,Creature,Paladin
+37,Creature,Wolf
+38,Creature,Aura Warrior Oni of the Golden Palace
+39,Creature,Death Warrior Hydra
+40,Creature,Light Lord Cyclops
+41,Spell,Reanimate
+42,Spell,Mighty Frigid Ice
+43,Creature,Paladin
+44,Creature,Snow Fighter Dwarf of the Black Stone

@@ -1,46 +1,46 @@
-==================,DECK,6252,Medium
-0,Spell,Common,Torment
-1,Creature,Rare,Dark Queen Hydra
-2,Creature,Rare,Snow Knight Minotaur
-3,Creature,Common,Orc
-4,Creature,Common,Orc
-5,Creature,Common,Orc
-6,Enchantment,Common,Strength
-7,Artifact,Common,Helm
-8,Spell,Common,Lightning
-9,Creature,Common,Warlock
-10,Creature,Mythic,Dark Nameless Dragon of Illusion
-11,Creature,Rare,Aura Rogue Skin-Walker
-12,Creature,Common,Spider
-13,Creature,Rare,Light Knight Minotaur
-14,Spell,Rare,Miracle Pandemonium
-15,Creature,Common,Elf
-16,Enchantment,Rare,Apocalypse Drain
-17,Creature,Common,Goblin
-18,Spell,Rare,Miracle Burst
-19,Creature,Legendary,Snow Undead Oni of the Polar Woods
-20,Creature,Common,Goblin
-21,Enchantment,Legendary,Clever Shield
-22,Creature,Legendary,Aura Thief Cyclops of the Black Stone
-23,Artifact,Common,Scepter
-24,Spell,Legendary,Dire Fury
-25,Creature,Common,Orc
-26,Spell,Common,Sorrow
-27,Enchantment,Common,Shade
-28,Creature,Rare,Light Merchant Fairy
-29,Creature,Rare,Light Queen Hydra
-30,Enchantment,Common,Agony
-31,Creature,Rare,Frozen Rogue Griffin
-32,Creature,Rare,Snow Fighter Griffin
-33,Artifact,Common,Greaves
-34,Creature,Rare,Frozen King Skin-Walker
-35,Creature,Rare,Frozen Fighter Hydra
-36,Creature,Rare,Death Priest Minotaur
-37,Creature,Legendary,Frozen Queen Orge of the Plains
-38,Enchantment,Rare,Dark Shade
-39,Creature,Common,Warlock
-40,Creature,Rare,Light Fighter Berserker
-41,Enchantment,Common,Haste
-42,Creature,Common,Wolf
-43,Enchantment,Rare,Corpse Invert
-44,Enchantment,Common,Invert
+==================,DECK,6252
+0,Spell,Frenzy
+1,Creature,Dark Queen Hydra
+2,Creature,Snow Knight Cyclops
+3,Creature,Spider
+4,Creature,Spider
+5,Creature,Spider
+6,Enchantment,Shade
+7,Artifact,Helm
+8,Spell,Pandemonium
+9,Creature,Berserker
+10,Creature,Dark Nameless Dragon of Illusion
+11,Creature,Aura Rogue Orc
+12,Creature,Paladin
+13,Creature,Light Knight Cyclops
+14,Spell,Oblivion Ice
+15,Creature,Warlock
+16,Enchantment,Apocalypse Haste
+17,Creature,Skin-Walker
+18,Spell,Life Tempest
+19,Creature,Snow Undead Oni of the Polar Woods
+20,Creature,Skin-Walker
+21,Enchantment,Ardent Victory Haste
+22,Creature,Aura Thief Giant of the Black Stone
+23,Artifact,Scepter
+24,Spell,Zealous Victory Freeze
+25,Creature,Spider
+26,Spell,Wall
+27,Enchantment,Flight
+28,Creature,Light Merchant Kraken
+29,Creature,Light Queen Hydra
+30,Enchantment,Deathgrip
+31,Creature,Frozen Rogue Griffin
+32,Creature,Snow Fighter Griffin
+33,Artifact,Greaves
+34,Creature,Frozen King Orc
+35,Creature,Frozen Fighter Hydra
+36,Creature,Death Priest Cyclops
+37,Creature,Frozen Queen Elf of the Plains
+38,Enchantment,Chimeric Alacrity
+39,Creature,Berserker
+40,Creature,Light Fighter Goblin
+41,Enchantment,Blight
+42,Creature,Wolf
+43,Enchantment,Shimmering Strength
+44,Enchantment,Lethargy

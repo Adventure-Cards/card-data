@@ -1,46 +1,46 @@
-==================,DECK,5073,Light
-0,Spell,Common,Invisibility
-1,Spell,Common,Burn
-2,Creature,Common,Paladin
-3,Spell,Common,Revive
-4,Creature,Mythic,Earth Ancient Wizard of the Shadows
-5,Creature,Common,Orc
-6,Creature,Common,Wolf
-7,Creature,Common,Wolf
-8,Creature,Common,Ghoul
-9,Spell,Legendary,Potent Wall
-10,Creature,Common,Magi
-11,Creature,Legendary,Snow Undead Orge of the Eternal Land
-12,Enchantment,Common,Flight
-13,Enchantment,Common,Flight
-14,Spell,Rare,Miracle Reanimate
-15,Spell,Common,Pandemonium
-16,Creature,Mythic,Snow Chaos Demon of Hate
-17,Enchantment,Legendary,Extreme Lethargy
-18,Enchantment,Rare,Life Blight
-19,Creature,Rare,Light King Fairy
-20,Creature,Common,Elf
-21,Spell,Legendary,Extreme Pandemonium
-22,Artifact,Rare,Hateful Belt
-23,Artifact,Legendary,Potent Sword
-24,Creature,Common,Goblin
-25,Creature,Common,Goblin
-26,Creature,Common,Spider
-27,Creature,Common,Eagle
-28,Spell,Rare,Life Burn
-29,Artifact,Rare,Hateful Helmet
-30,Spell,Rare,Oblivion Vortex
-31,Enchantment,Common,Lethargy
-32,Enchantment,Common,Invert
-33,Spell,Common,Vortex
-34,Enchantment,Mythic,Potent Blight
-35,Creature,Common,Elf
-36,Creature,Common,Paladin
-37,Spell,Common,Sorrow
-38,Artifact,Legendary,Instant Gloves
-39,Enchantment,Common,Agony
-40,Spell,Common,Rage
-41,Enchantment,Common,Strength
-42,Spell,Common,Freeze
-43,Creature,Common,Elf
-44,Creature,Common,Elf
+==================,DECK,5073
+0,Spell,Fireball
+1,Spell,Gale
+2,Creature,Troll
+3,Spell,Revive
+4,Creature,Earth Ancient Wizard of the Shadows
+5,Creature,Spider
+6,Creature,Wolf
+7,Creature,Wolf
+8,Creature,Ghoul
+9,Spell,Instant Apocalypse Tempest
+10,Creature,Fairy
+11,Creature,Snow Undead Elf of the Eternal Land
+12,Enchantment,Blight
+13,Enchantment,Blight
+14,Spell,Nimble Fireball
+15,Spell,Revive
+16,Creature,Snow Chaos Demon of Hate
+17,Enchantment,Dire Lunar Firebreath
+18,Enchantment,Nimble Haste
+19,Creature,Light King Kraken
+20,Creature,Warlock
+21,Spell,Clever Cataclysmic Stricken
+22,Artifact,Lunar Belt
+23,Artifact,Potent Grim Sword
+24,Creature,Skin-Walker
+25,Creature,Skin-Walker
+26,Creature,Paladin
+27,Creature,Eagle
+28,Spell,Oblivion Vortex
+29,Artifact,Gloom Helmet
+30,Spell,Life Torment
+31,Enchantment,Lethargy
+32,Enchantment,Haste
+33,Spell,Wall
+34,Enchantment,Mighty Nimble Invert
+35,Creature,Warlock
+36,Creature,Troll
+37,Spell,Stun
+38,Artifact,Instant Necro Gloves
+39,Enchantment,Agony
+40,Spell,Fire
+41,Enchantment,Agony
+42,Spell,Tempest
+43,Creature,Warlock
+44,Creature,Warlock

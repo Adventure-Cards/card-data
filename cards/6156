@@ -1,46 +1,46 @@
-==================,DECK,6156,Medium
-0,Enchantment,Common,Haste
-1,Creature,Common,Paladin
-2,Creature,Common,Warlock
-3,Creature,Common,Paladin
-4,Spell,Rare,Solar Lightning
-5,Creature,Rare,Death Monk Minotaur
-6,Creature,Common,Magi
-7,Enchantment,Common,Agony
-8,Creature,Common,Ghoul
-9,Creature,Rare,Aura Undead Minotaur
-10,Creature,Mythic,Aura Grand Wizard of the Light
-11,Creature,Common,Eagle
-12,Spell,Common,Freeze
-13,Creature,Mythic,Aura Time Dragon of the Light
-14,Creature,Common,Elf
-15,Enchantment,Legendary,Mighty Strength
-16,Creature,Common,Wolf
-17,Creature,Rare,Frozen Queen Skin-Walker
-18,Spell,Rare,Lunar Hypnosis
-19,Spell,Legendary,Angry Frenzy
-20,Artifact,Common,Gauntlet
-21,Spell,Rare,Nature Infuriate
-22,Creature,Rare,Snow Thief Berserker
-23,Creature,Legendary,Dark Queen Oni of the Golden Palace
-24,Creature,Common,Spider
-25,Creature,Common,Dwarf
-26,Artifact,Rare,Gloom Amulet
-27,Creature,Common,Elf
-28,Enchantment,Legendary,Potent Drain
-29,Creature,Common,Elf
-30,Creature,Common,Goblin
-31,Creature,Common,Paladin
-32,Spell,Common,Burst
-33,Creature,Common,Wolf
-34,Creature,Common,Magi
-35,Creature,Common,Orc
-36,Creature,Rare,Earth Warrior Skin-Walker
-37,Spell,Common,Wall
-38,Creature,Rare,Frozen Rogue Berserker
-39,Artifact,Rare,Oblivion Sigil
-40,Creature,Common,Wolf
-41,Enchantment,Common,Alacrity
-42,Enchantment,Rare,Oblivion Invert
-43,Spell,Common,Pandemonium
-44,Creature,Rare,Snow Thief Fairy
+==================,DECK,6156
+0,Enchantment,Drain
+1,Creature,Troll
+2,Creature,Berserker
+3,Creature,Troll
+4,Spell,Hateful Heal
+5,Creature,Death Monk Cyclops
+6,Creature,Fairy
+7,Enchantment,Shield
+8,Creature,Ghoul
+9,Creature,Aura Undead Cyclops
+10,Creature,Aura Grand Wizard of the Light
+11,Creature,Eagle
+12,Spell,Wall
+13,Creature,Aura Time Dragon of the Light
+14,Creature,Warlock
+15,Enchantment,Instant Cataclysmic Shrink
+16,Creature,Wolf
+17,Creature,Frozen Queen Orc
+18,Spell,Sorrow Burn
+19,Spell,Irate Chimeric Gale
+20,Artifact,Gauntlet
+21,Spell,Forged Invisibility
+22,Creature,Snow Thief Goblin
+23,Creature,Dark Queen Oni of the Golden Palace
+24,Creature,Paladin
+25,Creature,Magi
+26,Artifact,Dark Amulet
+27,Creature,Warlock
+28,Enchantment,Mighty Apocalypse Invert
+29,Creature,Warlock
+30,Creature,Skin-Walker
+31,Creature,Troll
+32,Spell,Gale
+33,Creature,Wolf
+34,Creature,Fairy
+35,Creature,Spider
+36,Creature,Earth Warrior Orc
+37,Spell,Stricken
+38,Creature,Frozen Rogue Goblin
+39,Artifact,Life Sigil
+40,Creature,Wolf
+41,Enchantment,Haste
+42,Enchantment,Oblivion Haste
+43,Spell,Torment
+44,Creature,Snow Thief Kraken

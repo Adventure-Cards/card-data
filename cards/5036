@@ -1,46 +1,46 @@
-==================,DECK,5036,Light
-0,Artifact,Common,Crown
-1,Creature,Common,Wolf
-2,Spell,Rare,Necro Stun
-3,Creature,Common,Warlock
-4,Creature,Common,Paladin
-5,Spell,Common,Frenzy
-6,Spell,Common,Frost
-7,Spell,Rare,Life Hypnosis
-8,Enchantment,Mythic,Clever Agony
-9,Creature,Common,Dwarf
-10,Creature,Common,Wolf
-11,Spell,Common,Maelstrom
-12,Spell,Common,Gale
-13,Artifact,Common,Scythe
-14,Creature,Common,Spider
-15,Creature,Rare,Earth Lord Fairy
-16,Spell,Legendary,Intense Torment
-17,Spell,Rare,Oblivion Rage
-18,Creature,Common,Eagle
-19,Spell,Common,Fury
-20,Spell,Legendary,Urgent Burst
-21,Artifact,Common,Greaves
-22,Enchantment,Common,Alacrity
-23,Artifact,Rare,Oblivion Gloves
-24,Enchantment,Rare,Cataclysmic Blight
-25,Spell,Common,Gravitation
-26,Artifact,Legendary,Mighty Divine Robe
-27,Creature,Rare,Aura Knight Berserker
-28,Creature,Legendary,Earth Fighter Cyclops of the Border
-29,Creature,Common,Warlock
-30,Enchantment,Mythic,Potent Shrink
-31,Spell,Common,Torment
-32,Enchantment,Rare,Apocalypse Shrink
-33,Artifact,Common,Helmet
-34,Creature,Common,Wolf
-35,Creature,Rare,Snow Monk Berserker
-36,Spell,Rare,Dark Gravitation
-37,Enchantment,Common,Deathgrip
-38,Artifact,Legendary,Mighty Greaves
-39,Creature,Legendary,Aura Thief Giant of the Mountains
-40,Creature,Common,Goblin
-41,Creature,Rare,Dark Fighter Griffin
-42,Enchantment,Common,Alacrity
-43,Spell,Common,Freeze
-44,Creature,Common,Elf
+==================,DECK,5036
+0,Artifact,Crown
+1,Creature,Wolf
+2,Spell,Solar Frost
+3,Creature,Berserker
+4,Creature,Troll
+5,Spell,Tempest
+6,Spell,Pandemonium
+7,Spell,Life Burst
+8,Enchantment,Ardent Life Haste
+9,Creature,Magi
+10,Creature,Wolf
+11,Spell,Invisibility
+12,Spell,Fury
+13,Artifact,Scythe
+14,Creature,Paladin
+15,Creature,Earth Lord Kraken
+16,Spell,Ardent Shimmering Frost
+17,Spell,Grim Invisibility
+18,Creature,Eagle
+19,Spell,Hypnosis
+20,Spell,Zealous Hateful Maelstrom
+21,Artifact,Greaves
+22,Enchantment,Age
+23,Artifact,Frigid Gloves
+24,Enchantment,Cataclysmic Shield
+25,Spell,Burst
+26,Artifact,Instant Lunar Divine Robe
+27,Creature,Aura Knight Goblin
+28,Creature,Earth Fighter Giant of the Border
+29,Creature,Berserker
+30,Enchantment,Potent Frigid Drain
+31,Spell,Maelstrom
+32,Enchantment,Frigid Invert
+33,Artifact,Helmet
+34,Creature,Wolf
+35,Creature,Snow Monk Goblin
+36,Spell,Cataclysmic Invisibility
+37,Enchantment,Firebreath
+38,Artifact,Urgent Chimeric Greaves
+39,Creature,Aura Thief Dwarf of the Mountains
+40,Creature,Skin-Walker
+41,Creature,Dark Fighter Griffin
+42,Enchantment,Drain
+43,Spell,Fury
+44,Creature,Warlock

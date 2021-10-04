@@ -1,46 +1,46 @@
-==================,DECK,4281,Light
-0,Enchantment,Common,Alacrity
-1,Creature,Common,Dwarf
-2,Creature,Common,Elf
-3,Enchantment,Common,Age
-4,Enchantment,Common,Age
-5,Artifact,Rare,Oblivion Crown
-6,Creature,Legendary,Light King Orge of the Haven
-7,Creature,Common,Magi
-8,Enchantment,Common,Blight
-9,Creature,Common,Goblin
-10,Artifact,Common,Bracers
-11,Creature,Common,Paladin
-12,Creature,Common,Elf
-13,Spell,Legendary,Instant Gravitation
-14,Spell,Legendary,Instant Hypnosis
-15,Creature,Rare,Aura Priest Hydra
-16,Creature,Legendary,Aura Knight Orge of the Arctic Blizzards
-17,Spell,Common,Ice
-18,Creature,Common,Paladin
-19,Creature,Common,Elf
-20,Spell,Common,Burn
-21,Artifact,Common,Shield
-22,Creature,Common,Paladin
-23,Spell,Common,Torment
-24,Creature,Rare,Light Priest Griffin
-25,Creature,Common,Goblin
-26,Enchantment,Common,Shrink
-27,Enchantment,Common,Age
-28,Creature,Common,Magi
-29,Spell,Legendary,Instant Lightning
-30,Creature,Common,Spider
-31,Creature,Legendary,Death Queen Cyclops of the Mountains
-32,Creature,Common,Goblin
-33,Enchantment,Rare,Grim Lethargy
-34,Creature,Common,Warlock
-35,Artifact,Rare,Forged Shield
-36,Creature,Common,Dwarf
-37,Spell,Common,Freeze
-38,Creature,Common,Ghoul
-39,Spell,Common,Vortex
-40,Artifact,Common,Belt
-41,Enchantment,Common,Shield
-42,Creature,Common,Dwarf
-43,Creature,Common,Wolf
-44,Creature,Common,Orc
+==================,DECK,4281
+0,Enchantment,Shield
+1,Creature,Magi
+2,Creature,Warlock
+3,Enchantment,Drain
+4,Enchantment,Haste
+5,Artifact,Grim Crown
+6,Creature,Light King Elf of the Haven
+7,Creature,Fairy
+8,Enchantment,Alacrity
+9,Creature,Skin-Walker
+10,Artifact,Bracers
+11,Creature,Troll
+12,Creature,Warlock
+13,Spell,Ardent Shimmering Reanimate
+14,Spell,Clever Nature Infuriate
+15,Creature,Aura Priest Hydra
+16,Creature,Aura Knight Elf of the Arctic Blizzards
+17,Spell,Gravitation
+18,Creature,Troll
+19,Creature,Warlock
+20,Spell,Hypnosis
+21,Artifact,Shield
+22,Creature,Troll
+23,Spell,Pandemonium
+24,Creature,Light Priest Griffin
+25,Creature,Skin-Walker
+26,Enchantment,Strength
+27,Enchantment,Strength
+28,Creature,Fairy
+29,Spell,Ardent Forged Gravitation
+30,Creature,Paladin
+31,Creature,Death Queen Giant of the Mountains
+32,Creature,Skin-Walker
+33,Enchantment,Grim Haste
+34,Creature,Berserker
+35,Artifact,Gloom Shield
+36,Creature,Magi
+37,Spell,Fire
+38,Creature,Ghoul
+39,Spell,Burn
+40,Artifact,Belt
+41,Enchantment,Strength
+42,Creature,Magi
+43,Creature,Wolf
+44,Creature,Spider

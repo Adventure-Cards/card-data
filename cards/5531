@@ -1,46 +1,46 @@
-==================,DECK,5531,Light
-0,Creature,Mythic,Dark Undead Phoenix of Illusion
-1,Creature,Common,Eagle
-2,Creature,Legendary,Light King Orge of the Swamp
-3,Creature,Common,Dwarf
-4,Creature,Common,Ghoul
-5,Spell,Common,Assault
-6,Creature,Common,Elf
-7,Enchantment,Common,Flight
-8,Artifact,Legendary,Urgent Helm
-9,Creature,Rare,Death Assassin Minotaur
-10,Creature,Rare,Snow Monk Minotaur
-11,Enchantment,Common,Invert
-12,Enchantment,Common,Shrink
-13,Creature,Rare,Light Lord Skin-Walker
-14,Creature,Legendary,Earth Monk Oni of the Plains
-15,Creature,Common,Orc
-16,Creature,Common,Eagle
-17,Spell,Common,Rage
-18,Spell,Rare,Life Sorrow
-19,Creature,Common,Dwarf
-20,Enchantment,Mythic,Intense Flight
-21,Creature,Common,Wolf
-22,Creature,Common,Ghoul
-23,Creature,Common,Orc
-24,Creature,Common,Eagle
-25,Creature,Rare,Aura Rogue Griffin
-26,Enchantment,Common,Age
-27,Enchantment,Legendary,Instant Shrink
-28,Enchantment,Common,Shade
-29,Creature,Common,Ghoul
-30,Spell,Legendary,Angry Torment
-31,Artifact,Common,Boots
-32,Enchantment,Common,Flight
-33,Creature,Rare,Aura Priest Fairy
-34,Creature,Common,Paladin
-35,Spell,Legendary,Instant Sorrow
-36,Creature,Legendary,Earth Warrior Oni of the Eternal Land
-37,Creature,Common,Orc
-38,Creature,Mythic,Dark Nameless Dragon of Illusion
-39,Creature,Common,Elf
-40,Creature,Common,Ghoul
-41,Creature,Common,Ghoul
-42,Creature,Common,Dwarf
-43,Creature,Common,Goblin
-44,Spell,Common,Sorrow
+==================,DECK,5531
+0,Creature,Dark Undead Phoenix of Illusion
+1,Creature,Eagle
+2,Creature,Light King Elf of the Swamp
+3,Creature,Magi
+4,Creature,Ghoul
+5,Spell,Tempest
+6,Creature,Warlock
+7,Enchantment,Invert
+8,Artifact,Dire Necro Helm
+9,Creature,Death Assassin Cyclops
+10,Creature,Snow Monk Cyclops
+11,Enchantment,Shade
+12,Enchantment,Lethargy
+13,Creature,Light Lord Orc
+14,Creature,Earth Monk Oni of the Plains
+15,Creature,Spider
+16,Creature,Eagle
+17,Spell,Stun
+18,Spell,Frigid Stun
+19,Creature,Magi
+20,Enchantment,Clever Hateful Lethargy
+21,Creature,Wolf
+22,Creature,Ghoul
+23,Creature,Spider
+24,Creature,Eagle
+25,Creature,Aura Rogue Griffin
+26,Enchantment,Shade
+27,Enchantment,Empyrean Necro Age
+28,Enchantment,Firebreath
+29,Creature,Ghoul
+30,Spell,Irate Miracle Lightning
+31,Artifact,Boots
+32,Enchantment,Strength
+33,Creature,Aura Priest Kraken
+34,Creature,Troll
+35,Spell,Mighty Shimmering Ice
+36,Creature,Earth Warrior Oni of the Eternal Land
+37,Creature,Spider
+38,Creature,Dark Nameless Dragon of Illusion
+39,Creature,Warlock
+40,Creature,Ghoul
+41,Creature,Ghoul
+42,Creature,Magi
+43,Creature,Skin-Walker
+44,Spell,Sorrow

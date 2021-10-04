@@ -1,46 +1,46 @@
-==================,DECK,6876,Medium
-0,Enchantment,Rare,Forged Strength
-1,Creature,Common,Orc
-2,Creature,Common,Warlock
-3,Creature,Rare,Snow Merchant Berserker
-4,Creature,Rare,Light Assassin Hydra
-5,Creature,Rare,Dark King Minotaur
-6,Creature,Common,Wolf
-7,Creature,Legendary,Light Queen Oni of the Plains
-8,Spell,Legendary,Extreme Sorrow
-9,Artifact,Rare,Hateful Greaves
-10,Artifact,Rare,Apocalypse Ring
-11,Enchantment,Common,Agony
-12,Creature,Common,Dwarf
-13,Creature,Rare,Earth Monk Skin-Walker
-14,Creature,Common,Warlock
-15,Spell,Common,Assault
-16,Creature,Rare,Death Queen Berserker
-17,Creature,Rare,Earth Thief Hydra
-18,Creature,Common,Warlock
-19,Creature,Legendary,Snow Warrior Cyclops of the Border
-20,Creature,Rare,Earth Warrior Hydra
-21,Creature,Common,Dwarf
-22,Creature,Common,Orc
-23,Creature,Common,Goblin
-24,Spell,Rare,Solar Torment
-25,Creature,Legendary,Death Queen Giant of the Frozen Castle
-26,Creature,Common,Magi
-27,Enchantment,Mythic,Extreme Age
-28,Creature,Common,Orc
-29,Creature,Common,Warlock
-30,Spell,Common,Frenzy
-31,Spell,Common,Gravitation
-32,Creature,Mythic,Death Ancient Demon of the Dead
-33,Spell,Rare,Corpse Gravitation
-34,Spell,Legendary,Instant Rage
-35,Artifact,Rare,Grim Divine Robe
-36,Spell,Rare,Nimble Freeze
-37,Enchantment,Common,Haste
-38,Enchantment,Legendary,Mighty Invert
-39,Enchantment,Common,Deathgrip
-40,Creature,Common,Eagle
-41,Creature,Rare,Death Assassin Fairy
-42,Creature,Rare,Death Fighter Berserker
-43,Creature,Common,Spider
-44,Spell,Rare,Nature Maelstrom
+==================,DECK,6876
+0,Enchantment,Cataclysmic Shield
+1,Creature,Spider
+2,Creature,Berserker
+3,Creature,Snow Merchant Goblin
+4,Creature,Light Assassin Hydra
+5,Creature,Dark King Cyclops
+6,Creature,Wolf
+7,Creature,Light Queen Oni of the Plains
+8,Spell,Potent Dark Assault
+9,Artifact,Sorrow Greaves
+10,Artifact,Grim Ring
+11,Enchantment,Shade
+12,Creature,Magi
+13,Creature,Earth Monk Orc
+14,Creature,Berserker
+15,Spell,Freeze
+16,Creature,Death Queen Goblin
+17,Creature,Earth Thief Hydra
+18,Creature,Berserker
+19,Creature,Snow Warrior Giant of the Border
+20,Creature,Earth Warrior Hydra
+21,Creature,Magi
+22,Creature,Spider
+23,Creature,Skin-Walker
+24,Spell,Corpse Gale
+25,Creature,Death Queen Dwarf of the Frozen Castle
+26,Creature,Fairy
+27,Enchantment,Empyrean Gloom Firebreath
+28,Creature,Spider
+29,Creature,Berserker
+30,Spell,Revive
+31,Spell,Ice
+32,Creature,Death Ancient Demon of the Dead
+33,Spell,Nature Sorrow
+34,Spell,Instant Hateful Hypnosis
+35,Artifact,Nimble Divine Robe
+36,Spell,Corpse Burn
+37,Enchantment,Alacrity
+38,Enchantment,Dire Sorrow Firebreath
+39,Enchantment,Alacrity
+40,Creature,Eagle
+41,Creature,Death Assassin Kraken
+42,Creature,Death Fighter Goblin
+43,Creature,Paladin
+44,Spell,Corpse Wall

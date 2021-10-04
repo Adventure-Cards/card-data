@@ -1,46 +1,46 @@
-==================,DECK,6407,Light
-0,Enchantment,Common,Blight
-1,Spell,Common,Sorrow
-2,Creature,Common,Wolf
-3,Enchantment,Legendary,Dire Shade
-4,Creature,Rare,Dark Undead Fairy
-5,Creature,Legendary,Frozen Knight Cyclops of the West
-6,Creature,Rare,Frozen Knight Griffin
-7,Spell,Rare,Miracle Burst
-8,Spell,Rare,Dark Heal
-9,Creature,Common,Warlock
-10,Creature,Common,Magi
-11,Creature,Common,Eagle
-12,Artifact,Common,Scythe
-13,Creature,Common,Orc
-14,Creature,Legendary,Aura Warrior Kraken of the Magical Forest
-15,Creature,Rare,Snow Undead Minotaur
-16,Spell,Legendary,Mighty Stun
-17,Creature,Common,Wolf
-18,Enchantment,Common,Shield
-19,Enchantment,Common,Agony
-20,Creature,Common,Eagle
-21,Artifact,Common,Pendant
-22,Enchantment,Common,Haste
-23,Spell,Rare,Solar Invisibility
-24,Artifact,Legendary,Extreme Sword
-25,Spell,Common,Maelstrom
-26,Artifact,Common,Scythe
-27,Enchantment,Legendary,Intense Alacrity
-28,Creature,Common,Ghoul
-29,Spell,Common,Torment
-30,Creature,Common,Dwarf
-31,Creature,Common,Ghoul
-32,Spell,Common,Frenzy
-33,Enchantment,Common,Deathgrip
-34,Artifact,Common,Helmet
-35,Enchantment,Common,Haste
-36,Creature,Common,Eagle
-37,Artifact,Common,Staff
-38,Creature,Common,Spider
-39,Enchantment,Common,Shade
-40,Creature,Legendary,Death Lord Cyclops of the Eternal Land
-41,Creature,Common,Orc
-42,Creature,Legendary,Snow Knight Oni of the Golden Palace
-43,Enchantment,Common,Alacrity
-44,Artifact,Common,Helmet
+==================,DECK,6407
+0,Enchantment,Shrink
+1,Spell,Stun
+2,Creature,Wolf
+3,Enchantment,Dire Frigid Shade
+4,Creature,Dark Undead Kraken
+5,Creature,Frozen Knight Giant of the West
+6,Creature,Frozen Knight Griffin
+7,Spell,Oblivion Frost
+8,Spell,Miracle Invisibility
+9,Creature,Berserker
+10,Creature,Fairy
+11,Creature,Eagle
+12,Artifact,Scythe
+13,Creature,Spider
+14,Creature,Aura Warrior Ogre of the Magical Forest
+15,Creature,Snow Undead Cyclops
+16,Spell,Zealous Miracle Torment
+17,Creature,Wolf
+18,Enchantment,Blight
+19,Enchantment,Shade
+20,Creature,Eagle
+21,Artifact,Pendant
+22,Enchantment,Strength
+23,Spell,Hateful Heal
+24,Artifact,Potent Dark Sword
+25,Spell,Ice
+26,Artifact,Scythe
+27,Enchantment,Urgent Forged Agony
+28,Creature,Ghoul
+29,Spell,Fire
+30,Creature,Magi
+31,Creature,Ghoul
+32,Spell,Burst
+33,Enchantment,Age
+34,Artifact,Helmet
+35,Enchantment,Invert
+36,Creature,Eagle
+37,Artifact,Staff
+38,Creature,Paladin
+39,Enchantment,Shrink
+40,Creature,Death Lord Giant of the Eternal Land
+41,Creature,Spider
+42,Creature,Snow Knight Oni of the Golden Palace
+43,Enchantment,Shield
+44,Artifact,Helmet

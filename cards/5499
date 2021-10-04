@@ -1,46 +1,46 @@
-==================,DECK,5499,Medium
-0,Enchantment,Common,Blight
-1,Artifact,Rare,Cataclysmic Crown
-2,Enchantment,Common,Age
-3,Creature,Common,Dwarf
-4,Enchantment,Common,Shrink
-5,Artifact,Rare,Grim Boots
-6,Creature,Rare,Dark Queen Minotaur
-7,Enchantment,Common,Strength
-8,Creature,Rare,Aura Knight Skin-Walker
-9,Spell,Common,Sorrow
-10,Creature,Common,Magi
-11,Artifact,Rare,Forged Gloves
-12,Artifact,Common,Ghost Wand
-13,Creature,Rare,Earth Warrior Skin-Walker
-14,Creature,Common,Elf
-15,Spell,Legendary,Angry Burn
-16,Enchantment,Common,Blight
-17,Creature,Rare,Snow King Fairy
-18,Enchantment,Legendary,Instant Shrink
-19,Enchantment,Mythic,Potent Blight
-20,Creature,Mythic,Light Chaos Wizard of the Sky
-21,Enchantment,Common,Drain
-22,Creature,Common,Elf
-23,Creature,Legendary,Light Priest Kraken of the Haven
-24,Enchantment,Common,Blight
-25,Artifact,Common,Scepter
-26,Spell,Common,Invisibility
-27,Artifact,Common,Tome
-28,Creature,Common,Ghoul
-29,Creature,Legendary,Light Knight Oni of the Eternal Land
-30,Creature,Rare,Death Warrior Minotaur
-31,Enchantment,Rare,Shimmering Blight
-32,Creature,Common,Magi
-33,Creature,Common,Magi
-34,Creature,Common,Magi
-35,Creature,Common,Spider
-36,Creature,Rare,Frozen Warrior Fairy
-37,Creature,Rare,Death Merchant Hydra
-38,Artifact,Rare,Solar Crown
-39,Creature,Common,Ghoul
-40,Artifact,Common,Potion
-41,Creature,Common,Ghoul
-42,Enchantment,Legendary,Dire Drain
-43,Enchantment,Mythic,Clever Shrink
-44,Creature,Common,Paladin
+==================,DECK,5499
+0,Enchantment,Drain
+1,Artifact,Cataclysmic Crown
+2,Enchantment,Invert
+3,Creature,Magi
+4,Enchantment,Flight
+5,Artifact,Apocalypse Boots
+6,Creature,Dark Queen Cyclops
+7,Enchantment,Shrink
+8,Creature,Aura Knight Orc
+9,Spell,Frenzy
+10,Creature,Fairy
+11,Artifact,Dark Gloves
+12,Artifact,Ghost Wand
+13,Creature,Earth Warrior Orc
+14,Creature,Warlock
+15,Spell,Empyrean Lunar Fury
+16,Enchantment,Invert
+17,Creature,Snow King Kraken
+18,Enchantment,Clever Necro Lethargy
+19,Enchantment,Potent Nimble Drain
+20,Creature,Light Chaos Wizard of the Sky
+21,Enchantment,Blight
+22,Creature,Warlock
+23,Creature,Light Priest Ogre of the Haven
+24,Enchantment,Invert
+25,Artifact,Scepter
+26,Spell,Invisibility
+27,Artifact,Tome
+28,Creature,Ghoul
+29,Creature,Light Knight Oni of the Eternal Land
+30,Creature,Death Warrior Cyclops
+31,Enchantment,Solar Age
+32,Creature,Fairy
+33,Creature,Fairy
+34,Creature,Fairy
+35,Creature,Paladin
+36,Creature,Frozen Warrior Kraken
+37,Creature,Death Merchant Hydra
+38,Artifact,Nature Crown
+39,Creature,Ghoul
+40,Artifact,Potion
+41,Creature,Ghoul
+42,Enchantment,Empyrean Apocalypse Shade
+43,Enchantment,Potent Frigid Drain
+44,Creature,Troll

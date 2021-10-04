@@ -1,46 +1,46 @@
-==================,DECK,4717,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Magi
-2,Spell,Legendary,Instant Revive
-3,Spell,Common,Revive
-4,Creature,Common,Wolf
-5,Artifact,Common,Tome
-6,Creature,Common,Goblin
-7,Creature,Common,Warlock
-8,Creature,Common,Elf
-9,Spell,Rare,Shimmering Ice
-10,Artifact,Common,Gloves
-11,Enchantment,Rare,Corpse Alacrity
-12,Spell,Legendary,Urgent Sorrow
-13,Creature,Rare,Death King Skin-Walker
-14,Creature,Common,Ghoul
-15,Creature,Common,Eagle
-16,Spell,Rare,Oblivion Assault
-17,Creature,Mythic,Frozen Time Phoenix of the Void
-18,Creature,Common,Paladin
-19,Creature,Common,Warlock
-20,Creature,Legendary,Frozen Undead Kraken of the Haven
-21,Creature,Rare,Dark Fighter Berserker
-22,Creature,Legendary,Death Lord Cyclops of the Polar Woods
-23,Spell,Common,Stun
-24,Creature,Common,Wolf
-25,Artifact,Common,Crown
-26,Creature,Mythic,Snow Nameless Dragon of Hate
-27,Creature,Common,Orc
-28,Creature,Rare,Frozen Monk Berserker
-29,Spell,Common,Infuriate
-30,Creature,Rare,Aura Queen Berserker
-31,Creature,Legendary,Light Fighter Kraken of the Eastern Skies
-32,Artifact,Common,Bracers
-33,Creature,Common,Eagle
-34,Enchantment,Rare,Dark Invert
-35,Creature,Common,Dwarf
-36,Spell,Common,Pandemonium
-37,Spell,Common,Lightning
-38,Creature,Common,Paladin
-39,Spell,Common,Stricken
-40,Creature,Common,Spider
-41,Spell,Mythic,Potent Sorrow
-42,Artifact,Rare,Life Belt
-43,Spell,Rare,Hateful Maelstrom
-44,Creature,Rare,Light Knight Fairy
+==================,DECK,4717
+0,Creature,Skin-Walker
+1,Creature,Fairy
+2,Spell,Irate Necro Tempest
+3,Spell,Pandemonium
+4,Creature,Wolf
+5,Artifact,Tome
+6,Creature,Skin-Walker
+7,Creature,Berserker
+8,Creature,Warlock
+9,Spell,Nature Frenzy
+10,Artifact,Gloves
+11,Enchantment,Forged Strength
+12,Spell,Mighty Nature Vortex
+13,Creature,Death King Orc
+14,Creature,Ghoul
+15,Creature,Eagle
+16,Spell,Life Pandemonium
+17,Creature,Frozen Time Phoenix of the Void
+18,Creature,Troll
+19,Creature,Berserker
+20,Creature,Frozen Undead Ogre of the Haven
+21,Creature,Dark Fighter Goblin
+22,Creature,Death Lord Giant of the Polar Woods
+23,Spell,Hypnosis
+24,Creature,Wolf
+25,Artifact,Crown
+26,Creature,Snow Nameless Dragon of Hate
+27,Creature,Spider
+28,Creature,Frozen Monk Goblin
+29,Spell,Frenzy
+30,Creature,Aura Queen Goblin
+31,Creature,Light Fighter Ogre of the Eastern Skies
+32,Artifact,Bracers
+33,Creature,Eagle
+34,Enchantment,Sorrow Alacrity
+35,Creature,Magi
+36,Spell,Tempest
+37,Spell,Frost
+38,Creature,Troll
+39,Spell,Stricken
+40,Creature,Paladin
+41,Spell,Empyrean Apocalypse Fire
+42,Artifact,Oblivion Belt
+43,Spell,Miracle Fire
+44,Creature,Light Knight Kraken

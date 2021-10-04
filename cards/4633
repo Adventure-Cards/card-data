@@ -1,46 +1,46 @@
-==================,DECK,4633,Light
-0,Spell,Legendary,Dire Wall
-1,Creature,Common,Orc
-2,Creature,Common,Dwarf
-3,Creature,Rare,Death Fighter Minotaur
-4,Creature,Rare,Earth King Hydra
-5,Creature,Legendary,Aura Merchant Oni of the Polar Woods
-6,Enchantment,Legendary,Potent Blight
-7,Enchantment,Common,Lethargy
-8,Artifact,Common,Pendant
-9,Creature,Rare,Aura Merchant Skin-Walker
-10,Spell,Common,Gravitation
-11,Creature,Common,Dwarf
-12,Creature,Common,Goblin
-13,Creature,Common,Goblin
-14,Spell,Rare,Forged Vortex
-15,Creature,Mythic,Earth Undead Dragon of the Shadows
-16,Enchantment,Common,Strength
-17,Creature,Common,Goblin
-18,Enchantment,Mythic,Mighty Blight
-19,Creature,Common,Eagle
-20,Creature,Rare,Aura Undead Minotaur
-21,Spell,Common,Rage
-22,Enchantment,Common,Lethargy
-23,Creature,Mythic,Death Chaos Wizard of the Dead
-24,Enchantment,Common,Invert
-25,Enchantment,Rare,Miracle Shrink
-26,Artifact,Rare,Nature Helm
-27,Enchantment,Common,Drain
-28,Spell,Common,Gravitation
-29,Creature,Rare,Earth Warrior Minotaur
-30,Creature,Rare,Frozen Queen Fairy
-31,Enchantment,Common,Drain
-32,Spell,Common,Burst
-33,Creature,Legendary,Dark Warrior Kraken of the Low Hills
-34,Enchantment,Common,Alacrity
-35,Artifact,Rare,Grim Staff
-36,Enchantment,Common,Alacrity
-37,Creature,Common,Spider
-38,Creature,Common,Ghoul
-39,Spell,Common,Invisibility
-40,Artifact,Legendary,Urgent Pendant
-41,Spell,Common,Frenzy
-42,Artifact,Common,Belt
-43,Enchantment,Mythic,Potent Alacrity
-44,Artifact,Rare,Oblivion Amulet
+==================,DECK,4633
+0,Spell,Instant Apocalypse Revive
+1,Creature,Spider
+2,Creature,Magi
+3,Creature,Death Fighter Cyclops
+4,Creature,Earth King Hydra
+5,Creature,Aura Merchant Oni of the Polar Woods
+6,Enchantment,Mighty Nimble Invert
+7,Enchantment,Shrink
+8,Artifact,Pendant
+9,Creature,Aura Merchant Orc
+10,Spell,Freeze
+11,Creature,Magi
+12,Creature,Skin-Walker
+13,Creature,Skin-Walker
+14,Spell,Dark Burst
+15,Creature,Earth Undead Dragon of the Shadows
+16,Enchantment,Drain
+17,Creature,Skin-Walker
+18,Enchantment,Zealous Cataclysmic Alacrity
+19,Creature,Eagle
+20,Creature,Aura Undead Cyclops
+21,Spell,Frenzy
+22,Enchantment,Invert
+23,Creature,Death Chaos Wizard of the Dead
+24,Enchantment,Drain
+25,Enchantment,Frigid Invert
+26,Artifact,Corpse Helm
+27,Enchantment,Agony
+28,Spell,Torment
+29,Creature,Earth Warrior Cyclops
+30,Creature,Frozen Queen Kraken
+31,Enchantment,Drain
+32,Spell,Sorrow
+33,Creature,Dark Warrior Ogre of the Low Hills
+34,Enchantment,Haste
+35,Artifact,Frigid Staff
+36,Enchantment,Haste
+37,Creature,Paladin
+38,Creature,Ghoul
+39,Spell,Lightning
+40,Artifact,Irate Shimmering Pendant
+41,Spell,Frost
+42,Artifact,Belt
+43,Enchantment,Irate Apocalypse Blight
+44,Artifact,Frigid Amulet

@@ -1,46 +1,46 @@
-==================,DECK,6201,Light
-0,Creature,Common,Magi
-1,Creature,Common,Paladin
-2,Creature,Common,Elf
-3,Spell,Common,Freeze
-4,Creature,Common,Ghoul
-5,Enchantment,Common,Invert
-6,Creature,Common,Paladin
-7,Creature,Common,Dwarf
-8,Creature,Common,Dwarf
-9,Creature,Mythic,Frozen Ancient Demon of the Void
-10,Enchantment,Rare,Corpse Agony
-11,Spell,Common,Freeze
-12,Creature,Common,Wolf
-13,Spell,Common,Gale
-14,Creature,Common,Elf
-15,Creature,Common,Spider
-16,Spell,Common,Stricken
-17,Creature,Rare,Death Knight Fairy
-18,Creature,Common,Goblin
-19,Creature,Common,Spider
-20,Enchantment,Common,Invert
-21,Creature,Common,Elf
-22,Enchantment,Common,Strength
-23,Creature,Legendary,Dark Thief Cyclops of the Arctic Blizzards
-24,Artifact,Rare,Hateful Cloak
-25,Creature,Common,Orc
-26,Spell,Common,Rage
-27,Creature,Common,Elf
-28,Creature,Common,Spider
-29,Creature,Common,Eagle
-30,Creature,Common,Orc
-31,Spell,Common,Stun
-32,Creature,Common,Wolf
-33,Artifact,Common,Scepter
-34,Creature,Common,Elf
-35,Creature,Common,Warlock
-36,Creature,Common,Elf
-37,Creature,Legendary,Light Monk Giant of the Magical Forest
-38,Creature,Common,Dwarf
-39,Creature,Rare,Dark Merchant Berserker
-40,Creature,Common,Warlock
-41,Creature,Common,Goblin
-42,Spell,Common,Gravitation
-43,Enchantment,Common,Strength
-44,Spell,Common,Gale
+==================,DECK,6201
+0,Creature,Fairy
+1,Creature,Troll
+2,Creature,Warlock
+3,Spell,Frenzy
+4,Creature,Ghoul
+5,Enchantment,Alacrity
+6,Creature,Troll
+7,Creature,Magi
+8,Creature,Magi
+9,Creature,Frozen Ancient Demon of the Void
+10,Enchantment,Corpse Lethargy
+11,Spell,Lightning
+12,Creature,Wolf
+13,Spell,Torment
+14,Creature,Warlock
+15,Creature,Paladin
+16,Spell,Gale
+17,Creature,Death Knight Kraken
+18,Creature,Skin-Walker
+19,Creature,Paladin
+20,Enchantment,Shield
+21,Creature,Warlock
+22,Enchantment,Invert
+23,Creature,Dark Thief Giant of the Arctic Blizzards
+24,Artifact,Dark Cloak
+25,Creature,Spider
+26,Spell,Torment
+27,Creature,Warlock
+28,Creature,Paladin
+29,Creature,Eagle
+30,Creature,Spider
+31,Spell,Revive
+32,Creature,Wolf
+33,Artifact,Scepter
+34,Creature,Warlock
+35,Creature,Berserker
+36,Creature,Warlock
+37,Creature,Light Monk Dwarf of the Magical Forest
+38,Creature,Magi
+39,Creature,Dark Merchant Goblin
+40,Creature,Berserker
+41,Creature,Skin-Walker
+42,Spell,Heal
+43,Enchantment,Invert
+44,Spell,Gale

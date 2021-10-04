@@ -1,46 +1,46 @@
-==================,DECK,5034,Light
-0,Creature,Common,Spider
-1,Spell,Common,Pandemonium
-2,Creature,Rare,Earth Monk Berserker
-3,Creature,Common,Spider
-4,Spell,Legendary,Urgent Fury
-5,Enchantment,Rare,Hateful Deathgrip
-6,Creature,Common,Paladin
-7,Creature,Common,Warlock
-8,Creature,Rare,Light Knight Fairy
-9,Enchantment,Common,Shade
-10,Creature,Common,Magi
-11,Creature,Rare,Light Undead Griffin
-12,Enchantment,Legendary,Dire Shrink
-13,Artifact,Common,Sigil
-14,Artifact,Common,Potion
-15,Creature,Rare,Snow Rogue Minotaur
-16,Creature,Common,Paladin
-17,Artifact,Common,Potion
-18,Enchantment,Common,Deathgrip
-19,Creature,Common,Warlock
-20,Creature,Rare,Earth Assassin Griffin
-21,Enchantment,Mythic,Clever Invert
-22,Artifact,Common,Cloak
-23,Artifact,Common,Pendant
-24,Enchantment,Common,Haste
-25,Creature,Rare,Death Undead Berserker
-26,Creature,Common,Magi
-27,Creature,Legendary,Earth Undead Oni of the Swamp
-28,Creature,Common,Wolf
-29,Spell,Common,Assault
-30,Creature,Rare,Dark Merchant Minotaur
-31,Enchantment,Mythic,Intense Alacrity
-32,Creature,Common,Warlock
-33,Artifact,Rare,Frigid Ghost Wand
-34,Creature,Legendary,Death Lord Cyclops of the Eternal Land
-35,Spell,Common,Frost
-36,Spell,Common,Stricken
-37,Creature,Common,Spider
-38,Artifact,Common,Ring
-39,Creature,Common,Elf
-40,Enchantment,Common,Shade
-41,Artifact,Common,Boots
-42,Enchantment,Common,Lethargy
-43,Creature,Common,Ghoul
-44,Spell,Common,Infuriate
+==================,DECK,5034
+0,Creature,Paladin
+1,Spell,Gale
+2,Creature,Earth Monk Goblin
+3,Creature,Paladin
+4,Spell,Zealous Hateful Maelstrom
+5,Enchantment,Sorrow Flight
+6,Creature,Troll
+7,Creature,Berserker
+8,Creature,Light Knight Kraken
+9,Enchantment,Strength
+10,Creature,Fairy
+11,Creature,Light Undead Griffin
+12,Enchantment,Potent Frigid Drain
+13,Artifact,Sigil
+14,Artifact,Potion
+15,Creature,Snow Rogue Cyclops
+16,Creature,Troll
+17,Artifact,Potion
+18,Enchantment,Drain
+19,Creature,Berserker
+20,Creature,Earth Assassin Griffin
+21,Enchantment,Urgent Oblivion Invert
+22,Artifact,Cloak
+23,Artifact,Pendant
+24,Enchantment,Invert
+25,Creature,Death Undead Goblin
+26,Creature,Fairy
+27,Creature,Earth Undead Oni of the Swamp
+28,Creature,Wolf
+29,Spell,Rage
+30,Creature,Dark Merchant Cyclops
+31,Enchantment,Dire Forged Age
+32,Creature,Berserker
+33,Artifact,Grim Ghost Wand
+34,Creature,Death Lord Giant of the Eternal Land
+35,Spell,Ice
+36,Spell,Invisibility
+37,Creature,Paladin
+38,Artifact,Ring
+39,Creature,Warlock
+40,Enchantment,Lethargy
+41,Artifact,Boots
+42,Enchantment,Haste
+43,Creature,Ghoul
+44,Spell,Rage

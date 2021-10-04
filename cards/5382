@@ -1,46 +1,46 @@
-==================,DECK,5382,Medium
-0,Artifact,Common,Bracers
-1,Spell,Mythic,Urgent Invisibility
-2,Creature,Rare,Death Assassin Fairy
-3,Creature,Rare,Snow Queen Minotaur
-4,Creature,Rare,Snow Thief Skin-Walker
-5,Enchantment,Common,Shade
-6,Enchantment,Rare,Frigid Shield
-7,Spell,Common,Burn
-8,Creature,Rare,Snow Lord Berserker
-9,Creature,Rare,Earth Warrior Berserker
-10,Creature,Rare,Aura Priest Skin-Walker
-11,Creature,Common,Ghoul
-12,Artifact,Common,Pendant
-13,Enchantment,Legendary,Dire Blight
-14,Creature,Rare,Snow Thief Berserker
-15,Enchantment,Mythic,Potent Shrink
-16,Creature,Legendary,Snow Queen Kraken of the Eastern Skies
-17,Spell,Common,Stun
-18,Spell,Common,Gravitation
-19,Spell,Rare,Nature Burn
-20,Creature,Common,Paladin
-21,Creature,Rare,Aura Lord Minotaur
-22,Enchantment,Common,Flight
-23,Creature,Common,Dwarf
-24,Creature,Common,Ghoul
-25,Creature,Legendary,Light Undead Orge of the Arctic Blizzards
-26,Creature,Common,Elf
-27,Creature,Rare,Death Warrior Berserker
-28,Spell,Rare,Shimmering Stricken
-29,Creature,Mythic,Light Undead Phoenix of the Sky
-30,Artifact,Common,Sigil
-31,Creature,Rare,Earth Rogue Griffin
-32,Creature,Common,Warlock
-33,Creature,Common,Orc
-34,Enchantment,Common,Shade
-35,Creature,Common,Wolf
-36,Spell,Common,Assault
-37,Creature,Common,Magi
-38,Creature,Common,Magi
-39,Creature,Common,Goblin
-40,Creature,Common,Warlock
-41,Artifact,Common,Shield
-42,Creature,Rare,Aura Monk Griffin
-43,Creature,Rare,Death Undead Berserker
-44,Creature,Common,Paladin
+==================,DECK,5382
+0,Artifact,Bracers
+1,Spell,Dire Hateful Stun
+2,Creature,Death Assassin Kraken
+3,Creature,Snow Queen Cyclops
+4,Creature,Snow Thief Orc
+5,Enchantment,Firebreath
+6,Enchantment,Victory Drain
+7,Spell,Stricken
+8,Creature,Snow Lord Goblin
+9,Creature,Earth Warrior Goblin
+10,Creature,Aura Priest Orc
+11,Creature,Ghoul
+12,Artifact,Pendant
+13,Enchantment,Zealous Nimble Blight
+14,Creature,Snow Thief Goblin
+15,Enchantment,Clever Frigid Haste
+16,Creature,Snow Queen Ogre of the Eastern Skies
+17,Spell,Heal
+18,Spell,Stricken
+19,Spell,Necro Assault
+20,Creature,Troll
+21,Creature,Aura Lord Cyclops
+22,Enchantment,Deathgrip
+23,Creature,Magi
+24,Creature,Ghoul
+25,Creature,Light Undead Elf of the Arctic Blizzards
+26,Creature,Warlock
+27,Creature,Death Warrior Goblin
+28,Spell,Nature Fireball
+29,Creature,Light Undead Phoenix of the Sky
+30,Artifact,Sigil
+31,Creature,Earth Rogue Griffin
+32,Creature,Berserker
+33,Creature,Spider
+34,Enchantment,Alacrity
+35,Creature,Wolf
+36,Spell,Stricken
+37,Creature,Fairy
+38,Creature,Fairy
+39,Creature,Skin-Walker
+40,Creature,Berserker
+41,Artifact,Shield
+42,Creature,Aura Monk Griffin
+43,Creature,Death Undead Goblin
+44,Creature,Troll

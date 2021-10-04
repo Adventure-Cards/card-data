@@ -1,46 +1,46 @@
-==================,DECK,5704,Medium
-0,Creature,Common,Elf
-1,Enchantment,Rare,Cataclysmic Blight
-2,Spell,Common,Heal
-3,Enchantment,Common,Shade
-4,Creature,Rare,Death Monk Minotaur
-5,Creature,Common,Eagle
-6,Enchantment,Rare,Lunar Blight
-7,Enchantment,Common,Lethargy
-8,Creature,Rare,Dark Merchant Berserker
-9,Creature,Common,Magi
-10,Creature,Rare,Aura Undead Berserker
-11,Spell,Common,Revive
-12,Creature,Common,Orc
-13,Creature,Mythic,Snow Time Phoenix of Hate
-14,Creature,Common,Magi
-15,Enchantment,Common,Shade
-16,Enchantment,Common,Lethargy
-17,Spell,Common,Pandemonium
-18,Creature,Common,Orc
-19,Creature,Mythic,Aura Chaos Demon of the Light
-20,Creature,Rare,Snow Merchant Minotaur
-21,Enchantment,Common,Drain
-22,Creature,Common,Goblin
-23,Spell,Common,Wall
-24,Creature,Legendary,Light Lord Cyclops of the Eternal Land
-25,Creature,Rare,Aura Merchant Skin-Walker
-26,Creature,Mythic,Death Chaos Demon of the Dead
-27,Spell,Rare,Gloom Assault
-28,Creature,Common,Magi
-29,Enchantment,Rare,Shimmering Shrink
-30,Artifact,Rare,Cataclysmic Helm
-31,Spell,Common,Maelstrom
-32,Creature,Common,Magi
-33,Enchantment,Common,Haste
-34,Spell,Common,Lightning
-35,Enchantment,Rare,Nature Drain
-36,Creature,Legendary,Frozen Thief Oni of the Eastern Skies
-37,Creature,Common,Goblin
-38,Enchantment,Rare,Oblivion Alacrity
-39,Enchantment,Common,Shield
-40,Creature,Common,Magi
-41,Creature,Rare,Death Knight Skin-Walker
-42,Creature,Common,Elf
-43,Creature,Rare,Aura Undead Hydra
-44,Creature,Common,Warlock
+==================,DECK,5704
+0,Creature,Warlock
+1,Enchantment,Cataclysmic Shrink
+2,Spell,Stricken
+3,Enchantment,Shade
+4,Creature,Death Monk Cyclops
+5,Creature,Eagle
+6,Enchantment,Cataclysmic Flight
+7,Enchantment,Blight
+8,Creature,Dark Merchant Goblin
+9,Creature,Fairy
+10,Creature,Aura Undead Goblin
+11,Spell,Rage
+12,Creature,Spider
+13,Creature,Snow Time Phoenix of Hate
+14,Creature,Fairy
+15,Enchantment,Shrink
+16,Enchantment,Agony
+17,Spell,Ice
+18,Creature,Spider
+19,Creature,Aura Chaos Demon of the Light
+20,Creature,Snow Merchant Cyclops
+21,Enchantment,Age
+22,Creature,Skin-Walker
+23,Spell,Maelstrom
+24,Creature,Light Lord Giant of the Eternal Land
+25,Creature,Aura Merchant Orc
+26,Creature,Death Chaos Demon of the Dead
+27,Spell,Dark Burst
+28,Creature,Fairy
+29,Enchantment,Necro Age
+30,Artifact,Sorrow Helm
+31,Spell,Assault
+32,Creature,Fairy
+33,Enchantment,Blight
+34,Spell,Fireball
+35,Enchantment,Forged Agony
+36,Creature,Frozen Thief Oni of the Eastern Skies
+37,Creature,Skin-Walker
+38,Enchantment,Apocalypse Shade
+39,Enchantment,Shade
+40,Creature,Fairy
+41,Creature,Death Knight Orc
+42,Creature,Warlock
+43,Creature,Aura Undead Hydra
+44,Creature,Berserker

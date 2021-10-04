@@ -1,46 +1,46 @@
-==================,DECK,6095,Light
-0,Spell,Rare,Solar Frost
-1,Enchantment,Common,Lethargy
-2,Enchantment,Common,Shrink
-3,Spell,Legendary,Dire Heal
-4,Artifact,Common,Crown
-5,Creature,Common,Elf
-6,Enchantment,Rare,Nimble Shade
-7,Creature,Rare,Aura Warrior Fairy
-8,Creature,Rare,Dark Warrior Minotaur
-9,Spell,Common,Infuriate
-10,Enchantment,Common,Alacrity
-11,Enchantment,Common,Agony
-12,Spell,Common,Frenzy
-13,Creature,Mythic,Frozen Grand Wizard of the Void
-14,Creature,Common,Paladin
-15,Spell,Common,Torment
-16,Creature,Common,Magi
-17,Creature,Legendary,Aura Fighter Kraken of the Haven
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Agony
-20,Artifact,Legendary,Urgent Helm
-21,Creature,Common,Ghoul
-22,Enchantment,Mythic,Angry Age
-23,Spell,Common,Stricken
-24,Enchantment,Common,Drain
-25,Creature,Common,Orc
-26,Creature,Common,Ghoul
-27,Spell,Common,Frost
-28,Creature,Legendary,Light Rogue Cyclops of the Arctic Blizzards
-29,Spell,Common,Fury
-30,Spell,Rare,Gloom Freeze
-31,Creature,Common,Elf
-32,Creature,Rare,Death Monk Hydra
-33,Creature,Legendary,Frozen Knight Orge of the Haven
-34,Spell,Rare,Shimmering Burst
-35,Creature,Common,Orc
-36,Creature,Common,Ghoul
-37,Creature,Common,Paladin
-38,Spell,Common,Hypnosis
-39,Enchantment,Rare,Apocalypse Deathgrip
-40,Artifact,Rare,Cataclysmic Amulet
-41,Creature,Common,Eagle
-42,Enchantment,Common,Shrink
-43,Enchantment,Common,Shield
-44,Spell,Common,Maelstrom
+==================,DECK,6095
+0,Spell,Nature Maelstrom
+1,Enchantment,Haste
+2,Enchantment,Lethargy
+3,Spell,Irate Victory Infuriate
+4,Artifact,Crown
+5,Creature,Warlock
+6,Enchantment,Necro Lethargy
+7,Creature,Aura Warrior Kraken
+8,Creature,Dark Warrior Cyclops
+9,Spell,Pandemonium
+10,Enchantment,Firebreath
+11,Enchantment,Agony
+12,Spell,Stricken
+13,Creature,Frozen Grand Wizard of the Void
+14,Creature,Troll
+15,Spell,Fury
+16,Creature,Fairy
+17,Creature,Aura Fighter Ogre of the Haven
+18,Creature,Ghoul
+19,Enchantment,Drain
+20,Artifact,Empyrean Shimmering Helm
+21,Creature,Ghoul
+22,Enchantment,Potent Gloom Shrink
+23,Spell,Heal
+24,Enchantment,Shield
+25,Creature,Spider
+26,Creature,Ghoul
+27,Spell,Assault
+28,Creature,Light Rogue Giant of the Arctic Blizzards
+29,Spell,Gravitation
+30,Spell,Miracle Fury
+31,Creature,Warlock
+32,Creature,Death Monk Hydra
+33,Creature,Frozen Knight Elf of the Haven
+34,Spell,Forged Invisibility
+35,Creature,Spider
+36,Creature,Ghoul
+37,Creature,Troll
+38,Spell,Gravitation
+39,Enchantment,Oblivion Shade
+40,Artifact,Chimeric Amulet
+41,Creature,Eagle
+42,Enchantment,Invert
+43,Enchantment,Lethargy
+44,Spell,Rage

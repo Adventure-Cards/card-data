@@ -1,46 +1,46 @@
-==================,DECK,5682,Medium
-0,Enchantment,Common,Shade
-1,Enchantment,Common,Drain
-2,Enchantment,Common,Invert
-3,Creature,Rare,Aura Rogue Berserker
-4,Creature,Mythic,Death Nameless Dragon of the Dead
-5,Artifact,Common,Greaves
-6,Creature,Common,Goblin
-7,Creature,Common,Wolf
-8,Creature,Common,Wolf
-9,Creature,Common,Dwarf
-10,Spell,Legendary,Intense Torment
-11,Creature,Common,Warlock
-12,Creature,Rare,Snow Warrior Fairy
-13,Creature,Legendary,Dark Lord Orge of the Black Stone
-14,Creature,Common,Ghoul
-15,Creature,Mythic,Frozen Undead Dragon of the Void
-16,Creature,Common,Orc
-17,Creature,Rare,Light Rogue Berserker
-18,Artifact,Rare,Shimmering Helmet
-19,Creature,Rare,Death Merchant Fairy
-20,Creature,Common,Paladin
-21,Enchantment,Rare,Cataclysmic Drain
-22,Enchantment,Common,Age
-23,Creature,Common,Spider
-24,Spell,Common,Lightning
-25,Enchantment,Common,Alacrity
-26,Creature,Rare,Frozen Merchant Skin-Walker
-27,Creature,Rare,Aura Assassin Berserker
-28,Creature,Rare,Light Thief Fairy
-29,Spell,Common,Wall
-30,Creature,Common,Magi
-31,Spell,Common,Revive
-32,Spell,Common,Wall
-33,Enchantment,Common,Lethargy
-34,Artifact,Rare,Solar Scepter
-35,Creature,Common,Orc
-36,Enchantment,Common,Flight
-37,Enchantment,Rare,Dark Shade
-38,Creature,Rare,Snow Undead Minotaur
-39,Creature,Common,Goblin
-40,Enchantment,Common,Alacrity
-41,Enchantment,Common,Drain
-42,Creature,Common,Ghoul
-43,Enchantment,Common,Agony
-44,Creature,Rare,Light Undead Minotaur
+==================,DECK,5682
+0,Enchantment,Haste
+1,Enchantment,Shield
+2,Enchantment,Invert
+3,Creature,Aura Rogue Goblin
+4,Creature,Death Nameless Dragon of the Dead
+5,Artifact,Greaves
+6,Creature,Skin-Walker
+7,Creature,Wolf
+8,Creature,Wolf
+9,Creature,Magi
+10,Spell,Instant Shimmering Sorrow
+11,Creature,Berserker
+12,Creature,Snow Warrior Kraken
+13,Creature,Dark Lord Elf of the Black Stone
+14,Creature,Ghoul
+15,Creature,Frozen Undead Dragon of the Void
+16,Creature,Spider
+17,Creature,Light Rogue Goblin
+18,Artifact,Corpse Helmet
+19,Creature,Death Merchant Kraken
+20,Creature,Troll
+21,Enchantment,Dark Shield
+22,Enchantment,Alacrity
+23,Creature,Paladin
+24,Spell,Sorrow
+25,Enchantment,Age
+26,Creature,Frozen Merchant Orc
+27,Creature,Aura Assassin Goblin
+28,Creature,Light Thief Kraken
+29,Spell,Vortex
+30,Creature,Fairy
+31,Spell,Rage
+32,Spell,Fury
+33,Enchantment,Lethargy
+34,Artifact,Shimmering Scepter
+35,Creature,Spider
+36,Enchantment,Alacrity
+37,Enchantment,Chimeric Firebreath
+38,Creature,Snow Undead Cyclops
+39,Creature,Skin-Walker
+40,Enchantment,Flight
+41,Enchantment,Invert
+42,Creature,Ghoul
+43,Enchantment,Invert
+44,Creature,Light Undead Cyclops

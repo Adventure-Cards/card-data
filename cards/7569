@@ -1,46 +1,46 @@
-==================,DECK,7569,Light
-0,Spell,Common,Freeze
-1,Artifact,Rare,Cataclysmic Helm
-2,Enchantment,Common,Deathgrip
-3,Creature,Common,Spider
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Artifact,Common,Staff
-7,Enchantment,Rare,Dark Shade
-8,Creature,Common,Spider
-9,Creature,Rare,Light Assassin Griffin
-10,Creature,Common,Orc
-11,Creature,Common,Spider
-12,Creature,Rare,Dark King Berserker
-13,Artifact,Common,Pendant
-14,Creature,Rare,Death Queen Griffin
-15,Spell,Common,Fury
-16,Creature,Rare,Light Fighter Skin-Walker
-17,Artifact,Common,Sword
-18,Creature,Common,Spider
-19,Enchantment,Mythic,Clever Agony
-20,Spell,Common,Infuriate
-21,Artifact,Common,Potion
-22,Artifact,Common,Boots
-23,Enchantment,Rare,Necro Blight
-24,Artifact,Common,Bracers
-25,Creature,Mythic,Earth Grand Wizard of the Shadows
-26,Creature,Common,Eagle
-27,Spell,Rare,Nature Maelstrom
-28,Creature,Rare,Dark Undead Berserker
-29,Enchantment,Rare,Shimmering Flight
-30,Creature,Common,Ghoul
-31,Enchantment,Rare,Oblivion Lethargy
-32,Enchantment,Common,Lethargy
-33,Creature,Rare,Snow Monk Minotaur
-34,Enchantment,Rare,Dark Shade
-35,Spell,Rare,Lunar Sorrow
-36,Spell,Common,Infuriate
-37,Spell,Common,Infuriate
-38,Enchantment,Common,Drain
-39,Artifact,Common,Ring
-40,Creature,Common,Ghoul
-41,Spell,Rare,Miracle Gale
-42,Artifact,Legendary,Clever Crown
-43,Creature,Legendary,Death Rogue Kraken of the Bright Mountains
-44,Enchantment,Rare,Corpse Shade
+==================,DECK,7569
+0,Spell,Invisibility
+1,Artifact,Chimeric Helm
+2,Enchantment,Drain
+3,Creature,Paladin
+4,Creature,Warlock
+5,Creature,Spider
+6,Artifact,Staff
+7,Enchantment,Chimeric Alacrity
+8,Creature,Paladin
+9,Creature,Light Assassin Griffin
+10,Creature,Spider
+11,Creature,Paladin
+12,Creature,Dark King Goblin
+13,Artifact,Pendant
+14,Creature,Death Queen Griffin
+15,Spell,Ice
+16,Creature,Light Fighter Orc
+17,Artifact,Sword
+18,Creature,Paladin
+19,Enchantment,Ardent Life Haste
+20,Spell,Reanimate
+21,Artifact,Potion
+22,Artifact,Boots
+23,Enchantment,Solar Deathgrip
+24,Artifact,Bracers
+25,Creature,Earth Grand Wizard of the Shadows
+26,Creature,Eagle
+27,Spell,Corpse Stun
+28,Creature,Dark Undead Goblin
+29,Enchantment,Hateful Strength
+30,Creature,Ghoul
+31,Enchantment,Grim Drain
+32,Enchantment,Strength
+33,Creature,Snow Monk Cyclops
+34,Enchantment,Chimeric Shield
+35,Spell,Miracle Torment
+36,Spell,Fury
+37,Spell,Hypnosis
+38,Enchantment,Flight
+39,Artifact,Ring
+40,Creature,Ghoul
+41,Spell,Victory Fire
+42,Artifact,Irate Apocalypse Crown
+43,Creature,Death Rogue Ogre of the Bright Mountains
+44,Enchantment,Necro Strength

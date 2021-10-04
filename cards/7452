@@ -1,46 +1,46 @@
-==================,DECK,7452,Light
-0,Enchantment,Common,Lethargy
-1,Enchantment,Common,Agony
-2,Artifact,Common,Bracers
-3,Enchantment,Common,Strength
-4,Creature,Common,Magi
-5,Creature,Common,Magi
-6,Creature,Rare,Light Thief Berserker
-7,Spell,Common,Heal
-8,Enchantment,Common,Lethargy
-9,Creature,Common,Goblin
-10,Creature,Legendary,Frozen Warrior Orge of the West
-11,Creature,Rare,Frozen Priest Fairy
-12,Spell,Common,Infuriate
-13,Artifact,Common,Crown
-14,Creature,Common,Eagle
-15,Creature,Common,Eagle
-16,Creature,Rare,Dark Knight Skin-Walker
-17,Creature,Common,Orc
-18,Enchantment,Rare,Hateful Drain
-19,Artifact,Rare,Hateful Gauntlet
-20,Creature,Common,Dwarf
-21,Creature,Legendary,Earth King Kraken of the Golden Palace
-22,Creature,Common,Elf
-23,Artifact,Common,Helmet
-24,Creature,Common,Paladin
-25,Enchantment,Rare,Apocalypse Blight
-26,Spell,Common,Revive
-27,Creature,Mythic,Snow Undead Phoenix of Hate
-28,Creature,Common,Paladin
-29,Spell,Common,Stun
-30,Creature,Mythic,Snow Grand Demon of Hate
-31,Enchantment,Common,Invert
-32,Spell,Common,Hypnosis
-33,Enchantment,Legendary,Angry Invert
-34,Enchantment,Common,Shade
-35,Enchantment,Common,Shield
-36,Creature,Rare,Frozen Lord Skin-Walker
-37,Creature,Common,Ghoul
-38,Enchantment,Common,Shrink
-39,Creature,Common,Goblin
-40,Enchantment,Common,Shrink
-41,Creature,Common,Wolf
-42,Creature,Common,Eagle
-43,Artifact,Common,Amulet
-44,Creature,Common,Ghoul
+==================,DECK,7452
+0,Enchantment,Agony
+1,Enchantment,Shade
+2,Artifact,Bracers
+3,Enchantment,Agony
+4,Creature,Fairy
+5,Creature,Fairy
+6,Creature,Light Thief Goblin
+7,Spell,Lightning
+8,Enchantment,Firebreath
+9,Creature,Skin-Walker
+10,Creature,Frozen Warrior Elf of the West
+11,Creature,Frozen Priest Kraken
+12,Spell,Frenzy
+13,Artifact,Crown
+14,Creature,Eagle
+15,Creature,Eagle
+16,Creature,Dark Knight Orc
+17,Creature,Spider
+18,Enchantment,Dark Flight
+19,Artifact,Gloom Gauntlet
+20,Creature,Magi
+21,Creature,Earth King Ogre of the Golden Palace
+22,Creature,Warlock
+23,Artifact,Helmet
+24,Creature,Troll
+25,Enchantment,Nimble Shade
+26,Spell,Reanimate
+27,Creature,Snow Undead Phoenix of Hate
+28,Creature,Troll
+29,Spell,Fire
+30,Creature,Snow Grand Demon of Hate
+31,Enchantment,Age
+32,Spell,Burst
+33,Enchantment,Dire Sorrow Firebreath
+34,Enchantment,Agony
+35,Enchantment,Alacrity
+36,Creature,Frozen Lord Orc
+37,Creature,Ghoul
+38,Enchantment,Firebreath
+39,Creature,Skin-Walker
+40,Enchantment,Firebreath
+41,Creature,Wolf
+42,Creature,Eagle
+43,Artifact,Amulet
+44,Creature,Ghoul

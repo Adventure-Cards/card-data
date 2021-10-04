@@ -1,46 +1,46 @@
-==================,DECK,5120,Light
-0,Creature,Common,Goblin
-1,Artifact,Common,Pendant
-2,Spell,Common,Infuriate
-3,Enchantment,Common,Agony
-4,Creature,Rare,Light Fighter Griffin
-5,Creature,Common,Wolf
-6,Creature,Rare,Snow Monk Hydra
-7,Creature,Common,Eagle
-8,Enchantment,Mythic,Angry Age
-9,Creature,Common,Elf
-10,Creature,Common,Magi
-11,Creature,Common,Ghoul
-12,Spell,Legendary,Potent Infuriate
-13,Enchantment,Rare,Life Blight
-14,Enchantment,Legendary,Instant Age
-15,Creature,Common,Orc
-16,Enchantment,Mythic,Instant Drain
-17,Creature,Common,Eagle
-18,Creature,Legendary,Earth Lord Cyclops of the Eternal Land
-19,Spell,Rare,Corpse Lightning
-20,Artifact,Common,Gloves
-21,Spell,Common,Ice
-22,Creature,Rare,Dark Priest Hydra
-23,Creature,Rare,Aura Warrior Berserker
-24,Spell,Rare,Lunar Gale
-25,Creature,Common,Ghoul
-26,Creature,Mythic,Dark Time Phoenix of Illusion
-27,Spell,Legendary,Mighty Pandemonium
-28,Creature,Common,Elf
-29,Spell,Common,Sorrow
-30,Spell,Common,Torment
-31,Enchantment,Common,Age
-32,Spell,Common,Maelstrom
-33,Enchantment,Common,Invert
-34,Creature,Common,Spider
-35,Creature,Common,Eagle
-36,Creature,Common,Ghoul
-37,Spell,Common,Lightning
-38,Creature,Common,Spider
-39,Creature,Common,Elf
-40,Creature,Common,Elf
-41,Creature,Rare,Death Knight Skin-Walker
-42,Enchantment,Common,Shade
-43,Creature,Common,Goblin
-44,Creature,Common,Ghoul
+==================,DECK,5120
+0,Creature,Skin-Walker
+1,Artifact,Pendant
+2,Spell,Rage
+3,Enchantment,Invert
+4,Creature,Light Fighter Griffin
+5,Creature,Wolf
+6,Creature,Snow Monk Hydra
+7,Creature,Eagle
+8,Enchantment,Zealous Gloom Alacrity
+9,Creature,Warlock
+10,Creature,Fairy
+11,Creature,Ghoul
+12,Spell,Zealous Oblivion Torment
+13,Enchantment,Nimble Drain
+14,Enchantment,Empyrean Nature Age
+15,Creature,Spider
+16,Enchantment,Empyrean Forged Age
+17,Creature,Eagle
+18,Creature,Earth Lord Giant of the Eternal Land
+19,Spell,Nature Invisibility
+20,Artifact,Gloves
+21,Spell,Ice
+22,Creature,Dark Priest Hydra
+23,Creature,Aura Warrior Goblin
+24,Spell,Sorrow Reanimate
+25,Creature,Ghoul
+26,Creature,Dark Time Phoenix of Illusion
+27,Spell,Clever Lunar Freeze
+28,Creature,Warlock
+29,Spell,Frost
+30,Spell,Rage
+31,Enchantment,Alacrity
+32,Spell,Maelstrom
+33,Enchantment,Shield
+34,Creature,Paladin
+35,Creature,Eagle
+36,Creature,Ghoul
+37,Spell,Sorrow
+38,Creature,Paladin
+39,Creature,Warlock
+40,Creature,Warlock
+41,Creature,Death Knight Orc
+42,Enchantment,Shade
+43,Creature,Skin-Walker
+44,Creature,Ghoul

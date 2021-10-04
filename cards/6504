@@ -1,46 +1,46 @@
-==================,DECK,6504,Light
-0,Spell,Common,Freeze
-1,Creature,Common,Magi
-2,Creature,Common,Warlock
-3,Creature,Common,Dwarf
-4,Creature,Common,Warlock
-5,Creature,Rare,Light Merchant Griffin
-6,Creature,Rare,Earth Fighter Berserker
-7,Enchantment,Common,Blight
-8,Creature,Legendary,Frozen Assassin Orge of the Border
-9,Creature,Rare,Frozen Monk Griffin
-10,Enchantment,Common,Flight
-11,Spell,Common,Burst
-12,Creature,Common,Paladin
-13,Enchantment,Rare,Hateful Blight
-14,Creature,Rare,Death Undead Griffin
-15,Creature,Common,Spider
-16,Spell,Common,Stricken
-17,Creature,Common,Warlock
-18,Creature,Common,Warlock
-19,Creature,Legendary,Earth Undead Orge of the Golden Palace
-20,Creature,Common,Magi
-21,Artifact,Common,Staff
-22,Creature,Common,Spider
-23,Enchantment,Common,Shrink
-24,Creature,Common,Magi
-25,Spell,Common,Maelstrom
-26,Enchantment,Common,Flight
-27,Spell,Common,Vortex
-28,Artifact,Common,Gloves
-29,Spell,Common,Frost
-30,Creature,Common,Goblin
-31,Creature,Common,Dwarf
-32,Creature,Legendary,Dark Knight Orge of the Border
-33,Creature,Common,Goblin
-34,Creature,Rare,Aura Undead Griffin
-35,Creature,Common,Elf
-36,Spell,Common,Sorrow
-37,Spell,Common,Sorrow
-38,Enchantment,Common,Shrink
-39,Artifact,Common,Scepter
-40,Creature,Common,Orc
-41,Creature,Common,Paladin
-42,Creature,Rare,Snow King Hydra
-43,Creature,Legendary,Snow Undead Cyclops of the Polar Woods
-44,Creature,Legendary,Earth Thief Cyclops of the Plains
+==================,DECK,6504
+0,Spell,Stricken
+1,Creature,Fairy
+2,Creature,Berserker
+3,Creature,Magi
+4,Creature,Berserker
+5,Creature,Light Merchant Griffin
+6,Creature,Earth Fighter Goblin
+7,Enchantment,Invert
+8,Creature,Frozen Assassin Elf of the Border
+9,Creature,Frozen Monk Griffin
+10,Enchantment,Haste
+11,Spell,Heal
+12,Creature,Troll
+13,Enchantment,Cataclysmic Flight
+14,Creature,Death Undead Griffin
+15,Creature,Paladin
+16,Spell,Rage
+17,Creature,Berserker
+18,Creature,Berserker
+19,Creature,Earth Undead Elf of the Golden Palace
+20,Creature,Fairy
+21,Artifact,Staff
+22,Creature,Paladin
+23,Enchantment,Alacrity
+24,Creature,Fairy
+25,Spell,Maelstrom
+26,Enchantment,Agony
+27,Spell,Ice
+28,Artifact,Gloves
+29,Spell,Lightning
+30,Creature,Skin-Walker
+31,Creature,Magi
+32,Creature,Dark Knight Elf of the Border
+33,Creature,Skin-Walker
+34,Creature,Aura Undead Griffin
+35,Creature,Warlock
+36,Spell,Fireball
+37,Spell,Stun
+38,Enchantment,Alacrity
+39,Artifact,Scepter
+40,Creature,Spider
+41,Creature,Troll
+42,Creature,Snow King Hydra
+43,Creature,Snow Undead Giant of the Polar Woods
+44,Creature,Earth Thief Giant of the Plains

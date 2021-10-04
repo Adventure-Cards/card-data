@@ -1,46 +1,46 @@
-==================,DECK,6358,Light
-0,Creature,Common,Magi
-1,Creature,Common,Wolf
-2,Enchantment,Rare,Oblivion Strength
-3,Enchantment,Mythic,Angry Drain
-4,Enchantment,Mythic,Potent Age
-5,Creature,Rare,Snow Merchant Skin-Walker
-6,Enchantment,Common,Age
-7,Artifact,Common,Crown
-8,Spell,Common,Hypnosis
-9,Creature,Common,Paladin
-10,Creature,Common,Magi
-11,Creature,Common,Orc
-12,Creature,Mythic,Death Ancient Demon of the Dead
-13,Creature,Rare,Death Merchant Skin-Walker
-14,Enchantment,Common,Flight
-15,Creature,Common,Spider
-16,Enchantment,Rare,Gloom Invert
-17,Creature,Common,Ghoul
-18,Spell,Common,Infuriate
-19,Spell,Rare,Corpse Invisibility
-20,Spell,Legendary,Angry Revive
-21,Creature,Common,Warlock
-22,Creature,Common,Eagle
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Enchantment,Common,Strength
-26,Creature,Common,Orc
-27,Spell,Common,Sorrow
-28,Artifact,Rare,Frigid Ring
-29,Enchantment,Common,Invert
-30,Creature,Common,Dwarf
-31,Enchantment,Common,Deathgrip
-32,Enchantment,Common,Flight
-33,Enchantment,Common,Shrink
-34,Enchantment,Common,Age
-35,Creature,Common,Spider
-36,Creature,Common,Spider
-37,Creature,Common,Ghoul
-38,Creature,Rare,Frozen Assassin Fairy
-39,Creature,Rare,Dark Knight Minotaur
-40,Creature,Legendary,Snow Lord Cyclops of the West
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Agony
-43,Spell,Rare,Life Infuriate
-44,Creature,Rare,Dark Queen Hydra
+==================,DECK,6358
+0,Creature,Fairy
+1,Creature,Wolf
+2,Enchantment,Nimble Drain
+3,Enchantment,Clever Dark Shield
+4,Enchantment,Mighty Victory Invert
+5,Creature,Snow Merchant Orc
+6,Enchantment,Deathgrip
+7,Artifact,Crown
+8,Spell,Infuriate
+9,Creature,Troll
+10,Creature,Fairy
+11,Creature,Spider
+12,Creature,Death Ancient Demon of the Dead
+13,Creature,Death Merchant Orc
+14,Enchantment,Flight
+15,Creature,Paladin
+16,Enchantment,Sorrow Flight
+17,Creature,Ghoul
+18,Spell,Gale
+19,Spell,Corpse Gale
+20,Spell,Dire Cataclysmic Stun
+21,Creature,Berserker
+22,Creature,Eagle
+23,Creature,Spider
+24,Creature,Fairy
+25,Enchantment,Flight
+26,Creature,Spider
+27,Spell,Assault
+28,Artifact,Frigid Ring
+29,Enchantment,Shade
+30,Creature,Magi
+31,Enchantment,Haste
+32,Enchantment,Blight
+33,Enchantment,Age
+34,Enchantment,Deathgrip
+35,Creature,Paladin
+36,Creature,Paladin
+37,Creature,Ghoul
+38,Creature,Frozen Assassin Kraken
+39,Creature,Dark Knight Cyclops
+40,Creature,Snow Lord Giant of the West
+41,Creature,Magi
+42,Enchantment,Lethargy
+43,Spell,Oblivion Pandemonium
+44,Creature,Dark Queen Hydra

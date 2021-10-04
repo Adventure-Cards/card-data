@@ -1,46 +1,46 @@
-==================,DECK,6711,Light
-0,Spell,Common,Ice
-1,Creature,Mythic,Snow Nameless Dragon of Hate
-2,Creature,Common,Dwarf
-3,Creature,Common,Magi
-4,Creature,Common,Wolf
-5,Creature,Common,Ghoul
-6,Enchantment,Common,Shade
-7,Spell,Common,Invisibility
-8,Creature,Common,Orc
-9,Enchantment,Common,Agony
-10,Spell,Common,Gravitation
-11,Creature,Common,Paladin
-12,Creature,Rare,Earth Merchant Hydra
-13,Enchantment,Common,Agony
-14,Creature,Legendary,Dark Priest Orge of the Bright Mountains
-15,Spell,Common,Burst
-16,Creature,Rare,Frozen Knight Griffin
-17,Spell,Rare,Oblivion Heal
-18,Spell,Rare,Forged Assault
-19,Creature,Common,Eagle
-20,Artifact,Legendary,Potent Staff
-21,Creature,Common,Eagle
-22,Creature,Rare,Earth Queen Griffin
-23,Spell,Common,Pandemonium
-24,Spell,Common,Stricken
-25,Creature,Common,Magi
-26,Artifact,Common,Boots
-27,Spell,Common,Sorrow
-28,Creature,Rare,Earth Fighter Skin-Walker
-29,Spell,Common,Stricken
-30,Artifact,Legendary,Potent Ghost Wand
-31,Spell,Common,Burn
-32,Creature,Common,Magi
-33,Creature,Rare,Death Rogue Fairy
-34,Creature,Common,Dwarf
-35,Creature,Rare,Light Rogue Berserker
-36,Enchantment,Common,Deathgrip
-37,Creature,Common,Warlock
-38,Creature,Common,Paladin
-39,Creature,Mythic,Snow Nameless Phoenix of Hate
-40,Creature,Common,Orc
-41,Enchantment,Mythic,Mighty Blight
-42,Creature,Common,Ghoul
-43,Creature,Rare,Light Queen Skin-Walker
-44,Spell,Rare,Lunar Gale
+==================,DECK,6711
+0,Spell,Gravitation
+1,Creature,Snow Nameless Dragon of Hate
+2,Creature,Magi
+3,Creature,Fairy
+4,Creature,Wolf
+5,Creature,Ghoul
+6,Enchantment,Age
+7,Spell,Reanimate
+8,Creature,Spider
+9,Enchantment,Shade
+10,Spell,Rage
+11,Creature,Troll
+12,Creature,Earth Merchant Hydra
+13,Enchantment,Shrink
+14,Creature,Dark Priest Elf of the Bright Mountains
+15,Spell,Gale
+16,Creature,Frozen Knight Griffin
+17,Spell,Victory Lightning
+18,Spell,Lunar Lightning
+19,Creature,Eagle
+20,Artifact,Irate Apocalypse Staff
+21,Creature,Eagle
+22,Creature,Earth Queen Griffin
+23,Spell,Lightning
+24,Spell,Fireball
+25,Creature,Fairy
+26,Artifact,Boots
+27,Spell,Burst
+28,Creature,Earth Fighter Orc
+29,Spell,Invisibility
+30,Artifact,Urgent Life Ghost Wand
+31,Spell,Fury
+32,Creature,Fairy
+33,Creature,Death Rogue Kraken
+34,Creature,Magi
+35,Creature,Light Rogue Goblin
+36,Enchantment,Strength
+37,Creature,Berserker
+38,Creature,Troll
+39,Creature,Snow Nameless Phoenix of Hate
+40,Creature,Spider
+41,Enchantment,Mighty Cataclysmic Flight
+42,Creature,Ghoul
+43,Creature,Light Queen Orc
+44,Spell,Lunar Gravitation

@@ -1,46 +1,46 @@
-==================,DECK,6770,Light
-0,Creature,Common,Wolf
-1,Artifact,Legendary,Urgent Tome
-2,Creature,Common,Dwarf
-3,Spell,Common,Infuriate
-4,Spell,Common,Stun
-5,Artifact,Common,Gauntlet
-6,Creature,Rare,Frozen Queen Berserker
-7,Enchantment,Common,Alacrity
-8,Spell,Legendary,Intense Sorrow
-9,Creature,Legendary,Dark Rogue Cyclops of the Eternal Land
-10,Creature,Rare,Death Merchant Berserker
-11,Creature,Rare,Frozen Warrior Berserker
-12,Creature,Rare,Light Priest Berserker
-13,Spell,Rare,Solar Assault
-14,Creature,Common,Eagle
-15,Enchantment,Common,Strength
-16,Creature,Common,Spider
-17,Creature,Common,Magi
-18,Spell,Rare,Shimmering Burst
-19,Spell,Rare,Oblivion Freeze
-20,Creature,Rare,Frozen Warrior Skin-Walker
-21,Creature,Common,Wolf
-22,Enchantment,Common,Alacrity
-23,Spell,Common,Ice
-24,Spell,Rare,Forged Vortex
-25,Spell,Rare,Hateful Ice
-26,Enchantment,Common,Strength
-27,Spell,Common,Rage
-28,Enchantment,Common,Drain
-29,Creature,Common,Paladin
-30,Spell,Common,Wall
-31,Enchantment,Legendary,Urgent Age
-32,Creature,Common,Wolf
-33,Enchantment,Common,Invert
-34,Artifact,Common,Helm
-35,Creature,Common,Wolf
-36,Creature,Common,Warlock
-37,Spell,Rare,Nimble Freeze
-38,Spell,Rare,Solar Torment
-39,Creature,Common,Dwarf
-40,Creature,Common,Wolf
-41,Enchantment,Mythic,Instant Shrink
-42,Creature,Common,Orc
-43,Creature,Common,Eagle
-44,Creature,Rare,Dark Lord Hydra
+==================,DECK,6770
+0,Creature,Wolf
+1,Artifact,Empyrean Solar Tome
+2,Creature,Magi
+3,Spell,Wall
+4,Spell,Invisibility
+5,Artifact,Gauntlet
+6,Creature,Frozen Queen Goblin
+7,Enchantment,Strength
+8,Spell,Zealous Hateful Freeze
+9,Creature,Dark Rogue Giant of the Eternal Land
+10,Creature,Death Merchant Goblin
+11,Creature,Frozen Warrior Goblin
+12,Creature,Light Priest Goblin
+13,Spell,Nature Hypnosis
+14,Creature,Eagle
+15,Enchantment,Lethargy
+16,Creature,Paladin
+17,Creature,Fairy
+18,Spell,Hateful Freeze
+19,Spell,Apocalypse Frenzy
+20,Creature,Frozen Warrior Orc
+21,Creature,Wolf
+22,Enchantment,Drain
+23,Spell,Burn
+24,Spell,Gloom Reanimate
+25,Spell,Gloom Gravitation
+26,Enchantment,Shield
+27,Spell,Gravitation
+28,Enchantment,Invert
+29,Creature,Troll
+30,Spell,Stun
+31,Enchantment,Mighty Nature Agony
+32,Creature,Wolf
+33,Enchantment,Agony
+34,Artifact,Helm
+35,Creature,Wolf
+36,Creature,Berserker
+37,Spell,Corpse Torment
+38,Spell,Nature Gravitation
+39,Creature,Magi
+40,Creature,Wolf
+41,Enchantment,Potent Necro Strength
+42,Creature,Spider
+43,Creature,Eagle
+44,Creature,Dark Lord Hydra

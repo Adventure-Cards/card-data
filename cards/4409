@@ -1,46 +1,46 @@
-==================,DECK,4409,Light
-0,Creature,Common,Orc
-1,Artifact,Common,Staff
-2,Creature,Rare,Aura Queen Berserker
-3,Creature,Common,Orc
-4,Creature,Common,Warlock
-5,Creature,Mythic,Snow Time Phoenix of Hate
-6,Artifact,Rare,Hateful Ring
-7,Enchantment,Common,Lethargy
-8,Spell,Rare,Nature Pandemonium
-9,Creature,Common,Orc
-10,Artifact,Rare,Miracle Bracers
-11,Spell,Rare,Miracle Maelstrom
-12,Enchantment,Rare,Apocalypse Shrink
-13,Creature,Common,Ghoul
-14,Spell,Common,Gravitation
-15,Creature,Rare,Dark Warrior Minotaur
-16,Creature,Rare,Frozen Fighter Berserker
-17,Spell,Common,Heal
-18,Creature,Common,Dwarf
-19,Spell,Common,Stun
-20,Creature,Rare,Aura Merchant Fairy
-21,Enchantment,Common,Blight
-22,Spell,Rare,Shimmering Stricken
-23,Creature,Common,Magi
-24,Creature,Rare,Aura Assassin Griffin
-25,Spell,Common,Freeze
-26,Artifact,Common,Cloak
-27,Creature,Rare,Snow Warrior Hydra
-28,Creature,Common,Spider
-29,Creature,Common,Paladin
-30,Creature,Common,Goblin
-31,Spell,Rare,Forged Invisibility
-32,Creature,Common,Spider
-33,Creature,Common,Paladin
-34,Creature,Common,Spider
-35,Enchantment,Common,Flight
-36,Creature,Common,Dwarf
-37,Creature,Common,Dwarf
-38,Spell,Common,Rage
-39,Creature,Rare,Earth King Griffin
-40,Creature,Mythic,Frozen Time Dragon of the Void
-41,Creature,Common,Warlock
-42,Creature,Common,Warlock
-43,Creature,Rare,Light Thief Minotaur
-44,Spell,Common,Reanimate
+==================,DECK,4409
+0,Creature,Spider
+1,Artifact,Staff
+2,Creature,Aura Queen Goblin
+3,Creature,Spider
+4,Creature,Berserker
+5,Creature,Snow Time Phoenix of Hate
+6,Artifact,Dark Ring
+7,Enchantment,Haste
+8,Spell,Solar Burst
+9,Creature,Spider
+10,Artifact,Victory Bracers
+11,Spell,Oblivion Hypnosis
+12,Enchantment,Frigid Haste
+13,Creature,Ghoul
+14,Spell,Lightning
+15,Creature,Dark Warrior Cyclops
+16,Creature,Frozen Fighter Goblin
+17,Spell,Frost
+18,Creature,Magi
+19,Spell,Pandemonium
+20,Creature,Aura Merchant Kraken
+21,Enchantment,Age
+22,Spell,Nature Stun
+23,Creature,Fairy
+24,Creature,Aura Assassin Griffin
+25,Spell,Gravitation
+26,Artifact,Cloak
+27,Creature,Snow Warrior Hydra
+28,Creature,Paladin
+29,Creature,Troll
+30,Creature,Skin-Walker
+31,Spell,Cataclysmic Gravitation
+32,Creature,Paladin
+33,Creature,Troll
+34,Creature,Paladin
+35,Enchantment,Agony
+36,Creature,Magi
+37,Creature,Magi
+38,Spell,Sorrow
+39,Creature,Earth King Griffin
+40,Creature,Frozen Time Dragon of the Void
+41,Creature,Berserker
+42,Creature,Berserker
+43,Creature,Light Thief Cyclops
+44,Spell,Wall

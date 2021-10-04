@@ -1,46 +1,46 @@
-==================,DECK,6995,Medium
-0,Spell,Mythic,Dire Frost
-1,Creature,Common,Wolf
-2,Creature,Common,Dwarf
-3,Artifact,Rare,Forged Tome
-4,Enchantment,Rare,Gloom Agony
-5,Artifact,Legendary,Potent Tome
-6,Enchantment,Mythic,Urgent Invert
-7,Creature,Rare,Snow Rogue Minotaur
-8,Creature,Legendary,Earth King Cyclops of the Plains
-9,Creature,Common,Magi
-10,Creature,Common,Paladin
-11,Creature,Common,Dwarf
-12,Creature,Common,Magi
-13,Enchantment,Mythic,Dire Age
-14,Spell,Rare,Solar Revive
-15,Creature,Common,Spider
-16,Enchantment,Common,Age
-17,Creature,Common,Orc
-18,Spell,Common,Pandemonium
-19,Spell,Rare,Lunar Burst
-20,Creature,Common,Spider
-21,Enchantment,Common,Shrink
-22,Creature,Legendary,Light Queen Orge of the Magical Forest
-23,Spell,Common,Torment
-24,Creature,Legendary,Frozen Knight Oni of the Bright Mountains
-25,Spell,Common,Gale
-26,Spell,Common,Frost
-27,Enchantment,Common,Invert
-28,Spell,Common,Gale
-29,Creature,Common,Dwarf
-30,Creature,Rare,Snow Queen Hydra
-31,Enchantment,Legendary,Instant Shrink
-32,Enchantment,Common,Haste
-33,Creature,Common,Elf
-34,Spell,Legendary,Dire Wall
-35,Creature,Rare,Light Merchant Hydra
-36,Spell,Common,Pandemonium
-37,Spell,Common,Sorrow
-38,Spell,Rare,Shimmering Maelstrom
-39,Creature,Common,Wolf
-40,Creature,Mythic,Earth Ancient Wizard of the Shadows
-41,Spell,Common,Torment
-42,Creature,Legendary,Earth Priest Giant of the Haven
-43,Spell,Mythic,Urgent Heal
-44,Creature,Legendary,Earth King Cyclops of the Mountains
+==================,DECK,6995
+0,Spell,Dire Oblivion Assault
+1,Creature,Wolf
+2,Creature,Magi
+3,Artifact,Lunar Tome
+4,Enchantment,Miracle Shrink
+5,Artifact,Empyrean Nimble Tome
+6,Enchantment,Ardent Shimmering Lethargy
+7,Creature,Snow Rogue Cyclops
+8,Creature,Earth King Giant of the Plains
+9,Creature,Fairy
+10,Creature,Troll
+11,Creature,Magi
+12,Creature,Fairy
+13,Enchantment,Zealous Victory Blight
+14,Spell,Corpse Sorrow
+15,Creature,Paladin
+16,Enchantment,Drain
+17,Creature,Spider
+18,Spell,Burn
+19,Spell,Chimeric Hypnosis
+20,Creature,Paladin
+21,Enchantment,Invert
+22,Creature,Light Queen Elf of the Magical Forest
+23,Spell,Pandemonium
+24,Creature,Frozen Knight Oni of the Bright Mountains
+25,Spell,Fire
+26,Spell,Fury
+27,Enchantment,Drain
+28,Spell,Hypnosis
+29,Creature,Magi
+30,Creature,Snow Queen Hydra
+31,Enchantment,Clever Necro Lethargy
+32,Enchantment,Blight
+33,Creature,Warlock
+34,Spell,Dire Life Stricken
+35,Creature,Light Merchant Hydra
+36,Spell,Frost
+37,Spell,Fire
+38,Spell,Corpse Pandemonium
+39,Creature,Wolf
+40,Creature,Earth Ancient Wizard of the Shadows
+41,Spell,Revive
+42,Creature,Earth Priest Dwarf of the Haven
+43,Spell,Urgent Necro Wall
+44,Creature,Earth King Giant of the Mountains

@@ -1,46 +1,46 @@
-==================,DECK,5150,Light
-0,Creature,Legendary,Frozen Merchant Oni of the Swamp
-1,Creature,Common,Eagle
-2,Spell,Common,Vortex
-3,Artifact,Common,Ring
-4,Creature,Common,Wolf
-5,Enchantment,Common,Shield
-6,Spell,Common,Stun
-7,Creature,Common,Elf
-8,Creature,Common,Orc
-9,Enchantment,Common,Lethargy
-10,Creature,Common,Eagle
-11,Spell,Common,Gravitation
-12,Spell,Legendary,Intense Pandemonium
-13,Creature,Common,Eagle
-14,Creature,Common,Orc
-15,Creature,Legendary,Frozen Assassin Cyclops of the Bright Mountains
-16,Creature,Legendary,Aura Rogue Cyclops of the Arctic Blizzards
-17,Creature,Rare,Snow Priest Griffin
-18,Creature,Rare,Dark Warrior Skin-Walker
-19,Creature,Rare,Death King Fairy
-20,Creature,Common,Eagle
-21,Spell,Common,Freeze
-22,Creature,Common,Dwarf
-23,Creature,Common,Eagle
-24,Creature,Common,Ghoul
-25,Artifact,Common,Ring
-26,Creature,Mythic,Frozen Chaos Wizard of the Void
-27,Enchantment,Common,Shade
-28,Enchantment,Mythic,Extreme Shade
-29,Enchantment,Common,Drain
-30,Creature,Legendary,Light Thief Oni of the Magical Forest
-31,Creature,Rare,Frozen Monk Berserker
-32,Creature,Common,Magi
-33,Enchantment,Mythic,Angry Shade
-34,Enchantment,Common,Agony
-35,Creature,Common,Goblin
-36,Creature,Rare,Light Monk Skin-Walker
-37,Spell,Common,Burn
-38,Creature,Rare,Death Rogue Skin-Walker
-39,Creature,Common,Elf
-40,Creature,Common,Goblin
-41,Enchantment,Common,Drain
-42,Creature,Common,Wolf
-43,Spell,Legendary,Instant Vortex
-44,Enchantment,Common,Strength
+==================,DECK,5150
+0,Creature,Frozen Merchant Oni of the Swamp
+1,Creature,Eagle
+2,Spell,Revive
+3,Artifact,Ring
+4,Creature,Wolf
+5,Enchantment,Haste
+6,Spell,Stun
+7,Creature,Warlock
+8,Creature,Spider
+9,Enchantment,Shield
+10,Creature,Eagle
+11,Spell,Rage
+12,Spell,Potent Nature Vortex
+13,Creature,Eagle
+14,Creature,Spider
+15,Creature,Frozen Assassin Giant of the Bright Mountains
+16,Creature,Aura Rogue Giant of the Arctic Blizzards
+17,Creature,Snow Priest Griffin
+18,Creature,Dark Warrior Orc
+19,Creature,Death King Kraken
+20,Creature,Eagle
+21,Spell,Sorrow
+22,Creature,Magi
+23,Creature,Eagle
+24,Creature,Ghoul
+25,Artifact,Ring
+26,Creature,Frozen Chaos Wizard of the Void
+27,Enchantment,Blight
+28,Enchantment,Ardent Chimeric Shield
+29,Enchantment,Invert
+30,Creature,Light Thief Oni of the Magical Forest
+31,Creature,Frozen Monk Goblin
+32,Creature,Fairy
+33,Enchantment,Instant Chimeric Shrink
+34,Enchantment,Strength
+35,Creature,Skin-Walker
+36,Creature,Light Monk Orc
+37,Spell,Fireball
+38,Creature,Death Rogue Orc
+39,Creature,Warlock
+40,Creature,Skin-Walker
+41,Enchantment,Agony
+42,Creature,Wolf
+43,Spell,Dire Forged Gale
+44,Enchantment,Blight

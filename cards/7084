@@ -1,46 +1,46 @@
-==================,DECK,7084,Light
-0,Creature,Common,Dwarf
-1,Creature,Rare,Aura Assassin Hydra
-2,Creature,Common,Orc
-3,Spell,Legendary,Clever Fury
-4,Creature,Rare,Snow Monk Minotaur
-5,Spell,Rare,Nature Ice
-6,Spell,Common,Revive
-7,Spell,Common,Wall
-8,Spell,Legendary,Mighty Lightning
-9,Creature,Rare,Death Knight Berserker
-10,Enchantment,Rare,Nature Deathgrip
-11,Enchantment,Common,Blight
-12,Artifact,Rare,Cataclysmic Sword
-13,Spell,Common,Burn
-14,Enchantment,Common,Drain
-15,Creature,Common,Elf
-16,Creature,Legendary,Light Warrior Kraken of the Plains
-17,Creature,Legendary,Dark Monk Giant of the Golden Palace
-18,Artifact,Common,Gauntlet
-19,Creature,Common,Eagle
-20,Spell,Common,Vortex
-21,Creature,Common,Warlock
-22,Creature,Common,Eagle
-23,Creature,Common,Wolf
-24,Enchantment,Common,Lethargy
-25,Spell,Common,Burst
-26,Creature,Rare,Death Queen Fairy
-27,Creature,Common,Eagle
-28,Artifact,Common,Helm
-29,Spell,Common,Stricken
-30,Creature,Common,Magi
-31,Enchantment,Common,Shade
-32,Creature,Common,Spider
-33,Spell,Common,Sorrow
-34,Creature,Common,Orc
-35,Enchantment,Rare,Corpse Strength
-36,Creature,Rare,Dark Warrior Berserker
-37,Enchantment,Common,Blight
-38,Creature,Rare,Dark Warrior Griffin
-39,Creature,Rare,Light Monk Berserker
-40,Creature,Common,Elf
-41,Creature,Common,Orc
-42,Creature,Common,Warlock
-43,Creature,Common,Spider
-44,Creature,Common,Eagle
+==================,DECK,7084
+0,Creature,Magi
+1,Creature,Aura Assassin Hydra
+2,Creature,Spider
+3,Spell,Mighty Nimble Frost
+4,Creature,Snow Monk Cyclops
+5,Spell,Forged Burst
+6,Spell,Ice
+7,Spell,Frenzy
+8,Spell,Irate Sorrow Burst
+9,Creature,Death Knight Goblin
+10,Enchantment,Shimmering Strength
+11,Enchantment,Age
+12,Artifact,Dark Sword
+13,Spell,Stricken
+14,Enchantment,Firebreath
+15,Creature,Warlock
+16,Creature,Light Warrior Ogre of the Plains
+17,Creature,Dark Monk Dwarf of the Golden Palace
+18,Artifact,Gauntlet
+19,Creature,Eagle
+20,Spell,Gale
+21,Creature,Berserker
+22,Creature,Eagle
+23,Creature,Wolf
+24,Enchantment,Strength
+25,Spell,Fire
+26,Creature,Death Queen Kraken
+27,Creature,Eagle
+28,Artifact,Helm
+29,Spell,Burn
+30,Creature,Fairy
+31,Enchantment,Shield
+32,Creature,Paladin
+33,Spell,Stricken
+34,Creature,Spider
+35,Enchantment,Solar Age
+36,Creature,Dark Warrior Goblin
+37,Enchantment,Alacrity
+38,Creature,Dark Warrior Griffin
+39,Creature,Light Monk Goblin
+40,Creature,Warlock
+41,Creature,Spider
+42,Creature,Berserker
+43,Creature,Paladin
+44,Creature,Eagle

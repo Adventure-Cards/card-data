@@ -1,46 +1,46 @@
-==================,DECK,6103,Light
-0,Creature,Rare,Dark Lord Fairy
-1,Creature,Common,Ghoul
-2,Artifact,Common,Belt
-3,Creature,Common,Spider
-4,Creature,Rare,Snow Priest Skin-Walker
-5,Creature,Common,Wolf
-6,Creature,Rare,Snow Rogue Hydra
-7,Creature,Common,Dwarf
-8,Spell,Common,Gravitation
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Shrink
-11,Creature,Common,Spider
-12,Creature,Rare,Aura Knight Skin-Walker
-13,Creature,Common,Eagle
-14,Creature,Rare,Dark Knight Skin-Walker
-15,Artifact,Legendary,Dire Ring
-16,Enchantment,Mythic,Angry Shade
-17,Creature,Common,Goblin
-18,Creature,Common,Ghoul
-19,Enchantment,Common,Age
-20,Enchantment,Rare,Lunar Haste
-21,Enchantment,Common,Agony
-22,Creature,Common,Wolf
-23,Creature,Common,Dwarf
-24,Enchantment,Common,Shield
-25,Enchantment,Common,Shade
-26,Enchantment,Legendary,Clever Invert
-27,Enchantment,Rare,Hateful Deathgrip
-28,Spell,Common,Gravitation
-29,Enchantment,Common,Shrink
-30,Creature,Common,Orc
-31,Creature,Common,Ghoul
-32,Creature,Common,Magi
-33,Spell,Rare,Shimmering Ice
-34,Creature,Common,Ghoul
-35,Spell,Common,Pandemonium
-36,Enchantment,Common,Haste
-37,Enchantment,Common,Flight
-38,Creature,Legendary,Death Lord Giant of the Golden Palace
-39,Creature,Common,Eagle
-40,Spell,Legendary,Extreme Frenzy
-41,Enchantment,Common,Strength
-42,Artifact,Common,Ghost Wand
-43,Creature,Common,Orc
-44,Spell,Rare,Apocalypse Reanimate
+==================,DECK,6103
+0,Creature,Dark Lord Kraken
+1,Creature,Ghoul
+2,Artifact,Belt
+3,Creature,Paladin
+4,Creature,Snow Priest Orc
+5,Creature,Wolf
+6,Creature,Snow Rogue Hydra
+7,Creature,Magi
+8,Spell,Reanimate
+9,Creature,Ghoul
+10,Enchantment,Invert
+11,Creature,Paladin
+12,Creature,Aura Knight Orc
+13,Creature,Eagle
+14,Creature,Dark Knight Orc
+15,Artifact,Instant Grim Ring
+16,Enchantment,Urgent Chimeric Flight
+17,Creature,Skin-Walker
+18,Creature,Ghoul
+19,Enchantment,Shade
+20,Enchantment,Miracle Shrink
+21,Enchantment,Blight
+22,Creature,Wolf
+23,Creature,Magi
+24,Enchantment,Shield
+25,Enchantment,Drain
+26,Enchantment,Instant Oblivion Drain
+27,Enchantment,Sorrow Flight
+28,Spell,Infuriate
+29,Enchantment,Deathgrip
+30,Creature,Spider
+31,Creature,Ghoul
+32,Creature,Fairy
+33,Spell,Shimmering Invisibility
+34,Creature,Ghoul
+35,Spell,Reanimate
+36,Enchantment,Shade
+37,Enchantment,Flight
+38,Creature,Death Lord Dwarf of the Golden Palace
+39,Creature,Eagle
+40,Spell,Irate Chimeric Fury
+41,Enchantment,Firebreath
+42,Artifact,Ghost Wand
+43,Creature,Spider
+44,Spell,Victory Infuriate

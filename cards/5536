@@ -1,46 +1,46 @@
-==================,DECK,5536,Light
-0,Creature,Mythic,Earth Undead Dragon of the Shadows
-1,Creature,Common,Wolf
-2,Creature,Common,Warlock
-3,Creature,Common,Orc
-4,Spell,Common,Heal
-5,Spell,Common,Torment
-6,Creature,Common,Paladin
-7,Creature,Legendary,Earth King Oni of the Plains
-8,Creature,Common,Elf
-9,Spell,Common,Gravitation
-10,Artifact,Rare,Lunar Shield
-11,Spell,Rare,Miracle Pandemonium
-12,Enchantment,Common,Agony
-13,Creature,Common,Orc
-14,Creature,Common,Spider
-15,Creature,Legendary,Death Fighter Oni of the Haven
-16,Creature,Rare,Light Priest Griffin
-17,Creature,Common,Eagle
-18,Creature,Common,Warlock
-19,Spell,Common,Infuriate
-20,Artifact,Common,Divine Robe
-21,Enchantment,Common,Haste
-22,Artifact,Common,Helmet
-23,Enchantment,Rare,Miracle Blight
-24,Artifact,Legendary,Mighty Amulet
-25,Creature,Common,Eagle
-26,Creature,Common,Warlock
-27,Spell,Legendary,Mighty Lightning
-28,Enchantment,Rare,Corpse Shield
-29,Creature,Common,Spider
-30,Enchantment,Common,Flight
-31,Creature,Rare,Snow Queen Fairy
-32,Spell,Rare,Miracle Hypnosis
-33,Artifact,Common,Divine Robe
-34,Spell,Common,Stun
-35,Creature,Rare,Earth Fighter Fairy
-36,Creature,Common,Paladin
-37,Creature,Common,Wolf
-38,Spell,Common,Fury
-39,Creature,Common,Ghoul
-40,Creature,Common,Paladin
-41,Creature,Legendary,Frozen Knight Oni of the Bright Mountains
-42,Creature,Common,Eagle
-43,Enchantment,Common,Age
-44,Creature,Common,Ghoul
+==================,DECK,5536
+0,Creature,Earth Undead Dragon of the Shadows
+1,Creature,Wolf
+2,Creature,Berserker
+3,Creature,Spider
+4,Spell,Lightning
+5,Spell,Reanimate
+6,Creature,Troll
+7,Creature,Earth King Oni of the Plains
+8,Creature,Warlock
+9,Spell,Wall
+10,Artifact,Sorrow Shield
+11,Spell,Apocalypse Reanimate
+12,Enchantment,Age
+13,Creature,Spider
+14,Creature,Paladin
+15,Creature,Death Fighter Oni of the Haven
+16,Creature,Light Priest Griffin
+17,Creature,Eagle
+18,Creature,Berserker
+19,Spell,Freeze
+20,Artifact,Divine Robe
+21,Enchantment,Blight
+22,Artifact,Helmet
+23,Enchantment,Nimble Shade
+24,Artifact,Mighty Gloom Amulet
+25,Creature,Eagle
+26,Creature,Berserker
+27,Spell,Ardent Gloom Stun
+28,Enchantment,Nature Strength
+29,Creature,Paladin
+30,Enchantment,Flight
+31,Creature,Snow Queen Kraken
+32,Spell,Victory Infuriate
+33,Artifact,Divine Robe
+34,Spell,Reanimate
+35,Creature,Earth Fighter Kraken
+36,Creature,Troll
+37,Creature,Wolf
+38,Spell,Stricken
+39,Creature,Ghoul
+40,Creature,Troll
+41,Creature,Frozen Knight Oni of the Bright Mountains
+42,Creature,Eagle
+43,Enchantment,Haste
+44,Creature,Ghoul

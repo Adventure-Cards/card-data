@@ -1,46 +1,46 @@
-==================,DECK,4202,Light
-0,Spell,Common,Vortex
-1,Creature,Common,Dwarf
-2,Enchantment,Common,Age
-3,Creature,Common,Paladin
-4,Spell,Common,Revive
-5,Enchantment,Common,Lethargy
-6,Creature,Common,Warlock
-7,Creature,Common,Paladin
-8,Enchantment,Common,Strength
-9,Creature,Common,Wolf
-10,Creature,Common,Magi
-11,Creature,Common,Spider
-12,Creature,Common,Goblin
-13,Artifact,Common,Ghost Wand
-14,Creature,Legendary,Frozen King Orge of the Magical Forest
-15,Enchantment,Common,Haste
-16,Spell,Common,Vortex
-17,Artifact,Rare,Shimmering Cloak
-18,Creature,Common,Elf
-19,Enchantment,Mythic,Extreme Flight
-20,Creature,Common,Spider
-21,Artifact,Common,Gauntlet
-22,Spell,Legendary,Extreme Invisibility
-23,Creature,Legendary,Aura Knight Orge of the Magical Forest
-24,Creature,Common,Spider
-25,Creature,Rare,Earth Fighter Fairy
-26,Creature,Common,Ghoul
-27,Creature,Common,Eagle
-28,Creature,Legendary,Death Rogue Cyclops of the Low Hills
-29,Creature,Common,Elf
-30,Spell,Common,Hypnosis
-31,Creature,Common,Spider
-32,Creature,Common,Warlock
-33,Artifact,Rare,Hateful Scepter
-34,Creature,Common,Eagle
-35,Enchantment,Common,Flight
-36,Creature,Mythic,Aura Chaos Wizard of the Light
-37,Creature,Common,Spider
-38,Spell,Common,Heal
-39,Spell,Common,Frost
-40,Spell,Common,Reanimate
-41,Enchantment,Legendary,Clever Blight
-42,Spell,Common,Frenzy
-43,Creature,Mythic,Earth Time Phoenix of the Shadows
-44,Creature,Common,Elf
+==================,DECK,4202
+0,Spell,Gale
+1,Creature,Magi
+2,Enchantment,Drain
+3,Creature,Troll
+4,Spell,Stun
+5,Enchantment,Invert
+6,Creature,Berserker
+7,Creature,Troll
+8,Enchantment,Shade
+9,Creature,Wolf
+10,Creature,Fairy
+11,Creature,Paladin
+12,Creature,Skin-Walker
+13,Artifact,Ghost Wand
+14,Creature,Frozen King Elf of the Magical Forest
+15,Enchantment,Lethargy
+16,Spell,Freeze
+17,Artifact,Shimmering Cloak
+18,Creature,Warlock
+19,Enchantment,Mighty Lunar Flight
+20,Creature,Paladin
+21,Artifact,Gauntlet
+22,Spell,Urgent Cataclysmic Stun
+23,Creature,Aura Knight Elf of the Magical Forest
+24,Creature,Paladin
+25,Creature,Earth Fighter Kraken
+26,Creature,Ghoul
+27,Creature,Eagle
+28,Creature,Death Rogue Giant of the Low Hills
+29,Creature,Warlock
+30,Spell,Ice
+31,Creature,Paladin
+32,Creature,Berserker
+33,Artifact,Dark Scepter
+34,Creature,Eagle
+35,Enchantment,Deathgrip
+36,Creature,Aura Chaos Wizard of the Light
+37,Creature,Paladin
+38,Spell,Sorrow
+39,Spell,Stricken
+40,Spell,Fire
+41,Enchantment,Potent Nimble Drain
+42,Spell,Stun
+43,Creature,Earth Time Phoenix of the Shadows
+44,Creature,Warlock

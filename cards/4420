@@ -1,46 +1,46 @@
-==================,DECK,4420,Medium
-0,Creature,Legendary,Death King Orge of the Magical Forest
-1,Spell,Common,Lightning
-2,Creature,Rare,Light Merchant Griffin
-3,Creature,Mythic,Light Chaos Demon of the Sky
-4,Creature,Common,Elf
-5,Creature,Common,Spider
-6,Creature,Common,Wolf
-7,Creature,Common,Elf
-8,Creature,Rare,Frozen Merchant Skin-Walker
-9,Creature,Rare,Aura Fighter Skin-Walker
-10,Creature,Legendary,Light Lord Kraken of the Border
-11,Creature,Rare,Light Lord Fairy
-12,Creature,Common,Orc
-13,Spell,Common,Burst
-14,Spell,Common,Burn
-15,Spell,Common,Fury
-16,Artifact,Rare,Hateful Gauntlet
-17,Spell,Common,Reanimate
-18,Enchantment,Common,Flight
-19,Enchantment,Common,Deathgrip
-20,Creature,Legendary,Frozen Rogue Kraken of the Polar Woods
-21,Spell,Rare,Apocalypse Hypnosis
-22,Enchantment,Rare,Dark Strength
-23,Enchantment,Common,Haste
-24,Artifact,Common,Scepter
-25,Creature,Legendary,Dark King Cyclops of the Haven
-26,Spell,Rare,Hateful Gale
-27,Creature,Common,Dwarf
-28,Spell,Rare,Gloom Frost
-29,Spell,Rare,Oblivion Lightning
-30,Creature,Common,Goblin
-31,Enchantment,Common,Age
-32,Artifact,Rare,Hateful Sigil
-33,Enchantment,Common,Shield
-34,Creature,Common,Dwarf
-35,Creature,Rare,Light Knight Hydra
-36,Creature,Legendary,Frozen Priest Giant of the Haven
-37,Enchantment,Rare,Gloom Agony
-38,Creature,Common,Eagle
-39,Creature,Common,Warlock
-40,Creature,Mythic,Death Grand Wizard of the Dead
-41,Creature,Common,Goblin
-42,Creature,Common,Spider
-43,Creature,Common,Warlock
-44,Artifact,Rare,Nature Potion
+==================,DECK,4420
+0,Creature,Death King Elf of the Magical Forest
+1,Spell,Gravitation
+2,Creature,Light Merchant Griffin
+3,Creature,Light Chaos Demon of the Sky
+4,Creature,Warlock
+5,Creature,Paladin
+6,Creature,Wolf
+7,Creature,Warlock
+8,Creature,Frozen Merchant Orc
+9,Creature,Aura Fighter Orc
+10,Creature,Light Lord Ogre of the Border
+11,Creature,Light Lord Kraken
+12,Creature,Spider
+13,Spell,Reanimate
+14,Spell,Assault
+15,Spell,Tempest
+16,Artifact,Cataclysmic Gauntlet
+17,Spell,Burn
+18,Enchantment,Alacrity
+19,Enchantment,Shade
+20,Creature,Frozen Rogue Ogre of the Polar Woods
+21,Spell,Life Ice
+22,Enchantment,Cataclysmic Flight
+23,Enchantment,Strength
+24,Artifact,Scepter
+25,Creature,Dark King Giant of the Haven
+26,Spell,Gloom Invisibility
+27,Creature,Magi
+28,Spell,Gloom Gravitation
+29,Spell,Nimble Fire
+30,Creature,Skin-Walker
+31,Enchantment,Strength
+32,Artifact,Gloom Sigil
+33,Enchantment,Flight
+34,Creature,Magi
+35,Creature,Light Knight Hydra
+36,Creature,Frozen Priest Dwarf of the Haven
+37,Enchantment,Miracle Shrink
+38,Creature,Eagle
+39,Creature,Berserker
+40,Creature,Death Grand Wizard of the Dead
+41,Creature,Skin-Walker
+42,Creature,Paladin
+43,Creature,Berserker
+44,Artifact,Necro Potion

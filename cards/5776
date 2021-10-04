@@ -1,46 +1,46 @@
-==================,DECK,5776,Light
-0,Spell,Common,Vortex
-1,Enchantment,Mythic,Clever Strength
-2,Enchantment,Common,Haste
-3,Creature,Common,Wolf
-4,Creature,Legendary,Death Lord Orge of the Plains
-5,Spell,Legendary,Clever Torment
-6,Enchantment,Common,Drain
-7,Creature,Rare,Snow Monk Hydra
-8,Enchantment,Common,Agony
-9,Creature,Legendary,Aura Priest Oni of the Haven
-10,Creature,Rare,Snow Queen Fairy
-11,Enchantment,Common,Blight
-12,Artifact,Common,Potion
-13,Creature,Rare,Dark Thief Berserker
-14,Creature,Legendary,Death Queen Orge of the Golden Palace
-15,Artifact,Common,Scythe
-16,Spell,Common,Rage
-17,Creature,Rare,Light Undead Minotaur
-18,Spell,Legendary,Mighty Wall
-19,Artifact,Common,Divine Robe
-20,Creature,Common,Magi
-21,Spell,Common,Reanimate
-22,Enchantment,Common,Strength
-23,Enchantment,Common,Shield
-24,Enchantment,Rare,Gloom Alacrity
-25,Creature,Common,Paladin
-26,Creature,Common,Ghoul
-27,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-28,Spell,Common,Rage
-29,Enchantment,Mythic,Dire Lethargy
-30,Creature,Rare,Frozen Lord Griffin
-31,Creature,Common,Wolf
-32,Creature,Rare,Light King Berserker
-33,Spell,Common,Hypnosis
-34,Artifact,Common,Boots
-35,Spell,Common,Rage
-36,Spell,Common,Vortex
-37,Creature,Common,Elf
-38,Creature,Common,Magi
-39,Spell,Common,Assault
-40,Creature,Rare,Earth Warrior Minotaur
-41,Enchantment,Rare,Corpse Lethargy
-42,Creature,Common,Ghoul
-43,Spell,Common,Vortex
-44,Creature,Common,Warlock
+==================,DECK,5776
+0,Spell,Gale
+1,Enchantment,Instant Nimble Drain
+2,Enchantment,Agony
+3,Creature,Wolf
+4,Creature,Death Lord Elf of the Plains
+5,Spell,Instant Grim Maelstrom
+6,Enchantment,Haste
+7,Creature,Snow Monk Hydra
+8,Enchantment,Blight
+9,Creature,Aura Priest Oni of the Haven
+10,Creature,Snow Queen Kraken
+11,Enchantment,Flight
+12,Artifact,Potion
+13,Creature,Dark Thief Goblin
+14,Creature,Death Queen Elf of the Golden Palace
+15,Artifact,Scythe
+16,Spell,Freeze
+17,Creature,Light Undead Cyclops
+18,Spell,Ardent Dark Frost
+19,Artifact,Divine Robe
+20,Creature,Fairy
+21,Spell,Frost
+22,Enchantment,Strength
+23,Enchantment,Shade
+24,Enchantment,Dark Shrink
+25,Creature,Troll
+26,Creature,Ghoul
+27,Creature,Earth Nameless Phoenix of the Shadows
+28,Spell,Tempest
+29,Enchantment,Dire Grim Shade
+30,Creature,Frozen Lord Griffin
+31,Creature,Wolf
+32,Creature,Light King Goblin
+33,Spell,Vortex
+34,Artifact,Boots
+35,Spell,Heal
+36,Spell,Burst
+37,Creature,Warlock
+38,Creature,Fairy
+39,Spell,Hypnosis
+40,Creature,Earth Warrior Cyclops
+41,Enchantment,Hateful Lethargy
+42,Creature,Ghoul
+43,Spell,Tempest
+44,Creature,Berserker

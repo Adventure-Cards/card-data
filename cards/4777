@@ -1,46 +1,46 @@
-==================,DECK,4777,Light
-0,Creature,Rare,Light Lord Skin-Walker
-1,Creature,Rare,Snow Knight Minotaur
-2,Creature,Rare,Death Warrior Minotaur
-3,Artifact,Common,Amulet
-4,Spell,Legendary,Clever Frost
-5,Creature,Rare,Light Assassin Minotaur
-6,Creature,Common,Warlock
-7,Enchantment,Common,Flight
-8,Creature,Common,Elf
-9,Spell,Common,Burst
-10,Creature,Common,Warlock
-11,Enchantment,Common,Alacrity
-12,Artifact,Common,Shield
-13,Enchantment,Common,Invert
-14,Creature,Rare,Dark King Berserker
-15,Enchantment,Common,Agony
-16,Creature,Common,Eagle
-17,Artifact,Common,Sigil
-18,Creature,Common,Goblin
-19,Creature,Common,Orc
-20,Creature,Common,Warlock
-21,Artifact,Common,Staff
-22,Enchantment,Common,Shade
-23,Creature,Common,Orc
-24,Creature,Common,Goblin
-25,Spell,Common,Frost
-26,Enchantment,Common,Deathgrip
-27,Creature,Rare,Light Fighter Griffin
-28,Enchantment,Common,Blight
-29,Creature,Mythic,Aura Nameless Phoenix of the Light
-30,Spell,Rare,Miracle Infuriate
-31,Creature,Rare,Earth Merchant Minotaur
-32,Creature,Rare,Death Rogue Minotaur
-33,Creature,Legendary,Dark Undead Cyclops of the Bright Mountains
-34,Creature,Rare,Snow Fighter Hydra
-35,Creature,Legendary,Aura Queen Cyclops of the Frozen Castle
-36,Enchantment,Common,Drain
-37,Spell,Common,Ice
-38,Creature,Rare,Death Fighter Griffin
-39,Creature,Common,Eagle
-40,Enchantment,Common,Shield
-41,Creature,Legendary,Aura King Orge of the Black Stone
-42,Creature,Rare,Death Assassin Berserker
-43,Creature,Rare,Earth Assassin Minotaur
-44,Enchantment,Common,Strength
+==================,DECK,4777
+0,Creature,Light Lord Orc
+1,Creature,Snow Knight Cyclops
+2,Creature,Death Warrior Cyclops
+3,Artifact,Amulet
+4,Spell,Instant Oblivion Frenzy
+5,Creature,Light Assassin Cyclops
+6,Creature,Berserker
+7,Enchantment,Strength
+8,Creature,Warlock
+9,Spell,Lightning
+10,Creature,Berserker
+11,Enchantment,Shield
+12,Artifact,Shield
+13,Enchantment,Shield
+14,Creature,Dark King Goblin
+15,Enchantment,Haste
+16,Creature,Eagle
+17,Artifact,Sigil
+18,Creature,Skin-Walker
+19,Creature,Spider
+20,Creature,Berserker
+21,Artifact,Staff
+22,Enchantment,Firebreath
+23,Creature,Spider
+24,Creature,Skin-Walker
+25,Spell,Freeze
+26,Enchantment,Firebreath
+27,Creature,Light Fighter Griffin
+28,Enchantment,Shrink
+29,Creature,Aura Nameless Phoenix of the Light
+30,Spell,Oblivion Torment
+31,Creature,Earth Merchant Cyclops
+32,Creature,Death Rogue Cyclops
+33,Creature,Dark Undead Giant of the Bright Mountains
+34,Creature,Snow Fighter Hydra
+35,Creature,Aura Queen Giant of the Frozen Castle
+36,Enchantment,Invert
+37,Spell,Rage
+38,Creature,Death Fighter Griffin
+39,Creature,Eagle
+40,Enchantment,Flight
+41,Creature,Aura King Elf of the Black Stone
+42,Creature,Death Assassin Goblin
+43,Creature,Earth Assassin Cyclops
+44,Enchantment,Agony

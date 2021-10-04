@@ -1,46 +1,46 @@
-==================,DECK,5768,Light
-0,Creature,Common,Ghoul
-1,Artifact,Common,Ring
-2,Spell,Common,Wall
-3,Creature,Common,Paladin
-4,Creature,Common,Magi
-5,Creature,Common,Wolf
-6,Creature,Common,Ghoul
-7,Creature,Rare,Aura Monk Skin-Walker
-8,Artifact,Common,Bracers
-9,Creature,Common,Orc
-10,Spell,Legendary,Mighty Sorrow
-11,Creature,Rare,Dark Fighter Fairy
-12,Creature,Common,Magi
-13,Artifact,Legendary,Extreme Helmet
-14,Creature,Common,Wolf
-15,Creature,Legendary,Aura Monk Orge of the Plains
-16,Creature,Common,Ghoul
-17,Creature,Common,Magi
-18,Enchantment,Common,Alacrity
-19,Creature,Common,Orc
-20,Artifact,Common,Potion
-21,Creature,Mythic,Dark Undead Dragon of Illusion
-22,Enchantment,Rare,Miracle Shrink
-23,Spell,Common,Pandemonium
-24,Artifact,Rare,Dark Belt
-25,Creature,Rare,Aura Queen Griffin
-26,Spell,Legendary,Clever Wall
-27,Artifact,Common,Scythe
-28,Artifact,Rare,Apocalypse Shield
-29,Enchantment,Rare,Shimmering Age
-30,Creature,Common,Magi
-31,Creature,Common,Magi
-32,Enchantment,Mythic,Instant Lethargy
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Elf
-35,Artifact,Common,Pendant
-36,Spell,Rare,Apocalypse Pandemonium
-37,Artifact,Rare,Oblivion Scepter
-38,Creature,Rare,Frozen Merchant Fairy
-39,Creature,Rare,Frozen Rogue Skin-Walker
-40,Spell,Common,Wall
-41,Enchantment,Legendary,Extreme Blight
-42,Creature,Common,Goblin
-43,Creature,Legendary,Earth Knight Cyclops of the Frozen Castle
-44,Creature,Rare,Aura Lord Hydra
+==================,DECK,5768
+0,Creature,Ghoul
+1,Artifact,Ring
+2,Spell,Wall
+3,Creature,Troll
+4,Creature,Fairy
+5,Creature,Wolf
+6,Creature,Ghoul
+7,Creature,Aura Monk Orc
+8,Artifact,Bracers
+9,Creature,Spider
+10,Spell,Empyrean Dark Stricken
+11,Creature,Dark Fighter Kraken
+12,Creature,Fairy
+13,Artifact,Irate Dark Helmet
+14,Creature,Wolf
+15,Creature,Aura Monk Elf of the Plains
+16,Creature,Ghoul
+17,Creature,Fairy
+18,Enchantment,Drain
+19,Creature,Spider
+20,Artifact,Potion
+21,Creature,Dark Undead Dragon of Illusion
+22,Enchantment,Frigid Shade
+23,Spell,Gravitation
+24,Artifact,Gloom Belt
+25,Creature,Aura Queen Griffin
+26,Spell,Ardent Victory Revive
+27,Artifact,Scythe
+28,Artifact,Apocalypse Shield
+29,Enchantment,Nature Deathgrip
+30,Creature,Fairy
+31,Creature,Fairy
+32,Enchantment,Urgent Hateful Agony
+33,Artifact,Divine Robe
+34,Creature,Warlock
+35,Artifact,Pendant
+36,Spell,Grim Frost
+37,Artifact,Victory Scepter
+38,Creature,Frozen Merchant Kraken
+39,Creature,Frozen Rogue Orc
+40,Spell,Pandemonium
+41,Enchantment,Mighty Cataclysmic Flight
+42,Creature,Skin-Walker
+43,Creature,Earth Knight Giant of the Frozen Castle
+44,Creature,Aura Lord Hydra

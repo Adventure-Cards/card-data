@@ -1,46 +1,46 @@
-==================,DECK,4462,Light
-0,Creature,Rare,Snow Priest Hydra
-1,Creature,Rare,Earth Lord Hydra
-2,Spell,Rare,Grim Freeze
-3,Enchantment,Common,Blight
-4,Creature,Common,Ghoul
-5,Creature,Common,Elf
-6,Creature,Common,Orc
-7,Artifact,Common,Shield
-8,Enchantment,Common,Agony
-9,Creature,Common,Ghoul
-10,Creature,Legendary,Aura Fighter Orge of the Arctic Blizzards
-11,Enchantment,Common,Shade
-12,Spell,Common,Invisibility
-13,Spell,Common,Gravitation
-14,Creature,Common,Dwarf
-15,Enchantment,Common,Shield
-16,Creature,Common,Goblin
-17,Enchantment,Mythic,Instant Shrink
-18,Spell,Common,Pandemonium
-19,Spell,Rare,Nature Reanimate
-20,Creature,Common,Warlock
-21,Creature,Common,Paladin
-22,Spell,Rare,Lunar Maelstrom
-23,Creature,Common,Warlock
-24,Creature,Common,Dwarf
-25,Enchantment,Mythic,Extreme Lethargy
-26,Creature,Common,Warlock
-27,Spell,Common,Rage
-28,Creature,Legendary,Snow Lord Cyclops of the Eternal Land
-29,Creature,Rare,Frozen Lord Hydra
-30,Artifact,Legendary,Instant Amulet
-31,Enchantment,Common,Blight
-32,Creature,Common,Orc
-33,Creature,Common,Ghoul
-34,Creature,Rare,Frozen Monk Skin-Walker
-35,Enchantment,Common,Invert
-36,Creature,Rare,Light Merchant Griffin
-37,Artifact,Common,Scepter
-38,Creature,Common,Goblin
-39,Artifact,Common,Boots
-40,Spell,Legendary,Intense Revive
-41,Creature,Common,Goblin
-42,Spell,Common,Infuriate
-43,Creature,Common,Elf
-44,Creature,Common,Paladin
+==================,DECK,4462
+0,Creature,Snow Priest Hydra
+1,Creature,Earth Lord Hydra
+2,Spell,Nimble Ice
+3,Enchantment,Blight
+4,Creature,Ghoul
+5,Creature,Warlock
+6,Creature,Spider
+7,Artifact,Shield
+8,Enchantment,Deathgrip
+9,Creature,Ghoul
+10,Creature,Aura Fighter Elf of the Arctic Blizzards
+11,Enchantment,Age
+12,Spell,Revive
+13,Spell,Maelstrom
+14,Creature,Magi
+15,Enchantment,Agony
+16,Creature,Skin-Walker
+17,Enchantment,Mighty Necro Agony
+18,Spell,Stun
+19,Spell,Forged Heal
+20,Creature,Berserker
+21,Creature,Troll
+22,Spell,Miracle Stun
+23,Creature,Berserker
+24,Creature,Magi
+25,Enchantment,Ardent Lunar Shield
+26,Creature,Berserker
+27,Spell,Tempest
+28,Creature,Snow Lord Giant of the Eternal Land
+29,Creature,Frozen Lord Hydra
+30,Artifact,Mighty Corpse Amulet
+31,Enchantment,Drain
+32,Creature,Spider
+33,Creature,Ghoul
+34,Creature,Frozen Monk Orc
+35,Enchantment,Blight
+36,Creature,Light Merchant Griffin
+37,Artifact,Scepter
+38,Creature,Skin-Walker
+39,Artifact,Boots
+40,Spell,Instant Forged Freeze
+41,Creature,Skin-Walker
+42,Spell,Hypnosis
+43,Creature,Warlock
+44,Creature,Troll

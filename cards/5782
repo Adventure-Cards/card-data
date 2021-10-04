@@ -1,46 +1,46 @@
-==================,DECK,5782,Medium
-0,Creature,Legendary,Earth Priest Giant of the Black Stone
-1,Enchantment,Common,Flight
-2,Spell,Legendary,Potent Torment
-3,Spell,Common,Gravitation
-4,Spell,Rare,Nimble Torment
-5,Enchantment,Common,Strength
-6,Enchantment,Common,Shade
-7,Creature,Common,Paladin
-8,Creature,Legendary,Earth Priest Cyclops of the Low Hills
-9,Enchantment,Mythic,Urgent Agony
-10,Artifact,Common,Cloak
-11,Enchantment,Common,Shrink
-12,Creature,Common,Goblin
-13,Creature,Common,Goblin
-14,Enchantment,Common,Strength
-15,Creature,Common,Eagle
-16,Creature,Common,Paladin
-17,Creature,Common,Ghoul
-18,Enchantment,Common,Shield
-19,Spell,Rare,Frigid Wall
-20,Enchantment,Common,Strength
-21,Enchantment,Common,Shrink
-22,Enchantment,Common,Invert
-23,Creature,Rare,Death Thief Berserker
-24,Creature,Common,Dwarf
-25,Creature,Rare,Frozen Assassin Griffin
-26,Artifact,Common,Sigil
-27,Enchantment,Rare,Shimmering Flight
-28,Artifact,Common,Crown
-29,Creature,Rare,Aura Thief Skin-Walker
-30,Creature,Common,Spider
-31,Creature,Legendary,Aura Warrior Cyclops of the Eastern Skies
-32,Spell,Rare,Cataclysmic Burn
-33,Creature,Common,Paladin
-34,Artifact,Common,Pendant
-35,Creature,Legendary,Snow Fighter Kraken of the Plains
-36,Creature,Rare,Aura Rogue Skin-Walker
-37,Creature,Rare,Dark Knight Hydra
-38,Artifact,Common,Shield
-39,Creature,Common,Wolf
-40,Creature,Legendary,Frozen Warrior Giant of the Polar Woods
-41,Spell,Common,Pandemonium
-42,Enchantment,Rare,Life Blight
-43,Spell,Rare,Dark Gravitation
-44,Enchantment,Common,Shrink
+==================,DECK,5782
+0,Creature,Earth Priest Dwarf of the Black Stone
+1,Enchantment,Strength
+2,Spell,Irate Nimble Tempest
+3,Spell,Vortex
+4,Spell,Solar Fire
+5,Enchantment,Shield
+6,Enchantment,Flight
+7,Creature,Troll
+8,Creature,Earth Priest Giant of the Low Hills
+9,Enchantment,Ardent Corpse Lethargy
+10,Artifact,Cloak
+11,Enchantment,Firebreath
+12,Creature,Skin-Walker
+13,Creature,Skin-Walker
+14,Enchantment,Agony
+15,Creature,Eagle
+16,Creature,Troll
+17,Creature,Ghoul
+18,Enchantment,Shrink
+19,Spell,Victory Revive
+20,Enchantment,Strength
+21,Enchantment,Flight
+22,Enchantment,Agony
+23,Creature,Death Thief Goblin
+24,Creature,Magi
+25,Creature,Frozen Assassin Griffin
+26,Artifact,Sigil
+27,Enchantment,Hateful Lethargy
+28,Artifact,Crown
+29,Creature,Aura Thief Orc
+30,Creature,Paladin
+31,Creature,Aura Warrior Giant of the Eastern Skies
+32,Spell,Chimeric Stricken
+33,Creature,Troll
+34,Artifact,Pendant
+35,Creature,Snow Fighter Ogre of the Plains
+36,Creature,Aura Rogue Orc
+37,Creature,Dark Knight Hydra
+38,Artifact,Shield
+39,Creature,Wolf
+40,Creature,Frozen Warrior Dwarf of the Polar Woods
+41,Spell,Assault
+42,Enchantment,Nimble Haste
+43,Spell,Chimeric Burst
+44,Enchantment,Age

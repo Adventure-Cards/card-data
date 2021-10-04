@@ -1,46 +1,46 @@
-==================,DECK,6575,Strong
-0,Creature,Mythic,Light Undead Phoenix of the Sky
-1,Enchantment,Common,Invert
-2,Creature,Rare,Aura Rogue Berserker
-3,Creature,Common,Ghoul
-4,Creature,Common,Spider
-5,Enchantment,Mythic,Extreme Agony
-6,Enchantment,Common,Shield
-7,Enchantment,Legendary,Clever Alacrity
-8,Spell,Legendary,Potent Burst
-9,Creature,Rare,Aura Thief Minotaur
-10,Creature,Common,Warlock
-11,Creature,Rare,Light Monk Hydra
-12,Creature,Common,Paladin
-13,Artifact,Legendary,Instant Divine Robe
-14,Creature,Legendary,Frozen King Orge of the Low Hills
-15,Creature,Rare,Aura Warrior Griffin
-16,Creature,Rare,Earth Knight Skin-Walker
-17,Artifact,Rare,Solar Gloves
-18,Creature,Mythic,Light Nameless Phoenix of the Sky
-19,Creature,Rare,Snow Thief Skin-Walker
-20,Creature,Rare,Death King Hydra
-21,Spell,Common,Lightning
-22,Spell,Common,Frost
-23,Enchantment,Legendary,Urgent Blight
-24,Enchantment,Common,Drain
-25,Artifact,Common,Belt
-26,Spell,Common,Hypnosis
-27,Enchantment,Legendary,Intense Deathgrip
-28,Enchantment,Common,Agony
-29,Creature,Mythic,Dark Undead Dragon of Illusion
-30,Enchantment,Common,Shade
-31,Spell,Common,Ice
-32,Artifact,Common,Bow
-33,Artifact,Common,Potion
-34,Artifact,Rare,Necro Sword
-35,Creature,Mythic,Earth Undead Phoenix of the Shadows
-36,Spell,Legendary,Clever Vortex
-37,Artifact,Common,Bow
-38,Creature,Rare,Earth Lord Griffin
-39,Creature,Common,Elf
-40,Creature,Mythic,Death Nameless Phoenix of the Dead
-41,Creature,Common,Dwarf
-42,Enchantment,Rare,Oblivion Shade
-43,Enchantment,Common,Flight
-44,Creature,Common,Orc
+==================,DECK,6575
+0,Creature,Light Undead Phoenix of the Sky
+1,Enchantment,Alacrity
+2,Creature,Aura Rogue Goblin
+3,Creature,Ghoul
+4,Creature,Paladin
+5,Enchantment,Irate Miracle Alacrity
+6,Enchantment,Deathgrip
+7,Enchantment,Instant Apocalypse Drain
+8,Spell,Zealous Grim Burn
+9,Creature,Aura Thief Cyclops
+10,Creature,Berserker
+11,Creature,Light Monk Hydra
+12,Creature,Troll
+13,Artifact,Instant Shimmering Divine Robe
+14,Creature,Frozen King Elf of the Low Hills
+15,Creature,Aura Warrior Griffin
+16,Creature,Earth Knight Orc
+17,Artifact,Nature Gloves
+18,Creature,Light Nameless Phoenix of the Sky
+19,Creature,Snow Thief Orc
+20,Creature,Death King Hydra
+21,Spell,Lightning
+22,Spell,Revive
+23,Enchantment,Potent Solar Strength
+24,Enchantment,Deathgrip
+25,Artifact,Belt
+26,Spell,Gale
+27,Enchantment,Zealous Shimmering Deathgrip
+28,Enchantment,Shield
+29,Creature,Dark Undead Dragon of Illusion
+30,Enchantment,Agony
+31,Spell,Rage
+32,Artifact,Bow
+33,Artifact,Potion
+34,Artifact,Shimmering Sword
+35,Creature,Earth Undead Phoenix of the Shadows
+36,Spell,Irate Oblivion Gravitation
+37,Artifact,Bow
+38,Creature,Earth Lord Griffin
+39,Creature,Warlock
+40,Creature,Death Nameless Phoenix of the Dead
+41,Creature,Magi
+42,Enchantment,Frigid Haste
+43,Enchantment,Agony
+44,Creature,Spider

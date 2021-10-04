@@ -1,46 +1,46 @@
-==================,DECK,4866,Medium
-0,Creature,Legendary,Aura Undead Cyclops of the Golden Palace
-1,Creature,Common,Spider
-2,Creature,Legendary,Snow Merchant Orge of the Frozen Castle
-3,Creature,Common,Paladin
-4,Creature,Common,Dwarf
-5,Spell,Mythic,Potent Heal
-6,Creature,Mythic,Earth Ancient Wizard of the Shadows
-7,Artifact,Common,Divine Robe
-8,Enchantment,Common,Shrink
-9,Creature,Common,Elf
-10,Creature,Rare,Snow King Skin-Walker
-11,Enchantment,Common,Age
-12,Spell,Common,Freeze
-13,Creature,Common,Spider
-14,Creature,Mythic,Dark Time Dragon of Illusion
-15,Creature,Mythic,Earth Chaos Demon of the Shadows
-16,Creature,Rare,Earth Monk Minotaur
-17,Creature,Common,Eagle
-18,Creature,Common,Spider
-19,Creature,Legendary,Light Rogue Cyclops of the Frozen Castle
-20,Spell,Legendary,Mighty Invisibility
-21,Creature,Common,Spider
-22,Creature,Common,Eagle
-23,Creature,Legendary,Aura Fighter Kraken of the Magical Forest
-24,Creature,Rare,Light Undead Fairy
-25,Creature,Rare,Light Monk Minotaur
-26,Artifact,Common,Greaves
-27,Enchantment,Legendary,Dire Invert
-28,Creature,Common,Elf
-29,Spell,Common,Infuriate
-30,Enchantment,Common,Blight
-31,Enchantment,Common,Shield
-32,Spell,Rare,Dark Torment
-33,Creature,Legendary,Aura Fighter Oni of the Eternal Land
-34,Creature,Rare,Light King Minotaur
-35,Artifact,Common,Cloak
-36,Creature,Legendary,Dark Thief Giant of the Mountains
-37,Creature,Rare,Death Queen Berserker
-38,Enchantment,Rare,Life Drain
-39,Creature,Rare,Earth Lord Minotaur
-40,Creature,Common,Goblin
-41,Artifact,Rare,Gloom Potion
-42,Creature,Common,Dwarf
-43,Creature,Common,Dwarf
-44,Creature,Common,Eagle
+==================,DECK,4866
+0,Creature,Aura Undead Giant of the Golden Palace
+1,Creature,Paladin
+2,Creature,Snow Merchant Elf of the Frozen Castle
+3,Creature,Troll
+4,Creature,Magi
+5,Spell,Urgent Life Invisibility
+6,Creature,Earth Ancient Wizard of the Shadows
+7,Artifact,Divine Robe
+8,Enchantment,Lethargy
+9,Creature,Warlock
+10,Creature,Snow King Orc
+11,Enchantment,Shield
+12,Spell,Burn
+13,Creature,Paladin
+14,Creature,Dark Time Dragon of Illusion
+15,Creature,Earth Chaos Demon of the Shadows
+16,Creature,Earth Monk Cyclops
+17,Creature,Eagle
+18,Creature,Paladin
+19,Creature,Light Rogue Giant of the Frozen Castle
+20,Spell,Urgent Chimeric Fury
+21,Creature,Paladin
+22,Creature,Eagle
+23,Creature,Aura Fighter Ogre of the Magical Forest
+24,Creature,Light Undead Kraken
+25,Creature,Light Monk Cyclops
+26,Artifact,Greaves
+27,Enchantment,Instant Oblivion Drain
+28,Creature,Warlock
+29,Spell,Frost
+30,Enchantment,Shield
+31,Enchantment,Shield
+32,Spell,Cataclysmic Pandemonium
+33,Creature,Aura Fighter Oni of the Eternal Land
+34,Creature,Light King Cyclops
+35,Artifact,Cloak
+36,Creature,Dark Thief Dwarf of the Mountains
+37,Creature,Death Queen Goblin
+38,Enchantment,Apocalypse Drain
+39,Creature,Earth Lord Cyclops
+40,Creature,Skin-Walker
+41,Artifact,Miracle Potion
+42,Creature,Magi
+43,Creature,Magi
+44,Creature,Eagle

@@ -1,46 +1,46 @@
-==================,DECK,4168,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Common,Blight
-2,Spell,Common,Infuriate
-3,Creature,Common,Paladin
-4,Enchantment,Common,Shade
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Lethargy
-7,Creature,Rare,Earth Thief Fairy
-8,Enchantment,Legendary,Angry Shade
-9,Spell,Legendary,Urgent Sorrow
-10,Creature,Common,Warlock
-11,Spell,Common,Revive
-12,Spell,Common,Torment
-13,Enchantment,Common,Shrink
-14,Spell,Legendary,Potent Invisibility
-15,Creature,Common,Dwarf
-16,Creature,Common,Goblin
-17,Enchantment,Common,Shield
-18,Enchantment,Rare,Oblivion Alacrity
-19,Creature,Common,Orc
-20,Creature,Common,Goblin
-21,Creature,Common,Eagle
-22,Creature,Common,Goblin
-23,Artifact,Common,Helmet
-24,Creature,Common,Elf
-25,Enchantment,Common,Agony
-26,Creature,Common,Magi
-27,Creature,Common,Dwarf
-28,Creature,Common,Orc
-29,Spell,Common,Torment
-30,Artifact,Common,Belt
-31,Artifact,Legendary,Intense Crown
-32,Spell,Common,Pandemonium
-33,Enchantment,Common,Deathgrip
-34,Creature,Common,Ghoul
-35,Creature,Common,Warlock
-36,Creature,Common,Orc
-37,Enchantment,Rare,Hateful Blight
-38,Spell,Common,Frenzy
-39,Creature,Common,Warlock
-40,Creature,Common,Paladin
-41,Creature,Rare,Earth Warrior Fairy
-42,Enchantment,Rare,Solar Agony
-43,Enchantment,Common,Shrink
-44,Creature,Common,Spider
+==================,DECK,4168
+0,Creature,Magi
+1,Enchantment,Strength
+2,Spell,Invisibility
+3,Creature,Troll
+4,Enchantment,Deathgrip
+5,Creature,Magi
+6,Enchantment,Flight
+7,Creature,Earth Thief Kraken
+8,Enchantment,Dire Chimeric Firebreath
+9,Spell,Clever Forged Fire
+10,Creature,Berserker
+11,Spell,Stun
+12,Spell,Frenzy
+13,Enchantment,Lethargy
+14,Spell,Dire Life Burst
+15,Creature,Magi
+16,Creature,Skin-Walker
+17,Enchantment,Invert
+18,Enchantment,Apocalypse Blight
+19,Creature,Spider
+20,Creature,Skin-Walker
+21,Creature,Eagle
+22,Creature,Skin-Walker
+23,Artifact,Helmet
+24,Creature,Warlock
+25,Enchantment,Lethargy
+26,Creature,Fairy
+27,Creature,Magi
+28,Creature,Spider
+29,Spell,Infuriate
+30,Artifact,Belt
+31,Artifact,Irate Nature Crown
+32,Spell,Stricken
+33,Enchantment,Strength
+34,Creature,Ghoul
+35,Creature,Berserker
+36,Creature,Spider
+37,Enchantment,Cataclysmic Firebreath
+38,Spell,Frost
+39,Creature,Berserker
+40,Creature,Troll
+41,Creature,Earth Warrior Kraken
+42,Enchantment,Corpse Lethargy
+43,Enchantment,Age
+44,Creature,Paladin

@@ -1,46 +1,46 @@
-==================,DECK,6122,Light
-0,Creature,Common,Eagle
-1,Spell,Rare,Frigid Heal
-2,Creature,Legendary,Snow Assassin Cyclops of the Haven
-3,Creature,Rare,Earth Undead Fairy
-4,Spell,Common,Frenzy
-5,Creature,Common,Warlock
-6,Creature,Rare,Earth Rogue Hydra
-7,Enchantment,Common,Shade
-8,Enchantment,Common,Agony
-9,Spell,Legendary,Intense Ice
-10,Creature,Common,Ghoul
-11,Spell,Legendary,Intense Stun
-12,Enchantment,Rare,Grim Lethargy
-13,Creature,Legendary,Death Queen Orge of the West
-14,Creature,Common,Paladin
-15,Spell,Common,Pandemonium
-16,Enchantment,Mythic,Urgent Invert
-17,Creature,Common,Warlock
-18,Creature,Common,Magi
-19,Spell,Common,Burst
-20,Spell,Common,Lightning
-21,Artifact,Common,Bow
-22,Spell,Common,Sorrow
-23,Creature,Common,Eagle
-24,Spell,Common,Wall
-25,Creature,Rare,Earth Assassin Hydra
-26,Spell,Rare,Lunar Sorrow
-27,Creature,Legendary,Dark Monk Cyclops of the Eastern Skies
-28,Enchantment,Mythic,Clever Blight
-29,Spell,Rare,Hateful Hypnosis
-30,Enchantment,Rare,Apocalypse Haste
-31,Creature,Common,Warlock
-32,Creature,Common,Elf
-33,Spell,Common,Stun
-34,Creature,Common,Paladin
-35,Creature,Rare,Frozen Merchant Berserker
-36,Creature,Rare,Earth Merchant Minotaur
-37,Artifact,Rare,Nimble Ring
-38,Spell,Common,Gravitation
-39,Creature,Rare,Dark Priest Griffin
-40,Creature,Rare,Light Priest Berserker
-41,Creature,Rare,Death Monk Griffin
-42,Enchantment,Common,Blight
-43,Enchantment,Rare,Lunar Haste
-44,Creature,Common,Ghoul
+==================,DECK,6122
+0,Creature,Eagle
+1,Spell,Oblivion Sorrow
+2,Creature,Snow Assassin Giant of the Haven
+3,Creature,Earth Undead Kraken
+4,Spell,Gravitation
+5,Creature,Berserker
+6,Creature,Earth Rogue Hydra
+7,Enchantment,Flight
+8,Enchantment,Agony
+9,Spell,Clever Shimmering Assault
+10,Creature,Ghoul
+11,Spell,Mighty Solar Sorrow
+12,Enchantment,Grim Invert
+13,Creature,Death Queen Elf of the West
+14,Creature,Troll
+15,Spell,Freeze
+16,Enchantment,Ardent Shimmering Lethargy
+17,Creature,Berserker
+18,Creature,Fairy
+19,Spell,Ice
+20,Spell,Heal
+21,Artifact,Bow
+22,Spell,Sorrow
+23,Creature,Eagle
+24,Spell,Gale
+25,Creature,Earth Assassin Hydra
+26,Spell,Chimeric Wall
+27,Creature,Dark Monk Giant of the Eastern Skies
+28,Enchantment,Empyrean Nimble Shade
+29,Spell,Dark Frenzy
+30,Enchantment,Life Haste
+31,Creature,Berserker
+32,Creature,Warlock
+33,Spell,Maelstrom
+34,Creature,Troll
+35,Creature,Frozen Merchant Goblin
+36,Creature,Earth Merchant Cyclops
+37,Artifact,Solar Ring
+38,Spell,Gravitation
+39,Creature,Dark Priest Griffin
+40,Creature,Light Priest Goblin
+41,Creature,Death Monk Griffin
+42,Enchantment,Agony
+43,Enchantment,Miracle Flight
+44,Creature,Ghoul

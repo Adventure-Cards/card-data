@@ -1,46 +1,46 @@
-==================,DECK,4842,Light
-0,Creature,Common,Ghoul
-1,Creature,Common,Goblin
-2,Creature,Common,Goblin
-3,Creature,Common,Ghoul
-4,Enchantment,Common,Shrink
-5,Spell,Common,Stun
-6,Enchantment,Common,Age
-7,Creature,Common,Spider
-8,Spell,Common,Stricken
-9,Creature,Mythic,Light Nameless Dragon of the Sky
-10,Creature,Common,Spider
-11,Creature,Common,Wolf
-12,Spell,Common,Sorrow
-13,Creature,Common,Orc
-14,Spell,Common,Burst
-15,Spell,Common,Sorrow
-16,Creature,Common,Elf
-17,Creature,Common,Ghoul
-18,Creature,Common,Dwarf
-19,Creature,Common,Eagle
-20,Creature,Common,Ghoul
-21,Spell,Rare,Grim Gravitation
-22,Spell,Rare,Grim Wall
-23,Creature,Common,Ghoul
-24,Creature,Common,Paladin
-25,Spell,Common,Wall
-26,Creature,Common,Warlock
-27,Artifact,Common,Gauntlet
-28,Creature,Common,Magi
-29,Creature,Common,Elf
-30,Enchantment,Common,Shade
-31,Creature,Common,Paladin
-32,Enchantment,Common,Flight
-33,Artifact,Common,Cloak
-34,Creature,Mythic,Snow Grand Demon of Hate
-35,Creature,Rare,Snow Undead Skin-Walker
-36,Enchantment,Common,Haste
-37,Creature,Common,Paladin
-38,Creature,Common,Spider
-39,Artifact,Rare,Hateful Shield
-40,Creature,Common,Eagle
-41,Creature,Common,Dwarf
-42,Enchantment,Common,Blight
-43,Creature,Rare,Snow Priest Griffin
-44,Creature,Common,Magi
+==================,DECK,4842
+0,Creature,Ghoul
+1,Creature,Skin-Walker
+2,Creature,Skin-Walker
+3,Creature,Ghoul
+4,Enchantment,Deathgrip
+5,Spell,Vortex
+6,Enchantment,Shade
+7,Creature,Paladin
+8,Spell,Tempest
+9,Creature,Light Nameless Dragon of the Sky
+10,Creature,Paladin
+11,Creature,Wolf
+12,Spell,Infuriate
+13,Creature,Spider
+14,Spell,Freeze
+15,Spell,Hypnosis
+16,Creature,Warlock
+17,Creature,Ghoul
+18,Creature,Magi
+19,Creature,Eagle
+20,Creature,Ghoul
+21,Spell,Nimble Fire
+22,Spell,Apocalypse Hypnosis
+23,Creature,Ghoul
+24,Creature,Troll
+25,Spell,Infuriate
+26,Creature,Berserker
+27,Artifact,Gauntlet
+28,Creature,Fairy
+29,Creature,Warlock
+30,Enchantment,Shade
+31,Creature,Troll
+32,Enchantment,Haste
+33,Artifact,Cloak
+34,Creature,Snow Grand Demon of Hate
+35,Creature,Snow Undead Orc
+36,Enchantment,Alacrity
+37,Creature,Troll
+38,Creature,Paladin
+39,Artifact,Chimeric Shield
+40,Creature,Eagle
+41,Creature,Magi
+42,Enchantment,Agony
+43,Creature,Snow Priest Griffin
+44,Creature,Fairy

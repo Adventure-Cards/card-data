@@ -1,46 +1,46 @@
-==================,DECK,4442,Light
-0,Enchantment,Common,Shield
-1,Creature,Common,Eagle
-2,Enchantment,Common,Flight
-3,Enchantment,Rare,Forged Agony
-4,Artifact,Common,Shield
-5,Creature,Rare,Aura King Berserker
-6,Artifact,Common,Divine Robe
-7,Creature,Legendary,Aura Rogue Orge of the Haven
-8,Enchantment,Common,Agony
-9,Artifact,Common,Potion
-10,Creature,Rare,Death Knight Fairy
-11,Spell,Legendary,Instant Invisibility
-12,Spell,Common,Hypnosis
-13,Creature,Common,Ghoul
-14,Enchantment,Common,Shade
-15,Creature,Common,Orc
-16,Spell,Common,Revive
-17,Artifact,Common,Sigil
-18,Creature,Common,Paladin
-19,Enchantment,Common,Deathgrip
-20,Creature,Common,Goblin
-21,Enchantment,Mythic,Potent Haste
-22,Creature,Rare,Frozen Lord Skin-Walker
-23,Enchantment,Common,Strength
-24,Creature,Common,Spider
-25,Creature,Rare,Earth Priest Berserker
-26,Creature,Common,Paladin
-27,Artifact,Rare,Corpse Greaves
-28,Enchantment,Common,Shield
-29,Enchantment,Common,Shade
-30,Creature,Rare,Dark Knight Griffin
-31,Artifact,Legendary,Potent Sword
-32,Enchantment,Common,Agony
-33,Creature,Legendary,Dark Knight Cyclops of the Arctic Blizzards
-34,Creature,Common,Eagle
-35,Spell,Common,Gravitation
-36,Creature,Common,Eagle
-37,Enchantment,Common,Shade
-38,Spell,Common,Stun
-39,Spell,Legendary,Mighty Stun
-40,Spell,Common,Frenzy
-41,Spell,Rare,Necro Stricken
-42,Enchantment,Rare,Dark Shield
-43,Spell,Common,Burst
-44,Creature,Common,Ghoul
+==================,DECK,4442
+0,Enchantment,Shade
+1,Creature,Eagle
+2,Enchantment,Firebreath
+3,Enchantment,Miracle Shield
+4,Artifact,Shield
+5,Creature,Aura King Goblin
+6,Artifact,Divine Robe
+7,Creature,Aura Rogue Elf of the Haven
+8,Enchantment,Drain
+9,Artifact,Potion
+10,Creature,Death Knight Kraken
+11,Spell,Irate Corpse Wall
+12,Spell,Gravitation
+13,Creature,Ghoul
+14,Enchantment,Shade
+15,Creature,Spider
+16,Spell,Gravitation
+17,Artifact,Sigil
+18,Creature,Troll
+19,Enchantment,Shrink
+20,Creature,Skin-Walker
+21,Enchantment,Empyrean Life Shade
+22,Creature,Frozen Lord Orc
+23,Enchantment,Shrink
+24,Creature,Paladin
+25,Creature,Earth Priest Goblin
+26,Creature,Troll
+27,Artifact,Hateful Greaves
+28,Enchantment,Blight
+29,Enchantment,Age
+30,Creature,Dark Knight Griffin
+31,Artifact,Potent Apocalypse Sword
+32,Enchantment,Invert
+33,Creature,Dark Knight Giant of the Arctic Blizzards
+34,Creature,Eagle
+35,Spell,Infuriate
+36,Creature,Eagle
+37,Enchantment,Flight
+38,Spell,Invisibility
+39,Spell,Clever Sorrow Invisibility
+40,Spell,Ice
+41,Spell,Solar Reanimate
+42,Enchantment,Gloom Shrink
+43,Spell,Wall
+44,Creature,Ghoul

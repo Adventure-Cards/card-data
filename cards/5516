@@ -1,46 +1,46 @@
-==================,DECK,5516,Light
-0,Creature,Common,Orc
-1,Spell,Common,Freeze
-2,Artifact,Common,Gauntlet
-3,Enchantment,Common,Alacrity
-4,Creature,Common,Orc
-5,Enchantment,Common,Strength
-6,Creature,Common,Ghoul
-7,Spell,Common,Vortex
-8,Creature,Common,Warlock
-9,Creature,Rare,Light Thief Griffin
-10,Creature,Common,Magi
-11,Artifact,Rare,Oblivion Sigil
-12,Creature,Legendary,Snow Merchant Cyclops of the Haven
-13,Enchantment,Mythic,Mighty Shield
-14,Enchantment,Legendary,Mighty Shade
-15,Spell,Common,Wall
-16,Enchantment,Common,Shield
-17,Spell,Legendary,Potent Frost
-18,Creature,Rare,Frozen Merchant Minotaur
-19,Creature,Rare,Snow Undead Berserker
-20,Enchantment,Common,Deathgrip
-21,Enchantment,Common,Alacrity
-22,Artifact,Common,Scepter
-23,Spell,Common,Frost
-24,Enchantment,Rare,Miracle Shrink
-25,Artifact,Common,Scythe
-26,Creature,Common,Spider
-27,Creature,Common,Eagle
-28,Creature,Rare,Death Thief Minotaur
-29,Creature,Common,Warlock
-30,Spell,Rare,Forged Assault
-31,Artifact,Rare,Nature Scepter
-32,Creature,Common,Warlock
-33,Creature,Common,Goblin
-34,Creature,Rare,Death Lord Minotaur
-35,Spell,Rare,Necro Sorrow
-36,Creature,Rare,Snow Queen Hydra
-37,Enchantment,Common,Age
-38,Enchantment,Common,Haste
-39,Creature,Rare,Death Rogue Minotaur
-40,Spell,Common,Sorrow
-41,Creature,Common,Spider
-42,Creature,Mythic,Light Chaos Demon of the Sky
-43,Creature,Common,Eagle
-44,Artifact,Common,Scepter
+==================,DECK,5516
+0,Creature,Spider
+1,Spell,Assault
+2,Artifact,Gauntlet
+3,Enchantment,Firebreath
+4,Creature,Spider
+5,Enchantment,Age
+6,Creature,Ghoul
+7,Spell,Revive
+8,Creature,Berserker
+9,Creature,Light Thief Griffin
+10,Creature,Fairy
+11,Artifact,Life Sigil
+12,Creature,Snow Merchant Giant of the Haven
+13,Enchantment,Ardent Gloom Shield
+14,Enchantment,Urgent Chimeric Flight
+15,Spell,Sorrow
+16,Enchantment,Alacrity
+17,Spell,Dire Apocalypse Pandemonium
+18,Creature,Frozen Merchant Cyclops
+19,Creature,Snow Undead Goblin
+20,Enchantment,Age
+21,Enchantment,Alacrity
+22,Artifact,Scepter
+23,Spell,Reanimate
+24,Enchantment,Frigid Shade
+25,Artifact,Scythe
+26,Creature,Paladin
+27,Creature,Eagle
+28,Creature,Death Thief Cyclops
+29,Creature,Berserker
+30,Spell,Lunar Fire
+31,Artifact,Necro Scepter
+32,Creature,Berserker
+33,Creature,Skin-Walker
+34,Creature,Death Lord Cyclops
+35,Spell,Solar Fireball
+36,Creature,Snow Queen Hydra
+37,Enchantment,Blight
+38,Enchantment,Invert
+39,Creature,Death Rogue Cyclops
+40,Spell,Freeze
+41,Creature,Paladin
+42,Creature,Light Chaos Demon of the Sky
+43,Creature,Eagle
+44,Artifact,Scepter

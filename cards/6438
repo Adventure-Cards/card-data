@@ -1,46 +1,46 @@
-==================,DECK,6438,Light
-0,Creature,Common,Dwarf
-1,Enchantment,Mythic,Potent Agony
-2,Creature,Rare,Snow Knight Berserker
-3,Enchantment,Mythic,Instant Blight
-4,Creature,Common,Orc
-5,Creature,Common,Spider
-6,Creature,Common,Ghoul
-7,Creature,Rare,Dark Undead Minotaur
-8,Spell,Common,Hypnosis
-9,Spell,Common,Rage
-10,Spell,Common,Heal
-11,Spell,Legendary,Clever Revive
-12,Enchantment,Rare,Dark Invert
-13,Artifact,Common,Sword
-14,Enchantment,Common,Agony
-15,Creature,Common,Dwarf
-16,Creature,Common,Eagle
-17,Spell,Common,Infuriate
-18,Creature,Common,Orc
-19,Enchantment,Common,Strength
-20,Creature,Common,Orc
-21,Creature,Common,Dwarf
-22,Spell,Common,Frenzy
-23,Spell,Common,Gravitation
-24,Creature,Common,Ghoul
-25,Spell,Common,Assault
-26,Creature,Common,Orc
-27,Creature,Common,Paladin
-28,Creature,Common,Orc
-29,Spell,Legendary,Extreme Reanimate
-30,Creature,Rare,Aura King Skin-Walker
-31,Artifact,Common,Boots
-32,Creature,Common,Ghoul
-33,Enchantment,Mythic,Intense Shade
-34,Creature,Legendary,Aura Queen Cyclops of the Bright Mountains
-35,Creature,Common,Spider
-36,Enchantment,Common,Lethargy
-37,Spell,Rare,Oblivion Vortex
-38,Creature,Common,Orc
-39,Creature,Common,Magi
-40,Spell,Common,Infuriate
-41,Artifact,Common,Ghost Wand
-42,Enchantment,Common,Agony
-43,Spell,Common,Maelstrom
-44,Artifact,Common,Divine Robe
+==================,DECK,6438
+0,Creature,Magi
+1,Enchantment,Urgent Life Invert
+2,Creature,Snow Knight Goblin
+3,Enchantment,Zealous Solar Deathgrip
+4,Creature,Spider
+5,Creature,Paladin
+6,Creature,Ghoul
+7,Creature,Dark Undead Cyclops
+8,Spell,Burst
+9,Spell,Frenzy
+10,Spell,Fire
+11,Spell,Urgent Grim Vortex
+12,Enchantment,Sorrow Shield
+13,Artifact,Sword
+14,Enchantment,Shrink
+15,Creature,Magi
+16,Creature,Eagle
+17,Spell,Vortex
+18,Creature,Spider
+19,Enchantment,Shrink
+20,Creature,Spider
+21,Creature,Magi
+22,Spell,Rage
+23,Spell,Pandemonium
+24,Creature,Ghoul
+25,Spell,Fury
+26,Creature,Spider
+27,Creature,Troll
+28,Creature,Spider
+29,Spell,Potent Dark Frenzy
+30,Creature,Aura King Orc
+31,Artifact,Boots
+32,Creature,Ghoul
+33,Enchantment,Instant Necro Strength
+34,Creature,Aura Queen Giant of the Bright Mountains
+35,Creature,Paladin
+36,Enchantment,Drain
+37,Spell,Oblivion Ice
+38,Creature,Spider
+39,Creature,Fairy
+40,Spell,Sorrow
+41,Artifact,Ghost Wand
+42,Enchantment,Drain
+43,Spell,Freeze
+44,Artifact,Divine Robe

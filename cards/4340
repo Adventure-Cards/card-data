@@ -1,46 +1,46 @@
-==================,DECK,4340,Medium
-0,Enchantment,Rare,Necro Deathgrip
-1,Spell,Common,Infuriate
-2,Spell,Common,Burn
-3,Enchantment,Common,Shade
-4,Enchantment,Common,Drain
-5,Enchantment,Legendary,Angry Flight
-6,Creature,Common,Magi
-7,Creature,Legendary,Light Priest Cyclops of the West
-8,Creature,Rare,Death Priest Berserker
-9,Artifact,Rare,Oblivion Bow
-10,Enchantment,Common,Lethargy
-11,Spell,Common,Frost
-12,Artifact,Common,Sword
-13,Artifact,Common,Pendant
-14,Creature,Common,Spider
-15,Creature,Common,Paladin
-16,Spell,Common,Burst
-17,Spell,Common,Burn
-18,Creature,Legendary,Aura Monk Orge of the Low Hills
-19,Artifact,Common,Helmet
-20,Spell,Legendary,Clever Sorrow
-21,Creature,Rare,Light Lord Berserker
-22,Creature,Common,Spider
-23,Spell,Common,Wall
-24,Creature,Common,Warlock
-25,Creature,Common,Goblin
-26,Creature,Common,Orc
-27,Artifact,Legendary,Urgent Helmet
-28,Enchantment,Legendary,Extreme Shade
-29,Spell,Rare,Apocalypse Stricken
-30,Creature,Legendary,Dark Priest Orge of the Arctic Blizzards
-31,Spell,Common,Stricken
-32,Artifact,Common,Sword
-33,Creature,Rare,Death Assassin Fairy
-34,Creature,Common,Ghoul
-35,Creature,Rare,Death Assassin Fairy
-36,Spell,Rare,Apocalypse Ice
-37,Spell,Legendary,Extreme Stricken
-38,Creature,Common,Eagle
-39,Enchantment,Common,Invert
-40,Enchantment,Common,Alacrity
-41,Spell,Common,Maelstrom
-42,Spell,Common,Ice
-43,Creature,Rare,Frozen Lord Hydra
-44,Enchantment,Common,Strength
+==================,DECK,4340
+0,Enchantment,Shimmering Lethargy
+1,Spell,Stun
+2,Spell,Revive
+3,Enchantment,Invert
+4,Enchantment,Blight
+5,Enchantment,Clever Lunar Shield
+6,Creature,Fairy
+7,Creature,Light Priest Giant of the West
+8,Creature,Death Priest Goblin
+9,Artifact,Frigid Bow
+10,Enchantment,Drain
+11,Spell,Rage
+12,Artifact,Sword
+13,Artifact,Pendant
+14,Creature,Paladin
+15,Creature,Troll
+16,Spell,Gale
+17,Spell,Torment
+18,Creature,Aura Monk Elf of the Low Hills
+19,Artifact,Helmet
+20,Spell,Empyrean Victory Wall
+21,Creature,Light Lord Goblin
+22,Creature,Paladin
+23,Spell,Gravitation
+24,Creature,Berserker
+25,Creature,Skin-Walker
+26,Creature,Spider
+27,Artifact,Irate Necro Helmet
+28,Enchantment,Dire Chimeric Firebreath
+29,Spell,Frigid Torment
+30,Creature,Dark Priest Elf of the Arctic Blizzards
+31,Spell,Gale
+32,Artifact,Sword
+33,Creature,Death Assassin Kraken
+34,Creature,Ghoul
+35,Creature,Death Assassin Kraken
+36,Spell,Frigid Frenzy
+37,Spell,Potent Cataclysmic Burst
+38,Creature,Eagle
+39,Enchantment,Shield
+40,Enchantment,Strength
+41,Spell,Stricken
+42,Spell,Freeze
+43,Creature,Frozen Lord Hydra
+44,Enchantment,Alacrity

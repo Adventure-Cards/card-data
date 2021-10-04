@@ -1,46 +1,46 @@
-==================,DECK,6602,Medium
-0,Enchantment,Common,Drain
-1,Spell,Common,Revive
-2,Spell,Legendary,Potent Revive
-3,Creature,Common,Orc
-4,Artifact,Common,Boots
-5,Spell,Mythic,Mighty Revive
-6,Creature,Common,Goblin
-7,Creature,Common,Wolf
-8,Creature,Common,Warlock
-9,Enchantment,Common,Agony
-10,Spell,Rare,Nature Maelstrom
-11,Creature,Rare,Dark Rogue Berserker
-12,Creature,Rare,Aura Knight Hydra
-13,Enchantment,Common,Haste
-14,Spell,Rare,Hateful Reanimate
-15,Creature,Common,Paladin
-16,Spell,Common,Fury
-17,Creature,Rare,Dark King Hydra
-18,Creature,Mythic,Earth Nameless Phoenix of the Shadows
-19,Creature,Rare,Death King Skin-Walker
-20,Enchantment,Common,Drain
-21,Creature,Rare,Earth Merchant Skin-Walker
-22,Enchantment,Rare,Forged Invert
-23,Creature,Common,Magi
-24,Creature,Legendary,Death Warrior Kraken of the Golden Palace
-25,Creature,Legendary,Dark Assassin Kraken of the Mountains
-26,Spell,Common,Wall
-27,Enchantment,Common,Shrink
-28,Artifact,Common,Divine Robe
-29,Creature,Legendary,Frozen Assassin Giant of the Plains
-30,Enchantment,Common,Drain
-31,Creature,Common,Elf
-32,Enchantment,Common,Haste
-33,Artifact,Common,Helm
-34,Creature,Common,Eagle
-35,Spell,Legendary,Clever Pandemonium
-36,Creature,Common,Orc
-37,Enchantment,Common,Strength
-38,Creature,Rare,Dark Assassin Griffin
-39,Spell,Rare,Frigid Torment
-40,Enchantment,Common,Deathgrip
-41,Spell,Common,Sorrow
-42,Creature,Common,Orc
-43,Creature,Common,Dwarf
-44,Enchantment,Common,Drain
+==================,DECK,6602
+0,Enchantment,Shrink
+1,Spell,Vortex
+2,Spell,Urgent Grim Fireball
+3,Creature,Spider
+4,Artifact,Boots
+5,Spell,Dire Cataclysmic Vortex
+6,Creature,Skin-Walker
+7,Creature,Wolf
+8,Creature,Berserker
+9,Enchantment,Blight
+10,Spell,Hateful Frost
+11,Creature,Dark Rogue Goblin
+12,Creature,Aura Knight Hydra
+13,Enchantment,Age
+14,Spell,Lunar Invisibility
+15,Creature,Troll
+16,Spell,Gale
+17,Creature,Dark King Hydra
+18,Creature,Earth Nameless Phoenix of the Shadows
+19,Creature,Death King Orc
+20,Enchantment,Lethargy
+21,Creature,Earth Merchant Orc
+22,Enchantment,Sorrow Shield
+23,Creature,Fairy
+24,Creature,Death Warrior Ogre of the Golden Palace
+25,Creature,Dark Assassin Ogre of the Mountains
+26,Spell,Frost
+27,Enchantment,Lethargy
+28,Artifact,Divine Robe
+29,Creature,Frozen Assassin Dwarf of the Plains
+30,Enchantment,Agony
+31,Creature,Warlock
+32,Enchantment,Shield
+33,Artifact,Helm
+34,Creature,Eagle
+35,Spell,Zealous Frigid Pandemonium
+36,Creature,Spider
+37,Enchantment,Flight
+38,Creature,Dark Assassin Griffin
+39,Spell,Apocalypse Tempest
+40,Enchantment,Shade
+41,Spell,Pandemonium
+42,Creature,Spider
+43,Creature,Magi
+44,Enchantment,Lethargy

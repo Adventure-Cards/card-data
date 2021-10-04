@@ -1,46 +1,46 @@
-==================,DECK,5470,Light
-0,Creature,Common,Eagle
-1,Spell,Rare,Dark Wall
-2,Creature,Common,Dwarf
-3,Enchantment,Rare,Solar Strength
-4,Enchantment,Common,Age
-5,Creature,Rare,Frozen Warrior Skin-Walker
-6,Creature,Rare,Dark Undead Hydra
-7,Creature,Common,Paladin
-8,Artifact,Common,Scythe
-9,Creature,Common,Eagle
-10,Artifact,Common,Bow
-11,Spell,Rare,Shimmering Reanimate
-12,Creature,Mythic,Death Ancient Demon of the Dead
-13,Creature,Rare,Death Warrior Hydra
-14,Creature,Common,Spider
-15,Enchantment,Common,Shrink
-16,Creature,Common,Paladin
-17,Creature,Common,Spider
-18,Creature,Common,Wolf
-19,Creature,Common,Spider
-20,Artifact,Common,Gauntlet
-21,Artifact,Common,Staff
-22,Creature,Common,Warlock
-23,Creature,Mythic,Snow Time Dragon of Hate
-24,Enchantment,Mythic,Extreme Deathgrip
-25,Creature,Common,Eagle
-26,Creature,Rare,Snow Knight Fairy
-27,Artifact,Legendary,Clever Sword
-28,Creature,Rare,Aura King Fairy
-29,Spell,Rare,Shimmering Reanimate
-30,Spell,Common,Ice
-31,Creature,Common,Ghoul
-32,Creature,Common,Magi
-33,Artifact,Rare,Necro Ghost Wand
-34,Creature,Rare,Earth Monk Berserker
-35,Creature,Rare,Death Undead Hydra
-36,Spell,Common,Fury
-37,Spell,Rare,Lunar Fury
-38,Creature,Common,Goblin
-39,Enchantment,Common,Blight
-40,Enchantment,Rare,Life Deathgrip
-41,Creature,Rare,Light Warrior Fairy
-42,Creature,Common,Warlock
-43,Enchantment,Common,Flight
-44,Creature,Common,Orc
+==================,DECK,5470
+0,Creature,Eagle
+1,Spell,Sorrow Revive
+2,Creature,Magi
+3,Enchantment,Solar Agony
+4,Enchantment,Haste
+5,Creature,Frozen Warrior Orc
+6,Creature,Dark Undead Hydra
+7,Creature,Troll
+8,Artifact,Scythe
+9,Creature,Eagle
+10,Artifact,Bow
+11,Spell,Shimmering Ice
+12,Creature,Death Ancient Demon of the Dead
+13,Creature,Death Warrior Hydra
+14,Creature,Paladin
+15,Enchantment,Strength
+16,Creature,Troll
+17,Creature,Paladin
+18,Creature,Wolf
+19,Creature,Paladin
+20,Artifact,Gauntlet
+21,Artifact,Staff
+22,Creature,Berserker
+23,Creature,Snow Time Dragon of Hate
+24,Enchantment,Clever Sorrow Shield
+25,Creature,Eagle
+26,Creature,Snow Knight Kraken
+27,Artifact,Instant Victory Sword
+28,Creature,Aura King Kraken
+29,Spell,Hateful Ice
+30,Spell,Ice
+31,Creature,Ghoul
+32,Creature,Fairy
+33,Artifact,Necro Ghost Wand
+34,Creature,Earth Monk Goblin
+35,Creature,Death Undead Hydra
+36,Spell,Hypnosis
+37,Spell,Dark Stun
+38,Creature,Skin-Walker
+39,Enchantment,Drain
+40,Enchantment,Oblivion Drain
+41,Creature,Light Warrior Kraken
+42,Creature,Berserker
+43,Enchantment,Haste
+44,Creature,Spider

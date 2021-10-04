@@ -1,46 +1,46 @@
-==================,DECK,6635,Medium
-0,Creature,Common,Eagle
-1,Spell,Common,Assault
-2,Spell,Rare,Forged Frenzy
-3,Creature,Common,Goblin
-4,Spell,Common,Pandemonium
-5,Creature,Common,Warlock
-6,Spell,Common,Reanimate
-7,Enchantment,Mythic,Instant Flight
-8,Enchantment,Common,Shade
-9,Spell,Common,Burst
-10,Artifact,Legendary,Instant Tome
-11,Enchantment,Mythic,Mighty Flight
-12,Creature,Legendary,Earth Knight Orge of the Swamp
-13,Creature,Legendary,Dark Warrior Kraken of the Frozen Castle
-14,Creature,Common,Spider
-15,Creature,Rare,Aura Rogue Griffin
-16,Enchantment,Common,Lethargy
-17,Artifact,Rare,Necro Divine Robe
-18,Enchantment,Common,Flight
-19,Enchantment,Common,Shield
-20,Enchantment,Mythic,Extreme Flight
-21,Creature,Rare,Death King Minotaur
-22,Spell,Common,Rage
-23,Creature,Common,Orc
-24,Creature,Common,Magi
-25,Creature,Common,Goblin
-26,Enchantment,Legendary,Clever Lethargy
-27,Enchantment,Common,Flight
-28,Creature,Common,Dwarf
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Enchantment,Rare,Hateful Age
-32,Spell,Mythic,Dire Frenzy
-33,Creature,Common,Dwarf
-34,Creature,Common,Paladin
-35,Spell,Rare,Frigid Heal
-36,Enchantment,Common,Flight
-37,Enchantment,Rare,Hateful Blight
-38,Creature,Rare,Death Rogue Skin-Walker
-39,Enchantment,Common,Shade
-40,Enchantment,Rare,Nature Shrink
-41,Spell,Common,Frost
-42,Creature,Common,Paladin
-43,Creature,Rare,Dark Rogue Skin-Walker
-44,Artifact,Common,Bow
+==================,DECK,6635
+0,Creature,Eagle
+1,Spell,Maelstrom
+2,Spell,Cataclysmic Burn
+3,Creature,Skin-Walker
+4,Spell,Burst
+5,Creature,Berserker
+6,Spell,Stun
+7,Enchantment,Clever Hateful Lethargy
+8,Enchantment,Shield
+9,Spell,Vortex
+10,Artifact,Dire Necro Tome
+11,Enchantment,Potent Lunar Shrink
+12,Creature,Earth Knight Elf of the Swamp
+13,Creature,Dark Warrior Ogre of the Frozen Castle
+14,Creature,Paladin
+15,Creature,Aura Rogue Griffin
+16,Enchantment,Lethargy
+17,Artifact,Corpse Divine Robe
+18,Enchantment,Strength
+19,Enchantment,Flight
+20,Enchantment,Zealous Lunar Alacrity
+21,Creature,Death King Cyclops
+22,Spell,Burst
+23,Creature,Spider
+24,Creature,Fairy
+25,Creature,Skin-Walker
+26,Enchantment,Dire Grim Shade
+27,Enchantment,Shade
+28,Creature,Magi
+29,Creature,Wolf
+30,Creature,Eagle
+31,Enchantment,Gloom Firebreath
+32,Spell,Irate Victory Freeze
+33,Creature,Magi
+34,Creature,Troll
+35,Spell,Frigid Pandemonium
+36,Enchantment,Alacrity
+37,Enchantment,Cataclysmic Shrink
+38,Creature,Death Rogue Orc
+39,Enchantment,Agony
+40,Enchantment,Necro Agony
+41,Spell,Gale
+42,Creature,Troll
+43,Creature,Dark Rogue Orc
+44,Artifact,Bow

@@ -1,46 +1,46 @@
-==================,DECK,4362,Light
-0,Creature,Common,Warlock
-1,Creature,Common,Goblin
-2,Spell,Rare,Forged Gravitation
-3,Spell,Rare,Grim Gravitation
-4,Creature,Common,Orc
-5,Creature,Common,Spider
-6,Spell,Legendary,Angry Vortex
-7,Artifact,Common,Tome
-8,Spell,Common,Assault
-9,Creature,Rare,Frozen Thief Skin-Walker
-10,Artifact,Rare,Forged Helm
-11,Creature,Common,Orc
-12,Spell,Common,Gale
-13,Creature,Common,Warlock
-14,Spell,Common,Stun
-15,Creature,Common,Warlock
-16,Artifact,Rare,Dark Sword
-17,Creature,Common,Dwarf
-18,Creature,Legendary,Death Merchant Orge of the Low Hills
-19,Enchantment,Rare,Lunar Shrink
-20,Spell,Rare,Life Pandemonium
-21,Creature,Common,Dwarf
-22,Spell,Legendary,Instant Frenzy
-23,Creature,Common,Warlock
-24,Enchantment,Rare,Life Drain
-25,Enchantment,Common,Invert
-26,Creature,Common,Paladin
-27,Artifact,Common,Crown
-28,Spell,Rare,Nature Hypnosis
-29,Spell,Rare,Gloom Vortex
-30,Creature,Rare,Snow Rogue Berserker
-31,Creature,Legendary,Frozen Queen Cyclops of the Magical Forest
-32,Creature,Rare,Death Warrior Griffin
-33,Spell,Common,Gale
-34,Enchantment,Common,Deathgrip
-35,Creature,Legendary,Dark Queen Orge of the Low Hills
-36,Enchantment,Common,Invert
-37,Artifact,Legendary,Intense Scepter
-38,Creature,Rare,Light Rogue Skin-Walker
-39,Artifact,Common,Tome
-40,Creature,Rare,Frozen Thief Hydra
-41,Creature,Legendary,Death Merchant Orge of the Arctic Blizzards
-42,Creature,Common,Wolf
-43,Enchantment,Common,Blight
-44,Spell,Rare,Grim Assault
+==================,DECK,4362
+0,Creature,Berserker
+1,Creature,Skin-Walker
+2,Spell,Miracle Gravitation
+3,Spell,Apocalypse Gravitation
+4,Creature,Spider
+5,Creature,Paladin
+6,Spell,Instant Miracle Stun
+7,Artifact,Tome
+8,Spell,Freeze
+9,Creature,Frozen Thief Orc
+10,Artifact,Lunar Helm
+11,Creature,Spider
+12,Spell,Fury
+13,Creature,Berserker
+14,Spell,Fireball
+15,Creature,Berserker
+16,Artifact,Gloom Sword
+17,Creature,Magi
+18,Creature,Death Merchant Elf of the Low Hills
+19,Enchantment,Chimeric Firebreath
+20,Spell,Life Wall
+21,Creature,Magi
+22,Spell,Ardent Solar Burst
+23,Creature,Berserker
+24,Enchantment,Apocalypse Shade
+25,Enchantment,Invert
+26,Creature,Troll
+27,Artifact,Crown
+28,Spell,Forged Rage
+29,Spell,Cataclysmic Pandemonium
+30,Creature,Snow Rogue Goblin
+31,Creature,Frozen Queen Giant of the Magical Forest
+32,Creature,Death Warrior Griffin
+33,Spell,Burst
+34,Enchantment,Invert
+35,Creature,Dark Queen Elf of the Low Hills
+36,Enchantment,Shade
+37,Artifact,Instant Necro Scepter
+38,Creature,Light Rogue Orc
+39,Artifact,Tome
+40,Creature,Frozen Thief Hydra
+41,Creature,Death Merchant Elf of the Arctic Blizzards
+42,Creature,Wolf
+43,Enchantment,Flight
+44,Spell,Victory Revive

@@ -1,46 +1,46 @@
-==================,DECK,7002,Medium
-0,Enchantment,Common,Shade
-1,Creature,Common,Magi
-2,Creature,Rare,Earth Undead Skin-Walker
-3,Creature,Common,Elf
-4,Creature,Mythic,Dark Nameless Dragon of Illusion
-5,Spell,Common,Infuriate
-6,Enchantment,Common,Deathgrip
-7,Creature,Common,Ghoul
-8,Creature,Common,Dwarf
-9,Spell,Mythic,Mighty Sorrow
-10,Creature,Rare,Light Assassin Fairy
-11,Creature,Rare,Light Assassin Hydra
-12,Enchantment,Rare,Hateful Deathgrip
-13,Creature,Common,Elf
-14,Creature,Common,Orc
-15,Artifact,Legendary,Angry Belt
-16,Creature,Common,Spider
-17,Enchantment,Common,Lethargy
-18,Spell,Common,Rage
-19,Creature,Common,Paladin
-20,Creature,Rare,Aura Undead Hydra
-21,Creature,Rare,Aura Lord Minotaur
-22,Creature,Common,Dwarf
-23,Creature,Common,Paladin
-24,Spell,Rare,Life Sorrow
-25,Artifact,Rare,Corpse Amulet
-26,Creature,Rare,Snow Knight Hydra
-27,Creature,Common,Warlock
-28,Spell,Rare,Nature Sorrow
-29,Spell,Common,Invisibility
-30,Spell,Common,Lightning
-31,Spell,Mythic,Urgent Assault
-32,Creature,Common,Orc
-33,Creature,Common,Warlock
-34,Enchantment,Common,Blight
-35,Spell,Common,Fury
-36,Spell,Common,Stun
-37,Enchantment,Common,Strength
-38,Creature,Common,Dwarf
-39,Creature,Rare,Frozen Knight Griffin
-40,Artifact,Common,Boots
-41,Creature,Mythic,Dark Ancient Demon of Illusion
-42,Spell,Common,Revive
-43,Creature,Common,Ghoul
-44,Creature,Mythic,Frozen Ancient Demon of the Void
+==================,DECK,7002
+0,Enchantment,Lethargy
+1,Creature,Fairy
+2,Creature,Earth Undead Orc
+3,Creature,Warlock
+4,Creature,Dark Nameless Dragon of Illusion
+5,Spell,Rage
+6,Enchantment,Invert
+7,Creature,Ghoul
+8,Creature,Magi
+9,Spell,Empyrean Chimeric Stun
+10,Creature,Light Assassin Kraken
+11,Creature,Light Assassin Hydra
+12,Enchantment,Sorrow Shrink
+13,Creature,Warlock
+14,Creature,Spider
+15,Artifact,Dire Gloom Belt
+16,Creature,Paladin
+17,Enchantment,Deathgrip
+18,Spell,Tempest
+19,Creature,Troll
+20,Creature,Aura Undead Hydra
+21,Creature,Aura Lord Cyclops
+22,Creature,Magi
+23,Creature,Troll
+24,Spell,Nimble Heal
+25,Artifact,Forged Amulet
+26,Creature,Snow Knight Hydra
+27,Creature,Berserker
+28,Spell,Forged Freeze
+29,Spell,Assault
+30,Spell,Infuriate
+31,Spell,Ardent Corpse Fireball
+32,Creature,Spider
+33,Creature,Berserker
+34,Enchantment,Haste
+35,Spell,Stricken
+36,Spell,Burn
+37,Enchantment,Invert
+38,Creature,Magi
+39,Creature,Frozen Knight Griffin
+40,Artifact,Boots
+41,Creature,Dark Ancient Demon of Illusion
+42,Spell,Frenzy
+43,Creature,Ghoul
+44,Creature,Frozen Ancient Demon of the Void

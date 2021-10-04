@@ -1,46 +1,46 @@
-==================,DECK,6872,Light
-0,Creature,Common,Elf
-1,Enchantment,Rare,Life Deathgrip
-2,Creature,Rare,Snow Thief Berserker
-3,Creature,Rare,Death King Minotaur
-4,Spell,Rare,Solar Torment
-5,Enchantment,Common,Agony
-6,Spell,Common,Revive
-7,Creature,Common,Ghoul
-8,Creature,Rare,Earth Lord Berserker
-9,Enchantment,Common,Shrink
-10,Enchantment,Common,Shade
-11,Enchantment,Mythic,Clever Agony
-12,Enchantment,Common,Strength
-13,Creature,Common,Ghoul
-14,Creature,Legendary,Aura Monk Kraken of the West
-15,Enchantment,Common,Alacrity
-16,Enchantment,Common,Shade
-17,Creature,Legendary,Death Priest Giant of the Golden Palace
-18,Spell,Common,Hypnosis
-19,Enchantment,Common,Agony
-20,Enchantment,Common,Lethargy
-21,Enchantment,Common,Lethargy
-22,Creature,Common,Paladin
-23,Spell,Common,Revive
-24,Creature,Common,Ghoul
-25,Creature,Rare,Snow King Berserker
-26,Spell,Common,Heal
-27,Creature,Common,Eagle
-28,Creature,Common,Spider
-29,Spell,Common,Lightning
-30,Enchantment,Common,Shield
-31,Creature,Legendary,Snow Assassin Kraken of the Haven
-32,Artifact,Legendary,Extreme Ring
-33,Creature,Legendary,Light Rogue Oni of the Eternal Land
-34,Creature,Common,Warlock
-35,Creature,Common,Eagle
-36,Artifact,Common,Ghost Wand
-37,Enchantment,Common,Alacrity
-38,Spell,Rare,Dark Frenzy
-39,Enchantment,Common,Drain
-40,Artifact,Common,Gauntlet
-41,Spell,Common,Wall
-42,Creature,Common,Orc
-43,Creature,Common,Goblin
-44,Creature,Common,Orc
+==================,DECK,6872
+0,Creature,Warlock
+1,Enchantment,Oblivion Drain
+2,Creature,Snow Thief Goblin
+3,Creature,Death King Cyclops
+4,Spell,Nature Gravitation
+5,Enchantment,Lethargy
+6,Spell,Stricken
+7,Creature,Ghoul
+8,Creature,Earth Lord Goblin
+9,Enchantment,Agony
+10,Enchantment,Firebreath
+11,Enchantment,Urgent Life Invert
+12,Enchantment,Deathgrip
+13,Creature,Ghoul
+14,Creature,Aura Monk Ogre of the West
+15,Enchantment,Firebreath
+16,Enchantment,Invert
+17,Creature,Death Priest Dwarf of the Golden Palace
+18,Spell,Freeze
+19,Enchantment,Alacrity
+20,Enchantment,Drain
+21,Enchantment,Flight
+22,Creature,Troll
+23,Spell,Fury
+24,Creature,Ghoul
+25,Creature,Snow King Goblin
+26,Spell,Hypnosis
+27,Creature,Eagle
+28,Creature,Paladin
+29,Spell,Pandemonium
+30,Enchantment,Alacrity
+31,Creature,Snow Assassin Ogre of the Haven
+32,Artifact,Potent Dark Ring
+33,Creature,Light Rogue Oni of the Eternal Land
+34,Creature,Berserker
+35,Creature,Eagle
+36,Artifact,Ghost Wand
+37,Enchantment,Flight
+38,Spell,Dark Stun
+39,Enchantment,Firebreath
+40,Artifact,Gauntlet
+41,Spell,Freeze
+42,Creature,Spider
+43,Creature,Skin-Walker
+44,Creature,Spider

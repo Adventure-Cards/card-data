@@ -1,46 +1,46 @@
-==================,DECK,5567,Light
-0,Artifact,Common,Bow
-1,Spell,Common,Burn
-2,Creature,Rare,Aura Lord Hydra
-3,Artifact,Common,Sigil
-4,Creature,Rare,Light Priest Fairy
-5,Spell,Rare,Oblivion Torment
-6,Creature,Common,Elf
-7,Creature,Common,Goblin
-8,Enchantment,Mythic,Dire Deathgrip
-9,Creature,Common,Ghoul
-10,Spell,Legendary,Angry Assault
-11,Creature,Common,Dwarf
-12,Creature,Rare,Aura Assassin Minotaur
-13,Enchantment,Common,Shield
-14,Spell,Common,Fury
-15,Spell,Common,Frenzy
-16,Spell,Rare,Dark Assault
-17,Enchantment,Common,Deathgrip
-18,Enchantment,Rare,Dark Alacrity
-19,Enchantment,Common,Age
-20,Enchantment,Mythic,Dire Invert
-21,Artifact,Rare,Nature Sword
-22,Creature,Common,Ghoul
-23,Artifact,Rare,Gloom Sword
-24,Artifact,Common,Helmet
-25,Enchantment,Common,Invert
-26,Spell,Common,Maelstrom
-27,Creature,Common,Ghoul
-28,Spell,Common,Reanimate
-29,Enchantment,Legendary,Mighty Age
-30,Creature,Common,Wolf
-31,Creature,Common,Spider
-32,Creature,Common,Elf
-33,Spell,Rare,Nimble Frost
-34,Creature,Common,Magi
-35,Creature,Rare,Light Rogue Hydra
-36,Creature,Common,Eagle
-37,Creature,Common,Warlock
-38,Spell,Rare,Miracle Stricken
-39,Creature,Common,Wolf
-40,Creature,Mythic,Aura Grand Demon of the Light
-41,Creature,Common,Wolf
-42,Enchantment,Common,Deathgrip
-43,Creature,Rare,Earth Fighter Berserker
-44,Creature,Rare,Frozen Undead Skin-Walker
+==================,DECK,5567
+0,Artifact,Bow
+1,Spell,Heal
+2,Creature,Aura Lord Hydra
+3,Artifact,Sigil
+4,Creature,Light Priest Kraken
+5,Spell,Victory Stun
+6,Creature,Warlock
+7,Creature,Skin-Walker
+8,Enchantment,Clever Oblivion Haste
+9,Creature,Ghoul
+10,Spell,Urgent Lunar Invisibility
+11,Creature,Magi
+12,Creature,Aura Assassin Cyclops
+13,Enchantment,Strength
+14,Spell,Fireball
+15,Spell,Fury
+16,Spell,Cataclysmic Rage
+17,Enchantment,Shade
+18,Enchantment,Dark Alacrity
+19,Enchantment,Firebreath
+20,Enchantment,Instant Oblivion Drain
+21,Artifact,Forged Sword
+22,Creature,Ghoul
+23,Artifact,Miracle Sword
+24,Artifact,Helmet
+25,Enchantment,Age
+26,Spell,Assault
+27,Creature,Ghoul
+28,Spell,Sorrow
+29,Enchantment,Zealous Gloom Alacrity
+30,Creature,Wolf
+31,Creature,Paladin
+32,Creature,Warlock
+33,Spell,Shimmering Stricken
+34,Creature,Fairy
+35,Creature,Light Rogue Hydra
+36,Creature,Eagle
+37,Creature,Berserker
+38,Spell,Frigid Fire
+39,Creature,Wolf
+40,Creature,Aura Grand Demon of the Light
+41,Creature,Wolf
+42,Enchantment,Invert
+43,Creature,Earth Fighter Goblin
+44,Creature,Frozen Undead Orc

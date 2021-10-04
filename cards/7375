@@ -1,46 +1,46 @@
-==================,DECK,7375,Light
-0,Artifact,Common,Shield
-1,Creature,Common,Warlock
-2,Creature,Common,Goblin
-3,Enchantment,Rare,Corpse Lethargy
-4,Creature,Common,Paladin
-5,Spell,Common,Frenzy
-6,Spell,Rare,Shimmering Infuriate
-7,Spell,Common,Gale
-8,Creature,Common,Dwarf
-9,Creature,Common,Ghoul
-10,Enchantment,Common,Deathgrip
-11,Spell,Common,Wall
-12,Enchantment,Legendary,Intense Age
-13,Artifact,Common,Sigil
-14,Spell,Common,Lightning
-15,Artifact,Common,Sword
-16,Spell,Rare,Solar Rage
-17,Creature,Common,Spider
-18,Creature,Common,Spider
-19,Creature,Rare,Death Assassin Griffin
-20,Creature,Rare,Dark Monk Berserker
-21,Spell,Common,Pandemonium
-22,Enchantment,Rare,Solar Shield
-23,Enchantment,Legendary,Angry Shade
-24,Creature,Common,Dwarf
-25,Spell,Common,Hypnosis
-26,Spell,Common,Lightning
-27,Enchantment,Common,Alacrity
-28,Enchantment,Common,Drain
-29,Spell,Rare,Shimmering Stricken
-30,Creature,Rare,Dark King Skin-Walker
-31,Spell,Legendary,Instant Rage
-32,Spell,Common,Freeze
-33,Enchantment,Common,Shade
-34,Spell,Rare,Nimble Assault
-35,Creature,Common,Warlock
-36,Creature,Legendary,Frozen Knight Giant of the Low Hills
-37,Artifact,Common,Scythe
-38,Creature,Common,Elf
-39,Spell,Common,Hypnosis
-40,Enchantment,Common,Invert
-41,Creature,Common,Goblin
-42,Artifact,Common,Potion
-43,Creature,Common,Eagle
-44,Spell,Common,Assault
+==================,DECK,7375
+0,Artifact,Shield
+1,Creature,Berserker
+2,Creature,Skin-Walker
+3,Enchantment,Hateful Lethargy
+4,Creature,Troll
+5,Spell,Frenzy
+6,Spell,Nature Frost
+7,Spell,Stun
+8,Creature,Magi
+9,Creature,Ghoul
+10,Enchantment,Deathgrip
+11,Spell,Tempest
+12,Enchantment,Empyrean Nature Age
+13,Artifact,Sigil
+14,Spell,Pandemonium
+15,Artifact,Sword
+16,Spell,Necro Maelstrom
+17,Creature,Paladin
+18,Creature,Paladin
+19,Creature,Death Assassin Griffin
+20,Creature,Dark Monk Goblin
+21,Spell,Gravitation
+22,Enchantment,Nature Agony
+23,Enchantment,Irate Chimeric Alacrity
+24,Creature,Magi
+25,Spell,Sorrow
+26,Spell,Lightning
+27,Enchantment,Invert
+28,Enchantment,Flight
+29,Spell,Forged Tempest
+30,Creature,Dark King Orc
+31,Spell,Irate Corpse Hypnosis
+32,Spell,Burst
+33,Enchantment,Strength
+34,Spell,Solar Vortex
+35,Creature,Berserker
+36,Creature,Frozen Knight Dwarf of the Low Hills
+37,Artifact,Scythe
+38,Creature,Warlock
+39,Spell,Burn
+40,Enchantment,Firebreath
+41,Creature,Skin-Walker
+42,Artifact,Potion
+43,Creature,Eagle
+44,Spell,Wall

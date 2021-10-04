@@ -1,46 +1,46 @@
-==================,DECK,4925,Light
-0,Spell,Rare,Solar Lightning
-1,Creature,Common,Paladin
-2,Creature,Common,Dwarf
-3,Creature,Common,Eagle
-4,Enchantment,Mythic,Intense Strength
-5,Creature,Common,Elf
-6,Spell,Rare,Miracle Fury
-7,Enchantment,Mythic,Mighty Agony
-8,Enchantment,Rare,Life Flight
-9,Spell,Rare,Apocalypse Hypnosis
-10,Creature,Common,Dwarf
-11,Creature,Common,Dwarf
-12,Creature,Common,Dwarf
-13,Creature,Common,Paladin
-14,Creature,Common,Orc
-15,Enchantment,Common,Age
-16,Artifact,Common,Greaves
-17,Creature,Mythic,Frozen Time Dragon of the Void
-18,Creature,Common,Magi
-19,Spell,Rare,Gloom Rage
-20,Creature,Common,Paladin
-21,Artifact,Legendary,Potent Bracers
-22,Creature,Common,Eagle
-23,Enchantment,Common,Shield
-24,Creature,Common,Paladin
-25,Artifact,Rare,Corpse Cloak
-26,Creature,Rare,Frozen Monk Berserker
-27,Creature,Common,Magi
-28,Enchantment,Rare,Lunar Flight
-29,Creature,Common,Wolf
-30,Creature,Common,Eagle
-31,Creature,Common,Elf
-32,Creature,Rare,Earth Knight Hydra
-33,Creature,Common,Wolf
-34,Spell,Rare,Cataclysmic Infuriate
-35,Creature,Common,Elf
-36,Creature,Common,Orc
-37,Creature,Common,Paladin
-38,Creature,Common,Paladin
-39,Creature,Legendary,Dark Rogue Giant of the Polar Woods
-40,Creature,Common,Magi
-41,Creature,Common,Paladin
-42,Creature,Common,Paladin
-43,Creature,Common,Warlock
-44,Creature,Common,Orc
+==================,DECK,4925
+0,Spell,Solar Heal
+1,Creature,Troll
+2,Creature,Magi
+3,Creature,Eagle
+4,Enchantment,Urgent Solar Agony
+5,Creature,Warlock
+6,Spell,Grim Frenzy
+7,Enchantment,Urgent Miracle Flight
+8,Enchantment,Grim Drain
+9,Spell,Nimble Heal
+10,Creature,Magi
+11,Creature,Magi
+12,Creature,Magi
+13,Creature,Troll
+14,Creature,Spider
+15,Enchantment,Age
+16,Artifact,Greaves
+17,Creature,Frozen Time Dragon of the Void
+18,Creature,Fairy
+19,Spell,Gloom Frenzy
+20,Creature,Troll
+21,Artifact,Irate Victory Bracers
+22,Creature,Eagle
+23,Enchantment,Strength
+24,Creature,Troll
+25,Artifact,Hateful Cloak
+26,Creature,Frozen Monk Goblin
+27,Creature,Fairy
+28,Enchantment,Lunar Shrink
+29,Creature,Wolf
+30,Creature,Eagle
+31,Creature,Warlock
+32,Creature,Earth Knight Hydra
+33,Creature,Wolf
+34,Spell,Dark Revive
+35,Creature,Warlock
+36,Creature,Spider
+37,Creature,Troll
+38,Creature,Troll
+39,Creature,Dark Rogue Dwarf of the Polar Woods
+40,Creature,Fairy
+41,Creature,Troll
+42,Creature,Troll
+43,Creature,Berserker
+44,Creature,Spider

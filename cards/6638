@@ -1,46 +1,46 @@
-==================,DECK,6638,Light
-0,Artifact,Common,Greaves
-1,Enchantment,Common,Age
-2,Spell,Rare,Frigid Frenzy
-3,Creature,Common,Orc
-4,Spell,Common,Stun
-5,Creature,Common,Eagle
-6,Creature,Common,Paladin
-7,Spell,Rare,Dark Gravitation
-8,Enchantment,Common,Shade
-9,Artifact,Common,Helm
-10,Spell,Common,Gravitation
-11,Creature,Common,Paladin
-12,Artifact,Common,Potion
-13,Enchantment,Rare,Frigid Alacrity
-14,Enchantment,Common,Invert
-15,Enchantment,Common,Blight
-16,Enchantment,Common,Invert
-17,Creature,Common,Magi
-18,Creature,Common,Paladin
-19,Creature,Rare,Dark King Hydra
-20,Enchantment,Common,Shield
-21,Creature,Common,Ghoul
-22,Spell,Rare,Shimmering Sorrow
-23,Creature,Legendary,Aura Lord Giant of the Eternal Land
-24,Creature,Rare,Aura King Fairy
-25,Creature,Common,Warlock
-26,Enchantment,Common,Strength
-27,Spell,Legendary,Intense Frost
-28,Creature,Legendary,Dark King Oni of the Polar Woods
-29,Spell,Rare,Lunar Fury
-30,Spell,Common,Revive
-31,Creature,Rare,Light Priest Griffin
-32,Creature,Legendary,Snow Warrior Kraken of the Plains
-33,Spell,Rare,Hateful Maelstrom
-34,Spell,Rare,Gloom Torment
-35,Creature,Mythic,Earth Grand Wizard of the Shadows
-36,Enchantment,Common,Shrink
-37,Spell,Common,Heal
-38,Creature,Common,Magi
-39,Spell,Common,Gale
-40,Creature,Common,Warlock
-41,Creature,Common,Eagle
-42,Creature,Rare,Earth Lord Griffin
-43,Creature,Rare,Aura Rogue Minotaur
-44,Creature,Common,Dwarf
+==================,DECK,6638
+0,Artifact,Greaves
+1,Enchantment,Invert
+2,Spell,Frigid Rage
+3,Creature,Spider
+4,Spell,Tempest
+5,Creature,Eagle
+6,Creature,Troll
+7,Spell,Gloom Wall
+8,Enchantment,Invert
+9,Artifact,Helm
+10,Spell,Tempest
+11,Creature,Troll
+12,Artifact,Potion
+13,Enchantment,Apocalypse Blight
+14,Enchantment,Invert
+15,Enchantment,Age
+16,Enchantment,Haste
+17,Creature,Fairy
+18,Creature,Troll
+19,Creature,Dark King Hydra
+20,Enchantment,Age
+21,Creature,Ghoul
+22,Spell,Corpse Stricken
+23,Creature,Aura Lord Dwarf of the Eternal Land
+24,Creature,Aura King Kraken
+25,Creature,Berserker
+26,Enchantment,Invert
+27,Spell,Irate Shimmering Burst
+28,Creature,Dark King Oni of the Polar Woods
+29,Spell,Lunar Burst
+30,Spell,Reanimate
+31,Creature,Light Priest Griffin
+32,Creature,Snow Warrior Ogre of the Plains
+33,Spell,Dark Assault
+34,Spell,Sorrow Freeze
+35,Creature,Earth Grand Wizard of the Shadows
+36,Enchantment,Lethargy
+37,Spell,Burn
+38,Creature,Fairy
+39,Spell,Tempest
+40,Creature,Berserker
+41,Creature,Eagle
+42,Creature,Earth Lord Griffin
+43,Creature,Aura Rogue Cyclops
+44,Creature,Magi

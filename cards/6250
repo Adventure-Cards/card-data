@@ -1,46 +1,46 @@
-==================,DECK,6250,Medium
-0,Artifact,Common,Scythe
-1,Creature,Common,Orc
-2,Creature,Mythic,Death Undead Phoenix of the Dead
-3,Creature,Common,Spider
-4,Spell,Common,Frost
-5,Enchantment,Common,Strength
-6,Enchantment,Common,Age
-7,Creature,Common,Eagle
-8,Enchantment,Rare,Nimble Lethargy
-9,Creature,Common,Dwarf
-10,Enchantment,Common,Shade
-11,Creature,Common,Spider
-12,Creature,Rare,Dark Fighter Minotaur
-13,Creature,Common,Wolf
-14,Creature,Common,Eagle
-15,Creature,Legendary,Light Warrior Orge of the Arctic Blizzards
-16,Creature,Rare,Death Assassin Griffin
-17,Creature,Common,Spider
-18,Creature,Common,Orc
-19,Creature,Legendary,Frozen Thief Oni of the Haven
-20,Spell,Common,Stricken
-21,Creature,Common,Ghoul
-22,Artifact,Common,Amulet
-23,Creature,Common,Warlock
-24,Spell,Legendary,Potent Hypnosis
-25,Artifact,Rare,Nimble Sword
-26,Enchantment,Common,Agony
-27,Spell,Common,Reanimate
-28,Creature,Common,Dwarf
-29,Creature,Rare,Frozen Merchant Hydra
-30,Enchantment,Common,Flight
-31,Creature,Rare,Death Undead Skin-Walker
-32,Creature,Common,Warlock
-33,Creature,Common,Spider
-34,Spell,Mythic,Angry Maelstrom
-35,Creature,Common,Orc
-36,Creature,Common,Eagle
-37,Spell,Common,Fury
-38,Spell,Mythic,Extreme Wall
-39,Creature,Rare,Snow Priest Skin-Walker
-40,Spell,Common,Freeze
-41,Artifact,Legendary,Potent Sword
-42,Enchantment,Legendary,Dire Age
-43,Enchantment,Common,Drain
-44,Spell,Rare,Shimmering Gale
+==================,DECK,6250
+0,Artifact,Scythe
+1,Creature,Spider
+2,Creature,Death Undead Phoenix of the Dead
+3,Creature,Paladin
+4,Spell,Wall
+5,Enchantment,Agony
+6,Enchantment,Agony
+7,Creature,Eagle
+8,Enchantment,Hateful Age
+9,Creature,Magi
+10,Enchantment,Blight
+11,Creature,Paladin
+12,Creature,Dark Fighter Cyclops
+13,Creature,Wolf
+14,Creature,Eagle
+15,Creature,Light Warrior Elf of the Arctic Blizzards
+16,Creature,Death Assassin Griffin
+17,Creature,Paladin
+18,Creature,Spider
+19,Creature,Frozen Thief Oni of the Haven
+20,Spell,Burn
+21,Creature,Ghoul
+22,Artifact,Amulet
+23,Creature,Berserker
+24,Spell,Mighty Oblivion Sorrow
+25,Artifact,Hateful Sword
+26,Enchantment,Shield
+27,Spell,Heal
+28,Creature,Magi
+29,Creature,Frozen Merchant Hydra
+30,Enchantment,Alacrity
+31,Creature,Death Undead Orc
+32,Creature,Berserker
+33,Creature,Paladin
+34,Spell,Clever Cataclysmic Gravitation
+35,Creature,Spider
+36,Creature,Eagle
+37,Spell,Invisibility
+38,Spell,Urgent Chimeric Maelstrom
+39,Creature,Snow Priest Orc
+40,Spell,Infuriate
+41,Artifact,Potent Nimble Sword
+42,Enchantment,Mighty Victory Invert
+43,Enchantment,Flight
+44,Spell,Necro Reanimate

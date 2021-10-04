@@ -1,46 +1,46 @@
-==================,DECK,7675,Light
-0,Creature,Common,Wolf
-1,Spell,Common,Stricken
-2,Creature,Rare,Light Knight Skin-Walker
-3,Spell,Common,Freeze
-4,Enchantment,Common,Invert
-5,Creature,Rare,Light Thief Minotaur
-6,Creature,Legendary,Light Lord Orge of the Arctic Blizzards
-7,Creature,Common,Magi
-8,Enchantment,Common,Shield
-9,Creature,Legendary,Aura Merchant Giant of the Mountains
-10,Spell,Common,Burst
-11,Spell,Common,Infuriate
-12,Spell,Common,Assault
-13,Spell,Legendary,Angry Burn
-14,Creature,Common,Spider
-15,Spell,Rare,Dark Heal
-16,Creature,Common,Spider
-17,Spell,Common,Reanimate
-18,Enchantment,Common,Shade
-19,Creature,Common,Goblin
-20,Creature,Common,Elf
-21,Enchantment,Rare,Forged Invert
-22,Enchantment,Common,Alacrity
-23,Creature,Common,Eagle
-24,Creature,Common,Orc
-25,Spell,Legendary,Instant Stricken
-26,Creature,Rare,Dark Merchant Fairy
-27,Creature,Rare,Death Thief Berserker
-28,Enchantment,Rare,Life Drain
-29,Spell,Common,Revive
-30,Artifact,Common,Sword
-31,Creature,Common,Dwarf
-32,Creature,Rare,Frozen Undead Fairy
-33,Creature,Common,Magi
-34,Creature,Common,Magi
-35,Creature,Legendary,Frozen Assassin Cyclops of the Mountains
-36,Creature,Common,Dwarf
-37,Spell,Common,Ice
-38,Spell,Common,Frost
-39,Creature,Rare,Death Rogue Skin-Walker
-40,Creature,Rare,Snow King Skin-Walker
-41,Creature,Rare,Earth Knight Fairy
-42,Creature,Common,Dwarf
-43,Enchantment,Common,Shrink
-44,Creature,Rare,Death Thief Fairy
+==================,DECK,7675
+0,Creature,Wolf
+1,Spell,Wall
+2,Creature,Light Knight Orc
+3,Spell,Burn
+4,Enchantment,Agony
+5,Creature,Light Thief Cyclops
+6,Creature,Light Lord Elf of the Arctic Blizzards
+7,Creature,Fairy
+8,Enchantment,Lethargy
+9,Creature,Aura Merchant Dwarf of the Mountains
+10,Spell,Burn
+11,Spell,Torment
+12,Spell,Stun
+13,Spell,Mighty Chimeric Hypnosis
+14,Creature,Paladin
+15,Spell,Chimeric Tempest
+16,Creature,Paladin
+17,Spell,Torment
+18,Enchantment,Flight
+19,Creature,Skin-Walker
+20,Creature,Warlock
+21,Enchantment,Sorrow Firebreath
+22,Enchantment,Shrink
+23,Creature,Eagle
+24,Creature,Spider
+25,Spell,Mighty Corpse Fire
+26,Creature,Dark Merchant Kraken
+27,Creature,Death Thief Goblin
+28,Enchantment,Apocalypse Invert
+29,Spell,Lightning
+30,Artifact,Sword
+31,Creature,Magi
+32,Creature,Frozen Undead Kraken
+33,Creature,Fairy
+34,Creature,Fairy
+35,Creature,Frozen Assassin Giant of the Mountains
+36,Creature,Magi
+37,Spell,Reanimate
+38,Spell,Revive
+39,Creature,Death Rogue Orc
+40,Creature,Snow King Orc
+41,Creature,Earth Knight Kraken
+42,Creature,Magi
+43,Enchantment,Shrink
+44,Creature,Death Thief Kraken

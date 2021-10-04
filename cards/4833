@@ -1,46 +1,46 @@
-==================,DECK,4833,Medium
-0,Creature,Common,Goblin
-1,Creature,Common,Paladin
-2,Spell,Mythic,Intense Torment
-3,Enchantment,Legendary,Mighty Invert
-4,Spell,Rare,Dark Freeze
-5,Creature,Common,Goblin
-6,Creature,Common,Spider
-7,Spell,Legendary,Extreme Frenzy
-8,Artifact,Common,Helmet
-9,Creature,Common,Paladin
-10,Creature,Legendary,Frozen Lord Orge of the Plains
-11,Creature,Common,Orc
-12,Creature,Rare,Frozen Knight Hydra
-13,Creature,Common,Magi
-14,Creature,Common,Ghoul
-15,Creature,Legendary,Frozen Rogue Kraken of the Low Hills
-16,Creature,Mythic,Snow Time Phoenix of Hate
-17,Creature,Common,Goblin
-18,Enchantment,Rare,Frigid Invert
-19,Creature,Common,Ghoul
-20,Creature,Mythic,Death Time Phoenix of the Dead
-21,Creature,Common,Warlock
-22,Creature,Common,Goblin
-23,Spell,Rare,Cataclysmic Pandemonium
-24,Enchantment,Legendary,Dire Age
-25,Creature,Common,Magi
-26,Creature,Common,Wolf
-27,Creature,Common,Spider
-28,Spell,Mythic,Clever Burn
-29,Creature,Common,Warlock
-30,Enchantment,Common,Shade
-31,Creature,Rare,Light Merchant Griffin
-32,Creature,Rare,Aura King Berserker
-33,Creature,Common,Spider
-34,Enchantment,Rare,Dark Lethargy
-35,Enchantment,Common,Shrink
-36,Creature,Common,Goblin
-37,Creature,Common,Elf
-38,Enchantment,Rare,Dark Strength
-39,Artifact,Common,Helmet
-40,Artifact,Common,Belt
-41,Spell,Rare,Life Gale
-42,Creature,Common,Paladin
-43,Creature,Common,Ghoul
-44,Creature,Common,Eagle
+==================,DECK,4833
+0,Creature,Skin-Walker
+1,Creature,Troll
+2,Spell,Irate Hateful Vortex
+3,Enchantment,Urgent Sorrow Flight
+4,Spell,Miracle Revive
+5,Creature,Skin-Walker
+6,Creature,Paladin
+7,Spell,Ardent Gloom Gale
+8,Artifact,Helmet
+9,Creature,Troll
+10,Creature,Frozen Lord Elf of the Plains
+11,Creature,Spider
+12,Creature,Frozen Knight Hydra
+13,Creature,Fairy
+14,Creature,Ghoul
+15,Creature,Frozen Rogue Ogre of the Low Hills
+16,Creature,Snow Time Phoenix of Hate
+17,Creature,Skin-Walker
+18,Enchantment,Oblivion Blight
+19,Creature,Ghoul
+20,Creature,Death Time Phoenix of the Dead
+21,Creature,Berserker
+22,Creature,Skin-Walker
+23,Spell,Cataclysmic Gravitation
+24,Enchantment,Empyrean Victory Shade
+25,Creature,Fairy
+26,Creature,Wolf
+27,Creature,Paladin
+28,Spell,Potent Grim Pandemonium
+29,Creature,Berserker
+30,Enchantment,Agony
+31,Creature,Light Merchant Griffin
+32,Creature,Aura King Goblin
+33,Creature,Paladin
+34,Enchantment,Lunar Shrink
+35,Enchantment,Firebreath
+36,Creature,Skin-Walker
+37,Creature,Warlock
+38,Enchantment,Cataclysmic Flight
+39,Artifact,Helmet
+40,Artifact,Belt
+41,Spell,Grim Gale
+42,Creature,Troll
+43,Creature,Ghoul
+44,Creature,Eagle

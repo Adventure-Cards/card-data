@@ -1,46 +1,46 @@
-==================,DECK,6171,Medium
-0,Enchantment,Common,Invert
-1,Creature,Rare,Death Fighter Hydra
-2,Enchantment,Rare,Shimmering Haste
-3,Spell,Legendary,Potent Freeze
-4,Enchantment,Common,Deathgrip
-5,Spell,Common,Infuriate
-6,Spell,Common,Lightning
-7,Spell,Common,Burst
-8,Enchantment,Mythic,Mighty Shrink
-9,Enchantment,Common,Alacrity
-10,Creature,Rare,Light Knight Hydra
-11,Creature,Common,Ghoul
-12,Creature,Rare,Earth Merchant Hydra
-13,Creature,Common,Wolf
-14,Spell,Common,Pandemonium
-15,Spell,Common,Frost
-16,Spell,Mythic,Dire Torment
-17,Artifact,Common,Scythe
-18,Spell,Common,Frenzy
-19,Enchantment,Legendary,Clever Shade
-20,Creature,Common,Ghoul
-21,Creature,Common,Magi
-22,Creature,Common,Spider
-23,Creature,Rare,Snow Fighter Skin-Walker
-24,Creature,Common,Orc
-25,Creature,Legendary,Death Assassin Cyclops of the Plains
-26,Creature,Rare,Aura Thief Fairy
-27,Creature,Rare,Light Queen Griffin
-28,Creature,Common,Goblin
-29,Creature,Rare,Light King Griffin
-30,Creature,Rare,Death Priest Berserker
-31,Creature,Common,Paladin
-32,Spell,Common,Heal
-33,Creature,Rare,Death Priest Hydra
-34,Spell,Common,Stun
-35,Artifact,Common,Ghost Wand
-36,Creature,Rare,Snow Warrior Fairy
-37,Enchantment,Common,Lethargy
-38,Artifact,Legendary,Instant Bracers
-39,Creature,Rare,Snow Rogue Minotaur
-40,Spell,Rare,Lunar Gale
-41,Creature,Rare,Dark Assassin Hydra
-42,Creature,Legendary,Snow Merchant Oni of the Golden Palace
-43,Enchantment,Mythic,Clever Agony
-44,Creature,Common,Wolf
+==================,DECK,6171
+0,Enchantment,Firebreath
+1,Creature,Death Fighter Hydra
+2,Enchantment,Corpse Age
+3,Spell,Ardent Grim Frost
+4,Enchantment,Lethargy
+5,Spell,Stun
+6,Spell,Maelstrom
+7,Spell,Gravitation
+8,Enchantment,Clever Chimeric Shield
+9,Enchantment,Drain
+10,Creature,Light Knight Hydra
+11,Creature,Ghoul
+12,Creature,Earth Merchant Hydra
+13,Creature,Wolf
+14,Spell,Fireball
+15,Spell,Pandemonium
+16,Spell,Urgent Oblivion Tempest
+17,Artifact,Scythe
+18,Spell,Burn
+19,Enchantment,Irate Frigid Blight
+20,Creature,Ghoul
+21,Creature,Fairy
+22,Creature,Paladin
+23,Creature,Snow Fighter Orc
+24,Creature,Spider
+25,Creature,Death Assassin Giant of the Plains
+26,Creature,Aura Thief Kraken
+27,Creature,Light Queen Griffin
+28,Creature,Skin-Walker
+29,Creature,Light King Griffin
+30,Creature,Death Priest Goblin
+31,Creature,Troll
+32,Spell,Torment
+33,Creature,Death Priest Hydra
+34,Spell,Frenzy
+35,Artifact,Ghost Wand
+36,Creature,Snow Warrior Kraken
+37,Enchantment,Haste
+38,Artifact,Zealous Corpse Bracers
+39,Creature,Snow Rogue Cyclops
+40,Spell,Miracle Stricken
+41,Creature,Dark Assassin Hydra
+42,Creature,Snow Merchant Oni of the Golden Palace
+43,Enchantment,Urgent Life Invert
+44,Creature,Wolf

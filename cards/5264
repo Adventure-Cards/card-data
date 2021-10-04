@@ -1,46 +1,46 @@
-==================,DECK,5264,Medium
-0,Creature,Common,Goblin
-1,Artifact,Rare,Lunar Bow
-2,Spell,Common,Gravitation
-3,Creature,Legendary,Earth Undead Giant of the Haven
-4,Spell,Common,Frenzy
-5,Creature,Legendary,Light Monk Cyclops of the Golden Palace
-6,Spell,Common,Gale
-7,Creature,Legendary,Aura Thief Cyclops of the Polar Woods
-8,Creature,Common,Eagle
-9,Enchantment,Rare,Corpse Lethargy
-10,Enchantment,Common,Strength
-11,Creature,Common,Eagle
-12,Spell,Mythic,Mighty Wall
-13,Creature,Common,Wolf
-14,Artifact,Legendary,Clever Helm
-15,Creature,Common,Elf
-16,Creature,Common,Eagle
-17,Artifact,Rare,Nature Crown
-18,Enchantment,Common,Strength
-19,Enchantment,Legendary,Dire Haste
-20,Spell,Legendary,Dire Ice
-21,Creature,Common,Spider
-22,Enchantment,Common,Lethargy
-23,Enchantment,Legendary,Dire Lethargy
-24,Creature,Common,Spider
-25,Creature,Mythic,Frozen Ancient Wizard of the Void
-26,Spell,Rare,Oblivion Revive
-27,Spell,Rare,Corpse Revive
-28,Creature,Rare,Earth King Fairy
-29,Spell,Rare,Nimble Heal
-30,Spell,Common,Gravitation
-31,Enchantment,Common,Haste
-32,Creature,Common,Ghoul
-33,Artifact,Rare,Oblivion Pendant
-34,Spell,Common,Hypnosis
-35,Spell,Common,Torment
-36,Creature,Common,Ghoul
-37,Enchantment,Common,Shade
-38,Enchantment,Common,Flight
-39,Creature,Common,Magi
-40,Creature,Common,Spider
-41,Creature,Rare,Dark Warrior Fairy
-42,Creature,Common,Warlock
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,5264
+0,Creature,Skin-Walker
+1,Artifact,Dark Bow
+2,Spell,Fury
+3,Creature,Earth Undead Dwarf of the Haven
+4,Spell,Assault
+5,Creature,Light Monk Giant of the Golden Palace
+6,Spell,Lightning
+7,Creature,Aura Thief Giant of the Polar Woods
+8,Creature,Eagle
+9,Enchantment,Hateful Strength
+10,Enchantment,Alacrity
+11,Creature,Eagle
+12,Spell,Instant Chimeric Hypnosis
+13,Creature,Wolf
+14,Artifact,Empyrean Grim Helm
+15,Creature,Warlock
+16,Creature,Eagle
+17,Artifact,Shimmering Crown
+18,Enchantment,Shade
+19,Enchantment,Zealous Life Blight
+20,Spell,Empyrean Victory Wall
+21,Creature,Paladin
+22,Enchantment,Strength
+23,Enchantment,Irate Grim Blight
+24,Creature,Paladin
+25,Creature,Frozen Ancient Wizard of the Void
+26,Spell,Nimble Revive
+27,Spell,Hateful Revive
+28,Creature,Earth King Kraken
+29,Spell,Solar Invisibility
+30,Spell,Frenzy
+31,Enchantment,Shrink
+32,Creature,Ghoul
+33,Artifact,Nimble Pendant
+34,Spell,Frost
+35,Spell,Ice
+36,Creature,Ghoul
+37,Enchantment,Flight
+38,Enchantment,Drain
+39,Creature,Fairy
+40,Creature,Paladin
+41,Creature,Dark Warrior Kraken
+42,Creature,Berserker
+43,Creature,Troll
+44,Creature,Paladin

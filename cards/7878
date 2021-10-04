@@ -1,46 +1,46 @@
-==================,DECK,7878,Light
-0,Creature,Common,Paladin
-1,Creature,Common,Eagle
-2,Enchantment,Common,Agony
-3,Enchantment,Rare,Dark Alacrity
-4,Creature,Common,Elf
-5,Creature,Common,Goblin
-6,Creature,Common,Orc
-7,Creature,Common,Magi
-8,Enchantment,Rare,Solar Shield
-9,Spell,Common,Heal
-10,Creature,Common,Ghoul
-11,Creature,Common,Magi
-12,Creature,Common,Dwarf
-13,Creature,Rare,Snow Knight Berserker
-14,Spell,Common,Reanimate
-15,Enchantment,Rare,Oblivion Agony
-16,Enchantment,Common,Flight
-17,Enchantment,Common,Invert
-18,Creature,Common,Goblin
-19,Spell,Common,Invisibility
-20,Creature,Mythic,Death Ancient Demon of the Dead
-21,Creature,Common,Dwarf
-22,Spell,Common,Rage
-23,Creature,Common,Magi
-24,Creature,Common,Eagle
-25,Creature,Common,Wolf
-26,Spell,Common,Burn
-27,Creature,Common,Goblin
-28,Creature,Common,Orc
-29,Creature,Common,Eagle
-30,Creature,Common,Wolf
-31,Creature,Common,Wolf
-32,Artifact,Legendary,Mighty Pendant
-33,Creature,Common,Ghoul
-34,Artifact,Common,Ring
-35,Creature,Common,Dwarf
-36,Creature,Legendary,Dark Queen Giant of the Eternal Land
-37,Spell,Common,Frost
-38,Spell,Rare,Dark Wall
-39,Creature,Common,Wolf
-40,Spell,Common,Fury
-41,Spell,Common,Sorrow
-42,Creature,Common,Spider
-43,Creature,Common,Paladin
-44,Artifact,Legendary,Angry Ring
+==================,DECK,7878
+0,Creature,Troll
+1,Creature,Eagle
+2,Enchantment,Agony
+3,Enchantment,Dark Shield
+4,Creature,Warlock
+5,Creature,Skin-Walker
+6,Creature,Spider
+7,Creature,Fairy
+8,Enchantment,Nature Strength
+9,Spell,Lightning
+10,Creature,Ghoul
+11,Creature,Fairy
+12,Creature,Magi
+13,Creature,Snow Knight Goblin
+14,Spell,Torment
+15,Enchantment,Life Invert
+16,Enchantment,Flight
+17,Enchantment,Alacrity
+18,Creature,Skin-Walker
+19,Spell,Tempest
+20,Creature,Death Ancient Demon of the Dead
+21,Creature,Magi
+22,Spell,Invisibility
+23,Creature,Fairy
+24,Creature,Eagle
+25,Creature,Wolf
+26,Spell,Fire
+27,Creature,Skin-Walker
+28,Creature,Spider
+29,Creature,Eagle
+30,Creature,Wolf
+31,Creature,Wolf
+32,Artifact,Zealous Sorrow Pendant
+33,Creature,Ghoul
+34,Artifact,Ring
+35,Creature,Magi
+36,Creature,Dark Queen Dwarf of the Eternal Land
+37,Spell,Gravitation
+38,Spell,Sorrow Tempest
+39,Creature,Wolf
+40,Spell,Gale
+41,Spell,Freeze
+42,Creature,Paladin
+43,Creature,Troll
+44,Artifact,Potent Cataclysmic Ring

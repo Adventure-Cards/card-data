@@ -1,46 +1,46 @@
-==================,DECK,7087,Light
-0,Spell,Rare,Hateful Fury
-1,Spell,Legendary,Extreme Stricken
-2,Artifact,Common,Greaves
-3,Enchantment,Mythic,Intense Agony
-4,Creature,Common,Warlock
-5,Creature,Common,Wolf
-6,Creature,Common,Eagle
-7,Enchantment,Common,Drain
-8,Creature,Common,Wolf
-9,Artifact,Common,Sigil
-10,Creature,Common,Spider
-11,Creature,Common,Paladin
-12,Creature,Mythic,Earth Undead Dragon of the Shadows
-13,Artifact,Common,Scythe
-14,Creature,Common,Spider
-15,Creature,Common,Goblin
-16,Creature,Common,Elf
-17,Creature,Common,Spider
-18,Spell,Common,Heal
-19,Creature,Common,Orc
-20,Spell,Common,Ice
-21,Creature,Common,Warlock
-22,Creature,Common,Magi
-23,Spell,Legendary,Potent Lightning
-24,Creature,Common,Dwarf
-25,Creature,Rare,Snow Rogue Skin-Walker
-26,Creature,Common,Warlock
-27,Creature,Common,Wolf
-28,Artifact,Common,Sigil
-29,Artifact,Common,Shield
-30,Creature,Common,Magi
-31,Enchantment,Mythic,Clever Invert
-32,Creature,Rare,Death Merchant Hydra
-33,Enchantment,Rare,Frigid Lethargy
-34,Creature,Common,Magi
-35,Spell,Common,Freeze
-36,Spell,Common,Frenzy
-37,Creature,Common,Magi
-38,Artifact,Common,Boots
-39,Creature,Common,Paladin
-40,Spell,Common,Infuriate
-41,Enchantment,Common,Drain
-42,Creature,Mythic,Dark Time Dragon of Illusion
-43,Creature,Legendary,Snow Priest Cyclops of the West
-44,Spell,Common,Maelstrom
+==================,DECK,7087
+0,Spell,Dark Frenzy
+1,Spell,Mighty Dark Fireball
+2,Artifact,Greaves
+3,Enchantment,Urgent Corpse Agony
+4,Creature,Berserker
+5,Creature,Wolf
+6,Creature,Eagle
+7,Enchantment,Haste
+8,Creature,Wolf
+9,Artifact,Sigil
+10,Creature,Paladin
+11,Creature,Troll
+12,Creature,Earth Undead Dragon of the Shadows
+13,Artifact,Scythe
+14,Creature,Paladin
+15,Creature,Skin-Walker
+16,Creature,Warlock
+17,Creature,Paladin
+18,Spell,Frenzy
+19,Creature,Spider
+20,Spell,Stricken
+21,Creature,Berserker
+22,Creature,Fairy
+23,Spell,Dire Oblivion Burn
+24,Creature,Magi
+25,Creature,Snow Rogue Orc
+26,Creature,Berserker
+27,Creature,Wolf
+28,Artifact,Sigil
+29,Artifact,Shield
+30,Creature,Fairy
+31,Enchantment,Instant Oblivion Drain
+32,Creature,Death Merchant Hydra
+33,Enchantment,Grim Shade
+34,Creature,Fairy
+35,Spell,Reanimate
+36,Spell,Pandemonium
+37,Creature,Fairy
+38,Artifact,Boots
+39,Creature,Troll
+40,Spell,Wall
+41,Enchantment,Blight
+42,Creature,Dark Time Dragon of Illusion
+43,Creature,Snow Priest Giant of the West
+44,Spell,Tempest

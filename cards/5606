@@ -1,46 +1,46 @@
-==================,DECK,5606,Medium
-0,Creature,Common,Dwarf
-1,Creature,Common,Eagle
-2,Creature,Common,Spider
-3,Enchantment,Common,Age
-4,Creature,Common,Warlock
-5,Spell,Common,Assault
-6,Spell,Common,Torment
-7,Creature,Rare,Dark Assassin Skin-Walker
-8,Creature,Rare,Light Rogue Minotaur
-9,Creature,Rare,Light Priest Skin-Walker
-10,Creature,Rare,Earth Rogue Fairy
-11,Enchantment,Common,Haste
-12,Spell,Rare,Cataclysmic Reanimate
-13,Spell,Common,Sorrow
-14,Creature,Common,Warlock
-15,Creature,Common,Magi
-16,Creature,Common,Eagle
-17,Creature,Common,Magi
-18,Spell,Common,Revive
-19,Spell,Rare,Necro Maelstrom
-20,Creature,Rare,Frozen Knight Fairy
-21,Creature,Common,Orc
-22,Spell,Legendary,Intense Stricken
-23,Creature,Common,Orc
-24,Creature,Common,Elf
-25,Spell,Common,Frenzy
-26,Creature,Rare,Light Queen Berserker
-27,Creature,Rare,Frozen Undead Minotaur
-28,Creature,Common,Spider
-29,Creature,Common,Spider
-30,Creature,Common,Magi
-31,Creature,Common,Wolf
-32,Artifact,Rare,Hateful Divine Robe
-33,Artifact,Common,Gloves
-34,Spell,Common,Stun
-35,Creature,Legendary,Aura Priest Orge of the Low Hills
-36,Artifact,Rare,Corpse Gauntlet
-37,Artifact,Common,Tome
-38,Creature,Common,Warlock
-39,Creature,Common,Elf
-40,Creature,Common,Ghoul
-41,Spell,Rare,Nature Sorrow
-42,Enchantment,Rare,Frigid Shade
-43,Creature,Rare,Light Monk Minotaur
-44,Creature,Common,Dwarf
+==================,DECK,5606
+0,Creature,Magi
+1,Creature,Eagle
+2,Creature,Paladin
+3,Enchantment,Shade
+4,Creature,Berserker
+5,Spell,Burn
+6,Spell,Maelstrom
+7,Creature,Dark Assassin Orc
+8,Creature,Light Rogue Cyclops
+9,Creature,Light Priest Orc
+10,Creature,Earth Rogue Kraken
+11,Enchantment,Age
+12,Spell,Cataclysmic Freeze
+13,Spell,Sorrow
+14,Creature,Berserker
+15,Creature,Fairy
+16,Creature,Eagle
+17,Creature,Fairy
+18,Spell,Rage
+19,Spell,Corpse Tempest
+20,Creature,Frozen Knight Kraken
+21,Creature,Spider
+22,Spell,Mighty Nature Tempest
+23,Creature,Spider
+24,Creature,Warlock
+25,Spell,Fireball
+26,Creature,Light Queen Goblin
+27,Creature,Frozen Undead Cyclops
+28,Creature,Paladin
+29,Creature,Paladin
+30,Creature,Fairy
+31,Creature,Wolf
+32,Artifact,Gloom Divine Robe
+33,Artifact,Gloves
+34,Spell,Rage
+35,Creature,Aura Priest Elf of the Low Hills
+36,Artifact,Corpse Gauntlet
+37,Artifact,Tome
+38,Creature,Berserker
+39,Creature,Warlock
+40,Creature,Ghoul
+41,Spell,Corpse Stricken
+42,Enchantment,Frigid Haste
+43,Creature,Light Monk Cyclops
+44,Creature,Magi

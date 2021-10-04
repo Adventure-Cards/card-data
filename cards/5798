@@ -1,46 +1,46 @@
-==================,DECK,5798,Light
-0,Creature,Common,Spider
-1,Creature,Rare,Death Monk Minotaur
-2,Creature,Rare,Dark Knight Skin-Walker
-3,Creature,Common,Magi
-4,Creature,Legendary,Frozen Knight Cyclops of the Arctic Blizzards
-5,Spell,Common,Fury
-6,Spell,Legendary,Intense Rage
-7,Creature,Common,Elf
-8,Spell,Common,Burn
-9,Creature,Rare,Death Thief Minotaur
-10,Enchantment,Common,Shield
-11,Enchantment,Common,Shade
-12,Creature,Common,Dwarf
-13,Creature,Legendary,Dark Merchant Orge of the Bright Mountains
-14,Spell,Legendary,Potent Hypnosis
-15,Enchantment,Common,Haste
-16,Creature,Common,Ghoul
-17,Artifact,Common,Sword
-18,Creature,Rare,Snow Queen Berserker
-19,Artifact,Common,Scepter
-20,Creature,Legendary,Light Knight Orge of the Frozen Castle
-21,Creature,Common,Elf
-22,Spell,Rare,Hateful Gale
-23,Spell,Common,Gravitation
-24,Creature,Mythic,Aura Grand Demon of the Light
-25,Enchantment,Common,Haste
-26,Creature,Common,Elf
-27,Artifact,Common,Helm
-28,Creature,Legendary,Light Fighter Cyclops of the Swamp
-29,Creature,Common,Warlock
-30,Creature,Common,Warlock
-31,Enchantment,Rare,Forged Invert
-32,Creature,Common,Eagle
-33,Enchantment,Rare,Hateful Flight
-34,Creature,Rare,Earth King Minotaur
-35,Enchantment,Rare,Shimmering Deathgrip
-36,Artifact,Common,Bow
-37,Creature,Common,Goblin
-38,Creature,Common,Elf
-39,Creature,Rare,Frozen Merchant Minotaur
-40,Spell,Rare,Corpse Invisibility
-41,Artifact,Rare,Solar Ghost Wand
-42,Creature,Common,Dwarf
-43,Creature,Common,Ghoul
-44,Creature,Common,Warlock
+==================,DECK,5798
+0,Creature,Paladin
+1,Creature,Death Monk Cyclops
+2,Creature,Dark Knight Orc
+3,Creature,Fairy
+4,Creature,Frozen Knight Giant of the Arctic Blizzards
+5,Spell,Heal
+6,Spell,Dire Hateful Lightning
+7,Creature,Warlock
+8,Spell,Frenzy
+9,Creature,Death Thief Cyclops
+10,Enchantment,Blight
+11,Enchantment,Flight
+12,Creature,Magi
+13,Creature,Dark Merchant Elf of the Bright Mountains
+14,Spell,Clever Apocalypse Pandemonium
+15,Enchantment,Blight
+16,Creature,Ghoul
+17,Artifact,Sword
+18,Creature,Snow Queen Goblin
+19,Artifact,Scepter
+20,Creature,Light Knight Elf of the Frozen Castle
+21,Creature,Warlock
+22,Spell,Lunar Revive
+23,Spell,Assault
+24,Creature,Aura Grand Demon of the Light
+25,Enchantment,Age
+26,Creature,Warlock
+27,Artifact,Helm
+28,Creature,Light Fighter Giant of the Swamp
+29,Creature,Berserker
+30,Creature,Berserker
+31,Enchantment,Sorrow Shrink
+32,Creature,Eagle
+33,Enchantment,Lunar Alacrity
+34,Creature,Earth King Cyclops
+35,Enchantment,Shimmering Age
+36,Artifact,Bow
+37,Creature,Skin-Walker
+38,Creature,Warlock
+39,Creature,Frozen Merchant Cyclops
+40,Spell,Forged Gale
+41,Artifact,Solar Ghost Wand
+42,Creature,Magi
+43,Creature,Ghoul
+44,Creature,Berserker

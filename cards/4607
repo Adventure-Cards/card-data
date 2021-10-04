@@ -1,46 +1,46 @@
-==================,DECK,4607,Medium
-0,Creature,Common,Warlock
-1,Enchantment,Common,Flight
-2,Creature,Legendary,Aura Thief Kraken of the Haven
-3,Creature,Legendary,Aura Warrior Kraken of the Swamp
-4,Spell,Legendary,Potent Freeze
-5,Creature,Legendary,Snow Merchant Cyclops of the Eternal Land
-6,Enchantment,Common,Agony
-7,Enchantment,Legendary,Intense Alacrity
-8,Enchantment,Rare,Nimble Invert
-9,Spell,Common,Revive
-10,Artifact,Common,Potion
-11,Enchantment,Mythic,Clever Agony
-12,Enchantment,Common,Invert
-13,Enchantment,Common,Alacrity
-14,Creature,Rare,Light Undead Skin-Walker
-15,Creature,Common,Goblin
-16,Creature,Common,Spider
-17,Creature,Rare,Aura Merchant Berserker
-18,Creature,Common,Magi
-19,Spell,Rare,Gloom Lightning
-20,Creature,Rare,Aura Thief Berserker
-21,Spell,Rare,Hateful Gale
-22,Creature,Common,Orc
-23,Spell,Common,Reanimate
-24,Creature,Common,Spider
-25,Creature,Rare,Earth Assassin Fairy
-26,Spell,Rare,Hateful Stun
-27,Enchantment,Common,Shrink
-28,Creature,Common,Dwarf
-29,Creature,Legendary,Dark Fighter Oni of the West
-30,Spell,Common,Ice
-31,Spell,Common,Sorrow
-32,Creature,Common,Goblin
-33,Creature,Rare,Earth Queen Griffin
-34,Creature,Rare,Snow Undead Berserker
-35,Creature,Rare,Frozen King Hydra
-36,Creature,Rare,Frozen King Fairy
-37,Spell,Mythic,Potent Fury
-38,Creature,Rare,Snow Merchant Fairy
-39,Creature,Common,Magi
-40,Spell,Common,Reanimate
-41,Spell,Rare,Shimmering Sorrow
-42,Creature,Common,Spider
-43,Creature,Common,Paladin
-44,Creature,Common,Spider
+==================,DECK,4607
+0,Creature,Berserker
+1,Enchantment,Blight
+2,Creature,Aura Thief Ogre of the Haven
+3,Creature,Aura Warrior Ogre of the Swamp
+4,Spell,Irate Grim Burn
+5,Creature,Snow Merchant Giant of the Eternal Land
+6,Enchantment,Haste
+7,Enchantment,Instant Forged Strength
+8,Enchantment,Shimmering Strength
+9,Spell,Burn
+10,Artifact,Potion
+11,Enchantment,Instant Life Drain
+12,Enchantment,Invert
+13,Enchantment,Invert
+14,Creature,Light Undead Orc
+15,Creature,Skin-Walker
+16,Creature,Paladin
+17,Creature,Aura Merchant Goblin
+18,Creature,Fairy
+19,Spell,Miracle Burn
+20,Creature,Aura Thief Goblin
+21,Spell,Miracle Reanimate
+22,Creature,Spider
+23,Spell,Burn
+24,Creature,Paladin
+25,Creature,Earth Assassin Kraken
+26,Spell,Gloom Fury
+27,Enchantment,Deathgrip
+28,Creature,Magi
+29,Creature,Dark Fighter Oni of the West
+30,Spell,Freeze
+31,Spell,Gravitation
+32,Creature,Skin-Walker
+33,Creature,Earth Queen Griffin
+34,Creature,Snow Undead Goblin
+35,Creature,Frozen King Hydra
+36,Creature,Frozen King Kraken
+37,Spell,Clever Grim Lightning
+38,Creature,Snow Merchant Kraken
+39,Creature,Fairy
+40,Spell,Torment
+41,Spell,Shimmering Wall
+42,Creature,Paladin
+43,Creature,Troll
+44,Creature,Paladin

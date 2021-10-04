@@ -1,46 +1,46 @@
-==================,DECK,6179,Light
-0,Enchantment,Rare,Oblivion Lethargy
-1,Creature,Common,Paladin
-2,Enchantment,Common,Flight
-3,Creature,Rare,Death Knight Minotaur
-4,Enchantment,Common,Strength
-5,Creature,Common,Orc
-6,Creature,Common,Eagle
-7,Enchantment,Rare,Nature Flight
-8,Enchantment,Mythic,Urgent Agony
-9,Creature,Common,Dwarf
-10,Creature,Common,Paladin
-11,Enchantment,Rare,Oblivion Shade
-12,Creature,Common,Elf
-13,Creature,Common,Elf
-14,Enchantment,Rare,Solar Shade
-15,Creature,Common,Eagle
-16,Creature,Common,Goblin
-17,Creature,Common,Eagle
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Wolf
-20,Enchantment,Rare,Lunar Flight
-21,Enchantment,Common,Haste
-22,Creature,Common,Warlock
-23,Artifact,Legendary,Angry Scepter
-24,Spell,Rare,Nimble Lightning
-25,Creature,Common,Dwarf
-26,Artifact,Common,Ghost Wand
-27,Enchantment,Common,Alacrity
-28,Creature,Common,Orc
-29,Artifact,Common,Bracers
-30,Creature,Mythic,Frozen Chaos Demon of the Void
-31,Creature,Common,Dwarf
-32,Enchantment,Common,Lethargy
-33,Artifact,Common,Divine Robe
-34,Creature,Common,Warlock
-35,Enchantment,Common,Blight
-36,Enchantment,Common,Invert
-37,Creature,Common,Ghoul
-38,Creature,Legendary,Frozen Lord Kraken of the Bright Mountains
-39,Creature,Common,Elf
-40,Spell,Common,Burst
-41,Creature,Common,Magi
-42,Spell,Common,Stun
-43,Creature,Rare,Light Rogue Griffin
-44,Creature,Common,Wolf
+==================,DECK,6179
+0,Enchantment,Grim Drain
+1,Creature,Troll
+2,Enchantment,Firebreath
+3,Creature,Death Knight Cyclops
+4,Enchantment,Haste
+5,Creature,Spider
+6,Creature,Eagle
+7,Enchantment,Hateful Agony
+8,Enchantment,Ardent Corpse Lethargy
+9,Creature,Magi
+10,Creature,Troll
+11,Enchantment,Frigid Drain
+12,Creature,Warlock
+13,Creature,Warlock
+14,Enchantment,Necro Deathgrip
+15,Creature,Eagle
+16,Creature,Skin-Walker
+17,Creature,Eagle
+18,Enchantment,Shrink
+19,Creature,Wolf
+20,Enchantment,Lunar Shield
+21,Enchantment,Haste
+22,Creature,Berserker
+23,Artifact,Potent Cataclysmic Scepter
+24,Spell,Nature Fire
+25,Creature,Magi
+26,Artifact,Ghost Wand
+27,Enchantment,Alacrity
+28,Creature,Spider
+29,Artifact,Bracers
+30,Creature,Frozen Chaos Demon of the Void
+31,Creature,Magi
+32,Enchantment,Deathgrip
+33,Artifact,Divine Robe
+34,Creature,Berserker
+35,Enchantment,Alacrity
+36,Enchantment,Drain
+37,Creature,Ghoul
+38,Creature,Frozen Lord Ogre of the Bright Mountains
+39,Creature,Warlock
+40,Spell,Wall
+41,Creature,Fairy
+42,Spell,Stricken
+43,Creature,Light Rogue Griffin
+44,Creature,Wolf

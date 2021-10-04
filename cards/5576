@@ -1,46 +1,46 @@
-==================,DECK,5576,Light
-0,Spell,Common,Stricken
-1,Artifact,Common,Greaves
-2,Creature,Common,Spider
-3,Spell,Common,Assault
-4,Enchantment,Common,Agony
-5,Creature,Common,Goblin
-6,Creature,Legendary,Snow Merchant Giant of the Magical Forest
-7,Spell,Common,Vortex
-8,Creature,Common,Elf
-9,Spell,Common,Invisibility
-10,Enchantment,Common,Haste
-11,Creature,Rare,Death Assassin Skin-Walker
-12,Spell,Legendary,Dire Fury
-13,Creature,Legendary,Aura Thief Giant of the Plains
-14,Spell,Common,Fury
-15,Creature,Common,Magi
-16,Creature,Common,Spider
-17,Creature,Mythic,Snow Ancient Demon of Hate
-18,Enchantment,Rare,Life Haste
-19,Artifact,Common,Divine Robe
-20,Enchantment,Legendary,Intense Flight
-21,Enchantment,Common,Alacrity
-22,Creature,Common,Spider
-23,Enchantment,Common,Blight
-24,Spell,Rare,Miracle Stun
-25,Creature,Rare,Death Assassin Fairy
-26,Creature,Common,Wolf
-27,Spell,Legendary,Angry Burn
-28,Enchantment,Rare,Cataclysmic Age
-29,Creature,Common,Orc
-30,Enchantment,Mythic,Intense Age
-31,Enchantment,Common,Invert
-32,Spell,Common,Wall
-33,Artifact,Common,Staff
-34,Creature,Common,Spider
-35,Spell,Common,Lightning
-36,Enchantment,Common,Strength
-37,Creature,Common,Spider
-38,Creature,Legendary,Dark Fighter Cyclops of the Golden Palace
-39,Spell,Common,Invisibility
-40,Spell,Common,Reanimate
-41,Artifact,Legendary,Mighty Tome
-42,Creature,Legendary,Death Thief Cyclops of the West
-43,Creature,Rare,Frozen Rogue Minotaur
-44,Enchantment,Rare,Frigid Invert
+==================,DECK,5576
+0,Spell,Revive
+1,Artifact,Greaves
+2,Creature,Paladin
+3,Spell,Ice
+4,Enchantment,Flight
+5,Creature,Skin-Walker
+6,Creature,Snow Merchant Dwarf of the Magical Forest
+7,Spell,Ice
+8,Creature,Warlock
+9,Spell,Tempest
+10,Enchantment,Lethargy
+11,Creature,Death Assassin Orc
+12,Spell,Mighty Grim Infuriate
+13,Creature,Aura Thief Dwarf of the Plains
+14,Spell,Infuriate
+15,Creature,Fairy
+16,Creature,Paladin
+17,Creature,Snow Ancient Demon of Hate
+18,Enchantment,Life Invert
+19,Artifact,Divine Robe
+20,Enchantment,Mighty Hateful Agony
+21,Enchantment,Flight
+22,Creature,Paladin
+23,Enchantment,Firebreath
+24,Spell,Grim Gravitation
+25,Creature,Death Assassin Kraken
+26,Creature,Wolf
+27,Spell,Zealous Miracle Torment
+28,Enchantment,Gloom Alacrity
+29,Creature,Spider
+30,Enchantment,Zealous Nature Deathgrip
+31,Enchantment,Lethargy
+32,Spell,Fireball
+33,Artifact,Staff
+34,Creature,Paladin
+35,Spell,Revive
+36,Enchantment,Blight
+37,Creature,Paladin
+38,Creature,Dark Fighter Giant of the Golden Palace
+39,Spell,Torment
+40,Spell,Gravitation
+41,Artifact,Dire Lunar Tome
+42,Creature,Death Thief Giant of the West
+43,Creature,Frozen Rogue Cyclops
+44,Enchantment,Oblivion Haste

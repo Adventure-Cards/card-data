@@ -1,46 +1,46 @@
-==================,DECK,7287,Medium
-0,Creature,Common,Orc
-1,Enchantment,Common,Blight
-2,Creature,Mythic,Light Time Dragon of the Sky
-3,Creature,Common,Elf
-4,Creature,Common,Eagle
-5,Enchantment,Common,Blight
-6,Creature,Rare,Earth Thief Skin-Walker
-7,Enchantment,Common,Age
-8,Creature,Common,Goblin
-9,Spell,Common,Maelstrom
-10,Enchantment,Mythic,Urgent Agony
-11,Enchantment,Mythic,Urgent Shrink
-12,Artifact,Rare,Forged Potion
-13,Enchantment,Rare,Lunar Blight
-14,Enchantment,Common,Shrink
-15,Creature,Common,Spider
-16,Enchantment,Common,Haste
-17,Creature,Rare,Earth Undead Hydra
-18,Creature,Rare,Snow Priest Hydra
-19,Creature,Common,Eagle
-20,Spell,Common,Stun
-21,Enchantment,Common,Invert
-22,Creature,Common,Wolf
-23,Creature,Rare,Earth Priest Minotaur
-24,Enchantment,Common,Shrink
-25,Creature,Common,Orc
-26,Enchantment,Common,Agony
-27,Creature,Common,Warlock
-28,Enchantment,Common,Shield
-29,Artifact,Rare,Frigid Ring
-30,Creature,Common,Orc
-31,Artifact,Common,Greaves
-32,Spell,Common,Burst
-33,Creature,Mythic,Dark Time Phoenix of Illusion
-34,Creature,Rare,Earth Priest Fairy
-35,Spell,Rare,Grim Heal
-36,Artifact,Common,Belt
-37,Creature,Rare,Death Knight Hydra
-38,Enchantment,Rare,Lunar Haste
-39,Creature,Rare,Snow Undead Minotaur
-40,Spell,Rare,Miracle Pandemonium
-41,Enchantment,Rare,Lunar Deathgrip
-42,Creature,Rare,Death Assassin Griffin
-43,Spell,Common,Gravitation
-44,Creature,Common,Warlock
+==================,DECK,7287
+0,Creature,Spider
+1,Enchantment,Drain
+2,Creature,Light Time Dragon of the Sky
+3,Creature,Warlock
+4,Creature,Eagle
+5,Enchantment,Lethargy
+6,Creature,Earth Thief Orc
+7,Enchantment,Age
+8,Creature,Skin-Walker
+9,Spell,Vortex
+10,Enchantment,Instant Corpse Strength
+11,Enchantment,Mighty Necro Agony
+12,Artifact,Dark Potion
+13,Enchantment,Cataclysmic Shield
+14,Enchantment,Strength
+15,Creature,Paladin
+16,Enchantment,Blight
+17,Creature,Earth Undead Hydra
+18,Creature,Snow Priest Hydra
+19,Creature,Eagle
+20,Spell,Fireball
+21,Enchantment,Flight
+22,Creature,Wolf
+23,Creature,Earth Priest Cyclops
+24,Enchantment,Age
+25,Creature,Spider
+26,Enchantment,Blight
+27,Creature,Berserker
+28,Enchantment,Blight
+29,Artifact,Frigid Ring
+30,Creature,Spider
+31,Artifact,Greaves
+32,Spell,Vortex
+33,Creature,Dark Time Phoenix of Illusion
+34,Creature,Earth Priest Kraken
+35,Spell,Frigid Gravitation
+36,Artifact,Belt
+37,Creature,Death Knight Hydra
+38,Enchantment,Miracle Alacrity
+39,Creature,Snow Undead Cyclops
+40,Spell,Life Burst
+41,Enchantment,Sorrow Alacrity
+42,Creature,Death Assassin Griffin
+43,Spell,Stun
+44,Creature,Berserker

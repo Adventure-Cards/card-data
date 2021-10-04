@@ -1,46 +1,46 @@
-==================,DECK,4319,Light
-0,Spell,Rare,Necro Burst
-1,Creature,Common,Spider
-2,Enchantment,Common,Deathgrip
-3,Creature,Rare,Earth Monk Fairy
-4,Creature,Common,Orc
-5,Enchantment,Common,Deathgrip
-6,Spell,Common,Gravitation
-7,Creature,Mythic,Frozen Grand Demon of the Void
-8,Enchantment,Common,Haste
-9,Enchantment,Common,Shade
-10,Creature,Common,Orc
-11,Creature,Common,Ghoul
-12,Artifact,Common,Cloak
-13,Creature,Common,Ghoul
-14,Spell,Common,Frost
-15,Enchantment,Rare,Miracle Shrink
-16,Creature,Rare,Snow Assassin Berserker
-17,Enchantment,Common,Shade
-18,Creature,Common,Ghoul
-19,Creature,Common,Warlock
-20,Spell,Common,Burn
-21,Creature,Common,Elf
-22,Enchantment,Rare,Nimble Agony
-23,Creature,Common,Orc
-24,Creature,Common,Dwarf
-25,Creature,Common,Warlock
-26,Spell,Rare,Cataclysmic Fury
-27,Creature,Rare,Snow Thief Minotaur
-28,Creature,Common,Elf
-29,Creature,Rare,Death Rogue Skin-Walker
-30,Creature,Common,Orc
-31,Enchantment,Rare,Cataclysmic Drain
-32,Creature,Common,Spider
-33,Spell,Rare,Forged Frost
-34,Spell,Common,Assault
-35,Creature,Common,Spider
-36,Creature,Mythic,Light Grand Wizard of the Sky
-37,Enchantment,Common,Strength
-38,Creature,Rare,Light Thief Hydra
-39,Artifact,Common,Scepter
-40,Creature,Common,Warlock
-41,Creature,Common,Eagle
-42,Artifact,Common,Bracers
-43,Creature,Common,Magi
-44,Spell,Common,Infuriate
+==================,DECK,4319
+0,Spell,Necro Tempest
+1,Creature,Paladin
+2,Enchantment,Shade
+3,Creature,Earth Monk Kraken
+4,Creature,Spider
+5,Enchantment,Shade
+6,Spell,Hypnosis
+7,Creature,Frozen Grand Demon of the Void
+8,Enchantment,Haste
+9,Enchantment,Alacrity
+10,Creature,Spider
+11,Creature,Ghoul
+12,Artifact,Cloak
+13,Creature,Ghoul
+14,Spell,Tempest
+15,Enchantment,Frigid Shade
+16,Creature,Snow Assassin Goblin
+17,Enchantment,Agony
+18,Creature,Ghoul
+19,Creature,Berserker
+20,Spell,Ice
+21,Creature,Warlock
+22,Enchantment,Corpse Strength
+23,Creature,Spider
+24,Creature,Magi
+25,Creature,Berserker
+26,Spell,Miracle Burst
+27,Creature,Snow Thief Cyclops
+28,Creature,Warlock
+29,Creature,Death Rogue Orc
+30,Creature,Spider
+31,Enchantment,Dark Firebreath
+32,Creature,Paladin
+33,Spell,Dark Revive
+34,Spell,Revive
+35,Creature,Paladin
+36,Creature,Light Grand Wizard of the Sky
+37,Enchantment,Agony
+38,Creature,Light Thief Hydra
+39,Artifact,Scepter
+40,Creature,Berserker
+41,Creature,Eagle
+42,Artifact,Bracers
+43,Creature,Fairy
+44,Spell,Pandemonium

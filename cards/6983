@@ -1,46 +1,46 @@
-==================,DECK,6983,Light
-0,Creature,Common,Orc
-1,Creature,Common,Wolf
-2,Creature,Common,Goblin
-3,Enchantment,Common,Lethargy
-4,Creature,Rare,Dark Rogue Skin-Walker
-5,Enchantment,Rare,Solar Shield
-6,Creature,Common,Paladin
-7,Enchantment,Common,Age
-8,Creature,Common,Wolf
-9,Creature,Common,Eagle
-10,Enchantment,Rare,Dark Shield
-11,Creature,Common,Spider
-12,Enchantment,Common,Invert
-13,Artifact,Legendary,Extreme Shield
-14,Creature,Common,Dwarf
-15,Creature,Common,Eagle
-16,Spell,Common,Fury
-17,Creature,Rare,Aura Undead Minotaur
-18,Creature,Common,Ghoul
-19,Creature,Common,Elf
-20,Creature,Rare,Death Monk Fairy
-21,Creature,Common,Paladin
-22,Creature,Rare,Frozen Merchant Fairy
-23,Enchantment,Common,Shade
-24,Enchantment,Common,Agony
-25,Enchantment,Rare,Shimmering Flight
-26,Spell,Common,Wall
-27,Enchantment,Rare,Forged Agony
-28,Spell,Common,Assault
-29,Spell,Legendary,Angry Fury
-30,Creature,Legendary,Snow Queen Kraken of the Magical Forest
-31,Creature,Common,Paladin
-32,Creature,Common,Magi
-33,Enchantment,Common,Strength
-34,Spell,Rare,Gloom Torment
-35,Creature,Common,Goblin
-36,Creature,Common,Elf
-37,Creature,Common,Dwarf
-38,Creature,Common,Dwarf
-39,Enchantment,Common,Drain
-40,Spell,Common,Freeze
-41,Enchantment,Common,Flight
-42,Creature,Rare,Aura Monk Skin-Walker
-43,Creature,Common,Paladin
-44,Creature,Common,Dwarf
+==================,DECK,6983
+0,Creature,Spider
+1,Creature,Wolf
+2,Creature,Skin-Walker
+3,Enchantment,Shade
+4,Creature,Dark Rogue Orc
+5,Enchantment,Nature Strength
+6,Creature,Troll
+7,Enchantment,Shield
+8,Creature,Wolf
+9,Creature,Eagle
+10,Enchantment,Gloom Firebreath
+11,Creature,Paladin
+12,Enchantment,Deathgrip
+13,Artifact,Empyrean Dark Shield
+14,Creature,Magi
+15,Creature,Eagle
+16,Spell,Burn
+17,Creature,Aura Undead Cyclops
+18,Creature,Ghoul
+19,Creature,Warlock
+20,Creature,Death Monk Kraken
+21,Creature,Troll
+22,Creature,Frozen Merchant Kraken
+23,Enchantment,Shrink
+24,Enchantment,Deathgrip
+25,Enchantment,Hateful Lethargy
+26,Spell,Lightning
+27,Enchantment,Miracle Alacrity
+28,Spell,Revive
+29,Spell,Mighty Dark Fury
+30,Creature,Snow Queen Ogre of the Magical Forest
+31,Creature,Troll
+32,Creature,Fairy
+33,Enchantment,Firebreath
+34,Spell,Chimeric Tempest
+35,Creature,Skin-Walker
+36,Creature,Warlock
+37,Creature,Magi
+38,Creature,Magi
+39,Enchantment,Shield
+40,Spell,Invisibility
+41,Enchantment,Shade
+42,Creature,Aura Monk Orc
+43,Creature,Troll
+44,Creature,Magi

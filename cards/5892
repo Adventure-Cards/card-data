@@ -1,46 +1,46 @@
-==================,DECK,5892,Medium
-0,Creature,Mythic,Death Time Dragon of the Dead
-1,Creature,Common,Ghoul
-2,Enchantment,Common,Flight
-3,Creature,Common,Orc
-4,Spell,Rare,Necro Maelstrom
-5,Creature,Common,Orc
-6,Creature,Common,Warlock
-7,Enchantment,Common,Age
-8,Creature,Common,Wolf
-9,Spell,Mythic,Mighty Gravitation
-10,Creature,Common,Wolf
-11,Creature,Common,Orc
-12,Creature,Common,Orc
-13,Spell,Common,Heal
-14,Enchantment,Rare,Corpse Alacrity
-15,Creature,Common,Warlock
-16,Creature,Common,Spider
-17,Creature,Common,Spider
-18,Creature,Rare,Earth Warrior Skin-Walker
-19,Enchantment,Common,Shade
-20,Spell,Common,Freeze
-21,Spell,Rare,Shimmering Burn
-22,Artifact,Common,Shield
-23,Enchantment,Common,Haste
-24,Enchantment,Rare,Forged Strength
-25,Spell,Common,Rage
-26,Creature,Common,Dwarf
-27,Spell,Common,Freeze
-28,Creature,Mythic,Light Time Dragon of the Sky
-29,Creature,Mythic,Snow Ancient Demon of Hate
-30,Creature,Rare,Earth Lord Griffin
-31,Artifact,Common,Pendant
-32,Spell,Legendary,Clever Maelstrom
-33,Enchantment,Rare,Necro Age
-34,Spell,Mythic,Dire Burn
-35,Spell,Common,Infuriate
-36,Artifact,Rare,Miracle Sigil
-37,Creature,Common,Elf
-38,Creature,Mythic,Light Nameless Dragon of the Sky
-39,Spell,Common,Heal
-40,Spell,Rare,Life Sorrow
-41,Creature,Common,Warlock
-42,Creature,Common,Warlock
-43,Enchantment,Rare,Frigid Shade
-44,Spell,Rare,Nature Reanimate
+==================,DECK,5892
+0,Creature,Death Time Dragon of the Dead
+1,Creature,Ghoul
+2,Enchantment,Blight
+3,Creature,Spider
+4,Spell,Necro Fireball
+5,Creature,Spider
+6,Creature,Berserker
+7,Enchantment,Shield
+8,Creature,Wolf
+9,Spell,Urgent Chimeric Gravitation
+10,Creature,Wolf
+11,Creature,Spider
+12,Creature,Spider
+13,Spell,Freeze
+14,Enchantment,Forged Strength
+15,Creature,Berserker
+16,Creature,Paladin
+17,Creature,Paladin
+18,Creature,Earth Warrior Orc
+19,Enchantment,Firebreath
+20,Spell,Stun
+21,Spell,Corpse Stun
+22,Artifact,Shield
+23,Enchantment,Haste
+24,Enchantment,Cataclysmic Shrink
+25,Spell,Invisibility
+26,Creature,Magi
+27,Spell,Hypnosis
+28,Creature,Light Time Dragon of the Sky
+29,Creature,Snow Ancient Demon of Hate
+30,Creature,Earth Lord Griffin
+31,Artifact,Pendant
+32,Spell,Potent Life Frenzy
+33,Enchantment,Nature Deathgrip
+34,Spell,Empyrean Victory Fireball
+35,Spell,Stun
+36,Artifact,Apocalypse Sigil
+37,Creature,Warlock
+38,Creature,Light Nameless Dragon of the Sky
+39,Spell,Stricken
+40,Spell,Apocalypse Stun
+41,Creature,Berserker
+42,Creature,Berserker
+43,Enchantment,Frigid Haste
+44,Spell,Nature Rage

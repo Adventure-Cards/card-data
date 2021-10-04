@@ -1,46 +1,46 @@
-==================,DECK,7663,Light
-0,Artifact,Common,Ring
-1,Creature,Common,Eagle
-2,Creature,Rare,Death Knight Berserker
-3,Spell,Common,Maelstrom
-4,Artifact,Rare,Nimble Staff
-5,Creature,Common,Dwarf
-6,Enchantment,Common,Lethargy
-7,Creature,Rare,Frozen Monk Hydra
-8,Creature,Common,Orc
-9,Creature,Common,Orc
-10,Enchantment,Common,Drain
-11,Artifact,Common,Bracers
-12,Enchantment,Common,Haste
-13,Artifact,Common,Belt
-14,Enchantment,Common,Shade
-15,Creature,Legendary,Dark Lord Orge of the Eastern Skies
-16,Creature,Mythic,Dark Undead Dragon of Illusion
-17,Creature,Common,Magi
-18,Creature,Common,Wolf
-19,Spell,Common,Revive
-20,Creature,Common,Paladin
-21,Artifact,Common,Scepter
-22,Creature,Common,Spider
-23,Enchantment,Common,Alacrity
-24,Creature,Common,Wolf
-25,Creature,Common,Paladin
-26,Spell,Rare,Solar Invisibility
-27,Artifact,Common,Crown
-28,Creature,Common,Magi
-29,Creature,Common,Magi
-30,Creature,Common,Orc
-31,Creature,Common,Spider
-32,Creature,Common,Warlock
-33,Enchantment,Legendary,Potent Lethargy
-34,Spell,Common,Assault
-35,Creature,Common,Elf
-36,Enchantment,Common,Shade
-37,Artifact,Rare,Forged Helmet
-38,Creature,Rare,Light Rogue Griffin
-39,Enchantment,Rare,Nimble Strength
-40,Enchantment,Rare,Grim Strength
-41,Creature,Rare,Light Priest Griffin
-42,Creature,Rare,Aura Knight Fairy
-43,Enchantment,Common,Lethargy
-44,Artifact,Common,Helm
+==================,DECK,7663
+0,Artifact,Ring
+1,Creature,Eagle
+2,Creature,Death Knight Goblin
+3,Spell,Reanimate
+4,Artifact,Nature Staff
+5,Creature,Magi
+6,Enchantment,Flight
+7,Creature,Frozen Monk Hydra
+8,Creature,Spider
+9,Creature,Spider
+10,Enchantment,Flight
+11,Artifact,Bracers
+12,Enchantment,Shrink
+13,Artifact,Belt
+14,Enchantment,Shrink
+15,Creature,Dark Lord Elf of the Eastern Skies
+16,Creature,Dark Undead Dragon of Illusion
+17,Creature,Fairy
+18,Creature,Wolf
+19,Spell,Tempest
+20,Creature,Troll
+21,Artifact,Scepter
+22,Creature,Paladin
+23,Enchantment,Firebreath
+24,Creature,Wolf
+25,Creature,Troll
+26,Spell,Hateful Lightning
+27,Artifact,Crown
+28,Creature,Fairy
+29,Creature,Fairy
+30,Creature,Spider
+31,Creature,Paladin
+32,Creature,Berserker
+33,Enchantment,Instant Grim Drain
+34,Spell,Stun
+35,Creature,Warlock
+36,Enchantment,Shrink
+37,Artifact,Gloom Helmet
+38,Creature,Light Rogue Griffin
+39,Enchantment,Solar Deathgrip
+40,Enchantment,Nimble Drain
+41,Creature,Light Priest Griffin
+42,Creature,Aura Knight Kraken
+43,Enchantment,Invert
+44,Artifact,Helm

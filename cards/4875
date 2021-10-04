@@ -1,46 +1,46 @@
-==================,DECK,4875,Light
-0,Enchantment,Common,Lethargy
-1,Creature,Common,Ghoul
-2,Enchantment,Rare,Nature Drain
-3,Spell,Common,Burn
-4,Creature,Common,Paladin
-5,Creature,Common,Spider
-6,Creature,Rare,Earth Assassin Hydra
-7,Creature,Rare,Frozen Warrior Berserker
-8,Creature,Rare,Aura Merchant Hydra
-9,Creature,Common,Goblin
-10,Enchantment,Legendary,Clever Shield
-11,Enchantment,Legendary,Mighty Deathgrip
-12,Creature,Legendary,Snow Undead Giant of the Eastern Skies
-13,Enchantment,Common,Haste
-14,Spell,Rare,Apocalypse Maelstrom
-15,Spell,Common,Frenzy
-16,Enchantment,Common,Deathgrip
-17,Creature,Rare,Frozen King Skin-Walker
-18,Creature,Common,Warlock
-19,Spell,Common,Pandemonium
-20,Spell,Common,Invisibility
-21,Enchantment,Common,Lethargy
-22,Spell,Common,Frost
-23,Enchantment,Common,Deathgrip
-24,Spell,Rare,Necro Hypnosis
-25,Creature,Rare,Snow Rogue Hydra
-26,Spell,Common,Stricken
-27,Enchantment,Rare,Cataclysmic Flight
-28,Creature,Common,Dwarf
-29,Enchantment,Rare,Shimmering Shrink
-30,Spell,Common,Gale
-31,Creature,Common,Elf
-32,Creature,Common,Spider
-33,Creature,Common,Warlock
-34,Creature,Rare,Aura Fighter Hydra
-35,Enchantment,Common,Invert
-36,Spell,Common,Sorrow
-37,Creature,Common,Spider
-38,Creature,Rare,Snow Queen Minotaur
-39,Spell,Common,Fury
-40,Spell,Common,Burst
-41,Creature,Mythic,Death Nameless Phoenix of the Dead
-42,Creature,Common,Eagle
-43,Spell,Common,Frenzy
-44,Creature,Common,Paladin
+==================,DECK,4875
+0,Enchantment,Blight
+1,Creature,Ghoul
+2,Enchantment,Forged Deathgrip
+3,Spell,Maelstrom
+4,Creature,Troll
+5,Creature,Paladin
+6,Creature,Earth Assassin Hydra
+7,Creature,Frozen Warrior Goblin
+8,Creature,Aura Merchant Hydra
+9,Creature,Skin-Walker
+10,Enchantment,Dire Victory Shade
+11,Enchantment,Mighty Sorrow Flight
+12,Creature,Snow Undead Dwarf of the Eastern Skies
+13,Enchantment,Firebreath
+14,Spell,Nimble Burn
+15,Spell,Assault
+16,Enchantment,Blight
+17,Creature,Frozen King Orc
+18,Creature,Berserker
+19,Spell,Maelstrom
+20,Spell,Burst
+21,Enchantment,Firebreath
+22,Spell,Rage
+23,Enchantment,Alacrity
+24,Spell,Corpse Frenzy
+25,Creature,Snow Rogue Hydra
+26,Spell,Vortex
+27,Enchantment,Lunar Alacrity
+28,Creature,Magi
+29,Enchantment,Necro Age
+30,Spell,Vortex
+31,Creature,Warlock
+32,Creature,Paladin
+33,Creature,Berserker
+34,Creature,Aura Fighter Hydra
+35,Enchantment,Deathgrip
+36,Spell,Frost
+37,Creature,Paladin
+38,Creature,Snow Queen Cyclops
+39,Spell,Infuriate
+40,Spell,Hypnosis
+41,Creature,Death Nameless Phoenix of the Dead
+42,Creature,Eagle
+43,Spell,Stun
+44,Creature,Troll

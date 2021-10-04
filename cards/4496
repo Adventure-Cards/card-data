@@ -1,46 +1,46 @@
-==================,DECK,4496,Light
-0,Spell,Common,Stricken
-1,Spell,Common,Ice
-2,Creature,Common,Ghoul
-3,Creature,Common,Goblin
-4,Spell,Common,Pandemonium
-5,Creature,Rare,Light Knight Griffin
-6,Spell,Common,Maelstrom
-7,Spell,Rare,Dark Heal
-8,Spell,Common,Gravitation
-9,Creature,Rare,Earth Merchant Skin-Walker
-10,Creature,Common,Paladin
-11,Spell,Common,Burn
-12,Spell,Common,Heal
-13,Creature,Common,Ghoul
-14,Enchantment,Common,Agony
-15,Creature,Rare,Death Merchant Griffin
-16,Creature,Common,Orc
-17,Creature,Rare,Light Monk Berserker
-18,Artifact,Common,Sword
-19,Creature,Common,Paladin
-20,Creature,Common,Paladin
-21,Enchantment,Common,Strength
-22,Enchantment,Common,Blight
-23,Creature,Common,Wolf
-24,Artifact,Common,Pendant
-25,Enchantment,Rare,Miracle Shrink
-26,Spell,Common,Pandemonium
-27,Creature,Rare,Death Knight Berserker
-28,Creature,Common,Orc
-29,Creature,Common,Elf
-30,Creature,Common,Eagle
-31,Spell,Common,Gravitation
-32,Spell,Common,Infuriate
-33,Creature,Common,Elf
-34,Artifact,Common,Scepter
-35,Spell,Common,Frenzy
-36,Enchantment,Common,Agony
-37,Creature,Common,Orc
-38,Creature,Common,Ghoul
-39,Creature,Common,Dwarf
-40,Creature,Common,Ghoul
-41,Creature,Common,Magi
-42,Creature,Rare,Frozen Lord Minotaur
-43,Enchantment,Common,Alacrity
-44,Creature,Rare,Earth Priest Hydra
+==================,DECK,4496
+0,Spell,Lightning
+1,Spell,Sorrow
+2,Creature,Ghoul
+3,Creature,Skin-Walker
+4,Spell,Vortex
+5,Creature,Light Knight Griffin
+6,Spell,Frenzy
+7,Spell,Cataclysmic Revive
+8,Spell,Frenzy
+9,Creature,Earth Merchant Orc
+10,Creature,Troll
+11,Spell,Gravitation
+12,Spell,Revive
+13,Creature,Ghoul
+14,Enchantment,Firebreath
+15,Creature,Death Merchant Griffin
+16,Creature,Spider
+17,Creature,Light Monk Goblin
+18,Artifact,Sword
+19,Creature,Troll
+20,Creature,Troll
+21,Enchantment,Drain
+22,Enchantment,Lethargy
+23,Creature,Wolf
+24,Artifact,Pendant
+25,Enchantment,Frigid Drain
+26,Spell,Revive
+27,Creature,Death Knight Goblin
+28,Creature,Spider
+29,Creature,Warlock
+30,Creature,Eagle
+31,Spell,Hypnosis
+32,Spell,Wall
+33,Creature,Warlock
+34,Artifact,Scepter
+35,Spell,Wall
+36,Enchantment,Shade
+37,Creature,Spider
+38,Creature,Ghoul
+39,Creature,Magi
+40,Creature,Ghoul
+41,Creature,Fairy
+42,Creature,Frozen Lord Cyclops
+43,Enchantment,Shrink
+44,Creature,Earth Priest Hydra

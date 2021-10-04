@@ -1,46 +1,46 @@
-==================,DECK,6956,Light
-0,Spell,Rare,Grim Vortex
-1,Creature,Common,Dwarf
-2,Creature,Common,Warlock
-3,Creature,Common,Dwarf
-4,Creature,Common,Dwarf
-5,Creature,Common,Warlock
-6,Artifact,Common,Belt
-7,Spell,Common,Vortex
-8,Creature,Common,Elf
-9,Spell,Common,Torment
-10,Artifact,Common,Belt
-11,Enchantment,Common,Shrink
-12,Creature,Rare,Frozen Monk Minotaur
-13,Artifact,Rare,Miracle Ghost Wand
-14,Spell,Common,Fury
-15,Spell,Common,Revive
-16,Creature,Common,Wolf
-17,Creature,Common,Wolf
-18,Creature,Common,Wolf
-19,Spell,Common,Sorrow
-20,Spell,Rare,Shimmering Reanimate
-21,Creature,Common,Dwarf
-22,Creature,Common,Paladin
-23,Creature,Rare,Earth Assassin Skin-Walker
-24,Creature,Rare,Earth Fighter Hydra
-25,Creature,Legendary,Death Monk Orge of the Swamp
-26,Creature,Common,Goblin
-27,Spell,Legendary,Mighty Infuriate
-28,Spell,Common,Torment
-29,Artifact,Rare,Shimmering Pendant
-30,Spell,Common,Invisibility
-31,Spell,Common,Assault
-32,Artifact,Common,Gauntlet
-33,Creature,Common,Wolf
-34,Enchantment,Common,Agony
-35,Creature,Common,Spider
-36,Creature,Common,Spider
-37,Spell,Rare,Gloom Wall
-38,Creature,Mythic,Snow Grand Wizard of Hate
-39,Enchantment,Common,Shade
-40,Creature,Common,Magi
-41,Enchantment,Common,Blight
-42,Artifact,Rare,Gloom Staff
-43,Enchantment,Common,Lethargy
-44,Creature,Common,Eagle
+==================,DECK,6956
+0,Spell,Grim Stun
+1,Creature,Magi
+2,Creature,Berserker
+3,Creature,Magi
+4,Creature,Magi
+5,Creature,Berserker
+6,Artifact,Belt
+7,Spell,Torment
+8,Creature,Warlock
+9,Spell,Fury
+10,Artifact,Belt
+11,Enchantment,Firebreath
+12,Creature,Frozen Monk Cyclops
+13,Artifact,Nimble Ghost Wand
+14,Spell,Infuriate
+15,Spell,Fire
+16,Creature,Wolf
+17,Creature,Wolf
+18,Creature,Wolf
+19,Spell,Stricken
+20,Spell,Solar Fireball
+21,Creature,Magi
+22,Creature,Troll
+23,Creature,Earth Assassin Orc
+24,Creature,Earth Fighter Hydra
+25,Creature,Death Monk Elf of the Swamp
+26,Creature,Skin-Walker
+27,Spell,Mighty Lunar Maelstrom
+28,Spell,Tempest
+29,Artifact,Nature Pendant
+30,Spell,Vortex
+31,Spell,Fury
+32,Artifact,Gauntlet
+33,Creature,Wolf
+34,Enchantment,Shield
+35,Creature,Paladin
+36,Creature,Paladin
+37,Spell,Cataclysmic Maelstrom
+38,Creature,Snow Grand Wizard of Hate
+39,Enchantment,Strength
+40,Creature,Fairy
+41,Enchantment,Flight
+42,Artifact,Lunar Staff
+43,Enchantment,Firebreath
+44,Creature,Eagle

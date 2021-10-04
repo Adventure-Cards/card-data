@@ -1,46 +1,46 @@
-==================,DECK,7733,Medium
-0,Creature,Common,Elf
-1,Enchantment,Common,Agony
-2,Creature,Common,Magi
-3,Creature,Mythic,Light Time Dragon of the Sky
-4,Creature,Rare,Light Monk Berserker
-5,Spell,Common,Stricken
-6,Creature,Common,Wolf
-7,Artifact,Legendary,Extreme Staff
-8,Creature,Mythic,Light Grand Wizard of the Sky
-9,Creature,Common,Warlock
-10,Creature,Rare,Earth Lord Fairy
-11,Creature,Common,Eagle
-12,Spell,Legendary,Extreme Freeze
-13,Spell,Rare,Forged Lightning
-14,Artifact,Common,Helmet
-15,Creature,Common,Spider
-16,Enchantment,Legendary,Dire Agony
-17,Creature,Common,Warlock
-18,Creature,Common,Spider
-19,Spell,Rare,Oblivion Lightning
-20,Creature,Common,Dwarf
-21,Creature,Rare,Earth Monk Griffin
-22,Enchantment,Common,Strength
-23,Creature,Rare,Frozen Priest Minotaur
-24,Spell,Legendary,Angry Gravitation
-25,Spell,Common,Freeze
-26,Spell,Common,Gale
-27,Creature,Legendary,Death Queen Cyclops of the Arctic Blizzards
-28,Enchantment,Mythic,Angry Shrink
-29,Spell,Common,Stun
-30,Spell,Common,Gale
-31,Spell,Legendary,Clever Gale
-32,Creature,Legendary,Snow Thief Kraken of the West
-33,Artifact,Common,Pendant
-34,Spell,Rare,Shimmering Burn
-35,Enchantment,Common,Shield
-36,Enchantment,Common,Lethargy
-37,Creature,Legendary,Light Priest Oni of the Swamp
-38,Enchantment,Common,Flight
-39,Enchantment,Common,Age
-40,Creature,Rare,Earth Knight Hydra
-41,Artifact,Common,Bow
-42,Creature,Common,Eagle
-43,Artifact,Legendary,Instant Boots
-44,Artifact,Rare,Shimmering Scythe
+==================,DECK,7733
+0,Creature,Warlock
+1,Enchantment,Blight
+2,Creature,Fairy
+3,Creature,Light Time Dragon of the Sky
+4,Creature,Light Monk Goblin
+5,Spell,Stun
+6,Creature,Wolf
+7,Artifact,Zealous Miracle Staff
+8,Creature,Light Grand Wizard of the Sky
+9,Creature,Berserker
+10,Creature,Earth Lord Kraken
+11,Creature,Eagle
+12,Spell,Instant Lunar Torment
+13,Spell,Dark Gravitation
+14,Artifact,Helmet
+15,Creature,Paladin
+16,Enchantment,Ardent Life Haste
+17,Creature,Berserker
+18,Creature,Paladin
+19,Spell,Frigid Ice
+20,Creature,Magi
+21,Creature,Earth Monk Griffin
+22,Enchantment,Shrink
+23,Creature,Frozen Priest Cyclops
+24,Spell,Urgent Lunar Fury
+25,Spell,Stun
+26,Spell,Burn
+27,Creature,Death Queen Giant of the Arctic Blizzards
+28,Enchantment,Empyrean Chimeric Firebreath
+29,Spell,Torment
+30,Spell,Infuriate
+31,Spell,Mighty Nimble Fireball
+32,Creature,Snow Thief Ogre of the West
+33,Artifact,Pendant
+34,Spell,Necro Hypnosis
+35,Enchantment,Drain
+36,Enchantment,Drain
+37,Creature,Light Priest Oni of the Swamp
+38,Enchantment,Lethargy
+39,Enchantment,Lethargy
+40,Creature,Earth Knight Hydra
+41,Artifact,Bow
+42,Creature,Eagle
+43,Artifact,Clever Hateful Boots
+44,Artifact,Nature Scythe

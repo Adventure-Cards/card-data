@@ -1,46 +1,46 @@
-==================,DECK,4573,Medium
-0,Creature,Rare,Dark Queen Fairy
-1,Creature,Common,Dwarf
-2,Spell,Mythic,Instant Gravitation
-3,Creature,Common,Paladin
-4,Artifact,Legendary,Dire Boots
-5,Enchantment,Common,Shield
-6,Creature,Common,Orc
-7,Creature,Mythic,Snow Ancient Demon of Hate
-8,Creature,Rare,Earth Lord Fairy
-9,Creature,Common,Goblin
-10,Creature,Rare,Frozen Assassin Minotaur
-11,Spell,Rare,Oblivion Frenzy
-12,Creature,Rare,Snow Monk Skin-Walker
-13,Creature,Common,Dwarf
-14,Creature,Rare,Frozen Merchant Fairy
-15,Creature,Rare,Light Queen Griffin
-16,Enchantment,Common,Blight
-17,Spell,Common,Invisibility
-18,Enchantment,Common,Flight
-19,Enchantment,Legendary,Mighty Agony
-20,Artifact,Common,Ring
-21,Creature,Common,Magi
-22,Creature,Common,Elf
-23,Creature,Common,Warlock
-24,Spell,Common,Maelstrom
-25,Creature,Rare,Aura Priest Berserker
-26,Creature,Common,Goblin
-27,Enchantment,Rare,Apocalypse Age
-28,Creature,Common,Spider
-29,Enchantment,Rare,Lunar Shrink
-30,Spell,Rare,Nimble Frenzy
-31,Spell,Legendary,Intense Infuriate
-32,Creature,Common,Dwarf
-33,Spell,Mythic,Clever Stricken
-34,Creature,Legendary,Death Thief Kraken of the Border
-35,Artifact,Common,Boots
-36,Creature,Legendary,Dark Warrior Kraken of the Eastern Skies
-37,Enchantment,Rare,Shimmering Haste
-38,Creature,Common,Magi
-39,Enchantment,Common,Shade
-40,Spell,Common,Torment
-41,Creature,Legendary,Earth Undead Orge of the Swamp
-42,Enchantment,Rare,Hateful Flight
-43,Creature,Rare,Aura Merchant Skin-Walker
-44,Creature,Common,Ghoul
+==================,DECK,4573
+0,Creature,Dark Queen Kraken
+1,Creature,Magi
+2,Spell,Instant Shimmering Vortex
+3,Creature,Troll
+4,Artifact,Ardent Life Boots
+5,Enchantment,Blight
+6,Creature,Spider
+7,Creature,Snow Ancient Demon of Hate
+8,Creature,Earth Lord Kraken
+9,Creature,Skin-Walker
+10,Creature,Frozen Assassin Cyclops
+11,Spell,Oblivion Fury
+12,Creature,Snow Monk Orc
+13,Creature,Magi
+14,Creature,Frozen Merchant Kraken
+15,Creature,Light Queen Griffin
+16,Enchantment,Agony
+17,Spell,Torment
+18,Enchantment,Haste
+19,Enchantment,Dire Miracle Firebreath
+20,Artifact,Ring
+21,Creature,Fairy
+22,Creature,Warlock
+23,Creature,Berserker
+24,Spell,Stun
+25,Creature,Aura Priest Goblin
+26,Creature,Skin-Walker
+27,Enchantment,Victory Blight
+28,Creature,Paladin
+29,Enchantment,Chimeric Firebreath
+30,Spell,Corpse Torment
+31,Spell,Zealous Forged Fire
+32,Creature,Magi
+33,Spell,Zealous Apocalypse Tempest
+34,Creature,Death Thief Ogre of the Border
+35,Artifact,Boots
+36,Creature,Dark Warrior Ogre of the Eastern Skies
+37,Enchantment,Corpse Lethargy
+38,Creature,Fairy
+39,Enchantment,Alacrity
+40,Spell,Stricken
+41,Creature,Earth Undead Elf of the Swamp
+42,Enchantment,Lunar Shrink
+43,Creature,Aura Merchant Orc
+44,Creature,Ghoul

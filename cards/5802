@@ -1,46 +1,46 @@
-==================,DECK,5802,Medium
-0,Creature,Common,Ghoul
-1,Creature,Rare,Earth Priest Hydra
-2,Enchantment,Rare,Solar Invert
-3,Spell,Common,Vortex
-4,Spell,Common,Gale
-5,Creature,Legendary,Dark King Giant of the Black Stone
-6,Artifact,Common,Tome
-7,Spell,Common,Torment
-8,Spell,Common,Assault
-9,Creature,Common,Goblin
-10,Enchantment,Rare,Solar Shield
-11,Creature,Common,Warlock
-12,Creature,Mythic,Earth Undead Phoenix of the Shadows
-13,Artifact,Common,Potion
-14,Creature,Mythic,Death Nameless Dragon of the Dead
-15,Spell,Common,Torment
-16,Enchantment,Legendary,Extreme Age
-17,Creature,Rare,Light Knight Minotaur
-18,Creature,Common,Orc
-19,Spell,Legendary,Clever Infuriate
-20,Spell,Rare,Hateful Stricken
-21,Creature,Rare,Frozen Monk Berserker
-22,Creature,Common,Elf
-23,Enchantment,Common,Drain
-24,Creature,Common,Paladin
-25,Creature,Rare,Death King Griffin
-26,Enchantment,Common,Shade
-27,Creature,Rare,Death Rogue Griffin
-28,Creature,Rare,Snow Merchant Fairy
-29,Spell,Common,Revive
-30,Artifact,Common,Sigil
-31,Creature,Common,Orc
-32,Creature,Common,Magi
-33,Enchantment,Common,Lethargy
-34,Artifact,Common,Gloves
-35,Creature,Common,Elf
-36,Creature,Legendary,Earth Undead Oni of the Black Stone
-37,Spell,Common,Freeze
-38,Artifact,Common,Tome
-39,Enchantment,Legendary,Mighty Shade
-40,Creature,Common,Orc
-41,Creature,Legendary,Light Knight Kraken of the Golden Palace
-42,Creature,Common,Eagle
-43,Creature,Legendary,Snow Rogue Giant of the Eastern Skies
-44,Spell,Common,Hypnosis
+==================,DECK,5802
+0,Creature,Ghoul
+1,Creature,Earth Priest Hydra
+2,Enchantment,Shimmering Age
+3,Spell,Maelstrom
+4,Spell,Ice
+5,Creature,Dark King Dwarf of the Black Stone
+6,Artifact,Tome
+7,Spell,Fire
+8,Spell,Fire
+9,Creature,Skin-Walker
+10,Enchantment,Nature Strength
+11,Creature,Berserker
+12,Creature,Earth Undead Phoenix of the Shadows
+13,Artifact,Potion
+14,Creature,Death Nameless Dragon of the Dead
+15,Spell,Maelstrom
+16,Enchantment,Potent Gloom Shrink
+17,Creature,Light Knight Cyclops
+18,Creature,Spider
+19,Spell,Clever Life Burst
+20,Spell,Sorrow Fury
+21,Creature,Frozen Monk Goblin
+22,Creature,Warlock
+23,Enchantment,Firebreath
+24,Creature,Troll
+25,Creature,Death King Griffin
+26,Enchantment,Deathgrip
+27,Creature,Death Rogue Griffin
+28,Creature,Snow Merchant Kraken
+29,Spell,Gale
+30,Artifact,Sigil
+31,Creature,Spider
+32,Creature,Fairy
+33,Enchantment,Age
+34,Artifact,Gloves
+35,Creature,Warlock
+36,Creature,Earth Undead Oni of the Black Stone
+37,Spell,Wall
+38,Artifact,Tome
+39,Enchantment,Irate Chimeric Alacrity
+40,Creature,Spider
+41,Creature,Light Knight Ogre of the Golden Palace
+42,Creature,Eagle
+43,Creature,Snow Rogue Dwarf of the Eastern Skies
+44,Spell,Fire

@@ -1,46 +1,46 @@
-==================,DECK,7455,Light
-0,Creature,Common,Wolf
-1,Enchantment,Common,Lethargy
-2,Spell,Rare,Apocalypse Pandemonium
-3,Enchantment,Common,Shade
-4,Creature,Common,Wolf
-5,Creature,Common,Dwarf
-6,Creature,Rare,Frozen Warrior Hydra
-7,Enchantment,Mythic,Clever Drain
-8,Spell,Legendary,Mighty Burst
-9,Creature,Common,Goblin
-10,Spell,Common,Revive
-11,Enchantment,Common,Strength
-12,Creature,Mythic,Death Ancient Wizard of the Dead
-13,Creature,Common,Goblin
-14,Creature,Rare,Snow Undead Skin-Walker
-15,Artifact,Common,Potion
-16,Creature,Common,Ghoul
-17,Artifact,Rare,Frigid Amulet
-18,Creature,Common,Goblin
-19,Artifact,Common,Shield
-20,Spell,Common,Freeze
-21,Enchantment,Common,Flight
-22,Creature,Common,Paladin
-23,Creature,Rare,Light Queen Berserker
-24,Enchantment,Common,Strength
-25,Spell,Common,Maelstrom
-26,Enchantment,Common,Shield
-27,Creature,Common,Dwarf
-28,Creature,Common,Spider
-29,Creature,Common,Goblin
-30,Spell,Common,Stricken
-31,Creature,Common,Orc
-32,Spell,Rare,Dark Torment
-33,Enchantment,Common,Shade
-34,Spell,Rare,Forged Torment
-35,Creature,Rare,Dark Knight Fairy
-36,Enchantment,Mythic,Potent Shade
-37,Creature,Common,Goblin
-38,Enchantment,Rare,Life Shrink
-39,Creature,Common,Orc
-40,Spell,Common,Frenzy
-41,Enchantment,Common,Agony
-42,Creature,Rare,Aura Warrior Griffin
-43,Creature,Legendary,Earth Knight Giant of the West
-44,Enchantment,Common,Blight
+==================,DECK,7455
+0,Creature,Wolf
+1,Enchantment,Deathgrip
+2,Spell,Victory Assault
+3,Enchantment,Firebreath
+4,Creature,Wolf
+5,Creature,Magi
+6,Creature,Frozen Warrior Hydra
+7,Enchantment,Clever Apocalypse Haste
+8,Spell,Empyrean Dark Hypnosis
+9,Creature,Skin-Walker
+10,Spell,Vortex
+11,Enchantment,Shade
+12,Creature,Death Ancient Wizard of the Dead
+13,Creature,Skin-Walker
+14,Creature,Snow Undead Orc
+15,Artifact,Potion
+16,Creature,Ghoul
+17,Artifact,Grim Amulet
+18,Creature,Skin-Walker
+19,Artifact,Shield
+20,Spell,Invisibility
+21,Enchantment,Agony
+22,Creature,Troll
+23,Creature,Light Queen Goblin
+24,Enchantment,Deathgrip
+25,Spell,Maelstrom
+26,Enchantment,Haste
+27,Creature,Magi
+28,Creature,Paladin
+29,Creature,Skin-Walker
+30,Spell,Reanimate
+31,Creature,Spider
+32,Spell,Sorrow Frost
+33,Enchantment,Agony
+34,Spell,Chimeric Invisibility
+35,Creature,Dark Knight Kraken
+36,Enchantment,Ardent Frigid Haste
+37,Creature,Skin-Walker
+38,Enchantment,Frigid Invert
+39,Creature,Spider
+40,Spell,Stricken
+41,Enchantment,Age
+42,Creature,Aura Warrior Griffin
+43,Creature,Earth Knight Dwarf of the West
+44,Enchantment,Blight

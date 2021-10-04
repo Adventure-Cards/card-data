@@ -1,46 +1,46 @@
-==================,DECK,7987,Medium
-0,Enchantment,Common,Shade
-1,Creature,Legendary,Dark Merchant Oni of the Swamp
-2,Creature,Rare,Earth King Skin-Walker
-3,Enchantment,Legendary,Dire Lethargy
-4,Creature,Common,Elf
-5,Creature,Common,Orc
-6,Artifact,Rare,Gloom Staff
-7,Creature,Legendary,Dark Undead Giant of the Frozen Castle
-8,Creature,Rare,Earth Knight Berserker
-9,Enchantment,Rare,Hateful Blight
-10,Spell,Common,Infuriate
-11,Spell,Legendary,Clever Gravitation
-12,Creature,Rare,Aura Fighter Hydra
-13,Enchantment,Common,Blight
-14,Spell,Common,Revive
-15,Artifact,Legendary,Urgent Belt
-16,Creature,Rare,Light Queen Fairy
-17,Spell,Legendary,Angry Stricken
-18,Enchantment,Mythic,Urgent Deathgrip
-19,Artifact,Common,Staff
-20,Creature,Common,Spider
-21,Enchantment,Common,Agony
-22,Spell,Rare,Oblivion Frost
-23,Creature,Common,Magi
-24,Creature,Common,Goblin
-25,Creature,Common,Elf
-26,Creature,Rare,Dark Fighter Skin-Walker
-27,Artifact,Rare,Apocalypse Divine Robe
-28,Spell,Rare,Hateful Ice
-29,Spell,Common,Sorrow
-30,Artifact,Common,Pendant
-31,Creature,Common,Ghoul
-32,Spell,Common,Freeze
-33,Enchantment,Common,Flight
-34,Creature,Common,Orc
-35,Spell,Rare,Forged Lightning
-36,Spell,Common,Sorrow
-37,Creature,Rare,Aura Undead Fairy
-38,Spell,Common,Invisibility
-39,Creature,Rare,Snow Fighter Berserker
-40,Creature,Rare,Snow King Skin-Walker
-41,Enchantment,Legendary,Mighty Drain
-42,Artifact,Legendary,Dire Amulet
-43,Creature,Mythic,Earth Time Dragon of the Shadows
-44,Artifact,Rare,Nimble Bracers
+==================,DECK,7987
+0,Enchantment,Shield
+1,Creature,Dark Merchant Oni of the Swamp
+2,Creature,Earth King Orc
+3,Enchantment,Dire Grim Shade
+4,Creature,Warlock
+5,Creature,Spider
+6,Artifact,Gloom Staff
+7,Creature,Dark Undead Dwarf of the Frozen Castle
+8,Creature,Earth Knight Goblin
+9,Enchantment,Cataclysmic Shield
+10,Spell,Sorrow
+11,Spell,Ardent Victory Frenzy
+12,Creature,Aura Fighter Hydra
+13,Enchantment,Lethargy
+14,Spell,Reanimate
+15,Artifact,Dire Corpse Belt
+16,Creature,Light Queen Kraken
+17,Spell,Zealous Cataclysmic Pandemonium
+18,Enchantment,Clever Shimmering Lethargy
+19,Artifact,Staff
+20,Creature,Paladin
+21,Enchantment,Blight
+22,Spell,Oblivion Assault
+23,Creature,Fairy
+24,Creature,Skin-Walker
+25,Creature,Warlock
+26,Creature,Dark Fighter Orc
+27,Artifact,Nimble Divine Robe
+28,Spell,Dark Ice
+29,Spell,Freeze
+30,Artifact,Pendant
+31,Creature,Ghoul
+32,Spell,Fireball
+33,Enchantment,Drain
+34,Creature,Spider
+35,Spell,Miracle Fire
+36,Spell,Stun
+37,Creature,Aura Undead Kraken
+38,Spell,Assault
+39,Creature,Snow Fighter Goblin
+40,Creature,Snow King Orc
+41,Enchantment,Zealous Dark Alacrity
+42,Artifact,Mighty Nimble Amulet
+43,Creature,Earth Time Dragon of the Shadows
+44,Artifact,Necro Bracers

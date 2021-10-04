@@ -1,46 +1,46 @@
-==================,DECK,4757,Light
-0,Creature,Common,Magi
-1,Enchantment,Rare,Lunar Drain
-2,Creature,Common,Warlock
-3,Artifact,Rare,Nimble Helmet
-4,Creature,Common,Warlock
-5,Enchantment,Legendary,Intense Deathgrip
-6,Creature,Common,Orc
-7,Enchantment,Common,Haste
-8,Enchantment,Common,Blight
-9,Creature,Common,Elf
-10,Creature,Common,Elf
-11,Artifact,Common,Scythe
-12,Enchantment,Common,Age
-13,Creature,Common,Orc
-14,Enchantment,Common,Age
-15,Enchantment,Common,Drain
-16,Creature,Common,Wolf
-17,Spell,Common,Ice
-18,Creature,Common,Warlock
-19,Creature,Common,Orc
-20,Creature,Common,Dwarf
-21,Creature,Common,Goblin
-22,Creature,Common,Wolf
-23,Creature,Common,Orc
-24,Enchantment,Common,Haste
-25,Creature,Legendary,Earth Warrior Giant of the Mountains
-26,Creature,Legendary,Death Merchant Kraken of the West
-27,Enchantment,Common,Drain
-28,Creature,Common,Eagle
-29,Spell,Common,Burst
-30,Creature,Common,Wolf
-31,Spell,Common,Gravitation
-32,Creature,Legendary,Aura Monk Oni of the Haven
-33,Creature,Common,Spider
-34,Creature,Common,Dwarf
-35,Creature,Common,Warlock
-36,Creature,Common,Spider
-37,Spell,Rare,Shimmering Sorrow
-38,Creature,Common,Goblin
-39,Spell,Common,Sorrow
-40,Spell,Common,Invisibility
-41,Spell,Common,Lightning
-42,Enchantment,Rare,Hateful Drain
-43,Creature,Common,Ghoul
-44,Creature,Common,Spider
+==================,DECK,4757
+0,Creature,Fairy
+1,Enchantment,Dark Flight
+2,Creature,Berserker
+3,Artifact,Corpse Helmet
+4,Creature,Berserker
+5,Enchantment,Clever Shimmering Lethargy
+6,Creature,Spider
+7,Enchantment,Alacrity
+8,Enchantment,Firebreath
+9,Creature,Warlock
+10,Creature,Warlock
+11,Artifact,Scythe
+12,Enchantment,Blight
+13,Creature,Spider
+14,Enchantment,Deathgrip
+15,Enchantment,Firebreath
+16,Creature,Wolf
+17,Spell,Frost
+18,Creature,Berserker
+19,Creature,Spider
+20,Creature,Magi
+21,Creature,Skin-Walker
+22,Creature,Wolf
+23,Creature,Spider
+24,Enchantment,Age
+25,Creature,Earth Warrior Dwarf of the Mountains
+26,Creature,Death Merchant Ogre of the West
+27,Enchantment,Agony
+28,Creature,Eagle
+29,Spell,Pandemonium
+30,Creature,Wolf
+31,Spell,Fury
+32,Creature,Aura Monk Oni of the Haven
+33,Creature,Paladin
+34,Creature,Magi
+35,Creature,Berserker
+36,Creature,Paladin
+37,Spell,Hateful Frenzy
+38,Creature,Skin-Walker
+39,Spell,Wall
+40,Spell,Rage
+41,Spell,Fire
+42,Enchantment,Dark Shield
+43,Creature,Ghoul
+44,Creature,Paladin

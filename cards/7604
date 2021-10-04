@@ -1,46 +1,46 @@
-==================,DECK,7604,Light
-0,Creature,Mythic,Aura Nameless Phoenix of the Light
-1,Artifact,Common,Bow
-2,Creature,Common,Dwarf
-3,Spell,Common,Gravitation
-4,Creature,Legendary,Frozen Lord Oni of the Arctic Blizzards
-5,Spell,Common,Gale
-6,Spell,Rare,Cataclysmic Hypnosis
-7,Spell,Common,Wall
-8,Spell,Legendary,Clever Gale
-9,Enchantment,Common,Lethargy
-10,Spell,Common,Heal
-11,Enchantment,Mythic,Dire Haste
-12,Artifact,Common,Bow
-13,Creature,Common,Goblin
-14,Spell,Common,Infuriate
-15,Spell,Common,Wall
-16,Spell,Common,Heal
-17,Artifact,Common,Cloak
-18,Enchantment,Common,Lethargy
-19,Creature,Common,Paladin
-20,Artifact,Rare,Shimmering Helmet
-21,Spell,Common,Rage
-22,Enchantment,Common,Lethargy
-23,Spell,Common,Stun
-24,Creature,Common,Goblin
-25,Enchantment,Mythic,Angry Shrink
-26,Creature,Common,Elf
-27,Spell,Rare,Dark Invisibility
-28,Creature,Common,Spider
-29,Enchantment,Mythic,Mighty Blight
-30,Creature,Legendary,Frozen Assassin Giant of the West
-31,Creature,Legendary,Aura King Oni of the Eastern Skies
-32,Creature,Common,Wolf
-33,Enchantment,Common,Haste
-34,Spell,Common,Invisibility
-35,Creature,Common,Eagle
-36,Creature,Common,Goblin
-37,Creature,Common,Wolf
-38,Spell,Common,Ice
-39,Enchantment,Common,Lethargy
-40,Creature,Common,Wolf
-41,Creature,Rare,Frozen Merchant Skin-Walker
-42,Creature,Rare,Snow Knight Skin-Walker
-43,Creature,Legendary,Earth Queen Oni of the Bright Mountains
-44,Spell,Rare,Grim Frost
+==================,DECK,7604
+0,Creature,Aura Nameless Phoenix of the Light
+1,Artifact,Bow
+2,Creature,Magi
+3,Spell,Infuriate
+4,Creature,Frozen Lord Oni of the Arctic Blizzards
+5,Spell,Frenzy
+6,Spell,Lunar Torment
+7,Spell,Wall
+8,Spell,Potent Victory Hypnosis
+9,Enchantment,Blight
+10,Spell,Lightning
+11,Enchantment,Mighty Life Invert
+12,Artifact,Bow
+13,Creature,Skin-Walker
+14,Spell,Sorrow
+15,Spell,Gravitation
+16,Spell,Vortex
+17,Artifact,Cloak
+18,Enchantment,Firebreath
+19,Creature,Troll
+20,Artifact,Hateful Helmet
+21,Spell,Assault
+22,Enchantment,Deathgrip
+23,Spell,Wall
+24,Creature,Skin-Walker
+25,Enchantment,Empyrean Chimeric Firebreath
+26,Creature,Warlock
+27,Spell,Chimeric Sorrow
+28,Creature,Paladin
+29,Enchantment,Potent Cataclysmic Shrink
+30,Creature,Frozen Assassin Dwarf of the West
+31,Creature,Aura King Oni of the Eastern Skies
+32,Creature,Wolf
+33,Enchantment,Strength
+34,Spell,Infuriate
+35,Creature,Eagle
+36,Creature,Skin-Walker
+37,Creature,Wolf
+38,Spell,Lightning
+39,Enchantment,Deathgrip
+40,Creature,Wolf
+41,Creature,Frozen Merchant Orc
+42,Creature,Snow Knight Orc
+43,Creature,Earth Queen Oni of the Bright Mountains
+44,Spell,Grim Fury

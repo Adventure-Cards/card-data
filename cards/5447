@@ -1,46 +1,46 @@
-==================,DECK,5447,Medium
-0,Creature,Legendary,Earth Monk Orge of the Eternal Land
-1,Creature,Legendary,Aura Merchant Giant of the Bright Mountains
-2,Enchantment,Common,Strength
-3,Creature,Rare,Earth Undead Skin-Walker
-4,Creature,Rare,Aura Warrior Hydra
-5,Artifact,Rare,Oblivion Cloak
-6,Creature,Common,Orc
-7,Spell,Common,Ice
-8,Creature,Common,Eagle
-9,Creature,Rare,Snow Undead Skin-Walker
-10,Creature,Rare,Frozen Monk Griffin
-11,Creature,Common,Orc
-12,Enchantment,Mythic,Urgent Shade
-13,Creature,Legendary,Death Monk Kraken of the Mountains
-14,Creature,Legendary,Frozen Lord Cyclops of the West
-15,Creature,Common,Warlock
-16,Creature,Common,Ghoul
-17,Artifact,Common,Helm
-18,Spell,Rare,Oblivion Torment
-19,Enchantment,Rare,Lunar Haste
-20,Enchantment,Common,Shield
-21,Creature,Mythic,Dark Nameless Phoenix of Illusion
-22,Enchantment,Rare,Lunar Blight
-23,Creature,Rare,Light Rogue Fairy
-24,Creature,Rare,Dark Warrior Minotaur
-25,Creature,Common,Warlock
-26,Creature,Rare,Dark Lord Berserker
-27,Enchantment,Legendary,Urgent Agony
-28,Creature,Common,Paladin
-29,Creature,Rare,Snow King Skin-Walker
-30,Spell,Rare,Necro Pandemonium
-31,Spell,Common,Frost
-32,Spell,Common,Hypnosis
-33,Creature,Common,Wolf
-34,Creature,Rare,Earth Lord Skin-Walker
-35,Spell,Common,Burn
-36,Artifact,Common,Gloves
-37,Artifact,Common,Gloves
-38,Spell,Common,Invisibility
-39,Artifact,Rare,Grim Potion
-40,Creature,Legendary,Aura Lord Kraken of the Eternal Land
-41,Spell,Common,Heal
-42,Enchantment,Legendary,Clever Blight
-43,Spell,Common,Gale
-44,Creature,Common,Ghoul
+==================,DECK,5447
+0,Creature,Earth Monk Elf of the Eternal Land
+1,Creature,Aura Merchant Dwarf of the Bright Mountains
+2,Enchantment,Strength
+3,Creature,Earth Undead Orc
+4,Creature,Aura Warrior Hydra
+5,Artifact,Oblivion Cloak
+6,Creature,Spider
+7,Spell,Gale
+8,Creature,Eagle
+9,Creature,Snow Undead Orc
+10,Creature,Frozen Monk Griffin
+11,Creature,Spider
+12,Enchantment,Instant Necro Strength
+13,Creature,Death Monk Ogre of the Mountains
+14,Creature,Frozen Lord Giant of the West
+15,Creature,Berserker
+16,Creature,Ghoul
+17,Artifact,Helm
+18,Spell,Victory Pandemonium
+19,Enchantment,Miracle Alacrity
+20,Enchantment,Lethargy
+21,Creature,Dark Nameless Phoenix of Illusion
+22,Enchantment,Cataclysmic Shrink
+23,Creature,Light Rogue Kraken
+24,Creature,Dark Warrior Cyclops
+25,Creature,Berserker
+26,Creature,Dark Lord Goblin
+27,Enchantment,Irate Corpse Deathgrip
+28,Creature,Troll
+29,Creature,Snow King Orc
+30,Spell,Solar Hypnosis
+31,Spell,Hypnosis
+32,Spell,Fire
+33,Creature,Wolf
+34,Creature,Earth Lord Orc
+35,Spell,Burst
+36,Artifact,Gloves
+37,Artifact,Gloves
+38,Spell,Pandemonium
+39,Artifact,Apocalypse Potion
+40,Creature,Aura Lord Ogre of the Eternal Land
+41,Spell,Stun
+42,Enchantment,Mighty Nimble Invert
+43,Spell,Gravitation
+44,Creature,Ghoul
